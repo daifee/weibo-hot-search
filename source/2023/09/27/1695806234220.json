@@ -1,0 +1,410 @@
+{
+  "runTime": 1695806234220,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2580830,
+        "num": 2580830,
+        "word": "华为上架1999元手机壳",
+        "onboard_time": 1695803074,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1288609,
+        "num": 1288609,
+        "word": "CoCo奶茶道歉",
+        "onboard_time": 1695797435,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 77276,
+        "num": 1061786,
+        "word": "网络中国节",
+        "onboard_time": 1695803793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 989951,
+        "num": 989951,
+        "word": "offer5 8点下班的工作没人做",
+        "onboard_time": 1695805115,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 961071,
+        "num": 961071,
+        "word": "晨光文具主播卖铅笔把不贵写脸上",
+        "onboard_time": 1695802055,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 879818,
+        "num": 879818,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 673561,
+        "num": 673561,
+        "word": "论文太干净了我舍不得碰",
+        "onboard_time": 1695799716,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 626106,
+        "num": 626106,
+        "word": "张杰亚运金牌",
+        "onboard_time": 1695804394,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606989,
+        "num": 606989,
+        "word": "郭晶晶霍启刚太好磕了",
+        "onboard_time": 1695803616,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588921,
+        "num": 588921,
+        "word": "中秋礼物已经那么卷了吗",
+        "onboard_time": 1695803494,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 895185,
+        "num": 575871,
+        "word": "吴昕是穿了睡裤去巴黎吗",
+        "onboard_time": 1695799716,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256083,
+        "num": 569300,
+        "word": "你以后还会买花西子吗",
+        "onboard_time": 1695799138,
+        "rank": 11,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 251872,
+        "num": 559716,
+        "word": "从羞于说父亲是兽医到为父亲拍视频",
+        "onboard_time": 1695798277,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165965,
+        "num": 537860,
+        "word": "00后小将张杰滑板男子街式摘金",
+        "onboard_time": 1695801217,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50941,
+        "num": 532136,
+        "word": "微博音乐盛典原生大片",
+        "onboard_time": 1695805237,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 729283,
+        "num": 513124,
+        "word": "西安巨响",
+        "onboard_time": 1695795101,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721507,
+        "num": 498503,
+        "word": "张馨予要消失一下",
+        "onboard_time": 1695799837,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496585,
+        "num": 496585,
+        "word": "左彤好稳",
+        "onboard_time": 1695805774,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 462542,
+        "num": 462542,
+        "word": "吴青峰发文批评演唱会手机海",
+        "onboard_time": 1695785736,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 403682,
+        "num": 403682,
+        "word": "吃一块月饼相当于吃3碗米饭",
+        "onboard_time": 1695804454,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 395669,
+        "num": 395669,
+        "word": "恋综史上最令人窒息男嘉宾",
+        "onboard_time": 1695790420,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394180,
+        "num": 394180,
+        "word": "花西子 公关",
+        "onboard_time": 1695795101,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 345539,
+        "num": 345539,
+        "word": "阿迪达斯回应宣传图将文物踩在脚下",
+        "onboard_time": 1695804274,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342528,
+        "num": 342528,
+        "word": "张小斐离了跟我行不行",
+        "onboard_time": 1695803735,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297405,
+        "num": 297405,
+        "word": "五月天谁抢到了 我要闹了",
+        "onboard_time": 1695798037,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 290472,
+        "num": 290472,
+        "word": "英雄联盟",
+        "onboard_time": 1695801516,
+        "rank": 25,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 287335,
+        "num": 287335,
+        "word": "郑爽上诉被驳回",
+        "onboard_time": 1695795275,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283030,
+        "num": 283030,
+        "word": "上海平均招聘月薪达13492元",
+        "onboard_time": 1695805176,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 241039,
+        "num": 241039,
+        "word": "赵丽颖申请强制黑粉道歉",
+        "onboard_time": 1695792457,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222157,
+        "num": 222157,
+        "word": "张智霖袁咏仪儿子ins道歉",
+        "onboard_time": 1695778238,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221159,
+        "num": 221159,
+        "word": "田嘉瑞录hi6是综艺首秀",
+        "onboard_time": 1695802835,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218247,
+        "num": 218247,
+        "word": "六公主国庆片单赢麻了",
+        "onboard_time": 1695797136,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209810,
+        "num": 209810,
+        "word": "阿迪达斯商品图将文物踩脚下",
+        "onboard_time": 1695804101,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191255,
+        "num": 191255,
+        "word": "章瑾掉杠三次",
+        "onboard_time": 1695801875,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186256,
+        "num": 186256,
+        "word": "王乐君否认做手术医院是胡歌找的",
+        "onboard_time": 1695794616,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171299,
+        "num": 171299,
+        "word": "专家认为大同欺凌事件属于性强暴",
+        "onboard_time": 1695792517,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170982,
+        "num": 170982,
+        "word": "杨紫我们的美好生活路透",
+        "onboard_time": 1695800674,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168219,
+        "num": 168219,
+        "word": "爱宝记得福宝",
+        "onboard_time": 1695797676,
+        "rank": 37,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 159486,
+        "num": 159486,
+        "word": "只有选角超级完美才敢这样拍海报",
+        "onboard_time": 1695804693,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152183,
+        "num": 152183,
+        "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
+        "onboard_time": 1695795216,
+        "rank": 39,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 152145,
+        "num": 152145,
+        "word": "咒术回战 宿傩回战",
+        "onboard_time": 1695793956,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 150150,
+        "num": 150150,
+        "word": "云为衫名场面大赏",
+        "onboard_time": 1695805955,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149429,
+        "num": 149429,
+        "word": "郑爽仍有千万欠款未履行",
+        "onboard_time": 1695785736,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140979,
+        "num": 140979,
+        "word": "鹿晗时间停了发行五周年",
+        "onboard_time": 1695801157,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135726,
+        "num": 135726,
+        "word": "杨幂说能不能飞关键在我不在翅膀",
+        "onboard_time": 1695798758,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132314,
+        "num": 132314,
+        "word": "全红婵赛前训练表演炸鱼",
+        "onboard_time": 1695799057,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129777,
+        "num": 129777,
+        "word": "张嘉倪演江喜暴瘦",
+        "onboard_time": 1695800376,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119804,
+        "num": 119804,
+        "word": "中秋月饼",
+        "onboard_time": 1695804693,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 117168,
+        "num": 117168,
+        "word": "原来午睡都进化成这样了",
+        "onboard_time": 1695796358,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116159,
+        "num": 116159,
+        "word": "井胧井迪离婚风穿搭",
+        "onboard_time": 1695799298,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
