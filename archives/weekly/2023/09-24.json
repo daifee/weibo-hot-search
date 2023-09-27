@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695825279698,
+  "endTime": 1695827931791,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -707,11 +707,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1315866,
+      "num": 1315866,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1695820173,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1314737,
       "num": 1314737,
       "word": "女儿用父亲600块买的整只牛头做火锅",
       "onboard_time": 1695817412,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1291582,
+      "num": 1291582,
+      "word": "多家医院关闭产科",
+      "onboard_time": 1695826837,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -1859,6 +1875,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 739029,
+      "num": 739029,
+      "word": "母亲去世女子想推迟结婚被判退彩礼",
+      "onboard_time": 1695823538,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736472,
       "num": 444645,
       "word": "黄景瑜回复张婧仪",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1695475483,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 672688,
+      "num": 303192,
+      "word": "明天下午发的朋友圈",
+      "onboard_time": 1695824619,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 671518,
@@ -2833,6 +2865,14 @@
       "onboard_time": 1695646657,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 552335,
+      "num": 552335,
+      "word": "权志龙疑签约华纳唱片",
+      "onboard_time": 1695825939,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 552116,
@@ -3691,14 +3731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454018,
-      "num": 369168,
-      "word": "母亲去世女子想推迟结婚被判退彩礼",
-      "onboard_time": 1695823538,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 453963,
       "num": 1629547,
       "word": "西湖边这碗面吸引了郭晶晶白岩松打卡",
@@ -3899,14 +3931,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 429253,
-      "num": 297019,
-      "word": "明天下午发的朋友圈",
-      "onboard_time": 1695824619,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 428522,
       "num": 428522,
       "word": "五月天突然好想你雨中氛围感",
@@ -3969,6 +3993,14 @@
       "onboard_time": 1695742838,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 417533,
+      "num": 400606,
+      "word": "张嘉倪和素人合照",
+      "onboard_time": 1695826477,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 416065,
@@ -4067,6 +4099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 406750,
+      "num": 397229,
+      "word": "坚如磐石首映礼好多人啊",
+      "onboard_time": 1695826962,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 405011,
       "num": 405011,
       "word": "爱宝记得福宝",
@@ -4105,6 +4145,22 @@
       "onboard_time": 1695565061,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 401027,
+      "num": 401027,
+      "word": "邓紫棋 巡演",
+      "onboard_time": 1695826962,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 399799,
+      "num": 302243,
+      "word": "虞书欣 饿晕噜",
+      "onboard_time": 1695826236,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 397173,
@@ -4161,6 +4217,14 @@
       "onboard_time": 1695789878,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390293,
+      "num": 390293,
+      "word": "白鹿喻言同场看秀",
+      "onboard_time": 1695827319,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 389169,
@@ -4547,6 +4611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352574,
+      "num": 352574,
+      "word": "出轨男卫明提离婚独吞家产",
+      "onboard_time": 1695827377,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 352107,
       "num": 352107,
       "word": "王俊凯巴黎时装周造型",
@@ -4641,6 +4713,14 @@
       "onboard_time": 1695563139,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340258,
+      "num": 340258,
+      "word": "张艺兴张鲁一同框",
+      "onboard_time": 1695827196,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 339863,
@@ -5371,6 +5451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297214,
+      "num": 297214,
+      "word": "娜扎水原希子合照",
+      "onboard_time": 1695825578,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 297009,
       "num": 297009,
       "word": "曾舜晞也走不出莲花楼",
@@ -5793,6 +5881,14 @@
       "onboard_time": 1695538171,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 276742,
+      "num": 276742,
+      "word": "中国队4天已收获140枚奖牌",
+      "onboard_time": 1695826118,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 276045,
@@ -6564,7 +6660,7 @@
     },
     {
       "raw_hot": 244223,
-      "num": 354691,
+      "num": 395094,
       "word": "中国队男女4×100米混接力金牌",
       "onboard_time": 1695822342,
       "rank": 13,
@@ -6921,6 +7017,14 @@
       "onboard_time": 1695480639,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 229116,
+      "num": 164676,
+      "word": "心动的信号",
+      "onboard_time": 1695827677,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 228618,
@@ -9483,6 +9587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165643,
+      "num": 132858,
+      "word": "黄景瑜扫楼遇到社交悍匪",
+      "onboard_time": 1695825275,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165304,
       "num": 165304,
       "word": "凡人修仙传凡人不凡海报",
@@ -9961,6 +10073,14 @@
       "onboard_time": 1695687154,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 153274,
+      "num": 153274,
+      "word": "吕洞宾月饼售罄",
+      "onboard_time": 1695826962,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 153094,
@@ -10491,6 +10611,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 137634,
+      "num": 137634,
+      "word": "网友看奥尼尔直播潸然落泪",
+      "onboard_time": 1695825637,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137536,
       "num": 137536,
       "word": "7旬父母连续8年给开公交儿子送饭",
@@ -10705,6 +10833,14 @@
       "onboard_time": 1695695670,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130623,
+      "num": 133434,
+      "word": "许昌消防的月饼也太卷了",
+      "onboard_time": 1695825341,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129605,
@@ -11969,6 +12105,14 @@
       "onboard_time": 1695663021,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 34936,
+      "num": 392701,
+      "word": "非凡大师降临新浪总部",
+      "onboard_time": 1695826898,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 34773,
