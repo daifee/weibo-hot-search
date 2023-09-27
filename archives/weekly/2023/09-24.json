@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695785650298,
+  "endTime": 1695788422172,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -203,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2176611,
+      "num": 2176611,
+      "word": "吴青峰发文批评演唱会手机海",
+      "onboard_time": 1695785736,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2164362,
       "num": 2164362,
       "word": "夫妻爬泰山将孩子独留车内4小时",
@@ -265,6 +273,14 @@
       "onboard_time": 1695562898,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1839805,
+      "num": 1839805,
+      "word": "郑爽仍有千万欠款未履行",
+      "onboard_time": 1695785736,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1807661,
@@ -1683,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 702190,
+      "num": 486188,
+      "word": "张柏芝L型腮红",
+      "onboard_time": 1695786213,
+      "rank": 10,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 697529,
       "num": 697529,
       "word": "这身材谁看了不迷糊",
@@ -2115,6 +2139,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 608337,
+      "num": 608337,
+      "word": "CoCo 周边要钱",
+      "onboard_time": 1695784712,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 608235,
+      "num": 608235,
+      "word": "林俊杰拍张杰",
+      "onboard_time": 1695785074,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 603356,
       "num": 603356,
       "word": "我没票但不妨碍我来听演唱会",
@@ -2193,6 +2233,14 @@
       "onboard_time": 1695626076,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 586034,
+      "num": 586034,
+      "word": "叙利亚总统夫妇用中文道别",
+      "onboard_time": 1695784054,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 585502,
@@ -3083,6 +3131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463052,
+      "num": 463052,
+      "word": "央视中秋晚会嘉宾阵容",
+      "onboard_time": 1695785074,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461119,
       "num": 461119,
       "word": "孙艺洲回应爱情公寓全员黑化",
@@ -3307,6 +3363,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 434588,
+      "num": 434588,
+      "word": "13岁少女成中国最年轻亚运冠军",
+      "onboard_time": 1695785374,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434089,
       "num": 434089,
       "word": "我被假兵马俑骗哭了",
@@ -3321,14 +3385,6 @@
       "onboard_time": 1695723817,
       "rank": 19,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 433155,
-      "num": 433155,
-      "word": "叙利亚总统夫妇用中文道别",
-      "onboard_time": 1695784054,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428806,
@@ -3353,6 +3409,14 @@
       "onboard_time": 1695721655,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421293,
+      "num": 221608,
+      "word": "领导好像对茶水很满意",
+      "onboard_time": 1695787297,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 420068,
@@ -3595,14 +3659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380432,
-      "num": 380432,
-      "word": "CoCo 周边要钱",
-      "onboard_time": 1695784712,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 378615,
       "num": 635002,
       "word": "男孩下网约车后找不到家人教科书式操作",
@@ -3737,6 +3793,14 @@
       "onboard_time": 1695708639,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 365441,
+      "num": 295361,
+      "word": "大爷收到与陌生女子裸照被要封口费",
+      "onboard_time": 1695786816,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364511,
@@ -3913,14 +3977,6 @@
       "onboard_time": 1695736724,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338169,
-      "num": 429204,
-      "word": "央视中秋晚会嘉宾阵容",
-      "onboard_time": 1695785074,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 337773,
@@ -4755,6 +4811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284394,
+      "num": 284394,
+      "word": "张婧仪26秒绝美他拍",
+      "onboard_time": 1695787900,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283655,
       "num": 283655,
       "word": "大熊猫洗澡越洗越上头",
@@ -4969,14 +5033,6 @@
       "onboard_time": 1695638374,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 272145,
-      "num": 272145,
-      "word": "林俊杰拍张杰",
-      "onboard_time": 1695785074,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 271816,
@@ -5393,6 +5449,14 @@
       "onboard_time": 1695730000,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 252015,
+      "num": 252015,
+      "word": "月饼最好大家分着吃",
+      "onboard_time": 1695786875,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 250367,
@@ -5883,6 +5947,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 221780,
+      "num": 221780,
+      "word": "迪丽热巴夜景大片",
+      "onboard_time": 1695786935,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 221467,
       "num": 221467,
       "word": "美国编剧工会罢工结束",
@@ -5929,14 +6001,6 @@
       "onboard_time": 1695707678,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218603,
-      "num": 218603,
-      "word": "13岁少女成中国最年轻亚运冠军",
-      "onboard_time": 1695785374,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 218376,
@@ -6011,6 +6075,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 217352,
+      "num": 217352,
+      "word": "李健巡回演唱会官宣",
+      "onboard_time": 1695787717,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 217219,
       "num": 217219,
       "word": "地摊上发现一封几十年前的情书",
@@ -6033,6 +6105,14 @@
       "onboard_time": 1695645936,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216447,
+      "num": 216447,
+      "word": "朴彩英亮相巴黎时装周",
+      "onboard_time": 1695786335,
+      "rank": 32,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 216017,
@@ -6505,6 +6585,14 @@
       "onboard_time": 1695615097,
       "rank": 38,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 202748,
+      "num": 202748,
+      "word": "光与夜之恋全新资料片",
+      "onboard_time": 1695787655,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 202663,
@@ -8139,6 +8227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158839,
+      "num": 158839,
+      "word": "江苏95后男兽医做家政月入60万",
+      "onboard_time": 1695788318,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158174,
       "num": 158174,
       "word": "胡兵谷爱凌米兰同场走秀",
@@ -8443,6 +8539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 151407,
+      "num": 151407,
+      "word": "林双 凉水泡不开绿茶",
+      "onboard_time": 1695788318,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151281,
       "num": 151281,
       "word": "海鲜商韩杰被间谍女友投毒",
@@ -8577,6 +8681,14 @@
       "onboard_time": 1695711816,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 147905,
+      "num": 147905,
+      "word": "余佳运广州",
+      "onboard_time": 1695788376,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 147746,
@@ -9835,6 +9947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 68304,
+      "num": 1986404,
+      "word": "亚运赛场上这些00后真棒",
+      "onboard_time": 1695786034,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68283,
       "num": 2003023,
       "word": "亚运会今日看点",
@@ -10049,6 +10169,14 @@
       "onboard_time": 1695661762,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49289,
+      "num": 424664,
+      "word": "十一旅行计划是感受祖国温度",
+      "onboard_time": 1695787837,
+      "rank": 14,
+      "category": "旅游"
     },
     {
       "raw_hot": 48366,
@@ -10377,6 +10505,14 @@
       "onboard_time": 1695632855,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14129,
+      "num": 147775,
+      "word": "18万级高级数智新汽车新选择",
+      "onboard_time": 1695787356,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 13887,

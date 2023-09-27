@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 11:34:10
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 12:20:22
 </p>
 </blockquote>
 <p>
@@ -1473,6 +1473,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9D%92%E5%B3%B0%E5%8F%91%E6%96%87%E6%89%B9%E8%AF%84%E6%BC%94%E5%94%B1%E4%BC%9A%E6%89%8B%E6%9C%BA%E6%B5%B7%23" target="weibo">
+吴青峰发文批评演唱会手机海（热度：2176611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B900%E5%90%8E%E5%B7%B2%E7%BB%8F%E5%BC%80%E5%A7%8B%E7%A6%BB%E5%A9%9A%E4%BA%86%23" target="weibo">
 第一批00后已经开始离婚了（热度：2168003）
 </a>
@@ -2291,6 +2297,12 @@ iPhone15开卖（热度：1853247）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%B5%B7%E5%A4%96%E5%AF%B9%E6%A0%87%E5%A5%A2%E4%BE%88%E5%93%81%23" target="weibo">
 花西子海外对标奢侈品（热度：1839833）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E4%BB%8D%E6%9C%89%E5%8D%83%E4%B8%87%E6%AC%A0%E6%AC%BE%E6%9C%AA%E5%B1%A5%E8%A1%8C%23" target="weibo">
+郑爽仍有千万欠款未履行（热度：1839805）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E9%9A%BE%E7%9C%8B%E5%88%B0%E8%82%96%E6%88%98%E5%9C%A8%E7%BA%A2%E6%AF%AF%E4%B8%8A%E8%BF%99%E4%B9%88%E6%8B%98%E8%B0%A8%23" target="weibo">
 很难看到肖战在红毯上这么拘谨（热度：987342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%9E%97%E4%B8%80%E6%BC%94%E6%83%85%E4%BE%A3%23" target="weibo">
-刘亦菲林一演情侣（热度：986951）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%90%A6%E8%AE%A4%E5%B0%86%E4%B8%8B%E6%9E%B6%E7%BA%A2%E8%8C%B6%E4%BA%A7%E5%93%81%23" target="weibo">
-蜜雪冰城否认将下架红茶产品（热度：986112）
 </a>
 </li>
 
