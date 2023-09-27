@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695795774802,
+  "endTime": 1695796550573,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -128,6 +128,14 @@
       "word": "性教育专家谈大同校园性欺凌事件",
       "onboard_time": 1695704975,
       "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2700060,
+      "num": 613440,
+      "word": "西安巨响",
+      "onboard_time": 1695795101,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -259,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1988318,
+      "num": 629976,
+      "word": "绵阳巨响",
+      "onboard_time": 1695794135,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1947890,
       "num": 517593,
       "word": "王力宏李靓蕾现身法庭正面交锋",
@@ -385,14 +401,6 @@
       "onboard_time": 1695770550,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1618039,
-      "num": 629976,
-      "word": "绵阳巨响",
-      "onboard_time": 1695794135,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1596369,
@@ -915,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1011787,
+      "num": 1011787,
+      "word": "花西子 公关",
+      "onboard_time": 1695795101,
+      "rank": 18,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1004835,
       "num": 1004835,
       "word": "柯洁亚运会开门红",
@@ -953,14 +969,6 @@
       "onboard_time": 1695624153,
       "rank": 1,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 966699,
-      "num": 613440,
-      "word": "西安巨响",
-      "onboard_time": 1695795101,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 960737,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1695727116,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 902767,
+      "num": 902767,
+      "word": "王乐君否认做手术医院是胡歌找的",
+      "onboard_time": 1695794616,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 895762,
@@ -1529,14 +1545,6 @@
       "onboard_time": 1695542194,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 767598,
-      "num": 767598,
-      "word": "王乐君否认做手术医院是胡歌找的",
-      "onboard_time": 1695794616,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 763381,
@@ -2947,14 +2955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 496148,
-      "num": 496148,
-      "word": "花西子 公关",
-      "onboard_time": 1695795101,
-      "rank": 18,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 496029,
       "num": 883192,
       "word": "王俊凯去了塞纳河畔",
@@ -3193,6 +3193,14 @@
       "onboard_time": 1695563799,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 465784,
+      "num": 465784,
+      "word": "郑爽上诉被驳回",
+      "onboard_time": 1695795275,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 465571,
@@ -3505,14 +3513,6 @@
       "onboard_time": 1695723817,
       "rank": 19,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 431928,
-      "num": 350961,
-      "word": "郑爽上诉被驳回",
-      "onboard_time": 1695795275,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 428522,
@@ -3995,6 +3995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358313,
+      "num": 358313,
+      "word": "秦霄贤表白周扬青自己先脸红",
+      "onboard_time": 1695796059,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 354936,
       "num": 354936,
       "word": "异人之下老人给小孩在家换血",
@@ -4305,6 +4313,14 @@
       "onboard_time": 1695486213,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 327399,
+      "num": 327399,
+      "word": "萌娃夸郭晶晶超厉害霍启刚说她是我太太",
+      "onboard_time": 1695795516,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 327397,
@@ -5459,14 +5475,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 259981,
-      "num": 259981,
-      "word": "萌娃夸郭晶晶超厉害霍启刚说她是我太太",
-      "onboard_time": 1695795516,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 259595,
       "num": 259595,
       "word": "外国人怎么什么中文都往衣服上印",
@@ -5537,6 +5545,14 @@
       "onboard_time": 1695532832,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 257257,
+      "num": 257257,
+      "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
+      "onboard_time": 1695795216,
+      "rank": 38,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 256467,
@@ -6099,6 +6115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228085,
+      "num": 228085,
+      "word": "原来午睡都进化成这样了",
+      "onboard_time": 1695796358,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 227265,
       "num": 179423,
       "word": "想吃这棵树上的枣比中彩票还难",
@@ -6443,6 +6467,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 213405,
+      "num": 213405,
+      "word": "杨幂睡衣美神降临",
+      "onboard_time": 1695796175,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213386,
       "num": 213386,
       "word": "点餐点成了儿童套餐",
@@ -6585,6 +6617,14 @@
       "onboard_time": 1695619836,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 208462,
+      "num": 208462,
+      "word": "木船起火他们逆行灭火1小时救人",
+      "onboard_time": 1695795996,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208227,
@@ -7001,6 +7041,14 @@
       "onboard_time": 1695614674,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198954,
+      "num": 198954,
+      "word": "音爆",
+      "onboard_time": 1695796238,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 198944,
@@ -7891,6 +7939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178701,
+      "num": 178701,
+      "word": "专家称作恶儿童父母须承担赔偿责任",
+      "onboard_time": 1695796358,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178538,
       "num": 178538,
       "word": "大爷81岁考出驾照1年飙2万公里",
@@ -8017,14 +8073,6 @@
       "onboard_time": 1695538292,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 175627,
-      "num": 175627,
-      "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
-      "onboard_time": 1695795216,
-      "rank": 38,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 175228,
@@ -9025,6 +9073,14 @@
       "onboard_time": 1695768985,
       "rank": 26,
       "category": "其它"
+    },
+    {
+      "raw_hot": 146028,
+      "num": 146028,
+      "word": "泰国选手亲友团没抢到票杭州市民热心转票",
+      "onboard_time": 1695796299,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 145499,
@@ -10108,7 +10164,7 @@
     },
     {
       "raw_hot": 80476,
-      "num": 224809,
+      "num": 228101,
       "word": "刘德华说时代需要敢于非凡的人",
       "onboard_time": 1695794736,
       "rank": 31,
