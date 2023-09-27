@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695856607038,
+  "endTime": 1695857641633,
   "band_list": [
     {
       "raw_hot": 2089727,
@@ -17,6 +17,22 @@
       "onboard_time": 1695828935,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1011802,
+      "num": 1011802,
+      "word": "房子14亿人住不完不简单等于房产过剩",
+      "onboard_time": 1695855925,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 966699,
+      "num": 189869,
+      "word": "性缩力",
+      "onboard_time": 1695856651,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 689209,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 553572,
-      "num": 337389,
+      "num": 340777,
       "word": "卡塔尔球员围攻裁判",
       "onboard_time": 1695828517,
       "rank": 11,
@@ -59,20 +75,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 507071,
+      "num": 507071,
+      "word": "利拉德被交易到雄鹿",
+      "onboard_time": 1695855747,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 475166,
+      "num": 475166,
+      "word": "张小斐首部主演电视剧收视率破2",
+      "onboard_time": 1695828040,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 445592,
       "num": 304369,
       "word": "姚明急得拍大腿",
       "onboard_time": 1695828395,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 445272,
-      "num": 445272,
-      "word": "张小斐首部主演电视剧收视率破2",
-      "onboard_time": 1695828040,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 420038,
@@ -83,20 +107,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 412763,
-      "num": 412763,
-      "word": "利拉德被交易到雄鹿",
-      "onboard_time": 1695855747,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 401538,
-      "num": 401538,
-      "word": "房子14亿人住不完不简单等于房产过剩",
-      "onboard_time": 1695855925,
-      "rank": 6,
-      "category": "财经"
+      "raw_hot": 386818,
+      "num": 386818,
+      "word": "孙杨直播哭了",
+      "onboard_time": 1695857129,
+      "rank": 7,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 356197,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233492,
+      "num": 233492,
+      "word": "第一次在大熊猫脸上看到无语",
+      "onboard_time": 1695839056,
+      "rank": 40,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 232650,
       "num": 232650,
       "word": "黄凯连续五年考研上岸清华",
@@ -185,6 +209,14 @@
       "onboard_time": 1695827196,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226667,
+      "num": 226667,
+      "word": "再见CSGO 你好CS2",
+      "onboard_time": 1695856952,
+      "rank": 16,
+      "category": "游戏"
     },
     {
       "raw_hot": 218393,
@@ -203,8 +235,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 211325,
-      "num": 211325,
+      "raw_hot": 212176,
+      "num": 212176,
       "word": "女业主与写字楼男员工商谈突然被扇耳光",
       "onboard_time": 1695845053,
       "rank": 29,
@@ -219,20 +251,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 208033,
-      "num": 208033,
-      "word": "第一次在大熊猫脸上看到无语",
-      "onboard_time": 1695839056,
-      "rank": 40,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 186110,
       "num": 186110,
       "word": "女儿用父亲600块买的整只牛头做火锅",
       "onboard_time": 1695817412,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179352,
+      "num": 179352,
+      "word": "张雨霏赛后哽咽称第五名的她就是奇迹",
+      "onboard_time": 1695857188,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 178592,
@@ -243,12 +275,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176626,
+      "num": 302774,
+      "word": "大熊猫祖传躲雨姿势",
+      "onboard_time": 1695812132,
+      "rank": 13,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 166078,
+      "num": 166078,
+      "word": "广东一男生跑步时心脏骤停倒地",
+      "onboard_time": 1695855805,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165198,
       "num": 165198,
       "word": "胡彦斌什么都敢问",
       "onboard_time": 1695828695,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162183,
+      "num": 162183,
+      "word": "明天就是中秋国庆假期",
+      "onboard_time": 1695856952,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160311,
@@ -265,14 +321,6 @@
       "onboard_time": 1695816573,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158553,
-      "num": 302774,
-      "word": "大熊猫祖传躲雨姿势",
-      "onboard_time": 1695812132,
-      "rank": 13,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 155717,
@@ -299,6 +347,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 148019,
+      "num": 148019,
+      "word": "导演说刘诗诗演出了3分真7分假",
+      "onboard_time": 1695813932,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 147468,
+      "num": 234461,
+      "word": "真警察当受害人面怒怼假警察",
+      "onboard_time": 1695855747,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145011,
       "num": 167702,
       "word": "分手后男生发给我的所有账单",
@@ -323,12 +387,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131213,
-      "num": 131213,
-      "word": "导演说刘诗诗演出了3分真7分假",
-      "onboard_time": 1695813932,
-      "rank": 37,
-      "category": "作品衍生"
+      "raw_hot": 132188,
+      "num": 132188,
+      "word": "封神训练营主持人是吴昕",
+      "onboard_time": 1695818432,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121865,
+      "num": 121865,
+      "word": "游泳场馆是懂放歌的",
+      "onboard_time": 1695856406,
+      "rank": 36,
+      "category": "体育,幽默"
     },
     {
       "raw_hot": 118675,
@@ -339,20 +411,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118627,
+      "num": 118627,
+      "word": "古有替父从军 今有替父追星",
+      "onboard_time": 1695816451,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 116758,
       "num": 116758,
       "word": "顺丰错转周杰伦演唱会门票致过期",
       "onboard_time": 1695810215,
       "rank": 34,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 114220,
-      "num": 114220,
-      "word": "广东一男生跑步时心脏骤停倒地",
-      "onboard_time": 1695855805,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113883,
@@ -363,12 +435,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112175,
-      "num": 112175,
-      "word": "真警察当受害人面怒怼假警察",
-      "onboard_time": 1695855747,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 113151,
+      "num": 113151,
+      "word": "吾皇巴扎黑 让领导失去沟通欲的头像",
+      "onboard_time": 1695856046,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 111210,
@@ -387,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109864,
-      "num": 109863,
-      "word": "封神训练营主持人是吴昕",
-      "onboard_time": 1695818432,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 109012,
+      "num": 109012,
+      "word": "外国小哥演我遇到迪丽热巴",
+      "onboard_time": 1695819274,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 106098,
@@ -417,14 +489,6 @@
       "onboard_time": 1695834683,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 102194,
-      "num": 102194,
-      "word": "古有替父从军 今有替父追星",
-      "onboard_time": 1695816451,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 100358,
@@ -483,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89384,
-      "num": 89384,
-      "word": "外国小哥演我遇到迪丽热巴",
-      "onboard_time": 1695819274,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 82917,
       "num": 95610,
       "word": "男足主力停赛",
@@ -499,20 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80222,
-      "num": 80222,
-      "word": "游泳场馆是懂放歌的",
-      "onboard_time": 1695856406,
-      "rank": 36,
-      "category": "体育,幽默"
-    },
-    {
       "raw_hot": 72164,
       "num": 94375,
       "word": "工人槽罐车内缺氧消防紧急入罐救人",
       "onboard_time": 1695829954,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 70205,
+      "num": 70205,
+      "word": "切尔西1比0布莱顿",
+      "onboard_time": 1695857249,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 64023,
@@ -531,16 +587,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 60048,
-      "num": 60048,
-      "word": "吾皇巴扎黑 让领导失去沟通欲的头像",
-      "onboard_time": 1695856046,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 49654,
-      "num": 935180,
+      "num": 1057617,
       "word": "中国造列车获土耳其总统点赞",
       "onboard_time": 1695820474,
       "rank": 2,
