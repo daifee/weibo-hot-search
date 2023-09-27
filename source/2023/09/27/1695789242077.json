@@ -1,0 +1,410 @@
+{
+  "runTime": 1695789242077,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2645181,
+        "num": 2645181,
+        "word": "吴青峰发文批评演唱会手机海",
+        "onboard_time": 1695785736,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2242140,
+        "num": 2242140,
+        "word": "央媒称年龄不应是违法犯罪的挡箭牌",
+        "onboard_time": 1695778715,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75810,
+        "num": 2016999,
+        "word": "亚运赛场上这些00后真棒",
+        "onboard_time": 1695786034,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1855025,
+        "num": 1855025,
+        "word": "郑爽仍有千万欠款未履行",
+        "onboard_time": 1695785736,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1394365,
+        "num": 1394365,
+        "word": "空气炸锅为什么不火了",
+        "onboard_time": 1695776439,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1253726,
+        "num": 1253726,
+        "word": "张智霖袁咏仪儿子ins道歉",
+        "onboard_time": 1695778238,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807969,
+        "num": 807969,
+        "word": "封神集体跳科目一",
+        "onboard_time": 1695788559,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612790,
+        "num": 612790,
+        "word": "CoCo 周边要钱",
+        "onboard_time": 1695784712,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 585840,
+        "num": 585840,
+        "word": "林俊杰拍张杰",
+        "onboard_time": 1695785074,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 512242,
+        "num": 512242,
+        "word": "叙利亚总统夫妇用中文道别",
+        "onboard_time": 1695784054,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705990,
+        "num": 491537,
+        "word": "张柏芝L型腮红",
+        "onboard_time": 1695786213,
+        "rank": 10,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 551566,
+        "num": 489992,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 444116,
+        "num": 444116,
+        "word": "13岁少女成中国最年轻亚运冠军",
+        "onboard_time": 1695785374,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437749,
+        "num": 437749,
+        "word": "央视中秋晚会嘉宾阵容",
+        "onboard_time": 1695785074,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25675,
+        "num": 417042,
+        "word": "十一旅行计划是感受祖国温度",
+        "onboard_time": 1695787837,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 447509,
+        "num": 415074,
+        "word": "凌晨偷偷送孙子入伍的爷爷是烈士后人",
+        "onboard_time": 1695781532,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408023,
+        "num": 408023,
+        "word": "多地医生降薪",
+        "onboard_time": 1695788797,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396618,
+        "num": 396618,
+        "word": "Angelababy养的阿黄",
+        "onboard_time": 1695778833,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386150,
+        "num": 386150,
+        "word": "迪丽热巴王俊凯金智秀G社生图",
+        "onboard_time": 1695782131,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 365990,
+        "num": 365990,
+        "word": "研究表明人类或将在2.5亿年后灭绝",
+        "onboard_time": 1695783515,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 532329,
+        "num": 348846,
+        "word": "娜扎外网生图",
+        "onboard_time": 1695784173,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441490,
+        "num": 341671,
+        "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
+        "onboard_time": 1695781174,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326687,
+        "num": 326687,
+        "word": "大爷收到与陌生女子裸照被要封口费",
+        "onboard_time": 1695786816,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323713,
+        "num": 323713,
+        "word": "胡彦斌问孙怡Melody被求婚的经历",
+        "onboard_time": 1695782131,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289482,
+        "num": 289482,
+        "word": "董宇辉回应周杰伦演唱会门票来源",
+        "onboard_time": 1695776439,
+        "rank": 24,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 264683,
+        "num": 264683,
+        "word": "张婧仪26秒绝美他拍",
+        "onboard_time": 1695787900,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262167,
+        "num": 262167,
+        "word": "林双 凉水泡不开绿茶",
+        "onboard_time": 1695788318,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258785,
+        "num": 258785,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 256467,
+        "num": 256467,
+        "word": "李健巡回演唱会官宣",
+        "onboard_time": 1695787717,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239475,
+        "num": 239475,
+        "word": "月饼最好大家分着吃",
+        "onboard_time": 1695786875,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 436331,
+        "num": 238455,
+        "word": "领导好像对茶水很满意",
+        "onboard_time": 1695787297,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237345,
+        "num": 237345,
+        "word": "郑爽被判赔偿投资方6000万元",
+        "onboard_time": 1695732642,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231244,
+        "num": 231244,
+        "word": "花花不久就能和大家见面啦",
+        "onboard_time": 1695777636,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228820,
+        "num": 228820,
+        "word": "黄晓明微信名叫黄晓明",
+        "onboard_time": 1695773979,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223311,
+        "num": 223311,
+        "word": "为什么男生的屁股翘",
+        "onboard_time": 1695772535,
+        "rank": 34,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 214652,
+        "num": 214652,
+        "word": "朴彩英亮相巴黎时装周",
+        "onboard_time": 1695786335,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199134,
+        "num": 199134,
+        "word": "余佳运广州",
+        "onboard_time": 1695788376,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211207,
+        "num": 194245,
+        "word": "迪丽热巴夜景大片",
+        "onboard_time": 1695786935,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188401,
+        "num": 188401,
+        "word": "Newjeans将演唱英雄联盟主题曲",
+        "onboard_time": 1695779137,
+        "rank": 38,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 166231,
+        "num": 182686,
+        "word": "张博恒的89.299分究竟有多牛",
+        "onboard_time": 1695789218,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179816,
+        "num": 179816,
+        "word": "傅首尔逼疯i人的e人",
+        "onboard_time": 1695782672,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174916,
+        "num": 174916,
+        "word": "弟弟觉得夜色尚浅公开了",
+        "onboard_time": 1695770968,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162132,
+        "num": 162132,
+        "word": "上海成功申办奥运会资格系列赛",
+        "onboard_time": 1695770550,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160161,
+        "num": 160161,
+        "word": "英雄联盟S13主题曲",
+        "onboard_time": 1695774939,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159183,
+        "num": 159183,
+        "word": "新人结婚隔壁幼儿园小朋友全体出动",
+        "onboard_time": 1695778955,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158964,
+        "num": 158964,
+        "word": "韩国球员为输球后拒绝握手道歉",
+        "onboard_time": 1695776077,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158590,
+        "num": 158590,
+        "word": "华晨宇希望通过创作给予他人帮助",
+        "onboard_time": 1695784653,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157261,
+        "num": 157261,
+        "word": "马嘉祺说在准备见面机会了",
+        "onboard_time": 1695785612,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149124,
+        "num": 149124,
+        "word": "iPhone15Pro过热或是散热问题",
+        "onboard_time": 1695777873,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14837,
+        "num": 135387,
+        "word": "18万级高级数智新汽车新选择",
+        "onboard_time": 1695787356,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695788422172,
+  "endTime": 1695789242077,
   "band_list": [
     {
       "raw_hot": 3125145,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2645181,
+      "num": 2645181,
+      "word": "吴青峰发文批评演唱会手机海",
+      "onboard_time": 1695785736,
+      "rank": 1,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2557864,
       "num": 2557864,
       "word": "张智霖袁咏仪儿子ins道歉",
       "onboard_time": 1695778238,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2176611,
-      "num": 2176611,
-      "word": "吴青峰发文批评演唱会手机海",
-      "onboard_time": 1695785736,
-      "rank": 1,
-      "category": "演出"
     },
     {
       "raw_hot": 2033790,
@@ -35,8 +35,8 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 1839805,
-      "num": 1839805,
+      "raw_hot": 1855025,
+      "num": 1855025,
       "word": "郑爽仍有千万欠款未履行",
       "onboard_time": 1695785736,
       "rank": 3,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 807969,
+      "num": 807969,
+      "word": "封神集体跳科目一",
+      "onboard_time": 1695788559,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 801767,
       "num": 412342,
       "word": "为什么男生的屁股翘",
@@ -203,8 +211,8 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 702190,
-      "num": 486188,
+      "raw_hot": 705990,
+      "num": 491537,
       "word": "张柏芝L型腮红",
       "onboard_time": 1695786213,
       "rank": 10,
@@ -259,8 +267,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 608337,
-      "num": 608337,
+      "raw_hot": 612790,
+      "num": 612790,
       "word": "CoCo 周边要钱",
       "onboard_time": 1695784712,
       "rank": 18,
@@ -427,6 +435,30 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 444116,
+      "num": 444116,
+      "word": "13岁少女成中国最年轻亚运冠军",
+      "onboard_time": 1695785374,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 441490,
+      "num": 366245,
+      "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
+      "onboard_time": 1695781174,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436331,
+      "num": 238455,
+      "word": "领导好像对茶水很满意",
+      "onboard_time": 1695787297,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 436130,
       "num": 883192,
       "word": "王俊凯去了塞纳河畔",
@@ -443,36 +475,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 434588,
-      "num": 434588,
-      "word": "13岁少女成中国最年轻亚运冠军",
-      "onboard_time": 1695785374,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 428806,
-      "num": 366245,
-      "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
-      "onboard_time": 1695781174,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421293,
-      "num": 221608,
-      "word": "领导好像对茶水很满意",
-      "onboard_time": 1695787297,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 417731,
       "num": 881295,
       "word": "作为怪物",
       "onboard_time": 1695742838,
       "rank": 8,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 408023,
+      "num": 408023,
+      "word": "多地医生降薪",
+      "onboard_time": 1695788797,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 396907,
@@ -483,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 365441,
-      "num": 295361,
-      "word": "大爷收到与陌生女子裸照被要封口费",
-      "onboard_time": 1695786816,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362190,
-      "num": 362190,
+      "raw_hot": 365990,
+      "num": 365990,
       "word": "研究表明人类或将在2.5亿年后灭绝",
       "onboard_time": 1695783515,
       "rank": 22,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 365441,
+      "num": 326687,
+      "word": "大爷收到与陌生女子裸照被要封口费",
+      "onboard_time": 1695786816,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 360281,
@@ -635,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262167,
+      "num": 262167,
+      "word": "林双 凉水泡不开绿茶",
+      "onboard_time": 1695788318,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261983,
       "num": 261983,
       "word": "张艺兴黄毛造型",
       "onboard_time": 1695743558,
       "rank": 27,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 256467,
+      "num": 256467,
+      "word": "李健巡回演唱会官宣",
+      "onboard_time": 1695787717,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 254027,
@@ -697,14 +729,6 @@
       "onboard_time": 1695784900,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 217352,
-      "num": 217352,
-      "word": "李健巡回演唱会官宣",
-      "onboard_time": 1695787717,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 216447,
@@ -769,6 +793,14 @@
       "onboard_time": 1695743499,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199134,
+      "num": 199134,
+      "word": "余佳运广州",
+      "onboard_time": 1695788376,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 197219,
@@ -987,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166231,
+      "num": 182686,
+      "word": "张博恒的89.299分究竟有多牛",
+      "onboard_time": 1695789218,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166154,
       "num": 166154,
       "word": "黄子诚监听女友和前任",
@@ -1001,6 +1041,14 @@
       "onboard_time": 1695788318,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157261,
+      "num": 157261,
+      "word": "马嘉祺说在准备见面机会了",
+      "onboard_time": 1695785612,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 156482,
@@ -1083,28 +1131,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 151407,
-      "num": 151407,
-      "word": "林双 凉水泡不开绿茶",
-      "onboard_time": 1695788318,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149031,
       "num": 149031,
       "word": "仙剑消侠传之西南F4正式出道",
       "onboard_time": 1695785315,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 147905,
-      "num": 147905,
-      "word": "余佳运广州",
-      "onboard_time": 1695788376,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 146271,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1695729517,
       "rank": 42,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 137986,
-      "num": 137986,
-      "word": "马嘉祺说在准备见面机会了",
-      "onboard_time": 1695785612,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 136288,
@@ -1323,6 +1347,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 75810,
+      "num": 2016999,
+      "word": "亚运赛场上这些00后真棒",
+      "onboard_time": 1695786034,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71261,
       "num": 473136,
       "word": "山东尼山",
@@ -1337,14 +1369,6 @@
       "onboard_time": 1695748283,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68304,
-      "num": 1986404,
-      "word": "亚运赛场上这些00后真棒",
-      "onboard_time": 1695786034,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 65846,
@@ -1459,7 +1483,7 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 14129,
+      "raw_hot": 14837,
       "num": 147775,
       "word": "18万级高级数智新汽车新选择",
       "onboard_time": 1695787356,
