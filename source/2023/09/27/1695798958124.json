@@ -1,0 +1,410 @@
+{
+  "runTime": 1695798958124,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1700198,
+        "num": 1700198,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1326101,
+        "num": 1326101,
+        "word": "CoCo道歉",
+        "onboard_time": 1695797435,
+        "rank": 1,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 57761,
+        "num": 1271525,
+        "word": "亚运赛场上这些00后真棒",
+        "onboard_time": 1695786034,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1254048,
+        "num": 1254048,
+        "word": "赵丽颖申请强制黑粉道歉",
+        "onboard_time": 1695792457,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1085862,
+        "num": 1085862,
+        "word": "花西子 公关",
+        "onboard_time": 1695795101,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1017280,
+        "num": 1017280,
+        "word": "吴青峰发文批评演唱会手机海",
+        "onboard_time": 1695785736,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 679351,
+        "num": 679351,
+        "word": "王乐君否认做手术医院是胡歌找的",
+        "onboard_time": 1695794616,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 672619,
+        "num": 672619,
+        "word": "恋综史上最令人窒息男嘉宾",
+        "onboard_time": 1695790420,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 562275,
+        "num": 562275,
+        "word": "专家认为大同欺凌事件属于性强暴",
+        "onboard_time": 1695792517,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481423,
+        "num": 481423,
+        "word": "空气炸锅为什么不火了",
+        "onboard_time": 1695776439,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 2683167,
+        "num": 479656,
+        "word": "西安巨响",
+        "onboard_time": 1695795101,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275856,
+        "num": 475362,
+        "word": "国台办回应马斯克称是美国阻止中国统一",
+        "onboard_time": 1695791738,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 263267,
+        "num": 472538,
+        "word": "从羞于说父亲是兽医到为父亲拍视频",
+        "onboard_time": 1695798277,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201862,
+        "num": 469865,
+        "word": "13岁少女成中国最年轻亚运冠军",
+        "onboard_time": 1695785374,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20413,
+        "num": 463927,
+        "word": "儒家思想和奥林匹克精神天然契合",
+        "onboard_time": 1695798037,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1010821,
+        "num": 461088,
+        "word": "音爆",
+        "onboard_time": 1695796238,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 990838,
+        "num": 459210,
+        "word": "绵阳巨响",
+        "onboard_time": 1695794135,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 615865,
+        "num": 454211,
+        "word": "秦霄贤表白周扬青自己先脸红",
+        "onboard_time": 1695796059,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 598503,
+        "num": 449958,
+        "word": "郑爽上诉被驳回",
+        "onboard_time": 1695795275,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499145,
+        "num": 448611,
+        "word": "多地医生降薪",
+        "onboard_time": 1695788797,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446289,
+        "num": 446289,
+        "word": "知情人士称许家印已被监视居住于北京",
+        "onboard_time": 1695798700,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424499,
+        "num": 424499,
+        "word": "五月天谁抢到了 我要闹了",
+        "onboard_time": 1695798037,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 384328,
+        "num": 384328,
+        "word": "爱宝记得福宝",
+        "onboard_time": 1695797676,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 367064,
+        "num": 367064,
+        "word": "张智霖袁咏仪儿子ins道歉",
+        "onboard_time": 1695778238,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362868,
+        "num": 362868,
+        "word": "原来午睡都进化成这样了",
+        "onboard_time": 1695796358,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334871,
+        "num": 334871,
+        "word": "六公主国庆片单赢麻了",
+        "onboard_time": 1695797136,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318845,
+        "num": 318845,
+        "word": "郑爽仍有千万欠款未履行",
+        "onboard_time": 1695785736,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306353,
+        "num": 306353,
+        "word": "五月天广州 抢票",
+        "onboard_time": 1695791200,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304810,
+        "num": 304810,
+        "word": "LEEHAN回应跟张凌赫长得像",
+        "onboard_time": 1695798877,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290776,
+        "num": 290776,
+        "word": "咒术回战 宿傩回战",
+        "onboard_time": 1695793956,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 262832,
+        "num": 262832,
+        "word": "第一眼美女发型",
+        "onboard_time": 1695797676,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 261075,
+        "num": 261075,
+        "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
+        "onboard_time": 1695795216,
+        "rank": 31,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 240330,
+        "num": 240330,
+        "word": "十位导演眼中的华晨宇",
+        "onboard_time": 1695798877,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239213,
+        "num": 239213,
+        "word": "杨幂睡衣美神降临",
+        "onboard_time": 1695796175,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230985,
+        "num": 230985,
+        "word": "专家称作恶儿童父母须承担赔偿责任",
+        "onboard_time": 1695796358,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228099,
+        "num": 228099,
+        "word": "文咏珊跑厅跑到袜子都破了",
+        "onboard_time": 1695798216,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216831,
+        "num": 216831,
+        "word": "萌娃夸郭晶晶超厉害霍启刚说她是我太太",
+        "onboard_time": 1695795516,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205940,
+        "num": 205940,
+        "word": "吴磊蒋勤勤新片入围东京电影节",
+        "onboard_time": 1695797737,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201805,
+        "num": 201805,
+        "word": "刘耀文美拉德西装",
+        "onboard_time": 1695798877,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200804,
+        "num": 200804,
+        "word": "于文文 林佳已经向前看了",
+        "onboard_time": 1695795275,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195629,
+        "num": 195629,
+        "word": "魏大勋双排扣大衣封面",
+        "onboard_time": 1695796957,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181823,
+        "num": 181823,
+        "word": "杨幂说能不能飞关键在我不在翅膀",
+        "onboard_time": 1695798758,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180742,
+        "num": 180742,
+        "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
+        "onboard_time": 1695781174,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175682,
+        "num": 175682,
+        "word": "李村",
+        "onboard_time": 1695791917,
+        "rank": 43,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 164623,
+        "num": 164623,
+        "word": "娜扎外网生图",
+        "onboard_time": 1695784173,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164131,
+        "num": 164131,
+        "word": "郑钦文晋级亚运会四强",
+        "onboard_time": 1695798216,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157496,
+        "num": 157496,
+        "word": "黄景瑜像回消防站串门的",
+        "onboard_time": 1695795275,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155167,
+        "num": 155167,
+        "word": "张柏芝L型腮红",
+        "onboard_time": 1695786213,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 151711,
+        "num": 151711,
+        "word": "离开前任后的戒断反应",
+        "onboard_time": 1695797254,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135659,
+        "num": 135659,
+        "word": "张博恒的89.299分究竟有多牛",
+        "onboard_time": 1695789218,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

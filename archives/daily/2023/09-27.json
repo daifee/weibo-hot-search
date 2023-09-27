@@ -1,6 +1,6 @@
 {
   "startTime": 1695745352584,
-  "endTime": 1695796550573,
+  "endTime": 1695798958124,
   "band_list": [
     {
       "raw_hot": 3125145,
@@ -147,6 +147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1326101,
+      "num": 1326101,
+      "word": "CoCo道歉",
+      "onboard_time": 1695797435,
+      "rank": 1,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1227797,
       "num": 1227797,
       "word": "董宇辉回应周杰伦演唱会门票来源",
@@ -171,12 +179,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1011787,
-      "num": 1011787,
+      "raw_hot": 1085862,
+      "num": 1085862,
       "word": "花西子 公关",
       "onboard_time": 1695795101,
       "rank": 18,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1010821,
+      "num": 461088,
+      "word": "音爆",
+      "onboard_time": 1695796238,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 902767,
@@ -355,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 615865,
+      "num": 454211,
+      "word": "秦霄贤表白周扬青自己先脸红",
+      "onboard_time": 1695796059,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 612790,
       "num": 612790,
       "word": "CoCo 周边要钱",
@@ -377,6 +401,14 @@
       "onboard_time": 1695738645,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 598503,
+      "num": 465784,
+      "word": "郑爽上诉被驳回",
+      "onboard_time": 1695795275,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 594328,
@@ -515,14 +547,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 465784,
-      "num": 465784,
-      "word": "郑爽上诉被驳回",
-      "onboard_time": 1695795275,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463052,
       "num": 463052,
       "word": "央视中秋晚会嘉宾阵容",
@@ -544,6 +568,14 @@
       "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
       "onboard_time": 1695781174,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 446289,
+      "num": 446289,
+      "word": "知情人士称许家印已被监视居住于北京",
+      "onboard_time": 1695798700,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -587,6 +619,14 @@
       "category": "社会负面"
     },
     {
+      "raw_hot": 424499,
+      "num": 424499,
+      "word": "五月天谁抢到了 我要闹了",
+      "onboard_time": 1695798037,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 417731,
       "num": 881295,
       "word": "作为怪物",
@@ -609,6 +649,14 @@
       "onboard_time": 1695789878,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384328,
+      "num": 384328,
+      "word": "爱宝记得福宝",
+      "onboard_time": 1695797676,
+      "rank": 22,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 370075,
@@ -635,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362868,
+      "num": 362868,
+      "word": "原来午睡都进化成这样了",
+      "onboard_time": 1695796358,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 360548,
       "num": 360548,
       "word": "莎头",
@@ -649,14 +705,6 @@
       "onboard_time": 1695739664,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 358313,
-      "num": 358313,
-      "word": "秦霄贤表白周扬青自己先脸红",
-      "onboard_time": 1695796059,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 354149,
@@ -681,6 +729,14 @@
       "onboard_time": 1695780755,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 334871,
+      "num": 334871,
+      "word": "六公主国庆片单赢麻了",
+      "onboard_time": 1695797136,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 327399,
@@ -729,6 +785,14 @@
       "onboard_time": 1695762553,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304810,
+      "num": 304810,
+      "word": "LEEHAN回应跟张凌赫长得像",
+      "onboard_time": 1695798877,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 303388,
@@ -811,6 +875,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 263267,
+      "num": 472538,
+      "word": "从羞于说父亲是兽医到为父亲拍视频",
+      "onboard_time": 1695798277,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262832,
+      "num": 262832,
+      "word": "第一眼美女发型",
+      "onboard_time": 1695797676,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 262644,
       "num": 464543,
       "word": "丘索维金娜48岁站上赛场的原因",
@@ -835,8 +915,8 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 257257,
-      "num": 257257,
+      "raw_hot": 261075,
+      "num": 261075,
       "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
       "onboard_time": 1695795216,
       "rank": 38,
@@ -875,6 +955,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 240330,
+      "num": 240330,
+      "word": "十位导演眼中的华晨宇",
+      "onboard_time": 1695798877,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239213,
+      "num": 239213,
+      "word": "杨幂睡衣美神降临",
+      "onboard_time": 1695796175,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237005,
       "num": 237005,
       "word": "好事成双原著中的卫明",
@@ -899,12 +995,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228085,
-      "num": 228085,
-      "word": "原来午睡都进化成这样了",
+      "raw_hot": 230985,
+      "num": 230985,
+      "word": "专家称作恶儿童父母须承担赔偿责任",
       "onboard_time": 1695796358,
-      "rank": 31,
-      "category": "幽默"
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228099,
+      "num": 228099,
+      "word": "文咏珊跑厅跑到袜子都破了",
+      "onboard_time": 1695798216,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 227199,
@@ -955,14 +1059,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 213405,
-      "num": 213405,
-      "word": "杨幂睡衣美神降临",
-      "onboard_time": 1695796175,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 211976,
       "num": 211976,
       "word": "鹿晗演唱会线上首播",
@@ -1011,6 +1107,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 205940,
+      "num": 205940,
+      "word": "吴磊蒋勤勤新片入围东京电影节",
+      "onboard_time": 1695797737,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 202748,
       "num": 202748,
       "word": "光与夜之恋全新资料片",
@@ -1027,6 +1131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201805,
+      "num": 201805,
+      "word": "刘耀文美拉德西装",
+      "onboard_time": 1695798877,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201787,
       "num": 201787,
       "word": "彭昱畅 志愿军用语言描述很苍白",
@@ -1041,14 +1153,6 @@
       "onboard_time": 1695788376,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 198954,
-      "num": 198954,
-      "word": "音爆",
-      "onboard_time": 1695796238,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198184,
@@ -1073,6 +1177,14 @@
       "onboard_time": 1695782553,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195629,
+      "num": 195629,
+      "word": "魏大勋双排扣大衣封面",
+      "onboard_time": 1695796957,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 195626,
@@ -1171,6 +1283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 181823,
+      "num": 181823,
+      "word": "杨幂说能不能飞关键在我不在翅膀",
+      "onboard_time": 1695798758,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181638,
       "num": 177152,
       "word": "赵今麦闪钻镂空礼服",
@@ -1201,14 +1321,6 @@
       "onboard_time": 1695793475,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178701,
-      "num": 178701,
-      "word": "专家称作恶儿童父母须承担赔偿责任",
-      "onboard_time": 1695796358,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177275,
@@ -1313,6 +1425,14 @@
       "onboard_time": 1695775539,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164131,
+      "num": 164131,
+      "word": "郑钦文晋级亚运会四强",
+      "onboard_time": 1695798216,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 163602,
@@ -1424,6 +1544,14 @@
       "word": "为什么老一辈人都说圆脸有福气",
       "onboard_time": 1695769947,
       "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 151711,
+      "num": 151711,
+      "word": "离开前任后的戒断反应",
+      "onboard_time": 1695797254,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -1808,6 +1936,14 @@
       "word": "马失前蹄坠深沟消防徒步进山搜救",
       "onboard_time": 1695767239,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20413,
+      "num": 463927,
+      "word": "儒家思想和奥林匹克精神天然契合",
+      "onboard_time": 1695798037,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
