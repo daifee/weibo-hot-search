@@ -1,0 +1,410 @@
+{
+  "runTime": 1695803712047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1799153,
+        "num": 1799153,
+        "word": "CoCo奶茶道歉",
+        "onboard_time": 1695797435,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1323962,
+        "num": 1323962,
+        "word": "沈梦辰 我不行我婚嫁了",
+        "onboard_time": 1695790420,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1133078,
+        "num": 1133078,
+        "word": "论文太干净了我舍不得碰",
+        "onboard_time": 1695799716,
+        "rank": 2,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 957976,
+        "num": 957976,
+        "word": "华为上架1999元手机壳",
+        "onboard_time": 1695803074,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 652567,
+        "num": 652567,
+        "word": "吴青峰发文批评演唱会手机海",
+        "onboard_time": 1695785736,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 500593,
+        "num": 500593,
+        "word": "英雄联盟",
+        "onboard_time": 1695801516,
+        "rank": 5,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 455142,
+        "num": 455142,
+        "word": "恋综史上最令人窒息男嘉宾",
+        "onboard_time": 1695790420,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 437191,
+        "num": 437191,
+        "word": "赵丽颖申请强制黑粉道歉",
+        "onboard_time": 1695792457,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373545,
+        "num": 436871,
+        "word": "你以后还会买花西子吗",
+        "onboard_time": 1695799138,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 261614,
+        "num": 432874,
+        "word": "从羞于说父亲是兽医到为父亲拍视频",
+        "onboard_time": 1695798277,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1221204,
+        "num": 432070,
+        "word": "吴昕是穿了睡裤去巴黎吗",
+        "onboard_time": 1695799716,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 865191,
+        "num": 427600,
+        "word": "西安巨响",
+        "onboard_time": 1695795101,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798391,
+        "num": 425815,
+        "word": "晨光文具主播卖铅笔把不贵写脸上",
+        "onboard_time": 1695802055,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309892,
+        "num": 424252,
+        "word": "00后小将张杰滑板男子街式摘金",
+        "onboard_time": 1695801217,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11,
+        "num": 420423,
+        "word": "心梗黄金2小时有多重要",
+        "onboard_time": 1695779613,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 648494,
+        "num": 417491,
+        "word": "张馨予要消失一下",
+        "onboard_time": 1695799837,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582496,
+        "num": 415146,
+        "word": "花西子 公关",
+        "onboard_time": 1695795101,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 29225,
+        "num": 413056,
+        "word": "遥感三十三号04星成功发射",
+        "onboard_time": 1695785791,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412535,
+        "num": 412535,
+        "word": "五月天谁抢到了 我要闹了",
+        "onboard_time": 1695798037,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356870,
+        "num": 356870,
+        "word": "郑爽上诉被驳回",
+        "onboard_time": 1695795275,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296824,
+        "num": 296824,
+        "word": "爱宝记得福宝",
+        "onboard_time": 1695797676,
+        "rank": 20,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 286431,
+        "num": 286431,
+        "word": "井胧井迪离婚风穿搭",
+        "onboard_time": 1695799298,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276544,
+        "num": 276544,
+        "word": "六公主国庆片单赢麻了",
+        "onboard_time": 1695797136,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269075,
+        "num": 269075,
+        "word": "音爆",
+        "onboard_time": 1695796238,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264193,
+        "num": 264193,
+        "word": "杨紫我们的美好生活路透",
+        "onboard_time": 1695800674,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260454,
+        "num": 260454,
+        "word": "张智霖袁咏仪儿子ins道歉",
+        "onboard_time": 1695778238,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258836,
+        "num": 258836,
+        "word": "王乐君否认做手术医院是胡歌找的",
+        "onboard_time": 1695794616,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258556,
+        "num": 258556,
+        "word": "张嘉倪演江喜暴瘦",
+        "onboard_time": 1695800376,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211904,
+        "num": 247953,
+        "word": "全红婵赛前训练表演炸鱼",
+        "onboard_time": 1695799057,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142427,
+        "num": 247252,
+        "word": "54位无名烈士重归有名英雄",
+        "onboard_time": 1695801815,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247161,
+        "num": 247161,
+        "word": "专家认为大同欺凌事件属于性强暴",
+        "onboard_time": 1695792517,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244700,
+        "num": 244700,
+        "word": "杨幂说能不能飞关键在我不在翅膀",
+        "onboard_time": 1695798758,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203287,
+        "num": 203287,
+        "word": "章瑾掉杠三次",
+        "onboard_time": 1695801875,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200252,
+        "num": 200252,
+        "word": "田嘉瑞录hi6是综艺首秀",
+        "onboard_time": 1695802835,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199532,
+        "num": 199532,
+        "word": "郑爽仍有千万欠款未履行",
+        "onboard_time": 1695785736,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198254,
+        "num": 198254,
+        "word": "中秋礼物已经那么卷了吗",
+        "onboard_time": 1695803494,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185166,
+        "num": 185166,
+        "word": "可惜侯雯元不在现场",
+        "onboard_time": 1695802354,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184146,
+        "num": 184146,
+        "word": "鹿晗时间停了发行五周年",
+        "onboard_time": 1695801157,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 182799,
+        "num": 182799,
+        "word": "原来午睡都进化成这样了",
+        "onboard_time": 1695796358,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169868,
+        "num": 169868,
+        "word": "咒术回战 宿傩回战",
+        "onboard_time": 1695793956,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 163964,
+        "num": 163964,
+        "word": "LEEHAN回应跟张凌赫长得像",
+        "onboard_time": 1695798877,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150376,
+        "num": 150376,
+        "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
+        "onboard_time": 1695795216,
+        "rank": 41,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 141461,
+        "num": 141461,
+        "word": "空气炸锅为什么不火了",
+        "onboard_time": 1695776439,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137719,
+        "num": 137719,
+        "word": "圆满",
+        "onboard_time": 1695802174,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136172,
+        "num": 136172,
+        "word": "国台办回应马斯克称是美国阻止中国统一",
+        "onboard_time": 1695791738,
+        "rank": 44,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 129240,
+        "num": 129240,
+        "word": "郭晶晶霍启刚太好磕了",
+        "onboard_time": 1695803616,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140440,
+        "num": 128307,
+        "word": "秦霄贤表白周扬青自己先脸红",
+        "onboard_time": 1695796059,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125948,
+        "num": 125948,
+        "word": "消防员买奶茶店员悄悄藏起收款码",
+        "onboard_time": 1695799115,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124334,
+        "num": 124334,
+        "word": "专家称作恶儿童父母须承担赔偿责任",
+        "onboard_time": 1695796358,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118573,
+        "num": 118573,
+        "word": "豆瓣崩了",
+        "onboard_time": 1695798997,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
