@@ -1,0 +1,410 @@
+{
+  "runTime": 1695781394283,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2557864,
+        "num": 2557864,
+        "word": "张智霖袁咏仪儿子ins道歉",
+        "onboard_time": 1695778238,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1638823,
+        "num": 1638823,
+        "word": "空气炸锅为什么不火了",
+        "onboard_time": 1695776439,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 31350,
+        "num": 1346384,
+        "word": "亚运赛场闪闪发光的中国00后",
+        "onboard_time": 1695735583,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1227797,
+        "num": 1227797,
+        "word": "董宇辉回应周杰伦演唱会门票来源",
+        "onboard_time": 1695776439,
+        "rank": 3,
+        "category": "演出,网红"
+      },
+      {
+        "raw_hot": 791690,
+        "num": 791690,
+        "word": "英雄联盟中国队先下一城",
+        "onboard_time": 1695778533,
+        "rank": 4,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 752724,
+        "num": 752724,
+        "word": "上海成功申办奥运会资格系列赛",
+        "onboard_time": 1695770550,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 588781,
+        "num": 588781,
+        "word": "央媒称年龄不应是违法犯罪的挡箭牌",
+        "onboard_time": 1695778715,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593348,
+        "num": 588510,
+        "word": "英雄联盟中国队vs中国澳门队",
+        "onboard_time": 1695778715,
+        "rank": 7,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 587279,
+        "num": 587279,
+        "word": "花花不久就能和大家见面啦",
+        "onboard_time": 1695777636,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536012,
+        "num": 536012,
+        "word": "Newjeans将演唱英雄联盟主题曲",
+        "onboard_time": 1695779137,
+        "rank": 9,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 946419,
+        "num": 535079,
+        "word": "花西子发疯",
+        "onboard_time": 1695721839,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 526057,
+        "num": 526057,
+        "word": "韩国球员为输球后拒绝握手道歉",
+        "onboard_time": 1695776077,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507319,
+        "num": 507319,
+        "word": "新人结婚隔壁幼儿园小朋友全体出动",
+        "onboard_time": 1695778955,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245638,
+        "num": 485353,
+        "word": "温柔处理打不疼欺凌者",
+        "onboard_time": 1695780032,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 55432,
+        "num": 473136,
+        "word": "山东尼山",
+        "onboard_time": 1695780032,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624907,
+        "num": 471706,
+        "word": "郑爽被判赔偿投资方6000万元",
+        "onboard_time": 1695732642,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468385,
+        "num": 468385,
+        "word": "迪丽热巴听到过来的反应",
+        "onboard_time": 1695779433,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 434961,
+        "num": 434961,
+        "word": "黄晓明微信名叫黄晓明",
+        "onboard_time": 1695773979,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413443,
+        "num": 413443,
+        "word": "花西子称要和香奈儿门对门",
+        "onboard_time": 1695724599,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 400619,
+        "num": 400619,
+        "word": "幼师吃完席拆现场装饰拉回幼儿园",
+        "onboard_time": 1695772777,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474786,
+        "num": 396361,
+        "word": "官方通报10岁男孩遭俩男生常年凌辱猥亵",
+        "onboard_time": 1695747923,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365630,
+        "num": 365630,
+        "word": "猫和老鼠中女主人露过一次脸",
+        "onboard_time": 1695742180,
+        "rank": 21,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 343513,
+        "num": 343513,
+        "word": "为什么男生的屁股翘",
+        "onboard_time": 1695772535,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 315104,
+        "num": 315104,
+        "word": "卫明出轨再添实锤",
+        "onboard_time": 1695740022,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299163,
+        "num": 299163,
+        "word": "Angelababy养的阿黄",
+        "onboard_time": 1695778833,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281666,
+        "num": 281666,
+        "word": "弟弟觉得夜色尚浅公开了",
+        "onboard_time": 1695770968,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281237,
+        "num": 281237,
+        "word": "张婧仪真公主来了",
+        "onboard_time": 1695740082,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 274916,
+        "num": 274916,
+        "word": "iPhone15Pro过热或是散热问题",
+        "onboard_time": 1695777873,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263871,
+        "num": 263871,
+        "word": "谁家恋综敢这么亲啊",
+        "onboard_time": 1695735583,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254027,
+        "num": 254027,
+        "word": "原神",
+        "onboard_time": 1695772174,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237005,
+        "num": 237005,
+        "word": "好事成双原著中的卫明",
+        "onboard_time": 1695780875,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273477,
+        "num": 234999,
+        "word": "张凌赫张婧仪背影同框",
+        "onboard_time": 1695778115,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220616,
+        "num": 220616,
+        "word": "蜜雪冰城涨价",
+        "onboard_time": 1695736305,
+        "rank": 32,
+        "category": "财经,美食"
+      },
+      {
+        "raw_hot": 217763,
+        "num": 217763,
+        "word": "徐嘉余 感谢我顺",
+        "onboard_time": 1695776857,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217393,
+        "num": 217393,
+        "word": "英鳄鱼专家8年性侵虐杀数十只小狗",
+        "onboard_time": 1695781174,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210957,
+        "num": 210957,
+        "word": "黄牛花36元叫网约车收旅客100",
+        "onboard_time": 1695780755,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206487,
+        "num": 206487,
+        "word": "英雄联盟项目",
+        "onboard_time": 1695777993,
+        "rank": 36,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 195098,
+        "num": 195098,
+        "word": "仅停4分钟的高铁上消防救人只用了9秒",
+        "onboard_time": 1695742360,
+        "rank": 37,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 194607,
+        "num": 194607,
+        "word": "闪耀暖暖 掉率",
+        "onboard_time": 1695780272,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187039,
+        "num": 187039,
+        "word": "迪丽热巴王俊凯同框",
+        "onboard_time": 1695738645,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186284,
+        "num": 186284,
+        "word": "江西建工通报一领导要取消周末",
+        "onboard_time": 1695778003,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183625,
+        "num": 183625,
+        "word": "奇迹暖暖 回档",
+        "onboard_time": 1695777818,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 181427,
+        "num": 181427,
+        "word": "英雄联盟S13主题曲",
+        "onboard_time": 1695774939,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81979,
+        "num": 181040,
+        "word": "心梗黄金2小时有多重要",
+        "onboard_time": 1695779613,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180785,
+        "num": 180785,
+        "word": "Angelababy出发巴黎造型",
+        "onboard_time": 1695775119,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 175946,
+        "num": 175946,
+        "word": "北京大部分博物馆取消预约机制",
+        "onboard_time": 1695778955,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 174123,
+        "num": 174123,
+        "word": "小男孩还店主钱还送上一个月饼",
+        "onboard_time": 1695778715,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171917,
+        "num": 171917,
+        "word": "警方通报女子被住建局保安踩脚下",
+        "onboard_time": 1695774579,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163425,
+        "num": 163425,
+        "word": "被大熊猫的小龙女睡姿惊呆了",
+        "onboard_time": 1695778173,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160823,
+        "num": 160823,
+        "word": "幼年版刘嘉玲和梁朝伟",
+        "onboard_time": 1695772236,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#期待更多土特产为乡村发展赢得满堂彩#"
+    }
+  }
+}
