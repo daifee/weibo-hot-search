@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 23:18:51
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/27 23:34:34
 </p>
 </blockquote>
 <p>
@@ -2397,6 +2397,12 @@ Gemini领证（热度：1835025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%B3%E9%97%AD%E4%BA%A7%E7%A7%91%23" target="weibo">
+多家医院关闭产科（热度：1827488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%9B%E6%AC%BE%E6%9C%BA%E5%9E%8B%E7%9B%B8%E6%9C%BA%E6%9B%9D%E5%85%89%23" target="weibo">
 iPhone15四款机型相机曝光（热度：1825898）
 </a>
@@ -4235,12 +4241,6 @@ CoCo道歉（热度：1326101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%BB%BA%E8%AE%AE%E6%B2%A1%E4%B9%B0%E5%88%B0%E7%A5%A8%E7%9A%84%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E5%80%99%E8%A1%A5%23" target="weibo">
 12306建议没买到票的用户立即候补（热度：1293597）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%B3%E9%97%AD%E4%BA%A7%E7%A7%91%23" target="weibo">
-多家医院关闭产科（热度：1291582）
 </a>
 </li>
 

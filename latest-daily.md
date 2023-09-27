@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/27 00:22:32 ~ 2023/09/27 23:18:51
+本榜单时间：2023/09/27 00:22:32 ~ 2023/09/27 23:34:34
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@ CoCo奶茶道歉（热度：1916939）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%B3%E9%97%AD%E4%BA%A7%E7%A7%91%23" target="weibo">
+多家医院关闭产科（热度：1827488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E7%A9%BF%E5%A9%9A%E7%BA%B1%23" target="weibo">
 华晨宇演唱会穿婚纱（热度：1823114）
 </a>
@@ -191,12 +197,6 @@ CoCo道歉（热度：1326101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E7%94%A8%E7%88%B6%E4%BA%B2600%E5%9D%97%E4%B9%B0%E7%9A%84%E6%95%B4%E5%8F%AA%E7%89%9B%E5%A4%B4%E5%81%9A%E7%81%AB%E9%94%85%23" target="weibo">
 女儿用父亲600块买的整只牛头做火锅（热度：1314737）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E5%85%B3%E9%97%AD%E4%BA%A7%E7%A7%91%23" target="weibo">
-多家医院关闭产科（热度：1291582）
 </a>
 </li>
 
@@ -675,8 +675,20 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%92%8C%E7%B4%A0%E4%BA%BA%E5%90%88%E7%85%A7%23" target="weibo">
+张嘉倪和素人合照（热度：496245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%98%89%E4%BD%99%E6%9D%80%E7%96%AF%E4%BA%86%23" target="weibo">
 徐嘉余杀疯了（热度：494234）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E5%B7%A1%E6%BC%94%23" target="weibo">
+邓紫棋 巡演（热度：494196）
 </a>
 </li>
 
@@ -689,6 +701,12 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%8F%90%E8%B7%A8%E5%BC%8F%E8%B5%B0%E8%B7%AF%23" target="weibo">
 邓为提跨式走路（热度：489772）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E7%94%B7%E5%8D%AB%E6%98%8E%E6%8F%90%E7%A6%BB%E5%A9%9A%E7%8B%AC%E5%90%9E%E5%AE%B6%E4%BA%A7%23" target="weibo">
+出轨男卫明提离婚独吞家产（热度：484808）
 </a>
 </li>
 
@@ -783,12 +801,6 @@ Newjeans将演唱英雄联盟主题曲（热度：536012）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E5%92%8C%E7%B4%A0%E4%BA%BA%E5%90%88%E7%85%A7%23" target="weibo">
-张嘉倪和素人合照（热度：417533）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%A7%B0%E8%B4%A8%E7%96%91%E5%85%AC%E5%8F%B8%E5%8F%91%E5%81%87%E6%9C%88%E9%A5%BC%E5%90%8E%E8%A2%AB%E8%A7%A3%E9%9B%87%23" target="weibo">
 女子称质疑公司发假月饼后被解雇（热度：416065）
 </a>
@@ -803,6 +815,12 @@ YG新女团成员的Smoke舞蹈（热度：415106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E4%B8%AA%E4%B9%A0%E6%83%AF%E5%8F%AF%E8%83%BD%E5%AF%BC%E8%87%B4%E8%85%B9%E9%83%A8%E9%95%BF%E8%B5%98%E8%82%89%23" target="weibo">
 五个习惯可能导致腹部长赘肉（热度：413967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%96%BB%E8%A8%80%E5%90%8C%E5%9C%BA%E7%9C%8B%E7%A7%80%23" target="weibo">
+白鹿喻言同场看秀（热度：412012）
 </a>
 </li>
 
@@ -831,8 +849,8 @@ YG新女团成员的Smoke舞蹈（热度：415106）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E5%B7%A1%E6%BC%94%23" target="weibo">
-邓紫棋 巡演（热度：401027）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BC%A0%E9%B2%81%E4%B8%80%E5%90%8C%E6%A1%86%23" target="weibo">
+张艺兴张鲁一同框（热度：402169）
 </a>
 </li>
 
@@ -851,12 +869,6 @@ YG新女团成员的Smoke舞蹈（热度：415106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%BF%97%E5%8B%8B%E9%80%80%E4%BC%8D%23" target="weibo">
 表志勋退伍（热度：391573）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%96%BB%E8%A8%80%E5%90%8C%E5%9C%BA%E7%9C%8B%E7%A7%80%23" target="weibo">
-白鹿喻言同场看秀（热度：390293）
 </a>
 </li>
 
@@ -887,6 +899,12 @@ YG新女团成员的Smoke舞蹈（热度：415106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%83%8F%E5%9B%9E%E6%B6%88%E9%98%B2%E7%AB%99%E4%B8%B2%E9%97%A8%E7%9A%84%23" target="weibo">
 黄景瑜像回消防站串门的（热度：370075）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E9%A6%96%E9%83%A8%E4%B8%BB%E6%BC%94%E7%94%B5%E8%A7%86%E5%89%A7%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B42%23" target="weibo">
+张小斐首部主演电视剧收视率破2（热度：369919）
 </a>
 </li>
 
@@ -945,12 +963,6 @@ YG新女团成员的Smoke舞蹈（热度：415106）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%BD%A8%E7%94%B7%E5%8D%AB%E6%98%8E%E6%8F%90%E7%A6%BB%E5%A9%9A%E7%8B%AC%E5%90%9E%E5%AE%B6%E4%BA%A7%23" target="weibo">
-出轨男卫明提离婚独吞家产（热度：352574）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A5%B34x100%E6%B7%B7%E6%8E%A5%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%98%B5%E5%AE%B9%E5%A4%AA%E5%BC%BA%E4%BA%86%23" target="weibo">
 男女4x100混接中国队阵容太强了（热度：345714）
 </a>
@@ -965,12 +977,6 @@ YG新女团成员的Smoke舞蹈（热度：415106）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E5%90%AF%E7%A8%8B%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 杨幂启程巴黎时装周（热度：343699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%BC%A0%E9%B2%81%E4%B8%80%E5%90%8C%E6%A1%86%23" target="weibo">
-张艺兴张鲁一同框（热度：340258）
 </a>
 </li>
 
@@ -1037,6 +1043,12 @@ LEEHAN回应跟张凌赫长得像（热度：316016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%A4%B4%E5%8F%91%E4%B8%9D%E9%83%BD%E5%9C%A8%E5%8F%91%E5%85%89%23" target="weibo">
 迪丽热巴头发丝都在发光（热度：311096）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%B0%B4%E5%8E%9F%E5%B8%8C%E5%AD%90%E5%90%88%E7%85%A7%23" target="weibo">
+娜扎水原希子合照（热度：310338）
 </a>
 </li>
 
@@ -1113,12 +1125,6 @@ Angelababy出发巴黎造型（热度：299641）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E6%B0%B4%E5%8E%9F%E5%B8%8C%E5%AD%90%E5%90%88%E7%85%A7%23" target="weibo">
-娜扎水原希子合照（热度：297214）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%86%E6%89%8B%E5%90%8E%E7%94%B7%E7%94%9F%E5%8F%91%E7%BB%99%E6%88%91%E7%9A%84%E6%89%80%E6%9C%89%E8%B4%A6%E5%8D%95%23" target="weibo">
 分手后男生发给我的所有账单（热度：296306）
 </a>
@@ -1127,6 +1133,12 @@ Angelababy出发巴黎造型（热度：299641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A8%80%E5%93%B2%E5%81%9C%E8%B5%9B7%E5%9C%BA%E7%BD%9A%E6%AC%BE7%E4%B8%87%23" target="weibo">
 张稀哲停赛7场罚款7万（热度：294357）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E6%80%A5%E5%BE%97%E6%8B%8D%E5%A4%A7%E8%85%BF%23" target="weibo">
+姚明急得拍大腿（热度：290024）
 </a>
 </li>
 
@@ -1163,6 +1175,12 @@ Angelababy出发巴黎造型（热度：299641）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE55%E5%88%86%E5%A4%A7%E8%83%9C%E8%92%99%E5%8F%A4%E5%A5%B3%E7%AF%AE%23" target="weibo">
 中国女篮55分大胜蒙古女篮（热度：278587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
+心动的信号（热度：277458）
 </a>
 </li>
 
@@ -1377,12 +1395,6 @@ iPhone15Pro过热或是散热问题（热度：274916）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7%23" target="weibo">
-心动的信号（热度：229116）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E5%92%8F%E7%8F%8A%E8%B7%91%E5%8E%85%E8%B7%91%E5%88%B0%E8%A2%9C%E5%AD%90%E9%83%BD%E7%A0%B4%E4%BA%86%23" target="weibo">
 文咏珊跑厅跑到袜子都破了（热度：228099）
 </a>
@@ -1457,6 +1469,12 @@ iPhone15Pro过热或是散热问题（热度：274916）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%E9%98%9F%23" target="weibo">
 英雄联盟中国队vs韩国队（热度：217747）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A1%E5%A1%94%E5%B0%94%E7%90%83%E5%91%98%E5%9B%B4%E6%94%BB%E8%A3%81%E5%88%A4%23" target="weibo">
+卡塔尔球员围攻裁判（热度：217060）
 </a>
 </li>
 
@@ -1541,6 +1559,12 @@ iPhone15Pro过热或是散热问题（热度：274916）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%A8%E8%88%B9%E8%B5%B7%E7%81%AB%E4%BB%96%E4%BB%AC%E9%80%86%E8%A1%8C%E7%81%AD%E7%81%AB1%E5%B0%8F%E6%97%B6%E6%95%91%E4%BA%BA%23" target="weibo">
 木船起火他们逆行灭火1小时救人（热度：208462）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8E%E5%8F%B0%E7%8B%82%E7%82%AB%E5%B0%8F%E9%9B%B6%E9%A3%9F%23" target="weibo">
+王鹤棣后台狂炫小零食（热度：206723）
 </a>
 </li>
 
@@ -1785,6 +1809,12 @@ iPhone15ProMax影像分数排第二（热度：192026）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E6%99%92%E8%80%81%E5%85%AC%E8%A7%86%E8%A7%92%E7%BE%8E%E7%85%A7%23" target="weibo">
+陈乔恩晒老公视角美照（热度：183442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%94%9F%E5%9B%BE%23" target="weibo">
 张婧仪生图（热度：182783）
 </a>
@@ -1841,6 +1871,12 @@ iPhone15ProMax影像分数排第二（热度：192026）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%A4%A7%E9%83%A8%E5%88%86%E5%8D%9A%E7%89%A9%E9%A6%86%E5%8F%96%E6%B6%88%E9%A2%84%E7%BA%A6%E6%9C%BA%E5%88%B6%23" target="weibo">
 北京大部分博物馆取消预约机制（热度：175946）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E4%BB%80%E4%B9%88%E9%83%BD%E6%95%A2%E9%97%AE%23" target="weibo">
+胡彦斌什么都敢问（热度：174499）
 </a>
 </li>
 
@@ -1937,6 +1973,12 @@ iPhone15ProMax影像分数排第二（热度：192026）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%8C%E5%85%B0%E5%9C%A8%E9%87%8C%E9%9D%A2%E5%90%83%E5%A4%A7%E5%AE%B6%E5%9C%A8%E5%A4%96%E9%9D%A2%E6%8B%8D%23" target="weibo">
 萌兰在里面吃大家在外面拍（热度：162084）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%861%E5%A4%A9%E8%B5%B0%E4%B8%A23%E6%AC%A1%E6%B0%91%E8%AD%A6%E7%86%9F%E7%BB%83%E9%80%81%E5%9B%9E%23" target="weibo">
+婆婆1天走丢3次民警熟练送回（热度：161983）
 </a>
 </li>
 
@@ -2452,7 +2494,7 @@ Mate60遥遥领先（热度：65846）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%E9%99%8D%E4%B8%B4%E6%96%B0%E6%B5%AA%E6%80%BB%E9%83%A8%23" target="weibo">
-非凡大师降临新浪总部（热度：34936）
+非凡大师降临新浪总部（热度：40498）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695827931791,
+  "endTime": 1695828874004,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -3179,6 +3179,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1827488,
+      "num": 1827488,
+      "word": "多家医院关闭产科",
+      "onboard_time": 1695826837,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1825898,
       "num": 1825898,
       "word": "iPhone15四款机型相机曝光",
@@ -5632,14 +5640,6 @@
       "word": "12306建议没买到票的用户立即候补",
       "onboard_time": 1694668239,
       "rank": 24,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1291582,
-      "num": 1291582,
-      "word": "多家医院关闭产科",
-      "onboard_time": 1695826837,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -21547,6 +21547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 496245,
+      "num": 403992,
+      "word": "张嘉倪和素人合照",
+      "onboard_time": 1695826477,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496143,
       "num": 496143,
       "word": "650合体",
@@ -21641,6 +21649,14 @@
       "onboard_time": 1695821980,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494196,
+      "num": 494196,
+      "word": "邓紫棋 巡演",
+      "onboard_time": 1695826962,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 494040,
@@ -22081,6 +22097,14 @@
       "onboard_time": 1695389739,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 484808,
+      "num": 484808,
+      "word": "出轨男卫明提离婚独吞家产",
+      "onboard_time": 1695827377,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 484636,
@@ -26211,14 +26235,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 417533,
-      "num": 400606,
-      "word": "张嘉倪和素人合照",
-      "onboard_time": 1695826477,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 417527,
       "num": 287111,
       "word": "爱奇艺热度破万剧评分TOP9",
@@ -26585,6 +26601,14 @@
       "onboard_time": 1695270339,
       "rank": 26,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 412012,
+      "num": 412012,
+      "word": "白鹿喻言同场看秀",
+      "onboard_time": 1695827319,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 411794,
@@ -27187,6 +27211,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 402169,
+      "num": 402169,
+      "word": "张艺兴张鲁一同框",
+      "onboard_time": 1695827196,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 401961,
       "num": 401961,
       "word": "李亚男的画",
@@ -27225,14 +27257,6 @@
       "onboard_time": 1694763454,
       "rank": 18,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 401027,
-      "num": 401027,
-      "word": "邓紫棋 巡演",
-      "onboard_time": 1695826962,
-      "rank": 9,
-      "category": "演出"
     },
     {
       "raw_hot": 400952,
@@ -27825,14 +27849,6 @@
       "onboard_time": 1694768674,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390293,
-      "num": 390293,
-      "word": "白鹿喻言同场看秀",
-      "onboard_time": 1695827319,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 390241,
@@ -29219,6 +29235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369919,
+      "num": 369919,
+      "word": "张小斐首部主演电视剧收视率破2",
+      "onboard_time": 1695828040,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369889,
       "num": 300989,
       "word": "班里男同学帮我买卫生巾",
@@ -30587,14 +30611,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 352574,
-      "num": 352574,
-      "word": "出轨男卫明提离婚独吞家产",
-      "onboard_time": 1695827377,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 352525,
       "num": 352525,
       "word": "前任4郑恺曾梦雪发明结婚冷静期",
@@ -31505,14 +31521,6 @@
       "onboard_time": 1694442765,
       "rank": 47,
       "category": "影视"
-    },
-    {
-      "raw_hot": 340258,
-      "num": 340258,
-      "word": "张艺兴张鲁一同框",
-      "onboard_time": 1695827196,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 340173,
@@ -34571,6 +34579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310338,
+      "num": 297214,
+      "word": "娜扎水原希子合照",
+      "onboard_time": 1695825578,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 310331,
       "num": 310331,
       "word": "狄龙39分",
@@ -36091,14 +36107,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 297214,
-      "num": 297214,
-      "word": "娜扎水原希子合照",
-      "onboard_time": 1695825578,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 297009,
       "num": 297009,
       "word": "曾舜晞也走不出莲花楼",
@@ -36825,6 +36833,14 @@
       "onboard_time": 1695281136,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 290024,
+      "num": 157770,
+      "word": "姚明急得拍大腿",
+      "onboard_time": 1695828395,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 289862,
@@ -47187,6 +47203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217060,
+      "num": 154075,
+      "word": "卡塔尔球员围攻裁判",
+      "onboard_time": 1695828517,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217026,
       "num": 217026,
       "word": "姬发 谁懂啊太子冲过来像头脱缰的牛",
@@ -49273,6 +49297,14 @@
       "onboard_time": 1694578838,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206723,
+      "num": 151141,
+      "word": "王鹤棣后台狂炫小零食",
+      "onboard_time": 1695828517,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 206683,
@@ -56083,6 +56115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183442,
+      "num": 146531,
+      "word": "陈乔恩晒老公视角美照",
+      "onboard_time": 1695828096,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183418,
       "num": 183418,
       "word": "液体猫和固体猫",
@@ -57873,6 +57913,14 @@
       "onboard_time": 1694052513,
       "rank": 40,
       "category": "影视"
+    },
+    {
+      "raw_hot": 174499,
+      "num": 129434,
+      "word": "胡彦斌什么都敢问",
+      "onboard_time": 1695828695,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 174489,
@@ -60185,6 +60233,14 @@
       "onboard_time": 1695819094,
       "rank": 36,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 161983,
+      "num": 161983,
+      "word": "婆婆1天走丢3次民警熟练送回",
+      "onboard_time": 1695828456,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161865,
@@ -71019,6 +71075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40498,
+      "num": 392701,
+      "word": "非凡大师降临新浪总部",
+      "onboard_time": 1695826898,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40443,
       "num": 1927929,
       "word": "新时代成就巡礼",
@@ -71385,14 +71449,6 @@
       "onboard_time": 1694322034,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 34936,
-      "num": 392701,
-      "word": "非凡大师降临新浪总部",
-      "onboard_time": 1695826898,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 34792,

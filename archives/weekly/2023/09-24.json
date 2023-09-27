@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695827931791,
+  "endTime": 1695828874004,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1827488,
+      "num": 1827488,
+      "word": "多家医院关闭产科",
+      "onboard_time": 1695826837,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1823114,
       "num": 1823114,
       "word": "华晨宇演唱会穿婚纱",
@@ -720,14 +728,6 @@
       "word": "女儿用父亲600块买的整只牛头做火锅",
       "onboard_time": 1695817412,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1291582,
-      "num": 1291582,
-      "word": "多家医院关闭产科",
-      "onboard_time": 1695826837,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -3355,6 +3355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 496245,
+      "num": 403992,
+      "word": "张嘉倪和素人合照",
+      "onboard_time": 1695826477,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496029,
       "num": 883192,
       "word": "王俊凯去了塞纳河畔",
@@ -3369,6 +3377,14 @@
       "onboard_time": 1695821980,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 494196,
+      "num": 494196,
+      "word": "邓紫棋 巡演",
+      "onboard_time": 1695826962,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 493754,
@@ -3409,6 +3425,14 @@
       "onboard_time": 1695728917,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 484808,
+      "num": 484808,
+      "word": "出轨男卫明提离婚独吞家产",
+      "onboard_time": 1695827377,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 483776,
@@ -3995,14 +4019,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 417533,
-      "num": 400606,
-      "word": "张嘉倪和素人合照",
-      "onboard_time": 1695826477,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 416065,
       "num": 416065,
       "word": "女子称质疑公司发假月饼后被解雇",
@@ -4049,6 +4065,14 @@
       "onboard_time": 1695536013,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412012,
+      "num": 412012,
+      "word": "白鹿喻言同场看秀",
+      "onboard_time": 1695827319,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 409992,
@@ -4147,12 +4171,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 401027,
-      "num": 401027,
-      "word": "邓紫棋 巡演",
-      "onboard_time": 1695826962,
-      "rank": 9,
-      "category": "演出"
+      "raw_hot": 402169,
+      "num": 402169,
+      "word": "张艺兴张鲁一同框",
+      "onboard_time": 1695827196,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 399799,
@@ -4217,14 +4241,6 @@
       "onboard_time": 1695789878,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390293,
-      "num": 390293,
-      "word": "白鹿喻言同场看秀",
-      "onboard_time": 1695827319,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 389169,
@@ -4416,6 +4432,14 @@
       "word": "黄景瑜像回消防站串门的",
       "onboard_time": 1695795275,
       "rank": 20,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 369919,
+      "num": 369919,
+      "word": "张小斐首部主演电视剧收视率破2",
+      "onboard_time": 1695828040,
+      "rank": 16,
       "category": "剧集"
     },
     {
@@ -4611,14 +4635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352574,
-      "num": 352574,
-      "word": "出轨男卫明提离婚独吞家产",
-      "onboard_time": 1695827377,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 352107,
       "num": 352107,
       "word": "王俊凯巴黎时装周造型",
@@ -4713,14 +4729,6 @@
       "onboard_time": 1695563139,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 340258,
-      "num": 340258,
-      "word": "张艺兴张鲁一同框",
-      "onboard_time": 1695827196,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 339863,
@@ -5227,6 +5235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310338,
+      "num": 297214,
+      "word": "娜扎水原希子合照",
+      "onboard_time": 1695825578,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 309892,
       "num": 537860,
       "word": "00后小将张杰滑板男子街式摘金",
@@ -5451,14 +5467,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 297214,
-      "num": 297214,
-      "word": "娜扎水原希子合照",
-      "onboard_time": 1695825578,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 297009,
       "num": 297009,
       "word": "曾舜晞也走不出莲花楼",
@@ -5585,6 +5593,14 @@
       "onboard_time": 1695517171,
       "rank": 28,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 290024,
+      "num": 157770,
+      "word": "姚明急得拍大腿",
+      "onboard_time": 1695828395,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 289860,
@@ -5873,6 +5889,14 @@
       "onboard_time": 1695717333,
       "rank": 26,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 277458,
+      "num": 218811,
+      "word": "心动的信号",
+      "onboard_time": 1695827677,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 277357,
@@ -7019,14 +7043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 229116,
-      "num": 164676,
-      "word": "心动的信号",
-      "onboard_time": 1695827677,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228618,
       "num": 228618,
       "word": "钮钴禄黄轩已黑化",
@@ -7320,6 +7336,14 @@
       "word": "中国男排 倍儿爽",
       "onboard_time": 1695645936,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217060,
+      "num": 154075,
+      "word": "卡塔尔球员围攻裁判",
+      "onboard_time": 1695828517,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -7705,6 +7729,14 @@
       "onboard_time": 1695512365,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206723,
+      "num": 151141,
+      "word": "王鹤棣后台狂炫小零食",
+      "onboard_time": 1695828517,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 206683,
@@ -8979,6 +9011,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183442,
+      "num": 146531,
+      "word": "陈乔恩晒老公视角美照",
+      "onboard_time": 1695828096,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183408,
       "num": 183408,
       "word": "李玫瑾谈遇到校园欺凌该怎么办",
@@ -9281,6 +9321,14 @@
       "onboard_time": 1695714995,
       "rank": 44,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 174499,
+      "num": 129434,
+      "word": "胡彦斌什么都敢问",
+      "onboard_time": 1695828695,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 174352,
@@ -9705,6 +9753,14 @@
       "onboard_time": 1695819094,
       "rank": 36,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 161983,
+      "num": 161983,
+      "word": "婆婆1天走丢3次民警熟练送回",
+      "onboard_time": 1695828456,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161760,
@@ -12043,6 +12099,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 40498,
+      "num": 392701,
+      "word": "非凡大师降临新浪总部",
+      "onboard_time": 1695826898,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 39270,
       "num": 49545,
       "word": "有职业空窗期再就业有多难",
@@ -12105,14 +12169,6 @@
       "onboard_time": 1695663021,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34936,
-      "num": 392701,
-      "word": "非凡大师降临新浪总部",
-      "onboard_time": 1695826898,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 34773,
