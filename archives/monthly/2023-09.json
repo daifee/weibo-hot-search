@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695836040896,
+  "endTime": 1695838934189,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -67691,6 +67691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 102290,
+      "num": 102290,
+      "word": "CS2",
+      "onboard_time": 1695834683,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 102167,
       "num": 102167,
       "word": "00后民警第1次收到锦旗是汪星人送的",
@@ -69537,14 +69545,6 @@
       "onboard_time": 1694331091,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71045,
-      "num": 71045,
-      "word": "CS2",
-      "onboard_time": 1695834683,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 71027,

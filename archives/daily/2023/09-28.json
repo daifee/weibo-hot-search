@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695836040896,
+  "endTime": 1695838934189,
   "band_list": [
     {
       "raw_hot": 2089727,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108271,
+      "num": 108271,
+      "word": "五个习惯可能导致腹部长赘肉",
+      "onboard_time": 1695809551,
+      "rank": 48,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 106098,
       "num": 106098,
       "word": "原神三周年",
@@ -339,12 +347,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 104381,
-      "num": 104381,
-      "word": "五个习惯可能导致腹部长赘肉",
-      "onboard_time": 1695809551,
+      "raw_hot": 102290,
+      "num": 102290,
+      "word": "CS2",
+      "onboard_time": 1695834683,
       "rank": 48,
-      "category": "运动健身"
+      "category": "游戏"
     },
     {
       "raw_hot": 100358,
@@ -417,14 +425,6 @@
       "onboard_time": 1695829954,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71045,
-      "num": 71045,
-      "word": "CS2",
-      "onboard_time": 1695834683,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 69216,

@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695836040896,
+  "endTime": 1695838934189,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -11435,6 +11435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102290,
+      "num": 102290,
+      "word": "CS2",
+      "onboard_time": 1695834683,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 101554,
       "num": 101554,
       "word": "多部杰尼斯艺人电视剧停止制作",
@@ -11801,14 +11809,6 @@
       "onboard_time": 1695780032,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71045,
-      "num": 71045,
-      "word": "CS2",
-      "onboard_time": 1695834683,
-      "rank": 48,
-      "category": "游戏"
     },
     {
       "raw_hot": 71027,
