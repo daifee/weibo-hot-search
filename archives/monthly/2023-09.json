@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695929647668,
+  "endTime": 1695932164202,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -75171,6 +75171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 24720,
+      "num": 30975,
+      "word": "国庆假期",
+      "onboard_time": 1695920307,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24601,
       "num": 193060,
       "word": "JDG的健康上分秘籍",
@@ -75209,14 +75217,6 @@
       "onboard_time": 1693509255,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24038,
-      "num": 30975,
-      "word": "国庆假期",
-      "onboard_time": 1695920307,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23943,
