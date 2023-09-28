@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695940428190,
+  "endTime": 1695943009025,
   "band_list": [
     {
       "raw_hot": 1778081,
@@ -16,6 +16,14 @@
       "word": "许家印父子及多名恒大高管涉案被查",
       "onboard_time": 1695915998,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1254077,
+      "num": 1254077,
+      "word": "高速",
+      "onboard_time": 1695911142,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -40,14 +48,6 @@
       "word": "水果店8.8元一斤卖榴莲惊动特警",
       "onboard_time": 1695903035,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 789314,
-      "num": 789314,
-      "word": "高速",
-      "onboard_time": 1695911142,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -99,20 +99,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557290,
+      "num": 557290,
+      "word": "别人的是简历马龙的是繁历",
+      "onboard_time": 1695915335,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552040,
       "num": 386716,
       "word": "女子给狗挤肛门腺喷射到左眼致感染",
       "onboard_time": 1695903455,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528773,
-      "num": 528773,
-      "word": "别人的是简历马龙的是繁历",
-      "onboard_time": 1695915335,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 438793,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 421907,
-      "num": 274743,
+      "num": 326028,
       "word": "月饼今年卖不动了",
       "onboard_time": 1695918330,
       "rank": 24,
@@ -153,6 +153,14 @@
       "onboard_time": 1695905983,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 402004,
+      "num": 402004,
+      "word": "网约车老爸的1800多次道歉",
+      "onboard_time": 1695908681,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401741,
@@ -179,20 +187,20 @@
       "category": "其它"
     },
     {
+      "raw_hot": 359103,
+      "num": 359103,
+      "word": "两个邓布利多都离世了",
+      "onboard_time": 1695904360,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340191,
       "num": 340191,
       "word": "iPhone改华为手机壳热销",
       "onboard_time": 1695907426,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 339689,
-      "num": 339689,
-      "word": "两个邓布利多都离世了",
-      "onboard_time": 1695904360,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 300252,
@@ -216,14 +224,6 @@
       "word": "因证据不足14岁女孩被认定为卖淫女",
       "onboard_time": 1695883237,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260056,
-      "num": 260056,
-      "word": "网约车老爸的1800多次道歉",
-      "onboard_time": 1695908681,
-      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163008,
+      "num": 163008,
+      "word": "男子双人舞生育力溢出来了",
+      "onboard_time": 1695910722,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161657,
       "num": 161657,
       "word": "电影志愿军口碑",
@@ -387,12 +395,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139018,
-      "num": 139018,
-      "word": "男子双人舞生育力溢出来了",
-      "onboard_time": 1695910722,
-      "rank": 49,
-      "category": "综艺"
+      "raw_hot": 134277,
+      "num": 258955,
+      "word": "人类首次看见的那个黑洞证明确实在自旋",
+      "onboard_time": 1695933494,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 130783,
@@ -411,20 +419,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95454,
-      "num": 121697,
-      "word": "人类首次看见的那个黑洞证明确实在自旋",
-      "onboard_time": 1695933494,
-      "rank": 30,
-      "category": "科技"
+      "raw_hot": 111841,
+      "num": 111841,
+      "word": "中秋文案",
+      "onboard_time": 1695940640,
+      "rank": 28,
+      "category": "情感"
     },
     {
-      "raw_hot": 75744,
-      "num": 75744,
+      "raw_hot": 84401,
+      "num": 84401,
+      "word": "阳光玫瑰为什么味道不如以前了",
+      "onboard_time": 1695942443,
+      "rank": 32,
+      "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 81986,
+      "num": 81986,
       "word": "亚运会三小只发饰太可爱了",
       "onboard_time": 1695922403,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77878,
+      "num": 77878,
+      "word": "许家印被查细节披露",
+      "onboard_time": 1695942686,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76618,
+      "num": 76618,
+      "word": "小伙开车20小时到医院帮90岁老兵圆梦",
+      "onboard_time": 1695940520,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74286,
@@ -435,6 +467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 68200,
+      "num": 68200,
+      "word": "周迅看那英的眼神",
+      "onboard_time": 1695932235,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67634,
       "num": 67634,
       "word": "频繁做美甲 让指甲休息一下",
@@ -443,20 +483,20 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 60138,
+      "num": 67620,
+      "word": "没想到有一天室友变亲戚了",
+      "onboard_time": 1695942986,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49037,
       "num": 53636,
       "word": "78岁爷爷穿汉服送花灯",
       "onboard_time": 1695923361,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36924,
-      "num": 36924,
-      "word": "周迅看那英的眼神",
-      "onboard_time": 1695932235,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 34610,
@@ -483,7 +523,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23809,
+      "raw_hot": 29345,
       "num": 816534,
       "word": "杭州亚运赛场燃情瞬间",
       "onboard_time": 1695900993,
