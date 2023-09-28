@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695921326118,
+  "endTime": 1695922457996,
   "band_list": [
     {
       "raw_hot": 1778081,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421907,
+      "num": 274743,
+      "word": "月饼今年卖不动了",
+      "onboard_time": 1695918330,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 416682,
       "num": 416682,
       "word": "她俩眼神真的不清白",
@@ -201,14 +209,6 @@
       "onboard_time": 1695912461,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 274743,
-      "num": 274743,
-      "word": "月饼今年卖不动了",
-      "onboard_time": 1695918330,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 264286,
@@ -409,6 +409,22 @@
       "onboard_time": 1695906585,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68637,
+      "num": 68637,
+      "word": "亚运会三小只发饰太可爱了",
+      "onboard_time": 1695922403,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67634,
+      "num": 67634,
+      "word": "频繁做美甲 让指甲休息一下",
+      "onboard_time": 1695902496,
+      "rank": 48,
+      "category": "时尚"
     },
     {
       "raw_hot": 23809,

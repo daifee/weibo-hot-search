@@ -1,0 +1,410 @@
+{
+  "runTime": 1695922457996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 524304,
+        "num": 524304,
+        "word": "邓布利多扮演者去世",
+        "onboard_time": 1695903275,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473647,
+        "num": 473647,
+        "word": "水果店8.8元一斤卖榴莲惊动特警",
+        "onboard_time": 1695903035,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21684,
+        "num": 362937,
+        "word": "杭州亚运赛场燃情瞬间",
+        "onboard_time": 1695900993,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 356590,
+        "num": 356590,
+        "word": "天津大姨盘头",
+        "onboard_time": 1695917912,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 313438,
+        "num": 313438,
+        "word": "她俩眼神真的不清白",
+        "onboard_time": 1695905983,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 779391,
+        "num": 312665,
+        "word": "许家印已为儿子设立信托基金",
+        "onboard_time": 1695914319,
+        "rank": 5,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 302157,
+        "num": 302157,
+        "word": "别人的是简历马龙的是繁历",
+        "onboard_time": 1695915335,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286444,
+        "num": 286444,
+        "word": "卢昱晓回应被说普",
+        "onboard_time": 1695913363,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252484,
+        "num": 252484,
+        "word": "王鹤棣说一直有闯入影坛的打算",
+        "onboard_time": 1695917493,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215292,
+        "num": 215292,
+        "word": "高速",
+        "onboard_time": 1695911142,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703063,
+        "num": 215191,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695915998,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445114,
+        "num": 213886,
+        "word": "纪梵希 虞书欣",
+        "onboard_time": 1695911380,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 272674,
+        "num": 213730,
+        "word": "坚如磐石删减 尺度奇观",
+        "onboard_time": 1695897752,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116857,
+        "num": 212536,
+        "word": "庆祝中华人民共和国成立74周年招待会",
+        "onboard_time": 1695909763,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 108867,
+        "num": 211605,
+        "word": "中国队男子4×100自由泳接力金牌",
+        "onboard_time": 1695907665,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321818,
+        "num": 211263,
+        "word": "许家印可能涉嫌多项罪名",
+        "onboard_time": 1695906347,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248704,
+        "num": 210511,
+        "word": "两个邓布利多都离世了",
+        "onboard_time": 1695904360,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224648,
+        "num": 209886,
+        "word": "杨幂Angelababy巴黎时装周造型",
+        "onboard_time": 1695911324,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 270568,
+        "num": 208800,
+        "word": "许家印已被依法采取强制措施",
+        "onboard_time": 1695904422,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208565,
+        "num": 208565,
+        "word": "王冰冰的衣服上到底写了啥",
+        "onboard_time": 1695916420,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 421907,
+        "num": 208500,
+        "word": "月饼今年卖不动了",
+        "onboard_time": 1695918330,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 265674,
+        "num": 208325,
+        "word": "女子给狗挤肛门腺喷射到左眼致感染",
+        "onboard_time": 1695903455,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208119,
+        "num": 208119,
+        "word": "死亡只不过是下一场精彩的探险而已",
+        "onboard_time": 1695912103,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206700,
+        "num": 206700,
+        "word": "成毅 突然出现",
+        "onboard_time": 1695913540,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175357,
+        "num": 175357,
+        "word": "前任4",
+        "onboard_time": 1695906523,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159498,
+        "num": 159498,
+        "word": "因证据不足14岁女孩被认定为卖淫女",
+        "onboard_time": 1695883237,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151816,
+        "num": 151816,
+        "word": "男子被卷车底血肉模糊119和120齐上阵",
+        "onboard_time": 1695917254,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147999,
+        "num": 147999,
+        "word": "电影坚如磐石口碑",
+        "onboard_time": 1695917793,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134631,
+        "num": 134631,
+        "word": "国庆假门还没出就亏了3500元",
+        "onboard_time": 1695899134,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126139,
+        "num": 126139,
+        "word": "iPhone改华为手机壳热销",
+        "onboard_time": 1695907426,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 119551,
+        "num": 119551,
+        "word": "网约车老爸的1800多次道歉",
+        "onboard_time": 1695908681,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113766,
+        "num": 113766,
+        "word": "舒肤佳 檀健次",
+        "onboard_time": 1695911324,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104434,
+        "num": 104434,
+        "word": "任嘉伦工作室严正声明",
+        "onboard_time": 1695897513,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100477,
+        "num": 100477,
+        "word": "她推了西娘娘",
+        "onboard_time": 1695897333,
+        "rank": 33,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 99170,
+        "num": 99170,
+        "word": "一张照片证明你在堵车",
+        "onboard_time": 1695912461,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 94032,
+        "num": 94032,
+        "word": "奥尼尔称自己是半个中国人",
+        "onboard_time": 1695912461,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87174,
+        "num": 87174,
+        "word": "花西子承认助梦大使称号",
+        "onboard_time": 1695895535,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 84378,
+        "num": 84378,
+        "word": "电影志愿军口碑",
+        "onboard_time": 1695914798,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84148,
+        "num": 84148,
+        "word": "这是飞了多高啊",
+        "onboard_time": 1695917196,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81892,
+        "num": 81892,
+        "word": "陈都灵钢琴弹唱呼唤文物回家",
+        "onboard_time": 1695904663,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80953,
+        "num": 80953,
+        "word": "杨超越去进修演技了",
+        "onboard_time": 1695903095,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78362,
+        "num": 78362,
+        "word": "盘点许家印商业版图",
+        "onboard_time": 1695910304,
+        "rank": 41,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 77941,
+        "num": 77941,
+        "word": "Angelababy 巴黎夜幕",
+        "onboard_time": 1695913303,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 75380,
+        "num": 75380,
+        "word": "檀健次央视网文娱中秋祝福",
+        "onboard_time": 1695915875,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72967,
+        "num": 72967,
+        "word": "吴艳妮暂停训练向国旗行注目礼",
+        "onboard_time": 1695914858,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69606,
+        "num": 69606,
+        "word": "柯洁逆转",
+        "onboard_time": 1695890856,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68637,
+        "num": 68637,
+        "word": "亚运会三小只发饰太可爱了",
+        "onboard_time": 1695922403,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67684,
+        "num": 67684,
+        "word": "我们的歌第五季阵容官宣",
+        "onboard_time": 1695905385,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67634,
+        "num": 67634,
+        "word": "频繁做美甲 让指甲休息一下",
+        "onboard_time": 1695902496,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 61409,
+        "num": 67634,
+        "word": "出轨男卫明卖房妻女无家可归",
+        "onboard_time": 1695906585,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高驾驭高水平对外开放能力#"
+    }
+  }
+}
