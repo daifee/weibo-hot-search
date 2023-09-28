@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695928422272,
+  "endTime": 1695929647668,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -75211,6 +75211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 24038,
+      "num": 30975,
+      "word": "国庆假期",
+      "onboard_time": 1695920307,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23943,
       "num": 38299,
       "word": "唐禹哲不愧是年轻的身体",
@@ -75249,14 +75257,6 @@
       "onboard_time": 1693941913,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 23724,
-      "num": 30975,
-      "word": "国庆假期",
-      "onboard_time": 1695920307,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23368,
