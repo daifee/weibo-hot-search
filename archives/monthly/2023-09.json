@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695872037489,
+  "endTime": 1695874808355,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -489,6 +489,14 @@
       "onboard_time": 1694512958,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 3507392,
+      "num": 3507392,
+      "word": "花西子眉笔 自动铅笔",
+      "onboard_time": 1695874056,
+      "rank": 0,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 3473689,
@@ -1505,6 +1513,14 @@
       "onboard_time": 1694182957,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 2457292,
+      "num": 2457292,
+      "word": "得力收拾收拾准备升咖",
+      "onboard_time": 1695871360,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 2451513,
@@ -4489,14 +4505,6 @@
       "onboard_time": 1693788458,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1523074,
-      "num": 1523074,
-      "word": "得力收拾收拾准备升咖",
-      "onboard_time": 1695871360,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 1522021,
@@ -8611,6 +8619,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 963222,
+      "num": 963222,
+      "word": "大同欺凌事件校方曾建议三年级以上住校",
+      "onboard_time": 1695869260,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 963077,
       "num": 480590,
       "word": "姑姑的钱算我的家庭资产吗",
@@ -11657,6 +11673,14 @@
       "onboard_time": 1695517531,
       "rank": 1,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 782954,
+      "num": 782954,
+      "word": "张杰签售了10个小时",
+      "onboard_time": 1695873637,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 782776,
@@ -15523,6 +15547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 641829,
+      "num": 641829,
+      "word": "王栎鑫你是真敢说啊",
+      "onboard_time": 1695872134,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641794,
       "num": 641794,
       "word": "90后为何不愿生孩子了",
@@ -16251,6 +16283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 620475,
+      "num": 620475,
+      "word": "捷豹勇敢飞",
+      "onboard_time": 1695871656,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620096,
       "num": 568747,
       "word": "电影院遇到这么懂原子弹的",
@@ -16323,12 +16363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 618805,
+      "num": 522547,
+      "word": "柯洁冲击金牌",
+      "onboard_time": 1695867034,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 618366,
       "num": 618366,
       "word": "迪奥二零二四春夏成衣秀",
       "onboard_time": 1695724960,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 618174,
+      "num": 408841,
+      "word": "柯洁vs一力辽",
+      "onboard_time": 1695872313,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 618116,
@@ -17337,6 +17393,14 @@
       "onboard_time": 1694940873,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 593408,
+      "num": 386221,
+      "word": "孙颖莎又打出11比0",
+      "onboard_time": 1695873096,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 593336,
@@ -21275,14 +21339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 506239,
-      "num": 506239,
-      "word": "大同欺凌事件校方曾建议三年级以上住校",
-      "onboard_time": 1695869260,
-      "rank": 17,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 506186,
       "num": 506186,
       "word": "周琦 手术",
@@ -21713,6 +21769,14 @@
       "onboard_time": 1693980513,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 498293,
+      "num": 405075,
+      "word": "二等兵申真谞 出列",
+      "onboard_time": 1695874477,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 498251,
@@ -24059,6 +24123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 455637,
+      "num": 428014,
+      "word": "芭莎婚恋所又拍新CP啦",
+      "onboard_time": 1695871175,
+      "rank": 18,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 455589,
       "num": 690986,
       "word": "台风苏拉一天两次登陆广东",
@@ -25731,14 +25803,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 428014,
-      "num": 428014,
-      "word": "芭莎婚恋所又拍新CP啦",
-      "onboard_time": 1695871175,
-      "rank": 18,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 427932,
       "num": 427932,
       "word": "吴艳妮入场好兴奋",
@@ -25849,14 +25913,6 @@
       "onboard_time": 1694534614,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 426543,
-      "num": 426543,
-      "word": "捷豹勇敢飞",
-      "onboard_time": 1695871656,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 425944,
@@ -26035,6 +26091,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 423863,
+      "num": 250851,
+      "word": "knight 妖姬",
+      "onboard_time": 1695873096,
+      "rank": 31,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 423856,
       "num": 359801,
       "word": "熟悉的港剧杀回来了",
@@ -26057,6 +26121,14 @@
       "onboard_time": 1693525950,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 423597,
+      "num": 423597,
+      "word": "张嘉倪回应网友呼唤努力搞事业",
+      "onboard_time": 1695871113,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 423380,
@@ -27179,14 +27251,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 407693,
-      "num": 522547,
-      "word": "柯洁冲击金牌",
-      "onboard_time": 1695867034,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 407585,
       "num": 632689,
       "word": "不好意思我天生微笑唇",
@@ -27537,6 +27601,14 @@
       "onboard_time": 1694171854,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401412,
+      "num": 401412,
+      "word": "周笔畅 票都抢到了吗",
+      "onboard_time": 1695874297,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 401363,
@@ -28291,6 +28363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 388511,
+      "num": 388511,
+      "word": "比恋爱脑更可悲的是清醒的恋爱脑",
+      "onboard_time": 1695874357,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388388,
       "num": 388388,
       "word": "英雄联盟韩国队晋级八强",
@@ -28633,6 +28713,14 @@
       "onboard_time": 1694418815,
       "rank": 21,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 383215,
+      "num": 383215,
+      "word": "成都地铁上被误认偷拍男子发文",
+      "onboard_time": 1695872855,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 383186,
@@ -31883,6 +31971,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 340240,
+      "num": 481627,
+      "word": "中秋国庆假期第1天你想干什么",
+      "onboard_time": 1695863800,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 340173,
       "num": 283219,
       "word": "周杰伦演唱会开场话筒没声音",
@@ -32001,14 +32097,6 @@
       "onboard_time": 1693582898,
       "rank": 28,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 338802,
-      "num": 481627,
-      "word": "中秋国庆假期第1天你想干什么",
-      "onboard_time": 1695863800,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 338739,
@@ -34435,6 +34523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315793,
+      "num": 315793,
+      "word": "得力回应花西子发疯",
+      "onboard_time": 1695868838,
+      "rank": 24,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 315694,
       "num": 302850,
       "word": "周杰伦演唱会上男粉发言给我听哭了",
@@ -35803,14 +35899,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 302472,
-      "num": 302472,
-      "word": "得力回应花西子发疯",
-      "onboard_time": 1695868838,
-      "rank": 24,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 302346,
       "num": 302346,
       "word": "敖子逸不愧是FMVP",
@@ -35945,6 +36033,14 @@
       "onboard_time": 1695571355,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 301513,
+      "num": 301513,
+      "word": "张远听不得春晚两个字",
+      "onboard_time": 1695874237,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 301492,
@@ -38083,12 +38179,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 283366,
-      "num": 283366,
-      "word": "张嘉倪回应网友呼唤努力搞事业",
-      "onboard_time": 1695871113,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 283414,
+      "num": 283414,
+      "word": "戚薇白鹿徐明浩同框",
+      "onboard_time": 1695871956,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 283358,
@@ -41849,6 +41945,14 @@
       "onboard_time": 1693818097,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255200,
+      "num": 255200,
+      "word": "柯洁晋级亚运会决赛",
+      "onboard_time": 1695874538,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 255009,
@@ -47113,6 +47217,14 @@
       "onboard_time": 1695370832,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219889,
+      "num": 219889,
+      "word": "王海称花西子应该给消费者退一赔三",
+      "onboard_time": 1695873456,
+      "rank": 37,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 219888,
@@ -56883,14 +56995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182297,
-      "num": 166712,
-      "word": "戚薇白鹿徐明浩同框",
-      "onboard_time": 1695871956,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182256,
       "num": 513485,
       "word": "女子对着监控喊爸爸每一声都有回应",
@@ -57595,6 +57699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 178980,
+      "num": 178980,
+      "word": "惊奇队长2定档",
+      "onboard_time": 1695872855,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178954,
       "num": 246944,
       "word": "中国的银行AI有多牛",
@@ -57784,6 +57896,14 @@
       "word": "丘索维金娜眼中的体育精神",
       "onboard_time": 1695864458,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177969,
+      "num": 177969,
+      "word": "汪顺回应爸爸请邻居吃饭",
+      "onboard_time": 1695872255,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -65348,7 +65468,7 @@
     },
     {
       "raw_hot": 135882,
-      "num": 135882,
+      "num": 152707,
       "word": "非遗传承人把独门秘诀带进亚运村",
       "onboard_time": 1695871775,
       "rank": 49,
@@ -68851,6 +68971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94516,
+      "num": 1528740,
+      "word": "当千里江山图遇上诗画浙江",
+      "onboard_time": 1695870759,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 94178,
       "num": 94178,
       "word": "王琳推荐肖战参加战至巅峰",
@@ -68881,6 +69009,14 @@
       "onboard_time": 1695038918,
       "rank": 19,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 93454,
+      "num": 412314,
+      "word": "因提瓦特相聚",
+      "onboard_time": 1695873637,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 93404,
@@ -71123,14 +71259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54649,
-      "num": 1528740,
-      "word": "当千里江山图遇上诗画浙江",
-      "onboard_time": 1695870759,
-      "rank": 2,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 54610,
       "num": 554448,
       "word": "路遇肇事逃逸他主动留下保护伤者",
@@ -72609,6 +72737,14 @@
       "onboard_time": 1695808835,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 30493,
+      "num": 229209,
+      "word": "mate60rs评测",
+      "onboard_time": 1695873938,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 30378,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1695874808355,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3507392,
+        "num": 3507392,
+        "word": "花西子眉笔 自动铅笔",
+        "onboard_time": 1695874056,
+        "rank": 0,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 2457292,
+        "num": 2457292,
+        "word": "得力收拾收拾准备升咖",
+        "onboard_time": 1695871360,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94516,
+        "num": 1264603,
+        "word": "当千里江山图遇上诗画浙江",
+        "onboard_time": 1695870759,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1011730,
+        "num": 1011730,
+        "word": "泼天的富贵要到文具界了",
+        "onboard_time": 1695861276,
+        "rank": 3,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 963222,
+        "num": 963222,
+        "word": "大同欺凌事件校方曾建议三年级以上住校",
+        "onboard_time": 1695869260,
+        "rank": 4,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 782954,
+        "num": 782954,
+        "word": "张杰签售了10个小时",
+        "onboard_time": 1695873637,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641829,
+        "num": 641829,
+        "word": "王栎鑫你是真敢说啊",
+        "onboard_time": 1695872134,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 620475,
+        "num": 620475,
+        "word": "捷豹勇敢飞",
+        "onboard_time": 1695871656,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463402,
+        "num": 463402,
+        "word": "6岁零216个月",
+        "onboard_time": 1695862119,
+        "rank": 8,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 423597,
+        "num": 423597,
+        "word": "张嘉倪回应网友呼唤努力搞事业",
+        "onboard_time": 1695871113,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2622641,
+        "num": 423203,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 10,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 618805,
+        "num": 419541,
+        "word": "柯洁冲击金牌",
+        "onboard_time": 1695867034,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340240,
+        "num": 416876,
+        "word": "中秋国庆假期第1天你想干什么",
+        "onboard_time": 1695863800,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119295,
+        "num": 414393,
+        "word": "中国男足晋级八强",
+        "onboard_time": 1695821921,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93454,
+        "num": 412314,
+        "word": "因提瓦特相聚",
+        "onboard_time": 1695873637,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 618174,
+        "num": 408841,
+        "word": "柯洁vs一力辽",
+        "onboard_time": 1695872313,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498293,
+        "num": 405075,
+        "word": "二等兵申真谞 出列",
+        "onboard_time": 1695874477,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455637,
+        "num": 402272,
+        "word": "芭莎婚恋所又拍新CP啦",
+        "onboard_time": 1695871175,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 401412,
+        "num": 401412,
+        "word": "周笔畅 票都抢到了吗",
+        "onboard_time": 1695874297,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 388511,
+        "num": 388511,
+        "word": "比恋爱脑更可悲的是清醒的恋爱脑",
+        "onboard_time": 1695874357,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 593408,
+        "num": 386221,
+        "word": "孙颖莎又打出11比0",
+        "onboard_time": 1695873096,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461566,
+        "num": 384857,
+        "word": "性缩力",
+        "onboard_time": 1695856651,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 383215,
+        "num": 383215,
+        "word": "成都地铁上被误认偷拍男子发文",
+        "onboard_time": 1695872855,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371823,
+        "num": 371823,
+        "word": "90后为何不愿生孩子了",
+        "onboard_time": 1695861221,
+        "rank": 23,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 322046,
+        "num": 322046,
+        "word": "问心定档",
+        "onboard_time": 1695869078,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315793,
+        "num": 315793,
+        "word": "得力回应花西子发疯",
+        "onboard_time": 1695868838,
+        "rank": 25,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 301513,
+        "num": 301513,
+        "word": "张远听不得春晚两个字",
+        "onboard_time": 1695874237,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283414,
+        "num": 283414,
+        "word": "戚薇白鹿徐明浩同框",
+        "onboard_time": 1695871956,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279986,
+        "num": 279986,
+        "word": "孙杨直播哭了",
+        "onboard_time": 1695857129,
+        "rank": 28,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 255200,
+        "num": 255200,
+        "word": "柯洁晋级亚运会决赛",
+        "onboard_time": 1695874538,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 561622,
+        "num": 251623,
+        "word": "赵嘉豪哭了",
+        "onboard_time": 1695870996,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 423863,
+        "num": 250851,
+        "word": "knight 妖姬",
+        "onboard_time": 1695873096,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 376243,
+        "num": 249689,
+        "word": "朱开",
+        "onboard_time": 1695869979,
+        "rank": 32,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 245484,
+        "num": 245484,
+        "word": "米勒 生命值",
+        "onboard_time": 1695869620,
+        "rank": 33,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 30493,
+        "num": 229209,
+        "word": "mate60rs评测",
+        "onboard_time": 1695873938,
+        "rank": 34,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 298469,
+        "num": 228322,
+        "word": "ELK金克丝一血",
+        "onboard_time": 1695867215,
+        "rank": 35,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 289329,
+        "num": 224745,
+        "word": "大同欺凌事件被辞退老师刚接班",
+        "onboard_time": 1695864040,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 219889,
+        "num": 219889,
+        "word": "王海称花西子应该给消费者退一赔三",
+        "onboard_time": 1695873456,
+        "rank": 37,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 210125,
+        "num": 210125,
+        "word": "大同未成年欺凌事件同校家长发声",
+        "onboard_time": 1695860977,
+        "rank": 38,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 208332,
+        "num": 208332,
+        "word": "iPhoneSE4设计曝光",
+        "onboard_time": 1695864217,
+        "rank": 39,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 179468,
+        "num": 179468,
+        "word": "巴基斯坦父亲独自来杭只为给儿子一个惊喜",
+        "onboard_time": 1695865056,
+        "rank": 40,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 178980,
+        "num": 178980,
+        "word": "惊奇队长2定档",
+        "onboard_time": 1695872855,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177969,
+        "num": 177969,
+        "word": "汪顺回应爸爸请邻居吃饭",
+        "onboard_time": 1695872255,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177809,
+        "num": 177809,
+        "word": "原来上班是结婚的平替",
+        "onboard_time": 1695858758,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177670,
+        "num": 177670,
+        "word": "浙江人未来一个月的主食",
+        "onboard_time": 1695862717,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174662,
+        "num": 174662,
+        "word": "女生洗澡被偷拍靠脚印3天找到偷拍男",
+        "onboard_time": 1695859476,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174621,
+        "num": 174621,
+        "word": "BP 抽象",
+        "onboard_time": 1695868235,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 168871,
+        "num": 168871,
+        "word": "张鲁一应聘张艺谋导演作品",
+        "onboard_time": 1695866736,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153869,
+        "num": 153869,
+        "word": "代号鸢 芙蓉帅到我了",
+        "onboard_time": 1695869440,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75308,
+        "num": 152707,
+        "word": "非遗传承人把独门秘诀带进亚运村",
+        "onboard_time": 1695871775,
+        "rank": 49,
+        "category": "社会新闻,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高驾驭高水平对外开放能力#"
+    }
+  }
+}

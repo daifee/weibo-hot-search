@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695872037489,
+  "endTime": 1695874808355,
   "band_list": [
     {
       "raw_hot": 8499613,
@@ -25,6 +25,22 @@
       "onboard_time": 1695863978,
       "rank": 6,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 3507392,
+      "num": 3507392,
+      "word": "花西子眉笔 自动铅笔",
+      "onboard_time": 1695874056,
+      "rank": 0,
+      "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 2457292,
+      "num": 2457292,
+      "word": "得力收拾收拾准备升咖",
+      "onboard_time": 1695871360,
+      "rank": 5,
+      "category": "幽默"
     },
     {
       "raw_hot": 2122769,
@@ -57,14 +73,6 @@
       "onboard_time": 1695861276,
       "rank": 1,
       "category": "美妆,社会新闻"
-    },
-    {
-      "raw_hot": 1523074,
-      "num": 1523074,
-      "word": "得力收拾收拾准备升咖",
-      "onboard_time": 1695871360,
-      "rank": 5,
-      "category": "幽默"
     },
     {
       "raw_hot": 1482971,
@@ -131,6 +139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 963222,
+      "num": 963222,
+      "word": "大同欺凌事件校方曾建议三年级以上住校",
+      "onboard_time": 1695869260,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 935814,
       "num": 355158,
       "word": "JDG到底谁在C",
@@ -161,6 +177,14 @@
       "onboard_time": 1695859476,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782954,
+      "num": 782954,
+      "word": "张杰签售了10个小时",
+      "onboard_time": 1695873637,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 780955,
@@ -195,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 641829,
+      "num": 641829,
+      "word": "王栎鑫你是真敢说啊",
+      "onboard_time": 1695872134,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 641794,
       "num": 641794,
       "word": "90后为何不愿生孩子了",
@@ -211,12 +243,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 620475,
+      "num": 620475,
+      "word": "捷豹勇敢飞",
+      "onboard_time": 1695871656,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 618805,
+      "num": 522547,
+      "word": "柯洁冲击金牌",
+      "onboard_time": 1695867034,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 618174,
+      "num": 408841,
+      "word": "柯洁vs一力辽",
+      "onboard_time": 1695872313,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596887,
       "num": 596887,
       "word": "ELK金克丝一血",
       "onboard_time": 1695867215,
       "rank": 6,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 593408,
+      "num": 386221,
+      "word": "孙颖莎又打出11比0",
+      "onboard_time": 1695873096,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 573187,
@@ -283,12 +347,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 506239,
-      "num": 506239,
-      "word": "大同欺凌事件校方曾建议三年级以上住校",
-      "onboard_time": 1695869260,
-      "rank": 17,
-      "category": "社会新闻,教育"
+      "raw_hot": 498293,
+      "num": 405075,
+      "word": "二等兵申真谞 出列",
+      "onboard_time": 1695874477,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 475166,
@@ -297,6 +361,14 @@
       "onboard_time": 1695828040,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 455637,
+      "num": 428014,
+      "word": "芭莎婚恋所又拍新CP啦",
+      "onboard_time": 1695871175,
+      "rank": 18,
+      "category": "时尚"
     },
     {
       "raw_hot": 451257,
@@ -331,20 +403,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428014,
-      "num": 428014,
-      "word": "芭莎婚恋所又拍新CP啦",
-      "onboard_time": 1695871175,
-      "rank": 18,
-      "category": "时尚"
+      "raw_hot": 423863,
+      "num": 250851,
+      "word": "knight 妖姬",
+      "onboard_time": 1695873096,
+      "rank": 31,
+      "category": "游戏,体育"
     },
     {
-      "raw_hot": 426543,
-      "num": 426543,
-      "word": "捷豹勇敢飞",
-      "onboard_time": 1695871656,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 423597,
+      "num": 423597,
+      "word": "张嘉倪回应网友呼唤努力搞事业",
+      "onboard_time": 1695871113,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 420038,
@@ -355,12 +427,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 407693,
-      "num": 522547,
-      "word": "柯洁冲击金牌",
-      "onboard_time": 1695867034,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 401412,
+      "num": 401412,
+      "word": "周笔畅 票都抢到了吗",
+      "onboard_time": 1695874297,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 400121,
@@ -369,6 +441,22 @@
       "onboard_time": 1695862717,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 388511,
+      "num": 388511,
+      "word": "比恋爱脑更可悲的是清醒的恋爱脑",
+      "onboard_time": 1695874357,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383215,
+      "num": 383215,
+      "word": "成都地铁上被误认偷拍男子发文",
+      "onboard_time": 1695872855,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381454,
@@ -443,7 +531,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338802,
+      "raw_hot": 340240,
       "num": 481627,
       "word": "中秋国庆假期第1天你想干什么",
       "onboard_time": 1695863800,
@@ -473,6 +561,14 @@
       "onboard_time": 1695863859,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 315793,
+      "num": 315793,
+      "word": "得力回应花西子发疯",
+      "onboard_time": 1695868838,
+      "rank": 24,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 314884,
@@ -515,20 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302472,
-      "num": 302472,
-      "word": "得力回应花西子发疯",
-      "onboard_time": 1695868838,
-      "rank": 24,
-      "category": "社会新闻,美妆"
-    },
-    {
       "raw_hot": 302056,
       "num": 302056,
       "word": "iPhoneSE4设计曝光",
       "onboard_time": 1695864217,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 301513,
+      "num": 301513,
+      "word": "张远听不得春晚两个字",
+      "onboard_time": 1695874237,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 301456,
@@ -555,12 +651,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283366,
-      "num": 283366,
-      "word": "张嘉倪回应网友呼唤努力搞事业",
-      "onboard_time": 1695871113,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 283414,
+      "num": 283414,
+      "word": "戚薇白鹿徐明浩同框",
+      "onboard_time": 1695871956,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 278209,
@@ -593,6 +689,14 @@
       "onboard_time": 1695864337,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255200,
+      "num": 255200,
+      "word": "柯洁晋级亚运会决赛",
+      "onboard_time": 1695874538,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 251329,
@@ -657,6 +761,14 @@
       "onboard_time": 1695864275,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219889,
+      "num": 219889,
+      "word": "王海称花西子应该给消费者退一赔三",
+      "onboard_time": 1695873456,
+      "rank": 37,
+      "category": "美妆,社会新闻"
     },
     {
       "raw_hot": 218476,
@@ -747,12 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182297,
-      "num": 166712,
-      "word": "戚薇白鹿徐明浩同框",
-      "onboard_time": 1695871956,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 178980,
+      "num": 178980,
+      "word": "惊奇队长2定档",
+      "onboard_time": 1695872855,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 178592,
@@ -768,6 +880,14 @@
       "word": "丘索维金娜眼中的体育精神",
       "onboard_time": 1695864458,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177969,
+      "num": 177969,
+      "word": "汪顺回应爸爸请邻居吃饭",
+      "onboard_time": 1695872255,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -980,7 +1100,7 @@
     },
     {
       "raw_hot": 135882,
-      "num": 135882,
+      "num": 152707,
       "word": "非遗传承人把独门秘诀带进亚运村",
       "onboard_time": 1695871775,
       "rank": 49,
@@ -1147,6 +1267,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94516,
+      "num": 1528740,
+      "word": "当千里江山图遇上诗画浙江",
+      "onboard_time": 1695870759,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 93454,
+      "num": 412314,
+      "word": "因提瓦特相聚",
+      "onboard_time": 1695873637,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 91933,
       "num": 91933,
       "word": "王嘉尔创造营亚洲泰国季发起人",
@@ -1219,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 54649,
-      "num": 1528740,
-      "word": "当千里江山图遇上诗画浙江",
-      "onboard_time": 1695870759,
-      "rank": 2,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 49294,
       "num": 454986,
       "word": "蛋仔派对新成员",
@@ -1241,6 +1369,14 @@
       "onboard_time": 1695845354,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30493,
+      "num": 229209,
+      "word": "mate60rs评测",
+      "onboard_time": 1695873938,
+      "rank": 34,
+      "category": "科技"
     },
     {
       "raw_hot": 26714,
