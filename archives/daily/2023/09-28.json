@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695879246386,
+  "endTime": 1695882161306,
   "band_list": [
     {
       "raw_hot": 8499613,
@@ -67,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1949621,
+      "num": 1949621,
+      "word": "霸王茶姬 柄图丑",
+      "onboard_time": 1695879216,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1687943,
       "num": 1687943,
       "word": "泼天的富贵要到文具界了",
       "onboard_time": 1695861276,
       "rank": 1,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 1499789,
+      "num": 1499789,
+      "word": "俄罗斯考虑效仿中国禁止进口日本水产品",
+      "onboard_time": 1695876099,
+      "rank": 4,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1482971,
@@ -83,12 +99,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1478956,
-      "num": 1478956,
-      "word": "俄罗斯考虑效仿中国禁止进口日本水产品",
-      "onboard_time": 1695876099,
-      "rank": 4,
-      "category": "国外要闻"
+      "raw_hot": 1401279,
+      "num": 453647,
+      "word": "杨幂LOEWE罗意威全球品牌代言人",
+      "onboard_time": 1695879396,
+      "rank": 10,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1336220,
@@ -219,6 +235,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 756261,
+      "num": 756261,
+      "word": "空降最高title",
+      "onboard_time": 1695880414,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 754897,
       "num": 754897,
       "word": "赵嘉豪哭了",
@@ -233,6 +257,14 @@
       "onboard_time": 1695875077,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 726946,
+      "num": 726946,
+      "word": "霸王茶姬 盗墓笔记",
+      "onboard_time": 1695879037,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 726898,
@@ -289,6 +321,14 @@
       "onboard_time": 1695861221,
       "rank": 7,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 639555,
+      "num": 639555,
+      "word": "堵车",
+      "onboard_time": 1695880174,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633434,
@@ -443,12 +483,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 456015,
+      "num": 456015,
+      "word": "樊振东王楚钦男双开门红",
+      "onboard_time": 1695879635,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455637,
       "num": 428014,
       "word": "芭莎婚恋所又拍新CP啦",
       "onboard_time": 1695871175,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 454467,
+      "num": 454467,
+      "word": "丫丫也会吃自助餐了",
+      "onboard_time": 1695880776,
+      "rank": 9,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 451815,
@@ -465,6 +521,14 @@
       "onboard_time": 1695858758,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 445800,
+      "num": 445800,
+      "word": "解说员恨不得自己上场",
+      "onboard_time": 1695881137,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 445592,
@@ -603,6 +667,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 362981,
+      "num": 362981,
+      "word": "于适 我不笨",
+      "onboard_time": 1695879576,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 356197,
       "num": 356197,
       "word": "虞书欣 饿晕噜",
@@ -649,6 +721,14 @@
       "onboard_time": 1695874538,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 333014,
+      "num": 333014,
+      "word": "韩素希 宋慧乔",
+      "onboard_time": 1695880957,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 331345,
@@ -699,6 +779,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 314438,
+      "num": 974846,
+      "word": "新疆辟谣游客断崖式下跌",
+      "onboard_time": 1695875740,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311261,
       "num": 311261,
       "word": "中国恒大在港交所停止交易",
@@ -721,6 +809,14 @@
       "onboard_time": 1695861338,
       "rank": 18,
       "category": "科技"
+    },
+    {
+      "raw_hot": 307008,
+      "num": 452253,
+      "word": "敦煌上一次这么多人还在汉朝",
+      "onboard_time": 1695881495,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 303337,
@@ -763,6 +859,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 295824,
+      "num": 250362,
+      "word": "亚运会的唯一悬念 亚军的争夺",
+      "onboard_time": 1695881615,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288977,
       "num": 288977,
       "word": "女清洁工手写16万字小说并出版",
@@ -800,14 +904,6 @@
       "word": "婆婆1天走丢3次民警熟练送回",
       "onboard_time": 1695828456,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 267399,
-      "num": 974846,
-      "word": "新疆辟谣游客断崖式下跌",
-      "onboard_time": 1695875740,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -859,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241169,
+      "num": 241169,
+      "word": "丁真首部电影开机",
+      "onboard_time": 1695881195,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 239091,
       "num": 239091,
       "word": "文韬何运晨石凯三个人凑不出一个平民",
@@ -897,14 +1001,6 @@
       "onboard_time": 1695827196,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 230310,
-      "num": 230310,
-      "word": "霸王茶姬 盗墓笔记",
-      "onboard_time": 1695879037,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 229308,
@@ -947,6 +1043,14 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 221949,
+      "num": 221949,
+      "word": "未定事件簿",
+      "onboard_time": 1695881195,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218476,
       "num": 381631,
       "word": "明天就是中秋国庆假期",
@@ -969,6 +1073,14 @@
       "onboard_time": 1695830373,
       "rank": 25,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 214266,
+      "num": 214266,
+      "word": "刘彰留学副本",
+      "onboard_time": 1695881376,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 212176,
@@ -1027,6 +1139,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 192596,
+      "num": 192596,
+      "word": "中科大书记连做40个花式俯卧撑鼓励学生",
+      "onboard_time": 1695879934,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 190208,
       "num": 190208,
       "word": "于适即兴表演哈姆雷特",
@@ -1073,6 +1193,14 @@
       "onboard_time": 1695841935,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178439,
+      "num": 178439,
+      "word": "年底前超八成用户可实现开机就看电视",
+      "onboard_time": 1695881914,
+      "rank": 40,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 178007,
@@ -1139,14 +1267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164762,
-      "num": 164762,
-      "word": "霸王茶姬 柄图丑",
-      "onboard_time": 1695879216,
-      "rank": 48,
-      "category": "美食"
-    },
-    {
       "raw_hot": 163362,
       "num": 163362,
       "word": "赶飞机前电脑丢了民警极限找回",
@@ -1195,6 +1315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155442,
+      "num": 155442,
+      "word": "中秋节没回家的那些人",
+      "onboard_time": 1695880776,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155120,
       "num": 155120,
       "word": "这是我认识的国足吗",
@@ -1209,6 +1337,14 @@
       "onboard_time": 1695821321,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 154635,
+      "num": 154635,
+      "word": "张小斐新剧好运家开机",
+      "onboard_time": 1695881376,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 152399,
@@ -1257,6 +1393,14 @@
       "onboard_time": 1695855747,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145998,
+      "num": 145998,
+      "word": "坚如磐石",
+      "onboard_time": 1695882095,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 145011,
@@ -1329,6 +1473,14 @@
       "onboard_time": 1695873637,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134954,
+      "num": 826494,
+      "word": "广电总局进行新闻发布",
+      "onboard_time": 1695880837,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133647,
@@ -1593,6 +1745,14 @@
       "onboard_time": 1695870040,
       "rank": 14,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40335,
+      "num": 448451,
+      "word": "尼山是孔子诞生地",
+      "onboard_time": 1695880837,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36380,
