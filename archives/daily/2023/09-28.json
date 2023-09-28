@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695900843570,
+  "endTime": 1695904403870,
   "band_list": [
     {
       "raw_hot": 9291305,
@@ -25,6 +25,14 @@
       "onboard_time": 1695858333,
       "rank": 0,
       "category": "美妆,教育"
+    },
+    {
+      "raw_hot": 5382348,
+      "num": 5382348,
+      "word": "邓布利多扮演者去世",
+      "onboard_time": 1695903275,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 4289928,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2536001,
-      "num": 606038,
+      "num": 686278,
       "word": "因证据不足14岁女孩被认定为卖淫女",
       "onboard_time": 1695883237,
       "rank": 3,
@@ -113,6 +121,14 @@
       "onboard_time": 1695879216,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1908347,
+      "num": 1908347,
+      "word": "叶诗文200米蛙泳冠军",
+      "onboard_time": 1695902074,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1891336,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 1284722,
-      "num": 450867,
+      "num": 686735,
       "word": "坚如磐石删减 尺度奇观",
       "onboard_time": 1695897752,
       "rank": 10,
@@ -283,6 +299,22 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 973550,
+      "num": 973550,
+      "word": "韩国选手挑衅遭中国队员专业反击",
+      "onboard_time": 1695900454,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 968683,
+      "num": 968683,
+      "word": "国庆假门还没出就亏了3500元",
+      "onboard_time": 1695899134,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 963222,
       "num": 963222,
       "word": "大同欺凌事件校方曾建议三年级以上住校",
@@ -321,6 +353,14 @@
       "onboard_time": 1695860977,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 829904,
+      "num": 829904,
+      "word": "杨超越去进修演技了",
+      "onboard_time": 1695903095,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 817652,
@@ -369,6 +409,14 @@
       "onboard_time": 1695881914,
       "rank": 40,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 769956,
+      "num": 769956,
+      "word": "张雨霏发烧还拿了冠军",
+      "onboard_time": 1695903517,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 769655,
@@ -435,6 +483,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 712956,
+      "num": 712956,
+      "word": "叶诗文时隔9年再夺亚运金牌",
+      "onboard_time": 1695902252,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 703314,
       "num": 496289,
       "word": "柯洁晋级亚运会决赛",
@@ -467,6 +523,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 688273,
+      "num": 688273,
+      "word": "王楚钦孙颖莎亚运晋级四强",
+      "onboard_time": 1695903275,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 684140,
+      "num": 684140,
+      "word": "女子给狗挤肛门腺喷射到左眼致感染",
+      "onboard_time": 1695903455,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 652512,
+      "num": 652512,
+      "word": "张雨霏第5金",
+      "onboard_time": 1695901775,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 641829,
       "num": 641829,
       "word": "王栎鑫你是真敢说啊",
@@ -489,14 +569,6 @@
       "onboard_time": 1695821921,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 630889,
-      "num": 630889,
-      "word": "国庆假门还没出就亏了3500元",
-      "onboard_time": 1695899134,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 622922,
@@ -524,7 +596,7 @@
     },
     {
       "raw_hot": 599344,
-      "num": 238817,
+      "num": 552859,
       "word": "张踩铃是怎么被婆婆社死的",
       "onboard_time": 1695900093,
       "rank": 30,
@@ -691,6 +763,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 486754,
+      "num": 486754,
+      "word": "时代峰峻 周边",
+      "onboard_time": 1695900395,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 484850,
       "num": 570427,
       "word": "丘索维金娜第4",
@@ -779,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 451118,
+      "num": 451118,
+      "word": "频繁做美甲 让指甲休息一下",
+      "onboard_time": 1695902496,
+      "rank": 21,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 448699,
       "num": 391833,
       "word": "SEVENTEEN更换北京预告",
@@ -793,6 +881,14 @@
       "onboard_time": 1695828395,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443717,
+      "num": 443717,
+      "word": "水果店8.8元一斤卖榴莲惊动特警",
+      "onboard_time": 1695903035,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436066,
@@ -913,6 +1009,14 @@
       "onboard_time": 1695856952,
       "rank": 16,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 379524,
+      "num": 379524,
+      "word": "柯洁 从未如此遗憾",
+      "onboard_time": 1695900993,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 377775,
@@ -1083,20 +1187,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 328399,
+      "num": 328399,
+      "word": "00后女孩抡起大锤砸墙月入3万",
+      "onboard_time": 1695903577,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328212,
       "num": 328212,
       "word": "巴基斯坦父亲独自来杭只为给儿子一个惊喜",
       "onboard_time": 1695865056,
       "rank": 17,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 323516,
-      "num": 323516,
-      "word": "韩国选手挑衅遭中国队员专业反击",
-      "onboard_time": 1695900454,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 322014,
@@ -1227,14 +1331,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 294185,
-      "num": 294185,
-      "word": "时代峰峻 周边",
-      "onboard_time": 1695900395,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 290297,
       "num": 290297,
       "word": "迪丽热巴晒巴黎时装周随拍",
@@ -1323,6 +1419,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266444,
+      "num": 266444,
+      "word": "PLEDIS官宣中国选秀",
+      "onboard_time": 1695903876,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 265834,
+      "num": 265834,
+      "word": "覃海洋亚运第四金",
+      "onboard_time": 1695903455,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263420,
       "num": 263420,
       "word": "坚如磐石首映礼好多人啊",
@@ -1377,6 +1489,14 @@
       "onboard_time": 1695888816,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 254566,
+      "num": 254566,
+      "word": "风月如雪开播",
+      "onboard_time": 1695902136,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 252881,
@@ -1464,6 +1584,22 @@
       "word": "樊振东11比1",
       "onboard_time": 1695900515,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 233425,
+      "num": 233425,
+      "word": "叶诗文遥遥领先",
+      "onboard_time": 1695902436,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 232894,
+      "num": 489932,
+      "word": "张雨霏再次刷新赛会纪录",
+      "onboard_time": 1695904058,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -1665,6 +1801,14 @@
       "onboard_time": 1695900274,
       "rank": 38,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 203239,
+      "num": 203239,
+      "word": "志愿军",
+      "onboard_time": 1695904058,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 201740,
@@ -1931,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160328,
+      "num": 160328,
+      "word": "中秋奇妙游",
+      "onboard_time": 1695902913,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160311,
       "num": 160311,
       "word": "陈乔恩晒老公视角美照",
@@ -2115,6 +2267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 142898,
+      "num": 142898,
+      "word": "薛之谦巡演常州站官宣",
+      "onboard_time": 1695901474,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141958,
       "num": 141958,
       "word": "姑娘捐献造血干细胞为另一女孩送去希望",
@@ -2161,6 +2321,14 @@
       "onboard_time": 1695861038,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 139488,
+      "num": 139488,
+      "word": "两个邓布利多都离世了",
+      "onboard_time": 1695904360,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 138944,
@@ -2449,6 +2617,14 @@
       "onboard_time": 1695823118,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88253,
+      "num": 1689162,
+      "word": "广电总局已开始治理电视套娃收费",
+      "onboard_time": 1695903994,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82917,

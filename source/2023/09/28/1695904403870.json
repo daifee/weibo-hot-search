@@ -1,0 +1,410 @@
+{
+  "runTime": 1695904403870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5382348,
+        "num": 5382348,
+        "word": "邓布利多扮演者去世",
+        "onboard_time": 1695903275,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1908347,
+        "num": 1908347,
+        "word": "叶诗文200米蛙泳冠军",
+        "onboard_time": 1695902074,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88253,
+        "num": 1689162,
+        "word": "广电总局已开始治理电视套娃收费",
+        "onboard_time": 1695903994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1568635,
+        "num": 1568635,
+        "word": "她推了西娘娘",
+        "onboard_time": 1695897333,
+        "rank": 3,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 973550,
+        "num": 973550,
+        "word": "韩国选手挑衅遭中国队员专业反击",
+        "onboard_time": 1695900454,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 968683,
+        "num": 968683,
+        "word": "国庆假门还没出就亏了3500元",
+        "onboard_time": 1695899134,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 829904,
+        "num": 829904,
+        "word": "杨超越去进修演技了",
+        "onboard_time": 1695903095,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 769956,
+        "num": 769956,
+        "word": "张雨霏发烧还拿了冠军",
+        "onboard_time": 1695903517,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 712956,
+        "num": 712956,
+        "word": "叶诗文时隔9年再夺亚运金牌",
+        "onboard_time": 1695902252,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 688273,
+        "num": 688273,
+        "word": "王楚钦孙颖莎亚运晋级四强",
+        "onboard_time": 1695903275,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 980794,
+        "num": 686735,
+        "word": "坚如磐石删减 尺度奇观",
+        "onboard_time": 1695897752,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 833822,
+        "num": 686278,
+        "word": "因证据不足14岁女孩被认定为卖淫女",
+        "onboard_time": 1695883237,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 684140,
+        "num": 684140,
+        "word": "女子给狗挤肛门腺喷射到左眼致感染",
+        "onboard_time": 1695903455,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 652512,
+        "num": 652512,
+        "word": "张雨霏第5金",
+        "onboard_time": 1695901775,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124505,
+        "num": 643364,
+        "word": "医护人员万米高空救治心脏骤停乘客",
+        "onboard_time": 1695892780,
+        "rank": 14,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 642418,
+        "num": 642418,
+        "word": "北京已达严重拥堵",
+        "onboard_time": 1695889114,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 608479,
+        "num": 608479,
+        "word": "花西子承认助梦大使称号",
+        "onboard_time": 1695895535,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 552859,
+        "num": 552859,
+        "word": "张踩铃是怎么被婆婆社死的",
+        "onboard_time": 1695900093,
+        "rank": 17,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 505949,
+        "num": 505949,
+        "word": "柯洁银牌",
+        "onboard_time": 1695893140,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232894,
+        "num": 489932,
+        "word": "张雨霏再次刷新赛会纪录",
+        "onboard_time": 1695904058,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 486754,
+        "num": 486754,
+        "word": "时代峰峻 周边",
+        "onboard_time": 1695900395,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 451118,
+        "num": 451118,
+        "word": "频繁做美甲 让指甲休息一下",
+        "onboard_time": 1695902496,
+        "rank": 21,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 443717,
+        "num": 443717,
+        "word": "水果店8.8元一斤卖榴莲惊动特警",
+        "onboard_time": 1695903035,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379524,
+        "num": 379524,
+        "word": "柯洁 从未如此遗憾",
+        "onboard_time": 1695900993,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361109,
+        "num": 361109,
+        "word": "您确定您的个人收入这么低吗",
+        "onboard_time": 1695892780,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 356339,
+        "num": 356339,
+        "word": "任嘉伦工作室严正声明",
+        "onboard_time": 1695897513,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344405,
+        "num": 344405,
+        "word": "柯洁逆转",
+        "onboard_time": 1695890856,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330437,
+        "num": 330437,
+        "word": "卫生巾 免税",
+        "onboard_time": 1695894039,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329089,
+        "num": 329089,
+        "word": "坚如磐石",
+        "onboard_time": 1695882095,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 328399,
+        "num": 328399,
+        "word": "00后女孩抡起大锤砸墙月入3万",
+        "onboard_time": 1695903577,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270999,
+        "num": 270999,
+        "word": "吴昕 这一次来大理我40岁了",
+        "onboard_time": 1695896316,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266444,
+        "num": 266444,
+        "word": "PLEDIS官宣中国选秀",
+        "onboard_time": 1695903876,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265834,
+        "num": 265834,
+        "word": "覃海洋亚运第四金",
+        "onboard_time": 1695903455,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254566,
+        "num": 254566,
+        "word": "风月如雪开播",
+        "onboard_time": 1695902136,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233425,
+        "num": 233425,
+        "word": "叶诗文遥遥领先",
+        "onboard_time": 1695902436,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228388,
+        "num": 228388,
+        "word": "得力直播间上架多个79元套装",
+        "onboard_time": 1695893140,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203742,
+        "num": 203742,
+        "word": "张嘉倪的脸兜不住面膜",
+        "onboard_time": 1695897036,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203239,
+        "num": 203239,
+        "word": "志愿军",
+        "onboard_time": 1695904058,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191778,
+        "num": 191778,
+        "word": "故意穿了件惹眼的红裙子去相亲",
+        "onboard_time": 1695892298,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184624,
+        "num": 184624,
+        "word": "扣1复活柯洁",
+        "onboard_time": 1695890856,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181990,
+        "num": 181990,
+        "word": "黄奕在巴黎穿了新中式旗袍",
+        "onboard_time": 1695890734,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174471,
+        "num": 174471,
+        "word": "柯洁 胜率",
+        "onboard_time": 1695889774,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171453,
+        "num": 171453,
+        "word": "十个勤天",
+        "onboard_time": 1695896854,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160328,
+        "num": 160328,
+        "word": "中秋奇妙游",
+        "onboard_time": 1695902913,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152762,
+        "num": 152762,
+        "word": "樊振东11比1",
+        "onboard_time": 1695900515,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151464,
+        "num": 151464,
+        "word": "杨幂LOEWE罗意威全球品牌代言人",
+        "onboard_time": 1695879396,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 142898,
+        "num": 142898,
+        "word": "薛之谦巡演常州站官宣",
+        "onboard_time": 1695901474,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139488,
+        "num": 139488,
+        "word": "两个邓布利多都离世了",
+        "onboard_time": 1695904360,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139440,
+        "num": 139440,
+        "word": "霸王茶姬 柄图丑",
+        "onboard_time": 1695879216,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135506,
+        "num": 135506,
+        "word": "花西子眉笔 自动铅笔",
+        "onboard_time": 1695874056,
+        "rank": 49,
+        "category": "美妆,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与世界贸易组织改革#"
+    }
+  }
+}
