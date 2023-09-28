@@ -1,0 +1,410 @@
+{
+  "runTime": 1695892616672,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4188905,
+        "num": 4877811,
+        "word": "柯洁逆转",
+        "onboard_time": 1695890856,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1372599,
+        "num": 1372599,
+        "word": "堵车",
+        "onboard_time": 1695880174,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32163,
+        "num": 1244398,
+        "word": "中国自贸试验区建设十周年",
+        "onboard_time": 1695891335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1232936,
+        "num": 1232936,
+        "word": "北京已达严重拥堵",
+        "onboard_time": 1695889114,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645736,
+        "num": 645736,
+        "word": "老人买房发现卧室下方竟有配电柜",
+        "onboard_time": 1695887556,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575025,
+        "num": 575025,
+        "word": "花西子被王海举报后更改产品介绍",
+        "onboard_time": 1695886716,
+        "rank": 5,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 549311,
+        "num": 549311,
+        "word": "我放假了",
+        "onboard_time": 1695886835,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 541338,
+        "num": 541338,
+        "word": "花西子眉笔 自动铅笔",
+        "onboard_time": 1695874056,
+        "rank": 7,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 348331,
+        "num": 534103,
+        "word": "赵丽颖古装群像",
+        "onboard_time": 1695883958,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334707,
+        "num": 528205,
+        "word": "吴昕一天三档综艺",
+        "onboard_time": 1695891156,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2798774,
+        "num": 520281,
+        "word": "扣1复活柯洁",
+        "onboard_time": 1695890856,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305020,
+        "num": 512810,
+        "word": "丘索维金娜第4",
+        "onboard_time": 1695888696,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251448,
+        "num": 508397,
+        "word": "孙颖莎王曼昱女双开门红",
+        "onboard_time": 1695890013,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180147,
+        "num": 498391,
+        "word": "出名的是爸爸被治愈的却是儿子",
+        "onboard_time": 1695885877,
+        "rank": 13,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 95371,
+        "num": 484966,
+        "word": "十一假期我要从南走到北",
+        "onboard_time": 1695891636,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1637132,
+        "num": 481546,
+        "word": "因证据不足14岁女孩被认定为卖淫女",
+        "onboard_time": 1695883237,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475579,
+        "num": 475579,
+        "word": "霸王茶姬 柄图丑",
+        "onboard_time": 1695879216,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 461105,
+        "num": 461105,
+        "word": "日本第二轮核污染水排海将从10月5日开始",
+        "onboard_time": 1695889715,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 417536,
+        "num": 417536,
+        "word": "杨幂LOEWE罗意威全球品牌代言人",
+        "onboard_time": 1695879396,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 368041,
+        "num": 368041,
+        "word": "中山大学副研究员被举报出轨女博士后",
+        "onboard_time": 1695888994,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526739,
+        "num": 364826,
+        "word": "黄奕在巴黎穿了新中式旗袍",
+        "onboard_time": 1695890734,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 321940,
+        "num": 321940,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 21,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 301155,
+        "num": 301155,
+        "word": "赵今麦造型师终于开窍了",
+        "onboard_time": 1695888393,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 290297,
+        "num": 290297,
+        "word": "迪丽热巴晒巴黎时装周随拍",
+        "onboard_time": 1695887617,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 249493,
+        "num": 249493,
+        "word": "卫明被林双公开处刑爽爆了",
+        "onboard_time": 1695884434,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239181,
+        "num": 239181,
+        "word": "罪犯前半生坐牢后半生住福利院领补助",
+        "onboard_time": 1695889414,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 236152,
+        "num": 236152,
+        "word": "坚如磐石",
+        "onboard_time": 1695882095,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225989,
+        "num": 225989,
+        "word": "SEVENTEEN更换北京预告",
+        "onboard_time": 1695885455,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212845,
+        "num": 212845,
+        "word": "逆水寒 天赏爆率",
+        "onboard_time": 1695888816,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 207148,
+        "num": 207148,
+        "word": "于适 抵抗不了激将法的人",
+        "onboard_time": 1695891817,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260027,
+        "num": 204376,
+        "word": "这是杭州给全亚洲的浪漫",
+        "onboard_time": 1695891698,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 222047,
+        "num": 199263,
+        "word": "故意穿了件惹眼的红裙子去相亲",
+        "onboard_time": 1695892298,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214984,
+        "num": 198870,
+        "word": "Kanavi说感受到了中国队的威胁",
+        "onboard_time": 1695884257,
+        "rank": 32,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 192395,
+        "num": 192395,
+        "word": "侯明昊 少年感",
+        "onboard_time": 1695891758,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191488,
+        "num": 191488,
+        "word": "亚运会的唯一悬念 亚军的争夺",
+        "onboard_time": 1695881615,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181248,
+        "num": 181248,
+        "word": "周深想成为林俊杰一样的歌手",
+        "onboard_time": 1695885515,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175295,
+        "num": 175295,
+        "word": "这和躺周杰伦怀里听有什么区别",
+        "onboard_time": 1695876821,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166757,
+        "num": 166757,
+        "word": "费立纬听妈妈的话把头发剪了",
+        "onboard_time": 1695891215,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166599,
+        "num": 166599,
+        "word": "为什么捡菌子前要拍一拍",
+        "onboard_time": 1695888994,
+        "rank": 38,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 152192,
+        "num": 152192,
+        "word": "张博恒男子自由体操银牌",
+        "onboard_time": 1695886358,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151427,
+        "num": 151427,
+        "word": "饶雪漫电影永不失联的爱开机",
+        "onboard_time": 1695887436,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150420,
+        "num": 150420,
+        "word": "门还没出先亏一半",
+        "onboard_time": 1695889595,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141635,
+        "num": 141635,
+        "word": "杭州这家理发店的含金量有点高",
+        "onboard_time": 1695891278,
+        "rank": 42,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 137975,
+        "num": 137975,
+        "word": "年底前超八成用户可实现开机就看电视",
+        "onboard_time": 1695881914,
+        "rank": 43,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 137246,
+        "num": 137246,
+        "word": "性缩力",
+        "onboard_time": 1695856651,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131796,
+        "num": 131796,
+        "word": "赵宝刚你潮的让人感觉害怕",
+        "onboard_time": 1695891456,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130453,
+        "num": 130453,
+        "word": "得力收拾收拾准备升咖",
+        "onboard_time": 1695871360,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126177,
+        "num": 126177,
+        "word": "丫丫也会吃自助餐了",
+        "onboard_time": 1695880776,
+        "rank": 47,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 125627,
+        "num": 125627,
+        "word": "敦煌上一次这么多人还在汉朝",
+        "onboard_time": 1695881495,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120925,
+        "num": 120925,
+        "word": "吴昕35岁到40岁的心态变化",
+        "onboard_time": 1695885936,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与世界贸易组织改革#"
+    }
+  }
+}
