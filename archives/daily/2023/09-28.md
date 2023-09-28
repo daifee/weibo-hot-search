@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 20:33:23
+本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 20:49:35
 </p>
 </blockquote>
 <p>
@@ -13,6 +13,12 @@
 热榜
 </h2>
 <ol>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+邓布利多扮演者去世（热度：9822216）
+</a>
+</li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%93%B6%E7%89%8C%23" target="weibo">
@@ -33,8 +39,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E6%89%AE%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
-邓布利多扮演者去世（热度：5382348）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%E5%B7%B2%E8%A2%AB%E4%BE%9D%E6%B3%95%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
+许家印已被依法采取强制措施（热度：5259853）
 </a>
 </li>
 
@@ -155,6 +161,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%A7%E7%BC%A9%E5%8A%9B%23" target="weibo">
 性缩力（热度：1482971）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23" target="weibo">
+两个邓布利多都离世了（热度：1473564）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%99%E7%8B%97%E6%8C%A4%E8%82%9B%E9%97%A8%E8%85%BA%E5%96%B7%E5%B0%84%E5%88%B0%E5%B7%A6%E7%9C%BC%E8%87%B4%E6%84%9F%E6%9F%93%23" target="weibo">
+女子给狗挤肛门腺喷射到左眼致感染（热度：1424250）
 </a>
 </li>
 
@@ -309,6 +327,12 @@ JDG到底谁在C（热度：935814）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%8F%91%E7%83%A7%E8%BF%98%E6%8B%BF%E4%BA%86%E5%86%A0%E5%86%9B%23" target="weibo">
+张雨霏发烧还拿了冠军（热度：789981）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Zeus%E5%8D%95%E6%9D%80Bin%23" target="weibo">
 Zeus单杀Bin（热度：780955）
 </a>
@@ -317,12 +341,6 @@ Zeus单杀Bin（热度：780955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%BA%95%E5%89%8D%E8%B6%85%E5%85%AB%E6%88%90%E7%94%A8%E6%88%B7%E5%8F%AF%E5%AE%9E%E7%8E%B0%E5%BC%80%E6%9C%BA%E5%B0%B1%E7%9C%8B%E7%94%B5%E8%A7%86%23" target="weibo">
 年底前超八成用户可实现开机就看电视（热度：773515）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%8F%91%E7%83%A7%E8%BF%98%E6%8B%BF%E4%BA%86%E5%86%A0%E5%86%9B%23" target="weibo">
-张雨霏发烧还拿了冠军（热度：769956）
 </a>
 </li>
 
@@ -393,6 +411,12 @@ LPL（热度：720584）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E8%82%A1%E4%BB%BD%E5%B0%86%E7%BB%A7%E7%BB%AD%E6%9A%82%E5%81%9C%E4%B9%B0%E5%8D%96%23" target="weibo">
+中国恒大股份将继续暂停买卖（热度：694628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E%23" target="weibo">
 任嘉伦工作室严正声明（热度：690172）
 </a>
@@ -407,12 +431,6 @@ LPL（热度：720584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E8%BF%90%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23" target="weibo">
 王楚钦孙颖莎亚运晋级四强（热度：688273）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BB%99%E7%8B%97%E6%8C%A4%E8%82%9B%E9%97%A8%E8%85%BA%E5%96%B7%E5%B0%84%E5%88%B0%E5%B7%A6%E7%9C%BC%E8%87%B4%E6%84%9F%E6%9F%93%23" target="weibo">
-女子给狗挤肛门腺喷射到左眼致感染（热度：684140）
 </a>
 </li>
 
@@ -527,6 +545,12 @@ Faker（热度：572752）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E8%AF%B4%E5%91%98%E6%81%A8%E4%B8%8D%E5%BE%97%E8%87%AA%E5%B7%B1%E4%B8%8A%E5%9C%BA%23" target="weibo">
 解说员恨不得自己上场（热度：532135）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23" target="weibo">
+水果店8.8元一斤卖榴莲惊动特警（热度：531469）
 </a>
 </li>
 
@@ -671,12 +695,6 @@ SEVENTEEN更换北京预告（热度：448699）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E6%80%A5%E5%BE%97%E6%8B%8D%E5%A4%A7%E8%85%BF%23" target="weibo">
 姚明急得拍大腿（热度：445592）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23" target="weibo">
-水果店8.8元一斤卖榴莲惊动特警（热度：443717）
 </a>
 </li>
 
@@ -957,6 +975,12 @@ knight 妖姬（热度：423863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E9%92%A2%E7%90%B4%E5%BC%B9%E5%94%B1%E5%91%BC%E5%94%A4%E6%96%87%E7%89%A9%E5%9B%9E%E5%AE%B6%23" target="weibo">
+陈都灵钢琴弹唱呼唤文物回家（热度：311866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%9C%A8%E6%B8%AF%E4%BA%A4%E6%89%80%E5%81%9C%E6%AD%A2%E4%BA%A4%E6%98%93%23" target="weibo">
 中国恒大在港交所停止交易（热度：311261）
 </a>
@@ -1053,6 +1077,12 @@ YG新女团9月出道告吹（热度：288072）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23PLEDIS%E5%AE%98%E5%AE%A3%E4%B8%AD%E5%9B%BD%E9%80%89%E7%A7%80%23" target="weibo">
+PLEDIS官宣中国选秀（热度：281601）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%A4%A7%E7%86%8A%E7%8C%AB%E8%84%B8%E4%B8%8A%E7%9C%8B%E5%88%B0%E6%97%A0%E8%AF%AD%23" target="weibo">
 第一次在大熊猫脸上看到无语（热度：278209）
 </a>
@@ -1077,8 +1107,8 @@ YG新女团9月出道告吹（热度：288072）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23PLEDIS%E5%AE%98%E5%AE%A3%E4%B8%AD%E5%9B%BD%E9%80%89%E7%A7%80%23" target="weibo">
-PLEDIS官宣中国选秀（热度：266444）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%B2%BB%E7%90%86%E7%94%B5%E8%A7%86%E5%A5%97%E5%A8%83%E6%94%B6%E8%B4%B9%23" target="weibo">
+广电总局已开始治理电视套娃收费（热度：267770）
 </a>
 </li>
 
@@ -1163,6 +1193,12 @@ PLEDIS官宣中国选秀（热度：266444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%99%8B%E7%BA%A7%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 郑钦文晋级亚运女单决赛（热度：250756）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B3%B3%E9%98%9F%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%AC%AC21%E9%87%91%23" target="weibo">
+中国游泳队杭州亚运第21金（热度：249326）
 </a>
 </li>
 
@@ -1329,6 +1365,12 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E8%BF%99%E6%8A%8A%E9%AB%98%E7%AB%AF%E5%B1%80%23" target="weibo">
+山东卫视这把高端局（热度：212005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8E%E5%8F%B0%E7%8B%82%E7%82%AB%E5%B0%8F%E9%9B%B6%E9%A3%9F%23" target="weibo">
 王鹤棣后台狂炫小零食（热度：209893）
 </a>
@@ -1455,6 +1497,12 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3vs%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E5%A5%B3%E8%B6%B3%23" target="weibo">
+中国女足vs乌兹别克斯坦女足（热度：184858）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%AE%87%E6%98%A5%E9%87%8D%E5%BA%86%23" target="weibo">
 李宇春重庆（热度：184751）
 </a>
@@ -1535,6 +1583,12 @@ G社拍的金智秀朴彩英（热度：215262）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E7%94%B7%E7%94%9F%E8%B7%91%E6%AD%A5%E6%97%B6%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E5%80%92%E5%9C%B0%23" target="weibo">
 广东一男生跑步时心脏骤停倒地（热度：166078）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%A8%E9%B1%BC%E6%B0%B4%E5%BF%83%20%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E7%9C%8B%E7%82%B9%23" target="weibo">
+木鱼水心 坚如磐石看点（热度：165488）
 </a>
 </li>
 
@@ -1755,12 +1809,6 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%B8%AA%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E9%83%BD%E7%A6%BB%E4%B8%96%E4%BA%86%23" target="weibo">
-两个邓布利多都离世了（热度：139488）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%83%E7%8A%AF%E8%A2%AB%E7%94%9F%E6%93%92%E6%8E%A7%E8%AF%89%E6%B0%91%E8%AD%A6%E7%9C%8B%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%88%BD%E6%89%8D%E7%9B%98%E6%9F%A5%23" target="weibo">
 逃犯被生擒控诉民警看自己不爽才盘查（热度：138944）
 </a>
@@ -1973,12 +2021,6 @@ CS2（热度：102290）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%88%9B%E9%80%A0%E8%90%A5%E4%BA%9A%E6%B4%B2%E6%B3%B0%E5%9B%BD%E5%AD%A3%E5%8F%91%E8%B5%B7%E4%BA%BA%23" target="weibo">
 王嘉尔创造营亚洲泰国季发起人（热度：91933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E7%94%B5%E6%80%BB%E5%B1%80%E5%B7%B2%E5%BC%80%E5%A7%8B%E6%B2%BB%E7%90%86%E7%94%B5%E8%A7%86%E5%A5%97%E5%A8%83%E6%94%B6%E8%B4%B9%23" target="weibo">
-广电总局已开始治理电视套娃收费（热度：88253）
 </a>
 </li>
 

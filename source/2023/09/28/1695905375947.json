@@ -1,0 +1,410 @@
+{
+  "runTime": 1695905375947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9822216,
+        "num": 9822216,
+        "word": "邓布利多扮演者去世",
+        "onboard_time": 1695903275,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 5259853,
+        "num": 5259853,
+        "word": "许家印已被依法采取强制措施",
+        "onboard_time": 1695904422,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267770,
+        "num": 1787083,
+        "word": "广电总局已开始治理电视套娃收费",
+        "onboard_time": 1695903994,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1473564,
+        "num": 1473564,
+        "word": "两个邓布利多都离世了",
+        "onboard_time": 1695904360,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1420892,
+        "num": 1420892,
+        "word": "叶诗文200米蛙泳冠军",
+        "onboard_time": 1695902074,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1246598,
+        "num": 1246598,
+        "word": "她推了西娘娘",
+        "onboard_time": 1695897333,
+        "rank": 5,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 789981,
+        "num": 789981,
+        "word": "张雨霏发烧还拿了冠军",
+        "onboard_time": 1695903517,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 778583,
+        "num": 778583,
+        "word": "国庆假门还没出就亏了3500元",
+        "onboard_time": 1695899134,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746858,
+        "num": 746858,
+        "word": "杨超越去进修演技了",
+        "onboard_time": 1695903095,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 728833,
+        "num": 728833,
+        "word": "韩国选手挑衅遭中国队员专业反击",
+        "onboard_time": 1695900454,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1424250,
+        "num": 728162,
+        "word": "女子给狗挤肛门腺喷射到左眼致感染",
+        "onboard_time": 1695903455,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786381,
+        "num": 724246,
+        "word": "坚如磐石删减 尺度奇观",
+        "onboard_time": 1695897752,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 504119,
+        "num": 723692,
+        "word": "张雨霏第5金",
+        "onboard_time": 1695901775,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249326,
+        "num": 719077,
+        "word": "中国游泳队杭州亚运第21金",
+        "onboard_time": 1695904784,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208361,
+        "num": 717216,
+        "word": "张雨霏再次刷新赛会纪录",
+        "onboard_time": 1695904058,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 716095,
+        "num": 716095,
+        "word": "因证据不足14岁女孩被认定为卖淫女",
+        "onboard_time": 1695883237,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544327,
+        "num": 544327,
+        "word": "北京已达严重拥堵",
+        "onboard_time": 1695889114,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528758,
+        "num": 528758,
+        "word": "花西子承认助梦大使称号",
+        "onboard_time": 1695895535,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 583389,
+        "num": 490177,
+        "word": "叶诗文时隔9年再夺亚运金牌",
+        "onboard_time": 1695902252,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 449887,
+        "num": 449887,
+        "word": "王楚钦孙颖莎亚运晋级四强",
+        "onboard_time": 1695903275,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531469,
+        "num": 438773,
+        "word": "水果店8.8元一斤卖榴莲惊动特警",
+        "onboard_time": 1695903035,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425669,
+        "num": 425669,
+        "word": "柯洁银牌",
+        "onboard_time": 1695893140,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 414156,
+        "num": 414156,
+        "word": "频繁做美甲 让指甲休息一下",
+        "onboard_time": 1695902496,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 411737,
+        "num": 411737,
+        "word": "张踩铃是怎么被婆婆社死的",
+        "onboard_time": 1695900093,
+        "rank": 23,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 397391,
+        "num": 397391,
+        "word": "柯洁逆转",
+        "onboard_time": 1695890856,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380321,
+        "num": 380321,
+        "word": "时代峰峻 周边",
+        "onboard_time": 1695900395,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 360150,
+        "num": 360150,
+        "word": "任嘉伦工作室严正声明",
+        "onboard_time": 1695897513,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332471,
+        "num": 332471,
+        "word": "您确定您的个人收入这么低吗",
+        "onboard_time": 1695892780,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311866,
+        "num": 311866,
+        "word": "陈都灵钢琴弹唱呼唤文物回家",
+        "onboard_time": 1695904663,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307999,
+        "num": 307999,
+        "word": "卫生巾 免税",
+        "onboard_time": 1695894039,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694628,
+        "num": 306826,
+        "word": "中国恒大股份将继续暂停买卖",
+        "onboard_time": 1695905025,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295429,
+        "num": 295429,
+        "word": "坚如磐石",
+        "onboard_time": 1695882095,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292842,
+        "num": 292842,
+        "word": "柯洁 从未如此遗憾",
+        "onboard_time": 1695900993,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281601,
+        "num": 281601,
+        "word": "PLEDIS官宣中国选秀",
+        "onboard_time": 1695903876,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244897,
+        "num": 244897,
+        "word": "覃海洋亚运第四金",
+        "onboard_time": 1695903455,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241000,
+        "num": 241000,
+        "word": "00后女孩抡起大锤砸墙月入3万",
+        "onboard_time": 1695903577,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230141,
+        "num": 230141,
+        "word": "得力直播间上架多个79元套装",
+        "onboard_time": 1695893140,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216290,
+        "num": 216290,
+        "word": "叶诗文遥遥领先",
+        "onboard_time": 1695902436,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212005,
+        "num": 212005,
+        "word": "山东卫视这把高端局",
+        "onboard_time": 1695904603,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210122,
+        "num": 210122,
+        "word": "风月如雪开播",
+        "onboard_time": 1695902136,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205826,
+        "num": 205826,
+        "word": "吴昕 这一次来大理我40岁了",
+        "onboard_time": 1695896316,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203401,
+        "num": 203401,
+        "word": "张嘉倪的脸兜不住面膜",
+        "onboard_time": 1695897036,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199239,
+        "num": 199239,
+        "word": "志愿军",
+        "onboard_time": 1695904058,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194310,
+        "num": 194310,
+        "word": "黄奕在巴黎穿了新中式旗袍",
+        "onboard_time": 1695890734,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193535,
+        "num": 193535,
+        "word": "十个勤天",
+        "onboard_time": 1695896854,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189877,
+        "num": 189877,
+        "word": "故意穿了件惹眼的红裙子去相亲",
+        "onboard_time": 1695892298,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 189621,
+        "num": 189621,
+        "word": "扣1复活柯洁",
+        "onboard_time": 1695890856,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184858,
+        "num": 184858,
+        "word": "中国女足vs乌兹别克斯坦女足",
+        "onboard_time": 1695904422,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171973,
+        "num": 171973,
+        "word": "柯洁 胜率",
+        "onboard_time": 1695889774,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165488,
+        "num": 165488,
+        "word": "木鱼水心 坚如磐石看点",
+        "onboard_time": 1695905268,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

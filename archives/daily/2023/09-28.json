@@ -1,7 +1,15 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695904403870,
+  "endTime": 1695905375947,
   "band_list": [
+    {
+      "raw_hot": 9822216,
+      "num": 9822216,
+      "word": "邓布利多扮演者去世",
+      "onboard_time": 1695903275,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 9291305,
       "num": 9291305,
@@ -27,12 +35,12 @@
       "category": "美妆,教育"
     },
     {
-      "raw_hot": 5382348,
-      "num": 5382348,
-      "word": "邓布利多扮演者去世",
-      "onboard_time": 1695903275,
-      "rank": 0,
-      "category": "艺人"
+      "raw_hot": 5259853,
+      "num": 5259853,
+      "word": "许家印已被依法采取强制措施",
+      "onboard_time": 1695904422,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4289928,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 2536001,
-      "num": 686278,
+      "num": 716095,
       "word": "因证据不足14岁女孩被认定为卖淫女",
       "onboard_time": 1695883237,
       "rank": 3,
@@ -195,6 +203,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1473564,
+      "num": 1473564,
+      "word": "两个邓布利多都离世了",
+      "onboard_time": 1695904360,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1424250,
+      "num": 728162,
+      "word": "女子给狗挤肛门腺喷射到左眼致感染",
+      "onboard_time": 1695903455,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1401279,
       "num": 519279,
       "word": "杨幂LOEWE罗意威全球品牌代言人",
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 1284722,
-      "num": 686735,
+      "num": 724246,
       "word": "坚如磐石删减 尺度奇观",
       "onboard_time": 1695897752,
       "rank": 10,
@@ -395,6 +419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789981,
+      "num": 789981,
+      "word": "张雨霏发烧还拿了冠军",
+      "onboard_time": 1695903517,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 780955,
       "num": 280504,
       "word": "Zeus单杀Bin",
@@ -409,14 +441,6 @@
       "onboard_time": 1695881914,
       "rank": 40,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 769956,
-      "num": 769956,
-      "word": "张雨霏发烧还拿了冠军",
-      "onboard_time": 1695903517,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 769655,
@@ -507,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 694628,
+      "num": 306826,
+      "word": "中国恒大股份将继续暂停买卖",
+      "onboard_time": 1695905025,
+      "rank": 30,
+      "category": "财经"
+    },
+    {
       "raw_hot": 690172,
       "num": 370223,
       "word": "任嘉伦工作室严正声明",
@@ -531,16 +563,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 684140,
-      "num": 684140,
-      "word": "女子给狗挤肛门腺喷射到左眼致感染",
-      "onboard_time": 1695903455,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 652512,
-      "num": 652512,
+      "num": 723692,
       "word": "张雨霏第5金",
       "onboard_time": 1695901775,
       "rank": 13,
@@ -689,6 +713,14 @@
       "onboard_time": 1695881137,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 531469,
+      "num": 443717,
+      "word": "水果店8.8元一斤卖榴莲惊动特警",
+      "onboard_time": 1695903035,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 526739,
@@ -881,14 +913,6 @@
       "onboard_time": 1695828395,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 443717,
-      "num": 443717,
-      "word": "水果店8.8元一斤卖榴莲惊动特警",
-      "onboard_time": 1695903035,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436066,
@@ -1259,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311866,
+      "num": 311866,
+      "word": "陈都灵钢琴弹唱呼唤文物回家",
+      "onboard_time": 1695904663,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311261,
       "num": 311261,
       "word": "中国恒大在港交所停止交易",
@@ -1387,6 +1419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 281601,
+      "num": 281601,
+      "word": "PLEDIS官宣中国选秀",
+      "onboard_time": 1695903876,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 278209,
       "num": 278209,
       "word": "第一次在大熊猫脸上看到无语",
@@ -1419,12 +1459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266444,
-      "num": 266444,
-      "word": "PLEDIS官宣中国选秀",
-      "onboard_time": 1695903876,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 267770,
+      "num": 1787083,
+      "word": "广电总局已开始治理电视套娃收费",
+      "onboard_time": 1695903994,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265834,
@@ -1539,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 249326,
+      "num": 719077,
+      "word": "中国游泳队杭州亚运第21金",
+      "onboard_time": 1695904784,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246810,
       "num": 246810,
       "word": "为什么捡菌子前要拍一拍",
@@ -1596,7 +1644,7 @@
     },
     {
       "raw_hot": 232894,
-      "num": 489932,
+      "num": 717216,
       "word": "张雨霏再次刷新赛会纪录",
       "onboard_time": 1695904058,
       "rank": 19,
@@ -1753,6 +1801,14 @@
       "onboard_time": 1695845053,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212005,
+      "num": 212005,
+      "word": "山东卫视这把高端局",
+      "onboard_time": 1695904603,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 209893,
@@ -1923,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184858,
+      "num": 184858,
+      "word": "中国女足vs乌兹别克斯坦女足",
+      "onboard_time": 1695904422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184751,
       "num": 184751,
       "word": "李宇春重庆",
@@ -2033,6 +2097,14 @@
       "onboard_time": 1695855805,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165488,
+      "num": 165488,
+      "word": "木鱼水心 坚如磐石看点",
+      "onboard_time": 1695905268,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 165198,
@@ -2323,14 +2395,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 139488,
-      "num": 139488,
-      "word": "两个邓布利多都离世了",
-      "onboard_time": 1695904360,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138944,
       "num": 138944,
       "word": "逃犯被生擒控诉民警看自己不爽才盘查",
@@ -2617,14 +2681,6 @@
       "onboard_time": 1695823118,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 88253,
-      "num": 1689162,
-      "word": "广电总局已开始治理电视套娃收费",
-      "onboard_time": 1695903994,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82917,
