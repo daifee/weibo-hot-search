@@ -1,0 +1,410 @@
+{
+  "runTime": 1695872037489,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6010621,
+        "num": 6010621,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 0,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 1674587,
+        "num": 1674587,
+        "word": "泼天的富贵要到文具界了",
+        "onboard_time": 1695861276,
+        "rank": 1,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 54649,
+        "num": 1528740,
+        "word": "当千里江山图遇上诗画浙江",
+        "onboard_time": 1695870759,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 4289928,
+        "num": 1528122,
+        "word": "英雄联盟韩国队晋级决赛",
+        "onboard_time": 1695870277,
+        "rank": 3,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 2402986,
+        "num": 1527775,
+        "word": "英雄联盟中国队vs韩国队",
+        "onboard_time": 1695863978,
+        "rank": 4,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 1523074,
+        "num": 1523074,
+        "word": "得力收拾收拾准备升咖",
+        "onboard_time": 1695871360,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 754897,
+        "num": 754897,
+        "word": "赵嘉豪哭了",
+        "onboard_time": 1695870996,
+        "rank": 6,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 692759,
+        "num": 692759,
+        "word": "6岁零216个月",
+        "onboard_time": 1695862119,
+        "rank": 7,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 506239,
+        "num": 506239,
+        "word": "大同欺凌事件校方曾建议三年级以上住校",
+        "onboard_time": 1695869260,
+        "rank": 8,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 504846,
+        "num": 504846,
+        "word": "90后为何不愿生孩子了",
+        "onboard_time": 1695861221,
+        "rank": 9,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 778421,
+        "num": 501225,
+        "word": "朱开",
+        "onboard_time": 1695869979,
+        "rank": 10,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 407693,
+        "num": 484451,
+        "word": "柯洁冲击金牌",
+        "onboard_time": 1695867034,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262010,
+        "num": 481627,
+        "word": "中秋国庆假期第1天你想干什么",
+        "onboard_time": 1695863800,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128621,
+        "num": 464996,
+        "word": "中国男足晋级八强",
+        "onboard_time": 1695821921,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49294,
+        "num": 453005,
+        "word": "蛋仔派对新成员",
+        "onboard_time": 1695870040,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 67874,
+        "num": 447895,
+        "word": "刘德华同款非凡大师开售",
+        "onboard_time": 1695869203,
+        "rank": 15,
+        "category": "科技,艺人"
+      },
+      {
+        "raw_hot": 573187,
+        "num": 431290,
+        "word": "左手尽力局",
+        "onboard_time": 1695866855,
+        "rank": 16,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 429880,
+        "num": 429880,
+        "word": "LPL",
+        "onboard_time": 1695868716,
+        "rank": 17,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 428014,
+        "num": 428014,
+        "word": "芭莎婚恋所又拍新CP啦",
+        "onboard_time": 1695871175,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 426543,
+        "num": 426543,
+        "word": "捷豹勇敢飞",
+        "onboard_time": 1695871656,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 631812,
+        "num": 425717,
+        "word": "大同欺凌事件被辞退老师刚接班",
+        "onboard_time": 1695864040,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 523530,
+        "num": 418338,
+        "word": "性缩力",
+        "onboard_time": 1695856651,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402372,
+        "num": 402372,
+        "word": "问心定档",
+        "onboard_time": 1695869078,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363829,
+        "num": 363829,
+        "word": "ELK金克丝一血",
+        "onboard_time": 1695867215,
+        "rank": 23,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 305576,
+        "num": 305576,
+        "word": "米勒 生命值",
+        "onboard_time": 1695869620,
+        "rank": 24,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 302472,
+        "num": 302472,
+        "word": "得力回应花西子发疯",
+        "onboard_time": 1695868838,
+        "rank": 25,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 296762,
+        "num": 296762,
+        "word": "BP 抽象",
+        "onboard_time": 1695868235,
+        "rank": 26,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 287951,
+        "num": 287951,
+        "word": "大同未成年欺凌事件同校家长发声",
+        "onboard_time": 1695860977,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 70517,
+        "num": 283499,
+        "word": "要多可靠你才考虑折叠屏",
+        "onboard_time": 1695870694,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 283366,
+        "num": 283366,
+        "word": "张嘉倪回应网友呼唤努力搞事业",
+        "onboard_time": 1695871113,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 554106,
+        "num": 282164,
+        "word": "JDG到底谁在C",
+        "onboard_time": 1695866797,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 497283,
+        "num": 280504,
+        "word": "Zeus单杀Bin",
+        "onboard_time": 1695868658,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 277282,
+        "num": 277282,
+        "word": "孙杨直播哭了",
+        "onboard_time": 1695857129,
+        "rank": 32,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 231686,
+        "num": 231686,
+        "word": "iPhoneSE4设计曝光",
+        "onboard_time": 1695864217,
+        "rank": 33,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 226473,
+        "num": 226473,
+        "word": "张鲁一应聘张艺谋导演作品",
+        "onboard_time": 1695866736,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206325,
+        "num": 206325,
+        "word": "原来上班是结婚的平替",
+        "onboard_time": 1695858758,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194235,
+        "num": 194235,
+        "word": "逆水寒 开门啊",
+        "onboard_time": 1695868113,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193232,
+        "num": 193232,
+        "word": "代号鸢 芙蓉帅到我了",
+        "onboard_time": 1695869440,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190737,
+        "num": 190737,
+        "word": "白鹿把经典笑声带到了时装周",
+        "onboard_time": 1695867095,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190106,
+        "num": 190106,
+        "word": "邓为李一桐吻戏",
+        "onboard_time": 1695862358,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183686,
+        "num": 183686,
+        "word": "女生洗澡被偷拍靠脚印3天找到偷拍男",
+        "onboard_time": 1695859476,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181202,
+        "num": 181202,
+        "word": "巴基斯坦父亲独自来杭只为给儿子一个惊喜",
+        "onboard_time": 1695865056,
+        "rank": 41,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 168204,
+        "num": 168204,
+        "word": "浙江人未来一个月的主食",
+        "onboard_time": 1695862717,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182297,
+        "num": 166712,
+        "word": "戚薇白鹿徐明浩同框",
+        "onboard_time": 1695871956,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163869,
+        "num": 163869,
+        "word": "王俊凯巴黎街头坐摩托",
+        "onboard_time": 1695861697,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156597,
+        "num": 156597,
+        "word": "给客户寄800份月饼生产日期竟是2014年",
+        "onboard_time": 1695859054,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152409,
+        "num": 152409,
+        "word": "国企董事长安排19名亲友担任要职",
+        "onboard_time": 1695864337,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151311,
+        "num": 151311,
+        "word": "再见CSGO 你好CS2",
+        "onboard_time": 1695856952,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136445,
+        "num": 136445,
+        "word": "福州厦门实现一小时生活圈",
+        "onboard_time": 1695866616,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135882,
+        "num": 135882,
+        "word": "非遗传承人把独门秘诀带进亚运村",
+        "onboard_time": 1695871775,
+        "rank": 49,
+        "category": "社会新闻,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高驾驭高水平对外开放能力#"
+    }
+  }
+}
