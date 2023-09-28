@@ -1,0 +1,410 @@
+{
+  "runTime": 1695899657028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2786991,
+        "num": 2786991,
+        "word": "柯洁银牌",
+        "onboard_time": 1695893140,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1797846,
+        "num": 1797846,
+        "word": "花西子承认助梦大使称号",
+        "onboard_time": 1695895535,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 33588,
+        "num": 1512167,
+        "word": "中国自贸试验区建设十周年",
+        "onboard_time": 1695891335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192370,
+        "num": 1504287,
+        "word": "96斤护士海姆立克法救回166斤大哥",
+        "onboard_time": 1695897695,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270751,
+        "num": 1502477,
+        "word": "我捡的社牛小猴竟是无价之宝",
+        "onboard_time": 1695894340,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1501552,
+        "num": 1501552,
+        "word": "她推了西娘娘",
+        "onboard_time": 1695897333,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 149700,
+        "num": 1150947,
+        "word": "医护人员万米高空救治心脏骤停乘客",
+        "onboard_time": 1695892780,
+        "rank": 6,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 815333,
+        "num": 815333,
+        "word": "北京已达严重拥堵",
+        "onboard_time": 1695889114,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531760,
+        "num": 531760,
+        "word": "柯洁逆转",
+        "onboard_time": 1695890856,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 473408,
+        "num": 473408,
+        "word": "得力直播间上架多个79元套装",
+        "onboard_time": 1695893140,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1167604,
+        "num": 450867,
+        "word": "坚如磐石删减 尺度奇观",
+        "onboard_time": 1695897752,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 987182,
+        "num": 428555,
+        "word": "因证据不足14岁女孩被认定为卖淫女",
+        "onboard_time": 1695883237,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157380,
+        "num": 413354,
+        "word": "推动妇女儿童事业高质量发展",
+        "onboard_time": 1695894998,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 973727,
+        "num": 373536,
+        "word": "卫生巾 免税",
+        "onboard_time": 1695894039,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145042,
+        "num": 365759,
+        "word": "丘索维金娜第4",
+        "onboard_time": 1695888696,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346041,
+        "num": 346041,
+        "word": "前任4如期上映 我们却各奔东西",
+        "onboard_time": 1695899072,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 690172,
+        "num": 345520,
+        "word": "任嘉伦工作室严正声明",
+        "onboard_time": 1695897513,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 560453,
+        "num": 339374,
+        "word": "吴昕 这一次来大理我40岁了",
+        "onboard_time": 1695896316,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325259,
+        "num": 325259,
+        "word": "坚如磐石",
+        "onboard_time": 1695882095,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 311316,
+        "num": 311316,
+        "word": "向佐首次回应回归家庭",
+        "onboard_time": 1695896195,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487743,
+        "num": 302499,
+        "word": "您确定您的个人收入这么低吗",
+        "onboard_time": 1695892780,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322014,
+        "num": 300814,
+        "word": "张嘉倪的脸兜不住面膜",
+        "onboard_time": 1695897036,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280931,
+        "num": 280931,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 22,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 280483,
+        "num": 280483,
+        "word": "黄奕在巴黎穿了新中式旗袍",
+        "onboard_time": 1695890734,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 276313,
+        "num": 276313,
+        "word": "扣1复活柯洁",
+        "onboard_time": 1695890856,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270870,
+        "num": 270870,
+        "word": "霸王茶姬 柄图丑",
+        "onboard_time": 1695879216,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270699,
+        "num": 270699,
+        "word": "故意穿了件惹眼的红裙子去相亲",
+        "onboard_time": 1695892298,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 267141,
+        "num": 267141,
+        "word": "十个勤天",
+        "onboard_time": 1695896854,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38704,
+        "num": 264825,
+        "word": "被元梦的皮肤圈粉了",
+        "onboard_time": 1695897934,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 263030,
+        "num": 263030,
+        "word": "杨幂LOEWE罗意威全球品牌代言人",
+        "onboard_time": 1695879396,
+        "rank": 29,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 255891,
+        "num": 255891,
+        "word": "花西子眉笔 自动铅笔",
+        "onboard_time": 1695874056,
+        "rank": 30,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 251669,
+        "num": 251669,
+        "word": "张婧仪问为啥我会在西班牙",
+        "onboard_time": 1695895896,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251283,
+        "num": 251283,
+        "word": "国庆假门还没出就亏了3500元",
+        "onboard_time": 1695899134,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250550,
+        "num": 250550,
+        "word": "柯洁 胜率",
+        "onboard_time": 1695889774,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246571,
+        "num": 246571,
+        "word": "复活吧 我的爱人",
+        "onboard_time": 1695898296,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231740,
+        "num": 231740,
+        "word": "许皓鋐 神之一手",
+        "onboard_time": 1695896854,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220402,
+        "num": 220402,
+        "word": "堵车",
+        "onboard_time": 1695880174,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77915,
+        "num": 199205,
+        "word": "蛋仔小绿老INFP了",
+        "onboard_time": 1695899134,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194836,
+        "num": 194836,
+        "word": "月亮",
+        "onboard_time": 1695899374,
+        "rank": 38,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 188203,
+        "num": 188203,
+        "word": "花西子被王海举报后更改产品介绍",
+        "onboard_time": 1695886716,
+        "rank": 39,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 175847,
+        "num": 175847,
+        "word": "赵丽颖古装群像",
+        "onboard_time": 1695883958,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168973,
+        "num": 168973,
+        "word": "张小斐好会穿",
+        "onboard_time": 1695898955,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158432,
+        "num": 158432,
+        "word": "花西子助力国货每一个梦想",
+        "onboard_time": 1695895594,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 157073,
+        "num": 157073,
+        "word": "中山大学副研究员被举报出轨女博士后",
+        "onboard_time": 1695888994,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147796,
+        "num": 147796,
+        "word": "赵今麦造型师终于开窍了",
+        "onboard_time": 1695888393,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146098,
+        "num": 146098,
+        "word": "老人买房发现卧室下方竟有配电柜",
+        "onboard_time": 1695887556,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145707,
+        "num": 145707,
+        "word": "卫明被林双公开处刑爽爆了",
+        "onboard_time": 1695884434,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127556,
+        "num": 127556,
+        "word": "坚如磐石 狼群与哈士奇",
+        "onboard_time": 1695898591,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127013,
+        "num": 127013,
+        "word": "Kanavi说感受到了中国队的威胁",
+        "onboard_time": 1695884257,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 124098,
+        "num": 124098,
+        "word": "于和伟 为了坚如磐石叫干啥就干啥",
+        "onboard_time": 1695897934,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与世界贸易组织改革#"
+    }
+  }
+}
