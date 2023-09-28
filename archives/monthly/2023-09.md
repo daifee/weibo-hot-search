@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 21:35:24
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 22:16:59
 </p>
 </blockquote>
 <p>
@@ -5445,6 +5445,12 @@ papi酱 步入中年的前奏（热度：1112831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23" target="weibo">
+水果店8.8元一斤卖榴莲惊动特警（热度：1112043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%915%E6%9C%BA%E5%9C%BA%E5%90%88%E4%BD%93%23" target="weibo">
 花少5机场合体（热度：1111906）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23bibi%23" target="weibo">
 bibi（热度：1033611）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%B4%9B%E9%98%B3%E7%90%86%E5%B7%A5%E5%8F%91%E7%94%9F%E5%91%BD%E6%A1%88%23" target="weibo">
-网传洛阳理工发生命案（热度：1032379）
 </a>
 </li>
 

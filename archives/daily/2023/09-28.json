@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695908124183,
+  "endTime": 1695910619186,
   "band_list": [
     {
       "raw_hot": 9974852,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 2898261,
-      "num": 510210,
+      "num": 539549,
       "word": "许家印可能涉嫌多项罪名",
       "onboard_time": 1695906347,
       "rank": 10,
@@ -283,6 +283,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 1112043,
+      "num": 1112043,
+      "word": "水果店8.8元一斤卖榴莲惊动特警",
+      "onboard_time": 1695903035,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111161,
       "num": 1111161,
       "word": "6岁零216个月",
@@ -320,14 +328,6 @@
       "word": "卫生巾 免税",
       "onboard_time": 1695894039,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1025182,
-      "num": 1025182,
-      "word": "水果店8.8元一斤卖榴莲惊动特警",
-      "onboard_time": 1695903035,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -491,6 +491,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 746196,
+      "num": 746196,
+      "word": "她俩眼神真的不清白",
+      "onboard_time": 1695905983,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 733790,
       "num": 733790,
       "word": "THE9南京演唱会官宣",
@@ -539,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711036,
+      "num": 711036,
+      "word": "iPhone改华为手机壳热销",
+      "onboard_time": 1695907426,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 703314,
       "num": 496289,
       "word": "柯洁晋级亚运会决赛",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 690172,
-      "num": 390215,
+      "num": 434459,
       "word": "任嘉伦工作室严正声明",
       "onboard_time": 1695897513,
       "rank": 16,
@@ -577,14 +593,6 @@
       "onboard_time": 1695903275,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 681964,
-      "num": 681964,
-      "word": "她俩眼神真的不清白",
-      "onboard_time": 1695905983,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 652512,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 577737,
-      "num": 494356,
+      "num": 562566,
       "word": "晚安 校长",
       "onboard_time": 1695905443,
       "rank": 16,
@@ -739,8 +747,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 538882,
-      "num": 538882,
+      "raw_hot": 541621,
+      "num": 541621,
       "word": "我们的歌第五季阵容官宣",
       "onboard_time": 1695905385,
       "rank": 9,
@@ -1051,6 +1059,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 397926,
+      "num": 397926,
+      "word": "网约车老爸的1800多次道歉",
+      "onboard_time": 1695908681,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393937,
+      "num": 273419,
+      "word": "盘点许家印商业版图",
+      "onboard_time": 1695910304,
+      "rank": 30,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 387450,
       "num": 525828,
       "word": "敦煌上一次这么多人还在汉朝",
@@ -1139,6 +1163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 374491,
+      "num": 518250,
+      "word": "中国队男子4×100自由泳接力金牌",
+      "onboard_time": 1695907665,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 371651,
       "num": 371651,
       "word": "邓为李一桐吻戏",
@@ -1195,6 +1227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 355338,
+      "num": 513696,
+      "word": "庆祝中华人民共和国成立74周年招待会",
+      "onboard_time": 1695909763,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 352198,
       "num": 352198,
       "word": "刚上地铁以为我要开始比赛了",
@@ -1217,14 +1257,6 @@
       "onboard_time": 1695825939,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346354,
-      "num": 460408,
-      "word": "中国队男子4×100自由泳接力金牌",
-      "onboard_time": 1695907665,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 346070,
@@ -1265,6 +1297,14 @@
       "onboard_time": 1695907605,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337377,
+      "num": 337377,
+      "word": "任豪 路不平终于上桌吃饭了",
+      "onboard_time": 1695909641,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 334707,
@@ -1385,6 +1425,14 @@
       "onboard_time": 1695864337,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309380,
+      "num": 309380,
+      "word": "中国男篮vs中国台北男篮",
+      "onboard_time": 1695908563,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 309358,
@@ -1523,14 +1571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281197,
-      "num": 281197,
-      "word": "iPhone改华为手机壳热销",
-      "onboard_time": 1695907426,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 278209,
       "num": 278209,
       "word": "第一次在大熊猫脸上看到无语",
@@ -1545,6 +1585,14 @@
       "onboard_time": 1695893622,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275558,
+      "num": 275558,
+      "word": "中秋晚会",
+      "onboard_time": 1695908081,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 274786,
@@ -1569,6 +1617,14 @@
       "onboard_time": 1695903994,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267156,
+      "num": 267156,
+      "word": "林陆骁南初八个机位的吻",
+      "onboard_time": 1695908382,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 266165,
@@ -1699,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247400,
+      "num": 508890,
+      "word": "叶诗文克服瓶颈阴影再度夺金",
+      "onboard_time": 1695909462,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246810,
       "num": 246810,
       "word": "为什么捡菌子前要拍一拍",
@@ -1731,6 +1795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242289,
+      "num": 242289,
+      "word": "中国女足6比0乌兹别克斯坦女足",
+      "onboard_time": 1695908144,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 240774,
       "num": 240774,
       "word": "李昀锐这辈子最想删掉的视频",
@@ -1760,6 +1832,14 @@
       "word": "樊振东11比1",
       "onboard_time": 1695900515,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 237988,
+      "num": 237988,
+      "word": "潘展乐全场最快",
+      "onboard_time": 1695909226,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1955,20 +2035,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208448,
+      "num": 208448,
+      "word": "于和伟 魅力",
+      "onboard_time": 1695909882,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207954,
       "num": 207954,
       "word": "他只是回魔法世界了",
       "onboard_time": 1695907605,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207869,
-      "num": 207869,
-      "word": "中秋晚会",
-      "onboard_time": 1695908081,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 207148,
@@ -2019,6 +2099,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 202527,
+      "num": 202527,
+      "word": "9岁放羊娃中秋吃上诗里的东坡肉",
+      "onboard_time": 1695908503,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201740,
       "num": 201740,
       "word": "歪果仁找杭州大爷花式问路",
@@ -2041,6 +2129,14 @@
       "onboard_time": 1695895594,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 196810,
+      "num": 196810,
+      "word": "前任四",
+      "onboard_time": 1695909104,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 194836,

@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695908124183,
+  "endTime": 1695910619186,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 2898261,
-      "num": 510210,
+      "num": 539549,
       "word": "许家印可能涉嫌多项罪名",
       "onboard_time": 1695906347,
       "rank": 10,
@@ -7243,6 +7243,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1112043,
+      "num": 1112043,
+      "word": "水果店8.8元一斤卖榴莲惊动特警",
+      "onboard_time": 1695903035,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1111906,
       "num": 1111906,
       "word": "花少5机场合体",
@@ -8057,14 +8065,6 @@
       "onboard_time": 1694702501,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1025182,
-      "num": 1025182,
-      "word": "水果店8.8元一斤卖榴莲惊动特警",
-      "onboard_time": 1695903035,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1024100,
@@ -12835,6 +12835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 746196,
+      "num": 746196,
+      "word": "她俩眼神真的不清白",
+      "onboard_time": 1695905983,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 746118,
       "num": 746118,
       "word": "12306客服建议过半小时再尝试",
@@ -13771,6 +13779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 711036,
+      "num": 711036,
+      "word": "iPhone改华为手机壳热销",
+      "onboard_time": 1695907426,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 710956,
       "num": 386747,
       "word": "这届年轻人为何变得抠门了",
@@ -14348,7 +14364,7 @@
     },
     {
       "raw_hot": 690172,
-      "num": 390215,
+      "num": 434459,
       "word": "任嘉伦工作室严正声明",
       "onboard_time": 1695897513,
       "rank": 16,
@@ -14649,14 +14665,6 @@
       "onboard_time": 1693577562,
       "rank": 19,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 681964,
-      "num": 681964,
-      "word": "她俩眼神真的不清白",
-      "onboard_time": 1695905983,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 681699,
@@ -18292,7 +18300,7 @@
     },
     {
       "raw_hot": 577737,
-      "num": 494356,
+      "num": 562566,
       "word": "晚安 校长",
       "onboard_time": 1695905443,
       "rank": 16,
@@ -19915,6 +19923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 541621,
+      "num": 541621,
+      "word": "我们的歌第五季阵容官宣",
+      "onboard_time": 1695905385,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 541559,
       "num": 541559,
       "word": "檀健次直播",
@@ -20105,14 +20121,6 @@
       "onboard_time": 1693487679,
       "rank": 6,
       "category": "科技"
-    },
-    {
-      "raw_hot": 538882,
-      "num": 538882,
-      "word": "我们的歌第五季阵容官宣",
-      "onboard_time": 1695905385,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 538740,
@@ -28435,6 +28443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397926,
+      "num": 397926,
+      "word": "网约车老爸的1800多次道歉",
+      "onboard_time": 1695908681,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 397906,
       "num": 397906,
       "word": "印度新生儿被活埋伸手破土求救",
@@ -28649,6 +28665,14 @@
       "onboard_time": 1693625796,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 393937,
+      "num": 273419,
+      "word": "盘点许家印商业版图",
+      "onboard_time": 1695910304,
+      "rank": 30,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 393449,
@@ -29961,6 +29985,14 @@
       "onboard_time": 1695876759,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 374491,
+      "num": 518250,
+      "word": "中国队男子4×100自由泳接力金牌",
+      "onboard_time": 1695907665,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 374463,
@@ -31475,6 +31507,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 355338,
+      "num": 513696,
+      "word": "庆祝中华人民共和国成立74周年招待会",
+      "onboard_time": 1695909763,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 355329,
       "num": 355329,
       "word": "我们的歌",
@@ -32195,14 +32235,6 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 346354,
-      "num": 460408,
-      "word": "中国队男子4×100自由泳接力金牌",
-      "onboard_time": 1695907665,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 346123,
       "num": 346123,
       "word": "考研读研 人生选择",
@@ -32913,6 +32945,14 @@
       "onboard_time": 1694058332,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 337377,
+      "num": 337377,
+      "word": "任豪 路不平终于上桌吃饭了",
+      "onboard_time": 1695909641,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 337253,
@@ -35977,6 +36017,14 @@
       "onboard_time": 1693483056,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 309380,
+      "num": 309380,
+      "word": "中国男篮vs中国台北男篮",
+      "onboard_time": 1695908563,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 309347,
@@ -39387,14 +39435,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 281197,
-      "num": 281197,
-      "word": "iPhone改华为手机壳热销",
-      "onboard_time": 1695907426,
-      "rank": 34,
-      "category": "数码"
-    },
-    {
       "raw_hot": 280751,
       "num": 239247,
       "word": "文俊辉hi6飞行嘉宾",
@@ -39977,6 +40017,14 @@
       "onboard_time": 1695264156,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275558,
+      "num": 275558,
+      "word": "中秋晚会",
+      "onboard_time": 1695908081,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 275519,
@@ -41121,6 +41169,14 @@
       "onboard_time": 1694930435,
       "rank": 26,
       "category": "军事"
+    },
+    {
+      "raw_hot": 267156,
+      "num": 267156,
+      "word": "林陆骁南初八个机位的吻",
+      "onboard_time": 1695908382,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 267075,
@@ -43891,6 +43947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247400,
+      "num": 508890,
+      "word": "叶诗文克服瓶颈阴影再度夺金",
+      "onboard_time": 1695909462,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247387,
       "num": 247387,
       "word": "张灵玉恋情被扒",
@@ -44577,6 +44641,14 @@
       "onboard_time": 1693814858,
       "rank": 33,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 242289,
+      "num": 242289,
+      "word": "中国女足6比0乌兹别克斯坦女足",
+      "onboard_time": 1695908144,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 242188,
@@ -45313,6 +45385,14 @@
       "onboard_time": 1695514468,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 237988,
+      "num": 237988,
+      "word": "潘展乐全场最快",
+      "onboard_time": 1695909226,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 237869,
@@ -50579,6 +50659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208448,
+      "num": 208448,
+      "word": "于和伟 魅力",
+      "onboard_time": 1695909882,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208435,
       "num": 208435,
       "word": "再见爱人3预告片",
@@ -50769,14 +50857,6 @@
       "onboard_time": 1693753185,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 207869,
-      "num": 207869,
-      "word": "中秋晚会",
-      "onboard_time": 1695908081,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 207823,
@@ -52393,6 +52473,14 @@
       "onboard_time": 1694331091,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202527,
+      "num": 202527,
+      "word": "9岁放羊娃中秋吃上诗里的东坡肉",
+      "onboard_time": 1695908503,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202523,
@@ -54105,6 +54193,14 @@
       "onboard_time": 1695439410,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196810,
+      "num": 196810,
+      "word": "前任四",
+      "onboard_time": 1695909104,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 196809,
