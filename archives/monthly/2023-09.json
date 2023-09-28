@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695914300743,
+  "endTime": 1695915270895,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -6163,6 +6163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1242544,
+      "num": 559491,
+      "word": "成毅 突然出现",
+      "onboard_time": 1695913540,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1242226,
       "num": 493711,
       "word": "老刘再次对着傅首尔唱出十五年前的歌",
@@ -7084,7 +7092,7 @@
     },
     {
       "raw_hot": 1134773,
-      "num": 864007,
+      "num": 1109555,
       "word": "杨幂Angelababy巴黎时装周造型",
       "onboard_time": 1695911324,
       "rank": 22,
@@ -7644,7 +7652,7 @@
     },
     {
       "raw_hot": 1069526,
-      "num": 827196,
+      "num": 837921,
       "word": "舒肤佳 檀健次",
       "onboard_time": 1695911324,
       "rank": 6,
@@ -8520,6 +8528,14 @@
       "word": "男子3次猥亵邻座女子被老婆狂扇耳光",
       "onboard_time": 1694771614,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 990253,
+      "num": 990253,
+      "word": "高速",
+      "onboard_time": 1695911142,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -10331,6 +10347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 864437,
+      "num": 864437,
+      "word": "卢昱晓回应被说普",
+      "onboard_time": 1695913363,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 864279,
       "num": 651007,
       "word": "易烊千玺个人网站将亮相数字设计展",
@@ -11353,14 +11377,6 @@
       "onboard_time": 1695788559,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 807383,
-      "num": 807383,
-      "word": "高速",
-      "onboard_time": 1695911142,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 807372,
@@ -17851,12 +17867,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 592670,
-      "num": 559491,
-      "word": "成毅 突然出现",
-      "onboard_time": 1695913540,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 592788,
+      "num": 546406,
+      "word": "恒大地产未能清偿债务累计约2785.32亿",
+      "onboard_time": 1695911862,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 592154,
@@ -19347,6 +19363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 554968,
+      "num": 500669,
+      "word": "许家印已为儿子设立信托基金",
+      "onboard_time": 1695914319,
+      "rank": 19,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 554567,
       "num": 554567,
       "word": "offer5实习生竟然是港姐",
@@ -19761,14 +19785,6 @@
       "onboard_time": 1695211959,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 546406,
-      "num": 546406,
-      "word": "恒大地产未能清偿债务累计约2785.32亿",
-      "onboard_time": 1695911862,
-      "rank": 17,
-      "category": "财经"
     },
     {
       "raw_hot": 546255,
@@ -22113,14 +22129,6 @@
       "onboard_time": 1693534357,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 502143,
-      "num": 502143,
-      "word": "卢昱晓回应被说普",
-      "onboard_time": 1695913363,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 501958,
@@ -35227,6 +35235,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 317537,
+      "num": 274020,
+      "word": "公司发的月饼像超市的试吃区",
+      "onboard_time": 1695914379,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 317515,
       "num": 317515,
       "word": "上一次看到这么混乱的场面还是小时代",
@@ -37427,6 +37443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 298630,
+      "num": 298630,
+      "word": "Angelababy 巴黎夜幕",
+      "onboard_time": 1695913303,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 298624,
       "num": 298624,
       "word": "荣耀CEO赵明称荣耀回归华为绝无可能",
@@ -38035,14 +38059,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 293280,
-      "num": 293280,
-      "word": "Angelababy 巴黎夜幕",
-      "onboard_time": 1695913303,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 293246,
       "num": 293246,
       "word": "华为Mate60Pro+体验",
@@ -38409,6 +38425,14 @@
       "onboard_time": 1694486979,
       "rank": 30,
       "category": "科技"
+    },
+    {
+      "raw_hot": 289474,
+      "num": 273998,
+      "word": "吴艳妮暂停训练向国旗行注目礼",
+      "onboard_time": 1695914858,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 289458,
@@ -52739,6 +52763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202189,
+      "num": 202189,
+      "word": "恒大多名核心人员被查",
+      "onboard_time": 1695914139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202143,
       "num": 202143,
       "word": "丞磊清唱终角浅",
@@ -56851,14 +56883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188699,
-      "num": 188699,
-      "word": "恒大多名核心人员被查",
-      "onboard_time": 1695914139,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188679,
       "num": 188679,
       "word": "樊振东vs林昀儒",
@@ -60305,6 +60329,14 @@
       "onboard_time": 1695631120,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173832,
+      "num": 173832,
+      "word": "电影志愿军口碑",
+      "onboard_time": 1695914798,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 173806,
