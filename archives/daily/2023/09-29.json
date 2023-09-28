@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695933243361,
+  "endTime": 1695935698491,
   "band_list": [
     {
       "raw_hot": 1778081,
@@ -443,20 +443,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25449,
+      "raw_hot": 48269,
+      "num": 27907,
+      "word": "人类首次看见的那个黑洞证明确实在自旋",
+      "onboard_time": 1695933494,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 28985,
+      "num": 28985,
+      "word": "周迅看那英的眼神",
+      "onboard_time": 1695932235,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 26298,
       "num": 30975,
       "word": "国庆假期",
       "onboard_time": 1695920307,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24131,
-      "num": 24131,
-      "word": "周迅看那英的眼神",
-      "onboard_time": 1695932235,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 23809,
@@ -465,6 +473,14 @@
       "onboard_time": 1695900993,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 19464,
+      "num": 19464,
+      "word": "黄子弘凡看节目才知道自己被骗",
+      "onboard_time": 1695934155,
+      "rank": 46,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
