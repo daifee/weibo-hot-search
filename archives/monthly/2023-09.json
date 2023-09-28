@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695926115974,
+  "endTime": 1695928422272,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -72059,6 +72059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74286,
+      "num": 74286,
+      "word": "陈都灵中式穿搭",
+      "onboard_time": 1695925219,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 74255,
       "num": 74255,
       "word": "拉齐奥1比1马竞",
@@ -73033,14 +73041,6 @@
       "onboard_time": 1695708036,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 57274,
-      "num": 57274,
-      "word": "陈都灵中式穿搭",
-      "onboard_time": 1695925219,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 57047,
@@ -75249,6 +75249,14 @@
       "onboard_time": 1693941913,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23724,
+      "num": 30975,
+      "word": "国庆假期",
+      "onboard_time": 1695920307,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23368,

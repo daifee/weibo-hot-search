@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695926115974,
+  "endTime": 1695928422272,
   "band_list": [
     {
       "raw_hot": 1778081,
@@ -419,20 +419,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74286,
+      "num": 74286,
+      "word": "陈都灵中式穿搭",
+      "onboard_time": 1695925219,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67634,
       "num": 67634,
       "word": "频繁做美甲 让指甲休息一下",
       "onboard_time": 1695902496,
       "rank": 48,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 57274,
-      "num": 57274,
-      "word": "陈都灵中式穿搭",
-      "onboard_time": 1695925219,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 49037,
@@ -449,6 +449,14 @@
       "onboard_time": 1695900993,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 23724,
+      "num": 30975,
+      "word": "国庆假期",
+      "onboard_time": 1695920307,
+      "rank": 49,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
