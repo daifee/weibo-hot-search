@@ -1,0 +1,410 @@
+{
+  "runTime": 1695864726900,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7808585,
+        "num": 8849934,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 0,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 2096316,
+        "num": 2096316,
+        "word": "泼天的富贵要到文具届了",
+        "onboard_time": 1695861276,
+        "rank": 1,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 58404,
+        "num": 1168633,
+        "word": "中国造列车获土耳其总统点赞",
+        "onboard_time": 1695820474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1111161,
+        "num": 1111161,
+        "word": "6岁零216个月",
+        "onboard_time": 1695862119,
+        "rank": 3,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 734517,
+        "num": 734517,
+        "word": "孙杨直播哭了",
+        "onboard_time": 1695857129,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 641794,
+        "num": 641794,
+        "word": "90后为何不愿生孩子了",
+        "onboard_time": 1695861221,
+        "rank": 5,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 612537,
+        "num": 612537,
+        "word": "英雄联盟中国队vs韩国队",
+        "onboard_time": 1695863978,
+        "rank": 6,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 511624,
+        "num": 511624,
+        "word": "给客户寄800份月饼生产日期竟是2014年",
+        "onboard_time": 1695859054,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511040,
+        "num": 511040,
+        "word": "英雄联盟项目半决赛赛程",
+        "onboard_time": 1695863198,
+        "rank": 8,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 496526,
+        "num": 496526,
+        "word": "大同欺凌事件被辞退老师刚接班",
+        "onboard_time": 1695864040,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 686190,
+        "num": 494995,
+        "word": "大同未成年欺凌事件同校家长发声",
+        "onboard_time": 1695860977,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 486906,
+        "num": 486906,
+        "word": "多家医院关闭产科",
+        "onboard_time": 1695826837,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221352,
+        "num": 384702,
+        "word": "中国男足晋级八强",
+        "onboard_time": 1695821921,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226663,
+        "num": 376532,
+        "word": "中秋国庆假期首日高速流量或破历史峰值",
+        "onboard_time": 1695864275,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218208,
+        "num": 372451,
+        "word": "中秋国庆假期第1天你想干什么",
+        "onboard_time": 1695863800,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371813,
+        "num": 371813,
+        "word": "浙江人未来一个月的主食",
+        "onboard_time": 1695862717,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 371651,
+        "num": 371651,
+        "word": "邓为李一桐吻戏",
+        "onboard_time": 1695862358,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313745,
+        "num": 313745,
+        "word": "李栋旭太会了",
+        "onboard_time": 1695860075,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308651,
+        "num": 308651,
+        "word": "王俊凯巴黎街头坐摩托",
+        "onboard_time": 1695861697,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276588,
+        "num": 276588,
+        "word": "同居生子分手女子起诉每月给1元抚养费",
+        "onboard_time": 1695828935,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251737,
+        "num": 274826,
+        "word": "性缩力",
+        "onboard_time": 1695856651,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 636031,
+        "num": 270079,
+        "word": "女生洗澡被偷拍靠脚印3天找到偷拍男",
+        "onboard_time": 1695859476,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351054,
+        "num": 267811,
+        "word": "瞒着家人原了自己26岁的梦",
+        "onboard_time": 1695862899,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325605,
+        "num": 264948,
+        "word": "原来上班是结婚的平替",
+        "onboard_time": 1695858758,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317373,
+        "num": 262812,
+        "word": "没认出这是邱泽",
+        "onboard_time": 1695863859,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259638,
+        "num": 259638,
+        "word": "再见CSGO 你好CS2",
+        "onboard_time": 1695856952,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 254332,
+        "num": 254332,
+        "word": "iPhone16机型或都配备A18芯片",
+        "onboard_time": 1695861338,
+        "rank": 26,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 253437,
+        "num": 253437,
+        "word": "刚上地铁以为我要开始比赛了",
+        "onboard_time": 1695860438,
+        "rank": 27,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 237531,
+        "num": 237531,
+        "word": "iPhoneSE4设计曝光",
+        "onboard_time": 1695864217,
+        "rank": 28,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 236049,
+        "num": 236049,
+        "word": "李泰容 入伍",
+        "onboard_time": 1695858993,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228149,
+        "num": 228149,
+        "word": "王子文好优雅",
+        "onboard_time": 1695861637,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226907,
+        "num": 226907,
+        "word": "张雨霏赛后哽咽称第五名的她就是奇迹",
+        "onboard_time": 1695857188,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220768,
+        "num": 220768,
+        "word": "第一次在大熊猫脸上看到无语",
+        "onboard_time": 1695839056,
+        "rank": 32,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 203836,
+        "num": 203836,
+        "word": "女清洁工手写16万字小说并出版",
+        "onboard_time": 1695862298,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198493,
+        "num": 198493,
+        "word": "原来长短腿和坐姿有关",
+        "onboard_time": 1695861637,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193295,
+        "num": 193295,
+        "word": "张小斐首部主演电视剧收视率破2",
+        "onboard_time": 1695828040,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189577,
+        "num": 189577,
+        "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+        "onboard_time": 1695819333,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188807,
+        "num": 188807,
+        "word": "儿子6岁失联25年后一家终团圆",
+        "onboard_time": 1695860855,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188249,
+        "num": 188249,
+        "word": "利拉德被交易到雄鹿",
+        "onboard_time": 1695855747,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178007,
+        "num": 178007,
+        "word": "丘索维金娜眼中的体育精神",
+        "onboard_time": 1695864458,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175706,
+        "num": 175706,
+        "word": "中国恒大在港交所停止交易",
+        "onboard_time": 1695864337,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168916,
+        "num": 168916,
+        "word": "国企董事长安排19名亲友担任要职",
+        "onboard_time": 1695864337,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163758,
+        "num": 163758,
+        "word": "母亲去世女子想推迟结婚被判退彩礼",
+        "onboard_time": 1695823538,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163171,
+        "num": 163171,
+        "word": "黄奕巴黎时装周首套造型",
+        "onboard_time": 1695863141,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162965,
+        "num": 162965,
+        "word": "明天下午发的朋友圈",
+        "onboard_time": 1695824619,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157755,
+        "num": 157755,
+        "word": "民警帮工人追回欠薪30万",
+        "onboard_time": 1695864160,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147578,
+        "num": 147578,
+        "word": "于适即兴表演哈姆雷特",
+        "onboard_time": 1695860917,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146382,
+        "num": 146382,
+        "word": "佟丽娅黑白礼服",
+        "onboard_time": 1695862418,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138562,
+        "num": 138562,
+        "word": "出轨男卫明提离婚独吞家产",
+        "onboard_time": 1695827377,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135090,
+        "num": 135090,
+        "word": "逃犯被生擒控诉民警看自己不爽才盘查",
+        "onboard_time": 1695863198,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#敬惜一汪碧水让生活年年有鱼#"
+    }
+  }
+}
