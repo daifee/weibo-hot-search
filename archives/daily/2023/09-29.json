@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695943009025,
+  "endTime": 1695944032396,
   "band_list": [
     {
       "raw_hot": 1778081,
@@ -11,19 +11,19 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1431477,
+      "num": 1431477,
+      "word": "高速",
+      "onboard_time": 1695911142,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1376273,
       "num": 436854,
       "word": "许家印父子及多名恒大高管涉案被查",
       "onboard_time": 1695915998,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1254077,
-      "num": 1254077,
-      "word": "高速",
-      "onboard_time": 1695911142,
-      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -115,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 478695,
+      "num": 478695,
+      "word": "中秋节",
+      "onboard_time": 1695943467,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 476809,
+      "num": 476809,
+      "word": "月饼今年卖不动了",
+      "onboard_time": 1695918330,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 438793,
       "num": 417940,
       "word": "坚如磐石删减 尺度奇观",
@@ -137,14 +153,6 @@
       "onboard_time": 1695912103,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 421907,
-      "num": 326028,
-      "word": "月饼今年卖不动了",
-      "onboard_time": 1695918330,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 416682,
@@ -187,8 +195,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 359103,
-      "num": 359103,
+      "raw_hot": 362925,
+      "num": 362925,
       "word": "两个邓布利多都离世了",
       "onboard_time": 1695904360,
       "rank": 24,
@@ -267,12 +275,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192298,
+      "num": 192298,
+      "word": "中秋节祝福",
+      "onboard_time": 1695943287,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 190997,
       "num": 190997,
       "word": "公司发的月饼像超市的试吃区",
       "onboard_time": 1695914379,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188463,
+      "num": 129173,
+      "word": "许家印身家已缩水超90%",
+      "onboard_time": 1695944005,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187861,
@@ -299,6 +323,14 @@
       "category": "美妆,作品衍生"
     },
     {
+      "raw_hot": 183679,
+      "num": 183679,
+      "word": "许家印被查细节披露",
+      "onboard_time": 1695942686,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177159,
       "num": 177159,
       "word": "95花 时装周",
@@ -315,20 +347,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171776,
+      "num": 171776,
+      "word": "男子双人舞生育力溢出来了",
+      "onboard_time": 1695910722,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 167242,
+      "num": 128840,
+      "word": "没想到有一天室友变亲戚了",
+      "onboard_time": 1695942986,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 164933,
       "num": 422291,
       "word": "中国队男子4×100自由泳接力金牌",
       "onboard_time": 1695907665,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163008,
-      "num": 163008,
-      "word": "男子双人舞生育力溢出来了",
-      "onboard_time": 1695910722,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 161657,
@@ -355,6 +395,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 155429,
+      "num": 155429,
+      "word": "阳光玫瑰为什么味道不如以前了",
+      "onboard_time": 1695942443,
+      "rank": 32,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 154973,
       "num": 154973,
       "word": "花西子承认助梦大使称号",
@@ -369,6 +417,14 @@
       "onboard_time": 1695913303,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151422,
+      "num": 151422,
+      "word": "霍启刚这么恋爱脑吗",
+      "onboard_time": 1695943225,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 146490,
@@ -387,20 +443,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142998,
+      "num": 258955,
+      "word": "人类首次看见的那个黑洞证明确实在自旋",
+      "onboard_time": 1695933494,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 142677,
       "num": 142677,
       "word": "柯洁逆转",
       "onboard_time": 1695890856,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134277,
-      "num": 258955,
-      "word": "人类首次看见的那个黑洞证明确实在自旋",
-      "onboard_time": 1695933494,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 130783,
@@ -411,6 +467,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 129652,
+      "num": 129652,
+      "word": "中秋文案",
+      "onboard_time": 1695940640,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 124915,
       "num": 124915,
       "word": "出轨男卫明卖房妻女无家可归",
@@ -419,36 +483,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111841,
-      "num": 111841,
-      "word": "中秋文案",
-      "onboard_time": 1695940640,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 114738,
+      "num": 114738,
+      "word": "被拐34年他终于能过一个温暖中秋节",
+      "onboard_time": 1695943287,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 84401,
-      "num": 84401,
-      "word": "阳光玫瑰为什么味道不如以前了",
-      "onboard_time": 1695942443,
-      "rank": 32,
-      "category": "美食,社会新闻"
+      "raw_hot": 104021,
+      "num": 104021,
+      "word": "高校学生用积木修复墙面",
+      "onboard_time": 1695943646,
+      "rank": 39,
+      "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 81986,
-      "num": 81986,
+      "raw_hot": 100303,
+      "num": 100303,
+      "word": "王俊凯下车镜头",
+      "onboard_time": 1695943830,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 88867,
+      "num": 88867,
       "word": "亚运会三小只发饰太可爱了",
       "onboard_time": 1695922403,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77878,
-      "num": 77878,
-      "word": "许家印被查细节披露",
-      "onboard_time": 1695942686,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76618,
@@ -457,6 +521,14 @@
       "onboard_time": 1695940520,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76511,
+      "num": 76511,
+      "word": "那英说周迅嗓音是因为变声期",
+      "onboard_time": 1695943946,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 74286,
@@ -483,14 +555,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 60138,
-      "num": 67620,
-      "word": "没想到有一天室友变亲戚了",
-      "onboard_time": 1695942986,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 49037,
       "num": 53636,
       "word": "78岁爷爷穿汉服送花灯",
@@ -507,6 +571,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34583,
+      "num": 816534,
+      "word": "杭州亚运赛场燃情瞬间",
+      "onboard_time": 1695900993,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 31983,
       "num": 36117,
       "word": "国庆假期",
@@ -521,14 +593,6 @@
       "onboard_time": 1695938657,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 29345,
-      "num": 816534,
-      "word": "杭州亚运赛场燃情瞬间",
-      "onboard_time": 1695900993,
-      "rank": 2,
-      "category": "社会新闻,体育"
     }
   ],
   "hotgov_list": [

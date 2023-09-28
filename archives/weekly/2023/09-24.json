@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695943009025,
+  "endTime": 1695944032396,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -851,6 +851,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1431477,
+      "num": 1431477,
+      "word": "高速",
+      "onboard_time": 1695911142,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1424250,
       "num": 728162,
       "word": "女子给狗挤肛门腺喷射到左眼致感染",
@@ -1025,14 +1033,6 @@
       "onboard_time": 1695559477,
       "rank": 43,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1254077,
-      "num": 1254077,
-      "word": "高速",
-      "onboard_time": 1695911142,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1244925,
@@ -4403,6 +4403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478695,
+      "num": 478695,
+      "word": "中秋节",
+      "onboard_time": 1695943467,
+      "rank": 3,
+      "category": "情感"
+    },
+    {
       "raw_hot": 478446,
       "num": 295811,
       "word": "北京一无业男子与俩同小区女子同居",
@@ -4417,6 +4425,14 @@
       "onboard_time": 1695625533,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 476809,
+      "num": 476809,
+      "word": "月饼今年卖不动了",
+      "onboard_time": 1695918330,
+      "rank": 24,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 476290,
@@ -5081,14 +5097,6 @@
       "onboard_time": 1695871113,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 421907,
-      "num": 326028,
-      "word": "月饼今年卖不动了",
-      "onboard_time": 1695918330,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 420068,
@@ -10779,6 +10787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192298,
+      "num": 192298,
+      "word": "中秋节祝福",
+      "onboard_time": 1695943287,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192146,
       "num": 192146,
       "word": "柯洁亚运会两连胜",
@@ -11025,6 +11041,14 @@
       "onboard_time": 1695742000,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188463,
+      "num": 129173,
+      "word": "许家印身家已缩水超90%",
+      "onboard_time": 1695944005,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188383,
@@ -11305,6 +11329,14 @@
       "onboard_time": 1695527431,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183679,
+      "num": 183679,
+      "word": "许家印被查细节披露",
+      "onboard_time": 1695942686,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183442,
@@ -11995,6 +12027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167242,
+      "num": 128840,
+      "word": "没想到有一天室友变亲戚了",
+      "onboard_time": 1695942986,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167090,
       "num": 167090,
       "word": "张予曦直播风格",
@@ -12547,6 +12587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155429,
+      "num": 155429,
+      "word": "阳光玫瑰为什么味道不如以前了",
+      "onboard_time": 1695942443,
+      "rank": 32,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 155345,
       "num": 155345,
       "word": "43名兵哥哥接亲遇战友盾牌挡门",
@@ -12761,6 +12809,14 @@
       "onboard_time": 1695626740,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151422,
+      "num": 151422,
+      "word": "霍启刚这么恋爱脑吗",
+      "onboard_time": 1695943225,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 151281,
@@ -13089,6 +13145,14 @@
       "onboard_time": 1695719915,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142998,
+      "num": 258955,
+      "word": "人类首次看见的那个黑洞证明确实在自旋",
+      "onboard_time": 1695933494,
+      "rank": 30,
+      "category": "科技"
     },
     {
       "raw_hot": 142898,
@@ -13491,14 +13555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 134277,
-      "num": 258955,
-      "word": "人类首次看见的那个黑洞证明确实在自旋",
-      "onboard_time": 1695933494,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 133931,
       "num": 133931,
       "word": "美商务部将10家中企列入实体清单",
@@ -13617,6 +13673,14 @@
       "onboard_time": 1695825341,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129652,
+      "num": 129652,
+      "word": "中秋文案",
+      "onboard_time": 1695940640,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 129605,
@@ -13979,6 +14043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114738,
+      "num": 114738,
+      "word": "被拐34年他终于能过一个温暖中秋节",
+      "onboard_time": 1695943287,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 114339,
       "num": 243233,
       "word": "当一座山泛起哲学的波光",
@@ -14065,14 +14137,6 @@
       "onboard_time": 1695624758,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111841,
-      "num": 111841,
-      "word": "中秋文案",
-      "onboard_time": 1695940640,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 111049,
@@ -14195,6 +14259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104021,
+      "num": 104021,
+      "word": "高校学生用积木修复墙面",
+      "onboard_time": 1695943646,
+      "rank": 39,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 103415,
       "num": 930341,
       "word": "亚运会bgm唱进心坎里",
@@ -14241,6 +14313,14 @@
       "onboard_time": 1695749300,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100303,
+      "num": 100303,
+      "word": "王俊凯下车镜头",
+      "onboard_time": 1695943830,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 99522,
@@ -14395,6 +14475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88867,
+      "num": 88867,
+      "word": "亚运会三小只发饰太可爱了",
+      "onboard_time": 1695922403,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88260,
       "num": 197830,
       "word": "国庆出行先看差评",
@@ -14443,28 +14531,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 84401,
-      "num": 84401,
-      "word": "阳光玫瑰为什么味道不如以前了",
-      "onboard_time": 1695942443,
-      "rank": 32,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 82519,
       "num": 212251,
       "word": "波司登新品展示中国时尚力量",
       "onboard_time": 1695812072,
       "rank": 29,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 81986,
-      "num": 81986,
-      "word": "亚运会三小只发饰太可爱了",
-      "onboard_time": 1695922403,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 81619,
@@ -14497,14 +14569,6 @@
       "onboard_time": 1695899134,
       "rank": 37,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 77878,
-      "num": 77878,
-      "word": "许家印被查细节披露",
-      "onboard_time": 1695942686,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77276,
@@ -14553,6 +14617,14 @@
       "onboard_time": 1695940520,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 76511,
+      "num": 76511,
+      "word": "那英说周迅嗓音是因为变声期",
+      "onboard_time": 1695943946,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 76413,
@@ -14833,14 +14905,6 @@
       "onboard_time": 1695661342,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60138,
-      "num": 67620,
-      "word": "没想到有一天室友变亲戚了",
-      "onboard_time": 1695942986,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 58547,
@@ -15227,6 +15291,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 34583,
+      "num": 816534,
+      "word": "杭州亚运赛场燃情瞬间",
+      "onboard_time": 1695900993,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 34018,
       "num": 430639,
       "word": "第九届尼山世界文明论坛",
@@ -15321,14 +15393,6 @@
       "onboard_time": 1695750379,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29345,
-      "num": 816534,
-      "word": "杭州亚运赛场燃情瞬间",
-      "onboard_time": 1695900993,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 29012,
