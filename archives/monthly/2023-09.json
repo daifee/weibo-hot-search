@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695939377619,
+  "endTime": 1695940428190,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -70819,6 +70819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95454,
+      "num": 121697,
+      "word": "人类首次看见的那个黑洞证明确实在自旋",
+      "onboard_time": 1695933494,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 95395,
       "num": 299594,
       "word": "什么情况需要拔智齿",
@@ -71753,14 +71761,6 @@
       "onboard_time": 1694894894,
       "rank": 42,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 80085,
-      "num": 80085,
-      "word": "人类首次看见的那个黑洞证明确实在自旋",
-      "onboard_time": 1695933494,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 79893,
@@ -74259,6 +74259,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 36924,
+      "num": 36924,
+      "word": "周迅看那英的眼神",
+      "onboard_time": 1695932235,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36829,
       "num": 48752,
       "word": "两个猫宝宝交换袜子穿",
@@ -74427,6 +74435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34610,
+      "num": 36118,
+      "word": "黄子弘凡看节目才知道自己被骗",
+      "onboard_time": 1695934155,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 34196,
       "num": 42911,
       "word": "英雄联盟国家集训队抵达亚运村",
@@ -74571,12 +74587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32018,
-      "num": 32018,
-      "word": "周迅看那英的眼神",
-      "onboard_time": 1695932235,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 31983,
+      "num": 36117,
+      "word": "国庆假期",
+      "onboard_time": 1695920307,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31786,
@@ -74683,20 +74699,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30984,
+      "num": 36116,
+      "word": "从16岁到27岁叶诗文经历了什么",
+      "onboard_time": 1695938657,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30957,
       "num": 344590,
       "word": "慕思助力中国游泳",
       "onboard_time": 1695459634,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30843,
-      "num": 30843,
-      "word": "黄子弘凡看节目才知道自己被骗",
-      "onboard_time": 1695934155,
-      "rank": 46,
-      "category": "音乐"
     },
     {
       "raw_hot": 30785,
@@ -74849,14 +74865,6 @@
       "onboard_time": 1693855994,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 29295,
-      "num": 30975,
-      "word": "国庆假期",
-      "onboard_time": 1695920307,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29289,

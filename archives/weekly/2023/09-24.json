@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695939377619,
+  "endTime": 1695940428190,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -14307,6 +14307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95454,
+      "num": 121697,
+      "word": "人类首次看见的那个黑洞证明确实在自旋",
+      "onboard_time": 1695933494,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 94516,
       "num": 1528740,
       "word": "当千里江山图遇上诗画浙江",
@@ -14449,14 +14457,6 @@
       "onboard_time": 1695794736,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 80085,
-      "num": 80085,
-      "word": "人类首次看见的那个黑洞证明确实在自旋",
-      "onboard_time": 1695933494,
-      "rank": 30,
-      "category": "科技"
     },
     {
       "raw_hot": 78779,
@@ -15139,6 +15139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 36924,
+      "num": 36924,
+      "word": "周迅看那英的眼神",
+      "onboard_time": 1695932235,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36812,
       "num": 52564,
       "word": "安宥真MV演技",
@@ -15171,6 +15179,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 34610,
+      "num": 36118,
+      "word": "黄子弘凡看节目才知道自己被骗",
+      "onboard_time": 1695934155,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 34018,
       "num": 430639,
       "word": "第九届尼山世界文明论坛",
@@ -15195,12 +15211,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32018,
-      "num": 32018,
-      "word": "周迅看那英的眼神",
-      "onboard_time": 1695932235,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 31983,
+      "num": 36117,
+      "word": "国庆假期",
+      "onboard_time": 1695920307,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 31385,
@@ -15219,12 +15235,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30843,
-      "num": 30843,
-      "word": "黄子弘凡看节目才知道自己被骗",
-      "onboard_time": 1695934155,
-      "rank": 46,
-      "category": "音乐"
+      "raw_hot": 30984,
+      "num": 36116,
+      "word": "从16岁到27岁叶诗文经历了什么",
+      "onboard_time": 1695938657,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 30509,
@@ -15265,14 +15281,6 @@
       "onboard_time": 1695750379,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29295,
-      "num": 30975,
-      "word": "国庆假期",
-      "onboard_time": 1695920307,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29012,

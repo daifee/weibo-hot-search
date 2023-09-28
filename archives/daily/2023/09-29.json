@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695939377619,
+  "endTime": 1695940428190,
   "band_list": [
     {
       "raw_hot": 1778081,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 789314,
+      "num": 789314,
+      "word": "高速",
+      "onboard_time": 1695911142,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 782564,
       "num": 419522,
       "word": "许家印可能涉嫌多项罪名",
@@ -73,14 +81,6 @@
       "onboard_time": 1695916420,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 658662,
-      "num": 658662,
-      "word": "高速",
-      "onboard_time": 1695911142,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 650405,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 260056,
+      "num": 260056,
+      "word": "网约车老爸的1800多次道歉",
+      "onboard_time": 1695908681,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256637,
       "num": 212894,
       "word": "吴艳妮暂停训练向国旗行注目礼",
@@ -249,14 +257,6 @@
       "onboard_time": 1695911862,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 199025,
-      "num": 199025,
-      "word": "网约车老爸的1800多次道歉",
-      "onboard_time": 1695908681,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194344,
@@ -411,8 +411,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80085,
-      "num": 80085,
+      "raw_hot": 95454,
+      "num": 121697,
       "word": "人类首次看见的那个黑洞证明确实在自旋",
       "onboard_time": 1695933494,
       "rank": 30,
@@ -451,28 +451,36 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 32018,
-      "num": 32018,
+      "raw_hot": 36924,
+      "num": 36924,
       "word": "周迅看那英的眼神",
       "onboard_time": 1695932235,
       "rank": 36,
       "category": "综艺"
     },
     {
-      "raw_hot": 30843,
-      "num": 30843,
+      "raw_hot": 34610,
+      "num": 36118,
       "word": "黄子弘凡看节目才知道自己被骗",
       "onboard_time": 1695934155,
       "rank": 46,
       "category": "音乐"
     },
     {
-      "raw_hot": 29295,
-      "num": 30975,
+      "raw_hot": 31983,
+      "num": 36117,
       "word": "国庆假期",
       "onboard_time": 1695920307,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30984,
+      "num": 36116,
+      "word": "从16岁到27岁叶诗文经历了什么",
+      "onboard_time": 1695938657,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 23809,
