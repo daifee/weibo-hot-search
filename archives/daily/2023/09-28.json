@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695875640967,
+  "endTime": 1695878162520,
   "band_list": [
     {
       "raw_hot": 8499613,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1482971,
-      "num": 424287,
+      "num": 425322,
       "word": "性缩力",
       "onboard_time": 1695856651,
       "rank": 20,
@@ -155,6 +155,22 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 934058,
+      "num": 934058,
+      "word": "成都地铁上被误认偷拍男子发文",
+      "onboard_time": 1695872855,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 907564,
+      "num": 907564,
+      "word": "俄罗斯考虑效仿中国禁止进口日本水产品",
+      "onboard_time": 1695876099,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 896322,
       "num": 896322,
       "word": "二等兵申真谞 出列",
@@ -211,6 +227,22 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 733790,
+      "num": 733790,
+      "word": "THE9南京演唱会官宣",
+      "onboard_time": 1695875077,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 726898,
+      "num": 601319,
+      "word": "这和躺周杰伦怀里听有什么区别",
+      "onboard_time": 1695876821,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 720584,
       "num": 499413,
       "word": "LPL",
@@ -219,12 +251,12 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 707222,
-      "num": 707222,
-      "word": "THE9南京演唱会官宣",
-      "onboard_time": 1695875077,
-      "rank": 6,
-      "category": "演出"
+      "raw_hot": 695874,
+      "num": 695874,
+      "word": "比恋爱脑更可悲的是清醒的恋爱脑",
+      "onboard_time": 1695874357,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 689209,
@@ -299,14 +331,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 594240,
-      "num": 594240,
-      "word": "比恋爱脑更可悲的是清醒的恋爱脑",
-      "onboard_time": 1695874357,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 593408,
       "num": 424139,
       "word": "孙颖莎又打出11比0",
@@ -323,12 +347,12 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 570891,
-      "num": 570891,
-      "word": "成都地铁上被误认偷拍男子发文",
-      "onboard_time": 1695872855,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 572752,
+      "num": 283233,
+      "word": "Faker",
+      "onboard_time": 1695876398,
+      "rank": 30,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 569734,
@@ -345,6 +369,14 @@
       "onboard_time": 1695828517,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 545750,
+      "num": 545750,
+      "word": "王栎鑫和唐禹哲是同一个经纪人",
+      "onboard_time": 1695875137,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 524129,
@@ -395,12 +427,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 466456,
+      "num": 466456,
+      "word": "薛之谦天津 抢票",
+      "onboard_time": 1695876638,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 455637,
       "num": 428014,
       "word": "芭莎婚恋所又拍新CP啦",
       "onboard_time": 1695871175,
       "rank": 18,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 451815,
+      "num": 451815,
+      "word": "韩女从小就通透",
+      "onboard_time": 1695876700,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 451257,
@@ -419,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436066,
+      "num": 623033,
+      "word": "中秋国庆假期第1天你想干什么",
+      "onboard_time": 1695863800,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434588,
       "num": 434588,
       "word": "BP 抽象",
@@ -427,28 +483,20 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 432953,
+      "num": 432953,
+      "word": "被追着喂饭是这种感觉吗",
+      "onboard_time": 1695874838,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 429301,
       "num": 408129,
       "word": "李栋旭太会了",
       "onboard_time": 1695860075,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427216,
-      "num": 623033,
-      "word": "中秋国庆假期第1天你想干什么",
-      "onboard_time": 1695863800,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 424343,
-      "num": 424343,
-      "word": "王栎鑫和唐禹哲是同一个经纪人",
-      "onboard_time": 1695875137,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 423863,
@@ -475,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 401298,
+      "num": 401298,
+      "word": "韩国爱豆和日本爱豆的差异",
+      "onboard_time": 1695875801,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400121,
       "num": 400121,
       "word": "浙江人未来一个月的主食",
@@ -497,6 +553,14 @@
       "onboard_time": 1695866736,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 376121,
+      "num": 376121,
+      "word": "杨幂到达巴黎",
+      "onboard_time": 1695876217,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 371651,
@@ -563,11 +627,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333353,
+      "num": 333353,
+      "word": "华晨宇穿了十年前快男夺冠的衣服",
+      "onboard_time": 1695876759,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 331345,
       "num": 331345,
       "word": "张远听不得春晚两个字",
       "onboard_time": 1695874237,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 330867,
+      "num": 330867,
+      "word": "檀健次的秘密被张远暴露了",
+      "onboard_time": 1695877419,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -683,20 +763,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284469,
+      "num": 284469,
+      "word": "封神训练营开播",
+      "onboard_time": 1695878017,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 282424,
+      "num": 282424,
+      "word": "被冤枉偷拍男子将起诉成都地铁",
+      "onboard_time": 1695875440,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278209,
       "num": 278209,
       "word": "第一次在大熊猫脸上看到无语",
       "onboard_time": 1695839056,
       "rank": 40,
       "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 275336,
-      "num": 275336,
-      "word": "被追着喂饭是这种感觉吗",
-      "onboard_time": 1695874838,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 274212,
@@ -713,6 +801,14 @@
       "onboard_time": 1695826962,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260766,
+      "num": 260766,
+      "word": "肖俊问张艺兴我能去你的演唱会吗",
+      "onboard_time": 1695876217,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 258195,
@@ -739,12 +835,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 234185,
-      "num": 234185,
-      "word": "被冤枉偷拍男子将起诉成都地铁",
-      "onboard_time": 1695875440,
+      "raw_hot": 239091,
+      "num": 239091,
+      "word": "文韬何运晨石凯三个人凑不出一个平民",
+      "onboard_time": 1695877659,
       "rank": 38,
-      "category": "社会新闻"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 232852,
+      "num": 232852,
+      "word": "国庆出游人数相当于整个澳洲",
+      "onboard_time": 1695876099,
+      "rank": 39,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 232650,
@@ -785,6 +889,14 @@
       "onboard_time": 1695860855,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227640,
+      "num": 227640,
+      "word": "前任4",
+      "onboard_time": 1695877119,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 226663,
@@ -835,6 +947,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211926,
+      "num": 974846,
+      "word": "新疆辟谣游客断崖式下跌",
+      "onboard_time": 1695875740,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211318,
+      "num": 211318,
+      "word": "小S放假舞",
+      "onboard_time": 1695877959,
+      "rank": 45,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 209893,
       "num": 209893,
       "word": "王鹤棣后台狂炫小零食",
@@ -865,6 +993,22 @@
       "onboard_time": 1695867095,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201740,
+      "num": 201740,
+      "word": "歪果仁找杭州大爷花式问路",
+      "onboard_time": 1695877538,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195509,
+      "num": 195509,
+      "word": "YG新女团9月出道告吹",
+      "onboard_time": 1695878136,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 193193,
@@ -1355,6 +1499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74808,
+      "num": 594288,
+      "word": "mate60rs评测",
+      "onboard_time": 1695873938,
+      "rank": 34,
+      "category": "科技"
+    },
+    {
       "raw_hot": 72164,
       "num": 94375,
       "word": "工人槽罐车内缺氧消防紧急入罐救人",
@@ -1403,12 +1555,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 55180,
-      "num": 594288,
-      "word": "mate60rs评测",
-      "onboard_time": 1695873938,
-      "rank": 34,
-      "category": "科技"
+      "raw_hot": 54511,
+      "num": 283356,
+      "word": "早八人深深共情张之臻",
+      "onboard_time": 1695876821,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 49294,
@@ -1455,6 +1607,9 @@
     },
     {
       "word": "#提高驾驭高水平对外开放能力#"
+    },
+    {
+      "word": "#积极参与世界贸易组织改革#"
     }
   ]
 }
