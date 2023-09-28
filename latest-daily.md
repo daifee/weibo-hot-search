@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 22:16:59
+本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 22:34:36
 </p>
 </blockquote>
 <p>
@@ -213,6 +213,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23" target="weibo">
+水果店8.8元一斤卖榴莲惊动特警（热度：1270850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%B7%B2%E8%BE%BE%E4%B8%A5%E9%87%8D%E6%8B%A5%E5%A0%B5%23" target="weibo">
 北京已达严重拥堵（热度：1232936）
 </a>
@@ -221,12 +227,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%9F%A9%E5%9B%BD%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
 英雄联盟半决赛韩国先下一城（热度：1142451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23" target="weibo">
-水果店8.8元一斤卖榴莲惊动特警（热度：1112043）
 </a>
 </li>
 
@@ -315,6 +315,12 @@ JDG到底谁在C（热度：935814）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23" target="weibo">
+她俩眼神真的不清白（热度：856898）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%B6%85%E8%B6%8A%E5%8E%BB%E8%BF%9B%E4%BF%AE%E6%BC%94%E6%8A%80%E4%BA%86%23" target="weibo">
 杨超越去进修演技了（热度：829904）
 </a>
@@ -323,6 +329,12 @@ JDG到底谁在C（热度：935814）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E7%AD%BE%E5%94%AE%E4%BA%8610%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
 张杰签售了10个小时（热度：817652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%92%E8%82%A4%E4%BD%B3%20%E6%AA%80%E5%81%A5%E6%AC%A1%23" target="weibo">
+舒肤佳 檀健次（热度：801989）
 </a>
 </li>
 
@@ -347,6 +359,12 @@ JDG到底谁在C（热度：935814）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%A8%E9%9C%8F%E5%8F%91%E7%83%A7%E8%BF%98%E6%8B%BF%E4%BA%86%E5%86%A0%E5%86%9B%23" target="weibo">
 张雨霏发烧还拿了冠军（热度：789981）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone%E6%94%B9%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%83%AD%E9%94%80%23" target="weibo">
+iPhone改华为手机壳热销（热度：781090）
 </a>
 </li>
 
@@ -377,12 +395,6 @@ Zeus单杀Bin（热度：780955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%98%89%E8%B1%AA%E5%93%AD%E4%BA%86%23" target="weibo">
 赵嘉豪哭了（热度：754897）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BF%A9%E7%9C%BC%E7%A5%9E%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%B8%85%E7%99%BD%23" target="weibo">
-她俩眼神真的不清白（热度：746196）
 </a>
 </li>
 
@@ -419,12 +431,6 @@ LPL（热度：720584）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E6%97%B6%E9%9A%949%E5%B9%B4%E5%86%8D%E5%A4%BA%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%23" target="weibo">
 叶诗文时隔9年再夺亚运金牌（热度：712956）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone%E6%94%B9%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%83%AD%E9%94%80%23" target="weibo">
-iPhone改华为手机壳热销（热度：711036）
 </a>
 </li>
 
@@ -681,6 +687,12 @@ Kanavi说感受到了中国队的威胁（热度：456462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB4%23" target="weibo">
+前任4（热度：456299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E7%94%B7%E5%8F%8C%E5%BC%80%E9%97%A8%E7%BA%A2%23" target="weibo">
 樊振东王楚钦男双开门红（热度：456015）
 </a>
@@ -741,12 +753,6 @@ SEVENTEEN更换北京预告（热度：448699）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB4%23" target="weibo">
-前任4（热度：440967）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E7%AC%AC1%E5%A4%A9%E4%BD%A0%E6%83%B3%E5%B9%B2%E4%BB%80%E4%B9%88%23" target="weibo">
 中秋国庆假期第1天你想干什么（热度：436066）
 </a>
@@ -795,6 +801,12 @@ knight 妖姬（热度：423863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%8C%E4%BA%BA%E8%88%9E%E7%94%9F%E8%82%B2%E5%8A%9B%E6%BA%A2%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+男子双人舞生育力溢出来了（热度：401331）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E7%88%B1%E8%B1%86%E5%92%8C%E6%97%A5%E6%9C%AC%E7%88%B1%E8%B1%86%E7%9A%84%E5%B7%AE%E5%BC%82%23" target="weibo">
 韩国爱豆和日本爱豆的差异（热度：401298）
 </a>
@@ -819,6 +831,12 @@ knight 妖姬（热度：423863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82Angelababy%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E9%80%A0%E5%9E%8B%23" target="weibo">
+杨幂Angelababy巴黎时装周造型（热度：392224）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%A6%E7%85%8C%E4%B8%8A%E4%B8%80%E6%AC%A1%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BA%BA%E8%BF%98%E5%9C%A8%E6%B1%89%E6%9C%9D%23" target="weibo">
 敦煌上一次这么多人还在汉朝（热度：387450）
 </a>
@@ -837,6 +855,12 @@ knight 妖姬（热度：423863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B74%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%23" target="weibo">
+庆祝中华人民共和国成立74周年招待会（热度：385081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E5%90%8D%E7%9A%84%E6%98%AF%E7%88%B8%E7%88%B8%E8%A2%AB%E6%B2%BB%E6%84%88%E7%9A%84%E5%8D%B4%E6%98%AF%E5%84%BF%E5%AD%90%23" target="weibo">
 出名的是爸爸被治愈的却是儿子（热度：384269）
 </a>
@@ -851,6 +875,12 @@ knight 妖姬（热度：423863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81CSGO%20%E4%BD%A0%E5%A5%BDCS2%23" target="weibo">
 再见CSGO 你好CS2（热度：381454）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E6%A2%B5%E5%B8%8C%20%E8%99%9E%E4%B9%A6%E6%AC%A3%23" target="weibo">
+纪梵希 虞书欣（热度：380583）
 </a>
 </li>
 
@@ -929,12 +959,6 @@ knight 妖姬（热度：423863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%20%E5%B7%A1%E6%BC%94%23" target="weibo">
 邓紫棋 巡演（热度：355689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E6%88%90%E7%AB%8B74%E5%91%A8%E5%B9%B4%E6%8B%9B%E5%BE%85%E4%BC%9A%23" target="weibo">
-庆祝中华人民共和国成立74周年招待会（热度：355338）
 </a>
 </li>
 
@@ -1029,6 +1053,12 @@ knight 妖姬（热度：423863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE%23" target="weibo">
+中国男篮vs中国台北男篮（热度：322394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E7%9A%84%E8%84%B8%E5%85%9C%E4%B8%8D%E4%BD%8F%E9%9D%A2%E8%86%9C%23" target="weibo">
 张嘉倪的脸兜不住面膜（热度：322014）
 </a>
@@ -1079,12 +1109,6 @@ knight 妖姬（热度：423863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%81%92%E5%A4%A7%E5%9C%A8%E6%B8%AF%E4%BA%A4%E6%89%80%E5%81%9C%E6%AD%A2%E4%BA%A4%E6%98%93%23" target="weibo">
 中国恒大在港交所停止交易（热度：311261）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AE%23" target="weibo">
-中国男篮vs中国台北男篮（热度：309380）
 </a>
 </li>
 
@@ -1233,6 +1257,12 @@ PLEDIS官宣中国选秀（热度：281601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E5%85%8B%E6%9C%8D%E7%93%B6%E9%A2%88%E9%98%B4%E5%BD%B1%E5%86%8D%E5%BA%A6%E5%A4%BA%E9%87%91%23" target="weibo">
+叶诗文克服瓶颈阴影再度夺金（热度：267003）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E5%8D%8A%E5%9C%BA1%E6%AF%940%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E5%A5%B3%E8%B6%B3%23" target="weibo">
 中国女足半场1比0乌兹别克斯坦女足（热度：266165）
 </a>
@@ -1325,12 +1355,6 @@ PLEDIS官宣中国选秀（热度：281601）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%B3%B3%E9%98%9F%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%AC%AC21%E9%87%91%23" target="weibo">
 中国游泳队杭州亚运第21金（热度：249326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E8%AF%97%E6%96%87%E5%85%8B%E6%9C%8D%E7%93%B6%E9%A2%88%E9%98%B4%E5%BD%B1%E5%86%8D%E5%BA%A6%E5%A4%BA%E9%87%91%23" target="weibo">
-叶诗文克服瓶颈阴影再度夺金（热度：247400）
 </a>
 </li>
 
@@ -1509,6 +1533,12 @@ PLEDIS官宣中国选秀（热度：281601）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E8%A7%82%E4%BC%97%E5%96%8A%E7%8E%8B%E5%93%B2%E6%9E%97MVP%23" target="weibo">
+亚运会观众喊王哲林MVP（热度：217947）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BD%B0%E7%95%99%E5%AD%A6%E5%89%AF%E6%9C%AC%23" target="weibo">
 刘彰留学副本（热度：217876）
 </a>
@@ -1539,6 +1569,12 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%80%9F%23" target="weibo">
+高速（热度：209686）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E9%AD%85%E5%8A%9B%23" target="weibo">
 于和伟 魅力（热度：208448）
 </a>
@@ -1553,6 +1589,12 @@ G社拍的金智秀朴彩英（热度：215262）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%20%E6%8A%B5%E6%8A%97%E4%B8%8D%E4%BA%86%E6%BF%80%E5%B0%86%E6%B3%95%E7%9A%84%E4%BA%BA%23" target="weibo">
 于适 抵抗不了激将法的人（热度：207148）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%92%8C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E7%94%B7%E7%AF%AEBGM%E6%98%AF%E6%81%8B%E7%88%B1ing%23" target="weibo">
+中国男篮和中国台北男篮BGM是恋爱ing（热度：206518）
 </a>
 </li>
 
@@ -1605,6 +1647,12 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%98%AF%E7%94%98%E9%81%93%E5%A4%AB%23" target="weibo">
+不是甘道夫（热度：197749）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%8A%A9%E5%8A%9B%E5%9B%BD%E8%B4%A7%E6%AF%8F%E4%B8%80%E4%B8%AA%E6%A2%A6%E6%83%B3%23" target="weibo">
 花西子助力国货每一个梦想（热度：197734）
 </a>
@@ -1613,6 +1661,12 @@ G社拍的金智秀朴彩英（热度：215262）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E4%BB%BB%E5%9B%9B%23" target="weibo">
 前任四（热度：196810）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%90%AC%E5%88%B0%E5%A6%82%E6%AD%A4%E6%B8%85%E6%96%B0%E8%84%B1%E4%BF%97%E7%9A%84%E8%8F%9C%E5%90%8D%23" target="weibo">
+第一次听到如此清新脱俗的菜名（热度：195175）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695910619186,
+  "endTime": 1695911676216,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -987,6 +987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1270850,
+      "num": 1270850,
+      "word": "水果店8.8元一斤卖榴莲惊动特警",
+      "onboard_time": 1695903035,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1270826,
       "num": 822402,
       "word": "官方通报校长和主任外出考察同房过夜",
@@ -1201,14 +1209,6 @@
       "onboard_time": 1695811412,
       "rank": 3,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1112043,
-      "num": 1112043,
-      "word": "水果店8.8元一斤卖榴莲惊动特警",
-      "onboard_time": 1695903035,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1111161,
@@ -1787,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 856898,
+      "num": 856898,
+      "word": "她俩眼神真的不清白",
+      "onboard_time": 1695905983,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 851954,
       "num": 473261,
       "word": "英雄联盟比赛转播于9月28日半决赛开始",
@@ -1979,6 +1987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 801989,
+      "num": 801989,
+      "word": "舒肤佳 檀健次",
+      "onboard_time": 1695911324,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 801767,
       "num": 412342,
       "word": "为什么男生的屁股翘",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1695521431,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 781090,
+      "num": 781090,
+      "word": "iPhone改华为手机壳热销",
+      "onboard_time": 1695907426,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 780955,
@@ -2331,14 +2355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 746196,
-      "num": 746196,
-      "word": "她俩眼神真的不清白",
-      "onboard_time": 1695905983,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 742938,
       "num": 742938,
       "word": "张雨霏100蝶冠军",
@@ -2505,14 +2521,6 @@
       "onboard_time": 1695729642,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 711036,
-      "num": 711036,
-      "word": "iPhone改华为手机壳热销",
-      "onboard_time": 1695907426,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 710756,
@@ -4595,6 +4603,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 456299,
+      "num": 456299,
+      "word": "前任4",
+      "onboard_time": 1695716794,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 456271,
       "num": 456271,
       "word": "今晚国歌是我的单曲循环",
@@ -4785,14 +4801,6 @@
       "onboard_time": 1695785374,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 440967,
-      "num": 440967,
-      "word": "前任4",
-      "onboard_time": 1695716794,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 439206,
@@ -5171,6 +5179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 401331,
+      "num": 401331,
+      "word": "男子双人舞生育力溢出来了",
+      "onboard_time": 1695910722,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401298,
       "num": 401298,
       "word": "韩国爱豆和日本爱豆的差异",
@@ -5236,7 +5252,7 @@
     },
     {
       "raw_hot": 393937,
-      "num": 273419,
+      "num": 299588,
       "word": "盘点许家印商业版图",
       "onboard_time": 1695910304,
       "rank": 30,
@@ -5257,6 +5273,14 @@
       "onboard_time": 1695741222,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 392224,
+      "num": 392224,
+      "word": "杨幂Angelababy巴黎时装周造型",
+      "onboard_time": 1695911324,
+      "rank": 22,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 391573,
@@ -5331,6 +5355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 385081,
+      "num": 513696,
+      "word": "庆祝中华人民共和国成立74周年招待会",
+      "onboard_time": 1695909763,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 384966,
       "num": 265155,
       "word": "发现丢失一年的猫在邻居家",
@@ -5385,6 +5417,14 @@
       "onboard_time": 1695646596,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380583,
+      "num": 321742,
+      "word": "纪梵希 虞书欣",
+      "onboard_time": 1695911380,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 379524,
@@ -5745,14 +5785,6 @@
       "onboard_time": 1695821078,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355338,
-      "num": 513696,
-      "word": "庆祝中华人民共和国成立74周年招待会",
-      "onboard_time": 1695909763,
-      "rank": 13,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 354936,
@@ -6291,6 +6323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 322394,
+      "num": 322394,
+      "word": "中国男篮vs中国台北男篮",
+      "onboard_time": 1695908563,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322014,
       "num": 300814,
       "word": "张嘉倪的脸兜不住面膜",
@@ -6592,14 +6632,6 @@
       "word": "00后小将张杰滑板男子街式摘金",
       "onboard_time": 1695801217,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 309380,
-      "num": 309380,
-      "word": "中国男篮vs中国台北男篮",
-      "onboard_time": 1695908563,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -7651,6 +7683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267003,
+      "num": 508890,
+      "word": "叶诗文克服瓶颈阴影再度夺金",
+      "onboard_time": 1695909462,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266773,
       "num": 266773,
       "word": "offer首次引入KPI考核决定薪资",
@@ -8225,14 +8265,6 @@
       "onboard_time": 1695513627,
       "rank": 27,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 247400,
-      "num": 508890,
-      "word": "叶诗文克服瓶颈阴影再度夺金",
-      "onboard_time": 1695909462,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 247227,
@@ -9123,6 +9155,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 217947,
+      "num": 217947,
+      "word": "亚运会观众喊王哲林MVP",
+      "onboard_time": 1695910842,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 217876,
       "num": 217876,
       "word": "刘彰留学副本",
@@ -9499,6 +9539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209686,
+      "num": 209686,
+      "word": "高速",
+      "onboard_time": 1695911142,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209549,
       "num": 209549,
       "word": "霹雳舞首次入亚",
@@ -9617,6 +9665,14 @@
       "onboard_time": 1695532297,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 206518,
+      "num": 206518,
+      "word": "中国男篮和中国台北男篮BGM是恋爱ing",
+      "onboard_time": 1695910963,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 206487,
@@ -10163,6 +10219,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 197749,
+      "num": 197749,
+      "word": "不是甘道夫",
+      "onboard_time": 1695910901,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197734,
       "num": 197734,
       "word": "花西子助力国货每一个梦想",
@@ -10329,6 +10393,14 @@
       "onboard_time": 1695689617,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 195175,
+      "num": 195175,
+      "word": "第一次听到如此清新脱俗的菜名",
+      "onboard_time": 1695911202,
+      "rank": 49,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 195131,

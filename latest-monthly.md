@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 22:16:59
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 22:34:36
 </p>
 </blockquote>
 <p>
@@ -4509,6 +4509,12 @@ CoCo道歉（热度：1326101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23" target="weibo">
+水果店8.8元一斤卖榴莲惊动特警（热度：1270850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%A0%A1%E9%95%BF%E5%92%8C%E4%B8%BB%E4%BB%BB%E5%A4%96%E5%87%BA%E8%80%83%E5%AF%9F%E5%90%8C%E6%88%BF%E8%BF%87%E5%A4%9C%23" target="weibo">
 官方通报校长和主任外出考察同房过夜（热度：1270826）
 </a>
@@ -5441,12 +5447,6 @@ papi酱 步入中年的前奏（热度：1112831）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E4%BE%9D%E6%9E%97%E6%81%AD%E5%96%9C%E9%A9%AC%E9%BE%99%E5%A4%BA%E5%86%A0%23" target="weibo">
 蔡依林恭喜马龙夺冠（热度：1112394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E5%BA%978.8%E5%85%83%E4%B8%80%E6%96%A4%E5%8D%96%E6%A6%B4%E8%8E%B2%E6%83%8A%E5%8A%A8%E7%89%B9%E8%AD%A6%23" target="weibo">
-水果店8.8元一斤卖榴莲惊动特警（热度：1112043）
 </a>
 </li>
 
