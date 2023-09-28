@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 17:16:56
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 17:34:21
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%93%B6%E7%89%8C%23" target="weibo">
+柯洁银牌（热度：9291305）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%8F%91%E5%A3%B0%23" target="weibo">
 花西子发声（热度：9253666）
 </a>
@@ -59,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E8%AF%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E4%BB%A5%E5%89%8D%E7%8A%B6%E6%80%81%E4%BA%86%23" target="weibo">
 李佳琦说找不到以前状态了（热度：9147516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC%23" target="weibo">
+柯洁逆转（热度：8993178）
 </a>
 </li>
 
@@ -267,12 +279,6 @@ UFO（热度：4690158）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC%23" target="weibo">
-柯洁逆转（热度：4188905）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%9D%E5%BC%BA%E5%89%8D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%AE%8B%E5%96%86%E5%B7%B2%E5%87%BA%E7%8B%B1%23" target="weibo">
 王宝强前经纪人宋喆已出狱（热度：4169398）
 </a>
@@ -389,6 +395,12 @@ UFO（热度：4690158）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%20%E8%87%AA%E5%8A%A8%E9%93%85%E7%AC%94%23" target="weibo">
 花西子眉笔 自动铅笔（热度：3507392）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%A31%E5%A4%8D%E6%B4%BB%E6%9F%AF%E6%B4%81%23" target="weibo">
+扣1复活柯洁（热度：3491326）
 </a>
 </li>
 
@@ -737,12 +749,6 @@ jjxx 歹毒（热度：2999775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E6%95%88%E5%88%B7%E7%89%99%23" target="weibo">
 无效刷牙（热度：2800577）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%A31%E5%A4%8D%E6%B4%BB%E6%9F%AF%E6%B4%81%23" target="weibo">
-扣1复活柯洁（热度：2798774）
 </a>
 </li>
 
@@ -2301,6 +2307,12 @@ CoCo奶茶道歉（热度：1916939）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8D%B7%E8%B1%B9%E5%8B%87%E6%95%A2%E9%A3%9E%23" target="weibo">
+捷豹勇敢飞（热度：1891336）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8B%A6%E4%B8%80%E6%99%9A%E4%B8%8A%E5%81%B7%E4%B8%80%E6%9D%A1%E8%A1%97%E5%85%A8%E5%BE%97%E8%BF%98%E5%9B%9E%E5%8E%BB%23" target="weibo">
 辛苦一晚上偷一条街全得还回去（热度：1890402）
 </a>
@@ -2471,6 +2483,12 @@ Gemini领证（热度：1835025）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%B5%8B%E8%AF%8479%E5%85%83%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%E8%83%BD%E7%94%BB21%E4%B8%AA%E6%9C%88%23" target="weibo">
 网友测评79元花西子眉笔能画21个月（热度：1831007）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E8%AE%B8%E7%9A%93%E9%8B%90%23" target="weibo">
+柯洁决赛对阵许皓鋐（热度：1827704）
 </a>
 </li>
 
@@ -2813,6 +2831,12 @@ iPhone15四款机型相机曝光（热度：1825898）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E6%88%91%E4%BB%AC%E5%BA%94%E6%8E%A5%E5%8F%97%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9A%84%E9%81%93%E6%AD%89%23" target="weibo">
 胡锡进 我们应接受李佳琦的道歉（热度：1727205）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%20%E8%83%9C%E7%8E%87%23" target="weibo">
+柯洁 胜率（热度：1723752）
 </a>
 </li>
 
@@ -4161,6 +4185,12 @@ DFBOYS（热度：1371735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B2%E5%87%BB%E9%87%91%E7%89%8C%23" target="weibo">
+柯洁冲击金牌（热度：1343619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%B8%A6%E8%B4%A7%E4%BA%89%E8%AE%AE%E8%A8%80%E8%AE%BA%23" target="weibo">
 如何看待李佳琦带货争议言论（热度：1342621）
 </a>
@@ -4373,12 +4403,6 @@ CoCo道歉（热度：1326101）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%A8%B1%E8%8A%B1%E5%A6%B9%E8%A7%89%E5%BE%97%E9%AB%98%E9%A2%85%E9%A1%B6%E5%BE%88%E4%B8%91%23" target="weibo">
 原来樱花妹觉得高颅顶很丑（热度：1283227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E8%AE%B8%E7%9A%93%E9%8B%90%23" target="weibo">
-柯洁决赛对阵许皓鋐（热度：1282704）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ iPhone玄学（热度：1025193）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E7%81%AB%E7%82%AC%E7%82%B9%E7%87%83%E4%BB%AA%E5%BC%8F%23" target="weibo">
 主火炬点燃仪式（热度：1022166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E5%88%BB%E6%9C%BA%23" target="weibo">
-光刻机（热度：1021649）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%8A%95%E9%99%8D%E7%9A%84%E7%9C%9F%E6%AD%A3%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88%23" target="weibo">
-日本投降的真正原因是什么（热度：1021326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9C%8B%E8%A7%81%E5%AD%98%E5%AB%81%E5%A6%86%E6%98%AF%E4%B8%BA%E4%BA%86%E4%B8%8D%E5%AB%81%E7%9A%84%23" target="weibo">
-第一次看见存嫁妆是为了不嫁的（热度：1020454）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%231207%E5%90%8D%E7%BC%85%E5%8C%97%E7%94%B5%E8%AF%88%E5%AB%8C%E7%96%91%E4%BA%BA%E7%A7%BB%E4%BA%A4%E6%88%91%E6%96%B9%23" target="weibo">
-1207名缅北电诈嫌疑人移交我方（热度：1019024）
 </a>
 </li>
 

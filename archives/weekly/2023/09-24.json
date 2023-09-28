@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695892616672,
+  "endTime": 1695893661013,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -17,6 +17,22 @@
       "onboard_time": 1695621575,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 9291305,
+      "num": 9291305,
+      "word": "柯洁银牌",
+      "onboard_time": 1695893140,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8993178,
+      "num": 8960738,
+      "word": "柯洁逆转",
+      "onboard_time": 1695890856,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 8499613,
@@ -99,14 +115,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 4188905,
-      "num": 4877811,
-      "word": "柯洁逆转",
-      "onboard_time": 1695890856,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3549026,
       "num": 3549026,
       "word": "休8天上7天你怎么看",
@@ -121,6 +129,14 @@
       "onboard_time": 1695874056,
       "rank": 0,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 3491326,
+      "num": 520281,
+      "word": "扣1复活柯洁",
+      "onboard_time": 1695890856,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 3125145,
@@ -153,14 +169,6 @@
       "onboard_time": 1695724960,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2798774,
-      "num": 520281,
-      "word": "扣1复活柯洁",
-      "onboard_time": 1695890856,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 2778699,
@@ -443,6 +451,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 1891336,
+      "num": 620475,
+      "word": "捷豹勇敢飞",
+      "onboard_time": 1695871656,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1874419,
       "num": 1874419,
       "word": "赵丽颖申请强制黑粉道歉",
@@ -465,6 +481,14 @@
       "onboard_time": 1695785736,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1827704,
+      "num": 1282704,
+      "word": "柯洁决赛对阵许皓鋐",
+      "onboard_time": 1695884916,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 1823114,
@@ -513,6 +537,14 @@
       "onboard_time": 1695625416,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1723752,
+      "num": 1723752,
+      "word": "柯洁 胜率",
+      "onboard_time": 1695889774,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1706671,
@@ -795,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1343619,
+      "num": 680366,
+      "word": "柯洁冲击金牌",
+      "onboard_time": 1695867034,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1339144,
       "num": 1339144,
       "word": "日本阳光玫瑰价格大跌",
@@ -865,14 +905,6 @@
       "onboard_time": 1695817412,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1282704,
-      "num": 1282704,
-      "word": "柯洁决赛对阵许皓鋐",
-      "onboard_time": 1695884916,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 1270826,
@@ -1280,14 +1312,6 @@
       "word": "柯洁亚运会开门红",
       "onboard_time": 1695527252,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 992917,
-      "num": 378697,
-      "word": "柯洁 胜率",
-      "onboard_time": 1695889774,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -2059,6 +2083,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 769522,
+      "num": 769522,
+      "word": "我放假了",
+      "onboard_time": 1695886835,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 768845,
       "num": 768845,
       "word": "刘诗诗回应不上常驻综艺",
@@ -2371,6 +2403,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 703314,
+      "num": 496289,
+      "word": "柯洁晋级亚运会决赛",
+      "onboard_time": 1695874538,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 702808,
       "num": 702808,
       "word": "女子就医发现五脏六腑全长反",
@@ -2529,14 +2569,6 @@
       "onboard_time": 1695601052,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 680366,
-      "num": 680366,
-      "word": "柯洁冲击金牌",
-      "onboard_time": 1695867034,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 680313,
@@ -2881,14 +2913,6 @@
       "onboard_time": 1695798037,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 620475,
-      "num": 620475,
-      "word": "捷豹勇敢飞",
-      "onboard_time": 1695871656,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 619015,
@@ -3371,14 +3395,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 549311,
-      "num": 549311,
-      "word": "我放假了",
-      "onboard_time": 1695886835,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 548137,
       "num": 548137,
       "word": "女明星第一次去欧美时装周看秀造型图",
@@ -3572,7 +3588,7 @@
     },
     {
       "raw_hot": 526739,
-      "num": 364826,
+      "num": 471672,
       "word": "黄奕在巴黎穿了新中式旗袍",
       "onboard_time": 1695890734,
       "rank": 20,
@@ -3723,6 +3739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 514245,
+      "num": 496022,
+      "word": "柯洁亚运会七连胜",
+      "onboard_time": 1695808891,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 513918,
       "num": 513918,
       "word": "马龙3比0朴康贤",
@@ -3859,6 +3883,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 500943,
+      "num": 500943,
+      "word": "日本第二轮核污染水排海将从10月5日开始",
+      "onboard_time": 1695889715,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 500366,
       "num": 500366,
       "word": "女子用筋膜枪抢到林俊杰演唱会门票",
@@ -3905,6 +3937,14 @@
       "onboard_time": 1695741403,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 495537,
+      "num": 495537,
+      "word": "您确定您的个人收入这么低吗",
+      "onboard_time": 1695892780,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 494234,
@@ -4008,6 +4048,14 @@
       "word": "网传高中生入厕需带通行证",
       "onboard_time": 1695624575,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 481841,
+      "num": 481841,
+      "word": "得力直播间上架多个79元套装",
+      "onboard_time": 1695893140,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -4257,14 +4305,6 @@
       "onboard_time": 1695629801,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 461105,
-      "num": 461105,
-      "word": "日本第二轮核污染水排海将从10月5日开始",
-      "onboard_time": 1695889715,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 459321,
@@ -4691,6 +4731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 418869,
+      "num": 418869,
+      "word": "故意穿了件惹眼的红裙子去相亲",
+      "onboard_time": 1695892298,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 418527,
       "num": 418527,
       "word": "三倍工资你愿意加班吗",
@@ -5020,7 +5068,7 @@
     },
     {
       "raw_hot": 384269,
-      "num": 498391,
+      "num": 499536,
       "word": "出名的是爸爸被治愈的却是儿子",
       "onboard_time": 1695885877,
       "rank": 36,
@@ -5505,14 +5553,6 @@
       "onboard_time": 1695543874,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 346013,
-      "num": 346013,
-      "word": "柯洁晋级亚运会决赛",
-      "onboard_time": 1695874538,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 345875,
@@ -7339,6 +7379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 260727,
+      "num": 311150,
+      "word": "这是杭州给全亚洲的浪漫",
+      "onboard_time": 1695891698,
+      "rank": 30,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 260619,
       "num": 789250,
       "word": "孙颖莎为队友加油撞脸花花",
@@ -7369,14 +7417,6 @@
       "onboard_time": 1695528873,
       "rank": 43,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 260027,
-      "num": 204376,
-      "word": "这是杭州给全亚洲的浪漫",
-      "onboard_time": 1695891698,
-      "rank": 30,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 259595,
@@ -7499,11 +7539,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256044,
+      "num": 256044,
+      "word": "罪犯前半生坐牢后半生住福利院领补助",
+      "onboard_time": 1695889414,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255627,
       "num": 255627,
       "word": "张柏芝赫本风小黑裙",
       "onboard_time": 1695722258,
       "rank": 35,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255578,
+      "num": 255578,
+      "word": "侯明昊 少年感",
+      "onboard_time": 1695891758,
+      "rank": 33,
       "category": "作品衍生"
     },
     {
@@ -7905,14 +7961,6 @@
       "onboard_time": 1695630342,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 239181,
-      "num": 239181,
-      "word": "罪犯前半生坐牢后半生住福利院领补助",
-      "onboard_time": 1695889414,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239091,
@@ -8353,14 +8401,6 @@
       "onboard_time": 1695537333,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 222047,
-      "num": 199263,
-      "word": "故意穿了件惹眼的红裙子去相亲",
-      "onboard_time": 1695892298,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 221949,
@@ -8816,14 +8856,6 @@
       "word": "章瑾掉杠三次",
       "onboard_time": 1695801875,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 211445,
-      "num": 211445,
-      "word": "柯洁亚运会七连胜",
-      "onboard_time": 1695808891,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -9835,14 +9867,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192395,
-      "num": 192395,
-      "word": "侯明昊 少年感",
-      "onboard_time": 1695891758,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 192146,
       "num": 192146,
       "word": "柯洁亚运会两连胜",
@@ -10179,6 +10203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187294,
+      "num": 187294,
+      "word": "邓为九月行迹vlog",
+      "onboard_time": 1695893622,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186580,
       "num": 307579,
       "word": "亚运会首个金牌日",
@@ -10513,6 +10545,14 @@
       "onboard_time": 1695715054,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179413,
+      "num": 179413,
+      "word": "张之臻晋级亚运会决赛",
+      "onboard_time": 1695892656,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 178980,
@@ -11465,6 +11505,14 @@
       "onboard_time": 1695769586,
       "rank": 14,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 155894,
+      "num": 155894,
+      "word": "柯洁选择了弹幕最多的打法",
+      "onboard_time": 1695893622,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 155796,
@@ -12467,6 +12515,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 133288,
+      "num": 498534,
+      "word": "十一假期我要从南走到北",
+      "onboard_time": 1695891636,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132561,
       "num": 132561,
       "word": "少年放下水果就跑消防都来不及追",
@@ -13195,14 +13251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95371,
-      "num": 484966,
-      "word": "十一假期我要从南走到北",
-      "onboard_time": 1695891636,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 94516,
       "num": 1528740,
       "word": "当千里江山图遇上诗画浙江",
@@ -13859,6 +13907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45990,
+      "num": 2900954,
+      "word": "中国自贸试验区建设十周年",
+      "onboard_time": 1695891335,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45263,
       "num": 155027,
       "word": "美团跑腿跑到广寒宫了",
@@ -14023,14 +14079,6 @@
       "num": 862068,
       "word": "以新型工业化塑造新优势",
       "onboard_time": 1695617803,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32163,
-      "num": 1244398,
-      "word": "中国自贸试验区建设十周年",
-      "onboard_time": 1695891335,
       "rank": 2,
       "category": "社会新闻"
     },

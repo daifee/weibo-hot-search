@@ -1,0 +1,410 @@
+{
+  "runTime": 1695893661013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9291305,
+        "num": 9291305,
+        "word": "柯洁银牌",
+        "onboard_time": 1695893140,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8993178,
+        "num": 8960738,
+        "word": "柯洁逆转",
+        "onboard_time": 1695890856,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45990,
+        "num": 2900954,
+        "word": "中国自贸试验区建设十周年",
+        "onboard_time": 1695891335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1723752,
+        "num": 1723752,
+        "word": "柯洁 胜率",
+        "onboard_time": 1695889774,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1130203,
+        "num": 1130203,
+        "word": "堵车",
+        "onboard_time": 1695880174,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1095821,
+        "num": 1095821,
+        "word": "北京已达严重拥堵",
+        "onboard_time": 1695889114,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769522,
+        "num": 769522,
+        "word": "我放假了",
+        "onboard_time": 1695886835,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 547709,
+        "num": 547709,
+        "word": "老人买房发现卧室下方竟有配电柜",
+        "onboard_time": 1695887556,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516763,
+        "num": 516763,
+        "word": "花西子眉笔 自动铅笔",
+        "onboard_time": 1695874056,
+        "rank": 8,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 500943,
+        "num": 500943,
+        "word": "日本第二轮核污染水排海将从10月5日开始",
+        "onboard_time": 1695889715,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 3491326,
+        "num": 500611,
+        "word": "扣1复活柯洁",
+        "onboard_time": 1695890856,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291079,
+        "num": 500213,
+        "word": "丘索维金娜第4",
+        "onboard_time": 1695888696,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180452,
+        "num": 499536,
+        "word": "出名的是爸爸被治愈的却是儿子",
+        "onboard_time": 1695885877,
+        "rank": 12,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 141323,
+        "num": 499462,
+        "word": "孙颖莎王曼昱女双开门红",
+        "onboard_time": 1695890013,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133288,
+        "num": 498534,
+        "word": "十一假期我要从南走到北",
+        "onboard_time": 1695891636,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1891336,
+        "num": 498395,
+        "word": "捷豹勇敢飞",
+        "onboard_time": 1695871656,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1827704,
+        "num": 497630,
+        "word": "柯洁决赛对阵许皓鋐",
+        "onboard_time": 1695884916,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1343619,
+        "num": 497407,
+        "word": "柯洁冲击金牌",
+        "onboard_time": 1695867034,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1306459,
+        "num": 496655,
+        "word": "因证据不足14岁女孩被认定为卖淫女",
+        "onboard_time": 1695883237,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703314,
+        "num": 496289,
+        "word": "柯洁晋级亚运会决赛",
+        "onboard_time": 1695874538,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514245,
+        "num": 496022,
+        "word": "柯洁亚运会七连胜",
+        "onboard_time": 1695808891,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495537,
+        "num": 495537,
+        "word": "您确定您的个人收入这么低吗",
+        "onboard_time": 1695892780,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 481841,
+        "num": 481841,
+        "word": "得力直播间上架多个79元套装",
+        "onboard_time": 1695893140,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471672,
+        "num": 471672,
+        "word": "黄奕在巴黎穿了新中式旗袍",
+        "onboard_time": 1695890734,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 470909,
+        "num": 470909,
+        "word": "霸王茶姬 柄图丑",
+        "onboard_time": 1695879216,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 418869,
+        "num": 418869,
+        "word": "故意穿了件惹眼的红裙子去相亲",
+        "onboard_time": 1695892298,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 409994,
+        "num": 409994,
+        "word": "花西子被王海举报后更改产品介绍",
+        "onboard_time": 1695886716,
+        "rank": 26,
+        "category": "美妆,财经"
+      },
+      {
+        "raw_hot": 407148,
+        "num": 407148,
+        "word": "杨幂LOEWE罗意威全球品牌代言人",
+        "onboard_time": 1695879396,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 356532,
+        "num": 356532,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 28,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 356094,
+        "num": 356094,
+        "word": "中山大学副研究员被举报出轨女博士后",
+        "onboard_time": 1695888994,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260727,
+        "num": 311150,
+        "word": "这是杭州给全亚洲的浪漫",
+        "onboard_time": 1695891698,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 304455,
+        "num": 304455,
+        "word": "吴昕一天三档综艺",
+        "onboard_time": 1695891156,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282016,
+        "num": 282016,
+        "word": "赵丽颖古装群像",
+        "onboard_time": 1695883958,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269713,
+        "num": 269713,
+        "word": "柯洁vs一力辽",
+        "onboard_time": 1695872313,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265100,
+        "num": 265100,
+        "word": "赵今麦造型师终于开窍了",
+        "onboard_time": 1695888393,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 256044,
+        "num": 256044,
+        "word": "罪犯前半生坐牢后半生住福利院领补助",
+        "onboard_time": 1695889414,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255578,
+        "num": 255578,
+        "word": "侯明昊 少年感",
+        "onboard_time": 1695891758,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254107,
+        "num": 254107,
+        "word": "迪丽热巴晒巴黎时装周随拍",
+        "onboard_time": 1695887617,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 235148,
+        "num": 235148,
+        "word": "卫明被林双公开处刑爽爆了",
+        "onboard_time": 1695884434,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214399,
+        "num": 214399,
+        "word": "坚如磐石",
+        "onboard_time": 1695882095,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206261,
+        "num": 206261,
+        "word": "逆水寒 天赏爆率",
+        "onboard_time": 1695888816,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 201316,
+        "num": 201316,
+        "word": "Kanavi说感受到了中国队的威胁",
+        "onboard_time": 1695884257,
+        "rank": 41,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 193958,
+        "num": 193958,
+        "word": "SEVENTEEN更换北京预告",
+        "onboard_time": 1695885455,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187294,
+        "num": 187294,
+        "word": "邓为九月行迹vlog",
+        "onboard_time": 1695893622,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179413,
+        "num": 179413,
+        "word": "张之臻晋级亚运会决赛",
+        "onboard_time": 1695892656,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169762,
+        "num": 169762,
+        "word": "于适 抵抗不了激将法的人",
+        "onboard_time": 1695891817,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160087,
+        "num": 160087,
+        "word": "亚运会的唯一悬念 亚军的争夺",
+        "onboard_time": 1695881615,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155894,
+        "num": 155894,
+        "word": "柯洁选择了弹幕最多的打法",
+        "onboard_time": 1695893622,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149592,
+        "num": 149592,
+        "word": "饶雪漫电影永不失联的爱开机",
+        "onboard_time": 1695887436,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146047,
+        "num": 146047,
+        "word": "这和躺周杰伦怀里听有什么区别",
+        "onboard_time": 1695876821,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与世界贸易组织改革#"
+    }
+  }
+}

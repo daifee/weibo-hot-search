@@ -1,7 +1,23 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695892616672,
+  "endTime": 1695893661013,
   "band_list": [
+    {
+      "raw_hot": 9291305,
+      "num": 9291305,
+      "word": "柯洁银牌",
+      "onboard_time": 1695893140,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 8993178,
+      "num": 8960738,
+      "word": "柯洁逆转",
+      "onboard_time": 1695890856,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 8499613,
       "num": 9749613,
@@ -27,14 +43,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 4188905,
-      "num": 4877811,
-      "word": "柯洁逆转",
-      "onboard_time": 1695890856,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3507392,
       "num": 3507392,
       "word": "花西子眉笔 自动铅笔",
@@ -43,7 +51,7 @@
       "category": "美妆,社会新闻"
     },
     {
-      "raw_hot": 2798774,
+      "raw_hot": 3491326,
       "num": 520281,
       "word": "扣1复活柯洁",
       "onboard_time": 1695890856,
@@ -107,6 +115,30 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1891336,
+      "num": 620475,
+      "word": "捷豹勇敢飞",
+      "onboard_time": 1695871656,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1827704,
+      "num": 1282704,
+      "word": "柯洁决赛对阵许皓鋐",
+      "onboard_time": 1695884916,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1723752,
+      "num": 1723752,
+      "word": "柯洁 胜率",
+      "onboard_time": 1695889774,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1687943,
       "num": 1687943,
       "word": "泼天的富贵要到文具界了",
@@ -139,20 +171,20 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1343619,
+      "num": 680366,
+      "word": "柯洁冲击金牌",
+      "onboard_time": 1695867034,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1336220,
       "num": 1336220,
       "word": "同居生子分手女子起诉每月给1元抚养费",
       "onboard_time": 1695828935,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1282704,
-      "num": 1282704,
-      "word": "柯洁决赛对阵许皓鋐",
-      "onboard_time": 1695884916,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 1232936,
@@ -209,14 +241,6 @@
       "onboard_time": 1695855925,
       "rank": 6,
       "category": "财经"
-    },
-    {
-      "raw_hot": 992917,
-      "num": 378697,
-      "word": "柯洁 胜率",
-      "onboard_time": 1695889774,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 983880,
@@ -315,6 +339,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 769522,
+      "num": 769522,
+      "word": "我放假了",
+      "onboard_time": 1695886835,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 754897,
       "num": 754897,
       "word": "赵嘉豪哭了",
@@ -363,6 +395,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 703314,
+      "num": 496289,
+      "word": "柯洁晋级亚运会决赛",
+      "onboard_time": 1695874538,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 695874,
       "num": 695874,
       "word": "比恋爱脑更可悲的是清醒的恋爱脑",
@@ -377,14 +417,6 @@
       "onboard_time": 1695826477,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 680366,
-      "num": 680366,
-      "word": "柯洁冲击金牌",
-      "onboard_time": 1695867034,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 641829,
@@ -417,14 +449,6 @@
       "onboard_time": 1695874297,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 620475,
-      "num": 620475,
-      "word": "捷豹勇敢飞",
-      "onboard_time": 1695871656,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 618174,
@@ -499,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 549311,
-      "num": 549311,
-      "word": "我放假了",
-      "onboard_time": 1695886835,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 545750,
       "num": 545750,
       "word": "王栎鑫和唐禹哲是同一个经纪人",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 526739,
-      "num": 364826,
+      "num": 471672,
       "word": "黄奕在巴黎穿了新中式旗袍",
       "onboard_time": 1695890734,
       "rank": 20,
@@ -555,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 514245,
+      "num": 496022,
+      "word": "柯洁亚运会七连胜",
+      "onboard_time": 1695808891,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 511040,
       "num": 511040,
       "word": "英雄联盟项目半决赛赛程",
@@ -579,12 +603,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500943,
+      "num": 500943,
+      "word": "日本第二轮核污染水排海将从10月5日开始",
+      "onboard_time": 1695889715,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 495537,
+      "num": 495537,
+      "word": "您确定您的个人收入这么低吗",
+      "onboard_time": 1695892780,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 484850,
       "num": 512810,
       "word": "丘索维金娜第4",
       "onboard_time": 1695888696,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 481841,
+      "num": 481841,
+      "word": "得力直播间上架多个79元套装",
+      "onboard_time": 1695893140,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 475166,
@@ -601,14 +649,6 @@
       "onboard_time": 1695876638,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 461105,
-      "num": 461105,
-      "word": "日本第二轮核污染水排海将从10月5日开始",
-      "onboard_time": 1695889715,
-      "rank": 33,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 456462,
@@ -747,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 418869,
+      "num": 418869,
+      "word": "故意穿了件惹眼的红裙子去相亲",
+      "onboard_time": 1695892298,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 401298,
       "num": 401298,
       "word": "韩国爱豆和日本爱豆的差异",
@@ -780,7 +828,7 @@
     },
     {
       "raw_hot": 384269,
-      "num": 498391,
+      "num": 499536,
       "word": "出名的是爸爸被治愈的却是儿子",
       "onboard_time": 1695885877,
       "rank": 36,
@@ -905,14 +953,6 @@
       "onboard_time": 1695825939,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346013,
-      "num": 346013,
-      "word": "柯洁晋级亚运会决赛",
-      "onboard_time": 1695874538,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 345875,
@@ -1147,8 +1187,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 260027,
-      "num": 204376,
+      "raw_hot": 260727,
+      "num": 311150,
       "word": "这是杭州给全亚洲的浪漫",
       "onboard_time": 1695891698,
       "rank": 30,
@@ -1161,6 +1201,22 @@
       "onboard_time": 1695864337,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256044,
+      "num": 256044,
+      "word": "罪犯前半生坐牢后半生住福利院领补助",
+      "onboard_time": 1695889414,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255578,
+      "num": 255578,
+      "word": "侯明昊 少年感",
+      "onboard_time": 1695891758,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 255147,
@@ -1241,14 +1297,6 @@
       "onboard_time": 1695883655,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 239181,
-      "num": 239181,
-      "word": "罪犯前半生坐牢后半生住福利院领补助",
-      "onboard_time": 1695889414,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 239091,
@@ -1353,14 +1401,6 @@
       "onboard_time": 1695873456,
       "rank": 37,
       "category": "美妆,社会新闻"
-    },
-    {
-      "raw_hot": 222047,
-      "num": 199263,
-      "word": "故意穿了件惹眼的红裙子去相亲",
-      "onboard_time": 1695892298,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 221949,
@@ -1483,14 +1523,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 192395,
-      "num": 192395,
-      "word": "侯明昊 少年感",
-      "onboard_time": 1695891758,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 190208,
       "num": 190208,
       "word": "于适即兴表演哈姆雷特",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1695866616,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187294,
+      "num": 187294,
+      "word": "邓为九月行迹vlog",
+      "onboard_time": 1695893622,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 186110,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1695886716,
       "rank": 30,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 179413,
+      "num": 179413,
+      "word": "张之臻晋级亚运会决赛",
+      "onboard_time": 1695892656,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 178980,
@@ -1689,6 +1737,14 @@
       "onboard_time": 1695889595,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 155894,
+      "num": 155894,
+      "word": "柯洁选择了弹幕最多的打法",
+      "onboard_time": 1695893622,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 155717,
@@ -1907,6 +1963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133288,
+      "num": 498534,
+      "word": "十一假期我要从南走到北",
+      "onboard_time": 1695891636,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 132561,
       "num": 132561,
       "word": "少年放下水果就跑消防都来不及追",
@@ -2091,14 +2155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95371,
-      "num": 484966,
-      "word": "十一假期我要从南走到北",
-      "onboard_time": 1695891636,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 94516,
       "num": 1528740,
       "word": "当千里江山图遇上诗画浙江",
@@ -2211,6 +2267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 45990,
+      "num": 2900954,
+      "word": "中国自贸试验区建设十周年",
+      "onboard_time": 1695891335,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36380,
       "num": 36380,
       "word": "卫明不装了",
@@ -2224,14 +2288,6 @@
       "word": "尼山是一座世界性桥梁",
       "onboard_time": 1695884434,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32163,
-      "num": 1244398,
-      "word": "中国自贸试验区建设十周年",
-      "onboard_time": 1695891335,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
