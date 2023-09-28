@@ -1,0 +1,410 @@
+{
+  "runTime": 1695867757102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6665559,
+        "num": 6665559,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 0,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 1532449,
+        "num": 1532449,
+        "word": "泼天的富贵要到文具届了",
+        "onboard_time": 1695861276,
+        "rank": 1,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 46227,
+        "num": 1163805,
+        "word": "中国造列车获土耳其总统点赞",
+        "onboard_time": 1695820474,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3062107,
+        "num": 1162941,
+        "word": "英雄联盟中国队vs韩国队",
+        "onboard_time": 1695863978,
+        "rank": 3,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 1142451,
+        "num": 1142451,
+        "word": "英雄联盟半决赛韩国先下一城",
+        "onboard_time": 1695866319,
+        "rank": 4,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 860499,
+        "num": 860499,
+        "word": "6岁零216个月",
+        "onboard_time": 1695862119,
+        "rank": 5,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 596887,
+        "num": 596887,
+        "word": "ELK金克丝一血",
+        "onboard_time": 1695867215,
+        "rank": 6,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 497637,
+        "num": 497637,
+        "word": "90后为何不愿生孩子了",
+        "onboard_time": 1695861221,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 428307,
+        "num": 428307,
+        "word": "孙杨直播哭了",
+        "onboard_time": 1695857129,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 370843,
+        "num": 370843,
+        "word": "邓为李一桐吻戏",
+        "onboard_time": 1695862358,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1037000,
+        "num": 370435,
+        "word": "大同欺凌事件被辞退老师刚接班",
+        "onboard_time": 1695864040,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 273265,
+        "num": 360964,
+        "word": "中秋国庆假期第1天你想干什么",
+        "onboard_time": 1695863800,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192551,
+        "num": 352870,
+        "word": "中国男足晋级八强",
+        "onboard_time": 1695821921,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187369,
+        "num": 349012,
+        "word": "福州厦门实现一小时生活圈",
+        "onboard_time": 1695866616,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22056,
+        "num": 341827,
+        "word": "叶诗文的训练日常",
+        "onboard_time": 1695866438,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 876769,
+        "num": 336185,
+        "word": "肯德基 檀健次",
+        "onboard_time": 1695867514,
+        "rank": 15,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 382803,
+        "num": 333895,
+        "word": "左手尽力局",
+        "onboard_time": 1695866855,
+        "rank": 16,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 328212,
+        "num": 328212,
+        "word": "巴基斯坦父亲独自来杭只为给儿子一个惊喜",
+        "onboard_time": 1695865056,
+        "rank": 17,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 326477,
+        "num": 326477,
+        "word": "JDG到底谁在C",
+        "onboard_time": 1695866797,
+        "rank": 18,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 322229,
+        "num": 322229,
+        "word": "张鲁一应聘张艺谋导演作品",
+        "onboard_time": 1695866736,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 740899,
+        "num": 317388,
+        "word": "性缩力",
+        "onboard_time": 1695856651,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 311261,
+        "num": 311261,
+        "word": "中国恒大在港交所停止交易",
+        "onboard_time": 1695864337,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 302056,
+        "num": 302056,
+        "word": "iPhoneSE4设计曝光",
+        "onboard_time": 1695864217,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 270295,
+        "num": 270295,
+        "word": "王俊凯巴黎街头坐摩托",
+        "onboard_time": 1695861697,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269410,
+        "num": 269410,
+        "word": "女生洗澡被偷拍靠脚印3天找到偷拍男",
+        "onboard_time": 1695859476,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259348,
+        "num": 259348,
+        "word": "大同未成年欺凌事件同校家长发声",
+        "onboard_time": 1695860977,
+        "rank": 25,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 258195,
+        "num": 258195,
+        "word": "国企董事长安排19名亲友担任要职",
+        "onboard_time": 1695864337,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250449,
+        "num": 250449,
+        "word": "浙江人未来一个月的主食",
+        "onboard_time": 1695862717,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 239644,
+        "num": 239644,
+        "word": "给客户寄800份月饼生产日期竟是2014年",
+        "onboard_time": 1695859054,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230691,
+        "num": 230691,
+        "word": "多家医院关闭产科",
+        "onboard_time": 1695826837,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230618,
+        "num": 230618,
+        "word": "没认出这是邱泽",
+        "onboard_time": 1695863859,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 217848,
+        "num": 217848,
+        "word": "英雄联盟项目半决赛赛程",
+        "onboard_time": 1695863198,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 209323,
+        "num": 209323,
+        "word": "原来上班是结婚的平替",
+        "onboard_time": 1695858758,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206185,
+        "num": 206185,
+        "word": "梅西缺席美国公开杯决赛",
+        "onboard_time": 1695866438,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205583,
+        "num": 205583,
+        "word": "白鹿把经典笑声带到了时装周",
+        "onboard_time": 1695867095,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201730,
+        "num": 201730,
+        "word": "英雄联盟直播",
+        "onboard_time": 1695867336,
+        "rank": 35,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 199422,
+        "num": 199422,
+        "word": "原来长短腿和坐姿有关",
+        "onboard_time": 1695861637,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187963,
+        "num": 187963,
+        "word": "再见CSGO 你好CS2",
+        "onboard_time": 1695856952,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177138,
+        "num": 177138,
+        "word": "李栋旭太会了",
+        "onboard_time": 1695860075,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170955,
+        "num": 170955,
+        "word": "柯洁冲击金牌",
+        "onboard_time": 1695867034,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170755,
+        "num": 170755,
+        "word": "失信网红挑衅法院反被直播拘留",
+        "onboard_time": 1695865056,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160612,
+        "num": 160612,
+        "word": "张雨霏赛后哽咽称第五名的她就是奇迹",
+        "onboard_time": 1695857188,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155637,
+        "num": 155637,
+        "word": "iPhone16机型或都配备A18芯片",
+        "onboard_time": 1695861338,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154823,
+        "num": 154823,
+        "word": "第一次在大熊猫脸上看到无语",
+        "onboard_time": 1695839056,
+        "rank": 43,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 152399,
+        "num": 152399,
+        "word": "高校军训学生手手相传巨幅国旗",
+        "onboard_time": 1695867695,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152083,
+        "num": 152083,
+        "word": "李泰容 入伍",
+        "onboard_time": 1695858993,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149508,
+        "num": 149508,
+        "word": "老人高血压昏倒路边一群消防员飞奔而来",
+        "onboard_time": 1695867156,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137917,
+        "num": 137917,
+        "word": "王子文好优雅",
+        "onboard_time": 1695861637,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136700,
+        "num": 136700,
+        "word": "英国鳄鱼专家性侵42只狗致39只死亡",
+        "onboard_time": 1695819333,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128902,
+        "num": 128902,
+        "word": "儿子6岁失联25年后一家终团圆",
+        "onboard_time": 1695860855,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#我国自贸区已从试验田建成高产田#"
+    }
+  }
+}

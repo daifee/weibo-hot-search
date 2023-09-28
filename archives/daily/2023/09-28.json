@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695864726900,
+  "endTime": 1695867757102,
   "band_list": [
     {
       "raw_hot": 8499613,
@@ -9,6 +9,14 @@
       "onboard_time": 1695858333,
       "rank": 0,
       "category": "美妆,教育"
+    },
+    {
+      "raw_hot": 3062107,
+      "num": 1162941,
+      "word": "英雄联盟中国队vs韩国队",
+      "onboard_time": 1695863978,
+      "rank": 6,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 2096316,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1482971,
-      "num": 307724,
+      "num": 317388,
       "word": "性缩力",
       "onboard_time": 1695856651,
       "rank": 20,
@@ -41,6 +49,14 @@
       "onboard_time": 1695828935,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1142451,
+      "num": 1142451,
+      "word": "英雄联盟半决赛韩国先下一城",
+      "onboard_time": 1695866319,
+      "rank": 4,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 1111161,
@@ -59,6 +75,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 1037000,
+      "num": 496526,
+      "word": "大同欺凌事件被辞退老师刚接班",
+      "onboard_time": 1695864040,
+      "rank": 9,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1011802,
       "num": 1011802,
       "word": "房子14亿人住不完不简单等于房产过剩",
@@ -73,6 +97,14 @@
       "onboard_time": 1695860977,
       "rank": 5,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 876769,
+      "num": 336185,
+      "word": "肯德基 檀健次",
+      "onboard_time": 1695867514,
+      "rank": 15,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 790923,
@@ -107,10 +139,10 @@
       "category": "体育"
     },
     {
-      "raw_hot": 612537,
-      "num": 612537,
-      "word": "英雄联盟中国队vs韩国队",
-      "onboard_time": 1695863978,
+      "raw_hot": 596887,
+      "num": 596887,
+      "word": "ELK金克丝一血",
+      "onboard_time": 1695867215,
       "rank": 6,
       "category": "游戏,体育"
     },
@@ -163,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 496526,
-      "num": 496526,
-      "word": "大同欺凌事件被辞退老师刚接班",
-      "onboard_time": 1695864040,
-      "rank": 9,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 475166,
       "num": 475166,
       "word": "张小斐首部主演电视剧收视率破2",
@@ -217,6 +241,14 @@
       "onboard_time": 1695862717,
       "rank": 11,
       "category": "美食"
+    },
+    {
+      "raw_hot": 382803,
+      "num": 333895,
+      "word": "左手尽力局",
+      "onboard_time": 1695866855,
+      "rank": 16,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 381454,
@@ -275,6 +307,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 328212,
+      "num": 328212,
+      "word": "巴基斯坦父亲独自来杭只为给儿子一个惊喜",
+      "onboard_time": 1695865056,
+      "rank": 17,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 326477,
+      "num": 326477,
+      "word": "JDG到底谁在C",
+      "onboard_time": 1695866797,
+      "rank": 18,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 322229,
+      "num": 322229,
+      "word": "张鲁一应聘张艺谋导演作品",
+      "onboard_time": 1695866736,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320515,
       "num": 320515,
       "word": "王俊凯巴黎街头坐摩托",
@@ -289,6 +345,14 @@
       "onboard_time": 1695863859,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311261,
+      "num": 311261,
+      "word": "中国恒大在港交所停止交易",
+      "onboard_time": 1695864337,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 309358,
@@ -313,6 +377,14 @@
       "onboard_time": 1695858993,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 302056,
+      "num": 302056,
+      "word": "iPhoneSE4设计曝光",
+      "onboard_time": 1695864217,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 301456,
@@ -355,12 +427,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273265,
+      "num": 372451,
+      "word": "中秋国庆假期第1天你想干什么",
+      "onboard_time": 1695863800,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263420,
       "num": 263420,
       "word": "坚如磐石首映礼好多人啊",
       "onboard_time": 1695826962,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 258195,
+      "num": 258195,
+      "word": "国企董事长安排19名亲友担任要职",
+      "onboard_time": 1695864337,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251329,
@@ -377,14 +465,6 @@
       "onboard_time": 1695821199,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 237531,
-      "num": 237531,
-      "word": "iPhoneSE4设计曝光",
-      "onboard_time": 1695864217,
-      "rank": 28,
-      "category": "科技"
     },
     {
       "raw_hot": 232650,
@@ -443,14 +523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218208,
-      "num": 372451,
-      "word": "中秋国庆假期第1天你想干什么",
-      "onboard_time": 1695863800,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 215262,
       "num": 167376,
       "word": "G社拍的金智秀朴彩英",
@@ -475,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206185,
+      "num": 206185,
+      "word": "梅西缺席美国公开杯决赛",
+      "onboard_time": 1695866438,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206030,
       "num": 206030,
       "word": "原来长短腿和坐姿有关",
@@ -483,12 +563,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 205583,
+      "num": 205583,
+      "word": "白鹿把经典笑声带到了时装周",
+      "onboard_time": 1695867095,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 201730,
+      "num": 201730,
+      "word": "英雄联盟直播",
+      "onboard_time": 1695867336,
+      "rank": 35,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 190208,
       "num": 190208,
       "word": "于适即兴表演哈姆雷特",
       "onboard_time": 1695860917,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 187369,
+      "num": 349012,
+      "word": "福州厦门实现一小时生活圈",
+      "onboard_time": 1695866616,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186110,
@@ -523,12 +627,12 @@
       "category": "社会新闻,动物萌宠"
     },
     {
-      "raw_hot": 175706,
-      "num": 175706,
-      "word": "中国恒大在港交所停止交易",
-      "onboard_time": 1695864337,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 170955,
+      "num": 170955,
+      "word": "柯洁冲击金牌",
+      "onboard_time": 1695867034,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 170950,
@@ -539,11 +643,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 168916,
-      "num": 168916,
-      "word": "国企董事长安排19名亲友担任要职",
-      "onboard_time": 1695864337,
-      "rank": 41,
+      "raw_hot": 170755,
+      "num": 170755,
+      "word": "失信网红挑衅法院反被直播拘留",
+      "onboard_time": 1695865056,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -627,12 +731,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 152399,
+      "num": 152399,
+      "word": "高校军训学生手手相传巨幅国旗",
+      "onboard_time": 1695867695,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151041,
       "num": 151041,
       "word": "佟丽娅黑白礼服",
       "onboard_time": 1695862418,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149508,
+      "num": 149508,
+      "word": "老人高血压昏倒路边一群消防员飞奔而来",
+      "onboard_time": 1695867156,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148019,
@@ -929,6 +1049,14 @@
       "onboard_time": 1695845354,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22056,
+      "num": 341827,
+      "word": "叶诗文的训练日常",
+      "onboard_time": 1695866438,
+      "rank": 14,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

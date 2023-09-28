@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 09:32:06
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 10:22:37
 </p>
 </blockquote>
 <p>
@@ -545,6 +545,12 @@ TTG夺冠（热度：3473689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23" target="weibo">
 外媒曝Lisa拒绝和YG续约（热度：3062392）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%E9%98%9F%23" target="weibo">
+英雄联盟中国队vs韩国队（热度：3062107）
 </a>
 </li>
 
@@ -5061,6 +5067,12 @@ papi酱 两个人一起浪费时间很重要（热度：1183367）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%8D%8A%E5%86%B3%E8%B5%9B%E9%9F%A9%E5%9B%BD%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
+英雄联盟半决赛韩国先下一城（热度：1142451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Mate60%E7%86%8A%E7%8C%AB%E9%85%8D%E8%89%B2%23" target="weibo">
 Mate60熊猫配色（热度：1141656）
 </a>
@@ -5775,6 +5787,12 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%BE%9E%E9%80%80%E8%80%81%E5%B8%88%E5%88%9A%E6%8E%A5%E7%8F%AD%23" target="weibo">
+大同欺凌事件被辞退老师刚接班（热度：1037000）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E9%A2%84%E5%88%B6%E8%8F%9C%E6%9B%B4%E5%8F%AF%E6%81%A8%E7%9A%84%E6%98%AF%E6%89%BF%E5%8C%85%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%E7%9A%84%E5%85%B3%E7%B3%BB%E6%88%B7%23" target="weibo">
 比预制菜更可恨的是承包学校食堂的关系户（热度：1036745）
 </a>
@@ -5993,24 +6011,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%AC%A1%E6%80%A7%E5%86%85%E8%A3%A4%E7%9C%9F%E7%9A%84%E5%8D%AB%E7%94%9F%E5%90%97%23" target="weibo">
 一次性内裤真的卫生吗（热度：1012862）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%8D%95%E9%A2%97%E4%BB%B7%E6%A0%BC%E6%88%96%E8%B6%8520%E5%85%83%23" target="weibo">
-茅台巧克力单颗价格或超20元（热度：1011985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E5%AD%9014%E4%BA%BF%E4%BA%BA%E4%BD%8F%E4%B8%8D%E5%AE%8C%E4%B8%8D%E7%AE%80%E5%8D%95%E7%AD%89%E4%BA%8E%E6%88%BF%E4%BA%A7%E8%BF%87%E5%89%A9%23" target="weibo">
-房子14亿人住不完不简单等于房产过剩（热度：1011802）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BB%A5%E4%B8%BA%E7%9A%84%E7%91%9E%E5%B9%B8vs%E5%AE%9E%E9%99%85%E7%9A%84%E7%91%9E%E5%B9%B8%23" target="weibo">
-你以为的瑞幸vs实际的瑞幸（热度：1011463）
 </a>
 </li>
 
