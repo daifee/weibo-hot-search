@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695936843658,
+  "endTime": 1695939377619,
   "band_list": [
     {
       "raw_hot": 1778081,
@@ -251,6 +251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 199025,
+      "num": 199025,
+      "word": "网约车老爸的1800多次道歉",
+      "onboard_time": 1695908681,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194344,
       "num": 194344,
       "word": "檀健次央视网文娱中秋祝福",
@@ -321,14 +329,6 @@
       "onboard_time": 1695914798,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160327,
-      "num": 160327,
-      "word": "网约车老爸的1800多次道歉",
-      "onboard_time": 1695908681,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159938,
@@ -411,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80085,
+      "num": 80085,
+      "word": "人类首次看见的那个黑洞证明确实在自旋",
+      "onboard_time": 1695933494,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
       "raw_hot": 75744,
       "num": 75744,
       "word": "亚运会三小只发饰太可爱了",
@@ -435,14 +443,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 54654,
-      "num": 27907,
-      "word": "人类首次看见的那个黑洞证明确实在自旋",
-      "onboard_time": 1695933494,
-      "rank": 30,
-      "category": "科技"
-    },
-    {
       "raw_hot": 49037,
       "num": 53636,
       "word": "78岁爷爷穿汉服送花灯",
@@ -451,15 +451,23 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28985,
-      "num": 28985,
+      "raw_hot": 32018,
+      "num": 32018,
       "word": "周迅看那英的眼神",
       "onboard_time": 1695932235,
       "rank": 36,
       "category": "综艺"
     },
     {
-      "raw_hot": 26894,
+      "raw_hot": 30843,
+      "num": 30843,
+      "word": "黄子弘凡看节目才知道自己被骗",
+      "onboard_time": 1695934155,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 29295,
       "num": 30975,
       "word": "国庆假期",
       "onboard_time": 1695920307,
@@ -473,14 +481,6 @@
       "onboard_time": 1695900993,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 23346,
-      "num": 23346,
-      "word": "黄子弘凡看节目才知道自己被骗",
-      "onboard_time": 1695934155,
-      "rank": 46,
-      "category": "音乐"
     }
   ],
   "hotgov_list": [
