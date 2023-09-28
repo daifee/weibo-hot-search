@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 18:18:24
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 18:34:52
 </p>
 </blockquote>
 <p>
@@ -3063,6 +3063,12 @@ THE9解散演唱会要来了（热度：1668390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%89%BF%E8%AE%A4%E5%8A%A9%E6%A2%A6%E5%A4%A7%E4%BD%BF%E7%A7%B0%E5%8F%B7%23" target="weibo">
+花西子承认助梦大使称号（热度：1652829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%8F%91%E9%95%BF%E6%96%87%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%BA%BA%E5%B9%B3%23" target="weibo">
 向佐发长文回应为什么不躺平（热度：1645293）
 </a>
@@ -3443,12 +3449,6 @@ offer5 8点下班的工作没人做（热度：1533086）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%85%E5%8F%B0%E7%91%9E%E5%B9%B8%E9%85%B1%E9%A6%99%E6%8B%BF%E9%93%81%23" target="weibo">
 茅台瑞幸酱香拿铁（热度：1525834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%89%BF%E8%AE%A4%E5%8A%A9%E6%A2%A6%E5%A4%A7%E4%BD%BF%E7%A7%B0%E5%8F%B7%23" target="weibo">
-花西子承认助梦大使称号（热度：1523701）
 </a>
 </li>
 
@@ -5985,6 +5985,12 @@ bibi（热度：1033611）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%20%E5%85%8D%E7%A8%8E%23" target="weibo">
+卫生巾 免税（热度：1025254）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E4%BA%8B%E7%A6%BB%E8%81%8C%E5%90%8E%E7%9A%84%E7%94%B5%E8%84%91%E5%B1%8F%E4%BF%9D%23" target="weibo">
 同事离职后的电脑屏保（热度：1025208）
 </a>
@@ -6005,12 +6011,6 @@ iPhone玄学（热度：1025193）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9C%82%E8%8A%B1%E5%9B%9E%E5%BA%94%E6%8D%A1%E7%AE%B1%E5%AD%90%E5%8F%91%E8%B4%A7%23" target="weibo">
 蜂花回应捡箱子发货（热度：1024085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%9C%A8%E5%A4%96%E5%A9%86%E5%AE%B6%E6%BA%BA%E4%BA%A1%E7%88%B6%E4%BA%B2%E8%B5%B7%E8%AF%89%E7%B4%A2%E8%B5%9480%E4%B8%87%23" target="weibo">
-孩子在外婆家溺亡父亲起诉索赔80万（热度：1023351）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 18:18:24
+本榜单时间：2023/09/28 00:22:29 ~ 2023/09/28 18:34:52
 </p>
 </blockquote>
 <p>
@@ -124,7 +124,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E6%89%BF%E8%AE%A4%E5%8A%A9%E6%A2%A6%E5%A4%A7%E4%BD%BF%E7%A7%B0%E5%8F%B7%23" target="weibo">
-花西子承认助梦大使称号（热度：1523701）
+花西子承认助梦大使称号（热度：1652829）
 </a>
 </li>
 
@@ -191,6 +191,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%90%8C%E6%AC%BA%E5%87%8C%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%BE%9E%E9%80%80%E8%80%81%E5%B8%88%E5%88%9A%E6%8E%A5%E7%8F%AD%23" target="weibo">
 大同欺凌事件被辞退老师刚接班（热度：1037000）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%20%E5%85%8D%E7%A8%8E%23" target="weibo">
+卫生巾 免税（热度：1025254）
 </a>
 </li>
 
@@ -281,12 +287,6 @@ Zeus单杀Bin（热度：780955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%94%BE%E5%81%87%E4%BA%86%23" target="weibo">
 我放假了（热度：769522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%AB%E7%94%9F%E5%B7%BE%20%E5%85%8D%E7%A8%8E%23" target="weibo">
-卫生巾 免税（热度：762726）
 </a>
 </li>
 
@@ -513,6 +513,12 @@ Faker（热度：572752）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%20%E8%BF%99%E4%B8%80%E6%AC%A1%E6%9D%A5%E5%A4%A7%E7%90%86%E6%88%9140%E5%B2%81%E4%BA%86%23" target="weibo">
+吴昕 这一次来大理我40岁了（热度：461028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Kanavi%E8%AF%B4%E6%84%9F%E5%8F%97%E5%88%B0%E4%BA%86%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%9A%84%E5%A8%81%E8%83%81%23" target="weibo">
 Kanavi说感受到了中国队的威胁（热度：456462）
 </a>
@@ -651,6 +657,12 @@ knight 妖姬（热度：423863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%8D%A1%E7%9A%84%E7%A4%BE%E7%89%9B%E5%B0%8F%E7%8C%B4%E7%AB%9F%E6%98%AF%E6%97%A0%E4%BB%B7%E4%B9%8B%E5%AE%9D%23" target="weibo">
+我捡的社牛小猴竟是无价之宝（热度：382761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81CSGO%20%E4%BD%A0%E5%A5%BDCS2%23" target="weibo">
 再见CSGO 你好CS2（热度：381454）
 </a>
@@ -699,12 +711,6 @@ knight 妖姬（热度：423863）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%8D%A1%E7%9A%84%E7%A4%BE%E7%89%9B%E5%B0%8F%E7%8C%B4%E7%AB%9F%E6%98%AF%E6%97%A0%E4%BB%B7%E4%B9%8B%E5%AE%9D%23" target="weibo">
-我捡的社牛小猴竟是无价之宝（热度：367332）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%20%E6%88%91%E4%B8%8D%E7%AC%A8%23" target="weibo">
 于适 我不笨（热度：362981）
 </a>
@@ -747,6 +753,12 @@ knight 妖姬（热度：423863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%9B%9E%E5%BD%92%E5%AE%B6%E5%BA%AD%23" target="weibo">
+向佐首次回应回归家庭（热度：346070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%E9%80%A0%E5%9E%8B%E5%B8%88%E7%BB%88%E4%BA%8E%E5%BC%80%E7%AA%8D%E4%BA%86%23" target="weibo">
 赵今麦造型师终于开窍了（热度：345875）
 </a>
@@ -773,6 +785,12 @@ knight 妖姬（热度：423863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%88%B6%E4%BA%B2%E7%8B%AC%E8%87%AA%E6%9D%A5%E6%9D%AD%E5%8F%AA%E4%B8%BA%E7%BB%99%E5%84%BF%E5%AD%90%E4%B8%80%E4%B8%AA%E6%83%8A%E5%96%9C%23" target="weibo">
 巴基斯坦父亲独自来杭只为给儿子一个惊喜（热度：328212）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E9%97%AE%E4%B8%BA%E5%95%A5%E6%88%91%E4%BC%9A%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%23" target="weibo">
+张婧仪问为啥我会在西班牙（热度：320555）
 </a>
 </li>
 
@@ -964,19 +982,13 @@ YG新女团9月出道告吹（热度：288072）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%23" target="weibo">
-坚如磐石（热度：253019）
+坚如磐石（热度：253283）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E7%94%B7%E5%AD%90%E8%87%AA%E7%94%B1%E4%BD%93%E6%93%8D%E9%93%B6%E7%89%8C%23" target="weibo">
 张博恒男子自由体操银牌（热度：252881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E9%97%AE%E4%B8%BA%E5%95%A5%E6%88%91%E4%BC%9A%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%23" target="weibo">
-张婧仪问为啥我会在西班牙（热度：252114）
 </a>
 </li>
 
@@ -1137,6 +1149,12 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%E7%9A%84%E8%84%B8%E5%85%9C%E4%B8%8D%E4%BD%8F%E9%9D%A2%E8%86%9C%23" target="weibo">
+张嘉倪的脸兜不住面膜（热度：210887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%8E%E5%8F%B0%E7%8B%82%E7%82%AB%E5%B0%8F%E9%9B%B6%E9%A3%9F%23" target="weibo">
 王鹤棣后台狂炫小零食（热度：209893）
 </a>
@@ -1173,8 +1191,20 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%23" target="weibo">
+十个勤天（热度：200271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B5%B7%E5%B2%B8%E8%AD%A6%E5%8D%AB%E9%98%9F%E7%A7%B0%E5%B7%B2%E5%88%B6%E5%AE%9A%E5%A4%BA%E5%8F%96%E9%BB%84%E5%B2%A9%E5%B2%9B%E8%AE%A1%E5%88%92%23" target="weibo">
 菲律宾海岸警卫队称已制定夺取黄岩岛计划（热度：199516）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%9A%93%E9%8B%90%20%E7%A5%9E%E4%B9%8B%E4%B8%80%E6%89%8B%23" target="weibo">
+许皓鋐 神之一手（热度：197795）
 </a>
 </li>
 
@@ -1341,12 +1371,6 @@ G社拍的金智秀朴彩英（热度：215262）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94%E5%9B%9E%E5%BD%92%E5%AE%B6%E5%BA%AD%23" target="weibo">
-向佐首次回应回归家庭（热度：162035）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E6%99%92%E8%80%81%E5%85%AC%E8%A7%86%E8%A7%92%E7%BE%8E%E7%85%A7%23" target="weibo">
 陈乔恩晒老公视角美照（热度：160311）
 </a>
@@ -1449,6 +1473,12 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E6%95%91%E6%B2%BB%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E4%B9%98%E5%AE%A2%23" target="weibo">
+医护人员万米高空救治心脏骤停乘客（热度：148746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%BC%94%E8%AF%B4%E5%88%98%E8%AF%97%E8%AF%97%E6%BC%94%E5%87%BA%E4%BA%863%E5%88%86%E7%9C%9F7%E5%88%86%E5%81%87%23" target="weibo">
 导演说刘诗诗演出了3分真7分假（热度：148019）
 </a>
@@ -1517,12 +1547,6 @@ YG新女团成员的Smoke舞蹈（热度：154891）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%80%83%E7%8A%AF%E8%A2%AB%E7%94%9F%E6%93%92%E6%8E%A7%E8%AF%89%E6%B0%91%E8%AD%A6%E7%9C%8B%E8%87%AA%E5%B7%B1%E4%B8%8D%E7%88%BD%E6%89%8D%E7%9B%98%E6%9F%A5%23" target="weibo">
 逃犯被生擒控诉民警看自己不爽才盘查（热度：138944）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E6%8A%A4%E4%BA%BA%E5%91%98%E4%B8%87%E7%B1%B3%E9%AB%98%E7%A9%BA%E6%95%91%E6%B2%BB%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E4%B9%98%E5%AE%A2%23" target="weibo">
-医护人员万米高空救治心脏骤停乘客（热度：138145）
 </a>
 </li>
 

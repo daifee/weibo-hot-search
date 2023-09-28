@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695896304240,
+  "endTime": 1695897292490,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -571,6 +571,14 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 1652829,
+      "num": 1652829,
+      "word": "花西子承认助梦大使称号",
+      "onboard_time": 1695895535,
+      "rank": 5,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1638823,
       "num": 1638823,
       "word": "空气炸锅为什么不火了",
@@ -665,14 +673,6 @@
       "onboard_time": 1695805115,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1523701,
-      "num": 1523701,
-      "word": "花西子承认助梦大使称号",
-      "onboard_time": 1695895535,
-      "rank": 5,
-      "category": "美妆"
     },
     {
       "raw_hot": 1511374,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1695556117,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1025254,
+      "num": 601228,
+      "word": "卫生巾 免税",
+      "onboard_time": 1695894039,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1011802,
@@ -2129,14 +2137,6 @@
       "onboard_time": 1695688116,
       "rank": 10,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 762726,
-      "num": 601228,
-      "word": "卫生巾 免税",
-      "onboard_time": 1695894039,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 761282,
@@ -4323,6 +4323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 461028,
+      "num": 404313,
+      "word": "吴昕 这一次来大理我40岁了",
+      "onboard_time": 1695896316,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459321,
       "num": 438609,
       "word": "房东的猫好妹妹终于同台了",
@@ -5091,6 +5099,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 382761,
+      "num": 2882172,
+      "word": "我捡的社牛小猴竟是无价之宝",
+      "onboard_time": 1695894340,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 381521,
       "num": 381521,
       "word": "Mate60共有四款产品",
@@ -5347,14 +5363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 367332,
-      "num": 2882172,
-      "word": "我捡的社牛小猴竟是无价之宝",
-      "onboard_time": 1695894340,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366190,
       "num": 343115,
       "word": "被周深回座位姿势笑死",
@@ -5577,6 +5585,14 @@
       "onboard_time": 1695543874,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 346070,
+      "num": 346070,
+      "word": "向佐首次回应回归家庭",
+      "onboard_time": 1695896195,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 345875,
@@ -5977,6 +5993,14 @@
       "onboard_time": 1695795275,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320555,
+      "num": 288064,
+      "word": "张婧仪问为啥我会在西班牙",
+      "onboard_time": 1695895896,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 320515,
@@ -7651,20 +7675,20 @@
       "category": "军事"
     },
     {
+      "raw_hot": 253283,
+      "num": 253283,
+      "word": "坚如磐石",
+      "onboard_time": 1695882095,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253170,
       "num": 253170,
       "word": "特工任务国安人员追击间谍被撞飞",
       "onboard_time": 1695481419,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253019,
-      "num": 253019,
-      "word": "坚如磐石",
-      "onboard_time": 1695882095,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 252881,
@@ -7697,14 +7721,6 @@
       "onboard_time": 1695730000,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 252114,
-      "num": 252114,
-      "word": "张婧仪问为啥我会在西班牙",
-      "onboard_time": 1695895896,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 252015,
@@ -8915,6 +8931,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 210887,
+      "num": 210887,
+      "word": "张嘉倪的脸兜不住面膜",
+      "onboard_time": 1695897036,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210829,
       "num": 210829,
       "word": "杨丞琳亲了李斯丹妮",
@@ -9459,6 +9483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 200271,
+      "num": 200271,
+      "word": "十个勤天",
+      "onboard_time": 1695896854,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200156,
       "num": 200156,
       "word": "丝绸之路电影节",
@@ -9593,6 +9625,14 @@
       "onboard_time": 1695823958,
       "rank": 37,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 197795,
+      "num": 197795,
+      "word": "许皓鋐 神之一手",
+      "onboard_time": 1695896854,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 197734,
@@ -11307,14 +11347,6 @@
       "category": "社会新闻,动物萌宠"
     },
     {
-      "raw_hot": 162035,
-      "num": 162035,
-      "word": "向佐首次回应回归家庭",
-      "onboard_time": 1695896195,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161760,
       "num": 161760,
       "word": "姐姐婚礼现场军人弟弟捧花惊喜现身",
@@ -12019,6 +12051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148746,
+      "num": 2690826,
+      "word": "医护人员万米高空救治心脏骤停乘客",
+      "onboard_time": 1695892780,
+      "rank": 3,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 148313,
       "num": 148313,
       "word": "王者吕布敦煌新皮肤",
@@ -12361,14 +12401,6 @@
       "onboard_time": 1695622833,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138145,
-      "num": 2690826,
-      "word": "医护人员万米高空救治心脏骤停乘客",
-      "onboard_time": 1695892780,
-      "rank": 3,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 138065,
