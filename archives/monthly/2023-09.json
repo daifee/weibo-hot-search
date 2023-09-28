@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695911676216,
+  "endTime": 1695914300743,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -876,7 +876,7 @@
     },
     {
       "raw_hot": 2898261,
-      "num": 539549,
+      "num": 927025,
       "word": "许家印可能涉嫌多项罪名",
       "onboard_time": 1695906347,
       "rank": 10,
@@ -3577,6 +3577,14 @@
       "onboard_time": 1695625416,
       "rank": 3,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1765688,
+      "num": 576778,
+      "word": "纪梵希 虞书欣",
+      "onboard_time": 1695911380,
+      "rank": 25,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 1765292,
@@ -7075,6 +7083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1134773,
+      "num": 864007,
+      "word": "杨幂Angelababy巴黎时装周造型",
+      "onboard_time": 1695911324,
+      "rank": 22,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1134576,
       "num": 978753,
       "word": "国货难带和尊重消费者是两码事",
@@ -7625,6 +7641,14 @@
       "onboard_time": 1694131596,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1069526,
+      "num": 827196,
+      "word": "舒肤佳 檀健次",
+      "onboard_time": 1695911324,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1066573,
@@ -11331,6 +11355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 807383,
+      "num": 807383,
+      "word": "高速",
+      "onboard_time": 1695911142,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807372,
       "num": 807372,
       "word": "Jennie要出新专辑了",
@@ -11473,14 +11505,6 @@
       "onboard_time": 1694430161,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 801989,
-      "num": 801989,
-      "word": "舒肤佳 檀健次",
-      "onboard_time": 1695911324,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 801767,
@@ -13545,6 +13569,14 @@
       "onboard_time": 1694751821,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 721352,
+      "num": 721352,
+      "word": "奥尼尔称自己是半个中国人",
+      "onboard_time": 1695912461,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 720933,
@@ -17819,6 +17851,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 592670,
+      "num": 559491,
+      "word": "成毅 突然出现",
+      "onboard_time": 1695913540,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 592154,
       "num": 592154,
       "word": "李旻浩黄铉辰金昇玟出车祸",
@@ -19723,6 +19763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 546406,
+      "num": 546406,
+      "word": "恒大地产未能清偿债务累计约2785.32亿",
+      "onboard_time": 1695911862,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 546255,
       "num": 382763,
       "word": "竟然帮前男友交了两年电费",
@@ -21219,6 +21267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517089,
+      "num": 517089,
+      "word": "一张照片证明你在堵车",
+      "onboard_time": 1695912461,
+      "rank": 18,
+      "category": "其它"
+    },
+    {
       "raw_hot": 517046,
       "num": 517046,
       "word": "赵丽颖时装男士九月封面",
@@ -22057,6 +22113,14 @@
       "onboard_time": 1693534357,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 502143,
+      "num": 502143,
+      "word": "卢昱晓回应被说普",
+      "onboard_time": 1695913363,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 501958,
@@ -26355,6 +26419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 428987,
+      "num": 428987,
+      "word": "死亡只不过是下一场精彩的探险而已",
+      "onboard_time": 1695912103,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428814,
       "num": 428814,
       "word": "小夭 只手风雨翻",
@@ -28763,14 +28835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 392224,
-      "num": 392224,
-      "word": "杨幂Angelababy巴黎时装周造型",
-      "onboard_time": 1695911324,
-      "rank": 22,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 392183,
       "num": 349538,
       "word": "结束一段关系最好的方式",
@@ -29228,7 +29292,7 @@
     },
     {
       "raw_hot": 385081,
-      "num": 513696,
+      "num": 569752,
       "word": "庆祝中华人民共和国成立74周年招待会",
       "onboard_time": 1695909763,
       "rank": 13,
@@ -29505,14 +29569,6 @@
       "onboard_time": 1695646596,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 380583,
-      "num": 321742,
-      "word": "纪梵希 虞书欣",
-      "onboard_time": 1695911380,
-      "rank": 25,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 380572,
@@ -30028,7 +30084,7 @@
     },
     {
       "raw_hot": 374491,
-      "num": 518250,
+      "num": 566070,
       "word": "中国队男子4×100自由泳接力金牌",
       "onboard_time": 1695907665,
       "rank": 13,
@@ -35347,6 +35403,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 316098,
+      "num": 316098,
+      "word": "95花 时装周",
+      "onboard_time": 1695913238,
+      "rank": 27,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 316067,
       "num": 316067,
       "word": "杨汝晴给侯卓成盖章",
@@ -37969,6 +38033,14 @@
       "onboard_time": 1695732945,
       "rank": 42,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 293280,
+      "num": 293280,
+      "word": "Angelababy 巴黎夜幕",
+      "onboard_time": 1695913303,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 293246,
@@ -41244,7 +41316,7 @@
     },
     {
       "raw_hot": 267003,
-      "num": 508890,
+      "num": 565217,
       "word": "叶诗文克服瓶颈阴影再度夺金",
       "onboard_time": 1695909462,
       "rank": 14,
@@ -41865,6 +41937,14 @@
       "onboard_time": 1695475237,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262526,
+      "num": 262526,
+      "word": "迪丽热巴的新款单品分享",
+      "onboard_time": 1695912402,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 262491,
@@ -50147,6 +50227,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 211414,
+      "num": 211414,
+      "word": "金智秀片场做鬼脸",
+      "onboard_time": 1695912704,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211371,
       "num": 211371,
       "word": "胡兵疑似腰部受伤",
@@ -50457,14 +50545,6 @@
       "onboard_time": 1695383554,
       "rank": 29,
       "category": "教育"
-    },
-    {
-      "raw_hot": 209686,
-      "num": 209686,
-      "word": "高速",
-      "onboard_time": 1695911142,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 209656,
@@ -51745,6 +51825,14 @@
       "onboard_time": 1695727959,
       "rank": 38,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205001,
+      "num": 205001,
+      "word": "张老板果然是王丽坤",
+      "onboard_time": 1695911024,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 205000,
@@ -56763,6 +56851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188699,
+      "num": 188699,
+      "word": "恒大多名核心人员被查",
+      "onboard_time": 1695914139,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188679,
       "num": 188679,
       "word": "樊振东vs林昀儒",
@@ -59185,6 +59281,14 @@
       "onboard_time": 1694413835,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178762,
+      "num": 178762,
+      "word": "哪吒宝宝真的好可爱",
+      "onboard_time": 1695912878,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 178702,

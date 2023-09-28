@@ -1,0 +1,410 @@
+{
+  "runTime": 1695914300743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5039226,
+        "num": 5039226,
+        "word": "邓布利多扮演者去世",
+        "onboard_time": 1695903275,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1032322,
+        "num": 1032322,
+        "word": "水果店8.8元一斤卖榴莲惊动特警",
+        "onboard_time": 1695903035,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 14361,
+        "num": 1029291,
+        "word": "中国自贸试验区建设十周年",
+        "onboard_time": 1695891335,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1415464,
+        "num": 927025,
+        "word": "许家印可能涉嫌多项罪名",
+        "onboard_time": 1695906347,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1134773,
+        "num": 864007,
+        "word": "杨幂Angelababy巴黎时装周造型",
+        "onboard_time": 1695911324,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1069526,
+        "num": 827196,
+        "word": "舒肤佳 檀健次",
+        "onboard_time": 1695911324,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807383,
+        "num": 807383,
+        "word": "高速",
+        "onboard_time": 1695911142,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721352,
+        "num": 721352,
+        "word": "奥尼尔称自己是半个中国人",
+        "onboard_time": 1695912461,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 607802,
+        "num": 607802,
+        "word": "她俩眼神真的不清白",
+        "onboard_time": 1695905983,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 581107,
+        "num": 581107,
+        "word": "iPhone改华为手机壳热销",
+        "onboard_time": 1695907426,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2000058,
+        "num": 580499,
+        "word": "许家印已被依法采取强制措施",
+        "onboard_time": 1695904422,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1765688,
+        "num": 576778,
+        "word": "纪梵希 虞书欣",
+        "onboard_time": 1695911380,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 237795,
+        "num": 569752,
+        "word": "庆祝中华人民共和国成立74周年招待会",
+        "onboard_time": 1695909763,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 193953,
+        "num": 566070,
+        "word": "中国队男子4×100自由泳接力金牌",
+        "onboard_time": 1695907665,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189830,
+        "num": 565217,
+        "word": "叶诗文克服瓶颈阴影再度夺金",
+        "onboard_time": 1695909462,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592670,
+        "num": 559491,
+        "word": "成毅 突然出现",
+        "onboard_time": 1695913540,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 558246,
+        "num": 558246,
+        "word": "坚如磐石删减 尺度奇观",
+        "onboard_time": 1695897752,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 546406,
+        "num": 546406,
+        "word": "恒大地产未能清偿债务累计约2785.32亿",
+        "onboard_time": 1695911862,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 517089,
+        "num": 517089,
+        "word": "一张照片证明你在堵车",
+        "onboard_time": 1695912461,
+        "rank": 18,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 506457,
+        "num": 506457,
+        "word": "两个邓布利多都离世了",
+        "onboard_time": 1695904360,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877160,
+        "num": 505504,
+        "word": "女子给狗挤肛门腺喷射到左眼致感染",
+        "onboard_time": 1695903455,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 502143,
+        "num": 502143,
+        "word": "卢昱晓回应被说普",
+        "onboard_time": 1695913363,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 428987,
+        "num": 428987,
+        "word": "死亡只不过是下一场精彩的探险而已",
+        "onboard_time": 1695912103,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398799,
+        "num": 398799,
+        "word": "前任4",
+        "onboard_time": 1695906523,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 348528,
+        "num": 348528,
+        "word": "她推了西娘娘",
+        "onboard_time": 1695897333,
+        "rank": 24,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 340764,
+        "num": 340764,
+        "word": "因证据不足14岁女孩被认定为卖淫女",
+        "onboard_time": 1695883237,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316775,
+        "num": 316775,
+        "word": "任嘉伦工作室严正声明",
+        "onboard_time": 1695897513,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316098,
+        "num": 316098,
+        "word": "95花 时装周",
+        "onboard_time": 1695913238,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 294352,
+        "num": 294352,
+        "word": "晚安 校长",
+        "onboard_time": 1695905443,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293280,
+        "num": 293280,
+        "word": "Angelababy 巴黎夜幕",
+        "onboard_time": 1695913303,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 286189,
+        "num": 286189,
+        "word": "盘点许家印商业版图",
+        "onboard_time": 1695910304,
+        "rank": 30,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 270820,
+        "num": 270820,
+        "word": "国庆假门还没出就亏了3500元",
+        "onboard_time": 1695899134,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262526,
+        "num": 262526,
+        "word": "迪丽热巴的新款单品分享",
+        "onboard_time": 1695912402,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255651,
+        "num": 255651,
+        "word": "我们的歌第五季阵容官宣",
+        "onboard_time": 1695905385,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255509,
+        "num": 255509,
+        "word": "男子双人舞生育力溢出来了",
+        "onboard_time": 1695910722,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261852,
+        "num": 254575,
+        "word": "中国恒大股份将继续暂停买卖",
+        "onboard_time": 1695905025,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 252167,
+        "num": 252167,
+        "word": "杨超越去进修演技了",
+        "onboard_time": 1695903095,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226667,
+        "num": 226667,
+        "word": "任豪 路不平终于上桌吃饭了",
+        "onboard_time": 1695909641,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225910,
+        "num": 225910,
+        "word": "柯洁逆转",
+        "onboard_time": 1695890856,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211414,
+        "num": 211414,
+        "word": "金智秀片场做鬼脸",
+        "onboard_time": 1695912704,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209312,
+        "num": 209312,
+        "word": "亚运会观众喊王哲林MVP",
+        "onboard_time": 1695910842,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207310,
+        "num": 207310,
+        "word": "花西子承认助梦大使称号",
+        "onboard_time": 1695895535,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 207018,
+        "num": 207018,
+        "word": "中国男篮vs中国台北男篮",
+        "onboard_time": 1695908563,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205001,
+        "num": 205001,
+        "word": "张老板果然是王丽坤",
+        "onboard_time": 1695911024,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203542,
+        "num": 203542,
+        "word": "网约车老爸的1800多次道歉",
+        "onboard_time": 1695908681,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202002,
+        "num": 202002,
+        "word": "频繁做美甲 让指甲休息一下",
+        "onboard_time": 1695902496,
+        "rank": 45,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 188699,
+        "num": 188699,
+        "word": "恒大多名核心人员被查",
+        "onboard_time": 1695914139,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181687,
+        "num": 181687,
+        "word": "志愿军",
+        "onboard_time": 1695904058,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178762,
+        "num": 178762,
+        "word": "哪吒宝宝真的好可爱",
+        "onboard_time": 1695912878,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175099,
+        "num": 175099,
+        "word": "出轨男卫明卖房妻女无家可归",
+        "onboard_time": 1695906585,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#提高驾驭高水平对外开放能力#"
+    }
+  }
+}
