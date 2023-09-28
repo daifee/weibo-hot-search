@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695882921152,
+  "endTime": 1695885357293,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2009,6 +2009,14 @@
       "onboard_time": 1695479261,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2205187,
+      "num": 600061,
+      "word": "因证据不足14岁女孩被认定为卖淫女",
+      "onboard_time": 1695883237,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2203736,
@@ -5185,6 +5193,14 @@
       "onboard_time": 1694573378,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1400118,
+      "num": 1400118,
+      "word": "堵车",
+      "onboard_time": 1695880174,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1398502,
@@ -11963,6 +11979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 773515,
+      "num": 773515,
+      "word": "年底前超八成用户可实现开机就看电视",
+      "onboard_time": 1695881914,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 772765,
       "num": 772765,
       "word": "邓为费加罗男士金九三封",
@@ -12881,14 +12905,6 @@
       "onboard_time": 1694149420,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 736749,
-      "num": 736749,
-      "word": "堵车",
-      "onboard_time": 1695880174,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736465,
@@ -17851,6 +17867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 582214,
+      "num": 493604,
+      "word": "亚运会的唯一悬念 亚军的争夺",
+      "onboard_time": 1695881615,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 581941,
       "num": 581941,
       "word": "Uzi纪念限定薇恩",
@@ -18145,6 +18169,14 @@
       "onboard_time": 1695366874,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 572854,
+      "num": 572854,
+      "word": "赵丽颖古装群像",
+      "onboard_time": 1695883958,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 572807,
@@ -21955,14 +21987,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 497011,
-      "num": 497011,
-      "word": "年底前超八成用户可实现开机就看电视",
-      "onboard_time": 1695881914,
-      "rank": 40,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 496585,
       "num": 496585,
       "word": "左彤好稳",
@@ -24617,6 +24641,14 @@
       "onboard_time": 1695105937,
       "rank": 7,
       "category": "美食"
+    },
+    {
+      "raw_hot": 450418,
+      "num": 222750,
+      "word": "Kanavi说感受到了中国队的威胁",
+      "onboard_time": 1695884257,
+      "rank": 30,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 450272,
@@ -28195,14 +28227,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 394612,
-      "num": 250362,
-      "word": "亚运会的唯一悬念 亚军的争夺",
-      "onboard_time": 1695881615,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 394435,
       "num": 445250,
       "word": "那山那人那狗",
@@ -28588,7 +28612,7 @@
     },
     {
       "raw_hot": 387450,
-      "num": 513582,
+      "num": 525828,
       "word": "敦煌上一次这么多人还在汉朝",
       "onboard_time": 1695881495,
       "rank": 11,
@@ -30689,6 +30713,14 @@
       "onboard_time": 1694772635,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360029,
+      "num": 360029,
+      "word": "李嘉琦 四妹和阿四kswl",
+      "onboard_time": 1695884315,
+      "rank": 16,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 359622,
@@ -33209,6 +33241,14 @@
       "onboard_time": 1694827532,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 328688,
+      "num": 328688,
+      "word": "卫明被林双公开处刑爽爆了",
+      "onboard_time": 1695884434,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 328681,
@@ -38323,6 +38363,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 284319,
+      "num": 284319,
+      "word": "谢娜杨紫林心如同框录综艺",
+      "onboard_time": 1695882277,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284305,
       "num": 284305,
       "word": "王曼昱亚锦赛夺冠",
@@ -38464,6 +38512,14 @@
       "word": "马立奥和况三喜有多同频",
       "onboard_time": 1693881218,
       "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283167,
+      "num": 283167,
+      "word": "封神训练营 下蛋姬",
+      "onboard_time": 1695882157,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -39241,6 +39297,14 @@
       "onboard_time": 1695104135,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276816,
+      "num": 276816,
+      "word": "柯洁决赛对阵许皓鋐",
+      "onboard_time": 1695884916,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 276742,
@@ -42635,14 +42699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 251320,
-      "num": 251320,
-      "word": "谢娜杨紫林心如同框录综艺",
-      "onboard_time": 1695882277,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 251303,
       "num": 1943248,
       "word": "5岁幼童帮渐冻症母亲拍出卡住药物",
@@ -44017,6 +44073,14 @@
       "onboard_time": 1695464673,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240774,
+      "num": 240774,
+      "word": "李昀锐这辈子最想删掉的视频",
+      "onboard_time": 1695883655,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 240754,
@@ -46291,6 +46355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227020,
+      "num": 265909,
+      "word": "央视中秋晚会舞台预告",
+      "onboard_time": 1695883419,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226931,
       "num": 226931,
       "word": "广州168元早茶自助",
@@ -47507,14 +47579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220033,
-      "num": 220033,
-      "word": "封神训练营 下蛋姬",
-      "onboard_time": 1695882157,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219967,
       "num": 219967,
       "word": "丞磊片场画卢昱晓",
@@ -47777,6 +47841,14 @@
       "onboard_time": 1695856952,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218378,
+      "num": 218378,
+      "word": "坚如磐石",
+      "onboard_time": 1694077418,
+      "rank": 37,
+      "category": "影视"
     },
     {
       "raw_hot": 218376,
@@ -49193,14 +49265,6 @@
       "onboard_time": 1695808891,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211438,
-      "num": 211438,
-      "word": "坚如磐石",
-      "onboard_time": 1694077418,
-      "rank": 37,
-      "category": "影视"
     },
     {
       "raw_hot": 211430,
@@ -52441,6 +52505,14 @@
       "onboard_time": 1695108159,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199516,
+      "num": 199516,
+      "word": "菲律宾海岸警卫队称已制定夺取黄岩岛计划",
+      "onboard_time": 1695883958,
+      "rank": 32,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 199512,
@@ -63379,6 +63451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150921,
+      "num": 150921,
+      "word": "郑钦文vs埃亚拉",
+      "onboard_time": 1695883053,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150910,
       "num": 150910,
       "word": "种地吧少年第一次过丰收节",
@@ -65505,6 +65585,14 @@
       "onboard_time": 1693955066,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137870,
+      "num": 137870,
+      "word": "法医季2女大学生KTV坠亡案",
+      "onboard_time": 1695885157,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 137850,
@@ -73217,6 +73305,14 @@
       "onboard_time": 1695750379,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 29682,
+      "num": 453869,
+      "word": "尼山是一座世界性桥梁",
+      "onboard_time": 1695884434,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29423,
