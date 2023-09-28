@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695878162520,
+  "endTime": 1695879246386,
   "band_list": [
     {
       "raw_hot": 8499613,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1478956,
+      "num": 1478956,
+      "word": "俄罗斯考虑效仿中国禁止进口日本水产品",
+      "onboard_time": 1695876099,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1336220,
       "num": 1336220,
       "word": "同居生子分手女子起诉每月给1元抚养费",
@@ -163,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 907564,
-      "num": 907564,
-      "word": "俄罗斯考虑效仿中国禁止进口日本水产品",
-      "onboard_time": 1695876099,
-      "rank": 4,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 896322,
       "num": 896322,
       "word": "二等兵申真谞 出列",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 726898,
-      "num": 601319,
+      "num": 699743,
       "word": "这和躺周杰伦怀里听有什么区别",
       "onboard_time": 1695876821,
       "rank": 11,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 517453,
+      "num": 517453,
+      "word": "封神训练营开播",
+      "onboard_time": 1695878017,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511040,
       "num": 511040,
       "word": "英雄联盟项目半决赛赛程",
@@ -539,6 +547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 385784,
+      "num": 385784,
+      "word": "檀健次的秘密被张远暴露了",
+      "onboard_time": 1695877419,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381454,
       "num": 381454,
       "word": "再见CSGO 你好CS2",
@@ -561,6 +577,14 @@
       "onboard_time": 1695876217,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 374502,
+      "num": 374502,
+      "word": "华晨宇穿了十年前快男夺冠的衣服",
+      "onboard_time": 1695876759,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 371651,
@@ -627,27 +651,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 333353,
-      "num": 333353,
-      "word": "华晨宇穿了十年前快男夺冠的衣服",
-      "onboard_time": 1695876759,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 331345,
       "num": 331345,
       "word": "张远听不得春晚两个字",
       "onboard_time": 1695874237,
       "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 330867,
-      "num": 330867,
-      "word": "檀健次的秘密被张远暴露了",
-      "onboard_time": 1695877419,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -763,12 +771,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284469,
-      "num": 284469,
-      "word": "封神训练营开播",
-      "onboard_time": 1695878017,
-      "rank": 28,
-      "category": "综艺"
+      "raw_hot": 288072,
+      "num": 288072,
+      "word": "YG新女团9月出道告吹",
+      "onboard_time": 1695878136,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 282424,
@@ -795,6 +803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267399,
+      "num": 974846,
+      "word": "新疆辟谣游客断崖式下跌",
+      "onboard_time": 1695875740,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263420,
       "num": 263420,
       "word": "坚如磐石首映礼好多人啊",
@@ -817,6 +833,14 @@
       "onboard_time": 1695864337,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251701,
+      "num": 238550,
+      "word": "前任4",
+      "onboard_time": 1695877119,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 251329,
@@ -875,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 230310,
+      "num": 230310,
+      "word": "霸王茶姬 盗墓笔记",
+      "onboard_time": 1695879037,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 229308,
       "num": 229308,
       "word": "王子文好优雅",
@@ -891,12 +923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 227640,
-      "num": 227640,
-      "word": "前任4",
-      "onboard_time": 1695877119,
-      "rank": 41,
-      "category": "电影"
+      "raw_hot": 227177,
+      "num": 227177,
+      "word": "小S放假舞",
+      "onboard_time": 1695877959,
+      "rank": 45,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 226663,
@@ -947,22 +979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211926,
-      "num": 974846,
-      "word": "新疆辟谣游客断崖式下跌",
-      "onboard_time": 1695875740,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211318,
-      "num": 211318,
-      "word": "小S放假舞",
-      "onboard_time": 1695877959,
-      "rank": 45,
-      "category": "艺人,幽默"
-    },
-    {
       "raw_hot": 209893,
       "num": 209893,
       "word": "王鹤棣后台狂炫小零食",
@@ -1003,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195509,
-      "num": 195509,
-      "word": "YG新女团9月出道告吹",
-      "onboard_time": 1695878136,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193193,
       "num": 193193,
       "word": "邓亚萍教奥尼尔说河南话",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1695817412,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184751,
+      "num": 184751,
+      "word": "李宇春重庆",
+      "onboard_time": 1695878374,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 178980,
@@ -1121,6 +1137,14 @@
       "onboard_time": 1695828695,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 164762,
+      "num": 164762,
+      "word": "霸王茶姬 柄图丑",
+      "onboard_time": 1695879216,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 163362,
