@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695886455407,
+  "endTime": 1695889305209,
   "band_list": [
     {
       "raw_hot": 8499613,
@@ -83,6 +83,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1775802,
+      "num": 1775802,
+      "word": "堵车",
+      "onboard_time": 1695880174,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1687943,
       "num": 1687943,
       "word": "泼天的富贵要到文具界了",
@@ -105,14 +113,6 @@
       "onboard_time": 1695856651,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1475156,
-      "num": 1475156,
-      "word": "堵车",
-      "onboard_time": 1695880174,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1401279,
@@ -179,6 +179,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 983880,
+      "num": 983880,
+      "word": "花西子被王海举报后更改产品介绍",
+      "onboard_time": 1695886716,
+      "rank": 1,
+      "category": "美妆,财经"
+    },
+    {
       "raw_hot": 963222,
       "num": 963222,
       "word": "大同欺凌事件校方曾建议三年级以上住校",
@@ -241,6 +249,14 @@
       "onboard_time": 1695859476,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782900,
+      "num": 782900,
+      "word": "柯洁决赛对阵许皓鋐",
+      "onboard_time": 1695884916,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 780955,
@@ -345,6 +361,14 @@
       "onboard_time": 1695861221,
       "rank": 7,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 637332,
+      "num": 383278,
+      "word": "老人买房发现卧室下方竟有配电柜",
+      "onboard_time": 1695887556,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633434,
@@ -547,6 +571,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 455473,
+      "num": 455473,
+      "word": "周深想成为林俊杰一样的歌手",
+      "onboard_time": 1695885515,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 454467,
       "num": 522909,
       "word": "丫丫也会吃自助餐了",
@@ -592,14 +624,6 @@
       "word": "姚明急得拍大腿",
       "onboard_time": 1695828395,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 443804,
-      "num": 443804,
-      "word": "柯洁决赛对阵许皓鋐",
-      "onboard_time": 1695884916,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -659,6 +683,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 416814,
+      "num": 416814,
+      "word": "我放假了",
+      "onboard_time": 1695886835,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 404510,
+      "num": 404510,
+      "word": "丘索维金娜第4",
+      "onboard_time": 1695888696,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401298,
       "num": 401298,
       "word": "韩国爱豆和日本爱豆的差异",
@@ -689,6 +729,14 @@
       "onboard_time": 1695877419,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 384269,
+      "num": 384269,
+      "word": "出名的是爸爸被治愈的却是儿子",
+      "onboard_time": 1695885877,
+      "rank": 36,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 381454,
@@ -899,14 +947,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 305288,
-      "num": 305288,
-      "word": "周深想成为林俊杰一样的歌手",
-      "onboard_time": 1695885515,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 303337,
       "num": 303337,
       "word": "李泰容 入伍",
@@ -953,6 +993,14 @@
       "onboard_time": 1695862298,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288457,
+      "num": 288457,
+      "word": "赵今麦造型师终于开窍了",
+      "onboard_time": 1695888393,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 288072,
@@ -1035,6 +1083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256111,
+      "num": 256111,
+      "word": "迪丽热巴晒巴黎时装周随拍",
+      "onboard_time": 1695887617,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 251701,
       "num": 238550,
       "word": "前任4",
@@ -1065,6 +1121,14 @@
       "onboard_time": 1695821199,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243953,
+      "num": 243953,
+      "word": "坚如磐石",
+      "onboard_time": 1695882095,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 240774,
@@ -1121,6 +1185,22 @@
       "onboard_time": 1695861637,
       "rank": 31,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 229019,
+      "num": 229019,
+      "word": "饶雪漫电影永不失联的爱开机",
+      "onboard_time": 1695887436,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 227813,
+      "num": 227813,
+      "word": "逆水寒 天赏爆率",
+      "onboard_time": 1695888816,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 227763,
@@ -1187,14 +1267,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 218378,
-      "num": 218378,
-      "word": "坚如磐石",
-      "onboard_time": 1695882095,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 217876,
       "num": 217876,
       "word": "刘彰留学副本",
@@ -1227,6 +1299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209355,
+      "num": 209355,
+      "word": "中秋年轻人开始找月亮搭子了",
+      "onboard_time": 1695888936,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206185,
       "num": 206185,
       "word": "梅西缺席美国公开杯决赛",
@@ -1249,6 +1329,14 @@
       "onboard_time": 1695867095,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 202122,
+      "num": 202122,
+      "word": "张博恒男子自由体操银牌",
+      "onboard_time": 1695886358,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 201740,
@@ -1299,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187189,
+      "num": 187189,
+      "word": "为什么捡菌子前要拍一拍",
+      "onboard_time": 1695888994,
+      "rank": 35,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 186110,
       "num": 186110,
       "word": "女儿用父亲600块买的整只牛头做火锅",
@@ -1315,12 +1411,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 180879,
-      "num": 180879,
-      "word": "出名的是爸爸被治愈的却是儿子",
-      "onboard_time": 1695885877,
-      "rank": 36,
-      "category": "社会新闻,情感"
+      "raw_hot": 180239,
+      "num": 202481,
+      "word": "用亚运会助威曲打开00后军训",
+      "onboard_time": 1695886716,
+      "rank": 30,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 178980,
@@ -1387,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168338,
+      "num": 168338,
+      "word": "北京已达严重拥堵",
+      "onboard_time": 1695889114,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 166078,
       "num": 166078,
       "word": "广东一男生跑步时心脏骤停倒地",
@@ -1401,6 +1505,14 @@
       "onboard_time": 1695828695,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165172,
+      "num": 165172,
+      "word": "丞磊谈卢昱晓反差感",
+      "onboard_time": 1695888756,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 164457,
@@ -1496,6 +1608,14 @@
       "word": "高校军训学生手手相传巨幅国旗",
       "onboard_time": 1695867695,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151792,
+      "num": 151792,
+      "word": "中山大学副研究员被举报出轨女博士后",
+      "onboard_time": 1695888994,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -1667,20 +1787,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128902,
-      "num": 128902,
-      "word": "张博恒男子自由体操银牌",
-      "onboard_time": 1695886358,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 121865,
       "num": 121865,
       "word": "游泳场馆是懂放歌的",
       "onboard_time": 1695856406,
       "rank": 36,
       "category": "体育,幽默"
+    },
+    {
+      "raw_hot": 121475,
+      "num": 121475,
+      "word": "雷佳音 孔融让梨",
+      "onboard_time": 1695887375,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 120558,
+      "num": 120558,
+      "word": "英灵不朽山河永念",
+      "onboard_time": 1695888218,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118675,

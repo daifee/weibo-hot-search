@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695886455407,
+  "endTime": 1695889305209,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1775802,
+      "num": 1775802,
+      "word": "堵车",
+      "onboard_time": 1695880174,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1773502,
       "num": 439078,
       "word": "韩素希颧骨钉",
@@ -689,14 +697,6 @@
       "onboard_time": 1695626498,
       "rank": 19,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1475156,
-      "num": 1475156,
-      "word": "堵车",
-      "onboard_time": 1695880174,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1445809,
@@ -1265,6 +1265,14 @@
       "onboard_time": 1695718716,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 983880,
+      "num": 983880,
+      "word": "花西子被王海举报后更改产品介绍",
+      "onboard_time": 1695886716,
+      "rank": 1,
+      "category": "美妆,财经"
     },
     {
       "raw_hot": 979026,
@@ -1897,6 +1905,14 @@
       "onboard_time": 1695517531,
       "rank": 1,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 782900,
+      "num": 782900,
+      "word": "柯洁决赛对阵许皓鋐",
+      "onboard_time": 1695884916,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 782776,
@@ -2705,6 +2721,14 @@
       "onboard_time": 1695695433,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 637332,
+      "num": 383278,
+      "word": "老人买房发现卧室下方竟有配电柜",
+      "onboard_time": 1695887556,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 637089,
@@ -4259,6 +4283,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 455473,
+      "num": 455473,
+      "word": "周深想成为林俊杰一样的歌手",
+      "onboard_time": 1695885515,
+      "rank": 21,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 454467,
       "num": 522909,
       "word": "丫丫也会吃自助餐了",
@@ -4408,14 +4440,6 @@
       "word": "13岁少女成中国最年轻亚运冠军",
       "onboard_time": 1695785374,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 443804,
-      "num": 443804,
-      "word": "柯洁决赛对阵许皓鋐",
-      "onboard_time": 1695884916,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -4627,6 +4651,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 416814,
+      "num": 416814,
+      "word": "我放假了",
+      "onboard_time": 1695886835,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 416065,
       "num": 416065,
       "word": "女子称质疑公司发假月饼后被解雇",
@@ -4745,6 +4777,14 @@
       "onboard_time": 1695797676,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 404510,
+      "num": 404510,
+      "word": "丘索维金娜第4",
+      "onboard_time": 1695888696,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 404249,
@@ -4929,6 +4969,14 @@
       "onboard_time": 1695519511,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 384269,
+      "num": 384269,
+      "word": "出名的是爸爸被治愈的却是儿子",
+      "onboard_time": 1695885877,
+      "rank": 36,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 381521,
@@ -6131,14 +6179,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 305288,
-      "num": 305288,
-      "word": "周深想成为林俊杰一样的歌手",
-      "onboard_time": 1695885515,
-      "rank": 21,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 304408,
       "num": 304408,
       "word": "王嘉尔创造营亚洲泰国季发起人",
@@ -6489,6 +6529,14 @@
       "onboard_time": 1695629017,
       "rank": 27,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 288457,
+      "num": 288457,
+      "word": "赵今麦造型师终于开窍了",
+      "onboard_time": 1695888393,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 288142,
@@ -7371,6 +7419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 256111,
+      "num": 256111,
+      "word": "迪丽热巴晒巴黎时装周随拍",
+      "onboard_time": 1695887617,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 255627,
       "num": 255627,
       "word": "张柏芝赫本风小黑裙",
@@ -7633,6 +7689,14 @@
       "onboard_time": 1695687705,
       "rank": 13,
       "category": "国内要闻,动物萌宠"
+    },
+    {
+      "raw_hot": 243953,
+      "num": 243953,
+      "word": "坚如磐石",
+      "onboard_time": 1695882095,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 243604,
@@ -8019,6 +8083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 229019,
+      "num": 229019,
+      "word": "饶雪漫电影永不失联的爱开机",
+      "onboard_time": 1695887436,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228618,
       "num": 228618,
       "word": "钮钴禄黄轩已黑化",
@@ -8033,6 +8105,14 @@
       "onboard_time": 1695798216,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227813,
+      "num": 227813,
+      "word": "逆水寒 天赏爆率",
+      "onboard_time": 1695888816,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 227763,
@@ -8257,14 +8337,6 @@
       "onboard_time": 1695856952,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218378,
-      "num": 218378,
-      "word": "坚如磐石",
-      "onboard_time": 1695882095,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 218376,
@@ -8707,6 +8779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209355,
+      "num": 209355,
+      "word": "中秋年轻人开始找月亮搭子了",
+      "onboard_time": 1695888936,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209042,
       "num": 209042,
       "word": "A股",
@@ -9089,6 +9169,14 @@
       "onboard_time": 1695655477,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 202122,
+      "num": 202122,
+      "word": "张博恒男子自由体操银牌",
+      "onboard_time": 1695886358,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 201973,
@@ -9971,6 +10059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187189,
+      "num": 187189,
+      "word": "为什么捡菌子前要拍一拍",
+      "onboard_time": 1695888994,
+      "rank": 35,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 186580,
       "num": 307579,
       "word": "亚运会首个金牌日",
@@ -10243,14 +10339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180879,
-      "num": 180879,
-      "word": "出名的是爸爸被治愈的却是儿子",
-      "onboard_time": 1695885877,
-      "rank": 36,
-      "category": "社会新闻,情感"
-    },
-    {
       "raw_hot": 180714,
       "num": 180714,
       "word": "跟着杨幂大片学穿搭",
@@ -10280,6 +10368,14 @@
       "word": "中国茶上拉花让巴赫直呼舍不得喝",
       "onboard_time": 1695482739,
       "rank": 35,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 180239,
+      "num": 202481,
+      "word": "用亚运会助威曲打开00后军训",
+      "onboard_time": 1695886716,
+      "rank": 30,
       "category": "社会新闻,体育"
     },
     {
@@ -10707,6 +10803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168338,
+      "num": 168338,
+      "word": "北京已达严重拥堵",
+      "onboard_time": 1695889114,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168204,
       "num": 168204,
       "word": "邻居说很心疼汪顺",
@@ -10840,6 +10944,14 @@
       "word": "凡人修仙传凡人不凡海报",
       "onboard_time": 1695609810,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165172,
+      "num": 165172,
+      "word": "丞磊谈卢昱晓反差感",
+      "onboard_time": 1695888756,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -11449,6 +11561,14 @@
       "onboard_time": 1695769947,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151792,
+      "num": 151792,
+      "word": "中山大学副研究员被举报出轨女博士后",
+      "onboard_time": 1695888994,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151711,
@@ -12299,14 +12419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 128902,
-      "num": 128902,
-      "word": "张博恒男子自由体操银牌",
-      "onboard_time": 1695886358,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 128395,
       "num": 128395,
       "word": "王楚钦3比0林昀儒",
@@ -12411,6 +12523,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 121475,
+      "num": 121475,
+      "word": "雷佳音 孔融让梨",
+      "onboard_time": 1695887375,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121186,
       "num": 1093850,
       "word": "亚运开幕式国风美学拉满",
@@ -12465,6 +12585,14 @@
       "onboard_time": 1695624516,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120558,
+      "num": 120558,
+      "word": "英灵不朽山河永念",
+      "onboard_time": 1695888218,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119804,
