@@ -1,0 +1,410 @@
+{
+  "runTime": 1695875640967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3329347,
+        "num": 3329347,
+        "word": "花西子眉笔 自动铅笔",
+        "onboard_time": 1695874056,
+        "rank": 0,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 2231457,
+        "num": 2231457,
+        "word": "得力收拾收拾准备升咖",
+        "onboard_time": 1695871360,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 937018,
+        "num": 937018,
+        "word": "泼天的富贵要到文具界了",
+        "onboard_time": 1695861276,
+        "rank": 2,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 896322,
+        "num": 896322,
+        "word": "二等兵申真谞 出列",
+        "onboard_time": 1695874477,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 817652,
+        "num": 817652,
+        "word": "张杰签售了10个小时",
+        "onboard_time": 1695873637,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 776552,
+        "num": 776552,
+        "word": "大同欺凌事件校方曾建议三年级以上住校",
+        "onboard_time": 1695869260,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 707222,
+        "num": 707222,
+        "word": "THE9南京演唱会官宣",
+        "onboard_time": 1695875077,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90596,
+        "num": 684267,
+        "word": "当千里江山图遇上诗画浙江",
+        "onboard_time": 1695870759,
+        "rank": 7,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 680366,
+        "num": 680366,
+        "word": "柯洁冲击金牌",
+        "onboard_time": 1695867034,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 623828,
+        "num": 623828,
+        "word": "王栎鑫你是真敢说啊",
+        "onboard_time": 1695872134,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2159237,
+        "num": 623438,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 10,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 427216,
+        "num": 623033,
+        "word": "中秋国庆假期第1天你想干什么",
+        "onboard_time": 1695863800,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125421,
+        "num": 622957,
+        "word": "中国男足晋级八强",
+        "onboard_time": 1695821921,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622922,
+        "num": 622922,
+        "word": "周笔畅 票都抢到了吗",
+        "onboard_time": 1695874297,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135452,
+        "num": 597636,
+        "word": "因提瓦特相聚",
+        "onboard_time": 1695873637,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 55180,
+        "num": 594288,
+        "word": "mate60rs评测",
+        "onboard_time": 1695873938,
+        "rank": 15,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 594240,
+        "num": 594240,
+        "word": "比恋爱脑更可悲的是清醒的恋爱脑",
+        "onboard_time": 1695874357,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570891,
+        "num": 570891,
+        "word": "成都地铁上被误认偷拍男子发文",
+        "onboard_time": 1695872855,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518007,
+        "num": 518007,
+        "word": "捷豹勇敢飞",
+        "onboard_time": 1695871656,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 424343,
+        "num": 424343,
+        "word": "王栎鑫和唐禹哲是同一个经纪人",
+        "onboard_time": 1695875137,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426787,
+        "num": 424287,
+        "word": "性缩力",
+        "onboard_time": 1695856651,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424139,
+        "num": 424139,
+        "word": "孙颖莎又打出11比0",
+        "onboard_time": 1695873096,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401506,
+        "num": 401506,
+        "word": "6岁零216个月",
+        "onboard_time": 1695862119,
+        "rank": 22,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 379286,
+        "num": 379286,
+        "word": "芭莎婚恋所又拍新CP啦",
+        "onboard_time": 1695871175,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 377293,
+        "num": 377293,
+        "word": "张嘉倪回应网友呼唤努力搞事业",
+        "onboard_time": 1695871113,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363065,
+        "num": 363065,
+        "word": "柯洁vs一力辽",
+        "onboard_time": 1695872313,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346013,
+        "num": 346013,
+        "word": "柯洁晋级亚运会决赛",
+        "onboard_time": 1695874538,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 331345,
+        "num": 331345,
+        "word": "张远听不得春晚两个字",
+        "onboard_time": 1695874237,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300128,
+        "num": 300128,
+        "word": "戚薇白鹿徐明浩同框",
+        "onboard_time": 1695871956,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296738,
+        "num": 296738,
+        "word": "90后为何不愿生孩子了",
+        "onboard_time": 1695861221,
+        "rank": 29,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 436511,
+        "num": 296666,
+        "word": "赵嘉豪哭了",
+        "onboard_time": 1695870996,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 389100,
+        "num": 296207,
+        "word": "knight 妖姬",
+        "onboard_time": 1695873096,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 296971,
+        "num": 295448,
+        "word": "ELK金克丝一血",
+        "onboard_time": 1695867215,
+        "rank": 32,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 294486,
+        "num": 294486,
+        "word": "朱开",
+        "onboard_time": 1695869979,
+        "rank": 33,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 278577,
+        "num": 278577,
+        "word": "问心定档",
+        "onboard_time": 1695869078,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275336,
+        "num": 275336,
+        "word": "被追着喂饭是这种感觉吗",
+        "onboard_time": 1695874838,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257858,
+        "num": 257858,
+        "word": "得力回应花西子发疯",
+        "onboard_time": 1695868838,
+        "rank": 36,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 252428,
+        "num": 252428,
+        "word": "孙杨直播哭了",
+        "onboard_time": 1695857129,
+        "rank": 37,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 234185,
+        "num": 234185,
+        "word": "被冤枉偷拍男子将起诉成都地铁",
+        "onboard_time": 1695875440,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226281,
+        "num": 226281,
+        "word": "王海称花西子应该给消费者退一赔三",
+        "onboard_time": 1695873456,
+        "rank": 39,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 215772,
+        "num": 215772,
+        "word": "米勒 生命值",
+        "onboard_time": 1695869620,
+        "rank": 40,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 194231,
+        "num": 194231,
+        "word": "浙江人未来一个月的主食",
+        "onboard_time": 1695862717,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193558,
+        "num": 193558,
+        "word": "女生洗澡被偷拍靠脚印3天找到偷拍男",
+        "onboard_time": 1695859476,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226676,
+        "num": 193383,
+        "word": "大同欺凌事件被辞退老师刚接班",
+        "onboard_time": 1695864040,
+        "rank": 43,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 193193,
+        "num": 193193,
+        "word": "邓亚萍教奥尼尔说河南话",
+        "onboard_time": 1695875322,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 186448,
+        "num": 186448,
+        "word": "巴基斯坦父亲独自来杭只为给儿子一个惊喜",
+        "onboard_time": 1695865056,
+        "rank": 45,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 177504,
+        "num": 177504,
+        "word": "原来上班是结婚的平替",
+        "onboard_time": 1695858758,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174742,
+        "num": 174742,
+        "word": "iPhoneSE4设计曝光",
+        "onboard_time": 1695864217,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 174719,
+        "num": 174719,
+        "word": "时空中的绘旅人",
+        "onboard_time": 1695875077,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170868,
+        "num": 170868,
+        "word": "大同未成年欺凌事件同校家长发声",
+        "onboard_time": 1695860977,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
