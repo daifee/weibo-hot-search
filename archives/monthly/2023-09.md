@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 16:21:45
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 16:35:21
 </p>
 </blockquote>
 <p>
@@ -1479,6 +1479,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%23" target="weibo">
+堵车（热度：2240488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E5%AE%89%E5%9C%B0%E9%9C%87%23" target="weibo">
 雅安地震（热度：2238220）
 </a>
@@ -2585,12 +2591,6 @@ iPhone15四款机型相机曝光（热度：1825898）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%80%E6%89%8D%E6%9B%BE%E8%A2%AB%E5%A4%A7%E5%A6%88%E4%B8%BE%E6%8A%A5%E6%AC%BA%E8%AF%8851%E4%B8%87%23" target="weibo">
 秀才曾被大妈举报欺诈51万（热度：1779007）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A0%B5%E8%BD%A6%23" target="weibo">
-堵车（热度：1775802）
 </a>
 </li>
 
@@ -4365,6 +4365,12 @@ CoCo道歉（热度：1326101）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E8%AE%B8%E7%9A%93%E9%8B%90%23" target="weibo">
+柯洁决赛对阵许皓鋐（热度：1282704）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%9D%A5%E6%BC%94%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%B8%80%E6%A8%A1%E4%B8%80%E6%A0%B7%23" target="weibo">
 虞书欣张凌赫来演云之羽的原因一模一样（热度：1281897）
 </a>
@@ -6005,12 +6011,6 @@ iPhone玄学（热度：1025193）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%89%B9iPhone15Pro%E4%B8%80%E5%88%86%E9%92%9F%E8%A2%AB%E6%8A%A2%E5%85%89%23" target="weibo">
 首批iPhone15Pro一分钟被抢光（热度：1018269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E4%B9%98%E7%94%B5%E6%A2%AF%E5%A4%9A%E6%AC%A1%E8%A2%AB%E9%99%8C%E7%94%9F%E5%A5%B3%E5%AD%90%E5%8F%96%E6%B6%88%E6%A5%BC%E5%B1%82%23" target="weibo">
-女孩乘电梯多次被陌生女子取消楼层（热度：1018243）
 </a>
 </li>
 

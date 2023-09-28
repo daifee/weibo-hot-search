@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695889305209,
+  "endTime": 1695890121518,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1955,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2240488,
+      "num": 2240488,
+      "word": "堵车",
+      "onboard_time": 1695880174,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2238220,
       "num": 2238220,
       "word": "雅安地震",
@@ -3433,14 +3441,6 @@
       "onboard_time": 1693697365,
       "rank": 27,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1775802,
-      "num": 1775802,
-      "word": "堵车",
-      "onboard_time": 1695880174,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1774620,
@@ -5801,6 +5801,14 @@
       "onboard_time": 1693828413,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 1282704,
+      "num": 1282704,
+      "word": "柯洁决赛对阵许皓鋐",
+      "onboard_time": 1695884916,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 1281897,
@@ -8289,6 +8297,14 @@
       "onboard_time": 1694770596,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 992917,
+      "num": 378697,
+      "word": "柯洁 胜率",
+      "onboard_time": 1695889774,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 992842,
@@ -11747,14 +11763,6 @@
       "category": "教育,互联网"
     },
     {
-      "raw_hot": 782900,
-      "num": 782900,
-      "word": "柯洁决赛对阵许皓鋐",
-      "onboard_time": 1695884916,
-      "rank": 22,
-      "category": "体育"
-    },
-    {
       "raw_hot": 782776,
       "num": 782776,
       "word": "韩媒谈BLACKPINK续约情况",
@@ -13289,6 +13297,14 @@
       "onboard_time": 1695654880,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 721952,
+      "num": 383278,
+      "word": "老人买房发现卧室下方竟有配电柜",
+      "onboard_time": 1695887556,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 721630,
@@ -15803,14 +15819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 637332,
-      "num": 383278,
-      "word": "老人买房发现卧室下方竟有配电柜",
-      "onboard_time": 1695887556,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 637249,
       "num": 294277,
       "word": "室友变小妈",
@@ -15929,6 +15937,14 @@
       "onboard_time": 1695470254,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 634220,
+      "num": 634220,
+      "word": "北京已达严重拥堵",
+      "onboard_time": 1695889114,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 634095,
@@ -19427,6 +19443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 546788,
+      "num": 546788,
+      "word": "我放假了",
+      "onboard_time": 1695886835,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 546730,
       "num": 546730,
       "word": "被拐28年最后她亲手把人贩子送上法庭",
@@ -22585,6 +22609,14 @@
       "onboard_time": 1695389739,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 484850,
+      "num": 484850,
+      "word": "丘索维金娜第4",
+      "onboard_time": 1695888696,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 484808,
@@ -26923,14 +26955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 416814,
-      "num": 416814,
-      "word": "我放假了",
-      "onboard_time": 1695886835,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 416324,
       "num": 358868,
       "word": "减脂突然就没那么难了",
@@ -27689,14 +27713,6 @@
       "onboard_time": 1695046060,
       "rank": 18,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 404510,
-      "num": 404510,
-      "word": "丘索维金娜第4",
-      "onboard_time": 1695888696,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 404476,
@@ -31849,6 +31865,14 @@
       "onboard_time": 1695874538,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 345875,
+      "num": 341042,
+      "word": "赵今麦造型师终于开窍了",
+      "onboard_time": 1695888393,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 345847,
@@ -37915,14 +37939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288457,
-      "num": 288457,
-      "word": "赵今麦造型师终于开窍了",
-      "onboard_time": 1695888393,
-      "rank": 21,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 288353,
       "num": 288353,
       "word": "成韩彬INVU",
@@ -38737,6 +38753,14 @@
       "onboard_time": 1695548671,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282241,
+      "num": 282241,
+      "word": "迪丽热巴晒巴黎时装周随拍",
+      "onboard_time": 1695887617,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 282138,
@@ -42291,14 +42315,6 @@
       "category": "影视"
     },
     {
-      "raw_hot": 256111,
-      "num": 256111,
-      "word": "迪丽热巴晒巴黎时装周随拍",
-      "onboard_time": 1695887617,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 256056,
       "num": 256056,
       "word": "中国女排奥运资格赛三连胜",
@@ -42345,6 +42361,14 @@
       "onboard_time": 1693818097,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 255147,
+      "num": 255147,
+      "word": "逆水寒 天赏爆率",
+      "onboard_time": 1695888816,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 255009,
@@ -42561,6 +42585,14 @@
       "onboard_time": 1695116557,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 252881,
+      "num": 252881,
+      "word": "张博恒男子自由体操银牌",
+      "onboard_time": 1695886358,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 252866,
@@ -43369,6 +43401,14 @@
       "onboard_time": 1694058995,
       "rank": 35,
       "category": "影视"
+    },
+    {
+      "raw_hot": 246810,
+      "num": 246810,
+      "word": "为什么捡菌子前要拍一拍",
+      "onboard_time": 1695888994,
+      "rank": 35,
+      "category": "知识科普"
     },
     {
       "raw_hot": 246780,
@@ -45683,6 +45723,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 232026,
+      "num": 216337,
+      "word": "中山大学副研究员被举报出轨女博士后",
+      "onboard_time": 1695888994,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232009,
       "num": 232009,
       "word": "别去有孩子的家庭做宠物",
@@ -45920,6 +45968,14 @@
       "word": "中秋国庆最强高铁买票攻略",
       "onboard_time": 1694776535,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230784,
+      "num": 230784,
+      "word": "中秋年轻人开始找月亮搭子了",
+      "onboard_time": 1695888936,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -46353,14 +46409,6 @@
       "onboard_time": 1695352293,
       "rank": 37,
       "category": "游戏,美食"
-    },
-    {
-      "raw_hot": 227813,
-      "num": 227813,
-      "word": "逆水寒 天赏爆率",
-      "onboard_time": 1695888816,
-      "rank": 26,
-      "category": "游戏"
     },
     {
       "raw_hot": 227789,
@@ -49779,14 +49827,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 209355,
-      "num": 209355,
-      "word": "中秋年轻人开始找月亮搭子了",
-      "onboard_time": 1695888936,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 209258,
       "num": 228402,
       "word": "齐司礼云月之约",
@@ -50473,6 +50513,14 @@
       "onboard_time": 1694002356,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206441,
+      "num": 206441,
+      "word": "日本第二轮核污染水排海将从10月5日开始",
+      "onboard_time": 1695889715,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 206433,
@@ -51849,14 +51897,6 @@
       "onboard_time": 1694420736,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202122,
-      "num": 202122,
-      "word": "张博恒男子自由体操银牌",
-      "onboard_time": 1695886358,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 202115,
@@ -56291,14 +56331,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 187189,
-      "num": 187189,
-      "word": "为什么捡菌子前要拍一拍",
-      "onboard_time": 1695888994,
-      "rank": 35,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 187177,
       "num": 169198,
       "word": "易建联说自律是一种习惯",
@@ -58635,6 +58667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177011,
+      "num": 177011,
+      "word": "罪犯前半生坐牢后半生住福利院领补助",
+      "onboard_time": 1695889414,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177010,
       "num": 177010,
       "word": "为什么草莓味的食品没草莓味",
@@ -60297,14 +60337,6 @@
       "onboard_time": 1695287374,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168338,
-      "num": 168338,
-      "word": "北京已达严重拥堵",
-      "onboard_time": 1695889114,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168332,
@@ -62211,6 +62243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158616,
+      "num": 158616,
+      "word": "丘索维金娜又比心了",
+      "onboard_time": 1695889297,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158603,
       "num": 158603,
       "word": "云之羽狼人杀复盘大会",
@@ -62473,6 +62513,14 @@
       "onboard_time": 1695305316,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 157310,
+      "num": 157310,
+      "word": "门还没出先亏一半",
+      "onboard_time": 1695889595,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 157302,
@@ -63449,14 +63497,6 @@
       "onboard_time": 1694950472,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151792,
-      "num": 151792,
-      "word": "中山大学副研究员被举报出轨女博士后",
-      "onboard_time": 1695888994,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 151755,
@@ -64603,6 +64643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145541,
+      "num": 145541,
+      "word": "孙颖莎王曼昱女双开门红",
+      "onboard_time": 1695890013,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145499,
       "num": 145499,
       "word": "微博音乐盛典全阵容官宣",
@@ -65721,6 +65769,14 @@
       "onboard_time": 1695165087,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138065,
+      "num": 138065,
+      "word": "老师谈崔宸曦成最年轻亚运冠军",
+      "onboard_time": 1695889774,
+      "rank": 45,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 138043,
