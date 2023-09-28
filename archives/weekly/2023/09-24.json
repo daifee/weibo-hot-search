@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695885357293,
+  "endTime": 1695886455407,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -219,6 +219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2536001,
+      "num": 600061,
+      "word": "因证据不足14岁女孩被认定为卖淫女",
+      "onboard_time": 1695883237,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2498308,
       "num": 1850030,
       "word": "网传大同小学生遭霸凌教育局连夜调查",
@@ -305,14 +313,6 @@
       "onboard_time": 1695809191,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 2205187,
-      "num": 600061,
-      "word": "因证据不足14岁女孩被认定为卖淫女",
-      "onboard_time": 1695883237,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2164362,
@@ -691,6 +691,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1475156,
+      "num": 1475156,
+      "word": "堵车",
+      "onboard_time": 1695880174,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1445809,
       "num": 868626,
       "word": "男子上班浏览色情网站被解雇索赔30万",
@@ -729,14 +737,6 @@
       "onboard_time": 1695879396,
       "rank": 10,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1400118,
-      "num": 1400118,
-      "word": "堵车",
-      "onboard_time": 1695880174,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1397591,
@@ -2931,6 +2931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 607971,
+      "num": 607971,
+      "word": "亚运会的唯一悬念 亚军的争夺",
+      "onboard_time": 1695881615,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 606989,
       "num": 1955690,
       "word": "郭晶晶霍启刚太好磕了",
@@ -3097,14 +3105,6 @@
       "onboard_time": 1695521730,
       "rank": 13,
       "category": "知识科普,美妆"
-    },
-    {
-      "raw_hot": 582214,
-      "num": 493604,
-      "word": "亚运会的唯一悬念 亚军的争夺",
-      "onboard_time": 1695881615,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 577046,
@@ -4227,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456462,
+      "num": 222750,
+      "word": "Kanavi说感受到了中国队的威胁",
+      "onboard_time": 1695884257,
+      "rank": 30,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 456271,
       "num": 456271,
       "word": "今晚国歌是我的单曲循环",
@@ -4257,6 +4265,14 @@
       "onboard_time": 1695880776,
       "rank": 9,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 454367,
+      "num": 454367,
+      "word": "卫明被林双公开处刑爽爆了",
+      "onboard_time": 1695884434,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 453963,
@@ -4299,14 +4315,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 450418,
-      "num": 222750,
-      "word": "Kanavi说感受到了中国队的威胁",
-      "onboard_time": 1695884257,
-      "rank": 30,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 449650,
       "num": 449650,
       "word": "没十年脑血栓问不出来的问题",
@@ -4337,6 +4345,14 @@
       "onboard_time": 1695698253,
       "rank": 9,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 448699,
+      "num": 391833,
+      "word": "SEVENTEEN更换北京预告",
+      "onboard_time": 1695885455,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 447762,
@@ -4392,6 +4408,14 @@
       "word": "13岁少女成中国最年轻亚运冠军",
       "onboard_time": 1695785374,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 443804,
+      "num": 443804,
+      "word": "柯洁决赛对阵许皓鋐",
+      "onboard_time": 1695884916,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -4969,6 +4993,14 @@
       "onboard_time": 1695866736,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 376883,
+      "num": 376883,
+      "word": "吴昕35岁到40岁的心态变化",
+      "onboard_time": 1695885936,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 376121,
@@ -5627,14 +5659,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 328688,
-      "num": 328688,
-      "word": "卫明被林双公开处刑爽爆了",
-      "onboard_time": 1695884434,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 328212,
       "num": 328212,
       "word": "巴基斯坦父亲独自来杭只为给儿子一个惊喜",
@@ -6105,6 +6129,14 @@
       "onboard_time": 1695618876,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 305288,
+      "num": 305288,
+      "word": "周深想成为林俊杰一样的歌手",
+      "onboard_time": 1695885515,
+      "rank": 21,
+      "category": "音乐"
     },
     {
       "raw_hot": 304408,
@@ -6761,14 +6793,6 @@
       "onboard_time": 1695538171,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 276816,
-      "num": 276816,
-      "word": "柯洁决赛对阵许皓鋐",
-      "onboard_time": 1695884916,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 276742,
@@ -7441,6 +7465,14 @@
       "onboard_time": 1695716794,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 250756,
+      "num": 250756,
+      "word": "郑钦文晋级亚运女单决赛",
+      "onboard_time": 1695885697,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 250367,
@@ -10211,6 +10243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180879,
+      "num": 180879,
+      "word": "出名的是爸爸被治愈的却是儿子",
+      "onboard_time": 1695885877,
+      "rank": 36,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 180714,
       "num": 180714,
       "word": "跟着杨幂大片学穿搭",
@@ -11843,6 +11883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140901,
+      "num": 140901,
+      "word": "丞磊回应剧本宫尚角出场描述",
+      "onboard_time": 1695886417,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140900,
       "num": 140900,
       "word": "于适被误伤却说追求真实",
@@ -12249,6 +12297,14 @@
       "onboard_time": 1695539672,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 128902,
+      "num": 128902,
+      "word": "张博恒男子自由体操银牌",
+      "onboard_time": 1695886358,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 128395,
@@ -13651,6 +13707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35983,
+      "num": 453869,
+      "word": "尼山是一座世界性桥梁",
+      "onboard_time": 1695884434,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34773,
       "num": 1504207,
       "word": "一起看亚运",
@@ -13737,14 +13801,6 @@
       "onboard_time": 1695750379,
       "rank": 47,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 29682,
-      "num": 453869,
-      "word": "尼山是一座世界性桥梁",
-      "onboard_time": 1695884434,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29012,
