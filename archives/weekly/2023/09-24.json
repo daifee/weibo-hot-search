@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695899657028,
+  "endTime": 1695900843570,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -579,6 +579,14 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 1677050,
+      "num": 1677050,
+      "word": "她推了西娘娘",
+      "onboard_time": 1695897333,
+      "rank": 5,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1638823,
       "num": 1638823,
       "word": "空气炸锅为什么不火了",
@@ -697,14 +705,6 @@
       "onboard_time": 1695790420,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1501552,
-      "num": 1501552,
-      "word": "她推了西娘娘",
-      "onboard_time": 1695897333,
-      "rank": 5,
-      "category": "美妆"
     },
     {
       "raw_hot": 1499789,
@@ -923,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1284722,
+      "num": 450867,
+      "word": "坚如磐石删减 尺度奇观",
+      "onboard_time": 1695897752,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1270826,
       "num": 822402,
       "word": "官方通报校长和主任外出考察同房过夜",
@@ -1033,14 +1041,6 @@
       "onboard_time": 1695567037,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1167604,
-      "num": 450867,
-      "word": "坚如磐石删减 尺度奇观",
-      "onboard_time": 1695897752,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 1163322,
@@ -2508,7 +2508,7 @@
     },
     {
       "raw_hot": 690172,
-      "num": 345520,
+      "num": 370223,
       "word": "任嘉伦工作室严正声明",
       "onboard_time": 1695897513,
       "rank": 16,
@@ -2899,6 +2899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 630889,
+      "num": 630889,
+      "word": "国庆假门还没出就亏了3500元",
+      "onboard_time": 1695899134,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630264,
       "num": 630264,
       "word": "叶诗文时隔9年再战亚运摘银",
@@ -3113,6 +3121,14 @@
       "onboard_time": 1695691236,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 599344,
+      "num": 238817,
+      "word": "张踩铃是怎么被婆婆社死的",
+      "onboard_time": 1695900093,
+      "rank": 30,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 598503,
@@ -5835,6 +5851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331692,
+      "num": 331692,
+      "word": "坚如磐石",
+      "onboard_time": 1695882095,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 331413,
       "num": 331413,
       "word": "陕西男篮6个字回应官方处罚",
@@ -5971,14 +5995,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 325259,
-      "num": 325259,
-      "word": "坚如磐石",
-      "onboard_time": 1695882095,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 324088,
       "num": 324088,
       "word": "B太 国内外美妆产品会不会缺斤少两",
@@ -6001,6 +6017,14 @@
       "onboard_time": 1695731618,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323516,
+      "num": 323516,
+      "word": "韩国选手挑衅遭中国队员专业反击",
+      "onboard_time": 1695900454,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 323034,
@@ -6659,6 +6683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294185,
+      "num": 294185,
+      "word": "时代峰峻 周边",
+      "onboard_time": 1695900395,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 293482,
       "num": 293482,
       "word": "林恒",
@@ -6889,6 +6921,14 @@
       "onboard_time": 1695728442,
       "rank": 28,
       "category": "知识科普,美食"
+    },
+    {
+      "raw_hot": 282468,
+      "num": 282468,
+      "word": "十个勤天",
+      "onboard_time": 1695896854,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 282424,
@@ -7305,14 +7345,6 @@
       "onboard_time": 1695701979,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267141,
-      "num": 267141,
-      "word": "十个勤天",
-      "onboard_time": 1695896854,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 266773,
@@ -7795,14 +7827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251283,
-      "num": 251283,
-      "word": "国庆假门还没出就亏了3500元",
-      "onboard_time": 1695899134,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250756,
       "num": 250756,
       "word": "郑钦文晋级亚运女单决赛",
@@ -8097,6 +8121,14 @@
       "onboard_time": 1695877659,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238961,
+      "num": 238961,
+      "word": "樊振东11比1",
+      "onboard_time": 1695900515,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 238548,
@@ -9323,6 +9355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204566,
+      "num": 204566,
+      "word": "孔雪儿初秋白开水妆",
+      "onboard_time": 1695900274,
+      "rank": 38,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 204365,
       "num": 204365,
       "word": "封神BE美学之巅",
@@ -9929,6 +9969,14 @@
       "onboard_time": 1695641073,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194157,
+      "num": 194157,
+      "word": "梁龙一句话让那英沉默",
+      "onboard_time": 1695899973,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 193998,
@@ -13636,7 +13684,7 @@
     },
     {
       "raw_hot": 77915,
-      "num": 199205,
+      "num": 356964,
       "word": "蛋仔小绿老INFP了",
       "onboard_time": 1695899134,
       "rank": 37,
