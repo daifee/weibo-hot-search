@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695882161306,
+  "endTime": 1695882921152,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -371,8 +371,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1949621,
-      "num": 1949621,
+      "raw_hot": 1974387,
+      "num": 1974387,
       "word": "霸王茶姬 柄图丑",
       "onboard_time": 1695879216,
       "rank": 48,
@@ -716,7 +716,7 @@
     },
     {
       "raw_hot": 1401279,
-      "num": 453647,
+      "num": 519279,
       "word": "杨幂LOEWE罗意威全球品牌代言人",
       "onboard_time": 1695879396,
       "rank": 10,
@@ -1979,6 +1979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 769655,
+      "num": 769655,
+      "word": "空降最高title",
+      "onboard_time": 1695880414,
+      "rank": 4,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 768845,
       "num": 768845,
       "word": "刘诗诗回应不上常驻综艺",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1695731258,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 756261,
-      "num": 756261,
-      "word": "空降最高title",
-      "onboard_time": 1695880414,
-      "rank": 4,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 755601,
@@ -2120,6 +2120,14 @@
       "word": "母亲去世女子想推迟结婚被判退彩礼",
       "onboard_time": 1695823538,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736749,
+      "num": 736749,
+      "word": "堵车",
+      "onboard_time": 1695880174,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2673,14 +2681,6 @@
       "onboard_time": 1695719495,
       "rank": 42,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 639555,
-      "num": 639555,
-      "word": "堵车",
-      "onboard_time": 1695880174,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 638702,
@@ -3427,6 +3427,14 @@
       "category": "网红,幽默"
     },
     {
+      "raw_hot": 532135,
+      "num": 532135,
+      "word": "解说员恨不得自己上场",
+      "onboard_time": 1695881137,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 532105,
       "num": 532105,
       "word": "微博音乐盛典红毯",
@@ -3777,6 +3785,14 @@
       "onboard_time": 1695702763,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497011,
+      "num": 497011,
+      "word": "年底前超八成用户可实现开机就看电视",
+      "onboard_time": 1695881914,
+      "rank": 40,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 496585,
@@ -4212,7 +4228,7 @@
     },
     {
       "raw_hot": 454467,
-      "num": 454467,
+      "num": 522909,
       "word": "丫丫也会吃自助餐了",
       "onboard_time": 1695880776,
       "rank": 9,
@@ -4305,14 +4321,6 @@
       "onboard_time": 1695652959,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445800,
-      "num": 445800,
-      "word": "解说员恨不得自己上场",
-      "onboard_time": 1695881137,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 445592,
@@ -4771,6 +4779,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 394612,
+      "num": 250362,
+      "word": "亚运会的唯一悬念 亚军的争夺",
+      "onboard_time": 1695881615,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394026,
       "num": 473857,
       "word": "退休外交官夫妇山区支教9年",
@@ -4817,6 +4833,14 @@
       "onboard_time": 1695615338,
       "rank": 33,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 387450,
+      "num": 513582,
+      "word": "敦煌上一次这么多人还在汉朝",
+      "onboard_time": 1695881495,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386817,
@@ -6019,14 +6043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307008,
-      "num": 452253,
-      "word": "敦煌上一次这么多人还在汉朝",
-      "onboard_time": 1695881495,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 306498,
       "num": 276024,
       "word": "石川佳纯在看男排",
@@ -6264,14 +6280,6 @@
       "word": "中国队的第三金收入囊中",
       "onboard_time": 1695521132,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 295824,
-      "num": 250362,
-      "word": "亚运会的唯一悬念 亚军的争夺",
-      "onboard_time": 1695881615,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -6745,6 +6753,14 @@
       "onboard_time": 1695731499,
       "rank": 29,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 274786,
+      "num": 274786,
+      "word": "丁真首部电影开机",
+      "onboard_time": 1695881195,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 274674,
@@ -7363,6 +7379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 251320,
+      "num": 251320,
+      "word": "谢娜杨紫林心如同框录综艺",
+      "onboard_time": 1695882277,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250367,
       "num": 250367,
       "word": "卢昱晓画的loopy版丞磊",
@@ -7561,14 +7585,6 @@
       "onboard_time": 1695823175,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 241169,
-      "num": 241169,
-      "word": "丁真首部电影开机",
-      "onboard_time": 1695881195,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 241095,
@@ -8099,6 +8115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220033,
+      "num": 220033,
+      "word": "封神训练营 下蛋姬",
+      "onboard_time": 1695882157,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219734,
       "num": 219734,
       "word": "水族馆改喂便宜鱼后企鹅和水獭不干了",
@@ -8193,6 +8217,14 @@
       "onboard_time": 1695733062,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 217876,
+      "num": 217876,
+      "word": "刘彰留学副本",
+      "onboard_time": 1695881376,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 217672,
@@ -8347,14 +8379,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 214266,
-      "num": 214266,
-      "word": "刘彰留学副本",
-      "onboard_time": 1695881376,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214185,
       "num": 214185,
       "word": "沈腾在范丞丞面前都显得内向了",
@@ -8505,6 +8529,14 @@
       "onboard_time": 1695808891,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 211438,
+      "num": 211438,
+      "word": "坚如磐石",
+      "onboard_time": 1695882095,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 210960,
@@ -10187,14 +10219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178439,
-      "num": 178439,
-      "word": "年底前超八成用户可实现开机就看电视",
-      "onboard_time": 1695881914,
-      "rank": 40,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 178404,
       "num": 168150,
       "word": "为什么越来越多的客运站停运",
@@ -10713,6 +10737,14 @@
       "onboard_time": 1695517051,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164457,
+      "num": 826494,
+      "word": "广电总局进行新闻发布",
+      "onboard_time": 1695880837,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164154,
@@ -11419,6 +11451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149668,
+      "num": 149668,
+      "word": "马龙在看台为国乒男双队友加油",
+      "onboard_time": 1695882757,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149632,
       "num": 149632,
       "word": "王乐君昔日采访聊摔倒视频",
@@ -11561,14 +11601,6 @@
       "onboard_time": 1695796299,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 145998,
-      "num": 145998,
-      "word": "坚如磐石",
-      "onboard_time": 1695882095,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 145499,
@@ -11971,14 +12003,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 134954,
-      "num": 826494,
-      "word": "广电总局进行新闻发布",
-      "onboard_time": 1695880837,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134919,
       "num": 134919,
       "word": "孙颖莎英语紧追马龙",
@@ -12049,6 +12073,14 @@
       "onboard_time": 1695630817,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 132561,
+      "num": 132561,
+      "word": "少年放下水果就跑消防都来不及追",
+      "onboard_time": 1695882455,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132245,
@@ -13379,6 +13411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 48919,
+      "num": 503217,
+      "word": "尼山是孔子诞生地",
+      "onboard_time": 1695880837,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48366,
       "num": 279015,
       "word": "淘宝为亚做E",
@@ -13449,14 +13489,6 @@
       "onboard_time": 1695826898,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 40335,
-      "num": 448451,
-      "word": "尼山是孔子诞生地",
-      "onboard_time": 1695880837,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39270,

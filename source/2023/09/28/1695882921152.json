@@ -1,0 +1,410 @@
+{
+  "runTime": 1695882921152,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1974387,
+        "num": 1974387,
+        "word": "霸王茶姬 柄图丑",
+        "onboard_time": 1695879216,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1168473,
+        "num": 1168473,
+        "word": "俄罗斯考虑效仿中国禁止进口日本水产品",
+        "onboard_time": 1695876099,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 164457,
+        "num": 771653,
+        "word": "广电总局进行新闻发布",
+        "onboard_time": 1695880837,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769655,
+        "num": 769655,
+        "word": "空降最高title",
+        "onboard_time": 1695880414,
+        "rank": 3,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 736749,
+        "num": 736749,
+        "word": "堵车",
+        "onboard_time": 1695880174,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678465,
+        "num": 678465,
+        "word": "花西子眉笔 自动铅笔",
+        "onboard_time": 1695874056,
+        "rank": 5,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 554390,
+        "num": 554390,
+        "word": "霸王茶姬 盗墓笔记",
+        "onboard_time": 1695879037,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 532135,
+        "num": 532135,
+        "word": "解说员恨不得自己上场",
+        "onboard_time": 1695881137,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524871,
+        "num": 524871,
+        "word": "这和躺周杰伦怀里听有什么区别",
+        "onboard_time": 1695876821,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 396515,
+        "num": 522909,
+        "word": "丫丫也会吃自助餐了",
+        "onboard_time": 1695880776,
+        "rank": 9,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 1119627,
+        "num": 519279,
+        "word": "杨幂LOEWE罗意威全球品牌代言人",
+        "onboard_time": 1695879396,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 387450,
+        "num": 513582,
+        "word": "敦煌上一次这么多人还在汉朝",
+        "onboard_time": 1695881495,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191312,
+        "num": 512177,
+        "word": "中秋国庆假期第1天你想干什么",
+        "onboard_time": 1695863800,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182722,
+        "num": 508908,
+        "word": "柯洁冲击金牌",
+        "onboard_time": 1695867034,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48919,
+        "num": 503217,
+        "word": "尼山是孔子诞生地",
+        "onboard_time": 1695880837,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571078,
+        "num": 497882,
+        "word": "花西子 得力",
+        "onboard_time": 1695858333,
+        "rank": 15,
+        "category": "美妆,教育"
+      },
+      {
+        "raw_hot": 497011,
+        "num": 497011,
+        "word": "年底前超八成用户可实现开机就看电视",
+        "onboard_time": 1695881914,
+        "rank": 16,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 366947,
+        "num": 366947,
+        "word": "樊振东王楚钦男双开门红",
+        "onboard_time": 1695879635,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346163,
+        "num": 346163,
+        "word": "得力收拾收拾准备升咖",
+        "onboard_time": 1695871360,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315848,
+        "num": 315848,
+        "word": "于适 我不笨",
+        "onboard_time": 1695879576,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311507,
+        "num": 311507,
+        "word": "韩素希 宋慧乔",
+        "onboard_time": 1695880957,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310042,
+        "num": 310042,
+        "word": "华晨宇穿了十年前快男夺冠的衣服",
+        "onboard_time": 1695876759,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291114,
+        "num": 291114,
+        "word": "性缩力",
+        "onboard_time": 1695856651,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 274786,
+        "num": 274786,
+        "word": "丁真首部电影开机",
+        "onboard_time": 1695881195,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 265989,
+        "num": 265989,
+        "word": "成都地铁上被误认偷拍男子发文",
+        "onboard_time": 1695872855,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251320,
+        "num": 251320,
+        "word": "谢娜杨紫林心如同框录综艺",
+        "onboard_time": 1695882277,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249028,
+        "num": 249028,
+        "word": "韩女从小就通透",
+        "onboard_time": 1695876700,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239137,
+        "num": 239137,
+        "word": "泼天的富贵要到文具界了",
+        "onboard_time": 1695861276,
+        "rank": 27,
+        "category": "美妆,社会新闻"
+      },
+      {
+        "raw_hot": 234942,
+        "num": 234942,
+        "word": "檀健次的秘密被张远暴露了",
+        "onboard_time": 1695877419,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230449,
+        "num": 230449,
+        "word": "THE9南京演唱会官宣",
+        "onboard_time": 1695875077,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394612,
+        "num": 227947,
+        "word": "亚运会的唯一悬念 亚军的争夺",
+        "onboard_time": 1695881615,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299658,
+        "num": 226925,
+        "word": "Faker",
+        "onboard_time": 1695876398,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 225012,
+        "num": 225012,
+        "word": "王栎鑫和唐禹哲是同一个经纪人",
+        "onboard_time": 1695875137,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223211,
+        "num": 223211,
+        "word": "比恋爱脑更可悲的是清醒的恋爱脑",
+        "onboard_time": 1695874357,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221068,
+        "num": 221068,
+        "word": "新疆辟谣游客断崖式下跌",
+        "onboard_time": 1695875740,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220033,
+        "num": 220033,
+        "word": "封神训练营 下蛋姬",
+        "onboard_time": 1695882157,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217876,
+        "num": 217876,
+        "word": "刘彰留学副本",
+        "onboard_time": 1695881376,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211438,
+        "num": 211438,
+        "word": "坚如磐石",
+        "onboard_time": 1695882095,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202058,
+        "num": 202058,
+        "word": "杨幂到达巴黎",
+        "onboard_time": 1695876217,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182254,
+        "num": 182254,
+        "word": "封神训练营开播",
+        "onboard_time": 1695878017,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161887,
+        "num": 161887,
+        "word": "张杰签售了10个小时",
+        "onboard_time": 1695873637,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156912,
+        "num": 156912,
+        "word": "中科大书记连做40个花式俯卧撑鼓励学生",
+        "onboard_time": 1695879934,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 156597,
+        "num": 156597,
+        "word": "前任4",
+        "onboard_time": 1695877119,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149668,
+        "num": 149668,
+        "word": "马龙在看台为国乒男双队友加油",
+        "onboard_time": 1695882757,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148577,
+        "num": 148577,
+        "word": "捷豹勇敢飞",
+        "onboard_time": 1695871656,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181122,
+        "num": 147746,
+        "word": "大同欺凌事件校方曾建议三年级以上住校",
+        "onboard_time": 1695869260,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 144593,
+        "num": 144593,
+        "word": "中秋节没回家的那些人",
+        "onboard_time": 1695880776,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138797,
+        "num": 138797,
+        "word": "小S放假舞",
+        "onboard_time": 1695877959,
+        "rank": 47,
+        "category": "综艺,幽默"
+      },
+      {
+        "raw_hot": 137229,
+        "num": 137229,
+        "word": "未定事件簿",
+        "onboard_time": 1695881195,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132561,
+        "num": 132561,
+        "word": "少年放下水果就跑消防都来不及追",
+        "onboard_time": 1695882455,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}

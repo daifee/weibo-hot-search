@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 14:22:41
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 14:35:21
 </p>
 </blockquote>
 <p>
@@ -2025,6 +2025,12 @@ EXO 安踏（热度：2070313）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E6%9F%84%E5%9B%BE%E4%B8%91%23" target="weibo">
+霸王茶姬 柄图丑（热度：1974387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E5%AE%9D%E5%AE%9D%E8%A2%AB%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%8B%90%E5%8D%96%E6%8C%91%E6%96%AD%E6%89%8B%E8%84%9A%E7%AD%8B%23" target="weibo">
 冯宝宝被人贩子拐卖挑断手脚筋（热度：1972503）
 </a>
@@ -2051,12 +2057,6 @@ D社曝黑暗荣耀金赫拉校园暴力（热度：1966079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%8B%8D%E7%9A%84%23" target="weibo">
 她拍的（热度：1965951）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E6%9F%84%E5%9B%BE%E4%B8%91%23" target="weibo">
-霸王茶姬 柄图丑（热度：1949621）
 </a>
 </li>
 
