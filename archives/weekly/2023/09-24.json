@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695868428913,
+  "endTime": 1695871051357,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -83,11 +83,19 @@
       "category": "美妆,财经"
     },
     {
-      "raw_hot": 3843322,
+      "raw_hot": 4277996,
       "num": 1162941,
       "word": "英雄联盟中国队vs韩国队",
       "onboard_time": 1695810812,
       "rank": 33,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 3824698,
+      "num": 802423,
+      "word": "英雄联盟韩国队晋级决赛",
+      "onboard_time": 1695870277,
+      "rank": 4,
       "category": "游戏,体育"
     },
     {
@@ -467,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1687943,
+      "num": 1687943,
+      "word": "泼天的富贵要到文具界了",
+      "onboard_time": 1695861276,
+      "rank": 1,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 1638823,
       "num": 1638823,
       "word": "空气炸锅为什么不火了",
@@ -620,7 +636,7 @@
     },
     {
       "raw_hot": 1482971,
-      "num": 317388,
+      "num": 330482,
       "word": "性缩力",
       "onboard_time": 1695856651,
       "rank": 20,
@@ -1035,6 +1051,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1085135,
+      "num": 510815,
+      "word": "朱开",
+      "onboard_time": 1695869979,
+      "rank": 10,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 1073396,
       "num": 796076,
       "word": "突然间全场爆发欢呼给马龙都整懵了",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1695557014,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 935814,
+      "num": 355158,
+      "word": "JDG到底谁在C",
+      "onboard_time": 1695866797,
+      "rank": 18,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 934675,
@@ -1795,6 +1827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 780955,
+      "num": 260309,
+      "word": "Zeus单杀Bin",
+      "onboard_time": 1695868658,
+      "rank": 28,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 780888,
       "num": 455491,
       "word": "10岁男童将体温计插入尿道不慎折断",
@@ -2049,6 +2089,14 @@
       "onboard_time": 1695799837,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 720584,
+      "num": 499413,
+      "word": "LPL",
+      "onboard_time": 1695868716,
+      "rank": 11,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 719906,
@@ -2907,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569734,
+      "num": 569734,
+      "word": "问心定档",
+      "onboard_time": 1695869078,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 569616,
       "num": 569616,
       "word": "中国赛艇队再得一金",
@@ -3209,6 +3265,14 @@
       "onboard_time": 1695545676,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 527691,
+      "num": 527691,
+      "word": "左手尽力局",
+      "onboard_time": 1695866855,
+      "rank": 16,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 525283,
@@ -4123,6 +4187,14 @@
       "category": "美妆,艺人"
     },
     {
+      "raw_hot": 434588,
+      "num": 434588,
+      "word": "BP 抽象",
+      "onboard_time": 1695868235,
+      "rank": 40,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 434089,
       "num": 434089,
       "word": "我被假兵马俑骗哭了",
@@ -4331,6 +4403,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 404965,
+      "num": 404965,
+      "word": "大同欺凌事件校方曾建议三年级以上住校",
+      "onboard_time": 1695869260,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 404249,
       "num": 404249,
       "word": "中国女排3比1塞尔维亚女排",
@@ -4491,12 +4571,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 382803,
-      "num": 363081,
-      "word": "左手尽力局",
-      "onboard_time": 1695866855,
-      "rank": 16,
-      "category": "游戏,体育"
+      "raw_hot": 384106,
+      "num": 522547,
+      "word": "柯洁冲击金牌",
+      "onboard_time": 1695867034,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 381521,
@@ -4649,6 +4729,14 @@
       "onboard_time": 1695477701,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 370254,
+      "num": 370254,
+      "word": "米勒 生命值",
+      "onboard_time": 1695869620,
+      "rank": 18,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 370181,
@@ -4817,14 +4905,6 @@
       "onboard_time": 1695821078,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355158,
-      "num": 355158,
-      "word": "JDG到底谁在C",
-      "onboard_time": 1695866797,
-      "rank": 18,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 354936,
@@ -4996,7 +5076,7 @@
     },
     {
       "raw_hot": 338802,
-      "num": 372488,
+      "num": 474634,
       "word": "中秋国庆假期第1天你想干什么",
       "onboard_time": 1695863800,
       "rank": 14,
@@ -5921,6 +6001,14 @@
       "onboard_time": 1695517171,
       "rank": 28,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 289871,
+      "num": 289871,
+      "word": "得力回应花西子发疯",
+      "onboard_time": 1695868838,
+      "rank": 24,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 289860,
@@ -7347,6 +7435,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 231727,
+      "num": 231727,
+      "word": "代号鸢 芙蓉帅到我了",
+      "onboard_time": 1695869440,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231106,
       "num": 585569,
       "word": "张博恒的89.299分究竟有多牛",
@@ -7459,6 +7555,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 225685,
+      "num": 225685,
+      "word": "赵嘉豪哭了",
+      "onboard_time": 1695870996,
+      "rank": 31,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 224962,
       "num": 224962,
       "word": "GAI回应被叫延延",
@@ -7561,14 +7665,6 @@
       "onboard_time": 1695802354,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 220482,
-      "num": 369972,
-      "word": "柯洁冲击金牌",
-      "onboard_time": 1695867034,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 220363,
@@ -10515,14 +10611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 155621,
-      "num": 155621,
-      "word": "BP 抽象",
-      "onboard_time": 1695868235,
-      "rank": 40,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 155443,
       "num": 155443,
       "word": "亚运会乒乓球",
@@ -11107,6 +11195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141185,
+      "num": 141185,
+      "word": "敬业狗狗霸气为牛群开路",
+      "onboard_time": 1695868414,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 141060,
       "num": 141060,
       "word": "中国体操女子全能亚运13连冠",
@@ -11417,14 +11513,6 @@
       "onboard_time": 1695630817,
       "rank": 44,
       "category": "科技"
-    },
-    {
-      "raw_hot": 132459,
-      "num": 132459,
-      "word": "敬业狗狗霸气为牛群开路",
-      "onboard_time": 1695868414,
-      "rank": 48,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 132245,
@@ -12419,6 +12507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68723,
+      "num": 444356,
+      "word": "刘德华同款非凡大师开售",
+      "onboard_time": 1695869203,
+      "rank": 15,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 68402,
       "num": 136963,
       "word": "坦克400Hi4T上市",
@@ -12747,6 +12843,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 44437,
+      "num": 158461,
+      "word": "要多可靠你才考虑折叠屏",
+      "onboard_time": 1695870694,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 43333,
       "num": 424719,
       "word": "是谁复活了尼山的璀璨文明",
@@ -12931,6 +13035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29939,
+      "num": 454986,
+      "word": "蛋仔派对新成员",
+      "onboard_time": 1695870040,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 29707,
       "num": 30930,
       "word": "王嘉尔刘宇宁花式互动",
@@ -12969,6 +13081,14 @@
       "onboard_time": 1695699936,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 26714,
+      "num": 162975,
+      "word": "这些亚运赛场故事让人动容",
+      "onboard_time": 1695870577,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 26118,
@@ -13049,6 +13169,14 @@
       "onboard_time": 1695665776,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18159,
+      "num": 1033728,
+      "word": "当千里江山图遇上诗画浙江",
+      "onboard_time": 1695870759,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 17348,

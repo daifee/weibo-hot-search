@@ -1,6 +1,6 @@
 {
   "startTime": 1695831749283,
-  "endTime": 1695868428913,
+  "endTime": 1695871051357,
   "band_list": [
     {
       "raw_hot": 8499613,
@@ -11,11 +11,19 @@
       "category": "美妆,教育"
     },
     {
-      "raw_hot": 3843322,
+      "raw_hot": 4277996,
       "num": 1162941,
       "word": "英雄联盟中国队vs韩国队",
       "onboard_time": 1695863978,
       "rank": 6,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 3824698,
+      "num": 802423,
+      "word": "英雄联盟韩国队晋级决赛",
+      "onboard_time": 1695870277,
+      "rank": 4,
       "category": "游戏,体育"
     },
     {
@@ -43,8 +51,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1687943,
+      "num": 1687943,
+      "word": "泼天的富贵要到文具界了",
+      "onboard_time": 1695861276,
+      "rank": 1,
+      "category": "美妆,社会新闻"
+    },
+    {
       "raw_hot": 1482971,
-      "num": 317388,
+      "num": 330482,
       "word": "性缩力",
       "onboard_time": 1695856651,
       "rank": 20,
@@ -75,6 +91,14 @@
       "category": "美妆,社会新闻"
     },
     {
+      "raw_hot": 1085135,
+      "num": 510815,
+      "word": "朱开",
+      "onboard_time": 1695869979,
+      "rank": 10,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 1049536,
       "num": 1049536,
       "word": "孙杨直播哭了",
@@ -99,6 +123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 935814,
+      "num": 355158,
+      "word": "JDG到底谁在C",
+      "onboard_time": 1695866797,
+      "rank": 18,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 877003,
       "num": 877003,
       "word": "大同未成年欺凌事件同校家长发声",
@@ -121,6 +153,22 @@
       "onboard_time": 1695859476,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 780955,
+      "num": 260309,
+      "word": "Zeus单杀Bin",
+      "onboard_time": 1695868658,
+      "rank": 28,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 720584,
+      "num": 499413,
+      "word": "LPL",
+      "onboard_time": 1695868716,
+      "rank": 11,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 689209,
@@ -155,12 +203,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 569734,
+      "num": 569734,
+      "word": "问心定档",
+      "onboard_time": 1695869078,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 553572,
       "num": 340777,
       "word": "卡塔尔球员围攻裁判",
       "onboard_time": 1695828517,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 527691,
+      "num": 527691,
+      "word": "左手尽力局",
+      "onboard_time": 1695866855,
+      "rank": 16,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 524129,
@@ -227,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434588,
+      "num": 434588,
+      "word": "BP 抽象",
+      "onboard_time": 1695868235,
+      "rank": 40,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 429301,
       "num": 408129,
       "word": "李栋旭太会了",
@@ -243,6 +315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 404965,
+      "num": 404965,
+      "word": "大同欺凌事件校方曾建议三年级以上住校",
+      "onboard_time": 1695869260,
+      "rank": 17,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 400121,
       "num": 400121,
       "word": "浙江人未来一个月的主食",
@@ -251,12 +331,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 382803,
-      "num": 363081,
-      "word": "左手尽力局",
-      "onboard_time": 1695866855,
-      "rank": 16,
-      "category": "游戏,体育"
+      "raw_hot": 384106,
+      "num": 522547,
+      "word": "柯洁冲击金牌",
+      "onboard_time": 1695867034,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 381454,
@@ -283,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370254,
+      "num": 370254,
+      "word": "米勒 生命值",
+      "onboard_time": 1695869620,
+      "rank": 18,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 356197,
       "num": 356197,
       "word": "虞书欣 饿晕噜",
@@ -297,14 +385,6 @@
       "onboard_time": 1695826962,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 355158,
-      "num": 355158,
-      "word": "JDG到底谁在C",
-      "onboard_time": 1695866797,
-      "rank": 18,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 352198,
@@ -332,7 +412,7 @@
     },
     {
       "raw_hot": 338802,
-      "num": 372488,
+      "num": 474634,
       "word": "中秋国庆假期第1天你想干什么",
       "onboard_time": 1695863800,
       "rank": 14,
@@ -427,6 +507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 289871,
+      "num": 289871,
+      "word": "得力回应花西子发疯",
+      "onboard_time": 1695868838,
+      "rank": 24,
+      "category": "社会新闻,美妆"
+    },
+    {
       "raw_hot": 288977,
       "num": 288977,
       "word": "女清洁工手写16万字小说并出版",
@@ -491,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231727,
+      "num": 231727,
+      "word": "代号鸢 芙蓉帅到我了",
+      "onboard_time": 1695869440,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231103,
       "num": 231103,
       "word": "张艺兴张鲁一同框",
@@ -523,12 +619,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 220482,
-      "num": 369972,
-      "word": "柯洁冲击金牌",
-      "onboard_time": 1695867034,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 225685,
+      "num": 225685,
+      "word": "赵嘉豪哭了",
+      "onboard_time": 1695870996,
+      "rank": 31,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 218476,
@@ -723,14 +819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 155621,
-      "num": 155621,
-      "word": "BP 抽象",
-      "onboard_time": 1695868235,
-      "rank": 40,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 155120,
       "num": 155120,
       "word": "这是我认识的国足吗",
@@ -819,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141185,
+      "num": 141185,
+      "word": "敬业狗狗霸气为牛群开路",
+      "onboard_time": 1695868414,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 141010,
       "num": 141010,
       "word": "傅云深求婚还没开始就结束了",
@@ -849,14 +945,6 @@
       "onboard_time": 1695790420,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 132459,
-      "num": 132459,
-      "word": "敬业狗狗霸气为牛群开路",
-      "onboard_time": 1695868414,
-      "rank": 48,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 132188,
@@ -1051,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 68723,
+      "num": 444356,
+      "word": "刘德华同款非凡大师开售",
+      "onboard_time": 1695869203,
+      "rank": 15,
+      "category": "科技,艺人"
+    },
+    {
       "raw_hot": 64023,
       "num": 64023,
       "word": "周冬雨与VOGUE主编合影",
@@ -1067,6 +1163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 44437,
+      "num": 158461,
+      "word": "要多可靠你才考虑折叠屏",
+      "onboard_time": 1695870694,
+      "rank": 43,
+      "category": "科技"
+    },
+    {
       "raw_hot": 36380,
       "num": 36380,
       "word": "卫明不装了",
@@ -1075,12 +1179,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29939,
+      "num": 454986,
+      "word": "蛋仔派对新成员",
+      "onboard_time": 1695870040,
+      "rank": 14,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 26714,
+      "num": 162975,
+      "word": "这些亚运赛场故事让人动容",
+      "onboard_time": 1695870577,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23000,
       "num": 368127,
       "word": "叶诗文的训练日常",
       "onboard_time": 1695866438,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18159,
+      "num": 1033728,
+      "word": "当千里江山图遇上诗画浙江",
+      "onboard_time": 1695870759,
+      "rank": 2,
+      "category": "社会新闻,体育"
     }
   ],
   "hotgov_list": [
