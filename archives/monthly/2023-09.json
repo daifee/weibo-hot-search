@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695925318265,
+  "endTime": 1695926115974,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -73035,6 +73035,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57274,
+      "num": 57274,
+      "word": "陈都灵中式穿搭",
+      "onboard_time": 1695925219,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 57047,
       "num": 589131,
       "word": "女子自学全国方言9年帮数百人寻亲",
@@ -74345,14 +74353,6 @@
       "onboard_time": 1693735236,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35499,
-      "num": 53518,
-      "word": "陈都灵中式穿搭",
-      "onboard_time": 1695925219,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 35357,

@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695925318265,
+  "endTime": 1695926115974,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -14819,6 +14819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 57274,
+      "num": 57274,
+      "word": "陈都灵中式穿搭",
+      "onboard_time": 1695925219,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 56643,
       "num": 56643,
       "word": "为中国加油",
@@ -15145,14 +15153,6 @@
       "onboard_time": 1695884434,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35499,
-      "num": 53518,
-      "word": "陈都灵中式穿搭",
-      "onboard_time": 1695925219,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 34773,
