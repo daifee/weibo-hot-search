@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695867757102,
+  "endTime": 1695868428913,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -83,6 +83,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 3843322,
+      "num": 1162941,
+      "word": "英雄联盟中国队vs韩国队",
+      "onboard_time": 1695810812,
+      "rank": 33,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 3549026,
       "num": 3549026,
       "word": "休8天上7天你怎么看",
@@ -105,14 +113,6 @@
       "onboard_time": 1695790420,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 3062107,
-      "num": 1162941,
-      "word": "英雄联盟中国队vs韩国队",
-      "onboard_time": 1695810812,
-      "rank": 33,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 2980643,
@@ -297,6 +297,14 @@
       "onboard_time": 1695530674,
       "rank": 0,
       "category": "游戏,动漫"
+    },
+    {
+      "raw_hot": 2122769,
+      "num": 375632,
+      "word": "肯德基 檀健次",
+      "onboard_time": 1695867514,
+      "rank": 15,
+      "category": "艺人,美食"
     },
     {
       "raw_hot": 2096316,
@@ -1435,14 +1443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 876769,
-      "num": 336185,
-      "word": "肯德基 檀健次",
-      "onboard_time": 1695867514,
-      "rank": 15,
-      "category": "艺人,美食"
-    },
-    {
       "raw_hot": 869563,
       "num": 869563,
       "word": "专家认为大同欺凌事件属于性强暴",
@@ -1705,6 +1705,14 @@
       "onboard_time": 1695650918,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 794251,
+      "num": 794251,
+      "word": "逆水寒 开门啊",
+      "onboard_time": 1695868113,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 792052,
@@ -4484,7 +4492,7 @@
     },
     {
       "raw_hot": 382803,
-      "num": 333895,
+      "num": 363081,
       "word": "左手尽力局",
       "onboard_time": 1695866855,
       "rank": 16,
@@ -4545,6 +4553,14 @@
       "onboard_time": 1695818555,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 377775,
+      "num": 363498,
+      "word": "张鲁一应聘张艺谋导演作品",
+      "onboard_time": 1695866736,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 375166,
@@ -4803,6 +4819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355158,
+      "num": 355158,
+      "word": "JDG到底谁在C",
+      "onboard_time": 1695866797,
+      "rank": 18,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 354936,
       "num": 354936,
       "word": "异人之下老人给小孩在家换血",
@@ -4969,6 +4993,14 @@
       "onboard_time": 1695819936,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338802,
+      "num": 372488,
+      "word": "中秋国庆假期第1天你想干什么",
+      "onboard_time": 1695863800,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338711,
@@ -5211,14 +5243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 326477,
-      "num": 326477,
-      "word": "JDG到底谁在C",
-      "onboard_time": 1695866797,
-      "rank": 18,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 325917,
       "num": 325917,
       "word": "预制菜",
@@ -5257,14 +5281,6 @@
       "onboard_time": 1695613956,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 322229,
-      "num": 322229,
-      "word": "张鲁一应聘张艺谋导演作品",
-      "onboard_time": 1695866736,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 321809,
@@ -5417,6 +5433,14 @@
       "onboard_time": 1695719376,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314884,
+      "num": 314884,
+      "word": "英雄联盟直播",
+      "onboard_time": 1695867336,
+      "rank": 35,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 314847,
@@ -6288,14 +6312,6 @@
       "word": "婆婆1天走丢3次民警熟练送回",
       "onboard_time": 1695828456,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273265,
-      "num": 372451,
-      "word": "中秋国庆假期第1天你想干什么",
-      "onboard_time": 1695863800,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -7547,6 +7563,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 220482,
+      "num": 369972,
+      "word": "柯洁冲击金牌",
+      "onboard_time": 1695867034,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220363,
       "num": 220363,
       "word": "教育部称对预制菜进校园持审慎态度",
@@ -8433,14 +8457,6 @@
       "onboard_time": 1695743499,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201730,
-      "num": 201730,
-      "word": "英雄联盟直播",
-      "onboard_time": 1695867336,
-      "rank": 35,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 201701,
@@ -9907,14 +9923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170955,
-      "num": 170955,
-      "word": "柯洁冲击金牌",
-      "onboard_time": 1695867034,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170950,
       "num": 170950,
       "word": "黄奕巴黎时装周首套造型",
@@ -10505,6 +10513,14 @@
       "onboard_time": 1695600753,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155621,
+      "num": 155621,
+      "word": "BP 抽象",
+      "onboard_time": 1695868235,
+      "rank": 40,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 155443,
@@ -11401,6 +11417,14 @@
       "onboard_time": 1695630817,
       "rank": 44,
       "category": "科技"
+    },
+    {
+      "raw_hot": 132459,
+      "num": 132459,
+      "word": "敬业狗狗霸气为牛群开路",
+      "onboard_time": 1695868414,
+      "rank": 48,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 132245,
@@ -12995,6 +13019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 23000,
+      "num": 368127,
+      "word": "叶诗文的训练日常",
+      "onboard_time": 1695866438,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22758,
       "num": 206230,
       "word": "沉浸式感受尼山国潮之美",
@@ -13008,14 +13040,6 @@
       "word": "马龙乒乓神操作看呆众人",
       "onboard_time": 1695668535,
       "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 22056,
-      "num": 341827,
-      "word": "叶诗文的训练日常",
-      "onboard_time": 1695866438,
-      "rank": 14,
       "category": "体育"
     },
     {

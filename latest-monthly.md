@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 10:22:37
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/28 10:33:48
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ UFO（热度：4690158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%E9%98%9F%23" target="weibo">
+英雄联盟中国队vs韩国队（热度：3843322）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%8A%9F%E5%8B%8B%E9%97%B4%E8%B0%8D%E5%9C%A8%E5%8D%8E%E8%90%BD%E7%BD%91%23" target="weibo">
 美国功勋间谍在华落网（热度：3797739）
 </a>
@@ -545,12 +551,6 @@ TTG夺冠（热度：3473689）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%9B%9DLisa%E6%8B%92%E7%BB%9D%E5%92%8CYG%E7%BB%AD%E7%BA%A6%23" target="weibo">
 外媒曝Lisa拒绝和YG续约（热度：3062392）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%E9%98%9F%23" target="weibo">
-英雄联盟中国队vs韩国队（热度：3062107）
 </a>
 </li>
 
@@ -1643,6 +1643,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15%E5%9B%BD%E8%A1%8C%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23" target="weibo">
 iPhone15国行售价曝光（热度：2123680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%20%E6%AA%80%E5%81%A5%E6%AC%A1%23" target="weibo">
+肯德基 檀健次（热度：2122769）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLACKPINK QQ音乐（热度：1014155）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E5%88%9A%E5%B1%A5%E6%96%B0%23" target="weibo">
 霍启刚履新（热度：1012866）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E6%AC%A1%E6%80%A7%E5%86%85%E8%A3%A4%E7%9C%9F%E7%9A%84%E5%8D%AB%E7%94%9F%E5%90%97%23" target="weibo">
-一次性内裤真的卫生吗（热度：1012862）
 </a>
 </li>
 
