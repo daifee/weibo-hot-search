@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695994436583,
+  "endTime": 1695996871665,
   "band_list": [
     {
       "raw_hot": 9774315,
@@ -35,6 +35,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 3860432,
+      "num": 3860432,
+      "word": "杨幂旗袍 古韵美人",
+      "onboard_time": 1695994002,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2702783,
       "num": 1682967,
       "word": "湖南中秋之夜节目单 换顺序",
@@ -49,14 +57,6 @@
       "onboard_time": 1695984995,
       "rank": 30,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 2001759,
-      "num": 469853,
-      "word": "杨幂旗袍 古韵美人",
-      "onboard_time": 1695994002,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1957753,
@@ -363,6 +363,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 782769,
+      "num": 782769,
+      "word": "张含韵枪掉了",
+      "onboard_time": 1695993526,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 782564,
       "num": 419522,
       "word": "许家印可能涉嫌多项罪名",
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 764517,
+      "num": 764517,
+      "word": "破音",
+      "onboard_time": 1695995742,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 758633,
       "num": 758633,
       "word": "黄轩 疯批",
@@ -435,20 +451,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 738492,
-      "num": 430355,
-      "word": "张含韵枪掉了",
-      "onboard_time": 1695993526,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 725287,
-      "num": 725287,
+      "num": 778072,
       "word": "王楚钦小心翼翼试探生气的教练",
       "onboard_time": 1695993883,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 715701,
+      "num": 715701,
+      "word": "马嘉祺开麦",
+      "onboard_time": 1695995382,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 708415,
@@ -489,6 +505,14 @@
       "onboard_time": 1695985714,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673307,
+      "num": 673307,
+      "word": "不染",
+      "onboard_time": 1695995742,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 666206,
@@ -635,6 +659,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 567559,
+      "num": 280387,
+      "word": "张杰音乐节开成演唱会",
+      "onboard_time": 1695994421,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 563846,
       "num": 563846,
       "word": "杨幂巴黎秋日穿搭",
@@ -729,6 +761,14 @@
       "onboard_time": 1695974433,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 489519,
+      "num": 279959,
+      "word": "周深爆了个气球",
+      "onboard_time": 1695994780,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 478646,
@@ -899,20 +939,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422967,
+      "num": 774479,
+      "word": "张雨霏哭了",
+      "onboard_time": 1695994002,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 416682,
       "num": 416682,
       "word": "她俩眼神真的不清白",
       "onboard_time": 1695905983,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 412134,
-      "num": 412134,
-      "word": "张雨霏哭了",
-      "onboard_time": 1695994002,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 408771,
@@ -1203,6 +1243,14 @@
       "category": "体育,游戏"
     },
     {
+      "raw_hot": 347203,
+      "num": 201023,
+      "word": "毛不易孙悦唱祝你平安",
+      "onboard_time": 1695996039,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341968,
       "num": 484743,
       "word": "马龙的简历长到让鼠标冒火星子",
@@ -1337,14 +1385,6 @@
       "onboard_time": 1695992498,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 300263,
-      "num": 258648,
-      "word": "张杰音乐节开成演唱会",
-      "onboard_time": 1695994421,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 300252,
@@ -1651,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249331,
+      "num": 199004,
+      "word": "汪苏泷王莉 好听",
+      "onboard_time": 1695996581,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249159,
       "num": 249159,
       "word": "21年前的吴敏霞好飒",
@@ -1753,6 +1801,14 @@
       "onboard_time": 1695980791,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222436,
+      "num": 222436,
+      "word": "苏炳添解说",
+      "onboard_time": 1695996039,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 221923,
@@ -1979,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201466,
+      "num": 201466,
+      "word": "起猛了奥尼尔在跳霍元甲",
+      "onboard_time": 1695993703,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200362,
       "num": 200362,
       "word": "雷佳音说要演于和伟老婆",
@@ -2017,6 +2081,14 @@
       "onboard_time": 1695993584,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 197290,
+      "num": 197290,
+      "word": "英雄联盟颁奖",
+      "onboard_time": 1695996581,
+      "rank": 45,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 196940,
@@ -2273,6 +2345,14 @@
       "onboard_time": 1695910722,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171612,
+      "num": 197287,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1695995979,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 170661,
@@ -2603,6 +2683,22 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 127666,
+      "num": 198788,
+      "word": "巩立姣亚运三连冠",
+      "onboard_time": 1695996279,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127473,
+      "num": 4493350,
+      "word": "月圆中秋夜团圆共此时",
+      "onboard_time": 1695994541,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127090,
       "num": 3236268,
       "word": "玉兔二号发来月球风景照",
@@ -2737,6 +2833,14 @@
       "onboard_time": 1695902496,
       "rank": 48,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 58756,
+      "num": 200150,
+      "word": "原神生日会",
+      "onboard_time": 1695996459,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 49098,

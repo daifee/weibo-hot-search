@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695994436583,
+  "endTime": 1695996871665,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -161,6 +161,14 @@
       "onboard_time": 1695810812,
       "rank": 33,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 3860432,
+      "num": 3860432,
+      "word": "杨幂旗袍 古韵美人",
+      "onboard_time": 1695994002,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3549026,
@@ -481,14 +489,6 @@
       "onboard_time": 1695699095,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2001759,
-      "num": 469853,
-      "word": "杨幂旗袍 古韵美人",
-      "onboard_time": 1695994002,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1988318,
@@ -2491,6 +2491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 782769,
+      "num": 782769,
+      "word": "张含韵枪掉了",
+      "onboard_time": 1695993526,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 782048,
       "num": 782048,
       "word": "孙培原连续三届夺金",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1695811772,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 764517,
+      "num": 764517,
+      "word": "破音",
+      "onboard_time": 1695995742,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 763381,
@@ -2795,14 +2811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 738492,
-      "num": 430355,
-      "word": "张含韵枪掉了",
-      "onboard_time": 1695993526,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 736472,
       "num": 444645,
       "word": "黄景瑜回复张婧仪",
@@ -2860,7 +2868,7 @@
     },
     {
       "raw_hot": 725287,
-      "num": 725287,
+      "num": 778072,
       "word": "王楚钦小心翼翼试探生气的教练",
       "onboard_time": 1695993883,
       "rank": 7,
@@ -2929,6 +2937,14 @@
       "onboard_time": 1695702999,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 715701,
+      "num": 715701,
+      "word": "马嘉祺开麦",
+      "onboard_time": 1695995382,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 715558,
@@ -3249,6 +3265,14 @@
       "onboard_time": 1695985714,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673307,
+      "num": 673307,
+      "word": "不染",
+      "onboard_time": 1695995742,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 672688,
@@ -4115,6 +4139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 567559,
+      "num": 280387,
+      "word": "张杰音乐节开成演唱会",
+      "onboard_time": 1695994421,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 567083,
       "num": 362512,
       "word": "SEVENTEEN删除长城预告",
@@ -4913,6 +4945,14 @@
       "onboard_time": 1695743677,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 489519,
+      "num": 279959,
+      "word": "周深爆了个气球",
+      "onboard_time": 1695994780,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 486794,
@@ -5835,6 +5875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422967,
+      "num": 774479,
+      "word": "张雨霏哭了",
+      "onboard_time": 1695994002,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420068,
       "num": 420068,
       "word": "王者荣耀比赛",
@@ -5929,14 +5977,6 @@
       "onboard_time": 1695536013,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 412134,
-      "num": 412134,
-      "word": "张雨霏哭了",
-      "onboard_time": 1695994002,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 412012,
@@ -6985,6 +7025,14 @@
       "onboard_time": 1695956311,
       "rank": 30,
       "category": "体育,游戏"
+    },
+    {
+      "raw_hot": 347203,
+      "num": 201023,
+      "word": "毛不易孙悦唱祝你平安",
+      "onboard_time": 1695996039,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 346718,
@@ -8097,14 +8145,6 @@
       "onboard_time": 1695731739,
       "rank": 26,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 300263,
-      "num": 258648,
-      "word": "张杰音乐节开成演唱会",
-      "onboard_time": 1695994421,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 300137,
@@ -9795,6 +9835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 249331,
+      "num": 199004,
+      "word": "汪苏泷王莉 好听",
+      "onboard_time": 1695996581,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249326,
       "num": 719077,
       "word": "中国游泳队杭州亚运第21金",
@@ -10657,6 +10705,14 @@
       "onboard_time": 1695537333,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222436,
+      "num": 222436,
+      "word": "苏炳添解说",
+      "onboard_time": 1695996039,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 221949,
@@ -11907,6 +11963,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201466,
+      "num": 201466,
+      "word": "起猛了奥尼尔在跳霍元甲",
+      "onboard_time": 1695993703,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201428,
       "num": 201428,
       "word": "i人和e人打游戏的区别",
@@ -12169,6 +12233,14 @@
       "onboard_time": 1695723698,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197290,
+      "num": 197290,
+      "word": "英雄联盟颁奖",
+      "onboard_time": 1695996581,
+      "rank": 45,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 197288,
@@ -13753,6 +13825,14 @@
       "onboard_time": 1695777575,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171612,
+      "num": 197287,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1695995979,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 171445,
@@ -15835,12 +15915,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127666,
+      "num": 198788,
+      "word": "巩立姣亚运三连冠",
+      "onboard_time": 1695996279,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127556,
       "num": 127556,
       "word": "坚如磐石 狼群与哈士奇",
       "onboard_time": 1695898591,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127473,
+      "num": 4493350,
+      "word": "月圆中秋夜团圆共此时",
+      "onboard_time": 1695994541,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127090,
@@ -17065,6 +17161,14 @@
       "onboard_time": 1695661342,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58756,
+      "num": 200150,
+      "word": "原神生日会",
+      "onboard_time": 1695996459,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 58547,

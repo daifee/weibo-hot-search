@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1695994436583,
+  "endTime": 1695996871665,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -457,6 +457,14 @@
       "onboard_time": 1694619940,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3860432,
+      "num": 3860432,
+      "word": "杨幂旗袍 古韵美人",
+      "onboard_time": 1695994002,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 3797739,
@@ -2697,14 +2705,6 @@
       "onboard_time": 1695027758,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2001759,
-      "num": 469853,
-      "word": "杨幂旗袍 古韵美人",
-      "onboard_time": 1695994002,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2000601,
@@ -12331,6 +12331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 782769,
+      "num": 782769,
+      "word": "张含韵枪掉了",
+      "onboard_time": 1695993526,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 782048,
       "num": 782048,
       "word": "孙培原连续三届夺金",
@@ -12801,6 +12809,14 @@
       "onboard_time": 1695811772,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 764517,
+      "num": 764517,
+      "word": "破音",
+      "onboard_time": 1695995742,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 764138,
@@ -13483,14 +13499,6 @@
       "category": "音乐,时尚"
     },
     {
-      "raw_hot": 738492,
-      "num": 430355,
-      "word": "张含韵枪掉了",
-      "onboard_time": 1695993526,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 738471,
       "num": 738471,
       "word": "张杰觉得自己自恋时期是个疯子",
@@ -13860,7 +13868,7 @@
     },
     {
       "raw_hot": 725287,
-      "num": 725287,
+      "num": 778072,
       "word": "王楚钦小心翼翼试探生气的教练",
       "onboard_time": 1695993883,
       "rank": 7,
@@ -14121,6 +14129,14 @@
       "onboard_time": 1694666505,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 715701,
+      "num": 715701,
+      "word": "马嘉祺开麦",
+      "onboard_time": 1695995382,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 715558,
@@ -15425,6 +15441,14 @@
       "onboard_time": 1695985714,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 673307,
+      "num": 673307,
+      "word": "不染",
+      "onboard_time": 1695995742,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 672688,
@@ -19411,6 +19435,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 567559,
+      "num": 280387,
+      "word": "张杰音乐节开成演唱会",
+      "onboard_time": 1695994421,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 567273,
       "num": 567273,
       "word": "异人之下不高兴了就一人一下",
@@ -23377,6 +23409,14 @@
       "onboard_time": 1694253035,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 489519,
+      "num": 279959,
+      "word": "周深爆了个气球",
+      "onboard_time": 1695994780,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 489271,
@@ -27659,6 +27699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 422967,
+      "num": 774479,
+      "word": "张雨霏哭了",
+      "onboard_time": 1695994002,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 422865,
       "num": 422865,
       "word": "刘大美人直播卖888的手机网上630能买到",
@@ -28449,14 +28497,6 @@
       "onboard_time": 1695270339,
       "rank": 26,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 412134,
-      "num": 412134,
-      "word": "张雨霏哭了",
-      "onboard_time": 1695994002,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 412012,
@@ -33281,6 +33321,14 @@
       "onboard_time": 1694486016,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 347203,
+      "num": 201023,
+      "word": "毛不易孙悦唱祝你平安",
+      "onboard_time": 1695996039,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 347177,
@@ -38353,14 +38401,6 @@
       "onboard_time": 1693727315,
       "rank": 26,
       "category": "影视"
-    },
-    {
-      "raw_hot": 300263,
-      "num": 258648,
-      "word": "张杰音乐节开成演唱会",
-      "onboard_time": 1695994421,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 300166,
@@ -45187,6 +45227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 249331,
+      "num": 199004,
+      "word": "汪苏泷王莉 好听",
+      "onboard_time": 1695996581,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249326,
       "num": 719077,
       "word": "中国游泳队杭州亚运第21金",
@@ -49665,6 +49713,14 @@
       "onboard_time": 1694880933,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 222436,
+      "num": 222436,
+      "word": "苏炳添解说",
+      "onboard_time": 1695996039,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 222415,
@@ -54667,6 +54723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201466,
+      "num": 201466,
+      "word": "起猛了奥尼尔在跳霍元甲",
+      "onboard_time": 1695993703,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201461,
       "num": 201461,
       "word": "张雨绮米兰时装周首套造型",
@@ -55985,6 +56049,14 @@
       "onboard_time": 1693972778,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 197290,
+      "num": 197290,
+      "word": "英雄联盟颁奖",
+      "onboard_time": 1695996581,
+      "rank": 45,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 197288,
@@ -59044,7 +59116,7 @@
     },
     {
       "raw_hot": 187465,
-      "num": 187465,
+      "num": 197287,
       "word": "崩坏星穹铁道",
       "onboard_time": 1695186161,
       "rank": 38,
@@ -70411,6 +70483,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 127666,
+      "num": 198788,
+      "word": "巩立姣亚运三连冠",
+      "onboard_time": 1695996279,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127601,
       "num": 689176,
       "word": "安徽为什么叫新能源汽车之都",
@@ -70449,6 +70529,14 @@
       "onboard_time": 1695060078,
       "rank": 36,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127473,
+      "num": 4493350,
+      "word": "月圆中秋夜团圆共此时",
+      "onboard_time": 1695994541,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127181,
@@ -75185,6 +75273,14 @@
       "onboard_time": 1694625443,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 58756,
+      "num": 200150,
+      "word": "原神生日会",
+      "onboard_time": 1695996459,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 58547,
