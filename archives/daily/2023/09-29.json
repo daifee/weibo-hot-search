@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695951113310,
+  "endTime": 1695954187484,
   "band_list": [
     {
       "raw_hot": 1850005,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1188218,
-      "num": 809071,
+      "num": 1059986,
       "word": "林依轮被嘉兴服务区征服了",
       "onboard_time": 1695948632,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1695911380,
       "rank": 11,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 1079348,
+      "num": 1079348,
+      "word": "堵车",
+      "onboard_time": 1695952289,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 882163,
@@ -107,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 756739,
+      "num": 600756,
+      "word": "恒大员工回应许家印被采取强制措施",
+      "onboard_time": 1695947792,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 738661,
       "num": 738661,
       "word": "王冰冰的衣服上到底写了啥",
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 708415,
-      "num": 437374,
+      "num": 449513,
       "word": "在韩国感受到了卫生巾贫困",
       "onboard_time": 1695944606,
       "rank": 11,
@@ -139,14 +155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 691013,
-      "num": 494679,
-      "word": "恒大员工回应许家印被采取强制措施",
-      "onboard_time": 1695947792,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 666206,
       "num": 640730,
       "word": "许家印身家已缩水超90%",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 616871,
-      "num": 451522,
+      "num": 485475,
       "word": "封神 再不洗袜子怕是要失去他了",
       "onboard_time": 1695945690,
       "rank": 16,
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401986,
+      "num": 401986,
+      "word": "池昌旭新剧开播 吃醋戏码",
+      "onboard_time": 1695953310,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401741,
       "num": 401741,
       "word": "天津大姨盘头",
@@ -323,6 +339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 328627,
+      "num": 328627,
+      "word": "虞书欣徐明浩加起来是seventeen",
+      "onboard_time": 1695950670,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 328196,
       "num": 328196,
       "word": "原来这就是中医把脉的科学性",
@@ -331,12 +355,36 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 327877,
+      "num": 484743,
+      "word": "马龙的简历长到让鼠标冒火星子",
+      "onboard_time": 1695944070,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 300252,
       "num": 300252,
       "word": "前任4",
       "onboard_time": 1695906523,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299538,
+      "num": 244419,
+      "word": "彼岸花过于旺盛 反而有点恐怖",
+      "onboard_time": 1695953071,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 293482,
+      "num": 293482,
+      "word": "放假聪明人",
+      "onboard_time": 1695951632,
+      "rank": 24,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 291500,
@@ -363,14 +411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 281544,
-      "num": 472444,
-      "word": "马龙的简历长到让鼠标冒火星子",
-      "onboard_time": 1695944070,
-      "rank": 14,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 279076,
       "num": 279076,
       "word": "奥尼尔称自己是半个中国人",
@@ -379,12 +419,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269426,
+      "num": 269426,
+      "word": "原来我们错怪五仁月饼了",
+      "onboard_time": 1695953431,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 264286,
       "num": 264286,
       "word": "因证据不足14岁女孩被认定为卖淫女",
       "onboard_time": 1695883237,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260876,
+      "num": 260876,
+      "word": "侯明昊 我想要去直面自己",
+      "onboard_time": 1695951451,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 256637,
@@ -403,6 +459,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251034,
+      "num": 251034,
+      "word": "Angelababy金色链条丝绸长裙",
+      "onboard_time": 1695951814,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 227384,
+      "num": 227384,
+      "word": "五条悟被封印",
+      "onboard_time": 1695950972,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 221923,
+      "num": 221923,
+      "word": "小猫被救起来之后疯狂在怀里撒娇",
+      "onboard_time": 1695950251,
+      "rank": 32,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 219688,
       "num": 219688,
       "word": "国庆假门还没出就亏了3500元",
@@ -419,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215651,
+      "num": 215651,
+      "word": "邓布利多之死",
+      "onboard_time": 1695952232,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212767,
       "num": 212767,
       "word": "恒大地产未能清偿债务累计约2785.32亿",
@@ -427,12 +515,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 203982,
-      "num": 203982,
-      "word": "小猫被救起来之后疯狂在怀里撒娇",
-      "onboard_time": 1695950251,
-      "rank": 32,
-      "category": "动物萌宠"
+      "raw_hot": 206844,
+      "num": 206844,
+      "word": "任柯明 我的礼服被艺人造型师诈骗了",
+      "onboard_time": 1695953013,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 201939,
+      "num": 201939,
+      "word": "明月出天山震撼画面",
+      "onboard_time": 1695953613,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196940,
@@ -457,14 +553,6 @@
       "onboard_time": 1695943287,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 192024,
-      "num": 222215,
-      "word": "虞书欣徐明浩加起来是seventeen",
-      "onboard_time": 1695950670,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 190997,
@@ -529,6 +617,14 @@
       "onboard_time": 1695913238,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 175077,
+      "num": 175077,
+      "word": "谁来管管黄景瑜的嘴",
+      "onboard_time": 1695953013,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 172361,
@@ -619,6 +715,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 153418,
+      "num": 153418,
+      "word": "谭维维珍珠项链",
+      "onboard_time": 1695953909,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149409,
+      "num": 149409,
+      "word": "被李昀锐封神面试视频笑死",
+      "onboard_time": 1695954090,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147950,
       "num": 147950,
       "word": "Angelababy中秋月神下凡",
@@ -659,20 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133361,
-      "num": 133361,
+      "raw_hot": 142500,
+      "num": 142500,
       "word": "中秋祝福",
       "onboard_time": 1695944727,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 131566,
-      "num": 131566,
-      "word": "五条悟被封印",
-      "onboard_time": 1695950972,
-      "rank": 46,
-      "category": "动漫"
     },
     {
       "raw_hot": 130783,
@@ -713,6 +817,14 @@
       "onboard_time": 1695943646,
       "rank": 39,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 95188,
+      "num": 488918,
+      "word": "团圆路上的真情一刻",
+      "onboard_time": 1695952653,
+      "rank": 10,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 88867,
@@ -764,7 +876,7 @@
     },
     {
       "raw_hot": 42453,
-      "num": 936550,
+      "num": 1060345,
       "word": "杭州亚运赛场燃情瞬间",
       "onboard_time": 1695900993,
       "rank": 2,
