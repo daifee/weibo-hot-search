@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695949898689,
+  "endTime": 1695951113310,
   "band_list": [
     {
       "raw_hot": 1850005,
@@ -19,8 +19,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 1601780,
-      "num": 415045,
+      "raw_hot": 1649351,
+      "num": 503545,
       "word": "许家印二儿子许滕鹤被带走",
       "onboard_time": 1695946410,
       "rank": 8,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1188218,
-      "num": 379302,
+      "num": 809071,
       "word": "林依轮被嘉兴服务区征服了",
       "onboard_time": 1695948632,
       "rank": 10,
@@ -91,20 +91,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 768859,
+      "num": 768859,
+      "word": "霍启刚这么恋爱脑吗",
+      "onboard_time": 1695943225,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 766595,
       "num": 425246,
       "word": "成毅 突然出现",
       "onboard_time": 1695913540,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 744057,
-      "num": 744057,
-      "word": "霍启刚这么恋爱脑吗",
-      "onboard_time": 1695943225,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 738661,
@@ -116,23 +116,39 @@
     },
     {
       "raw_hot": 708415,
-      "num": 372936,
+      "num": 437374,
       "word": "在韩国感受到了卫生巾贫困",
       "onboard_time": 1695944606,
       "rank": 11,
       "category": "情感"
     },
     {
-      "raw_hot": 668748,
-      "num": 668748,
+      "raw_hot": 706899,
+      "num": 706899,
+      "word": "周扬青的家可以办潮玩展了",
+      "onboard_time": 1695945751,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 699713,
+      "num": 699713,
       "word": "中秋节快乐",
       "onboard_time": 1695944548,
       "rank": 4,
       "category": "情感"
     },
     {
+      "raw_hot": 691013,
+      "num": 494679,
+      "word": "恒大员工回应许家印被采取强制措施",
+      "onboard_time": 1695947792,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666206,
-      "num": 361131,
+      "num": 640730,
       "word": "许家印身家已缩水超90%",
       "onboard_time": 1695944005,
       "rank": 30,
@@ -147,28 +163,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 625401,
-      "num": 625401,
-      "word": "周扬青的家可以办潮玩展了",
-      "onboard_time": 1695945751,
-      "rank": 5,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 616871,
-      "num": 357022,
+      "num": 451522,
       "word": "封神 再不洗袜子怕是要失去他了",
       "onboard_time": 1695945690,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 611361,
-      "num": 205154,
-      "word": "恒大员工回应许家印被采取强制措施",
-      "onboard_time": 1695947792,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 609204,
@@ -179,8 +179,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 590319,
-      "num": 590319,
+      "raw_hot": 594438,
+      "num": 594438,
       "word": "中秋节",
       "onboard_time": 1695943467,
       "rank": 3,
@@ -203,8 +203,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513456,
+      "num": 513456,
+      "word": "中国妇女报评前任4",
+      "onboard_time": 1695947432,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 498833,
-      "num": 353625,
+      "num": 427197,
       "word": "王俊凯下车镜头",
       "onboard_time": 1695943830,
       "rank": 41,
@@ -235,14 +243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422714,
-      "num": 422714,
-      "word": "中国妇女报评前任4",
-      "onboard_time": 1695947432,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 416682,
       "num": 416682,
       "word": "她俩眼神真的不清白",
@@ -267,6 +267,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 400588,
+      "num": 400588,
+      "word": "江苏薪酬",
+      "onboard_time": 1695948451,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 390527,
       "num": 390527,
       "word": "舒肤佳 檀健次",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 387276,
-      "num": 347410,
+      "num": 381487,
       "word": "婴儿呛奶育婴师拍打其后脑用剪刀扎脚",
       "onboard_time": 1695946290,
       "rank": 19,
@@ -299,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344093,
-      "num": 344093,
-      "word": "江苏薪酬",
-      "onboard_time": 1695948451,
-      "rank": 20,
-      "category": "财经"
+      "raw_hot": 354710,
+      "num": 354710,
+      "word": "林双卫明离婚",
+      "onboard_time": 1695947130,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 340191,
@@ -323,19 +331,19 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 322996,
-      "num": 322996,
-      "word": "林双卫明离婚",
-      "onboard_time": 1695947130,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 300252,
       "num": 300252,
       "word": "前任4",
       "onboard_time": 1695906523,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 291500,
+      "num": 291500,
+      "word": "伯远 好的恋人能像朋友一般自洽相处",
+      "onboard_time": 1695949594,
+      "rank": 36,
       "category": "电影"
     },
     {
@@ -347,6 +355,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283493,
+      "num": 483625,
+      "word": "中秋节国庆节双倍快乐",
+      "onboard_time": 1695944368,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281544,
+      "num": 472444,
+      "word": "马龙的简历长到让鼠标冒火星子",
+      "onboard_time": 1695944070,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 279076,
       "num": 279076,
       "word": "奥尼尔称自己是半个中国人",
@@ -355,28 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270657,
-      "num": 369274,
-      "word": "中秋节国庆节双倍快乐",
-      "onboard_time": 1695944368,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 264286,
       "num": 264286,
       "word": "因证据不足14岁女孩被认定为卖淫女",
       "onboard_time": 1695883237,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256817,
-      "num": 362936,
-      "word": "马龙的简历长到让鼠标冒火星子",
-      "onboard_time": 1695944070,
-      "rank": 14,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 256637,
@@ -419,6 +427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 203982,
+      "num": 203982,
+      "word": "小猫被救起来之后疯狂在怀里撒娇",
+      "onboard_time": 1695950251,
+      "rank": 32,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 196940,
       "num": 196940,
       "word": "没想到有一天室友变亲戚了",
@@ -443,12 +459,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192024,
+      "num": 222215,
+      "word": "虞书欣徐明浩加起来是seventeen",
+      "onboard_time": 1695950670,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190997,
       "num": 190997,
       "word": "公司发的月饼像超市的试吃区",
       "onboard_time": 1695914379,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 189205,
+      "num": 189205,
+      "word": "起猛了看见安徽有龙在飞",
+      "onboard_time": 1695950133,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 187861,
@@ -523,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168714,
-      "num": 168714,
-      "word": "伯远 好的恋人能像朋友一般自洽相处",
-      "onboard_time": 1695949594,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 164933,
       "num": 422291,
       "word": "中国队男子4×100自由泳接力金牌",
@@ -595,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147950,
+      "num": 147950,
+      "word": "Angelababy中秋月神下凡",
+      "onboard_time": 1695949773,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146490,
       "num": 146490,
       "word": "我们的歌第五季阵容官宣",
@@ -627,6 +659,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133361,
+      "num": 133361,
+      "word": "中秋祝福",
+      "onboard_time": 1695944727,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 131566,
+      "num": 131566,
+      "word": "五条悟被封印",
+      "onboard_time": 1695950972,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 130783,
       "num": 420080,
       "word": "庆祝中华人民共和国成立74周年招待会",
@@ -643,20 +691,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123076,
-      "num": 123076,
-      "word": "中秋祝福",
-      "onboard_time": 1695944727,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 120009,
-      "num": 120009,
-      "word": "Angelababy中秋月神下凡",
-      "onboard_time": 1695949773,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 116912,
+      "num": 116912,
+      "word": "那英说周迅嗓音是因为变声期",
+      "onboard_time": 1695943946,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 114738,
@@ -689,14 +729,6 @@
       "onboard_time": 1695940520,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 76511,
-      "num": 76511,
-      "word": "那英说周迅嗓音是因为变声期",
-      "onboard_time": 1695943946,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 74286,

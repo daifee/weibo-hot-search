@@ -1,0 +1,410 @@
+{
+  "runTime": 1695951113310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1520108,
+        "num": 1520108,
+        "word": "月饼今年卖不动了",
+        "onboard_time": 1695918330,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 901547,
+        "num": 901547,
+        "word": "高速",
+        "onboard_time": 1695911142,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30888,
+        "num": 816778,
+        "word": "杭州亚运赛场燃情瞬间",
+        "onboard_time": 1695900993,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 944661,
+        "num": 809071,
+        "word": "林依轮被嘉兴服务区征服了",
+        "onboard_time": 1695948632,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768859,
+        "num": 768859,
+        "word": "霍启刚这么恋爱脑吗",
+        "onboard_time": 1695943225,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 706899,
+        "num": 706899,
+        "word": "周扬青的家可以办潮玩展了",
+        "onboard_time": 1695945751,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 699713,
+        "num": 699713,
+        "word": "中秋节快乐",
+        "onboard_time": 1695944548,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 640730,
+        "num": 640730,
+        "word": "许家印身家已缩水超90%",
+        "onboard_time": 1695944005,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594438,
+        "num": 594438,
+        "word": "中秋节",
+        "onboard_time": 1695943467,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 513456,
+        "num": 513456,
+        "word": "中国妇女报评前任4",
+        "onboard_time": 1695947432,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1649351,
+        "num": 503545,
+        "word": "许家印二儿子许滕鹤被带走",
+        "onboard_time": 1695946410,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 691013,
+        "num": 494679,
+        "word": "恒大员工回应许家印被采取强制措施",
+        "onboard_time": 1695947792,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283493,
+        "num": 483625,
+        "word": "中秋节国庆节双倍快乐",
+        "onboard_time": 1695944368,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281544,
+        "num": 472444,
+        "word": "马龙的简历长到让鼠标冒火星子",
+        "onboard_time": 1695944070,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 204392,
+        "num": 462599,
+        "word": "别人的是简历马龙的是繁历",
+        "onboard_time": 1695915335,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 613655,
+        "num": 451522,
+        "word": "封神 再不洗袜子怕是要失去他了",
+        "onboard_time": 1695945690,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597379,
+        "num": 437374,
+        "word": "在韩国感受到了卫生巾贫困",
+        "onboard_time": 1695944606,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 427197,
+        "num": 427197,
+        "word": "王俊凯下车镜头",
+        "onboard_time": 1695943830,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400588,
+        "num": 400588,
+        "word": "江苏薪酬",
+        "onboard_time": 1695948451,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 381487,
+        "num": 381487,
+        "word": "婴儿呛奶育婴师拍打其后脑用剪刀扎脚",
+        "onboard_time": 1695946290,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354710,
+        "num": 354710,
+        "word": "林双卫明离婚",
+        "onboard_time": 1695947130,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346906,
+        "num": 346906,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695943946,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306702,
+        "num": 306702,
+        "word": "原来这就是中医把脉的科学性",
+        "onboard_time": 1695946050,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 291500,
+        "num": 291500,
+        "word": "伯远 好的恋人能像朋友一般自洽相处",
+        "onboard_time": 1695949594,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 334260,
+        "num": 288553,
+        "word": "许家印已为儿子设立信托基金",
+        "onboard_time": 1695914319,
+        "rank": 24,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 278175,
+        "num": 278175,
+        "word": "巴黎粉丝在成毅面前cos李相夷",
+        "onboard_time": 1695949231,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274367,
+        "num": 274367,
+        "word": "两个邓布利多都离世了",
+        "onboard_time": 1695904360,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277829,
+        "num": 255422,
+        "word": "许家印已被依法采取强制措施",
+        "onboard_time": 1695904422,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231485,
+        "num": 231485,
+        "word": "亚运会情绪最稳定的韩国人找到了",
+        "onboard_time": 1695945507,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192024,
+        "num": 222215,
+        "word": "虞书欣徐明浩加起来是seventeen",
+        "onboard_time": 1695950670,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 270948,
+        "num": 220642,
+        "word": "许家印可能涉嫌多项罪名",
+        "onboard_time": 1695906347,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213152,
+        "num": 213152,
+        "word": "成毅 突然出现",
+        "onboard_time": 1695913540,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203982,
+        "num": 203982,
+        "word": "小猫被救起来之后疯狂在怀里撒娇",
+        "onboard_time": 1695950251,
+        "rank": 32,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 189205,
+        "num": 189205,
+        "word": "起猛了看见安徽有龙在飞",
+        "onboard_time": 1695950133,
+        "rank": 33,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 175568,
+        "num": 175568,
+        "word": "纪梵希 虞书欣",
+        "onboard_time": 1695911380,
+        "rank": 34,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 174072,
+        "num": 174072,
+        "word": "没想到有一天室友变亲戚了",
+        "onboard_time": 1695942986,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172149,
+        "num": 172149,
+        "word": "女子给狗挤肛门腺喷射到左眼致感染",
+        "onboard_time": 1695903455,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162341,
+        "num": 162341,
+        "word": "中秋文案",
+        "onboard_time": 1695940640,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147950,
+        "num": 147950,
+        "word": "Angelababy中秋月神下凡",
+        "onboard_time": 1695949773,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145747,
+        "num": 145747,
+        "word": "焉栩嘉参加过封神的面试选拔",
+        "onboard_time": 1695946110,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143376,
+        "num": 143376,
+        "word": "一张照片证明你在堵车",
+        "onboard_time": 1695912461,
+        "rank": 40,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 138600,
+        "num": 138600,
+        "word": "水果店8.8元一斤卖榴莲惊动特警",
+        "onboard_time": 1695903035,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136491,
+        "num": 136491,
+        "word": "卢昱晓回应被说普",
+        "onboard_time": 1695913363,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139532,
+        "num": 135411,
+        "word": "杨幂Angelababy巴黎时装周造型",
+        "onboard_time": 1695911324,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 133949,
+        "num": 133949,
+        "word": "陈都灵钢琴弹唱呼唤文物回家",
+        "onboard_time": 1695904663,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133361,
+        "num": 133361,
+        "word": "中秋祝福",
+        "onboard_time": 1695944727,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131566,
+        "num": 131566,
+        "word": "五条悟被封印",
+        "onboard_time": 1695950972,
+        "rank": 46,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122413,
+        "num": 122413,
+        "word": "王鹤棣说一直有闯入影坛的打算",
+        "onboard_time": 1695917493,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120126,
+        "num": 120126,
+        "word": "她俩眼神真的不清白",
+        "onboard_time": 1695905983,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116912,
+        "num": 116912,
+        "word": "那英说周迅嗓音是因为变声期",
+        "onboard_time": 1695943946,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#积极参与世界贸易组织改革#"
+    }
+  }
+}
