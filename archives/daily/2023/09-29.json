@@ -1,7 +1,15 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695969308380,
+  "endTime": 1695971742842,
   "band_list": [
+    {
+      "raw_hot": 4769546,
+      "num": 4769546,
+      "word": "英雄联盟中国队vs越南队",
+      "onboard_time": 1695967476,
+      "rank": 15,
+      "category": "游戏,体育"
+    },
     {
       "raw_hot": 1957753,
       "num": 1957753,
@@ -235,14 +243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 724784,
-      "num": 724784,
-      "word": "英雄联盟中国队vs越南队",
-      "onboard_time": 1695967476,
-      "rank": 15,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 708415,
       "num": 449513,
       "word": "在韩国感受到了卫生巾贫困",
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 615861,
+      "num": 615861,
+      "word": "张雨霏无缘亚运七冠王",
+      "onboard_time": 1695968974,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 609204,
       "num": 415381,
       "word": "许家印已被依法采取强制措施",
@@ -369,6 +377,14 @@
       "onboard_time": 1695951632,
       "rank": 24,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 527817,
+      "num": 527817,
+      "word": "田曦薇落入山野的玉兔",
+      "onboard_time": 1695968792,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 513456,
@@ -427,12 +443,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 434828,
-      "num": 434828,
-      "word": "田曦薇落入山野的玉兔",
-      "onboard_time": 1695968792,
-      "rank": 16,
-      "category": "作品衍生"
+      "raw_hot": 433186,
+      "num": 351275,
+      "word": "英雄联盟季军赛越南队先下一城",
+      "onboard_time": 1695970476,
+      "rank": 12,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 427012,
@@ -497,6 +513,14 @@
       "onboard_time": 1695959193,
       "rank": 8,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 399513,
+      "num": 294161,
+      "word": "香港顶流姜涛卢瀚霆出发录团综",
+      "onboard_time": 1695970771,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 398797,
@@ -568,6 +592,22 @@
       "word": "林双卫明离婚",
       "onboard_time": 1695947130,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 353264,
+      "num": 353264,
+      "word": "从幼儿园带回来的月饼不要吃",
+      "onboard_time": 1695969631,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 349913,
+      "num": 349913,
+      "word": "魏大勋借几件衣服给韩庚吧",
+      "onboard_time": 1695968792,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -659,12 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 296103,
-      "num": 201488,
-      "word": "张雨霏无缘亚运七冠王",
+      "raw_hot": 298243,
+      "num": 298243,
+      "word": "中秋保留节目看兔兔做月饼",
       "onboard_time": 1695968974,
-      "rank": 30,
-      "category": "体育"
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296101,
@@ -673,6 +713,14 @@
       "onboard_time": 1695961353,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 294832,
+      "num": 294832,
+      "word": "于和伟 荔枝甜",
+      "onboard_time": 1695969333,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 291500,
@@ -721,6 +769,14 @@
       "onboard_time": 1695912461,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278528,
+      "num": 278528,
+      "word": "深圳房东为69户租客送中秋礼物",
+      "onboard_time": 1695969752,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 278276,
@@ -803,20 +859,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255449,
-      "num": 255449,
-      "word": "中秋保留节目看兔兔做月饼",
-      "onboard_time": 1695968974,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 253519,
       "num": 253519,
       "word": "亚运会情绪最稳定的韩国人找到了",
       "onboard_time": 1695945507,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252515,
+      "num": 351134,
+      "word": "女孩第一次见穿警服的爸爸开心到飞起",
+      "onboard_time": 1695969875,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251653,
+      "num": 251653,
+      "word": "英雄联盟项目季军赛",
+      "onboard_time": 1695969875,
+      "rank": 25,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 251193,
@@ -905,6 +969,22 @@
       "onboard_time": 1695917254,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218086,
+      "num": 218086,
+      "word": "汪顺真的帅",
+      "onboard_time": 1695969213,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217766,
+      "num": 217766,
+      "word": "彭立勋",
+      "onboard_time": 1695971250,
+      "rank": 31,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 215651,
@@ -1001,14 +1081,6 @@
       "onboard_time": 1695942986,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 196159,
-      "num": 196159,
-      "word": "魏大勋借几件衣服给韩庚吧",
-      "onboard_time": 1695968792,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 196035,
@@ -1219,12 +1291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164854,
-      "num": 164854,
-      "word": "汪顺真的帅",
-      "onboard_time": 1695969213,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 164652,
+      "num": 164652,
+      "word": "坚如磐石票房破亿",
+      "onboard_time": 1695970413,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 164148,
@@ -1267,6 +1339,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 155099,
+      "num": 155099,
+      "word": "前任4 回首青春总少不了前任的遗憾",
+      "onboard_time": 1695970710,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 154973,
       "num": 154973,
       "word": "花西子承认助梦大使称号",
@@ -1299,12 +1379,28 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 147201,
+      "num": 147201,
+      "word": "五仁月饼为何在鄙视链底端",
+      "onboard_time": 1695970771,
+      "rank": 42,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 146490,
       "num": 146490,
       "word": "我们的歌第五季阵容官宣",
       "onboard_time": 1695905385,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145423,
+      "num": 145423,
+      "word": "文咏珊 很开心也很紧张真真和大家见面了",
+      "onboard_time": 1695970355,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 143668,
@@ -1385,6 +1481,14 @@
       "onboard_time": 1695960213,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129468,
+      "num": 129468,
+      "word": "四六级考试宁愿瞎写也不能空着",
+      "onboard_time": 1695971729,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 127090,
