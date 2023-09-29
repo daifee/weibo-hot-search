@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695979008664,
+  "endTime": 1695980056492,
   "band_list": [
     {
       "raw_hot": 8080481,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1151802,
+      "num": 1151802,
+      "word": "陈妍希 遇到会让你内耗的人就赶紧跑吧",
+      "onboard_time": 1695977556,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1127176,
       "num": 1127176,
       "word": "邓布利多扮演者去世",
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1018842,
-      "num": 1018842,
-      "word": "陈妍希 遇到会让你内耗的人就赶紧跑吧",
-      "onboard_time": 1695977556,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 882163,
       "num": 882163,
       "word": "水果店8.8元一斤卖榴莲惊动特警",
@@ -201,6 +201,14 @@
       "onboard_time": 1695972154,
       "rank": 16,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 807994,
+      "num": 263736,
+      "word": "王栎鑫首谈离婚经历",
+      "onboard_time": 1695978754,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 794730,
@@ -531,6 +539,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 430913,
+      "num": 260873,
+      "word": "周柯宇 红包",
+      "onboard_time": 1695979473,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427012,
       "num": 427012,
       "word": "死亡只不过是下一场精彩的探险而已",
@@ -545,6 +561,14 @@
       "onboard_time": 1695905983,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403915,
+      "num": 260677,
+      "word": "于适 开挂人生",
+      "onboard_time": 1695979953,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 403319,
@@ -867,6 +891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292899,
+      "num": 257551,
+      "word": "中国连续10届亚运会金牌榜第一",
+      "onboard_time": 1695978876,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 291500,
       "num": 291500,
       "word": "伯远 好的恋人能像朋友一般自洽相处",
@@ -947,20 +979,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274560,
+      "num": 274560,
+      "word": "许昕站姐收满一整盘许昕徽章",
+      "onboard_time": 1695976892,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272669,
       "num": 272669,
       "word": "Sofm的认可",
       "onboard_time": 1695975934,
       "rank": 22,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 267540,
-      "num": 267540,
-      "word": "许昕站姐收满一整盘许昕徽章",
-      "onboard_time": 1695976892,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 265476,
@@ -1027,12 +1059,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 256880,
+      "num": 256880,
+      "word": "杭州灵隐又是人人人魅力太大了",
+      "onboard_time": 1695976173,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256637,
       "num": 212894,
       "word": "吴艳妮暂停训练向国旗行注目礼",
       "onboard_time": 1695914858,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255019,
+      "num": 255019,
+      "word": "如何把一块钱的食物卖出100块",
+      "onboard_time": 1695978391,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 253519,
@@ -1099,14 +1147,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 231399,
-      "num": 231399,
-      "word": "王栎鑫首谈离婚经历",
-      "onboard_time": 1695978754,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228800,
       "num": 602085,
       "word": "大熊猫出游被偶遇迅速爬树扭头张望",
@@ -1147,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 220897,
+      "num": 220897,
+      "word": "中网",
+      "onboard_time": 1695979473,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219941,
       "num": 219941,
       "word": "有订票平台称部分机票降价可赔差",
@@ -1160,14 +1208,6 @@
       "word": "国庆假门还没出就亏了3500元",
       "onboard_time": 1695899134,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 219612,
-      "num": 219612,
-      "word": "杭州灵隐又是人人人魅力太大了",
-      "onboard_time": 1695976173,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1217,14 +1257,6 @@
       "onboard_time": 1695911862,
       "rank": 28,
       "category": "财经"
-    },
-    {
-      "raw_hot": 211560,
-      "num": 189613,
-      "word": "如何把一块钱的食物卖出100块",
-      "onboard_time": 1695978391,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 211409,
@@ -1329,6 +1361,14 @@
       "onboard_time": 1695974555,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198167,
+      "num": 198167,
+      "word": "吴昕半包小烟熏",
+      "onboard_time": 1695979712,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 196940,
@@ -1505,14 +1545,6 @@
       "onboard_time": 1695978571,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 177305,
-      "num": 177305,
-      "word": "中国连续10届亚运会金牌榜第一",
-      "onboard_time": 1695978876,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 177159,
@@ -1771,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139135,
+      "num": 134606,
+      "word": "毛晓彤中秋新中式造型",
+      "onboard_time": 1695978453,
+      "rank": 48,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 138412,
       "num": 138412,
       "word": "张昊唯新剧进酒吧被下药",
@@ -1785,6 +1825,14 @@
       "onboard_time": 1695956731,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136023,
+      "num": 257722,
+      "word": "郑钦文开启杭州逛吃模式",
+      "onboard_time": 1695979712,
+      "rank": 19,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 131948,
@@ -1811,20 +1859,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 130758,
+      "num": 130758,
+      "word": "迪拜塔写中文诗迎中国客",
+      "onboard_time": 1695980013,
+      "rank": 49,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 129857,
       "num": 129857,
       "word": "黄绮珊献唱坚如磐石片尾曲",
       "onboard_time": 1695960213,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129701,
-      "num": 134606,
-      "word": "毛晓彤中秋新中式造型",
-      "onboard_time": 1695978453,
-      "rank": 48,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 127090,
