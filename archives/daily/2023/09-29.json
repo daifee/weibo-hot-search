@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695972836307,
+  "endTime": 1695975664108,
   "band_list": [
     {
       "raw_hot": 8080481,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 835167,
+      "num": 835167,
+      "word": "张柏芝听到你好漂亮后的反应",
+      "onboard_time": 1695972154,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 794730,
       "num": 794730,
       "word": "易烊千玺中秋怀化citywalk",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 604996,
+      "num": 604996,
+      "word": "五ban打野",
+      "onboard_time": 1695974012,
+      "rank": 3,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 594579,
       "num": 594579,
       "word": "电竞人采访被确诊为张飞",
@@ -345,6 +361,14 @@
       "onboard_time": 1695943467,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 576000,
+      "num": 576000,
+      "word": "英雄联盟中国队铜牌",
+      "onboard_time": 1695975514,
+      "rank": 4,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 568715,
@@ -411,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 490501,
+      "num": 490501,
+      "word": "侯明昊全网唯一发誓博主",
+      "onboard_time": 1695974433,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 467879,
       "num": 467879,
       "word": "披荆斩棘",
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 466675,
-      "num": 199493,
+      "num": 219217,
       "word": "baolan 这阵容咋选出来的",
       "onboard_time": 1695972093,
       "rank": 30,
@@ -433,6 +465,14 @@
       "onboard_time": 1695957273,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 445976,
+      "num": 445976,
+      "word": "从幼儿园带回来的月饼不要吃",
+      "onboard_time": 1695969631,
+      "rank": 9,
+      "category": "幽默"
     },
     {
       "raw_hot": 438793,
@@ -532,7 +572,7 @@
     },
     {
       "raw_hot": 399513,
-      "num": 294161,
+      "num": 302108,
       "word": "香港顶流姜涛卢瀚霆出发录团综",
       "onboard_time": 1695970771,
       "rank": 20,
@@ -579,14 +619,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 383992,
-      "num": 383992,
-      "word": "从幼儿园带回来的月饼不要吃",
-      "onboard_time": 1695969631,
-      "rank": 9,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 382895,
       "num": 382895,
       "word": "一张照片证明你在堵车",
@@ -601,6 +633,22 @@
       "onboard_time": 1695904360,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379719,
+      "num": 379719,
+      "word": "时代少年团直播",
+      "onboard_time": 1695975155,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 372914,
+      "num": 372914,
+      "word": "王丽坤新剧又演美人心计了",
+      "onboard_time": 1695972876,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 368111,
@@ -641,6 +689,14 @@
       "onboard_time": 1695968792,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348331,
+      "num": 390668,
+      "word": "四六级考试宁愿瞎写也不能空着",
+      "onboard_time": 1695971729,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 347951,
@@ -691,12 +747,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 314480,
-      "num": 314480,
-      "word": "张柏芝听到你好漂亮后的反应",
-      "onboard_time": 1695972154,
+      "raw_hot": 315327,
+      "num": 315327,
+      "word": "马龙在日本有多受欢迎",
+      "onboard_time": 1695973592,
       "rank": 16,
-      "category": "艺人,时尚"
+      "category": "体育"
     },
     {
       "raw_hot": 304676,
@@ -731,6 +787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299091,
+      "num": 299091,
+      "word": "志愿军 彩蛋",
+      "onboard_time": 1695975034,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298755,
       "num": 298755,
       "word": "平野美宇",
@@ -755,6 +819,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 293235,
+      "num": 219200,
+      "word": "英雄联盟 打出悬念来了",
+      "onboard_time": 1695975094,
+      "rank": 31,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 291500,
       "num": 291500,
       "word": "伯远 好的恋人能像朋友一般自洽相处",
@@ -771,20 +843,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289940,
-      "num": 289940,
-      "word": "四六级考试宁愿瞎写也不能空着",
-      "onboard_time": 1695971729,
-      "rank": 48,
-      "category": "教育"
-    },
-    {
       "raw_hot": 286519,
       "num": 286519,
       "word": "巴黎粉丝在成毅面前cos李相夷",
       "onboard_time": 1695949231,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285997,
+      "num": 285997,
+      "word": "Ditto 鲸曲届的难忘今宵",
+      "onboard_time": 1695973535,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 283493,
@@ -908,7 +980,7 @@
     },
     {
       "raw_hot": 252515,
-      "num": 351134,
+      "num": 375754,
       "word": "女孩第一次见穿警服的爸爸开心到飞起",
       "onboard_time": 1695969875,
       "rank": 13,
@@ -1019,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219181,
+      "num": 219181,
+      "word": "唐茜靖平衡木银牌",
+      "onboard_time": 1695975277,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218086,
       "num": 218086,
       "word": "汪顺真的帅",
@@ -1067,6 +1147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207478,
+      "num": 207478,
+      "word": "黄轩叫文咏珊老公",
+      "onboard_time": 1695973115,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206420,
       "num": 206420,
       "word": "亚运会上我只能看见马龙的影子",
@@ -1099,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203565,
+      "num": 203565,
+      "word": "杨迪辟谣丽江的YD是他刻的",
+      "onboard_time": 1695973592,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201939,
       "num": 381853,
       "word": "明月出天山震撼画面",
@@ -1113,6 +1209,22 @@
       "onboard_time": 1695968974,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200136,
+      "num": 200136,
+      "word": "马嘉祺中秋vlog",
+      "onboard_time": 1695974555,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198598,
+      "num": 198598,
+      "word": "郑钦文教练单方面毁约",
+      "onboard_time": 1695974555,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 196940,
@@ -1307,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174778,
+      "num": 293885,
+      "word": "在杭州过的第一个中秋",
+      "onboard_time": 1695974914,
+      "rank": 20,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 172823,
       "num": 172823,
       "word": "泰国复刻淄博式服务招揽国内游客",
@@ -1363,6 +1483,14 @@
       "category": "社会新闻,幽默"
     },
     {
+      "raw_hot": 163003,
+      "num": 163003,
+      "word": "已有三位霍格沃茨校长扮演者去世",
+      "onboard_time": 1695973715,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161657,
       "num": 161657,
       "word": "电影志愿军口碑",
@@ -1417,6 +1545,14 @@
       "onboard_time": 1695913303,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149476,
+      "num": 149476,
+      "word": "侯雯元人没到场笑料一点都不少",
+      "onboard_time": 1695973535,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 147950,
@@ -1548,7 +1684,7 @@
     },
     {
       "raw_hot": 127090,
-      "num": 127090,
+      "num": 648860,
       "word": "玉兔二号发来月球风景照",
       "onboard_time": 1695958652,
       "rank": 49,
@@ -1576,6 +1712,14 @@
       "word": "被拐34年他终于能过一个温暖中秋节",
       "onboard_time": 1695943287,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104051,
+      "num": 219221,
+      "word": "在祖国边境有一群新疆戍边花木兰",
+      "onboard_time": 1695973413,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1704,6 +1848,14 @@
       "word": "从16岁到27岁叶诗文经历了什么",
       "onboard_time": 1695938657,
       "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20858,
+      "num": 373379,
+      "word": "花滑天团梦幻秀",
+      "onboard_time": 1695974433,
+      "rank": 14,
       "category": "体育"
     }
   ],
