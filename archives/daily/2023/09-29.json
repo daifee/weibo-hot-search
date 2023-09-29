@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695954841886,
+  "endTime": 1695957437729,
   "band_list": [
     {
       "raw_hot": 1850005,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1229045,
+      "num": 1229045,
+      "word": "原来我们错怪五仁月饼了",
+      "onboard_time": 1695953431,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1188218,
       "num": 1059986,
       "word": "林依轮被嘉兴服务区征服了",
@@ -75,11 +83,35 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 972531,
+      "num": 972531,
+      "word": "央视中秋晚会节目单",
+      "onboard_time": 1695956011,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 882163,
       "num": 882163,
       "word": "水果店8.8元一斤卖榴莲惊动特警",
       "onboard_time": 1695903035,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 857554,
+      "num": 857554,
+      "word": "张凌赫 当乞丐也能赚到一座金山",
+      "onboard_time": 1695954812,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 841901,
+      "num": 841901,
+      "word": "许家印家族分红套现500亿",
+      "onboard_time": 1695955532,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -195,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 568715,
+      "num": 568715,
+      "word": "阳光玫瑰",
+      "onboard_time": 1695955232,
+      "rank": 8,
+      "category": "美食"
+    },
+    {
       "raw_hot": 557290,
       "num": 557290,
       "word": "别人的是简历马龙的是繁历",
@@ -241,6 +281,14 @@
       "onboard_time": 1695943830,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493894,
+      "num": 457228,
+      "word": "使用iPhone很久才知道的实用功能",
+      "onboard_time": 1695956073,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 438793,
@@ -291,6 +339,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 400809,
+      "num": 400809,
+      "word": "小时候词不达意长大了言不由衷",
+      "onboard_time": 1695956011,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400588,
       "num": 400588,
       "word": "江苏薪酬",
@@ -331,20 +387,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 371417,
-      "num": 371417,
-      "word": "原来我们错怪五仁月饼了",
-      "onboard_time": 1695953431,
-      "rank": 27,
-      "category": "美食"
-    },
-    {
       "raw_hot": 354710,
       "num": 354710,
       "word": "林双卫明离婚",
       "onboard_time": 1695947130,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347951,
+      "num": 224891,
+      "word": "英雄联盟项目决赛",
+      "onboard_time": 1695956311,
+      "rank": 30,
+      "category": "体育,游戏"
     },
     {
       "raw_hot": 341968,
@@ -380,7 +436,7 @@
     },
     {
       "raw_hot": 304676,
-      "num": 244419,
+      "num": 245341,
       "word": "彼岸花过于旺盛 反而有点恐怖",
       "onboard_time": 1695953071,
       "rank": 30,
@@ -393,6 +449,14 @@
       "onboard_time": 1695906523,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 300136,
+      "num": 200892,
+      "word": "胡锡进 那些买了恒大期房的人怎么办",
+      "onboard_time": 1695956611,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291500,
@@ -433,6 +497,14 @@
       "onboard_time": 1695951814,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 264541,
+      "num": 264541,
+      "word": "莫斯科行动",
+      "onboard_time": 1695955532,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 264286,
@@ -523,12 +595,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206420,
+      "num": 206420,
+      "word": "亚运会上我只能看见马龙的影子",
+      "onboard_time": 1695957333,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201939,
       "num": 381853,
       "word": "明月出天山震撼画面",
       "onboard_time": 1695953613,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198362,
+      "num": 198362,
+      "word": "王仕鹏朱芳雨执教球队输美国后怒了",
+      "onboard_time": 1695957273,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 196940,
@@ -731,14 +819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151032,
-      "num": 151032,
-      "word": "张凌赫 当乞丐也能赚到一座金山",
-      "onboard_time": 1695954812,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147950,
       "num": 147950,
       "word": "Angelababy中秋月神下凡",
@@ -795,12 +875,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136084,
+      "num": 136084,
+      "word": "第五人格",
+      "onboard_time": 1695956731,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 130783,
       "num": 420080,
       "word": "庆祝中华人民共和国成立74周年招待会",
       "onboard_time": 1695909763,
       "rank": 14,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 127730,
+      "num": 127730,
+      "word": "中秋国庆高铁有多忙",
+      "onboard_time": 1695956134,
+      "rank": 49,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 124915,
@@ -921,6 +1017,14 @@
       "onboard_time": 1695938657,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18461,
+      "num": 446840,
+      "word": "孙阳演我坐过山车",
+      "onboard_time": 1695957333,
+      "rank": 14,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
