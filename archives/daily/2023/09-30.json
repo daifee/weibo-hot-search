@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696005434257,
+  "endTime": 1696007724095,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206784,
+      "num": 206784,
+      "word": "这一晚上给周深忙的",
+      "onboard_time": 1696007244,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190846,
       "num": 190846,
       "word": "不染",
@@ -217,6 +225,14 @@
       "onboard_time": 1696000239,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188783,
+      "num": 233771,
+      "word": "没卖掉的月饼都去哪了",
+      "onboard_time": 1695997901,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 187900,
@@ -243,6 +259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174119,
+      "num": 174119,
+      "word": "杨幂送外国友人中国瓷器",
+      "onboard_time": 1696005867,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160931,
       "num": 291944,
       "word": "烈士纪念日",
@@ -257,6 +281,14 @@
       "onboard_time": 1695997361,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159071,
+      "num": 159071,
+      "word": "萧敬腾给单依纯主舞台这唱下雨了",
+      "onboard_time": 1696005747,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 158710,
@@ -315,14 +347,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 140488,
-      "num": 233771,
-      "word": "没卖掉的月饼都去哪了",
-      "onboard_time": 1695997901,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 140108,
       "num": 312370,
       "word": "谢震业10秒07",
@@ -347,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136865,
+      "num": 160888,
+      "word": "牛奶和豆浆哪个蛋白质含量高",
+      "onboard_time": 1696004848,
+      "rank": 46,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 135968,
       "num": 135968,
       "word": "马嘉祺开麦",
@@ -355,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126050,
+      "num": 126050,
+      "word": "雷佳音拽于适去C位拽不动",
+      "onboard_time": 1696005928,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125502,
       "num": 205765,
       "word": "张雨霏哭了",
       "onboard_time": 1695994002,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122619,
+      "num": 122619,
+      "word": "张嘉倪我那貌美的竹马千金回国了",
+      "onboard_time": 1695992920,
+      "rank": 44,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 122336,
@@ -377,14 +425,6 @@
       "onboard_time": 1695990400,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 114262,
-      "num": 114262,
-      "word": "张嘉倪我那貌美的竹马千金回国了",
-      "onboard_time": 1695992920,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 109724,
@@ -411,12 +451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 91713,
-      "num": 112549,
-      "word": "牛奶和豆浆哪个蛋白质含量高",
-      "onboard_time": 1696004848,
-      "rank": 46,
-      "category": "美食,知识科普"
+      "raw_hot": 86231,
+      "num": 86231,
+      "word": "王栎鑫首谈离婚经历",
+      "onboard_time": 1695978754,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 80697,
@@ -441,6 +481,30 @@
       "onboard_time": 1696002814,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57384,
+      "num": 112839,
+      "word": "FoFo",
+      "onboard_time": 1695990699,
+      "rank": 39,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 54452,
+      "num": 81898,
+      "word": "一条plog告别九月",
+      "onboard_time": 1696006166,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51474,
+      "num": 81739,
+      "word": "葬送的芙莉莲",
+      "onboard_time": 1696006047,
+      "rank": 47,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
@@ -449,6 +513,9 @@
     },
     {
       "word": "#习近平回信勉励英烈子女#"
+    },
+    {
+      "word": "#习近平回信勉励中国人民公安大学在读英烈子女#"
     }
   ]
 }

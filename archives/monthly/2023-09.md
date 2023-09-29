@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 00:37:14
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 01:15:24
 </p>
 </blockquote>
 <p>
@@ -6545,6 +6545,12 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E8%8B%B1%E7%83%88%E5%AD%90%E5%A5%B3%23%23" target="weibo">
 #习近平回信勉励英烈子女#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9B%9E%E4%BF%A1%E5%8B%89%E5%8A%B1%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%AE%89%E5%A4%A7%E5%AD%A6%E5%9C%A8%E8%AF%BB%E8%8B%B1%E7%83%88%E5%AD%90%E5%A5%B3%23%23" target="weibo">
+#习近平回信勉励中国人民公安大学在读英烈子女#
 </a>
 </li>
 
