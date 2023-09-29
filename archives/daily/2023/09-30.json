@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696007724095,
+  "endTime": 1696008843568,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -459,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85924,
+      "num": 85924,
+      "word": "童瑶在巴黎秀场门口发月饼",
+      "onboard_time": 1696008442,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80697,
       "num": 130149,
       "word": "王楚钦孙颖莎亚运晋级决赛",
@@ -500,11 +508,19 @@
     },
     {
       "raw_hot": 51474,
-      "num": 81739,
+      "num": 82558,
       "word": "葬送的芙莉莲",
       "onboard_time": 1696006047,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 36480,
+      "num": 81958,
+      "word": "原神音乐会",
+      "onboard_time": 1696008082,
+      "rank": 47,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
