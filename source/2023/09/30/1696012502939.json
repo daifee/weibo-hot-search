@@ -1,0 +1,410 @@
+{
+  "runTime": 1696012502939,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 405139,
+        "num": 405139,
+        "word": "封神榜纣王饰演者去世",
+        "onboard_time": 1696001496,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258457,
+        "num": 258457,
+        "word": "张小斐张嘉倪到底是在演什么",
+        "onboard_time": 1695998799,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21228,
+        "num": 213060,
+        "word": "我国首条跨海高铁科技含量有多高",
+        "onboard_time": 1695994361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177965,
+        "num": 177965,
+        "word": "35岁做了近视手术",
+        "onboard_time": 1695998202,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167364,
+        "num": 167364,
+        "word": "杨幂旗袍 古韵美人",
+        "onboard_time": 1695994002,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162471,
+        "num": 162471,
+        "word": "这一晚上给周深忙的",
+        "onboard_time": 1696007244,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153662,
+        "num": 153662,
+        "word": "奥尼尔单手能握住四瓶矿泉水",
+        "onboard_time": 1695998079,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147734,
+        "num": 147734,
+        "word": "天蝎座疏远一个人的原因",
+        "onboard_time": 1695987335,
+        "rank": 7,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 130636,
+        "num": 130636,
+        "word": "向云端 跑调",
+        "onboard_time": 1695992799,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76572,
+        "num": 128944,
+        "word": "一个樊振东有两个全红婵大",
+        "onboard_time": 1695992498,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180830,
+        "num": 124976,
+        "word": "林小宅 开启第一次徒步登山",
+        "onboard_time": 1696008860,
+        "rank": 10,
+        "category": "艺人,旅游"
+      },
+      {
+        "raw_hot": 164260,
+        "num": 123394,
+        "word": "邢菲把痘变成痣",
+        "onboard_time": 1695999815,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147526,
+        "num": 118835,
+        "word": "红气养人 张小斐好美",
+        "onboard_time": 1695991240,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58868,
+        "num": 115618,
+        "word": "外国运动员组团扫货掏出计算器砍价",
+        "onboard_time": 1696001735,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 48761,
+        "num": 112655,
+        "word": "叙利亚总统说杭州亚运会开幕式令人动容",
+        "onboard_time": 1696000597,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111131,
+        "num": 111131,
+        "word": "刘德华被00后粉丝叫老婆",
+        "onboard_time": 1696001136,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102599,
+        "num": 102599,
+        "word": "没卖掉的月饼都去哪了",
+        "onboard_time": 1695997901,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92407,
+        "num": 92407,
+        "word": "郎朗 中国香港",
+        "onboard_time": 1695992622,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70202,
+        "num": 70202,
+        "word": "超级月亮",
+        "onboard_time": 1695982772,
+        "rank": 18,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 44669,
+        "num": 69688,
+        "word": "杨舒予真帅",
+        "onboard_time": 1696000239,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94442,
+        "num": 67699,
+        "word": "男子狂揍妻子被孩子录下全过程",
+        "onboard_time": 1695991060,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87348,
+        "num": 66053,
+        "word": "一张照片证明已经你到家了",
+        "onboard_time": 1695998141,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84363,
+        "num": 64033,
+        "word": "于湉自曝曾患红斑狼疮",
+        "onboard_time": 1696002273,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78367,
+        "num": 62757,
+        "word": "网友巴黎偶遇王俊凯吃饭",
+        "onboard_time": 1696011018,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61386,
+        "num": 61386,
+        "word": "牛奶和豆浆哪个蛋白质含量高",
+        "onboard_time": 1696004848,
+        "rank": 24,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 71160,
+        "num": 61069,
+        "word": "童瑶在巴黎秀场门口发月饼",
+        "onboard_time": 1696008442,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 61963,
+        "num": 60823,
+        "word": "刘亦菲日落随拍",
+        "onboard_time": 1695998141,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56224,
+        "num": 56224,
+        "word": "檀健次炎明熹复古港风唱跳",
+        "onboard_time": 1695994241,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44018,
+        "num": 55581,
+        "word": "FoFo",
+        "onboard_time": 1695990699,
+        "rank": 28,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 38511,
+        "num": 55241,
+        "word": "谢震业10秒07",
+        "onboard_time": 1695999218,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55235,
+        "num": 55235,
+        "word": "张杰音乐节开成演唱会",
+        "onboard_time": 1695994421,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 52099,
+        "num": 52099,
+        "word": "杨幂送外国友人中国瓷器",
+        "onboard_time": 1696005867,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47879,
+        "num": 52093,
+        "word": "王栎鑫首谈离婚经历",
+        "onboard_time": 1695978754,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37772,
+        "num": 52085,
+        "word": "葬送的芙莉莲",
+        "onboard_time": 1696006047,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 34750,
+        "num": 52085,
+        "word": "九尾 背起小书包",
+        "onboard_time": 1695990400,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 47268,
+        "num": 52078,
+        "word": "张嘉倪我那貌美的竹马千金回国了",
+        "onboard_time": 1695992920,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47014,
+        "num": 52066,
+        "word": "Faker Ruler大满贯",
+        "onboard_time": 1695992799,
+        "rank": 36,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 46851,
+        "num": 52061,
+        "word": "周深光亮实时收视第一",
+        "onboard_time": 1696003472,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33021,
+        "num": 52057,
+        "word": "汪顺馋哭外国迷妹",
+        "onboard_time": 1695986856,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31466,
+        "num": 52050,
+        "word": "中秋节",
+        "onboard_time": 1695997540,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46301,
+        "num": 52037,
+        "word": "林双辞职",
+        "onboard_time": 1696001136,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42192,
+        "num": 52033,
+        "word": "莫斯科行动口碑",
+        "onboard_time": 1696012036,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41574,
+        "num": 52029,
+        "word": "萧敬腾给单依纯主舞台这唱下雨了",
+        "onboard_time": 1696005747,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37427,
+        "num": 52019,
+        "word": "陈哲远 空降",
+        "onboard_time": 1695984093,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37189,
+        "num": 52010,
+        "word": "马嘉祺开麦",
+        "onboard_time": 1695995382,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37132,
+        "num": 52008,
+        "word": "好事成双",
+        "onboard_time": 1695999696,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24478,
+        "num": 52000,
+        "word": "原神音乐会",
+        "onboard_time": 1696008082,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23205,
+        "num": 51995,
+        "word": "烈士纪念日",
+        "onboard_time": 1696004191,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 22645,
+        "num": 51988,
+        "word": "张雨霏哭了",
+        "onboard_time": 1695994002,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20847,
+        "num": 51981,
+        "word": "张雨霏池江璃花子 女孩子的友谊",
+        "onboard_time": 1695999758,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励中国人民公安大学在读英烈子女#"
+    }
+  }
+}
