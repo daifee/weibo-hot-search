@@ -1,0 +1,410 @@
+{
+  "runTime": 1695990758546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8957972,
+        "num": 8957972,
+        "word": "超级月亮",
+        "onboard_time": 1695982772,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 2333678,
+        "num": 2333678,
+        "word": "西藏堵车 震撼全家",
+        "onboard_time": 1695984995,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 70427,
+        "num": 1400890,
+        "word": "当国风亚运遇上西湖十景",
+        "onboard_time": 1695974012,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2702783,
+        "num": 1390997,
+        "word": "湖南中秋之夜节目单 换顺序",
+        "onboard_time": 1695988717,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1378196,
+        "num": 1378196,
+        "word": "中秋晚会",
+        "onboard_time": 1695981751,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1294514,
+        "num": 1294514,
+        "word": "央视中秋晚会",
+        "onboard_time": 1695989018,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1269153,
+        "num": 1269153,
+        "word": "中秋节目单",
+        "onboard_time": 1695987215,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 710376,
+        "num": 710376,
+        "word": "天蝎座疏远一个人的原因",
+        "onboard_time": 1695987335,
+        "rank": 7,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 427943,
+        "num": 700814,
+        "word": "蛙王覃海洋",
+        "onboard_time": 1695988838,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353422,
+        "num": 685972,
+        "word": "覃海洋夺杭州亚运第100金",
+        "onboard_time": 1695988838,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1035862,
+        "num": 641746,
+        "word": "周深直播",
+        "onboard_time": 1695987457,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778212,
+        "num": 627532,
+        "word": "木子和又又",
+        "onboard_time": 1695988959,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 613735,
+        "num": 613735,
+        "word": "陈哲远 空降",
+        "onboard_time": 1695984093,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138820,
+        "num": 550094,
+        "word": "节前的高铁上学习氛围有多浓厚",
+        "onboard_time": 1695986135,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82066,
+        "num": 546469,
+        "word": "女孩第一次见穿警服的爸爸开心到飞起",
+        "onboard_time": 1695969875,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545211,
+        "num": 545211,
+        "word": "杨幂法国街头漫步",
+        "onboard_time": 1695987037,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 521081,
+        "num": 521081,
+        "word": "英雄联盟韩国vs中国台北",
+        "onboard_time": 1695983553,
+        "rank": 16,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 482657,
+        "num": 482657,
+        "word": "王栎鑫首谈离婚经历",
+        "onboard_time": 1695978754,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460206,
+        "num": 460206,
+        "word": "汪顺馋哭外国迷妹",
+        "onboard_time": 1695986856,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352180,
+        "num": 453918,
+        "word": "张雨霏第6金",
+        "onboard_time": 1695988597,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1134771,
+        "num": 453910,
+        "word": "11岁男孩被逼吸烟下跪遭围殴",
+        "onboard_time": 1695986135,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453891,
+        "num": 453891,
+        "word": "英雄联盟中国队铜牌",
+        "onboard_time": 1695975514,
+        "rank": 21,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 448005,
+        "num": 448005,
+        "word": "许家印",
+        "onboard_time": 1695982474,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402961,
+        "num": 402961,
+        "word": "郑钧一张图证明进山东了",
+        "onboard_time": 1695987457,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400748,
+        "num": 400748,
+        "word": "韩国教练举错牌被判弃权",
+        "onboard_time": 1695989138,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388077,
+        "num": 388077,
+        "word": "英雄联盟韩国队1比0领先",
+        "onboard_time": 1695988419,
+        "rank": 25,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 372121,
+        "num": 372121,
+        "word": "张本智和4比2伊朗选手",
+        "onboard_time": 1695989200,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329716,
+        "num": 329716,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695982412,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326203,
+        "num": 326203,
+        "word": "王楚钦孙颖莎vs林钟勋申裕斌",
+        "onboard_time": 1695990161,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312006,
+        "num": 312006,
+        "word": "Angelababy古装清冷感",
+        "onboard_time": 1695986015,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297994,
+        "num": 297994,
+        "word": "火光代到了张馨予何捷",
+        "onboard_time": 1695980554,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297051,
+        "num": 297051,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293561,
+        "num": 293561,
+        "word": "欧文要求大英博物馆归还文物",
+        "onboard_time": 1695986493,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270445,
+        "num": 270445,
+        "word": "xiye对Ning下手太重了",
+        "onboard_time": 1695985895,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 253641,
+        "num": 253641,
+        "word": "九尾 背起小书包",
+        "onboard_time": 1695990400,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 247569,
+        "num": 247569,
+        "word": "赵小棠美拉德够野",
+        "onboard_time": 1695985837,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216932,
+        "num": 216932,
+        "word": "张小斐美拉德妆",
+        "onboard_time": 1695986015,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 202450,
+        "num": 202450,
+        "word": "覃海洋50米蛙泳金牌",
+        "onboard_time": 1695988359,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199370,
+        "num": 199370,
+        "word": "张嘉倪复古高马尾全白造型",
+        "onboard_time": 1695988237,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196445,
+        "num": 196445,
+        "word": "中秋节文案",
+        "onboard_time": 1695990638,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176315,
+        "num": 176315,
+        "word": "柯洁输棋战鹰连笑都笑不出来",
+        "onboard_time": 1695990459,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172881,
+        "num": 172881,
+        "word": "我赏我心中明月",
+        "onboard_time": 1695989379,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157699,
+        "num": 157699,
+        "word": "时代少年团直播",
+        "onboard_time": 1695975155,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156499,
+        "num": 156499,
+        "word": "王丽坤新剧又演美人心计了",
+        "onboard_time": 1695972876,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155425,
+        "num": 155425,
+        "word": "于适 开挂人生",
+        "onboard_time": 1695979953,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149849,
+        "num": 149849,
+        "word": "志愿军 彩蛋",
+        "onboard_time": 1695975034,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148403,
+        "num": 148403,
+        "word": "孟子义 想结婚就别谈太久的恋爱",
+        "onboard_time": 1695965134,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138765,
+        "num": 148395,
+        "word": "伊朗选手 发球失误",
+        "onboard_time": 1695986796,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125504,
+        "num": 148393,
+        "word": "FoFo",
+        "onboard_time": 1695990699,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 167941,
+        "num": 148378,
+        "word": "月饼",
+        "onboard_time": 1695985955,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对妇女儿童工作作出重要指示#"
+    }
+  }
+}
