@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695954187484,
+  "endTime": 1695954841886,
   "band_list": [
     {
       "raw_hot": 1850005,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1179609,
+      "num": 1179609,
+      "word": "堵车",
+      "onboard_time": 1695952289,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1127176,
       "num": 1127176,
       "word": "邓布利多扮演者去世",
@@ -65,14 +73,6 @@
       "onboard_time": 1695911380,
       "rank": 11,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 1079348,
-      "num": 1079348,
-      "word": "堵车",
-      "onboard_time": 1695952289,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 882163,
@@ -171,7 +171,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 616871,
+      "raw_hot": 633126,
       "num": 485475,
       "word": "封神 再不洗袜子怕是要失去他了",
       "onboard_time": 1695945690,
@@ -211,12 +211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 537678,
+      "num": 537678,
+      "word": "放假聪明人",
+      "onboard_time": 1695951632,
+      "rank": 24,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 513456,
       "num": 513456,
       "word": "中国妇女报评前任4",
       "onboard_time": 1695947432,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 503846,
+      "num": 503846,
+      "word": "池昌旭新剧开播 吃醋戏码",
+      "onboard_time": 1695953310,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 498833,
@@ -267,14 +283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 401986,
-      "num": 401986,
-      "word": "池昌旭新剧开播 吃醋戏码",
-      "onboard_time": 1695953310,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 401741,
       "num": 401741,
       "word": "天津大姨盘头",
@@ -323,12 +331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371417,
+      "num": 371417,
+      "word": "原来我们错怪五仁月饼了",
+      "onboard_time": 1695953431,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
       "raw_hot": 354710,
       "num": 354710,
       "word": "林双卫明离婚",
       "onboard_time": 1695947130,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 341968,
+      "num": 484743,
+      "word": "马龙的简历长到让鼠标冒火星子",
+      "onboard_time": 1695944070,
+      "rank": 14,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 340191,
@@ -355,12 +379,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 327877,
-      "num": 484743,
-      "word": "马龙的简历长到让鼠标冒火星子",
-      "onboard_time": 1695944070,
-      "rank": 14,
-      "category": "社会新闻,体育"
+      "raw_hot": 304676,
+      "num": 244419,
+      "word": "彼岸花过于旺盛 反而有点恐怖",
+      "onboard_time": 1695953071,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 300252,
@@ -369,22 +393,6 @@
       "onboard_time": 1695906523,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 299538,
-      "num": 244419,
-      "word": "彼岸花过于旺盛 反而有点恐怖",
-      "onboard_time": 1695953071,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 293482,
-      "num": 293482,
-      "word": "放假聪明人",
-      "onboard_time": 1695951632,
-      "rank": 24,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 291500,
@@ -419,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269426,
-      "num": 269426,
-      "word": "原来我们错怪五仁月饼了",
-      "onboard_time": 1695953431,
-      "rank": 27,
-      "category": "美食"
+      "raw_hot": 278276,
+      "num": 276013,
+      "word": "Angelababy金色链条丝绸长裙",
+      "onboard_time": 1695951814,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 264286,
@@ -459,20 +467,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 251034,
-      "num": 251034,
-      "word": "Angelababy金色链条丝绸长裙",
-      "onboard_time": 1695951814,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 227384,
-      "num": 227384,
+      "raw_hot": 239453,
+      "num": 239453,
       "word": "五条悟被封印",
       "onboard_time": 1695950972,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 226119,
+      "num": 226119,
+      "word": "任柯明 我的礼服被艺人造型师诈骗了",
+      "onboard_time": 1695953013,
+      "rank": 37,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 221923,
@@ -515,16 +523,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 206844,
-      "num": 206844,
-      "word": "任柯明 我的礼服被艺人造型师诈骗了",
-      "onboard_time": 1695953013,
-      "rank": 37,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 201939,
-      "num": 201939,
+      "num": 381853,
       "word": "明月出天山震撼画面",
       "onboard_time": 1695953613,
       "rank": 39,
@@ -553,6 +553,14 @@
       "onboard_time": 1695943287,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 191934,
+      "num": 191934,
+      "word": "被李昀锐封神面试视频笑死",
+      "onboard_time": 1695954090,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 190997,
@@ -617,6 +625,14 @@
       "onboard_time": 1695913238,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 176153,
+      "num": 176153,
+      "word": "谭维维珍珠项链",
+      "onboard_time": 1695953909,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 175077,
@@ -715,20 +731,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 153418,
-      "num": 153418,
-      "word": "谭维维珍珠项链",
-      "onboard_time": 1695953909,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 149409,
-      "num": 149409,
-      "word": "被李昀锐封神面试视频笑死",
-      "onboard_time": 1695954090,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 151032,
+      "num": 151032,
+      "word": "张凌赫 当乞丐也能赚到一座金山",
+      "onboard_time": 1695954812,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 147950,
@@ -777,6 +785,14 @@
       "onboard_time": 1695944727,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 138412,
+      "num": 138412,
+      "word": "张昊唯新剧进酒吧被下药",
+      "onboard_time": 1695954271,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 130783,

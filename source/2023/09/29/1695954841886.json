@@ -1,0 +1,410 @@
+{
+  "runTime": 1695954841886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1204320,
+        "num": 1204320,
+        "word": "月饼今年卖不动了",
+        "onboard_time": 1695918330,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1179609,
+        "num": 1179609,
+        "word": "堵车",
+        "onboard_time": 1695952289,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17875,
+        "num": 995774,
+        "word": "杭州亚运赛场燃情瞬间",
+        "onboard_time": 1695900993,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 975475,
+        "num": 975475,
+        "word": "林依轮被嘉兴服务区征服了",
+        "onboard_time": 1695948632,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593749,
+        "num": 593749,
+        "word": "中秋节快乐",
+        "onboard_time": 1695944548,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 537678,
+        "num": 537678,
+        "word": "放假聪明人",
+        "onboard_time": 1695951632,
+        "rank": 5,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 526233,
+        "num": 526233,
+        "word": "霍启刚这么恋爱脑吗",
+        "onboard_time": 1695943225,
+        "rank": 6,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 508486,
+        "num": 508486,
+        "word": "周扬青的家可以办潮玩展了",
+        "onboard_time": 1695945751,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 503846,
+        "num": 503846,
+        "word": "池昌旭新剧开播 吃醋戏码",
+        "onboard_time": 1695953310,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 490762,
+        "num": 490762,
+        "word": "中秋节",
+        "onboard_time": 1695943467,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86914,
+        "num": 487674,
+        "word": "团圆路上的真情一刻",
+        "onboard_time": 1695952653,
+        "rank": 10,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 1266438,
+        "num": 486897,
+        "word": "许家印二儿子许滕鹤被带走",
+        "onboard_time": 1695946410,
+        "rank": 11,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 655570,
+        "num": 482158,
+        "word": "恒大员工回应许家印被采取强制措施",
+        "onboard_time": 1695947792,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341968,
+        "num": 476603,
+        "word": "马龙的简历长到让鼠标冒火星子",
+        "onboard_time": 1695944070,
+        "rank": 13,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 275659,
+        "num": 472919,
+        "word": "中秋节国庆节双倍快乐",
+        "onboard_time": 1695944368,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633126,
+        "num": 469895,
+        "word": "封神 再不洗袜子怕是要失去他了",
+        "onboard_time": 1695945690,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 507156,
+        "num": 466217,
+        "word": "许家印身家已缩水超90%",
+        "onboard_time": 1695944005,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465760,
+        "num": 465760,
+        "word": "中国妇女报评前任4",
+        "onboard_time": 1695947432,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428137,
+        "num": 428137,
+        "word": "在韩国感受到了卫生巾贫困",
+        "onboard_time": 1695944606,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 197774,
+        "num": 381853,
+        "word": "明月出天山震撼画面",
+        "onboard_time": 1695953613,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371417,
+        "num": 371417,
+        "word": "原来我们错怪五仁月饼了",
+        "onboard_time": 1695953431,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 344223,
+        "num": 344223,
+        "word": "高速",
+        "onboard_time": 1695911142,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313918,
+        "num": 313918,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695943946,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297123,
+        "num": 297123,
+        "word": "虞书欣徐明浩加起来是seventeen",
+        "onboard_time": 1695950670,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284628,
+        "num": 284628,
+        "word": "舒肤佳 檀健次",
+        "onboard_time": 1695911324,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281121,
+        "num": 281121,
+        "word": "王俊凯下车镜头",
+        "onboard_time": 1695943830,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276851,
+        "num": 276851,
+        "word": "江苏薪酬",
+        "onboard_time": 1695948451,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 278276,
+        "num": 276013,
+        "word": "Angelababy金色链条丝绸长裙",
+        "onboard_time": 1695951814,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265349,
+        "num": 265349,
+        "word": "林双卫明离婚",
+        "onboard_time": 1695947130,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239453,
+        "num": 239453,
+        "word": "五条悟被封印",
+        "onboard_time": 1695950972,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 304676,
+        "num": 237560,
+        "word": "彼岸花过于旺盛 反而有点恐怖",
+        "onboard_time": 1695953071,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226119,
+        "num": 226119,
+        "word": "任柯明 我的礼服被艺人造型师诈骗了",
+        "onboard_time": 1695953013,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 224705,
+        "num": 224705,
+        "word": "许家印可能涉嫌多项罪名",
+        "onboard_time": 1695906347,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222710,
+        "num": 222710,
+        "word": "侯明昊 我想要去直面自己",
+        "onboard_time": 1695951451,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217497,
+        "num": 217497,
+        "word": "小猫被救起来之后疯狂在怀里撒娇",
+        "onboard_time": 1695950251,
+        "rank": 34,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 210367,
+        "num": 210367,
+        "word": "许家印已为儿子设立信托基金",
+        "onboard_time": 1695914319,
+        "rank": 35,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 199324,
+        "num": 199324,
+        "word": "邓布利多之死",
+        "onboard_time": 1695952232,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191934,
+        "num": 191934,
+        "word": "被李昀锐封神面试视频笑死",
+        "onboard_time": 1695954090,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205550,
+        "num": 191683,
+        "word": "许家印已被依法采取强制措施",
+        "onboard_time": 1695904422,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189580,
+        "num": 189580,
+        "word": "婴儿呛奶育婴师拍打其后脑用剪刀扎脚",
+        "onboard_time": 1695946290,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178703,
+        "num": 178703,
+        "word": "原来这就是中医把脉的科学性",
+        "onboard_time": 1695946050,
+        "rank": 40,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 176153,
+        "num": 176153,
+        "word": "谭维维珍珠项链",
+        "onboard_time": 1695953909,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170383,
+        "num": 170383,
+        "word": "巴黎粉丝在成毅面前cos李相夷",
+        "onboard_time": 1695949231,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166551,
+        "num": 166551,
+        "word": "伯远 好的恋人能像朋友一般自洽相处",
+        "onboard_time": 1695949594,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160827,
+        "num": 160827,
+        "word": "谁来管管黄景瑜的嘴",
+        "onboard_time": 1695953013,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156165,
+        "num": 156165,
+        "word": "别人的是简历马龙的是繁历",
+        "onboard_time": 1695915335,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151032,
+        "num": 151032,
+        "word": "张凌赫 当乞丐也能赚到一座金山",
+        "onboard_time": 1695954812,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142661,
+        "num": 142661,
+        "word": "中秋文案",
+        "onboard_time": 1695940640,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138412,
+        "num": 138412,
+        "word": "张昊唯新剧进酒吧被下药",
+        "onboard_time": 1695954271,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135633,
+        "num": 135633,
+        "word": "中秋祝福",
+        "onboard_time": 1695944727,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
