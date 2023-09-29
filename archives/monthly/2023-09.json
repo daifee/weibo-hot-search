@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1696019656502,
+  "endTime": 1696022079903,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -78121,6 +78121,14 @@
       "onboard_time": 1695152653,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 22138,
+      "num": 22138,
+      "word": "张远衣服上的玫瑰花是真的",
+      "onboard_time": 1696020434,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 21987,
