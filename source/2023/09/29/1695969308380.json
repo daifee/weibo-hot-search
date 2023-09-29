@@ -1,0 +1,410 @@
+{
+  "runTime": 1695969308380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1302210,
+        "num": 1302210,
+        "word": "林志颖体重只有55公斤",
+        "onboard_time": 1695966453,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1093081,
+        "num": 1093081,
+        "word": "保研",
+        "onboard_time": 1695964353,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 40828,
+        "num": 776747,
+        "word": "亚运健儿国风壁纸",
+        "onboard_time": 1695960690,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 724784,
+        "num": 724784,
+        "word": "英雄联盟中国队vs越南队",
+        "onboard_time": 1695967476,
+        "rank": 3,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 687446,
+        "num": 687446,
+        "word": "建议大学里的水课都换成这些",
+        "onboard_time": 1695960093,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 684447,
+        "num": 684447,
+        "word": "堵车",
+        "onboard_time": 1695952289,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651303,
+        "num": 651303,
+        "word": "冯小刚回应病危传言",
+        "onboard_time": 1695959490,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486323,
+        "num": 486323,
+        "word": "易烊千玺中秋怀化citywalk",
+        "onboard_time": 1695964953,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460440,
+        "num": 460440,
+        "word": "马来西亚选手第一次在中国吃月饼哽咽了",
+        "onboard_time": 1695958412,
+        "rank": 8,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 452188,
+        "num": 452188,
+        "word": "电竞人采访被确诊为张飞",
+        "onboard_time": 1695965372,
+        "rank": 9,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 1545410,
+        "num": 449759,
+        "word": "孟子义 想结婚就别谈太久的恋爱",
+        "onboard_time": 1695965134,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326327,
+        "num": 447780,
+        "word": "央视中秋晚会节目单",
+        "onboard_time": 1695956011,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85479,
+        "num": 445262,
+        "word": "中国人的家总能让你放下负担",
+        "onboard_time": 1695967829,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200702,
+        "num": 440841,
+        "word": "郑钦文亚运会网球女单冠军",
+        "onboard_time": 1695966814,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183622,
+        "num": 439598,
+        "word": "中秋节国庆节双倍快乐",
+        "onboard_time": 1695944368,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 902751,
+        "num": 435680,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434828,
+        "num": 434828,
+        "word": "田曦薇落入山野的玉兔",
+        "onboard_time": 1695968792,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 399253,
+        "num": 399253,
+        "word": "汪顺统一了东亚审美标准",
+        "onboard_time": 1695962913,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 360067,
+        "num": 360067,
+        "word": "使用iPhone很久才知道的实用功能",
+        "onboard_time": 1695956073,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 354612,
+        "num": 354612,
+        "word": "原来我们错怪五仁月饼了",
+        "onboard_time": 1695953431,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 355046,
+        "num": 351323,
+        "word": "恒大",
+        "onboard_time": 1695967713,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338895,
+        "num": 338895,
+        "word": "许家印家族分红套现500亿",
+        "onboard_time": 1695955532,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328437,
+        "num": 328437,
+        "word": "张小斐非遗云锦高定",
+        "onboard_time": 1695964593,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297916,
+        "num": 297916,
+        "word": "张凌赫 当乞丐也能赚到一座金山",
+        "onboard_time": 1695954812,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293793,
+        "num": 293793,
+        "word": "雷佳音周冬雨演情侣",
+        "onboard_time": 1695965193,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285096,
+        "num": 285096,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695960213,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255449,
+        "num": 255449,
+        "word": "中秋保留节目看兔兔做月饼",
+        "onboard_time": 1695968974,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243413,
+        "num": 243413,
+        "word": "华晨宇新歌第一次写纯爱",
+        "onboard_time": 1695968314,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 211092,
+        "num": 211092,
+        "word": "杭州东站一步一个国家队",
+        "onboard_time": 1695962675,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202015,
+        "num": 202015,
+        "word": "日本解说是如何评价马龙的",
+        "onboard_time": 1695965253,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296103,
+        "num": 201488,
+        "word": "张雨霏无缘亚运七冠王",
+        "onboard_time": 1695968974,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209631,
+        "num": 201036,
+        "word": "现在到杭州摆摊还来得及吗",
+        "onboard_time": 1695968250,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200362,
+        "num": 200362,
+        "word": "雷佳音说要演于和伟老婆",
+        "onboard_time": 1695968974,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196159,
+        "num": 196159,
+        "word": "魏大勋借几件衣服给韩庚吧",
+        "onboard_time": 1695968792,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196079,
+        "num": 196079,
+        "word": "许家印身家已缩水超90%",
+        "onboard_time": 1695944005,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189511,
+        "num": 189511,
+        "word": "杨紫片场模仿安陵容",
+        "onboard_time": 1695961652,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189505,
+        "num": 189505,
+        "word": "坚如磐石",
+        "onboard_time": 1695946834,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175988,
+        "num": 175988,
+        "word": "张韶涵 25岁到41岁的变化",
+        "onboard_time": 1695958830,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174454,
+        "num": 174454,
+        "word": "21年前的吴敏霞好飒",
+        "onboard_time": 1695963932,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166211,
+        "num": 166211,
+        "word": "有订票平台称部分机票降价可赔差",
+        "onboard_time": 1695964593,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164854,
+        "num": 164854,
+        "word": "汪顺真的帅",
+        "onboard_time": 1695969213,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157057,
+        "num": 157057,
+        "word": "导演一句话胡兵眼泪都快出来了",
+        "onboard_time": 1695965313,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156321,
+        "num": 156321,
+        "word": "王仕鹏朱芳雨执教球队输美国后怒了",
+        "onboard_time": 1695957273,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155372,
+        "num": 155372,
+        "word": "彼岸花过于旺盛 反而有点恐怖",
+        "onboard_time": 1695953071,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155160,
+        "num": 155160,
+        "word": "中秋节快乐",
+        "onboard_time": 1695944548,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146566,
+        "num": 146566,
+        "word": "花花送大家中秋节祝福了",
+        "onboard_time": 1695967534,
+        "rank": 45,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 146215,
+        "num": 146215,
+        "word": "许家印二儿子许滕鹤被带走",
+        "onboard_time": 1695946410,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 143530,
+        "num": 143530,
+        "word": "花西子",
+        "onboard_time": 1695961833,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141874,
+        "num": 141874,
+        "word": "凤凰传奇也没想到会以这种再火出圈",
+        "onboard_time": 1695959193,
+        "rank": 48,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 131948,
+        "num": 131948,
+        "word": "高校为2万名学生发印有校名校徽的月饼",
+        "onboard_time": 1695969151,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对妇女儿童工作作出重要指示#"
+    }
+  }
+}
