@@ -1,0 +1,410 @@
+{
+  "runTime": 1695987245450,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9774315,
+        "num": 9774315,
+        "word": "超级月亮",
+        "onboard_time": 1695982772,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 673868,
+        "num": 4803558,
+        "word": "5岁女孩池边喂50斤胖锦鲤小月饼",
+        "onboard_time": 1695985714,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63875,
+        "num": 3236268,
+        "word": "玉兔二号发来月球风景照",
+        "onboard_time": 1695958652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1929325,
+        "num": 1929325,
+        "word": "西藏堵车 震撼全家",
+        "onboard_time": 1695984995,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 258319,
+        "num": 1505690,
+        "word": "孕妇捡到早产小狗做心肺复苏救活",
+        "onboard_time": 1695976593,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1282304,
+        "num": 1282304,
+        "word": "中秋晚会",
+        "onboard_time": 1695981751,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137340,
+        "num": 934202,
+        "word": "女孩第一次见穿警服的爸爸开心到飞起",
+        "onboard_time": 1695969875,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788176,
+        "num": 788176,
+        "word": "英雄联盟韩国vs中国台北",
+        "onboard_time": 1695983553,
+        "rank": 7,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 604852,
+        "num": 604852,
+        "word": "英雄联盟中国队铜牌",
+        "onboard_time": 1695975514,
+        "rank": 8,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 359405,
+        "num": 359405,
+        "word": "火光代到了张馨予何捷",
+        "onboard_time": 1695980554,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 999582,
+        "num": 358331,
+        "word": "陈哲远 空降",
+        "onboard_time": 1695984093,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 809518,
+        "num": 357576,
+        "word": "王栎鑫首谈离婚经历",
+        "onboard_time": 1695978754,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 350605,
+        "num": 350605,
+        "word": "中秋月亮摄影大赛",
+        "onboard_time": 1695984392,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 645600,
+        "num": 349658,
+        "word": "Angelababy古装清冷感",
+        "onboard_time": 1695986015,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50332,
+        "num": 338147,
+        "word": "700名维和官兵获联合国和平荣誉勋章",
+        "onboard_time": 1695984932,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356184,
+        "num": 337382,
+        "word": "为什么香蕉头有个黑色小疙瘩",
+        "onboard_time": 1695981812,
+        "rank": 15,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 429286,
+        "num": 329959,
+        "word": "xiye对Ning下手太重了",
+        "onboard_time": 1695985895,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 407783,
+        "num": 323863,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695982412,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388513,
+        "num": 315869,
+        "word": "张小斐美拉德妆",
+        "onboard_time": 1695986015,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 312958,
+        "num": 312958,
+        "word": "中秋文案",
+        "onboard_time": 1695985895,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 460370,
+        "num": 312797,
+        "word": "许家印",
+        "onboard_time": 1695982474,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445009,
+        "num": 310199,
+        "word": "11岁男孩被逼吸烟下跪遭围殴",
+        "onboard_time": 1695986135,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407675,
+        "num": 309614,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371584,
+        "num": 307882,
+        "word": "杨幂法国街头漫步",
+        "onboard_time": 1695987037,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 307135,
+        "num": 307135,
+        "word": "陈妍希 遇到会让你内耗的人就赶紧跑吧",
+        "onboard_time": 1695977556,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258297,
+        "num": 258297,
+        "word": "韩国体操小哥 快乐小狗",
+        "onboard_time": 1695984031,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257528,
+        "num": 257528,
+        "word": "广州南站成全国火车站客流量第一",
+        "onboard_time": 1695982114,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252700,
+        "num": 252700,
+        "word": "于适 开挂人生",
+        "onboard_time": 1695979953,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251128,
+        "num": 251128,
+        "word": "Ning和xiye还怎么打",
+        "onboard_time": 1695984451,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 229229,
+        "num": 229229,
+        "word": "傅云深严谨的求婚仪式",
+        "onboard_time": 1695985714,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 309303,
+        "num": 227148,
+        "word": "汪顺馋哭外国迷妹",
+        "onboard_time": 1695986856,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296770,
+        "num": 225334,
+        "word": "伊朗选手 发球失误",
+        "onboard_time": 1695986796,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220728,
+        "num": 220728,
+        "word": "广东肇庆成为十一假期全国最堵城市",
+        "onboard_time": 1695983374,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218565,
+        "num": 218565,
+        "word": "孟子义 想结婚就别谈太久的恋爱",
+        "onboard_time": 1695965134,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213571,
+        "num": 213571,
+        "word": "欧文要求大英博物馆归还文物",
+        "onboard_time": 1695986493,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210364,
+        "num": 210364,
+        "word": "赵小棠美拉德够野",
+        "onboard_time": 1695985837,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205751,
+        "num": 205751,
+        "word": "湖南卫视中秋之夜",
+        "onboard_time": 1695987215,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172534,
+        "num": 172534,
+        "word": "志愿军 彩蛋",
+        "onboard_time": 1695975034,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163857,
+        "num": 163857,
+        "word": "周柯宇 红包",
+        "onboard_time": 1695979473,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163631,
+        "num": 163631,
+        "word": "鞠婧祎光影秀版恋爱告急",
+        "onboard_time": 1695983432,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159736,
+        "num": 159736,
+        "word": "国羽男团1比1中国台北",
+        "onboard_time": 1695986257,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148452,
+        "num": 148452,
+        "word": "保研",
+        "onboard_time": 1695964353,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 145810,
+        "num": 145810,
+        "word": "杭州灵隐又是人人人魅力太大了",
+        "onboard_time": 1695976173,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138871,
+        "num": 138871,
+        "word": "节前的高铁上学习氛围有多浓厚",
+        "onboard_time": 1695986135,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135172,
+        "num": 135172,
+        "word": "国羽王昶好帅",
+        "onboard_time": 1695984156,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134669,
+        "num": 134669,
+        "word": "记录团圆时刻",
+        "onboard_time": 1695986796,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132370,
+        "num": 132370,
+        "word": "中秋节目单",
+        "onboard_time": 1695987215,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128445,
+        "num": 128445,
+        "word": "电影志愿军雄兵出击",
+        "onboard_time": 1695974733,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128176,
+        "num": 128176,
+        "word": "中国台北秒锁炼金",
+        "onboard_time": 1695987157,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 125764,
+        "num": 125764,
+        "word": "坚如磐石票房破亿",
+        "onboard_time": 1695970413,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对妇女儿童工作作出重要指示#"
+    }
+  }
+}

@@ -1,10 +1,10 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695986056055,
+  "endTime": 1695987245450,
   "band_list": [
     {
-      "raw_hot": 8442592,
-      "num": 8442592,
+      "raw_hot": 9774315,
+      "num": 9774315,
       "word": "超级月亮",
       "onboard_time": 1695982772,
       "rank": 3,
@@ -33,6 +33,14 @@
       "onboard_time": 1695959490,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1929325,
+      "num": 1929325,
+      "word": "西藏堵车 震撼全家",
+      "onboard_time": 1695984995,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 1850005,
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1087125,
-      "num": 229381,
-      "word": "西藏堵车 震撼全家",
-      "onboard_time": 1695984995,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 1041030,
       "num": 1041030,
       "word": "央视中秋晚会节目单",
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 673868,
+      "num": 4803558,
+      "word": "5岁女孩池边喂50斤胖锦鲤小月饼",
+      "onboard_time": 1695985714,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666206,
       "num": 640730,
       "word": "许家印身家已缩水超90%",
@@ -377,6 +385,14 @@
       "onboard_time": 1695978876,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 645600,
+      "num": 399701,
+      "word": "Angelababy古装清冷感",
+      "onboard_time": 1695986015,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 641067,
@@ -409,14 +425,6 @@
       "onboard_time": 1695958830,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 623921,
-      "num": 399701,
-      "word": "Angelababy古装清冷感",
-      "onboard_time": 1695986015,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 620995,
@@ -627,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 445009,
+      "num": 310199,
+      "word": "11岁男孩被逼吸烟下跪遭围殴",
+      "onboard_time": 1695986135,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442878,
       "num": 442878,
       "word": "黄轩 好疯",
@@ -673,6 +689,14 @@
       "onboard_time": 1695982114,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 429286,
+      "num": 329959,
+      "word": "xiye对Ning下手太重了",
+      "onboard_time": 1695985895,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 427012,
@@ -795,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 388513,
+      "num": 345834,
+      "word": "张小斐美拉德妆",
+      "onboard_time": 1695986015,
+      "rank": 23,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 387276,
       "num": 381487,
       "word": "婴儿呛奶育婴师拍打其后脑用剪刀扎脚",
@@ -851,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 371584,
+      "num": 307882,
+      "word": "杨幂法国街头漫步",
+      "onboard_time": 1695987037,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 368111,
       "num": 368111,
       "word": "赵丽颖林更新与凤行中秋海报",
@@ -905,14 +945,6 @@
       "onboard_time": 1695956311,
       "rank": 30,
       "category": "体育,游戏"
-    },
-    {
-      "raw_hot": 345834,
-      "num": 345834,
-      "word": "张小斐美拉德妆",
-      "onboard_time": 1695986015,
-      "rank": 23,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 341968,
@@ -987,6 +1019,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312958,
+      "num": 312958,
+      "word": "中秋文案",
+      "onboard_time": 1695940640,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 309303,
+      "num": 227148,
+      "word": "汪顺馋哭外国迷妹",
+      "onboard_time": 1695986856,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304676,
       "num": 249278,
       "word": "彼岸花过于旺盛 反而有点恐怖",
@@ -1043,6 +1091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 296770,
+      "num": 225334,
+      "word": "伊朗选手 发球失误",
+      "onboard_time": 1695986796,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296101,
       "num": 296101,
       "word": "田柾国MV",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1695958892,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 281182,
-      "num": 281182,
-      "word": "中秋文案",
-      "onboard_time": 1695940640,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 279076,
@@ -1363,14 +1411,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 222449,
-      "num": 397565,
-      "word": "5岁女孩池边喂50斤胖锦鲤小月饼",
-      "onboard_time": 1695985714,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221923,
       "num": 221923,
       "word": "小猫被救起来之后疯狂在怀里撒娇",
@@ -1451,6 +1491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213571,
+      "num": 213571,
+      "word": "欧文要求大英博物馆归还文物",
+      "onboard_time": 1695986493,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212767,
       "num": 212767,
       "word": "恒大地产未能清偿债务累计约2785.32亿",
@@ -1481,6 +1529,14 @@
       "onboard_time": 1695982474,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210364,
+      "num": 210364,
+      "word": "赵小棠美拉德够野",
+      "onboard_time": 1695985837,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210094,
@@ -1555,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205751,
+      "num": 205751,
+      "word": "湖南卫视中秋之夜",
+      "onboard_time": 1695987215,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203980,
       "num": 203980,
       "word": "导演一句话胡兵眼泪都快出来了",
@@ -1569,14 +1633,6 @@
       "onboard_time": 1695973592,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 201972,
-      "num": 201972,
-      "word": "xiye对Ning下手太重了",
-      "onboard_time": 1695985895,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 201939,
@@ -1697,14 +1753,6 @@
       "onboard_time": 1695958113,
       "rank": 38,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 188609,
-      "num": 188609,
-      "word": "赵小棠美拉德够野",
-      "onboard_time": 1695985837,
-      "rank": 37,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 187861,
@@ -1907,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159736,
+      "num": 159736,
+      "word": "国羽男团1比1中国台北",
+      "onboard_time": 1695986257,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158956,
       "num": 158956,
       "word": "盘点许家印商业版图",
@@ -2075,6 +2131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 138871,
+      "num": 138871,
+      "word": "节前的高铁上学习氛围有多浓厚",
+      "onboard_time": 1695986135,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138412,
       "num": 138412,
       "word": "张昊唯新剧进酒吧被下药",
@@ -2097,6 +2161,22 @@
       "onboard_time": 1695979712,
       "rank": 19,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 134669,
+      "num": 134669,
+      "word": "记录团圆时刻",
+      "onboard_time": 1695986796,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132370,
+      "num": 132370,
+      "word": "中秋节目单",
+      "onboard_time": 1695987215,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 131948,
@@ -2139,8 +2219,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128176,
+      "num": 128176,
+      "word": "中国台北秒锁炼金",
+      "onboard_time": 1695987157,
+      "rank": 48,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 127090,
-      "num": 2383260,
+      "num": 3236268,
       "word": "玉兔二号发来月球风景照",
       "onboard_time": 1695958652,
       "rank": 49,
