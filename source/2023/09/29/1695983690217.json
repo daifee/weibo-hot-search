@@ -1,0 +1,410 @@
+{
+  "runTime": 1695983690217,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1590503,
+        "num": 1590503,
+        "word": "英雄联盟中国队铜牌",
+        "onboard_time": 1695975514,
+        "rank": 0,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 476964,
+        "num": 1571754,
+        "word": "孕妇捡到早产小狗做心肺复苏救活",
+        "onboard_time": 1695976593,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 67225,
+        "num": 1564579,
+        "word": "玉兔二号发来月球风景照",
+        "onboard_time": 1695958652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562080,
+        "num": 1562080,
+        "word": "超级月亮",
+        "onboard_time": 1695982772,
+        "rank": 3,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 326778,
+        "num": 1532496,
+        "word": "女孩第一次见穿警服的爸爸开心到飞起",
+        "onboard_time": 1695969875,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1526694,
+        "num": 1526694,
+        "word": "中秋晚会",
+        "onboard_time": 1695981751,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210497,
+        "num": 903789,
+        "word": "唐茜靖为杭州亚运会瘦15斤",
+        "onboard_time": 1695982474,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 853313,
+        "num": 853313,
+        "word": "陈妍希 遇到会让你内耗的人就赶紧跑吧",
+        "onboard_time": 1695977556,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 650318,
+        "num": 650318,
+        "word": "中国连续10届亚运会金牌榜第一",
+        "onboard_time": 1695978876,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 538365,
+        "num": 538365,
+        "word": "火光代到了张馨予何捷",
+        "onboard_time": 1695980554,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1451270,
+        "num": 527398,
+        "word": "王栎鑫首谈离婚经历",
+        "onboard_time": 1695978754,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 744287,
+        "num": 516177,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 584289,
+        "num": 509720,
+        "word": "于适 开挂人生",
+        "onboard_time": 1695979953,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499497,
+        "num": 499497,
+        "word": "为什么香蕉头有个黑色小疙瘩",
+        "onboard_time": 1695981812,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 737282,
+        "num": 485492,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695982412,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454150,
+        "num": 454150,
+        "word": "英雄联盟韩国vs中国台北",
+        "onboard_time": 1695983553,
+        "rank": 15,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 429280,
+        "num": 429280,
+        "word": "广州南站成全国火车站客流量第一",
+        "onboard_time": 1695982114,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411496,
+        "num": 411496,
+        "word": "周柯宇 红包",
+        "onboard_time": 1695979473,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388209,
+        "num": 388209,
+        "word": "杭州灵隐又是人人人魅力太大了",
+        "onboard_time": 1695976173,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386255,
+        "num": 386255,
+        "word": "孟子义 想结婚就别谈太久的恋爱",
+        "onboard_time": 1695965134,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 697085,
+        "num": 362210,
+        "word": "许家印",
+        "onboard_time": 1695982474,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296957,
+        "num": 296957,
+        "word": "你好星期六好6团送中秋祝福",
+        "onboard_time": 1695981512,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265421,
+        "num": 265421,
+        "word": "东方卫视中秋晚会节目单",
+        "onboard_time": 1695983011,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247568,
+        "num": 247568,
+        "word": "黄轩 好疯",
+        "onboard_time": 1695977252,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247173,
+        "num": 247173,
+        "word": "保研",
+        "onboard_time": 1695964353,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225962,
+        "num": 225962,
+        "word": "张柏芝听到你好漂亮后的反应",
+        "onboard_time": 1695972154,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219285,
+        "num": 219285,
+        "word": "志愿军 彩蛋",
+        "onboard_time": 1695975034,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 216136,
+        "num": 216136,
+        "word": "吴昕半包小烟熏",
+        "onboard_time": 1695979712,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198891,
+        "num": 198891,
+        "word": "如何把一块钱的食物卖出100块",
+        "onboard_time": 1695978391,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197941,
+        "num": 197941,
+        "word": "虞书欣称观众看剧是给演员批考卷",
+        "onboard_time": 1695980791,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191040,
+        "num": 191040,
+        "word": "王丽坤新剧又演美人心计了",
+        "onboard_time": 1695972876,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182661,
+        "num": 182661,
+        "word": "鞠婧祎光影秀版恋爱告急",
+        "onboard_time": 1695983432,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181233,
+        "num": 181233,
+        "word": "这难道就是网文描述的腰窝",
+        "onboard_time": 1695981332,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171829,
+        "num": 171829,
+        "word": "石宇奇不敌周天成",
+        "onboard_time": 1695981994,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161030,
+        "num": 161030,
+        "word": "广东肇庆成为十一假期全国最堵城市",
+        "onboard_time": 1695983374,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157238,
+        "num": 157238,
+        "word": "从幼儿园带回来的月饼不要吃",
+        "onboard_time": 1695969631,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153891,
+        "num": 153891,
+        "word": "中网",
+        "onboard_time": 1695979473,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151066,
+        "num": 151066,
+        "word": "baolan 这阵容咋选出来的",
+        "onboard_time": 1695972093,
+        "rank": 37,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 147242,
+        "num": 147242,
+        "word": "章瑾亚运女子自由操金牌",
+        "onboard_time": 1695980613,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43290,
+        "num": 146992,
+        "word": "十一随手拍",
+        "onboard_time": 1695983492,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146863,
+        "num": 146863,
+        "word": "张博恒 劳模",
+        "onboard_time": 1695982114,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143631,
+        "num": 143631,
+        "word": "坚如磐石票房破亿",
+        "onboard_time": 1695970413,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139811,
+        "num": 139811,
+        "word": "Ditto 鲸曲届的难忘今宵",
+        "onboard_time": 1695973535,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 139582,
+        "num": 139582,
+        "word": "许昕站姐收满一整盘许昕徽章",
+        "onboard_time": 1695976892,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136657,
+        "num": 136657,
+        "word": "于和伟 荔枝甜",
+        "onboard_time": 1695969333,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135857,
+        "num": 135857,
+        "word": "时代少年团直播",
+        "onboard_time": 1695975155,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135732,
+        "num": 135732,
+        "word": "迷笛 泥笛",
+        "onboard_time": 1695978571,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134249,
+        "num": 134249,
+        "word": "电影志愿军雄兵出击",
+        "onboard_time": 1695974733,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129520,
+        "num": 129520,
+        "word": "四六级考试宁愿瞎写也不能空着",
+        "onboard_time": 1695971729,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124631,
+        "num": 124631,
+        "word": "五ban打野",
+        "onboard_time": 1695974012,
+        "rank": 49,
+        "category": "游戏,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励英烈子女#"
+    }
+  }
+}

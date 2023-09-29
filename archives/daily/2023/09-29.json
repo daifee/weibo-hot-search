@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695982699379,
+  "endTime": 1695983690217,
   "band_list": [
     {
       "raw_hot": 8080481,
@@ -68,10 +68,26 @@
     },
     {
       "raw_hot": 1563889,
-      "num": 439040,
+      "num": 527398,
       "word": "王栎鑫首谈离婚经历",
       "onboard_time": 1695978754,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1562080,
+      "num": 1562080,
+      "word": "超级月亮",
+      "onboard_time": 1695982772,
+      "rank": 3,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 1526694,
+      "num": 1526694,
+      "word": "中秋晚会",
+      "onboard_time": 1695981751,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -83,16 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1428735,
-      "num": 1428735,
-      "word": "中秋晚会",
-      "onboard_time": 1695981751,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1376273,
-      "num": 436854,
+      "num": 485492,
       "word": "许家印父子及多名恒大高管涉案被查",
       "onboard_time": 1695915998,
       "rank": 10,
@@ -315,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 697085,
+      "num": 362210,
+      "word": "许家印",
+      "onboard_time": 1695982474,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666206,
       "num": 640730,
       "word": "许家印身家已缩水超90%",
@@ -329,6 +345,14 @@
       "onboard_time": 1695911324,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 650318,
+      "num": 650318,
+      "word": "中国连续10届亚运会金牌榜第一",
+      "onboard_time": 1695978876,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 641067,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 608982,
-      "num": 432062,
+      "num": 509720,
       "word": "于适 开挂人生",
       "onboard_time": 1695979953,
       "rank": 16,
@@ -451,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 549280,
-      "num": 549280,
-      "word": "中国连续10届亚运会金牌榜第一",
-      "onboard_time": 1695978876,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 537678,
       "num": 537678,
       "word": "放假聪明人",
@@ -491,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499497,
+      "num": 499497,
+      "word": "为什么香蕉头有个黑色小疙瘩",
+      "onboard_time": 1695981812,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 498833,
       "num": 427197,
       "word": "王俊凯下车镜头",
@@ -505,6 +529,14 @@
       "onboard_time": 1695974433,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 476964,
+      "num": 1571754,
+      "word": "孕妇捡到早产小狗做心肺复苏救活",
+      "onboard_time": 1695976593,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 467879,
@@ -547,12 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456302,
-      "num": 1526495,
-      "word": "孕妇捡到早产小狗做心肺复苏救活",
-      "onboard_time": 1695976593,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 454150,
+      "num": 454150,
+      "word": "英雄联盟韩国vs中国台北",
+      "onboard_time": 1695983553,
+      "rank": 15,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 445976,
@@ -601,6 +633,14 @@
       "onboard_time": 1695979473,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429280,
+      "num": 429280,
+      "word": "广州南站成全国火车站客流量第一",
+      "onboard_time": 1695982114,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427012,
@@ -771,14 +811,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 363125,
-      "num": 255220,
-      "word": "许家印",
-      "onboard_time": 1695982474,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 355046,
       "num": 351323,
       "word": "恒大",
@@ -835,14 +867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 339927,
-      "num": 196434,
-      "word": "为什么香蕉头有个黑色小疙瘩",
-      "onboard_time": 1695981812,
-      "rank": 30,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 330861,
       "num": 219200,
       "word": "英雄联盟 打出悬念来了",
@@ -873,6 +897,14 @@
       "onboard_time": 1695946050,
       "rank": 22,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 326778,
+      "num": 1532496,
+      "word": "女孩第一次见穿警服的爸爸开心到飞起",
+      "onboard_time": 1695969875,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 315327,
@@ -1019,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 278446,
-      "num": 1073789,
-      "word": "女孩第一次见穿警服的爸爸开心到飞起",
-      "onboard_time": 1695969875,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 278276,
       "num": 276013,
       "word": "Angelababy金色链条丝绸长裙",
@@ -1064,6 +1088,14 @@
       "word": "央视中秋晚会节目单没有时代少年团",
       "onboard_time": 1695957931,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 265421,
+      "num": 265421,
+      "word": "东方卫视中秋晚会节目单",
+      "onboard_time": 1695983011,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -1347,6 +1379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210497,
+      "num": 903789,
+      "word": "唐茜靖为杭州亚运会瘦15斤",
+      "onboard_time": 1695982474,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210001,
       "num": 210001,
       "word": "这难道就是网文描述的腰窝",
@@ -1417,14 +1457,6 @@
       "onboard_time": 1695973592,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202141,
-      "num": 202141,
-      "word": "广州南站成全国火车站客流量第一",
-      "onboard_time": 1695982114,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201939,
@@ -1611,12 +1643,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 182374,
-      "num": 239821,
-      "word": "唐茜靖为杭州亚运会瘦15斤",
-      "onboard_time": 1695982474,
-      "rank": 24,
-      "category": "体育"
+      "raw_hot": 182661,
+      "num": 182661,
+      "word": "鞠婧祎光影秀版恋爱告急",
+      "onboard_time": 1695983432,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 181604,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1695914798,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161030,
+      "num": 161030,
+      "word": "广东肇庆成为十一假期全国最堵城市",
+      "onboard_time": 1695983374,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159938,
@@ -2113,6 +2153,14 @@
       "onboard_time": 1695960392,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 43290,
+      "num": 146992,
+      "word": "十一随手拍",
+      "onboard_time": 1695983492,
+      "rank": 39,
+      "category": "情感"
     },
     {
       "raw_hot": 42453,
