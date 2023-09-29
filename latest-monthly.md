@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/29 23:17:59
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/29 23:34:28
 </p>
 </blockquote>
 <p>
@@ -1371,6 +1371,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%E6%8A%8A%E7%97%98%E5%8F%98%E6%88%90%E7%97%A3%23" target="weibo">
+邢菲把痘变成痣（热度：2348374）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E6%8E%8C%E6%8E%B4%E5%AF%B9%E6%89%8B%E8%A2%AB%E7%BD%9A%E4%B8%8B%E5%9C%BA%23" target="weibo">
 韩国选手掌掴对手被罚下场（热度：2346910）
 </a>
@@ -2309,12 +2315,6 @@ CoCo奶茶道歉（热度：1916939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%86%E7%94%A8%E8%8B%B1%E8%AF%AD%E5%AE%A3%E8%AA%93%23" target="weibo">
 孙颖莎将用英语宣誓（热度：1909293）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%E6%8A%8A%E7%97%98%E5%8F%98%E6%88%90%E7%97%A3%23" target="weibo">
-邢菲把痘变成痣（热度：1908798）
 </a>
 </li>
 
