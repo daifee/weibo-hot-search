@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695957437729,
+  "endTime": 1695958436054,
   "band_list": [
     {
       "raw_hot": 1850005,
@@ -17,6 +17,14 @@
       "onboard_time": 1695914319,
       "rank": 5,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1686360,
+      "num": 1686360,
+      "word": "原来我们错怪五仁月饼了",
+      "onboard_time": 1695953431,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 1649351,
@@ -41,14 +49,6 @@
       "onboard_time": 1695915998,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1229045,
-      "num": 1229045,
-      "word": "原来我们错怪五仁月饼了",
-      "onboard_time": 1695953431,
-      "rank": 27,
-      "category": "美食"
     },
     {
       "raw_hot": 1188218,
@@ -83,8 +83,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 972531,
-      "num": 972531,
+      "raw_hot": 1041030,
+      "num": 1041030,
       "word": "央视中秋晚会节目单",
       "onboard_time": 1695956011,
       "rank": 3,
@@ -97,6 +97,14 @@
       "onboard_time": 1695903035,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 862021,
+      "num": 862021,
+      "word": "使用iPhone很久才知道的实用功能",
+      "onboard_time": 1695956073,
+      "rank": 11,
+      "category": "数码"
     },
     {
       "raw_hot": 857554,
@@ -283,12 +291,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 493894,
-      "num": 457228,
-      "word": "使用iPhone很久才知道的实用功能",
-      "onboard_time": 1695956073,
-      "rank": 11,
-      "category": "数码"
+      "raw_hot": 462204,
+      "num": 343836,
+      "word": "王仕鹏朱芳雨执教球队输美国后怒了",
+      "onboard_time": 1695957273,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 438793,
@@ -396,7 +404,7 @@
     },
     {
       "raw_hot": 347951,
-      "num": 224891,
+      "num": 346401,
       "word": "英雄联盟项目决赛",
       "onboard_time": 1695956311,
       "rank": 30,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 304676,
-      "num": 245341,
+      "num": 249278,
       "word": "彼岸花过于旺盛 反而有点恐怖",
       "onboard_time": 1695953071,
       "rank": 30,
@@ -457,6 +465,14 @@
       "onboard_time": 1695956611,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 298755,
+      "num": 298755,
+      "word": "平野美宇",
+      "onboard_time": 1695958051,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 291500,
@@ -499,6 +515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 265476,
+      "num": 265476,
+      "word": "央视中秋晚会节目单没有时代少年团",
+      "onboard_time": 1695957931,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264541,
       "num": 264541,
       "word": "莫斯科行动",
@@ -537,6 +561,14 @@
       "onboard_time": 1695945507,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 240338,
+      "num": 240338,
+      "word": "19岁小伙不远千里找姐姐终在中秋团聚",
+      "onboard_time": 1695957452,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239453,
@@ -611,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198362,
-      "num": 198362,
-      "word": "王仕鹏朱芳雨执教球队输美国后怒了",
-      "onboard_time": 1695957273,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 196940,
       "num": 196940,
       "word": "没想到有一天室友变亲戚了",
@@ -659,12 +683,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 190802,
+      "num": 190802,
+      "word": "黄奕背沟",
+      "onboard_time": 1695957693,
+      "rank": 37,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 189205,
       "num": 189205,
       "word": "起猛了看见安徽有龙在飞",
       "onboard_time": 1695950133,
       "rank": 33,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 188741,
+      "num": 188741,
+      "word": "和平项目中国队登场",
+      "onboard_time": 1695958113,
+      "rank": 38,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 187861,
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175050,
+      "num": 175050,
+      "word": "童瑶的妆黑化了",
+      "onboard_time": 1695958232,
+      "rank": 40,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 172361,
       "num": 172361,
       "word": "电影坚如磐石口碑",
@@ -763,19 +811,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164148,
+      "num": 164148,
+      "word": "中秋国庆高铁有多忙",
+      "onboard_time": 1695956134,
+      "rank": 49,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 162764,
+      "num": 162764,
+      "word": "坚如磐石",
+      "onboard_time": 1695946834,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161657,
       "num": 161657,
       "word": "电影志愿军口碑",
       "onboard_time": 1695914798,
       "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 159958,
-      "num": 159958,
-      "word": "坚如磐石",
-      "onboard_time": 1695946834,
-      "rank": 40,
       "category": "电影"
     },
     {
@@ -867,6 +923,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139125,
+      "num": 139125,
+      "word": "马来西亚选手第一次在中国吃月饼哽咽了",
+      "onboard_time": 1695958412,
+      "rank": 49,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 138412,
       "num": 138412,
       "word": "张昊唯新剧进酒吧被下药",
@@ -889,14 +953,6 @@
       "onboard_time": 1695909763,
       "rank": 14,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 127730,
-      "num": 127730,
-      "word": "中秋国庆高铁有多忙",
-      "onboard_time": 1695956134,
-      "rank": 49,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 124915,
@@ -1003,6 +1059,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 32307,
+      "num": 447573,
+      "word": "孙阳演我坐过山车",
+      "onboard_time": 1695957333,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31983,
       "num": 36117,
       "word": "国庆假期",
@@ -1017,14 +1081,6 @@
       "onboard_time": 1695938657,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 18461,
-      "num": 446840,
-      "word": "孙阳演我坐过山车",
-      "onboard_time": 1695957333,
-      "rank": 14,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
