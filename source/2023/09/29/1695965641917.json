@@ -1,0 +1,410 @@
+{
+  "runTime": 1695965641917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1521103,
+        "num": 1521103,
+        "word": "冯小刚回应病危传言",
+        "onboard_time": 1695959490,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1169198,
+        "num": 1169198,
+        "word": "建议大学里的水课都换成这些",
+        "onboard_time": 1695960093,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 49098,
+        "num": 923794,
+        "word": "亚运健儿国风壁纸",
+        "onboard_time": 1695960690,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 867337,
+        "num": 867337,
+        "word": "原来我们错怪五仁月饼了",
+        "onboard_time": 1695953431,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 794730,
+        "num": 794730,
+        "word": "易烊千玺中秋怀化citywalk",
+        "onboard_time": 1695964953,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758039,
+        "num": 758039,
+        "word": "保研",
+        "onboard_time": 1695964353,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 739932,
+        "num": 739932,
+        "word": "使用iPhone很久才知道的实用功能",
+        "onboard_time": 1695956073,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 705867,
+        "num": 705867,
+        "word": "堵车",
+        "onboard_time": 1695952289,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639197,
+        "num": 639197,
+        "word": "汪顺统一了东亚审美标准",
+        "onboard_time": 1695962913,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 607806,
+        "num": 607806,
+        "word": "马来西亚选手第一次在中国吃月饼哽咽了",
+        "onboard_time": 1695958412,
+        "rank": 9,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1652565,
+        "num": 607682,
+        "word": "孟子义 想结婚就别谈太久的恋爱",
+        "onboard_time": 1695965134,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1370806,
+        "num": 605981,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428165,
+        "num": 604917,
+        "word": "央视中秋晚会节目单",
+        "onboard_time": 1695956011,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176911,
+        "num": 602871,
+        "word": "中秋节国庆节双倍快乐",
+        "onboard_time": 1695944368,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173683,
+        "num": 602085,
+        "word": "大熊猫出游被偶遇迅速爬树扭头张望",
+        "onboard_time": 1695960331,
+        "rank": 14,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 601499,
+        "num": 601499,
+        "word": "许家印家族分红套现500亿",
+        "onboard_time": 1695955532,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462610,
+        "num": 462610,
+        "word": "张凌赫 当乞丐也能赚到一座金山",
+        "onboard_time": 1695954812,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426385,
+        "num": 426385,
+        "word": "汪雪儿抢跳",
+        "onboard_time": 1695961234,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 398797,
+        "num": 398797,
+        "word": "张小斐非遗云锦高定",
+        "onboard_time": 1695964593,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386783,
+        "num": 386783,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695960213,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343495,
+        "num": 343495,
+        "word": "披荆斩棘",
+        "onboard_time": 1695962794,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318717,
+        "num": 318717,
+        "word": "张韶涵 25岁到41岁的变化",
+        "onboard_time": 1695958830,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306365,
+        "num": 306365,
+        "word": "吊威亚而已 你要上天啊",
+        "onboard_time": 1695961053,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298422,
+        "num": 298422,
+        "word": "许家印身家已缩水超90%",
+        "onboard_time": 1695944005,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284176,
+        "num": 284176,
+        "word": "雷佳音周冬雨演情侣",
+        "onboard_time": 1695965193,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274646,
+        "num": 274646,
+        "word": "女子4x100混合接力中国队抢跳出局",
+        "onboard_time": 1695961772,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268659,
+        "num": 268659,
+        "word": "电竞人采访被确诊为张飞",
+        "onboard_time": 1695965372,
+        "rank": 26,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 262222,
+        "num": 262222,
+        "word": "凤凰传奇也没想到会以这种再火出圈",
+        "onboard_time": 1695959193,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 249707,
+        "num": 249707,
+        "word": "田柾国MV",
+        "onboard_time": 1695961353,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 249159,
+        "num": 249159,
+        "word": "21年前的吴敏霞好飒",
+        "onboard_time": 1695963932,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 276660,
+        "num": 248789,
+        "word": "杭州东站一步一个国家队",
+        "onboard_time": 1695962675,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246448,
+        "num": 246448,
+        "word": "杨紫片场模仿安陵容",
+        "onboard_time": 1695961652,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239526,
+        "num": 239526,
+        "word": "赵丽颖林更新与凤行中秋海报",
+        "onboard_time": 1695961533,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230698,
+        "num": 230698,
+        "word": "花西子",
+        "onboard_time": 1695961833,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 228093,
+        "num": 228093,
+        "word": "中秋节快乐",
+        "onboard_time": 1695944548,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219941,
+        "num": 219941,
+        "word": "有订票平台称部分机票降价可赔差",
+        "onboard_time": 1695964593,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203980,
+        "num": 203980,
+        "word": "导演一句话胡兵眼泪都快出来了",
+        "onboard_time": 1695965313,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214219,
+        "num": 203512,
+        "word": "赵丽颖做兔子手影",
+        "onboard_time": 1695962010,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202627,
+        "num": 202627,
+        "word": "王仕鹏朱芳雨执教球队输美国后怒了",
+        "onboard_time": 1695957273,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196035,
+        "num": 196035,
+        "word": "刘诗诗任如意版嫦娥",
+        "onboard_time": 1695964831,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62118,
+        "num": 191234,
+        "word": "中国网球女单五连冠",
+        "onboard_time": 1695962850,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188001,
+        "num": 188001,
+        "word": "许家印二儿子许滕鹤被带走",
+        "onboard_time": 1695946410,
+        "rank": 41,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 186888,
+        "num": 186888,
+        "word": "星穹铁道中秋",
+        "onboard_time": 1695964532,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186392,
+        "num": 186392,
+        "word": "玲娜贝儿两周岁生日",
+        "onboard_time": 1695964593,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191505,
+        "num": 184914,
+        "word": "刘诗诗好适合古装一美女",
+        "onboard_time": 1695963033,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180915,
+        "num": 180915,
+        "word": "中秋节",
+        "onboard_time": 1695943467,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174157,
+        "num": 174157,
+        "word": "林依轮被嘉兴服务区征服了",
+        "onboard_time": 1695948632,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171674,
+        "num": 171674,
+        "word": "童瑶的妆黑化了",
+        "onboard_time": 1695958232,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 170109,
+        "num": 170109,
+        "word": "池昌旭新剧开播 吃醋戏码",
+        "onboard_time": 1695953310,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168818,
+        "num": 168818,
+        "word": "坚如磐石",
+        "onboard_time": 1695946834,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝中华人民共和国成立74周年招待会#"
+    }
+  }
+}
