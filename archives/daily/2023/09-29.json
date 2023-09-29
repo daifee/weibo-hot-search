@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695980056492,
+  "endTime": 1695982699379,
   "band_list": [
     {
       "raw_hot": 8080481,
@@ -67,12 +67,28 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1563889,
+      "num": 439040,
+      "word": "王栎鑫首谈离婚经历",
+      "onboard_time": 1695978754,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1431477,
       "num": 1431477,
       "word": "高速",
       "onboard_time": 1695911142,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1428735,
+      "num": 1428735,
+      "word": "中秋晚会",
+      "onboard_time": 1695981751,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1376273,
@@ -201,14 +217,6 @@
       "onboard_time": 1695972154,
       "rank": 16,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 807994,
-      "num": 263736,
-      "word": "王栎鑫首谈离婚经历",
-      "onboard_time": 1695978754,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 794730,
@@ -371,12 +379,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 608982,
+      "num": 432062,
+      "word": "于适 开挂人生",
+      "onboard_time": 1695979953,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 604996,
       "num": 604996,
       "word": "五ban打野",
       "onboard_time": 1695974012,
       "rank": 3,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 601736,
+      "num": 601736,
+      "word": "火光代到了张馨予何捷",
+      "onboard_time": 1695980554,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 594579,
@@ -425,6 +449,14 @@
       "onboard_time": 1695903455,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 549280,
+      "num": 549280,
+      "word": "中国连续10届亚运会金牌榜第一",
+      "onboard_time": 1695978876,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 537678,
@@ -507,12 +539,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460969,
+      "num": 460969,
+      "word": "杭州灵隐又是人人人魅力太大了",
+      "onboard_time": 1695976173,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 456302,
+      "num": 1526495,
+      "word": "孕妇捡到早产小狗做心肺复苏救活",
+      "onboard_time": 1695976593,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445976,
       "num": 445976,
       "word": "从幼儿园带回来的月饼不要吃",
       "onboard_time": 1695969631,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 442878,
+      "num": 442878,
+      "word": "黄轩 好疯",
+      "onboard_time": 1695977252,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 438793,
@@ -540,7 +596,7 @@
     },
     {
       "raw_hot": 430913,
-      "num": 260873,
+      "num": 415218,
       "word": "周柯宇 红包",
       "onboard_time": 1695979473,
       "rank": 15,
@@ -561,14 +617,6 @@
       "onboard_time": 1695905983,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 403915,
-      "num": 260677,
-      "word": "于适 开挂人生",
-      "onboard_time": 1695979953,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 403319,
@@ -641,14 +689,6 @@
       "onboard_time": 1695964593,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397530,
-      "num": 397530,
-      "word": "孕妇捡到早产小狗做心肺复苏救活",
-      "onboard_time": 1695976593,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396840,
@@ -731,6 +771,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 363125,
+      "num": 255220,
+      "word": "许家印",
+      "onboard_time": 1695982474,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355046,
       "num": 351323,
       "word": "恒大",
@@ -787,6 +835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 339927,
+      "num": 196434,
+      "word": "为什么香蕉头有个黑色小疙瘩",
+      "onboard_time": 1695981812,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 330861,
       "num": 219200,
       "word": "英雄联盟 打出悬念来了",
@@ -825,6 +881,14 @@
       "onboard_time": 1695973592,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 313203,
+      "num": 313203,
+      "word": "你好星期六好6团送中秋祝福",
+      "onboard_time": 1695981512,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 304676,
@@ -891,14 +955,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 292899,
-      "num": 257551,
-      "word": "中国连续10届亚运会金牌榜第一",
-      "onboard_time": 1695978876,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 291500,
       "num": 291500,
       "word": "伯远 好的恋人能像朋友一般自洽相处",
@@ -960,6 +1016,14 @@
       "word": "深圳房东为69户租客送中秋礼物",
       "onboard_time": 1695969752,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278446,
+      "num": 1073789,
+      "word": "女孩第一次见穿警服的爸爸开心到飞起",
+      "onboard_time": 1695969875,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -1059,14 +1123,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 256880,
-      "num": 256880,
-      "word": "杭州灵隐又是人人人魅力太大了",
-      "onboard_time": 1695976173,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256637,
       "num": 212894,
       "word": "吴艳妮暂停训练向国旗行注目礼",
@@ -1089,14 +1145,6 @@
       "onboard_time": 1695945507,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 252515,
-      "num": 375754,
-      "word": "女孩第一次见穿警服的爸爸开心到飞起",
-      "onboard_time": 1695969875,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 251653,
@@ -1139,6 +1187,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240266,
+      "num": 240266,
+      "word": "吴昕半包小烟熏",
+      "onboard_time": 1695979712,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 239869,
+      "num": 239869,
+      "word": "章瑾亚运女子自由操金牌",
+      "onboard_time": 1695980613,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239453,
       "num": 239453,
       "word": "五条悟被封印",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1695972034,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 225035,
+      "num": 225035,
+      "word": "虞书欣称观众看剧是给演员批考卷",
+      "onboard_time": 1695980791,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221923,
@@ -1275,11 +1347,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210001,
+      "num": 210001,
+      "word": "这难道就是网文描述的腰窝",
+      "onboard_time": 1695981332,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209631,
       "num": 201036,
       "word": "现在到杭州摆摊还来得及吗",
       "onboard_time": 1695968250,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208679,
+      "num": 189523,
+      "word": "石宇奇不敌周天成",
+      "onboard_time": 1695981994,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -1331,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202141,
+      "num": 202141,
+      "word": "广州南站成全国火车站客流量第一",
+      "onboard_time": 1695982114,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201939,
       "num": 381853,
       "word": "明月出天山震撼画面",
@@ -1348,7 +1444,7 @@
     },
     {
       "raw_hot": 200225,
-      "num": 275850,
+      "num": 372709,
       "word": "大熊猫七仔吃上特制中秋大餐",
       "onboard_time": 1695976713,
       "rank": 13,
@@ -1361,14 +1457,6 @@
       "onboard_time": 1695974555,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 198167,
-      "num": 198167,
-      "word": "吴昕半包小烟熏",
-      "onboard_time": 1695979712,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 196940,
@@ -1523,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182374,
+      "num": 239821,
+      "word": "唐茜靖为杭州亚运会瘦15斤",
+      "onboard_time": 1695982474,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181604,
       "num": 181604,
       "word": "焉栩嘉参加过封神的面试选拔",
@@ -1577,6 +1673,14 @@
       "onboard_time": 1695974914,
       "rank": 20,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 173840,
+      "num": 173840,
+      "word": "张博恒 劳模",
+      "onboard_time": 1695982114,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 172823,
