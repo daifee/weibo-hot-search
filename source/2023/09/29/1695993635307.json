@@ -1,0 +1,410 @@
+{
+  "runTime": 1695993635307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7480174,
+        "num": 7480174,
+        "word": "超级月亮",
+        "onboard_time": 1695982772,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 7284827,
+        "num": 7284827,
+        "word": "红气养人 张小斐好美",
+        "onboard_time": 1695991240,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 64983,
+        "num": 3824582,
+        "word": "当国风亚运遇上西湖十景",
+        "onboard_time": 1695974012,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1682967,
+        "num": 1682967,
+        "word": "湖南中秋之夜节目单 换顺序",
+        "onboard_time": 1695988717,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1620044,
+        "num": 1620044,
+        "word": "向云端 跑调",
+        "onboard_time": 1695992799,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1627302,
+        "num": 1508382,
+        "word": "时代少年团是压轴吗",
+        "onboard_time": 1695991000,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1212778,
+        "num": 1212778,
+        "word": "西藏堵车 震撼全家",
+        "onboard_time": 1695984995,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 1206297,
+        "num": 1206297,
+        "word": "央视中秋晚会",
+        "onboard_time": 1695989018,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469787,
+        "num": 1093613,
+        "word": "王楚钦孙颖莎vs林钟勋申裕斌",
+        "onboard_time": 1695990161,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349030,
+        "num": 1056359,
+        "word": "韩国教练举错牌被判弃权",
+        "onboard_time": 1695989138,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1028677,
+        "num": 1028677,
+        "word": "中秋晚会",
+        "onboard_time": 1695981751,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 930372,
+        "num": 930372,
+        "word": "郎朗 中国香港",
+        "onboard_time": 1695992622,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 601573,
+        "num": 601573,
+        "word": "周深直播",
+        "onboard_time": 1695987457,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199687,
+        "num": 600028,
+        "word": "张雨霏第6金",
+        "onboard_time": 1695988597,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170661,
+        "num": 599237,
+        "word": "节前的高铁上学习氛围有多浓厚",
+        "onboard_time": 1695986135,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599059,
+        "num": 599059,
+        "word": "湖南卫视 苏打绿",
+        "onboard_time": 1695992140,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528822,
+        "num": 528822,
+        "word": "天蝎座疏远一个人的原因",
+        "onboard_time": 1695987335,
+        "rank": 16,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 504301,
+        "num": 504301,
+        "word": "陈哲远 空降",
+        "onboard_time": 1695984093,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495200,
+        "num": 495200,
+        "word": "木子和又又",
+        "onboard_time": 1695988959,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406748,
+        "num": 406748,
+        "word": "英雄联盟中国队铜牌",
+        "onboard_time": 1695975514,
+        "rank": 19,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 717973,
+        "num": 400873,
+        "word": "11岁男孩被逼吸烟下跪遭围殴",
+        "onboard_time": 1695986135,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574765,
+        "num": 387186,
+        "word": "男子狂揍妻子被孩子录下全过程",
+        "onboard_time": 1695991060,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475689,
+        "num": 362569,
+        "word": "央视舞美好绝",
+        "onboard_time": 1695992019,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435724,
+        "num": 356578,
+        "word": "许家印",
+        "onboard_time": 1695982474,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345712,
+        "num": 345712,
+        "word": "FoFo",
+        "onboard_time": 1695990699,
+        "rank": 24,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 401977,
+        "num": 345509,
+        "word": "张含韵枪掉了",
+        "onboard_time": 1695993526,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390971,
+        "num": 344216,
+        "word": "张嘉倪我那貌美的竹马千金回国了",
+        "onboard_time": 1695992920,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 355327,
+        "num": 343712,
+        "word": "王栎鑫首谈离婚经历",
+        "onboard_time": 1695978754,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310975,
+        "num": 342840,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695982412,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301465,
+        "num": 341104,
+        "word": "一个樊振东有两个全红婵大",
+        "onboard_time": 1695992498,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341038,
+        "num": 341038,
+        "word": "莫文蔚李荣浩合唱",
+        "onboard_time": 1695992379,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324075,
+        "num": 324075,
+        "word": "杨幂法国街头漫步",
+        "onboard_time": 1695987037,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 315370,
+        "num": 315370,
+        "word": "鞠婧祎光影秀版恋爱告急",
+        "onboard_time": 1695983432,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281933,
+        "num": 281933,
+        "word": "汪顺馋哭外国迷妹",
+        "onboard_time": 1695986856,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271614,
+        "num": 271614,
+        "word": "九尾 背起小书包",
+        "onboard_time": 1695990400,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1095009,
+        "num": 269247,
+        "word": "英雄联盟韩国队夺冠",
+        "onboard_time": 1695991300,
+        "rank": 35,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 415665,
+        "num": 266553,
+        "word": "Faker Ruler大满贯",
+        "onboard_time": 1695992799,
+        "rank": 36,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 285183,
+        "num": 266287,
+        "word": "华晨宇演唱会万人看日出",
+        "onboard_time": 1695992200,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263516,
+        "num": 263516,
+        "word": "郑钧一张图证明进山东了",
+        "onboard_time": 1695987457,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203204,
+        "num": 256195,
+        "word": "覃海洋夺杭州亚运第100金",
+        "onboard_time": 1695988838,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255241,
+        "num": 255241,
+        "word": "央视镜头下宜宾好美",
+        "onboard_time": 1695993165,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229719,
+        "num": 229719,
+        "word": "火光代到了张馨予何捷",
+        "onboard_time": 1695980554,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227424,
+        "num": 227424,
+        "word": "前任4",
+        "onboard_time": 1695993345,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223168,
+        "num": 223168,
+        "word": "时代少年团直播",
+        "onboard_time": 1695975155,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203114,
+        "num": 203114,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199977,
+        "num": 199977,
+        "word": "王楚钦孙颖莎亚运晋级决赛",
+        "onboard_time": 1695993584,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198962,
+        "num": 198962,
+        "word": "整个朋友圈都在晒中秋晚宴",
+        "onboard_time": 1695993584,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188042,
+        "num": 188042,
+        "word": "张小斐美拉德妆",
+        "onboard_time": 1695986015,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 184326,
+        "num": 184326,
+        "word": "张本智和4比2伊朗选手",
+        "onboard_time": 1695989200,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247905,
+        "num": 182925,
+        "word": "中秋文案",
+        "onboard_time": 1695985895,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝中华人民共和国成立74周年招待会#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/29 20:48:36
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/29 21:20:35
 </p>
 </blockquote>
 <p>
@@ -167,6 +167,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E6%8E%89%E7%B2%89%23" target="weibo">
 李佳琦掉粉（热度：7379652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%B0%94%E5%85%BB%E4%BA%BA%20%E5%BC%A0%E5%B0%8F%E6%96%90%E5%A5%BD%E7%BE%8E%23" target="weibo">
+红气养人 张小斐好美（热度：7284827）
 </a>
 </li>
 
@@ -3231,6 +3237,12 @@ THE9解散演唱会要来了（热度：1668390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%98%AF%E5%8E%8B%E8%BD%B4%E5%90%97%23" target="weibo">
+时代少年团是压轴吗（热度：1627302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E7%9C%89%E7%AC%94%E6%AF%8F%E5%85%8B980%E5%A4%9A%E5%8F%AF%E4%B9%B0%E4%B8%A4%E5%85%8B%E9%BB%84%E9%87%91%23" target="weibo">
 花西子眉笔每克980多可买两克黄金（热度：1626802）
 </a>
@@ -3251,6 +3263,12 @@ THE9解散演唱会要来了（热度：1668390）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%AF%AF%E6%8A%8A%E5%A5%B6%E8%8C%B6%E8%B5%A0%E5%93%81%E9%9B%AA%E8%8A%B1%E8%86%8F%E5%BD%93%E9%9B%AA%E7%B3%95%E5%90%83%23" target="weibo">
 小伙误把奶茶赠品雪花膏当雪糕吃（热度：1623236）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BA%91%E7%AB%AF%20%E8%B7%91%E8%B0%83%23" target="weibo">
+向云端 跑调（热度：1620044）
 </a>
 </li>
 
@@ -4557,12 +4575,6 @@ CoCo道歉（热度：1326101）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%B0%94%E5%85%BB%E4%BA%BA%20%E5%BC%A0%E5%B0%8F%E6%96%90%E5%A5%BD%E7%BE%8E%23" target="weibo">
-红气养人 张小斐好美（热度：1286055）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E8%BD%A6%E7%A5%A8%E5%80%99%E8%A1%A5%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95%23" target="weibo">
 12306车票候补的正确方法（热度：1285255）
 </a>
@@ -5799,6 +5811,12 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%A4%BA%E5%86%A0%23" target="weibo">
+英雄联盟韩国队夺冠（热度：1095009）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E6%89%93%E4%BC%A4%E5%AD%A6%E7%94%9F%E5%A4%B4%E9%AA%A8%23" target="weibo">
 教育局通报小学教师打伤学生头骨（热度：1094999）
 </a>
@@ -5993,24 +6011,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BC%80%E5%B9%95%E5%BC%8F%E7%AC%AC%E4%BA%8C%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
 樊振东开幕式第二棒火炬手（热度：1057700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E9%92%B1%E4%B9%9F%E4%B8%8D%E6%98%AF%E5%A4%A9%E4%B8%8A%E5%88%AE%E6%9D%A5%E7%9A%84%23" target="weibo">
-你的钱也不是天上刮来的（热度：1056499）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%20%E5%8D%81%E5%85%AD%E5%B2%81%E4%BB%A5%E4%B8%8B%E9%87%91%E5%A5%96%E5%92%8C%E4%B8%80%E7%AD%89%E5%A5%96%23" target="weibo">
-檀健次 十六岁以下金奖和一等奖（热度：1056141）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%98%E9%87%8F%E6%88%BF%E8%B4%B7%23" target="weibo">
-存量房贷（热度：1055874）
 </a>
 </li>
 
