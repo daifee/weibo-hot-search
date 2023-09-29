@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695996871665,
+  "endTime": 1695998051526,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -107,20 +107,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 7604002,
+      "num": 7604002,
+      "word": "红气养人 张小斐好美",
+      "onboard_time": 1695991240,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 7511705,
       "num": 10264047,
       "word": "中国男足晋级八强",
       "onboard_time": 1695821921,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 7284827,
-      "num": 7284827,
-      "word": "红气养人 张小斐好美",
-      "onboard_time": 1695991240,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 6102606,
@@ -147,6 +147,14 @@
       "category": "美妆,财经"
     },
     {
+      "raw_hot": 4749571,
+      "num": 4749571,
+      "word": "杨幂旗袍 古韵美人",
+      "onboard_time": 1695994002,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 4289928,
       "num": 1528122,
       "word": "英雄联盟韩国队晋级决赛",
@@ -161,14 +169,6 @@
       "onboard_time": 1695810812,
       "rank": 33,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 3860432,
-      "num": 3860432,
-      "word": "杨幂旗袍 古韵美人",
-      "onboard_time": 1695994002,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 3549026,
@@ -1947,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 909441,
+      "num": 909441,
+      "word": "破音",
+      "onboard_time": 1695995742,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 904637,
       "num": 904637,
       "word": "性缘脑比恋爱脑还可怕吗",
@@ -2651,12 +2659,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 764517,
-      "num": 764517,
-      "word": "破音",
-      "onboard_time": 1695995742,
-      "rank": 11,
-      "category": "综艺"
+      "raw_hot": 763619,
+      "num": 763619,
+      "word": "中秋节",
+      "onboard_time": 1695943467,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 763381,
@@ -2881,6 +2889,14 @@
       "onboard_time": 1695535172,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 723122,
+      "num": 673307,
+      "word": "不染",
+      "onboard_time": 1695995742,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 722073,
@@ -3265,14 +3281,6 @@
       "onboard_time": 1695985714,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 673307,
-      "num": 673307,
-      "word": "不染",
-      "onboard_time": 1695995742,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 672688,
@@ -3899,14 +3907,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 594438,
-      "num": 594438,
-      "word": "中秋节",
-      "onboard_time": 1695943467,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 594328,
       "num": 594328,
       "word": "弟弟觉得夜色尚浅公开了",
@@ -4140,7 +4140,7 @@
     },
     {
       "raw_hot": 567559,
-      "num": 280387,
+      "num": 288404,
       "word": "张杰音乐节开成演唱会",
       "onboard_time": 1695994421,
       "rank": 42,
@@ -4948,7 +4948,7 @@
     },
     {
       "raw_hot": 489519,
-      "num": 279959,
+      "num": 285747,
       "word": "周深爆了个气球",
       "onboard_time": 1695994780,
       "rank": 26,
@@ -5657,6 +5657,14 @@
       "onboard_time": 1695694114,
       "rank": 22,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 438835,
+      "num": 287812,
+      "word": "杨幂唱若把你",
+      "onboard_time": 1695997002,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 438411,
@@ -7003,6 +7011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348783,
+      "num": 284506,
+      "word": "王一博晒月亮送中秋祝福",
+      "onboard_time": 1695997361,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348433,
       "num": 241512,
       "word": "offer5实习生简历好丰富",
@@ -7028,7 +7044,7 @@
     },
     {
       "raw_hot": 347203,
-      "num": 201023,
+      "num": 272810,
       "word": "毛不易孙悦唱祝你平安",
       "onboard_time": 1695996039,
       "rank": 36,
@@ -8617,6 +8633,14 @@
       "onboard_time": 1695787900,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 284342,
+      "num": 284342,
+      "word": "巩立姣太稳了",
+      "onboard_time": 1695997420,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 284319,
@@ -10235,6 +10259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237679,
+      "num": 237679,
+      "word": "英雄联盟颁奖",
+      "onboard_time": 1695996581,
+      "rank": 45,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 237005,
       "num": 237005,
       "word": "好事成双原著中的卫明",
@@ -10683,6 +10715,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223655,
+      "num": 208342,
+      "word": "郁可唯井柏然唱不染 毛不易看着",
+      "onboard_time": 1695997779,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223232,
       "num": 223232,
       "word": "中国女篮亚运会首战",
@@ -11001,6 +11041,14 @@
       "onboard_time": 1695817651,
       "rank": 28,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 216707,
+      "num": 216707,
+      "word": "谢震业碾压级别",
+      "onboard_time": 1695997238,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 216603,
@@ -12235,14 +12283,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 197290,
-      "num": 197290,
-      "word": "英雄联盟颁奖",
-      "onboard_time": 1695996581,
-      "rank": 45,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 197288,
       "num": 197288,
       "word": "孙麟威",
@@ -12777,6 +12817,14 @@
       "onboard_time": 1695790301,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190535,
+      "num": 190535,
+      "word": "金泳勋巴黎出发",
+      "onboard_time": 1695997719,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190517,
@@ -14243,6 +14291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162184,
+      "num": 287175,
+      "word": "巩立姣亚运三连冠",
+      "onboard_time": 1695996279,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162153,
       "num": 162153,
       "word": "对霸凌的姑息无异于当帮凶",
@@ -15067,6 +15123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147540,
+      "num": 175028,
+      "word": "没卖掉的月饼都去哪了",
+      "onboard_time": 1695997901,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 147523,
       "num": 147523,
       "word": "花花送大家中秋节祝福了",
@@ -15755,6 +15819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 133144,
+      "num": 4755815,
+      "word": "月圆中秋夜团圆共此时",
+      "onboard_time": 1695994541,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132561,
       "num": 132561,
       "word": "少年放下水果就跑消防都来不及追",
@@ -15915,28 +15987,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127666,
-      "num": 198788,
-      "word": "巩立姣亚运三连冠",
-      "onboard_time": 1695996279,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 127556,
       "num": 127556,
       "word": "坚如磐石 狼群与哈士奇",
       "onboard_time": 1695898591,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 127473,
-      "num": 4493350,
-      "word": "月圆中秋夜团圆共此时",
-      "onboard_time": 1695994541,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 127090,
@@ -16883,6 +16939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 76349,
+      "num": 355180,
+      "word": "原神生日会",
+      "onboard_time": 1695996459,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 75810,
       "num": 2409404,
       "word": "亚运赛场上这些00后真棒",
@@ -17161,14 +17225,6 @@
       "onboard_time": 1695661342,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 58756,
-      "num": 200150,
-      "word": "原神生日会",
-      "onboard_time": 1695996459,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 58547,
