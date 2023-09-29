@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695962097788,
+  "endTime": 1695964561478,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -451,6 +451,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1957753,
+      "num": 1957753,
+      "word": "冯小刚回应病危传言",
+      "onboard_time": 1695959490,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1947890,
       "num": 517593,
       "word": "王力宏李靓蕾现身法庭正面交锋",
@@ -489,14 +497,6 @@
       "onboard_time": 1695902074,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1899167,
-      "num": 1899167,
-      "word": "冯小刚回应病危传言",
-      "onboard_time": 1695959490,
-      "rank": 3,
-      "category": "艺人"
     },
     {
       "raw_hot": 1891336,
@@ -1225,6 +1225,14 @@
       "onboard_time": 1695798700,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1152507,
+      "num": 1152507,
+      "word": "建议大学里的水课都换成这些",
+      "onboard_time": 1695960093,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1147278,
@@ -3019,14 +3027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 665093,
-      "num": 665093,
-      "word": "建议大学里的水课都换成这些",
-      "onboard_time": 1695960093,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 662839,
       "num": 662839,
       "word": "大张伟 抢票",
@@ -3193,6 +3193,14 @@
       "onboard_time": 1695719495,
       "rank": 42,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 641067,
+      "num": 641067,
+      "word": "汪雪儿抢跳",
+      "onboard_time": 1695961234,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 638702,
@@ -3552,14 +3560,6 @@
       "word": "孙颖莎又打出11比0",
       "onboard_time": 1695873096,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 593366,
-      "num": 593366,
-      "word": "汪雪儿抢跳",
-      "onboard_time": 1695961234,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -4779,6 +4779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 467879,
+      "num": 467879,
+      "word": "披荆斩棘",
+      "onboard_time": 1695962794,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 466456,
       "num": 466456,
       "word": "薛之谦天津 抢票",
@@ -5483,6 +5491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 403319,
+      "num": 403319,
+      "word": "女子4x100混合接力中国队抢跳出局",
+      "onboard_time": 1695961772,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403280,
       "num": 397924,
       "word": "吴京在王鹤棣背后搞怪",
@@ -5603,6 +5619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396840,
+      "num": 396840,
+      "word": "吊威亚而已 你要上天啊",
+      "onboard_time": 1695961053,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395793,
       "num": 395793,
       "word": "第一次知道玩电竞的人这么帅啊",
@@ -5641,6 +5665,14 @@
       "onboard_time": 1695741222,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 392578,
+      "num": 392578,
+      "word": "汪顺统一了东亚审美标准",
+      "onboard_time": 1695962913,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 391573,
@@ -6345,14 +6377,6 @@
       "onboard_time": 1695791258,
       "rank": 32,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 343566,
-      "num": 343566,
-      "word": "吊威亚而已 你要上天啊",
-      "onboard_time": 1695961053,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 342890,
@@ -7403,6 +7427,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 296101,
+      "num": 296101,
+      "word": "田柾国MV",
+      "onboard_time": 1695961353,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 296071,
       "num": 296071,
       "word": "中国队的第三金收入囊中",
@@ -7521,6 +7553,14 @@
       "onboard_time": 1695887617,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 290197,
+      "num": 248974,
+      "word": "杭州东站一步一个国家队",
+      "onboard_time": 1695962675,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 289860,
@@ -7755,6 +7795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282410,
+      "num": 282410,
+      "word": "保研",
+      "onboard_time": 1695964353,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 282329,
       "num": 433633,
       "word": "李在明拄拐杖出庭受审",
@@ -7777,14 +7825,6 @@
       "onboard_time": 1695510261,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 281775,
-      "num": 281775,
-      "word": "田柾国MV",
-      "onboard_time": 1695961353,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 281675,
@@ -8411,6 +8451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262106,
+      "num": 262106,
+      "word": "花西子",
+      "onboard_time": 1695961833,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 261983,
       "num": 261983,
       "word": "张艺兴黄毛造型",
@@ -8603,14 +8651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 256774,
-      "num": 256774,
-      "word": "女子4x100混合接力中国队抢跳出局",
-      "onboard_time": 1695961772,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 256467,
       "num": 256467,
       "word": "李健巡回演唱会官宣",
@@ -8777,6 +8817,14 @@
       "onboard_time": 1695890013,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251193,
+      "num": 251193,
+      "word": "赵丽颖做兔子手影",
+      "onboard_time": 1695962010,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 250756,
@@ -9459,6 +9507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228800,
+      "num": 406137,
+      "word": "大熊猫出游被偶遇迅速爬树扭头张望",
+      "onboard_time": 1695960331,
+      "rank": 14,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 228618,
       "num": 228618,
       "word": "钮钴禄黄轩已黑化",
@@ -9705,14 +9761,6 @@
       "onboard_time": 1695564161,
       "rank": 37,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 219113,
-      "num": 372384,
-      "word": "大熊猫出游被偶遇迅速爬树扭头张望",
-      "onboard_time": 1695960331,
-      "rank": 14,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 219018,
@@ -10313,14 +10361,6 @@
       "onboard_time": 1695512365,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 206737,
-      "num": 206737,
-      "word": "赵丽颖做兔子手影",
-      "onboard_time": 1695962010,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 206683,
@@ -11067,6 +11107,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 196430,
+      "num": 196430,
+      "word": "21年前的吴敏霞好飒",
+      "onboard_time": 1695963932,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196290,
       "num": 196290,
       "word": "国足亚运队vs孟加拉国",
@@ -11329,6 +11377,14 @@
       "onboard_time": 1695548614,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192122,
+      "num": 192122,
+      "word": "刘诗诗好适合古装一美女",
+      "onboard_time": 1695963033,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 192055,
@@ -12091,6 +12147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178809,
+      "num": 178809,
+      "word": "我们的翻译官",
+      "onboard_time": 1695963213,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 178762,
       "num": 178762,
       "word": "哪吒宝宝真的好可爱",
@@ -12539,12 +12603,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 168979,
-      "num": 168979,
-      "word": "花西子",
-      "onboard_time": 1695961833,
-      "rank": 44,
-      "category": "美妆"
+      "raw_hot": 169075,
+      "num": 169075,
+      "word": "星穹铁道中秋",
+      "onboard_time": 1695964532,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 168973,
@@ -15211,6 +15275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78406,
+      "num": 263742,
+      "word": "中国网球女单五连冠",
+      "onboard_time": 1695962850,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77915,
       "num": 356964,
       "word": "蛋仔小绿老INFP了",
@@ -15739,6 +15811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48781,
+      "num": 1241186,
+      "word": "亚运健儿国风壁纸",
+      "onboard_time": 1695960690,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48459,
       "num": 235530,
       "word": "微博音乐盛典下车慢镜头",
@@ -15817,14 +15897,6 @@
       "onboard_time": 1695900993,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 42293,
-      "num": 1241186,
-      "word": "亚运健儿国风壁纸",
-      "onboard_time": 1695960690,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 41066,

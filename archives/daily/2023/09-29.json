@@ -1,10 +1,10 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695962097788,
+  "endTime": 1695964561478,
   "band_list": [
     {
-      "raw_hot": 1899167,
-      "num": 1899167,
+      "raw_hot": 1957753,
+      "num": 1957753,
       "word": "冯小刚回应病危传言",
       "onboard_time": 1695959490,
       "rank": 3,
@@ -89,6 +89,14 @@
       "onboard_time": 1695952289,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1152507,
+      "num": 1152507,
+      "word": "建议大学里的水课都换成这些",
+      "onboard_time": 1695960093,
+      "rank": 12,
+      "category": "教育"
     },
     {
       "raw_hot": 1127176,
@@ -227,20 +235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 665093,
-      "num": 665093,
-      "word": "建议大学里的水课都换成这些",
-      "onboard_time": 1695960093,
-      "rank": 12,
-      "category": "教育"
-    },
-    {
       "raw_hot": 650405,
       "num": 650405,
       "word": "杨幂Angelababy巴黎时装周造型",
       "onboard_time": 1695911324,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 641067,
+      "num": 641067,
+      "word": "汪雪儿抢跳",
+      "onboard_time": 1695961234,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 633126,
@@ -273,14 +281,6 @@
       "onboard_time": 1695943467,
       "rank": 3,
       "category": "情感"
-    },
-    {
-      "raw_hot": 593366,
-      "num": 593366,
-      "word": "汪雪儿抢跳",
-      "onboard_time": 1695961234,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 568715,
@@ -339,6 +339,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 467879,
+      "num": 467879,
+      "word": "披荆斩棘",
+      "onboard_time": 1695962794,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462204,
       "num": 343836,
       "word": "王仕鹏朱芳雨执教球队输美国后怒了",
@@ -379,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403319,
+      "num": 403319,
+      "word": "女子4x100混合接力中国队抢跳出局",
+      "onboard_time": 1695961772,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402004,
       "num": 402004,
       "word": "网约车老爸的1800多次道歉",
@@ -417,6 +433,22 @@
       "onboard_time": 1695959193,
       "rank": 8,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 396840,
+      "num": 396840,
+      "word": "吊威亚而已 你要上天啊",
+      "onboard_time": 1695961053,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 392578,
+      "num": 392578,
+      "word": "汪顺统一了东亚审美标准",
+      "onboard_time": 1695962913,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 390527,
@@ -473,14 +505,6 @@
       "onboard_time": 1695956311,
       "rank": 30,
       "category": "体育,游戏"
-    },
-    {
-      "raw_hot": 343566,
-      "num": 343566,
-      "word": "吊威亚而已 你要上天啊",
-      "onboard_time": 1695961053,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 341968,
@@ -555,12 +579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296101,
+      "num": 296101,
+      "word": "田柾国MV",
+      "onboard_time": 1695961353,
+      "rank": 23,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291500,
       "num": 291500,
       "word": "伯远 好的恋人能像朋友一般自洽相处",
       "onboard_time": 1695949594,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 290197,
+      "num": 248974,
+      "word": "杭州东站一步一个国家队",
+      "onboard_time": 1695962675,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 286519,
@@ -587,12 +627,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 281775,
-      "num": 281775,
-      "word": "田柾国MV",
-      "onboard_time": 1695961353,
-      "rank": 23,
-      "category": "音乐"
+      "raw_hot": 282410,
+      "num": 282410,
+      "word": "保研",
+      "onboard_time": 1695964353,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 279076,
@@ -635,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262106,
+      "num": 262106,
+      "word": "花西子",
+      "onboard_time": 1695961833,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 260876,
       "num": 260876,
       "word": "侯明昊 我想要去直面自己",
@@ -649,14 +697,6 @@
       "onboard_time": 1695958232,
       "rank": 40,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 256774,
-      "num": 256774,
-      "word": "女子4x100混合接力中国队抢跳出局",
-      "onboard_time": 1695961772,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 256637,
@@ -675,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251193,
+      "num": 251193,
+      "word": "赵丽颖做兔子手影",
+      "onboard_time": 1695962010,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240338,
       "num": 240338,
       "word": "19岁小伙不远千里找姐姐终在中秋团聚",
@@ -689,6 +737,14 @@
       "onboard_time": 1695950972,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 228800,
+      "num": 406137,
+      "word": "大熊猫出游被偶遇迅速爬树扭头张望",
+      "onboard_time": 1695960331,
+      "rank": 14,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 226119,
@@ -731,14 +787,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219113,
-      "num": 372384,
-      "word": "大熊猫出游被偶遇迅速爬树扭头张望",
-      "onboard_time": 1695960331,
-      "rank": 14,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 215651,
       "num": 215651,
       "word": "邓布利多之死",
@@ -769,14 +817,6 @@
       "onboard_time": 1695960872,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206737,
-      "num": 206737,
-      "word": "赵丽颖做兔子手影",
-      "onboard_time": 1695962010,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 206420,
@@ -811,6 +851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196430,
+      "num": 196430,
+      "word": "21年前的吴敏霞好飒",
+      "onboard_time": 1695963932,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194344,
       "num": 194344,
       "word": "檀健次央视网文娱中秋祝福",
@@ -825,6 +873,14 @@
       "onboard_time": 1695943287,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 192122,
+      "num": 192122,
+      "word": "刘诗诗好适合古装一美女",
+      "onboard_time": 1695963033,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 191934,
@@ -915,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178809,
+      "num": 178809,
+      "word": "我们的翻译官",
+      "onboard_time": 1695963213,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177159,
       "num": 177159,
       "word": "95花 时装周",
@@ -971,12 +1035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 168979,
-      "num": 168979,
-      "word": "花西子",
-      "onboard_time": 1695961833,
-      "rank": 44,
-      "category": "美妆"
+      "raw_hot": 169075,
+      "num": 169075,
+      "word": "星穹铁道中秋",
+      "onboard_time": 1695964532,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 164933,
@@ -1179,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78406,
+      "num": 263742,
+      "word": "中国网球女单五连冠",
+      "onboard_time": 1695962850,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76618,
       "num": 76618,
       "word": "小伙开车20小时到医院帮90岁老兵圆梦",
@@ -1219,6 +1291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48781,
+      "num": 1241186,
+      "word": "亚运健儿国风壁纸",
+      "onboard_time": 1695960690,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48459,
       "num": 235530,
       "word": "微博音乐盛典下车慢镜头",
@@ -1233,14 +1313,6 @@
       "onboard_time": 1695900993,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 42293,
-      "num": 1241186,
-      "word": "亚运健儿国风壁纸",
-      "onboard_time": 1695960690,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 34610,
