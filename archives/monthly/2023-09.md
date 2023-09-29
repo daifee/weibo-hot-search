@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/29 15:15:42
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/29 15:33:56
 </p>
 </blockquote>
 <p>
@@ -123,6 +123,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E8%B6%8A%E5%8D%97%E9%98%9F%23" target="weibo">
+英雄联盟中国队vs越南队（热度：8080481）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%88%BD%E8%A2%AB%E5%88%A4%E8%B5%94%E5%81%BF%E6%8A%95%E8%B5%84%E6%96%B96000%E4%B8%87%E5%85%83%23" target="weibo">
 郑爽被判赔偿投资方6000万元（热度：8026401）
 </a>
@@ -233,12 +239,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B2%E7%A9%BA%E8%AD%A6%E6%8A%A5%23" target="weibo">
 防空警报（热度：4830369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9Fvs%E8%B6%8A%E5%8D%97%E9%98%9F%23" target="weibo">
-英雄联盟中国队vs越南队（热度：4769546）
 </a>
 </li>
 

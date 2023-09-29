@@ -1,10 +1,10 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695971742842,
+  "endTime": 1695972836307,
   "band_list": [
     {
-      "raw_hot": 4769546,
-      "num": 4769546,
+      "raw_hot": 8080481,
+      "num": 9330481,
       "word": "英雄联盟中国队vs越南队",
       "onboard_time": 1695967476,
       "rank": 15,
@@ -315,8 +315,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 615861,
-      "num": 615861,
+      "raw_hot": 620995,
+      "num": 620995,
       "word": "张雨霏无缘亚运七冠王",
       "onboard_time": 1695968974,
       "rank": 30,
@@ -419,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 466675,
+      "num": 199493,
+      "word": "baolan 这阵容咋选出来的",
+      "onboard_time": 1695972093,
+      "rank": 30,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 462204,
       "num": 343836,
       "word": "王仕鹏朱芳雨执教球队输美国后怒了",
@@ -473,6 +481,14 @@
       "onboard_time": 1695961772,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403021,
+      "num": 403021,
+      "word": "彭立勋替补赵礼杰上场",
+      "onboard_time": 1695972636,
+      "rank": 6,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 402004,
@@ -555,6 +571,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385150,
+      "num": 385150,
+      "word": "于和伟 荔枝甜",
+      "onboard_time": 1695969333,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 383992,
+      "num": 383992,
+      "word": "从幼儿园带回来的月饼不要吃",
+      "onboard_time": 1695969631,
+      "rank": 9,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 382895,
       "num": 382895,
       "word": "一张照片证明你在堵车",
@@ -579,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365993,
+      "num": 273358,
+      "word": "彭立勋",
+      "onboard_time": 1695971250,
+      "rank": 31,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 355046,
       "num": 351323,
       "word": "恒大",
@@ -593,14 +633,6 @@
       "onboard_time": 1695947130,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353264,
-      "num": 353264,
-      "word": "从幼儿园带回来的月饼不要吃",
-      "onboard_time": 1695969631,
-      "rank": 9,
-      "category": "幽默"
     },
     {
       "raw_hot": 349913,
@@ -659,6 +691,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 314480,
+      "num": 314480,
+      "word": "张柏芝听到你好漂亮后的反应",
+      "onboard_time": 1695972154,
+      "rank": 16,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 304676,
       "num": 249278,
       "word": "彼岸花过于旺盛 反而有点恐怖",
@@ -715,14 +755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 294832,
-      "num": 294832,
-      "word": "于和伟 荔枝甜",
-      "onboard_time": 1695969333,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 291500,
       "num": 291500,
       "word": "伯远 好的恋人能像朋友一般自洽相处",
@@ -737,6 +769,14 @@
       "onboard_time": 1695962675,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289940,
+      "num": 289940,
+      "word": "四六级考试宁愿瞎写也不能空着",
+      "onboard_time": 1695971729,
+      "rank": 48,
+      "category": "教育"
     },
     {
       "raw_hot": 286519,
@@ -931,6 +971,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 225152,
+      "num": 225152,
+      "word": "田嘉瑞是写真拍热了吗",
+      "onboard_time": 1695972034,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 221923,
       "num": 221923,
       "word": "小猫被救起来之后疯狂在怀里撒娇",
@@ -977,14 +1025,6 @@
       "onboard_time": 1695969213,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 217766,
-      "num": 217766,
-      "word": "彭立勋",
-      "onboard_time": 1695971250,
-      "rank": 31,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 215651,
@@ -1091,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195323,
+      "num": 195323,
+      "word": "一年一度月亮见面大会",
+      "onboard_time": 1695972515,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194344,
       "num": 194344,
       "word": "檀健次央视网文娱中秋祝福",
@@ -1193,6 +1241,14 @@
       "onboard_time": 1695897513,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184195,
+      "num": 184195,
+      "word": "彭昱畅根本抓不住宝儿姐",
+      "onboard_time": 1695971975,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 183862,
@@ -1387,6 +1443,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 146597,
+      "num": 146597,
+      "word": "景区中秋推出象棋月饼引百人对弈",
+      "onboard_time": 1695971911,
+      "rank": 41,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 146490,
       "num": 146490,
       "word": "我们的歌第五季阵容官宣",
@@ -1481,14 +1545,6 @@
       "onboard_time": 1695960213,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 129468,
-      "num": 129468,
-      "word": "四六级考试宁愿瞎写也不能空着",
-      "onboard_time": 1695971729,
-      "rank": 48,
-      "category": "教育"
     },
     {
       "raw_hot": 127090,

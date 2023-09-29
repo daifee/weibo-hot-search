@@ -1,0 +1,410 @@
+{
+  "runTime": 1695972836307,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8080481,
+        "num": 9330481,
+        "word": "英雄联盟中国队vs越南队",
+        "onboard_time": 1695967476,
+        "rank": 0,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 730648,
+        "num": 730648,
+        "word": "林志颖体重只有55公斤",
+        "onboard_time": 1695966453,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34567,
+        "num": 686953,
+        "word": "亚运健儿国风壁纸",
+        "onboard_time": 1695960690,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661126,
+        "num": 661126,
+        "word": "保研",
+        "onboard_time": 1695964353,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 620995,
+        "num": 620995,
+        "word": "张雨霏无缘亚运七冠王",
+        "onboard_time": 1695968974,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452050,
+        "num": 452050,
+        "word": "建议大学里的水课都换成这些",
+        "onboard_time": 1695960093,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 403021,
+        "num": 403021,
+        "word": "彭立勋替补赵礼杰上场",
+        "onboard_time": 1695972636,
+        "rank": 6,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 398808,
+        "num": 398808,
+        "word": "冯小刚回应病危传言",
+        "onboard_time": 1695959490,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394237,
+        "num": 394237,
+        "word": "田曦薇落入山野的玉兔",
+        "onboard_time": 1695968792,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 385150,
+        "num": 385150,
+        "word": "于和伟 荔枝甜",
+        "onboard_time": 1695969333,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1112641,
+        "num": 384999,
+        "word": "孟子义 想结婚就别谈太久的恋爱",
+        "onboard_time": 1695965134,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 797811,
+        "num": 384823,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383992,
+        "num": 383992,
+        "word": "从幼儿园带回来的月饼不要吃",
+        "onboard_time": 1695969631,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193293,
+        "num": 335614,
+        "word": "女孩第一次见穿警服的爸爸开心到飞起",
+        "onboard_time": 1695969875,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104399,
+        "num": 331928,
+        "word": "郑钦文亚运会网球女单冠军",
+        "onboard_time": 1695966814,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328545,
+        "num": 328545,
+        "word": "堵车",
+        "onboard_time": 1695952289,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314480,
+        "num": 314480,
+        "word": "张柏芝听到你好漂亮后的反应",
+        "onboard_time": 1695972154,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 292178,
+        "num": 292178,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695960213,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289940,
+        "num": 289940,
+        "word": "四六级考试宁愿瞎写也不能空着",
+        "onboard_time": 1695971729,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 285117,
+        "num": 285117,
+        "word": "易烊千玺中秋怀化citywalk",
+        "onboard_time": 1695964953,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381522,
+        "num": 279111,
+        "word": "香港顶流姜涛卢瀚霆出发录团综",
+        "onboard_time": 1695970771,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365993,
+        "num": 273358,
+        "word": "彭立勋",
+        "onboard_time": 1695971250,
+        "rank": 21,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 264879,
+        "num": 264879,
+        "word": "马来西亚选手第一次在中国吃月饼哽咽了",
+        "onboard_time": 1695958412,
+        "rank": 22,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 264299,
+        "num": 264299,
+        "word": "魏大勋借几件衣服给韩庚吧",
+        "onboard_time": 1695968792,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238448,
+        "num": 238448,
+        "word": "深圳房东为69户租客送中秋礼物",
+        "onboard_time": 1695969752,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235700,
+        "num": 235700,
+        "word": "雷佳音周冬雨演情侣",
+        "onboard_time": 1695965193,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225152,
+        "num": 225152,
+        "word": "田嘉瑞是写真拍热了吗",
+        "onboard_time": 1695972034,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 214237,
+        "num": 214237,
+        "word": "央视中秋晚会节目单",
+        "onboard_time": 1695956011,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212921,
+        "num": 212921,
+        "word": "汪顺真的帅",
+        "onboard_time": 1695969213,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199632,
+        "num": 199632,
+        "word": "许家印家族分红套现500亿",
+        "onboard_time": 1695955532,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466675,
+        "num": 199493,
+        "word": "baolan 这阵容咋选出来的",
+        "onboard_time": 1695972093,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 195323,
+        "num": 195323,
+        "word": "一年一度月亮见面大会",
+        "onboard_time": 1695972515,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191171,
+        "num": 191171,
+        "word": "原来我们错怪五仁月饼了",
+        "onboard_time": 1695953431,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184195,
+        "num": 184195,
+        "word": "彭昱畅根本抓不住宝儿姐",
+        "onboard_time": 1695971975,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183800,
+        "num": 183800,
+        "word": "恒大",
+        "onboard_time": 1695967713,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167667,
+        "num": 167667,
+        "word": "张小斐非遗云锦高定",
+        "onboard_time": 1695964593,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166120,
+        "num": 166120,
+        "word": "杭州东站一步一个国家队",
+        "onboard_time": 1695962675,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157170,
+        "num": 157170,
+        "word": "坚如磐石",
+        "onboard_time": 1695946834,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149101,
+        "num": 149101,
+        "word": "现在到杭州摆摊还来得及吗",
+        "onboard_time": 1695968250,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150381,
+        "num": 148794,
+        "word": "坚如磐石票房破亿",
+        "onboard_time": 1695970413,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146690,
+        "num": 146690,
+        "word": "英雄联盟项目季军赛",
+        "onboard_time": 1695969875,
+        "rank": 40,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 146597,
+        "num": 146597,
+        "word": "景区中秋推出象棋月饼引百人对弈",
+        "onboard_time": 1695971911,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 277076,
+        "num": 146337,
+        "word": "英雄联盟季军赛越南队先下一城",
+        "onboard_time": 1695970476,
+        "rank": 42,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 145840,
+        "num": 145840,
+        "word": "许家印身家已缩水超90%",
+        "onboard_time": 1695944005,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141581,
+        "num": 141581,
+        "word": "电竞人采访被确诊为张飞",
+        "onboard_time": 1695965372,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 139911,
+        "num": 139911,
+        "word": "杨紫片场模仿安陵容",
+        "onboard_time": 1695961652,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138594,
+        "num": 138594,
+        "word": "前任4 回首青春总少不了前任的遗憾",
+        "onboard_time": 1695970710,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134673,
+        "num": 134673,
+        "word": "张凌赫 当乞丐也能赚到一座金山",
+        "onboard_time": 1695954812,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132905,
+        "num": 132905,
+        "word": "使用iPhone很久才知道的实用功能",
+        "onboard_time": 1695956073,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123538,
+        "num": 123538,
+        "word": "文咏珊 很开心也很紧张真真和大家见面了",
+        "onboard_time": 1695970355,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#潮涌东方#"
+    }
+  }
+}
