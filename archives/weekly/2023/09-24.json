@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695983690217,
+  "endTime": 1695986056055,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -49,6 +49,14 @@
       "onboard_time": 1695858333,
       "rank": 0,
       "category": "美妆,教育"
+    },
+    {
+      "raw_hot": 8442592,
+      "num": 8442592,
+      "word": "超级月亮",
+      "onboard_time": 1695982772,
+      "rank": 3,
+      "category": "自然"
     },
     {
       "raw_hot": 8441678,
@@ -763,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1562080,
-      "num": 1562080,
-      "word": "超级月亮",
-      "onboard_time": 1695982772,
-      "rank": 3,
-      "category": "自然"
-    },
-    {
       "raw_hot": 1548309,
       "num": 1548309,
       "word": "中国队1小时5金",
@@ -1331,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1136494,
+      "num": 450592,
+      "word": "陈哲远 空降",
+      "onboard_time": 1695984093,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1134773,
       "num": 1109555,
       "word": "杨幂Angelababy巴黎时装周造型",
@@ -1433,6 +1441,14 @@
       "onboard_time": 1695955532,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1087125,
+      "num": 229381,
+      "word": "西藏堵车 震撼全家",
+      "onboard_time": 1695984995,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 1087025,
@@ -1809,6 +1825,14 @@
       "onboard_time": 1695563197,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 920578,
+      "num": 920578,
+      "word": "英雄联盟韩国vs中国台北",
+      "onboard_time": 1695983553,
+      "rank": 15,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 914061,
@@ -2916,7 +2940,7 @@
     },
     {
       "raw_hot": 697085,
-      "num": 362210,
+      "num": 391950,
       "word": "许家印",
       "onboard_time": 1695982474,
       "rank": 20,
@@ -3433,6 +3457,14 @@
       "onboard_time": 1695958830,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 623921,
+      "num": 399701,
+      "word": "Angelababy古装清冷感",
+      "onboard_time": 1695986015,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 623692,
@@ -4828,7 +4860,7 @@
     },
     {
       "raw_hot": 476964,
-      "num": 1571754,
+      "num": 4431477,
       "word": "孕妇捡到早产小狗做心肺复苏救活",
       "onboard_time": 1695976593,
       "rank": 5,
@@ -5211,14 +5243,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 454150,
-      "num": 454150,
-      "word": "英雄联盟韩国vs中国台北",
-      "onboard_time": 1695983553,
-      "rank": 15,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 453963,
       "num": 1629547,
       "word": "西湖边这碗面吸引了郭晶晶白岩松打卡",
@@ -5249,6 +5273,14 @@
       "onboard_time": 1695876700,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 451269,
+      "num": 451269,
+      "word": "Ning和xiye还怎么打",
+      "onboard_time": 1695984451,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 451257,
@@ -5523,20 +5555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 430343,
+      "num": 430343,
+      "word": "广州南站成全国火车站客流量第一",
+      "onboard_time": 1695982114,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 429301,
       "num": 408129,
       "word": "李栋旭太会了",
       "onboard_time": 1695860075,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429280,
-      "num": 429280,
-      "word": "广州南站成全国火车站客流量第一",
-      "onboard_time": 1695982114,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 428987,
@@ -5827,6 +5859,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 401411,
+      "num": 401411,
+      "word": "中秋月亮摄影大赛",
+      "onboard_time": 1695984392,
+      "rank": 12,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 401331,
       "num": 401331,
       "word": "男子双人舞生育力溢出来了",
@@ -5897,6 +5937,14 @@
       "onboard_time": 1695964593,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 397541,
+      "num": 397541,
+      "word": "傅云深严谨的求婚仪式",
+      "onboard_time": 1695985714,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 397173,
@@ -6161,6 +6209,14 @@
       "onboard_time": 1695866736,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 377580,
+      "num": 377580,
+      "word": "韩国体操小哥 快乐小狗",
+      "onboard_time": 1695984031,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 376883,
@@ -6673,6 +6729,14 @@
       "onboard_time": 1695888393,
       "rank": 21,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 345834,
+      "num": 345834,
+      "word": "张小斐美拉德妆",
+      "onboard_time": 1695986015,
+      "rank": 23,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 345731,
@@ -8243,6 +8307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281182,
+      "num": 281182,
+      "word": "中秋文案",
+      "onboard_time": 1695940640,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 280646,
       "num": 280646,
       "word": "国乒打11比0是对竞技体育的尊重",
@@ -9363,6 +9435,14 @@
       "category": "电影,军事"
     },
     {
+      "raw_hot": 248505,
+      "num": 228902,
+      "word": "国羽男团0比1中国台北",
+      "onboard_time": 1695984872,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247708,
       "num": 247708,
       "word": "无意识减肥却能变瘦的习惯",
@@ -10019,6 +10099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 228269,
+      "num": 228269,
+      "word": "广东肇庆成为十一假期全国最堵城市",
+      "onboard_time": 1695983374,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228099,
       "num": 228099,
       "word": "文咏珊跑厅跑到袜子都破了",
@@ -10177,6 +10265,14 @@
       "onboard_time": 1695537333,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 222449,
+      "num": 397565,
+      "word": "5岁女孩池边喂50斤胖锦鲤小月饼",
+      "onboard_time": 1695985714,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221949,
@@ -10779,6 +10875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210094,
+      "num": 210094,
+      "word": "国羽王昶好帅",
+      "onboard_time": 1695984156,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210001,
       "num": 210001,
       "word": "这难道就是网文描述的腰窝",
@@ -10953,6 +11057,14 @@
       "onboard_time": 1695512365,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 206814,
+      "num": 206814,
+      "word": "鞠婧祎光影秀版恋爱告急",
+      "onboard_time": 1695983432,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 206683,
@@ -11353,6 +11465,14 @@
       "onboard_time": 1695737807,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201972,
+      "num": 201972,
+      "word": "xiye对Ning下手太重了",
+      "onboard_time": 1695985895,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 201939,
@@ -12307,6 +12427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188609,
+      "num": 188609,
+      "word": "赵小棠美拉德够野",
+      "onboard_time": 1695985837,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 188383,
       "num": 188383,
       "word": "凡人修仙传",
@@ -12649,14 +12777,6 @@
       "onboard_time": 1695654999,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182661,
-      "num": 182661,
-      "word": "鞠婧祎光影秀版恋爱告急",
-      "onboard_time": 1695983432,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 182299,
@@ -13211,14 +13331,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 172258,
-      "num": 172258,
-      "word": "中秋文案",
-      "onboard_time": 1695940640,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 172243,
       "num": 172243,
       "word": "夭柳现代跨越时空重遇",
@@ -13673,14 +13785,6 @@
       "onboard_time": 1695604955,
       "rank": 41,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 161030,
-      "num": 161030,
-      "word": "广东肇庆成为十一假期全国最堵城市",
-      "onboard_time": 1695983374,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160474,
@@ -14779,6 +14883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 139689,
+      "num": 139689,
+      "word": "樊振东4比0林兆恒",
+      "onboard_time": 1695984572,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139671,
       "num": 139671,
       "word": "国乒女团决赛现场放周杰伦龙卷风",
@@ -14793,6 +14905,14 @@
       "onboard_time": 1695978453,
       "rank": 48,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 138996,
+      "num": 138996,
+      "word": "月饼",
+      "onboard_time": 1695985955,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 138944,
@@ -15260,7 +15380,7 @@
     },
     {
       "raw_hot": 127090,
-      "num": 2370014,
+      "num": 2383260,
       "word": "玉兔二号发来月球风景照",
       "onboard_time": 1695958652,
       "rank": 49,
@@ -15712,6 +15832,14 @@
       "word": "寻家34年外卖小哥将在中秋前一天认亲",
       "onboard_time": 1695811652,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108937,
+      "num": 137938,
+      "word": "10年中秋没回家的老兵再巡逻",
+      "onboard_time": 1695985114,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -16201,6 +16329,14 @@
       "onboard_time": 1695467313,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75031,
+      "num": 400010,
+      "word": "700名维和官兵获联合国和平荣誉勋章",
+      "onboard_time": 1695984932,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74808,

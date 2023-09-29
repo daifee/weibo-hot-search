@@ -1,0 +1,410 @@
+{
+  "runTime": 1695986056055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8442592,
+        "num": 8442592,
+        "word": "超级月亮",
+        "onboard_time": 1695982772,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 372733,
+        "num": 4431477,
+        "word": "孕妇捡到早产小狗做心肺复苏救活",
+        "onboard_time": 1695976593,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65962,
+        "num": 2383260,
+        "word": "玉兔二号发来月球风景照",
+        "onboard_time": 1695958652,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1250472,
+        "num": 1250472,
+        "word": "中秋晚会",
+        "onboard_time": 1695981751,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 920578,
+        "num": 920578,
+        "word": "英雄联盟韩国vs中国台北",
+        "onboard_time": 1695983553,
+        "rank": 4,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 813635,
+        "num": 813635,
+        "word": "英雄联盟中国队铜牌",
+        "onboard_time": 1695975514,
+        "rank": 5,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 201207,
+        "num": 618103,
+        "word": "女孩第一次见穿警服的爸爸开心到飞起",
+        "onboard_time": 1695969875,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489652,
+        "num": 489652,
+        "word": "为什么香蕉头有个黑色小疙瘩",
+        "onboard_time": 1695981812,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 479751,
+        "num": 479751,
+        "word": "陈妍希 遇到会让你内耗的人就赶紧跑吧",
+        "onboard_time": 1695977556,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 451269,
+        "num": 451269,
+        "word": "Ning和xiye还怎么打",
+        "onboard_time": 1695984451,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1136494,
+        "num": 450592,
+        "word": "陈哲远 空降",
+        "onboard_time": 1695984093,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430343,
+        "num": 430343,
+        "word": "广州南站成全国火车站客流量第一",
+        "onboard_time": 1695982114,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401411,
+        "num": 401411,
+        "word": "中秋月亮摄影大赛",
+        "onboard_time": 1695984392,
+        "rank": 12,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 1028174,
+        "num": 400866,
+        "word": "王栎鑫首谈离婚经历",
+        "onboard_time": 1695978754,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75031,
+        "num": 400010,
+        "word": "700名维和官兵获联合国和平荣誉勋章",
+        "onboard_time": 1695984932,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 623921,
+        "num": 399701,
+        "word": "Angelababy古装清冷感",
+        "onboard_time": 1695986015,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 470204,
+        "num": 398960,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695982412,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222449,
+        "num": 397565,
+        "word": "5岁女孩池边喂50斤胖锦鲤小月饼",
+        "onboard_time": 1695985714,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397541,
+        "num": 397541,
+        "word": "傅云深严谨的求婚仪式",
+        "onboard_time": 1695985714,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450087,
+        "num": 395321,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 474860,
+        "num": 391950,
+        "word": "许家印",
+        "onboard_time": 1695982474,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388270,
+        "num": 388270,
+        "word": "火光代到了张馨予何捷",
+        "onboard_time": 1695980554,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 377580,
+        "num": 377580,
+        "word": "韩国体操小哥 快乐小狗",
+        "onboard_time": 1695984031,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 345834,
+        "num": 345834,
+        "word": "张小斐美拉德妆",
+        "onboard_time": 1695986015,
+        "rank": 23,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 332811,
+        "num": 332811,
+        "word": "于适 开挂人生",
+        "onboard_time": 1695979953,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285377,
+        "num": 285377,
+        "word": "中国连续10届亚运会金牌榜第一",
+        "onboard_time": 1695978876,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112620,
+        "num": 283020,
+        "word": "唐茜靖为杭州亚运会瘦15斤",
+        "onboard_time": 1695982474,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281182,
+        "num": 281182,
+        "word": "中秋文案",
+        "onboard_time": 1695985895,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 280689,
+        "num": 280689,
+        "word": "孟子义 想结婚就别谈太久的恋爱",
+        "onboard_time": 1695965134,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230118,
+        "num": 230118,
+        "word": "东方卫视中秋晚会节目单",
+        "onboard_time": 1695983011,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1087125,
+        "num": 229381,
+        "word": "西藏堵车 震撼全家",
+        "onboard_time": 1695984995,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 248505,
+        "num": 228902,
+        "word": "国羽男团0比1中国台北",
+        "onboard_time": 1695984872,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228269,
+        "num": 228269,
+        "word": "广东肇庆成为十一假期全国最堵城市",
+        "onboard_time": 1695983374,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226829,
+        "num": 226829,
+        "word": "周柯宇 红包",
+        "onboard_time": 1695979473,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210094,
+        "num": 210094,
+        "word": "国羽王昶好帅",
+        "onboard_time": 1695984156,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206814,
+        "num": 206814,
+        "word": "鞠婧祎光影秀版恋爱告急",
+        "onboard_time": 1695983432,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201972,
+        "num": 201972,
+        "word": "xiye对Ning下手太重了",
+        "onboard_time": 1695985895,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188609,
+        "num": 188609,
+        "word": "赵小棠美拉德够野",
+        "onboard_time": 1695985837,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186932,
+        "num": 186932,
+        "word": "志愿军 彩蛋",
+        "onboard_time": 1695975034,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179606,
+        "num": 179606,
+        "word": "保研",
+        "onboard_time": 1695964353,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174137,
+        "num": 174137,
+        "word": "王丽坤新剧又演美人心计了",
+        "onboard_time": 1695972876,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170084,
+        "num": 170084,
+        "word": "杭州灵隐又是人人人魅力太大了",
+        "onboard_time": 1695976173,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150454,
+        "num": 150454,
+        "word": "吴昕半包小烟熏",
+        "onboard_time": 1695979712,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139689,
+        "num": 139689,
+        "word": "樊振东4比0林兆恒",
+        "onboard_time": 1695984572,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138996,
+        "num": 138996,
+        "word": "月饼",
+        "onboard_time": 1695985955,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108937,
+        "num": 137938,
+        "word": "10年中秋没回家的老兵再巡逻",
+        "onboard_time": 1695985114,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178509,
+        "num": 137932,
+        "word": "你好星期六好6团送中秋祝福",
+        "onboard_time": 1695981512,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137569,
+        "num": 137569,
+        "word": "这难道就是网文描述的腰窝",
+        "onboard_time": 1695981332,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132859,
+        "num": 132859,
+        "word": "虞书欣称观众看剧是给演员批考卷",
+        "onboard_time": 1695980791,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130777,
+        "num": 130777,
+        "word": "张柏芝听到你好漂亮后的反应",
+        "onboard_time": 1695972154,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝中华人民共和国成立74周年招待会#"
+    }
+  }
+}
