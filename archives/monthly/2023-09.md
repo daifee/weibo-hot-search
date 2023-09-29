@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 00:21:39
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 00:37:14
 </p>
 </blockquote>
 <p>
@@ -3285,6 +3285,12 @@ THE9解散演唱会要来了（热度：1668390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+封神榜纣王饰演者去世（热度：1622362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E5%BC%A0%E5%85%83%E8%8B%B1%E5%BD%93%E5%A4%B4%E5%83%8F%E8%A2%AB%E9%AA%9A%E6%89%B0%E4%BA%86%23" target="weibo">
 用张元英当头像被骚扰了（热度：1612180）
 </a>
@@ -3665,12 +3671,6 @@ offer5 8点下班的工作没人做（热度：1533086）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B9%B4%E7%A7%9F%E6%88%BF%E8%8A%B1%E8%B4%B9%E4%BA%86%E5%8D%81%E4%BA%94%E4%B8%87%23" target="weibo">
 三年租房花费了十五万（热度：1513306）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
-封神榜纣王饰演者去世（热度：1513216）
 </a>
 </li>
 
