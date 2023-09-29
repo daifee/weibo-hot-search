@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695944032396,
+  "endTime": 1695949898689,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -523,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1850005,
+      "num": 1850005,
+      "word": "月饼今年卖不动了",
+      "onboard_time": 1695918330,
+      "rank": 24,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1827704,
       "num": 1282704,
       "word": "柯洁决赛对阵许皓鋐",
@@ -665,6 +673,14 @@
       "onboard_time": 1695770550,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1601780,
+      "num": 415045,
+      "word": "许家印二儿子许滕鹤被带走",
+      "onboard_time": 1695946410,
+      "rank": 8,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1596369,
@@ -1129,6 +1145,14 @@
       "onboard_time": 1695544834,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1188218,
+      "num": 379302,
+      "word": "林依轮被嘉兴服务区征服了",
+      "onboard_time": 1695948632,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1182814,
@@ -2411,6 +2435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 744057,
+      "num": 744057,
+      "word": "霍启刚这么恋爱脑吗",
+      "onboard_time": 1695943225,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 742938,
       "num": 742938,
       "word": "张雨霏100蝶冠军",
@@ -2601,6 +2633,14 @@
       "onboard_time": 1695736724,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 708415,
+      "num": 372936,
+      "word": "在韩国感受到了卫生巾贫困",
+      "onboard_time": 1695944606,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 707164,
@@ -2867,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 668748,
+      "num": 668748,
+      "word": "中秋节快乐",
+      "onboard_time": 1695944548,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 667298,
       "num": 442725,
       "word": "杨幂这一帧真的好美",
@@ -2881,6 +2929,14 @@
       "onboard_time": 1695805176,
       "rank": 27,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 666206,
+      "num": 361131,
+      "word": "许家印身家已缩水超90%",
+      "onboard_time": 1695944005,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 662839,
@@ -3139,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 625401,
+      "num": 625401,
+      "word": "周扬青的家可以办潮玩展了",
+      "onboard_time": 1695945751,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 624985,
       "num": 624985,
       "word": "徐嘉余卫冕",
@@ -3211,6 +3275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 616871,
+      "num": 357022,
+      "word": "封神 再不洗袜子怕是要失去他了",
+      "onboard_time": 1695945690,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616751,
       "num": 616751,
       "word": "12306回应压票再分批放票",
@@ -3265,6 +3337,14 @@
       "onboard_time": 1695647136,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 611361,
+      "num": 205154,
+      "word": "恒大员工回应许家印被采取强制措施",
+      "onboard_time": 1695947792,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 608235,
@@ -3401,6 +3481,14 @@
       "onboard_time": 1695820836,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 590319,
+      "num": 590319,
+      "word": "中秋节",
+      "onboard_time": 1695943467,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 589765,
@@ -4227,6 +4315,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 498833,
+      "num": 353625,
+      "word": "王俊凯下车镜头",
+      "onboard_time": 1695943830,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 498538,
       "num": 498538,
       "word": "男足主力停赛",
@@ -4403,14 +4499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 478695,
-      "num": 478695,
-      "word": "中秋节",
-      "onboard_time": 1695943467,
-      "rank": 3,
-      "category": "情感"
-    },
-    {
       "raw_hot": 478446,
       "num": 295811,
       "word": "北京一无业男子与俩同小区女子同居",
@@ -4425,14 +4513,6 @@
       "onboard_time": 1695625533,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 476809,
-      "num": 476809,
-      "word": "月饼今年卖不动了",
-      "onboard_time": 1695918330,
-      "rank": 24,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 476290,
@@ -5099,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422714,
+      "num": 422714,
+      "word": "中国妇女报评前任4",
+      "onboard_time": 1695947432,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 420068,
       "num": 420068,
       "word": "王者荣耀比赛",
@@ -5440,6 +5528,14 @@
       "word": "敦煌上一次这么多人还在汉朝",
       "onboard_time": 1695881495,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387276,
+      "num": 347410,
+      "word": "婴儿呛奶育婴师拍打其后脑用剪刀扎脚",
+      "onboard_time": 1695946290,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -6067,6 +6163,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 344093,
+      "num": 344093,
+      "word": "江苏薪酬",
+      "onboard_time": 1695948451,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
       "raw_hot": 344055,
       "num": 344055,
       "word": "出轨男卫明卖房妻女无家可归",
@@ -6339,6 +6443,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 328196,
+      "num": 328196,
+      "word": "原来这就是中医把脉的科学性",
+      "onboard_time": 1695946050,
+      "rank": 22,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 328147,
       "num": 328147,
       "word": "好事成双",
@@ -6441,6 +6553,14 @@
       "onboard_time": 1695613956,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 322996,
+      "num": 322996,
+      "word": "林双卫明离婚",
+      "onboard_time": 1695947130,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 322394,
@@ -7291,6 +7411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 286519,
+      "num": 286519,
+      "word": "巴黎粉丝在成毅面前cos李相夷",
+      "onboard_time": 1695949231,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286270,
       "num": 286270,
       "word": "上海关心你 沪cares you",
@@ -7755,6 +7883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 270657,
+      "num": 369274,
+      "word": "中秋节国庆节双倍快乐",
+      "onboard_time": 1695944368,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270389,
       "num": 270389,
       "word": "大学生工作三个月的样子",
@@ -8195,6 +8331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256817,
+      "num": 362936,
+      "word": "马龙的简历长到让鼠标冒火星子",
+      "onboard_time": 1695944070,
+      "rank": 14,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 256467,
       "num": 256467,
       "word": "李健巡回演唱会官宣",
@@ -8297,6 +8441,14 @@
       "onboard_time": 1695538411,
       "rank": 27,
       "category": "军事"
+    },
+    {
+      "raw_hot": 253519,
+      "num": 253519,
+      "word": "亚运会情绪最稳定的韩国人找到了",
+      "onboard_time": 1695945507,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 253170,
@@ -10475,6 +10627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196940,
+      "num": 196940,
+      "word": "没想到有一天室友变亲戚了",
+      "onboard_time": 1695942986,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 196810,
       "num": 196810,
       "word": "前任四",
@@ -11043,14 +11203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188463,
-      "num": 129173,
-      "word": "许家印身家已缩水超90%",
-      "onboard_time": 1695944005,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188383,
       "num": 188383,
       "word": "凡人修仙传",
@@ -11417,6 +11569,14 @@
       "onboard_time": 1695774638,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 181604,
+      "num": 181604,
+      "word": "焉栩嘉参加过封神的面试选拔",
+      "onboard_time": 1695946110,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 181336,
@@ -11851,6 +12011,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 172258,
+      "num": 172258,
+      "word": "中秋文案",
+      "onboard_time": 1695940640,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172243,
       "num": 172243,
       "word": "夭柳现代跨越时空重遇",
@@ -11955,6 +12123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168714,
+      "num": 168714,
+      "word": "伯远 好的恋人能像朋友一般自洽相处",
+      "onboard_time": 1695949594,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168204,
       "num": 168204,
       "word": "邻居说很心疼汪顺",
@@ -12025,14 +12201,6 @@
       "onboard_time": 1695525574,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167242,
-      "num": 128840,
-      "word": "没想到有一天室友变亲戚了",
-      "onboard_time": 1695942986,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 167090,
@@ -12809,14 +12977,6 @@
       "onboard_time": 1695626740,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 151422,
-      "num": 151422,
-      "word": "霍启刚这么恋爱脑吗",
-      "onboard_time": 1695943225,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 151281,
@@ -13675,14 +13835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 129652,
-      "num": 129652,
-      "word": "中秋文案",
-      "onboard_time": 1695940640,
-      "rank": 28,
-      "category": "情感"
-    },
-    {
       "raw_hot": 129605,
       "num": 129605,
       "word": "我的妈妈今年夏天做了子宫摘除手术",
@@ -13803,6 +13955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123076,
+      "num": 123076,
+      "word": "中秋祝福",
+      "onboard_time": 1695944727,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122234,
       "num": 122234,
       "word": "懒人瘦腿的正确打开方式",
@@ -13897,6 +14057,14 @@
       "onboard_time": 1695888218,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120009,
+      "num": 120009,
+      "word": "Angelababy中秋月神下凡",
+      "onboard_time": 1695949773,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 119804,
@@ -14313,14 +14481,6 @@
       "onboard_time": 1695749300,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100303,
-      "num": 100303,
-      "word": "王俊凯下车镜头",
-      "onboard_time": 1695943830,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 99522,
@@ -15163,6 +15323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42453,
+      "num": 936550,
+      "word": "杭州亚运赛场燃情瞬间",
+      "onboard_time": 1695900993,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 41066,
       "num": 394318,
       "word": "今年中秋放过月饼",
@@ -15289,14 +15457,6 @@
       "onboard_time": 1695934155,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 34583,
-      "num": 816534,
-      "word": "杭州亚运赛场燃情瞬间",
-      "onboard_time": 1695900993,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 34018,
