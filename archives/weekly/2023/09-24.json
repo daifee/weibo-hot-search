@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1695993635307,
+  "endTime": 1695994436583,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -483,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2001759,
+      "num": 469853,
+      "word": "杨幂旗袍 古韵美人",
+      "onboard_time": 1695994002,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1988318,
       "num": 629976,
       "word": "绵阳巨响",
@@ -609,6 +617,14 @@
       "onboard_time": 1695718776,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1801452,
+      "num": 1801452,
+      "word": "向云端 跑调",
+      "onboard_time": 1695992799,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1797846,
@@ -768,14 +784,6 @@
       "word": "时代少年团是压轴吗",
       "onboard_time": 1695991000,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1620044,
-      "num": 1620044,
-      "word": "向云端 跑调",
-      "onboard_time": 1695992799,
-      "rank": 4,
       "category": "综艺"
     },
     {
@@ -1193,6 +1201,14 @@
       "onboard_time": 1695956073,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1260154,
+      "num": 1260154,
+      "word": "檀健次炎明熹复古港风唱跳",
+      "onboard_time": 1695994241,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1244925,
@@ -2779,6 +2795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 738492,
+      "num": 430355,
+      "word": "张含韵枪掉了",
+      "onboard_time": 1695993526,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 736472,
       "num": 444645,
       "word": "黄景瑜回复张婧仪",
@@ -2833,6 +2857,14 @@
       "onboard_time": 1695606693,
       "rank": 5,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 725287,
+      "num": 725287,
+      "word": "王楚钦小心翼翼试探生气的教练",
+      "onboard_time": 1695993883,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 723984,
@@ -3811,6 +3843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 597634,
+      "num": 393328,
+      "word": "男子狂揍妻子被孩子录下全过程",
+      "onboard_time": 1695991060,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 596887,
       "num": 596887,
       "word": "ELK金克丝一血",
@@ -3977,14 +4017,6 @@
       "onboard_time": 1695551134,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 574765,
-      "num": 387186,
-      "word": "男子狂揍妻子被孩子录下全过程",
-      "onboard_time": 1695991060,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 573635,
@@ -4393,6 +4425,14 @@
       "onboard_time": 1695714935,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 531922,
+      "num": 391237,
+      "word": "张嘉倪我那貌美的竹马千金回国了",
+      "onboard_time": 1695992920,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 531827,
@@ -4971,6 +5011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 478646,
+      "num": 314785,
+      "word": "Faker Ruler大满贯",
+      "onboard_time": 1695992799,
+      "rank": 36,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 478446,
       "num": 295811,
       "word": "北京一无业男子与俩同小区女子同居",
@@ -5020,7 +5068,7 @@
     },
     {
       "raw_hot": 475689,
-      "num": 362569,
+      "num": 364468,
       "word": "央视舞美好绝",
       "onboard_time": 1695992019,
       "rank": 22,
@@ -5851,14 +5899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415665,
-      "num": 266553,
-      "word": "Faker Ruler大满贯",
-      "onboard_time": 1695992799,
-      "rank": 36,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 415616,
       "num": 415616,
       "word": "汪苏泷把大雨唱来之后自己走了",
@@ -5889,6 +5929,14 @@
       "onboard_time": 1695536013,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 412134,
+      "num": 412134,
+      "word": "张雨霏哭了",
+      "onboard_time": 1695994002,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 412012,
@@ -6049,14 +6097,6 @@
       "onboard_time": 1695908681,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 401977,
-      "num": 345509,
-      "word": "张含韵枪掉了",
-      "onboard_time": 1695993526,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 401741,
@@ -6233,14 +6273,6 @@
       "onboard_time": 1695789878,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 390971,
-      "num": 344216,
-      "word": "张嘉倪我那貌美的竹马千金回国了",
-      "onboard_time": 1695992920,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 389169,
@@ -7107,6 +7139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337703,
+      "num": 337703,
+      "word": "莫文蔚 逆生长",
+      "onboard_time": 1695993943,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 337559,
       "num": 337559,
       "word": "华晨宇王牌对王牌",
@@ -7137,6 +7177,14 @@
       "onboard_time": 1695689256,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336672,
+      "num": 336672,
+      "word": "时代少年团串烧",
+      "onboard_time": 1695994300,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 336474,
@@ -8051,6 +8099,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 300263,
+      "num": 258648,
+      "word": "张杰音乐节开成演唱会",
+      "onboard_time": 1695994421,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300137,
       "num": 300137,
       "word": "我目睹了领导最脆弱的时刻",
@@ -8305,6 +8361,14 @@
       "onboard_time": 1695949594,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 291111,
+      "num": 372847,
+      "word": "王楚钦孙颖莎亚运晋级决赛",
+      "onboard_time": 1695993584,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 290645,
@@ -11929,14 +11993,6 @@
       "onboard_time": 1695538171,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 199977,
-      "num": 199977,
-      "word": "王楚钦孙颖莎亚运晋级决赛",
-      "onboard_time": 1695993584,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 199881,
@@ -17760,6 +17816,14 @@
       "word": "开幕首日中国队夺金瞬间盘点",
       "onboard_time": 1695617624,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5239,
+      "num": 366376,
+      "word": "我国首条跨海高铁科技含量有多高",
+      "onboard_time": 1695994361,
+      "rank": 30,
       "category": "社会新闻"
     }
   ],

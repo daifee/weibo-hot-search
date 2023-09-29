@@ -1,0 +1,410 @@
+{
+  "runTime": 1695994436583,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7525256,
+        "num": 7525256,
+        "word": "超级月亮",
+        "onboard_time": 1695982772,
+        "rank": 0,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 7193223,
+        "num": 7193223,
+        "word": "红气养人 张小斐好美",
+        "onboard_time": 1695991240,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1801452,
+        "num": 1801452,
+        "word": "向云端 跑调",
+        "onboard_time": 1695992799,
+        "rank": 2,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1413505,
+        "num": 1413505,
+        "word": "湖南中秋之夜节目单 换顺序",
+        "onboard_time": 1695988717,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1260154,
+        "num": 1260154,
+        "word": "檀健次炎明熹复古港风唱跳",
+        "onboard_time": 1695994241,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1255774,
+        "num": 1255774,
+        "word": "时代少年团是压轴吗",
+        "onboard_time": 1695991000,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946423,
+        "num": 946423,
+        "word": "西藏堵车 震撼全家",
+        "onboard_time": 1695984995,
+        "rank": 6,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 725287,
+        "num": 725287,
+        "word": "王楚钦小心翼翼试探生气的教练",
+        "onboard_time": 1695993883,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 485759,
+        "num": 485759,
+        "word": "天蝎座疏远一个人的原因",
+        "onboard_time": 1695987335,
+        "rank": 8,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 379677,
+        "num": 480767,
+        "word": "王楚钦孙颖莎vs林钟勋申裕斌",
+        "onboard_time": 1695990161,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2001759,
+        "num": 469853,
+        "word": "杨幂旗袍 古韵美人",
+        "onboard_time": 1695994002,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 901449,
+        "num": 467341,
+        "word": "郎朗 中国香港",
+        "onboard_time": 1695992622,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 942100,
+        "num": 459473,
+        "word": "央视中秋晚会",
+        "onboard_time": 1695989018,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212480,
+        "num": 451370,
+        "word": "张雨霏第6金",
+        "onboard_time": 1695988597,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162710,
+        "num": 438645,
+        "word": "节前的高铁上学习氛围有多浓厚",
+        "onboard_time": 1695986135,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738492,
+        "num": 430355,
+        "word": "张含韵枪掉了",
+        "onboard_time": 1695993526,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60837,
+        "num": 427854,
+        "word": "当国风亚运遇上西湖十景",
+        "onboard_time": 1695974012,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633384,
+        "num": 416276,
+        "word": "周深直播",
+        "onboard_time": 1695987457,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412134,
+        "num": 412134,
+        "word": "张雨霏哭了",
+        "onboard_time": 1695994002,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 393936,
+        "num": 393936,
+        "word": "英雄联盟中国队铜牌",
+        "onboard_time": 1695975514,
+        "rank": 19,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 597634,
+        "num": 393328,
+        "word": "男子狂揍妻子被孩子录下全过程",
+        "onboard_time": 1695991060,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547197,
+        "num": 392542,
+        "word": "11岁男孩被逼吸烟下跪遭围殴",
+        "onboard_time": 1695986135,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468672,
+        "num": 391567,
+        "word": "湖南卫视 苏打绿",
+        "onboard_time": 1695992140,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531922,
+        "num": 391237,
+        "word": "张嘉倪我那貌美的竹马千金回国了",
+        "onboard_time": 1695992920,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 475051,
+        "num": 389729,
+        "word": "陈哲远 空降",
+        "onboard_time": 1695984093,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442281,
+        "num": 388859,
+        "word": "许家印",
+        "onboard_time": 1695982474,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388540,
+        "num": 388540,
+        "word": "木子和又又",
+        "onboard_time": 1695988959,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 839965,
+        "num": 383319,
+        "word": "中秋晚会",
+        "onboard_time": 1695981751,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304353,
+        "num": 381449,
+        "word": "许家印父子及多名恒大高管涉案被查",
+        "onboard_time": 1695982412,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291111,
+        "num": 372847,
+        "word": "王楚钦孙颖莎亚运晋级决赛",
+        "onboard_time": 1695993584,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5239,
+        "num": 366376,
+        "word": "我国首条跨海高铁科技含量有多高",
+        "onboard_time": 1695994361,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364468,
+        "num": 364468,
+        "word": "央视舞美好绝",
+        "onboard_time": 1695992019,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337703,
+        "num": 337703,
+        "word": "莫文蔚 逆生长",
+        "onboard_time": 1695993943,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336672,
+        "num": 336672,
+        "word": "时代少年团串烧",
+        "onboard_time": 1695994300,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276249,
+        "num": 326871,
+        "word": "韩国教练举错牌被判弃权",
+        "onboard_time": 1695989138,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324197,
+        "num": 324197,
+        "word": "杨幂法国街头漫步",
+        "onboard_time": 1695987037,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 478646,
+        "num": 314785,
+        "word": "Faker Ruler大满贯",
+        "onboard_time": 1695992799,
+        "rank": 36,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 286984,
+        "num": 286984,
+        "word": "一个樊振东有两个全红婵大",
+        "onboard_time": 1695992498,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 317138,
+        "num": 278732,
+        "word": "王栎鑫首谈离婚经历",
+        "onboard_time": 1695978754,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266323,
+        "num": 266323,
+        "word": "FoFo",
+        "onboard_time": 1695990699,
+        "rank": 39,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 312650,
+        "num": 264102,
+        "word": "鞠婧祎光影秀版恋爱告急",
+        "onboard_time": 1695983432,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 995023,
+        "num": 263074,
+        "word": "英雄联盟韩国队夺冠",
+        "onboard_time": 1695991300,
+        "rank": 41,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 300263,
+        "num": 258648,
+        "word": "张杰音乐节开成演唱会",
+        "onboard_time": 1695994421,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269365,
+        "num": 256031,
+        "word": "华晨宇演唱会万人看日出",
+        "onboard_time": 1695992200,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269270,
+        "num": 250874,
+        "word": "前任4",
+        "onboard_time": 1695993345,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250190,
+        "num": 250190,
+        "word": "央视镜头下宜宾好美",
+        "onboard_time": 1695993165,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246104,
+        "num": 246104,
+        "word": "汪顺馋哭外国迷妹",
+        "onboard_time": 1695986856,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234089,
+        "num": 234089,
+        "word": "莫文蔚李荣浩合唱",
+        "onboard_time": 1695992379,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226916,
+        "num": 226916,
+        "word": "九尾 背起小书包",
+        "onboard_time": 1695990400,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199644,
+        "num": 199644,
+        "word": "许家印在恒大年薪仅25万左右",
+        "onboard_time": 1695960273,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励英烈子女#"
+    }
+  }
+}
