@@ -1,6 +1,6 @@
 {
   "startTime": 1695918150189,
-  "endTime": 1695965641917,
+  "endTime": 1695968553176,
   "band_list": [
     {
       "raw_hot": 1957753,
@@ -27,20 +27,20 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1687747,
+      "num": 607682,
+      "word": "孟子义 想结婚就别谈太久的恋爱",
+      "onboard_time": 1695965134,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1686360,
       "num": 1686360,
       "word": "原来我们错怪五仁月饼了",
       "onboard_time": 1695953431,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1652565,
-      "num": 607682,
-      "word": "孟子义 想结婚就别谈太久的恋爱",
-      "onboard_time": 1695965134,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1649351,
@@ -65,6 +65,14 @@
       "onboard_time": 1695915998,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1375785,
+      "num": 1375785,
+      "word": "林志颖体重只有55公斤",
+      "onboard_time": 1695966453,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 1374444,
@@ -97,6 +105,14 @@
       "onboard_time": 1695952289,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1169818,
+      "num": 1169818,
+      "word": "保研",
+      "onboard_time": 1695964353,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 1169198,
@@ -203,14 +219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 758039,
-      "num": 758039,
-      "word": "保研",
-      "onboard_time": 1695964353,
-      "rank": 24,
-      "category": "教育"
-    },
-    {
       "raw_hot": 756739,
       "num": 600756,
       "word": "恒大员工回应许家印被采取强制措施",
@@ -307,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594579,
+      "num": 594579,
+      "word": "电竞人采访被确诊为张飞",
+      "onboard_time": 1695965372,
+      "rank": 26,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 594438,
       "num": 594438,
       "word": "中秋节",
@@ -401,6 +417,14 @@
       "onboard_time": 1695917493,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 427875,
+      "num": 427875,
+      "word": "英雄联盟中国队vs越南队",
+      "onboard_time": 1695967476,
+      "rank": 15,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 427012,
@@ -587,6 +611,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 303972,
+      "num": 303972,
+      "word": "雷佳音周冬雨演情侣",
+      "onboard_time": 1695965193,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 300254,
+      "num": 300254,
+      "word": "恒大",
+      "onboard_time": 1695967713,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300252,
       "num": 300252,
       "word": "前任4",
@@ -643,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 284176,
-      "num": 284176,
-      "word": "雷佳音周冬雨演情侣",
-      "onboard_time": 1695965193,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 283493,
       "num": 602871,
       "word": "中秋节国庆节双倍快乐",
@@ -683,20 +715,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 268659,
-      "num": 268659,
-      "word": "电竞人采访被确诊为张飞",
-      "onboard_time": 1695965372,
-      "rank": 26,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 265476,
       "num": 265476,
       "word": "央视中秋晚会节目单没有时代少年团",
       "onboard_time": 1695957931,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265387,
+      "num": 265387,
+      "word": "华晨宇新歌第一次写纯爱",
+      "onboard_time": 1695968314,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 264541,
@@ -713,6 +745,14 @@
       "onboard_time": 1695883237,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263020,
+      "num": 439908,
+      "word": "郑钦文亚运会网球女单冠军",
+      "onboard_time": 1695966814,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 262106,
@@ -891,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 205757,
+      "num": 205757,
+      "word": "日本解说是如何评价马龙的",
+      "onboard_time": 1695965253,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203980,
       "num": 203980,
       "word": "导演一句话胡兵眼泪都快出来了",
@@ -913,6 +961,14 @@
       "onboard_time": 1695942986,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196917,
+      "num": 196917,
+      "word": "现在到杭州摆摊还来得及吗",
+      "onboard_time": 1695968250,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 196035,
@@ -1187,6 +1243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147523,
+      "num": 147523,
+      "word": "花花送大家中秋节祝福了",
+      "onboard_time": 1695967534,
+      "rank": 42,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 146490,
       "num": 146490,
       "word": "我们的歌第五季阵容官宣",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1695956731,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 131462,
+      "num": 329912,
+      "word": "中国人的家总能让你放下负担",
+      "onboard_time": 1695967829,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130783,
