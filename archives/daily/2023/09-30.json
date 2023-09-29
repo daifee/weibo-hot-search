@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696025736816,
+  "endTime": 1696026823227,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294112,
+      "num": 294112,
+      "word": "这一晚上给周深忙的",
+      "onboard_time": 1696007244,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293848,
       "num": 293848,
       "word": "男子狂揍妻子被孩子录下全过程",
@@ -177,14 +185,6 @@
       "onboard_time": 1695992622,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 232041,
-      "num": 232041,
-      "word": "这一晚上给周深忙的",
-      "onboard_time": 1696007244,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 231724,
@@ -531,20 +531,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 50359,
+      "num": 50359,
+      "word": "张远衣服上的玫瑰花是真的",
+      "onboard_time": 1696020434,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 42192,
       "num": 52033,
       "word": "莫斯科行动口碑",
       "onboard_time": 1696012036,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41813,
-      "num": 41813,
-      "word": "张远衣服上的玫瑰花是真的",
-      "onboard_time": 1696020434,
-      "rank": 31,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 36480,
@@ -555,16 +555,16 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23442,
-      "num": 232025,
+      "raw_hot": 23534,
+      "num": 312177,
       "word": "我国首条跨海高铁科技含量有多高",
       "onboard_time": 1695994361,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 17318,
-      "num": 33945,
+      "raw_hot": 17919,
+      "num": 40938,
       "word": "月饼",
       "onboard_time": 1695985955,
       "rank": 46,
