@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/29 23:34:28
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 00:21:39
 </p>
 </blockquote>
 <p>
@@ -3669,6 +3669,12 @@ offer5 8点下班的工作没人做（热度：1533086）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E6%A6%9C%E7%BA%A3%E7%8E%8B%E9%A5%B0%E6%BC%94%E8%80%85%E5%8E%BB%E4%B8%96%23" target="weibo">
+封神榜纣王饰演者去世（热度：1513216）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%98%B3%E7%9B%B4%E6%92%AD%E5%93%BD%E5%92%BD%23" target="weibo">
 孙阳直播哽咽（热度：1512220）
 </a>
@@ -6005,12 +6011,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%93%884%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3%23" target="weibo">
 五哈4阵容官宣（热度：1060456）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B7%AE%E7%82%B9%E8%A2%AB%E8%A3%A4%E5%AD%90%E5%8D%95%E6%9D%80%23" target="weibo">
-女大学生差点被裤子单杀（热度：1060181）
 </a>
 </li>
 
