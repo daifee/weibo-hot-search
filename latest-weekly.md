@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/24 00:19:33 ~ 2023/09/29 16:21:04
+本榜单时间：2023/09/24 00:19:33 ~ 2023/09/29 16:34:12
 </p>
 </blockquote>
 <p>
@@ -95,6 +95,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E8%A5%BF%E5%AD%90%E5%9B%9E%E5%BA%94%E5%8F%91%E7%96%AF%23" target="weibo">
 花西子回应发疯（热度：5917785）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%93%9C%E7%89%8C%23" target="weibo">
+英雄联盟中国队铜牌（热度：5051497）
 </a>
 </li>
 
@@ -2823,12 +2829,6 @@ ELK金克丝一血（热度：596887）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%93%9C%E7%89%8C%23" target="weibo">
-英雄联盟中国队铜牌（热度：576000）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B9%9F%E6%B2%A1%E8%B5%B0%E6%88%90%23" target="weibo">
 孙颖莎也没走成（热度：575459）
 </a>
@@ -3701,6 +3701,12 @@ baolan 这阵容咋选出来的（热度：466675）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2334%E5%B2%81%E5%88%9D%E4%B8%AD%E8%80%81%E5%B8%88%E9%87%8D%E6%96%B0%E9%AB%98%E8%80%83%E8%BD%AC%E5%AD%A6%E5%8F%A3%E8%85%94%E5%8C%BB%E5%AD%A6%23" target="weibo">
 34岁初中老师重新高考转学口腔医学（热度：465571）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E7%AB%8B%E5%8B%8B%E6%95%91%E4%BA%86%E8%BF%99%E4%B8%AA%E5%AE%B6%23" target="weibo">
+彭立勋救了这个家（热度：465182）
 </a>
 </li>
 
@@ -5115,6 +5121,12 @@ offer5实习生简历好丰富（热度：348433）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%20%E6%89%93%E5%87%BA%E6%82%AC%E5%BF%B5%E6%9D%A5%E4%BA%86%23" target="weibo">
+英雄联盟 打出悬念来了（热度：330861）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E6%8A%8A1%E5%B2%81%E5%A5%B3%E5%84%BF%E5%8F%AF%E7%88%B1%E7%9E%AC%E9%97%B4%E5%AE%9A%E6%A0%BC%E6%88%90%E5%8A%A8%E7%94%BB%23" target="weibo">
 爸爸把1岁女儿可爱瞬间定格成动画（热度：330531）
 </a>
@@ -5817,12 +5829,6 @@ Angelababy 巴黎夜幕（热度：298630）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%20%E6%89%93%E5%87%BA%E6%82%AC%E5%BF%B5%E6%9D%A5%E4%BA%86%23" target="weibo">
-英雄联盟 打出悬念来了（热度：293235）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E8%AE%B0%E4%BA%91%E9%A5%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E6%98%AF%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
 袁记云饺回应被指是预制菜（热度：293109）
 </a>
@@ -6251,6 +6257,12 @@ iPhone15Pro过热或是散热问题（热度：274916）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%A9%861%E5%A4%A9%E8%B5%B0%E4%B8%A23%E6%AC%A1%E6%B0%91%E8%AD%A6%E7%86%9F%E7%BB%83%E9%80%81%E5%9B%9E%23" target="weibo">
 婆婆1天走丢3次民警熟练送回（热度：274212）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Sofm%E7%9A%84%E8%AE%A4%E5%8F%AF%23" target="weibo">
+Sofm的认可（热度：272669）
 </a>
 </li>
 
@@ -7581,6 +7593,12 @@ YG现在的状况（热度：218999）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%95%99%E7%BB%83%E5%8D%95%E6%96%B9%E9%9D%A2%E6%AF%81%E7%BA%A6%23" target="weibo">
+郑钦文教练单方面毁约（热度：218870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%A4%A9%E5%B0%B1%E6%98%AF%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%23" target="weibo">
 明天就是中秋国庆假期（热度：218476）
 </a>
@@ -8097,6 +8115,12 @@ iPhone15精织斜纹保护壳被吐槽一团糟（热度：206894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B0%BC%E5%B0%94%E5%81%9A%E6%9C%88%E9%A5%BC%E6%88%B4%E6%89%8B%E5%A5%97%E4%BB%BF%E4%BD%9B%E6%B2%A1%E6%88%B4%23" target="weibo">
+奥尼尔做月饼戴手套仿佛没戴（热度：205973）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E8%92%8B%E5%8B%A4%E5%8B%A4%E6%96%B0%E7%89%87%E5%85%A5%E5%9B%B4%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%23" target="weibo">
 吴磊蒋勤勤新片入围东京电影节（热度：205940）
 </a>
@@ -8489,12 +8513,6 @@ KPL（热度：198944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E4%B9%89%E4%BA%BA%23" target="weibo">
 九义人（热度：198659）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E9%92%A6%E6%96%87%E6%95%99%E7%BB%83%E5%8D%95%E6%96%B9%E9%9D%A2%E6%AF%81%E7%BA%A6%23" target="weibo">
-郑钦文教练单方面毁约（热度：198598）
 </a>
 </li>
 
@@ -10503,6 +10521,12 @@ KEP1ER回归新歌（热度：161286）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E4%BA%9A%E8%BF%90%E5%86%A0%E5%86%9B%E5%AF%B9%E8%88%85%E8%88%85%E9%AB%98%E7%94%9C%E6%89%93%E6%8B%9B%E5%91%BC%23" target="weibo">
+13岁亚运冠军对舅舅高甜打招呼（热度：150288）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%9E%E6%B4%9E%E9%9E%8B%E5%9C%A8%E5%A4%A7%E5%AD%A6%E6%80%8E%E4%B9%88%E9%82%A3%E4%B9%88%E6%B5%81%E8%A1%8C%E4%BA%86%23" target="weibo">
 洞洞鞋在大学怎么那么流行了（热度：150246）
 </a>
@@ -10589,6 +10613,12 @@ KEP1ER回归新歌（热度：161286）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%90%B4%E5%BD%A6%E5%A7%9D%E5%90%88%E7%85%A7%23" target="weibo">
 杨紫吴彦姝合照（热度：148958）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%8F%88%E6%98%AF%E4%BA%BA%E4%BA%BA%E4%BA%BA%E9%AD%85%E5%8A%9B%E5%A4%AA%E5%A4%A7%E4%BA%86%23" target="weibo">
+杭州灵隐又是人人人魅力太大了（热度：148712）
 </a>
 </li>
 
@@ -11715,6 +11745,12 @@ CS2（热度：102290）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%BD%91%E6%97%A0%E6%84%A7%E4%BA%9A%E6%B4%B2%E4%B8%80%E6%B5%81%23" target="weibo">
+中国女网无愧亚洲一流（热度：96829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E4%B8%80%E5%8C%BB%E9%99%A2%E4%BA%A7%E7%A7%91%E5%85%B3%E9%97%AD%23" target="weibo">
 宁波一医院产科关闭（热度：96042）
 </a>
@@ -12543,6 +12579,12 @@ iQOO手机亚运电竞最强辅助（热度：37604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E5%A4%A9%E5%9B%A2%E6%A2%A6%E5%B9%BB%E7%A7%80%23" target="weibo">
+花滑天团梦幻秀（热度：24838）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B4%E4%B8%80%E5%9C%BA%E4%B8%AD%E5%9B%BD%E8%AF%97%E6%AD%8C%E7%9A%84%E6%B5%AA%E6%BC%AB%23" target="weibo">
 赴一场中国诗歌的浪漫（热度：23928）
 </a>
@@ -12569,12 +12611,6 @@ iQOO手机亚运电竞最强辅助（热度：37604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E4%B9%92%E4%B9%93%E7%A5%9E%E6%93%8D%E4%BD%9C%E7%9C%8B%E5%91%86%E4%BC%97%E4%BA%BA%23" target="weibo">
 马龙乒乓神操作看呆众人（热度：22352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%BB%91%E5%A4%A9%E5%9B%A2%E6%A2%A6%E5%B9%BB%E7%A7%80%23" target="weibo">
-花滑天团梦幻秀（热度：20858）
 </a>
 </li>
 
