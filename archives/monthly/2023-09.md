@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 09:10:14
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 09:30:04
 </p>
 </blockquote>
 <p>
@@ -1527,6 +1527,12 @@ YG回应Lisa拒绝续约（热度：2504910）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%8F%AF%E4%BB%A5%E5%B8%B8%E5%9B%9E%20%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B9%85%E5%BE%85%23" target="weibo">
+家可以常回 但不能久待（热度：2265286）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%81%B71%E5%A4%9C%E6%8C%96700%E6%96%A4%E8%8A%8B%E5%A4%B4%E8%A2%AB%E6%8A%93%E5%86%9C%E6%88%B7%E7%AC%91%E4%BA%86%23" target="weibo">
 小偷1夜挖700斤芋头被抓农户笑了（热度：2261210）
 </a>
@@ -1997,12 +2003,6 @@ EXO 安踏（热度：2070313）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%85%E6%88%90%23" target="weibo">
 徐必成（热度：2033790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%8F%AF%E4%BB%A5%E5%B8%B8%E5%9B%9E%20%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B9%85%E5%BE%85%23" target="weibo">
-家可以常回 但不能久待（热度：2026108）
 </a>
 </li>
 

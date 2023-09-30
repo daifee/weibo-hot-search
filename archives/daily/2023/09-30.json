@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696036214783,
+  "endTime": 1696037404128,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2026108,
-      "num": 2026108,
+      "raw_hot": 2265286,
+      "num": 2265286,
       "word": "家可以常回 但不能久待",
       "onboard_time": 1696031246,
       "rank": 0,
@@ -51,6 +51,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 826721,
+      "num": 377068,
+      "word": "长期吃西红柿真的能变白吗",
+      "onboard_time": 1696036231,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 810176,
+      "num": 359247,
+      "word": "周放居然是还珠格格的柳红",
+      "onboard_time": 1696036352,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 675217,
       "num": 532961,
       "word": "张小斐张嘉倪到底是在演什么",
@@ -65,6 +81,22 @@
       "onboard_time": 1695992799,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 624362,
+      "num": 624362,
+      "word": "长大后最恐怖的事情之一",
+      "onboard_time": 1696032751,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 623497,
+      "num": 623497,
+      "word": "通报称女生遭4同学掌掴为肢体冲突引争议",
+      "onboard_time": 1696034734,
+      "rank": 11,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 617744,
@@ -83,20 +115,20 @@
       "category": "自然"
     },
     {
+      "raw_hot": 533931,
+      "num": 533931,
+      "word": "女子水果里藏49只昆虫入境被查",
+      "onboard_time": 1696030283,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 495013,
       "num": 495013,
       "word": "于湉自曝曾患红斑狼疮",
       "onboard_time": 1696002273,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 485340,
-      "num": 485340,
-      "word": "长大后最恐怖的事情之一",
-      "onboard_time": 1696032751,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 483593,
@@ -107,12 +139,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 478568,
-      "num": 478568,
-      "word": "女子水果里藏49只昆虫入境被查",
-      "onboard_time": 1696030283,
-      "rank": 38,
-      "category": "社会新闻"
+      "raw_hot": 449662,
+      "num": 449662,
+      "word": "黄绮珊为跑调道歉",
+      "onboard_time": 1696035634,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 433834,
+      "num": 355033,
+      "word": "三只猫凌晨三点半听我妈打呼噜",
+      "onboard_time": 1696035271,
+      "rank": 32,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 423974,
@@ -129,6 +169,30 @@
       "onboard_time": 1695998079,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 405471,
+      "num": 353776,
+      "word": "红斑狼疮",
+      "onboard_time": 1696030404,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 397472,
+      "num": 349966,
+      "word": "谭松韵粉发造型",
+      "onboard_time": 1696036472,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 344825,
+      "num": 344825,
+      "word": "童瑶耳环上的珍珠比蛤蜊还大",
+      "onboard_time": 1696036894,
+      "rank": 20,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 332890,
@@ -187,28 +251,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 310260,
-      "num": 310260,
-      "word": "通报称女生遭4同学掌掴为肢体冲突引争议",
-      "onboard_time": 1696034734,
-      "rank": 11,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 309053,
       "num": 309053,
       "word": "檀健次炎明熹复古港风唱跳",
       "onboard_time": 1695994241,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291379,
-      "num": 291379,
-      "word": "红斑狼疮",
-      "onboard_time": 1696030404,
-      "rank": 46,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 290792,
@@ -235,12 +283,28 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 257604,
-      "num": 257604,
+      "raw_hot": 276643,
+      "num": 276643,
       "word": "每个前任都是一所大学",
       "onboard_time": 1696034492,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 266905,
+      "num": 196332,
+      "word": "大学生付餐具费吃完饭将餐具全带走",
+      "onboard_time": 1696036894,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 262997,
+      "num": 194500,
+      "word": "披萨里的白色支架是干什么用的",
+      "onboard_time": 1696036535,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 254561,
@@ -249,6 +313,14 @@
       "onboard_time": 1696031608,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248873,
+      "num": 372484,
+      "word": "烈士纪念日向人民英雄敬献花篮",
+      "onboard_time": 1696037014,
+      "rank": 11,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 243646,
@@ -299,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218410,
+      "num": 218410,
+      "word": "朱珠新中式礼裙参加巴黎晚宴",
+      "onboard_time": 1696029862,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216129,
       "num": 532386,
       "word": "中秋节",
@@ -315,20 +395,20 @@
       "category": "艺人,旅游"
     },
     {
+      "raw_hot": 211496,
+      "num": 379277,
+      "word": "英国汉学家称战争劫掠文物应物归原主",
+      "onboard_time": 1696036413,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208395,
       "num": 235898,
       "word": "许家印父子及多名恒大高管涉案被查",
       "onboard_time": 1695982412,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203705,
-      "num": 203705,
-      "word": "朱珠新中式礼裙参加巴黎晚宴",
-      "onboard_time": 1696029862,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201101,
@@ -371,12 +451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187652,
-      "num": 187652,
-      "word": "黄绮珊为跑调道歉",
-      "onboard_time": 1696035634,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 187704,
+      "num": 370987,
+      "word": "中秋国庆假期第2天你在干什么",
+      "onboard_time": 1696036535,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180281,
@@ -385,6 +465,14 @@
       "onboard_time": 1695994421,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179392,
+      "num": 367636,
+      "word": "叙利亚总统眼中中国的变与不变",
+      "onboard_time": 1696029143,
+      "rank": 46,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 176615,
@@ -403,16 +491,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169609,
-      "num": 307897,
-      "word": "叙利亚总统眼中中国的变与不变",
-      "onboard_time": 1696029143,
-      "rank": 46,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 161933,
-      "num": 135197,
+      "num": 136740,
       "word": "公主美丽半马尾",
       "onboard_time": 1696033769,
       "rank": 30,
@@ -451,12 +531,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152859,
+      "num": 152859,
+      "word": "一人之下",
+      "onboard_time": 1696035754,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150443,
       "num": 150443,
       "word": "曾毅就那么几句词还让粉丝抢了",
       "onboard_time": 1696004490,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150401,
+      "num": 150401,
+      "word": "广州人快乐到冒泡有多简单",
+      "onboard_time": 1696036294,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146783,
+      "num": 146783,
+      "word": "游泳队18宫格卷起来了",
+      "onboard_time": 1696037314,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 146443,
@@ -473,6 +577,22 @@
       "onboard_time": 1696000539,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 143325,
+      "num": 143325,
+      "word": "苏炳添回应缺席亚运",
+      "onboard_time": 1696030827,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142824,
+      "num": 142824,
+      "word": "中国队105金领跑奖牌榜",
+      "onboard_time": 1696036594,
+      "rank": 39,
+      "category": "体育,国内要闻"
     },
     {
       "raw_hot": 141580,
@@ -497,6 +617,14 @@
       "onboard_time": 1695999218,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140068,
+      "num": 140068,
+      "word": "记住英雄他们便永远活着",
+      "onboard_time": 1696036171,
+      "rank": 39,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 138634,
@@ -531,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130782,
+      "num": 130782,
+      "word": "爱心厨房连续6年为白血病孩子过中秋",
+      "onboard_time": 1696037075,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 126050,
       "num": 126050,
       "word": "雷佳音拽于适去C位拽不动",
@@ -547,19 +683,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123609,
-      "num": 123609,
-      "word": "三只猫凌晨三点半听我妈打呼噜",
-      "onboard_time": 1696035271,
-      "rank": 32,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 122336,
       "num": 176896,
       "word": "王楚钦小心翼翼试探生气的教练",
       "onboard_time": 1695993883,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 121809,
+      "num": 121809,
+      "word": "体验了一把蹦迪版亚运会",
+      "onboard_time": 1696037314,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -571,12 +707,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 117054,
-      "num": 117054,
-      "word": "一人之下",
-      "onboard_time": 1696035754,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 115540,
+      "num": 115540,
+      "word": "双节首日上海南京路再现拉链式人墙",
+      "onboard_time": 1696036955,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 114529,
@@ -609,14 +745,6 @@
       "onboard_time": 1695999758,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102191,
-      "num": 102191,
-      "word": "记住英雄他们便永远活着",
-      "onboard_time": 1696036171,
-      "rank": 39,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 102122,
@@ -707,6 +835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70960,
+      "num": 363075,
+      "word": "致敬公安英雄",
+      "onboard_time": 1696035634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 68642,
       "num": 68642,
       "word": "去杭州西溪湿地坐船还来得及吗",
@@ -721,14 +857,6 @@
       "onboard_time": 1695994541,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66692,
-      "num": 96961,
-      "word": "苏炳添回应缺席亚运",
-      "onboard_time": 1696030827,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 65488,
@@ -787,11 +915,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42452,
-      "num": 300277,
-      "word": "致敬公安英雄",
-      "onboard_time": 1696035634,
-      "rank": 14,
+      "raw_hot": 42278,
+      "num": 632108,
+      "word": "盛世中华 大美中国",
+      "onboard_time": 1696036654,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
