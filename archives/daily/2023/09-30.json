@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696041224786,
+  "endTime": 1696043799358,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -67,6 +67,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 932012,
+      "num": 932012,
+      "word": "原来这才叫休息",
+      "onboard_time": 1696039594,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 904172,
       "num": 904172,
       "word": "大学生付餐具费吃完饭将餐具全带走",
@@ -81,6 +89,14 @@
       "onboard_time": 1695998202,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 825914,
+      "num": 378040,
+      "word": "杨幂在法国穿旗袍过中秋",
+      "onboard_time": 1696041394,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 675217,
@@ -131,14 +147,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 608915,
-      "num": 364062,
-      "word": "原来这才叫休息",
-      "onboard_time": 1696039594,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 554858,
       "num": 400578,
       "word": "火车上有卖卫生巾了",
@@ -163,12 +171,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 510486,
+      "num": 334326,
+      "word": "张元英今年也不参加韩国高考",
+      "onboard_time": 1696041155,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495013,
       "num": 495013,
       "word": "于湉自曝曾患红斑狼疮",
       "onboard_time": 1696002273,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489911,
+      "num": 489911,
+      "word": "小长假不得连炫八天甄嬛传",
+      "onboard_time": 1696039233,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 483593,
@@ -185,6 +209,22 @@
       "onboard_time": 1696036472,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 449557,
+      "num": 449557,
+      "word": "吴艳妮12秒80晋级决赛",
+      "onboard_time": 1696040554,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 446951,
+      "num": 325303,
+      "word": "女子买票被抢票软件提示多买12站",
+      "onboard_time": 1696041874,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433834,
@@ -235,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 376215,
-      "num": 376215,
-      "word": "小长假不得连炫八天甄嬛传",
-      "onboard_time": 1696039233,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 353712,
       "num": 353712,
       "word": "成毅拍的月亮",
@@ -251,12 +283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341884,
-      "num": 341884,
-      "word": "吴艳妮12秒80晋级决赛",
-      "onboard_time": 1696040554,
-      "rank": 20,
-      "category": "体育"
+      "raw_hot": 348285,
+      "num": 286519,
+      "word": "iPhone16系列机型尺寸曝光",
+      "onboard_time": 1696040674,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 336277,
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 316121,
-      "num": 216524,
+      "num": 219010,
       "word": "妈妈 今年带这么多朋友来过节啊",
       "onboard_time": 1696040192,
       "rank": 38,
@@ -347,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301487,
+      "num": 301487,
+      "word": "徐明浩还是那么中国胃",
+      "onboard_time": 1696042654,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 290792,
       "num": 311614,
       "word": "于适精神状态还好吗",
@@ -355,12 +395,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 286519,
-      "num": 286519,
-      "word": "iPhone16系列机型尺寸曝光",
-      "onboard_time": 1696040674,
-      "rank": 24,
-      "category": "科技"
+      "raw_hot": 290777,
+      "num": 277082,
+      "word": "为什么小学生集体痴迷萝卜刀",
+      "onboard_time": 1696040373,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 283991,
@@ -369,6 +409,14 @@
       "onboard_time": 1695987457,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 281785,
+      "num": 218963,
+      "word": "江苏604名公安民警因公牺牲",
+      "onboard_time": 1696041993,
+      "rank": 31,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 279716,
@@ -419,20 +467,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 251793,
+      "num": 251793,
+      "word": "网友巴黎偶遇白鹿吃火锅",
+      "onboard_time": 1696042593,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 248873,
       "num": 403346,
       "word": "烈士纪念日向人民英雄敬献花篮",
       "onboard_time": 1696037014,
       "rank": 11,
       "category": "国内要闻,军事"
-    },
-    {
-      "raw_hot": 248381,
-      "num": 248381,
-      "word": "为什么小学生集体痴迷萝卜刀",
-      "onboard_time": 1696040373,
-      "rank": 43,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 247247,
@@ -499,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223478,
+      "num": 223478,
+      "word": "宋佳在机场遇到龚俊的反应",
+      "onboard_time": 1696042714,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218410,
       "num": 218410,
       "word": "朱珠新中式礼裙参加巴黎晚宴",
@@ -507,8 +563,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 216524,
-      "num": 216524,
+      "raw_hot": 217733,
+      "num": 217733,
       "word": "外国运动员cos白娘子换徽章",
       "onboard_time": 1696040913,
       "rank": 29,
@@ -529,6 +585,14 @@
       "onboard_time": 1695997540,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214522,
+      "num": 214522,
+      "word": "男生1人留守宿舍大扫除过中秋",
+      "onboard_time": 1696042356,
+      "rank": 33,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 211820,
@@ -555,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207364,
+      "num": 207364,
+      "word": "黄绮珊 真诚",
+      "onboard_time": 1696042894,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205995,
       "num": 205995,
       "word": "谢谢你们用生命守护祖国",
@@ -579,12 +651,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 199226,
+      "num": 199226,
+      "word": "16岁华裔控卫想为中国打球",
+      "onboard_time": 1696043195,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198142,
       "num": 198142,
       "word": "张嘉倪我那貌美的竹马千金回国了",
       "onboard_time": 1695992920,
       "rank": 44,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 197198,
+      "num": 197198,
+      "word": "今日鲜花祭英魂",
+      "onboard_time": 1696043195,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190846,
@@ -627,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187268,
+      "num": 187268,
+      "word": "你好星期六全员笑脸送国庆祝福",
+      "onboard_time": 1696043615,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185203,
       "num": 185203,
       "word": "白百何中秋节送上了全部的存货",
@@ -665,6 +761,22 @@
       "onboard_time": 1696005867,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171099,
+      "num": 171099,
+      "word": "为什么感觉凤凰传奇的歌越来越潮",
+      "onboard_time": 1696043074,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 164968,
+      "num": 164968,
+      "word": "志愿军 超预期",
+      "onboard_time": 1696042535,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 163521,
@@ -715,20 +827,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154885,
+      "num": 154885,
+      "word": "薛之谦你还要我怎样高速堵车版",
+      "onboard_time": 1696042175,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 152859,
       "num": 152859,
       "word": "一人之下",
       "onboard_time": 1696035754,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151216,
-      "num": 151216,
-      "word": "张元英今年也不参加韩国高考",
-      "onboard_time": 1696041155,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 150443,
@@ -753,6 +865,14 @@
       "onboard_time": 1695999696,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145769,
+      "num": 145769,
+      "word": "废文",
+      "onboard_time": 1696043674,
+      "rank": 47,
+      "category": "读书作家"
     },
     {
       "raw_hot": 145023,
@@ -900,7 +1020,7 @@
     },
     {
       "raw_hot": 125069,
-      "num": 343114,
+      "num": 370484,
       "word": "月球上中国地名达35个",
       "onboard_time": 1696039293,
       "rank": 48,
@@ -1041,6 +1161,14 @@
       "onboard_time": 1695978754,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84164,
+      "num": 351258,
+      "word": "非洲小伙天天问中国师父会不会功夫",
+      "onboard_time": 1696043314,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 83559,
@@ -1212,6 +1340,9 @@
     },
     {
       "word": "#习近平回信勉励中国人民公安大学在读英烈子女#"
+    },
+    {
+      "word": "#向烈士致敬#"
     }
   ]
 }

@@ -1,0 +1,410 @@
+{
+  "runTime": 1696043799358,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1296282,
+        "num": 1296282,
+        "word": "长期吃西红柿真的能变白吗",
+        "onboard_time": 1696036231,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 965130,
+        "num": 965130,
+        "word": "家可以常回 但不能久待",
+        "onboard_time": 1696031246,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82314,
+        "num": 937948,
+        "word": "盛世中华 大美中国",
+        "onboard_time": 1696036654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932012,
+        "num": 932012,
+        "word": "原来这才叫休息",
+        "onboard_time": 1696039594,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 756751,
+        "num": 756751,
+        "word": "周放居然是还珠格格的柳红",
+        "onboard_time": 1696036352,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 690259,
+        "num": 690259,
+        "word": "大学生付餐具费吃完饭将餐具全带走",
+        "onboard_time": 1696036894,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 489911,
+        "num": 489911,
+        "word": "小长假不得连炫八天甄嬛传",
+        "onboard_time": 1696039233,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449557,
+        "num": 449557,
+        "word": "吴艳妮12秒80晋级决赛",
+        "onboard_time": 1696040554,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405010,
+        "num": 405010,
+        "word": "封神榜纣王饰演者去世",
+        "onboard_time": 1696001496,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192398,
+        "num": 398155,
+        "word": "中秋国庆假期第2天你在干什么",
+        "onboard_time": 1696036535,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513629,
+        "num": 390112,
+        "word": "童瑶耳环上的珍珠比蛤蜊还大",
+        "onboard_time": 1696036894,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 825914,
+        "num": 378040,
+        "word": "杨幂在法国穿旗袍过中秋",
+        "onboard_time": 1696041394,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 89860,
+        "num": 370484,
+        "word": "月球上中国地名达35个",
+        "onboard_time": 1696039293,
+        "rank": 12,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 84164,
+        "num": 351258,
+        "word": "非洲小伙天天问中国师父会不会功夫",
+        "onboard_time": 1696043314,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80335,
+        "num": 341853,
+        "word": "英国汉学家称战争劫掠文物应物归原主",
+        "onboard_time": 1696036413,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510486,
+        "num": 334326,
+        "word": "张元英今年也不参加韩国高考",
+        "onboard_time": 1696041155,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446951,
+        "num": 325303,
+        "word": "女子买票被抢票软件提示多买12站",
+        "onboard_time": 1696041874,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316423,
+        "num": 316423,
+        "word": "胡兵王心凌信20年前的合影",
+        "onboard_time": 1696039353,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 301487,
+        "num": 301487,
+        "word": "徐明浩还是那么中国胃",
+        "onboard_time": 1696042654,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278478,
+        "num": 278478,
+        "word": "张小斐张嘉倪到底是在演什么",
+        "onboard_time": 1695998799,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348285,
+        "num": 277511,
+        "word": "iPhone16系列机型尺寸曝光",
+        "onboard_time": 1696040674,
+        "rank": 20,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 290777,
+        "num": 277082,
+        "word": "为什么小学生集体痴迷萝卜刀",
+        "onboard_time": 1696040373,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 276512,
+        "num": 276512,
+        "word": "火车上有卖卫生巾了",
+        "onboard_time": 1696038752,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256062,
+        "num": 256062,
+        "word": "黄绮珊为跑调道歉",
+        "onboard_time": 1696035634,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251793,
+        "num": 251793,
+        "word": "网友巴黎偶遇白鹿吃火锅",
+        "onboard_time": 1696042593,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 243005,
+        "num": 243005,
+        "word": "成毅拍的月亮",
+        "onboard_time": 1696037854,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240851,
+        "num": 240851,
+        "word": "农村自建房都是这么豪华吗",
+        "onboard_time": 1696037793,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223478,
+        "num": 223478,
+        "word": "宋佳在机场遇到龚俊的反应",
+        "onboard_time": 1696042714,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220754,
+        "num": 220754,
+        "word": "韩国人真这么吃饭吗",
+        "onboard_time": 1696039113,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220036,
+        "num": 220036,
+        "word": "谭松韵粉发造型",
+        "onboard_time": 1696036472,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302058,
+        "num": 219010,
+        "word": "妈妈 今年带这么多朋友来过节啊",
+        "onboard_time": 1696040192,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281785,
+        "num": 218963,
+        "word": "江苏604名公安民警因公牺牲",
+        "onboard_time": 1696041993,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 217733,
+        "num": 217733,
+        "word": "外国运动员cos白娘子换徽章",
+        "onboard_time": 1696040913,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214522,
+        "num": 214522,
+        "word": "男生1人留守宿舍大扫除过中秋",
+        "onboard_time": 1696042356,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 207364,
+        "num": 207364,
+        "word": "黄绮珊 真诚",
+        "onboard_time": 1696042894,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199226,
+        "num": 199226,
+        "word": "16岁华裔控卫想为中国打球",
+        "onboard_time": 1696043195,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52956,
+        "num": 197909,
+        "word": "人民英雄永在心间",
+        "onboard_time": 1696039414,
+        "rank": 36,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 197198,
+        "num": 197198,
+        "word": "今日鲜花祭英魂",
+        "onboard_time": 1696043195,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187268,
+        "num": 187268,
+        "word": "你好星期六全员笑脸送国庆祝福",
+        "onboard_time": 1696043615,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183298,
+        "num": 183298,
+        "word": "三只猫凌晨三点半听我妈打呼噜",
+        "onboard_time": 1696035271,
+        "rank": 39,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 175472,
+        "num": 175472,
+        "word": "女子水果里藏49只昆虫入境被查",
+        "onboard_time": 1696030283,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171099,
+        "num": 171099,
+        "word": "为什么感觉凤凰传奇的歌越来越潮",
+        "onboard_time": 1696043074,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168463,
+        "num": 168463,
+        "word": "檀健次拍的中秋节月亮",
+        "onboard_time": 1696039233,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164968,
+        "num": 164968,
+        "word": "志愿军 超预期",
+        "onboard_time": 1696042535,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154885,
+        "num": 154885,
+        "word": "薛之谦你还要我怎样高速堵车版",
+        "onboard_time": 1696042175,
+        "rank": 44,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 150990,
+        "num": 150990,
+        "word": "许家印为何被采取强制措施",
+        "onboard_time": 1696037737,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147640,
+        "num": 147640,
+        "word": "徐嘉余 两届亚运未尝一败",
+        "onboard_time": 1696038513,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145769,
+        "num": 145769,
+        "word": "废文",
+        "onboard_time": 1696043674,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 142003,
+        "num": 142003,
+        "word": "邢菲把痘变成痣",
+        "onboard_time": 1695999815,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138245,
+        "num": 138245,
+        "word": "周深直播背景布下班了",
+        "onboard_time": 1696037912,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#向烈士致敬#"
+    }
+  }
+}
