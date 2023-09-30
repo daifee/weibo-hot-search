@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696030446180,
+  "endTime": 1696036214783,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -17,6 +17,14 @@
       "onboard_time": 1695994002,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2026108,
+      "num": 2026108,
+      "word": "家可以常回 但不能久待",
+      "onboard_time": 1696031246,
+      "rank": 0,
+      "category": "情感"
     },
     {
       "raw_hot": 1622362,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 675217,
-      "num": 508870,
+      "num": 532961,
       "word": "张小斐张嘉倪到底是在演什么",
       "onboard_time": 1695998799,
       "rank": 11,
@@ -83,12 +91,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 485340,
+      "num": 485340,
+      "word": "长大后最恐怖的事情之一",
+      "onboard_time": 1696032751,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 483593,
       "num": 483593,
       "word": "这一晚上给周深忙的",
       "onboard_time": 1696007244,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 478568,
+      "num": 478568,
+      "word": "女子水果里藏49只昆虫入境被查",
+      "onboard_time": 1696030283,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 423974,
@@ -99,7 +123,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 406426,
+      "raw_hot": 423225,
       "num": 551999,
       "word": "奥尼尔单手能握住四瓶矿泉水",
       "onboard_time": 1695998079,
@@ -139,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318226,
+      "num": 318226,
+      "word": "周深忘词后的精神状态",
+      "onboard_time": 1696032991,
+      "rank": 8,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 315867,
       "num": 315867,
       "word": "天蝎座疏远一个人的原因",
@@ -155,6 +187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310260,
+      "num": 310260,
+      "word": "通报称女生遭4同学掌掴为肢体冲突引争议",
+      "onboard_time": 1696034734,
+      "rank": 11,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 309053,
       "num": 309053,
       "word": "檀健次炎明熹复古港风唱跳",
@@ -163,12 +203,52 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291379,
+      "num": 291379,
+      "word": "红斑狼疮",
+      "onboard_time": 1696030404,
+      "rank": 46,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 290792,
+      "num": 311614,
+      "word": "于适精神状态还好吗",
+      "onboard_time": 1696031007,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 283991,
       "num": 283991,
       "word": "周深直播",
       "onboard_time": 1695987457,
       "rank": 23,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 279716,
+      "num": 295407,
+      "word": "杭州西溪湿地属猪免船票",
+      "onboard_time": 1696030886,
+      "rank": 15,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 257604,
+      "num": 257604,
+      "word": "每个前任都是一所大学",
+      "onboard_time": 1696034492,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 254561,
+      "num": 254561,
+      "word": "迪丽热巴巴黎街头的美神",
+      "onboard_time": 1696031608,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 243646,
@@ -243,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203705,
+      "num": 203705,
+      "word": "朱珠新中式礼裙参加巴黎晚宴",
+      "onboard_time": 1696029862,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201101,
       "num": 233771,
       "word": "没卖掉的月饼都去哪了",
@@ -283,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187652,
+      "num": 187652,
+      "word": "黄绮珊为跑调道歉",
+      "onboard_time": 1696035634,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180281,
       "num": 180281,
       "word": "张杰音乐节开成演唱会",
@@ -305,6 +401,22 @@
       "onboard_time": 1696005867,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169609,
+      "num": 307897,
+      "word": "叙利亚总统眼中中国的变与不变",
+      "onboard_time": 1696029143,
+      "rank": 46,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 161933,
+      "num": 135197,
+      "word": "公主美丽半马尾",
+      "onboard_time": 1696033769,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 160931,
@@ -361,6 +473,14 @@
       "onboard_time": 1696000539,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 141580,
+      "num": 141580,
+      "word": "西安钟楼四周插满国旗迎双节",
+      "onboard_time": 1696035391,
+      "rank": 28,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 141307,
@@ -427,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123609,
+      "num": 123609,
+      "word": "三只猫凌晨三点半听我妈打呼噜",
+      "onboard_time": 1696035271,
+      "rank": 32,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 122336,
       "num": 176896,
       "word": "王楚钦小心翼翼试探生气的教练",
@@ -441,6 +569,14 @@
       "onboard_time": 1695990400,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 117054,
+      "num": 117054,
+      "word": "一人之下",
+      "onboard_time": 1696035754,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 114529,
@@ -475,12 +611,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102191,
+      "num": 102191,
+      "word": "记住英雄他们便永远活着",
+      "onboard_time": 1696036171,
+      "rank": 39,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 102122,
       "num": 145046,
       "word": "许家印在恒大年薪仅25万左右",
       "onboard_time": 1695960273,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99867,
+      "num": 99867,
+      "word": "林陆骁南初舞台吻",
+      "onboard_time": 1696030946,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99825,
+      "num": 99825,
+      "word": "前任4票房破亿",
+      "onboard_time": 1696033531,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 92680,
@@ -515,20 +675,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78982,
+      "num": 581386,
+      "word": "我国首条跨海高铁科技含量有多高",
+      "onboard_time": 1695994361,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 78367,
       "num": 75800,
       "word": "网友巴黎偶遇王俊凯吃饭",
       "onboard_time": 1696011018,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78305,
-      "num": 63065,
-      "word": "朱珠新中式礼裙参加巴黎晚宴",
-      "onboard_time": 1696029862,
-      "rank": 36,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 76903,
@@ -539,12 +699,12 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 72399,
-      "num": 64429,
-      "word": "叙利亚总统眼中中国的变与不变",
-      "onboard_time": 1696029143,
-      "rank": 46,
-      "category": "国内要闻"
+      "raw_hot": 72220,
+      "num": 96975,
+      "word": "国乒提前包揽混双冠亚军",
+      "onboard_time": 1696036114,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 68642,
@@ -563,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 66692,
+      "num": 96961,
+      "word": "苏炳添回应缺席亚运",
+      "onboard_time": 1696030827,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65488,
       "num": 129633,
       "word": "杭州亚运会击剑馆如星辰大海太浪漫了",
@@ -571,27 +739,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 60844,
-      "num": 60844,
-      "word": "女子水果里藏49只昆虫入境被查",
-      "onboard_time": 1696030283,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 59883,
       "num": 59883,
       "word": "寻亲34年外卖小哥与妈妈相拥痛哭",
       "onboard_time": 1696029263,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59849,
-      "num": 513671,
-      "word": "我国首条跨海高铁科技含量有多高",
-      "onboard_time": 1695994361,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -619,14 +771,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48592,
-      "num": 53696,
-      "word": "红斑狼疮",
-      "onboard_time": 1696030404,
-      "rank": 46,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 45288,
       "num": 59024,
       "word": "假期首日上海武警拉链式人墙如约而至",
@@ -641,6 +785,14 @@
       "onboard_time": 1696012036,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42452,
+      "num": 300277,
+      "word": "致敬公安英雄",
+      "onboard_time": 1696035634,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39330,
