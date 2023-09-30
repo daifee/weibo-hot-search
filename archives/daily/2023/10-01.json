@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696094013866,
+  "endTime": 1696095226201,
   "band_list": [
     {
       "raw_hot": 2450068,
@@ -67,20 +67,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558566,
+      "num": 558566,
+      "word": "韩国地铁凌晨五点坐满了人",
+      "onboard_time": 1696076980,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 525316,
       "num": 409888,
       "word": "易烊千玺小网站文案",
       "onboard_time": 1696084479,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 449031,
-      "num": 449031,
-      "word": "韩国地铁凌晨五点坐满了人",
-      "onboard_time": 1696076980,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 435753,
@@ -283,19 +283,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163631,
+      "num": 159426,
+      "word": "月入多少才能在深圳买得起房",
+      "onboard_time": 1696092868,
+      "rank": 22,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 162379,
+      "num": 162379,
+      "word": "热刺vs利物浦",
+      "onboard_time": 1696089398,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158996,
       "num": 382638,
       "word": "葛曼棋女子100米夺金",
       "onboard_time": 1696082381,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 157377,
-      "num": 157377,
-      "word": "热刺vs利物浦",
-      "onboard_time": 1696089398,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -313,14 +321,6 @@
       "onboard_time": 1696066297,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153792,
-      "num": 153792,
-      "word": "月入多少才能在深圳买得起房",
-      "onboard_time": 1696092868,
-      "rank": 22,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 151196,
@@ -417,6 +417,22 @@
       "onboard_time": 1696083942,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 61107,
+      "num": 67078,
+      "word": "九月再见",
+      "onboard_time": 1696094603,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 49317,
+      "num": 67074,
+      "word": "重庆银河方舟音乐节举行",
+      "onboard_time": 1696095143,
+      "rank": 49,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
