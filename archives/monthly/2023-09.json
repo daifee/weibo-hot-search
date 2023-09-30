@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1696080816324,
+  "endTime": 1696083240641,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -1515,6 +1515,14 @@
       "category": "社会新闻,美妆"
     },
     {
+      "raw_hot": 2546733,
+      "num": 2546733,
+      "word": "混双决赛",
+      "onboard_time": 1696073380,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2544731,
       "num": 2544731,
       "word": "央视前女主持任星巴克董事",
@@ -1785,6 +1793,14 @@
       "onboard_time": 1696039594,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2374406,
+      "num": 2374406,
+      "word": "王楚钦孙颖莎",
+      "onboard_time": 1696082439,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2374095,
@@ -2240,6 +2256,14 @@
       "word": "国足0比1叙利亚",
       "onboard_time": 1694526043,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2178310,
+      "num": 2178310,
+      "word": "谢震业百米冠军",
+      "onboard_time": 1696082563,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -5049,14 +5073,6 @@
       "onboard_time": 1694565643,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1503010,
-      "num": 1503010,
-      "word": "混双决赛",
-      "onboard_time": 1696073380,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 1499789,
@@ -9835,6 +9851,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 936423,
+      "num": 936423,
+      "word": "葛曼棋女子100米夺金",
+      "onboard_time": 1696082381,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 935885,
       "num": 935885,
       "word": "许幻山 又是你",
@@ -10521,6 +10545,14 @@
       "onboard_time": 1694940514,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 890013,
+      "num": 890013,
+      "word": "谢震业晋级亚运百米决赛",
+      "onboard_time": 1696075187,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 889155,
@@ -12611,6 +12643,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 788178,
+      "num": 788178,
+      "word": "国羽男团晋级决赛",
+      "onboard_time": 1696082141,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 787444,
       "num": 787444,
       "word": "穷鬼套餐",
@@ -12689,6 +12729,14 @@
       "onboard_time": 1695517531,
       "rank": 1,
       "category": "教育,互联网"
+    },
+    {
+      "raw_hot": 783337,
+      "num": 783337,
+      "word": "杨幂高跟鞋不合脚",
+      "onboard_time": 1696080521,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 782776,
@@ -15443,6 +15491,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 686655,
+      "num": 686655,
+      "word": "中国男篮终于得90分了",
+      "onboard_time": 1696081540,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 686580,
       "num": 686580,
       "word": "您的摄像机已经被狮子捡到",
@@ -17275,6 +17331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631500,
+      "num": 631500,
+      "word": "果果真是妈妈的好女儿",
+      "onboard_time": 1696080220,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 631405,
       "num": 435965,
       "word": "张彬彬的画技在内娱是什么水平",
@@ -17529,6 +17593,14 @@
       "onboard_time": 1695569257,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623636,
+      "num": 623636,
+      "word": "郑钧五点赶高铁开演唱会",
+      "onboard_time": 1696081481,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 623553,
@@ -19043,6 +19115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 589067,
+      "num": 589067,
+      "word": "姚明霍启刚同框",
+      "onboard_time": 1696081481,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 588924,
       "num": 588924,
       "word": "邓紫棋说我是歌手已经是十年前了",
@@ -19657,14 +19737,6 @@
       "onboard_time": 1693607838,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 571277,
-      "num": 571277,
-      "word": "果果真是妈妈的好女儿",
-      "onboard_time": 1696080220,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 571074,
@@ -20449,6 +20521,14 @@
       "onboard_time": 1694594797,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 555732,
+      "num": 332544,
+      "word": "泰国是预制菜的重灾区吧",
+      "onboard_time": 1696082983,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 555665,
@@ -27291,6 +27371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 439127,
+      "num": 439127,
+      "word": "中国女足挺进亚运四强",
+      "onboard_time": 1696083165,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439005,
       "num": 439005,
       "word": "眼睛近视的话这婚都结不成了",
@@ -30283,6 +30371,14 @@
       "category": "影视"
     },
     {
+      "raw_hot": 398940,
+      "num": 398940,
+      "word": "每个演员都想碰到这样的导演",
+      "onboard_time": 1696081181,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 398914,
       "num": 398914,
       "word": "金晨野生眉",
@@ -32883,6 +32979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 365119,
+      "num": 365119,
+      "word": "白宇哄李雪琴",
+      "onboard_time": 1696080641,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365086,
       "num": 365086,
       "word": "再见爱人3开播",
@@ -33249,6 +33353,14 @@
       "onboard_time": 1695790301,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360456,
+      "num": 332607,
+      "word": "丁程鑫把孟子义猜得透透的",
+      "onboard_time": 1696081244,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 360429,
@@ -37971,14 +38083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 313744,
-      "num": 313744,
-      "word": "白宇哄李雪琴",
-      "onboard_time": 1696080641,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 313699,
       "num": 346977,
       "word": "带薪休假是菜鸟警察的天真与梦想",
@@ -38361,6 +38465,14 @@
       "onboard_time": 1695389556,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 310140,
+      "num": 310140,
+      "word": "本地人都要打包100个的牛肉包子",
+      "onboard_time": 1696082079,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 310035,
@@ -40475,14 +40587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 293691,
-      "num": 293691,
-      "word": "谢震业晋级亚运百米决赛",
-      "onboard_time": 1696075187,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 293648,
       "num": 293648,
       "word": "陈楚生吉他弹唱思念一个荒废的名字",
@@ -41329,6 +41433,14 @@
       "onboard_time": 1695335900,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286351,
+      "num": 286351,
+      "word": "张含韵机场偶遇丞磊",
+      "onboard_time": 1696082260,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 286348,
@@ -46507,6 +46619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 250984,
+      "num": 250984,
+      "word": "孟子义满脑子只有倪妮",
+      "onboard_time": 1696082503,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250908,
       "num": 250908,
       "word": "中国男篮vs中国香港男篮",
@@ -46545,14 +46665,6 @@
       "onboard_time": 1694238817,
       "rank": 9,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 250432,
-      "num": 250432,
-      "word": "杨幂高跟鞋不合脚",
-      "onboard_time": 1696080521,
-      "rank": 42,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 250384,
@@ -47995,6 +48107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 240954,
+      "num": 240954,
+      "word": "崔韩率西装版crush",
+      "onboard_time": 1696080821,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240943,
       "num": 240943,
       "word": "大唐狄公案",
@@ -49217,6 +49337,14 @@
       "onboard_time": 1695558575,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234203,
+      "num": 234203,
+      "word": "杭州亚运会",
+      "onboard_time": 1695359734,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 234187,
@@ -61065,14 +61193,6 @@
       "onboard_time": 1696073079,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187647,
-      "num": 187647,
-      "word": "杭州亚运会",
-      "onboard_time": 1695359734,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 187635,
