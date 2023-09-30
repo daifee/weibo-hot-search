@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 09:30:04
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 10:02:30
 </p>
 </blockquote>
 <p>
@@ -3321,6 +3321,12 @@ THE9解散演唱会要来了（热度：1668390）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E5%90%83%E8%A5%BF%E7%BA%A2%E6%9F%BF%E7%9C%9F%E7%9A%84%E8%83%BD%E5%8F%98%E7%99%BD%E5%90%97%23" target="weibo">
+长期吃西红柿真的能变白吗（热度：1608668）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%8D%AB%E7%94%9F%E5%B7%BE%E7%9C%9F%E7%9A%84%E9%95%BF%E8%BF%99%E6%A0%B7%E5%90%97%23" target="weibo">
 台湾的卫生巾真的长这样吗（热度：1608164）
 </a>
@@ -5655,6 +5661,12 @@ papi酱我的震惊划破天际（热度：1126318）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%94%BE%E5%B1%85%E7%84%B6%E6%98%AF%E8%BF%98%E7%8F%A0%E6%A0%BC%E6%A0%BC%E7%9A%84%E6%9F%B3%E7%BA%A2%23" target="weibo">
+周放居然是还珠格格的柳红（热度：1115381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%8E%BB%E7%9C%8B%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 赵丽颖去看张碧晨演唱会（热度：1113864）
 </a>
@@ -5999,18 +6011,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E6%A3%89%E7%AD%BE%E6%B4%97%E5%A4%B4%20%E4%BA%94%E5%A4%A9%E4%B8%8D%E6%B2%B9%23" target="weibo">
 巨型棉签洗头 五天不油（热度：1061359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E7%94%9F%20%E9%A2%84%E5%88%B6%E8%8F%9C%23" target="weibo">
-留学生 预制菜（热度：1060796）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E6%8B%8D%E7%9A%84%E5%8D%A2%E6%98%B1%E6%99%93%23" target="weibo">
-虞书欣拍的卢昱晓（热度：1060554）
 </a>
 </li>
 

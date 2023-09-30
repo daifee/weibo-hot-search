@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696037404128,
+  "endTime": 1696039350042,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1608668,
+      "num": 1608668,
+      "word": "长期吃西红柿真的能变白吗",
+      "onboard_time": 1696036231,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1471960,
       "num": 522183,
       "word": "邢菲把痘变成痣",
@@ -43,28 +51,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1115381,
+      "num": 1115381,
+      "word": "周放居然是还珠格格的柳红",
+      "onboard_time": 1696036352,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1050087,
+      "num": 408117,
+      "word": "童瑶耳环上的珍珠比蛤蜊还大",
+      "onboard_time": 1696036894,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 904172,
+      "num": 904172,
+      "word": "大学生付餐具费吃完饭将餐具全带走",
+      "onboard_time": 1696036894,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 866336,
       "num": 866336,
       "word": "35岁做了近视手术",
       "onboard_time": 1695998202,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 826721,
-      "num": 377068,
-      "word": "长期吃西红柿真的能变白吗",
-      "onboard_time": 1696036231,
-      "rank": 10,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 810176,
-      "num": 359247,
-      "word": "周放居然是还珠格格的柳红",
-      "onboard_time": 1696036352,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 675217,
@@ -115,6 +131,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 550096,
+      "num": 550096,
+      "word": "黄绮珊为跑调道歉",
+      "onboard_time": 1696035634,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 533931,
       "num": 533931,
       "word": "女子水果里藏49只昆虫入境被查",
@@ -139,16 +163,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 449662,
-      "num": 449662,
-      "word": "黄绮珊为跑调道歉",
-      "onboard_time": 1696035634,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 473039,
+      "num": 401772,
+      "word": "谭松韵粉发造型",
+      "onboard_time": 1696036472,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 433834,
-      "num": 355033,
+      "num": 425824,
       "word": "三只猫凌晨三点半听我妈打呼噜",
       "onboard_time": 1696035271,
       "rank": 32,
@@ -179,20 +203,36 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 397472,
-      "num": 349966,
-      "word": "谭松韵粉发造型",
-      "onboard_time": 1696036472,
-      "rank": 18,
-      "category": "作品衍生"
+      "raw_hot": 400578,
+      "num": 400578,
+      "word": "火车上有卖卫生巾了",
+      "onboard_time": 1696038752,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 344825,
-      "num": 344825,
-      "word": "童瑶耳环上的珍珠比蛤蜊还大",
-      "onboard_time": 1696036894,
+      "raw_hot": 391603,
+      "num": 391603,
+      "word": "许家印为何被采取强制措施",
+      "onboard_time": 1696037737,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 336277,
+      "num": 336277,
+      "word": "农村自建房都是这么豪华吗",
+      "onboard_time": 1696037793,
       "rank": 20,
-      "category": "作品衍生"
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 333561,
+      "num": 333561,
+      "word": "成毅拍的月亮",
+      "onboard_time": 1696037854,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 332890,
@@ -259,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306756,
+      "num": 306756,
+      "word": "徐嘉余 两届亚运未尝一败",
+      "onboard_time": 1696038513,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290792,
       "num": 311614,
       "word": "于适精神状态还好吗",
@@ -291,16 +339,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 266905,
-      "num": 196332,
-      "word": "大学生付餐具费吃完饭将餐具全带走",
-      "onboard_time": 1696036894,
-      "rank": 30,
-      "category": "社会新闻,教育"
+      "raw_hot": 268767,
+      "num": 268767,
+      "word": "孙悦用科比精神激励球员",
+      "onboard_time": 1696037737,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 262997,
-      "num": 194500,
+      "num": 240361,
       "word": "披萨里的白色支架是干什么用的",
       "onboard_time": 1696036535,
       "rank": 31,
@@ -316,7 +364,7 @@
     },
     {
       "raw_hot": 248873,
-      "num": 372484,
+      "num": 403346,
       "word": "烈士纪念日向人民英雄敬献花篮",
       "onboard_time": 1696037014,
       "rank": 11,
@@ -363,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231373,
+      "num": 409098,
+      "word": "中秋国庆假期第2天你在干什么",
+      "onboard_time": 1696036535,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229978,
       "num": 270297,
       "word": "一个樊振东有两个全红婵大",
@@ -396,7 +452,7 @@
     },
     {
       "raw_hot": 211496,
-      "num": 379277,
+      "num": 405330,
       "word": "英国汉学家称战争劫掠文物应物归原主",
       "onboard_time": 1696036413,
       "rank": 9,
@@ -408,6 +464,14 @@
       "word": "许家印父子及多名恒大高管涉案被查",
       "onboard_time": 1695982412,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205424,
+      "num": 205424,
+      "word": "2000岁文物让我的中秋DNA动了",
+      "onboard_time": 1696038454,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -427,6 +491,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 194637,
+      "num": 193009,
+      "word": "周深直播背景布下班了",
+      "onboard_time": 1696037912,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 194158,
+      "num": 194158,
+      "word": "小长假不得连炫八天甄嬛传",
+      "onboard_time": 1696039233,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190846,
       "num": 190846,
       "word": "不染",
@@ -443,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188013,
+      "num": 403992,
+      "word": "今天是第10个烈士纪念日",
+      "onboard_time": 1696037672,
+      "rank": 13,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 187900,
       "num": 187900,
       "word": "陈哲远 空降",
@@ -451,12 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187704,
-      "num": 370987,
-      "word": "中秋国庆假期第2天你在干什么",
-      "onboard_time": 1696036535,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 185203,
+      "num": 185203,
+      "word": "白百何中秋节送上了全部的存货",
+      "onboard_time": 1696037973,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 180281,
@@ -489,6 +577,14 @@
       "onboard_time": 1696005867,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163521,
+      "num": 163521,
+      "word": "广州人快乐到冒泡有多简单",
+      "onboard_time": 1696036294,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161933,
@@ -531,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155679,
+      "num": 155679,
+      "word": "檀健次拍的中秋节月亮",
+      "onboard_time": 1696039233,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152859,
       "num": 152859,
       "word": "一人之下",
@@ -547,12 +651,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150401,
-      "num": 150401,
-      "word": "广州人快乐到冒泡有多简单",
-      "onboard_time": 1696036294,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 147185,
+      "num": 147185,
+      "word": "韩国人真这么吃饭吗",
+      "onboard_time": 1696039113,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 146783,
@@ -667,6 +771,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129815,
+      "num": 129815,
+      "word": "中国跳水梦之队首战",
+      "onboard_time": 1696037432,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129085,
+      "num": 129085,
+      "word": "著名表演艺术家达奇去世",
+      "onboard_time": 1696039174,
+      "rank": 45,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 126433,
+      "num": 126433,
+      "word": "这张合影的含金量太高了",
+      "onboard_time": 1696038572,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126050,
       "num": 126050,
       "word": "雷佳音拽于适去C位拽不动",
@@ -681,6 +809,14 @@
       "onboard_time": 1695994002,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125069,
+      "num": 125069,
+      "word": "月球上中国地名达35个",
+      "onboard_time": 1696039293,
+      "rank": 48,
+      "category": "知识科普"
     },
     {
       "raw_hot": 122336,
@@ -705,6 +841,14 @@
       "onboard_time": 1695990400,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115562,
+      "num": 269920,
+      "word": "杭州夜景一整个惊艳",
+      "onboard_time": 1696038337,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115540,
@@ -787,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83559,
+      "num": 363075,
+      "word": "致敬公安英雄",
+      "onboard_time": 1696035634,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 81562,
       "num": 110933,
       "word": "超级月亮群鸟飞机罕见同框",
@@ -819,6 +971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77982,
+      "num": 1305421,
+      "word": "盛世中华 大美中国",
+      "onboard_time": 1696036654,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 76903,
       "num": 112839,
       "word": "FoFo",
@@ -833,14 +993,6 @@
       "onboard_time": 1696036114,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70960,
-      "num": 363075,
-      "word": "致敬公安英雄",
-      "onboard_time": 1696035634,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68642,
@@ -913,14 +1065,6 @@
       "onboard_time": 1696012036,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 42278,
-      "num": 632108,
-      "word": "盛世中华 大美中国",
-      "onboard_time": 1696036654,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 39330,
