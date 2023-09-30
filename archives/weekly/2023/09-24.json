@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696062868532,
+  "endTime": 1696065301559,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -537,6 +537,14 @@
       "onboard_time": 1695879216,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1973988,
+      "num": 1973988,
+      "word": "大部分人已经见完了此生的最后一面",
+      "onboard_time": 1696057654,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 1957753,
@@ -1779,14 +1787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1029323,
-      "num": 1029323,
-      "word": "大部分人已经见完了此生的最后一面",
-      "onboard_time": 1696057654,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1029127,
       "num": 1029127,
       "word": "汪顺200米混金牌",
@@ -1812,7 +1812,7 @@
     },
     {
       "raw_hot": 1014653,
-      "num": 262709,
+      "num": 357420,
       "word": "男子尿急误把高架当隔离带一跃而下",
       "onboard_time": 1696059335,
       "rank": 21,
@@ -1865,6 +1865,14 @@
       "onboard_time": 1695630579,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 987531,
+      "num": 987531,
+      "word": "张译 坚如磐石令我拍案叫绝",
+      "onboard_time": 1696062514,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 984470,
@@ -2499,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 808570,
+      "num": 808570,
+      "word": "伊朗男双3比0横扫日本",
+      "onboard_time": 1696063176,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 807969,
       "num": 807969,
       "word": "封神集体跳科目一",
@@ -2920,6 +2936,14 @@
       "word": "黄轩 疯批",
       "onboard_time": 1695977252,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 758176,
+      "num": 758176,
+      "word": "想谈恋爱又不敢走出单身舒适区",
+      "onboard_time": 1696063237,
+      "rank": 5,
       "category": "电影"
     },
     {
@@ -3833,14 +3857,6 @@
       "onboard_time": 1695804394,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 628451,
-      "num": 216303,
-      "word": "张译 坚如磐石令我拍案叫绝",
-      "onboard_time": 1696062514,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 626068,
@@ -4860,7 +4876,7 @@
     },
     {
       "raw_hot": 527499,
-      "num": 261093,
+      "num": 314406,
       "word": "新娘刚上婚车就睡着了",
       "onboard_time": 1696061192,
       "rank": 36,
@@ -5129,6 +5145,14 @@
       "onboard_time": 1695772236,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 505616,
+      "num": 400857,
+      "word": "林双除了渣男别的都要",
+      "onboard_time": 1696063772,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 504682,
@@ -5443,6 +5467,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 482226,
+      "num": 482226,
+      "word": "特工任务高铁涉嫌泄密",
+      "onboard_time": 1696062032,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 481916,
       "num": 481916,
       "word": "网传高中生入厕需带通行证",
@@ -5729,14 +5761,6 @@
       "onboard_time": 1695694292,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 464468,
-      "num": 464468,
-      "word": "特工任务高铁涉嫌泄密",
-      "onboard_time": 1696062032,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 463443,
@@ -6483,6 +6507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 415297,
+      "num": 415297,
+      "word": "坚如磐石",
+      "onboard_time": 1695882095,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415106,
       "num": 415106,
       "word": "YG新女团成员的Smoke舞蹈",
@@ -6777,6 +6809,14 @@
       "onboard_time": 1695964593,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 398441,
+      "num": 398441,
+      "word": "DOTA2中国队晋级四强",
+      "onboard_time": 1696062635,
+      "rank": 41,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 397541,
@@ -7307,14 +7347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 367438,
-      "num": 367438,
-      "word": "坚如磐石",
-      "onboard_time": 1695882095,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 367418,
       "num": 352452,
       "word": "王力宏方申请强制执行李靓蕾",
@@ -7737,6 +7769,14 @@
       "onboard_time": 1695624575,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345019,
+      "num": 227465,
+      "word": "朝鲜举重选手破世界纪录夺金",
+      "onboard_time": 1696064674,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 344055,
@@ -8523,6 +8563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 312981,
+      "num": 312981,
+      "word": "倪妮红丝袜",
+      "onboard_time": 1696062274,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 312958,
       "num": 312958,
       "word": "中秋文案",
@@ -8689,6 +8737,14 @@
       "onboard_time": 1695618876,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 305632,
+      "num": 305632,
+      "word": "离婚啦单身啦骗骗别人可以",
+      "onboard_time": 1696064674,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 305589,
@@ -9739,14 +9795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272758,
-      "num": 216144,
-      "word": "倪妮红丝袜",
-      "onboard_time": 1696062274,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 272669,
       "num": 272669,
       "word": "Sofm的认可",
@@ -10241,6 +10289,14 @@
       "onboard_time": 1695795216,
       "rank": 38,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 261014,
+      "num": 226911,
+      "word": "台湾鸡蛋价格是大陆两倍",
+      "onboard_time": 1696064795,
+      "rank": 31,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 260876,
@@ -10987,6 +11043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241840,
+      "num": 241840,
+      "word": "邓为风度10月刊双封面",
+      "onboard_time": 1696063355,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 241702,
       "num": 241702,
       "word": "卫明真气人",
@@ -11633,6 +11697,14 @@
       "onboard_time": 1695698737,
       "rank": 27,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 225455,
+      "num": 225455,
+      "word": "中秋节轻轨工作人员统一穿汉服",
+      "onboard_time": 1696063717,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225152,
@@ -12563,6 +12635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207660,
+      "num": 207660,
+      "word": "突然有了50000元你会干啥",
+      "onboard_time": 1696064614,
+      "rank": 34,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 207645,
       "num": 207645,
       "word": "邹佳琪邱秀萍断层优势夺首金",
@@ -12953,6 +13033,14 @@
       "onboard_time": 1695740384,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203259,
+      "num": 203259,
+      "word": "脑补DOTA",
+      "onboard_time": 1696063415,
+      "rank": 35,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 203159,
@@ -13659,6 +13747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194777,
+      "num": 194777,
+      "word": "蒋惠花举重摘银",
+      "onboard_time": 1696064375,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194607,
       "num": 194607,
       "word": "闪耀暖暖 掉率",
@@ -14179,6 +14275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188077,
+      "num": 413165,
+      "word": "张雨霏与池江璃花子的杭州之约",
+      "onboard_time": 1696063955,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188021,
       "num": 188021,
       "word": "打野的尽头是罗思源",
@@ -14377,14 +14481,6 @@
       "onboard_time": 1695629078,
       "rank": 37,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 186099,
-      "num": 186099,
-      "word": "DOTA2中国队晋级四强",
-      "onboard_time": 1696062635,
-      "rank": 41,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 185981,
@@ -14721,6 +14817,14 @@
       "onboard_time": 1695872855,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178971,
+      "num": 178971,
+      "word": "养殖户5G养牛年均收入4万5",
+      "onboard_time": 1696065216,
+      "rank": 39,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 178848,
@@ -15257,6 +15361,14 @@
       "onboard_time": 1695779013,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170163,
+      "num": 170163,
+      "word": "北京国安vs大连人",
+      "onboard_time": 1696064076,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 169640,
@@ -18091,6 +18203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112130,
+      "num": 410496,
+      "word": "亚运会小女孩大声跟唱国歌",
+      "onboard_time": 1696064974,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111978,
       "num": 111978,
       "word": "中国组合单手插兜再入1金",
@@ -19737,6 +19857,14 @@
       "onboard_time": 1695974433,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24019,
+      "num": 405096,
+      "word": "支付宝直播间给女排攒了个过年局",
+      "onboard_time": 1696064433,
+      "rank": 14,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 23928,
