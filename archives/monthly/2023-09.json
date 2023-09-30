@@ -1,6 +1,6 @@
 {
   "startTime": 1693498916770,
-  "endTime": 1696086920747,
+  "endTime": 1696088050556,
   "band_list": [
     {
       "raw_hot": 21659696,
@@ -2691,6 +2691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2060369,
+      "num": 2060369,
+      "word": "泰国是预制菜的重灾区吧",
+      "onboard_time": 1696082983,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2054953,
       "num": 2054953,
       "word": "儿子监狱服刑母亲骗领国家工资41万",
@@ -4067,14 +4075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1723298,
-      "num": 1723298,
-      "word": "泰国是预制菜的重灾区吧",
-      "onboard_time": 1696082983,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1716894,
       "num": 1716894,
       "word": "iPhone信号太差或将解决",
@@ -4841,6 +4841,14 @@
       "onboard_time": 1694515898,
       "rank": 0,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1556769,
+      "num": 1556769,
+      "word": "腾讯今年三部破万剧集",
+      "onboard_time": 1696085860,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1548309,
@@ -7713,14 +7721,6 @@
       "onboard_time": 1695049361,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1115549,
-      "num": 653444,
-      "word": "腾讯今年三部破万剧集",
-      "onboard_time": 1696085860,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 1115381,
@@ -11756,7 +11756,7 @@
     },
     {
       "raw_hot": 823864,
-      "num": 605704,
+      "num": 683665,
       "word": "易烊千玺小网站文案",
       "onboard_time": 1696084479,
       "rank": 11,
@@ -13456,6 +13456,14 @@
       "word": "孙杨",
       "onboard_time": 1695731258,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 759035,
+      "num": 759035,
+      "word": "混双颁奖 嗑cp仪式",
+      "onboard_time": 1696085022,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -15555,6 +15563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 686558,
+      "num": 686558,
+      "word": "郑恺苗苗相互治愈",
+      "onboard_time": 1696085919,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 686209,
       "num": 369672,
       "word": "苹果回应iPhone15Pro沾指纹",
@@ -16097,14 +16113,6 @@
       "onboard_time": 1694435683,
       "rank": 23,
       "category": "影视,艺人"
-    },
-    {
-      "raw_hot": 669615,
-      "num": 669615,
-      "word": "混双颁奖 嗑cp仪式",
-      "onboard_time": 1696085022,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 669584,
@@ -21729,14 +21737,6 @@
       "onboard_time": 1696030283,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 533839,
-      "num": 533839,
-      "word": "郑恺苗苗相互治愈",
-      "onboard_time": 1696085919,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 533459,
@@ -35819,6 +35819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 332937,
+      "num": 332937,
+      "word": "全红婵i人实锤",
+      "onboard_time": 1696085562,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 332858,
       "num": 332858,
       "word": "成毅的哈基米跟着他转世了",
@@ -36916,7 +36924,7 @@
     },
     {
       "raw_hot": 324126,
-      "num": 324126,
+      "num": 354030,
       "word": "以为看的是单人跳水",
       "onboard_time": 1696084060,
       "rank": 32,
@@ -44267,6 +44275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266885,
+      "num": 266885,
+      "word": "葛曼棋夺冠苏炳添激动落泪",
+      "onboard_time": 1696087234,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266773,
       "num": 266773,
       "word": "offer首次引入KPI考核决定薪资",
@@ -44897,6 +44913,14 @@
       "onboard_time": 1695797676,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 262780,
+      "num": 262780,
+      "word": "龚俊金丝图腾斗篷",
+      "onboard_time": 1696086218,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 262725,
@@ -54947,6 +54971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 207166,
+      "num": 207166,
+      "word": "伯恩茅斯vs阿森纳",
+      "onboard_time": 1696086821,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207151,
       "num": 207151,
       "word": "野孩子",
@@ -56587,14 +56619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 202384,
-      "num": 202384,
-      "word": "龚俊金丝图腾斗篷",
-      "onboard_time": 1696086218,
-      "rank": 37,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 202369,
       "num": 202369,
       "word": "被全国各地的物价震撼到了",
@@ -57233,6 +57257,14 @@
       "onboard_time": 1695976713,
       "rank": 13,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 200223,
+      "num": 200223,
+      "word": "中国三人男篮无缘亚运会四强",
+      "onboard_time": 1696087359,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 200220,
@@ -61609,6 +61641,14 @@
       "onboard_time": 1693722093,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 186853,
+      "num": 186853,
+      "word": "中国队包揽乒乓球混双冠亚军",
+      "onboard_time": 1696087777,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 186847,
@@ -69689,14 +69729,6 @@
       "onboard_time": 1693726956,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149242,
-      "num": 149242,
-      "word": "伯恩茅斯vs阿森纳",
-      "onboard_time": 1696086821,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 149201,
