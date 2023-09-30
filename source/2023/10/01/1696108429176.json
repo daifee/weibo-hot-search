@@ -1,0 +1,410 @@
+{
+  "runTime": 1696108429176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 180466,
+        "num": 180466,
+        "word": "韩国地铁凌晨五点坐满了人",
+        "onboard_time": 1696076980,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139152,
+        "num": 139152,
+        "word": "LV老板涉嫌洗钱受到调查",
+        "onboard_time": 1696069662,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2997,
+        "num": 119854,
+        "word": "盛世中华 大美中国",
+        "onboard_time": 1696036654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104197,
+        "num": 104197,
+        "word": "易烊千玺也去看了坚如磐石",
+        "onboard_time": 1696083408,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92811,
+        "num": 92811,
+        "word": "王楚钦孙颖莎混双夺冠",
+        "onboard_time": 1696083343,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88044,
+        "num": 88044,
+        "word": "腾讯今年三部破万剧集",
+        "onboard_time": 1696085860,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74598,
+        "num": 74598,
+        "word": "苏炳添哭了",
+        "onboard_time": 1696089935,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73238,
+        "num": 73238,
+        "word": "国乒无缘女双4强",
+        "onboard_time": 1696075244,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62214,
+        "num": 62214,
+        "word": "奥尼尔在球衣上签了科比的名字",
+        "onboard_time": 1696089754,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58886,
+        "num": 58886,
+        "word": "央视新闻里的吉克隽逸",
+        "onboard_time": 1696079322,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73344,
+        "num": 58365,
+        "word": "泰国是预制菜的重灾区吧",
+        "onboard_time": 1696082983,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 55920,
+        "num": 55920,
+        "word": "喜报林双离婚了",
+        "onboard_time": 1696076564,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23790,
+        "num": 48505,
+        "word": "葛曼棋女子100米夺金",
+        "onboard_time": 1696082381,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19545,
+        "num": 47104,
+        "word": "谢震业百米冠军",
+        "onboard_time": 1696082563,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10365,
+        "num": 47052,
+        "word": "亚运赛场最动人的瞬间不只有夺金",
+        "onboard_time": 1696083942,
+        "rank": 14,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 47029,
+        "num": 47029,
+        "word": "张小斐演妈是妈演姐是姐",
+        "onboard_time": 1696067079,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44624,
+        "num": 44624,
+        "word": "郑恺苗苗相互治愈",
+        "onboard_time": 1696085919,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37929,
+        "num": 37929,
+        "word": "吴昕刘海下还藏了一层刘海",
+        "onboard_time": 1696073079,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37235,
+        "num": 37235,
+        "word": "杨幂高跟鞋不合脚",
+        "onboard_time": 1696080521,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32309,
+        "num": 32309,
+        "word": "Jisoo和高旻示在巴黎共进晚餐",
+        "onboard_time": 1696071701,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 43723,
+        "num": 32115,
+        "word": "男子尿急误把高架当隔离带一跃而下",
+        "onboard_time": 1696059335,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39670,
+        "num": 31985,
+        "word": "中秋母亲拨通儿子生前号码民警暖心陪聊",
+        "onboard_time": 1696088798,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31161,
+        "num": 31161,
+        "word": "热刺vs利物浦",
+        "onboard_time": 1696089398,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31126,
+        "num": 31126,
+        "word": "西北师大通报学生保研后资格被收回",
+        "onboard_time": 1696079565,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29004,
+        "num": 29004,
+        "word": "老外差点把杭州搬回家了",
+        "onboard_time": 1696084179,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28780,
+        "num": 28780,
+        "word": "全红婵i人实锤",
+        "onboard_time": 1696085562,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28715,
+        "num": 28715,
+        "word": "果果真是妈妈的好女儿",
+        "onboard_time": 1696080220,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25449,
+        "num": 25449,
+        "word": "易烊千玺小网站文案",
+        "onboard_time": 1696084479,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25343,
+        "num": 25343,
+        "word": "10岁小女孩牢记1.5万字讲解词",
+        "onboard_time": 1696089033,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24980,
+        "num": 24980,
+        "word": "陈梦王艺迪",
+        "onboard_time": 1696073620,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24872,
+        "num": 24872,
+        "word": "迪丽热巴花少5古城王后造型",
+        "onboard_time": 1696084007,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24192,
+        "num": 24192,
+        "word": "月入多少才能在深圳买得起房",
+        "onboard_time": 1696092868,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 23385,
+        "num": 23385,
+        "word": "马琳",
+        "onboard_time": 1696068522,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22823,
+        "num": 22823,
+        "word": "英超",
+        "onboard_time": 1696089935,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21402,
+        "num": 21402,
+        "word": "莎头卫冕",
+        "onboard_time": 1696083822,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19592,
+        "num": 19592,
+        "word": "海产姐妹女双淘汰",
+        "onboard_time": 1696067437,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19419,
+        "num": 19419,
+        "word": "中国男篮终于得90分了",
+        "onboard_time": 1696081540,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18820,
+        "num": 18820,
+        "word": "以为看的是单人跳水",
+        "onboard_time": 1696084060,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18791,
+        "num": 18791,
+        "word": "张译 坚如磐石令我拍案叫绝",
+        "onboard_time": 1696062514,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18324,
+        "num": 18324,
+        "word": "张含韵机场偶遇丞磊",
+        "onboard_time": 1696082260,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16787,
+        "num": 18323,
+        "word": "迷笛",
+        "onboard_time": 1696096101,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16658,
+        "num": 18320,
+        "word": "郑钧五点赶高铁开演唱会",
+        "onboard_time": 1696081481,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15811,
+        "num": 18314,
+        "word": "白宇哄李雪琴",
+        "onboard_time": 1696080641,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15251,
+        "num": 18313,
+        "word": "女双",
+        "onboard_time": 1696066297,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15134,
+        "num": 18308,
+        "word": "Twins要出新歌了",
+        "onboard_time": 1696089456,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 15008,
+        "num": 18307,
+        "word": "金智秀裴斗娜一同出街",
+        "onboard_time": 1696095621,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14913,
+        "num": 18302,
+        "word": "倪妮红丝袜",
+        "onboard_time": 1696062274,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 14516,
+        "num": 18298,
+        "word": "中国女足vs泰国女足",
+        "onboard_time": 1696074099,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14511,
+        "num": 18298,
+        "word": "朴宰范常州",
+        "onboard_time": 1696084179,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13762,
+        "num": 18294,
+        "word": "刘诗诗狐妖竹叶篇绿衣路透图",
+        "onboard_time": 1696108274,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#革命先烈革命烈士的崇高精神永远铭记在人民心中#"
+    }
+  }
+}

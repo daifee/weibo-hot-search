@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696106035210,
+  "endTime": 1696108429176,
   "band_list": [
     {
       "raw_hot": 2450068,
@@ -443,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58886,
+      "num": 58886,
+      "word": "央视新闻里的吉克隽逸",
+      "onboard_time": 1696079322,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49317,
       "num": 67074,
       "word": "重庆银河方舟音乐节举行",
@@ -459,12 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 38784,
-      "num": 45510,
-      "word": "央视新闻里的吉克隽逸",
-      "onboard_time": 1696079322,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 13762,
+      "num": 18294,
+      "word": "刘诗诗狐妖竹叶篇绿衣路透图",
+      "onboard_time": 1696108274,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 3909,
