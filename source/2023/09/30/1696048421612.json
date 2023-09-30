@@ -1,0 +1,410 @@
+{
+  "runTime": 1696048421612,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2383152,
+        "num": 2383152,
+        "word": "原来这才叫休息",
+        "onboard_time": 1696039594,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1118398,
+        "num": 1118398,
+        "word": "亲戚都以为樊振东是我男朋友",
+        "onboard_time": 1696047213,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69065,
+        "num": 875868,
+        "word": "盛世中华 大美中国",
+        "onboard_time": 1696036654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863690,
+        "num": 863690,
+        "word": "周放居然是还珠格格的柳红",
+        "onboard_time": 1696036352,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646112,
+        "num": 646112,
+        "word": "长期吃西红柿真的能变白吗",
+        "onboard_time": 1696036231,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 582479,
+        "num": 582479,
+        "word": "家可以常回 但不能久待",
+        "onboard_time": 1696031246,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 544308,
+        "num": 544308,
+        "word": "大学生付餐具费吃完饭将餐具全带走",
+        "onboard_time": 1696036894,
+        "rank": 6,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 539054,
+        "num": 539054,
+        "word": "患者不遵医嘱过世医生该不该负责",
+        "onboard_time": 1696046913,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 481183,
+        "num": 481183,
+        "word": "女子买票被抢票软件提示多买12站",
+        "onboard_time": 1696041874,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144078,
+        "num": 475239,
+        "word": "中秋国庆假期第2天你在干什么",
+        "onboard_time": 1696036535,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 858752,
+        "num": 468048,
+        "word": "Jennie顺毛",
+        "onboard_time": 1696046913,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 526264,
+        "num": 462771,
+        "word": "杨幂在法国穿旗袍过中秋",
+        "onboard_time": 1696041394,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 138852,
+        "num": 452384,
+        "word": "非洲小伙天天问中国师父会不会功夫",
+        "onboard_time": 1696043314,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89099,
+        "num": 446260,
+        "word": "月球上中国地名达35个",
+        "onboard_time": 1696039293,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 73420,
+        "num": 445005,
+        "word": "张雨霏池江璃花子赛后相拥落泪",
+        "onboard_time": 1696047453,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437898,
+        "num": 437898,
+        "word": "爱意养人 总算不是小演员了",
+        "onboard_time": 1696045774,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387630,
+        "num": 387630,
+        "word": "被黄晓明和实习生的共情触动到了",
+        "onboard_time": 1696045293,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352768,
+        "num": 352768,
+        "word": "你好星期六全员笑脸送国庆祝福",
+        "onboard_time": 1696043615,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317305,
+        "num": 317305,
+        "word": "张元英今年也不参加韩国高考",
+        "onboard_time": 1696041155,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304872,
+        "num": 304872,
+        "word": "檀健次央视秋晚封神版本",
+        "onboard_time": 1696047814,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322686,
+        "num": 304615,
+        "word": "专科男子去日本做程序员年薪40万",
+        "onboard_time": 1696047276,
+        "rank": 20,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 301744,
+        "num": 301744,
+        "word": "童瑶耳环上的珍珠比蛤蜊还大",
+        "onboard_time": 1696036894,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258720,
+        "num": 258720,
+        "word": "吴昕 解决情绪比较有效的就是哭",
+        "onboard_time": 1696045293,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254506,
+        "num": 254506,
+        "word": "封神榜纣王饰演者去世",
+        "onboard_time": 1696001496,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242533,
+        "num": 242533,
+        "word": "iPhone16系列机型尺寸曝光",
+        "onboard_time": 1696040674,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 239485,
+        "num": 239485,
+        "word": "李莲花 疯着死很好啊",
+        "onboard_time": 1696047934,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 226178,
+        "num": 226178,
+        "word": "为什么小学生集体痴迷萝卜刀",
+        "onboard_time": 1696040373,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 211709,
+        "num": 211709,
+        "word": "坚如磐石 吕布怎么跟着刘备混了",
+        "onboard_time": 1696046793,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192932,
+        "num": 192932,
+        "word": "谭松韵粉发造型",
+        "onboard_time": 1696036472,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181024,
+        "num": 181024,
+        "word": "小长假不得连炫八天甄嬛传",
+        "onboard_time": 1696039233,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167314,
+        "num": 167314,
+        "word": "徐明浩还是那么中国胃",
+        "onboard_time": 1696042654,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166524,
+        "num": 166524,
+        "word": "iPhone拍中秋月亮",
+        "onboard_time": 1696048055,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166334,
+        "num": 166334,
+        "word": "张小斐张嘉倪到底是在演什么",
+        "onboard_time": 1695998799,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165155,
+        "num": 165155,
+        "word": "成毅拍的月亮",
+        "onboard_time": 1696037854,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163753,
+        "num": 163753,
+        "word": "16岁华裔控卫想为中国打球",
+        "onboard_time": 1696043195,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163547,
+        "num": 163547,
+        "word": "志愿军 超预期",
+        "onboard_time": 1696042535,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161466,
+        "num": 161466,
+        "word": "宋佳在机场遇到龚俊的反应",
+        "onboard_time": 1696042714,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158819,
+        "num": 158819,
+        "word": "韩国人真这么吃饭吗",
+        "onboard_time": 1696039113,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153284,
+        "num": 153284,
+        "word": "这就是年画里娃娃抱的大鱼",
+        "onboard_time": 1696045352,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150355,
+        "num": 150355,
+        "word": "消防员火场中推开战友自己却被砸牺牲",
+        "onboard_time": 1696046254,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157305,
+        "num": 149285,
+        "word": "网友巴黎偶遇白鹿吃火锅",
+        "onboard_time": 1696042593,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147981,
+        "num": 147981,
+        "word": "吴艳妮12秒80晋级决赛",
+        "onboard_time": 1696040554,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147594,
+        "num": 147594,
+        "word": "江苏604名公安民警因公牺牲",
+        "onboard_time": 1696041993,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 139953,
+        "num": 139953,
+        "word": "陈雨菲",
+        "onboard_time": 1696044154,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139817,
+        "num": 139817,
+        "word": "黄绮珊为跑调道歉",
+        "onboard_time": 1696035634,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137965,
+        "num": 137965,
+        "word": "房山十渡镇中秋夜的鞭炮声不绝于耳",
+        "onboard_time": 1696048235,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133233,
+        "num": 133233,
+        "word": "农村自建房都是这么豪华吗",
+        "onboard_time": 1696037793,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128757,
+        "num": 128757,
+        "word": "一封信曝光四名武大医学生义举",
+        "onboard_time": 1696046495,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 127787,
+        "num": 127787,
+        "word": "四川熊猫教你放假的正确打开方式",
+        "onboard_time": 1696047874,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124663,
+        "num": 124663,
+        "word": "妈妈 今年带这么多朋友来过节啊",
+        "onboard_time": 1696040192,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记英烈遗志传承英烈风骨#"
+    }
+  }
+}
