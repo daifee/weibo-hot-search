@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696084434952,
+  "endTime": 1696086920747,
   "band_list": [
     {
       "raw_hot": 9363054,
@@ -27,8 +27,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4976085,
-      "num": 4976085,
+      "raw_hot": 6912380,
+      "num": 6912380,
       "word": "王楚钦孙颖莎混双夺冠",
       "onboard_time": 1696083343,
       "rank": 1,
@@ -155,20 +155,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1723298,
+      "num": 1723298,
+      "word": "泰国是预制菜的重灾区吧",
+      "onboard_time": 1696082983,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1713386,
       "num": 1713386,
       "word": "易烊千玺也去看了坚如磐石",
       "onboard_time": 1696083408,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1709204,
-      "num": 851807,
-      "word": "泰国是预制菜的重灾区吧",
-      "onboard_time": 1696082983,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 1656962,
@@ -233,6 +233,14 @@
       "onboard_time": 1696069241,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1115549,
+      "num": 653444,
+      "word": "腾讯今年三部破万剧集",
+      "onboard_time": 1696085860,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 1115381,
@@ -403,6 +411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 823864,
+      "num": 605704,
+      "word": "易烊千玺小网站文案",
+      "onboard_time": 1696084479,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 813384,
       "num": 717695,
       "word": "Jisoo和高旻示在巴黎共进晚餐",
@@ -521,6 +537,14 @@
       "onboard_time": 1695998799,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 669615,
+      "num": 669615,
+      "word": "混双颁奖 嗑cp仪式",
+      "onboard_time": 1696085022,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 643408,
@@ -691,6 +715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 533839,
+      "num": 533839,
+      "word": "郑恺苗苗相互治愈",
+      "onboard_time": 1696085919,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 527911,
       "num": 527911,
       "word": "小长假不得连炫八天甄嬛传",
@@ -843,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 457262,
+      "num": 417786,
+      "word": "老外差点把杭州搬回家了",
+      "onboard_time": 1696084179,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 455441,
       "num": 455441,
       "word": "反复长期发炎可能是情绪炎症",
@@ -963,6 +1003,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 415810,
+      "num": 239643,
+      "word": "谢震业破十",
+      "onboard_time": 1696085204,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 415297,
       "num": 415297,
       "word": "坚如磐石",
@@ -977,6 +1025,14 @@
       "onboard_time": 1696064614,
       "rank": 34,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 413186,
+      "num": 413186,
+      "word": "全红婵i人石锤",
+      "onboard_time": 1696085562,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 409857,
@@ -1147,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 350046,
+      "num": 350046,
+      "word": "朴宰范常州",
+      "onboard_time": 1696084179,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 348285,
       "num": 298242,
       "word": "iPhone16系列机型尺寸曝光",
@@ -1179,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330229,
-      "num": 330229,
-      "word": "朴宰范常州",
-      "onboard_time": 1696084179,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 325584,
       "num": 308424,
       "word": "张本智和期待妹妹和中国队比赛能赢",
@@ -1216,6 +1272,14 @@
       "word": "中国女足vs泰国女足",
       "onboard_time": 1696074099,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 324126,
+      "num": 324126,
+      "word": "以为看的是单人跳水",
+      "onboard_time": 1696084060,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1387,14 +1451,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 290742,
-      "num": 290742,
-      "word": "以为看的是单人跳水",
-      "onboard_time": 1696084060,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290307,
       "num": 290307,
       "word": "坚如磐石豆瓣开分6.7",
@@ -1481,14 +1537,6 @@
       "onboard_time": 1696034492,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 276574,
-      "num": 276574,
-      "word": "老外差点把杭州搬回家了",
-      "onboard_time": 1696084179,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 275661,
@@ -1753,6 +1801,14 @@
       "onboard_time": 1696061494,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237666,
+      "num": 237666,
+      "word": "一句我是退役军医让整个车厢不再紧张",
+      "onboard_time": 1696084539,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235898,
@@ -2099,6 +2155,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 202384,
+      "num": 202384,
+      "word": "龚俊金丝图腾斗篷",
+      "onboard_time": 1696086218,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 201869,
       "num": 201869,
       "word": "张栋梁不会坏笑",
@@ -2283,6 +2347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183417,
+      "num": 183417,
+      "word": "王楚钦孙颖莎混双冠军",
+      "onboard_time": 1696086519,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183344,
       "num": 183344,
       "word": "宫尚角杀青时的庆祝顺序",
@@ -2419,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162882,
+      "num": 162882,
+      "word": "狼队vs曼城",
+      "onboard_time": 1696086100,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161933,
       "num": 136740,
       "word": "公主美丽半马尾",
@@ -2529,6 +2609,14 @@
       "onboard_time": 1696061373,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 149242,
+      "num": 149242,
+      "word": "伯恩茅斯vs阿森纳",
+      "onboard_time": 1696086821,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 146783,
@@ -2729,6 +2817,14 @@
       "onboard_time": 1696040073,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 130885,
+      "num": 3131383,
+      "word": "亚运赛场最动人的瞬间不只有夺金",
+      "onboard_time": 1696083942,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 129815,
@@ -3137,14 +3233,6 @@
       "onboard_time": 1696006047,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 51143,
-      "num": 3131383,
-      "word": "亚运赛场最动人的瞬间不只有夺金",
-      "onboard_time": 1696083942,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 50359,
