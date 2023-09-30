@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696070037922,
+  "endTime": 1696072376509,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -505,6 +505,14 @@
       "onboard_time": 1695867514,
       "rank": 15,
       "category": "艺人,美食"
+    },
+    {
+      "raw_hot": 2119879,
+      "num": 2119879,
+      "word": "LV老板涉嫌洗钱受到调查",
+      "onboard_time": 1696069662,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2119458,
@@ -3601,14 +3609,6 @@
       "onboard_time": 1695475483,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 676740,
-      "num": 676740,
-      "word": "LV老板涉嫌洗钱受到调查",
-      "onboard_time": 1696069662,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 673868,
@@ -7123,6 +7123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 385492,
+      "num": 259809,
+      "word": "全红婵贴墙逃采访",
+      "onboard_time": 1696071701,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385150,
       "num": 385150,
       "word": "于和伟 荔枝甜",
@@ -7145,6 +7153,14 @@
       "onboard_time": 1695519511,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 384452,
+      "num": 258841,
+      "word": "Jisoo和高旻示在巴黎共进晚餐",
+      "onboard_time": 1696071701,
+      "rank": 31,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 384269,
@@ -7563,6 +7579,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 362524,
+      "num": 362524,
+      "word": "倪妮红丝袜",
+      "onboard_time": 1696062274,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360550,
       "num": 360550,
       "word": "爸妈给拿下首金的邹佳琪准备了好多",
@@ -7913,6 +7937,14 @@
       "onboard_time": 1695906585,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 343949,
+      "num": 343949,
+      "word": "张嘉倪美杜莎式复古造型",
+      "onboard_time": 1696071460,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 343699,
@@ -8689,14 +8721,6 @@
       "onboard_time": 1695981512,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312981,
-      "num": 312981,
-      "word": "倪妮红丝袜",
-      "onboard_time": 1696062274,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 312958,
@@ -9579,6 +9603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 283988,
+      "num": 283988,
+      "word": "王昶帅的太超过了",
+      "onboard_time": 1696071819,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283655,
       "num": 283655,
       "word": "大熊猫洗澡越洗越上头",
@@ -10459,6 +10491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 261144,
+      "num": 261144,
+      "word": "十个勤天音乐节",
+      "onboard_time": 1696071039,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261075,
       "num": 261075,
       "word": "周扬青没办法和不礼貌的弟弟谈恋爱",
@@ -10843,12 +10883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252606,
+      "num": 252606,
+      "word": "陆毅三公排名",
+      "onboard_time": 1696070381,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252545,
       "num": 252545,
       "word": "亚运会宣传片男主是董浩然",
       "onboard_time": 1695477701,
       "rank": 28,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 252474,
+      "num": 252474,
+      "word": "为何国庆机票价格突然跳水",
+      "onboard_time": 1696070201,
+      "rank": 34,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 252367,
@@ -11803,6 +11859,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227838,
+      "num": 1413577,
+      "word": "列车进站男童冲向轨道被一把抱回",
+      "onboard_time": 1696066836,
+      "rank": 29,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 227763,
       "num": 382150,
       "word": "儿子6岁失联25年后一家终团圆",
@@ -12339,6 +12403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 216383,
+      "num": 216383,
+      "word": "石宇奇不敌西本拳太",
+      "onboard_time": 1696071520,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216017,
       "num": 416281,
       "word": "亚运会开幕式观众离场干干净净",
@@ -12515,12 +12587,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 213190,
+      "num": 213190,
+      "word": "亚运会羽毛球",
+      "onboard_time": 1696070139,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213166,
       "num": 213166,
       "word": "王俊凯回国机场图",
       "onboard_time": 1696060414,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213130,
+      "num": 213130,
+      "word": "伊朗队是不是研究了日本队",
+      "onboard_time": 1696070560,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 213077,
@@ -12593,6 +12681,14 @@
       "onboard_time": 1696008860,
       "rank": 11,
       "category": "艺人,旅游"
+    },
+    {
+      "raw_hot": 211739,
+      "num": 211739,
+      "word": "杨幂时装周爽文女主",
+      "onboard_time": 1696072121,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211709,
@@ -13435,6 +13531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 201057,
+      "num": 201057,
+      "word": "国庆西安人出行都骑马车",
+      "onboard_time": 1696071701,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200577,
       "num": 200577,
       "word": "国乒男团采访溜得一个比一个快",
@@ -13612,7 +13716,7 @@
     },
     {
       "raw_hot": 198717,
-      "num": 347483,
+      "num": 1630081,
       "word": "音乐节观众将轮椅小伙高高举起",
       "onboard_time": 1696069961,
       "rank": 29,
@@ -13947,6 +14051,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 194803,
+      "num": 291944,
+      "word": "烈士纪念日",
+      "onboard_time": 1696004191,
+      "rank": 44,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 194780,
       "num": 194780,
       "word": "丞磊跑步耳机丢了",
@@ -14081,14 +14193,6 @@
       "onboard_time": 1695707738,
       "rank": 33,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 192949,
-      "num": 1202955,
-      "word": "列车进站男童冲向轨道被一把抱回",
-      "onboard_time": 1696066836,
-      "rank": 29,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 192935,
@@ -16017,14 +16121,6 @@
       "onboard_time": 1696044154,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160931,
-      "num": 291944,
-      "word": "烈士纪念日",
-      "onboard_time": 1696004191,
-      "rank": 44,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 160474,

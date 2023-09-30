@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 18:33:57
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 19:12:56
 </p>
 </blockquote>
 <p>
@@ -1799,6 +1799,12 @@ iPhone15国行售价曝光（热度：2123680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%AF%E5%BE%B7%E5%9F%BA%20%E6%AA%80%E5%81%A5%E6%AC%A1%23" target="weibo">
 肯德基 檀健次（热度：2122769）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23LV%E8%80%81%E6%9D%BF%E6%B6%89%E5%AB%8C%E6%B4%97%E9%92%B1%E5%8F%97%E5%88%B0%E8%B0%83%E6%9F%A5%23" target="weibo">
+LV老板涉嫌洗钱受到调查（热度：2119879）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLACKPINK路人缘很好的成员（热度：1104732）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E5%B8%88%E8%8A%82%E5%BF%AB%E4%B9%90%23" target="weibo">
 教师节快乐（热度：1078043）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E6%AF%8D%E5%9D%9A%E6%8C%81%E6%AF%8F%E5%91%A8%E7%BB%99%E5%A5%B3%E5%84%BF%E6%8B%8D%E4%B8%80%E5%BC%A0%E7%85%A7%E7%89%87%23" target="weibo">
-父母坚持每周给女儿拍一张照片（热度：1077546）
 </a>
 </li>
 
