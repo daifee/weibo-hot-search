@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696048421612,
+  "endTime": 1696050905186,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -1123,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1346990,
+      "num": 1346990,
+      "word": "亲戚都以为樊振东是我男朋友",
+      "onboard_time": 1696047213,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1343619,
       "num": 680366,
       "word": "柯洁冲击金牌",
@@ -1523,14 +1531,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 1118398,
-      "num": 1118398,
-      "word": "亲戚都以为樊振东是我男朋友",
-      "onboard_time": 1696047213,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1115381,
       "num": 1115381,
       "word": "周放居然是还珠格格的柳红",
@@ -1793,6 +1793,14 @@
       "onboard_time": 1695527252,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 991975,
+      "num": 468048,
+      "word": "Jennie顺毛",
+      "onboard_time": 1696046913,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 989419,
@@ -2211,14 +2219,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 858752,
-      "num": 468048,
-      "word": "Jennie顺毛",
-      "onboard_time": 1696046913,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 858009,
       "num": 264659,
       "word": "英国鳄鱼专家性侵42只狗致39只死亡",
@@ -2537,6 +2537,14 @@
       "onboard_time": 1695778533,
       "rank": 4,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 791277,
+      "num": 791277,
+      "word": "杨紫前往巴黎时装周",
+      "onboard_time": 1696049075,
+      "rank": 3,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 790923,
@@ -4147,6 +4155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585860,
+      "num": 585860,
+      "word": "檀健次央视秋晚封神版本",
+      "onboard_time": 1696047814,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 585502,
       "num": 585502,
       "word": "张凌赫直播 男友报备",
@@ -4611,6 +4627,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 534658,
+      "num": 534658,
+      "word": "韩庚我老婆喜欢你十年了",
+      "onboard_time": 1696048535,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 533954,
       "num": 533954,
       "word": "长相思第二季能预约了",
@@ -5009,6 +5033,14 @@
       "onboard_time": 1695570454,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 502836,
+      "num": 502836,
+      "word": "12306回应乘客补票被赶下车",
+      "onboard_time": 1696048596,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 502703,
@@ -6011,6 +6043,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 434838,
+      "num": 434838,
+      "word": "李莲花 疯着死很好啊",
+      "onboard_time": 1696047934,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 434699,
       "num": 434699,
       "word": "杨紫初秋烟熏仿妆",
@@ -6209,6 +6249,22 @@
       "onboard_time": 1695691713,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 418343,
+      "num": 418343,
+      "word": "志愿军 不像陈凯歌拍的",
+      "onboard_time": 1696049976,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 417912,
+      "num": 304615,
+      "word": "专科男子去日本做程序员年薪40万",
+      "onboard_time": 1696047276,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 417797,
@@ -7107,6 +7163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364691,
+      "num": 364691,
+      "word": "iPhone拍中秋月亮",
+      "onboard_time": 1696048055,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 364511,
       "num": 364511,
       "word": "一诺 五个len蹲我",
@@ -7947,14 +8011,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 322686,
-      "num": 304615,
-      "word": "专科男子去日本做程序员年薪40万",
-      "onboard_time": 1696047276,
-      "rank": 42,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 322394,
       "num": 322394,
       "word": "中国男篮vs中国台北男篮",
@@ -8425,14 +8481,6 @@
       "onboard_time": 1695618876,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 304872,
-      "num": 304872,
-      "word": "檀健次央视秋晚封神版本",
-      "onboard_time": 1696047814,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 304676,
@@ -10003,6 +10051,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 259951,
+      "num": 259951,
+      "word": "大学生放假吃席能有多尴尬",
+      "onboard_time": 1696048957,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259702,
       "num": 259702,
       "word": "童瑶的妆黑化了",
@@ -10721,14 +10777,6 @@
       "onboard_time": 1695563857,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 239485,
-      "num": 239485,
-      "word": "李莲花 疯着死很好啊",
-      "onboard_time": 1696047934,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 239453,
@@ -13483,6 +13531,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191609,
+      "num": 191609,
+      "word": "Jennie芭蕾风造型",
+      "onboard_time": 1696050815,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191372,
       "num": 191372,
       "word": "钟辰乐黄仁俊互相彩虹屁",
@@ -14899,14 +14955,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166524,
-      "num": 166524,
-      "word": "iPhone拍中秋月亮",
-      "onboard_time": 1696048055,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 166154,
       "num": 166154,
       "word": "黄子诚监听女友和前任",
@@ -15336,6 +15384,14 @@
       "word": "中秋难团圆父子俩隔空互相安慰",
       "onboard_time": 1696044635,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158192,
+      "num": 440316,
+      "word": "这鱼看着真能驮起小孩儿",
+      "onboard_time": 1696048895,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -16011,6 +16067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148326,
+      "num": 148326,
+      "word": "童宇 告别",
+      "onboard_time": 1696049855,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 148313,
       "num": 148313,
       "word": "王者吕布敦煌新皮肤",
@@ -16427,6 +16491,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 140112,
+      "num": 140112,
+      "word": "网球",
+      "onboard_time": 1696050453,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140097,
       "num": 150586,
       "word": "丞磊卢昱晓分析夜色尚浅结局",
@@ -16833,6 +16905,14 @@
       "onboard_time": 1695709537,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132072,
+      "num": 132072,
+      "word": "于和伟 致命男人",
+      "onboard_time": 1696050693,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 132011,
@@ -17275,6 +17355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119557,
+      "num": 119557,
+      "word": "郭帆 一代人有一代人的使命",
+      "onboard_time": 1696049015,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119325,
       "num": 119325,
       "word": "刘诗诗愿大家爱的人被时光温柔以待",
@@ -17523,6 +17611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111978,
+      "num": 111978,
+      "word": "中国组合单手插兜再入1金",
+      "onboard_time": 1696050156,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111870,
       "num": 111870,
       "word": "韩素希林珍娜梦幻联动",
@@ -17553,6 +17649,14 @@
       "onboard_time": 1695570994,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 110003,
+      "num": 110003,
+      "word": "陆毅对像我这样的人的歌词分配好到位",
+      "onboard_time": 1696049134,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 109865,
@@ -17691,11 +17795,27 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 103758,
+      "num": 103758,
+      "word": "2023挑战者杯大名单",
+      "onboard_time": 1696048775,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 103415,
       "num": 930341,
       "word": "亚运会bgm唱进心坎里",
       "onboard_time": 1695735704,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103268,
+      "num": 103268,
+      "word": "奥运会奖牌设计可以追溯到夏朝",
+      "onboard_time": 1696050754,
+      "rank": 49,
       "category": "体育"
     },
     {
