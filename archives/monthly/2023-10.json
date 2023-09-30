@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696113231827,
+  "endTime": 1696115736406,
   "band_list": [
     {
       "raw_hot": 2450068,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1255315,
+      "num": 1255315,
+      "word": "国庆节快乐",
+      "onboard_time": 1696110854,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1213705,
       "num": 1213705,
       "word": "泰国是预制菜的重灾区吧",
@@ -51,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622874,
+      "num": 622874,
+      "word": "韩国地铁凌晨五点坐满了人",
+      "onboard_time": 1696076980,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 599095,
       "num": 599095,
       "word": "陈梦王艺迪",
@@ -65,14 +81,6 @@
       "onboard_time": 1696076564,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 558566,
-      "num": 558566,
-      "word": "韩国地铁凌晨五点坐满了人",
-      "onboard_time": 1696076980,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 525316,
@@ -219,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206984,
+      "num": 206984,
+      "word": "我爱你中国",
+      "onboard_time": 1696114881,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "Twins要出新歌了",
@@ -251,20 +267,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194332,
+      "num": 194332,
+      "word": "国庆天安门广场升旗仪式",
+      "onboard_time": 1696115423,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190927,
       "num": 190927,
       "word": "中国队包揽乒乓球混双冠亚军",
       "onboard_time": 1696087777,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 185770,
-      "num": 185770,
-      "word": "国庆节快乐",
-      "onboard_time": 1696110854,
-      "rank": 4,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 175557,
@@ -355,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142933,
+      "num": 142933,
+      "word": "2023成都国庆升旗仪式",
+      "onboard_time": 1696115724,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138969,
       "num": 138969,
       "word": "龚俊金丝图腾斗篷",
       "onboard_time": 1696086218,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 137935,
+      "num": 85210,
+      "word": "男生在山姆用手接饮料喝",
+      "onboard_time": 1696114941,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128334,
@@ -377,6 +409,14 @@
       "onboard_time": 1696073079,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 123548,
+      "num": 123548,
+      "word": "央视新闻里的吉克隽逸",
+      "onboard_time": 1696079322,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 123287,
@@ -411,19 +451,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102468,
+      "num": 102468,
+      "word": "女生火车上突发疾病大四医学生赶到",
+      "onboard_time": 1696114881,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100827,
       "num": 100827,
       "word": "金智秀裴斗娜一同出街",
       "onboard_time": 1696095621,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 93317,
-      "num": 93317,
-      "word": "央视新闻里的吉克隽逸",
-      "onboard_time": 1696079322,
-      "rank": 47,
       "category": "艺人"
     },
     {
@@ -433,6 +473,14 @@
       "onboard_time": 1696110795,
       "rank": 21,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 82146,
+      "num": 82146,
+      "word": "反复长期发炎可能是情绪炎症",
+      "onboard_time": 1696075127,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 76599,
@@ -457,6 +505,14 @@
       "onboard_time": 1696110795,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 64195,
+      "num": 64195,
+      "word": "薛之谦在台上好忙活",
+      "onboard_time": 1696112358,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 62075,
@@ -499,16 +555,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31047,
-      "num": 31047,
-      "word": "薛之谦在台上好忙活",
-      "onboard_time": 1696112358,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 9095,
-      "num": 350404,
+      "raw_hot": 17120,
+      "num": 467196,
       "word": "盛世中华 大美中国",
       "onboard_time": 1696036654,
       "rank": 2,
