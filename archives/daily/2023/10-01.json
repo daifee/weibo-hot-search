@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696090784922,
+  "endTime": 1696091690968,
   "band_list": [
     {
       "raw_hot": 2450068,
@@ -19,6 +19,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1474068,
+      "num": 1474068,
+      "word": "易烊千玺也去看了坚如磐石",
+      "onboard_time": 1696083408,
+      "rank": 5,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1336828,
       "num": 1336828,
       "word": "LV老板涉嫌洗钱受到调查",
@@ -35,12 +43,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1174906,
-      "num": 1174906,
-      "word": "易烊千玺也去看了坚如磐石",
-      "onboard_time": 1696083408,
-      "rank": 5,
-      "category": "作品衍生"
+      "raw_hot": 887973,
+      "num": 419213,
+      "word": "苏炳添哭了",
+      "onboard_time": 1696089935,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 599095,
@@ -57,14 +65,6 @@
       "onboard_time": 1696076564,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 529317,
-      "num": 419213,
-      "word": "苏炳添哭了",
-      "onboard_time": 1696089935,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 525316,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245858,
+      "num": 245858,
+      "word": "韩国地铁凌晨五点坐满了人",
+      "onboard_time": 1696076980,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 243673,
       "num": 243673,
       "word": "老外差点把杭州搬回家了",
@@ -179,12 +187,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 241034,
-      "num": 241034,
-      "word": "韩国地铁凌晨五点坐满了人",
-      "onboard_time": 1696076980,
-      "rank": 25,
-      "category": "情感"
+      "raw_hot": 243591,
+      "num": 243591,
+      "word": "奥尼尔在球衣上签了科比的名字",
+      "onboard_time": 1696089754,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 236836,
@@ -251,20 +259,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175557,
+      "num": 175557,
+      "word": "白宇哄李雪琴",
+      "onboard_time": 1696080641,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175189,
       "num": 175189,
       "word": "谢震业破十",
       "onboard_time": 1696085204,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 170992,
-      "num": 170992,
-      "word": "白宇哄李雪琴",
-      "onboard_time": 1696080641,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 165081,
@@ -329,14 +337,6 @@
       "onboard_time": 1696080220,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140694,
-      "num": 140694,
-      "word": "奥尼尔在球衣上签了科比的名字",
-      "onboard_time": 1696089754,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 138969,
@@ -406,6 +406,9 @@
   "hotgov_list": [
     {
       "word": "#向烈士致敬#"
+    },
+    {
+      "word": "#铭记英烈遗志传承英烈风骨#"
     }
   ]
 }
