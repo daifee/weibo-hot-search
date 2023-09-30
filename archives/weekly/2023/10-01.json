@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696115736406,
+  "endTime": 1696116824106,
   "band_list": [
     {
       "raw_hot": 2450068,
@@ -9,6 +9,14 @@
       "onboard_time": 1696083343,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2109684,
+      "num": 2109684,
+      "word": "国庆节快乐",
+      "onboard_time": 1696110854,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1725121,
@@ -35,14 +43,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1255315,
-      "num": 1255315,
-      "word": "国庆节快乐",
-      "onboard_time": 1696110854,
-      "rank": 4,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1213705,
       "num": 1213705,
       "word": "泰国是预制菜的重灾区吧",
@@ -59,8 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 622874,
-      "num": 622874,
+      "raw_hot": 626560,
+      "num": 626560,
       "word": "韩国地铁凌晨五点坐满了人",
       "onboard_time": 1696076980,
       "rank": 25,
@@ -89,6 +89,14 @@
       "onboard_time": 1696084479,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478021,
+      "num": 478021,
+      "word": "国庆天安门广场升旗仪式",
+      "onboard_time": 1696115423,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 435753,
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335531,
+      "num": 166048,
+      "word": "男生在山姆用手接饮料喝",
+      "onboard_time": 1696114941,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329874,
       "num": 404777,
       "word": "国乒无缘女双4强",
@@ -179,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 250378,
+      "num": 250378,
+      "word": "我爱你中国",
+      "onboard_time": 1696114881,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 250366,
       "num": 250366,
       "word": "朴宰范常州",
@@ -203,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241670,
+      "num": 241670,
+      "word": "新中国成立74周年",
+      "onboard_time": 1696110795,
+      "rank": 21,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 236836,
       "num": 236836,
       "word": "迪丽热巴花少5古城王后造型",
@@ -225,14 +257,6 @@
       "onboard_time": 1696082563,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206984,
-      "num": 206984,
-      "word": "我爱你中国",
-      "onboard_time": 1696114881,
-      "rank": 12,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 206757,
@@ -267,11 +291,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194332,
-      "num": 194332,
-      "word": "国庆天安门广场升旗仪式",
-      "onboard_time": 1696115423,
-      "rank": 13,
+      "raw_hot": 194990,
+      "num": 194990,
+      "word": "国庆节",
+      "onboard_time": 1696116144,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -281,6 +305,14 @@
       "onboard_time": 1696087777,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185640,
+      "num": 185640,
+      "word": "十月",
+      "onboard_time": 1696116203,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 175557,
@@ -379,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140611,
+      "num": 140611,
+      "word": "女生火车上突发疾病大四医学生赶到",
+      "onboard_time": 1696114881,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138969,
       "num": 138969,
       "word": "龚俊金丝图腾斗篷",
@@ -387,11 +427,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 137935,
-      "num": 85210,
-      "word": "男生在山姆用手接饮料喝",
-      "onboard_time": 1696114941,
-      "rank": 30,
+      "raw_hot": 128437,
+      "num": 128437,
+      "word": "国旗护卫队脚步声响彻天安门广场",
+      "onboard_time": 1696116324,
+      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -443,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110775,
+      "num": 110775,
+      "word": "国庆中秋双节同庆",
+      "onboard_time": 1696115900,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108979,
       "num": 108979,
       "word": "张含韵机场偶遇丞磊",
@@ -451,12 +499,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102468,
-      "num": 102468,
-      "word": "女生火车上突发疾病大四医学生赶到",
-      "onboard_time": 1696114881,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 107388,
+      "num": 107388,
+      "word": "表白中国我接力",
+      "onboard_time": 1696116444,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 103015,
+      "num": 103015,
+      "word": "热刺vs利物浦出现重大人为失误",
+      "onboard_time": 1696116082,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 100827,
@@ -467,20 +523,36 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83540,
-      "num": 56631,
-      "word": "新中国成立74周年",
-      "onboard_time": 1696110795,
-      "rank": 21,
-      "category": "国内要闻"
+      "raw_hot": 100768,
+      "num": 100768,
+      "word": "今天之中国我为你骄傲",
+      "onboard_time": 1696116024,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 82146,
-      "num": 82146,
+      "raw_hot": 97986,
+      "num": 97986,
       "word": "反复长期发炎可能是情绪炎症",
       "onboard_time": 1696075127,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86722,
+      "num": 86722,
+      "word": "2023年仅剩3个月",
+      "onboard_time": 1696116744,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 80636,
+      "num": 80636,
+      "word": "薛之谦在台上好忙活",
+      "onboard_time": 1696112358,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 76599,
@@ -489,6 +561,14 @@
       "onboard_time": 1696081481,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75818,
+      "num": 75818,
+      "word": "劳塔罗大四喜",
+      "onboard_time": 1696116564,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 73547,
@@ -505,14 +585,6 @@
       "onboard_time": 1696110795,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 64195,
-      "num": 64195,
-      "word": "薛之谦在台上好忙活",
-      "onboard_time": 1696112358,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 62075,
@@ -555,8 +627,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17120,
-      "num": 467196,
+      "raw_hot": 18957,
+      "num": 588448,
       "word": "盛世中华 大美中国",
       "onboard_time": 1696036654,
       "rank": 2,
