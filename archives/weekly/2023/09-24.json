@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696076984645,
+  "endTime": 1696077891326,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -851,6 +851,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1656962,
+      "num": 1358098,
+      "word": "马琳",
+      "onboard_time": 1696068522,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1649351,
       "num": 503545,
       "word": "许家印二儿子许滕鹤被带走",
@@ -905,14 +913,6 @@
       "onboard_time": 1695562475,
       "rank": 0,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1595030,
-      "num": 1358098,
-      "word": "马琳",
-      "onboard_time": 1696068522,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 1589672,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1695626619,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1494327,
+      "num": 1494327,
+      "word": "喜报林双离婚了",
+      "onboard_time": 1696076564,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 1488877,
@@ -2451,6 +2459,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 851498,
+      "num": 674986,
+      "word": "张嘉倪美杜莎式复古造型",
+      "onboard_time": 1696071460,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 841432,
       "num": 841432,
       "word": "蜜雪冰城部分饮品涨价1元",
@@ -2793,14 +2809,6 @@
       "onboard_time": 1695693094,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 787388,
-      "num": 674986,
-      "word": "张嘉倪美杜莎式复古造型",
-      "onboard_time": 1696071460,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 787321,
@@ -3377,14 +3385,6 @@
       "onboard_time": 1695729642,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 711094,
-      "num": 666371,
-      "word": "喜报林双离婚了",
-      "onboard_time": 1696076564,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 710756,
@@ -6363,6 +6363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 441207,
+      "num": 441207,
+      "word": "国羽男团2比1日本",
+      "onboard_time": 1696077641,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 439206,
       "num": 439206,
       "word": "王俊凯和巴黎机场大屏上的王俊凯同框",
@@ -6851,6 +6859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 405473,
+      "num": 405473,
+      "word": "朝鲜女足4比1韩国女足",
+      "onboard_time": 1696076203,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405471,
       "num": 353776,
       "word": "红斑狼疮",
@@ -7265,6 +7281,14 @@
       "onboard_time": 1695519511,
       "rank": 22,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 384589,
+      "num": 548169,
+      "word": "中国跳水第2金",
+      "onboard_time": 1696077040,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 384269,
@@ -7915,14 +7939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 349492,
-      "num": 308029,
-      "word": "朝鲜女足4比1韩国女足",
-      "onboard_time": 1696076203,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 348783,
       "num": 284506,
       "word": "王一博晒月亮送中秋祝福",
@@ -8081,6 +8097,14 @@
       "onboard_time": 1695944070,
       "rank": 14,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 341428,
+      "num": 324413,
+      "word": "韩国地铁凌晨五点坐满了人",
+      "onboard_time": 1696076980,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 341038,
@@ -8491,6 +8515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 324879,
+      "num": 324879,
+      "word": "中国女足vs泰国女足",
+      "onboard_time": 1696074099,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324088,
       "num": 324088,
       "word": "B太 国内外美妆产品会不会缺斤少两",
@@ -8611,6 +8643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319360,
+      "num": 319360,
+      "word": "林昀儒",
+      "onboard_time": 1696077161,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318699,
       "num": 318699,
       "word": "用这些方法可快速拉臭臭",
@@ -8665,14 +8705,6 @@
       "onboard_time": 1695697413,
       "rank": 26,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 317027,
-      "num": 317027,
-      "word": "中国女足vs泰国女足",
-      "onboard_time": 1696074099,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 316863,
@@ -9867,6 +9899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281389,
+      "num": 281389,
+      "word": "孙艺洲成都人的凡尔赛",
+      "onboard_time": 1696077461,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280646,
       "num": 280646,
       "word": "国乒打11比0是对竞技体育的尊重",
@@ -10371,6 +10411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267137,
+      "num": 267137,
+      "word": "兵马俑快被挤到没地方站了",
+      "onboard_time": 1696076384,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 267003,
       "num": 565217,
       "word": "叶诗文克服瓶颈阴影再度夺金",
@@ -10617,6 +10665,14 @@
       "onboard_time": 1695912402,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 262513,
+      "num": 262513,
+      "word": "小山村修赛道带动12村年增收200万",
+      "onboard_time": 1696077701,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262167,
@@ -12985,14 +13041,6 @@
       "onboard_time": 1695804101,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209790,
-      "num": 209790,
-      "word": "兵马俑快被挤到没地方站了",
-      "onboard_time": 1696076384,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 209631,
@@ -19443,6 +19491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 73777,
+      "num": 508054,
+      "word": "谢震业冲刺百米金牌",
+      "onboard_time": 1696076801,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73420,
       "num": 445005,
       "word": "张雨霏池江璃花子赛后相拥落泪",
@@ -20393,14 +20449,6 @@
       "onboard_time": 1695538831,
       "rank": 14,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 23255,
-      "num": 173576,
-      "word": "谢震业冲刺百米金牌",
-      "onboard_time": 1696076801,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 23151,
