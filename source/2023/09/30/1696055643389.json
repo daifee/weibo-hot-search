@@ -1,0 +1,410 @@
+{
+  "runTime": 1696055643389,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1570343,
+        "num": 1570343,
+        "word": "原来这才叫休息",
+        "onboard_time": 1696039594,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 816568,
+        "num": 816568,
+        "word": "刘亦菲对于拍吻戏的回应真的清醒通透",
+        "onboard_time": 1696051893,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42976,
+        "num": 787818,
+        "word": "盛世中华 大美中国",
+        "onboard_time": 1696036654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 766305,
+        "num": 766305,
+        "word": "50000能改变你的生活吗",
+        "onboard_time": 1696053272,
+        "rank": 3,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 739977,
+        "num": 739977,
+        "word": "Joker杀疯了",
+        "onboard_time": 1696052973,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 621687,
+        "num": 621687,
+        "word": "亲戚都以为樊振东是我男朋友",
+        "onboard_time": 1696047213,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519326,
+        "num": 519326,
+        "word": "12306回应乘客补票被赶下车",
+        "onboard_time": 1696048596,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384581,
+        "num": 384581,
+        "word": "周放居然是还珠格格的柳红",
+        "onboard_time": 1696036352,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348234,
+        "num": 348234,
+        "word": "志愿军 不像陈凯歌拍的",
+        "onboard_time": 1696049976,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125428,
+        "num": 348028,
+        "word": "孙颖莎4比1卞松京",
+        "onboard_time": 1696052733,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141339,
+        "num": 344831,
+        "word": "中国男网时隔29年再夺单打金牌",
+        "onboard_time": 1696054472,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 632522,
+        "num": 342800,
+        "word": "Jennie顺毛",
+        "onboard_time": 1696046913,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 397567,
+        "num": 342175,
+        "word": "高铁因超员触发警报无法发车",
+        "onboard_time": 1696053333,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105943,
+        "num": 339925,
+        "word": "中秋国庆假期第2天你在干什么",
+        "onboard_time": 1696036535,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86142,
+        "num": 337777,
+        "word": "这鱼看着真能驮起小孩儿",
+        "onboard_time": 1696048895,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454796,
+        "num": 335745,
+        "word": "车上内外循环千万不要乱用",
+        "onboard_time": 1696052313,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 449875,
+        "num": 333320,
+        "word": "林萧你现在美得可真高级",
+        "onboard_time": 1696054951,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 420547,
+        "num": 330905,
+        "word": "吉克隽逸的头发长1米3",
+        "onboard_time": 1696054530,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354918,
+        "num": 329625,
+        "word": "38岁知名私募董事长逝世",
+        "onboard_time": 1696054651,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 328399,
+        "num": 328399,
+        "word": "檀健次央视秋晚封神版本",
+        "onboard_time": 1696047814,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319716,
+        "num": 319716,
+        "word": "九尾没上大名单",
+        "onboard_time": 1696053333,
+        "rank": 20,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 317217,
+        "num": 317217,
+        "word": "高启强狂飙 坚如磐石互飙",
+        "onboard_time": 1696052013,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317171,
+        "num": 317171,
+        "word": "乒乓球",
+        "onboard_time": 1696052134,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306403,
+        "num": 306403,
+        "word": "早田希娜",
+        "onboard_time": 1696054233,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301726,
+        "num": 301726,
+        "word": "杨紫前往巴黎时装周",
+        "onboard_time": 1696049075,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 259499,
+        "num": 259499,
+        "word": "张雨绮好大的耳环",
+        "onboard_time": 1696053694,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258593,
+        "num": 258593,
+        "word": "iPhone拍中秋月亮",
+        "onboard_time": 1696048055,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254949,
+        "num": 254949,
+        "word": "Jennie芭蕾风造型",
+        "onboard_time": 1696050815,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 245084,
+        "num": 245084,
+        "word": "专科男子去日本做程序员年薪40万",
+        "onboard_time": 1696047276,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 244185,
+        "num": 244185,
+        "word": "韩庚我老婆喜欢你十年了",
+        "onboard_time": 1696048535,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235033,
+        "num": 235033,
+        "word": "当张雨霏的脖子真不容易啊",
+        "onboard_time": 1696054831,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232179,
+        "num": 232179,
+        "word": "患者不遵医嘱过世医生该不该负责",
+        "onboard_time": 1696046913,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225701,
+        "num": 225701,
+        "word": "杨幂在法国穿旗袍过中秋",
+        "onboard_time": 1696041394,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 217693,
+        "num": 217693,
+        "word": "坚如磐石",
+        "onboard_time": 1696051234,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213017,
+        "num": 213017,
+        "word": "长期吃西红柿真的能变白吗",
+        "onboard_time": 1696036231,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 211191,
+        "num": 211191,
+        "word": "大学生放假吃席能有多尴尬",
+        "onboard_time": 1696048957,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211023,
+        "num": 211023,
+        "word": "李莲花 疯着死很好啊",
+        "onboard_time": 1696047934,
+        "rank": 36,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 207529,
+        "num": 207529,
+        "word": "童瑶耳环上的珍珠比蛤蜊还大",
+        "onboard_time": 1696036894,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204671,
+        "num": 204671,
+        "word": "ive恶女造型",
+        "onboard_time": 1696054591,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 199055,
+        "num": 199055,
+        "word": "张栋梁不会坏笑",
+        "onboard_time": 1696055371,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188912,
+        "num": 188912,
+        "word": "张之臻亚运会网球男单金牌",
+        "onboard_time": 1696054714,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179292,
+        "num": 179292,
+        "word": "时装周还得看85花",
+        "onboard_time": 1696054831,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177081,
+        "num": 177081,
+        "word": "爱意养人 总算不是小演员了",
+        "onboard_time": 1696045774,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176992,
+        "num": 176992,
+        "word": "孙颖莎晋级亚运四强",
+        "onboard_time": 1696053333,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173089,
+        "num": 173089,
+        "word": "55岁的他守了这个溜冰场整整47年",
+        "onboard_time": 1696055431,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147414,
+        "num": 147414,
+        "word": "为什么小学生集体痴迷萝卜刀",
+        "onboard_time": 1696040373,
+        "rank": 45,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 145361,
+        "num": 145361,
+        "word": "张元英今年也不参加韩国高考",
+        "onboard_time": 1696041155,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142204,
+        "num": 142204,
+        "word": "iPhone16系列机型尺寸曝光",
+        "onboard_time": 1696040674,
+        "rank": 47,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 139726,
+        "num": 139726,
+        "word": "谁能想到主持人是惠英红和周深",
+        "onboard_time": 1696052254,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129395,
+        "num": 129395,
+        "word": "国羽女团1比1日本",
+        "onboard_time": 1696055612,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#向烈士致敬#"
+    }
+  }
+}
