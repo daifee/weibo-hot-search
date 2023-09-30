@@ -1,0 +1,410 @@
+{
+  "runTime": 1696059221337,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1973163,
+        "num": 1973163,
+        "word": "原来这才叫休息",
+        "onboard_time": 1696039594,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1856018,
+        "num": 1856018,
+        "word": "男双",
+        "onboard_time": 1696056813,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38805,
+        "num": 1429614,
+        "word": "盛世中华 大美中国",
+        "onboard_time": 1696036654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185079,
+        "num": 1185079,
+        "word": "梁靖崑林高远止步亚运八强",
+        "onboard_time": 1696057432,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 838765,
+        "num": 838765,
+        "word": "乒乓球没有应该",
+        "onboard_time": 1696057654,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 818557,
+        "num": 818557,
+        "word": "50000能改变你的生活吗",
+        "onboard_time": 1696053272,
+        "rank": 5,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 800395,
+        "num": 800395,
+        "word": "亲戚都以为樊振东是我男朋友",
+        "onboard_time": 1696047213,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709036,
+        "num": 709036,
+        "word": "刘亦菲对于拍吻戏的回应真的清醒通透",
+        "onboard_time": 1696051893,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 686673,
+        "num": 686673,
+        "word": "高铁因超员触发警报无法发车",
+        "onboard_time": 1696053333,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477033,
+        "num": 660805,
+        "word": "Joker杀疯了",
+        "onboard_time": 1696052973,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 896592,
+        "num": 660621,
+        "word": "王皓",
+        "onboard_time": 1696057954,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659426,
+        "num": 659426,
+        "word": "林萧你现在美得可真高级",
+        "onboard_time": 1696054951,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124238,
+        "num": 557444,
+        "word": "中秋国庆假期第2天你在干什么",
+        "onboard_time": 1696036535,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107713,
+        "num": 528756,
+        "word": "这鱼看着真能驮起小孩儿",
+        "onboard_time": 1696048895,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87482,
+        "num": 516160,
+        "word": "孙颖莎4比1卞松京",
+        "onboard_time": 1696052733,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 505252,
+        "num": 505252,
+        "word": "Jennie顺毛",
+        "onboard_time": 1696046913,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 425442,
+        "num": 425442,
+        "word": "前任4完成度质量最好",
+        "onboard_time": 1696058193,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 409574,
+        "num": 409574,
+        "word": "车上内外循环千万不要乱用",
+        "onboard_time": 1696052313,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 399793,
+        "num": 399793,
+        "word": "38岁知名私募董事长逝世",
+        "onboard_time": 1696054651,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 364531,
+        "num": 364531,
+        "word": "周放居然是还珠格格的柳红",
+        "onboard_time": 1696036352,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361631,
+        "num": 361631,
+        "word": "吉克隽逸的头发长1米3",
+        "onboard_time": 1696054530,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 344309,
+        "num": 344309,
+        "word": "Jennie芭蕾风造型",
+        "onboard_time": 1696050815,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 323855,
+        "num": 323855,
+        "word": "大部分人已经见完了此生的最后一面",
+        "onboard_time": 1696057654,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 131409,
+        "num": 313862,
+        "word": "肿瘤专家廖正银又回乡看诊了",
+        "onboard_time": 1696058973,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305589,
+        "num": 305589,
+        "word": "这个假期敢去杭州的都是勇士",
+        "onboard_time": 1696057713,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 303968,
+        "num": 303968,
+        "word": "为什么前任4是系列最佳",
+        "onboard_time": 1696058854,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274839,
+        "num": 274839,
+        "word": "坚如磐石",
+        "onboard_time": 1696051234,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261064,
+        "num": 261064,
+        "word": "乒乓球",
+        "onboard_time": 1696052134,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253221,
+        "num": 253221,
+        "word": "高启强狂飙 坚如磐石互飙",
+        "onboard_time": 1696052013,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249811,
+        "num": 249811,
+        "word": "12306回应乘客补票被赶下车",
+        "onboard_time": 1696048596,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245776,
+        "num": 245776,
+        "word": "檀健次央视秋晚封神版本",
+        "onboard_time": 1696047814,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 260147,
+        "num": 245676,
+        "word": "FoFo 这一次真的很开心",
+        "onboard_time": 1696057713,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 245024,
+        "num": 245024,
+        "word": "张小斐的林双对婚姻看得太通透了",
+        "onboard_time": 1696059034,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235255,
+        "num": 235255,
+        "word": "狗子跨省返乡途中晕车还被猫掌掴",
+        "onboard_time": 1696058373,
+        "rank": 33,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 213880,
+        "num": 213880,
+        "word": "坚如磐石 张艺谋老骥伏枥",
+        "onboard_time": 1696057893,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204707,
+        "num": 204707,
+        "word": "九尾没上大名单",
+        "onboard_time": 1696053333,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198488,
+        "num": 198488,
+        "word": "杨紫前往巴黎时装周",
+        "onboard_time": 1696049075,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195597,
+        "num": 195597,
+        "word": "张之臻夺冠全场大合唱歌唱祖国",
+        "onboard_time": 1696058854,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195110,
+        "num": 195110,
+        "word": "汪顺的MBTI是Husband",
+        "onboard_time": 1696058734,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183344,
+        "num": 183344,
+        "word": "宫尚角杀青时的庆祝顺序",
+        "onboard_time": 1696058134,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182325,
+        "num": 182325,
+        "word": "和平精英项目",
+        "onboard_time": 1696056932,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180457,
+        "num": 180457,
+        "word": "专科男子去日本做程序员年薪40万",
+        "onboard_time": 1696047276,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 176272,
+        "num": 176272,
+        "word": "双节假期国内预计8.96亿人次出游",
+        "onboard_time": 1696057413,
+        "rank": 42,
+        "category": "国内要闻,旅游"
+      },
+      {
+        "raw_hot": 175342,
+        "num": 175342,
+        "word": "胡兵你是懂打码的",
+        "onboard_time": 1696059152,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174348,
+        "num": 174348,
+        "word": "患者不遵医嘱过世医生该不该负责",
+        "onboard_time": 1696046913,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168212,
+        "num": 168212,
+        "word": "张栋梁不会坏笑",
+        "onboard_time": 1696055371,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162147,
+        "num": 162147,
+        "word": "志愿军 不像陈凯歌拍的",
+        "onboard_time": 1696049976,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156638,
+        "num": 156638,
+        "word": "杨幂在法国穿旗袍过中秋",
+        "onboard_time": 1696041394,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 155430,
+        "num": 155430,
+        "word": "DOTA2项目",
+        "onboard_time": 1696056155,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153740,
+        "num": 153740,
+        "word": "iPhone拍中秋月亮",
+        "onboard_time": 1696048055,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记英烈遗志传承英烈风骨#"
+    }
+  }
+}

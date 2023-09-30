@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696058043889,
+  "endTime": 1696059221337,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -35,6 +35,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1856018,
+      "num": 1856018,
+      "word": "男双",
+      "onboard_time": 1696056813,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1763269,
       "num": 1763269,
       "word": "长期吃西红柿真的能变白吗",
@@ -67,11 +75,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1224428,
-      "num": 1224428,
-      "word": "男双",
-      "onboard_time": 1696056813,
-      "rank": 1,
+      "raw_hot": 1185079,
+      "num": 1185079,
+      "word": "梁靖崑林高远止步亚运八强",
+      "onboard_time": 1696057432,
+      "rank": 10,
       "category": "体育"
     },
     {
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 991975,
-      "num": 468048,
+      "num": 505252,
       "word": "Jennie顺毛",
       "onboard_time": 1696046913,
       "rank": 12,
@@ -113,6 +121,14 @@
       "onboard_time": 1696036894,
       "rank": 30,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 896592,
+      "num": 660621,
+      "word": "王皓",
+      "onboard_time": 1696057954,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 875553,
@@ -137,6 +153,14 @@
       "onboard_time": 1696041394,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 838765,
+      "num": 838765,
+      "word": "乒乓球没有应该",
+      "onboard_time": 1696057654,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 831727,
@@ -171,16 +195,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 734792,
-      "num": 429078,
-      "word": "梁靖崑林高远止步亚运八强",
-      "onboard_time": 1696057432,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 707043,
-      "num": 387918,
+      "num": 659426,
       "word": "林萧你现在美得可真高级",
       "onboard_time": 1696054951,
       "rank": 16,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 542643,
-      "num": 385385,
+      "num": 409574,
       "word": "车上内外循环千万不要乱用",
       "onboard_time": 1696052313,
       "rank": 11,
@@ -411,6 +427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 425442,
+      "num": 425442,
+      "word": "前任4完成度质量最好",
+      "onboard_time": 1696058193,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 424748,
       "num": 370822,
       "word": "胡兵王心凌信20年前的合影",
@@ -476,7 +500,7 @@
     },
     {
       "raw_hot": 361838,
-      "num": 321995,
+      "num": 344309,
       "word": "Jennie芭蕾风造型",
       "onboard_time": 1696050815,
       "rank": 26,
@@ -553,6 +577,14 @@
       "onboard_time": 1696045293,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323855,
+      "num": 323855,
+      "word": "大部分人已经见完了此生的最后一面",
+      "onboard_time": 1696057654,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 323184,
@@ -641,6 +673,22 @@
       "onboard_time": 1696054233,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305589,
+      "num": 305589,
+      "word": "这个假期敢去杭州的都是勇士",
+      "onboard_time": 1696057713,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 303968,
+      "num": 303968,
+      "word": "为什么前任4是系列最佳",
+      "onboard_time": 1696058854,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 290792,
@@ -740,11 +788,19 @@
     },
     {
       "raw_hot": 260705,
-      "num": 201186,
+      "num": 213880,
       "word": "坚如磐石 张艺谋老骥伏枥",
       "onboard_time": 1696057893,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 260147,
+      "num": 245676,
+      "word": "FoFo 这一次真的很开心",
+      "onboard_time": 1696057713,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 259499,
@@ -772,7 +828,7 @@
     },
     {
       "raw_hot": 247247,
-      "num": 475239,
+      "num": 557444,
       "word": "中秋国庆假期第2天你在干什么",
       "onboard_time": 1696036535,
       "rank": 12,
@@ -785,6 +841,14 @@
       "onboard_time": 1696037912,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 245024,
+      "num": 245024,
+      "word": "张小斐的林双对婚姻看得太通透了",
+      "onboard_time": 1696059034,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 243646,
@@ -809,6 +873,14 @@
       "onboard_time": 1696001735,
       "rank": 14,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 235255,
+      "num": 235255,
+      "word": "狗子跨省返乡途中晕车还被猫掌掴",
+      "onboard_time": 1696058373,
+      "rank": 33,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 235033,
@@ -872,14 +944,6 @@
       "word": "16岁华裔控卫想为中国打球",
       "onboard_time": 1696043195,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 219371,
-      "num": 219371,
-      "word": "王皓",
-      "onboard_time": 1696057954,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -987,14 +1051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 206795,
-      "num": 200040,
-      "word": "这个假期敢去杭州的都是勇士",
-      "onboard_time": 1696057713,
-      "rank": 32,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 205995,
       "num": 205995,
       "word": "谢谢你们用生命守护祖国",
@@ -1057,6 +1113,22 @@
       "onboard_time": 1696043195,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195597,
+      "num": 195597,
+      "word": "张之臻夺冠全场大合唱歌唱祖国",
+      "onboard_time": 1696058854,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195110,
+      "num": 195110,
+      "word": "汪顺的MBTI是Husband",
+      "onboard_time": 1696058734,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 192461,
@@ -1147,12 +1219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 181818,
-      "num": 181818,
-      "word": "FoFo 这一次真的很开心",
-      "onboard_time": 1696057713,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 183344,
+      "num": 183344,
+      "word": "宫尚角杀青时的庆祝顺序",
+      "onboard_time": 1696058134,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 180281,
@@ -1219,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175342,
+      "num": 175342,
+      "word": "胡兵你是懂打码的",
+      "onboard_time": 1696059152,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174119,
       "num": 174119,
       "word": "杨幂送外国友人中国瓷器",
@@ -1235,14 +1315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167420,
-      "num": 167420,
-      "word": "乒乓球没有应该",
-      "onboard_time": 1696057654,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163521,
       "num": 163521,
       "word": "广州人快乐到冒泡有多简单",
@@ -1257,14 +1329,6 @@
       "onboard_time": 1696033769,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 161163,
-      "num": 161163,
-      "word": "大部分人已经见完了此生的最后一面",
-      "onboard_time": 1696057654,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 161053,
@@ -1316,7 +1380,7 @@
     },
     {
       "raw_hot": 158192,
-      "num": 440316,
+      "num": 528756,
       "word": "这鱼看着真能驮起小孩儿",
       "onboard_time": 1696048895,
       "rank": 9,
@@ -1524,11 +1588,19 @@
     },
     {
       "raw_hot": 131573,
-      "num": 398435,
+      "num": 516160,
       "word": "孙颖莎4比1卞松京",
       "onboard_time": 1696052733,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131409,
+      "num": 313862,
+      "word": "肿瘤专家廖正银又回乡看诊了",
+      "onboard_time": 1696058973,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131278,
@@ -1780,7 +1852,7 @@
     },
     {
       "raw_hot": 91150,
-      "num": 1305421,
+      "num": 1429614,
       "word": "盛世中华 大美中国",
       "onboard_time": 1696036654,
       "rank": 2,
