@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696077891326,
+  "endTime": 1696079848915,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8588430,
+      "num": 8588430,
+      "word": "陈梦王艺迪",
+      "onboard_time": 1696073620,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8499613,
       "num": 9749613,
       "word": "花西子 得力",
@@ -89,14 +97,6 @@
       "onboard_time": 1695626619,
       "rank": 1,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 8269127,
-      "num": 8269127,
-      "word": "陈梦王艺迪",
-      "onboard_time": 1696073620,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 8080481,
@@ -4355,6 +4355,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 595834,
+      "num": 595834,
+      "word": "亚运会链球砸到裁判",
+      "onboard_time": 1696077941,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 595601,
       "num": 595601,
       "word": "导演说刘诗诗演出了3分真7分假",
@@ -4929,6 +4937,14 @@
       "onboard_time": 1695649235,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 536348,
+      "num": 536348,
+      "word": "韩国地铁凌晨五点坐满了人",
+      "onboard_time": 1696076980,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 536012,
@@ -6065,6 +6081,14 @@
       "onboard_time": 1695568058,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 457414,
+      "num": 457414,
+      "word": "汪顺最后选择了叶诗文",
+      "onboard_time": 1696079322,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 457366,
@@ -7284,7 +7308,7 @@
     },
     {
       "raw_hot": 384589,
-      "num": 548169,
+      "num": 595641,
       "word": "中国跳水第2金",
       "onboard_time": 1696077040,
       "rank": 14,
@@ -7417,6 +7441,14 @@
       "onboard_time": 1695876217,
       "rank": 23,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 375965,
+      "num": 375965,
+      "word": "钟汉良演技",
+      "onboard_time": 1696079142,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 375166,
@@ -7931,6 +7963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 350252,
+      "num": 350252,
+      "word": "林昀儒",
+      "onboard_time": 1696077161,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349913,
       "num": 349913,
       "word": "魏大勋借几件衣服给韩庚吧",
@@ -8097,14 +8137,6 @@
       "onboard_time": 1695944070,
       "rank": 14,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 341428,
-      "num": 324413,
-      "word": "韩国地铁凌晨五点坐满了人",
-      "onboard_time": 1696076980,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 341038,
@@ -8643,20 +8675,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 319360,
-      "num": 319360,
-      "word": "林昀儒",
-      "onboard_time": 1696077161,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 318699,
       "num": 318699,
       "word": "用这些方法可快速拉臭臭",
       "onboard_time": 1695525272,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 318530,
+      "num": 318530,
+      "word": "西北师大通报学生保研后资格被收回",
+      "onboard_time": 1696079565,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 318330,
@@ -9923,6 +9955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279772,
+      "num": 279772,
+      "word": "兵马俑快被挤到没地方站了",
+      "onboard_time": 1696076384,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 279716,
       "num": 295407,
       "word": "杭州西溪湿地属猪免船票",
@@ -10033,6 +10073,14 @@
       "onboard_time": 1695597386,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 278133,
+      "num": 278133,
+      "word": "白衬衫是男人最好的嫁妆",
+      "onboard_time": 1696079202,
+      "rank": 34,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 278112,
@@ -10409,14 +10457,6 @@
       "onboard_time": 1695908382,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 267137,
-      "num": 267137,
-      "word": "兵马俑快被挤到没地方站了",
-      "onboard_time": 1696076384,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 267003,
@@ -10937,6 +10977,14 @@
       "onboard_time": 1695991240,
       "rank": 34,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 256502,
+      "num": 256502,
+      "word": "男子链球中国选手王琦夺冠",
+      "onboard_time": 1696078302,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 256467,
@@ -12003,6 +12051,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 229865,
+      "num": 229865,
+      "word": "央视新闻里的吉克隽逸",
+      "onboard_time": 1696079322,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229835,
       "num": 229835,
       "word": "魏如萱上海 秒罄",
@@ -12073,6 +12129,14 @@
       "onboard_time": 1695983374,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228192,
+      "num": 228192,
+      "word": "张本智和带伤拼到最后",
+      "onboard_time": 1696079202,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 228099,
@@ -12899,6 +12963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 211860,
+      "num": 211860,
+      "word": "李天责王OK亲嘴了",
+      "onboard_time": 1696078238,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211820,
       "num": 147337,
       "word": "林小宅 开启第一次徒步登山",
@@ -12937,6 +13009,14 @@
       "onboard_time": 1695912704,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211137,
+      "num": 211137,
+      "word": "杭州8米大的巨型木偶戏",
+      "onboard_time": 1696079441,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 211066,
@@ -19219,6 +19299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89762,
+      "num": 508054,
+      "word": "谢震业冲刺百米金牌",
+      "onboard_time": 1696076801,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89302,
       "num": 89302,
       "word": "中国游泳队太牛了",
@@ -19489,14 +19577,6 @@
       "onboard_time": 1695925219,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 73777,
-      "num": 508054,
-      "word": "谢震业冲刺百米金牌",
-      "onboard_time": 1696076801,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 73420,
@@ -20011,6 +20091,14 @@
       "category": "互联网,体育"
     },
     {
+      "raw_hot": 48153,
+      "num": 595609,
+      "word": "再添一金 国风moba夺魁",
+      "onboard_time": 1696078837,
+      "rank": 14,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 47077,
       "num": 1426005,
       "word": "亚运赛场闪闪发光的中国00后",
@@ -20089,6 +20177,14 @@
       "onboard_time": 1695983492,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 42546,
+      "num": 238150,
+      "word": "doinb夺冠",
+      "onboard_time": 1696078837,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 42497,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 20:44:51
+本榜单时间：2023/09/01 00:21:56 ~ 2023/09/30 21:17:28
 </p>
 </blockquote>
 <p>
@@ -105,6 +105,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
+陈梦王艺迪（热度：8588430）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E5%93%AD%E5%AE%8C%E7%BB%A7%E7%BB%AD%E5%B8%A6%E8%B4%A7%23" target="weibo">
 李佳琦哭完继续带货（热度：8555035）
 </a>
@@ -137,12 +143,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%20%E9%9D%9E%E5%87%A1%E5%A4%A7%E5%B8%88%23" target="weibo">
 刘德华 非凡大师（热度：8349348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
-陈梦王艺迪（热度：8269127）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696077891326,
+  "endTime": 1696079848915,
   "band_list": [
     {
       "raw_hot": 9363054,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8269127,
-      "num": 8269127,
+      "raw_hot": 8588430,
+      "num": 8588430,
       "word": "陈梦王艺迪",
       "onboard_time": 1696073620,
       "rank": 38,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 595834,
+      "num": 595834,
+      "word": "亚运会链球砸到裁判",
+      "onboard_time": 1696077941,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 593215,
       "num": 593215,
       "word": "女子买票被抢票软件提示多买12站",
@@ -529,6 +537,14 @@
       "onboard_time": 1696046913,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 536348,
+      "num": 536348,
+      "word": "韩国地铁凌晨五点坐满了人",
+      "onboard_time": 1696076980,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 534658,
@@ -680,6 +696,14 @@
       "word": "樊振东4比0庄智渊",
       "onboard_time": 1696072837,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 457414,
+      "num": 457414,
+      "word": "汪顺最后选择了叶诗文",
+      "onboard_time": 1696079322,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -868,7 +892,7 @@
     },
     {
       "raw_hot": 384589,
-      "num": 548169,
+      "num": 595641,
       "word": "中国跳水第2金",
       "onboard_time": 1696077040,
       "rank": 14,
@@ -881,6 +905,14 @@
       "onboard_time": 1696064674,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 375965,
+      "num": 375965,
+      "word": "钟汉良演技",
+      "onboard_time": 1696079142,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 374728,
@@ -931,20 +963,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 350252,
+      "num": 350252,
+      "word": "林昀儒",
+      "onboard_time": 1696077161,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348285,
       "num": 298242,
       "word": "iPhone16系列机型尺寸曝光",
       "onboard_time": 1696040674,
       "rank": 24,
       "category": "科技"
-    },
-    {
-      "raw_hot": 341428,
-      "num": 324413,
-      "word": "韩国地铁凌晨五点坐满了人",
-      "onboard_time": 1696076980,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 337317,
@@ -1019,12 +1051,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 319360,
-      "num": 319360,
-      "word": "林昀儒",
-      "onboard_time": 1696077161,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 318530,
+      "num": 318530,
+      "word": "西北师大通报学生保研后资格被收回",
+      "onboard_time": 1696079565,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 318226,
@@ -1211,12 +1243,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 279772,
+      "num": 279772,
+      "word": "兵马俑快被挤到没地方站了",
+      "onboard_time": 1696076384,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 279716,
       "num": 295407,
       "word": "杭州西溪湿地属猪免船票",
       "onboard_time": 1696030886,
       "rank": 15,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 278133,
+      "num": 278133,
+      "word": "白衬衫是男人最好的嫁妆",
+      "onboard_time": 1696079202,
+      "rank": 34,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 276643,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1696048957,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 267137,
-      "num": 267137,
-      "word": "兵马俑快被挤到没地方站了",
-      "onboard_time": 1696076384,
-      "rank": 43,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 265877,
@@ -1369,6 +1409,14 @@
       "onboard_time": 1696075662,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256502,
+      "num": 256502,
+      "word": "男子链球中国选手王琦夺冠",
+      "onboard_time": 1696078302,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 254933,
@@ -1547,11 +1595,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229865,
+      "num": 229865,
+      "word": "央视新闻里的吉克隽逸",
+      "onboard_time": 1696079322,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229833,
       "num": 210333,
       "word": "16岁华裔控卫想为中国打球",
       "onboard_time": 1696043195,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228192,
+      "num": 228192,
+      "word": "张本智和带伤拼到最后",
+      "onboard_time": 1696079202,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1675,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211860,
+      "num": 211860,
+      "word": "李天责王OK亲嘴了",
+      "onboard_time": 1696078238,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211820,
       "num": 147337,
       "word": "林小宅 开启第一次徒步登山",
@@ -1697,6 +1769,14 @@
       "onboard_time": 1696036413,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211137,
+      "num": 211137,
+      "word": "杭州8米大的巨型木偶戏",
+      "onboard_time": 1696079441,
+      "rank": 46,
+      "category": "旅游"
     },
     {
       "raw_hot": 210634,
@@ -2659,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89762,
+      "num": 508054,
+      "word": "谢震业冲刺百米金牌",
+      "onboard_time": 1696076801,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86470,
       "num": 86231,
       "word": "王栎鑫首谈离婚经历",
@@ -2729,14 +2817,6 @@
       "onboard_time": 1695990699,
       "rank": 39,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 73777,
-      "num": 508054,
-      "word": "谢震业冲刺百米金牌",
-      "onboard_time": 1696076801,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 73420,
@@ -2811,6 +2891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48153,
+      "num": 595609,
+      "word": "再添一金 国风moba夺魁",
+      "onboard_time": 1696078837,
+      "rank": 14,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 46657,
       "num": 405096,
       "word": "支付宝直播间给女排攒了个过年局",
@@ -2833,6 +2921,14 @@
       "onboard_time": 1696012036,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42546,
+      "num": 238150,
+      "word": "doinb夺冠",
+      "onboard_time": 1696078837,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 39330,
