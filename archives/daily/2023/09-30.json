@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696083240641,
+  "endTime": 1696084434952,
   "band_list": [
     {
       "raw_hot": 9363054,
@@ -19,11 +19,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8588430,
-      "num": 8588430,
+      "raw_hot": 8624252,
+      "num": 8624252,
       "word": "陈梦王艺迪",
       "onboard_time": 1696073620,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4976085,
+      "num": 4976085,
+      "word": "王楚钦孙颖莎混双夺冠",
+      "onboard_time": 1696083343,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -51,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2454733,
+      "num": 2454733,
+      "word": "莎头卫冕",
+      "onboard_time": 1696083822,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2383152,
       "num": 2383152,
       "word": "原来这才叫休息",
@@ -64,6 +80,14 @@
       "word": "王楚钦孙颖莎",
       "onboard_time": 1696082439,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2306589,
+      "num": 2306589,
+      "word": "谢震业百米冠军",
+      "onboard_time": 1696082563,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -89,14 +113,6 @@
       "onboard_time": 1696031246,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2178310,
-      "num": 2178310,
-      "word": "谢震业百米冠军",
-      "onboard_time": 1696082563,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 2119458,
@@ -137,6 +153,22 @@
       "onboard_time": 1696036231,
       "rank": 10,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1713386,
+      "num": 1713386,
+      "word": "易烊千玺也去看了坚如磐石",
+      "onboard_time": 1696083408,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1709204,
+      "num": 851807,
+      "word": "泰国是预制菜的重灾区吧",
+      "onboard_time": 1696082983,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 1656962,
@@ -267,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 963310,
+      "num": 963310,
+      "word": "葛曼棋女子100米夺金",
+      "onboard_time": 1696082381,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 962212,
       "num": 962212,
       "word": "刘亦菲对于拍吻戏的回应真的清醒通透",
@@ -280,14 +320,6 @@
       "word": "孙颖莎收到3个pin",
       "onboard_time": 1696066895,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 936423,
-      "num": 936423,
-      "word": "葛曼棋女子100米夺金",
-      "onboard_time": 1696082381,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -563,6 +595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 603542,
+      "num": 603542,
+      "word": "迪丽热巴花少5古城王后造型",
+      "onboard_time": 1696084007,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 595834,
       "num": 595834,
       "word": "亚运会链球砸到裁判",
@@ -593,14 +633,6 @@
       "onboard_time": 1696047814,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555732,
-      "num": 332544,
-      "word": "泰国是预制菜的重灾区吧",
-      "onboard_time": 1696082983,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 554858,
@@ -713,6 +745,14 @@
       "onboard_time": 1696045774,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 495726,
+      "num": 603659,
+      "word": "中国女足挺进亚运四强",
+      "onboard_time": 1696083165,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 495013,
@@ -856,14 +896,6 @@
       "word": "黄镇廷4比3林昀儒",
       "onboard_time": 1696080521,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 439127,
-      "num": 439127,
-      "word": "中国女足挺进亚运四强",
-      "onboard_time": 1696083165,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -1147,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330229,
+      "num": 330229,
+      "word": "朴宰范常州",
+      "onboard_time": 1696084179,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325584,
       "num": 308424,
       "word": "张本智和期待妹妹和中国队比赛能赢",
@@ -1347,6 +1387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 290742,
+      "num": 290742,
+      "word": "以为看的是单人跳水",
+      "onboard_time": 1696084060,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290307,
       "num": 290307,
       "word": "坚如磐石豆瓣开分6.7",
@@ -1433,6 +1481,14 @@
       "onboard_time": 1696034492,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276574,
+      "num": 276574,
+      "word": "老外差点把杭州搬回家了",
+      "onboard_time": 1696084179,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 275661,
@@ -1809,6 +1865,14 @@
       "onboard_time": 1696066836,
       "rank": 29,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 225991,
+      "num": 225991,
+      "word": "孙子假期回家爷爷1天造出篮球场",
+      "onboard_time": 1696084060,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225455,
@@ -3073,6 +3137,14 @@
       "onboard_time": 1696006047,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 51143,
+      "num": 3131383,
+      "word": "亚运赛场最动人的瞬间不只有夺金",
+      "onboard_time": 1696083942,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 50359,

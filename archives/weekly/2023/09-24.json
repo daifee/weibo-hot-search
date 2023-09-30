@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696083240641,
+  "endTime": 1696084434952,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -67,8 +67,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 8588430,
-      "num": 8588430,
+      "raw_hot": 8624252,
+      "num": 8624252,
       "word": "陈梦王艺迪",
       "onboard_time": 1696073620,
       "rank": 38,
@@ -169,6 +169,14 @@
       "onboard_time": 1695726278,
       "rank": 3,
       "category": "美妆,社会新闻"
+    },
+    {
+      "raw_hot": 4976085,
+      "num": 4976085,
+      "word": "王楚钦孙颖莎混双夺冠",
+      "onboard_time": 1696083343,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 4856852,
@@ -379,6 +387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 2454733,
+      "num": 2454733,
+      "word": "莎头卫冕",
+      "onboard_time": 1696083822,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2448587,
       "num": 509418,
       "word": "中国恒大股份将继续暂停买卖",
@@ -467,6 +483,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 2306589,
+      "num": 2306589,
+      "word": "谢震业百米冠军",
+      "onboard_time": 1696082563,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2292258,
       "num": 2292258,
       "word": "挖呀挖黄老师开启直播带货",
@@ -513,14 +537,6 @@
       "onboard_time": 1695880174,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2178310,
-      "num": 2178310,
-      "word": "谢震业百米冠军",
-      "onboard_time": 1696082563,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 2164362,
@@ -825,6 +841,22 @@
       "onboard_time": 1695889774,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1713386,
+      "num": 1713386,
+      "word": "易烊千玺也去看了坚如磐石",
+      "onboard_time": 1696083408,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1709204,
+      "num": 851807,
+      "word": "泰国是预制菜的重灾区吧",
+      "onboard_time": 1696082983,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 1706671,
@@ -2035,6 +2067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 963310,
+      "num": 963310,
+      "word": "葛曼棋女子100米夺金",
+      "onboard_time": 1696082381,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 963222,
       "num": 963222,
       "word": "大同欺凌事件校方曾建议三年级以上住校",
@@ -2136,14 +2176,6 @@
       "word": "汪顺破亚洲纪录",
       "onboard_time": 1695557014,
       "rank": 10,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 936423,
-      "num": 936423,
-      "word": "葛曼棋女子100米夺金",
-      "onboard_time": 1696082381,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -4347,6 +4379,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 603542,
+      "num": 603542,
+      "word": "迪丽热巴花少5古城王后造型",
+      "onboard_time": 1696084007,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 603356,
       "num": 603356,
       "word": "我没票但不妨碍我来听演唱会",
@@ -4801,14 +4841,6 @@
       "onboard_time": 1695648818,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 555732,
-      "num": 332544,
-      "word": "泰国是预制菜的重灾区吧",
-      "onboard_time": 1696082983,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 554858,
@@ -5593,6 +5625,14 @@
       "onboard_time": 1695741403,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 495726,
+      "num": 603659,
+      "word": "中国女足挺进亚运四强",
+      "onboard_time": 1696083165,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 495013,
@@ -6505,14 +6545,6 @@
       "onboard_time": 1695694114,
       "rank": 22,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 439127,
-      "num": 439127,
-      "word": "中国女足挺进亚运四强",
-      "onboard_time": 1696083165,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 438835,
@@ -8539,6 +8571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330229,
+      "num": 330229,
+      "word": "朴宰范常州",
+      "onboard_time": 1696084179,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329410,
       "num": 329410,
       "word": "中国游泳1晚7金外媒气急败坏",
@@ -9731,6 +9771,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 290742,
+      "num": 290742,
+      "word": "以为看的是单人跳水",
+      "onboard_time": 1696084060,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290645,
       "num": 290645,
       "word": "铁路部门回应12306账号出现陌生人信息",
@@ -10297,6 +10345,14 @@
       "onboard_time": 1696034492,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276574,
+      "num": 276574,
+      "word": "老外差点把杭州搬回家了",
+      "onboard_time": 1696084179,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 276045,
@@ -12409,6 +12465,14 @@
       "onboard_time": 1695698737,
       "rank": 27,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 225991,
+      "num": 225991,
+      "word": "孙子假期回家爷爷1天造出篮球场",
+      "onboard_time": 1696084060,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225455,
@@ -20193,6 +20257,14 @@
       "onboard_time": 1696006047,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 51143,
+      "num": 3131383,
+      "word": "亚运赛场最动人的瞬间不只有夺金",
+      "onboard_time": 1696083942,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 50680,
