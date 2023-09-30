@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696079848915,
+  "endTime": 1696080816324,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -2249,6 +2249,14 @@
       "onboard_time": 1695794616,
       "rank": 7,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 898805,
+      "num": 898805,
+      "word": "汪顺最后选择了叶诗文",
+      "onboard_time": 1696079322,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 897192,
@@ -4563,6 +4571,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 571277,
+      "num": 571277,
+      "word": "果果真是妈妈的好女儿",
+      "onboard_time": 1696080220,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570613,
       "num": 415422,
       "word": "徐必成的公孙离",
@@ -5691,6 +5707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 481552,
+      "num": 481552,
+      "word": "西北师大通报学生保研后资格被收回",
+      "onboard_time": 1696079565,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 481008,
       "num": 772792,
       "word": "成都坐车到北京未来可能仅需90分钟",
@@ -6083,14 +6107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 457414,
-      "num": 457414,
-      "word": "汪顺最后选择了叶诗文",
-      "onboard_time": 1696079322,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 457366,
       "num": 457366,
       "word": "许光汉要演韩剧了",
@@ -6392,6 +6408,14 @@
       "word": "国羽男团2比1日本",
       "onboard_time": 1696077641,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 439600,
+      "num": 356055,
+      "word": "黄镇廷4比3林昀儒",
+      "onboard_time": 1696080521,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -6819,6 +6843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 409857,
+      "num": 409857,
+      "word": "大梦归离",
+      "onboard_time": 1696080280,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 409487,
       "num": 409487,
       "word": "剃了胡子的胡歌",
@@ -7187,6 +7219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 391173,
+      "num": 391173,
+      "word": "钟汉良演技",
+      "onboard_time": 1696079142,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 389309,
       "num": 765142,
       "word": "台湾鸡蛋价格是大陆两倍",
@@ -7441,14 +7481,6 @@
       "onboard_time": 1695876217,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 375965,
-      "num": 375965,
-      "word": "钟汉良演技",
-      "onboard_time": 1696079142,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 375166,
@@ -7723,6 +7755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363253,
+      "num": 363253,
+      "word": "林昀儒",
+      "onboard_time": 1696077161,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362981,
       "num": 362981,
       "word": "于适 我不笨",
@@ -7961,14 +8001,6 @@
       "onboard_time": 1696052013,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 350252,
-      "num": 350252,
-      "word": "林昀儒",
-      "onboard_time": 1696077161,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 349913,
@@ -8683,14 +8715,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 318530,
-      "num": 318530,
-      "word": "西北师大通报学生保研后资格被收回",
-      "onboard_time": 1696079565,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 318330,
       "num": 265739,
       "word": "Faker采访",
@@ -8891,6 +8915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 313744,
+      "num": 313744,
+      "word": "白宇哄李雪琴",
+      "onboard_time": 1696080641,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 313699,
       "num": 346977,
       "word": "带薪休假是菜鸟警察的天真与梦想",
@@ -9043,6 +9075,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 307458,
+      "num": 307458,
+      "word": "白衬衫是男人最好的嫁妆",
+      "onboard_time": 1696079202,
+      "rank": 34,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 307441,
       "num": 300677,
       "word": "住建局回应女子被保安踩脚下",
@@ -9129,6 +9169,14 @@
       "onboard_time": 1695953071,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304477,
+      "num": 304477,
+      "word": "张本智和带伤拼到最后",
+      "onboard_time": 1696079202,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 304460,
@@ -9619,6 +9667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289707,
+      "num": 289707,
+      "word": "喻言翻唱beautiful",
+      "onboard_time": 1696080220,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 289567,
       "num": 218375,
       "word": "鞠婧祎三套造型反差感",
@@ -10073,14 +10129,6 @@
       "onboard_time": 1695597386,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 278133,
-      "num": 278133,
-      "word": "白衬衫是男人最好的嫁妆",
-      "onboard_time": 1696079202,
-      "rank": 34,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 278112,
@@ -11211,6 +11259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 251385,
+      "num": 251385,
+      "word": "央视新闻里的吉克隽逸",
+      "onboard_time": 1696079322,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251193,
       "num": 251193,
       "word": "赵丽颖做兔子手影",
@@ -11233,6 +11289,14 @@
       "onboard_time": 1695885697,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250432,
+      "num": 250432,
+      "word": "杨幂高跟鞋不合脚",
+      "onboard_time": 1696080521,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250367,
@@ -12051,14 +12115,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 229865,
-      "num": 229865,
-      "word": "央视新闻里的吉克隽逸",
-      "onboard_time": 1696079322,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229835,
       "num": 229835,
       "word": "魏如萱上海 秒罄",
@@ -12129,14 +12185,6 @@
       "onboard_time": 1695983374,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 228192,
-      "num": 228192,
-      "word": "张本智和带伤拼到最后",
-      "onboard_time": 1696079202,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 228099,
@@ -19579,6 +19627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74159,
+      "num": 595609,
+      "word": "再添一金 国风moba夺魁",
+      "onboard_time": 1696078837,
+      "rank": 14,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 73420,
       "num": 445005,
       "word": "张雨霏池江璃花子赛后相拥落泪",
@@ -19851,6 +19907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59684,
+      "num": 256401,
+      "word": "doinb夺冠",
+      "onboard_time": 1696078837,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 58547,
       "num": 472596,
       "word": "跟淘宝学了点乒乓功夫",
@@ -20091,14 +20155,6 @@
       "category": "互联网,体育"
     },
     {
-      "raw_hot": 48153,
-      "num": 595609,
-      "word": "再添一金 国风moba夺魁",
-      "onboard_time": 1696078837,
-      "rank": 14,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 47077,
       "num": 1426005,
       "word": "亚运赛场闪闪发光的中国00后",
@@ -20177,14 +20233,6 @@
       "onboard_time": 1695983492,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 42546,
-      "num": 238150,
-      "word": "doinb夺冠",
-      "onboard_time": 1696078837,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 42497,

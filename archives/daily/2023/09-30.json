@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696079848915,
+  "endTime": 1696080816324,
   "band_list": [
     {
       "raw_hot": 9363054,
@@ -291,6 +291,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 898805,
+      "num": 898805,
+      "word": "汪顺最后选择了叶诗文",
+      "onboard_time": 1696079322,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 875553,
       "num": 875553,
       "word": "你好星期六全员笑脸送国庆祝福",
@@ -507,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 571277,
+      "num": 571277,
+      "word": "果果真是妈妈的好女儿",
+      "onboard_time": 1696080220,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 554858,
       "num": 400578,
       "word": "火车上有卖卫生巾了",
@@ -675,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 481552,
+      "num": 481552,
+      "word": "西北师大通报学生保研后资格被收回",
+      "onboard_time": 1696079565,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 477992,
       "num": 477992,
       "word": "CHN冠军",
@@ -696,14 +720,6 @@
       "word": "樊振东4比0庄智渊",
       "onboard_time": 1696072837,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 457414,
-      "num": 457414,
-      "word": "汪顺最后选择了叶诗文",
-      "onboard_time": 1696079322,
-      "rank": 18,
       "category": "体育"
     },
     {
@@ -752,6 +768,14 @@
       "word": "国羽男团2比1日本",
       "onboard_time": 1696077641,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 439600,
+      "num": 356055,
+      "word": "黄镇廷4比3林昀儒",
+      "onboard_time": 1696080521,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -835,6 +859,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 409857,
+      "num": 409857,
+      "word": "大梦归离",
+      "onboard_time": 1696080280,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 405473,
       "num": 405473,
       "word": "朝鲜女足4比1韩国女足",
@@ -883,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391173,
+      "num": 391173,
+      "word": "钟汉良演技",
+      "onboard_time": 1696079142,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 389309,
       "num": 765142,
       "word": "台湾鸡蛋价格是大陆两倍",
@@ -907,20 +947,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 375965,
-      "num": 375965,
-      "word": "钟汉良演技",
-      "onboard_time": 1696079142,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 374728,
       "num": 344309,
       "word": "Jennie芭蕾风造型",
       "onboard_time": 1696050815,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 363253,
+      "num": 363253,
+      "word": "林昀儒",
+      "onboard_time": 1696077161,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 362524,
@@ -961,14 +1001,6 @@
       "onboard_time": 1696052013,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 350252,
-      "num": 350252,
-      "word": "林昀儒",
-      "onboard_time": 1696077161,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 348285,
@@ -1051,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 318530,
-      "num": 318530,
-      "word": "西北师大通报学生保研后资格被收回",
-      "onboard_time": 1696079565,
-      "rank": 30,
-      "category": "教育"
-    },
-    {
       "raw_hot": 318226,
       "num": 318226,
       "word": "周深忘词后的精神状态",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1695987335,
       "rank": 17,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 313744,
+      "num": 313744,
+      "word": "白宇哄李雪琴",
+      "onboard_time": 1696080641,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 312281,
@@ -1131,6 +1163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307458,
+      "num": 307458,
+      "word": "白衬衫是男人最好的嫁妆",
+      "onboard_time": 1696079202,
+      "rank": 34,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 306756,
       "num": 375309,
       "word": "徐嘉余 两届亚运未尝一败",
@@ -1160,6 +1200,14 @@
       "word": "孙颖莎王曼昱1比3张本美和木原美悠",
       "onboard_time": 1696068404,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 304477,
+      "num": 304477,
+      "word": "张本智和带伤拼到最后",
+      "onboard_time": 1696079202,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1201,6 +1249,14 @@
       "onboard_time": 1696076564,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289707,
+      "num": 289707,
+      "word": "喻言翻唱beautiful",
+      "onboard_time": 1696080220,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 287648,
@@ -1257,14 +1313,6 @@
       "onboard_time": 1696030886,
       "rank": 15,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 278133,
-      "num": 278133,
-      "word": "白衬衫是男人最好的嫁妆",
-      "onboard_time": 1696079202,
-      "rank": 34,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 276643,
@@ -1451,12 +1499,28 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 251385,
+      "num": 251385,
+      "word": "央视新闻里的吉克隽逸",
+      "onboard_time": 1696079322,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250908,
       "num": 250908,
       "word": "中国男篮vs中国香港男篮",
       "onboard_time": 1696074039,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250432,
+      "num": 250432,
+      "word": "杨幂高跟鞋不合脚",
+      "onboard_time": 1696080521,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248873,
@@ -1595,27 +1659,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229865,
-      "num": 229865,
-      "word": "央视新闻里的吉克隽逸",
-      "onboard_time": 1696079322,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 229833,
       "num": 210333,
       "word": "16岁华裔控卫想为中国打球",
       "onboard_time": 1696043195,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 228192,
-      "num": 228192,
-      "word": "张本智和带伤拼到最后",
-      "onboard_time": 1696079202,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -2819,6 +2867,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 74159,
+      "num": 595609,
+      "word": "再添一金 国风moba夺魁",
+      "onboard_time": 1696078837,
+      "rank": 14,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 73420,
       "num": 445005,
       "word": "张雨霏池江璃花子赛后相拥落泪",
@@ -2867,6 +2923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 59684,
+      "num": 256401,
+      "word": "doinb夺冠",
+      "onboard_time": 1696078837,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 54452,
       "num": 81898,
       "word": "一条plog告别九月",
@@ -2891,14 +2955,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 48153,
-      "num": 595609,
-      "word": "再添一金 国风moba夺魁",
-      "onboard_time": 1696078837,
-      "rank": 14,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 46657,
       "num": 405096,
       "word": "支付宝直播间给女排攒了个过年局",
@@ -2921,14 +2977,6 @@
       "onboard_time": 1696012036,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 42546,
-      "num": 238150,
-      "word": "doinb夺冠",
-      "onboard_time": 1696078837,
-      "rank": 39,
-      "category": "游戏"
     },
     {
       "raw_hot": 39330,
