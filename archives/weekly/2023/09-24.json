@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696050905186,
+  "endTime": 1696052024166,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -3883,6 +3883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 616065,
+      "num": 616065,
+      "word": "12306回应乘客补票被赶下车",
+      "onboard_time": 1696048596,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 615865,
       "num": 454211,
       "word": "秦霄贤表白周扬青自己先脸红",
@@ -5035,14 +5043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 502836,
-      "num": 502836,
-      "word": "12306回应乘客补票被赶下车",
-      "onboard_time": 1696048596,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 502703,
       "num": 502703,
       "word": "IVE MBTI",
@@ -5073,6 +5073,14 @@
       "onboard_time": 1695889715,
       "rank": 33,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 500371,
+      "num": 500371,
+      "word": "志愿军 不像陈凯歌拍的",
+      "onboard_time": 1696049976,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 500366,
@@ -5875,6 +5883,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 448357,
+      "num": 448357,
+      "word": "李莲花 疯着死很好啊",
+      "onboard_time": 1696047934,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 447762,
       "num": 325877,
       "word": "建行回应房贷利率调整变成还款年限调整",
@@ -6041,14 +6057,6 @@
       "onboard_time": 1695726339,
       "rank": 27,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 434838,
-      "num": 434838,
-      "word": "李莲花 疯着死很好啊",
-      "onboard_time": 1696047934,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 434699,
@@ -6251,16 +6259,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 418343,
-      "num": 418343,
-      "word": "志愿军 不像陈凯歌拍的",
-      "onboard_time": 1696049976,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 417912,
-      "num": 304615,
+      "num": 322236,
       "word": "专科男子去日本做程序员年薪40万",
       "onboard_time": 1696047276,
       "rank": 42,
@@ -6433,6 +6433,14 @@
       "onboard_time": 1695564760,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 403808,
+      "num": 403808,
+      "word": "iPhone拍中秋月亮",
+      "onboard_time": 1696048055,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 403319,
@@ -6811,6 +6819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 381672,
+      "num": 381672,
+      "word": "刘亦菲对于拍吻戏的回应真的清醒通透",
+      "onboard_time": 1696051893,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 381521,
       "num": 381521,
       "word": "Mate60共有四款产品",
@@ -7163,14 +7179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364691,
-      "num": 364691,
-      "word": "iPhone拍中秋月亮",
-      "onboard_time": 1696048055,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 364511,
       "num": 364511,
       "word": "一诺 五个len蹲我",
@@ -7201,6 +7209,14 @@
       "onboard_time": 1695796358,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 361838,
+      "num": 321995,
+      "word": "Jennie芭蕾风造型",
+      "onboard_time": 1696050815,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 360550,
@@ -8145,6 +8161,14 @@
       "onboard_time": 1695697413,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 317014,
+      "num": 317014,
+      "word": "高启强狂飙 坚如磐石互飙",
+      "onboard_time": 1696052013,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 316863,
@@ -9699,6 +9723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268101,
+      "num": 268101,
+      "word": "大学生放假吃席能有多尴尬",
+      "onboard_time": 1696048957,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267770,
       "num": 1787083,
       "word": "广电总局已开始治理电视套娃收费",
@@ -10049,14 +10081,6 @@
       "onboard_time": 1695528873,
       "rank": 43,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 259951,
-      "num": 259951,
-      "word": "大学生放假吃席能有多尴尬",
-      "onboard_time": 1696048957,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 259702,
@@ -10945,6 +10969,14 @@
       "onboard_time": 1695742000,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234441,
+      "num": 234441,
+      "word": "童宇 告别",
+      "onboard_time": 1696049855,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 234246,
@@ -13531,14 +13563,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 191609,
-      "num": 191609,
-      "word": "Jennie芭蕾风造型",
-      "onboard_time": 1696050815,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 191372,
       "num": 191372,
       "word": "钟辰乐黄仁俊互相彩虹屁",
@@ -14315,6 +14339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178848,
+      "num": 178848,
+      "word": "国羽女团2比1日本",
+      "onboard_time": 1696051534,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178809,
       "num": 178809,
       "word": "我们的翻译官",
@@ -14449,6 +14481,14 @@
       "onboard_time": 1695905863,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176746,
+      "num": 176746,
+      "word": "于和伟 致命男人",
+      "onboard_time": 1696050693,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 176619,
@@ -16067,14 +16107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 148326,
-      "num": 148326,
-      "word": "童宇 告别",
-      "onboard_time": 1696049855,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 148313,
       "num": 148313,
       "word": "王者吕布敦煌新皮肤",
@@ -16907,14 +16939,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132072,
-      "num": 132072,
-      "word": "于和伟 致命男人",
-      "onboard_time": 1696050693,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132011,
       "num": 132011,
       "word": "丞磊听到爸爸妈妈的反应",
@@ -17715,6 +17739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107866,
+      "num": 118324,
+      "word": "2023挑战者杯大名单",
+      "onboard_time": 1696048775,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 107197,
       "num": 107197,
       "word": "亚运会霹雳舞到底有多受欢迎",
@@ -17795,14 +17827,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 103758,
-      "num": 103758,
-      "word": "2023挑战者杯大名单",
-      "onboard_time": 1696048775,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 103415,
       "num": 930341,
       "word": "亚运会bgm唱进心坎里",
@@ -17841,6 +17865,14 @@
       "onboard_time": 1695547657,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101477,
+      "num": 118309,
+      "word": "覃海洋赛前就知道自己能拿第100金",
+      "onboard_time": 1696051173,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 100704,
