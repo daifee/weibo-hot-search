@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696061976743,
+  "endTime": 1696062868532,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -27,20 +27,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2275422,
+      "num": 660621,
+      "word": "王皓",
+      "onboard_time": 1696057954,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2265286,
       "num": 2265286,
       "word": "家可以常回 但不能久待",
       "onboard_time": 1696031246,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2215761,
-      "num": 660621,
-      "word": "王皓",
-      "onboard_time": 1696057954,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 1856018,
@@ -107,12 +107,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1029323,
+      "num": 1029323,
+      "word": "大部分人已经见完了此生的最后一面",
+      "onboard_time": 1696057654,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1026478,
       "num": 838765,
       "word": "乒乓球没有应该",
       "onboard_time": 1696057654,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1014653,
+      "num": 262709,
+      "word": "男子尿急误把高架当隔离带一跃而下",
+      "onboard_time": 1696059335,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1002038,
@@ -131,20 +147,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 973717,
-      "num": 261692,
-      "word": "男子尿急误把高架当隔离带一跃而下",
-      "onboard_time": 1696059335,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 962212,
       "num": 962212,
       "word": "刘亦菲对于拍吻戏的回应真的清醒通透",
       "onboard_time": 1696051893,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 933987,
+      "num": 933987,
+      "word": "胡兵你是懂打码的",
+      "onboard_time": 1696059152,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 904172,
@@ -160,14 +176,6 @@
       "word": "你好星期六全员笑脸送国庆祝福",
       "onboard_time": 1696043615,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 873744,
-      "num": 873744,
-      "word": "胡兵你是懂打码的",
-      "onboard_time": 1696059152,
-      "rank": 43,
       "category": "综艺"
     },
     {
@@ -219,6 +227,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 683830,
+      "num": 487139,
+      "word": "和平项目中国队晋级总决赛",
+      "onboard_time": 1696061192,
+      "rank": 6,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 675217,
       "num": 532961,
       "word": "张小斐张嘉倪到底是在演什么",
@@ -233,6 +249,14 @@
       "onboard_time": 1695992799,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 628451,
+      "num": 216303,
+      "word": "张译 坚如磐石令我拍案叫绝",
+      "onboard_time": 1696062514,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 624362,
@@ -257,14 +281,6 @@
       "onboard_time": 1696003472,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 617736,
-      "num": 617736,
-      "word": "大部分人已经见完了此生的最后一面",
-      "onboard_time": 1696057654,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 616065,
@@ -355,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 527499,
+      "num": 261093,
+      "word": "新娘刚上婚车就睡着了",
+      "onboard_time": 1696061192,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510486,
       "num": 496755,
       "word": "张元英今年也不参加韩国高考",
@@ -403,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 487139,
-      "num": 487139,
-      "word": "和平项目中国队晋级总决赛",
-      "onboard_time": 1696061192,
-      "rank": 6,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 483593,
       "num": 483593,
       "word": "这一晚上给周深忙的",
@@ -425,6 +441,14 @@
       "onboard_time": 1696036472,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 464468,
+      "num": 464468,
+      "word": "特工任务高铁涉嫌泄密",
+      "onboard_time": 1696062032,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 449557,
@@ -539,12 +563,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 361838,
+      "raw_hot": 374728,
       "num": 344309,
       "word": "Jennie芭蕾风造型",
       "onboard_time": 1696050815,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 367438,
+      "num": 367438,
+      "word": "坚如磐石",
+      "onboard_time": 1696051234,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 353783,
@@ -601,14 +633,6 @@
       "onboard_time": 1695998141,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 331589,
-      "num": 331589,
-      "word": "坚如磐石",
-      "onboard_time": 1696051234,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 325358,
@@ -771,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 272758,
+      "num": 216144,
+      "word": "倪妮红丝袜",
+      "onboard_time": 1696062274,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271462,
       "num": 271462,
       "word": "网友巴黎偶遇白鹿吃火锅",
@@ -801,6 +833,14 @@
       "onboard_time": 1696048957,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 264192,
+      "num": 264192,
+      "word": "老君山坚持7年推出1元午餐",
+      "onboard_time": 1696061972,
+      "rank": 19,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 262997,
@@ -899,12 +939,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 240577,
+      "num": 240577,
+      "word": "品冠淘汰",
+      "onboard_time": 1696061494,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235898,
       "num": 430902,
       "word": "外国运动员组团扫货掏出计算器砍价",
       "onboard_time": 1696001735,
       "rank": 14,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 235326,
+      "num": 235326,
+      "word": "陈楚生跳舞跳到灵魂出走",
+      "onboard_time": 1696061615,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 235255,
@@ -987,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 217839,
+      "num": 217839,
+      "word": "DOTA2项目",
+      "onboard_time": 1696056155,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 217733,
       "num": 217733,
       "word": "外国运动员cos白娘子换徽章",
@@ -1011,22 +1075,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 215820,
-      "num": 215820,
-      "word": "DOTA2项目",
-      "onboard_time": 1696056155,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 214991,
-      "num": 214991,
-      "word": "陈楚生跳舞跳到灵魂出走",
-      "onboard_time": 1696061615,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 214522,
       "num": 214522,
       "word": "男生1人留守宿舍大扫除过中秋",
@@ -1035,8 +1083,8 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 212439,
-      "num": 212439,
+      "raw_hot": 213166,
+      "num": 213166,
       "word": "王俊凯回国机场图",
       "onboard_time": 1696060414,
       "rank": 33,
@@ -1155,14 +1203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199027,
-      "num": 199027,
-      "word": "品冠淘汰",
-      "onboard_time": 1696061494,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198142,
       "num": 198142,
       "word": "张嘉倪我那貌美的竹马千金回国了",
@@ -1219,14 +1259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190389,
-      "num": 190389,
-      "word": "新娘刚上婚车就睡着了",
-      "onboard_time": 1696061192,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190257,
       "num": 190257,
       "word": "新四军18岁牺牲的神枪手画像还原",
@@ -1273,6 +1305,14 @@
       "onboard_time": 1696047155,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186099,
+      "num": 186099,
+      "word": "DOTA2中国队晋级四强",
+      "onboard_time": 1696062635,
+      "rank": 41,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 185203,
@@ -1636,7 +1676,7 @@
     },
     {
       "raw_hot": 136905,
-      "num": 331121,
+      "num": 333506,
       "word": "肿瘤专家廖正银又回乡看诊了",
       "onboard_time": 1696058973,
       "rank": 23,
@@ -1820,7 +1860,7 @@
     },
     {
       "raw_hot": 113081,
-      "num": 374858,
+      "num": 941123,
       "word": "人民英雄永在心间",
       "onboard_time": 1696039414,
       "rank": 14,
