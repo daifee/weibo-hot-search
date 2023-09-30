@@ -1,6 +1,6 @@
 {
   "startTime": 1695485973922,
-  "endTime": 1696073638334,
+  "endTime": 1696076984645,
   "band_list": [
     {
       "raw_hot": 10926584,
@@ -35,6 +35,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 9363054,
+      "num": 9363054,
+      "word": "海产姐妹女双淘汰",
+      "onboard_time": 1696067437,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9291305,
       "num": 9291305,
       "word": "柯洁银牌",
@@ -56,14 +64,6 @@
       "word": "柯洁逆转",
       "onboard_time": 1695890856,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 8757746,
-      "num": 8757746,
-      "word": "海产姐妹女双淘汰",
-      "onboard_time": 1696067437,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1695626619,
       "rank": 1,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 8269127,
+      "num": 8269127,
+      "word": "陈梦王艺迪",
+      "onboard_time": 1696073620,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 8080481,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2044139,
+      "num": 2044139,
+      "word": "国乒无缘女双4强",
+      "onboard_time": 1696075244,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2033790,
       "num": 2033790,
       "word": "徐必成",
@@ -891,6 +907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1595030,
+      "num": 1358098,
+      "word": "马琳",
+      "onboard_time": 1696068522,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1589672,
       "num": 1589672,
       "word": "研招网崩了",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1695790420,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1503010,
+      "num": 1503010,
+      "word": "混双决赛",
+      "onboard_time": 1696073380,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 1499789,
@@ -1169,14 +1201,6 @@
       "onboard_time": 1695483339,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1358098,
-      "num": 1358098,
-      "word": "马琳",
-      "onboard_time": 1696068522,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 1352274,
@@ -2163,6 +2187,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 920250,
+      "num": 680187,
+      "word": "印度女双",
+      "onboard_time": 1696074636,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 914061,
       "num": 914061,
       "word": "北京一火锅店销毁2吨临期羊蝎子",
@@ -2595,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 810112,
+      "num": 810112,
+      "word": "张小斐演妈是妈演姐是姐",
+      "onboard_time": 1696067079,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 808570,
       "num": 808570,
       "word": "伊朗男双3比0横扫日本",
@@ -2753,6 +2793,14 @@
       "onboard_time": 1695693094,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 787388,
+      "num": 674986,
+      "word": "张嘉倪美杜莎式复古造型",
+      "onboard_time": 1696071460,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 787321,
@@ -2961,14 +3009,6 @@
       "onboard_time": 1695811772,
       "rank": 11,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 764921,
-      "num": 764921,
-      "word": "张小斐演妈是妈演姐是姐",
-      "onboard_time": 1696067079,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 763619,
@@ -3337,6 +3377,14 @@
       "onboard_time": 1695729642,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 711094,
+      "num": 666371,
+      "word": "喜报林双离婚了",
+      "onboard_time": 1696076564,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 710756,
@@ -5459,6 +5507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 493841,
+      "num": 493841,
+      "word": "你好星期六",
+      "onboard_time": 1696073798,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 493754,
       "num": 393095,
       "word": "龚俊穿了裙子",
@@ -5971,14 +6027,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 460786,
-      "num": 460786,
-      "word": "张嘉倪美杜莎式复古造型",
-      "onboard_time": 1696071460,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 460206,
       "num": 460206,
       "word": "汪顺馋哭外国迷妹",
@@ -6083,6 +6131,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 455441,
+      "num": 455441,
+      "word": "反复长期发炎可能是情绪炎症",
+      "onboard_time": 1696075127,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 454467,
       "num": 522909,
       "word": "丫丫也会吃自助餐了",
@@ -6176,6 +6232,14 @@
       "word": "吴艳妮12秒80晋级决赛",
       "onboard_time": 1696040554,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 449444,
+      "num": 449444,
+      "word": "羽毛球男团",
+      "onboard_time": 1696074400,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -7331,14 +7395,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 375609,
-      "num": 375609,
-      "word": "混双决赛",
-      "onboard_time": 1696073380,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 375166,
       "num": 375166,
       "word": "五月天广州",
@@ -7763,6 +7819,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 353748,
+      "num": 353748,
+      "word": "谁规定家务活一定要女生做",
+      "onboard_time": 1696073860,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353738,
       "num": 304452,
       "word": "女子喂猫发现有人投喂10多斤重冻鱼",
@@ -7849,6 +7913,14 @@
       "onboard_time": 1695968792,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 349492,
+      "num": 308029,
+      "word": "朝鲜女足4比1韩国女足",
+      "onboard_time": 1696076203,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 348783,
@@ -8593,6 +8665,14 @@
       "onboard_time": 1695697413,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 317027,
+      "num": 317027,
+      "word": "中国女足vs泰国女足",
+      "onboard_time": 1696074099,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 316863,
@@ -9355,6 +9435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 293691,
+      "num": 293691,
+      "word": "谢震业晋级亚运百米决赛",
+      "onboard_time": 1696075187,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 293561,
       "num": 293561,
       "word": "欧文要求大英博物馆归还文物",
@@ -9433,6 +9521,14 @@
       "onboard_time": 1695517171,
       "rank": 28,
       "category": "社会新闻,互联网"
+    },
+    {
+      "raw_hot": 290307,
+      "num": 290307,
+      "word": "坚如磐石豆瓣开分6.7",
+      "onboard_time": 1696076564,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 290297,
@@ -9961,6 +10057,14 @@
       "onboard_time": 1695819214,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275661,
+      "num": 275661,
+      "word": "王昶梁伟铿太能扛了",
+      "onboard_time": 1696074824,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 275434,
@@ -10763,6 +10867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257886,
+      "num": 257886,
+      "word": "HYBE与MBC不和的原因",
+      "onboard_time": 1696075662,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256601,
       "num": 256601,
       "word": "亚运冠军洪金权给赵今麦的生日祝福",
@@ -11001,6 +11113,14 @@
       "onboard_time": 1695962010,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250908,
+      "num": 250908,
+      "word": "中国男篮vs中国香港男篮",
+      "onboard_time": 1696074039,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 250756,
@@ -12003,14 +12123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 225402,
-      "num": 225402,
-      "word": "陈梦王艺迪",
-      "onboard_time": 1696073620,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225152,
       "num": 225152,
       "word": "田嘉瑞是写真拍热了吗",
@@ -12875,6 +12987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209790,
+      "num": 209790,
+      "word": "兵马俑快被挤到没地方站了",
+      "onboard_time": 1696076384,
+      "rank": 43,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 209631,
       "num": 201036,
       "word": "现在到杭州摆摊还来得及吗",
@@ -12969,6 +13089,14 @@
       "onboard_time": 1695734627,
       "rank": 45,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 208049,
+      "num": 208049,
+      "word": "石凯巡演金属风格造型",
+      "onboard_time": 1696076801,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 207954,
@@ -18548,7 +18676,7 @@
     },
     {
       "raw_hot": 113081,
-      "num": 2928940,
+      "num": 4304978,
       "word": "人民英雄永在心间",
       "onboard_time": 1696039414,
       "rank": 14,
@@ -20265,6 +20393,14 @@
       "onboard_time": 1695538831,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 23255,
+      "num": 173576,
+      "word": "谢震业冲刺百米金牌",
+      "onboard_time": 1696076801,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 23151,

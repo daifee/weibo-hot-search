@@ -1,0 +1,410 @@
+{
+  "runTime": 1696076984645,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9363054,
+        "num": 9363054,
+        "word": "海产姐妹女双淘汰",
+        "onboard_time": 1696067437,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8269127,
+        "num": 8269127,
+        "word": "陈梦王艺迪",
+        "onboard_time": 1696073620,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14804,
+        "num": 4304978,
+        "word": "人民英雄永在心间",
+        "onboard_time": 1696039414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6875955,
+        "num": 6875955,
+        "word": "女双",
+        "onboard_time": 1696066297,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2044139,
+        "num": 2044139,
+        "word": "国乒无缘女双4强",
+        "onboard_time": 1696075244,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1503010,
+        "num": 1503010,
+        "word": "混双决赛",
+        "onboard_time": 1696073380,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1447730,
+        "num": 1447730,
+        "word": "LV老板涉嫌洗钱受到调查",
+        "onboard_time": 1696069662,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810112,
+        "num": 810112,
+        "word": "张小斐演妈是妈演姐是姐",
+        "onboard_time": 1696067079,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 681489,
+        "num": 681489,
+        "word": "梁靖崑林高远止步亚运八强",
+        "onboard_time": 1696057432,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 920250,
+        "num": 680187,
+        "word": "印度女双",
+        "onboard_time": 1696074636,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1595030,
+        "num": 678190,
+        "word": "马琳",
+        "onboard_time": 1696068522,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1044240,
+        "num": 676803,
+        "word": "王皓",
+        "onboard_time": 1696057954,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 787388,
+        "num": 674986,
+        "word": "张嘉倪美杜莎式复古造型",
+        "onboard_time": 1696071460,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 368244,
+        "num": 673813,
+        "word": "全红婵陈芋汐双人10米台冠军",
+        "onboard_time": 1696069241,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308531,
+        "num": 670882,
+        "word": "樊振东4比0庄智渊",
+        "onboard_time": 1696072837,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 782870,
+        "num": 670267,
+        "word": "乒乓球没有应该",
+        "onboard_time": 1696057654,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 721249,
+        "num": 668217,
+        "word": "男双",
+        "onboard_time": 1696056813,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711094,
+        "num": 666371,
+        "word": "喜报林双离婚了",
+        "onboard_time": 1696076564,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665249,
+        "num": 665249,
+        "word": "Jisoo和高旻示在巴黎共进晚餐",
+        "onboard_time": 1696071701,
+        "rank": 18,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 566815,
+        "num": 566815,
+        "word": "吴昕刘海下还藏了一层刘海",
+        "onboard_time": 1696073079,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 625668,
+        "num": 564146,
+        "word": "男子尿急误把高架当隔离带一跃而下",
+        "onboard_time": 1696059335,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553942,
+        "num": 553942,
+        "word": "孙颖莎收到3个pin",
+        "onboard_time": 1696066895,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 548495,
+        "num": 548495,
+        "word": "张译 坚如磐石令我拍案叫绝",
+        "onboard_time": 1696062514,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 493841,
+        "num": 493841,
+        "word": "你好星期六",
+        "onboard_time": 1696073798,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455873,
+        "num": 455873,
+        "word": "张本智和结束亚运征程",
+        "onboard_time": 1696072782,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455441,
+        "num": 455441,
+        "word": "反复长期发炎可能是情绪炎症",
+        "onboard_time": 1696075127,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 449444,
+        "num": 449444,
+        "word": "羽毛球男团",
+        "onboard_time": 1696074400,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359287,
+        "num": 359287,
+        "word": "张本美和",
+        "onboard_time": 1696067437,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353748,
+        "num": 353748,
+        "word": "谁规定家务活一定要女生做",
+        "onboard_time": 1696073860,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317027,
+        "num": 317027,
+        "word": "中国女足vs泰国女足",
+        "onboard_time": 1696074099,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349492,
+        "num": 308029,
+        "word": "朝鲜女足4比1韩国女足",
+        "onboard_time": 1696076203,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293691,
+        "num": 293691,
+        "word": "谢震业晋级亚运百米决赛",
+        "onboard_time": 1696075187,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293649,
+        "num": 293649,
+        "word": "林双除了渣男别的都要",
+        "onboard_time": 1696063772,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290307,
+        "num": 290307,
+        "word": "坚如磐石豆瓣开分6.7",
+        "onboard_time": 1696076564,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276486,
+        "num": 276486,
+        "word": "蜜雪冰城在越南被抗议了",
+        "onboard_time": 1696065814,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 275661,
+        "num": 275661,
+        "word": "王昶梁伟铿太能扛了",
+        "onboard_time": 1696074824,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257886,
+        "num": 257886,
+        "word": "HYBE与MBC不和的原因",
+        "onboard_time": 1696075662,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250908,
+        "num": 250908,
+        "word": "中国男篮vs中国香港男篮",
+        "onboard_time": 1696074039,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246869,
+        "num": 246869,
+        "word": "倪妮红丝袜",
+        "onboard_time": 1696062274,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240124,
+        "num": 240124,
+        "word": "想谈恋爱又不敢走出单身舒适区",
+        "onboard_time": 1696063237,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235834,
+        "num": 235834,
+        "word": "全红婵贴墙逃采访",
+        "onboard_time": 1696071701,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233437,
+        "num": 233437,
+        "word": "全红婵陈芋汐水花消失术训练日常",
+        "onboard_time": 1696067142,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222418,
+        "num": 222418,
+        "word": "杨幂时装周爽文女主",
+        "onboard_time": 1696072121,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209790,
+        "num": 209790,
+        "word": "兵马俑快被挤到没地方站了",
+        "onboard_time": 1696076384,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 208049,
+        "num": 208049,
+        "word": "石凯巡演金属风格造型",
+        "onboard_time": 1696076801,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202441,
+        "num": 202441,
+        "word": "乒乓球",
+        "onboard_time": 1696052134,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201505,
+        "num": 201505,
+        "word": "突然有了50000元你会干啥",
+        "onboard_time": 1696064614,
+        "rank": 46,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 191642,
+        "num": 191642,
+        "word": "坚如磐石",
+        "onboard_time": 1696051234,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182758,
+        "num": 182758,
+        "word": "十个勤天音乐节",
+        "onboard_time": 1696071039,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23255,
+        "num": 173576,
+        "word": "谢震业冲刺百米金牌",
+        "onboard_time": 1696076801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记英烈遗志传承英烈风骨#"
+    }
+  }
+}
