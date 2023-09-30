@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696072376509,
+  "endTime": 1696073638334,
   "band_list": [
     {
       "raw_hot": 8997578,
@@ -25,6 +25,14 @@
       "onboard_time": 1695991240,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2621694,
+      "num": 2621694,
+      "word": "LV老板涉嫌洗钱受到调查",
+      "onboard_time": 1696069662,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2383152,
@@ -57,14 +65,6 @@
       "onboard_time": 1696031246,
       "rank": 0,
       "category": "情感"
-    },
-    {
-      "raw_hot": 2119879,
-      "num": 2119879,
-      "word": "LV老板涉嫌洗钱受到调查",
-      "onboard_time": 1696069662,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2119458,
@@ -128,6 +128,14 @@
       "word": "亲戚都以为樊振东是我男朋友",
       "onboard_time": 1696047213,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1253318,
+      "num": 1253318,
+      "word": "张本智和结束亚运征程",
+      "onboard_time": 1696072782,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -275,6 +283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 813384,
+      "num": 717695,
+      "word": "Jisoo和高旻示在巴黎共进晚餐",
+      "onboard_time": 1696071701,
+      "rank": 31,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 808570,
       "num": 808570,
       "word": "伊朗男双3比0横扫日本",
@@ -329,6 +345,14 @@
       "onboard_time": 1696052973,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 730816,
+      "num": 730816,
+      "word": "吴昕刘海下还藏了一层刘海",
+      "onboard_time": 1696073079,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 726677,
@@ -555,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 483971,
+      "num": 483971,
+      "word": "全红婵贴墙逃采访",
+      "onboard_time": 1696071701,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 483593,
       "num": 483593,
       "word": "这一晚上给周深忙的",
@@ -585,6 +617,22 @@
       "onboard_time": 1696036472,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 462885,
+      "num": 2623892,
+      "word": "樊振东4比0庄智渊",
+      "onboard_time": 1696072837,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 460786,
+      "num": 460786,
+      "word": "张嘉倪美杜莎式复古造型",
+      "onboard_time": 1696071460,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 449557,
@@ -707,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 400805,
+      "num": 400805,
+      "word": "王昶帅的太超过了",
+      "onboard_time": 1696071819,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 398441,
       "num": 398441,
       "word": "DOTA2中国队晋级四强",
@@ -731,27 +787,19 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 385492,
-      "num": 259809,
-      "word": "全红婵贴墙逃采访",
-      "onboard_time": 1696071701,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 384452,
-      "num": 258841,
-      "word": "Jisoo和高旻示在巴黎共进晚餐",
-      "onboard_time": 1696071701,
-      "rank": 31,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 381420,
       "num": 381420,
       "word": "朝鲜举重选手破世界纪录夺金",
       "onboard_time": 1696064674,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 375609,
+      "num": 375609,
+      "word": "混双决赛",
+      "onboard_time": 1696073380,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -803,14 +851,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 343949,
-      "num": 343949,
-      "word": "张嘉倪美杜莎式复古造型",
-      "onboard_time": 1696071460,
-      "rank": 24,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 337317,
       "num": 337317,
       "word": "九尾没上大名单",
@@ -833,6 +873,14 @@
       "onboard_time": 1695998141,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 325584,
+      "num": 308424,
+      "word": "张本智和期待妹妹和中国队比赛能赢",
+      "onboard_time": 1696072782,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 325358,
@@ -971,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304460,
+      "num": 304460,
+      "word": "杨幂时装周爽文女主",
+      "onboard_time": 1696072121,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290792,
       "num": 311614,
       "word": "于适精神状态还好吗",
@@ -995,20 +1051,20 @@
       "category": "国内要闻,旅游"
     },
     {
+      "raw_hot": 285467,
+      "num": 285467,
+      "word": "亚运会羽毛球",
+      "onboard_time": 1696070139,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283991,
       "num": 283991,
       "word": "周深直播",
       "onboard_time": 1695987457,
       "rank": 23,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283988,
-      "num": 283988,
-      "word": "王昶帅的太超过了",
-      "onboard_time": 1696071819,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 281785,
@@ -1332,7 +1388,7 @@
     },
     {
       "raw_hot": 227838,
-      "num": 1413577,
+      "num": 2727057,
       "word": "列车进站男童冲向轨道被一把抱回",
       "onboard_time": 1696066836,
       "rank": 29,
@@ -1345,6 +1401,14 @@
       "onboard_time": 1696063717,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225402,
+      "num": 225402,
+      "word": "陈梦王艺迪",
+      "onboard_time": 1696073620,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 224984,
@@ -1427,14 +1491,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 213190,
-      "num": 213190,
-      "word": "亚运会羽毛球",
-      "onboard_time": 1696070139,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213166,
       "num": 213166,
       "word": "王俊凯回国机场图",
@@ -1457,14 +1513,6 @@
       "onboard_time": 1696008860,
       "rank": 11,
       "category": "艺人,旅游"
-    },
-    {
-      "raw_hot": 211739,
-      "num": 211739,
-      "word": "杨幂时装周爽文女主",
-      "onboard_time": 1696072121,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211709,
@@ -1715,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187657,
+      "num": 187657,
+      "word": "杨玏好像陷入了父爱循环",
+      "onboard_time": 1696073079,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187635,
       "num": 187635,
       "word": "10岁女孩每周和爸爸一起骑马巡边",
@@ -1737,6 +1793,14 @@
       "onboard_time": 1696058134,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181987,
+      "num": 181987,
+      "word": "大鹏 我在大吉他广场等到自己",
+      "onboard_time": 1696072720,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 180281,
