@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696039350042,
+  "endTime": 1696040469509,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -27,20 +27,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1668404,
+      "num": 1668404,
+      "word": "长期吃西红柿真的能变白吗",
+      "onboard_time": 1696036231,
+      "rank": 10,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1622362,
       "num": 1622362,
       "word": "封神榜纣王饰演者去世",
       "onboard_time": 1696001496,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1608668,
-      "num": 1608668,
-      "word": "长期吃西红柿真的能变白吗",
-      "onboard_time": 1696036231,
-      "rank": 10,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1471960,
@@ -131,6 +131,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 554858,
+      "num": 400578,
+      "word": "火车上有卖卫生巾了",
+      "onboard_time": 1696038752,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550096,
       "num": 550096,
       "word": "黄绮珊为跑调道歉",
@@ -203,14 +211,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 400578,
-      "num": 400578,
-      "word": "火车上有卖卫生巾了",
-      "onboard_time": 1696038752,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 391603,
       "num": 391603,
       "word": "许家印为何被采取强制措施",
@@ -219,20 +219,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384722,
+      "num": 218225,
+      "word": "原来这才叫休息",
+      "onboard_time": 1696039594,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 370822,
+      "num": 370822,
+      "word": "胡兵王心凌信20年前的合影",
+      "onboard_time": 1696039353,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 336603,
+      "num": 336603,
+      "word": "成毅拍的月亮",
+      "onboard_time": 1696037854,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336277,
       "num": 336277,
       "word": "农村自建房都是这么豪华吗",
       "onboard_time": 1696037793,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 333561,
-      "num": 333561,
-      "word": "成毅拍的月亮",
-      "onboard_time": 1696037854,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 332890,
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308899,
+      "num": 308899,
+      "word": "小长假不得连炫八天甄嬛传",
+      "onboard_time": 1696039233,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306756,
       "num": 306756,
       "word": "徐嘉余 两届亚运未尝一败",
@@ -355,6 +379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 261496,
+      "num": 261496,
+      "word": "韩国人真这么吃饭吗",
+      "onboard_time": 1696039113,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 254561,
       "num": 254561,
       "word": "迪丽热巴巴黎街头的美神",
@@ -369,6 +401,22 @@
       "onboard_time": 1696037014,
       "rank": 11,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 247247,
+      "num": 409098,
+      "word": "中秋国庆假期第2天你在干什么",
+      "onboard_time": 1696036535,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 245553,
+      "num": 245553,
+      "word": "周深直播背景布下班了",
+      "onboard_time": 1696037912,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 243646,
@@ -411,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231373,
-      "num": 409098,
-      "word": "中秋国庆假期第2天你在干什么",
-      "onboard_time": 1696036535,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229978,
       "num": 270297,
       "word": "一个樊振东有两个全红婵大",
@@ -441,6 +481,14 @@
       "onboard_time": 1695997540,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212584,
+      "num": 212584,
+      "word": "檀健次拍的中秋节月亮",
+      "onboard_time": 1696039233,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 211820,
@@ -489,22 +537,6 @@
       "onboard_time": 1695992920,
       "rank": 44,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 194637,
-      "num": 193009,
-      "word": "周深直播背景布下班了",
-      "onboard_time": 1696037912,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 194158,
-      "num": 194158,
-      "word": "小长假不得连炫八天甄嬛传",
-      "onboard_time": 1696039233,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 190846,
@@ -571,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174675,
+      "num": 174675,
+      "word": "妈妈 今年带这么多朋友来过节啊",
+      "onboard_time": 1696040192,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 174119,
       "num": 174119,
       "word": "杨幂送外国友人中国瓷器",
@@ -585,6 +625,14 @@
       "onboard_time": 1696036294,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162822,
+      "num": 162822,
+      "word": "女生遇到crush可能是精心策划骗局",
+      "onboard_time": 1696039892,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 161933,
@@ -627,12 +675,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 155679,
-      "num": 155679,
-      "word": "檀健次拍的中秋节月亮",
-      "onboard_time": 1696039233,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 157568,
+      "num": 157568,
+      "word": "为什么小学生集体痴迷萝卜刀",
+      "onboard_time": 1696040373,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 152859,
@@ -649,14 +697,6 @@
       "onboard_time": 1696004490,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147185,
-      "num": 147185,
-      "word": "韩国人真这么吃饭吗",
-      "onboard_time": 1696039113,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 146783,
@@ -763,12 +803,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 130782,
-      "num": 130782,
+      "raw_hot": 133652,
+      "num": 133652,
+      "word": "著名表演艺术家达奇去世",
+      "onboard_time": 1696039174,
+      "rank": 45,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 131278,
+      "num": 131278,
       "word": "爱心厨房连续6年为白血病孩子过中秋",
       "onboard_time": 1696037075,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130956,
+      "num": 122090,
+      "word": "中秋天府双塔有多美",
+      "onboard_time": 1696040073,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 129815,
@@ -777,14 +833,6 @@
       "onboard_time": 1696037432,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129085,
-      "num": 129085,
-      "word": "著名表演艺术家达奇去世",
-      "onboard_time": 1696039174,
-      "rank": 45,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 126433,
@@ -819,6 +867,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 123486,
+      "num": 123486,
+      "word": "没想到高铁也会超载",
+      "onboard_time": 1696040013,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 122336,
       "num": 176896,
       "word": "王楚钦小心翼翼试探生气的教练",
@@ -844,7 +900,7 @@
     },
     {
       "raw_hot": 115562,
-      "num": 269920,
+      "num": 375310,
       "word": "杭州夜景一整个惊艳",
       "onboard_time": 1696038337,
       "rank": 26,
@@ -865,6 +921,14 @@
       "onboard_time": 1696029683,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113081,
+      "num": 374858,
+      "word": "人民英雄永在心间",
+      "onboard_time": 1696039414,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 109724,
@@ -923,6 +987,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 91150,
+      "num": 1305421,
+      "word": "盛世中华 大美中国",
+      "onboard_time": 1696036654,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86470,
       "num": 86231,
       "word": "王栎鑫首谈离婚经历",
@@ -969,14 +1041,6 @@
       "onboard_time": 1696011018,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77982,
-      "num": 1305421,
-      "word": "盛世中华 大美中国",
-      "onboard_time": 1696036654,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 76903,
