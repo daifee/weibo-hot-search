@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696112103476,
+  "endTime": 1696113231827,
   "band_list": [
     {
       "raw_hot": 2450068,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93317,
+      "num": 93317,
+      "word": "央视新闻里的吉克隽逸",
+      "onboard_time": 1696079322,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83540,
       "num": 56631,
       "word": "新中国成立74周年",
@@ -451,14 +459,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 62498,
-      "num": 62498,
-      "word": "央视新闻里的吉克隽逸",
-      "onboard_time": 1696079322,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62075,
       "num": 1350300,
       "word": "亚运赛场最动人的瞬间不只有夺金",
@@ -483,6 +483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44122,
+      "num": 44122,
+      "word": "刘诗诗狐妖竹叶篇绿衣路透图",
+      "onboard_time": 1696108274,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42674,
       "num": 45543,
       "word": "薛之谦滁州演唱会",
@@ -491,15 +499,15 @@
       "category": "演出"
     },
     {
-      "raw_hot": 33697,
-      "num": 33697,
-      "word": "刘诗诗狐妖竹叶篇绿衣路透图",
-      "onboard_time": 1696108274,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 31047,
+      "num": 31047,
+      "word": "薛之谦在台上好忙活",
+      "onboard_time": 1696112358,
+      "rank": 37,
+      "category": "综艺"
     },
     {
-      "raw_hot": 5813,
+      "raw_hot": 9095,
       "num": 350404,
       "word": "盛世中华 大美中国",
       "onboard_time": 1696036654,
