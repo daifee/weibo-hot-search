@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696044850944,
+  "endTime": 1696047570271,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -27,6 +27,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2145285,
+      "num": 2145285,
+      "word": "原来这才叫休息",
+      "onboard_time": 1696039594,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1763269,
       "num": 1763269,
       "word": "长期吃西红柿真的能变白吗",
@@ -49,14 +57,6 @@
       "onboard_time": 1695999815,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1251540,
-      "num": 1251540,
-      "word": "原来这才叫休息",
-      "onboard_time": 1696039594,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 1115381,
@@ -107,6 +107,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 683547,
+      "num": 417360,
+      "word": "亲戚都以为樊振东是我男朋友",
+      "onboard_time": 1696047213,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675217,
       "num": 532961,
       "word": "张小斐张嘉倪到底是在演什么",
@@ -155,6 +163,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 593215,
+      "num": 593215,
+      "word": "女子买票被抢票软件提示多买12站",
+      "onboard_time": 1696041874,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 554858,
       "num": 400578,
       "word": "火车上有卖卫生巾了",
@@ -171,19 +187,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 535547,
+      "num": 413952,
+      "word": "Jennie顺毛",
+      "onboard_time": 1696046913,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 533931,
       "num": 533931,
       "word": "女子水果里藏49只昆虫入境被查",
       "onboard_time": 1696030283,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 530582,
-      "num": 530582,
-      "word": "女子买票被抢票软件提示多买12站",
-      "onboard_time": 1696041874,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -203,12 +219,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 498921,
+      "num": 406742,
+      "word": "爱意养人 总算不是小演员了",
+      "onboard_time": 1696045774,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 495013,
       "num": 495013,
       "word": "于湉自曝曾患红斑狼疮",
       "onboard_time": 1696002273,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 489391,
+      "num": 489391,
+      "word": "被黄晓明和实习生的共情触动到了",
+      "onboard_time": 1696045293,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 483593,
@@ -275,6 +307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 396094,
+      "num": 396094,
+      "word": "患者不遵医嘱过世医生该不该负责",
+      "onboard_time": 1696046913,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 391603,
       "num": 391603,
       "word": "许家印为何被采取强制措施",
@@ -329,6 +369,14 @@
       "onboard_time": 1695991060,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325322,
+      "num": 325322,
+      "word": "吴昕 解决情绪比较有效的就是哭",
+      "onboard_time": 1696045293,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 323184,
@@ -635,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210634,
+      "num": 176873,
+      "word": "消防员火场中推开战友自己却被砸牺牲",
+      "onboard_time": 1696046254,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209578,
       "num": 209578,
       "word": "为什么感觉凤凰传奇的歌越来越潮",
@@ -689,6 +745,14 @@
       "onboard_time": 1695997901,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198838,
+      "num": 176333,
+      "word": "坚如磐石 吕布怎么跟着刘备混了",
+      "onboard_time": 1696046793,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 198142,
@@ -755,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187635,
+      "num": 187635,
+      "word": "10岁女孩每周和爸爸一起骑马巡边",
+      "onboard_time": 1696047155,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185203,
       "num": 185203,
       "word": "白百何中秋节送上了全部的存货",
@@ -785,6 +857,14 @@
       "onboard_time": 1696042535,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177229,
+      "num": 177229,
+      "word": "一封信曝光四名武大医学生义举",
+      "onboard_time": 1696046495,
+      "rank": 29,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 176615,
@@ -819,6 +899,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 161053,
+      "num": 161053,
+      "word": "陈雨菲",
+      "onboard_time": 1696044154,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160931,
       "num": 291944,
       "word": "烈士纪念日",
@@ -833,6 +921,14 @@
       "onboard_time": 1695997361,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159357,
+      "num": 159357,
+      "word": "专科男子去日本做程序员年薪40万",
+      "onboard_time": 1696047276,
+      "rank": 42,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 159071,
@@ -857,14 +953,6 @@
       "onboard_time": 1696044635,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157688,
-      "num": 157688,
-      "word": "陈雨菲",
-      "onboard_time": 1696044154,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 154885,
@@ -913,6 +1001,14 @@
       "onboard_time": 1696000539,
       "rank": 36,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 143624,
+      "num": 143624,
+      "word": "坚如磐石删减",
+      "onboard_time": 1696046195,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 143325,
@@ -1257,6 +1353,14 @@
       "onboard_time": 1695990699,
       "rank": 39,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 72876,
+      "num": 161767,
+      "word": "张雨霏池江璃花子赛后相拥落泪",
+      "onboard_time": 1696047453,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 72220,
