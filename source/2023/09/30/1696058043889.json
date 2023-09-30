@@ -1,0 +1,410 @@
+{
+  "runTime": 1696058043889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972219,
+        "num": 1972219,
+        "word": "原来这才叫休息",
+        "onboard_time": 1696039594,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1224428,
+        "num": 1224428,
+        "word": "男双",
+        "onboard_time": 1696056813,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48657,
+        "num": 973729,
+        "word": "盛世中华 大美中国",
+        "onboard_time": 1696036654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962212,
+        "num": 962212,
+        "word": "刘亦菲对于拍吻戏的回应真的清醒通透",
+        "onboard_time": 1696051893,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 831727,
+        "num": 831727,
+        "word": "50000能改变你的生活吗",
+        "onboard_time": 1696053272,
+        "rank": 4,
+        "category": "情感,社会新闻"
+      },
+      {
+        "raw_hot": 779444,
+        "num": 779444,
+        "word": "亲戚都以为樊振东是我男朋友",
+        "onboard_time": 1696047213,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774994,
+        "num": 774994,
+        "word": "高铁因超员触发警报无法发车",
+        "onboard_time": 1696053333,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599496,
+        "num": 599496,
+        "word": "Joker杀疯了",
+        "onboard_time": 1696052973,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 443005,
+        "num": 443005,
+        "word": "乒乓球",
+        "onboard_time": 1696052134,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433158,
+        "num": 433158,
+        "word": "38岁知名私募董事长逝世",
+        "onboard_time": 1696054651,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 734792,
+        "num": 429078,
+        "word": "梁靖崑林高远止步亚运八强",
+        "onboard_time": 1696057432,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107167,
+        "num": 425234,
+        "word": "中国男网时隔29年再夺单打金牌",
+        "onboard_time": 1696054472,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110946,
+        "num": 414037,
+        "word": "中秋国庆假期第2天你在干什么",
+        "onboard_time": 1696036535,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97393,
+        "num": 403961,
+        "word": "这鱼看着真能驮起小孩儿",
+        "onboard_time": 1696048895,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90575,
+        "num": 398435,
+        "word": "孙颖莎4比1卞松京",
+        "onboard_time": 1696052733,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 707043,
+        "num": 387918,
+        "word": "林萧你现在美得可真高级",
+        "onboard_time": 1696054951,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 542643,
+        "num": 385385,
+        "word": "车上内外循环千万不要乱用",
+        "onboard_time": 1696052313,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 535453,
+        "num": 378785,
+        "word": "Jennie顺毛",
+        "onboard_time": 1696046913,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371357,
+        "num": 371357,
+        "word": "吉克隽逸的头发长1米3",
+        "onboard_time": 1696054530,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 350889,
+        "num": 350889,
+        "word": "高启强狂飙 坚如磐石互飙",
+        "onboard_time": 1696052013,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321008,
+        "num": 321008,
+        "word": "12306回应乘客补票被赶下车",
+        "onboard_time": 1696048596,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307850,
+        "num": 307850,
+        "word": "檀健次央视秋晚封神版本",
+        "onboard_time": 1696047814,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304618,
+        "num": 304618,
+        "word": "周放居然是还珠格格的柳红",
+        "onboard_time": 1696036352,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242319,
+        "num": 242319,
+        "word": "和平精英项目",
+        "onboard_time": 1696056932,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 241026,
+        "num": 241026,
+        "word": "九尾没上大名单",
+        "onboard_time": 1696053333,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219371,
+        "num": 219371,
+        "word": "王皓",
+        "onboard_time": 1696057954,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219339,
+        "num": 219339,
+        "word": "坚如磐石",
+        "onboard_time": 1696051234,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214661,
+        "num": 214661,
+        "word": "志愿军 不像陈凯歌拍的",
+        "onboard_time": 1696049976,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202084,
+        "num": 202084,
+        "word": "杨紫前往巴黎时装周",
+        "onboard_time": 1696049075,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 201869,
+        "num": 201869,
+        "word": "张栋梁不会坏笑",
+        "onboard_time": 1696055371,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287648,
+        "num": 201667,
+        "word": "双节假期国内预计8.96亿人次出游",
+        "onboard_time": 1696057413,
+        "rank": 30,
+        "category": "国内要闻,旅游"
+      },
+      {
+        "raw_hot": 260705,
+        "num": 201186,
+        "word": "坚如磐石 张艺谋老骥伏枥",
+        "onboard_time": 1696057893,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206795,
+        "num": 200040,
+        "word": "这个假期敢去杭州的都是勇士",
+        "onboard_time": 1696057713,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 194642,
+        "num": 194642,
+        "word": "Jennie芭蕾风造型",
+        "onboard_time": 1696050815,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190385,
+        "num": 191505,
+        "word": "患者不遵医嘱过世医生该不该负责",
+        "onboard_time": 1696046913,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191365,
+        "num": 191365,
+        "word": "DOTA2项目",
+        "onboard_time": 1696056155,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191237,
+        "num": 191237,
+        "word": "专科男子去日本做程序员年薪40万",
+        "onboard_time": 1696047276,
+        "rank": 36,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 182209,
+        "num": 182209,
+        "word": "iPhone拍中秋月亮",
+        "onboard_time": 1696048055,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 181818,
+        "num": 181818,
+        "word": "FoFo 这一次真的很开心",
+        "onboard_time": 1696057713,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178151,
+        "num": 178151,
+        "word": "杨幂在法国穿旗袍过中秋",
+        "onboard_time": 1696041394,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 167420,
+        "num": 167420,
+        "word": "乒乓球没有应该",
+        "onboard_time": 1696057654,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165333,
+        "num": 165333,
+        "word": "时装周还得看85花",
+        "onboard_time": 1696054831,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164292,
+        "num": 164292,
+        "word": "长期吃西红柿真的能变白吗",
+        "onboard_time": 1696036231,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161163,
+        "num": 161163,
+        "word": "大部分人已经见完了此生的最后一面",
+        "onboard_time": 1696057654,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 158971,
+        "num": 158971,
+        "word": "李莲花 疯着死很好啊",
+        "onboard_time": 1696047934,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 157256,
+        "num": 157256,
+        "word": "早田希娜",
+        "onboard_time": 1696054233,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156908,
+        "num": 156908,
+        "word": "爱意养人 总算不是小演员了",
+        "onboard_time": 1696045774,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150616,
+        "num": 150616,
+        "word": "ive恶女造型",
+        "onboard_time": 1696054591,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 143311,
+        "num": 143311,
+        "word": "张雨绮好大的耳环",
+        "onboard_time": 1696053694,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138420,
+        "num": 138420,
+        "word": "4人登山迷路失联见消防员像看到光",
+        "onboard_time": 1696057713,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#向烈士致敬#"
+    }
+  }
+}
