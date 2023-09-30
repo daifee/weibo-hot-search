@@ -1,0 +1,410 @@
+{
+  "runTime": 1696066426853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1845009,
+        "num": 1845009,
+        "word": "大部分人已经见完了此生的最后一面",
+        "onboard_time": 1696057654,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 913911,
+        "num": 913911,
+        "word": "张译 坚如磐石令我拍案叫绝",
+        "onboard_time": 1696062514,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30899,
+        "num": 834499,
+        "word": "人民英雄永在心间",
+        "onboard_time": 1696039414,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797617,
+        "num": 797617,
+        "word": "伊朗男双3比0横扫日本",
+        "onboard_time": 1696063176,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 731632,
+        "num": 731632,
+        "word": "想谈恋爱又不敢走出单身舒适区",
+        "onboard_time": 1696063237,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 731509,
+        "num": 731509,
+        "word": "胡兵你是懂打码的",
+        "onboard_time": 1696059152,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 706193,
+        "num": 706193,
+        "word": "梁靖崑林高远止步亚运八强",
+        "onboard_time": 1696057432,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633788,
+        "num": 633788,
+        "word": "原来这才叫休息",
+        "onboard_time": 1696039594,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 482529,
+        "num": 482529,
+        "word": "林双除了渣男别的都要",
+        "onboard_time": 1696063772,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390835,
+        "num": 390835,
+        "word": "坚如磐石",
+        "onboard_time": 1696051234,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1931479,
+        "num": 390772,
+        "word": "王皓",
+        "onboard_time": 1696057954,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 607211,
+        "num": 390368,
+        "word": "离婚啦单身啦骗骗别人可以",
+        "onboard_time": 1696064674,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389309,
+        "num": 389309,
+        "word": "台湾鸡蛋价格是大陆两倍",
+        "onboard_time": 1696064795,
+        "rank": 12,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 189687,
+        "num": 389247,
+        "word": "张雨霏与池江璃花子的杭州之约",
+        "onboard_time": 1696063955,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46657,
+        "num": 388115,
+        "word": "支付宝直播间给女排攒了个过年局",
+        "onboard_time": 1696064433,
+        "rank": 14,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 531578,
+        "num": 387031,
+        "word": "蜜雪冰城在越南被抗议了",
+        "onboard_time": 1696065814,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 523483,
+        "num": 385758,
+        "word": "乒乓球没有应该",
+        "onboard_time": 1696057654,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443249,
+        "num": 384987,
+        "word": "和平项目中国队晋级总决赛",
+        "onboard_time": 1696061192,
+        "rank": 17,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 384399,
+        "num": 384399,
+        "word": "男双",
+        "onboard_time": 1696056813,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381420,
+        "num": 381420,
+        "word": "朝鲜举重选手破世界纪录夺金",
+        "onboard_time": 1696064674,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 885083,
+        "num": 370178,
+        "word": "男子尿急误把高架当隔离带一跃而下",
+        "onboard_time": 1696059335,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356838,
+        "num": 356838,
+        "word": "林萧你现在美得可真高级",
+        "onboard_time": 1696054951,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 311154,
+        "num": 311154,
+        "word": "养殖户5G养牛年均收入4万5",
+        "onboard_time": 1696065216,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 336079,
+        "num": 310821,
+        "word": "Jennie芭蕾风造型",
+        "onboard_time": 1696050815,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 310381,
+        "num": 310381,
+        "word": "倪妮红丝袜",
+        "onboard_time": 1696062274,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 307869,
+        "num": 307869,
+        "word": "特工任务高铁涉嫌泄密",
+        "onboard_time": 1696062032,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306900,
+        "num": 306900,
+        "word": "DOTA2中国队晋级四强",
+        "onboard_time": 1696062635,
+        "rank": 26,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 306016,
+        "num": 306016,
+        "word": "突然有了50000元你会干啥",
+        "onboard_time": 1696064614,
+        "rank": 27,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 304322,
+        "num": 304322,
+        "word": "Jennie顺毛",
+        "onboard_time": 1696046913,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276631,
+        "num": 276631,
+        "word": "新娘刚上婚车就睡着了",
+        "onboard_time": 1696061192,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82386,
+        "num": 260551,
+        "word": "中秋国庆假期第2天你在干什么",
+        "onboard_time": 1696036535,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310011,
+        "num": 257353,
+        "word": "申真谞战胜柯洁",
+        "onboard_time": 1696065757,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252249,
+        "num": 252249,
+        "word": "女双",
+        "onboard_time": 1696066297,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229972,
+        "num": 229972,
+        "word": "为什么前任4是系列最佳",
+        "onboard_time": 1696058854,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221610,
+        "num": 221610,
+        "word": "张雨霏说1米85八块腹肌是游泳队标配",
+        "onboard_time": 1696066116,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220462,
+        "num": 220462,
+        "word": "赵露思清透韩妆",
+        "onboard_time": 1696065336,
+        "rank": 35,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 214764,
+        "num": 214764,
+        "word": "邓为风度10月刊双封面",
+        "onboard_time": 1696063355,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195762,
+        "num": 195762,
+        "word": "陈楚生跳舞跳到灵魂出走",
+        "onboard_time": 1696061615,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168515,
+        "num": 168515,
+        "word": "亲戚都以为樊振东是我男朋友",
+        "onboard_time": 1696047213,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168158,
+        "num": 168158,
+        "word": "品冠淘汰",
+        "onboard_time": 1696061494,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167417,
+        "num": 167417,
+        "word": "医生家长用家校联系本给老师开药方",
+        "onboard_time": 1696065998,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 165738,
+        "num": 165738,
+        "word": "中秋节轻轨工作人员统一穿汉服",
+        "onboard_time": 1696063717,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165227,
+        "num": 165227,
+        "word": "CHN冠军",
+        "onboard_time": 1696066357,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 149881,
+        "num": 149881,
+        "word": "周放居然是还珠格格的柳红",
+        "onboard_time": 1696036352,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149003,
+        "num": 149003,
+        "word": "脑补DOTA",
+        "onboard_time": 1696063415,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 144962,
+        "num": 144962,
+        "word": "乒乓球",
+        "onboard_time": 1696052134,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143991,
+        "num": 143991,
+        "word": "檀健次央视秋晚封神版本",
+        "onboard_time": 1696047814,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135720,
+        "num": 135720,
+        "word": "于文文的爱情观太清醒了",
+        "onboard_time": 1696063415,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135162,
+        "num": 135162,
+        "word": "刘亦菲对于拍吻戏的回应真的清醒通透",
+        "onboard_time": 1696051893,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83967,
+        "num": 134011,
+        "word": "亚运会小女孩大声跟唱国歌",
+        "onboard_time": 1696064974,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#铭记英烈遗志传承英烈风骨#"
+    }
+  }
+}
