@@ -1,6 +1,6 @@
 {
   "startTime": 1696004499407,
-  "endTime": 1696040469509,
+  "endTime": 1696041224786,
   "band_list": [
     {
       "raw_hot": 3698763,
@@ -27,8 +27,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1668404,
-      "num": 1668404,
+      "raw_hot": 1763269,
+      "num": 1763269,
       "word": "长期吃西红柿真的能变白吗",
       "onboard_time": 1696036231,
       "rank": 10,
@@ -131,6 +131,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 608915,
+      "num": 364062,
+      "word": "原来这才叫休息",
+      "onboard_time": 1696039594,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 554858,
       "num": 400578,
       "word": "火车上有卖卫生巾了",
@@ -187,6 +195,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 424748,
+      "num": 370822,
+      "word": "胡兵王心凌信20年前的合影",
+      "onboard_time": 1696039353,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423974,
       "num": 423974,
       "word": "林双辞职",
@@ -219,28 +235,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384722,
-      "num": 218225,
-      "word": "原来这才叫休息",
-      "onboard_time": 1696039594,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 376215,
+      "num": 376215,
+      "word": "小长假不得连炫八天甄嬛传",
+      "onboard_time": 1696039233,
+      "rank": 34,
+      "category": "剧集"
     },
     {
-      "raw_hot": 370822,
-      "num": 370822,
-      "word": "胡兵王心凌信20年前的合影",
-      "onboard_time": 1696039353,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 336603,
-      "num": 336603,
+      "raw_hot": 353712,
+      "num": 353712,
       "word": "成毅拍的月亮",
       "onboard_time": 1696037854,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 341884,
+      "num": 341884,
+      "word": "吴艳妮12秒80晋级决赛",
+      "onboard_time": 1696040554,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 336277,
@@ -291,6 +307,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 316121,
+      "num": 216524,
+      "word": "妈妈 今年带这么多朋友来过节啊",
+      "onboard_time": 1696040192,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 315867,
       "num": 315867,
       "word": "天蝎座疏远一个人的原因",
@@ -315,16 +339,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308899,
-      "num": 308899,
-      "word": "小长假不得连炫八天甄嬛传",
-      "onboard_time": 1696039233,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 306756,
-      "num": 306756,
+      "num": 375309,
       "word": "徐嘉余 两届亚运未尝一败",
       "onboard_time": 1696038513,
       "rank": 22,
@@ -337,6 +353,14 @@
       "onboard_time": 1696031007,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286519,
+      "num": 286519,
+      "word": "iPhone16系列机型尺寸曝光",
+      "onboard_time": 1696040674,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 283991,
@@ -363,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 270561,
+      "num": 270561,
+      "word": "韩国人真这么吃饭吗",
+      "onboard_time": 1696039113,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 268767,
       "num": 268767,
       "word": "孙悦用科比精神激励球员",
@@ -379,14 +411,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 261496,
-      "num": 261496,
-      "word": "韩国人真这么吃饭吗",
-      "onboard_time": 1696039113,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 254561,
       "num": 254561,
       "word": "迪丽热巴巴黎街头的美神",
@@ -401,6 +425,14 @@
       "onboard_time": 1696037014,
       "rank": 11,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 248381,
+      "num": 248381,
+      "word": "为什么小学生集体痴迷萝卜刀",
+      "onboard_time": 1696040373,
+      "rank": 43,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 247247,
@@ -475,20 +507,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 216524,
+      "num": 216524,
+      "word": "外国运动员cos白娘子换徽章",
+      "onboard_time": 1696040913,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216430,
+      "num": 216430,
+      "word": "檀健次拍的中秋节月亮",
+      "onboard_time": 1696039233,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 216129,
       "num": 532386,
       "word": "中秋节",
       "onboard_time": 1695997540,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212584,
-      "num": 212584,
-      "word": "檀健次拍的中秋节月亮",
-      "onboard_time": 1696039233,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 211820,
@@ -513,6 +553,14 @@
       "onboard_time": 1695982412,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205995,
+      "num": 205995,
+      "word": "谢谢你们用生命守护祖国",
+      "onboard_time": 1696041035,
+      "rank": 34,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 205424,
@@ -553,6 +601,14 @@
       "onboard_time": 1696000239,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188358,
+      "num": 188358,
+      "word": "女生遇到crush可能是精心策划骗局",
+      "onboard_time": 1696039892,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 188013,
@@ -603,14 +659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 174675,
-      "num": 174675,
-      "word": "妈妈 今年带这么多朋友来过节啊",
-      "onboard_time": 1696040192,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 174119,
       "num": 174119,
       "word": "杨幂送外国友人中国瓷器",
@@ -625,14 +673,6 @@
       "onboard_time": 1696036294,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162822,
-      "num": 162822,
-      "word": "女生遇到crush可能是精心策划骗局",
-      "onboard_time": 1696039892,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 161933,
@@ -675,20 +715,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157568,
-      "num": 157568,
-      "word": "为什么小学生集体痴迷萝卜刀",
-      "onboard_time": 1696040373,
-      "rank": 43,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 152859,
       "num": 152859,
       "word": "一人之下",
       "onboard_time": 1696035754,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151216,
+      "num": 151216,
+      "word": "张元英今年也不参加韩国高考",
+      "onboard_time": 1696041155,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 150443,
@@ -860,7 +900,7 @@
     },
     {
       "raw_hot": 125069,
-      "num": 125069,
+      "num": 343114,
       "word": "月球上中国地名达35个",
       "onboard_time": 1696039293,
       "rank": 48,

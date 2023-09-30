@@ -1,0 +1,410 @@
+{
+  "runTime": 1696041224786,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1763269,
+        "num": 1763269,
+        "word": "长期吃西红柿真的能变白吗",
+        "onboard_time": 1696036231,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1105288,
+        "num": 1105288,
+        "word": "家可以常回 但不能久待",
+        "onboard_time": 1696031246,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90719,
+        "num": 967821,
+        "word": "盛世中华 大美中国",
+        "onboard_time": 1696036654,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 859691,
+        "num": 859691,
+        "word": "大学生付餐具费吃完饭将餐具全带走",
+        "onboard_time": 1696036894,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 789188,
+        "num": 789188,
+        "word": "周放居然是还珠格格的柳红",
+        "onboard_time": 1696036352,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493328,
+        "num": 493328,
+        "word": "封神榜纣王饰演者去世",
+        "onboard_time": 1696001496,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 397277,
+        "num": 397277,
+        "word": "黄绮珊为跑调道歉",
+        "onboard_time": 1696035634,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376215,
+        "num": 376215,
+        "word": "小长假不得连炫八天甄嬛传",
+        "onboard_time": 1696039233,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270139,
+        "num": 375309,
+        "word": "徐嘉余 两届亚运未尝一败",
+        "onboard_time": 1696038513,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218649,
+        "num": 371477,
+        "word": "中秋国庆假期第2天你在干什么",
+        "onboard_time": 1696036535,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87107,
+        "num": 371175,
+        "word": "杭州夜景一整个惊艳",
+        "onboard_time": 1696038337,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873028,
+        "num": 366316,
+        "word": "童瑶耳环上的珍珠比蛤蜊还大",
+        "onboard_time": 1696036894,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 608915,
+        "num": 364062,
+        "word": "原来这才叫休息",
+        "onboard_time": 1696039594,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120954,
+        "num": 361331,
+        "word": "英国汉学家称战争劫掠文物应物归原主",
+        "onboard_time": 1696036413,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85140,
+        "num": 359814,
+        "word": "今天是第10个烈士纪念日",
+        "onboard_time": 1696037672,
+        "rank": 14,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 488844,
+        "num": 358194,
+        "word": "火车上有卖卫生巾了",
+        "onboard_time": 1696038752,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 424748,
+        "num": 355220,
+        "word": "胡兵王心凌信20年前的合影",
+        "onboard_time": 1696039353,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 353712,
+        "num": 353712,
+        "word": "成毅拍的月亮",
+        "onboard_time": 1696037854,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 347727,
+        "num": 347727,
+        "word": "三只猫凌晨三点半听我妈打呼噜",
+        "onboard_time": 1696035271,
+        "rank": 18,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 97576,
+        "num": 343114,
+        "word": "月球上中国地名达35个",
+        "onboard_time": 1696039293,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 341884,
+        "num": 341884,
+        "word": "吴艳妮12秒80晋级决赛",
+        "onboard_time": 1696040554,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313472,
+        "num": 313472,
+        "word": "农村自建房都是这么豪华吗",
+        "onboard_time": 1696037793,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 305625,
+        "num": 305625,
+        "word": "谭松韵粉发造型",
+        "onboard_time": 1696036472,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304643,
+        "num": 304643,
+        "word": "张小斐张嘉倪到底是在演什么",
+        "onboard_time": 1695998799,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286519,
+        "num": 286519,
+        "word": "iPhone16系列机型尺寸曝光",
+        "onboard_time": 1696040674,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 270561,
+        "num": 270561,
+        "word": "韩国人真这么吃饭吗",
+        "onboard_time": 1696039113,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264476,
+        "num": 264476,
+        "word": "许家印为何被采取强制措施",
+        "onboard_time": 1696037737,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248381,
+        "num": 248381,
+        "word": "为什么小学生集体痴迷萝卜刀",
+        "onboard_time": 1696040373,
+        "rank": 27,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 246926,
+        "num": 246926,
+        "word": "女子水果里藏49只昆虫入境被查",
+        "onboard_time": 1696030283,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216524,
+        "num": 216524,
+        "word": "外国运动员cos白娘子换徽章",
+        "onboard_time": 1696040913,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316121,
+        "num": 216524,
+        "word": "妈妈 今年带这么多朋友来过节啊",
+        "onboard_time": 1696040192,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216430,
+        "num": 216430,
+        "word": "檀健次拍的中秋节月亮",
+        "onboard_time": 1696039233,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215761,
+        "num": 215761,
+        "word": "周深直播背景布下班了",
+        "onboard_time": 1696037912,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212034,
+        "num": 212034,
+        "word": "通报称女生遭4同学掌掴为肢体冲突引争议",
+        "onboard_time": 1696034734,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205995,
+        "num": 205995,
+        "word": "谢谢你们用生命守护祖国",
+        "onboard_time": 1696041035,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 200055,
+        "num": 200055,
+        "word": "邢菲把痘变成痣",
+        "onboard_time": 1695999815,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188358,
+        "num": 188358,
+        "word": "女生遇到crush可能是精心策划骗局",
+        "onboard_time": 1696039892,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187336,
+        "num": 187336,
+        "word": "35岁做了近视手术",
+        "onboard_time": 1695998202,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168930,
+        "num": 168930,
+        "word": "孙悦用科比精神激励球员",
+        "onboard_time": 1696037737,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168898,
+        "num": 168898,
+        "word": "迪丽热巴巴黎街头的美神",
+        "onboard_time": 1696031608,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166707,
+        "num": 166707,
+        "word": "杨幂旗袍 古韵美人",
+        "onboard_time": 1695994002,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163911,
+        "num": 163911,
+        "word": "长大后最恐怖的事情之一",
+        "onboard_time": 1696032751,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 160640,
+        "num": 160640,
+        "word": "向云端 跑调",
+        "onboard_time": 1695992799,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153358,
+        "num": 153358,
+        "word": "周深忘词后的精神状态",
+        "onboard_time": 1696032991,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 151216,
+        "num": 151216,
+        "word": "张元英今年也不参加韩国高考",
+        "onboard_time": 1696041155,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147704,
+        "num": 147704,
+        "word": "广州人快乐到冒泡有多简单",
+        "onboard_time": 1696036294,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136739,
+        "num": 136739,
+        "word": "披萨里的白色支架是干什么用的",
+        "onboard_time": 1696036535,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 135901,
+        "num": 135901,
+        "word": "白百何中秋节送上了全部的存货",
+        "onboard_time": 1696037973,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128296,
+        "num": 128296,
+        "word": "红斑狼疮",
+        "onboard_time": 1696030404,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 122397,
+        "num": 122397,
+        "word": "2000岁文物让我的中秋DNA动了",
+        "onboard_time": 1696038454,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平回信勉励英烈子女#"
+    }
+  }
+}
