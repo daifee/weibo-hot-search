@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696196037882,
+  "endTime": 1696198508825,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -2291,6 +2291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 203747,
+      "num": 61770,
+      "word": "男子抽烟致高铁降速反怼民警",
+      "onboard_time": 1696193415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203149,
       "num": 203149,
       "word": "邓为云秀行今日杀青",
@@ -3299,6 +3307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73838,
+      "num": 50452,
+      "word": "我有一个朋友豆瓣开分8.6",
+      "onboard_time": 1696191975,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73547,
       "num": 73547,
       "word": "迷笛",
@@ -3339,14 +3355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 57598,
-      "num": 32484,
-      "word": "男子抽烟致高铁降速反怼民警",
-      "onboard_time": 1696193415,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55726,
       "num": 55726,
       "word": "国乒男双对阵韩国放中国人",
@@ -3377,14 +3385,6 @@
       "onboard_time": 1696097359,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 38432,
-      "num": 31929,
-      "word": "我有一个朋友豆瓣开分8.6",
-      "onboard_time": 1696191975,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 36888,
@@ -3443,20 +3443,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19990,
+      "num": 19990,
+      "word": "和平精英项目",
+      "onboard_time": 1696161035,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 18957,
       "num": 588448,
       "word": "盛世中华 大美中国",
       "onboard_time": 1696036654,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18685,
-      "num": 18685,
-      "word": "和平精英项目",
-      "onboard_time": 1696161035,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 13909,

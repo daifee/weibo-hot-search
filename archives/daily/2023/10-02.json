@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696196037882,
+  "endTime": 1696198508825,
   "band_list": [
     {
       "raw_hot": 1826869,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203747,
+      "num": 61770,
+      "word": "男子抽烟致高铁降速反怼民警",
+      "onboard_time": 1696193415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198519,
       "num": 351805,
       "word": "林雨薇100米栏金牌",
@@ -475,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73838,
+      "num": 50452,
+      "word": "我有一个朋友豆瓣开分8.6",
+      "onboard_time": 1696191975,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 71697,
       "num": 71697,
       "word": "capper音乐节",
@@ -491,14 +507,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57598,
-      "num": 32484,
-      "word": "男子抽烟致高铁降速反怼民警",
-      "onboard_time": 1696193415,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55726,
       "num": 55726,
       "word": "国乒男双对阵韩国放中国人",
@@ -513,14 +521,6 @@
       "onboard_time": 1696164157,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 38432,
-      "num": 31929,
-      "word": "我有一个朋友豆瓣开分8.6",
-      "onboard_time": 1696191975,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 36888,
@@ -563,8 +563,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18685,
-      "num": 18685,
+      "raw_hot": 19990,
+      "num": 19990,
       "word": "和平精英项目",
       "onboard_time": 1696161035,
       "rank": 47,
