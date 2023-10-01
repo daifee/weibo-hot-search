@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696191400848,
+  "endTime": 1696192437729,
   "band_list": [
     {
       "raw_hot": 1826869,
@@ -531,12 +531,28 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 21944,
+      "num": 21944,
+      "word": "我有一个朋友豆瓣开分8.6",
+      "onboard_time": 1696191975,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21800,
       "num": 21800,
       "word": "亚运会",
       "onboard_time": 1696162834,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15846,
+      "num": 15846,
+      "word": "黄嘉仪的恋爱脑把林双气笑了",
+      "onboard_time": 1696192333,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 7739,

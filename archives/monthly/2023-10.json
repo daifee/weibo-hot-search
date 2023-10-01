@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696191400848,
+  "endTime": 1696192437729,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -3419,12 +3419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 21944,
+      "num": 21944,
+      "word": "我有一个朋友豆瓣开分8.6",
+      "onboard_time": 1696191975,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18957,
       "num": 588448,
       "word": "盛世中华 大美中国",
       "onboard_time": 1696036654,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15846,
+      "num": 15846,
+      "word": "黄嘉仪的恋爱脑把林双气笑了",
+      "onboard_time": 1696192333,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 13909,
