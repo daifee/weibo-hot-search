@@ -1,0 +1,410 @@
+{
+  "runTime": 1696167244119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7605660,
+        "num": 7605660,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1696163674,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5447393,
+        "num": 5447393,
+        "word": "吴燕妮抢跑",
+        "onboard_time": 1696166799,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302537,
+        "num": 4330023,
+        "word": "满街五星红旗是中国人的浪漫",
+        "onboard_time": 1696164577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3622474,
+        "num": 3622474,
+        "word": "孙颖莎女单夺金",
+        "onboard_time": 1696165005,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1505771,
+        "num": 1505771,
+        "word": "中国队决赛不藏了",
+        "onboard_time": 1696164944,
+        "rank": 4,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 1020742,
+        "num": 1020742,
+        "word": "国足亚运队vs韩国",
+        "onboard_time": 1696158877,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 975693,
+        "num": 975693,
+        "word": "家有儿女取景地",
+        "onboard_time": 1696160136,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 844280,
+        "num": 844280,
+        "word": "樊振东让没天赋的人没饭吃了",
+        "onboard_time": 1696161756,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 704683,
+        "num": 704683,
+        "word": "女生手滑误拒浙大保研通知",
+        "onboard_time": 1696151073,
+        "rank": 8,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 696283,
+        "num": 696283,
+        "word": "原生家庭是他们能给你的全部了",
+        "onboard_time": 1696163014,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1531145,
+        "num": 683543,
+        "word": "巴黎偶遇杨紫",
+        "onboard_time": 1696161334,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 738123,
+        "num": 655995,
+        "word": "巴黎世家 刘昊然",
+        "onboard_time": 1696157373,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 232174,
+        "num": 653163,
+        "word": "韩国选手球拍上有马龙照片",
+        "onboard_time": 1696157855,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45305,
+        "num": 618004,
+        "word": "戍边战士冰山脚下展开国旗庄严宣誓",
+        "onboard_time": 1696164036,
+        "rank": 13,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 27037,
+        "num": 595282,
+        "word": "白裤瑶孩子们合唱我和我的祖国",
+        "onboard_time": 1696162593,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593121,
+        "num": 593121,
+        "word": "和平项目夺得金牌",
+        "onboard_time": 1696165364,
+        "rank": 15,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 521554,
+        "num": 521554,
+        "word": "腿姐回应",
+        "onboard_time": 1696158275,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 429267,
+        "num": 429267,
+        "word": "虞书欣脉搏犹如40岁男子壮如牛",
+        "onboard_time": 1696166923,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427222,
+        "num": 427222,
+        "word": "海珠广场",
+        "onboard_time": 1696163616,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420711,
+        "num": 420711,
+        "word": "王艺迪止步女单四强",
+        "onboard_time": 1696148618,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 611587,
+        "num": 419406,
+        "word": "许家印",
+        "onboard_time": 1696154912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471542,
+        "num": 419090,
+        "word": "王濛马龙击掌",
+        "onboard_time": 1696164766,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417861,
+        "num": 417861,
+        "word": "乒乓球男单",
+        "onboard_time": 1696165240,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403188,
+        "num": 403188,
+        "word": "85花爆剧统计",
+        "onboard_time": 1696164157,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393449,
+        "num": 393449,
+        "word": "国羽男团0比1印度",
+        "onboard_time": 1696159775,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376152,
+        "num": 376152,
+        "word": "王楚钦说在国庆夺冠意味着更好的开始",
+        "onboard_time": 1696165540,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 364268,
+        "num": 364268,
+        "word": "金发张元英",
+        "onboard_time": 1696156058,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 358968,
+        "num": 358968,
+        "word": "孙艺洲 有点冤但不多",
+        "onboard_time": 1696163137,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352584,
+        "num": 352584,
+        "word": "樊振东王楚钦男双夺金",
+        "onboard_time": 1696159059,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349032,
+        "num": 349032,
+        "word": "李诗沣超级大心脏",
+        "onboard_time": 1696165364,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1164397,
+        "num": 343678,
+        "word": "林雨薇好美",
+        "onboard_time": 1696166982,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357724,
+        "num": 340711,
+        "word": "韩国组合出不了樊振东王楚钦画的圈",
+        "onboard_time": 1696165959,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335611,
+        "num": 335611,
+        "word": "央视国庆晚会",
+        "onboard_time": 1696158937,
+        "rank": 32,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 318208,
+        "num": 318208,
+        "word": "张婧仪脏脏包",
+        "onboard_time": 1696166317,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317565,
+        "num": 317565,
+        "word": "用来垫锅几年了才发现是成毅",
+        "onboard_time": 1696165900,
+        "rank": 34,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 314751,
+        "num": 314751,
+        "word": "王楚钦第3金",
+        "onboard_time": 1696159836,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309595,
+        "num": 309595,
+        "word": "孙颖莎的追分能力太强了",
+        "onboard_time": 1696166682,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304798,
+        "num": 304798,
+        "word": "男足",
+        "onboard_time": 1696164825,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 275329,
+        "num": 275329,
+        "word": "朴志焄 希望大家不要在意",
+        "onboard_time": 1696163856,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273720,
+        "num": 273720,
+        "word": "华伦天奴",
+        "onboard_time": 1696166923,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 263571,
+        "num": 263571,
+        "word": "国足亚运队半场0比2韩国",
+        "onboard_time": 1696166437,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244287,
+        "num": 244287,
+        "word": "吴艳妮12秒80晋级决赛",
+        "onboard_time": 1696040554,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13317,
+        "num": 242001,
+        "word": "iQOO手机见证中国电竞冲金时刻",
+        "onboard_time": 1696166861,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241745,
+        "num": 241745,
+        "word": "YG的G没有了",
+        "onboard_time": 1696136733,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235209,
+        "num": 235209,
+        "word": "国足亚运队丢球",
+        "onboard_time": 1696164883,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229418,
+        "num": 229418,
+        "word": "一盒月饼下去办公室无人生还",
+        "onboard_time": 1696167108,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222235,
+        "num": 222235,
+        "word": "南京鸡鸣寺网红猫要被游客摸秃了",
+        "onboard_time": 1696157556,
+        "rank": 46,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 221195,
+        "num": 221195,
+        "word": "大熊猫吃重庆火锅游客也想炫两口",
+        "onboard_time": 1696165599,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215790,
+        "num": 215790,
+        "word": "陈牧驰的助理小鸟依人",
+        "onboard_time": 1696160196,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214677,
+        "num": 214677,
+        "word": "亚运会",
+        "onboard_time": 1696162834,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一种骄傲叫我爱你中国#"
+    }
+  }
+}
