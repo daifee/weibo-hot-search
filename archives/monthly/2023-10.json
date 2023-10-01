@@ -1,7 +1,15 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696149252308,
+  "endTime": 1696151710199,
   "band_list": [
+    {
+      "raw_hot": 6008481,
+      "num": 6008481,
+      "word": "王艺迪止步女单四强",
+      "onboard_time": 1696148618,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 5133946,
       "num": 4060120,
@@ -25,14 +33,6 @@
       "onboard_time": 1696133852,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 3328072,
-      "num": 3328072,
-      "word": "王艺迪止步女单四强",
-      "onboard_time": 1696148618,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 2794937,
@@ -105,6 +105,14 @@
       "onboard_time": 1696130194,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1630147,
+      "num": 1630147,
+      "word": "早田希娜 擦边",
+      "onboard_time": 1696150592,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1561146,
@@ -209,6 +217,14 @@
       "onboard_time": 1696128033,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1030330,
+      "num": 1030330,
+      "word": "孙颖莎早田希娜争金",
+      "onboard_time": 1696150535,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 983851,
@@ -347,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 690271,
+      "num": 690271,
+      "word": "这是黄晓明还是黄小夫",
+      "onboard_time": 1696148916,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 688963,
       "num": 630967,
       "word": "全红婵陈芋汐回应炸鱼动作",
@@ -363,12 +387,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 645671,
+      "num": 461354,
+      "word": "女生手滑误拒浙大保研通知",
+      "onboard_time": 1696151073,
+      "rank": 10,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 640428,
       "num": 583092,
       "word": "张伟丽把奥尼尔举起来了",
       "onboard_time": 1696120889,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 639481,
+      "num": 447617,
+      "word": "曾黎机场被粉丝递剧本的反应",
+      "onboard_time": 1696148736,
+      "rank": 30,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 631702,
@@ -449,14 +489,6 @@
       "onboard_time": 1696125871,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 552446,
-      "num": 552446,
-      "word": "这是黄晓明还是黄小夫",
-      "onboard_time": 1696148916,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 530605,
@@ -667,7 +699,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 370768,
+      "raw_hot": 373292,
       "num": 370768,
       "word": "萝卜刀应该被禁吗",
       "onboard_time": 1696147110,
@@ -705,6 +737,14 @@
       "onboard_time": 1696138352,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361213,
+      "num": 311904,
+      "word": "专家称住便宜酒店的时代可能过去了",
+      "onboard_time": 1696150713,
+      "rank": 22,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 360138,
@@ -811,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319278,
+      "num": 319278,
+      "word": "陈凯歌透露朱一龙是志愿军2最主要人物",
+      "onboard_time": 1696148618,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316748,
       "num": 316748,
       "word": "丞磊下次要不戴耳机吧",
@@ -833,6 +881,14 @@
       "onboard_time": 1696133670,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 305314,
+      "num": 305314,
+      "word": "黄山游客被大学生志愿者热情投喂",
+      "onboard_time": 1696149571,
+      "rank": 25,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 300130,
@@ -995,6 +1051,14 @@
       "category": "动漫,电影"
     },
     {
+      "raw_hot": 260662,
+      "num": 431790,
+      "word": "樊振东王楚钦vs韩国队",
+      "onboard_time": 1696149513,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260189,
       "num": 260189,
       "word": "虞书欣把封神质子团猜成雷震子",
@@ -1075,6 +1139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 248756,
+      "num": 248756,
+      "word": "成毅留了胡渣",
+      "onboard_time": 1696149157,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 247114,
       "num": 247114,
       "word": "鹿晗侧颜鲨我",
@@ -1131,12 +1203,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 237113,
-      "num": 237113,
-      "word": "陈凯歌透露朱一龙是志愿军2最主要人物",
-      "onboard_time": 1696148618,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 239938,
+      "num": 239938,
+      "word": "李发彬举重夺金",
+      "onboard_time": 1696151257,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 236836,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1696125091,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 232013,
+      "num": 232013,
+      "word": "白鹿回国机场图",
+      "onboard_time": 1696149752,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 230902,
@@ -1225,14 +1305,6 @@
       "onboard_time": 1696126893,
       "rank": 34,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 223355,
-      "num": 223355,
-      "word": "曾黎机场被粉丝递剧本的反应",
-      "onboard_time": 1696148736,
-      "rank": 30,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 221360,
@@ -1331,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202124,
-      "num": 202124,
-      "word": "成毅留了胡渣",
-      "onboard_time": 1696149157,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "10岁小女孩牢记1.5万字讲解词",
@@ -1361,6 +1425,14 @@
       "onboard_time": 1696089935,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200142,
+      "num": 200142,
+      "word": "街头随机采访到了富二代",
+      "onboard_time": 1696151190,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 199577,
@@ -1595,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171238,
+      "num": 171238,
+      "word": "封神笑榜",
+      "onboard_time": 1696150232,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 168852,
       "num": 168852,
       "word": "热刺vs利物浦",
@@ -1755,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151438,
+      "num": 151438,
+      "word": "张颂文 先辈用生命换来岁月静好",
+      "onboard_time": 1696149752,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151196,
       "num": 151196,
       "word": "中国三人男篮无缘亚运会四强",
@@ -1833,6 +1921,14 @@
       "onboard_time": 1696143456,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137768,
+      "num": 137768,
+      "word": "莫斯科行动",
+      "onboard_time": 1696151673,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 133494,
@@ -1963,20 +2059,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98177,
+      "num": 1426470,
+      "word": "这些大国重器彰显中国底气",
+      "onboard_time": 1696146931,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97986,
       "num": 97986,
       "word": "反复长期发炎可能是情绪炎症",
       "onboard_time": 1696075127,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 94083,
-      "num": 1426470,
-      "word": "这些大国重器彰显中国底气",
-      "onboard_time": 1696146931,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 86722,
@@ -2106,6 +2202,9 @@
     },
     {
       "word": "#庆祝新中国成立74周年#"
+    },
+    {
+      "word": "#有一种骄傲叫我爱你中国#"
     }
   ]
 }
