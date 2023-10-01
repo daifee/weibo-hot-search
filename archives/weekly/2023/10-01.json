@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696144559186,
+  "endTime": 1696145625236,
   "band_list": [
     {
       "raw_hot": 5133946,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1677381,
+      "num": 1677381,
+      "word": "何冰娇强忍眼泪",
+      "onboard_time": 1696143935,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1673733,
       "num": 1673733,
       "word": "腿姐",
@@ -81,6 +89,14 @@
       "onboard_time": 1696130194,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1561146,
+      "num": 1561146,
+      "word": "孙颖莎进女单决赛",
+      "onboard_time": 1696143872,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1550879,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 1436478,
-      "num": 410669,
+      "num": 456958,
       "word": "王一博新发色藏不住了",
       "onboard_time": 1696139371,
       "rank": 11,
@@ -153,14 +169,6 @@
       "onboard_time": 1696082983,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1174097,
-      "num": 1174097,
-      "word": "孙颖莎进女单决赛",
-      "onboard_time": 1696143872,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1050581,
@@ -219,6 +227,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 857958,
+      "num": 857958,
+      "word": "韩庚前任4最出圈的台词",
+      "onboard_time": 1696142675,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 841551,
       "num": 841551,
       "word": "留学时不要乱用emoji",
@@ -249,22 +265,6 @@
       "onboard_time": 1696134933,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 756946,
-      "num": 756946,
-      "word": "韩庚前任4最出圈的台词",
-      "onboard_time": 1696142675,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 746812,
-      "num": 300726,
-      "word": "何冰娇强忍眼泪",
-      "onboard_time": 1696143935,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 736119,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 509818,
-      "num": 395900,
+      "num": 416819,
       "word": "网友被求婚收到了赵今麦送的花",
       "onboard_time": 1696139612,
       "rank": 16,
@@ -467,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 477196,
+      "num": 477196,
+      "word": "赵露思10月不进组",
+      "onboard_time": 1696141894,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 470711,
       "num": 394811,
       "word": "原来拔智齿磨的是骨头不是牙",
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 465201,
+      "num": 465201,
+      "word": "台媒报道杨幂弘扬中华文化",
+      "onboard_time": 1696144594,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 463675,
       "num": 371892,
       "word": "每天吃鸡蛋真的可以预防脱发吗",
@@ -491,19 +507,27 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 456060,
-      "num": 456060,
-      "word": "赵露思10月不进组",
-      "onboard_time": 1696141894,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 435753,
       "num": 435753,
       "word": "混双颁奖 嗑cp仪式",
       "onboard_time": 1696085022,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 435492,
+      "num": 435492,
+      "word": "女单半决赛",
+      "onboard_time": 1696144534,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 422551,
+      "num": 422551,
+      "word": "希望国乒双打失利能引起教练组的重视",
+      "onboard_time": 1696144055,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -659,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 350055,
+      "num": 350055,
+      "word": "被稻城亚丁的风景累惨了",
+      "onboard_time": 1696144293,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 349540,
       "num": 280626,
       "word": "男子尿急误把高架当隔离带一跃而下",
@@ -772,7 +804,7 @@
     },
     {
       "raw_hot": 293775,
-      "num": 396860,
+      "num": 435969,
       "word": "妈妈送狗当成年礼女儿圆梦哇哇大哭",
       "onboard_time": 1696139973,
       "rank": 13,
@@ -865,6 +897,14 @@
       "onboard_time": 1696135893,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262753,
+      "num": 262753,
+      "word": "杨紫抵达巴黎",
+      "onboard_time": 1696144655,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 262102,
@@ -1051,6 +1091,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 230867,
+      "num": 230867,
+      "word": "王源看秀待遇",
+      "onboard_time": 1696145255,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229264,
       "num": 229264,
       "word": "元气少女缘结神巴卫新粘土人",
@@ -1097,6 +1145,14 @@
       "onboard_time": 1696126893,
       "rank": 34,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 221339,
+      "num": 221339,
+      "word": "林孝埈为亚运健儿送祝福",
+      "onboard_time": 1696145255,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 213753,
@@ -1187,20 +1243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199577,
+      "num": 199577,
+      "word": "侯明昊的造型缘",
+      "onboard_time": 1696144293,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 198826,
       "num": 198826,
       "word": "游客夜爬泰山高举国旗迎国庆",
       "onboard_time": 1696125871,
       "rank": 40,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 198728,
-      "num": 198728,
-      "word": "希望国乒双打失利能引起教练组的重视",
-      "onboard_time": 1696144055,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 197759,
@@ -1235,12 +1291,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 194229,
+      "num": 194229,
+      "word": "樊振东一到采访就开会",
+      "onboard_time": 1696144534,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193642,
       "num": 193642,
       "word": "李一桐体验雨浇梅花酷刑",
       "onboard_time": 1696139254,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191768,
+      "num": 191768,
+      "word": "不小心把大哥穿的衣服翻译了",
+      "onboard_time": 1696144833,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 190927,
@@ -1281,14 +1353,6 @@
       "onboard_time": 1696140513,
       "rank": 14,
       "category": "军事,社会新闻"
-    },
-    {
-      "raw_hot": 185870,
-      "num": 185870,
-      "word": "被稻城亚丁的风景累惨了",
-      "onboard_time": 1696144293,
-      "rank": 33,
-      "category": "旅游"
     },
     {
       "raw_hot": 185640,
@@ -1427,14 +1491,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164408,
-      "num": 164408,
-      "word": "侯明昊的造型缘",
-      "onboard_time": 1696144293,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 164407,
       "num": 164407,
       "word": "亚运会",
@@ -1457,6 +1513,14 @@
       "onboard_time": 1696092868,
       "rank": 22,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 162947,
+      "num": 162947,
+      "word": "丞磊下次要不戴耳机吧",
+      "onboard_time": 1696145432,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 162775,
@@ -1539,27 +1603,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157369,
-      "num": 157369,
-      "word": "樊振东一到采访就开会",
-      "onboard_time": 1696144534,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157293,
       "num": 157293,
       "word": "葛曼棋夺冠苏炳添激动落泪",
       "onboard_time": 1696087234,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 154765,
-      "num": 154765,
-      "word": "女单半决赛",
-      "onboard_time": 1696144534,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -1601,6 +1649,14 @@
       "onboard_time": 1696080220,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145929,
+      "num": 145929,
+      "word": "8岁小朋友跳的siren",
+      "onboard_time": 1696145133,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 142933,
