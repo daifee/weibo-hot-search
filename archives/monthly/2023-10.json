@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696184414343,
+  "endTime": 1696185242981,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -3235,6 +3235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98991,
+      "num": 92620,
+      "word": "电影史上的绝佳镜头",
+      "onboard_time": 1696182081,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98177,
       "num": 1590432,
       "word": "这些大国重器彰显中国底气",
@@ -3249,14 +3257,6 @@
       "onboard_time": 1696075127,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 92620,
-      "num": 92620,
-      "word": "电影史上的绝佳镜头",
-      "onboard_time": 1696182081,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 86722,
