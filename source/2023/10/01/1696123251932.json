@@ -1,0 +1,410 @@
+{
+  "runTime": 1696123251932,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2794937,
+        "num": 2794937,
+        "word": "国庆节快乐",
+        "onboard_time": 1696110854,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 621650,
+        "num": 621650,
+        "word": "王楚钦孙颖莎混双夺冠",
+        "onboard_time": 1696083343,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172051,
+        "num": 489525,
+        "word": "有一种自豪叫中国",
+        "onboard_time": 1696119808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 701853,
+        "num": 463590,
+        "word": "起猛了在韩综里听到张杰谢娜",
+        "onboard_time": 1696121371,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231863,
+        "num": 432872,
+        "word": "国庆天安门广场升旗仪式",
+        "onboard_time": 1696115423,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414853,
+        "num": 414853,
+        "word": "卢昱晓用照片拼凑浪漫九月",
+        "onboard_time": 1696116925,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 616489,
+        "num": 410003,
+        "word": "腾讯今年三部破万剧集",
+        "onboard_time": 1696085860,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386733,
+        "num": 386733,
+        "word": "不会剥石榴的人有福了",
+        "onboard_time": 1696120351,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 385465,
+        "num": 385465,
+        "word": "婚车偶遇2位新娘探出车窗互送喜糖",
+        "onboard_time": 1696121729,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 595495,
+        "num": 385045,
+        "word": "夫妻在有小孩之后发生的改变",
+        "onboard_time": 1696121850,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 845520,
+        "num": 384410,
+        "word": "阚清子 恭喜莎头夺冠",
+        "onboard_time": 1696122270,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 640428,
+        "num": 384052,
+        "word": "张伟丽把奥尼尔举起来了",
+        "onboard_time": 1696120889,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383376,
+        "num": 383376,
+        "word": "江西警号086211重启",
+        "onboard_time": 1696117827,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197694,
+        "num": 378305,
+        "word": "国乒无缘女双4强",
+        "onboard_time": 1696075244,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28987,
+        "num": 371434,
+        "word": "亚运健儿为祖国献礼",
+        "onboard_time": 1696122030,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788268,
+        "num": 362005,
+        "word": "LV老板涉嫌洗钱受到调查",
+        "onboard_time": 1696069662,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683382,
+        "num": 357348,
+        "word": "泰国是预制菜的重灾区吧",
+        "onboard_time": 1696082983,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 470711,
+        "num": 344897,
+        "word": "原来拔智齿磨的是骨头不是牙",
+        "onboard_time": 1696120409,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 342996,
+        "num": 342996,
+        "word": "易烊千玺也去看了坚如磐石",
+        "onboard_time": 1696083408,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 340305,
+        "num": 340305,
+        "word": "国庆节",
+        "onboard_time": 1696116144,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 653543,
+        "num": 336241,
+        "word": "终于和网恋教父RichBrian奔现了",
+        "onboard_time": 1696117705,
+        "rank": 20,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 481951,
+        "num": 329048,
+        "word": "巴黎偶遇马思纯",
+        "onboard_time": 1696118186,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 465272,
+        "num": 319730,
+        "word": "女孩租房一年反复过敏发现床垫发霉",
+        "onboard_time": 1696116864,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406461,
+        "num": 312191,
+        "word": "韩国牙科医生吃糖葫芦的感受",
+        "onboard_time": 1696120351,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404054,
+        "num": 307796,
+        "word": "10月十二星座注意事项",
+        "onboard_time": 1696119510,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 300184,
+        "num": 300184,
+        "word": "DOTA2中国对阵马来西亚",
+        "onboard_time": 1696122270,
+        "rank": 25,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 280228,
+        "num": 280228,
+        "word": "奚梦瑶被何猷君幼稚到求救",
+        "onboard_time": 1696122990,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275461,
+        "num": 275461,
+        "word": "卫明今天人丢大了",
+        "onboard_time": 1696122451,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262102,
+        "num": 262102,
+        "word": "梦中的那片海",
+        "onboard_time": 1696117645,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246585,
+        "num": 246585,
+        "word": "柯南新系列白马探将登场",
+        "onboard_time": 1696122691,
+        "rank": 29,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 298750,
+        "num": 246143,
+        "word": "为什么披萨里会有个小桌子",
+        "onboard_time": 1696122390,
+        "rank": 30,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 276070,
+        "num": 240131,
+        "word": "DOTA2项目",
+        "onboard_time": 1696119510,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 257272,
+        "num": 237926,
+        "word": "吴艳妮冲击金牌",
+        "onboard_time": 1696121371,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256306,
+        "num": 234832,
+        "word": "王楚钦谈乒乓球混双发展",
+        "onboard_time": 1696122030,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233072,
+        "num": 233072,
+        "word": "男生在山姆用手接饮料喝",
+        "onboard_time": 1696114941,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190888,
+        "num": 190888,
+        "word": "热刺vs利物浦出现重大人为失误",
+        "onboard_time": 1696116082,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190802,
+        "num": 190802,
+        "word": "田嘉瑞大梦归离",
+        "onboard_time": 1696120230,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188244,
+        "num": 188244,
+        "word": "看电影和吃火锅的都沉默了",
+        "onboard_time": 1696120770,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185123,
+        "num": 185123,
+        "word": "莎头卫冕",
+        "onboard_time": 1696083822,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158694,
+        "num": 181583,
+        "word": "我爱你中国是最深情的表白",
+        "onboard_time": 1696123174,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104927,
+        "num": 179806,
+        "word": "一针一线都是他们对国旗的尊重",
+        "onboard_time": 1696121071,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178539,
+        "num": 178539,
+        "word": "北方人真的很少吃杨桃吗",
+        "onboard_time": 1696118426,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176883,
+        "num": 176883,
+        "word": "超30万人齐聚天安门广场看升国旗",
+        "onboard_time": 1696121910,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170275,
+        "num": 170275,
+        "word": "苏炳添哭了",
+        "onboard_time": 1696089935,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160347,
+        "num": 160347,
+        "word": "郑恺苗苗相互治愈",
+        "onboard_time": 1696085919,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158735,
+        "num": 158735,
+        "word": "喜报林双离婚了",
+        "onboard_time": 1696076564,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156892,
+        "num": 156892,
+        "word": "国庆文案",
+        "onboard_time": 1696118066,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154386,
+        "num": 154386,
+        "word": "张小斐演妈是妈演姐是姐",
+        "onboard_time": 1696067079,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161965,
+        "num": 154141,
+        "word": "西出玉门大结局",
+        "onboard_time": 1696118787,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153413,
+        "num": 153413,
+        "word": "亚运会",
+        "onboard_time": 1696120409,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#革命先烈革命烈士的崇高精神永远铭记在人民心中#"
+    }
+  }
+}
