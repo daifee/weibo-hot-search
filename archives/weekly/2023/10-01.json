@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696160034321,
+  "endTime": 1696163406546,
   "band_list": [
     {
       "raw_hot": 6008481,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1996094,
-      "num": 671696,
+      "num": 675188,
       "word": "巴黎世家 刘昊然",
       "onboard_time": 1696157373,
       "rank": 11,
@@ -97,6 +97,14 @@
       "onboard_time": 1696150592,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1775651,
+      "num": 1775651,
+      "word": "家有儿女取景地",
+      "onboard_time": 1696160136,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 1754386,
@@ -131,12 +139,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1647812,
+      "num": 667401,
+      "word": "巴黎偶遇杨紫",
+      "onboard_time": 1696161334,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1634646,
       "num": 942644,
       "word": "赵丽颖重现楚乔传高马尾",
       "onboard_time": 1696130194,
       "rank": 7,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1565119,
+      "num": 1565119,
+      "word": "女单决赛",
+      "onboard_time": 1696158097,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 1561146,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 1402353,
-      "num": 387284,
+      "num": 609542,
       "word": "许家印",
       "onboard_time": 1696154912,
       "rank": 22,
@@ -403,14 +427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 734057,
-      "num": 734057,
-      "word": "女单决赛",
-      "onboard_time": 1696158097,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 711028,
       "num": 711028,
       "word": "程潇进组",
@@ -443,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 700538,
+      "num": 700538,
+      "word": "国足亚运队vs韩国",
+      "onboard_time": 1696158877,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 688963,
       "num": 630967,
       "word": "全红婵陈芋汐回应炸鱼动作",
@@ -459,12 +483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 675337,
+      "num": 675337,
+      "word": "央视国庆晚会",
+      "onboard_time": 1696158937,
+      "rank": 16,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 671883,
       "num": 1400615,
       "word": "黄山游客被大学生志愿者热情投喂",
       "onboard_time": 1696149571,
       "rank": 25,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 666589,
+      "num": 666589,
+      "word": "中国女排vs印度女排",
+      "onboard_time": 1696159895,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 665791,
@@ -499,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 629950,
+      "num": 629950,
+      "word": "樊振东让没天赋的人没饭吃了",
+      "onboard_time": 1696161756,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 626560,
       "num": 626560,
       "word": "韩国地铁凌晨五点坐满了人",
@@ -513,14 +561,6 @@
       "onboard_time": 1696123771,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 604329,
-      "num": 604329,
-      "word": "央视国庆晚会",
-      "onboard_time": 1696158937,
-      "rank": 16,
-      "category": "综艺,综艺"
     },
     {
       "raw_hot": 599095,
@@ -604,7 +644,7 @@
     },
     {
       "raw_hot": 530582,
-      "num": 656884,
+      "num": 671985,
       "word": "樊振东王楚钦vs韩国队",
       "onboard_time": 1696149513,
       "rank": 13,
@@ -715,8 +755,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 475845,
+      "num": 475845,
+      "word": "原生家庭是他们能给你的全部了",
+      "onboard_time": 1696163014,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 474551,
-      "num": 643389,
+      "num": 672795,
       "word": "韩国选手球拍上有马龙照片",
       "onboard_time": 1696157855,
       "rank": 14,
@@ -793,6 +841,14 @@
       "onboard_time": 1696085919,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421942,
+      "num": 421942,
+      "word": "陈牧驰的助理小鸟依人",
+      "onboard_time": 1696160196,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 418844,
@@ -1003,6 +1059,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 335103,
+      "num": 335103,
+      "word": "capper音乐节",
+      "onboard_time": 1696162834,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 329874,
       "num": 427475,
       "word": "国乒无缘女双4强",
@@ -1035,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316921,
+      "num": 316921,
+      "word": "王楚钦第3金",
+      "onboard_time": 1696159836,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316748,
       "num": 316748,
       "word": "丞磊下次要不戴耳机吧",
@@ -1057,14 +1129,6 @@
       "onboard_time": 1696154973,
       "rank": 32,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 312083,
-      "num": 312083,
-      "word": "中国女排vs印度女排",
-      "onboard_time": 1696159895,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 307942,
@@ -1131,6 +1195,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292902,
+      "num": 292902,
+      "word": "国羽男团0比1印度",
+      "onboard_time": 1696159775,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 288238,
+      "num": 288238,
+      "word": "南昌烟花",
+      "onboard_time": 1696161214,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 287647,
       "num": 287647,
       "word": "柯南新系列白马探将登场",
@@ -1179,6 +1259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278223,
+      "num": 278223,
+      "word": "丘索维金娜不认同体操运动员的黄金年龄",
+      "onboard_time": 1696162113,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277613,
       "num": 212714,
       "word": "街头随机采访到了富二代",
@@ -1193,14 +1281,6 @@
       "onboard_time": 1696133493,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 277077,
-      "num": 277077,
-      "word": "国羽男团0比1印度",
-      "onboard_time": 1696159775,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 276220,
@@ -1275,14 +1355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 262775,
-      "num": 262775,
-      "word": "王楚钦第3金",
-      "onboard_time": 1696159836,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262102,
       "num": 262102,
       "word": "梦中的那片海",
@@ -1297,6 +1369,14 @@
       "onboard_time": 1696130135,
       "rank": 32,
       "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 260998,
+      "num": 260998,
+      "word": "和平精英亚运决赛",
+      "onboard_time": 1696161094,
+      "rank": 36,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 260189,
@@ -1361,6 +1441,14 @@
       "onboard_time": 1696139254,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 251918,
+      "num": 251918,
+      "word": "升旗结束3男子草坪熟睡被艰难叫醒",
+      "onboard_time": 1696162415,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250378,
@@ -1451,11 +1539,11 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 240844,
-      "num": 240844,
-      "word": "国足亚运队vs韩国",
-      "onboard_time": 1696158877,
-      "rank": 34,
+      "raw_hot": 239751,
+      "num": 239751,
+      "word": "张雨霏原名叫冰清",
+      "onboard_time": 1696161273,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -1473,6 +1561,14 @@
       "onboard_time": 1696084007,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236174,
+      "num": 236174,
+      "word": "亚运会",
+      "onboard_time": 1696120409,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 234529,
@@ -1497,6 +1593,14 @@
       "onboard_time": 1696151972,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233237,
+      "num": 233237,
+      "word": "孙艺洲 有点冤但不多",
+      "onboard_time": 1696163137,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 232013,
@@ -1595,6 +1699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220757,
+      "num": 220757,
+      "word": "李现观战中网",
+      "onboard_time": 1696160436,
+      "rank": 42,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 219211,
       "num": 219211,
       "word": "鸡鸣寺的团宠橘猫",
@@ -1665,6 +1777,14 @@
       "onboard_time": 1696124673,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 205050,
+      "num": 205050,
+      "word": "和平项目中国队遥遥领先",
+      "onboard_time": 1696162593,
+      "rank": 46,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 204079,
@@ -1907,6 +2027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183093,
+      "num": 183093,
+      "word": "孙颖莎对亚运记者们说国庆节快乐",
+      "onboard_time": 1696162834,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182561,
       "num": 182561,
       "word": "从小到大一直在试图延迟幸福",
@@ -1960,6 +2088,14 @@
       "word": "超30万人齐聚天安门广场看升国旗",
       "onboard_time": 1696121910,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176694,
+      "num": 176694,
+      "word": "孙女中秋看望姥姥被塞钱一把扔地上",
+      "onboard_time": 1696160795,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2057,14 +2193,6 @@
       "onboard_time": 1696157793,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164407,
-      "num": 164407,
-      "word": "亚运会",
-      "onboard_time": 1696120409,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 163780,
@@ -2497,6 +2625,14 @@
       "onboard_time": 1696083942,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 61567,
+      "num": 669202,
+      "word": "女排首战",
+      "onboard_time": 1696161634,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 61107,
