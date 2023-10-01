@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696131239320,
+  "endTime": 1696133984616,
   "band_list": [
     {
       "raw_hot": 2794937,
@@ -59,6 +59,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1421574,
+      "num": 1421574,
+      "word": "倪妮 没挡住但摸摸头",
+      "onboard_time": 1696129532,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1336828,
       "num": 1336828,
       "word": "LV老板涉嫌洗钱受到调查",
@@ -83,12 +91,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 1117127,
-      "num": 1117127,
-      "word": "倪妮 没挡住但摸摸头",
-      "onboard_time": 1696129532,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 1050581,
+      "num": 1050581,
+      "word": "曾见义勇为的南京胖哥女儿离世",
+      "onboard_time": 1696128033,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 979214,
@@ -107,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 926250,
-      "num": 926250,
-      "word": "曾见义勇为的南京胖哥女儿离世",
-      "onboard_time": 1696128033,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 887973,
       "num": 831568,
       "word": "苏炳添哭了",
@@ -131,12 +131,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 786681,
+      "num": 786681,
+      "word": "留学时不要乱用emoji",
+      "onboard_time": 1696131754,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 708049,
       "num": 708049,
       "word": "郑秀晶说想重登舞台",
       "onboard_time": 1696126409,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 704439,
+      "num": 704439,
+      "word": "DOTA2中国队追平",
+      "onboard_time": 1696131991,
+      "rank": 5,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 701853,
@@ -185,6 +201,14 @@
       "onboard_time": 1696123771,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 612712,
+      "num": 612712,
+      "word": "国羽女团0比2韩国",
+      "onboard_time": 1696131394,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 599095,
@@ -249,6 +273,14 @@
       "onboard_time": 1696116144,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499180,
+      "num": 499180,
+      "word": "好多人啊",
+      "onboard_time": 1696127613,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 481951,
@@ -371,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370260,
+      "num": 370260,
+      "word": "权志龙离开YG加入华纳",
+      "onboard_time": 1696133852,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 369573,
       "num": 312709,
       "word": "DOTA2中国对阵马来西亚",
@@ -427,6 +467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 348151,
+      "num": 348151,
+      "word": "谭松韵素颜吃炸洋芋",
+      "onboard_time": 1696130435,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 339536,
       "num": 339536,
       "word": "杨幂高跟鞋不合脚",
@@ -457,14 +505,6 @@
       "onboard_time": 1696062514,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 324317,
-      "num": 324317,
-      "word": "好多人啊",
-      "onboard_time": 1696127613,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 320414,
@@ -611,20 +651,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247004,
+      "num": 247004,
+      "word": "虞书欣和长江七号合照",
+      "onboard_time": 1696133071,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246855,
       "num": 246855,
       "word": "53岁大叔撒娇想让患病母亲记住自己",
       "onboard_time": 1696129953,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245993,
-      "num": 245993,
-      "word": "谭松韵素颜吃炸洋芋",
-      "onboard_time": 1696130435,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 243673,
@@ -723,6 +763,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 214556,
+      "num": 214556,
+      "word": "志愿军里魏大勋演技被低估了",
+      "onboard_time": 1696133670,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212892,
       "num": 379495,
       "word": "我爱你中国是最深情的表白",
@@ -811,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193680,
+      "num": 193680,
+      "word": "凌晨两点半成都街头太燃了吧",
+      "onboard_time": 1696133493,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190927,
       "num": 190927,
       "word": "中国队包揽乒乓球混双冠亚军",
@@ -833,6 +889,14 @@
       "onboard_time": 1696120230,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190522,
+      "num": 190522,
+      "word": "Ame的水人",
+      "onboard_time": 1696133731,
+      "rank": 37,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 188244,
@@ -899,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176315,
+      "num": 176315,
+      "word": "贾一凡状态",
+      "onboard_time": 1696131933,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175557,
       "num": 175557,
       "word": "白宇哄李雪琴",
@@ -923,12 +995,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168010,
+      "num": 168010,
+      "word": "时代少年团献唱今天是你的生日",
+      "onboard_time": 1696131451,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 166724,
       "num": 166724,
       "word": "对弈竞猜",
       "onboard_time": 1696130735,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166572,
+      "num": 166572,
+      "word": "9旬老人跨城寻找美食记忆获暖心帮助",
+      "onboard_time": 1696133972,
+      "rank": 46,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 165081,
@@ -963,12 +1051,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162428,
+      "num": 162428,
+      "word": "坚如磐石",
+      "onboard_time": 1696131513,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161965,
       "num": 154141,
       "word": "西出玉门大结局",
       "onboard_time": 1696118787,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 160851,
+      "num": 517643,
+      "word": "5200米高原上官兵用吊车升起国旗",
+      "onboard_time": 1696133009,
+      "rank": 9,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 160831,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1696074099,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114124,
+      "num": 498411,
+      "word": "志愿军老兵日记本里写满对祖国的爱",
+      "onboard_time": 1696132352,
+      "rank": 12,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 110775,
