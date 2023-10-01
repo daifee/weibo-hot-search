@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/02 06:15:08
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/02 06:34:00
 </p>
 </blockquote>
 <p>
@@ -1137,6 +1137,12 @@ capper音乐节（热度：335103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%BD%E7%83%9F%E8%87%B4%E9%AB%98%E9%93%81%E9%99%8D%E9%80%9F%E5%8F%8D%E6%80%BC%E6%B0%91%E8%AD%A6%23" target="weibo">
+男子抽烟致高铁降速反怼民警（热度：322731）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E6%B4%97%E8%8E%B9%E6%81%90%E6%80%96%E5%A6%82%E6%96%AF%23" target="weibo">
 安洗莹恐怖如斯（热度：320414）
 </a>
@@ -1727,12 +1733,6 @@ Twins要出新歌了（热度：206757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8C%97%E5%B8%88%E5%A4%A7%E9%80%9A%E6%8A%A5%E5%AD%A6%E7%94%9F%E4%BF%9D%E7%A0%94%E5%90%8E%E8%B5%84%E6%A0%BC%E8%A2%AB%E6%94%B6%E5%9B%9E%23" target="weibo">
 西北师大通报学生保研后资格被收回（热度：204079）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%BD%E7%83%9F%E8%87%B4%E9%AB%98%E9%93%81%E9%99%8D%E9%80%9F%E5%8F%8D%E6%80%BC%E6%B0%91%E8%AD%A6%23" target="weibo">
-男子抽烟致高铁降速反怼民警（热度：203747）
 </a>
 </li>
 
@@ -2469,6 +2469,12 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%868.6%23" target="weibo">
+我有一个朋友豆瓣开分8.6（热度：91514）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232023%E5%B9%B4%E4%BB%85%E5%89%A93%E4%B8%AA%E6%9C%88%23" target="weibo">
 2023年仅剩3个月（热度：86722）
 </a>
@@ -2489,12 +2495,6 @@ IVE专辑预告视频（热度：104512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%B3%E5%A1%94%E7%BD%97%E5%A4%A7%E5%9B%9B%E5%96%9C%23" target="weibo">
 劳塔罗大四喜（热度：75818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%868.6%23" target="weibo">
-我有一个朋友豆瓣开分8.6（热度：73838）
 </a>
 </li>
 
@@ -2547,14 +2547,20 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E4%BB%AA%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%E6%8A%8A%E6%9E%97%E5%8F%8C%E6%B0%94%E7%AC%91%E4%BA%86%23" target="weibo">
+黄嘉仪的恋爱脑把林双气笑了（热度：43888）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BB%81%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 薛之谦滁州演唱会（热度：42674）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E4%BB%AA%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%E6%8A%8A%E6%9E%97%E5%8F%8C%E6%B0%94%E7%AC%91%E4%BA%86%23" target="weibo">
-黄嘉仪的恋爱脑把林双气笑了（热度：36888）
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E5%92%8C%E6%B2%88%E8%85%BE%E8%81%8A%E5%A4%A9%E6%AF%94%E8%AF%95%E6%88%8F%E8%BF%98%E7%B4%A7%E5%BC%A0%23" target="weibo">
+白敬亭说和沈腾聊天比试戏还紧张（热度：38716）
 </a>
 </li>
 
@@ -2567,12 +2573,6 @@ IVE专辑预告视频（热度：104512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%85%B1%E5%94%B1%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5%23" target="weibo">
 四地中小学生共唱今天是你的生日（热度：36398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E5%92%8C%E6%B2%88%E8%85%BE%E8%81%8A%E5%A4%A9%E6%AF%94%E8%AF%95%E6%88%8F%E8%BF%98%E7%B4%A7%E5%BC%A0%23" target="weibo">
-白敬亭说和沈腾聊天比试戏还紧张（热度：30442）
 </a>
 </li>
 
