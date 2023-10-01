@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696123251932,
+  "endTime": 1696124442887,
   "band_list": [
     {
       "raw_hot": 2794937,
@@ -25,6 +25,14 @@
       "onboard_time": 1696085860,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1550879,
+      "num": 1550879,
+      "word": "阚清子 恭喜莎头夺冠",
+      "onboard_time": 1696122270,
+      "rank": 10,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1474068,
@@ -59,16 +67,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 845520,
-      "num": 384410,
-      "word": "阚清子 恭喜莎头夺冠",
-      "onboard_time": 1696122270,
-      "rank": 10,
-      "category": "艺人,体育"
+      "raw_hot": 865374,
+      "num": 865374,
+      "word": "夫妻在有小孩之后发生的改变",
+      "onboard_time": 1696121850,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 841931,
+      "num": 841931,
+      "word": "奚梦瑶被何猷君幼稚到求救",
+      "onboard_time": 1696122990,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 701853,
-      "num": 463590,
+      "num": 621010,
       "word": "起猛了在韩综里听到张杰谢娜",
       "onboard_time": 1696121371,
       "rank": 3,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 653543,
-      "num": 336241,
+      "num": 340570,
       "word": "终于和网恋教父RichBrian奔现了",
       "onboard_time": 1696117705,
       "rank": 20,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 640428,
-      "num": 384052,
+      "num": 583092,
       "word": "张伟丽把奥尼尔举起来了",
       "onboard_time": 1696120889,
       "rank": 11,
@@ -105,14 +121,6 @@
       "onboard_time": 1696073620,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 595495,
-      "num": 385045,
-      "word": "夫妻在有小孩之后发生的改变",
-      "onboard_time": 1696121850,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 562123,
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 478021,
-      "num": 478021,
+      "num": 845415,
       "word": "国庆天安门广场升旗仪式",
       "onboard_time": 1696115423,
       "rank": 13,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 470711,
-      "num": 344897,
+      "num": 394811,
       "word": "原来拔智齿磨的是骨头不是牙",
       "onboard_time": 1696120409,
       "rank": 17,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 465272,
-      "num": 319730,
+      "num": 339468,
       "word": "女孩租房一年反复过敏发现床垫发霉",
       "onboard_time": 1696116864,
       "rank": 22,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 406461,
-      "num": 312191,
+      "num": 337787,
       "word": "韩国牙科医生吃糖葫芦的感受",
       "onboard_time": 1696120351,
       "rank": 23,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 404054,
-      "num": 307796,
+      "num": 335379,
       "word": "10月十二星座注意事项",
       "onboard_time": 1696119510,
       "rank": 24,
@@ -235,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373896,
+      "num": 247252,
+      "word": "全红婵陈芋汐回应炸鱼动作",
+      "onboard_time": 1696124070,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354283,
       "num": 354283,
       "word": "张小斐演妈是妈演姐是姐",
@@ -251,8 +267,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 340305,
-      "num": 340305,
+      "raw_hot": 347220,
+      "num": 347220,
       "word": "国庆节",
       "onboard_time": 1696116144,
       "rank": 14,
@@ -291,8 +307,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 300184,
-      "num": 300184,
+      "raw_hot": 321219,
+      "num": 321219,
+      "word": "苹果回应iPhone15Pro过热",
+      "onboard_time": 1696123771,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 312709,
+      "num": 312709,
       "word": "DOTA2中国对阵马来西亚",
       "onboard_time": 1696122270,
       "rank": 25,
@@ -300,11 +324,27 @@
     },
     {
       "raw_hot": 298750,
-      "num": 246143,
+      "num": 251236,
       "word": "为什么披萨里会有个小桌子",
       "onboard_time": 1696122390,
       "rank": 30,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 287647,
+      "num": 287647,
+      "word": "柯南新系列白马探将登场",
+      "onboard_time": 1696122691,
+      "rank": 29,
+      "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 286219,
+      "num": 286219,
+      "word": "卫明今天人丢大了",
+      "onboard_time": 1696122451,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 282437,
@@ -315,28 +355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280228,
-      "num": 280228,
-      "word": "奚梦瑶被何猷君幼稚到求救",
-      "onboard_time": 1696122990,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 276070,
       "num": 240131,
       "word": "DOTA2项目",
       "onboard_time": 1696119510,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 275461,
-      "num": 275461,
-      "word": "卫明今天人丢大了",
-      "onboard_time": 1696122451,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 275089,
@@ -395,14 +419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 246585,
-      "num": 246585,
-      "word": "柯南新系列白马探将登场",
-      "onboard_time": 1696122691,
-      "rank": 29,
-      "category": "动漫,电影"
-    },
-    {
       "raw_hot": 243673,
       "num": 243673,
       "word": "老外差点把杭州搬回家了",
@@ -417,6 +433,14 @@
       "onboard_time": 1696089754,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242038,
+      "num": 242038,
+      "word": "住酒店一定要注意这些地方",
+      "onboard_time": 1696123349,
+      "rank": 31,
+      "category": "旅游,知识科普"
     },
     {
       "raw_hot": 241670,
@@ -451,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212892,
+      "num": 379495,
+      "word": "我爱你中国是最深情的表白",
+      "onboard_time": 1696123174,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "Twins要出新歌了",
@@ -481,6 +513,14 @@
       "onboard_time": 1696089935,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193008,
+      "num": 193008,
+      "word": "江苏红了",
+      "onboard_time": 1696124431,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190927,
@@ -523,6 +563,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 182465,
+      "num": 182465,
+      "word": "国足亚运队与韩国争四强名额",
+      "onboard_time": 1696123831,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179114,
+      "num": 179114,
+      "word": "国庆文案",
+      "onboard_time": 1696118066,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 178539,
       "num": 178539,
       "word": "北方人真的很少吃杨桃吗",
@@ -547,20 +603,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175420,
+      "num": 1205210,
+      "word": "有一种自豪叫中国",
+      "onboard_time": 1696119808,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175189,
       "num": 175189,
       "word": "谢震业破十",
       "onboard_time": 1696085204,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172051,
-      "num": 489525,
-      "word": "有一种自豪叫中国",
-      "onboard_time": 1696119808,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168852,
@@ -595,6 +651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160831,
+      "num": 160831,
+      "word": "这就是今晨的天安门广场",
+      "onboard_time": 1696123950,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 158996,
       "num": 382638,
       "word": "葛曼棋女子100米夺金",
@@ -603,28 +667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158694,
-      "num": 181583,
-      "word": "我爱你中国是最深情的表白",
-      "onboard_time": 1696123174,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157293,
       "num": 157293,
       "word": "葛曼棋夺冠苏炳添激动落泪",
       "onboard_time": 1696087234,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 156892,
-      "num": 156892,
-      "word": "国庆文案",
-      "onboard_time": 1696118066,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 154669,
