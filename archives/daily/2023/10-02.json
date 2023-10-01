@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696177194065,
+  "endTime": 1696178118706,
   "band_list": [
     {
       "raw_hot": 1826869,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1377121,
-      "num": 503438,
+      "num": 549919,
       "word": "吴艳妮抢跑",
       "onboard_time": 1696166799,
       "rank": 5,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1081946,
-      "num": 185117,
+      "num": 190369,
       "word": "港媒曝郑少秋大女儿在美去世",
       "onboard_time": 1696168966,
       "rank": 30,
@@ -51,11 +51,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 579991,
+      "num": 579991,
+      "word": "漫展",
+      "onboard_time": 1696174596,
+      "rank": 4,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 572353,
       "num": 572353,
       "word": "不要给吴艳妮太大的压力",
       "onboard_time": 1696172740,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 558145,
+      "num": 558145,
+      "word": "马琳",
+      "onboard_time": 1696175913,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -65,14 +81,6 @@
       "onboard_time": 1696166923,
       "rank": 11,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 538199,
-      "num": 538199,
-      "word": "漫展",
-      "onboard_time": 1696174596,
-      "rank": 4,
-      "category": "动漫"
     },
     {
       "raw_hot": 472020,
@@ -99,6 +107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 438161,
+      "num": 354615,
+      "word": "互相都以为是对方婚礼传统习俗",
+      "onboard_time": 1696175254,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
       "raw_hot": 435571,
       "num": 435571,
       "word": "孙颖莎vs早田希娜",
@@ -123,20 +139,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 378478,
-      "num": 184516,
-      "word": "互相都以为是对方婚礼传统习俗",
-      "onboard_time": 1696175254,
-      "rank": 31,
-      "category": "其它"
-    },
-    {
       "raw_hot": 307469,
       "num": 307469,
       "word": "用来垫锅几年了才发现是成毅",
       "onboard_time": 1696165900,
       "rank": 15,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 301306,
+      "num": 188616,
+      "word": "孙艺洲 炫了三个兔头也没想明白",
+      "onboard_time": 1696177531,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 290952,
@@ -179,12 +195,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 269638,
-      "num": 269638,
-      "word": "马琳",
-      "onboard_time": 1696175913,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 264736,
+      "num": 264736,
+      "word": "Giselle巴黎时装周新造型",
+      "onboard_time": 1696177708,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 261953,
@@ -196,10 +212,18 @@
     },
     {
       "raw_hot": 243424,
-      "num": 332502,
+      "num": 352785,
       "word": "中国亚运男足无缘四强",
       "onboard_time": 1696169267,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 241031,
+      "num": 241031,
+      "word": "吴艳妮曾说起跑是自己的硬伤",
+      "onboard_time": 1696176631,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -235,20 +259,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201704,
-      "num": 184137,
-      "word": "吴艳妮曾说起跑是自己的硬伤",
-      "onboard_time": 1696176631,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 198519,
-      "num": 198519,
+      "num": 351805,
       "word": "林雨薇100米栏金牌",
       "onboard_time": 1696167283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186850,
+      "num": 186850,
+      "word": "离婚后的林双vs离婚后的卫明",
+      "onboard_time": 1696176631,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 186312,
@@ -275,14 +299,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161659,
-      "num": 161659,
-      "word": "离婚后的林双vs离婚后的卫明",
-      "onboard_time": 1696176631,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148674,
       "num": 148674,
       "word": "孙颖莎说感谢教练队友和粉丝",
@@ -297,6 +313,14 @@
       "onboard_time": 1696174895,
       "rank": 37,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 138390,
+      "num": 138390,
+      "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
+      "onboard_time": 1696177470,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 138299,
@@ -395,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104512,
+      "num": 104512,
+      "word": "IVE专辑预告视频",
+      "onboard_time": 1696178070,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 99724,
       "num": 99724,
       "word": "海珠广场",
@@ -406,6 +438,9 @@
   "hotgov_list": [
     {
       "word": "#庆祝新中国成立74周年#"
+    },
+    {
+      "word": "#今天之中国我为你骄傲#"
     }
   ]
 }

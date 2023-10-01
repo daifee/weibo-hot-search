@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696177194065,
+  "endTime": 1696178118706,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -787,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 579991,
+      "num": 579991,
+      "word": "漫展",
+      "onboard_time": 1696174596,
+      "rank": 4,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 572828,
       "num": 572828,
       "word": "张远输了十六年终于赢了一回",
@@ -827,12 +835,12 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 538199,
-      "num": 538199,
-      "word": "漫展",
-      "onboard_time": 1696174596,
-      "rank": 4,
-      "category": "动漫"
+      "raw_hot": 558145,
+      "num": 558145,
+      "word": "马琳",
+      "onboard_time": 1696068522,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 530605,
@@ -1091,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 438161,
+      "num": 354615,
+      "word": "互相都以为是对方婚礼传统习俗",
+      "onboard_time": 1696175254,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
       "raw_hot": 436529,
       "num": 436529,
       "word": "用来垫锅几年了才发现是成毅",
@@ -1233,14 +1249,6 @@
       "onboard_time": 1696083822,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 378478,
-      "num": 184516,
-      "word": "互相都以为是对方婚礼传统习俗",
-      "onboard_time": 1696175254,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 376624,
@@ -1579,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301306,
+      "num": 188616,
+      "word": "孙艺洲 炫了三个兔头也没想明白",
+      "onboard_time": 1696177531,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 300130,
       "num": 300130,
       "word": "是怎么说服黄景瑜王子奇拍的",
@@ -1787,20 +1803,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269638,
-      "num": 269638,
-      "word": "马琳",
-      "onboard_time": 1696068522,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 265951,
       "num": 265951,
       "word": "韩媒抹黑国足亚运队",
       "onboard_time": 1696135893,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 264736,
+      "num": 264736,
+      "word": "Giselle巴黎时装周新造型",
+      "onboard_time": 1696177708,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 262102,
@@ -2001,6 +2017,14 @@
       "onboard_time": 1696110795,
       "rank": 21,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 241031,
+      "num": 241031,
+      "word": "吴艳妮曾说起跑是自己的硬伤",
+      "onboard_time": 1696176631,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 239751,
@@ -2283,14 +2307,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 201704,
-      "num": 184137,
-      "word": "吴艳妮曾说起跑是自己的硬伤",
-      "onboard_time": 1696176631,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "10岁小女孩牢记1.5万字讲解词",
@@ -2505,6 +2521,14 @@
       "onboard_time": 1696140513,
       "rank": 14,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 186850,
+      "num": 186850,
+      "word": "离婚后的林双vs离婚后的卫明",
+      "onboard_time": 1696176631,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 185640,
@@ -2795,14 +2819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161659,
-      "num": 161659,
-      "word": "离婚后的林双vs离婚后的卫明",
-      "onboard_time": 1696176631,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161053,
       "num": 161053,
       "word": "80岁退伍老兵忘了很多事却坚持升国旗",
@@ -3019,6 +3035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138390,
+      "num": 138390,
+      "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
+      "onboard_time": 1696177470,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134638,
       "num": 595282,
       "word": "白裤瑶孩子们合唱我和我的祖国",
@@ -3161,6 +3185,14 @@
       "onboard_time": 1696121071,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 104512,
+      "num": 104512,
+      "word": "IVE专辑预告视频",
+      "onboard_time": 1696178070,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 100827,
