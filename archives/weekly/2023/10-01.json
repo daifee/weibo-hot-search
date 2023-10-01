@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696163406546,
+  "endTime": 1696164337234,
   "band_list": [
     {
       "raw_hot": 6008481,
@@ -16,6 +16,14 @@
       "word": "韩国女队员侮辱性模仿何冰娇含泪",
       "onboard_time": 1696140513,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4311810,
+      "num": 4311810,
+      "word": "孙颖莎vs早田希娜",
+      "onboard_time": 1696163674,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1996094,
-      "num": 675188,
+      "num": 767250,
       "word": "巴黎世家 刘昊然",
       "onboard_time": 1696157373,
       "rank": 11,
@@ -97,6 +105,14 @@
       "onboard_time": 1696150592,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1781077,
+      "num": 770401,
+      "word": "巴黎偶遇杨紫",
+      "onboard_time": 1696161334,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1775651,
@@ -139,14 +155,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1647812,
-      "num": 667401,
-      "word": "巴黎偶遇杨紫",
-      "onboard_time": 1696161334,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1634646,
       "num": 942644,
       "word": "赵丽颖重现楚乔传高马尾",
@@ -155,8 +163,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1565119,
-      "num": 1565119,
+      "raw_hot": 1593000,
+      "num": 1593000,
       "word": "女单决赛",
       "onboard_time": 1696158097,
       "rank": 19,
@@ -307,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1005707,
+      "num": 1005707,
+      "word": "国足亚运队vs韩国",
+      "onboard_time": 1696158877,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 983851,
       "num": 202091,
       "word": "棕熊体内的寄生虫被拖着走",
@@ -344,6 +360,14 @@
       "word": "樊振东王楚钦进男双决赛",
       "onboard_time": 1696136312,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 890525,
+      "num": 890525,
+      "word": "樊振东让没天赋的人没饭吃了",
+      "onboard_time": 1696161756,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -419,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 743641,
+      "num": 743641,
+      "word": "原生家庭是他们能给你的全部了",
+      "onboard_time": 1696163014,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 736119,
       "num": 736119,
       "word": "魏大勋 白月光",
@@ -457,14 +489,6 @@
       "onboard_time": 1696121371,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 700538,
-      "num": 700538,
-      "word": "国足亚运队vs韩国",
-      "onboard_time": 1696158877,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 688963,
@@ -536,14 +560,6 @@
       "word": "国羽女团0比2韩国",
       "onboard_time": 1696131394,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 629950,
-      "num": 629950,
-      "word": "樊振东让没天赋的人没饭吃了",
-      "onboard_time": 1696161756,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -755,16 +771,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 475845,
-      "num": 475845,
-      "word": "原生家庭是他们能给你的全部了",
-      "onboard_time": 1696163014,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 474551,
-      "num": 672795,
+      "num": 748654,
       "word": "韩国选手球拍上有马龙照片",
       "onboard_time": 1696157855,
       "rank": 14,
@@ -833,6 +841,14 @@
       "onboard_time": 1696085022,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 433048,
+      "num": 433048,
+      "word": "朴志焄 希望大家不要在意",
+      "onboard_time": 1696163856,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 422243,
@@ -931,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380440,
+      "num": 380440,
+      "word": "孙艺洲 有点冤但不多",
+      "onboard_time": 1696163137,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 376624,
       "num": 376624,
       "word": "梅姨安妮海瑟薇 梦回穿Prada的女王",
@@ -952,6 +976,14 @@
       "word": "DOTA2中国对阵马来西亚",
       "onboard_time": 1696122270,
       "rank": 25,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 368423,
+      "num": 368423,
+      "word": "和平项目中国队遥遥领先",
+      "onboard_time": 1696162593,
+      "rank": 46,
       "category": "游戏,体育"
     },
     {
@@ -1003,6 +1035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 356763,
+      "num": 356763,
+      "word": "国羽男团0比1印度",
+      "onboard_time": 1696159775,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354283,
       "num": 354283,
       "word": "张小斐演妈是妈演姐是姐",
@@ -1041,6 +1081,14 @@
       "onboard_time": 1696080521,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 335996,
+      "num": 335996,
+      "word": "王楚钦第3金",
+      "onboard_time": 1696159836,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 335531,
@@ -1083,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 324505,
+      "num": 324505,
+      "word": "海珠广场",
+      "onboard_time": 1696163616,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320414,
       "num": 320414,
       "word": "安洗莹恐怖如斯",
@@ -1097,14 +1153,6 @@
       "onboard_time": 1696148618,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 316921,
-      "num": 316921,
-      "word": "王楚钦第3金",
-      "onboard_time": 1696159836,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 316748,
@@ -1193,14 +1241,6 @@
       "onboard_time": 1696139973,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 292902,
-      "num": 292902,
-      "word": "国羽男团0比1印度",
-      "onboard_time": 1696159775,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 288238,
@@ -1499,6 +1539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246871,
+      "num": 246871,
+      "word": "85花爆剧统计",
+      "onboard_time": 1696164157,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246855,
       "num": 246855,
       "word": "53岁大叔撒娇想让患病母亲记住自己",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1696151972,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 233237,
-      "num": 233237,
-      "word": "孙艺洲 有点冤但不多",
-      "onboard_time": 1696163137,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 232013,
@@ -1779,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 205050,
-      "num": 205050,
-      "word": "和平项目中国队遥遥领先",
-      "onboard_time": 1696162593,
-      "rank": 46,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 204079,
       "num": 204079,
       "word": "西北师大通报学生保研后资格被收回",
@@ -1883,6 +1915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196701,
+      "num": 196701,
+      "word": "孙女中秋看望姥姥被塞钱一把扔地上",
+      "onboard_time": 1696160795,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196453,
       "num": 196453,
       "word": "张雨霏反向审美竟是一块腹肌",
@@ -1945,6 +1985,14 @@
       "onboard_time": 1696120230,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 190046,
+      "num": 190046,
+      "word": "孙颖莎4比0申裕彬",
+      "onboard_time": 1696164218,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 188244,
@@ -2088,14 +2136,6 @@
       "word": "超30万人齐聚天安门广场看升国旗",
       "onboard_time": 1696121910,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 176694,
-      "num": 176694,
-      "word": "孙女中秋看望姥姥被塞钱一把扔地上",
-      "onboard_time": 1696160795,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2315,6 +2355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154326,
+      "num": 377836,
+      "word": "戍边战士冰山脚下展开国旗庄严宣誓",
+      "onboard_time": 1696164036,
+      "rank": 24,
+      "category": "军事,社会新闻"
+    },
+    {
       "raw_hot": 151438,
       "num": 151438,
       "word": "张颂文 先辈用生命换来岁月静好",
@@ -2408,6 +2456,14 @@
       "word": "农村小伙用自种农作物摆出天安门",
       "onboard_time": 1696143456,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134638,
+      "num": 187500,
+      "word": "白裤瑶孩子们合唱我和我的祖国",
+      "onboard_time": 1696162593,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2611,6 +2667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70466,
+      "num": 745827,
+      "word": "女排首战",
+      "onboard_time": 1696161634,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66655,
       "num": 35531,
       "word": "一起祝福新中国生日快乐",
@@ -2625,14 +2689,6 @@
       "onboard_time": 1696083942,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 61567,
-      "num": 669202,
-      "word": "女排首战",
-      "onboard_time": 1696161634,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 61107,
