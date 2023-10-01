@@ -1,0 +1,410 @@
+{
+  "runTime": 1696196037882,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 197004,
+        "num": 197004,
+        "word": "吴艳妮回应抢跑",
+        "onboard_time": 1696171421,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107542,
+        "num": 107542,
+        "word": "孙女整理爷爷遗物发现备好的嫁妆",
+        "onboard_time": 1696173278,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2559,
+        "num": 78511,
+        "word": "有一种自豪叫中国",
+        "onboard_time": 1696119808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71963,
+        "num": 71963,
+        "word": "中国队决赛不藏了",
+        "onboard_time": 1696164944,
+        "rank": 3,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 63091,
+        "num": 63091,
+        "word": "一盒月饼下去办公室无人生还",
+        "onboard_time": 1696167108,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60760,
+        "num": 60760,
+        "word": "孙艺洲 炫了三个兔头也没想明白",
+        "onboard_time": 1696177531,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57144,
+        "num": 57144,
+        "word": "吴艳妮抢跑",
+        "onboard_time": 1696166799,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53519,
+        "num": 53519,
+        "word": "互相都以为是对方婚礼传统习俗",
+        "onboard_time": 1696175254,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 44788,
+        "num": 44788,
+        "word": "你认为多少岁结婚最合适",
+        "onboard_time": 1696185257,
+        "rank": 8,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 42233,
+        "num": 42233,
+        "word": "女生手滑误拒浙大保研通知",
+        "onboard_time": 1696151073,
+        "rank": 9,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 51508,
+        "num": 41396,
+        "word": "杨紫AndrewGarfield合影",
+        "onboard_time": 1696174235,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40150,
+        "num": 40150,
+        "word": "吴艳妮成绩被取消",
+        "onboard_time": 1696168425,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38207,
+        "num": 38207,
+        "word": "林雨薇100米栏金牌",
+        "onboard_time": 1696167283,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35788,
+        "num": 37543,
+        "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
+        "onboard_time": 1696177470,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24939,
+        "num": 37489,
+        "word": "中国亚运男足无缘四强",
+        "onboard_time": 1696169267,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37458,
+        "num": 37458,
+        "word": "用来垫锅几年了才发现是成毅",
+        "onboard_time": 1696165900,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 36826,
+        "num": 36826,
+        "word": "家有儿女取景地",
+        "onboard_time": 1696160136,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34241,
+        "num": 34241,
+        "word": "黄嘉仪的恋爱脑把林双气笑了",
+        "onboard_time": 1696192333,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34219,
+        "num": 34219,
+        "word": "华伦天奴",
+        "onboard_time": 1696166923,
+        "rank": 18,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 32731,
+        "num": 32731,
+        "word": "电影史上的绝佳镜头",
+        "onboard_time": 1696182081,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108060,
+        "num": 32689,
+        "word": "许家印",
+        "onboard_time": 1696154912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57598,
+        "num": 32484,
+        "word": "男子抽烟致高铁降速反怼民警",
+        "onboard_time": 1696193415,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39910,
+        "num": 32399,
+        "word": "小狗气呼呼的把被窝搬出去",
+        "onboard_time": 1696175194,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 34219,
+        "num": 32292,
+        "word": "马天宇时隔八年再上旅游综艺",
+        "onboard_time": 1696181601,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32170,
+        "num": 32170,
+        "word": "吴艳妮曾说起跑是自己的硬伤",
+        "onboard_time": 1696176631,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31929,
+        "num": 31929,
+        "word": "我有一个朋友豆瓣开分8.6",
+        "onboard_time": 1696191975,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30941,
+        "num": 30941,
+        "word": "马琳",
+        "onboard_time": 1696175913,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29905,
+        "num": 29905,
+        "word": "离婚后的林双vs离婚后的卫明",
+        "onboard_time": 1696176631,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29376,
+        "num": 29376,
+        "word": "黄嘉仪怀孕",
+        "onboard_time": 1696174179,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28662,
+        "num": 28662,
+        "word": "被帝王蟹同事吃了的鲍鱼",
+        "onboard_time": 1696175073,
+        "rank": 29,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 138286,
+        "num": 28562,
+        "word": "港媒曝郑少秋大女儿在美去世",
+        "onboard_time": 1696168966,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28199,
+        "num": 28199,
+        "word": "虞书欣脉搏犹如40岁男子壮如牛",
+        "onboard_time": 1696166923,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27350,
+        "num": 27350,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1696163674,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26302,
+        "num": 26302,
+        "word": "沈腾要加王安宇微信",
+        "onboard_time": 1696179326,
+        "rank": 33,
+        "category": "艺人,综艺"
+      },
+      {
+        "raw_hot": 25876,
+        "num": 25876,
+        "word": "陆毅简直把关智斌当儿子宠",
+        "onboard_time": 1696173337,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25536,
+        "num": 25536,
+        "word": "巴黎世家 刘昊然",
+        "onboard_time": 1696157373,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 24107,
+        "num": 24107,
+        "word": "原生家庭是他们能给你的全部了",
+        "onboard_time": 1696163014,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23103,
+        "num": 23103,
+        "word": "漫展",
+        "onboard_time": 1696174596,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 22503,
+        "num": 22503,
+        "word": "孙颖莎女单夺金",
+        "onboard_time": 1696165005,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21481,
+        "num": 21481,
+        "word": "杨紫羽毛袖白衬衫造型",
+        "onboard_time": 1696170941,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 20937,
+        "num": 20937,
+        "word": "46岁男子看奶奶照片笑着笑着红了眼",
+        "onboard_time": 1696174895,
+        "rank": 40,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 20908,
+        "num": 20908,
+        "word": "白敬亭说和沈腾聊天比试戏还紧张",
+        "onboard_time": 1696187116,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20731,
+        "num": 20731,
+        "word": "周深音乐节被喊周深开门",
+        "onboard_time": 1696172263,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19842,
+        "num": 19842,
+        "word": "不要给吴艳妮太大的压力",
+        "onboard_time": 1696172740,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19248,
+        "num": 19248,
+        "word": "樊振东王楚钦男双夺金",
+        "onboard_time": 1696159059,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18685,
+        "num": 18685,
+        "word": "和平精英项目",
+        "onboard_time": 1696161035,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18506,
+        "num": 18506,
+        "word": "亚运会",
+        "onboard_time": 1696162834,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18435,
+        "num": 18435,
+        "word": "郑恺潜伏在影院看前任4",
+        "onboard_time": 1696176453,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17122,
+        "num": 18433,
+        "word": "黄景瑜的嘴有502吧",
+        "onboard_time": 1696178966,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15659,
+        "num": 18429,
+        "word": "加油杭州亚运会",
+        "onboard_time": 1696183280,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一种骄傲叫我爱你中国#"
+    }
+  }
+}
