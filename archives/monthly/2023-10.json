@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696145625236,
+  "endTime": 1696148379438,
   "band_list": [
     {
       "raw_hot": 5133946,
@@ -25,6 +25,14 @@
       "onboard_time": 1696110854,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2512147,
+      "num": 2512147,
+      "word": "王艺迪vs早田希娜",
+      "onboard_time": 1696145732,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2455273,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 1436478,
-      "num": 456958,
+      "num": 517332,
       "word": "王一博新发色藏不住了",
       "onboard_time": 1696139371,
       "rank": 11,
@@ -161,6 +169,14 @@
       "onboard_time": 1696122990,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1303576,
+      "num": 1303576,
+      "word": "台媒报道杨幂弘扬中华文化",
+      "onboard_time": 1696144594,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1213705,
@@ -307,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 697373,
+      "num": 697373,
+      "word": "女单半决赛",
+      "onboard_time": 1696144534,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 688963,
       "num": 630967,
       "word": "全红婵陈芋汐回应炸鱼动作",
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 521378,
+      "num": 521378,
+      "word": "希望国乒双打失利能引起教练组的重视",
+      "onboard_time": 1696144055,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 516445,
       "num": 516445,
       "word": "国庆节",
@@ -449,6 +481,22 @@
       "onboard_time": 1696127613,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 496831,
+      "num": 496831,
+      "word": "被稻城亚丁的风景累惨了",
+      "onboard_time": 1696144293,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 488747,
+      "num": 488747,
+      "word": "坚如磐石 质疑了你就入戏了",
+      "onboard_time": 1696146692,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 481951,
@@ -491,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 465201,
-      "num": 465201,
-      "word": "台媒报道杨幂弘扬中华文化",
-      "onboard_time": 1696144594,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 463675,
       "num": 371892,
       "word": "每天吃鸡蛋真的可以预防脱发吗",
@@ -515,20 +555,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 435492,
-      "num": 435492,
-      "word": "女单半决赛",
-      "onboard_time": 1696144534,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 422551,
-      "num": 422551,
-      "word": "希望国乒双打失利能引起教练组的重视",
-      "onboard_time": 1696144055,
-      "rank": 32,
-      "category": "体育"
+      "raw_hot": 425882,
+      "num": 425882,
+      "word": "王源看秀待遇",
+      "onboard_time": 1696145255,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 422243,
@@ -683,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 350055,
-      "num": 350055,
-      "word": "被稻城亚丁的风景累惨了",
-      "onboard_time": 1696144293,
-      "rank": 33,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 349540,
       "num": 280626,
       "word": "男子尿急误把高架当隔离带一跃而下",
@@ -747,12 +771,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 323357,
+      "num": 323357,
+      "word": "萝卜刀应该被禁吗",
+      "onboard_time": 1696147110,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320414,
       "num": 320414,
       "word": "安洗莹恐怖如斯",
       "onboard_time": 1696129112,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316748,
+      "num": 316748,
+      "word": "丞磊下次要不戴耳机吧",
+      "onboard_time": 1696145432,
+      "rank": 40,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 314008,
@@ -769,6 +809,14 @@
       "onboard_time": 1696133670,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 306955,
+      "num": 306955,
+      "word": "孙颖莎想跟王艺迪会师决赛",
+      "onboard_time": 1696145732,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 300130,
@@ -851,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 276220,
+      "num": 276220,
+      "word": "杨紫抵达巴黎",
+      "onboard_time": 1696144655,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276070,
       "num": 240131,
       "word": "DOTA2项目",
@@ -891,20 +947,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271389,
+      "num": 271389,
+      "word": "黄嘉仪是来整顿卫明全家的吗",
+      "onboard_time": 1696146512,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265951,
       "num": 265951,
       "word": "韩媒抹黑国足亚运队",
       "onboard_time": 1696135893,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262753,
-      "num": 262753,
-      "word": "杨紫抵达巴黎",
-      "onboard_time": 1696144655,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 262102,
@@ -1091,14 +1147,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 230867,
-      "num": 230867,
-      "word": "王源看秀待遇",
-      "onboard_time": 1696145255,
-      "rank": 26,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 229264,
       "num": 229264,
       "word": "元气少女缘结神巴卫新粘土人",
@@ -1113,6 +1161,14 @@
       "onboard_time": 1696129834,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228181,
+      "num": 228181,
+      "word": "不小心把大哥穿的衣服翻译了",
+      "onboard_time": 1696144833,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 227948,
@@ -1307,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191768,
-      "num": 191768,
-      "word": "不小心把大哥穿的衣服翻译了",
-      "onboard_time": 1696144833,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 190927,
       "num": 190927,
       "word": "中国队包揽乒乓球混双冠亚军",
@@ -1363,6 +1411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185111,
+      "num": 185111,
+      "word": "不要怀疑自己胜利的秘诀就是相信自己",
+      "onboard_time": 1696147593,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183935,
       "num": 183935,
       "word": "纯爱有多甜",
@@ -1377,6 +1433,14 @@
       "onboard_time": 1696130556,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182607,
+      "num": 182607,
+      "word": "坚如磐石",
+      "onboard_time": 1696131513,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 182561,
@@ -1419,6 +1483,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 178275,
+      "num": 178275,
+      "word": "鸡鸣寺的团宠橘猫",
+      "onboard_time": 1696147893,
+      "rank": 33,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 176883,
       "num": 176883,
       "word": "超30万人齐聚天安门广场看升国旗",
@@ -1448,6 +1520,14 @@
       "word": "谢震业破十",
       "onboard_time": 1696085204,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173732,
+      "num": 173732,
+      "word": "郑钦文说不会原谅前教练",
+      "onboard_time": 1696146094,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1515,28 +1595,12 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 162947,
-      "num": 162947,
-      "word": "丞磊下次要不戴耳机吧",
-      "onboard_time": 1696145432,
-      "rank": 40,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 162775,
       "num": 162775,
       "word": "他从火光中走来精神传承版海报",
       "onboard_time": 1696131034,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162428,
-      "num": 162428,
-      "word": "坚如磐石",
-      "onboard_time": 1696131513,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 162146,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1696126111,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159345,
+      "num": 159345,
+      "word": "邓为云秀行今日杀青",
+      "onboard_time": 1696148311,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 159225,
@@ -1691,6 +1763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133494,
+      "num": 133494,
+      "word": "莫斯科行动是纯血类型片",
+      "onboard_time": 1696146991,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128437,
       "num": 128437,
       "word": "国旗护卫队脚步声响彻天安门广场",
@@ -1737,6 +1817,14 @@
       "onboard_time": 1696062274,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120520,
+      "num": 120520,
+      "word": "老人自发组织小区每周升国旗唱国歌",
+      "onboard_time": 1696146873,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116310,
@@ -1817,6 +1905,14 @@
       "onboard_time": 1696116744,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 82304,
+      "num": 1362354,
+      "word": "这些大国重器彰显中国底气",
+      "onboard_time": 1696146931,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 80636,
