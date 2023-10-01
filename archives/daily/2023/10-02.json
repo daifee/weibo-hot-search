@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696181633068,
+  "endTime": 1696184414343,
   "band_list": [
     {
       "raw_hot": 1826869,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121542,
+      "num": 91075,
+      "word": "马天宇时隔八年再上旅游综艺",
+      "onboard_time": 1696181601,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120878,
       "num": 120878,
       "word": "EDG第一幕夺冠",
@@ -451,12 +459,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78834,
-      "num": 78834,
-      "word": "马天宇时隔八年再上旅游综艺",
-      "onboard_time": 1696181601,
-      "rank": 38,
-      "category": "综艺"
+      "raw_hot": 92620,
+      "num": 92620,
+      "word": "电影史上的绝佳镜头",
+      "onboard_time": 1696182081,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 71697,
@@ -489,6 +497,14 @@
       "onboard_time": 1696164157,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 36583,
+      "num": 36583,
+      "word": "加油杭州亚运会",
+      "onboard_time": 1696183280,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 7739,
