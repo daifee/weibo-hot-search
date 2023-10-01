@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696192437729,
+  "endTime": 1696194901523,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -3371,6 +3371,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 39683,
+      "num": 30549,
+      "word": "男子抽烟致高铁降速反怼民警",
+      "onboard_time": 1696193415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38432,
+      "num": 30442,
+      "word": "我有一个朋友豆瓣开分8.6",
+      "onboard_time": 1696191975,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36888,
+      "num": 36888,
+      "word": "黄嘉仪的恋爱脑把林双气笑了",
+      "onboard_time": 1696192333,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36583,
       "num": 36583,
       "word": "加油杭州亚运会",
@@ -3419,14 +3443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21944,
-      "num": 21944,
-      "word": "我有一个朋友豆瓣开分8.6",
-      "onboard_time": 1696191975,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 18957,
       "num": 588448,
       "word": "盛世中华 大美中国",
@@ -3435,12 +3451,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 15846,
-      "num": 15846,
-      "word": "黄嘉仪的恋爱脑把林双气笑了",
-      "onboard_time": 1696192333,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 17526,
+      "num": 17526,
+      "word": "和平精英项目",
+      "onboard_time": 1696161035,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 13909,
