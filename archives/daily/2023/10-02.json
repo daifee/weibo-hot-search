@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696199640801,
+  "endTime": 1696202180561,
   "band_list": [
     {
       "raw_hot": 1826869,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 506419,
+      "num": 149617,
+      "word": "男子抽烟致高铁降速反怼民警",
+      "onboard_time": 1696193415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472020,
       "num": 265842,
       "word": "被帝王蟹同事吃了的鲍鱼",
@@ -147,20 +155,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 322731,
-      "num": 84328,
-      "word": "男子抽烟致高铁降速反怼民警",
-      "onboard_time": 1696193415,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 307469,
       "num": 307469,
       "word": "用来垫锅几年了才发现是成毅",
       "onboard_time": 1696165900,
       "rank": 15,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 291481,
+      "num": 291481,
+      "word": "孙女整理爷爷遗物发现备好的嫁妆",
+      "onboard_time": 1696173278,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290952,
@@ -243,14 +251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 232877,
-      "num": 232877,
-      "word": "孙女整理爷爷遗物发现备好的嫁妆",
-      "onboard_time": 1696173278,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225420,
       "num": 225420,
       "word": "孙颖莎女单夺金",
@@ -273,6 +273,14 @@
       "onboard_time": 1696167283,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193704,
+      "num": 148619,
+      "word": "菩提祖师才是孙悟空唯一的师父",
+      "onboard_time": 1696201342,
+      "rank": 11,
+      "category": "其它"
     },
     {
       "raw_hot": 186850,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 183333,
-      "num": 109156,
+      "num": 162859,
       "word": "你认为多少岁结婚最合适",
       "onboard_time": 1696185257,
       "rank": 5,
@@ -385,6 +393,14 @@
       "onboard_time": 1696179326,
       "rank": 31,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 126797,
+      "num": 126797,
+      "word": "我有一个朋友豆瓣开分8.6",
+      "onboard_time": 1696191975,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 125974,
@@ -483,12 +499,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 91514,
-      "num": 67165,
-      "word": "我有一个朋友豆瓣开分8.6",
-      "onboard_time": 1696191975,
-      "rank": 37,
+      "raw_hot": 90722,
+      "num": 80510,
+      "word": "世界上最幽默的自嘲 奥运五环变四环",
+      "onboard_time": 1696201219,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 76555,
+      "num": 76555,
+      "word": "黄嘉仪的恋爱脑把林双气笑了",
+      "onboard_time": 1696192333,
+      "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75335,
+      "num": 75335,
+      "word": "白敬亭说和沈腾聊天比试戏还紧张",
+      "onboard_time": 1696187116,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 71697,
@@ -523,20 +555,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 43888,
-      "num": 43888,
-      "word": "黄嘉仪的恋爱脑把林双气笑了",
-      "onboard_time": 1696192333,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 49185,
+      "num": 49185,
+      "word": "云南跟团游我们经历了什么",
+      "onboard_time": 1696202063,
+      "rank": 46,
+      "category": "旅游"
     },
     {
-      "raw_hot": 38716,
-      "num": 38716,
-      "word": "白敬亭说和沈腾聊天比试戏还紧张",
-      "onboard_time": 1696187116,
-      "rank": 42,
-      "category": "综艺"
+      "raw_hot": 47493,
+      "num": 49183,
+      "word": "满屏战机数都数不清",
+      "onboard_time": 1696199837,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 47298,
+      "num": 49179,
+      "word": "因不能合照儿子画全家福送缉毒警爸爸",
+      "onboard_time": 1696202002,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36583,
@@ -571,7 +611,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 7739,
+      "raw_hot": 8754,
       "num": 689696,
       "word": "有一种自豪叫中国",
       "onboard_time": 1696119808,

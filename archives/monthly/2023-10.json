@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696199640801,
+  "endTime": 1696202180561,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -923,6 +923,14 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 506419,
+      "num": 149617,
+      "word": "男子抽烟致高铁降速反怼民警",
+      "onboard_time": 1696193415,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 499884,
       "num": 499884,
       "word": "你好星期六全员被趾压板支配的恐惧",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1696062514,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 322731,
-      "num": 84328,
-      "word": "男子抽烟致高铁降速反怼民警",
-      "onboard_time": 1696193415,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320414,
@@ -2459,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193704,
+      "num": 148619,
+      "word": "菩提祖师才是孙悟空唯一的师父",
+      "onboard_time": 1696201342,
+      "rank": 11,
+      "category": "其它"
+    },
+    {
       "raw_hot": 193642,
       "num": 193642,
       "word": "李一桐体验雨浇梅花酷刑",
@@ -2588,7 +2596,7 @@
     },
     {
       "raw_hot": 183333,
-      "num": 109156,
+      "num": 162859,
       "word": "你认为多少岁结婚最合适",
       "onboard_time": 1696185257,
       "rank": 5,
@@ -3115,6 +3123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 126797,
+      "num": 126797,
+      "word": "我有一个朋友豆瓣开分8.6",
+      "onboard_time": 1696191975,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123548,
       "num": 123548,
       "word": "央视新闻里的吉克隽逸",
@@ -3275,12 +3291,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 91514,
-      "num": 67165,
-      "word": "我有一个朋友豆瓣开分8.6",
-      "onboard_time": 1696191975,
-      "rank": 37,
-      "category": "剧集"
+      "raw_hot": 90722,
+      "num": 80510,
+      "word": "世界上最幽默的自嘲 奥运五环变四环",
+      "onboard_time": 1696201219,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 86722,
@@ -3307,12 +3323,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76555,
+      "num": 76555,
+      "word": "黄嘉仪的恋爱脑把林双气笑了",
+      "onboard_time": 1696192333,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75818,
       "num": 75818,
       "word": "劳塔罗大四喜",
       "onboard_time": 1696116564,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75335,
+      "num": 75335,
+      "word": "白敬亭说和沈腾聊天比试戏还紧张",
+      "onboard_time": 1696187116,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 73547,
@@ -3371,19 +3403,35 @@
       "category": "演出"
     },
     {
+      "raw_hot": 49185,
+      "num": 49185,
+      "word": "云南跟团游我们经历了什么",
+      "onboard_time": 1696202063,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 47493,
+      "num": 49183,
+      "word": "满屏战机数都数不清",
+      "onboard_time": 1696199837,
+      "rank": 47,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 47298,
+      "num": 49179,
+      "word": "因不能合照儿子画全家福送缉毒警爸爸",
+      "onboard_time": 1696202002,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44122,
       "num": 44122,
       "word": "刘诗诗狐妖竹叶篇绿衣路透图",
       "onboard_time": 1696108274,
       "rank": 49,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 43888,
-      "num": 43888,
-      "word": "黄嘉仪的恋爱脑把林双气笑了",
-      "onboard_time": 1696192333,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -3393,14 +3441,6 @@
       "onboard_time": 1696097359,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 38716,
-      "num": 38716,
-      "word": "白敬亭说和沈腾聊天比试戏还紧张",
-      "onboard_time": 1696187116,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 36583,

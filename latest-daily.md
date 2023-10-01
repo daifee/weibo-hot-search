@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/02 00:19:54 ~ 2023/10/02 06:34:00
+本榜单时间：2023/10/02 00:19:54 ~ 2023/10/02 07:16:20
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%BD%E7%83%9F%E8%87%B4%E9%AB%98%E9%93%81%E9%99%8D%E9%80%9F%E5%8F%8D%E6%80%BC%E6%B0%91%E8%AD%A6%23" target="weibo">
+男子抽烟致高铁降速反怼民警（热度：506419）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B8%9D%E7%8E%8B%E8%9F%B9%E5%90%8C%E4%BA%8B%E5%90%83%E4%BA%86%E7%9A%84%E9%B2%8D%E9%B1%BC%23" target="weibo">
 被帝王蟹同事吃了的鲍鱼（热度：472020）
 </a>
@@ -123,14 +129,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8A%BD%E7%83%9F%E8%87%B4%E9%AB%98%E9%93%81%E9%99%8D%E9%80%9F%E5%8F%8D%E6%80%BC%E6%B0%91%E8%AD%A6%23" target="weibo">
-男子抽烟致高铁降速反怼民警（热度：322731）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%9D%A5%E5%9E%AB%E9%94%85%E5%87%A0%E5%B9%B4%E4%BA%86%E6%89%8D%E5%8F%91%E7%8E%B0%E6%98%AF%E6%88%90%E6%AF%85%23" target="weibo">
+用来垫锅几年了才发现是成毅（热度：307469）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%A8%E6%9D%A5%E5%9E%AB%E9%94%85%E5%87%A0%E5%B9%B4%E4%BA%86%E6%89%8D%E5%8F%91%E7%8E%B0%E6%98%AF%E6%88%90%E6%AF%85%23" target="weibo">
-用来垫锅几年了才发现是成毅（热度：307469）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E6%95%B4%E7%90%86%E7%88%B7%E7%88%B7%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E5%A4%87%E5%A5%BD%E7%9A%84%E5%AB%81%E5%A6%86%23" target="weibo">
+孙女整理爷爷遗物发现备好的嫁妆（热度：291481）
 </a>
 </li>
 
@@ -195,12 +201,6 @@ Giselle巴黎时装周新造型（热度：264736）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E6%95%B4%E7%90%86%E7%88%B7%E7%88%B7%E9%81%97%E7%89%A9%E5%8F%91%E7%8E%B0%E5%A4%87%E5%A5%BD%E7%9A%84%E5%AB%81%E5%A6%86%23" target="weibo">
-孙女整理爷爷遗物发现备好的嫁妆（热度：232877）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%B3%E5%8D%95%E5%A4%BA%E9%87%91%23" target="weibo">
 孙颖莎女单夺金（热度：225420）
 </a>
@@ -215,6 +215,12 @@ Giselle巴黎时装周新造型（热度：264736）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87100%E7%B1%B3%E6%A0%8F%E9%87%91%E7%89%8C%23" target="weibo">
 林雨薇100米栏金牌（热度：198519）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%A9%E6%8F%90%E7%A5%96%E5%B8%88%E6%89%8D%E6%98%AF%E5%AD%99%E6%82%9F%E7%A9%BA%E5%94%AF%E4%B8%80%E7%9A%84%E5%B8%88%E7%88%B6%23" target="weibo">
+菩提祖师才是孙悟空唯一的师父（热度：193704）
 </a>
 </li>
 
@@ -303,6 +309,12 @@ Giselle巴黎时装周新造型（热度：264736）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%868.6%23" target="weibo">
+我有一个朋友豆瓣开分8.6（热度：126797）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%94%9F%E5%AE%B6%E5%BA%AD%E6%98%AF%E4%BB%96%E4%BB%AC%E8%83%BD%E7%BB%99%E4%BD%A0%E7%9A%84%E5%85%A8%E9%83%A8%E4%BA%86%23" target="weibo">
 原生家庭是他们能给你的全部了（热度：125974）
 </a>
@@ -375,8 +387,20 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%89%E4%B8%80%E4%B8%AA%E6%9C%8B%E5%8F%8B%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%868.6%23" target="weibo">
-我有一个朋友豆瓣开分8.6（热度：91514）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%B9%BD%E9%BB%98%E7%9A%84%E8%87%AA%E5%98%B2%20%E5%A5%A5%E8%BF%90%E4%BA%94%E7%8E%AF%E5%8F%98%E5%9B%9B%E7%8E%AF%23" target="weibo">
+世界上最幽默的自嘲 奥运五环变四环（热度：90722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E4%BB%AA%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%E6%8A%8A%E6%9E%97%E5%8F%8C%E6%B0%94%E7%AC%91%E4%BA%86%23" target="weibo">
+黄嘉仪的恋爱脑把林双气笑了（热度：76555）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E5%92%8C%E6%B2%88%E8%85%BE%E8%81%8A%E5%A4%A9%E6%AF%94%E8%AF%95%E6%88%8F%E8%BF%98%E7%B4%A7%E5%BC%A0%23" target="weibo">
+白敬亭说和沈腾聊天比试戏还紧张（热度：75335）
 </a>
 </li>
 
@@ -405,14 +429,20 @@ capper音乐节（热度：71697）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%98%89%E4%BB%AA%E7%9A%84%E6%81%8B%E7%88%B1%E8%84%91%E6%8A%8A%E6%9E%97%E5%8F%8C%E6%B0%94%E7%AC%91%E4%BA%86%23" target="weibo">
-黄嘉仪的恋爱脑把林双气笑了（热度：43888）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E8%B7%9F%E5%9B%A2%E6%B8%B8%E6%88%91%E4%BB%AC%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88%23" target="weibo">
+云南跟团游我们经历了什么（热度：49185）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E5%92%8C%E6%B2%88%E8%85%BE%E8%81%8A%E5%A4%A9%E6%AF%94%E8%AF%95%E6%88%8F%E8%BF%98%E7%B4%A7%E5%BC%A0%23" target="weibo">
-白敬亭说和沈腾聊天比试戏还紧张（热度：38716）
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E5%B1%8F%E6%88%98%E6%9C%BA%E6%95%B0%E9%83%BD%E6%95%B0%E4%B8%8D%E6%B8%85%23" target="weibo">
+满屏战机数都数不清（热度：47493）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%8D%E8%83%BD%E5%90%88%E7%85%A7%E5%84%BF%E5%AD%90%E7%94%BB%E5%85%A8%E5%AE%B6%E7%A6%8F%E9%80%81%E7%BC%89%E6%AF%92%E8%AD%A6%E7%88%B8%E7%88%B8%23" target="weibo">
+因不能合照儿子画全家福送缉毒警爸爸（热度：47298）
 </a>
 </li>
 
@@ -442,7 +472,7 @@ capper音乐节（热度：71697）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%B8%80%E7%A7%8D%E8%87%AA%E8%B1%AA%E5%8F%AB%E4%B8%AD%E5%9B%BD%23" target="weibo">
-有一种自豪叫中国（热度：7739）
+有一种自豪叫中国（热度：8754）
 </a>
 </li>
 
