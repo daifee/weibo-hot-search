@@ -1,9 +1,9 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696142035333,
+  "endTime": 1696144559186,
   "band_list": [
     {
-      "raw_hot": 4060120,
+      "raw_hot": 5133946,
       "num": 4060120,
       "word": "韩国女队员侮辱性模仿何冰娇含泪",
       "onboard_time": 1696140513,
@@ -39,6 +39,14 @@
       "num": 2450068,
       "word": "王楚钦孙颖莎混双夺冠",
       "onboard_time": 1696083343,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2168213,
+      "num": 2168213,
+      "word": "孙颖莎vs申裕斌",
+      "onboard_time": 1696142374,
       "rank": 0,
       "category": "体育"
     },
@@ -147,12 +155,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1174097,
+      "num": 1174097,
+      "word": "孙颖莎进女单决赛",
+      "onboard_time": 1696143872,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1050581,
       "num": 1050581,
       "word": "曾见义勇为的南京胖哥女儿离世",
       "onboard_time": 1696128033,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 983851,
+      "num": 202091,
+      "word": "棕熊体内的寄生虫被拖着走",
+      "onboard_time": 1696141414,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 979214,
@@ -225,6 +249,22 @@
       "onboard_time": 1696134933,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 756946,
+      "num": 756946,
+      "word": "韩庚前任4最出圈的台词",
+      "onboard_time": 1696142675,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 746812,
+      "num": 300726,
+      "word": "何冰娇强忍眼泪",
+      "onboard_time": 1696143935,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 736119,
@@ -411,14 +451,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 484747,
-      "num": 196715,
-      "word": "棕熊体内的寄生虫被拖着走",
-      "onboard_time": 1696141414,
-      "rank": 30,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 481951,
       "num": 329048,
       "word": "巴黎偶遇马思纯",
@@ -457,6 +489,14 @@
       "onboard_time": 1696124972,
       "rank": 24,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 456060,
+      "num": 456060,
+      "word": "赵露思10月不进组",
+      "onboard_time": 1696141894,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 435753,
@@ -811,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271960,
+      "num": 271960,
+      "word": "我服了于适了",
+      "onboard_time": 1696143392,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 265951,
       "num": 265951,
       "word": "韩媒抹黑国足亚运队",
@@ -915,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247114,
+      "num": 247114,
+      "word": "鹿晗侧颜鲨我",
+      "onboard_time": 1696143092,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 247004,
       "num": 247004,
       "word": "虞书欣和长江七号合照",
@@ -987,6 +1043,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230902,
+      "num": 201661,
+      "word": "橡皮筋突然成了主人的项链",
+      "onboard_time": 1696142734,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 229264,
       "num": 229264,
       "word": "元气少女缘结神巴卫新粘土人",
@@ -1011,6 +1075,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 227861,
+      "num": 227861,
+      "word": "魏大勋片场把爸喊成叔",
+      "onboard_time": 1696143573,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223560,
       "num": 395284,
       "word": "谢震业百米冠军",
@@ -1027,12 +1099,36 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 213753,
+      "num": 201323,
+      "word": "丑猫 阴暗地蹲坐",
+      "onboard_time": 1696142675,
+      "rank": 31,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 213521,
+      "num": 213521,
+      "word": "今天37岁的他在天府广场第35次看升旗",
+      "onboard_time": 1696143092,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212892,
       "num": 379495,
       "word": "我爱你中国是最深情的表白",
       "onboard_time": 1696123174,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210788,
+      "num": 210788,
+      "word": "张子枫出发巴黎",
+      "onboard_time": 1696142614,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 208809,
@@ -1097,6 +1193,14 @@
       "onboard_time": 1696125871,
       "rank": 40,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 198728,
+      "num": 198728,
+      "word": "希望国乒双打失利能引起教练组的重视",
+      "onboard_time": 1696144055,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 197759,
@@ -1177,6 +1281,14 @@
       "onboard_time": 1696140513,
       "rank": 14,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 185870,
+      "num": 185870,
+      "word": "被稻城亚丁的风景累惨了",
+      "onboard_time": 1696144293,
+      "rank": 33,
+      "category": "旅游"
     },
     {
       "raw_hot": 185640,
@@ -1315,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164408,
+      "num": 164408,
+      "word": "侯明昊的造型缘",
+      "onboard_time": 1696144293,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 164407,
       "num": 164407,
       "word": "亚运会",
@@ -1345,14 +1465,6 @@
       "onboard_time": 1696131034,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162543,
-      "num": 162543,
-      "word": "赵露思10月不进组",
-      "onboard_time": 1696141894,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 162428,
@@ -1427,11 +1539,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157369,
+      "num": 157369,
+      "word": "樊振东一到采访就开会",
+      "onboard_time": 1696144534,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157293,
       "num": 157293,
       "word": "葛曼棋夺冠苏炳添激动落泪",
       "onboard_time": 1696087234,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154765,
+      "num": 154765,
+      "word": "女单半决赛",
+      "onboard_time": 1696144534,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1497,6 +1625,14 @@
       "onboard_time": 1696086218,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138858,
+      "num": 138858,
+      "word": "农村小伙用自种农作物摆出天安门",
+      "onboard_time": 1696143456,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128437,
