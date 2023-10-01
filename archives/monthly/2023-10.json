@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696178118706,
+  "endTime": 1696180515257,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -571,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 759503,
+      "num": 759503,
+      "word": "互相都以为是对方婚礼传统习俗",
+      "onboard_time": 1696175254,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
       "raw_hot": 736119,
       "num": 736119,
       "word": "魏大勋 白月光",
@@ -707,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 633006,
+      "num": 633006,
+      "word": "马琳",
+      "onboard_time": 1696068522,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631702,
       "num": 631702,
       "word": "国羽女团0比2韩国",
@@ -835,14 +851,6 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 558145,
-      "num": 558145,
-      "word": "马琳",
-      "onboard_time": 1696068522,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 530605,
       "num": 338212,
       "word": "江苏红了",
@@ -897,6 +905,14 @@
       "onboard_time": 1696116144,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512979,
+      "num": 512979,
+      "word": "孙艺洲 炫了三个兔头也没想明白",
+      "onboard_time": 1696177531,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 509818,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1696165240,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 438161,
-      "num": 354615,
-      "word": "互相都以为是对方婚礼传统习俗",
-      "onboard_time": 1696175254,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 436529,
@@ -1585,14 +1593,6 @@
       "onboard_time": 1696164577,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 301306,
-      "num": 188616,
-      "word": "孙艺洲 炫了三个兔头也没想明白",
-      "onboard_time": 1696177531,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 300130,
@@ -2707,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174024,
+      "num": 216173,
+      "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
+      "onboard_time": 1696177470,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173732,
       "num": 173732,
       "word": "郑钦文说不会原谅前教练",
@@ -3035,14 +3043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138390,
-      "num": 138390,
-      "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
-      "onboard_time": 1696177470,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134638,
       "num": 595282,
       "word": "白裤瑶孩子们合唱我和我的祖国",
@@ -3073,6 +3073,14 @@
       "onboard_time": 1696154254,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 129319,
+      "num": 129319,
+      "word": "沈腾要加王安宇微信",
+      "onboard_time": 1696179326,
+      "rank": 31,
+      "category": "艺人,综艺"
     },
     {
       "raw_hot": 128437,
@@ -3129,6 +3137,14 @@
       "onboard_time": 1696146873,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118078,
+      "num": 118078,
+      "word": "黄景瑜的嘴有502吧",
+      "onboard_time": 1696178966,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 116310,

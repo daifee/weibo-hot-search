@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696178118706,
+  "endTime": 1696180515257,
   "band_list": [
     {
       "raw_hot": 1826869,
@@ -43,6 +43,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 759503,
+      "num": 759503,
+      "word": "互相都以为是对方婚礼传统习俗",
+      "onboard_time": 1696175254,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 633006,
+      "num": 633006,
+      "word": "马琳",
+      "onboard_time": 1696175913,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596456,
       "num": 266869,
       "word": "黄嘉仪怀孕",
@@ -67,20 +83,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 558145,
-      "num": 558145,
-      "word": "马琳",
-      "onboard_time": 1696175913,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 541037,
       "num": 406697,
       "word": "华伦天奴",
       "onboard_time": 1696166923,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 512979,
+      "num": 512979,
+      "word": "孙艺洲 炫了三个兔头也没想明白",
+      "onboard_time": 1696177531,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 472020,
@@ -105,14 +121,6 @@
       "onboard_time": 1696167108,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 438161,
-      "num": 354615,
-      "word": "互相都以为是对方婚礼传统习俗",
-      "onboard_time": 1696175254,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 435571,
@@ -145,14 +153,6 @@
       "onboard_time": 1696165900,
       "rank": 15,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 301306,
-      "num": 188616,
-      "word": "孙艺洲 炫了三个兔头也没想明白",
-      "onboard_time": 1696177531,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 290952,
@@ -299,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174024,
+      "num": 216173,
+      "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
+      "onboard_time": 1696177470,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148674,
       "num": 148674,
       "word": "孙颖莎说感谢教练队友和粉丝",
@@ -313,14 +321,6 @@
       "onboard_time": 1696174895,
       "rank": 37,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 138390,
-      "num": 138390,
-      "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
-      "onboard_time": 1696177470,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 138299,
@@ -363,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129319,
+      "num": 129319,
+      "word": "沈腾要加王安宇微信",
+      "onboard_time": 1696179326,
+      "rank": 31,
+      "category": "艺人,综艺"
+    },
+    {
       "raw_hot": 125974,
       "num": 125974,
       "word": "原生家庭是他们能给你的全部了",
@@ -393,6 +401,14 @@
       "onboard_time": 1696163137,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118078,
+      "num": 118078,
+      "word": "黄景瑜的嘴有502吧",
+      "onboard_time": 1696178966,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 108710,
@@ -433,6 +449,30 @@
       "onboard_time": 1696163616,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71697,
+      "num": 71697,
+      "word": "capper音乐节",
+      "onboard_time": 1696162834,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 66571,
+      "num": 66571,
+      "word": "范丞丞cue王安宇",
+      "onboard_time": 1696167766,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7739,
+      "num": 689696,
+      "word": "有一种自豪叫中国",
+      "onboard_time": 1696119808,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -441,6 +481,9 @@
     },
     {
       "word": "#今天之中国我为你骄傲#"
+    },
+    {
+      "word": "#有一种骄傲叫我爱你中国#"
     }
   ]
 }
