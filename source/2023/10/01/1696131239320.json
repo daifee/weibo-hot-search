@@ -1,0 +1,410 @@
+{
+  "runTime": 1696131239320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1754386,
+        "num": 1754386,
+        "word": "孟晚舟卸任华为轮值董事长",
+        "onboard_time": 1696128510,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 1117127,
+        "num": 1117127,
+        "word": "倪妮 没挡住但摸摸头",
+        "onboard_time": 1696129532,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179394,
+        "num": 952171,
+        "word": "有一种自豪叫中国",
+        "onboard_time": 1696119808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1634646,
+        "num": 942644,
+        "word": "赵丽颖重现楚乔传高马尾",
+        "onboard_time": 1696130194,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 926250,
+        "num": 926250,
+        "word": "曾见义勇为的南京胖哥女儿离世",
+        "onboard_time": 1696128033,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 917008,
+        "num": 917008,
+        "word": "国庆节快乐",
+        "onboard_time": 1696110854,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 906517,
+        "num": 906517,
+        "word": "阚清子 恭喜莎头夺冠",
+        "onboard_time": 1696122270,
+        "rank": 6,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 810533,
+        "num": 810533,
+        "word": "奚梦瑶被何猷君幼稚到求救",
+        "onboard_time": 1696122990,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 796087,
+        "num": 796087,
+        "word": "两只眼睛的度数都没她俩整齐",
+        "onboard_time": 1696124972,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197759,
+        "num": 676733,
+        "word": "她们是与大国同飞的大女主",
+        "onboard_time": 1696130493,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 811823,
+        "num": 667806,
+        "word": "十月狗屎运最旺的星座",
+        "onboard_time": 1696125271,
+        "rank": 10,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 630670,
+        "num": 630670,
+        "word": "夫妻在有小孩之后发生的改变",
+        "onboard_time": 1696121850,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556091,
+        "num": 556091,
+        "word": "于适 别生气啊兄弟",
+        "onboard_time": 1696129412,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183705,
+        "num": 553497,
+        "word": "被边防巡逻路上补拍的婚纱照美哭了",
+        "onboard_time": 1696130556,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117353,
+        "num": 553191,
+        "word": "国足亚运队与韩国争四强名额",
+        "onboard_time": 1696123831,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553079,
+        "num": 553079,
+        "word": "国羽女团vs韩国",
+        "onboard_time": 1696128932,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443852,
+        "num": 443852,
+        "word": "国庆节",
+        "onboard_time": 1696116144,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418133,
+        "num": 418133,
+        "word": "全红婵陈芋汐回应炸鱼动作",
+        "onboard_time": 1696124070,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406339,
+        "num": 406339,
+        "word": "郑秀晶说想重登舞台",
+        "onboard_time": 1696126409,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345678,
+        "num": 345678,
+        "word": "陈雨菲0比2安洗莹",
+        "onboard_time": 1696127371,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335418,
+        "num": 335418,
+        "word": "因朋友喜欢发1我把他删了",
+        "onboard_time": 1696127312,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 324317,
+        "num": 324317,
+        "word": "好多人啊",
+        "onboard_time": 1696127613,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314608,
+        "num": 314608,
+        "word": "卫明今天人丢大了",
+        "onboard_time": 1696122451,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308638,
+        "num": 308638,
+        "word": "安洗莹恐怖如斯",
+        "onboard_time": 1696129112,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307719,
+        "num": 307719,
+        "word": "每天吃鸡蛋真的可以预防脱发吗",
+        "onboard_time": 1696124972,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 303544,
+        "num": 303544,
+        "word": "腾讯今年三部破万剧集",
+        "onboard_time": 1696085860,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 301423,
+        "num": 301423,
+        "word": "苹果回应iPhone15Pro过热",
+        "onboard_time": 1696123771,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 295186,
+        "num": 295186,
+        "word": "LV老板涉嫌洗钱受到调查",
+        "onboard_time": 1696069662,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282155,
+        "num": 282155,
+        "word": "江苏红了",
+        "onboard_time": 1696124431,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274648,
+        "num": 274648,
+        "word": "谈恋爱跟有少年气的人谈才有意思",
+        "onboard_time": 1696129354,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 268740,
+        "num": 268740,
+        "word": "张伟丽把奥尼尔举起来了",
+        "onboard_time": 1696120889,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247672,
+        "num": 247672,
+        "word": "陈都灵大梦归离",
+        "onboard_time": 1696125150,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246855,
+        "num": 246855,
+        "word": "53岁大叔撒娇想让患病母亲记住自己",
+        "onboard_time": 1696129953,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245993,
+        "num": 245993,
+        "word": "谭松韵素颜吃炸洋芋",
+        "onboard_time": 1696130435,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234529,
+        "num": 234529,
+        "word": "国庆档",
+        "onboard_time": 1696130435,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228756,
+        "num": 228756,
+        "word": "侯明昊新剧大梦归离开机",
+        "onboard_time": 1696129834,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222393,
+        "num": 222393,
+        "word": "名侦探柯南意志的继承者",
+        "onboard_time": 1696130135,
+        "rank": 36,
+        "category": "动漫,电影"
+      },
+      {
+        "raw_hot": 210727,
+        "num": 210727,
+        "word": "起猛了在韩综里听到张杰谢娜",
+        "onboard_time": 1696121371,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201452,
+        "num": 201452,
+        "word": "我和我的中国红",
+        "onboard_time": 1696130972,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194229,
+        "num": 194229,
+        "word": "阴阳师",
+        "onboard_time": 1696130735,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 185799,
+        "num": 185799,
+        "word": "王楚钦孙颖莎混双夺冠",
+        "onboard_time": 1696083343,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183680,
+        "num": 183680,
+        "word": "原来拔智齿磨的是骨头不是牙",
+        "onboard_time": 1696120409,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180486,
+        "num": 180486,
+        "word": "元气少女缘结神巴卫新粘土人",
+        "onboard_time": 1696127731,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175240,
+        "num": 175240,
+        "word": "你多久更换一次床上用品",
+        "onboard_time": 1696125512,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168604,
+        "num": 168604,
+        "word": "莎头卫冕",
+        "onboard_time": 1696083822,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167628,
+        "num": 167628,
+        "word": "女孩租房一年反复过敏发现床垫发霉",
+        "onboard_time": 1696116864,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166724,
+        "num": 166724,
+        "word": "对弈竞猜",
+        "onboard_time": 1696130735,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162775,
+        "num": 162775,
+        "word": "他从火光中走来精神传承版海报",
+        "onboard_time": 1696131034,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159878,
+        "num": 159878,
+        "word": "国庆文案",
+        "onboard_time": 1696118066,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106063,
+        "num": 155955,
+        "word": "卢昱晓用照片拼凑浪漫九月",
+        "onboard_time": 1696116925,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#革命先烈革命烈士的崇高精神永远铭记在人民心中#"
+    }
+  }
+}
