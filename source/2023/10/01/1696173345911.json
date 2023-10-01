@@ -1,0 +1,410 @@
+{
+  "runTime": 1696173345911,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5296765,
+        "num": 5296765,
+        "word": "吴艳妮抢跑",
+        "onboard_time": 1696166799,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2168522,
+        "num": 2168522,
+        "word": "吴艳妮成绩被取消",
+        "onboard_time": 1696168425,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180616,
+        "num": 1903359,
+        "word": "满街五星红旗是中国人的浪漫",
+        "onboard_time": 1696164577,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1820707,
+        "num": 1820707,
+        "word": "吴艳妮回应抢跑",
+        "onboard_time": 1696171421,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 896543,
+        "num": 896543,
+        "word": "中国亚运男足无缘四强",
+        "onboard_time": 1696169267,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 768826,
+        "num": 768826,
+        "word": "孙颖莎vs早田希娜",
+        "onboard_time": 1696163674,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 728788,
+        "num": 728788,
+        "word": "中国队羽毛球男团金牌",
+        "onboard_time": 1696170404,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649071,
+        "num": 649071,
+        "word": "中国队决赛不藏了",
+        "onboard_time": 1696164944,
+        "rank": 7,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 643350,
+        "num": 643350,
+        "word": "一盒月饼下去办公室无人生还",
+        "onboard_time": 1696167108,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 590084,
+        "num": 590084,
+        "word": "家有儿女取景地",
+        "onboard_time": 1696160136,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 783889,
+        "num": 582969,
+        "word": "华伦天奴",
+        "onboard_time": 1696166923,
+        "rank": 10,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 572494,
+        "num": 572494,
+        "word": "林雨薇100米栏金牌",
+        "onboard_time": 1696167283,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683190,
+        "num": 566497,
+        "word": "杨紫羽毛袖白衬衫造型",
+        "onboard_time": 1696170941,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 523501,
+        "num": 523501,
+        "word": "周深音乐节被喊周深开门",
+        "onboard_time": 1696172263,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 515742,
+        "num": 515742,
+        "word": "林雨薇好美",
+        "onboard_time": 1696166982,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 481968,
+        "num": 481968,
+        "word": "巴黎世家 刘昊然",
+        "onboard_time": 1696157373,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 425132,
+        "num": 425132,
+        "word": "夏思凝拿全国冠军的时候才16岁",
+        "onboard_time": 1696168730,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443596,
+        "num": 420508,
+        "word": "巴黎偶遇杨紫",
+        "onboard_time": 1696161334,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414121,
+        "num": 414121,
+        "word": "孙颖莎女单夺金",
+        "onboard_time": 1696165005,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 406994,
+        "num": 406994,
+        "word": "用来垫锅几年了才发现是成毅",
+        "onboard_time": 1696165900,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 513888,
+        "num": 399825,
+        "word": "不要给吴艳妮太大的压力",
+        "onboard_time": 1696172740,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408868,
+        "num": 391813,
+        "word": "许家印",
+        "onboard_time": 1696154912,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383000,
+        "num": 383000,
+        "word": "虞书欣脉搏犹如40岁男子壮如牛",
+        "onboard_time": 1696166923,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352991,
+        "num": 352991,
+        "word": "马龙在王濛面前i人属性爆发",
+        "onboard_time": 1696171363,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 351234,
+        "num": 351234,
+        "word": "腿姐回应",
+        "onboard_time": 1696158275,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 342808,
+        "num": 342808,
+        "word": "孙颖莎说感谢教练队友和粉丝",
+        "onboard_time": 1696171481,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288032,
+        "num": 288032,
+        "word": "王栎鑫老来俏",
+        "onboard_time": 1696168844,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285192,
+        "num": 285192,
+        "word": "中国香港晋级亚运男足四强",
+        "onboard_time": 1696169084,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284348,
+        "num": 284348,
+        "word": "孙颖莎波澜不惊式采访",
+        "onboard_time": 1696170285,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277658,
+        "num": 277658,
+        "word": "原生家庭是他们能给你的全部了",
+        "onboard_time": 1696163014,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1765545,
+        "num": 277289,
+        "word": "港媒曝郑少秋大女儿在美去世",
+        "onboard_time": 1696168966,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275497,
+        "num": 275497,
+        "word": "EDG第一幕夺冠",
+        "onboard_time": 1696171421,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 259034,
+        "num": 259034,
+        "word": "孙艺洲 有点冤但不多",
+        "onboard_time": 1696163137,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242875,
+        "num": 242875,
+        "word": "郑思维",
+        "onboard_time": 1696172140,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237137,
+        "num": 237137,
+        "word": "金发张元英",
+        "onboard_time": 1696156058,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 227410,
+        "num": 227410,
+        "word": "女生手滑误拒浙大保研通知",
+        "onboard_time": 1696151073,
+        "rank": 35,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 215974,
+        "num": 215974,
+        "word": "国羽男团2比2印度",
+        "onboard_time": 1696167283,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213831,
+        "num": 213831,
+        "word": "樊振东王楚钦男双夺金",
+        "onboard_time": 1696159059,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198547,
+        "num": 198547,
+        "word": "85花爆剧统计",
+        "onboard_time": 1696164157,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197467,
+        "num": 197467,
+        "word": "李诗沣好稳的二单",
+        "onboard_time": 1696172438,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191156,
+        "num": 191156,
+        "word": "范丞丞cue王安宇",
+        "onboard_time": 1696167766,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189973,
+        "num": 189973,
+        "word": "张军事业运",
+        "onboard_time": 1696171662,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181858,
+        "num": 181858,
+        "word": "前任4",
+        "onboard_time": 1696168304,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180783,
+        "num": 180783,
+        "word": "陆毅简直把关智斌当儿子宠",
+        "onboard_time": 1696173337,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170862,
+        "num": 170862,
+        "word": "上海四行仓库祭台被游客摆满祭品",
+        "onboard_time": 1696171241,
+        "rank": 44,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 167360,
+        "num": 167360,
+        "word": "薛之谦滁州演唱会盲人和导盲犬",
+        "onboard_time": 1696172978,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161053,
+        "num": 161053,
+        "word": "80岁退伍老兵忘了很多事却坚持升国旗",
+        "onboard_time": 1696173036,
+        "rank": 46,
+        "category": "社会新闻,军事"
+      },
+      {
+        "raw_hot": 144302,
+        "num": 144302,
+        "word": "李诗沣超级大心脏",
+        "onboard_time": 1696165364,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142609,
+        "num": 142609,
+        "word": "海珠广场",
+        "onboard_time": 1696163616,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142515,
+        "num": 142515,
+        "word": "吴艳妮被罚下",
+        "onboard_time": 1696168005,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝新中国成立74周年#"
+    }
+  }
+}
