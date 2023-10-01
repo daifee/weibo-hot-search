@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696169648459,
+  "endTime": 1696170831599,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2114528,
+      "num": 950376,
+      "word": "港媒曝郑少秋大女儿在美去世",
+      "onboard_time": 1696168966,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2034170,
       "num": 2034170,
       "word": "中国队决赛不藏了",
@@ -179,6 +187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1774711,
+      "num": 1774711,
+      "word": "中国亚运男足无缘四强",
+      "onboard_time": 1696169267,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1754386,
       "num": 1754386,
       "word": "孟晚舟卸任华为轮值董事长",
@@ -225,14 +241,6 @@
       "onboard_time": 1696158097,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1563684,
-      "num": 950376,
-      "word": "港媒曝郑少秋大女儿在美去世",
-      "onboard_time": 1696168966,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1561146,
@@ -355,14 +363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1275911,
-      "num": 1275911,
-      "word": "中国亚运男足无缘四强",
-      "onboard_time": 1696169267,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1213705,
       "num": 1213705,
       "word": "泰国是预制菜的重灾区吧",
@@ -400,6 +400,14 @@
       "word": "孙颖莎早田希娜争金",
       "onboard_time": 1696150535,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1026871,
+      "num": 1026871,
+      "word": "国羽男团2比2印度",
+      "onboard_time": 1696167283,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -443,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 952334,
+      "num": 829442,
+      "word": "华伦天奴",
+      "onboard_time": 1696166923,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 919034,
       "num": 919034,
       "word": "樊振东王楚钦进男双决赛",
@@ -456,6 +472,14 @@
       "word": "苏炳添哭了",
       "onboard_time": 1696089935,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 887020,
+      "num": 887020,
+      "word": "中国队羽毛球男团金牌",
+      "onboard_time": 1696170404,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -499,14 +523,6 @@
       "category": "美食,旅游"
     },
     {
-      "raw_hot": 811375,
-      "num": 811375,
-      "word": "华伦天奴",
-      "onboard_time": 1696166923,
-      "rank": 39,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 804001,
       "num": 804001,
       "word": "两只眼睛的度数都没她俩整齐",
@@ -539,20 +555,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 754265,
-      "num": 754265,
-      "word": "国羽男团2比2印度",
-      "onboard_time": 1696167283,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 736119,
       "num": 736119,
       "word": "魏大勋 白月光",
       "onboard_time": 1696138293,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 718488,
+      "num": 718488,
+      "word": "一盒月饼下去办公室无人生还",
+      "onboard_time": 1696167108,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 711028,
@@ -617,14 +633,6 @@
       "onboard_time": 1696158937,
       "rank": 16,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 673516,
-      "num": 673516,
-      "word": "一盒月饼下去办公室无人生还",
-      "onboard_time": 1696167108,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 671883,
@@ -763,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 561193,
+      "num": 561193,
+      "word": "中国香港晋级亚运男足四强",
+      "onboard_time": 1696169084,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 559817,
       "num": 401923,
       "word": "西北师大学生保研后资格被收回",
@@ -809,14 +825,6 @@
       "onboard_time": 1696144293,
       "rank": 33,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 517943,
-      "num": 517943,
-      "word": "中国香港晋级亚运男足四强",
-      "onboard_time": 1696169084,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 516445,
@@ -915,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 470175,
+      "num": 470175,
+      "word": "虞书欣脉搏犹如40岁男子壮如牛",
+      "onboard_time": 1696166923,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 465272,
       "num": 339468,
       "word": "女孩租房一年反复过敏发现床垫发霉",
@@ -947,20 +963,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 456619,
-      "num": 456619,
-      "word": "虞书欣脉搏犹如40岁男子壮如牛",
-      "onboard_time": 1696166923,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 451340,
       "num": 385503,
       "word": "专家称住便宜酒店的时代可能过去了",
       "onboard_time": 1696150713,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 449700,
+      "num": 449700,
+      "word": "国羽男团0比1印度",
+      "onboard_time": 1696159775,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 449152,
@@ -987,6 +1003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 444937,
+      "num": 312344,
+      "word": "孙颖莎波澜不惊式采访",
+      "onboard_time": 1696170285,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 438872,
       "num": 438872,
       "word": "乒乓球男单",
@@ -1011,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 428554,
-      "num": 428554,
-      "word": "国羽男团0比1印度",
-      "onboard_time": 1696159775,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 422243,
       "num": 422243,
       "word": "郑恺苗苗相互治愈",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1696160196,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 420239,
+      "num": 420239,
+      "word": "用来垫锅几年了才发现是成毅",
+      "onboard_time": 1696165900,
+      "rank": 31,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 418844,
@@ -1147,6 +1171,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 376261,
+      "num": 376261,
+      "word": "夏思凝拿全国冠军的时候才16岁",
+      "onboard_time": 1696168730,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370022,
       "num": 370022,
       "word": "Ame的水人",
@@ -1227,14 +1259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 356346,
-      "num": 356346,
-      "word": "用来垫锅几年了才发现是成毅",
-      "onboard_time": 1696165900,
-      "rank": 31,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 354283,
       "num": 354283,
       "word": "张小斐演妈是妈演姐是姐",
@@ -1283,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344278,
+      "num": 344278,
+      "word": "王栎鑫老来俏",
+      "onboard_time": 1696168844,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340029,
       "num": 340029,
       "word": "国乒男双现场放张杰少年中国说",
@@ -1321,14 +1353,6 @@
       "onboard_time": 1696162834,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 334307,
-      "num": 334307,
-      "word": "夏思凝拿全国冠军的时候才16岁",
-      "onboard_time": 1696168730,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 331310,
@@ -1715,14 +1739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 257118,
-      "num": 257118,
-      "word": "王栎鑫老来俏",
-      "onboard_time": 1696168844,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256306,
       "num": 234832,
       "word": "王楚钦谈乒乓球混双发展",
@@ -1883,6 +1899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234699,
+      "num": 234699,
+      "word": "中国三人女篮亚运会金牌",
+      "onboard_time": 1696170404,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234529,
       "num": 234529,
       "word": "国庆档",
@@ -1913,6 +1937,14 @@
       "onboard_time": 1696149752,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231710,
+      "num": 231710,
+      "word": "国羽男团惊天逆转夺金",
+      "onboard_time": 1696170525,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 230902,
@@ -2667,12 +2699,28 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 151962,
+      "num": 151962,
+      "word": "李现送阿尔卡拉斯故宫印章",
+      "onboard_time": 1696170764,
+      "rank": 47,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 151438,
       "num": 151438,
       "word": "张颂文 先辈用生命换来岁月静好",
       "onboard_time": 1696149752,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151394,
+      "num": 151394,
+      "word": "数万和平鸽天安门广场上空展翅高飞",
+      "onboard_time": 1696170168,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151196,
