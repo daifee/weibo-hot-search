@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696156433750,
+  "endTime": 1696158794202,
   "band_list": [
     {
       "raw_hot": 6008481,
@@ -35,20 +35,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2798964,
+      "num": 2798964,
+      "word": "女生手滑误拒浙大保研通知",
+      "onboard_time": 1696151073,
+      "rank": 10,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 2794937,
       "num": 2794937,
       "word": "国庆节快乐",
       "onboard_time": 1696110854,
       "rank": 4,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2652642,
-      "num": 2652642,
-      "word": "女生手滑误拒浙大保研通知",
-      "onboard_time": 1696151073,
-      "rank": 10,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 2455273,
@@ -179,6 +179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1402353,
+      "num": 387284,
+      "word": "许家印",
+      "onboard_time": 1696154912,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1371982,
+      "num": 499360,
+      "word": "金发张元英",
+      "onboard_time": 1696156058,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1344187,
       "num": 1344187,
       "word": "台媒报道杨幂弘扬中华文化",
@@ -211,11 +227,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1248140,
-      "num": 489919,
-      "word": "金发张元英",
-      "onboard_time": 1696156058,
-      "rank": 10,
+      "raw_hot": 1287911,
+      "num": 492045,
+      "word": "巴黎世家 刘昊然",
+      "onboard_time": 1696157373,
+      "rank": 11,
       "category": "作品衍生,时尚"
     },
     {
@@ -251,20 +267,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1004262,
-      "num": 387284,
-      "word": "许家印",
-      "onboard_time": 1696154912,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 983851,
       "num": 202091,
       "word": "棕熊体内的寄生虫被拖着走",
       "onboard_time": 1696141414,
       "rank": 30,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 980967,
+      "num": 980967,
+      "word": "这是黄晓明还是黄小夫",
+      "onboard_time": 1696148916,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 979214,
@@ -363,14 +379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 733277,
-      "num": 733277,
-      "word": "这是黄晓明还是黄小夫",
-      "onboard_time": 1696148916,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 711028,
       "num": 711028,
       "word": "程潇进组",
@@ -433,6 +441,14 @@
       "onboard_time": 1696117705,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 648051,
+      "num": 485006,
+      "word": "新疆婚宴",
+      "onboard_time": 1696156893,
+      "rank": 12,
+      "category": "美食,旅游"
     },
     {
       "raw_hot": 640428,
@@ -539,6 +555,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 551453,
+      "num": 468131,
+      "word": "腿姐回应",
+      "onboard_time": 1696158275,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 530605,
       "num": 338212,
       "word": "江苏红了",
@@ -563,6 +587,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 523128,
+      "num": 382152,
+      "word": "南京鸡鸣寺网红猫要被游客摸秃了",
+      "onboard_time": 1696157556,
+      "rank": 21,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 516445,
       "num": 516445,
       "word": "国庆节",
@@ -577,6 +609,22 @@
       "onboard_time": 1696139612,
       "rank": 16,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 503084,
+      "num": 503084,
+      "word": "樊振东王楚钦vs韩国队",
+      "onboard_time": 1696149513,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 499884,
+      "num": 499884,
+      "word": "你好星期六全员被趾压板支配的恐惧",
+      "onboard_time": 1696155393,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 499180,
@@ -659,6 +707,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 462452,
+      "num": 462452,
+      "word": "樊振东王楚钦vs张禹珍林钟勋",
+      "onboard_time": 1696158275,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451340,
       "num": 385503,
       "word": "专家称住便宜酒店的时代可能过去了",
@@ -673,6 +729,14 @@
       "onboard_time": 1696145732,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 447920,
+      "num": 447920,
+      "word": "前任4观后感",
+      "onboard_time": 1696154912,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 435753,
@@ -707,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 407370,
+      "num": 407370,
+      "word": "王俊凯金泳勋时装周看秀合照",
+      "onboard_time": 1696158333,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 406461,
       "num": 337787,
       "word": "韩国牙科医生吃糖葫芦的感受",
@@ -731,12 +803,12 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 400765,
-      "num": 400765,
-      "word": "前任4观后感",
-      "onboard_time": 1696154912,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 387316,
+      "num": 387316,
+      "word": "女单决赛",
+      "onboard_time": 1696158097,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 386733,
@@ -899,14 +971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 332327,
-      "num": 332327,
-      "word": "你好星期六全员被趾压板支配的恐惧",
-      "onboard_time": 1696155393,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 329874,
       "num": 427475,
       "word": "国乒无缘女双4强",
@@ -921,6 +985,14 @@
       "onboard_time": 1696062514,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 325171,
+      "num": 470840,
+      "word": "韩国选手球拍上有马龙照片",
+      "onboard_time": 1696157855,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 320414,
@@ -1091,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 275355,
+      "num": 275355,
+      "word": "白鹿发文感谢粉丝",
+      "onboard_time": 1696157793,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275089,
       "num": 275089,
       "word": "中秋母亲拨通儿子生前号码民警暖心陪聊",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1696137812,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 274194,
+      "num": 274194,
+      "word": "林双离婚后修罗场都好香",
+      "onboard_time": 1696157973,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 271960,
@@ -1153,14 +1241,6 @@
       "onboard_time": 1696130135,
       "rank": 32,
       "category": "动漫,电影"
-    },
-    {
-      "raw_hot": 260662,
-      "num": 476586,
-      "word": "樊振东王楚钦vs韩国队",
-      "onboard_time": 1696149513,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 260189,
@@ -1411,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224561,
+      "num": 224561,
+      "word": "蔚来",
+      "onboard_time": 1696157133,
+      "rank": 36,
+      "category": "汽车,社会新闻"
+    },
+    {
       "raw_hot": 223560,
       "num": 395284,
       "word": "谢震业百米冠军",
@@ -1449,6 +1537,14 @@
       "onboard_time": 1696147893,
       "rank": 33,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 216089,
+      "num": 216089,
+      "word": "石宇奇1比2拉克什亚",
+      "onboard_time": 1696157012,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 213753,
@@ -1536,6 +1632,14 @@
       "word": "我和我的中国红",
       "onboard_time": 1696130972,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201138,
+      "num": 538340,
+      "word": "男子马拉松终点前倒立被反超",
+      "onboard_time": 1696156957,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -1723,6 +1827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183093,
+      "num": 183093,
+      "word": "黄轩演疯批要从亲爱的翻译官说起",
+      "onboard_time": 1696156772,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182561,
       "num": 182561,
       "word": "从小到大一直在试图延迟幸福",
@@ -1865,6 +1977,14 @@
       "onboard_time": 1696067437,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164580,
+      "num": 164580,
+      "word": "70岁老奶奶清晨打扫街头护栏",
+      "onboard_time": 1696157793,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164407,
