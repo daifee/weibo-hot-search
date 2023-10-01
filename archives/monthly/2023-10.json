@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696127954556,
+  "endTime": 1696130225237,
   "band_list": [
     {
       "raw_hot": 2794937,
@@ -59,12 +59,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1272404,
+      "num": 1272404,
+      "word": "孟晚舟卸任华为轮值董事长",
+      "onboard_time": 1696128510,
+      "rank": 0,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 1213705,
       "num": 1213705,
       "word": "泰国是预制菜的重灾区吧",
       "onboard_time": 1696082983,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1080287,
+      "num": 1080287,
+      "word": "倪妮 没挡住但摸摸头",
+      "onboard_time": 1696129532,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 979214,
+      "num": 828588,
+      "word": "十月狗屎运最旺的星座",
+      "onboard_time": 1696125271,
+      "rank": 20,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 956555,
@@ -75,12 +99,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 907162,
-      "num": 512667,
-      "word": "十月狗屎运最旺的星座",
-      "onboard_time": 1696125271,
-      "rank": 20,
-      "category": "情感,网红"
+      "raw_hot": 901446,
+      "num": 901446,
+      "word": "曾见义勇为的南京胖哥女儿离世",
+      "onboard_time": 1696128033,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 887973,
@@ -89,6 +113,22 @@
       "onboard_time": 1696089935,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 877553,
+      "num": 877553,
+      "word": "赵丽颖重现楚乔传高马尾",
+      "onboard_time": 1696130194,
+      "rank": 7,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 804001,
+      "num": 804001,
+      "word": "两只眼睛的度数都没她俩整齐",
+      "onboard_time": 1696124972,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 708049,
@@ -140,7 +180,7 @@
     },
     {
       "raw_hot": 619526,
-      "num": 341217,
+      "num": 356371,
       "word": "苹果回应iPhone15Pro过热",
       "onboard_time": 1696123771,
       "rank": 25,
@@ -153,6 +193,14 @@
       "onboard_time": 1696073620,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 593220,
+      "num": 593220,
+      "word": "于适 别生气啊兄弟",
+      "onboard_time": 1696129412,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 562123,
@@ -195,14 +243,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 489406,
-      "num": 489406,
-      "word": "两只眼睛的度数都没她俩整齐",
-      "onboard_time": 1696124972,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 481951,
       "num": 329048,
       "word": "巴黎偶遇马思纯",
@@ -236,7 +276,7 @@
     },
     {
       "raw_hot": 463675,
-      "num": 326729,
+      "num": 371892,
       "word": "每天吃鸡蛋真的可以预防脱发吗",
       "onboard_time": 1696124972,
       "rank": 24,
@@ -323,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373635,
+      "num": 373635,
+      "word": "国羽女团vs韩国",
+      "onboard_time": 1696128932,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369573,
       "num": 312709,
       "word": "DOTA2中国对阵马来西亚",
@@ -331,8 +379,8 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 366727,
-      "num": 226286,
+      "raw_hot": 367776,
+      "num": 367776,
       "word": "陈雨菲0比2安洗莹",
       "onboard_time": 1696127371,
       "rank": 30,
@@ -355,20 +403,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 357400,
+      "num": 357400,
+      "word": "因朋友喜欢发1我把他删了",
+      "onboard_time": 1696127312,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 354283,
       "num": 354283,
       "word": "张小斐演妈是妈演姐是姐",
       "onboard_time": 1696067079,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 353715,
-      "num": 316998,
-      "word": "因朋友喜欢发1我把他删了",
-      "onboard_time": 1696127312,
-      "rank": 27,
-      "category": "情感"
     },
     {
       "raw_hot": 349540,
@@ -411,12 +459,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 320414,
+      "num": 320414,
+      "word": "安洗莹恐怖如斯",
+      "onboard_time": 1696129112,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 314008,
       "num": 314008,
       "word": "国羽女团0比1韩国",
       "onboard_time": 1696126409,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306065,
+      "num": 306065,
+      "word": "好多人啊",
+      "onboard_time": 1696127613,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 298750,
@@ -473,6 +537,14 @@
       "onboard_time": 1696117645,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261252,
+      "num": 261252,
+      "word": "名侦探柯南意志的继承者",
+      "onboard_time": 1696130135,
+      "rank": 32,
+      "category": "动漫,电影"
     },
     {
       "raw_hot": 260189,
@@ -579,6 +651,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 230422,
+      "num": 230422,
+      "word": "谈恋爱跟有少年气的人谈才有意思",
+      "onboard_time": 1696129354,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 229264,
+      "num": 229264,
+      "word": "元气少女缘结神巴卫新粘土人",
+      "onboard_time": 1696127731,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 227948,
       "num": 227948,
       "word": "Jisoo和高旻示在巴黎共进晚餐",
@@ -601,14 +689,6 @@
       "onboard_time": 1696126893,
       "rank": 34,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 214557,
-      "num": 214557,
-      "word": "好多人啊",
-      "onboard_time": 1696127613,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 212892,
@@ -643,6 +723,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 203242,
+      "num": 203242,
+      "word": "53岁大叔撒娇想让患病母亲记住自己",
+      "onboard_time": 1696129953,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "10岁小女孩牢记1.5万字讲解词",
@@ -673,6 +761,14 @@
       "onboard_time": 1696126893,
       "rank": 44,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 192394,
+      "num": 192394,
+      "word": "侯明昊新剧大梦归离开机",
+      "onboard_time": 1696129834,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 190927,
@@ -716,19 +812,11 @@
     },
     {
       "raw_hot": 182465,
-      "num": 446814,
+      "num": 476776,
       "word": "国足亚运队与韩国争四强名额",
       "onboard_time": 1696123831,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179225,
-      "num": 179225,
-      "word": "元气少女缘结神巴卫新粘土人",
-      "onboard_time": 1696127731,
-      "rank": 44,
-      "category": "动漫"
     },
     {
       "raw_hot": 179114,
@@ -795,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163780,
+      "num": 163780,
+      "word": "观看国庆升旗仪式真的会热泪盈眶",
+      "onboard_time": 1696129235,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163631,
       "num": 159426,
       "word": "月入多少才能在深圳买得起房",
@@ -833,6 +929,14 @@
       "onboard_time": 1696082381,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158511,
+      "num": 530124,
+      "word": "愿岁月如歌家国共好",
+      "onboard_time": 1696129532,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157293,
@@ -1135,6 +1239,9 @@
     },
     {
       "word": "#烈士纪念日#"
+    },
+    {
+      "word": "#庆祝新中国成立74周年#"
     }
   ]
 }
