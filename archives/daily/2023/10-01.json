@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696124442887,
+  "endTime": 1696127327728,
   "band_list": [
     {
       "raw_hot": 2794937,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1327665,
+      "num": 854477,
+      "word": "奚梦瑶被何猷君幼稚到求救",
+      "onboard_time": 1696122990,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1213705,
       "num": 1213705,
       "word": "泰国是预制菜的重灾区吧",
       "onboard_time": 1696082983,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 911223,
+      "num": 865374,
+      "word": "夫妻在有小孩之后发生的改变",
+      "onboard_time": 1696121850,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 887973,
@@ -67,20 +83,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 865374,
-      "num": 865374,
-      "word": "夫妻在有小孩之后发生的改变",
-      "onboard_time": 1696121850,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 841931,
-      "num": 841931,
-      "word": "奚梦瑶被何猷君幼稚到求救",
-      "onboard_time": 1696122990,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 814376,
+      "num": 309726,
+      "word": "十月狗屎运最旺的星座",
+      "onboard_time": 1696125271,
+      "rank": 20,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 701853,
@@ -89,6 +97,14 @@
       "onboard_time": 1696121371,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 688963,
+      "num": 359697,
+      "word": "全红婵陈芋汐回应炸鱼动作",
+      "onboard_time": 1696124070,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 653543,
@@ -115,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 619526,
+      "num": 321219,
+      "word": "苹果回应iPhone15Pro过热",
+      "onboard_time": 1696123771,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 599095,
       "num": 599095,
       "word": "陈梦王艺迪",
@@ -131,12 +155,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 561409,
+      "num": 360040,
+      "word": "郑秀晶说想重登舞台",
+      "onboard_time": 1696126409,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 530605,
+      "num": 296940,
+      "word": "江苏红了",
+      "onboard_time": 1696124431,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525316,
       "num": 409888,
       "word": "易烊千玺小网站文案",
       "onboard_time": 1696084479,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 502490,
+      "num": 359548,
+      "word": "西北师大学生保研后资格被收回",
+      "onboard_time": 1696125871,
+      "rank": 11,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 481951,
@@ -155,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 474640,
+      "num": 474640,
+      "word": "国庆节",
+      "onboard_time": 1696116144,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 470711,
       "num": 394811,
       "word": "原来拔智齿磨的是骨头不是牙",
@@ -169,6 +225,14 @@
       "onboard_time": 1696116864,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463675,
+      "num": 293614,
+      "word": "每天吃鸡蛋真的可以预防脱发吗",
+      "onboard_time": 1696124972,
+      "rank": 24,
+      "category": "知识科普"
     },
     {
       "raw_hot": 435753,
@@ -235,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 382341,
+      "num": 289242,
+      "word": "陈都灵大梦归离",
+      "onboard_time": 1696125150,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 380838,
       "num": 380838,
       "word": "莎头卫冕",
@@ -243,12 +315,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 373896,
-      "num": 247252,
-      "word": "全红婵陈芋汐回应炸鱼动作",
-      "onboard_time": 1696124070,
-      "rank": 30,
+      "raw_hot": 369573,
+      "num": 312709,
+      "word": "DOTA2中国对阵马来西亚",
+      "onboard_time": 1696122270,
+      "rank": 25,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 360355,
+      "num": 357966,
+      "word": "两只眼睛的度数都没她俩整齐",
+      "onboard_time": 1696124972,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 360138,
+      "num": 360138,
+      "word": "汪顺一节课曾游过12000米",
+      "onboard_time": 1696124851,
+      "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357838,
+      "num": 357838,
+      "word": "卫明今天人丢大了",
+      "onboard_time": 1696122451,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 354283,
@@ -264,14 +360,6 @@
       "word": "男子尿急误把高架当隔离带一跃而下",
       "onboard_time": 1696059335,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347220,
-      "num": 347220,
-      "word": "国庆节",
-      "onboard_time": 1696116144,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -307,20 +395,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 321219,
-      "num": 321219,
-      "word": "苹果回应iPhone15Pro过热",
-      "onboard_time": 1696123771,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 312709,
-      "num": 312709,
-      "word": "DOTA2中国对阵马来西亚",
-      "onboard_time": 1696122270,
-      "rank": 25,
-      "category": "游戏,体育"
+      "raw_hot": 314008,
+      "num": 314008,
+      "word": "国羽女团0比1韩国",
+      "onboard_time": 1696126409,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 298750,
@@ -339,12 +419,12 @@
       "category": "动漫,电影"
     },
     {
-      "raw_hot": 286219,
-      "num": 286219,
-      "word": "卫明今天人丢大了",
-      "onboard_time": 1696122451,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 286603,
+      "num": 286603,
+      "word": "你多久更换一次床上用品",
+      "onboard_time": 1696125512,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282437,
@@ -379,6 +459,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 260739,
+      "num": 260739,
+      "word": "因朋友喜欢发1我把他删了",
+      "onboard_time": 1696127312,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 260189,
+      "num": 260189,
+      "word": "虞书欣把封神质子团猜成雷震子",
+      "onboard_time": 1696124673,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258717,
       "num": 258717,
       "word": "全红婵i人实锤",
@@ -401,6 +497,14 @@
       "onboard_time": 1696122030,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256234,
+      "num": 256234,
+      "word": "曾黎张静初四大青衣之二合体了",
+      "onboard_time": 1696125932,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 250378,
@@ -459,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234289,
+      "num": 234289,
+      "word": "龚俊巴黎时装周生图",
+      "onboard_time": 1696125091,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 227948,
       "num": 227948,
       "word": "Jisoo和高旻示在巴黎共进晚餐",
@@ -475,6 +587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223529,
+      "num": 223529,
+      "word": "向佐奥尼尔蛇行刁手打招呼",
+      "onboard_time": 1696126893,
+      "rank": 34,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 212892,
       "num": 379495,
       "word": "我爱你中国是最深情的表白",
@@ -489,6 +609,14 @@
       "onboard_time": 1696089456,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 205239,
+      "num": 205239,
+      "word": "韩庚王丽坤不演前任演敌人",
+      "onboard_time": 1696124673,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 204079,
@@ -515,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193008,
-      "num": 193008,
-      "word": "江苏红了",
-      "onboard_time": 1696124431,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 198826,
+      "num": 198826,
+      "word": "游客夜爬泰山高举国旗迎国庆",
+      "onboard_time": 1696125871,
+      "rank": 40,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 190927,
@@ -564,7 +692,7 @@
     },
     {
       "raw_hot": 182465,
-      "num": 182465,
+      "num": 359003,
       "word": "国足亚运队与韩国争四强名额",
       "onboard_time": 1696123831,
       "rank": 41,
@@ -619,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173340,
+      "num": 173340,
+      "word": "张雨霏反向审美竟是一块腹肌",
+      "onboard_time": 1696126893,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168852,
       "num": 168852,
       "word": "热刺vs利物浦",
@@ -657,6 +793,14 @@
       "onboard_time": 1696123950,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159949,
+      "num": 159949,
+      "word": "谢震业妈妈说夺冠是最好的生日礼物",
+      "onboard_time": 1696126111,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 158996,
