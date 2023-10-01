@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696151710199,
+  "endTime": 1696152826061,
   "band_list": [
     {
       "raw_hot": 6008481,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1861802,
+      "num": 1861802,
+      "word": "早田希娜 擦边",
+      "onboard_time": 1696150592,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1754386,
       "num": 1754386,
       "word": "孟晚舟卸任华为轮值董事长",
@@ -105,14 +113,6 @@
       "onboard_time": 1696130194,
       "rank": 7,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1630147,
-      "num": 1630147,
-      "word": "早田希娜 擦边",
-      "onboard_time": 1696150592,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1561146,
@@ -169,6 +169,14 @@
       "onboard_time": 1696129532,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1394126,
+      "num": 1394126,
+      "word": "女生手滑误拒浙大保研通知",
+      "onboard_time": 1696151073,
+      "rank": 10,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1344187,
@@ -331,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 733277,
+      "num": 733277,
+      "word": "这是黄晓明还是黄小夫",
+      "onboard_time": 1696148916,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 711028,
       "num": 711028,
       "word": "程潇进组",
@@ -363,20 +379,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 690271,
-      "num": 690271,
-      "word": "这是黄晓明还是黄小夫",
-      "onboard_time": 1696148916,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 688963,
       "num": 630967,
       "word": "全红婵陈芋汐回应炸鱼动作",
       "onboard_time": 1696124070,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 665791,
+      "num": 451223,
+      "word": "曾黎机场被粉丝递剧本的反应",
+      "onboard_time": 1696148736,
+      "rank": 30,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 653543,
@@ -387,28 +403,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 645671,
-      "num": 461354,
-      "word": "女生手滑误拒浙大保研通知",
-      "onboard_time": 1696151073,
-      "rank": 10,
-      "category": "教育,社会新闻"
-    },
-    {
       "raw_hot": 640428,
       "num": 583092,
       "word": "张伟丽把奥尼尔举起来了",
       "onboard_time": 1696120889,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 639481,
-      "num": 447617,
-      "word": "曾黎机场被粉丝递剧本的反应",
-      "onboard_time": 1696148736,
-      "rank": 30,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 631702,
@@ -603,6 +603,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 451340,
+      "num": 328167,
+      "word": "专家称住便宜酒店的时代可能过去了",
+      "onboard_time": 1696150713,
+      "rank": 22,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 449152,
       "num": 449152,
       "word": "孙颖莎想跟王艺迪会师决赛",
@@ -641,6 +649,14 @@
       "onboard_time": 1696120351,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 405921,
+      "num": 370768,
+      "word": "萝卜刀应该被禁吗",
+      "onboard_time": 1696147110,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404054,
@@ -683,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381704,
+      "num": 381704,
+      "word": "为什么孙颖莎人气这么高",
+      "onboard_time": 1696151910,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 380838,
       "num": 380838,
       "word": "莎头卫冕",
@@ -697,14 +721,6 @@
       "onboard_time": 1696134331,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 373292,
-      "num": 370768,
-      "word": "萝卜刀应该被禁吗",
-      "onboard_time": 1696147110,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 370022,
@@ -737,14 +753,6 @@
       "onboard_time": 1696138352,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 361213,
-      "num": 311904,
-      "word": "专家称住便宜酒店的时代可能过去了",
-      "onboard_time": 1696150713,
-      "rank": 22,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 360138,
@@ -859,6 +867,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317987,
+      "num": 317987,
+      "word": "杨幂巴黎私服出街",
+      "onboard_time": 1696152273,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 316748,
       "num": 316748,
       "word": "丞磊下次要不戴耳机吧",
@@ -881,6 +897,14 @@
       "onboard_time": 1696133670,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 306330,
+      "num": 306330,
+      "word": "李发彬举重夺金",
+      "onboard_time": 1696151257,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 305314,
@@ -961,6 +985,14 @@
       "onboard_time": 1696084060,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277613,
+      "num": 200142,
+      "word": "街头随机采访到了富二代",
+      "onboard_time": 1696151190,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 277194,
@@ -1052,7 +1084,7 @@
     },
     {
       "raw_hot": 260662,
-      "num": 431790,
+      "num": 439764,
       "word": "樊振东王楚钦vs韩国队",
       "onboard_time": 1696149513,
       "rank": 13,
@@ -1139,8 +1171,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 248756,
-      "num": 248756,
+      "raw_hot": 249553,
+      "num": 249553,
       "word": "成毅留了胡渣",
       "onboard_time": 1696149157,
       "rank": 36,
@@ -1203,14 +1235,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 239938,
-      "num": 239938,
-      "word": "李发彬举重夺金",
-      "onboard_time": 1696151257,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 236836,
       "num": 236836,
       "word": "迪丽热巴花少5古城王后造型",
@@ -1233,6 +1257,14 @@
       "onboard_time": 1696125091,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 233480,
+      "num": 233480,
+      "word": "网友先后偶遇白鹿张凌赫",
+      "onboard_time": 1696151972,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 232013,
@@ -1427,14 +1459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 200142,
-      "num": 200142,
-      "word": "街头随机采访到了富二代",
-      "onboard_time": 1696151190,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199577,
       "num": 199577,
       "word": "侯明昊的造型缘",
@@ -1457,6 +1481,14 @@
       "onboard_time": 1696130493,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 196872,
+      "num": 196872,
+      "word": "莫斯科行动",
+      "onboard_time": 1696151673,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 196453,
@@ -1601,6 +1633,14 @@
       "onboard_time": 1696123831,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180611,
+      "num": 180611,
+      "word": "迪士尼一玩偶原价199元炒至8000元",
+      "onboard_time": 1696152212,
+      "rank": 32,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 179394,
@@ -1923,14 +1963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137768,
-      "num": 137768,
-      "word": "莫斯科行动",
-      "onboard_time": 1696151673,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 133494,
       "num": 133494,
       "word": "莫斯科行动是纯血类型片",
@@ -1985,6 +2017,14 @@
       "onboard_time": 1696062274,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 121178,
+      "num": 121178,
+      "word": "这声音跟葫芦娃里面一模一样",
+      "onboard_time": 1696149571,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120520,
@@ -2060,7 +2100,7 @@
     },
     {
       "raw_hot": 98177,
-      "num": 1426470,
+      "num": 1500271,
       "word": "这些大国重器彰显中国底气",
       "onboard_time": 1696146931,
       "rank": 2,
@@ -2205,6 +2245,9 @@
     },
     {
       "word": "#有一种骄傲叫我爱你中国#"
+    },
+    {
+      "word": "#亲爱的祖国生日快乐#"
     }
   ]
 }
