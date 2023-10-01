@@ -1,0 +1,410 @@
+{
+  "runTime": 1696149252308,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4008759,
+        "num": 4008759,
+        "word": "王艺迪vs早田希娜",
+        "onboard_time": 1696145732,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3328072,
+        "num": 3328072,
+        "word": "王艺迪止步女单四强",
+        "onboard_time": 1696148618,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94083,
+        "num": 1426470,
+        "word": "这些大国重器彰显中国底气",
+        "onboard_time": 1696146931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344187,
+        "num": 1344187,
+        "word": "台媒报道杨幂弘扬中华文化",
+        "onboard_time": 1696144594,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1297367,
+        "num": 1297367,
+        "word": "女单半决赛",
+        "onboard_time": 1696144534,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1132716,
+        "num": 1132716,
+        "word": "何冰娇强忍眼泪",
+        "onboard_time": 1696143935,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1032627,
+        "num": 1032627,
+        "word": "孙颖莎进女单决赛",
+        "onboard_time": 1696143872,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 919427,
+        "num": 919427,
+        "word": "腿姐",
+        "onboard_time": 1696136853,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 790694,
+        "num": 790694,
+        "word": "YG的G没有了",
+        "onboard_time": 1696136733,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781911,
+        "num": 781911,
+        "word": "希望国乒双打失利能引起教练组的重视",
+        "onboard_time": 1696144055,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660899,
+        "num": 660899,
+        "word": "王一博新发色藏不住了",
+        "onboard_time": 1696139371,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 571873,
+        "num": 571873,
+        "word": "韩庚前任4最出圈的台词",
+        "onboard_time": 1696142675,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 553837,
+        "num": 553837,
+        "word": "魏大勋 白月光",
+        "onboard_time": 1696138293,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320177,
+        "num": 552946,
+        "word": "5岁女孩池边喂50斤胖锦鲤",
+        "onboard_time": 1696134933,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280309,
+        "num": 552656,
+        "word": "樊振东王楚钦进男双决赛",
+        "onboard_time": 1696136312,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582981,
+        "num": 552606,
+        "word": "权志龙离开YG加入华纳",
+        "onboard_time": 1696133852,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552446,
+        "num": 552446,
+        "word": "这是黄晓明还是黄小夫",
+        "onboard_time": 1696148916,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524214,
+        "num": 524214,
+        "word": "被稻城亚丁的风景累惨了",
+        "onboard_time": 1696144293,
+        "rank": 17,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 496854,
+        "num": 496854,
+        "word": "王源看秀待遇",
+        "onboard_time": 1696145255,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 477784,
+        "num": 477784,
+        "word": "坚如磐石 质疑了你就入戏了",
+        "onboard_time": 1696146692,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 449152,
+        "num": 449152,
+        "word": "孙颖莎想跟王艺迪会师决赛",
+        "onboard_time": 1696145732,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 370768,
+        "num": 370768,
+        "word": "萝卜刀应该被禁吗",
+        "onboard_time": 1696147110,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365380,
+        "num": 365380,
+        "word": "网友被求婚收到了赵今麦送的花",
+        "onboard_time": 1696139612,
+        "rank": 22,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 361671,
+        "num": 361671,
+        "word": "孙颖莎vs申裕斌",
+        "onboard_time": 1696142374,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269512,
+        "num": 269512,
+        "word": "丞磊下次要不戴耳机吧",
+        "onboard_time": 1696145432,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 262084,
+        "num": 262084,
+        "word": "杨紫抵达巴黎",
+        "onboard_time": 1696144655,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260278,
+        "num": 260278,
+        "word": "赵露思10月不进组",
+        "onboard_time": 1696141894,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237441,
+        "num": 237441,
+        "word": "赵丽颖重现楚乔传高马尾",
+        "onboard_time": 1696130194,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237113,
+        "num": 237113,
+        "word": "陈凯歌透露朱一龙是志愿军2最主要人物",
+        "onboard_time": 1696148618,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235156,
+        "num": 235156,
+        "word": "萝卜刀",
+        "onboard_time": 1696139012,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 223355,
+        "num": 223355,
+        "word": "曾黎机场被粉丝递剧本的反应",
+        "onboard_time": 1696148736,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 221360,
+        "num": 221360,
+        "word": "坚如磐石",
+        "onboard_time": 1696131513,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219211,
+        "num": 219211,
+        "word": "鸡鸣寺的团宠橘猫",
+        "onboard_time": 1696147893,
+        "rank": 32,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 217659,
+        "num": 217659,
+        "word": "黄嘉仪是来整顿卫明全家的吗",
+        "onboard_time": 1696146512,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214273,
+        "num": 214273,
+        "word": "不小心把大哥穿的衣服翻译了",
+        "onboard_time": 1696144833,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203149,
+        "num": 203149,
+        "word": "邓为云秀行今日杀青",
+        "onboard_time": 1696148311,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202124,
+        "num": 202124,
+        "word": "成毅留了胡渣",
+        "onboard_time": 1696149157,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 187374,
+        "num": 187374,
+        "word": "游客讲述成都天府广场升旗高燃现场",
+        "onboard_time": 1696148618,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 186784,
+        "num": 186784,
+        "word": "林孝埈为亚运健儿送祝福",
+        "onboard_time": 1696145255,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13909,
+        "num": 183173,
+        "word": "上海超级杯看点",
+        "onboard_time": 1696148618,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183140,
+        "num": 183140,
+        "word": "志愿军",
+        "onboard_time": 1696148436,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170313,
+        "num": 170313,
+        "word": "程潇进组",
+        "onboard_time": 1696136793,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168730,
+        "num": 168730,
+        "word": "莎头卫冕",
+        "onboard_time": 1696083822,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165937,
+        "num": 165937,
+        "word": "丑猫 阴暗地蹲坐",
+        "onboard_time": 1696142675,
+        "rank": 43,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 160978,
+        "num": 160978,
+        "word": "王楚钦孙颖莎混双夺冠",
+        "onboard_time": 1696083343,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157259,
+        "num": 157259,
+        "word": "郑钦文说不会原谅前教练",
+        "onboard_time": 1696146094,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156011,
+        "num": 156011,
+        "word": "陈牧驰的社交能力",
+        "onboard_time": 1696148372,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145919,
+        "num": 145919,
+        "word": "从青丝到白发他一人保护候鸟37年",
+        "onboard_time": 1696146094,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139225,
+        "num": 139225,
+        "word": "DOTA2中国队晋级决赛",
+        "onboard_time": 1696134152,
+        "rank": 48,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 132203,
+        "num": 132203,
+        "word": "我服了于适了",
+        "onboard_time": 1696143392,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝新中国成立74周年#"
+    }
+  }
+}
