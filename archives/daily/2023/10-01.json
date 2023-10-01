@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696158794202,
+  "endTime": 1696160034321,
   "band_list": [
     {
       "raw_hot": 6008481,
@@ -51,6 +51,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2563643,
+      "num": 2563643,
+      "word": "樊振东王楚钦男双夺金",
+      "onboard_time": 1696159059,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2455273,
       "num": 2455273,
       "word": "YG的G没有了",
@@ -73,6 +81,14 @@
       "onboard_time": 1696142374,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1996094,
+      "num": 671696,
+      "word": "巴黎世家 刘昊然",
+      "onboard_time": 1696157373,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1861802,
@@ -187,8 +203,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1394636,
+      "num": 1394636,
+      "word": "腿姐回应",
+      "onboard_time": 1696158275,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1371982,
-      "num": 499360,
+      "num": 661681,
       "word": "金发张元英",
       "onboard_time": 1696156058,
       "rank": 10,
@@ -225,14 +249,6 @@
       "onboard_time": 1696144534,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1287911,
-      "num": 492045,
-      "word": "巴黎世家 刘昊然",
-      "onboard_time": 1696157373,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1213705,
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 821088,
+      "num": 821088,
+      "word": "新疆婚宴",
+      "onboard_time": 1696156893,
+      "rank": 12,
+      "category": "美食,旅游"
+    },
+    {
       "raw_hot": 804001,
       "num": 804001,
       "word": "两只眼睛的度数都没她俩整齐",
@@ -377,6 +401,14 @@
       "onboard_time": 1696138293,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 734057,
+      "num": 734057,
+      "word": "女单决赛",
+      "onboard_time": 1696158097,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 711028,
@@ -419,8 +451,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 683506,
+      "num": 683506,
+      "word": "樊振东王楚钦vs张禹珍林钟勋",
+      "onboard_time": 1696158275,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 671883,
-      "num": 741623,
+      "num": 1400615,
       "word": "黄山游客被大学生志愿者热情投喂",
       "onboard_time": 1696149571,
       "rank": 25,
@@ -441,14 +481,6 @@
       "onboard_time": 1696117705,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 648051,
-      "num": 485006,
-      "word": "新疆婚宴",
-      "onboard_time": 1696156893,
-      "rank": 12,
-      "category": "美食,旅游"
     },
     {
       "raw_hot": 640428,
@@ -483,6 +515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 604329,
+      "num": 604329,
+      "word": "央视国庆晚会",
+      "onboard_time": 1696158937,
+      "rank": 16,
+      "category": "综艺,综艺"
+    },
+    {
       "raw_hot": 599095,
       "num": 599095,
       "word": "陈梦王艺迪",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 596994,
-      "num": 727735,
+      "num": 1395814,
       "word": "女儿把录警通知书带给牺牲父亲",
       "onboard_time": 1696154254,
       "rank": 4,
@@ -555,20 +595,28 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 551453,
-      "num": 468131,
-      "word": "腿姐回应",
-      "onboard_time": 1696158275,
-      "rank": 15,
-      "category": "教育"
-    },
-    {
       "raw_hot": 530605,
       "num": 338212,
       "word": "江苏红了",
       "onboard_time": 1696124431,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530582,
+      "num": 656884,
+      "word": "樊振东王楚钦vs韩国队",
+      "onboard_time": 1696149513,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 526814,
+      "num": 382152,
+      "word": "南京鸡鸣寺网红猫要被游客摸秃了",
+      "onboard_time": 1696157556,
+      "rank": 21,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 525316,
@@ -587,14 +635,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 523128,
-      "num": 382152,
-      "word": "南京鸡鸣寺网红猫要被游客摸秃了",
-      "onboard_time": 1696157556,
-      "rank": 21,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 516445,
       "num": 516445,
       "word": "国庆节",
@@ -609,14 +649,6 @@
       "onboard_time": 1696139612,
       "rank": 16,
       "category": "情感,艺人"
-    },
-    {
-      "raw_hot": 503084,
-      "num": 503084,
-      "word": "樊振东王楚钦vs韩国队",
-      "onboard_time": 1696149513,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 499884,
@@ -683,6 +715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474551,
+      "num": 643389,
+      "word": "韩国选手球拍上有马龙照片",
+      "onboard_time": 1696157855,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470711,
       "num": 394811,
       "word": "原来拔智齿磨的是骨头不是牙",
@@ -707,12 +747,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 462452,
-      "num": 462452,
-      "word": "樊振东王楚钦vs张禹珍林钟勋",
-      "onboard_time": 1696158275,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 463253,
+      "num": 463253,
+      "word": "王俊凯金泳勋时装周看秀合照",
+      "onboard_time": 1696158333,
+      "rank": 18,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 451340,
@@ -771,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 407370,
-      "num": 407370,
-      "word": "王俊凯金泳勋时装周看秀合照",
-      "onboard_time": 1696158333,
-      "rank": 18,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 406461,
       "num": 337787,
       "word": "韩国牙科医生吃糖葫芦的感受",
@@ -801,14 +833,6 @@
       "onboard_time": 1696119510,
       "rank": 24,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 387316,
-      "num": 387316,
-      "word": "女单决赛",
-      "onboard_time": 1696158097,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 386733,
@@ -971,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 335254,
+      "num": 281979,
+      "word": "1号到4号可以不用来兵马俑了",
+      "onboard_time": 1696159236,
+      "rank": 31,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 329874,
       "num": 427475,
       "word": "国乒无缘女双4强",
@@ -985,14 +1017,6 @@
       "onboard_time": 1696062514,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 325171,
-      "num": 470840,
-      "word": "韩国选手球拍上有马龙照片",
-      "onboard_time": 1696157855,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 320414,
@@ -1035,6 +1059,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 312083,
+      "num": 312083,
+      "word": "中国女排vs印度女排",
+      "onboard_time": 1696159895,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307942,
       "num": 307942,
       "word": "志愿军里魏大勋演技被低估了",
@@ -1048,6 +1080,14 @@
       "word": "李发彬举重夺金",
       "onboard_time": 1696151257,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 304323,
+      "num": 304323,
+      "word": "小胖头",
+      "onboard_time": 1696159417,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -1123,6 +1163,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283046,
+      "num": 283046,
+      "word": "林双离婚后修罗场都好香",
+      "onboard_time": 1696157973,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282437,
       "num": 282437,
       "word": "以为看的是单人跳水",
@@ -1145,6 +1193,14 @@
       "onboard_time": 1696133493,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277077,
+      "num": 277077,
+      "word": "国羽男团0比1印度",
+      "onboard_time": 1696159775,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 276220,
@@ -1195,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 274194,
-      "num": 274194,
-      "word": "林双离婚后修罗场都好香",
-      "onboard_time": 1696157973,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271960,
       "num": 271960,
       "word": "我服了于适了",
@@ -1224,6 +1272,14 @@
       "word": "韩媒抹黑国足亚运队",
       "onboard_time": 1696135893,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 262775,
+      "num": 262775,
+      "word": "王楚钦第3金",
+      "onboard_time": 1696159836,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1393,6 +1449,14 @@
       "onboard_time": 1696110795,
       "rank": 21,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 240844,
+      "num": 240844,
+      "word": "国足亚运队vs韩国",
+      "onboard_time": 1696158877,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 237919,
@@ -1619,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202326,
+      "num": 322655,
+      "word": "交警叔叔把萌娃送的月饼分享给路人",
+      "onboard_time": 1696159775,
+      "rank": 24,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "10岁小女孩牢记1.5万字讲解词",
@@ -1636,7 +1708,7 @@
     },
     {
       "raw_hot": 201138,
-      "num": 538340,
+      "num": 607789,
       "word": "男子马拉松终点前倒立被反超",
       "onboard_time": 1696156957,
       "rank": 6,
@@ -2356,7 +2428,7 @@
     },
     {
       "raw_hot": 98177,
-      "num": 1500271,
+      "num": 1590432,
       "word": "这些大国重器彰显中国底气",
       "onboard_time": 1696146931,
       "rank": 2,
