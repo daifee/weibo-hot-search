@@ -1,13 +1,29 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696167244119,
+  "endTime": 1696169648459,
   "band_list": [
+    {
+      "raw_hot": 9556799,
+      "num": 10386805,
+      "word": "吴艳妮抢跑",
+      "onboard_time": 1696166799,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 7618315,
       "num": 7618315,
       "word": "孙颖莎vs早田希娜",
       "onboard_time": 1696163674,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6766838,
+      "num": 6766838,
+      "word": "吴艳妮成绩被取消",
+      "onboard_time": 1696168425,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -99,12 +115,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2389731,
+      "num": 2389731,
+      "word": "林雨薇好美",
+      "onboard_time": 1696166982,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2168213,
       "num": 2168213,
       "word": "孙颖莎vs申裕斌",
       "onboard_time": 1696142374,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2034170,
+      "num": 2034170,
+      "word": "中国队决赛不藏了",
+      "onboard_time": 1696164944,
+      "rank": 3,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 1996094,
@@ -123,8 +155,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1841521,
+      "num": 1841521,
+      "word": "林雨薇100米栏金牌",
+      "onboard_time": 1696167283,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1781077,
-      "num": 770401,
+      "num": 950183,
       "word": "巴黎偶遇杨紫",
       "onboard_time": 1696161334,
       "rank": 15,
@@ -187,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1563684,
+      "num": 950376,
+      "word": "港媒曝郑少秋大女儿在美去世",
+      "onboard_time": 1696168966,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1561146,
       "num": 1561146,
       "word": "孙颖莎进女单决赛",
@@ -211,14 +259,6 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 1505771,
-      "num": 1505771,
-      "word": "中国队决赛不藏了",
-      "onboard_time": 1696164944,
-      "rank": 3,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 1496798,
       "num": 1496798,
       "word": "国羽女团亚运银牌",
@@ -233,6 +273,14 @@
       "onboard_time": 1696083408,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1466369,
+      "num": 1466369,
+      "word": "吴艳妮被罚下",
+      "onboard_time": 1696168005,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1436478,
@@ -307,20 +355,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1275911,
+      "num": 1275911,
+      "word": "中国亚运男足无缘四强",
+      "onboard_time": 1696169267,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1213705,
       "num": 1213705,
       "word": "泰国是预制菜的重灾区吧",
       "onboard_time": 1696082983,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1164397,
-      "num": 343678,
-      "word": "林雨薇好美",
-      "onboard_time": 1696166982,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 1069162,
@@ -451,6 +499,14 @@
       "category": "美食,旅游"
     },
     {
+      "raw_hot": 811375,
+      "num": 811375,
+      "word": "华伦天奴",
+      "onboard_time": 1696166923,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 804001,
       "num": 804001,
       "word": "两只眼睛的度数都没她俩整齐",
@@ -480,6 +536,14 @@
       "word": "希望国乒双打失利能引起教练组的重视",
       "onboard_time": 1696144055,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 754265,
+      "num": 754265,
+      "word": "国羽男团2比2印度",
+      "onboard_time": 1696167283,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -553,6 +617,14 @@
       "onboard_time": 1696158937,
       "rank": 16,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 673516,
+      "num": 673516,
+      "word": "一盒月饼下去办公室无人生还",
+      "onboard_time": 1696167108,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 671883,
@@ -739,6 +811,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 517943,
+      "num": 517943,
+      "word": "中国香港晋级亚运男足四强",
+      "onboard_time": 1696169084,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 516445,
       "num": 516445,
       "word": "国庆节",
@@ -867,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456619,
+      "num": 456619,
+      "word": "虞书欣脉搏犹如40岁男子壮如牛",
+      "onboard_time": 1696166923,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451340,
       "num": 385503,
       "word": "专家称住便宜酒店的时代可能过去了",
@@ -920,14 +1008,6 @@
       "word": "朴志焄 希望大家不要在意",
       "onboard_time": 1696163856,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 429267,
-      "num": 429267,
-      "word": "虞书欣脉搏犹如40岁男子壮如牛",
-      "onboard_time": 1696166923,
-      "rank": 17,
       "category": "艺人"
     },
     {
@@ -1243,6 +1323,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 334307,
+      "num": 334307,
+      "word": "夏思凝拿全国冠军的时候才16岁",
+      "onboard_time": 1696168730,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331310,
+      "num": 331310,
+      "word": "范丞丞cue王安宇",
+      "onboard_time": 1696167766,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 329874,
       "num": 427475,
       "word": "国乒无缘女双4强",
@@ -1331,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304527,
+      "num": 304527,
+      "word": "国足亚运队半场0比2韩国",
+      "onboard_time": 1696166437,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304323,
       "num": 304323,
       "word": "小胖头",
@@ -1340,7 +1444,7 @@
     },
     {
       "raw_hot": 302537,
-      "num": 4330023,
+      "num": 4584095,
       "word": "满街五星红旗是中国人的浪漫",
       "onboard_time": 1696164577,
       "rank": 2,
@@ -1515,14 +1619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273720,
-      "num": 273720,
-      "word": "华伦天奴",
-      "onboard_time": 1696166923,
-      "rank": 39,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 271960,
       "num": 271960,
       "word": "我服了于适了",
@@ -1552,14 +1648,6 @@
       "word": "韩媒抹黑国足亚运队",
       "onboard_time": 1696135893,
       "rank": 29,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 263571,
-      "num": 263571,
-      "word": "国足亚运队半场0比2韩国",
-      "onboard_time": 1696166437,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -1625,6 +1713,14 @@
       "onboard_time": 1696121371,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257118,
+      "num": 257118,
+      "word": "王栎鑫老来俏",
+      "onboard_time": 1696168844,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 256306,
@@ -1825,14 +1921,6 @@
       "onboard_time": 1696142734,
       "rank": 30,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 229418,
-      "num": 229418,
-      "word": "一盒月饼下去办公室无人生还",
-      "onboard_time": 1696167108,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 229264,
@@ -2051,6 +2139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200626,
+      "num": 200626,
+      "word": "前任4",
+      "onboard_time": 1696168304,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 199577,
       "num": 199577,
       "word": "侯明昊的造型缘",
@@ -2121,6 +2217,14 @@
       "onboard_time": 1696136853,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195567,
+      "num": 195567,
+      "word": "卫明再婚是一场闹剧",
+      "onboard_time": 1696168782,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 194229,
@@ -2296,6 +2400,14 @@
       "word": "山东花饽饽版五谷丰登",
       "onboard_time": 1696155214,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180666,
+      "num": 180666,
+      "word": "格局打开的加班警汪为祖国庆生",
+      "onboard_time": 1696169508,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2931,6 +3043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24438,
+      "num": 519780,
+      "word": "iQOO手机见证中国电竞冲金时刻",
+      "onboard_time": 1696166861,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 18957,
       "num": 588448,
       "word": "盛世中华 大美中国",
@@ -2945,14 +3065,6 @@
       "onboard_time": 1696148618,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13317,
-      "num": 242001,
-      "word": "iQOO手机见证中国电竞冲金时刻",
-      "onboard_time": 1696166861,
-      "rank": 42,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
