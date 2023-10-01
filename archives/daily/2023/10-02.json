@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696202180561,
+  "endTime": 1696203233383,
   "band_list": [
     {
       "raw_hot": 1826869,
@@ -100,11 +100,19 @@
     },
     {
       "raw_hot": 506419,
-      "num": 149617,
+      "num": 221242,
       "word": "男子抽烟致高铁降速反怼民警",
       "onboard_time": 1696193415,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 504145,
+      "num": 504145,
+      "word": "菩提祖师才是孙悟空唯一的师父",
+      "onboard_time": 1696201342,
+      "rank": 11,
+      "category": "其它"
     },
     {
       "raw_hot": 472020,
@@ -155,6 +163,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 386079,
+      "num": 216584,
+      "word": "我的i人同事竟然是行走的50万",
+      "onboard_time": 1696202724,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307469,
       "num": 307469,
       "word": "用来垫锅几年了才发现是成毅",
@@ -163,12 +179,20 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 291481,
-      "num": 291481,
+      "raw_hot": 300110,
+      "num": 300110,
       "word": "孙女整理爷爷遗物发现备好的嫁妆",
       "onboard_time": 1696173278,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295848,
+      "num": 103804,
+      "word": "林雨薇赛后谈吴艳妮抢跑",
+      "onboard_time": 1696202363,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 290952,
@@ -251,11 +275,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226134,
+      "num": 200935,
+      "word": "云南跟团游我们经历了什么",
+      "onboard_time": 1696202063,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 225420,
       "num": 225420,
       "word": "孙颖莎女单夺金",
       "onboard_time": 1696165005,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 216698,
+      "num": 102895,
+      "word": "吴艳妮抢跑后为何还能继续比赛",
+      "onboard_time": 1696202363,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214023,
+      "num": 102203,
+      "word": "世界上最幽默的自嘲 奥运五环变四环",
+      "onboard_time": 1696201219,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -273,14 +321,6 @@
       "onboard_time": 1696167283,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 193704,
-      "num": 148619,
-      "word": "菩提祖师才是孙悟空唯一的师父",
-      "onboard_time": 1696201342,
-      "rank": 11,
-      "category": "其它"
     },
     {
       "raw_hot": 186850,
@@ -308,7 +348,7 @@
     },
     {
       "raw_hot": 183333,
-      "num": 162859,
+      "num": 181312,
       "word": "你认为多少岁结婚最合适",
       "onboard_time": 1696185257,
       "rank": 5,
@@ -329,6 +369,14 @@
       "onboard_time": 1696177470,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157231,
+      "num": 157231,
+      "word": "警方通报网传宝马司机因吐痰引冲突被杀",
+      "onboard_time": 1696202363,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 148674,
@@ -435,6 +483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 119006,
+      "num": 101573,
+      "word": "工作三年后身边的人变化真的大",
+      "onboard_time": 1696202182,
+      "rank": 34,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 118421,
       "num": 118421,
       "word": "孙艺洲 有点冤但不多",
@@ -449,6 +505,22 @@
       "onboard_time": 1696178966,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116690,
+      "num": 116690,
+      "word": "因不能合照儿子画全家福送缉毒警爸爸",
+      "onboard_time": 1696202002,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110002,
+      "num": 110002,
+      "word": "范丞丞回复王安宇",
+      "onboard_time": 1696202904,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 108710,
@@ -475,12 +547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104832,
+      "num": 104832,
+      "word": "林双公婆攀高枝被扫地出门",
+      "onboard_time": 1696202481,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104512,
       "num": 104512,
       "word": "IVE专辑预告视频",
       "onboard_time": 1696178070,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 101374,
+      "num": 101374,
+      "word": "霍勒迪加盟凯尔特人",
+      "onboard_time": 1696202603,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 99724,
@@ -499,24 +587,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 90722,
-      "num": 80510,
-      "word": "世界上最幽默的自嘲 奥运五环变四环",
-      "onboard_time": 1696201219,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 76555,
-      "num": 76555,
+      "raw_hot": 86604,
+      "num": 86604,
       "word": "黄嘉仪的恋爱脑把林双气笑了",
       "onboard_time": 1696192333,
       "rank": 48,
       "category": "剧集"
     },
     {
-      "raw_hot": 75335,
-      "num": 75335,
+      "raw_hot": 85363,
+      "num": 85363,
       "word": "白敬亭说和沈腾聊天比试戏还紧张",
       "onboard_time": 1696187116,
       "rank": 42,
@@ -555,28 +635,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 49185,
-      "num": 49185,
-      "word": "云南跟团游我们经历了什么",
-      "onboard_time": 1696202063,
-      "rank": 46,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 47493,
       "num": 49183,
       "word": "满屏战机数都数不清",
       "onboard_time": 1696199837,
       "rank": 47,
       "category": "军事"
-    },
-    {
-      "raw_hot": 47298,
-      "num": 49179,
-      "word": "因不能合照儿子画全家福送缉毒警爸爸",
-      "onboard_time": 1696202002,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36583,
@@ -611,7 +675,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 8754,
+      "raw_hot": 10024,
       "num": 689696,
       "word": "有一种自豪叫中国",
       "onboard_time": 1696119808,
