@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696133984616,
+  "endTime": 1696134829127,
   "band_list": [
     {
       "raw_hot": 2794937,
@@ -17,6 +17,14 @@
       "onboard_time": 1696083343,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2151573,
+      "num": 2151573,
+      "word": "权志龙离开YG加入华纳",
+      "onboard_time": 1696133852,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 1754386,
@@ -49,6 +57,14 @@
       "onboard_time": 1696122270,
       "rank": 10,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1546862,
+      "num": 1546862,
+      "word": "DOTA2中国队晋级决赛",
+      "onboard_time": 1696134152,
+      "rank": 1,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 1474068,
@@ -123,20 +139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 841551,
+      "num": 841551,
+      "word": "留学时不要乱用emoji",
+      "onboard_time": 1696131754,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 804001,
       "num": 804001,
       "word": "两只眼睛的度数都没她俩整齐",
       "onboard_time": 1696124972,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 786681,
-      "num": 786681,
-      "word": "留学时不要乱用emoji",
-      "onboard_time": 1696131754,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 708049,
@@ -187,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631702,
+      "num": 631702,
+      "word": "国羽女团0比2韩国",
+      "onboard_time": 1696131394,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 626560,
       "num": 626560,
       "word": "韩国地铁凌晨五点坐满了人",
@@ -201,14 +225,6 @@
       "onboard_time": 1696123771,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 612712,
-      "num": 612712,
-      "word": "国羽女团0比2韩国",
-      "onboard_time": 1696131394,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 599095,
@@ -227,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 568402,
+      "num": 568402,
+      "word": "国羽女团vs韩国",
+      "onboard_time": 1696128932,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562123,
       "num": 562123,
       "word": "喜报林双离婚了",
@@ -241,14 +265,6 @@
       "onboard_time": 1696125871,
       "rank": 11,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 553079,
-      "num": 553079,
-      "word": "国羽女团vs韩国",
-      "onboard_time": 1696128932,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 530605,
@@ -305,6 +321,14 @@
       "onboard_time": 1696120409,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 470300,
+      "num": 470300,
+      "word": "张远输了十六年终于赢了一回",
+      "onboard_time": 1696134574,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 465272,
@@ -403,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 370260,
-      "num": 370260,
-      "word": "权志龙离开YG加入华纳",
-      "onboard_time": 1696133852,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 370022,
+      "num": 370022,
+      "word": "Ame的水人",
+      "onboard_time": 1696133731,
+      "rank": 37,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 369573,
@@ -523,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299709,
+      "num": 299709,
+      "word": "志愿军里魏大勋演技被低估了",
+      "onboard_time": 1696133670,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 298750,
       "num": 251236,
       "word": "为什么披萨里会有个小桌子",
@@ -553,6 +585,22 @@
       "onboard_time": 1696084060,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277194,
+      "num": 277194,
+      "word": "凌晨两点半成都街头太燃了吧",
+      "onboard_time": 1696133493,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276242,
+      "num": 276242,
+      "word": "梅姨安妮海瑟薇 梦回穿Prada的女王",
+      "onboard_time": 1696134331,
+      "rank": 27,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 276070,
@@ -763,14 +811,6 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 214556,
-      "num": 214556,
-      "word": "志愿军里魏大勋演技被低估了",
-      "onboard_time": 1696133670,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 212892,
       "num": 379495,
       "word": "我爱你中国是最深情的表白",
@@ -859,14 +899,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193680,
-      "num": 193680,
-      "word": "凌晨两点半成都街头太燃了吧",
-      "onboard_time": 1696133493,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190927,
       "num": 190927,
       "word": "中国队包揽乒乓球混双冠亚军",
@@ -889,14 +921,6 @@
       "onboard_time": 1696120230,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190522,
-      "num": 190522,
-      "word": "Ame的水人",
-      "onboard_time": 1696133731,
-      "rank": 37,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 188244,
@@ -932,7 +956,7 @@
     },
     {
       "raw_hot": 179394,
-      "num": 1232351,
+      "num": 1493657,
       "word": "有一种自豪叫中国",
       "onboard_time": 1696119808,
       "rank": 2,
@@ -1068,7 +1092,7 @@
     },
     {
       "raw_hot": 160851,
-      "num": 517643,
+      "num": 595044,
       "word": "5200米高原上官兵用吊车升起国旗",
       "onboard_time": 1696133009,
       "rank": 9,
@@ -1144,6 +1168,14 @@
       "word": "中国男篮终于得90分了",
       "onboard_time": 1696081540,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147744,
+      "num": 147744,
+      "word": "国羽女团亚运银牌",
+      "onboard_time": 1696134752,
+      "rank": 48,
       "category": "体育"
     },
     {
