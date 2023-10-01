@@ -1,0 +1,410 @@
+{
+  "runTime": 1696156433750,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2652642,
+        "num": 2652642,
+        "word": "女生手滑误拒浙大保研通知",
+        "onboard_time": 1696151073,
+        "rank": 0,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 748703,
+        "num": 748703,
+        "word": "王艺迪止步女单四强",
+        "onboard_time": 1696148618,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50336,
+        "num": 730863,
+        "word": "这些大国重器彰显中国底气",
+        "onboard_time": 1696146931,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596994,
+        "num": 727735,
+        "word": "女儿把录警通知书带给牺牲父亲",
+        "onboard_time": 1696154254,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671883,
+        "num": 726657,
+        "word": "黄山游客被大学生志愿者热情投喂",
+        "onboard_time": 1696149571,
+        "rank": 4,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 726025,
+        "num": 726025,
+        "word": "这是黄晓明还是黄小夫",
+        "onboard_time": 1696148916,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156778,
+        "num": 591247,
+        "word": "盘点历年天安门广场大花篮样式",
+        "onboard_time": 1696155932,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568293,
+        "num": 568293,
+        "word": "YG的G没有了",
+        "onboard_time": 1696136733,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 505488,
+        "num": 505488,
+        "word": "为什么孙颖莎人气这么高",
+        "onboard_time": 1696151910,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490347,
+        "num": 490347,
+        "word": "石宇奇",
+        "onboard_time": 1696154313,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1248140,
+        "num": 489919,
+        "word": "金发张元英",
+        "onboard_time": 1696156058,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 701952,
+        "num": 484332,
+        "word": "早田希娜 擦边球得分",
+        "onboard_time": 1696150592,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231004,
+        "num": 476586,
+        "word": "樊振东王楚钦vs韩国队",
+        "onboard_time": 1696149513,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187775,
+        "num": 470489,
+        "word": "5岁女孩池边喂50斤胖锦鲤",
+        "onboard_time": 1696134933,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167422,
+        "num": 466395,
+        "word": "孙颖莎进女单决赛",
+        "onboard_time": 1696143872,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463419,
+        "num": 463419,
+        "word": "曾黎机场被粉丝递剧本的反应",
+        "onboard_time": 1696148736,
+        "rank": 15,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 446590,
+        "num": 446590,
+        "word": "权志龙离开YG加入华纳",
+        "onboard_time": 1696133852,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401539,
+        "num": 401539,
+        "word": "杨幂巴黎私服出街",
+        "onboard_time": 1696152273,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400765,
+        "num": 400765,
+        "word": "前任4观后感",
+        "onboard_time": 1696154912,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387380,
+        "num": 387380,
+        "word": "坚如磐石 质疑了你就入戏了",
+        "onboard_time": 1696146692,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1004262,
+        "num": 387284,
+        "word": "许家印",
+        "onboard_time": 1696154912,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417425,
+        "num": 385503,
+        "word": "专家称住便宜酒店的时代可能过去了",
+        "onboard_time": 1696150713,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 383550,
+        "num": 383550,
+        "word": "孙颖莎早田希娜争金",
+        "onboard_time": 1696150535,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377842,
+        "num": 377842,
+        "word": "王一博新发色藏不住了",
+        "onboard_time": 1696139371,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332327,
+        "num": 332327,
+        "word": "你好星期六全员被趾压板支配的恐惧",
+        "onboard_time": 1696155393,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 313399,
+        "num": 313399,
+        "word": "钱塘江大潮撞拍护栏冲倒多名游客",
+        "onboard_time": 1696154973,
+        "rank": 25,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 301381,
+        "num": 301381,
+        "word": "魏大勋 白月光",
+        "onboard_time": 1696138293,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298375,
+        "num": 298375,
+        "word": "腿姐",
+        "onboard_time": 1696136853,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 296356,
+        "num": 296356,
+        "word": "台媒报道杨幂弘扬中华文化",
+        "onboard_time": 1696144594,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283680,
+        "num": 283680,
+        "word": "喜欢吃月饼和白粥的都沉默了",
+        "onboard_time": 1696154254,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263046,
+        "num": 263046,
+        "word": "王源看秀待遇",
+        "onboard_time": 1696145255,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 249337,
+        "num": 249337,
+        "word": "迪士尼一玩偶原价199元炒至8000元",
+        "onboard_time": 1696152212,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 221562,
+        "num": 221562,
+        "word": "网友先后偶遇白鹿张凌赫",
+        "onboard_time": 1696151972,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209239,
+        "num": 209239,
+        "word": "店员打压我妈被我怼了",
+        "onboard_time": 1696154313,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 200227,
+        "num": 200227,
+        "word": "街头随机采访到了富二代",
+        "onboard_time": 1696151190,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 195973,
+        "num": 195973,
+        "word": "萝卜刀应该被禁吗",
+        "onboard_time": 1696147110,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183924,
+        "num": 183924,
+        "word": "国羽男团vs印度",
+        "onboard_time": 1696155932,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174436,
+        "num": 174436,
+        "word": "汪顺说叶诗文非常不容易",
+        "onboard_time": 1696153831,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164847,
+        "num": 164847,
+        "word": "被稻城亚丁的风景累惨了",
+        "onboard_time": 1696144293,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 159279,
+        "num": 159279,
+        "word": "坚如磐石",
+        "onboard_time": 1696131513,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155091,
+        "num": 155091,
+        "word": "陈凯歌透露朱一龙是志愿军2最主要人物",
+        "onboard_time": 1696148618,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153201,
+        "num": 153201,
+        "word": "网友被求婚收到了赵今麦送的花",
+        "onboard_time": 1696139612,
+        "rank": 41,
+        "category": "情感,艺人"
+      },
+      {
+        "raw_hot": 148972,
+        "num": 148972,
+        "word": "女单半决赛",
+        "onboard_time": 1696144534,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143049,
+        "num": 143049,
+        "word": "林双挖人",
+        "onboard_time": 1696154011,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140418,
+        "num": 140418,
+        "word": "白鹿回国机场图",
+        "onboard_time": 1696149752,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129900,
+        "num": 129900,
+        "word": "莫斯科行动",
+        "onboard_time": 1696151673,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134461,
+        "num": 128653,
+        "word": "成毅留了胡渣",
+        "onboard_time": 1696149157,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125591,
+        "num": 125591,
+        "word": "王艺迪vs早田希娜",
+        "onboard_time": 1696145732,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124990,
+        "num": 124990,
+        "word": "赵丽颖重现楚乔传高马尾",
+        "onboard_time": 1696130194,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121740,
+        "num": 121740,
+        "word": "国乒男双现场放张杰少年中国说",
+        "onboard_time": 1696135834,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#亲爱的祖国生日快乐#"
+    }
+  }
+}
