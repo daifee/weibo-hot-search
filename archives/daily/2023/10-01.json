@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696138435933,
+  "endTime": 1696141269514,
   "band_list": [
     {
       "raw_hot": 3432896,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1856706,
+      "num": 1856706,
+      "word": "韩国女队员侮辱性模仿何冰娇含泪",
+      "onboard_time": 1696140513,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1754386,
       "num": 1754386,
       "word": "孟晚舟卸任华为轮值董事长",
@@ -49,6 +57,14 @@
       "onboard_time": 1696085860,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1673733,
+      "num": 1673733,
+      "word": "腿姐",
+      "onboard_time": 1696136853,
+      "rank": 23,
+      "category": "教育"
     },
     {
       "raw_hot": 1634646,
@@ -91,6 +107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1436478,
+      "num": 410669,
+      "word": "王一博新发色藏不住了",
+      "onboard_time": 1696139371,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1421574,
       "num": 1421574,
       "word": "倪妮 没挡住但摸摸头",
@@ -121,14 +145,6 @@
       "onboard_time": 1696082983,
       "rank": 4,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1144729,
-      "num": 1144729,
-      "word": "腿姐",
-      "onboard_time": 1696136853,
-      "rank": 23,
-      "category": "教育"
     },
     {
       "raw_hot": 1050581,
@@ -171,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 861564,
+      "num": 861564,
+      "word": "萝卜刀",
+      "onboard_time": 1696139012,
+      "rank": 4,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 841551,
       "num": 841551,
       "word": "留学时不要乱用emoji",
@@ -201,6 +225,14 @@
       "onboard_time": 1696134933,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736119,
+      "num": 736119,
+      "word": "魏大勋 白月光",
+      "onboard_time": 1696138293,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 711028,
@@ -355,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 517407,
-      "num": 517407,
-      "word": "魏大勋 白月光",
-      "onboard_time": 1696138293,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 516445,
       "num": 516445,
       "word": "国庆节",
@@ -393,6 +417,14 @@
       "onboard_time": 1696115423,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 473103,
+      "num": 373092,
+      "word": "网友被求婚收到了赵今麦送的花",
+      "onboard_time": 1696139612,
+      "rank": 16,
+      "category": "情感,艺人"
     },
     {
       "raw_hot": 470711,
@@ -555,6 +587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359004,
+      "num": 359004,
+      "word": "超能摄影阳阳赞龚俊生图",
+      "onboard_time": 1696140091,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 357400,
       "num": 357400,
       "word": "因朋友喜欢发1我把他删了",
@@ -673,6 +713,22 @@
       "onboard_time": 1696135533,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 296084,
+      "num": 296084,
+      "word": "黄子弘凡音乐节",
+      "onboard_time": 1696139371,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 293775,
+      "num": 379681,
+      "word": "妈妈送狗当成年礼女儿圆梦哇哇大哭",
+      "onboard_time": 1696139973,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287647,
@@ -795,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257282,
+      "num": 257282,
+      "word": "梁洁从白色橄榄树寄来的明信片",
+      "onboard_time": 1696138654,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257272,
       "num": 237926,
       "word": "吴艳妮冲击金牌",
@@ -817,6 +881,14 @@
       "onboard_time": 1696125932,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 255183,
+      "num": 255183,
+      "word": "赵小棠把蒙古帽披在了身上",
+      "onboard_time": 1696139254,
+      "rank": 27,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 250378,
@@ -955,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208809,
+      "num": 208809,
+      "word": "三只小猫在叠叠乐",
+      "onboard_time": 1696139794,
+      "rank": 31,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "Twins要出新歌了",
@@ -1043,6 +1123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193642,
+      "num": 193642,
+      "word": "李一桐体验雨浇梅花酷刑",
+      "onboard_time": 1696139254,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190927,
       "num": 190927,
       "word": "中国队包揽乒乓球混双冠亚军",
@@ -1099,6 +1187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182561,
+      "num": 182561,
+      "word": "从小到大一直在试图延迟幸福",
+      "onboard_time": 1696137933,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182465,
       "num": 553191,
       "word": "国足亚运队与韩国争四强名额",
@@ -1107,16 +1203,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182097,
-      "num": 182097,
-      "word": "从小到大一直在试图延迟幸福",
-      "onboard_time": 1696137933,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 179394,
-      "num": 1493657,
+      "num": 1757056,
       "word": "有一种自豪叫中国",
       "onboard_time": 1696119808,
       "rank": 2,
@@ -1251,6 +1339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162146,
+      "num": 162146,
+      "word": "张栋梁joker舞台40秒解析",
+      "onboard_time": 1696137693,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161965,
       "num": 154141,
       "word": "西出玉门大结局",
@@ -1315,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154803,
-      "num": 154803,
-      "word": "张栋梁joker舞台40秒解析",
-      "onboard_time": 1696137693,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154669,
       "num": 154669,
       "word": "女双",
@@ -1337,6 +1425,14 @@
       "onboard_time": 1696087359,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148939,
+      "num": 375893,
+      "word": "告诉老将军现在他们要踮着脚看我们了",
+      "onboard_time": 1696140513,
+      "rank": 14,
+      "category": "军事,社会新闻"
     },
     {
       "raw_hot": 148127,
