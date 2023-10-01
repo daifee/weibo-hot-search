@@ -1,0 +1,410 @@
+{
+  "runTime": 1696137321601,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1496798,
+        "num": 1496798,
+        "word": "国羽女团亚运银牌",
+        "onboard_time": 1696134752,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1315963,
+        "num": 1315963,
+        "word": "DOTA2中国队晋级决赛",
+        "onboard_time": 1696134152,
+        "rank": 1,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 140230,
+        "num": 861176,
+        "word": "有一种自豪叫中国",
+        "onboard_time": 1696119808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820248,
+        "num": 820248,
+        "word": "倪妮 没挡住但摸摸头",
+        "onboard_time": 1696129532,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 3432896,
+        "num": 813474,
+        "word": "权志龙离开YG加入华纳",
+        "onboard_time": 1696133852,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 787710,
+        "num": 787710,
+        "word": "孟晚舟卸任华为轮值董事长",
+        "onboard_time": 1696128510,
+        "rank": 5,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 774251,
+        "num": 774251,
+        "word": "5岁女孩池边喂50斤胖锦鲤",
+        "onboard_time": 1696134933,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 773614,
+        "num": 773614,
+        "word": "樊振东王楚钦进男双决赛",
+        "onboard_time": 1696136312,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 709472,
+        "num": 709472,
+        "word": "曾见义勇为的南京胖哥女儿离世",
+        "onboard_time": 1696128033,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 671471,
+        "num": 671471,
+        "word": "王曼昱分析输球原因",
+        "onboard_time": 1696136373,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1040940,
+        "num": 655073,
+        "word": "YG的G没有了",
+        "onboard_time": 1696136733,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 627304,
+        "num": 627304,
+        "word": "留学时不要乱用emoji",
+        "onboard_time": 1696131754,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 585073,
+        "num": 585073,
+        "word": "国羽女团0比3韩国",
+        "onboard_time": 1696134872,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147054,
+        "num": 574281,
+        "word": "国庆节泰山的第一缕阳光",
+        "onboard_time": 1696136253,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75324,
+        "num": 574263,
+        "word": "志愿军老兵日记本里写满对祖国的爱",
+        "onboard_time": 1696132352,
+        "rank": 14,
+        "category": "军事,社会新闻"
+      },
+      {
+        "raw_hot": 574262,
+        "num": 574262,
+        "word": "程潇进组",
+        "onboard_time": 1696136793,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572828,
+        "num": 572828,
+        "word": "张远输了十六年终于赢了一回",
+        "onboard_time": 1696134574,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420727,
+        "num": 420727,
+        "word": "国庆节快乐",
+        "onboard_time": 1696110854,
+        "rank": 17,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 419165,
+        "num": 419165,
+        "word": "十月狗屎运最旺的星座",
+        "onboard_time": 1696125271,
+        "rank": 18,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 406724,
+        "num": 406724,
+        "word": "夫妻在有小孩之后发生的改变",
+        "onboard_time": 1696121850,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 784813,
+        "num": 393514,
+        "word": "赵丽颖重现楚乔传高马尾",
+        "onboard_time": 1696130194,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376624,
+        "num": 376624,
+        "word": "梅姨安妮海瑟薇 梦回穿Prada的女王",
+        "onboard_time": 1696134331,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 340029,
+        "num": 340029,
+        "word": "国乒男双现场放张杰少年中国说",
+        "onboard_time": 1696135834,
+        "rank": 22,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 325075,
+        "num": 325075,
+        "word": "腿姐",
+        "onboard_time": 1696136853,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 307942,
+        "num": 307942,
+        "word": "志愿军里魏大勋演技被低估了",
+        "onboard_time": 1696133670,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 297136,
+        "num": 297136,
+        "word": "马龙的巅峰期为什么会这么长",
+        "onboard_time": 1696135533,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267362,
+        "num": 267362,
+        "word": "阚清子 恭喜莎头夺冠",
+        "onboard_time": 1696122270,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 258748,
+        "num": 258748,
+        "word": "宋佳工作室出图好真实",
+        "onboard_time": 1696136493,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 251174,
+        "num": 251174,
+        "word": "奚梦瑶被何猷君幼稚到求救",
+        "onboard_time": 1696122990,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250182,
+        "num": 250182,
+        "word": "韩媒抹黑国足亚运队",
+        "onboard_time": 1696135893,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247250,
+        "num": 247250,
+        "word": "凌晨两点半成都街头太燃了吧",
+        "onboard_time": 1696133493,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237358,
+        "num": 237358,
+        "word": "Ame的水人",
+        "onboard_time": 1696133731,
+        "rank": 31,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 232771,
+        "num": 232771,
+        "word": "国庆节",
+        "onboard_time": 1696116144,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224085,
+        "num": 224085,
+        "word": "因朋友喜欢发1我把他删了",
+        "onboard_time": 1696127312,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 214135,
+        "num": 214135,
+        "word": "谭松韵素颜吃炸洋芋",
+        "onboard_time": 1696130435,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200728,
+        "num": 200728,
+        "word": "江苏红了",
+        "onboard_time": 1696124431,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195822,
+        "num": 195822,
+        "word": "79岁退休京剧演员穿汉服传承国粹",
+        "onboard_time": 1696136853,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187752,
+        "num": 187752,
+        "word": "于适 别生气啊兄弟",
+        "onboard_time": 1696129412,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185344,
+        "num": 185344,
+        "word": "王楚钦孙颖莎混双夺冠",
+        "onboard_time": 1696083343,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183935,
+        "num": 183935,
+        "word": "纯爱有多甜",
+        "onboard_time": 1696135233,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181446,
+        "num": 181446,
+        "word": "特斯拉Model Y改款",
+        "onboard_time": 1696137151,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 179430,
+        "num": 179430,
+        "word": "郑秀晶说想重登舞台",
+        "onboard_time": 1696126409,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174847,
+        "num": 174847,
+        "word": "卫明今天人丢大了",
+        "onboard_time": 1696122451,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165376,
+        "num": 165376,
+        "word": "虞书欣和长江七号合照",
+        "onboard_time": 1696133071,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165003,
+        "num": 165003,
+        "word": "9旬老人跨城寻找美食记忆获暖心帮助",
+        "onboard_time": 1696133972,
+        "rank": 44,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 164407,
+        "num": 164407,
+        "word": "亚运会",
+        "onboard_time": 1696120409,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49630,
+        "num": 160554,
+        "word": "被边防巡逻路上补拍的婚纱照美哭了",
+        "onboard_time": 1696130556,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159225,
+        "num": 159225,
+        "word": "赵丽颖明信片",
+        "onboard_time": 1696136011,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158324,
+        "num": 158324,
+        "word": "莎头卫冕",
+        "onboard_time": 1696083822,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154833,
+        "num": 154833,
+        "word": "腾讯今年三部破万剧集",
+        "onboard_time": 1696085860,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#庆祝新中国成立74周年#"
+    }
+  }
+}
