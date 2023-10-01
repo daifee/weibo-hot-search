@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696137321601,
+  "endTime": 1696138435933,
   "band_list": [
     {
       "raw_hot": 3432896,
@@ -17,6 +17,14 @@
       "onboard_time": 1696110854,
       "rank": 4,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2455273,
+      "num": 2455273,
+      "word": "YG的G没有了",
+      "onboard_time": 1696136733,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2450068,
@@ -115,20 +123,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1144729,
+      "num": 1144729,
+      "word": "腿姐",
+      "onboard_time": 1696136853,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1050581,
       "num": 1050581,
       "word": "曾见义勇为的南京胖哥女儿离世",
       "onboard_time": 1696128033,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1040940,
-      "num": 655073,
-      "word": "YG的G没有了",
-      "onboard_time": 1696136733,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 979214,
@@ -147,6 +155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 919034,
+      "num": 919034,
+      "word": "樊振东王楚钦进男双决赛",
+      "onboard_time": 1696136312,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 887973,
       "num": 831568,
       "word": "苏炳添哭了",
@@ -163,6 +179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 834648,
+      "num": 834648,
+      "word": "王曼昱分析输球原因",
+      "onboard_time": 1696136373,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 804001,
       "num": 804001,
       "word": "两只眼睛的度数都没她俩整齐",
@@ -171,20 +195,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 774251,
-      "num": 774251,
+      "raw_hot": 799250,
+      "num": 799250,
       "word": "5岁女孩池边喂50斤胖锦鲤",
       "onboard_time": 1696134933,
       "rank": 6,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 773614,
-      "num": 773614,
-      "word": "樊振东王楚钦进男双决赛",
-      "onboard_time": 1696136312,
-      "rank": 7,
-      "category": "体育"
+      "raw_hot": 711028,
+      "num": 711028,
+      "word": "程潇进组",
+      "onboard_time": 1696136793,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 708049,
@@ -216,14 +240,6 @@
       "word": "全红婵陈芋汐回应炸鱼动作",
       "onboard_time": 1696124070,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 671471,
-      "num": 671471,
-      "word": "王曼昱分析输球原因",
-      "onboard_time": 1696136373,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -291,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 574262,
-      "num": 574262,
-      "word": "程潇进组",
-      "onboard_time": 1696136793,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 572828,
       "num": 572828,
       "word": "张远输了十六年终于赢了一回",
@@ -345,6 +353,14 @@
       "onboard_time": 1696084479,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 517407,
+      "num": 517407,
+      "word": "魏大勋 白月光",
+      "onboard_time": 1696138293,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 516445,
@@ -515,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361963,
+      "num": 361963,
+      "word": "檀健次十月进组拍戏",
+      "onboard_time": 1696138352,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 360138,
       "num": 360138,
       "word": "汪顺一节课曾游过12000米",
@@ -603,14 +627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 325075,
-      "num": 325075,
-      "word": "腿姐",
-      "onboard_time": 1696136853,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 320414,
       "num": 320414,
       "word": "安洗莹恐怖如斯",
@@ -635,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300130,
+      "num": 300130,
+      "word": "是怎么说服黄景瑜王子奇拍的",
+      "onboard_time": 1696138352,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298750,
       "num": 251236,
       "word": "为什么披萨里会有个小桌子",
@@ -657,6 +681,14 @@
       "onboard_time": 1696122691,
       "rank": 29,
       "category": "动漫,电影"
+    },
+    {
+      "raw_hot": 287610,
+      "num": 287610,
+      "word": "特斯拉Model Y改款",
+      "onboard_time": 1696137151,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 286603,
@@ -705,6 +737,22 @@
       "onboard_time": 1696129354,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 274196,
+      "num": 268830,
+      "word": "被链球砸骨折的裁判目前生命体征平稳",
+      "onboard_time": 1696137812,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 265951,
+      "num": 265951,
+      "word": "韩媒抹黑国足亚运队",
+      "onboard_time": 1696135893,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 262102,
@@ -785,14 +833,6 @@
       "onboard_time": 1696084179,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250182,
-      "num": 250182,
-      "word": "韩媒抹黑国足亚运队",
-      "onboard_time": 1696135893,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 247004,
@@ -1067,12 +1107,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181446,
-      "num": 181446,
-      "word": "特斯拉Model Y改款",
-      "onboard_time": 1696137151,
-      "rank": 40,
-      "category": "汽车"
+      "raw_hot": 182097,
+      "num": 182097,
+      "word": "从小到大一直在试图延迟幸福",
+      "onboard_time": 1696137933,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 179394,
@@ -1273,6 +1313,14 @@
       "onboard_time": 1696087234,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154803,
+      "num": 154803,
+      "word": "张栋梁joker舞台40秒解析",
+      "onboard_time": 1696137693,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 154669,
