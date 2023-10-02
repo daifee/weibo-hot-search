@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696228542528,
+  "endTime": 1696230973937,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -187,6 +187,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 2021108,
+      "num": 2021108,
+      "word": "杰尼斯解体",
+      "onboard_time": 1696224631,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1996909,
       "num": 1996909,
       "word": "金星评价坚如磐石",
@@ -201,14 +209,6 @@
       "onboard_time": 1696157373,
       "rank": 11,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1902257,
-      "num": 1902257,
-      "word": "杰尼斯解体",
-      "onboard_time": 1696224631,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1861802,
@@ -467,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1237386,
+      "num": 1237386,
+      "word": "韩国朝鲜女双争金",
+      "onboard_time": 1696228354,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1213705,
       "num": 1213705,
       "word": "泰国是预制菜的重灾区吧",
@@ -563,6 +571,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 973851,
+      "num": 663863,
+      "word": "她擦掉了座位上的大姨妈血",
+      "onboard_time": 1696226373,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 967284,
       "num": 921946,
       "word": "林雨薇说没有吴艳妮她就跑不快",
@@ -595,12 +611,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 914608,
-      "num": 446900,
-      "word": "她擦掉了座位上的大姨妈血",
-      "onboard_time": 1696226373,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 911780,
+      "num": 911780,
+      "word": "樊振东晋级决赛",
+      "onboard_time": 1696230274,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 887973,
@@ -617,6 +633,22 @@
       "onboard_time": 1696170404,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 879136,
+      "num": 381187,
+      "word": "樊振东晚上减肥时点甜品",
+      "onboard_time": 1696224328,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 863453,
+      "num": 863453,
+      "word": "雷佳音竟然比孙艺洲小一岁",
+      "onboard_time": 1696227093,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 861606,
@@ -763,14 +795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 734858,
-      "num": 369280,
-      "word": "樊振东晚上减肥时点甜品",
-      "onboard_time": 1696224328,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 718488,
       "num": 718488,
       "word": "一盒月饼下去办公室无人生还",
@@ -803,8 +827,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 706473,
-      "num": 706473,
+      "raw_hot": 707900,
+      "num": 707900,
       "word": "樊振东冲击亚运第三金",
       "onboard_time": 1696223070,
       "rank": 21,
@@ -905,6 +929,14 @@
       "onboard_time": 1696148736,
       "rank": 30,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 663978,
+      "num": 663978,
+      "word": "获得诺贝尔奖的11位华人",
+      "onboard_time": 1696228534,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 653543,
@@ -1507,6 +1539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 435654,
+      "num": 435654,
+      "word": "于和伟演杀人戏是真的吐了",
+      "onboard_time": 1696227334,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 434075,
       "num": 434075,
       "word": "中国游客为何不想出境游了",
@@ -1521,6 +1561,14 @@
       "onboard_time": 1696163856,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 428544,
+      "num": 428544,
+      "word": "4K镜头下的巨型蛀牙",
+      "onboard_time": 1696227334,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 422243,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1696119510,
       "rank": 24,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 401147,
-      "num": 401147,
-      "word": "4K镜头下的巨型蛀牙",
-      "onboard_time": 1696227334,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 399036,
@@ -1691,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383022,
+      "num": 383022,
+      "word": "杨紫回眸氛围感",
+      "onboard_time": 1696227575,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382341,
       "num": 320733,
       "word": "陈都灵大梦归离",
@@ -1723,14 +1771,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 372976,
-      "num": 372976,
-      "word": "于和伟演杀人戏是真的吐了",
-      "onboard_time": 1696227334,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 370022,
       "num": 370022,
       "word": "Ame的水人",
@@ -1745,6 +1785,14 @@
       "onboard_time": 1696122270,
       "rank": 25,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 369066,
+      "num": 369066,
+      "word": "月薪两万随不起份子",
+      "onboard_time": 1696230032,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368423,
@@ -1763,28 +1811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364948,
-      "num": 364948,
-      "word": "雷佳音竟然比孙艺洲小一岁",
-      "onboard_time": 1696227093,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 361963,
       "num": 361963,
       "word": "檀健次十月进组拍戏",
       "onboard_time": 1696138352,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 360706,
-      "num": 360706,
-      "word": "杨紫回眸氛围感",
-      "onboard_time": 1696227575,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 360138,
@@ -2043,6 +2075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 320239,
+      "num": 320239,
+      "word": "林双刷卫明卡请前公婆住高档酒店",
+      "onboard_time": 1696230032,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319278,
       "num": 319278,
       "word": "陈凯歌透露朱一龙是志愿军2最主要人物",
@@ -2259,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286480,
+      "num": 286480,
+      "word": "成毅 人生嘛睡一觉就好了",
+      "onboard_time": 1696230695,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283680,
       "num": 283680,
       "word": "喜欢吃月饼和白粥的都沉默了",
@@ -2383,6 +2431,14 @@
       "num": 273848,
       "word": "差点以为你俩不熟呢",
       "onboard_time": 1696228233,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273163,
+      "num": 273163,
+      "word": "林雨薇说国旗不能签名",
+      "onboard_time": 1696229792,
       "rank": 30,
       "category": "体育"
     },
@@ -2939,6 +2995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223548,
+      "num": 590780,
+      "word": "樊振东4比1张禹珍",
+      "onboard_time": 1696230395,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223529,
       "num": 223529,
       "word": "向佐奥尼尔蛇行刁手打招呼",
@@ -3001,14 +3065,6 @@
       "onboard_time": 1696147893,
       "rank": 33,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 217075,
-      "num": 217075,
-      "word": "韩国朝鲜女双争金",
-      "onboard_time": 1696228354,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 216089,
@@ -3273,6 +3329,14 @@
       "onboard_time": 1696153831,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197559,
+      "num": 197559,
+      "word": "没点语言天赋看不懂岳云鹏说的话",
+      "onboard_time": 1696230395,
+      "rank": 37,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197467,
@@ -3888,14 +3952,6 @@
       "word": "这就是今晨的天安门广场",
       "onboard_time": 1696123950,
       "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 160448,
-      "num": 160448,
-      "word": "获得诺贝尔奖的11位华人",
-      "onboard_time": 1696228534,
-      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -4601,6 +4657,14 @@
       "onboard_time": 1696219892,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31525,
+      "num": 590095,
+      "word": "十一假期的正确打开方式",
+      "onboard_time": 1696230032,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 28987,

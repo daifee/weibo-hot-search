@@ -1,0 +1,410 @@
+{
+  "runTime": 1696230973937,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2021108,
+        "num": 2021108,
+        "word": "杰尼斯解体",
+        "onboard_time": 1696224631,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1902121,
+        "num": 1902121,
+        "word": "李嘉琦 永远不要放弃让自己成长",
+        "onboard_time": 1696225233,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 55264,
+        "num": 1440192,
+        "word": "升中国国旗是亚运健儿对祖国的告白",
+        "onboard_time": 1696208611,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1436224,
+        "num": 1436224,
+        "word": "人死后体内重要部分还能继续活多年",
+        "onboard_time": 1696225355,
+        "rank": 3,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1237386,
+        "num": 1237386,
+        "word": "韩国朝鲜女双争金",
+        "onboard_time": 1696228354,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 911780,
+        "num": 911780,
+        "word": "樊振东晋级决赛",
+        "onboard_time": 1696230274,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863453,
+        "num": 863453,
+        "word": "雷佳音竟然比孙艺洲小一岁",
+        "onboard_time": 1696227093,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 814131,
+        "num": 814131,
+        "word": "人人人人人我人人人人人",
+        "onboard_time": 1696211011,
+        "rank": 7,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 707900,
+        "num": 707900,
+        "word": "樊振东冲击亚运第三金",
+        "onboard_time": 1696223070,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663978,
+        "num": 663978,
+        "word": "获得诺贝尔奖的11位华人",
+        "onboard_time": 1696228534,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973851,
+        "num": 663863,
+        "word": "她擦掉了座位上的大姨妈血",
+        "onboard_time": 1696226373,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 648772,
+        "num": 648772,
+        "word": "金星评价坚如磐石",
+        "onboard_time": 1696213292,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241554,
+        "num": 594788,
+        "word": "林雨薇夺冠后哭着感谢爸爸",
+        "onboard_time": 1696215211,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223548,
+        "num": 590780,
+        "word": "樊振东4比1张禹珍",
+        "onboard_time": 1696230395,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31525,
+        "num": 590095,
+        "word": "十一假期的正确打开方式",
+        "onboard_time": 1696230032,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 589651,
+        "num": 589651,
+        "word": "皓嫣二搭",
+        "onboard_time": 1696215516,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547761,
+        "num": 547761,
+        "word": "丞磊卢昱晓澳门芭莎大片",
+        "onboard_time": 1696220251,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 435654,
+        "num": 435654,
+        "word": "于和伟演杀人戏是真的吐了",
+        "onboard_time": 1696227334,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 428544,
+        "num": 428544,
+        "word": "4K镜头下的巨型蛀牙",
+        "onboard_time": 1696227334,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 383022,
+        "num": 383022,
+        "word": "杨紫回眸氛围感",
+        "onboard_time": 1696227575,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 879136,
+        "num": 381187,
+        "word": "樊振东晚上减肥时点甜品",
+        "onboard_time": 1696224328,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369066,
+        "num": 369066,
+        "word": "月薪两万随不起份子",
+        "onboard_time": 1696230032,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341403,
+        "num": 341403,
+        "word": "外国人看见曾黎的反应",
+        "onboard_time": 1696217972,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334367,
+        "num": 334367,
+        "word": "买过菜才知道麻辣烫有多贵",
+        "onboard_time": 1696226373,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 320444,
+        "num": 320444,
+        "word": "比顶楼还气人的韩剧出现了",
+        "onboard_time": 1696223190,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320239,
+        "num": 320239,
+        "word": "林双刷卫明卡请前公婆住高档酒店",
+        "onboard_time": 1696230032,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306113,
+        "num": 306113,
+        "word": "NCT新分队减员",
+        "onboard_time": 1696228413,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300804,
+        "num": 300804,
+        "word": "吴艳妮抢跑后为何还能继续比赛",
+        "onboard_time": 1696202363,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286480,
+        "num": 286480,
+        "word": "成毅 人生嘛睡一觉就好了",
+        "onboard_time": 1696230695,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281143,
+        "num": 281143,
+        "word": "车银优的人生",
+        "onboard_time": 1696227933,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273163,
+        "num": 273163,
+        "word": "林雨薇说国旗不能签名",
+        "onboard_time": 1696229792,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255018,
+        "num": 255018,
+        "word": "差点以为你俩不熟呢",
+        "onboard_time": 1696228233,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245204,
+        "num": 245204,
+        "word": "丈夫挪用百万积蓄救人妻子冷静后决定加入",
+        "onboard_time": 1696224511,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234082,
+        "num": 234082,
+        "word": "前任4冷知识 戒烟会长胖",
+        "onboard_time": 1696222469,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226831,
+        "num": 226831,
+        "word": "订婚蛋糕被亲戚一整个拿走了",
+        "onboard_time": 1696215933,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216526,
+        "num": 216526,
+        "word": "孙颖莎赛后称早田希娜很出色",
+        "onboard_time": 1696221092,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207058,
+        "num": 207058,
+        "word": "6岁女儿每月可随意逃学一天",
+        "onboard_time": 1696222833,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 197559,
+        "num": 197559,
+        "word": "没点语言天赋看不懂岳云鹏说的话",
+        "onboard_time": 1696230395,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196023,
+        "num": 196023,
+        "word": "林雨薇说没有吴艳妮她就跑不快",
+        "onboard_time": 1696218515,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192381,
+        "num": 192381,
+        "word": "Alex正式连接WBG",
+        "onboard_time": 1696224753,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180495,
+        "num": 180495,
+        "word": "杨幂从巴黎出发回国",
+        "onboard_time": 1696217433,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172926,
+        "num": 172926,
+        "word": "原来熊猫宝宝也分i熊和e熊",
+        "onboard_time": 1696227993,
+        "rank": 41,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 169541,
+        "num": 169541,
+        "word": "林雨薇下一个目标是大学生运动会",
+        "onboard_time": 1696220011,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165562,
+        "num": 165562,
+        "word": "坐着高铁去结婚",
+        "onboard_time": 1696228294,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163682,
+        "num": 163682,
+        "word": "雷佳音于和伟清唱海阔天空",
+        "onboard_time": 1696212691,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161262,
+        "num": 161262,
+        "word": "杨紫将出席GQ盛典",
+        "onboard_time": 1696212754,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160821,
+        "num": 160821,
+        "word": "林雨薇赛后谈吴艳妮抢跑",
+        "onboard_time": 1696202363,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157450,
+        "num": 157450,
+        "word": "林一沈月失笑开机路透图",
+        "onboard_time": 1696218991,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152611,
+        "num": 152611,
+        "word": "iPhone15Pro系列缩短发货时间",
+        "onboard_time": 1696226554,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 141022,
+        "num": 141022,
+        "word": "孙颖莎逆转马龙王濛ie分明",
+        "onboard_time": 1696221633,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天之中国我为你骄傲#"
+    }
+  }
+}
