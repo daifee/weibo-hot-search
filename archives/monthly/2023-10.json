@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696256194511,
+  "endTime": 1696257295849,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 2148895,
-      "num": 482212,
+      "num": 518253,
       "word": "遮挡发球",
       "onboard_time": 1696253745,
       "rank": 17,
@@ -499,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1420323,
+      "num": 1420323,
+      "word": "樊振东没有微博",
+      "onboard_time": 1696255420,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1402353,
       "num": 609542,
       "word": "许家印",
@@ -627,14 +635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1177583,
-      "num": 1177583,
-      "word": "樊振东没有微博",
-      "onboard_time": 1696255420,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1129433,
       "num": 1129433,
       "word": "珠帘玉幕",
@@ -665,6 +665,14 @@
       "onboard_time": 1696128033,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1044823,
+      "num": 1044823,
+      "word": "王楚钦采访",
+      "onboard_time": 1696256140,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 1037264,
@@ -889,6 +897,14 @@
       "onboard_time": 1696252181,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 842881,
+      "num": 842881,
+      "word": "DOTA2决赛中国vs蒙古",
+      "onboard_time": 1696243714,
+      "rank": 23,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 841551,
@@ -1163,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 684270,
+      "num": 684270,
+      "word": "国乒6金2银1铜收官",
+      "onboard_time": 1696255780,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 683506,
       "num": 683506,
       "word": "樊振东王楚钦vs张禹珍林钟勋",
@@ -1299,6 +1323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 625400,
+      "num": 625400,
+      "word": "王楚钦哄球拍",
+      "onboard_time": 1696256677,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 620451,
       "num": 620451,
       "word": "比顶楼还气人的韩剧出现了",
@@ -1321,6 +1353,14 @@
       "onboard_time": 1696226373,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 605436,
+      "num": 508979,
+      "word": "孙颖莎赶来看男单决赛",
+      "onboard_time": 1696255780,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 601296,
@@ -1443,6 +1483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 568263,
+      "num": 568263,
+      "word": "DOTA2中国追平蒙古",
+      "onboard_time": 1696254883,
+      "rank": 19,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 568248,
       "num": 568248,
       "word": "2023年诺贝尔奖今起公布",
@@ -1465,14 +1513,6 @@
       "onboard_time": 1696169084,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 560393,
-      "num": 560393,
-      "word": "DOTA2决赛中国vs蒙古",
-      "onboard_time": 1696243714,
-      "rank": 23,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 559817,
@@ -1665,14 +1705,6 @@
       "onboard_time": 1696145255,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 493098,
-      "num": 413904,
-      "word": "孙颖莎赶来看男单决赛",
-      "onboard_time": 1696255780,
-      "rank": 20,
-      "category": "体育"
     },
     {
       "raw_hot": 490347,
@@ -1963,6 +1995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 429265,
+      "num": 429265,
+      "word": "九图看完前任4",
+      "onboard_time": 1696253626,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 422243,
       "num": 422243,
       "word": "郑恺苗苗相互治愈",
@@ -1979,20 +2019,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418910,
-      "num": 418910,
-      "word": "DOTA2中国追平蒙古",
-      "onboard_time": 1696254883,
-      "rank": 19,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 418844,
       "num": 418844,
       "word": "杨幂巴黎私服出街",
       "onboard_time": 1696152273,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 418727,
+      "num": 418727,
+      "word": "王楚钦孙颖莎",
+      "onboard_time": 1696256677,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 414853,
@@ -2041,14 +2081,6 @@
       "onboard_time": 1696119510,
       "rank": 24,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 402064,
-      "num": 402064,
-      "word": "国乒6金2银1铜收官",
-      "onboard_time": 1696255780,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 399036,
@@ -2257,14 +2289,6 @@
       "onboard_time": 1696230032,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 362715,
-      "num": 362715,
-      "word": "九图看完前任4",
-      "onboard_time": 1696253626,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 361963,
@@ -2627,6 +2651,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 312404,
+      "num": 312404,
+      "word": "莎头",
+      "onboard_time": 1696256737,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 310918,
       "num": 310918,
       "word": "576元1晚的5星民宿堪比老破小",
@@ -2875,6 +2907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284621,
+      "num": 284621,
+      "word": "王楚钦樊振东颁奖现场放真心英雄",
+      "onboard_time": 1696256980,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283680,
       "num": 283680,
       "word": "喜欢吃月饼和白粥的都沉默了",
@@ -2900,7 +2940,7 @@
     },
     {
       "raw_hot": 280983,
-      "num": 582874,
+      "num": 631087,
       "word": "中国队包揽乒乓球男单冠亚军",
       "onboard_time": 1696254404,
       "rank": 12,
@@ -3001,6 +3041,14 @@
       "onboard_time": 1696137812,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273973,
+      "num": 273973,
+      "word": "没有周深不敢递的话筒",
+      "onboard_time": 1696255364,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 273848,
@@ -3355,6 +3403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245827,
+      "num": 245827,
+      "word": "天官赐福动画",
+      "onboard_time": 1696257278,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 245088,
       "num": 245088,
       "word": "女子买梨发现支付失败急寻摊主付款",
@@ -3459,14 +3515,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 239365,
-      "num": 239365,
-      "word": "没有周深不敢递的话筒",
-      "onboard_time": 1696255364,
-      "rank": 37,
-      "category": "演出"
-    },
-    {
       "raw_hot": 237919,
       "num": 237919,
       "word": "店员打压我妈被我怼了",
@@ -3545,6 +3593,14 @@
       "onboard_time": 1696151972,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 233457,
+      "num": 633348,
+      "word": "长得丑但很温柔的狗狗",
+      "onboard_time": 1696252239,
+      "rank": 42,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 232013,
@@ -3763,14 +3819,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 218570,
-      "num": 536814,
-      "word": "长得丑但很温柔的狗狗",
-      "onboard_time": 1696252239,
-      "rank": 42,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 218428,
       "num": 218428,
       "word": "国庆假期专属传统色太美了",
@@ -3923,6 +3971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206246,
+      "num": 206246,
+      "word": "王楚钦左手不是枷锁",
+      "onboard_time": 1696256677,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205372,
       "num": 205372,
       "word": "虎鹤妖师录今日开播",
@@ -3947,20 +4003,20 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 204900,
-      "num": 204900,
-      "word": "王楚钦采访",
-      "onboard_time": 1696256140,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 204808,
       "num": 204808,
       "word": "薛之谦滁州演唱会盲人和导盲犬",
       "onboard_time": 1696172978,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204443,
+      "num": 204443,
+      "word": "孙颖莎冠军",
+      "onboard_time": 1696257159,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 204154,
@@ -4552,6 +4608,14 @@
       "word": "斑马音乐节",
       "onboard_time": 1696226493,
       "rank": 44,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 177466,
+      "num": 177466,
+      "word": "鹭卓舞台",
+      "onboard_time": 1696257159,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -5441,6 +5505,14 @@
       "onboard_time": 1696182081,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98445,
+      "num": 629940,
+      "word": "李玲女子撑竿跳高冠军",
+      "onboard_time": 1696256562,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 98177,
