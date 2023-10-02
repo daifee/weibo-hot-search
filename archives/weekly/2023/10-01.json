@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696266929187,
+  "endTime": 1696268055223,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5203,6 +5203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 152242,
+      "num": 152242,
+      "word": "小狗刹死和点刹的区别",
+      "onboard_time": 1696265968,
+      "rank": 24,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 151962,
       "num": 151962,
       "word": "李现送阿尔卡拉斯故宫印章",
@@ -5377,14 +5385,6 @@
       "onboard_time": 1696246235,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141433,
-      "num": 141433,
-      "word": "小狗刹死和点刹的区别",
-      "onboard_time": 1696265968,
-      "rank": 24,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 140611,
@@ -5753,6 +5753,14 @@
       "onboard_time": 1696075127,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90646,
+      "num": 90646,
+      "word": "黄轩问为什么都叫我漂亮小狗",
+      "onboard_time": 1696267044,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 86722,
