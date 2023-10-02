@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696245264880,
+  "endTime": 1696246453440,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 1618045,
-      "num": 578754,
+      "num": 607428,
       "word": "MLB 文案",
       "onboard_time": 1696240655,
       "rank": 10,
@@ -369,6 +369,14 @@
       "onboard_time": 1696134152,
       "rank": 1,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 1510305,
+      "num": 614214,
+      "word": "卸妆水洗姨妈血",
+      "onboard_time": 1696244253,
+      "rank": 12,
+      "category": "其它"
     },
     {
       "raw_hot": 1496798,
@@ -507,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1255898,
+      "num": 1255898,
+      "word": "女教师被举报十几次听到理由都想笑",
+      "onboard_time": 1696243594,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237386,
       "num": 1237386,
       "word": "韩国朝鲜女双争金",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 1191107,
-      "num": 552509,
+      "num": 596103,
       "word": "诺贝尔奖",
       "onboard_time": 1696240474,
       "rank": 11,
@@ -659,20 +675,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 912093,
-      "num": 365432,
-      "word": "女教师被举报十几次听到理由都想笑",
-      "onboard_time": 1696243594,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 911780,
       "num": 911780,
       "word": "樊振东晋级决赛",
       "onboard_time": 1696230274,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 906215,
+      "num": 906215,
+      "word": "莲花楼",
+      "onboard_time": 1696243654,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 891076,
@@ -755,14 +771,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 855246,
-      "num": 855246,
-      "word": "莲花楼",
-      "onboard_time": 1696243654,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 841551,
       "num": 841551,
       "word": "留学时不要乱用emoji",
@@ -809,6 +817,14 @@
       "onboard_time": 1696124972,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 801317,
+      "num": 377077,
+      "word": "男子被截了下半身之后的经历",
+      "onboard_time": 1696244432,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 799250,
@@ -880,14 +896,6 @@
       "word": "互相都以为是对方婚礼传统习俗",
       "onboard_time": 1696175254,
       "rank": 31,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 752408,
-      "num": 539440,
-      "word": "卸妆水洗姨妈血",
-      "onboard_time": 1696244253,
-      "rank": 12,
       "category": "其它"
     },
     {
@@ -1316,7 +1324,7 @@
     },
     {
       "raw_hot": 558391,
-      "num": 558391,
+      "num": 584049,
       "word": "樊振东王楚钦会师男单决赛",
       "onboard_time": 1696234114,
       "rank": 12,
@@ -1345,14 +1353,6 @@
       "onboard_time": 1696213172,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 538222,
-      "num": 228389,
-      "word": "男子被截了下半身之后的经历",
-      "onboard_time": 1696244432,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 530605,
@@ -1819,6 +1819,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 399850,
+      "num": 399850,
+      "word": "小狗暗示这样了还不带出去玩",
+      "onboard_time": 1696244915,
+      "rank": 34,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 399036,
       "num": 399036,
       "word": "华天这枚金牌等了9年",
@@ -2219,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338732,
+      "num": 338732,
+      "word": "田志希申裕斌女双夺冠",
+      "onboard_time": 1696246235,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336062,
       "num": 336062,
       "word": "杨幂从巴黎出发回国",
@@ -2347,6 +2363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 315580,
+      "num": 315580,
+      "word": "DOTA2决赛中国vs蒙古",
+      "onboard_time": 1696243714,
+      "rank": 23,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 314008,
       "num": 314008,
       "word": "国羽女团0比1韩国",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1696154973,
       "rank": 32,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 309776,
+      "num": 309776,
+      "word": "虎鹤妖师录",
+      "onboard_time": 1696245393,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 309595,
@@ -2499,16 +2531,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 292765,
-      "num": 292765,
-      "word": "DOTA2决赛中国vs蒙古",
-      "onboard_time": 1696243714,
-      "rank": 23,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 292661,
-      "num": 1084906,
+      "num": 1223307,
       "word": "世界最高楼迪拜塔点亮五星红旗",
       "onboard_time": 1696241974,
       "rank": 3,
@@ -2876,7 +2900,7 @@
     },
     {
       "raw_hot": 256414,
-      "num": 1084317,
+      "num": 1225774,
       "word": "肿瘤专家返乡1天义诊10多名乡亲",
       "onboard_time": 1696237353,
       "rank": 36,
@@ -3116,7 +3140,7 @@
     },
     {
       "raw_hot": 236629,
-      "num": 522765,
+      "num": 573658,
       "word": "中国跳水梦之队断层式领先",
       "onboard_time": 1696238913,
       "rank": 41,
@@ -3435,6 +3459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213434,
+      "num": 213434,
+      "word": "侯明昊 男生秋冬穿搭模版",
+      "onboard_time": 1696245033,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 213231,
       "num": 213231,
       "word": "宫脇咲良大屏",
@@ -3537,14 +3569,6 @@
       "onboard_time": 1696172978,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204226,
-      "num": 204226,
-      "word": "小狗暗示这样了还不带出去玩",
-      "onboard_time": 1696244915,
-      "rank": 34,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 204154,
@@ -3785,6 +3809,14 @@
       "onboard_time": 1696139254,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192391,
+      "num": 192391,
+      "word": "华晨宇新歌网友乐评开大",
+      "onboard_time": 1696244675,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 191307,
@@ -4035,14 +4067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 181875,
-      "num": 181875,
-      "word": "华晨宇新歌网友乐评开大",
-      "onboard_time": 1696244675,
-      "rank": 36,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 180719,
       "num": 180719,
       "word": "山东花饽饽版五谷丰登",
@@ -4187,20 +4211,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 171611,
-      "num": 171611,
-      "word": "侯明昊 男生秋冬穿搭模版",
-      "onboard_time": 1696245033,
-      "rank": 38,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 171238,
       "num": 171238,
       "word": "封神笑榜",
       "onboard_time": 1696150232,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171144,
+      "num": 173860,
+      "word": "李月汝太强了",
+      "onboard_time": 1696243953,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 170862,
@@ -4232,14 +4256,6 @@
       "word": "热刺vs利物浦",
       "onboard_time": 1696089398,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 168523,
-      "num": 173860,
-      "word": "李月汝太强了",
-      "onboard_time": 1696243953,
-      "rank": 37,
       "category": "体育"
     },
     {
@@ -4643,6 +4659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141758,
+      "num": 141758,
+      "word": "挑战24小时吃遍一座城或致胰腺炎",
+      "onboard_time": 1696246235,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140611,
       "num": 140611,
       "word": "女生火车上突发疾病大四医学生赶到",
@@ -5027,6 +5051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 81963,
+      "num": 1234316,
+      "word": "杭州亚运会进入后半程",
+      "onboard_time": 1696235914,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 80636,
       "num": 80636,
       "word": "薛之谦在台上好忙活",
@@ -5073,14 +5105,6 @@
       "onboard_time": 1696110795,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 63700,
-      "num": 1102698,
-      "word": "杭州亚运会进入后半程",
-      "onboard_time": 1696235914,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 62075,

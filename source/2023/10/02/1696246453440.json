@@ -1,0 +1,410 @@
+{
+  "runTime": 1696246453440,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2528450,
+        "num": 2528450,
+        "word": "韩国速滑队因过早庆祝错失金牌",
+        "onboard_time": 1696239214,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1255898,
+        "num": 1255898,
+        "word": "女教师被举报十几次听到理由都想笑",
+        "onboard_time": 1696243594,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81963,
+        "num": 1234316,
+        "word": "杭州亚运会进入后半程",
+        "onboard_time": 1696235914,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 250256,
+        "num": 1225774,
+        "word": "肿瘤专家返乡1天义诊10多名乡亲",
+        "onboard_time": 1696237353,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271224,
+        "num": 1223307,
+        "word": "世界最高楼迪拜塔点亮五星红旗",
+        "onboard_time": 1696241974,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223004,
+        "num": 1223004,
+        "word": "王楚钦炸毛",
+        "onboard_time": 1696238613,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208934,
+        "num": 1020944,
+        "word": "孙颖莎赛后称早田希娜很出色",
+        "onboard_time": 1696221092,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 906215,
+        "num": 906215,
+        "word": "莲花楼",
+        "onboard_time": 1696243654,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 626936,
+        "num": 626936,
+        "word": "韩国朝鲜女双争金",
+        "onboard_time": 1696228354,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619701,
+        "num": 619701,
+        "word": "杰尼斯解体",
+        "onboard_time": 1696224631,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1510305,
+        "num": 614214,
+        "word": "卸妆水洗姨妈血",
+        "onboard_time": 1696244253,
+        "rank": 10,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 1314000,
+        "num": 607428,
+        "word": "MLB 文案",
+        "onboard_time": 1696240655,
+        "rank": 11,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 809713,
+        "num": 596103,
+        "word": "诺贝尔奖",
+        "onboard_time": 1696240474,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300239,
+        "num": 584049,
+        "word": "樊振东王楚钦会师男单决赛",
+        "onboard_time": 1696234114,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144106,
+        "num": 573658,
+        "word": "中国跳水梦之队断层式领先",
+        "onboard_time": 1696238913,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 570866,
+        "num": 570866,
+        "word": "妈妈坚持让女子婚礼随2千",
+        "onboard_time": 1696232974,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523872,
+        "num": 523872,
+        "word": "杨紫想念谢娜做的面条了",
+        "onboard_time": 1696240233,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 492566,
+        "num": 492566,
+        "word": "人人人人人我人人人人人",
+        "onboard_time": 1696211011,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 399850,
+        "num": 399850,
+        "word": "小狗暗示这样了还不带出去玩",
+        "onboard_time": 1696244915,
+        "rank": 18,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 379796,
+        "num": 379796,
+        "word": "她擦掉了座位上的大姨妈血",
+        "onboard_time": 1696226373,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 801317,
+        "num": 377077,
+        "word": "男子被截了下半身之后的经历",
+        "onboard_time": 1696244432,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 403045,
+        "num": 374931,
+        "word": "内蒙的身份证是可以不写省份的",
+        "onboard_time": 1696240832,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 369820,
+        "num": 369820,
+        "word": "雷佳音竟然比孙艺洲小一岁",
+        "onboard_time": 1696227093,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338732,
+        "num": 338732,
+        "word": "田志希申裕斌女双夺冠",
+        "onboard_time": 1696246235,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315580,
+        "num": 315580,
+        "word": "DOTA2决赛中国vs蒙古",
+        "onboard_time": 1696243714,
+        "rank": 24,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 309776,
+        "num": 309776,
+        "word": "虎鹤妖师录",
+        "onboard_time": 1696245393,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296753,
+        "num": 296753,
+        "word": "网友p的孙颖莎长发的样子",
+        "onboard_time": 1696235255,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290791,
+        "num": 290791,
+        "word": "樊振东晚上减肥时点甜品",
+        "onboard_time": 1696224328,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279331,
+        "num": 279331,
+        "word": "王楚钦晋级决赛",
+        "onboard_time": 1696233577,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254122,
+        "num": 254122,
+        "word": "你住的酒店到底有多脏",
+        "onboard_time": 1696237771,
+        "rank": 29,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 253610,
+        "num": 253610,
+        "word": "黄嘉仪人设",
+        "onboard_time": 1696236512,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227606,
+        "num": 227606,
+        "word": "李嘉琦 永远不要放弃让自己成长",
+        "onboard_time": 1696225233,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220484,
+        "num": 220484,
+        "word": "器官最喜欢的几个小动作",
+        "onboard_time": 1696235555,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 213434,
+        "num": 213434,
+        "word": "侯明昊 男生秋冬穿搭模版",
+        "onboard_time": 1696245033,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200627,
+        "num": 200627,
+        "word": "2023诺贝尔生理学或医学奖揭晓",
+        "onboard_time": 1696240295,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193049,
+        "num": 193049,
+        "word": "金星评价坚如磐石",
+        "onboard_time": 1696213292,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192391,
+        "num": 192391,
+        "word": "华晨宇新歌网友乐评开大",
+        "onboard_time": 1696244675,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187329,
+        "num": 187329,
+        "word": "男生景区实名承认背不出滕王阁序",
+        "onboard_time": 1696231595,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186402,
+        "num": 186402,
+        "word": "肖俊和YANGYANG的Challenge",
+        "onboard_time": 1696242935,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180906,
+        "num": 180906,
+        "word": "童瑶东方茉莉花造型",
+        "onboard_time": 1696237714,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173336,
+        "num": 173336,
+        "word": "成毅 人生嘛睡一觉就好了",
+        "onboard_time": 1696230695,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171144,
+        "num": 171144,
+        "word": "李月汝太强了",
+        "onboard_time": 1696243953,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151071,
+        "num": 151071,
+        "word": "皓嫣二搭",
+        "onboard_time": 1696215516,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150204,
+        "num": 150204,
+        "word": "中国女篮晋级四强",
+        "onboard_time": 1696243355,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147157,
+        "num": 147157,
+        "word": "杨紫回眸氛围感",
+        "onboard_time": 1696227575,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141758,
+        "num": 141758,
+        "word": "挑战24小时吃遍一座城或致胰腺炎",
+        "onboard_time": 1696246235,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134106,
+        "num": 134106,
+        "word": "当执勤消防员遇见喜欢的歌手",
+        "onboard_time": 1696245155,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132814,
+        "num": 132814,
+        "word": "樊振东晋级决赛",
+        "onboard_time": 1696230274,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128999,
+        "num": 128999,
+        "word": "王楚钦说没有人有信心赢得樊振东",
+        "onboard_time": 1696237171,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128056,
+        "num": 128056,
+        "word": "别挤到我双开门爱豆",
+        "onboard_time": 1696239872,
+        "rank": 49,
+        "category": "幽默,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#饮水思源莫忘来时路#"
+    }
+  }
+}
