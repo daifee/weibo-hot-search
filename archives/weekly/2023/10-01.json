@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696227786438,
+  "endTime": 1696228542528,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -139,8 +139,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2306946,
-      "num": 2306946,
+      "raw_hot": 2324301,
+      "num": 2324301,
       "word": "李嘉琦 永远不要放弃让自己成长",
       "onboard_time": 1696225233,
       "rank": 0,
@@ -763,6 +763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 734858,
+      "num": 369280,
+      "word": "樊振东晚上减肥时点甜品",
+      "onboard_time": 1696224328,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 718488,
       "num": 718488,
       "word": "一盒月饼下去办公室无人生还",
@@ -793,6 +801,14 @@
       "onboard_time": 1696126409,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 706473,
+      "num": 706473,
+      "word": "樊振东冲击亚运第三金",
+      "onboard_time": 1696223070,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 704439,
@@ -980,19 +996,11 @@
     },
     {
       "raw_hot": 612895,
-      "num": 313124,
+      "num": 369120,
       "word": "买过菜才知道麻辣烫有多贵",
       "onboard_time": 1696226373,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 603883,
-      "num": 312597,
-      "word": "樊振东晚上减肥时点甜品",
-      "onboard_time": 1696224328,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 601296,
@@ -1040,14 +1048,6 @@
       "word": "邓亚萍 孙颖莎赢在必胜决心和实力",
       "onboard_time": 1696214670,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 585997,
-      "num": 585997,
-      "word": "樊振东冲击亚运第三金",
-      "onboard_time": 1696223070,
-      "rank": 21,
       "category": "体育"
     },
     {
@@ -1579,6 +1579,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 401147,
+      "num": 401147,
+      "word": "4K镜头下的巨型蛀牙",
+      "onboard_time": 1696227334,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 399036,
       "num": 399036,
       "word": "华天这枚金牌等了9年",
@@ -1593,6 +1601,14 @@
       "onboard_time": 1696220971,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 396735,
+      "num": 396735,
+      "word": "车银优的人生",
+      "onboard_time": 1696227933,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 396180,
@@ -1635,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 386791,
+      "num": 386791,
+      "word": "NCT新分队减员",
+      "onboard_time": 1696228413,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386733,
       "num": 386733,
       "word": "不会剥石榴的人有福了",
@@ -1652,7 +1676,7 @@
     },
     {
       "raw_hot": 384080,
-      "num": 307757,
+      "num": 358367,
       "word": "丈夫挪用百万积蓄救人妻子冷静后决定加入",
       "onboard_time": 1696224511,
       "rank": 40,
@@ -1699,6 +1723,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 372976,
+      "num": 372976,
+      "word": "于和伟演杀人戏是真的吐了",
+      "onboard_time": 1696227334,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 370022,
       "num": 370022,
       "word": "Ame的水人",
@@ -1731,12 +1763,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364948,
+      "num": 364948,
+      "word": "雷佳音竟然比孙艺洲小一岁",
+      "onboard_time": 1696227093,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 361963,
       "num": 361963,
       "word": "檀健次十月进组拍戏",
       "onboard_time": 1696138352,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 360706,
+      "num": 360706,
+      "word": "杨紫回眸氛围感",
+      "onboard_time": 1696227575,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 360138,
@@ -2017,14 +2065,6 @@
       "onboard_time": 1696145432,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 315073,
-      "num": 315073,
-      "word": "雷佳音竟然比孙艺洲小一岁",
-      "onboard_time": 1696227093,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 314008,
@@ -2339,6 +2379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273848,
+      "num": 273848,
+      "word": "差点以为你俩不熟呢",
+      "onboard_time": 1696228233,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272826,
       "num": 261008,
       "word": "小狗气呼呼的把被窝搬出去",
@@ -2515,28 +2563,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 255571,
-      "num": 216372,
-      "word": "于和伟演杀人戏是真的吐了",
-      "onboard_time": 1696227334,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "赵小棠把蒙古帽披在了身上",
       "onboard_time": 1696139254,
       "rank": 27,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 252865,
-      "num": 214463,
-      "word": "4K镜头下的巨型蛀牙",
-      "onboard_time": 1696227334,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 251918,
@@ -2971,6 +3003,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 217075,
+      "num": 217075,
+      "word": "韩国朝鲜女双争金",
+      "onboard_time": 1696228354,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216089,
       "num": 216089,
       "word": "石宇奇1比2拉克什亚",
@@ -3099,12 +3139,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 204765,
-      "num": 204765,
-      "word": "杨紫回眸氛围感",
-      "onboard_time": 1696227575,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 204154,
+      "num": 401656,
+      "word": "原来熊猫宝宝也分i熊和e熊",
+      "onboard_time": 1696227993,
+      "rank": 14,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 204079,
@@ -3691,6 +3731,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 169525,
+      "num": 169525,
+      "word": "坐着高铁去结婚",
+      "onboard_time": 1696228294,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168852,
       "num": 168852,
       "word": "热刺vs利物浦",
@@ -3840,6 +3888,14 @@
       "word": "这就是今晨的天安门广场",
       "onboard_time": 1696123950,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160448,
+      "num": 160448,
+      "word": "获得诺贝尔奖的11位华人",
+      "onboard_time": 1696228534,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
