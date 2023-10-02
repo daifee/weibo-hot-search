@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696264639849,
+  "endTime": 1696266929187,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1627,6 +1627,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 542626,
+      "num": 542626,
+      "word": "韩国选手杭州跟唱中国国歌",
+      "onboard_time": 1696262734,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 541047,
       "num": 487836,
       "word": "6岁女儿每月可随意逃学一天",
@@ -2145,14 +2153,6 @@
       "onboard_time": 1696116925,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 413719,
-      "num": 413719,
-      "word": "韩国选手杭州跟唱中国国歌",
-      "onboard_time": 1696262734,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 408757,
@@ -5377,6 +5377,14 @@
       "onboard_time": 1696246235,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141433,
+      "num": 141433,
+      "word": "小狗刹死和点刹的区别",
+      "onboard_time": 1696265968,
+      "rank": 24,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 140611,

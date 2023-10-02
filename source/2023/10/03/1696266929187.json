@@ -1,0 +1,410 @@
+{
+  "runTime": 1696266929187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 829428,
+        "num": 829428,
+        "word": "男子含泪跪地吃生母煮的醪糟蛋",
+        "onboard_time": 1696257579,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 696344,
+        "num": 696344,
+        "word": "女子泥鞋放酒店走廊一夜变干净",
+        "onboard_time": 1696261655,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51666,
+        "num": 587068,
+        "word": "中国天眼新发现76颗暗弱的偶发脉冲星",
+        "onboard_time": 1696251701,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 542626,
+        "num": 542626,
+        "word": "韩国选手杭州跟唱中国国歌",
+        "onboard_time": 1696262734,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448415,
+        "num": 448415,
+        "word": "自律的人好像真的很扛老",
+        "onboard_time": 1696259620,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416441,
+        "num": 416441,
+        "word": "DOTA2中国队夺冠",
+        "onboard_time": 1696258901,
+        "rank": 5,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 390069,
+        "num": 390069,
+        "word": "王楚钦冠军",
+        "onboard_time": 1696253330,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 340390,
+        "num": 340390,
+        "word": "邓亚萍 王楚钦涨球扛住取胜",
+        "onboard_time": 1696262434,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321142,
+        "num": 321142,
+        "word": "莎头永远不会驼背",
+        "onboard_time": 1696260758,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311253,
+        "num": 311253,
+        "word": "樊振东说可惜但不至于遗憾",
+        "onboard_time": 1696259080,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590276,
+        "num": 306877,
+        "word": "女教师被举报十几次听到理由都想笑",
+        "onboard_time": 1696243594,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327295,
+        "num": 300113,
+        "word": "TF家族恭喜你发现了宝藏第二季",
+        "onboard_time": 1696262138,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97333,
+        "num": 282591,
+        "word": "长得丑但很温柔的狗狗",
+        "onboard_time": 1696252239,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 47238,
+        "num": 279409,
+        "word": "中国队包揽乒乓球男单冠亚军",
+        "onboard_time": 1696254404,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20110,
+        "num": 268094,
+        "word": "熊诗麒女子跳远摘金",
+        "onboard_time": 1696259141,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262548,
+        "num": 262548,
+        "word": "九图看完前任4",
+        "onboard_time": 1696253626,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262274,
+        "num": 262274,
+        "word": "秦始皇想不到两千多年后六国子民花钱来拜",
+        "onboard_time": 1696248516,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235450,
+        "num": 235450,
+        "word": "王楚钦一句话没说先炫两瓶水",
+        "onboard_time": 1696260336,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215971,
+        "num": 215971,
+        "word": "金泰妍Amber坐一起",
+        "onboard_time": 1696259501,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209748,
+        "num": 209748,
+        "word": "王楚钦炸毛",
+        "onboard_time": 1696238613,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309902,
+        "num": 200596,
+        "word": "亚运电竞中国4金1铜收官",
+        "onboard_time": 1696261178,
+        "rank": 20,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 187778,
+        "num": 187778,
+        "word": "樊振东3比4王楚钦",
+        "onboard_time": 1696253390,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160836,
+        "num": 160836,
+        "word": "夏克立再发文控诉黄嘉千",
+        "onboard_time": 1696247915,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157286,
+        "num": 157286,
+        "word": "王一博时装周金发",
+        "onboard_time": 1696250436,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141433,
+        "num": 141433,
+        "word": "小狗刹死和点刹的区别",
+        "onboard_time": 1696265968,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 138328,
+        "num": 138328,
+        "word": "卸妆水洗姨妈血",
+        "onboard_time": 1696244253,
+        "rank": 25,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 138296,
+        "num": 138296,
+        "word": "林双又捉到出轨男",
+        "onboard_time": 1696261534,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132001,
+        "num": 132001,
+        "word": "男子被截了下半身之后的经历",
+        "onboard_time": 1696244432,
+        "rank": 27,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 131865,
+        "num": 131865,
+        "word": "王楚钦采访",
+        "onboard_time": 1696256140,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131276,
+        "num": 131276,
+        "word": "一时不知黄嘉仪是敌是友",
+        "onboard_time": 1696257040,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 661855,
+        "num": 131170,
+        "word": "英雄联盟",
+        "onboard_time": 1696260997,
+        "rank": 30,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 130761,
+        "num": 130761,
+        "word": "王楚钦孙颖莎",
+        "onboard_time": 1696256677,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127212,
+        "num": 127212,
+        "word": "曾黎衬衫里穿的是泳衣",
+        "onboard_time": 1696252791,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125378,
+        "num": 125378,
+        "word": "MLB 文案",
+        "onboard_time": 1696240655,
+        "rank": 33,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 123271,
+        "num": 123271,
+        "word": "莲花楼",
+        "onboard_time": 1696243654,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121470,
+        "num": 121470,
+        "word": "薛之谦 准备远行",
+        "onboard_time": 1696258662,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117277,
+        "num": 117277,
+        "word": "郑恺 吹口哨就余飞这货干得出",
+        "onboard_time": 1696261715,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113884,
+        "num": 113884,
+        "word": "樊振东没有微博",
+        "onboard_time": 1696255420,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107816,
+        "num": 107816,
+        "word": "天官赐福动画",
+        "onboard_time": 1696257278,
+        "rank": 38,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 102969,
+        "num": 102969,
+        "word": "杭州亚运会刀塔决赛中国队夺冠",
+        "onboard_time": 1696261955,
+        "rank": 39,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 98777,
+        "num": 98777,
+        "word": "许昕 人民艺术家",
+        "onboard_time": 1696251519,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98686,
+        "num": 98686,
+        "word": "NEWJEANS李惠仁LV时装周造型",
+        "onboard_time": 1696252540,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93320,
+        "num": 93320,
+        "word": "王楚钦哄球拍",
+        "onboard_time": 1696256677,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90556,
+        "num": 90556,
+        "word": "许昕解说 好笑",
+        "onboard_time": 1696249476,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90114,
+        "num": 90114,
+        "word": "莎头",
+        "onboard_time": 1696256737,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87082,
+        "num": 87082,
+        "word": "奥尼尔杭州街头骑电动车抱萌娃",
+        "onboard_time": 1696263574,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86936,
+        "num": 86936,
+        "word": "虞书欣在法国一天吃一顿",
+        "onboard_time": 1696257702,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81136,
+        "num": 81136,
+        "word": "巴特勒又换发型了",
+        "onboard_time": 1696258421,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80425,
+        "num": 80425,
+        "word": "龚俊ElieSaab秀场之行的独家幕后故事",
+        "onboard_time": 1696263091,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 76087,
+        "num": 76087,
+        "word": "郭麒麟心眼子 甄嬛传解读",
+        "onboard_time": 1696248457,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#传承弘扬爱国奋斗精神#"
+    }
+  }
+}
