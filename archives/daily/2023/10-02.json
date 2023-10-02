@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696220447553,
+  "endTime": 1696221280900,
   "band_list": [
     {
       "raw_hot": 2908212,
@@ -25,6 +25,14 @@
       "onboard_time": 1696213292,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1830690,
+      "num": 1830690,
+      "word": "丞磊卢昱晓澳门芭莎大片",
+      "onboard_time": 1696220251,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1826869,
@@ -67,8 +75,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1263867,
-      "num": 492088,
+      "raw_hot": 1343900,
+      "num": 501365,
       "word": "外国人看见曾黎的反应",
       "onboard_time": 1696217972,
       "rank": 10,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1081946,
-      "num": 269043,
+      "num": 279313,
       "word": "港媒曝郑少秋大女儿在美去世",
       "onboard_time": 1696168966,
       "rank": 30,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 967284,
-      "num": 480860,
+      "num": 921946,
       "word": "林雨薇说没有吴艳妮她就跑不快",
       "onboard_time": 1696218515,
       "rank": 15,
@@ -153,14 +161,6 @@
       "onboard_time": 1696202724,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 797987,
-      "num": 797987,
-      "word": "丞磊卢昱晓澳门芭莎大片",
-      "onboard_time": 1696220251,
-      "rank": 4,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 791795,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 503720,
+      "num": 503720,
+      "word": "孙颖莎赛后称早田希娜很出色",
+      "onboard_time": 1696221092,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 499850,
       "num": 499850,
       "word": "不需要修图师的女人",
@@ -385,6 +393,14 @@
       "onboard_time": 1696168425,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 461390,
+      "num": 461390,
+      "word": "夜色尚浅",
+      "onboard_time": 1696220612,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 455908,
@@ -443,12 +459,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 378890,
+      "num": 378890,
+      "word": "结婚冷静期有点东西",
+      "onboard_time": 1696220671,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 351076,
       "num": 314735,
       "word": "没想到一箱猕猴桃同时熟了",
       "onboard_time": 1696210533,
       "rank": 21,
       "category": "美食"
+    },
+    {
+      "raw_hot": 346264,
+      "num": 346264,
+      "word": "于文文的何必后劲太大了",
+      "onboard_time": 1696220971,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 336062,
@@ -571,6 +603,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 280843,
+      "num": 280843,
+      "word": "用刘亦菲的方法回应催婚",
+      "onboard_time": 1696220011,
+      "rank": 36,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 279533,
       "num": 172056,
       "word": "张博文回应夺金牌却不知",
@@ -628,7 +668,7 @@
     },
     {
       "raw_hot": 261622,
-      "num": 1661539,
+      "num": 1772978,
       "word": "升中国国旗是亚运健儿对祖国的告白",
       "onboard_time": 1696208611,
       "rank": 24,
@@ -803,14 +843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 212035,
-      "num": 212035,
-      "word": "用刘亦菲的方法回应催婚",
-      "onboard_time": 1696220011,
-      "rank": 36,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 205372,
       "num": 205372,
       "word": "虎鹤妖师录今日开播",
@@ -883,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186102,
+      "num": 186102,
+      "word": "这是疫情后的第一个国庆",
+      "onboard_time": 1696220493,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185957,
       "num": 185957,
       "word": "熊猫宝宝连生气都散发着可爱",
@@ -923,12 +963,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176514,
+      "num": 176514,
+      "word": "马龙收了我写的信",
+      "onboard_time": 1696218033,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174024,
       "num": 216173,
       "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
       "onboard_time": 1696177470,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 170351,
+      "num": 170351,
+      "word": "最不便利却最治愈的景区便利店",
+      "onboard_time": 1696220971,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 166597,
@@ -939,20 +995,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165421,
-      "num": 165421,
-      "word": "马龙收了我写的信",
-      "onboard_time": 1696218033,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165132,
       "num": 165132,
       "word": "冠军没有应该",
       "onboard_time": 1696205187,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164962,
+      "num": 164962,
+      "word": "内娱需要实力也需要运气",
+      "onboard_time": 1696220792,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 161465,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1696213831,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143205,
+      "num": 143205,
+      "word": "甘肃敦煌又现骆驼大队",
+      "onboard_time": 1696221272,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 143021,
@@ -1315,20 +1379,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34816,
+      "num": 483208,
+      "word": "葛曼棋含泪感谢去世的教练",
+      "onboard_time": 1696219892,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27287,
       "num": 27287,
       "word": "华晨宇现场看和平项目总决赛",
       "onboard_time": 1696186396,
       "rank": 44,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 24166,
-      "num": 483208,
-      "word": "葛曼棋含泪感谢去世的教练",
-      "onboard_time": 1696219892,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 23604,
