@@ -1,7 +1,15 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696246453440,
+  "endTime": 1696250035078,
   "band_list": [
+    {
+      "raw_hot": 3302957,
+      "num": 3302957,
+      "word": "女教师被举报十几次听到理由都想笑",
+      "onboard_time": 1696243594,
+      "rank": 20,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2908212,
       "num": 2908212,
@@ -33,6 +41,14 @@
       "onboard_time": 1696225233,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2179709,
+      "num": 2179709,
+      "word": "王楚钦炸毛",
+      "onboard_time": 1696238613,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 2172490,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1618045,
-      "num": 607428,
+      "num": 671974,
       "word": "MLB 文案",
       "onboard_time": 1696240655,
       "rank": 10,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 1510305,
-      "num": 614214,
+      "num": 701773,
       "word": "卸妆水洗姨妈血",
       "onboard_time": 1696244253,
       "rank": 12,
@@ -147,14 +163,6 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 1368055,
-      "num": 1368055,
-      "word": "王楚钦炸毛",
-      "onboard_time": 1696238613,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1343900,
       "num": 501365,
       "word": "外国人看见曾黎的反应",
@@ -163,12 +171,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1255898,
-      "num": 1255898,
-      "word": "女教师被举报十几次听到理由都想笑",
-      "onboard_time": 1696243594,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 1272801,
+      "num": 1272801,
+      "word": "亚运会乒乓球男单决赛",
+      "onboard_time": 1696247137,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1237386,
@@ -203,12 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1034636,
+      "num": 694503,
+      "word": "网友在巴黎偶遇王一博",
+      "onboard_time": 1696246655,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1013533,
       "num": 811327,
       "word": "珠帘玉幕阵容官宣",
       "onboard_time": 1696213651,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1000947,
+      "num": 1000947,
+      "word": "樊振东王楚钦单打决赛放简单爱",
+      "onboard_time": 1696248276,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 973851,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 879136,
-      "num": 390716,
+      "num": 706470,
       "word": "樊振东晚上减肥时点甜品",
       "onboard_time": 1696224328,
       "rank": 30,
@@ -299,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 848754,
+      "num": 848754,
+      "word": "樊振东王楚钦会师男单决赛",
+      "onboard_time": 1696234114,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 840705,
       "num": 840705,
       "word": "童瑶替顾佳看到了睡莲真迹",
@@ -316,11 +348,19 @@
     },
     {
       "raw_hot": 801317,
-      "num": 377077,
+      "num": 484290,
       "word": "男子被截了下半身之后的经历",
       "onboard_time": 1696244432,
       "rank": 30,
       "category": "其它"
+    },
+    {
+      "raw_hot": 799776,
+      "num": 678889,
+      "word": "夏克立再发文控诉黄嘉千",
+      "onboard_time": 1696247915,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 796735,
@@ -395,6 +435,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 708511,
+      "num": 708511,
+      "word": "郭麒麟心眼子 甄嬛传解读",
+      "onboard_time": 1696248457,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 707900,
       "num": 707900,
       "word": "樊振东冲击亚运第三金",
@@ -451,6 +499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 639280,
+      "num": 639280,
+      "word": "导游丢30张身份证警方接力找回",
+      "onboard_time": 1696248035,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 637326,
       "num": 637326,
       "word": "林雨薇夺冠后哭着感谢爸爸",
@@ -497,6 +553,14 @@
       "onboard_time": 1696172740,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 598693,
+      "num": 598693,
+      "word": "小狗暗示这样了还不带出去玩",
+      "onboard_time": 1696244915,
+      "rank": 34,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 596456,
@@ -555,14 +619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 558391,
-      "num": 584049,
-      "word": "樊振东王楚钦会师男单决赛",
-      "onboard_time": 1696234114,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 546108,
       "num": 546108,
       "word": "我们的歌给我5宣传片",
@@ -593,6 +649,14 @@
       "onboard_time": 1696213172,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 524506,
+      "num": 524506,
+      "word": "中国女排3比0朝鲜女排",
+      "onboard_time": 1696249116,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 515290,
@@ -667,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 483176,
+      "num": 483176,
+      "word": "许昕解说 好笑",
+      "onboard_time": 1696249476,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 480637,
       "num": 480637,
       "word": "林雨薇下一个目标是大学生运动会",
@@ -715,12 +787,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 460170,
+      "num": 460170,
+      "word": "秦始皇想不到两千多年后六国子民花钱来拜",
+      "onboard_time": 1696248516,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455908,
       "num": 455908,
       "word": "一盒月饼下去办公室无人生还",
       "onboard_time": 1696167108,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 437207,
+      "num": 437207,
+      "word": "DOTA2决赛中国vs蒙古",
+      "onboard_time": 1696243714,
+      "rank": 23,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 435654,
@@ -761,14 +849,6 @@
       "onboard_time": 1696230695,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 399850,
-      "num": 399850,
-      "word": "小狗暗示这样了还不带出去玩",
-      "onboard_time": 1696244915,
-      "rank": 34,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 399036,
@@ -865,6 +945,14 @@
       "onboard_time": 1696220671,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 371973,
+      "num": 371973,
+      "word": "许昕说孙颖莎逐渐扛起女乒大旗",
+      "onboard_time": 1696249058,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 365593,
@@ -979,14 +1067,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 315580,
-      "num": 315580,
-      "word": "DOTA2决赛中国vs蒙古",
-      "onboard_time": 1696243714,
-      "rank": 23,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 309776,
       "num": 309776,
       "word": "虎鹤妖师录",
@@ -1003,12 +1083,28 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 306628,
+      "num": 306628,
+      "word": "37岁当奶奶是种什么体验",
+      "onboard_time": 1696249179,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 305446,
       "num": 305446,
       "word": "邓亚萍 男双真是稳稳的幸福",
       "onboard_time": 1696217732,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304534,
+      "num": 304534,
+      "word": "KPOP大众性的男爱豆时代",
+      "onboard_time": 1696247015,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 301755,
@@ -1211,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264107,
+      "num": 264107,
+      "word": "女排没直播",
+      "onboard_time": 1696246536,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 261953,
       "num": 261953,
       "word": "杨紫羽毛袖白衬衫造型",
@@ -1225,6 +1329,22 @@
       "onboard_time": 1696208611,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260345,
+      "num": 260345,
+      "word": "谢娜让杨紫讲讲巴黎的所见所闻",
+      "onboard_time": 1696247795,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 258699,
+      "num": 258699,
+      "word": "曾黎朱珠同框",
+      "onboard_time": 1696247855,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256596,
@@ -1257,6 +1377,14 @@
       "onboard_time": 1696216593,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 248407,
+      "num": 248407,
+      "word": "樊振东王楚钦",
+      "onboard_time": 1696249298,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 246575,
@@ -1369,6 +1497,14 @@
       "onboard_time": 1696210288,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228436,
+      "num": 228436,
+      "word": "龚俊娜然此沙同台走秀",
+      "onboard_time": 1696247795,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 226134,
@@ -1507,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211030,
+      "num": 211030,
+      "word": "成毅被阿姨说演莲花楼那个",
+      "onboard_time": 1696248997,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 209112,
       "num": 209112,
       "word": "iPhone15Pro系列缩短发货时间",
@@ -1617,6 +1761,14 @@
       "onboard_time": 1696210831,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192768,
+      "num": 192768,
+      "word": "埃尔多安称土耳其对欧盟已没有任何期待",
+      "onboard_time": 1696249179,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 192391,
@@ -1753,6 +1905,22 @@
       "onboard_time": 1696225897,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179414,
+      "num": 179414,
+      "word": "大小花时装周状态",
+      "onboard_time": 1696249776,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 179169,
+      "num": 179169,
+      "word": "田志希申裕斌哭了",
+      "onboard_time": 1696247015,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 177594,
@@ -1913,6 +2081,14 @@
       "onboard_time": 1696215933,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150496,
+      "num": 484498,
+      "word": "女孩看台呼唤王楚钦结局暖心",
+      "onboard_time": 1696249717,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 150093,
@@ -2252,7 +2428,7 @@
     },
     {
       "raw_hot": 81963,
-      "num": 1234316,
+      "num": 1594514,
       "word": "杭州亚运会进入后半程",
       "onboard_time": 1696235914,
       "rank": 2,
