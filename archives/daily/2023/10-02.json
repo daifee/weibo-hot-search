@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696210374409,
+  "endTime": 1696213446319,
   "band_list": [
     {
       "raw_hot": 2377314,
@@ -27,6 +27,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1480273,
+      "num": 1480273,
+      "word": "苹果承认iPhone15系列运行温度过高",
+      "onboard_time": 1696211430,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1377121,
       "num": 552864,
       "word": "吴艳妮抢跑",
@@ -35,8 +43,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1129433,
+      "num": 1129433,
+      "word": "珠帘玉幕",
+      "onboard_time": 1696212932,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1081946,
-      "num": 190369,
+      "num": 203718,
       "word": "港媒曝郑少秋大女儿在美去世",
       "onboard_time": 1696168966,
       "rank": 30,
@@ -73,6 +89,14 @@
       "onboard_time": 1696202724,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 808315,
+      "num": 332438,
+      "word": "人人人人人我人人人人人",
+      "onboard_time": 1696211011,
+      "rank": 20,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 791795,
@@ -139,12 +163,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 571395,
+      "num": 571395,
+      "word": "黄轩性张力",
+      "onboard_time": 1696208972,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 541037,
       "num": 406697,
       "word": "华伦天奴",
       "onboard_time": 1696166923,
       "rank": 11,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 531030,
+      "num": 531030,
+      "word": "杨紫将出席GQ盛典",
+      "onboard_time": 1696212754,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 515290,
@@ -211,20 +251,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 463153,
-      "num": 463153,
-      "word": "黄轩性张力",
-      "onboard_time": 1696208972,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 455908,
       "num": 455908,
       "word": "一盒月饼下去办公室无人生还",
       "onboard_time": 1696167108,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 438544,
+      "num": 438544,
+      "word": "金晨白敬亭2分钟眼神戏",
+      "onboard_time": 1696213172,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 435571,
@@ -257,6 +297,14 @@
       "onboard_time": 1696157373,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 351076,
+      "num": 314735,
+      "word": "没想到一箱猕猴桃同时熟了",
+      "onboard_time": 1696210533,
+      "rank": 21,
+      "category": "美食"
     },
     {
       "raw_hot": 322171,
@@ -332,7 +380,7 @@
     },
     {
       "raw_hot": 279533,
-      "num": 170246,
+      "num": 172056,
       "word": "张博文回应夺金牌却不知",
       "onboard_time": 1696208852,
       "rank": 40,
@@ -361,6 +409,14 @@
       "onboard_time": 1696208852,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265489,
+      "num": 265489,
+      "word": "为什么坐地铁都喜欢坐边上",
+      "onboard_time": 1696210589,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 264736,
@@ -427,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228733,
+      "num": 228733,
+      "word": "SEVENTEEN新歌米奇妙妙屋既视感",
+      "onboard_time": 1696210288,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226134,
       "num": 200935,
       "word": "云南跟团游我们经历了什么",
@@ -475,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213231,
+      "num": 213231,
+      "word": "宫脇咲良大屏",
+      "onboard_time": 1696211189,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212084,
       "num": 307486,
       "word": "中国队羽毛球男团金牌",
@@ -483,11 +555,35 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201685,
+      "num": 201685,
+      "word": "金星评价坚如磐石",
+      "onboard_time": 1696213292,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198519,
       "num": 463190,
       "word": "林雨薇100米栏金牌",
       "onboard_time": 1696167283,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194199,
+      "num": 194199,
+      "word": "尹势银 日剧女主",
+      "onboard_time": 1696210831,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190087,
+      "num": 190087,
+      "word": "世界上最幸运的冠军",
+      "onboard_time": 1696212515,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -531,6 +627,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 183157,
+      "num": 183157,
+      "word": "公公嬷嬷这对词语是谁起的",
+      "onboard_time": 1696211914,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 177594,
       "num": 177594,
       "word": "郑恺潜伏在影院看前任4",
@@ -545,6 +649,22 @@
       "onboard_time": 1696177470,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168480,
+      "num": 168480,
+      "word": "雷佳音于和伟清唱海阔天空",
+      "onboard_time": 1696212691,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166597,
+      "num": 166597,
+      "word": "志愿军电影如果让美国来拍",
+      "onboard_time": 1696212515,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 165132,
@@ -627,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134246,
+      "num": 134246,
+      "word": "大唐小吃货2开播",
+      "onboard_time": 1696210951,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130884,
       "num": 130884,
       "word": "沈腾神翻译",
@@ -649,6 +777,14 @@
       "onboard_time": 1696179326,
       "rank": 31,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 128281,
+      "num": 128281,
+      "word": "故宫是懂氛围感的",
+      "onboard_time": 1696210589,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 127844,
@@ -681,14 +817,6 @@
       "onboard_time": 1696163014,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 124762,
-      "num": 124762,
-      "word": "SEVENTEEN新歌米奇妙妙屋既视感",
-      "onboard_time": 1696210288,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 124318,
