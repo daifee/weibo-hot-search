@@ -1,0 +1,410 @@
+{
+  "runTime": 1696220447553,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2111324,
+        "num": 2111324,
+        "word": "皓嫣二搭",
+        "onboard_time": 1696215516,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1800554,
+        "num": 1800554,
+        "word": "金星评价坚如磐石",
+        "onboard_time": 1696213292,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71594,
+        "num": 1400205,
+        "word": "升中国国旗是亚运健儿对祖国的告白",
+        "onboard_time": 1696208611,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1030646,
+        "num": 1030646,
+        "word": "苹果承认iPhone15系列运行温度过高",
+        "onboard_time": 1696211430,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 797987,
+        "num": 797987,
+        "word": "丞磊卢昱晓澳门芭莎大片",
+        "onboard_time": 1696220251,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 768260,
+        "num": 768260,
+        "word": "林雨薇赛后谈吴艳妮抢跑",
+        "onboard_time": 1696202363,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 694817,
+        "num": 694817,
+        "word": "林一沈月失笑开机路透图",
+        "onboard_time": 1696218991,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 656712,
+        "num": 656712,
+        "word": "天府机场会制裁所有卡点的人",
+        "onboard_time": 1696214915,
+        "rank": 7,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 568248,
+        "num": 568248,
+        "word": "2023年诺贝尔奖今起公布",
+        "onboard_time": 1696217192,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493813,
+        "num": 493813,
+        "word": "薛之谦回应滁州演唱会特殊观众",
+        "onboard_time": 1696213651,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1263867,
+        "num": 492088,
+        "word": "外国人看见曾黎的反应",
+        "onboard_time": 1696217972,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 993502,
+        "num": 490670,
+        "word": "吴艳妮抢跑后为何还能继续比赛",
+        "onboard_time": 1696202363,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297283,
+        "num": 488769,
+        "word": "林雨薇夺冠后哭着感谢爸爸",
+        "onboard_time": 1696215211,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288682,
+        "num": 486729,
+        "word": "丘妈感谢中国人民助其儿子康复",
+        "onboard_time": 1696218751,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24166,
+        "num": 483208,
+        "word": "葛曼棋含泪感谢去世的教练",
+        "onboard_time": 1696219892,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 967284,
+        "num": 480860,
+        "word": "林雨薇说没有吴艳妮她就跑不快",
+        "onboard_time": 1696218515,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480637,
+        "num": 480637,
+        "word": "林雨薇下一个目标是大学生运动会",
+        "onboard_time": 1696220011,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 464905,
+        "num": 464905,
+        "word": "邓亚萍 孙颖莎赢在必胜决心和实力",
+        "onboard_time": 1696214670,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452792,
+        "num": 452792,
+        "word": "吴艳妮回应抢跑",
+        "onboard_time": 1696171421,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418461,
+        "num": 418461,
+        "word": "杨紫将出席GQ盛典",
+        "onboard_time": 1696212754,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686072,
+        "num": 411889,
+        "word": "订婚蛋糕被亲戚一整个拿走了",
+        "onboard_time": 1696215933,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 595356,
+        "num": 410584,
+        "word": "人人人人人我人人人人人",
+        "onboard_time": 1696211011,
+        "rank": 21,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 404406,
+        "num": 404406,
+        "word": "不要给吴艳妮太大的压力",
+        "onboard_time": 1696172740,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 336062,
+        "num": 336062,
+        "word": "杨幂从巴黎出发回国",
+        "onboard_time": 1696217433,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323864,
+        "num": 323864,
+        "word": "我的小鸡为什么在喊卡巴迪",
+        "onboard_time": 1696219051,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321682,
+        "num": 321682,
+        "word": "童瑶替顾佳看到了睡莲真迹",
+        "onboard_time": 1696207950,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305446,
+        "num": 305446,
+        "word": "邓亚萍 男双真是稳稳的幸福",
+        "onboard_time": 1696217732,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295856,
+        "num": 295856,
+        "word": "电影频道国庆播诛仙I",
+        "onboard_time": 1696218333,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 291556,
+        "num": 291556,
+        "word": "12306回应女子占座不听劝掌掴乘警",
+        "onboard_time": 1696217673,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269460,
+        "num": 269460,
+        "word": "吴艳妮抢跑",
+        "onboard_time": 1696166799,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372890,
+        "num": 269043,
+        "word": "港媒曝郑少秋大女儿在美去世",
+        "onboard_time": 1696168966,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259012,
+        "num": 259012,
+        "word": "我们的歌给我5宣传片",
+        "onboard_time": 1696215992,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257980,
+        "num": 257980,
+        "word": "珠帘玉幕阵容官宣",
+        "onboard_time": 1696213651,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250159,
+        "num": 250159,
+        "word": "张彬彬忙得过来吗",
+        "onboard_time": 1696216593,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224721,
+        "num": 224721,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1696217433,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217073,
+        "num": 217073,
+        "word": "我的i人同事竟然是行走的50万",
+        "onboard_time": 1696202724,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212035,
+        "num": 212035,
+        "word": "用刘亦菲的方法回应催婚",
+        "onboard_time": 1696220011,
+        "rank": 36,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 205372,
+        "num": 205372,
+        "word": "虎鹤妖师录今日开播",
+        "onboard_time": 1696220071,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184073,
+        "num": 184073,
+        "word": "台湾奶茶的价格",
+        "onboard_time": 1696203325,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 182934,
+        "num": 182934,
+        "word": "不需要修图师的女人",
+        "onboard_time": 1696205309,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166748,
+        "num": 166748,
+        "word": "雷佳音于和伟清唱海阔天空",
+        "onboard_time": 1696212691,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165421,
+        "num": 165421,
+        "word": "马龙收了我写的信",
+        "onboard_time": 1696218033,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162017,
+        "num": 162017,
+        "word": "女子买梨发现支付失败急寻摊主付款",
+        "onboard_time": 1696215452,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155481,
+        "num": 155481,
+        "word": "明日方舟",
+        "onboard_time": 1696217011,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144105,
+        "num": 144105,
+        "word": "吴艳妮成绩被取消",
+        "onboard_time": 1696168425,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140573,
+        "num": 140573,
+        "word": "失笑开机",
+        "onboard_time": 1696213651,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136521,
+        "num": 136521,
+        "word": "女孩用微缩做出30个可以吃的美景",
+        "onboard_time": 1696216593,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 127300,
+        "num": 127300,
+        "word": "汪顺拿着一叠金牌逗观众",
+        "onboard_time": 1696213772,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126684,
+        "num": 126684,
+        "word": "珠帘玉幕",
+        "onboard_time": 1696212932,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125972,
+        "num": 125972,
+        "word": "中国游客为何不想出境游了",
+        "onboard_time": 1696204527,
+        "rank": 49,
+        "category": "社会新闻,旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#饮水思源莫忘来时路#"
+    }
+  }
+}

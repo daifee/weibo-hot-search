@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696217666975,
+  "endTime": 1696220447553,
   "band_list": [
     {
       "raw_hot": 2908212,
@@ -67,6 +67,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1263867,
+      "num": 492088,
+      "word": "外国人看见曾黎的反应",
+      "onboard_time": 1696217972,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1129433,
       "num": 1129433,
       "word": "珠帘玉幕",
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 1081946,
-      "num": 231624,
+      "num": 269043,
       "word": "港媒曝郑少秋大女儿在美去世",
       "onboard_time": 1696168966,
       "rank": 30,
@@ -89,6 +97,14 @@
       "onboard_time": 1696213651,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 967284,
+      "num": 480860,
+      "word": "林雨薇说没有吴艳妮她就跑不快",
+      "onboard_time": 1696218515,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 903089,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 832166,
-      "num": 397646,
+      "num": 410584,
       "word": "人人人人人我人人人人人",
       "onboard_time": 1696211011,
       "rank": 20,
@@ -139,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 797987,
+      "num": 797987,
+      "word": "丞磊卢昱晓澳门芭莎大片",
+      "onboard_time": 1696220251,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 791795,
       "num": 301055,
       "word": "抠鼻子掏耳朵有感染丹毒的风险",
@@ -148,7 +172,7 @@
     },
     {
       "raw_hot": 763194,
-      "num": 394976,
+      "num": 411889,
       "word": "订婚蛋糕被亲戚一整个拿走了",
       "onboard_time": 1696215933,
       "rank": 21,
@@ -169,6 +193,14 @@
       "onboard_time": 1696201342,
       "rank": 11,
       "category": "其它"
+    },
+    {
+      "raw_hot": 694817,
+      "num": 694817,
+      "word": "林一沈月失笑开机路透图",
+      "onboard_time": 1696218991,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 673684,
@@ -220,7 +252,7 @@
     },
     {
       "raw_hot": 589551,
-      "num": 463042,
+      "num": 464905,
       "word": "邓亚萍 孙颖莎赢在必胜决心和实力",
       "onboard_time": 1696214670,
       "rank": 30,
@@ -249,6 +281,14 @@
       "onboard_time": 1696208972,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 568248,
+      "num": 568248,
+      "word": "2023年诺贝尔奖今起公布",
+      "onboard_time": 1696217192,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 546108,
@@ -313,6 +353,14 @@
       "onboard_time": 1696205789,
       "rank": 10,
       "category": "教育"
+    },
+    {
+      "raw_hot": 480637,
+      "num": 480637,
+      "word": "林雨薇下一个目标是大学生运动会",
+      "onboard_time": 1696220011,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 478777,
@@ -403,6 +451,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 336062,
+      "num": 336062,
+      "word": "杨幂从巴黎出发回国",
+      "onboard_time": 1696217433,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 323864,
+      "num": 323864,
+      "word": "我的小鸡为什么在喊卡巴迪",
+      "onboard_time": 1696219051,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322171,
       "num": 322171,
       "word": "让韩国人又爱又恨的中国美食",
@@ -417,6 +481,14 @@
       "onboard_time": 1696165900,
       "rank": 15,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 305446,
+      "num": 305446,
+      "word": "邓亚萍 男双真是稳稳的幸福",
+      "onboard_time": 1696217732,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 301755,
@@ -443,11 +515,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295856,
+      "num": 295856,
+      "word": "电影频道国庆播诛仙I",
+      "onboard_time": 1696218333,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294409,
       "num": 294409,
       "word": "警方通报网传宝马司机因吐痰引冲突被杀",
       "onboard_time": 1696202363,
       "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291556,
+      "num": 291556,
+      "word": "12306回应女子占座不听劝掌掴乘警",
+      "onboard_time": 1696217673,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -457,6 +545,14 @@
       "onboard_time": 1696173337,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288682,
+      "num": 486729,
+      "word": "丘妈感谢中国人民助其儿子康复",
+      "onboard_time": 1696218751,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 282617,
@@ -507,14 +603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265765,
-      "num": 471658,
-      "word": "2023年诺贝尔奖今起公布",
-      "onboard_time": 1696217192,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 265489,
       "num": 265489,
       "word": "为什么坐地铁都喜欢坐边上",
@@ -545,6 +633,14 @@
       "onboard_time": 1696208611,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250159,
+      "num": 250159,
+      "word": "张彬彬忙得过来吗",
+      "onboard_time": 1696216593,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 245088,
@@ -643,20 +739,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224721,
+      "num": 224721,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1696217433,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 222885,
       "num": 222885,
       "word": "尚雯婕最终信仰十年前后变化",
       "onboard_time": 1696213472,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 221798,
-      "num": 221798,
-      "word": "张彬彬忙得过来吗",
-      "onboard_time": 1696216593,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 219350,
@@ -707,6 +803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212035,
+      "num": 212035,
+      "word": "用刘亦菲的方法回应催婚",
+      "onboard_time": 1696220011,
+      "rank": 36,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 205372,
+      "num": 205372,
+      "word": "虎鹤妖师录今日开播",
+      "onboard_time": 1696220071,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204921,
       "num": 204921,
       "word": "女孩用微缩做出30个可以吃的美景",
@@ -721,14 +833,6 @@
       "onboard_time": 1696212515,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202226,
-      "num": 202226,
-      "word": "太湖湾音乐节",
-      "onboard_time": 1696217433,
-      "rank": 35,
-      "category": "音乐"
     },
     {
       "raw_hot": 200929,
@@ -835,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165421,
+      "num": 165421,
+      "word": "马龙收了我写的信",
+      "onboard_time": 1696218033,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165132,
       "num": 165132,
       "word": "冠军没有应该",
@@ -873,14 +985,6 @@
       "onboard_time": 1696215933,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151161,
-      "num": 151161,
-      "word": "杨幂从巴黎出发回国",
-      "onboard_time": 1696217433,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 148674,
@@ -1217,6 +1321,14 @@
       "onboard_time": 1696186396,
       "rank": 44,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 24166,
+      "num": 483208,
+      "word": "葛曼棋含泪感谢去世的教练",
+      "onboard_time": 1696219892,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 23604,
