@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696257295849,
+  "endTime": 1696259894487,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -49,6 +49,14 @@
       "onboard_time": 1696168425,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6586145,
+      "num": 6586145,
+      "word": "DOTA2中国队夺冠",
+      "onboard_time": 1696258901,
+      "rank": 0,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 6008481,
@@ -635,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1147775,
+      "num": 1147775,
+      "word": "DOTA2决赛中国vs蒙古",
+      "onboard_time": 1696243714,
+      "rank": 23,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 1129433,
       "num": 1129433,
       "word": "珠帘玉幕",
@@ -664,6 +680,14 @@
       "word": "曾见义勇为的南京胖哥女儿离世",
       "onboard_time": 1696128033,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1050048,
+      "num": 1050048,
+      "word": "男子含泪跪地吃生母煮的醪糟蛋",
+      "onboard_time": 1696257579,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -899,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 842881,
-      "num": 842881,
-      "word": "DOTA2决赛中国vs蒙古",
-      "onboard_time": 1696243714,
-      "rank": 23,
-      "category": "游戏,体育"
-    },
-    {
       "raw_hot": 841551,
       "num": 841551,
       "word": "留学时不要乱用emoji",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1696175254,
       "rank": 31,
       "category": "其它"
+    },
+    {
+      "raw_hot": 747841,
+      "num": 747841,
+      "word": "王楚钦孙颖莎",
+      "onboard_time": 1696256677,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 736119,
@@ -1411,6 +1435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 591922,
+      "num": 591922,
+      "word": "王楚钦说唯一的瑕疵是头发没剪好",
+      "onboard_time": 1696257457,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 589551,
       "num": 464905,
       "word": "邓亚萍 孙颖莎赢在必胜决心和实力",
@@ -1523,6 +1555,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 554891,
+      "num": 554891,
+      "word": "樊振东说可惜但不至于遗憾",
+      "onboard_time": 1696259080,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546271,
       "num": 546271,
       "word": "亚运110米栏双金牌",
@@ -1553,6 +1593,14 @@
       "onboard_time": 1696213172,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 533372,
+      "num": 533372,
+      "word": "九图看完前任4",
+      "onboard_time": 1696253626,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 530605,
@@ -1995,14 +2043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 429265,
-      "num": 429265,
-      "word": "九图看完前任4",
-      "onboard_time": 1696253626,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 422243,
       "num": 422243,
       "word": "郑恺苗苗相互治愈",
@@ -2025,14 +2065,6 @@
       "onboard_time": 1696152273,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 418727,
-      "num": 418727,
-      "word": "王楚钦孙颖莎",
-      "onboard_time": 1696256677,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 414853,
@@ -2203,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383474,
+      "num": 383474,
+      "word": "自律的人好像真的很扛老",
+      "onboard_time": 1696259620,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383376,
       "num": 383376,
       "word": "江西警号086211重启",
@@ -2233,6 +2273,14 @@
       "onboard_time": 1696134331,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 376466,
+      "num": 376466,
+      "word": "金泰妍Amber坐一起",
+      "onboard_time": 1696259501,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 371973,
@@ -2281,6 +2329,14 @@
       "onboard_time": 1696127371,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 366703,
+      "num": 366703,
+      "word": "天官赐福动画",
+      "onboard_time": 1696257278,
+      "rank": 37,
+      "category": "动漫"
     },
     {
       "raw_hot": 365593,
@@ -2563,6 +2619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 330480,
+      "num": 330480,
+      "word": "虞书欣在法国一天吃一顿",
+      "onboard_time": 1696257702,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329874,
       "num": 427475,
       "word": "国乒无缘女双4强",
@@ -2577,6 +2641,14 @@
       "onboard_time": 1696062514,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 325684,
+      "num": 325684,
+      "word": "巴特勒又换发型了",
+      "onboard_time": 1696258421,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 323864,
@@ -2763,6 +2835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300998,
+      "num": 300998,
+      "word": "薛之谦 准备远行",
+      "onboard_time": 1696258662,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 300853,
       "num": 300853,
       "word": "田嘉瑞新造型",
@@ -2904,6 +2984,14 @@
       "word": "你多久更换一次床上用品",
       "onboard_time": 1696125512,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286006,
+      "num": 286006,
+      "word": "游客泰山顶挥舞国旗齐喊祖国万岁",
+      "onboard_time": 1696256259,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -3315,6 +3403,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 254489,
+      "num": 254489,
+      "word": "一时不知黄嘉仪是敌是友",
+      "onboard_time": 1696257040,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 251918,
       "num": 251918,
       "word": "升旗结束3男子草坪熟睡被艰难叫醒",
@@ -3401,14 +3497,6 @@
       "onboard_time": 1696223314,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245827,
-      "num": 245827,
-      "word": "天官赐福动画",
-      "onboard_time": 1696257278,
-      "rank": 37,
-      "category": "动漫"
     },
     {
       "raw_hot": 245088,
@@ -3779,6 +3867,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 221832,
+      "num": 221832,
+      "word": "鹭卓舞台",
+      "onboard_time": 1696257159,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 221360,
       "num": 221360,
       "word": "坚如磐石",
@@ -3801,6 +3897,14 @@
       "onboard_time": 1696160436,
       "rank": 42,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 219812,
+      "num": 219812,
+      "word": "王楚钦左手不是枷锁",
+      "onboard_time": 1696256677,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 219350,
@@ -3947,6 +4051,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 207320,
+      "num": 207320,
+      "word": "刘宇把东方之美带到巴黎",
+      "onboard_time": 1696258718,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "Twins要出新歌了",
@@ -3969,14 +4081,6 @@
       "onboard_time": 1696231053,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206246,
-      "num": 206246,
-      "word": "王楚钦左手不是枷锁",
-      "onboard_time": 1696256677,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 205372,
@@ -4608,14 +4712,6 @@
       "word": "斑马音乐节",
       "onboard_time": 1696226493,
       "rank": 44,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 177466,
-      "num": 177466,
-      "word": "鹭卓舞台",
-      "onboard_time": 1696257159,
-      "rank": 47,
       "category": "演出"
     },
     {
@@ -5607,6 +5703,14 @@
       "num": 745827,
       "word": "女排首战",
       "onboard_time": 1696161634,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 70216,
+      "num": 539979,
+      "word": "熊诗麒女子跳远摘金",
+      "onboard_time": 1696259141,
       "rank": 14,
       "category": "体育"
     },
