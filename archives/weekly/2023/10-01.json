@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696241924797,
+  "endTime": 1696242928943,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -99,6 +99,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2609856,
+      "num": 2609856,
+      "word": "韩国速滑队因过早庆祝错失金牌",
+      "onboard_time": 1696239214,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2563643,
       "num": 2563643,
       "word": "樊振东王楚钦男双夺金",
@@ -136,14 +144,6 @@
       "word": "吴艳妮抢跑后为何还能继续比赛",
       "onboard_time": 1696202363,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 2359855,
-      "num": 2359855,
-      "word": "韩国速滑队因过早庆祝错失金牌",
-      "onboard_time": 1696239214,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -315,6 +315,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1618045,
+      "num": 578754,
+      "word": "MLB 文案",
+      "onboard_time": 1696240655,
+      "rank": 10,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 1593000,
       "num": 1593000,
       "word": "女单决赛",
@@ -483,14 +491,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1316152,
-      "num": 566217,
-      "word": "MLB 文案",
-      "onboard_time": 1696240655,
-      "rank": 10,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 1297367,
       "num": 1297367,
       "word": "女单半决赛",
@@ -513,6 +513,22 @@
       "onboard_time": 1696082983,
       "rank": 4,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1191107,
+      "num": 552509,
+      "word": "诺贝尔奖",
+      "onboard_time": 1696240474,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188752,
+      "num": 1188752,
+      "word": "王楚钦炸毛",
+      "onboard_time": 1696238613,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1129433,
@@ -560,14 +576,6 @@
       "word": "国羽男团2比2印度",
       "onboard_time": 1696167283,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1022313,
-      "num": 1022313,
-      "word": "王楚钦炸毛",
-      "onboard_time": 1696238613,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -641,14 +649,6 @@
       "onboard_time": 1696166923,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 948275,
-      "num": 552509,
-      "word": "诺贝尔奖",
-      "onboard_time": 1696240474,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 919034,
@@ -2715,6 +2715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 267039,
+      "num": 1084906,
+      "word": "世界最高楼迪拜塔点亮五星红旗",
+      "onboard_time": 1696241974,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265951,
       "num": 265951,
       "word": "韩媒抹黑国足亚运队",
@@ -2817,6 +2825,14 @@
       "onboard_time": 1696222954,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256414,
+      "num": 1084317,
+      "word": "肿瘤专家返乡1天义诊10多名乡亲",
+      "onboard_time": 1696237353,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256306,
@@ -2961,14 +2977,6 @@
       "onboard_time": 1696202481,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243879,
-      "num": 1084317,
-      "word": "肿瘤专家返乡1天义诊10多名乡亲",
-      "onboard_time": 1696237353,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243673,
@@ -3395,6 +3403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212209,
+      "num": 212209,
+      "word": "张颂文 永远不要看不起自己",
+      "onboard_time": 1696242814,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 210788,
       "num": 210788,
       "word": "张子枫出发巴黎",
@@ -3667,6 +3683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195755,
+      "num": 195755,
+      "word": "安溥唱了如果你冷",
+      "onboard_time": 1696242036,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195567,
       "num": 195567,
       "word": "卫明再婚是一场闹剧",
@@ -3785,6 +3809,14 @@
       "onboard_time": 1696226314,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188622,
+      "num": 188622,
+      "word": "你喜欢啥样的旅游搭子",
+      "onboard_time": 1696242274,
+      "rank": 38,
+      "category": "旅游"
     },
     {
       "raw_hot": 188244,
@@ -4995,6 +5027,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 46004,
+      "num": 1102698,
+      "word": "杭州亚运会进入后半程",
+      "onboard_time": 1696235914,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 44122,
       "num": 44122,
       "word": "刘诗诗狐妖竹叶篇绿衣路透图",
@@ -5041,14 +5081,6 @@
       "onboard_time": 1696230032,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30131,
-      "num": 1102698,
-      "word": "杭州亚运会进入后半程",
-      "onboard_time": 1696235914,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 28987,
