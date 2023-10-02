@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696288611567,
+  "endTime": 1696289664136,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -939,6 +939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 850794,
+      "num": 850794,
+      "word": "秦始皇想不到两千多年后六国子民花钱来拜",
+      "onboard_time": 1696248516,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 846478,
       "num": 846478,
       "word": "男单 精彩",
@@ -1113,14 +1121,6 @@
       "onboard_time": 1696138293,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 733490,
-      "num": 733490,
-      "word": "秦始皇想不到两千多年后六国子民花钱来拜",
-      "onboard_time": 1696248516,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 733060,
@@ -1585,6 +1585,14 @@
       "onboard_time": 1696217192,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 565518,
+      "num": 301372,
+      "word": "王楚钦陈梦",
+      "onboard_time": 1696288701,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 562123,
@@ -2315,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 383670,
+      "num": 383670,
+      "word": "林双又捉到出轨男",
+      "onboard_time": 1696261534,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383376,
       "num": 383376,
       "word": "江西警号086211重启",
@@ -2353,14 +2369,6 @@
       "onboard_time": 1696249058,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 371063,
-      "num": 347562,
-      "word": "林双又捉到出轨男",
-      "onboard_time": 1696261534,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 370022,
@@ -2851,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305758,
+      "num": 305758,
+      "word": "叙利亚运动员在杭州亚运会收获新感动",
+      "onboard_time": 1696287921,
+      "rank": 12,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 305497,
       "num": 305497,
       "word": "为何污名化老师的现象越来越多",
@@ -3099,6 +3115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282243,
+      "num": 129451,
+      "word": "才知道长期喝粥对胃不好",
+      "onboard_time": 1696288642,
+      "rank": 21,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 280983,
       "num": 631087,
       "word": "中国队包揽乒乓球男单冠亚军",
@@ -3331,11 +3355,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264222,
+      "num": 264222,
+      "word": "黄晓明路演收到老年人专用自热棉裤",
+      "onboard_time": 1696287921,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264107,
       "num": 264107,
       "word": "女排没直播",
       "onboard_time": 1696246536,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263000,
+      "num": 263000,
+      "word": "大叔脱掉儿子衣服求叶诗文签字",
+      "onboard_time": 1696273157,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -3513,14 +3553,6 @@
       "onboard_time": 1696084179,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250272,
-      "num": 250272,
-      "word": "大叔脱掉儿子衣服求叶诗文签字",
-      "onboard_time": 1696273157,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 250159,
@@ -3777,6 +3809,14 @@
       "onboard_time": 1696252239,
       "rank": 42,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 233016,
+      "num": 102260,
+      "word": "西安兵马俑酒店",
+      "onboard_time": 1696288825,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 232013,
@@ -4593,14 +4633,6 @@
       "onboard_time": 1696176631,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186748,
-      "num": 186748,
-      "word": "黄晓明路演收到老年人专用自热棉裤",
-      "onboard_time": 1696287921,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 185957,
@@ -5523,6 +5555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130492,
+      "num": 130492,
+      "word": "任嘉伦流水迢迢新路透",
+      "onboard_time": 1696288221,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 129552,
       "num": 129552,
       "word": "华天夺得杭州亚运马术项目两枚金牌",
@@ -5537,6 +5577,14 @@
       "onboard_time": 1696179326,
       "rank": 31,
       "category": "艺人,综艺"
+    },
+    {
+      "raw_hot": 128472,
+      "num": 128472,
+      "word": "吴昕G社生图",
+      "onboard_time": 1696289364,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 128437,
@@ -5585,6 +5633,22 @@
       "onboard_time": 1696191975,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126548,
+      "num": 126548,
+      "word": "四冠王男子历史第一人",
+      "onboard_time": 1696287620,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124486,
+      "num": 124486,
+      "word": "四金一铜 英雄联盟",
+      "onboard_time": 1696289243,
+      "rank": 24,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 123548,
@@ -5657,14 +5721,6 @@
       "onboard_time": 1696178966,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 117535,
-      "num": 181791,
-      "word": "叙利亚运动员在杭州亚运会收获新感动",
-      "onboard_time": 1696287921,
-      "rank": 12,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 116690,
@@ -5763,14 +5819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 98742,
-      "num": 98742,
-      "word": "任嘉伦流水迢迢新路透",
-      "onboard_time": 1696288221,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 98445,
       "num": 629940,
       "word": "李玲女子撑竿跳高冠军",
@@ -5787,6 +5835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98131,
+      "num": 98131,
+      "word": "黄奕外网生图",
+      "onboard_time": 1696289423,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 97986,
       "num": 97986,
       "word": "反复长期发炎可能是情绪炎症",
@@ -5795,11 +5851,11 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 96861,
-      "num": 96861,
-      "word": "四冠王男子历史第一人",
-      "onboard_time": 1696287620,
-      "rank": 26,
+      "raw_hot": 93999,
+      "num": 93999,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1696287921,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -5851,6 +5907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 83359,
+      "num": 97376,
+      "word": "放假了大熊猫把皮衣脱下来搭树上晾晾",
+      "onboard_time": 1696289482,
+      "rank": 34,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 83075,
       "num": 1073356,
       "word": "上下五千年一笔一画写中国",
@@ -5867,20 +5931,20 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 80693,
+      "num": 80693,
+      "word": "110米栏亚洲纪录仍是刘翔",
+      "onboard_time": 1696287199,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80636,
       "num": 80636,
       "word": "薛之谦在台上好忙活",
       "onboard_time": 1696112358,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 78026,
-      "num": 78026,
-      "word": "110米栏亚洲纪录仍是刘翔",
-      "onboard_time": 1696287199,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 76599,
@@ -5891,19 +5955,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76488,
+      "num": 76488,
+      "word": "金牌碰在一起的声音好好听",
+      "onboard_time": 1696288763,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75818,
       "num": 75818,
       "word": "劳塔罗大四喜",
       "onboard_time": 1696116564,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 75702,
-      "num": 75702,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1696287921,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -5928,6 +5992,14 @@
       "word": "熊诗麒女子跳远摘金",
       "onboard_time": 1696259141,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67524,
+      "num": 67524,
+      "word": "富勒姆0比2切尔西",
+      "onboard_time": 1696288522,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -6003,11 +6075,11 @@
       "category": "军事"
     },
     {
-      "raw_hot": 46999,
-      "num": 46999,
-      "word": "富勒姆0比2切尔西",
-      "onboard_time": 1696288522,
-      "rank": 48,
+      "raw_hot": 47039,
+      "num": 177965,
+      "word": "中国女篮和中国台北女篮BGM相亲相爱一家人",
+      "onboard_time": 1696288041,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -6017,14 +6089,6 @@
       "onboard_time": 1696108274,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 43376,
-      "num": 177965,
-      "word": "中国女篮和中国台北女篮BGM相亲相爱一家人",
-      "onboard_time": 1696288041,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 43220,

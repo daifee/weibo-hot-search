@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696288611567,
+  "endTime": 1696289664136,
   "band_list": [
     {
       "raw_hot": 2595600,
@@ -59,20 +59,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 850794,
+      "num": 850794,
+      "word": "秦始皇想不到两千多年后六国子民花钱来拜",
+      "onboard_time": 1696248516,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 787694,
       "num": 787694,
       "word": "自律的人好像真的很扛老",
       "onboard_time": 1696259620,
       "rank": 6,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 733490,
-      "num": 733490,
-      "word": "秦始皇想不到两千多年后六国子民花钱来拜",
-      "onboard_time": 1696248516,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 598681,
@@ -88,6 +88,14 @@
       "word": "王楚钦一句话没说先炫两瓶水",
       "onboard_time": 1696260336,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 565518,
+      "num": 301372,
+      "word": "王楚钦陈梦",
+      "onboard_time": 1696288701,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -139,6 +147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 383670,
+      "num": 383670,
+      "word": "林双又捉到出轨男",
+      "onboard_time": 1696261534,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376838,
       "num": 376838,
       "word": "王楚钦孙颖莎",
@@ -155,12 +171,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 371063,
-      "num": 347562,
-      "word": "林双又捉到出轨男",
-      "onboard_time": 1696261534,
-      "rank": 21,
-      "category": "剧集"
+      "raw_hot": 305758,
+      "num": 305758,
+      "word": "叙利亚运动员在杭州亚运会收获新感动",
+      "onboard_time": 1696287921,
+      "rank": 12,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 293402,
@@ -179,6 +195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282243,
+      "num": 129451,
+      "word": "才知道长期喝粥对胃不好",
+      "onboard_time": 1696288642,
+      "rank": 21,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 270562,
       "num": 270562,
       "word": "杭州亚运会刀塔决赛中国队夺冠",
@@ -187,20 +211,28 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 251430,
-      "num": 191479,
-      "word": "夏克立再发文控诉黄嘉千",
-      "onboard_time": 1696247915,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 264222,
+      "num": 264222,
+      "word": "黄晓明路演收到老年人专用自热棉裤",
+      "onboard_time": 1696287921,
+      "rank": 9,
+      "category": "电影"
     },
     {
-      "raw_hot": 250272,
-      "num": 250272,
+      "raw_hot": 263000,
+      "num": 263000,
       "word": "大叔脱掉儿子衣服求叶诗文签字",
       "onboard_time": 1696273157,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251430,
+      "num": 249394,
+      "word": "夏克立再发文控诉黄嘉千",
+      "onboard_time": 1696247915,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 244409,
@@ -217,6 +249,14 @@
       "onboard_time": 1696258662,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 233016,
+      "num": 102260,
+      "word": "西安兵马俑酒店",
+      "onboard_time": 1696288825,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 232802,
@@ -265,14 +305,6 @@
       "onboard_time": 1696244253,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 186748,
-      "num": 186748,
-      "word": "黄晓明路演收到老年人专用自热棉裤",
-      "onboard_time": 1696287921,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 181095,
@@ -419,27 +451,51 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 117535,
-      "num": 181791,
-      "word": "叙利亚运动员在杭州亚运会收获新感动",
-      "onboard_time": 1696287921,
-      "rank": 12,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 98742,
-      "num": 98742,
+      "raw_hot": 130492,
+      "num": 130492,
       "word": "任嘉伦流水迢迢新路透",
       "onboard_time": 1696288221,
       "rank": 25,
       "category": "作品衍生"
     },
     {
-      "raw_hot": 96861,
-      "num": 96861,
+      "raw_hot": 128472,
+      "num": 128472,
+      "word": "吴昕G社生图",
+      "onboard_time": 1696289364,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 126548,
+      "num": 126548,
       "word": "四冠王男子历史第一人",
       "onboard_time": 1696287620,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124486,
+      "num": 124486,
+      "word": "四金一铜 英雄联盟",
+      "onboard_time": 1696289243,
+      "rank": 24,
+      "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 98131,
+      "num": 98131,
+      "word": "黄奕外网生图",
+      "onboard_time": 1696289423,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 93999,
+      "num": 93999,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1696287921,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -467,19 +523,27 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 78026,
-      "num": 78026,
+      "raw_hot": 83359,
+      "num": 97376,
+      "word": "放假了大熊猫把皮衣脱下来搭树上晾晾",
+      "onboard_time": 1696289482,
+      "rank": 34,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 80693,
+      "num": 80693,
       "word": "110米栏亚洲纪录仍是刘翔",
       "onboard_time": 1696287199,
       "rank": 33,
       "category": "体育"
     },
     {
-      "raw_hot": 75702,
-      "num": 75702,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1696287921,
-      "rank": 34,
+      "raw_hot": 76488,
+      "num": 76488,
+      "word": "金牌碰在一起的声音好好听",
+      "onboard_time": 1696288763,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -488,6 +552,14 @@
       "word": "中国队包揽乒乓球男单冠亚军",
       "onboard_time": 1696254404,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67524,
+      "num": 67524,
+      "word": "富勒姆0比2切尔西",
+      "onboard_time": 1696288522,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -507,15 +579,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46999,
-      "num": 46999,
-      "word": "富勒姆0比2切尔西",
-      "onboard_time": 1696288522,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 43376,
+      "raw_hot": 47039,
       "num": 177965,
       "word": "中国女篮和中国台北女篮BGM相亲相爱一家人",
       "onboard_time": 1696288041,
