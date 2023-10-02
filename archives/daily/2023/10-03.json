@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696278867662,
+  "endTime": 1696281320519,
   "band_list": [
     {
       "raw_hot": 2595600,
@@ -459,12 +459,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 19606,
-      "num": 19606,
+      "raw_hot": 24306,
+      "num": 24306,
       "word": "李泽锋角色无法拒绝的诱惑",
       "onboard_time": 1696277474,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18301,
+      "num": 18301,
+      "word": "好事成双",
+      "onboard_time": 1696280535,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 11892,
+      "num": 36640,
+      "word": "杭州亚运会隐藏彩蛋",
+      "onboard_time": 1696280416,
+      "rank": 14,
+      "category": "体育,社会新闻"
     }
   ],
   "hotgov_list": [
