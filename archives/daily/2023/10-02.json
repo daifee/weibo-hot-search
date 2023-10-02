@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696213446319,
+  "endTime": 1696214106599,
   "band_list": [
     {
       "raw_hot": 2377314,
@@ -19,20 +19,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1618707,
+      "num": 1618707,
+      "word": "苹果承认iPhone15系列运行温度过高",
+      "onboard_time": 1696211430,
+      "rank": 1,
+      "category": "科技"
+    },
+    {
       "raw_hot": 1483564,
       "num": 1483564,
       "word": "林雨薇赛后谈吴艳妮抢跑",
       "onboard_time": 1696202363,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1480273,
-      "num": 1480273,
-      "word": "苹果承认iPhone15系列运行温度过高",
-      "onboard_time": 1696211430,
-      "rank": 1,
-      "category": "科技"
     },
     {
       "raw_hot": 1377121,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 1081946,
-      "num": 203718,
+      "num": 209146,
       "word": "港媒曝郑少秋大女儿在美去世",
       "onboard_time": 1696168966,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1013533,
+      "num": 811327,
+      "word": "珠帘玉幕阵容官宣",
+      "onboard_time": 1696213651,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 903089,
@@ -65,6 +73,14 @@
       "onboard_time": 1696164944,
       "rank": 1,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 861606,
+      "num": 861606,
+      "word": "杨紫将出席GQ盛典",
+      "onboard_time": 1696212754,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 858666,
@@ -83,20 +99,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 832166,
+      "num": 332438,
+      "word": "人人人人人我人人人人人",
+      "onboard_time": 1696211011,
+      "rank": 20,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 823671,
       "num": 823671,
       "word": "我的i人同事竟然是行走的50万",
       "onboard_time": 1696202724,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 808315,
-      "num": 332438,
-      "word": "人人人人人我人人人人人",
-      "onboard_time": 1696211011,
-      "rank": 20,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 791795,
@@ -179,12 +195,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 531030,
-      "num": 531030,
-      "word": "杨紫将出席GQ盛典",
-      "onboard_time": 1696212754,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 540558,
+      "num": 540558,
+      "word": "金晨白敬亭2分钟眼神戏",
+      "onboard_time": 1696213172,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 515290,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 478777,
-      "num": 478777,
+      "num": 511286,
       "word": "乒乓球比赛现场喔声一片",
       "onboard_time": 1696206569,
       "rank": 9,
@@ -259,12 +275,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 438544,
-      "num": 438544,
-      "word": "金晨白敬亭2分钟眼神戏",
-      "onboard_time": 1696213172,
-      "rank": 15,
-      "category": "综艺"
+      "raw_hot": 445459,
+      "num": 208954,
+      "word": "金星评价坚如磐石",
+      "onboard_time": 1696213292,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 435571,
@@ -436,11 +452,19 @@
     },
     {
       "raw_hot": 261622,
-      "num": 463390,
+      "num": 1287570,
       "word": "升中国国旗是亚运健儿对祖国的告白",
       "onboard_time": 1696208611,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245055,
+      "num": 245055,
+      "word": "失笑开机",
+      "onboard_time": 1696213651,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 243962,
@@ -507,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222885,
+      "num": 222885,
+      "word": "尚雯婕最终信仰十年前后变化",
+      "onboard_time": 1696213472,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 219350,
       "num": 219350,
       "word": "宋佳全度妍巴黎秀场热聊",
@@ -555,19 +587,43 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201685,
-      "num": 201685,
-      "word": "金星评价坚如磐石",
-      "onboard_time": 1696213292,
-      "rank": 31,
+      "raw_hot": 208052,
+      "num": 208052,
+      "word": "薛之谦回应滁州演唱会特殊观众",
+      "onboard_time": 1696213651,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 203085,
+      "num": 203085,
+      "word": "世界上最幸运的冠军",
+      "onboard_time": 1696212515,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200929,
+      "num": 200929,
+      "word": "雷佳音于和伟清唱海阔天空",
+      "onboard_time": 1696212691,
+      "rank": 40,
       "category": "电影"
     },
     {
       "raw_hot": 198519,
-      "num": 463190,
+      "num": 465367,
       "word": "林雨薇100米栏金牌",
       "onboard_time": 1696167283,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195985,
+      "num": 195985,
+      "word": "汪顺拿着一叠金牌逗观众",
+      "onboard_time": 1696213772,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -577,14 +633,6 @@
       "onboard_time": 1696210831,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190087,
-      "num": 190087,
-      "word": "世界上最幸运的冠军",
-      "onboard_time": 1696212515,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 186850,
@@ -651,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168480,
-      "num": 168480,
-      "word": "雷佳音于和伟清唱海阔天空",
-      "onboard_time": 1696212691,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 166597,
       "num": 166597,
       "word": "志愿军电影如果让美国来拍",
@@ -696,6 +736,22 @@
       "word": "孙颖莎说感谢教练队友和粉丝",
       "onboard_time": 1696171481,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 145952,
+      "num": 145952,
+      "word": "张俪当摄影师比主角还抢镜",
+      "onboard_time": 1696213831,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 144510,
+      "num": 152736,
+      "word": "中国马术亚运历史首金",
+      "onboard_time": 1696214071,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -953,6 +1009,14 @@
       "onboard_time": 1696167766,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 59837,
+      "num": 438693,
+      "word": "热烈的中国红是我最爱的颜色",
+      "onboard_time": 1696213531,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 55726,

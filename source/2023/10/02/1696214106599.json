@@ -1,0 +1,410 @@
+{
+  "runTime": 1696214106599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1618707,
+        "num": 1618707,
+        "word": "苹果承认iPhone15系列运行温度过高",
+        "onboard_time": 1696211430,
+        "rank": 0,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2028322,
+        "num": 1548351,
+        "word": "吴艳妮抢跑后为何还能继续比赛",
+        "onboard_time": 1696202363,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155473,
+        "num": 1287570,
+        "word": "升中国国旗是亚运健儿对祖国的告白",
+        "onboard_time": 1696208611,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1107657,
+        "num": 1107657,
+        "word": "珠帘玉幕",
+        "onboard_time": 1696212932,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 861606,
+        "num": 861606,
+        "word": "杨紫将出席GQ盛典",
+        "onboard_time": 1696212754,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1013533,
+        "num": 811327,
+        "word": "珠帘玉幕阵容官宣",
+        "onboard_time": 1696213651,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 686295,
+        "num": 686295,
+        "word": "童瑶替顾佳看到了睡莲真迹",
+        "onboard_time": 1696207950,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540558,
+        "num": 540558,
+        "word": "金晨白敬亭2分钟眼神戏",
+        "onboard_time": 1696213172,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370792,
+        "num": 518948,
+        "word": "台湾奶茶的价格",
+        "onboard_time": 1696203325,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252125,
+        "num": 511286,
+        "word": "乒乓球比赛现场喔声一片",
+        "onboard_time": 1696206569,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1222891,
+        "num": 510607,
+        "word": "林雨薇赛后谈吴艳妮抢跑",
+        "onboard_time": 1696202363,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509626,
+        "num": 509626,
+        "word": "黄轩性张力",
+        "onboard_time": 1696208972,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 509561,
+        "num": 509561,
+        "word": "我的i人同事竟然是行走的50万",
+        "onboard_time": 1696202724,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115298,
+        "num": 465367,
+        "word": "林雨薇100米栏金牌",
+        "onboard_time": 1696167283,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59837,
+        "num": 438693,
+        "word": "热烈的中国红是我最爱的颜色",
+        "onboard_time": 1696213531,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 753996,
+        "num": 438329,
+        "word": "吴艳妮回应抢跑",
+        "onboard_time": 1696171421,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 437408,
+        "num": 437408,
+        "word": "吴艳妮抢跑",
+        "onboard_time": 1696166799,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357590,
+        "num": 357590,
+        "word": "不需要修图师的女人",
+        "onboard_time": 1696205309,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 577486,
+        "num": 353441,
+        "word": "不要给吴艳妮太大的压力",
+        "onboard_time": 1696172740,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316928,
+        "num": 316928,
+        "word": "中国游客为何不想出境游了",
+        "onboard_time": 1696204527,
+        "rank": 19,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 832166,
+        "num": 315432,
+        "word": "人人人人人我人人人人人",
+        "onboard_time": 1696211011,
+        "rank": 20,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 310761,
+        "num": 310761,
+        "word": "没想到一箱猕猴桃同时熟了",
+        "onboard_time": 1696210533,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 298521,
+        "num": 298521,
+        "word": "沈腾给范丞丞擦嘴把妆卸了",
+        "onboard_time": 1696204346,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273119,
+        "num": 273119,
+        "word": "吴艳妮成绩被取消",
+        "onboard_time": 1696168425,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249569,
+        "num": 249569,
+        "word": "为什么坐地铁都喜欢坐边上",
+        "onboard_time": 1696210589,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247790,
+        "num": 247790,
+        "word": "田嘉瑞新造型",
+        "onboard_time": 1696208370,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245055,
+        "num": 245055,
+        "word": "失笑开机",
+        "onboard_time": 1696213651,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241123,
+        "num": 241123,
+        "word": "抠鼻子掏耳朵有感染丹毒的风险",
+        "onboard_time": 1696205849,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222885,
+        "num": 222885,
+        "word": "尚雯婕最终信仰十年前后变化",
+        "onboard_time": 1696213472,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209198,
+        "num": 209198,
+        "word": "宫脇咲良大屏",
+        "onboard_time": 1696211189,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495396,
+        "num": 209146,
+        "word": "港媒曝郑少秋大女儿在美去世",
+        "onboard_time": 1696168966,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445459,
+        "num": 208954,
+        "word": "金星评价坚如磐石",
+        "onboard_time": 1696213292,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208128,
+        "num": 208128,
+        "word": "SEVENTEEN新歌米奇妙妙屋既视感",
+        "onboard_time": 1696210288,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 208052,
+        "num": 208052,
+        "word": "薛之谦回应滁州演唱会特殊观众",
+        "onboard_time": 1696213651,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203085,
+        "num": 203085,
+        "word": "世界上最幸运的冠军",
+        "onboard_time": 1696212515,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200929,
+        "num": 200929,
+        "word": "雷佳音于和伟清唱海阔天空",
+        "onboard_time": 1696212691,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195985,
+        "num": 195985,
+        "word": "汪顺拿着一叠金牌逗观众",
+        "onboard_time": 1696213772,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191898,
+        "num": 191898,
+        "word": "让韩国人又爱又恨的中国美食",
+        "onboard_time": 1696203986,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181841,
+        "num": 181841,
+        "word": "开拓者赢麻了",
+        "onboard_time": 1696208852,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181571,
+        "num": 181571,
+        "word": "公公嬷嬷这对词语是谁起的",
+        "onboard_time": 1696211914,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181257,
+        "num": 181257,
+        "word": "尹势银 日剧女主",
+        "onboard_time": 1696210831,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180621,
+        "num": 180621,
+        "word": "工作三年后身边的人变化真的大",
+        "onboard_time": 1696202182,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 174925,
+        "num": 174925,
+        "word": "菩提祖师才是孙悟空唯一的师父",
+        "onboard_time": 1696201342,
+        "rank": 42,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 170401,
+        "num": 170401,
+        "word": "周思成",
+        "onboard_time": 1696205789,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 163129,
+        "num": 163129,
+        "word": "志愿军电影如果让美国来拍",
+        "onboard_time": 1696212515,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157642,
+        "num": 157642,
+        "word": "警方通报网传宝马司机因吐痰引冲突被杀",
+        "onboard_time": 1696202363,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144510,
+        "num": 152736,
+        "word": "中国马术亚运历史首金",
+        "onboard_time": 1696214071,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145952,
+        "num": 145952,
+        "word": "张俪当摄影师比主角还抢镜",
+        "onboard_time": 1696213831,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142446,
+        "num": 142446,
+        "word": "张博文回应夺金牌却不知",
+        "onboard_time": 1696208852,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138886,
+        "num": 138886,
+        "word": "孙艺洲 炫了三个兔头也没想明白",
+        "onboard_time": 1696177531,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一种骄傲叫我爱你中国#"
+    }
+  }
+}
