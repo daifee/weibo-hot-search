@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/03 01:34:15
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/03 02:22:35
 </p>
 </blockquote>
 <p>
@@ -3585,6 +3585,12 @@ Twins要出新歌了（热度：206757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%88%B9%E6%AD%BB%E5%92%8C%E7%82%B9%E5%88%B9%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
+小狗刹死和点刹的区别（热度：179389）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E5%BF%97%E5%B8%8C%E7%94%B3%E8%A3%95%E6%96%8C%E5%93%AD%E4%BA%86%23" target="weibo">
 田志希申裕斌哭了（热度：179169）
 </a>
@@ -3911,12 +3917,6 @@ CCTV6国庆片单（热度：164981）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%80%9D%E8%BF%9C%E7%9A%84%E5%BC%9F%E5%BC%9F%E8%AF%B4%E6%88%91%E4%B8%8D%E8%83%BD%E6%AF%94%E5%88%AB%E4%BA%BA%E5%B7%AE%23" target="weibo">
 肖思远的弟弟说我不能比别人差（热度：152482）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%88%B9%E6%AD%BB%E5%92%8C%E7%82%B9%E5%88%B9%E7%9A%84%E5%8C%BA%E5%88%AB%23" target="weibo">
-小狗刹死和点刹的区别（热度：152242）
 </a>
 </li>
 
@@ -4427,6 +4427,12 @@ IVE专辑预告视频（热度：104512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%83%AD%E7%83%88%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%BA%A2%E6%98%AF%E6%88%91%E6%9C%80%E7%88%B1%E7%9A%84%E9%A2%9C%E8%89%B2%23" target="weibo">
 热烈的中国红是我最爱的颜色（热度：59837）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E5%9B%BD%E6%BD%AE%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+佛山国潮音乐节（热度：57063）
 </a>
 </li>
 

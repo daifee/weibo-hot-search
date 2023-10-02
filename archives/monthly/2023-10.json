@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696268055223,
+  "endTime": 1696270955576,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -4763,6 +4763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179389,
+      "num": 152242,
+      "word": "小狗刹死和点刹的区别",
+      "onboard_time": 1696265968,
+      "rank": 24,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 179169,
       "num": 179169,
       "word": "田志希申裕斌哭了",
@@ -5201,14 +5209,6 @@
       "onboard_time": 1696215632,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 152242,
-      "num": 152242,
-      "word": "小狗刹死和点刹的区别",
-      "onboard_time": 1696265968,
-      "rank": 24,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 151962,
@@ -5889,6 +5889,14 @@
       "onboard_time": 1696213531,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57063,
+      "num": 57063,
+      "word": "佛山国潮音乐节",
+      "onboard_time": 1696269019,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 55726,
