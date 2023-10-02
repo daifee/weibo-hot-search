@@ -1,21 +1,37 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696252889274,
+  "endTime": 1696253633325,
   "band_list": [
     {
-      "raw_hot": 15155553,
-      "num": 15155553,
+      "raw_hot": 16176625,
+      "num": 16176625,
       "word": "樊振东vs王楚钦",
       "onboard_time": 1696250199,
       "rank": 0,
       "category": "体育"
     },
     {
-      "raw_hot": 3315449,
-      "num": 3315449,
+      "raw_hot": 7350420,
+      "num": 7350420,
       "word": "王楚钦炸毛",
       "onboard_time": 1696238613,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6220888,
+      "num": 6220888,
+      "word": "王楚钦冠军",
+      "onboard_time": 1696253330,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5080250,
+      "num": 5080250,
+      "word": "樊振东3比4王楚钦",
+      "onboard_time": 1696253390,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -99,12 +115,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1760781,
+      "num": 1760781,
+      "word": "樊振东晚上减肥时点甜品",
+      "onboard_time": 1696224328,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1692050,
       "num": 1692050,
       "word": "苹果承认iPhone15系列运行温度过高",
       "onboard_time": 1696211430,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1618307,
+      "num": 1618307,
+      "word": "许昕解说 好笑",
+      "onboard_time": 1696249476,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 1618045,
@@ -171,6 +203,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 1359191,
+      "num": 1359191,
+      "word": "许昕 人民艺术家",
+      "onboard_time": 1696251519,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1343900,
       "num": 501365,
       "word": "外国人看见曾黎的反应",
@@ -179,19 +219,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1331856,
-      "num": 1331856,
-      "word": "许昕解说 好笑",
-      "onboard_time": 1696249476,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1272801,
       "num": 1272801,
       "word": "亚运会乒乓球男单决赛",
       "onboard_time": 1696247137,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1259579,
+      "num": 1259579,
+      "word": "樊振东晋级决赛",
+      "onboard_time": 1696230274,
+      "rank": 5,
       "category": "体育"
     },
     {
@@ -235,19 +275,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1066814,
-      "num": 1066814,
-      "word": "樊振东晚上减肥时点甜品",
-      "onboard_time": 1696224328,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1039687,
-      "num": 1039687,
-      "word": "许昕 人民艺术家",
-      "onboard_time": 1696251519,
-      "rank": 6,
+      "raw_hot": 1037264,
+      "num": 1037264,
+      "word": "樊振东王楚钦会师男单决赛",
+      "onboard_time": 1696234114,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -267,20 +299,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1010846,
+      "num": 1010846,
+      "word": "NEWJEANS李惠仁LV时装周造型",
+      "onboard_time": 1696252540,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1000947,
       "num": 1000947,
       "word": "樊振东王楚钦单打决赛放简单爱",
       "onboard_time": 1696248276,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 981758,
-      "num": 746130,
-      "word": "NEWJEANS李惠仁LV时装周造型",
-      "onboard_time": 1696252540,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 973851,
@@ -296,14 +328,6 @@
       "word": "林雨薇说没有吴艳妮她就跑不快",
       "onboard_time": 1696218515,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 911780,
-      "num": 911780,
-      "word": "樊振东晋级决赛",
-      "onboard_time": 1696230274,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -363,11 +387,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 848754,
-      "num": 848754,
-      "word": "樊振东王楚钦会师男单决赛",
-      "onboard_time": 1696234114,
-      "rank": 12,
+      "raw_hot": 846478,
+      "num": 846478,
+      "word": "男单 精彩",
+      "onboard_time": 1696252181,
+      "rank": 22,
       "category": "体育"
     },
     {
@@ -659,12 +683,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 554216,
-      "num": 554216,
+      "raw_hot": 560393,
+      "num": 560393,
       "word": "DOTA2决赛中国vs蒙古",
       "onboard_time": 1696243714,
       "rank": 23,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 546271,
+      "num": 546271,
+      "word": "亚运110米栏双金牌",
+      "onboard_time": 1696252851,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 546108,
@@ -713,6 +745,14 @@
       "onboard_time": 1696204346,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 513372,
+      "num": 513372,
+      "word": "莎头卫冕",
+      "onboard_time": 1696083822,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 512979,
@@ -792,6 +832,14 @@
       "word": "乒乓球比赛现场喔声一片",
       "onboard_time": 1696206569,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 473582,
+      "num": 473582,
+      "word": "许昕让王楚钦长点脂肪",
+      "onboard_time": 1696252119,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -875,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 408757,
+      "num": 408757,
+      "word": "高菡解说",
+      "onboard_time": 1696252972,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 405923,
       "num": 388115,
       "word": "成毅 人生嘛睡一觉就好了",
@@ -888,14 +944,6 @@
       "word": "华天这枚金牌等了9年",
       "onboard_time": 1696214372,
       "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 398803,
-      "num": 398803,
-      "word": "男单 精彩",
-      "onboard_time": 1696252181,
-      "rank": 22,
       "category": "体育"
     },
     {
@@ -995,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368195,
+      "num": 368195,
+      "word": "37岁当奶奶是种什么体验",
+      "onboard_time": 1696249179,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 365593,
       "num": 365593,
       "word": "林双刷卫明卡请前公婆住高档酒店",
@@ -1009,22 +1065,6 @@
       "onboard_time": 1696235914,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 355508,
-      "num": 258682,
-      "word": "许昕让王楚钦长点脂肪",
-      "onboard_time": 1696252119,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 354488,
-      "num": 354488,
-      "word": "37岁当奶奶是种什么体验",
-      "onboard_time": 1696249179,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 352216,
@@ -1099,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325915,
+      "num": 325915,
+      "word": "曾黎衬衫里穿的是泳衣",
+      "onboard_time": 1696252791,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323864,
       "num": 323864,
       "word": "我的小鸡为什么在喊卡巴迪",
@@ -1147,6 +1195,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 306792,
+      "num": 306792,
+      "word": "王楚钦你为什么要在杭州剪头发",
+      "onboard_time": 1696253446,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305446,
       "num": 305446,
       "word": "邓亚萍 男双真是稳稳的幸福",
@@ -1161,6 +1217,14 @@
       "onboard_time": 1696247015,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303926,
+      "num": 303926,
+      "word": "黄旭东 毒奶",
+      "onboard_time": 1696250677,
+      "rank": 34,
+      "category": "游戏,体育"
     },
     {
       "raw_hot": 301755,
@@ -1201,14 +1265,6 @@
       "onboard_time": 1696218333,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 295023,
-      "num": 295023,
-      "word": "黄旭东 毒奶",
-      "onboard_time": 1696250677,
-      "rank": 34,
-      "category": "游戏,体育"
     },
     {
       "raw_hot": 294409,
@@ -1579,14 +1635,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 226749,
-      "num": 226749,
-      "word": "亚运110米栏双金牌",
-      "onboard_time": 1696252851,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 226134,
       "num": 200935,
       "word": "云南跟团游我们经历了什么",
@@ -1659,12 +1707,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 218570,
+      "num": 218570,
+      "word": "长得丑但很温柔的狗狗",
+      "onboard_time": 1696252239,
+      "rank": 42,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 218428,
       "num": 218428,
       "word": "国庆假期专属传统色太美了",
       "onboard_time": 1696235373,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216486,
+      "num": 216486,
+      "word": "陈绮贞陈粒合作舞台",
+      "onboard_time": 1696252791,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 215335,
@@ -1883,14 +1947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189957,
-      "num": 189957,
-      "word": "长得丑但很温柔的狗狗",
-      "onboard_time": 1696252239,
-      "rank": 42,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 189598,
       "num": 189598,
       "word": "周深灯火里的中国万人合唱",
@@ -1945,14 +2001,6 @@
       "onboard_time": 1696241374,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184810,
-      "num": 184810,
-      "word": "曾黎衬衫里穿的是泳衣",
-      "onboard_time": 1696252791,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 183657,
@@ -2121,14 +2169,6 @@
       "onboard_time": 1696209515,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 159105,
-      "num": 159105,
-      "word": "陈绮贞陈粒合作舞台",
-      "onboard_time": 1696252791,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 158511,
@@ -2587,6 +2627,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 43220,
+      "num": 3975967,
+      "word": "潮涌杭州看亚运",
+      "onboard_time": 1696252062,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 36583,
       "num": 36583,
       "word": "加油杭州亚运会",
@@ -2609,14 +2657,6 @@
       "onboard_time": 1696230032,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 29073,
-      "num": 2251463,
-      "word": "潮涌杭州看亚运",
-      "onboard_time": 1696252062,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 27287,
