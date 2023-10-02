@@ -1,0 +1,410 @@
+{
+  "runTime": 1696210374409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2377314,
+        "num": 2377314,
+        "word": "吴艳妮抢跑后为何还能继续比赛",
+        "onboard_time": 1696202363,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1483564,
+        "num": 1483564,
+        "word": "林雨薇赛后谈吴艳妮抢跑",
+        "onboard_time": 1696202363,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20341,
+        "num": 1164014,
+        "word": "有一种自豪叫中国",
+        "onboard_time": 1696119808,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1157154,
+        "num": 1157154,
+        "word": "吴艳妮回应抢跑",
+        "onboard_time": 1696171421,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 840705,
+        "num": 840705,
+        "word": "童瑶替顾佳看到了睡莲真迹",
+        "onboard_time": 1696207950,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 823671,
+        "num": 823671,
+        "word": "我的i人同事竟然是行走的50万",
+        "onboard_time": 1696202724,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 603483,
+        "num": 603483,
+        "word": "不要给吴艳妮太大的压力",
+        "onboard_time": 1696172740,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552864,
+        "num": 552864,
+        "word": "吴艳妮抢跑",
+        "onboard_time": 1696166799,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515290,
+        "num": 515290,
+        "word": "沈腾给范丞丞擦嘴把妆卸了",
+        "onboard_time": 1696204346,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499850,
+        "num": 499850,
+        "word": "不需要修图师的女人",
+        "onboard_time": 1696205309,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487130,
+        "num": 487130,
+        "word": "台湾奶茶的价格",
+        "onboard_time": 1696203325,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 469889,
+        "num": 469889,
+        "word": "周思成",
+        "onboard_time": 1696205789,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 425809,
+        "num": 465749,
+        "word": "乒乓球比赛现场喔声一片",
+        "onboard_time": 1696206569,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261622,
+        "num": 463390,
+        "word": "升中国国旗是亚运健儿对祖国的告白",
+        "onboard_time": 1696208611,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151552,
+        "num": 463190,
+        "word": "林雨薇100米栏金牌",
+        "onboard_time": 1696167283,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463153,
+        "num": 463153,
+        "word": "黄轩性张力",
+        "onboard_time": 1696208972,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 451894,
+        "num": 451894,
+        "word": "菩提祖师才是孙悟空唯一的师父",
+        "onboard_time": 1696201342,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 428279,
+        "num": 428279,
+        "word": "中国游客为何不想出境游了",
+        "onboard_time": 1696204527,
+        "rank": 17,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 354337,
+        "num": 354337,
+        "word": "吴艳妮成绩被取消",
+        "onboard_time": 1696168425,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300853,
+        "num": 300853,
+        "word": "田嘉瑞新造型",
+        "onboard_time": 1696208370,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 640318,
+        "num": 295751,
+        "word": "抠鼻子掏耳朵有感染丹毒的风险",
+        "onboard_time": 1696205849,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 290387,
+        "num": 290387,
+        "word": "让韩国人又爱又恨的中国美食",
+        "onboard_time": 1696203986,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 275198,
+        "num": 275198,
+        "word": "一盒月饼下去办公室无人生还",
+        "onboard_time": 1696167108,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 271347,
+        "num": 271347,
+        "word": "开拓者赢麻了",
+        "onboard_time": 1696208852,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263209,
+        "num": 263209,
+        "word": "珠帘玉幕要官宣了",
+        "onboard_time": 1696205309,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231651,
+        "num": 231651,
+        "word": "警方通报网传宝马司机因吐痰引冲突被杀",
+        "onboard_time": 1696202363,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221301,
+        "num": 221301,
+        "word": "工作三年后身边的人变化真的大",
+        "onboard_time": 1696202182,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 215335,
+        "num": 215335,
+        "word": "李雪琴 唯有挣钱使我快乐",
+        "onboard_time": 1696206028,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185957,
+        "num": 185957,
+        "word": "熊猫宝宝连生气都散发着可爱",
+        "onboard_time": 1696206448,
+        "rank": 28,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 171060,
+        "num": 171060,
+        "word": "杨紫AndrewGarfield合影",
+        "onboard_time": 1696174235,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 764272,
+        "num": 170857,
+        "word": "港媒曝郑少秋大女儿在美去世",
+        "onboard_time": 1696168966,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 279533,
+        "num": 170246,
+        "word": "张博文回应夺金牌却不知",
+        "onboard_time": 1696208852,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169097,
+        "num": 169097,
+        "word": "孙女整理爷爷遗物发现备好的嫁妆",
+        "onboard_time": 1696173278,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163397,
+        "num": 163397,
+        "word": "宋佳全度妍巴黎秀场热聊",
+        "onboard_time": 1696206990,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161465,
+        "num": 161465,
+        "word": "泰山成了一座青春之山",
+        "onboard_time": 1696209515,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160364,
+        "num": 160364,
+        "word": "林双公婆攀高枝被扫地出门",
+        "onboard_time": 1696202481,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153863,
+        "num": 153863,
+        "word": "黄嘉仪怀孕",
+        "onboard_time": 1696174179,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153858,
+        "num": 153858,
+        "word": "孙艺洲 炫了三个兔头也没想明白",
+        "onboard_time": 1696177531,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153025,
+        "num": 153025,
+        "word": "男子抽烟致高铁降速反怼民警",
+        "onboard_time": 1696193415,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151700,
+        "num": 151700,
+        "word": "互相都以为是对方婚礼传统习俗",
+        "onboard_time": 1696175254,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 148354,
+        "num": 148354,
+        "word": "射击运动员不知已夺冠准备打下一枪",
+        "onboard_time": 1696204107,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144472,
+        "num": 144472,
+        "word": "小狗气呼呼的把被窝搬出去",
+        "onboard_time": 1696175194,
+        "rank": 41,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 143021,
+        "num": 143021,
+        "word": "范丞丞回复王安宇",
+        "onboard_time": 1696202904,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139586,
+        "num": 139586,
+        "word": "用来垫锅几年了才发现是成毅",
+        "onboard_time": 1696165900,
+        "rank": 43,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 130884,
+        "num": 130884,
+        "word": "沈腾神翻译",
+        "onboard_time": 1696210112,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129534,
+        "num": 129534,
+        "word": "云南跟团游我们经历了什么",
+        "onboard_time": 1696202063,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 127938,
+        "num": 127938,
+        "word": "冠军没有应该",
+        "onboard_time": 1696205187,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127013,
+        "num": 127013,
+        "word": "魏大勋新剧在梦里下线了",
+        "onboard_time": 1696207834,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124762,
+        "num": 124762,
+        "word": "SEVENTEEN新歌米奇妙妙屋既视感",
+        "onboard_time": 1696210288,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119014,
+        "num": 119014,
+        "word": "吉克隽逸半米长龙须辫",
+        "onboard_time": 1696210169,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#今天之中国我为你骄傲#"
+    }
+  }
+}

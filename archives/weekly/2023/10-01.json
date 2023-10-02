@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696209152672,
+  "endTime": 1696210374409,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -123,8 +123,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2323821,
-      "num": 2323821,
+      "raw_hot": 2377314,
+      "num": 2377314,
       "word": "吴艳妮抢跑后为何还能继续比赛",
       "onboard_time": 1696202363,
       "rank": 32,
@@ -291,6 +291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1483564,
+      "num": 1483564,
+      "word": "林雨薇赛后谈吴艳妮抢跑",
+      "onboard_time": 1696202363,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1474068,
       "num": 1474068,
       "word": "易烊千玺也去看了坚如磐石",
@@ -345,14 +353,6 @@
       "onboard_time": 1696156058,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1361965,
-      "num": 1361965,
-      "word": "林雨薇赛后谈吴艳妮抢跑",
-      "onboard_time": 1696202363,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 1344187,
@@ -539,12 +539,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 840705,
+      "num": 840705,
+      "word": "童瑶替顾佳看到了睡莲真迹",
+      "onboard_time": 1696207950,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 834648,
       "num": 834648,
       "word": "王曼昱分析输球原因",
       "onboard_time": 1696136373,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 823671,
+      "num": 823671,
+      "word": "我的i人同事竟然是行走的50万",
+      "onboard_time": 1696202724,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 821088,
@@ -859,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 569296,
-      "num": 569296,
-      "word": "我的i人同事竟然是行走的50万",
-      "onboard_time": 1696202724,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 568402,
       "num": 568402,
       "word": "国羽女团vs韩国",
@@ -955,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 515290,
+      "num": 515290,
+      "word": "沈腾给范丞丞擦嘴把妆卸了",
+      "onboard_time": 1696204346,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 512979,
       "num": 512979,
       "word": "孙艺洲 炫了三个兔头也没想明白",
@@ -971,14 +987,6 @@
       "category": "情感,艺人"
     },
     {
-      "raw_hot": 508540,
-      "num": 508540,
-      "word": "沈腾给范丞丞擦嘴把妆卸了",
-      "onboard_time": 1696204346,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 506419,
       "num": 221242,
       "word": "男子抽烟致高铁降速反怼民警",
@@ -993,6 +1001,14 @@
       "onboard_time": 1696155393,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499850,
+      "num": 499850,
+      "word": "不需要修图师的女人",
+      "onboard_time": 1696205309,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 499180,
@@ -1020,7 +1036,7 @@
     },
     {
       "raw_hot": 488755,
-      "num": 460337,
+      "num": 469889,
       "word": "周思成",
       "onboard_time": 1696205789,
       "rank": 10,
@@ -1131,6 +1147,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 463153,
+      "num": 463153,
+      "word": "黄轩性张力",
+      "onboard_time": 1696208972,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 462211,
       "num": 462211,
       "word": "海珠广场",
@@ -1225,22 +1249,6 @@
       "onboard_time": 1696163856,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 427244,
-      "num": 427244,
-      "word": "童瑶替顾佳看到了睡莲真迹",
-      "onboard_time": 1696207950,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 422368,
-      "num": 422368,
-      "word": "不需要修图师的女人",
-      "onboard_time": 1696205309,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 422243,
@@ -1715,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300853,
+      "num": 300853,
+      "word": "田嘉瑞新造型",
+      "onboard_time": 1696208370,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 300130,
       "num": 300130,
       "word": "是怎么说服黄景瑜王子奇拍的",
@@ -1795,14 +1811,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285693,
-      "num": 285693,
-      "word": "田嘉瑞新造型",
-      "onboard_time": 1696208370,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 283680,
       "num": 283680,
       "word": "喜欢吃月饼和白粥的都沉默了",
@@ -1824,6 +1832,14 @@
       "word": "以为看的是单人跳水",
       "onboard_time": 1696084060,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 279533,
+      "num": 170246,
+      "word": "张博文回应夺金牌却不知",
+      "onboard_time": 1696208852,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1931,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271347,
+      "num": 271347,
+      "word": "开拓者赢麻了",
+      "onboard_time": 1696208852,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270836,
       "num": 270836,
       "word": "大熊猫吃重庆火锅游客也想炫两口",
@@ -1961,6 +1985,14 @@
       "onboard_time": 1696117645,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261622,
+      "num": 463390,
+      "word": "升中国国旗是亚运健儿对祖国的告白",
+      "onboard_time": 1696208611,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 261252,
@@ -2387,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215335,
+      "num": 215335,
+      "word": "李雪琴 唯有挣钱使我快乐",
+      "onboard_time": 1696206028,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214557,
       "num": 214557,
       "word": "射击运动员不知已夺冠准备打下一枪",
@@ -2425,14 +2465,6 @@
       "onboard_time": 1696123174,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212630,
-      "num": 212630,
-      "word": "李雪琴 唯有挣钱使我快乐",
-      "onboard_time": 1696206028,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 210788,
@@ -2723,6 +2755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185957,
+      "num": 185957,
+      "word": "熊猫宝宝连生气都散发着可爱",
+      "onboard_time": 1696206448,
+      "rank": 34,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 185640,
       "num": 185640,
       "word": "十月",
@@ -2859,28 +2899,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 177916,
-      "num": 177916,
-      "word": "黄轩性张力",
-      "onboard_time": 1696208972,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 177594,
       "num": 177594,
       "word": "郑恺潜伏在影院看前任4",
       "onboard_time": 1696176453,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177447,
-      "num": 177447,
-      "word": "熊猫宝宝连生气都散发着可爱",
-      "onboard_time": 1696206448,
-      "rank": 34,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 176883,
@@ -2936,14 +2960,6 @@
       "word": "郑钦文说不会原谅前教练",
       "onboard_time": 1696146094,
       "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 171642,
-      "num": 171642,
-      "word": "开拓者赢麻了",
-      "onboard_time": 1696208852,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -3059,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161465,
+      "num": 161465,
+      "word": "泰山成了一座青春之山",
+      "onboard_time": 1696209515,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 161053,
       "num": 161053,
       "word": "80岁退伍老兵忘了很多事却坚持升国旗",
@@ -3104,14 +3128,6 @@
       "word": "葛曼棋女子100米夺金",
       "onboard_time": 1696082381,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158832,
-      "num": 158832,
-      "word": "张博文回应夺金牌却不知",
-      "onboard_time": 1696208852,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -3169,14 +3185,6 @@
       "onboard_time": 1696207834,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152245,
-      "num": 242805,
-      "word": "升中国国旗是亚运健儿对祖国的告白",
-      "onboard_time": 1696208611,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 151962,
@@ -3259,6 +3267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143021,
+      "num": 143021,
+      "word": "范丞丞回复王安宇",
+      "onboard_time": 1696202904,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142933,
       "num": 142933,
       "word": "2023成都国庆升旗仪式",
@@ -3299,14 +3315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138155,
-      "num": 138155,
-      "word": "范丞丞回复王安宇",
-      "onboard_time": 1696202904,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 134638,
       "num": 595282,
       "word": "白裤瑶孩子们合唱我和我的祖国",
@@ -3337,6 +3345,14 @@
       "onboard_time": 1696154254,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 130884,
+      "num": 130884,
+      "word": "沈腾神翻译",
+      "onboard_time": 1696210112,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 129319,
@@ -3387,6 +3403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124762,
+      "num": 124762,
+      "word": "SEVENTEEN新歌米奇妙妙屋既视感",
+      "onboard_time": 1696210288,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123548,
       "num": 123548,
       "word": "央视新闻里的吉克隽逸",
@@ -3433,6 +3457,14 @@
       "onboard_time": 1696146873,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119014,
+      "num": 119014,
+      "word": "吉克隽逸半米长龙须辫",
+      "onboard_time": 1696210169,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 118078,
