@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696232060279,
+  "endTime": 1696234921931,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -152,6 +152,14 @@
       "word": "吴艳妮回应抢跑",
       "onboard_time": 1696171421,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2172490,
+      "num": 2172490,
+      "word": "王楚钦晋级决赛",
+      "onboard_time": 1696233577,
+      "rank": 0,
       "category": "体育"
     },
     {
@@ -643,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 871704,
+      "num": 871704,
+      "word": "王皓",
+      "onboard_time": 1696231355,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 863453,
       "num": 863453,
       "word": "雷佳音竟然比孙艺洲小一岁",
@@ -705,6 +721,14 @@
       "onboard_time": 1696136373,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 827144,
+      "num": 827144,
+      "word": "妈妈坚持让女子婚礼随2千",
+      "onboard_time": 1696232974,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 823671,
@@ -793,6 +817,14 @@
       "onboard_time": 1696138293,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 733060,
+      "num": 733060,
+      "word": "王楚钦4比2黄镇廷",
+      "onboard_time": 1696233577,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 718488,
@@ -1171,6 +1203,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 558391,
+      "num": 558391,
+      "word": "樊振东王楚钦会师男单决赛",
+      "onboard_time": 1696234114,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 546108,
       "num": 546108,
       "word": "我们的歌给我5宣传片",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1696222469,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 507418,
+      "num": 507418,
+      "word": "巴黎偶遇周冬雨马思纯",
+      "onboard_time": 1696231414,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 506419,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1696168730,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469060,
+      "num": 469060,
+      "word": "夜色尚浅真的不是在谈吗",
+      "onboard_time": 1696233033,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 468511,
@@ -1675,14 +1731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 395315,
-      "num": 395315,
-      "word": "王皓",
-      "onboard_time": 1696231355,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 393632,
       "num": 393632,
       "word": "男足",
@@ -1907,12 +1955,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 352009,
-      "num": 352009,
-      "word": "巴黎偶遇周冬雨马思纯",
-      "onboard_time": 1696231414,
-      "rank": 25,
-      "category": "作品衍生"
+      "raw_hot": 352216,
+      "num": 316772,
+      "word": "男生景区实名承认背不出滕王阁序",
+      "onboard_time": 1696231595,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351490,
@@ -2272,14 +2320,6 @@
       "word": "警方通报网传宝马司机因吐痰引冲突被杀",
       "onboard_time": 1696202363,
       "rank": 19,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 294040,
-      "num": 294040,
-      "word": "男生景区实名承认背不出滕王阁序",
-      "onboard_time": 1696231595,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -3331,6 +3371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200269,
+      "num": 200269,
+      "word": "珠帘玉幕导演拍的神级镜头",
+      "onboard_time": 1696232614,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199577,
       "num": 199577,
       "word": "侯明昊的造型缘",
@@ -3531,6 +3579,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 187243,
+      "num": 187243,
+      "word": "西双版纳现菌盖状七彩祥云",
+      "onboard_time": 1696234714,
+      "rank": 32,
+      "category": "旅游,自然"
+    },
+    {
       "raw_hot": 187136,
       "num": 396194,
       "word": "告诉老将军现在他们要踮着脚看我们了",
@@ -3683,6 +3739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180450,
+      "num": 180450,
+      "word": "坐着高铁去结婚",
+      "onboard_time": 1696228294,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179860,
       "num": 179860,
       "word": "武功山回应捡瓶子可兑换特种兵奖牌",
@@ -3825,14 +3889,6 @@
       "onboard_time": 1696220971,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 169525,
-      "num": 169525,
-      "word": "坐着高铁去结婚",
-      "onboard_time": 1696228294,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168852,
@@ -4075,6 +4131,14 @@
       "category": "军事,社会新闻"
     },
     {
+      "raw_hot": 154319,
+      "num": 154319,
+      "word": "梁洁的耳后发造型",
+      "onboard_time": 1696232133,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154204,
       "num": 154204,
       "word": "魏大勋新剧在梦里下线了",
@@ -4209,6 +4273,14 @@
       "onboard_time": 1696114881,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140126,
+      "num": 140126,
+      "word": "哎呀好身材5官宣定档",
+      "onboard_time": 1696233757,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 140068,
@@ -4743,6 +4815,14 @@
       "num": 183173,
       "word": "上海超级杯看点",
       "onboard_time": 1696148618,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 12240,
+      "num": 151073,
+      "word": "短道速滑队亮相上海超级杯",
+      "onboard_time": 1696233634,
       "rank": 39,
       "category": "体育"
     }
