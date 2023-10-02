@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696277901491,
+  "endTime": 1696278867662,
   "band_list": [
     {
       "raw_hot": 2595600,
@@ -411,12 +411,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 83513,
+      "raw_hot": 84745,
       "num": 46856,
       "word": "大叔脱掉儿子衣服求叶诗文签字",
       "onboard_time": 1696273157,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75417,
+      "num": 43549,
+      "word": "低成本娃娃玩具生产流水线",
+      "onboard_time": 1696273217,
+      "rank": 31,
+      "category": "其它"
     },
     {
       "raw_hot": 72454,
@@ -425,14 +433,6 @@
       "onboard_time": 1696254404,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71357,
-      "num": 42064,
-      "word": "低成本娃娃玩具生产流水线",
-      "onboard_time": 1696273217,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 57063,
@@ -459,8 +459,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15847,
-      "num": 15847,
+      "raw_hot": 19606,
+      "num": 19606,
       "word": "李泽锋角色无法拒绝的诱惑",
       "onboard_time": 1696277474,
       "rank": 48,

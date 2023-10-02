@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696277901491,
+  "endTime": 1696278867662,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5795,7 +5795,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 83513,
+      "raw_hot": 84745,
       "num": 46856,
       "word": "大叔脱掉儿子衣服求叶诗文签字",
       "onboard_time": 1696273157,
@@ -5843,20 +5843,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75417,
+      "num": 43549,
+      "word": "低成本娃娃玩具生产流水线",
+      "onboard_time": 1696273217,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
       "raw_hot": 73547,
       "num": 73547,
       "word": "迷笛",
       "onboard_time": 1696096101,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71357,
-      "num": 42064,
-      "word": "低成本娃娃玩具生产流水线",
-      "onboard_time": 1696273217,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 70466,
@@ -6035,6 +6035,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 19606,
+      "num": 19606,
+      "word": "李泽锋角色无法拒绝的诱惑",
+      "onboard_time": 1696277474,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18957,
       "num": 588448,
       "word": "盛世中华 大美中国",
@@ -6049,14 +6057,6 @@
       "onboard_time": 1696237233,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15847,
-      "num": 15847,
-      "word": "李泽锋角色无法拒绝的诱惑",
-      "onboard_time": 1696277474,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 13909,
