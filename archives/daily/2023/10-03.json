@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696282443009,
+  "endTime": 1696284953209,
   "band_list": [
     {
       "raw_hot": 2595600,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104453,
+      "num": 83749,
+      "word": "大叔脱掉儿子衣服求叶诗文签字",
+      "onboard_time": 1696273157,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90646,
       "num": 90646,
       "word": "黄轩问为什么都叫我漂亮小狗",
@@ -411,16 +419,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 84745,
-      "num": 46856,
-      "word": "大叔脱掉儿子衣服求叶诗文签字",
-      "onboard_time": 1696273157,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75417,
-      "num": 43659,
+      "num": 61091,
       "word": "低成本娃娃玩具生产流水线",
       "onboard_time": 1696273217,
       "rank": 31,
@@ -441,6 +441,14 @@
       "onboard_time": 1696269019,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 42496,
+      "num": 42496,
+      "word": "女子手持甩棍殴打女外卖员后逃跑",
+      "onboard_time": 1696283114,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 33392,
@@ -467,20 +475,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20421,
-      "num": 20421,
+      "raw_hot": 25336,
+      "num": 25336,
       "word": "好事成双",
       "onboard_time": 1696280535,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 17086,
-      "num": 44024,
+      "raw_hot": 19979,
+      "num": 79606,
       "word": "杭州亚运会隐藏彩蛋",
       "onboard_time": 1696280416,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 16708,
+      "num": 23246,
+      "word": "傅云深朱旧除夕夜分手",
+      "onboard_time": 1696284736,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
@@ -489,6 +505,9 @@
     },
     {
       "word": "#传承弘扬爱国奋斗精神#"
+    },
+    {
+      "word": "#饮水思源莫忘来时路#"
     }
   ]
 }

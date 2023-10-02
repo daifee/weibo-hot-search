@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696282443009,
+  "endTime": 1696284953209,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5707,6 +5707,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 104453,
+      "num": 83749,
+      "word": "大叔脱掉儿子衣服求叶诗文签字",
+      "onboard_time": 1696273157,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100827,
       "num": 100827,
       "word": "金智秀裴斗娜一同出街",
@@ -5795,14 +5803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84745,
-      "num": 46856,
-      "word": "大叔脱掉儿子衣服求叶诗文签字",
-      "onboard_time": 1696273157,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83075,
       "num": 1073356,
       "word": "上下五千年一笔一画写中国",
@@ -5844,7 +5844,7 @@
     },
     {
       "raw_hot": 75417,
-      "num": 43659,
+      "num": 61091,
       "word": "低成本娃娃玩具生产流水线",
       "onboard_time": 1696273217,
       "rank": 31,
@@ -5963,6 +5963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 42496,
+      "num": 42496,
+      "word": "女子手持甩棍殴打女外卖员后逃跑",
+      "onboard_time": 1696283114,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36583,
       "num": 36583,
       "word": "加油杭州亚运会",
@@ -6027,6 +6035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25336,
+      "num": 25336,
+      "word": "好事成双",
+      "onboard_time": 1696280535,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24438,
       "num": 519780,
       "word": "iQOO手机见证中国电竞冲金时刻",
@@ -6035,20 +6051,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 20421,
-      "num": 20421,
-      "word": "好事成双",
-      "onboard_time": 1696280535,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 19990,
       "num": 19990,
       "word": "和平精英项目",
       "onboard_time": 1696161035,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19979,
+      "num": 79606,
+      "word": "杭州亚运会隐藏彩蛋",
+      "onboard_time": 1696280416,
+      "rank": 14,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 18957,
@@ -6067,12 +6083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17086,
-      "num": 44024,
-      "word": "杭州亚运会隐藏彩蛋",
-      "onboard_time": 1696280416,
-      "rank": 14,
-      "category": "体育,社会新闻"
+      "raw_hot": 16708,
+      "num": 23246,
+      "word": "傅云深朱旧除夕夜分手",
+      "onboard_time": 1696284736,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 13909,
