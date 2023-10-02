@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/03 00:21:31 ~ 2023/10/03 02:22:35
+本榜单时间：2023/10/03 00:21:31 ~ 2023/10/03 02:35:43
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@ NEWJEANS李惠仁LV时装周造型（热度：145559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E8%AF%97%E9%BA%92%E5%A5%B3%E5%AD%90%E8%B7%B3%E8%BF%9C%E6%91%98%E9%87%91%23" target="weibo">
 熊诗麒女子跳远摘金（热度：33392）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232023%E5%9B%BD%E5%BA%86%E6%A1%A3%E6%96%B0%E7%89%87%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B415%E4%BA%BF%23" target="weibo">
+2023国庆档新片总票房破15亿（热度：32173）
 </a>
 </li>
 
