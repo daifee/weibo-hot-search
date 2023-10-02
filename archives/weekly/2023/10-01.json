@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696221280900,
+  "endTime": 1696223759670,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2082256,
+      "num": 2082256,
+      "word": "丞磊卢昱晓澳门芭莎大片",
+      "onboard_time": 1696220251,
+      "rank": 4,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 2034170,
       "num": 2034170,
       "word": "中国队决赛不藏了",
@@ -201,14 +209,6 @@
       "onboard_time": 1696167283,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1830690,
-      "num": 1830690,
-      "word": "丞磊卢昱晓澳门芭莎大片",
-      "onboard_time": 1696220251,
-      "rank": 4,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1781077,
@@ -636,7 +636,7 @@
     },
     {
       "raw_hot": 832166,
-      "num": 410584,
+      "num": 609730,
       "word": "人人人人人我人人人人人",
       "onboard_time": 1696211011,
       "rank": 20,
@@ -721,6 +721,14 @@
       "onboard_time": 1696138293,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 718681,
+      "num": 486264,
+      "word": "孙颖莎逆转马龙王濛ie分明",
+      "onboard_time": 1696221633,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 718488,
@@ -888,6 +896,14 @@
       "word": "林雨薇夺冠后哭着感谢爸爸",
       "onboard_time": 1696215211,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 635617,
+      "num": 635617,
+      "word": "孙颖莎赛后称早田希娜很出色",
+      "onboard_time": 1696221092,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1155,20 +1171,20 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 508848,
+      "num": 508848,
+      "word": "前任4冷知识 戒烟会长胖",
+      "onboard_time": 1696222469,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506419,
       "num": 221242,
       "word": "男子抽烟致高铁降速反怼民警",
       "onboard_time": 1696193415,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503720,
-      "num": 503720,
-      "word": "孙颖莎赛后称早田希娜很出色",
-      "onboard_time": 1696221092,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 499884,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1696146692,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 488176,
+      "num": 488176,
+      "word": "夜色尚浅",
+      "onboard_time": 1696220612,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 481951,
@@ -1337,14 +1361,6 @@
       "onboard_time": 1696163616,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 461390,
-      "num": 461390,
-      "word": "夜色尚浅",
-      "onboard_time": 1696220612,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 451340,
@@ -1467,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412245,
+      "num": 412245,
+      "word": "比顶楼还气人的韩剧出现了",
+      "onboard_time": 1696223190,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 406461,
       "num": 337787,
       "word": "韩国牙科医生吃糖葫芦的感受",
@@ -1497,6 +1521,22 @@
       "onboard_time": 1696214372,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398316,
+      "num": 267713,
+      "word": "6岁女儿每月可随意逃学一天",
+      "onboard_time": 1696222833,
+      "rank": 30,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 397311,
+      "num": 397311,
+      "word": "于文文的何必后劲太大了",
+      "onboard_time": 1696220971,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 396180,
@@ -1531,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390013,
+      "num": 390013,
+      "word": "朱琳因身体原因退赛",
+      "onboard_time": 1696221871,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 386733,
       "num": 386733,
       "word": "不会剥石榴的人有福了",
@@ -1553,6 +1601,14 @@
       "onboard_time": 1696117827,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383111,
+      "num": 383111,
+      "word": "樊振东冲击亚运第三金",
+      "onboard_time": 1696223070,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 382341,
@@ -1691,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351490,
+      "num": 351490,
+      "word": "警方通报中秋节公公收礼事件",
+      "onboard_time": 1696222172,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351076,
       "num": 314735,
       "word": "没想到一箱猕猴桃同时熟了",
@@ -1721,14 +1785,6 @@
       "onboard_time": 1696130435,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 346264,
-      "num": 346264,
-      "word": "于文文的何必后劲太大了",
-      "onboard_time": 1696220971,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 345908,
@@ -2243,6 +2299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268341,
+      "num": 268341,
+      "word": "流川枫 流鼻血",
+      "onboard_time": 1696221750,
+      "rank": 28,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 265951,
       "num": 265951,
       "word": "韩媒抹黑国足亚运队",
@@ -2265,6 +2329,14 @@
       "onboard_time": 1696177708,
       "rank": 18,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 262502,
+      "num": 262502,
+      "word": "残雪",
+      "onboard_time": 1696222954,
+      "rank": 32,
+      "category": "读书作家"
     },
     {
       "raw_hot": 262102,
@@ -2337,6 +2409,14 @@
       "onboard_time": 1696121371,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256596,
+      "num": 256596,
+      "word": "虞书欣今天是格温吧",
+      "onboard_time": 1696222954,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 256306,
@@ -2537,6 +2617,14 @@
       "onboard_time": 1696154313,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237492,
+      "num": 237492,
+      "word": "在韩国每到过节我就想离婚",
+      "onboard_time": 1696222231,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 236836,
@@ -2827,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210880,
+      "num": 210880,
+      "word": "沈腾问金晨拍孤注一掷2吗",
+      "onboard_time": 1696223314,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210788,
       "num": 210788,
       "word": "张子枫出发巴黎",
@@ -3083,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191077,
+      "num": 191077,
+      "word": "这是疫情后的第一个国庆",
+      "onboard_time": 1696220493,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190927,
       "num": 190927,
       "word": "中国队包揽乒乓球混双冠亚军",
@@ -3161,14 +3265,6 @@
       "onboard_time": 1696176631,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 186102,
-      "num": 186102,
-      "word": "这是疫情后的第一个国庆",
-      "onboard_time": 1696220493,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 185957,
@@ -3475,6 +3571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164981,
+      "num": 164981,
+      "word": "CCTV6国庆片单",
+      "onboard_time": 1696222293,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164962,
       "num": 164962,
       "word": "内娱需要实力也需要运气",
@@ -3595,11 +3699,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158511,
+      "num": 158229,
+      "word": "甘肃敦煌又现骆驼大队",
+      "onboard_time": 1696221272,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 157293,
       "num": 157293,
       "word": "葛曼棋夺冠苏炳添激动落泪",
       "onboard_time": 1696087234,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 156994,
+      "num": 156994,
+      "word": "田志希申裕斌晋级决赛",
+      "onboard_time": 1696223733,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -3745,14 +3865,6 @@
       "onboard_time": 1696152032,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143205,
-      "num": 143205,
-      "word": "甘肃敦煌又现骆驼大队",
-      "onboard_time": 1696221272,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 143021,
