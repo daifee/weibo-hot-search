@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696203233383,
+  "endTime": 1696209152672,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -120,6 +120,14 @@
       "word": "林雨薇好美",
       "onboard_time": 1696166982,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2323821,
+      "num": 2323821,
+      "word": "吴艳妮抢跑后为何还能继续比赛",
+      "onboard_time": 1696202363,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -337,6 +345,14 @@
       "onboard_time": 1696156058,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1361965,
+      "num": 1361965,
+      "word": "林雨薇赛后谈吴艳妮抢跑",
+      "onboard_time": 1696202363,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 1344187,
@@ -563,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 791795,
+      "num": 301055,
+      "word": "抠鼻子掏耳朵有感染丹毒的风险",
+      "onboard_time": 1696205849,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 781911,
       "num": 781911,
       "word": "希望国乒双打失利能引起教练组的重视",
@@ -601,6 +625,14 @@
       "onboard_time": 1696136793,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 709646,
+      "num": 709646,
+      "word": "菩提祖师才是孙悟空唯一的师父",
+      "onboard_time": 1696201342,
+      "rank": 11,
+      "category": "其它"
     },
     {
       "raw_hot": 708049,
@@ -705,6 +737,14 @@
       "onboard_time": 1696172740,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 651057,
+      "num": 651057,
+      "word": "台湾奶茶的价格",
+      "onboard_time": 1696203325,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 640428,
@@ -819,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 569296,
+      "num": 569296,
+      "word": "我的i人同事竟然是行走的50万",
+      "onboard_time": 1696202724,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 568402,
       "num": 568402,
       "word": "国羽女团vs韩国",
@@ -923,20 +971,20 @@
       "category": "情感,艺人"
     },
     {
+      "raw_hot": 508540,
+      "num": 508540,
+      "word": "沈腾给范丞丞擦嘴把妆卸了",
+      "onboard_time": 1696204346,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506419,
       "num": 221242,
       "word": "男子抽烟致高铁降速反怼民警",
       "onboard_time": 1696193415,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 504145,
-      "num": 504145,
-      "word": "菩提祖师才是孙悟空唯一的师父",
-      "onboard_time": 1696201342,
-      "rank": 11,
-      "category": "其它"
     },
     {
       "raw_hot": 499884,
@@ -971,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 488755,
+      "num": 460337,
+      "word": "周思成",
+      "onboard_time": 1696205789,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 488747,
       "num": 488747,
       "word": "坚如磐石 质疑了你就入戏了",
@@ -985,6 +1041,14 @@
       "onboard_time": 1696118186,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 478777,
+      "num": 478777,
+      "word": "乒乓球比赛现场喔声一片",
+      "onboard_time": 1696206569,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 478021,
@@ -1147,12 +1211,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434075,
+      "num": 434075,
+      "word": "中国游客为何不想出境游了",
+      "onboard_time": 1696204527,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 433048,
       "num": 433048,
       "word": "朴志焄 希望大家不要在意",
       "onboard_time": 1696163856,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427244,
+      "num": 427244,
+      "word": "童瑶替顾佳看到了睡莲真迹",
+      "onboard_time": 1696207950,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 422368,
+      "num": 422368,
+      "word": "不需要修图师的女人",
+      "onboard_time": 1696205309,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 422243,
@@ -1241,14 +1329,6 @@
       "onboard_time": 1696120351,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 386079,
-      "num": 216584,
-      "word": "我的i人同事竟然是行走的50万",
-      "onboard_time": 1696202724,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 385465,
@@ -1523,6 +1603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 322171,
+      "num": 322171,
+      "word": "让韩国人又爱又恨的中国美食",
+      "onboard_time": 1696203986,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 320414,
       "num": 320414,
       "word": "安洗莹恐怖如斯",
@@ -1619,6 +1707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301755,
+      "num": 301755,
+      "word": "珠帘玉幕要官宣了",
+      "onboard_time": 1696205309,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300130,
       "num": 300130,
       "word": "是怎么说服黄景瑜王子奇拍的",
@@ -1651,12 +1747,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 295848,
-      "num": 103804,
-      "word": "林雨薇赛后谈吴艳妮抢跑",
+      "raw_hot": 294409,
+      "num": 294409,
+      "word": "警方通报网传宝马司机因吐痰引冲突被杀",
       "onboard_time": 1696202363,
-      "rank": 31,
-      "category": "体育"
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293775,
@@ -1697,6 +1793,14 @@
       "onboard_time": 1696125512,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285693,
+      "num": 285693,
+      "word": "田嘉瑞新造型",
+      "onboard_time": 1696208370,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 283680,
@@ -2011,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243962,
+      "num": 243962,
+      "word": "林双公婆攀高枝被扫地出门",
+      "onboard_time": 1696202481,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243673,
       "num": 243673,
       "word": "老外差点把杭州搬回家了",
@@ -2033,6 +2145,14 @@
       "onboard_time": 1696172140,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242747,
+      "num": 242747,
+      "word": "工作三年后身边的人变化真的大",
+      "onboard_time": 1696202182,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 242038,
@@ -2243,6 +2363,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 219350,
+      "num": 219350,
+      "word": "宋佳全度妍巴黎秀场热聊",
+      "onboard_time": 1696206990,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 219211,
       "num": 219211,
       "word": "鸡鸣寺的团宠橘猫",
@@ -2251,19 +2379,19 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 216698,
-      "num": 102895,
-      "word": "吴艳妮抢跑后为何还能继续比赛",
-      "onboard_time": 1696202363,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 216089,
       "num": 216089,
       "word": "石宇奇1比2拉克什亚",
       "onboard_time": 1696157012,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214557,
+      "num": 214557,
+      "word": "射击运动员不知已夺冠准备打下一枪",
+      "onboard_time": 1696204107,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -2297,6 +2425,14 @@
       "onboard_time": 1696123174,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212630,
+      "num": 212630,
+      "word": "李雪琴 唯有挣钱使我快乐",
+      "onboard_time": 1696206028,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 210788,
@@ -2723,12 +2859,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 177916,
+      "num": 177916,
+      "word": "黄轩性张力",
+      "onboard_time": 1696208972,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177594,
       "num": 177594,
       "word": "郑恺潜伏在影院看前任4",
       "onboard_time": 1696176453,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177447,
+      "num": 177447,
+      "word": "熊猫宝宝连生气都散发着可爱",
+      "onboard_time": 1696206448,
+      "rank": 34,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 176883,
@@ -2787,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171642,
+      "num": 171642,
+      "word": "开拓者赢麻了",
+      "onboard_time": 1696208852,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171238,
       "num": 171238,
       "word": "封神笑榜",
@@ -2833,6 +2993,14 @@
       "onboard_time": 1696133972,
       "rank": 46,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 165132,
+      "num": 165132,
+      "word": "冠军没有应该",
+      "onboard_time": 1696205187,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 165081,
@@ -2939,6 +3107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158832,
+      "num": 158832,
+      "word": "张博文回应夺金牌却不知",
+      "onboard_time": 1696208852,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158511,
       "num": 530124,
       "word": "愿岁月如歌家国共好",
@@ -2953,14 +3129,6 @@
       "onboard_time": 1696087234,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157231,
-      "num": 157231,
-      "word": "警方通报网传宝马司机因吐痰引冲突被杀",
-      "onboard_time": 1696202363,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 156778,
@@ -2993,6 +3161,22 @@
       "onboard_time": 1696164036,
       "rank": 24,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 154204,
+      "num": 154204,
+      "word": "魏大勋新剧在梦里下线了",
+      "onboard_time": 1696207834,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152245,
+      "num": 242805,
+      "word": "升中国国旗是亚运健儿对祖国的告白",
+      "onboard_time": 1696208611,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 151962,
@@ -3115,6 +3299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138155,
+      "num": 138155,
+      "word": "范丞丞回复王安宇",
+      "onboard_time": 1696202904,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134638,
       "num": 595282,
       "word": "白裤瑶孩子们合唱我和我的祖国",
@@ -3169,6 +3361,22 @@
       "onboard_time": 1696073079,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "霍勒迪加盟凯尔特人",
+      "onboard_time": 1696202603,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127540,
+      "num": 127540,
+      "word": "刘震云孟非一种很新的角色互换",
+      "onboard_time": 1696209030,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 126797,
@@ -3227,14 +3435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119006,
-      "num": 101573,
-      "word": "工作三年后身边的人变化真的大",
-      "onboard_time": 1696202182,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 118078,
       "num": 118078,
       "word": "黄景瑜的嘴有502吧",
@@ -3275,14 +3475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110002,
-      "num": 110002,
-      "word": "范丞丞回复王安宇",
-      "onboard_time": 1696202904,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 108979,
       "num": 108979,
       "word": "张含韵机场偶遇丞磊",
@@ -3315,28 +3507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104832,
-      "num": 104832,
-      "word": "林双公婆攀高枝被扫地出门",
-      "onboard_time": 1696202481,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104512,
       "num": 104512,
       "word": "IVE专辑预告视频",
       "onboard_time": 1696178070,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 101374,
-      "num": 101374,
-      "word": "霍勒迪加盟凯尔特人",
-      "onboard_time": 1696202603,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 100827,

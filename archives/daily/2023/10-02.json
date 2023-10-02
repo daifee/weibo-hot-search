@@ -1,7 +1,15 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696203233383,
+  "endTime": 1696209152672,
   "band_list": [
+    {
+      "raw_hot": 2323821,
+      "num": 2323821,
+      "word": "吴艳妮抢跑后为何还能继续比赛",
+      "onboard_time": 1696202363,
+      "rank": 32,
+      "category": "体育"
+    },
     {
       "raw_hot": 1826869,
       "num": 1826869,
@@ -16,6 +24,14 @@
       "word": "吴艳妮抢跑",
       "onboard_time": 1696166799,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1361965,
+      "num": 1361965,
+      "word": "林雨薇赛后谈吴艳妮抢跑",
+      "onboard_time": 1696202363,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -43,12 +59,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 791795,
+      "num": 301055,
+      "word": "抠鼻子掏耳朵有感染丹毒的风险",
+      "onboard_time": 1696205849,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 759503,
       "num": 759503,
       "word": "互相都以为是对方婚礼传统习俗",
       "onboard_time": 1696175254,
       "rank": 31,
       "category": "其它"
+    },
+    {
+      "raw_hot": 709646,
+      "num": 709646,
+      "word": "菩提祖师才是孙悟空唯一的师父",
+      "onboard_time": 1696201342,
+      "rank": 11,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 651057,
+      "num": 651057,
+      "word": "台湾奶茶的价格",
+      "onboard_time": 1696203325,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 633006,
@@ -83,6 +123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 569296,
+      "num": 569296,
+      "word": "我的i人同事竟然是行走的50万",
+      "onboard_time": 1696202724,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541037,
       "num": 406697,
       "word": "华伦天奴",
@@ -99,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 508540,
+      "num": 508540,
+      "word": "沈腾给范丞丞擦嘴把妆卸了",
+      "onboard_time": 1696204346,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 506419,
       "num": 221242,
       "word": "男子抽烟致高铁降速反怼民警",
@@ -107,12 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 504145,
-      "num": 504145,
-      "word": "菩提祖师才是孙悟空唯一的师父",
-      "onboard_time": 1696201342,
-      "rank": 11,
-      "category": "其它"
+      "raw_hot": 488755,
+      "num": 460337,
+      "word": "周思成",
+      "onboard_time": 1696205789,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 478777,
+      "num": 478777,
+      "word": "乒乓球比赛现场喔声一片",
+      "onboard_time": 1696206569,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 472020,
@@ -147,6 +211,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434075,
+      "num": 434075,
+      "word": "中国游客为何不想出境游了",
+      "onboard_time": 1696204527,
+      "rank": 11,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 427244,
+      "num": 427244,
+      "word": "童瑶替顾佳看到了睡莲真迹",
+      "onboard_time": 1696207950,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 422368,
+      "num": 422368,
+      "word": "不需要修图师的女人",
+      "onboard_time": 1696205309,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 409790,
       "num": 409790,
       "word": "家有儿女取景地",
@@ -163,12 +251,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 386079,
-      "num": 216584,
-      "word": "我的i人同事竟然是行走的50万",
-      "onboard_time": 1696202724,
-      "rank": 11,
-      "category": "剧集"
+      "raw_hot": 322171,
+      "num": 322171,
+      "word": "让韩国人又爱又恨的中国美食",
+      "onboard_time": 1696203986,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 307469,
@@ -179,6 +267,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 301755,
+      "num": 301755,
+      "word": "珠帘玉幕要官宣了",
+      "onboard_time": 1696205309,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 300110,
       "num": 300110,
       "word": "孙女整理爷爷遗物发现备好的嫁妆",
@@ -187,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295848,
-      "num": 103804,
-      "word": "林雨薇赛后谈吴艳妮抢跑",
+      "raw_hot": 294409,
+      "num": 294409,
+      "word": "警方通报网传宝马司机因吐痰引冲突被杀",
       "onboard_time": 1696202363,
-      "rank": 31,
-      "category": "体育"
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290952,
@@ -201,6 +297,14 @@
       "onboard_time": 1696173337,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 285693,
+      "num": 285693,
+      "word": "田嘉瑞新造型",
+      "onboard_time": 1696208370,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 282617,
@@ -251,12 +355,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 243962,
+      "num": 243962,
+      "word": "林双公婆攀高枝被扫地出门",
+      "onboard_time": 1696202481,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243424,
       "num": 352785,
       "word": "中国亚运男足无缘四强",
       "onboard_time": 1696169267,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 242747,
+      "num": 242747,
+      "word": "工作三年后身边的人变化真的大",
+      "onboard_time": 1696202182,
+      "rank": 34,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 241031,
@@ -291,11 +411,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216698,
-      "num": 102895,
-      "word": "吴艳妮抢跑后为何还能继续比赛",
-      "onboard_time": 1696202363,
-      "rank": 32,
+      "raw_hot": 219350,
+      "num": 219350,
+      "word": "宋佳全度妍巴黎秀场热聊",
+      "onboard_time": 1696206990,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 214557,
+      "num": 214557,
+      "word": "射击运动员不知已夺冠准备打下一枪",
+      "onboard_time": 1696204107,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -307,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212630,
+      "num": 212630,
+      "word": "李雪琴 唯有挣钱使我快乐",
+      "onboard_time": 1696206028,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212084,
       "num": 307486,
       "word": "中国队羽毛球男团金牌",
@@ -316,7 +452,7 @@
     },
     {
       "raw_hot": 198519,
-      "num": 351805,
+      "num": 413869,
       "word": "林雨薇100米栏金牌",
       "onboard_time": 1696167283,
       "rank": 28,
@@ -355,12 +491,28 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 177916,
+      "num": 177916,
+      "word": "黄轩性张力",
+      "onboard_time": 1696208972,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 177594,
       "num": 177594,
       "word": "郑恺潜伏在影院看前任4",
       "onboard_time": 1696176453,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177447,
+      "num": 177447,
+      "word": "熊猫宝宝连生气都散发着可爱",
+      "onboard_time": 1696206448,
+      "rank": 34,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 174024,
@@ -371,12 +523,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157231,
-      "num": 157231,
-      "word": "警方通报网传宝马司机因吐痰引冲突被杀",
-      "onboard_time": 1696202363,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 171642,
+      "num": 171642,
+      "word": "开拓者赢麻了",
+      "onboard_time": 1696208852,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165132,
+      "num": 165132,
+      "word": "冠军没有应该",
+      "onboard_time": 1696205187,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158832,
+      "num": 158832,
+      "word": "张博文回应夺金牌却不知",
+      "onboard_time": 1696208852,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154204,
+      "num": 154204,
+      "word": "魏大勋新剧在梦里下线了",
+      "onboard_time": 1696207834,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 152245,
+      "num": 242805,
+      "word": "升中国国旗是亚运健儿对祖国的告白",
+      "onboard_time": 1696208611,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 148674,
@@ -401,6 +585,14 @@
       "onboard_time": 1696156058,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138155,
+      "num": 138155,
+      "word": "范丞丞回复王安宇",
+      "onboard_time": 1696202904,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 137438,
@@ -443,6 +635,22 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 127844,
+      "num": 127844,
+      "word": "霍勒迪加盟凯尔特人",
+      "onboard_time": 1696202603,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127540,
+      "num": 127540,
+      "word": "刘震云孟非一种很新的角色互换",
+      "onboard_time": 1696209030,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126797,
       "num": 126797,
       "word": "我有一个朋友豆瓣开分8.6",
@@ -483,14 +691,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 119006,
-      "num": 101573,
-      "word": "工作三年后身边的人变化真的大",
-      "onboard_time": 1696202182,
-      "rank": 34,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 118421,
       "num": 118421,
       "word": "孙艺洲 有点冤但不多",
@@ -513,14 +713,6 @@
       "onboard_time": 1696202002,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110002,
-      "num": 110002,
-      "word": "范丞丞回复王安宇",
-      "onboard_time": 1696202904,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 108710,
@@ -547,28 +739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 104832,
-      "num": 104832,
-      "word": "林双公婆攀高枝被扫地出门",
-      "onboard_time": 1696202481,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104512,
       "num": 104512,
       "word": "IVE专辑预告视频",
       "onboard_time": 1696178070,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 101374,
-      "num": 101374,
-      "word": "霍勒迪加盟凯尔特人",
-      "onboard_time": 1696202603,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 99724,
@@ -675,8 +851,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 10024,
-      "num": 689696,
+      "raw_hot": 16370,
+      "num": 1372756,
       "word": "有一种自豪叫中国",
       "onboard_time": 1696119808,
       "rank": 2,
