@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696281320519,
+  "endTime": 1696282443009,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5844,7 +5844,7 @@
     },
     {
       "raw_hot": 75417,
-      "num": 43549,
+      "num": 43659,
       "word": "低成本娃娃玩具生产流水线",
       "onboard_time": 1696273217,
       "rank": 31,
@@ -6019,6 +6019,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 26241,
+      "num": 26241,
+      "word": "李泽锋角色无法拒绝的诱惑",
+      "onboard_time": 1696277474,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24438,
       "num": 519780,
       "word": "iQOO手机见证中国电竞冲金时刻",
@@ -6027,11 +6035,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24306,
-      "num": 24306,
-      "word": "李泽锋角色无法拒绝的诱惑",
-      "onboard_time": 1696277474,
-      "rank": 48,
+      "raw_hot": 20421,
+      "num": 20421,
+      "word": "好事成双",
+      "onboard_time": 1696280535,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -6051,20 +6059,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 18301,
-      "num": 18301,
-      "word": "好事成双",
-      "onboard_time": 1696280535,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 17355,
       "num": 193446,
       "word": "葛曼棋哪吒本吒",
       "onboard_time": 1696237233,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17086,
+      "num": 44024,
+      "word": "杭州亚运会隐藏彩蛋",
+      "onboard_time": 1696280416,
+      "rank": 14,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 13909,
@@ -6088,14 +6096,6 @@
       "word": "亚运AI写真刷屏朋友圈",
       "onboard_time": 1696235493,
       "rank": 49,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 11892,
-      "num": 36640,
-      "word": "杭州亚运会隐藏彩蛋",
-      "onboard_time": 1696280416,
-      "rank": 14,
       "category": "体育,社会新闻"
     }
   ],
