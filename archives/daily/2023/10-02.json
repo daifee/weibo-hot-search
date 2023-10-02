@@ -1,7 +1,15 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696216662059,
+  "endTime": 1696217666975,
   "band_list": [
+    {
+      "raw_hot": 2908212,
+      "num": 2908212,
+      "word": "皓嫣二搭",
+      "onboard_time": 1696215516,
+      "rank": 4,
+      "category": "剧集"
+    },
     {
       "raw_hot": 2377314,
       "num": 2377314,
@@ -9,6 +17,14 @@
       "onboard_time": 1696202363,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1996909,
+      "num": 1996909,
+      "word": "金星评价坚如磐石",
+      "onboard_time": 1696213292,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 1826869,
@@ -51,14 +67,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1231495,
-      "num": 1231495,
-      "word": "金星评价坚如磐石",
-      "onboard_time": 1696213292,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1129433,
       "num": 1129433,
       "word": "珠帘玉幕",
@@ -80,14 +88,6 @@
       "word": "珠帘玉幕阵容官宣",
       "onboard_time": 1696213651,
       "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 1004627,
-      "num": 1004627,
-      "word": "皓嫣二搭",
-      "onboard_time": 1696215516,
-      "rank": 4,
       "category": "剧集"
     },
     {
@@ -147,6 +147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 763194,
+      "num": 394976,
+      "word": "订婚蛋糕被亲戚一整个拿走了",
+      "onboard_time": 1696215933,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 759503,
       "num": 759503,
       "word": "互相都以为是对方婚礼传统习俗",
@@ -163,12 +171,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 653374,
-      "num": 394976,
-      "word": "订婚蛋糕被亲戚一整个拿走了",
-      "onboard_time": 1696215933,
-      "rank": 21,
-      "category": "幽默"
+      "raw_hot": 673684,
+      "num": 673684,
+      "word": "天府机场会制裁所有卡点的人",
+      "onboard_time": 1696214915,
+      "rank": 17,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 651057,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 589551,
-      "num": 232040,
+      "num": 463042,
       "word": "邓亚萍 孙颖莎赢在必胜决心和实力",
       "onboard_time": 1696214670,
       "rank": 30,
@@ -227,12 +235,28 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 579373,
+      "num": 579373,
+      "word": "薛之谦回应滁州演唱会特殊观众",
+      "onboard_time": 1696213651,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 571395,
       "num": 571395,
       "word": "黄轩性张力",
       "onboard_time": 1696208972,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 546108,
+      "num": 546108,
+      "word": "我们的歌给我5宣传片",
+      "onboard_time": 1696215992,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 541037,
@@ -323,22 +347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 454653,
-      "num": 454653,
-      "word": "薛之谦回应滁州演唱会特殊观众",
-      "onboard_time": 1696213651,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 438743,
-      "num": 438743,
-      "word": "我们的歌给我5宣传片",
-      "onboard_time": 1696215992,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 435571,
       "num": 435571,
       "word": "孙颖莎vs早田希娜",
@@ -353,14 +361,6 @@
       "onboard_time": 1696204527,
       "rank": 11,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 413684,
-      "num": 413684,
-      "word": "天府机场会制裁所有卡点的人",
-      "onboard_time": 1696214915,
-      "rank": 17,
-      "category": "旅游,幽默"
     },
     {
       "raw_hot": 409790,
@@ -507,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265765,
+      "num": 471658,
+      "word": "2023年诺贝尔奖今起公布",
+      "onboard_time": 1696217192,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265489,
       "num": 265489,
       "word": "为什么坐地铁都喜欢坐边上",
@@ -532,11 +540,19 @@
     },
     {
       "raw_hot": 261622,
-      "num": 1310234,
+      "num": 1661539,
       "word": "升中国国旗是亚运健儿对祖国的告白",
       "onboard_time": 1696208611,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245088,
+      "num": 245088,
+      "word": "女子买梨发现支付失败急寻摊主付款",
+      "onboard_time": 1696215452,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245055,
@@ -595,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230561,
-      "num": 230561,
-      "word": "女子买梨发现支付失败急寻摊主付款",
-      "onboard_time": 1696215452,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228733,
       "num": 228733,
       "word": "SEVENTEEN新歌米奇妙妙屋既视感",
@@ -619,6 +627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 225855,
+      "num": 225855,
+      "word": "明日方舟",
+      "onboard_time": 1696217011,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 225420,
       "num": 225420,
       "word": "孙颖莎女单夺金",
@@ -633,6 +649,14 @@
       "onboard_time": 1696213472,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 221798,
+      "num": 221798,
+      "word": "张彬彬忙得过来吗",
+      "onboard_time": 1696216593,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219350,
@@ -683,12 +707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204921,
+      "num": 204921,
+      "word": "女孩用微缩做出30个可以吃的美景",
+      "onboard_time": 1696216593,
+      "rank": 46,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 203085,
       "num": 203085,
       "word": "世界上最幸运的冠军",
       "onboard_time": 1696212515,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202226,
+      "num": 202226,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1696217433,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 200929,
@@ -835,6 +875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 151161,
+      "num": 151161,
+      "word": "杨幂从巴黎出发回国",
+      "onboard_time": 1696217433,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148674,
       "num": 148674,
       "word": "孙颖莎说感谢教练队友和粉丝",
@@ -875,14 +923,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 138254,
-      "num": 138254,
-      "word": "女孩用微缩做出30个可以吃的美景",
-      "onboard_time": 1696216593,
-      "rank": 46,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 137438,
       "num": 137438,
       "word": "王栎鑫老来俏",
@@ -915,12 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 132010,
-      "num": 132010,
-      "word": "张彬彬忙得过来吗",
-      "onboard_time": 1696216593,
+      "raw_hot": 133925,
+      "num": 133925,
+      "word": "专业的背后是扎根",
+      "onboard_time": 1696217612,
       "rank": 47,
-      "category": "作品衍生"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130884,
@@ -936,6 +976,14 @@
       "word": "樊振东王楚钦男双夺金",
       "onboard_time": 1696159059,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129552,
+      "num": 129552,
+      "word": "华天夺得杭州亚运马术项目两枚金牌",
+      "onboard_time": 1696217372,
+      "rank": 49,
       "category": "体育"
     },
     {

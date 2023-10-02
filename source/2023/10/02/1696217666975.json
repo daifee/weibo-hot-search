@@ -1,0 +1,410 @@
+{
+  "runTime": 1696217666975,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2908212,
+        "num": 2908212,
+        "word": "皓嫣二搭",
+        "onboard_time": 1696215516,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1996909,
+        "num": 1996909,
+        "word": "金星评价坚如磐石",
+        "onboard_time": 1696213292,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82566,
+        "num": 1661539,
+        "word": "升中国国旗是亚运健儿对祖国的告白",
+        "onboard_time": 1696208611,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1454582,
+        "num": 1454582,
+        "word": "苹果承认iPhone15系列运行温度过高",
+        "onboard_time": 1696211430,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 913117,
+        "num": 913117,
+        "word": "林雨薇赛后谈吴艳妮抢跑",
+        "onboard_time": 1696202363,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673684,
+        "num": 673684,
+        "word": "天府机场会制裁所有卡点的人",
+        "onboard_time": 1696214915,
+        "rank": 5,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 603251,
+        "num": 603251,
+        "word": "林雨薇夺冠后哭着感谢爸爸",
+        "onboard_time": 1696215211,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579373,
+        "num": 579373,
+        "word": "薛之谦回应滁州演唱会特殊观众",
+        "onboard_time": 1696213651,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 576795,
+        "num": 576795,
+        "word": "杨紫将出席GQ盛典",
+        "onboard_time": 1696212754,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572304,
+        "num": 572304,
+        "word": "珠帘玉幕阵容官宣",
+        "onboard_time": 1696213651,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1175832,
+        "num": 566929,
+        "word": "吴艳妮抢跑后为何还能继续比赛",
+        "onboard_time": 1696202363,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546108,
+        "num": 546108,
+        "word": "我们的歌给我5宣传片",
+        "onboard_time": 1696215992,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484202,
+        "num": 484202,
+        "word": "童瑶替顾佳看到了睡莲真迹",
+        "onboard_time": 1696207950,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265765,
+        "num": 471658,
+        "word": "2023年诺贝尔奖今起公布",
+        "onboard_time": 1696217192,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179769,
+        "num": 465234,
+        "word": "乒乓球比赛现场喔声一片",
+        "onboard_time": 1696206569,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511724,
+        "num": 464372,
+        "word": "不要给吴艳妮太大的压力",
+        "onboard_time": 1696172740,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 463042,
+        "num": 463042,
+        "word": "邓亚萍 孙颖莎赢在必胜决心和实力",
+        "onboard_time": 1696214670,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394780,
+        "num": 394780,
+        "word": "我的i人同事竟然是行走的50万",
+        "onboard_time": 1696202724,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 487980,
+        "num": 354573,
+        "word": "吴艳妮回应抢跑",
+        "onboard_time": 1696171421,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304578,
+        "num": 304578,
+        "word": "吴艳妮抢跑",
+        "onboard_time": 1696166799,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 763194,
+        "num": 304496,
+        "word": "订婚蛋糕被亲戚一整个拿走了",
+        "onboard_time": 1696215933,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 602963,
+        "num": 304403,
+        "word": "人人人人人我人人人人人",
+        "onboard_time": 1696211011,
+        "rank": 21,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 302883,
+        "num": 302883,
+        "word": "中国马术亚运历史首金",
+        "onboard_time": 1696214071,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 294817,
+        "num": 294817,
+        "word": "华天这枚金牌等了9年",
+        "onboard_time": 1696214372,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280718,
+        "num": 280718,
+        "word": "不需要修图师的女人",
+        "onboard_time": 1696205309,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 277426,
+        "num": 277426,
+        "word": "金晨白敬亭2分钟眼神戏",
+        "onboard_time": 1696213172,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264324,
+        "num": 264324,
+        "word": "台湾奶茶的价格",
+        "onboard_time": 1696203325,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 245088,
+        "num": 245088,
+        "word": "女子买梨发现支付失败急寻摊主付款",
+        "onboard_time": 1696215452,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244990,
+        "num": 244990,
+        "word": "珠帘玉幕",
+        "onboard_time": 1696212932,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225855,
+        "num": 225855,
+        "word": "明日方舟",
+        "onboard_time": 1696217011,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 386196,
+        "num": 224682,
+        "word": "港媒曝郑少秋大女儿在美去世",
+        "onboard_time": 1696168966,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221798,
+        "num": 221798,
+        "word": "张彬彬忙得过来吗",
+        "onboard_time": 1696216593,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220249,
+        "num": 220249,
+        "word": "汪顺拿着一叠金牌逗观众",
+        "onboard_time": 1696213772,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214627,
+        "num": 214627,
+        "word": "失笑开机",
+        "onboard_time": 1696213651,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204921,
+        "num": 204921,
+        "word": "女孩用微缩做出30个可以吃的美景",
+        "onboard_time": 1696216593,
+        "rank": 34,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 202226,
+        "num": 202226,
+        "word": "太湖湾音乐节",
+        "onboard_time": 1696217433,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192793,
+        "num": 192793,
+        "word": "吴艳妮成绩被取消",
+        "onboard_time": 1696168425,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184435,
+        "num": 184435,
+        "word": "中国游客为何不想出境游了",
+        "onboard_time": 1696204527,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 183441,
+        "num": 183441,
+        "word": "没想到一箱猕猴桃同时熟了",
+        "onboard_time": 1696210533,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 175631,
+        "num": 175631,
+        "word": "沈腾给范丞丞擦嘴把妆卸了",
+        "onboard_time": 1696204346,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167665,
+        "num": 167665,
+        "word": "黄轩性张力",
+        "onboard_time": 1696208972,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160933,
+        "num": 160933,
+        "word": "雷佳音于和伟清唱海阔天空",
+        "onboard_time": 1696212691,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153430,
+        "num": 153430,
+        "word": "周深灯火里的中国万人合唱",
+        "onboard_time": 1696216053,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1189532,
+        "num": 153101,
+        "word": "韩国人 得让全世界都营起来",
+        "onboard_time": 1696214553,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151161,
+        "num": 151161,
+        "word": "杨幂从巴黎出发回国",
+        "onboard_time": 1696217433,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 146163,
+        "num": 146163,
+        "word": "为什么坐地铁都喜欢坐边上",
+        "onboard_time": 1696210589,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141080,
+        "num": 141080,
+        "word": "志愿军电影如果让美国来拍",
+        "onboard_time": 1696212515,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133925,
+        "num": 133925,
+        "word": "专业的背后是扎根",
+        "onboard_time": 1696217612,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132448,
+        "num": 132448,
+        "word": "SEVENTEEN新歌米奇妙妙屋既视感",
+        "onboard_time": 1696210288,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 129552,
+        "num": 129552,
+        "word": "华天夺得杭州亚运马术项目两枚金牌",
+        "onboard_time": 1696217372,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一种骄傲叫我爱你中国#"
+    }
+  }
+}
