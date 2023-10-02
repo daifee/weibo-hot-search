@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696284953209,
+  "endTime": 1696286034168,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5363,6 +5363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142783,
+      "num": 107952,
+      "word": "大叔脱掉儿子衣服求叶诗文签字",
+      "onboard_time": 1696273157,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142758,
       "num": 142758,
       "word": "尹子维大叔也曾是美少年",
@@ -5707,14 +5715,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 104453,
-      "num": 83749,
-      "word": "大叔脱掉儿子衣服求叶诗文签字",
-      "onboard_time": 1696273157,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 100827,
       "num": 100827,
       "word": "金智秀裴斗娜一同出街",
@@ -5827,6 +5827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80284,
+      "num": 80284,
+      "word": "低成本娃娃玩具生产流水线",
+      "onboard_time": 1696273217,
+      "rank": 31,
+      "category": "其它"
+    },
+    {
       "raw_hot": 76599,
       "num": 76599,
       "word": "郑钧五点赶高铁开演唱会",
@@ -5841,14 +5849,6 @@
       "onboard_time": 1696116564,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 75417,
-      "num": 61091,
-      "word": "低成本娃娃玩具生产流水线",
-      "onboard_time": 1696273217,
-      "rank": 31,
-      "category": "其它"
     },
     {
       "raw_hot": 73547,
@@ -5923,6 +5923,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 52997,
+      "num": 52997,
+      "word": "女子手持甩棍殴打女外卖员后逃跑",
+      "onboard_time": 1696283114,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49317,
       "num": 67074,
       "word": "重庆银河方舟音乐节举行",
@@ -5961,14 +5969,6 @@
       "onboard_time": 1696097359,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 42496,
-      "num": 42496,
-      "word": "女子手持甩棍殴打女外卖员后逃跑",
-      "onboard_time": 1696283114,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36583,
@@ -6011,6 +6011,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30285,
+      "num": 30285,
+      "word": "好事成双",
+      "onboard_time": 1696280535,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29559,
+      "num": 29559,
+      "word": "傅云深朱旧除夕夜分手",
+      "onboard_time": 1696284736,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 29067,
+      "num": 29067,
+      "word": "李泽锋角色无法拒绝的诱惑",
+      "onboard_time": 1696277474,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28987,
       "num": 371434,
       "word": "亚运健儿为祖国献礼",
@@ -6027,20 +6051,12 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 26241,
-      "num": 26241,
-      "word": "李泽锋角色无法拒绝的诱惑",
-      "onboard_time": 1696277474,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25336,
-      "num": 25336,
-      "word": "好事成双",
-      "onboard_time": 1696280535,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 25726,
+      "num": 104278,
+      "word": "杭州亚运会隐藏彩蛋",
+      "onboard_time": 1696280416,
+      "rank": 14,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 24438,
@@ -6059,14 +6075,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 19979,
-      "num": 79606,
-      "word": "杭州亚运会隐藏彩蛋",
-      "onboard_time": 1696280416,
-      "rank": 14,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 18957,
       "num": 588448,
       "word": "盛世中华 大美中国",
@@ -6081,14 +6089,6 @@
       "onboard_time": 1696237233,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16708,
-      "num": 23246,
-      "word": "傅云深朱旧除夕夜分手",
-      "onboard_time": 1696284736,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 13909,

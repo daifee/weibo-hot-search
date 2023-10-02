@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696284953209,
+  "endTime": 1696286034168,
   "band_list": [
     {
       "raw_hot": 2595600,
@@ -155,8 +155,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 354795,
-      "num": 354795,
+      "raw_hot": 366483,
+      "num": 366483,
       "word": "秦始皇想不到两千多年后六国子民花钱来拜",
       "onboard_time": 1696248516,
       "rank": 25,
@@ -371,6 +371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 142783,
+      "num": 107952,
+      "word": "大叔脱掉儿子衣服求叶诗文签字",
+      "onboard_time": 1696273157,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141768,
       "num": 141768,
       "word": "奥尼尔杭州街头骑电动车抱萌娃",
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 104453,
-      "num": 83749,
-      "word": "大叔脱掉儿子衣服求叶诗文签字",
-      "onboard_time": 1696273157,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90646,
       "num": 90646,
       "word": "黄轩问为什么都叫我漂亮小狗",
@@ -419,8 +419,8 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 75417,
-      "num": 61091,
+      "raw_hot": 80284,
+      "num": 80284,
       "word": "低成本娃娃玩具生产流水线",
       "onboard_time": 1696273217,
       "rank": 31,
@@ -443,8 +443,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 42496,
-      "num": 42496,
+      "raw_hot": 52997,
+      "num": 52997,
       "word": "女子手持甩棍殴打女外卖员后逃跑",
       "onboard_time": 1696283114,
       "rank": 24,
@@ -467,36 +467,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 26241,
-      "num": 26241,
-      "word": "李泽锋角色无法拒绝的诱惑",
-      "onboard_time": 1696277474,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 25336,
-      "num": 25336,
+      "raw_hot": 30285,
+      "num": 30285,
       "word": "好事成双",
       "onboard_time": 1696280535,
       "rank": 40,
       "category": "剧集"
     },
     {
-      "raw_hot": 19979,
-      "num": 79606,
-      "word": "杭州亚运会隐藏彩蛋",
-      "onboard_time": 1696280416,
-      "rank": 14,
-      "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 16708,
-      "num": 23246,
+      "raw_hot": 29559,
+      "num": 29559,
       "word": "傅云深朱旧除夕夜分手",
       "onboard_time": 1696284736,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29067,
+      "num": 29067,
+      "word": "李泽锋角色无法拒绝的诱惑",
+      "onboard_time": 1696277474,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 25726,
+      "num": 104278,
+      "word": "杭州亚运会隐藏彩蛋",
+      "onboard_time": 1696280416,
+      "rank": 14,
+      "category": "体育,社会新闻"
     }
   ],
   "hotgov_list": [
