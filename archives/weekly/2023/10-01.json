@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696224846674,
+  "endTime": 1696227786438,
   "band_list": [
     {
       "raw_hot": 9556799,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2306946,
+      "num": 2306946,
+      "word": "李嘉琦 永远不要放弃让自己成长",
+      "onboard_time": 1696225233,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2292403,
       "num": 2292403,
       "word": "吴艳妮回应抢跑",
@@ -193,6 +201,14 @@
       "onboard_time": 1696157373,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1902257,
+      "num": 1902257,
+      "word": "杰尼斯解体",
+      "onboard_time": 1696224631,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 1861802,
@@ -355,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1438522,
+      "num": 1438522,
+      "word": "人死后体内重要部分还能继续活多年",
+      "onboard_time": 1696225355,
+      "rank": 3,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 1436478,
       "num": 660899,
       "word": "王一博新发色藏不住了",
@@ -385,6 +409,14 @@
       "onboard_time": 1696158275,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1373939,
+      "num": 1373939,
+      "word": "人人人人人我人人人人人",
+      "onboard_time": 1696211011,
+      "rank": 20,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1371982,
@@ -433,14 +465,6 @@
       "onboard_time": 1696144534,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1226492,
-      "num": 1226492,
-      "word": "人人人人人我人人人人人",
-      "onboard_time": 1696211011,
-      "rank": 20,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 1213705,
@@ -569,6 +593,14 @@
       "onboard_time": 1696136312,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 914608,
+      "num": 446900,
+      "word": "她擦掉了座位上的大姨妈血",
+      "onboard_time": 1696226373,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 887973,
@@ -947,6 +979,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 612895,
+      "num": 313124,
+      "word": "买过菜才知道麻辣烫有多贵",
+      "onboard_time": 1696226373,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 603883,
+      "num": 312597,
+      "word": "樊振东晚上减肥时点甜品",
+      "onboard_time": 1696224328,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 601296,
       "num": 437290,
       "word": "王濛马龙击掌",
@@ -992,6 +1040,14 @@
       "word": "邓亚萍 孙颖莎赢在必胜决心和实力",
       "onboard_time": 1696214670,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 585997,
+      "num": 585997,
+      "word": "樊振东冲击亚运第三金",
+      "onboard_time": 1696223070,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -1315,14 +1371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 474052,
-      "num": 474052,
-      "word": "樊振东冲击亚运第三金",
-      "onboard_time": 1696223070,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 472020,
       "num": 265842,
       "word": "被帝王蟹同事吃了的鲍鱼",
@@ -1603,6 +1651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 384080,
+      "num": 307757,
+      "word": "丈夫挪用百万积蓄救人妻子冷静后决定加入",
+      "onboard_time": 1696224511,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383376,
       "num": 383376,
       "word": "江西警号086211重启",
@@ -1787,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346758,
+      "num": 346758,
+      "word": "Alex正式连接WBG",
+      "onboard_time": 1696224753,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 345908,
       "num": 345908,
       "word": "国足亚运队丢球",
@@ -1907,14 +1971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 326113,
-      "num": 326113,
-      "word": "杰尼斯解体",
-      "onboard_time": 1696224631,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 323864,
       "num": 323864,
       "word": "我的小鸡为什么在喊卡巴迪",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1696145432,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 315073,
+      "num": 315073,
+      "word": "雷佳音竟然比孙艺洲小一岁",
+      "onboard_time": 1696227093,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 314008,
@@ -2347,14 +2411,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 265317,
-      "num": 257089,
-      "word": "樊振东晚上减肥时点甜品",
-      "onboard_time": 1696224328,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264736,
       "num": 264736,
       "word": "Giselle巴黎时装周新造型",
@@ -2459,12 +2515,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 255571,
+      "num": 216372,
+      "word": "于和伟演杀人戏是真的吐了",
+      "onboard_time": 1696227334,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "赵小棠把蒙古帽披在了身上",
       "onboard_time": 1696139254,
       "rank": 27,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 252865,
+      "num": 214463,
+      "word": "4K镜头下的巨型蛀牙",
+      "onboard_time": 1696227334,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 251918,
@@ -2963,20 +3035,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211503,
-      "num": 211503,
-      "word": "丈夫挪用百万积蓄救人妻子冷静后决定加入",
-      "onboard_time": 1696224511,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 210788,
       "num": 210788,
       "word": "张子枫出发巴黎",
       "onboard_time": 1696142614,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209112,
+      "num": 209112,
+      "word": "iPhone15Pro系列缩短发货时间",
+      "onboard_time": 1696226554,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 208809,
@@ -3027,6 +3099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204765,
+      "num": 204765,
+      "word": "杨紫回眸氛围感",
+      "onboard_time": 1696227575,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204079,
       "num": 204079,
       "word": "西北师大通报学生保研后资格被收回",
@@ -3051,12 +3131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 203029,
-      "num": 203029,
-      "word": "Alex正式连接WBG",
-      "onboard_time": 1696224753,
-      "rank": 42,
-      "category": "游戏"
+      "raw_hot": 202616,
+      "num": 202616,
+      "word": "双胞胎弟弟扮成天使送姐姐出嫁",
+      "onboard_time": 1696225112,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202326,
@@ -3291,6 +3371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189265,
+      "num": 189265,
+      "word": "田嘉瑞做wink耳朵又熟了",
+      "onboard_time": 1696226314,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188244,
       "num": 188244,
       "word": "看电影和吃火锅的都沉默了",
@@ -3369,6 +3457,14 @@
       "onboard_time": 1696130556,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183614,
+      "num": 183614,
+      "word": "林雨薇夺冠后保持人间清醒",
+      "onboard_time": 1696225533,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 183384,
@@ -3451,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179860,
+      "num": 179860,
+      "word": "武功山回应捡瓶子可兑换特种兵奖牌",
+      "onboard_time": 1696225897,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179394,
       "num": 1757056,
       "word": "有一种自豪叫中国",
@@ -3481,6 +3585,14 @@
       "onboard_time": 1696176453,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177553,
+      "num": 177553,
+      "word": "斑马音乐节",
+      "onboard_time": 1696226493,
+      "rank": 44,
+      "category": "演出"
     },
     {
       "raw_hot": 176883,
@@ -3521,6 +3633,14 @@
       "onboard_time": 1696080641,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 175355,
+      "num": 175355,
+      "word": "5岁男孩遭烫伤民警30分钟送医",
+      "onboard_time": 1696226736,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175189,
