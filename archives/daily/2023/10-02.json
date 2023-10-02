@@ -1,6 +1,6 @@
 {
   "startTime": 1696177194065,
-  "endTime": 1696253633325,
+  "endTime": 1696256194511,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -11,19 +11,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8588285,
+      "num": 8588285,
+      "word": "王楚钦冠军",
+      "onboard_time": 1696253330,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7350420,
       "num": 7350420,
       "word": "王楚钦炸毛",
       "onboard_time": 1696238613,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6220888,
-      "num": 6220888,
-      "word": "王楚钦冠军",
-      "onboard_time": 1696253330,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -80,6 +80,14 @@
       "word": "王楚钦晋级决赛",
       "onboard_time": 1696233577,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2148895,
+      "num": 482212,
+      "word": "遮挡发球",
+      "onboard_time": 1696253745,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -259,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1177583,
+      "num": 1177583,
+      "word": "樊振东没有微博",
+      "onboard_time": 1696255420,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1129433,
       "num": 1129433,
       "word": "珠帘玉幕",
@@ -377,6 +393,14 @@
       "onboard_time": 1696212754,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 860327,
+      "num": 860327,
+      "word": "王楚钦你为什么要在杭州剪头发",
+      "onboard_time": 1696253446,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 858666,
@@ -795,6 +819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 493098,
+      "num": 413904,
+      "word": "孙颖莎赶来看男单决赛",
+      "onboard_time": 1696255780,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489164,
       "num": 390304,
       "word": "月薪两万随不起份子",
@@ -891,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 449544,
+      "num": 449544,
+      "word": "王楚钦亲吻球拍",
+      "onboard_time": 1696254109,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 435654,
       "num": 435654,
       "word": "于和伟演杀人戏是真的吐了",
@@ -915,6 +955,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 418910,
+      "num": 418910,
+      "word": "DOTA2中国追平蒙古",
+      "onboard_time": 1696254883,
+      "rank": 19,
+      "category": "游戏,体育"
+    },
+    {
       "raw_hot": 409790,
       "num": 409790,
       "word": "家有儿女取景地",
@@ -937,6 +985,14 @@
       "onboard_time": 1696230695,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 402064,
+      "num": 402064,
+      "word": "国乒6金2银1铜收官",
+      "onboard_time": 1696255780,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 399036,
@@ -1059,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 362715,
+      "num": 362715,
+      "word": "九图看完前任4",
+      "onboard_time": 1696253626,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 357116,
       "num": 357116,
       "word": "许昕解说男单决赛",
@@ -1139,8 +1203,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325915,
-      "num": 325915,
+      "raw_hot": 331413,
+      "num": 331413,
       "word": "曾黎衬衫里穿的是泳衣",
       "onboard_time": 1696252791,
       "rank": 43,
@@ -1195,12 +1259,12 @@
       "category": "艺人,幽默"
     },
     {
-      "raw_hot": 306792,
-      "num": 306792,
-      "word": "王楚钦你为什么要在杭州剪头发",
-      "onboard_time": 1696253446,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 305497,
+      "num": 305497,
+      "word": "为何污名化老师的现象越来越多",
+      "onboard_time": 1696255183,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 305446,
@@ -1315,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 288014,
+      "num": 288014,
+      "word": "拦着点田嘉瑞啊",
+      "onboard_time": 1696254705,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282617,
       "num": 282617,
       "word": "周深音乐节被喊周深开门",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1696158275,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 280983,
+      "num": 582874,
+      "word": "中国队包揽乒乓球男单冠亚军",
+      "onboard_time": 1696254404,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 280843,
@@ -1467,6 +1547,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 258096,
+      "num": 258096,
+      "word": "周冬雨美拉德廓形外套",
+      "onboard_time": 1696254523,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 257056,
+      "num": 257056,
+      "word": "王楚钦兼四项全部夺冠",
+      "onboard_time": 1696255720,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256596,
       "num": 256596,
       "word": "虞书欣今天是格温吧",
@@ -1569,6 +1665,14 @@
       "onboard_time": 1696176631,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239365,
+      "num": 239365,
+      "word": "没有周深不敢递的话筒",
+      "onboard_time": 1696255364,
+      "rank": 37,
+      "category": "演出"
     },
     {
       "raw_hot": 237492,
@@ -1708,7 +1812,7 @@
     },
     {
       "raw_hot": 218570,
-      "num": 218570,
+      "num": 536814,
       "word": "长得丑但很温柔的狗狗",
       "onboard_time": 1696252239,
       "rank": 42,
@@ -1787,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211537,
+      "num": 211537,
+      "word": "王楚钦四冠王",
+      "onboard_time": 1696255002,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209112,
       "num": 209112,
       "word": "iPhone15Pro系列缩短发货时间",
@@ -1825,6 +1937,14 @@
       "onboard_time": 1696216593,
       "rank": 46,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 204900,
+      "num": 204900,
+      "word": "王楚钦采访",
+      "onboard_time": 1696256140,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 204154,
@@ -2089,6 +2209,14 @@
       "onboard_time": 1696226736,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174421,
+      "num": 174421,
+      "word": "亚运乒乓赛场观众现场求婚",
+      "onboard_time": 1696256077,
+      "rank": 49,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 174024,
@@ -2730,6 +2858,9 @@
     },
     {
       "word": "#有一种力量叫中国向上#"
+    },
+    {
+      "word": "#传承弘扬爱国奋斗精神#"
     }
   ]
 }
