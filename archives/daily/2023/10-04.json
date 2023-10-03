@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696372436656,
+  "endTime": 1696374984761,
   "band_list": [
     {
       "raw_hot": 1420780,
@@ -83,6 +83,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 523088,
+      "num": 523088,
+      "word": "为什么韩国人独爱张家界",
+      "onboard_time": 1696360156,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 512062,
       "num": 512062,
       "word": "王楚钦说自己世界第一下榜太快",
@@ -105,6 +113,14 @@
       "onboard_time": 1696346919,
       "rank": 18,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 414041,
+      "num": 216739,
+      "word": "曾黎的照片被贴在巴黎街头",
+      "onboard_time": 1696335997,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 412944,
@@ -163,22 +179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 314798,
-      "num": 216739,
-      "word": "曾黎的照片被贴在巴黎街头",
-      "onboard_time": 1696335997,
-      "rank": 23,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 262818,
-      "num": 262818,
-      "word": "为什么韩国人独爱张家界",
-      "onboard_time": 1696360156,
-      "rank": 23,
-      "category": "旅游,社会新闻"
-    },
-    {
       "raw_hot": 253215,
       "num": 216400,
       "word": "居然收到了黄轩的微博私信",
@@ -201,6 +201,14 @@
       "onboard_time": 1696337198,
       "rank": 9,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 240502,
+      "num": 156074,
+      "word": "男友家情况特殊女子0彩礼出嫁",
+      "onboard_time": 1696374080,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226181,
@@ -233,6 +241,14 @@
       "onboard_time": 1696344277,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210375,
+      "num": 210375,
+      "word": "王一博王俊凯张凌赫龚俊看秀生图",
+      "onboard_time": 1696374803,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 205105,
@@ -339,6 +355,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 149635,
+      "num": 162624,
+      "word": "这是我见过排量最大的婚车",
+      "onboard_time": 1696350928,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147486,
       "num": 147486,
       "word": "满月女儿惊喜现身惹消防员泪目",
@@ -353,14 +377,6 @@
       "onboard_time": 1696330237,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143724,
-      "num": 143724,
-      "word": "这是我见过排量最大的婚车",
-      "onboard_time": 1696350928,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142601,
@@ -411,6 +427,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128464,
+      "num": 128464,
+      "word": "张翰话剧如梦之梦",
+      "onboard_time": 1696374080,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 124085,
+      "num": 96126,
+      "word": "游客爬泰山被消防员担架抬下山",
+      "onboard_time": 1696374142,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 113147,
       "num": 113147,
       "word": "林高远说热爱永存",
@@ -435,12 +467,36 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 99398,
+      "num": 99398,
+      "word": "曼联2比3加拉塔萨雷",
+      "onboard_time": 1696374381,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 94977,
+      "num": 94977,
+      "word": "迷笛",
+      "onboard_time": 1696374803,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81489,
       "num": 81489,
       "word": "黄子诚被女友出卖绑架",
       "onboard_time": 1696354282,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78721,
+      "num": 78721,
+      "word": "欧冠",
+      "onboard_time": 1696374501,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 72378,
@@ -451,12 +507,60 @@
       "category": "自然"
     },
     {
+      "raw_hot": 69328,
+      "num": 69328,
+      "word": "肿瘤专家回乡探亲又双叒义诊了",
+      "onboard_time": 1696374803,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63562,
+      "num": 63562,
+      "word": "萌兰太火民警化身人潮中的定海神针",
+      "onboard_time": 1696374080,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62300,
+      "num": 62300,
+      "word": "全红婵挂着粉丝的礼物参加发布会",
+      "onboard_time": 1696374440,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 61383,
+      "num": 61383,
+      "word": "熊猫宝宝求贴贴被拒",
+      "onboard_time": 1696369934,
+      "rank": 42,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 59353,
+      "num": 59353,
+      "word": "那不勒斯2比3皇马",
+      "onboard_time": 1696374562,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56548,
       "num": 56548,
       "word": "鹿晗张艺兴发色梦回EXO时期",
       "onboard_time": 1696325735,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51288,
+      "num": 51288,
+      "word": "武警一路狂奔为救护车开道",
+      "onboard_time": 1696374922,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 50389,
@@ -491,14 +595,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32948,
-      "num": 32948,
-      "word": "熊猫宝宝求贴贴被拒",
-      "onboard_time": 1696369934,
-      "rank": 42,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 31577,
       "num": 31577,
       "word": "特工任务女孩被间谍骗财骗色",
@@ -515,8 +611,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1923,
-      "num": 253221,
+      "raw_hot": 3070,
+      "num": 307929,
       "word": "潮涌杭州看亚运",
       "onboard_time": 1696252062,
       "rank": 2,
