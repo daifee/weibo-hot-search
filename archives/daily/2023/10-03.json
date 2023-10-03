@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696306814949,
+  "endTime": 1696307684461,
   "band_list": [
     {
       "raw_hot": 2595600,
@@ -27,6 +27,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 1487777,
+      "num": 1487777,
+      "word": "霸王茶姬 盗墓笔记",
+      "onboard_time": 1696301611,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1481170,
       "num": 1481170,
       "word": "英雄联盟",
@@ -41,14 +49,6 @@
       "onboard_time": 1696293393,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1315536,
-      "num": 1315536,
-      "word": "霸王茶姬 盗墓笔记",
-      "onboard_time": 1696301611,
-      "rank": 3,
-      "category": "美食"
     },
     {
       "raw_hot": 1216152,
@@ -211,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 664899,
+      "num": 664899,
+      "word": "赵今麦董洁巴黎牵手奔跑",
+      "onboard_time": 1696305995,
+      "rank": 8,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 598681,
       "num": 440534,
       "word": "TF家族恭喜你发现了宝藏第二季",
@@ -291,12 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 494843,
-      "num": 494843,
-      "word": "赵今麦董洁巴黎牵手奔跑",
-      "onboard_time": 1696305995,
-      "rank": 8,
-      "category": "作品衍生,时尚"
+      "raw_hot": 505999,
+      "num": 419459,
+      "word": "王楚钦将捧花扔向观众",
+      "onboard_time": 1696305093,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 471862,
@@ -313,6 +321,14 @@
       "onboard_time": 1696299210,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 445347,
+      "num": 445347,
+      "word": "林一沈月体型差",
+      "onboard_time": 1696302512,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 441424,
@@ -339,14 +355,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 419459,
-      "num": 419459,
-      "word": "王楚钦将捧花扔向观众",
-      "onboard_time": 1696305093,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 418028,
       "num": 320376,
       "word": "创维创始人揭恒大真相",
@@ -363,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 405718,
+      "num": 405718,
+      "word": "中国围棋女团战胜韩国夺冠",
+      "onboard_time": 1696307373,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 403890,
       "num": 403890,
       "word": "西安兵马俑酒店",
@@ -371,12 +387,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 403536,
-      "num": 386554,
-      "word": "林一沈月体型差",
-      "onboard_time": 1696302512,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 386793,
+      "num": 386793,
+      "word": "全红婵陈芋汐断层优势",
+      "onboard_time": 1696306652,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 384268,
@@ -435,7 +451,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 344748,
+      "raw_hot": 349840,
       "num": 344748,
       "word": "建议起床后不要马上叠被子",
       "onboard_time": 1696305093,
@@ -497,6 +513,22 @@
       "onboard_time": 1696287921,
       "rank": 12,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 297980,
+      "num": 297980,
+      "word": "女子插队被制止举石头怒砸劝阻者",
+      "onboard_time": 1696306294,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297497,
+      "num": 297497,
+      "word": "围棋团体赛",
+      "onboard_time": 1696306772,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 293696,
@@ -571,6 +603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 273355,
+      "num": 273355,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1696287921,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271288,
       "num": 271288,
       "word": "丞磊卢昱晓谁允许你们靠这么近",
@@ -627,12 +667,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 253867,
+      "num": 253867,
+      "word": "白敬亭 孤独的最强大脑",
+      "onboard_time": 1696307016,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 251430,
       "num": 249394,
       "word": "夏克立再发文控诉黄嘉千",
       "onboard_time": 1696247915,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251240,
+      "num": 251240,
+      "word": "中科院博士开民宿被父亲认为书白读了",
+      "onboard_time": 1696306894,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 244967,
@@ -695,14 +751,6 @@
       "num": 228581,
       "word": "王楚钦采访",
       "onboard_time": 1696256140,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 226501,
-      "num": 205646,
-      "word": "全红婵陈芋汐断层优势",
-      "onboard_time": 1696306652,
       "rank": 30,
       "category": "体育"
     },
@@ -897,14 +945,6 @@
       "onboard_time": 1696261715,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169324,
-      "num": 169324,
-      "word": "女子插队被制止举石头怒砸劝阻者",
-      "onboard_time": 1696306294,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167747,
@@ -1147,14 +1187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125344,
-      "num": 125344,
-      "word": "围棋团体赛",
-      "onboard_time": 1696306772,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 124486,
       "num": 124486,
       "word": "四金一铜 英雄联盟",
@@ -1171,7 +1203,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106167,
+      "raw_hot": 118469,
       "num": 206482,
       "word": "10岁女孩手举国旗随爸爸策马巡边",
       "onboard_time": 1696304313,
@@ -1187,20 +1219,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 97049,
+      "raw_hot": 100563,
       "num": 1374691,
       "word": "旅游新玩法拉动消费力也为经济添活力",
       "onboard_time": 1696302754,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93999,
-      "num": 93999,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1696287921,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 90646,
