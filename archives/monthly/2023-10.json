@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696357373070,
+  "endTime": 1696358161100,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -8563,6 +8563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 72378,
+      "num": 72378,
+      "word": "台风",
+      "onboard_time": 1696356202,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 70466,
       "num": 745827,
       "word": "女排首战",
@@ -8585,14 +8593,6 @@
       "onboard_time": 1696288522,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67434,
-      "num": 67434,
-      "word": "台风",
-      "onboard_time": 1696356202,
-      "rank": 29,
-      "category": "自然"
     },
     {
       "raw_hot": 66655,

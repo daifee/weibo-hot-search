@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696357373070,
+  "endTime": 1696358161100,
   "band_list": [
     {
       "raw_hot": 1420780,
@@ -435,8 +435,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67434,
-      "num": 67434,
+      "raw_hot": 72378,
+      "num": 72378,
       "word": "台风",
       "onboard_time": 1696356202,
       "rank": 29,
