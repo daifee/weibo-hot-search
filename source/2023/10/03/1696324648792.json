@@ -1,0 +1,410 @@
+{
+  "runTime": 1696324648792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2301009,
+        "num": 2301009,
+        "word": "樊振东退赛",
+        "onboard_time": 1696323210,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1835057,
+        "num": 1835057,
+        "word": "2024年不宜结婚是真的吗",
+        "onboard_time": 1696314692,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 32065,
+        "num": 1598392,
+        "word": "一带一路倡议十周年",
+        "onboard_time": 1696322372,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2156991,
+        "num": 1585081,
+        "word": "王一博 香奈儿",
+        "onboard_time": 1696317030,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1508333,
+        "num": 1508333,
+        "word": "陈粒音乐节歌词 口人不眨眼",
+        "onboard_time": 1696320514,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1359990,
+        "num": 1359990,
+        "word": "青云志",
+        "onboard_time": 1696323573,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1332178,
+        "num": 1332178,
+        "word": "店主因百份佛跳墙订单损失11万",
+        "onboard_time": 1696319913,
+        "rank": 6,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 880756,
+        "num": 880756,
+        "word": "日媒炒作中国人赴日旅游热",
+        "onboard_time": 1696323093,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 712972,
+        "num": 712972,
+        "word": "柯洁战胜申旻埈",
+        "onboard_time": 1696323573,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 565388,
+        "num": 565388,
+        "word": "樊振东回应国乒开会梗",
+        "onboard_time": 1696319971,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 551675,
+        "num": 551675,
+        "word": "杨紫巴黎铁塔滚筒运镜",
+        "onboard_time": 1696323872,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 474029,
+        "num": 474029,
+        "word": "奚梦瑶受伤机场坐轮椅",
+        "onboard_time": 1696317152,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471230,
+        "num": 471230,
+        "word": "全红婵跳水看呆了外国网友",
+        "onboard_time": 1696313432,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165625,
+        "num": 459960,
+        "word": "全红婵进女子10米台决赛",
+        "onboard_time": 1696302692,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148541,
+        "num": 459043,
+        "word": "四只滚滚小跑上桌吃火锅",
+        "onboard_time": 1696308212,
+        "rank": 14,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 458851,
+        "num": 458851,
+        "word": "路边摊的臭豆腐到底有多脏",
+        "onboard_time": 1696322014,
+        "rank": 15,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 449101,
+        "num": 449101,
+        "word": "苏炳添的奥运铜牌来了",
+        "onboard_time": 1696314211,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 434126,
+        "num": 434126,
+        "word": "王诗晴不想离婚的原因",
+        "onboard_time": 1696319971,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430201,
+        "num": 430201,
+        "word": "黄景瑜打伞亏不了自己一点",
+        "onboard_time": 1696323514,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 353990,
+        "num": 353990,
+        "word": "花少5姐姐好会穿",
+        "onboard_time": 1696312712,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405423,
+        "num": 351678,
+        "word": "张子枫香奈儿品牌形象大使",
+        "onboard_time": 1696322733,
+        "rank": 20,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 339717,
+        "num": 339717,
+        "word": "酒店1天11对新人结婚拉满横幅",
+        "onboard_time": 1696318052,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279139,
+        "num": 279139,
+        "word": "中国女篮vs朝鲜女篮",
+        "onboard_time": 1696322553,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277299,
+        "num": 277299,
+        "word": "升血糖能力比糖还厉害的小吃",
+        "onboard_time": 1696316192,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 277182,
+        "num": 277182,
+        "word": "霸王茶姬 盗墓笔记",
+        "onboard_time": 1696301611,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 262279,
+        "num": 262279,
+        "word": "孙颖莎我是如此相信",
+        "onboard_time": 1696321651,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238067,
+        "num": 238067,
+        "word": "暗恋一个人15年顾许表白了",
+        "onboard_time": 1696318413,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224117,
+        "num": 224117,
+        "word": "虞书欣到底多高",
+        "onboard_time": 1696316671,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208602,
+        "num": 208602,
+        "word": "跟马龙一架飞机是什么体验",
+        "onboard_time": 1696313192,
+        "rank": 28,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 179358,
+        "num": 179358,
+        "word": "王楚钦的唇语也太好辨别",
+        "onboard_time": 1696311271,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174581,
+        "num": 174581,
+        "word": "陈梦 有如知己的你们为我加油",
+        "onboard_time": 1696318231,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170253,
+        "num": 170253,
+        "word": "百年大行美国富国银行高管跳楼身亡",
+        "onboard_time": 1696318592,
+        "rank": 31,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 169563,
+        "num": 169563,
+        "word": "李梦 又稳又能打",
+        "onboard_time": 1696323935,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164705,
+        "num": 164705,
+        "word": "网约车司机3个月已经道歉了1800次",
+        "onboard_time": 1696303293,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155634,
+        "num": 155634,
+        "word": "魏大勋 被考古很荣幸",
+        "onboard_time": 1696324416,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152700,
+        "num": 152700,
+        "word": "张凌赫美拉德穿搭",
+        "onboard_time": 1696323872,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151641,
+        "num": 151641,
+        "word": "被文物修复师的一封信戳中泪崩",
+        "onboard_time": 1696324416,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151291,
+        "num": 151291,
+        "word": "被刘亦菲这段台词治愈了",
+        "onboard_time": 1696321353,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136984,
+        "num": 136984,
+        "word": "刘宇宁珠帘玉幕",
+        "onboard_time": 1696317571,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134919,
+        "num": 134919,
+        "word": "孙怡一边端水一边点评",
+        "onboard_time": 1696321475,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133649,
+        "num": 133649,
+        "word": "中科院博士开民宿被父亲认为书白读了",
+        "onboard_time": 1696306894,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133461,
+        "num": 133461,
+        "word": "前任4票房破5亿",
+        "onboard_time": 1696321892,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130415,
+        "num": 130415,
+        "word": "恒大",
+        "onboard_time": 1696300954,
+        "rank": 42,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 128087,
+        "num": 128087,
+        "word": "安徽一辆商务车追尾拖拉机致3死",
+        "onboard_time": 1696318352,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123163,
+        "num": 123163,
+        "word": "胖东来超市免费为顾客发雨衣",
+        "onboard_time": 1696312054,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123140,
+        "num": 123140,
+        "word": "赵今麦董洁巴黎牵手奔跑",
+        "onboard_time": 1696305995,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122327,
+        "num": 122327,
+        "word": "韩国棋手把聂卫平搞懵了",
+        "onboard_time": 1696319434,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120000,
+        "num": 120000,
+        "word": "17岁四川女孩登顶世界第6高峰",
+        "onboard_time": 1696321533,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113768,
+        "num": 113768,
+        "word": "王诗晴纪焕博吵架让所有人尴尬",
+        "onboard_time": 1696321353,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111446,
+        "num": 111446,
+        "word": "孙颖莎是眼神莎吧",
+        "onboard_time": 1696316491,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国是心之所系情之所归#"
+    }
+  }
+}
