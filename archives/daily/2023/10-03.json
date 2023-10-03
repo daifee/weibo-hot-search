@@ -1,7 +1,15 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696325661277,
+  "endTime": 1696328326362,
   "band_list": [
+    {
+      "raw_hot": 4409177,
+      "num": 5659177,
+      "word": "全红婵7个10分",
+      "onboard_time": 1696327114,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 3005934,
       "num": 3005934,
@@ -33,6 +41,14 @@
       "onboard_time": 1696317030,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2142606,
+      "num": 2142606,
+      "word": "全红婵跳水看呆了外国网友",
+      "onboard_time": 1696313432,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 1997677,
@@ -99,14 +115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1360947,
-      "num": 1360947,
-      "word": "全红婵跳水看呆了外国网友",
-      "onboard_time": 1696313432,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1332178,
       "num": 1332178,
       "word": "店主因百份佛跳墙订单损失11万",
@@ -169,6 +177,14 @@
       "onboard_time": 1696289423,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1048346,
+      "num": 1048346,
+      "word": "柯洁两枚银牌",
+      "onboard_time": 1696327417,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1046007,
@@ -259,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 867367,
+      "num": 1735758,
+      "word": "新娘回应暂停婚礼救高烧惊厥女孩",
+      "onboard_time": 1696326637,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 848490,
       "num": 749749,
       "word": "孙颖莎说遗憾是前进的动力",
@@ -272,6 +296,14 @@
       "word": "全红婵进女子10米台决赛",
       "onboard_time": 1696302692,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 824429,
+      "num": 277312,
+      "word": "柯洁团体决赛不敌申旻埈",
+      "onboard_time": 1696327897,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -289,6 +321,14 @@
       "onboard_time": 1696312712,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 789463,
+      "num": 789463,
+      "word": "Jennie巴黎时装周",
+      "onboard_time": 1696325495,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 787694,
@@ -339,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 712929,
+      "num": 712929,
+      "word": "张婧仪累了我替你演两集",
+      "onboard_time": 1696325017,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 709475,
       "num": 709475,
       "word": "马龙和他两个社恐的孩子",
@@ -348,7 +396,7 @@
     },
     {
       "raw_hot": 705006,
-      "num": 565388,
+      "num": 661198,
       "word": "樊振东回应国乒开会梗",
       "onboard_time": 1696319971,
       "rank": 10,
@@ -387,8 +435,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 638230,
+      "num": 449404,
+      "word": "新郎结婚当天被锁上大铁链",
+      "onboard_time": 1696324894,
+      "rank": 21,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 630390,
-      "num": 630390,
+      "num": 794135,
       "word": "酒店1天11对新人结婚拉满横幅",
       "onboard_time": 1696318052,
       "rank": 26,
@@ -449,6 +505,14 @@
       "onboard_time": 1696311271,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569004,
+      "num": 569004,
+      "word": "鹿晗张艺兴发色梦回EXO时期",
+      "onboard_time": 1696325735,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 544560,
@@ -531,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498932,
+      "num": 498932,
+      "word": "中国围棋男团不敌韩国获银牌",
+      "onboard_time": 1696327713,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487517,
       "num": 442391,
       "word": "升血糖能力比糖还厉害的小吃",
@@ -563,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 449650,
+      "num": 449650,
+      "word": "妈妈你已经无法伤害我了",
+      "onboard_time": 1696326575,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 448600,
       "num": 356765,
       "word": "我在十一靠婚礼搞钱8天赚3万",
@@ -593,14 +673,6 @@
       "onboard_time": 1696312112,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 444408,
-      "num": 444408,
-      "word": "Jennie巴黎时装周",
-      "onboard_time": 1696325495,
-      "rank": 11,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 441424,
@@ -665,6 +737,14 @@
       "onboard_time": 1696322733,
       "rank": 20,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 404597,
+      "num": 404597,
+      "word": "杨舒予好帅",
+      "onboard_time": 1696326036,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 403890,
@@ -771,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343749,
+      "num": 343749,
+      "word": "张碧晨去游乐园像去进货",
+      "onboard_time": 1696326815,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336715,
       "num": 336715,
       "word": "孙颖莎是眼神莎吧",
@@ -785,14 +873,6 @@
       "onboard_time": 1696304973,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 331135,
-      "num": 303360,
-      "word": "新郎结婚当天被锁上大铁链",
-      "onboard_time": 1696324894,
-      "rank": 21,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 330179,
@@ -881,6 +961,14 @@
       "onboard_time": 1696306772,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 295996,
+      "num": 295996,
+      "word": "超雄综合征",
+      "onboard_time": 1696326874,
+      "rank": 28,
+      "category": "知识科普"
     },
     {
       "raw_hot": 293696,
@@ -1027,6 +1115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 260564,
+      "num": 260564,
+      "word": "平遥 服务器",
+      "onboard_time": 1696325916,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 255784,
       "num": 255784,
       "word": "杨紫秀场合影状态好绝",
@@ -1097,6 +1193,14 @@
       "onboard_time": 1696301370,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236283,
+      "num": 236283,
+      "word": "魏大勋 被考古很荣幸",
+      "onboard_time": 1696324416,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 235314,
@@ -1209,14 +1313,6 @@
       "onboard_time": 1696295792,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216048,
-      "num": 216048,
-      "word": "魏大勋 被考古很荣幸",
-      "onboard_time": 1696324416,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 215680,
@@ -1339,6 +1435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201904,
+      "num": 201904,
+      "word": "志愿军",
+      "onboard_time": 1696327417,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200322,
       "num": 200322,
       "word": "全红婵被拍到比赛间隙还在练习动作",
@@ -1360,6 +1464,14 @@
       "word": "中国男篮战胜韩国男篮",
       "onboard_time": 1696313614,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197621,
+      "num": 197621,
+      "word": "陈雨菲两个21比1",
+      "onboard_time": 1696326274,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -1441,14 +1553,6 @@
       "onboard_time": 1696244253,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 187305,
-      "num": 187305,
-      "word": "张婧仪累了我替你演两集",
-      "onboard_time": 1696325017,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 185201,
@@ -1579,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 162851,
+      "num": 162851,
+      "word": "周雨彤美拉德穿搭",
+      "onboard_time": 1696326453,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 162394,
       "num": 162394,
       "word": "巴特勒又换发型了",
@@ -1609,6 +1721,14 @@
       "onboard_time": 1696316911,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160440,
+      "num": 160440,
+      "word": "张凌赫新剧梦回长珩仙君",
+      "onboard_time": 1696327835,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 159218,
@@ -1859,6 +1979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133668,
+      "num": 439550,
+      "word": "国旗掉地面辅警小心捡起放口袋",
+      "onboard_time": 1696327174,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131364,
       "num": 131364,
       "word": "杭州亚运会音乐是懂内涵人的",
@@ -1872,6 +2000,14 @@
       "word": "女子被困外省高速巧遇家乡警察救援",
       "onboard_time": 1696298913,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130330,
+      "num": 279305,
+      "word": "民警上班途中遇纠纷立马变装上岗",
+      "onboard_time": 1696327235,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -1944,6 +2080,14 @@
       "word": "张桂梅师生与消防员合唱我和我的祖国",
       "onboard_time": 1696320572,
       "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113981,
+      "num": 502022,
+      "word": "千人挥旗齐唱歌唱祖国超燃",
+      "onboard_time": 1696326756,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -2076,7 +2220,7 @@
     },
     {
       "raw_hot": 32065,
-      "num": 1671424,
+      "num": 2337335,
       "word": "一带一路倡议十周年",
       "onboard_time": 1696322372,
       "rank": 2,
