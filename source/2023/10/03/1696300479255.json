@@ -1,0 +1,410 @@
+{
+  "runTime": 1696300479255,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527008,
+        "num": 1527008,
+        "word": "瘦不下来是因为皮质醇过高",
+        "onboard_time": 1696297892,
+        "rank": 0,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 1197912,
+        "num": 1197912,
+        "word": "日本开始准备核污染水第二轮排海",
+        "onboard_time": 1696298614,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 43399,
+        "num": 1138169,
+        "word": "中国天眼新发现76颗暗弱的偶发脉冲星",
+        "onboard_time": 1696251701,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 1117568,
+        "num": 1117568,
+        "word": "金晨最不想承认自己会跳舞的一次",
+        "onboard_time": 1696295251,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 665712,
+        "num": 665712,
+        "word": "于文文在海底捞社死式唱何必",
+        "onboard_time": 1696292430,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 641372,
+        "num": 641372,
+        "word": "孙颖莎回复王楚钦继续努力",
+        "onboard_time": 1696299752,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 638837,
+        "num": 638837,
+        "word": "王楚钦感谢东哥莎莎",
+        "onboard_time": 1696293393,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521925,
+        "num": 521925,
+        "word": "一群余华举起了他们的铁生",
+        "onboard_time": 1696298552,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 435649,
+        "num": 435649,
+        "word": "东邪西毒 演员精神状态",
+        "onboard_time": 1696298132,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410489,
+        "num": 410489,
+        "word": "周冬雨生图 云淡风轻的气质",
+        "onboard_time": 1696295552,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 919385,
+        "num": 410299,
+        "word": "王楚钦陈梦",
+        "onboard_time": 1696288701,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 677650,
+        "num": 410260,
+        "word": "沈梦辰的辫子1米5长",
+        "onboard_time": 1696291528,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 651577,
+        "num": 410061,
+        "word": "马龙和他两个社恐的孩子",
+        "onboard_time": 1696299091,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257647,
+        "num": 409801,
+        "word": "女儿把录警通知书带给英烈父亲",
+        "onboard_time": 1696297292,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180069,
+        "num": 409613,
+        "word": "放假了大熊猫把皮衣脱下来搭树上晾晾",
+        "onboard_time": 1696289482,
+        "rank": 14,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 409534,
+        "num": 409534,
+        "word": "秦始皇想不到两千多年后六国子民花钱来拜",
+        "onboard_time": 1696248516,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624376,
+        "num": 390384,
+        "word": "研招网回应女生手滑拒绝保研通知",
+        "onboard_time": 1696299392,
+        "rank": 16,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 604994,
+        "num": 384164,
+        "word": "黄奕外网生图",
+        "onboard_time": 1696289423,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 367391,
+        "num": 367391,
+        "word": "夏克立已22个月未与女儿联系",
+        "onboard_time": 1696290446,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358271,
+        "num": 358271,
+        "word": "龚俊三天三套高定",
+        "onboard_time": 1696299333,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 376917,
+        "num": 356765,
+        "word": "我在十一靠婚礼搞钱8天赚3万",
+        "onboard_time": 1696299210,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349576,
+        "num": 349576,
+        "word": "把朋友圈三万多条消息点开了",
+        "onboard_time": 1696291048,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330179,
+        "num": 330179,
+        "word": "成都人这8天反向旅游逛花市",
+        "onboard_time": 1696298251,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 297960,
+        "num": 297960,
+        "word": "坚如磐石为什么争议大",
+        "onboard_time": 1696291829,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284289,
+        "num": 284289,
+        "word": "亚运电竞中国4金1铜收官",
+        "onboard_time": 1696261178,
+        "rank": 24,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 263264,
+        "num": 263264,
+        "word": "王楚钦冠军",
+        "onboard_time": 1696253330,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256936,
+        "num": 256936,
+        "word": "丞磊卢昱晓谁允许你们靠这么近",
+        "onboard_time": 1696298433,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252135,
+        "num": 252135,
+        "word": "广西一座山因张馨予打卡成网红",
+        "onboard_time": 1696298251,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 249044,
+        "num": 249044,
+        "word": "21岁女孩当职业伴娘参加50多场婚礼",
+        "onboard_time": 1696295671,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230832,
+        "num": 230832,
+        "word": "陈芋汐全红婵出战10米台",
+        "onboard_time": 1696296211,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 297977,
+        "num": 228983,
+        "word": "王楚钦说请继续为国乒加油",
+        "onboard_time": 1696297472,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220427,
+        "num": 220427,
+        "word": "男子含泪跪地吃生母煮的醪糟蛋",
+        "onboard_time": 1696257579,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213770,
+        "num": 213770,
+        "word": "mRNA疫苗获得诺贝尔奖",
+        "onboard_time": 1696292369,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209094,
+        "num": 209094,
+        "word": "虞书欣在法国一天吃一顿",
+        "onboard_time": 1696257702,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 202344,
+        "num": 202344,
+        "word": "王楚钦采访",
+        "onboard_time": 1696256140,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200106,
+        "num": 200106,
+        "word": "龚俊朱珠莱托少爷同框",
+        "onboard_time": 1696296513,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196341,
+        "num": 196341,
+        "word": "沈梦辰带父母去巴黎时装周",
+        "onboard_time": 1696296092,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191742,
+        "num": 191742,
+        "word": "西安兵马俑酒店",
+        "onboard_time": 1696288825,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 189111,
+        "num": 189111,
+        "word": "林双又捉到出轨男",
+        "onboard_time": 1696261534,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179581,
+        "num": 179581,
+        "word": "女孩勇敢钻进高铁站台缝隙托举幼童",
+        "onboard_time": 1696298192,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178361,
+        "num": 178361,
+        "word": "才知道长期喝粥对胃不好",
+        "onboard_time": 1696288642,
+        "rank": 40,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 166280,
+        "num": 166280,
+        "word": "樊振东3比4王楚钦",
+        "onboard_time": 1696253390,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165472,
+        "num": 165472,
+        "word": "创维创始人揭恒大真相",
+        "onboard_time": 1696290567,
+        "rank": 42,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 159145,
+        "num": 159145,
+        "word": "女教师被举报十几次听到理由都想笑",
+        "onboard_time": 1696243594,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154784,
+        "num": 154784,
+        "word": "大熊猫躺着吃笋像极了假期宅家的我",
+        "onboard_time": 1696299693,
+        "rank": 44,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 147459,
+        "num": 147459,
+        "word": "C罗打入个人亚冠首球",
+        "onboard_time": 1696294771,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146146,
+        "num": 146146,
+        "word": "女子爬千年古道和同伴背下3000斤垃圾",
+        "onboard_time": 1696296934,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145959,
+        "num": 145959,
+        "word": "王楚钦炸毛",
+        "onboard_time": 1696238613,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143374,
+        "num": 143374,
+        "word": "吞噬星空宇宙篇开播",
+        "onboard_time": 1696300173,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 131317,
+        "num": 131317,
+        "word": "女子被困外省高速巧遇家乡警察救援",
+        "onboard_time": 1696298913,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#传承弘扬爱国奋斗精神#"
+    }
+  }
+}
