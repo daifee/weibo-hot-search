@@ -1,0 +1,410 @@
+{
+  "runTime": 1696347285760,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1766956,
+        "num": 1766956,
+        "word": "我P都不敢P成这样",
+        "onboard_time": 1696330294,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1047411,
+        "num": 1047411,
+        "word": "满江红",
+        "onboard_time": 1696343019,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66160,
+        "num": 774282,
+        "word": "沉浸式感觉金秋神州绝美风光",
+        "onboard_time": 1696341641,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 694801,
+        "num": 694801,
+        "word": "全红婵的采访一般只有三个字",
+        "onboard_time": 1696341760,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 694665,
+        "num": 694665,
+        "word": "全红婵10101010101010截图打卡",
+        "onboard_time": 1696330774,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684528,
+        "num": 684528,
+        "word": "颈椎不好建议别睡软枕头",
+        "onboard_time": 1696337198,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 638530,
+        "num": 638530,
+        "word": "全红婵跳水看呆了外国网友",
+        "onboard_time": 1696313432,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633661,
+        "num": 633661,
+        "word": "中国女足3比4惜败日本",
+        "onboard_time": 1696341701,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 408019,
+        "num": 408019,
+        "word": "全红婵7个10分",
+        "onboard_time": 1696327114,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341245,
+        "num": 341245,
+        "word": "中国小伙4×100接力冠军",
+        "onboard_time": 1696340564,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1511662,
+        "num": 340515,
+        "word": "爱马仕总监晒和Angelababy合照",
+        "onboard_time": 1696335039,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1450046,
+        "num": 339596,
+        "word": "湖南岳阳一婚车发生车祸",
+        "onboard_time": 1696344160,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1364125,
+        "num": 338948,
+        "word": "暹罗枪击案一名中国游客死亡",
+        "onboard_time": 1696342241,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888344,
+        "num": 337473,
+        "word": "赵今麦 MiuMiu",
+        "onboard_time": 1696336420,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 450696,
+        "num": 336297,
+        "word": "中日韩三国选手相互安慰离场",
+        "onboard_time": 1696343199,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 791722,
+        "num": 335478,
+        "word": "中韩女星miumiu看秀造型",
+        "onboard_time": 1696345179,
+        "rank": 15,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 716333,
+        "num": 334088,
+        "word": "王楚钦说自己世界第一下榜太快",
+        "onboard_time": 1696344877,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653021,
+        "num": 332583,
+        "word": "王一博G社生图",
+        "onboard_time": 1696342362,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 519854,
+        "num": 332049,
+        "word": "泰国一商场发生枪击案已致3人死亡",
+        "onboard_time": 1696341338,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 458127,
+        "num": 330417,
+        "word": "Jennie金智秀朴彩英G社生图",
+        "onboard_time": 1696336841,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 423994,
+        "num": 329320,
+        "word": "许玮甯外网生图",
+        "onboard_time": 1696344638,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 361418,
+        "num": 328844,
+        "word": "居然收到了黄轩的微博私信",
+        "onboard_time": 1696337979,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 420043,
+        "num": 327872,
+        "word": "曾黎的照片被贴在巴黎街头",
+        "onboard_time": 1696335997,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327142,
+        "num": 327142,
+        "word": "终于知道怎么选牛仔裤了",
+        "onboard_time": 1696342301,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 309534,
+        "num": 309534,
+        "word": "日本女足全队向水庆霞鞠躬",
+        "onboard_time": 1696346858,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303362,
+        "num": 303362,
+        "word": "吴京谢楠儿子是王楚钦迷弟",
+        "onboard_time": 1696346919,
+        "rank": 25,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 291079,
+        "num": 291079,
+        "word": "张元英小香风短裙造型",
+        "onboard_time": 1696344160,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286027,
+        "num": 286027,
+        "word": "汪顺已经在我手机里游了一个星期了",
+        "onboard_time": 1696344577,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272421,
+        "num": 272421,
+        "word": "日媒说的2000万中国游客在哪",
+        "onboard_time": 1696332817,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271087,
+        "num": 271087,
+        "word": "原来双肩包这么能装",
+        "onboard_time": 1696344277,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252623,
+        "num": 252623,
+        "word": "份子钱随1000是什么水平",
+        "onboard_time": 1696330595,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240122,
+        "num": 240122,
+        "word": "少年轻生挂21楼辅警徒手连凿11拳救下",
+        "onboard_time": 1696345418,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230180,
+        "num": 230180,
+        "word": "甄妮发文质问郑少秋",
+        "onboard_time": 1696337680,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228297,
+        "num": 228297,
+        "word": "薛之谦是个劳模但就是不来重庆",
+        "onboard_time": 1696346260,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 221024,
+        "num": 221024,
+        "word": "全红婵陈芋汐拥抱",
+        "onboard_time": 1696329396,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212405,
+        "num": 212405,
+        "word": "黄晓明的名梗是对杨紫说的",
+        "onboard_time": 1696334198,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211074,
+        "num": 211074,
+        "word": "侯明昊这次演大妖",
+        "onboard_time": 1696346676,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208063,
+        "num": 208063,
+        "word": "泰国曼谷暹罗百丽宫疑发生枪击案",
+        "onboard_time": 1696329815,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203436,
+        "num": 203436,
+        "word": "薛之谦发无画面视频感谢盲人女孩",
+        "onboard_time": 1696343860,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201993,
+        "num": 201993,
+        "word": "全红婵陈芋汐包揽冠亚军",
+        "onboard_time": 1696328561,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198801,
+        "num": 198801,
+        "word": "迷笛发布音乐节乐迷财物被盗公告",
+        "onboard_time": 1696338642,
+        "rank": 40,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 196164,
+        "num": 196164,
+        "word": "新郎接亲秒变剥玉米大赛",
+        "onboard_time": 1696346977,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186078,
+        "num": 186078,
+        "word": "樊振东因伤病退赛",
+        "onboard_time": 1696330237,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185618,
+        "num": 185618,
+        "word": "全红婵夺金",
+        "onboard_time": 1696328677,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178915,
+        "num": 178915,
+        "word": "第一次见男女主恋爱互骗20多集的",
+        "onboard_time": 1696336717,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176280,
+        "num": 176280,
+        "word": "南阳市民含泪感谢迷笛音乐节",
+        "onboard_time": 1696343979,
+        "rank": 45,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 160143,
+        "num": 160143,
+        "word": "男子接力反超日本队瞬间太燃了",
+        "onboard_time": 1696345841,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158187,
+        "num": 158187,
+        "word": "王者冠军发博回忆亚运",
+        "onboard_time": 1696343979,
+        "rank": 47,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 146572,
+        "num": 146572,
+        "word": "扒手国庆节搞事情被民警盯上终翻车",
+        "onboard_time": 1696346561,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141431,
+        "num": 141431,
+        "word": "陈佳鹏逆转",
+        "onboard_time": 1696341043,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为梦想而战为热爱而战#"
+    }
+  }
+}
