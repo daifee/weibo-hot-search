@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696339304429,
+  "endTime": 1696340041383,
   "band_list": [
     {
       "raw_hot": 9043821,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2789072,
+      "num": 2573777,
+      "word": "迷笛 偷东西",
+      "onboard_time": 1696335158,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2773405,
       "num": 2773405,
       "word": "全红婵陈芋汐包揽冠亚军",
@@ -49,14 +57,6 @@
       "onboard_time": 1696258901,
       "rank": 0,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 2573777,
-      "num": 2573777,
-      "word": "迷笛 偷东西",
-      "onboard_time": 1696335158,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 2358028,
@@ -105,6 +105,14 @@
       "onboard_time": 1696297892,
       "rank": 0,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 1678919,
+      "num": 1678919,
+      "word": "中国姑娘4×100接力金牌",
+      "onboard_time": 1696339245,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1651651,
@@ -227,8 +235,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1069586,
-      "num": 1069586,
+      "raw_hot": 1106680,
+      "num": 1106680,
       "word": "女足丢球",
       "onboard_time": 1696335937,
       "rank": 16,
@@ -291,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 976889,
+      "num": 976889,
+      "word": "中国女足对战日本队",
+      "onboard_time": 1696335876,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 965437,
       "num": 965437,
       "word": "日媒炒作中国人赴日旅游热",
@@ -321,6 +337,14 @@
       "onboard_time": 1696259080,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 889757,
+      "num": 671624,
+      "word": "Jennie金智秀朴彩英G社生图",
+      "onboard_time": 1696336841,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 881302,
@@ -371,20 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 856051,
-      "num": 601269,
-      "word": "Jennie金智秀朴彩英G社生图",
-      "onboard_time": 1696336841,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 848490,
       "num": 749749,
       "word": "孙颖莎说遗憾是前进的动力",
       "onboard_time": 1696312771,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 840567,
+      "num": 840567,
+      "word": "颈椎不好建议别睡软枕头",
+      "onboard_time": 1696337198,
+      "rank": 44,
+      "category": "知识科普"
     },
     {
       "raw_hot": 829818,
@@ -400,14 +424,6 @@
       "word": "柯洁团体决赛不敌申旻埈",
       "onboard_time": 1696327897,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 801688,
-      "num": 801688,
-      "word": "中国女足对战日本队",
-      "onboard_time": 1696335876,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -441,6 +457,14 @@
       "onboard_time": 1696259620,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 780305,
+      "num": 670583,
+      "word": "曾黎的照片被贴在巴黎街头",
+      "onboard_time": 1696335997,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 779952,
@@ -489,14 +513,6 @@
       "onboard_time": 1696323514,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 731788,
-      "num": 580363,
-      "word": "曾黎的照片被贴在巴黎街头",
-      "onboard_time": 1696335997,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 727801,
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 688616,
-      "num": 575749,
+      "num": 670376,
       "word": "甄妮发文质问郑少秋",
       "onboard_time": 1696337680,
       "rank": 16,
@@ -635,14 +651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 617349,
-      "num": 617349,
-      "word": "颈椎不好建议别睡软枕头",
-      "onboard_time": 1696337198,
-      "rank": 44,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 598681,
       "num": 440534,
       "word": "TF家族恭喜你发现了宝藏第二季",
@@ -689,6 +697,14 @@
       "onboard_time": 1696311271,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 568973,
+      "num": 699755,
+      "word": "樊振东因伤病退赛",
+      "onboard_time": 1696330237,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 557189,
@@ -771,14 +787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 531741,
-      "num": 699755,
-      "word": "樊振东因伤病退赛",
-      "onboard_time": 1696330237,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 511828,
       "num": 511828,
       "word": "王楚钦炸毛",
@@ -817,6 +825,14 @@
       "onboard_time": 1696322014,
       "rank": 37,
       "category": "美食,社会新闻"
+    },
+    {
+      "raw_hot": 474037,
+      "num": 474037,
+      "word": "居然收到了黄轩的微博私信",
+      "onboard_time": 1696337979,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 471862,
@@ -1003,6 +1019,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 380667,
+      "num": 380667,
+      "word": "中国男子棒球战胜日本",
+      "onboard_time": 1696339602,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376838,
       "num": 376838,
       "word": "王楚钦孙颖莎",
@@ -1019,14 +1043,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 372978,
-      "num": 372978,
-      "word": "居然收到了黄轩的微博私信",
-      "onboard_time": 1696337979,
-      "rank": 22,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 372505,
       "num": 372505,
       "word": "九图看完前任4",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1696302813,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367260,
+      "num": 367260,
+      "word": "全红婵陈芋汐身上多了很多胶布",
+      "onboard_time": 1696338338,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 366733,
@@ -1115,12 +1139,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 347293,
-      "num": 347293,
-      "word": "全红婵陈芋汐身上多了很多胶布",
-      "onboard_time": 1696338338,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 350378,
+      "num": 350378,
+      "word": "马嘉祺丁程鑫刘耀文三人行vlog",
+      "onboard_time": 1696337979,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 347089,
@@ -1251,20 +1275,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306113,
-      "num": 306113,
-      "word": "马嘉祺丁程鑫刘耀文三人行vlog",
-      "onboard_time": 1696337979,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305758,
       "num": 337596,
       "word": "叙利亚运动员在杭州亚运会收获新感动",
       "onboard_time": 1696287921,
       "rank": 12,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 302446,
+      "num": 302446,
+      "word": "林允儿赵今麦同框",
+      "onboard_time": 1696338818,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 298314,
@@ -1361,6 +1385,14 @@
       "onboard_time": 1696303293,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284779,
+      "num": 284779,
+      "word": "迷笛发布音乐节乐迷财物被盗公告",
+      "onboard_time": 1696338642,
+      "rank": 44,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 281239,
@@ -1619,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231229,
-      "num": 231229,
-      "word": "林允儿赵今麦同框",
-      "onboard_time": 1696338818,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 228700,
       "num": 228700,
       "word": "王诗晴纪焕博吵架让所有人尴尬",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1696309773,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227307,
-      "num": 227307,
-      "word": "迷笛发布音乐节乐迷财物被盗公告",
-      "onboard_time": 1696338642,
-      "rank": 44,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 226933,
@@ -2043,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183899,
+      "num": 183899,
+      "word": "孙颖莎亚运三冠王",
+      "onboard_time": 1696339360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183576,
       "num": 183576,
       "word": "张艺兴美拉德裤子",
@@ -2072,6 +2096,14 @@
       "word": "中国女足半决赛对战日本",
       "onboard_time": 1696294530,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177529,
+      "num": 177529,
+      "word": "葛曼棋双冠王",
+      "onboard_time": 1696340018,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2153,14 +2185,6 @@
       "onboard_time": 1696240655,
       "rank": 40,
       "category": "时尚,艺人"
-    },
-    {
-      "raw_hot": 167456,
-      "num": 167456,
-      "word": "中国姑娘4×100接力金牌",
-      "onboard_time": 1696339245,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 167282,
@@ -2707,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79762,
+      "num": 671283,
+      "word": "巴黎秀场的缪斯女神们",
+      "onboard_time": 1696336178,
+      "rank": 14,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 76488,
       "num": 76488,
       "word": "金牌碰在一起的声音好好听",
@@ -2731,14 +2763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63292,
-      "num": 589943,
-      "word": "巴黎秀场的缪斯女神们",
-      "onboard_time": 1696336178,
-      "rank": 14,
-      "category": "时尚,艺人"
-    },
-    {
       "raw_hot": 59191,
       "num": 59191,
       "word": "傅云深朱旧除夕夜分手",
@@ -2755,20 +2779,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 47212,
+      "num": 1603547,
+      "word": "畅游祖国山河",
+      "onboard_time": 1696322193,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47039,
       "num": 177965,
       "word": "中国女篮和中国台北女篮BGM相亲相爱一家人",
       "onboard_time": 1696288041,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42974,
-      "num": 1603547,
-      "word": "畅游祖国山河",
-      "onboard_time": 1696322193,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 33392,

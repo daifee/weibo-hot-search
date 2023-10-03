@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696339304429,
+  "endTime": 1696340041383,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -179,6 +179,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2789072,
+      "num": 2573777,
+      "word": "迷笛 偷东西",
+      "onboard_time": 1696335158,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2773405,
       "num": 2773405,
       "word": "全红婵陈芋汐包揽冠亚军",
@@ -193,14 +201,6 @@
       "onboard_time": 1696239214,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2573777,
-      "num": 2573777,
-      "word": "迷笛 偷东西",
-      "onboard_time": 1696335158,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 2563643,
@@ -449,6 +449,14 @@
       "onboard_time": 1696211430,
       "rank": 1,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1678919,
+      "num": 1678919,
+      "word": "中国姑娘4×100接力金牌",
+      "onboard_time": 1696339245,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 1677381,
@@ -875,8 +883,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1069586,
-      "num": 1069586,
+      "raw_hot": 1106680,
+      "num": 1106680,
       "word": "女足丢球",
       "onboard_time": 1696335937,
       "rank": 16,
@@ -1051,6 +1059,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 976889,
+      "num": 976889,
+      "word": "中国女足对战日本队",
+      "onboard_time": 1696335876,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 973851,
       "num": 663863,
       "word": "她擦掉了座位上的大姨妈血",
@@ -1137,6 +1153,14 @@
       "onboard_time": 1696240233,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 889757,
+      "num": 671624,
+      "word": "Jennie金智秀朴彩英G社生图",
+      "onboard_time": 1696336841,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 887973,
@@ -1251,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 856051,
-      "num": 601269,
-      "word": "Jennie金智秀朴彩英G社生图",
-      "onboard_time": 1696336841,
-      "rank": 20,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 848490,
       "num": 749749,
       "word": "孙颖莎说遗憾是前进的动力",
@@ -1289,6 +1305,14 @@
       "onboard_time": 1696207950,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 840567,
+      "num": 840567,
+      "word": "颈椎不好建议别睡软枕头",
+      "onboard_time": 1696337198,
+      "rank": 44,
+      "category": "知识科普"
     },
     {
       "raw_hot": 834648,
@@ -1345,14 +1369,6 @@
       "onboard_time": 1696124972,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 801688,
-      "num": 801688,
-      "word": "中国女足对战日本队",
-      "onboard_time": 1696335876,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 801317,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1696144055,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 780305,
+      "num": 670583,
+      "word": "曾黎的照片被贴在巴黎街头",
+      "onboard_time": 1696335997,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 779952,
@@ -1545,14 +1569,6 @@
       "onboard_time": 1696233577,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 731788,
-      "num": 580363,
-      "word": "曾黎的照片被贴在巴黎街头",
-      "onboard_time": 1696335997,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 730951,
@@ -1724,7 +1740,7 @@
     },
     {
       "raw_hot": 688616,
-      "num": 575749,
+      "num": 670376,
       "word": "甄妮发文质问郑少秋",
       "onboard_time": 1696337680,
       "rank": 16,
@@ -1971,14 +1987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 617349,
-      "num": 617349,
-      "word": "颈椎不好建议别睡软枕头",
-      "onboard_time": 1696337198,
-      "rank": 44,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 612895,
       "num": 369120,
       "word": "买过菜才知道麻辣烫有多贵",
@@ -2163,6 +2171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 568973,
+      "num": 699755,
+      "word": "樊振东因伤病退赛",
+      "onboard_time": 1696330237,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 568402,
       "num": 568402,
       "word": "国羽女团vs韩国",
@@ -2329,14 +2345,6 @@
       "onboard_time": 1696253626,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 531741,
-      "num": 699755,
-      "word": "樊振东因伤病退赛",
-      "onboard_time": 1696330237,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 530605,
@@ -2617,6 +2625,14 @@
       "onboard_time": 1696157855,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 474037,
+      "num": 474037,
+      "word": "居然收到了黄轩的微博私信",
+      "onboard_time": 1696337979,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 473582,
@@ -3195,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380667,
+      "num": 380667,
+      "word": "中国男子棒球战胜日本",
+      "onboard_time": 1696339602,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 378890,
       "num": 378890,
       "word": "结婚冷静期有点东西",
@@ -3217,14 +3241,6 @@
       "onboard_time": 1696309892,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 372978,
-      "num": 372978,
-      "word": "居然收到了黄轩的微博私信",
-      "onboard_time": 1696337979,
-      "rank": 22,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 371973,
@@ -3280,6 +3296,14 @@
       "word": "陈雨菲0比2安洗莹",
       "onboard_time": 1696127371,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 367260,
+      "num": 367260,
+      "word": "全红婵陈芋汐身上多了很多胶布",
+      "onboard_time": 1696338338,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -3483,6 +3507,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 350378,
+      "num": 350378,
+      "word": "马嘉祺丁程鑫刘耀文三人行vlog",
+      "onboard_time": 1696337979,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349540,
       "num": 280626,
       "word": "男子尿急误把高架当隔离带一跃而下",
@@ -3505,14 +3537,6 @@
       "onboard_time": 1696130435,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347293,
-      "num": 347293,
-      "word": "全红婵陈芋汐身上多了很多胶布",
-      "onboard_time": 1696338338,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 347089,
@@ -3939,14 +3963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306113,
-      "num": 306113,
-      "word": "马嘉祺丁程鑫刘耀文三人行vlog",
-      "onboard_time": 1696337979,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 305758,
       "num": 337596,
       "word": "叙利亚运动员在杭州亚运会收获新感动",
@@ -4009,6 +4025,14 @@
       "onboard_time": 1696164577,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 302446,
+      "num": 302446,
+      "word": "林允儿赵今麦同框",
+      "onboard_time": 1696338818,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 301755,
@@ -4249,6 +4273,14 @@
       "onboard_time": 1696256259,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 284779,
+      "num": 284779,
+      "word": "迷笛发布音乐节乐迷财物被盗公告",
+      "onboard_time": 1696338642,
+      "rank": 44,
+      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 284621,
@@ -5187,14 +5219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231229,
-      "num": 231229,
-      "word": "林允儿赵今麦同框",
-      "onboard_time": 1696338818,
-      "rank": 42,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 230902,
       "num": 201661,
       "word": "橡皮筋突然成了主人的项链",
@@ -5289,14 +5313,6 @@
       "onboard_time": 1696143573,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 227307,
-      "num": 227307,
-      "word": "迷笛发布音乐节乐迷财物被盗公告",
-      "onboard_time": 1696338642,
-      "rank": 44,
-      "category": "社会新闻,音乐"
     },
     {
       "raw_hot": 226933,
@@ -6411,6 +6427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183899,
+      "num": 183899,
+      "word": "孙颖莎亚运三冠王",
+      "onboard_time": 1696339360,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183705,
       "num": 553497,
       "word": "被边防巡逻路上补拍的婚纱照美哭了",
@@ -6603,6 +6627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 177529,
+      "num": 177529,
+      "word": "葛曼棋双冠王",
+      "onboard_time": 1696340018,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177194,
       "num": 177194,
       "word": "平遥国际电影展 抢票",
@@ -6793,14 +6825,6 @@
       "onboard_time": 1696131451,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 167456,
-      "num": 167456,
-      "word": "中国姑娘4×100接力金牌",
-      "onboard_time": 1696339245,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 167282,
@@ -8107,6 +8131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79762,
+      "num": 671283,
+      "word": "巴黎秀场的缪斯女神们",
+      "onboard_time": 1696336178,
+      "rank": 14,
+      "category": "时尚,艺人"
+    },
+    {
       "raw_hot": 76599,
       "num": 76599,
       "word": "郑钧五点赶高铁开演唱会",
@@ -8169,14 +8201,6 @@
       "onboard_time": 1696110795,
       "rank": 30,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 63292,
-      "num": 589943,
-      "word": "巴黎秀场的缪斯女神们",
-      "onboard_time": 1696336178,
-      "rank": 14,
-      "category": "时尚,艺人"
     },
     {
       "raw_hot": 62075,
@@ -8243,6 +8267,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 47212,
+      "num": 1603547,
+      "word": "畅游祖国山河",
+      "onboard_time": 1696322193,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47039,
       "num": 177965,
       "word": "中国女篮和中国台北女篮BGM相亲相爱一家人",
@@ -8265,14 +8297,6 @@
       "onboard_time": 1696252062,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 42974,
-      "num": 1603547,
-      "word": "畅游祖国山河",
-      "onboard_time": 1696322193,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 42674,
