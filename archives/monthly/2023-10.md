@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/04 00:22:49
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/04 00:38:51
 </p>
 </blockquote>
 <p>
@@ -5481,6 +5481,12 @@ Ame和Maybe一起夺冠（热度：162272）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23" target="weibo">
+小伙称因长期抠鼻子感染丹毒（热度：161833）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8B%A5%E7%90%B3%E6%8B%A5%E6%8A%B1%23" target="weibo">
 全红婵陈若琳拥抱（热度：161671）
 </a>
@@ -5751,6 +5757,12 @@ Ame和Maybe一起夺冠（热度：162272）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%9C%88%E5%A5%B3%E5%84%BF%E6%83%8A%E5%96%9C%E7%8E%B0%E8%BA%AB%E6%83%B9%E6%B6%88%E9%98%B2%E5%91%98%E6%B3%AA%E7%9B%AE%23" target="weibo">
+满月女儿惊喜现身惹消防员泪目（热度：147486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E8%8A%82%E6%B3%B0%E5%B1%B1%E7%9A%84%E7%AC%AC%E4%B8%80%E7%BC%95%E9%98%B3%E5%85%89%23" target="weibo">
 国庆节泰山的第一缕阳光（热度：147054）
 </a>
@@ -5849,6 +5861,12 @@ Ame和Maybe一起夺冠（热度：162272）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%80%A1%E4%B8%80%E8%BE%B9%E7%AB%AF%E6%B0%B4%E4%B8%80%E8%BE%B9%E7%82%B9%E8%AF%84%23" target="weibo">
 孙怡一边端水一边点评（热度：142755）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%96%87%E5%A9%B7%E7%9A%84%E8%84%86%E5%BC%B1%E4%BB%85%E7%94%B7%E5%8F%8B%E5%8F%AF%E8%A7%81%23" target="weibo">
+许文婷的脆弱仅男友可见（热度：142601）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Ame和Maybe一起夺冠（热度：162272）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%9F%B3%E4%B9%90%E6%98%AF%E6%87%82%E5%86%85%E6%B6%B5%E4%BA%BA%E7%9A%84%23" target="weibo">
 杭州亚运会音乐是懂内涵人的（热度：131364）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%9B%B0%E5%A4%96%E7%9C%81%E9%AB%98%E9%80%9F%E5%B7%A7%E9%81%87%E5%AE%B6%E4%B9%A1%E8%AD%A6%E5%AF%9F%E6%95%91%E6%8F%B4%23" target="weibo">
-女子被困外省高速巧遇家乡警察救援（热度：131317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E7%A5%9E%E7%BF%BB%E8%AF%91%23" target="weibo">
-沈腾神翻译（热度：130884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%8A%E7%8F%AD%E9%80%94%E4%B8%AD%E9%81%87%E7%BA%A0%E7%BA%B7%E7%AB%8B%E9%A9%AC%E5%8F%98%E8%A3%85%E4%B8%8A%E5%B2%97%23" target="weibo">
-民警上班途中遇纠纷立马变装上岗（热度：130330）
 </a>
 </li>
 
