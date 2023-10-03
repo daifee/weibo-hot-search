@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696331674742,
+  "endTime": 1696332846136,
   "band_list": [
     {
       "raw_hot": 9043821,
@@ -115,20 +115,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1596375,
+      "num": 1596375,
+      "word": "207C 失误",
+      "onboard_time": 1696328561,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1481170,
       "num": 1481170,
       "word": "英雄联盟",
       "onboard_time": 1696260997,
       "rank": 1,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 1417633,
-      "num": 1417633,
-      "word": "207C 失误",
-      "onboard_time": 1696328561,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 1372648,
@@ -251,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968084,
+      "num": 968084,
+      "word": "我P都不敢P成这样",
+      "onboard_time": 1696330294,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 965437,
       "num": 965437,
       "word": "日媒炒作中国人赴日旅游热",
@@ -265,6 +273,14 @@
       "onboard_time": 1696291528,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 911416,
+      "num": 911416,
+      "word": "全红婵10101010101010截图打卡",
+      "onboard_time": 1696330774,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 895278,
@@ -403,14 +419,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 745787,
-      "num": 745787,
-      "word": "我P都不敢P成这样",
-      "onboard_time": 1696330294,
-      "rank": 12,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 733649,
       "num": 733649,
       "word": "黄景瑜打伞亏不了自己一点",
@@ -499,6 +507,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 632434,
+      "num": 407325,
+      "word": "张家齐",
+      "onboard_time": 1696331976,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 630390,
       "num": 2953082,
       "word": "酒店1天11对新人结婚拉满横幅",
@@ -561,6 +577,14 @@
       "onboard_time": 1696311271,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 557189,
+      "num": 557189,
+      "word": "全红婵教练",
+      "onboard_time": 1696330896,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 544560,
@@ -635,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 501486,
-      "num": 260040,
-      "word": "全红婵10101010101010截图打卡",
-      "onboard_time": 1696330774,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 499732,
       "num": 499732,
       "word": "全红婵陈芋汐断层优势",
@@ -656,6 +672,14 @@
       "word": "中国围棋男团不敌韩国获银牌",
       "onboard_time": 1696327713,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 492656,
+      "num": 699755,
+      "word": "樊振东因伤病退赛",
+      "onboard_time": 1696330237,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -851,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376229,
+      "num": 376229,
+      "word": "份子钱随1000是什么水平",
+      "onboard_time": 1696330595,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 374974,
       "num": 374974,
       "word": "陈凯歌说看朱一龙的脸想起英雄儿女",
@@ -891,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363913,
+      "num": 277840,
+      "word": "全红婵说采访和跳水都难",
+      "onboard_time": 1696331137,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362695,
       "num": 362695,
       "word": "虞书欣到底多高",
@@ -923,14 +963,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 349415,
-      "num": 699755,
-      "word": "樊振东因伤病退赛",
-      "onboard_time": 1696330237,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 347089,
       "num": 347089,
       "word": "白敬亭 孤独的最强大脑",
@@ -947,20 +979,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 343256,
-      "num": 343256,
-      "word": "全红婵教练",
-      "onboard_time": 1696330896,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 336715,
       "num": 336715,
       "word": "孙颖莎是眼神莎吧",
       "onboard_time": 1696316491,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 336671,
+      "num": 336671,
+      "word": "于和伟 终于吃上火锅了",
+      "onboard_time": 1696331196,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 336522,
@@ -1035,28 +1067,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 311300,
-      "num": 311300,
-      "word": "份子钱随1000是什么水平",
-      "onboard_time": 1696330595,
-      "rank": 26,
-      "category": "情感"
-    },
-    {
       "raw_hot": 305758,
       "num": 337596,
       "word": "叙利亚运动员在杭州亚运会收获新感动",
       "onboard_time": 1696287921,
       "rank": 12,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 304635,
-      "num": 258261,
-      "word": "全红婵说采访和跳水都难",
-      "onboard_time": 1696331137,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 297587,
@@ -1139,20 +1155,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 283000,
-      "num": 256854,
-      "word": "于和伟 终于吃上火锅了",
-      "onboard_time": 1696331196,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 281239,
       "num": 281239,
       "word": "mRNA疫苗获得诺贝尔奖",
       "onboard_time": 1696292369,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279602,
+      "num": 279602,
+      "word": "南京演唱会出新规了",
+      "onboard_time": 1696331137,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 279407,
@@ -1201,6 +1217,14 @@
       "onboard_time": 1696296211,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269857,
+      "num": 269857,
+      "word": "卫明醉酒说林双是自己老婆",
+      "onboard_time": 1696332336,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 264222,
@@ -1379,6 +1403,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226933,
+      "num": 226933,
+      "word": "全红婵背乌龟玩偶",
+      "onboard_time": 1696332155,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 226560,
+      "num": 226560,
+      "word": "陈飞宇 为志愿军配音差点缺氧晕倒",
+      "onboard_time": 1696331616,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225822,
       "num": 225822,
       "word": "虾熟了为什么会变红变卷",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1696308932,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221878,
+      "num": 221878,
+      "word": "WTT",
+      "onboard_time": 1696331316,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 220955,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1696294771,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213328,
+      "num": 1162620,
+      "word": "大家都知道你高考语文127分了",
+      "onboard_time": 1696332097,
+      "rank": 6,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 212048,
@@ -1659,22 +1715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194841,
-      "num": 194841,
-      "word": "WTT",
-      "onboard_time": 1696331316,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 193338,
-      "num": 193338,
-      "word": "陈飞宇 为志愿军配音差点缺氧晕倒",
-      "onboard_time": 1696331616,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 192425,
       "num": 192425,
       "word": "Poem设计师称灵感来源迪丽热巴",
@@ -1755,6 +1795,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 178796,
+      "num": 178796,
+      "word": "令人心动的offer",
+      "onboard_time": 1696330357,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178329,
       "num": 178329,
       "word": "中国女足半决赛对战日本",
@@ -1809,14 +1857,6 @@
       "onboard_time": 1696323935,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172910,
-      "num": 172910,
-      "word": "南京演唱会出新规了",
-      "onboard_time": 1696331137,
-      "rank": 46,
-      "category": "演出"
     },
     {
       "raw_hot": 170795,
@@ -1931,12 +1971,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 159698,
-      "num": 159698,
-      "word": "令人心动的offer",
-      "onboard_time": 1696330357,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 159852,
+      "num": 159852,
+      "word": "朋友不出门非要打个卡",
+      "onboard_time": 1696332575,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 159218,
@@ -1993,6 +2033,14 @@
       "onboard_time": 1696299693,
       "rank": 49,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 153764,
+      "num": 153764,
+      "word": "日媒说的2000万中国游客在哪",
+      "onboard_time": 1696332817,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 152700,
