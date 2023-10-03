@@ -1,0 +1,410 @@
+{
+  "runTime": 1696339304429,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2573777,
+        "num": 2573777,
+        "word": "迷笛 偷东西",
+        "onboard_time": 1696335158,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2272988,
+        "num": 2272988,
+        "word": "全红婵7个10分",
+        "onboard_time": 1696327114,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42974,
+        "num": 1603547,
+        "word": "畅游祖国山河",
+        "onboard_time": 1696322193,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069586,
+        "num": 1069586,
+        "word": "女足丢球",
+        "onboard_time": 1696335937,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 878599,
+        "num": 878599,
+        "word": "全红婵跳水看呆了外国网友",
+        "onboard_time": 1696313432,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 801688,
+        "num": 801688,
+        "word": "中国女足对战日本队",
+        "onboard_time": 1696335876,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 797449,
+        "num": 797449,
+        "word": "王一博 香奈儿",
+        "onboard_time": 1696317030,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 747510,
+        "num": 747510,
+        "word": "我P都不敢P成这样",
+        "onboard_time": 1696330294,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 731737,
+        "num": 731737,
+        "word": "全红婵10101010101010截图打卡",
+        "onboard_time": 1696330774,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617349,
+        "num": 617349,
+        "word": "颈椎不好建议别睡软枕头",
+        "onboard_time": 1696337198,
+        "rank": 9,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 2066511,
+        "num": 616958,
+        "word": "爱马仕总监晒和Angelababy合照",
+        "onboard_time": 1696335039,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1566291,
+        "num": 608769,
+        "word": "赵今麦 MiuMiu",
+        "onboard_time": 1696336420,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 856051,
+        "num": 601269,
+        "word": "Jennie金智秀朴彩英G社生图",
+        "onboard_time": 1696336841,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 531741,
+        "num": 593650,
+        "word": "樊振东因伤病退赛",
+        "onboard_time": 1696330237,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63292,
+        "num": 589943,
+        "word": "巴黎秀场的缪斯女神们",
+        "onboard_time": 1696336178,
+        "rank": 14,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 731788,
+        "num": 580363,
+        "word": "曾黎的照片被贴在巴黎街头",
+        "onboard_time": 1696335997,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 688616,
+        "num": 575749,
+        "word": "甄妮发文质问郑少秋",
+        "onboard_time": 1696337680,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 571566,
+        "num": 571566,
+        "word": "全红婵安慰陈芋汐",
+        "onboard_time": 1696334737,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498144,
+        "num": 498144,
+        "word": "207C 失误",
+        "onboard_time": 1696328561,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359955,
+        "num": 474521,
+        "word": "柯洁赛后哭了",
+        "onboard_time": 1696337020,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 467285,
+        "num": 467285,
+        "word": "金博洋 P分",
+        "onboard_time": 1696335454,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 452437,
+        "num": 452437,
+        "word": "日媒说的2000万中国游客在哪",
+        "onboard_time": 1696332817,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372978,
+        "num": 372978,
+        "word": "居然收到了黄轩的微博私信",
+        "onboard_time": 1696337979,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 371161,
+        "num": 371161,
+        "word": "黄晓明的名梗是对杨紫说的",
+        "onboard_time": 1696334198,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366231,
+        "num": 366231,
+        "word": "第一次遇到这种婚宴酒席",
+        "onboard_time": 1696336717,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355997,
+        "num": 355997,
+        "word": "手机只有微信能生活一天么",
+        "onboard_time": 1696335337,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 347293,
+        "num": 347293,
+        "word": "全红婵陈芋汐身上多了很多胶布",
+        "onboard_time": 1696338338,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328225,
+        "num": 328225,
+        "word": "鹿晗张艺兴发色梦回EXO时期",
+        "onboard_time": 1696325735,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325748,
+        "num": 325748,
+        "word": "樊振东说马龙是榜样",
+        "onboard_time": 1696336841,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325393,
+        "num": 325393,
+        "word": "薛之谦你好忙啊",
+        "onboard_time": 1696338218,
+        "rank": 29,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 307473,
+        "num": 307473,
+        "word": "全红婵陈芋汐拥抱",
+        "onboard_time": 1696329396,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306113,
+        "num": 306113,
+        "word": "马嘉祺丁程鑫刘耀文三人行vlog",
+        "onboard_time": 1696337979,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288821,
+        "num": 288821,
+        "word": "许昕没有参加亚运会",
+        "onboard_time": 1696334737,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288498,
+        "num": 288498,
+        "word": "第一次见男女主恋爱互骗20多集的",
+        "onboard_time": 1696336717,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288099,
+        "num": 288099,
+        "word": "泰国曼谷暹罗百丽宫疑发生枪击案",
+        "onboard_time": 1696329815,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284007,
+        "num": 284007,
+        "word": "全红婵陈芋汐包揽冠亚军",
+        "onboard_time": 1696328561,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277878,
+        "num": 277878,
+        "word": "日本女足3分钟两球",
+        "onboard_time": 1696338276,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263115,
+        "num": 263115,
+        "word": "份子钱随1000是什么水平",
+        "onboard_time": 1696330595,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259304,
+        "num": 259304,
+        "word": "全红婵夺金",
+        "onboard_time": 1696328677,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257740,
+        "num": 257740,
+        "word": "张子枫香奈儿品牌形象大使",
+        "onboard_time": 1696322733,
+        "rank": 39,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 242304,
+        "num": 242304,
+        "word": "逛大唐不夜城肉夹馍被谁咬了都不知道",
+        "onboard_time": 1696334315,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232982,
+        "num": 232982,
+        "word": "南阳迷笛",
+        "onboard_time": 1696324959,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231229,
+        "num": 231229,
+        "word": "林允儿赵今麦同框",
+        "onboard_time": 1696338818,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229740,
+        "num": 229740,
+        "word": "吃不完的月饼终于有救了",
+        "onboard_time": 1696334979,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227307,
+        "num": 227307,
+        "word": "迷笛发布音乐节乐迷财物被盗公告",
+        "onboard_time": 1696338642,
+        "rank": 44,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 217421,
+        "num": 217421,
+        "word": "章昊直播 间歇性活跃常态性漏电",
+        "onboard_time": 1696335817,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217232,
+        "num": 217232,
+        "word": "于和伟 终于吃上火锅了",
+        "onboard_time": 1696331196,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193384,
+        "num": 193384,
+        "word": "阴阳师 对弈竞猜",
+        "onboard_time": 1696336961,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190370,
+        "num": 190370,
+        "word": "张婧仪累了我替你演两集",
+        "onboard_time": 1696325017,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167456,
+        "num": 167456,
+        "word": "中国姑娘4×100接力金牌",
+        "onboard_time": 1696339245,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为梦想而战为热爱而战#"
+    }
+  }
+}
