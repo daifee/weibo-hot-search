@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696354447455,
+  "endTime": 1696357373070,
   "band_list": [
     {
       "raw_hot": 1420780,
@@ -179,6 +179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244390,
+      "num": 244390,
+      "word": "第一次见男女主恋爱互骗20多集的",
+      "onboard_time": 1696336717,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 243533,
       "num": 243533,
       "word": "颈椎不好建议别睡软枕头",
@@ -315,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152590,
-      "num": 152590,
-      "word": "第一次见男女主恋爱互骗20多集的",
-      "onboard_time": 1696336717,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150436,
       "num": 150436,
       "word": "南阳市民含泪感谢迷笛音乐节",
@@ -427,6 +427,22 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 81489,
+      "num": 81489,
+      "word": "黄子诚被女友出卖绑架",
+      "onboard_time": 1696354282,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 67434,
+      "num": 67434,
+      "word": "台风",
+      "onboard_time": 1696356202,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 56548,
       "num": 56548,
       "word": "鹿晗张艺兴发色梦回EXO时期",
@@ -435,12 +451,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50389,
+      "num": 50389,
+      "word": "韩素希演我精神状态",
+      "onboard_time": 1696355001,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47488,
       "num": 707645,
       "word": "沉浸式感觉金秋神州绝美风光",
       "onboard_time": 1696341641,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1736,
+      "num": 253221,
+      "word": "潮涌杭州看亚运",
+      "onboard_time": 1696252062,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

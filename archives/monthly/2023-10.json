@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696354447455,
+  "endTime": 1696357373070,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -8491,6 +8491,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 81489,
+      "num": 81489,
+      "word": "黄子诚被女友出卖绑架",
+      "onboard_time": 1696354282,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 80693,
       "num": 80693,
       "word": "110米栏亚洲纪录仍是刘翔",
@@ -8579,6 +8587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67434,
+      "num": 67434,
+      "word": "台风",
+      "onboard_time": 1696356202,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 66655,
       "num": 35531,
       "word": "一起祝福新中国生日快乐",
@@ -8641,6 +8657,14 @@
       "onboard_time": 1696181301,
       "rank": 47,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 50389,
+      "num": 50389,
+      "word": "韩素希演我精神状态",
+      "onboard_time": 1696355001,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 49317,
