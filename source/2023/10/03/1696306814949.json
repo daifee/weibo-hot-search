@@ -1,0 +1,410 @@
+{
+  "runTime": 1696306814949,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1822841,
+        "num": 1822841,
+        "word": "瘦不下来是因为皮质醇过高",
+        "onboard_time": 1696297892,
+        "rank": 0,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 1223520,
+        "num": 1223520,
+        "word": "霸王茶姬 盗墓笔记",
+        "onboard_time": 1696301611,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 97049,
+        "num": 1218784,
+        "word": "旅游新玩法拉动消费力也为经济添活力",
+        "onboard_time": 1696302754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1215563,
+        "num": 1215563,
+        "word": "孙颖莎回复王楚钦继续努力",
+        "onboard_time": 1696299752,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 756064,
+        "num": 756064,
+        "word": "中国台北选手回应反超韩国夺冠",
+        "onboard_time": 1696302813,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 596458,
+        "num": 596458,
+        "word": "朱一龙张子枫戏中战场重逢",
+        "onboard_time": 1696305574,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 566167,
+        "num": 566167,
+        "word": "研招网回应女生手滑拒绝保研通知",
+        "onboard_time": 1696299392,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 554971,
+        "num": 554971,
+        "word": "全红婵进女子10米台决赛",
+        "onboard_time": 1696302692,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494843,
+        "num": 494843,
+        "word": "赵今麦董洁巴黎牵手奔跑",
+        "onboard_time": 1696305995,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 466806,
+        "num": 466806,
+        "word": "金晨最不想承认自己会跳舞的一次",
+        "onboard_time": 1696295251,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445960,
+        "num": 445960,
+        "word": "日本开始准备核污染水第二轮排海",
+        "onboard_time": 1696298614,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 436645,
+        "num": 436645,
+        "word": "马龙和他两个社恐的孩子",
+        "onboard_time": 1696299091,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 419459,
+        "num": 419459,
+        "word": "王楚钦将捧花扔向观众",
+        "onboard_time": 1696305093,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387755,
+        "num": 387755,
+        "word": "沈梦辰的辫子1米5长",
+        "onboard_time": 1696291528,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 180487,
+        "num": 387134,
+        "word": "女儿把录警通知书带给英烈父亲",
+        "onboard_time": 1696297292,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386554,
+        "num": 386554,
+        "word": "林一沈月体型差",
+        "onboard_time": 1696302512,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384268,
+        "num": 384268,
+        "word": "诺奖新得主女儿曾两夺奥运金牌",
+        "onboard_time": 1696303894,
+        "rank": 16,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 366733,
+        "num": 366733,
+        "word": "点了东郊到家的上门按摩",
+        "onboard_time": 1696304673,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336522,
+        "num": 354743,
+        "word": "于和伟 叔圈天菜",
+        "onboard_time": 1696304973,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278493,
+        "num": 345745,
+        "word": "于文文在海底捞社死式唱何必",
+        "onboard_time": 1696292430,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1029986,
+        "num": 345536,
+        "word": "恒大",
+        "onboard_time": 1696300954,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 344748,
+        "num": 344748,
+        "word": "建议起床后不要马上叠被子",
+        "onboard_time": 1696305093,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 341860,
+        "num": 341860,
+        "word": "网约车司机3个月已经道歉了1800次",
+        "onboard_time": 1696303293,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279607,
+        "num": 279607,
+        "word": "我在十一靠婚礼搞钱8天赚3万",
+        "onboard_time": 1696299210,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276049,
+        "num": 276049,
+        "word": "周冬雨雷佳音 没有CP感",
+        "onboard_time": 1696303293,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242652,
+        "num": 242652,
+        "word": "黄奕外网生图",
+        "onboard_time": 1696289423,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233003,
+        "num": 233003,
+        "word": "把朋友圈三万多条消息点开了",
+        "onboard_time": 1696291048,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 226967,
+        "num": 226967,
+        "word": "王楚钦感谢东哥莎莎",
+        "onboard_time": 1696293393,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210395,
+        "num": 210395,
+        "word": "龚俊三天三套高定",
+        "onboard_time": 1696299333,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106167,
+        "num": 206482,
+        "word": "10岁女孩手举国旗随爸爸策马巡边",
+        "onboard_time": 1696304313,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226501,
+        "num": 205646,
+        "word": "全红婵陈芋汐断层优势",
+        "onboard_time": 1696306652,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203948,
+        "num": 203948,
+        "word": "蒋龙终于演男主了",
+        "onboard_time": 1696301432,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203074,
+        "num": 203074,
+        "word": "朱一龙李想",
+        "onboard_time": 1696306472,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201285,
+        "num": 201285,
+        "word": "东邪西毒 演员精神状态",
+        "onboard_time": 1696298132,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198032,
+        "num": 198032,
+        "word": "虾熟了为什么会变红变卷",
+        "onboard_time": 1696301370,
+        "rank": 34,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 176520,
+        "num": 176520,
+        "word": "失笑官宣",
+        "onboard_time": 1696302154,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175713,
+        "num": 175713,
+        "word": "全红婵陈芋汐赛前花式热身",
+        "onboard_time": 1696301370,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173038,
+        "num": 173038,
+        "word": "杜兰特将出战巴黎奥运会",
+        "onboard_time": 1696305754,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169324,
+        "num": 169324,
+        "word": "女子插队被制止举石头怒砸劝阻者",
+        "onboard_time": 1696306294,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167356,
+        "num": 167356,
+        "word": "听说很好吃全员出题式官宣",
+        "onboard_time": 1696303652,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166724,
+        "num": 166724,
+        "word": "中国恒大复牌大涨",
+        "onboard_time": 1696302933,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 149232,
+        "num": 149232,
+        "word": "王楚钦冠军",
+        "onboard_time": 1696253330,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143502,
+        "num": 143502,
+        "word": "多航段机票价格大跳水",
+        "onboard_time": 1696304852,
+        "rank": 42,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 137707,
+        "num": 137707,
+        "word": "白敬亭播报助威中国乒乓",
+        "onboard_time": 1696301134,
+        "rank": 43,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 137151,
+        "num": 137151,
+        "word": "亚运电竞中国4金1铜收官",
+        "onboard_time": 1696261178,
+        "rank": 44,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 135887,
+        "num": 135887,
+        "word": "安徽金鹰俱乐部一飞机坠机1死1伤",
+        "onboard_time": 1696304135,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131809,
+        "num": 131809,
+        "word": "新娘回应出嫁途经父母坟前含泪跪拜",
+        "onboard_time": 1696302813,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126407,
+        "num": 126407,
+        "word": "张艺兴美拉德裤子",
+        "onboard_time": 1696300892,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125344,
+        "num": 125344,
+        "word": "围棋团体赛",
+        "onboard_time": 1696306772,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123857,
+        "num": 123857,
+        "word": "丞磊卢昱晓谁允许你们靠这么近",
+        "onboard_time": 1696298433,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#传承弘扬爱国奋斗精神#"
+    }
+  }
+}
