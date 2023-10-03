@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696351131242,
+  "endTime": 1696353335487,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1617,6 +1617,14 @@
       "onboard_time": 1696295552,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 750589,
+      "num": 750589,
+      "word": "小伙称因长期抠鼻子感染丹毒",
+      "onboard_time": 1696350390,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 747841,
@@ -7291,14 +7299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 161833,
-      "num": 161833,
-      "word": "小伙称因长期抠鼻子感染丹毒",
-      "onboard_time": 1696350390,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 161671,
       "num": 161671,
       "word": "全红婵陈若琳拥抱",
@@ -8513,6 +8513,14 @@
       "onboard_time": 1696288763,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76461,
+      "num": 76461,
+      "word": "这是我见过排量最大的婚车",
+      "onboard_time": 1696350928,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 75818,
