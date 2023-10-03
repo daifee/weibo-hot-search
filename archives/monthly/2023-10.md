@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/04 03:33:56
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/04 04:17:00
 </p>
 </blockquote>
 <p>
@@ -5463,6 +5463,12 @@ CCTV6国庆片单（热度：164981）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9F%A9%E5%9B%BD%E4%BA%BA%E7%8B%AC%E7%88%B1%E5%BC%A0%E5%AE%B6%E7%95%8C%23" target="weibo">
+为什么韩国人独爱张家界（热度：162917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E7%BE%8E%E6%8B%89%E5%BE%B7%E7%A9%BF%E6%90%AD%23" target="weibo">
 周雨彤美拉德穿搭（热度：162851）
 </a>
@@ -6005,12 +6011,6 @@ Ame和Maybe一起夺冠（热度：162272）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%AB%E6%96%AF%E7%A7%91%E8%A1%8C%E5%8A%A8%E6%98%AF%E7%BA%AF%E8%A1%80%E7%B1%BB%E5%9E%8B%E7%89%87%23" target="weibo">
 莫斯科行动是纯血类型片（热度：133494）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E4%BA%BA%E7%9C%8B%E5%9D%9A%E5%A6%82%E7%A3%90%E7%9F%B3%E4%B8%8A%E5%A4%A7%E5%88%86%23" target="weibo">
-山东人看坚如磐石上大分（热度：132801）
 </a>
 </li>
 
