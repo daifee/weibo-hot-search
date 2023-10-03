@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696342622923,
+  "endTime": 1696343765127,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -779,6 +779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1321313,
+      "num": 1321313,
+      "word": "泰国一商场发生枪击案已致3人死亡",
+      "onboard_time": 1696341338,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1297367,
       "num": 1297367,
       "word": "女单半决赛",
@@ -873,6 +881,14 @@
       "onboard_time": 1696240474,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1167199,
+      "num": 902518,
+      "word": "王一博G社生图",
+      "onboard_time": 1696342362,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 1156678,
@@ -979,14 +995,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1037929,
-      "num": 1037929,
-      "word": "泰国一商场发生枪击案已致3人死亡",
-      "onboard_time": 1696341338,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1037892,
       "num": 431819,
       "word": "王楚钦陈梦",
@@ -1064,6 +1072,14 @@
       "word": "网约车司机3个月已经道歉了1800次",
       "onboard_time": 1696303293,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 986641,
+      "num": 733257,
+      "word": "暹罗枪击案一名中国游客死亡",
+      "onboard_time": 1696342241,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -1185,14 +1201,6 @@
       "onboard_time": 1696243654,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 902518,
-      "num": 902518,
-      "word": "王一博G社生图",
-      "onboard_time": 1696342362,
-      "rank": 12,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 891076,
@@ -1787,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684954,
+      "num": 684954,
+      "word": "全红婵的采访一般只有三个字",
+      "onboard_time": 1696341760,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 684270,
       "num": 684270,
       "word": "国乒6金2银1铜收官",
@@ -2035,8 +2051,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 607768,
-      "num": 607768,
+      "raw_hot": 609817,
+      "num": 609817,
       "word": "居然收到了黄轩的微博私信",
       "onboard_time": 1696337979,
       "rank": 22,
@@ -2403,19 +2419,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 530600,
+      "num": 530600,
+      "word": "中国女足无缘亚运决赛",
+      "onboard_time": 1696342960,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 530582,
       "num": 671985,
       "word": "樊振东王楚钦vs韩国队",
       "onboard_time": 1696149513,
       "rank": 13,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 529809,
-      "num": 279779,
-      "word": "全红婵的采访一般只有三个字",
-      "onboard_time": 1696341760,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -2963,14 +2979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 427705,
-      "num": 427705,
-      "word": "暹罗枪击案一名中国游客死亡",
-      "onboard_time": 1696342241,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 422243,
       "num": 422243,
       "word": "郑恺苗苗相互治愈",
@@ -3339,6 +3347,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 368395,
+      "num": 270680,
+      "word": "中日韩三国选手相互安慰离场",
+      "onboard_time": 1696343199,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368195,
       "num": 368195,
       "word": "37岁当奶奶是种什么体验",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1696164883,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 345395,
+      "num": 345395,
+      "word": "终于知道怎么选牛仔裤了",
+      "onboard_time": 1696342301,
+      "rank": 24,
+      "category": "时尚"
     },
     {
       "raw_hot": 344278,
@@ -4641,6 +4665,14 @@
       "onboard_time": 1696332336,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269059,
+      "num": 269059,
+      "word": "满江红",
+      "onboard_time": 1696343019,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 268341,
@@ -6187,6 +6219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196720,
+      "num": 196720,
+      "word": "王霜被换下",
+      "onboard_time": 1696343319,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196701,
       "num": 196701,
       "word": "孙女中秋看望姥姥被塞钱一把扔地上",
@@ -6851,6 +6891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172231,
+      "num": 172231,
+      "word": "陈佳鹏年轻的战场",
+      "onboard_time": 1696342180,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171238,
       "num": 171238,
       "word": "封神笑榜",
@@ -6913,6 +6961,14 @@
       "onboard_time": 1696089398,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168426,
+      "num": 168426,
+      "word": "女子脚卡车底热心群众如潮水般涌来",
+      "onboard_time": 1696343619,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 168010,
@@ -8267,6 +8323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74326,
+      "num": 1551387,
+      "word": "沉浸式感觉金秋神州绝美风光",
+      "onboard_time": 1696341641,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 73547,
       "num": 73547,
       "word": "迷笛",
@@ -8323,6 +8387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 60304,
+      "num": 847613,
+      "word": "街舞比赛现在有多卷",
+      "onboard_time": 1696341641,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59837,
       "num": 1326784,
       "word": "热烈的中国红是我最爱的颜色",
@@ -8353,14 +8425,6 @@
       "onboard_time": 1696181301,
       "rank": 47,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 50262,
-      "num": 1551387,
-      "word": "沉浸式感觉金秋神州绝美风光",
-      "onboard_time": 1696341641,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 49317,
@@ -8417,14 +8481,6 @@
       "onboard_time": 1696097359,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40722,
-      "num": 847613,
-      "word": "街舞比赛现在有多卷",
-      "onboard_time": 1696341641,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 36583,
