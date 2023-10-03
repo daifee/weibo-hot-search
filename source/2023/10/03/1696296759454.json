@@ -1,0 +1,410 @@
+{
+  "runTime": 1696296759454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1216152,
+        "num": 1216152,
+        "word": "于文文在海底捞社死式唱何必",
+        "onboard_time": 1696292430,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1046631,
+        "num": 1046631,
+        "word": "王楚钦感谢东哥莎莎",
+        "onboard_time": 1696293393,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57026,
+        "num": 779975,
+        "word": "中国天眼新发现76颗暗弱的偶发脉冲星",
+        "onboard_time": 1696251701,
+        "rank": 2,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 755103,
+        "num": 755103,
+        "word": "周冬雨生图 云淡风轻的气质",
+        "onboard_time": 1696295552,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 668109,
+        "num": 668109,
+        "word": "秦始皇想不到两千多年后六国子民花钱来拜",
+        "onboard_time": 1696248516,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539398,
+        "num": 539398,
+        "word": "金晨最不想承认自己会跳舞的一次",
+        "onboard_time": 1696295251,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419595,
+        "num": 419595,
+        "word": "坚如磐石为什么争议大",
+        "onboard_time": 1696291829,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388370,
+        "num": 388370,
+        "word": "林双又捉到出轨男",
+        "onboard_time": 1696261534,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375952,
+        "num": 375952,
+        "word": "亚运电竞中国4金1铜收官",
+        "onboard_time": 1696261178,
+        "rank": 8,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 360599,
+        "num": 360599,
+        "word": "男子含泪跪地吃生母煮的醪糟蛋",
+        "onboard_time": 1696257579,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 914414,
+        "num": 357674,
+        "word": "王楚钦陈梦",
+        "onboard_time": 1696288701,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 898776,
+        "num": 355326,
+        "word": "沈梦辰的辫子1米5长",
+        "onboard_time": 1696291528,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 273304,
+        "num": 345605,
+        "word": "放假了大熊猫把皮衣脱下来搭树上晾晾",
+        "onboard_time": 1696289482,
+        "rank": 12,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 231738,
+        "num": 344371,
+        "word": "满屏中国战机多到数不清",
+        "onboard_time": 1696290388,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 193113,
+        "num": 337596,
+        "word": "叙利亚运动员在杭州亚运会收获新感动",
+        "onboard_time": 1696287921,
+        "rank": 14,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 813044,
+        "num": 333443,
+        "word": "黄奕外网生图",
+        "onboard_time": 1696289423,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 623917,
+        "num": 328855,
+        "word": "夏克立已22个月未与女儿联系",
+        "onboard_time": 1696290446,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443840,
+        "num": 322693,
+        "word": "女教师被举报十几次听到理由都想笑",
+        "onboard_time": 1696243594,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320376,
+        "num": 320376,
+        "word": "创维创始人揭恒大真相",
+        "onboard_time": 1696290567,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 282283,
+        "num": 282283,
+        "word": "西安兵马俑酒店",
+        "onboard_time": 1696288825,
+        "rank": 19,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 558635,
+        "num": 271977,
+        "word": "把朋友圈三万多条消息点开了",
+        "onboard_time": 1696291048,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260597,
+        "num": 260597,
+        "word": "mRNA疫苗获得诺贝尔奖",
+        "onboard_time": 1696292369,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234877,
+        "num": 234877,
+        "word": "才知道长期喝粥对胃不好",
+        "onboard_time": 1696288642,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 232258,
+        "num": 232258,
+        "word": "吴昕G社生图",
+        "onboard_time": 1696289364,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224538,
+        "num": 224538,
+        "word": "虞书欣在法国一天吃一顿",
+        "onboard_time": 1696257702,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 219180,
+        "num": 219180,
+        "word": "日媒采访真实的印度系列",
+        "onboard_time": 1696291167,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213370,
+        "num": 213370,
+        "word": "C罗打入个人亚冠首球",
+        "onboard_time": 1696294771,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213325,
+        "num": 213325,
+        "word": "龚俊朱珠莱托少爷同框",
+        "onboard_time": 1696296513,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 208962,
+        "num": 208962,
+        "word": "自律的人好像真的很扛老",
+        "onboard_time": 1696259620,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203946,
+        "num": 203946,
+        "word": "王楚钦冠军",
+        "onboard_time": 1696253330,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316083,
+        "num": 203785,
+        "word": "21岁女孩当职业伴娘参加50多场婚礼",
+        "onboard_time": 1696295671,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218229,
+        "num": 203547,
+        "word": "女子十一假期结婚花500元租伴娘",
+        "onboard_time": 1696295792,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203222,
+        "num": 203222,
+        "word": "朋友家的席把我汗都吓出来了",
+        "onboard_time": 1696291467,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196408,
+        "num": 196408,
+        "word": "杨紫秀场合影状态好绝",
+        "onboard_time": 1696289965,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192978,
+        "num": 192978,
+        "word": "樊振东3比4王楚钦",
+        "onboard_time": 1696253390,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187509,
+        "num": 187509,
+        "word": "林双吃醋",
+        "onboard_time": 1696293508,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177064,
+        "num": 177064,
+        "word": "这在古代可是一等一的祥瑞",
+        "onboard_time": 1696293272,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172642,
+        "num": 172642,
+        "word": "陈芋汐全红婵出战10米台",
+        "onboard_time": 1696296211,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170941,
+        "num": 170941,
+        "word": "王楚钦炸毛",
+        "onboard_time": 1696238613,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167947,
+        "num": 167947,
+        "word": "小狗刹死和点刹的区别",
+        "onboard_time": 1696265968,
+        "rank": 39,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 158050,
+        "num": 158050,
+        "word": "没想到我去国外旅游也要排队",
+        "onboard_time": 1696296394,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 152774,
+        "num": 152774,
+        "word": "王楚钦采访",
+        "onboard_time": 1696256140,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148120,
+        "num": 148120,
+        "word": "亚运会没一首BGM是白放的",
+        "onboard_time": 1696292131,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141762,
+        "num": 141762,
+        "word": "马龙与王者项目选手见面",
+        "onboard_time": 1696289965,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141092,
+        "num": 141092,
+        "word": "张凌赫新剧滚筒洗衣机运镜",
+        "onboard_time": 1696296630,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139258,
+        "num": 139258,
+        "word": "中国女足半决赛对战日本",
+        "onboard_time": 1696294530,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136827,
+        "num": 136827,
+        "word": "Ame和Maybe一起夺冠",
+        "onboard_time": 1696294593,
+        "rank": 46,
+        "category": "游戏,体育"
+      },
+      {
+        "raw_hot": 130757,
+        "num": 130757,
+        "word": "任嘉伦流水迢迢新路透",
+        "onboard_time": 1696288221,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170247,
+        "num": 130461,
+        "word": "沈梦辰带父母去巴黎时装周",
+        "onboard_time": 1696296092,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130047,
+        "num": 130047,
+        "word": "赵子星 赵子龙",
+        "onboard_time": 1696295134,
+        "rank": 49,
+        "category": "游戏,体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#饮水思源莫忘来时路#"
+    }
+  }
+}
