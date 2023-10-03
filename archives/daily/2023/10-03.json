@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696303052729,
+  "endTime": 1696304064019,
   "band_list": [
     {
       "raw_hot": 2595600,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1197222,
+      "num": 1197222,
+      "word": "研招网回应女生手滑拒绝保研通知",
+      "onboard_time": 1696299392,
+      "rank": 31,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 1117568,
       "num": 1117568,
       "word": "金晨最不想承认自己会跳舞的一次",
@@ -99,7 +107,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1040896,
+      "raw_hot": 1044646,
       "num": 299907,
       "word": "恒大",
       "onboard_time": 1696300954,
@@ -155,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 869239,
-      "num": 869239,
-      "word": "研招网回应女生手滑拒绝保研通知",
-      "onboard_time": 1696299392,
-      "rank": 31,
-      "category": "教育,社会新闻"
+      "raw_hot": 829818,
+      "num": 829818,
+      "word": "全红婵进女子10米台决赛",
+      "onboard_time": 1696302692,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 787694,
@@ -259,14 +267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 512281,
-      "num": 358382,
-      "word": "全红婵进女子10米台决赛",
-      "onboard_time": 1696302692,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 511828,
       "num": 511828,
       "word": "王楚钦炸毛",
@@ -283,7 +283,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 442351,
+      "raw_hot": 448600,
       "num": 356765,
       "word": "我在十一靠婚礼搞钱8天赚3万",
       "onboard_time": 1696299210,
@@ -339,6 +339,22 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 403536,
+      "num": 297264,
+      "word": "林一沈月体型差",
+      "onboard_time": 1696302512,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 393193,
+      "num": 213518,
+      "word": "中国台北选手回应反超韩国夺冠",
+      "onboard_time": 1696302813,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376838,
       "num": 376838,
       "word": "王楚钦孙颖莎",
@@ -355,6 +371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 368551,
+      "num": 267377,
+      "word": "新娘回应出嫁途经父母坟前含泪跪拜",
+      "onboard_time": 1696302813,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 364802,
       "num": 228983,
       "word": "王楚钦说请继续为国乒加油",
@@ -363,12 +387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 358271,
-      "num": 358271,
+      "raw_hot": 361630,
+      "num": 361630,
       "word": "龚俊三天三套高定",
       "onboard_time": 1696299333,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 333058,
+      "num": 211351,
+      "word": "网约车司机3个月已经道歉了1800次",
+      "onboard_time": 1696303293,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330179,
@@ -409,14 +441,6 @@
       "onboard_time": 1696287921,
       "rank": 12,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 297264,
-      "num": 297264,
-      "word": "林一沈月体型差",
-      "onboard_time": 1696302512,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 293696,
@@ -467,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286690,
+      "num": 286690,
+      "word": "周冬雨雷佳音 没有CP感",
+      "onboard_time": 1696303293,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281239,
       "num": 281239,
       "word": "mRNA疫苗获得诺贝尔奖",
       "onboard_time": 1696292369,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 279407,
+      "num": 237470,
+      "word": "中国恒大复牌大涨",
+      "onboard_time": 1696302933,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 271288,
@@ -497,14 +537,6 @@
       "onboard_time": 1696296211,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 267377,
-      "num": 267377,
-      "word": "新娘回应出嫁途经父母坟前含泪跪拜",
-      "onboard_time": 1696302813,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 264222,
@@ -545,6 +577,14 @@
       "onboard_time": 1696247915,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244967,
+      "num": 244967,
+      "word": "听说很好吃全员出题式官宣",
+      "onboard_time": 1696303652,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 244409,
@@ -603,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 225822,
+      "num": 225822,
+      "word": "虾熟了为什么会变红变卷",
+      "onboard_time": 1696301370,
+      "rank": 28,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 224854,
       "num": 224854,
       "word": "朋友家的席把我汗都吓出来了",
@@ -625,14 +673,6 @@
       "onboard_time": 1696250436,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 219957,
-      "num": 219957,
-      "word": "虾熟了为什么会变红变卷",
-      "onboard_time": 1696301370,
-      "rank": 28,
-      "category": "知识科普"
     },
     {
       "raw_hot": 218229,
@@ -707,6 +747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193656,
+      "num": 193656,
+      "word": "诺奖新得主女儿曾两夺奥运金牌",
+      "onboard_time": 1696303894,
+      "rank": 33,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 191232,
       "num": 191232,
       "word": "这在古代可是一等一的祥瑞",
@@ -721,14 +769,6 @@
       "onboard_time": 1696244253,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 189037,
-      "num": 189037,
-      "word": "中国台北选手回应反超韩国夺冠",
-      "onboard_time": 1696302813,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 185201,
@@ -769,14 +809,6 @@
       "onboard_time": 1696296934,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174236,
-      "num": 170163,
-      "word": "中国恒大复牌大涨",
-      "onboard_time": 1696302933,
-      "rank": 43,
-      "category": "财经"
     },
     {
       "raw_hot": 173223,
@@ -1035,8 +1067,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102610,
-      "num": 360305,
+      "raw_hot": 102651,
+      "num": 376847,
       "word": "全国都在遥遥领先",
       "onboard_time": 1696301794,
       "rank": 11,
@@ -1131,6 +1163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46575,
+      "num": 1374691,
+      "word": "旅游新玩法拉动消费力也为经济添活力",
+      "onboard_time": 1696302754,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33392,
       "num": 427555,
       "word": "熊诗麒女子跳远摘金",
@@ -1179,15 +1219,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13142,
-      "num": 1374691,
-      "word": "旅游新玩法拉动消费力也为经济添活力",
-      "onboard_time": 1696302754,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9878,
+      "raw_hot": 13189,
       "num": 185242,
       "word": "葛曼棋接力全力以赴",
       "onboard_time": 1696302034,
