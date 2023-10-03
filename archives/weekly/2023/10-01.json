@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696371342548,
+  "endTime": 1696372436656,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -4843,6 +4843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262818,
+      "num": 262818,
+      "word": "为什么韩国人独爱张家界",
+      "onboard_time": 1696360156,
+      "rank": 23,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 262279,
       "num": 262279,
       "word": "孙颖莎我是如此相信",
@@ -6073,14 +6081,6 @@
       "onboard_time": 1696257159,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204298,
-      "num": 204298,
-      "word": "为什么韩国人独爱张家界",
-      "onboard_time": 1696360156,
-      "rank": 23,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 204154,
@@ -8731,6 +8731,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 37631,
+      "num": 37631,
+      "word": "上海人正在外滩排队登月",
+      "onboard_time": 1696363153,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36583,
       "num": 36583,
       "word": "加油杭州亚运会",
@@ -8747,6 +8755,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 34982,
+      "num": 34982,
+      "word": "赵今麦好大气的美",
+      "onboard_time": 1696366574,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 34816,
       "num": 483208,
       "word": "葛曼棋含泪感谢去世的教练",
@@ -8755,20 +8771,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32948,
+      "num": 32948,
+      "word": "熊猫宝宝求贴贴被拒",
+      "onboard_time": 1696369934,
+      "rank": 42,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 32173,
       "num": 32173,
       "word": "2023国庆档新片总票房破15亿",
       "onboard_time": 1696271598,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32083,
-      "num": 32083,
-      "word": "上海人正在外滩排队登月",
-      "onboard_time": 1696363153,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 32065,
@@ -8827,20 +8843,20 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 26931,
-      "num": 26931,
-      "word": "赵今麦好大气的美",
-      "onboard_time": 1696366574,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 25726,
       "num": 104278,
       "word": "杭州亚运会隐藏彩蛋",
       "onboard_time": 1696280416,
       "rank": 14,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 25191,
+      "num": 25191,
+      "word": "黄晓明谈AI换脸代言",
+      "onboard_time": 1696364774,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 24978,
@@ -8857,22 +8873,6 @@
       "onboard_time": 1696166861,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24209,
-      "num": 23854,
-      "word": "黄晓明谈AI换脸代言",
-      "onboard_time": 1696364774,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 23949,
-      "num": 23949,
-      "word": "熊猫宝宝求贴贴被拒",
-      "onboard_time": 1696369934,
-      "rank": 42,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 19990,
