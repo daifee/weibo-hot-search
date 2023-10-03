@@ -1,7 +1,15 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696324648792,
+  "endTime": 1696325661277,
   "band_list": [
+    {
+      "raw_hot": 3005934,
+      "num": 3005934,
+      "word": "樊振东退赛",
+      "onboard_time": 1696323210,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 2595600,
       "num": 2595600,
@@ -19,16 +27,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 2301009,
-      "num": 2301009,
-      "word": "樊振东退赛",
-      "onboard_time": 1696323210,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2156991,
-      "num": 1585081,
+      "num": 1640248,
       "word": "王一博 香奈儿",
       "onboard_time": 1696317030,
       "rank": 7,
@@ -41,6 +41,14 @@
       "onboard_time": 1696299752,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1862248,
+      "num": 1862248,
+      "word": "青云志",
+      "onboard_time": 1696323573,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1822841,
@@ -97,14 +105,6 @@
       "onboard_time": 1696313432,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1359990,
-      "num": 1359990,
-      "word": "青云志",
-      "onboard_time": 1696323573,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 1332178,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965437,
+      "num": 965437,
+      "word": "日媒炒作中国人赴日旅游热",
+      "onboard_time": 1696323093,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 956145,
       "num": 424588,
       "word": "沈梦辰的辫子1米5长",
@@ -232,14 +240,6 @@
       "word": "女子泥鞋放酒店走廊一夜变干净",
       "onboard_time": 1696261655,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 880756,
-      "num": 880756,
-      "word": "日媒炒作中国人赴日旅游热",
-      "onboard_time": 1696323093,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -323,6 +323,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 733649,
+      "num": 733649,
+      "word": "黄景瑜打伞亏不了自己一点",
+      "onboard_time": 1696323514,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 712972,
       "num": 712972,
       "word": "柯洁战胜申旻埈",
@@ -345,6 +353,14 @@
       "onboard_time": 1696319971,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 696655,
+      "num": 551675,
+      "word": "杨紫巴黎铁塔滚筒运镜",
+      "onboard_time": 1696323872,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 682104,
@@ -435,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 551675,
-      "num": 551675,
-      "word": "杨紫巴黎铁塔滚筒运镜",
-      "onboard_time": 1696323872,
-      "rank": 10,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 544560,
       "num": 544560,
       "word": "一群余华举起了他们的铁生",
@@ -531,20 +539,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 482450,
+      "num": 482450,
+      "word": "路边摊的臭豆腐到底有多脏",
+      "onboard_time": 1696322014,
+      "rank": 37,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 471862,
       "num": 471862,
       "word": "林双又捉到出轨男",
       "onboard_time": 1696261534,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 458851,
-      "num": 458851,
-      "word": "路边摊的臭豆腐到底有多脏",
-      "onboard_time": 1696322014,
-      "rank": 37,
-      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 454742,
@@ -587,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 444408,
+      "num": 444408,
+      "word": "Jennie巴黎时装周",
+      "onboard_time": 1696325495,
+      "rank": 11,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 441424,
       "num": 441424,
       "word": "东邪西毒 演员精神状态",
@@ -601,14 +617,6 @@
       "onboard_time": 1696315172,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 430201,
-      "num": 430201,
-      "word": "黄景瑜打伞亏不了自己一点",
-      "onboard_time": 1696323514,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 420636,
@@ -777,6 +785,14 @@
       "onboard_time": 1696304973,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331135,
+      "num": 303360,
+      "word": "新郎结婚当天被锁上大铁链",
+      "onboard_time": 1696324894,
+      "rank": 21,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 330179,
@@ -1195,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216048,
+      "num": 216048,
+      "word": "魏大勋 被考古很荣幸",
+      "onboard_time": 1696324416,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 215680,
       "num": 180448,
       "word": "廉航差点毁了我的假期",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1696294771,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212048,
+      "num": 212048,
+      "word": "南阳迷笛",
+      "onboard_time": 1696324959,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 210982,
@@ -1411,6 +1443,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 187305,
+      "num": 187305,
+      "word": "张婧仪累了我替你演两集",
+      "onboard_time": 1696325017,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185201,
       "num": 185201,
       "word": "马龙与王者项目选手见面",
@@ -1451,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174428,
+      "num": 174428,
+      "word": "被文物修复师的一封信戳中泪崩",
+      "onboard_time": 1696324416,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173223,
       "num": 173223,
       "word": "天官赐福动画",
@@ -1467,20 +1515,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172925,
+      "num": 172925,
+      "word": "李梦 又稳又能打",
+      "onboard_time": 1696323935,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170795,
       "num": 170795,
       "word": "郑恺 吹口哨就余飞这货干得出",
       "onboard_time": 1696261715,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 169563,
-      "num": 169563,
-      "word": "李梦 又稳又能打",
-      "onboard_time": 1696323935,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 167747,
@@ -1563,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159218,
+      "num": 159218,
+      "word": "不要被这颗锅盖头骗了",
+      "onboard_time": 1696325437,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158964,
       "num": 158964,
       "word": "再见爱人",
@@ -1595,14 +1651,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 155634,
-      "num": 155634,
-      "word": "魏大勋 被考古很荣幸",
-      "onboard_time": 1696324416,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 155407,
       "num": 155407,
       "word": "莎头",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1696323872,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 151641,
-      "num": 151641,
-      "word": "被文物修复师的一封信戳中泪崩",
-      "onboard_time": 1696324416,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150156,
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 32065,
-      "num": 1598392,
+      "num": 1671424,
       "word": "一带一路倡议十周年",
       "onboard_time": 1696322372,
       "rank": 2,
