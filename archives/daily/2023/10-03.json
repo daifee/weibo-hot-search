@@ -1,6 +1,6 @@
 {
   "startTime": 1696263691311,
-  "endTime": 1696311236035,
+  "endTime": 1696314158702,
   "band_list": [
     {
       "raw_hot": 2595600,
@@ -57,6 +57,14 @@
       "onboard_time": 1696292430,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1211216,
+      "num": 818604,
+      "word": "王楚钦的唇语也太好辨别",
+      "onboard_time": 1696311271,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1197912,
@@ -123,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 990481,
+      "num": 990481,
+      "word": "网约车司机3个月已经道歉了1800次",
+      "onboard_time": 1696303293,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 956145,
       "num": 424588,
       "word": "沈梦辰的辫子1米5长",
@@ -163,6 +179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 848490,
+      "num": 521810,
+      "word": "孙颖莎说遗憾是前进的动力",
+      "onboard_time": 1696312771,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 829818,
       "num": 829818,
       "word": "全红婵进女子10米台决赛",
@@ -179,12 +203,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 773699,
-      "num": 773699,
-      "word": "网约车司机3个月已经道歉了1800次",
-      "onboard_time": 1696303293,
-      "rank": 31,
-      "category": "社会新闻"
+      "raw_hot": 766466,
+      "num": 766466,
+      "word": "花少5姐姐好会穿",
+      "onboard_time": 1696312712,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 756064,
@@ -275,6 +299,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 577860,
+      "num": 577860,
+      "word": "张小斐这个动图谁懂",
+      "onboard_time": 1696311271,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 554514,
+      "num": 554514,
+      "word": "胖东来超市免费为顾客发雨衣",
+      "onboard_time": 1696312054,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 544560,
       "num": 544560,
       "word": "一群余华举起了他们的铁生",
@@ -307,6 +347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 539078,
+      "num": 539078,
+      "word": "赵继伟与韩国球员冲突",
+      "onboard_time": 1696311033,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 537758,
+      "num": 537758,
+      "word": "中国男篮晋级四强",
+      "onboard_time": 1696312293,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 535377,
       "num": 535377,
       "word": "莎头永远不会驼背",
@@ -328,6 +384,14 @@
       "word": "全红婵陈芋汐断层优势",
       "onboard_time": 1696306652,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 485830,
+      "num": 485830,
+      "word": "全红婵跳水看呆了外国网友",
+      "onboard_time": 1696313432,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -371,12 +435,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 444514,
+      "num": 444514,
+      "word": "孙颖莎非常荣幸身兼4项",
+      "onboard_time": 1696312112,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 441424,
       "num": 441424,
       "word": "东邪西毒 演员精神状态",
       "onboard_time": 1696298132,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 421755,
+      "num": 184009,
+      "word": "跟马龙一架飞机是什么体验",
+      "onboard_time": 1696313192,
+      "rank": 30,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 420636,
@@ -515,6 +595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 328572,
+      "num": 183535,
+      "word": "韩乔生请孙颖莎吃烤鸭已有规划",
+      "onboard_time": 1696311512,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 322027,
       "num": 322027,
       "word": "吴昕G社生图",
@@ -569,6 +657,14 @@
       "onboard_time": 1696287921,
       "rank": 12,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 297587,
+      "num": 235865,
+      "word": "易烊千玺黑西装花絮",
+      "onboard_time": 1696312412,
+      "rank": 21,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 297497,
@@ -683,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263112,
+      "num": 387227,
+      "word": "全红婵火速逃离采访区",
+      "onboard_time": 1696310672,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263000,
       "num": 263000,
       "word": "大叔脱掉儿子衣服求叶诗文签字",
@@ -763,6 +867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 235179,
+      "num": 235179,
+      "word": "去口臭的方法",
+      "onboard_time": 1696311632,
+      "rank": 22,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 232802,
       "num": 232802,
       "word": "王楚钦说唯一的瑕疵是头发没剪好",
@@ -801,6 +913,14 @@
       "onboard_time": 1696291467,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224733,
+      "num": 182671,
+      "word": "张镇麟隔扣",
+      "onboard_time": 1696313491,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 224538,
@@ -875,11 +995,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209252,
-      "num": 209252,
-      "word": "赵继伟与韩国球员冲突",
-      "onboard_time": 1696311033,
-      "rank": 28,
+      "raw_hot": 209644,
+      "num": 209644,
+      "word": "王哲林",
+      "onboard_time": 1696312531,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -931,12 +1051,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199342,
+      "num": 181624,
+      "word": "中国男篮战胜韩国男篮",
+      "onboard_time": 1696313614,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 197332,
+      "num": 197332,
+      "word": "返程男子10趟才把父母装的特产搬回",
+      "onboard_time": 1696312771,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196341,
       "num": 196341,
       "word": "沈梦辰带父母去巴黎时装周",
       "onboard_time": 1696296092,
       "rank": 48,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 196235,
+      "num": 196235,
+      "word": "杜润旺三分",
+      "onboard_time": 1696312954,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 191232,
@@ -969,14 +1113,6 @@
       "onboard_time": 1696300892,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181269,
-      "num": 181269,
-      "word": "全红婵火速逃离采访区",
-      "onboard_time": 1696310672,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 179389,
@@ -1147,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148661,
+      "num": 148661,
+      "word": "陈飞宇拍志愿军后变外向",
+      "onboard_time": 1696312412,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 148235,
       "num": 148235,
       "word": "任嘉伦流水迢迢新路透",
@@ -1185,6 +1329,14 @@
       "onboard_time": 1696252540,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145540,
+      "num": 145540,
+      "word": "韩乔生说王楚钦打出了很多神仙球",
+      "onboard_time": 1696311512,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 143502,
@@ -1288,6 +1440,14 @@
       "word": "休斯顿火箭",
       "onboard_time": 1696292791,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127631,
+      "num": 127631,
+      "word": "全红婵被拍到比赛间隙还在练习动作",
+      "onboard_time": 1696313852,
+      "rank": 48,
       "category": "体育"
     },
     {
