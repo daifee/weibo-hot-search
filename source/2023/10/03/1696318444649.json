@@ -1,0 +1,410 @@
+{
+  "runTime": 1696318444649,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1628389,
+        "num": 1628389,
+        "word": "苏炳添的奥运铜牌来了",
+        "onboard_time": 1696314211,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1335712,
+        "num": 1335712,
+        "word": "全红婵跳水看呆了外国网友",
+        "onboard_time": 1696313432,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51646,
+        "num": 897644,
+        "word": "旅游新玩法拉动消费力也为经济添活力",
+        "onboard_time": 1696302754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1938509,
+        "num": 871475,
+        "word": "王一博 香奈儿",
+        "onboard_time": 1696317030,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 832276,
+        "num": 832276,
+        "word": "2024年不宜结婚是真的吗",
+        "onboard_time": 1696314692,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 736521,
+        "num": 736521,
+        "word": "花少5姐姐好会穿",
+        "onboard_time": 1696312712,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 727783,
+        "num": 727783,
+        "word": "跟马龙一架飞机是什么体验",
+        "onboard_time": 1696313192,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 545006,
+        "num": 545006,
+        "word": "霸王茶姬 盗墓笔记",
+        "onboard_time": 1696301611,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 539462,
+        "num": 539462,
+        "word": "网约车司机3个月已经道歉了1800次",
+        "onboard_time": 1696303293,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388806,
+        "num": 388806,
+        "word": "王楚钦的唇语也太好辨别",
+        "onboard_time": 1696311271,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 798182,
+        "num": 386735,
+        "word": "奚梦瑶受伤机场坐轮椅",
+        "onboard_time": 1696317152,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487517,
+        "num": 375462,
+        "word": "升血糖能力比糖还厉害的小吃",
+        "onboard_time": 1696316192,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 198325,
+        "num": 373676,
+        "word": "全红婵火速逃离采访区",
+        "onboard_time": 1696310672,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178193,
+        "num": 362626,
+        "word": "四只滚滚小跑上桌吃火锅",
+        "onboard_time": 1696308212,
+        "rank": 13,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 163722,
+        "num": 357554,
+        "word": "中国男篮晋级四强",
+        "onboard_time": 1696312293,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353697,
+        "num": 353697,
+        "word": "刘亦菲也是个爱碎碎念的小可爱",
+        "onboard_time": 1696315172,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336715,
+        "num": 336715,
+        "word": "孙颖莎是眼神莎吧",
+        "onboard_time": 1696316491,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 300997,
+        "num": 300997,
+        "word": "孙颖莎说遗憾是前进的动力",
+        "onboard_time": 1696312771,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290461,
+        "num": 290461,
+        "word": "胖东来超市免费为顾客发雨衣",
+        "onboard_time": 1696312054,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285727,
+        "num": 285727,
+        "word": "中科院博士开民宿被父亲认为书白读了",
+        "onboard_time": 1696306894,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256411,
+        "num": 256411,
+        "word": "恒大",
+        "onboard_time": 1696300954,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 242117,
+        "num": 242117,
+        "word": "虞书欣到底多高",
+        "onboard_time": 1696316671,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233160,
+        "num": 233160,
+        "word": "张子枫不愧是实力派",
+        "onboard_time": 1696316971,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214746,
+        "num": 214746,
+        "word": "孙颖莎回复王楚钦继续努力",
+        "onboard_time": 1696299752,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205116,
+        "num": 205116,
+        "word": "刘宇宁珠帘玉幕",
+        "onboard_time": 1696317571,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204366,
+        "num": 204366,
+        "word": "孙颖莎非常荣幸身兼4项",
+        "onboard_time": 1696312112,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203072,
+        "num": 203072,
+        "word": "酒店1天11对新人结婚拉满横幅",
+        "onboard_time": 1696318052,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185627,
+        "num": 185627,
+        "word": "易烊千玺黑西装花絮",
+        "onboard_time": 1696312412,
+        "rank": 27,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 185242,
+        "num": 185242,
+        "word": "陈梦 有如知己的你们为我加油",
+        "onboard_time": 1696318231,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181849,
+        "num": 181849,
+        "word": "张小斐这个动图谁懂",
+        "onboard_time": 1696311271,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215680,
+        "num": 180448,
+        "word": "廉航差点毁了我的假期",
+        "onboard_time": 1696316611,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 172684,
+        "num": 172684,
+        "word": "赵继伟与韩国球员冲突",
+        "onboard_time": 1696311033,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172202,
+        "num": 172202,
+        "word": "赵今麦董洁巴黎牵手奔跑",
+        "onboard_time": 1696305995,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164631,
+        "num": 164631,
+        "word": "角丽谯奋斗半生归来全都白干",
+        "onboard_time": 1696318292,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154879,
+        "num": 154879,
+        "word": "瘦不下来是因为皮质醇过高",
+        "onboard_time": 1696297892,
+        "rank": 34,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 142409,
+        "num": 142409,
+        "word": "去口臭的方法",
+        "onboard_time": 1696311632,
+        "rank": 35,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 136601,
+        "num": 136601,
+        "word": "全红婵进女子10米台决赛",
+        "onboard_time": 1696302692,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131224,
+        "num": 131224,
+        "word": "林雨薇三观好正",
+        "onboard_time": 1696314692,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127722,
+        "num": 127722,
+        "word": "军嫂惊喜现身惹硬汉瞬间泪目",
+        "onboard_time": 1696309773,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 123529,
+        "num": 123529,
+        "word": "韩乔生请孙颖莎吃烤鸭已有规划",
+        "onboard_time": 1696311512,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122858,
+        "num": 122858,
+        "word": "全红婵被拍到比赛间隙还在练习动作",
+        "onboard_time": 1696313852,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133729,
+        "num": 122128,
+        "word": "日本开始准备核污染水第二轮排海",
+        "onboard_time": 1696298614,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 120335,
+        "num": 120335,
+        "word": "马龙和他两个社恐的孩子",
+        "onboard_time": 1696299091,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 882300,
+        "num": 119406,
+        "word": "王一博白金狼尾街拍",
+        "onboard_time": 1696315291,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 118109,
+        "num": 118109,
+        "word": "林一沈月体型差",
+        "onboard_time": 1696302512,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111706,
+        "num": 111706,
+        "word": "安徽一辆商务车追尾拖拉机致3死",
+        "onboard_time": 1696318352,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111238,
+        "num": 111238,
+        "word": "金晨最不想承认自己会跳舞的一次",
+        "onboard_time": 1696295251,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110301,
+        "num": 110301,
+        "word": "我在十一靠婚礼搞钱8天赚3万",
+        "onboard_time": 1696299210,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106717,
+        "num": 106717,
+        "word": "又被张杰装到了",
+        "onboard_time": 1696315533,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99855,
+        "num": 99855,
+        "word": "暗恋一个人15年顾许表白了",
+        "onboard_time": 1696318413,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#有一种力量叫中国向上#"
+    }
+  }
+}
