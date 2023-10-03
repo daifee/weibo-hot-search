@@ -1,0 +1,410 @@
+{
+  "runTime": 1696310152917,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1646080,
+        "num": 1646080,
+        "word": "霸王茶姬 盗墓笔记",
+        "onboard_time": 1696301611,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 994417,
+        "num": 994417,
+        "word": "瘦不下来是因为皮质醇过高",
+        "onboard_time": 1696297892,
+        "rank": 1,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 72366,
+        "num": 978361,
+        "word": "旅游新玩法拉动消费力也为经济添活力",
+        "onboard_time": 1696302754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 963662,
+        "num": 963662,
+        "word": "孙颖莎回复王楚钦继续努力",
+        "onboard_time": 1696299752,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 666132,
+        "num": 666132,
+        "word": "中国围棋女团战胜韩国夺冠",
+        "onboard_time": 1696307373,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617492,
+        "num": 617492,
+        "word": "王楚钦将捧花扔向观众",
+        "onboard_time": 1696305093,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592531,
+        "num": 592531,
+        "word": "网约车司机3个月已经道歉了1800次",
+        "onboard_time": 1696303293,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551152,
+        "num": 551152,
+        "word": "赵今麦董洁巴黎牵手奔跑",
+        "onboard_time": 1696305995,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 499732,
+        "num": 499732,
+        "word": "全红婵陈芋汐断层优势",
+        "onboard_time": 1696306652,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454742,
+        "num": 454742,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1696307253,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379794,
+        "num": 379794,
+        "word": "马龙和他两个社恐的孩子",
+        "onboard_time": 1696299091,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365467,
+        "num": 365467,
+        "word": "中国台北选手回应反超韩国夺冠",
+        "onboard_time": 1696302813,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 356464,
+        "num": 356464,
+        "word": "陈凯歌说看朱一龙的脸想起英雄儿女",
+        "onboard_time": 1696309892,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 308936,
+        "num": 348788,
+        "word": "全红婵进女子10米台决赛",
+        "onboard_time": 1696302692,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 307092,
+        "num": 347842,
+        "word": "四只滚滚小跑上桌吃火锅",
+        "onboard_time": 1696308212,
+        "rank": 14,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 347089,
+        "num": 347089,
+        "word": "白敬亭 孤独的最强大脑",
+        "onboard_time": 1696307016,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317375,
+        "num": 317375,
+        "word": "女子插队被制止举石头怒砸劝阻者",
+        "onboard_time": 1696306294,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315309,
+        "num": 315309,
+        "word": "沈梦辰的辫子1米5长",
+        "onboard_time": 1696291528,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 313967,
+        "num": 313967,
+        "word": "日本开始准备核污染水第二轮排海",
+        "onboard_time": 1696298614,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 308632,
+        "num": 308632,
+        "word": "朱一龙张子枫戏中战场重逢",
+        "onboard_time": 1696305574,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 800119,
+        "num": 306353,
+        "word": "恒大",
+        "onboard_time": 1696300954,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 445742,
+        "num": 306239,
+        "word": "建议起床后不要马上叠被子",
+        "onboard_time": 1696305093,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 318734,
+        "num": 304032,
+        "word": "中科院博士开民宿被父亲认为书白读了",
+        "onboard_time": 1696306894,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299389,
+        "num": 299389,
+        "word": "林一沈月体型差",
+        "onboard_time": 1696302512,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257314,
+        "num": 257314,
+        "word": "王楚钦感谢东哥莎莎",
+        "onboard_time": 1696293393,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250918,
+        "num": 250918,
+        "word": "于和伟 叔圈天菜",
+        "onboard_time": 1696304973,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238983,
+        "num": 238983,
+        "word": "我在十一靠婚礼搞钱8天赚3万",
+        "onboard_time": 1696299210,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235471,
+        "num": 235471,
+        "word": "诺奖新得主女儿曾两夺奥运金牌",
+        "onboard_time": 1696303894,
+        "rank": 27,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 222443,
+        "num": 222443,
+        "word": "金晨最不想承认自己会跳舞的一次",
+        "onboard_time": 1696295251,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215321,
+        "num": 215321,
+        "word": "胡明轩表情包",
+        "onboard_time": 1696309415,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227929,
+        "num": 214728,
+        "word": "李赫五段战胜崔精九段",
+        "onboard_time": 1696309773,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213413,
+        "num": 213413,
+        "word": "研招网回应女生手滑拒绝保研通知",
+        "onboard_time": 1696299392,
+        "rank": 31,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 210772,
+        "num": 210772,
+        "word": "甜蜜的你开播",
+        "onboard_time": 1696307912,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206483,
+        "num": 206483,
+        "word": "于文文在海底捞社死式唱何必",
+        "onboard_time": 1696292430,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202467,
+        "num": 202467,
+        "word": "把朋友圈三万多条消息点开了",
+        "onboard_time": 1696291048,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194179,
+        "num": 194179,
+        "word": "11岁男孩路边4天拉客18桌",
+        "onboard_time": 1696308932,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172339,
+        "num": 172339,
+        "word": "东邪西毒 演员精神状态",
+        "onboard_time": 1696298132,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161884,
+        "num": 161884,
+        "word": "点了东郊到家的上门按摩",
+        "onboard_time": 1696304673,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156183,
+        "num": 156183,
+        "word": "蒋龙终于演男主了",
+        "onboard_time": 1696301432,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153742,
+        "num": 153742,
+        "word": "周冬雨雷佳音 没有CP感",
+        "onboard_time": 1696303293,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145271,
+        "num": 145271,
+        "word": "军嫂惊喜现身惹硬汉瞬间泪目",
+        "onboard_time": 1696309773,
+        "rank": 40,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 140496,
+        "num": 140496,
+        "word": "再见爱人",
+        "onboard_time": 1696309715,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137956,
+        "num": 137956,
+        "word": "小伙耗时2年造出福建舰航母模型",
+        "onboard_time": 1696308873,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132015,
+        "num": 132015,
+        "word": "王楚钦冠军",
+        "onboard_time": 1696253330,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131109,
+        "num": 131109,
+        "word": "龚俊三天三套高定",
+        "onboard_time": 1696299333,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120255,
+        "num": 120255,
+        "word": "女儿把录警通知书带给英烈父亲",
+        "onboard_time": 1696297292,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117555,
+        "num": 117555,
+        "word": "黄奕外网生图",
+        "onboard_time": 1696289423,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115898,
+        "num": 115898,
+        "word": "非遗小戏为山东一村年带客50万",
+        "onboard_time": 1696308632,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112154,
+        "num": 112154,
+        "word": "王楚钦采访",
+        "onboard_time": 1696256140,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108307,
+        "num": 108307,
+        "word": "中国恒大复牌大涨",
+        "onboard_time": 1696302933,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#为梦想而战为热爱而战#"
+    }
+  }
+}
