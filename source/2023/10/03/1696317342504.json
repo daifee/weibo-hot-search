@@ -1,0 +1,410 @@
+{
+  "runTime": 1696317342504,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1651651,
+        "num": 1651651,
+        "word": "苏炳添的奥运铜牌来了",
+        "onboard_time": 1696314211,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1360947,
+        "num": 1360947,
+        "word": "全红婵跳水看呆了外国网友",
+        "onboard_time": 1696313432,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50510,
+        "num": 1128343,
+        "word": "旅游新玩法拉动消费力也为经济添活力",
+        "onboard_time": 1696302754,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042340,
+        "num": 1042340,
+        "word": "王一博白金狼尾街拍",
+        "onboard_time": 1696315291,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 776450,
+        "num": 776450,
+        "word": "跟马龙一架飞机是什么体验",
+        "onboard_time": 1696313192,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 758798,
+        "num": 758798,
+        "word": "花少5姐姐好会穿",
+        "onboard_time": 1696312712,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 666197,
+        "num": 666197,
+        "word": "霸王茶姬 盗墓笔记",
+        "onboard_time": 1696301611,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 665707,
+        "num": 665707,
+        "word": "王一博 香奈儿",
+        "onboard_time": 1696317030,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 611611,
+        "num": 611611,
+        "word": "网约车司机3个月已经道歉了1800次",
+        "onboard_time": 1696303293,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 514864,
+        "num": 514864,
+        "word": "王楚钦的唇语也太好辨别",
+        "onboard_time": 1696311271,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436572,
+        "num": 436572,
+        "word": "刘亦菲也是个爱碎碎念的小可爱",
+        "onboard_time": 1696315172,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405085,
+        "num": 405085,
+        "word": "孙颖莎说遗憾是前进的动力",
+        "onboard_time": 1696312771,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231832,
+        "num": 362751,
+        "word": "全红婵火速逃离采访区",
+        "onboard_time": 1696310672,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222593,
+        "num": 362375,
+        "word": "中国男篮晋级四强",
+        "onboard_time": 1696312293,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188531,
+        "num": 362372,
+        "word": "四只滚滚小跑上桌吃火锅",
+        "onboard_time": 1696308212,
+        "rank": 14,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 362372,
+        "num": 362371,
+        "word": "胖东来超市免费为顾客发雨衣",
+        "onboard_time": 1696312054,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340683,
+        "num": 340683,
+        "word": "升血糖能力比糖还厉害的小吃",
+        "onboard_time": 1696316192,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304948,
+        "num": 304948,
+        "word": "中科院博士开民宿被父亲认为书白读了",
+        "onboard_time": 1696306894,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286881,
+        "num": 286881,
+        "word": "孙颖莎非常荣幸身兼4项",
+        "onboard_time": 1696312112,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263204,
+        "num": 263204,
+        "word": "孙颖莎回复王楚钦继续努力",
+        "onboard_time": 1696299752,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 620670,
+        "num": 260653,
+        "word": "2024年不宜结婚是真的吗",
+        "onboard_time": 1696314692,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341886,
+        "num": 258746,
+        "word": "恒大",
+        "onboard_time": 1696300954,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 243932,
+        "num": 243932,
+        "word": "张小斐这个动图谁懂",
+        "onboard_time": 1696311271,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240781,
+        "num": 240781,
+        "word": "赵继伟与韩国球员冲突",
+        "onboard_time": 1696311033,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223636,
+        "num": 223636,
+        "word": "易烊千玺黑西装花絮",
+        "onboard_time": 1696312412,
+        "rank": 24,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 206498,
+        "num": 206498,
+        "word": "孙颖莎是眼神莎吧",
+        "onboard_time": 1696316491,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194355,
+        "num": 194355,
+        "word": "赵今麦董洁巴黎牵手奔跑",
+        "onboard_time": 1696305995,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 190856,
+        "num": 190856,
+        "word": "虞书欣到底多高",
+        "onboard_time": 1696316671,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179177,
+        "num": 179177,
+        "word": "奚梦瑶受伤机场坐轮椅",
+        "onboard_time": 1696317152,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164897,
+        "num": 164897,
+        "word": "去口臭的方法",
+        "onboard_time": 1696311632,
+        "rank": 29,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 194063,
+        "num": 164768,
+        "word": "张子枫不愧是实力派",
+        "onboard_time": 1696316971,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164608,
+        "num": 164608,
+        "word": "韩乔生请孙颖莎吃烤鸭已有规划",
+        "onboard_time": 1696311512,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160547,
+        "num": 160547,
+        "word": "老人高铁晕倒众人接力心肺复苏",
+        "onboard_time": 1696316911,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157795,
+        "num": 157795,
+        "word": "林雨薇三观好正",
+        "onboard_time": 1696314692,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154912,
+        "num": 154912,
+        "word": "廉航差点毁了我的假期",
+        "onboard_time": 1696316611,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150931,
+        "num": 150931,
+        "word": "马龙和他两个社恐的孩子",
+        "onboard_time": 1696299091,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149747,
+        "num": 149747,
+        "word": "瘦不下来是因为皮质醇过高",
+        "onboard_time": 1696297892,
+        "rank": 36,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 147762,
+        "num": 147762,
+        "word": "全红婵进女子10米台决赛",
+        "onboard_time": 1696302692,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139289,
+        "num": 139289,
+        "word": "又被张杰装到了",
+        "onboard_time": 1696315533,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132934,
+        "num": 132934,
+        "word": "金晨最不想承认自己会跳舞的一次",
+        "onboard_time": 1696295251,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132907,
+        "num": 132907,
+        "word": "日本开始准备核污染水第二轮排海",
+        "onboard_time": 1696298614,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 124248,
+        "num": 124248,
+        "word": "军嫂惊喜现身惹硬汉瞬间泪目",
+        "onboard_time": 1696309773,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 121937,
+        "num": 121937,
+        "word": "林一沈月体型差",
+        "onboard_time": 1696302512,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114794,
+        "num": 114794,
+        "word": "我在十一靠婚礼搞钱8天赚3万",
+        "onboard_time": 1696299210,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112422,
+        "num": 112422,
+        "word": "白敬亭 孤独的最强大脑",
+        "onboard_time": 1696307016,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111580,
+        "num": 111580,
+        "word": "全红婵被拍到比赛间隙还在练习动作",
+        "onboard_time": 1696313852,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104202,
+        "num": 104202,
+        "word": "当国风遇见国庆氛围感拉满",
+        "onboard_time": 1696317330,
+        "rank": 46,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 89650,
+        "num": 102737,
+        "word": "女子插队被制止举石头怒砸劝阻者",
+        "onboard_time": 1696306294,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101932,
+        "num": 101932,
+        "word": "欢迎大熊猫美香一家年底回国",
+        "onboard_time": 1696315111,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101384,
+        "num": 101384,
+        "word": "张镇麟隔扣",
+        "onboard_time": 1696313491,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#为梦想而战为热爱而战#"
+    }
+  }
+}
