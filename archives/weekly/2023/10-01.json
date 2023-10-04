@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696425774201,
+  "endTime": 1696426472935,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 1809955,
-      "num": 536179,
+      "num": 628273,
       "word": "Jennie王一博看秀待遇",
       "onboard_time": 1696419274,
       "rank": 10,
@@ -667,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1570650,
+      "num": 1570650,
+      "word": "鲍师傅肉松小贝同口味2个起售",
+      "onboard_time": 1696422877,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1566291,
       "num": 929096,
       "word": "赵今麦 MiuMiu",
@@ -801,14 +809,6 @@
       "onboard_time": 1696225355,
       "rank": 3,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 1438070,
-      "num": 544147,
-      "word": "鲍师傅肉松小贝同口味2个起售",
-      "onboard_time": 1696422877,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 1436478,
@@ -1460,7 +1460,7 @@
     },
     {
       "raw_hot": 900664,
-      "num": 530449,
+      "num": 627473,
       "word": "时代峰峻美容院比郭敬明减肥营还吓人",
       "onboard_time": 1696421976,
       "rank": 15,
@@ -1520,6 +1520,14 @@
       "word": "秦始皇想不到两千多年后六国子民花钱来拜",
       "onboard_time": 1696248516,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 877228,
+      "num": 877228,
+      "word": "南阳警方称目前还未抓到嫌疑人",
+      "onboard_time": 1696422636,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1681,14 +1689,6 @@
       "onboard_time": 1696207950,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 837880,
-      "num": 837880,
-      "word": "南阳警方称目前还未抓到嫌疑人",
-      "onboard_time": 1696422636,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 834648,
@@ -2259,6 +2259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 681422,
+      "num": 681422,
+      "word": "花花眼神逐渐从震惊转变为崇拜",
+      "onboard_time": 1696425098,
+      "rank": 22,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 676661,
       "num": 568675,
       "word": "章昊直播 间歇性活跃常态性漏电",
@@ -2289,6 +2297,14 @@
       "onboard_time": 1696149571,
       "rank": 25,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 670766,
+      "num": 670766,
+      "word": "韩国的歧视真的绝了",
+      "onboard_time": 1696425996,
+      "rank": 6,
+      "category": "其它"
     },
     {
       "raw_hot": 666589,
@@ -2329,6 +2345,14 @@
       "onboard_time": 1696228534,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 659724,
+      "num": 659724,
+      "word": "中国跳水队十全十美收官",
+      "onboard_time": 1696424619,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 658054,
@@ -2483,6 +2507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 621151,
+      "num": 621151,
+      "word": "相柳 九头真身暴力美学",
+      "onboard_time": 1696423357,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 620451,
       "num": 620451,
       "word": "比顶楼还气人的韩剧出现了",
@@ -2529,14 +2561,6 @@
       "onboard_time": 1696337979,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 609703,
-      "num": 609703,
-      "word": "相柳 九头真身暴力美学",
-      "onboard_time": 1696423357,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 607046,
@@ -2851,14 +2875,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 550807,
-      "num": 550807,
-      "word": "中国跳水队十全十美收官",
-      "onboard_time": 1696424619,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 548267,
       "num": 548267,
       "word": "吴昕巴黎的三套露肩装",
@@ -2945,6 +2961,14 @@
       "onboard_time": 1696213172,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 539940,
+      "num": 239743,
+      "word": "王楚钦已经痛失本名",
+      "onboard_time": 1696426117,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 539078,
@@ -3305,6 +3329,14 @@
       "onboard_time": 1696220011,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479107,
+      "num": 246691,
+      "word": "杭州托尼无人敢承认是自己做的",
+      "onboard_time": 1696425698,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 478777,
@@ -3811,6 +3843,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 418670,
+      "num": 418670,
+      "word": "你好生活本周六收官",
+      "onboard_time": 1696423835,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 418028,
       "num": 320376,
       "word": "创维创始人揭恒大真相",
@@ -3905,14 +3945,6 @@
       "onboard_time": 1696147110,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 405830,
-      "num": 405830,
-      "word": "花花眼神逐渐从震惊转变为崇拜",
-      "onboard_time": 1696425098,
-      "rank": 22,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 405423,
@@ -4123,6 +4155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384522,
+      "num": 239087,
+      "word": "当年明月作者的顶级觉悟",
+      "onboard_time": 1696426237,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 384268,
       "num": 384268,
       "word": "诺奖新得主女儿曾两夺奥运金牌",
@@ -4137,14 +4177,6 @@
       "onboard_time": 1696224511,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383950,
-      "num": 383950,
-      "word": "你好生活本周六收官",
-      "onboard_time": 1696423835,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 383376,
@@ -4324,7 +4356,7 @@
     },
     {
       "raw_hot": 365758,
-      "num": 320482,
+      "num": 364552,
       "word": "全红婵跟陈若琳的师徒合影",
       "onboard_time": 1696421016,
       "rank": 31,
@@ -4971,6 +5003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 319219,
+      "num": 577914,
+      "word": "鸡鸣寺橘猫成国庆顶流",
+      "onboard_time": 1696422576,
+      "rank": 42,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 318734,
       "num": 304948,
       "word": "中科院博士开民宿被父亲认为书白读了",
@@ -5040,6 +5080,14 @@
       "word": "马龙回应为i做e",
       "onboard_time": 1696389398,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 315413,
+      "num": 315413,
+      "word": "中国男篮",
+      "onboard_time": 1696424018,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -5747,14 +5795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 277742,
-      "num": 246691,
-      "word": "杭州托尼无人敢承认是自己做的",
-      "onboard_time": 1696425698,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 277613,
       "num": 212714,
       "word": "街头随机采访到了富二代",
@@ -5913,14 +5953,6 @@
       "onboard_time": 1696222954,
       "rank": 32,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 272040,
-      "num": 519467,
-      "word": "鸡鸣寺橘猫成国庆顶流",
-      "onboard_time": 1696422576,
-      "rank": 42,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 271960,
@@ -6419,14 +6451,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 248586,
-      "num": 248586,
-      "word": "中国男篮",
-      "onboard_time": 1696424018,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248407,
       "num": 248407,
       "word": "樊振东王楚钦",
@@ -6833,6 +6857,14 @@
       "onboard_time": 1696237112,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230692,
+      "num": 230692,
+      "word": "打工人为什么很难抗拒盖浇饭",
+      "onboard_time": 1696425698,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 229264,
@@ -7507,6 +7539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 206499,
+      "num": 206499,
+      "word": "李兰迪和她的哈基米",
+      "onboard_time": 1696424196,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206484,
       "num": 206484,
       "word": "阴阳师 对弈竞猜",
@@ -7763,14 +7803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200899,
-      "num": 200899,
-      "word": "打工人为什么很难抗拒盖浇饭",
-      "onboard_time": 1696425698,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 200626,
       "num": 200626,
       "word": "前任4",
@@ -7873,14 +7905,6 @@
       "onboard_time": 1696419637,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 197633,
-      "num": 197633,
-      "word": "李兰迪和她的哈基米",
-      "onboard_time": 1696424196,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 197621,
@@ -8915,6 +8939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169131,
+      "num": 169131,
+      "word": "谁给林韩中做的造型",
+      "onboard_time": 1696425816,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168852,
       "num": 168852,
       "word": "热刺vs利物浦",
@@ -9281,6 +9313,14 @@
       "onboard_time": 1696221272,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 158480,
+      "num": 158480,
+      "word": "Jennie巴黎时装周待遇",
+      "onboard_time": 1696425576,
+      "rank": 47,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 158050,
@@ -9769,14 +9809,6 @@
       "onboard_time": 1696350030,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142587,
-      "num": 142587,
-      "word": "Jennie巴黎时装周待遇",
-      "onboard_time": 1696425576,
-      "rank": 47,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 141768,
@@ -10939,6 +10971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32908,
+      "num": 1171565,
+      "word": "这次科考为何选择卓奥友峰",
+      "onboard_time": 1696425158,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32173,
       "num": 32173,
       "word": "2023国庆档新片总票房破15亿",
@@ -11040,14 +11080,6 @@
       "word": "iQOO手机见证中国电竞冲金时刻",
       "onboard_time": 1696166861,
       "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 20820,
-      "num": 852813,
-      "word": "这次科考为何选择卓奥友峰",
-      "onboard_time": 1696425158,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
