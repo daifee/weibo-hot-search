@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696458837931,
+  "endTime": 1696461415665,
   "band_list": [
     {
       "raw_hot": 2401767,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 690406,
+      "num": 209177,
+      "word": "多囊",
+      "onboard_time": 1696452615,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 639635,
       "num": 639635,
       "word": "中国男篮vs菲律宾男篮",
@@ -81,6 +89,14 @@
       "onboard_time": 1696433975,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 575771,
+      "num": 575771,
+      "word": "女子通过WiFi名称跨60公里寻回手机",
+      "onboard_time": 1696444037,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 559260,
@@ -107,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456317,
+      "num": 352434,
+      "word": "马诺",
+      "onboard_time": 1696437032,
+      "rank": 18,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 447176,
       "num": 447176,
       "word": "我真受不了这暧昧氛围了",
@@ -131,14 +155,6 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 421871,
-      "num": 352434,
-      "word": "马诺",
-      "onboard_time": 1696437032,
-      "rank": 18,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 395045,
       "num": 395045,
       "word": "迟到11年的金银铜包揽",
@@ -161,22 +177,6 @@
       "onboard_time": 1696431996,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 343917,
-      "num": 93645,
-      "word": "多囊",
-      "onboard_time": 1696452615,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 318240,
-      "num": 199247,
-      "word": "女子通过WiFi名称跨60公里寻回手机",
-      "onboard_time": 1696444037,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275726,
@@ -235,6 +235,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 245039,
+      "num": 245039,
+      "word": "杭州托尼无人敢承认是自己做的",
+      "onboard_time": 1696425698,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 229691,
       "num": 229691,
       "word": "当年明月作者的顶级觉悟",
@@ -283,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200210,
+      "num": 200210,
+      "word": "香奈儿发了王一博单人照",
+      "onboard_time": 1696458978,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 198113,
       "num": 483298,
       "word": "中国男子4x100接力首枚奥运奖牌",
@@ -305,14 +321,6 @@
       "onboard_time": 1696427803,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180661,
-      "num": 180661,
-      "word": "杭州托尼无人敢承认是自己做的",
-      "onboard_time": 1696425698,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 179359,
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130858,
+      "num": 130858,
+      "word": "封神第一部进入中国影史票房TOP23",
+      "onboard_time": 1696456095,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 126615,
       "num": 126615,
       "word": "章子怡片中哭到嘴唇颤抖",
@@ -427,12 +443,84 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64395,
-      "num": 64395,
-      "word": "封神第一部进入中国影史票房TOP23",
-      "onboard_time": 1696456095,
-      "rank": 21,
-      "category": "电影"
+      "raw_hot": 115892,
+      "num": 80992,
+      "word": "7名中国运动员递补奥运奖牌",
+      "onboard_time": 1696461201,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 111893,
+      "num": 111893,
+      "word": "黄景瑜说确实很喜欢黄明昊",
+      "onboard_time": 1696461261,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90000,
+      "num": 90000,
+      "word": "你是何时知道自己从里面坏掉了的呢",
+      "onboard_time": 1696460601,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 86749,
+      "num": 86749,
+      "word": "南阳市民拿探测仪帮迷笛粉丝找手机",
+      "onboard_time": 1696460662,
+      "rank": 26,
+      "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 79613,
+      "num": 79613,
+      "word": "纽卡斯尔联4比1巴黎圣日耳曼",
+      "onboard_time": 1696460841,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71579,
+      "num": 71579,
+      "word": "孙悦叹气",
+      "onboard_time": 1696460601,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68891,
+      "num": 68891,
+      "word": "店主打烊晚未收桌环卫阿姨帮清理",
+      "onboard_time": 1696460601,
+      "rank": 40,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 64141,
+      "num": 69281,
+      "word": "书写中国有多少种方式",
+      "onboard_time": 1696461261,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58904,
+      "num": 58904,
+      "word": "郝劭文成十个勤天新晋债主",
+      "onboard_time": 1696453694,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 58503,
+      "num": 58503,
+      "word": "运动员跳出蹦床的一瞬间他冲上前护住",
+      "onboard_time": 1696460601,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 48913,
@@ -449,14 +537,6 @@
       "onboard_time": 1696440443,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 47215,
-      "num": 47215,
-      "word": "郝劭文成十个勤天新晋债主",
-      "onboard_time": 1696453694,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 37630,
@@ -499,7 +579,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13861,
+      "raw_hot": 22166,
       "num": 1025020,
       "word": "杭州亚运会上的数字智能亮点",
       "onboard_time": 1696424977,
