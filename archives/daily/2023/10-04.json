@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696432735386,
+  "endTime": 1696433696137,
   "band_list": [
     {
       "raw_hot": 6580937,
@@ -89,6 +89,14 @@
       "onboard_time": 1696386515,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1782255,
+      "num": 1782255,
+      "word": "男篮发布会",
+      "onboard_time": 1696431996,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1755299,
@@ -211,14 +219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1252872,
-      "num": 1252872,
-      "word": "男篮发布会",
-      "onboard_time": 1696431996,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1234452,
       "num": 1234452,
       "word": "男篮一分之差输了",
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1009896,
+      "num": 368811,
+      "word": "姚明傻眼了",
+      "onboard_time": 1696432177,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 969433,
       "num": 491345,
       "word": "吃了一把怀孕的阳光玫瑰",
@@ -345,6 +353,14 @@
       "onboard_time": 1696391316,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 918070,
+      "num": 918070,
+      "word": "全红婵最大的对手就是记者",
+      "onboard_time": 1696430976,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 907988,
@@ -449,14 +465,6 @@
       "onboard_time": 1696350390,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 804119,
-      "num": 505504,
-      "word": "全红婵最大的对手就是记者",
-      "onboard_time": 1696430976,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 791164,
@@ -611,6 +619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 622894,
+      "num": 622894,
+      "word": "梁崴 尴尬",
+      "onboard_time": 1696432657,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621151,
       "num": 621151,
       "word": "相柳 九头真身暴力美学",
@@ -665,14 +681,6 @@
       "onboard_time": 1696390903,
       "rank": 16,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 586055,
-      "num": 280660,
-      "word": "姚明傻眼了",
-      "onboard_time": 1696432177,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 581433,
@@ -1139,6 +1147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377431,
+      "num": 377431,
+      "word": "迟到11年的金银铜包揽",
+      "onboard_time": 1696432177,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375073,
       "num": 268117,
       "word": "泰国一商场发生枪击案已致3人死亡",
@@ -1475,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 298368,
+      "num": 298368,
+      "word": "南阳回应已掌握部分窃贼资料",
+      "onboard_time": 1696432537,
+      "rank": 44,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 298200,
       "num": 298200,
       "word": "地狱有什么不好",
@@ -1619,6 +1643,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 279865,
+      "num": 279865,
+      "word": "山东考研的人为什么那么多",
+      "onboard_time": 1696432300,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 278649,
       "num": 278649,
       "word": "成毅不吐血的剧不接",
@@ -1697,14 +1729,6 @@
       "onboard_time": 1696417956,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 260166,
-      "num": 260166,
-      "word": "迟到11年的金银铜包揽",
-      "onboard_time": 1696432177,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 256282,
@@ -1827,14 +1851,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237853,
-      "num": 237853,
-      "word": "梁崴 尴尬",
-      "onboard_time": 1696432657,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237453,
       "num": 237453,
       "word": "蜜雪冰城在2003年是家常菜馆",
@@ -1865,14 +1881,6 @@
       "onboard_time": 1696377026,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 228976,
-      "num": 228976,
-      "word": "山东考研的人为什么那么多",
-      "onboard_time": 1696432300,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 228671,
@@ -1928,6 +1936,14 @@
       "word": "要写孙颖莎就不能只写孙颖莎",
       "onboard_time": 1696382132,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223717,
+      "num": 223717,
+      "word": "赵继伟道歉",
+      "onboard_time": 1696433557,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -2131,6 +2147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 202392,
+      "num": 202392,
+      "word": "魏大勋黄子诚落水前",
+      "onboard_time": 1696433375,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 201459,
       "num": 201459,
       "word": "你有发过仅某人可见的朋友圈吗",
@@ -2155,12 +2179,12 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 200670,
-      "num": 200670,
-      "word": "南阳回应已掌握部分窃贼资料",
-      "onboard_time": 1696432537,
+      "raw_hot": 200163,
+      "num": 200163,
+      "word": "田柾国直播",
+      "onboard_time": 1696433375,
       "rank": 44,
-      "category": "社会新闻,演出"
+      "category": "艺人"
     },
     {
       "raw_hot": 199825,
@@ -2457,6 +2481,14 @@
       "onboard_time": 1696340564,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167521,
+      "num": 167521,
+      "word": "南阳迷笛音乐节物品失窃引地域攻击",
+      "onboard_time": 1696433437,
+      "rank": 49,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 167153,

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696432735386,
+  "endTime": 1696433696137,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -489,6 +489,14 @@
       "onboard_time": 1696386515,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1782255,
+      "num": 1782255,
+      "word": "男篮发布会",
+      "onboard_time": 1696431996,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1781077,
@@ -1035,14 +1043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1252872,
-      "num": 1252872,
-      "word": "男篮发布会",
-      "onboard_time": 1696431996,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1237386,
       "num": 1237386,
       "word": "韩国朝鲜女双争金",
@@ -1379,6 +1379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1009896,
+      "num": 368811,
+      "word": "姚明傻眼了",
+      "onboard_time": 1696432177,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1000947,
       "num": 1000947,
       "word": "樊振东王楚钦单打决赛放简单爱",
@@ -1512,6 +1520,14 @@
       "word": "樊振东王楚钦进男双决赛",
       "onboard_time": 1696136312,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 918070,
+      "num": 918070,
+      "word": "全红婵最大的对手就是记者",
+      "onboard_time": 1696430976,
+      "rank": 11,
       "category": "体育"
     },
     {
@@ -1840,14 +1856,6 @@
       "word": "全红婵的采访一般只有三个字",
       "onboard_time": 1696341760,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 804119,
-      "num": 505504,
-      "word": "全红婵最大的对手就是记者",
-      "onboard_time": 1696430976,
-      "rank": 11,
       "category": "体育"
     },
     {
@@ -2595,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 622894,
+      "num": 622894,
+      "word": "梁崴 尴尬",
+      "onboard_time": 1696432657,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621151,
       "num": 621151,
       "word": "相柳 九头真身暴力美学",
@@ -2791,14 +2807,6 @@
       "num": 422552,
       "word": "王楚钦一句话没说先炫两瓶水",
       "onboard_time": 1696260336,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 586055,
-      "num": 280660,
-      "word": "姚明傻眼了",
-      "onboard_time": 1696432177,
       "rank": 30,
       "category": "体育"
     },
@@ -4363,6 +4371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 377431,
+      "num": 377431,
+      "word": "迟到11年的金银铜包揽",
+      "onboard_time": 1696432177,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376624,
       "num": 376624,
       "word": "梅姨安妮海瑟薇 梦回穿Prada的女王",
@@ -5531,6 +5547,14 @@
       "category": "美食,知识科普"
     },
     {
+      "raw_hot": 298368,
+      "num": 298368,
+      "word": "南阳回应已掌握部分窃贼资料",
+      "onboard_time": 1696432537,
+      "rank": 44,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 298314,
       "num": 298314,
       "word": "许昕没有参加亚运会",
@@ -5945,6 +5969,14 @@
       "onboard_time": 1696425698,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 279865,
+      "num": 279865,
+      "word": "山东考研的人为什么那么多",
+      "onboard_time": 1696432300,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 279602,
@@ -6425,14 +6457,6 @@
       "onboard_time": 1696124673,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260166,
-      "num": 260166,
-      "word": "迟到11年的金银铜包揽",
-      "onboard_time": 1696432177,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 260051,
@@ -6939,14 +6963,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 237853,
-      "num": 237853,
-      "word": "梁崴 尴尬",
-      "onboard_time": 1696432657,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237492,
       "num": 237492,
       "word": "在韩国每到过节我就想离婚",
@@ -7129,14 +7145,6 @@
       "onboard_time": 1696127731,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 228976,
-      "num": 228976,
-      "word": "山东考研的人为什么那么多",
-      "onboard_time": 1696432300,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 228756,
@@ -7345,6 +7353,14 @@
       "onboard_time": 1696237714,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223717,
+      "num": 223717,
+      "word": "赵继伟道歉",
+      "onboard_time": 1696433557,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 223598,
@@ -8027,6 +8043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 202392,
+      "num": 202392,
+      "word": "魏大勋黄子诚落水前",
+      "onboard_time": 1696433375,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202326,
       "num": 322655,
       "word": "交警叔叔把萌娃送的月饼分享给路人",
@@ -8099,14 +8123,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 200670,
-      "num": 200670,
-      "word": "南阳回应已掌握部分窃贼资料",
-      "onboard_time": 1696432537,
-      "rank": 44,
-      "category": "社会新闻,演出"
-    },
-    {
       "raw_hot": 200626,
       "num": 200626,
       "word": "前任4",
@@ -8129,6 +8145,14 @@
       "onboard_time": 1696232614,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200163,
+      "num": 200163,
+      "word": "田柾国直播",
+      "onboard_time": 1696433375,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 199989,
@@ -9297,6 +9321,14 @@
       "onboard_time": 1696131451,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167521,
+      "num": 167521,
+      "word": "南阳迷笛音乐节物品失窃引地域攻击",
+      "onboard_time": 1696433437,
+      "rank": 49,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 167282,
