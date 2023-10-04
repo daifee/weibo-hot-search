@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696450694491,
+  "endTime": 1696451646770,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -11579,6 +11579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21291,
+      "num": 21291,
+      "word": "欧冠联赛",
+      "onboard_time": 1696449855,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19990,
       "num": 19990,
       "word": "和平精英项目",
@@ -11600,14 +11608,6 @@
       "word": "葛曼棋哪吒本吒",
       "onboard_time": 1696237233,
       "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16699,
-      "num": 19494,
-      "word": "欧冠联赛",
-      "onboard_time": 1696449855,
-      "rank": 46,
       "category": "体育"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696450694491,
+  "endTime": 1696451646770,
   "band_list": [
     {
       "raw_hot": 2401767,
@@ -459,8 +459,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 16699,
-      "num": 19494,
+      "raw_hot": 21291,
+      "num": 21291,
       "word": "欧冠联赛",
       "onboard_time": 1696449855,
       "rank": 46,
