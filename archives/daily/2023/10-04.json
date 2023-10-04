@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696389463118,
+  "endTime": 1696390465680,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -43,6 +43,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1501097,
+      "num": 1501097,
+      "word": "烤橘子 慢性咽炎",
+      "onboard_time": 1696387899,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1420780,
       "num": 1420780,
       "word": "我P都不敢P成这样",
@@ -51,8 +59,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 1313318,
-      "num": 489269,
+      "raw_hot": 1401452,
+      "num": 518549,
       "word": "硕士孕妇为孩子去香港读大专",
       "onboard_time": 1696385135,
       "rank": 30,
@@ -105,14 +113,6 @@
       "onboard_time": 1696384713,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 919590,
-      "num": 919590,
-      "word": "烤橘子 慢性咽炎",
-      "onboard_time": 1696387899,
-      "rank": 1,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 843791,
@@ -171,12 +171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 681978,
+      "num": 681978,
+      "word": "直播间卖一个亿能赚多少钱",
+      "onboard_time": 1696389455,
+      "rank": 16,
+      "category": "其它"
+    },
+    {
       "raw_hot": 653357,
       "num": 653357,
       "word": "陈若琳全红婵",
       "onboard_time": 1696385373,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 652977,
+      "num": 652977,
+      "word": "DIOR 迪丽热巴",
+      "onboard_time": 1696389697,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 633848,
@@ -235,6 +251,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 518677,
+      "num": 518677,
+      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+      "onboard_time": 1696385916,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 512062,
       "num": 512062,
       "word": "王楚钦说自己世界第一下榜太快",
@@ -248,14 +272,6 @@
       "word": "统计称泰国超过1030万名平民持有枪支",
       "onboard_time": 1696383695,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466784,
-      "num": 466784,
-      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
-      "onboard_time": 1696385916,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -307,20 +323,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 414671,
-      "num": 414671,
-      "word": "直播间卖一个亿能赚多少钱",
-      "onboard_time": 1696389455,
-      "rank": 16,
-      "category": "其它"
-    },
-    {
       "raw_hot": 412944,
       "num": 217900,
       "word": "Jennie金智秀朴彩英G社生图",
       "onboard_time": 1696336841,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 406057,
+      "num": 406057,
+      "word": "重庆 躲雨图",
+      "onboard_time": 1696387899,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 398139,
@@ -355,14 +371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 389566,
-      "num": 389566,
-      "word": "重庆 躲雨图",
-      "onboard_time": 1696387899,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 383239,
       "num": 383239,
       "word": "孔雪儿新中式造型",
@@ -379,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375025,
+      "num": 375025,
+      "word": "我恋5最窒息男嘉宾恋爱了",
+      "onboard_time": 1696389576,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369326,
       "num": 369326,
       "word": "大宋提刑官时影角色适配度",
@@ -393,6 +409,14 @@
       "onboard_time": 1696332817,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 355943,
+      "num": 355943,
+      "word": "三位演员正在研究语擦",
+      "onboard_time": 1696388918,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350707,
@@ -443,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315981,
+      "num": 315981,
+      "word": "马龙回应为i做e",
+      "onboard_time": 1696389398,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301992,
       "num": 301992,
       "word": "杨紫时装周G社怼脸生图",
@@ -451,12 +483,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 295298,
-      "num": 295298,
-      "word": "三位演员正在研究语擦",
-      "onboard_time": 1696388918,
-      "rank": 23,
-      "category": "作品衍生"
+      "raw_hot": 290165,
+      "num": 290165,
+      "word": "张老板再接杀了么订单",
+      "onboard_time": 1696389517,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 289276,
@@ -491,6 +523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 274018,
+      "num": 274018,
+      "word": "谢震业回应递补奥运奖牌",
+      "onboard_time": 1696389815,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273509,
       "num": 273509,
       "word": "田柾国将11月3日发行solo专辑",
@@ -513,6 +553,14 @@
       "onboard_time": 1696337979,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250394,
+      "num": 250394,
+      "word": "周冬雨凭燃冬提名亚太电影大奖",
+      "onboard_time": 1696390115,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 244390,
@@ -547,12 +595,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236664,
-      "num": 236664,
-      "word": "马龙回应为i做e",
-      "onboard_time": 1696389398,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 232624,
+      "num": 232624,
+      "word": "男子6岁走丢29年后回家父母皆过世",
+      "onboard_time": 1696388795,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 231619,
@@ -561,6 +609,22 @@
       "onboard_time": 1696377026,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 230905,
+      "num": 230905,
+      "word": "蜜雪冰城在2003年是家常菜馆",
+      "onboard_time": 1696389455,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 226215,
+      "num": 425999,
+      "word": "博物馆保洁阿姨为观众即兴讲解",
+      "onboard_time": 1696388795,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226181,
@@ -609,14 +673,6 @@
       "onboard_time": 1696344277,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 215947,
-      "num": 425999,
-      "word": "博物馆保洁阿姨为观众即兴讲解",
-      "onboard_time": 1696388795,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210435,
@@ -731,28 +787,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 181986,
+      "num": 181986,
+      "word": "腮红从卧蚕开始扫",
+      "onboard_time": 1696388617,
+      "rank": 38,
+      "category": "美妆,作品衍生"
+    },
+    {
       "raw_hot": 179059,
       "num": 179059,
       "word": "迷笛",
       "onboard_time": 1696374803,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 175004,
-      "num": 175004,
-      "word": "男子6岁走丢29年后回家父母皆过世",
-      "onboard_time": 1696388795,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174521,
-      "num": 174521,
-      "word": "腮红从卧蚕开始扫",
-      "onboard_time": 1696388617,
-      "rank": 38,
-      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 171281,
@@ -785,14 +833,6 @@
       "onboard_time": 1696341701,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164067,
-      "num": 164067,
-      "word": "蜜雪冰城在2003年是家常菜馆",
-      "onboard_time": 1696389455,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 163244,
@@ -1019,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95982,
+      "num": 880669,
+      "word": "杭州亚运会中国队含金量拉满",
+      "onboard_time": 1696389217,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84634,
       "num": 111924,
       "word": "国旗护卫队成员退伍后收到天安门专用国旗",
@@ -1113,14 +1161,6 @@
       "onboard_time": 1696341641,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 40326,
-      "num": 880669,
-      "word": "杭州亚运会中国队含金量拉满",
-      "onboard_time": 1696389217,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 37631,
