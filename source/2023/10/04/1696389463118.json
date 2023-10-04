@@ -1,0 +1,410 @@
+{
+  "runTime": 1696389463118,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 979033,
+        "num": 979033,
+        "word": "瑞幸和茅台看了都沉默",
+        "onboard_time": 1696376846,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 919590,
+        "num": 919590,
+        "word": "烤橘子 慢性咽炎",
+        "onboard_time": 1696387899,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40326,
+        "num": 880669,
+        "word": "杭州亚运会中国队含金量拉满",
+        "onboard_time": 1696389217,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1796980,
+        "num": 850605,
+        "word": "意外窒息",
+        "onboard_time": 1696386515,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262950,
+        "num": 791357,
+        "word": "向佐直播抱女儿违规了",
+        "onboard_time": 1696379009,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1844426,
+        "num": 751252,
+        "word": "山西发生意外窒息事件7人遇难",
+        "onboard_time": 1696385557,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 738290,
+        "num": 738290,
+        "word": "钢铁侠和黑寡妇在2023年10月牺牲",
+        "onboard_time": 1696380152,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 585858,
+        "num": 585858,
+        "word": "陈若琳全红婵",
+        "onboard_time": 1696385373,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 556986,
+        "num": 556986,
+        "word": "外国人吐槽美国面对华为芯片像疯了一样",
+        "onboard_time": 1696383934,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 499109,
+        "num": 499109,
+        "word": "弟弟结婚董宇辉回家帮忙成碍眼包",
+        "onboard_time": 1696375523,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1313318,
+        "num": 489269,
+        "word": "硕士孕妇为孩子去香港读大专",
+        "onboard_time": 1696385135,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 466784,
+        "num": 466784,
+        "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+        "onboard_time": 1696385916,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451181,
+        "num": 451181,
+        "word": "残障女性被挂网上征婚彩礼标价18万",
+        "onboard_time": 1696385316,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426737,
+        "num": 426737,
+        "word": "时装周最出圈明星推荐",
+        "onboard_time": 1696387718,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215947,
+        "num": 425999,
+        "word": "博物馆保洁阿姨为观众即兴讲解",
+        "onboard_time": 1696388795,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425305,
+        "num": 425305,
+        "word": "杨紫美拉德大衣",
+        "onboard_time": 1696384835,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 414671,
+        "num": 414671,
+        "word": "直播间卖一个亿能赚多少钱",
+        "onboard_time": 1696389455,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 390856,
+        "num": 390856,
+        "word": "苹果将修复iPhone15Pro过热问题",
+        "onboard_time": 1696387178,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 389566,
+        "num": 389566,
+        "word": "重庆 躲雨图",
+        "onboard_time": 1696387899,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383239,
+        "num": 383239,
+        "word": "孔雪儿新中式造型",
+        "onboard_time": 1696386395,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 784274,
+        "num": 366902,
+        "word": "吃了一把怀孕的阳光玫瑰",
+        "onboard_time": 1696384713,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343495,
+        "num": 343495,
+        "word": "周杰伦的歌为什么没有年代感",
+        "onboard_time": 1696384296,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331543,
+        "num": 331543,
+        "word": "统计称泰国超过1030万名平民持有枪支",
+        "onboard_time": 1696383695,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295298,
+        "num": 295298,
+        "word": "三位演员正在研究语擦",
+        "onboard_time": 1696388918,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281984,
+        "num": 281984,
+        "word": "上学时不合群的红利被我吃到了",
+        "onboard_time": 1696376546,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278260,
+        "num": 278260,
+        "word": "MiuMiu的中韩美女同框",
+        "onboard_time": 1696386337,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 272979,
+        "num": 272979,
+        "word": "王一博王俊凯张凌赫龚俊看秀生图",
+        "onboard_time": 1696374803,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 261759,
+        "num": 261759,
+        "word": "杭州亚运会首发现兴奋剂阳性案例",
+        "onboard_time": 1696382794,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236664,
+        "num": 236664,
+        "word": "马龙回应为i做e",
+        "onboard_time": 1696389398,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236223,
+        "num": 236223,
+        "word": "大宋提刑官时影角色适配度",
+        "onboard_time": 1696381354,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232284,
+        "num": 232284,
+        "word": "田柾国将11月3日发行solo专辑",
+        "onboard_time": 1696383992,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222810,
+        "num": 222810,
+        "word": "中国游客亲历泰国枪击事件",
+        "onboard_time": 1696381053,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216047,
+        "num": 216047,
+        "word": "泰国枪击",
+        "onboard_time": 1696384835,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213738,
+        "num": 213738,
+        "word": "金马最佳男主角提名",
+        "onboard_time": 1696375164,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207662,
+        "num": 207662,
+        "word": "广州地铁又要多一个禁止标了",
+        "onboard_time": 1696376846,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 201601,
+        "num": 201601,
+        "word": "松鼠到死都觉得是自己不够努力",
+        "onboard_time": 1696378109,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 180129,
+        "num": 180129,
+        "word": "暹罗枪击案一名中国游客死亡",
+        "onboard_time": 1696342241,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175004,
+        "num": 175004,
+        "word": "男子6岁走丢29年后回家父母皆过世",
+        "onboard_time": 1696388795,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174521,
+        "num": 174521,
+        "word": "腮红从卧蚕开始扫",
+        "onboard_time": 1696388617,
+        "rank": 38,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 164067,
+        "num": 164067,
+        "word": "蜜雪冰城在2003年是家常菜馆",
+        "onboard_time": 1696389455,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 163930,
+        "num": 163930,
+        "word": "国庆节的旅游城市都得下沉2cm",
+        "onboard_time": 1696384475,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161872,
+        "num": 161872,
+        "word": "迷笛",
+        "onboard_time": 1696374803,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 155107,
+        "num": 155107,
+        "word": "要写孙颖莎就不能只写孙颖莎",
+        "onboard_time": 1696382132,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153236,
+        "num": 153236,
+        "word": "泰国一商场发生枪击案已致3人死亡",
+        "onboard_time": 1696341338,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151097,
+        "num": 151097,
+        "word": "全红婵7个10分惊呆日本解说",
+        "onboard_time": 1696376424,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147923,
+        "num": 147923,
+        "word": "哈萨克斯坦脑瘫患儿西安千里就医",
+        "onboard_time": 1696387300,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144042,
+        "num": 144042,
+        "word": "林陆骁南初沙发吻",
+        "onboard_time": 1696387236,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135370,
+        "num": 135370,
+        "word": "美众议院议长麦卡锡被罢免",
+        "onboard_time": 1696375523,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 128806,
+        "num": 128806,
+        "word": "男友家情况特殊女子0彩礼出嫁",
+        "onboard_time": 1696374080,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127384,
+        "num": 127384,
+        "word": "中国队混合35公里竞走冠军",
+        "onboard_time": 1696385135,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#厚植爱国情争做奋斗者#"
+    }
+  }
+}

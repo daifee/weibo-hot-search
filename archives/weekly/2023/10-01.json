@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696386931957,
+  "endTime": 1696389463118,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -427,6 +427,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 1796980,
+      "num": 850605,
+      "word": "意外窒息",
+      "onboard_time": 1696386515,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1781077,
       "num": 950183,
       "word": "巴黎偶遇杨紫",
@@ -843,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1313318,
+      "num": 489269,
+      "word": "硕士孕妇为孩子去香港读大专",
+      "onboard_time": 1696385135,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1297367,
       "num": 1297367,
       "word": "女单半决赛",
@@ -1188,7 +1204,7 @@
     },
     {
       "raw_hot": 969433,
-      "num": 293110,
+      "num": 366902,
       "word": "吃了一把怀孕的阳光玫瑰",
       "onboard_time": 1696384713,
       "rank": 20,
@@ -1249,6 +1265,14 @@
       "onboard_time": 1696341043,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 919590,
+      "num": 919590,
+      "word": "烤橘子 慢性咽炎",
+      "onboard_time": 1696387899,
+      "rank": 1,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 919034,
@@ -2267,14 +2291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 595426,
-      "num": 276786,
-      "word": "硕士孕妇为孩子去香港读大专",
-      "onboard_time": 1696385135,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 594791,
       "num": 594791,
       "word": "胖东来超市免费为顾客发雨衣",
@@ -2971,6 +2987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466784,
+      "num": 466784,
+      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+      "onboard_time": 1696385916,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465272,
       "num": 339468,
       "word": "女孩租房一年反复过敏发现床垫发霉",
@@ -3025,6 +3049,14 @@
       "onboard_time": 1696150713,
       "rank": 22,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 451181,
+      "num": 451181,
+      "word": "残障女性被挂网上征婚彩礼标价18万",
+      "onboard_time": 1696385316,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 449700,
@@ -3195,6 +3227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 426737,
+      "num": 426737,
+      "word": "时装周最出圈明星推荐",
+      "onboard_time": 1696387718,
+      "rank": 13,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 422243,
       "num": 422243,
       "word": "郑恺苗苗相互治愈",
@@ -3265,6 +3305,14 @@
       "onboard_time": 1696116925,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 414671,
+      "num": 414671,
+      "word": "直播间卖一个亿能赚多少钱",
+      "onboard_time": 1696389455,
+      "rank": 16,
+      "category": "其它"
     },
     {
       "raw_hot": 408757,
@@ -3419,6 +3467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 390856,
+      "num": 390856,
+      "word": "苹果将修复iPhone15Pro过热问题",
+      "onboard_time": 1696387178,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 390619,
       "num": 267643,
       "word": "通过舔对方脑子获取食物",
@@ -3441,6 +3497,14 @@
       "onboard_time": 1696221871,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389566,
+      "num": 389566,
+      "word": "重庆 躲雨图",
+      "onboard_time": 1696387899,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386791,
@@ -3505,6 +3569,14 @@
       "onboard_time": 1696117827,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 383239,
+      "num": 383239,
+      "word": "孔雪儿新中式造型",
+      "onboard_time": 1696386395,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 382341,
@@ -3899,6 +3971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343495,
+      "num": 343495,
+      "word": "周杰伦的歌为什么没有年代感",
+      "onboard_time": 1696384296,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 342808,
       "num": 342808,
       "word": "孙颖莎说感谢教练队友和粉丝",
@@ -4089,14 +4169,6 @@
       "onboard_time": 1696334979,
       "rank": 24,
       "category": "美食"
-    },
-    {
-      "raw_hot": 326733,
-      "num": 371995,
-      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
-      "onboard_time": 1696385916,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 325748,
@@ -4475,14 +4547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 296280,
-      "num": 286126,
-      "word": "残障女性被挂网上征婚彩礼标价18万",
-      "onboard_time": 1696385316,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 296084,
       "num": 296084,
       "word": "黄子弘凡音乐节",
@@ -4505,6 +4569,14 @@
       "onboard_time": 1696218333,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295298,
+      "num": 295298,
+      "word": "三位演员正在研究语擦",
+      "onboard_time": 1696388918,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294409,
@@ -4625,14 +4697,6 @@
       "onboard_time": 1696254705,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287864,
-      "num": 287864,
-      "word": "周杰伦的歌为什么没有年代感",
-      "onboard_time": 1696384296,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 287647,
@@ -4787,6 +4851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278260,
+      "num": 278260,
+      "word": "MiuMiu的中韩美女同框",
+      "onboard_time": 1696386337,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 278223,
       "num": 278223,
       "word": "丘索维金娜不认同体操运动员的黄金年龄",
@@ -4825,22 +4897,6 @@
       "onboard_time": 1696374682,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 276835,
-      "num": 276835,
-      "word": "孔雪儿新中式造型",
-      "onboard_time": 1696386395,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 276674,
-      "num": 276674,
-      "word": "MiuMiu的中韩美女同框",
-      "onboard_time": 1696386337,
-      "rank": 25,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 276220,
@@ -4993,14 +5049,6 @@
       "onboard_time": 1696298433,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 270957,
-      "num": 270957,
-      "word": "意外窒息",
-      "onboard_time": 1696386515,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270836,
@@ -5635,6 +5683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 236664,
+      "num": 236664,
+      "word": "马龙回应为i做e",
+      "onboard_time": 1696389398,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236629,
       "num": 573658,
       "word": "中国跳水梦之队断层式领先",
@@ -6113,6 +6169,14 @@
       "onboard_time": 1696157012,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215947,
+      "num": 425999,
+      "word": "博物馆保洁阿姨为观众即兴讲解",
+      "onboard_time": 1696388795,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215680,
@@ -7395,12 +7459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175004,
+      "num": 175004,
+      "word": "男子6岁走丢29年后回家父母皆过世",
+      "onboard_time": 1696388795,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174695,
       "num": 174695,
       "word": "女子爬千年古道和同伴背下3000斤垃圾",
       "onboard_time": 1696296934,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174521,
+      "num": 174521,
+      "word": "腮红从卧蚕开始扫",
+      "onboard_time": 1696388617,
+      "rank": 38,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 174428,
@@ -7649,6 +7729,14 @@
       "onboard_time": 1696157793,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164067,
+      "num": 164067,
+      "word": "蜜雪冰城在2003年是家常菜馆",
+      "onboard_time": 1696389455,
+      "rank": 39,
+      "category": "美食"
     },
     {
       "raw_hot": 163780,
@@ -8091,6 +8179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147923,
+      "num": 147923,
+      "word": "哈萨克斯坦脑瘫患儿西安千里就医",
+      "onboard_time": 1696387300,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 147486,
       "num": 147486,
       "word": "满月女儿惊喜现身惹消防员泪目",
@@ -8169,6 +8265,14 @@
       "onboard_time": 1696152032,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144042,
+      "num": 144042,
+      "word": "林陆骁南初沙发吻",
+      "onboard_time": 1696387236,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 143502,
@@ -9257,6 +9361,14 @@
       "onboard_time": 1696097359,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40326,
+      "num": 880669,
+      "word": "杭州亚运会中国队含金量拉满",
+      "onboard_time": 1696389217,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 37631,
