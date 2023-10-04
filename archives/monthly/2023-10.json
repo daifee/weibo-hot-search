@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696419240011,
+  "endTime": 1696422898399,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -459,6 +459,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 1809955,
+      "num": 468835,
+      "word": "Jennie王一博看秀待遇",
+      "onboard_time": 1696419274,
+      "rank": 10,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1796980,
       "num": 850605,
       "word": "意外窒息",
@@ -835,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1394739,
+      "num": 1394739,
+      "word": "泰国枪击案死伤中国游客系免签入境",
+      "onboard_time": 1696417591,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1394636,
       "num": 1394636,
       "word": "腿姐回应",
@@ -1059,6 +1075,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 1134478,
+      "num": 467445,
+      "word": "杨紫来广东了",
+      "onboard_time": 1696421675,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1129433,
       "num": 1129433,
       "word": "珠帘玉幕",
@@ -1097,6 +1121,14 @@
       "onboard_time": 1696375523,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1072068,
+      "num": 1072068,
+      "word": "黄晓明抱不完根本抱不完",
+      "onboard_time": 1696420115,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1069162,
@@ -1683,14 +1715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 815468,
-      "num": 815468,
-      "word": "泰国枪击案死伤中国游客系免签入境",
-      "onboard_time": 1696417591,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 813720,
       "num": 813720,
       "word": "全红婵的采访一般只有三个字",
@@ -1953,6 +1977,14 @@
       "onboard_time": 1696235555,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 729092,
+      "num": 465996,
+      "word": "杨昊6个10分",
+      "onboard_time": 1696422274,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 727801,
@@ -2257,6 +2289,14 @@
       "onboard_time": 1696305995,
       "rank": 8,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 664486,
+      "num": 462074,
+      "word": "时代峰峻美容院比郭敬明减肥营还吓人",
+      "onboard_time": 1696421976,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 663978,
@@ -3307,6 +3347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 470475,
+      "num": 470475,
+      "word": "王春雨女子800米铜牌",
+      "onboard_time": 1696419995,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 470175,
       "num": 470175,
       "word": "虞书欣脉搏犹如40岁男子壮如牛",
@@ -3337,6 +3385,14 @@
       "onboard_time": 1696227334,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 468033,
+      "num": 194165,
+      "word": "南阳警方称目前还未抓到嫌疑人",
+      "onboard_time": 1696422636,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 465272,
@@ -3377,6 +3433,14 @@
       "onboard_time": 1696163616,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 461211,
+      "num": 461211,
+      "word": "莲花楼后劲真大",
+      "onboard_time": 1696420115,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 460531,
@@ -3593,6 +3657,14 @@
       "onboard_time": 1696227334,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 434996,
+      "num": 434996,
+      "word": "中国男篮vs菲律宾男篮",
+      "onboard_time": 1696420055,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 434075,
@@ -4177,6 +4249,14 @@
       "onboard_time": 1696336717,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365758,
+      "num": 194026,
+      "word": "全红婵跟陈若琳的师徒合影",
+      "onboard_time": 1696421016,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 365593,
@@ -5267,6 +5347,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 291865,
+      "num": 291865,
+      "word": "为什么民宿体验越来越差",
+      "onboard_time": 1696421074,
+      "rank": 21,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 291831,
       "num": 291831,
       "word": "糖水店老板儿子喝的珍珠奶茶",
@@ -5537,6 +5625,14 @@
       "onboard_time": 1696322553,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 278649,
+      "num": 278649,
+      "word": "成毅不吐血的剧不接",
+      "onboard_time": 1696421796,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 278260,
@@ -6139,6 +6235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 253660,
+      "num": 253660,
+      "word": "大爷一口流利的英语惊呆了老外",
+      "onboard_time": 1696420414,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 252846,
       "num": 252846,
       "word": "男子在纽约街头因多看几眼被当街捅死",
@@ -6257,6 +6361,14 @@
       "onboard_time": 1696223314,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246170,
+      "num": 193960,
+      "word": "鲍师傅肉松小贝同口味2个起售",
+      "onboard_time": 1696422877,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 245249,
@@ -7635,6 +7747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197705,
+      "num": 197705,
+      "word": "后天有五组艺人发新歌",
+      "onboard_time": 1696419637,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 197621,
       "num": 197621,
       "word": "陈雨菲两个21比1",
@@ -7792,6 +7912,14 @@
       "word": "四个NPC都没抓住李斯丹妮",
       "onboard_time": 1696398813,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 194245,
+      "num": 194245,
+      "word": "魔都百年老洋房都谁在住",
+      "onboard_time": 1696418734,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -8435,6 +8563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176519,
+      "num": 176519,
+      "word": "从没中过这么离谱的奖",
+      "onboard_time": 1696420956,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176514,
       "num": 176514,
       "word": "马龙收了我写的信",
@@ -8659,6 +8795,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 168371,
+      "num": 168371,
+      "word": "会钓鱼和不会钓的都沉默了",
+      "onboard_time": 1696422214,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168010,
       "num": 168010,
       "word": "时代少年团献唱今天是你的生日",
@@ -8867,6 +9011,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 161305,
+      "num": 161305,
+      "word": "我恋5一期一伦",
+      "onboard_time": 1696421254,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161299,
       "num": 161299,
       "word": "张韶涵演唱会这段talking好好笑",
@@ -8921,6 +9073,14 @@
       "onboard_time": 1696334374,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160272,
+      "num": 160272,
+      "word": "鸡鸣寺橘猫成国庆顶流",
+      "onboard_time": 1696422576,
+      "rank": 42,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 159949,
@@ -9024,14 +9184,6 @@
       "word": "于适封神训练营汇报表演",
       "onboard_time": 1696402593,
       "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 157104,
-      "num": 157104,
-      "word": "魔都百年老洋房都谁在住",
-      "onboard_time": 1696418734,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -9403,6 +9555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 143427,
+      "num": 143427,
+      "word": "怀疑王宗源和陈芋汐是ie浏览器",
+      "onboard_time": 1696421493,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143374,
       "num": 143374,
       "word": "吞噬星空宇宙篇开播",
@@ -9417,6 +9577,14 @@
       "onboard_time": 1696290326,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143037,
+      "num": 143037,
+      "word": "被全红婵和陈芋汐的关系暖到了",
+      "onboard_time": 1696421314,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 143021,
@@ -10617,6 +10785,14 @@
       "onboard_time": 1696322372,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 31627,
+      "num": 1196640,
+      "word": "2023北京文化论坛晚会",
+      "onboard_time": 1696420536,
+      "rank": 2,
+      "category": "综艺"
     },
     {
       "raw_hot": 31577,
