@@ -1,0 +1,410 @@
+{
+  "runTime": 1696394041695,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1917816,
+        "num": 1917816,
+        "word": "DIOR 迪丽热巴",
+        "onboard_time": 1696389697,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1608043,
+        "num": 1608043,
+        "word": "烤橘子 慢性咽炎",
+        "onboard_time": 1696387899,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157018,
+        "num": 1112068,
+        "word": "杭州亚运会中国队含金量拉满",
+        "onboard_time": 1696389217,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 886567,
+        "num": 886567,
+        "word": "魏无羡乙女",
+        "onboard_time": 1696391316,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 847163,
+        "num": 847163,
+        "word": "周冬雨凭燃冬提名亚太电影大奖",
+        "onboard_time": 1696390115,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 826109,
+        "num": 826109,
+        "word": "山西发生意外窒息事件7人遇难",
+        "onboard_time": 1696385557,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 814075,
+        "num": 814075,
+        "word": "直播间卖一个亿能赚多少钱",
+        "onboard_time": 1696389455,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 758178,
+        "num": 758178,
+        "word": "被婆婆拒绝的喜糖盒",
+        "onboard_time": 1696391498,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 598877,
+        "num": 598877,
+        "word": "全红婵把小乌龟背包送给陈若琳",
+        "onboard_time": 1696390717,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 591428,
+        "num": 591428,
+        "word": "语擦",
+        "onboard_time": 1696390903,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1214999,
+        "num": 573875,
+        "word": "林一深夜发长文",
+        "onboard_time": 1696392456,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1123043,
+        "num": 553923,
+        "word": "硕士孕妇为孩子去香港读大专",
+        "onboard_time": 1696385135,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489167,
+        "num": 489167,
+        "word": "瑞幸和茅台看了都沉默",
+        "onboard_time": 1696376846,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269065,
+        "num": 442420,
+        "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+        "onboard_time": 1696385916,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226465,
+        "num": 433762,
+        "word": "外国人吐槽美国面对华为芯片像疯了一样",
+        "onboard_time": 1696383934,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 428191,
+        "num": 428191,
+        "word": "山西窒息致7死事故系家庭作坊中毒",
+        "onboard_time": 1696391434,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427918,
+        "num": 427918,
+        "word": "钢铁侠和黑寡妇在2023年10月牺牲",
+        "onboard_time": 1696380152,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385717,
+        "num": 385717,
+        "word": "我恋5最窒息男嘉宾恋爱了",
+        "onboard_time": 1696389576,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335334,
+        "num": 335334,
+        "word": "杨紫Valentino羽毛连衣裙漫画照",
+        "onboard_time": 1696393416,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 327482,
+        "num": 327482,
+        "word": "吴昕巴黎的三套露肩装",
+        "onboard_time": 1696393416,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 571114,
+        "num": 327479,
+        "word": "吃了一把怀孕的阳光玫瑰",
+        "onboard_time": 1696384713,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314025,
+        "num": 314025,
+        "word": "张老板再接杀了么订单",
+        "onboard_time": 1696389517,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305674,
+        "num": 305674,
+        "word": "陈若琳全红婵",
+        "onboard_time": 1696385373,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298200,
+        "num": 298200,
+        "word": "地狱有什么不好",
+        "onboard_time": 1696392700,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 288841,
+        "num": 288841,
+        "word": "梁王",
+        "onboard_time": 1696392997,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281845,
+        "num": 281845,
+        "word": "樊振东调侃自己好大一只",
+        "onboard_time": 1696392334,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274690,
+        "num": 274690,
+        "word": "杨紫清唱私奔",
+        "onboard_time": 1696390835,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263313,
+        "num": 263313,
+        "word": "你知道有钱人怎么住院的吗",
+        "onboard_time": 1696391256,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260146,
+        "num": 260146,
+        "word": "于和伟私底下穿吊带",
+        "onboard_time": 1696393416,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 257793,
+        "num": 257793,
+        "word": "上学时不合群的红利被我吃到了",
+        "onboard_time": 1696376546,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236491,
+        "num": 236491,
+        "word": "杭州亚运会首发现兴奋剂阳性案例",
+        "onboard_time": 1696382794,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234568,
+        "num": 234568,
+        "word": "蜜雪冰城在2003年是家常菜馆",
+        "onboard_time": 1696389455,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 232373,
+        "num": 232373,
+        "word": "弟弟结婚董宇辉回家帮忙成碍眼包",
+        "onboard_time": 1696375523,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 231349,
+        "num": 231349,
+        "word": "女生crush上一秒深情下一秒翻脸",
+        "onboard_time": 1696391677,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230078,
+        "num": 230078,
+        "word": "三位演员正在研究语擦",
+        "onboard_time": 1696388918,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 228671,
+        "num": 228671,
+        "word": "羽毛球男双",
+        "onboard_time": 1696393775,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210195,
+        "num": 210195,
+        "word": "梁伟铿王昶止步亚运16强",
+        "onboard_time": 1696393656,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204211,
+        "num": 204211,
+        "word": "残障女性被挂网上征婚彩礼标价18万",
+        "onboard_time": 1696385316,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200236,
+        "num": 200236,
+        "word": "曾舜晞工作室偷偷发了深V照",
+        "onboard_time": 1696393899,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199825,
+        "num": 199825,
+        "word": "手指脱皮会影响指纹比对吗",
+        "onboard_time": 1696392700,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195323,
+        "num": 195323,
+        "word": "孔雪儿新中式造型",
+        "onboard_time": 1696386395,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194547,
+        "num": 194547,
+        "word": "谢震业回应递补奥运奖牌",
+        "onboard_time": 1696389815,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185788,
+        "num": 185788,
+        "word": "马龙回应为i做e",
+        "onboard_time": 1696389398,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180506,
+        "num": 180506,
+        "word": "消防员遇车侧翻与路人徒手破窗救人",
+        "onboard_time": 1696394015,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180101,
+        "num": 180101,
+        "word": "重庆 躲雨图",
+        "onboard_time": 1696387899,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179724,
+        "num": 179724,
+        "word": "意外窒息",
+        "onboard_time": 1696386515,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169800,
+        "num": 169800,
+        "word": "景区回应上百游客集体大喊退票",
+        "onboard_time": 1696390660,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 161772,
+        "num": 161772,
+        "word": "迷笛",
+        "onboard_time": 1696374803,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150684,
+        "num": 150684,
+        "word": "泰国枪击",
+        "onboard_time": 1696384835,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148891,
+        "num": 148891,
+        "word": "王一博王俊凯张凌赫龚俊看秀生图",
+        "onboard_time": 1696374803,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#爱国是心之所系情之所归#"
+    }
+  }
+}
