@@ -1,0 +1,410 @@
+{
+  "runTime": 1696425774201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1747991,
+        "num": 1747991,
+        "word": "本月你的工资或将多两笔钱",
+        "onboard_time": 1696406734,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108238,
+        "num": 1108238,
+        "word": "杨昊10米台金牌",
+        "onboard_time": 1696424378,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20820,
+        "num": 852813,
+        "word": "这次科考为何选择卓奥友峰",
+        "onboard_time": 1696425158,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 837880,
+        "num": 837880,
+        "word": "南阳警方称目前还未抓到嫌疑人",
+        "onboard_time": 1696422636,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 759714,
+        "num": 759714,
+        "word": "杨昊6个10分",
+        "onboard_time": 1696422274,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 747506,
+        "num": 747506,
+        "word": "黄晓明抱不完根本抱不完",
+        "onboard_time": 1696420115,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 692848,
+        "num": 692848,
+        "word": "研究生三年最好的安排",
+        "onboard_time": 1696412978,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 749519,
+        "num": 681371,
+        "word": "泰国枪击案死伤中国游客系免签入境",
+        "onboard_time": 1696417591,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609703,
+        "num": 609703,
+        "word": "相柳 九头真身暴力美学",
+        "onboard_time": 1696423357,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550807,
+        "num": 550807,
+        "word": "中国跳水队十全十美收官",
+        "onboard_time": 1696424619,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1438070,
+        "num": 544147,
+        "word": "鲍师傅肉松小贝同口味2个起售",
+        "onboard_time": 1696422877,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1302189,
+        "num": 536179,
+        "word": "Jennie王一博看秀待遇",
+        "onboard_time": 1696419274,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 878809,
+        "num": 530449,
+        "word": "时代峰峻美容院比郭敬明减肥营还吓人",
+        "onboard_time": 1696421976,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302138,
+        "num": 527012,
+        "word": "跳水运动员为什么每次跳完都冲澡",
+        "onboard_time": 1696415073,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272040,
+        "num": 519467,
+        "word": "鸡鸣寺橘猫成国庆顶流",
+        "onboard_time": 1696422576,
+        "rank": 14,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 514013,
+        "num": 514013,
+        "word": "章子怡片中哭到嘴唇颤抖",
+        "onboard_time": 1696423357,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 507320,
+        "num": 507320,
+        "word": "中国女排3比0韩国女排",
+        "onboard_time": 1696423235,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433595,
+        "num": 433595,
+        "word": "中国男篮vs菲律宾男篮",
+        "onboard_time": 1696420055,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428928,
+        "num": 428928,
+        "word": "泰国总理致电中国大使道歉",
+        "onboard_time": 1696411894,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 414331,
+        "num": 414331,
+        "word": "莲花楼后劲真大",
+        "onboard_time": 1696420115,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426671,
+        "num": 414086,
+        "word": "杨紫来广东了",
+        "onboard_time": 1696421675,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412158,
+        "num": 412158,
+        "word": "胡明轩好帅",
+        "onboard_time": 1696424317,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405830,
+        "num": 405830,
+        "word": "花花眼神逐渐从震惊转变为崇拜",
+        "onboard_time": 1696425098,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 383950,
+        "num": 383950,
+        "word": "你好生活本周六收官",
+        "onboard_time": 1696423835,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335810,
+        "num": 335810,
+        "word": "张颂文不仅演外交官还当导游",
+        "onboard_time": 1696424858,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 320482,
+        "num": 320482,
+        "word": "全红婵跟陈若琳的师徒合影",
+        "onboard_time": 1696421016,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303945,
+        "num": 303945,
+        "word": "黄晓明因为被嘲笑英文去演了英语老师",
+        "onboard_time": 1696402593,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284348,
+        "num": 284348,
+        "word": "魏大勋说能先后出演毛岸英毛岸青兄弟俩很幸运",
+        "onboard_time": 1696424619,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283835,
+        "num": 283835,
+        "word": "莲花楼 断笛",
+        "onboard_time": 1696414534,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248586,
+        "num": 248586,
+        "word": "中国男篮",
+        "onboard_time": 1696424018,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277742,
+        "num": 246691,
+        "word": "杭州托尼无人敢承认是自己做的",
+        "onboard_time": 1696425698,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 243686,
+        "num": 243686,
+        "word": "成毅不吐血的剧不接",
+        "onboard_time": 1696421796,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228982,
+        "num": 228982,
+        "word": "建议洗澡不要超过20分钟",
+        "onboard_time": 1696405355,
+        "rank": 32,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 221901,
+        "num": 221901,
+        "word": "王楚钦闻一次不够还闻两次的花",
+        "onboard_time": 1696418493,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213222,
+        "num": 213222,
+        "word": "吴梦洁敢打",
+        "onboard_time": 1696424136,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208661,
+        "num": 208661,
+        "word": "卢昱晓公路文女主",
+        "onboard_time": 1696409615,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200899,
+        "num": 200899,
+        "word": "打工人为什么很难抗拒盖浇饭",
+        "onboard_time": 1696425698,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 197633,
+        "num": 197633,
+        "word": "李兰迪和她的哈基米",
+        "onboard_time": 1696424196,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188624,
+        "num": 188624,
+        "word": "这要是秦始皇绝不是不让进这么简单",
+        "onboard_time": 1696423774,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185602,
+        "num": 185602,
+        "word": "直播间卖一个亿能赚多少钱",
+        "onboard_time": 1696389455,
+        "rank": 39,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 174132,
+        "num": 174132,
+        "word": "周冬雨马思纯一起回国",
+        "onboard_time": 1696417956,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164158,
+        "num": 164158,
+        "word": "杨幂安利宜宾非遗燃面",
+        "onboard_time": 1696417956,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160685,
+        "num": 160685,
+        "word": "为什么民宿体验越来越差",
+        "onboard_time": 1696421074,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 158647,
+        "num": 158647,
+        "word": "DIOR 迪丽热巴",
+        "onboard_time": 1696389697,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 156919,
+        "num": 156919,
+        "word": "菲律宾发生6.4级地震",
+        "onboard_time": 1696423714,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154806,
+        "num": 154806,
+        "word": "鞠婧祎紫葡萄少女",
+        "onboard_time": 1696415199,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146566,
+        "num": 146566,
+        "word": "新湃传媒 陈情令",
+        "onboard_time": 1696398935,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142587,
+        "num": 142587,
+        "word": "Jennie巴黎时装周待遇",
+        "onboard_time": 1696425576,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 136786,
+        "num": 136786,
+        "word": "全红婵采访躲陈芋汐身后的原因",
+        "onboard_time": 1696409194,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136162,
+        "num": 136162,
+        "word": "巴勒斯坦友人在西湖摇橹船上睡着了",
+        "onboard_time": 1696424559,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点杭州亚运会高燃时刻#"
+    }
+  }
+}
