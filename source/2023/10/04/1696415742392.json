@@ -1,0 +1,410 @@
+{
+  "runTime": 1696415742392,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2598373,
+        "num": 2598373,
+        "word": "本月你的工资或将多两笔钱",
+        "onboard_time": 1696406734,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1367959,
+        "num": 1367959,
+        "word": "研究生三年最好的安排",
+        "onboard_time": 1696412978,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127646,
+        "num": 1064530,
+        "word": "中国57项世界遗产名单",
+        "onboard_time": 1696409793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234777,
+        "num": 1064069,
+        "word": "小熊猫都学会体操吊环了",
+        "onboard_time": 1696412014,
+        "rank": 3,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 293368,
+        "num": 1064031,
+        "word": "特警碰掉游客小吃后重新买了一份",
+        "onboard_time": 1696401215,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1063993,
+        "num": 1063993,
+        "word": "微信过期文件打开的最简单方法",
+        "onboard_time": 1696399474,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 78990,
+        "num": 902336,
+        "word": "有一种骄傲叫赛场上的中国红",
+        "onboard_time": 1696413993,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 812032,
+        "num": 812032,
+        "word": "陈芋汐说没有全红婵她的水平不会提高",
+        "onboard_time": 1696407875,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 666165,
+        "num": 666165,
+        "word": "直播间卖一个亿能赚多少钱",
+        "onboard_time": 1696389455,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 648029,
+        "num": 648029,
+        "word": "DIOR 迪丽热巴",
+        "onboard_time": 1696389697,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1609058,
+        "num": 641364,
+        "word": "泰国总理致电中国大使道歉",
+        "onboard_time": 1696411894,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 598361,
+        "num": 598361,
+        "word": "2023诺贝尔化学奖公布",
+        "onboard_time": 1696413634,
+        "rank": 11,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 521821,
+        "num": 521821,
+        "word": "黄晓明因为被嘲笑英文去演了英语老师",
+        "onboard_time": 1696402593,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261608,
+        "num": 515718,
+        "word": "中国队递补东京奥运接力铜牌",
+        "onboard_time": 1696410453,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254398,
+        "num": 514681,
+        "word": "全红婵采访躲陈芋汐身后的原因",
+        "onboard_time": 1696409194,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514657,
+        "num": 514657,
+        "word": "莲花楼 断笛",
+        "onboard_time": 1696414534,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422366,
+        "num": 422366,
+        "word": "为什么鸭子站在大雨中不动",
+        "onboard_time": 1696411715,
+        "rank": 16,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 379595,
+        "num": 379595,
+        "word": "新湃传媒 陈情令",
+        "onboard_time": 1696398935,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303514,
+        "num": 303514,
+        "word": "假期到底哪个城市空了",
+        "onboard_time": 1696409854,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 292985,
+        "num": 292985,
+        "word": "张凌赫抹血唇",
+        "onboard_time": 1696410333,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308478,
+        "num": 292910,
+        "word": "尹子维和徐冬冬是饭搭子",
+        "onboard_time": 1696413395,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290442,
+        "num": 290442,
+        "word": "建议洗澡不要超过20分钟",
+        "onboard_time": 1696405355,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 275135,
+        "num": 275135,
+        "word": "王一博拍的巴黎风景",
+        "onboard_time": 1696412674,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252690,
+        "num": 252690,
+        "word": "陈艺文女子3米板夺金",
+        "onboard_time": 1696415434,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237168,
+        "num": 237168,
+        "word": "国庆参加完23场婚礼我破产了",
+        "onboard_time": 1696412612,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223092,
+        "num": 223092,
+        "word": "中国台北队员终于等到自己人加油了",
+        "onboard_time": 1696409255,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227045,
+        "num": 222916,
+        "word": "鞠婧祎紫葡萄少女",
+        "onboard_time": 1696415199,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222423,
+        "num": 222423,
+        "word": "雷佳音和刘宪华让我的笑停不下来",
+        "onboard_time": 1696412493,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217886,
+        "num": 217886,
+        "word": "男子在纽约街头因多看几眼被当街捅死",
+        "onboard_time": 1696409557,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217796,
+        "num": 217796,
+        "word": "梁靖崑袁励岑止步男双16强",
+        "onboard_time": 1696412915,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 391222,
+        "num": 216071,
+        "word": "糖水店老板儿子自己喝的珍珠奶茶",
+        "onboard_time": 1696414534,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282778,
+        "num": 215324,
+        "word": "跳水运动员为什么每次跳完都冲澡",
+        "onboard_time": 1696415073,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214228,
+        "num": 214228,
+        "word": "全红婵画了自己最喜欢的小乌龟",
+        "onboard_time": 1696413336,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212369,
+        "num": 212369,
+        "word": "吃了一把怀孕的阳光玫瑰",
+        "onboard_time": 1696384713,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212151,
+        "num": 212151,
+        "word": "林一深夜发长文",
+        "onboard_time": 1696392456,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211461,
+        "num": 211461,
+        "word": "卢昱晓公路文女主",
+        "onboard_time": 1696409615,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199654,
+        "num": 199654,
+        "word": "量子点",
+        "onboard_time": 1696414773,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 188990,
+        "num": 188990,
+        "word": "郑光美院士去世",
+        "onboard_time": 1696414232,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187388,
+        "num": 187388,
+        "word": "张杰回应谢震业",
+        "onboard_time": 1696404935,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 184661,
+        "num": 184661,
+        "word": "泰国枪击案",
+        "onboard_time": 1696405717,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152569,
+        "num": 152569,
+        "word": "泰警方对枪击案嫌犯提出5项初步指控",
+        "onboard_time": 1696407575,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152253,
+        "num": 152253,
+        "word": "于和伟私底下穿吊带",
+        "onboard_time": 1696393416,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151861,
+        "num": 151861,
+        "word": "王玉雯尾音比AK还难压",
+        "onboard_time": 1696413395,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149306,
+        "num": 149306,
+        "word": "石凯音乐节",
+        "onboard_time": 1696405955,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148516,
+        "num": 148516,
+        "word": "泰国枪击案嫌疑人曾扬言直播行凶",
+        "onboard_time": 1696408893,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141408,
+        "num": 141408,
+        "word": "吸引全红婵只需要一个乌龟玩偶",
+        "onboard_time": 1696404098,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136411,
+        "num": 136411,
+        "word": "周扬青不惯着影响自己心情的人",
+        "onboard_time": 1696400674,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135298,
+        "num": 135298,
+        "word": "劝君少骂秦始皇",
+        "onboard_time": 1696402356,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133392,
+        "num": 133392,
+        "word": "newjeans英雄联盟主题曲GODSMV",
+        "onboard_time": 1696404575,
+        "rank": 48,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 128769,
+        "num": 128769,
+        "word": "陈雨菲逆转进8强",
+        "onboard_time": 1696410875,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持交流互鉴续写亚洲文明新辉煌#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696414737058,
+  "endTime": 1696415742392,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -217,6 +217,14 @@
       "onboard_time": 1696239214,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2598373,
+      "num": 2598373,
+      "word": "本月你的工资或将多两笔钱",
+      "onboard_time": 1696406734,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2563643,
@@ -467,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1779810,
-      "num": 1779810,
-      "word": "本月你的工资或将多两笔钱",
-      "onboard_time": 1696406734,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1775651,
       "num": 1775651,
       "word": "家有儿女取景地",
@@ -627,6 +627,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 1609058,
+      "num": 641364,
+      "word": "泰国总理致电中国大使道歉",
+      "onboard_time": 1696411894,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1596375,
       "num": 1596375,
       "word": "207C 失误",
@@ -641,14 +649,6 @@
       "onboard_time": 1696158097,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1583190,
-      "num": 616762,
-      "word": "泰国总理致电中国大使道歉",
-      "onboard_time": 1696411894,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1580517,
@@ -857,6 +857,14 @@
       "onboard_time": 1696156058,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1367959,
+      "num": 1367959,
+      "word": "研究生三年最好的安排",
+      "onboard_time": 1696412978,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1364125,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1696295251,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1116807,
-      "num": 1116807,
-      "word": "研究生三年最好的安排",
-      "onboard_time": 1696412978,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 1106680,
@@ -2475,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 598361,
+      "num": 598361,
+      "word": "2023诺贝尔化学奖公布",
+      "onboard_time": 1696413634,
+      "rank": 11,
+      "category": "科技"
+    },
+    {
       "raw_hot": 596994,
       "num": 1395814,
       "word": "女儿把录警通知书带给牺牲父亲",
@@ -2673,14 +2681,6 @@
       "onboard_time": 1696217192,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 565026,
-      "num": 565026,
-      "word": "2023诺贝尔化学奖公布",
-      "onboard_time": 1696413634,
-      "rank": 11,
-      "category": "科技"
     },
     {
       "raw_hot": 562123,
@@ -2953,6 +2953,14 @@
       "onboard_time": 1696204346,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 514657,
+      "num": 514657,
+      "word": "莲花楼 断笛",
+      "onboard_time": 1696414534,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 513372,
@@ -3825,6 +3833,14 @@
       "onboard_time": 1696227575,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 391222,
+      "num": 216071,
+      "word": "糖水店老板儿子自己喝的珍珠奶茶",
+      "onboard_time": 1696414534,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 390856,
@@ -5339,6 +5355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282778,
+      "num": 215324,
+      "word": "跳水运动员为什么每次跳完都冲澡",
+      "onboard_time": 1696415073,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 282437,
       "num": 282437,
       "word": "以为看的是单人跳水",
@@ -6027,6 +6051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252690,
+      "num": 252690,
+      "word": "陈艺文女子3米板夺金",
+      "onboard_time": 1696415434,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251918,
       "num": 251918,
       "word": "升旗结束3男子草坪熟睡被艰难叫醒",
@@ -6371,6 +6403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234777,
+      "num": 1135340,
+      "word": "小熊猫都学会体操吊环了",
+      "onboard_time": 1696412014,
+      "rank": 47,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 234699,
       "num": 234699,
       "word": "中国三人女篮亚运会金牌",
@@ -6441,14 +6481,6 @@
       "onboard_time": 1696388795,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 232511,
-      "num": 232511,
-      "word": "莲花楼 断笛",
-      "onboard_time": 1696414534,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 232013,
@@ -6593,6 +6625,14 @@
       "onboard_time": 1696344520,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227045,
+      "num": 222916,
+      "word": "鞠婧祎紫葡萄少女",
+      "onboard_time": 1696415199,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 226933,
@@ -6755,6 +6795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222423,
+      "num": 222423,
+      "word": "雷佳音和刘宪华让我的笑停不下来",
+      "onboard_time": 1696412493,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222343,
       "num": 222343,
       "word": "11岁男孩路边4天拉客18桌",
@@ -6857,14 +6905,6 @@
       "onboard_time": 1696396714,
       "rank": 32,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 217320,
-      "num": 217320,
-      "word": "雷佳音和刘宪华让我的笑停不下来",
-      "onboard_time": 1696412493,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 216834,
@@ -7451,6 +7491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199654,
+      "num": 199654,
+      "word": "量子点",
+      "onboard_time": 1696414773,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 199577,
       "num": 199577,
       "word": "侯明昊的造型缘",
@@ -7883,6 +7931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 188990,
+      "num": 188990,
+      "word": "郑光美院士去世",
+      "onboard_time": 1696414232,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188622,
       "num": 188622,
       "word": "你喜欢啥样的旅游搭子",
@@ -7929,14 +7985,6 @@
       "onboard_time": 1696390660,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 186936,
-      "num": 1135340,
-      "word": "小熊猫都学会体操吊环了",
-      "onboard_time": 1696412014,
-      "rank": 47,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 186850,
@@ -8899,14 +8947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156494,
-      "num": 156494,
-      "word": "郑光美院士去世",
-      "onboard_time": 1696414232,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156011,
       "num": 156011,
       "word": "陈牧驰的社交能力",
@@ -9003,6 +9043,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 151861,
+      "num": 151861,
+      "word": "王玉雯尾音比AK还难压",
+      "onboard_time": 1696413395,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151584,
       "num": 151584,
       "word": "张杰听过最动人的情话",
@@ -9081,14 +9129,6 @@
       "onboard_time": 1696239995,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149496,
-      "num": 149496,
-      "word": "糖水店老板儿子自己喝的珍珠奶茶",
-      "onboard_time": 1696414534,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 149031,
@@ -9313,14 +9353,6 @@
       "onboard_time": 1696350030,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142327,
-      "num": 142327,
-      "word": "王玉雯尾音比AK还难压",
-      "onboard_time": 1696413395,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 141768,
@@ -10155,6 +10187,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 78990,
+      "num": 1042515,
+      "word": "有一种骄傲叫赛场上的中国红",
+      "onboard_time": 1696413993,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76599,
       "num": 76599,
       "word": "郑钧五点赶高铁开演唱会",
@@ -10216,14 +10256,6 @@
       "word": "熊诗麒女子跳远摘金",
       "onboard_time": 1696259141,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 70014,
-      "num": 1042515,
-      "word": "有一种骄傲叫赛场上的中国红",
-      "onboard_time": 1696413993,
-      "rank": 6,
       "category": "体育"
     },
     {
