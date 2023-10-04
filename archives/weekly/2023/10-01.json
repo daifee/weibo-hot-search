@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696390465680,
+  "endTime": 1696393232127,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -249,6 +249,14 @@
       "onboard_time": 1696385557,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2432400,
+      "num": 2432400,
+      "word": "DIOR 迪丽热巴",
+      "onboard_time": 1696389697,
+      "rank": 8,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 2389731,
@@ -531,6 +539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1657558,
+      "num": 1657558,
+      "word": "烤橘子 慢性咽炎",
+      "onboard_time": 1696387899,
+      "rank": 1,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 1651651,
       "num": 1651651,
       "word": "苏炳添的奥运铜牌来了",
@@ -675,14 +691,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1501097,
-      "num": 1501097,
-      "word": "烤橘子 慢性咽炎",
-      "onboard_time": 1696387899,
-      "rank": 1,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 1496798,
       "num": 1496798,
       "word": "国羽女团亚运银牌",
@@ -764,7 +772,7 @@
     },
     {
       "raw_hot": 1401452,
-      "num": 518549,
+      "num": 634555,
       "word": "硕士孕妇为孩子去香港读大专",
       "onboard_time": 1696385135,
       "rank": 30,
@@ -1212,7 +1220,7 @@
     },
     {
       "raw_hot": 969433,
-      "num": 366902,
+      "num": 368482,
       "word": "吃了一把怀孕的阳光玫瑰",
       "onboard_time": 1696384713,
       "rank": 20,
@@ -1257,6 +1265,14 @@
       "onboard_time": 1696291528,
       "rank": 15,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 955921,
+      "num": 955921,
+      "word": "魏无羡乙女",
+      "onboard_time": 1696391316,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 952334,
@@ -1441,6 +1457,14 @@
       "onboard_time": 1696252181,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 841669,
+      "num": 841669,
+      "word": "直播间卖一个亿能赚多少钱",
+      "onboard_time": 1696389455,
+      "rank": 16,
+      "category": "其它"
     },
     {
       "raw_hot": 841551,
@@ -1715,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 742881,
+      "num": 742881,
+      "word": "周冬雨凭燃冬提名亚太电影大奖",
+      "onboard_time": 1696390115,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 738202,
       "num": 738202,
       "word": "外国人吐槽美国面对华为芯片像疯了一样",
@@ -1769,6 +1801,14 @@
       "onboard_time": 1696329396,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 725815,
+      "num": 725815,
+      "word": "被婆婆拒绝的喜糖盒",
+      "onboard_time": 1696391498,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 718488,
@@ -1979,14 +2019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 681978,
-      "num": 681978,
-      "word": "直播间卖一个亿能赚多少钱",
-      "onboard_time": 1696389455,
-      "rank": 16,
-      "category": "其它"
-    },
-    {
       "raw_hot": 681485,
       "num": 681485,
       "word": "鹿晗张艺兴发色梦回EXO时期",
@@ -2081,14 +2113,6 @@
       "onboard_time": 1696385373,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 652977,
-      "num": 652977,
-      "word": "DIOR 迪丽热巴",
-      "onboard_time": 1696389697,
-      "rank": 8,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 651781,
@@ -2209,6 +2233,14 @@
       "onboard_time": 1696123771,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 617693,
+      "num": 617693,
+      "word": "林一深夜发长文",
+      "onboard_time": 1696392456,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 617492,
@@ -2467,6 +2499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563099,
+      "num": 563099,
+      "word": "语擦",
+      "onboard_time": 1696390903,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 562123,
       "num": 562123,
       "word": "喜报林双离婚了",
@@ -2489,6 +2529,14 @@
       "onboard_time": 1696125871,
       "rank": 11,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 559196,
+      "num": 587511,
+      "word": "全红婵把小乌龟背包送给陈若琳",
+      "onboard_time": 1696390717,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 557189,
@@ -2700,7 +2748,7 @@
     },
     {
       "raw_hot": 518677,
-      "num": 518677,
+      "num": 581127,
       "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
       "onboard_time": 1696385916,
       "rank": 31,
@@ -2971,6 +3019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 471740,
+      "num": 471740,
+      "word": "我恋5最窒息男嘉宾恋爱了",
+      "onboard_time": 1696389576,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470711,
       "num": 394811,
       "word": "原来拔智齿磨的是骨头不是牙",
@@ -3049,6 +3105,14 @@
       "onboard_time": 1696328741,
       "rank": 23,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 460485,
+      "num": 638450,
+      "word": "山西窒息致7死事故系家庭作坊中毒",
+      "onboard_time": 1696391434,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454742,
@@ -3611,20 +3675,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 378035,
+      "num": 378035,
+      "word": "张老板再接杀了么订单",
+      "onboard_time": 1696389517,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 376624,
       "num": 376624,
       "word": "梅姨安妮海瑟薇 梦回穿Prada的女王",
       "onboard_time": 1696134331,
       "rank": 27,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 375025,
-      "num": 375025,
-      "word": "我恋5最窒息男嘉宾恋爱了",
-      "onboard_time": 1696389576,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 374974,
@@ -4017,6 +4081,14 @@
       "onboard_time": 1696374080,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340767,
+      "num": 340767,
+      "word": "你知道有钱人怎么住院的吗",
+      "onboard_time": 1696391256,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 340619,
@@ -4531,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 300241,
+      "num": 300241,
+      "word": "杨紫清唱私奔",
+      "onboard_time": 1696390835,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300130,
       "num": 300130,
       "word": "是怎么说服黄景瑜王子奇拍的",
@@ -4673,14 +4753,6 @@
       "onboard_time": 1696344160,
       "rank": 28,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 290165,
-      "num": 290165,
-      "word": "张老板再接杀了么订单",
-      "onboard_time": 1696389517,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 289276,
@@ -5371,6 +5443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 256282,
+      "num": 256282,
+      "word": "女生crush上一秒深情下一秒翻脸",
+      "onboard_time": 1696391677,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 256234,
       "num": 256234,
       "word": "曾黎张静初四大青衣之二合体了",
@@ -5385,6 +5465,14 @@
       "onboard_time": 1696350928,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 255894,
+      "num": 255894,
+      "word": "地狱有什么不好",
+      "onboard_time": 1696392700,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 255784,
@@ -5435,14 +5523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 250394,
-      "num": 250394,
-      "word": "周冬雨凭燃冬提名亚太电影大奖",
-      "onboard_time": 1696390115,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 250378,
       "num": 250378,
       "word": "我爱你中国",
@@ -5488,6 +5568,14 @@
       "word": "樊振东王楚钦",
       "onboard_time": 1696249298,
       "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 248140,
+      "num": 248140,
+      "word": "樊振东调侃自己好大一只",
+      "onboard_time": 1696392334,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -5723,6 +5811,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237453,
+      "num": 237453,
+      "word": "蜜雪冰城在2003年是家常菜馆",
+      "onboard_time": 1696389455,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 236836,
       "num": 236836,
       "word": "迪丽热巴花少5古城王后造型",
@@ -5849,14 +5945,6 @@
       "onboard_time": 1696377026,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 230905,
-      "num": 230905,
-      "word": "蜜雪冰城在2003年是家常菜馆",
-      "onboard_time": 1696389455,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 230902,
@@ -6891,6 +6979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195230,
+      "num": 195230,
+      "word": "手指脱皮会影响指纹比对吗",
+      "onboard_time": 1696392700,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194728,
       "num": 194728,
       "word": "南阳市民含泪感谢迷笛音乐节",
@@ -7123,6 +7219,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 187393,
+      "num": 187393,
+      "word": "梁王",
+      "onboard_time": 1696392997,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187374,
       "num": 187374,
       "word": "游客讲述成都天府广场升旗高燃现场",
@@ -7137,6 +7241,14 @@
       "onboard_time": 1696140513,
       "rank": 14,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 186988,
+      "num": 186988,
+      "word": "景区回应上百游客集体大喊退票",
+      "onboard_time": 1696390660,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 186850,
@@ -7529,6 +7641,14 @@
       "onboard_time": 1696296934,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174601,
+      "num": 1094525,
+      "word": "杭州亚运会中国队含金量拉满",
+      "onboard_time": 1696389217,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 174428,
@@ -8091,6 +8211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152517,
+      "num": 152517,
+      "word": "亚运会00后小伙这段即兴解说好燃",
+      "onboard_time": 1696393175,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152482,
       "num": 415041,
       "word": "肖思远的弟弟说我不能比别人差",
@@ -8217,6 +8345,14 @@
       "onboard_time": 1696081540,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148060,
+      "num": 148060,
+      "word": "沈月帮赵今麦宣传新剧",
+      "onboard_time": 1696391018,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 147923,
@@ -9056,14 +9192,6 @@
       "word": "全红婵挂着粉丝的礼物参加发布会",
       "onboard_time": 1696374440,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 95982,
-      "num": 880669,
-      "word": "杭州亚运会中国队含金量拉满",
-      "onboard_time": 1696389217,
-      "rank": 2,
       "category": "体育"
     },
     {
