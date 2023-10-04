@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696376045850,
+  "endTime": 1696382025101,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -147,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2964851,
+      "num": 901014,
+      "word": "湖南婚车事故致6死",
+      "onboard_time": 1696377869,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2951312,
       "num": 2951312,
       "word": "全红婵跳水看呆了外国网友",
@@ -289,6 +297,14 @@
       "onboard_time": 1696142374,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2157027,
+      "num": 899902,
+      "word": "向佐直播抱女儿违规了",
+      "onboard_time": 1696379009,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 2156991,
@@ -835,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1247171,
+      "num": 1247171,
+      "word": "瑞幸和茅台看了都沉默",
+      "onboard_time": 1696376846,
+      "rank": 0,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1237386,
       "num": 1237386,
       "word": "韩国朝鲜女双争金",
@@ -945,6 +969,14 @@
       "onboard_time": 1696335937,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1097808,
+      "num": 1097808,
+      "word": "弟弟结婚董宇辉回家帮忙成碍眼包",
+      "onboard_time": 1696375523,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 1069162,
@@ -1225,6 +1257,14 @@
       "onboard_time": 1696240233,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 890498,
+      "num": 890498,
+      "word": "钢铁侠和黑寡妇在2023年10月牺牲",
+      "onboard_time": 1696380152,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 889757,
@@ -2267,12 +2307,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 574400,
+      "num": 574400,
+      "word": "上学时不合群的红利被我吃到了",
+      "onboard_time": 1696376546,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 572828,
       "num": 572828,
       "word": "张远输了十六年终于赢了一回",
       "onboard_time": 1696134574,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 572408,
+      "num": 572408,
+      "word": "王一博王俊凯张凌赫龚俊看秀生图",
+      "onboard_time": 1696374803,
+      "rank": 4,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 571395,
@@ -2379,6 +2435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546088,
+      "num": 546088,
+      "word": "松鼠到死都觉得是自己不够努力",
+      "onboard_time": 1696378109,
+      "rank": 8,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 544560,
       "num": 544560,
       "word": "一群余华举起了他们的铁生",
@@ -2459,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 534211,
+      "num": 534211,
+      "word": "金马最佳男主角提名",
+      "onboard_time": 1696375164,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 533372,
       "num": 533372,
       "word": "九图看完前任4",
@@ -2489,14 +2561,6 @@
       "onboard_time": 1696149513,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 528822,
-      "num": 354343,
-      "word": "王一博王俊凯张凌赫龚俊看秀生图",
-      "onboard_time": 1696374803,
-      "rank": 4,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 526814,
@@ -3395,11 +3459,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 372860,
+      "num": 372860,
+      "word": "广州地铁又要多一个禁止标了",
+      "onboard_time": 1696376846,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 371973,
       "num": 371973,
       "word": "许昕说孙颖莎逐渐扛起女乒大旗",
       "onboard_time": 1696249058,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 370227,
+      "num": 177731,
+      "word": "孙颖莎 看游泳比赛点开就游完了",
+      "onboard_time": 1696377688,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -3748,7 +3828,7 @@
     },
     {
       "raw_hot": 341400,
-      "num": 174599,
+      "num": 338000,
       "word": "男友家情况特殊女子0彩礼出嫁",
       "onboard_time": 1696374080,
       "rank": 17,
@@ -3857,6 +3937,14 @@
       "onboard_time": 1696173337,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 334155,
+      "num": 334155,
+      "word": "中国游客亲历泰国枪击事件",
+      "onboard_time": 1696381053,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332959,
@@ -4219,6 +4307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 301992,
+      "num": 301992,
+      "word": "杨紫时装周G社怼脸生图",
+      "onboard_time": 1696375884,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 301755,
       "num": 301755,
       "word": "珠帘玉幕要官宣了",
@@ -4387,6 +4483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 289276,
+      "num": 289276,
+      "word": "黄景瑜王子奇没去周杰伦演唱会的原因",
+      "onboard_time": 1696378469,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 288682,
       "num": 486729,
       "word": "丘妈感谢中国人民助其儿子康复",
@@ -4532,7 +4636,7 @@
     },
     {
       "raw_hot": 280581,
-      "num": 111107,
+      "num": 278832,
       "word": "美众议院议长麦卡锡被罢免",
       "onboard_time": 1696375523,
       "rank": 30,
@@ -4609,6 +4713,14 @@
       "onboard_time": 1696133493,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277116,
+      "num": 277116,
+      "word": "什么叫人人人山人人人海",
+      "onboard_time": 1696374682,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 276220,
@@ -4883,6 +4995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 262131,
+      "num": 262131,
+      "word": "大宋提刑官时影角色适配度",
+      "onboard_time": 1696381354,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262102,
       "num": 262102,
       "word": "梦中的那片海",
@@ -5041,6 +5161,14 @@
       "onboard_time": 1696125932,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 256064,
+      "num": 371454,
+      "word": "这是我见过排量最大的婚车",
+      "onboard_time": 1696350928,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255784,
@@ -5323,6 +5451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 240269,
+      "num": 240269,
+      "word": "全红婵7个10分惊呆日本解说",
+      "onboard_time": 1696376424,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 239751,
       "num": 239751,
       "word": "张雨霏原名叫冰清",
@@ -5337,14 +5473,6 @@
       "onboard_time": 1696301370,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239171,
-      "num": 239171,
-      "word": "金马最佳男主角提名",
-      "onboard_time": 1696375164,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 237919,
@@ -5473,6 +5601,14 @@
       "onboard_time": 1696170525,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231619,
+      "num": 231619,
+      "word": "旅游时发朋友圈会带定位吗",
+      "onboard_time": 1696377026,
+      "rank": 26,
+      "category": "旅游"
     },
     {
       "raw_hot": 230902,
@@ -5763,14 +5899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 221021,
-      "num": 110556,
-      "word": "弟弟结婚董宇辉回家帮忙成碍眼包",
-      "onboard_time": 1696375523,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 220757,
       "num": 220757,
       "word": "李现观战中网",
@@ -5907,14 +6035,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 213580,
-      "num": 213580,
-      "word": "这是我见过排量最大的婚车",
-      "onboard_time": 1696350928,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213521,
       "num": 213521,
       "word": "今天37岁的他在天府广场第35次看升旗",
@@ -6003,6 +6123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 210435,
+      "num": 370951,
+      "word": "泰国枪击案嫌疑人有精神病治疗史",
+      "onboard_time": 1696375705,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209644,
       "num": 209644,
       "word": "王哲林",
@@ -6080,6 +6208,14 @@
       "word": "陈思诚对中国喜剧的八字期待",
       "onboard_time": 1696231053,
       "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 206038,
+      "num": 177350,
+      "word": "于文文 再见前任画一个句号",
+      "onboard_time": 1696381232,
+      "rank": 31,
       "category": "电影"
     },
     {
@@ -6513,6 +6649,14 @@
       "onboard_time": 1696139254,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193501,
+      "num": 193501,
+      "word": "林允儿美拉德穿搭",
+      "onboard_time": 1696377268,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 193471,
@@ -6955,6 +7099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179059,
+      "num": 179059,
+      "word": "迷笛",
+      "onboard_time": 1696096101,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178796,
       "num": 178796,
       "word": "令人心动的offer",
@@ -7009,14 +7161,6 @@
       "onboard_time": 1696331196,
       "rank": 45,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177089,
-      "num": 109701,
-      "word": "什么叫人人人山人人人海",
-      "onboard_time": 1696374682,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 176883,
@@ -7353,14 +7497,6 @@
       "onboard_time": 1696131034,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162600,
-      "num": 162600,
-      "word": "迷笛",
-      "onboard_time": 1696096101,
-      "rank": 25,
-      "category": "演出"
     },
     {
       "raw_hot": 162272,
@@ -8083,6 +8219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132046,
+      "num": 132046,
+      "word": "哪项球类运动球速最快",
+      "onboard_time": 1696381776,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131636,
       "num": 131636,
       "word": "朱亚文坐地铁跑路演",
@@ -8155,6 +8299,14 @@
       "category": "艺人,综艺"
     },
     {
+      "raw_hot": 129021,
+      "num": 129021,
+      "word": "Jennie米色马甲背心短裤造型",
+      "onboard_time": 1696381776,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 128437,
       "num": 128437,
       "word": "国旗护卫队脚步声响彻天安门广场",
@@ -8193,6 +8345,22 @@
       "onboard_time": 1696209030,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127374,
+      "num": 127374,
+      "word": "王鹤润理解李莲花成为李莲花",
+      "onboard_time": 1696381592,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127368,
+      "num": 127368,
+      "word": "地下四合院你们见过吗",
+      "onboard_time": 1696377390,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 126797,
@@ -8323,6 +8491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117966,
+      "num": 117966,
+      "word": "欧冠",
+      "onboard_time": 1696374501,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116690,
       "num": 116690,
       "word": "因不能合照儿子画全家福送缉毒警爸爸",
@@ -8337,6 +8513,14 @@
       "onboard_time": 1696074099,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116161,
+      "num": 116161,
+      "word": "假期余额只剩3天",
+      "onboard_time": 1696380093,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114506,
@@ -8368,22 +8552,6 @@
       "word": "林高远说热爱永存",
       "onboard_time": 1696348773,
       "rank": 46,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 113093,
-      "num": 108259,
-      "word": "泰国枪击案嫌疑人有精神病治疗史",
-      "onboard_time": 1696375705,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 112550,
-      "num": 112550,
-      "word": "欧冠",
-      "onboard_time": 1696374501,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -8553,14 +8721,6 @@
       "onboard_time": 1696283114,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89399,
-      "num": 88517,
-      "word": "杨紫时装周G社怼脸生图",
-      "onboard_time": 1696375884,
-      "rank": 44,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 86722,
