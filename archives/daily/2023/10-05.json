@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696455240331,
+  "endTime": 1696457809709,
   "band_list": [
     {
       "raw_hot": 2401767,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 318240,
-      "num": 192982,
+      "num": 199247,
       "word": "女子通过WiFi名称跨60公里寻回手机",
       "onboard_time": 1696444037,
       "rank": 40,
@@ -177,6 +177,14 @@
       "onboard_time": 1696434757,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275450,
+      "num": 72977,
+      "word": "多囊",
+      "onboard_time": 1696452615,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 274624,
@@ -419,20 +427,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 114556,
-      "num": 57733,
-      "word": "多囊",
-      "onboard_time": 1696452615,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 48913,
       "num": 52121,
       "word": "中国男篮",
       "onboard_time": 1696424018,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48805,
+      "num": 48805,
+      "word": "封神第一部进入中国影史票房TOP23",
+      "onboard_time": 1696456095,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 47798,
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36690,
+      "num": 36690,
+      "word": "郝劭文成十个勤天新晋债主",
+      "onboard_time": 1696453694,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 35371,
       "num": 1585004,
       "word": "这次科考为何选择卓奥友峰",
@@ -467,20 +483,20 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 28116,
+      "num": 28116,
+      "word": "徐明浩实现了四年前的愿望",
+      "onboard_time": 1696456275,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 23578,
       "num": 28282,
       "word": "于和伟 能看到就不错了还要啥自行车",
       "onboard_time": 1696446555,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22152,
-      "num": 22152,
-      "word": "郝劭文成十个勤天新晋债主",
-      "onboard_time": 1696453694,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 13861,

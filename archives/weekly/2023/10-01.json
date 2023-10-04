@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696455240331,
+  "endTime": 1696457809709,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5292,7 +5292,7 @@
     },
     {
       "raw_hot": 318240,
-      "num": 192982,
+      "num": 199247,
       "word": "女子通过WiFi名称跨60公里寻回手机",
       "onboard_time": 1696444037,
       "rank": 40,
@@ -6169,6 +6169,14 @@
       "onboard_time": 1696171421,
       "rank": 31,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 275450,
+      "num": 72977,
+      "word": "多囊",
+      "onboard_time": 1696452615,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275355,
@@ -10835,14 +10843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114556,
-      "num": 57733,
-      "word": "多囊",
-      "onboard_time": 1696452615,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 114506,
       "num": 115871,
       "word": "张桂梅师生与消防员合唱我和我的祖国",
@@ -11355,6 +11355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48805,
+      "num": 48805,
+      "word": "封神第一部进入中国影史票房TOP23",
+      "onboard_time": 1696456095,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47798,
       "num": 47798,
       "word": "薛之谦音乐节贵阳",
@@ -11433,6 +11441,14 @@
       "onboard_time": 1696449855,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36690,
+      "num": 36690,
+      "word": "郝劭文成十个勤天新晋债主",
+      "onboard_time": 1696453694,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 36583,
@@ -11539,6 +11555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28116,
+      "num": 28116,
+      "word": "徐明浩实现了四年前的愿望",
+      "onboard_time": 1696456275,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 27287,
       "num": 27287,
       "word": "华晨宇现场看和平项目总决赛",
@@ -11593,14 +11617,6 @@
       "onboard_time": 1696446555,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22152,
-      "num": 22152,
-      "word": "郝劭文成十个勤天新晋债主",
-      "onboard_time": 1696453694,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 19990,
