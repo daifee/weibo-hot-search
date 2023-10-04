@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696403765401,
+  "endTime": 1696404868348,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2315188,
-      "num": 866320,
+      "num": 950737,
       "word": "湖南婚车事故记录仪显示婚车突然变道",
       "onboard_time": 1696400254,
       "rank": 30,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1525476,
+      "num": 1525476,
+      "word": "黄晓明因为被嘲笑英文去演了英语老师",
+      "onboard_time": 1696402593,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1420780,
       "num": 1420780,
       "word": "我P都不敢P成这样",
@@ -97,14 +105,6 @@
       "onboard_time": 1696385135,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1161698,
-      "num": 1161698,
-      "word": "黄晓明因为被嘲笑英文去演了英语老师",
-      "onboard_time": 1696402593,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1133620,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 592172,
+      "num": 203128,
+      "word": "吸引全红婵只需要一个乌龟玩偶",
+      "onboard_time": 1696404098,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 591428,
       "num": 591428,
       "word": "语擦",
@@ -515,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415288,
+      "num": 415288,
+      "word": "特警碰掉游客小吃后重新买了一份",
+      "onboard_time": 1696401215,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 413573,
       "num": 413573,
       "word": "曾舜晞工作室偷偷发了深V照",
@@ -529,14 +545,6 @@
       "onboard_time": 1696336841,
       "rank": 19,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 411238,
-      "num": 411238,
-      "word": "特警碰掉游客小吃后重新买了一份",
-      "onboard_time": 1696401215,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 406057,
@@ -643,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 351078,
+      "num": 351078,
+      "word": "0713真正的朋友预告",
+      "onboard_time": 1696403913,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350707,
       "num": 217349,
       "word": "许玮甯外网生图",
@@ -699,8 +715,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 328306,
-      "num": 328306,
+      "raw_hot": 331555,
+      "num": 331555,
       "word": "劝君少骂秦始皇",
       "onboard_time": 1696402356,
       "rank": 23,
@@ -723,8 +739,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 319841,
-      "num": 319841,
+      "raw_hot": 322431,
+      "num": 322431,
       "word": "迪丽热巴有效看秀",
       "onboard_time": 1696402175,
       "rank": 24,
@@ -737,6 +753,14 @@
       "onboard_time": 1696396357,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 318670,
+      "num": 318670,
+      "word": "王昶 对不起我的搭档和教练",
+      "onboard_time": 1696403196,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 317146,
@@ -833,14 +857,6 @@
       "onboard_time": 1696375523,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 278663,
-      "num": 278663,
-      "word": "王昶 对不起我的搭档和教练",
-      "onboard_time": 1696403196,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 278260,
@@ -1027,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223598,
+      "num": 367916,
+      "word": "男女生爬山被上了一课",
+      "onboard_time": 1696403557,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219699,
       "num": 219699,
       "word": "全红婵7个10分",
@@ -1123,6 +1147,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 204096,
+      "num": 204096,
+      "word": "新郎接亲意外被困电梯求助消防",
+      "onboard_time": 1696403374,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203161,
       "num": 203161,
       "word": "咪咕",
@@ -1153,6 +1185,14 @@
       "onboard_time": 1696392700,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197160,
+      "num": 197160,
+      "word": "Jennie个人单曲预告海报",
+      "onboard_time": 1696401454,
+      "rank": 38,
+      "category": "音乐"
     },
     {
       "raw_hot": 194471,
@@ -1243,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 187394,
+      "num": 187394,
+      "word": "兵马俑酒店有人付钱不住看看就走",
+      "onboard_time": 1696404455,
+      "rank": 35,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 186988,
       "num": 186988,
       "word": "景区回应上百游客集体大喊退票",
@@ -1291,6 +1339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178303,
+      "num": 178303,
+      "word": "陈伟霆油腻不了一点",
+      "onboard_time": 1696403615,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175205,
       "num": 175205,
       "word": "张凌赫边上班边当造型师",
@@ -1321,14 +1377,6 @@
       "onboard_time": 1696381776,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 170971,
-      "num": 170971,
-      "word": "Jennie个人单曲预告海报",
-      "onboard_time": 1696401454,
-      "rank": 38,
-      "category": "音乐"
     },
     {
       "raw_hot": 167635,
@@ -1371,6 +1419,14 @@
       "category": "社会新闻,音乐"
     },
     {
+      "raw_hot": 157274,
+      "num": 157274,
+      "word": "于适封神训练营汇报表演",
+      "onboard_time": 1696402593,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154960,
       "num": 154960,
       "word": "黄奕还差191张照片没发",
@@ -1401,14 +1457,6 @@
       "onboard_time": 1696393175,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 152379,
-      "num": 152379,
-      "word": "于适封神训练营汇报表演",
-      "onboard_time": 1696402593,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 150603,
@@ -1475,14 +1523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142797,
-      "num": 142797,
-      "word": "男女生爬山被上了一课",
-      "onboard_time": 1696403557,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 142601,
       "num": 142601,
       "word": "许文婷的脆弱仅男友可见",
@@ -1523,12 +1563,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 139150,
-      "num": 139150,
-      "word": "新郎接亲意外被困电梯求助消防",
-      "onboard_time": 1696403374,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 137451,
+      "num": 137451,
+      "word": "newjeans英雄联盟主题曲GODSMV",
+      "onboard_time": 1696404575,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 137274,
+      "num": 137274,
+      "word": "吴海媛泥塑自己",
+      "onboard_time": 1696404696,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 136203,
@@ -1537,14 +1585,6 @@
       "onboard_time": 1696381776,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133187,
-      "num": 133187,
-      "word": "陈伟霆油腻不了一点",
-      "onboard_time": 1696403615,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 129454,
@@ -1699,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65746,
+      "num": 406528,
+      "word": "崩铁承包TI12中国战队",
+      "onboard_time": 1696400735,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 61383,
       "num": 61383,
       "word": "熊猫宝宝求贴贴被拒",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1696355001,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49073,
-      "num": 406528,
-      "word": "崩铁承包TI12中国战队",
-      "onboard_time": 1696400735,
-      "rank": 42,
-      "category": "游戏"
     },
     {
       "raw_hot": 47488,
@@ -1787,8 +1827,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16150,
-      "num": 887757,
+      "raw_hot": 24322,
+      "num": 950877,
       "word": "在五常感受农业农村现代化事业阔步前行",
       "onboard_time": 1696388856,
       "rank": 2,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/04 00:22:49 ~ 2023/10/04 15:16:05
+本榜单时间：2023/10/04 00:22:49 ~ 2023/10/04 15:34:28
 </p>
 </blockquote>
 <p>
@@ -75,6 +75,12 @@ DIOR 迪丽热巴（热度：2432400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%A0%E4%B8%BA%E8%A2%AB%E5%98%B2%E7%AC%91%E8%8B%B1%E6%96%87%E5%8E%BB%E6%BC%94%E4%BA%86%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88%23" target="weibo">
+黄晓明因为被嘲笑英文去演了英语老师（热度：1525476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91P%E9%83%BD%E4%B8%8D%E6%95%A2P%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
 我P都不敢P成这样（热度：1420780）
 </a>
@@ -83,12 +89,6 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E5%AD%95%E5%A6%87%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%A6%99%E6%B8%AF%E8%AF%BB%E5%A4%A7%E4%B8%93%23" target="weibo">
 硕士孕妇为孩子去香港读大专（热度：1401452）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%A0%E4%B8%BA%E8%A2%AB%E5%98%B2%E7%AC%91%E8%8B%B1%E6%96%87%E5%8E%BB%E6%BC%94%E4%BA%86%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88%23" target="weibo">
-黄晓明因为被嘲笑英文去演了英语老师（热度：1161698）
 </a>
 </li>
 
@@ -273,6 +273,12 @@ Jennie将发新歌（热度：642409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E5%BC%95%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E4%B9%8C%E9%BE%9F%E7%8E%A9%E5%81%B6%23" target="weibo">
+吸引全红婵只需要一个乌龟玩偶（热度：592172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AD%E6%93%A6%23" target="weibo">
 语擦（热度：591428）
 </a>
@@ -399,6 +405,12 @@ Jennie将发新歌（热度：642409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD%23" target="weibo">
+特警碰掉游客小吃后重新买了一份（热度：415288）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%81%B7%E5%81%B7%E5%8F%91%E4%BA%86%E6%B7%B1V%E7%85%A7%23" target="weibo">
 曾舜晞工作室偷偷发了深V照（热度：413573）
 </a>
@@ -407,12 +419,6 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E9%87%91%E6%99%BA%E7%A7%80%E6%9C%B4%E5%BD%A9%E8%8B%B1G%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
 Jennie金智秀朴彩英G社生图（热度：412944）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E8%AD%A6%E7%A2%B0%E6%8E%89%E6%B8%B8%E5%AE%A2%E5%B0%8F%E5%90%83%E5%90%8E%E9%87%8D%E6%96%B0%E4%B9%B0%E4%BA%86%E4%B8%80%E4%BB%BD%23" target="weibo">
-特警碰掉游客小吃后重新买了一份（热度：411238）
 </a>
 </li>
 
@@ -495,6 +501,12 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%230713%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%9C%8B%E5%8F%8B%E9%A2%84%E5%91%8A%23" target="weibo">
+0713真正的朋友预告（热度：351078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%23" target="weibo">
 许玮甯外网生图（热度：350707）
 </a>
@@ -538,7 +550,7 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%9D%E5%90%9B%E5%B0%91%E9%AA%82%E7%A7%A6%E5%A7%8B%E7%9A%87%23" target="weibo">
-劝君少骂秦始皇（热度：328306）
+劝君少骂秦始皇（热度：331555）
 </a>
 </li>
 
@@ -556,13 +568,19 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%9C%89%E6%95%88%E7%9C%8B%E7%A7%80%23" target="weibo">
-迪丽热巴有效看秀（热度：319841）
+迪丽热巴有效看秀（热度：322431）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23mhy.LGD%23" target="weibo">
 mhy.LGD（热度：319470）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B6%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%88%91%E7%9A%84%E6%90%AD%E6%A1%A3%E5%92%8C%E6%95%99%E7%BB%83%23" target="weibo">
+王昶 对不起我的搭档和教练（热度：318670）
 </a>
 </li>
 
@@ -635,12 +653,6 @@ mhy.LGD（热度：319470）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%BC%97%E8%AE%AE%E9%99%A2%E8%AE%AE%E9%95%BF%E9%BA%A6%E5%8D%A1%E9%94%A1%E8%A2%AB%E7%BD%A2%E5%85%8D%23" target="weibo">
 美众议院议长麦卡锡被罢免（热度：280581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%98%B6%20%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%88%91%E7%9A%84%E6%90%AD%E6%A1%A3%E5%92%8C%E6%95%99%E7%BB%83%23" target="weibo">
-王昶 对不起我的搭档和教练（热度：278663）
 </a>
 </li>
 
@@ -783,6 +795,12 @@ S型身材的于适（热度：250621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A5%B3%E7%94%9F%E7%88%AC%E5%B1%B1%E8%A2%AB%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23" target="weibo">
+男女生爬山被上了一课（热度：223598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B57%E4%B8%AA10%E5%88%86%23" target="weibo">
 全红婵7个10分（热度：219699）
 </a>
@@ -855,6 +873,12 @@ S型身材的于适（热度：250621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E6%84%8F%E5%A4%96%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%B1%82%E5%8A%A9%E6%B6%88%E9%98%B2%23" target="weibo">
+新郎接亲意外被困电梯求助消防（热度：204096）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%AA%E5%92%95%23" target="weibo">
 咪咕（热度：203161）
 </a>
@@ -875,6 +899,12 @@ S型身材的于适（热度：250621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%8C%87%E8%84%B1%E7%9A%AE%E4%BC%9A%E5%BD%B1%E5%93%8D%E6%8C%87%E7%BA%B9%E6%AF%94%E5%AF%B9%E5%90%97%23" target="weibo">
 手指脱皮会影响指纹比对吗（热度：199825）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E4%B8%AA%E4%BA%BA%E5%8D%95%E6%9B%B2%E9%A2%84%E5%91%8A%E6%B5%B7%E6%8A%A5%23" target="weibo">
+Jennie个人单曲预告海报（热度：197160）
 </a>
 </li>
 
@@ -945,6 +975,12 @@ S型身材的于适（热度：250621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B5%E9%A9%AC%E4%BF%91%E9%85%92%E5%BA%97%E6%9C%89%E4%BA%BA%E4%BB%98%E9%92%B1%E4%B8%8D%E4%BD%8F%E7%9C%8B%E7%9C%8B%E5%B0%B1%E8%B5%B0%23" target="weibo">
+兵马俑酒店有人付钱不住看看就走（热度：187394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E4%B8%8A%E7%99%BE%E6%B8%B8%E5%AE%A2%E9%9B%86%E4%BD%93%E5%A4%A7%E5%96%8A%E9%80%80%E7%A5%A8%23" target="weibo">
 景区回应上百游客集体大喊退票（热度：186988）
 </a>
@@ -981,6 +1017,12 @@ S型身材的于适（热度：250621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%B2%B9%E8%85%BB%E4%B8%8D%E4%BA%86%E4%B8%80%E7%82%B9%23" target="weibo">
+陈伟霆油腻不了一点（热度：178303）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%BE%B9%E4%B8%8A%E7%8F%AD%E8%BE%B9%E5%BD%93%E9%80%A0%E5%9E%8B%E5%B8%88%23" target="weibo">
 张凌赫边上班边当造型师（热度：175205）
 </a>
@@ -1001,12 +1043,6 @@ JINI solo出道曲1分钟先公开（热度：171281）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E7%B1%B3%E8%89%B2%E9%A9%AC%E7%94%B2%E8%83%8C%E5%BF%83%E7%9F%AD%E8%A3%A4%E9%80%A0%E5%9E%8B%23" target="weibo">
 Jennie米色马甲背心短裤造型（热度：171079）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E4%B8%AA%E4%BA%BA%E5%8D%95%E6%9B%B2%E9%A2%84%E5%91%8A%E6%B5%B7%E6%8A%A5%23" target="weibo">
-Jennie个人单曲预告海报（热度：170971）
 </a>
 </li>
 
@@ -1041,6 +1077,12 @@ Jennie个人单曲预告海报（热度：170971）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5%E6%B1%87%E6%8A%A5%E8%A1%A8%E6%BC%94%23" target="weibo">
+于适封神训练营汇报表演（热度：157274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E8%BF%98%E5%B7%AE191%E5%BC%A0%E7%85%A7%E7%89%87%E6%B2%A1%E5%8F%91%23" target="weibo">
 黄奕还差191张照片没发（热度：154960）
 </a>
@@ -1061,12 +1103,6 @@ Jennie个人单曲预告海报（热度：170971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A00%E5%90%8E%E5%B0%8F%E4%BC%99%E8%BF%99%E6%AE%B5%E5%8D%B3%E5%85%B4%E8%A7%A3%E8%AF%B4%E5%A5%BD%E7%87%83%23" target="weibo">
 亚运会00后小伙这段即兴解说好燃（热度：152517）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5%E6%B1%87%E6%8A%A5%E8%A1%A8%E6%BC%94%23" target="weibo">
-于适封神训练营汇报表演（热度：152379）
 </a>
 </li>
 
@@ -1119,12 +1155,6 @@ Jennie个人单曲预告海报（热度：170971）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%A5%B3%E7%94%9F%E7%88%AC%E5%B1%B1%E8%A2%AB%E4%B8%8A%E4%BA%86%E4%B8%80%E8%AF%BE%23" target="weibo">
-男女生爬山被上了一课（热度：142797）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%96%87%E5%A9%B7%E7%9A%84%E8%84%86%E5%BC%B1%E4%BB%85%E7%94%B7%E5%8F%8B%E5%8F%AF%E8%A7%81%23" target="weibo">
 许文婷的脆弱仅男友可见（热度：142601）
 </a>
@@ -1155,20 +1185,20 @@ Jennie个人单曲预告海报（热度：170971）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%8E%A5%E4%BA%B2%E6%84%8F%E5%A4%96%E8%A2%AB%E5%9B%B0%E7%94%B5%E6%A2%AF%E6%B1%82%E5%8A%A9%E6%B6%88%E9%98%B2%23" target="weibo">
-新郎接亲意外被困电梯求助消防（热度：139150）
+<a href="https://s.weibo.com/weibo?q=%23newjeans%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E4%B8%BB%E9%A2%98%E6%9B%B2GODSMV%23" target="weibo">
+newjeans英雄联盟主题曲GODSMV（热度：137451）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%B5%B7%E5%AA%9B%E6%B3%A5%E5%A1%91%E8%87%AA%E5%B7%B1%23" target="weibo">
+吴海媛泥塑自己（热度：137274）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E9%A1%B9%E7%90%83%E7%B1%BB%E8%BF%90%E5%8A%A8%E7%90%83%E9%80%9F%E6%9C%80%E5%BF%AB%23" target="weibo">
 哪项球类运动球速最快（热度：136203）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%B2%B9%E8%85%BB%E4%B8%8D%E4%BA%86%E4%B8%80%E7%82%B9%23" target="weibo">
-陈伟霆油腻不了一点（热度：133187）
 </a>
 </li>
 
@@ -1287,6 +1317,12 @@ Jennie个人单曲预告海报（热度：170971）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%A9%E9%93%81%E6%89%BF%E5%8C%85TI12%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9F%23" target="weibo">
+崩铁承包TI12中国战队（热度：65746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%86%8A%E7%8C%AB%E5%AE%9D%E5%AE%9D%E6%B1%82%E8%B4%B4%E8%B4%B4%E8%A2%AB%E6%8B%92%23" target="weibo">
 熊猫宝宝求贴贴被拒（热度：61383）
 </a>
@@ -1313,12 +1349,6 @@ Jennie个人单曲预告海报（热度：170971）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E6%BC%94%E6%88%91%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
 韩素希演我精神状态（热度：50389）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B4%A9%E9%93%81%E6%89%BF%E5%8C%85TI12%E4%B8%AD%E5%9B%BD%E6%88%98%E9%98%9F%23" target="weibo">
-崩铁承包TI12中国战队（热度：49073）
 </a>
 </li>
 
@@ -1354,7 +1384,7 @@ Jennie个人单曲预告海报（热度：170971）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E4%BA%94%E5%B8%B8%E6%84%9F%E5%8F%97%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E7%8E%B0%E4%BB%A3%E5%8C%96%E4%BA%8B%E4%B8%9A%E9%98%94%E6%AD%A5%E5%89%8D%E8%A1%8C%23" target="weibo">
-在五常感受农业农村现代化事业阔步前行（热度：16150）
+在五常感受农业农村现代化事业阔步前行（热度：24322）
 </a>
 </li>
 
