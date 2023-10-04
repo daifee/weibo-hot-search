@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696429016635,
+  "endTime": 1696430064172,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -531,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1755299,
+      "num": 1755299,
+      "word": "姚明",
+      "onboard_time": 1696428464,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1754386,
       "num": 1754386,
       "word": "孟晚舟卸任华为轮值董事长",
@@ -1043,6 +1051,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1234452,
+      "num": 1234452,
+      "word": "男篮一分之差输了",
+      "onboard_time": 1696428766,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1222540,
+      "num": 1222540,
+      "word": "张镇麟投篮选择",
+      "onboard_time": 1696429064,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1216152,
       "num": 1216152,
       "word": "于文文在海底捞社死式唱何必",
@@ -1155,14 +1179,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1120251,
-      "num": 1120251,
-      "word": "男篮一分之差输了",
-      "onboard_time": 1696428766,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1117568,
       "num": 1117568,
       "word": "金晨最不想承认自己会跳舞的一次",
@@ -1176,6 +1192,14 @@
       "word": "杨昊10米台金牌",
       "onboard_time": 1696424378,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1106770,
+      "num": 1106770,
+      "word": "中国男篮无缘亚运决赛",
+      "onboard_time": 1696428526,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -1352,14 +1376,6 @@
       "word": "樊振东王楚钦单打决赛放简单爱",
       "onboard_time": 1696248276,
       "rank": 5,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 999336,
-      "num": 999336,
-      "word": "姚明",
-      "onboard_time": 1696428464,
-      "rank": 9,
       "category": "体育"
     },
     {
@@ -3067,6 +3083,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 533207,
+      "num": 964238,
+      "word": "花儿与少年极光直播",
+      "onboard_time": 1696427257,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 531322,
       "num": 531322,
       "word": "糖水店老板儿子自己喝的珍珠奶茶",
@@ -3569,14 +3593,6 @@
       "onboard_time": 1696158333,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 463005,
-      "num": 964238,
-      "word": "花儿与少年极光直播",
-      "onboard_time": 1696427257,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 462211,
@@ -4427,6 +4443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365222,
+      "num": 365222,
+      "word": "乔尔杰维奇",
+      "onboard_time": 1696429541,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 364802,
       "num": 228983,
       "word": "王楚钦说请继续为国乒加油",
@@ -4547,12 +4571,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354534,
+      "num": 386175,
+      "word": "中国田径健儿递补奥运奖牌仪式",
+      "onboard_time": 1696429661,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354283,
       "num": 354283,
       "word": "张小斐演妈是妈演姐是姐",
       "onboard_time": 1696067079,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354216,
+      "num": 354216,
+      "word": "辛纳首夺中网冠军",
+      "onboard_time": 1696429305,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 353946,
+      "num": 353946,
+      "word": "苏炳添和奥运奖牌同框",
+      "onboard_time": 1696429960,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 353280,
@@ -5459,6 +5507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295664,
+      "num": 295664,
+      "word": "李汶翰现场",
+      "onboard_time": 1696429179,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 294409,
       "num": 294409,
       "word": "警方通报网传宝马司机因吐痰引冲突被杀",
@@ -5771,6 +5827,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 280290,
+      "num": 280290,
+      "word": "打工人为什么很难抗拒盖浇饭",
+      "onboard_time": 1696425698,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 279602,
       "num": 279602,
       "word": "南京演唱会出新规了",
@@ -5931,6 +5995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274193,
+      "num": 274193,
+      "word": "张婧仪双羊角辫",
+      "onboard_time": 1696428882,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274018,
       "num": 274018,
       "word": "谢震业回应递补奥运奖牌",
@@ -5977,6 +6049,14 @@
       "onboard_time": 1696229792,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273101,
+      "num": 273101,
+      "word": "孙艺洲 怪不得叫跑路演",
+      "onboard_time": 1696429305,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 272826,
@@ -6443,14 +6523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251439,
-      "num": 251439,
-      "word": "打工人为什么很难抗拒盖浇饭",
-      "onboard_time": 1696425698,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 250621,
       "num": 250621,
       "word": "S型身材的于适",
@@ -6505,6 +6577,14 @@
       "onboard_time": 1696152212,
       "rank": 32,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 248995,
+      "num": 248995,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1696427923,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 248407,
@@ -6601,14 +6681,6 @@
       "onboard_time": 1696040554,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244019,
-      "num": 244019,
-      "word": "黄子弘凡直播",
-      "onboard_time": 1696427923,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 243962,
@@ -7059,6 +7131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225941,
+      "num": 225941,
+      "word": "唐嫣念无双蓝衣飘雪路透",
+      "onboard_time": 1696427320,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225855,
       "num": 225855,
       "word": "明日方舟",
@@ -7251,14 +7331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219558,
-      "num": 219558,
-      "word": "唐嫣念无双蓝衣飘雪路透",
-      "onboard_time": 1696427320,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 219350,
       "num": 219350,
       "word": "宋佳全度妍巴黎秀场热聊",
@@ -7347,6 +7419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214838,
+      "num": 214838,
+      "word": "收到巴黎奥运会志愿者的offer",
+      "onboard_time": 1696427138,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214557,
       "num": 214557,
       "word": "射击运动员不知已夺冠准备打下一枪",
@@ -7369,14 +7449,6 @@
       "onboard_time": 1696293508,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 214342,
-      "num": 214342,
-      "word": "收到巴黎奥运会志愿者的offer",
-      "onboard_time": 1696427138,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 214323,
@@ -7587,6 +7659,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 208480,
+      "num": 208480,
+      "word": "赵睿歪头杀",
+      "onboard_time": 1696429723,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207413,
       "num": 207413,
       "word": "国乒运动员赛场上能有多帅",
@@ -7609,6 +7689,14 @@
       "onboard_time": 1696089456,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 206712,
+      "num": 206712,
+      "word": "想念郭艾伦",
+      "onboard_time": 1696430019,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 206499,
@@ -7641,14 +7729,6 @@
       "onboard_time": 1696231053,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206084,
-      "num": 206084,
-      "word": "张婧仪双羊角辫",
-      "onboard_time": 1696428882,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 206038,
@@ -7720,14 +7800,6 @@
       "word": "孙颖莎冠军",
       "onboard_time": 1696257159,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 204375,
-      "num": 204375,
-      "word": "中国男篮无缘亚运决赛",
-      "onboard_time": 1696428526,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -8385,6 +8457,14 @@
       "onboard_time": 1696226314,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189197,
+      "num": 189197,
+      "word": "中国男篮半场领先18分",
+      "onboard_time": 1696429960,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 188990,
@@ -9529,6 +9609,14 @@
       "onboard_time": 1696207834,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152792,
+      "num": 925202,
+      "word": "奖牌迟到但努力从不缺席",
+      "onboard_time": 1696428167,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 152700,
@@ -10691,14 +10779,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 85586,
-      "num": 575557,
-      "word": "奖牌迟到但努力从不缺席",
-      "onboard_time": 1696428167,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85363,
       "num": 85363,
       "word": "白敬亭说和沈腾聊天比试戏还紧张",
@@ -11059,6 +11139,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 36350,
+      "num": 875487,
+      "word": "王春雨下个赛场见",
+      "onboard_time": 1696428043,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 34982,
       "num": 34982,
       "word": "赵今麦好大气的美",
@@ -11129,14 +11217,6 @@
       "onboard_time": 1696122030,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27978,
-      "num": 797927,
-      "word": "王春雨下个赛场见",
-      "onboard_time": 1696428043,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 27287,
