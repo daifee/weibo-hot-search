@@ -1,10 +1,10 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696382025101,
+  "endTime": 1696383249555,
   "band_list": [
     {
       "raw_hot": 2964851,
-      "num": 901014,
+      "num": 922073,
       "word": "湖南婚车事故致6死",
       "onboard_time": 1696377869,
       "rank": 3,
@@ -12,25 +12,25 @@
     },
     {
       "raw_hot": 2157027,
-      "num": 899902,
+      "num": 917552,
       "word": "向佐直播抱女儿违规了",
       "onboard_time": 1696379009,
       "rank": 4,
       "category": "艺人"
     },
     {
-      "raw_hot": 1420780,
-      "num": 1420780,
-      "word": "我P都不敢P成这样",
-      "onboard_time": 1696330294,
+      "raw_hot": 1449811,
+      "num": 1449811,
+      "word": "瑞幸和茅台看了都沉默",
+      "onboard_time": 1696376846,
       "rank": 0,
       "category": "幽默"
     },
     {
-      "raw_hot": 1247171,
-      "num": 1247171,
-      "word": "瑞幸和茅台看了都沉默",
-      "onboard_time": 1696376846,
+      "raw_hot": 1420780,
+      "num": 1420780,
+      "word": "我P都不敢P成这样",
+      "onboard_time": 1696330294,
       "rank": 0,
       "category": "幽默"
     },
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 890498,
-      "num": 890498,
+      "raw_hot": 899225,
+      "num": 899225,
       "word": "钢铁侠和黑寡妇在2023年10月牺牲",
       "onboard_time": 1696380152,
       "rank": 5,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 721642,
-      "num": 218934,
+      "num": 225241,
       "word": "中韩女星miumiu看秀造型",
       "onboard_time": 1696345179,
       "rank": 16,
@@ -113,6 +113,22 @@
       "onboard_time": 1696346858,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 659616,
+      "num": 659616,
+      "word": "中国游客亲历泰国枪击事件",
+      "onboard_time": 1696381053,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 611178,
+      "num": 611178,
+      "word": "松鼠到死都觉得是自己不够努力",
+      "onboard_time": 1696378109,
+      "rank": 8,
+      "category": "幽默"
     },
     {
       "raw_hot": 603144,
@@ -137,14 +153,6 @@
       "onboard_time": 1696374803,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 546088,
-      "num": 546088,
-      "word": "松鼠到死都觉得是自己不够努力",
-      "onboard_time": 1696378109,
-      "rank": 8,
-      "category": "幽默"
     },
     {
       "raw_hot": 534211,
@@ -211,28 +219,28 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 375073,
-      "num": 268117,
-      "word": "泰国一商场发生枪击案已致3人死亡",
-      "onboard_time": 1696341338,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 397383,
+      "num": 397383,
+      "word": "孙颖莎 看游泳比赛点开就游完了",
+      "onboard_time": 1696377688,
+      "rank": 30,
+      "category": "体育"
     },
     {
-      "raw_hot": 372860,
-      "num": 372860,
+      "raw_hot": 395604,
+      "num": 395604,
       "word": "广州地铁又要多一个禁止标了",
       "onboard_time": 1696376846,
       "rank": 11,
       "category": "幽默"
     },
     {
-      "raw_hot": 370227,
-      "num": 177731,
-      "word": "孙颖莎 看游泳比赛点开就游完了",
-      "onboard_time": 1696377688,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 375073,
+      "num": 268117,
+      "word": "泰国一商场发生枪击案已致3人死亡",
+      "onboard_time": 1696341338,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 362763,
@@ -255,14 +263,6 @@
       "num": 338000,
       "word": "男友家情况特殊女子0彩礼出嫁",
       "onboard_time": 1696374080,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 334155,
-      "num": 334155,
-      "word": "中国游客亲历泰国枪击事件",
-      "onboard_time": 1696381053,
       "rank": 17,
       "category": "社会新闻"
     },
@@ -291,6 +291,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 297344,
+      "num": 297344,
+      "word": "大宋提刑官时影角色适配度",
+      "onboard_time": 1696381354,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 292450,
+      "num": 180506,
+      "word": "杭州亚运会首发现兴奋剂阳性案例",
+      "onboard_time": 1696382794,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289276,
       "num": 289276,
       "word": "黄景瑜王子奇没去周杰伦演唱会的原因",
@@ -315,16 +331,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262131,
-      "num": 262131,
-      "word": "大宋提刑官时影角色适配度",
-      "onboard_time": 1696381354,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 256064,
-      "num": 371454,
+      "num": 396123,
       "word": "这是我见过排量最大的婚车",
       "onboard_time": 1696350928,
       "rank": 43,
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 225622,
-      "num": 370902,
+      "num": 395608,
       "word": "中日韩三国选手相互安慰离场",
       "onboard_time": 1696343199,
       "rank": 12,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 210435,
-      "num": 370951,
+      "num": 395740,
       "word": "泰国枪击案嫌疑人有精神病治疗史",
       "onboard_time": 1696375705,
       "rank": 36,
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 206038,
-      "num": 177350,
+      "num": 180705,
       "word": "于文文 再见前任画一个句号",
       "onboard_time": 1696381232,
       "rank": 31,
@@ -491,12 +499,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179621,
+      "num": 179621,
+      "word": "要写孙颖莎就不能只写孙颖莎",
+      "onboard_time": 1696382132,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179059,
       "num": 179059,
       "word": "迷笛",
       "onboard_time": 1696374803,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171281,
+      "num": 171281,
+      "word": "JINI solo出道曲1分钟先公开",
+      "onboard_time": 1696382371,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 171079,
+      "num": 171079,
+      "word": "Jennie米色马甲背心短裤造型",
+      "onboard_time": 1696381776,
+      "rank": 38,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 167635,
@@ -611,8 +643,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 132046,
-      "num": 132046,
+      "raw_hot": 136203,
+      "num": 136203,
       "word": "哪项球类运动球速最快",
       "onboard_time": 1696381776,
       "rank": 37,
@@ -625,14 +657,6 @@
       "onboard_time": 1696328677,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129021,
-      "num": 129021,
-      "word": "Jennie米色马甲背心短裤造型",
-      "onboard_time": 1696381776,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 127374,
@@ -649,6 +673,14 @@
       "onboard_time": 1696377390,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 121560,
+      "num": 121560,
+      "word": "南初向林陆骁发小脾气",
+      "onboard_time": 1696382611,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 117966,
@@ -835,8 +867,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6665,
-      "num": 902964,
+      "raw_hot": 6978,
+      "num": 930804,
       "word": "潮涌杭州看亚运",
       "onboard_time": 1696252062,
       "rank": 2,

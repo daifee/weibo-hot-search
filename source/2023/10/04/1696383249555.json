@@ -1,0 +1,410 @@
+{
+  "runTime": 1696383249555,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1449811,
+        "num": 1449811,
+        "word": "瑞幸和茅台看了都沉默",
+        "onboard_time": 1696376846,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 999320,
+        "num": 999320,
+        "word": "弟弟结婚董宇辉回家帮忙成碍眼包",
+        "onboard_time": 1696375523,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 6978,
+        "num": 930804,
+        "word": "潮涌杭州看亚运",
+        "onboard_time": 1696252062,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2659593,
+        "num": 922073,
+        "word": "湖南婚车事故致6死",
+        "onboard_time": 1696377869,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2001477,
+        "num": 917552,
+        "word": "向佐直播抱女儿违规了",
+        "onboard_time": 1696379009,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 899225,
+        "num": 899225,
+        "word": "钢铁侠和黑寡妇在2023年10月牺牲",
+        "onboard_time": 1696380152,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 659616,
+        "num": 659616,
+        "word": "中国游客亲历泰国枪击事件",
+        "onboard_time": 1696381053,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 611178,
+        "num": 611178,
+        "word": "松鼠到死都觉得是自己不够努力",
+        "onboard_time": 1696378109,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511880,
+        "num": 511880,
+        "word": "上学时不合群的红利被我吃到了",
+        "onboard_time": 1696376546,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 475198,
+        "num": 475198,
+        "word": "王一博王俊凯张凌赫龚俊看秀生图",
+        "onboard_time": 1696374803,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 458466,
+        "num": 458466,
+        "word": "金马最佳男主角提名",
+        "onboard_time": 1696375164,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 397383,
+        "num": 397383,
+        "word": "孙颖莎 看游泳比赛点开就游完了",
+        "onboard_time": 1696377688,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229787,
+        "num": 396123,
+        "word": "这是我见过排量最大的婚车",
+        "onboard_time": 1696350928,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190532,
+        "num": 395740,
+        "word": "泰国枪击案嫌疑人有精神病治疗史",
+        "onboard_time": 1696375705,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142329,
+        "num": 395608,
+        "word": "中日韩三国选手相互安慰离场",
+        "onboard_time": 1696343199,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 395604,
+        "num": 395604,
+        "word": "广州地铁又要多一个禁止标了",
+        "onboard_time": 1696376846,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 375412,
+        "num": 375412,
+        "word": "小伙称因长期抠鼻子感染丹毒",
+        "onboard_time": 1696350390,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 357731,
+        "num": 357731,
+        "word": "暹罗枪击案一名中国游客死亡",
+        "onboard_time": 1696342241,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297448,
+        "num": 297448,
+        "word": "男友家情况特殊女子0彩礼出嫁",
+        "onboard_time": 1696374080,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297344,
+        "num": 297344,
+        "word": "大宋提刑官时影角色适配度",
+        "onboard_time": 1696381354,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288244,
+        "num": 288244,
+        "word": "黄景瑜王子奇没去周杰伦演唱会的原因",
+        "onboard_time": 1696378469,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 266293,
+        "num": 266293,
+        "word": "杨紫时装周G社怼脸生图",
+        "onboard_time": 1696375884,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 266007,
+        "num": 266007,
+        "word": "什么叫人人人山人人人海",
+        "onboard_time": 1696374682,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254041,
+        "num": 254041,
+        "word": "泰国一商场发生枪击案已致3人死亡",
+        "onboard_time": 1696341338,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233700,
+        "num": 233700,
+        "word": "全红婵7个10分惊呆日本解说",
+        "onboard_time": 1696376424,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227227,
+        "num": 227227,
+        "word": "旅游时发朋友圈会带定位吗",
+        "onboard_time": 1696377026,
+        "rank": 25,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 225241,
+        "num": 225241,
+        "word": "中韩女星miumiu看秀造型",
+        "onboard_time": 1696345179,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204694,
+        "num": 204694,
+        "word": "美众议院议长麦卡锡被罢免",
+        "onboard_time": 1696375523,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 189752,
+        "num": 189752,
+        "word": "湖南岳阳一婚车发生车祸",
+        "onboard_time": 1696344160,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180705,
+        "num": 180705,
+        "word": "于文文 再见前任画一个句号",
+        "onboard_time": 1696381232,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292450,
+        "num": 180506,
+        "word": "杭州亚运会首发现兴奋剂阳性案例",
+        "onboard_time": 1696382794,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179621,
+        "num": 179621,
+        "word": "要写孙颖莎就不能只写孙颖莎",
+        "onboard_time": 1696382132,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177638,
+        "num": 177638,
+        "word": "迷笛",
+        "onboard_time": 1696374803,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171281,
+        "num": 171281,
+        "word": "JINI solo出道曲1分钟先公开",
+        "onboard_time": 1696382371,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171079,
+        "num": 171079,
+        "word": "Jennie米色马甲背心短裤造型",
+        "onboard_time": 1696381776,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 162236,
+        "num": 162236,
+        "word": "林允儿美拉德穿搭",
+        "onboard_time": 1696377268,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148327,
+        "num": 148327,
+        "word": "为什么韩国人独爱张家界",
+        "onboard_time": 1696360156,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 136203,
+        "num": 136203,
+        "word": "哪项球类运动球速最快",
+        "onboard_time": 1696381776,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133948,
+        "num": 133948,
+        "word": "王楚钦说自己世界第一下榜太快",
+        "onboard_time": 1696344877,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154316,
+        "num": 133739,
+        "word": "Jennie金智秀朴彩英G社生图",
+        "onboard_time": 1696336841,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 131925,
+        "num": 131925,
+        "word": "全红婵10101010101010截图打卡",
+        "onboard_time": 1696330774,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128269,
+        "num": 128269,
+        "word": "满江红",
+        "onboard_time": 1696343019,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126875,
+        "num": 126875,
+        "word": "赵今麦 MiuMiu",
+        "onboard_time": 1696336420,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125054,
+        "num": 125054,
+        "word": "王鹤润理解李莲花成为李莲花",
+        "onboard_time": 1696381592,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123894,
+        "num": 123894,
+        "word": "全红婵的采访一般只有三个字",
+        "onboard_time": 1696341760,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121560,
+        "num": 121560,
+        "word": "南初向林陆骁发小脾气",
+        "onboard_time": 1696382611,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121067,
+        "num": 121067,
+        "word": "迷笛发布音乐节乐迷财物被盗公告",
+        "onboard_time": 1696338642,
+        "rank": 46,
+        "category": "社会新闻,音乐"
+      },
+      {
+        "raw_hot": 111336,
+        "num": 111336,
+        "word": "日媒说的2000万中国游客在哪",
+        "onboard_time": 1696332817,
+        "rank": 47,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 106232,
+        "num": 106232,
+        "word": "曾黎的照片被贴在巴黎街头",
+        "onboard_time": 1696335997,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103375,
+        "num": 105084,
+        "word": "地下四合院你们见过吗",
+        "onboard_time": 1696377390,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#厚植爱国情争做奋斗者#"
+    }
+  }
+}
