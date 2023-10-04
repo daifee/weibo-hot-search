@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696446859607,
+  "endTime": 1696448048101,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5291,6 +5291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 318240,
+      "num": 91449,
+      "word": "女子通过WiFi名称跨60公里寻回手机",
+      "onboard_time": 1696444037,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318208,
       "num": 318208,
       "word": "张婧仪脏脏包",
@@ -5561,14 +5569,6 @@
       "onboard_time": 1696208370,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 300758,
-      "num": 91449,
-      "word": "女子通过WiFi名称跨60公里寻回手机",
-      "onboard_time": 1696444037,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 300249,
@@ -11571,7 +11571,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 22024,
+      "raw_hot": 23578,
       "num": 28282,
       "word": "于和伟 能看到就不错了还要啥自行车",
       "onboard_time": 1696446555,
