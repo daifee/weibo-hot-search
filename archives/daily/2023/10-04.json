@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696396584613,
+  "endTime": 1696397633019,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -147,6 +147,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 907988,
+      "num": 907988,
+      "word": "长月烬明",
+      "onboard_time": 1696394377,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 858914,
       "num": 858914,
       "word": "五台县7人窒息死亡初判系一氧化碳中毒",
@@ -185,14 +193,6 @@
       "onboard_time": 1696350390,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 804047,
-      "num": 804047,
-      "word": "长月烬明",
-      "onboard_time": 1696394377,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 758178,
@@ -273,6 +273,14 @@
       "onboard_time": 1696384835,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 623765,
+      "num": 441041,
+      "word": "许家印",
+      "onboard_time": 1696395397,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 611178,
@@ -417,14 +425,6 @@
       "onboard_time": 1696335997,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 441041,
-      "num": 441041,
-      "word": "许家印",
-      "onboard_time": 1696395397,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 434053,
@@ -579,6 +579,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 341424,
+      "num": 341424,
+      "word": "成毅新剧是女婿见家长模板",
+      "onboard_time": 1696396177,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341400,
       "num": 338000,
       "word": "男友家情况特殊女子0彩礼出嫁",
@@ -619,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 319470,
+      "num": 319470,
+      "word": "mhy.LGD",
+      "onboard_time": 1696396357,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 317146,
       "num": 317146,
       "word": "全红婵的采访一般只有三个字",
@@ -633,6 +649,14 @@
       "onboard_time": 1696389398,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302577,
+      "num": 302577,
+      "word": "夫妻离婚争人工受精孩子男方非生父",
+      "onboard_time": 1696397193,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301992,
@@ -819,14 +843,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 231033,
-      "num": 231033,
-      "word": "mhy.LGD",
-      "onboard_time": 1696396357,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 228671,
       "num": 228671,
       "word": "羽毛球男双",
@@ -883,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217786,
+      "num": 217786,
+      "word": "无语菩萨 本来国庆上班就烦",
+      "onboard_time": 1696396714,
+      "rank": 32,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 216064,
       "num": 216064,
       "word": "原来双肩包这么能装",
       "onboard_time": 1696344277,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211133,
+      "num": 211133,
+      "word": "太湖湾音乐节",
+      "onboard_time": 1696396898,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 210435,
@@ -937,6 +969,14 @@
       "onboard_time": 1696346260,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 201259,
+      "num": 201259,
+      "word": "杨紫支持中国棒球",
+      "onboard_time": 1696397015,
+      "rank": 35,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 199825,
@@ -1017,14 +1057,6 @@
       "onboard_time": 1696390660,
       "rank": 41,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 183928,
-      "num": 183928,
-      "word": "成毅新剧是女婿见家长模板",
-      "onboard_time": 1696396177,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 182492,
@@ -1249,6 +1281,14 @@
       "onboard_time": 1696381776,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129454,
+      "num": 129454,
+      "word": "陈鑫海少年书生白衣杀",
+      "onboard_time": 1696397615,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129156,

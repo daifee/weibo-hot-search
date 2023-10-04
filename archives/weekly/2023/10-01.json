@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696396584613,
+  "endTime": 1696397633019,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1323,6 +1323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 907988,
+      "num": 907988,
+      "word": "长月烬明",
+      "onboard_time": 1696394377,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 906215,
       "num": 906215,
       "word": "莲花楼",
@@ -1577,14 +1585,6 @@
       "onboard_time": 1696341760,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 804047,
-      "num": 804047,
-      "word": "长月烬明",
-      "onboard_time": 1696394377,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 804001,
@@ -4147,6 +4147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 341424,
+      "num": 341424,
+      "word": "成毅新剧是女婿见家长模板",
+      "onboard_time": 1696396177,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341400,
       "num": 338000,
       "word": "男友家情况特殊女子0彩礼出嫁",
@@ -4427,6 +4435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319470,
+      "num": 319470,
+      "word": "mhy.LGD",
+      "onboard_time": 1696396357,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 319278,
       "num": 319278,
       "word": "陈凯歌透露朱一龙是志愿军2最主要人物",
@@ -4625,6 +4641,14 @@
       "onboard_time": 1696250677,
       "rank": 34,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 302577,
+      "num": 302577,
+      "word": "夫妻离婚争人工受精孩子男方非生父",
+      "onboard_time": 1696397193,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302537,
@@ -6051,14 +6075,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 231033,
-      "num": 231033,
-      "word": "mhy.LGD",
-      "onboard_time": 1696396357,
-      "rank": 30,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 230902,
       "num": 201661,
       "word": "橡皮筋突然成了主人的项链",
@@ -6425,6 +6441,14 @@
       "onboard_time": 1696295792,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217786,
+      "num": 217786,
+      "word": "无语菩萨 本来国庆上班就烦",
+      "onboard_time": 1696396714,
+      "rank": 32,
+      "category": "旅游"
     },
     {
       "raw_hot": 216486,
@@ -6865,6 +6889,14 @@
       "onboard_time": 1696130972,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201259,
+      "num": 201259,
+      "word": "杨紫支持中国棒球",
+      "onboard_time": 1696397015,
+      "rank": 35,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 201138,
@@ -7441,14 +7473,6 @@
       "onboard_time": 1696135233,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 183928,
-      "num": 183928,
-      "word": "成毅新剧是女婿见家长模板",
-      "onboard_time": 1696396177,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 183924,
@@ -8905,6 +8929,14 @@
       "onboard_time": 1696217372,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129454,
+      "num": 129454,
+      "word": "陈鑫海少年书生白衣杀",
+      "onboard_time": 1696397615,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129364,
