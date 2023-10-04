@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696426472935,
+  "endTime": 1696429016635,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -65,6 +65,22 @@
       "onboard_time": 1696258901,
       "rank": 0,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 6580937,
+      "num": 6580937,
+      "word": "中国男篮vs菲律宾男篮",
+      "onboard_time": 1696420055,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6398188,
+      "num": 6398188,
+      "word": "中国男篮不敌菲律宾男篮",
+      "onboard_time": 1696427803,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 6008481,
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 1809955,
-      "num": 628273,
+      "num": 977887,
       "word": "Jennie王一博看秀待遇",
       "onboard_time": 1696419274,
       "rank": 10,
@@ -521,6 +537,14 @@
       "onboard_time": 1696128510,
       "rank": 0,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 1743760,
+      "num": 1743760,
+      "word": "中国男篮",
+      "onboard_time": 1696424018,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 1725121,
@@ -617,6 +641,14 @@
       "onboard_time": 1696376846,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1620351,
+      "num": 1620351,
+      "word": "王楚钦已经痛失本名",
+      "onboard_time": 1696426117,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 1618307,
@@ -801,6 +833,14 @@
       "onboard_time": 1696168005,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1445502,
+      "num": 1445502,
+      "word": "韩国的歧视真的绝了",
+      "onboard_time": 1696425996,
+      "rank": 6,
+      "category": "其它"
     },
     {
       "raw_hot": 1438522,
@@ -1115,6 +1155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1120251,
+      "num": 1120251,
+      "word": "男篮一分之差输了",
+      "onboard_time": 1696428766,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1117568,
       "num": 1117568,
       "word": "金晨最不想承认自己会跳舞的一次",
@@ -1304,6 +1352,14 @@
       "word": "樊振东王楚钦单打决赛放简单爱",
       "onboard_time": 1696248276,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 999336,
+      "num": 999336,
+      "word": "姚明",
+      "onboard_time": 1696428464,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1939,6 +1995,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 759445,
+      "num": 759445,
+      "word": "花花眼神逐渐从震惊转变为崇拜",
+      "onboard_time": 1696425098,
+      "rank": 22,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 758178,
       "num": 758178,
       "word": "被婆婆拒绝的喜糖盒",
@@ -2028,7 +2092,7 @@
     },
     {
       "raw_hot": 727635,
-      "num": 727635,
+      "num": 841683,
       "word": "跳水运动员为什么每次跳完都冲澡",
       "onboard_time": 1696415073,
       "rank": 31,
@@ -2259,14 +2323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 681422,
-      "num": 681422,
-      "word": "花花眼神逐渐从震惊转变为崇拜",
-      "onboard_time": 1696425098,
-      "rank": 22,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 676661,
       "num": 568675,
       "word": "章昊直播 间歇性活跃常态性漏电",
@@ -2297,14 +2353,6 @@
       "onboard_time": 1696149571,
       "rank": 25,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 670766,
-      "num": 670766,
-      "word": "韩国的歧视真的绝了",
-      "onboard_time": 1696425996,
-      "rank": 6,
-      "category": "其它"
     },
     {
       "raw_hot": 666589,
@@ -2348,7 +2396,7 @@
     },
     {
       "raw_hot": 659724,
-      "num": 659724,
+      "num": 909708,
       "word": "中国跳水队十全十美收官",
       "onboard_time": 1696424619,
       "rank": 9,
@@ -2867,6 +2915,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 553068,
+      "num": 553068,
+      "word": "胡明轩好帅",
+      "onboard_time": 1696424317,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 552581,
       "num": 404336,
       "word": "许玮甯外网生图",
@@ -2955,20 +3011,20 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 541000,
+      "num": 541000,
+      "word": "杭州托尼无人敢承认是自己做的",
+      "onboard_time": 1696425698,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 540558,
       "num": 540558,
       "word": "金晨白敬亭2分钟眼神戏",
       "onboard_time": 1696213172,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 539940,
-      "num": 239743,
-      "word": "王楚钦已经痛失本名",
-      "onboard_time": 1696426117,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 539078,
@@ -3251,6 +3307,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 493648,
+      "num": 493648,
+      "word": "当年明月作者的顶级觉悟",
+      "onboard_time": 1696426237,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 490347,
       "num": 490347,
       "word": "石宇奇",
@@ -3331,14 +3395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 479107,
-      "num": 246691,
-      "word": "杭州托尼无人敢承认是自己做的",
-      "onboard_time": 1696425698,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 478777,
       "num": 511286,
       "word": "乒乓球比赛现场喔声一片",
@@ -3377,6 +3433,14 @@
       "onboard_time": 1696141894,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476815,
+      "num": 476815,
+      "word": "我真受不了这暧昧氛围了",
+      "onboard_time": 1696427199,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 474551,
@@ -3507,6 +3571,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 463005,
+      "num": 964238,
+      "word": "花儿与少年极光直播",
+      "onboard_time": 1696427257,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 462211,
       "num": 462211,
       "word": "海珠广场",
@@ -3537,14 +3609,6 @@
       "onboard_time": 1696391434,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 459710,
-      "num": 459710,
-      "word": "中国男篮vs菲律宾男篮",
-      "onboard_time": 1696420055,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 454742,
@@ -3891,14 +3955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 412158,
-      "num": 412158,
-      "word": "胡明轩好帅",
-      "onboard_time": 1696424317,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 409665,
       "num": 370204,
       "word": "鞠婧祎紫葡萄少女",
@@ -3912,6 +3968,14 @@
       "word": "高菡解说",
       "onboard_time": 1696252972,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 408664,
+      "num": 408664,
+      "word": "中国香港0比4日本",
+      "onboard_time": 1696427078,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -4153,14 +4217,6 @@
       "onboard_time": 1696238852,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384522,
-      "num": 239087,
-      "word": "当年明月作者的顶级觉悟",
-      "onboard_time": 1696426237,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 384268,
@@ -5080,14 +5136,6 @@
       "word": "马龙回应为i做e",
       "onboard_time": 1696389398,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 315413,
-      "num": 315413,
-      "word": "中国男篮",
-      "onboard_time": 1696424018,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -6395,6 +6443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251439,
+      "num": 251439,
+      "word": "打工人为什么很难抗拒盖浇饭",
+      "onboard_time": 1696425698,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 250621,
       "num": 250621,
       "word": "S型身材的于适",
@@ -6545,6 +6601,14 @@
       "onboard_time": 1696040554,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244019,
+      "num": 244019,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1696427923,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 243962,
@@ -6857,14 +6921,6 @@
       "onboard_time": 1696237112,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 230692,
-      "num": 230692,
-      "word": "打工人为什么很难抗拒盖浇饭",
-      "onboard_time": 1696425698,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 229264,
@@ -7195,6 +7251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219558,
+      "num": 219558,
+      "word": "唐嫣念无双蓝衣飘雪路透",
+      "onboard_time": 1696427320,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 219350,
       "num": 219350,
       "word": "宋佳全度妍巴黎秀场热聊",
@@ -7305,6 +7369,14 @@
       "onboard_time": 1696293508,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214342,
+      "num": 214342,
+      "word": "收到巴黎奥运会志愿者的offer",
+      "onboard_time": 1696427138,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 214323,
@@ -7571,6 +7643,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206084,
+      "num": 206084,
+      "word": "张婧仪双羊角辫",
+      "onboard_time": 1696428882,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206038,
       "num": 180705,
       "word": "于文文 再见前任画一个句号",
@@ -7640,6 +7720,14 @@
       "word": "孙颖莎冠军",
       "onboard_time": 1696257159,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 204375,
+      "num": 204375,
+      "word": "中国男篮无缘亚运决赛",
+      "onboard_time": 1696428526,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -10603,6 +10691,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 85586,
+      "num": 575557,
+      "word": "奖牌迟到但努力从不缺席",
+      "onboard_time": 1696428167,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85363,
       "num": 85363,
       "word": "白敬亭说和沈腾聊天比试戏还紧张",
@@ -10729,6 +10825,14 @@
       "onboard_time": 1696356202,
       "rank": 29,
       "category": "自然"
+    },
+    {
+      "raw_hot": 71384,
+      "num": 3661224,
+      "word": "这次科考为何选择卓奥友峰",
+      "onboard_time": 1696425158,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 70466,
@@ -10971,14 +11075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 32908,
-      "num": 1171565,
-      "word": "这次科考为何选择卓奥友峰",
-      "onboard_time": 1696425158,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32173,
       "num": 32173,
       "word": "2023国庆档新片总票房破15亿",
@@ -11033,6 +11129,14 @@
       "onboard_time": 1696122030,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27978,
+      "num": 797927,
+      "word": "王春雨下个赛场见",
+      "onboard_time": 1696428043,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 27287,
