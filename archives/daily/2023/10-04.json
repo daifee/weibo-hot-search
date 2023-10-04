@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696415742392,
+  "endTime": 1696418090372,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -19,8 +19,8 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 2598373,
-      "num": 2598373,
+      "raw_hot": 2872538,
+      "num": 2872538,
       "word": "本月你的工资或将多两笔钱",
       "onboard_time": 1696406734,
       "rank": 20,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1609058,
-      "num": 641364,
+      "num": 1140674,
       "word": "泰国总理致电中国大使道歉",
       "onboard_time": 1696411894,
       "rank": 18,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1498189,
+      "num": 1498189,
+      "word": "研究生三年最好的安排",
+      "onboard_time": 1696412978,
+      "rank": 5,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1420780,
       "num": 1420780,
       "word": "我P都不敢P成这样",
@@ -121,14 +129,6 @@
       "onboard_time": 1696385135,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1367959,
-      "num": 1367959,
-      "word": "研究生三年最好的安排",
-      "onboard_time": 1696412978,
-      "rank": 5,
-      "category": "教育"
     },
     {
       "raw_hot": 1348251,
@@ -275,6 +275,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 826960,
+      "num": 826960,
+      "word": "莲花楼 断笛",
+      "onboard_time": 1696414534,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 820938,
       "num": 820938,
       "word": "小伙称因长期抠鼻子感染丹毒",
@@ -336,6 +344,14 @@
       "word": "日本女足全队向水庆霞鞠躬",
       "onboard_time": 1696346858,
       "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 690667,
+      "num": 554020,
+      "word": "跳水运动员为什么每次跳完都冲澡",
+      "onboard_time": 1696415073,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -459,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 552413,
+      "num": 552413,
+      "word": "中国女排vs韩国女排",
+      "onboard_time": 1696417713,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 548267,
       "num": 548267,
       "word": "吴昕巴黎的三套露肩装",
@@ -483,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531322,
+      "num": 531322,
+      "word": "糖水店老板儿子自己喝的珍珠奶茶",
+      "onboard_time": 1696414534,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 523088,
       "num": 523088,
       "word": "为什么韩国人独爱张家界",
@@ -497,14 +529,6 @@
       "onboard_time": 1696385916,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 514657,
-      "num": 514657,
-      "word": "莲花楼 断笛",
-      "onboard_time": 1696414534,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 512062,
@@ -547,12 +571,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 472951,
+      "num": 472951,
+      "word": "戴资颖爆冷出局",
+      "onboard_time": 1696416574,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 471740,
       "num": 471740,
       "word": "我恋5最窒息男嘉宾恋爱了",
       "onboard_time": 1696389576,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 467186,
+      "num": 371238,
+      "word": "尹子维和徐冬冬是饭搭子",
+      "onboard_time": 1696413395,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 463909,
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 415288,
-      "num": 1122146,
+      "num": 1141375,
       "word": "特警碰掉游客小吃后重新买了一份",
       "onboard_time": 1696401215,
       "rank": 41,
@@ -681,6 +721,14 @@
       "onboard_time": 1696336841,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 409665,
+      "num": 370204,
+      "word": "鞠婧祎紫葡萄少女",
+      "onboard_time": 1696415199,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 406057,
@@ -723,20 +771,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 391222,
-      "num": 216071,
-      "word": "糖水店老板儿子自己喝的珍珠奶茶",
-      "onboard_time": 1696414534,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 390856,
       "num": 390856,
       "word": "苹果将修复iPhone15Pro过热问题",
       "onboard_time": 1696387178,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 390250,
+      "num": 479063,
+      "word": "陈艺文女子3米板夺金",
+      "onboard_time": 1696415434,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 383239,
@@ -875,6 +923,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 326033,
+      "num": 197755,
+      "word": "陈若琳首谈执教全红婵",
+      "onboard_time": 1696415854,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325318,
       "num": 325318,
       "word": "国庆节的旅游城市都得下沉2cm",
@@ -913,14 +969,6 @@
       "onboard_time": 1696396357,
       "rank": 30,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 319157,
-      "num": 319157,
-      "word": "尹子维和徐冬冬是饭搭子",
-      "onboard_time": 1696413395,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 318671,
@@ -1003,6 +1051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 292826,
+      "num": 292826,
+      "word": "中国香港vs日本",
+      "onboard_time": 1696416096,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292296,
       "num": 292296,
       "word": "陈雨菲逆转进8强",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1696397736,
       "rank": 14,
       "category": "幽默,体育"
+    },
+    {
+      "raw_hot": 289396,
+      "num": 289396,
+      "word": "内娱能扛剧的演员",
+      "onboard_time": 1696417474,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 289276,
@@ -1057,14 +1121,6 @@
       "onboard_time": 1696405717,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 282778,
-      "num": 215324,
-      "word": "跳水运动员为什么每次跳完都冲澡",
-      "onboard_time": 1696415073,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 281845,
@@ -1131,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267381,
+      "num": 197646,
+      "word": "泰国枪击案死伤中国游客系免签入境",
+      "onboard_time": 1696417591,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256282,
       "num": 256282,
       "word": "女生crush上一秒深情下一秒翻脸",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1696409557,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 252690,
-      "num": 252690,
-      "word": "陈艺文女子3米板夺金",
-      "onboard_time": 1696415434,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 250621,
@@ -1252,7 +1308,7 @@
     },
     {
       "raw_hot": 234777,
-      "num": 1135340,
+      "num": 1147497,
       "word": "小熊猫都学会体操吊环了",
       "onboard_time": 1696412014,
       "rank": 47,
@@ -1281,14 +1337,6 @@
       "onboard_time": 1696393775,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 227045,
-      "num": 222916,
-      "word": "鞠婧祎紫葡萄少女",
-      "onboard_time": 1696415199,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 226215,
@@ -1707,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174593,
+      "num": 174593,
+      "word": "给小狗拍照不要打开自动消除痘痘模式",
+      "onboard_time": 1696417293,
+      "rank": 35,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 173436,
       "num": 162175,
       "word": "杨紫塞纳河畔红玫瑰",
@@ -1753,6 +1809,14 @@
       "onboard_time": 1696341701,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164174,
+      "num": 164174,
+      "word": "周冬雨马思纯一起回国",
+      "onboard_time": 1696417956,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 163244,
@@ -1825,6 +1889,14 @@
       "onboard_time": 1696413395,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151799,
+      "num": 151799,
+      "word": "杨幂安利宜宾非遗燃面",
+      "onboard_time": 1696417956,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 151021,
@@ -1945,6 +2017,14 @@
       "onboard_time": 1696409793,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138522,
+      "num": 138522,
+      "word": "龚俊铁塔走秀集训俩小时",
+      "onboard_time": 1696416756,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 137274,
