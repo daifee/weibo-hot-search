@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696386281053,
+  "endTime": 1696386931957,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -8,6 +8,14 @@
       "word": "湖南婚车事故致6死",
       "onboard_time": 1696377869,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2434794,
+      "num": 2434794,
+      "word": "山西发生意外窒息事件7人遇难",
+      "onboard_time": 1696385557,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -33,14 +41,6 @@
       "onboard_time": 1696330294,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1179538,
-      "num": 1179538,
-      "word": "山西发生意外窒息事件7人遇难",
-      "onboard_time": 1696385557,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1133620,
@@ -147,8 +147,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 653357,
+      "num": 653357,
+      "word": "陈若琳全红婵",
+      "onboard_time": 1696385373,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 633848,
-      "num": 454242,
+      "num": 462214,
       "word": "杨紫美拉德大衣",
       "onboard_time": 1696384835,
       "rank": 10,
@@ -171,6 +179,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 595426,
+      "num": 276786,
+      "word": "硕士孕妇为孩子去香港读大专",
+      "onboard_time": 1696385135,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 574400,
       "num": 574400,
       "word": "上学时不合群的红利被我吃到了",
@@ -185,14 +201,6 @@
       "onboard_time": 1696374803,
       "rank": 4,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 554883,
-      "num": 225372,
-      "word": "硕士孕妇为孩子去香港读大专",
-      "onboard_time": 1696385135,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 534211,
@@ -267,14 +275,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 405597,
-      "num": 405597,
-      "word": "陈若琳全红婵",
-      "onboard_time": 1696385373,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 398139,
       "num": 217658,
       "word": "王一博G社生图",
@@ -307,20 +307,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369326,
+      "num": 369326,
+      "word": "大宋提刑官时影角色适配度",
+      "onboard_time": 1696381354,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 362763,
       "num": 362763,
       "word": "日媒说的2000万中国游客在哪",
       "onboard_time": 1696332817,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 353220,
-      "num": 353220,
-      "word": "大宋提刑官时影角色适配度",
-      "onboard_time": 1696381354,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 350707,
@@ -336,6 +336,14 @@
       "word": "男友家情况特殊女子0彩礼出嫁",
       "onboard_time": 1696374080,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 326733,
+      "num": 371995,
+      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+      "onboard_time": 1696385916,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -371,6 +379,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 296280,
+      "num": 286126,
+      "word": "残障女性被挂网上征婚彩礼标价18万",
+      "onboard_time": 1696385316,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 289276,
       "num": 289276,
       "word": "黄景瑜王子奇没去周杰伦演唱会的原因",
@@ -379,12 +395,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 286126,
-      "num": 286126,
-      "word": "残障女性被挂网上征婚彩礼标价18万",
-      "onboard_time": 1696385316,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 287864,
+      "num": 287864,
+      "word": "周杰伦的歌为什么没有年代感",
+      "onboard_time": 1696384296,
+      "rank": 26,
+      "category": "音乐"
     },
     {
       "raw_hot": 280581,
@@ -403,6 +419,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276835,
+      "num": 276835,
+      "word": "孔雪儿新中式造型",
+      "onboard_time": 1696386395,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 276674,
+      "num": 276674,
+      "word": "MiuMiu的中韩美女同框",
+      "onboard_time": 1696386337,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 273509,
       "num": 273509,
       "word": "田柾国将11月3日发行solo专辑",
@@ -411,12 +443,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 268884,
-      "num": 268884,
-      "word": "周杰伦的歌为什么没有年代感",
-      "onboard_time": 1696384296,
-      "rank": 26,
-      "category": "音乐"
+      "raw_hot": 270957,
+      "num": 270957,
+      "word": "意外窒息",
+      "onboard_time": 1696386515,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256064,
@@ -433,14 +465,6 @@
       "onboard_time": 1696337979,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 246706,
-      "num": 225278,
-      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
-      "onboard_time": 1696385916,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 244390,
@@ -492,7 +516,7 @@
     },
     {
       "raw_hot": 225623,
-      "num": 225623,
+      "num": 370648,
       "word": "中国队混合35公里竞走冠军",
       "onboard_time": 1696385135,
       "rank": 29,
@@ -539,6 +563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209321,
+      "num": 209321,
+      "word": "把3天假期余额速充到四川",
+      "onboard_time": 1696385674,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206038,
       "num": 180705,
       "word": "于文文 再见前任画一个句号",
@@ -561,14 +593,6 @@
       "onboard_time": 1696346260,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 199034,
-      "num": 199034,
-      "word": "把3天假期余额速充到四川",
-      "onboard_time": 1696385674,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 194471,
@@ -803,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128110,
+      "num": 128110,
+      "word": "黄子诚骂对方脸上了",
+      "onboard_time": 1696386817,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127374,
       "num": 127374,
       "word": "王鹤润理解李莲花成为李莲花",
@@ -1011,8 +1043,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11205,
-      "num": 1147469,
+      "raw_hot": 11601,
+      "num": 1150517,
       "word": "潮涌杭州看亚运",
       "onboard_time": 1696252062,
       "rank": 2,

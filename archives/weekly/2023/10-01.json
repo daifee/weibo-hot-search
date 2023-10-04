@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696386281053,
+  "endTime": 1696386931957,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -241,6 +241,14 @@
       "onboard_time": 1696083343,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2434794,
+      "num": 2434794,
+      "word": "山西发生意外窒息事件7人遇难",
+      "onboard_time": 1696385557,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2389731,
@@ -928,14 +936,6 @@
       "word": "诺贝尔奖",
       "onboard_time": 1696240474,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1179538,
-      "num": 1179538,
-      "word": "山西发生意外窒息事件7人遇难",
-      "onboard_time": 1696385557,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2043,6 +2043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 653357,
+      "num": 653357,
+      "word": "陈若琳全红婵",
+      "onboard_time": 1696385373,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 651781,
       "num": 651781,
       "word": "不要给吴艳妮太大的压力",
@@ -2092,7 +2100,7 @@
     },
     {
       "raw_hot": 633848,
-      "num": 454242,
+      "num": 462214,
       "word": "杨紫美拉德大衣",
       "onboard_time": 1696384835,
       "rank": 10,
@@ -2257,6 +2265,14 @@
       "onboard_time": 1696174179,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595426,
+      "num": 276786,
+      "word": "硕士孕妇为孩子去香港读大专",
+      "onboard_time": 1696385135,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594791,
@@ -2457,14 +2473,6 @@
       "onboard_time": 1696332817,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 554883,
-      "num": 225372,
-      "word": "硕士孕妇为孩子去香港读大专",
-      "onboard_time": 1696385135,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 552581,
@@ -3291,14 +3299,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 405597,
-      "num": 405597,
-      "word": "陈若琳全红婵",
-      "onboard_time": 1696385373,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 405423,
       "num": 351678,
       "word": "张子枫香奈儿品牌形象大使",
@@ -3571,6 +3571,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 369326,
+      "num": 369326,
+      "word": "大宋提刑官时影角色适配度",
+      "onboard_time": 1696381354,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 368551,
       "num": 267377,
       "word": "新娘回应出嫁途经父母坟前含泪跪拜",
@@ -3769,14 +3777,6 @@
       "onboard_time": 1696159836,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 353220,
-      "num": 353220,
-      "word": "大宋提刑官时影角色适配度",
-      "onboard_time": 1696381354,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 352991,
@@ -4089,6 +4089,14 @@
       "onboard_time": 1696334979,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 326733,
+      "num": 371995,
+      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+      "onboard_time": 1696385916,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325748,
@@ -4467,6 +4475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296280,
+      "num": 286126,
+      "word": "残障女性被挂网上征婚彩礼标价18万",
+      "onboard_time": 1696385316,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 296084,
       "num": 296084,
       "word": "黄子弘凡音乐节",
@@ -4611,6 +4627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287864,
+      "num": 287864,
+      "word": "周杰伦的歌为什么没有年代感",
+      "onboard_time": 1696384296,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287647,
       "num": 287647,
       "word": "柯南新系列白马探将登场",
@@ -4640,14 +4664,6 @@
       "word": "你多久更换一次床上用品",
       "onboard_time": 1696125512,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 286126,
-      "num": 286126,
-      "word": "残障女性被挂网上征婚彩礼标价18万",
-      "onboard_time": 1696385316,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -4811,6 +4827,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 276835,
+      "num": 276835,
+      "word": "孔雪儿新中式造型",
+      "onboard_time": 1696386395,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 276674,
+      "num": 276674,
+      "word": "MiuMiu的中韩美女同框",
+      "onboard_time": 1696386337,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276220,
       "num": 276220,
       "word": "杨紫抵达巴黎",
@@ -4963,6 +4995,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 270957,
+      "num": 270957,
+      "word": "意外窒息",
+      "onboard_time": 1696386515,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 270836,
       "num": 270836,
       "word": "大熊猫吃重庆火锅游客也想炫两口",
@@ -4993,14 +5033,6 @@
       "onboard_time": 1696332336,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268884,
-      "num": 268884,
-      "word": "周杰伦的歌为什么没有年代感",
-      "onboard_time": 1696384296,
-      "rank": 26,
-      "category": "音乐"
     },
     {
       "raw_hot": 268341,
@@ -5393,14 +5425,6 @@
       "onboard_time": 1696343860,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 246706,
-      "num": 225278,
-      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
-      "onboard_time": 1696385916,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 246575,
@@ -5884,7 +5908,7 @@
     },
     {
       "raw_hot": 225623,
-      "num": 225623,
+      "num": 370648,
       "word": "中国队混合35公里竞走冠军",
       "onboard_time": 1696385135,
       "rank": 29,
@@ -6267,6 +6291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209321,
+      "num": 209321,
+      "word": "把3天假期余额速充到四川",
+      "onboard_time": 1696385674,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209112,
       "num": 209112,
       "word": "iPhone15Pro系列缩短发货时间",
@@ -6585,14 +6617,6 @@
       "onboard_time": 1696313614,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199034,
-      "num": 199034,
-      "word": "把3天假期余额速充到四川",
-      "onboard_time": 1696385674,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198826,
@@ -8489,6 +8513,14 @@
       "onboard_time": 1696210589,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 128110,
+      "num": 128110,
+      "word": "黄子诚骂对方脸上了",
+      "onboard_time": 1696386817,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 128078,
