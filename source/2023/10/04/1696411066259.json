@@ -1,0 +1,410 @@
+{
+  "runTime": 1696411066259,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2219644,
+        "num": 2219644,
+        "word": "微信过期文件打开的最简单方法",
+        "onboard_time": 1696399474,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1229364,
+        "num": 1229364,
+        "word": "陈芋汐说没有全红婵她的水平不会提高",
+        "onboard_time": 1696407875,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72317,
+        "num": 973064,
+        "word": "中国57项世界遗产名单",
+        "onboard_time": 1696409793,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 856136,
+        "num": 856136,
+        "word": "黄晓明因为被嘲笑英文去演了英语老师",
+        "onboard_time": 1696402593,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 839977,
+        "num": 839977,
+        "word": "DIOR 迪丽热巴",
+        "onboard_time": 1696389697,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 733494,
+        "num": 733494,
+        "word": "泰警方对枪击案嫌犯提出5项初步指控",
+        "onboard_time": 1696407575,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528011,
+        "num": 528011,
+        "word": "吸引全红婵只需要一个乌龟玩偶",
+        "onboard_time": 1696404098,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 441709,
+        "num": 441709,
+        "word": "新湃传媒 陈情令",
+        "onboard_time": 1696398935,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440828,
+        "num": 440828,
+        "word": "假期到底哪个城市空了",
+        "onboard_time": 1696409854,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 389764,
+        "num": 389764,
+        "word": "张杰回应谢震业",
+        "onboard_time": 1696404935,
+        "rank": 9,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 1346113,
+        "num": 385987,
+        "word": "湖南婚车事故记录仪显示婚车突然变道",
+        "onboard_time": 1696400254,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339772,
+        "num": 339772,
+        "word": "直播间卖一个亿能赚多少钱",
+        "onboard_time": 1696389455,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 320688,
+        "num": 320688,
+        "word": "石凯音乐节",
+        "onboard_time": 1696405955,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257051,
+        "num": 312514,
+        "word": "五台县7人窒息死亡初判系一氧化碳中毒",
+        "onboard_time": 1696394798,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147694,
+        "num": 311787,
+        "word": "男女生爬山被上了一课",
+        "onboard_time": 1696403557,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311374,
+        "num": 311374,
+        "word": "林一深夜发长文",
+        "onboard_time": 1696392456,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304916,
+        "num": 304916,
+        "word": "特警碰掉游客小吃后重新买了一份",
+        "onboard_time": 1696401215,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304679,
+        "num": 304679,
+        "word": "全红婵回应跳出7个10分",
+        "onboard_time": 1696406913,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286299,
+        "num": 286299,
+        "word": "newjeans英雄联盟主题曲GODSMV",
+        "onboard_time": 1696404575,
+        "rank": 18,
+        "category": "游戏,音乐"
+      },
+      {
+        "raw_hot": 283560,
+        "num": 283560,
+        "word": "泰国枪击案",
+        "onboard_time": 1696405717,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822949,
+        "num": 282120,
+        "word": "本月你的工资或将多两笔钱",
+        "onboard_time": 1696406734,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482825,
+        "num": 280625,
+        "word": "建议洗澡不要超过20分钟",
+        "onboard_time": 1696405355,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 321548,
+        "num": 279819,
+        "word": "卢昱晓公路文女主",
+        "onboard_time": 1696409615,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272525,
+        "num": 272525,
+        "word": "于和伟 坎肩吊带背心这么不好分吗",
+        "onboard_time": 1696407276,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244792,
+        "num": 244792,
+        "word": "中国队递补东京奥运接力铜牌",
+        "onboard_time": 1696410453,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232746,
+        "num": 232746,
+        "word": "吃了一把怀孕的阳光玫瑰",
+        "onboard_time": 1696384713,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228526,
+        "num": 228526,
+        "word": "劝君少骂秦始皇",
+        "onboard_time": 1696402356,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222477,
+        "num": 222477,
+        "word": "陈若琳全红婵强将手下无弱兵",
+        "onboard_time": 1696405474,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213774,
+        "num": 213774,
+        "word": "魏如萱好可爱",
+        "onboard_time": 1696410095,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212526,
+        "num": 212526,
+        "word": "泰国枪击案嫌疑人曾扬言直播行凶",
+        "onboard_time": 1696408893,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350488,
+        "num": 212258,
+        "word": "中国台北队员终于等到自己人加油了",
+        "onboard_time": 1696409255,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280807,
+        "num": 212212,
+        "word": "全红婵采访躲陈芋汐身后的原因",
+        "onboard_time": 1696409194,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 893028,
+        "num": 211825,
+        "word": "湖南婚车",
+        "onboard_time": 1696404935,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211320,
+        "num": 211320,
+        "word": "男子在纽约街头因多看几眼被当街捅死",
+        "onboard_time": 1696409557,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207124,
+        "num": 207124,
+        "word": "质疑吴昕理解吴昕超越吴昕",
+        "onboard_time": 1696410215,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197598,
+        "num": 197598,
+        "word": "陈雨菲逆转进8强",
+        "onboard_time": 1696410875,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184586,
+        "num": 184586,
+        "word": "西安游客已实现逛吃分离",
+        "onboard_time": 1696405474,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 183383,
+        "num": 183383,
+        "word": "王一博想去巴黎铁塔和卢浮宫",
+        "onboard_time": 1696403674,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180091,
+        "num": 180091,
+        "word": "于和伟私底下穿吊带",
+        "onboard_time": 1696393416,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177044,
+        "num": 177044,
+        "word": "虎杖悠仁上场",
+        "onboard_time": 1696401815,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 175956,
+        "num": 175956,
+        "word": "长月烬明",
+        "onboard_time": 1696394377,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165632,
+        "num": 165632,
+        "word": "夫妻离婚争人工受精孩子男方非生父",
+        "onboard_time": 1696397193,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151021,
+        "num": 151021,
+        "word": "张艺兴DNA音乐联盟",
+        "onboard_time": 1696409376,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 137542,
+        "num": 137542,
+        "word": "周扬青不惯着影响自己心情的人",
+        "onboard_time": 1696400674,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137212,
+        "num": 137212,
+        "word": "杨紫塞纳河畔红玫瑰",
+        "onboard_time": 1696407035,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136937,
+        "num": 136937,
+        "word": "张凌赫抹血唇",
+        "onboard_time": 1696410333,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130579,
+        "num": 130579,
+        "word": "迪丽热巴有效看秀",
+        "onboard_time": 1696402175,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 127458,
+        "num": 127458,
+        "word": "魏哲鸣和他的哥哥们",
+        "onboard_time": 1696409615,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126519,
+        "num": 126519,
+        "word": "泰女枪案现场帮遇难中国游客小孩找妈妈",
+        "onboard_time": 1696402114,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125455,
+        "num": 125455,
+        "word": "中方回应欧盟对我电动汽车反补贴调查",
+        "onboard_time": 1696408295,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#厚植爱国情争做奋斗者#"
+    }
+  }
+}

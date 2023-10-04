@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696408545053,
+  "endTime": 1696411066259,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -105,6 +105,14 @@
       "onboard_time": 1696385135,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1229364,
+      "num": 1229364,
+      "word": "陈芋汐说没有全红婵她的水平不会提高",
+      "onboard_time": 1696407875,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1173316,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 791164,
-      "num": 444120,
+      "num": 733494,
       "word": "泰警方对枪击案嫌犯提出5项初步指控",
       "onboard_time": 1696407575,
       "rank": 37,
@@ -555,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 440828,
+      "num": 440828,
+      "word": "假期到底哪个城市空了",
+      "onboard_time": 1696409854,
+      "rank": 8,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 434053,
       "num": 434053,
       "word": "全红婵跳水看呆了外国网友",
@@ -731,6 +747,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 350488,
+      "num": 212258,
+      "word": "中国台北队员终于等到自己人加油了",
+      "onboard_time": 1696409255,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350050,
       "num": 302561,
       "word": "西安游客已实现逛吃分离",
@@ -779,14 +803,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 336459,
-      "num": 336459,
-      "word": "陈芋汐说没有全红婵她的水平不会提高",
-      "onboard_time": 1696407875,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 335334,
       "num": 335334,
       "word": "杨紫Valentino羽毛连衣裙漫画照",
@@ -817,6 +833,14 @@
       "onboard_time": 1696402175,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 321548,
+      "num": 279819,
+      "word": "卢昱晓公路文女主",
+      "onboard_time": 1696409615,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 319470,
@@ -931,11 +955,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283560,
+      "num": 283560,
+      "word": "泰国枪击案",
+      "onboard_time": 1696405717,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 281845,
       "num": 281845,
       "word": "樊振东调侃自己好大一只",
       "onboard_time": 1696392334,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280807,
+      "num": 212212,
+      "word": "全红婵采访躲陈芋汐身后的原因",
+      "onboard_time": 1696409194,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -977,6 +1017,14 @@
       "onboard_time": 1696383992,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 272525,
+      "num": 272525,
+      "word": "于和伟 坎肩吊带背心这么不好分吗",
+      "onboard_time": 1696407276,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 256282,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1696394501,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244792,
+      "num": 244792,
+      "word": "中国队递补东京奥运接力铜牌",
+      "onboard_time": 1696410453,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 244390,
@@ -1171,6 +1227,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213774,
+      "num": 213774,
+      "word": "魏如萱好可爱",
+      "onboard_time": 1696410095,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212526,
+      "num": 212526,
+      "word": "泰国枪击案嫌疑人曾扬言直播行凶",
+      "onboard_time": 1696408893,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211320,
+      "num": 211320,
+      "word": "男子在纽约街头因多看几眼被当街捅死",
+      "onboard_time": 1696409557,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211133,
       "num": 211133,
       "word": "太湖湾音乐节",
@@ -1203,20 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208300,
-      "num": 208300,
-      "word": "泰国枪击案",
-      "onboard_time": 1696405717,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207605,
-      "num": 207605,
-      "word": "于和伟 坎肩吊带背心这么不好分吗",
-      "onboard_time": 1696407276,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 207124,
+      "num": 207124,
+      "word": "质疑吴昕理解吴昕超越吴昕",
+      "onboard_time": 1696410215,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 206038,
@@ -1297,6 +1369,14 @@
       "onboard_time": 1696392700,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197598,
+      "num": 197598,
+      "word": "陈雨菲逆转进8强",
+      "onboard_time": 1696410875,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 197160,
@@ -1587,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151021,
+      "num": 151021,
+      "word": "张艺兴DNA音乐联盟",
+      "onboard_time": 1696409376,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 150603,
       "num": 150603,
       "word": "魏大勋亚运赛事播报",
@@ -1699,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136937,
+      "num": 136937,
+      "word": "张凌赫抹血唇",
+      "onboard_time": 1696410333,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136203,
       "num": 136203,
       "word": "哪项球类运动球速最快",
@@ -1737,6 +1833,14 @@
       "onboard_time": 1696386817,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127458,
+      "num": 127458,
+      "word": "魏哲鸣和他的哥哥们",
+      "onboard_time": 1696409615,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 127374,
@@ -1857,6 +1961,14 @@
       "onboard_time": 1696356202,
       "rank": 29,
       "category": "自然"
+    },
+    {
+      "raw_hot": 72317,
+      "num": 973064,
+      "word": "中国57项世界遗产名单",
+      "onboard_time": 1696409793,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 68563,
