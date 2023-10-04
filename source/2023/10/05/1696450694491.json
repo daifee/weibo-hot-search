@@ -1,0 +1,410 @@
+{
+  "runTime": 1696450694491,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 192982,
+        "num": 192982,
+        "word": "女子通过WiFi名称跨60公里寻回手机",
+        "onboard_time": 1696444037,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186090,
+        "num": 186090,
+        "word": "躺在床上看手机时打开闪光灯",
+        "onboard_time": 1696435416,
+        "rank": 1,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 8095,
+        "num": 178831,
+        "word": "杭州亚运会上的数字智能亮点",
+        "onboard_time": 1696424977,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177373,
+        "num": 177373,
+        "word": "赵继伟道歉",
+        "onboard_time": 1696433557,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113008,
+        "num": 113008,
+        "word": "本月你的工资或将多两笔钱",
+        "onboard_time": 1696406734,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83328,
+        "num": 83328,
+        "word": "卫明一家人的报应终于来了",
+        "onboard_time": 1696435474,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81541,
+        "num": 81541,
+        "word": "南阳警方称目前还未抓到嫌疑人",
+        "onboard_time": 1696422636,
+        "rank": 6,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 77934,
+        "num": 77934,
+        "word": "王楚钦已经痛失本名",
+        "onboard_time": 1696426117,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64394,
+        "num": 64394,
+        "word": "韩国的歧视真的绝了",
+        "onboard_time": 1696425996,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 61187,
+        "num": 61187,
+        "word": "姚明为缺席发布会道歉",
+        "onboard_time": 1696434994,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185198,
+        "num": 58752,
+        "word": "马诺",
+        "onboard_time": 1696437032,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 65466,
+        "num": 58089,
+        "word": "Jennie王一博看秀待遇",
+        "onboard_time": 1696419274,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 54338,
+        "num": 54338,
+        "word": "刘玉栋说不会再有男篮做旗手",
+        "onboard_time": 1696434633,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22876,
+        "num": 52137,
+        "word": "苏炳添和奥运奖牌同框",
+        "onboard_time": 1696429960,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16347,
+        "num": 51798,
+        "word": "中国男子4x100接力首枚奥运奖牌",
+        "onboard_time": 1696430078,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51715,
+        "num": 51715,
+        "word": "杭州托尼无人敢承认是自己做的",
+        "onboard_time": 1696425698,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42599,
+        "num": 42599,
+        "word": "南阳迷笛音乐节物品失窃引地域攻击",
+        "onboard_time": 1696433437,
+        "rank": 16,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 41622,
+        "num": 41622,
+        "word": "全红婵最大的对手就是记者",
+        "onboard_time": 1696430976,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40850,
+        "num": 40850,
+        "word": "花花眼神逐渐从震惊转变为崇拜",
+        "onboard_time": 1696425098,
+        "rank": 18,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 36535,
+        "num": 36535,
+        "word": "当年明月作者的顶级觉悟",
+        "onboard_time": 1696426237,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42917,
+        "num": 35887,
+        "word": "姚明傻眼了",
+        "onboard_time": 1696432177,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35107,
+        "num": 35107,
+        "word": "谢娜放假胖了两圈",
+        "onboard_time": 1696436374,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34276,
+        "num": 34276,
+        "word": "莲花楼后劲真大",
+        "onboard_time": 1696420115,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33101,
+        "num": 33101,
+        "word": "李健吉他solo",
+        "onboard_time": 1696435173,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 32412,
+        "num": 32412,
+        "word": "中国男篮vs菲律宾男篮",
+        "onboard_time": 1696420055,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29928,
+        "num": 29928,
+        "word": "我真受不了这暧昧氛围了",
+        "onboard_time": 1696427199,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29774,
+        "num": 29774,
+        "word": "相柳 九头真身暴力美学",
+        "onboard_time": 1696423357,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29695,
+        "num": 29695,
+        "word": "时代峰峻美容院比郭敬明减肥营还吓人",
+        "onboard_time": 1696421976,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28310,
+        "num": 28310,
+        "word": "中国男篮不敌菲律宾男篮",
+        "onboard_time": 1696427803,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27338,
+        "num": 27338,
+        "word": "男篮发布会",
+        "onboard_time": 1696431996,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27227,
+        "num": 27227,
+        "word": "南阳回应已掌握部分窃贼资料",
+        "onboard_time": 1696432537,
+        "rank": 30,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 27082,
+        "num": 27082,
+        "word": "徐静雨 乔尔杰维奇应该下课",
+        "onboard_time": 1696434757,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25463,
+        "num": 25463,
+        "word": "泰国总理致电中国大使道歉",
+        "onboard_time": 1696411894,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 23731,
+        "num": 23731,
+        "word": "赵继伟两罚不中",
+        "onboard_time": 1696430795,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20698,
+        "num": 23294,
+        "word": "花儿与少年极光直播",
+        "onboard_time": 1696427257,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23122,
+        "num": 23122,
+        "word": "田柾国直播",
+        "onboard_time": 1696433375,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21996,
+        "num": 21996,
+        "word": "柯佳嬿 内向不必勉强自己外向",
+        "onboard_time": 1696433975,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21726,
+        "num": 21726,
+        "word": "于和伟 能看到就不错了还要啥自行车",
+        "onboard_time": 1696446555,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21491,
+        "num": 21491,
+        "word": "中国男篮无缘亚运决赛",
+        "onboard_time": 1696428526,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21333,
+        "num": 21333,
+        "word": "中国男篮",
+        "onboard_time": 1696424018,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21091,
+        "num": 21091,
+        "word": "成毅张予曦贴胸口",
+        "onboard_time": 1696435954,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20532,
+        "num": 20532,
+        "word": "姚明",
+        "onboard_time": 1696428464,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20367,
+        "num": 20367,
+        "word": "黄晓明抱不完根本抱不完",
+        "onboard_time": 1696420115,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19509,
+        "num": 19509,
+        "word": "章子怡片中哭到嘴唇颤抖",
+        "onboard_time": 1696423357,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17551,
+        "num": 19506,
+        "word": "郑秀晶黑色亮片吊带裙",
+        "onboard_time": 1696436253,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17533,
+        "num": 19502,
+        "word": "迟到11年的金银铜包揽",
+        "onboard_time": 1696432177,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16699,
+        "num": 19494,
+        "word": "欧冠联赛",
+        "onboard_time": 1696449855,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16581,
+        "num": 19491,
+        "word": "张镇麟投篮选择",
+        "onboard_time": 1696429064,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13759,
+        "num": 19484,
+        "word": "吴青峰伤风现场版",
+        "onboard_time": 1696434994,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13539,
+        "num": 19478,
+        "word": "男篮一分之差输了",
+        "onboard_time": 1696428766,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点杭州亚运会高燃时刻#"
+    }
+  }
+}
