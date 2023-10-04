@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696383249555,
+  "endTime": 1696386281053,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 2157027,
-      "num": 917552,
+      "num": 1138495,
       "word": "向佐直播抱女儿违规了",
       "onboard_time": 1696379009,
       "rank": 4,
       "category": "艺人"
     },
     {
-      "raw_hot": 1449811,
-      "num": 1449811,
+      "raw_hot": 1628127,
+      "num": 1628127,
       "word": "瑞幸和茅台看了都沉默",
       "onboard_time": 1696376846,
       "rank": 0,
@@ -35,12 +35,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1179538,
+      "num": 1179538,
+      "word": "山西发生意外窒息事件7人遇难",
+      "onboard_time": 1696385557,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1133620,
       "num": 242153,
       "word": "湖南岳阳一婚车发生车祸",
       "onboard_time": 1696344160,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1126780,
+      "num": 1126780,
+      "word": "钢铁侠和黑寡妇在2023年10月牺牲",
+      "onboard_time": 1696380152,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1097808,
@@ -67,12 +83,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 899225,
-      "num": 899225,
-      "word": "钢铁侠和黑寡妇在2023年10月牺牲",
-      "onboard_time": 1696380152,
-      "rank": 5,
-      "category": "电影"
+      "raw_hot": 969433,
+      "num": 293110,
+      "word": "吃了一把怀孕的阳光玫瑰",
+      "onboard_time": 1696384713,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 843791,
@@ -88,6 +104,22 @@
       "word": "小伙称因长期抠鼻子感染丹毒",
       "onboard_time": 1696350390,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 738202,
+      "num": 738202,
+      "word": "外国人吐槽美国面对华为芯片像疯了一样",
+      "onboard_time": 1696383934,
+      "rank": 6,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 733496,
+      "num": 733496,
+      "word": "中国游客亲历泰国枪击事件",
+      "onboard_time": 1696381053,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -115,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 659616,
-      "num": 659616,
-      "word": "中国游客亲历泰国枪击事件",
-      "onboard_time": 1696381053,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 633848,
+      "num": 454242,
+      "word": "杨紫美拉德大衣",
+      "onboard_time": 1696384835,
+      "rank": 10,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 611178,
@@ -155,6 +187,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 554883,
+      "num": 225372,
+      "word": "硕士孕妇为孩子去香港读大专",
+      "onboard_time": 1696385135,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 534211,
       "num": 534211,
       "word": "金马最佳男主角提名",
@@ -177,6 +217,14 @@
       "onboard_time": 1696344877,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 510080,
+      "num": 510080,
+      "word": "统计称泰国超过1030万名平民持有枪支",
+      "onboard_time": 1696383695,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 445105,
@@ -203,12 +251,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 417189,
+      "num": 290385,
+      "word": "杭州亚运会首发现兴奋剂阳性案例",
+      "onboard_time": 1696382794,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412944,
       "num": 217900,
       "word": "Jennie金智秀朴彩英G社生图",
       "onboard_time": 1696336841,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 405597,
+      "num": 405597,
+      "word": "陈若琳全红婵",
+      "onboard_time": 1696385373,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 398139,
@@ -251,6 +315,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 353220,
+      "num": 353220,
+      "word": "大宋提刑官时影角色适配度",
+      "onboard_time": 1696381354,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 350707,
       "num": 217349,
       "word": "许玮甯外网生图",
@@ -265,6 +337,14 @@
       "onboard_time": 1696374080,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 325318,
+      "num": 325318,
+      "word": "国庆节的旅游城市都得下沉2cm",
+      "onboard_time": 1696384475,
+      "rank": 16,
+      "category": "旅游"
     },
     {
       "raw_hot": 323659,
@@ -291,28 +371,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 297344,
-      "num": 297344,
-      "word": "大宋提刑官时影角色适配度",
-      "onboard_time": 1696381354,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 292450,
-      "num": 180506,
-      "word": "杭州亚运会首发现兴奋剂阳性案例",
-      "onboard_time": 1696382794,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289276,
       "num": 289276,
       "word": "黄景瑜王子奇没去周杰伦演唱会的原因",
       "onboard_time": 1696378469,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286126,
+      "num": 286126,
+      "word": "残障女性被挂网上征婚彩礼标价18万",
+      "onboard_time": 1696385316,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 280581,
@@ -331,6 +403,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 273509,
+      "num": 273509,
+      "word": "田柾国将11月3日发行solo专辑",
+      "onboard_time": 1696383992,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 268884,
+      "num": 268884,
+      "word": "周杰伦的歌为什么没有年代感",
+      "onboard_time": 1696384296,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 256064,
       "num": 396123,
       "word": "这是我见过排量最大的婚车",
@@ -347,6 +435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 246706,
+      "num": 225278,
+      "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+      "onboard_time": 1696385916,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 244390,
       "num": 244390,
       "word": "第一次见男女主恋爱互骗20多集的",
@@ -361,6 +457,14 @@
       "onboard_time": 1696337198,
       "rank": 9,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 240804,
+      "num": 240804,
+      "word": "泰国枪击",
+      "onboard_time": 1696384835,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240269,
@@ -387,11 +491,27 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 225623,
+      "num": 225623,
+      "word": "中国队混合35公里竞走冠军",
+      "onboard_time": 1696385135,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225622,
       "num": 395608,
       "word": "中日韩三国选手相互安慰离场",
       "onboard_time": 1696343199,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224579,
+      "num": 224579,
+      "word": "要写孙颖莎就不能只写孙颖莎",
+      "onboard_time": 1696382132,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -443,6 +563,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199034,
+      "num": 199034,
+      "word": "把3天假期余额速充到四川",
+      "onboard_time": 1696385674,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194471,
       "num": 194471,
       "word": "终于知道怎么选牛仔裤了",
@@ -465,6 +593,14 @@
       "onboard_time": 1696354342,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193229,
+      "num": 269735,
+      "word": "夫妻俩亚运会比着拿金牌",
+      "onboard_time": 1696384955,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 191562,
@@ -499,11 +635,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179621,
-      "num": 179621,
-      "word": "要写孙颖莎就不能只写孙颖莎",
-      "onboard_time": 1696382132,
-      "rank": 31,
+      "raw_hot": 182492,
+      "num": 182492,
+      "word": "全红婵梦想巴黎夺金",
+      "onboard_time": 1696383454,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -545,6 +681,14 @@
       "onboard_time": 1696341701,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163244,
+      "num": 163244,
+      "word": "哈利波特为什么是七部的原因",
+      "onboard_time": 1696384654,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 157485,
@@ -867,8 +1011,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 6978,
-      "num": 930804,
+      "raw_hot": 11205,
+      "num": 1147469,
       "word": "潮涌杭州看亚运",
       "onboard_time": 1696252062,
       "rank": 2,

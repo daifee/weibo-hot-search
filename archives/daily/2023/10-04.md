@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/04 00:22:49 ~ 2023/10/04 09:34:09
+本榜单时间：2023/10/04 00:22:49 ~ 2023/10/04 10:24:41
 </p>
 </blockquote>
 <p>
@@ -28,7 +28,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%91%9E%E5%B9%B8%E5%92%8C%E8%8C%85%E5%8F%B0%E7%9C%8B%E4%BA%86%E9%83%BD%E6%B2%89%E9%BB%98%23" target="weibo">
-瑞幸和茅台看了都沉默（热度：1449811）
+瑞幸和茅台看了都沉默（热度：1628127）
 </a>
 </li>
 
@@ -39,8 +39,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E8%A5%BF%E5%8F%91%E7%94%9F%E6%84%8F%E5%A4%96%E7%AA%92%E6%81%AF%E4%BA%8B%E4%BB%B67%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+山西发生意外窒息事件7人遇难（热度：1179538）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%B2%B3%E9%98%B3%E4%B8%80%E5%A9%9A%E8%BD%A6%E5%8F%91%E7%94%9F%E8%BD%A6%E7%A5%B8%23" target="weibo">
 湖南岳阳一婚车发生车祸（热度：1133620）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E4%BE%A0%E5%92%8C%E9%BB%91%E5%AF%A1%E5%A6%87%E5%9C%A82023%E5%B9%B410%E6%9C%88%E7%89%BA%E7%89%B2%23" target="weibo">
+钢铁侠和黑寡妇在2023年10月牺牲（热度：1126780）
 </a>
 </li>
 
@@ -63,8 +75,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E4%BE%A0%E5%92%8C%E9%BB%91%E5%AF%A1%E5%A6%87%E5%9C%A82023%E5%B9%B410%E6%9C%88%E7%89%BA%E7%89%B2%23" target="weibo">
-钢铁侠和黑寡妇在2023年10月牺牲（热度：899225）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E4%BA%86%E4%B8%80%E6%8A%8A%E6%80%80%E5%AD%95%E7%9A%84%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%23" target="weibo">
+吃了一把怀孕的阳光玫瑰（热度：969433）
 </a>
 </li>
 
@@ -77,6 +89,18 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23" target="weibo">
 小伙称因长期抠鼻子感染丹毒（热度：820938）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E4%BA%BA%E5%90%90%E6%A7%BD%E7%BE%8E%E5%9B%BD%E9%9D%A2%E5%AF%B9%E5%8D%8E%E4%B8%BA%E8%8A%AF%E7%89%87%E5%83%8F%E7%96%AF%E4%BA%86%E4%B8%80%E6%A0%B7%23" target="weibo">
+外国人吐槽美国面对华为芯片像疯了一样（热度：738202）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%B2%E5%8E%86%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
+中国游客亲历泰国枪击事件（热度：733496）
 </a>
 </li>
 
@@ -99,8 +123,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%BA%B2%E5%8E%86%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%23" target="weibo">
-中国游客亲历泰国枪击事件（热度：659616）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BE%8E%E6%8B%89%E5%BE%B7%E5%A4%A7%E8%A1%A3%23" target="weibo">
+杨紫美拉德大衣（热度：633848）
 </a>
 </li>
 
@@ -129,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A1%95%E5%A3%AB%E5%AD%95%E5%A6%87%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%8E%BB%E9%A6%99%E6%B8%AF%E8%AF%BB%E5%A4%A7%E4%B8%93%23" target="weibo">
+硕士孕妇为孩子去香港读大专（热度：554883）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A9%AC%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8D%23" target="weibo">
 金马最佳男主角提名（热度：534211）
 </a>
@@ -143,6 +173,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E8%87%AA%E5%B7%B1%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E4%B8%8B%E6%A6%9C%E5%A4%AA%E5%BF%AB%23" target="weibo">
 王楚钦说自己世界第一下榜太快（热度：512062）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E8%AE%A1%E7%A7%B0%E6%B3%B0%E5%9B%BD%E8%B6%85%E8%BF%871030%E4%B8%87%E5%90%8D%E5%B9%B3%E6%B0%91%E6%8C%81%E6%9C%89%E6%9E%AA%E6%94%AF%23" target="weibo">
+统计称泰国超过1030万名平民持有枪支（热度：510080）
 </a>
 </li>
 
@@ -165,8 +201,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A6%96%E5%8F%91%E7%8E%B0%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B%23" target="weibo">
+杭州亚运会首发现兴奋剂阳性案例（热度：417189）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E9%87%91%E6%99%BA%E7%A7%80%E6%9C%B4%E5%BD%A9%E8%8B%B1G%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
 Jennie金智秀朴彩英G社生图（热度：412944）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E5%85%A8%E7%BA%A2%E5%A9%B5%23" target="weibo">
+陈若琳全红婵（热度：405597）
 </a>
 </li>
 
@@ -201,6 +249,12 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%8B%E6%8F%90%E5%88%91%E5%AE%98%E6%97%B6%E5%BD%B1%E8%A7%92%E8%89%B2%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
+大宋提刑官时影角色适配度（热度：353220）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%A4%96%E7%BD%91%E7%94%9F%E5%9B%BE%23" target="weibo">
 许玮甯外网生图（热度：350707）
 </a>
@@ -209,6 +263,12 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%8F%8B%E5%AE%B6%E6%83%85%E5%86%B5%E7%89%B9%E6%AE%8A%E5%A5%B3%E5%AD%900%E5%BD%A9%E7%A4%BC%E5%87%BA%E5%AB%81%23" target="weibo">
 男友家情况特殊女子0彩礼出嫁（热度：341400）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%BA%86%E8%8A%82%E7%9A%84%E6%97%85%E6%B8%B8%E5%9F%8E%E5%B8%82%E9%83%BD%E5%BE%97%E4%B8%8B%E6%B2%892cm%23" target="weibo">
+国庆节的旅游城市都得下沉2cm（热度：325318）
 </a>
 </li>
 
@@ -231,20 +291,14 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AE%8B%E6%8F%90%E5%88%91%E5%AE%98%E6%97%B6%E5%BD%B1%E8%A7%92%E8%89%B2%E9%80%82%E9%85%8D%E5%BA%A6%23" target="weibo">
-大宋提刑官时影角色适配度（热度：297344）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%A6%96%E5%8F%91%E7%8E%B0%E5%85%B4%E5%A5%8B%E5%89%82%E9%98%B3%E6%80%A7%E6%A1%88%E4%BE%8B%23" target="weibo">
-杭州亚运会首发现兴奋剂阳性案例（热度：292450）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%8E%8B%E5%AD%90%E5%A5%87%E6%B2%A1%E5%8E%BB%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 黄景瑜王子奇没去周杰伦演唱会的原因（热度：289276）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AE%8B%E9%9A%9C%E5%A5%B3%E6%80%A7%E8%A2%AB%E6%8C%82%E7%BD%91%E4%B8%8A%E5%BE%81%E5%A9%9A%E5%BD%A9%E7%A4%BC%E6%A0%87%E4%BB%B718%E4%B8%87%23" target="weibo">
+残障女性被挂网上征婚彩礼标价18万（热度：286126）
 </a>
 </li>
 
@@ -261,6 +315,18 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9F%BE%E5%9B%BD%E5%B0%8611%E6%9C%883%E6%97%A5%E5%8F%91%E8%A1%8Csolo%E4%B8%93%E8%BE%91%23" target="weibo">
+田柾国将11月3日发行solo专辑（热度：273509）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9A%84%E6%AD%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E5%B9%B4%E4%BB%A3%E6%84%9F%23" target="weibo">
+周杰伦的歌为什么没有年代感（热度：268884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E6%88%91%E8%A7%81%E8%BF%87%E6%8E%92%E9%87%8F%E6%9C%80%E5%A4%A7%E7%9A%84%E5%A9%9A%E8%BD%A6%23" target="weibo">
 这是我见过排量最大的婚车（热度：256064）
 </a>
@@ -273,6 +339,12 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%236%E6%97%AC%E5%A4%AB%E5%A6%BB%E5%90%83%E5%86%B0%E7%AE%B1%E5%86%B7%E8%97%8F%E5%8D%8A%E5%B9%B4%E8%B1%86%E7%9A%AE%E8%BF%9BICU%23" target="weibo">
+6旬夫妻吃冰箱冷藏半年豆皮进ICU（热度：246706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E7%94%B7%E5%A5%B3%E4%B8%BB%E6%81%8B%E7%88%B1%E4%BA%92%E9%AA%9720%E5%A4%9A%E9%9B%86%E7%9A%84%23" target="weibo">
 第一次见男女主恋爱互骗20多集的（热度：244390）
 </a>
@@ -281,6 +353,12 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%88%E6%A4%8E%E4%B8%8D%E5%A5%BD%E5%BB%BA%E8%AE%AE%E5%88%AB%E7%9D%A1%E8%BD%AF%E6%9E%95%E5%A4%B4%23" target="weibo">
 颈椎不好建议别睡软枕头（热度：243533）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E6%9E%AA%E5%87%BB%23" target="weibo">
+泰国枪击（热度：240804）
 </a>
 </li>
 
@@ -303,8 +381,20 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%B7%B7%E5%90%8835%E5%85%AC%E9%87%8C%E7%AB%9E%E8%B5%B0%E5%86%A0%E5%86%9B%23" target="weibo">
+中国队混合35公里竞走冠军（热度：225623）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%97%A5%E9%9F%A9%E4%B8%89%E5%9B%BD%E9%80%89%E6%89%8B%E7%9B%B8%E4%BA%92%E5%AE%89%E6%85%B0%E7%A6%BB%E5%9C%BA%23" target="weibo">
 中日韩三国选手相互安慰离场（热度：225622）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%86%99%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%8F%AA%E5%86%99%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
+要写孙颖莎就不能只写孙颖莎（热度：224579）
 </a>
 </li>
 
@@ -345,6 +435,12 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A3%E5%A4%A9%E5%81%87%E6%9C%9F%E4%BD%99%E9%A2%9D%E9%80%9F%E5%85%85%E5%88%B0%E5%9B%9B%E5%B7%9D%23" target="weibo">
+把3天假期余额速充到四川（热度：199034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E9%80%89%E7%89%9B%E4%BB%94%E8%A3%A4%E4%BA%86%23" target="weibo">
 终于知道怎么选牛仔裤了（热度：194471）
 </a>
@@ -359,6 +455,12 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%BC%A0%E5%AD%90%E6%9E%AB%E5%90%8C%E6%A1%86%E7%9C%8B%E7%A7%80%23" target="weibo">
 王一博张子枫同框看秀（热度：193471）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E4%BF%A9%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%AF%94%E7%9D%80%E6%8B%BF%E9%87%91%E7%89%8C%23" target="weibo">
+夫妻俩亚运会比着拿金牌（热度：193229）
 </a>
 </li>
 
@@ -387,8 +489,8 @@ Jennie金智秀朴彩英G社生图（热度：412944）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%86%99%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%B1%E4%B8%8D%E8%83%BD%E5%8F%AA%E5%86%99%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
-要写孙颖莎就不能只写孙颖莎（热度：179621）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%A2%A6%E6%83%B3%E5%B7%B4%E9%BB%8E%E5%A4%BA%E9%87%91%23" target="weibo">
+全红婵梦想巴黎夺金（热度：182492）
 </a>
 </li>
 
@@ -419,6 +521,12 @@ Jennie米色马甲背心短裤造型（热度：171079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B33%E6%AF%944%E6%83%9C%E8%B4%A5%E6%97%A5%E6%9C%AC%23" target="weibo">
 中国女足3比4惜败日本（热度：166744）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%83%E9%83%A8%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
+哈利波特为什么是七部的原因（热度：163244）
 </a>
 </li>
 
@@ -664,7 +772,7 @@ Jennie米色马甲背心短裤造型（热度：171079）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%AE%E6%B6%8C%E6%9D%AD%E5%B7%9E%E7%9C%8B%E4%BA%9A%E8%BF%90%23" target="weibo">
-潮涌杭州看亚运（热度：6978）
+潮涌杭州看亚运（热度：11205）
 </a>
 </li>
 
