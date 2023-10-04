@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696407733781,
+  "endTime": 1696408545053,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173316,
+      "num": 887195,
+      "word": "湖南婚车",
+      "onboard_time": 1696404935,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1133620,
       "num": 242153,
       "word": "湖南岳阳一婚车发生车祸",
@@ -121,14 +129,6 @@
       "onboard_time": 1696380152,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1108146,
-      "num": 887195,
-      "word": "湖南婚车",
-      "onboard_time": 1696404935,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1097808,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 864154,
+      "num": 310751,
+      "word": "本月你的工资或将多两笔钱",
+      "onboard_time": 1696406734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 858914,
       "num": 858914,
       "word": "五台县7人窒息死亡初判系一氧化碳中毒",
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791164,
+      "num": 444120,
+      "word": "泰警方对枪击案嫌犯提出5项初步指控",
+      "onboard_time": 1696407575,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 758178,
       "num": 758178,
       "word": "被婆婆拒绝的喜糖盒",
@@ -265,14 +281,6 @@
       "onboard_time": 1696383934,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 737037,
-      "num": 304333,
-      "word": "本月你的工资或将多两笔钱",
-      "onboard_time": 1696406734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 733496,
@@ -324,7 +332,7 @@
     },
     {
       "raw_hot": 651971,
-      "num": 303333,
+      "num": 309691,
       "word": "建议洗澡不要超过20分钟",
       "onboard_time": 1696405355,
       "rank": 21,
@@ -771,6 +779,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 336459,
+      "num": 336459,
+      "word": "陈芋汐说没有全红婵她的水平不会提高",
+      "onboard_time": 1696407875,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335334,
       "num": 335334,
       "word": "杨紫Valentino羽毛连衣裙漫画照",
@@ -811,6 +827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 318671,
+      "num": 318671,
+      "word": "全红婵回应跳出7个10分",
+      "onboard_time": 1696406913,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318670,
       "num": 318670,
       "word": "王昶 对不起我的搭档和教练",
@@ -833,6 +857,14 @@
       "onboard_time": 1696389398,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307901,
+      "num": 307901,
+      "word": "newjeans英雄联盟主题曲GODSMV",
+      "onboard_time": 1696404575,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 301992,
@@ -864,14 +896,6 @@
       "word": "地狱有什么不好",
       "onboard_time": 1696392700,
       "rank": 28,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 291382,
-      "num": 291382,
-      "word": "newjeans英雄联盟主题曲GODSMV",
-      "onboard_time": 1696404575,
-      "rank": 46,
       "category": "游戏"
     },
     {
@@ -1001,14 +1025,6 @@
       "onboard_time": 1696394501,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 245855,
-      "num": 245855,
-      "word": "全红婵回应跳出7个10分",
-      "onboard_time": 1696406913,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 244390,
@@ -1195,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207605,
+      "num": 207605,
+      "word": "于和伟 坎肩吊带背心这么不好分吗",
+      "onboard_time": 1696407276,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206038,
       "num": 180705,
       "word": "于文文 再见前任画一个句号",
@@ -1273,14 +1297,6 @@
       "onboard_time": 1696392700,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 197723,
-      "num": 197723,
-      "word": "于和伟 坎肩吊带背心这么不好分吗",
-      "onboard_time": 1696407276,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 197160,
@@ -1451,20 +1467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 174895,
-      "num": 174895,
-      "word": "泰警方对枪击案嫌犯提出5项初步指控",
-      "onboard_time": 1696407575,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174601,
       "num": 1184826,
       "word": "杭州亚运会中国队含金量拉满",
       "onboard_time": 1696389217,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173436,
+      "num": 162175,
+      "word": "杨紫塞纳河畔红玫瑰",
+      "onboard_time": 1696407035,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 171281,
@@ -1521,14 +1537,6 @@
       "onboard_time": 1696406555,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162175,
-      "num": 162175,
-      "word": "杨紫塞纳河畔红玫瑰",
-      "onboard_time": 1696407035,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 157485,
@@ -1697,6 +1705,14 @@
       "onboard_time": 1696381776,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130970,
+      "num": 130970,
+      "word": "中方回应欧盟对我电动汽车反补贴调查",
+      "onboard_time": 1696408295,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 129454,
@@ -1931,20 +1947,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25612,
+      "num": 1044598,
+      "word": "在五常感受农业农村现代化事业阔步前行",
+      "onboard_time": 1696388856,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25191,
       "num": 25191,
       "word": "黄晓明谈AI换脸代言",
       "onboard_time": 1696364774,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 24866,
-      "num": 1044598,
-      "word": "在五常感受农业农村现代化事业阔步前行",
-      "onboard_time": 1696388856,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11601,

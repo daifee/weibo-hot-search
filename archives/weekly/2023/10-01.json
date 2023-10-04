@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696407733781,
+  "endTime": 1696408545053,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1003,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1173316,
+      "num": 887195,
+      "word": "湖南婚车",
+      "onboard_time": 1696404935,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1167199,
       "num": 902518,
       "word": "王一博G社生图",
@@ -1041,14 +1049,6 @@
       "onboard_time": 1696295251,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1108146,
-      "num": 887195,
-      "word": "湖南婚车",
-      "onboard_time": 1696404935,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1106680,
@@ -1467,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 864154,
+      "num": 310751,
+      "word": "本月你的工资或将多两笔钱",
+      "onboard_time": 1696406734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 863453,
       "num": 863453,
       "word": "雷佳音竟然比孙艺洲小一岁",
@@ -1731,6 +1739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 791164,
+      "num": 444120,
+      "word": "泰警方对枪击案嫌犯提出5项初步指控",
+      "onboard_time": 1696407575,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 789463,
       "num": 789463,
       "word": "Jennie巴黎时装周",
@@ -1849,14 +1865,6 @@
       "onboard_time": 1696383934,
       "rank": 6,
       "category": "数码"
-    },
-    {
-      "raw_hot": 737037,
-      "num": 304333,
-      "word": "本月你的工资或将多两笔钱",
-      "onboard_time": 1696406734,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 736119,
@@ -2212,7 +2220,7 @@
     },
     {
       "raw_hot": 651971,
-      "num": 303333,
+      "num": 309691,
       "word": "建议洗澡不要超过20分钟",
       "onboard_time": 1696405355,
       "rank": 21,
@@ -4403,6 +4411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336459,
+      "num": 336459,
+      "word": "陈芋汐说没有全红婵她的水平不会提高",
+      "onboard_time": 1696407875,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336062,
       "num": 336062,
       "word": "杨幂从巴黎出发回国",
@@ -4635,6 +4651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 318671,
+      "num": 318671,
+      "word": "全红婵回应跳出7个10分",
+      "onboard_time": 1696406913,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 318670,
       "num": 318670,
       "word": "王昶 对不起我的搭档和教练",
@@ -4761,6 +4785,14 @@
       "onboard_time": 1696133670,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 307901,
+      "num": 307901,
+      "word": "newjeans英雄联盟主题曲GODSMV",
+      "onboard_time": 1696404575,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 306330,
@@ -5041,14 +5073,6 @@
       "onboard_time": 1696217673,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 291382,
-      "num": 291382,
-      "word": "newjeans英雄联盟主题曲GODSMV",
-      "onboard_time": 1696404575,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 291079,
@@ -5961,14 +5985,6 @@
       "onboard_time": 1696223314,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245855,
-      "num": 245855,
-      "word": "全红婵回应跳出7个10分",
-      "onboard_time": 1696406913,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 245249,
@@ -6931,6 +6947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207605,
+      "num": 207605,
+      "word": "于和伟 坎肩吊带背心这么不好分吗",
+      "onboard_time": 1696407276,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 207413,
       "num": 207413,
       "word": "国乒运动员赛场上能有多帅",
@@ -7297,14 +7321,6 @@
       "onboard_time": 1696130493,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197723,
-      "num": 197723,
-      "word": "于和伟 坎肩吊带背心这么不好分吗",
-      "onboard_time": 1696407276,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 197621,
@@ -8155,14 +8171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 174895,
-      "num": 174895,
-      "word": "泰警方对枪击案嫌犯提出5项初步指控",
-      "onboard_time": 1696407575,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174695,
       "num": 174695,
       "word": "女子爬千年古道和同伴背下3000斤垃圾",
@@ -8209,6 +8217,14 @@
       "onboard_time": 1696146094,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173436,
+      "num": 162175,
+      "word": "杨紫塞纳河畔红玫瑰",
+      "onboard_time": 1696407035,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 173038,
@@ -8497,14 +8513,6 @@
       "onboard_time": 1696294593,
       "rank": 37,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 162175,
-      "num": 162175,
-      "word": "杨紫塞纳河畔红玫瑰",
-      "onboard_time": 1696407035,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 162146,
@@ -9313,6 +9321,14 @@
       "onboard_time": 1696298913,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130970,
+      "num": 130970,
+      "word": "中方回应欧盟对我电动汽车反补贴调查",
+      "onboard_time": 1696408295,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 130884,
@@ -10251,6 +10267,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 25612,
+      "num": 1044598,
+      "word": "在五常感受农业农村现代化事业阔步前行",
+      "onboard_time": 1696388856,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25191,
       "num": 25191,
       "word": "黄晓明谈AI换脸代言",
@@ -10264,14 +10288,6 @@
       "word": "一张长图带你上天入海看中国奇迹",
       "onboard_time": 1696302692,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24866,
-      "num": 1044598,
-      "word": "在五常感受农业农村现代化事业阔步前行",
-      "onboard_time": 1696388856,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
