@@ -1,0 +1,410 @@
+{
+  "runTime": 1696396584613,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1472037,
+        "num": 1472037,
+        "word": "DIOR 迪丽热巴",
+        "onboard_time": 1696389697,
+        "rank": 0,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1376679,
+        "num": 1376679,
+        "word": "烤橘子 慢性咽炎",
+        "onboard_time": 1696387899,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144052,
+        "num": 1184826,
+        "word": "杭州亚运会中国队含金量拉满",
+        "onboard_time": 1696389217,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1052615,
+        "num": 1052615,
+        "word": "于和伟私底下穿吊带",
+        "onboard_time": 1696393416,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 858914,
+        "num": 858914,
+        "word": "五台县7人窒息死亡初判系一氧化碳中毒",
+        "onboard_time": 1696394798,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 812392,
+        "num": 812392,
+        "word": "直播间卖一个亿能赚多少钱",
+        "onboard_time": 1696389455,
+        "rank": 5,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 804047,
+        "num": 804047,
+        "word": "长月烬明",
+        "onboard_time": 1696394377,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 752478,
+        "num": 752478,
+        "word": "被婆婆拒绝的喜糖盒",
+        "onboard_time": 1696391498,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 642409,
+        "num": 642409,
+        "word": "Jennie将发新歌",
+        "onboard_time": 1696394196,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 489920,
+        "num": 636843,
+        "word": "山西发生意外窒息事件7人遇难",
+        "onboard_time": 1696385557,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1541898,
+        "num": 636771,
+        "word": "林一深夜发长文",
+        "onboard_time": 1696392456,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 829693,
+        "num": 636698,
+        "word": "硕士孕妇为孩子去香港读大专",
+        "onboard_time": 1696385135,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 636606,
+        "num": 636606,
+        "word": "韩警方判定华莎无嫌疑",
+        "onboard_time": 1696394739,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426960,
+        "num": 609602,
+        "word": "全红婵把小乌龟背包送给陈若琳",
+        "onboard_time": 1696390717,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221101,
+        "num": 604819,
+        "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+        "onboard_time": 1696385916,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603911,
+        "num": 603911,
+        "word": "魏无羡乙女",
+        "onboard_time": 1696391316,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 579198,
+        "num": 579198,
+        "word": "周冬雨凭燃冬提名亚太电影大奖",
+        "onboard_time": 1696390115,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 548267,
+        "num": 548267,
+        "word": "吴昕巴黎的三套露肩装",
+        "onboard_time": 1696393416,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 541611,
+        "num": 541611,
+        "word": "英雄联盟S13主题曲MV",
+        "onboard_time": 1696395877,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 511891,
+        "num": 511891,
+        "word": "语擦",
+        "onboard_time": 1696390903,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 491345,
+        "num": 491345,
+        "word": "吃了一把怀孕的阳光玫瑰",
+        "onboard_time": 1696384713,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 488130,
+        "num": 488130,
+        "word": "咒术回战",
+        "onboard_time": 1696394259,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 441041,
+        "num": 441041,
+        "word": "许家印",
+        "onboard_time": 1696395397,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413573,
+        "num": 413573,
+        "word": "曾舜晞工作室偷偷发了深V照",
+        "onboard_time": 1696393899,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325567,
+        "num": 325567,
+        "word": "钢铁侠和黑寡妇在2023年10月牺牲",
+        "onboard_time": 1696380152,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309320,
+        "num": 309320,
+        "word": "瑞幸和茅台看了都沉默",
+        "onboard_time": 1696376846,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 273581,
+        "num": 273581,
+        "word": "樊振东调侃自己好大一只",
+        "onboard_time": 1696392334,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253732,
+        "num": 253732,
+        "word": "家务优等生",
+        "onboard_time": 1696395157,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250621,
+        "num": 250621,
+        "word": "S型身材的于适",
+        "onboard_time": 1696394501,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235733,
+        "num": 235733,
+        "word": "陈若琳全红婵",
+        "onboard_time": 1696385373,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231033,
+        "num": 231033,
+        "word": "mhy.LGD",
+        "onboard_time": 1696396357,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 228518,
+        "num": 228518,
+        "word": "我恋5最窒息男嘉宾恋爱了",
+        "onboard_time": 1696389576,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208286,
+        "num": 208286,
+        "word": "杨紫Valentino羽毛连衣裙漫画照",
+        "onboard_time": 1696393416,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 205281,
+        "num": 205281,
+        "word": "上学时不合群的红利被我吃到了",
+        "onboard_time": 1696376546,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203546,
+        "num": 203546,
+        "word": "杭州亚运会首发现兴奋剂阳性案例",
+        "onboard_time": 1696382794,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194356,
+        "num": 194356,
+        "word": "地狱有什么不好",
+        "onboard_time": 1696392700,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192373,
+        "num": 192373,
+        "word": "张老板再接杀了么订单",
+        "onboard_time": 1696389517,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199209,
+        "num": 192129,
+        "word": "杨紫清唱私奔",
+        "onboard_time": 1696390835,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184657,
+        "num": 184657,
+        "word": "梁王",
+        "onboard_time": 1696392997,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183928,
+        "num": 183928,
+        "word": "成毅新剧是女婿见家长模板",
+        "onboard_time": 1696396177,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177484,
+        "num": 177484,
+        "word": "残障女性被挂网上征婚彩礼标价18万",
+        "onboard_time": 1696385316,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175205,
+        "num": 175205,
+        "word": "张凌赫边上班边当造型师",
+        "onboard_time": 1696394977,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170458,
+        "num": 170458,
+        "word": "山西窒息致7死事故系家庭作坊中毒",
+        "onboard_time": 1696391434,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166959,
+        "num": 166959,
+        "word": "外国人吐槽美国面对华为芯片像疯了一样",
+        "onboard_time": 1696383934,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 157404,
+        "num": 157404,
+        "word": "蜜雪冰城在2003年是家常菜馆",
+        "onboard_time": 1696389455,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154929,
+        "num": 154929,
+        "word": "手指脱皮会影响指纹比对吗",
+        "onboard_time": 1696392700,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154003,
+        "num": 154003,
+        "word": "你知道有钱人怎么住院的吗",
+        "onboard_time": 1696391256,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149728,
+        "num": 149728,
+        "word": "迷笛",
+        "onboard_time": 1696374803,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137645,
+        "num": 137645,
+        "word": "弟弟结婚董宇辉回家帮忙成碍眼包",
+        "onboard_time": 1696375523,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132023,
+        "num": 132023,
+        "word": "孔雪儿新中式造型",
+        "onboard_time": 1696386395,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#厚植爱国情争做奋斗者#"
+    }
+  }
+}

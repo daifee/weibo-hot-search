@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696394041695,
+  "endTime": 1696396584613,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -59,6 +59,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1541898,
+      "num": 636771,
+      "word": "林一深夜发长文",
+      "onboard_time": 1696392456,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1420780,
       "num": 1420780,
       "word": "我P都不敢P成这样",
@@ -68,19 +76,11 @@
     },
     {
       "raw_hot": 1401452,
-      "num": 634555,
+      "num": 636698,
       "word": "硕士孕妇为孩子去香港读大专",
       "onboard_time": 1696385135,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1214999,
-      "num": 617693,
-      "word": "林一深夜发长文",
-      "onboard_time": 1696392456,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 1133620,
@@ -107,6 +107,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1052615,
+      "num": 1052615,
+      "word": "于和伟私底下穿吊带",
+      "onboard_time": 1696393416,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1047159,
       "num": 236968,
       "word": "爱马仕总监晒和Angelababy合照",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 969433,
-      "num": 368482,
+      "num": 491345,
       "word": "吃了一把怀孕的阳光玫瑰",
       "onboard_time": 1696384713,
       "rank": 20,
@@ -137,6 +145,14 @@
       "onboard_time": 1696391316,
       "rank": 3,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 858914,
+      "num": 858914,
+      "word": "五台县7人窒息死亡初判系一氧化碳中毒",
+      "onboard_time": 1696394798,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 847163,
@@ -169,6 +185,14 @@
       "onboard_time": 1696350390,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 804047,
+      "num": 804047,
+      "word": "长月烬明",
+      "onboard_time": 1696394377,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 758178,
@@ -227,6 +251,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 642409,
+      "num": 642409,
+      "word": "Jennie将发新歌",
+      "onboard_time": 1696394196,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 636606,
+      "num": 636606,
+      "word": "韩警方判定华莎无嫌疑",
+      "onboard_time": 1696394739,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633848,
       "num": 462214,
       "word": "杨紫美拉德大衣",
@@ -252,7 +292,7 @@
     },
     {
       "raw_hot": 598877,
-      "num": 598877,
+      "num": 609602,
       "word": "全红婵把小乌龟背包送给陈若琳",
       "onboard_time": 1696390717,
       "rank": 12,
@@ -283,6 +323,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 548267,
+      "num": 548267,
+      "word": "吴昕巴黎的三套露肩装",
+      "onboard_time": 1696393416,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 541611,
+      "num": 541611,
+      "word": "英雄联盟S13主题曲MV",
+      "onboard_time": 1696395877,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 534211,
       "num": 534211,
       "word": "金马最佳男主角提名",
@@ -300,7 +356,7 @@
     },
     {
       "raw_hot": 518677,
-      "num": 581127,
+      "num": 604819,
       "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
       "onboard_time": 1696385916,
       "rank": 31,
@@ -321,6 +377,14 @@
       "onboard_time": 1696383695,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 488130,
+      "num": 488130,
+      "word": "咒术回战",
+      "onboard_time": 1696394259,
+      "rank": 21,
+      "category": "动漫"
     },
     {
       "raw_hot": 471740,
@@ -355,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 441041,
+      "num": 441041,
+      "word": "许家印",
+      "onboard_time": 1696395397,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 434053,
       "num": 434053,
       "word": "全红婵跳水看呆了外国网友",
@@ -385,6 +457,14 @@
       "onboard_time": 1696382794,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 413573,
+      "num": 413573,
+      "word": "曾舜晞工作室偷偷发了深V照",
+      "onboard_time": 1696393899,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 412944,
@@ -523,14 +603,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 327482,
-      "num": 327482,
-      "word": "吴昕巴黎的三套露肩装",
-      "onboard_time": 1696393416,
-      "rank": 19,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 325318,
       "num": 325318,
       "word": "国庆节的旅游城市都得下沉2cm",
@@ -651,14 +723,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 260146,
-      "num": 260146,
-      "word": "于和伟私底下穿吊带",
-      "onboard_time": 1696393416,
-      "rank": 28,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 256282,
       "num": 256282,
       "word": "女生crush上一秒深情下一秒翻脸",
@@ -675,12 +739,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 253732,
+      "num": 253732,
+      "word": "家务优等生",
+      "onboard_time": 1696395157,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253215,
       "num": 216400,
       "word": "居然收到了黄轩的微博私信",
       "onboard_time": 1696337979,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 250621,
+      "num": 250621,
+      "word": "S型身材的于适",
+      "onboard_time": 1696394501,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 244390,
@@ -737,6 +817,14 @@
       "onboard_time": 1696377026,
       "rank": 26,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 231033,
+      "num": 231033,
+      "word": "mhy.LGD",
+      "onboard_time": 1696396357,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 228671,
@@ -851,14 +939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200236,
-      "num": 200236,
-      "word": "曾舜晞工作室偷偷发了深V照",
-      "onboard_time": 1696393899,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199825,
       "num": 199825,
       "word": "手指脱皮会影响指纹比对吗",
@@ -939,6 +1019,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 183928,
+      "num": 183928,
+      "word": "成毅新剧是女婿见家长模板",
+      "onboard_time": 1696396177,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182492,
       "num": 182492,
       "word": "全红婵梦想巴黎夺金",
@@ -971,8 +1059,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175205,
+      "num": 175205,
+      "word": "张凌赫边上班边当造型师",
+      "onboard_time": 1696394977,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174601,
-      "num": 1112068,
+      "num": 1184826,
       "word": "杭州亚运会中国队含金量拉满",
       "onboard_time": 1696389217,
       "rank": 2,
