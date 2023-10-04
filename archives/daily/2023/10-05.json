@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696454186237,
+  "endTime": 1696455240331,
   "band_list": [
     {
       "raw_hot": 2401767,
@@ -419,8 +419,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53978,
-      "num": 53978,
+      "raw_hot": 114556,
+      "num": 57733,
       "word": "多囊",
       "onboard_time": 1696452615,
       "rank": 12,
@@ -475,8 +475,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 15610,
-      "num": 17033,
+      "raw_hot": 22152,
+      "num": 22152,
       "word": "郝劭文成十个勤天新晋债主",
       "onboard_time": 1696453694,
       "rank": 45,
