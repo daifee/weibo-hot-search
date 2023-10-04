@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696430064172,
+  "endTime": 1696432735386,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1035,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1252872,
+      "num": 1252872,
+      "word": "男篮发布会",
+      "onboard_time": 1696431996,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1237386,
       "num": 1237386,
       "word": "韩国朝鲜女双争金",
@@ -1835,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 804119,
+      "num": 505504,
+      "word": "全红婵最大的对手就是记者",
+      "onboard_time": 1696430976,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 804001,
       "num": 804001,
       "word": "两只眼睛的度数都没她俩整齐",
@@ -2121,6 +2137,14 @@
       "onboard_time": 1696167108,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 717719,
+      "num": 717719,
+      "word": "苏炳添和奥运奖牌同框",
+      "onboard_time": 1696429960,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 716333,
@@ -2771,6 +2795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 586055,
+      "num": 280660,
+      "word": "姚明傻眼了",
+      "onboard_time": 1696432177,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 585073,
       "num": 585073,
       "word": "国羽女团0比3韩国",
@@ -3179,6 +3211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516695,
+      "num": 516695,
+      "word": "赵继伟两罚不中",
+      "onboard_time": 1696430795,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 516445,
       "num": 516445,
       "word": "国庆节",
@@ -3337,6 +3377,14 @@
       "onboard_time": 1696426237,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493640,
+      "num": 493640,
+      "word": "切阳什姐哭了",
+      "onboard_time": 1696430858,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 490347,
@@ -3971,6 +4019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 411425,
+      "num": 489723,
+      "word": "中国男子4x100接力首枚奥运奖牌",
+      "onboard_time": 1696430078,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409665,
       "num": 370204,
       "word": "鞠婧祎紫葡萄少女",
@@ -4563,6 +4619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 356189,
+      "num": 356189,
+      "word": "杨毅问男篮低谷谁能负责",
+      "onboard_time": 1696431337,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355943,
       "num": 355943,
       "word": "三位演员正在研究语擦",
@@ -4592,14 +4656,6 @@
       "word": "辛纳首夺中网冠军",
       "onboard_time": 1696429305,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 353946,
-      "num": 353946,
-      "word": "苏炳添和奥运奖牌同框",
-      "onboard_time": 1696429960,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -4785,6 +4841,14 @@
       "onboard_time": 1696374080,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 340976,
+      "num": 340976,
+      "word": "足篮打水一场空",
+      "onboard_time": 1696430738,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 340767,
@@ -5027,6 +5091,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 325096,
+      "num": 325096,
+      "word": "赵睿",
+      "onboard_time": 1696431097,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323864,
       "num": 323864,
       "word": "我的小鸡为什么在喊卡巴迪",
@@ -5259,6 +5331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308878,
+      "num": 278211,
+      "word": "苏群解说",
+      "onboard_time": 1696430795,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307942,
       "num": 307942,
       "word": "志愿军里魏大勋演技被低估了",
@@ -5345,6 +5425,14 @@
       "onboard_time": 1696250677,
       "rank": 34,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 303734,
+      "num": 303734,
+      "word": "任嘉伦白衣骑马路透",
+      "onboard_time": 1696430858,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 302537,
@@ -5611,6 +5699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 290759,
+      "num": 290759,
+      "word": "中国男篮罚球命中率低是否是基本功的问题",
+      "onboard_time": 1696431818,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290094,
       "num": 386432,
       "word": "冠军还只是个可可爱爱的小朋友",
@@ -5691,6 +5787,14 @@
       "category": "动漫,电影"
     },
     {
+      "raw_hot": 287643,
+      "num": 287643,
+      "word": "中国男排0比3加拿大男排",
+      "onboard_time": 1696431698,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287610,
       "num": 287610,
       "word": "特斯拉Model Y改款",
@@ -5729,6 +5833,14 @@
       "onboard_time": 1696256259,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285617,
+      "num": 285617,
+      "word": "想念郭艾伦",
+      "onboard_time": 1696430019,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 284779,
@@ -6315,6 +6427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260166,
+      "num": 260166,
+      "word": "迟到11年的金银铜包揽",
+      "onboard_time": 1696432177,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260051,
       "num": 260051,
       "word": "逛大唐不夜城肉夹馍被谁咬了都不知道",
@@ -6819,6 +6939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 237853,
+      "num": 237853,
+      "word": "梁崴 尴尬",
+      "onboard_time": 1696432657,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237492,
       "num": 237492,
       "word": "在韩国每到过节我就想离婚",
@@ -7001,6 +7129,14 @@
       "onboard_time": 1696127731,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 228976,
+      "num": 228976,
+      "word": "山东考研的人为什么那么多",
+      "onboard_time": 1696432300,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 228756,
@@ -7659,6 +7795,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 208676,
+      "num": 208676,
+      "word": "时代少年团楼外楼舞蹈练习室版",
+      "onboard_time": 1696431218,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 208480,
       "num": 208480,
       "word": "赵睿歪头杀",
@@ -7689,14 +7833,6 @@
       "onboard_time": 1696089456,
       "rank": 28,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 206712,
-      "num": 206712,
-      "word": "想念郭艾伦",
-      "onboard_time": 1696430019,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 206499,
@@ -7961,6 +8097,14 @@
       "onboard_time": 1696212691,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200670,
+      "num": 200670,
+      "word": "南阳回应已掌握部分窃贼资料",
+      "onboard_time": 1696432537,
+      "rank": 44,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 200626,
@@ -8544,6 +8688,14 @@
       "word": "跳水决赛",
       "onboard_time": 1696328979,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186641,
+      "num": 186641,
+      "word": "克拉克森没来",
+      "onboard_time": 1696430258,
+      "rank": 46,
       "category": "体育"
     },
     {
