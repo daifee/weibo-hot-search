@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696443792897,
+  "endTime": 1696444578042,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -11393,6 +11393,14 @@
       "onboard_time": 1696097359,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40730,
+      "num": 48468,
+      "word": "女子通过WiFi名称跨60公里寻回手机",
+      "onboard_time": 1696444037,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 37698,

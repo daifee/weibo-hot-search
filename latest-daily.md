@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/05 00:23:20 ~ 2023/10/05 02:23:12
+本榜单时间：2023/10/05 00:23:20 ~ 2023/10/05 02:36:18
 </p>
 </blockquote>
 <p>
@@ -329,6 +329,12 @@ Jennie王一博看秀待遇（热度：750795）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%9F%B3%E4%B9%90%E8%8A%82%E8%B4%B5%E9%98%B3%23" target="weibo">
 薛之谦音乐节贵阳（热度：47798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%9A%E8%BF%87WiFi%E5%90%8D%E7%A7%B0%E8%B7%A860%E5%85%AC%E9%87%8C%E5%AF%BB%E5%9B%9E%E6%89%8B%E6%9C%BA%23" target="weibo">
+女子通过WiFi名称跨60公里寻回手机（热度：40730）
 </a>
 </li>
 
