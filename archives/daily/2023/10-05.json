@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696457809709,
+  "endTime": 1696458837931,
   "band_list": [
     {
       "raw_hot": 2401767,
@@ -163,6 +163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343917,
+      "num": 93645,
+      "word": "多囊",
+      "onboard_time": 1696452615,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 318240,
       "num": 199247,
       "word": "女子通过WiFi名称跨60公里寻回手机",
@@ -177,14 +185,6 @@
       "onboard_time": 1696434757,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275450,
-      "num": 72977,
-      "word": "多囊",
-      "onboard_time": 1696452615,
-      "rank": 12,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 274624,
@@ -427,20 +427,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 64395,
+      "num": 64395,
+      "word": "封神第一部进入中国影史票房TOP23",
+      "onboard_time": 1696456095,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 48913,
       "num": 52121,
       "word": "中国男篮",
       "onboard_time": 1696424018,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 48805,
-      "num": 48805,
-      "word": "封神第一部进入中国影史票房TOP23",
-      "onboard_time": 1696456095,
-      "rank": 21,
-      "category": "电影"
     },
     {
       "raw_hot": 47798,
@@ -451,6 +451,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 47215,
+      "num": 47215,
+      "word": "郝劭文成十个勤天新晋债主",
+      "onboard_time": 1696453694,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 37630,
       "num": 37630,
       "word": "欧冠联赛",
@@ -459,12 +467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36690,
-      "num": 36690,
-      "word": "郝劭文成十个勤天新晋债主",
-      "onboard_time": 1696453694,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 36387,
+      "num": 36387,
+      "word": "徐明浩实现了四年前的愿望",
+      "onboard_time": 1696456275,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 35371,
@@ -481,14 +489,6 @@
       "onboard_time": 1696442181,
       "rank": 49,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 28116,
-      "num": 28116,
-      "word": "徐明浩实现了四年前的愿望",
-      "onboard_time": 1696456275,
-      "rank": 39,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 23578,

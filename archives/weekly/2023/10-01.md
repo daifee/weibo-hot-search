@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/05 06:16:49
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/05 06:33:57
 </p>
 </blockquote>
 <p>
@@ -3675,6 +3675,12 @@ Alex正式连接WBG（热度：346758）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%8A%23" target="weibo">
+多囊（热度：343917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E5%8E%BB%E6%B8%B8%E4%B9%90%E5%9B%AD%E5%83%8F%E5%8E%BB%E8%BF%9B%E8%B4%A7%23" target="weibo">
 张碧晨去游乐园像去进货（热度：343749）
 </a>
@@ -4637,12 +4643,6 @@ DOTA2项目（热度：276070）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23EDG%E7%AC%AC%E4%B8%80%E5%B9%95%E5%A4%BA%E5%86%A0%23" target="weibo">
 EDG第一幕夺冠（热度：275497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%8A%23" target="weibo">
-多囊（热度：275450）
 </a>
 </li>
 
@@ -8457,6 +8457,12 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP23%23" target="weibo">
+封神第一部进入中国影史票房TOP23（热度：64395）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E8%B5%9B%E5%9C%BA%E6%9C%80%E5%8A%A8%E4%BA%BA%E7%9A%84%E7%9E%AC%E9%97%B4%E4%B8%8D%E5%8F%AA%E6%9C%89%E5%A4%BA%E9%87%91%23" target="weibo">
 亚运赛场最动人的瞬间不只有夺金（热度：62075）
 </a>
@@ -8529,12 +8535,6 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%B8%80%E9%83%A8%E8%BF%9B%E5%85%A5%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%8F%B2%E7%A5%A8%E6%88%BFTOP23%23" target="weibo">
-封神第一部进入中国影史票房TOP23（热度：48805）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%9F%B3%E4%B9%90%E8%8A%82%E8%B4%B5%E9%98%B3%23" target="weibo">
 薛之谦音乐节贵阳（热度：47798）
 </a>
@@ -8543,6 +8543,12 @@ IVE专辑预告视频（热度：104512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E5%B1%8F%E6%88%98%E6%9C%BA%E6%95%B0%E9%83%BD%E6%95%B0%E4%B8%8D%E6%B8%85%23" target="weibo">
 满屏战机数都数不清（热度：47493）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E5%8A%AD%E6%96%87%E6%88%90%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%96%B0%E6%99%8B%E5%80%BA%E4%B8%BB%23" target="weibo">
+郝劭文成十个勤天新晋债主（热度：47215）
 </a>
 </li>
 
@@ -8595,12 +8601,6 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%9D%E5%8A%AD%E6%96%87%E6%88%90%E5%8D%81%E4%B8%AA%E5%8B%A4%E5%A4%A9%E6%96%B0%E6%99%8B%E5%80%BA%E4%B8%BB%23" target="weibo">
-郝劭文成十个勤天新晋债主（热度：36690）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%B9%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%23" target="weibo">
 加油杭州亚运会（热度：36583）
 </a>
@@ -8609,6 +8609,12 @@ IVE专辑预告视频（热度：104512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%9C%B0%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%85%B1%E5%94%B1%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5%23" target="weibo">
 四地中小学生共唱今天是你的生日（热度：36398）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E5%AE%9E%E7%8E%B0%E4%BA%86%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84%E6%84%BF%E6%9C%9B%23" target="weibo">
+徐明浩实现了四年前的愿望（热度：36387）
 </a>
 </li>
 
@@ -8675,12 +8681,6 @@ IVE专辑预告视频（热度：104512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%81%A5%E5%84%BF%E4%B8%BA%E7%A5%96%E5%9B%BD%E7%8C%AE%E7%A4%BC%23" target="weibo">
 亚运健儿为祖国献礼（热度：28987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E6%98%8E%E6%B5%A9%E5%AE%9E%E7%8E%B0%E4%BA%86%E5%9B%9B%E5%B9%B4%E5%89%8D%E7%9A%84%E6%84%BF%E6%9C%9B%23" target="weibo">
-徐明浩实现了四年前的愿望（热度：28116）
 </a>
 </li>
 
