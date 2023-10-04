@@ -1,0 +1,410 @@
+{
+  "runTime": 1696401361924,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1799204,
+        "num": 1799204,
+        "word": "微信过期文件打开的最简单方法",
+        "onboard_time": 1696399474,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 984240,
+        "num": 984240,
+        "word": "DIOR 迪丽热巴",
+        "onboard_time": 1696389697,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 101683,
+        "num": 894136,
+        "word": "杭州亚运会中国队含金量拉满",
+        "onboard_time": 1696389217,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 826845,
+        "num": 826845,
+        "word": "新湃传媒 陈情令",
+        "onboard_time": 1696398935,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 826349,
+        "num": 826349,
+        "word": "于和伟私底下穿吊带",
+        "onboard_time": 1696393416,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 671211,
+        "num": 671211,
+        "word": "烤橘子 慢性咽炎",
+        "onboard_time": 1696387899,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 527310,
+        "num": 527310,
+        "word": "长月烬明",
+        "onboard_time": 1696394377,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 510526,
+        "num": 510526,
+        "word": "直播间卖一个亿能赚多少钱",
+        "onboard_time": 1696389455,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 356548,
+        "num": 489966,
+        "word": "五台县7人窒息死亡初判系一氧化碳中毒",
+        "onboard_time": 1696394798,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321846,
+        "num": 464867,
+        "word": "全红婵把小乌龟背包送给陈若琳",
+        "onboard_time": 1696390717,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1029197,
+        "num": 449533,
+        "word": "湖南婚车事故记录仪显示婚车突然变道",
+        "onboard_time": 1696400254,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 933478,
+        "num": 432410,
+        "word": "夫妻离婚争人工受精孩子男方非生父",
+        "onboard_time": 1696397193,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 583996,
+        "num": 401900,
+        "word": "林一深夜发长文",
+        "onboard_time": 1696392456,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395173,
+        "num": 395173,
+        "word": "被婆婆拒绝的喜糖盒",
+        "onboard_time": 1696391498,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 243555,
+        "num": 354349,
+        "word": "冠军还只是个可可爱爱的小朋友",
+        "onboard_time": 1696397736,
+        "rank": 14,
+        "category": "幽默,体育"
+      },
+      {
+        "raw_hot": 320782,
+        "num": 320782,
+        "word": "英雄联盟S13主题曲MV",
+        "onboard_time": 1696395877,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 298136,
+        "num": 298136,
+        "word": "吴昕巴黎的三套露肩装",
+        "onboard_time": 1696393416,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 296742,
+        "num": 296742,
+        "word": "魏无羡乙女",
+        "onboard_time": 1696391316,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 277205,
+        "num": 277205,
+        "word": "周扬青不惯着影响自己心情的人",
+        "onboard_time": 1696400674,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252401,
+        "num": 252401,
+        "word": "曼谷枪击案死伤者亲友发声",
+        "onboard_time": 1696400314,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 631100,
+        "num": 251641,
+        "word": "许家印",
+        "onboard_time": 1696395397,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394134,
+        "num": 250724,
+        "word": "吃了一把怀孕的阳光玫瑰",
+        "onboard_time": 1696384713,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 327243,
+        "num": 250189,
+        "word": "成毅新剧是女婿见家长模板",
+        "onboard_time": 1696396177,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286100,
+        "num": 249681,
+        "word": "中国游客遇泰国枪击案躲LV储物间",
+        "onboard_time": 1696398874,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248985,
+        "num": 248985,
+        "word": "钢铁侠和黑寡妇在2023年10月牺牲",
+        "onboard_time": 1696380152,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228691,
+        "num": 228691,
+        "word": "大爷4岁被抱养坚持寻亲62年",
+        "onboard_time": 1696398454,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216834,
+        "num": 216834,
+        "word": "孟佳说我们不要再做这么笨的女人了",
+        "onboard_time": 1696400555,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210367,
+        "num": 210367,
+        "word": "韩警方判定华莎无嫌疑",
+        "onboard_time": 1696394739,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205381,
+        "num": 205381,
+        "word": "圆满",
+        "onboard_time": 1696400434,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204862,
+        "num": 204862,
+        "word": "藏羚羊30年种群数量变迁",
+        "onboard_time": 1696400792,
+        "rank": 29,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 203161,
+        "num": 203161,
+        "word": "咪咕",
+        "onboard_time": 1696400434,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 203138,
+        "num": 203138,
+        "word": "Jennie将发新歌",
+        "onboard_time": 1696394196,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196307,
+        "num": 196307,
+        "word": "咒术回战",
+        "onboard_time": 1696394259,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191079,
+        "num": 191079,
+        "word": "S型身材的于适",
+        "onboard_time": 1696394501,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188414,
+        "num": 188414,
+        "word": "周冬雨凭燃冬提名亚太电影大奖",
+        "onboard_time": 1696390115,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182920,
+        "num": 182920,
+        "word": "山西发生意外窒息事件7人遇难",
+        "onboard_time": 1696385557,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175875,
+        "num": 175875,
+        "word": "语擦",
+        "onboard_time": 1696390903,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175324,
+        "num": 175324,
+        "word": "四个NPC都没抓住李斯丹妮",
+        "onboard_time": 1696398813,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174687,
+        "num": 174687,
+        "word": "我恋5最窒息男嘉宾恋爱了",
+        "onboard_time": 1696389576,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169600,
+        "num": 169600,
+        "word": "6旬夫妻吃冰箱冷藏半年豆皮进ICU",
+        "onboard_time": 1696385916,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167153,
+        "num": 167153,
+        "word": "金刚芭比袁琦琦爆发力太炸裂",
+        "onboard_time": 1696400974,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165230,
+        "num": 165230,
+        "word": "特警碰掉游客小吃后重新买了一份",
+        "onboard_time": 1696401215,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49073,
+        "num": 160012,
+        "word": "崩铁承包TI12中国战队",
+        "onboard_time": 1696400735,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 177187,
+        "num": 159864,
+        "word": "残障女性被挂网上征婚彩礼标价18万",
+        "onboard_time": 1696385316,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159643,
+        "num": 159643,
+        "word": "mhy.LGD",
+        "onboard_time": 1696396357,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 157149,
+        "num": 157149,
+        "word": "曾舜晞工作室偷偷发了深V照",
+        "onboard_time": 1696393899,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146444,
+        "num": 146444,
+        "word": "陈若琳全红婵",
+        "onboard_time": 1696385373,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144815,
+        "num": 144815,
+        "word": "瑞幸和茅台看了都沉默",
+        "onboard_time": 1696376846,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140918,
+        "num": 140918,
+        "word": "地狱有什么不好",
+        "onboard_time": 1696392700,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124520,
+        "num": 124520,
+        "word": "魏大勋亚运赛事播报",
+        "onboard_time": 1696398104,
+        "rank": 49,
+        "category": "体育,艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#厚植爱国情争做奋斗者#"
+    }
+  }
+}

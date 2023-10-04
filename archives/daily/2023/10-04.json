@@ -1,6 +1,6 @@
 {
   "startTime": 1696350169816,
-  "endTime": 1696400582911,
+  "endTime": 1696401361924,
   "band_list": [
     {
       "raw_hot": 2964851,
@@ -33,6 +33,14 @@
       "onboard_time": 1696379009,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1799204,
+      "num": 1799204,
+      "word": "微信过期文件打开的最简单方法",
+      "onboard_time": 1696399474,
+      "rank": 11,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1796980,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 1063705,
-      "num": 408123,
+      "num": 432410,
       "word": "夫妻离婚争人工受精孩子男方非生父",
       "onboard_time": 1696397193,
       "rank": 26,
@@ -131,12 +139,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1019220,
-      "num": 386371,
-      "word": "微信过期文件打开的最简单方法",
-      "onboard_time": 1696399474,
-      "rank": 11,
-      "category": "知识科普"
+      "raw_hot": 1029197,
+      "num": 449533,
+      "word": "湖南婚车事故记录仪显示婚车突然变道",
+      "onboard_time": 1696400254,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1012166,
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 290094,
-      "num": 353956,
+      "num": 354349,
       "word": "冠军还只是个可可爱爱的小朋友",
       "onboard_time": 1696397736,
       "rank": 14,
@@ -723,7 +731,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285314,
+      "raw_hot": 286100,
       "num": 277863,
       "word": "中国游客遇泰国枪击案躲LV储物间",
       "onboard_time": 1696398874,
@@ -755,6 +763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 277205,
+      "num": 277205,
+      "word": "周扬青不惯着影响自己心情的人",
+      "onboard_time": 1696400674,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277116,
       "num": 277116,
       "word": "什么叫人人人山人人人海",
@@ -777,14 +793,6 @@
       "onboard_time": 1696383992,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 265503,
-      "num": 194097,
-      "word": "湖南婚车事故记录仪显示婚车突然变道",
-      "onboard_time": 1696400254,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256282,
@@ -825,6 +833,14 @@
       "onboard_time": 1696337979,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252401,
+      "num": 252401,
+      "word": "曼谷枪击案死伤者亲友发声",
+      "onboard_time": 1696400314,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250621,
@@ -955,6 +971,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 216834,
+      "num": 216834,
+      "word": "孟佳说我们不要再做这么笨的女人了",
+      "onboard_time": 1696400555,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216064,
       "num": 216064,
       "word": "原来双肩包这么能装",
@@ -1003,12 +1027,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205381,
+      "num": 205381,
+      "word": "圆满",
+      "onboard_time": 1696400434,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205105,
       "num": 205105,
       "word": "甄妮发文质问郑少秋",
       "onboard_time": 1696337680,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204862,
+      "num": 204862,
+      "word": "藏羚羊30年种群数量变迁",
+      "onboard_time": 1696400792,
+      "rank": 29,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 203161,
+      "num": 203161,
+      "word": "咪咕",
+      "onboard_time": 1696400434,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 201308,
@@ -1187,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167153,
+      "num": 167153,
+      "word": "金刚芭比袁琦琦爆发力太炸裂",
+      "onboard_time": 1696400974,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166744,
       "num": 166744,
       "word": "中国女足3比4惜败日本",
@@ -1195,20 +1251,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165230,
+      "num": 165230,
+      "word": "特警碰掉游客小吃后重新买了一份",
+      "onboard_time": 1696401215,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163244,
       "num": 163244,
       "word": "哈利波特为什么是七部的原因",
       "onboard_time": 1696384654,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 160567,
-      "num": 160567,
-      "word": "曼谷枪击案死伤者亲友发声",
-      "onboard_time": 1696400314,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157485,
@@ -1241,22 +1297,6 @@
       "onboard_time": 1696393175,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151423,
-      "num": 151423,
-      "word": "圆满",
-      "onboard_time": 1696400434,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 151238,
-      "num": 151238,
-      "word": "咪咕",
-      "onboard_time": 1696400434,
-      "rank": 42,
-      "category": "互联网"
     },
     {
       "raw_hot": 150603,
@@ -1427,14 +1467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116337,
-      "num": 116337,
-      "word": "孟佳说我们不要再做这么笨的女人了",
-      "onboard_time": 1696400555,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 116161,
       "num": 116161,
       "word": "假期余额只剩3天",
@@ -1569,6 +1601,14 @@
       "onboard_time": 1696355001,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49073,
+      "num": 160012,
+      "word": "崩铁承包TI12中国战队",
+      "onboard_time": 1696400735,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 47488,
