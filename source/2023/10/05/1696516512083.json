@@ -1,0 +1,410 @@
+{
+  "runTime": 1696516512083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8258928,
+        "num": 8846808,
+        "word": "中国女篮冠军",
+        "onboard_time": 1696513546,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4218771,
+        "num": 4218771,
+        "word": "中国女篮vs日本女篮",
+        "onboard_time": 1696503877,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164458,
+        "num": 2562120,
+        "word": "被亚运会的氛围可爱到了",
+        "onboard_time": 1696511138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1465494,
+        "num": 1465494,
+        "word": "孙颖莎3比2徐孝元",
+        "onboard_time": 1696515758,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1376348,
+        "num": 1376348,
+        "word": "李梦好猛",
+        "onboard_time": 1696509756,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1124466,
+        "num": 1124466,
+        "word": "加了新好友先看自己朋友圈",
+        "onboard_time": 1696510478,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1113919,
+        "num": 1113919,
+        "word": "杨舒予好帅",
+        "onboard_time": 1696510424,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1026870,
+        "num": 1026870,
+        "word": "王思雨绝杀",
+        "onboard_time": 1696514384,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012291,
+        "num": 1012291,
+        "word": "还得是女篮 还得是中国女人",
+        "onboard_time": 1696513906,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 536292,
+        "num": 536292,
+        "word": "王楚钦孙颖莎",
+        "onboard_time": 1696502015,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53715,
+        "num": 533934,
+        "word": "女篮载誉前行",
+        "onboard_time": 1696514321,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 786920,
+        "num": 528363,
+        "word": "李梦美甲",
+        "onboard_time": 1696515100,
+        "rank": 11,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 672598,
+        "num": 524368,
+        "word": "范玮琪感谢陈建州守护家庭",
+        "onboard_time": 1696508194,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 661942,
+        "num": 517095,
+        "word": "周也的美是遗传的",
+        "onboard_time": 1696512516,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367816,
+        "num": 516404,
+        "word": "新闻联播新主播王音棋",
+        "onboard_time": 1696505315,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 635035,
+        "num": 511576,
+        "word": "最后13秒",
+        "onboard_time": 1696515697,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507360,
+        "num": 507360,
+        "word": "第一次见这么简陋的机场",
+        "onboard_time": 1696509575,
+        "rank": 16,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 391990,
+        "num": 391990,
+        "word": "华晨宇劝学",
+        "onboard_time": 1696511436,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 391820,
+        "num": 391820,
+        "word": "中国女篮夺冠放灌篮高手BGM",
+        "onboard_time": 1696515398,
+        "rank": 18,
+        "category": "体育,动漫"
+      },
+      {
+        "raw_hot": 199992,
+        "num": 389851,
+        "word": "游客相机掉落被大熊猫捡走",
+        "onboard_time": 1696507776,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1108817,
+        "num": 389769,
+        "word": "女子曝光丈夫和幼儿园园长开房",
+        "onboard_time": 1696505373,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497016,
+        "num": 389599,
+        "word": "女生气血不足的6个表现",
+        "onboard_time": 1696497515,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 389276,
+        "num": 389276,
+        "word": "看女篮就是爽",
+        "onboard_time": 1696510056,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 371979,
+        "num": 371979,
+        "word": "身体还很年轻的表现",
+        "onboard_time": 1696510478,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 350783,
+        "num": 350783,
+        "word": "王鹤棣许七安新剧照",
+        "onboard_time": 1696512457,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343225,
+        "num": 343225,
+        "word": "王楚钦在场外自己教育自己",
+        "onboard_time": 1696510478,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338920,
+        "num": 338920,
+        "word": "被巴黎戴高乐机场的中文折服了",
+        "onboard_time": 1696507957,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320338,
+        "num": 320338,
+        "word": "王阳又演反派了",
+        "onboard_time": 1696511076,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310891,
+        "num": 310891,
+        "word": "王思雨上篮",
+        "onboard_time": 1696513607,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308445,
+        "num": 308445,
+        "word": "好事成双结局都是好事",
+        "onboard_time": 1696512040,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 351840,
+        "num": 306044,
+        "word": "孙颖莎女单晋级16强",
+        "onboard_time": 1696516297,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302379,
+        "num": 302379,
+        "word": "袁琦琦的腿",
+        "onboard_time": 1696512876,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289881,
+        "num": 289881,
+        "word": "中国女篮夺冠后抱起教练",
+        "onboard_time": 1696515339,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282434,
+        "num": 282434,
+        "word": "国羽无缘男双4强",
+        "onboard_time": 1696515879,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271006,
+        "num": 271006,
+        "word": "陈梦王曼昱晋级女双四强",
+        "onboard_time": 1696511794,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268882,
+        "num": 268882,
+        "word": "我的国家没参赛我来支持中国队",
+        "onboard_time": 1696487255,
+        "rank": 35,
+        "category": "情感,体育"
+      },
+      {
+        "raw_hot": 265687,
+        "num": 265687,
+        "word": "黄景瑜6句人呢喊出撕心裂肺感",
+        "onboard_time": 1696513236,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262904,
+        "num": 262904,
+        "word": "女篮球员都哭了",
+        "onboard_time": 1696516119,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260384,
+        "num": 260384,
+        "word": "看坚如磐石 别带小孩",
+        "onboard_time": 1696508437,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245383,
+        "num": 245383,
+        "word": "爱情公狱",
+        "onboard_time": 1696495113,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210474,
+        "num": 210474,
+        "word": "张艺兴 UZI",
+        "onboard_time": 1696492650,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207177,
+        "num": 207177,
+        "word": "日本一火山喷发",
+        "onboard_time": 1696498414,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206339,
+        "num": 206339,
+        "word": "张小斐发文告别林双",
+        "onboard_time": 1696514801,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200610,
+        "num": 200610,
+        "word": "我在利物浦偶遇了洋幂",
+        "onboard_time": 1696507537,
+        "rank": 43,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 200548,
+        "num": 200548,
+        "word": "李景亮想为国出战",
+        "onboard_time": 1696515879,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193279,
+        "num": 193279,
+        "word": "女篮BGM 鹿晗勋章",
+        "onboard_time": 1696516361,
+        "rank": 45,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 178700,
+        "num": 178700,
+        "word": "男篮",
+        "onboard_time": 1696516422,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174832,
+        "num": 174832,
+        "word": "女篮决赛现场飘满五星红旗",
+        "onboard_time": 1696514505,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166657,
+        "num": 166657,
+        "word": "于嘉哽咽了",
+        "onboard_time": 1696516482,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164366,
+        "num": 164366,
+        "word": "李月汝盖帽帅死",
+        "onboard_time": 1696510119,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}

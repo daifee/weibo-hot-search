@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696515352515,
+  "endTime": 1696516512083,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -35,6 +35,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8258928,
+      "num": 8846808,
+      "word": "中国女篮冠军",
+      "onboard_time": 1696513546,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7618315,
       "num": 7618315,
       "word": "孙颖莎vs早田希娜",
@@ -63,14 +71,6 @@
       "num": 6766838,
       "word": "吴艳妮成绩被取消",
       "onboard_time": 1696168425,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 6587969,
-      "num": 7112766,
-      "word": "中国女篮冠军",
-      "onboard_time": 1696513546,
       "rank": 1,
       "category": "体育"
     },
@@ -1035,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1465494,
+      "num": 1465494,
+      "word": "孙颖莎3比2徐孝元",
+      "onboard_time": 1696515758,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1445502,
       "num": 1445502,
       "word": "韩国的歧视真的绝了",
@@ -1435,6 +1443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1113919,
+      "num": 1113919,
+      "word": "杨舒予好帅",
+      "onboard_time": 1696326036,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1113103,
       "num": 1113103,
       "word": "诺贝尔文学奖",
@@ -1505,14 +1521,6 @@
       "onboard_time": 1696397193,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1063050,
-      "num": 1063050,
-      "word": "杨舒予好帅",
-      "onboard_time": 1696326036,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 1062819,
@@ -1616,6 +1624,14 @@
       "word": "国羽男团2比2印度",
       "onboard_time": 1696167283,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1026870,
+      "num": 1026870,
+      "word": "王思雨绝杀",
+      "onboard_time": 1696514384,
+      "rank": 15,
       "category": "体育"
     },
     {
@@ -2339,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 786920,
+      "num": 528363,
+      "word": "李梦美甲",
+      "onboard_time": 1696515100,
+      "rank": 30,
+      "category": "体育,美妆"
+    },
+    {
       "raw_hot": 781911,
       "num": 781911,
       "word": "希望国乒双打失利能引起教练组的重视",
@@ -2891,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 661942,
+      "num": 609430,
+      "word": "周也的美是遗传的",
+      "onboard_time": 1696512516,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660361,
       "num": 328646,
       "word": "我儿子现在是我的岳父",
@@ -3035,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 635035,
+      "num": 511576,
+      "word": "最后13秒",
+      "onboard_time": 1696515697,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 633848,
       "num": 462214,
       "word": "杨紫美拉德大衣",
@@ -3161,14 +3201,6 @@
       "onboard_time": 1696337979,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 609430,
-      "num": 609430,
-      "word": "周也的美是遗传的",
-      "onboard_time": 1696512516,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 607046,
@@ -3729,14 +3761,6 @@
       "onboard_time": 1696427257,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 532272,
-      "num": 532272,
-      "word": "王思雨绝杀",
-      "onboard_time": 1696514384,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 531322,
@@ -5115,6 +5139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 391820,
+      "num": 391820,
+      "word": "中国女篮夺冠放灌篮高手BGM",
+      "onboard_time": 1696515398,
+      "rank": 18,
+      "category": "体育,动漫"
+    },
+    {
       "raw_hot": 391341,
       "num": 391341,
       "word": "杨紫回眸氛围感",
@@ -5435,14 +5467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367730,
-      "num": 282796,
-      "word": "李梦美甲",
-      "onboard_time": 1696515100,
-      "rank": 30,
-      "category": "体育,美妆"
-    },
-    {
       "raw_hot": 367397,
       "num": 367397,
       "word": "混双",
@@ -5721,6 +5745,14 @@
       "onboard_time": 1696235973,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351840,
+      "num": 306044,
+      "word": "孙颖莎女单晋级16强",
+      "onboard_time": 1696516297,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 351490,
@@ -6483,6 +6515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308445,
+      "num": 308445,
+      "word": "好事成双结局都是好事",
+      "onboard_time": 1696512040,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 307942,
       "num": 307942,
       "word": "志愿军里魏大勋演技被低估了",
@@ -6971,6 +7011,14 @@
       "category": "幽默,体育"
     },
     {
+      "raw_hot": 289881,
+      "num": 289881,
+      "word": "中国女篮夺冠后抱起教练",
+      "onboard_time": 1696515339,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 289276,
       "num": 289276,
       "word": "黄景瑜王子奇没去周杰伦演唱会的原因",
@@ -7195,6 +7243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 282434,
+      "num": 282434,
+      "word": "国羽无缘男双4强",
+      "onboard_time": 1696515879,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 281845,
       "num": 281845,
       "word": "樊振东调侃自己好大一只",
@@ -7337,14 +7393,6 @@
       "onboard_time": 1696151190,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 277244,
-      "num": 277244,
-      "word": "好事成双结局都是好事",
-      "onboard_time": 1696512040,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 277194,
@@ -7760,6 +7808,14 @@
       "word": "大叔脱掉儿子衣服求叶诗文签字",
       "onboard_time": 1696273157,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 262904,
+      "num": 262904,
+      "word": "女篮球员都哭了",
+      "onboard_time": 1696516119,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -9979,6 +10035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200548,
+      "num": 200548,
+      "word": "李景亮想为国出战",
+      "onboard_time": 1696515879,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 200322,
       "num": 200322,
       "word": "全红婵被拍到比赛间隙还在练习动作",
@@ -10308,7 +10372,7 @@
     },
     {
       "raw_hot": 194559,
-      "num": 421390,
+      "num": 533934,
       "word": "女篮载誉前行",
       "onboard_time": 1696514321,
       "rank": 18,
@@ -10401,6 +10465,14 @@
       "onboard_time": 1696354342,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 193279,
+      "num": 193279,
+      "word": "女篮BGM 鹿晗勋章",
+      "onboard_time": 1696516361,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 193271,
@@ -11059,6 +11131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 178700,
+      "num": 178700,
+      "word": "男篮",
+      "onboard_time": 1696516422,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178539,
       "num": 178539,
       "word": "北方人真的很少吃杨桃吗",
@@ -11491,20 +11571,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166848,
-      "num": 166848,
-      "word": "中国女篮夺冠后抱起教练",
-      "onboard_time": 1696515339,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 166724,
       "num": 166724,
       "word": "对弈竞猜",
       "onboard_time": 1696130735,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166657,
+      "num": 166657,
+      "word": "于嘉哽咽了",
+      "onboard_time": 1696516482,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 166597,
