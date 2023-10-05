@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696497456780,
+  "endTime": 1696498478490,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -35,8 +35,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 2164795,
-      "num": 2164795,
+      "raw_hot": 2257372,
+      "num": 2257372,
       "word": "爱情公狱",
       "onboard_time": 1696495113,
       "rank": 0,
@@ -243,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 811808,
+      "num": 284024,
+      "word": "女生气血不足的6个表现",
+      "onboard_time": 1696497515,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 805071,
       "num": 422656,
       "word": "多囊",
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 703589,
-      "num": 356915,
+      "num": 432962,
       "word": "找到冠军咬奖牌的原因了",
       "onboard_time": 1696496431,
       "rank": 11,
@@ -345,6 +353,14 @@
       "onboard_time": 1696420055,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 618900,
+      "num": 618900,
+      "word": "女孩放弃买钻戒花50万买金条",
+      "onboard_time": 1696495593,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612150,
@@ -395,6 +411,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 586038,
+      "num": 586038,
+      "word": "镇政府村干部回应南阳迷笛音乐节失窃",
+      "onboard_time": 1696496854,
+      "rank": 9,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 575771,
       "num": 575771,
       "word": "女子通过WiFi名称跨60公里寻回手机",
@@ -419,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 531687,
-      "num": 332646,
-      "word": "女孩放弃买钻戒花50万买金条",
-      "onboard_time": 1696495593,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 547775,
+      "num": 547775,
+      "word": "广州塔这辈子没被这样看过",
+      "onboard_time": 1696495532,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 525231,
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 435432,
-      "num": 332012,
+      "num": 350422,
       "word": "王楚钦3比1英田理志",
       "onboard_time": 1696496373,
       "rank": 17,
@@ -609,14 +633,6 @@
       "onboard_time": 1696486415,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 417223,
-      "num": 331700,
-      "word": "广州塔这辈子没被这样看过",
-      "onboard_time": 1696495532,
-      "rank": 18,
-      "category": "幽默"
     },
     {
       "raw_hot": 409516,
@@ -731,20 +747,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 362797,
-      "num": 362797,
-      "word": "镇政府村干部回应南阳迷笛音乐节失窃",
-      "onboard_time": 1696496854,
-      "rank": 9,
-      "category": "社会新闻,演出"
-    },
-    {
       "raw_hot": 359708,
       "num": 359708,
       "word": "部分迷笛音乐节盗窃者已被抓获",
       "onboard_time": 1696478138,
       "rank": 18,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 342165,
+      "num": 342165,
+      "word": "黄轩 病娇",
+      "onboard_time": 1696496614,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 335474,
@@ -851,12 +867,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 295499,
-      "num": 295499,
-      "word": "黄轩 病娇",
-      "onboard_time": 1696496614,
+      "raw_hot": 295296,
+      "num": 274953,
+      "word": "黄子诚姚瑶分手",
+      "onboard_time": 1696497874,
       "rank": 23,
-      "category": "电影"
+      "category": "剧集"
     },
     {
       "raw_hot": 294873,
@@ -1123,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235791,
+      "num": 235791,
+      "word": "陈奕迅新专辑ChinUp预告",
+      "onboard_time": 1696496736,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 234312,
       "num": 234312,
       "word": "曼妮 聚散有时",
@@ -1313,14 +1337,6 @@
       "onboard_time": 1696494392,
       "rank": 26,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 207477,
-      "num": 207477,
-      "word": "陈奕迅新专辑ChinUp预告",
-      "onboard_time": 1696496736,
-      "rank": 30,
-      "category": "音乐"
     },
     {
       "raw_hot": 205953,
@@ -1571,6 +1587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176865,
+      "num": 176865,
+      "word": "日本一火山喷发",
+      "onboard_time": 1696498414,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176691,
       "num": 176691,
       "word": "陈芋汐1分钟回答23个问题",
@@ -1779,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153055,
+      "num": 153055,
+      "word": "残雪",
+      "onboard_time": 1696498233,
+      "rank": 41,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 151439,
       "num": 151439,
       "word": "中国女篮vs日本女篮",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1696478797,
       "rank": 39,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 144496,
+      "num": 290852,
+      "word": "田涛96公斤级举重金牌",
+      "onboard_time": 1696497992,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 142595,
@@ -2147,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24254,
+      "num": 406719,
+      "word": "舞台2023收官歌手解放天性",
+      "onboard_time": 1696496431,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23578,
       "num": 28282,
       "word": "于和伟 能看到就不错了还要啥自行车",
@@ -2161,14 +2209,6 @@
       "onboard_time": 1696489774,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18382,
-      "num": 338278,
-      "word": "舞台2023收官歌手解放天性",
-      "onboard_time": 1696496431,
-      "rank": 14,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
