@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696491250597,
+  "endTime": 1696494138479,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -41,6 +41,14 @@
       "onboard_time": 1696464207,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1852349,
+      "num": 1852349,
+      "word": "我的国家没参赛我来支持中国队",
+      "onboard_time": 1696487255,
+      "rank": 31,
+      "category": "情感,体育"
     },
     {
       "raw_hot": 1845973,
@@ -91,14 +99,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1345066,
-      "num": 560350,
-      "word": "我的国家没参赛我来支持中国队",
-      "onboard_time": 1696487255,
-      "rank": 31,
-      "category": "情感,体育"
-    },
-    {
       "raw_hot": 1341168,
       "num": 1330012,
       "word": "秦岚这状态是喝了点吧",
@@ -131,6 +131,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 1240533,
+      "num": 1240533,
+      "word": "腾讯视频 胆小模式",
+      "onboard_time": 1696488754,
+      "rank": 15,
+      "category": "幽默,互联网"
+    },
+    {
       "raw_hot": 1228725,
       "num": 1228725,
       "word": "乔欣说车停不好就把路堵上",
@@ -147,6 +155,22 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1039608,
+      "num": 550926,
+      "word": "女子住主题酒店连续3间房发现摄像头",
+      "onboard_time": 1696489233,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1031362,
+      "num": 1031362,
+      "word": "张艺兴 UZI",
+      "onboard_time": 1696492650,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 933328,
       "num": 541185,
       "word": "杨幂发了15张图",
@@ -161,14 +185,6 @@
       "onboard_time": 1696468472,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 906240,
-      "num": 906240,
-      "word": "腾讯视频 胆小模式",
-      "onboard_time": 1696488754,
-      "rank": 15,
-      "category": "幽默,互联网"
     },
     {
       "raw_hot": 894578,
@@ -195,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883116,
+      "num": 883116,
+      "word": "泰国选手跳水炸鱼把自己逗笑了",
+      "onboard_time": 1696491335,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 875981,
       "num": 875981,
       "word": "唐嫣拍戏受伤",
@@ -217,14 +241,6 @@
       "onboard_time": 1696465469,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 786336,
-      "num": 550926,
-      "word": "女子住主题酒店连续3间房发现摄像头",
-      "onboard_time": 1696489233,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 759535,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491348,
+      "num": 288885,
+      "word": "鲁迅的家离三味书屋这么近还迟到",
+      "onboard_time": 1696492954,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 482829,
       "num": 482829,
       "word": "梁崴 尴尬",
@@ -441,6 +465,14 @@
       "onboard_time": 1696477474,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 476290,
+      "num": 377265,
+      "word": "黄子韬 你有品真的",
+      "onboard_time": 1696492532,
+      "rank": 11,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 466062,
@@ -505,6 +537,14 @@
       "onboard_time": 1696473272,
       "rank": 26,
       "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 439922,
+      "num": 277335,
+      "word": "新郎是逃犯婚礼结束被带走",
+      "onboard_time": 1696492832,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 426043,
@@ -641,6 +681,14 @@
       "onboard_time": 1696478138,
       "rank": 18,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 341620,
+      "num": 341620,
+      "word": "王楚钦说没觉得自己长得帅",
+      "onboard_time": 1696492832,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 335474,
@@ -808,6 +856,14 @@
       "word": "苏炳添和奥运奖牌同框",
       "onboard_time": 1696429960,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 272733,
+      "num": 187391,
+      "word": "能打败全红婵的只有记者",
+      "onboard_time": 1696492832,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -979,6 +1035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 239288,
+      "num": 239288,
+      "word": "麦迪不解中国男篮输球",
+      "onboard_time": 1696492295,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234312,
       "num": 234312,
       "word": "曼妮 聚散有时",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1696458978,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 223927,
+      "num": 186480,
+      "word": "以为全红婵刷手机放松其实是看比赛视频",
+      "onboard_time": 1696492415,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 223551,
@@ -1113,6 +1185,14 @@
       "onboard_time": 1696432537,
       "rank": 31,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 211765,
+      "num": 211765,
+      "word": "周深把音乐节开成了国庆晚会",
+      "onboard_time": 1696493732,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 211320,
@@ -1251,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193675,
+      "num": 193675,
+      "word": "陈冲于和伟 姐狗",
+      "onboard_time": 1696493372,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193327,
       "num": 193327,
       "word": "中国男篮不敌菲律宾男篮",
@@ -1272,6 +1360,22 @@
       "word": "王昶封网到底有多快",
       "onboard_time": 1696474774,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192572,
+      "num": 185522,
+      "word": "体操奥运冠军邓琳琳在宁波结婚",
+      "onboard_time": 1696492832,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190613,
+      "num": 190613,
+      "word": "王曼昱3比0吴咏琳",
+      "onboard_time": 1696492772,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1297,6 +1401,14 @@
       "onboard_time": 1696470571,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180297,
+      "num": 180297,
+      "word": "封神训练营这么吃不得瘦死",
+      "onboard_time": 1696493313,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 179359,
@@ -1435,6 +1547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165245,
+      "num": 165245,
+      "word": "田嘉瑞回应叫姐姐",
+      "onboard_time": 1696493014,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164171,
       "num": 164171,
       "word": "中国男篮无缘亚运决赛",
@@ -1513,6 +1633,22 @@
       "onboard_time": 1696484015,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151439,
+      "num": 151439,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1696491874,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151381,
+      "num": 151381,
+      "word": "陈飞宇为志愿军发的第一篇800字长文",
+      "onboard_time": 1696493614,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 150912,
@@ -1699,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121048,
+      "num": 121048,
+      "word": "马龙男单晋级16强",
+      "onboard_time": 1696494092,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113827,
       "num": 113827,
       "word": "南阳市民拿探测仪帮迷笛粉丝找手机",
@@ -1776,6 +1920,14 @@
       "word": "书写中国有多少种方式",
       "onboard_time": 1696461261,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61326,
+      "num": 1126973,
+      "word": "杭州亚运会处处都有显眼包",
+      "onboard_time": 1696493552,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
