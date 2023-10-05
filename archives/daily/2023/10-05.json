@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696502182849,
+  "endTime": 1696504486898,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -40,6 +40,14 @@
       "word": "全红婵的弹跳没有地心引力",
       "onboard_time": 1696481134,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 2260699,
+      "num": 2260699,
+      "word": "王楚钦孙颖莎",
+      "onboard_time": 1696502015,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -195,8 +203,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1041152,
+      "num": 496688,
+      "word": "2023诺贝尔文学奖揭晓",
+      "onboard_time": 1696504176,
+      "rank": 11,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1012820,
-      "num": 372943,
+      "num": 415193,
       "word": "女生气血不足的6个表现",
       "onboard_time": 1696497515,
       "rank": 20,
@@ -257,6 +273,14 @@
       "onboard_time": 1696491335,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 877018,
+      "num": 877018,
+      "word": "台风",
+      "onboard_time": 1696500514,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 875981,
@@ -321,6 +345,14 @@
       "onboard_time": 1696490196,
       "rank": 6,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 723979,
+      "num": 495282,
+      "word": "莎头",
+      "onboard_time": 1696501834,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 703589,
@@ -467,14 +499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 528697,
-      "num": 528697,
-      "word": "台风",
-      "onboard_time": 1696500514,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 525231,
       "num": 525231,
       "word": "日本开始第二轮核污染水排海",
@@ -499,6 +523,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 497239,
+      "num": 497239,
+      "word": "高铁不脏手薯片吃法",
+      "onboard_time": 1696501114,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 496928,
       "num": 496928,
       "word": "日本本州东南附近发生6.3级左右地震",
@@ -521,6 +553,14 @@
       "onboard_time": 1696483899,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 492422,
+      "num": 496503,
+      "word": "日本一企业用人造子宫培育出鲨鱼",
+      "onboard_time": 1696501653,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 492201,
@@ -585,6 +625,14 @@
       "onboard_time": 1696474774,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 457024,
+      "num": 457024,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1696491874,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 456317,
@@ -787,6 +835,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 372717,
+      "num": 372717,
+      "word": "雷蒙多称华为芯片突破令人不安",
+      "onboard_time": 1696502795,
+      "rank": 21,
+      "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 367397,
+      "num": 367397,
+      "word": "混双",
+      "onboard_time": 1696503276,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366910,
       "num": 393514,
       "word": "泰国王王后派代表看望受伤中国公民",
@@ -803,20 +867,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362602,
+      "num": 362602,
+      "word": "金博洋铜牌",
+      "onboard_time": 1696501474,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359708,
       "num": 359708,
       "word": "部分迷笛音乐节盗窃者已被抓获",
       "onboard_time": 1696478138,
       "rank": 18,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 357539,
-      "num": 357539,
-      "word": "高铁不脏手薯片吃法",
-      "onboard_time": 1696501114,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 351349,
@@ -851,11 +915,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321994,
+      "num": 882370,
+      "word": "退休教师家门口升国旗13年",
+      "onboard_time": 1696502735,
+      "rank": 4,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 316967,
       "num": 316967,
       "word": "张镇麟踢广告牌",
       "onboard_time": 1696470212,
       "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314884,
+      "num": 314884,
+      "word": "陈雨菲vs金佳恩",
+      "onboard_time": 1696502376,
+      "rank": 27,
       "category": "体育"
     },
     {
@@ -867,12 +947,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 310131,
-      "num": 206512,
-      "word": "金博洋铜牌",
-      "onboard_time": 1696501474,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 313219,
+      "num": 313219,
+      "word": "腾讯视频回应推出胆小模式",
+      "onboard_time": 1696503456,
+      "rank": 28,
+      "category": "互联网,剧集"
     },
     {
       "raw_hot": 309327,
@@ -1017,14 +1097,6 @@
       "onboard_time": 1696470392,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 278198,
-      "num": 278198,
-      "word": "莎头",
-      "onboard_time": 1696501834,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 275726,
@@ -1188,7 +1260,7 @@
     },
     {
       "raw_hot": 247718,
-      "num": 206438,
+      "num": 236132,
       "word": "叔叔看不懂cctv5了",
       "onboard_time": 1696501355,
       "rank": 31,
@@ -1436,7 +1508,7 @@
     },
     {
       "raw_hot": 210422,
-      "num": 210422,
+      "num": 724850,
       "word": "30年前稼穑戳动了谁的童年",
       "onboard_time": 1696490673,
       "rank": 27,
@@ -1475,14 +1547,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 207355,
-      "num": 207355,
-      "word": "日本一企业用人造子宫培育出鲨鱼",
-      "onboard_time": 1696501653,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 205953,
       "num": 205953,
       "word": "沙特将申办2034年世界杯",
@@ -1513,6 +1577,14 @@
       "onboard_time": 1696501834,
       "rank": 33,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 202960,
+      "num": 202960,
+      "word": "杭州的外卖小哥都这么卷吗",
+      "onboard_time": 1696502315,
+      "rank": 39,
+      "category": "幽默"
     },
     {
       "raw_hot": 202497,
@@ -1683,14 +1755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188779,
-      "num": 188779,
-      "word": "王楚钦孙颖莎",
-      "onboard_time": 1696502015,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188391,
       "num": 188391,
       "word": "wtt球星挑战赛兰州站2023",
@@ -1728,6 +1792,14 @@
       "word": "李诗沣受伤",
       "onboard_time": 1696501715,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180361,
+      "num": 180361,
+      "word": "哈德森讨薪",
+      "onboard_time": 1696504116,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1971,14 +2043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 151439,
-      "num": 151439,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1696491874,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 150912,
       "num": 185438,
       "word": "杭州亚运会田径收官日",
@@ -2147,6 +2211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131900,
+      "num": 131900,
+      "word": "中国女排对阵越南",
+      "onboard_time": 1696504474,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131136,
       "num": 131136,
       "word": "切阳什姐回应领奖落泪",
@@ -2219,6 +2291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 115446,
+      "num": 905588,
+      "word": "如果感到幸福你就跺ta脚",
+      "onboard_time": 1696497573,
+      "rank": 6,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 113827,
       "num": 113827,
       "word": "南阳市民拿探测仪帮迷笛粉丝找手机",
@@ -2241,14 +2321,6 @@
       "onboard_time": 1696462285,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104643,
-      "num": 780222,
-      "word": "如果感到幸福你就跺ta脚",
-      "onboard_time": 1696497573,
-      "rank": 6,
-      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 93703,
@@ -2409,6 +2481,14 @@
       "onboard_time": 1696489774,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17690,
+      "num": 495872,
+      "word": "舞台2023唱给自己的歌",
+      "onboard_time": 1696503636,
+      "rank": 14,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
