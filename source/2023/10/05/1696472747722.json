@@ -1,0 +1,410 @@
+{
+  "runTime": 1696472747722,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760568,
+        "num": 1760568,
+        "word": "研一男生入学1个月被邀当导师伴郎",
+        "onboard_time": 1696469792,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1400828,
+        "num": 1400828,
+        "word": "提前返程结果1小时开了10公里",
+        "onboard_time": 1696464207,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26137,
+        "num": 1179447,
+        "word": "杭州亚运会上的数字智能亮点",
+        "onboard_time": 1696424977,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1077891,
+        "num": 1077891,
+        "word": "秦岚这状态是喝了点吧",
+        "onboard_time": 1696464390,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 920010,
+        "num": 920010,
+        "word": "姚瑶进ICU给病人下药",
+        "onboard_time": 1696468472,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 862482,
+        "num": 862482,
+        "word": "乔欣说车停不好就把路堵上",
+        "onboard_time": 1696464150,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 728083,
+        "num": 728083,
+        "word": "张艺兴差点说出EXO",
+        "onboard_time": 1696465469,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 573108,
+        "num": 573108,
+        "word": "迷笛盗窃事件或受短视频误导",
+        "onboard_time": 1696466250,
+        "rank": 7,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 400642,
+        "num": 400642,
+        "word": "返程聪明人",
+        "onboard_time": 1696471592,
+        "rank": 8,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 663997,
+        "num": 399189,
+        "word": "导游用激光笔照龙门石窟大佛",
+        "onboard_time": 1696463006,
+        "rank": 9,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 724463,
+        "num": 398271,
+        "word": "秦霄贤喜欢的女生类型变了",
+        "onboard_time": 1696472250,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 654507,
+        "num": 396834,
+        "word": "南阳音乐节盗窃事件的最大启示",
+        "onboard_time": 1696468292,
+        "rank": 11,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 407377,
+        "num": 394503,
+        "word": "黄嘉仪终于清醒了",
+        "onboard_time": 1696470455,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393795,
+        "num": 393795,
+        "word": "反超日本队的最后一棒是谁",
+        "onboard_time": 1696468713,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324512,
+        "num": 324512,
+        "word": "泰国王王后派代表看望受伤中国公民",
+        "onboard_time": 1696467993,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314699,
+        "num": 314699,
+        "word": "张镇麟踢广告牌",
+        "onboard_time": 1696470212,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289399,
+        "num": 289399,
+        "word": "赵继伟道歉",
+        "onboard_time": 1696433557,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284312,
+        "num": 284312,
+        "word": "多囊",
+        "onboard_time": 1696452615,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 280052,
+        "num": 280052,
+        "word": "王心凌第一次爱的人全场大合唱",
+        "onboard_time": 1696470392,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 273475,
+        "num": 273475,
+        "word": "全红婵与教练陈若琳的夺金动作对比",
+        "onboard_time": 1696464088,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 657023,
+        "num": 272191,
+        "word": "坐下来撒尿的男人",
+        "onboard_time": 1696470991,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 457672,
+        "num": 269740,
+        "word": "我儿子现在是我的岳父",
+        "onboard_time": 1696465529,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264865,
+        "num": 264865,
+        "word": "黄明昊 哥哥们太爱我怎么办",
+        "onboard_time": 1696468713,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254777,
+        "num": 254777,
+        "word": "黄子诚被扔下海",
+        "onboard_time": 1696467873,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254632,
+        "num": 254632,
+        "word": "在杭州居然点到了黑色炸鸡",
+        "onboard_time": 1696469792,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 238666,
+        "num": 238666,
+        "word": "恋爱脑知道自己是恋爱脑吗",
+        "onboard_time": 1696471592,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217798,
+        "num": 217798,
+        "word": "南阳迷笛音乐节物品失窃引地域攻击",
+        "onboard_time": 1696433437,
+        "rank": 26,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 215698,
+        "num": 215698,
+        "word": "全红婵展示自己的小乌龟",
+        "onboard_time": 1696462464,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205618,
+        "num": 205618,
+        "word": "南阳警方称目前还未抓到嫌疑人",
+        "onboard_time": 1696422636,
+        "rank": 28,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 193658,
+        "num": 193658,
+        "word": "小犬",
+        "onboard_time": 1696466130,
+        "rank": 29,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 190749,
+        "num": 190749,
+        "word": "傅首尔日记主打一个真情实感",
+        "onboard_time": 1696472613,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183033,
+        "num": 183033,
+        "word": "女子通过WiFi名称跨60公里寻回手机",
+        "onboard_time": 1696444037,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182903,
+        "num": 182903,
+        "word": "韩庚王丽坤新剧打戏",
+        "onboard_time": 1696470571,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181397,
+        "num": 181397,
+        "word": "田柾国金珉奎舞蹈cha",
+        "onboard_time": 1696462827,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180239,
+        "num": 180239,
+        "word": "亚运会马拉松",
+        "onboard_time": 1696472433,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180151,
+        "num": 180151,
+        "word": "卫明一家人的报应终于来了",
+        "onboard_time": 1696435474,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175779,
+        "num": 175779,
+        "word": "杨紫打卡爱在日落黄昏时取景地",
+        "onboard_time": 1696466913,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166190,
+        "num": 166190,
+        "word": "肖扬 汪雨橦",
+        "onboard_time": 1696472493,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154008,
+        "num": 154008,
+        "word": "檀健次直播",
+        "onboard_time": 1696465529,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149964,
+        "num": 149964,
+        "word": "躺在床上看手机时打开闪光灯",
+        "onboard_time": 1696435416,
+        "rank": 39,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 145088,
+        "num": 145088,
+        "word": "黄景瑜说确实很喜欢黄明昊",
+        "onboard_time": 1696461261,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143611,
+        "num": 143611,
+        "word": "林雨薇发文表白自己的首个亚运",
+        "onboard_time": 1696472553,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140685,
+        "num": 140685,
+        "word": "何杰男子马拉松金牌",
+        "onboard_time": 1696468893,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139891,
+        "num": 139891,
+        "word": "王鹤润明制大红古装造型",
+        "onboard_time": 1696472613,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134750,
+        "num": 134750,
+        "word": "男篮主帅回应最后一攻",
+        "onboard_time": 1696471232,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130629,
+        "num": 130629,
+        "word": "红围巾已经戴在巡边民警脖子上了",
+        "onboard_time": 1696472312,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129824,
+        "num": 129824,
+        "word": "张镇麟",
+        "onboard_time": 1696465591,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129334,
+        "num": 129334,
+        "word": "姚明为缺席发布会道歉",
+        "onboard_time": 1696434994,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129226,
+        "num": 129226,
+        "word": "宝宝你知道爸爸和叔叔们有多厉害吗",
+        "onboard_time": 1696462525,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127385,
+        "num": 127385,
+        "word": "兰闺喜事",
+        "onboard_time": 1696467514,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点杭州亚运会高燃时刻#"
+    }
+  }
+}
