@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696530941039,
+  "endTime": 1696533218810,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -497,6 +497,14 @@
       "onboard_time": 1696527141,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 38061,
+      "num": 38061,
+      "word": "鞠萍姐姐 绝对最佳女主角",
+      "onboard_time": 1696531219,
+      "rank": 26,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
