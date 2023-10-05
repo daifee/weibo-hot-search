@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696519121044,
+  "endTime": 1696520081198,
   "band_list": [
     {
       "raw_hot": 8258928,
@@ -259,12 +259,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1224150,
+      "num": 1224150,
+      "word": "李泽锋 轻舟已过万重山",
+      "onboard_time": 1696518159,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1177995,
       "num": 559823,
       "word": "女子住主题酒店连续3间房发现摄像头",
       "onboard_time": 1696489233,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1174515,
+      "num": 1174515,
+      "word": "陈某煽动误导村民拿东西被刑拘",
+      "onboard_time": 1696518220,
+      "rank": 5,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 1134819,
@@ -289,14 +305,6 @@
       "onboard_time": 1696495953,
       "rank": 1,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 1089917,
-      "num": 1089917,
-      "word": "李泽锋 轻舟已过万重山",
-      "onboard_time": 1696518159,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1066453,
@@ -331,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 958547,
-      "num": 958547,
-      "word": "陈某煽动误导村民拿东西被刑拘",
-      "onboard_time": 1696518220,
-      "rank": 5,
-      "category": "社会新闻,演出"
-    },
-    {
       "raw_hot": 933328,
       "num": 541185,
       "word": "杨幂发了15张图",
@@ -353,6 +353,14 @@
       "onboard_time": 1696468472,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 917579,
+      "num": 581920,
+      "word": "西安外国语大学",
+      "onboard_time": 1696518824,
+      "rank": 46,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 894578,
@@ -715,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 568234,
+      "num": 568234,
+      "word": "华晨宇把演唱会办成升学宴",
+      "onboard_time": 1696519534,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 561734,
       "num": 576233,
       "word": "日本一企业用人造子宫培育出鲨鱼",
@@ -905,6 +921,14 @@
       "onboard_time": 1696427199,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 444713,
+      "num": 444713,
+      "word": "为什么情侣要看前任4",
+      "onboard_time": 1696519058,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 441574,
@@ -1217,14 +1241,6 @@
       "onboard_time": 1696478138,
       "rank": 18,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 354815,
-      "num": 354815,
-      "word": "为什么情侣要看前任4",
-      "onboard_time": 1696519058,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 351349,
@@ -1579,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 274239,
+      "num": 274239,
+      "word": "王诗玥柳鑫宇完美演绎不完美小孩",
+      "onboard_time": 1696518220,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272088,
       "num": 272088,
       "word": "樊振东演我上学时的精神状态",
@@ -1689,14 +1713,6 @@
       "onboard_time": 1696511257,
       "rank": 32,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 259528,
-      "num": 259528,
-      "word": "王诗玥柳鑫宇完美演绎不完美小孩",
-      "onboard_time": 1696518220,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 259282,
@@ -1923,6 +1939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231688,
+      "num": 231688,
+      "word": "你睡前习惯躺床上玩手机吗",
+      "onboard_time": 1696519296,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229691,
       "num": 229691,
       "word": "当年明月作者的顶级觉悟",
@@ -2011,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222143,
+      "num": 222143,
+      "word": "李泽锋下次演个好人吧",
+      "onboard_time": 1696519116,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221879,
       "num": 221879,
       "word": "张镇麟",
@@ -2049,6 +2081,14 @@
       "onboard_time": 1696510177,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219139,
+      "num": 219139,
+      "word": "中国女篮决赛DJ有多爱张杰",
+      "onboard_time": 1696519177,
+      "rank": 34,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 218932,
@@ -2097,6 +2137,14 @@
       "onboard_time": 1696432537,
       "rank": 31,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 214227,
+      "num": 214227,
+      "word": "特工任务国安科长成为保护伞",
+      "onboard_time": 1696517021,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 211320,
@@ -2475,6 +2523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 180738,
+      "num": 180738,
+      "word": "中国女篮无畏金兰",
+      "onboard_time": 1696519477,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179359,
       "num": 179359,
       "word": "郑秀晶黑色亮片吊带裙",
@@ -2593,14 +2649,6 @@
       "onboard_time": 1696480176,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 167469,
-      "num": 167469,
-      "word": "西安外国语大学",
-      "onboard_time": 1696518824,
-      "rank": 46,
-      "category": "情感,教育"
     },
     {
       "raw_hot": 167266,
