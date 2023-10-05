@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696479615080,
+  "endTime": 1696480518431,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -67,6 +67,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1666127,
+      "num": 1666127,
+      "word": "第一次在恋综看到女嘉宾翻白眼",
+      "onboard_time": 1696475013,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1612589,
       "num": 1612589,
       "word": "Jennie将常驻综艺公寓404",
@@ -80,14 +88,6 @@
       "word": "秦岚这状态是喝了点吧",
       "onboard_time": 1696464390,
       "rank": 3,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 1285679,
-      "num": 1285679,
-      "word": "第一次在恋综看到女嘉宾翻白眼",
-      "onboard_time": 1696475013,
-      "rank": 17,
       "category": "综艺"
     },
     {
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 933328,
-      "num": 514438,
+      "num": 541185,
       "word": "杨幂发了15张图",
       "onboard_time": 1696474475,
       "rank": 20,
@@ -249,6 +249,14 @@
       "onboard_time": 1696433975,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 601738,
+      "num": 601738,
+      "word": "檀健次还有四部待播剧",
+      "onboard_time": 1696479634,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 598094,
@@ -475,12 +483,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 338251,
-      "num": 338251,
+      "raw_hot": 359708,
+      "num": 359708,
       "word": "部分迷笛音乐节盗窃者已被抓获",
       "onboard_time": 1696478138,
       "rank": 18,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 331809,
+      "num": 331809,
+      "word": "原来国乒队都有属于自己的教练",
+      "onboard_time": 1696479934,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 316967,
@@ -539,6 +555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 294873,
+      "num": 294873,
+      "word": "丁点 你那句我养你一点也不酷",
+      "onboard_time": 1696479335,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 288389,
       "num": 288389,
       "word": "袁娅维音乐节唱到横膈膜岔气",
@@ -569,6 +593,14 @@
       "onboard_time": 1696429960,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272754,
+      "num": 272754,
+      "word": "唐嫣拍戏受伤",
+      "onboard_time": 1696480233,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 272052,
@@ -617,6 +649,14 @@
       "onboard_time": 1696461201,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257909,
+      "num": 257909,
+      "word": "Kpop的10月belike",
+      "onboard_time": 1696476938,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 254632,
@@ -675,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240748,
-      "num": 240748,
-      "word": "Kpop的10月belike",
-      "onboard_time": 1696476938,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 240746,
       "num": 240746,
       "word": "杨紫打卡爱在日落黄昏时取景地",
@@ -699,6 +731,14 @@
       "category": "教育,科技"
     },
     {
+      "raw_hot": 231946,
+      "num": 231946,
+      "word": "樊振东的十一次一单之旅",
+      "onboard_time": 1696476994,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229691,
       "num": 229691,
       "word": "当年明月作者的顶级觉悟",
@@ -707,12 +747,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 226007,
-      "num": 226007,
-      "word": "樊振东的十一次一单之旅",
-      "onboard_time": 1696476994,
-      "rank": 28,
-      "category": "体育"
+      "raw_hot": 227322,
+      "num": 227322,
+      "word": "女方放完礼花发现来的不是自家新郎",
+      "onboard_time": 1696479274,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225764,
@@ -835,6 +875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 198250,
+      "num": 198250,
+      "word": "情侣吃饭面对面还是并排坐",
+      "onboard_time": 1696480233,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 198113,
       "num": 483298,
       "word": "中国男子4x100接力首枚奥运奖牌",
@@ -955,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172257,
-      "num": 172257,
-      "word": "丁点 你那句我养你一点也不酷",
-      "onboard_time": 1696479335,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 170511,
       "num": 170511,
       "word": "南阳迷笛被盗失主称营地没监控",
@@ -987,6 +1027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166154,
+      "num": 156858,
+      "word": "在朋友婚礼上听到了最好的结婚誓词",
+      "onboard_time": 1696480176,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 165876,
       "num": 165876,
       "word": "封神第一部进入中国影史票房TOP23",
@@ -1001,14 +1049,6 @@
       "onboard_time": 1696428526,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159858,
-      "num": 159858,
-      "word": "女方放完礼花发现来的不是自家新郎",
-      "onboard_time": 1696479274,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 158648,
@@ -1073,6 +1113,14 @@
       "onboard_time": 1696471232,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146481,
+      "num": 146481,
+      "word": "旅俄大熊猫丁丁幼崽长出了黑马甲",
+      "onboard_time": 1696480056,
+      "rank": 42,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 145774,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1696480518431,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3109823,
+        "num": 3109823,
+        "word": "日本海啸",
+        "onboard_time": 1696474955,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1666127,
+        "num": 1666127,
+        "word": "第一次在恋综看到女嘉宾翻白眼",
+        "onboard_time": 1696475013,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9570,
+        "num": 992680,
+        "word": "杭州亚运会上的数字智能亮点",
+        "onboard_time": 1696424977,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 978579,
+        "num": 978579,
+        "word": "傅园慧当游泳教练了",
+        "onboard_time": 1696475616,
+        "rank": 3,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 908443,
+        "num": 908443,
+        "word": "秦霄贤喜欢的女生类型变了",
+        "onboard_time": 1696472250,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 715004,
+        "num": 715004,
+        "word": "Jennie将常驻综艺公寓404",
+        "onboard_time": 1696474172,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 671900,
+        "num": 671900,
+        "word": "迷笛再回应乐迷财物被盗事件",
+        "onboard_time": 1696476755,
+        "rank": 6,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 620867,
+        "num": 620867,
+        "word": "医生提醒24小时吃遍一座城不可取",
+        "onboard_time": 1696476096,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601738,
+        "num": 601738,
+        "word": "檀健次还有四部待播剧",
+        "onboard_time": 1696479634,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558925,
+        "num": 558925,
+        "word": "印度一家医院12名婴儿同日死亡",
+        "onboard_time": 1696474475,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1186652,
+        "num": 546507,
+        "word": "没领证的姑爷比驴都能干",
+        "onboard_time": 1696474113,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606883,
+        "num": 542741,
+        "word": "南阳音乐节盗窃事件的最大启示",
+        "onboard_time": 1696468292,
+        "rank": 11,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 578029,
+        "num": 541185,
+        "word": "杨幂发了15张图",
+        "onboard_time": 1696474475,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 532058,
+        "num": 532058,
+        "word": "研一男生入学1个月被邀当导师伴郎",
+        "onboard_time": 1696469792,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438369,
+        "num": 438369,
+        "word": "王楚钦孙颖莎今日领衔出战",
+        "onboard_time": 1696477418,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480044,
+        "num": 437456,
+        "word": "迷笛",
+        "onboard_time": 1696477474,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429531,
+        "num": 429531,
+        "word": "乔欣说车停不好就把路堵上",
+        "onboard_time": 1696464150,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 409048,
+        "num": 409048,
+        "word": "张艺兴差点说出EXO",
+        "onboard_time": 1696465469,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359708,
+        "num": 359708,
+        "word": "部分迷笛音乐节盗窃者已被抓获",
+        "onboard_time": 1696478138,
+        "rank": 18,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 331809,
+        "num": 331809,
+        "word": "原来国乒队都有属于自己的教练",
+        "onboard_time": 1696479934,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310361,
+        "num": 310361,
+        "word": "我儿子现在是我的岳父",
+        "onboard_time": 1696465529,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305152,
+        "num": 305152,
+        "word": "迪丽热巴花少5拍照姿势",
+        "onboard_time": 1696474774,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294873,
+        "num": 294873,
+        "word": "丁点 你那句我养你一点也不酷",
+        "onboard_time": 1696479335,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275356,
+        "num": 275356,
+        "word": "秦岚这状态是喝了点吧",
+        "onboard_time": 1696464390,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 259632,
+        "num": 273291,
+        "word": "坐下来撒尿的男人",
+        "onboard_time": 1696470991,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272754,
+        "num": 272754,
+        "word": "唐嫣拍戏受伤",
+        "onboard_time": 1696480233,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265207,
+        "num": 265207,
+        "word": "王丽坤老年妆",
+        "onboard_time": 1696476755,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257909,
+        "num": 257909,
+        "word": "Kpop的10月belike",
+        "onboard_time": 1696476938,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231946,
+        "num": 231946,
+        "word": "樊振东的十一次一单之旅",
+        "onboard_time": 1696476994,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230974,
+        "num": 230974,
+        "word": "王仕鹏 怕这批球员站不起来了",
+        "onboard_time": 1696473932,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229287,
+        "num": 229287,
+        "word": "袁娅维音乐节唱到横膈膜岔气",
+        "onboard_time": 1696477954,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227322,
+        "num": 227322,
+        "word": "女方放完礼花发现来的不是自家新郎",
+        "onboard_time": 1696479274,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210089,
+        "num": 210089,
+        "word": "中国跳水包揽49年全部金牌",
+        "onboard_time": 1696474894,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198250,
+        "num": 198250,
+        "word": "情侣吃饭面对面还是并排坐",
+        "onboard_time": 1696480233,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188422,
+        "num": 188422,
+        "word": "返程聪明人",
+        "onboard_time": 1696471592,
+        "rank": 34,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 182037,
+        "num": 182037,
+        "word": "姚瑶进ICU给病人下药",
+        "onboard_time": 1696468472,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172679,
+        "num": 172679,
+        "word": "迷笛盗窃事件或受短视频误导",
+        "onboard_time": 1696466250,
+        "rank": 36,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 170956,
+        "num": 170956,
+        "word": "提前返程结果1小时开了10公里",
+        "onboard_time": 1696464207,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156955,
+        "num": 156955,
+        "word": "婴儿感染流脑24小时内可致死",
+        "onboard_time": 1696473272,
+        "rank": 38,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 166154,
+        "num": 156858,
+        "word": "在朋友婚礼上听到了最好的结婚誓词",
+        "onboard_time": 1696480176,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 156715,
+        "num": 156715,
+        "word": "黄嘉仪终于清醒了",
+        "onboard_time": 1696470455,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152071,
+        "num": 152071,
+        "word": "如果贾玲来演江喜",
+        "onboard_time": 1696474232,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146481,
+        "num": 146481,
+        "word": "旅俄大熊猫丁丁幼崽长出了黑马甲",
+        "onboard_time": 1696480056,
+        "rank": 42,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 142731,
+        "num": 142731,
+        "word": "导游用激光笔照龙门石窟大佛",
+        "onboard_time": 1696463006,
+        "rank": 43,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 140763,
+        "num": 140763,
+        "word": "全红婵展示自己的小乌龟",
+        "onboard_time": 1696462464,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133079,
+        "num": 133079,
+        "word": "旅俄熊猫新生宝宝马上就要睁眼啦",
+        "onboard_time": 1696478556,
+        "rank": 45,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 126238,
+        "num": 126238,
+        "word": "在杭州居然点到了黑色炸鸡",
+        "onboard_time": 1696469792,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122790,
+        "num": 122790,
+        "word": "恋爱脑知道自己是恋爱脑吗",
+        "onboard_time": 1696471592,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120626,
+        "num": 120626,
+        "word": "大熊猫原来是这样度假的",
+        "onboard_time": 1696478797,
+        "rank": 48,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 119252,
+        "num": 119252,
+        "word": "日本开始第二轮核污染水排海",
+        "onboard_time": 1696473094,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点杭州亚运会高燃时刻#"
+    }
+  }
+}
