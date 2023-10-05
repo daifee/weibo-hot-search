@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696516512083,
+  "endTime": 1696519121044,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -715,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1693395,
+      "num": 1693395,
+      "word": "南阳官方通报音乐节盗窃事件",
+      "onboard_time": 1696517797,
+      "rank": 1,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 1692050,
       "num": 1692050,
       "word": "苹果承认iPhone15系列运行温度过高",
@@ -1259,6 +1267,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 1267283,
+      "num": 1267283,
+      "word": "全红婵唯一的炸鱼方式",
+      "onboard_time": 1696516539,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1259579,
       "num": 1259579,
       "word": "樊振东晋级决赛",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1696375523,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1089917,
+      "num": 1089917,
+      "word": "李泽锋 轻舟已过万重山",
+      "onboard_time": 1696518159,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 1069162,
@@ -1769,6 +1793,14 @@
       "onboard_time": 1696259080,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 958547,
+      "num": 958547,
+      "word": "陈某煽动误导村民拿东西被刑拘",
+      "onboard_time": 1696518220,
+      "rank": 5,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 956555,
@@ -2356,7 +2388,7 @@
     },
     {
       "raw_hot": 786920,
-      "num": 528363,
+      "num": 771030,
       "word": "李梦美甲",
       "onboard_time": 1696515100,
       "rank": 30,
@@ -2505,6 +2537,14 @@
       "onboard_time": 1696138293,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 735633,
+      "num": 735633,
+      "word": "孙颖莎女单晋级16强",
+      "onboard_time": 1696516297,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 733649,
@@ -2916,7 +2956,7 @@
     },
     {
       "raw_hot": 661942,
-      "num": 609430,
+      "num": 620438,
       "word": "周也的美是遗传的",
       "onboard_time": 1696512516,
       "rank": 31,
@@ -3137,6 +3177,14 @@
       "onboard_time": 1696256677,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 624358,
+      "num": 624358,
+      "word": "徐州一婚礼场地被村民连夜搬空",
+      "onboard_time": 1696517259,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622894,
@@ -4643,6 +4691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 436838,
+      "num": 316602,
+      "word": "Jennie把一年四季穿身上",
+      "onboard_time": 1696517317,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 436572,
       "num": 436572,
       "word": "刘亦菲也是个爱碎碎念的小可爱",
@@ -5691,6 +5747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 354815,
+      "num": 354815,
+      "word": "为什么情侣要看前任4",
+      "onboard_time": 1696519058,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354534,
       "num": 386175,
       "word": "中国田径健儿递补奥运奖牌仪式",
@@ -5745,14 +5809,6 @@
       "onboard_time": 1696235973,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351840,
-      "num": 306044,
-      "word": "孙颖莎女单晋级16强",
-      "onboard_time": 1696516297,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 351490,
@@ -6299,6 +6355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 319631,
+      "num": 319631,
+      "word": "好事成双结局都是好事",
+      "onboard_time": 1696512040,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 319470,
       "num": 319470,
       "word": "mhy.LGD",
@@ -6515,12 +6579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308445,
-      "num": 308445,
-      "word": "好事成双结局都是好事",
-      "onboard_time": 1696512040,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 308048,
+      "num": 308048,
+      "word": "女篮BGM 鹿晗勋章",
+      "onboard_time": 1696516361,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 307942,
@@ -6969,6 +7033,14 @@
       "onboard_time": 1696235795,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 291731,
+      "num": 291731,
+      "word": "男篮",
+      "onboard_time": 1696516422,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 291556,
@@ -7931,6 +8003,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 259528,
+      "num": 259528,
+      "word": "王诗玥柳鑫宇完美演绎不完美小孩",
+      "onboard_time": 1696518220,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259282,
       "num": 259282,
       "word": "韩旭勾手美如画",
@@ -8025,6 +8105,14 @@
       "onboard_time": 1696237353,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 256333,
+      "num": 256333,
+      "word": "杨力维",
+      "onboard_time": 1696516718,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 256306,
@@ -8313,6 +8401,14 @@
       "onboard_time": 1696471592,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246192,
+      "num": 246192,
+      "word": "张艺兴万妮达合照",
+      "onboard_time": 1696518038,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 245526,
@@ -10467,14 +10563,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 193279,
-      "num": 193279,
-      "word": "女篮BGM 鹿晗勋章",
-      "onboard_time": 1696516361,
-      "rank": 45,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 193271,
       "num": 193271,
       "word": "宣璐珍珠花钿",
@@ -10553,6 +10641,14 @@
       "onboard_time": 1696244675,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 192058,
+      "num": 192058,
+      "word": "全红婵水花比我下饺子还小",
+      "onboard_time": 1696517620,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 191562,
@@ -11131,14 +11227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178700,
-      "num": 178700,
-      "word": "男篮",
-      "onboard_time": 1696516422,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178539,
       "num": 178539,
       "word": "北方人真的很少吃杨桃吗",
@@ -11403,6 +11491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172465,
+      "num": 172465,
+      "word": "于嘉哽咽了",
+      "onboard_time": 1696516482,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172231,
       "num": 172231,
       "word": "陈佳鹏年轻的战场",
@@ -11547,6 +11643,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167469,
+      "num": 167469,
+      "word": "西安外国语大学",
+      "onboard_time": 1696518824,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 167282,
       "num": 167282,
       "word": "一诺发博告别亚运之旅",
@@ -11577,14 +11681,6 @@
       "onboard_time": 1696130735,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 166657,
-      "num": 166657,
-      "word": "于嘉哽咽了",
-      "onboard_time": 1696516482,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 166597,

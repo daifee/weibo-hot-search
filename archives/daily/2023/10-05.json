@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696516512083,
+  "endTime": 1696519121044,
   "band_list": [
     {
       "raw_hot": 8258928,
@@ -147,6 +147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1693395,
+      "num": 1693395,
+      "word": "南阳官方通报音乐节盗窃事件",
+      "onboard_time": 1696517797,
+      "rank": 1,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 1678647,
       "num": 1678647,
       "word": "姚明为缺席发布会道歉",
@@ -227,6 +235,14 @@
       "category": "综艺,体育"
     },
     {
+      "raw_hot": 1267283,
+      "num": 1267283,
+      "word": "全红婵唯一的炸鱼方式",
+      "onboard_time": 1696516539,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1252085,
       "num": 1252085,
       "word": "腾讯视频 胆小模式",
@@ -275,6 +291,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 1089917,
+      "num": 1089917,
+      "word": "李泽锋 轻舟已过万重山",
+      "onboard_time": 1696518159,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1066453,
       "num": 1066453,
       "word": "张艺兴 UZI",
@@ -305,6 +329,14 @@
       "onboard_time": 1696508194,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 958547,
+      "num": 958547,
+      "word": "陈某煽动误导村民拿东西被刑拘",
+      "onboard_time": 1696518220,
+      "rank": 5,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 933328,
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 786920,
-      "num": 528363,
+      "num": 771030,
       "word": "李梦美甲",
       "onboard_time": 1696515100,
       "rank": 30,
@@ -449,6 +481,14 @@
       "onboard_time": 1696511436,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 735633,
+      "num": 735633,
+      "word": "孙颖莎女单晋级16强",
+      "onboard_time": 1696516297,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 731565,
@@ -516,7 +556,7 @@
     },
     {
       "raw_hot": 661942,
-      "num": 609430,
+      "num": 620438,
       "word": "周也的美是遗传的",
       "onboard_time": 1696512516,
       "rank": 31,
@@ -585,6 +625,14 @@
       "onboard_time": 1696513607,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 624358,
+      "num": 624358,
+      "word": "徐州一婚礼场地被村民连夜搬空",
+      "onboard_time": 1696517259,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 612150,
@@ -883,6 +931,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 436838,
+      "num": 316602,
+      "word": "Jennie把一年四季穿身上",
+      "onboard_time": 1696517317,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 435432,
       "num": 350422,
       "word": "王楚钦3比1英田理志",
@@ -1163,12 +1219,12 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 351840,
-      "num": 306044,
-      "word": "孙颖莎女单晋级16强",
-      "onboard_time": 1696516297,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 354815,
+      "num": 354815,
+      "word": "为什么情侣要看前任4",
+      "onboard_time": 1696519058,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 351349,
@@ -1243,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 319631,
+      "num": 319631,
+      "word": "好事成双结局都是好事",
+      "onboard_time": 1696512040,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316967,
       "num": 316967,
       "word": "张镇麟踢广告牌",
@@ -1291,12 +1355,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308445,
-      "num": 308445,
-      "word": "好事成双结局都是好事",
-      "onboard_time": 1696512040,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 308048,
+      "num": 308048,
+      "word": "女篮BGM 鹿晗勋章",
+      "onboard_time": 1696516361,
+      "rank": 45,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 307175,
@@ -1401,6 +1465,14 @@
       "onboard_time": 1696494513,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291731,
+      "num": 291731,
+      "word": "男篮",
+      "onboard_time": 1696516422,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 291081,
@@ -1619,6 +1691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 259528,
+      "num": 259528,
+      "word": "王诗玥柳鑫宇完美演绎不完美小孩",
+      "onboard_time": 1696518220,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 259282,
       "num": 259282,
       "word": "韩旭勾手美如画",
@@ -1641,6 +1721,14 @@
       "onboard_time": 1696476938,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 256333,
+      "num": 256333,
+      "word": "杨力维",
+      "onboard_time": 1696516718,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 254632,
@@ -1705,6 +1793,14 @@
       "onboard_time": 1696471592,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246192,
+      "num": 246192,
+      "word": "张艺兴万妮达合照",
+      "onboard_time": 1696518038,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 245526,
@@ -2251,14 +2347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193279,
-      "num": 193279,
-      "word": "女篮BGM 鹿晗勋章",
-      "onboard_time": 1696516361,
-      "rank": 45,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 193271,
       "num": 193271,
       "word": "宣璐珍珠花钿",
@@ -2296,6 +2384,14 @@
       "word": "体操奥运冠军邓琳琳在宁波结婚",
       "onboard_time": 1696492832,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 192058,
+      "num": 192058,
+      "word": "全红婵水花比我下饺子还小",
+      "onboard_time": 1696517620,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -2387,14 +2483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 178700,
-      "num": 178700,
-      "word": "男篮",
-      "onboard_time": 1696516422,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 178473,
       "num": 178473,
       "word": "田柾国直播",
@@ -2475,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172465,
+      "num": 172465,
+      "word": "于嘉哽咽了",
+      "onboard_time": 1696516482,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170511,
       "num": 170511,
       "word": "南阳迷笛被盗失主称营地没监控",
@@ -2499,20 +2595,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167469,
+      "num": 167469,
+      "word": "西安外国语大学",
+      "onboard_time": 1696518824,
+      "rank": 46,
+      "category": "情感,教育"
+    },
+    {
       "raw_hot": 167266,
       "num": 167266,
       "word": "李明伦情商",
       "onboard_time": 1696486114,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166657,
-      "num": 166657,
-      "word": "于嘉哽咽了",
-      "onboard_time": 1696516482,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 166545,
