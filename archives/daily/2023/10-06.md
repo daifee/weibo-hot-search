@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/06 00:23:25 ~ 2023/10/06 05:34:07
+本榜单时间：2023/10/06 00:23:25 ~ 2023/10/06 06:15:58
 </p>
 </blockquote>
 <p>
@@ -393,6 +393,12 @@ MINJI I love You 3000 cover（热度：241153）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
+爷爷奶奶的忠告治好了年轻人的焦虑（热度：40185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E8%90%8D%E5%A7%90%E5%A7%90%20%E7%BB%9D%E5%AF%B9%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
 鞠萍姐姐 绝对最佳女主角（热度：38061）
 </a>
@@ -406,13 +412,7 @@ MINJI I love You 3000 cover（热度：241153）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%84%BF%E5%AD%90%E9%99%AA95%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%99%92%E5%A4%AA%E9%98%B3%E7%9C%8B%E5%9B%BE%E8%AF%86%E7%89%A9%23" target="weibo">
-62岁儿子陪95岁母亲晒太阳看图识物（热度：31365）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
-爷爷奶奶的忠告治好了年轻人的焦虑（热度：21694）
+62岁儿子陪95岁母亲晒太阳看图识物（热度：31379）
 </a>
 </li>
 

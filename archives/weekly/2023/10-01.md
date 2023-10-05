@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 05:34:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 06:15:58
 </p>
 </blockquote>
 <p>
@@ -10719,6 +10719,12 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
+爷爷奶奶的忠告治好了年轻人的焦虑（热度：40185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9E%A0%E8%90%8D%E5%A7%90%E5%A7%90%20%E7%BB%9D%E5%AF%B9%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
 鞠萍姐姐 绝对最佳女主角（热度：38061）
 </a>
@@ -10816,7 +10822,7 @@ IVE专辑预告视频（热度：104512）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%84%BF%E5%AD%90%E9%99%AA95%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%99%92%E5%A4%AA%E9%98%B3%E7%9C%8B%E5%9B%BE%E8%AF%86%E7%89%A9%23" target="weibo">
-62岁儿子陪95岁母亲晒太阳看图识物（热度：31365）
+62岁儿子陪95岁母亲晒太阳看图识物（热度：31379）
 </a>
 </li>
 
@@ -10889,12 +10895,6 @@ iQOO手机见证中国电竞冲金时刻（热度：24438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E5%92%8C%E4%BC%9F%20%E8%83%BD%E7%9C%8B%E5%88%B0%E5%B0%B1%E4%B8%8D%E9%94%99%E4%BA%86%E8%BF%98%E8%A6%81%E5%95%A5%E8%87%AA%E8%A1%8C%E8%BD%A6%23" target="weibo">
 于和伟 能看到就不错了还要啥自行车（热度：23578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
-爷爷奶奶的忠告治好了年轻人的焦虑（热度：21694）
 </a>
 </li>
 
