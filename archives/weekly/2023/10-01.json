@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696476845922,
+  "endTime": 1696479615080,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 3472438,
+      "num": 3472438,
+      "word": "日本海啸",
+      "onboard_time": 1696474955,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3432896,
       "num": 2151573,
       "word": "权志龙离开YG加入华纳",
@@ -241,14 +249,6 @@
       "onboard_time": 1696239214,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2590525,
-      "num": 2590525,
-      "word": "日本海啸",
-      "onboard_time": 1696474955,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2580234,
@@ -1107,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1285679,
+      "num": 1285679,
+      "word": "第一次在恋综看到女嘉宾翻白眼",
+      "onboard_time": 1696475013,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1272801,
       "num": 1272801,
       "word": "亚运会乒乓球男单决赛",
@@ -1115,20 +1123,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1269580,
+      "num": 556805,
+      "word": "没领证的姑爷比驴都能干",
+      "onboard_time": 1696474113,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1269396,
+      "num": 1269396,
+      "word": "傅园慧当游泳教练了",
+      "onboard_time": 1696475616,
+      "rank": 12,
+      "category": "综艺,体育"
+    },
+    {
       "raw_hot": 1259579,
       "num": 1259579,
       "word": "樊振东晋级决赛",
       "onboard_time": 1696230274,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1254197,
-      "num": 1254197,
-      "word": "傅园慧当游泳教练了",
-      "onboard_time": 1696475616,
-      "rank": 12,
-      "category": "综艺,体育"
     },
     {
       "raw_hot": 1237386,
@@ -1265,14 +1281,6 @@
       "onboard_time": 1696421675,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1133907,
-      "num": 556805,
-      "word": "没领证的姑爷比驴都能干",
-      "onboard_time": 1696474113,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1129433,
@@ -1620,7 +1628,7 @@
     },
     {
       "raw_hot": 933328,
-      "num": 420990,
+      "num": 514438,
       "word": "杨幂发了15张图",
       "onboard_time": 1696474475,
       "rank": 20,
@@ -1889,14 +1897,6 @@
       "onboard_time": 1696252181,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 842651,
-      "num": 842651,
-      "word": "第一次在恋综看到女嘉宾翻白眼",
-      "onboard_time": 1696475013,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 841669,
@@ -2225,6 +2225,14 @@
       "onboard_time": 1696295552,
       "rank": 3,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 753059,
+      "num": 753059,
+      "word": "迷笛再回应乐迷财物被盗事件",
+      "onboard_time": 1696476755,
+      "rank": 30,
+      "category": "社会新闻,综艺"
     },
     {
       "raw_hot": 747841,
@@ -2691,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 640142,
+      "num": 640142,
+      "word": "医生提醒24小时吃遍一座城不可取",
+      "onboard_time": 1696476096,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 638230,
       "num": 534826,
       "word": "新郎结婚当天被锁上大铁链",
@@ -2961,6 +2977,14 @@
       "onboard_time": 1696291048,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 594281,
+      "num": 594281,
+      "word": "印度一家医院12名婴儿同日死亡",
+      "onboard_time": 1696474475,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593220,
@@ -3683,6 +3707,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 482722,
+      "num": 482722,
+      "word": "迷笛",
+      "onboard_time": 1696096101,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 482450,
       "num": 482450,
       "word": "路边摊的臭豆腐到底有多脏",
@@ -3851,6 +3883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 466062,
+      "num": 466062,
+      "word": "王楚钦孙颖莎今日领衔出战",
+      "onboard_time": 1696477418,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465272,
       "num": 339468,
       "word": "女孩租房一年反复过敏发现床垫发霉",
@@ -3881,14 +3921,6 @@
       "onboard_time": 1696158333,
       "rank": 18,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 462338,
-      "num": 452751,
-      "word": "印度一家医院12名婴儿同日死亡",
-      "onboard_time": 1696474475,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 462211,
@@ -4635,14 +4667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 384402,
-      "num": 251045,
-      "word": "迷笛再回应乐迷财物被盗事件",
-      "onboard_time": 1696476755,
-      "rank": 30,
-      "category": "社会新闻,综艺"
-    },
-    {
       "raw_hot": 384268,
       "num": 384268,
       "word": "诺奖新得主女儿曾两夺奥运金牌",
@@ -5257,6 +5281,14 @@
       "onboard_time": 1696246235,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338251,
+      "num": 338251,
+      "word": "部分迷笛音乐节盗窃者已被抓获",
+      "onboard_time": 1696478138,
+      "rank": 18,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 336715,
@@ -6177,6 +6209,14 @@
       "onboard_time": 1696336717,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288389,
+      "num": 288389,
+      "word": "袁娅维音乐节唱到横膈膜岔气",
+      "onboard_time": 1696477954,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 288238,
@@ -7123,14 +7163,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 252255,
-      "num": 452858,
-      "word": "医生提醒24小时吃遍一座城不可取",
-      "onboard_time": 1696476096,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251918,
       "num": 251918,
       "word": "升旗结束3男子草坪熟睡被艰难叫醒",
@@ -7425,6 +7457,14 @@
       "onboard_time": 1696384835,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240748,
+      "num": 240748,
+      "word": "Kpop的10月belike",
+      "onboard_time": 1696476938,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 240746,
@@ -7785,6 +7825,14 @@
       "onboard_time": 1696202063,
       "rank": 46,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 226007,
+      "num": 226007,
+      "word": "樊振东的十一次一单之旅",
+      "onboard_time": 1696476994,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 225948,
@@ -8947,6 +8995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196239,
+      "num": 196239,
+      "word": "旅俄熊猫新生宝宝马上就要睁眼啦",
+      "onboard_time": 1696478556,
+      "rank": 30,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 196235,
       "num": 196235,
       "word": "杜润旺三分",
@@ -9635,14 +9691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 179059,
-      "num": 179059,
-      "word": "迷笛",
-      "onboard_time": 1696096101,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 178796,
       "num": 178796,
       "word": "令人心动的offer",
@@ -9873,6 +9921,14 @@
       "onboard_time": 1696476635,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172257,
+      "num": 172257,
+      "word": "丁点 你那句我养你一点也不酷",
+      "onboard_time": 1696479335,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 172231,
@@ -10297,6 +10353,14 @@
       "onboard_time": 1696126111,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159858,
+      "num": 159858,
+      "word": "女方放完礼花发现来的不是自家新郎",
+      "onboard_time": 1696479274,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159852,
@@ -10785,6 +10849,14 @@
       "onboard_time": 1696311512,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144722,
+      "num": 144722,
+      "word": "大熊猫原来是这样度假的",
+      "onboard_time": 1696478797,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 144126,
@@ -11391,6 +11463,14 @@
       "num": 124485,
       "word": "女子撑杆跳冠军头戴发簪额点花钿领奖",
       "onboard_time": 1696291768,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123609,
+      "num": 123609,
+      "word": "张伟丽每次比赛都会带着国旗",
+      "onboard_time": 1696479516,
       "rank": 46,
       "category": "体育"
     },
