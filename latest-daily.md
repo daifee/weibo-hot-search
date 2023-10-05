@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/06 00:23:25 ~ 2023/10/06 06:15:58
+本榜单时间：2023/10/06 00:23:25 ~ 2023/10/06 06:33:59
 </p>
 </blockquote>
 <p>
@@ -394,7 +394,13 @@ MINJI I love You 3000 cover（热度：241153）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
-爷爷奶奶的忠告治好了年轻人的焦虑（热度：40185）
+爷爷奶奶的忠告治好了年轻人的焦虑（热度：49030）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%84%BF%E5%AD%90%E9%99%AA95%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%99%92%E5%A4%AA%E9%98%B3%E7%9C%8B%E5%9B%BE%E8%AF%86%E7%89%A9%23" target="weibo">
+62岁儿子陪95岁母亲晒太阳看图识物（热度：39564）
 </a>
 </li>
 
@@ -407,12 +413,6 @@ MINJI I love You 3000 cover（热度：241153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E4%BA%9A%E8%BF%90%E7%AC%AC%E4%B8%83%E5%86%A0%23" target="weibo">
 中国女篮亚运第七冠（热度：36457）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%84%BF%E5%AD%90%E9%99%AA95%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%99%92%E5%A4%AA%E9%98%B3%E7%9C%8B%E5%9B%BE%E8%AF%86%E7%89%A9%23" target="weibo">
-62岁儿子陪95岁母亲晒太阳看图识物（热度：31379）
 </a>
 </li>
 

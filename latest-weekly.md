@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 06:15:58
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 06:33:59
 </p>
 </blockquote>
 <p>
@@ -10671,6 +10671,12 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
+爷爷奶奶的忠告治好了年轻人的焦虑（热度：49030）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%9F%B3%E4%B9%90%E8%8A%82%E8%B4%B5%E9%98%B3%23" target="weibo">
 薛之谦音乐节贵阳（热度：47798）
 </a>
@@ -10719,8 +10725,8 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
-爷爷奶奶的忠告治好了年轻人的焦虑（热度：40185）
+<a href="https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%84%BF%E5%AD%90%E9%99%AA95%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%99%92%E5%A4%AA%E9%98%B3%E7%9C%8B%E5%9B%BE%E8%AF%86%E7%89%A9%23" target="weibo">
+62岁儿子陪95岁母亲晒太阳看图识物（热度：39564）
 </a>
 </li>
 
@@ -10817,12 +10823,6 @@ IVE专辑预告视频（热度：104512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%23" target="weibo">
 十一假期的正确打开方式（热度：31525）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2362%E5%B2%81%E5%84%BF%E5%AD%90%E9%99%AA95%E5%B2%81%E6%AF%8D%E4%BA%B2%E6%99%92%E5%A4%AA%E9%98%B3%E7%9C%8B%E5%9B%BE%E8%AF%86%E7%89%A9%23" target="weibo">
-62岁儿子陪95岁母亲晒太阳看图识物（热度：31379）
 </a>
 </li>
 

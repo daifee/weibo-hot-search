@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696544158020,
+  "endTime": 1696545239734,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -507,12 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40185,
-      "num": 34947,
+      "raw_hot": 49030,
+      "num": 49030,
       "word": "爷爷奶奶的忠告治好了年轻人的焦虑",
       "onboard_time": 1696540094,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 39564,
+      "num": 39564,
+      "word": "62岁儿子陪95岁母亲晒太阳看图识物",
+      "onboard_time": 1696533075,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38061,
@@ -529,14 +537,6 @@
       "onboard_time": 1696536793,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31379,
-      "num": 31379,
-      "word": "62岁儿子陪95岁母亲晒太阳看图识物",
-      "onboard_time": 1696533075,
-      "rank": 23,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
