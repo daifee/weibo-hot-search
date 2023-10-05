@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696498478490,
+  "endTime": 1696501165043,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -17,6 +17,14 @@
       "onboard_time": 1696472250,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2511607,
+      "num": 2511607,
+      "word": "日本一火山喷发",
+      "onboard_time": 1696498414,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2401767,
@@ -187,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1012820,
+      "num": 372943,
+      "word": "女生气血不足的6个表现",
+      "onboard_time": 1696497515,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 933328,
       "num": 541185,
       "word": "杨幂发了15张图",
@@ -219,6 +235,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 887001,
+      "num": 887001,
+      "word": "林高远王曼昱1比3张本智和早田希娜",
+      "onboard_time": 1696498831,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 885348,
       "num": 885348,
       "word": "乔欣回应停车言论争议",
@@ -241,14 +265,6 @@
       "onboard_time": 1696480233,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 811808,
-      "num": 284024,
-      "word": "女生气血不足的6个表现",
-      "onboard_time": 1696497515,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 805071,
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 703589,
-      "num": 432962,
+      "num": 531675,
       "word": "找到冠军咬奖牌的原因了",
       "onboard_time": 1696496431,
       "rank": 11,
@@ -339,6 +355,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 641994,
+      "num": 641994,
+      "word": "女孩放弃买钻戒花50万买金条",
+      "onboard_time": 1696495593,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 640142,
       "num": 640142,
       "word": "医生提醒24小时吃遍一座城不可取",
@@ -353,14 +377,6 @@
       "onboard_time": 1696420055,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 618900,
-      "num": 618900,
-      "word": "女孩放弃买钻戒花50万买金条",
-      "onboard_time": 1696495593,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 612150,
@@ -500,11 +516,19 @@
     },
     {
       "raw_hot": 491348,
-      "num": 318815,
+      "num": 368463,
       "word": "鲁迅的家离三味书屋这么近还迟到",
       "onboard_time": 1696492954,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 487007,
+      "num": 487007,
+      "word": "中韩男星时装周状态",
+      "onboard_time": 1696500272,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 484688,
@@ -635,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415257,
+      "num": 898982,
+      "word": "快递员配货时盗窃一个面包被拘",
+      "onboard_time": 1696499432,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 409516,
       "num": 394503,
       "word": "黄嘉仪终于清醒了",
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383595,
+      "num": 383595,
+      "word": "残雪",
+      "onboard_time": 1696498233,
+      "rank": 41,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 382007,
       "num": 382007,
       "word": "男篮发布会",
@@ -787,12 +827,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 315938,
+      "num": 506291,
+      "word": "泰国枪击案凶手成绩优异沉迷游戏",
+      "onboard_time": 1696499376,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314623,
       "num": 314623,
       "word": "黄景瑜说确实很喜欢黄明昊",
       "onboard_time": 1696461261,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 309327,
+      "num": 309327,
+      "word": "黄子诚姚瑶分手",
+      "onboard_time": 1696497874,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 308599,
@@ -867,14 +923,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 295296,
-      "num": 274953,
-      "word": "黄子诚姚瑶分手",
-      "onboard_time": 1696497874,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 294873,
       "num": 294873,
       "word": "丁点 你那句我养你一点也不酷",
@@ -923,12 +971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280236,
+      "num": 280236,
+      "word": "吉克隽逸戴的是泸沽湖畔捡的花",
+      "onboard_time": 1696499493,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 280052,
       "num": 280052,
       "word": "王心凌第一次爱的人全场大合唱",
       "onboard_time": 1696470392,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 276792,
+      "num": 276792,
+      "word": "台风",
+      "onboard_time": 1696500514,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275726,
@@ -1227,6 +1291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222658,
+      "num": 222658,
+      "word": "律政杨天真",
+      "onboard_time": 1696498593,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221879,
       "num": 221879,
       "word": "张镇麟",
@@ -1380,7 +1452,7 @@
     },
     {
       "raw_hot": 200009,
-      "num": 200009,
+      "num": 948406,
       "word": "这是电动车不可承受之重",
       "onboard_time": 1696493915,
       "rank": 28,
@@ -1425,6 +1497,14 @@
       "onboard_time": 1696474113,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197799,
+      "num": 197799,
+      "word": "Gogoing举办婚礼",
+      "onboard_time": 1696500573,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 196666,
@@ -1587,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176865,
-      "num": 176865,
-      "word": "日本一火山喷发",
-      "onboard_time": 1696498414,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176691,
       "num": 176691,
       "word": "陈芋汐1分钟回答23个问题",
@@ -1739,6 +1811,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157498,
+      "num": 157498,
+      "word": "南阳车主自发组队免费接送乐迷",
+      "onboard_time": 1696499013,
+      "rank": 39,
+      "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 156969,
+      "num": 156969,
+      "word": "高铁不脏手薯片吃法",
+      "onboard_time": 1696501114,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 156433,
       "num": 156433,
       "word": "三大洲6国申办2030世界杯",
@@ -1803,14 +1891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153055,
-      "num": 153055,
-      "word": "残雪",
-      "onboard_time": 1696498233,
-      "rank": 41,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 151439,
       "num": 151439,
       "word": "中国女篮vs日本女篮",
@@ -1824,6 +1904,14 @@
       "word": "杭州亚运会田径收官日",
       "onboard_time": 1696467812,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150851,
+      "num": 150851,
+      "word": "2023上海超级杯",
+      "onboard_time": 1696500272,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1963,10 +2051,34 @@
       "category": "自然,社会新闻"
     },
     {
+      "raw_hot": 133553,
+      "num": 133553,
+      "word": "华语影史最好的战争电影",
+      "onboard_time": 1696501055,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 132665,
+      "num": 132665,
+      "word": "李健太湖湾音乐节",
+      "onboard_time": 1696499314,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131136,
       "num": 131136,
       "word": "切阳什姐回应领奖落泪",
       "onboard_time": 1696476635,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130916,
+      "num": 130916,
+      "word": "女排",
+      "onboard_time": 1696499254,
       "rank": 49,
       "category": "体育"
     },
@@ -2004,7 +2116,7 @@
     },
     {
       "raw_hot": 124717,
-      "num": 1126973,
+      "num": 1256607,
       "word": "杭州亚运会处处都有显眼包",
       "onboard_time": 1696493552,
       "rank": 2,
@@ -2049,6 +2161,14 @@
       "onboard_time": 1696462285,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104643,
+      "num": 780222,
+      "word": "如果感到幸福你就跺ta脚",
+      "onboard_time": 1696497573,
+      "rank": 6,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 93703,

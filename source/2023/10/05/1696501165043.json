@@ -1,0 +1,410 @@
+{
+  "runTime": 1696501165043,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2511607,
+        "num": 2511607,
+        "word": "日本一火山喷发",
+        "onboard_time": 1696498414,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1814840,
+        "num": 1814840,
+        "word": "爱情公狱",
+        "onboard_time": 1696495113,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116229,
+        "num": 1256607,
+        "word": "杭州亚运会处处都有显眼包",
+        "onboard_time": 1696493552,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163135,
+        "num": 948406,
+        "word": "这是电动车不可承受之重",
+        "onboard_time": 1696493915,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415257,
+        "num": 898982,
+        "word": "快递员配货时盗窃一个面包被拘",
+        "onboard_time": 1696499432,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 887001,
+        "num": 887001,
+        "word": "林高远王曼昱1比3张本智和早田希娜",
+        "onboard_time": 1696498831,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104643,
+        "num": 780222,
+        "word": "如果感到幸福你就跺ta脚",
+        "onboard_time": 1696497573,
+        "rank": 6,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 738580,
+        "num": 738580,
+        "word": "张艺兴 UZI",
+        "onboard_time": 1696492650,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 641994,
+        "num": 641994,
+        "word": "女孩放弃买钻戒花50万买金条",
+        "onboard_time": 1696495593,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536538,
+        "num": 536538,
+        "word": "广州塔这辈子没被这样看过",
+        "onboard_time": 1696495532,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 690484,
+        "num": 535235,
+        "word": "女子住主题酒店连续3间房发现摄像头",
+        "onboard_time": 1696489233,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531675,
+        "num": 531675,
+        "word": "找到冠军咬奖牌的原因了",
+        "onboard_time": 1696496431,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 517382,
+        "num": 517382,
+        "word": "腾讯视频 胆小模式",
+        "onboard_time": 1696488754,
+        "rank": 12,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 315938,
+        "num": 506291,
+        "word": "泰国枪击案凶手成绩优异沉迷游戏",
+        "onboard_time": 1696499376,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186200,
+        "num": 501084,
+        "word": "迷笛称警方已抓获一些盗窃者",
+        "onboard_time": 1696483054,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500060,
+        "num": 500060,
+        "word": "我的国家没参赛我来支持中国队",
+        "onboard_time": 1696487255,
+        "rank": 15,
+        "category": "情感,体育"
+      },
+      {
+        "raw_hot": 487007,
+        "num": 487007,
+        "word": "中韩男星时装周状态",
+        "onboard_time": 1696500272,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 407551,
+        "num": 407551,
+        "word": "镇政府村干部回应南阳迷笛音乐节失窃",
+        "onboard_time": 1696496854,
+        "rank": 17,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 383595,
+        "num": 383595,
+        "word": "残雪",
+        "onboard_time": 1696498233,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 373832,
+        "num": 373832,
+        "word": "全红婵的弹跳没有地心引力",
+        "onboard_time": 1696481134,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012820,
+        "num": 372943,
+        "word": "女生气血不足的6个表现",
+        "onboard_time": 1696497515,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 368463,
+        "num": 368463,
+        "word": "鲁迅的家离三味书屋这么近还迟到",
+        "onboard_time": 1696492954,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323464,
+        "num": 323464,
+        "word": "第一次在恋综看到女嘉宾翻白眼",
+        "onboard_time": 1696475013,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309327,
+        "num": 309327,
+        "word": "黄子诚姚瑶分手",
+        "onboard_time": 1696497874,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280236,
+        "num": 280236,
+        "word": "吉克隽逸戴的是泸沽湖畔捡的花",
+        "onboard_time": 1696499493,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276792,
+        "num": 276792,
+        "word": "台风",
+        "onboard_time": 1696500514,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237057,
+        "num": 237057,
+        "word": "泰国选手跳水炸鱼把自己逗笑了",
+        "onboard_time": 1696491335,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231958,
+        "num": 231958,
+        "word": "黄轩 病娇",
+        "onboard_time": 1696496614,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222658,
+        "num": 222658,
+        "word": "律政杨天真",
+        "onboard_time": 1696498593,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213004,
+        "num": 213004,
+        "word": "乔欣回应停车言论争议",
+        "onboard_time": 1696484792,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205111,
+        "num": 205111,
+        "word": "王楚钦3比1英田理志",
+        "onboard_time": 1696496373,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143856,
+        "num": 200579,
+        "word": "研一男生入学1个月被邀当导师伴郎",
+        "onboard_time": 1696469792,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197799,
+        "num": 197799,
+        "word": "Gogoing举办婚礼",
+        "onboard_time": 1696500573,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 184882,
+        "num": 184882,
+        "word": "新郎是逃犯婚礼结束被带走",
+        "onboard_time": 1696492832,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179994,
+        "num": 179994,
+        "word": "VOGUE评选巴黎时装周最时尚明星",
+        "onboard_time": 1696490196,
+        "rank": 34,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 178899,
+        "num": 178899,
+        "word": "Jennie将常驻综艺公寓404",
+        "onboard_time": 1696474172,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168470,
+        "num": 168470,
+        "word": "女游客四川卧龙邓生沟拍照滑落溺亡",
+        "onboard_time": 1696486654,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 160740,
+        "num": 160740,
+        "word": "刘翔110米跨栏决赛高清影像",
+        "onboard_time": 1696485573,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158841,
+        "num": 158841,
+        "word": "入境空气炸锅夹藏1.3万只蚂蚁被查",
+        "onboard_time": 1696494871,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157498,
+        "num": 157498,
+        "word": "南阳车主自发组队免费接送乐迷",
+        "onboard_time": 1696499013,
+        "rank": 39,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 156969,
+        "num": 156969,
+        "word": "高铁不脏手薯片吃法",
+        "onboard_time": 1696501114,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 154398,
+        "num": 154398,
+        "word": "陈奕迅新专辑ChinUp预告",
+        "onboard_time": 1696496736,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 153396,
+        "num": 153396,
+        "word": "能打败全红婵的只有记者",
+        "onboard_time": 1696492832,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150851,
+        "num": 150851,
+        "word": "2023上海超级杯",
+        "onboard_time": 1696500272,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143109,
+        "num": 143109,
+        "word": "封神训练营这么吃不得瘦死",
+        "onboard_time": 1696493313,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139281,
+        "num": 139281,
+        "word": "狐狸精来曾舜晞见面会了",
+        "onboard_time": 1696487671,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137176,
+        "num": 137176,
+        "word": "成毅现代剧受的伤不比古装少",
+        "onboard_time": 1696494513,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133553,
+        "num": 133553,
+        "word": "华语影史最好的战争电影",
+        "onboard_time": 1696501055,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132665,
+        "num": 132665,
+        "word": "李健太湖湾音乐节",
+        "onboard_time": 1696499314,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130916,
+        "num": 130916,
+        "word": "女排",
+        "onboard_time": 1696499254,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}
