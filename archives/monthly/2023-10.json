@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696472747722,
+  "endTime": 1696473442101,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1914542,
+      "num": 447414,
+      "word": "秦霄贤喜欢的女生类型变了",
+      "onboard_time": 1696472250,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1862248,
       "num": 1862248,
       "word": "青云志",
@@ -489,6 +497,14 @@
       "onboard_time": 1696167283,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1823923,
+      "num": 1823923,
+      "word": "研一男生入学1个月被邀当导师伴郎",
+      "onboard_time": 1696469792,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1822841,
@@ -561,14 +577,6 @@
       "onboard_time": 1696224328,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1760568,
-      "num": 1760568,
-      "word": "研一男生入学1个月被邀当导师伴郎",
-      "onboard_time": 1696469792,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1755299,
@@ -2027,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 791231,
+      "num": 791231,
+      "word": "张艺兴差点说出EXO",
+      "onboard_time": 1696465469,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 791164,
       "num": 733494,
       "word": "泰警方对枪击案嫌犯提出5项初步指控",
@@ -2091,14 +2107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 769861,
-      "num": 769861,
-      "word": "张艺兴差点说出EXO",
-      "onboard_time": 1696465469,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 764582,
       "num": 764582,
       "word": "全红婵安慰陈芋汐",
@@ -2136,6 +2144,14 @@
       "word": "被婆婆拒绝的喜糖盒",
       "onboard_time": 1696391498,
       "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 758131,
+      "num": 272191,
+      "word": "坐下来撒尿的男人",
+      "onboard_time": 1696470991,
+      "rank": 20,
       "category": "情感"
     },
     {
@@ -2225,14 +2241,6 @@
       "onboard_time": 1696415073,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 724463,
-      "num": 398271,
-      "word": "秦霄贤喜欢的女生类型变了",
-      "onboard_time": 1696472250,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 718488,
@@ -2427,6 +2435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684586,
+      "num": 430398,
+      "word": "南阳音乐节盗窃事件的最大启示",
+      "onboard_time": 1696468292,
+      "rank": 45,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 684270,
       "num": 684270,
       "word": "国乒6金2银1铜收官",
@@ -2568,22 +2584,6 @@
       "word": "迷笛盗窃事件或受短视频误导",
       "onboard_time": 1696466250,
       "rank": 6,
-      "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 657023,
-      "num": 272191,
-      "word": "坐下来撒尿的男人",
-      "onboard_time": 1696470991,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 654507,
-      "num": 430398,
-      "word": "南阳音乐节盗窃事件的最大启示",
-      "onboard_time": 1696468292,
-      "rank": 45,
       "category": "社会新闻,演出"
     },
     {
@@ -2865,6 +2865,14 @@
       "onboard_time": 1696413634,
       "rank": 11,
       "category": "科技"
+    },
+    {
+      "raw_hot": 598094,
+      "num": 598094,
+      "word": "返程聪明人",
+      "onboard_time": 1696471592,
+      "rank": 8,
+      "category": "旅游,幽默"
     },
     {
       "raw_hot": 596994,
@@ -3369,6 +3377,14 @@
       "onboard_time": 1696385916,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 517946,
+      "num": 517946,
+      "word": "傅首尔日记主打一个真情实感",
+      "onboard_time": 1696472613,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 516695,
@@ -4227,6 +4243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409516,
+      "num": 394503,
+      "word": "黄嘉仪终于清醒了",
+      "onboard_time": 1696470455,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 408757,
       "num": 408757,
       "word": "高菡解说",
@@ -4241,14 +4265,6 @@
       "onboard_time": 1696427078,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 407377,
-      "num": 394503,
-      "word": "黄嘉仪终于清醒了",
-      "onboard_time": 1696470455,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 406461,
@@ -4321,14 +4337,6 @@
       "onboard_time": 1696402055,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 400642,
-      "num": 400642,
-      "word": "返程聪明人",
-      "onboard_time": 1696471592,
-      "rank": 8,
-      "category": "旅游,幽默"
     },
     {
       "raw_hot": 399036,
@@ -5483,6 +5491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 316967,
+      "num": 316967,
+      "word": "张镇麟踢广告牌",
+      "onboard_time": 1696470212,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 316748,
       "num": 316748,
       "word": "丞磊下次要不戴耳机吧",
@@ -5504,14 +5520,6 @@
       "word": "马龙回应为i做e",
       "onboard_time": 1696389398,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 314699,
-      "num": 314699,
-      "word": "张镇麟踢广告牌",
-      "onboard_time": 1696470212,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -7107,6 +7115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246492,
+      "num": 246492,
+      "word": "恋爱脑知道自己是恋爱脑吗",
+      "onboard_time": 1696471592,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246363,
       "num": 246363,
       "word": "南阳迷笛音乐节物品失窃引地域攻击",
@@ -7315,12 +7331,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238666,
-      "num": 238666,
-      "word": "恋爱脑知道自己是恋爱脑吗",
-      "onboard_time": 1696471592,
-      "rank": 25,
-      "category": "综艺"
+      "raw_hot": 238095,
+      "num": 238095,
+      "word": "婴儿感染流脑24小时内可致死",
+      "onboard_time": 1696473272,
+      "rank": 26,
+      "category": "社会新闻,健康医疗"
+    },
+    {
+      "raw_hot": 238024,
+      "num": 238024,
+      "word": "日本开始第二轮核污染水排海",
+      "onboard_time": 1696473094,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237919,
@@ -8435,6 +8459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202497,
+      "num": 202497,
+      "word": "林雨薇发文表白自己的首个亚运",
+      "onboard_time": 1696472553,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202419,
       "num": 202419,
       "word": "刚装修的家在小区里出名了",
@@ -8995,14 +9027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 190749,
-      "num": 190749,
-      "word": "傅首尔日记主打一个真情实感",
-      "onboard_time": 1696472613,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190046,
       "num": 190046,
       "word": "孙颖莎4比0申裕彬",
@@ -9033,6 +9057,14 @@
       "onboard_time": 1696321353,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 189625,
+      "num": 189625,
+      "word": "亚运会马拉松",
+      "onboard_time": 1696472433,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 189598,
@@ -9243,6 +9275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183664,
+      "num": 183664,
+      "word": "肖扬 汪雨橦",
+      "onboard_time": 1696472493,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183614,
       "num": 183614,
       "word": "林雨薇夺冠后保持人间清醒",
@@ -9305,6 +9345,14 @@
       "onboard_time": 1696470571,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182841,
+      "num": 182841,
+      "word": "日本本州东南附近发生6.3级左右地震",
+      "onboard_time": 1696473392,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182561,
@@ -9385,14 +9433,6 @@
       "onboard_time": 1696228294,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180239,
-      "num": 180239,
-      "word": "亚运会马拉松",
-      "onboard_time": 1696472433,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 179860,
@@ -9747,6 +9787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169568,
+      "num": 169568,
+      "word": "中国田径队19金收官",
+      "onboard_time": 1696473035,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169529,
       "num": 2803672,
       "word": "一天一种书写中国的方式",
@@ -9833,14 +9881,6 @@
       "onboard_time": 1696133972,
       "rank": 46,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 166190,
-      "num": 166190,
-      "word": "肖扬 汪雨橦",
-      "onboard_time": 1696472493,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 166108,
@@ -10283,6 +10323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154014,
+      "num": 154014,
+      "word": "王鹤润明制大红古装造型",
+      "onboard_time": 1696472613,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152792,
       "num": 925202,
       "word": "奖牌迟到但努力从不缺席",
@@ -10443,6 +10491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148841,
+      "num": 148841,
+      "word": "男篮主帅回应最后一攻",
+      "onboard_time": 1696471232,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148762,
       "num": 148762,
       "word": "樊振东拆盲盒从头到尾抄王楚钦作业",
@@ -10579,11 +10635,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143611,
-      "num": 143611,
-      "word": "林雨薇发文表白自己的首个亚运",
-      "onboard_time": 1696472553,
-      "rank": 41,
+      "raw_hot": 143896,
+      "num": 143896,
+      "word": "沙特将申办2034年世界杯",
+      "onboard_time": 1696473154,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -10763,14 +10819,6 @@
       "category": "社会新闻,情感"
     },
     {
-      "raw_hot": 139891,
-      "num": 139891,
-      "word": "王鹤润明制大红古装造型",
-      "onboard_time": 1696472613,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 139289,
       "num": 139289,
       "word": "又被张杰装到了",
@@ -10889,14 +10937,6 @@
       "onboard_time": 1696469673,
       "rank": 48,
       "category": "自然,社会新闻"
-    },
-    {
-      "raw_hot": 134750,
-      "num": 134750,
-      "word": "男篮主帅回应最后一攻",
-      "onboard_time": 1696471232,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 134638,
