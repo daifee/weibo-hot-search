@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696538055666,
+  "endTime": 1696540503625,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -529,6 +529,14 @@
       "onboard_time": 1696533075,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14699,
+      "num": 16575,
+      "word": "爷爷奶奶的忠告治好了年轻人的焦虑",
+      "onboard_time": 1696540094,
+      "rank": 46,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
