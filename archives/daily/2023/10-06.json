@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696523950063,
+  "endTime": 1696526146467,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -11,8 +11,8 @@
       "category": "情感,教育"
     },
     {
-      "raw_hot": 1665196,
-      "num": 1665196,
+      "raw_hot": 2312645,
+      "num": 2312645,
       "word": "请把这个韩综引进内娱",
       "onboard_time": 1696522413,
       "rank": 5,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 322867,
+      "num": 322867,
+      "word": "中国亚运史上首枚男子马拉松金牌",
+      "onboard_time": 1696522534,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 317350,
       "num": 317350,
       "word": "李梦美甲",
@@ -203,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259600,
+      "num": 259600,
+      "word": "田嘉瑞回应金靖弄哭自己",
+      "onboard_time": 1696525527,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257097,
       "num": 317368,
       "word": "最后13秒",
@@ -240,14 +256,6 @@
       "word": "王诗玥柳鑫宇完美演绎不完美小孩",
       "onboard_time": 1696518220,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 229147,
-      "num": 301587,
-      "word": "中国亚运史上首枚男子马拉松金牌",
-      "onboard_time": 1696522534,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100643,
+      "num": 100643,
+      "word": "网友靠走路姿势确认卢昱晓",
+      "onboard_time": 1696525225,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100138,
       "num": 100138,
       "word": "王阳又演反派了",
@@ -427,12 +443,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 71492,
+      "num": 71492,
+      "word": "我在利物浦偶遇了洋幂",
+      "onboard_time": 1696507537,
+      "rank": 44,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 68278,
       "num": 944341,
       "word": "被亚运会的氛围可爱到了",
       "onboard_time": 1696511138,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63608,
+      "num": 63608,
+      "word": "还得是女篮 还得是中国女人",
+      "onboard_time": 1696513906,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
