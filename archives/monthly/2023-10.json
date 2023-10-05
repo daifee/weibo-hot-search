@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696520081198,
+  "endTime": 1696523005955,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -369,6 +369,14 @@
       "onboard_time": 1696314692,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 2344177,
+      "num": 628917,
+      "word": "西安外国语大学",
+      "onboard_time": 1696518824,
+      "rank": 46,
+      "category": "情感,教育"
     },
     {
       "raw_hot": 2324815,
@@ -1291,6 +1299,14 @@
       "category": "幽默,互联网"
     },
     {
+      "raw_hot": 1242296,
+      "num": 1242296,
+      "word": "李泽锋 轻舟已过万重山",
+      "onboard_time": 1696518159,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1237386,
       "num": 1237386,
       "word": "韩国朝鲜女双争金",
@@ -1321,14 +1337,6 @@
       "onboard_time": 1696464150,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1224150,
-      "num": 1224150,
-      "word": "李泽锋 轻舟已过万重山",
-      "onboard_time": 1696518159,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 1222540,
@@ -1875,14 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 917579,
-      "num": 581920,
-      "word": "西安外国语大学",
-      "onboard_time": 1696518824,
-      "rank": 46,
-      "category": "情感,教育"
-    },
-    {
       "raw_hot": 911416,
       "num": 911416,
       "word": "全红婵10101010101010截图打卡",
@@ -2033,6 +2033,14 @@
       "onboard_time": 1696480233,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 875262,
+      "num": 875262,
+      "word": "因为是INTJ而被HR告知没被录取",
+      "onboard_time": 1696520133,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 872477,
@@ -2515,6 +2523,14 @@
       "category": "社会新闻,综艺"
     },
     {
+      "raw_hot": 746486,
+      "num": 746486,
+      "word": "请把这个韩综引进内娱",
+      "onboard_time": 1696522413,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 746020,
       "num": 746020,
       "word": "刘翔110米跨栏决赛高清影像",
@@ -2923,6 +2939,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 669918,
+      "num": 669918,
+      "word": "徐州一婚礼场地被村民连夜搬空",
+      "onboard_time": 1696517259,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 666589,
       "num": 666589,
       "word": "中国女排vs印度女排",
@@ -3009,6 +3033,14 @@
       "onboard_time": 1696509575,
       "rank": 30,
       "category": "其它"
+    },
+    {
+      "raw_hot": 654707,
+      "num": 654707,
+      "word": "苏炳添称无法和谢震业做比较",
+      "onboard_time": 1696521095,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 653543,
@@ -3185,14 +3217,6 @@
       "onboard_time": 1696256677,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 624358,
-      "num": 624358,
-      "word": "徐州一婚礼场地被村民连夜搬空",
-      "onboard_time": 1696517259,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 622894,
@@ -6291,6 +6315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324682,
+      "num": 280914,
+      "word": "你睡前习惯躺床上玩手机吗",
+      "onboard_time": 1696519296,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 323864,
       "num": 323864,
       "word": "我的小鸡为什么在喊卡巴迪",
@@ -7227,6 +7259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286130,
+      "num": 286130,
+      "word": "一人独享渣男赛道",
+      "onboard_time": 1696521634,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286006,
       "num": 286006,
       "word": "游客泰山顶挥舞国旗齐喊祖国万岁",
@@ -7393,6 +7433,14 @@
       "onboard_time": 1696470392,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 279923,
+      "num": 279923,
+      "word": "毛不易的牙刷掉了",
+      "onboard_time": 1696520794,
+      "rank": 22,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 279865,
@@ -8507,6 +8555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243883,
+      "num": 243883,
+      "word": "中国女篮决赛DJ有多爱张杰",
+      "onboard_time": 1696519177,
+      "rank": 34,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 243673,
       "num": 243673,
       "word": "老外差点把杭州搬回家了",
@@ -8673,6 +8729,14 @@
       "onboard_time": 1696154313,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 237744,
+      "num": 237744,
+      "word": "钟丽丽赵让一起录综艺",
+      "onboard_time": 1696521994,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 237492,
@@ -8873,14 +8937,6 @@
       "onboard_time": 1696170525,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231688,
-      "num": 231688,
-      "word": "你睡前习惯躺床上玩手机吗",
-      "onboard_time": 1696519296,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 231619,
@@ -9377,14 +9433,6 @@
       "onboard_time": 1696147893,
       "rank": 33,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 219139,
-      "num": 219139,
-      "word": "中国女篮决赛DJ有多爱张杰",
-      "onboard_time": 1696519177,
-      "rank": 34,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 218932,
@@ -10795,6 +10843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189934,
+      "num": 189934,
+      "word": "好事成双大结局",
+      "onboard_time": 1696520975,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189930,
       "num": 189930,
       "word": "安徽一辆商务车追尾拖拉机致3死",
@@ -10857,6 +10913,14 @@
       "onboard_time": 1696414232,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188762,
+      "num": 188762,
+      "word": "曾舜晞发博感谢大家的到来",
+      "onboard_time": 1696520256,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 188624,
@@ -11563,6 +11627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172083,
+      "num": 199883,
+      "word": "已归还乐迷身份证79张",
+      "onboard_time": 1696520256,
+      "rank": 29,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 171281,
       "num": 171281,
       "word": "JINI solo出道曲1分钟先公开",
@@ -11649,6 +11721,14 @@
       "onboard_time": 1696328677,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169469,
+      "num": 169469,
+      "word": "中国亚运史上首枚男子马拉松金牌",
+      "onboard_time": 1696522534,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 169131,
@@ -11761,6 +11841,14 @@
       "onboard_time": 1696243355,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165963,
+      "num": 165963,
+      "word": "看火光第32集哭惨了",
+      "onboard_time": 1696521753,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 165945,
@@ -12033,6 +12121,14 @@
       "onboard_time": 1696511739,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159270,
+      "num": 159270,
+      "word": "曾舜晞说趁着年轻多拍拍",
+      "onboard_time": 1696520496,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 159225,
@@ -13185,6 +13281,14 @@
       "onboard_time": 1696414055,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127743,
+      "num": 127743,
+      "word": "MINJI I love You 3000 cover",
+      "onboard_time": 1696522890,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 127540,
