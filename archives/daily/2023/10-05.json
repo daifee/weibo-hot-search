@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696494952780,
+  "endTime": 1696497456780,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -33,6 +33,14 @@
       "onboard_time": 1696481134,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2164795,
+      "num": 2164795,
+      "word": "爱情公狱",
+      "onboard_time": 1696495113,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1926471,
@@ -163,6 +171,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1113103,
+      "num": 1113103,
+      "word": "诺贝尔文学奖",
+      "onboard_time": 1696495953,
+      "rank": 1,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 1066453,
       "num": 1066453,
       "word": "张艺兴 UZI",
@@ -283,6 +299,14 @@
       "category": "时尚,艺人"
     },
     {
+      "raw_hot": 703589,
+      "num": 356915,
+      "word": "找到冠军咬奖牌的原因了",
+      "onboard_time": 1696496431,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692141,
       "num": 350959,
       "word": "姚明傻眼了",
@@ -395,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 531687,
+      "num": 332646,
+      "word": "女孩放弃买钻戒花50万买金条",
+      "onboard_time": 1696495593,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525231,
       "num": 525231,
       "word": "日本开始第二轮核污染水排海",
@@ -444,7 +476,7 @@
     },
     {
       "raw_hot": 491348,
-      "num": 288885,
+      "num": 318815,
       "word": "鲁迅的家离三味书屋这么近还迟到",
       "onboard_time": 1696492954,
       "rank": 20,
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 484688,
-      "num": 277335,
+      "num": 318320,
       "word": "新郎是逃犯婚礼结束被带走",
       "onboard_time": 1696492832,
       "rank": 21,
@@ -547,6 +579,14 @@
       "category": "社会新闻,健康医疗"
     },
     {
+      "raw_hot": 435432,
+      "num": 332012,
+      "word": "王楚钦3比1英田理志",
+      "onboard_time": 1696496373,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426043,
       "num": 426043,
       "word": "何杰男子马拉松金牌",
@@ -569,6 +609,14 @@
       "onboard_time": 1696486415,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417223,
+      "num": 331700,
+      "word": "广州塔这辈子没被这样看过",
+      "onboard_time": 1696495532,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 409516,
@@ -683,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 362797,
+      "num": 362797,
+      "word": "镇政府村干部回应南阳迷笛音乐节失窃",
+      "onboard_time": 1696496854,
+      "rank": 9,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 359708,
       "num": 359708,
       "word": "部分迷笛音乐节盗窃者已被抓获",
@@ -729,6 +785,14 @@
       "onboard_time": 1696480233,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 308550,
+      "num": 308550,
+      "word": "能打败全红婵的只有记者",
+      "onboard_time": 1696492832,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 307175,
@@ -787,12 +851,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 295499,
+      "num": 295499,
+      "word": "黄轩 病娇",
+      "onboard_time": 1696496614,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 294873,
       "num": 294873,
       "word": "丁点 你那句我养你一点也不酷",
       "onboard_time": 1696479335,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292828,
+      "num": 292828,
+      "word": "成毅现代剧受的伤不比古装少",
+      "onboard_time": 1696494513,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 288389,
@@ -856,14 +936,6 @@
       "word": "苏炳添和奥运奖牌同框",
       "onboard_time": 1696429960,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 272733,
-      "num": 192198,
-      "word": "能打败全红婵的只有记者",
-      "onboard_time": 1696492832,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -937,6 +1009,14 @@
       "onboard_time": 1696423357,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 261520,
+      "num": 261520,
+      "word": "入境空气炸锅夹藏1.3万只蚂蚁被查",
+      "onboard_time": 1696494871,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261308,
@@ -1235,6 +1315,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 207477,
+      "num": 207477,
+      "word": "陈奕迅新专辑ChinUp预告",
+      "onboard_time": 1696496736,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 205953,
       "num": 205953,
       "word": "沙特将申办2034年世界杯",
@@ -1443,20 +1531,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 183507,
-      "num": 183507,
-      "word": "成毅现代剧受的伤不比古装少",
-      "onboard_time": 1696494513,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182903,
       "num": 182903,
       "word": "韩庚王丽坤新剧打戏",
       "onboard_time": 1696470571,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181975,
+      "num": 181975,
+      "word": "多大的后备箱都装不下父母的爱",
+      "onboard_time": 1696496431,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 179359,
@@ -1497,6 +1585,14 @@
       "onboard_time": 1696487433,
       "rank": 45,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 174477,
+      "num": 174477,
+      "word": "反向预判的聪明人还堵在景区",
+      "onboard_time": 1696496431,
+      "rank": 39,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 173802,
@@ -1867,6 +1963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124717,
+      "num": 1126973,
+      "word": "杭州亚运会处处都有显眼包",
+      "onboard_time": 1696493552,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 123609,
       "num": 123609,
       "word": "张伟丽每次比赛都会带着国旗",
@@ -1881,14 +1985,6 @@
       "onboard_time": 1696460601,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 120306,
-      "num": 120306,
-      "word": "入境空气炸锅夹藏1.3万只蚂蚁被查",
-      "onboard_time": 1696494871,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 113827,
@@ -1913,14 +2009,6 @@
       "onboard_time": 1696462285,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106973,
-      "num": 1126973,
-      "word": "杭州亚运会处处都有显眼包",
-      "onboard_time": 1696493552,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 93703,
@@ -2073,6 +2161,14 @@
       "onboard_time": 1696489774,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18382,
+      "num": 338278,
+      "word": "舞台2023收官歌手解放天性",
+      "onboard_time": 1696496431,
+      "rank": 14,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

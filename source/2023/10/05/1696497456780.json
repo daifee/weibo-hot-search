@@ -1,0 +1,410 @@
+{
+  "runTime": 1696497456780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2164795,
+        "num": 2164795,
+        "word": "爱情公狱",
+        "onboard_time": 1696495113,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1113103,
+        "num": 1113103,
+        "word": "诺贝尔文学奖",
+        "onboard_time": 1696495953,
+        "rank": 1,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 124717,
+        "num": 986524,
+        "word": "杭州亚运会处处都有显眼包",
+        "onboard_time": 1696493552,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965269,
+        "num": 965269,
+        "word": "我的国家没参赛我来支持中国队",
+        "onboard_time": 1696487255,
+        "rank": 3,
+        "category": "情感,体育"
+      },
+      {
+        "raw_hot": 826323,
+        "num": 826323,
+        "word": "张艺兴 UZI",
+        "onboard_time": 1696492650,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 762552,
+        "num": 762552,
+        "word": "腾讯视频 胆小模式",
+        "onboard_time": 1696488754,
+        "rank": 5,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 677453,
+        "num": 677453,
+        "word": "泰国选手跳水炸鱼把自己逗笑了",
+        "onboard_time": 1696491335,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 560201,
+        "num": 560201,
+        "word": "全红婵的弹跳没有地心引力",
+        "onboard_time": 1696481134,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456202,
+        "num": 456202,
+        "word": "第一次在恋综看到女嘉宾翻白眼",
+        "onboard_time": 1696475013,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 362797,
+        "num": 362797,
+        "word": "镇政府村干部回应南阳迷笛音乐节失窃",
+        "onboard_time": 1696496854,
+        "rank": 9,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 949423,
+        "num": 358809,
+        "word": "女子住主题酒店连续3间房发现摄像头",
+        "onboard_time": 1696489233,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 703589,
+        "num": 356915,
+        "word": "找到冠军咬奖牌的原因了",
+        "onboard_time": 1696496431,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266131,
+        "num": 352302,
+        "word": "迷笛称警方已抓获一些盗窃者",
+        "onboard_time": 1696483054,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215894,
+        "num": 344670,
+        "word": "研一男生入学1个月被邀当导师伴郎",
+        "onboard_time": 1696469792,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18382,
+        "num": 338278,
+        "word": "舞台2023收官歌手解放天性",
+        "onboard_time": 1696496431,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336680,
+        "num": 336680,
+        "word": "王楚钦说没觉得自己长得帅",
+        "onboard_time": 1696492832,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 531687,
+        "num": 332646,
+        "word": "女孩放弃买钻戒花50万买金条",
+        "onboard_time": 1696495593,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 435432,
+        "num": 332012,
+        "word": "王楚钦3比1英田理志",
+        "onboard_time": 1696496373,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 417223,
+        "num": 331700,
+        "word": "广州塔这辈子没被这样看过",
+        "onboard_time": 1696495532,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325983,
+        "num": 325983,
+        "word": "黄子韬 你有品真的",
+        "onboard_time": 1696492532,
+        "rank": 19,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 461148,
+        "num": 318815,
+        "word": "鲁迅的家离三味书屋这么近还迟到",
+        "onboard_time": 1696492954,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 389936,
+        "num": 318320,
+        "word": "新郎是逃犯婚礼结束被带走",
+        "onboard_time": 1696492832,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308550,
+        "num": 308550,
+        "word": "能打败全红婵的只有记者",
+        "onboard_time": 1696492832,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295499,
+        "num": 295499,
+        "word": "黄轩 病娇",
+        "onboard_time": 1696496614,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81601,
+        "num": 293477,
+        "word": "当婚礼上让狗狗送戒指",
+        "onboard_time": 1696487433,
+        "rank": 24,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 292828,
+        "num": 292828,
+        "word": "成毅现代剧受的伤不比古装少",
+        "onboard_time": 1696494513,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288804,
+        "num": 288804,
+        "word": "VOGUE评选巴黎时装周最时尚明星",
+        "onboard_time": 1696490196,
+        "rank": 26,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 261520,
+        "num": 261520,
+        "word": "入境空气炸锅夹藏1.3万只蚂蚁被查",
+        "onboard_time": 1696494871,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256637,
+        "num": 256637,
+        "word": "乔欣回应停车言论争议",
+        "onboard_time": 1696484792,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211751,
+        "num": 211751,
+        "word": "女游客四川卧龙邓生沟拍照滑落溺亡",
+        "onboard_time": 1696486654,
+        "rank": 29,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 207477,
+        "num": 207477,
+        "word": "陈奕迅新专辑ChinUp预告",
+        "onboard_time": 1696496736,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204136,
+        "num": 204136,
+        "word": "狐狸精来曾舜晞见面会了",
+        "onboard_time": 1696487671,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200074,
+        "num": 200074,
+        "word": "迷笛官方称南阳盗窃案件落实65起",
+        "onboard_time": 1696482693,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199995,
+        "num": 199995,
+        "word": "Jennie将常驻综艺公寓404",
+        "onboard_time": 1696474172,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184590,
+        "num": 184590,
+        "word": "封神训练营这么吃不得瘦死",
+        "onboard_time": 1696493313,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184373,
+        "num": 184373,
+        "word": "刘翔110米跨栏决赛高清影像",
+        "onboard_time": 1696485573,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183888,
+        "num": 183888,
+        "word": "马龙男单晋级16强",
+        "onboard_time": 1696494092,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182028,
+        "num": 182028,
+        "word": "秦霄贤喜欢的女生类型变了",
+        "onboard_time": 1696472250,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181975,
+        "num": 181975,
+        "word": "多大的后备箱都装不下父母的爱",
+        "onboard_time": 1696496431,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 174477,
+        "num": 174477,
+        "word": "反向预判的聪明人还堵在景区",
+        "onboard_time": 1696496431,
+        "rank": 39,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 172497,
+        "num": 172497,
+        "word": "令人心动的offer5官宣徐灵菱",
+        "onboard_time": 1696490135,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162495,
+        "num": 162495,
+        "word": "陈飞宇为志愿军发的第一篇800字长文",
+        "onboard_time": 1696493614,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159959,
+        "num": 159959,
+        "word": "麦迪不解中国男篮输球",
+        "onboard_time": 1696492295,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154533,
+        "num": 154533,
+        "word": "wtt球星挑战赛兰州站2023",
+        "onboard_time": 1696494331,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140787,
+        "num": 140787,
+        "word": "迷笛再回应乐迷财物被盗事件",
+        "onboard_time": 1696476755,
+        "rank": 44,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 140095,
+        "num": 140095,
+        "word": "女子试穿将千元衣服染血渍拒赔偿",
+        "onboard_time": 1696484072,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138045,
+        "num": 138045,
+        "word": "这是电动车不可承受之重",
+        "onboard_time": 1696493915,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136208,
+        "num": 136208,
+        "word": "闲鱼转卖门票演出结束才可确认收货",
+        "onboard_time": 1696482155,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135288,
+        "num": 135288,
+        "word": "迷笛",
+        "onboard_time": 1696477474,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131956,
+        "num": 131956,
+        "word": "周深把音乐节开成了国庆晚会",
+        "onboard_time": 1696493732,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}
