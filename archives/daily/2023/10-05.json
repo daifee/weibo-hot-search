@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696510318863,
+  "endTime": 1696512081951,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -107,6 +107,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1835271,
+      "num": 1835271,
+      "word": "李梦好猛",
+      "onboard_time": 1696509756,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1823923,
       "num": 1823923,
       "word": "研一男生入学1个月被邀当导师伴郎",
@@ -171,6 +179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1269675,
+      "num": 1269675,
+      "word": "加了新好友先看自己朋友圈",
+      "onboard_time": 1696510478,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1269580,
       "num": 556805,
       "word": "没领证的姑爷比驴都能干",
@@ -201,14 +217,6 @@
       "onboard_time": 1696464150,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1208077,
-      "num": 1208077,
-      "word": "李梦好猛",
-      "onboard_time": 1696509756,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1177995,
@@ -251,7 +259,7 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 984770,
+      "raw_hot": 994252,
       "num": 468286,
       "word": "范玮琪感谢陈建州守护家庭",
       "onboard_time": 1696508194,
@@ -347,6 +355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 782496,
+      "num": 782496,
+      "word": "看女篮就是爽",
+      "onboard_time": 1696510056,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 759535,
       "num": 411407,
       "word": "坐下来撒尿的男人",
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 715075,
+      "num": 449193,
+      "word": "华晨宇劝学",
+      "onboard_time": 1696511436,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 703589,
       "num": 531675,
       "word": "找到冠军咬奖牌的原因了",
@@ -416,6 +440,22 @@
       "word": "姚明傻眼了",
       "onboard_time": 1696432177,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 689147,
+      "num": 460094,
+      "word": "被巴黎戴高乐机场的中文折服了",
+      "onboard_time": 1696507957,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 679625,
+      "num": 449013,
+      "word": "王楚钦在场外自己教育自己",
+      "onboard_time": 1696510478,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -459,14 +499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 627095,
-      "num": 627095,
-      "word": "看女篮就是爽",
-      "onboard_time": 1696510056,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 612150,
       "num": 612150,
       "word": "王楚钦已经痛失本名",
@@ -481,6 +513,14 @@
       "onboard_time": 1696433975,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 602599,
+      "num": 400602,
+      "word": "身体还很年轻的表现",
+      "onboard_time": 1696510478,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 601738,
@@ -569,6 +609,14 @@
       "onboard_time": 1696495532,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 529740,
+      "num": 448999,
+      "word": "第一次见这么简陋的机场",
+      "onboard_time": 1696509575,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 525231,
@@ -707,14 +755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 460257,
-      "num": 460094,
-      "word": "被巴黎戴高乐机场的中文折服了",
-      "onboard_time": 1696507957,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 456317,
       "num": 352434,
       "word": "马诺",
@@ -729,6 +769,14 @@
       "onboard_time": 1696484072,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 448957,
+      "num": 448957,
+      "word": "陈梦王曼昱晋级女双四强",
+      "onboard_time": 1696511794,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 447176,
@@ -811,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 410322,
+      "num": 410322,
+      "word": "看坚如磐石 别带小孩",
+      "onboard_time": 1696508437,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409516,
       "num": 394503,
       "word": "黄嘉仪终于清醒了",
@@ -849,14 +905,6 @@
       "onboard_time": 1696479934,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401177,
-      "num": 401177,
-      "word": "看坚如磐石 别带小孩",
-      "onboard_time": 1696508437,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 401163,
@@ -939,6 +987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 384316,
+      "num": 384316,
+      "word": "王阳又演反派了",
+      "onboard_time": 1696511076,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383595,
       "num": 383595,
       "word": "残雪",
@@ -1011,14 +1067,6 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 355292,
-      "num": 270832,
-      "word": "第一次见这么简陋的机场",
-      "onboard_time": 1696509575,
-      "rank": 30,
-      "category": "其它"
-    },
-    {
       "raw_hot": 351349,
       "num": 351349,
       "word": "吉克隽逸戴的是泸沽湖畔捡的花",
@@ -1059,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327097,
+      "num": 327097,
+      "word": "杨舒予好帅",
+      "onboard_time": 1696510424,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327024,
       "num": 327024,
       "word": "游客爬上泰山被消防担架抬下山",
@@ -1073,6 +1129,14 @@
       "onboard_time": 1696502735,
       "rank": 4,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 321350,
+      "num": 321350,
+      "word": "刘炜珊3比1早田希娜",
+      "onboard_time": 1696510424,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 316967,
@@ -1273,6 +1337,14 @@
       "onboard_time": 1696434757,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275473,
+      "num": 449168,
+      "word": "游客相机掉落被大熊猫捡走",
+      "onboard_time": 1696507776,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275309,
@@ -1507,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238891,
+      "num": 238891,
+      "word": "白鹿时装周新造型",
+      "onboard_time": 1696511257,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 238745,
       "num": 205377,
       "word": "马龙不为失利找借口",
@@ -1571,14 +1651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231861,
-      "num": 231861,
-      "word": "游客相机掉落被大熊猫捡走",
-      "onboard_time": 1696507776,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229691,
       "num": 229691,
       "word": "当年明月作者的顶级觉悟",
@@ -1593,6 +1665,14 @@
       "onboard_time": 1696479274,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226516,
+      "num": 226516,
+      "word": "中国女篮半场领先日本5分",
+      "onboard_time": 1696511624,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 225764,
@@ -1632,6 +1712,14 @@
       "word": "以为全红婵刷手机放松其实是看比赛视频",
       "onboard_time": 1696492415,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 223676,
+      "num": 223676,
+      "word": "石宇奇BGM 我姓石",
+      "onboard_time": 1696510897,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1681,6 +1769,14 @@
       "onboard_time": 1696480056,
       "rank": 42,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 219998,
+      "num": 219998,
+      "word": "深圳晚霞",
+      "onboard_time": 1696510177,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218932,
@@ -1777,6 +1873,14 @@
       "onboard_time": 1696493915,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206615,
+      "num": 206615,
+      "word": "李月汝盖帽帅死",
+      "onboard_time": 1696510119,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 205953,
@@ -1915,14 +2019,6 @@
       "category": "社会新闻,动物萌宠"
     },
     {
-      "raw_hot": 194533,
-      "num": 194533,
-      "word": "深圳晚霞",
-      "onboard_time": 1696510177,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194459,
       "num": 194459,
       "word": "孟云问柳柳人为什么要结婚",
@@ -2008,14 +2104,6 @@
       "word": "wtt球星挑战赛兰州站2023",
       "onboard_time": 1696494331,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 186791,
-      "num": 186791,
-      "word": "李月汝盖帽帅死",
-      "onboard_time": 1696510119,
-      "rank": 41,
       "category": "体育"
     },
     {
@@ -2219,6 +2307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159849,
+      "num": 159849,
+      "word": "总导演剧透杭州亚运会闭幕式亮点",
+      "onboard_time": 1696511739,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158648,
       "num": 158648,
       "word": "赵继伟两罚不中",
@@ -2265,6 +2361,14 @@
       "onboard_time": 1696420115,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 154761,
+      "num": 154761,
+      "word": "好事成双结局都是好事",
+      "onboard_time": 1696512040,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 154440,
@@ -2595,6 +2699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110105,
+      "num": 1499603,
+      "word": "被亚运会的氛围可爱到了",
+      "onboard_time": 1696511138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97094,
       "num": 465877,
       "word": "陈雨菲全力破局",
@@ -2786,6 +2898,9 @@
     },
     {
       "word": "#时代是出卷人我们是答卷人人民是阅卷人#"
+    },
+    {
+      "word": "#铆足干劲勇毅前行#"
     }
   ]
 }
