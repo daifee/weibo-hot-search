@@ -1,0 +1,410 @@
+{
+  "runTime": 1696538055666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 144876,
+        "num": 144876,
+        "word": "徐州一婚礼场地被村民连夜搬空",
+        "onboard_time": 1696517259,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87695,
+        "num": 87695,
+        "word": "全红婵唯一的炸鱼方式",
+        "onboard_time": 1696516539,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12189,
+        "num": 84405,
+        "word": "被亚运会的氛围可爱到了",
+        "onboard_time": 1696511138,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83570,
+        "num": 83570,
+        "word": "于文文当预言家睡过头了",
+        "onboard_time": 1696526423,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82265,
+        "num": 82265,
+        "word": "陈某煽动误导村民拿东西被刑拘",
+        "onboard_time": 1696518220,
+        "rank": 4,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 62811,
+        "num": 62811,
+        "word": "苏炳添称无法和谢震业做比较",
+        "onboard_time": 1696521095,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59318,
+        "num": 59318,
+        "word": "李泽锋 轻舟已过万重山",
+        "onboard_time": 1696518159,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54264,
+        "num": 54264,
+        "word": "已归还乐迷身份证79张",
+        "onboard_time": 1696520256,
+        "rank": 7,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 53993,
+        "num": 53993,
+        "word": "因为是INTJ而被HR告知没被录取",
+        "onboard_time": 1696520133,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 50715,
+        "num": 50715,
+        "word": "南阳官方通报音乐节盗窃事件",
+        "onboard_time": 1696517797,
+        "rank": 9,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 171216,
+        "num": 50055,
+        "word": "西安外国语大学",
+        "onboard_time": 1696518824,
+        "rank": 10,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 47312,
+        "num": 47312,
+        "word": "吴昕杜海涛聊主持人思维",
+        "onboard_time": 1696533495,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37514,
+        "num": 37514,
+        "word": "一人独享渣男赛道",
+        "onboard_time": 1696521634,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37174,
+        "num": 37174,
+        "word": "加了新好友先看自己朋友圈",
+        "onboard_time": 1696510478,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 36721,
+        "num": 36721,
+        "word": "中国女篮冠军",
+        "onboard_time": 1696513546,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36093,
+        "num": 36093,
+        "word": "范玮琪感谢陈建州守护家庭",
+        "onboard_time": 1696508194,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32019,
+        "num": 32019,
+        "word": "华晨宇把演唱会办成升学宴",
+        "onboard_time": 1696519534,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31365,
+        "num": 31365,
+        "word": "62岁儿子陪95岁母亲晒太阳看图识物",
+        "onboard_time": 1696533075,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30656,
+        "num": 30656,
+        "word": "周也的美是遗传的",
+        "onboard_time": 1696512516,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26743,
+        "num": 26743,
+        "word": "田嘉瑞回应金靖弄哭自己",
+        "onboard_time": 1696525527,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31597,
+        "num": 26739,
+        "word": "中国女篮亚运第七冠",
+        "onboard_time": 1696536793,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27028,
+        "num": 26737,
+        "word": "你睡前习惯躺床上玩手机吗",
+        "onboard_time": 1696519296,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26705,
+        "num": 26705,
+        "word": "Jennie把一年四季穿身上",
+        "onboard_time": 1696517317,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 26387,
+        "num": 26387,
+        "word": "李梦好猛",
+        "onboard_time": 1696509756,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25567,
+        "num": 25567,
+        "word": "MINJI I love You 3000 cover",
+        "onboard_time": 1696522890,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 23685,
+        "num": 23685,
+        "word": "王思雨绝杀",
+        "onboard_time": 1696514384,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23388,
+        "num": 23388,
+        "word": "李梦美甲",
+        "onboard_time": 1696515100,
+        "rank": 26,
+        "category": "体育,美妆"
+      },
+      {
+        "raw_hot": 23112,
+        "num": 23112,
+        "word": "京城大师赛",
+        "onboard_time": 1696523431,
+        "rank": 27,
+        "category": "游戏,综艺"
+      },
+      {
+        "raw_hot": 22878,
+        "num": 22878,
+        "word": "男篮",
+        "onboard_time": 1696516422,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22452,
+        "num": 22452,
+        "word": "卫明绝不内耗",
+        "onboard_time": 1696527981,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21801,
+        "num": 21801,
+        "word": "还得是女篮 还得是中国女人",
+        "onboard_time": 1696513906,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21681,
+        "num": 21681,
+        "word": "为什么情侣要看前任4",
+        "onboard_time": 1696519058,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20989,
+        "num": 20989,
+        "word": "女生气血不足的6个表现",
+        "onboard_time": 1696497515,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 20789,
+        "num": 20789,
+        "word": "中国亚运史上首枚男子马拉松金牌",
+        "onboard_time": 1696522534,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20684,
+        "num": 20684,
+        "word": "我在利物浦偶遇了洋幂",
+        "onboard_time": 1696507537,
+        "rank": 34,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 20376,
+        "num": 20376,
+        "word": "鞠萍姐姐 绝对最佳女主角",
+        "onboard_time": 1696531219,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20205,
+        "num": 20205,
+        "word": "好事成双大结局",
+        "onboard_time": 1696520975,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19638,
+        "num": 19638,
+        "word": "王阳又演反派了",
+        "onboard_time": 1696511076,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19475,
+        "num": 19475,
+        "word": "中国女篮决赛DJ有多爱张杰",
+        "onboard_time": 1696519177,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 18808,
+        "num": 18808,
+        "word": "日本一火山喷发",
+        "onboard_time": 1696498414,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17874,
+        "num": 17874,
+        "word": "被巴黎戴高乐机场的中文折服了",
+        "onboard_time": 1696507957,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 17497,
+        "num": 17497,
+        "word": "王楚钦孙颖莎",
+        "onboard_time": 1696502015,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17066,
+        "num": 17066,
+        "word": "中国女篮vs日本女篮",
+        "onboard_time": 1696503877,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16999,
+        "num": 16999,
+        "word": "身体还很年轻的表现",
+        "onboard_time": 1696510478,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 16879,
+        "num": 16879,
+        "word": "钟丽丽赵让一起录综艺",
+        "onboard_time": 1696521994,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16254,
+        "num": 16877,
+        "word": "中国女篮96天两胜日本",
+        "onboard_time": 1696528280,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14961,
+        "num": 16877,
+        "word": "张艺兴 UZI",
+        "onboard_time": 1696492650,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14809,
+        "num": 16875,
+        "word": "杨舒予好帅",
+        "onboard_time": 1696510424,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14682,
+        "num": 16873,
+        "word": "曾舜晞发博感谢大家的到来",
+        "onboard_time": 1696520256,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14616,
+        "num": 16871,
+        "word": "网友靠走路姿势确认卢昱晓",
+        "onboard_time": 1696525225,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}
