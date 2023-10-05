@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696501165043,
+  "endTime": 1696502182849,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -243,6 +243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2722740,
+      "num": 2722740,
+      "word": "日本一火山喷发",
+      "onboard_time": 1696498414,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2703385,
       "num": 2703385,
       "word": "韩国速滑队因过早庆祝错失金牌",
@@ -273,14 +281,6 @@
       "onboard_time": 1696341701,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2511607,
-      "num": 2511607,
-      "word": "日本一火山喷发",
-      "onboard_time": 1696498414,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2455273,
@@ -3571,6 +3571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 528697,
+      "num": 528697,
+      "word": "台风",
+      "onboard_time": 1696356202,
+      "rank": 29,
+      "category": "自然"
+    },
+    {
       "raw_hot": 526814,
       "num": 382152,
       "word": "南京鸡鸣寺网红猫要被游客摸秃了",
@@ -3747,6 +3755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 499853,
+      "num": 499853,
+      "word": "中韩男星时装周状态",
+      "onboard_time": 1696500272,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 499850,
       "num": 499850,
       "word": "不需要修图师的女人",
@@ -3905,14 +3921,6 @@
       "onboard_time": 1696316192,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 487007,
-      "num": 487007,
-      "word": "中韩男星时装周状态",
-      "onboard_time": 1696500272,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 484688,
@@ -4561,6 +4569,14 @@
       "onboard_time": 1696290567,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 417592,
+      "num": 506291,
+      "word": "泰国枪击案凶手成绩优异沉迷游戏",
+      "onboard_time": 1696499376,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 417189,
@@ -5307,6 +5323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357539,
+      "num": 357539,
+      "word": "高铁不脏手薯片吃法",
+      "onboard_time": 1696501114,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 357400,
       "num": 357400,
       "word": "因朋友喜欢发1我把他删了",
@@ -5401,6 +5425,14 @@
       "onboard_time": 1696222172,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351349,
+      "num": 351349,
+      "word": "吉克隽逸戴的是泸沽湖畔捡的花",
+      "onboard_time": 1696499493,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 351078,
@@ -5995,14 +6027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315938,
-      "num": 506291,
-      "word": "泰国枪击案凶手成绩优异沉迷游戏",
-      "onboard_time": 1696499376,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314623,
       "num": 314623,
       "word": "黄景瑜说确实很喜欢黄明昊",
@@ -6065,6 +6089,14 @@
       "onboard_time": 1696251701,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310131,
+      "num": 206512,
+      "word": "金博洋铜牌",
+      "onboard_time": 1696501474,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 309776,
@@ -6337,6 +6369,14 @@
       "onboard_time": 1696487372,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 299575,
+      "num": 299575,
+      "word": "李诗沣进亚运4强",
+      "onboard_time": 1696501474,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 299026,
@@ -6827,14 +6867,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 280236,
-      "num": 280236,
-      "word": "吉克隽逸戴的是泸沽湖畔捡的花",
-      "onboard_time": 1696499493,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 280052,
       "num": 280052,
       "word": "王心凌第一次爱的人全场大合唱",
@@ -6945,14 +6977,6 @@
       "onboard_time": 1696374682,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 276792,
-      "num": 276792,
-      "word": "台风",
-      "onboard_time": 1696356202,
-      "rank": 29,
-      "category": "自然"
     },
     {
       "raw_hot": 276220,
@@ -7747,6 +7771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247718,
+      "num": 206438,
+      "word": "叔叔看不懂cctv5了",
+      "onboard_time": 1696501355,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247114,
       "num": 247114,
       "word": "鹿晗侧颜鲨我",
@@ -8008,6 +8040,14 @@
       "word": "麦迪不解中国男篮输球",
       "onboard_time": 1696492295,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238745,
+      "num": 205377,
+      "word": "马龙不为失利找借口",
+      "onboard_time": 1696501294,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -8465,6 +8505,14 @@
       "onboard_time": 1696458978,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 224163,
+      "num": 224163,
+      "word": "陈都灵被虫子吓到的反应",
+      "onboard_time": 1696501176,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223927,
@@ -9035,12 +9083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207749,
+      "num": 948406,
+      "word": "这是电动车不可承受之重",
+      "onboard_time": 1696493915,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207413,
       "num": 207413,
       "word": "国乒运动员赛场上能有多帅",
       "onboard_time": 1696302692,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 207355,
+      "num": 207355,
+      "word": "日本一企业用人造子宫培育出鲨鱼",
+      "onboard_time": 1696501653,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207320,
@@ -9209,6 +9273,14 @@
       "onboard_time": 1696079565,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 203796,
+      "num": 203796,
+      "word": "外国人被杭州的网约车惊艳到了",
+      "onboard_time": 1696501834,
+      "rank": 33,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 203584,
@@ -9401,14 +9473,6 @@
       "onboard_time": 1696433375,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200009,
-      "num": 948406,
-      "word": "这是电动车不可承受之重",
-      "onboard_time": 1696493915,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199989,
@@ -10329,6 +10393,14 @@
       "onboard_time": 1696403196,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181095,
+      "num": 181095,
+      "word": "李诗沣受伤",
+      "onboard_time": 1696501715,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 180719,
@@ -11257,14 +11329,6 @@
       "onboard_time": 1696402593,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 156969,
-      "num": 156969,
-      "word": "高铁不脏手薯片吃法",
-      "onboard_time": 1696501114,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 156919,

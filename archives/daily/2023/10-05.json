@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696501165043,
+  "endTime": 1696502182849,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2722740,
+      "num": 2722740,
+      "word": "日本一火山喷发",
+      "onboard_time": 1696498414,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2580234,
       "num": 1269159,
       "word": "秦霄贤喜欢的女生类型变了",
       "onboard_time": 1696472250,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2511607,
-      "num": 2511607,
-      "word": "日本一火山喷发",
-      "onboard_time": 1696498414,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2401767,
@@ -467,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 528697,
+      "num": 528697,
+      "word": "台风",
+      "onboard_time": 1696500514,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525231,
       "num": 525231,
       "word": "日本开始第二轮核污染水排海",
@@ -481,6 +489,14 @@
       "onboard_time": 1696472613,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 499853,
+      "num": 499853,
+      "word": "中韩男星时装周状态",
+      "onboard_time": 1696500272,
+      "rank": 16,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 496928,
@@ -521,14 +537,6 @@
       "onboard_time": 1696492954,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 487007,
-      "num": 487007,
-      "word": "中韩男星时装周状态",
-      "onboard_time": 1696500272,
-      "rank": 16,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 484688,
@@ -657,6 +665,14 @@
       "onboard_time": 1696486415,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 417592,
+      "num": 506291,
+      "word": "泰国枪击案凶手成绩优异沉迷游戏",
+      "onboard_time": 1696499376,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415257,
@@ -795,6 +811,22 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 357539,
+      "num": 357539,
+      "word": "高铁不脏手薯片吃法",
+      "onboard_time": 1696501114,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 351349,
+      "num": 351349,
+      "word": "吉克隽逸戴的是泸沽湖畔捡的花",
+      "onboard_time": 1696499493,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 342165,
       "num": 342165,
       "word": "黄轩 病娇",
@@ -827,20 +859,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 315938,
-      "num": 506291,
-      "word": "泰国枪击案凶手成绩优异沉迷游戏",
-      "onboard_time": 1696499376,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314623,
       "num": 314623,
       "word": "黄景瑜说确实很喜欢黄明昊",
       "onboard_time": 1696461261,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 310131,
+      "num": 206512,
+      "word": "金博洋铜牌",
+      "onboard_time": 1696501474,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 309327,
@@ -915,6 +947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 299575,
+      "num": 299575,
+      "word": "李诗沣进亚运4强",
+      "onboard_time": 1696501474,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298479,
       "num": 298479,
       "word": "杭州托尼无人敢承认是自己做的",
@@ -971,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 280236,
-      "num": 280236,
-      "word": "吉克隽逸戴的是泸沽湖畔捡的花",
-      "onboard_time": 1696499493,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 280052,
       "num": 280052,
       "word": "王心凌第一次爱的人全场大合唱",
@@ -987,12 +1019,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 276792,
-      "num": 276792,
-      "word": "台风",
-      "onboard_time": 1696500514,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 278198,
+      "num": 278198,
+      "word": "莎头",
+      "onboard_time": 1696501834,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 275726,
@@ -1155,6 +1187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247718,
+      "num": 206438,
+      "word": "叔叔看不懂cctv5了",
+      "onboard_time": 1696501355,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246492,
       "num": 246492,
       "word": "恋爱脑知道自己是恋爱脑吗",
@@ -1200,6 +1240,14 @@
       "word": "麦迪不解中国男篮输球",
       "onboard_time": 1696492295,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 238745,
+      "num": 205377,
+      "word": "马龙不为失利找借口",
+      "onboard_time": 1696501294,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -1273,6 +1321,14 @@
       "onboard_time": 1696458978,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 224163,
+      "num": 224163,
+      "word": "陈都灵被虫子吓到的反应",
+      "onboard_time": 1696501176,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223927,
@@ -1411,6 +1467,22 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 207749,
+      "num": 948406,
+      "word": "这是电动车不可承受之重",
+      "onboard_time": 1696493915,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207355,
+      "num": 207355,
+      "word": "日本一企业用人造子宫培育出鲨鱼",
+      "onboard_time": 1696501653,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205953,
       "num": 205953,
       "word": "沙特将申办2034年世界杯",
@@ -1435,6 +1507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203796,
+      "num": 203796,
+      "word": "外国人被杭州的网约车惊艳到了",
+      "onboard_time": 1696501834,
+      "rank": 33,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 202497,
       "num": 202497,
       "word": "林雨薇发文表白自己的首个亚运",
@@ -1448,14 +1528,6 @@
       "word": "日本本州东南6.2级地震",
       "onboard_time": 1696474955,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 200009,
-      "num": 948406,
-      "word": "这是电动车不可承受之重",
-      "onboard_time": 1696493915,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1611,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188779,
+      "num": 188779,
+      "word": "王楚钦孙颖莎",
+      "onboard_time": 1696502015,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188391,
       "num": 188391,
       "word": "wtt球星挑战赛兰州站2023",
@@ -1641,6 +1721,14 @@
       "onboard_time": 1696496431,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 181095,
+      "num": 181095,
+      "word": "李诗沣受伤",
+      "onboard_time": 1696501715,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 179359,
@@ -1817,14 +1905,6 @@
       "onboard_time": 1696499013,
       "rank": 39,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 156969,
-      "num": 156969,
-      "word": "高铁不脏手薯片吃法",
-      "onboard_time": 1696501114,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 156433,
