@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696526146467,
+  "endTime": 1696527233042,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -8003,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 261661,
+      "num": 261661,
+      "word": "于文文当预言家睡过头了",
+      "onboard_time": 1696526423,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261622,
       "num": 1772978,
       "word": "升中国国旗是亚运健儿对祖国的告白",
@@ -14081,6 +14089,14 @@
       "onboard_time": 1696094603,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 60635,
+      "num": 60635,
+      "word": "淮安洪泽湖畔音乐节",
+      "onboard_time": 1696527141,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 60304,

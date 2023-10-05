@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696526146467,
+  "endTime": 1696527233042,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -209,6 +209,14 @@
       "onboard_time": 1696517317,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261661,
+      "num": 261661,
+      "word": "于文文当预言家睡过头了",
+      "onboard_time": 1696526423,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 259600,
@@ -459,12 +467,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 63608,
-      "num": 63608,
+      "raw_hot": 64429,
+      "num": 64429,
       "word": "还得是女篮 还得是中国女人",
       "onboard_time": 1696513906,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 60635,
+      "num": 60635,
+      "word": "淮安洪泽湖畔音乐节",
+      "onboard_time": 1696527141,
+      "rank": 46,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
