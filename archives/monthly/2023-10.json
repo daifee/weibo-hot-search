@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696512988616,
+  "endTime": 1696515352515,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -51,10 +51,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7244618,
+      "num": 7244618,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1696491874,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6766838,
       "num": 6766838,
       "word": "吴艳妮成绩被取消",
       "onboard_time": 1696168425,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6587969,
+      "num": 7112766,
+      "word": "中国女篮冠军",
+      "onboard_time": 1696513546,
       "rank": 1,
       "category": "体育"
     },
@@ -411,14 +427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2227782,
-      "num": 2227782,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1696491874,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2172490,
       "num": 2172490,
       "word": "王楚钦晋级决赛",
@@ -489,6 +497,14 @@
       "onboard_time": 1696220251,
       "rank": 4,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 2077136,
+      "num": 2077136,
+      "word": "李梦好猛",
+      "onboard_time": 1696509756,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 2066511,
@@ -576,14 +592,6 @@
       "word": "林雨薇100米栏金牌",
       "onboard_time": 1696167283,
       "rank": 6,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1835271,
-      "num": 1835271,
-      "word": "李梦好猛",
-      "onboard_time": 1696509756,
-      "rank": 3,
       "category": "体育"
     },
     {
@@ -809,6 +817,14 @@
       "onboard_time": 1696376846,
       "rank": 0,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1627586,
+      "num": 1627586,
+      "word": "还得是女篮 还得是中国女人",
+      "onboard_time": 1696513906,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1620351,
@@ -1491,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1063050,
+      "num": 1063050,
+      "word": "杨舒予好帅",
+      "onboard_time": 1696326036,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1062819,
       "num": 384164,
       "word": "黄奕外网生图",
@@ -1620,7 +1644,7 @@
     },
     {
       "raw_hot": 1011965,
-      "num": 611530,
+      "num": 620766,
       "word": "范玮琪感谢陈建州守护家庭",
       "onboard_time": 1696508194,
       "rank": 12,
@@ -2899,6 +2923,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 657429,
+      "num": 657429,
+      "word": "第一次见这么简陋的机场",
+      "onboard_time": 1696509575,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 653543,
       "num": 340570,
       "word": "终于和网恋教父RichBrian奔现了",
@@ -3035,6 +3067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631359,
+      "num": 631359,
+      "word": "王思雨上篮",
+      "onboard_time": 1696513607,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 630390,
       "num": 2953082,
       "word": "酒店1天11对新人结婚拉满横幅",
@@ -3123,6 +3163,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 609430,
+      "num": 609430,
+      "word": "周也的美是遗传的",
+      "onboard_time": 1696512516,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 607046,
       "num": 607046,
       "word": "张杰回应谢震业",
@@ -3148,7 +3196,7 @@
     },
     {
       "raw_hot": 602599,
-      "num": 400602,
+      "num": 401075,
       "word": "身体还很年轻的表现",
       "onboard_time": 1696510478,
       "rank": 20,
@@ -3385,14 +3433,6 @@
       "onboard_time": 1696311271,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 575973,
-      "num": 575973,
-      "word": "第一次见这么简陋的机场",
-      "onboard_time": 1696509575,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 575771,
@@ -3689,6 +3729,14 @@
       "onboard_time": 1696427257,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532272,
+      "num": 532272,
+      "word": "王思雨绝杀",
+      "onboard_time": 1696514384,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 531322,
@@ -4907,14 +4955,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 404597,
-      "num": 404597,
-      "word": "杨舒予好帅",
-      "onboard_time": 1696326036,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 404054,
       "num": 335379,
       "word": "10月十二星座注意事项",
@@ -5299,6 +5339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 373354,
+      "num": 373354,
+      "word": "王鹤棣许七安新剧照",
+      "onboard_time": 1696512457,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372717,
       "num": 559303,
       "word": "雷蒙多称华为芯片突破令人不安",
@@ -5312,6 +5360,14 @@
       "word": "许昕说孙颖莎逐渐扛起女乒大旗",
       "onboard_time": 1696249058,
       "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 371198,
+      "num": 371198,
+      "word": "袁琦琦的腿",
+      "onboard_time": 1696512876,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -5377,6 +5433,14 @@
       "onboard_time": 1696127371,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367730,
+      "num": 282796,
+      "word": "李梦美甲",
+      "onboard_time": 1696515100,
+      "rank": 30,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 367397,
@@ -6339,6 +6403,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 313025,
+      "num": 313025,
+      "word": "中国女篮冲击亚运第七冠",
+      "onboard_time": 1696512759,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311826,
       "num": 311826,
       "word": "浙江95后夫妻两天狂揽4枚亚运金牌",
@@ -7107,6 +7179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283032,
+      "num": 283032,
+      "word": "黄景瑜6句人呢喊出撕心裂肺感",
+      "onboard_time": 1696513236,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282437,
       "num": 282437,
       "word": "以为看的是单人跳水",
@@ -7257,6 +7337,14 @@
       "onboard_time": 1696151190,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 277244,
+      "num": 277244,
+      "word": "好事成双结局都是好事",
+      "onboard_time": 1696512040,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 277194,
@@ -8107,6 +8195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247452,
+      "num": 247452,
+      "word": "李缘关键三分",
+      "onboard_time": 1696514919,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247243,
       "num": 247243,
       "word": "返程的后备箱太累了",
@@ -8161,6 +8257,14 @@
       "onboard_time": 1696471592,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245526,
+      "num": 245526,
+      "word": "张小斐发文告别林双",
+      "onboard_time": 1696514801,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 245499,
@@ -8376,6 +8480,14 @@
       "word": "麦迪不解中国男篮输球",
       "onboard_time": 1696492295,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239111,
+      "num": 239111,
+      "word": "女篮决赛现场飘满五星红旗",
+      "onboard_time": 1696514505,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -8633,14 +8745,6 @@
       "onboard_time": 1696127731,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 228856,
-      "num": 228856,
-      "word": "周也的美是遗传的",
-      "onboard_time": 1696512516,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 228756,
@@ -9123,6 +9227,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 217566,
+      "num": 217566,
+      "word": "李月汝盖帽帅死",
+      "onboard_time": 1696510119,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216834,
       "num": 216834,
       "word": "孟佳说我们不要再做这么笨的女人了",
@@ -9323,14 +9435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 211994,
-      "num": 211994,
-      "word": "好事成双结局都是好事",
-      "onboard_time": 1696512040,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211537,
       "num": 211537,
       "word": "王楚钦四冠王",
@@ -9523,14 +9627,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 206615,
-      "num": 206615,
-      "word": "李月汝盖帽帅死",
-      "onboard_time": 1696510119,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206499,
       "num": 206499,
       "word": "李兰迪和她的哈基米",
@@ -9545,6 +9641,14 @@
       "onboard_time": 1696336961,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 206476,
+      "num": 206476,
+      "word": "好事成双",
+      "onboard_time": 1696280535,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 206409,
@@ -9947,14 +10051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199451,
-      "num": 199451,
-      "word": "王鹤棣许七安新剧照",
-      "onboard_time": 1696512457,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199400,
       "num": 199400,
       "word": "孙颖莎4比1早田希娜",
@@ -10201,6 +10297,22 @@
       "onboard_time": 1696343979,
       "rank": 40,
       "category": "社会新闻,音乐"
+    },
+    {
+      "raw_hot": 194573,
+      "num": 4167877,
+      "word": "被亚运会的氛围可爱到了",
+      "onboard_time": 1696511138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194559,
+      "num": 421390,
+      "word": "女篮载誉前行",
+      "onboard_time": 1696514321,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 194459,
@@ -10619,14 +10731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186514,
-      "num": 186514,
-      "word": "袁琦琦的腿",
-      "onboard_time": 1696512876,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 186289,
       "num": 186289,
       "word": "中国女篮亚运会五连胜",
@@ -10672,6 +10776,22 @@
       "word": "不要怀疑自己胜利的秘诀就是相信自己",
       "onboard_time": 1696147593,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185073,
+      "num": 181775,
+      "word": "喻言合肥巡演",
+      "onboard_time": 1696515100,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 184469,
+      "num": 184469,
+      "word": "中国女篮战胜日本女篮",
+      "onboard_time": 1696514679,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -10961,14 +11081,6 @@
       "onboard_time": 1696403615,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 177762,
-      "num": 177762,
-      "word": "中国女篮冲击亚运第七冠",
-      "onboard_time": 1696512759,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 177594,
@@ -11376,6 +11488,14 @@
       "word": "金刚芭比袁琦琦爆发力太炸裂",
       "onboard_time": 1696400974,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166848,
+      "num": 166848,
+      "word": "中国女篮夺冠后抱起教练",
+      "onboard_time": 1696515339,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -12667,14 +12787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 132578,
-      "num": 1625703,
-      "word": "被亚运会的氛围可爱到了",
-      "onboard_time": 1696511138,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131900,
       "num": 131900,
       "word": "中国女排对阵越南",
@@ -13881,14 +13993,6 @@
       "onboard_time": 1696230032,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30285,
-      "num": 30285,
-      "word": "好事成双",
-      "onboard_time": 1696280535,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 29067,

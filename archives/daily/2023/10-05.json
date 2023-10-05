@@ -1,7 +1,23 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696512988616,
+  "endTime": 1696515352515,
   "band_list": [
+    {
+      "raw_hot": 7244618,
+      "num": 7244618,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1696491874,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6587969,
+      "num": 7112766,
+      "word": "中国女篮冠军",
+      "onboard_time": 1696513546,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 3472438,
       "num": 3472438,
@@ -75,20 +91,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 2227782,
-      "num": 2227782,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1696491874,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2120948,
       "num": 2120948,
       "word": "新闻联播新主播王音棋",
       "onboard_time": 1696505315,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2077136,
+      "num": 2077136,
+      "word": "李梦好猛",
+      "onboard_time": 1696509756,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1926471,
@@ -113,14 +129,6 @@
       "onboard_time": 1696435416,
       "rank": 4,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 1835271,
-      "num": 1835271,
-      "word": "李梦好猛",
-      "onboard_time": 1696509756,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 1823923,
@@ -153,6 +161,14 @@
       "onboard_time": 1696463006,
       "rank": 0,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 1627586,
+      "num": 1627586,
+      "word": "还得是女篮 还得是中国女人",
+      "onboard_time": 1696513906,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1612589,
@@ -251,6 +267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1063050,
+      "num": 1063050,
+      "word": "杨舒予好帅",
+      "onboard_time": 1696510424,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1012820,
       "num": 456952,
       "word": "女生气血不足的6个表现",
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 1011965,
-      "num": 611530,
+      "num": 620766,
       "word": "范玮琪感谢陈建州守护家庭",
       "onboard_time": 1696508194,
       "rank": 12,
@@ -483,6 +507,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 657429,
+      "num": 657429,
+      "word": "第一次见这么简陋的机场",
+      "onboard_time": 1696509575,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 641994,
       "num": 641994,
       "word": "女孩放弃买钻戒花50万买金条",
@@ -507,12 +539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631359,
+      "num": 631359,
+      "word": "王思雨上篮",
+      "onboard_time": 1696513607,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612150,
       "num": 612150,
       "word": "王楚钦已经痛失本名",
       "onboard_time": 1696426117,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 609430,
+      "num": 609430,
+      "word": "周也的美是遗传的",
+      "onboard_time": 1696512516,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 606495,
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 602599,
-      "num": 400602,
+      "num": 401075,
       "word": "身体还很年轻的表现",
       "onboard_time": 1696510478,
       "rank": 20,
@@ -579,14 +627,6 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 575973,
-      "num": 575973,
-      "word": "第一次见这么简陋的机场",
-      "onboard_time": 1696509575,
-      "rank": 30,
-      "category": "其它"
-    },
-    {
       "raw_hot": 575771,
       "num": 575771,
       "word": "女子通过WiFi名称跨60公里寻回手机",
@@ -625,6 +665,14 @@
       "onboard_time": 1696495532,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 532272,
+      "num": 532272,
+      "word": "王思雨绝杀",
+      "onboard_time": 1696514384,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 525231,
@@ -1019,12 +1067,36 @@
       "category": "互联网,剧集"
     },
     {
+      "raw_hot": 373354,
+      "num": 373354,
+      "word": "王鹤棣许七安新剧照",
+      "onboard_time": 1696512457,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 372717,
       "num": 559303,
       "word": "雷蒙多称华为芯片突破令人不安",
       "onboard_time": 1696502795,
       "rank": 21,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 371198,
+      "num": 371198,
+      "word": "袁琦琦的腿",
+      "onboard_time": 1696512876,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 367730,
+      "num": 282796,
+      "word": "李梦美甲",
+      "onboard_time": 1696515100,
+      "rank": 30,
+      "category": "体育,美妆"
     },
     {
       "raw_hot": 367397,
@@ -1115,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 327097,
-      "num": 327097,
-      "word": "杨舒予好帅",
-      "onboard_time": 1696510424,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327024,
       "num": 327024,
       "word": "游客爬上泰山被消防担架抬下山",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1696461261,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 313025,
+      "num": 313025,
+      "word": "中国女篮冲击亚运第七冠",
+      "onboard_time": 1696512759,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 309327,
@@ -1331,12 +1403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283032,
+      "num": 283032,
+      "word": "黄景瑜6句人呢喊出撕心裂肺感",
+      "onboard_time": 1696513236,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280052,
       "num": 280052,
       "word": "王心凌第一次爱的人全场大合唱",
       "onboard_time": 1696470392,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 277244,
+      "num": 277244,
+      "word": "好事成双结局都是好事",
+      "onboard_time": 1696512040,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 275726,
@@ -1539,6 +1627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247452,
+      "num": 247452,
+      "word": "李缘关键三分",
+      "onboard_time": 1696514919,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 247243,
       "num": 247243,
       "word": "返程的后备箱太累了",
@@ -1553,6 +1649,14 @@
       "onboard_time": 1696471592,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245526,
+      "num": 245526,
+      "word": "张小斐发文告别林双",
+      "onboard_time": 1696514801,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 245499,
@@ -1592,6 +1696,14 @@
       "word": "麦迪不解中国男篮输球",
       "onboard_time": 1696492295,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 239111,
+      "num": 239111,
+      "word": "女篮决赛现场飘满五星红旗",
+      "onboard_time": 1696514505,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -1665,14 +1777,6 @@
       "onboard_time": 1696426237,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 228856,
-      "num": 228856,
-      "word": "周也的美是遗传的",
-      "onboard_time": 1696512516,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 227322,
@@ -1803,6 +1907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 217566,
+      "num": 217566,
+      "word": "李月汝盖帽帅死",
+      "onboard_time": 1696510119,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216770,
       "num": 216770,
       "word": "流量化的本质 迎合偏见",
@@ -1833,14 +1945,6 @@
       "onboard_time": 1696432537,
       "rank": 31,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 211994,
-      "num": 211994,
-      "word": "好事成双结局都是好事",
-      "onboard_time": 1696512040,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 211320,
@@ -1899,12 +2003,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 206615,
-      "num": 206615,
-      "word": "李月汝盖帽帅死",
-      "onboard_time": 1696510119,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 206476,
+      "num": 206476,
+      "word": "好事成双",
+      "onboard_time": 1696513483,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 205953,
@@ -1979,14 +2083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199451,
-      "num": 199451,
-      "word": "王鹤棣许七安新剧照",
-      "onboard_time": 1696512457,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 199342,
       "num": 199342,
       "word": "黄轩纯狱疯",
@@ -2049,6 +2145,22 @@
       "onboard_time": 1696478556,
       "rank": 30,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 194573,
+      "num": 4167877,
+      "word": "被亚运会的氛围可爱到了",
+      "onboard_time": 1696511138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194559,
+      "num": 421390,
+      "word": "女篮载誉前行",
+      "onboard_time": 1696514321,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 194459,
@@ -2139,11 +2251,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186514,
-      "num": 186514,
-      "word": "袁琦琦的腿",
-      "onboard_time": 1696512876,
+      "raw_hot": 188107,
+      "num": 188107,
+      "word": "亚运会",
+      "onboard_time": 1696514083,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185073,
+      "num": 181775,
+      "word": "喻言合肥巡演",
+      "onboard_time": 1696515100,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 184469,
+      "num": 184469,
+      "word": "中国女篮战胜日本女篮",
+      "onboard_time": 1696514679,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -2193,14 +2321,6 @@
       "onboard_time": 1696433375,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177762,
-      "num": 177762,
-      "word": "中国女篮冲击亚运第七冠",
-      "onboard_time": 1696512759,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 177483,
@@ -2305,6 +2425,14 @@
       "onboard_time": 1696486114,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166848,
+      "num": 166848,
+      "word": "中国女篮夺冠后抱起教练",
+      "onboard_time": 1696515339,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 166545,
@@ -2625,14 +2753,6 @@
       "onboard_time": 1696499314,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 132578,
-      "num": 1625703,
-      "word": "被亚运会的氛围可爱到了",
-      "onboard_time": 1696511138,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131900,
