@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696533218810,
+  "endTime": 1696534446435,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -14193,6 +14193,14 @@
       "onboard_time": 1696355001,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49700,
+      "num": 30748,
+      "word": "吴昕杜海涛聊主持人思维",
+      "onboard_time": 1696533495,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 49317,
