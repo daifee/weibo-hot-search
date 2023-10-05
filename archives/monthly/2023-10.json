@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696540503625,
+  "endTime": 1696541647406,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -14507,6 +14507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 21694,
+      "num": 21694,
+      "word": "爷爷奶奶的忠告治好了年轻人的焦虑",
+      "onboard_time": 1696540094,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 19990,
       "num": 19990,
       "word": "和平精英项目",
@@ -14537,14 +14545,6 @@
       "onboard_time": 1696237233,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14699,
-      "num": 16575,
-      "word": "爷爷奶奶的忠告治好了年轻人的焦虑",
-      "onboard_time": 1696540094,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 13909,

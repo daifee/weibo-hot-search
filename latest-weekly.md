@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 05:15:03
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 05:34:07
 </p>
 </blockquote>
 <p>
@@ -10893,6 +10893,12 @@ iQOO手机见证中国电竞冲金时刻（热度：24438）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
+爷爷奶奶的忠告治好了年轻人的焦虑（热度：21694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1%E9%A1%B9%E7%9B%AE%23" target="weibo">
 和平精英项目（热度：19990）
 </a>
@@ -10913,12 +10919,6 @@ iQOO手机见证中国电竞冲金时刻（热度：24438）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E6%9B%BC%E6%A3%8B%E5%93%AA%E5%90%92%E6%9C%AC%E5%90%92%23" target="weibo">
 葛曼棋哪吒本吒（热度：17355）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%A5%B6%E5%A5%B6%E7%9A%84%E5%BF%A0%E5%91%8A%E6%B2%BB%E5%A5%BD%E4%BA%86%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E7%84%A6%E8%99%91%23" target="weibo">
-爷爷奶奶的忠告治好了年轻人的焦虑（热度：14699）
 </a>
 </li>
 
