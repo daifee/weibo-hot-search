@@ -1,0 +1,410 @@
+{
+  "runTime": 1696509315800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2120948,
+        "num": 2120948,
+        "word": "新闻联播新主播王音棋",
+        "onboard_time": 1696505315,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1185507,
+        "num": 1185507,
+        "word": "王楚钦孙颖莎",
+        "onboard_time": 1696502015,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102270,
+        "num": 1122752,
+        "word": "杭州亚运会处处都有显眼包",
+        "onboard_time": 1696493552,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1076667,
+        "num": 1076667,
+        "word": "中国女篮vs日本女篮",
+        "onboard_time": 1696503877,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 741962,
+        "num": 741962,
+        "word": "爱情公狱",
+        "onboard_time": 1696495113,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 696755,
+        "num": 696755,
+        "word": "陈雨菲进亚运4强",
+        "onboard_time": 1696506637,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 575820,
+        "num": 575820,
+        "word": "我的国家没参赛我来支持中国队",
+        "onboard_time": 1696487255,
+        "rank": 6,
+        "category": "情感,体育"
+      },
+      {
+        "raw_hot": 433890,
+        "num": 433890,
+        "word": "林高远王曼昱1比3张本智和早田希娜",
+        "onboard_time": 1696498831,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 379484,
+        "num": 379484,
+        "word": "张艺兴 UZI",
+        "onboard_time": 1696492650,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 368380,
+        "num": 368380,
+        "word": "日本一企业用人造子宫培育出鲨鱼",
+        "onboard_time": 1696501653,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2319175,
+        "num": 368150,
+        "word": "女子曝光丈夫和幼儿园园长开房",
+        "onboard_time": 1696505373,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95004,
+        "num": 367628,
+        "word": "陈雨菲全力破局",
+        "onboard_time": 1696507176,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 687701,
+        "num": 367082,
+        "word": "范玮琪感谢陈建州守护家庭",
+        "onboard_time": 1696508194,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543349,
+        "num": 366156,
+        "word": "日本一火山喷发",
+        "onboard_time": 1696498414,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484445,
+        "num": 366079,
+        "word": "赵丽颖拍的云",
+        "onboard_time": 1696507296,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405437,
+        "num": 365410,
+        "word": "女子气球绑1800元为男友庆生不慎飞走",
+        "onboard_time": 1696504657,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364980,
+        "num": 364980,
+        "word": "乌尔善 听说有人建议我开塑身训练营",
+        "onboard_time": 1696508496,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360258,
+        "num": 360258,
+        "word": "王一博巴黎看秀官方镜头",
+        "onboard_time": 1696507595,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 350439,
+        "num": 350439,
+        "word": "于和伟帅死了",
+        "onboard_time": 1696508136,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233288,
+        "num": 340293,
+        "word": "中国女排亚运4连胜",
+        "onboard_time": 1696508496,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580252,
+        "num": 340203,
+        "word": "女生气血不足的6个表现",
+        "onboard_time": 1696497515,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 339437,
+        "num": 339437,
+        "word": "鲁迅的家离三味书屋这么近还迟到",
+        "onboard_time": 1696492954,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337844,
+        "num": 337844,
+        "word": "腾讯视频 胆小模式",
+        "onboard_time": 1696488754,
+        "rank": 22,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 298224,
+        "num": 298224,
+        "word": "原来脱发和穴位有关",
+        "onboard_time": 1696507115,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 296826,
+        "num": 296826,
+        "word": "他从火光中走来",
+        "onboard_time": 1696505256,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296619,
+        "num": 296619,
+        "word": "女子住主题酒店连续3间房发现摄像头",
+        "onboard_time": 1696489233,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291081,
+        "num": 291081,
+        "word": "利拉德申请离婚",
+        "onboard_time": 1696506038,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283263,
+        "num": 283263,
+        "word": "看坚如磐石 别带小孩",
+        "onboard_time": 1696508437,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275782,
+        "num": 275782,
+        "word": "女篮决赛媒体席爆满",
+        "onboard_time": 1696508437,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262123,
+        "num": 262123,
+        "word": "薛之谦巡演三站开启预售",
+        "onboard_time": 1696507595,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 460257,
+        "num": 260590,
+        "word": "被巴黎戴高乐机场的中文折服了",
+        "onboard_time": 1696507957,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256376,
+        "num": 256376,
+        "word": "全红婵的弹跳没有地心引力",
+        "onboard_time": 1696481134,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225486,
+        "num": 225486,
+        "word": "我在利物浦偶遇了洋幂",
+        "onboard_time": 1696507537,
+        "rank": 32,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 224077,
+        "num": 224077,
+        "word": "游客相机掉落被大熊猫捡走",
+        "onboard_time": 1696507776,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223286,
+        "num": 223286,
+        "word": "女孩放弃买钻戒花50万买金条",
+        "onboard_time": 1696495593,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217266,
+        "num": 217266,
+        "word": "EXO明年或将有专辑",
+        "onboard_time": 1696504657,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 215477,
+        "num": 215477,
+        "word": "腾讯视频回应推出胆小模式",
+        "onboard_time": 1696503456,
+        "rank": 36,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 213641,
+        "num": 213641,
+        "word": "台风",
+        "onboard_time": 1696500514,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211653,
+        "num": 211653,
+        "word": "雷蒙多称华为芯片突破令人不安",
+        "onboard_time": 1696502795,
+        "rank": 38,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 205798,
+        "num": 205798,
+        "word": "曾舜晞不如一见2023见面会",
+        "onboard_time": 1696505916,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188944,
+        "num": 188944,
+        "word": "王楚钦孙颖莎3比2梁靖崑钱天一",
+        "onboard_time": 1696504956,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188094,
+        "num": 188094,
+        "word": "陈雨菲vs金佳恩",
+        "onboard_time": 1696502376,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181217,
+        "num": 181217,
+        "word": "莎头",
+        "onboard_time": 1696501834,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180472,
+        "num": 180472,
+        "word": "返程的后备箱太累了",
+        "onboard_time": 1696504657,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162623,
+        "num": 162623,
+        "word": "薛之谦石家庄",
+        "onboard_time": 1696507835,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160122,
+        "num": 160122,
+        "word": "高铁不脏手薯片吃法",
+        "onboard_time": 1696501114,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158986,
+        "num": 158986,
+        "word": "第一次在恋综看到女嘉宾翻白眼",
+        "onboard_time": 1696475013,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153995,
+        "num": 153995,
+        "word": "广州塔这辈子没被这样看过",
+        "onboard_time": 1696495532,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 127128,
+        "num": 153994,
+        "word": "叔叔看不懂cctv5了",
+        "onboard_time": 1696501355,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126673,
+        "num": 153992,
+        "word": "吉克隽逸戴的是泸沽湖畔捡的花",
+        "onboard_time": 1696499493,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}

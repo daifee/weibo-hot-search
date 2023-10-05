@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696505656785,
+  "endTime": 1696509315800,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2319175,
+      "num": 368150,
+      "word": "女子曝光丈夫和幼儿园园长开房",
+      "onboard_time": 1696505373,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2305491,
       "num": 2305491,
       "word": "全红婵的弹跳没有地心引力",
@@ -65,6 +73,14 @@
       "onboard_time": 1696495113,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2120948,
+      "num": 2120948,
+      "word": "新闻联播新主播王音棋",
+      "onboard_time": 1696505315,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1926471,
@@ -201,6 +217,14 @@
       "onboard_time": 1696495953,
       "rank": 1,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 1076667,
+      "num": 1076667,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1696491874,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 1066453,
@@ -363,12 +387,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 696755,
+      "num": 696755,
+      "word": "陈雨菲进亚运4强",
+      "onboard_time": 1696506637,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 692141,
       "num": 350959,
       "word": "姚明傻眼了",
       "onboard_time": 1696432177,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 687701,
+      "num": 367082,
+      "word": "范玮琪感谢陈建州守护家庭",
+      "onboard_time": 1696508194,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 660361,
@@ -531,14 +571,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 498411,
-      "num": 498411,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1696491874,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 497239,
       "num": 497239,
       "word": "高铁不脏手薯片吃法",
@@ -595,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 484445,
+      "num": 366079,
+      "word": "赵丽颖拍的云",
+      "onboard_time": 1696507296,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 482829,
       "num": 482829,
       "word": "梁崴 尴尬",
@@ -633,6 +673,14 @@
       "onboard_time": 1696474774,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 460257,
+      "num": 260590,
+      "word": "被巴黎戴高乐机场的中文折服了",
+      "onboard_time": 1696507957,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 456317,
@@ -689,14 +737,6 @@
       "onboard_time": 1696496373,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 434236,
-      "num": 290130,
-      "word": "新闻联播新主播王音棋",
-      "onboard_time": 1696505315,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 426043,
@@ -760,6 +800,14 @@
       "word": "核污水冲击下的日料店",
       "onboard_time": 1696483774,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 405437,
+      "num": 365410,
+      "word": "女子气球绑1800元为男友庆生不慎飞走",
+      "onboard_time": 1696504657,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -883,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 364980,
+      "num": 364980,
+      "word": "乌尔善 听说有人建议我开塑身训练营",
+      "onboard_time": 1696508496,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 363464,
       "num": 363464,
       "word": "迷笛官方称南阳盗窃案件落实65起",
@@ -899,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 360258,
+      "num": 360258,
+      "word": "王一博巴黎看秀官方镜头",
+      "onboard_time": 1696507595,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 359708,
       "num": 359708,
       "word": "部分迷笛音乐节盗窃者已被抓获",
@@ -913,6 +977,14 @@
       "onboard_time": 1696499493,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 350439,
+      "num": 350439,
+      "word": "于和伟帅死了",
+      "onboard_time": 1696508136,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 347088,
@@ -939,14 +1011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 333409,
-      "num": 333409,
-      "word": "女子气球绑1800元为男友庆生不慎飞走",
-      "onboard_time": 1696504657,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327024,
       "num": 327024,
       "word": "游客爬上泰山被消防担架抬下山",
@@ -961,14 +1025,6 @@
       "onboard_time": 1696502735,
       "rank": 4,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 319831,
-      "num": 319831,
-      "word": "女子曝光丈夫和幼儿园园长开房",
-      "onboard_time": 1696505373,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316967,
@@ -1083,6 +1139,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 298224,
+      "num": 298224,
+      "word": "原来脱发和穴位有关",
+      "onboard_time": 1696507115,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 296826,
+      "num": 296826,
+      "word": "他从火光中走来",
+      "onboard_time": 1696505256,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294873,
       "num": 294873,
       "word": "丁点 你那句我养你一点也不酷",
@@ -1097,6 +1169,14 @@
       "onboard_time": 1696494513,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291081,
+      "num": 291081,
+      "word": "利拉德申请离婚",
+      "onboard_time": 1696506038,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 288389,
@@ -1131,12 +1211,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 283263,
+      "num": 283263,
+      "word": "看坚如磐石 别带小孩",
+      "onboard_time": 1696508437,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280052,
       "num": 280052,
       "word": "王心凌第一次爱的人全场大合唱",
       "onboard_time": 1696470392,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 275782,
+      "num": 275782,
+      "word": "女篮决赛媒体席爆满",
+      "onboard_time": 1696508437,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 275726,
@@ -1233,6 +1329,14 @@
       "onboard_time": 1696423357,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262123,
+      "num": 262123,
+      "word": "薛之谦巡演三站开启预售",
+      "onboard_time": 1696507595,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 261520,
@@ -1387,6 +1491,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 233288,
+      "num": 340293,
+      "word": "中国女排亚运4连胜",
+      "onboard_time": 1696508496,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233119,
       "num": 233119,
       "word": "封神训练营全员偷吃夜宵",
@@ -1443,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225486,
+      "num": 225486,
+      "word": "我在利物浦偶遇了洋幂",
+      "onboard_time": 1696507537,
+      "rank": 32,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 224431,
       "num": 224431,
       "word": "香奈儿发了王一博单人照",
@@ -1457,6 +1577,14 @@
       "onboard_time": 1696501176,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 224077,
+      "num": 224077,
+      "word": "游客相机掉落被大熊猫捡走",
+      "onboard_time": 1696507776,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 223927,
@@ -1617,6 +1745,14 @@
       "onboard_time": 1696473154,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205798,
+      "num": 205798,
+      "word": "曾舜晞不如一见2023见面会",
+      "onboard_time": 1696505916,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 204940,
@@ -2019,12 +2155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164108,
-      "num": 164108,
-      "word": "他从火光中走来",
-      "onboard_time": 1696505256,
+      "raw_hot": 162623,
+      "num": 162623,
+      "word": "薛之谦石家庄",
+      "onboard_time": 1696507835,
       "rank": 44,
-      "category": "剧集"
+      "category": "演出"
     },
     {
       "raw_hot": 158648,
@@ -2393,6 +2529,14 @@
       "onboard_time": 1696462285,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 95004,
+      "num": 367628,
+      "word": "陈雨菲全力破局",
+      "onboard_time": 1696507176,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 93703,
