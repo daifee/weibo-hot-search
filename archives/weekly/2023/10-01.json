@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696512081951,
+  "endTime": 1696512988616,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 2319175,
-      "num": 471234,
+      "num": 616371,
       "word": "女子曝光丈夫和幼儿园园长开房",
       "onboard_time": 1696505373,
       "rank": 27,
@@ -409,6 +409,14 @@
       "onboard_time": 1696495113,
       "rank": 0,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2227782,
+      "num": 2227782,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1696491874,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 2172490,
@@ -771,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1650974,
-      "num": 1650974,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1696491874,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1649605,
       "num": 1649605,
       "word": "陈粒音乐节歌词 口人不眨眼",
@@ -865,6 +865,14 @@
       "onboard_time": 1696158097,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1581971,
+      "num": 1581971,
+      "word": "加了新好友先看自己朋友圈",
+      "onboard_time": 1696510478,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 1580517,
@@ -1209,14 +1217,6 @@
       "onboard_time": 1696247137,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1269675,
-      "num": 1269675,
-      "word": "加了新好友先看自己朋友圈",
-      "onboard_time": 1696510478,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 1269580,
@@ -1619,6 +1619,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1011965,
+      "num": 611530,
+      "word": "范玮琪感谢陈建州守护家庭",
+      "onboard_time": 1696508194,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1010846,
       "num": 1010846,
       "word": "NEWJEANS李惠仁LV时装周造型",
@@ -1641,14 +1649,6 @@
       "onboard_time": 1696248276,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 994252,
-      "num": 468286,
-      "word": "范玮琪感谢陈建州守护家庭",
-      "onboard_time": 1696508194,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 990481,
@@ -1864,6 +1864,14 @@
       "word": "苏炳添哭了",
       "onboard_time": 1696089935,
       "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 887644,
+      "num": 887644,
+      "word": "看女篮就是爽",
+      "onboard_time": 1696510056,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -2307,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 782496,
-      "num": 782496,
-      "word": "看女篮就是爽",
-      "onboard_time": 1696510056,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 781911,
       "num": 781911,
       "word": "希望国乒双打失利能引起教练组的重视",
@@ -2435,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 745143,
+      "num": 602989,
+      "word": "华晨宇劝学",
+      "onboard_time": 1696511436,
+      "rank": 12,
+      "category": "演出"
+    },
+    {
       "raw_hot": 738202,
       "num": 738202,
       "word": "外国人吐槽美国面对华为芯片像疯了一样",
@@ -2531,20 +2539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 717023,
+      "num": 717023,
+      "word": "陈梦王曼昱晋级女双四强",
+      "onboard_time": 1696511794,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 716333,
       "num": 512062,
       "word": "王楚钦说自己世界第一下榜太快",
       "onboard_time": 1696344877,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 715075,
-      "num": 449193,
-      "word": "华晨宇劝学",
-      "onboard_time": 1696511436,
-      "rank": 12,
-      "category": "演出"
     },
     {
       "raw_hot": 712972,
@@ -2716,7 +2724,7 @@
     },
     {
       "raw_hot": 689147,
-      "num": 460094,
+      "num": 640394,
       "word": "被巴黎戴高乐机场的中文折服了",
       "onboard_time": 1696507957,
       "rank": 30,
@@ -2780,7 +2788,7 @@
     },
     {
       "raw_hot": 679625,
-      "num": 449013,
+      "num": 624499,
       "word": "王楚钦在场外自己教育自己",
       "onboard_time": 1696510478,
       "rank": 16,
@@ -3379,6 +3387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575973,
+      "num": 575973,
+      "word": "第一次见这么简陋的机场",
+      "onboard_time": 1696509575,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 575771,
       "num": 575771,
       "word": "女子通过WiFi名称跨60公里寻回手机",
@@ -3460,7 +3476,7 @@
     },
     {
       "raw_hot": 561734,
-      "num": 561734,
+      "num": 576233,
       "word": "日本一企业用人造子宫培育出鲨鱼",
       "onboard_time": 1696501653,
       "rank": 29,
@@ -3705,14 +3721,6 @@
       "onboard_time": 1696149513,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 529740,
-      "num": 448999,
-      "word": "第一次见这么简陋的机场",
-      "onboard_time": 1696509575,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 526814,
@@ -4435,14 +4443,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 448957,
-      "num": 448957,
-      "word": "陈梦王曼昱晋级女双四强",
-      "onboard_time": 1696511794,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 448600,
       "num": 356765,
       "word": "我在十一靠婚礼搞钱8天赚3万",
@@ -4609,6 +4609,14 @@
       "onboard_time": 1696496373,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 434236,
+      "num": 434236,
+      "word": "王阳又演反派了",
+      "onboard_time": 1696511076,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 434075,
@@ -5185,14 +5193,6 @@
       "onboard_time": 1696238852,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384316,
-      "num": 384316,
-      "word": "王阳又演反派了",
-      "onboard_time": 1696511076,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 384268,
@@ -6009,6 +6009,14 @@
       "onboard_time": 1696167766,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 330685,
+      "num": 591269,
+      "word": "游客相机掉落被大熊猫捡走",
+      "onboard_time": 1696507776,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 330480,
@@ -7299,14 +7307,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 275473,
-      "num": 449168,
-      "word": "游客相机掉落被大熊猫捡走",
-      "onboard_time": 1696507776,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 275355,
       "num": 275355,
       "word": "白鹿发文感谢粉丝",
@@ -7776,6 +7776,22 @@
       "word": "在大山中奔跑的梁小静成为亚运冠军",
       "onboard_time": 1696341820,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 259710,
+      "num": 259710,
+      "word": "白鹿时装周新造型",
+      "onboard_time": 1696511257,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 259282,
+      "num": 259282,
+      "word": "韩旭勾手美如画",
+      "onboard_time": 1696512335,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -8363,14 +8379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 238891,
-      "num": 238891,
-      "word": "白鹿时装周新造型",
-      "onboard_time": 1696511257,
-      "rank": 32,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 238745,
       "num": 205377,
       "word": "马龙不为失利找借口",
@@ -8625,6 +8633,14 @@
       "onboard_time": 1696127731,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 228856,
+      "num": 228856,
+      "word": "周也的美是遗传的",
+      "onboard_time": 1696512516,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 228756,
@@ -9307,6 +9323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211994,
+      "num": 211994,
+      "word": "好事成双结局都是好事",
+      "onboard_time": 1696512040,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211537,
       "num": 211537,
       "word": "王楚钦四冠王",
@@ -9919,6 +9943,14 @@
       "num": 199548,
       "word": "特工任务间谍为不留证据自毁指纹",
       "onboard_time": 1696334256,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199451,
+      "num": 199451,
+      "word": "王鹤棣许七安新剧照",
+      "onboard_time": 1696512457,
       "rank": 39,
       "category": "剧集"
     },
@@ -10587,6 +10619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186514,
+      "num": 186514,
+      "word": "袁琦琦的腿",
+      "onboard_time": 1696512876,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186289,
       "num": 186289,
       "word": "中国女篮亚运会五连胜",
@@ -10921,6 +10961,14 @@
       "onboard_time": 1696403615,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177762,
+      "num": 177762,
+      "word": "中国女篮冲击亚运第七冠",
+      "onboard_time": 1696512759,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 177594,
@@ -11819,14 +11867,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 154761,
-      "num": 154761,
-      "word": "好事成双结局都是好事",
-      "onboard_time": 1696512040,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154669,
       "num": 154669,
       "word": "女双",
@@ -12627,6 +12667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132578,
+      "num": 1625703,
+      "word": "被亚运会的氛围可爱到了",
+      "onboard_time": 1696511138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131900,
       "num": 131900,
       "word": "中国女排对阵越南",
@@ -13120,14 +13168,6 @@
       "word": "国庆中秋双节同庆",
       "onboard_time": 1696115900,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110105,
-      "num": 1499603,
-      "word": "被亚运会的氛围可爱到了",
-      "onboard_time": 1696511138,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
