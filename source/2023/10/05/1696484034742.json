@@ -1,0 +1,410 @@
+{
+  "runTime": 1696484034742,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2321726,
+        "num": 2321726,
+        "word": "日本海啸",
+        "onboard_time": 1696474955,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2305491,
+        "num": 2305491,
+        "word": "全红婵的弹跳没有地心引力",
+        "onboard_time": 1696481134,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7902,
+        "num": 1592085,
+        "word": "杭州亚运会上的数字智能亮点",
+        "onboard_time": 1696424977,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1544357,
+        "num": 1544357,
+        "word": "第一次在恋综看到女嘉宾翻白眼",
+        "onboard_time": 1696475013,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 783935,
+        "num": 783935,
+        "word": "唐嫣拍戏受伤",
+        "onboard_time": 1696480233,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734920,
+        "num": 734920,
+        "word": "秦霄贤喜欢的女生类型变了",
+        "onboard_time": 1696472250,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 533293,
+        "num": 533293,
+        "word": "傅园慧当游泳教练了",
+        "onboard_time": 1696475616,
+        "rank": 6,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 514774,
+        "num": 514774,
+        "word": "迷笛再回应乐迷财物被盗事件",
+        "onboard_time": 1696476755,
+        "rank": 7,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 448463,
+        "num": 448463,
+        "word": "印度一家医院12名婴儿同日死亡",
+        "onboard_time": 1696474475,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445449,
+        "num": 445449,
+        "word": "乔欣说车停不好就把路堵上",
+        "onboard_time": 1696464150,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 923159,
+        "num": 435905,
+        "word": "闲鱼转卖门票演出结束才可确认收货",
+        "onboard_time": 1696482155,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 737220,
+        "num": 428917,
+        "word": "没领证的姑爷比驴都能干",
+        "onboard_time": 1696474113,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418633,
+        "num": 418633,
+        "word": "研一男生入学1个月被邀当导师伴郎",
+        "onboard_time": 1696469792,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267731,
+        "num": 417770,
+        "word": "医生提醒24小时吃遍一座城不可取",
+        "onboard_time": 1696476096,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220726,
+        "num": 417331,
+        "word": "王楚钦孙颖莎今日领衔出战",
+        "onboard_time": 1696477418,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446867,
+        "num": 415510,
+        "word": "南阳音乐节盗窃事件的最大启示",
+        "onboard_time": 1696468292,
+        "rank": 15,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 442059,
+        "num": 415139,
+        "word": "Jennie将常驻综艺公寓404",
+        "onboard_time": 1696474172,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414468,
+        "num": 414468,
+        "word": "张艺兴差点说出EXO",
+        "onboard_time": 1696465469,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 346042,
+        "num": 346042,
+        "word": "原来国乒队都有属于自己的教练",
+        "onboard_time": 1696479934,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320524,
+        "num": 320524,
+        "word": "迷笛",
+        "onboard_time": 1696477474,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 315820,
+        "num": 315820,
+        "word": "檀健次还有四部待播剧",
+        "onboard_time": 1696479634,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313046,
+        "num": 313046,
+        "word": "杨幂发了15张图",
+        "onboard_time": 1696474475,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304704,
+        "num": 304704,
+        "word": "情侣吃饭面对面还是并排坐",
+        "onboard_time": 1696480233,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291944,
+        "num": 291944,
+        "word": "offer史上最强踢馆实习生王艺妍妤",
+        "onboard_time": 1696481974,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285296,
+        "num": 285296,
+        "word": "猫咪越大在公司的地位越高",
+        "onboard_time": 1696481673,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280755,
+        "num": 280755,
+        "word": "黄嘉仪我是我自己震耳欲聋",
+        "onboard_time": 1696481974,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270948,
+        "num": 270948,
+        "word": "丁点 你那句我养你一点也不酷",
+        "onboard_time": 1696479335,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269545,
+        "num": 269545,
+        "word": "王一博巴黎回国到达",
+        "onboard_time": 1696483713,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264175,
+        "num": 264175,
+        "word": "念无双剧组向唐嫣致歉",
+        "onboard_time": 1696483473,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262503,
+        "num": 262503,
+        "word": "迷笛上被高高举起的轮椅男孩发声",
+        "onboard_time": 1696482033,
+        "rank": 29,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 261669,
+        "num": 261669,
+        "word": "樊振东演我上学时的精神状态",
+        "onboard_time": 1696481795,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254496,
+        "num": 254496,
+        "word": "迷笛官方称南阳盗窃案件落实65起",
+        "onboard_time": 1696482693,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235686,
+        "num": 235686,
+        "word": "迷笛称警方已抓获一些盗窃者",
+        "onboard_time": 1696483054,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218840,
+        "num": 218840,
+        "word": "我儿子现在是我的岳父",
+        "onboard_time": 1696465529,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217899,
+        "num": 217899,
+        "word": "日本观测到浪高1米左右海啸",
+        "onboard_time": 1696481314,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216201,
+        "num": 216201,
+        "word": "全红婵确认e人",
+        "onboard_time": 1696483653,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208895,
+        "num": 208895,
+        "word": "迪丽热巴花少5拍照姿势",
+        "onboard_time": 1696474774,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204154,
+        "num": 204154,
+        "word": "坐下来撒尿的男人",
+        "onboard_time": 1696470991,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203043,
+        "num": 203043,
+        "word": "旅俄大熊猫丁丁幼崽长出了黑马甲",
+        "onboard_time": 1696480056,
+        "rank": 38,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 201585,
+        "num": 201585,
+        "word": "李治廷感谢张艺兴还que了贝壳",
+        "onboard_time": 1696483899,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199342,
+        "num": 199342,
+        "word": "黄轩纯狱疯",
+        "onboard_time": 1696482933,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197121,
+        "num": 197121,
+        "word": "ENHYPEN将11月回归",
+        "onboard_time": 1696481375,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191301,
+        "num": 191301,
+        "word": "iPhone15系列机型被曝外放破音",
+        "onboard_time": 1696480653,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185037,
+        "num": 185037,
+        "word": "封神训练营",
+        "onboard_time": 1696480535,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182590,
+        "num": 182590,
+        "word": "核污水冲击下的日料店",
+        "onboard_time": 1696483774,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177483,
+        "num": 177483,
+        "word": "小伙辞职带先心病妻子旅行半月散心",
+        "onboard_time": 1696480833,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174174,
+        "num": 174174,
+        "word": "王仕鹏 怕这批球员站不起来了",
+        "onboard_time": 1696473932,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155013,
+        "num": 155013,
+        "word": "孟云问柳柳人为什么要结婚",
+        "onboard_time": 1696481673,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154440,
+        "num": 154440,
+        "word": "95新农人用10辆拖拉机霸气接亲",
+        "onboard_time": 1696481553,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153629,
+        "num": 153629,
+        "word": "接到烂戏怎么办",
+        "onboard_time": 1696484015,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚定信心振奋精神团结奋斗#"
+    }
+  }
+}
