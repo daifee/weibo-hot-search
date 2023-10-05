@@ -1,0 +1,410 @@
+{
+  "runTime": 1696476845922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2590525,
+        "num": 2590525,
+        "word": "日本海啸",
+        "onboard_time": 1696474955,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1394529,
+        "num": 1394529,
+        "word": "Jennie将常驻综艺公寓404",
+        "onboard_time": 1696474172,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20712,
+        "num": 1275482,
+        "word": "杭州亚运会上的数字智能亮点",
+        "onboard_time": 1696424977,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1960013,
+        "num": 1269159,
+        "word": "秦霄贤喜欢的女生类型变了",
+        "onboard_time": 1696472250,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1254197,
+        "num": 1254197,
+        "word": "傅园慧当游泳教练了",
+        "onboard_time": 1696475616,
+        "rank": 4,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 966518,
+        "num": 966518,
+        "word": "研一男生入学1个月被邀当导师伴郎",
+        "onboard_time": 1696469792,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842651,
+        "num": 842651,
+        "word": "第一次在恋综看到女嘉宾翻白眼",
+        "onboard_time": 1696475013,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 558021,
+        "num": 558021,
+        "word": "乔欣说车停不好就把路堵上",
+        "onboard_time": 1696464150,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462165,
+        "num": 462165,
+        "word": "提前返程结果1小时开了10公里",
+        "onboard_time": 1696464207,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453175,
+        "num": 453175,
+        "word": "返程聪明人",
+        "onboard_time": 1696471592,
+        "rank": 9,
+        "category": "旅游,幽默"
+      },
+      {
+        "raw_hot": 1133907,
+        "num": 453108,
+        "word": "没领证的姑爷比驴都能干",
+        "onboard_time": 1696474113,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 776102,
+        "num": 453081,
+        "word": "南阳音乐节盗窃事件的最大启示",
+        "onboard_time": 1696468292,
+        "rank": 11,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 494423,
+        "num": 453027,
+        "word": "张艺兴差点说出EXO",
+        "onboard_time": 1696465469,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 331018,
+        "num": 452961,
+        "word": "婴儿感染流脑24小时内可致死",
+        "onboard_time": 1696473272,
+        "rank": 13,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 252255,
+        "num": 452858,
+        "word": "医生提醒24小时吃遍一座城不可取",
+        "onboard_time": 1696476096,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467481,
+        "num": 452790,
+        "word": "秦岚这状态是喝了点吧",
+        "onboard_time": 1696464390,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 462338,
+        "num": 452751,
+        "word": "印度一家医院12名婴儿同日死亡",
+        "onboard_time": 1696474475,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452711,
+        "num": 452711,
+        "word": "迪丽热巴花少5拍照姿势",
+        "onboard_time": 1696474774,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385855,
+        "num": 385855,
+        "word": "日本开始第二轮核污染水排海",
+        "onboard_time": 1696473094,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358592,
+        "num": 358592,
+        "word": "王仕鹏 怕这批球员站不起来了",
+        "onboard_time": 1696473932,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 866846,
+        "num": 343128,
+        "word": "杨幂发了15张图",
+        "onboard_time": 1696474475,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572650,
+        "num": 325718,
+        "word": "坐下来撒尿的男人",
+        "onboard_time": 1696470991,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 359115,
+        "num": 320179,
+        "word": "我儿子现在是我的岳父",
+        "onboard_time": 1696465529,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 300904,
+        "num": 300904,
+        "word": "多囊",
+        "onboard_time": 1696452615,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300020,
+        "num": 300020,
+        "word": "王丽坤老年妆",
+        "onboard_time": 1696476755,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292702,
+        "num": 292702,
+        "word": "日本本州东南附近发生6.3级左右地震",
+        "onboard_time": 1696473392,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271590,
+        "num": 271590,
+        "word": "迷笛盗窃事件或受短视频误导",
+        "onboard_time": 1696466250,
+        "rank": 26,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 266039,
+        "num": 266039,
+        "word": "中国跳水包揽49年全部金牌",
+        "onboard_time": 1696474894,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265366,
+        "num": 265366,
+        "word": "如果贾玲来演江喜",
+        "onboard_time": 1696474232,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251888,
+        "num": 251888,
+        "word": "姚瑶进ICU给病人下药",
+        "onboard_time": 1696468472,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384402,
+        "num": 251045,
+        "word": "迷笛再回应乐迷财物被盗事件",
+        "onboard_time": 1696476755,
+        "rank": 30,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 245442,
+        "num": 245442,
+        "word": "黄嘉仪终于清醒了",
+        "onboard_time": 1696470455,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232774,
+        "num": 232774,
+        "word": "南阳迷笛音乐节物品失窃引地域攻击",
+        "onboard_time": 1696433437,
+        "rank": 32,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 203371,
+        "num": 203371,
+        "word": "导游用激光笔照龙门石窟大佛",
+        "onboard_time": 1696463006,
+        "rank": 33,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 193439,
+        "num": 193439,
+        "word": "恋爱脑知道自己是恋爱脑吗",
+        "onboard_time": 1696471592,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193101,
+        "num": 193101,
+        "word": "傅首尔日记主打一个真情实感",
+        "onboard_time": 1696472613,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192130,
+        "num": 192130,
+        "word": "她在讲课间隙接到了诺奖的电话",
+        "onboard_time": 1696473755,
+        "rank": 36,
+        "category": "教育,科技"
+      },
+      {
+        "raw_hot": 185986,
+        "num": 185986,
+        "word": "沙特将申办2034年世界杯",
+        "onboard_time": 1696473154,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176280,
+        "num": 176280,
+        "word": "反超日本队的最后一棒是谁",
+        "onboard_time": 1696468713,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173761,
+        "num": 173761,
+        "word": "少年挂21楼外辅警徒手连凿11拳救下",
+        "onboard_time": 1696476395,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172664,
+        "num": 172664,
+        "word": "四川女孩来重庆旅游跪地抢救陌生人",
+        "onboard_time": 1696476635,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157771,
+        "num": 157771,
+        "word": "在杭州居然点到了黑色炸鸡",
+        "onboard_time": 1696469792,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149335,
+        "num": 149335,
+        "word": "南阳警方称目前还未抓到嫌疑人",
+        "onboard_time": 1696422636,
+        "rank": 42,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 147292,
+        "num": 147292,
+        "word": "全红婵展示自己的小乌龟",
+        "onboard_time": 1696462464,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147005,
+        "num": 147005,
+        "word": "张镇麟踢广告牌",
+        "onboard_time": 1696470212,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142507,
+        "num": 142507,
+        "word": "黄明昊 哥哥们太爱我怎么办",
+        "onboard_time": 1696468713,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139710,
+        "num": 139710,
+        "word": "王心凌第一次爱的人全场大合唱",
+        "onboard_time": 1696470392,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138218,
+        "num": 138218,
+        "word": "田柾国金珉奎舞蹈cha",
+        "onboard_time": 1696462827,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136922,
+        "num": 136922,
+        "word": "杨紫打卡爱在日落黄昏时取景地",
+        "onboard_time": 1696466913,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131136,
+        "num": 131136,
+        "word": "切阳什姐回应领奖落泪",
+        "onboard_time": 1696476635,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#盘点杭州亚运会高燃时刻#"
+    }
+  }
+}
