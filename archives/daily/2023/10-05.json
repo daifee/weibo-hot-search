@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696509315800,
+  "endTime": 1696510318863,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2319175,
-      "num": 368150,
+      "num": 471234,
       "word": "女子曝光丈夫和幼儿园园长开房",
       "onboard_time": 1696505373,
       "rank": 27,
@@ -139,6 +139,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 1650974,
+      "num": 1650974,
+      "word": "中国女篮vs日本女篮",
+      "onboard_time": 1696491874,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1612589,
       "num": 1612589,
       "word": "Jennie将常驻综艺公寓404",
@@ -195,6 +203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1208077,
+      "num": 1208077,
+      "word": "李梦好猛",
+      "onboard_time": 1696509756,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1177995,
       "num": 559823,
       "word": "女子住主题酒店连续3间房发现摄像头",
@@ -219,14 +235,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 1076667,
-      "num": 1076667,
-      "word": "中国女篮vs日本女篮",
-      "onboard_time": 1696491874,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1066453,
       "num": 1066453,
       "word": "张艺兴 UZI",
@@ -241,6 +249,14 @@
       "onboard_time": 1696497515,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 984770,
+      "num": 468286,
+      "word": "范玮琪感谢陈建州守护家庭",
+      "onboard_time": 1696508194,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 933328,
@@ -403,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 687701,
-      "num": 367082,
-      "word": "范玮琪感谢陈建州守护家庭",
-      "onboard_time": 1696508194,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 660361,
       "num": 328646,
       "word": "我儿子现在是我的岳父",
@@ -448,6 +456,14 @@
       "word": "中国男篮vs菲律宾男篮",
       "onboard_time": 1696420055,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 627095,
+      "num": 627095,
+      "word": "看女篮就是爽",
+      "onboard_time": 1696510056,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -497,6 +513,14 @@
       "onboard_time": 1696486654,
       "rank": 30,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 586124,
+      "num": 586124,
+      "word": "于和伟帅死了",
+      "onboard_time": 1696508136,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 586038,
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 484445,
-      "num": 366079,
+      "num": 449586,
       "word": "赵丽颖拍的云",
       "onboard_time": 1696507296,
       "rank": 14,
@@ -649,6 +673,14 @@
       "onboard_time": 1696477474,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 476498,
+      "num": 460433,
+      "word": "石宇奇vs周天成",
+      "onboard_time": 1696509336,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 476290,
@@ -676,7 +708,7 @@
     },
     {
       "raw_hot": 460257,
-      "num": 260590,
+      "num": 460094,
       "word": "被巴黎戴高乐机场的中文折服了",
       "onboard_time": 1696507957,
       "rank": 30,
@@ -819,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401177,
+      "num": 401177,
+      "word": "看坚如磐石 别带小孩",
+      "onboard_time": 1696508437,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 401163,
       "num": 401163,
       "word": "迷笛上被高高举起的轮椅男孩发声",
@@ -867,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 390250,
+      "num": 390250,
+      "word": "乌尔善 听说有人建议我开塑身训练营",
+      "onboard_time": 1696508496,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 389990,
       "num": 389990,
       "word": "王仕鹏 怕这批球员站不起来了",
@@ -881,6 +929,14 @@
       "onboard_time": 1696434633,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387052,
+      "num": 387052,
+      "word": "王一博巴黎看秀官方镜头",
+      "onboard_time": 1696507595,
+      "rank": 17,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 383595,
@@ -931,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364980,
-      "num": 364980,
-      "word": "乌尔善 听说有人建议我开塑身训练营",
-      "onboard_time": 1696508496,
-      "rank": 16,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 363464,
       "num": 363464,
       "word": "迷笛官方称南阳盗窃案件落实65起",
@@ -955,14 +1003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 360258,
-      "num": 360258,
-      "word": "王一博巴黎看秀官方镜头",
-      "onboard_time": 1696507595,
-      "rank": 17,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 359708,
       "num": 359708,
       "word": "部分迷笛音乐节盗窃者已被抓获",
@@ -971,20 +1011,20 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 355292,
+      "num": 270832,
+      "word": "第一次见这么简陋的机场",
+      "onboard_time": 1696509575,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 351349,
       "num": 351349,
       "word": "吉克隽逸戴的是泸沽湖畔捡的花",
       "onboard_time": 1696499493,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 350439,
-      "num": 350439,
-      "word": "于和伟帅死了",
-      "onboard_time": 1696508136,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 347088,
@@ -1001,6 +1041,14 @@
       "onboard_time": 1696496614,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 339747,
+      "num": 339747,
+      "word": "女篮决赛媒体席爆满",
+      "onboard_time": 1696508437,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 335474,
@@ -1211,14 +1259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 283263,
-      "num": 283263,
-      "word": "看坚如磐石 别带小孩",
-      "onboard_time": 1696508437,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280052,
       "num": 280052,
       "word": "王心凌第一次爱的人全场大合唱",
@@ -1227,20 +1267,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 275782,
-      "num": 275782,
-      "word": "女篮决赛媒体席爆满",
-      "onboard_time": 1696508437,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 275726,
       "num": 275726,
       "word": "徐静雨 乔尔杰维奇应该下课",
       "onboard_time": 1696434757,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 275309,
+      "num": 275309,
+      "word": "豆瓣崩了",
+      "onboard_time": 1696509336,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 274743,
@@ -1475,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235923,
+      "num": 464277,
+      "word": "中国女排亚运4连胜",
+      "onboard_time": 1696508496,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235791,
       "num": 235791,
       "word": "陈奕迅新专辑ChinUp预告",
@@ -1489,14 +1537,6 @@
       "onboard_time": 1696488874,
       "rank": 27,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 233288,
-      "num": 340293,
-      "word": "中国女排亚运4连胜",
-      "onboard_time": 1696508496,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 233119,
@@ -1529,6 +1569,14 @@
       "onboard_time": 1696476994,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231861,
+      "num": 231861,
+      "word": "游客相机掉落被大熊猫捡走",
+      "onboard_time": 1696507776,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229691,
@@ -1577,14 +1625,6 @@
       "onboard_time": 1696501176,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 224077,
-      "num": 224077,
-      "word": "游客相机掉落被大熊猫捡走",
-      "onboard_time": 1696507776,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 223927,
@@ -1875,6 +1915,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 194533,
+      "num": 194533,
+      "word": "深圳晚霞",
+      "onboard_time": 1696510177,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194459,
       "num": 194459,
       "word": "孟云问柳柳人为什么要结婚",
@@ -1960,6 +2008,14 @@
       "word": "wtt球星挑战赛兰州站2023",
       "onboard_time": 1696494331,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186791,
+      "num": 186791,
+      "word": "李月汝盖帽帅死",
+      "onboard_time": 1696510119,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -2184,6 +2240,14 @@
       "word": "三大洲6国申办2030世界杯",
       "onboard_time": 1696464753,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155685,
+      "num": 155685,
+      "word": "苏炳添带着儿子领奖",
+      "onboard_time": 1696510298,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2476,7 +2540,7 @@
     },
     {
       "raw_hot": 124717,
-      "num": 1256607,
+      "num": 1348591,
       "word": "杭州亚运会处处都有显眼包",
       "onboard_time": 1696493552,
       "rank": 2,
@@ -2531,8 +2595,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 95004,
-      "num": 367628,
+      "raw_hot": 97094,
+      "num": 465877,
       "word": "陈雨菲全力破局",
       "onboard_time": 1696507176,
       "rank": 11,
