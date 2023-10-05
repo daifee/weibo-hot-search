@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696527233042,
+  "endTime": 1696530183129,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -6275,6 +6275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326537,
+      "num": 326537,
+      "word": "于文文当预言家睡过头了",
+      "onboard_time": 1696526423,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326033,
       "num": 271072,
       "word": "陈若琳首谈执教全红婵",
@@ -8001,14 +8009,6 @@
       "onboard_time": 1696117645,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 261661,
-      "num": 261661,
-      "word": "于文文当预言家睡过头了",
-      "onboard_time": 1696526423,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 261622,
@@ -14009,6 +14009,22 @@
       "onboard_time": 1696259141,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69763,
+      "num": 69763,
+      "word": "中国女篮96天两胜日本",
+      "onboard_time": 1696528280,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 69448,
+      "num": 69448,
+      "word": "卫明绝不内耗",
+      "onboard_time": 1696527981,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 68891,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 01:33:53
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 02:23:03
 </p>
 </blockquote>
 <p>
@@ -4719,6 +4719,12 @@ capper音乐节（热度：335103）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%BD%93%E9%A2%84%E8%A8%80%E5%AE%B6%E7%9D%A1%E8%BF%87%E5%A4%B4%E4%BA%86%23" target="weibo">
+于文文当预言家睡过头了（热度：326537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8B%A5%E7%90%B3%E9%A6%96%E8%B0%88%E6%89%A7%E6%95%99%E5%85%A8%E7%BA%A2%E5%A9%B5%23" target="weibo">
 陈若琳首谈执教全红婵（热度：326033）
 </a>
@@ -6005,12 +6011,6 @@ Giselle巴黎时装周新造型（热度：264736）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%B7%A1%E6%BC%94%E4%B8%89%E7%AB%99%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE%23" target="weibo">
 薛之谦巡演三站开启预售（热度：262123）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%A6%E4%B8%AD%E7%9A%84%E9%82%A3%E7%89%87%E6%B5%B7%23" target="weibo">
-梦中的那片海（热度：262102）
 </a>
 </li>
 
