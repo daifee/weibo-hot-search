@@ -1,6 +1,6 @@
 {
   "startTime": 1696436600363,
-  "endTime": 1696480518431,
+  "endTime": 1696482966342,
   "band_list": [
     {
       "raw_hot": 3472438,
@@ -51,6 +51,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1746306,
+      "num": 1746306,
+      "word": "第一次在恋综看到女嘉宾翻白眼",
+      "onboard_time": 1696475013,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1678647,
       "num": 1678647,
       "word": "姚明为缺席发布会道歉",
@@ -67,20 +75,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 1666127,
-      "num": 1666127,
-      "word": "第一次在恋综看到女嘉宾翻白眼",
-      "onboard_time": 1696475013,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1612589,
       "num": 1612589,
       "word": "Jennie将常驻综艺公寓404",
       "onboard_time": 1696474172,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1398682,
+      "num": 500050,
+      "word": "全红婵的弹跳没有地心引力",
+      "onboard_time": 1696481134,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1341168,
@@ -153,6 +161,14 @@
       "onboard_time": 1696468292,
       "rank": 45,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 875981,
+      "num": 875981,
+      "word": "唐嫣拍戏受伤",
+      "onboard_time": 1696480233,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 805071,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 466062,
-      "num": 466062,
+      "num": 492681,
       "word": "王楚钦孙颖莎今日领衔出战",
       "onboard_time": 1696477418,
       "rank": 14,
@@ -427,6 +443,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403192,
+      "num": 403192,
+      "word": "原来国乒队都有属于自己的教练",
+      "onboard_time": 1696479934,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 401163,
+      "num": 401163,
+      "word": "迷笛上被高高举起的轮椅男孩发声",
+      "onboard_time": 1696482033,
+      "rank": 20,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 395045,
       "num": 395045,
       "word": "迟到11年的金银铜包揽",
@@ -441,6 +473,14 @@
       "onboard_time": 1696468713,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 392352,
+      "num": 392352,
+      "word": "offer史上最强踢馆实习生王艺妍妤",
+      "onboard_time": 1696481974,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 392321,
@@ -475,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 373071,
+      "num": 238512,
+      "word": "闲鱼转卖门票演出结束才可确认收货",
+      "onboard_time": 1696482155,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366910,
       "num": 393514,
       "word": "泰国王王后派代表看望受伤中国公民",
@@ -491,14 +539,6 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 331809,
-      "num": 331809,
-      "word": "原来国乒队都有属于自己的教练",
-      "onboard_time": 1696479934,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 316967,
       "num": 316967,
       "word": "张镇麟踢广告牌",
@@ -513,6 +553,14 @@
       "onboard_time": 1696461261,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 308599,
+      "num": 308599,
+      "word": "情侣吃饭面对面还是并排坐",
+      "onboard_time": 1696480233,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 307151,
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284295,
+      "num": 284295,
+      "word": "黄嘉仪我是我自己震耳欲聋",
+      "onboard_time": 1696481974,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280052,
       "num": 280052,
       "word": "王心凌第一次爱的人全场大合唱",
@@ -595,12 +651,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 272754,
-      "num": 272754,
-      "word": "唐嫣拍戏受伤",
-      "onboard_time": 1696480233,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 272088,
+      "num": 272088,
+      "word": "樊振东演我上学时的精神状态",
+      "onboard_time": 1696481795,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 272052,
@@ -625,6 +681,14 @@
       "onboard_time": 1696474894,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 265978,
+      "num": 265978,
+      "word": "ENHYPEN将11月回归",
+      "onboard_time": 1696481375,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 264865,
@@ -723,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240710,
+      "num": 240710,
+      "word": "猫咪越大在公司的地位越高",
+      "onboard_time": 1696481673,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232113,
       "num": 232113,
       "word": "她在讲课间隙接到了诺奖的电话",
@@ -737,6 +809,14 @@
       "onboard_time": 1696476994,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231696,
+      "num": 231696,
+      "word": "日本观测到浪高1米左右海啸",
+      "onboard_time": 1696481314,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229691,
@@ -787,6 +867,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 220961,
+      "num": 220961,
+      "word": "iPhone15系列机型被曝外放破音",
+      "onboard_time": 1696480653,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 220638,
+      "num": 220638,
+      "word": "旅俄大熊猫丁丁幼崽长出了黑马甲",
+      "onboard_time": 1696480056,
+      "rank": 42,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 218932,
       "num": 218932,
       "word": "男篮最后一分钟发生了什么",
@@ -827,6 +923,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 209040,
+      "num": 209040,
+      "word": "封神训练营",
+      "onboard_time": 1696480535,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205953,
       "num": 205953,
       "word": "沙特将申办2034年世界杯",
@@ -851,6 +955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201291,
+      "num": 201291,
+      "word": "迷笛官方称南阳盗窃案件落实65起",
+      "onboard_time": 1696482693,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200827,
       "num": 200827,
       "word": "日本本州东南6.2级地震",
@@ -873,14 +985,6 @@
       "onboard_time": 1696469072,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198250,
-      "num": 198250,
-      "word": "情侣吃饭面对面还是并排坐",
-      "onboard_time": 1696480233,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 198113,
@@ -913,6 +1017,14 @@
       "onboard_time": 1696478556,
       "rank": 30,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 194459,
+      "num": 194459,
+      "word": "孟云问柳柳人为什么要结婚",
+      "onboard_time": 1696481673,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 193327,
@@ -971,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173802,
+      "num": 173802,
+      "word": "3交警仅10分钟送昏倒游客就医",
+      "onboard_time": 1696482513,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173761,
       "num": 173761,
       "word": "少年挂21楼外辅警徒手连凿11拳救下",
@@ -1019,20 +1139,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168138,
+      "num": 168138,
+      "word": "在朋友婚礼上听到了最好的结婚誓词",
+      "onboard_time": 1696480176,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166545,
       "num": 166545,
       "word": "中国男排0比3加拿大男排",
       "onboard_time": 1696431698,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166154,
-      "num": 156858,
-      "word": "在朋友婚礼上听到了最好的结婚誓词",
-      "onboard_time": 1696480176,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 165876,
@@ -1107,6 +1227,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150623,
+      "num": 150623,
+      "word": "黄轩纯狱疯",
+      "onboard_time": 1696482933,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150363,
+      "num": 150363,
+      "word": "都江堰景区启动客流量黄色预警",
+      "onboard_time": 1696482933,
+      "rank": 47,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 149918,
+      "num": 149918,
+      "word": "胡兵也会身材焦虑",
+      "onboard_time": 1696480894,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148841,
       "num": 148841,
       "word": "男篮主帅回应最后一攻",
@@ -1115,12 +1259,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146481,
-      "num": 146481,
-      "word": "旅俄大熊猫丁丁幼崽长出了黑马甲",
-      "onboard_time": 1696480056,
-      "rank": 42,
-      "category": "社会新闻,动物萌宠"
+      "raw_hot": 148153,
+      "num": 148153,
+      "word": "虎子绝学跪得快",
+      "onboard_time": 1696480535,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 145774,
