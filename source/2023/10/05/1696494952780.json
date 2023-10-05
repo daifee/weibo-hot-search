@@ -1,0 +1,410 @@
+{
+  "runTime": 1696494952780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1527989,
+        "num": 1527989,
+        "word": "我的国家没参赛我来支持中国队",
+        "onboard_time": 1696487255,
+        "rank": 0,
+        "category": "情感,体育"
+      },
+      {
+        "raw_hot": 1252085,
+        "num": 1252085,
+        "word": "腾讯视频 胆小模式",
+        "onboard_time": 1696488754,
+        "rank": 1,
+        "category": "互联网,剧集"
+      },
+      {
+        "raw_hot": 106973,
+        "num": 1101937,
+        "word": "杭州亚运会处处都有显眼包",
+        "onboard_time": 1696493552,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1066453,
+        "num": 1066453,
+        "word": "张艺兴 UZI",
+        "onboard_time": 1696492650,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 832909,
+        "num": 832909,
+        "word": "泰国选手跳水炸鱼把自己逗笑了",
+        "onboard_time": 1696491335,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579365,
+        "num": 579365,
+        "word": "第一次在恋综看到女嘉宾翻白眼",
+        "onboard_time": 1696475013,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 556338,
+        "num": 556338,
+        "word": "全红婵的弹跳没有地心引力",
+        "onboard_time": 1696481134,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471108,
+        "num": 471108,
+        "word": "VOGUE评选巴黎时装周最时尚明星",
+        "onboard_time": 1696490196,
+        "rank": 7,
+        "category": "时尚,艺人"
+      },
+      {
+        "raw_hot": 412815,
+        "num": 412815,
+        "word": "秦霄贤喜欢的女生类型变了",
+        "onboard_time": 1696472250,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391951,
+        "num": 391951,
+        "word": "王楚钦说没觉得自己长得帅",
+        "onboard_time": 1696492832,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1177995,
+        "num": 384923,
+        "word": "女子住主题酒店连续3间房发现摄像头",
+        "onboard_time": 1696489233,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459642,
+        "num": 342649,
+        "word": "黄子韬 你有品真的",
+        "onboard_time": 1696492532,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 285590,
+        "num": 285590,
+        "word": "迷笛称警方已抓获一些盗窃者",
+        "onboard_time": 1696483054,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244616,
+        "num": 279317,
+        "word": "研一男生入学1个月被邀当导师伴郎",
+        "onboard_time": 1696469792,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100783,
+        "num": 278869,
+        "word": "当婚礼上让狗狗送戒指",
+        "onboard_time": 1696487433,
+        "rank": 14,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 341735,
+        "num": 278824,
+        "word": "乔欣回应停车言论争议",
+        "onboard_time": 1696484792,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278593,
+        "num": 278593,
+        "word": "令人心动的offer5官宣徐灵菱",
+        "onboard_time": 1696490135,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 275164,
+        "num": 275164,
+        "word": "女游客四川卧龙邓生沟拍照滑落溺亡",
+        "onboard_time": 1696486654,
+        "rank": 17,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 257380,
+        "num": 257380,
+        "word": "闲鱼转卖门票演出结束才可确认收货",
+        "onboard_time": 1696482155,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246317,
+        "num": 246317,
+        "word": "迷笛官方称南阳盗窃案件落实65起",
+        "onboard_time": 1696482693,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484688,
+        "num": 245669,
+        "word": "新郎是逃犯婚礼结束被带走",
+        "onboard_time": 1696492832,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 475945,
+        "num": 245577,
+        "word": "鲁迅的家离三味书屋这么近还迟到",
+        "onboard_time": 1696492954,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242870,
+        "num": 242870,
+        "word": "刘翔110米跨栏决赛高清影像",
+        "onboard_time": 1696485573,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242216,
+        "num": 242216,
+        "word": "狐狸精来曾舜晞见面会了",
+        "onboard_time": 1696487671,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215117,
+        "num": 215117,
+        "word": "周深把音乐节开成了国庆晚会",
+        "onboard_time": 1696493732,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 210858,
+        "num": 210858,
+        "word": "麦迪不解中国男篮输球",
+        "onboard_time": 1696492295,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209038,
+        "num": 209038,
+        "word": "李玉刚万疆无处不在",
+        "onboard_time": 1696494392,
+        "rank": 26,
+        "category": "体育,音乐"
+      },
+      {
+        "raw_hot": 206477,
+        "num": 206477,
+        "word": "Jennie将常驻综艺公寓404",
+        "onboard_time": 1696474172,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200009,
+        "num": 200009,
+        "word": "这是电动车不可承受之重",
+        "onboard_time": 1696493915,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193233,
+        "num": 193233,
+        "word": "封神训练营这么吃不得瘦死",
+        "onboard_time": 1696493313,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262596,
+        "num": 192198,
+        "word": "能打败全红婵的只有记者",
+        "onboard_time": 1696492832,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196309,
+        "num": 192120,
+        "word": "马龙男单晋级16强",
+        "onboard_time": 1696494092,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188391,
+        "num": 188391,
+        "word": "wtt球星挑战赛兰州站2023",
+        "onboard_time": 1696494331,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192680,
+        "num": 186288,
+        "word": "陈飞宇为志愿军发的第一篇800字长文",
+        "onboard_time": 1696493614,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183507,
+        "num": 183507,
+        "word": "成毅现代剧受的伤不比古装少",
+        "onboard_time": 1696494513,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181025,
+        "num": 181025,
+        "word": "原来情绪会影响体态",
+        "onboard_time": 1696488701,
+        "rank": 35,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 179103,
+        "num": 179103,
+        "word": "以为全红婵刷手机放松其实是看比赛视频",
+        "onboard_time": 1696492415,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 175992,
+        "num": 175992,
+        "word": "女子试穿将千元衣服染血渍拒赔偿",
+        "onboard_time": 1696484072,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171036,
+        "num": 171036,
+        "word": "陈冲于和伟 姐狗",
+        "onboard_time": 1696493372,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163519,
+        "num": 163519,
+        "word": "南阳音乐节盗窃事件的最大启示",
+        "onboard_time": 1696468292,
+        "rank": 39,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 159020,
+        "num": 159020,
+        "word": "体操奥运冠军邓琳琳在宁波结婚",
+        "onboard_time": 1696492832,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147969,
+        "num": 147969,
+        "word": "迷笛再回应乐迷财物被盗事件",
+        "onboard_time": 1696476755,
+        "rank": 41,
+        "category": "社会新闻,综艺"
+      },
+      {
+        "raw_hot": 143257,
+        "num": 143257,
+        "word": "没领证的姑爷比驴都能干",
+        "onboard_time": 1696474113,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143112,
+        "num": 143112,
+        "word": "王曼昱3比0吴咏琳",
+        "onboard_time": 1696492772,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141004,
+        "num": 141004,
+        "word": "迷笛",
+        "onboard_time": 1696477474,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 138410,
+        "num": 138410,
+        "word": "田嘉瑞回应叫姐姐",
+        "onboard_time": 1696493014,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130462,
+        "num": 130462,
+        "word": "杨幂发了15张图",
+        "onboard_time": 1696474475,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127942,
+        "num": 127942,
+        "word": "苗青山苗子文 伪骨科",
+        "onboard_time": 1696494155,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127025,
+        "num": 127025,
+        "word": "王一博巴黎回国到达",
+        "onboard_time": 1696483713,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120306,
+        "num": 120306,
+        "word": "入境空气炸锅夹藏1.3万只蚂蚁被查",
+        "onboard_time": 1696494871,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}
