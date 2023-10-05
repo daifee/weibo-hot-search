@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696523005955,
+  "endTime": 1696523950063,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -785,6 +785,14 @@
       "onboard_time": 1696340564,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1665196,
+      "num": 1665196,
+      "word": "请把这个韩综引进内娱",
+      "onboard_time": 1696522413,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 1657558,
@@ -2521,14 +2529,6 @@
       "onboard_time": 1696476755,
       "rank": 30,
       "category": "社会新闻,综艺"
-    },
-    {
-      "raw_hot": 746486,
-      "num": 746486,
-      "word": "请把这个韩综引进内娱",
-      "onboard_time": 1696522413,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 746020,
@@ -5723,6 +5723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359783,
+      "num": 359783,
+      "word": "一人独享渣男赛道",
+      "onboard_time": 1696521634,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359708,
       "num": 359708,
       "word": "部分迷笛音乐节盗窃者已被抓获",
@@ -7259,14 +7267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286130,
-      "num": 286130,
-      "word": "一人独享渣男赛道",
-      "onboard_time": 1696521634,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286006,
       "num": 286006,
       "word": "游客泰山顶挥舞国旗齐喊祖国万岁",
@@ -7497,6 +7497,14 @@
       "onboard_time": 1696421796,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278555,
+      "num": 278555,
+      "word": "钟丽丽赵让一起录综艺",
+      "onboard_time": 1696521994,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 278260,
@@ -8643,6 +8651,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 241153,
+      "num": 241153,
+      "word": "MINJI I love You 3000 cover",
+      "onboard_time": 1696522890,
+      "rank": 49,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 241031,
       "num": 241031,
       "word": "吴艳妮曾说起跑是自己的硬伤",
@@ -8729,14 +8745,6 @@
       "onboard_time": 1696154313,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 237744,
-      "num": 237744,
-      "word": "钟丽丽赵让一起录综艺",
-      "onboard_time": 1696521994,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 237492,
@@ -8977,6 +8985,14 @@
       "onboard_time": 1696127731,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 229147,
+      "num": 301587,
+      "word": "中国亚运史上首枚男子马拉松金牌",
+      "onboard_time": 1696522534,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 228756,
@@ -10483,6 +10499,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 196339,
+      "num": 196339,
+      "word": "京城大师赛",
+      "onboard_time": 1696523431,
+      "rank": 30,
+      "category": "游戏,综艺"
+    },
+    {
       "raw_hot": 196309,
       "num": 192120,
       "word": "马龙男单晋级16强",
@@ -11179,6 +11203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182970,
+      "num": 199883,
+      "word": "已归还乐迷身份证79张",
+      "onboard_time": 1696520256,
+      "rank": 29,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 182903,
       "num": 182903,
       "word": "韩庚王丽坤新剧打戏",
@@ -11627,14 +11659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172083,
-      "num": 199883,
-      "word": "已归还乐迷身份证79张",
-      "onboard_time": 1696520256,
-      "rank": 29,
-      "category": "社会新闻,演出"
-    },
-    {
       "raw_hot": 171281,
       "num": 171281,
       "word": "JINI solo出道曲1分钟先公开",
@@ -11721,14 +11745,6 @@
       "onboard_time": 1696328677,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169469,
-      "num": 169469,
-      "word": "中国亚运史上首枚男子马拉松金牌",
-      "onboard_time": 1696522534,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 169131,
@@ -13281,14 +13297,6 @@
       "onboard_time": 1696414055,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 127743,
-      "num": 127743,
-      "word": "MINJI I love You 3000 cover",
-      "onboard_time": 1696522890,
-      "rank": 49,
-      "category": "音乐"
     },
     {
       "raw_hot": 127540,

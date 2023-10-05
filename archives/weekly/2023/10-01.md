@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 00:23:25
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/06 00:39:10
 </p>
 </blockquote>
 <p>
@@ -599,6 +599,12 @@ Jennie王一博看秀待遇（热度：1809955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%994%C3%97100%E6%8E%A5%E5%8A%9B%E5%86%A0%E5%86%9B%23" target="weibo">
 中国小伙4×100接力冠军（热度：1667194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%8A%8A%E8%BF%99%E4%B8%AA%E9%9F%A9%E7%BB%BC%E5%BC%95%E8%BF%9B%E5%86%85%E5%A8%B1%23" target="weibo">
+请把这个韩综引进内娱（热度：1665196）
 </a>
 </li>
 
@@ -1901,12 +1907,6 @@ Jennie巴黎时装周（热度：789463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%B7%E7%AC%9B%E5%86%8D%E5%9B%9E%E5%BA%94%E4%B9%90%E8%BF%B7%E8%B4%A2%E7%89%A9%E8%A2%AB%E7%9B%97%E4%BA%8B%E4%BB%B6%23" target="weibo">
 迷笛再回应乐迷财物被盗事件（热度：753059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%8A%8A%E8%BF%99%E4%B8%AA%E9%9F%A9%E7%BB%BC%E5%BC%95%E8%BF%9B%E5%86%85%E5%A8%B1%23" target="weibo">
-请把这个韩综引进内娱（热度：746486）
 </a>
 </li>
 
@@ -4305,6 +4305,12 @@ DOTA2中国对阵马来西亚（热度：369573）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E7%8B%AC%E4%BA%AB%E6%B8%A3%E7%94%B7%E8%B5%9B%E9%81%93%23" target="weibo">
+一人独享渣男赛道（热度：359783）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E8%BF%B7%E7%AC%9B%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%97%E7%AA%83%E8%80%85%E5%B7%B2%E8%A2%AB%E6%8A%93%E8%8E%B7%23" target="weibo">
 部分迷笛音乐节盗窃者已被抓获（热度：359708）
 </a>
@@ -5457,12 +5463,6 @@ EXO明年或将有专辑（热度：298713）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E4%BA%BA%E7%8B%AC%E4%BA%AB%E6%B8%A3%E7%94%B7%E8%B5%9B%E9%81%93%23" target="weibo">
-一人独享渣男赛道（热度：286130）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%B1%B1%E9%A1%B6%E6%8C%A5%E8%88%9E%E5%9B%BD%E6%97%97%E9%BD%90%E5%96%8A%E7%A5%96%E5%9B%BD%E4%B8%87%E5%B2%81%23" target="weibo">
 游客泰山顶挥舞国旗齐喊祖国万岁（热度：286006）
 </a>
@@ -5633,6 +5633,12 @@ mRNA疫苗获得诺贝尔奖（热度：281239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E4%B8%8D%E5%90%90%E8%A1%80%E7%9A%84%E5%89%A7%E4%B8%8D%E6%8E%A5%23" target="weibo">
 成毅不吐血的剧不接（热度：278649）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E4%B8%BD%E4%B8%BD%E8%B5%B5%E8%AE%A9%E4%B8%80%E8%B5%B7%E5%BD%95%E7%BB%BC%E8%89%BA%23" target="weibo">
+钟丽丽赵让一起录综艺（热度：278555）
 </a>
 </li>
 
@@ -6495,6 +6501,12 @@ S型身材的于适（热度：250621）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23MINJI%20I%20love%20You%203000%20cover%23" target="weibo">
+MINJI I love You 3000 cover（热度：241153）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E6%9B%BE%E8%AF%B4%E8%B5%B7%E8%B7%91%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E7%A1%AC%E4%BC%A4%23" target="weibo">
 吴艳妮曾说起跑是自己的硬伤（热度：241031）
 </a>
@@ -6557,12 +6569,6 @@ S型身材的于适（热度：250621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E5%91%98%E6%89%93%E5%8E%8B%E6%88%91%E5%A6%88%E8%A2%AB%E6%88%91%E6%80%BC%E4%BA%86%23" target="weibo">
 店员打压我妈被我怼了（热度：237919）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E4%B8%BD%E4%B8%BD%E8%B5%B5%E8%AE%A9%E4%B8%80%E8%B5%B7%E5%BD%95%E7%BB%BC%E8%89%BA%23" target="weibo">
-钟丽丽赵让一起录综艺（热度：237744）
 </a>
 </li>
 
@@ -6743,6 +6749,12 @@ S型身材的于适（热度：250621）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%83%E6%B0%94%E5%B0%91%E5%A5%B3%E7%BC%98%E7%BB%93%E7%A5%9E%E5%B7%B4%E5%8D%AB%E6%96%B0%E7%B2%98%E5%9C%9F%E4%BA%BA%23" target="weibo">
 元气少女缘结神巴卫新粘土人（热度：229264）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%9E%9A%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%87%91%E7%89%8C%23" target="weibo">
+中国亚运史上首枚男子马拉松金牌（热度：229147）
 </a>
 </li>
 
@@ -7875,6 +7887,12 @@ Jennie个人单曲预告海报（热度：197160）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%23" target="weibo">
+京城大师赛（热度：196339）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%94%B7%E5%8D%95%E6%99%8B%E7%BA%A716%E5%BC%BA%23" target="weibo">
 马龙男单晋级16强（热度：196309）
 </a>
@@ -8397,6 +8415,12 @@ wtt球星挑战赛兰州站2023（热度：188391）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%BD%92%E8%BF%98%E4%B9%90%E8%BF%B7%E8%BA%AB%E4%BB%BD%E8%AF%8179%E5%BC%A0%23" target="weibo">
+已归还乐迷身份证79张（热度：182970）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%BA%9A%E7%8E%8B%E4%B8%BD%E5%9D%A4%E6%96%B0%E5%89%A7%E6%89%93%E6%88%8F%23" target="weibo">
 韩庚王丽坤新剧打戏（热度：182903）
 </a>
@@ -8733,12 +8757,6 @@ wtt球星挑战赛兰州站2023（热度：188391）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B2%E5%BD%92%E8%BF%98%E4%B9%90%E8%BF%B7%E8%BA%AB%E4%BB%BD%E8%AF%8179%E5%BC%A0%23" target="weibo">
-已归还乐迷身份证79张（热度：172083）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23JINI%20solo%E5%87%BA%E9%81%93%E6%9B%B21%E5%88%86%E9%92%9F%E5%85%88%E5%85%AC%E5%BC%80%23" target="weibo">
 JINI solo出道曲1分钟先公开（热度：171281）
 </a>
@@ -8801,12 +8819,6 @@ Jennie米色马甲背心短裤造型（热度：171079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%A4%A9%E4%B8%80%E7%A7%8D%E4%B9%A6%E5%86%99%E4%B8%AD%E5%9B%BD%E7%9A%84%E6%96%B9%E5%BC%8F%23" target="weibo">
 一天一种书写中国的方式（热度：169529）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%9E%9A%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%87%91%E7%89%8C%23" target="weibo">
-中国亚运史上首枚男子马拉松金牌（热度：169469）
 </a>
 </li>
 
@@ -9971,12 +9983,6 @@ Jennie巴黎时装周待遇（热度：158480）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B5%B7%E6%98%9F%E4%BA%BA%E7%9A%84%E6%9C%80%E7%BB%88%E4%B8%8B%E5%9C%BA%23" target="weibo">
 刘海星人的最终下场（热度：127807）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23MINJI%20I%20love%20You%203000%20cover%23" target="weibo">
-MINJI I love You 3000 cover（热度：127743）
 </a>
 </li>
 
