@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696617326112,
+  "endTime": 1696619617656,
   "band_list": [
     {
       "raw_hot": 1307877,
@@ -497,6 +497,14 @@
       "onboard_time": 1696594418,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 27687,
+      "num": 27687,
+      "word": "年轻人为什么都喜欢去音乐节",
+      "onboard_time": 1696619355,
+      "rank": 44,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 25311,
