@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/07 03:13:37
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/07 03:34:00
 </p>
 </blockquote>
 <p>
@@ -12843,6 +12843,12 @@ IVE专辑预告视频（热度：104512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%96%9C%E6%AC%A2%E5%8E%BB%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+年轻人为什么都喜欢去音乐节（热度：32152）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%80%A1%E8%AE%AE%E5%8D%81%E5%91%A8%E5%B9%B4%23" target="weibo">
 一带一路倡议十周年（热度：32065）
 </a>
@@ -12875,12 +12881,6 @@ IVE专辑预告视频（热度：104512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E5%81%A5%E5%84%BF%E4%B8%BA%E7%A5%96%E5%9B%BD%E7%8C%AE%E7%A4%BC%23" target="weibo">
 亚运健儿为祖国献礼（热度：28987）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E9%83%BD%E5%96%9C%E6%AC%A2%E5%8E%BB%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-年轻人为什么都喜欢去音乐节（热度：27687）
 </a>
 </li>
 
