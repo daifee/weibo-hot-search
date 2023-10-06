@@ -1,0 +1,410 @@
+{
+  "runTime": 1696576541227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1792173,
+        "num": 1792173,
+        "word": "日本流水面致892人中毒",
+        "onboard_time": 1696570113,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1622310,
+        "num": 1622310,
+        "word": "王栎鑫去了趟厕所天都变了",
+        "onboard_time": 1696574614,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100338,
+        "num": 1581988,
+        "word": "他们是最好的队友也是最好的对手",
+        "onboard_time": 1696565493,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1580005,
+        "num": 1580005,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 864060,
+        "num": 864060,
+        "word": "经期不能做的6件事",
+        "onboard_time": 1696573773,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 852879,
+        "num": 852879,
+        "word": "李诗沣进决赛",
+        "onboard_time": 1696574974,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 808720,
+        "num": 808720,
+        "word": "王牌对王牌",
+        "onboard_time": 1696574554,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 794650,
+        "num": 794650,
+        "word": "长相思演唱会要来了",
+        "onboard_time": 1696574374,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608472,
+        "num": 608472,
+        "word": "陈飞宇首次回应弄丢妖猫传的猫",
+        "onboard_time": 1696560033,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 563526,
+        "num": 563526,
+        "word": "苏炳添竟然不是田径队第一翘臀",
+        "onboard_time": 1696572515,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579568,
+        "num": 540457,
+        "word": "吴京探班 霍思燕泪洒 张艺谋震惊",
+        "onboard_time": 1696567417,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 487364,
+        "num": 487364,
+        "word": "Jennie新歌封面是武内直子画的",
+        "onboard_time": 1696563096,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 322516,
+        "num": 440064,
+        "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+        "onboard_time": 1696560634,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 223825,
+        "num": 438336,
+        "word": "全红婵背了一包玩偶离开杭州",
+        "onboard_time": 1696558773,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180347,
+        "num": 437886,
+        "word": "迷笛音乐节组委会称不希望地域攻击",
+        "onboard_time": 1696554034,
+        "rank": 14,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 437597,
+        "num": 437597,
+        "word": "易烊千玺牛仔叠穿",
+        "onboard_time": 1696568314,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 403212,
+        "num": 403212,
+        "word": "IVE空降",
+        "onboard_time": 1696568974,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 402726,
+        "num": 402726,
+        "word": "河南官媒呼吁网友不要地域黑",
+        "onboard_time": 1696568974,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383869,
+        "num": 383869,
+        "word": "徐明浩作品将在萨奇画廊展出",
+        "onboard_time": 1696575153,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380479,
+        "num": 380479,
+        "word": "陈楚生我不想被选择",
+        "onboard_time": 1696573533,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 890944,
+        "num": 376596,
+        "word": "两干部流出不雅视频被停职",
+        "onboard_time": 1696571793,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405421,
+        "num": 369130,
+        "word": "38岁女老师被骗400万仍想和骗子结婚",
+        "onboard_time": 1696575754,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350608,
+        "num": 350608,
+        "word": "她一辈子是林双的小狐狸",
+        "onboard_time": 1696570413,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 334401,
+        "num": 334401,
+        "word": "迪丽热巴巴黎新合照",
+        "onboard_time": 1696575453,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 296623,
+        "num": 296623,
+        "word": "8天很短7天很长",
+        "onboard_time": 1696564594,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292508,
+        "num": 292508,
+        "word": "赵丽颖为陆毅关智斌打call",
+        "onboard_time": 1696567774,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287605,
+        "num": 287605,
+        "word": "苹果升级系统后充电温度可降7.4度",
+        "onboard_time": 1696570716,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 265415,
+        "num": 265415,
+        "word": "真的别再用学生思维上班",
+        "onboard_time": 1696573296,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240348,
+        "num": 240348,
+        "word": "任嘉伦流水迢迢怼脸路透",
+        "onboard_time": 1696575754,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203788,
+        "num": 203788,
+        "word": "中国女足铜牌战",
+        "onboard_time": 1696571314,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389811,
+        "num": 203370,
+        "word": "周润发谈韩国电影的竞争力",
+        "onboard_time": 1696575996,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245991,
+        "num": 202875,
+        "word": "和韩国室友撕到校方出面",
+        "onboard_time": 1696575814,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202370,
+        "num": 202370,
+        "word": "男孩给96岁长辈敬酒妙语连珠",
+        "onboard_time": 1696575395,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187672,
+        "num": 187672,
+        "word": "街办回应两干部忘关摄像头流出不雅视频",
+        "onboard_time": 1696572215,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186308,
+        "num": 186308,
+        "word": "卢昱晓王牌对王牌路透",
+        "onboard_time": 1696570773,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183490,
+        "num": 183490,
+        "word": "短发Arin回归",
+        "onboard_time": 1696576234,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173462,
+        "num": 173462,
+        "word": "李诗沣vs普兰诺伊",
+        "onboard_time": 1696574256,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168637,
+        "num": 168637,
+        "word": "竹马天降都是你开机",
+        "onboard_time": 1696568194,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167411,
+        "num": 167411,
+        "word": "Jennie个人单曲音源上线",
+        "onboard_time": 1696567897,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165629,
+        "num": 165629,
+        "word": "朋友把身份证塞进手机后盖",
+        "onboard_time": 1696562495,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161071,
+        "num": 161071,
+        "word": "大结局卫明出现幻觉",
+        "onboard_time": 1696568681,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156038,
+        "num": 156038,
+        "word": "江宁婆婆评南阳盗窃事件",
+        "onboard_time": 1696555954,
+        "rank": 41,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 154770,
+        "num": 154770,
+        "word": "韩素希和车银优一起拍广告了",
+        "onboard_time": 1696566096,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154463,
+        "num": 154463,
+        "word": "国庆别走",
+        "onboard_time": 1696573715,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153685,
+        "num": 153685,
+        "word": "外媒报道王一博巴黎时装周",
+        "onboard_time": 1696564115,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146010,
+        "num": 146010,
+        "word": "澳门汉堡的名字也太直白了",
+        "onboard_time": 1696571075,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 145660,
+        "num": 145660,
+        "word": "流浪猫占窝狗狗无奈求助主人",
+        "onboard_time": 1696572996,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142317,
+        "num": 142317,
+        "word": "民警一拖四救出落水一家四口",
+        "onboard_time": 1696575572,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140059,
+        "num": 140059,
+        "word": "IVE先行曲OffTheRecord",
+        "onboard_time": 1696567715,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 135227,
+        "num": 135227,
+        "word": "陈佳鹏回家先把金牌挂妈妈脖子上",
+        "onboard_time": 1696575634,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以体育促和平将亚洲打造成世界和平的稳定锚#"
+    }
+  }
+}
