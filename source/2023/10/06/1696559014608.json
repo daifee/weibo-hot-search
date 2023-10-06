@@ -1,0 +1,410 @@
+{
+  "runTime": 1696559014608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2015721,
+        "num": 2015721,
+        "word": "上海4岁女童海滩走失已超24小时",
+        "onboard_time": 1696548863,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1181639,
+        "num": 1181639,
+        "word": "周润发回应裸捐56亿港币",
+        "onboard_time": 1696549586,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67616,
+        "num": 1035167,
+        "word": "被亚运会的氛围可爱到了",
+        "onboard_time": 1696511138,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1012699,
+        "num": 1012699,
+        "word": "杨鸣评价中国男篮心态失衡",
+        "onboard_time": 1696557452,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667401,
+        "num": 667401,
+        "word": "不经意看到妈妈的内衣扣感觉很心酸",
+        "onboard_time": 1696553612,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 593968,
+        "num": 593968,
+        "word": "黄景瑜不拍古装的原因",
+        "onboard_time": 1696548262,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 540495,
+        "num": 540495,
+        "word": "迷笛音乐节组委会称不希望地域攻击",
+        "onboard_time": 1696554034,
+        "rank": 6,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 461295,
+        "num": 461295,
+        "word": "李泽锋 轻舟已过万重山",
+        "onboard_time": 1696518159,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455372,
+        "num": 455372,
+        "word": "江宁婆婆评南阳盗窃事件",
+        "onboard_time": 1696555954,
+        "rank": 8,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 415295,
+        "num": 415295,
+        "word": "瑞幸要和猫和老鼠联名了吗",
+        "onboard_time": 1696549406,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1121532,
+        "num": 414982,
+        "word": "金世佳被孩子求抱后续",
+        "onboard_time": 1696548383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 892344,
+        "num": 412025,
+        "word": "网友在冰岛偶遇迪丽热巴",
+        "onboard_time": 1696550548,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 810897,
+        "num": 411090,
+        "word": "西安外国语大学",
+        "onboard_time": 1696518824,
+        "rank": 12,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 249351,
+        "num": 409505,
+        "word": "陈某煽动误导村民拿东西被刑拘",
+        "onboard_time": 1696518220,
+        "rank": 13,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 195453,
+        "num": 408193,
+        "word": "这枚奥运铜牌含金量足够大",
+        "onboard_time": 1696549224,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 762988,
+        "num": 405802,
+        "word": "六代的帅男人悄悄出现了",
+        "onboard_time": 1696555171,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 663745,
+        "num": 403745,
+        "word": "官方通报幼儿园园长与无业男子开房",
+        "onboard_time": 1696557812,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403578,
+        "num": 403578,
+        "word": "韩国选手否认模仿羞辱何冰娇",
+        "onboard_time": 1696558652,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 388259,
+        "num": 388259,
+        "word": "徐州一婚礼场地被村民连夜搬空",
+        "onboard_time": 1696517259,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379313,
+        "num": 379313,
+        "word": "周杰伦 一生中最爱",
+        "onboard_time": 1696558353,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 581162,
+        "num": 378745,
+        "word": "传说中4200度的眼镜",
+        "onboard_time": 1696557272,
+        "rank": 20,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 376285,
+        "num": 376285,
+        "word": "王楚钦 很清醒很聪明",
+        "onboard_time": 1696557931,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353090,
+        "num": 353090,
+        "word": "她从19岁开始陪到他75岁了",
+        "onboard_time": 1696550668,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322326,
+        "num": 322326,
+        "word": "全红婵唯一的炸鱼方式",
+        "onboard_time": 1696516539,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284168,
+        "num": 284168,
+        "word": "为什么电视里的人离职都要抱纸箱",
+        "onboard_time": 1696556432,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266597,
+        "num": 266597,
+        "word": "虞书欣永夜星河婚服路透",
+        "onboard_time": 1696549224,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250853,
+        "num": 250853,
+        "word": "叙利亚一军校遭无人机袭击",
+        "onboard_time": 1696550668,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238339,
+        "num": 238339,
+        "word": "南阳官方通报音乐节盗窃事件",
+        "onboard_time": 1696517797,
+        "rank": 27,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 232136,
+        "num": 232136,
+        "word": "可以夹在胸前防止驼背的玩偶",
+        "onboard_time": 1696551390,
+        "rank": 28,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 223558,
+        "num": 223558,
+        "word": "永夜星河",
+        "onboard_time": 1696557031,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382202,
+        "num": 222068,
+        "word": "孟非参观祖屋要看房产证",
+        "onboard_time": 1696553672,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283641,
+        "num": 220718,
+        "word": "吉克隽逸经常回大凉山的原因",
+        "onboard_time": 1696557632,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 274900,
+        "num": 217537,
+        "word": "袁琦琦说男生没肌肉要反思",
+        "onboard_time": 1696557452,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 249298,
+        "num": 215501,
+        "word": "李梦沉浸式自拍女篮夺冠后状态",
+        "onboard_time": 1696558234,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214128,
+        "num": 214128,
+        "word": "广西百色一直升机坠毁致1死3伤",
+        "onboard_time": 1696552951,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212750,
+        "num": 212750,
+        "word": "新娘婚宴敬酒前抓紧干饭",
+        "onboard_time": 1696557512,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212117,
+        "num": 212117,
+        "word": "雅思组合",
+        "onboard_time": 1696558890,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207403,
+        "num": 207403,
+        "word": "全红婵背了一包玩偶离开杭州",
+        "onboard_time": 1696558773,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204026,
+        "num": 204026,
+        "word": "gidle英文首专",
+        "onboard_time": 1696553432,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 201862,
+        "num": 201862,
+        "word": "女子做职业伴娘国庆8天8场婚礼",
+        "onboard_time": 1696551090,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193883,
+        "num": 193883,
+        "word": "王一博看秀看中相机包",
+        "onboard_time": 1696550729,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183367,
+        "num": 183367,
+        "word": "游客挖走张掖七彩丹霞景区土壤",
+        "onboard_time": 1696548202,
+        "rank": 41,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 178872,
+        "num": 178872,
+        "word": "韩国人真的别执着比心了",
+        "onboard_time": 1696549164,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178525,
+        "num": 178525,
+        "word": "中国女篮冠军",
+        "onboard_time": 1696513546,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177558,
+        "num": 177558,
+        "word": "薛之谦把伴舞假发薅掉了",
+        "onboard_time": 1696549706,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176119,
+        "num": 176119,
+        "word": "如何在人群中快速找出全红婵",
+        "onboard_time": 1696558474,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157982,
+        "num": 157982,
+        "word": "玄月簪盘发",
+        "onboard_time": 1696555293,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148417,
+        "num": 148417,
+        "word": "中国队首次摘得亚运攀岩金牌",
+        "onboard_time": 1696547901,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145945,
+        "num": 145945,
+        "word": "他们将荒岛变绿洲种出巨幅国旗",
+        "onboard_time": 1696558955,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144827,
+        "num": 144827,
+        "word": "Jennie把一年四季穿身上",
+        "onboard_time": 1696517317,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}
