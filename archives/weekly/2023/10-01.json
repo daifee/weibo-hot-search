@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696598501584,
+  "endTime": 1696599237063,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1475,6 +1475,14 @@
       "category": "幽默,互联网"
     },
     {
+      "raw_hot": 1251306,
+      "num": 1251306,
+      "word": "老乡鸡",
+      "onboard_time": 1696596760,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1242296,
       "num": 1242296,
       "word": "李泽锋 轻舟已过万重山",
@@ -1689,14 +1697,6 @@
       "onboard_time": 1696589080,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1136694,
-      "num": 1136694,
-      "word": "老乡鸡",
-      "onboard_time": 1696596760,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 1134478,
@@ -2155,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 937969,
+      "num": 937969,
+      "word": "王楚钦3比0安宰贤",
+      "onboard_time": 1696597723,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 933328,
       "num": 541185,
       "word": "杨幂发了15张图",
@@ -2241,14 +2249,6 @@
       "onboard_time": 1696243654,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 905466,
-      "num": 905466,
-      "word": "王楚钦3比0安宰贤",
-      "onboard_time": 1696597723,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 900664,
@@ -2755,6 +2755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797884,
+      "num": 797884,
+      "word": "测评博主吐槽王鹤棣潮牌",
+      "onboard_time": 1696595499,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 796735,
       "num": 796735,
       "word": "网友p的孙颖莎长发的样子",
@@ -2907,6 +2915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 766074,
+      "num": 766074,
+      "word": "王丽坤戴面具32集终于摘掉了",
+      "onboard_time": 1696595858,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 764582,
       "num": 764582,
       "word": "全红婵安慰陈芋汐",
@@ -2945,14 +2961,6 @@
       "onboard_time": 1696425098,
       "rank": 22,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 759182,
-      "num": 759182,
-      "word": "王丽坤戴面具32集终于摘掉了",
-      "onboard_time": 1696595858,
-      "rank": 10,
-      "category": "剧集"
     },
     {
       "raw_hot": 758178,
@@ -3009,6 +3017,14 @@
       "onboard_time": 1696383934,
       "rank": 6,
       "category": "数码"
+    },
+    {
+      "raw_hot": 737815,
+      "num": 737815,
+      "word": "女童走失海滩曾有人被潮水卷走",
+      "onboard_time": 1696595559,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 736119,
@@ -3115,14 +3131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 717359,
-      "num": 717359,
-      "word": "女童走失海滩曾有人被潮水卷走",
-      "onboard_time": 1696595559,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 717023,
       "num": 717023,
       "word": "陈梦王曼昱晋级女双四强",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1696344877,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 714434,
-      "num": 714434,
-      "word": "测评博主吐槽王鹤棣潮牌",
-      "onboard_time": 1696595499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 713477,
@@ -4347,6 +4347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 553597,
+      "num": 553597,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 553068,
       "num": 553068,
       "word": "胡明轩好帅",
@@ -4425,14 +4433,6 @@
       "onboard_time": 1696262734,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 542502,
-      "num": 542502,
-      "word": "日本海鲜滞销堆积成山",
-      "onboard_time": 1696592498,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 541611,
@@ -5955,6 +5955,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 404163,
+      "num": 404163,
+      "word": "石宇奇 淡黄的长裙",
+      "onboard_time": 1696598025,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 404054,
       "num": 335379,
       "word": "10月十二星座注意事项",
@@ -6593,6 +6601,14 @@
       "onboard_time": 1696257278,
       "rank": 37,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 366533,
+      "num": 366533,
+      "word": "林陆骁南初",
+      "onboard_time": 1696598441,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 366231,
@@ -7307,6 +7323,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 331549,
+      "num": 331549,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331413,
       "num": 331413,
       "word": "曾黎衬衫里穿的是泳衣",
@@ -7627,6 +7651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 317989,
+      "num": 317989,
+      "word": "主持人大赛",
+      "onboard_time": 1696595739,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317482,
       "num": 317482,
       "word": "黄嘉仪人设",
@@ -7713,14 +7745,6 @@
       "onboard_time": 1696512759,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312200,
-      "num": 312200,
-      "word": "主持人大赛",
-      "onboard_time": 1696595739,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 311826,
@@ -7896,6 +7920,14 @@
       "word": "全红婵采访躲陈芋汐身后的原因",
       "onboard_time": 1696409194,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 305206,
+      "num": 305206,
+      "word": "姚明回应被称作226",
+      "onboard_time": 1696598380,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -8659,14 +8691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282938,
-      "num": 282938,
-      "word": "石宇奇 淡黄的长裙",
-      "onboard_time": 1696598025,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 282437,
       "num": 282437,
       "word": "以为看的是单人跳水",
@@ -8889,6 +8913,14 @@
       "onboard_time": 1696595140,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276729,
+      "num": 276729,
+      "word": "张颂文让魏大勋帮忙取话筒太会了",
+      "onboard_time": 1696595798,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 276220,
@@ -9283,14 +9315,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 264664,
-      "num": 264664,
-      "word": "张颂文让魏大勋帮忙取话筒太会了",
-      "onboard_time": 1696595798,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 264642,
       "num": 264642,
       "word": "搜寻人员回应4岁半女童海滩失踪",
@@ -9401,6 +9425,14 @@
       "onboard_time": 1696507595,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 262109,
+      "num": 262109,
+      "word": "田曦薇小猫你好",
+      "onboard_time": 1696598565,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 262102,
@@ -10507,6 +10539,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 231433,
+      "num": 231433,
+      "word": "迪丽热巴 万渣朝凰",
+      "onboard_time": 1696599106,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230902,
       "num": 201661,
       "word": "橡皮筋突然成了主人的项链",
@@ -10817,6 +10857,14 @@
       "onboard_time": 1696237714,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 224464,
+      "num": 224464,
+      "word": "王楚钦单打",
+      "onboard_time": 1696598924,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 224431,
@@ -12019,20 +12067,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200185,
+      "num": 200185,
+      "word": "黄景瑜直播",
+      "onboard_time": 1696598142,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200163,
       "num": 200163,
       "word": "田柾国直播",
       "onboard_time": 1696433375,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200033,
-      "num": 200033,
-      "word": "黄景瑜直播",
-      "onboard_time": 1696598142,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 199989,
@@ -12691,14 +12739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190388,
-      "num": 190388,
-      "word": "姚明回应被称作226",
-      "onboard_time": 1696598380,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190046,
       "num": 190046,
       "word": "孙颖莎4比0申裕彬",
@@ -13155,14 +13195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182074,
-      "num": 182074,
-      "word": "半夜醒来时不要看时间",
-      "onboard_time": 1696598380,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 181986,
       "num": 181986,
       "word": "腮红从卧蚕开始扫",
@@ -13577,14 +13609,6 @@
       "onboard_time": 1696407035,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173389,
-      "num": 173389,
-      "word": "林陆骁南初",
-      "onboard_time": 1696598441,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 173038,
@@ -16443,6 +16467,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 53579,
+      "num": 205587,
+      "word": "劳模张之臻",
+      "onboard_time": 1696597723,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 51288,
       "num": 51288,
       "word": "武警一路狂奔为救护车开道",
@@ -16465,14 +16497,6 @@
       "onboard_time": 1696095143,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 47996,
-      "num": 193784,
-      "word": "劳模张之臻",
-      "onboard_time": 1696597723,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 47798,
@@ -16681,6 +16705,14 @@
       "onboard_time": 1696230032,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 30682,
+      "num": 1580284,
+      "word": "秋日里的中国大地有多少种色彩",
+      "onboard_time": 1696598623,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29067,
@@ -16909,6 +16941,9 @@
     },
     {
       "word": "#杭州亚运感谢有你#"
+    },
+    {
+      "word": "#从大写意到工笔画#"
     }
   ]
 }

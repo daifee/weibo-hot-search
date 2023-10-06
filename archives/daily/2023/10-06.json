@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696598501584,
+  "endTime": 1696599237063,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -187,6 +187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1251306,
+      "num": 1251306,
+      "word": "老乡鸡",
+      "onboard_time": 1696596760,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1242296,
       "num": 1242296,
       "word": "李泽锋 轻舟已过万重山",
@@ -259,14 +267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1136694,
-      "num": 1136694,
-      "word": "老乡鸡",
-      "onboard_time": 1696596760,
-      "rank": 5,
-      "category": "美食"
-    },
-    {
       "raw_hot": 1077554,
       "num": 1077554,
       "word": "全红婵唯一的炸鱼方式",
@@ -331,6 +331,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 937969,
+      "num": 937969,
+      "word": "王楚钦3比0安宰贤",
+      "onboard_time": 1696597723,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 919776,
       "num": 919776,
       "word": "中国女足亚运会铜牌",
@@ -361,14 +369,6 @@
       "onboard_time": 1696593696,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 905466,
-      "num": 905466,
-      "word": "王楚钦3比0安宰贤",
-      "onboard_time": 1696597723,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 898003,
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 797884,
+      "num": 797884,
+      "word": "测评博主吐槽王鹤棣潮牌",
+      "onboard_time": 1696595499,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 794650,
       "num": 794650,
       "word": "长相思演唱会要来了",
@@ -499,12 +507,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 759182,
-      "num": 759182,
+      "raw_hot": 766074,
+      "num": 766074,
       "word": "王丽坤戴面具32集终于摘掉了",
       "onboard_time": 1696595858,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 737815,
+      "num": 737815,
+      "word": "女童走失海滩曾有人被潮水卷走",
+      "onboard_time": 1696595559,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 723855,
@@ -531,28 +547,12 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 717359,
-      "num": 717359,
-      "word": "女童走失海滩曾有人被潮水卷走",
-      "onboard_time": 1696595559,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 716453,
       "num": 716453,
       "word": "陈梦",
       "onboard_time": 1696586197,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 714434,
-      "num": 714434,
-      "word": "测评博主吐槽王鹤棣潮牌",
-      "onboard_time": 1696595499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 713477,
@@ -763,8 +763,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 542502,
-      "num": 542502,
+      "raw_hot": 553597,
+      "num": 553597,
       "word": "日本海鲜滞销堆积成山",
       "onboard_time": 1696592498,
       "rank": 20,
@@ -979,6 +979,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 404163,
+      "num": 404163,
+      "word": "石宇奇 淡黄的长裙",
+      "onboard_time": 1696598025,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 402914,
       "num": 1465610,
       "word": "外国运动员体验亚运五件套",
@@ -1089,6 +1097,14 @@
       "onboard_time": 1696549103,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 366533,
+      "num": 366533,
+      "word": "林陆骁南初",
+      "onboard_time": 1696598441,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 362364,
@@ -1235,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 331549,
+      "num": 331549,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 331080,
       "num": 331080,
       "word": "中国女足vs乌兹别克斯坦",
@@ -1275,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317989,
+      "num": 317989,
+      "word": "主持人大赛",
+      "onboard_time": 1696595739,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317350,
       "num": 317350,
       "word": "李梦美甲",
@@ -1299,14 +1331,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 312200,
-      "num": 312200,
-      "word": "主持人大赛",
-      "onboard_time": 1696595739,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 310327,
       "num": 310327,
       "word": "他从火光中走来",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1696559915,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305206,
+      "num": 305206,
+      "word": "姚明回应被称作226",
+      "onboard_time": 1696598380,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 300016,
@@ -1467,14 +1499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282938,
-      "num": 282938,
-      "word": "石宇奇 淡黄的长裙",
-      "onboard_time": 1696598025,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280977,
       "num": 280977,
       "word": "为什么情侣要看前任4",
@@ -1529,6 +1553,14 @@
       "onboard_time": 1696595140,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276729,
+      "num": 276729,
+      "word": "张颂文让魏大勋帮忙取话筒太会了",
+      "onboard_time": 1696595798,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 275816,
@@ -1587,14 +1619,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 264664,
-      "num": 264664,
-      "word": "张颂文让魏大勋帮忙取话筒太会了",
-      "onboard_time": 1696595798,
-      "rank": 32,
-      "category": "电影"
-    },
-    {
       "raw_hot": 264642,
       "num": 264642,
       "word": "搜寻人员回应4岁半女童海滩失踪",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1696517317,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 262109,
+      "num": 262109,
+      "word": "田曦薇小猫你好",
+      "onboard_time": 1696598565,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 260354,
@@ -1811,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231433,
+      "num": 231433,
+      "word": "迪丽热巴 万渣朝凰",
+      "onboard_time": 1696599106,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 230804,
       "num": 230804,
       "word": "王诗玥柳鑫宇完美演绎不完美小孩",
@@ -1864,6 +1904,14 @@
       "word": "中国男子龙舟1000米银牌",
       "onboard_time": 1696565254,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 224464,
+      "num": 224464,
+      "word": "王楚钦单打",
+      "onboard_time": 1696598924,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2035,8 +2083,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 200033,
-      "num": 200033,
+      "raw_hot": 200185,
+      "num": 200185,
       "word": "黄景瑜直播",
       "onboard_time": 1696598142,
       "rank": 35,
@@ -2139,14 +2187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190388,
-      "num": 190388,
-      "word": "姚明回应被称作226",
-      "onboard_time": 1696598380,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190266,
       "num": 190266,
       "word": "被巴黎戴高乐机场的中文折服了",
@@ -2243,14 +2283,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 182074,
-      "num": 182074,
-      "word": "半夜醒来时不要看时间",
-      "onboard_time": 1696598380,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 179931,
       "num": 179931,
       "word": "服装店的镜子可以有多离谱",
@@ -2305,14 +2337,6 @@
       "onboard_time": 1696574256,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173389,
-      "num": 173389,
-      "word": "林陆骁南初",
-      "onboard_time": 1696598441,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 170068,
@@ -2811,8 +2835,8 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 47996,
-      "num": 193784,
+      "raw_hot": 53579,
+      "num": 205587,
       "word": "劳模张之臻",
       "onboard_time": 1696597723,
       "rank": 39,
@@ -2849,6 +2873,14 @@
       "onboard_time": 1696536793,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30682,
+      "num": 1580284,
+      "word": "秋日里的中国大地有多少种色彩",
+      "onboard_time": 1696598623,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
@@ -2866,6 +2898,9 @@
     },
     {
       "word": "#杭州亚运感谢有你#"
+    },
+    {
+      "word": "#从大写意到工笔画#"
     }
   ]
 }
