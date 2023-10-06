@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696624445164,
+  "endTime": 1696626883289,
   "band_list": [
     {
       "raw_hot": 1307877,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226330,
+      "num": 74315,
+      "word": "浦东海滩走失女孩疑似最后影像曝光",
+      "onboard_time": 1696621933,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217823,
       "num": 217823,
       "word": "黄景瑜 男主没有死",
@@ -273,14 +281,6 @@
       "onboard_time": 1696612163,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191668,
-      "num": 40613,
-      "word": "浦东海滩走失女孩疑似最后影像曝光",
-      "onboard_time": 1696621933,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 189009,
@@ -515,7 +515,7 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 26000,
+      "raw_hot": 28131,
       "num": 25126,
       "word": "韩庚晒机票",
       "onboard_time": 1696622954,
@@ -529,6 +529,14 @@
       "onboard_time": 1696598565,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 22334,
+      "num": 22334,
+      "word": "王濛叫刘雨昕刘姐",
+      "onboard_time": 1696625954,
+      "rank": 36,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 21737,

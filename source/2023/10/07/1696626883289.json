@@ -1,0 +1,410 @@
+{
+  "runTime": 1696626883289,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 192005,
+        "num": 192005,
+        "word": "半夜醒来时不要看时间",
+        "onboard_time": 1696598380,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 74347,
+        "num": 74347,
+        "word": "老师订10余套演出服用完立马退货",
+        "onboard_time": 1696600363,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13328,
+        "num": 74316,
+        "word": "9招找回节后好状态",
+        "onboard_time": 1696598565,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226330,
+        "num": 74315,
+        "word": "浦东海滩走失女孩疑似最后影像曝光",
+        "onboard_time": 1696621933,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99657,
+        "num": 74315,
+        "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+        "onboard_time": 1696600182,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74315,
+        "num": 74314,
+        "word": "他从火光中走来 男主死了",
+        "onboard_time": 1696594058,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63850,
+        "num": 63850,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57765,
+        "num": 57765,
+        "word": "迪丽热巴 万渣朝凰",
+        "onboard_time": 1696599106,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48087,
+        "num": 48087,
+        "word": "定闹钟",
+        "onboard_time": 1696607673,
+        "rank": 8,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 44172,
+        "num": 44172,
+        "word": "日本海鲜滞销堆积成山",
+        "onboard_time": 1696592498,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38749,
+        "num": 38749,
+        "word": "黄景瑜和网友决战紫禁之巅",
+        "onboard_time": 1696599705,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36497,
+        "num": 36497,
+        "word": "金价连续下跌",
+        "onboard_time": 1696585172,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 24448,
+        "num": 35210,
+        "word": "爸爸带娃主打潦草",
+        "onboard_time": 1696601024,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21953,
+        "num": 34398,
+        "word": "女游客昏迷倒地交警一路呼喊及时送医",
+        "onboard_time": 1696607793,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16324,
+        "num": 34387,
+        "word": "中国男篮季军",
+        "onboard_time": 1696585719,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34377,
+        "num": 34377,
+        "word": "男子中秋夜闯入邻居家枪击行凶",
+        "onboard_time": 1696611385,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30545,
+        "num": 30545,
+        "word": "测评博主吐槽王鹤棣潮牌",
+        "onboard_time": 1696595499,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29743,
+        "num": 29743,
+        "word": "上班",
+        "onboard_time": 1696607495,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29110,
+        "num": 29110,
+        "word": "万渣朝凰",
+        "onboard_time": 1696600967,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28083,
+        "num": 28083,
+        "word": "老乡鸡",
+        "onboard_time": 1696596760,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 92569,
+        "num": 28023,
+        "word": "上海失踪4岁女童母亲发声",
+        "onboard_time": 1696583733,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34308,
+        "num": 27966,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1696599463,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27836,
+        "num": 27836,
+        "word": "周杰伦给张艺兴送了花篮",
+        "onboard_time": 1696606719,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27190,
+        "num": 27190,
+        "word": "儿子说朋友挂了被父亲举报吸毒",
+        "onboard_time": 1696593457,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26762,
+        "num": 26762,
+        "word": "奔跑中的刘浩存",
+        "onboard_time": 1696606178,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26297,
+        "num": 26297,
+        "word": "韩素希不能当爱豆的原因",
+        "onboard_time": 1696599946,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25907,
+        "num": 25907,
+        "word": "女童走失海滩曾有人被潮水卷走",
+        "onboard_time": 1696595559,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25467,
+        "num": 25467,
+        "word": "王丽坤戴面具32集终于摘掉了",
+        "onboard_time": 1696595858,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25105,
+        "num": 25105,
+        "word": "王楚然拍的天空",
+        "onboard_time": 1696601205,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25063,
+        "num": 25063,
+        "word": "妈妈用了30年的洗澡盆",
+        "onboard_time": 1696600545,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 28131,
+        "num": 24991,
+        "word": "韩庚晒机票",
+        "onboard_time": 1696622954,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24829,
+        "num": 24829,
+        "word": "张艺兴太会了",
+        "onboard_time": 1696599763,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 23935,
+        "num": 23935,
+        "word": "Ella给Selina的儿子买礼物",
+        "onboard_time": 1696605279,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23517,
+        "num": 23517,
+        "word": "Taylor Swift The Eras Tour有望引进",
+        "onboard_time": 1696603424,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22690,
+        "num": 22690,
+        "word": "年轻人为什么都喜欢去音乐节",
+        "onboard_time": 1696619355,
+        "rank": 34,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 22509,
+        "num": 22509,
+        "word": "喝咖啡上瘾对身体有害吗",
+        "onboard_time": 1696605580,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22334,
+        "num": 22334,
+        "word": "王濛叫刘雨昕刘姐",
+        "onboard_time": 1696625954,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 21626,
+        "num": 21626,
+        "word": "上海警方通报4岁女童在海边走失",
+        "onboard_time": 1696582356,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21106,
+        "num": 21106,
+        "word": "杨天真 不要死磕一个东西",
+        "onboard_time": 1696611086,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21035,
+        "num": 21035,
+        "word": "我要是娜然真的会爱上那茜",
+        "onboard_time": 1696606656,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20041,
+        "num": 20041,
+        "word": "他从火光中走来结局",
+        "onboard_time": 1696593696,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19123,
+        "num": 19123,
+        "word": "马天宇养了两个月的鹌鹑",
+        "onboard_time": 1696601385,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17651,
+        "num": 17651,
+        "word": "李沁去刘雨昕演唱会",
+        "onboard_time": 1696607316,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17441,
+        "num": 17441,
+        "word": "他从火光中走来",
+        "onboard_time": 1696594418,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17236,
+        "num": 17236,
+        "word": "蓝天救援队公布疑似女童走失前视频",
+        "onboard_time": 1696589080,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17111,
+        "num": 17111,
+        "word": "黄景瑜 男主没有死",
+        "onboard_time": 1696597063,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16794,
+        "num": 16794,
+        "word": "巴黎路人镜头下的杨紫",
+        "onboard_time": 1696603842,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16547,
+        "num": 16547,
+        "word": "弗格森妻子去世",
+        "onboard_time": 1696605105,
+        "rank": 47,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 16261,
+        "num": 16261,
+        "word": "陈立农满金亮片造型",
+        "onboard_time": 1696614679,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15615,
+        "num": 15615,
+        "word": "傲寒",
+        "onboard_time": 1696608333,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}

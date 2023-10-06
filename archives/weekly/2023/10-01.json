@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696624445164,
+  "endTime": 1696626883289,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -11067,6 +11067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226330,
+      "num": 74315,
+      "word": "浦东海滩走失女孩疑似最后影像曝光",
+      "onboard_time": 1696621933,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226215,
       "num": 425999,
       "word": "博物馆保洁阿姨为观众即兴讲解",
@@ -13009,14 +13017,6 @@
       "onboard_time": 1696517620,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191668,
-      "num": 40613,
-      "word": "浦东海滩走失女孩疑似最后影像曝光",
-      "onboard_time": 1696621933,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191562,
@@ -17171,6 +17171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28131,
+      "num": 25126,
+      "word": "韩庚晒机票",
+      "onboard_time": 1696622954,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27287,
       "num": 27287,
       "word": "华晨宇现场看和平项目总决赛",
@@ -17185,14 +17193,6 @@
       "onboard_time": 1696490732,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26000,
-      "num": 25126,
-      "word": "韩庚晒机票",
-      "onboard_time": 1696622954,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 25726,
@@ -17265,6 +17265,14 @@
       "onboard_time": 1696446555,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22334,
+      "num": 22334,
+      "word": "王濛叫刘雨昕刘姐",
+      "onboard_time": 1696625954,
+      "rank": 36,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 19990,
