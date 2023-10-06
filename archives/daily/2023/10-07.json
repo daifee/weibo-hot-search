@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696630532251,
+  "endTime": 1696631638817,
   "band_list": [
     {
       "raw_hot": 1307877,
@@ -67,6 +67,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 662270,
+      "num": 229548,
+      "word": "浦东海滩走失女孩疑似最后影像曝光",
+      "onboard_time": 1696621933,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653048,
       "num": 653048,
       "word": "周杰伦给张艺兴送了花篮",
@@ -97,14 +105,6 @@
       "onboard_time": 1696599106,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 468291,
-      "num": 153677,
-      "word": "浦东海滩走失女孩疑似最后影像曝光",
-      "onboard_time": 1696621933,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412876,
@@ -171,6 +171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300957,
+      "num": 300957,
+      "word": "老师订10余套演出服用完立马退货",
+      "onboard_time": 1696600363,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266711,
       "num": 266711,
       "word": "我要是娜然真的会爱上那茜",
@@ -232,14 +240,6 @@
       "word": "日本海鲜滞销堆积成山",
       "onboard_time": 1696592498,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203367,
-      "num": 203367,
-      "word": "老师订10余套演出服用完立马退货",
-      "onboard_time": 1696600363,
-      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -419,6 +419,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 117805,
+      "num": 117805,
+      "word": "年轻人为什么都喜欢去音乐节",
+      "onboard_time": 1696619355,
+      "rank": 44,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 115501,
       "num": 115501,
       "word": "沈梦辰秒答迪丽热巴",
@@ -459,14 +467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80415,
-      "num": 80415,
-      "word": "年轻人为什么都喜欢去音乐节",
-      "onboard_time": 1696619355,
-      "rank": 44,
-      "category": "社会新闻,演出"
-    },
-    {
       "raw_hot": 74851,
       "num": 74851,
       "word": "他从火光中走来结局",
@@ -483,12 +483,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 58777,
+      "num": 58777,
+      "word": "男篮队长赵继伟赛后婉拒采访",
+      "onboard_time": 1696629557,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57440,
       "num": 1112801,
       "word": "秋日里的中国大地有多少种色彩",
       "onboard_time": 1696598623,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 56716,
+      "num": 56716,
+      "word": "蔡国庆胡兵好像闺蜜和敌蜜",
+      "onboard_time": 1696629435,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 54207,
@@ -499,28 +515,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 39272,
+      "raw_hot": 48411,
       "num": 50177,
       "word": "Ella给Selina的儿子买礼物",
       "onboard_time": 1696605279,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37671,
-      "num": 37671,
-      "word": "蔡国庆胡兵好像闺蜜和敌蜜",
-      "onboard_time": 1696629435,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32726,
-      "num": 32726,
-      "word": "男篮队长赵继伟赛后婉拒采访",
-      "onboard_time": 1696629557,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 32669,
@@ -539,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26926,
+      "num": 526057,
+      "word": "9招找回节后好状态",
+      "onboard_time": 1696598565,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26434,
       "num": 26434,
       "word": "王濛叫刘雨昕刘姐",
@@ -547,20 +555,20 @@
       "category": "体育,艺人"
     },
     {
-      "raw_hot": 25311,
-      "num": 526057,
-      "word": "9招找回节后好状态",
-      "onboard_time": 1696598565,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22006,
-      "num": 97240,
+      "raw_hot": 26418,
+      "num": 99043,
       "word": "中国男篮季军",
       "onboard_time": 1696585719,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26178,
+      "num": 34094,
+      "word": "大熊猫在观众席吃瓜看戏",
+      "onboard_time": 1696631056,
+      "rank": 48,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 18130,
