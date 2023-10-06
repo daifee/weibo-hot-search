@@ -1,10 +1,10 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696634173802,
+  "endTime": 1696635243733,
   "band_list": [
     {
-      "raw_hot": 1482226,
-      "num": 622773,
+      "raw_hot": 1754670,
+      "num": 724123,
       "word": "浦东海滩走失女孩疑似最后影像曝光",
       "onboard_time": 1696621933,
       "rank": 10,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 898831,
+      "num": 898831,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 838379,
       "num": 838379,
       "word": "定闹钟",
@@ -67,12 +75,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 785171,
-      "num": 785171,
-      "word": "半夜醒来时不要看时间",
-      "onboard_time": 1696598380,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 765813,
+      "num": 765813,
+      "word": "老师订10余套演出服用完立马退货",
+      "onboard_time": 1696600363,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 756227,
@@ -81,14 +89,6 @@
       "onboard_time": 1696603424,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 673820,
-      "num": 673820,
-      "word": "老师订10余套演出服用完立马退货",
-      "onboard_time": 1696600363,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 653048,
@@ -123,12 +123,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 451651,
+      "num": 179219,
+      "word": "情侣同名同姓相恋7年后恩爱订婚",
+      "onboard_time": 1696633586,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401015,
+      "num": 401015,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384538,
       "num": 384538,
       "word": "女童走失海滩曾有人被潮水卷走",
       "onboard_time": 1696595559,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379255,
+      "num": 379255,
+      "word": "妈妈用了30年的洗澡盆",
+      "onboard_time": 1696600545,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 378567,
@@ -163,28 +187,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 329986,
-      "num": 329986,
-      "word": "日本海鲜滞销堆积成山",
-      "onboard_time": 1696592498,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 320276,
       "num": 320276,
       "word": "黄景瑜和网友决战紫禁之巅",
       "onboard_time": 1696599705,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 308204,
-      "num": 308204,
-      "word": "妈妈用了30年的洗澡盆",
-      "onboard_time": 1696600545,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 304457,
@@ -195,12 +203,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 301225,
+      "num": 176446,
+      "word": "上班第一天",
+      "onboard_time": 1696633945,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 266711,
       "num": 266711,
       "word": "我要是娜然真的会爱上那茜",
       "onboard_time": 1696606656,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261651,
+      "num": 261651,
+      "word": "儿子说朋友挂了被父亲举报吸毒",
+      "onboard_time": 1696593457,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258540,
@@ -219,14 +243,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 242551,
-      "num": 107249,
-      "word": "情侣同名同姓相恋7年后恩爱订婚",
-      "onboard_time": 1696633586,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229027,
       "num": 229027,
       "word": "韩素希不能当爱豆的原因",
@@ -235,8 +251,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 219249,
-      "num": 219249,
+      "raw_hot": 221674,
+      "num": 221674,
       "word": "年轻人为什么都喜欢去音乐节",
       "onboard_time": 1696619355,
       "rank": 44,
@@ -259,19 +275,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210846,
-      "num": 210846,
+      "raw_hot": 215707,
+      "num": 215707,
       "word": "上班",
       "onboard_time": 1696607495,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210005,
-      "num": 210005,
-      "word": "儿子说朋友挂了被父亲举报吸毒",
-      "onboard_time": 1696593457,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -281,6 +289,14 @@
       "onboard_time": 1696589080,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195421,
+      "num": 170981,
+      "word": "一句话证明国庆你去了哪里",
+      "onboard_time": 1696634788,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 193312,
@@ -355,12 +371,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 168137,
-      "num": 149429,
-      "word": "上班第一天",
-      "onboard_time": 1696633945,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 167020,
+      "num": 254956,
+      "word": "这则超市歇业通知满满都是骄傲",
+      "onboard_time": 1696634367,
+      "rank": 12,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 162397,
@@ -379,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152180,
+      "num": 136458,
+      "word": "全红婵和启蒙教练亚运赛场重逢",
+      "onboard_time": 1696633586,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150963,
       "num": 150963,
       "word": "问界新M7",
@@ -393,6 +417,14 @@
       "onboard_time": 1696582356,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143040,
+      "num": 143040,
+      "word": "蔡国庆胡兵好像闺蜜和敌蜜",
+      "onboard_time": 1696629435,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 139663,
@@ -451,20 +483,44 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 127370,
-      "num": 127370,
-      "word": "蔡国庆胡兵好像闺蜜和敌蜜",
-      "onboard_time": 1696629435,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 128714,
+      "num": 128714,
+      "word": "男篮队长赵继伟赛后婉拒采访",
+      "onboard_time": 1696629557,
+      "rank": 39,
+      "category": "体育"
     },
     {
-      "raw_hot": 126690,
-      "num": 106964,
-      "word": "全红婵和启蒙教练亚运赛场重逢",
+      "raw_hot": 120704,
+      "num": 120704,
+      "word": "熊猫宝宝喝奶香到翘jiojio",
+      "onboard_time": 1696634429,
+      "rank": 35,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 117304,
+      "num": 251834,
+      "word": "追星者为女友送上一亿光年外的浪漫",
       "onboard_time": 1696633586,
-      "rank": 32,
-      "category": "体育"
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116142,
+      "num": 116142,
+      "word": "交警对昏迷游客大喊不要睡",
+      "onboard_time": 1696634129,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116014,
+      "num": 116014,
+      "word": "出警归来女儿一头扎进怀里",
+      "onboard_time": 1696635088,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115501,
@@ -475,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 107437,
-      "num": 107437,
-      "word": "男篮队长赵继伟赛后婉拒采访",
-      "onboard_time": 1696629557,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 106051,
+      "num": 106051,
+      "word": "网友拍火箭发射调转镜头后被狠狠震撼",
+      "onboard_time": 1696635028,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105734,
@@ -489,6 +545,14 @@
       "onboard_time": 1696592739,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105677,
+      "num": 724471,
+      "word": "9招找回节后好状态",
+      "onboard_time": 1696598565,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 104958,
@@ -515,28 +579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 77510,
-      "num": 635374,
-      "word": "9招找回节后好状态",
-      "onboard_time": 1696598565,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 74851,
       "num": 74851,
       "word": "他从火光中走来结局",
       "onboard_time": 1696593696,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73335,
-      "num": 219364,
-      "word": "追星者为女友送上一亿光年外的浪漫",
-      "onboard_time": 1696633586,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 68439,
@@ -553,14 +601,6 @@
       "onboard_time": 1696588000,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 65898,
-      "num": 65898,
-      "word": "交警对昏迷游客大喊不要睡",
-      "onboard_time": 1696634129,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 62559,
