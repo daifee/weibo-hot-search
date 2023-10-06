@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696548842760,
+  "endTime": 1696554732256,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -17,6 +17,30 @@
       "onboard_time": 1696522413,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1834681,
+      "num": 1834681,
+      "word": "周润发回应裸捐56亿港币",
+      "onboard_time": 1696549586,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1357801,
+      "num": 335957,
+      "word": "金世佳被孩子求抱后续",
+      "onboard_time": 1696548383,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1264253,
+      "num": 1264253,
+      "word": "上海4岁女童海滩走失已超24小时",
+      "onboard_time": 1696548863,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1242296,
@@ -43,12 +67,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012046,
+      "num": 1012046,
+      "word": "黄景瑜不拍古装的原因",
+      "onboard_time": 1696548262,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 875262,
       "num": 875262,
       "word": "因为是INTJ而被HR告知没被录取",
       "onboard_time": 1696520133,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 835342,
+      "num": 337213,
+      "word": "女子做职业伴娘国庆8天8场婚礼",
+      "onboard_time": 1696551090,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 804122,
@@ -75,6 +115,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 705111,
+      "num": 334316,
+      "word": "网友在冰岛偶遇迪丽热巴",
+      "onboard_time": 1696550548,
+      "rank": 11,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 654707,
       "num": 654707,
       "word": "苏炳添称无法和谢震业做比较",
@@ -91,12 +139,44 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 628016,
+      "num": 215024,
+      "word": "孟非参观祖屋要看房产证",
+      "onboard_time": 1696553672,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 569027,
       "num": 130401,
       "word": "女子曝光丈夫和幼儿园园长开房",
       "onboard_time": 1696505373,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 524669,
+      "num": 328678,
+      "word": "不经意看到妈妈的内衣扣感觉很心酸",
+      "onboard_time": 1696553612,
+      "rank": 16,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 513572,
+      "num": 326959,
+      "word": "韩国人真的别执着比心了",
+      "onboard_time": 1696549164,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 505892,
+      "num": 505892,
+      "word": "瑞幸要和猫和老鼠联名了吗",
+      "onboard_time": 1696549406,
+      "rank": 5,
+      "category": "美食"
     },
     {
       "raw_hot": 481036,
@@ -107,12 +187,52 @@
       "category": "演出"
     },
     {
+      "raw_hot": 461751,
+      "num": 323303,
+      "word": "她从19岁开始陪到他75岁了",
+      "onboard_time": 1696550668,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 414073,
+      "num": 414073,
+      "word": "游客挖走张掖七彩丹霞景区土壤",
+      "onboard_time": 1696548202,
+      "rank": 16,
+      "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 382509,
+      "num": 214007,
+      "word": "迷笛音乐节组委会称不希望地域攻击",
+      "onboard_time": 1696554034,
+      "rank": 31,
+      "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 368120,
+      "num": 290323,
+      "word": "全红婵有多尊重女记者",
+      "onboard_time": 1696549103,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359783,
       "num": 359783,
       "word": "一人独享渣男赛道",
       "onboard_time": 1696521634,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 350638,
+      "num": 325502,
+      "word": "广西百色一直升机坠毁致1死3伤",
+      "onboard_time": 1696552951,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331784,
@@ -129,6 +249,14 @@
       "onboard_time": 1696526423,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 324873,
+      "num": 324873,
+      "word": "gidle英文首专",
+      "onboard_time": 1696553432,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 324682,
@@ -161,6 +289,22 @@
       "onboard_time": 1696508194,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 307791,
+      "num": 307791,
+      "word": "叙利亚一军校遭无人机袭击",
+      "onboard_time": 1696550668,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 293744,
+      "num": 293744,
+      "word": "可以夹在胸前防止驼背的玩偶",
+      "onboard_time": 1696551390,
+      "rank": 22,
+      "category": "其它"
     },
     {
       "raw_hot": 292660,
@@ -211,6 +355,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 278030,
+      "num": 278030,
+      "word": "虞书欣永夜星河婚服路透",
+      "onboard_time": 1696549224,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 277086,
+      "num": 277086,
+      "word": "王一博看秀看中相机包",
+      "onboard_time": 1696550729,
+      "rank": 25,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 275103,
+      "num": 331971,
+      "word": "这枚奥运铜牌含金量足够大",
+      "onboard_time": 1696549224,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270400,
       "num": 270400,
       "word": "李梦好猛",
@@ -219,12 +387,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 266345,
-      "num": 157798,
-      "word": "黄景瑜不拍古装的原因",
-      "onboard_time": 1696548262,
-      "rank": 11,
-      "category": "作品衍生"
+      "raw_hot": 269763,
+      "num": 269763,
+      "word": "薛之谦把伴舞假发薅掉了",
+      "onboard_time": 1696549706,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 262816,
@@ -244,7 +412,7 @@
     },
     {
       "raw_hot": 257883,
-      "num": 157027,
+      "num": 162480,
       "word": "迪丽热巴开衩裙变装",
       "onboard_time": 1696547241,
       "rank": 11,
@@ -291,16 +459,32 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215583,
-      "num": 154895,
-      "word": "金世佳被孩子求抱后续",
-      "onboard_time": 1696548383,
-      "rank": 13,
-      "category": "艺人"
+      "raw_hot": 227709,
+      "num": 227709,
+      "word": "午睡的时间不能太久了",
+      "onboard_time": 1696549406,
+      "rank": 28,
+      "category": "知识科普,情感"
     },
     {
-      "raw_hot": 200748,
-      "num": 81129,
+      "raw_hot": 216782,
+      "num": 216782,
+      "word": "曾舜晞掉小珍珠了",
+      "onboard_time": 1696551209,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211266,
+      "num": 211266,
+      "word": "中短发的神再添一名猛将",
+      "onboard_time": 1696552412,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211156,
+      "num": 330647,
       "word": "中国女篮站上冠军领奖台",
       "onboard_time": 1696548683,
       "rank": 30,
@@ -321,6 +505,14 @@
       "onboard_time": 1696523431,
       "rank": 30,
       "category": "游戏,综艺"
+    },
+    {
+      "raw_hot": 195753,
+      "num": 195753,
+      "word": "五条悟的诞生",
+      "onboard_time": 1696551090,
+      "rank": 33,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 190266,
@@ -353,6 +545,22 @@
       "onboard_time": 1696520256,
       "rank": 29,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 180995,
+      "num": 180995,
+      "word": "民警帮老人找回4800元后老人要给出警费",
+      "onboard_time": 1696551752,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179931,
+      "num": 179931,
+      "word": "服装店的镜子可以有多离谱",
+      "onboard_time": 1696549103,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 177978,
@@ -403,6 +611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160986,
+      "num": 160986,
+      "word": "南阳通报称批评是最大的爱",
+      "onboard_time": 1696548924,
+      "rank": 40,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 159270,
       "num": 159270,
       "word": "曾舜晞说趁着年轻多拍拍",
@@ -427,12 +643,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144041,
-      "num": 144041,
-      "word": "游客挖走张掖七彩丹霞景区土壤",
-      "onboard_time": 1696548202,
-      "rank": 16,
-      "category": "旅游,社会新闻"
+      "raw_hot": 143202,
+      "num": 143202,
+      "word": "现在的厕所名有多文雅",
+      "onboard_time": 1696551630,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142380,
+      "num": 142380,
+      "word": "第一次见这样分柚子的",
+      "onboard_time": 1696552889,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 139103,
@@ -443,12 +667,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136879,
+      "num": 136879,
+      "word": "高铁是贡献巨大的",
+      "onboard_time": 1696550187,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135768,
+      "num": 135768,
+      "word": "卫明用一集证明自己是个笑话",
+      "onboard_time": 1696552351,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132579,
+      "num": 132579,
+      "word": "黄轩 从2G到5G只需要一趟莫斯科行动",
+      "onboard_time": 1696552231,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 130998,
       "num": 130998,
       "word": "中国女篮vs日本女篮",
       "onboard_time": 1696503877,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130263,
+      "num": 130263,
+      "word": "才知道百香果还有甜的",
+      "onboard_time": 1696549103,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 129520,
@@ -555,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76333,
+      "num": 1099547,
+      "word": "被亚运会的氛围可爱到了",
+      "onboard_time": 1696511138,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 71492,
       "num": 71492,
       "word": "我在利物浦偶遇了洋幂",
@@ -585,14 +849,6 @@
       "onboard_time": 1696527981,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 68278,
-      "num": 944341,
-      "word": "被亚运会的氛围可爱到了",
-      "onboard_time": 1696511138,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64429,
