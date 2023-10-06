@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696587519454,
+  "endTime": 1696588521947,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -387,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2347720,
+      "num": 2347720,
+      "word": "金价连续下跌",
+      "onboard_time": 1696585172,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2344177,
       "num": 628917,
       "word": "西安外国语大学",
@@ -457,14 +465,6 @@
       "onboard_time": 1696495113,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2245290,
-      "num": 2245290,
-      "word": "金价连续下跌",
-      "onboard_time": 1696585172,
-      "rank": 1,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2172583,
@@ -1483,6 +1483,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1227213,
+      "num": 1227213,
+      "word": "贝嫂 我家也是工薪阶层",
+      "onboard_time": 1696586558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1222540,
       "num": 1222540,
       "word": "张镇麟投篮选择",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1696243714,
       "rank": 23,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 1135453,
+      "num": 1135453,
+      "word": "上海失踪4岁女童母亲发声",
+      "onboard_time": 1696583733,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1134478,
@@ -1952,14 +1968,6 @@
       "word": "网约车司机3个月已经道歉了1800次",
       "onboard_time": 1696303293,
       "rank": 31,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 984622,
-      "num": 984622,
-      "word": "上海失踪4岁女童母亲发声",
-      "onboard_time": 1696583733,
-      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -3011,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 716453,
+      "num": 716453,
+      "word": "陈梦",
+      "onboard_time": 1696586197,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 716333,
       "num": 512062,
       "word": "王楚钦说自己世界第一下榜太快",
@@ -3243,14 +3259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 683597,
-      "num": 683597,
-      "word": "陈梦",
-      "onboard_time": 1696586197,
-      "rank": 10,
-      "category": "体育"
-    },
-    {
       "raw_hot": 683506,
       "num": 683506,
       "word": "樊振东王楚钦vs张禹珍林钟勋",
@@ -3289,6 +3297,14 @@
       "onboard_time": 1696510478,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 677207,
+      "num": 677207,
+      "word": "Super Shy",
+      "onboard_time": 1696588000,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 676661,
@@ -3465,14 +3481,6 @@
       "onboard_time": 1696203325,
       "rank": 5,
       "category": "美食"
-    },
-    {
-      "raw_hot": 646793,
-      "num": 646793,
-      "word": "贝嫂 我家也是工薪阶层",
-      "onboard_time": 1696586558,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 646754,
@@ -4755,6 +4763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 488504,
+      "num": 238758,
+      "word": "避免社交我在高铁上假装韩国人",
+      "onboard_time": 1696586617,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 488176,
       "num": 488176,
       "word": "夜色尚浅",
@@ -5763,7 +5779,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 401377,
+      "raw_hot": 402914,
       "num": 1465610,
       "word": "外国运动员体验亚运五件套",
       "onboard_time": 1696586797,
@@ -6035,6 +6051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386046,
+      "num": 386046,
+      "word": "追星爽文",
+      "onboard_time": 1696588360,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385465,
       "num": 385465,
       "word": "婚车偶遇2位新娘探出车窗互送喜糖",
@@ -6273,6 +6297,14 @@
       "onboard_time": 1696381354,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368855,
+      "num": 368855,
+      "word": "五月天广州",
+      "onboard_time": 1696587939,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 368551,
@@ -8203,14 +8235,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 287394,
-      "num": 231158,
-      "word": "避免社交我在高铁上假装韩国人",
-      "onboard_time": 1696586617,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 287249,
       "num": 287249,
       "word": "宋亚轩王牌对王牌多巴胺套装",
@@ -8963,6 +8987,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264642,
+      "num": 264642,
+      "word": "搜寻人员回应4岁半女童海滩失踪",
+      "onboard_time": 1696584156,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264527,
       "num": 264527,
       "word": "肖俊和YANGYANG的Challenge",
@@ -9673,6 +9705,14 @@
       "onboard_time": 1696487615,
       "rank": 27,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 244715,
+      "num": 244715,
+      "word": "王哲林",
+      "onboard_time": 1696312531,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 244287,
@@ -10539,6 +10579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222543,
+      "num": 222543,
+      "word": "周雨彤明艳风",
+      "onboard_time": 1696587517,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "雷佳音和刘宪华让我的笑停不下来",
@@ -11048,22 +11096,6 @@
       "word": "梁伟铿王昶止步亚运16强",
       "onboard_time": 1696393656,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 209929,
-      "num": 209929,
-      "word": "搜寻人员回应4岁半女童海滩失踪",
-      "onboard_time": 1696584156,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209644,
-      "num": 209644,
-      "word": "王哲林",
-      "onboard_time": 1696312531,
-      "rank": 25,
       "category": "体育"
     },
     {
@@ -13081,6 +13113,14 @@
       "onboard_time": 1696476395,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173745,
+      "num": 173745,
+      "word": "头一次吃了有文化的亏",
+      "onboard_time": 1696588479,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 173732,
@@ -15971,6 +16011,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 47393,
+      "num": 202581,
+      "word": "麦迪说中国外卖OMG",
+      "onboard_time": 1696586440,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47212,
       "num": 1603547,
       "word": "畅游祖国山河",
@@ -16153,14 +16201,6 @@
       "onboard_time": 1696277474,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29064,
-      "num": 183886,
-      "word": "麦迪说中国外卖OMG",
-      "onboard_time": 1696586440,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 28987,

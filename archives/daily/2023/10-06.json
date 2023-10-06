@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696587519454,
+  "endTime": 1696588521947,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2347720,
+      "num": 2347720,
+      "word": "金价连续下跌",
+      "onboard_time": 1696585172,
+      "rank": 1,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 2344177,
       "num": 628917,
       "word": "西安外国语大学",
@@ -33,14 +41,6 @@
       "onboard_time": 1696522413,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2245290,
-      "num": 2245290,
-      "word": "金价连续下跌",
-      "onboard_time": 1696585172,
-      "rank": 1,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2172583,
@@ -163,6 +163,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1227213,
+      "num": 1227213,
+      "word": "贝嫂 我家也是工薪阶层",
+      "onboard_time": 1696586558,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1222003,
       "num": 1055459,
       "word": "提醒两种不要生吃的东西",
@@ -203,6 +211,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 1135453,
+      "num": 1135453,
+      "word": "上海失踪4岁女童母亲发声",
+      "onboard_time": 1696583733,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1077554,
       "num": 1077554,
       "word": "全红婵唯一的炸鱼方式",
@@ -241,14 +257,6 @@
       "onboard_time": 1696564115,
       "rank": 6,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 984622,
-      "num": 984622,
-      "word": "上海失踪4岁女童母亲发声",
-      "onboard_time": 1696583733,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 952951,
@@ -419,6 +427,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 716453,
+      "num": 716453,
+      "word": "陈梦",
+      "onboard_time": 1696586197,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 713477,
       "num": 468984,
       "word": "IVE先行曲OffTheRecord",
@@ -443,12 +459,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 683597,
-      "num": 683597,
-      "word": "陈梦",
-      "onboard_time": 1696586197,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 677207,
+      "num": 677207,
+      "word": "Super Shy",
+      "onboard_time": 1696588000,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 669683,
@@ -465,14 +481,6 @@
       "onboard_time": 1696521095,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 646793,
-      "num": 646793,
-      "word": "贝嫂 我家也是工薪阶层",
-      "onboard_time": 1696586558,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 646754,
@@ -643,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 488504,
+      "num": 238758,
+      "word": "避免社交我在高铁上假装韩国人",
+      "onboard_time": 1696586617,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 484580,
       "num": 400518,
       "word": "朋友把身份证塞进手机后盖",
@@ -755,7 +771,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 401377,
+      "raw_hot": 402914,
       "num": 1465610,
       "word": "外国运动员体验亚运五件套",
       "onboard_time": 1696586797,
@@ -793,6 +809,14 @@
       "onboard_time": 1696562255,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386046,
+      "num": 386046,
+      "word": "追星爽文",
+      "onboard_time": 1696588360,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 384752,
@@ -841,6 +865,14 @@
       "onboard_time": 1696583078,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 368855,
+      "num": 368855,
+      "word": "五月天广州",
+      "onboard_time": 1696587939,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 368120,
@@ -1123,14 +1155,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 287394,
-      "num": 231158,
-      "word": "避免社交我在高铁上假装韩国人",
-      "onboard_time": 1696586617,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 287249,
       "num": 287249,
       "word": "宋亚轩王牌对王牌多巴胺套装",
@@ -1259,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264642,
+      "num": 264642,
+      "word": "搜寻人员回应4岁半女童海滩失踪",
+      "onboard_time": 1696584156,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 264595,
       "num": 264595,
       "word": "石宇奇",
@@ -1345,6 +1377,14 @@
       "onboard_time": 1696572996,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244715,
+      "num": 244715,
+      "word": "王哲林",
+      "onboard_time": 1696587818,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 244164,
@@ -1475,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222543,
+      "num": 222543,
+      "word": "周雨彤明艳风",
+      "onboard_time": 1696587517,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 220201,
       "num": 220201,
       "word": "曾舜晞掉小珍珠了",
@@ -1529,14 +1577,6 @@
       "onboard_time": 1696548683,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 209929,
-      "num": 209929,
-      "word": "搜寻人员回应4岁半女童海滩失踪",
-      "onboard_time": 1696584156,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 208225,
@@ -1801,6 +1841,14 @@
       "onboard_time": 1696571075,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173745,
+      "num": 173745,
+      "word": "头一次吃了有文化的亏",
+      "onboard_time": 1696588479,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 173462,
@@ -2275,6 +2323,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 47393,
+      "num": 202581,
+      "word": "麦迪说中国外卖OMG",
+      "onboard_time": 1696586440,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 39735,
       "num": 39735,
       "word": "鞠萍姐姐 绝对最佳女主角",
@@ -2288,14 +2344,6 @@
       "word": "中国女篮亚运第七冠",
       "onboard_time": 1696536793,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 29064,
-      "num": 183886,
-      "word": "麦迪说中国外卖OMG",
-      "onboard_time": 1696586440,
-      "rank": 39,
       "category": "体育"
     }
   ],

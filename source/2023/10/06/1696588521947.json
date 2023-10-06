@@ -1,0 +1,410 @@
+{
+  "runTime": 1696588521947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8896405,
+        "num": 8896405,
+        "word": "上海警方通报4岁女童在海边走失",
+        "onboard_time": 1696582356,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2347720,
+        "num": 2347720,
+        "word": "金价连续下跌",
+        "onboard_time": 1696585172,
+        "rank": 1,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 154855,
+        "num": 1400105,
+        "word": "返程行李箱满载快乐与爱",
+        "onboard_time": 1696581574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296274,
+        "num": 1296256,
+        "word": "王楚钦孙颖莎出战混双",
+        "onboard_time": 1696583078,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402914,
+        "num": 1267844,
+        "word": "外国运动员体验亚运五件套",
+        "onboard_time": 1696586797,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1248276,
+        "num": 1248276,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172781,
+        "num": 1230129,
+        "word": "中国女足队员集体向水庆霞鞠躬",
+        "onboard_time": 1696584814,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1227213,
+        "num": 1227213,
+        "word": "贝嫂 我家也是工薪阶层",
+        "onboard_time": 1696586558,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1163608,
+        "num": 1163608,
+        "word": "中国男篮季军",
+        "onboard_time": 1696585719,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1135453,
+        "num": 1135453,
+        "word": "上海失踪4岁女童母亲发声",
+        "onboard_time": 1696583733,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 726038,
+        "num": 726038,
+        "word": "南阳女主持人含泪控诉",
+        "onboard_time": 1696579774,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716453,
+        "num": 716453,
+        "word": "陈梦",
+        "onboard_time": 1696586197,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 677207,
+        "num": 677207,
+        "word": "Super Shy",
+        "onboard_time": 1696588000,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 582543,
+        "num": 582543,
+        "word": "赵丽颖新自拍",
+        "onboard_time": 1696584514,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416241,
+        "num": 535961,
+        "word": "假期前7天7.54亿人次出游",
+        "onboard_time": 1696583915,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518265,
+        "num": 518265,
+        "word": "王栎鑫去了趟厕所天都变了",
+        "onboard_time": 1696574614,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391306,
+        "num": 391306,
+        "word": "日本流水面致892人中毒",
+        "onboard_time": 1696570113,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389707,
+        "num": 389707,
+        "word": "毛晓彤好甜一个妹妹",
+        "onboard_time": 1696584156,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386046,
+        "num": 386046,
+        "word": "追星爽文",
+        "onboard_time": 1696588360,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326251,
+        "num": 372642,
+        "word": "杨幂时装周隐藏造型",
+        "onboard_time": 1696586677,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 368855,
+        "num": 368855,
+        "word": "五月天广州",
+        "onboard_time": 1696587939,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352162,
+        "num": 352162,
+        "word": "两干部流出不雅视频被停职",
+        "onboard_time": 1696571793,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298307,
+        "num": 298307,
+        "word": "中国女足亚运会铜牌",
+        "onboard_time": 1696583615,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266492,
+        "num": 266492,
+        "word": "中国男篮vs中国台北男篮",
+        "onboard_time": 1696580974,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264642,
+        "num": 264642,
+        "word": "搜寻人员回应4岁半女童海滩失踪",
+        "onboard_time": 1696584156,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263851,
+        "num": 263851,
+        "word": "38岁女老师被骗400万仍想和骗子结婚",
+        "onboard_time": 1696575754,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258052,
+        "num": 258052,
+        "word": "12306回应乘客挤不上车被滞留站台",
+        "onboard_time": 1696580494,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249307,
+        "num": 249307,
+        "word": "李诗沣进决赛",
+        "onboard_time": 1696574974,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244715,
+        "num": 244715,
+        "word": "王哲林",
+        "onboard_time": 1696587818,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218817,
+        "num": 239520,
+        "word": "中国女足7比0胜乌兹别克斯坦队",
+        "onboard_time": 1696583433,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488504,
+        "num": 238758,
+        "word": "避免社交我在高铁上假装韩国人",
+        "onboard_time": 1696586617,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235239,
+        "num": 235239,
+        "word": "王牌对王牌",
+        "onboard_time": 1696574554,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227239,
+        "num": 227239,
+        "word": "经期不能做的6件事",
+        "onboard_time": 1696573773,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222543,
+        "num": 222543,
+        "word": "周雨彤明艳风",
+        "onboard_time": 1696587517,
+        "rank": 33,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 222111,
+        "num": 222111,
+        "word": "长相思演唱会要来了",
+        "onboard_time": 1696574374,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214523,
+        "num": 214523,
+        "word": "杨紫巴黎游记怼脸拍",
+        "onboard_time": 1696584333,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214170,
+        "num": 214170,
+        "word": "易烊千玺牛仔叠穿",
+        "onboard_time": 1696568314,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 210767,
+        "num": 210767,
+        "word": "陈凯歌说张颂文很羞涩",
+        "onboard_time": 1696586976,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202704,
+        "num": 202704,
+        "word": "张译的微博好严谨",
+        "onboard_time": 1696577974,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47393,
+        "num": 202581,
+        "word": "麦迪说中国外卖OMG",
+        "onboard_time": 1696586440,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202501,
+        "num": 202501,
+        "word": "追星的人下班后最幸福的事",
+        "onboard_time": 1696582294,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194279,
+        "num": 194279,
+        "word": "亚运冠军龙舟来自浙江小厂",
+        "onboard_time": 1696587398,
+        "rank": 41,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 185425,
+        "num": 185425,
+        "word": "假期前7天国内旅游收入6680.9亿",
+        "onboard_time": 1696583677,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173745,
+        "num": 173745,
+        "word": "头一次吃了有文化的亏",
+        "onboard_time": 1696588479,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171945,
+        "num": 171945,
+        "word": "Jennie新歌封面是武内直子画的",
+        "onboard_time": 1696563096,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171735,
+        "num": 171735,
+        "word": "田嘉瑞学院风穿搭",
+        "onboard_time": 1696587159,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168460,
+        "num": 168460,
+        "word": "孙俪邓超去了四年前去过的海边",
+        "onboard_time": 1696577854,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166186,
+        "num": 166186,
+        "word": "苏炳添竟然不是田径队第一翘臀",
+        "onboard_time": 1696572515,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163337,
+        "num": 163337,
+        "word": "IVE空降",
+        "onboard_time": 1696568974,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162885,
+        "num": 162885,
+        "word": "宋亚轩王牌对王牌多巴胺套装",
+        "onboard_time": 1696582654,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运感谢有你#"
+    }
+  }
+}
