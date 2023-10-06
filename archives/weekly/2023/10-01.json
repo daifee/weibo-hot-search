@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696595644252,
+  "endTime": 1696596616631,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 4810371,
+      "num": 4810371,
+      "word": "他从火光中走来 男主死了",
+      "onboard_time": 1696594058,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 4288747,
       "num": 4288747,
       "word": "孙颖莎女单夺金",
@@ -185,14 +193,6 @@
       "onboard_time": 1696328677,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 3021089,
-      "num": 3021089,
-      "word": "他从火光中走来 男主死了",
-      "onboard_time": 1696594058,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 3005934,
@@ -585,6 +585,14 @@
       "onboard_time": 1696335039,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 2057517,
+      "num": 2057517,
+      "word": "儿子说朋友挂了被父亲举报吸毒",
+      "onboard_time": 1696593457,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2034170,
@@ -1459,14 +1467,6 @@
       "category": "幽默,互联网"
     },
     {
-      "raw_hot": 1249417,
-      "num": 1249417,
-      "word": "儿子说朋友挂了被父亲举报吸毒",
-      "onboard_time": 1696593457,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1242296,
       "num": 1242296,
       "word": "李泽锋 轻舟已过万重山",
@@ -2203,6 +2203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 908721,
+      "num": 908721,
+      "word": "他从火光中走来结局",
+      "onboard_time": 1696593696,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 907988,
       "num": 907988,
       "word": "长月烬明",
@@ -2225,14 +2233,6 @@
       "onboard_time": 1696421976,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 899752,
-      "num": 899752,
-      "word": "他从火光中走来结局",
-      "onboard_time": 1696593696,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 898003,
@@ -3683,6 +3683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631435,
+      "num": 631435,
+      "word": "中国女排3比0泰国女排",
+      "onboard_time": 1696595499,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631359,
       "num": 631359,
       "word": "王思雨上篮",
@@ -3952,6 +3960,14 @@
       "word": "黄嘉仪怀孕",
       "onboard_time": 1696174179,
       "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 596151,
+      "num": 596151,
+      "word": "王丽坤戴面具32集终于摘掉了",
+      "onboard_time": 1696595858,
+      "rank": 10,
       "category": "剧集"
     },
     {
@@ -4979,6 +4995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 478262,
+      "num": 478262,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 478021,
       "num": 1067383,
       "word": "国庆天安门广场升旗仪式",
@@ -5091,12 +5115,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470844,
+      "num": 470844,
+      "word": "沈梦辰秒答迪丽热巴",
+      "onboard_time": 1696594418,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470711,
       "num": 394811,
       "word": "原来拔智齿磨的是骨头不是牙",
       "onboard_time": 1696120409,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 470634,
+      "num": 470634,
+      "word": "女童走失海滩曾有人被潮水卷走",
+      "onboard_time": 1696595559,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 470475,
@@ -5217,14 +5257,6 @@
       "onboard_time": 1696420115,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 461026,
-      "num": 461026,
-      "word": "沈梦辰秒答迪丽热巴",
-      "onboard_time": 1696594418,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 460660,
@@ -5569,14 +5601,6 @@
       "onboard_time": 1696204527,
       "rank": 11,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 433939,
-      "num": 433939,
-      "word": "日本海鲜滞销堆积成山",
-      "onboard_time": 1696592498,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433129,
@@ -6033,6 +6057,14 @@
       "onboard_time": 1696164825,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 393106,
+      "num": 393106,
+      "word": "测评博主吐槽王鹤棣潮牌",
+      "onboard_time": 1696595499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 392439,
@@ -7017,6 +7049,14 @@
       "onboard_time": 1696326815,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 343737,
+      "num": 343737,
+      "word": "中国女排晋级亚运决赛",
+      "onboard_time": 1696595619,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 343495,
@@ -8467,14 +8507,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 285648,
-      "num": 285648,
-      "word": "中国女排3比0泰国女排",
-      "onboard_time": 1696595499,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285617,
       "num": 285617,
       "word": "想念郭艾伦",
@@ -8793,6 +8825,14 @@
       "onboard_time": 1696374682,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 276862,
+      "num": 276862,
+      "word": "于正透露吴谨言受伤",
+      "onboard_time": 1696595140,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 276220,
@@ -9115,14 +9155,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 267268,
-      "num": 267268,
-      "word": "于正透露吴谨言受伤",
-      "onboard_time": 1696595140,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 266941,
       "num": 266941,
       "word": "一时不知黄嘉仪是敌是友",
@@ -9265,6 +9297,14 @@
       "onboard_time": 1696246536,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263241,
+      "num": 256316,
+      "word": "张颂文让魏大勋帮忙取话筒太会了",
+      "onboard_time": 1696595798,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 263112,
@@ -10411,6 +10451,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 231047,
+      "num": 231047,
+      "word": "主持人大赛",
+      "onboard_time": 1696595739,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230902,
       "num": 201661,
       "word": "橡皮筋突然成了主人的项链",
@@ -10809,14 +10857,6 @@
       "onboard_time": 1696213472,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 222786,
-      "num": 222786,
-      "word": "测评博主吐槽王鹤棣潮牌",
-      "onboard_time": 1696595499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 222658,
@@ -12451,6 +12491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192577,
+      "num": 192577,
+      "word": "亚运女排决赛中日争冠",
+      "onboard_time": 1696596219,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192572,
       "num": 185522,
       "word": "体操奥运冠军邓琳琳在宁波结婚",
@@ -12785,14 +12833,6 @@
       "onboard_time": 1696329575,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186190,
-      "num": 186190,
-      "word": "女童走失海滩曾有人被潮水卷走",
-      "onboard_time": 1696595559,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186128,
@@ -13755,14 +13795,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165615,
-      "num": 165615,
-      "word": "中国女排晋级亚运决赛",
-      "onboard_time": 1696595619,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165342,
       "num": 165342,
       "word": "黄子诚申请加入国安",
@@ -14217,6 +14249,14 @@
       "onboard_time": 1696585541,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155908,
+      "num": 155908,
+      "word": "石宇奇被BGM逗笑了",
+      "onboard_time": 1696596520,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 155685,
@@ -16371,6 +16411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 47041,
+      "num": 594297,
+      "word": "时装周印象最深秀场",
+      "onboard_time": 1696593638,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 47039,
       "num": 177965,
       "word": "中国女篮和中国台北女篮BGM相亲相爱一家人",
@@ -16481,14 +16529,6 @@
       "onboard_time": 1696428043,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35857,
-      "num": 594297,
-      "word": "时装周印象最深秀场",
-      "onboard_time": 1696593638,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34982,

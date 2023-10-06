@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696595644252,
+  "endTime": 1696596616631,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3021089,
-      "num": 3021089,
+      "raw_hot": 4810371,
+      "num": 4810371,
       "word": "他从火光中走来 男主死了",
       "onboard_time": 1696594058,
       "rank": 0,
@@ -73,6 +73,14 @@
       "onboard_time": 1696560033,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2057517,
+      "num": 2057517,
+      "word": "儿子说朋友挂了被父亲举报吸毒",
+      "onboard_time": 1696593457,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2015721,
@@ -169,14 +177,6 @@
       "onboard_time": 1696558890,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1249417,
-      "num": 1249417,
-      "word": "儿子说朋友挂了被父亲举报吸毒",
-      "onboard_time": 1696593457,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1242296,
@@ -339,8 +339,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 899752,
-      "num": 899752,
+      "raw_hot": 908721,
+      "num": 908721,
       "word": "他从火光中走来结局",
       "onboard_time": 1696593696,
       "rank": 8,
@@ -579,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 631435,
+      "num": 631435,
+      "word": "中国女排3比0泰国女排",
+      "onboard_time": 1696595499,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 628720,
       "num": 628720,
       "word": "加了新好友先看自己朋友圈",
@@ -641,6 +649,14 @@
       "onboard_time": 1696577675,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 596151,
+      "num": 596151,
+      "word": "王丽坤戴面具32集终于摘掉了",
+      "onboard_time": 1696595858,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 591858,
@@ -787,6 +803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 478262,
+      "num": 478262,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474727,
       "num": 602210,
       "word": "假期前7天7.54亿人次出游",
@@ -801,6 +825,22 @@
       "onboard_time": 1696593397,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 470844,
+      "num": 470844,
+      "word": "沈梦辰秒答迪丽热巴",
+      "onboard_time": 1696594418,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 470634,
+      "num": 470634,
+      "word": "女童走失海滩曾有人被潮水卷走",
+      "onboard_time": 1696595559,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469373,
@@ -825,14 +865,6 @@
       "onboard_time": 1696550668,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 461026,
-      "num": 461026,
-      "word": "沈梦辰秒答迪丽热巴",
-      "onboard_time": 1696594418,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 460323,
@@ -873,14 +905,6 @@
       "onboard_time": 1696584156,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 433939,
-      "num": 433939,
-      "word": "日本海鲜滞销堆积成山",
-      "onboard_time": 1696592498,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 430644,
@@ -929,6 +953,14 @@
       "onboard_time": 1696568681,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 393106,
+      "num": 393106,
+      "word": "测评博主吐槽王鹤棣潮牌",
+      "onboard_time": 1696595499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 392130,
@@ -1129,6 +1161,14 @@
       "onboard_time": 1696557632,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343737,
+      "num": 343737,
+      "word": "中国女排晋级亚运决赛",
+      "onboard_time": 1696595619,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 343307,
@@ -1363,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 285648,
-      "num": 285648,
-      "word": "中国女排3比0泰国女排",
-      "onboard_time": 1696595499,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 285121,
       "num": 285121,
       "word": "樊振东减肥演我",
@@ -1435,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276862,
+      "num": 276862,
+      "word": "于正透露吴谨言受伤",
+      "onboard_time": 1696595140,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275816,
       "num": 275816,
       "word": "刘同 精神容易崩溃的人有一个共同点",
@@ -1483,14 +1523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 267268,
-      "num": 267268,
-      "word": "于正透露吴谨言受伤",
-      "onboard_time": 1696595140,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 265415,
       "num": 265415,
       "word": "真的别再用学生思维上班",
@@ -1529,6 +1561,14 @@
       "onboard_time": 1696571314,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263241,
+      "num": 256316,
+      "word": "张颂文让魏大勋帮忙取话筒太会了",
+      "onboard_time": 1696595798,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 262816,
@@ -1715,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231047,
+      "num": 231047,
+      "word": "主持人大赛",
+      "onboard_time": 1696595739,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230804,
       "num": 230804,
       "word": "王诗玥柳鑫宇完美演绎不完美小孩",
@@ -1777,14 +1825,6 @@
       "onboard_time": 1696557031,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 222786,
-      "num": 222786,
-      "word": "测评博主吐槽王鹤棣潮牌",
-      "onboard_time": 1696595499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 221784,
@@ -2011,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192577,
+      "num": 192577,
+      "word": "亚运女排决赛中日争冠",
+      "onboard_time": 1696596219,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192300,
       "num": 192300,
       "word": "王楚钦也不能从理发店笑着出来",
@@ -2065,14 +2113,6 @@
       "onboard_time": 1696565734,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 186190,
-      "num": 186190,
-      "word": "女童走失海滩曾有人被潮水卷走",
-      "onboard_time": 1696595559,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 186128,
@@ -2243,14 +2283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165615,
-      "num": 165615,
-      "word": "中国女排晋级亚运决赛",
-      "onboard_time": 1696595619,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165342,
       "num": 165342,
       "word": "黄子诚申请加入国安",
@@ -2321,6 +2353,14 @@
       "onboard_time": 1696585541,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155908,
+      "num": 155908,
+      "word": "石宇奇被BGM逗笑了",
+      "onboard_time": 1696596520,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 151411,
@@ -2691,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47041,
+      "num": 594297,
+      "word": "时装周印象最深秀场",
+      "onboard_time": 1696593638,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 39735,
       "num": 39735,
       "word": "鞠萍姐姐 绝对最佳女主角",
@@ -2705,14 +2753,6 @@
       "onboard_time": 1696536793,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35857,
-      "num": 594297,
-      "word": "时装周印象最深秀场",
-      "onboard_time": 1696593638,
-      "rank": 14,
-      "category": "作品衍生,时尚"
     }
   ],
   "hotgov_list": [
