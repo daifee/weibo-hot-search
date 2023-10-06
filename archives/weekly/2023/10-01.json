@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696566857753,
+  "endTime": 1696569372558,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1003,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1533209,
+      "num": 1533209,
+      "word": "吴京探班 霍思燕泪洒 张艺谋震惊",
+      "onboard_time": 1696567417,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1525476,
       "num": 1525476,
       "word": "黄晓明因为被嘲笑英文去演了英语老师",
@@ -1201,6 +1209,14 @@
       "onboard_time": 1696156058,
       "rank": 10,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1368748,
+      "num": 1368748,
+      "word": "上海4岁女童海滩走失父亲发声",
+      "onboard_time": 1696562853,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1364125,
@@ -1419,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1222003,
+      "num": 1055459,
+      "word": "提醒两种不要生吃的东西",
+      "onboard_time": 1696562913,
+      "rank": 32,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 1216152,
       "num": 1216152,
       "word": "于文文在海底捞社死式唱何必",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1696299392,
       "rank": 31,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 1192543,
+      "num": 481920,
+      "word": "赵丽颖为陆毅关智斌打call",
+      "onboard_time": 1696567774,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1191107,
@@ -1521,6 +1553,14 @@
       "onboard_time": 1696342362,
       "rank": 12,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1159610,
+      "num": 1159610,
+      "word": "8天很短7天很长",
+      "onboard_time": 1696564594,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 1147775,
@@ -1657,14 +1697,6 @@
       "onboard_time": 1696161756,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1055459,
-      "num": 1055459,
-      "word": "提醒两种不要生吃的东西",
-      "onboard_time": 1696562913,
-      "rank": 32,
-      "category": "美食,知识科普"
     },
     {
       "raw_hot": 1052615,
@@ -1923,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965245,
+      "num": 479556,
+      "word": "IVE空降",
+      "onboard_time": 1696568974,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 963162,
       "num": 963162,
       "word": "樊振东说可惜但不至于遗憾",
@@ -2035,6 +2075,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 898003,
+      "num": 898003,
+      "word": "韩素希和车银优一起拍广告了",
+      "onboard_time": 1696566096,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 892958,
       "num": 892958,
       "word": "吸引全红婵只需要一个乌龟玩偶",
@@ -2115,14 +2163,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 883177,
-      "num": 883177,
-      "word": "上海4岁女童海滩走失父亲发声",
-      "onboard_time": 1696562853,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 883116,
       "num": 883116,
       "word": "泰国选手跳水炸鱼把自己逗笑了",
@@ -2201,6 +2241,14 @@
       "onboard_time": 1696326637,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 867077,
+      "num": 477108,
+      "word": "易烊千玺牛仔叠穿",
+      "onboard_time": 1696568314,
+      "rank": 13,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 864732,
@@ -2395,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 822249,
+      "num": 471224,
+      "word": "Jennie个人单曲音源上线",
+      "onboard_time": 1696567897,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 821088,
       "num": 821088,
       "word": "新疆婚宴",
@@ -2433,6 +2489,14 @@
       "onboard_time": 1696124972,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 802723,
+      "num": 802723,
+      "word": "竹马天降都是你开机",
+      "onboard_time": 1696568194,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 801317,
@@ -2835,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 713477,
+      "num": 468984,
+      "word": "IVE先行曲OffTheRecord",
+      "onboard_time": 1696567715,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 712972,
       "num": 712972,
       "word": "柯洁战胜申旻埈",
@@ -3033,14 +3105,6 @@
       "onboard_time": 1696337680,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 684789,
-      "num": 684789,
-      "word": "8天很短7天很长",
-      "onboard_time": 1696564594,
-      "rank": 9,
-      "category": "情感"
     },
     {
       "raw_hot": 684270,
@@ -4705,6 +4769,14 @@
       "onboard_time": 1696168730,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 469373,
+      "num": 428681,
+      "word": "胡兵给蔡国庆王栎鑫一人一个7层大蛋糕",
+      "onboard_time": 1696567715,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 469060,
@@ -6379,6 +6451,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 344279,
+      "num": 291576,
+      "word": "大结局卫明出现幻觉",
+      "onboard_time": 1696568681,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 344278,
       "num": 344278,
       "word": "王栎鑫老来俏",
@@ -6793,6 +6873,14 @@
       "onboard_time": 1696409615,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 321419,
+      "num": 321419,
+      "word": "眼睛一闭就养肝",
+      "onboard_time": 1696565853,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 321350,
@@ -8035,6 +8123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277791,
+      "num": 243113,
+      "word": "NCT127新歌MV延期",
+      "onboard_time": 1696566633,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 277675,
       "num": 277675,
       "word": "毛晓彤说这届同事太难带了",
@@ -8843,6 +8939,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 254343,
+      "num": 254343,
+      "word": "樊振东减肥演我",
+      "onboard_time": 1696567113,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253732,
       "num": 253732,
       "word": "家务优等生",
@@ -8881,6 +8985,14 @@
       "onboard_time": 1696162415,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 251642,
+      "num": 251642,
+      "word": "林雨薇第一次知道家里有这么多亲戚",
+      "onboard_time": 1696565853,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 250621,
@@ -9152,6 +9264,14 @@
       "word": "奥尼尔在球衣上签了科比的名字",
       "onboard_time": 1696089754,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 243181,
+      "num": 243181,
+      "word": "送全红婵小乌龟的人找到了",
+      "onboard_time": 1696565734,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -10603,6 +10723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205565,
+      "num": 202713,
+      "word": "披荆斩棘",
+      "onboard_time": 1696568614,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205381,
       "num": 205381,
       "word": "圆满",
@@ -10859,6 +10987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201435,
+      "num": 201435,
+      "word": "星穹铁道镜流",
+      "onboard_time": 1696568374,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201259,
       "num": 201259,
       "word": "杨紫支持中国棒球",
@@ -11016,14 +11152,6 @@
       "word": "吴姝彤10公里马拉松游泳金牌",
       "onboard_time": 1696560874,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199090,
-      "num": 199090,
-      "word": "送全红婵小乌龟的人找到了",
-      "onboard_time": 1696565734,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -11265,14 +11393,6 @@
       "onboard_time": 1696168782,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 195170,
-      "num": 195170,
-      "word": "林雨薇第一次知道家里有这么多亲戚",
-      "onboard_time": 1696565853,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 194728,
@@ -11763,12 +11883,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 186173,
-      "num": 186173,
-      "word": "眼睛一闭就养肝",
-      "onboard_time": 1696565853,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 186041,
+      "num": 186041,
+      "word": "时装周最出圈明星前二十",
+      "onboard_time": 1696566336,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185957,
@@ -12227,12 +12347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175808,
+      "num": 175808,
+      "word": "河南官媒呼吁网友不要地域黑",
+      "onboard_time": 1696568974,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175770,
       "num": 175770,
       "word": "林双挖人",
       "onboard_time": 1696154011,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175582,
+      "num": 175582,
+      "word": "男孩掉进站台缝隙众人冲上前救起",
+      "onboard_time": 1696569036,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 175557,
@@ -13233,6 +13369,14 @@
       "onboard_time": 1696250616,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151130,
+      "num": 1458531,
+      "word": "他们是最好的队友也是最好的对手",
+      "onboard_time": 1696565493,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 151021,
@@ -15137,14 +15281,6 @@
       "onboard_time": 1696097359,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 40822,
-      "num": 1458531,
-      "word": "他们是最好的队友也是最好的对手",
-      "onboard_time": 1696565493,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 39735,

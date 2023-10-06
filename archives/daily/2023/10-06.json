@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696566857753,
+  "endTime": 1696569372558,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1533209,
+      "num": 1533209,
+      "word": "吴京探班 霍思燕泪洒 张艺谋震惊",
+      "onboard_time": 1696567417,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1411394,
       "num": 1411394,
       "word": "Jennie新歌封面是武内直子画的",
@@ -57,6 +65,14 @@
       "onboard_time": 1696558652,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1368748,
+      "num": 1368748,
+      "word": "上海4岁女童海滩走失父亲发声",
+      "onboard_time": 1696562853,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1357801,
@@ -91,6 +107,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1222003,
+      "num": 1055459,
+      "word": "提醒两种不要生吃的东西",
+      "onboard_time": 1696562913,
+      "rank": 32,
+      "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 1192543,
+      "num": 481920,
+      "word": "赵丽颖为陆毅关智斌打call",
+      "onboard_time": 1696567774,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1174472,
       "num": 458927,
       "word": "官方通报幼儿园园长与无业男子开房",
@@ -99,20 +131,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1159610,
+      "num": 1159610,
+      "word": "8天很短7天很长",
+      "onboard_time": 1696564594,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1077554,
       "num": 1077554,
       "word": "全红婵唯一的炸鱼方式",
       "onboard_time": 1696516539,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1055459,
-      "num": 1055459,
-      "word": "提醒两种不要生吃的东西",
-      "onboard_time": 1696562913,
-      "rank": 32,
-      "category": "美食,知识科普"
     },
     {
       "raw_hot": 1030977,
@@ -147,20 +179,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 965245,
+      "num": 479556,
+      "word": "IVE空降",
+      "onboard_time": 1696568974,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 898003,
+      "num": 898003,
+      "word": "韩素希和车银优一起拍广告了",
+      "onboard_time": 1696566096,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 892344,
       "num": 453997,
       "word": "网友在冰岛偶遇迪丽热巴",
       "onboard_time": 1696550548,
       "rank": 11,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 883177,
-      "num": 883177,
-      "word": "上海4岁女童海滩走失父亲发声",
-      "onboard_time": 1696562853,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 875262,
@@ -171,6 +211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 867077,
+      "num": 477108,
+      "word": "易烊千玺牛仔叠穿",
+      "onboard_time": 1696568314,
+      "rank": 13,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 835342,
       "num": 342105,
       "word": "女子做职业伴娘国庆8天8场婚礼",
@@ -179,12 +227,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 822249,
+      "num": 471224,
+      "word": "Jennie个人单曲音源上线",
+      "onboard_time": 1696567897,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 804122,
       "num": 804122,
       "word": "中国女篮冠军",
       "onboard_time": 1696513546,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 802723,
+      "num": 802723,
+      "word": "竹马天降都是你开机",
+      "onboard_time": 1696568194,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 787837,
@@ -235,19 +299,19 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 713477,
+      "num": 468984,
+      "word": "IVE先行曲OffTheRecord",
+      "onboard_time": 1696567715,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 699575,
       "num": 667401,
       "word": "不经意看到妈妈的内衣扣感觉很心酸",
       "onboard_time": 1696553612,
       "rank": 16,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 684789,
-      "num": 684789,
-      "word": "8天很短7天很长",
-      "onboard_time": 1696564594,
-      "rank": 9,
       "category": "情感"
     },
     {
@@ -387,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 469373,
+      "num": 428681,
+      "word": "胡兵给蔡国庆王栎鑫一人一个7层大蛋糕",
+      "onboard_time": 1696567715,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 461751,
       "num": 353090,
       "word": "她从19岁开始陪到他75岁了",
@@ -507,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 344279,
+      "num": 291576,
+      "word": "大结局卫明出现幻觉",
+      "onboard_time": 1696568681,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331784,
       "num": 331784,
       "word": "周也的美是遗传的",
@@ -545,6 +625,14 @@
       "onboard_time": 1696522534,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321419,
+      "num": 321419,
+      "word": "眼睛一闭就养肝",
+      "onboard_time": 1696565853,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 317350,
@@ -691,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277791,
+      "num": 243113,
+      "word": "NCT127新歌MV延期",
+      "onboard_time": 1696566633,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 277675,
       "num": 277675,
       "word": "毛晓彤说这届同事太难带了",
@@ -771,6 +867,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254343,
+      "num": 254343,
+      "word": "樊振东减肥演我",
+      "onboard_time": 1696567113,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 251642,
+      "num": 251642,
+      "word": "林雨薇第一次知道家里有这么多亲戚",
+      "onboard_time": 1696565853,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249298,
       "num": 238339,
       "word": "李梦沉浸式自拍女篮夺冠后状态",
@@ -785,6 +897,14 @@
       "onboard_time": 1696519177,
       "rank": 25,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 243181,
+      "num": 243181,
+      "word": "送全红婵小乌龟的人找到了",
+      "onboard_time": 1696565734,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 242311,
@@ -899,6 +1019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205565,
+      "num": 202713,
+      "word": "披荆斩棘",
+      "onboard_time": 1696568614,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203424,
       "num": 203424,
       "word": "如何在人群中快速找出全红婵",
@@ -915,19 +1043,19 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 201435,
+      "num": 201435,
+      "word": "星穹铁道镜流",
+      "onboard_time": 1696568374,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199273,
       "num": 199273,
       "word": "吴姝彤10公里马拉松游泳金牌",
       "onboard_time": 1696560874,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 199090,
-      "num": 199090,
-      "word": "送全红婵小乌龟的人找到了",
-      "onboard_time": 1696565734,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -953,14 +1081,6 @@
       "onboard_time": 1696551090,
       "rank": 33,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 195170,
-      "num": 195170,
-      "word": "林雨薇第一次知道家里有这么多亲戚",
-      "onboard_time": 1696565853,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 192656,
@@ -1011,12 +1131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186173,
-      "num": 186173,
-      "word": "眼睛一闭就养肝",
-      "onboard_time": 1696565853,
-      "rank": 49,
-      "category": "健康医疗"
+      "raw_hot": 186041,
+      "num": 186041,
+      "word": "时装周最出圈明星前二十",
+      "onboard_time": 1696566336,
+      "rank": 46,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 185264,
@@ -1049,6 +1169,22 @@
       "onboard_time": 1696514384,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175808,
+      "num": 175808,
+      "word": "河南官媒呼吁网友不要地域黑",
+      "onboard_time": 1696568974,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175582,
+      "num": 175582,
+      "word": "男孩掉进站台缝隙众人冲上前救起",
+      "onboard_time": 1696569036,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 169585,
@@ -1120,6 +1256,14 @@
       "word": "全红婵水花比我下饺子还小",
       "onboard_time": 1696517620,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151130,
+      "num": 1458531,
+      "word": "他们是最好的队友也是最好的对手",
+      "onboard_time": 1696565493,
+      "rank": 2,
       "category": "体育"
     },
     {
@@ -1385,14 +1529,6 @@
       "onboard_time": 1696548804,
       "rank": 47,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 40822,
-      "num": 1458531,
-      "word": "他们是最好的队友也是最好的对手",
-      "onboard_time": 1696565493,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 39735,

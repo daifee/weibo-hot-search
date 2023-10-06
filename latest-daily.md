@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/06 00:23:25 ~ 2023/10/06 12:34:17
+本榜单时间：2023/10/06 00:23:25 ~ 2023/10/06 13:16:12
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E6%8E%A2%E7%8F%AD%20%E9%9C%8D%E6%80%9D%E7%87%95%E6%B3%AA%E6%B4%92%20%E5%BC%A0%E8%89%BA%E8%B0%8B%E9%9C%87%E6%83%8A%23" target="weibo">
+吴京探班 霍思燕泪洒 张艺谋震惊（热度：1533209）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E6%98%AF%E6%AD%A6%E5%86%85%E7%9B%B4%E5%AD%90%E7%94%BB%E7%9A%84%23" target="weibo">
 Jennie新歌封面是武内直子画的（热度：1411394）
 </a>
@@ -53,6 +59,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%89%E6%89%8B%E5%90%A6%E8%AE%A4%E6%A8%A1%E4%BB%BF%E7%BE%9E%E8%BE%B1%E4%BD%95%E5%86%B0%E5%A8%87%23" target="weibo">
 韩国选手否认模仿羞辱何冰娇（热度：1398017）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
+上海4岁女童海滩走失父亲发声（热度：1368748）
 </a>
 </li>
 
@@ -81,20 +93,32 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E4%B8%A4%E7%A7%8D%E4%B8%8D%E8%A6%81%E7%94%9F%E5%90%83%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
+提醒两种不要生吃的东西（热度：1222003）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E4%B8%BA%E9%99%86%E6%AF%85%E5%85%B3%E6%99%BA%E6%96%8C%E6%89%93call%23" target="weibo">
+赵丽颖为陆毅关智斌打call（热度：1192543）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%9B%AD%E9%95%BF%E4%B8%8E%E6%97%A0%E4%B8%9A%E7%94%B7%E5%AD%90%E5%BC%80%E6%88%BF%23" target="weibo">
 官方通报幼儿园园长与无业男子开房（热度：1174472）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23" target="weibo">
-全红婵唯一的炸鱼方式（热度：1077554）
+<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD7%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
+8天很短7天很长（热度：1159610）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E4%B8%A4%E7%A7%8D%E4%B8%8D%E8%A6%81%E7%94%9F%E5%90%83%E7%9A%84%E4%B8%9C%E8%A5%BF%23" target="weibo">
-提醒两种不要生吃的东西（热度：1055459）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23" target="weibo">
+全红婵唯一的炸鱼方式（热度：1077554）
 </a>
 </li>
 
@@ -123,14 +147,20 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8%E5%86%B0%E5%B2%9B%E5%81%B6%E9%81%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
-网友在冰岛偶遇迪丽热巴（热度：892344）
+<a href="https://s.weibo.com/weibo?q=%23IVE%E7%A9%BA%E9%99%8D%23" target="weibo">
+IVE空降（热度：965245）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B74%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E7%88%B6%E4%BA%B2%E5%8F%91%E5%A3%B0%23" target="weibo">
-上海4岁女童海滩走失父亲发声（热度：883177）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E5%92%8C%E8%BD%A6%E9%93%B6%E4%BC%98%E4%B8%80%E8%B5%B7%E6%8B%8D%E5%B9%BF%E5%91%8A%E4%BA%86%23" target="weibo">
+韩素希和车银优一起拍广告了（热度：898003）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8%E5%86%B0%E5%B2%9B%E5%81%B6%E9%81%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
+网友在冰岛偶遇迪丽热巴（热度：892344）
 </a>
 </li>
 
@@ -141,14 +171,32 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%89%9B%E4%BB%94%E5%8F%A0%E7%A9%BF%23" target="weibo">
+易烊千玺牛仔叠穿（热度：867077）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%81%9A%E8%81%8C%E4%B8%9A%E4%BC%B4%E5%A8%98%E5%9B%BD%E5%BA%868%E5%A4%A98%E5%9C%BA%E5%A9%9A%E7%A4%BC%23" target="weibo">
 女子做职业伴娘国庆8天8场婚礼（热度：835342）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E4%B8%AA%E4%BA%BA%E5%8D%95%E6%9B%B2%E9%9F%B3%E6%BA%90%E4%B8%8A%E7%BA%BF%23" target="weibo">
+Jennie个人单曲音源上线（热度：822249）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%86%A0%E5%86%9B%23" target="weibo">
 中国女篮冠军（热度：804122）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%B9%E9%A9%AC%E5%A4%A9%E9%99%8D%E9%83%BD%E6%98%AF%E4%BD%A0%E5%BC%80%E6%9C%BA%23" target="weibo">
+竹马天降都是你开机（热度：802723）
 </a>
 </li>
 
@@ -189,14 +237,14 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%8F%E6%84%8F%E7%9C%8B%E5%88%B0%E5%A6%88%E5%A6%88%E7%9A%84%E5%86%85%E8%A1%A3%E6%89%A3%E6%84%9F%E8%A7%89%E5%BE%88%E5%BF%83%E9%85%B8%23" target="weibo">
-不经意看到妈妈的内衣扣感觉很心酸（热度：699575）
+<a href="https://s.weibo.com/weibo?q=%23IVE%E5%85%88%E8%A1%8C%E6%9B%B2OffTheRecord%23" target="weibo">
+IVE先行曲OffTheRecord（热度：713477）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD7%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
-8天很短7天很长（热度：684789）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%8F%E6%84%8F%E7%9C%8B%E5%88%B0%E5%A6%88%E5%A6%88%E7%9A%84%E5%86%85%E8%A1%A3%E6%89%A3%E6%84%9F%E8%A7%89%E5%BE%88%E5%BF%83%E9%85%B8%23" target="weibo">
+不经意看到妈妈的内衣扣感觉很心酸（热度：699575）
 </a>
 </li>
 
@@ -303,6 +351,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E7%BB%99%E8%94%A1%E5%9B%BD%E5%BA%86%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%B8%80%E4%BA%BA%E4%B8%80%E4%B8%AA7%E5%B1%82%E5%A4%A7%E8%9B%8B%E7%B3%95%23" target="weibo">
+胡兵给蔡国庆王栎鑫一人一个7层大蛋糕（热度：469373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E4%BB%8E19%E5%B2%81%E5%BC%80%E5%A7%8B%E9%99%AA%E5%88%B0%E4%BB%9675%E5%B2%81%E4%BA%86%23" target="weibo">
 她从19岁开始陪到他75岁了（热度：461751）
 </a>
@@ -393,6 +447,12 @@ gidle英文首专（热度：346304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BB%93%E5%B1%80%E5%8D%AB%E6%98%8E%E5%87%BA%E7%8E%B0%E5%B9%BB%E8%A7%89%23" target="weibo">
+大结局卫明出现幻觉（热度：344279）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E7%9A%84%E7%BE%8E%E6%98%AF%E9%81%97%E4%BC%A0%E7%9A%84%23" target="weibo">
 周也的美是遗传的（热度：331784）
 </a>
@@ -419,6 +479,12 @@ gidle英文首专（热度：346304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%9A%E8%BF%90%E5%8F%B2%E4%B8%8A%E9%A6%96%E6%9E%9A%E7%94%B7%E5%AD%90%E9%A9%AC%E6%8B%89%E6%9D%BE%E9%87%91%E7%89%8C%23" target="weibo">
 中国亚运史上首枚男子马拉松金牌（热度：322867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%9D%9B%E4%B8%80%E9%97%AD%E5%B0%B1%E5%85%BB%E8%82%9D%23" target="weibo">
+眼睛一闭就养肝（热度：321419）
 </a>
 </li>
 
@@ -531,6 +597,12 @@ gidle英文首专（热度：346304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23NCT127%E6%96%B0%E6%AD%8CMV%E5%BB%B6%E6%9C%9F%23" target="weibo">
+NCT127新歌MV延期（热度：277791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E6%99%93%E5%BD%A4%E8%AF%B4%E8%BF%99%E5%B1%8A%E5%90%8C%E4%BA%8B%E5%A4%AA%E9%9A%BE%E5%B8%A6%E4%BA%86%23" target="weibo">
 毛晓彤说这届同事太难带了（热度：277675）
 </a>
@@ -591,6 +663,18 @@ Jennie把一年四季穿身上（热度：262816）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%87%8F%E8%82%A5%E6%BC%94%E6%88%91%23" target="weibo">
+樊振东减肥演我（热度：254343）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9F%A5%E9%81%93%E5%AE%B6%E9%87%8C%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BA%B2%E6%88%9A%23" target="weibo">
+林雨薇第一次知道家里有这么多亲戚（热度：251642）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A2%A6%E6%B2%89%E6%B5%B8%E5%BC%8F%E8%87%AA%E6%8B%8D%E5%A5%B3%E7%AF%AE%E5%A4%BA%E5%86%A0%E5%90%8E%E7%8A%B6%E6%80%81%23" target="weibo">
 李梦沉浸式自拍女篮夺冠后状态（热度：249298）
 </a>
@@ -599,6 +683,12 @@ Jennie把一年四季穿身上（热度：262816）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%86%B3%E8%B5%9BDJ%E6%9C%89%E5%A4%9A%E7%88%B1%E5%BC%A0%E6%9D%B0%23" target="weibo">
 中国女篮决赛DJ有多爱张杰（热度：243883）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%81%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%9A%84%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
+送全红婵小乌龟的人找到了（热度：243181）
 </a>
 </li>
 
@@ -687,6 +777,12 @@ MINJI I love You 3000 cover（热度：241153）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%23" target="weibo">
+披荆斩棘（热度：205565）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E4%BD%95%E5%9C%A8%E4%BA%BA%E7%BE%A4%E4%B8%AD%E5%BF%AB%E9%80%9F%E6%89%BE%E5%87%BA%E5%85%A8%E7%BA%A2%E5%A9%B5%23" target="weibo">
 如何在人群中快速找出全红婵（热度：203424）
 </a>
@@ -699,14 +795,14 @@ MINJI I love You 3000 cover（热度：241153）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%A7%9D%E5%BD%A410%E5%85%AC%E9%87%8C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%B3%B3%E9%87%91%E7%89%8C%23" target="weibo">
-吴姝彤10公里马拉松游泳金牌（热度：199273）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E9%95%9C%E6%B5%81%23" target="weibo">
+星穹铁道镜流（热度：201435）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%81%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%B0%8F%E4%B9%8C%E9%BE%9F%E7%9A%84%E4%BA%BA%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
-送全红婵小乌龟的人找到了（热度：199090）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%A7%9D%E5%BD%A410%E5%85%AC%E9%87%8C%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%B3%B3%E9%87%91%E7%89%8C%23" target="weibo">
+吴姝彤10公里马拉松游泳金牌（热度：199273）
 </a>
 </li>
 
@@ -725,12 +821,6 @@ MINJI I love You 3000 cover（热度：241153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E6%9D%A1%E6%82%9F%E7%9A%84%E8%AF%9E%E7%94%9F%23" target="weibo">
 五条悟的诞生（热度：195753）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9F%A5%E9%81%93%E5%AE%B6%E9%87%8C%E6%9C%89%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BA%B2%E6%88%9A%23" target="weibo">
-林雨薇第一次知道家里有这么多亲戚（热度：195170）
 </a>
 </li>
 
@@ -771,8 +861,8 @@ MINJI I love You 3000 cover（热度：241153）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%BC%E7%9D%9B%E4%B8%80%E9%97%AD%E5%B0%B1%E5%85%BB%E8%82%9D%23" target="weibo">
-眼睛一闭就养肝（热度：186173）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E8%A3%85%E5%91%A8%E6%9C%80%E5%87%BA%E5%9C%88%E6%98%8E%E6%98%9F%E5%89%8D%E4%BA%8C%E5%8D%81%23" target="weibo">
+时装周最出圈明星前二十（热度：186041）
 </a>
 </li>
 
@@ -797,6 +887,18 @@ MINJI I love You 3000 cover（热度：241153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%80%9D%E9%9B%A8%E7%BB%9D%E6%9D%80%23" target="weibo">
 王思雨绝杀（热度：177978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E5%AE%98%E5%AA%92%E5%91%BC%E5%90%81%E7%BD%91%E5%8F%8B%E4%B8%8D%E8%A6%81%E5%9C%B0%E5%9F%9F%E9%BB%91%23" target="weibo">
+河南官媒呼吁网友不要地域黑（热度：175808）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%8E%89%E8%BF%9B%E7%AB%99%E5%8F%B0%E7%BC%9D%E9%9A%99%E4%BC%97%E4%BA%BA%E5%86%B2%E4%B8%8A%E5%89%8D%E6%95%91%E8%B5%B7%23" target="weibo">
+男孩掉进站台缝隙众人冲上前救起（热度：175582）
 </a>
 </li>
 
@@ -851,6 +953,12 @@ MINJI I love You 3000 cover（热度：241153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%B0%B4%E8%8A%B1%E6%AF%94%E6%88%91%E4%B8%8B%E9%A5%BA%E5%AD%90%E8%BF%98%E5%B0%8F%23" target="weibo">
 全红婵水花比我下饺子还小（热度：151411）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E9%98%9F%E5%8F%8B%E4%B9%9F%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AF%B9%E6%89%8B%23" target="weibo">
+他们是最好的队友也是最好的对手（热度：151130）
 </a>
 </li>
 
@@ -1049,12 +1157,6 @@ MINJI I love You 3000 cover（热度：241153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%BC%94%E5%81%87%E6%9C%9F%E5%90%83%E5%97%A8%E7%9A%84%E6%88%91%23" target="weibo">
 大熊猫演假期吃嗨的我（热度：55239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%AC%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E9%98%9F%E5%8F%8B%E4%B9%9F%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E5%AF%B9%E6%89%8B%23" target="weibo">
-他们是最好的队友也是最好的对手（热度：40822）
 </a>
 </li>
 

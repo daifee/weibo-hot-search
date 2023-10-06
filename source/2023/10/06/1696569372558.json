@@ -1,0 +1,410 @@
+{
+  "runTime": 1696569372558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1533209,
+        "num": 1533209,
+        "word": "吴京探班 霍思燕泪洒 张艺谋震惊",
+        "onboard_time": 1696567417,
+        "rank": 0,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1457161,
+        "num": 1457161,
+        "word": "陈飞宇首次回应弄丢妖猫传的猫",
+        "onboard_time": 1696560033,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151130,
+        "num": 1412722,
+        "word": "他们是最好的队友也是最好的对手",
+        "onboard_time": 1696565493,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1368748,
+        "num": 1368748,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1159610,
+        "num": 1159610,
+        "word": "8天很短7天很长",
+        "onboard_time": 1696564594,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 898003,
+        "num": 898003,
+        "word": "韩素希和车银优一起拍广告了",
+        "onboard_time": 1696566096,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 883398,
+        "num": 883398,
+        "word": "Jennie新歌封面是武内直子画的",
+        "onboard_time": 1696563096,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 814055,
+        "num": 814055,
+        "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+        "onboard_time": 1696560634,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 802723,
+        "num": 802723,
+        "word": "竹马天降都是你开机",
+        "onboard_time": 1696568194,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 485743,
+        "num": 485743,
+        "word": "全红婵背了一包玩偶离开杭州",
+        "onboard_time": 1696558773,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1222003,
+        "num": 484245,
+        "word": "提醒两种不要生吃的东西",
+        "onboard_time": 1696562913,
+        "rank": 10,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 1192543,
+        "num": 481920,
+        "word": "赵丽颖为陆毅关智斌打call",
+        "onboard_time": 1696567774,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 965245,
+        "num": 479556,
+        "word": "IVE空降",
+        "onboard_time": 1696568974,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 867077,
+        "num": 477108,
+        "word": "易烊千玺牛仔叠穿",
+        "onboard_time": 1696568314,
+        "rank": 13,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 257254,
+        "num": 475914,
+        "word": "迷笛音乐节组委会称不希望地域攻击",
+        "onboard_time": 1696554034,
+        "rank": 14,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 822249,
+        "num": 471224,
+        "word": "Jennie个人单曲音源上线",
+        "onboard_time": 1696567897,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 713477,
+        "num": 468984,
+        "word": "IVE先行曲OffTheRecord",
+        "onboard_time": 1696567715,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 546622,
+        "num": 466650,
+        "word": "外媒报道王一博巴黎时装周",
+        "onboard_time": 1696564115,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 466149,
+        "num": 466149,
+        "word": "江宁婆婆评南阳盗窃事件",
+        "onboard_time": 1696555954,
+        "rank": 18,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 456582,
+        "num": 456582,
+        "word": "上海4岁女童海滩走失已超24小时",
+        "onboard_time": 1696548863,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469373,
+        "num": 428681,
+        "word": "胡兵给蔡国庆王栎鑫一人一个7层大蛋糕",
+        "onboard_time": 1696567715,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394427,
+        "num": 394427,
+        "word": "韩国选手否认模仿羞辱何冰娇",
+        "onboard_time": 1696558652,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321419,
+        "num": 321419,
+        "word": "眼睛一闭就养肝",
+        "onboard_time": 1696565853,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 320230,
+        "num": 320230,
+        "word": "朋友把身份证塞进手机后盖",
+        "onboard_time": 1696562495,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295365,
+        "num": 295365,
+        "word": "何冰娇无缘决赛",
+        "onboard_time": 1696563936,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 436080,
+        "num": 293818,
+        "word": "周杰伦 一生中最爱",
+        "onboard_time": 1696558353,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 344279,
+        "num": 291576,
+        "word": "大结局卫明出现幻觉",
+        "onboard_time": 1696568681,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 312658,
+        "num": 288342,
+        "word": "网友在冰岛偶遇迪丽热巴",
+        "onboard_time": 1696550548,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310411,
+        "num": 287531,
+        "word": "六代的帅男人悄悄出现了",
+        "onboard_time": 1696555171,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285786,
+        "num": 285786,
+        "word": "不经意看到妈妈的内衣扣感觉很心酸",
+        "onboard_time": 1696553612,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286467,
+        "num": 285152,
+        "word": "披荆斩棘3四公真人秀海报",
+        "onboard_time": 1696561413,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283752,
+        "num": 283752,
+        "word": "金世佳被孩子求抱后续",
+        "onboard_time": 1696548383,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254343,
+        "num": 254343,
+        "word": "樊振东减肥演我",
+        "onboard_time": 1696567113,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251642,
+        "num": 251642,
+        "word": "林雨薇第一次知道家里有这么多亲戚",
+        "onboard_time": 1696565853,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243181,
+        "num": 243181,
+        "word": "送全红婵小乌龟的人找到了",
+        "onboard_time": 1696565734,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277791,
+        "num": 243113,
+        "word": "NCT127新歌MV延期",
+        "onboard_time": 1696566633,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235559,
+        "num": 235559,
+        "word": "宋轶加盟哎呀好身材5",
+        "onboard_time": 1696564714,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234053,
+        "num": 234053,
+        "word": "丫丫一把薅掉蓝球只吃笋笋",
+        "onboard_time": 1696564476,
+        "rank": 37,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 213999,
+        "num": 213999,
+        "word": "王楚钦说孙颖莎是天才",
+        "onboard_time": 1696559134,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205404,
+        "num": 205404,
+        "word": "中国女子龙舟1000米金牌",
+        "onboard_time": 1696565195,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230930,
+        "num": 204945,
+        "word": "周润发回应裸捐56亿港币",
+        "onboard_time": 1696549586,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207613,
+        "num": 203563,
+        "word": "孟非参观祖屋要看房产证",
+        "onboard_time": 1696553672,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205565,
+        "num": 202713,
+        "word": "披荆斩棘",
+        "onboard_time": 1696568614,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201435,
+        "num": 201435,
+        "word": "星穹铁道镜流",
+        "onboard_time": 1696568374,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188398,
+        "num": 188398,
+        "word": "孙颖莎终极目标是巴黎奥运会",
+        "onboard_time": 1696560393,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187474,
+        "num": 187474,
+        "word": "黄景瑜不拍古装的原因",
+        "onboard_time": 1696548262,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186041,
+        "num": 186041,
+        "word": "时装周最出圈明星前二十",
+        "onboard_time": 1696566336,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179363,
+        "num": 179363,
+        "word": "她从19岁开始陪到他75岁了",
+        "onboard_time": 1696550668,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 175808,
+        "num": 175808,
+        "word": "河南官媒呼吁网友不要地域黑",
+        "onboard_time": 1696568974,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175582,
+        "num": 175582,
+        "word": "男孩掉进站台缝隙众人冲上前救起",
+        "onboard_time": 1696569036,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#铆足干劲勇毅前行#"
+    }
+  }
+}
