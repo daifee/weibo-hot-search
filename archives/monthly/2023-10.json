@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696592044567,
+  "endTime": 1696595644252,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -185,6 +185,14 @@
       "onboard_time": 1696328677,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3021089,
+      "num": 3021089,
+      "word": "他从火光中走来 男主死了",
+      "onboard_time": 1696594058,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 3005934,
@@ -1115,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1488700,
+      "num": 1246631,
+      "word": "上海失踪4岁女童母亲发声",
+      "onboard_time": 1696583733,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1483564,
       "num": 1483564,
       "word": "林雨薇赛后谈吴艳妮抢跑",
@@ -1443,11 +1459,11 @@
       "category": "幽默,互联网"
     },
     {
-      "raw_hot": 1246631,
-      "num": 1246631,
-      "word": "上海失踪4岁女童母亲发声",
-      "onboard_time": 1696583733,
-      "rank": 25,
+      "raw_hot": 1249417,
+      "num": 1249417,
+      "word": "儿子说朋友挂了被父亲举报吸毒",
+      "onboard_time": 1696593457,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2003,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 981598,
+      "num": 981598,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1696591720,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 980967,
       "num": 980967,
       "word": "这是黄晓明还是黄小夫",
@@ -2201,6 +2225,14 @@
       "onboard_time": 1696421976,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 899752,
+      "num": 899752,
+      "word": "他从火光中走来结局",
+      "onboard_time": 1696593696,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 898003,
@@ -3219,6 +3251,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 700524,
+      "num": 700524,
+      "word": "王艺迪0比3木原美悠",
+      "onboard_time": 1696593519,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 699575,
       "num": 667401,
       "word": "不经意看到妈妈的内衣扣感觉很心酸",
@@ -3955,6 +3995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 591858,
+      "num": 591858,
+      "word": "王楚钦孙颖莎2比3林诗栋蒯曼",
+      "onboard_time": 1696592316,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 591428,
       "num": 591428,
       "word": "语擦",
@@ -4001,6 +4049,14 @@
       "onboard_time": 1696496854,
       "rank": 9,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 585152,
+      "num": 585152,
+      "word": "刘亦菲和熊",
+      "onboard_time": 1696592018,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 585073,
@@ -4860,7 +4916,7 @@
     },
     {
       "raw_hot": 483339,
-      "num": 531492,
+      "num": 638819,
       "word": "泰国14岁枪手被转往精神病院",
       "onboard_time": 1696588658,
       "rank": 16,
@@ -5027,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 471027,
+      "num": 471027,
+      "word": "大张伟台湾腔太好笑了",
+      "onboard_time": 1696593397,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 470711,
       "num": 394811,
       "word": "原来拔智齿磨的是骨头不是牙",
@@ -5153,6 +5217,14 @@
       "onboard_time": 1696420115,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 461026,
+      "num": 461026,
+      "word": "沈梦辰秒答迪丽热巴",
+      "onboard_time": 1696594418,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 460660,
@@ -5499,6 +5571,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 433939,
+      "num": 433939,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 433129,
       "num": 303362,
       "word": "吴京谢楠儿子是王楚钦迷弟",
@@ -5809,14 +5889,6 @@
       "onboard_time": 1696322733,
       "rank": 20,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 405369,
-      "num": 405369,
-      "word": "中国女排vs泰国女排",
-      "onboard_time": 1696591720,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 404054,
@@ -6641,6 +6713,14 @@
       "onboard_time": 1696165959,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 357502,
+      "num": 650845,
+      "word": "旅客价值8万多财物被盗警方8小时破案",
+      "onboard_time": 1696594359,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357400,
@@ -7539,6 +7619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 313426,
+      "num": 313426,
+      "word": "陈雨菲逆转进决赛",
+      "onboard_time": 1696593696,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313399,
       "num": 313399,
       "word": "钱塘江大潮撞拍护栏冲倒多名游客",
@@ -7577,6 +7665,14 @@
       "onboard_time": 1696251701,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310327,
+      "num": 310327,
+      "word": "他从火光中走来",
+      "onboard_time": 1696505256,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 309776,
@@ -7987,14 +8083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 296826,
-      "num": 296826,
-      "word": "他从火光中走来",
-      "onboard_time": 1696505256,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 296084,
       "num": 296084,
       "word": "黄子弘凡音乐节",
@@ -8377,6 +8465,14 @@
       "onboard_time": 1696256259,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285648,
+      "num": 285648,
+      "word": "中国女排3比0泰国女排",
+      "onboard_time": 1696595499,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 285617,
@@ -9019,6 +9115,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 267268,
+      "num": 267268,
+      "word": "于正透露吴谨言受伤",
+      "onboard_time": 1696595140,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266941,
       "num": 266941,
       "word": "一时不知黄嘉仪是敌是友",
@@ -9313,6 +9417,14 @@
       "onboard_time": 1696525527,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 259543,
+      "num": 259543,
+      "word": "五条人被乐夏淘汰三次复活三次",
+      "onboard_time": 1696592739,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 259282,
@@ -9705,6 +9817,14 @@
       "onboard_time": 1696129953,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 246833,
+      "num": 246833,
+      "word": "林高远3比1波尔",
+      "onboard_time": 1696593218,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 246767,
@@ -10691,6 +10811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222786,
+      "num": 222786,
+      "word": "测评博主吐槽王鹤棣潮牌",
+      "onboard_time": 1696595499,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222658,
       "num": 222658,
       "word": "律政杨天真",
@@ -11395,20 +11523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206371,
-      "num": 206371,
-      "word": "刘亦菲和熊",
-      "onboard_time": 1696592018,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 206038,
       "num": 180705,
       "word": "于文文 再见前任画一个句号",
       "onboard_time": 1696381232,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206029,
+      "num": 206029,
+      "word": "文韬何运晨石凯一种游戏玩出三种效果",
+      "onboard_time": 1696593938,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 205953,
@@ -12171,6 +12299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194501,
+      "num": 194501,
+      "word": "林俊杰重拾快乐",
+      "onboard_time": 1696594178,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194459,
       "num": 194459,
       "word": "孟云问柳柳人为什么要结婚",
@@ -12648,6 +12784,22 @@
       "word": "中国女篮亚运会五连胜",
       "onboard_time": 1696329575,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186190,
+      "num": 186190,
+      "word": "女童走失海滩曾有人被潮水卷走",
+      "onboard_time": 1696595559,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186128,
+      "num": 186128,
+      "word": "全红婵的背包想认错都难",
+      "onboard_time": 1696593099,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -13419,6 +13571,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170068,
+      "num": 170068,
+      "word": "活是一点没干还得奶奶哄半天",
+      "onboard_time": 1696592196,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169999,
       "num": 169999,
       "word": "国乒提前锁定男单冠亚军",
@@ -13593,6 +13753,14 @@
       "onboard_time": 1696456095,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165615,
+      "num": 165615,
+      "word": "中国女排晋级亚运决赛",
+      "onboard_time": 1696595619,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 165342,
@@ -16313,6 +16481,14 @@
       "onboard_time": 1696428043,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35857,
+      "num": 594297,
+      "word": "时装周印象最深秀场",
+      "onboard_time": 1696593638,
+      "rank": 14,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34982,
