@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696562250325,
+  "endTime": 1696563255559,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -19,8 +19,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2044761,
-      "num": 2044761,
+      "raw_hot": 2085589,
+      "num": 2085589,
       "word": "陈飞宇首次回应弄丢妖猫传的猫",
       "onboard_time": 1696560033,
       "rank": 0,
@@ -91,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1045075,
+      "num": 515870,
+      "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+      "onboard_time": 1696560634,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1030977,
       "num": 1030977,
       "word": "徐州一婚礼场地被村民连夜搬空",
@@ -147,12 +155,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 793647,
-      "num": 276025,
-      "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
-      "onboard_time": 1696560634,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 787837,
+      "num": 787837,
+      "word": "何冰娇",
+      "onboard_time": 1696560332,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 784844,
+      "num": 784844,
+      "word": "全红婵背了一包玩偶离开杭州",
+      "onboard_time": 1696558773,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 778092,
@@ -161,6 +177,14 @@
       "onboard_time": 1696555171,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 723855,
+      "num": 723855,
+      "word": "怎么就6号了",
+      "onboard_time": 1696561295,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 719835,
@@ -187,14 +211,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 668048,
-      "num": 668048,
-      "word": "何冰娇",
-      "onboard_time": 1696560332,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 654707,
       "num": 654707,
       "word": "苏炳添称无法和谢震业做比较",
@@ -203,12 +219,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 653303,
-      "num": 653303,
-      "word": "全红婵背了一包玩偶离开杭州",
-      "onboard_time": 1696558773,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 642774,
+      "num": 642774,
+      "word": "江宁婆婆评南阳盗窃事件",
+      "onboard_time": 1696555954,
+      "rank": 8,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 628720,
@@ -220,19 +236,11 @@
     },
     {
       "raw_hot": 628016,
-      "num": 275935,
+      "num": 278667,
       "word": "孟非参观祖屋要看房产证",
       "onboard_time": 1696553672,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 626890,
-      "num": 626890,
-      "word": "江宁婆婆评南阳盗窃事件",
-      "onboard_time": 1696555954,
-      "rank": 8,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 615504,
@@ -249,6 +257,14 @@
       "onboard_time": 1696557272,
       "rank": 20,
       "category": "其它"
+    },
+    {
+      "raw_hot": 580728,
+      "num": 580728,
+      "word": "王楚钦说孙颖莎是天才",
+      "onboard_time": 1696559134,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 569027,
@@ -275,6 +291,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 525010,
+      "num": 480656,
+      "word": "这是属于小说圈的美貌吧",
+      "onboard_time": 1696559974,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 513572,
       "num": 353357,
       "word": "韩国人真的别执着比心了",
@@ -291,28 +315,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 481971,
+      "num": 481971,
+      "word": "披荆斩棘3四公真人秀海报",
+      "onboard_time": 1696561413,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481036,
       "num": 481036,
       "word": "华晨宇把演唱会办成升学宴",
       "onboard_time": 1696519534,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 480656,
-      "num": 480656,
-      "word": "这是属于小说圈的美貌吧",
-      "onboard_time": 1696559974,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 477947,
-      "num": 477947,
-      "word": "王楚钦说孙颖莎是天才",
-      "onboard_time": 1696559134,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 461751,
@@ -339,20 +355,12 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 406056,
-      "num": 406056,
-      "word": "披荆斩棘3四公真人秀海报",
-      "onboard_time": 1696561413,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 392182,
-      "num": 392182,
-      "word": "怎么就6号了",
-      "onboard_time": 1696561295,
-      "rank": 23,
-      "category": "情感"
+      "raw_hot": 406401,
+      "num": 378505,
+      "word": "朋友把身份证塞进手机后盖",
+      "onboard_time": 1696562495,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 390225,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 386399,
+      "num": 386399,
+      "word": "中餐厅的库存告急了",
+      "onboard_time": 1696562255,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 379121,
       "num": 379121,
       "word": "广西百色一直升机坠毁致1死3伤",
@@ -371,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 373805,
+      "num": 373805,
+      "word": "谭爷爷教会花花玩滑梯了",
+      "onboard_time": 1696561833,
+      "rank": 36,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 368120,
       "num": 290323,
       "word": "全红婵有多尊重女记者",
       "onboard_time": 1696549103,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359988,
+      "num": 359988,
+      "word": "黄景瑜说成毅很会扭",
+      "onboard_time": 1696562075,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 359783,
@@ -475,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 294530,
+      "num": 294530,
+      "word": "丫丫闭眼吃笋好享受",
+      "onboard_time": 1696561295,
+      "rank": 29,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 293744,
       "num": 293744,
       "word": "可以夹在胸前防止驼背的玩偶",
@@ -571,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 276063,
-      "num": 276063,
-      "word": "丫丫闭眼吃笋好享受",
-      "onboard_time": 1696561295,
-      "rank": 29,
-      "category": "社会新闻,动物萌宠"
+      "raw_hot": 277675,
+      "num": 277675,
+      "word": "毛晓彤说这届同事太难带了",
+      "onboard_time": 1696562135,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 275816,
@@ -585,6 +625,14 @@
       "onboard_time": 1696560995,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 275652,
+      "num": 275652,
+      "word": "提醒两种不要生吃的东西",
+      "onboard_time": 1696562913,
+      "rank": 32,
+      "category": "美食,知识科普"
     },
     {
       "raw_hot": 270400,
@@ -601,6 +649,14 @@
       "onboard_time": 1696549706,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 269546,
+      "num": 269546,
+      "word": "迪丽热巴好像导游",
+      "onboard_time": 1696561896,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 262816,
@@ -643,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247893,
-      "num": 247893,
-      "word": "谭爷爷教会花花玩滑梯了",
-      "onboard_time": 1696561833,
-      "rank": 36,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 243883,
       "num": 243883,
       "word": "中国女篮决赛DJ有多爱张杰",
@@ -691,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230104,
+      "num": 230104,
+      "word": "上海4岁女童海滩走失父亲发声",
+      "onboard_time": 1696562853,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 227709,
       "num": 227709,
       "word": "午睡的时间不能太久了",
@@ -713,6 +769,14 @@
       "onboard_time": 1696551209,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214701,
+      "num": 214701,
+      "word": "Jennie新歌封面是武内直子画的",
+      "onboard_time": 1696563096,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 213205,
@@ -747,14 +811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205144,
-      "num": 205144,
-      "word": "迪丽热巴好像导游",
-      "onboard_time": 1696561896,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203424,
       "num": 203424,
       "word": "如何在人群中快速找出全红婵",
@@ -763,12 +819,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203180,
+      "num": 203180,
+      "word": "尹子维在痞帅赛道没有竞争对手",
+      "onboard_time": 1696562433,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199273,
       "num": 199273,
       "word": "吴姝彤10公里马拉松游泳金牌",
       "onboard_time": 1696560874,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198534,
+      "num": 198534,
+      "word": "调休用英语怎么说",
+      "onboard_time": 1696563035,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 198329,
@@ -811,14 +883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190343,
-      "num": 190343,
-      "word": "毛晓彤说这届同事太难带了",
-      "onboard_time": 1696562135,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190266,
       "num": 190266,
       "word": "被巴黎戴高乐机场的中文折服了",
@@ -841,14 +905,6 @@
       "onboard_time": 1696520256,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186756,
-      "num": 186756,
-      "word": "黄景瑜说成毅很会扭",
-      "onboard_time": 1696562075,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 185264,
@@ -1148,7 +1204,7 @@
     },
     {
       "raw_hot": 76333,
-      "num": 1465332,
+      "num": 1497638,
       "word": "被亚运会的氛围可爱到了",
       "onboard_time": 1696511138,
       "rank": 2,
