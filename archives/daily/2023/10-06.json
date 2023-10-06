@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696602898712,
+  "endTime": 1696605525935,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2078642,
+      "num": 2078642,
+      "word": "女孩买胸贴女店员叠小票保护隐私",
+      "onboard_time": 1696601024,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2057517,
       "num": 2057517,
       "word": "儿子说朋友挂了被父亲举报吸毒",
@@ -96,14 +104,6 @@
       "word": "上海4岁女童海滩走失已超24小时",
       "onboard_time": 1696548863,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1987291,
-      "num": 1987291,
-      "word": "女孩买胸贴女店员叠小票保护隐私",
-      "onboard_time": 1696601024,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -139,6 +139,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1687997,
+      "num": 1687997,
+      "word": "Taylor Swift: The Eras Tour有望引进",
+      "onboard_time": 1696603424,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1656190,
+      "num": 1656190,
+      "word": "上海失踪4岁女童母亲发声",
+      "onboard_time": 1696583733,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1624973,
       "num": 1624973,
       "word": "吴京探班 霍思燕泪洒 张艺谋震惊",
@@ -153,14 +169,6 @@
       "onboard_time": 1696574614,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1516776,
-      "num": 1516776,
-      "word": "上海失踪4岁女童母亲发声",
-      "onboard_time": 1696583733,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1440796,
@@ -667,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 645658,
+      "num": 645658,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 642774,
       "num": 642774,
       "word": "江宁婆婆评南阳盗窃事件",
@@ -697,6 +713,14 @@
       "onboard_time": 1696510478,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 628293,
+      "num": 628293,
+      "word": "日本女足夺得亚运冠军",
+      "onboard_time": 1696603965,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 628016,
@@ -795,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 576516,
+      "num": 576516,
+      "word": "王楚钦带着高原反应打球",
+      "onboard_time": 1696601385,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 571824,
       "num": 571824,
       "word": "韩素希不能当爱豆的原因",
@@ -809,14 +841,6 @@
       "onboard_time": 1696505373,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 559022,
-      "num": 559022,
-      "word": "半夜醒来时不要看时间",
-      "onboard_time": 1696598380,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 558734,
@@ -899,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 485498,
-      "num": 485498,
-      "word": "王楚钦带着高原反应打球",
-      "onboard_time": 1696601385,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 484580,
       "num": 400518,
       "word": "朋友把身份证塞进手机后盖",
@@ -921,6 +937,14 @@
       "onboard_time": 1696588658,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482909,
+      "num": 482909,
+      "word": "王楚然拍的天空",
+      "onboard_time": 1696601205,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 481971,
@@ -1033,14 +1057,6 @@
       "onboard_time": 1696584156,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440095,
-      "num": 440095,
-      "word": "王楚然拍的天空",
-      "onboard_time": 1696601205,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 430644,
@@ -1395,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334311,
+      "num": 334311,
+      "word": "回春丹",
+      "onboard_time": 1696603663,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333861,
       "num": 333861,
       "word": "室友要在寝室养病",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1696512516,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331216,
+      "num": 331216,
+      "word": "菲律宾男篮亚运会金牌",
+      "onboard_time": 1696603602,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 331080,
@@ -1587,6 +1619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289611,
+      "num": 289611,
+      "word": "一张照片证明这个假期你在哪里",
+      "onboard_time": 1696603002,
+      "rank": 31,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 289310,
       "num": 289310,
       "word": "杨舒予好帅",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1696556432,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282275,
+      "num": 282275,
+      "word": "巴黎路人镜头下的杨紫",
+      "onboard_time": 1696603842,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 280977,
@@ -1715,6 +1763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276202,
+      "num": 276202,
+      "word": "问界",
+      "onboard_time": 1696603183,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 275816,
       "num": 275816,
       "word": "刘同 精神容易崩溃的人有一个共同点",
@@ -1729,6 +1785,14 @@
       "onboard_time": 1696563035,
       "rank": 46,
       "category": "其它"
+    },
+    {
+      "raw_hot": 273206,
+      "num": 568113,
+      "word": "中国队锁定羽毛球男单金牌",
+      "onboard_time": 1696602643,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 270400,
@@ -1825,6 +1889,14 @@
       "onboard_time": 1696565734,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 260132,
+      "num": 260132,
+      "word": "弗格森妻子去世",
+      "onboard_time": 1696605105,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 259600,
@@ -2009,6 +2081,14 @@
       "onboard_time": 1696518220,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230649,
+      "num": 230649,
+      "word": "问界新M7",
+      "onboard_time": 1696605222,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 230354,
@@ -2507,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171907,
+      "num": 171907,
+      "word": "Ella给Selina的儿子买礼物",
+      "onboard_time": 1696605279,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170068,
       "num": 170068,
       "word": "活是一点没干还得奶奶哄半天",
@@ -2849,14 +2937,6 @@
       "onboard_time": 1696577255,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 115716,
-      "num": 411874,
-      "word": "中国队锁定羽毛球男单金牌",
-      "onboard_time": 1696602643,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 112388,

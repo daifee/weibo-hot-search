@@ -1,0 +1,410 @@
+{
+  "runTime": 1696605525935,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2078642,
+        "num": 2078642,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1977083,
+        "num": 1977083,
+        "word": "他从火光中走来 男主死了",
+        "onboard_time": 1696594058,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79371,
+        "num": 1728542,
+        "word": "秋日里的中国大地有多少种色彩",
+        "onboard_time": 1696598623,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1687997,
+        "num": 1687997,
+        "word": "Taylor Swift: The Eras Tour有望引进",
+        "onboard_time": 1696603424,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1656190,
+        "num": 1656190,
+        "word": "上海失踪4岁女童母亲发声",
+        "onboard_time": 1696583733,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1513825,
+        "num": 1513825,
+        "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+        "onboard_time": 1696600182,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974914,
+        "num": 974914,
+        "word": "金价连续下跌",
+        "onboard_time": 1696585172,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 826926,
+        "num": 826926,
+        "word": "迪丽热巴 万渣朝凰",
+        "onboard_time": 1696599106,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682842,
+        "num": 682842,
+        "word": "黄景瑜和网友决战紫禁之巅",
+        "onboard_time": 1696599705,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 645658,
+        "num": 645658,
+        "word": "半夜醒来时不要看时间",
+        "onboard_time": 1696598380,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 628293,
+        "num": 628293,
+        "word": "日本女足夺得亚运冠军",
+        "onboard_time": 1696603965,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 576516,
+        "num": 576516,
+        "word": "王楚钦带着高原反应打球",
+        "onboard_time": 1696601385,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335105,
+        "num": 571337,
+        "word": "爸爸带娃主打潦草",
+        "onboard_time": 1696601024,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273206,
+        "num": 568113,
+        "word": "中国队锁定羽毛球男单金牌",
+        "onboard_time": 1696602643,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165086,
+        "num": 567768,
+        "word": "中国男篮季军",
+        "onboard_time": 1696585719,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567587,
+        "num": 567587,
+        "word": "万渣朝凰",
+        "onboard_time": 1696600967,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 557326,
+        "num": 557326,
+        "word": "老乡鸡",
+        "onboard_time": 1696596760,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 503868,
+        "num": 503868,
+        "word": "张艺兴太会了",
+        "onboard_time": 1696599763,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 482909,
+        "num": 482909,
+        "word": "王楚然拍的天空",
+        "onboard_time": 1696601205,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441688,
+        "num": 441688,
+        "word": "韩素希不能当爱豆的原因",
+        "onboard_time": 1696599946,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1562536,
+        "num": 415587,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1696599463,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382440,
+        "num": 382440,
+        "word": "黄景瑜 男主没有死",
+        "onboard_time": 1696597063,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378821,
+        "num": 378821,
+        "word": "妈妈用了30年的洗澡盆",
+        "onboard_time": 1696600545,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 378766,
+        "num": 378766,
+        "word": "冯琳好优秀",
+        "onboard_time": 1696600003,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353834,
+        "num": 353834,
+        "word": "儿子说朋友挂了被父亲举报吸毒",
+        "onboard_time": 1696593457,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351688,
+        "num": 351688,
+        "word": "马天宇养了两个月的鹌鹑",
+        "onboard_time": 1696601385,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344482,
+        "num": 344482,
+        "word": "女童走失海滩曾有人被潮水卷走",
+        "onboard_time": 1696595559,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334311,
+        "num": 334311,
+        "word": "回春丹",
+        "onboard_time": 1696603663,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331216,
+        "num": 331216,
+        "word": "菲律宾男篮亚运会金牌",
+        "onboard_time": 1696603602,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306951,
+        "num": 306951,
+        "word": "测评博主吐槽王鹤棣潮牌",
+        "onboard_time": 1696595499,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303685,
+        "num": 303685,
+        "word": "老师订10余套演出服用完立马退货",
+        "onboard_time": 1696600363,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289611,
+        "num": 289611,
+        "word": "一张照片证明这个假期你在哪里",
+        "onboard_time": 1696603002,
+        "rank": 31,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 282529,
+        "num": 282529,
+        "word": "日本海鲜滞销堆积成山",
+        "onboard_time": 1696592498,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282275,
+        "num": 282275,
+        "word": "巴黎路人镜头下的杨紫",
+        "onboard_time": 1696603842,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281614,
+        "num": 281614,
+        "word": "上海警方通报4岁女童在海边走失",
+        "onboard_time": 1696582356,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276202,
+        "num": 276202,
+        "word": "问界",
+        "onboard_time": 1696603183,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 266256,
+        "num": 266256,
+        "word": "王丽坤戴面具32集终于摘掉了",
+        "onboard_time": 1696595858,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260974,
+        "num": 260974,
+        "word": "蓝天救援队公布疑似女童走失前视频",
+        "onboard_time": 1696589080,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260132,
+        "num": 260132,
+        "word": "弗格森妻子去世",
+        "onboard_time": 1696605105,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 259629,
+        "num": 259629,
+        "word": "张颂文让魏大勋帮忙取话筒太会了",
+        "onboard_time": 1696595798,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249393,
+        "num": 249393,
+        "word": "贝嫂 我家也是工薪阶层",
+        "onboard_time": 1696586558,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243668,
+        "num": 243668,
+        "word": "主持人大赛",
+        "onboard_time": 1696595739,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230649,
+        "num": 230649,
+        "word": "问界新M7",
+        "onboard_time": 1696605222,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 200277,
+        "num": 200277,
+        "word": "孤注一掷组团来看张艺兴演唱会",
+        "onboard_time": 1696599580,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171907,
+        "num": 171907,
+        "word": "Ella给Selina的儿子买礼物",
+        "onboard_time": 1696605279,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171590,
+        "num": 171590,
+        "word": "王楚钦吸氧",
+        "onboard_time": 1696589799,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170944,
+        "num": 170944,
+        "word": "沈梦辰秒答迪丽热巴",
+        "onboard_time": 1696594418,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165677,
+        "num": 165677,
+        "word": "他从火光中走来结局",
+        "onboard_time": 1696593696,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165375,
+        "num": 165375,
+        "word": "Super Shy",
+        "onboard_time": 1696588000,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 158499,
+        "num": 158499,
+        "word": "姚明回应被称作226",
+        "onboard_time": 1696598380,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}
