@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696559673609,
+  "endTime": 1696562250325,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -19,6 +19,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2044761,
+      "num": 2044761,
+      "word": "陈飞宇首次回应弄丢妖猫传的猫",
+      "onboard_time": 1696560033,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2015721,
       "num": 2015721,
       "word": "上海4岁女童海滩走失已超24小时",
@@ -35,8 +43,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1398017,
+      "num": 1398017,
+      "word": "韩国选手否认模仿羞辱何冰娇",
+      "onboard_time": 1696558652,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1357801,
-      "num": 456781,
+      "num": 595889,
       "word": "金世佳被孩子求抱后续",
       "onboard_time": 1696548383,
       "rank": 13,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 892344,
-      "num": 439441,
+      "num": 453997,
       "word": "网友在冰岛偶遇迪丽热巴",
       "onboard_time": 1696550548,
       "rank": 11,
@@ -123,14 +139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 829913,
-      "num": 829913,
-      "word": "韩国选手否认模仿羞辱何冰娇",
-      "onboard_time": 1696558652,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 804122,
       "num": 804122,
       "word": "中国女篮冠军",
@@ -139,8 +147,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 793647,
+      "num": 276025,
+      "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+      "onboard_time": 1696560634,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 778092,
-      "num": 435713,
+      "num": 590720,
       "word": "六代的帅男人悄悄出现了",
       "onboard_time": 1696555171,
       "rank": 22,
@@ -171,11 +187,27 @@
       "category": "情感"
     },
     {
+      "raw_hot": 668048,
+      "num": 668048,
+      "word": "何冰娇",
+      "onboard_time": 1696560332,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 654707,
       "num": 654707,
       "word": "苏炳添称无法和谢震业做比较",
       "onboard_time": 1696521095,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 653303,
+      "num": 653303,
+      "word": "全红婵背了一包玩偶离开杭州",
+      "onboard_time": 1696558773,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -188,11 +220,27 @@
     },
     {
       "raw_hot": 628016,
-      "num": 241946,
+      "num": 275935,
       "word": "孟非参观祖屋要看房产证",
       "onboard_time": 1696553672,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 626890,
+      "num": 626890,
+      "word": "江宁婆婆评南阳盗窃事件",
+      "onboard_time": 1696555954,
+      "rank": 8,
+      "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 615504,
+      "num": 615504,
+      "word": "孙颖莎终极目标是巴黎奥运会",
+      "onboard_time": 1696560393,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 581162,
@@ -212,7 +260,7 @@
     },
     {
       "raw_hot": 565235,
-      "num": 431575,
+      "num": 482516,
       "word": "周杰伦 一生中最爱",
       "onboard_time": 1696558353,
       "rank": 19,
@@ -251,12 +299,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 469804,
-      "num": 469804,
-      "word": "江宁婆婆评南阳盗窃事件",
-      "onboard_time": 1696555954,
-      "rank": 8,
-      "category": "社会新闻,演出"
+      "raw_hot": 480656,
+      "num": 480656,
+      "word": "这是属于小说圈的美貌吧",
+      "onboard_time": 1696559974,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 477947,
+      "num": 477947,
+      "word": "王楚钦说孙颖莎是天才",
+      "onboard_time": 1696559134,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 461751,
@@ -283,6 +339,22 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 406056,
+      "num": 406056,
+      "word": "披荆斩棘3四公真人秀海报",
+      "onboard_time": 1696561413,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 392182,
+      "num": 392182,
+      "word": "怎么就6号了",
+      "onboard_time": 1696561295,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390225,
       "num": 390225,
       "word": "叙利亚一军校遭无人机袭击",
@@ -307,20 +379,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 367302,
-      "num": 367302,
-      "word": "全红婵背了一包玩偶离开杭州",
-      "onboard_time": 1696558773,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 359783,
       "num": 359783,
       "word": "一人独享渣男赛道",
       "onboard_time": 1696521634,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 347293,
+      "num": 347293,
+      "word": "3女篮球员各获热销房奖励一套",
+      "onboard_time": 1696560513,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 346304,
@@ -387,8 +459,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 309228,
+      "num": 309228,
+      "word": "日本本州东南海域发生5.9级地震",
+      "onboard_time": 1696559915,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 300016,
-      "num": 448066,
+      "num": 480722,
       "word": "袁琦琦说男生没肌肉要反思",
       "onboard_time": 1696557452,
       "rank": 32,
@@ -443,8 +523,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288698,
-      "num": 288698,
+      "raw_hot": 289171,
+      "num": 289171,
       "word": "考古的风终于吹到了黄轩",
       "onboard_time": 1696559193,
       "rank": 26,
@@ -491,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276063,
+      "num": 276063,
+      "word": "丫丫闭眼吃笋好享受",
+      "onboard_time": 1696561295,
+      "rank": 29,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 275816,
+      "num": 275816,
+      "word": "刘同 精神容易崩溃的人有一个共同点",
+      "onboard_time": 1696560995,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 270400,
       "num": 270400,
       "word": "李梦好猛",
@@ -505,14 +601,6 @@
       "onboard_time": 1696549706,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 263554,
-      "num": 263554,
-      "word": "王楚钦说孙颖莎是天才",
-      "onboard_time": 1696559134,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 262816,
@@ -555,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247893,
+      "num": 247893,
+      "word": "谭爷爷教会花花玩滑梯了",
+      "onboard_time": 1696561833,
+      "rank": 36,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 243883,
       "num": 243883,
       "word": "中国女篮决赛DJ有多爱张杰",
@@ -577,6 +673,14 @@
       "onboard_time": 1696522890,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 236243,
+      "num": 236243,
+      "word": "李梦咬金牌",
+      "onboard_time": 1696559554,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 230804,
@@ -643,11 +747,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205144,
+      "num": 205144,
+      "word": "迪丽热巴好像导游",
+      "onboard_time": 1696561896,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203424,
       "num": 203424,
       "word": "如何在人群中快速找出全红婵",
       "onboard_time": 1696558474,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199273,
+      "num": 199273,
+      "word": "吴姝彤10公里马拉松游泳金牌",
+      "onboard_time": 1696560874,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -691,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190343,
+      "num": 190343,
+      "word": "毛晓彤说这届同事太难带了",
+      "onboard_time": 1696562135,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190266,
       "num": 190266,
       "word": "被巴黎戴高乐机场的中文折服了",
@@ -713,6 +841,14 @@
       "onboard_time": 1696520256,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186756,
+      "num": 186756,
+      "word": "黄景瑜说成毅很会扭",
+      "onboard_time": 1696562075,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 185264,
@@ -1012,7 +1148,7 @@
     },
     {
       "raw_hot": 76333,
-      "num": 1116320,
+      "num": 1465332,
       "word": "被亚运会的氛围可爱到了",
       "onboard_time": 1696511138,
       "rank": 2,

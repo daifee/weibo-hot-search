@@ -1,0 +1,410 @@
+{
+  "runTime": 1696562250325,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2044761,
+        "num": 2044761,
+        "word": "陈飞宇首次回应弄丢妖猫传的猫",
+        "onboard_time": 1696560033,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1729565,
+        "num": 1729565,
+        "word": "上海4岁女童海滩走失已超24小时",
+        "onboard_time": 1696548863,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62045,
+        "num": 1465332,
+        "word": "被亚运会的氛围可爱到了",
+        "onboard_time": 1696511138,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1398017,
+        "num": 1398017,
+        "word": "韩国选手否认模仿羞辱何冰娇",
+        "onboard_time": 1696558652,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 784277,
+        "num": 784277,
+        "word": "雅思组合",
+        "onboard_time": 1696558890,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 668048,
+        "num": 668048,
+        "word": "何冰娇",
+        "onboard_time": 1696560332,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653303,
+        "num": 653303,
+        "word": "全红婵背了一包玩偶离开杭州",
+        "onboard_time": 1696558773,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626890,
+        "num": 626890,
+        "word": "江宁婆婆评南阳盗窃事件",
+        "onboard_time": 1696555954,
+        "rank": 7,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 615504,
+        "num": 615504,
+        "word": "孙颖莎终极目标是巴黎奥运会",
+        "onboard_time": 1696560393,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 597443,
+        "num": 597443,
+        "word": "周润发回应裸捐56亿港币",
+        "onboard_time": 1696549586,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 755671,
+        "num": 595889,
+        "word": "金世佳被孩子求抱后续",
+        "onboard_time": 1696548383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 590720,
+        "num": 590720,
+        "word": "六代的帅男人悄悄出现了",
+        "onboard_time": 1696555171,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482516,
+        "num": 482516,
+        "word": "周杰伦 一生中最爱",
+        "onboard_time": 1696558353,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342391,
+        "num": 480807,
+        "word": "迷笛音乐节组委会称不希望地域攻击",
+        "onboard_time": 1696554034,
+        "rank": 13,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 252081,
+        "num": 480722,
+        "word": "袁琦琦说男生没肌肉要反思",
+        "onboard_time": 1696557452,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480656,
+        "num": 480656,
+        "word": "这是属于小说圈的美貌吧",
+        "onboard_time": 1696559974,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477947,
+        "num": 477947,
+        "word": "王楚钦说孙颖莎是天才",
+        "onboard_time": 1696559134,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 453997,
+        "num": 453997,
+        "word": "网友在冰岛偶遇迪丽热巴",
+        "onboard_time": 1696550548,
+        "rank": 17,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 430043,
+        "num": 430043,
+        "word": "黄景瑜不拍古装的原因",
+        "onboard_time": 1696548262,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421571,
+        "num": 421571,
+        "word": "杨鸣评价中国男篮心态失衡",
+        "onboard_time": 1696557452,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 946381,
+        "num": 418607,
+        "word": "官方通报幼儿园园长与无业男子开房",
+        "onboard_time": 1696557812,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412586,
+        "num": 412586,
+        "word": "不经意看到妈妈的内衣扣感觉很心酸",
+        "onboard_time": 1696553612,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 406056,
+        "num": 406056,
+        "word": "披荆斩棘3四公真人秀海报",
+        "onboard_time": 1696561413,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392182,
+        "num": 392182,
+        "word": "怎么就6号了",
+        "onboard_time": 1696561295,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 347293,
+        "num": 347293,
+        "word": "3女篮球员各获热销房奖励一套",
+        "onboard_time": 1696560513,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309228,
+        "num": 309228,
+        "word": "日本本州东南海域发生5.9级地震",
+        "onboard_time": 1696559915,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303886,
+        "num": 303886,
+        "word": "她从19岁开始陪到他75岁了",
+        "onboard_time": 1696550668,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298266,
+        "num": 298266,
+        "word": "王楚钦 很清醒很聪明",
+        "onboard_time": 1696557931,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289171,
+        "num": 289171,
+        "word": "考古的风终于吹到了黄轩",
+        "onboard_time": 1696559193,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 276063,
+        "num": 276063,
+        "word": "丫丫闭眼吃笋好享受",
+        "onboard_time": 1696561295,
+        "rank": 29,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 793647,
+        "num": 276025,
+        "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+        "onboard_time": 1696560634,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 297635,
+        "num": 275935,
+        "word": "孟非参观祖屋要看房产证",
+        "onboard_time": 1696553672,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 709613,
+        "num": 275927,
+        "word": "西安外国语大学",
+        "onboard_time": 1696518824,
+        "rank": 32,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 275816,
+        "num": 275816,
+        "word": "刘同 精神容易崩溃的人有一个共同点",
+        "onboard_time": 1696560995,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 273054,
+        "num": 273054,
+        "word": "李泽锋 轻舟已过万重山",
+        "onboard_time": 1696518159,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256412,
+        "num": 256412,
+        "word": "传说中4200度的眼镜",
+        "onboard_time": 1696557272,
+        "rank": 35,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 247893,
+        "num": 247893,
+        "word": "谭爷爷教会花花玩滑梯了",
+        "onboard_time": 1696561833,
+        "rank": 36,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 236243,
+        "num": 236243,
+        "word": "李梦咬金牌",
+        "onboard_time": 1696559554,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208383,
+        "num": 208383,
+        "word": "徐州一婚礼场地被村民连夜搬空",
+        "onboard_time": 1696517259,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205144,
+        "num": 205144,
+        "word": "迪丽热巴好像导游",
+        "onboard_time": 1696561896,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199273,
+        "num": 199273,
+        "word": "吴姝彤10公里马拉松游泳金牌",
+        "onboard_time": 1696560874,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196298,
+        "num": 196298,
+        "word": "为什么电视里的人离职都要抱纸箱",
+        "onboard_time": 1696556432,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195988,
+        "num": 195988,
+        "word": "李梦沉浸式自拍女篮夺冠后状态",
+        "onboard_time": 1696558234,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195231,
+        "num": 195231,
+        "word": "吉克隽逸经常回大凉山的原因",
+        "onboard_time": 1696557632,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190343,
+        "num": 190343,
+        "word": "毛晓彤说这届同事太难带了",
+        "onboard_time": 1696562135,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186873,
+        "num": 186873,
+        "word": "瑞幸要和猫和老鼠联名了吗",
+        "onboard_time": 1696549406,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186756,
+        "num": 186756,
+        "word": "黄景瑜说成毅很会扭",
+        "onboard_time": 1696562075,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179240,
+        "num": 179240,
+        "word": "薛之谦把伴舞假发薅掉了",
+        "onboard_time": 1696549706,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176537,
+        "num": 176537,
+        "word": "南阳官方通报音乐节盗窃事件",
+        "onboard_time": 1696517797,
+        "rank": 48,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 175186,
+        "num": 175186,
+        "word": "虞书欣永夜星河婚服路透",
+        "onboard_time": 1696549224,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#铆足干劲勇毅前行#"
+    }
+  }
+}
