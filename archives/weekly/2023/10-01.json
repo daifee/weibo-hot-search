@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696599237063,
+  "endTime": 1696601803887,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -657,6 +657,14 @@
       "onboard_time": 1696562853,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1869806,
+      "num": 539111,
+      "word": "李钟硕颜值回春",
+      "onboard_time": 1696599463,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1862248,
@@ -1579,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1209541,
+      "num": 650580,
+      "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+      "onboard_time": 1696600182,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1208002,
       "num": 1208002,
       "word": "柯洁两枚银牌",
@@ -1899,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1034119,
+      "num": 1034119,
+      "word": "迪丽热巴 万渣朝凰",
+      "onboard_time": 1696599106,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1030977,
       "num": 1030977,
       "word": "徐州一婚礼场地被村民连夜搬空",
@@ -2067,6 +2091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 970608,
+      "num": 970608,
+      "word": "黄景瑜和网友决战紫禁之巅",
+      "onboard_time": 1696599705,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 969433,
       "num": 491345,
       "word": "吃了一把怀孕的阳光玫瑰",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1696593696,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 908123,
+      "num": 908123,
+      "word": "女孩买胸贴女店员叠小票保护隐私",
+      "onboard_time": 1696601024,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 907988,
@@ -3467,6 +3507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 667830,
+      "num": 667830,
+      "word": "冯琳好优秀",
+      "onboard_time": 1696600003,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 666589,
       "num": 666589,
       "word": "中国女排vs印度女排",
@@ -3801,6 +3849,14 @@
       "onboard_time": 1696423357,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 620482,
+      "num": 620482,
+      "word": "张艺兴太会了",
+      "onboard_time": 1696599763,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 620451,
@@ -4219,6 +4275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 571824,
+      "num": 571824,
+      "word": "韩素希不能当爱豆的原因",
+      "onboard_time": 1696599946,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 571395,
       "num": 571395,
       "word": "黄轩性张力",
@@ -4265,6 +4329,14 @@
       "onboard_time": 1696519534,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 565940,
+      "num": 565940,
+      "word": "万渣朝凰",
+      "onboard_time": 1696600967,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 562123,
@@ -4529,6 +4601,14 @@
       "onboard_time": 1696427257,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 532339,
+      "num": 532339,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 531322,
@@ -5867,6 +5947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408718,
+      "num": 408718,
+      "word": "主持人大赛",
+      "onboard_time": 1696595739,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 408664,
       "num": 408664,
       "word": "中国香港0比4日本",
@@ -5992,6 +6080,22 @@
       "word": "原来国乒队都有属于自己的教练",
       "onboard_time": 1696479934,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 403169,
+      "num": 403169,
+      "word": "老师订10余套演出服用完立马退货",
+      "onboard_time": 1696600363,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 403097,
+      "num": 403097,
+      "word": "博格巴兴奋剂复检阳性",
+      "onboard_time": 1696599282,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -6763,6 +6867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 358886,
+      "num": 358886,
+      "word": "妈妈用了30年的洗澡盆",
+      "onboard_time": 1696600545,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358828,
       "num": 358828,
       "word": "中国女篮晋级亚运决赛",
@@ -6921,6 +7033,14 @@
       "onboard_time": 1696235973,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351583,
+      "num": 351583,
+      "word": "孙颖莎3比0田志希",
+      "onboard_time": 1696599282,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 351490,
@@ -7147,6 +7267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341385,
+      "num": 341385,
+      "word": "姚明回应被称作226",
+      "onboard_time": 1696598380,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340976,
       "num": 340976,
       "word": "足篮打水一场空",
@@ -7209,6 +7337,14 @@
       "onboard_time": 1696246235,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338514,
+      "num": 616282,
+      "word": "爸爸带娃主打潦草",
+      "onboard_time": 1696601024,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336715,
@@ -7323,14 +7459,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 331549,
-      "num": 331549,
-      "word": "半夜醒来时不要看时间",
-      "onboard_time": 1696598380,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 331413,
       "num": 331413,
       "word": "曾黎衬衫里穿的是泳衣",
@@ -7401,6 +7529,14 @@
       "onboard_time": 1696062514,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 327540,
+      "num": 327540,
+      "word": "王楚然拍的天空",
+      "onboard_time": 1696601205,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 327024,
@@ -7651,14 +7787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 317989,
-      "num": 317989,
-      "word": "主持人大赛",
-      "onboard_time": 1696595739,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 317482,
       "num": 317482,
       "word": "黄嘉仪人设",
@@ -7752,6 +7880,14 @@
       "word": "浙江95后夫妻两天狂揽4枚亚运金牌",
       "onboard_time": 1696310192,
       "rank": 16,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 311670,
+      "num": 311670,
+      "word": "王楚钦带着高原反应打球",
+      "onboard_time": 1696601385,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -7920,14 +8056,6 @@
       "word": "全红婵采访躲陈芋汐身后的原因",
       "onboard_time": 1696409194,
       "rank": 31,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 305206,
-      "num": 305206,
-      "word": "姚明回应被称作226",
-      "onboard_time": 1696598380,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -8675,6 +8803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283299,
+      "num": 283299,
+      "word": "日本女足vs朝鲜女足",
+      "onboard_time": 1696601324,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283046,
       "num": 283046,
       "word": "林双离婚后修罗场都好香",
@@ -8769,6 +8905,14 @@
       "onboard_time": 1696520794,
       "rank": 22,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 279900,
+      "num": 279900,
+      "word": "马天宇养了两个月的鹌鹑",
+      "onboard_time": 1696601385,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 279865,
@@ -10011,6 +10155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 245296,
+      "num": 245296,
+      "word": "孤注一掷组团来看张艺兴演唱会",
+      "onboard_time": 1696599580,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245249,
       "num": 245249,
       "word": "去口臭的方法",
@@ -10537,14 +10689,6 @@
       "onboard_time": 1696377026,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 231433,
-      "num": 231433,
-      "word": "迪丽热巴 万渣朝凰",
-      "onboard_time": 1696599106,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 230902,
@@ -12195,6 +12339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198307,
+      "num": 198307,
+      "word": "祝子杰从脖子红到耳朵",
+      "onboard_time": 1696601748,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197800,
       "num": 197800,
       "word": "交警和大家快乐躲雨被画出来了",
@@ -12643,6 +12795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192088,
+      "num": 192088,
+      "word": "张凌赫粉色眼影",
+      "onboard_time": 1696600604,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192068,
       "num": 192068,
       "word": "陈楚生硬核摇滚舞台",
@@ -13081,6 +13241,14 @@
       "onboard_time": 1696130556,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183671,
+      "num": 183671,
+      "word": "侯明昊 娱乐圈体育生",
+      "onboard_time": 1696599343,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 183664,
@@ -15163,6 +15331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137575,
+      "num": 612517,
+      "word": "谭棉花组合一起玩滑梯",
+      "onboard_time": 1696600304,
+      "rank": 14,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 137274,
       "num": 137274,
       "word": "吴海媛泥塑自己",
@@ -16003,6 +16179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98402,
+      "num": 1580284,
+      "word": "秋日里的中国大地有多少种色彩",
+      "onboard_time": 1696598623,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98177,
       "num": 1590432,
       "word": "这些大国重器彰显中国底气",
@@ -16705,14 +16889,6 @@
       "onboard_time": 1696230032,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 30682,
-      "num": 1580284,
-      "word": "秋日里的中国大地有多少种色彩",
-      "onboard_time": 1696598623,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29067,
