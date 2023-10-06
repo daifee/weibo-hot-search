@@ -1,0 +1,410 @@
+{
+  "runTime": 1696577664811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1653383,
+        "num": 1653383,
+        "word": "日本流水面致892人中毒",
+        "onboard_time": 1696570113,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1575603,
+        "num": 1575603,
+        "word": "王栎鑫去了趟厕所天都变了",
+        "onboard_time": 1696574614,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108494,
+        "num": 1000440,
+        "word": "他们是最好的队友也是最好的对手",
+        "onboard_time": 1696565493,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1642281,
+        "num": 978458,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 952951,
+        "num": 952951,
+        "word": "经期不能做的6件事",
+        "onboard_time": 1696573773,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 788253,
+        "num": 788253,
+        "word": "长相思演唱会要来了",
+        "onboard_time": 1696574374,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 780253,
+        "num": 780253,
+        "word": "王牌对王牌",
+        "onboard_time": 1696574554,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 632721,
+        "num": 632721,
+        "word": "李诗沣进决赛",
+        "onboard_time": 1696574974,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 581211,
+        "num": 581211,
+        "word": "陈飞宇首次回应弄丢妖猫传的猫",
+        "onboard_time": 1696560033,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 467164,
+        "num": 467164,
+        "word": "苏炳添竟然不是田径队第一翘臀",
+        "onboard_time": 1696572515,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 498764,
+        "num": 464185,
+        "word": "周润发谈韩国电影的竞争力",
+        "onboard_time": 1696575996,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 460323,
+        "num": 460323,
+        "word": "徐明浩作品将在萨奇画廊展出",
+        "onboard_time": 1696575153,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446179,
+        "num": 446179,
+        "word": "Jennie新歌封面是武内直子画的",
+        "onboard_time": 1696563096,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 313230,
+        "num": 412571,
+        "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+        "onboard_time": 1696560634,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 216326,
+        "num": 393182,
+        "word": "全红婵背了一包玩偶离开杭州",
+        "onboard_time": 1696558773,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 389298,
+        "num": 389298,
+        "word": "易烊千玺牛仔叠穿",
+        "onboard_time": 1696568314,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 384064,
+        "num": 384064,
+        "word": "吴京探班 霍思燕泪洒 张艺谋震惊",
+        "onboard_time": 1696567417,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 362090,
+        "num": 362090,
+        "word": "IVE空降",
+        "onboard_time": 1696568974,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 331080,
+        "num": 331080,
+        "word": "中国女足vs乌兹别克斯坦",
+        "onboard_time": 1696576894,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318384,
+        "num": 318384,
+        "word": "河南官媒呼吁网友不要地域黑",
+        "onboard_time": 1696568974,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167687,
+        "num": 315066,
+        "word": "迷笛音乐节组委会称不希望地域攻击",
+        "onboard_time": 1696554034,
+        "rank": 20,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 869522,
+        "num": 311552,
+        "word": "两干部流出不雅视频被停职",
+        "onboard_time": 1696571793,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 669683,
+        "num": 309263,
+        "word": "38岁女老师被骗400万仍想和骗子结婚",
+        "onboard_time": 1696575754,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353495,
+        "num": 303617,
+        "word": "迪丽热巴巴黎新合照",
+        "onboard_time": 1696575453,
+        "rank": 23,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 302604,
+        "num": 302604,
+        "word": "陈楚生我不想被选择",
+        "onboard_time": 1696573533,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299062,
+        "num": 299062,
+        "word": "她一辈子是林双的小狐狸",
+        "onboard_time": 1696570413,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296840,
+        "num": 296840,
+        "word": "任嘉伦流水迢迢怼脸路透",
+        "onboard_time": 1696575754,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262369,
+        "num": 262369,
+        "word": "赵丽颖为陆毅关智斌打call",
+        "onboard_time": 1696567774,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 225506,
+        "num": 225506,
+        "word": "8天很短7天很长",
+        "onboard_time": 1696564594,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 216261,
+        "num": 216261,
+        "word": "真的别再用学生思维上班",
+        "onboard_time": 1696573296,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 296190,
+        "num": 210795,
+        "word": "和韩国室友撕到校方出面",
+        "onboard_time": 1696575814,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201289,
+        "num": 201289,
+        "word": "苹果升级系统后充电温度可降7.4度",
+        "onboard_time": 1696570716,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196032,
+        "num": 196032,
+        "word": "短发Arin回归",
+        "onboard_time": 1696576234,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172324,
+        "num": 172324,
+        "word": "中国女足开场21秒进球",
+        "onboard_time": 1696577136,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171398,
+        "num": 171398,
+        "word": "街办回应两干部忘关摄像头流出不雅视频",
+        "onboard_time": 1696572215,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162551,
+        "num": 162551,
+        "word": "朋友把身份证塞进手机后盖",
+        "onboard_time": 1696562495,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153931,
+        "num": 153931,
+        "word": "江宁婆婆评南阳盗窃事件",
+        "onboard_time": 1696555954,
+        "rank": 36,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 148076,
+        "num": 148076,
+        "word": "外媒报道王一博巴黎时装周",
+        "onboard_time": 1696564115,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144879,
+        "num": 144879,
+        "word": "Jennie个人单曲音源上线",
+        "onboard_time": 1696567897,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142691,
+        "num": 142691,
+        "word": "IVE先行曲OffTheRecord",
+        "onboard_time": 1696567715,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141331,
+        "num": 141331,
+        "word": "中国女足铜牌战",
+        "onboard_time": 1696571314,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141000,
+        "num": 141000,
+        "word": "竹马天降都是你开机",
+        "onboard_time": 1696568194,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135353,
+        "num": 135353,
+        "word": "亚运会DJ是懂怎么搞氛围的",
+        "onboard_time": 1696577431,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133979,
+        "num": 133979,
+        "word": "卢昱晓王牌对王牌路透",
+        "onboard_time": 1696570773,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129957,
+        "num": 129957,
+        "word": "韩素希和车银优一起拍广告了",
+        "onboard_time": 1696566096,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125904,
+        "num": 125904,
+        "word": "李诗沣vs普兰诺伊",
+        "onboard_time": 1696574256,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123528,
+        "num": 123528,
+        "word": "大结局卫明出现幻觉",
+        "onboard_time": 1696568681,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122462,
+        "num": 122462,
+        "word": "男孩给96岁长辈敬酒妙语连珠",
+        "onboard_time": 1696575395,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122027,
+        "num": 122027,
+        "word": "游客坠落山腰消防3小时轮流背下山",
+        "onboard_time": 1696577255,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112460,
+        "num": 112460,
+        "word": "澳门汉堡的名字也太直白了",
+        "onboard_time": 1696571075,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#铆足干劲勇毅前行#"
+    }
+  }
+}
