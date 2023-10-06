@@ -1,7 +1,15 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696631638817,
+  "endTime": 1696634173802,
   "band_list": [
+    {
+      "raw_hot": 1482226,
+      "num": 622773,
+      "word": "浦东海滩走失女孩疑似最后影像曝光",
+      "onboard_time": 1696621933,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1307877,
       "num": 1307877,
@@ -59,6 +67,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 785171,
+      "num": 785171,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 756227,
       "num": 756227,
       "word": "Taylor Swift The Eras Tour有望引进",
@@ -67,11 +83,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 662270,
-      "num": 229548,
-      "word": "浦东海滩走失女孩疑似最后影像曝光",
-      "onboard_time": 1696621933,
-      "rank": 10,
+      "raw_hot": 673820,
+      "num": 673820,
+      "word": "老师订10余套演出服用完立马退货",
+      "onboard_time": 1696600363,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -105,14 +121,6 @@
       "onboard_time": 1696599106,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 412876,
-      "num": 412876,
-      "word": "半夜醒来时不要看时间",
-      "onboard_time": 1696598380,
-      "rank": 15,
-      "category": "幽默"
     },
     {
       "raw_hot": 384538,
@@ -155,6 +163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 329986,
+      "num": 329986,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 320276,
       "num": 320276,
       "word": "黄景瑜和网友决战紫禁之巅",
@@ -163,20 +179,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 308204,
+      "num": 308204,
+      "word": "妈妈用了30年的洗澡盆",
+      "onboard_time": 1696600545,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 304457,
       "num": 304457,
       "word": "万渣朝凰",
       "onboard_time": 1696600967,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300957,
-      "num": 300957,
-      "word": "老师订10余套演出服用完立马退货",
-      "onboard_time": 1696600363,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 266711,
@@ -203,12 +219,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242551,
+      "num": 107249,
+      "word": "情侣同名同姓相恋7年后恩爱订婚",
+      "onboard_time": 1696633586,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229027,
       "num": 229027,
       "word": "韩素希不能当爱豆的原因",
       "onboard_time": 1696599946,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219249,
+      "num": 219249,
+      "word": "年轻人为什么都喜欢去音乐节",
+      "onboard_time": 1696619355,
+      "rank": 44,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 217823,
@@ -235,20 +267,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208014,
-      "num": 208014,
-      "word": "日本海鲜滞销堆积成山",
-      "onboard_time": 1696592498,
-      "rank": 33,
+      "raw_hot": 210005,
+      "num": 210005,
+      "word": "儿子说朋友挂了被父亲举报吸毒",
+      "onboard_time": 1696593457,
+      "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202261,
-      "num": 202261,
-      "word": "妈妈用了30年的洗澡盆",
-      "onboard_time": 1696600545,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 201146,
@@ -256,14 +280,6 @@
       "word": "蓝天救援队公布疑似女童走失前视频",
       "onboard_time": 1696589080,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197739,
-      "num": 197739,
-      "word": "儿子说朋友挂了被父亲举报吸毒",
-      "onboard_time": 1696593457,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -339,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168137,
+      "num": 149429,
+      "word": "上班第一天",
+      "onboard_time": 1696633945,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162397,
       "num": 162397,
       "word": "杨天真 不要死磕一个东西",
@@ -403,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133006,
+      "num": 107108,
+      "word": "女子为漫展造型脸贴胶带后长巨大水泡",
+      "onboard_time": 1696633586,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132048,
       "num": 132048,
       "word": "菲律宾男篮亚运会金牌",
@@ -419,12 +451,20 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 117805,
-      "num": 117805,
-      "word": "年轻人为什么都喜欢去音乐节",
-      "onboard_time": 1696619355,
-      "rank": 44,
-      "category": "社会新闻,演出"
+      "raw_hot": 127370,
+      "num": 127370,
+      "word": "蔡国庆胡兵好像闺蜜和敌蜜",
+      "onboard_time": 1696629435,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 126690,
+      "num": 106964,
+      "word": "全红婵和启蒙教练亚运赛场重逢",
+      "onboard_time": 1696633586,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 115501,
@@ -433,6 +473,14 @@
       "onboard_time": 1696594418,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107437,
+      "num": 107437,
+      "word": "男篮队长赵继伟赛后婉拒采访",
+      "onboard_time": 1696629557,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 105734,
@@ -467,12 +515,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 77510,
+      "num": 635374,
+      "word": "9招找回节后好状态",
+      "onboard_time": 1696598565,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 74851,
       "num": 74851,
       "word": "他从火光中走来结局",
       "onboard_time": 1696593696,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 73335,
+      "num": 219364,
+      "word": "追星者为女友送上一亿光年外的浪漫",
+      "onboard_time": 1696633586,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68439,
+      "num": 68439,
+      "word": "大熊猫在观众席吃瓜看戏",
+      "onboard_time": 1696631056,
+      "rank": 48,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 66788,
@@ -483,12 +555,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 58777,
-      "num": 58777,
-      "word": "男篮队长赵继伟赛后婉拒采访",
-      "onboard_time": 1696629557,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 65898,
+      "num": 65898,
+      "word": "交警对昏迷游客大喊不要睡",
+      "onboard_time": 1696634129,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62559,
+      "num": 62559,
+      "word": "Ella给Selina的儿子买礼物",
+      "onboard_time": 1696605279,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 57440,
@@ -499,28 +579,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 56716,
-      "num": 56716,
-      "word": "蔡国庆胡兵好像闺蜜和敌蜜",
-      "onboard_time": 1696629435,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 54207,
       "num": 54207,
       "word": "看看曾经的她是怎么呵护照顾你的",
       "onboard_time": 1696613360,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48411,
-      "num": 50177,
-      "word": "Ella给Selina的儿子买礼物",
-      "onboard_time": 1696605279,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 32669,
@@ -539,14 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26926,
-      "num": 526057,
-      "word": "9招找回节后好状态",
-      "onboard_time": 1696598565,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 26434,
       "num": 26434,
       "word": "王濛叫刘雨昕刘姐",
@@ -561,14 +617,6 @@
       "onboard_time": 1696585719,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26178,
-      "num": 34094,
-      "word": "大熊猫在观众席吃瓜看戏",
-      "onboard_time": 1696631056,
-      "rank": 48,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 18130,
