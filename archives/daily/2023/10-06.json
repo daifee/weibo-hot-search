@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696605525935,
+  "endTime": 1696606460373,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -169,6 +169,14 @@
       "onboard_time": 1696574614,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1463944,
+      "num": 1463944,
+      "word": "Taylor Swift The Eras Tour有望引进",
+      "onboard_time": 1696603424,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 1440796,
@@ -923,6 +931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 485265,
+      "num": 485265,
+      "word": "王楚然拍的天空",
+      "onboard_time": 1696601205,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484580,
       "num": 400518,
       "word": "朋友把身份证塞进手机后盖",
@@ -937,14 +953,6 @@
       "onboard_time": 1696588658,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482909,
-      "num": 482909,
-      "word": "王楚然拍的天空",
-      "onboard_time": 1696601205,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 481971,
@@ -1267,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360367,
+      "num": 616282,
+      "word": "爸爸带娃主打潦草",
+      "onboard_time": 1696601024,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359988,
       "num": 359988,
       "word": "黄景瑜说成毅很会扭",
@@ -1331,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353301,
+      "num": 353301,
+      "word": "弗格森妻子去世",
+      "onboard_time": 1696605105,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 352396,
       "num": 352396,
       "word": "宋轶加盟哎呀好身材5",
@@ -1345,6 +1369,14 @@
       "onboard_time": 1696599282,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350097,
+      "num": 350097,
+      "word": "喝咖啡上瘾对身体有害吗",
+      "onboard_time": 1696605580,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 347293,
@@ -1401,14 +1433,6 @@
       "onboard_time": 1696598380,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338514,
-      "num": 616282,
-      "word": "爸爸带娃主打潦草",
-      "onboard_time": 1696601024,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334311,
@@ -1489,6 +1513,14 @@
       "onboard_time": 1696522534,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 322301,
+      "num": 322301,
+      "word": "农家乐男孩回应揽客走红",
+      "onboard_time": 1696606419,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317350,
@@ -1683,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283614,
+      "num": 283614,
+      "word": "问界",
+      "onboard_time": 1696603183,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 282275,
       "num": 282275,
       "word": "巴黎路人镜头下的杨紫",
@@ -1763,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276202,
-      "num": 276202,
-      "word": "问界",
-      "onboard_time": 1696603183,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 275816,
       "num": 275816,
       "word": "刘同 精神容易崩溃的人有一个共同点",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1696602643,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271322,
+      "num": 271322,
+      "word": "问界新M7",
+      "onboard_time": 1696605222,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 270400,
@@ -1889,14 +1929,6 @@
       "onboard_time": 1696565734,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 260132,
-      "num": 260132,
-      "word": "弗格森妻子去世",
-      "onboard_time": 1696605105,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 259600,
@@ -2083,14 +2115,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230649,
-      "num": 230649,
-      "word": "问界新M7",
-      "onboard_time": 1696605222,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 230354,
       "num": 230354,
       "word": "大梦归离",
@@ -2139,6 +2163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224534,
+      "num": 224534,
+      "word": "奔跑中的刘浩存",
+      "onboard_time": 1696606178,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224464,
       "num": 224464,
       "word": "王楚钦单打",
@@ -2184,6 +2216,14 @@
       "word": "李玖哲老舅墙角抱头痛哭",
       "onboard_time": 1696581814,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 218395,
+      "num": 218395,
+      "word": "Ella给Selina的儿子买礼物",
+      "onboard_time": 1696605279,
+      "rank": 44,
       "category": "综艺"
     },
     {
@@ -2585,14 +2625,6 @@
       "onboard_time": 1696574256,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171907,
-      "num": 171907,
-      "word": "Ella给Selina的儿子买礼物",
-      "onboard_time": 1696605279,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 170068,

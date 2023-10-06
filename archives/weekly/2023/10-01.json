@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696605525935,
+  "endTime": 1696606460373,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1217,6 +1217,14 @@
       "onboard_time": 1696515758,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1463944,
+      "num": 1463944,
+      "word": "Taylor Swift The Eras Tour有望引进",
+      "onboard_time": 1696603424,
+      "rank": 4,
+      "category": "演出"
     },
     {
       "raw_hot": 1445502,
@@ -5059,6 +5067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 485265,
+      "num": 485265,
+      "word": "王楚然拍的天空",
+      "onboard_time": 1696601205,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 484688,
       "num": 318320,
       "word": "新郎是逃犯婚礼结束被带走",
@@ -5089,14 +5105,6 @@
       "onboard_time": 1696588658,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 482909,
-      "num": 482909,
-      "word": "王楚然拍的天空",
-      "onboard_time": 1696601205,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 482722,
@@ -6859,6 +6867,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 360367,
+      "num": 616282,
+      "word": "爸爸带娃主打潦草",
+      "onboard_time": 1696601024,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360138,
       "num": 360138,
       "word": "汪顺一节课曾游过12000米",
@@ -7043,6 +7059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 353301,
+      "num": 353301,
+      "word": "弗格森妻子去世",
+      "onboard_time": 1696605105,
+      "rank": 38,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 353280,
       "num": 353280,
       "word": "王楚钦第3金",
@@ -7129,6 +7153,14 @@
       "onboard_time": 1696337979,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350097,
+      "num": 350097,
+      "word": "喝咖啡上瘾对身体有害吗",
+      "onboard_time": 1696605580,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 350050,
@@ -7385,14 +7417,6 @@
       "onboard_time": 1696246235,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 338514,
-      "num": 616282,
-      "word": "爸爸带娃主打潦草",
-      "onboard_time": 1696601024,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336715,
@@ -7705,6 +7729,14 @@
       "onboard_time": 1696402175,
       "rank": 24,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 322301,
+      "num": 322301,
+      "word": "农家乐男孩回应揽客走红",
+      "onboard_time": 1696606419,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322171,
@@ -8851,6 +8883,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 283614,
+      "num": 283614,
+      "word": "问界",
+      "onboard_time": 1696603183,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 283560,
       "num": 283560,
       "word": "泰国枪击案",
@@ -9131,14 +9171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 276202,
-      "num": 276202,
-      "word": "问界",
-      "onboard_time": 1696603183,
-      "rank": 35,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 276070,
       "num": 240131,
       "word": "DOTA2项目",
@@ -9377,6 +9409,14 @@
       "onboard_time": 1696208852,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271322,
+      "num": 271322,
+      "word": "问界新M7",
+      "onboard_time": 1696605222,
+      "rank": 42,
+      "category": "汽车"
     },
     {
       "raw_hot": 271288,
@@ -9729,14 +9769,6 @@
       "onboard_time": 1696124673,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260132,
-      "num": 260132,
-      "word": "弗格森妻子去世",
-      "onboard_time": 1696605105,
-      "rank": 38,
-      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 260051,
@@ -10795,14 +10827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230649,
-      "num": 230649,
-      "word": "问界新M7",
-      "onboard_time": 1696605222,
-      "rank": 42,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 230354,
       "num": 230354,
       "word": "大梦归离",
@@ -11081,6 +11105,14 @@
       "onboard_time": 1696157133,
       "rank": 36,
       "category": "汽车,社会新闻"
+    },
+    {
+      "raw_hot": 224534,
+      "num": 224534,
+      "word": "奔跑中的刘浩存",
+      "onboard_time": 1696606178,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 224470,
@@ -11377,6 +11409,14 @@
       "onboard_time": 1696235373,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218395,
+      "num": 218395,
+      "word": "Ella给Selina的儿子买礼物",
+      "onboard_time": 1696605279,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 218229,
@@ -13905,14 +13945,6 @@
       "onboard_time": 1696342180,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171907,
-      "num": 171907,
-      "word": "Ella给Selina的儿子买礼物",
-      "onboard_time": 1696605279,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 171281,
