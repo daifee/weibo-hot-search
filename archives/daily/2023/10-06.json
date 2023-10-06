@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696601803887,
+  "endTime": 1696602898712,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1987291,
+      "num": 1987291,
+      "word": "女孩买胸贴女店员叠小票保护隐私",
+      "onboard_time": 1696601024,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1923748,
       "num": 1923748,
       "word": "上海4岁女童海滩走失父亲发声",
@@ -107,7 +115,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1869806,
+      "raw_hot": 1917516,
       "num": 539111,
       "word": "李钟硕颜值回春",
       "onboard_time": 1696599463,
@@ -121,6 +129,14 @@
       "onboard_time": 1696549586,
       "rank": 0,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1760576,
+      "num": 1760576,
+      "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+      "onboard_time": 1696600182,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1624973,
@@ -139,8 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1488700,
-      "num": 1246631,
+      "raw_hot": 1516776,
+      "num": 1516776,
       "word": "上海失踪4岁女童母亲发声",
       "onboard_time": 1696583733,
       "rank": 25,
@@ -235,14 +251,6 @@
       "category": "美食,知识科普"
     },
     {
-      "raw_hot": 1209541,
-      "num": 650580,
-      "word": "官方通报已婚女子陪领导喝酒醉卧街头",
-      "onboard_time": 1696600182,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1192543,
       "num": 481920,
       "word": "赵丽颖为陆毅关智斌打call",
@@ -291,8 +299,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1034119,
-      "num": 1034119,
+      "raw_hot": 1054056,
+      "num": 1054056,
       "word": "迪丽热巴 万渣朝凰",
       "onboard_time": 1696599106,
       "rank": 35,
@@ -403,14 +411,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 908123,
-      "num": 908123,
-      "word": "女孩买胸贴女店员叠小票保护隐私",
-      "onboard_time": 1696601024,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 898003,
       "num": 898003,
       "word": "韩素希和车银优一起拍广告了",
@@ -457,6 +457,14 @@
       "onboard_time": 1696574974,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 841722,
+      "num": 841722,
+      "word": "万渣朝凰",
+      "onboard_time": 1696600967,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 835342,
@@ -803,12 +811,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 565940,
-      "num": 565940,
-      "word": "万渣朝凰",
-      "onboard_time": 1696600967,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 559022,
+      "num": 559022,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 558734,
@@ -851,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 532339,
-      "num": 532339,
-      "word": "半夜醒来时不要看时间",
-      "onboard_time": 1696598380,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 525010,
       "num": 480656,
       "word": "这是属于小说圈的美貌吧",
@@ -897,6 +897,14 @@
       "onboard_time": 1696575996,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 485498,
+      "num": 485498,
+      "word": "王楚钦带着高原反应打球",
+      "onboard_time": 1696601385,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 484580,
@@ -995,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450966,
+      "num": 450966,
+      "word": "马天宇养了两个月的鹌鹑",
+      "onboard_time": 1696601385,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 445367,
       "num": 445367,
       "word": "苹果升级系统后充电温度可降7.4度",
@@ -1017,6 +1033,14 @@
       "onboard_time": 1696584156,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 440095,
+      "num": 440095,
+      "word": "王楚然拍的天空",
+      "onboard_time": 1696601205,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 430644,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1696550668,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390046,
+      "num": 390046,
+      "word": "妈妈用了30年的洗澡盆",
+      "onboard_time": 1696600545,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 386399,
@@ -1235,14 +1267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 358886,
-      "num": 358886,
-      "word": "妈妈用了30年的洗澡盆",
-      "onboard_time": 1696600545,
-      "rank": 29,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 358648,
       "num": 358648,
       "word": "王耀庆 组队",
@@ -1281,6 +1305,14 @@
       "onboard_time": 1696575453,
       "rank": 23,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 353490,
+      "num": 353490,
+      "word": "日本女足vs朝鲜女足",
+      "onboard_time": 1696601324,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 352396,
@@ -1395,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 327540,
-      "num": 327540,
-      "word": "王楚然拍的天空",
-      "onboard_time": 1696601205,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 326537,
       "num": 326537,
       "word": "于文文当预言家睡过头了",
@@ -1456,14 +1480,6 @@
       "word": "陈雨菲逆转进决赛",
       "onboard_time": 1696593696,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 311670,
-      "num": 311670,
-      "word": "王楚钦带着高原反应打球",
-      "onboard_time": 1696601385,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -1627,19 +1643,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283299,
-      "num": 283299,
-      "word": "日本女足vs朝鲜女足",
-      "onboard_time": 1696601324,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280977,
       "num": 280977,
       "word": "为什么情侣要看前任4",
       "onboard_time": 1696519058,
       "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 280743,
+      "num": 280743,
+      "word": "张颂文让魏大勋帮忙取话筒太会了",
+      "onboard_time": 1696595798,
+      "rank": 32,
       "category": "电影"
     },
     {
@@ -1651,12 +1667,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 279900,
-      "num": 279900,
-      "word": "马天宇养了两个月的鹌鹑",
-      "onboard_time": 1696601385,
-      "rank": 36,
-      "category": "艺人"
+      "raw_hot": 279917,
+      "num": 279917,
+      "word": "祝子杰从脖子红到耳朵",
+      "onboard_time": 1696601748,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 278555,
@@ -1697,14 +1713,6 @@
       "onboard_time": 1696595140,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276729,
-      "num": 276729,
-      "word": "张颂文让魏大勋帮忙取话筒太会了",
-      "onboard_time": 1696595798,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 275816,
@@ -1867,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248070,
+      "num": 248070,
+      "word": "孤注一掷组团来看张艺兴演唱会",
+      "onboard_time": 1696599580,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246833,
       "num": 246833,
       "word": "林高远3比1波尔",
@@ -1881,14 +1897,6 @@
       "onboard_time": 1696572996,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245296,
-      "num": 245296,
-      "word": "孤注一掷组团来看张艺兴演唱会",
-      "onboard_time": 1696599580,
-      "rank": 40,
-      "category": "演出"
     },
     {
       "raw_hot": 244715,
@@ -2259,14 +2267,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 198307,
-      "num": 198307,
-      "word": "祝子杰从脖子红到耳朵",
-      "onboard_time": 1696601748,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 196339,
       "num": 196339,
       "word": "京城大师赛",
@@ -2419,20 +2419,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 185111,
+      "num": 185111,
+      "word": "侯明昊 娱乐圈体育生",
+      "onboard_time": 1696599343,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183995,
       "num": 183995,
       "word": "来欣赏本期陈楚生霸总语录",
       "onboard_time": 1696580735,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183671,
-      "num": 183671,
-      "word": "侯明昊 娱乐圈体育生",
-      "onboard_time": 1696599343,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 182970,
@@ -2731,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138595,
+      "num": 154145,
+      "word": "亚运冠军华天的祖父是空军首批飞行员",
+      "onboard_time": 1696602881,
+      "rank": 49,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 137575,
       "num": 612517,
       "word": "谭棉花组合一起玩滑梯",
@@ -2843,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115716,
+      "num": 411874,
+      "word": "中国队锁定羽毛球男单金牌",
+      "onboard_time": 1696602643,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112388,
       "num": 112388,
       "word": "恩比德代表美国出战奥运会",
@@ -2892,7 +2908,7 @@
     },
     {
       "raw_hot": 98402,
-      "num": 1580284,
+      "num": 1799612,
       "word": "秋日里的中国大地有多少种色彩",
       "onboard_time": 1696598623,
       "rank": 2,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1696602898712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3849419,
+        "num": 3849419,
+        "word": "他从火光中走来 男主死了",
+        "onboard_time": 1696594058,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1987291,
+        "num": 1987291,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91319,
+        "num": 1799612,
+        "word": "秋日里的中国大地有多少种色彩",
+        "onboard_time": 1696598623,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1760576,
+        "num": 1760576,
+        "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+        "onboard_time": 1696600182,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1516776,
+        "num": 1516776,
+        "word": "上海失踪4岁女童母亲发声",
+        "onboard_time": 1696583733,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1054056,
+        "num": 1054056,
+        "word": "迪丽热巴 万渣朝凰",
+        "onboard_time": 1696599106,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 996036,
+        "num": 996036,
+        "word": "老乡鸡",
+        "onboard_time": 1696596760,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 867872,
+        "num": 867872,
+        "word": "儿子说朋友挂了被父亲举报吸毒",
+        "onboard_time": 1696593457,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841722,
+        "num": 841722,
+        "word": "万渣朝凰",
+        "onboard_time": 1696600967,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 794822,
+        "num": 794822,
+        "word": "金价连续下跌",
+        "onboard_time": 1696585172,
+        "rank": 9,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 737247,
+        "num": 737247,
+        "word": "黄景瑜和网友决战紫禁之巅",
+        "onboard_time": 1696599705,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 559022,
+        "num": 559022,
+        "word": "半夜醒来时不要看时间",
+        "onboard_time": 1696598380,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 547533,
+        "num": 547533,
+        "word": "冯琳好优秀",
+        "onboard_time": 1696600003,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267590,
+        "num": 536369,
+        "word": "爸爸带娃主打潦草",
+        "onboard_time": 1696601024,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218077,
+        "num": 532843,
+        "word": "中国男篮季军",
+        "onboard_time": 1696585719,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530305,
+        "num": 530305,
+        "word": "韩素希不能当爱豆的原因",
+        "onboard_time": 1696599946,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523925,
+        "num": 523925,
+        "word": "张艺兴太会了",
+        "onboard_time": 1696599763,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 487364,
+        "num": 487364,
+        "word": "上海警方通报4岁女童在海边走失",
+        "onboard_time": 1696582356,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485498,
+        "num": 485498,
+        "word": "王楚钦带着高原反应打球",
+        "onboard_time": 1696601385,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468387,
+        "num": 468387,
+        "word": "王丽坤戴面具32集终于摘掉了",
+        "onboard_time": 1696595858,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1917516,
+        "num": 466492,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1696599463,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463345,
+        "num": 463345,
+        "word": "黄景瑜 男主没有死",
+        "onboard_time": 1696597063,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 450966,
+        "num": 450966,
+        "word": "马天宇养了两个月的鹌鹑",
+        "onboard_time": 1696601385,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440095,
+        "num": 440095,
+        "word": "王楚然拍的天空",
+        "onboard_time": 1696601205,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115716,
+        "num": 411874,
+        "word": "中国队锁定羽毛球男单金牌",
+        "onboard_time": 1696602643,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 409361,
+        "num": 409361,
+        "word": "女童走失海滩曾有人被潮水卷走",
+        "onboard_time": 1696595559,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396636,
+        "num": 396636,
+        "word": "测评博主吐槽王鹤棣潮牌",
+        "onboard_time": 1696595499,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390046,
+        "num": 390046,
+        "word": "妈妈用了30年的洗澡盆",
+        "onboard_time": 1696600545,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 365500,
+        "num": 365500,
+        "word": "老师订10余套演出服用完立马退货",
+        "onboard_time": 1696600363,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353490,
+        "num": 353490,
+        "word": "日本女足vs朝鲜女足",
+        "onboard_time": 1696601324,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 333946,
+        "num": 333946,
+        "word": "博格巴兴奋剂复检阳性",
+        "onboard_time": 1696599282,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332453,
+        "num": 332453,
+        "word": "贝嫂 我家也是工薪阶层",
+        "onboard_time": 1696586558,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329727,
+        "num": 329727,
+        "word": "主持人大赛",
+        "onboard_time": 1696595739,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329306,
+        "num": 329306,
+        "word": "日本海鲜滞销堆积成山",
+        "onboard_time": 1696592498,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294342,
+        "num": 294342,
+        "word": "姚明回应被称作226",
+        "onboard_time": 1696598380,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280743,
+        "num": 280743,
+        "word": "张颂文让魏大勋帮忙取话筒太会了",
+        "onboard_time": 1696595798,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279917,
+        "num": 279917,
+        "word": "祝子杰从脖子红到耳朵",
+        "onboard_time": 1696601748,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274073,
+        "num": 274073,
+        "word": "Super Shy",
+        "onboard_time": 1696588000,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263916,
+        "num": 263916,
+        "word": "蓝天救援队公布疑似女童走失前视频",
+        "onboard_time": 1696589080,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248070,
+        "num": 248070,
+        "word": "孤注一掷组团来看张艺兴演唱会",
+        "onboard_time": 1696599580,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 246383,
+        "num": 246383,
+        "word": "王楚钦吸氧",
+        "onboard_time": 1696589799,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229395,
+        "num": 229395,
+        "word": "他从火光中走来结局",
+        "onboard_time": 1696593696,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210491,
+        "num": 210491,
+        "word": "沈梦辰秒答迪丽热巴",
+        "onboard_time": 1696594418,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196355,
+        "num": 196355,
+        "word": "孙颖莎3比0田志希",
+        "onboard_time": 1696599282,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185111,
+        "num": 185111,
+        "word": "侯明昊 娱乐圈体育生",
+        "onboard_time": 1696599343,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182523,
+        "num": 182523,
+        "word": "田曦薇小猫你好",
+        "onboard_time": 1696598565,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178784,
+        "num": 178784,
+        "word": "林陆骁南初",
+        "onboard_time": 1696598441,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166223,
+        "num": 166223,
+        "word": "王楚钦3比0安宰贤",
+        "onboard_time": 1696597723,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162734,
+        "num": 162734,
+        "word": "大张伟台湾腔太好笑了",
+        "onboard_time": 1696593397,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138595,
+        "num": 154145,
+        "word": "亚运冠军华天的祖父是空军首批飞行员",
+        "onboard_time": 1696602881,
+        "rank": 49,
+        "category": "体育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#以体育促和平将亚洲打造成世界和平的稳定锚#"
+    }
+  }
+}
