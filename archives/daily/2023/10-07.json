@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696610305896,
+  "endTime": 1696612535595,
   "band_list": [
     {
       "raw_hot": 1307877,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 838379,
+      "num": 838379,
+      "word": "定闹钟",
+      "onboard_time": 1696607673,
+      "rank": 7,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 809756,
       "num": 319529,
       "word": "李钟硕颜值回春",
@@ -57,14 +65,6 @@
       "onboard_time": 1696603424,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 725530,
-      "num": 725530,
-      "word": "定闹钟",
-      "onboard_time": 1696607673,
-      "rank": 7,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 653048,
@@ -315,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162397,
+      "num": 162397,
+      "word": "杨天真 不要死磕一个东西",
+      "onboard_time": 1696611086,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157683,
+      "num": 119012,
+      "word": "男子中秋夜闯入邻居家枪击行凶",
+      "onboard_time": 1696611385,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157336,
       "num": 157336,
       "word": "冯琳好优秀",
@@ -337,6 +353,14 @@
       "onboard_time": 1696582356,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143295,
+      "num": 143295,
+      "word": "覃海洋 柏林",
+      "onboard_time": 1696612163,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 139663,
@@ -417,6 +441,30 @@
       "onboard_time": 1696610248,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94520,
+      "num": 94520,
+      "word": "林俊杰周深合唱裹着心的光",
+      "onboard_time": 1696611804,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 74851,
+      "num": 74851,
+      "word": "他从火光中走来结局",
+      "onboard_time": 1696593696,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 66788,
+      "num": 66788,
+      "word": "Super Shy",
+      "onboard_time": 1696588000,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 57440,

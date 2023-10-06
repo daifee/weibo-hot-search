@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696610305896,
+  "endTime": 1696612535595,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2651,6 +2651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 838379,
+      "num": 838379,
+      "word": "定闹钟",
+      "onboard_time": 1696607673,
+      "rank": 7,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 835342,
       "num": 342105,
       "word": "女子做职业伴娘国庆8天8场婚礼",
@@ -3169,14 +3177,6 @@
       "onboard_time": 1696415073,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 725530,
-      "num": 725530,
-      "word": "定闹钟",
-      "onboard_time": 1696607673,
-      "rank": 7,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 723979,
@@ -14395,6 +14395,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 162397,
+      "num": 162397,
+      "word": "杨天真 不要死磕一个东西",
+      "onboard_time": 1696611086,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162272,
       "num": 162272,
       "word": "Ame和Maybe一起夺冠",
@@ -14641,6 +14649,14 @@
       "onboard_time": 1696314692,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157683,
+      "num": 119012,
+      "word": "男子中秋夜闯入邻居家枪击行凶",
+      "onboard_time": 1696611385,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157498,
@@ -15249,6 +15265,14 @@
       "onboard_time": 1696290326,
       "rank": 42,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 143295,
+      "num": 143295,
+      "word": "覃海洋 柏林",
+      "onboard_time": 1696612163,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 143202,
@@ -16433,6 +16457,14 @@
       "onboard_time": 1696374440,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94520,
+      "num": 94520,
+      "word": "林俊杰周深合唱裹着心的光",
+      "onboard_time": 1696611804,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 93703,
