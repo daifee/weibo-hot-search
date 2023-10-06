@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696580510364,
+  "endTime": 1696581290439,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -73,6 +73,14 @@
       "onboard_time": 1696574614,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1604609,
+      "num": 1604609,
+      "word": "南阳女主持人含泪控诉",
+      "onboard_time": 1696579774,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1411394,
@@ -339,6 +347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 723161,
+      "num": 723161,
+      "word": "中国男篮vs中国台北男篮",
+      "onboard_time": 1696580974,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 719835,
       "num": 719835,
       "word": "南阳官方通报音乐节盗窃事件",
@@ -377,14 +393,6 @@
       "onboard_time": 1696553612,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 693054,
-      "num": 693054,
-      "word": "南阳女主持人含泪控诉",
-      "onboard_time": 1696579774,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 669683,
@@ -739,6 +747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355100,
+      "num": 343438,
+      "word": "张小斐有一种情绪稳定的美",
+      "onboard_time": 1696579354,
+      "rank": 19,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353495,
       "num": 334401,
       "word": "迪丽热巴巴黎新合照",
@@ -811,6 +827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 328485,
+      "num": 291560,
+      "word": "12306回应乘客挤不上车被滞留站台",
+      "onboard_time": 1696580494,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326537,
       "num": 326537,
       "word": "于文文当预言家睡过头了",
@@ -857,14 +881,6 @@
       "onboard_time": 1696508194,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 309244,
-      "num": 309244,
-      "word": "张小斐有一种情绪稳定的美",
-      "onboard_time": 1696579354,
-      "rank": 19,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 309228,
@@ -1211,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234989,
+      "num": 234989,
+      "word": "韩旭和武大靖约冰壶一起拖地",
+      "onboard_time": 1696580316,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230804,
       "num": 230804,
       "word": "王诗玥柳鑫宇完美演绎不完美小孩",
@@ -1363,14 +1387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 201006,
-      "num": 201006,
-      "word": "韩旭和武大靖约冰壶一起拖地",
-      "onboard_time": 1696580316,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 200539,
       "num": 200539,
       "word": "Fact Check",
@@ -1497,6 +1513,14 @@
       "onboard_time": 1696551752,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183995,
+      "num": 183995,
+      "word": "来欣赏本期陈楚生霸总语录",
+      "onboard_time": 1696580735,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 182970,
@@ -1651,14 +1675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 148728,
-      "num": 148728,
-      "word": "12306回应乘客挤不上车被滞留站台",
-      "onboard_time": 1696580494,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 146939,
       "num": 146939,
       "word": "特工任务国安科长成为保护伞",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1696510478,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137069,
+      "num": 137069,
+      "word": "和大家快乐躲雨的辅警找到了",
+      "onboard_time": 1696578096,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136879,
@@ -1803,20 +1827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126980,
+      "num": 317593,
+      "word": "丘妈在亚运村睡太好想赖床",
+      "onboard_time": 1696578096,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122027,
       "num": 122027,
       "word": "游客坠落山腰消防3小时轮流背下山",
       "onboard_time": 1696577255,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118862,
-      "num": 317593,
-      "word": "丘妈在亚运村睡太好想赖床",
-      "onboard_time": 1696578096,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 112388,
