@@ -1,0 +1,410 @@
+{
+  "runTime": 1696584860096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4510919,
+        "num": 4510919,
+        "word": "上海警方通报4岁女童在海边走失",
+        "onboard_time": 1696582356,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2197574,
+        "num": 2197574,
+        "word": "南阳女主持人含泪控诉",
+        "onboard_time": 1696579774,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103639,
+        "num": 1739501,
+        "word": "返程行李箱满载快乐与爱",
+        "onboard_time": 1696581574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1606937,
+        "num": 1606937,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 919776,
+        "num": 919776,
+        "word": "中国女足亚运会铜牌",
+        "onboard_time": 1696583615,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 776893,
+        "num": 776893,
+        "word": "王栎鑫去了趟厕所天都变了",
+        "onboard_time": 1696574614,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 772539,
+        "num": 772539,
+        "word": "中国女足7比0胜乌兹别克斯坦队",
+        "onboard_time": 1696583433,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 734195,
+        "num": 734195,
+        "word": "中国男篮vs中国台北男篮",
+        "onboard_time": 1696580974,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626692,
+        "num": 626692,
+        "word": "日本流水面致892人中毒",
+        "onboard_time": 1696570113,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408591,
+        "num": 408591,
+        "word": "Jennie新歌封面是武内直子画的",
+        "onboard_time": 1696563096,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 448678,
+        "num": 405601,
+        "word": "追星的人下班后最幸福的事",
+        "onboard_time": 1696582294,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384886,
+        "num": 384886,
+        "word": "王牌对王牌",
+        "onboard_time": 1696574554,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384752,
+        "num": 384752,
+        "word": "迷笛志愿者丢手机被男子捡走报警追回",
+        "onboard_time": 1696581634,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379836,
+        "num": 379836,
+        "word": "假期前7天国内旅游收入6680.9亿",
+        "onboard_time": 1696583677,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370729,
+        "num": 370729,
+        "word": "王楚钦孙颖莎出战混双",
+        "onboard_time": 1696583078,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 375226,
+        "num": 370365,
+        "word": "经期不能做的6件事",
+        "onboard_time": 1696573773,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 367583,
+        "num": 367583,
+        "word": "孙俪邓超去了四年前去过的海边",
+        "onboard_time": 1696577854,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359178,
+        "num": 359178,
+        "word": "赵丽颖新自拍",
+        "onboard_time": 1696584514,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341017,
+        "num": 341017,
+        "word": "张译的微博好严谨",
+        "onboard_time": 1696577974,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338866,
+        "num": 338866,
+        "word": "易烊千玺牛仔叠穿",
+        "onboard_time": 1696568314,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 618665,
+        "num": 335596,
+        "word": "12306回应乘客挤不上车被滞留站台",
+        "onboard_time": 1696580494,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618251,
+        "num": 333034,
+        "word": "两干部流出不雅视频被停职",
+        "onboard_time": 1696571793,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329047,
+        "num": 329047,
+        "word": "假期前7天7.54亿人次出游",
+        "onboard_time": 1696583915,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313030,
+        "num": 313030,
+        "word": "毛晓彤好甜一个妹妹",
+        "onboard_time": 1696584156,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310107,
+        "num": 310107,
+        "word": "长相思演唱会要来了",
+        "onboard_time": 1696574374,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295944,
+        "num": 295944,
+        "word": "上海失踪4岁女童母亲发声",
+        "onboard_time": 1696583733,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287249,
+        "num": 287249,
+        "word": "宋亚轩王牌对王牌多巴胺套装",
+        "onboard_time": 1696582654,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278888,
+        "num": 278888,
+        "word": "38岁女老师被骗400万仍想和骗子结婚",
+        "onboard_time": 1696575754,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244164,
+        "num": 244164,
+        "word": "中国男篮半场落后中国台北3分",
+        "onboard_time": 1696583855,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234312,
+        "num": 234312,
+        "word": "张小斐有一种情绪稳定的美",
+        "onboard_time": 1696579354,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229782,
+        "num": 229782,
+        "word": "IVE空降",
+        "onboard_time": 1696568974,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 225410,
+        "num": 225410,
+        "word": "新疆滤镜下素颜就很能打",
+        "onboard_time": 1696577675,
+        "rank": 31,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 213760,
+        "num": 213760,
+        "word": "赵丽颖为陆毅关智斌打call",
+        "onboard_time": 1696567774,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208598,
+        "num": 208598,
+        "word": "杨紫巴黎游记怼脸拍",
+        "onboard_time": 1696584333,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199267,
+        "num": 199267,
+        "word": "搜寻人员回应4岁半女童海滩失踪",
+        "onboard_time": 1696584156,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197605,
+        "num": 197605,
+        "word": "陈飞宇首次回应弄丢妖猫传的猫",
+        "onboard_time": 1696560033,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190495,
+        "num": 190495,
+        "word": "中国科学家发现战略性关键金属新矿物",
+        "onboard_time": 1696581696,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185775,
+        "num": 185775,
+        "word": "杭州亚运会来了",
+        "onboard_time": 1696584033,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177037,
+        "num": 177037,
+        "word": "李玖哲老舅墙角抱头痛哭",
+        "onboard_time": 1696581814,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175906,
+        "num": 175906,
+        "word": "苏炳添竟然不是田径队第一翘臀",
+        "onboard_time": 1696572515,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167764,
+        "num": 167764,
+        "word": "她一辈子是林双的小狐狸",
+        "onboard_time": 1696570413,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167520,
+        "num": 167520,
+        "word": "中国女足两球领先",
+        "onboard_time": 1696584033,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167357,
+        "num": 167357,
+        "word": "黄晓明 谁不是在强颜欢笑",
+        "onboard_time": 1696579476,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153851,
+        "num": 153851,
+        "word": "和韩国室友撕到校方出面",
+        "onboard_time": 1696575814,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153238,
+        "num": 153238,
+        "word": "周润发谈韩国电影的竞争力",
+        "onboard_time": 1696575996,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145381,
+        "num": 145381,
+        "word": "王耀庆 组队",
+        "onboard_time": 1696578394,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143874,
+        "num": 143874,
+        "word": "迪丽热巴巴黎新合照",
+        "onboard_time": 1696575453,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 138501,
+        "num": 138501,
+        "word": "中国女足队员集体向水庆霞鞠躬",
+        "onboard_time": 1696584814,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134896,
+        "num": 134896,
+        "word": "Jennie个人单曲音源上线",
+        "onboard_time": 1696567897,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126662,
+        "num": 126662,
+        "word": "到底是谁在喜欢吃珍珠",
+        "onboard_time": 1696577675,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#铆足干劲勇毅前行#"
+    }
+  }
+}
