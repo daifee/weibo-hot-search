@@ -1,0 +1,410 @@
+{
+  "runTime": 1696592044567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6477716,
+        "num": 6477716,
+        "word": "上海警方通报4岁女童在海边走失",
+        "onboard_time": 1696582356,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2435213,
+        "num": 2435213,
+        "word": "王楚钦吸氧",
+        "onboard_time": 1696589799,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150042,
+        "num": 1605325,
+        "word": "返程行李箱满载快乐与爱",
+        "onboard_time": 1696581574,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1603464,
+        "num": 1603464,
+        "word": "金价连续下跌",
+        "onboard_time": 1696585172,
+        "rank": 3,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 654831,
+        "num": 1275422,
+        "word": "王楚钦孙颖莎出战混双",
+        "onboard_time": 1696583078,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1215788,
+        "num": 1215788,
+        "word": "上海失踪4岁女童母亲发声",
+        "onboard_time": 1696583733,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310256,
+        "num": 1004994,
+        "word": "民警捡身份证归还时开启唠叨模式",
+        "onboard_time": 1696589198,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953026,
+        "num": 953026,
+        "word": "贝嫂 我家也是工薪阶层",
+        "onboard_time": 1696586558,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 880804,
+        "num": 880804,
+        "word": "蓝天救援队公布疑似女童走失前视频",
+        "onboard_time": 1696589080,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838801,
+        "num": 838801,
+        "word": "Super Shy",
+        "onboard_time": 1696588000,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 707120,
+        "num": 707120,
+        "word": "追星爽文",
+        "onboard_time": 1696588360,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594419,
+        "num": 594419,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422057,
+        "num": 531492,
+        "word": "泰国14岁枪手被转往精神病院",
+        "onboard_time": 1696588658,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313019,
+        "num": 520756,
+        "word": "中国男篮季军",
+        "onboard_time": 1696585719,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88754,
+        "num": 517954,
+        "word": "龚莉又飒又美",
+        "onboard_time": 1696590039,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516046,
+        "num": 516046,
+        "word": "魏大勋因为嗨放派被陈凯歌选中",
+        "onboard_time": 1696591478,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499490,
+        "num": 499490,
+        "word": "避免社交我在高铁上假装韩国人",
+        "onboard_time": 1696586617,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 405369,
+        "num": 405369,
+        "word": "中国女排vs泰国女排",
+        "onboard_time": 1696591720,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400265,
+        "num": 400265,
+        "word": "赵继伟哭了",
+        "onboard_time": 1696589382,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 353935,
+        "num": 353935,
+        "word": "王栎鑫去了趟厕所天都变了",
+        "onboard_time": 1696574614,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357834,
+        "num": 352158,
+        "word": "头一次吃了有文化的亏",
+        "onboard_time": 1696588479,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343307,
+        "num": 343307,
+        "word": "老乡鸡豪掷五千万发福利",
+        "onboard_time": 1696591838,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 333861,
+        "num": 333861,
+        "word": "室友要在寝室养病",
+        "onboard_time": 1696591000,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 330245,
+        "num": 330245,
+        "word": "日本流水面致892人中毒",
+        "onboard_time": 1696570113,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314897,
+        "num": 314897,
+        "word": "南阳女主持人含泪控诉",
+        "onboard_time": 1696579774,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129288,
+        "num": 313145,
+        "word": "外国运动员体验亚运五件套",
+        "onboard_time": 1696586797,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312253,
+        "num": 312253,
+        "word": "苏醒在线吃瓜",
+        "onboard_time": 1696588836,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309601,
+        "num": 309601,
+        "word": "中国篮球2金1铜收官",
+        "onboard_time": 1696590338,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290921,
+        "num": 290921,
+        "word": "赵丽颖新自拍",
+        "onboard_time": 1696584514,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281295,
+        "num": 281295,
+        "word": "两干部流出不雅视频被停职",
+        "onboard_time": 1696571793,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230354,
+        "num": 230354,
+        "word": "大梦归离",
+        "onboard_time": 1696588897,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221784,
+        "num": 221784,
+        "word": "赵睿说给大家添堵了",
+        "onboard_time": 1696590760,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214759,
+        "num": 214759,
+        "word": "毛晓彤好甜一个妹妹",
+        "onboard_time": 1696584156,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209145,
+        "num": 209145,
+        "word": "五月天演唱会",
+        "onboard_time": 1696590280,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195934,
+        "num": 208685,
+        "word": "假期前7天7.54亿人次出游",
+        "onboard_time": 1696583915,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208578,
+        "num": 208578,
+        "word": "38岁女老师被骗400万仍想和骗子结婚",
+        "onboard_time": 1696575754,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206371,
+        "num": 206371,
+        "word": "刘亦菲和熊",
+        "onboard_time": 1696592018,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205951,
+        "num": 205951,
+        "word": "长相思演唱会要来了",
+        "onboard_time": 1696574374,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203289,
+        "num": 203289,
+        "word": "陈凯歌回应选角预言家",
+        "onboard_time": 1696591776,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203114,
+        "num": 203114,
+        "word": "中国台北男篮台湾腔夸中国队",
+        "onboard_time": 1696589438,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199266,
+        "num": 199266,
+        "word": "周雨彤明艳风",
+        "onboard_time": 1696587517,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 194834,
+        "num": 194834,
+        "word": "中秋国庆假期国内8.26亿人次出游",
+        "onboard_time": 1696590039,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181508,
+        "num": 181508,
+        "word": "12306回应乘客挤不上车被滞留站台",
+        "onboard_time": 1696580494,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181472,
+        "num": 181472,
+        "word": "羽毛球混双",
+        "onboard_time": 1696588836,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171119,
+        "num": 171119,
+        "word": "孙彩瑛 MELODY PROJECT COVER",
+        "onboard_time": 1696590338,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 169300,
+        "num": 169300,
+        "word": "经期不能做的6件事",
+        "onboard_time": 1696573773,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 168297,
+        "num": 168297,
+        "word": "杨幂时装周隐藏造型",
+        "onboard_time": 1696586677,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161924,
+        "num": 161924,
+        "word": "张译的微博好严谨",
+        "onboard_time": 1696577974,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160812,
+        "num": 160812,
+        "word": "孙俪邓超去了四年前去过的海边",
+        "onboard_time": 1696577854,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159022,
+        "num": 159022,
+        "word": "普通人能把生活过得多精彩",
+        "onboard_time": 1696590161,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#以体育促和平将亚洲打造成世界和平的稳定锚#"
+    }
+  }
+}

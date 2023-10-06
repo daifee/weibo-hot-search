@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696590877649,
+  "endTime": 1696592044567,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -17,6 +17,14 @@
       "onboard_time": 1696579774,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2435213,
+      "num": 2435213,
+      "word": "王楚钦吸氧",
+      "onboard_time": 1696589799,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2347720,
@@ -73,14 +81,6 @@
       "onboard_time": 1696562853,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1873003,
-      "num": 1873003,
-      "word": "王楚钦吸氧",
-      "onboard_time": 1696589799,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1834681,
@@ -644,7 +644,7 @@
     },
     {
       "raw_hot": 555774,
-      "num": 495355,
+      "num": 499490,
       "word": "避免社交我在高铁上假装韩国人",
       "onboard_time": 1696586617,
       "rank": 30,
@@ -665,6 +665,14 @@
       "onboard_time": 1696559974,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 516046,
+      "num": 516046,
+      "word": "魏大勋因为嗨放派被陈凯歌选中",
+      "onboard_time": 1696591478,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 513572,
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 483339,
-      "num": 483339,
+      "num": 531492,
       "word": "泰国14岁枪手被转往精神病院",
       "onboard_time": 1696588658,
       "rank": 16,
@@ -825,6 +833,14 @@
       "onboard_time": 1696588836,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 405369,
+      "num": 405369,
+      "word": "中国女排vs泰国女排",
+      "onboard_time": 1696591720,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 402914,
@@ -1035,6 +1051,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 343307,
+      "num": 343307,
+      "word": "老乡鸡豪掷五千万发福利",
+      "onboard_time": 1696591838,
+      "rank": 21,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 333861,
+      "num": 333861,
+      "word": "室友要在寝室养病",
+      "onboard_time": 1696591000,
+      "rank": 22,
+      "category": "其它"
+    },
+    {
       "raw_hot": 332539,
       "num": 332539,
       "word": "眼睛一闭就养肝",
@@ -1105,6 +1137,14 @@
       "onboard_time": 1696508194,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309601,
+      "num": 309601,
+      "word": "中国篮球2金1铜收官",
+      "onboard_time": 1696590338,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 309228,
@@ -1257,14 +1297,6 @@
       "onboard_time": 1696520794,
       "rank": 22,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 278641,
-      "num": 278641,
-      "word": "中国篮球2金1铜收官",
-      "onboard_time": 1696590338,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 278555,
@@ -1555,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230354,
+      "num": 230354,
+      "word": "大梦归离",
+      "onboard_time": 1696588897,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229388,
       "num": 229388,
       "word": "关晓彤韩东君拍海报手忙脚乱",
@@ -1603,6 +1643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221784,
+      "num": 221784,
+      "word": "赵睿说给大家添堵了",
+      "onboard_time": 1696590760,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220621,
       "num": 220621,
       "word": "中秋国庆假期国内8.26亿人次出游",
@@ -1625,14 +1673,6 @@
       "onboard_time": 1696581814,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216912,
-      "num": 216912,
-      "word": "大梦归离",
-      "onboard_time": 1696588897,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 213205,
@@ -1675,12 +1715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209145,
+      "num": 209145,
+      "word": "五月天演唱会",
+      "onboard_time": 1696590280,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208225,
       "num": 208225,
       "word": "王曼昱3比2陈熠",
       "onboard_time": 1696578394,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206371,
+      "num": 206371,
+      "word": "刘亦菲和熊",
+      "onboard_time": 1696592018,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 205565,
@@ -1697,6 +1753,14 @@
       "onboard_time": 1696558474,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 203289,
+      "num": 203289,
+      "word": "陈凯歌回应选角预言家",
+      "onboard_time": 1696591776,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 203180,
@@ -1721,14 +1785,6 @@
       "onboard_time": 1696568374,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201137,
-      "num": 201137,
-      "word": "五月天演唱会",
-      "onboard_time": 1696590280,
-      "rank": 36,
-      "category": "演出"
     },
     {
       "raw_hot": 200539,
@@ -2019,14 +2075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163531,
-      "num": 163531,
-      "word": "赵睿说给大家添堵了",
-      "onboard_time": 1696590760,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162770,
       "num": 162770,
       "word": "王楚钦孙颖莎",
@@ -2059,20 +2107,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159022,
+      "num": 159022,
+      "word": "普通人能把生活过得多精彩",
+      "onboard_time": 1696590161,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 158277,
       "num": 1581988,
       "word": "他们是最好的队友也是最好的对手",
       "onboard_time": 1696565493,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158055,
-      "num": 158055,
-      "word": "普通人能把生活过得多精彩",
-      "onboard_time": 1696590161,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 157330,
@@ -2355,8 +2403,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 85103,
-      "num": 503742,
+      "raw_hot": 88754,
+      "num": 517954,
       "word": "龚莉又飒又美",
       "onboard_time": 1696590039,
       "rank": 14,
