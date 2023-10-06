@@ -1,0 +1,410 @@
+{
+  "runTime": 1696598501584,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8547905,
+        "num": 8547905,
+        "word": "他从火光中走来 男主死了",
+        "onboard_time": 1696594058,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1831966,
+        "num": 1831966,
+        "word": "儿子说朋友挂了被父亲举报吸毒",
+        "onboard_time": 1696593457,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38479,
+        "num": 1637809,
+        "word": "中国科学家发现战略性关键金属新矿物",
+        "onboard_time": 1696581696,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2268392,
+        "num": 1584204,
+        "word": "黄景瑜 男主没有死",
+        "onboard_time": 1696597063,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1529551,
+        "num": 1529551,
+        "word": "上海警方通报4岁女童在海边走失",
+        "onboard_time": 1696582356,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1136694,
+        "num": 1136694,
+        "word": "老乡鸡",
+        "onboard_time": 1696596760,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 971945,
+        "num": 971945,
+        "word": "金价连续下跌",
+        "onboard_time": 1696585172,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 905466,
+        "num": 905466,
+        "word": "王楚钦3比0安宰贤",
+        "onboard_time": 1696597723,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 759182,
+        "num": 759182,
+        "word": "王丽坤戴面具32集终于摘掉了",
+        "onboard_time": 1696595858,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 717359,
+        "num": 717359,
+        "word": "女童走失海滩曾有人被潮水卷走",
+        "onboard_time": 1696595559,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069452,
+        "num": 716155,
+        "word": "上海失踪4岁女童母亲发声",
+        "onboard_time": 1696583733,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 714434,
+        "num": 714434,
+        "word": "测评博主吐槽王鹤棣潮牌",
+        "onboard_time": 1696595499,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208362,
+        "num": 672520,
+        "word": "中国男篮季军",
+        "onboard_time": 1696585719,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184968,
+        "num": 649315,
+        "word": "旅客价值8万多财物被盗警方8小时破案",
+        "onboard_time": 1696594359,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184009,
+        "num": 648695,
+        "word": "泰国14岁枪手被转往精神病院",
+        "onboard_time": 1696588658,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648506,
+        "num": 648506,
+        "word": "王楚钦吸氧",
+        "onboard_time": 1696589799,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542951,
+        "num": 542951,
+        "word": "中国女排3比0泰国女排",
+        "onboard_time": 1696595499,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542502,
+        "num": 542502,
+        "word": "日本海鲜滞销堆积成山",
+        "onboard_time": 1696592498,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471716,
+        "num": 471716,
+        "word": "他从火光中走来结局",
+        "onboard_time": 1696593696,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 470452,
+        "num": 470452,
+        "word": "贝嫂 我家也是工薪阶层",
+        "onboard_time": 1696586558,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442782,
+        "num": 442782,
+        "word": "大张伟台湾腔太好笑了",
+        "onboard_time": 1696593397,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423085,
+        "num": 423085,
+        "word": "沈梦辰秒答迪丽热巴",
+        "onboard_time": 1696594418,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 404431,
+        "num": 404431,
+        "word": "石宇奇进亚运决赛",
+        "onboard_time": 1696597063,
+        "rank": 22,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 320193,
+        "num": 320193,
+        "word": "王艺迪0比3木原美悠",
+        "onboard_time": 1696593519,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312200,
+        "num": 312200,
+        "word": "主持人大赛",
+        "onboard_time": 1696595739,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293387,
+        "num": 293387,
+        "word": "Super Shy",
+        "onboard_time": 1696588000,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 288240,
+        "num": 288240,
+        "word": "给李盈莹磕一个",
+        "onboard_time": 1696596701,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282938,
+        "num": 282938,
+        "word": "石宇奇 淡黄的长裙",
+        "onboard_time": 1696598025,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274761,
+        "num": 274761,
+        "word": "刘亦菲和熊",
+        "onboard_time": 1696592018,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270833,
+        "num": 270833,
+        "word": "蓝天救援队公布疑似女童走失前视频",
+        "onboard_time": 1696589080,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266649,
+        "num": 266649,
+        "word": "王楚钦孙颖莎2比3林诗栋蒯曼",
+        "onboard_time": 1696592316,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264664,
+        "num": 264664,
+        "word": "张颂文让魏大勋帮忙取话筒太会了",
+        "onboard_time": 1696595798,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245710,
+        "num": 245710,
+        "word": "王栎鑫去了趟厕所天都变了",
+        "onboard_time": 1696574614,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208485,
+        "num": 208485,
+        "word": "石宇奇vs奈良冈功大",
+        "onboard_time": 1696596819,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204544,
+        "num": 204544,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200033,
+        "num": 200033,
+        "word": "黄景瑜直播",
+        "onboard_time": 1696598142,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207761,
+        "num": 199495,
+        "word": "魏大勋因为嗨放派被陈凯歌选中",
+        "onboard_time": 1696591478,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198811,
+        "num": 198811,
+        "word": "追星爽文",
+        "onboard_time": 1696588360,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197506,
+        "num": 197506,
+        "word": "赵丽颖新自拍",
+        "onboard_time": 1696584514,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47996,
+        "num": 193784,
+        "word": "劳模张之臻",
+        "onboard_time": 1696597723,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191571,
+        "num": 191571,
+        "word": "他从火光中走来",
+        "onboard_time": 1696594418,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190409,
+        "num": 190409,
+        "word": "避免社交我在高铁上假装韩国人",
+        "onboard_time": 1696586617,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 190388,
+        "num": 190388,
+        "word": "姚明回应被称作226",
+        "onboard_time": 1696598380,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188953,
+        "num": 188953,
+        "word": "于正透露吴谨言受伤",
+        "onboard_time": 1696595140,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188098,
+        "num": 188098,
+        "word": "南阳女主持人含泪控诉",
+        "onboard_time": 1696579774,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182074,
+        "num": 182074,
+        "word": "半夜醒来时不要看时间",
+        "onboard_time": 1696598380,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 181534,
+        "num": 181534,
+        "word": "陈雨菲逆转进决赛",
+        "onboard_time": 1696593696,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177830,
+        "num": 177830,
+        "word": "中国女排晋级亚运决赛",
+        "onboard_time": 1696595619,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173389,
+        "num": 173389,
+        "word": "林陆骁南初",
+        "onboard_time": 1696598441,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167728,
+        "num": 167728,
+        "word": "五条人被乐夏淘汰三次复活三次",
+        "onboard_time": 1696592739,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运感谢有你#"
+    }
+  }
+}

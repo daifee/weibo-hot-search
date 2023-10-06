@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/06 00:23:25 ~ 2023/10/06 20:50:16
+本榜单时间：2023/10/06 00:23:25 ~ 2023/10/06 21:21:41
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%AD%BB%E4%BA%86%23" target="weibo">
-他从火光中走来 男主死了（热度：4810371）
+他从火光中走来 男主死了（热度：8547905）
 </a>
 </li>
 
@@ -53,6 +53,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%8A%8A%E8%BF%99%E4%B8%AA%E9%9F%A9%E7%BB%BC%E5%BC%95%E8%BF%9B%E5%86%85%E5%A8%B1%23" target="weibo">
 请把这个韩综引进内娱（热度：2312645）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%20%E7%94%B7%E4%B8%BB%E6%B2%A1%E6%9C%89%E6%AD%BB%23" target="weibo">
+黄景瑜 男主没有死（热度：2268392）
 </a>
 </li>
 
@@ -201,6 +207,12 @@ IVE空降（热度：1376713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23" target="weibo">
+老乡鸡（热度：1136694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%94%AF%E4%B8%80%E7%9A%84%E7%82%B8%E9%B1%BC%E6%96%B9%E5%BC%8F%23" target="weibo">
 全红婵唯一的炸鱼方式（热度：1077554）
 </a>
@@ -269,6 +281,12 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%E7%BB%93%E5%B1%80%23" target="weibo">
 他从火光中走来结局（热度：908721）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E5%AE%89%E5%AE%B0%E8%B4%A4%23" target="weibo">
+王楚钦3比0安宰贤（热度：905466）
 </a>
 </li>
 
@@ -369,6 +387,12 @@ Jennie个人单曲音源上线（热度：822249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%BD%E5%9D%A4%E6%88%B4%E9%9D%A2%E5%85%B732%E9%9B%86%E7%BB%88%E4%BA%8E%E6%91%98%E6%8E%89%E4%BA%86%23" target="weibo">
+王丽坤戴面具32集终于摘掉了（热度：759182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B16%E5%8F%B7%E4%BA%86%23" target="weibo">
 怎么就6号了（热度：723855）
 </a>
@@ -387,8 +411,20 @@ Jennie个人单曲音源上线（热度：822249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E6%B5%B7%E6%BB%A9%E6%9B%BE%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%BD%AE%E6%B0%B4%E5%8D%B7%E8%B5%B0%23" target="weibo">
+女童走失海滩曾有人被潮水卷走（热度：717359）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%23" target="weibo">
 陈梦（热度：716453）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8B%E8%AF%84%E5%8D%9A%E4%B8%BB%E5%90%90%E6%A7%BD%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BD%AE%E7%89%8C%23" target="weibo">
+测评博主吐槽王鹤棣潮牌（热度：714434）
 </a>
 </li>
 
@@ -501,12 +537,6 @@ IVE先行曲OffTheRecord（热度：713477）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%BD%E5%9D%A4%E6%88%B4%E9%9D%A2%E5%85%B732%E9%9B%86%E7%BB%88%E4%BA%8E%E6%91%98%E6%8E%89%E4%BA%86%23" target="weibo">
-王丽坤戴面具32集终于摘掉了（热度：596151）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E2%E6%AF%943%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%23" target="weibo">
 王楚钦孙颖莎2比3林诗栋蒯曼（热度：591858）
 </a>
@@ -551,6 +581,12 @@ IVE先行曲OffTheRecord（热度：713477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%BF%E5%85%8D%E7%A4%BE%E4%BA%A4%E6%88%91%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E5%81%87%E8%A3%85%E9%9F%A9%E5%9B%BD%E4%BA%BA%23" target="weibo">
 避免社交我在高铁上假装韩国人（热度：555774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%E6%BB%9E%E9%94%80%E5%A0%86%E7%A7%AF%E6%88%90%E5%B1%B1%23" target="weibo">
+日本海鲜滞销堆积成山（热度：542502）
 </a>
 </li>
 
@@ -615,12 +651,6 @@ IVE先行曲OffTheRecord（热度：713477）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%B7%E9%B2%9C%E6%BB%9E%E9%94%80%E5%A0%86%E7%A7%AF%E6%88%90%E5%B1%B1%23" target="weibo">
-日本海鲜滞销堆积成山（热度：478262）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E6%9C%9F%E5%89%8D7%E5%A4%A97.54%E4%BA%BF%E4%BA%BA%E6%AC%A1%E5%87%BA%E6%B8%B8%23" target="weibo">
 假期前7天7.54亿人次出游（热度：474727）
 </a>
@@ -635,12 +665,6 @@ IVE先行曲OffTheRecord（热度：713477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%A7%92%E7%AD%94%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 沈梦辰秒答迪丽热巴（热度：470844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%B5%B0%E5%A4%B1%E6%B5%B7%E6%BB%A9%E6%9B%BE%E6%9C%89%E4%BA%BA%E8%A2%AB%E6%BD%AE%E6%B0%B4%E5%8D%B7%E8%B5%B0%23" target="weibo">
-女童走失海滩曾有人被潮水卷走（热度：470634）
 </a>
 </li>
 
@@ -717,6 +741,12 @@ IVE先行曲OffTheRecord（热度：713477）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%87%E5%A5%87%E8%BF%9B%E4%BA%9A%E8%BF%90%E5%86%B3%E8%B5%9B%23" target="weibo">
+石宇奇进亚运决赛（热度：404431）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E8%BF%90%E5%8A%A8%E5%91%98%E4%BD%93%E9%AA%8C%E4%BA%9A%E8%BF%90%E4%BA%94%E4%BB%B6%E5%A5%97%23" target="weibo">
 外国运动员体验亚运五件套（热度：402914）
 </a>
@@ -725,12 +755,6 @@ IVE先行曲OffTheRecord（热度：713477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%BB%93%E5%B1%80%E5%8D%AB%E6%98%8E%E5%87%BA%E7%8E%B0%E5%B9%BB%E8%A7%89%23" target="weibo">
 大结局卫明出现幻觉（热度：397960）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8B%E8%AF%84%E5%8D%9A%E4%B8%BB%E5%90%90%E6%A7%BD%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BD%AE%E7%89%8C%23" target="weibo">
-测评博主吐槽王鹤棣潮牌（热度：393106）
 </a>
 </li>
 
@@ -963,6 +987,12 @@ gidle英文首专（热度：346304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%23" target="weibo">
+主持人大赛（热度：312200）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%23" target="weibo">
 他从火光中走来（热度：310327）
 </a>
@@ -1053,6 +1083,12 @@ gidle英文首专（热度：346304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%9D%8E%E7%9B%88%E8%8E%B9%E7%A3%95%E4%B8%80%E4%B8%AA%23" target="weibo">
+给李盈莹磕一个（热度：288240）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BA%9A%E8%BD%A9%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E5%A4%9A%E5%B7%B4%E8%83%BA%E5%A5%97%E8%A3%85%23" target="weibo">
 宋亚轩王牌对王牌多巴胺套装（热度：287249）
 </a>
@@ -1073,6 +1109,12 @@ gidle英文首专（热度：346304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%94%B5%E8%A7%86%E9%87%8C%E7%9A%84%E4%BA%BA%E7%A6%BB%E8%81%8C%E9%83%BD%E8%A6%81%E6%8A%B1%E7%BA%B8%E7%AE%B1%23" target="weibo">
 为什么电视里的人离职都要抱纸箱（热度：284168）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%87%E5%A5%87%20%E6%B7%A1%E9%BB%84%E7%9A%84%E9%95%BF%E8%A3%99%23" target="weibo">
+石宇奇 淡黄的长裙（热度：282938）
 </a>
 </li>
 
@@ -1161,6 +1203,12 @@ NCT127新歌MV延期（热度：277791）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E8%AE%A9%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%B8%AE%E5%BF%99%E5%8F%96%E8%AF%9D%E7%AD%92%E5%A4%AA%E4%BC%9A%E4%BA%86%23" target="weibo">
+张颂文让魏大勋帮忙取话筒太会了（热度：264664）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%90%9C%E5%AF%BB%E4%BA%BA%E5%91%98%E5%9B%9E%E5%BA%944%E5%B2%81%E5%8D%8A%E5%A5%B3%E7%AB%A5%E6%B5%B7%E6%BB%A9%E5%A4%B1%E8%B8%AA%23" target="weibo">
 搜寻人员回应4岁半女童海滩失踪（热度：264642）
 </a>
@@ -1181,12 +1229,6 @@ NCT127新歌MV延期（热度：277791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E9%93%9C%E7%89%8C%E6%88%98%23" target="weibo">
 中国女足铜牌战（热度：264115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E8%AE%A9%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%B8%AE%E5%BF%99%E5%8F%96%E8%AF%9D%E7%AD%92%E5%A4%AA%E4%BC%9A%E4%BA%86%23" target="weibo">
-张颂文让魏大勋帮忙取话筒太会了（热度：263241）
 </a>
 </li>
 
@@ -1329,12 +1371,6 @@ MINJI I love You 3000 cover（热度：241153）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%23" target="weibo">
-主持人大赛（热度：231047）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%AF%97%E7%8E%A5%E6%9F%B3%E9%91%AB%E5%AE%87%E5%AE%8C%E7%BE%8E%E6%BC%94%E7%BB%8E%E4%B8%8D%E5%AE%8C%E7%BE%8E%E5%B0%8F%E5%AD%A9%23" target="weibo">
 王诗玥柳鑫宇完美演绎不完美小孩（热度：230804）
 </a>
@@ -1443,6 +1479,12 @@ MINJI I love You 3000 cover（热度：241153）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%B3%E5%AE%87%E5%A5%87vs%E5%A5%88%E8%89%AF%E5%86%88%E5%8A%9F%E5%A4%A7%23" target="weibo">
+石宇奇vs奈良冈功大（热度：208485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B13%E6%AF%942%E9%99%88%E7%86%A0%23" target="weibo">
 王曼昱3比2陈熠（热度：208225）
 </a>
@@ -1493,6 +1535,12 @@ MINJI I love You 3000 cover（热度：241153）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Fact%20Check%23" target="weibo">
 Fact Check（热度：200539）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E7%9B%B4%E6%92%AD%23" target="weibo">
+黄景瑜直播（热度：200033）
 </a>
 </li>
 
@@ -1569,6 +1617,12 @@ Fact Check（热度：200539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%98%8E%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%A7%B0%E4%BD%9C226%23" target="weibo">
+姚明回应被称作226（热度：190388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%B7%B4%E9%BB%8E%E6%88%B4%E9%AB%98%E4%B9%90%E6%9C%BA%E5%9C%BA%E7%9A%84%E4%B8%AD%E6%96%87%E6%8A%98%E6%9C%8D%E4%BA%86%23" target="weibo">
 被巴黎戴高乐机场的中文折服了（热度：190266）
 </a>
@@ -1641,6 +1695,12 @@ Fact Check（热度：200539）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E6%97%B6%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23" target="weibo">
+半夜醒来时不要看时间（热度：182074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%8D%E8%A3%85%E5%BA%97%E7%9A%84%E9%95%9C%E5%AD%90%E5%8F%AF%E4%BB%A5%E6%9C%89%E5%A4%9A%E7%A6%BB%E8%B0%B1%23" target="weibo">
 服装店的镜子可以有多离谱（热度：179931）
 </a>
@@ -1679,6 +1739,12 @@ Fact Check（热度：200539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%97%E6%B2%A3vs%E6%99%AE%E5%85%B0%E8%AF%BA%E4%BC%8A%23" target="weibo">
 李诗沣vs普兰诺伊（热度：173462）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%99%86%E9%AA%81%E5%8D%97%E5%88%9D%23" target="weibo">
+林陆骁南初（热度：173389）
 </a>
 </li>
 
@@ -2051,6 +2117,12 @@ Fact Check（热度：200539）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E6%BC%94%E5%81%87%E6%9C%9F%E5%90%83%E5%97%A8%E7%9A%84%E6%88%91%23" target="weibo">
 大熊猫演假期吃嗨的我（热度：55239）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%B3%E6%A8%A1%E5%BC%A0%E4%B9%8B%E8%87%BB%23" target="weibo">
+劳模张之臻（热度：47996）
 </a>
 </li>
 

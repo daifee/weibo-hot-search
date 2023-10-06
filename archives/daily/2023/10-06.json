@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696596616631,
+  "endTime": 1696598501584,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4810371,
-      "num": 4810371,
+      "raw_hot": 8547905,
+      "num": 8547905,
       "word": "他从火光中走来 男主死了",
       "onboard_time": 1696594058,
       "rank": 0,
@@ -57,6 +57,14 @@
       "onboard_time": 1696522413,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2268392,
+      "num": 1584204,
+      "word": "黄景瑜 男主没有死",
+      "onboard_time": 1696597063,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2172583,
@@ -251,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1136694,
+      "num": 1136694,
+      "word": "老乡鸡",
+      "onboard_time": 1696596760,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1077554,
       "num": 1077554,
       "word": "全红婵唯一的炸鱼方式",
@@ -345,6 +361,14 @@
       "onboard_time": 1696593696,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 905466,
+      "num": 905466,
+      "word": "王楚钦3比0安宰贤",
+      "onboard_time": 1696597723,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 898003,
@@ -475,6 +499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 759182,
+      "num": 759182,
+      "word": "王丽坤戴面具32集终于摘掉了",
+      "onboard_time": 1696595858,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 723855,
       "num": 723855,
       "word": "怎么就6号了",
@@ -499,12 +531,28 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 717359,
+      "num": 717359,
+      "word": "女童走失海滩曾有人被潮水卷走",
+      "onboard_time": 1696595559,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 716453,
       "num": 716453,
       "word": "陈梦",
       "onboard_time": 1696586197,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 714434,
+      "num": 714434,
+      "word": "测评博主吐槽王鹤棣潮牌",
+      "onboard_time": 1696595499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 713477,
@@ -651,14 +699,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 596151,
-      "num": 596151,
-      "word": "王丽坤戴面具32集终于摘掉了",
-      "onboard_time": 1696595858,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 591858,
       "num": 591858,
       "word": "王楚钦孙颖莎2比3林诗栋蒯曼",
@@ -723,6 +763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 542502,
+      "num": 542502,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540663,
       "num": 540663,
       "word": "陈楚生我不想被选择",
@@ -780,7 +828,7 @@
     },
     {
       "raw_hot": 483339,
-      "num": 638819,
+      "num": 648695,
       "word": "泰国14岁枪手被转往精神病院",
       "onboard_time": 1696588658,
       "rank": 16,
@@ -801,14 +849,6 @@
       "onboard_time": 1696519534,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 478262,
-      "num": 478262,
-      "word": "日本海鲜滞销堆积成山",
-      "onboard_time": 1696592498,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474727,
@@ -833,14 +873,6 @@
       "onboard_time": 1696594418,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 470634,
-      "num": 470634,
-      "word": "女童走失海滩曾有人被潮水卷走",
-      "onboard_time": 1696595559,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469373,
@@ -939,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404431,
+      "num": 404431,
+      "word": "石宇奇进亚运决赛",
+      "onboard_time": 1696597063,
+      "rank": 22,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 402914,
       "num": 1465610,
       "word": "外国运动员体验亚运五件套",
@@ -953,14 +993,6 @@
       "onboard_time": 1696568681,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 393106,
-      "num": 393106,
-      "word": "测评博主吐槽王鹤棣潮牌",
-      "onboard_time": 1696595499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 392130,
@@ -1267,6 +1299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312200,
+      "num": 312200,
+      "word": "主持人大赛",
+      "onboard_time": 1696595739,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310327,
       "num": 310327,
       "word": "他从火光中走来",
@@ -1387,6 +1427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 288240,
+      "num": 288240,
+      "word": "给李盈莹磕一个",
+      "onboard_time": 1696596701,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287249,
       "num": 287249,
       "word": "宋亚轩王牌对王牌多巴胺套装",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1696556432,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 282938,
+      "num": 282938,
+      "word": "石宇奇 淡黄的长裙",
+      "onboard_time": 1696598025,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 280977,
@@ -1531,6 +1587,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 264664,
+      "num": 264664,
+      "word": "张颂文让魏大勋帮忙取话筒太会了",
+      "onboard_time": 1696595798,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264642,
       "num": 264642,
       "word": "搜寻人员回应4岁半女童海滩失踪",
@@ -1561,14 +1625,6 @@
       "onboard_time": 1696571314,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263241,
-      "num": 256316,
-      "word": "张颂文让魏大勋帮忙取话筒太会了",
-      "onboard_time": 1696595798,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 262816,
@@ -1724,7 +1780,7 @@
     },
     {
       "raw_hot": 240434,
-      "num": 240434,
+      "num": 1637809,
       "word": "中国科学家发现战略性关键金属新矿物",
       "onboard_time": 1696581696,
       "rank": 20,
@@ -1753,14 +1809,6 @@
       "onboard_time": 1696580316,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 231047,
-      "num": 231047,
-      "word": "主持人大赛",
-      "onboard_time": 1696595739,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 230804,
@@ -1907,6 +1955,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208485,
+      "num": 208485,
+      "word": "石宇奇vs奈良冈功大",
+      "onboard_time": 1696596819,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208225,
       "num": 208225,
       "word": "王曼昱3比2陈熠",
@@ -1977,6 +2033,14 @@
       "onboard_time": 1696570655,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 200033,
+      "num": 200033,
+      "word": "黄景瑜直播",
+      "onboard_time": 1696598142,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 199273,
@@ -2075,6 +2139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190388,
+      "num": 190388,
+      "word": "姚明回应被称作226",
+      "onboard_time": 1696598380,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190266,
       "num": 190266,
       "word": "被巴黎戴高乐机场的中文折服了",
@@ -2171,6 +2243,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 182074,
+      "num": 182074,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 179931,
       "num": 179931,
       "word": "服装店的镜子可以有多离谱",
@@ -2225,6 +2305,14 @@
       "onboard_time": 1696574256,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173389,
+      "num": 173389,
+      "word": "林陆骁南初",
+      "onboard_time": 1696598441,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 170068,
@@ -2721,6 +2809,14 @@
       "onboard_time": 1696548804,
       "rank": 47,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 47996,
+      "num": 193784,
+      "word": "劳模张之臻",
+      "onboard_time": 1696597723,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47393,

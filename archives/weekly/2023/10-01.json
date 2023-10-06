@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696596616631,
+  "endTime": 1696598501584,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -41,6 +41,14 @@
       "onboard_time": 1696253330,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 8547905,
+      "num": 8547905,
+      "word": "他从火光中走来 男主死了",
+      "onboard_time": 1696594058,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 8258928,
@@ -137,14 +145,6 @@
       "onboard_time": 1696253390,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 4810371,
-      "num": 4810371,
-      "word": "他从火光中走来 男主死了",
-      "onboard_time": 1696594058,
-      "rank": 0,
-      "category": "剧集"
     },
     {
       "raw_hot": 4288747,
@@ -473,6 +473,14 @@
       "onboard_time": 1696171421,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2268392,
+      "num": 1584204,
+      "word": "黄景瑜 男主没有死",
+      "onboard_time": 1696597063,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 2257372,
@@ -1683,6 +1691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1136694,
+      "num": 1136694,
+      "word": "老乡鸡",
+      "onboard_time": 1696596760,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1134478,
       "num": 467445,
       "word": "杨紫来广东了",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1696243654,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 905466,
+      "num": 905466,
+      "word": "王楚钦3比0安宰贤",
+      "onboard_time": 1696597723,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 900664,
@@ -2923,6 +2947,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 759182,
+      "num": 759182,
+      "word": "王丽坤戴面具32集终于摘掉了",
+      "onboard_time": 1696595858,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 758178,
       "num": 758178,
       "word": "被婆婆拒绝的喜糖盒",
@@ -3083,6 +3115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 717359,
+      "num": 717359,
+      "word": "女童走失海滩曾有人被潮水卷走",
+      "onboard_time": 1696595559,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 717023,
       "num": 717023,
       "word": "陈梦王曼昱晋级女双四强",
@@ -3105,6 +3145,14 @@
       "onboard_time": 1696344877,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 714434,
+      "num": 714434,
+      "word": "测评博主吐槽王鹤棣潮牌",
+      "onboard_time": 1696595499,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 713477,
@@ -3963,14 +4011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 596151,
-      "num": 596151,
-      "word": "王丽坤戴面具32集终于摘掉了",
-      "onboard_time": 1696595858,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 594791,
       "num": 594791,
       "word": "胖东来超市免费为顾客发雨衣",
@@ -4385,6 +4425,14 @@
       "onboard_time": 1696262734,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 542502,
+      "num": 542502,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541611,
@@ -4932,7 +4980,7 @@
     },
     {
       "raw_hot": 483339,
-      "num": 638819,
+      "num": 648695,
       "word": "泰国14岁枪手被转往精神病院",
       "onboard_time": 1696588658,
       "rank": 16,
@@ -4993,14 +5041,6 @@
       "onboard_time": 1696410333,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 478262,
-      "num": 478262,
-      "word": "日本海鲜滞销堆积成山",
-      "onboard_time": 1696592498,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 478021,
@@ -5129,14 +5169,6 @@
       "onboard_time": 1696120409,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 470634,
-      "num": 470634,
-      "word": "女童走失海滩曾有人被潮水卷走",
-      "onboard_time": 1696595559,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 470475,
@@ -5915,6 +5947,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 404431,
+      "num": 404431,
+      "word": "石宇奇进亚运决赛",
+      "onboard_time": 1696597063,
+      "rank": 22,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 404054,
       "num": 335379,
       "word": "10月十二星座注意事项",
@@ -6057,14 +6097,6 @@
       "onboard_time": 1696164825,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 393106,
-      "num": 393106,
-      "word": "测评博主吐槽王鹤棣潮牌",
-      "onboard_time": 1696595499,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 392439,
@@ -7683,6 +7715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312200,
+      "num": 312200,
+      "word": "主持人大赛",
+      "onboard_time": 1696595739,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311826,
       "num": 311826,
       "word": "浙江95后夫妻两天狂揽4枚亚运金牌",
@@ -8419,6 +8459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288240,
+      "num": 288240,
+      "word": "给李盈莹磕一个",
+      "onboard_time": 1696596701,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288238,
       "num": 288238,
       "word": "南昌烟花",
@@ -8609,6 +8657,14 @@
       "onboard_time": 1696513236,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 282938,
+      "num": 282938,
+      "word": "石宇奇 淡黄的长裙",
+      "onboard_time": 1696598025,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 282437,
@@ -9227,6 +9283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 264664,
+      "num": 264664,
+      "word": "张颂文让魏大勋帮忙取话筒太会了",
+      "onboard_time": 1696595798,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264642,
       "num": 264642,
       "word": "搜寻人员回应4岁半女童海滩失踪",
@@ -9297,14 +9361,6 @@
       "onboard_time": 1696246536,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263241,
-      "num": 256316,
-      "word": "张颂文让魏大勋帮忙取话筒太会了",
-      "onboard_time": 1696595798,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 263112,
@@ -10148,7 +10204,7 @@
     },
     {
       "raw_hot": 240434,
-      "num": 240434,
+      "num": 1637809,
       "word": "中国科学家发现战略性关键金属新矿物",
       "onboard_time": 1696581696,
       "rank": 20,
@@ -10449,14 +10505,6 @@
       "onboard_time": 1696377026,
       "rank": 26,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 231047,
-      "num": 231047,
-      "word": "主持人大赛",
-      "onboard_time": 1696595739,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 230902,
@@ -11475,6 +11523,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 208485,
+      "num": 208485,
+      "word": "石宇奇vs奈良冈功大",
+      "onboard_time": 1696596819,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208480,
       "num": 208480,
       "word": "赵睿歪头杀",
@@ -11969,6 +12025,14 @@
       "onboard_time": 1696433375,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200033,
+      "num": 200033,
+      "word": "黄景瑜直播",
+      "onboard_time": 1696598142,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 199989,
@@ -12627,6 +12691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190388,
+      "num": 190388,
+      "word": "姚明回应被称作226",
+      "onboard_time": 1696598380,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190046,
       "num": 190046,
       "word": "孙颖莎4比0申裕彬",
@@ -13083,6 +13155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182074,
+      "num": 182074,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 181986,
       "num": 181986,
       "word": "腮红从卧蚕开始扫",
@@ -13497,6 +13577,14 @@
       "onboard_time": 1696407035,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173389,
+      "num": 173389,
+      "word": "林陆骁南初",
+      "onboard_time": 1696598441,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 173038,
@@ -16377,6 +16465,14 @@
       "onboard_time": 1696095143,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47996,
+      "num": 193784,
+      "word": "劳模张之臻",
+      "onboard_time": 1696597723,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47798,
