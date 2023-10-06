@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696626883289,
+  "endTime": 1696628054657,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -10819,6 +10819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232152,
+      "num": 81395,
+      "word": "浦东海滩走失女孩疑似最后影像曝光",
+      "onboard_time": 1696621933,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232113,
       "num": 232113,
       "word": "她在讲课间隙接到了诺奖的电话",
@@ -11065,14 +11073,6 @@
       "onboard_time": 1696511624,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 226330,
-      "num": 74315,
-      "word": "浦东海滩走失女孩疑似最后影像曝光",
-      "onboard_time": 1696621933,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 226215,
@@ -17107,20 +17107,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32687,
+      "num": 32687,
+      "word": "年轻人为什么都喜欢去音乐节",
+      "onboard_time": 1696619355,
+      "rank": 44,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 32173,
       "num": 32173,
       "word": "2023国庆档新片总票房破15亿",
       "onboard_time": 1696271598,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32152,
-      "num": 32152,
-      "word": "年轻人为什么都喜欢去音乐节",
-      "onboard_time": 1696619355,
-      "rank": 44,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 32065,
@@ -17172,7 +17172,7 @@
     },
     {
       "raw_hot": 28131,
-      "num": 25126,
+      "num": 26201,
       "word": "韩庚晒机票",
       "onboard_time": 1696622954,
       "rank": 41,
@@ -17193,6 +17193,14 @@
       "onboard_time": 1696490732,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26434,
+      "num": 26434,
+      "word": "王濛叫刘雨昕刘姐",
+      "onboard_time": 1696625954,
+      "rank": 36,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 25726,
@@ -17265,14 +17273,6 @@
       "onboard_time": 1696446555,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22334,
-      "num": 22334,
-      "word": "王濛叫刘雨昕刘姐",
-      "onboard_time": 1696625954,
-      "rank": 36,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 19990,
