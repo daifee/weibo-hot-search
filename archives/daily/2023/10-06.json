@@ -1,10 +1,10 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696584860096,
+  "endTime": 1696587519454,
   "band_list": [
     {
-      "raw_hot": 4510919,
-      "num": 4510919,
+      "raw_hot": 10661875,
+      "num": 10661875,
       "word": "上海警方通报4岁女童在海边走失",
       "onboard_time": 1696582356,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1696522413,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2245290,
+      "num": 2245290,
+      "word": "金价连续下跌",
+      "onboard_time": 1696585172,
+      "rank": 1,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 2172583,
@@ -89,6 +97,14 @@
       "onboard_time": 1696574614,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1440796,
+      "num": 1440796,
+      "word": "中国男篮季军",
+      "onboard_time": 1696585719,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1411394,
@@ -227,6 +243,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 984622,
+      "num": 984622,
+      "word": "上海失踪4岁女童母亲发声",
+      "onboard_time": 1696583733,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952951,
       "num": 952951,
       "word": "经期不能做的6件事",
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 917812,
-      "num": 376596,
+      "num": 429107,
       "word": "两干部流出不雅视频被停职",
       "onboard_time": 1696571793,
       "rank": 20,
@@ -419,6 +443,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 683597,
+      "num": 683597,
+      "word": "陈梦",
+      "onboard_time": 1696586197,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 669683,
       "num": 369130,
       "word": "38岁女老师被骗400万仍想和骗子结婚",
@@ -433,6 +465,14 @@
       "onboard_time": 1696521095,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 646793,
+      "num": 646793,
+      "word": "贝嫂 我家也是工薪阶层",
+      "onboard_time": 1696586558,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 646754,
@@ -473,6 +513,14 @@
       "onboard_time": 1696553672,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 626857,
+      "num": 626857,
+      "word": "赵丽颖新自拍",
+      "onboard_time": 1696584514,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 618665,
@@ -619,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 474727,
+      "num": 602210,
+      "word": "假期前7天7.54亿人次出游",
+      "onboard_time": 1696583915,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469373,
       "num": 428681,
       "word": "胡兵给蔡国庆王栎鑫一人一个7层大蛋糕",
@@ -659,6 +715,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 443662,
+      "num": 443662,
+      "word": "杨幂时装周隐藏造型",
+      "onboard_time": 1696586677,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 443236,
+      "num": 443236,
+      "word": "毛晓彤好甜一个妹妹",
+      "onboard_time": 1696584156,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430644,
       "num": 430644,
       "word": "王楚钦 很清醒很聪明",
@@ -681,6 +753,14 @@
       "onboard_time": 1696577854,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 401377,
+      "num": 1465610,
+      "word": "外国运动员体验亚运五件套",
+      "onboard_time": 1696586797,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 397960,
@@ -756,7 +836,7 @@
     },
     {
       "raw_hot": 370729,
-      "num": 380658,
+      "num": 1542279,
       "word": "王楚钦孙颖莎出战混双",
       "onboard_time": 1696583078,
       "rank": 14,
@@ -793,14 +873,6 @@
       "onboard_time": 1696521634,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 359178,
-      "num": 359178,
-      "word": "赵丽颖新自拍",
-      "onboard_time": 1696584514,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 358648,
@@ -899,14 +971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 329047,
-      "num": 329047,
-      "word": "假期前7天7.54亿人次出游",
-      "onboard_time": 1696583915,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326537,
       "num": 326537,
       "word": "于文文当预言家睡过头了",
@@ -955,14 +1019,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 313030,
-      "num": 313030,
-      "word": "毛晓彤好甜一个妹妹",
-      "onboard_time": 1696584156,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 309228,
       "num": 309228,
       "word": "日本本州东南海域发生5.9级地震",
@@ -993,14 +1049,6 @@
       "onboard_time": 1696575754,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 295944,
-      "num": 295944,
-      "word": "上海失踪4岁女童母亲发声",
-      "onboard_time": 1696583733,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 294530,
@@ -1073,6 +1121,14 @@
       "onboard_time": 1696559193,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287394,
+      "num": 231158,
+      "word": "避免社交我在高铁上假装韩国人",
+      "onboard_time": 1696586617,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 287249,
@@ -1184,6 +1240,14 @@
       "word": "迪丽热巴好像导游",
       "onboard_time": 1696561896,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 268723,
+      "num": 268723,
+      "word": "杨紫巴黎游记怼脸拍",
+      "onboard_time": 1696584333,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -1339,6 +1403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235109,
+      "num": 235109,
+      "word": "陈凯歌说张颂文很羞涩",
+      "onboard_time": 1696586976,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234989,
       "num": 234989,
       "word": "韩旭和武大靖约冰壶一起拖地",
@@ -1459,12 +1531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208598,
-      "num": 208598,
-      "word": "杨紫巴黎游记怼脸拍",
-      "onboard_time": 1696584333,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 209929,
+      "num": 209929,
+      "word": "搜寻人员回应4岁半女童海滩失踪",
+      "onboard_time": 1696584156,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208225,
@@ -1531,12 +1603,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199267,
-      "num": 199267,
-      "word": "搜寻人员回应4岁半女童海滩失踪",
-      "onboard_time": 1696584156,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 198889,
+      "num": 198889,
+      "word": "亚运冠军龙舟来自浙江小厂",
+      "onboard_time": 1696587398,
+      "rank": 36,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 198329,
@@ -1675,6 +1747,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 182638,
+      "num": 182638,
+      "word": "田嘉瑞学院风穿搭",
+      "onboard_time": 1696587159,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 179931,
       "num": 179931,
       "word": "服装店的镜子可以有多离谱",
@@ -1705,6 +1785,14 @@
       "onboard_time": 1696569036,
       "rank": 49,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 174988,
+      "num": 1275152,
+      "word": "中国女足队员集体向水庆霞鞠躬",
+      "onboard_time": 1696584814,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 174316,
@@ -1795,6 +1883,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 160734,
+      "num": 1956254,
+      "word": "返程行李箱满载快乐与爱",
+      "onboard_time": 1696581574,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159270,
       "num": 159270,
       "word": "曾舜晞说趁着年轻多拍拍",
@@ -1819,11 +1915,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156010,
+      "num": 156010,
+      "word": "吴磊提名中国UP",
+      "onboard_time": 1696585541,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151411,
       "num": 151411,
       "word": "全红婵水花比我下饺子还小",
       "onboard_time": 1696517620,
       "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 149305,
+      "num": 149305,
+      "word": "马龙3比0赵胜敏",
+      "onboard_time": 1696585840,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -1896,14 +2008,6 @@
       "word": "王楚钦在场外自己教育自己",
       "onboard_time": 1696510478,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 138501,
-      "num": 138501,
-      "word": "中国女足队员集体向水庆霞鞠躬",
-      "onboard_time": 1696584814,
-      "rank": 47,
       "category": "体育"
     },
     {
@@ -2024,14 +2128,6 @@
       "word": "新闻联播新主播王音棋",
       "onboard_time": 1696505315,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 103639,
-      "num": 1956254,
-      "word": "返程行李箱满载快乐与爱",
-      "onboard_time": 1696581574,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2192,6 +2288,14 @@
       "word": "中国女篮亚运第七冠",
       "onboard_time": 1696536793,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29064,
+      "num": 183886,
+      "word": "麦迪说中国外卖OMG",
+      "onboard_time": 1696586440,
+      "rank": 39,
       "category": "体育"
     }
   ],
