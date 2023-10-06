@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696628054657,
+  "endTime": 1696630532251,
   "band_list": [
     {
       "raw_hot": 1307877,
@@ -99,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 468291,
+      "num": 153677,
+      "word": "浦东海滩走失女孩疑似最后影像曝光",
+      "onboard_time": 1696621933,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 412876,
       "num": 412876,
       "word": "半夜醒来时不要看时间",
@@ -187,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232152,
-      "num": 81395,
-      "word": "浦东海滩走失女孩疑似最后影像曝光",
-      "onboard_time": 1696621933,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229027,
       "num": 229027,
       "word": "韩素希不能当爱豆的原因",
@@ -232,6 +232,14 @@
       "word": "日本海鲜滞销堆积成山",
       "onboard_time": 1696592498,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203367,
+      "num": 203367,
+      "word": "老师订10余套演出服用完立马退货",
+      "onboard_time": 1696600363,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -305,14 +313,6 @@
       "onboard_time": 1696601385,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182380,
-      "num": 182380,
-      "word": "老师订10余套演出服用完立马退货",
-      "onboard_time": 1696600363,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 180559,
@@ -459,6 +459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 80415,
+      "num": 80415,
+      "word": "年轻人为什么都喜欢去音乐节",
+      "onboard_time": 1696619355,
+      "rank": 44,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 74851,
       "num": 74851,
       "word": "他从火光中走来结局",
@@ -491,7 +499,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 36928,
+      "raw_hot": 39272,
       "num": 50177,
       "word": "Ella给Selina的儿子买礼物",
       "onboard_time": 1696605279,
@@ -499,12 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 32687,
-      "num": 32687,
-      "word": "年轻人为什么都喜欢去音乐节",
-      "onboard_time": 1696619355,
-      "rank": 44,
-      "category": "社会新闻,演出"
+      "raw_hot": 37671,
+      "num": 37671,
+      "word": "蔡国庆胡兵好像闺蜜和敌蜜",
+      "onboard_time": 1696629435,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32726,
+      "num": 32726,
+      "word": "男篮队长赵继伟赛后婉拒采访",
+      "onboard_time": 1696629557,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 32669,
@@ -539,7 +555,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 21737,
+      "raw_hot": 22006,
       "num": 97240,
       "word": "中国男篮季军",
       "onboard_time": 1696585719,
