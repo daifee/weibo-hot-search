@@ -1,0 +1,410 @@
+{
+  "runTime": 1696555948055,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1826966,
+        "num": 1826966,
+        "word": "周润发回应裸捐56亿港币",
+        "onboard_time": 1696549586,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1415334,
+        "num": 1415334,
+        "word": "上海4岁女童海滩走失已超24小时",
+        "onboard_time": 1696548863,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69761,
+        "num": 1116320,
+        "word": "被亚运会的氛围可爱到了",
+        "onboard_time": 1696511138,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 900739,
+        "num": 900739,
+        "word": "黄景瑜不拍古装的原因",
+        "onboard_time": 1696548262,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 583510,
+        "num": 583510,
+        "word": "李泽锋 轻舟已过万重山",
+        "onboard_time": 1696518159,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451669,
+        "num": 451669,
+        "word": "瑞幸要和猫和老鼠联名了吗",
+        "onboard_time": 1696549406,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390225,
+        "num": 390225,
+        "word": "叙利亚一军校遭无人机袭击",
+        "onboard_time": 1696550668,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379121,
+        "num": 379121,
+        "word": "广西百色一直升机坠毁致1死3伤",
+        "onboard_time": 1696552951,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366734,
+        "num": 366734,
+        "word": "游客挖走张掖七彩丹霞景区土壤",
+        "onboard_time": 1696548202,
+        "rank": 8,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 365166,
+        "num": 365166,
+        "word": "全红婵唯一的炸鱼方式",
+        "onboard_time": 1696516539,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1295971,
+        "num": 364432,
+        "word": "金世佳被孩子求抱后续",
+        "onboard_time": 1696548383,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754127,
+        "num": 362419,
+        "word": "网友在冰岛偶遇迪丽热巴",
+        "onboard_time": 1696550548,
+        "rank": 11,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 556881,
+        "num": 361042,
+        "word": "迷笛音乐节组委会称不希望地域攻击",
+        "onboard_time": 1696554034,
+        "rank": 12,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 322816,
+        "num": 360700,
+        "word": "陈某煽动误导村民拿东西被刑拘",
+        "onboard_time": 1696518220,
+        "rank": 13,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 292879,
+        "num": 357878,
+        "word": "这枚奥运铜牌含金量足够大",
+        "onboard_time": 1696549224,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 745836,
+        "num": 357334,
+        "word": "西安外国语大学",
+        "onboard_time": 1696518824,
+        "rank": 15,
+        "category": "情感,教育"
+      },
+      {
+        "raw_hot": 699575,
+        "num": 355973,
+        "word": "不经意看到妈妈的内衣扣感觉很心酸",
+        "onboard_time": 1696553612,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 672382,
+        "num": 354164,
+        "word": "徐州一婚礼场地被村民连夜搬空",
+        "onboard_time": 1696517259,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 353357,
+        "num": 353357,
+        "word": "韩国人真的别执着比心了",
+        "onboard_time": 1696549164,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346304,
+        "num": 346304,
+        "word": "gidle英文首专",
+        "onboard_time": 1696553432,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 632080,
+        "num": 342105,
+        "word": "女子做职业伴娘国庆8天8场婚礼",
+        "onboard_time": 1696551090,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451348,
+        "num": 335240,
+        "word": "她从19岁开始陪到他75岁了",
+        "onboard_time": 1696550668,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 302872,
+        "num": 302872,
+        "word": "六代的帅男人悄悄出现了",
+        "onboard_time": 1696555171,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291603,
+        "num": 291603,
+        "word": "王一博看秀看中相机包",
+        "onboard_time": 1696550729,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 278357,
+        "num": 278357,
+        "word": "可以夹在胸前防止驼背的玩偶",
+        "onboard_time": 1696551390,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 259626,
+        "num": 259626,
+        "word": "南阳官方通报音乐节盗窃事件",
+        "onboard_time": 1696517797,
+        "rank": 25,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 258060,
+        "num": 258060,
+        "word": "薛之谦把伴舞假发薅掉了",
+        "onboard_time": 1696549706,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 251176,
+        "num": 251176,
+        "word": "虞书欣永夜星河婚服路透",
+        "onboard_time": 1696549224,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220201,
+        "num": 220201,
+        "word": "曾舜晞掉小珍珠了",
+        "onboard_time": 1696551209,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196938,
+        "num": 196938,
+        "word": "中短发的神再添一名猛将",
+        "onboard_time": 1696552412,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 560727,
+        "num": 196639,
+        "word": "孟非参观祖屋要看房产证",
+        "onboard_time": 1696553672,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195028,
+        "num": 195028,
+        "word": "中国女篮冠军",
+        "onboard_time": 1696513546,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213205,
+        "num": 192286,
+        "word": "玄月簪盘发",
+        "onboard_time": 1696555293,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185264,
+        "num": 185264,
+        "word": "民警帮老人找回4800元后老人要给出警费",
+        "onboard_time": 1696551752,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180730,
+        "num": 180730,
+        "word": "午睡的时间不能太久了",
+        "onboard_time": 1696549406,
+        "rank": 34,
+        "category": "知识科普,情感"
+      },
+      {
+        "raw_hot": 179801,
+        "num": 179801,
+        "word": "五条悟的诞生",
+        "onboard_time": 1696551090,
+        "rank": 35,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 174617,
+        "num": 174617,
+        "word": "中国队首次摘得亚运攀岩金牌",
+        "onboard_time": 1696547901,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165342,
+        "num": 165342,
+        "word": "黄子诚申请加入国安",
+        "onboard_time": 1696555652,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165048,
+        "num": 165048,
+        "word": "服装店的镜子可以有多离谱",
+        "onboard_time": 1696549103,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 162094,
+        "num": 162094,
+        "word": "因为是INTJ而被HR告知没被录取",
+        "onboard_time": 1696520133,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157880,
+        "num": 157880,
+        "word": "迪丽热巴开衩裙变装",
+        "onboard_time": 1696547241,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155802,
+        "num": 155802,
+        "word": "中国女篮站上冠军领奖台",
+        "onboard_time": 1696548683,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142467,
+        "num": 142467,
+        "word": "卫明用一集证明自己是个笑话",
+        "onboard_time": 1696552351,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138610,
+        "num": 138610,
+        "word": "Jennie把一年四季穿身上",
+        "onboard_time": 1696517317,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136253,
+        "num": 136253,
+        "word": "南阳通报称批评是最大的爱",
+        "onboard_time": 1696548924,
+        "rank": 44,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 133624,
+        "num": 133624,
+        "word": "华晨宇把演唱会办成升学宴",
+        "onboard_time": 1696519534,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129637,
+        "num": 129637,
+        "word": "现在的厕所名有多文雅",
+        "onboard_time": 1696551630,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128592,
+        "num": 128592,
+        "word": "在景德镇每6个景漂中就有1个外国人",
+        "onboard_time": 1696554871,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128187,
+        "num": 128187,
+        "word": "高铁是贡献巨大的",
+        "onboard_time": 1696550187,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121567,
+        "num": 121567,
+        "word": "苏炳添称无法和谢震业做比较",
+        "onboard_time": 1696521095,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}

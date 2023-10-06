@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696554732256,
+  "endTime": 1696555948055,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -27,20 +27,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1357801,
-      "num": 335957,
-      "word": "金世佳被孩子求抱后续",
-      "onboard_time": 1696548383,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1264253,
-      "num": 1264253,
+      "raw_hot": 1415334,
+      "num": 1415334,
       "word": "上海4岁女童海滩走失已超24小时",
       "onboard_time": 1696548863,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1357801,
+      "num": 364432,
+      "word": "金世佳被孩子求抱后续",
+      "onboard_time": 1696548383,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1242296,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 835342,
-      "num": 337213,
+      "num": 342105,
       "word": "女子做职业伴娘国庆8天8场婚礼",
       "onboard_time": 1696551090,
       "rank": 9,
@@ -97,6 +97,14 @@
       "onboard_time": 1696513546,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 754127,
+      "num": 362419,
+      "word": "网友在冰岛偶遇迪丽热巴",
+      "onboard_time": 1696550548,
+      "rank": 11,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 719835,
@@ -115,12 +123,12 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 705111,
-      "num": 334316,
-      "word": "网友在冰岛偶遇迪丽热巴",
-      "onboard_time": 1696550548,
-      "rank": 11,
-      "category": "艺人,幽默"
+      "raw_hot": 699575,
+      "num": 355973,
+      "word": "不经意看到妈妈的内衣扣感觉很心酸",
+      "onboard_time": 1696553612,
+      "rank": 16,
+      "category": "情感"
     },
     {
       "raw_hot": 654707,
@@ -155,16 +163,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 524669,
-      "num": 328678,
-      "word": "不经意看到妈妈的内衣扣感觉很心酸",
-      "onboard_time": 1696553612,
-      "rank": 16,
-      "category": "情感"
+      "raw_hot": 556881,
+      "num": 361042,
+      "word": "迷笛音乐节组委会称不希望地域攻击",
+      "onboard_time": 1696554034,
+      "rank": 31,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 513572,
-      "num": 326959,
+      "num": 353357,
       "word": "韩国人真的别执着比心了",
       "onboard_time": 1696549164,
       "rank": 17,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 461751,
-      "num": 323303,
+      "num": 335240,
       "word": "她从19岁开始陪到他75岁了",
       "onboard_time": 1696550668,
       "rank": 20,
@@ -203,12 +211,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 382509,
-      "num": 214007,
-      "word": "迷笛音乐节组委会称不希望地域攻击",
-      "onboard_time": 1696554034,
-      "rank": 31,
-      "category": "社会新闻,演出"
+      "raw_hot": 390225,
+      "num": 390225,
+      "word": "叙利亚一军校遭无人机袭击",
+      "onboard_time": 1696550668,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379121,
+      "num": 379121,
+      "word": "广西百色一直升机坠毁致1死3伤",
+      "onboard_time": 1696552951,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 368120,
@@ -227,12 +243,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 350638,
-      "num": 325502,
-      "word": "广西百色一直升机坠毁致1死3伤",
-      "onboard_time": 1696552951,
-      "rank": 18,
-      "category": "社会新闻"
+      "raw_hot": 346304,
+      "num": 346304,
+      "word": "gidle英文首专",
+      "onboard_time": 1696553432,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 331784,
@@ -249,14 +265,6 @@
       "onboard_time": 1696526423,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 324873,
-      "num": 324873,
-      "word": "gidle英文首专",
-      "onboard_time": 1696553432,
-      "rank": 19,
-      "category": "音乐"
     },
     {
       "raw_hot": 324682,
@@ -291,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 307791,
-      "num": 307791,
-      "word": "叙利亚一军校遭无人机袭击",
-      "onboard_time": 1696550668,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 302872,
+      "num": 302872,
+      "word": "六代的帅男人悄悄出现了",
+      "onboard_time": 1696555171,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 293744,
@@ -307,12 +315,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 292879,
+      "num": 357878,
+      "word": "这枚奥运铜牌含金量足够大",
+      "onboard_time": 1696549224,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292660,
       "num": 280425,
       "word": "女生气血不足的6个表现",
       "onboard_time": 1696497515,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 291603,
+      "num": 291603,
+      "word": "王一博看秀看中相机包",
+      "onboard_time": 1696550729,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 289996,
@@ -361,22 +385,6 @@
       "onboard_time": 1696549224,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 277086,
-      "num": 277086,
-      "word": "王一博看秀看中相机包",
-      "onboard_time": 1696550729,
-      "rank": 25,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 275103,
-      "num": 331971,
-      "word": "这枚奥运铜牌含金量足够大",
-      "onboard_time": 1696549224,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 270400,
@@ -467,12 +475,20 @@
       "category": "知识科普,情感"
     },
     {
-      "raw_hot": 216782,
-      "num": 216782,
+      "raw_hot": 220201,
+      "num": 220201,
       "word": "曾舜晞掉小珍珠了",
       "onboard_time": 1696551209,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213205,
+      "num": 192286,
+      "word": "玄月簪盘发",
+      "onboard_time": 1696555293,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 211266,
@@ -539,20 +555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185264,
+      "num": 185264,
+      "word": "民警帮老人找回4800元后老人要给出警费",
+      "onboard_time": 1696551752,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182970,
       "num": 199883,
       "word": "已归还乐迷身份证79张",
       "onboard_time": 1696520256,
       "rank": 29,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 180995,
-      "num": 180995,
-      "word": "民警帮老人找回4800元后老人要给出警费",
-      "onboard_time": 1696551752,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 179931,
@@ -599,6 +615,14 @@
       "num": 165963,
       "word": "看火光第32集哭惨了",
       "onboard_time": 1696521753,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 165342,
+      "num": 165342,
+      "word": "黄子诚申请加入国安",
+      "onboard_time": 1696555652,
       "rank": 37,
       "category": "剧集"
     },
@@ -651,6 +675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142467,
+      "num": 142467,
+      "word": "卫明用一集证明自己是个笑话",
+      "onboard_time": 1696552351,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142380,
       "num": 142380,
       "word": "第一次见这样分柚子的",
@@ -673,14 +705,6 @@
       "onboard_time": 1696550187,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 135768,
-      "num": 135768,
-      "word": "卫明用一集证明自己是个笑话",
-      "onboard_time": 1696552351,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 132579,
@@ -721,6 +745,14 @@
       "onboard_time": 1696516718,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128592,
+      "num": 128592,
+      "word": "在景德镇每6个景漂中就有1个外国人",
+      "onboard_time": 1696554871,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112388,
@@ -812,7 +844,7 @@
     },
     {
       "raw_hot": 76333,
-      "num": 1099547,
+      "num": 1116320,
       "word": "被亚运会的氛围可爱到了",
       "onboard_time": 1696511138,
       "rank": 2,
