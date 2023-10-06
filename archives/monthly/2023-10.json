@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696609365577,
+  "endTime": 1696610305896,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -3171,6 +3171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 725530,
+      "num": 725530,
+      "word": "定闹钟",
+      "onboard_time": 1696607673,
+      "rank": 7,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 723979,
       "num": 555493,
       "word": "莎头",
@@ -3385,14 +3393,6 @@
       "onboard_time": 1696553612,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 698644,
-      "num": 698644,
-      "word": "定闹钟",
-      "onboard_time": 1696607673,
-      "rank": 7,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 696787,
@@ -6595,6 +6595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 378567,
+      "num": 378567,
+      "word": "井胧说了5遍我要哭了但没哭",
+      "onboard_time": 1696609232,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378035,
       "num": 378035,
       "word": "张老板再接杀了么订单",
@@ -7345,6 +7353,14 @@
       "onboard_time": 1696384296,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 343344,
+      "num": 343344,
+      "word": "傲寒",
+      "onboard_time": 1696608333,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 343307,
@@ -8337,14 +8353,6 @@
       "onboard_time": 1696575814,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 299604,
-      "num": 299604,
-      "word": "傲寒",
-      "onboard_time": 1696608333,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 299575,
@@ -9785,14 +9793,6 @@
       "onboard_time": 1696161094,
       "rank": 36,
       "category": "游戏,体育"
-    },
-    {
-      "raw_hot": 260820,
-      "num": 260820,
-      "word": "井胧说了5遍我要哭了但没哭",
-      "onboard_time": 1696609232,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 260564,
@@ -13755,6 +13755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177425,
+      "num": 418332,
+      "word": "女游客昏迷倒地交警一路呼喊及时送医",
+      "onboard_time": 1696607793,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177194,
       "num": 177194,
       "word": "平遥国际电影展 抢票",
@@ -15203,14 +15211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 143583,
-      "num": 418332,
-      "word": "女游客昏迷倒地交警一路呼喊及时送医",
-      "onboard_time": 1696607793,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 143502,
       "num": 143502,
       "word": "多航段机票价格大跳水",
@@ -16305,6 +16305,14 @@
       "onboard_time": 1696301794,
       "rank": 11,
       "category": "数码"
+    },
+    {
+      "raw_hot": 101985,
+      "num": 101985,
+      "word": "女子跳河轻生民警这段呼唤太暖心",
+      "onboard_time": 1696610248,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101932,

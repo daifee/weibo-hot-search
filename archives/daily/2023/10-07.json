@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696609365577,
+  "endTime": 1696610305896,
   "band_list": [
     {
       "raw_hot": 1307877,
@@ -59,8 +59,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 698644,
-      "num": 698644,
+      "raw_hot": 725530,
+      "num": 725530,
       "word": "定闹钟",
       "onboard_time": 1696607673,
       "rank": 7,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 378567,
+      "num": 378567,
+      "word": "井胧说了5遍我要哭了但没哭",
+      "onboard_time": 1696609232,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 375738,
       "num": 375738,
       "word": "老乡鸡",
@@ -129,6 +137,14 @@
       "onboard_time": 1696607316,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343344,
+      "num": 343344,
+      "word": "傲寒",
+      "onboard_time": 1696608333,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 320276,
@@ -147,28 +163,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 299604,
-      "num": 299604,
-      "word": "傲寒",
-      "onboard_time": 1696608333,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 266711,
       "num": 266711,
       "word": "我要是娜然真的会爱上那茜",
       "onboard_time": 1696606656,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 260820,
-      "num": 260820,
-      "word": "井胧说了5遍我要哭了但没哭",
-      "onboard_time": 1696609232,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 258540,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208014,
+      "num": 208014,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202261,
       "num": 202261,
       "word": "妈妈用了30年的洗澡盆",
@@ -232,14 +240,6 @@
       "word": "蓝天救援队公布疑似女童走失前视频",
       "onboard_time": 1696589080,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198738,
-      "num": 198738,
-      "word": "日本海鲜滞销堆积成山",
-      "onboard_time": 1696592498,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -307,6 +307,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 177425,
+      "num": 418332,
+      "word": "女游客昏迷倒地交警一路呼喊及时送医",
+      "onboard_time": 1696607793,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157336,
       "num": 157336,
       "word": "冯琳好优秀",
@@ -328,14 +336,6 @@
       "word": "上海警方通报4岁女童在海边走失",
       "onboard_time": 1696582356,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143583,
-      "num": 418332,
-      "word": "女游客昏迷倒地交警一路呼喊及时送医",
-      "onboard_time": 1696607793,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -387,12 +387,36 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 115501,
+      "num": 115501,
+      "word": "沈梦辰秒答迪丽热巴",
+      "onboard_time": 1696594418,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105734,
+      "num": 105734,
+      "word": "五条人被乐夏淘汰三次复活三次",
+      "onboard_time": 1696592739,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104958,
       "num": 413361,
       "word": "中国队锁定羽毛球男单金牌",
       "onboard_time": 1696602643,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101985,
+      "num": 101985,
+      "word": "女子跳河轻生民警这段呼唤太暖心",
+      "onboard_time": 1696610248,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57440,
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#杭州亚运感谢有你#"
+    },
+    {
+      "word": "#以体育促和平将亚洲打造成世界和平的稳定锚#"
     }
   ]
 }
