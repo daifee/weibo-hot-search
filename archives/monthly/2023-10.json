@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696588521947,
+  "endTime": 1696590877649,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -625,6 +625,14 @@
       "onboard_time": 1696562853,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1873003,
+      "num": 1873003,
+      "word": "王楚钦吸氧",
+      "onboard_time": 1696589799,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1862248,
@@ -1435,6 +1443,14 @@
       "category": "幽默,互联网"
     },
     {
+      "raw_hot": 1246631,
+      "num": 1246631,
+      "word": "上海失踪4岁女童母亲发声",
+      "onboard_time": 1696583733,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242296,
       "num": 1242296,
       "word": "李泽锋 轻舟已过万重山",
@@ -1643,11 +1659,11 @@
       "category": "游戏,体育"
     },
     {
-      "raw_hot": 1135453,
-      "num": 1135453,
-      "word": "上海失踪4岁女童母亲发声",
-      "onboard_time": 1696583733,
-      "rank": 25,
+      "raw_hot": 1137919,
+      "num": 1137919,
+      "word": "蓝天救援队公布疑似女童走失前视频",
+      "onboard_time": 1696589080,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -2043,6 +2059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 956731,
+      "num": 956731,
+      "word": "Super Shy",
+      "onboard_time": 1696588000,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 956555,
       "num": 956555,
       "word": "夫妻在有小孩之后发生的改变",
@@ -2137,6 +2161,14 @@
       "onboard_time": 1696571793,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913985,
+      "num": 1873538,
+      "word": "王楚钦孙颖莎出战混双",
+      "onboard_time": 1696583078,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 911416,
@@ -2337,6 +2369,14 @@
       "onboard_time": 1696326637,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 866303,
+      "num": 866303,
+      "word": "追星爽文",
+      "onboard_time": 1696588360,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 865323,
@@ -3299,14 +3339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 677207,
-      "num": 677207,
-      "word": "Super Shy",
-      "onboard_time": 1696588000,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 676661,
       "num": 568675,
       "word": "章昊直播 间歇性活跃常态性漏电",
@@ -4187,6 +4219,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 555774,
+      "num": 495355,
+      "word": "避免社交我在高铁上假装韩国人",
+      "onboard_time": 1696586617,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 554324,
       "num": 554324,
       "word": "黄子诚被扔下海",
@@ -4763,14 +4803,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 488504,
-      "num": 238758,
-      "word": "避免社交我在高铁上假装韩国人",
-      "onboard_time": 1696586617,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 488176,
       "num": 488176,
       "word": "夜色尚浅",
@@ -4817,6 +4849,14 @@
       "onboard_time": 1696507296,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483339,
+      "num": 483339,
+      "word": "泰国14岁枪手被转往精神病院",
+      "onboard_time": 1696588658,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 482722,
@@ -5040,6 +5080,14 @@
       "word": "王楚钦孙颖莎今日领衔出战",
       "onboard_time": 1696477418,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 466007,
+      "num": 466007,
+      "word": "赵继伟哭了",
+      "onboard_time": 1696589382,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -5683,6 +5731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 408236,
+      "num": 408236,
+      "word": "苏醒在线吃瓜",
+      "onboard_time": 1696588836,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407199,
       "num": 407199,
       "word": "王楚钦孙颖莎3比2梁靖崑钱天一",
@@ -6051,14 +6107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 386046,
-      "num": 386046,
-      "word": "追星爽文",
-      "onboard_time": 1696588360,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 385465,
       "num": 385465,
       "word": "婚车偶遇2位新娘探出车窗互送喜糖",
@@ -6097,6 +6145,14 @@
       "onboard_time": 1696303894,
       "rank": 33,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 384180,
+      "num": 1875072,
+      "word": "民警捡身份证归还时开启唠叨模式",
+      "onboard_time": 1696589198,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384080,
@@ -6161,6 +6217,14 @@
       "onboard_time": 1696583677,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379830,
+      "num": 376546,
+      "word": "头一次吃了有文化的亏",
+      "onboard_time": 1696588479,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 379121,
@@ -6256,14 +6320,6 @@
       "word": "袁琦琦的腿",
       "onboard_time": 1696512876,
       "rank": 43,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 370729,
-      "num": 1542279,
-      "word": "王楚钦孙颖莎出战混双",
-      "onboard_time": 1696583078,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -8267,6 +8323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286329,
+      "num": 286329,
+      "word": "中国台北男篮台湾腔夸中国队",
+      "onboard_time": 1696589438,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286006,
       "num": 286006,
       "word": "游客泰山顶挥舞国旗齐喊祖国万岁",
@@ -8513,6 +8577,14 @@
       "onboard_time": 1696421796,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 278641,
+      "num": 278641,
+      "word": "中国篮球2金1铜收官",
+      "onboard_time": 1696590338,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 278555,
@@ -9747,6 +9819,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 243790,
+      "num": 243790,
+      "word": "羽毛球混双",
+      "onboard_time": 1696588836,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 243673,
       "num": 243673,
       "word": "老外差点把杭州搬回家了",
@@ -9761,6 +9841,14 @@
       "onboard_time": 1696089754,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 243031,
+      "num": 243031,
+      "word": "周雨彤明艳风",
+      "onboard_time": 1696587517,
+      "rank": 33,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 242971,
@@ -10579,14 +10667,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222543,
-      "num": 222543,
-      "word": "周雨彤明艳风",
-      "onboard_time": 1696587517,
-      "rank": 33,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 222423,
       "num": 222423,
       "word": "雷佳音和刘宪华让我的笑停不下来",
@@ -10683,6 +10763,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 220621,
+      "num": 220621,
+      "word": "中秋国庆假期国内8.26亿人次出游",
+      "onboard_time": 1696590039,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220201,
       "num": 220201,
       "word": "曾舜晞掉小珍珠了",
@@ -10769,6 +10857,14 @@
       "onboard_time": 1696510119,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216912,
+      "num": 216912,
+      "word": "大梦归离",
+      "onboard_time": 1696588897,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 216834,
@@ -11571,6 +11667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201137,
+      "num": 201137,
+      "word": "五月天演唱会",
+      "onboard_time": 1696590280,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 200947,
       "num": 200947,
       "word": "英超",
@@ -12371,6 +12475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188956,
+      "num": 188956,
+      "word": "孙彩瑛 MELODY PROJECT COVER",
+      "onboard_time": 1696590338,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 188762,
       "num": 188762,
       "word": "曾舜晞发博感谢大家的到来",
@@ -13115,14 +13227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173745,
-      "num": 173745,
-      "word": "头一次吃了有文化的亏",
-      "onboard_time": 1696588479,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 173732,
       "num": 173732,
       "word": "郑钦文说不会原谅前教练",
@@ -13515,6 +13619,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 163531,
+      "num": 163531,
+      "word": "赵睿说给大家添堵了",
+      "onboard_time": 1696590760,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163244,
       "num": 163244,
       "word": "哈利波特为什么是七部的原因",
@@ -13785,6 +13897,14 @@
       "onboard_time": 1696565493,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158055,
+      "num": 158055,
+      "word": "普通人能把生活过得多精彩",
+      "onboard_time": 1696590161,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 158050,
@@ -15609,6 +15729,14 @@
       "onboard_time": 1696187116,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85103,
+      "num": 503742,
+      "word": "龚莉又飒又美",
+      "onboard_time": 1696590039,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 84634,

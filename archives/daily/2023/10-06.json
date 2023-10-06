@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696588521947,
+  "endTime": 1696590877649,
   "band_list": [
     {
       "raw_hot": 10661875,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1873003,
+      "num": 1873003,
+      "word": "王楚钦吸氧",
+      "onboard_time": 1696589799,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1834681,
       "num": 1834681,
       "word": "周润发回应裸捐56亿港币",
@@ -147,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1246631,
+      "num": 1246631,
+      "word": "上海失踪4岁女童母亲发声",
+      "onboard_time": 1696583733,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1242296,
       "num": 1242296,
       "word": "李泽锋 轻舟已过万重山",
@@ -211,11 +227,11 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 1135453,
-      "num": 1135453,
-      "word": "上海失踪4岁女童母亲发声",
-      "onboard_time": 1696583733,
-      "rank": 25,
+      "raw_hot": 1137919,
+      "num": 1137919,
+      "word": "蓝天救援队公布疑似女童走失前视频",
+      "onboard_time": 1696589080,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -259,6 +275,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 956731,
+      "num": 956731,
+      "word": "Super Shy",
+      "onboard_time": 1696588000,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 952951,
       "num": 952951,
       "word": "经期不能做的6件事",
@@ -283,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 913985,
+      "num": 1873538,
+      "word": "王楚钦孙颖莎出战混双",
+      "onboard_time": 1696583078,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 898003,
       "num": 898003,
       "word": "韩素希和车银优一起拍广告了",
@@ -305,6 +337,14 @@
       "onboard_time": 1696520133,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 866303,
+      "num": 866303,
+      "word": "追星爽文",
+      "onboard_time": 1696588360,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 865323,
@@ -459,14 +499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 677207,
-      "num": 677207,
-      "word": "Super Shy",
-      "onboard_time": 1696588000,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 669683,
       "num": 369130,
       "word": "38岁女老师被骗400万仍想和骗子结婚",
@@ -611,6 +643,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 555774,
+      "num": 495355,
+      "word": "避免社交我在高铁上假装韩国人",
+      "onboard_time": 1696586617,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 540663,
       "num": 540663,
       "word": "陈楚生我不想被选择",
@@ -651,20 +691,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 488504,
-      "num": 238758,
-      "word": "避免社交我在高铁上假装韩国人",
-      "onboard_time": 1696586617,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 484580,
       "num": 400518,
       "word": "朋友把身份证塞进手机后盖",
       "onboard_time": 1696562495,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 483339,
+      "num": 483339,
+      "word": "泰国14岁枪手被转往精神病院",
+      "onboard_time": 1696588658,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 481971,
@@ -697,6 +737,14 @@
       "onboard_time": 1696567715,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 466007,
+      "num": 466007,
+      "word": "赵继伟哭了",
+      "onboard_time": 1696589382,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 461751,
@@ -771,6 +819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408236,
+      "num": 408236,
+      "word": "苏醒在线吃瓜",
+      "onboard_time": 1696588836,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 402914,
       "num": 1465610,
       "word": "外国运动员体验亚运五件套",
@@ -811,19 +867,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 386046,
-      "num": 386046,
-      "word": "追星爽文",
-      "onboard_time": 1696588360,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384752,
       "num": 384752,
       "word": "迷笛志愿者丢手机被男子捡走报警追回",
       "onboard_time": 1696581634,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 384180,
+      "num": 1875072,
+      "word": "民警捡身份证归还时开启唠叨模式",
+      "onboard_time": 1696589198,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -833,6 +889,14 @@
       "onboard_time": 1696583677,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379830,
+      "num": 376546,
+      "word": "头一次吃了有文化的亏",
+      "onboard_time": 1696588479,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 379121,
@@ -857,14 +921,6 @@
       "onboard_time": 1696561833,
       "rank": 36,
       "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 370729,
-      "num": 1542279,
-      "word": "王楚钦孙颖莎出战混双",
-      "onboard_time": 1696583078,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 368855,
@@ -1163,6 +1219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 286329,
+      "num": 286329,
+      "word": "中国台北男篮台湾腔夸中国队",
+      "onboard_time": 1696589438,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285121,
       "num": 285121,
       "word": "樊振东减肥演我",
@@ -1193,6 +1257,14 @@
       "onboard_time": 1696520794,
       "rank": 22,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 278641,
+      "num": 278641,
+      "word": "中国篮球2金1铜收官",
+      "onboard_time": 1696590338,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 278555,
@@ -1403,6 +1475,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 243790,
+      "num": 243790,
+      "word": "羽毛球混双",
+      "onboard_time": 1696588836,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 243031,
+      "num": 243031,
+      "word": "周雨彤明艳风",
+      "onboard_time": 1696587517,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 242311,
       "num": 242311,
       "word": "叶舒华be故事感",
@@ -1515,12 +1603,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222543,
-      "num": 222543,
-      "word": "周雨彤明艳风",
-      "onboard_time": 1696587517,
-      "rank": 33,
-      "category": "作品衍生,时尚"
+      "raw_hot": 220621,
+      "num": 220621,
+      "word": "中秋国庆假期国内8.26亿人次出游",
+      "onboard_time": 1696590039,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220201,
@@ -1537,6 +1625,14 @@
       "onboard_time": 1696581814,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216912,
+      "num": 216912,
+      "word": "大梦归离",
+      "onboard_time": 1696588897,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 213205,
@@ -1625,6 +1721,14 @@
       "onboard_time": 1696568374,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201137,
+      "num": 201137,
+      "word": "五月天演唱会",
+      "onboard_time": 1696590280,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 200539,
@@ -1729,6 +1833,14 @@
       "onboard_time": 1696520975,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188956,
+      "num": 188956,
+      "word": "孙彩瑛 MELODY PROJECT COVER",
+      "onboard_time": 1696590338,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 188762,
@@ -1843,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 173745,
-      "num": 173745,
-      "word": "头一次吃了有文化的亏",
-      "onboard_time": 1696588479,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 173462,
       "num": 173462,
       "word": "李诗沣vs普兰诺伊",
@@ -1915,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163531,
+      "num": 163531,
+      "word": "赵睿说给大家添堵了",
+      "onboard_time": 1696590760,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162770,
       "num": 162770,
       "word": "王楚钦孙颖莎",
@@ -1953,6 +2065,14 @@
       "onboard_time": 1696565493,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158055,
+      "num": 158055,
+      "word": "普通人能把生活过得多精彩",
+      "onboard_time": 1696590161,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 157330,
@@ -2233,6 +2353,14 @@
       "onboard_time": 1696492650,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85103,
+      "num": 503742,
+      "word": "龚莉又飒又美",
+      "onboard_time": 1696590039,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 82225,
