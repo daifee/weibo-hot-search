@@ -1,0 +1,411 @@
+{
+  "startTime": 1696609365577,
+  "endTime": 1696609365577,
+  "band_list": [
+    {
+      "raw_hot": 1307877,
+      "num": 1307877,
+      "word": "女孩买胸贴女店员叠小票保护隐私",
+      "onboard_time": 1696601024,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1135770,
+      "num": 1135770,
+      "word": "他从火光中走来 男主死了",
+      "onboard_time": 1696594058,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1099898,
+      "num": 1099898,
+      "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+      "onboard_time": 1696600182,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000842,
+      "num": 1000842,
+      "word": "上海失踪4岁女童母亲发声",
+      "onboard_time": 1696583733,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 809756,
+      "num": 319529,
+      "word": "李钟硕颜值回春",
+      "onboard_time": 1696599463,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 788978,
+      "num": 788978,
+      "word": "喝咖啡上瘾对身体有害吗",
+      "onboard_time": 1696605580,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 756227,
+      "num": 756227,
+      "word": "Taylor Swift The Eras Tour有望引进",
+      "onboard_time": 1696603424,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 698644,
+      "num": 698644,
+      "word": "定闹钟",
+      "onboard_time": 1696607673,
+      "rank": 7,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 653048,
+      "num": 653048,
+      "word": "周杰伦给张艺兴送了花篮",
+      "onboard_time": 1696606719,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 580683,
+      "num": 580683,
+      "word": "金价连续下跌",
+      "onboard_time": 1696585172,
+      "rank": 9,
+      "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 556101,
+      "num": 556101,
+      "word": "奔跑中的刘浩存",
+      "onboard_time": 1696606178,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 485115,
+      "num": 485115,
+      "word": "迪丽热巴 万渣朝凰",
+      "onboard_time": 1696599106,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 412876,
+      "num": 412876,
+      "word": "半夜醒来时不要看时间",
+      "onboard_time": 1696598380,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 384538,
+      "num": 384538,
+      "word": "女童走失海滩曾有人被潮水卷走",
+      "onboard_time": 1696595559,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 375738,
+      "num": 375738,
+      "word": "老乡鸡",
+      "onboard_time": 1696596760,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 363273,
+      "num": 363273,
+      "word": "李沁去刘雨昕演唱会",
+      "onboard_time": 1696607316,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 320276,
+      "num": 320276,
+      "word": "黄景瑜和网友决战紫禁之巅",
+      "onboard_time": 1696599705,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 304457,
+      "num": 304457,
+      "word": "万渣朝凰",
+      "onboard_time": 1696600967,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 299604,
+      "num": 299604,
+      "word": "傲寒",
+      "onboard_time": 1696608333,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 266711,
+      "num": 266711,
+      "word": "我要是娜然真的会爱上那茜",
+      "onboard_time": 1696606656,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 260820,
+      "num": 260820,
+      "word": "井胧说了5遍我要哭了但没哭",
+      "onboard_time": 1696609232,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 258540,
+      "num": 258540,
+      "word": "张艺兴太会了",
+      "onboard_time": 1696599763,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 249642,
+      "num": 249642,
+      "word": "姚明说要向日本篮球学习",
+      "onboard_time": 1696606477,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229027,
+      "num": 229027,
+      "word": "韩素希不能当爱豆的原因",
+      "onboard_time": 1696599946,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217823,
+      "num": 217823,
+      "word": "黄景瑜 男主没有死",
+      "onboard_time": 1696597063,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216696,
+      "num": 216696,
+      "word": "测评博主吐槽王鹤棣潮牌",
+      "onboard_time": 1696595499,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210846,
+      "num": 210846,
+      "word": "上班",
+      "onboard_time": 1696607495,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 202261,
+      "num": 202261,
+      "word": "妈妈用了30年的洗澡盆",
+      "onboard_time": 1696600545,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201146,
+      "num": 201146,
+      "word": "蓝天救援队公布疑似女童走失前视频",
+      "onboard_time": 1696589080,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198738,
+      "num": 198738,
+      "word": "日本海鲜滞销堆积成山",
+      "onboard_time": 1696592498,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197739,
+      "num": 197739,
+      "word": "儿子说朋友挂了被父亲举报吸毒",
+      "onboard_time": 1696593457,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193312,
+      "num": 193312,
+      "word": "王丽坤戴面具32集终于摘掉了",
+      "onboard_time": 1696595858,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193236,
+      "num": 193236,
+      "word": "王楚然拍的天空",
+      "onboard_time": 1696601205,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189009,
+      "num": 434116,
+      "word": "爸爸带娃主打潦草",
+      "onboard_time": 1696601024,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183797,
+      "num": 183797,
+      "word": "王楚钦带着高原反应打球",
+      "onboard_time": 1696601385,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182380,
+      "num": 182380,
+      "word": "老师订10余套演出服用完立马退货",
+      "onboard_time": 1696600363,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180559,
+      "num": 180559,
+      "word": "日本女足夺得亚运冠军",
+      "onboard_time": 1696603965,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 179379,
+      "num": 179379,
+      "word": "弗格森妻子去世",
+      "onboard_time": 1696605105,
+      "rank": 40,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 157336,
+      "num": 157336,
+      "word": "冯琳好优秀",
+      "onboard_time": 1696600003,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 150963,
+      "num": 150963,
+      "word": "问界新M7",
+      "onboard_time": 1696605222,
+      "rank": 42,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 144810,
+      "num": 144810,
+      "word": "上海警方通报4岁女童在海边走失",
+      "onboard_time": 1696582356,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143583,
+      "num": 418332,
+      "word": "女游客昏迷倒地交警一路呼喊及时送医",
+      "onboard_time": 1696607793,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139663,
+      "num": 139663,
+      "word": "巴黎路人镜头下的杨紫",
+      "onboard_time": 1696603842,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 139623,
+      "num": 139623,
+      "word": "主持人大赛",
+      "onboard_time": 1696595739,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138428,
+      "num": 138428,
+      "word": "回春丹",
+      "onboard_time": 1696603663,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 134531,
+      "num": 134531,
+      "word": "马天宇养了两个月的鹌鹑",
+      "onboard_time": 1696601385,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 132048,
+      "num": 132048,
+      "word": "菲律宾男篮亚运会金牌",
+      "onboard_time": 1696603602,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129525,
+      "num": 129525,
+      "word": "一张照片证明这个假期你在哪里",
+      "onboard_time": 1696603002,
+      "rank": 49,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 104958,
+      "num": 413361,
+      "word": "中国队锁定羽毛球男单金牌",
+      "onboard_time": 1696602643,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57440,
+      "num": 1112801,
+      "word": "秋日里的中国大地有多少种色彩",
+      "onboard_time": 1696598623,
+      "rank": 2,
+      "category": "社会新闻"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#杭州亚运感谢有你#"
+    }
+  ]
+}
