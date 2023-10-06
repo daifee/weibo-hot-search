@@ -1,0 +1,410 @@
+{
+  "runTime": 1696574152646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2172583,
+        "num": 2172583,
+        "word": "日本流水面致892人中毒",
+        "onboard_time": 1696570113,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1053753,
+        "num": 1053753,
+        "word": "吴京探班 霍思燕泪洒 张艺谋震惊",
+        "onboard_time": 1696567417,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105902,
+        "num": 735924,
+        "word": "他们是最好的队友也是最好的对手",
+        "onboard_time": 1696565493,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1419483,
+        "num": 725248,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699934,
+        "num": 699934,
+        "word": "陈飞宇首次回应弄丢妖猫传的猫",
+        "onboard_time": 1696560033,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 646754,
+        "num": 646754,
+        "word": "苏炳添竟然不是田径队第一翘臀",
+        "onboard_time": 1696572515,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 617598,
+        "num": 617598,
+        "word": "河南官媒呼吁网友不要地域黑",
+        "onboard_time": 1696568974,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569786,
+        "num": 569786,
+        "word": "8天很短7天很长",
+        "onboard_time": 1696564594,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 562017,
+        "num": 562017,
+        "word": "Jennie新歌封面是武内直子画的",
+        "onboard_time": 1696563096,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 540663,
+        "num": 540663,
+        "word": "陈楚生我不想被选择",
+        "onboard_time": 1696573533,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 658411,
+        "num": 539904,
+        "word": "IVE空降",
+        "onboard_time": 1696568974,
+        "rank": 10,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 607227,
+        "num": 539148,
+        "word": "易烊千玺牛仔叠穿",
+        "onboard_time": 1696568314,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 415617,
+        "num": 538345,
+        "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+        "onboard_time": 1696560634,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 246656,
+        "num": 537366,
+        "word": "全红婵背了一包玩偶离开杭州",
+        "onboard_time": 1696558773,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233182,
+        "num": 536393,
+        "word": "迷笛音乐节组委会称不希望地域攻击",
+        "onboard_time": 1696554034,
+        "rank": 14,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 535706,
+        "num": 535706,
+        "word": "她一辈子是林双的小狐狸",
+        "onboard_time": 1696570413,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 451023,
+        "num": 451023,
+        "word": "赵丽颖为陆毅关智斌打call",
+        "onboard_time": 1696567774,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445367,
+        "num": 445367,
+        "word": "苹果升级系统后充电温度可降7.4度",
+        "onboard_time": 1696570716,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 339972,
+        "num": 339972,
+        "word": "卢昱晓王牌对王牌路透",
+        "onboard_time": 1696570773,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290488,
+        "num": 290488,
+        "word": "韩素希和车银优一起拍广告了",
+        "onboard_time": 1696566096,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 914351,
+        "num": 288761,
+        "word": "两干部流出不雅视频被停职",
+        "onboard_time": 1696571793,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281232,
+        "num": 281232,
+        "word": "澳门汉堡的名字也太直白了",
+        "onboard_time": 1696571075,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 271199,
+        "num": 271199,
+        "word": "Jennie个人单曲音源上线",
+        "onboard_time": 1696567897,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 265268,
+        "num": 265268,
+        "word": "竹马天降都是你开机",
+        "onboard_time": 1696568194,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245488,
+        "num": 245488,
+        "word": "流浪猫占窝狗狗无奈求助主人",
+        "onboard_time": 1696572996,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241981,
+        "num": 241981,
+        "word": "街办回应两干部忘关摄像头流出不雅视频",
+        "onboard_time": 1696572215,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227329,
+        "num": 227329,
+        "word": "大结局卫明出现幻觉",
+        "onboard_time": 1696568681,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219741,
+        "num": 219741,
+        "word": "眼睛一闭就养肝",
+        "onboard_time": 1696565853,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 216654,
+        "num": 216654,
+        "word": "江宁婆婆评南阳盗窃事件",
+        "onboard_time": 1696555954,
+        "rank": 28,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 206625,
+        "num": 206625,
+        "word": "中国女足铜牌战",
+        "onboard_time": 1696571314,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328463,
+        "num": 205668,
+        "word": "经期不能做的6件事",
+        "onboard_time": 1696573773,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243233,
+        "num": 205421,
+        "word": "真的别再用学生思维上班",
+        "onboard_time": 1696573296,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 202296,
+        "num": 202296,
+        "word": "胡兵给蔡国庆王栎鑫一人一个7层大蛋糕",
+        "onboard_time": 1696567715,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200587,
+        "num": 200587,
+        "word": "提醒两种不要生吃的东西",
+        "onboard_time": 1696562913,
+        "rank": 33,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 199545,
+        "num": 199545,
+        "word": "IVE先行曲OffTheRecord",
+        "onboard_time": 1696567715,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 196655,
+        "num": 196655,
+        "word": "网友在冰岛偶遇迪丽热巴",
+        "onboard_time": 1696550548,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194604,
+        "num": 194604,
+        "word": "国庆别走",
+        "onboard_time": 1696573715,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190086,
+        "num": 190086,
+        "word": "朋友把身份证塞进手机后盖",
+        "onboard_time": 1696562495,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189265,
+        "num": 189265,
+        "word": "不经意看到妈妈的内衣扣感觉很心酸",
+        "onboard_time": 1696553612,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179781,
+        "num": 179781,
+        "word": "韩国选手否认模仿羞辱何冰娇",
+        "onboard_time": 1696558652,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172123,
+        "num": 172123,
+        "word": "Fact Check",
+        "onboard_time": 1696570655,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165839,
+        "num": 165839,
+        "word": "外媒报道王一博巴黎时装周",
+        "onboard_time": 1696564115,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163203,
+        "num": 163203,
+        "word": "樊振东减肥演我",
+        "onboard_time": 1696567113,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162570,
+        "num": 162570,
+        "word": "披荆斩棘3四公真人秀海报",
+        "onboard_time": 1696561413,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154997,
+        "num": 154997,
+        "word": "上海4岁女童海滩走失已超24小时",
+        "onboard_time": 1696548863,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149195,
+        "num": 149195,
+        "word": "孙颖莎终极目标是巴黎奥运会",
+        "onboard_time": 1696560393,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144988,
+        "num": 144988,
+        "word": "送全红婵小乌龟的人找到了",
+        "onboard_time": 1696565734,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142983,
+        "num": 142983,
+        "word": "披荆斩棘",
+        "onboard_time": 1696568614,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141567,
+        "num": 141567,
+        "word": "环卫大叔潜水半分钟帮女子捞回手机",
+        "onboard_time": 1696574076,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139059,
+        "num": 139059,
+        "word": "周杰伦 一生中最爱",
+        "onboard_time": 1696558353,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}

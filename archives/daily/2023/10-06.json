@@ -1,6 +1,6 @@
 {
   "startTime": 1696523005955,
-  "endTime": 1696573367056,
+  "endTime": 1696574152646,
   "band_list": [
     {
       "raw_hot": 2344177,
@@ -19,20 +19,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2172583,
+      "num": 2172583,
+      "word": "日本流水面致892人中毒",
+      "onboard_time": 1696570113,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2085589,
       "num": 2085589,
       "word": "陈飞宇首次回应弄丢妖猫传的猫",
       "onboard_time": 1696560033,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2075364,
-      "num": 2075364,
-      "word": "日本流水面致892人中毒",
-      "onboard_time": 1696570113,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2015721,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1376713,
-      "num": 479556,
+      "num": 539904,
       "word": "IVE空降",
       "onboard_time": 1696568974,
       "rank": 12,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1151015,
-      "num": 477108,
+      "num": 539148,
       "word": "易烊千玺牛仔叠穿",
       "onboard_time": 1696568314,
       "rank": 13,
@@ -347,6 +347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 646754,
+      "num": 646754,
+      "word": "苏炳添竟然不是田径队第一翘臀",
+      "onboard_time": 1696572515,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 642774,
       "num": 642774,
       "word": "江宁婆婆评南阳盗窃事件",
@@ -435,6 +443,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 540663,
+      "num": 540663,
+      "word": "陈楚生我不想被选择",
+      "onboard_time": 1696573533,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 525010,
       "num": 480656,
       "word": "这是属于小说圈的美貌吧",
@@ -499,6 +515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 445367,
+      "num": 445367,
+      "word": "苹果升级系统后充电温度可降7.4度",
+      "onboard_time": 1696570716,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 430644,
       "num": 430644,
       "word": "王楚钦 很清醒很聪明",
@@ -513,14 +537,6 @@
       "onboard_time": 1696548202,
       "rank": 16,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 403585,
-      "num": 403585,
-      "word": "苹果升级系统后充电温度可降7.4度",
-      "onboard_time": 1696570716,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 397960,
@@ -584,14 +600,6 @@
       "word": "全红婵有多尊重女记者",
       "onboard_time": 1696549103,
       "rank": 23,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 366807,
-      "num": 366807,
-      "word": "苏炳添竟然不是田径队第一翘臀",
-      "onboard_time": 1696572515,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -673,6 +681,14 @@
       "onboard_time": 1696512516,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 328463,
+      "num": 205668,
+      "word": "经期不能做的6件事",
+      "onboard_time": 1696573773,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 326537,
@@ -987,12 +1003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245488,
+      "num": 245488,
+      "word": "流浪猫占窝狗狗无奈求助主人",
+      "onboard_time": 1696572996,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 243883,
       "num": 243883,
       "word": "中国女篮决赛DJ有多爱张杰",
       "onboard_time": 1696519177,
       "rank": 25,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 243233,
+      "num": 205421,
+      "word": "真的别再用学生思维上班",
+      "onboard_time": 1696573296,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 242311,
@@ -1185,6 +1217,14 @@
       "onboard_time": 1696551090,
       "rank": 33,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 194604,
+      "num": 194604,
+      "word": "国庆别走",
+      "onboard_time": 1696573715,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 192656,
@@ -1387,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152031,
-      "num": 152031,
-      "word": "流浪猫占窝狗狗无奈求助主人",
-      "onboard_time": 1696572996,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 151411,
       "num": 151411,
       "word": "全红婵水花比我下饺子还小",
@@ -1451,12 +1483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 139831,
-      "num": 139831,
-      "word": "真的别再用学生思维上班",
-      "onboard_time": 1696573296,
+      "raw_hot": 141567,
+      "num": 141567,
+      "word": "环卫大叔潜水半分钟帮女子捞回手机",
+      "onboard_time": 1696574076,
       "rank": 48,
-      "category": "情感"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139103,
