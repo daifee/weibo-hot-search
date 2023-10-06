@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696563255559,
+  "endTime": 1696566008721,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1131,6 +1131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1411394,
+      "num": 1411394,
+      "word": "Jennie新歌封面是武内直子画的",
+      "onboard_time": 1696563096,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1402353,
       "num": 609542,
       "word": "许家印",
@@ -1395,6 +1403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1228592,
+      "num": 1228592,
+      "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+      "onboard_time": 1696560634,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1222540,
       "num": 1222540,
       "word": "张镇麟投篮选择",
@@ -1643,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1055459,
+      "num": 1055459,
+      "word": "提醒两种不要生吃的东西",
+      "onboard_time": 1696562913,
+      "rank": 32,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 1052615,
       "num": 1052615,
       "word": "于和伟私底下穿吊带",
@@ -1665,14 +1689,6 @@
       "onboard_time": 1696343019,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1045075,
-      "num": 515870,
-      "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
-      "onboard_time": 1696560634,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1044823,
@@ -1825,6 +1841,14 @@
       "onboard_time": 1696248276,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 995359,
+      "num": 995359,
+      "word": "外媒报道王一博巴黎时装周",
+      "onboard_time": 1696564115,
+      "rank": 6,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 990481,
@@ -2089,6 +2113,14 @@
       "onboard_time": 1696484792,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 883177,
+      "num": 883177,
+      "word": "上海4岁女童海滩走失父亲发声",
+      "onboard_time": 1696562853,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 883116,
@@ -3003,6 +3035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 684789,
+      "num": 684789,
+      "word": "8天很短7天很长",
+      "onboard_time": 1696564594,
+      "rank": 9,
+      "category": "情感"
+    },
+    {
       "raw_hot": 684270,
       "num": 684270,
       "word": "国乒6金2银1铜收官",
@@ -3348,7 +3388,7 @@
     },
     {
       "raw_hot": 628016,
-      "num": 278667,
+      "num": 283390,
       "word": "孟非参观祖屋要看房产证",
       "onboard_time": 1696553672,
       "rank": 30,
@@ -3467,6 +3507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604926,
+      "num": 604926,
+      "word": "何冰娇无缘决赛",
+      "onboard_time": 1696563936,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 602599,
       "num": 401075,
       "word": "身体还很年轻的表现",
@@ -3489,6 +3537,14 @@
       "onboard_time": 1696164766,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 599519,
+      "num": 599519,
+      "word": "周杰伦 一生中最爱",
+      "onboard_time": 1696558353,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 599095,
@@ -3800,14 +3856,6 @@
       "word": "华晨宇把演唱会办成升学宴",
       "onboard_time": 1696519534,
       "rank": 12,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 565235,
-      "num": 482516,
-      "word": "周杰伦 一生中最爱",
-      "onboard_time": 1696558353,
-      "rank": 19,
       "category": "演出"
     },
     {
@@ -4457,6 +4505,14 @@
       "onboard_time": 1696492832,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 484580,
+      "num": 400518,
+      "word": "朋友把身份证塞进手机后盖",
+      "onboard_time": 1696562495,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 484445,
@@ -5291,14 +5347,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 406401,
-      "num": 378505,
-      "word": "朋友把身份证塞进手机后盖",
-      "onboard_time": 1696562495,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 406057,
       "num": 406057,
       "word": "重庆 躲雨图",
@@ -5739,6 +5787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 376005,
+      "num": 493796,
+      "word": "中国女子龙舟1000米金牌",
+      "onboard_time": 1696565195,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375855,
       "num": 375855,
       "word": "腾讯视频回应推出胆小模式",
@@ -6145,6 +6201,14 @@
       "onboard_time": 1696171363,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352396,
+      "num": 352396,
+      "word": "宋轶加盟哎呀好身材5",
+      "onboard_time": 1696564714,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 352216,
@@ -6673,6 +6737,14 @@
       "onboard_time": 1696219051,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 323505,
+      "num": 323505,
+      "word": "丫丫一把薅掉蓝球只吃笋笋",
+      "onboard_time": 1696564476,
+      "rank": 26,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 322867,
@@ -7499,6 +7571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291218,
+      "num": 291218,
+      "word": "父亲田间认出归家消防员儿子小跑戳泪",
+      "onboard_time": 1696565074,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291081,
       "num": 291081,
       "word": "利拉德申请离婚",
@@ -8019,14 +8099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 275652,
-      "num": 275652,
-      "word": "提醒两种不要生吃的东西",
-      "onboard_time": 1696562913,
-      "rank": 32,
-      "category": "美食,知识科普"
-    },
-    {
       "raw_hot": 275497,
       "num": 275497,
       "word": "EDG第一幕夺冠",
@@ -8081,6 +8153,14 @@
       "onboard_time": 1696129354,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 274510,
+      "num": 274510,
+      "word": "调休用英语怎么说",
+      "onboard_time": 1696563035,
+      "rank": 46,
+      "category": "其它"
     },
     {
       "raw_hot": 274239,
@@ -9115,6 +9195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 242311,
+      "num": 242311,
+      "word": "叶舒华be故事感",
+      "onboard_time": 1696564957,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 242038,
       "num": 242038,
       "word": "住酒店一定要注意这些地方",
@@ -9475,20 +9563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 230104,
-      "num": 230104,
-      "word": "上海4岁女童海滩走失父亲发声",
-      "onboard_time": 1696562853,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229264,
       "num": 229264,
       "word": "元气少女缘结神巴卫新粘土人",
       "onboard_time": 1696127731,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 228863,
+      "num": 228863,
+      "word": "喻言溯造型梦回青你",
+      "onboard_time": 1696563874,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 228756,
@@ -9593,6 +9681,14 @@
       "onboard_time": 1696479274,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227249,
+      "num": 227249,
+      "word": "中国男子龙舟1000米银牌",
+      "onboard_time": 1696565254,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 226933,
@@ -10081,14 +10177,6 @@
       "onboard_time": 1696427138,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214701,
-      "num": 214701,
-      "word": "Jennie新歌封面是武内直子画的",
-      "onboard_time": 1696563096,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 214557,
@@ -10931,6 +11019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199090,
+      "num": 199090,
+      "word": "送全红婵小乌龟的人找到了",
+      "onboard_time": 1696565734,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198826,
       "num": 198826,
       "word": "游客夜爬泰山高举国旗迎国庆",
@@ -10945,14 +11041,6 @@
       "onboard_time": 1696469072,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 198534,
-      "num": 198534,
-      "word": "调休用英语怎么说",
-      "onboard_time": 1696563035,
-      "rank": 46,
-      "category": "其它"
     },
     {
       "raw_hot": 198329,
@@ -11177,6 +11265,14 @@
       "onboard_time": 1696168782,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195170,
+      "num": 195170,
+      "word": "林雨薇第一次知道家里有这么多亲戚",
+      "onboard_time": 1696565853,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 194728,
@@ -11651,12 +11747,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186419,
+      "num": 186419,
+      "word": "电影宣传公式已经掌握",
+      "onboard_time": 1696565734,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186289,
       "num": 186289,
       "word": "中国女篮亚运会五连胜",
       "onboard_time": 1696329575,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186173,
+      "num": 186173,
+      "word": "眼睛一闭就养肝",
+      "onboard_time": 1696565853,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185957,
@@ -15025,6 +15137,14 @@
       "onboard_time": 1696097359,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 40822,
+      "num": 1458531,
+      "word": "他们是最好的队友也是最好的对手",
+      "onboard_time": 1696565493,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 39735,

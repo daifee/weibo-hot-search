@@ -1,0 +1,410 @@
+{
+  "runTime": 1696566008721,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1883349,
+        "num": 1883349,
+        "word": "陈飞宇首次回应弄丢妖猫传的猫",
+        "onboard_time": 1696560033,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1514611,
+        "num": 1514611,
+        "word": "上海4岁女童海滩走失已超24小时",
+        "onboard_time": 1696548863,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40822,
+        "num": 1458531,
+        "word": "他们是最好的队友也是最好的对手",
+        "onboard_time": 1696565493,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1411394,
+        "num": 1411394,
+        "word": "Jennie新歌封面是武内直子画的",
+        "onboard_time": 1696563096,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1228592,
+        "num": 1228592,
+        "word": "俄坠机事件遇难者遗体内现手榴弹碎片",
+        "onboard_time": 1696560634,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1055459,
+        "num": 1055459,
+        "word": "提醒两种不要生吃的东西",
+        "onboard_time": 1696562913,
+        "rank": 5,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 995359,
+        "num": 995359,
+        "word": "外媒报道王一博巴黎时装周",
+        "onboard_time": 1696564115,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 883177,
+        "num": 883177,
+        "word": "上海4岁女童海滩走失父亲发声",
+        "onboard_time": 1696562853,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816510,
+        "num": 816510,
+        "word": "韩国选手否认模仿羞辱何冰娇",
+        "onboard_time": 1696558652,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 684789,
+        "num": 684789,
+        "word": "8天很短7天很长",
+        "onboard_time": 1696564594,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 662287,
+        "num": 662287,
+        "word": "全红婵背了一包玩偶离开杭州",
+        "onboard_time": 1696558773,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 604926,
+        "num": 604926,
+        "word": "何冰娇无缘决赛",
+        "onboard_time": 1696563936,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599519,
+        "num": 599519,
+        "word": "周杰伦 一生中最爱",
+        "onboard_time": 1696558353,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 504426,
+        "num": 504426,
+        "word": "金世佳被孩子求抱后续",
+        "onboard_time": 1696548383,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376005,
+        "num": 493796,
+        "word": "中国女子龙舟1000米金牌",
+        "onboard_time": 1696565195,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 484828,
+        "num": 484828,
+        "word": "江宁婆婆评南阳盗窃事件",
+        "onboard_time": 1696555954,
+        "rank": 15,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 480773,
+        "num": 480773,
+        "word": "怎么就6号了",
+        "onboard_time": 1696561295,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 434918,
+        "num": 434918,
+        "word": "网友在冰岛偶遇迪丽热巴",
+        "onboard_time": 1696550548,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417810,
+        "num": 417810,
+        "word": "周润发回应裸捐56亿港币",
+        "onboard_time": 1696549586,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407647,
+        "num": 407647,
+        "word": "六代的帅男人悄悄出现了",
+        "onboard_time": 1696555171,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484580,
+        "num": 400518,
+        "word": "朋友把身份证塞进手机后盖",
+        "onboard_time": 1696562495,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 379900,
+        "num": 379900,
+        "word": "披荆斩棘3四公真人秀海报",
+        "onboard_time": 1696561413,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364826,
+        "num": 364826,
+        "word": "王楚钦说孙颖莎是天才",
+        "onboard_time": 1696559134,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355416,
+        "num": 355416,
+        "word": "何冰娇",
+        "onboard_time": 1696560332,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352396,
+        "num": 352396,
+        "word": "宋轶加盟哎呀好身材5",
+        "onboard_time": 1696564714,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330513,
+        "num": 330513,
+        "word": "迷笛音乐节组委会称不希望地域攻击",
+        "onboard_time": 1696554034,
+        "rank": 25,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 323505,
+        "num": 323505,
+        "word": "丫丫一把薅掉蓝球只吃笋笋",
+        "onboard_time": 1696564476,
+        "rank": 26,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 320802,
+        "num": 320802,
+        "word": "黄景瑜说成毅很会扭",
+        "onboard_time": 1696562075,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 314027,
+        "num": 314027,
+        "word": "孙颖莎终极目标是巴黎奥运会",
+        "onboard_time": 1696560393,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291218,
+        "num": 291218,
+        "word": "父亲田间认出归家消防员儿子小跑戳泪",
+        "onboard_time": 1696565074,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286914,
+        "num": 286914,
+        "word": "不经意看到妈妈的内衣扣感觉很心酸",
+        "onboard_time": 1696553612,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 283390,
+        "num": 283390,
+        "word": "孟非参观祖屋要看房产证",
+        "onboard_time": 1696553672,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274510,
+        "num": 274510,
+        "word": "调休用英语怎么说",
+        "onboard_time": 1696563035,
+        "rank": 32,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 253699,
+        "num": 253699,
+        "word": "中餐厅的库存告急了",
+        "onboard_time": 1696562255,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245457,
+        "num": 245457,
+        "word": "毛晓彤说这届同事太难带了",
+        "onboard_time": 1696562135,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242645,
+        "num": 242645,
+        "word": "迪丽热巴好像导游",
+        "onboard_time": 1696561896,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242311,
+        "num": 242311,
+        "word": "叶舒华be故事感",
+        "onboard_time": 1696564957,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 235191,
+        "num": 235191,
+        "word": "黄景瑜不拍古装的原因",
+        "onboard_time": 1696548262,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232984,
+        "num": 232984,
+        "word": "杨鸣评价中国男篮心态失衡",
+        "onboard_time": 1696557452,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228863,
+        "num": 228863,
+        "word": "喻言溯造型梦回青你",
+        "onboard_time": 1696563874,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228170,
+        "num": 228170,
+        "word": "刘同 精神容易崩溃的人有一个共同点",
+        "onboard_time": 1696560995,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 227249,
+        "num": 227249,
+        "word": "中国男子龙舟1000米银牌",
+        "onboard_time": 1696565254,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208555,
+        "num": 208555,
+        "word": "她从19岁开始陪到他75岁了",
+        "onboard_time": 1696550668,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203822,
+        "num": 203822,
+        "word": "3女篮球员各获热销房奖励一套",
+        "onboard_time": 1696560513,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199090,
+        "num": 199090,
+        "word": "送全红婵小乌龟的人找到了",
+        "onboard_time": 1696565734,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195170,
+        "num": 195170,
+        "word": "林雨薇第一次知道家里有这么多亲戚",
+        "onboard_time": 1696565853,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193122,
+        "num": 193122,
+        "word": "官方通报幼儿园园长与无业男子开房",
+        "onboard_time": 1696557812,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191511,
+        "num": 191511,
+        "word": "谭爷爷教会花花玩滑梯了",
+        "onboard_time": 1696561833,
+        "rank": 47,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 186419,
+        "num": 186419,
+        "word": "电影宣传公式已经掌握",
+        "onboard_time": 1696565734,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 186173,
+        "num": 186173,
+        "word": "眼睛一闭就养肝",
+        "onboard_time": 1696565853,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#被中国亚运健儿鼓舞到了#"
+    }
+  }
+}
