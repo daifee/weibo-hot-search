@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696716910112,
+  "endTime": 1696718029022,
   "band_list": [
     {
       "raw_hot": 1850480,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96873,
+      "num": 96873,
+      "word": "迷笛音乐节要反思的不是当地群众",
+      "onboard_time": 1696712054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93809,
       "num": 93809,
       "word": "以色列国防军宣布进入战争状态",
@@ -427,6 +435,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 75905,
+      "num": 75905,
+      "word": "台风小犬",
+      "onboard_time": 1696713493,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 70327,
       "num": 70327,
       "word": "诛仙世界抽疯了",
@@ -435,20 +451,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 67258,
-      "num": 67258,
-      "word": "迷笛音乐节要反思的不是当地群众",
-      "onboard_time": 1696712054,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52646,
-      "num": 52646,
-      "word": "台风小犬",
-      "onboard_time": 1696713493,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 63901,
+      "num": 63901,
+      "word": "黄子诚夜闯被抓",
+      "onboard_time": 1696714815,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 49488,
@@ -467,23 +475,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 36892,
-      "num": 36892,
-      "word": "黄子诚夜闯被抓",
-      "onboard_time": 1696714815,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 28669,
-      "num": 28669,
+      "raw_hot": 35477,
+      "num": 35477,
       "word": "台风",
       "onboard_time": 1696715293,
       "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28441,
+      "raw_hot": 33596,
       "num": 52581,
       "word": "以色列遭袭后炮击加沙地带",
       "onboard_time": 1696708574,
@@ -491,20 +491,28 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 26525,
-      "num": 26525,
+      "raw_hot": 30002,
+      "num": 30002,
+      "word": "亚运闭幕式门票",
+      "onboard_time": 1696714454,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 28321,
+      "num": 28321,
       "word": "陈都灵吃饭也走流程",
       "onboard_time": 1696713134,
       "rank": 47,
       "category": "艺人"
     },
     {
-      "raw_hot": 22624,
-      "num": 22624,
-      "word": "亚运闭幕式门票",
-      "onboard_time": 1696714454,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 23108,
+      "num": 51839,
+      "word": "杨幂若把你直拍",
+      "onboard_time": 1696710493,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 22255,
@@ -513,14 +521,6 @@
       "onboard_time": 1696683578,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 22210,
-      "num": 51839,
-      "word": "杨幂若把你直拍",
-      "onboard_time": 1696710493,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19014,
