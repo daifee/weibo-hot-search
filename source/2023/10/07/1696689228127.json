@@ -1,0 +1,410 @@
+{
+  "runTime": 1696689228127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1754503,
+        "num": 1754503,
+        "word": "丁霞哭了",
+        "onboard_time": 1696687540,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1315790,
+        "num": 1315790,
+        "word": "国羽4金3银2铜收官",
+        "onboard_time": 1696688381,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33638,
+        "num": 1302022,
+        "word": "推进共建绿色一带一路",
+        "onboard_time": 1696683578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1499752,
+        "num": 1300287,
+        "word": "贝嫂谈贝克汉姆出轨",
+        "onboard_time": 1696673799,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1298504,
+        "num": 1298504,
+        "word": "六安地震",
+        "onboard_time": 1696685978,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1165659,
+        "num": 1165659,
+        "word": "中国女排夺冠",
+        "onboard_time": 1696683939,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1111275,
+        "num": 1111275,
+        "word": "花西子你是照着李佳琦化的吗",
+        "onboard_time": 1696671876,
+        "rank": 6,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1010073,
+        "num": 1010073,
+        "word": "研究证实怀孕会部分重置准妈妈大脑",
+        "onboard_time": 1696671757,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 880381,
+        "num": 880381,
+        "word": "韩国男足夺得亚运冠军",
+        "onboard_time": 1696687961,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 731056,
+        "num": 731056,
+        "word": "中国队突破200金",
+        "onboard_time": 1696686818,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 634160,
+        "num": 634160,
+        "word": "周深戏腔一开口惠英红都坐不住了",
+        "onboard_time": 1696681778,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44129,
+        "num": 609805,
+        "word": "中国女排亚运第九冠",
+        "onboard_time": 1696687540,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606333,
+        "num": 606333,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1696682257,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 541519,
+        "num": 541519,
+        "word": "亚运史上第1块霹雳舞金牌",
+        "onboard_time": 1696676017,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482206,
+        "num": 529828,
+        "word": "6金张雨霏获评最有价值女运动员",
+        "onboard_time": 1696685497,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 519299,
+        "num": 519299,
+        "word": "Amber一声哞让张凌赫绷不住了",
+        "onboard_time": 1696685805,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444324,
+        "num": 444324,
+        "word": "以巴爆发大规模冲突造成严重伤亡",
+        "onboard_time": 1696688262,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 436465,
+        "num": 436465,
+        "word": "王楚钦决胜局11比0",
+        "onboard_time": 1696676920,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 428365,
+        "num": 428365,
+        "word": "成龙去了张艺兴演唱会",
+        "onboard_time": 1696682257,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 426029,
+        "num": 426029,
+        "word": "动漫组合",
+        "onboard_time": 1696688560,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1129595,
+        "num": 424133,
+        "word": "母女双双吃蒸苹果的后果",
+        "onboard_time": 1696683219,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 625173,
+        "num": 416514,
+        "word": "韩国人疯狂喝咖啡的原因",
+        "onboard_time": 1696683820,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 578940,
+        "num": 410353,
+        "word": "气血不足一定不要乱补",
+        "onboard_time": 1696684417,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 478862,
+        "num": 408791,
+        "word": "10月不要请假",
+        "onboard_time": 1696668159,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 404095,
+        "num": 404095,
+        "word": "张元英公主造型",
+        "onboard_time": 1696682018,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 394616,
+        "num": 394616,
+        "word": "夫妻因饮食习惯同时确诊同种癌症",
+        "onboard_time": 1696684777,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385917,
+        "num": 385917,
+        "word": "以色列",
+        "onboard_time": 1696661376,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 372125,
+        "num": 372125,
+        "word": "以色列国防军宣布进入战争状态",
+        "onboard_time": 1696657778,
+        "rank": 27,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 368842,
+        "num": 368842,
+        "word": "24岁被妈妈发消息说注意避孕",
+        "onboard_time": 1696673919,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 363961,
+        "num": 363961,
+        "word": "陈雨菲银牌",
+        "onboard_time": 1696689102,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 489677,
+        "num": 357370,
+        "word": "中国女排集体拍拍领奖台",
+        "onboard_time": 1696687901,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 324130,
+        "num": 324130,
+        "word": "卢昱晓不愧是魅阶",
+        "onboard_time": 1696688206,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312824,
+        "num": 312824,
+        "word": "男子海边遇女童独自戏水守护10分钟",
+        "onboard_time": 1696682375,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311948,
+        "num": 311948,
+        "word": "Liz哭了",
+        "onboard_time": 1696679562,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306777,
+        "num": 306777,
+        "word": "中国男排2比3阿根廷男排",
+        "onboard_time": 1696687901,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292782,
+        "num": 292782,
+        "word": "长相思与狐妖小红娘将同期播出",
+        "onboard_time": 1696672475,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285073,
+        "num": 285073,
+        "word": "以色列总统发文",
+        "onboard_time": 1696672419,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 281450,
+        "num": 281450,
+        "word": "张子墨 时代峰峻",
+        "onboard_time": 1696675475,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270349,
+        "num": 270349,
+        "word": "林诗栋蒯曼3比2张本智和早田希娜",
+        "onboard_time": 1696688922,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262479,
+        "num": 262479,
+        "word": "皮划艇女选手赛后黄体破裂医生紧急救回",
+        "onboard_time": 1696686038,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 234644,
+        "num": 234644,
+        "word": "马龙vs梁靖崑",
+        "onboard_time": 1696678296,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234139,
+        "num": 234139,
+        "word": "张杰谈签下杨和苏",
+        "onboard_time": 1696666300,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227812,
+        "num": 227812,
+        "word": "卢昱晓看虞书欣眼里的爱要溢出来了",
+        "onboard_time": 1696683820,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219803,
+        "num": 219803,
+        "word": "网友高铁上偶遇朱一龙拍摄路透",
+        "onboard_time": 1696678536,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213149,
+        "num": 213149,
+        "word": "袁心玥",
+        "onboard_time": 1696682617,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209713,
+        "num": 209713,
+        "word": "陆虎给丁程鑫调起高了",
+        "onboard_time": 1696687423,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208681,
+        "num": 208681,
+        "word": "DJ念中国女排九冠王要吸氧",
+        "onboard_time": 1696685377,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227060,
+        "num": 207204,
+        "word": "虞书欣赐梦初舞台",
+        "onboard_time": 1696687124,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202818,
+        "num": 202818,
+        "word": "全锦赛",
+        "onboard_time": 1696689102,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197707,
+        "num": 197707,
+        "word": "浙DA4602谢谢你",
+        "onboard_time": 1696685618,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧紧依靠全体中华儿女共同奋斗#"
+    }
+  }
+}
