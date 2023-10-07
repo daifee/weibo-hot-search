@@ -1,0 +1,410 @@
+{
+  "runTime": 1696673802461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1792793,
+        "num": 1792793,
+        "word": "央视主持人张泽群实名举报朝阳区法院",
+        "onboard_time": 1696671995,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1484022,
+        "num": 1484022,
+        "word": "花西子审美",
+        "onboard_time": 1696667439,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184510,
+        "num": 1460318,
+        "word": "杭州亚运会明天闭幕",
+        "onboard_time": 1696671217,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214023,
+        "num": 1411620,
+        "word": "父母准备200斤土特产塞满后备箱",
+        "onboard_time": 1696662158,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263236,
+        "num": 1369266,
+        "word": "做过外卖员的他30岁破格进入国家队",
+        "onboard_time": 1696667318,
+        "rank": 4,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 2110524,
+        "num": 1270585,
+        "word": "研究证实怀孕会部分重置准妈妈大脑",
+        "onboard_time": 1696671757,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1631362,
+        "num": 1251980,
+        "word": "失踪女童母亲曾催丈夫回去找女儿",
+        "onboard_time": 1696668159,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86067,
+        "num": 1160013,
+        "word": "盘点杭州亚运会啦啦队整活",
+        "onboard_time": 1696670676,
+        "rank": 7,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1501629,
+        "num": 1108751,
+        "word": "花西子你是照着李佳琦化的吗",
+        "onboard_time": 1696671876,
+        "rank": 8,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1105350,
+        "num": 1105350,
+        "word": "李诗沣夺金",
+        "onboard_time": 1696672959,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 926456,
+        "num": 926456,
+        "word": "仅0.4%主播月收入超10万",
+        "onboard_time": 1696664557,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718221,
+        "num": 718221,
+        "word": "以色列",
+        "onboard_time": 1696661376,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 663914,
+        "num": 663914,
+        "word": "以色列国防军宣布进入战争状态",
+        "onboard_time": 1696657778,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 591656,
+        "num": 591656,
+        "word": "以色列总统发文",
+        "onboard_time": 1696672419,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 570392,
+        "num": 570392,
+        "word": "张杰谈签下杨和苏",
+        "onboard_time": 1696666300,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513897,
+        "num": 513897,
+        "word": "长相思与狐妖小红娘将同期播出",
+        "onboard_time": 1696672475,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503713,
+        "num": 503713,
+        "word": "杜华接了娱乐圈养成游戏的代言",
+        "onboard_time": 1696672359,
+        "rank": 16,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 433245,
+        "num": 433245,
+        "word": "张元英粉色小兔造型",
+        "onboard_time": 1696670917,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 429696,
+        "num": 429696,
+        "word": "陈凯歌 是中国人到这都想掉眼泪",
+        "onboard_time": 1696672298,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 393768,
+        "num": 393768,
+        "word": "石宇奇vs李诗沣",
+        "onboard_time": 1696669598,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1049817,
+        "num": 392499,
+        "word": "10月不要请假",
+        "onboard_time": 1696668159,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 505668,
+        "num": 390191,
+        "word": "鹿哈自曝带货7个月挣3500万",
+        "onboard_time": 1696650639,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 409191,
+        "num": 389011,
+        "word": "工资高又不卷的工作",
+        "onboard_time": 1696666959,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 384705,
+        "num": 384705,
+        "word": "为什么电脑病毒逐渐消失了",
+        "onboard_time": 1696671696,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 382218,
+        "num": 382218,
+        "word": "林高远17比15张本智和",
+        "onboard_time": 1696669298,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374206,
+        "num": 374206,
+        "word": "男朋友说闻到我要来大姨妈了",
+        "onboard_time": 1696667439,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 355348,
+        "num": 355348,
+        "word": "EDG",
+        "onboard_time": 1696671518,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 342876,
+        "num": 342876,
+        "word": "周启豪vs王楚钦",
+        "onboard_time": 1696673378,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312945,
+        "num": 312945,
+        "word": "万渣朝凰 8个男主",
+        "onboard_time": 1696664981,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304808,
+        "num": 304808,
+        "word": "孙艺洲称疑遭新型蟹卡诈骗",
+        "onboard_time": 1696660357,
+        "rank": 29,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 295936,
+        "num": 295936,
+        "word": "陈若琳对全红婵是满满的偏爱",
+        "onboard_time": 1696668159,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262167,
+        "num": 262167,
+        "word": "高圆圆美拉德穿搭",
+        "onboard_time": 1696671938,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255459,
+        "num": 255459,
+        "word": "室友说她新买了一个垃圾桶",
+        "onboard_time": 1696673561,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 254979,
+        "num": 254979,
+        "word": "王鹤棣白鹿以爱为营最新路透",
+        "onboard_time": 1696666835,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243002,
+        "num": 243002,
+        "word": "苹果商店现黄色软件伪装成学习软件",
+        "onboard_time": 1696652443,
+        "rank": 34,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 54490,
+        "num": 225917,
+        "word": "杭州姑娘用漫画记录夺金时刻",
+        "onboard_time": 1696672237,
+        "rank": 35,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 215213,
+        "num": 215213,
+        "word": "时间定了油价要跌",
+        "onboard_time": 1696667497,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 212624,
+        "num": 212624,
+        "word": "李诗沣",
+        "onboard_time": 1696671938,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210499,
+        "num": 210499,
+        "word": "邓为首部男主剧",
+        "onboard_time": 1696655322,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205818,
+        "num": 205818,
+        "word": "和三星堆拍照的正确姿势",
+        "onboard_time": 1696671876,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199812,
+        "num": 199812,
+        "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
+        "onboard_time": 1696656340,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188729,
+        "num": 188729,
+        "word": "羽毛球男单决赛",
+        "onboard_time": 1696669476,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182888,
+        "num": 182888,
+        "word": "28岁智障女子被迫嫁给34岁二婚男",
+        "onboard_time": 1696654544,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143101,
+        "num": 180559,
+        "word": "雅思组合卫冕冠军",
+        "onboard_time": 1696662034,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180258,
+        "num": 180258,
+        "word": "迪丽热巴创时装周最高媒体价值",
+        "onboard_time": 1696663116,
+        "rank": 44,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 174654,
+        "num": 174654,
+        "word": "吴亦凡经纪公司被强执近1900万",
+        "onboard_time": 1696653406,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169758,
+        "num": 169758,
+        "word": "阿娇阿Sa蓝花粉花",
+        "onboard_time": 1696672841,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 164521,
+        "num": 164521,
+        "word": "Doinb回应试训传闻",
+        "onboard_time": 1696671696,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161560,
+        "num": 161560,
+        "word": "印度夺亚运羽毛球男双冠军",
+        "onboard_time": 1696670978,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160125,
+        "num": 160125,
+        "word": "回家第一件事查父母手机",
+        "onboard_time": 1696665517,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}
