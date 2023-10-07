@@ -1,0 +1,410 @@
+{
+  "runTime": 1696685646945,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3881714,
+        "num": 3881714,
+        "word": "中国女排夺冠",
+        "onboard_time": 1696683939,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1050480,
+        "num": 1050480,
+        "word": "孙颖莎vs张本美和",
+        "onboard_time": 1696679562,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31726,
+        "num": 978904,
+        "word": "推进共建绿色一带一路",
+        "onboard_time": 1696683578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1434669,
+        "num": 978304,
+        "word": "贝嫂谈贝克汉姆出轨",
+        "onboard_time": 1696673799,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 977398,
+        "num": 977398,
+        "word": "花西子你是照着李佳琦化的吗",
+        "onboard_time": 1696671876,
+        "rank": 4,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 941027,
+        "num": 941027,
+        "word": "陈雨菲vs安洗莹",
+        "onboard_time": 1696681719,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739462,
+        "num": 739462,
+        "word": "研究证实怀孕会部分重置准妈妈大脑",
+        "onboard_time": 1696671757,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 713923,
+        "num": 713923,
+        "word": "羽毛球女单决赛",
+        "onboard_time": 1696681719,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 659781,
+        "num": 659781,
+        "word": "周深戏腔一开口惠英红都坐不住了",
+        "onboard_time": 1696681778,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 574698,
+        "num": 574698,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1696682257,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528122,
+        "num": 528122,
+        "word": "中国女排3比0击败日本队",
+        "onboard_time": 1696684177,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499052,
+        "num": 499052,
+        "word": "刘清漪霹雳舞亚运首金",
+        "onboard_time": 1696682800,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 471029,
+        "num": 471029,
+        "word": "袁心玥",
+        "onboard_time": 1696682617,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451407,
+        "num": 451407,
+        "word": "Liz哭了",
+        "onboard_time": 1696679562,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 449699,
+        "num": 449699,
+        "word": "亚运史上第1块霹雳舞金牌",
+        "onboard_time": 1696676017,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418545,
+        "num": 418545,
+        "word": "以色列",
+        "onboard_time": 1696661376,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 416312,
+        "num": 416312,
+        "word": "以色列国防军宣布进入战争状态",
+        "onboard_time": 1696657778,
+        "rank": 16,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 409966,
+        "num": 409966,
+        "word": "王楚钦决胜局11比0",
+        "onboard_time": 1696676920,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116472,
+        "num": 392451,
+        "word": "KPL百灵鸟版登场",
+        "onboard_time": 1696681896,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 386483,
+        "num": 386483,
+        "word": "网友高铁上偶遇朱一龙拍摄路透",
+        "onboard_time": 1696678536,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1061502,
+        "num": 385263,
+        "word": "母女双双吃蒸苹果的后果",
+        "onboard_time": 1696683219,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 699856,
+        "num": 382967,
+        "word": "韩国人疯狂喝咖啡的原因",
+        "onboard_time": 1696683820,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 556453,
+        "num": 381633,
+        "word": "气血不足一定不要乱补",
+        "onboard_time": 1696684417,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 451121,
+        "num": 378253,
+        "word": "10月不要请假",
+        "onboard_time": 1696668159,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 418261,
+        "num": 377774,
+        "word": "夫妻因饮食习惯同时确诊同种癌症",
+        "onboard_time": 1696684777,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375982,
+        "num": 375982,
+        "word": "张元英公主造型",
+        "onboard_time": 1696682018,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 366165,
+        "num": 366165,
+        "word": "惠若琪张常宁解说",
+        "onboard_time": 1696680275,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362451,
+        "num": 362451,
+        "word": "刘清漪671",
+        "onboard_time": 1696683278,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355400,
+        "num": 355400,
+        "word": "林俊杰咸阳",
+        "onboard_time": 1696680275,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352847,
+        "num": 352847,
+        "word": "成龙去了张艺兴演唱会",
+        "onboard_time": 1696682257,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 352836,
+        "num": 352836,
+        "word": "DJ念中国女排九冠王要吸氧",
+        "onboard_time": 1696685377,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338363,
+        "num": 338363,
+        "word": "长相思与狐妖小红娘将同期播出",
+        "onboard_time": 1696672475,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327849,
+        "num": 327849,
+        "word": "24岁被妈妈发消息说注意避孕",
+        "onboard_time": 1696673919,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 325685,
+        "num": 325685,
+        "word": "男子海边遇女童独自戏水守护10分钟",
+        "onboard_time": 1696682375,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317902,
+        "num": 317902,
+        "word": "卢昱晓看虞书欣眼里的爱要溢出来了",
+        "onboard_time": 1696683820,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603303,
+        "num": 317029,
+        "word": "中国女排vs日本女排",
+        "onboard_time": 1696677159,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296580,
+        "num": 296580,
+        "word": "迪丽热巴秦海璐冰岛跳舞",
+        "onboard_time": 1696683939,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290727,
+        "num": 290727,
+        "word": "马龙vs梁靖崑",
+        "onboard_time": 1696678296,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288565,
+        "num": 288565,
+        "word": "以色列总统发文",
+        "onboard_time": 1696672419,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 282933,
+        "num": 282933,
+        "word": "魏大勋是科班演员很好的证明",
+        "onboard_time": 1696680758,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284335,
+        "num": 277372,
+        "word": "女子病危丈夫只关心能否生育",
+        "onboard_time": 1696677815,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270870,
+        "num": 270870,
+        "word": "张凌赫把孟子义猜成虞书欣",
+        "onboard_time": 1696684358,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258018,
+        "num": 258018,
+        "word": "张子墨 时代峰峻",
+        "onboard_time": 1696675475,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251857,
+        "num": 251857,
+        "word": "女排拦网太强了",
+        "onboard_time": 1696679859,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243964,
+        "num": 243964,
+        "word": "黄晓明说光腿过江是真实历史事件",
+        "onboard_time": 1696681659,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233911,
+        "num": 233911,
+        "word": "凡晨组合女双夺冠",
+        "onboard_time": 1696679676,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225928,
+        "num": 225928,
+        "word": "霍启刚说杭州亚运会是史上办得最好的一届",
+        "onboard_time": 1696681178,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224788,
+        "num": 224788,
+        "word": "浙DA4602谢谢你",
+        "onboard_time": 1696685618,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204750,
+        "num": 204750,
+        "word": "张杰谈签下杨和苏",
+        "onboard_time": 1696666300,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195255,
+        "num": 195255,
+        "word": "6金张雨霏获评最有价值女运动员",
+        "onboard_time": 1696685497,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一组数据看活力满满的中国#"
+    }
+  }
+}
