@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696678442501,
+  "endTime": 1696681809440,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2340387,
-      "num": 967362,
+      "num": 1050557,
       "word": "贝嫂谈贝克汉姆出轨",
       "onboard_time": 1696673799,
       "rank": 10,
@@ -73,6 +73,14 @@
       "onboard_time": 1696671757,
       "rank": 5,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 2106615,
+      "num": 2106615,
+      "word": "孙颖莎vs张本美和",
+      "onboard_time": 1696679562,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 1942905,
@@ -235,6 +243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1149666,
+      "num": 1149666,
+      "word": "凡晨组合女双夺冠",
+      "onboard_time": 1696679676,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1135770,
       "num": 1135770,
       "word": "他从火光中走来 男主死了",
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 1049817,
-      "num": 474905,
+      "num": 489227,
       "word": "10月不要请假",
       "onboard_time": 1696668159,
       "rank": 20,
@@ -307,8 +323,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 965801,
+      "num": 965801,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1696677159,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 958333,
-      "num": 476876,
+      "num": 488055,
       "word": "24岁被妈妈发消息说注意避孕",
       "onboard_time": 1696673919,
       "rank": 21,
@@ -347,6 +371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 890359,
+      "num": 890359,
+      "word": "林俊杰咸阳",
+      "onboard_time": 1696680275,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 879295,
       "num": 879295,
       "word": "万渣朝凰 8个男主",
@@ -368,14 +400,6 @@
       "word": "周启豪vs王楚钦",
       "onboard_time": 1696673378,
       "rank": 27,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 873485,
-      "num": 873485,
-      "word": "中国女排vs日本女排",
-      "onboard_time": 1696677159,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -435,6 +459,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 787451,
+      "num": 787451,
+      "word": "网友高铁上偶遇朱一龙拍摄路透",
+      "onboard_time": 1696678536,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784565,
       "num": 477842,
       "word": "上海走失女童父亲被骂心大",
@@ -465,6 +497,14 @@
       "onboard_time": 1696600363,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 757623,
+      "num": 757623,
+      "word": "Liz哭了",
+      "onboard_time": 1696679562,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 756227,
@@ -500,11 +540,19 @@
     },
     {
       "raw_hot": 728914,
-      "num": 728914,
+      "num": 787792,
       "word": "以色列国防军宣布进入战争状态",
       "onboard_time": 1696657778,
       "rank": 6,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 728287,
+      "num": 728287,
+      "word": "马龙vs梁靖崑",
+      "onboard_time": 1696678296,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 722671,
@@ -531,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 712997,
+      "num": 712997,
+      "word": "惠若琪张常宁解说",
+      "onboard_time": 1696680275,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704232,
       "num": 704232,
       "word": "南阳给了我体面",
@@ -545,6 +601,14 @@
       "onboard_time": 1696642713,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 677122,
+      "num": 677122,
+      "word": "女排拦网太强了",
+      "onboard_time": 1696679859,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 658921,
@@ -576,6 +640,14 @@
       "word": "长相思与狐妖小红娘将同期播出",
       "onboard_time": 1696672475,
       "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 635523,
+      "num": 635523,
+      "word": "女子病危丈夫只关心能否生育",
+      "onboard_time": 1696677815,
+      "rank": 27,
       "category": "剧集"
     },
     {
@@ -811,6 +883,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 498966,
+      "num": 498966,
+      "word": "羽毛球女单决赛",
+      "onboard_time": 1696681719,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496197,
       "num": 496197,
       "word": "羽毛球女双决赛",
@@ -1011,14 +1091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 402749,
-      "num": 402749,
-      "word": "马龙vs梁靖崑",
-      "onboard_time": 1696678296,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 401015,
       "num": 401015,
       "word": "日本海鲜滞销堆积成山",
@@ -1032,6 +1104,14 @@
       "word": "兰州站陈梦王曼昱女双冠军",
       "onboard_time": 1696655921,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 390188,
+      "num": 390188,
+      "word": "凡晨组合 186拍相持球",
+      "onboard_time": 1696679676,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -1131,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358558,
+      "num": 358558,
+      "word": "霍启刚说杭州亚运会是史上办得最好的一届",
+      "onboard_time": 1696681178,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355348,
       "num": 355348,
       "word": "EDG",
@@ -1195,12 +1283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 328268,
-      "num": 328268,
-      "word": "女子病危丈夫只关心能否生育",
-      "onboard_time": 1696677815,
+      "raw_hot": 327435,
+      "num": 327435,
+      "word": "魏大勋是科班演员很好的证明",
+      "onboard_time": 1696680758,
       "rank": 27,
-      "category": "剧集"
+      "category": "电影"
     },
     {
       "raw_hot": 321498,
@@ -1217,6 +1305,14 @@
       "onboard_time": 1696599705,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320218,
+      "num": 320218,
+      "word": "你好星期六",
+      "onboard_time": 1696678959,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 317296,
@@ -1243,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302470,
+      "num": 391348,
+      "word": "中国女子曲棍球时隔13年再夺亚运金牌",
+      "onboard_time": 1696680519,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 301868,
       "num": 301868,
       "word": "杨紫西欧皇室公主风",
@@ -1267,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293186,
+      "num": 293186,
+      "word": "全红婵一口气回答31个问题",
+      "onboard_time": 1696680220,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290488,
       "num": 290488,
       "word": "孕妇早产交警紧急开道提前送达",
@@ -1281,6 +1393,14 @@
       "onboard_time": 1696675475,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289777,
+      "num": 289777,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1696681719,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 288305,
@@ -1344,6 +1464,14 @@
       "word": "一个不想去上班一个不想去幼儿园",
       "onboard_time": 1696668398,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277084,
+      "num": 277084,
+      "word": "姐姐婚礼妹妹边哭边把活儿干了",
+      "onboard_time": 1696680458,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1475,6 +1603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247243,
+      "num": 247243,
+      "word": "女子曲棍球中国队战胜韩国",
+      "onboard_time": 1696680578,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246508,
       "num": 246508,
       "word": "第一次见肌肉含量这么高的综艺",
@@ -1577,6 +1713,14 @@
       "onboard_time": 1696657237,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227026,
+      "num": 227026,
+      "word": "大奉打更人",
+      "onboard_time": 1696679802,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 225531,
@@ -1763,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207120,
+      "num": 207120,
+      "word": "周深戏腔一开口惠英红都坐不住了",
+      "onboard_time": 1696681778,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205818,
       "num": 205818,
       "word": "和三星堆拍照的正确姿势",
@@ -1793,6 +1945,14 @@
       "onboard_time": 1696665395,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202901,
+      "num": 202901,
+      "word": "黄晓明说光腿过江是真实历史事件",
+      "onboard_time": 1696681659,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 201878,
@@ -1865,6 +2025,14 @@
       "onboard_time": 1696634788,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 194206,
+      "num": 194206,
+      "word": "ive新歌世巡初舞台",
+      "onboard_time": 1696681297,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 194132,
@@ -1963,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189103,
+      "num": 189103,
+      "word": "LV春夏24女装秀",
+      "onboard_time": 1696681719,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 189009,
       "num": 434116,
       "word": "爸爸带娃主打潦草",
@@ -2000,6 +2176,14 @@
       "word": "林高远晋级男单半决赛",
       "onboard_time": 1696670197,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184201,
+      "num": 184201,
+      "word": "陈清晨贾一凡",
+      "onboard_time": 1696680697,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2625,6 +2809,14 @@
       "onboard_time": 1696585719,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26111,
+      "num": 212429,
+      "word": "中餐厅超值经营多亏抖音电商",
+      "onboard_time": 1696680039,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 18130,
