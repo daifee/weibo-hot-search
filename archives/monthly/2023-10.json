@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696681809440,
+  "endTime": 1696682757603,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1659,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1282093,
+      "num": 1282093,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1696677159,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1272801,
       "num": 1272801,
       "word": "亚运会乒乓球男单决赛",
@@ -2424,14 +2432,6 @@
       "word": "林雨薇说没有吴艳妮她就跑不快",
       "onboard_time": 1696218515,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 965801,
-      "num": 965801,
-      "word": "中国女排vs日本女排",
-      "onboard_time": 1696677159,
-      "rank": 44,
       "category": "体育"
     },
     {
@@ -4627,6 +4627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 605131,
+      "num": 605131,
+      "word": "羽毛球女单决赛",
+      "onboard_time": 1696681719,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 604926,
       "num": 604926,
       "word": "何冰娇无缘决赛",
@@ -5161,6 +5169,14 @@
       "onboard_time": 1696554034,
       "rank": 31,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 556571,
+      "num": 556571,
+      "word": "陈雨菲vs安洗莹",
+      "onboard_time": 1696681719,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 556101,
@@ -5747,14 +5763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 498966,
-      "num": 498966,
-      "word": "羽毛球女单决赛",
-      "onboard_time": 1696681719,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 498932,
       "num": 498932,
       "word": "中国围棋男团不敌韩国获银牌",
@@ -6001,6 +6009,14 @@
       "onboard_time": 1696220011,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 479411,
+      "num": 479411,
+      "word": "成龙去了张艺兴演唱会",
+      "onboard_time": 1696682257,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 478777,
@@ -6321,6 +6337,14 @@
       "onboard_time": 1696437032,
       "rank": 18,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 455712,
+      "num": 455712,
+      "word": "魏大勋是科班演员很好的证明",
+      "onboard_time": 1696680758,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 454742,
@@ -6995,6 +7019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 408866,
+      "num": 408866,
+      "word": "孙颖莎3比0张本美和",
+      "onboard_time": 1696682257,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408757,
       "num": 408757,
       "word": "高菡解说",
@@ -7155,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 401983,
+      "num": 401983,
+      "word": "霍启刚说杭州亚运会是史上办得最好的一届",
+      "onboard_time": 1696681178,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 401163,
       "num": 401163,
       "word": "迷笛上被高高举起的轮椅男孩发声",
@@ -7211,6 +7251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396700,
+      "num": 396700,
+      "word": "张元英公主造型",
+      "onboard_time": 1696682018,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 396180,
       "num": 393605,
       "word": "王楚钦说在国庆夺冠意味着更好的开始",
@@ -7265,6 +7313,14 @@
       "onboard_time": 1696164825,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 393086,
+      "num": 393086,
+      "word": "周深戏腔一开口惠英红都坐不住了",
+      "onboard_time": 1696681778,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 392439,
@@ -8035,14 +8091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 358558,
-      "num": 358558,
-      "word": "霍启刚说杭州亚运会是史上办得最好的一届",
-      "onboard_time": 1696681178,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 357889,
       "num": 357889,
       "word": "女子插队被制止举石头怒砸劝阻者",
@@ -8771,14 +8819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 327435,
-      "num": 327435,
-      "word": "魏大勋是科班演员很好的证明",
-      "onboard_time": 1696680758,
-      "rank": 27,
-      "category": "电影"
-    },
-    {
       "raw_hot": 327024,
       "num": 327024,
       "word": "游客爬上泰山被消防担架抬下山",
@@ -9113,6 +9153,14 @@
       "onboard_time": 1696461261,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 314242,
+      "num": 314242,
+      "word": "黄晓明说光腿过江是真实历史事件",
+      "onboard_time": 1696681659,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 314167,
@@ -9883,14 +9931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 289777,
-      "num": 289777,
-      "word": "陈雨菲vs安洗莹",
-      "onboard_time": 1696681719,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289611,
       "num": 289611,
       "word": "一张照片证明这个假期你在哪里",
@@ -10025,6 +10065,14 @@
       "onboard_time": 1696582654,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 286768,
+      "num": 286768,
+      "word": "男子海边遇女童独自戏水守护10分钟",
+      "onboard_time": 1696682375,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286690,
@@ -10241,6 +10289,14 @@
       "onboard_time": 1696603842,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 281933,
+      "num": 281933,
+      "word": "袁心玥",
+      "onboard_time": 1696682617,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 281845,
@@ -11939,6 +11995,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 241367,
+      "num": 241367,
+      "word": "十个勤天版最好的青春纪念",
+      "onboard_time": 1696682617,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241153,
       "num": 241153,
       "word": "MINJI I love You 3000 cover",
@@ -13435,6 +13499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210274,
+      "num": 405415,
+      "word": "KPL百灵鸟版登场",
+      "onboard_time": 1696681896,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 210216,
       "num": 210216,
       "word": "小犬",
@@ -13603,14 +13675,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 207120,
-      "num": 207120,
-      "word": "周深戏腔一开口惠英红都坐不住了",
-      "onboard_time": 1696681778,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206757,
       "num": 206757,
       "word": "Twins要出新歌了",
@@ -13713,6 +13777,14 @@
       "onboard_time": 1696568614,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205511,
+      "num": 205511,
+      "word": "马龙男单晋级4强",
+      "onboard_time": 1696681958,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 205381,
@@ -13915,14 +13987,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 202901,
-      "num": 202901,
-      "word": "黄晓明说光腿过江是真实历史事件",
-      "onboard_time": 1696681659,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202680,
       "num": 202680,
       "word": "军嫂惊喜现身惹硬汉瞬间泪目",
@@ -14121,6 +14185,14 @@
       "onboard_time": 1696433375,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 200034,
+      "num": 200034,
+      "word": "卢顿vs热刺",
+      "onboard_time": 1696681838,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 199989,
@@ -14619,6 +14691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193720,
+      "num": 193720,
+      "word": "LV春夏24女装秀",
+      "onboard_time": 1696681719,
+      "rank": 46,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 193675,
       "num": 193675,
       "word": "陈冲于和伟 姐狗",
@@ -15001,14 +15081,6 @@
       "onboard_time": 1696429960,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 189103,
-      "num": 189103,
-      "word": "LV春夏24女装秀",
-      "onboard_time": 1696681719,
-      "rank": 46,
-      "category": "时尚"
     },
     {
       "raw_hot": 188990,
@@ -19315,6 +19387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36508,
+      "num": 241747,
+      "word": "中餐厅超值经营多亏抖音电商",
+      "onboard_time": 1696680039,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36457,
       "num": 28418,
       "word": "中国女篮亚运第七冠",
@@ -19449,14 +19529,6 @@
       "onboard_time": 1696625954,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 26111,
-      "num": 212429,
-      "word": "中餐厅超值经营多亏抖音电商",
-      "onboard_time": 1696680039,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 25726,
