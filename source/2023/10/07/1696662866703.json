@@ -1,0 +1,410 @@
+{
+  "runTime": 1696662866703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2688945,
+        "num": 2688945,
+        "word": "孙艺洲称疑遭新型蟹卡诈骗",
+        "onboard_time": 1696660357,
+        "rank": 0,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 1112265,
+        "num": 1112265,
+        "word": "雅思组合卫冕冠军",
+        "onboard_time": 1696662034,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32665,
+        "num": 1018109,
+        "word": "中秋国庆假期国内8.26亿人次出游",
+        "onboard_time": 1696590039,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985016,
+        "num": 985016,
+        "word": "苹果商店现黄色软件伪装成学习软件",
+        "onboard_time": 1696652443,
+        "rank": 3,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 910387,
+        "num": 910387,
+        "word": "狗子误食月饼集体打吊针",
+        "onboard_time": 1696657778,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 672501,
+        "num": 672501,
+        "word": "本周有三个周一",
+        "onboard_time": 1696655205,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 604160,
+        "num": 604160,
+        "word": "以色列国防军宣布进入战争状态",
+        "onboard_time": 1696657778,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 568388,
+        "num": 568388,
+        "word": "邓为首部男主剧",
+        "onboard_time": 1696655322,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539041,
+        "num": 539041,
+        "word": "孙红雷小三十岁能参加亚运了",
+        "onboard_time": 1696661557,
+        "rank": 8,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 427402,
+        "num": 427402,
+        "word": "樊振东原来是兵哥哥",
+        "onboard_time": 1696661617,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1457190,
+        "num": 425805,
+        "word": "鹿哈自曝带货7个月挣3500万",
+        "onboard_time": 1696650639,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1124222,
+        "num": 422428,
+        "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
+        "onboard_time": 1696656340,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 778713,
+        "num": 419483,
+        "word": "以色列",
+        "onboard_time": 1696661376,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 226104,
+        "num": 415986,
+        "word": "父母准备200斤土特产塞满后备箱",
+        "onboard_time": 1696662158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213895,
+        "num": 410263,
+        "word": "美国或在2024年出现大萧条以来最严重崩盘",
+        "onboard_time": 1696644337,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 607203,
+        "num": 406205,
+        "word": "吴亦凡经纪公司被强执近1900万",
+        "onboard_time": 1696653406,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495652,
+        "num": 401412,
+        "word": "救援队分析上海4岁女童走失情况",
+        "onboard_time": 1696653945,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400778,
+        "num": 400778,
+        "word": "为什么睡觉用zzz表示",
+        "onboard_time": 1696651302,
+        "rank": 17,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 364898,
+        "num": 364898,
+        "word": "许光汉生下来的性别是老公",
+        "onboard_time": 1696659697,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359706,
+        "num": 359706,
+        "word": "原来控糖不能吃这些",
+        "onboard_time": 1696651966,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 512311,
+        "num": 335146,
+        "word": "上海海滩走失女童父亲非继父",
+        "onboard_time": 1696647095,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366067,
+        "num": 314803,
+        "word": "28岁智障女子被迫嫁给34岁二婚男",
+        "onboard_time": 1696654544,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282620,
+        "num": 282620,
+        "word": "陈好都开始演妈了",
+        "onboard_time": 1696644034,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311662,
+        "num": 281153,
+        "word": "黄元芯的爸爸",
+        "onboard_time": 1696646614,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256759,
+        "num": 256759,
+        "word": "B太云南发现的坑处理结果",
+        "onboard_time": 1696657058,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 246087,
+        "num": 246087,
+        "word": "郭敬明镜头里的侯明昊",
+        "onboard_time": 1696659817,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246001,
+        "num": 246001,
+        "word": "我有点小钱韩庚你多营业",
+        "onboard_time": 1696657836,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238715,
+        "num": 238715,
+        "word": "宋轶说自己不自律",
+        "onboard_time": 1696660957,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232428,
+        "num": 232428,
+        "word": "仙台有树",
+        "onboard_time": 1696655024,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227415,
+        "num": 227415,
+        "word": "好想董卿",
+        "onboard_time": 1696662576,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221355,
+        "num": 221355,
+        "word": "韩国人不用睡觉的证据",
+        "onboard_time": 1696660535,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212698,
+        "num": 212698,
+        "word": "劝大家不要频繁掏耳朵",
+        "onboard_time": 1696652443,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 209179,
+        "num": 209179,
+        "word": "海滩走失女童在水边摔倒后消失在海浪中",
+        "onboard_time": 1696647696,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198038,
+        "num": 198038,
+        "word": "姚明说好奇自己没去NBA会怎样",
+        "onboard_time": 1696658138,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195455,
+        "num": 195455,
+        "word": "全红婵以男队员标准要求自己",
+        "onboard_time": 1696659217,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182176,
+        "num": 182176,
+        "word": "两村干部会议后未关摄像头致不雅视频流出",
+        "onboard_time": 1696662276,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181199,
+        "num": 181199,
+        "word": "许光汉程潇你俩在干嘛",
+        "onboard_time": 1696653465,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174516,
+        "num": 174516,
+        "word": "南柱赫入伍新照",
+        "onboard_time": 1696658740,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170566,
+        "num": 170566,
+        "word": "第一次见肌肉含量这么高的综艺",
+        "onboard_time": 1696660896,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170540,
+        "num": 170540,
+        "word": "上海4岁女童失踪已超60小时",
+        "onboard_time": 1696653223,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166881,
+        "num": 166881,
+        "word": "NCTDREAM采访收到螺蛳粉",
+        "onboard_time": 1696660775,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163268,
+        "num": 163268,
+        "word": "第一次见女主是癞蛤蟆的",
+        "onboard_time": 1696653465,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155321,
+        "num": 155321,
+        "word": "女子花3.5扫共享单车从上海骑到苏州",
+        "onboard_time": 1696652024,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150554,
+        "num": 150554,
+        "word": "虞书欣瞬回云为衫",
+        "onboard_time": 1696658199,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148171,
+        "num": 148171,
+        "word": "杨紫造型师说你们的福气还在后头",
+        "onboard_time": 1696650038,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139837,
+        "num": 139837,
+        "word": "休8上7是什么体验",
+        "onboard_time": 1696642713,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138214,
+        "num": 138214,
+        "word": "新疆阿克苏地震",
+        "onboard_time": 1696656876,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136371,
+        "num": 136371,
+        "word": "Yamy郭颖签约少城时代",
+        "onboard_time": 1696654665,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131623,
+        "num": 131623,
+        "word": "TI中国队晋级崩铁全服奖励",
+        "onboard_time": 1696654844,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 126131,
+        "num": 126131,
+        "word": "杨幂这套图用在今天太合适了",
+        "onboard_time": 1696641695,
+        "rank": 49,
+        "category": "艺人,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#一组数据看活力满满的中国#"
+    }
+  }
+}
