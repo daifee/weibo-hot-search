@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696710830839,
+  "endTime": 1696713220084,
   "band_list": [
     {
       "raw_hot": 1850480,
@@ -467,6 +467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19348,
+      "num": 51839,
+      "word": "杨幂若把你直拍",
+      "onboard_time": 1696710493,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 19108,
+      "num": 19108,
+      "word": "迷笛音乐节要反思的不是当地群众",
+      "onboard_time": 1696712054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 19014,
       "num": 52073,
       "word": "kpop组合专辑总销量TOP9",
@@ -475,12 +491,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13781,
-      "num": 51839,
-      "word": "杨幂若把你直拍",
-      "onboard_time": 1696710493,
+      "raw_hot": 13245,
+      "num": 16264,
+      "word": "陈都灵吃饭也走流程",
+      "onboard_time": 1696713134,
       "rank": 47,
-      "category": "作品衍生"
+      "category": "艺人"
     },
     {
       "raw_hot": 13026,
@@ -488,6 +504,14 @@
       "word": "亚运会羽毛球",
       "onboard_time": 1696709893,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 11861,
+      "num": 16248,
+      "word": "李诗沣独有的庆祝姿势",
+      "onboard_time": 1696708034,
+      "rank": 49,
       "category": "体育"
     }
   ],
