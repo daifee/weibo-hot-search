@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696698839083,
+  "endTime": 1696700044976,
   "band_list": [
     {
       "raw_hot": 1850480,
@@ -169,6 +169,14 @@
       "onboard_time": 1696673919,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227427,
+      "num": 227427,
+      "word": "陈飞宇爆料健身最卷的是魏晨",
+      "onboard_time": 1696697963,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 224504,
@@ -379,14 +387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 102828,
-      "num": 102828,
-      "word": "陈飞宇爆料健身最卷的是魏晨",
-      "onboard_time": 1696697963,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100821,
       "num": 100821,
       "word": "国羽4金3银2铜收官",
@@ -417,6 +417,14 @@
       "onboard_time": 1696680275,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70327,
+      "num": 70327,
+      "word": "诛仙世界抽疯了",
+      "onboard_time": 1696699162,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 49488,
