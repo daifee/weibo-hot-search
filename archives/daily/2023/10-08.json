@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696709773882,
+  "endTime": 1696710830839,
   "band_list": [
     {
       "raw_hot": 1850480,
@@ -451,8 +451,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 23760,
-      "num": 20653,
+      "raw_hot": 25479,
+      "num": 52581,
       "word": "以色列遭袭后炮击加沙地带",
       "onboard_time": 1696708574,
       "rank": 30,
@@ -468,11 +468,27 @@
     },
     {
       "raw_hot": 19014,
-      "num": 19388,
+      "num": 52073,
       "word": "kpop组合专辑总销量TOP9",
       "onboard_time": 1696707133,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13781,
+      "num": 51839,
+      "word": "杨幂若把你直拍",
+      "onboard_time": 1696710493,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 13026,
+      "num": 51777,
+      "word": "亚运会羽毛球",
+      "onboard_time": 1696709893,
+      "rank": 48,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
