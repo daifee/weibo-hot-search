@@ -1,0 +1,410 @@
+{
+  "runTime": 1696646040547,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1868410,
+        "num": 1868410,
+        "word": "亚运村的床垫都被带走了",
+        "onboard_time": 1696641095,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1491175,
+        "num": 1491175,
+        "word": "专家建议增加假期不要调休",
+        "onboard_time": 1696641514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84307,
+        "num": 1381036,
+        "word": "9招找回节后好状态",
+        "onboard_time": 1696598565,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1335052,
+        "num": 1335052,
+        "word": "陈好都开始演妈了",
+        "onboard_time": 1696644034,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740937,
+        "num": 740937,
+        "word": "沈梦辰拍了周杰伦专辑封面同款照",
+        "onboard_time": 1696642713,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 670961,
+        "num": 670961,
+        "word": "杨幂这套图用在今天太合适了",
+        "onboard_time": 1696641695,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 568504,
+        "num": 568504,
+        "word": "谁来管管五线县城的店名",
+        "onboard_time": 1696642535,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 560505,
+        "num": 560505,
+        "word": "亚运会闭幕式只用一块草坪",
+        "onboard_time": 1696640376,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 526284,
+        "num": 526284,
+        "word": "专家称调休初衷是好的",
+        "onboard_time": 1696643554,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436602,
+        "num": 436602,
+        "word": "丁丁幼崽好壮实",
+        "onboard_time": 1696644215,
+        "rank": 9,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 2559364,
+        "num": 426313,
+        "word": "海滩走失女童父亲深夜发布多张照片",
+        "onboard_time": 1696642473,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 744896,
+        "num": 425781,
+        "word": "美国或在2024年出现大萧条以来最严重崩盘",
+        "onboard_time": 1696644337,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 452348,
+        "num": 419236,
+        "word": "陈立农跳女孩白月光回来了",
+        "onboard_time": 1696644513,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411110,
+        "num": 411110,
+        "word": "老君山1元午餐盘点多出1012元",
+        "onboard_time": 1696645114,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225341,
+        "num": 404867,
+        "word": "兵哥哥们接亲的压迫感扑面而来",
+        "onboard_time": 1696645055,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400335,
+        "num": 400335,
+        "word": "王鹤棣潮牌品牌方回应争议",
+        "onboard_time": 1696645534,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 339479,
+        "num": 339479,
+        "word": "姚明说中国篮球与世界脱轨",
+        "onboard_time": 1696644814,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337603,
+        "num": 337603,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325924,
+        "num": 325924,
+        "word": "张嘉益王晓晨二搭",
+        "onboard_time": 1696643193,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295964,
+        "num": 295964,
+        "word": "在火车上睡觉只需要一件衬衣",
+        "onboard_time": 1696635508,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1588808,
+        "num": 295563,
+        "word": "调休",
+        "onboard_time": 1696637317,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888526,
+        "num": 293744,
+        "word": "学生打数十个电话举报学校假期补课",
+        "onboard_time": 1696638216,
+        "rank": 21,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 697992,
+        "num": 293457,
+        "word": "休8上7是什么体验",
+        "onboard_time": 1696642713,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 610256,
+        "num": 292179,
+        "word": "浦东海滩走失女孩疑似最后影像曝光",
+        "onboard_time": 1696621933,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343542,
+        "num": 291245,
+        "word": "爸爸养的猫25岁了",
+        "onboard_time": 1696640856,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 326134,
+        "num": 290313,
+        "word": "情侣同名同姓相恋7年后恩爱订婚",
+        "onboard_time": 1696633586,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289267,
+        "num": 289267,
+        "word": "他从火光中走来 男主死了",
+        "onboard_time": 1696594058,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277147,
+        "num": 277147,
+        "word": "Jennie新歌榜单成绩",
+        "onboard_time": 1696644936,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 270538,
+        "num": 270538,
+        "word": "迪丽热巴 万渣朝凰",
+        "onboard_time": 1696599106,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266994,
+        "num": 266994,
+        "word": "前任4后劲",
+        "onboard_time": 1696644393,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 246257,
+        "num": 246257,
+        "word": "男子假期最后半天返程畅通无阻",
+        "onboard_time": 1696643615,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238976,
+        "num": 238976,
+        "word": "陈飞宇说魏大勋第一场戏紧张到疯狂喝水",
+        "onboard_time": 1696637140,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202688,
+        "num": 202688,
+        "word": "节后第一天下了班干什么",
+        "onboard_time": 1696645894,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190779,
+        "num": 190779,
+        "word": "看到公司墙上的口号想离职了",
+        "onboard_time": 1696637857,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188384,
+        "num": 188384,
+        "word": "iOS17安装率低迷",
+        "onboard_time": 1696640376,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 187954,
+        "num": 187954,
+        "word": "中国冲击首个霹雳舞亚运冠军",
+        "onboard_time": 1696641695,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183386,
+        "num": 183386,
+        "word": "林陆骁 只是伤心不是死了",
+        "onboard_time": 1696636473,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182834,
+        "num": 182834,
+        "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+        "onboard_time": 1696600182,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179718,
+        "num": 179718,
+        "word": "王思雨说马龙又帅又能打",
+        "onboard_time": 1696645355,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169251,
+        "num": 169251,
+        "word": "花儿与少年极光直播",
+        "onboard_time": 1696640076,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166166,
+        "num": 166166,
+        "word": "妻子陪无臂丈夫努力20年买下大房子",
+        "onboard_time": 1696641876,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159340,
+        "num": 159340,
+        "word": "被广东的婚宴震惊到了",
+        "onboard_time": 1696637857,
+        "rank": 41,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 149111,
+        "num": 149111,
+        "word": "周杰伦给张艺兴送了花篮",
+        "onboard_time": 1696606719,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149097,
+        "num": 149097,
+        "word": "曼谷枪击事件未成年嫌疑人父母致歉",
+        "onboard_time": 1696639236,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145472,
+        "num": 145472,
+        "word": "中国队冲击200金",
+        "onboard_time": 1696643732,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132325,
+        "num": 132325,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1696599463,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131509,
+        "num": 131509,
+        "word": "外媒对曾黎的报道",
+        "onboard_time": 1696646014,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126710,
+        "num": 126710,
+        "word": "酒店房间发现摄像头事件嫌犯被刑拘",
+        "onboard_time": 1696645955,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125302,
+        "num": 125302,
+        "word": "奔跑中的刘浩存",
+        "onboard_time": 1696606178,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123321,
+        "num": 123321,
+        "word": "喝咖啡上瘾对身体有害吗",
+        "onboard_time": 1696605580,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}
