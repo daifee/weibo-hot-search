@@ -1,0 +1,410 @@
+{
+  "runTime": 1696720542534,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1727799,
+        "num": 1727799,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696689522,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 655529,
+        "num": 655529,
+        "word": "以巴爆发大规模冲突造成严重伤亡",
+        "onboard_time": 1696688262,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 18180,
+        "num": 485379,
+        "word": "推进共建绿色一带一路",
+        "onboard_time": 1696683578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1439952,
+        "num": 483215,
+        "word": "蜜雪冰城称将偷餐者绑天桥示众8小时",
+        "onboard_time": 1696696347,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371370,
+        "num": 371370,
+        "word": "贝嫂谈贝克汉姆出轨",
+        "onboard_time": 1696673799,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342383,
+        "num": 342383,
+        "word": "皮划艇女选手赛后黄体破裂医生紧急救回",
+        "onboard_time": 1696686038,
+        "rank": 5,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 296770,
+        "num": 296770,
+        "word": "亚运史上第1块霹雳舞金牌",
+        "onboard_time": 1696676017,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 278953,
+        "num": 278953,
+        "word": "班主任自费千元组织学生看电影志愿军",
+        "onboard_time": 1696692398,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241720,
+        "num": 241720,
+        "word": "研究证实怀孕会部分重置准妈妈大脑",
+        "onboard_time": 1696671757,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 226261,
+        "num": 226261,
+        "word": "生理期前到底会有哪些迹象",
+        "onboard_time": 1696689763,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 321001,
+        "num": 224935,
+        "word": "为什么工作之后一定要交社保",
+        "onboard_time": 1696695091,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 218143,
+        "num": 218143,
+        "word": "男子海边遇女童独自戏水守护10分钟",
+        "onboard_time": 1696682375,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175710,
+        "num": 175710,
+        "word": "陈飞宇爆料健身最卷的是魏晨",
+        "onboard_time": 1696697963,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153997,
+        "num": 153997,
+        "word": "周深戏腔一开口惠英红都坐不住了",
+        "onboard_time": 1696681778,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95489,
+        "num": 149292,
+        "word": "以色列总统发文",
+        "onboard_time": 1696672419,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 145340,
+        "num": 145340,
+        "word": "迷笛音乐节要反思的不是当地群众",
+        "onboard_time": 1696712054,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123114,
+        "num": 123114,
+        "word": "台风小犬",
+        "onboard_time": 1696713493,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120916,
+        "num": 120916,
+        "word": "黄子诚夜闯被抓",
+        "onboard_time": 1696714815,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99794,
+        "num": 99794,
+        "word": "韩国男足夺得亚运冠军",
+        "onboard_time": 1696687961,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94618,
+        "num": 94618,
+        "word": "丁霞哭了",
+        "onboard_time": 1696687540,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394134,
+        "num": 94595,
+        "word": "母女双双吃蒸苹果的后果",
+        "onboard_time": 1696683219,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 327913,
+        "num": 94516,
+        "word": "母亲去世5年全家瞒着98岁外婆",
+        "onboard_time": 1696692218,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167475,
+        "num": 94444,
+        "word": "10月不要请假",
+        "onboard_time": 1696668159,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157140,
+        "num": 94298,
+        "word": "夫妻因饮食习惯同时确诊同种癌症",
+        "onboard_time": 1696684777,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124505,
+        "num": 94187,
+        "word": "寒露",
+        "onboard_time": 1696720525,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111437,
+        "num": 94102,
+        "word": "气血不足一定不要乱补",
+        "onboard_time": 1696684417,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111300,
+        "num": 94021,
+        "word": "24岁被妈妈发消息说注意避孕",
+        "onboard_time": 1696673919,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109221,
+        "num": 94006,
+        "word": "韩国人疯狂喝咖啡的原因",
+        "onboard_time": 1696683820,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 93929,
+        "num": 93929,
+        "word": "黄景瑜是会安慰张凌赫的",
+        "onboard_time": 1696719021,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91719,
+        "num": 91719,
+        "word": "曼联",
+        "onboard_time": 1696720104,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105547,
+        "num": 91529,
+        "word": "安洗莹让陈雨菲展示我姓石",
+        "onboard_time": 1696719803,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91095,
+        "num": 91095,
+        "word": "lofter",
+        "onboard_time": 1696695630,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 85866,
+        "num": 85866,
+        "word": "以色列已致100死908伤",
+        "onboard_time": 1696720405,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 85850,
+        "num": 85850,
+        "word": "台风",
+        "onboard_time": 1696715293,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81341,
+        "num": 81341,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1696682257,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71292,
+        "num": 71292,
+        "word": "黄晓明说光腿过江是真实历史事件",
+        "onboard_time": 1696681659,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70904,
+        "num": 70904,
+        "word": "王楚钦决胜局11比0",
+        "onboard_time": 1696676920,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69482,
+        "num": 69482,
+        "word": "旅游遇老人突发心梗跪地抢救的女孩找到了",
+        "onboard_time": 1696720466,
+        "rank": 37,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 68801,
+        "num": 68801,
+        "word": "网友高铁上偶遇朱一龙拍摄路透",
+        "onboard_time": 1696678536,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67709,
+        "num": 67709,
+        "word": "陈雨菲拼到抽筋",
+        "onboard_time": 1696689638,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66204,
+        "num": 66204,
+        "word": "0713全员演技在线",
+        "onboard_time": 1696718118,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65256,
+        "num": 65256,
+        "word": "奥纳纳丢球",
+        "onboard_time": 1696690120,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63841,
+        "num": 63841,
+        "word": "长相思与狐妖小红娘将同期播出",
+        "onboard_time": 1696672475,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61870,
+        "num": 61870,
+        "word": "张雨霏亚运女子MVP",
+        "onboard_time": 1696719382,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 58813,
+        "num": 58813,
+        "word": "以色列遭袭后炮击加沙地带",
+        "onboard_time": 1696708574,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 55424,
+        "num": 55424,
+        "word": "诛仙世界抽疯了",
+        "onboard_time": 1696699162,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54322,
+        "num": 54322,
+        "word": "六安地震",
+        "onboard_time": 1696685978,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53985,
+        "num": 53985,
+        "word": "以色列",
+        "onboard_time": 1696661376,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 53199,
+        "num": 53199,
+        "word": "亚运闭幕式门票",
+        "onboard_time": 1696714454,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52945,
+        "num": 52945,
+        "word": "中国女排夺冠后小青荷求合影",
+        "onboard_time": 1696719743,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式浪漫送别杭州亚运会#"
+    }
+  }
+}
