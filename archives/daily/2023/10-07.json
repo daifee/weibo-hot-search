@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696646040547,
+  "endTime": 1696648620261,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -16,6 +16,14 @@
       "word": "海滩走失女童父亲深夜发布多张照片",
       "onboard_time": 1696642473,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2430897,
+      "num": 595108,
+      "word": "上海海滩走失女童父亲非继父",
+      "onboard_time": 1696647095,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -35,10 +43,26 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1770236,
+      "num": 1770236,
+      "word": "美国或在2024年出现大萧条以来最严重崩盘",
+      "onboard_time": 1696644337,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1754670,
       "num": 724123,
       "word": "浦东海滩走失女孩疑似最后影像曝光",
       "onboard_time": 1696621933,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1658640,
+      "num": 417130,
+      "word": "黄元芯的爸爸",
+      "onboard_time": 1696646614,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -51,8 +75,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1335052,
-      "num": 1335052,
+      "raw_hot": 1413724,
+      "num": 1413724,
       "word": "陈好都开始演妈了",
       "onboard_time": 1696644034,
       "rank": 27,
@@ -105,6 +129,14 @@
       "onboard_time": 1696642713,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 871329,
+      "num": 398263,
+      "word": "海滩走失女童",
+      "onboard_time": 1696647276,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 838379,
@@ -163,14 +195,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 744896,
-      "num": 425781,
-      "word": "美国或在2024年出现大萧条以来最严重崩盘",
-      "onboard_time": 1696644337,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 739898,
       "num": 646841,
       "word": "亚运会闭幕式只用一块草坪",
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 697992,
-      "num": 293457,
+      "num": 304947,
       "word": "休8上7是什么体验",
       "onboard_time": 1696642713,
       "rank": 21,
@@ -209,6 +233,14 @@
       "onboard_time": 1696606719,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 611787,
+      "num": 611787,
+      "word": "内马尔女儿出生",
+      "onboard_time": 1696646734,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 610212,
@@ -235,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603400,
+      "num": 603400,
+      "word": "老君山1元午餐盘点多出1012元",
+      "onboard_time": 1696645114,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 590699,
       "num": 590699,
       "word": "陈飞宇说魏大勋第一场戏紧张到疯狂喝水",
       "onboard_time": 1696637140,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 581228,
+      "num": 581228,
+      "word": "专家称调休初衷是好的",
+      "onboard_time": 1696643554,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 580683,
@@ -267,20 +315,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 526284,
-      "num": 526284,
-      "word": "专家称调休初衷是好的",
-      "onboard_time": 1696643554,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 521240,
       "num": 336593,
       "word": "看到公司墙上的口号想离职了",
       "onboard_time": 1696637857,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 508252,
+      "num": 409457,
+      "word": "王鹤棣潮牌品牌方回应争议",
+      "onboard_time": 1696645534,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 505326,
+      "num": 419236,
+      "word": "陈立农跳女孩白月光回来了",
+      "onboard_time": 1696644513,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 490172,
@@ -299,19 +355,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 484757,
+      "num": 306973,
+      "word": "节后第一天下了班干什么",
+      "onboard_time": 1696645894,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 481268,
       "num": 481268,
       "word": "花儿与少年极光直播",
       "onboard_time": 1696640076,
       "rank": 12,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 452348,
-      "num": 419236,
-      "word": "陈立农跳女孩白月光回来了",
-      "onboard_time": 1696644513,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -331,12 +387,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 411110,
-      "num": 411110,
-      "word": "老君山1元午餐盘点多出1012元",
-      "onboard_time": 1696645114,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 420174,
+      "num": 420174,
+      "word": "姚明说中国篮球与世界脱轨",
+      "onboard_time": 1696644814,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 401015,
@@ -345,14 +401,6 @@
       "onboard_time": 1696592498,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 400335,
-      "num": 400335,
-      "word": "王鹤棣潮牌品牌方回应争议",
-      "onboard_time": 1696645534,
-      "rank": 15,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 384538,
@@ -395,6 +443,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 370741,
+      "num": 407167,
+      "word": "酒店房间发现摄像头事件嫌犯被刑拘",
+      "onboard_time": 1696645955,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366966,
       "num": 366966,
       "word": "民警给走失小女孩上了堂甜甜的安全课",
@@ -411,6 +467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 346641,
+      "num": 239985,
+      "word": "女子称因学信网显示结业错失月薪4万工作",
+      "onboard_time": 1696647574,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343344,
       "num": 343344,
       "word": "傲寒",
@@ -419,12 +483,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 339479,
-      "num": 339479,
-      "word": "姚明说中国篮球与世界脱轨",
-      "onboard_time": 1696644814,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 321498,
+      "num": 321498,
+      "word": "迷笛音乐节被盗乐迷发声",
+      "onboard_time": 1696646133,
+      "rank": 18,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 320276,
@@ -459,6 +523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 295426,
+      "num": 295426,
+      "word": "男子帮陌生人借充电宝8小时未归还",
+      "onboard_time": 1696646793,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288305,
       "num": 288305,
       "word": "被广东的婚宴震惊到了",
@@ -467,8 +539,8 @@
       "category": "情感,美食"
     },
     {
-      "raw_hot": 277147,
-      "num": 277147,
+      "raw_hot": 284356,
+      "num": 284356,
       "word": "Jennie新歌榜单成绩",
       "onboard_time": 1696644936,
       "rank": 37,
@@ -547,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 241095,
+      "num": 241095,
+      "word": "iOS17被曝WiFi连接问题",
+      "onboard_time": 1696647995,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 237047,
       "num": 380562,
       "word": "中国冲击首个霹雳舞亚运冠军",
@@ -585,6 +665,14 @@
       "onboard_time": 1696599946,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228284,
+      "num": 228284,
+      "word": "海滩走失女童在水边摔倒后消失在海浪中",
+      "onboard_time": 1696647696,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225341,
@@ -633,14 +721,6 @@
       "onboard_time": 1696607495,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202688,
-      "num": 202688,
-      "word": "节后第一天下了班干什么",
-      "onboard_time": 1696645894,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 201146,
@@ -699,6 +779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190738,
+      "num": 190738,
+      "word": "外媒对曾黎的报道",
+      "onboard_time": 1696646014,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189009,
       "num": 434116,
       "word": "爸爸带娃主打潦草",
@@ -712,6 +800,14 @@
       "word": "中国队冲击200金",
       "onboard_time": 1696643732,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186683,
+      "num": 186683,
+      "word": "张子扬10公里马拉松游泳金牌",
+      "onboard_time": 1696647213,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -843,6 +939,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 159144,
+      "num": 159144,
+      "word": "杨鸣输球后的反应",
+      "onboard_time": 1696648594,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157336,
       "num": 157336,
       "word": "冯琳好优秀",
@@ -881,6 +985,14 @@
       "onboard_time": 1696605222,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 145606,
+      "num": 145606,
+      "word": "姚明回应男篮失利",
+      "onboard_time": 1696648474,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 144810,
@@ -971,14 +1083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131509,
-      "num": 131509,
-      "word": "外媒对曾黎的报道",
-      "onboard_time": 1696646014,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 129525,
       "num": 129525,
       "word": "一张照片证明这个假期你在哪里",
@@ -993,14 +1097,6 @@
       "onboard_time": 1696629557,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 126710,
-      "num": 126710,
-      "word": "酒店房间发现摄像头事件嫌犯被刑拘",
-      "onboard_time": 1696645955,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 120704,
