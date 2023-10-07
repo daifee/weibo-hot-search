@@ -1,0 +1,410 @@
+{
+  "runTime": 1696692846546,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1756284,
+        "num": 1756284,
+        "word": "以巴爆发大规模冲突造成严重伤亡",
+        "onboard_time": 1696688262,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1348096,
+        "num": 1348096,
+        "word": "陈雨菲拼到抽筋",
+        "onboard_time": 1696689638,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22949,
+        "num": 956075,
+        "word": "推进共建绿色一带一路",
+        "onboard_time": 1696683578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2033140,
+        "num": 944351,
+        "word": "上海海滩走失女童母亲疑晒娃后删号",
+        "onboard_time": 1696691379,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1633191,
+        "num": 921256,
+        "word": "生理期前到底会有哪些迹象",
+        "onboard_time": 1696689763,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 895958,
+        "num": 895958,
+        "word": "贝嫂谈贝克汉姆出轨",
+        "onboard_time": 1696673799,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 832987,
+        "num": 832987,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696689522,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 804212,
+        "num": 804212,
+        "word": "花西子你是照着李佳琦化的吗",
+        "onboard_time": 1696671876,
+        "rank": 7,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 730267,
+        "num": 730267,
+        "word": "研究证实怀孕会部分重置准妈妈大脑",
+        "onboard_time": 1696671757,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 667899,
+        "num": 667899,
+        "word": "丁霞哭了",
+        "onboard_time": 1696687540,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511725,
+        "num": 511725,
+        "word": "韩国男足夺得亚运冠军",
+        "onboard_time": 1696687961,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422076,
+        "num": 422076,
+        "word": "周深戏腔一开口惠英红都坐不住了",
+        "onboard_time": 1696681778,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 415328,
+        "num": 415328,
+        "word": "为什么现在的烧烤这么贵",
+        "onboard_time": 1696689763,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 374683,
+        "num": 390866,
+        "word": "亚运史上第1块霹雳舞金牌",
+        "onboard_time": 1696676017,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255307,
+        "num": 384512,
+        "word": "中国女排夺冠",
+        "onboard_time": 1696683939,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380504,
+        "num": 380504,
+        "word": "奥纳纳丢球",
+        "onboard_time": 1696690120,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368635,
+        "num": 368635,
+        "word": "班主任自费千元组织学生看电影志愿军",
+        "onboard_time": 1696692398,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346007,
+        "num": 346007,
+        "word": "王楚钦决胜局11比0",
+        "onboard_time": 1696676920,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330670,
+        "num": 330670,
+        "word": "金晨发光眼线",
+        "onboard_time": 1696690361,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310867,
+        "num": 310867,
+        "word": "孙颖莎3比0张本美和",
+        "onboard_time": 1696682257,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 649093,
+        "num": 310325,
+        "word": "母女双双吃蒸苹果的后果",
+        "onboard_time": 1696683219,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 409047,
+        "num": 309835,
+        "word": "10月不要请假",
+        "onboard_time": 1696668159,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 353169,
+        "num": 309400,
+        "word": "虞书欣你怎么骗人啊",
+        "onboard_time": 1696691738,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307897,
+        "num": 307897,
+        "word": "母亲去世5年全家瞒着98岁外婆",
+        "onboard_time": 1696692218,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298219,
+        "num": 298219,
+        "word": "24岁被妈妈发消息说注意避孕",
+        "onboard_time": 1696673919,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 291563,
+        "num": 291563,
+        "word": "六安地震",
+        "onboard_time": 1696685978,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267427,
+        "num": 267427,
+        "word": "成龙去了张艺兴演唱会",
+        "onboard_time": 1696682257,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 252040,
+        "num": 252040,
+        "word": "气血不足一定不要乱补",
+        "onboard_time": 1696684417,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250718,
+        "num": 250718,
+        "word": "国羽4金3银2铜收官",
+        "onboard_time": 1696688381,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240035,
+        "num": 240035,
+        "word": "韩国人疯狂喝咖啡的原因",
+        "onboard_time": 1696683820,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 231882,
+        "num": 231882,
+        "word": "卢昱晓不愧是魅阶",
+        "onboard_time": 1696688206,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228389,
+        "num": 228389,
+        "word": "Liz哭了",
+        "onboard_time": 1696679562,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 219870,
+        "num": 219870,
+        "word": "夫妻因饮食习惯同时确诊同种癌症",
+        "onboard_time": 1696684777,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214767,
+        "num": 214767,
+        "word": "Amber一声哞让张凌赫绷不住了",
+        "onboard_time": 1696685805,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214498,
+        "num": 214498,
+        "word": "男子海边遇女童独自戏水守护10分钟",
+        "onboard_time": 1696682375,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213446,
+        "num": 213446,
+        "word": "张元英公主造型",
+        "onboard_time": 1696682018,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209972,
+        "num": 209972,
+        "word": "以色列总统发文",
+        "onboard_time": 1696672419,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 206540,
+        "num": 206540,
+        "word": "动漫组合",
+        "onboard_time": 1696688560,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199335,
+        "num": 199335,
+        "word": "长相思与狐妖小红娘将同期播出",
+        "onboard_time": 1696672475,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198572,
+        "num": 198572,
+        "word": "中国女排集体拍拍领奖台",
+        "onboard_time": 1696687901,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198352,
+        "num": 198352,
+        "word": "enhypen饭撒",
+        "onboard_time": 1696690300,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194023,
+        "num": 194023,
+        "word": "皮划艇女选手赛后黄体破裂医生紧急救回",
+        "onboard_time": 1696686038,
+        "rank": 41,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 187364,
+        "num": 187364,
+        "word": "马龙vs梁靖崑",
+        "onboard_time": 1696678296,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183904,
+        "num": 183904,
+        "word": "以色列",
+        "onboard_time": 1696661376,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 171619,
+        "num": 171619,
+        "word": "孟鹤堂你就宠郑恺吧",
+        "onboard_time": 1696692456,
+        "rank": 44,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 170859,
+        "num": 170859,
+        "word": "张子墨 时代峰峻",
+        "onboard_time": 1696675475,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170288,
+        "num": 170288,
+        "word": "张杰谈签下杨和苏",
+        "onboard_time": 1696666300,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167871,
+        "num": 167871,
+        "word": "网友高铁上偶遇朱一龙拍摄路透",
+        "onboard_time": 1696678536,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151815,
+        "num": 151815,
+        "word": "伯恩利vs切尔西",
+        "onboard_time": 1696689223,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148427,
+        "num": 148427,
+        "word": "黄晓明说光腿过江是真实历史事件",
+        "onboard_time": 1696681659,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#一组数据看活力满满的中国#"
+    }
+  }
+}
