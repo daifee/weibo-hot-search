@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/08 00:35:10
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/08 01:13:59
 </p>
 </blockquote>
 <p>
@@ -2069,6 +2069,12 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E5%92%8C%E8%BD%A6%E9%93%B6%E4%BC%98%E4%B8%80%E8%B5%B7%E6%8B%8D%E5%B9%BF%E5%91%8A%E4%BA%86%23" target="weibo">
 韩素希和车银优一起拍广告了（热度：898003）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E7%A7%B0%E5%B0%86%E5%81%B7%E9%A4%90%E8%80%85%E7%BB%91%E5%A4%A9%E6%A1%A5%E7%A4%BA%E4%BC%978%E5%B0%8F%E6%97%B6%23" target="weibo">
+蜜雪冰城称将偷餐者绑天桥示众8小时（热度：896835）
 </a>
 </li>
 
@@ -5283,6 +5289,12 @@ Jennie把一年四季穿身上（热度：436838）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23lofter%23" target="weibo">
+lofter（热度：430622）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E8%A3%85%E5%91%A8%E6%9C%80%E5%87%BA%E5%9C%88%E6%98%8E%E6%98%9F%E6%8E%A8%E8%8D%90%23" target="weibo">
 时装周最出圈明星推荐（热度：426737）
 </a>
@@ -5999,18 +6011,6 @@ NCT新分队减员（热度：386791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%E9%98%9F%E5%91%98%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%87%AA%E5%B7%B1%E4%BA%BA%E5%8A%A0%E6%B2%B9%E4%BA%86%23" target="weibo">
 中国台北队员终于等到自己人加油了（热度：370177）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Ame%E7%9A%84%E6%B0%B4%E4%BA%BA%23" target="weibo">
-Ame的水人（热度：370022）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23" target="weibo">
-DOTA2中国对阵马来西亚（热度：369573）
 </a>
 </li>
 

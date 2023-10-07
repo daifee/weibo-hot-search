@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696696510744,
+  "endTime": 1696698839083,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2745,6 +2745,14 @@
       "onboard_time": 1696566096,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 896835,
+      "num": 397671,
+      "word": "蜜雪冰城称将偷餐者绑天桥示众8小时",
+      "onboard_time": 1696696347,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 892958,
@@ -7027,6 +7035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 430622,
+      "num": 430622,
+      "word": "lofter",
+      "onboard_time": 1696695630,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 426737,
       "num": 426737,
       "word": "时装周最出圈明星推荐",
@@ -9603,6 +9619,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 307406,
+      "num": 253829,
+      "word": "为什么工作之后一定要交社保",
+      "onboard_time": 1696695091,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 307175,
       "num": 307175,
       "word": "王一博巴黎回国到达",
@@ -10137,14 +10161,6 @@
       "onboard_time": 1696235795,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 291737,
-      "num": 253829,
-      "word": "为什么工作之后一定要交社保",
-      "onboard_time": 1696695091,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 291731,
@@ -14433,14 +14449,6 @@
       "onboard_time": 1696568374,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 201405,
-      "num": 201405,
-      "word": "lofter",
-      "onboard_time": 1696695630,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 201259,
@@ -19035,6 +19043,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 102828,
+      "num": 102828,
+      "word": "陈飞宇爆料健身最卷的是魏晨",
+      "onboard_time": 1696697963,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102651,
       "num": 376847,
       "word": "全国都在遥遥领先",
@@ -19233,14 +19249,6 @@
       "onboard_time": 1696251701,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 85419,
-      "num": 85419,
-      "word": "蜜雪冰城称将偷餐者绑天桥示众8小时",
-      "onboard_time": 1696696347,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85363,
@@ -19657,6 +19665,14 @@
       "onboard_time": 1696355001,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49488,
+      "num": 54331,
+      "word": "罗云熙早秋棕色系奶茶穿搭",
+      "onboard_time": 1696696887,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 49317,
