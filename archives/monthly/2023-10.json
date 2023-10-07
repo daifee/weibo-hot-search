@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696707224159,
+  "endTime": 1696709773882,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -20035,6 +20035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23760,
+      "num": 20653,
+      "word": "以色列遭袭后炮击加沙地带",
+      "onboard_time": 1696708574,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 23578,
       "num": 28282,
       "word": "于和伟 能看到就不错了还要啥自行车",
@@ -20059,6 +20067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 19014,
+      "num": 19388,
+      "word": "kpop组合专辑总销量TOP9",
+      "onboard_time": 1696707133,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 18957,
       "num": 588448,
       "word": "盛世中华 大美中国",
@@ -20081,14 +20097,6 @@
       "onboard_time": 1696237233,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 15986,
-      "num": 19388,
-      "word": "kpop组合专辑总销量TOP9",
-      "onboard_time": 1696707133,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 13909,
