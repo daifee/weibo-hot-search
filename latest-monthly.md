@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/08 00:20:05
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/08 00:35:10
 </p>
 </blockquote>
 <p>
@@ -4335,6 +4335,12 @@ Amber一声哞让张凌赫绷不住了（热度：530186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%87%AA%E8%B4%B9%E5%8D%83%E5%85%83%E7%BB%84%E7%BB%87%E5%AD%A6%E7%94%9F%E7%9C%8B%E7%94%B5%E5%BD%B1%E5%BF%97%E6%84%BF%E5%86%9B%23" target="weibo">
+班主任自费千元组织学生看电影志愿军（热度：515519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E8%85%BE%E7%BB%99%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%93%A6%E5%98%B4%E6%8A%8A%E5%A6%86%E5%8D%B8%E4%BA%86%23" target="weibo">
 沈腾给范丞丞擦嘴把妆卸了（热度：515290）
 </a>
@@ -4361,12 +4367,6 @@ Amber一声哞让张凌赫绷不住了（热度：530186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E8%89%BA%E6%B4%B2%20%E7%82%AB%E4%BA%86%E4%B8%89%E4%B8%AA%E5%85%94%E5%A4%B4%E4%B9%9F%E6%B2%A1%E6%83%B3%E6%98%8E%E7%99%BD%23" target="weibo">
 孙艺洲 炫了三个兔头也没想明白（热度：512979）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8F%AD%E4%B8%BB%E4%BB%BB%E8%87%AA%E8%B4%B9%E5%8D%83%E5%85%83%E7%BB%84%E7%BB%87%E5%AD%A6%E7%94%9F%E7%9C%8B%E7%94%B5%E5%BD%B1%E5%BF%97%E6%84%BF%E5%86%9B%23" target="weibo">
-班主任自费千元组织学生看电影志愿军（热度：510392）
 </a>
 </li>
 

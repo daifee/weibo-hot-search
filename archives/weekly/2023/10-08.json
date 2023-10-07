@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696695605146,
+  "endTime": 1696696510744,
   "band_list": [
     {
       "raw_hot": 1850480,
@@ -59,8 +59,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 510392,
-      "num": 510392,
+      "raw_hot": 515519,
+      "num": 515519,
       "word": "班主任自费千元组织学生看电影志愿军",
       "onboard_time": 1696692398,
       "rank": 5,
@@ -91,8 +91,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 336861,
-      "num": 336861,
+      "raw_hot": 337958,
+      "num": 337958,
       "word": "研究证实怀孕会部分重置准妈妈大脑",
       "onboard_time": 1696671757,
       "rank": 8,
@@ -123,8 +123,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269199,
-      "num": 269199,
+      "raw_hot": 291737,
+      "num": 253829,
+      "word": "为什么工作之后一定要交社保",
+      "onboard_time": 1696695091,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275082,
+      "num": 275082,
       "word": "亚运史上第1块霹雳舞金牌",
       "onboard_time": 1696676017,
       "rank": 11,
@@ -153,6 +161,14 @@
       "onboard_time": 1696687961,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219284,
+      "num": 219284,
+      "word": "皮划艇女选手赛后黄体破裂医生紧急救回",
+      "onboard_time": 1696686038,
+      "rank": 19,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 216242,
@@ -195,16 +211,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202570,
-      "num": 202570,
-      "word": "皮划艇女选手赛后黄体破裂医生紧急救回",
-      "onboard_time": 1696686038,
-      "rank": 19,
-      "category": "社会新闻,体育"
+      "raw_hot": 201405,
+      "num": 201405,
+      "word": "lofter",
+      "onboard_time": 1696695630,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 190932,
-      "num": 219605,
+      "num": 221458,
       "word": "中国女排夺冠",
       "onboard_time": 1696683939,
       "rank": 14,
@@ -217,14 +233,6 @@
       "onboard_time": 1696682257,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 186610,
-      "num": 186610,
-      "word": "为什么工作之后一定要交社保",
-      "onboard_time": 1696695091,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 179674,
@@ -347,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105934,
+      "num": 105934,
+      "word": "98名浙江运动员已获50块金牌",
+      "onboard_time": 1696694611,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103559,
       "num": 103559,
       "word": "enhypen饭撒",
@@ -360,14 +376,6 @@
       "word": "国羽4金3银2铜收官",
       "onboard_time": 1696688381,
       "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 94878,
-      "num": 94878,
-      "word": "98名浙江运动员已获50块金牌",
-      "onboard_time": 1696694611,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -393,6 +401,14 @@
       "onboard_time": 1696680275,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85419,
+      "num": 85419,
+      "word": "蜜雪冰城称将偷餐者绑天桥示众8小时",
+      "onboard_time": 1696696347,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22255,
