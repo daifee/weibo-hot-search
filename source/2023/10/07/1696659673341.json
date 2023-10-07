@@ -1,0 +1,410 @@
+{
+  "runTime": 1696659673341,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2040461,
+        "num": 2040461,
+        "word": "鹿哈自曝带货7个月挣3500万",
+        "onboard_time": 1696650639,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1090040,
+        "num": 1090040,
+        "word": "吴亦凡经纪公司被强执近1900万",
+        "onboard_time": 1696653406,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38954,
+        "num": 981154,
+        "word": "中秋国庆假期国内8.26亿人次出游",
+        "onboard_time": 1696590039,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1668880,
+        "num": 952991,
+        "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
+        "onboard_time": 1696656340,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1357006,
+        "num": 926377,
+        "word": "苹果商店现黄色软件伪装成学习软件",
+        "onboard_time": 1696652443,
+        "rank": 4,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 877276,
+        "num": 877276,
+        "word": "邓为首部男主剧",
+        "onboard_time": 1696655322,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 728914,
+        "num": 728914,
+        "word": "以色列国防军宣布进入战争状态",
+        "onboard_time": 1696657778,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 710646,
+        "num": 710646,
+        "word": "狗子误食月饼集体打吊针",
+        "onboard_time": 1696657778,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 642480,
+        "num": 642480,
+        "word": "为什么睡觉用zzz表示",
+        "onboard_time": 1696651302,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 529645,
+        "num": 529645,
+        "word": "本周有三个周一",
+        "onboard_time": 1696655205,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602384,
+        "num": 522217,
+        "word": "救援队分析上海4岁女童走失情况",
+        "onboard_time": 1696653945,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453708,
+        "num": 453708,
+        "word": "B太云南发现的坑处理结果",
+        "onboard_time": 1696657058,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 434084,
+        "num": 434084,
+        "word": "仙台有树",
+        "onboard_time": 1696655024,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306146,
+        "num": 425757,
+        "word": "美国或在2024年出现大萧条以来最严重崩盘",
+        "onboard_time": 1696644337,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 286267,
+        "num": 417942,
+        "word": "姚明说好奇自己没去NBA会怎样",
+        "onboard_time": 1696658138,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458360,
+        "num": 417866,
+        "word": "黄元芯的爸爸",
+        "onboard_time": 1696646614,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 417763,
+        "num": 417763,
+        "word": "原来控糖不能吃这些",
+        "onboard_time": 1696651966,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 410275,
+        "num": 410275,
+        "word": "我有点小钱韩庚你多营业",
+        "onboard_time": 1696657836,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375889,
+        "num": 375889,
+        "word": "Yamy郭颖签约少城时代",
+        "onboard_time": 1696654665,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369357,
+        "num": 369357,
+        "word": "陈好都开始演妈了",
+        "onboard_time": 1696644034,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 646378,
+        "num": 364072,
+        "word": "28岁智障女子被迫嫁给34岁二婚男",
+        "onboard_time": 1696654544,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625662,
+        "num": 361963,
+        "word": "上海海滩走失女童父亲非继父",
+        "onboard_time": 1696647095,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343073,
+        "num": 343073,
+        "word": "女子花3.5扫共享单车从上海骑到苏州",
+        "onboard_time": 1696652024,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290462,
+        "num": 290462,
+        "word": "许光汉程潇你俩在干嘛",
+        "onboard_time": 1696653465,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272951,
+        "num": 272951,
+        "word": "第一次见女主是癞蛤蟆的",
+        "onboard_time": 1696653465,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260237,
+        "num": 260237,
+        "word": "劝大家不要频繁掏耳朵",
+        "onboard_time": 1696652443,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 247894,
+        "num": 247894,
+        "word": "TI中国队晋级崩铁全服奖励",
+        "onboard_time": 1696654844,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 230306,
+        "num": 230306,
+        "word": "南柱赫入伍新照",
+        "onboard_time": 1696658740,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228650,
+        "num": 228650,
+        "word": "新疆阿克苏地震",
+        "onboard_time": 1696656876,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222318,
+        "num": 222318,
+        "word": "海滩走失女童在水边摔倒后消失在海浪中",
+        "onboard_time": 1696647696,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214410,
+        "num": 214410,
+        "word": "杨幂这套图用在今天太合适了",
+        "onboard_time": 1696641695,
+        "rank": 30,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 214217,
+        "num": 214217,
+        "word": "休8上7是什么体验",
+        "onboard_time": 1696642713,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205134,
+        "num": 205134,
+        "word": "虞书欣瞬回云为衫",
+        "onboard_time": 1696658199,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200345,
+        "num": 200345,
+        "word": "兰州站陈梦王曼昱女双冠军",
+        "onboard_time": 1696655921,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196713,
+        "num": 196713,
+        "word": "节后第一天下了班干什么",
+        "onboard_time": 1696645894,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188191,
+        "num": 188191,
+        "word": "上海4岁女童失踪已超60小时",
+        "onboard_time": 1696653223,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175269,
+        "num": 175269,
+        "word": "杨紫造型师说你们的福气还在后头",
+        "onboard_time": 1696650038,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155535,
+        "num": 155535,
+        "word": "丁丁幼崽好壮实",
+        "onboard_time": 1696644215,
+        "rank": 37,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 155164,
+        "num": 155164,
+        "word": "全红婵以男队员标准要求自己",
+        "onboard_time": 1696659217,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152217,
+        "num": 152217,
+        "word": "犬夜叉 薇桔",
+        "onboard_time": 1696649499,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 149503,
+        "num": 149503,
+        "word": "陈飞宇问东北麻辣烫怎么都是素的",
+        "onboard_time": 1696649677,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156593,
+        "num": 149148,
+        "word": "杨紫西欧皇室公主风",
+        "onboard_time": 1696652324,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146465,
+        "num": 146465,
+        "word": "内马尔女儿出生",
+        "onboard_time": 1696646734,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143577,
+        "num": 143577,
+        "word": "爸爸养的猫25岁了",
+        "onboard_time": 1696640856,
+        "rank": 43,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 138580,
+        "num": 138580,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130917,
+        "num": 130917,
+        "word": "丁宁入选亚奥理事会运动员委员",
+        "onboard_time": 1696656277,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227854,
+        "num": 129928,
+        "word": "主持人大赛上无法超越的发言",
+        "onboard_time": 1696657237,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128721,
+        "num": 128721,
+        "word": "姚明回应为何换掉杜锋",
+        "onboard_time": 1696651602,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125675,
+        "num": 125675,
+        "word": "金晨单手扛背景板",
+        "onboard_time": 1696655024,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 119483,
+        "num": 119483,
+        "word": "专家建议增加假期不要调休",
+        "onboard_time": 1696641514,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}

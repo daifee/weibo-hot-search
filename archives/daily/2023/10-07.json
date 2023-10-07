@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696656836883,
+  "endTime": 1696659673341,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -72,6 +72,14 @@
       "word": "浦东海滩走失女孩疑似最后影像曝光",
       "onboard_time": 1696621933,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1668880,
+      "num": 952991,
+      "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
+      "onboard_time": 1696656340,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -187,20 +195,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 877276,
+      "num": 877276,
+      "word": "邓为首部男主剧",
+      "onboard_time": 1696655322,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 872868,
       "num": 872868,
       "word": "沈梦辰拍了周杰伦专辑封面同款照",
       "onboard_time": 1696642713,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 852573,
-      "num": 852573,
-      "word": "邓为首部男主剧",
-      "onboard_time": 1696655322,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 843570,
@@ -291,6 +299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 728914,
+      "num": 728914,
+      "word": "以色列国防军宣布进入战争状态",
+      "onboard_time": 1696657778,
+      "rank": 6,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 722671,
       "num": 722671,
       "word": "杨幂这套图用在今天太合适了",
@@ -305,6 +321,14 @@
       "onboard_time": 1696649677,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 710646,
+      "num": 710646,
+      "word": "狗子误食月饼集体打吊针",
+      "onboard_time": 1696657778,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 704232,
@@ -428,7 +452,7 @@
     },
     {
       "raw_hot": 577845,
-      "num": 448159,
+      "num": 529645,
       "word": "本周有三个周一",
       "onboard_time": 1696655205,
       "rank": 27,
@@ -441,14 +465,6 @@
       "onboard_time": 1696651602,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 569542,
-      "num": 553344,
-      "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
-      "onboard_time": 1696656340,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 568504,
@@ -523,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453708,
+      "num": 453708,
+      "word": "B太云南发现的坑处理结果",
+      "onboard_time": 1696657058,
+      "rank": 11,
+      "category": "网红"
+    },
+    {
       "raw_hot": 451031,
       "num": 401241,
       "word": "劝大家不要频繁掏耳朵",
@@ -555,19 +579,19 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 434084,
+      "num": 434084,
+      "word": "仙台有树",
+      "onboard_time": 1696655024,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432714,
       "num": 380446,
       "word": "张嘉益王晓晨二搭",
       "onboard_time": 1696643193,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 429721,
-      "num": 429721,
-      "word": "仙台有树",
-      "onboard_time": 1696655024,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -577,6 +601,14 @@
       "onboard_time": 1696647574,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410275,
+      "num": 410275,
+      "word": "我有点小钱韩庚你多营业",
+      "onboard_time": 1696657836,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 408958,
@@ -753,6 +785,14 @@
       "onboard_time": 1696637857,
       "rank": 27,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 286267,
+      "num": 417942,
+      "word": "姚明说好奇自己没去NBA会怎样",
+      "onboard_time": 1696658138,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 285064,
@@ -939,12 +979,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 230306,
+      "num": 230306,
+      "word": "南柱赫入伍新照",
+      "onboard_time": 1696658740,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 229027,
       "num": 229027,
       "word": "韩素希不能当爱豆的原因",
       "onboard_time": 1696599946,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228650,
+      "num": 228650,
+      "word": "新疆阿克苏地震",
+      "onboard_time": 1696656876,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 227854,
+      "num": 129928,
+      "word": "主持人大赛上无法超越的发言",
+      "onboard_time": 1696657237,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 225341,
@@ -1049,6 +1113,14 @@
       "onboard_time": 1696654485,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205134,
+      "num": 205134,
+      "word": "虞书欣瞬回云为衫",
+      "onboard_time": 1696658199,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 201878,
@@ -1329,6 +1401,14 @@
       "onboard_time": 1696600003,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155164,
+      "num": 155164,
+      "word": "全红婵以男队员标准要求自己",
+      "onboard_time": 1696659217,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 155013,
