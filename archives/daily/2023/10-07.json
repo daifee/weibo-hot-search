@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696667661958,
+  "endTime": 1696670097579,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -67,6 +67,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1872520,
+      "num": 1872520,
+      "word": "花西子审美",
+      "onboard_time": 1696667439,
+      "rank": 9,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1868410,
       "num": 1868410,
       "word": "亚运村的床垫都被带走了",
@@ -96,6 +104,14 @@
       "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
       "onboard_time": 1696656340,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1657543,
+      "num": 1657543,
+      "word": "失踪女童母亲曾催丈夫回去找女儿",
+      "onboard_time": 1696668159,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -187,6 +203,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1117368,
+      "num": 1117368,
+      "word": "张杰谈签下杨和苏",
+      "onboard_time": 1696666300,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1099898,
       "num": 1099898,
       "word": "官方通报已婚女子陪领导喝酒醉卧街头",
@@ -211,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 980207,
+      "num": 358729,
+      "word": "10月不要请假",
+      "onboard_time": 1696668159,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 975882,
       "num": 466111,
       "word": "海滩走失女童在水边摔倒后消失在海浪中",
       "onboard_time": 1696647696,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 972782,
-      "num": 972782,
-      "word": "张杰谈签下杨和苏",
-      "onboard_time": 1696666300,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 919625,
@@ -249,6 +273,14 @@
       "onboard_time": 1696598380,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 880569,
+      "num": 880569,
+      "word": "林高远17比15张本智和",
+      "onboard_time": 1696669298,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 879295,
@@ -321,6 +353,14 @@
       "onboard_time": 1696640316,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775893,
+      "num": 775893,
+      "word": "林高远vs张本智和",
+      "onboard_time": 1696666117,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 769543,
@@ -443,14 +483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625599,
-      "num": 625599,
-      "word": "林高远vs张本智和",
-      "onboard_time": 1696666117,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 614332,
       "num": 614332,
       "word": "专家称调休初衷是好的",
@@ -472,6 +504,14 @@
       "word": "不想上班",
       "onboard_time": 1696636714,
       "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 609709,
+      "num": 355292,
+      "word": "工资高又不卷的工作",
+      "onboard_time": 1696666959,
+      "rank": 22,
       "category": "情感"
     },
     {
@@ -539,20 +579,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 578974,
-      "num": 355292,
-      "word": "工资高又不卷的工作",
-      "onboard_time": 1696666959,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
       "raw_hot": 575238,
       "num": 444561,
       "word": "姚明回应为何换掉杜锋",
       "onboard_time": 1696651602,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 574503,
+      "num": 574503,
+      "word": "王鹤棣白鹿以爱为营最新路透",
+      "onboard_time": 1696666835,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 568504,
@@ -611,12 +651,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 515862,
-      "num": 515862,
-      "word": "花西子审美",
+      "raw_hot": 519724,
+      "num": 343317,
+      "word": "男朋友说闻到我要来大姨妈了",
       "onboard_time": 1696667439,
-      "rank": 9,
-      "category": "美妆"
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 508252,
@@ -659,14 +699,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 487778,
-      "num": 487778,
-      "word": "王鹤棣白鹿以爱为营最新路透",
-      "onboard_time": 1696666835,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 485115,
       "num": 485115,
       "word": "迪丽热巴 万渣朝凰",
@@ -691,12 +723,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 454945,
+      "num": 454945,
+      "word": "石宇奇vs李诗沣",
+      "onboard_time": 1696669598,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 453708,
       "num": 453708,
       "word": "B太云南发现的坑处理结果",
       "onboard_time": 1696657058,
       "rank": 11,
       "category": "网红"
+    },
+    {
+      "raw_hot": 452840,
+      "num": 452840,
+      "word": "时间定了油价要跌",
+      "onboard_time": 1696667497,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 451031,
@@ -720,6 +768,14 @@
       "word": "姚明说中国篮球与世界脱轨",
       "onboard_time": 1696644814,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 438389,
+      "num": 438389,
+      "word": "羽毛球男单决赛",
+      "onboard_time": 1696669476,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -865,6 +921,14 @@
       "onboard_time": 1696607316,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 363249,
+      "num": 363249,
+      "word": "陈若琳对全红婵是满满的偏爱",
+      "onboard_time": 1696668159,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 359352,
@@ -1019,6 +1083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 283418,
+      "num": 283418,
+      "word": "做过外卖员的他30岁破格进入国家队",
+      "onboard_time": 1696667318,
+      "rank": 35,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 282777,
       "num": 274550,
       "word": "iOS17被曝WiFi连接问题",
@@ -1035,12 +1107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278730,
+      "num": 278730,
+      "word": "一个不想去上班一个不想去幼儿园",
+      "onboard_time": 1696668398,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274880,
       "num": 274880,
       "word": "曾舜晞圈内人缘",
       "onboard_time": 1696650217,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269933,
+      "num": 269933,
+      "word": "你可以永远相信雅思组合",
+      "onboard_time": 1696668760,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 266994,
@@ -1089,6 +1177,14 @@
       "onboard_time": 1696599763,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 257459,
+      "num": 257459,
+      "word": "阿姨将150万家当遗落众人协助找回",
+      "onboard_time": 1696667976,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255837,
@@ -1371,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208464,
+      "num": 208464,
+      "word": "于适和马分吃一个苹果",
+      "onboard_time": 1696668938,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205798,
       "num": 595132,
       "word": "葛曼棋的哪吒头是为激励自己不服输",
@@ -1385,22 +1489,6 @@
       "onboard_time": 1696658199,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204223,
-      "num": 204223,
-      "word": "做过外卖员的他30岁破格进入国家队",
-      "onboard_time": 1696667318,
-      "rank": 35,
-      "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 203549,
-      "num": 203549,
-      "word": "男朋友说闻到我要来大姨妈了",
-      "onboard_time": 1696667439,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 203236,
@@ -1507,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191161,
+      "num": 191161,
+      "word": "网友点赞老乡鸡董事长格局",
+      "onboard_time": 1696669476,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190941,
       "num": 190941,
       "word": "听障夫妻带4岁耳蜗宝宝摆摊卖鸡蛋仔",
@@ -1529,6 +1625,14 @@
       "onboard_time": 1696601024,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188302,
+      "num": 188302,
+      "word": "国家队颜值都好高",
+      "onboard_time": 1696669360,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 187564,
@@ -1571,6 +1675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182689,
+      "num": 182689,
+      "word": "110和119合力救出落水一家四口",
+      "onboard_time": 1696668578,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182565,
       "num": 182565,
       "word": "韩国的水果可以有多贵",
@@ -1585,6 +1697,14 @@
       "onboard_time": 1696655080,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182235,
+      "num": 182235,
+      "word": "问心今晚开播",
+      "onboard_time": 1696667857,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 182176,
@@ -1633,6 +1753,22 @@
       "onboard_time": 1696655862,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 176549,
+      "num": 176549,
+      "word": "王源棒球服",
+      "onboard_time": 1696668217,
+      "rank": 44,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 176429,
+      "num": 176429,
+      "word": "8亿人出游的假期他们这样度过",
+      "onboard_time": 1696669237,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 176292,
@@ -1691,14 +1827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167614,
-      "num": 167614,
-      "word": "时间定了油价要跌",
-      "onboard_time": 1696667497,
-      "rank": 42,
-      "category": "财经"
-    },
-    {
       "raw_hot": 166881,
       "num": 166881,
       "word": "NCTDREAM采访收到螺蛳粉",
@@ -1721,6 +1849,14 @@
       "onboard_time": 1696650160,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166021,
+      "num": 166021,
+      "word": "民国史密斯夫妇",
+      "onboard_time": 1696668278,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 165492,
@@ -1769,6 +1905,14 @@
       "onboard_time": 1696600003,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155681,
+      "num": 155681,
+      "word": "男子翻出26年前的万元存单求助民警取现",
+      "onboard_time": 1696670076,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155013,
@@ -2020,7 +2164,7 @@
     },
     {
       "raw_hot": 66820,
-      "num": 1480301,
+      "num": 1731964,
       "word": "中秋国庆假期国内8.26亿人次出游",
       "onboard_time": 1696590039,
       "rank": 2,
