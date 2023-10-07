@@ -1,0 +1,410 @@
+{
+  "runTime": 1696671243600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1685454,
+        "num": 1685454,
+        "word": "花西子审美",
+        "onboard_time": 1696667439,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1611364,
+        "num": 1611364,
+        "word": "仅0.4%主播月收入超10万",
+        "onboard_time": 1696664557,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61930,
+        "num": 1233829,
+        "word": "杭州亚运会明天闭幕",
+        "onboard_time": 1696671217,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1821239,
+        "num": 1212884,
+        "word": "失踪女童母亲曾催丈夫回去找女儿",
+        "onboard_time": 1696668159,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028707,
+        "num": 1028707,
+        "word": "林高远17比15张本智和",
+        "onboard_time": 1696669298,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 890836,
+        "num": 890836,
+        "word": "张杰谈签下杨和苏",
+        "onboard_time": 1696666300,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 816851,
+        "num": 816851,
+        "word": "以色列",
+        "onboard_time": 1696661376,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 587849,
+        "num": 587849,
+        "word": "孙艺洲称疑遭新型蟹卡诈骗",
+        "onboard_time": 1696660357,
+        "rank": 7,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 537069,
+        "num": 537069,
+        "word": "石宇奇vs李诗沣",
+        "onboard_time": 1696669598,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 516084,
+        "num": 516084,
+        "word": "以色列国防军宣布进入战争状态",
+        "onboard_time": 1696657778,
+        "rank": 9,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 498079,
+        "num": 498079,
+        "word": "万渣朝凰 8个男主",
+        "onboard_time": 1696664981,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 439446,
+        "num": 439446,
+        "word": "王鹤棣白鹿以爱为营最新路透",
+        "onboard_time": 1696666835,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 422416,
+        "num": 422416,
+        "word": "时间定了油价要跌",
+        "onboard_time": 1696667497,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 414979,
+        "num": 414979,
+        "word": "陈若琳对全红婵是满满的偏爱",
+        "onboard_time": 1696668159,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266605,
+        "num": 398032,
+        "word": "父母准备200斤土特产塞满后备箱",
+        "onboard_time": 1696662158,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389890,
+        "num": 389890,
+        "word": "林高远vs张本智和",
+        "onboard_time": 1696666117,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383196,
+        "num": 383196,
+        "word": "苹果商店现黄色软件伪装成学习软件",
+        "onboard_time": 1696652443,
+        "rank": 16,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 377659,
+        "num": 377659,
+        "word": "羽毛球男单决赛",
+        "onboard_time": 1696669476,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189510,
+        "num": 343294,
+        "word": "雅思组合卫冕冠军",
+        "onboard_time": 1696662034,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 322037,
+        "num": 322037,
+        "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
+        "onboard_time": 1696656340,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1039931,
+        "num": 314410,
+        "word": "10月不要请假",
+        "onboard_time": 1696668159,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 752473,
+        "num": 300655,
+        "word": "鹿哈自曝带货7个月挣3500万",
+        "onboard_time": 1696650639,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 568515,
+        "num": 292876,
+        "word": "工资高又不卷的工作",
+        "onboard_time": 1696666959,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279574,
+        "num": 279574,
+        "word": "回家第一件事查父母手机",
+        "onboard_time": 1696665517,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 471205,
+        "num": 268591,
+        "word": "男朋友说闻到我要来大姨妈了",
+        "onboard_time": 1696667439,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351252,
+        "num": 263115,
+        "word": "男子翻出26年前的万元存单求助民警取现",
+        "onboard_time": 1696670076,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255086,
+        "num": 255086,
+        "word": "邓为首部男主剧",
+        "onboard_time": 1696655322,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252214,
+        "num": 252214,
+        "word": "孙红雷小三十岁能参加亚运了",
+        "onboard_time": 1696661557,
+        "rank": 27,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 224986,
+        "num": 224986,
+        "word": "迪丽热巴创时装周最高媒体价值",
+        "onboard_time": 1696663116,
+        "rank": 28,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 190853,
+        "num": 224001,
+        "word": "盘点杭州亚运会啦啦队整活",
+        "onboard_time": 1696670676,
+        "rank": 29,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 37239,
+        "num": 223864,
+        "word": "中秋国庆假期国内8.26亿人次出游",
+        "onboard_time": 1696590039,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233013,
+        "num": 223858,
+        "word": "张元英粉色小兔造型",
+        "onboard_time": 1696670917,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 223815,
+        "num": 223815,
+        "word": "你可以永远相信雅思组合",
+        "onboard_time": 1696668760,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 219222,
+        "num": 219222,
+        "word": "中国银行原董事长刘连舸被开除党籍",
+        "onboard_time": 1696664257,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214574,
+        "num": 214574,
+        "word": "28岁智障女子被迫嫁给34岁二婚男",
+        "onboard_time": 1696654544,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212129,
+        "num": 212129,
+        "word": "阿姨将150万家当遗落众人协助找回",
+        "onboard_time": 1696667976,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204010,
+        "num": 204010,
+        "word": "吴亦凡经纪公司被强执近1900万",
+        "onboard_time": 1696653406,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199843,
+        "num": 199843,
+        "word": "于适和马分吃一个苹果",
+        "onboard_time": 1696668938,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198669,
+        "num": 198669,
+        "word": "网友点赞老乡鸡董事长格局",
+        "onboard_time": 1696669476,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196796,
+        "num": 196796,
+        "word": "做过外卖员的他30岁破格进入国家队",
+        "onboard_time": 1696667318,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 193452,
+        "num": 193452,
+        "word": "国家队颜值都好高",
+        "onboard_time": 1696669360,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190534,
+        "num": 190534,
+        "word": "卢昱晓一秒白切黑",
+        "onboard_time": 1696670676,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189625,
+        "num": 189625,
+        "word": "一个不想去上班一个不想去幼儿园",
+        "onboard_time": 1696668398,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189236,
+        "num": 189236,
+        "word": "印度夺亚运羽毛球男双冠军",
+        "onboard_time": 1696670978,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187878,
+        "num": 187878,
+        "word": "肖战新剧或将11月开机",
+        "onboard_time": 1696663237,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185517,
+        "num": 185517,
+        "word": "林高远晋级男单半决赛",
+        "onboard_time": 1696670197,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178796,
+        "num": 178796,
+        "word": "问心今晚开播",
+        "onboard_time": 1696667857,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163048,
+        "num": 163048,
+        "word": "马拉松游泳冠亚军赛中一直喝千岛湖水",
+        "onboard_time": 1696670617,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244516,
+        "num": 161912,
+        "word": "上海海滩走失女童父亲非继父",
+        "onboard_time": 1696647095,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156176,
+        "num": 156176,
+        "word": "110和119合力救出落水一家四口",
+        "onboard_time": 1696668578,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一组数据看活力满满的中国#"
+    }
+  }
+}

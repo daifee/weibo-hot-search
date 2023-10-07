@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696670097579,
+  "endTime": 1696671243600,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -83,6 +83,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1821239,
+      "num": 1657543,
+      "word": "失踪女童母亲曾催丈夫回去找女儿",
+      "onboard_time": 1696668159,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1797203,
       "num": 1118001,
       "word": "黄元芯的爸爸",
@@ -104,14 +112,6 @@
       "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
       "onboard_time": 1696656340,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1657543,
-      "num": 1657543,
-      "word": "失踪女童母亲曾催丈夫回去找女儿",
-      "onboard_time": 1696668159,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -219,6 +219,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1039931,
+      "num": 358729,
+      "word": "10月不要请假",
+      "onboard_time": 1696668159,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 1028707,
+      "num": 1028707,
+      "word": "林高远17比15张本智和",
+      "onboard_time": 1696669298,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1012788,
       "num": 1012788,
       "word": "救援队分析上海4岁女童走失情况",
@@ -233,14 +249,6 @@
       "onboard_time": 1696583733,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 980207,
-      "num": 358729,
-      "word": "10月不要请假",
-      "onboard_time": 1696668159,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 975882,
@@ -273,14 +281,6 @@
       "onboard_time": 1696598380,
       "rank": 15,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 880569,
-      "num": 880569,
-      "word": "林高远17比15张本智和",
-      "onboard_time": 1696669298,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 879295,
@@ -627,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 537069,
+      "num": 537069,
+      "word": "石宇奇vs李诗沣",
+      "onboard_time": 1696669598,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 529264,
       "num": 507910,
       "word": "回家第一件事查父母手机",
@@ -723,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 454945,
-      "num": 454945,
-      "word": "石宇奇vs李诗沣",
-      "onboard_time": 1696669598,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 453708,
       "num": 453708,
       "word": "B太云南发现的坑处理结果",
@@ -817,6 +817,14 @@
       "onboard_time": 1696647574,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 414979,
+      "num": 414979,
+      "word": "陈若琳对全红婵是满满的偏爱",
+      "onboard_time": 1696668159,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 409768,
@@ -923,19 +931,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 363249,
-      "num": 363249,
-      "word": "陈若琳对全红婵是满满的偏爱",
-      "onboard_time": 1696668159,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 359352,
       "num": 359352,
       "word": "上海4岁女童失踪已超60小时",
       "onboard_time": 1696653223,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351252,
+      "num": 263115,
+      "word": "男子翻出26年前的万元存单求助民警取现",
+      "onboard_time": 1696670076,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -1291,6 +1299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 233013,
+      "num": 223858,
+      "word": "张元英粉色小兔造型",
+      "onboard_time": 1696670917,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230947,
       "num": 230947,
       "word": "妻子陪无臂丈夫努力20年买下大房子",
@@ -1515,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198669,
+      "num": 198669,
+      "word": "网友点赞老乡鸡董事长格局",
+      "onboard_time": 1696669476,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 197941,
       "num": 197941,
       "word": "金晨单手扛背景板",
@@ -1571,6 +1595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193452,
+      "num": 193452,
+      "word": "国家队颜值都好高",
+      "onboard_time": 1696669360,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193312,
       "num": 193312,
       "word": "王丽坤戴面具32集终于摘掉了",
@@ -1595,20 +1627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191161,
-      "num": 191161,
-      "word": "网友点赞老乡鸡董事长格局",
-      "onboard_time": 1696669476,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 190941,
       "num": 190941,
       "word": "听障夫妻带4岁耳蜗宝宝摆摊卖鸡蛋仔",
       "onboard_time": 1696665517,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190853,
+      "num": 224001,
+      "word": "盘点杭州亚运会啦啦队整活",
+      "onboard_time": 1696670676,
+      "rank": 29,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 190738,
@@ -1619,20 +1651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190534,
+      "num": 190534,
+      "word": "卢昱晓一秒白切黑",
+      "onboard_time": 1696670676,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 189236,
+      "num": 189236,
+      "word": "印度夺亚运羽毛球男双冠军",
+      "onboard_time": 1696670978,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189009,
       "num": 434116,
       "word": "爸爸带娃主打潦草",
       "onboard_time": 1696601024,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 188302,
-      "num": 188302,
-      "word": "国家队颜值都好高",
-      "onboard_time": 1696669360,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 187564,
@@ -1657,6 +1697,14 @@
       "onboard_time": 1696611385,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185517,
+      "num": 185517,
+      "word": "林高远晋级男单半决赛",
+      "onboard_time": 1696670197,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 183797,
@@ -1875,6 +1923,14 @@
       "category": "社会新闻,军事"
     },
     {
+      "raw_hot": 163048,
+      "num": 163048,
+      "word": "马拉松游泳冠亚军赛中一直喝千岛湖水",
+      "onboard_time": 1696670617,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 162397,
       "num": 162397,
       "word": "杨天真 不要死磕一个东西",
@@ -1905,14 +1961,6 @@
       "onboard_time": 1696600003,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 155681,
-      "num": 155681,
-      "word": "男子翻出26年前的万元存单求助民警取现",
-      "onboard_time": 1696670076,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 155013,
@@ -2185,6 +2233,14 @@
       "onboard_time": 1696605279,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61930,
+      "num": 1233829,
+      "word": "杭州亚运会明天闭幕",
+      "onboard_time": 1696671217,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 57440,
