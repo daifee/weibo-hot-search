@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696713220084,
+  "endTime": 1696714452996,
   "band_list": [
     {
       "raw_hot": 1850480,
@@ -451,7 +451,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 25479,
+      "raw_hot": 31675,
+      "num": 31675,
+      "word": "迷笛音乐节要反思的不是当地群众",
+      "onboard_time": 1696712054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25752,
       "num": 52581,
       "word": "以色列遭袭后炮击加沙地带",
       "onboard_time": 1696708574,
@@ -475,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 19108,
-      "num": 19108,
-      "word": "迷笛音乐节要反思的不是当地群众",
-      "onboard_time": 1696712054,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19014,
       "num": 52073,
       "word": "kpop组合专辑总销量TOP9",
@@ -491,8 +491,16 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13245,
-      "num": 16264,
+      "raw_hot": 17828,
+      "num": 17828,
+      "word": "台风小犬",
+      "onboard_time": 1696713493,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17756,
+      "num": 17756,
       "word": "陈都灵吃饭也走流程",
       "onboard_time": 1696713134,
       "rank": 47,
