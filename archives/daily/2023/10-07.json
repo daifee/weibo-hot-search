@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696673802461,
+  "endTime": 1696674846095,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -27,6 +27,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 2754073,
+      "num": 2754073,
+      "word": "央视主持人张泽群实名举报朝阳区法院",
+      "onboard_time": 1696671995,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2559364,
       "num": 901900,
       "word": "海滩走失女童父亲深夜发布多张照片",
@@ -51,7 +59,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2110524,
+      "raw_hot": 2121764,
       "num": 1270585,
       "word": "研究证实怀孕会部分重置准妈妈大脑",
       "onboard_time": 1696671757,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1792793,
-      "num": 1792793,
-      "word": "央视主持人张泽群实名举报朝阳区法院",
-      "onboard_time": 1696671995,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1754670,
       "num": 724123,
       "word": "浦东海滩走失女孩疑似最后影像曝光",
@@ -131,20 +131,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1636091,
+      "num": 1225130,
+      "word": "花西子你是照着李佳琦化的吗",
+      "onboard_time": 1696671876,
+      "rank": 8,
+      "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 1526772,
+      "num": 746656,
+      "word": "贝嫂谈贝克汉姆出轨",
+      "onboard_time": 1696673799,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1522453,
       "num": 1522453,
       "word": "吴亦凡经纪公司被强执近1900万",
       "onboard_time": 1696653406,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1501629,
-      "num": 1108751,
-      "word": "花西子你是照着李佳琦化的吗",
-      "onboard_time": 1696671876,
-      "rank": 8,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 1491175,
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1224598,
+      "num": 1224598,
+      "word": "李诗沣夺金",
+      "onboard_time": 1696672959,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1169885,
       "num": 1169885,
       "word": "以色列",
@@ -235,14 +251,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1105350,
-      "num": 1105350,
-      "word": "李诗沣夺金",
-      "onboard_time": 1696672959,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1099898,
       "num": 1099898,
       "word": "官方通报已婚女子陪领导喝酒醉卧街头",
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 1049817,
-      "num": 392499,
+      "num": 424333,
       "word": "10月不要请假",
       "onboard_time": 1696668159,
       "rank": 20,
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 627591,
+      "num": 627591,
+      "word": "周启豪vs王楚钦",
+      "onboard_time": 1696673378,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 614332,
       "num": 614332,
       "word": "专家称调休初衷是好的",
@@ -579,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 596259,
+      "num": 410135,
+      "word": "24岁被妈妈发消息说注意避孕",
+      "onboard_time": 1696673919,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 595711,
       "num": 485032,
       "word": "杨紫造型师说你们的福气还在后头",
@@ -587,12 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 591656,
-      "num": 591656,
+      "raw_hot": 594304,
+      "num": 594304,
       "word": "以色列总统发文",
       "onboard_time": 1696672419,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 592555,
+      "num": 592555,
+      "word": "长相思与狐妖小红娘将同期播出",
+      "onboard_time": 1696672475,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 590699,
@@ -705,14 +737,6 @@
       "onboard_time": 1696667439,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 513897,
-      "num": 513897,
-      "word": "长相思与狐妖小红娘将同期播出",
-      "onboard_time": 1696672475,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 508252,
@@ -851,6 +875,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 435564,
+      "num": 435564,
+      "word": "陈凯歌 是中国人到这都想掉眼泪",
+      "onboard_time": 1696672298,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 434084,
       "num": 434084,
       "word": "仙台有树",
@@ -873,14 +905,6 @@
       "onboard_time": 1696643193,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 429696,
-      "num": 429696,
-      "word": "陈凯歌 是中国人到这都想掉眼泪",
-      "onboard_time": 1696672298,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 426378,
@@ -1059,12 +1083,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 342876,
-      "num": 342876,
-      "word": "周启豪vs王楚钦",
-      "onboard_time": 1696673378,
-      "rank": 27,
-      "category": "体育"
+      "raw_hot": 336435,
+      "num": 336435,
+      "word": "室友说她新买了一个垃圾桶",
+      "onboard_time": 1696673561,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 330776,
+      "num": 1369266,
+      "word": "做过外卖员的他30岁破格进入国家队",
+      "onboard_time": 1696667318,
+      "rank": 35,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 330678,
@@ -1105,6 +1137,14 @@
       "onboard_time": 1696636473,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308050,
+      "num": 257711,
+      "word": "司机听说我去清华把车费抹了零",
+      "onboard_time": 1696673980,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 304457,
@@ -1185,14 +1225,6 @@
       "onboard_time": 1696644936,
       "rank": 37,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283418,
-      "num": 1369266,
-      "word": "做过外卖员的他30岁破格进入国家队",
-      "onboard_time": 1696667318,
-      "rank": 35,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 282777,
@@ -1305,14 +1337,6 @@
       "onboard_time": 1696649196,
       "rank": 37,
       "category": "财经"
-    },
-    {
-      "raw_hot": 255459,
-      "num": 255459,
-      "word": "室友说她新买了一个垃圾桶",
-      "onboard_time": 1696673561,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 255143,
@@ -1475,6 +1499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224108,
+      "num": 224108,
+      "word": "王鹤棣硬刚代拍",
+      "onboard_time": 1696674579,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 223721,
       "num": 223721,
       "word": "姚明谈乔帅是否需要为输球负责",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1696664318,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 218914,
+      "num": 1460318,
+      "word": "杭州亚运会明天闭幕",
+      "onboard_time": 1696671217,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217823,
@@ -1601,6 +1641,14 @@
       "onboard_time": 1696668938,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208329,
+      "num": 208329,
+      "word": "张彬彬预告新剧开机",
+      "onboard_time": 1696674278,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 205818,
@@ -1747,6 +1795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191406,
+      "num": 191406,
+      "word": "李诗沣空翻庆祝",
+      "onboard_time": 1696673980,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190941,
       "num": 190941,
       "word": "听障夫妻带4岁耳蜗宝宝摆摊卖鸡蛋仔",
@@ -1825,14 +1881,6 @@
       "onboard_time": 1696670197,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184510,
-      "num": 1460318,
-      "word": "杭州亚运会明天闭幕",
-      "onboard_time": 1696671217,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183797,
@@ -2017,6 +2065,14 @@
       "onboard_time": 1696660775,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 166759,
+      "num": 166759,
+      "word": "羽毛球女双决赛",
+      "onboard_time": 1696674821,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 166376,
@@ -2337,6 +2393,14 @@
       "onboard_time": 1696611804,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 86409,
+      "num": 1226329,
+      "word": "丘妈致谢亚运会志愿者",
+      "onboard_time": 1696674037,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 74851,
