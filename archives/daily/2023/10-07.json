@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696642270219,
+  "endTime": 1696644279467,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -8,6 +8,14 @@
       "word": "调休",
       "onboard_time": 1696637317,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2539593,
+      "num": 901900,
+      "word": "海滩走失女童父亲深夜发布多张照片",
+      "onboard_time": 1696642473,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -25,6 +33,14 @@
       "onboard_time": 1696621933,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1384932,
+      "num": 1384932,
+      "word": "亚运村的床垫都被带走了",
+      "onboard_time": 1696641095,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1307877,
@@ -51,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1032700,
+      "num": 1032700,
+      "word": "专家建议增加假期不要调休",
+      "onboard_time": 1696641514,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1000842,
       "num": 1000842,
       "word": "上海失踪4岁女童母亲发声",
@@ -67,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 872868,
+      "num": 872868,
+      "word": "沈梦辰拍了周杰伦专辑封面同款照",
+      "onboard_time": 1696642713,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 838379,
       "num": 838379,
       "word": "定闹钟",
@@ -81,14 +113,6 @@
       "onboard_time": 1696599463,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 804249,
-      "num": 481684,
-      "word": "亚运村的床垫都被带走了",
-      "onboard_time": 1696641095,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 803749,
@@ -132,11 +156,19 @@
     },
     {
       "raw_hot": 739898,
-      "num": 478552,
+      "num": 637742,
       "word": "亚运会闭幕式只用一块草坪",
       "onboard_time": 1696640376,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 707644,
+      "num": 707644,
+      "word": "杨幂这套图用在今天太合适了",
+      "onboard_time": 1696641695,
+      "rank": 16,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 704232,
@@ -195,6 +227,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 579887,
+      "num": 263422,
+      "word": "休8上7是什么体验",
+      "onboard_time": 1696642713,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556101,
       "num": 556101,
       "word": "奔跑中的刘浩存",
@@ -235,14 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 453593,
-      "num": 453593,
-      "word": "杨幂这套图用在今天太合适了",
-      "onboard_time": 1696641695,
-      "rank": 16,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 401015,
       "num": 401015,
       "word": "日本海鲜滞销堆积成山",
@@ -265,6 +297,14 @@
       "onboard_time": 1696637501,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380446,
+      "num": 380446,
+      "word": "张嘉益王晓晨二搭",
+      "onboard_time": 1696643193,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 379255,
@@ -297,6 +337,14 @@
       "onboard_time": 1696635630,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 364416,
+      "num": 364416,
+      "word": "谁来管管五线县城的店名",
+      "onboard_time": 1696642535,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 363273,
@@ -355,14 +403,6 @@
       "category": "情感,美食"
     },
     {
-      "raw_hot": 272675,
-      "num": 272675,
-      "word": "专家建议增加假期不要调休",
-      "onboard_time": 1696641514,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 266711,
       "num": 266711,
       "word": "我要是娜然真的会爱上那茜",
@@ -419,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237533,
+      "num": 237533,
+      "word": "专家称调休初衷是好的",
+      "onboard_time": 1696643554,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235743,
       "num": 235743,
       "word": "iOS17安装率低迷",
@@ -433,6 +481,22 @@
       "onboard_time": 1696637559,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235119,
+      "num": 235119,
+      "word": "陈好都开始演妈了",
+      "onboard_time": 1696644034,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230947,
+      "num": 230947,
+      "word": "妻子陪无臂丈夫努力20年买下大房子",
+      "onboard_time": 1696641876,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229027,
@@ -483,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212565,
+      "num": 380562,
+      "word": "中国冲击首个霹雳舞亚运冠军",
+      "onboard_time": 1696641695,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201146,
       "num": 201146,
       "word": "蓝天救援队公布疑似女童走失前视频",
@@ -499,20 +571,20 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 196638,
-      "num": 196638,
-      "word": "妻子陪无臂丈夫努力20年买下大房子",
-      "onboard_time": 1696641876,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 195421,
       "num": 170981,
       "word": "一句话证明国庆你去了哪里",
       "onboard_time": 1696634788,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 194132,
+      "num": 194132,
+      "word": "无论休假或调休听到警铃他立刻飞奔",
+      "onboard_time": 1696643255,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193312,
@@ -547,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187564,
+      "num": 187564,
+      "word": "中国队冲击200金",
+      "onboard_time": 1696643732,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186257,
       "num": 186257,
       "word": "男子中秋夜闯入邻居家枪击行凶",
@@ -555,12 +635,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 185994,
-      "num": 307892,
-      "word": "中国冲击首个霹雳舞亚运冠军",
-      "onboard_time": 1696641695,
-      "rank": 19,
-      "category": "体育"
+      "raw_hot": 184477,
+      "num": 184477,
+      "word": "男子假期最后半天返程畅通无阻",
+      "onboard_time": 1696643615,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183797,
@@ -569,6 +649,14 @@
       "onboard_time": 1696601385,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183163,
+      "num": 183163,
+      "word": "家乡人给切阳什姐献上一条又一条哈达",
+      "onboard_time": 1696643732,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182565,
@@ -624,6 +712,14 @@
       "word": "消防员半夜出警在归途车上睡着",
       "onboard_time": 1696639116,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166376,
+      "num": 166376,
+      "word": "老年人钟爱女主播一年打赏超6万元",
+      "onboard_time": 1696641573,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -699,12 +795,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 149792,
-      "num": 149792,
-      "word": "老年人钟爱女主播一年打赏超6万元",
-      "onboard_time": 1696641573,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 147272,
+      "num": 147272,
+      "word": "丁丁幼崽好壮实",
+      "onboard_time": 1696644215,
+      "rank": 46,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 144810,
@@ -713,6 +809,14 @@
       "onboard_time": 1696582356,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144195,
+      "num": 144195,
+      "word": "张嘉益陈好新剧演夫妻",
+      "onboard_time": 1696644153,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 143791,

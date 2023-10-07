@@ -1,0 +1,410 @@
+{
+  "runTime": 1696644279467,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384932,
+        "num": 1384932,
+        "word": "亚运村的床垫都被带走了",
+        "onboard_time": 1696641095,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1032700,
+        "num": 1032700,
+        "word": "专家建议增加假期不要调休",
+        "onboard_time": 1696641514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119349,
+        "num": 930008,
+        "word": "9招找回节后好状态",
+        "onboard_time": 1696598565,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2539593,
+        "num": 901900,
+        "word": "海滩走失女童父亲深夜发布多张照片",
+        "onboard_time": 1696642473,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3924837,
+        "num": 898305,
+        "word": "调休",
+        "onboard_time": 1696637317,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 872868,
+        "num": 872868,
+        "word": "沈梦辰拍了周杰伦专辑封面同款照",
+        "onboard_time": 1696642713,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 707644,
+        "num": 707644,
+        "word": "杨幂这套图用在今天太合适了",
+        "onboard_time": 1696641695,
+        "rank": 6,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 1515345,
+        "num": 698499,
+        "word": "学生打数十个电话举报学校假期补课",
+        "onboard_time": 1696638216,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 637742,
+        "num": 637742,
+        "word": "亚运会闭幕式只用一块草坪",
+        "onboard_time": 1696640376,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479349,
+        "num": 479349,
+        "word": "在火车上睡觉只需要一件衬衣",
+        "onboard_time": 1696635508,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 399643,
+        "num": 399643,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384922,
+        "num": 384922,
+        "word": "陈飞宇说魏大勋第一场戏紧张到疯狂喝水",
+        "onboard_time": 1696637140,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 382667,
+        "num": 382667,
+        "word": "他从火光中走来 男主死了",
+        "onboard_time": 1696594058,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238786,
+        "num": 380727,
+        "word": "花儿与少年极光直播",
+        "onboard_time": 1696640076,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212565,
+        "num": 380562,
+        "word": "中国冲击首个霹雳舞亚运冠军",
+        "onboard_time": 1696641695,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 380446,
+        "num": 380446,
+        "word": "张嘉益王晓晨二搭",
+        "onboard_time": 1696643193,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376374,
+        "num": 376374,
+        "word": "迪丽热巴 万渣朝凰",
+        "onboard_time": 1696599106,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 364416,
+        "num": 364416,
+        "word": "谁来管管五线县城的店名",
+        "onboard_time": 1696642535,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 343820,
+        "num": 343820,
+        "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+        "onboard_time": 1696600182,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271168,
+        "num": 271168,
+        "word": "曼谷枪击事件未成年嫌疑人父母致歉",
+        "onboard_time": 1696639236,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884669,
+        "num": 268282,
+        "word": "浦东海滩走失女孩疑似最后影像曝光",
+        "onboard_time": 1696621933,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 579887,
+        "num": 263422,
+        "word": "休8上7是什么体验",
+        "onboard_time": 1696642713,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480381,
+        "num": 258226,
+        "word": "情侣同名同姓相恋7年后恩爱订婚",
+        "onboard_time": 1696633586,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 422423,
+        "num": 249271,
+        "word": "爸爸养的猫25岁了",
+        "onboard_time": 1696640856,
+        "rank": 23,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 306064,
+        "num": 243418,
+        "word": "看到公司墙上的口号想离职了",
+        "onboard_time": 1696637857,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242328,
+        "num": 242328,
+        "word": "半夜醒来时不要看时间",
+        "onboard_time": 1696598380,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237533,
+        "num": 237533,
+        "word": "专家称调休初衷是好的",
+        "onboard_time": 1696643554,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235119,
+        "num": 235119,
+        "word": "陈好都开始演妈了",
+        "onboard_time": 1696644034,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232328,
+        "num": 232328,
+        "word": "南阳给了我体面",
+        "onboard_time": 1696636113,
+        "rank": 28,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 230947,
+        "num": 230947,
+        "word": "妻子陪无臂丈夫努力20年买下大房子",
+        "onboard_time": 1696641876,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227783,
+        "num": 227783,
+        "word": "林陆骁 只是伤心不是死了",
+        "onboard_time": 1696636473,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223656,
+        "num": 223656,
+        "word": "iOS17安装率低迷",
+        "onboard_time": 1696640376,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209824,
+        "num": 209824,
+        "word": "不想上班",
+        "onboard_time": 1696636714,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 194132,
+        "num": 194132,
+        "word": "无论休假或调休听到警铃他立刻飞奔",
+        "onboard_time": 1696643255,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187564,
+        "num": 187564,
+        "word": "中国队冲击200金",
+        "onboard_time": 1696643732,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185126,
+        "num": 185126,
+        "word": "被广东的婚宴震惊到了",
+        "onboard_time": 1696637857,
+        "rank": 35,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 184477,
+        "num": 184477,
+        "word": "男子假期最后半天返程畅通无阻",
+        "onboard_time": 1696643615,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183427,
+        "num": 183427,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1696599463,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183163,
+        "num": 183163,
+        "word": "家乡人给切阳什姐献上一条又一条哈达",
+        "onboard_time": 1696643732,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173729,
+        "num": 173729,
+        "word": "奔跑中的刘浩存",
+        "onboard_time": 1696606178,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173344,
+        "num": 173344,
+        "word": "周杰伦给张艺兴送了花篮",
+        "onboard_time": 1696606719,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166376,
+        "num": 166376,
+        "word": "老年人钟爱女主播一年打赏超6万元",
+        "onboard_time": 1696641573,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158440,
+        "num": 158440,
+        "word": "民警给走失小女孩上了堂甜甜的安全课",
+        "onboard_time": 1696635630,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158370,
+        "num": 158370,
+        "word": "喝咖啡上瘾对身体有害吗",
+        "onboard_time": 1696605580,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 152820,
+        "num": 152820,
+        "word": "中国女排决赛对阵日本队",
+        "onboard_time": 1696640076,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148944,
+        "num": 148944,
+        "word": "和男朋友在一个村是种什么体验",
+        "onboard_time": 1696635450,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147272,
+        "num": 147272,
+        "word": "丁丁幼崽好壮实",
+        "onboard_time": 1696644215,
+        "rank": 46,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 144195,
+        "num": 144195,
+        "word": "张嘉益陈好新剧演夫妻",
+        "onboard_time": 1696644153,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143781,
+        "num": 143781,
+        "word": "Taylor Swift The Eras Tour有望引进",
+        "onboard_time": 1696603424,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140994,
+        "num": 140994,
+        "word": "我要是娜然真的会爱上那茜",
+        "onboard_time": 1696606656,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}
