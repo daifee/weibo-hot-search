@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696674846095,
+  "endTime": 1696677197434,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -465,6 +465,14 @@
       "onboard_time": 1696518824,
       "rank": 46,
       "category": "情感,教育"
+    },
+    {
+      "raw_hot": 2340387,
+      "num": 864905,
+      "word": "贝嫂谈贝克汉姆出轨",
+      "onboard_time": 1696673799,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 2324815,
@@ -1265,14 +1273,6 @@
       "onboard_time": 1696392456,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1526772,
-      "num": 746656,
-      "word": "贝嫂谈贝克汉姆出轨",
-      "onboard_time": 1696673799,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 1525476,
@@ -2124,7 +2124,7 @@
     },
     {
       "raw_hot": 1049817,
-      "num": 424333,
+      "num": 474905,
       "word": "10月不要请假",
       "onboard_time": 1696668159,
       "rank": 20,
@@ -2595,6 +2595,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 899633,
+      "num": 848814,
+      "word": "张子墨 时代峰峻",
+      "onboard_time": 1696675475,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 898831,
       "num": 898831,
       "word": "半夜醒来时不要看时间",
@@ -2699,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 882978,
+      "num": 476876,
+      "word": "24岁被妈妈发消息说注意避孕",
+      "onboard_time": 1696673919,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 881302,
       "num": 881302,
       "word": "女子泥鞋放酒店走廊一夜变干净",
@@ -2761,6 +2777,14 @@
       "onboard_time": 1696520133,
       "rank": 3,
       "category": "情感"
+    },
+    {
+      "raw_hot": 874661,
+      "num": 874661,
+      "word": "周启豪vs王楚钦",
+      "onboard_time": 1696673378,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 872868,
@@ -3305,6 +3329,14 @@
       "onboard_time": 1696555171,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 777628,
+      "num": 777628,
+      "word": "亚运史上第1块霹雳舞金牌",
+      "onboard_time": 1696676017,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 776450,
@@ -4227,6 +4259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 635662,
+      "num": 635662,
+      "word": "长相思与狐妖小红娘将同期播出",
+      "onboard_time": 1696672475,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 635617,
       "num": 1084245,
       "word": "孙颖莎赛后称早田希娜很出色",
@@ -4313,14 +4353,6 @@
       "onboard_time": 1696553672,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 627591,
-      "num": 627591,
-      "word": "周启豪vs王楚钦",
-      "onboard_time": 1696673378,
-      "rank": 27,
-      "category": "体育"
     },
     {
       "raw_hot": 626857,
@@ -4643,14 +4675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 596259,
-      "num": 410135,
-      "word": "24岁被妈妈发消息说注意避孕",
-      "onboard_time": 1696673919,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 595711,
       "num": 485032,
       "word": "杨紫造型师说你们的福气还在后头",
@@ -4697,14 +4721,6 @@
       "onboard_time": 1696129412,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 592555,
-      "num": 592555,
-      "word": "长相思与狐妖小红娘将同期播出",
-      "onboard_time": 1696672475,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 591922,
@@ -5355,6 +5371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 524784,
+      "num": 393933,
+      "word": "司机听说我去清华把车费抹了零",
+      "onboard_time": 1696673980,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 524506,
       "num": 524506,
       "word": "中国女排3比0朝鲜女排",
@@ -5385,6 +5409,14 @@
       "onboard_time": 1696360156,
       "rank": 23,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 521577,
+      "num": 521577,
+      "word": "李飞都瘦了",
+      "onboard_time": 1696675119,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 521240,
@@ -5667,6 +5699,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 496197,
+      "num": 496197,
+      "word": "羽毛球女双决赛",
+      "onboard_time": 1696674821,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 495888,
       "num": 495888,
       "word": "李治廷感谢张艺兴还que了贝壳",
@@ -5889,6 +5929,14 @@
       "onboard_time": 1696115423,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 477605,
+      "num": 477605,
+      "word": "周启豪",
+      "onboard_time": 1696675779,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 477242,
@@ -6377,6 +6425,14 @@
       "onboard_time": 1696312112,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443771,
+      "num": 443771,
+      "word": "王鹤棣硬刚代拍",
+      "onboard_time": 1696674579,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 443662,
@@ -7241,6 +7297,14 @@
       "onboard_time": 1696473932,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389116,
+      "num": 1369266,
+      "word": "做过外卖员的他30岁破格进入国家队",
+      "onboard_time": 1696667318,
+      "rank": 35,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 387951,
@@ -8371,6 +8435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337239,
+      "num": 337239,
+      "word": "田嘉瑞同意自己和林子烨坐一桌",
+      "onboard_time": 1696675895,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336715,
       "num": 336715,
       "word": "孙颖莎是眼神莎吧",
@@ -8529,14 +8601,6 @@
       "onboard_time": 1696576894,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 330776,
-      "num": 1369266,
-      "word": "做过外卖员的他30岁破格进入国家队",
-      "onboard_time": 1696667318,
-      "rank": 35,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 330685,
@@ -9057,14 +9121,6 @@
       "onboard_time": 1696492832,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 308050,
-      "num": 257711,
-      "word": "司机听说我去清华把车费抹了零",
-      "onboard_time": 1696673980,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 308048,
@@ -9648,6 +9704,14 @@
       "word": "孕妇早产交警紧急开道提前送达",
       "onboard_time": 1696665878,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290401,
+      "num": 290401,
+      "word": "女子路边逗狗突遭撕咬满脸是血",
+      "onboard_time": 1696675475,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -12467,14 +12531,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 224108,
-      "num": 224108,
-      "word": "王鹤棣硬刚代拍",
-      "onboard_time": 1696674579,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 223927,
       "num": 186480,
       "word": "以为全红婵刷手机放松其实是看比赛视频",
@@ -13203,6 +13259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209806,
+      "num": 209806,
+      "word": "花西子回应审美争议",
+      "onboard_time": 1696675539,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 209633,
       "num": 209633,
       "word": "给小狗拍照不要打开自动消除痘痘模式",
@@ -13481,6 +13545,14 @@
       "onboard_time": 1696658199,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204999,
+      "num": 204999,
+      "word": "王楚钦决胜局11比0",
+      "onboard_time": 1696676920,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 204940,
@@ -14377,6 +14449,14 @@
       "onboard_time": 1696669360,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193316,
+      "num": 193316,
+      "word": "哈马斯",
+      "onboard_time": 1696676500,
+      "rank": 38,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 193271,
@@ -15867,6 +15947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168281,
+      "num": 168281,
+      "word": "中国女排vs日本女排",
+      "onboard_time": 1696677159,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168276,
       "num": 168276,
       "word": "陈幸同3比2木原美悠",
@@ -15929,14 +16017,6 @@
       "onboard_time": 1696660775,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 166759,
-      "num": 166759,
-      "word": "羽毛球女双决赛",
-      "onboard_time": 1696674821,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 166724,
@@ -16203,6 +16283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 162377,
+      "num": 162377,
+      "word": "张小斐 脆弱的坚定感",
+      "onboard_time": 1696676200,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 162272,
       "num": 162272,
       "word": "Ame和Maybe一起夺冠",
@@ -16305,6 +16393,14 @@
       "onboard_time": 1696581574,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160701,
+      "num": 160701,
+      "word": "问心",
+      "onboard_time": 1696675119,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 160547,
@@ -18163,6 +18259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112154,
+      "num": 1226329,
+      "word": "丘妈致谢亚运会志愿者",
+      "onboard_time": 1696674037,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112127,
       "num": 130219,
       "word": "假期还有最后2天",
@@ -18449,14 +18553,6 @@
       "onboard_time": 1696251701,
       "rank": 2,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 86409,
-      "num": 1226329,
-      "word": "丘妈致谢亚运会志愿者",
-      "onboard_time": 1696674037,
-      "rank": 6,
-      "category": "体育"
     },
     {
       "raw_hot": 85363,
