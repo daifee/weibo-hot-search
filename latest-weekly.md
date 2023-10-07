@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/08 03:12:37
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/08 03:33:44
 </p>
 </blockquote>
 <p>
@@ -353,6 +353,12 @@ enhypen饭撒（热度：103559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%A8%E8%BF%9B%E5%85%B1%E5%BB%BA%E7%BB%BF%E8%89%B2%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%23" target="weibo">
 推进共建绿色一带一路（热度：22255）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23kpop%E7%BB%84%E5%90%88%E4%B8%93%E8%BE%91%E6%80%BB%E9%94%80%E9%87%8FTOP9%23" target="weibo">
+kpop组合专辑总销量TOP9（热度：15986）
 </a>
 </li>
 

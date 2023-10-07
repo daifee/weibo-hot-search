@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696705957037,
+  "endTime": 1696707224159,
   "band_list": [
     {
       "raw_hot": 1850480,
@@ -457,6 +457,14 @@
       "onboard_time": 1696683578,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15986,
+      "num": 19388,
+      "word": "kpop组合专辑总销量TOP9",
+      "onboard_time": 1696707133,
+      "rank": 48,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
