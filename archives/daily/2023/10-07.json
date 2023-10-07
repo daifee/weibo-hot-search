@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696662866703,
+  "endTime": 1696664040067,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -19,8 +19,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 2688945,
-      "num": 2688945,
+      "raw_hot": 2921192,
+      "num": 2921192,
       "word": "孙艺洲称疑遭新型蟹卡诈骗",
       "onboard_time": 1696660357,
       "rank": 38,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1299506,
+      "num": 1299506,
+      "word": "雅思组合卫冕冠军",
+      "onboard_time": 1696662034,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1254068,
       "num": 559565,
       "word": "原来控糖不能吃这些",
@@ -161,14 +169,6 @@
       "onboard_time": 1696651302,
       "rank": 5,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 1112265,
-      "num": 1112265,
-      "word": "雅思组合卫冕冠军",
-      "onboard_time": 1696662034,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1099898,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919625,
+      "num": 234675,
+      "word": "好想董卿",
+      "onboard_time": 1696662576,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 910387,
       "num": 910387,
       "word": "狗子误食月饼集体打吊针",
@@ -233,6 +241,14 @@
       "onboard_time": 1696642713,
       "rank": 5,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 844409,
+      "num": 478476,
+      "word": "以色列",
+      "onboard_time": 1696661376,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 843570,
@@ -281,14 +297,6 @@
       "onboard_time": 1696640316,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 778713,
-      "num": 419483,
-      "word": "以色列",
-      "onboard_time": 1696661376,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 769543,
@@ -353,6 +361,14 @@
       "onboard_time": 1696641695,
       "rank": 16,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 715258,
+      "num": 471662,
+      "word": "郑思维脱衣庆祝",
+      "onboard_time": 1696663175,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 713816,
@@ -483,6 +499,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 579764,
+      "num": 579764,
+      "word": "孙红雷小三十岁能参加亚运了",
+      "onboard_time": 1696661557,
+      "rank": 8,
+      "category": "幽默,艺人"
+    },
+    {
       "raw_hot": 575238,
       "num": 444561,
       "word": "姚明回应为何换掉杜锋",
@@ -515,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 539041,
-      "num": 539041,
-      "word": "孙红雷小三十岁能参加亚运了",
-      "onboard_time": 1696661557,
-      "rank": 8,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 521240,
       "num": 336593,
       "word": "看到公司墙上的口号想离职了",
@@ -545,6 +561,14 @@
       "onboard_time": 1696644513,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492743,
+      "num": 492743,
+      "word": "父母准备200斤土特产塞满后备箱",
+      "onboard_time": 1696662158,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 490172,
@@ -579,6 +603,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463072,
+      "num": 463072,
+      "word": "樊振东原来是兵哥哥",
+      "onboard_time": 1696661617,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 459181,
+      "num": 459181,
+      "word": "迪丽热巴创时装周最高媒体价值",
+      "onboard_time": 1696663116,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 453708,
       "num": 453708,
       "word": "B太云南发现的坑处理结果",
@@ -593,6 +633,14 @@
       "onboard_time": 1696652443,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 446001,
+      "num": 446001,
+      "word": "肖战新剧或将11月开机",
+      "onboard_time": 1696663237,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 443235,
@@ -635,20 +683,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 427402,
-      "num": 427402,
-      "word": "樊振东原来是兵哥哥",
-      "onboard_time": 1696661617,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 426378,
       "num": 406955,
       "word": "女子称因学信网显示结业错失月薪4万工作",
       "onboard_time": 1696647574,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 409768,
+      "num": 409768,
+      "word": "演了卫明后李泽锋想通了",
+      "onboard_time": 1696663116,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 408958,
@@ -755,12 +803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 345979,
+      "num": 345979,
+      "word": "网传金鸡奖开幕式出席嘉宾名单",
+      "onboard_time": 1696663298,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343344,
       "num": 343344,
       "word": "傲寒",
       "onboard_time": 1696608333,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 330678,
+      "num": 330678,
+      "word": "杜兆才被双开",
+      "onboard_time": 1696663298,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321498,
@@ -995,6 +1059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 239059,
+      "num": 239059,
+      "word": "第一次见肌肉含量这么高的综艺",
+      "onboard_time": 1696660896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238722,
       "num": 238722,
       "word": "高速恢复通行司机半夜被无人机唤醒",
@@ -1075,20 +1147,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227415,
-      "num": 227415,
-      "word": "好想董卿",
-      "onboard_time": 1696662576,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 226104,
-      "num": 415986,
-      "word": "父母准备200斤土特产塞满后备箱",
-      "onboard_time": 1696662158,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 225531,
+      "num": 225531,
+      "word": "你遇到过演唱会取消吗",
+      "onboard_time": 1696663657,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 225341,
@@ -1433,14 +1497,6 @@
       "onboard_time": 1696598565,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170566,
-      "num": 170566,
-      "word": "第一次见肌肉含量这么高的综艺",
-      "onboard_time": 1696660896,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 168631,
