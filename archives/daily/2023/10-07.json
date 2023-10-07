@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696648620261,
+  "endTime": 1696649655631,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -19,7 +19,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2430897,
+      "raw_hot": 2475917,
       "num": 595108,
       "word": "上海海滩走失女童父亲非继父",
       "onboard_time": 1696647095,
@@ -35,6 +35,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1937005,
+      "num": 1937005,
+      "word": "美国或在2024年出现大萧条以来最严重崩盘",
+      "onboard_time": 1696644337,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1868410,
       "num": 1868410,
       "word": "亚运村的床垫都被带走了",
@@ -43,26 +51,18 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1770236,
-      "num": 1770236,
-      "word": "美国或在2024年出现大萧条以来最严重崩盘",
-      "onboard_time": 1696644337,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 1797203,
+      "num": 795349,
+      "word": "黄元芯的爸爸",
+      "onboard_time": 1696646614,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1754670,
       "num": 724123,
       "word": "浦东海滩走失女孩疑似最后影像曝光",
       "onboard_time": 1696621933,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1658640,
-      "num": 417130,
-      "word": "黄元芯的爸爸",
-      "onboard_time": 1696646614,
       "rank": 10,
       "category": "社会新闻"
     },
@@ -88,6 +88,14 @@
       "word": "女孩买胸贴女店员叠小票保护隐私",
       "onboard_time": 1696601024,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242184,
+      "num": 398263,
+      "word": "海滩走失女童",
+      "onboard_time": 1696647276,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -129,14 +137,6 @@
       "onboard_time": 1696642713,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 871329,
-      "num": 398263,
-      "word": "海滩走失女童",
-      "onboard_time": 1696647276,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 838379,
@@ -235,6 +235,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 614332,
+      "num": 614332,
+      "word": "专家称调休初衷是好的",
+      "onboard_time": 1696643554,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 611787,
       "num": 611787,
       "word": "内马尔女儿出生",
@@ -283,14 +291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 581228,
-      "num": 581228,
-      "word": "专家称调休初衷是好的",
-      "onboard_time": 1696643554,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 580683,
       "num": 580683,
       "word": "金价连续下跌",
@@ -321,6 +321,14 @@
       "onboard_time": 1696637857,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 508712,
+      "num": 306973,
+      "word": "节后第一天下了班干什么",
+      "onboard_time": 1696645894,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 508252,
@@ -355,20 +363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 484757,
-      "num": 306973,
-      "word": "节后第一天下了班干什么",
-      "onboard_time": 1696645894,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 481268,
       "num": 481268,
       "word": "花儿与少年极光直播",
       "onboard_time": 1696640076,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 443235,
+      "num": 443235,
+      "word": "姚明说中国篮球与世界脱轨",
+      "onboard_time": 1696644814,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 436602,
@@ -387,12 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 420174,
-      "num": 420174,
-      "word": "姚明说中国篮球与世界脱轨",
-      "onboard_time": 1696644814,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 426378,
+      "num": 268714,
+      "word": "女子称因学信网显示结业错失月薪4万工作",
+      "onboard_time": 1696647574,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408958,
+      "num": 408958,
+      "word": "酒店房间发现摄像头事件嫌犯被刑拘",
+      "onboard_time": 1696645955,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 401015,
@@ -443,14 +459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 370741,
-      "num": 407167,
-      "word": "酒店房间发现摄像头事件嫌犯被刑拘",
-      "onboard_time": 1696645955,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366966,
       "num": 366966,
       "word": "民警给走失小女孩上了堂甜甜的安全课",
@@ -467,20 +475,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 346641,
-      "num": 239985,
-      "word": "女子称因学信网显示结业错失月薪4万工作",
-      "onboard_time": 1696647574,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343344,
       "num": 343344,
       "word": "傲寒",
       "onboard_time": 1696608333,
       "rank": 22,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 327529,
+      "num": 327529,
+      "word": "海滩走失女童在水边摔倒后消失在海浪中",
+      "onboard_time": 1696647696,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 321498,
@@ -547,6 +555,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 282777,
+      "num": 262451,
+      "word": "iOS17被曝WiFi连接问题",
+      "onboard_time": 1696647995,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 266994,
       "num": 266994,
       "word": "前任4后劲",
@@ -561,6 +577,14 @@
       "onboard_time": 1696606656,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 265949,
+      "num": 265949,
+      "word": "80岁太姥姥和10个月宝宝玩斗斗飞",
+      "onboard_time": 1696649255,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265086,
@@ -619,14 +643,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 241095,
-      "num": 241095,
-      "word": "iOS17被曝WiFi连接问题",
-      "onboard_time": 1696647995,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 237047,
       "num": 380562,
       "word": "中国冲击首个霹雳舞亚运冠军",
@@ -667,20 +683,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228284,
-      "num": 228284,
-      "word": "海滩走失女童在水边摔倒后消失在海浪中",
-      "onboard_time": 1696647696,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 225341,
       "num": 404867,
       "word": "兵哥哥们接亲的压迫感扑面而来",
       "onboard_time": 1696645055,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223721,
+      "num": 223721,
+      "word": "姚明谈乔帅是否需要为输球负责",
+      "onboard_time": 1696648656,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 221674,
@@ -723,11 +739,35 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 215561,
+      "num": 215561,
+      "word": "杨鸣输球后的反应",
+      "onboard_time": 1696648594,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205468,
+      "num": 205468,
+      "word": "韩国人最喜欢的乒乓球运动员",
+      "onboard_time": 1696649255,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201146,
       "num": 201146,
       "word": "蓝天救援队公布疑似女童走失前视频",
       "onboard_time": 1696589080,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197776,
+      "num": 197776,
+      "word": "成都的太阳和雪山也按点上班了",
+      "onboard_time": 1696649375,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -769,6 +809,14 @@
       "onboard_time": 1696601205,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192697,
+      "num": 192697,
+      "word": "造价1亿安居房未完工已提取10亿资金",
+      "onboard_time": 1696649196,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 192675,
@@ -817,6 +865,22 @@
       "onboard_time": 1696611385,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184246,
+      "num": 184246,
+      "word": "犬夜叉 薇桔",
+      "onboard_time": 1696649499,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 184162,
+      "num": 184162,
+      "word": "姚明说有两种承担责任的办法我都接受",
+      "onboard_time": 1696649559,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 183797,
@@ -937,14 +1001,6 @@
       "onboard_time": 1696638875,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 159144,
-      "num": 159144,
-      "word": "杨鸣输球后的反应",
-      "onboard_time": 1696648594,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 157336,
@@ -1265,6 +1321,14 @@
       "onboard_time": 1696614679,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9769,
+      "num": 858779,
+      "word": "亚运数字火炬人定名弄潮儿",
+      "onboard_time": 1696649559,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
