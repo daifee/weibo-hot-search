@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696649655631,
+  "endTime": 1696652397112,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -9,6 +9,14 @@
       "onboard_time": 1696637317,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4026980,
+      "num": 4026980,
+      "word": "鹿哈自曝带货7个月挣3500万",
+      "onboard_time": 1696650639,
+      "rank": 0,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 2559364,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1797203,
-      "num": 795349,
+      "num": 974672,
       "word": "黄元芯的爸爸",
       "onboard_time": 1696646614,
       "rank": 10,
@@ -171,6 +179,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 785172,
+      "num": 785172,
+      "word": "为什么睡觉用zzz表示",
+      "onboard_time": 1696651302,
+      "rank": 5,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 784565,
       "num": 477842,
       "word": "上海走失女童父亲被骂心大",
@@ -203,6 +219,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 736637,
+      "num": 736637,
+      "word": "节后第一天下了班干什么",
+      "onboard_time": 1696645894,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 735318,
+      "num": 466111,
+      "word": "海滩走失女童在水边摔倒后消失在海浪中",
+      "onboard_time": 1696647696,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 722671,
       "num": 722671,
       "word": "杨幂这套图用在今天太合适了",
@@ -220,11 +252,19 @@
     },
     {
       "raw_hot": 697992,
-      "num": 304947,
+      "num": 409041,
       "word": "休8上7是什么体验",
       "onboard_time": 1696642713,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662039,
+      "num": 503290,
+      "word": "原来控糖不能吃这些",
+      "onboard_time": 1696651966,
+      "rank": 11,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 653048,
@@ -259,12 +299,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 608491,
+      "num": 608491,
+      "word": "犬夜叉 薇桔",
+      "onboard_time": 1696649499,
+      "rank": 39,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 607806,
       "num": 315393,
       "word": "爸爸养的猫25岁了",
       "onboard_time": 1696640856,
       "rank": 23,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 604584,
+      "num": 604584,
+      "word": "陈飞宇问东北麻辣烫怎么都是素的",
+      "onboard_time": 1696649677,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 603957,
@@ -307,6 +363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 562759,
+      "num": 485032,
+      "word": "杨紫造型师说你们的福气还在后头",
+      "onboard_time": 1696650038,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556101,
       "num": 556101,
       "word": "奔跑中的刘浩存",
@@ -321,14 +385,6 @@
       "onboard_time": 1696637857,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 508712,
-      "num": 306973,
-      "word": "节后第一天下了班干什么",
-      "onboard_time": 1696645894,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 508252,
@@ -396,15 +452,31 @@
     },
     {
       "raw_hot": 426378,
-      "num": 268714,
+      "num": 406955,
       "word": "女子称因学信网显示结业错失月薪4万工作",
       "onboard_time": 1696647574,
       "rank": 30,
       "category": "社会新闻"
     },
     {
+      "raw_hot": 419718,
+      "num": 419718,
+      "word": "虞书欣卢昱晓无锋姐妹局",
+      "onboard_time": 1696650941,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 409787,
+      "num": 409787,
+      "word": "姚明回应为何换掉杜锋",
+      "onboard_time": 1696651602,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 408958,
-      "num": 408958,
+      "num": 410285,
       "word": "酒店房间发现摄像头事件嫌犯被刑拘",
       "onboard_time": 1696645955,
       "rank": 47,
@@ -475,20 +547,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 354616,
+      "num": 354616,
+      "word": "李汶翰中耳炎",
+      "onboard_time": 1696650518,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343344,
       "num": 343344,
       "word": "傲寒",
       "onboard_time": 1696608333,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 327529,
-      "num": 327529,
-      "word": "海滩走失女童在水边摔倒后消失在海浪中",
-      "onboard_time": 1696647696,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321498,
@@ -547,6 +619,22 @@
       "category": "情感,美食"
     },
     {
+      "raw_hot": 285064,
+      "num": 285064,
+      "word": "马丽新片水饺皇后开机",
+      "onboard_time": 1696650760,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 284741,
+      "num": 284741,
+      "word": "iPhone15和Plus电池或老化更快",
+      "onboard_time": 1696649917,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 284356,
       "num": 284356,
       "word": "Jennie新歌榜单成绩",
@@ -556,11 +644,27 @@
     },
     {
       "raw_hot": 282777,
-      "num": 262451,
+      "num": 274550,
       "word": "iOS17被曝WiFi连接问题",
       "onboard_time": 1696647995,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 282278,
+      "num": 276176,
+      "word": "女子花3.5扫共享单车从上海骑到苏州",
+      "onboard_time": 1696652024,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 274880,
+      "num": 274880,
+      "word": "曾舜晞圈内人缘",
+      "onboard_time": 1696650217,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 266994,
@@ -635,12 +739,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 248953,
+      "num": 248953,
+      "word": "韩国人最喜欢的乒乓球运动员",
+      "onboard_time": 1696649255,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246257,
       "num": 246257,
       "word": "男子假期最后半天返程畅通无阻",
       "onboard_time": 1696643615,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239061,
+      "num": 239061,
+      "word": "造价1亿安居房未完工已提取10亿资金",
+      "onboard_time": 1696649196,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 237047,
@@ -681,6 +801,14 @@
       "onboard_time": 1696599946,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225860,
+      "num": 225860,
+      "word": "没啥了不起只是更较真",
+      "onboard_time": 1696650639,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225341,
@@ -747,11 +875,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205468,
-      "num": 205468,
-      "word": "韩国人最喜欢的乒乓球运动员",
-      "onboard_time": 1696649255,
-      "rank": 35,
+      "raw_hot": 211124,
+      "num": 253726,
+      "word": "姚明说有两种承担责任的办法我都接受",
+      "onboard_time": 1696649559,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201878,
+      "num": 201878,
+      "word": "王楚钦孙颖莎领衔出战单打",
+      "onboard_time": 1696650338,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -811,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 192697,
-      "num": 192697,
-      "word": "造价1亿安居房未完工已提取10亿资金",
-      "onboard_time": 1696649196,
-      "rank": 37,
-      "category": "财经"
-    },
-    {
       "raw_hot": 192675,
       "num": 192675,
       "word": "覃海洋 柏林",
@@ -865,22 +993,6 @@
       "onboard_time": 1696611385,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184246,
-      "num": 184246,
-      "word": "犬夜叉 薇桔",
-      "onboard_time": 1696649499,
-      "rank": 39,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 184162,
-      "num": 184162,
-      "word": "姚明说有两种承担责任的办法我都接受",
-      "onboard_time": 1696649559,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 183797,
@@ -931,6 +1043,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 178362,
+      "num": 178362,
+      "word": "杨紫西欧皇室公主风",
+      "onboard_time": 1696652324,
+      "rank": 46,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 177425,
       "num": 418332,
       "word": "女游客昏迷倒地交警一路呼喊及时送医",
@@ -971,12 +1091,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166305,
+      "num": 166305,
+      "word": "以前的爱情有多朴实无华",
+      "onboard_time": 1696650160,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165492,
       "num": 165492,
       "word": "尹正真的好爱回春丹",
       "onboard_time": 1696638756,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162572,
+      "num": 162572,
+      "word": "猴哥和八戒的感情",
+      "onboard_time": 1696652384,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 162397,
@@ -1257,6 +1393,14 @@
       "onboard_time": 1696588000,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 66712,
+      "num": 1060998,
+      "word": "中秋国庆假期国内8.26亿人次出游",
+      "onboard_time": 1696590039,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62559,
