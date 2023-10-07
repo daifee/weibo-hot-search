@@ -1,0 +1,410 @@
+{
+  "runTime": 1696645292749,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1765482,
+        "num": 1765482,
+        "word": "亚运村的床垫都被带走了",
+        "onboard_time": 1696641095,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1368850,
+        "num": 1368850,
+        "word": "专家建议增加假期不要调休",
+        "onboard_time": 1696641514,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88160,
+        "num": 990210,
+        "word": "9招找回节后好状态",
+        "onboard_time": 1696598565,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937758,
+        "num": 937758,
+        "word": "陈好都开始演妈了",
+        "onboard_time": 1696644034,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 822077,
+        "num": 822077,
+        "word": "沈梦辰拍了周杰伦专辑封面同款照",
+        "onboard_time": 1696642713,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 722671,
+        "num": 722671,
+        "word": "杨幂这套图用在今天太合适了",
+        "onboard_time": 1696641695,
+        "rank": 5,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 646841,
+        "num": 646841,
+        "word": "亚运会闭幕式只用一块草坪",
+        "onboard_time": 1696640376,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491031,
+        "num": 491031,
+        "word": "谁来管管五线县城的店名",
+        "onboard_time": 1696642535,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 435517,
+        "num": 435517,
+        "word": "专家称调休初衷是好的",
+        "onboard_time": 1696643554,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381709,
+        "num": 381709,
+        "word": "在火车上睡觉只需要一件衬衣",
+        "onboard_time": 1696635508,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2552767,
+        "num": 381364,
+        "word": "海滩走失女童父亲深夜发布多张照片",
+        "onboard_time": 1696642473,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432714,
+        "num": 377296,
+        "word": "张嘉益王晓晨二搭",
+        "onboard_time": 1696643193,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363185,
+        "num": 374886,
+        "word": "丁丁幼崽好壮实",
+        "onboard_time": 1696644215,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 237047,
+        "num": 372394,
+        "word": "中国冲击首个霹雳舞亚运冠军",
+        "onboard_time": 1696641695,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1176659,
+        "num": 370270,
+        "word": "学生打数十个电话举报学校假期补课",
+        "onboard_time": 1696638216,
+        "rank": 14,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 369856,
+        "num": 369856,
+        "word": "他从火光中走来 男主死了",
+        "onboard_time": 1696594058,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346861,
+        "num": 346861,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299561,
+        "num": 299561,
+        "word": "迪丽热巴 万渣朝凰",
+        "onboard_time": 1696599106,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296140,
+        "num": 296140,
+        "word": "陈飞宇说魏大勋第一场戏紧张到疯狂喝水",
+        "onboard_time": 1696637140,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 277845,
+        "num": 277845,
+        "word": "陈立农跳女孩白月光回来了",
+        "onboard_time": 1696644513,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2390288,
+        "num": 272831,
+        "word": "调休",
+        "onboard_time": 1696637317,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 681582,
+        "num": 267768,
+        "word": "浦东海滩走失女孩疑似最后影像曝光",
+        "onboard_time": 1696621933,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645826,
+        "num": 262971,
+        "word": "休8上7是什么体验",
+        "onboard_time": 1696642713,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200596,
+        "num": 260362,
+        "word": "花儿与少年极光直播",
+        "onboard_time": 1696640076,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 398246,
+        "num": 256139,
+        "word": "情侣同名同姓相恋7年后恩爱订婚",
+        "onboard_time": 1696633586,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381263,
+        "num": 247805,
+        "word": "爸爸养的猫25岁了",
+        "onboard_time": 1696640856,
+        "rank": 25,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 247213,
+        "num": 247213,
+        "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+        "onboard_time": 1696600182,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246512,
+        "num": 246512,
+        "word": "看到公司墙上的口号想离职了",
+        "onboard_time": 1696637857,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241527,
+        "num": 241527,
+        "word": "前任4后劲",
+        "onboard_time": 1696644393,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215935,
+        "num": 215935,
+        "word": "林陆骁 只是伤心不是死了",
+        "onboard_time": 1696636473,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 393328,
+        "num": 214091,
+        "word": "美国或在2024年出现大萧条以来最严重崩盘",
+        "onboard_time": 1696644337,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 246641,
+        "num": 212926,
+        "word": "姚明说中国篮球与世界脱轨",
+        "onboard_time": 1696644814,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244300,
+        "num": 208811,
+        "word": "男子假期最后半天返程畅通无阻",
+        "onboard_time": 1696643615,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198838,
+        "num": 198838,
+        "word": "曼谷枪击事件未成年嫌疑人父母致歉",
+        "onboard_time": 1696639236,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198826,
+        "num": 198826,
+        "word": "兵哥哥们接亲的压迫感扑面而来",
+        "onboard_time": 1696645055,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198562,
+        "num": 198562,
+        "word": "iOS17安装率低迷",
+        "onboard_time": 1696640376,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197817,
+        "num": 197817,
+        "word": "老君山1元午餐盘点多出1012元",
+        "onboard_time": 1696645114,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194031,
+        "num": 194031,
+        "word": "Jennie新歌榜单成绩",
+        "onboard_time": 1696644936,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188676,
+        "num": 188676,
+        "word": "妻子陪无臂丈夫努力20年买下大房子",
+        "onboard_time": 1696641876,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174498,
+        "num": 174498,
+        "word": "中国队冲击200金",
+        "onboard_time": 1696643732,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174373,
+        "num": 174373,
+        "word": "被广东的婚宴震惊到了",
+        "onboard_time": 1696637857,
+        "rank": 40,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 169582,
+        "num": 169582,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1696599463,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159171,
+        "num": 159171,
+        "word": "无论休假或调休听到警铃他立刻飞奔",
+        "onboard_time": 1696643255,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155052,
+        "num": 155052,
+        "word": "周杰伦给张艺兴送了花篮",
+        "onboard_time": 1696606719,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151859,
+        "num": 151859,
+        "word": "南阳给了我体面",
+        "onboard_time": 1696636113,
+        "rank": 44,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 151426,
+        "num": 151426,
+        "word": "奔跑中的刘浩存",
+        "onboard_time": 1696606178,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145873,
+        "num": 145873,
+        "word": "半夜醒来时不要看时间",
+        "onboard_time": 1696598380,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139686,
+        "num": 139686,
+        "word": "喝咖啡上瘾对身体有害吗",
+        "onboard_time": 1696605580,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 138147,
+        "num": 138147,
+        "word": "家乡人给切阳什姐献上一条又一条哈达",
+        "onboard_time": 1696643732,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137272,
+        "num": 137272,
+        "word": "老年人钟爱女主播一年打赏超6万元",
+        "onboard_time": 1696641573,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运感谢有你#"
+    }
+  }
+}

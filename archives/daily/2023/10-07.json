@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696644279467,
+  "endTime": 1696645292749,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2539593,
+      "raw_hot": 2552767,
       "num": 901900,
       "word": "海滩走失女童父亲深夜发布多张照片",
       "onboard_time": 1696642473,
@@ -27,6 +27,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1765482,
+      "num": 1765482,
+      "word": "亚运村的床垫都被带走了",
+      "onboard_time": 1696641095,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1754670,
       "num": 724123,
       "word": "浦东海滩走失女孩疑似最后影像曝光",
@@ -35,12 +43,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1384932,
-      "num": 1384932,
-      "word": "亚运村的床垫都被带走了",
-      "onboard_time": 1696641095,
-      "rank": 10,
-      "category": "体育"
+      "raw_hot": 1368850,
+      "num": 1368850,
+      "word": "专家建议增加假期不要调休",
+      "onboard_time": 1696641514,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1307877,
@@ -67,20 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1032700,
-      "num": 1032700,
-      "word": "专家建议增加假期不要调休",
-      "onboard_time": 1696641514,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1000842,
       "num": 1000842,
       "word": "上海失踪4岁女童母亲发声",
       "onboard_time": 1696583733,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 937758,
+      "num": 937758,
+      "word": "陈好都开始演妈了",
+      "onboard_time": 1696644034,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 898831,
@@ -156,15 +164,15 @@
     },
     {
       "raw_hot": 739898,
-      "num": 637742,
+      "num": 646841,
       "word": "亚运会闭幕式只用一块草坪",
       "onboard_time": 1696640376,
       "rank": 19,
       "category": "体育"
     },
     {
-      "raw_hot": 707644,
-      "num": 707644,
+      "raw_hot": 722671,
+      "num": 722671,
       "word": "杨幂这套图用在今天太合适了",
       "onboard_time": 1696641695,
       "rank": 16,
@@ -185,6 +193,14 @@
       "onboard_time": 1696606719,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 645826,
+      "num": 263422,
+      "word": "休8上7是什么体验",
+      "onboard_time": 1696642713,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610212,
@@ -227,14 +243,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 579887,
-      "num": 263422,
-      "word": "休8上7是什么体验",
-      "onboard_time": 1696642713,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 556101,
       "num": 556101,
       "word": "奔跑中的刘浩存",
@@ -249,6 +257,14 @@
       "onboard_time": 1696637857,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 491031,
+      "num": 491031,
+      "word": "谁来管管五线县城的店名",
+      "onboard_time": 1696642535,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 490172,
@@ -275,12 +291,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 435517,
+      "num": 435517,
+      "word": "专家称调休初衷是好的",
+      "onboard_time": 1696643554,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 432714,
+      "num": 380446,
+      "word": "张嘉益王晓晨二搭",
+      "onboard_time": 1696643193,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 401015,
       "num": 401015,
       "word": "日本海鲜滞销堆积成山",
       "onboard_time": 1696592498,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393328,
+      "num": 214091,
+      "word": "美国或在2024年出现大萧条以来最严重崩盘",
+      "onboard_time": 1696644337,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 384538,
@@ -297,14 +337,6 @@
       "onboard_time": 1696637501,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380446,
-      "num": 380446,
-      "word": "张嘉益王晓晨二搭",
-      "onboard_time": 1696643193,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 379255,
@@ -339,20 +371,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 364416,
-      "num": 364416,
-      "word": "谁来管管五线县城的店名",
-      "onboard_time": 1696642535,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 363273,
       "num": 363273,
       "word": "李沁去刘雨昕演唱会",
       "onboard_time": 1696607316,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 363185,
+      "num": 374886,
+      "word": "丁丁幼崽好壮实",
+      "onboard_time": 1696644215,
+      "rank": 46,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 343344,
@@ -401,6 +433,14 @@
       "onboard_time": 1696637857,
       "rank": 27,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 277845,
+      "num": 277845,
+      "word": "陈立农跳女孩白月光回来了",
+      "onboard_time": 1696644513,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 266711,
@@ -459,12 +499,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 237533,
-      "num": 237533,
-      "word": "专家称调休初衷是好的",
-      "onboard_time": 1696643554,
-      "rank": 26,
+      "raw_hot": 246641,
+      "num": 212926,
+      "word": "姚明说中国篮球与世界脱轨",
+      "onboard_time": 1696644814,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 244300,
+      "num": 208811,
+      "word": "男子假期最后半天返程畅通无阻",
+      "onboard_time": 1696643615,
+      "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 241527,
+      "num": 241527,
+      "word": "前任4后劲",
+      "onboard_time": 1696644393,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 237047,
+      "num": 380562,
+      "word": "中国冲击首个霹雳舞亚运冠军",
+      "onboard_time": 1696641695,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 235743,
@@ -481,14 +545,6 @@
       "onboard_time": 1696637559,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 235119,
-      "num": 235119,
-      "word": "陈好都开始演妈了",
-      "onboard_time": 1696644034,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 230947,
@@ -547,19 +603,27 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 212565,
-      "num": 380562,
-      "word": "中国冲击首个霹雳舞亚运冠军",
-      "onboard_time": 1696641695,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201146,
       "num": 201146,
       "word": "蓝天救援队公布疑似女童走失前视频",
       "onboard_time": 1696589080,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198826,
+      "num": 198826,
+      "word": "兵哥哥们接亲的压迫感扑面而来",
+      "onboard_time": 1696645055,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197817,
+      "num": 197817,
+      "word": "老君山1元午餐盘点多出1012元",
+      "onboard_time": 1696645114,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -585,6 +649,14 @@
       "onboard_time": 1696643255,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194031,
+      "num": 194031,
+      "word": "Jennie新歌榜单成绩",
+      "onboard_time": 1696644936,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 193312,
@@ -632,14 +704,6 @@
       "word": "男子中秋夜闯入邻居家枪击行凶",
       "onboard_time": 1696611385,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 184477,
-      "num": 184477,
-      "word": "男子假期最后半天返程畅通无阻",
-      "onboard_time": 1696643615,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -793,14 +857,6 @@
       "onboard_time": 1696605222,
       "rank": 42,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 147272,
-      "num": 147272,
-      "word": "丁丁幼崽好壮实",
-      "onboard_time": 1696644215,
-      "rank": 46,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 144810,
