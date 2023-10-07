@@ -1,0 +1,410 @@
+{
+  "runTime": 1696656836883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2754797,
+        "num": 2754797,
+        "word": "鹿哈自曝带货7个月挣3500万",
+        "onboard_time": 1696650639,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1522453,
+        "num": 1522453,
+        "word": "吴亦凡经纪公司被强执近1900万",
+        "onboard_time": 1696653406,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44290,
+        "num": 1480301,
+        "word": "中秋国庆假期国内8.26亿人次出游",
+        "onboard_time": 1696590039,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1441028,
+        "num": 1441028,
+        "word": "苹果商店现黄色软件伪装成学习软件",
+        "onboard_time": 1696652443,
+        "rank": 3,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 852573,
+        "num": 852573,
+        "word": "邓为首部男主剧",
+        "onboard_time": 1696655322,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 874126,
+        "num": 842554,
+        "word": "救援队分析上海4岁女童走失情况",
+        "onboard_time": 1696653945,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825304,
+        "num": 825304,
+        "word": "为什么睡觉用zzz表示",
+        "onboard_time": 1696651302,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 695828,
+        "num": 695828,
+        "word": "女子花3.5扫共享单车从上海骑到苏州",
+        "onboard_time": 1696652024,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 649832,
+        "num": 649832,
+        "word": "Yamy郭颖签约少城时代",
+        "onboard_time": 1696654665,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568412,
+        "num": 568412,
+        "word": "陈好都开始演妈了",
+        "onboard_time": 1696644034,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 839820,
+        "num": 567837,
+        "word": "黄元芯的爸爸",
+        "onboard_time": 1696646614,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407418,
+        "num": 565811,
+        "word": "美国或在2024年出现大萧条以来最严重崩盘",
+        "onboard_time": 1696644337,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 230959,
+        "num": 564369,
+        "word": "丁丁幼崽好壮实",
+        "onboard_time": 1696644215,
+        "rank": 12,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 138070,
+        "num": 560957,
+        "word": "葛曼棋的哪吒头是为激励自己不服输",
+        "onboard_time": 1696654485,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84231,
+        "num": 558753,
+        "word": "没啥了不起只是更较真",
+        "onboard_time": 1696650639,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1014149,
+        "num": 558172,
+        "word": "上海海滩走失女童父亲非继父",
+        "onboard_time": 1696647095,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599038,
+        "num": 556081,
+        "word": "原来控糖不能吃这些",
+        "onboard_time": 1696651966,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 569542,
+        "num": 553344,
+        "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
+        "onboard_time": 1696656340,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552382,
+        "num": 552382,
+        "word": "第一次见女主是癞蛤蟆的",
+        "onboard_time": 1696653465,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 457540,
+        "num": 457540,
+        "word": "许光汉程潇你俩在干嘛",
+        "onboard_time": 1696653465,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 800765,
+        "num": 450329,
+        "word": "28岁智障女子被迫嫁给34岁二婚男",
+        "onboard_time": 1696654544,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 577845,
+        "num": 448159,
+        "word": "本周有三个周一",
+        "onboard_time": 1696655205,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429721,
+        "num": 429721,
+        "word": "仙台有树",
+        "onboard_time": 1696655024,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398672,
+        "num": 398672,
+        "word": "兰州站陈梦王曼昱女双冠军",
+        "onboard_time": 1696655921,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 377502,
+        "num": 377502,
+        "word": "陈飞宇问东北麻辣烫怎么都是素的",
+        "onboard_time": 1696649677,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376257,
+        "num": 376257,
+        "word": "节后第一天下了班干什么",
+        "onboard_time": 1696645894,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 348939,
+        "num": 348939,
+        "word": "劝大家不要频繁掏耳朵",
+        "onboard_time": 1696652443,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 317296,
+        "num": 317296,
+        "word": "TI中国队晋级崩铁全服奖励",
+        "onboard_time": 1696654844,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 306713,
+        "num": 306713,
+        "word": "海滩走失女童在水边摔倒后消失在海浪中",
+        "onboard_time": 1696647696,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304682,
+        "num": 304682,
+        "word": "休8上7是什么体验",
+        "onboard_time": 1696642713,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296683,
+        "num": 296683,
+        "word": "杨紫造型师说你们的福气还在后头",
+        "onboard_time": 1696650038,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277189,
+        "num": 277189,
+        "word": "犬夜叉 薇桔",
+        "onboard_time": 1696649499,
+        "rank": 31,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 276058,
+        "num": 276058,
+        "word": "杨幂这套图用在今天太合适了",
+        "onboard_time": 1696641695,
+        "rank": 32,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 250508,
+        "num": 250508,
+        "word": "上海4岁女童失踪已超60小时",
+        "onboard_time": 1696653223,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230762,
+        "num": 230762,
+        "word": "姚明回应为何换掉杜锋",
+        "onboard_time": 1696651602,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 248714,
+        "num": 230396,
+        "word": "杨紫西欧皇室公主风",
+        "onboard_time": 1696652324,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 229256,
+        "num": 229256,
+        "word": "李汶翰中耳炎",
+        "onboard_time": 1696650518,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215667,
+        "num": 215667,
+        "word": "丁宁入选亚奥理事会运动员委员",
+        "onboard_time": 1696656277,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201990,
+        "num": 201990,
+        "word": "虞书欣卢昱晓无锋姐妹局",
+        "onboard_time": 1696650941,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200280,
+        "num": 200280,
+        "word": "专家建议增加假期不要调休",
+        "onboard_time": 1696641514,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194053,
+        "num": 194053,
+        "word": "坚如磐石",
+        "onboard_time": 1696656099,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191258,
+        "num": 191258,
+        "word": "爸爸养的猫25岁了",
+        "onboard_time": 1696640856,
+        "rank": 41,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 187717,
+        "num": 187717,
+        "word": "内马尔女儿出生",
+        "onboard_time": 1696646734,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183802,
+        "num": 183802,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180989,
+        "num": 180989,
+        "word": "专家称调休初衷是好的",
+        "onboard_time": 1696643554,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176563,
+        "num": 176563,
+        "word": "年轻的蔡康永专访莫言",
+        "onboard_time": 1696655862,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171893,
+        "num": 171893,
+        "word": "金晨单手扛背景板",
+        "onboard_time": 1696655024,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163960,
+        "num": 163960,
+        "word": "老君山1元午餐盘点多出1012元",
+        "onboard_time": 1696645114,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156109,
+        "num": 156109,
+        "word": "任敏宋代汉服造型",
+        "onboard_time": 1696654309,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 146816,
+        "num": 146816,
+        "word": "沈梦辰拍了周杰伦专辑封面同款照",
+        "onboard_time": 1696642713,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}
