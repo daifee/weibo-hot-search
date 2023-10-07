@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696664040067,
+  "endTime": 1696666780413,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -57,6 +57,14 @@
       "onboard_time": 1696644337,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1911629,
+      "num": 1911629,
+      "word": "仅0.4%主播月收入超10万",
+      "onboard_time": 1696664557,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1868410,
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1169885,
+      "num": 1169885,
+      "word": "以色列",
+      "onboard_time": 1696661376,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1135770,
       "num": 1135770,
       "word": "他从火光中走来 男主死了",
@@ -227,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 879295,
+      "num": 879295,
+      "word": "万渣朝凰 8个男主",
+      "onboard_time": 1696664981,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 877276,
       "num": 877276,
       "word": "邓为首部男主剧",
@@ -241,14 +265,6 @@
       "onboard_time": 1696642713,
       "rank": 5,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 844409,
-      "num": 478476,
-      "word": "以色列",
-      "onboard_time": 1696661376,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 843570,
@@ -523,6 +539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 561243,
+      "num": 561243,
+      "word": "中国银行原董事长刘连舸被开除党籍",
+      "onboard_time": 1696664257,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556101,
       "num": 556101,
       "word": "奔跑中的刘浩存",
@@ -545,6 +569,14 @@
       "onboard_time": 1696637857,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 520935,
+      "num": 486617,
+      "word": "迪丽热巴创时装周最高媒体价值",
+      "onboard_time": 1696663116,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 508252,
@@ -603,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 468536,
+      "num": 468536,
+      "word": "回家第一件事查父母手机",
+      "onboard_time": 1696665517,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 463072,
       "num": 463072,
       "word": "樊振东原来是兵哥哥",
       "onboard_time": 1696661617,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 459181,
-      "num": 459181,
-      "word": "迪丽热巴创时装周最高媒体价值",
-      "onboard_time": 1696663116,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 453708,
@@ -641,6 +673,14 @@
       "onboard_time": 1696663237,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 443329,
+      "num": 443329,
+      "word": "张杰谈签下杨和苏",
+      "onboard_time": 1696666300,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 443235,
@@ -771,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369893,
+      "num": 369893,
+      "word": "林高远vs张本智和",
+      "onboard_time": 1696666117,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 366966,
       "num": 366966,
       "word": "民警给走失小女孩上了堂甜甜的安全课",
@@ -801,6 +849,14 @@
       "onboard_time": 1696653223,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349764,
+      "num": 349764,
+      "word": "什么时候过年",
+      "onboard_time": 1696665158,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 345979,
@@ -888,6 +944,14 @@
       "word": "男子帮陌生人借充电宝8小时未归还",
       "onboard_time": 1696646793,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 290488,
+      "num": 290488,
+      "word": "孕妇早产交警紧急开道提前送达",
+      "onboard_time": 1696665878,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246508,
+      "num": 246508,
+      "word": "第一次见肌肉含量这么高的综艺",
+      "onboard_time": 1696660896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246257,
       "num": 246257,
       "word": "男子假期最后半天返程畅通无阻",
@@ -1057,14 +1129,6 @@
       "onboard_time": 1696659817,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 239059,
-      "num": 239059,
-      "word": "第一次见肌肉含量这么高的综艺",
-      "onboard_time": 1696660896,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 238722,
@@ -1179,6 +1243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222378,
+      "num": 222378,
+      "word": "王曼昱女单晋级4强",
+      "onboard_time": 1696664557,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221674,
       "num": 221674,
       "word": "年轻人为什么都喜欢去音乐节",
@@ -1193,6 +1265,14 @@
       "onboard_time": 1696660535,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 219225,
+      "num": 219225,
+      "word": "韩国服兵役球员自信赢日本拿金牌",
+      "onboard_time": 1696664318,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 217823,
@@ -1272,6 +1352,14 @@
       "word": "虞书欣瞬回云为衫",
       "onboard_time": 1696658199,
       "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 203236,
+      "num": 203236,
+      "word": "陆虎这些年拼命拼来了什么",
+      "onboard_time": 1696665395,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1369,6 +1457,14 @@
       "onboard_time": 1696612163,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190941,
+      "num": 190941,
+      "word": "听障夫妻带4岁耳蜗宝宝摆摊卖鸡蛋仔",
+      "onboard_time": 1696665517,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190738,
@@ -1499,6 +1595,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172424,
+      "num": 172424,
+      "word": "这张蟹卡系刷单骗局",
+      "onboard_time": 1696664915,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 172138,
+      "num": 172138,
+      "word": "巴黎时装周中国艺人影响力前十",
+      "onboard_time": 1696664135,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 169235,
+      "num": 169235,
+      "word": "新女婿干不出这事",
+      "onboard_time": 1696666715,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168631,
       "num": 168631,
       "word": "魏大勋为拍志愿军三天不吃饭",
@@ -1513,6 +1633,14 @@
       "onboard_time": 1696639116,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168276,
+      "num": 168276,
+      "word": "陈幸同3比2木原美悠",
+      "onboard_time": 1696665758,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 166881,

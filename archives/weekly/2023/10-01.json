@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696664040067,
+  "endTime": 1696666780413,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -729,6 +729,14 @@
       "onboard_time": 1696599463,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1911629,
+      "num": 1911629,
+      "word": "仅0.4%主播月收入超10万",
+      "onboard_time": 1696664557,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1868410,
@@ -1835,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1169885,
+      "num": 1169885,
+      "word": "以色列",
+      "onboard_time": 1696661376,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1169843,
       "num": 1169843,
       "word": "黄晓明抱不完根本抱不完",
@@ -2611,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 879295,
+      "num": 879295,
+      "word": "万渣朝凰 8个男主",
+      "onboard_time": 1696664981,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 879196,
       "num": 879196,
       "word": "秦始皇想不到两千多年后六国子民花钱来拜",
@@ -2825,14 +2849,6 @@
       "onboard_time": 1696252181,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 844409,
-      "num": 478476,
-      "word": "以色列",
-      "onboard_time": 1696661376,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 843570,
@@ -4851,6 +4867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 561243,
+      "num": 561243,
+      "word": "中国银行原董事长刘连舸被开除党籍",
+      "onboard_time": 1696664257,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561193,
       "num": 561193,
       "word": "中国香港晋级亚运男足四强",
@@ -5217,6 +5241,14 @@
       "onboard_time": 1696637857,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 520935,
+      "num": 486617,
+      "word": "迪丽热巴创时装周最高媒体价值",
+      "onboard_time": 1696663116,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 518677,
@@ -5851,6 +5883,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 468536,
+      "num": 468536,
+      "word": "回家第一件事查父母手机",
+      "onboard_time": 1696665517,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 468511,
       "num": 468511,
       "word": "4K镜头下的巨型蛀牙",
@@ -5969,14 +6009,6 @@
       "onboard_time": 1696575153,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 459181,
-      "num": 459181,
-      "word": "迪丽热巴创时装周最高媒体价值",
-      "onboard_time": 1696663116,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 456317,
@@ -6185,6 +6217,14 @@
       "onboard_time": 1696586677,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 443329,
+      "num": 443329,
+      "word": "张杰谈签下杨和苏",
+      "onboard_time": 1696666300,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 443236,
@@ -7307,6 +7347,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 369893,
+      "num": 369893,
+      "word": "林高远vs张本智和",
+      "onboard_time": 1696666117,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369573,
       "num": 312709,
       "word": "DOTA2中国对阵马来西亚",
@@ -7841,6 +7889,14 @@
       "onboard_time": 1696405474,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 349764,
+      "num": 349764,
+      "word": "什么时候过年",
+      "onboard_time": 1696665158,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 349540,
@@ -9353,6 +9409,14 @@
       "onboard_time": 1696431818,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290488,
+      "num": 290488,
+      "word": "孕妇早产交警紧急开道提前送达",
+      "onboard_time": 1696665878,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 290094,
@@ -11115,6 +11179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246508,
+      "num": 246508,
+      "word": "第一次见肌肉含量这么高的综艺",
+      "onboard_time": 1696660896,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246492,
       "num": 246492,
       "word": "恋爱脑知道自己是恋爱脑吗",
@@ -11449,14 +11521,6 @@
       "onboard_time": 1696514505,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 239059,
-      "num": 239059,
-      "word": "第一次见肌肉含量这么高的综艺",
-      "onboard_time": 1696660896,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 238745,
@@ -12243,6 +12307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222378,
+      "num": 222378,
+      "word": "王曼昱女单晋级4强",
+      "onboard_time": 1696664557,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 222343,
       "num": 222343,
       "word": "11岁男孩路边4天拉客18桌",
@@ -12401,6 +12473,14 @@
       "onboard_time": 1696206990,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 219225,
+      "num": 219225,
+      "word": "韩国服兵役球员自信赢日本拿金牌",
+      "onboard_time": 1696664318,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 219211,
@@ -13193,6 +13273,14 @@
       "onboard_time": 1696591776,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203236,
+      "num": 203236,
+      "word": "陆虎这些年拼命拼来了什么",
+      "onboard_time": 1696665395,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 203180,
@@ -14120,6 +14208,14 @@
       "word": "这是疫情后的第一个国庆",
       "onboard_time": 1696220493,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190941,
+      "num": 190941,
+      "word": "听障夫妻带4岁耳蜗宝宝摆摊卖鸡蛋仔",
+      "onboard_time": 1696665517,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -15179,12 +15275,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172424,
+      "num": 172424,
+      "word": "这张蟹卡系刷单骗局",
+      "onboard_time": 1696664915,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 172231,
       "num": 172231,
       "word": "陈佳鹏年轻的战场",
       "onboard_time": 1696342180,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172138,
+      "num": 172138,
+      "word": "巴黎时装周中国艺人影响力前十",
+      "onboard_time": 1696664135,
+      "rank": 42,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 171281,
@@ -15283,6 +15395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169235,
+      "num": 169235,
+      "word": "新女婿干不出这事",
+      "onboard_time": 1696666715,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "谁给林韩中做的造型",
@@ -15329,6 +15449,14 @@
       "onboard_time": 1696422214,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168276,
+      "num": 168276,
+      "word": "陈幸同3比2木原美悠",
+      "onboard_time": 1696665758,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 168138,
