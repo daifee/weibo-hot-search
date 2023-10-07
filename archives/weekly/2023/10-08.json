@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696714452996,
+  "endTime": 1696716910112,
   "band_list": [
     {
       "raw_hot": 1850480,
@@ -435,6 +435,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 67258,
+      "num": 67258,
+      "word": "迷笛音乐节要反思的不是当地群众",
+      "onboard_time": 1696712054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 52646,
+      "num": 52646,
+      "word": "台风小犬",
+      "onboard_time": 1696713493,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49488,
       "num": 54331,
       "word": "罗云熙早秋棕色系奶茶穿搭",
@@ -451,20 +467,44 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31675,
-      "num": 31675,
-      "word": "迷笛音乐节要反思的不是当地群众",
-      "onboard_time": 1696712054,
-      "rank": 29,
+      "raw_hot": 36892,
+      "num": 36892,
+      "word": "黄子诚夜闯被抓",
+      "onboard_time": 1696714815,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28669,
+      "num": 28669,
+      "word": "台风",
+      "onboard_time": 1696715293,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 25752,
+      "raw_hot": 28441,
       "num": 52581,
       "word": "以色列遭袭后炮击加沙地带",
       "onboard_time": 1696708574,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 26525,
+      "num": 26525,
+      "word": "陈都灵吃饭也走流程",
+      "onboard_time": 1696713134,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 22624,
+      "num": 22624,
+      "word": "亚运闭幕式门票",
+      "onboard_time": 1696714454,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 22255,
@@ -475,7 +515,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19348,
+      "raw_hot": 22210,
       "num": 51839,
       "word": "杨幂若把你直拍",
       "onboard_time": 1696710493,
@@ -489,22 +529,6 @@
       "onboard_time": 1696707133,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 17828,
-      "num": 17828,
-      "word": "台风小犬",
-      "onboard_time": 1696713493,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 17756,
-      "num": 17756,
-      "word": "陈都灵吃饭也走流程",
-      "onboard_time": 1696713134,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 13026,

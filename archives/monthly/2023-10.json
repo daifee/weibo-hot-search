@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696714452996,
+  "endTime": 1696716910112,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -19499,6 +19499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67258,
+      "num": 67258,
+      "word": "迷笛音乐节要反思的不是当地群众",
+      "onboard_time": 1696712054,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66655,
       "num": 35531,
       "word": "一起祝福新中国生日快乐",
@@ -19827,6 +19835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36892,
+      "num": 36892,
+      "word": "黄子诚夜闯被抓",
+      "onboard_time": 1696714815,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36583,
       "num": 36583,
       "word": "加油杭州亚运会",
@@ -19915,14 +19931,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 31675,
-      "num": 31675,
-      "word": "迷笛音乐节要反思的不是当地群众",
-      "onboard_time": 1696712054,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 31577,
       "num": 31577,
       "word": "特工任务女孩被间谍骗财骗色",
@@ -19955,6 +19963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28441,
+      "num": 52581,
+      "word": "以色列遭袭后炮击加沙地带",
+      "onboard_time": 1696708574,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 28131,
       "num": 26201,
       "word": "韩庚晒机票",
@@ -19979,20 +19995,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26525,
+      "num": 26525,
+      "word": "陈都灵吃饭也走流程",
+      "onboard_time": 1696713134,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26434,
       "num": 26434,
       "word": "王濛叫刘雨昕刘姐",
       "onboard_time": 1696625954,
       "rank": 36,
       "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 25752,
-      "num": 52581,
-      "word": "以色列遭袭后炮击加沙地带",
-      "onboard_time": 1696708574,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 25726,
@@ -20059,6 +20075,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22624,
+      "num": 22624,
+      "word": "亚运闭幕式门票",
+      "onboard_time": 1696714454,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 22210,
+      "num": 51839,
+      "word": "杨幂若把你直拍",
+      "onboard_time": 1696710493,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 19990,
       "num": 19990,
       "word": "和平精英项目",
@@ -20073,14 +20105,6 @@
       "onboard_time": 1696489774,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 19348,
-      "num": 51839,
-      "word": "杨幂若把你直拍",
-      "onboard_time": 1696710493,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 19014,
@@ -20105,14 +20129,6 @@
       "onboard_time": 1696614679,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 17756,
-      "num": 17756,
-      "word": "陈都灵吃饭也走流程",
-      "onboard_time": 1696713134,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 17355,
