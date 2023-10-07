@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696702817818,
+  "endTime": 1696703637419,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -19267,6 +19267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83657,
+      "num": 83657,
+      "word": "阿彩婚礼",
+      "onboard_time": 1696700179,
+      "rank": 11,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 83075,
       "num": 1073356,
       "word": "上下五千年一笔一画写中国",
@@ -19369,14 +19377,6 @@
       "onboard_time": 1696288763,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76252,
-      "num": 76252,
-      "word": "阿彩婚礼",
-      "onboard_time": 1696700179,
-      "rank": 11,
-      "category": "读书作家"
     },
     {
       "raw_hot": 75818,
