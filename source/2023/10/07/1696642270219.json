@@ -1,0 +1,410 @@
+{
+  "runTime": 1696642270219,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4186955,
+        "num": 4186955,
+        "word": "调休",
+        "onboard_time": 1696637317,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1942905,
+        "num": 1942905,
+        "word": "学生打数十个电话举报学校假期补课",
+        "onboard_time": 1696638216,
+        "rank": 1,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149219,
+        "num": 784142,
+        "word": "9招找回节后好状态",
+        "onboard_time": 1696598565,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 720979,
+        "num": 720979,
+        "word": "在火车上睡觉只需要一件衬衣",
+        "onboard_time": 1696635508,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 601460,
+        "num": 601460,
+        "word": "官方通报已婚女子陪领导喝酒醉卧街头",
+        "onboard_time": 1696600182,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 562806,
+        "num": 562806,
+        "word": "女孩买胸贴女店员叠小票保护隐私",
+        "onboard_time": 1696601024,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 547712,
+        "num": 547712,
+        "word": "不想上班",
+        "onboard_time": 1696636714,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 511545,
+        "num": 511545,
+        "word": "半夜醒来时不要看时间",
+        "onboard_time": 1696598380,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 506754,
+        "num": 506754,
+        "word": "陈飞宇说魏大勋第一场戏紧张到疯狂喝水",
+        "onboard_time": 1696637140,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 483617,
+        "num": 483617,
+        "word": "他从火光中走来 男主死了",
+        "onboard_time": 1696594058,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 804249,
+        "num": 481684,
+        "word": "亚运村的床垫都被带走了",
+        "onboard_time": 1696641095,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 739898,
+        "num": 478552,
+        "word": "亚运会闭幕式只用一块草坪",
+        "onboard_time": 1696640376,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533149,
+        "num": 477371,
+        "word": "南阳给了我体面",
+        "onboard_time": 1696636113,
+        "rank": 12,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 409813,
+        "num": 474938,
+        "word": "花儿与少年极光直播",
+        "onboard_time": 1696640076,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237126,
+        "num": 470776,
+        "word": "中国女排决赛对阵日本队",
+        "onboard_time": 1696640076,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 470763,
+        "num": 470763,
+        "word": "迪丽热巴 万渣朝凰",
+        "onboard_time": 1696599106,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453593,
+        "num": 453593,
+        "word": "杨幂这套图用在今天太合适了",
+        "onboard_time": 1696641695,
+        "rank": 16,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 411603,
+        "num": 411603,
+        "word": "曼谷枪击事件未成年嫌疑人父母致歉",
+        "onboard_time": 1696639236,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309363,
+        "num": 309363,
+        "word": "民警给走失小女孩上了堂甜甜的安全课",
+        "onboard_time": 1696635630,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185994,
+        "num": 307892,
+        "word": "中国冲击首个霹雳舞亚运冠军",
+        "onboard_time": 1696641695,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1440426,
+        "num": 304517,
+        "word": "浦东海滩走失女孩疑似最后影像曝光",
+        "onboard_time": 1696621933,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607806,
+        "num": 299131,
+        "word": "爸爸养的猫25岁了",
+        "onboard_time": 1696640856,
+        "rank": 21,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 603957,
+        "num": 295361,
+        "word": "情侣同名同姓相恋7年后恩爱订婚",
+        "onboard_time": 1696633586,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477960,
+        "num": 290799,
+        "word": "看到公司墙上的口号想离职了",
+        "onboard_time": 1696637857,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290435,
+        "num": 290435,
+        "word": "世界杯200蝶张雨霏夺金",
+        "onboard_time": 1696637501,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272675,
+        "num": 272675,
+        "word": "专家建议增加假期不要调休",
+        "onboard_time": 1696641514,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271154,
+        "num": 271154,
+        "word": "被广东的婚宴震惊到了",
+        "onboard_time": 1696637857,
+        "rank": 26,
+        "category": "情感,美食"
+      },
+      {
+        "raw_hot": 252844,
+        "num": 252844,
+        "word": "林陆骁 只是伤心不是死了",
+        "onboard_time": 1696636473,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252227,
+        "num": 252227,
+        "word": "李钟硕颜值回春",
+        "onboard_time": 1696599463,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235743,
+        "num": 235743,
+        "word": "iOS17安装率低迷",
+        "onboard_time": 1696640376,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224918,
+        "num": 224918,
+        "word": "和男朋友在一个村是种什么体验",
+        "onboard_time": 1696635450,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215240,
+        "num": 215240,
+        "word": "喝咖啡上瘾对身体有害吗",
+        "onboard_time": 1696605580,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211221,
+        "num": 211221,
+        "word": "周杰伦给张艺兴送了花篮",
+        "onboard_time": 1696606719,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201074,
+        "num": 201074,
+        "word": "奔跑中的刘浩存",
+        "onboard_time": 1696606178,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292835,
+        "num": 199430,
+        "word": "上海失踪4岁女童母亲发声",
+        "onboard_time": 1696583733,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196638,
+        "num": 196638,
+        "word": "妻子陪无臂丈夫努力20年买下大房子",
+        "onboard_time": 1696641876,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191634,
+        "num": 191634,
+        "word": "Taylor Swift The Eras Tour有望引进",
+        "onboard_time": 1696603424,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180959,
+        "num": 180959,
+        "word": "猫眼就张艺兴演唱会门票超售致歉",
+        "onboard_time": 1696637559,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172325,
+        "num": 172325,
+        "word": "老师订10余套演出服用完立马退货",
+        "onboard_time": 1696600363,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171035,
+        "num": 171035,
+        "word": "覃海洋破世界杯纪录夺金",
+        "onboard_time": 1696637739,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162413,
+        "num": 163422,
+        "word": "这则超市歇业通知满满都是骄傲",
+        "onboard_time": 1696634367,
+        "rank": 40,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 162977,
+        "num": 162977,
+        "word": "中国男篮领奖表情",
+        "onboard_time": 1696635993,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150221,
+        "num": 150221,
+        "word": "韩国的水果可以有多贵",
+        "onboard_time": 1696636170,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 149792,
+        "num": 149792,
+        "word": "老年人钟爱女主播一年打赏超6万元",
+        "onboard_time": 1696641573,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146552,
+        "num": 146552,
+        "word": "我要是娜然真的会爱上那茜",
+        "onboard_time": 1696606656,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142232,
+        "num": 142232,
+        "word": "金价连续下跌",
+        "onboard_time": 1696585172,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 139371,
+        "num": 139371,
+        "word": "尹正真的好爱回春丹",
+        "onboard_time": 1696638756,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134420,
+        "num": 134420,
+        "word": "民警帮棉花山搬家瞬间白了裤腿",
+        "onboard_time": 1696638875,
+        "rank": 47,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 129919,
+        "num": 129919,
+        "word": "日本海鲜滞销堆积成山",
+        "onboard_time": 1696592498,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129318,
+        "num": 129318,
+        "word": "薛之谦蝴蝶妆",
+        "onboard_time": 1696638216,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}

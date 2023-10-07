@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696641077258,
+  "endTime": 1696642270219,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -11,20 +11,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1942905,
+      "num": 1942905,
+      "word": "学生打数十个电话举报学校假期补课",
+      "onboard_time": 1696638216,
+      "rank": 1,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1754670,
       "num": 724123,
       "word": "浦东海滩走失女孩疑似最后影像曝光",
       "onboard_time": 1696621933,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1320500,
-      "num": 1320500,
-      "word": "学生打数十个电话举报学校假期补课",
-      "onboard_time": 1696638216,
-      "rank": 1,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1307877,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 804249,
+      "num": 481684,
+      "word": "亚运村的床垫都被带走了",
+      "onboard_time": 1696641095,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 803749,
       "num": 803749,
       "word": "在火车上睡觉只需要一件衬衣",
@@ -123,6 +131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 739898,
+      "num": 478552,
+      "word": "亚运会闭幕式只用一块草坪",
+      "onboard_time": 1696640376,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 704232,
       "num": 704232,
       "word": "南阳给了我体面",
@@ -147,7 +163,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 600836,
+      "raw_hot": 607806,
+      "num": 315393,
+      "word": "爸爸养的猫25岁了",
+      "onboard_time": 1696640856,
+      "rank": 23,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 603957,
       "num": 345604,
       "word": "情侣同名同姓相恋7年后恩爱订婚",
       "onboard_time": 1696633586,
@@ -211,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 447031,
-      "num": 315393,
-      "word": "爸爸养的猫25岁了",
-      "onboard_time": 1696640856,
-      "rank": 23,
-      "category": "动物萌宠"
+      "raw_hot": 453593,
+      "num": 453593,
+      "word": "杨幂这套图用在今天太合适了",
+      "onboard_time": 1696641695,
+      "rank": 16,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 401015,
@@ -283,14 +307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 358777,
-      "num": 358777,
-      "word": "亚运会闭幕式只用一块草坪",
-      "onboard_time": 1696640376,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 343344,
       "num": 343344,
       "word": "傲寒",
@@ -337,6 +353,14 @@
       "onboard_time": 1696637857,
       "rank": 27,
       "category": "情感,美食"
+    },
+    {
+      "raw_hot": 272675,
+      "num": 272675,
+      "word": "专家建议增加假期不要调休",
+      "onboard_time": 1696641514,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 266711,
@@ -395,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235743,
+      "num": 235743,
+      "word": "iOS17安装率低迷",
+      "onboard_time": 1696640376,
+      "rank": 34,
+      "category": "数码"
+    },
+    {
       "raw_hot": 235723,
       "num": 235723,
       "word": "猫眼就张艺兴演唱会门票超售致歉",
@@ -417,14 +449,6 @@
       "onboard_time": 1696619355,
       "rank": 44,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 220236,
-      "num": 220236,
-      "word": "iOS17安装率低迷",
-      "onboard_time": 1696640376,
-      "rank": 34,
-      "category": "数码"
     },
     {
       "raw_hot": 217823,
@@ -475,6 +499,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 196638,
+      "num": 196638,
+      "word": "妻子陪无臂丈夫努力20年买下大房子",
+      "onboard_time": 1696641876,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195421,
       "num": 170981,
       "word": "一句话证明国庆你去了哪里",
@@ -521,6 +553,14 @@
       "onboard_time": 1696611385,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185994,
+      "num": 307892,
+      "word": "中国冲击首个霹雳舞亚运冠军",
+      "onboard_time": 1696641695,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 183797,
@@ -657,6 +697,14 @@
       "onboard_time": 1696605222,
       "rank": 42,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 149792,
+      "num": 149792,
+      "word": "老年人钟爱女主播一年打赏超6万元",
+      "onboard_time": 1696641573,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 144810,
