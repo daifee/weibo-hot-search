@@ -1,0 +1,410 @@
+{
+  "runTime": 1696667661958,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2215047,
+        "num": 2215047,
+        "word": "仅0.4%主播月收入超10万",
+        "onboard_time": 1696664557,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1741409,
+        "num": 1741409,
+        "word": "孙艺洲称疑遭新型蟹卡诈骗",
+        "onboard_time": 1696660357,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 33381,
+        "num": 1078947,
+        "word": "中秋国庆假期国内8.26亿人次出游",
+        "onboard_time": 1696590039,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060909,
+        "num": 1060909,
+        "word": "以色列",
+        "onboard_time": 1696661376,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 972782,
+        "num": 972782,
+        "word": "张杰谈签下杨和苏",
+        "onboard_time": 1696666300,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 821405,
+        "num": 821405,
+        "word": "万渣朝凰 8个男主",
+        "onboard_time": 1696664981,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 625599,
+        "num": 625599,
+        "word": "林高远vs张本智和",
+        "onboard_time": 1696666117,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 618829,
+        "num": 618829,
+        "word": "苹果商店现黄色软件伪装成学习软件",
+        "onboard_time": 1696652443,
+        "rank": 7,
+        "category": "社会新闻,数码"
+      },
+      {
+        "raw_hot": 563977,
+        "num": 563977,
+        "word": "中国银行原董事长刘连舸被开除党籍",
+        "onboard_time": 1696664257,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 515862,
+        "num": 515862,
+        "word": "花西子审美",
+        "onboard_time": 1696667439,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 614965,
+        "num": 513276,
+        "word": "中国女游客在泰国普吉岛五星级酒店坠亡",
+        "onboard_time": 1696656340,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529264,
+        "num": 507910,
+        "word": "回家第一件事查父母手机",
+        "onboard_time": 1696665517,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 454879,
+        "num": 499737,
+        "word": "以色列国防军宣布进入战争状态",
+        "onboard_time": 1696657778,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 340977,
+        "num": 496593,
+        "word": "雅思组合卫冕冠军",
+        "onboard_time": 1696662034,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305414,
+        "num": 491583,
+        "word": "父母准备200斤土特产塞满后备箱",
+        "onboard_time": 1696662158,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487778,
+        "num": 487778,
+        "word": "王鹤棣白鹿以爱为营最新路透",
+        "onboard_time": 1696666835,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 474398,
+        "num": 474398,
+        "word": "迪丽热巴创时装周最高媒体价值",
+        "onboard_time": 1696663116,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 447259,
+        "num": 447259,
+        "word": "救援队分析上海4岁女童走失情况",
+        "onboard_time": 1696653945,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438279,
+        "num": 438279,
+        "word": "孙红雷小三十岁能参加亚运了",
+        "onboard_time": 1696661557,
+        "rank": 18,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 379276,
+        "num": 379276,
+        "word": "邓为首部男主剧",
+        "onboard_time": 1696655322,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1027537,
+        "num": 369957,
+        "word": "鹿哈自曝带货7个月挣3500万",
+        "onboard_time": 1696650639,
+        "rank": 20,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 679936,
+        "num": 359464,
+        "word": "上海海滩走失女童父亲非继父",
+        "onboard_time": 1696647095,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578974,
+        "num": 355292,
+        "word": "工资高又不卷的工作",
+        "onboard_time": 1696666959,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 343009,
+        "num": 343009,
+        "word": "肖战新剧或将11月开机",
+        "onboard_time": 1696663237,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315363,
+        "num": 315363,
+        "word": "28岁智障女子被迫嫁给34岁二婚男",
+        "onboard_time": 1696654544,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314007,
+        "num": 314007,
+        "word": "郑思维脱衣庆祝",
+        "onboard_time": 1696663175,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290804,
+        "num": 290804,
+        "word": "什么时候过年",
+        "onboard_time": 1696665158,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261450,
+        "num": 261450,
+        "word": "吴亦凡经纪公司被强执近1900万",
+        "onboard_time": 1696653406,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252136,
+        "num": 252136,
+        "word": "狗子误食月饼集体打吊针",
+        "onboard_time": 1696657778,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249840,
+        "num": 249840,
+        "word": "网传金鸡奖开幕式出席嘉宾名单",
+        "onboard_time": 1696663298,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245450,
+        "num": 245450,
+        "word": "本周有三个周一",
+        "onboard_time": 1696655205,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238738,
+        "num": 238738,
+        "word": "樊振东原来是兵哥哥",
+        "onboard_time": 1696661617,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 220956,
+        "num": 220956,
+        "word": "原来控糖不能吃这些",
+        "onboard_time": 1696651966,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218990,
+        "num": 218990,
+        "word": "演了卫明后李泽锋想通了",
+        "onboard_time": 1696663116,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208807,
+        "num": 208807,
+        "word": "张小斐演的林双这段话治好了我的焦虑",
+        "onboard_time": 1696666899,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204223,
+        "num": 204223,
+        "word": "做过外卖员的他30岁破格进入国家队",
+        "onboard_time": 1696667318,
+        "rank": 35,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 203549,
+        "num": 203549,
+        "word": "男朋友说闻到我要来大姨妈了",
+        "onboard_time": 1696667439,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198023,
+        "num": 198023,
+        "word": "陆虎这些年拼命拼来了什么",
+        "onboard_time": 1696665395,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194594,
+        "num": 194594,
+        "word": "韩国服兵役球员自信赢日本拿金牌",
+        "onboard_time": 1696664318,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184280,
+        "num": 184280,
+        "word": "陈好都开始演妈了",
+        "onboard_time": 1696644034,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175041,
+        "num": 175041,
+        "word": "巴黎时装周中国艺人影响力前十",
+        "onboard_time": 1696664135,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 168415,
+        "num": 168415,
+        "word": "黄元芯的爸爸",
+        "onboard_time": 1696646614,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167614,
+        "num": 167614,
+        "word": "时间定了油价要跌",
+        "onboard_time": 1696667497,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160359,
+        "num": 160359,
+        "word": "这张蟹卡系刷单骗局",
+        "onboard_time": 1696664915,
+        "rank": 43,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 161751,
+        "num": 159507,
+        "word": "新女婿干不出这事",
+        "onboard_time": 1696666715,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153330,
+        "num": 153330,
+        "word": "孕妇早产交警紧急开道提前送达",
+        "onboard_time": 1696665878,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152022,
+        "num": 152022,
+        "word": "王曼昱女单晋级4强",
+        "onboard_time": 1696664557,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140910,
+        "num": 149200,
+        "word": "海滩走失女童在水边摔倒后消失在海浪中",
+        "onboard_time": 1696647696,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146729,
+        "num": 146729,
+        "word": "上海4岁女童失踪已超60小时",
+        "onboard_time": 1696653223,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143858,
+        "num": 143858,
+        "word": "第一次见女主是癞蛤蟆的",
+        "onboard_time": 1696653465,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#一组数据看活力满满的中国#"
+    }
+  }
+}

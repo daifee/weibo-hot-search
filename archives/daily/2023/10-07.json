@@ -1,6 +1,6 @@
 {
   "startTime": 1696609365577,
-  "endTime": 1696666780413,
+  "endTime": 1696667661958,
   "band_list": [
     {
       "raw_hot": 4651506,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2215047,
+      "num": 2215047,
+      "word": "仅0.4%主播月收入超10万",
+      "onboard_time": 1696664557,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1942905,
       "num": 1942905,
       "word": "学生打数十个电话举报学校假期补课",
@@ -57,14 +65,6 @@
       "onboard_time": 1696644337,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1911629,
-      "num": 1911629,
-      "word": "仅0.4%主播月收入超10万",
-      "onboard_time": 1696664557,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1868410,
@@ -217,6 +217,14 @@
       "onboard_time": 1696647696,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 972782,
+      "num": 972782,
+      "word": "张杰谈签下杨和苏",
+      "onboard_time": 1696666300,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 919625,
@@ -435,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625599,
+      "num": 625599,
+      "word": "林高远vs张本智和",
+      "onboard_time": 1696666117,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 614332,
       "num": 614332,
       "word": "专家称调休初衷是好的",
@@ -523,6 +539,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 578974,
+      "num": 355292,
+      "word": "工资高又不卷的工作",
+      "onboard_time": 1696666959,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 575238,
       "num": 444561,
       "word": "姚明回应为何换掉杜锋",
@@ -539,8 +563,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 561243,
-      "num": 561243,
+      "raw_hot": 563977,
+      "num": 563977,
       "word": "中国银行原董事长刘连舸被开除党籍",
       "onboard_time": 1696664257,
       "rank": 6,
@@ -563,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 529264,
+      "num": 507910,
+      "word": "回家第一件事查父母手机",
+      "onboard_time": 1696665517,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 521240,
       "num": 336593,
       "word": "看到公司墙上的口号想离职了",
@@ -577,6 +609,14 @@
       "onboard_time": 1696663116,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 515862,
+      "num": 515862,
+      "word": "花西子审美",
+      "onboard_time": 1696667439,
+      "rank": 9,
+      "category": "美妆"
     },
     {
       "raw_hot": 508252,
@@ -619,6 +659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 487778,
+      "num": 487778,
+      "word": "王鹤棣白鹿以爱为营最新路透",
+      "onboard_time": 1696666835,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 485115,
       "num": 485115,
       "word": "迪丽热巴 万渣朝凰",
@@ -633,14 +681,6 @@
       "onboard_time": 1696640076,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 468536,
-      "num": 468536,
-      "word": "回家第一件事查父母手机",
-      "onboard_time": 1696665517,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 463072,
@@ -673,14 +713,6 @@
       "onboard_time": 1696663237,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 443329,
-      "num": 443329,
-      "word": "张杰谈签下杨和苏",
-      "onboard_time": 1696666300,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 443235,
@@ -809,14 +841,6 @@
       "onboard_time": 1696650518,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 369893,
-      "num": 369893,
-      "word": "林高远vs张本智和",
-      "onboard_time": 1696666117,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 366966,
@@ -1339,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208807,
+      "num": 208807,
+      "word": "张小斐演的林双这段话治好了我的焦虑",
+      "onboard_time": 1696666899,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205798,
       "num": 595132,
       "word": "葛曼棋的哪吒头是为激励自己不服输",
@@ -1353,6 +1385,22 @@
       "onboard_time": 1696658199,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204223,
+      "num": 204223,
+      "word": "做过外卖员的他30岁破格进入国家队",
+      "onboard_time": 1696667318,
+      "rank": 35,
+      "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 203549,
+      "num": 203549,
+      "word": "男朋友说闻到我要来大姨妈了",
+      "onboard_time": 1696667439,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 203236,
@@ -1595,20 +1643,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175041,
+      "num": 175041,
+      "word": "巴黎时装周中国艺人影响力前十",
+      "onboard_time": 1696664135,
+      "rank": 42,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 172424,
       "num": 172424,
       "word": "这张蟹卡系刷单骗局",
       "onboard_time": 1696664915,
       "rank": 41,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 172138,
-      "num": 172138,
-      "word": "巴黎时装周中国艺人影响力前十",
-      "onboard_time": 1696664135,
-      "rank": 42,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 169235,
@@ -1641,6 +1689,14 @@
       "onboard_time": 1696665758,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167614,
+      "num": 167614,
+      "word": "时间定了油价要跌",
+      "onboard_time": 1696667497,
+      "rank": 42,
+      "category": "财经"
     },
     {
       "raw_hot": 166881,
