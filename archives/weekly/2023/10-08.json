@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696728998096,
+  "endTime": 1696731928781,
   "band_list": [
     {
       "raw_hot": 2258122,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 2210947,
-      "num": 453675,
+      "num": 510519,
       "word": "挖呀挖黄老师5场直播销售额超百万",
       "onboard_time": 1696722512,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2002912,
+      "num": 2002912,
+      "word": "在成都失联超半月女子遗体被找到",
+      "onboard_time": 1696728156,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1998192,
@@ -59,6 +67,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1236081,
+      "num": 1236081,
+      "word": "老乡鸡",
+      "onboard_time": 1696730496,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1130964,
       "num": 1130964,
       "word": "终于知道为什么手术线会消失了",
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 1101684,
-      "num": 450692,
+      "num": 503814,
       "word": "千万不要穿抹胸去吃火锅",
       "onboard_time": 1696721127,
       "rank": 30,
@@ -123,20 +139,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 566702,
-      "num": 236031,
-      "word": "在成都失联超半月女子遗体被找到",
-      "onboard_time": 1696728156,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 550184,
       "num": 310988,
       "word": "母女双双吃蒸苹果的后果",
       "onboard_time": 1696683219,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 534889,
+      "num": 534889,
+      "word": "你那不叫勇敢叫家里有钱",
+      "onboard_time": 1696729413,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 515519,
@@ -147,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 513454,
+      "num": 513454,
+      "word": "37岁的他用自己的身体搅拌泥浆",
+      "onboard_time": 1696727673,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500969,
       "num": 500969,
       "word": "奥纳纳丢球",
       "onboard_time": 1696690120,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 485508,
+      "num": 485508,
+      "word": "她怎么躺在Windows桌面啊",
+      "onboard_time": 1696727017,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 466082,
@@ -171,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 458688,
+      "num": 437995,
+      "word": "以色列总理强硬表态",
+      "onboard_time": 1696730254,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 445871,
       "num": 445871,
       "word": "小沈阳满脸写着我想逃",
@@ -179,12 +219,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 442119,
-      "num": 233970,
-      "word": "她怎么躺在Windows桌面啊",
-      "onboard_time": 1696727017,
-      "rank": 30,
-      "category": "旅游"
+      "raw_hot": 444828,
+      "num": 444828,
+      "word": "iPhone15美国市场销量或陷入停滞",
+      "onboard_time": 1696729596,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 432716,
@@ -211,11 +251,19 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 398350,
-      "num": 398350,
-      "word": "37岁的他用自己的身体搅拌泥浆",
-      "onboard_time": 1696727673,
-      "rank": 35,
+      "raw_hot": 395288,
+      "num": 395288,
+      "word": "2024年考研报名正式开启",
+      "onboard_time": 1696728456,
+      "rank": 24,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 390813,
+      "num": 358464,
+      "word": "清华本硕博放弃北京中产去往非洲",
+      "onboard_time": 1696729774,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -243,6 +291,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 367851,
+      "num": 367851,
+      "word": "奥特曼婚纱",
+      "onboard_time": 1696731034,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 345864,
       "num": 437583,
       "word": "亚运史上第1块霹雳舞金牌",
@@ -267,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337638,
+      "num": 337638,
+      "word": "电影河边的错误定档",
+      "onboard_time": 1696731637,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 329775,
       "num": 329775,
       "word": "吉鲁扑单刀",
@@ -281,6 +345,14 @@
       "onboard_time": 1696668159,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 313690,
+      "num": 313690,
+      "word": "毛晓彤甜妹",
+      "onboard_time": 1696729714,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 311592,
@@ -305,6 +377,14 @@
       "onboard_time": 1696689763,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 301724,
+      "num": 301724,
+      "word": "官方通报防火指挥中心大屏播放不雅画面",
+      "onboard_time": 1696730436,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296325,
@@ -339,6 +419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 262615,
+      "num": 459242,
+      "word": "北京奥运外套再现杭州亚运还很新",
+      "onboard_time": 1696730973,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256321,
       "num": 256321,
       "word": "王楚钦决胜局11比0",
@@ -369,14 +457,6 @@
       "onboard_time": 1696725637,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 247474,
-      "num": 247474,
-      "word": "2024年考研报名正式开启",
-      "onboard_time": 1696728456,
-      "rank": 24,
-      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 240283,
@@ -411,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 219347,
+      "num": 219347,
+      "word": "专家建议增加学生春假",
+      "onboard_time": 1696731214,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216242,
       "num": 216242,
       "word": "丁霞哭了",
@@ -443,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210221,
+      "num": 210221,
+      "word": "歌迷看薛之谦演唱会被抬出送医",
+      "onboard_time": 1696729294,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 210088,
       "num": 210088,
       "word": "谭爷爷亲自示范教花花滑滑梯",
@@ -467,12 +563,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206479,
+      "num": 206479,
+      "word": "梅西复出替补",
+      "onboard_time": 1696729956,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204215,
       "num": 187643,
       "word": "虞书欣你怎么骗人啊",
       "onboard_time": 1696691738,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202852,
+      "num": 202852,
+      "word": "千朵桃花一世开",
+      "onboard_time": 1696730913,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 200729,
@@ -497,6 +609,14 @@
       "onboard_time": 1696720705,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194421,
+      "num": 194421,
+      "word": "叙利亚霍姆斯军事学院发生自杀式无人机袭击",
+      "onboard_time": 1696731393,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 190932,
@@ -547,6 +667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178488,
+      "num": 178488,
+      "word": "魏大勋新角色也太惨了吧",
+      "onboard_time": 1696731273,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177513,
       "num": 177513,
       "word": "气血不足先学会忌口",
@@ -561,6 +689,14 @@
       "onboard_time": 1696688206,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171116,
+      "num": 171116,
+      "word": "河边的错误",
+      "onboard_time": 1696731871,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 171089,
@@ -625,6 +761,30 @@
       "onboard_time": 1696672419,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 147459,
+      "num": 147459,
+      "word": "民警凌晨救下轻生男子后说睡不着了",
+      "onboard_time": 1696730135,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144472,
+      "num": 144472,
+      "word": "我国航天事业创建67周年",
+      "onboard_time": 1696730615,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142971,
+      "num": 142971,
+      "word": "赵今麦8岁到21岁荧幕变化",
+      "onboard_time": 1696731813,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 141478,
