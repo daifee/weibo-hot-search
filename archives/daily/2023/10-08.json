@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696757650150,
+  "endTime": 1696760193734,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 1417695,
-      "num": 544490,
+      "num": 659686,
       "word": "夜店文化倒退十年",
       "onboard_time": 1696753296,
       "rank": 11,
@@ -171,6 +171,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1254566,
+      "num": 1254566,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1696756655,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1238241,
+      "num": 1238241,
+      "word": "是东北菜量大不是东北菜量大",
+      "onboard_time": 1696758154,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1186413,
       "num": 1186413,
       "word": "李子柒油管粉丝不降反升",
@@ -193,14 +209,6 @@
       "onboard_time": 1696721127,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1098067,
-      "num": 1098067,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1696756655,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 1061178,
@@ -235,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1000456,
+      "num": 1000456,
+      "word": "以色列中国留学生发声",
+      "onboard_time": 1696756294,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1000105,
       "num": 1000105,
       "word": "王楚钦vs林高远",
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 972663,
-      "num": 453586,
+      "num": 647456,
       "word": "女司机撞倒行人用卫生巾帮止血",
       "onboard_time": 1696754076,
       "rank": 11,
@@ -347,6 +363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 680190,
+      "num": 611094,
+      "word": "K435列车命案嫌犯被鉴定为精神病人",
+      "onboard_time": 1696759056,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673004,
       "num": 673004,
       "word": "奥特曼婚纱",
@@ -369,6 +393,14 @@
       "onboard_time": 1696750535,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 668157,
+      "num": 668157,
+      "word": "王者荣耀仍居中国手游收入榜首",
+      "onboard_time": 1696757974,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 660672,
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 627141,
-      "num": 627141,
+      "num": 1238493,
       "word": "女子帮离世闺蜜照护女儿14年",
       "onboard_time": 1696748133,
       "rank": 23,
@@ -467,6 +499,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 591182,
+      "num": 591182,
+      "word": "为什么年轻人都反感加班",
+      "onboard_time": 1696758333,
+      "rank": 15,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 589674,
       "num": 589674,
       "word": "烬相思定档",
@@ -481,6 +521,14 @@
       "onboard_time": 1696671876,
       "rank": 34,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 580277,
+      "num": 232803,
+      "word": "以色列建国史",
+      "onboard_time": 1696757913,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 573998,
@@ -579,6 +627,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 511614,
+      "num": 511614,
+      "word": "丁程鑫出发录制这就是街舞",
+      "onboard_time": 1696758514,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 507084,
       "num": 507084,
       "word": "勇士战胜湖人",
@@ -619,12 +675,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 476830,
-      "num": 318022,
-      "word": "以色列中国留学生发声",
-      "onboard_time": 1696756294,
-      "rank": 45,
-      "category": "国外要闻"
+      "raw_hot": 476753,
+      "num": 476753,
+      "word": "第一次见到婚礼回礼给银子的",
+      "onboard_time": 1696757672,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 476605,
@@ -683,6 +739,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 454791,
+      "num": 454791,
+      "word": "陈雨菲最后一届亚运会",
+      "onboard_time": 1696758936,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 451059,
       "num": 451059,
       "word": "成毅张予曦付辛博豪门秋日大片",
@@ -736,6 +800,14 @@
       "word": "肖战原野漫步好迷人",
       "onboard_time": 1696750895,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 425531,
+      "num": 425531,
+      "word": "高圆圆生图",
+      "onboard_time": 1696759174,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -1068,7 +1140,7 @@
     },
     {
       "raw_hot": 287040,
-      "num": 287040,
+      "num": 1239222,
       "word": "男孩偷拿300元民警配合沉浸式教育",
       "onboard_time": 1696750417,
       "rank": 31,
@@ -1147,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 269952,
+      "num": 269952,
+      "word": "章子怡大花风采",
+      "onboard_time": 1696759295,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264857,
       "num": 264857,
       "word": "SMTOWN虚拟偶像Naevis明年出道",
@@ -1177,6 +1257,14 @@
       "onboard_time": 1696747714,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261723,
+      "num": 261723,
+      "word": "宋亚轩 奇迹轩轩",
+      "onboard_time": 1696757614,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 261222,
@@ -1403,6 +1491,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 221389,
+      "num": 1090027,
+      "word": "杭州亚运会闭幕式数字火炬人将返场",
+      "onboard_time": 1696757072,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216242,
       "num": 216242,
       "word": "丁霞哭了",
@@ -1499,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206729,
+      "num": 206729,
+      "word": "杨丞琳健身魔人",
+      "onboard_time": 1696759535,
+      "rank": 34,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 206479,
       "num": 206479,
       "word": "梅西复出替补",
@@ -1569,6 +1673,14 @@
       "onboard_time": 1696753594,
       "rank": 37,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 200965,
+      "num": 200965,
+      "word": "蒋依依模仿手机壳",
+      "onboard_time": 1696757373,
+      "rank": 40,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 200729,
@@ -1689,14 +1801,6 @@
       "onboard_time": 1696732355,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183129,
-      "num": 183129,
-      "word": "蒋依依模仿手机壳",
-      "onboard_time": 1696757373,
-      "rank": 40,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 182330,
@@ -1851,6 +1955,22 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 163297,
+      "num": 163297,
+      "word": "垃圾line合作舞台",
+      "onboard_time": 1696759953,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162689,
+      "num": 162689,
+      "word": "网友在草原偶遇毛阿敏文淇",
+      "onboard_time": 1696758873,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160884,
       "num": 160884,
       "word": "封神台词之活字乱刷术",
@@ -1865,6 +1985,14 @@
       "onboard_time": 1696684417,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159792,
+      "num": 159792,
+      "word": "谁来心疼一下炎啊",
+      "onboard_time": 1696758757,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 158820,
@@ -1915,20 +2043,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 145079,
-      "num": 145079,
-      "word": "宋亚轩 奇迹轩轩",
-      "onboard_time": 1696757614,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 144500,
       "num": 144500,
       "word": "我国航天事业创建67周年",
       "onboard_time": 1696730615,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143800,
+      "num": 143800,
+      "word": "曾舜晞被撩得耳朵都红了",
+      "onboard_time": 1696759833,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 141478,
@@ -2003,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122388,
-      "num": 346044,
-      "word": "杭州亚运会闭幕式数字火炬人将返场",
-      "onboard_time": 1696757072,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117893,
       "num": 117893,
       "word": "黄景瑜是会安慰张凌赫的",
@@ -2049,6 +2169,14 @@
       "onboard_time": 1696678536,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106110,
+      "num": 136129,
+      "word": "盘点杭州亚运会背后的科技力量",
+      "onboard_time": 1696759354,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 105934,

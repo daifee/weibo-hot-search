@@ -1,0 +1,410 @@
+{
+  "runTime": 1696760193734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1383548,
+        "num": 1383548,
+        "word": "李子柒消失两年还会被偏爱吗",
+        "onboard_time": 1696747895,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1254566,
+        "num": 1254566,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1696756655,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57474,
+        "num": 1240433,
+        "word": "中国航天67岁生日快乐",
+        "onboard_time": 1696752936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274831,
+        "num": 1239222,
+        "word": "男孩偷拿300元民警配合沉浸式教育",
+        "onboard_time": 1696750417,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427261,
+        "num": 1238493,
+        "word": "女子帮离世闺蜜照护女儿14年",
+        "onboard_time": 1696748133,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1238241,
+        "num": 1238241,
+        "word": "是东北菜量大不是东北菜量大",
+        "onboard_time": 1696758154,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 221389,
+        "num": 1090027,
+        "word": "杭州亚运会闭幕式数字火炬人将返场",
+        "onboard_time": 1696757072,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1000456,
+        "num": 1000456,
+        "word": "以色列中国留学生发声",
+        "onboard_time": 1696756294,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 764784,
+        "num": 764784,
+        "word": "李子柒油管粉丝不降反升",
+        "onboard_time": 1696753959,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 668157,
+        "num": 668157,
+        "word": "王者荣耀仍居中国手游收入榜首",
+        "onboard_time": 1696757974,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1186773,
+        "num": 659686,
+        "word": "夜店文化倒退十年",
+        "onboard_time": 1696753296,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 823042,
+        "num": 647456,
+        "word": "女司机撞倒行人用卫生巾帮止血",
+        "onboard_time": 1696754076,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 719318,
+        "num": 628438,
+        "word": "江歌妈妈已成立传媒公司",
+        "onboard_time": 1696742502,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680190,
+        "num": 611094,
+        "word": "K435列车命案嫌犯被鉴定为精神病人",
+        "onboard_time": 1696759056,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129176,
+        "num": 598461,
+        "word": "中方就巴以冲突表态",
+        "onboard_time": 1696734935,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 591182,
+        "num": 591182,
+        "word": "为什么年轻人都反感加班",
+        "onboard_time": 1696758333,
+        "rank": 15,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 511614,
+        "num": 511614,
+        "word": "丁程鑫出发录制这就是街舞",
+        "onboard_time": 1696758514,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 476753,
+        "num": 476753,
+        "word": "第一次见到婚礼回礼给银子的",
+        "onboard_time": 1696757672,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 458436,
+        "num": 458436,
+        "word": "边伯贤 抗日神剧",
+        "onboard_time": 1696749875,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454791,
+        "num": 454791,
+        "word": "陈雨菲最后一届亚运会",
+        "onboard_time": 1696758936,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 443518,
+        "num": 443518,
+        "word": "以色列",
+        "onboard_time": 1696743398,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 434832,
+        "num": 434832,
+        "word": "女生买炸鸡付款一看两百万",
+        "onboard_time": 1696747472,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425531,
+        "num": 425531,
+        "word": "高圆圆生图",
+        "onboard_time": 1696759174,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335132,
+        "num": 335132,
+        "word": "陈奕迅演唱会志愿者称被性骚扰",
+        "onboard_time": 1696754915,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 330298,
+        "num": 330298,
+        "word": "三喜给自己化的妆我要笑死了",
+        "onboard_time": 1696750535,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 283999,
+        "num": 283999,
+        "word": "蒲熠星终于来对地方了",
+        "onboard_time": 1696753838,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269952,
+        "num": 269952,
+        "word": "章子怡大花风采",
+        "onboard_time": 1696759295,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261723,
+        "num": 261723,
+        "word": "宋亚轩 奇迹轩轩",
+        "onboard_time": 1696757614,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255211,
+        "num": 255211,
+        "word": "拖把兄弟 吸氧兄弟",
+        "onboard_time": 1696751860,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241313,
+        "num": 241313,
+        "word": "兰州站王楚钦马龙争冠",
+        "onboard_time": 1696754076,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580277,
+        "num": 232803,
+        "word": "以色列建国史",
+        "onboard_time": 1696757913,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 212839,
+        "num": 212839,
+        "word": "上海4岁女童走失事发海滩并非景点",
+        "onboard_time": 1696746573,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212535,
+        "num": 212535,
+        "word": "老乡鸡董事长亲自在餐厅端盘子",
+        "onboard_time": 1696754377,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 209918,
+        "num": 209918,
+        "word": "肖战原野漫步好迷人",
+        "onboard_time": 1696750895,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206729,
+        "num": 206729,
+        "word": "杨丞琳健身魔人",
+        "onboard_time": 1696759535,
+        "rank": 34,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 205723,
+        "num": 205723,
+        "word": "马龙外战",
+        "onboard_time": 1696751134,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204083,
+        "num": 204083,
+        "word": "小米高级副总裁张峰将离职",
+        "onboard_time": 1696754316,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 200965,
+        "num": 200965,
+        "word": "蒋依依模仿手机壳",
+        "onboard_time": 1696757373,
+        "rank": 37,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 190453,
+        "num": 190453,
+        "word": "NCT127和时代少年团专辑封面相似度",
+        "onboard_time": 1696749033,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 188865,
+        "num": 188865,
+        "word": "孙子玩奶奶手机被骗验证码险丢30000元",
+        "onboard_time": 1696757196,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182330,
+        "num": 182330,
+        "word": "迪丽热巴看鲸鱼被偶遇",
+        "onboard_time": 1696745257,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163297,
+        "num": 163297,
+        "word": "垃圾line合作舞台",
+        "onboard_time": 1696759953,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162689,
+        "num": 162689,
+        "word": "网友在草原偶遇毛阿敏文淇",
+        "onboard_time": 1696758873,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161363,
+        "num": 161363,
+        "word": "王楚钦3比0林高远",
+        "onboard_time": 1696750597,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159792,
+        "num": 159792,
+        "word": "谁来心疼一下炎啊",
+        "onboard_time": 1696758757,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148339,
+        "num": 148339,
+        "word": "老乡鸡",
+        "onboard_time": 1696730496,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143800,
+        "num": 143800,
+        "word": "曾舜晞被撩得耳朵都红了",
+        "onboard_time": 1696759833,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113412,
+        "num": 136374,
+        "word": "有的甜宠剧能不能别太性缘脑",
+        "onboard_time": 1696736137,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106110,
+        "num": 136129,
+        "word": "盘点杭州亚运会背后的科技力量",
+        "onboard_time": 1696759354,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135980,
+        "num": 135980,
+        "word": "网传杨紫将出演国色芳华",
+        "onboard_time": 1696749819,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会纪念短片#"
+    }
+  }
+}
