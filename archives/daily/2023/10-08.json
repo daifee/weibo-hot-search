@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696775657065,
+  "endTime": 1696778154672,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -283,11 +283,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1278527,
+      "num": 1088510,
+      "word": "男孩游泳池溺亡10分钟无人救援",
+      "onboard_time": 1696773105,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1269135,
       "num": 1269135,
       "word": "以巴爆发大规模冲突造成严重伤亡",
       "onboard_time": 1696688262,
       "rank": 0,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1224555,
+      "num": 1083162,
+      "word": "以色列正式向哈马斯宣战",
+      "onboard_time": 1696772262,
+      "rank": 7,
       "category": "国外要闻"
     },
     {
@@ -305,6 +321,14 @@
       "onboard_time": 1696767816,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1165339,
+      "num": 1165339,
+      "word": "姚瑶自首了",
+      "onboard_time": 1696773461,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1130964,
@@ -331,6 +355,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1102419,
+      "num": 1102419,
+      "word": "原来康辉去年就催过了",
+      "onboard_time": 1696774422,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1101684,
       "num": 736175,
       "word": "千万不要穿抹胸去吃火锅",
@@ -345,14 +377,6 @@
       "onboard_time": 1696761696,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1067972,
-      "num": 1067972,
-      "word": "姚瑶自首了",
-      "onboard_time": 1696773461,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 1061178,
@@ -379,20 +403,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1033086,
+      "num": 1033086,
+      "word": "下届亚运会在日本名古屋举办",
+      "onboard_time": 1696773039,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1032846,
       "num": 665705,
       "word": "生理期前到底会有哪些迹象",
       "onboard_time": 1696689763,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1031384,
-      "num": 1031384,
-      "word": "下届亚运会在日本名古屋举办",
-      "onboard_time": 1696773039,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 1017394,
@@ -431,14 +455,6 @@
       "num": 704160,
       "word": "女司机撞倒行人用卫生巾帮止血",
       "onboard_time": 1696754076,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 957220,
-      "num": 957220,
-      "word": "男孩游泳池溺亡10分钟无人救援",
-      "onboard_time": 1696773105,
       "rank": 11,
       "category": "社会新闻"
     },
@@ -491,14 +507,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 820733,
-      "num": 820733,
-      "word": "以色列正式向哈马斯宣战",
-      "onboard_time": 1696772262,
-      "rank": 7,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 811550,
       "num": 517990,
       "word": "女生买炸鸡付款一看两百万",
@@ -547,6 +555,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 755696,
+      "num": 755696,
+      "word": "基普图姆打破马拉松世界纪录",
+      "onboard_time": 1696777002,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 749818,
       "num": 749818,
       "word": "pdf写罪状录",
@@ -569,6 +585,14 @@
       "onboard_time": 1696771300,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 709680,
+      "num": 709680,
+      "word": "以色列称一名中以混血女孩被绑架",
+      "onboard_time": 1696773039,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 709009,
@@ -603,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 678045,
+      "num": 678045,
+      "word": "海边走失4岁女童爸爸发声",
+      "onboard_time": 1696772081,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 673004,
       "num": 673004,
       "word": "奥特曼婚纱",
@@ -633,14 +665,6 @@
       "onboard_time": 1696757974,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 661242,
-      "num": 661242,
-      "word": "原来康辉去年就催过了",
-      "onboard_time": 1696774422,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 660672,
@@ -689,14 +713,6 @@
       "onboard_time": 1696749819,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 633330,
-      "num": 633330,
-      "word": "以色列称一名中以混血女孩被绑架",
-      "onboard_time": 1696773039,
-      "rank": 15,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 627566,
@@ -752,14 +768,6 @@
       "word": "狗子误食3斤泡酒杨梅醉倒后死亡",
       "onboard_time": 1696735897,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 596581,
-      "num": 596581,
-      "word": "海边走失4岁女童爸爸发声",
-      "onboard_time": 1696772081,
-      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -1043,6 +1051,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 455856,
+      "num": 354483,
+      "word": "女子吃烤栗子被炸嘴肿得张不开",
+      "onboard_time": 1696776637,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 451059,
       "num": 451059,
       "word": "成毅张予曦付辛博豪门秋日大片",
@@ -1057,6 +1073,14 @@
       "onboard_time": 1696743516,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448181,
+      "num": 448181,
+      "word": "天官赐福动画2片尾曲",
+      "onboard_time": 1696777297,
+      "rank": 15,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 447791,
@@ -1195,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 388343,
+      "num": 388343,
+      "word": "豆瓣8分剧还有公信力吗",
+      "onboard_time": 1696777478,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386451,
       "num": 386451,
       "word": "中国队杭州亚运会201金收官",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1696689638,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380675,
+      "num": 449147,
+      "word": "冯琳主持人大赛第一名晋级",
+      "onboard_time": 1696777600,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 378560,
@@ -1281,6 +1321,14 @@
       "onboard_time": 1696742617,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 355579,
+      "num": 355579,
+      "word": "88元一位的炒饭",
+      "onboard_time": 1696771237,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 355395,
@@ -1393,14 +1441,6 @@
       "onboard_time": 1696729714,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 331617,
-      "num": 331617,
-      "word": "88元一位的炒饭",
-      "onboard_time": 1696771237,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 331328,
@@ -1619,6 +1659,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 281463,
+      "num": 249000,
+      "word": "国乒小时候有多可爱",
+      "onboard_time": 1696777360,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280712,
       "num": 280712,
       "word": "陈楚生一个字把胡兵大脑整宕机了",
@@ -1785,6 +1833,14 @@
       "onboard_time": 1696748074,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250698,
+      "num": 250698,
+      "word": "杨超越清冷感",
+      "onboard_time": 1696775321,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 250271,
@@ -1979,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228046,
-      "num": 228046,
-      "word": "杨超越清冷感",
-      "onboard_time": 1696775321,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226423,
       "num": 226423,
       "word": "一等功海军飞行员再添一喜",
@@ -2155,12 +2203,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206812,
+      "num": 206812,
+      "word": "被黄晓明这段话打动了",
+      "onboard_time": 1696776762,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206729,
       "num": 206729,
       "word": "杨丞琳健身魔人",
       "onboard_time": 1696759535,
       "rank": 34,
       "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 206566,
+      "num": 206566,
+      "word": "文俊辉妍珍同框了",
+      "onboard_time": 1696778138,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 206479,
@@ -2233,6 +2297,14 @@
       "onboard_time": 1696730913,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202453,
+      "num": 202453,
+      "word": "光良一开口我的青春回来了",
+      "onboard_time": 1696775079,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 201772,
@@ -2353,14 +2425,6 @@
       "onboard_time": 1696749995,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191482,
-      "num": 183580,
-      "word": "光良一开口我的青春回来了",
-      "onboard_time": 1696775079,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 191232,
@@ -2627,6 +2691,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 167211,
+      "num": 167211,
+      "word": "芝加哥马拉松",
+      "onboard_time": 1696776822,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164905,
       "num": 164905,
       "word": "霹雳舞决赛放的是热烈主题曲",
@@ -2673,6 +2745,14 @@
       "onboard_time": 1696758757,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159210,
+      "num": 159210,
+      "word": "闪耀亚运她瞬间",
+      "onboard_time": 1696775860,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 158820,
@@ -2795,6 +2875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128294,
+      "num": 1215029,
+      "word": "杭州亚运会闭幕式精彩瞬间揭秘",
+      "onboard_time": 1696772383,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127040,
       "num": 127040,
       "word": "长相思与狐妖小红娘将同期播出",
@@ -2833,14 +2921,6 @@
       "onboard_time": 1696719021,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113790,
-      "num": 1215029,
-      "word": "杭州亚运会闭幕式精彩瞬间揭秘",
-      "onboard_time": 1696772383,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 109739,
