@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696746862275,
+  "endTime": 1696749267257,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1857918,
+      "num": 1857918,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1696746335,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1852094,
       "num": 1852094,
       "word": "别再把糖色当成离谱剧情保护色",
@@ -121,6 +129,14 @@
       "onboard_time": 1696734036,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1281735,
+      "num": 1281735,
+      "word": "弄丢涉密文件女孩哭诉要失业民警解困",
+      "onboard_time": 1696743695,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1269135,
@@ -171,11 +187,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1013800,
-      "num": 1013800,
-      "word": "弄丢涉密文件女孩哭诉要失业民警解困",
-      "onboard_time": 1696743695,
-      "rank": 4,
+      "raw_hot": 860193,
+      "num": 860193,
+      "word": "李健 希望大家少经受挫折磨难",
+      "onboard_time": 1696747533,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 811550,
+      "num": 356844,
+      "word": "女生买炸鸡付款一看两百万",
+      "onboard_time": 1696747472,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -196,11 +220,19 @@
     },
     {
       "raw_hot": 765898,
-      "num": 561089,
+      "num": 622353,
       "word": "以色列",
       "onboard_time": 1696661376,
       "rank": 40,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 749818,
+      "num": 749818,
+      "word": "pdf写罪状录",
+      "onboard_time": 1696745015,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 728211,
@@ -233,6 +265,14 @@
       "onboard_time": 1696737520,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 666451,
+      "num": 666451,
+      "word": "每天两片烤馒头片拯救了我的胃",
+      "onboard_time": 1696746273,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 653784,
@@ -331,12 +371,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 562580,
-      "num": 562580,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1696746335,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 551417,
+      "num": 551417,
+      "word": "上海4岁女童走失事发海滩并非景点",
+      "onboard_time": 1696746573,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551041,
+      "num": 551041,
+      "word": "迪丽热巴看鲸鱼被偶遇",
+      "onboard_time": 1696745257,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 550820,
@@ -353,14 +401,6 @@
       "onboard_time": 1696683219,
       "rank": 20,
       "category": "美食"
-    },
-    {
-      "raw_hot": 546752,
-      "num": 546752,
-      "word": "迪丽热巴看鲸鱼被偶遇",
-      "onboard_time": 1696745257,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 541788,
@@ -427,12 +467,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 501956,
-      "num": 501956,
-      "word": "pdf写罪状录",
-      "onboard_time": 1696745015,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 501338,
+      "num": 356841,
+      "word": "李子柒消失两年还会被偏爱吗",
+      "onboard_time": 1696747895,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 500969,
@@ -505,6 +545,14 @@
       "onboard_time": 1696743516,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 450184,
+      "num": 450184,
+      "word": "NCT127和时代少年团专辑封面相似度",
+      "onboard_time": 1696749033,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 445871,
@@ -619,12 +667,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 361413,
+      "num": 556023,
+      "word": "阿富汗西部地震已致超2000人遇难",
+      "onboard_time": 1696746933,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358217,
       "num": 358217,
       "word": "王阳体重只有130斤",
       "onboard_time": 1696742617,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356848,
+      "num": 356848,
+      "word": "丞磊痛失艺名",
+      "onboard_time": 1696748794,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 349948,
+      "num": 349948,
+      "word": "女子帮离世闺蜜照护女儿14年",
+      "onboard_time": 1696748133,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 345864,
@@ -867,6 +939,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263289,
+      "num": 263289,
+      "word": "陈梦晋级女单决赛",
+      "onboard_time": 1696746755,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263249,
+      "num": 263249,
+      "word": "谁还记得小耳朵时期的陈都灵",
+      "onboard_time": 1696747714,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 261222,
       "num": 261222,
       "word": "外公查寄宿孙女饭卡记录担心吃不好",
@@ -883,12 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255275,
-      "num": 255275,
-      "word": "每天两片烤馒头片拯救了我的胃",
-      "onboard_time": 1696746273,
-      "rank": 26,
-      "category": "美食"
+      "raw_hot": 251245,
+      "num": 251245,
+      "word": "海事部门已对走失女童开展搜救",
+      "onboard_time": 1696748074,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250088,
@@ -1099,20 +1187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 208602,
-      "num": 208602,
-      "word": "上海4岁女童走失事发海滩并非景点",
-      "onboard_time": 1696746573,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208486,
       "num": 208486,
       "word": "黄渤去了张艺兴演唱会",
       "onboard_time": 1696723357,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208170,
+      "num": 208170,
+      "word": "亚运闭幕式大莲花变身大花园",
+      "onboard_time": 1696748675,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 207152,
@@ -1243,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 189717,
+      "num": 189717,
+      "word": "李盈莹这一幕太让人心疼了",
+      "onboard_time": 1696749033,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187297,
       "num": 187297,
       "word": "成龙去了张艺兴演唱会",
@@ -1291,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180213,
+      "num": 180213,
+      "word": "李梦回应带妆比赛",
+      "onboard_time": 1696749094,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179674,
       "num": 179674,
       "word": "Liz哭了",
@@ -1323,6 +1427,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177105,
+      "num": 177105,
+      "word": "文俊辉出席釜山电影节",
+      "onboard_time": 1696748675,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172883,
       "num": 172883,
       "word": "跟交警坦白我想闯红灯结果太温暖",
@@ -1353,14 +1465,6 @@
       "onboard_time": 1696683820,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 171049,
-      "num": 171049,
-      "word": "陈梦晋级女单决赛",
-      "onboard_time": 1696746755,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 169485,
@@ -1441,6 +1545,14 @@
       "onboard_time": 1696672419,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 155820,
+      "num": 155820,
+      "word": "你有年轻人的秋天三件套吗",
+      "onboard_time": 1696749094,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 147459,
@@ -1731,20 +1843,20 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 43552,
+      "num": 1765615,
+      "word": "沉浸式感受古人的秋日浪漫",
+      "onboard_time": 1696738360,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41536,
       "num": 540470,
       "word": "国羽高燃4金收官",
       "onboard_time": 1696734036,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31283,
-      "num": 289083,
-      "word": "沉浸式感受古人的秋日浪漫",
-      "onboard_time": 1696738360,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28321,

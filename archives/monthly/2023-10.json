@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696746862275,
+  "endTime": 1696749267257,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -904,6 +904,14 @@
       "word": "早田希娜 擦边",
       "onboard_time": 1696150592,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1857918,
+      "num": 1857918,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1696746335,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1843,6 +1851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1281735,
+      "num": 1281735,
+      "word": "弄丢涉密文件女孩哭诉要失业民警解困",
+      "onboard_time": 1696743695,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1272801,
       "num": 1272801,
       "word": "亚运会乒乓球男单决赛",
@@ -2489,14 +2505,6 @@
       "onboard_time": 1696158877,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1013800,
-      "num": 1013800,
-      "word": "弄丢涉密文件女孩哭诉要失业民警解困",
-      "onboard_time": 1696743695,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1013533,
@@ -3155,6 +3163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 860193,
+      "num": 860193,
+      "word": "李健 希望大家少经受挫折磨难",
+      "onboard_time": 1696747533,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 858914,
       "num": 858914,
       "word": "五台县7人窒息死亡初判系一氧化碳中毒",
@@ -3377,6 +3393,14 @@
       "onboard_time": 1696341760,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 811550,
+      "num": 356844,
+      "word": "女生买炸鸡付款一看两百万",
+      "onboard_time": 1696747472,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 808720,
@@ -3785,6 +3809,14 @@
       "onboard_time": 1696476755,
       "rank": 30,
       "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 749818,
+      "num": 749818,
+      "word": "pdf写罪状录",
+      "onboard_time": 1696745015,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 746020,
@@ -4425,6 +4457,14 @@
       "onboard_time": 1696159895,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 666451,
+      "num": 666451,
+      "word": "每天两片烤馒头片拯救了我的胃",
+      "onboard_time": 1696746273,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 666132,
@@ -5531,14 +5571,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 562580,
-      "num": 562580,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1696746335,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 562123,
       "num": 562123,
       "word": "喜报林双离婚了",
@@ -5659,6 +5691,22 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 551417,
+      "num": 551417,
+      "word": "上海4岁女童走失事发海滩并非景点",
+      "onboard_time": 1696746573,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 551041,
+      "num": 551041,
+      "word": "迪丽热巴看鲸鱼被偶遇",
+      "onboard_time": 1696745257,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550820,
       "num": 550820,
       "word": "冰岛偶遇迪丽热巴超市买菜",
@@ -5681,14 +5729,6 @@
       "onboard_time": 1696495532,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 546752,
-      "num": 546752,
-      "word": "迪丽热巴看鲸鱼被偶遇",
-      "onboard_time": 1696745257,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 546271,
@@ -6235,12 +6275,12 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 501956,
-      "num": 501956,
-      "word": "pdf写罪状录",
-      "onboard_time": 1696745015,
-      "rank": 17,
-      "category": "情感"
+      "raw_hot": 501338,
+      "num": 356841,
+      "word": "李子柒消失两年还会被偏爱吗",
+      "onboard_time": 1696747895,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 500001,
@@ -7041,6 +7081,14 @@
       "onboard_time": 1696601385,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450184,
+      "num": 450184,
+      "word": "NCT127和时代少年团专辑封面相似度",
+      "onboard_time": 1696749033,
+      "rank": 17,
+      "category": "音乐"
     },
     {
       "raw_hot": 449700,
@@ -8747,6 +8795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 361413,
+      "num": 556023,
+      "word": "阿富汗西部地震已致超2000人遇难",
+      "onboard_time": 1696746933,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360367,
       "num": 616282,
       "word": "爸爸带娃主打潦草",
@@ -8881,6 +8937,14 @@
       "onboard_time": 1696235914,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 356848,
+      "num": 356848,
+      "word": "丞磊痛失艺名",
+      "onboard_time": 1696748794,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 356189,
@@ -9089,6 +9153,14 @@
       "onboard_time": 1696405474,
       "rank": 22,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 349948,
+      "num": 349948,
+      "word": "女子帮离世闺蜜照护女儿14年",
+      "onboard_time": 1696748133,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 349764,
@@ -12099,6 +12171,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263289,
+      "num": 263289,
+      "word": "陈梦晋级女单决赛",
+      "onboard_time": 1696746755,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 263249,
+      "num": 263249,
+      "word": "谁还记得小耳朵时期的陈都灵",
+      "onboard_time": 1696747714,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 263112,
       "num": 420630,
       "word": "全红婵火速逃离采访区",
@@ -12483,14 +12571,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 255275,
-      "num": 255275,
-      "word": "每天两片烤馒头片拯救了我的胃",
-      "onboard_time": 1696746273,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "赵小棠把蒙古帽披在了身上",
@@ -12585,6 +12665,14 @@
       "onboard_time": 1696565853,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251245,
+      "num": 251245,
+      "word": "海事部门已对走失女童开展搜救",
+      "onboard_time": 1696748074,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 250621,
@@ -14835,14 +14923,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208602,
-      "num": 208602,
-      "word": "上海4岁女童走失事发海滩并非景点",
-      "onboard_time": 1696746573,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 208486,
       "num": 208486,
       "word": "黄渤去了张艺兴演唱会",
@@ -14888,6 +14968,14 @@
       "word": "王曼昱3比2陈熠",
       "onboard_time": 1696578394,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 208170,
+      "num": 208170,
+      "word": "亚运闭幕式大莲花变身大花园",
+      "onboard_time": 1696748675,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -16387,6 +16475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189717,
+      "num": 189717,
+      "word": "李盈莹这一幕太让人心疼了",
+      "onboard_time": 1696749033,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189625,
       "num": 189625,
       "word": "亚运会马拉松",
@@ -17027,6 +17123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180213,
+      "num": 180213,
+      "word": "李梦回应带妆比赛",
+      "onboard_time": 1696749094,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179931,
       "num": 179931,
       "word": "服装店的镜子可以有多离谱",
@@ -17200,6 +17304,14 @@
       "word": "平遥国际电影展 抢票",
       "onboard_time": 1696331196,
       "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 177105,
+      "num": 177105,
+      "word": "文俊辉出席釜山电影节",
+      "onboard_time": 1696748675,
+      "rank": 44,
       "category": "电影"
     },
     {
@@ -17553,14 +17665,6 @@
       "onboard_time": 1696381776,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 171049,
-      "num": 171049,
-      "word": "陈梦晋级女单决赛",
-      "onboard_time": 1696746755,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 170862,
@@ -18433,6 +18537,14 @@
       "onboard_time": 1696596520,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155820,
+      "num": 155820,
+      "word": "你有年轻人的秋天三件套吗",
+      "onboard_time": 1696749094,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 155685,
@@ -21019,6 +21131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 43552,
+      "num": 1765615,
+      "word": "沉浸式感受古人的秋日浪漫",
+      "onboard_time": 1696738360,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43220,
       "num": 3975967,
       "word": "潮涌杭州看亚运",
@@ -21185,14 +21305,6 @@
       "onboard_time": 1696230032,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 31283,
-      "num": 289083,
-      "word": "沉浸式感受古人的秋日浪漫",
-      "onboard_time": 1696738360,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29067,
