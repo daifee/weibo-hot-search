@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696786439815,
+  "endTime": 1696789229248,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -2571,6 +2571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184691,
+      "num": 133126,
+      "word": "章子怡手机壳是自己的表情包",
+      "onboard_time": 1696786099,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 183510,
       "num": 183510,
       "word": "阿森纳vs曼城",
@@ -3203,6 +3211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80629,
+      "num": 80629,
+      "word": "谁说50岁大妈只能跳广场舞",
+      "onboard_time": 1696784903,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77854,
       "num": 327172,
       "word": "赛事结束播报台工作人员动情高歌",
@@ -3233,22 +3249,6 @@
       "onboard_time": 1696756715,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71625,
-      "num": 71625,
-      "word": "谁说50岁大妈只能跳广场舞",
-      "onboard_time": 1696784903,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 71408,
-      "num": 71408,
-      "word": "章子怡手机壳是自己的表情包",
-      "onboard_time": 1696786099,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 70630,
@@ -3363,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41495,
+      "num": 41495,
+      "word": "阿克萨洪水",
+      "onboard_time": 1696786879,
+      "rank": 32,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 36831,
       "num": 450305,
       "word": "看见中国力量",
@@ -3387,6 +3395,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 24763,
+      "num": 2047064,
+      "word": "再见了杭州亚运",
+      "onboard_time": 1696771899,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23843,
       "num": 2220980,
       "word": "推进共建绿色一带一路",
@@ -3401,14 +3417,6 @@
       "onboard_time": 1696710493,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 20942,
-      "num": 2047064,
-      "word": "再见了杭州亚运",
-      "onboard_time": 1696771899,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 19014,
