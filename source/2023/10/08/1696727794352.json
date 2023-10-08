@@ -1,0 +1,410 @@
+{
+  "runTime": 1696727794352,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1831928,
+        "num": 1831928,
+        "word": "上海4岁女童搜索区域已到浙江舟山",
+        "onboard_time": 1696725698,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1377748,
+        "num": 1377748,
+        "word": "巴以冲突双方死亡人数已超400",
+        "onboard_time": 1696722873,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 23843,
+        "num": 1240922,
+        "word": "推进共建绿色一带一路",
+        "onboard_time": 1696683578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1489482,
+        "num": 1227949,
+        "word": "蜜雪冰城称将偷餐者绑天桥示众8小时",
+        "onboard_time": 1696696347,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1200290,
+        "num": 1200290,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696689522,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1130964,
+        "num": 1130964,
+        "word": "终于知道为什么手术线会消失了",
+        "onboard_time": 1696722694,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 709009,
+        "num": 709009,
+        "word": "陈飞宇爆料健身最卷的是魏晨",
+        "onboard_time": 1696697963,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 584830,
+        "num": 584830,
+        "word": "中国最好的博物馆排名",
+        "onboard_time": 1696725998,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 567777,
+        "num": 567777,
+        "word": "地铁好像成了打工人的休息室",
+        "onboard_time": 1696722632,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 459254,
+        "num": 459254,
+        "word": "林俊杰没有一首一千年以后是一样的",
+        "onboard_time": 1696726659,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2210947,
+        "num": 453675,
+        "word": "挖呀挖黄老师5场直播销售额超百万",
+        "onboard_time": 1696722512,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1101684,
+        "num": 450692,
+        "word": "千万不要穿抹胸去吃火锅",
+        "onboard_time": 1696721127,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 445871,
+        "num": 445871,
+        "word": "小沈阳满脸写着我想逃",
+        "onboard_time": 1696724557,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200768,
+        "num": 437583,
+        "word": "亚运史上第1块霹雳舞金牌",
+        "onboard_time": 1696676017,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146914,
+        "num": 433378,
+        "word": "以巴爆发大规模冲突造成严重伤亡",
+        "onboard_time": 1696688262,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 432716,
+        "num": 432716,
+        "word": "为什么工作之后一定要交社保",
+        "onboard_time": 1696695091,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337908,
+        "num": 337908,
+        "word": "86版西游记部分取景地",
+        "onboard_time": 1696723475,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329775,
+        "num": 329775,
+        "word": "吉鲁扑单刀",
+        "onboard_time": 1696725276,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316654,
+        "num": 316654,
+        "word": "研究证实怀孕会部分重置准妈妈大脑",
+        "onboard_time": 1696671757,
+        "rank": 18,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 311592,
+        "num": 311592,
+        "word": "金秋天I want it I got it",
+        "onboard_time": 1696726776,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 517660,
+        "num": 310988,
+        "word": "母女双双吃蒸苹果的后果",
+        "onboard_time": 1696683219,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 378560,
+        "num": 309865,
+        "word": "夫妻吵架后第二天的便当",
+        "onboard_time": 1696723834,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308037,
+        "num": 308037,
+        "word": "迷笛音乐节要反思的不是当地群众",
+        "onboard_time": 1696712054,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282787,
+        "num": 282787,
+        "word": "这些食物不要放在冰箱里保鲜",
+        "onboard_time": 1696723235,
+        "rank": 23,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 276462,
+        "num": 276462,
+        "word": "寒露",
+        "onboard_time": 1696720525,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270115,
+        "num": 270115,
+        "word": "不会剥柚子的人有福了",
+        "onboard_time": 1696723896,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252320,
+        "num": 252320,
+        "word": "母亲去世5年全家瞒着98岁外婆",
+        "onboard_time": 1696692218,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235044,
+        "num": 235044,
+        "word": "湖人vs勇士",
+        "onboard_time": 1696724497,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222869,
+        "num": 222869,
+        "word": "侯明昊的骨相",
+        "onboard_time": 1696725637,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219090,
+        "num": 219090,
+        "word": "苏醒还想淘汰蔡国庆",
+        "onboard_time": 1696726956,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287759,
+        "num": 216380,
+        "word": "她怎么躺在Windows桌面啊",
+        "onboard_time": 1696727017,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 213391,
+        "num": 213391,
+        "word": "黄景瑜张婧仪张凌赫笑点好密集",
+        "onboard_time": 1696726118,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212994,
+        "num": 212994,
+        "word": "贝嫂谈贝克汉姆出轨",
+        "onboard_time": 1696673799,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210088,
+        "num": 210088,
+        "word": "谭爷爷亲自示范教花花滑滑梯",
+        "onboard_time": 1696725276,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208971,
+        "num": 208971,
+        "word": "10月不要请假",
+        "onboard_time": 1696668159,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 203109,
+        "num": 203109,
+        "word": "37岁的他用自己的身体搅拌泥浆",
+        "onboard_time": 1696727673,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199484,
+        "num": 199484,
+        "word": "美国众议院陷入一片混乱",
+        "onboard_time": 1696721306,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198880,
+        "num": 198880,
+        "word": "黄渤去了张艺兴演唱会",
+        "onboard_time": 1696723357,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192581,
+        "num": 192581,
+        "word": "生理期前到底会有哪些迹象",
+        "onboard_time": 1696689763,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186313,
+        "num": 186313,
+        "word": "侯明昊头发竟然没有散下来",
+        "onboard_time": 1696725097,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182330,
+        "num": 182330,
+        "word": "陈楚生阿璞反差感版光明",
+        "onboard_time": 1696724738,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182008,
+        "num": 182008,
+        "word": "巴以冲突",
+        "onboard_time": 1696721609,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 177513,
+        "num": 177513,
+        "word": "气血不足先学会忌口",
+        "onboard_time": 1696721068,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163374,
+        "num": 163374,
+        "word": "皮划艇女选手赛后黄体破裂医生紧急救回",
+        "onboard_time": 1696686038,
+        "rank": 43,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 157178,
+        "num": 157178,
+        "word": "班主任自费千元组织学生看电影志愿军",
+        "onboard_time": 1696692398,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154901,
+        "num": 154901,
+        "word": "夫妻因饮食习惯同时确诊同种癌症",
+        "onboard_time": 1696684777,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152342,
+        "num": 152342,
+        "word": "lofter",
+        "onboard_time": 1696695630,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146212,
+        "num": 146212,
+        "word": "男子海边遇女童独自戏水守护10分钟",
+        "onboard_time": 1696682375,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142451,
+        "num": 142451,
+        "word": "韩国人疯狂喝咖啡的原因",
+        "onboard_time": 1696683820,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141478,
+        "num": 141478,
+        "word": "中国队在国际警察射击比赛中夺冠",
+        "onboard_time": 1696723235,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#紧紧依靠全体中华儿女共同奋斗#"
+    }
+  }
+}
