@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696754055275,
+  "endTime": 1696756497577,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -147,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1341487,
+      "num": 544490,
+      "word": "夜店文化倒退十年",
+      "onboard_time": 1696753296,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1325047,
       "num": 1325047,
       "word": "边伯贤 抗日神剧",
@@ -233,6 +241,22 @@
       "onboard_time": 1696751134,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 960839,
+      "num": 960839,
+      "word": "李子柒油管粉丝不降反升",
+      "onboard_time": 1696753959,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 909760,
+      "num": 453586,
+      "word": "女司机撞倒行人用卫生巾帮止血",
+      "onboard_time": 1696754076,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 896154,
@@ -345,14 +369,6 @@
       "onboard_time": 1696733074,
       "rank": 20,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 653430,
-      "num": 544490,
-      "word": "夜店文化倒退十年",
-      "onboard_time": 1696753296,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 646348,
@@ -579,12 +595,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 476605,
+      "num": 446279,
+      "word": "蒲熠星终于来对地方了",
+      "onboard_time": 1696753838,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 475085,
       "num": 475085,
       "word": "丞磊痛失艺名",
       "onboard_time": 1696748794,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 469607,
+      "num": 444692,
+      "word": "陈奕迅演唱会志愿者称被性骚扰",
+      "onboard_time": 1696754915,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 466082,
@@ -649,6 +681,14 @@
       "onboard_time": 1696724557,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444072,
+      "num": 444072,
+      "word": "兰州站王楚钦马龙争冠",
+      "onboard_time": 1696754076,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 432716,
@@ -795,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 349364,
+      "num": 349364,
+      "word": "小米高级副总裁张峰将离职",
+      "onboard_time": 1696754316,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 345864,
       "num": 437583,
       "word": "亚运史上第1块霹雳舞金牌",
@@ -859,6 +907,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 323692,
+      "num": 323692,
+      "word": "六旬老人骑电动掉进深坑万幸被她发现",
+      "onboard_time": 1696756055,
+      "rank": 22,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 322586,
       "num": 208971,
       "word": "10月不要请假",
@@ -881,6 +937,14 @@
       "onboard_time": 1696734336,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 315773,
+      "num": 315773,
+      "word": "老乡鸡董事长亲自在餐厅端盘子",
+      "onboard_time": 1696754377,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 312587,
@@ -1251,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233210,
+      "num": 233210,
+      "word": "亚运会裁判真实身份是女警",
+      "onboard_time": 1696754015,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232548,
       "num": 232548,
       "word": "婚礼上新娘穿校服入场新郎泪奔",
@@ -1265,6 +1337,14 @@
       "onboard_time": 1696733914,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226423,
+      "num": 226423,
+      "word": "一等功海军飞行员再添一喜",
+      "onboard_time": 1696755872,
+      "rank": 31,
+      "category": "社会新闻,军事"
     },
     {
       "raw_hot": 224504,
@@ -1411,19 +1491,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205032,
+      "num": 205032,
+      "word": "本届亚运最忙的竟是白素贞",
+      "onboard_time": 1696755398,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204215,
       "num": 187643,
       "word": "虞书欣你怎么骗人啊",
       "onboard_time": 1696691738,
       "rank": 25,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 203875,
-      "num": 203875,
-      "word": "蒲熠星终于来对地方了",
-      "onboard_time": 1696753838,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -1489,14 +1569,6 @@
       "onboard_time": 1696720705,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194802,
-      "num": 194802,
-      "word": "李子柒油管粉丝不降反升",
-      "onboard_time": 1696753959,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 193526,
@@ -1611,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179584,
+      "num": 179584,
+      "word": "于适忽悠所有人他是骑马来的",
+      "onboard_time": 1696754194,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179417,
       "num": 179417,
       "word": "2023谷江山成真三城巡演",
@@ -1624,6 +1704,14 @@
       "word": "魏大勋新角色也太惨了吧",
       "onboard_time": 1696731273,
       "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178302,
+      "num": 178302,
+      "word": "问心男团",
+      "onboard_time": 1696756355,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1707,12 +1795,12 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 165965,
-      "num": 165965,
-      "word": "亚运会裁判真实身份是女警",
-      "onboard_time": 1696754015,
+      "raw_hot": 167050,
+      "num": 167050,
+      "word": "以色列中国留学生发声",
+      "onboard_time": 1696756294,
       "rank": 45,
-      "category": "体育"
+      "category": "国外要闻"
     },
     {
       "raw_hot": 164905,
@@ -1745,6 +1833,14 @@
       "onboard_time": 1696719803,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158486,
+      "num": 158486,
+      "word": "唐禹哲纠正宝石Gem东北口音",
+      "onboard_time": 1696756474,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 157826,
@@ -2011,6 +2107,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69706,
+      "num": 1351404,
+      "word": "中国航天67岁生日快乐",
+      "onboard_time": 1696752936,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59257,
       "num": 3505104,
       "word": "心心相融爱达未来",
@@ -2075,14 +2179,6 @@
       "category": "体育,科技"
     },
     {
-      "raw_hot": 43778,
-      "num": 1351404,
-      "word": "中国航天67岁生日快乐",
-      "onboard_time": 1696752936,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 41536,
       "num": 540470,
       "word": "国羽高燃4金收官",
@@ -2131,6 +2227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 22680,
+      "num": 450305,
+      "word": "看见中国力量",
+      "onboard_time": 1696755634,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19014,
       "num": 52073,
       "word": "kpop组合专辑总销量TOP9",
@@ -2167,6 +2271,9 @@
     },
     {
       "word": "#杭州亚运会纪念短片#"
+    },
+    {
+      "word": "#亚运会中国代表团201金收官#"
     }
   ]
 }
