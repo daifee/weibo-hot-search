@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696739651296,
+  "endTime": 1696742134404,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -24,6 +24,14 @@
       "word": "4岁女童搜救因外部原因中止",
       "onboard_time": 1696734095,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2630743,
+      "num": 2630743,
+      "word": "蓝天救援队否认中止搜救4岁女童",
+      "onboard_time": 1696741300,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -171,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 728211,
+      "num": 600453,
+      "word": "朱一龙过上了余华小说里的生活",
+      "onboard_time": 1696739263,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 709009,
       "num": 709009,
       "word": "陈飞宇爆料健身最卷的是魏晨",
@@ -187,8 +203,16 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 672284,
+      "num": 672284,
+      "word": "西安重大刑案嫌疑人被抓获",
+      "onboard_time": 1696737520,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653784,
-      "num": 507797,
+      "num": 540006,
       "word": "iPhone15Pro蓝色钛金属价格暴跌",
       "onboard_time": 1696733074,
       "rank": 20,
@@ -235,20 +259,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 600453,
-      "num": 600453,
-      "word": "朱一龙过上了余华小说里的生活",
-      "onboard_time": 1696739263,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 592010,
       "num": 592010,
       "word": "研究称人造子宫人体试验或很快会启动",
       "onboard_time": 1696732834,
       "rank": 21,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 589674,
+      "num": 589674,
+      "word": "烬相思定档",
+      "onboard_time": 1696739620,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 581337,
@@ -291,14 +315,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 542694,
-      "num": 542694,
-      "word": "西安重大刑案嫌疑人被抓获",
-      "onboard_time": 1696737520,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 541788,
       "num": 541788,
       "word": "你那不叫勇敢叫家里有钱",
@@ -313,6 +329,14 @@
       "onboard_time": 1696735298,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 524412,
+      "num": 524412,
+      "word": "于适坐到车上衬衫被撑爆了",
+      "onboard_time": 1696739679,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 515519,
@@ -419,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444449,
+      "num": 444449,
+      "word": "泽连斯基发文声援以色列",
+      "onboard_time": 1696739741,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 432716,
       "num": 432716,
       "word": "为什么工作之后一定要交社保",
@@ -441,6 +473,14 @@
       "onboard_time": 1696720405,
       "rank": 32,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 403843,
+      "num": 403843,
+      "word": "田嘉瑞决定当演员的原因",
+      "onboard_time": 1696741063,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 395288,
@@ -497,6 +537,22 @@
       "onboard_time": 1696686038,
       "rank": 19,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 376945,
+      "num": 376945,
+      "word": "侧躺玩手机 斜视",
+      "onboard_time": 1696739981,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 372103,
+      "num": 372103,
+      "word": "孕期尽量用电气灶做饭或不下厨",
+      "onboard_time": 1696741363,
+      "rank": 25,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 345864,
@@ -571,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312587,
+      "num": 312587,
+      "word": "上海女童失联监护人是否担刑责",
+      "onboard_time": 1696738782,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311592,
       "num": 311592,
       "word": "金秋天I want it I got it",
@@ -617,6 +681,14 @@
       "onboard_time": 1696681778,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 288993,
+      "num": 288993,
+      "word": "秀动",
+      "onboard_time": 1696741000,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 288941,
@@ -707,12 +779,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 261222,
+      "num": 261222,
+      "word": "外公查寄宿孙女饭卡记录担心吃不好",
+      "onboard_time": 1696740339,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256321,
       "num": 256321,
       "word": "王楚钦决胜局11比0",
       "onboard_time": 1696676920,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252647,
+      "num": 222579,
+      "word": "拜登准备为以色列提供一切支持手段",
+      "onboard_time": 1696740701,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 250088,
@@ -809,14 +897,6 @@
       "onboard_time": 1696733914,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228666,
-      "num": 228666,
-      "word": "上海女童失联监护人是否担刑责",
-      "onboard_time": 1696738782,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 224504,
@@ -963,6 +1043,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 199246,
+      "num": 199246,
+      "word": "IVE小学生统领",
+      "onboard_time": 1696741837,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 197199,
       "num": 127804,
       "word": "从今天起就是深秋了",
@@ -1064,14 +1152,6 @@
       "word": "魏大勋新角色也太惨了吧",
       "onboard_time": 1696731273,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 178213,
-      "num": 178213,
-      "word": "烬相思定档",
-      "onboard_time": 1696739620,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -1433,6 +1513,14 @@
       "onboard_time": 1696714454,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51043,
+      "num": 318730,
+      "word": "杜华都接代言了",
+      "onboard_time": 1696741422,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 49488,
