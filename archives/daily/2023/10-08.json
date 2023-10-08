@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696771071787,
+  "endTime": 1696772039480,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -9,6 +9,14 @@
       "onboard_time": 1696730496,
       "rank": 1,
       "category": "美食"
+    },
+    {
+      "raw_hot": 4730481,
+      "num": 4730481,
+      "word": "王楚钦战胜马龙夺冠",
+      "onboard_time": 1696770699,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 4212239,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 4128709,
-      "num": 1977991,
+      "num": 2003634,
       "word": "王权富贵",
       "onboard_time": 1696767758,
       "rank": 5,
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1912748,
-      "num": 1912748,
-      "word": "王楚钦战胜马龙夺冠",
-      "onboard_time": 1696770699,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1888594,
       "num": 1888594,
       "word": "是东北菜量大不是东北菜量大",
@@ -169,6 +169,14 @@
       "onboard_time": 1696747895,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1773059,
+      "num": 1773059,
+      "word": "闭幕式日本表演",
+      "onboard_time": 1696771300,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1746766,
@@ -211,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1493014,
+      "num": 853231,
+      "word": "假球",
+      "onboard_time": 1696769437,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1488671,
       "num": 1488671,
       "word": "孙颖莎兰州站夺冠",
@@ -241,14 +257,6 @@
       "onboard_time": 1696722873,
       "rank": 1,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1374083,
-      "num": 733243,
-      "word": "假球",
-      "onboard_time": 1696769437,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 1359375,
@@ -395,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 978607,
+      "num": 978607,
+      "word": "上海走失女童父亲称不能排除被人抱走",
+      "onboard_time": 1696770821,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 972663,
       "num": 704160,
       "word": "女司机撞倒行人用卫生巾帮止血",
@@ -529,6 +545,14 @@
       "onboard_time": 1696766796,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 689651,
+      "num": 414587,
+      "word": "彩票中了100万后的12小时",
+      "onboard_time": 1696771300,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 689632,
@@ -1019,6 +1043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412424,
+      "num": 324480,
+      "word": "以外交部证实两名以色列人在埃及遇难",
+      "onboard_time": 1696771661,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 409240,
       "num": 409240,
       "word": "TTG对阵eStar",
@@ -1347,6 +1379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 311268,
+      "num": 311268,
+      "word": "88元一位的炒饭",
+      "onboard_time": 1696771237,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 310984,
       "num": 310984,
       "word": "我们的歌第五季开播",
@@ -1515,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 272955,
+      "num": 272955,
+      "word": "aespa演唱会舞台状态",
+      "onboard_time": 1696770821,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 272946,
       "num": 272946,
       "word": "王传君江疏影银幕饭搭子",
@@ -1579,14 +1627,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 263030,
-      "num": 263030,
-      "word": "aespa演唱会舞台状态",
-      "onboard_time": 1696770821,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 261723,
       "num": 261723,
       "word": "宋亚轩 奇迹轩轩",
@@ -1609,14 +1649,6 @@
       "onboard_time": 1696749577,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 256943,
-      "num": 256943,
-      "word": "上海走失女童父亲称不能排除被人抱走",
-      "onboard_time": 1696770821,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256321,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1696750895,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245120,
+      "num": 245120,
+      "word": "王楚钦冠军",
+      "onboard_time": 1696771419,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 242525,
@@ -2147,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195631,
+      "num": 195631,
+      "word": "陈雨菲贾一凡显眼包",
+      "onboard_time": 1696771121,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194039,
       "num": 194039,
       "word": "78岁姥爷爬墙为28岁孙女摘柿子",
@@ -2235,8 +2283,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184111,
-      "num": 184111,
+      "raw_hot": 184724,
+      "num": 184724,
       "word": "白敬亭骑马照",
       "onboard_time": 1696769977,
       "rank": 46,
@@ -2795,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70630,
+      "num": 1982190,
+      "word": "杭州亚运会高燃时刻大盘点",
+      "onboard_time": 1696752159,
+      "rank": 46,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 70327,
       "num": 70327,
       "word": "诛仙世界抽疯了",
@@ -2875,14 +2931,6 @@
       "category": "体育,科技"
     },
     {
-      "raw_hot": 42358,
-      "num": 1982190,
-      "word": "杭州亚运会高燃时刻大盘点",
-      "onboard_time": 1696752159,
-      "rank": 46,
-      "category": "社会新闻,体育"
-    },
-    {
       "raw_hot": 41536,
       "num": 540470,
       "word": "国羽高燃4金收官",
@@ -2937,6 +2985,14 @@
       "onboard_time": 1696707133,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15458,
+      "num": 2047064,
+      "word": "再见了杭州亚运",
+      "onboard_time": 1696771899,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 13026,
