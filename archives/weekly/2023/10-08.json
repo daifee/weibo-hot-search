@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696742134404,
+  "endTime": 1696743251672,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2630743,
-      "num": 2630743,
+      "raw_hot": 2654165,
+      "num": 2654165,
       "word": "蓝天救援队否认中止搜救4岁女童",
       "onboard_time": 1696741300,
       "rank": 3,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 728211,
-      "num": 600453,
+      "num": 602818,
       "word": "朱一龙过上了余华小说里的生活",
       "onboard_time": 1696739263,
       "rank": 15,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 653784,
-      "num": 540006,
+      "num": 629321,
       "word": "iPhone15Pro蓝色钛金属价格暴跌",
       "onboard_time": 1696733074,
       "rank": 20,
@@ -379,12 +379,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 505726,
+      "num": 505726,
+      "word": "江歌妈妈已成立传媒公司",
+      "onboard_time": 1696742502,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500969,
       "num": 500969,
       "word": "奥纳纳丢球",
       "onboard_time": 1696690120,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 500001,
+      "num": 487829,
+      "word": "泽连斯基发文声援以色列",
+      "onboard_time": 1696739741,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 467172,
+      "num": 393316,
+      "word": "孕期尽量用电气灶做饭或不下厨",
+      "onboard_time": 1696741363,
+      "rank": 25,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 466082,
@@ -441,14 +465,6 @@
       "onboard_time": 1696724557,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444449,
-      "num": 444449,
-      "word": "泽连斯基发文声援以色列",
-      "onboard_time": 1696739741,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 432716,
@@ -547,12 +563,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 372103,
-      "num": 372103,
-      "word": "孕期尽量用电气灶做饭或不下厨",
-      "onboard_time": 1696741363,
-      "rank": 25,
-      "category": "母婴育儿"
+      "raw_hot": 358217,
+      "num": 358217,
+      "word": "王阳体重只有130斤",
+      "onboard_time": 1696742617,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 345864,
@@ -731,6 +747,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 279405,
+      "num": 279405,
+      "word": "拜登准备为以色列提供一切支持手段",
+      "onboard_time": 1696740701,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 276462,
       "num": 276462,
       "word": "寒露",
@@ -795,14 +819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252647,
-      "num": 222579,
-      "word": "拜登准备为以色列提供一切支持手段",
-      "onboard_time": 1696740701,
-      "rank": 40,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 250088,
       "num": 250088,
       "word": "范志毅送林雨薇127根发带",
@@ -840,6 +856,14 @@
       "word": "侯明昊的骨相",
       "onboard_time": 1696725637,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 247345,
+      "num": 247345,
+      "word": "周柯宇经纪公司声明",
+      "onboard_time": 1696743156,
+      "rank": 36,
       "category": "艺人"
     },
     {
@@ -947,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 210786,
+      "num": 210786,
+      "word": "海底捞开到大学里了",
+      "onboard_time": 1696742436,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210221,
       "num": 210221,
       "word": "歌迷看薛之谦演唱会被抬出送医",
@@ -1011,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203600,
+      "num": 203600,
+      "word": "IVE小学生统领",
+      "onboard_time": 1696741837,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202852,
       "num": 202852,
       "word": "千朵桃花一世开",
@@ -1041,14 +1081,6 @@
       "onboard_time": 1696721306,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 199246,
-      "num": 199246,
-      "word": "IVE小学生统领",
-      "onboard_time": 1696741837,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 197199,
@@ -1147,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 179417,
+      "num": 179417,
+      "word": "2023谷江山成真三城巡演",
+      "onboard_time": 1696742200,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178488,
       "num": 178488,
       "word": "魏大勋新角色也太惨了吧",
@@ -1193,6 +1233,14 @@
       "onboard_time": 1696684777,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168364,
+      "num": 168364,
+      "word": "外国朋友在亚运村盛赞缙云烧饼",
+      "onboard_time": 1696743216,
+      "rank": 49,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 164905,
@@ -1515,8 +1563,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 51043,
-      "num": 318730,
+      "raw_hot": 52184,
+      "num": 332668,
       "word": "杜华都接代言了",
       "onboard_time": 1696741422,
       "rank": 27,
