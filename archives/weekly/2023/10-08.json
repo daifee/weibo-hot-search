@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696789229248,
+  "endTime": 1696790044024,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -3211,8 +3211,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80629,
-      "num": 80629,
+      "raw_hot": 81402,
+      "num": 81402,
       "word": "谁说50岁大妈只能跳广场舞",
       "onboard_time": 1696784903,
       "rank": 45,
@@ -3355,20 +3355,20 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 41859,
+      "num": 41495,
+      "word": "阿克萨洪水",
+      "onboard_time": 1696786879,
+      "rank": 32,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 41536,
       "num": 540470,
       "word": "国羽高燃4金收官",
       "onboard_time": 1696734036,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 41495,
-      "num": 41495,
-      "word": "阿克萨洪水",
-      "onboard_time": 1696786879,
-      "rank": 32,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 36831,
@@ -3417,6 +3417,14 @@
       "onboard_time": 1696710493,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21306,
+      "num": 26628,
+      "word": "换位思考的理解最暖人心",
+      "onboard_time": 1696789936,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 19014,

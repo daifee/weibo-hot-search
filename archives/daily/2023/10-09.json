@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696789229248,
+  "endTime": 1696790044024,
   "band_list": [
     {
       "raw_hot": 1298864,
@@ -443,8 +443,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80629,
-      "num": 80629,
+      "raw_hot": 81402,
+      "num": 81402,
       "word": "谁说50岁大妈只能跳广场舞",
       "onboard_time": 1696784903,
       "rank": 45,
@@ -483,7 +483,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 41495,
+      "raw_hot": 41859,
       "num": 41495,
       "word": "阿克萨洪水",
       "onboard_time": 1696786879,
@@ -497,6 +497,14 @@
       "onboard_time": 1696771899,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 21306,
+      "num": 26628,
+      "word": "换位思考的理解最暖人心",
+      "onboard_time": 1696789936,
+      "rank": 49,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
