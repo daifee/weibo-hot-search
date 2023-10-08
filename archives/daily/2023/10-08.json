@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696750421632,
+  "endTime": 1696753162540,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1510997,
+      "num": 1510997,
+      "word": "李子柒消失两年还会被偏爱吗",
+      "onboard_time": 1696747895,
+      "rank": 21,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1448686,
       "num": 1448686,
       "word": "弄丢涉密文件女孩哭诉要失业民警解困",
@@ -139,6 +147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1325047,
+      "num": 1325047,
+      "word": "边伯贤 抗日神剧",
+      "onboard_time": 1696749875,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1269135,
       "num": 1269135,
       "word": "以巴爆发大规模冲突造成严重伤亡",
@@ -161,6 +177,14 @@
       "onboard_time": 1696721127,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1061178,
+      "num": 1061178,
+      "word": "拖把兄弟 吸氧兄弟",
+      "onboard_time": 1696751860,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1044661,
@@ -192,6 +216,14 @@
       "word": "王楚钦vs林高远",
       "onboard_time": 1696749333,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 988948,
+      "num": 988948,
+      "word": "王楚钦3比0林高远",
+      "onboard_time": 1696750597,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -235,12 +267,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 797994,
-      "num": 797994,
-      "word": "边伯贤 抗日神剧",
-      "onboard_time": 1696749875,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 793375,
+      "num": 793375,
+      "word": "任嘉伦诉网友侵权案将开庭",
+      "onboard_time": 1696750298,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 765898,
@@ -275,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 686005,
+      "num": 686005,
+      "word": "马龙外战",
+      "onboard_time": 1696751134,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 673004,
       "num": 673004,
       "word": "奥特曼婚纱",
@@ -289,6 +329,14 @@
       "onboard_time": 1696737520,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 669876,
+      "num": 669876,
+      "word": "三喜给自己化的妆我要笑死了",
+      "onboard_time": 1696750535,
+      "rank": 9,
+      "category": "网红"
     },
     {
       "raw_hot": 653784,
@@ -323,8 +371,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 616426,
-      "num": 616426,
+      "raw_hot": 627141,
+      "num": 627141,
       "word": "女子帮离世闺蜜照护女儿14年",
       "onboard_time": 1696748133,
       "rank": 23,
@@ -491,14 +539,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 509238,
-      "num": 509238,
-      "word": "李子柒消失两年还会被偏爱吗",
-      "onboard_time": 1696747895,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 507084,
       "num": 507084,
       "word": "勇士战胜湖人",
@@ -619,6 +659,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 427371,
+      "num": 427371,
+      "word": "肖战原野漫步好迷人",
+      "onboard_time": 1696750895,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405521,
       "num": 256008,
       "word": "以色列已致100死908伤",
@@ -633,6 +681,14 @@
       "onboard_time": 1696741063,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 400852,
+      "num": 400852,
+      "word": "陈清晨孙颖莎的友谊",
+      "onboard_time": 1696751015,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 395288,
@@ -675,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 381276,
-      "num": 381276,
-      "word": "任嘉伦诉网友侵权案将开庭",
-      "onboard_time": 1696750298,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 378560,
       "num": 309865,
       "word": "夫妻吵架后第二天的便当",
@@ -715,8 +763,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 365981,
-      "num": 365981,
+      "raw_hot": 366783,
+      "num": 366783,
       "word": "孙颖莎3比2王曼昱",
       "onboard_time": 1696749460,
       "rank": 26,
@@ -843,8 +891,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310697,
+      "num": 310697,
+      "word": "iPhone15Pro多款机型破发",
+      "onboard_time": 1696750478,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 310284,
-      "num": 245843,
+      "num": 300715,
       "word": "准新娘长发被理发师剪至齐肩索赔8500",
       "onboard_time": 1696749396,
       "rank": 30,
@@ -897,6 +953,14 @@
       "onboard_time": 1696735716,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 288515,
+      "num": 288515,
+      "word": "虞书欣时装周换装游戏",
+      "onboard_time": 1696752037,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 287125,
@@ -995,6 +1059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263435,
+      "num": 263435,
+      "word": "男孩偷拿300元民警配合沉浸式教育",
+      "onboard_time": 1696750417,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263289,
       "num": 263289,
       "word": "陈梦晋级女单决赛",
@@ -1019,19 +1091,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259194,
+      "num": 259194,
+      "word": "被全红婵的i人属性迷住了",
+      "onboard_time": 1696749577,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256321,
       "num": 256321,
       "word": "王楚钦决胜局11比0",
       "onboard_time": 1696676920,
       "rank": 12,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 254857,
-      "num": 245792,
-      "word": "被全红婵的i人属性迷住了",
-      "onboard_time": 1696749577,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -1091,12 +1163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247475,
+      "num": 247475,
+      "word": "宋亚轩美拉德初秋穿搭",
+      "onboard_time": 1696751197,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247345,
       "num": 247345,
       "word": "周柯宇经纪公司声明",
       "onboard_time": 1696743156,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 245138,
+      "num": 245138,
+      "word": "刘耀文 小狗之歌",
+      "onboard_time": 1696750895,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 242525,
@@ -1427,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188927,
+      "num": 188927,
+      "word": "王楚钦晋级男单决赛",
+      "onboard_time": 1696752578,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187297,
       "num": 187297,
       "word": "成龙去了张艺兴演唱会",
@@ -1515,6 +1611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175524,
+      "num": 175524,
+      "word": "S13赛前垃圾话",
+      "onboard_time": 1696750354,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 172883,
       "num": 172883,
       "word": "跟交警坦白我想闯红灯结果太温暖",
@@ -1553,14 +1657,6 @@
       "onboard_time": 1696714815,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168889,
-      "num": 168889,
-      "word": "S13赛前垃圾话",
-      "onboard_time": 1696750354,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 168714,
@@ -1883,6 +1979,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 57753,
+      "num": 552771,
+      "word": "更适合中国人味蕾的拿铁",
+      "onboard_time": 1696752037,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 55890,
       "num": 161462,
       "word": "现在流行线上出道",
@@ -1939,6 +2043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 32057,
+      "num": 162328,
+      "word": "杭州亚运会高燃时刻大盘点",
+      "onboard_time": 1696752159,
+      "rank": 46,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 28321,
       "num": 28321,
       "word": "陈都灵吃饭也走流程",
@@ -1977,6 +2089,14 @@
       "onboard_time": 1696707133,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15069,
+      "num": 1351404,
+      "word": "中国航天67岁生日快乐",
+      "onboard_time": 1696752936,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13026,

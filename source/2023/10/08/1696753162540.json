@@ -1,0 +1,410 @@
+{
+  "runTime": 1696753162540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1510997,
+        "num": 1510997,
+        "word": "李子柒消失两年还会被偏爱吗",
+        "onboard_time": 1696747895,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1447413,
+        "num": 1447413,
+        "word": "弄丢涉密文件女孩哭诉要失业民警解困",
+        "onboard_time": 1696743695,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15069,
+        "num": 1351404,
+        "word": "中国航天67岁生日快乐",
+        "onboard_time": 1696752936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325047,
+        "num": 1325047,
+        "word": "边伯贤 抗日神剧",
+        "onboard_time": 1696749875,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1061178,
+        "num": 1061178,
+        "word": "拖把兄弟 吸氧兄弟",
+        "onboard_time": 1696751860,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1054586,
+        "num": 1054586,
+        "word": "性缘脑",
+        "onboard_time": 1696736137,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 988948,
+        "num": 988948,
+        "word": "王楚钦3比0林高远",
+        "onboard_time": 1696750597,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 793375,
+        "num": 793375,
+        "word": "任嘉伦诉网友侵权案将开庭",
+        "onboard_time": 1696750298,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 686005,
+        "num": 686005,
+        "word": "马龙外战",
+        "onboard_time": 1696751134,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 669876,
+        "num": 669876,
+        "word": "三喜给自己化的妆我要笑死了",
+        "onboard_time": 1696750535,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1352608,
+        "num": 665208,
+        "word": "江歌妈妈已成立传媒公司",
+        "onboard_time": 1696742502,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627141,
+        "num": 627141,
+        "word": "女子帮离世闺蜜照护女儿14年",
+        "onboard_time": 1696748133,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255018,
+        "num": 581849,
+        "word": "中方就巴以冲突表态",
+        "onboard_time": 1696734935,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 215615,
+        "num": 559143,
+        "word": "阿富汗西部地震已致超2000人遇难",
+        "onboard_time": 1696746933,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57753,
+        "num": 552771,
+        "word": "更适合中国人味蕾的拿铁",
+        "onboard_time": 1696752037,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 552664,
+        "num": 552664,
+        "word": "李健 希望大家少经受挫折磨难",
+        "onboard_time": 1696747533,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551901,
+        "num": 551901,
+        "word": "老乡鸡",
+        "onboard_time": 1696730496,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 535309,
+        "num": 535309,
+        "word": "网传杨紫将出演国色芳华",
+        "onboard_time": 1696749819,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 493755,
+        "num": 493755,
+        "word": "以色列",
+        "onboard_time": 1696743398,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 492067,
+        "num": 492067,
+        "word": "每天两片烤馒头片拯救了我的胃",
+        "onboard_time": 1696746273,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 724417,
+        "num": 463539,
+        "word": "女生买炸鸡付款一看两百万",
+        "onboard_time": 1696747472,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427371,
+        "num": 427371,
+        "word": "肖战原野漫步好迷人",
+        "onboard_time": 1696750895,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400852,
+        "num": 400852,
+        "word": "陈清晨孙颖莎的友谊",
+        "onboard_time": 1696751015,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372506,
+        "num": 372506,
+        "word": "NCT127和时代少年团专辑封面相似度",
+        "onboard_time": 1696749033,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 366783,
+        "num": 366783,
+        "word": "孙颖莎3比2王曼昱",
+        "onboard_time": 1696749460,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320724,
+        "num": 320724,
+        "word": "上海4岁女童走失事发海滩并非景点",
+        "onboard_time": 1696746573,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310697,
+        "num": 310697,
+        "word": "iPhone15Pro多款机型破发",
+        "onboard_time": 1696750478,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 301793,
+        "num": 301793,
+        "word": "丞磊痛失艺名",
+        "onboard_time": 1696748794,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300715,
+        "num": 300715,
+        "word": "准新娘长发被理发师剪至齐肩索赔8500",
+        "onboard_time": 1696749396,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288515,
+        "num": 288515,
+        "word": "虞书欣时装周换装游戏",
+        "onboard_time": 1696752037,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 273639,
+        "num": 273639,
+        "word": "朱一龙为角色增重减重50斤",
+        "onboard_time": 1696736918,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263435,
+        "num": 263435,
+        "word": "男孩偷拿300元民警配合沉浸式教育",
+        "onboard_time": 1696750417,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259194,
+        "num": 259194,
+        "word": "被全红婵的i人属性迷住了",
+        "onboard_time": 1696749577,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247475,
+        "num": 247475,
+        "word": "宋亚轩美拉德初秋穿搭",
+        "onboard_time": 1696751197,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245138,
+        "num": 245138,
+        "word": "刘耀文 小狗之歌",
+        "onboard_time": 1696750895,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 242327,
+        "num": 242327,
+        "word": "pdf写罪状录",
+        "onboard_time": 1696745015,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241633,
+        "num": 241633,
+        "word": "迪丽热巴看鲸鱼被偶遇",
+        "onboard_time": 1696745257,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208311,
+        "num": 208311,
+        "word": "李梦回应带妆比赛",
+        "onboard_time": 1696749094,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203730,
+        "num": 203730,
+        "word": "iPhone15Pro蓝色钛金属价格暴跌",
+        "onboard_time": 1696733074,
+        "rank": 38,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 165690,
+        "num": 189965,
+        "word": "别再把糖色当成离谱剧情保护色",
+        "onboard_time": 1696731992,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188927,
+        "num": 188927,
+        "word": "王楚钦晋级男单决赛",
+        "onboard_time": 1696752578,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184486,
+        "num": 184486,
+        "word": "林俊杰画画竟然这么好",
+        "onboard_time": 1696750177,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183519,
+        "num": 183519,
+        "word": "蓝天救援队否认中止搜救4岁女童",
+        "onboard_time": 1696741300,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175524,
+        "num": 175524,
+        "word": "S13赛前垃圾话",
+        "onboard_time": 1696750354,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172911,
+        "num": 172911,
+        "word": "孕期尽量用电气灶做饭或不下厨",
+        "onboard_time": 1696741363,
+        "rank": 44,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 167708,
+        "num": 167708,
+        "word": "千万不要穿抹胸去吃火锅",
+        "onboard_time": 1696721127,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32057,
+        "num": 162328,
+        "word": "杭州亚运会高燃时刻大盘点",
+        "onboard_time": 1696752159,
+        "rank": 46,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 160793,
+        "num": 160793,
+        "word": "海事部门已对走失女童开展搜救",
+        "onboard_time": 1696748074,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158547,
+        "num": 158547,
+        "word": "烬相思定档",
+        "onboard_time": 1696739620,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150033,
+        "num": 150033,
+        "word": "你有年轻人的秋天三件套吗",
+        "onboard_time": 1696749094,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式浪漫送别杭州亚运会#"
+    }
+  }
+}
