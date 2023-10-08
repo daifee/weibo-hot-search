@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696769152761,
+  "endTime": 1696771071787,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -19,8 +19,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 4015822,
-      "num": 1047224,
+      "raw_hot": 4128709,
+      "num": 1977991,
       "word": "王权富贵",
       "onboard_time": 1696767758,
       "rank": 5,
@@ -33,6 +33,14 @@
       "onboard_time": 1696734095,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3393888,
+      "num": 3393888,
+      "word": "别让康辉再催啦",
+      "onboard_time": 1696769197,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2654165,
@@ -57,6 +65,14 @@
       "onboard_time": 1696689522,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2244486,
+      "num": 2244486,
+      "word": "杭州亚运会闭幕式",
+      "onboard_time": 1696764576,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 2240734,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 2082572,
-      "num": 1047144,
+      "num": 1856386,
       "word": "北京下雪",
       "onboard_time": 1696766614,
       "rank": 4,
@@ -107,11 +123,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1950454,
-      "num": 1950454,
-      "word": "杭州亚运会闭幕式",
-      "onboard_time": 1696764576,
-      "rank": 24,
+      "raw_hot": 1912748,
+      "num": 1912748,
+      "word": "王楚钦战胜马龙夺冠",
+      "onboard_time": 1696770699,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -172,11 +188,27 @@
     },
     {
       "raw_hot": 1607706,
-      "num": 461650,
+      "num": 766727,
       "word": "高圆圆文淇 鬼怪和新娘",
       "onboard_time": 1696765234,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1604990,
+      "num": 946243,
+      "word": "兰州站王楚钦马龙争冠",
+      "onboard_time": 1696754076,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1589206,
+      "num": 1589206,
+      "word": "杭州亚运正式闭幕",
+      "onboard_time": 1696770340,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1488671,
@@ -211,6 +243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1374083,
+      "num": 733243,
+      "word": "假球",
+      "onboard_time": 1696769437,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1359375,
       "num": 1359375,
       "word": "网曝高校女生被要求抽签进男生宿舍搞卫生",
@@ -243,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1167316,
+      "num": 1167316,
+      "word": "马龙被左撇子痛击的一生",
+      "onboard_time": 1696767816,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1130964,
       "num": 1130964,
       "word": "终于知道为什么手术线会消失了",
@@ -252,7 +300,7 @@
     },
     {
       "raw_hot": 1122807,
-      "num": 455850,
+      "num": 572669,
       "word": "孙颖莎陈梦27拍相持",
       "onboard_time": 1696765834,
       "rank": 12,
@@ -355,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 946243,
-      "num": 946243,
-      "word": "兰州站王楚钦马龙争冠",
-      "onboard_time": 1696754076,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 925719,
       "num": 925719,
       "word": "第一次在古偶见男主送女主莲花",
@@ -372,7 +412,7 @@
     },
     {
       "raw_hot": 903131,
-      "num": 423451,
+      "num": 458105,
       "word": "三小只告别亚运会",
       "onboard_time": 1696767455,
       "rank": 21,
@@ -387,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 887884,
-      "num": 452907,
-      "word": "马龙被左撇子痛击的一生",
-      "onboard_time": 1696767816,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 871891,
       "num": 871891,
       "word": "以色列建国史",
@@ -404,7 +436,7 @@
     },
     {
       "raw_hot": 857743,
-      "num": 422451,
+      "num": 451242,
       "word": "体育总局副局长点名批评男篮",
       "onboard_time": 1696766614,
       "rank": 20,
@@ -492,7 +524,7 @@
     },
     {
       "raw_hot": 702294,
-      "num": 443386,
+      "num": 598841,
       "word": "辱骂女大学生致死案房东以此作诗参赛",
       "onboard_time": 1696766796,
       "rank": 17,
@@ -987,6 +1019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 409240,
+      "num": 409240,
+      "word": "TTG对阵eStar",
+      "onboard_time": 1696770158,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 405521,
       "num": 256008,
       "word": "以色列已致100死908伤",
@@ -1099,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 362798,
+      "num": 362798,
+      "word": "李一桐出演清瞳",
+      "onboard_time": 1696769977,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361413,
       "num": 618845,
       "word": "阿富汗西部地震已致超2000人遇难",
@@ -1121,6 +1169,14 @@
       "onboard_time": 1696750417,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355129,
+      "num": 355129,
+      "word": "英雄志",
+      "onboard_time": 1696769618,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 354518,
@@ -1187,12 +1243,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 336672,
+      "num": 336672,
+      "word": "我们的歌",
+      "onboard_time": 1696766196,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333154,
       "num": 319744,
       "word": "毛晓彤甜妹",
       "onboard_time": 1696729714,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331328,
+      "num": 331328,
+      "word": "李梦回应想看周杰伦演唱会",
+      "onboard_time": 1696769256,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 329775,
@@ -1323,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 301642,
+      "num": 301642,
+      "word": "黄景瑜说四年前演不好林陆骁",
+      "onboard_time": 1696768418,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296325,
       "num": 296325,
       "word": "周深戏腔一开口惠英红都坐不住了",
@@ -1371,28 +1451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 286222,
-      "num": 286222,
-      "word": "黄景瑜说四年前演不好林陆骁",
-      "onboard_time": 1696768418,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 286148,
       "num": 245809,
       "word": "李梦回应带妆比赛",
       "onboard_time": 1696749094,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 284420,
-      "num": 284420,
-      "word": "我们的歌",
-      "onboard_time": 1696766196,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 283228,
@@ -1515,6 +1579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 263030,
+      "num": 263030,
+      "word": "aespa演唱会舞台状态",
+      "onboard_time": 1696770821,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 261723,
       "num": 261723,
       "word": "宋亚轩 奇迹轩轩",
@@ -1537,6 +1609,14 @@
       "onboard_time": 1696749577,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 256943,
+      "num": 256943,
+      "word": "上海走失女童父亲称不能排除被人抱走",
+      "onboard_time": 1696770821,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256321,
@@ -1729,6 +1809,14 @@
       "onboard_time": 1696732955,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 231415,
+      "num": 231415,
+      "word": "杭州亚运会总奖牌榜",
+      "onboard_time": 1696769859,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 230206,
@@ -1939,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204961,
+      "num": 204961,
+      "word": "再见杭州亚运会",
+      "onboard_time": 1696770639,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 204642,
       "num": 204642,
       "word": "唐禹哲纠正宝石Gem东北口音",
@@ -2139,6 +2235,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184111,
+      "num": 184111,
+      "word": "白敬亭骑马照",
+      "onboard_time": 1696769977,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 183442,
+      "num": 183442,
+      "word": "2023挑战者杯抽签结果",
+      "onboard_time": 1696770459,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182330,
       "num": 182330,
       "word": "陈楚生阿璞反差感版光明",
@@ -2313,6 +2425,14 @@
       "onboard_time": 1696728215,
       "rank": 40,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 163236,
+      "num": 599803,
+      "word": "谢震业高举五星红旗入场",
+      "onboard_time": 1696769437,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 162689,
@@ -2755,20 +2875,20 @@
       "category": "体育,科技"
     },
     {
+      "raw_hot": 42358,
+      "num": 1982190,
+      "word": "杭州亚运会高燃时刻大盘点",
+      "onboard_time": 1696752159,
+      "rank": 46,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 41536,
       "num": 540470,
       "word": "国羽高燃4金收官",
       "onboard_time": 1696734036,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39009,
-      "num": 1166248,
-      "word": "杭州亚运会高燃时刻大盘点",
-      "onboard_time": 1696752159,
-      "rank": 46,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 36831,
