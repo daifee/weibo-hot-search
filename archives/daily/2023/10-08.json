@@ -1,7 +1,23 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696732553251,
+  "endTime": 1696735028262,
   "band_list": [
+    {
+      "raw_hot": 3154756,
+      "num": 3154756,
+      "word": "老乡鸡",
+      "onboard_time": 1696730496,
+      "rank": 1,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 2726750,
+      "num": 2726750,
+      "word": "4岁女童搜救因外部原因中止",
+      "onboard_time": 1696734095,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2258122,
       "num": 2258122,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 2210947,
-      "num": 510519,
+      "num": 543378,
       "word": "挖呀挖黄老师5场直播销售额超百万",
       "onboard_time": 1696722512,
       "rank": 10,
@@ -51,12 +67,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1636871,
-      "num": 1636871,
-      "word": "老乡鸡",
-      "onboard_time": 1696730496,
-      "rank": 1,
-      "category": "美食"
+      "raw_hot": 1699298,
+      "num": 1699298,
+      "word": "别再把糖色当成离谱剧情保护色",
+      "onboard_time": 1696731992,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1377748,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 1101684,
-      "num": 503814,
+      "num": 541570,
       "word": "千万不要穿抹胸去吃火锅",
       "onboard_time": 1696721127,
       "rank": 30,
@@ -107,12 +123,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 673004,
+      "num": 673004,
+      "word": "奥特曼婚纱",
+      "onboard_time": 1696731034,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 653784,
+      "num": 330956,
+      "word": "iPhone15Pro蓝色钛金属价格暴跌",
+      "onboard_time": 1696733074,
+      "rank": 20,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 646348,
       "num": 646348,
       "word": "中国最好的博物馆排名",
       "onboard_time": 1696725998,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 638160,
+      "num": 638160,
+      "word": "网曝高校女生被要求抽签进男生宿舍搞卫生",
+      "onboard_time": 1696734036,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 614737,
@@ -147,12 +187,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 548058,
-      "num": 548058,
-      "word": "奥特曼婚纱",
-      "onboard_time": 1696731034,
-      "rank": 19,
-      "category": "动漫"
+      "raw_hot": 543381,
+      "num": 543381,
+      "word": "我国约2.45亿人患高血压",
+      "onboard_time": 1696732232,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 541788,
@@ -227,12 +267,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 453486,
-      "num": 462296,
-      "word": "别再把糖色当成离谱剧情保护色",
-      "onboard_time": 1696731992,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 456407,
+      "num": 456407,
+      "word": "赵今麦8岁到21岁荧幕变化",
+      "onboard_time": 1696731813,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 445871,
@@ -315,6 +355,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 361380,
+      "num": 327997,
+      "word": "研究称人造子宫人体试验或很快会启动",
+      "onboard_time": 1696732834,
+      "rank": 21,
+      "category": "科技,社会新闻"
+    },
+    {
       "raw_hot": 345864,
       "num": 437583,
       "word": "亚运史上第1块霹雳舞金牌",
@@ -379,12 +427,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 310342,
-      "num": 310342,
-      "word": "赵今麦8岁到21岁荧幕变化",
-      "onboard_time": 1696731813,
-      "rank": 49,
-      "category": "作品衍生"
+      "raw_hot": 310984,
+      "num": 310984,
+      "word": "我们的歌第五季开播",
+      "onboard_time": 1696734935,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 308037,
@@ -401,6 +449,14 @@
       "onboard_time": 1696689763,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 302410,
+      "num": 302410,
+      "word": "高圆圆今天穿的好温柔",
+      "onboard_time": 1696734636,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 301724,
@@ -427,12 +483,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283228,
+      "num": 283228,
+      "word": "叙利亚霍姆斯军事学院发生自杀式无人机袭击",
+      "onboard_time": 1696731393,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 282787,
       "num": 282787,
       "word": "这些食物不要放在冰箱里保鲜",
       "onboard_time": 1696723235,
       "rank": 23,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 280658,
+      "num": 280658,
+      "word": "原来困成狗是这么来的",
+      "onboard_time": 1696733197,
+      "rank": 28,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 277370,
+      "num": 277370,
+      "word": "江歌妈妈直播带货",
+      "onboard_time": 1696734636,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276462,
@@ -459,20 +539,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262678,
+      "num": 262678,
+      "word": "王楚钦是怎么夸队友的",
+      "onboard_time": 1696734336,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 256321,
       "num": 256321,
       "word": "王楚钦决胜局11比0",
       "onboard_time": 1696676920,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 250751,
-      "num": 250751,
-      "word": "叙利亚霍姆斯军事学院发生自杀式无人机袭击",
-      "onboard_time": 1696731393,
-      "rank": 34,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 250088,
@@ -491,20 +571,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 248445,
+      "num": 248445,
+      "word": "孙燕姿麦克风失灵的四分钟",
+      "onboard_time": 1696732054,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 247915,
+      "num": 247915,
+      "word": "我国发现战略性金属矿物",
+      "onboard_time": 1696732534,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 247540,
       "num": 247540,
       "word": "侯明昊的骨相",
       "onboard_time": 1696725637,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 241605,
-      "num": 241605,
-      "word": "孙燕姿麦克风失灵的四分钟",
-      "onboard_time": 1696732054,
-      "rank": 31,
-      "category": "演出"
     },
     {
       "raw_hot": 240283,
@@ -515,12 +603,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237560,
+      "num": 237560,
+      "word": "林家栋重返TVB",
+      "onboard_time": 1696732592,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234526,
       "num": 234526,
       "word": "男子海边遇女童独自戏水守护10分钟",
       "onboard_time": 1696682375,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232548,
+      "num": 232548,
+      "word": "婚礼上新娘穿校服入场新郎泪奔",
+      "onboard_time": 1696732955,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230206,
+      "num": 230206,
+      "word": "于文文好像难搞而不自知的甲方",
+      "onboard_time": 1696733914,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 224504,
@@ -683,20 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182350,
-      "num": 182350,
-      "word": "我国发现战略性金属矿物",
-      "onboard_time": 1696732534,
-      "rank": 37,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 182330,
       "num": 182330,
       "word": "陈楚生阿璞反差感版光明",
       "onboard_time": 1696724738,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182033,
+      "num": 182033,
+      "word": "有人没听车银优这一声笑我都会伤心的",
+      "onboard_time": 1696734756,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 182008,
@@ -707,20 +819,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 181648,
+      "num": 181648,
+      "word": "中方就巴以冲突表态",
+      "onboard_time": 1696734935,
+      "rank": 44,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 180647,
+      "num": 180647,
+      "word": "一米五大叔27年跳水救起数十人",
+      "onboard_time": 1696733858,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179674,
       "num": 179674,
       "word": "Liz哭了",
       "onboard_time": 1696679562,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179059,
-      "num": 179059,
-      "word": "我国约2.45亿人患高血压",
-      "onboard_time": 1696732232,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178488,
@@ -779,6 +899,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 160884,
+      "num": 160884,
+      "word": "封神台词之活字乱刷术",
+      "onboard_time": 1696733675,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159808,
       "num": 159808,
       "word": "气血不足一定不要乱补",
@@ -793,6 +921,14 @@
       "onboard_time": 1696719803,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157826,
+      "num": 157826,
+      "word": "张艺兴问贝壳们请假理由",
+      "onboard_time": 1696732774,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 157613,
@@ -1051,6 +1187,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 55890,
+      "num": 161462,
+      "word": "现在流行线上出道",
+      "onboard_time": 1696733317,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 53199,
       "num": 53199,
       "word": "亚运闭幕式门票",
@@ -1083,8 +1227,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25162,
+      "num": 540470,
+      "word": "国羽高燃4金收官",
+      "onboard_time": 1696734036,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23843,
-      "num": 1285527,
+      "num": 2160298,
       "word": "推进共建绿色一带一路",
       "onboard_time": 1696683578,
       "rank": 2,

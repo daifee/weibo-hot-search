@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/08 10:35:53
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/08 11:17:08
 </p>
 </blockquote>
 <p>
@@ -177,6 +177,12 @@ DOTA2中国队夺冠（热度：6586145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23" target="weibo">
+老乡鸡（热度：3154756）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E9%80%80%E8%B5%9B%23" target="weibo">
 樊振东退赛（热度：3005934）
 </a>
@@ -251,6 +257,12 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BC%A0%E6%B3%BD%E7%BE%A4%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%9C%9D%E9%98%B3%E5%8C%BA%E6%B3%95%E9%99%A2%23" target="weibo">
 央视主持人张泽群实名举报朝阳区法院（热度：2754073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%90%9C%E6%95%91%E5%9B%A0%E5%A4%96%E9%83%A8%E5%8E%9F%E5%9B%A0%E4%B8%AD%E6%AD%A2%23" target="weibo">
+4岁女童搜救因外部原因中止（热度：2726750）
 </a>
 </li>
 
@@ -825,6 +837,12 @@ Jennie王一博看秀待遇（热度：1809955）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23" target="weibo">
+别再把糖色当成离谱剧情保护色（热度：1699298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%98%B3%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E9%9F%B3%E4%B9%90%E8%8A%82%E7%9B%97%E7%AA%83%E4%BA%8B%E4%BB%B6%23" target="weibo">
 南阳官方通报音乐节盗窃事件（热度：1693395）
 </a>
@@ -905,12 +923,6 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%20%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%23" target="weibo">
 霸王茶姬 盗墓笔记（热度：1646080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23" target="weibo">
-老乡鸡（热度：1636871）
 </a>
 </li>
 
@@ -3219,6 +3231,12 @@ DOTA2中国队追平（热度：704439）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A9%9A%E7%BA%B1%23" target="weibo">
+奥特曼婚纱（热度：673004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B1%B1%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BF%97%E6%84%BF%E8%80%85%E7%83%AD%E6%83%85%E6%8A%95%E5%96%82%23" target="weibo">
 黄山游客被大学生志愿者热情投喂（热度：671883）
 </a>
@@ -3321,6 +3339,12 @@ DOTA2中国队追平（热度：704439）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%93%9D%E8%89%B2%E9%92%9B%E9%87%91%E5%B1%9E%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23" target="weibo">
+iPhone15Pro蓝色钛金属价格暴跌（热度：653784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E5%92%8C%E7%BD%91%E6%81%8B%E6%95%99%E7%88%B6RichBrian%E5%A5%94%E7%8E%B0%E4%BA%86%23" target="weibo">
 终于和网恋教父RichBrian奔现了（热度：653543）
 </a>
@@ -3413,6 +3437,12 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E7%BB%93%E5%A9%9A%E5%BD%93%E5%A4%A9%E8%A2%AB%E9%94%81%E4%B8%8A%E5%A4%A7%E9%93%81%E9%93%BE%23" target="weibo">
 新郎结婚当天被锁上大铁链（热度：638230）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23" target="weibo">
+网曝高校女生被要求抽签进男生宿舍搞卫生（热度：638160）
 </a>
 </li>
 
@@ -4119,12 +4149,6 @@ DOTA2中国追平蒙古（热度：568263）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A9%9A%E7%BA%B1%23" target="weibo">
-奥特曼婚纱（热度：548058）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A1%94%E8%BF%99%E8%BE%88%E5%AD%90%E6%B2%A1%E8%A2%AB%E8%BF%99%E6%A0%B7%E7%9C%8B%E8%BF%87%23" target="weibo">
 广州塔这辈子没被这样看过（热度：547775）
 </a>
@@ -4151,6 +4175,12 @@ DOTA2中国追平蒙古（热度：568263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E7%AC%91%E5%AE%98%E5%AE%A3%23" target="weibo">
 失笑官宣（热度：543997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E7%BA%A62.45%E4%BA%BF%E4%BA%BA%E6%82%A3%E9%AB%98%E8%A1%80%E5%8E%8B%23" target="weibo">
+我国约2.45亿人患高血压（热度：543381）
 </a>
 </li>
 
@@ -5025,6 +5055,12 @@ iPhone15美国市场销量或陷入停滞（热度：506613）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A68%E5%B2%81%E5%88%B021%E5%B2%81%E8%8D%A7%E5%B9%95%E5%8F%98%E5%8C%96%23" target="weibo">
+赵今麦8岁到21岁荧幕变化（热度：456407）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E8%AF%BA%23" target="weibo">
 马诺（热度：456317）
 </a>
@@ -5057,12 +5093,6 @@ B太云南发现的坑处理结果（热度：453708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E8%AF%95%E7%A9%BF%E5%B0%86%E5%8D%83%E5%85%83%E8%A1%A3%E6%9C%8D%E6%9F%93%E8%A1%80%E6%B8%8D%E6%8B%92%E8%B5%94%E5%81%BF%23" target="weibo">
 女子试穿将千元衣服染血渍拒赔偿（热度：453545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E7%B3%96%E8%89%B2%E5%BD%93%E6%88%90%E7%A6%BB%E8%B0%B1%E5%89%A7%E6%83%85%E4%BF%9D%E6%8A%A4%E8%89%B2%23" target="weibo">
-别再把糖色当成离谱剧情保护色（热度：453486）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ NCT新分队减员（热度：386791）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E6%9D%8E%E6%A2%A6%23" target="weibo">
 还得是李梦（热度：384695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E5%A5%96%E6%96%B0%E5%BE%97%E4%B8%BB%E5%A5%B3%E5%84%BF%E6%9B%BE%E4%B8%A4%E5%A4%BA%E5%A5%A5%E8%BF%90%E9%87%91%E7%89%8C%23" target="weibo">
-诺奖新得主女儿曾两夺奥运金牌（热度：384268）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E6%8D%A1%E8%BA%AB%E4%BB%BD%E8%AF%81%E5%BD%92%E8%BF%98%E6%97%B6%E5%BC%80%E5%90%AF%E5%94%A0%E5%8F%A8%E6%A8%A1%E5%BC%8F%23" target="weibo">
-民警捡身份证归还时开启唠叨模式（热度：384180）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E6%8C%AA%E7%94%A8%E7%99%BE%E4%B8%87%E7%A7%AF%E8%93%84%E6%95%91%E4%BA%BA%E5%A6%BB%E5%AD%90%E5%86%B7%E9%9D%99%E5%90%8E%E5%86%B3%E5%AE%9A%E5%8A%A0%E5%85%A5%23" target="weibo">
-丈夫挪用百万积蓄救人妻子冷静后决定加入（热度：384080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AE%8B%E9%9B%AA%23" target="weibo">
-残雪（热度：383595）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%AD%A6%E5%8F%B7086211%E9%87%8D%E5%90%AF%23" target="weibo">
-江西警号086211重启（热度：383376）
 </a>
 </li>
 
