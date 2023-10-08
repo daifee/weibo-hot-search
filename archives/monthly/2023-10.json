@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696779229565,
+  "endTime": 1696782003879,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5075,6 +5075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 644595,
+      "num": 644595,
+      "word": "甄嬛传中那些被删除掉戏份",
+      "onboard_time": 1696778435,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 642774,
       "num": 642774,
       "word": "江宁婆婆评南阳盗窃事件",
@@ -6225,6 +6233,14 @@
       "onboard_time": 1696302154,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 543957,
+      "num": 524156,
+      "word": "失踪女童父亲称返回时被石头割伤脚趾",
+      "onboard_time": 1696780111,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543186,
@@ -8865,14 +8881,6 @@
       "onboard_time": 1696562255,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 385970,
-      "num": 385970,
-      "word": "甄嬛传中那些被删除掉戏份",
-      "onboard_time": 1696778435,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 385465,
@@ -13235,6 +13243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 259122,
+      "num": 199900,
+      "word": "莲花楼豆瓣超50万人评分",
+      "onboard_time": 1696780354,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259063,
       "num": 341836,
       "word": "7名中国运动员递补奥运奖牌",
@@ -16801,6 +16817,14 @@
       "onboard_time": 1696547901,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 198114,
+      "num": 198114,
+      "word": "侯雯元户外骑行100公里",
+      "onboard_time": 1696780531,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 197941,
@@ -20595,6 +20619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140384,
+      "num": 140384,
+      "word": "李盈莹和蔡斌互评MVP",
+      "onboard_time": 1696779633,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140355,
       "num": 140355,
       "word": "听曾联松后代讲述国旗的故事",
@@ -20857,6 +20889,14 @@
       "onboard_time": 1696210951,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133946,
+      "num": 133946,
+      "word": "阿森纳vs曼城",
+      "onboard_time": 1696781789,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 133925,
@@ -21448,6 +21488,14 @@
       "word": "出警归来女儿一头扎进怀里",
       "onboard_time": 1696635088,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114870,
+      "num": 114870,
+      "word": "民警百米冲刺劝阻与骗子抢钱",
+      "onboard_time": 1696781970,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
