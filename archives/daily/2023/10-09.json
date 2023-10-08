@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696800835279,
+  "endTime": 1696803311222,
   "band_list": [
     {
       "raw_hot": 1298864,
@@ -419,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103933,
+      "num": 96230,
+      "word": "95.2%的主播月收入5000元以下",
+      "onboard_time": 1696794014,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 102507,
       "num": 102507,
       "word": "杭州亚运正式闭幕",
@@ -475,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 54630,
-      "num": 18977,
-      "word": "95.2%的主播月收入5000元以下",
-      "onboard_time": 1696794014,
-      "rank": 30,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 53446,
       "num": 53446,
       "word": "精神小妹人设让我瘦了十斤",
@@ -515,20 +515,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22543,
+      "num": 22543,
+      "word": "迪丽热巴棕色鸭舌帽日常造型",
+      "onboard_time": 1696802655,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 22038,
+      "num": 22038,
+      "word": "朱一龙新片演刑警",
+      "onboard_time": 1696798153,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16501,
       "num": 19612,
       "word": "亚运会氛围有多欢乐",
       "onboard_time": 1696785560,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16479,
-      "num": 17522,
-      "word": "朱一龙新片演刑警",
-      "onboard_time": 1696798153,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 15839,
