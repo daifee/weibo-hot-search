@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696760193734,
+  "endTime": 1696761246915,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -875,6 +875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1888594,
+      "num": 1888594,
+      "word": "是东北菜量大不是东北菜量大",
+      "onboard_time": 1696758154,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1872520,
       "num": 1872520,
       "word": "花西子审美",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1696387899,
       "rank": 1,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1656933,
+      "num": 1656933,
+      "word": "K435列车命案嫌犯被鉴定为精神病人",
+      "onboard_time": 1696759056,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1656190,
@@ -1636,7 +1652,7 @@
     },
     {
       "raw_hot": 1417695,
-      "num": 659686,
+      "num": 784109,
       "word": "夜店文化倒退十年",
       "onboard_time": 1696753296,
       "rank": 11,
@@ -1969,14 +1985,6 @@
       "onboard_time": 1696647276,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1238241,
-      "num": 1238241,
-      "word": "是东北菜量大不是东北菜量大",
-      "onboard_time": 1696758154,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 1237386,
@@ -2563,6 +2571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1017394,
+      "num": 1017394,
+      "word": "以色列中国留学生发声",
+      "onboard_time": 1696756294,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1013533,
       "num": 811327,
       "word": "珠帘玉幕阵容官宣",
@@ -2633,14 +2649,6 @@
       "onboard_time": 1696248276,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1000456,
-      "num": 1000456,
-      "word": "以色列中国留学生发声",
-      "onboard_time": 1696756294,
-      "rank": 45,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1000105,
@@ -2740,7 +2748,7 @@
     },
     {
       "raw_hot": 972663,
-      "num": 647456,
+      "num": 704160,
       "word": "女司机撞倒行人用卫生巾帮止血",
       "onboard_time": 1696754076,
       "rank": 11,
@@ -3539,6 +3547,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 804663,
+      "num": 804663,
+      "word": "为什么年轻人都反感加班",
+      "onboard_time": 1696758333,
+      "rank": 15,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 804001,
       "num": 804001,
       "word": "两只眼睛的度数都没她俩整齐",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1696215933,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 760044,
+      "num": 760044,
+      "word": "以色列建国史",
+      "onboard_time": 1696757913,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 759535,
@@ -4483,14 +4507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 680190,
-      "num": 611094,
-      "word": "K435列车命案嫌犯被鉴定为精神病人",
-      "onboard_time": 1696759056,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 679625,
       "num": 624499,
       "word": "王楚钦在场外自己教育自己",
@@ -4841,6 +4857,14 @@
       "onboard_time": 1696324894,
       "rank": 21,
       "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 637895,
+      "num": 637895,
+      "word": "高圆圆生图",
+      "onboard_time": 1696759174,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 637326,
@@ -5435,14 +5459,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 591182,
-      "num": 591182,
-      "word": "为什么年轻人都反感加班",
-      "onboard_time": 1696758333,
-      "rank": 15,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 590699,
       "num": 590699,
       "word": "陈飞宇说魏大勋第一场戏紧张到疯狂喝水",
@@ -5545,14 +5561,6 @@
       "onboard_time": 1696559134,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 580277,
-      "num": 232803,
-      "word": "以色列建国史",
-      "onboard_time": 1696757913,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 579991,
@@ -6707,6 +6715,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 487579,
+      "num": 487579,
+      "word": "陈雨菲最后一届亚运会",
+      "onboard_time": 1696758936,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 487517,
       "num": 442391,
       "word": "升血糖能力比糖还厉害的小吃",
@@ -7201,14 +7217,6 @@
       "onboard_time": 1696680758,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 454791,
-      "num": 454791,
-      "word": "陈雨菲最后一届亚运会",
-      "onboard_time": 1696758936,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 454742,
@@ -7761,14 +7769,6 @@
       "onboard_time": 1696688560,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 425531,
-      "num": 425531,
-      "word": "高圆圆生图",
-      "onboard_time": 1696759174,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 422243,
@@ -9235,6 +9235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354518,
+      "num": 354518,
+      "word": "文俊辉釜山电影节红毯",
+      "onboard_time": 1696760313,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354283,
       "num": 354283,
       "word": "张小斐演妈是妈演姐是姐",
@@ -9441,6 +9449,14 @@
       "onboard_time": 1696165364,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348402,
+      "num": 348402,
+      "word": "第一次在古偶见男主送女主莲花",
+      "onboard_time": 1696760674,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 348151,
@@ -9689,6 +9705,14 @@
       "onboard_time": 1696246235,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338646,
+      "num": 338646,
+      "word": "垃圾line合作舞台",
+      "onboard_time": 1696759953,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337908,
@@ -11363,6 +11387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286873,
+      "num": 286873,
+      "word": "曾舜晞被撩得耳朵都红了",
+      "onboard_time": 1696759833,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286690,
       "num": 286690,
       "word": "周冬雨雷佳音 没有CP感",
@@ -12243,6 +12275,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 269611,
+      "num": 269611,
+      "word": "文俊辉获釜山电影节RisingStar奖",
+      "onboard_time": 1696760736,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 269546,
       "num": 269546,
       "word": "迪丽热巴好像导游",
@@ -13017,6 +13057,14 @@
       "onboard_time": 1696084179,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250271,
+      "num": 250271,
+      "word": "Angelababy将缺席跑男特别季录制",
+      "onboard_time": 1696761156,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 250159,
@@ -15571,6 +15619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204950,
+      "num": 204950,
+      "word": "原来HR喜欢这样的简历",
+      "onboard_time": 1696760974,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204940,
       "num": 204940,
       "word": "丢失背包乐迷为南阳发声",
@@ -18075,6 +18131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172176,
+      "num": 172176,
+      "word": "小伙得知钱包被交警捡到直接上班了",
+      "onboard_time": 1696761215,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172129,
       "num": 172129,
       "word": "张远试图聪明但失败了",
@@ -18537,14 +18601,6 @@
       "onboard_time": 1696092868,
       "rank": 22,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 163297,
-      "num": 163297,
-      "word": "垃圾line合作舞台",
-      "onboard_time": 1696759953,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 163244,
@@ -19577,14 +19633,6 @@
       "onboard_time": 1696573236,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143800,
-      "num": 143800,
-      "word": "曾舜晞被撩得耳朵都红了",
-      "onboard_time": 1696759833,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 143791,
@@ -20780,7 +20828,7 @@
     },
     {
       "raw_hot": 106110,
-      "num": 136129,
+      "num": 156546,
       "word": "盘点杭州亚运会背后的科技力量",
       "onboard_time": 1696759354,
       "rank": 48,
@@ -20984,6 +21032,14 @@
       "word": "纽卡斯尔联4比1巴黎圣日耳曼",
       "onboard_time": 1696460841,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93048,
+      "num": 647069,
+      "word": "这是中国人骨子里的信仰",
+      "onboard_time": 1696760434,
+      "rank": 14,
       "category": "体育"
     },
     {

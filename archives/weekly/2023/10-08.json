@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696760193734,
+  "endTime": 1696761246915,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1888594,
+      "num": 1888594,
+      "word": "是东北菜量大不是东北菜量大",
+      "onboard_time": 1696758154,
+      "rank": 5,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1857918,
       "num": 1857918,
       "word": "孙颖莎vs王曼昱",
@@ -123,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1656933,
+      "num": 1656933,
+      "word": "K435列车命案嫌犯被鉴定为精神病人",
+      "onboard_time": 1696759056,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1448686,
       "num": 1448686,
       "word": "弄丢涉密文件女孩哭诉要失业民警解困",
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 1417695,
-      "num": 659686,
+      "num": 784109,
       "word": "夜店文化倒退十年",
       "onboard_time": 1696753296,
       "rank": 11,
@@ -177,14 +193,6 @@
       "onboard_time": 1696756655,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1238241,
-      "num": 1238241,
-      "word": "是东北菜量大不是东北菜量大",
-      "onboard_time": 1696758154,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 1186413,
@@ -243,8 +251,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1000456,
-      "num": 1000456,
+      "raw_hot": 1017394,
+      "num": 1017394,
       "word": "以色列中国留学生发声",
       "onboard_time": 1696756294,
       "rank": 45,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 972663,
-      "num": 647456,
+      "num": 704160,
       "word": "女司机撞倒行人用卫生巾帮止血",
       "onboard_time": 1696754076,
       "rank": 11,
@@ -323,6 +331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 804663,
+      "num": 804663,
+      "word": "为什么年轻人都反感加班",
+      "onboard_time": 1696758333,
+      "rank": 15,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 793375,
       "num": 793375,
       "word": "任嘉伦诉网友侵权案将开庭",
@@ -336,6 +352,14 @@
       "word": "以色列",
       "onboard_time": 1696661376,
       "rank": 40,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 760044,
+      "num": 760044,
+      "word": "以色列建国史",
+      "onboard_time": 1696757913,
+      "rank": 30,
       "category": "国外要闻"
     },
     {
@@ -361,14 +385,6 @@
       "onboard_time": 1696697963,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 680190,
-      "num": 611094,
-      "word": "K435列车命案嫌犯被鉴定为精神病人",
-      "onboard_time": 1696759056,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 673004,
@@ -425,6 +441,14 @@
       "onboard_time": 1696725998,
       "rank": 7,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 637895,
+      "num": 637895,
+      "word": "高圆圆生图",
+      "onboard_time": 1696759174,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 634234,
@@ -499,14 +523,6 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 591182,
-      "num": 591182,
-      "word": "为什么年轻人都反感加班",
-      "onboard_time": 1696758333,
-      "rank": 15,
-      "category": "社会议题"
-    },
-    {
       "raw_hot": 589674,
       "num": 589674,
       "word": "烬相思定档",
@@ -521,14 +537,6 @@
       "onboard_time": 1696671876,
       "rank": 34,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 580277,
-      "num": 232803,
-      "word": "以色列建国史",
-      "onboard_time": 1696757913,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 573998,
@@ -675,6 +683,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 487579,
+      "num": 487579,
+      "word": "陈雨菲最后一届亚运会",
+      "onboard_time": 1696758936,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 476753,
       "num": 476753,
       "word": "第一次见到婚礼回礼给银子的",
@@ -739,14 +755,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 454791,
-      "num": 454791,
-      "word": "陈雨菲最后一届亚运会",
-      "onboard_time": 1696758936,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 451059,
       "num": 451059,
       "word": "成毅张予曦付辛博豪门秋日大片",
@@ -800,14 +808,6 @@
       "word": "肖战原野漫步好迷人",
       "onboard_time": 1696750895,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 425531,
-      "num": 425531,
-      "word": "高圆圆生图",
-      "onboard_time": 1696759174,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -931,6 +931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 354518,
+      "num": 354518,
+      "word": "文俊辉釜山电影节红毯",
+      "onboard_time": 1696760313,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 349364,
       "num": 349364,
       "word": "小米高级副总裁张峰将离职",
@@ -939,12 +947,28 @@
       "category": "科技"
     },
     {
+      "raw_hot": 348402,
+      "num": 348402,
+      "word": "第一次在古偶见男主送女主莲花",
+      "onboard_time": 1696760674,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 345864,
       "num": 437583,
       "word": "亚运史上第1块霹雳舞金牌",
       "onboard_time": 1696676017,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 338646,
+      "num": 338646,
+      "word": "垃圾line合作舞台",
+      "onboard_time": 1696759953,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 337958,
@@ -1147,6 +1171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 286873,
+      "num": 286873,
+      "word": "曾舜晞被撩得耳朵都红了",
+      "onboard_time": 1696759833,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286148,
       "num": 245809,
       "word": "李梦回应带妆比赛",
@@ -1227,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269611,
+      "num": 269611,
+      "word": "文俊辉获釜山电影节RisingStar奖",
+      "onboard_time": 1696760736,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264857,
       "num": 264857,
       "word": "SMTOWN虚拟偶像Naevis明年出道",
@@ -1297,6 +1337,14 @@
       "onboard_time": 1696748074,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 250271,
+      "num": 250271,
+      "word": "Angelababy将缺席跑男特别季录制",
+      "onboard_time": 1696761156,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 250088,
@@ -1635,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204950,
+      "num": 204950,
+      "word": "原来HR喜欢这样的简历",
+      "onboard_time": 1696760974,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 204642,
       "num": 204642,
       "word": "唐禹哲纠正宝石Gem东北口音",
@@ -1899,6 +1955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172176,
+      "num": 172176,
+      "word": "小伙得知钱包被交警捡到直接上班了",
+      "onboard_time": 1696761215,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172162,
       "num": 172162,
       "word": "卢昱晓不愧是魅阶",
@@ -1953,14 +2017,6 @@
       "onboard_time": 1696728215,
       "rank": 40,
       "category": "体育,音乐"
-    },
-    {
-      "raw_hot": 163297,
-      "num": 163297,
-      "word": "垃圾line合作舞台",
-      "onboard_time": 1696759953,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 162689,
@@ -2049,14 +2105,6 @@
       "onboard_time": 1696730615,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143800,
-      "num": 143800,
-      "word": "曾舜晞被撩得耳朵都红了",
-      "onboard_time": 1696759833,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 141478,
@@ -2172,7 +2220,7 @@
     },
     {
       "raw_hot": 106110,
-      "num": 136129,
+      "num": 156546,
       "word": "盘点杭州亚运会背后的科技力量",
       "onboard_time": 1696759354,
       "rank": 48,
@@ -2209,6 +2257,14 @@
       "onboard_time": 1696657778,
       "rank": 47,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 93048,
+      "num": 647069,
+      "word": "这是中国人骨子里的信仰",
+      "onboard_time": 1696760434,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 91872,
