@@ -1,0 +1,410 @@
+{
+  "runTime": 1696739651296,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4772579,
+        "num": 4772579,
+        "word": "老乡鸡",
+        "onboard_time": 1696730496,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 4212239,
+        "num": 4212239,
+        "word": "性缘脑",
+        "onboard_time": 1696736137,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59176,
+        "num": 3305102,
+        "word": "心心相融爱达未来",
+        "onboard_time": 1696738479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3258803,
+        "num": 3258803,
+        "word": "4岁女童搜救因外部原因中止",
+        "onboard_time": 1696734095,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1717781,
+        "num": 1717781,
+        "word": "江歌妈妈直播带货",
+        "onboard_time": 1696734636,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1337126,
+        "num": 1337126,
+        "word": "别再把糖色当成离谱剧情保护色",
+        "onboard_time": 1696731992,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1038689,
+        "num": 1038689,
+        "word": "朱一龙为角色增重减重50斤",
+        "onboard_time": 1696736918,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1035722,
+        "num": 1035722,
+        "word": "李子柒或将复出",
+        "onboard_time": 1696738058,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1018015,
+        "num": 1018015,
+        "word": "网曝高校女生被要求抽签进男生宿舍搞卫生",
+        "onboard_time": 1696734036,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 805631,
+        "num": 805631,
+        "word": "中方就巴以冲突表态",
+        "onboard_time": 1696734935,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 795158,
+        "num": 795158,
+        "word": "THE9演唱会抢票",
+        "onboard_time": 1696736798,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22975,
+        "num": 754592,
+        "word": "老乡鸡免费",
+        "onboard_time": 1696737520,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 736175,
+        "num": 736175,
+        "word": "千万不要穿抹胸去吃火锅",
+        "onboard_time": 1696721127,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 647434,
+        "num": 647434,
+        "word": "在成都失联超半月女子遗体被找到",
+        "onboard_time": 1696728156,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391562,
+        "num": 606279,
+        "word": "巴以冲突双方死亡人数已超400",
+        "onboard_time": 1696722873,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 600453,
+        "num": 600453,
+        "word": "朱一龙过上了余华小说里的生活",
+        "onboard_time": 1696739263,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 550820,
+        "num": 550820,
+        "word": "冰岛偶遇迪丽热巴超市买菜",
+        "onboard_time": 1696736259,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 542694,
+        "num": 542694,
+        "word": "西安重大刑案嫌疑人被抓获",
+        "onboard_time": 1696737520,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533770,
+        "num": 533770,
+        "word": "韩国人不睡觉的标签可以撤了",
+        "onboard_time": 1696735298,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521346,
+        "num": 521346,
+        "word": "张彬彬是和桃花过不去了吗",
+        "onboard_time": 1696737758,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 608139,
+        "num": 507797,
+        "word": "iPhone15Pro蓝色钛金属价格暴跌",
+        "onboard_time": 1696733074,
+        "rank": 20,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 601933,
+        "num": 507491,
+        "word": "狗子误食3斤泡酒杨梅醉倒后死亡",
+        "onboard_time": 1696735897,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494101,
+        "num": 494101,
+        "word": "研究称人造子宫人体试验或很快会启动",
+        "onboard_time": 1696732834,
+        "rank": 22,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 464234,
+        "num": 464234,
+        "word": "张桂梅高速上将40余名学生护在身后",
+        "onboard_time": 1696737579,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451059,
+        "num": 451059,
+        "word": "成毅张予曦付辛博豪门秋日大片",
+        "onboard_time": 1696737220,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 410358,
+        "num": 410358,
+        "word": "挖呀挖黄老师5场直播销售额超百万",
+        "onboard_time": 1696722512,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 384994,
+        "num": 384994,
+        "word": "中国队杭州亚运会201金收官",
+        "onboard_time": 1696737697,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 326136,
+        "num": 326136,
+        "word": "女记者直播时身后大楼被以军夷为平地",
+        "onboard_time": 1696735232,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 323743,
+        "num": 323743,
+        "word": "高圆圆今天穿的好温柔",
+        "onboard_time": 1696734636,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323583,
+        "num": 323583,
+        "word": "上海4岁女童搜索区域已到浙江舟山",
+        "onboard_time": 1696725698,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297933,
+        "num": 297933,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696689522,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 288941,
+        "num": 288941,
+        "word": "10种病会在夫妻间传染",
+        "onboard_time": 1696735716,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259709,
+        "num": 259709,
+        "word": "终于知道为什么手术线会消失了",
+        "onboard_time": 1696722694,
+        "rank": 32,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 256539,
+        "num": 256539,
+        "word": "SMTOWN虚拟偶像Naevis明年出道",
+        "onboard_time": 1696738236,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256436,
+        "num": 256436,
+        "word": "以色列总理强硬表态",
+        "onboard_time": 1696730254,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 245859,
+        "num": 245859,
+        "word": "勇士战胜湖人",
+        "onboard_time": 1696735298,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242525,
+        "num": 242525,
+        "word": "杜华首谈章昊的实力和出道",
+        "onboard_time": 1696738839,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236918,
+        "num": 236918,
+        "word": "你那不叫勇敢叫家里有钱",
+        "onboard_time": 1696729413,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 235173,
+        "num": 235173,
+        "word": "清华本硕博放弃北京中产去往非洲",
+        "onboard_time": 1696729774,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228666,
+        "num": 228666,
+        "word": "上海女童失联监护人是否担刑责",
+        "onboard_time": 1696738782,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216315,
+        "num": 216315,
+        "word": "我国约2.45亿人患高血压",
+        "onboard_time": 1696732232,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205631,
+        "num": 205631,
+        "word": "陈雨菲父母说只要闺女开心打球就好",
+        "onboard_time": 1696738479,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204178,
+        "num": 204178,
+        "word": "王传君江疏影银幕饭搭子",
+        "onboard_time": 1696737338,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199725,
+        "num": 199725,
+        "word": "林俊杰没有一首一千年以后是一样的",
+        "onboard_time": 1696726659,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191232,
+        "num": 191232,
+        "word": "我戈壁爆胎遇到救星了",
+        "onboard_time": 1696739383,
+        "rank": 44,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 182558,
+        "num": 182558,
+        "word": "于文文好像难搞而不自知的甲方",
+        "onboard_time": 1696733914,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179439,
+        "num": 179439,
+        "word": "阴阳师",
+        "onboard_time": 1696737037,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178213,
+        "num": 178213,
+        "word": "烬相思定档",
+        "onboard_time": 1696739620,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176465,
+        "num": 176465,
+        "word": "王楚钦是怎么夸队友的",
+        "onboard_time": 1696734336,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174963,
+        "num": 174963,
+        "word": "赵今麦8岁到21岁荧幕变化",
+        "onboard_time": 1696731813,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会纪念短片#"
+    }
+  }
+}
