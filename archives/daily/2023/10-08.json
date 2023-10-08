@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696743251672,
+  "endTime": 1696746085293,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -32,6 +32,14 @@
       "word": "蓝天救援队否认中止搜救4岁女童",
       "onboard_time": 1696741300,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2443512,
+      "num": 2443512,
+      "word": "江歌妈妈已成立传媒公司",
+      "onboard_time": 1696742502,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -163,6 +171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1013800,
+      "num": 1013800,
+      "word": "弄丢涉密文件女孩哭诉要失业民警解困",
+      "onboard_time": 1696743695,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 807810,
       "num": 807810,
       "word": "中方就巴以冲突表态",
@@ -177,6 +193,14 @@
       "onboard_time": 1696736798,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 765898,
+      "num": 561089,
+      "word": "以色列",
+      "onboard_time": 1696661376,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 728211,
@@ -257,6 +281,14 @@
       "onboard_time": 1696735897,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601453,
+      "num": 601453,
+      "word": "孕期尽量用电气灶做饭或不下厨",
+      "onboard_time": 1696741363,
+      "rank": 25,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 592010,
@@ -379,14 +411,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 505726,
-      "num": 505726,
-      "word": "江歌妈妈已成立传媒公司",
-      "onboard_time": 1696742502,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 500969,
       "num": 500969,
       "word": "奥纳纳丢球",
@@ -401,14 +425,6 @@
       "onboard_time": 1696739741,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 467172,
-      "num": 393316,
-      "word": "孕期尽量用电气灶做饭或不下厨",
-      "onboard_time": 1696741363,
-      "rank": 25,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 466082,
@@ -459,6 +475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 451001,
+      "num": 451001,
+      "word": "原来男友身高会影响女友颜值",
+      "onboard_time": 1696743516,
+      "rank": 15,
+      "category": "情感"
+    },
+    {
       "raw_hot": 445871,
       "num": 445871,
       "word": "小沈阳满脸写着我想逃",
@@ -497,6 +521,14 @@
       "onboard_time": 1696741063,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 398292,
+      "num": 398292,
+      "word": "迪丽热巴看鲸鱼被偶遇",
+      "onboard_time": 1696745257,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 395288,
@@ -539,12 +571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 380305,
+      "num": 380305,
+      "word": "pdf写罪状录",
+      "onboard_time": 1696745015,
+      "rank": 17,
+      "category": "情感"
+    },
+    {
       "raw_hot": 378560,
       "num": 309865,
       "word": "夫妻吵架后第二天的便当",
       "onboard_time": 1696723834,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 378067,
+      "num": 378067,
+      "word": "肖战演出作品表",
+      "onboard_time": 1696744295,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 377709,
@@ -611,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 327812,
+      "num": 327812,
+      "word": "海底捞开到大学里了",
+      "onboard_time": 1696742436,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 326136,
       "num": 326136,
       "word": "女记者直播时身后大楼被以军夷为平地",
@@ -644,7 +700,7 @@
     },
     {
       "raw_hot": 312587,
-      "num": 312587,
+      "num": 451909,
       "word": "上海女童失联监护人是否担刑责",
       "onboard_time": 1696738782,
       "rank": 39,
@@ -835,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249340,
+      "num": 249340,
+      "word": "张彬彬孙珍妮新剧双A造型",
+      "onboard_time": 1696744177,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248445,
       "num": 248445,
       "word": "孙燕姿麦克风失灵的四分钟",
@@ -899,6 +963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234922,
+      "num": 234922,
+      "word": "小小时代不是林萧顾里她们唱的",
+      "onboard_time": 1696745432,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 234526,
       "num": 234526,
       "word": "男子海边遇女童独自戏水守护10分钟",
@@ -939,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221980,
+      "num": 212264,
+      "word": "巴以冲突动态",
+      "onboard_time": 1696744356,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 216242,
       "num": 216242,
       "word": "丁霞哭了",
@@ -969,14 +1049,6 @@
       "onboard_time": 1696682257,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210786,
-      "num": 210786,
-      "word": "海底捞开到大学里了",
-      "onboard_time": 1696742436,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 210221,
@@ -1081,6 +1153,14 @@
       "onboard_time": 1696721306,
       "rank": 44,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 197337,
+      "num": 197337,
+      "word": "公交车里都是汉服公主是什么场面",
+      "onboard_time": 1696744955,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197199,
@@ -1203,11 +1283,27 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 172883,
+      "num": 172883,
+      "word": "跟交警坦白我想闯红灯结果太温暖",
+      "onboard_time": 1696745916,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172162,
       "num": 172162,
       "word": "卢昱晓不愧是魅阶",
       "onboard_time": 1696688206,
       "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172129,
+      "num": 172129,
+      "word": "张远试图聪明但失败了",
+      "onboard_time": 1696745196,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -1273,6 +1369,14 @@
       "onboard_time": 1696719803,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158265,
+      "num": 158265,
+      "word": "欧阳娜娜美拉德穿搭",
+      "onboard_time": 1696745916,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 157826,
@@ -1369,14 +1473,6 @@
       "onboard_time": 1696681659,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125792,
-      "num": 125792,
-      "word": "以色列",
-      "onboard_time": 1696661376,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 123793,

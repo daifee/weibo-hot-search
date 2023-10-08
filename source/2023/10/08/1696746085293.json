@@ -1,0 +1,410 @@
+{
+  "runTime": 1696746085293,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2443512,
+        "num": 2443512,
+        "word": "江歌妈妈已成立传媒公司",
+        "onboard_time": 1696742502,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2213214,
+        "num": 2213214,
+        "word": "性缘脑",
+        "onboard_time": 1696736137,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 49570,
+        "num": 1430720,
+        "word": "心心相融爱达未来",
+        "onboard_time": 1696738479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1056665,
+        "num": 1056665,
+        "word": "老乡鸡",
+        "onboard_time": 1696730496,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1013800,
+        "num": 1013800,
+        "word": "弄丢涉密文件女孩哭诉要失业民警解困",
+        "onboard_time": 1696743695,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1711094,
+        "num": 1008376,
+        "word": "蓝天救援队否认中止搜救4岁女童",
+        "onboard_time": 1696741300,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904999,
+        "num": 904999,
+        "word": "朱一龙为角色增重减重50斤",
+        "onboard_time": 1696736918,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 668531,
+        "num": 668531,
+        "word": "别再把糖色当成离谱剧情保护色",
+        "onboard_time": 1696731992,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601453,
+        "num": 601453,
+        "word": "孕期尽量用电气灶做饭或不下厨",
+        "onboard_time": 1696741363,
+        "rank": 8,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 562125,
+        "num": 562125,
+        "word": "网曝高校女生被要求抽签进男生宿舍搞卫生",
+        "onboard_time": 1696734036,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 765898,
+        "num": 561089,
+        "word": "以色列",
+        "onboard_time": 1696743398,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 558667,
+        "num": 558667,
+        "word": "iPhone15Pro蓝色钛金属价格暴跌",
+        "onboard_time": 1696733074,
+        "rank": 11,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 483981,
+        "num": 483981,
+        "word": "千万不要穿抹胸去吃火锅",
+        "onboard_time": 1696721127,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 319984,
+        "num": 453158,
+        "word": "中方就巴以冲突表态",
+        "onboard_time": 1696734935,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 252397,
+        "num": 451909,
+        "word": "上海女童失联监护人是否担刑责",
+        "onboard_time": 1696738782,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451001,
+        "num": 451001,
+        "word": "原来男友身高会影响女友颜值",
+        "onboard_time": 1696743516,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 398292,
+        "num": 398292,
+        "word": "迪丽热巴看鲸鱼被偶遇",
+        "onboard_time": 1696745257,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380305,
+        "num": 380305,
+        "word": "pdf写罪状录",
+        "onboard_time": 1696745015,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378067,
+        "num": 378067,
+        "word": "肖战演出作品表",
+        "onboard_time": 1696744295,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366856,
+        "num": 366856,
+        "word": "于适坐到车上衬衫被撑爆了",
+        "onboard_time": 1696739679,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364826,
+        "num": 364826,
+        "word": "江歌妈妈直播带货",
+        "onboard_time": 1696734636,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361883,
+        "num": 361883,
+        "word": "烬相思定档",
+        "onboard_time": 1696739620,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344672,
+        "num": 344672,
+        "word": "王阳体重只有130斤",
+        "onboard_time": 1696742617,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330659,
+        "num": 330659,
+        "word": "朱一龙过上了余华小说里的生活",
+        "onboard_time": 1696739263,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 327812,
+        "num": 327812,
+        "word": "海底捞开到大学里了",
+        "onboard_time": 1696742436,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 305879,
+        "num": 305879,
+        "word": "泽连斯基发文声援以色列",
+        "onboard_time": 1696739741,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 285361,
+        "num": 285361,
+        "word": "狗子误食3斤泡酒杨梅醉倒后死亡",
+        "onboard_time": 1696735897,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259905,
+        "num": 259905,
+        "word": "THE9演唱会抢票",
+        "onboard_time": 1696736798,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 253186,
+        "num": 253186,
+        "word": "冰岛偶遇迪丽热巴超市买菜",
+        "onboard_time": 1696736259,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252138,
+        "num": 252138,
+        "word": "田嘉瑞决定当演员的原因",
+        "onboard_time": 1696741063,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 249340,
+        "num": 249340,
+        "word": "张彬彬孙珍妮新剧双A造型",
+        "onboard_time": 1696744177,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234922,
+        "num": 234922,
+        "word": "小小时代不是林萧顾里她们唱的",
+        "onboard_time": 1696745432,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225776,
+        "num": 225776,
+        "word": "拜登准备为以色列提供一切支持手段",
+        "onboard_time": 1696740701,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 222890,
+        "num": 222890,
+        "word": "清华本硕博放弃北京中产去往非洲",
+        "onboard_time": 1696729774,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212296,
+        "num": 212296,
+        "word": "张桂梅高速上将40余名学生护在身后",
+        "onboard_time": 1696737579,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221980,
+        "num": 212264,
+        "word": "巴以冲突动态",
+        "onboard_time": 1696744356,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 212187,
+        "num": 212187,
+        "word": "在成都失联超半月女子遗体被找到",
+        "onboard_time": 1696728156,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204791,
+        "num": 204791,
+        "word": "侧躺玩手机 斜视",
+        "onboard_time": 1696739981,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197819,
+        "num": 197819,
+        "word": "周柯宇经纪公司声明",
+        "onboard_time": 1696743156,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197337,
+        "num": 197337,
+        "word": "公交车里都是汉服公主是什么场面",
+        "onboard_time": 1696744955,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181485,
+        "num": 181485,
+        "word": "韩国人不睡觉的标签可以撤了",
+        "onboard_time": 1696735298,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178771,
+        "num": 178771,
+        "word": "10种病会在夫妻间传染",
+        "onboard_time": 1696735716,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172883,
+        "num": 172883,
+        "word": "跟交警坦白我想闯红灯结果太温暖",
+        "onboard_time": 1696745916,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172129,
+        "num": 172129,
+        "word": "张远试图聪明但失败了",
+        "onboard_time": 1696745196,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170617,
+        "num": 170617,
+        "word": "外公查寄宿孙女饭卡记录担心吃不好",
+        "onboard_time": 1696740339,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158265,
+        "num": 158265,
+        "word": "欧阳娜娜美拉德穿搭",
+        "onboard_time": 1696745916,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 155077,
+        "num": 155077,
+        "word": "巴以冲突双方死亡人数已超400",
+        "onboard_time": 1696722873,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 151453,
+        "num": 151453,
+        "word": "西安重大刑案嫌疑人被抓获",
+        "onboard_time": 1696737520,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149553,
+        "num": 149553,
+        "word": "IVE小学生统领",
+        "onboard_time": 1696741837,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148890,
+        "num": 148890,
+        "word": "女记者直播时身后大楼被以军夷为平地",
+        "onboard_time": 1696735232,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式浪漫送别杭州亚运会#"
+    }
+  }
+}
