@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696793624946,
+  "endTime": 1696796200460,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -22563,6 +22563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48699,
+      "num": 18563,
+      "word": "95.2%的主播月收入5000元以下",
+      "onboard_time": 1696794014,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 47798,
       "num": 47798,
       "word": "薛之谦音乐节贵阳",
@@ -23057,6 +23065,14 @@
       "onboard_time": 1696233634,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13061,
+      "num": 16055,
+      "word": "闪亮的你",
+      "onboard_time": 1696795933,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 13026,

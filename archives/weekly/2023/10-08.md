@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/09 03:33:44
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/09 04:16:40
 </p>
 </blockquote>
 <p>
@@ -2523,6 +2523,12 @@ enhypen饭撒（热度：103559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2395.2%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A55000%E5%85%83%E4%BB%A5%E4%B8%8B%23" target="weibo">
+95.2%的主播月收入5000元以下（热度：48699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E4%BA%9A%E8%BF%90%E7%9A%84%E6%99%BA%E8%83%BD%E5%90%AB%E9%87%8F%E6%9C%89%E7%82%B9%E9%AB%98%23" target="weibo">
 这届亚运的智能含量有点高（热度：45968）
 </a>
@@ -2597,6 +2603,12 @@ kpop组合专辑总销量TOP9（热度：19014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E5%86%85%E5%AE%B9%E5%A4%A7%E8%B5%8F%23" target="weibo">
 亚洲内容大赏（热度：15839）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AA%E4%BA%AE%E7%9A%84%E4%BD%A0%23" target="weibo">
+闪亮的你（热度：13061）
 </a>
 </li>
 

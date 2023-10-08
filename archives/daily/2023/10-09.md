@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/09 00:20:03 ~ 2023/10/09 03:33:44
+本榜单时间：2023/10/09 00:20:03 ~ 2023/10/09 04:16:40
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2395.2%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A55000%E5%85%83%E4%BB%A5%E4%B8%8B%23" target="weibo">
+95.2%的主播月收入5000元以下（热度：48699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E5%85%8B%E8%90%A8%E6%B4%AA%E6%B0%B4%23" target="weibo">
 阿克萨洪水（热度：41859）
 </a>
@@ -401,6 +407,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%B4%B2%E5%86%85%E5%AE%B9%E5%A4%A7%E8%B5%8F%23" target="weibo">
 亚洲内容大赏（热度：15839）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AA%E4%BA%AE%E7%9A%84%E4%BD%A0%23" target="weibo">
+闪亮的你（热度：13061）
 </a>
 </li>
 

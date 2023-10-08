@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696793624946,
+  "endTime": 1696796200460,
   "band_list": [
     {
       "raw_hot": 1298864,
@@ -483,6 +483,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 48699,
+      "num": 18563,
+      "word": "95.2%的主播月收入5000元以下",
+      "onboard_time": 1696794014,
+      "rank": 30,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 41859,
       "num": 41495,
       "word": "阿克萨洪水",
@@ -521,6 +529,14 @@
       "onboard_time": 1696789875,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 13061,
+      "num": 16055,
+      "word": "闪亮的你",
+      "onboard_time": 1696795933,
+      "rank": 46,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
