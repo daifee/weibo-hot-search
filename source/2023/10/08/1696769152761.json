@@ -1,0 +1,410 @@
+{
+  "runTime": 1696769152761,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1950454,
+        "num": 1950454,
+        "word": "杭州亚运会闭幕式",
+        "onboard_time": 1696764576,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1131128,
+        "num": 1131128,
+        "word": "孙颖莎兰州站夺冠",
+        "onboard_time": 1696766975,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39009,
+        "num": 1050856,
+        "word": "杭州亚运会高燃时刻大盘点",
+        "onboard_time": 1696752159,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4015822,
+        "num": 1047224,
+        "word": "王权富贵",
+        "onboard_time": 1696767758,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2082572,
+        "num": 1033072,
+        "word": "北京下雪",
+        "onboard_time": 1696766614,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1015004,
+        "num": 1015004,
+        "word": "珠海宣布中小学停课",
+        "onboard_time": 1696763974,
+        "rank": 5,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 946243,
+        "num": 946243,
+        "word": "兰州站王楚钦马龙争冠",
+        "onboard_time": 1696754076,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713642,
+        "num": 713642,
+        "word": "别再把糖色当成离谱剧情保护色",
+        "onboard_time": 1696762717,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 528783,
+        "num": 528783,
+        "word": "埃及一警察向以色列游客开枪致3死",
+        "onboard_time": 1696763195,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 457743,
+        "num": 457743,
+        "word": "边伯贤 抗日神剧",
+        "onboard_time": 1696749875,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1607706,
+        "num": 457639,
+        "word": "高圆圆文淇 鬼怪和新娘",
+        "onboard_time": 1696765234,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1267983,
+        "num": 455007,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1696756655,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 887884,
+        "num": 452907,
+        "word": "马龙被左撇子痛击的一生",
+        "onboard_time": 1696767816,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127955,
+        "num": 450092,
+        "word": "回顾巴以冲突始末",
+        "onboard_time": 1696762655,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 156258,
+        "num": 448426,
+        "word": "上支付宝抢闭幕式限量隐藏彩蛋",
+        "onboard_time": 1696766437,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714459,
+        "num": 445349,
+        "word": "孙颖莎陈梦27拍相持",
+        "onboard_time": 1696765834,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 702294,
+        "num": 443386,
+        "word": "辱骂女大学生致死案房东以此作诗参赛",
+        "onboard_time": 1696766796,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 557291,
+        "num": 440292,
+        "word": "杨紫白色棒球帽好女高",
+        "onboard_time": 1696763734,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 439420,
+        "num": 439420,
+        "word": "李子柒消失两年还会被偏爱吗",
+        "onboard_time": 1696747895,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 428632,
+        "num": 428632,
+        "word": "第一次在古偶见男主送女主莲花",
+        "onboard_time": 1696760674,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 903131,
+        "num": 423451,
+        "word": "三小只告别亚运会",
+        "onboard_time": 1696767455,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 799702,
+        "num": 422451,
+        "word": "体育总局副局长点名批评男篮",
+        "onboard_time": 1696766614,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412972,
+        "num": 412972,
+        "word": "刘宪华 飞云之下",
+        "onboard_time": 1696766914,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 377707,
+        "num": 377707,
+        "word": "以色列",
+        "onboard_time": 1696743398,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 365027,
+        "num": 365027,
+        "word": "吃完葡萄最好不要马上喝水",
+        "onboard_time": 1696762536,
+        "rank": 24,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 129445,
+        "num": 347944,
+        "word": "30年前登上人民日报的女孩续写圆梦故事",
+        "onboard_time": 1696768178,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339038,
+        "num": 339038,
+        "word": "闭幕式旗手谢震业",
+        "onboard_time": 1696761696,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332527,
+        "num": 332527,
+        "word": "以色列中国留学生发声",
+        "onboard_time": 1696756294,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 300800,
+        "num": 300800,
+        "word": "学校食堂19元一份的自助盒饭",
+        "onboard_time": 1696763674,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287600,
+        "num": 287600,
+        "word": "十个勤天",
+        "onboard_time": 1696763494,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291753,
+        "num": 287294,
+        "word": "以色列多城市全面停工",
+        "onboard_time": 1696764215,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 286222,
+        "num": 286222,
+        "word": "黄景瑜说四年前演不好林陆骁",
+        "onboard_time": 1696768418,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 283231,
+        "num": 283231,
+        "word": "拖把兄弟 吸氧兄弟",
+        "onboard_time": 1696751860,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269015,
+        "num": 269015,
+        "word": "高圆圆生图",
+        "onboard_time": 1696759174,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56612,
+        "num": 267775,
+        "word": "赛事结束播报台工作人员动情高歌",
+        "onboard_time": 1696766437,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267126,
+        "num": 267126,
+        "word": "李子柒油管粉丝不降反升",
+        "onboard_time": 1696753959,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260404,
+        "num": 260404,
+        "word": "我们的歌",
+        "onboard_time": 1696766196,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250804,
+        "num": 250804,
+        "word": "李昀锐是人间loopy吧",
+        "onboard_time": 1696767214,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1088720,
+        "num": 246265,
+        "word": "K435列车命案嫌犯被鉴定为精神病人",
+        "onboard_time": 1696759056,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222295,
+        "num": 222295,
+        "word": "闭幕式人好多",
+        "onboard_time": 1696768958,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216347,
+        "num": 216347,
+        "word": "是东北菜量大不是东北菜量大",
+        "onboard_time": 1696758154,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 206892,
+        "num": 206892,
+        "word": "女生买炸鸡付款一看两百万",
+        "onboard_time": 1696747472,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182042,
+        "num": 182042,
+        "word": "王者荣耀仍居中国手游收入榜首",
+        "onboard_time": 1696757974,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178178,
+        "num": 178178,
+        "word": "文俊辉获釜山电影节RisingStar奖",
+        "onboard_time": 1696760736,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176612,
+        "num": 176612,
+        "word": "IVE预告",
+        "onboard_time": 1696764276,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 172438,
+        "num": 172438,
+        "word": "张彬彬魔君紫色发尾",
+        "onboard_time": 1696767996,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169556,
+        "num": 169556,
+        "word": "女司机撞倒行人用卫生巾帮止血",
+        "onboard_time": 1696754076,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169369,
+        "num": 169369,
+        "word": "坚如磐石进入2023年票房榜前十",
+        "onboard_time": 1696763557,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168244,
+        "num": 168244,
+        "word": "三喜给自己化的妆我要笑死了",
+        "onboard_time": 1696750535,
+        "rank": 48,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 166414,
+        "num": 166414,
+        "word": "吴世勋发疯表情包",
+        "onboard_time": 1696762956,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#杭州亚运会纪念短片#"
+    }
+  }
+}

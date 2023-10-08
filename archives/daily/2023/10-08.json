@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696768223072,
+  "endTime": 1696769152761,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -17,6 +17,14 @@
       "onboard_time": 1696736137,
       "rank": 1,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 4015822,
+      "num": 1047224,
+      "word": "王权富贵",
+      "onboard_time": 1696767758,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 3945458,
@@ -75,6 +83,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2082572,
+      "num": 1047144,
+      "word": "北京下雪",
+      "onboard_time": 1696766614,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2016058,
       "num": 2016058,
       "word": "江歌妈妈直播带货",
@@ -89,6 +105,14 @@
       "onboard_time": 1696725698,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1950454,
+      "num": 1950454,
+      "word": "杭州亚运会闭幕式",
+      "onboard_time": 1696764576,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 1888594,
@@ -139,20 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1682594,
-      "num": 1682594,
-      "word": "杭州亚运会闭幕式",
-      "onboard_time": 1696764576,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1624282,
       "num": 1254566,
       "word": "狐妖小红娘王权篇",
       "onboard_time": 1696756655,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1607706,
+      "num": 461650,
+      "word": "高圆圆文淇 鬼怪和新娘",
+      "onboard_time": 1696765234,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1488671,
@@ -177,14 +201,6 @@
       "onboard_time": 1696753296,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 1410873,
-      "num": 461650,
-      "word": "高圆圆文淇 鬼怪和新娘",
-      "onboard_time": 1696765234,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1377748,
@@ -275,14 +291,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1047144,
-      "num": 1047144,
-      "word": "北京下雪",
-      "onboard_time": 1696766614,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1044661,
       "num": 1044661,
       "word": "朱一龙为角色增重减重50斤",
@@ -339,20 +347,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 974136,
-      "num": 974136,
-      "word": "王权富贵",
-      "onboard_time": 1696767758,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 972663,
       "num": 704160,
       "word": "女司机撞倒行人用卫生巾帮止血",
       "onboard_time": 1696754076,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 946243,
+      "num": 946243,
+      "word": "兰州站王楚钦马龙争冠",
+      "onboard_time": 1696754076,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 925719,
@@ -363,12 +371,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 903131,
+      "num": 423451,
+      "word": "三小只告别亚运会",
+      "onboard_time": 1696767455,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 896154,
       "num": 896154,
       "word": "李健 希望大家少经受挫折磨难",
       "onboard_time": 1696747533,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 887884,
+      "num": 452907,
+      "word": "马龙被左撇子痛击的一生",
+      "onboard_time": 1696767816,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 871891,
@@ -380,7 +404,7 @@
     },
     {
       "raw_hot": 857743,
-      "num": 420150,
+      "num": 422451,
       "word": "体育总局副局长点名批评男篮",
       "onboard_time": 1696766614,
       "rank": 20,
@@ -465,6 +489,14 @@
       "onboard_time": 1696697963,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 702294,
+      "num": 443386,
+      "word": "辱骂女大学生致死案房东以此作诗参赛",
+      "onboard_time": 1696766796,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 689632,
@@ -555,14 +587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 636517,
-      "num": 415451,
-      "word": "三小只告别亚运会",
-      "onboard_time": 1696767455,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 634234,
       "num": 634234,
       "word": "网传杨紫将出演国色芳华",
@@ -609,14 +633,6 @@
       "onboard_time": 1696741363,
       "rank": 25,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 605543,
-      "num": 434740,
-      "word": "辱骂女大学生致死案房东以此作诗参赛",
-      "onboard_time": 1696766796,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 601933,
@@ -891,14 +907,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 459113,
-      "num": 320290,
-      "word": "马龙被左撇子痛击的一生",
-      "onboard_time": 1696767816,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 456407,
       "num": 456407,
       "word": "赵今麦8岁到21岁荧幕变化",
@@ -929,14 +937,6 @@
       "onboard_time": 1696724557,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 444072,
-      "num": 444072,
-      "word": "兰州站王楚钦马龙争冠",
-      "onboard_time": 1696754076,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 432716,
@@ -977,6 +977,14 @@
       "onboard_time": 1696764215,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 412972,
+      "num": 412972,
+      "word": "刘宪华 飞云之下",
+      "onboard_time": 1696766914,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 405521,
@@ -1033,14 +1041,6 @@
       "onboard_time": 1696737697,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 384125,
-      "num": 384125,
-      "word": "刘宪华 飞云之下",
-      "onboard_time": 1696766914,
-      "rank": 25,
-      "category": "音乐"
     },
     {
       "raw_hot": 384034,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1696759833,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286222,
+      "num": 286222,
+      "word": "黄景瑜说四年前演不好林陆骁",
+      "onboard_time": 1696768418,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 286148,
@@ -1761,6 +1769,14 @@
       "onboard_time": 1696764513,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222295,
+      "num": 222295,
+      "word": "闭幕式人好多",
+      "onboard_time": 1696768958,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 221980,
@@ -2219,6 +2235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172438,
+      "num": 172438,
+      "word": "张彬彬魔君紫色发尾",
+      "onboard_time": 1696767996,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 172176,
       "num": 172176,
       "word": "小伙得知钱包被交警捡到直接上班了",
@@ -2363,6 +2387,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 156258,
+      "num": 448525,
+      "word": "上支付宝抢闭幕式限量隐藏彩蛋",
+      "onboard_time": 1696766437,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153474,
       "num": 153474,
       "word": "国货品牌集体团建为老乡鸡庆生",
@@ -2427,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129445,
+      "num": 347944,
+      "word": "30年前登上人民日报的女孩续写圆梦故事",
+      "onboard_time": 1696768178,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127040,
       "num": 127040,
       "word": "长相思与狐妖小红娘将同期播出",
@@ -2489,14 +2529,6 @@
       "onboard_time": 1696692456,
       "rank": 42,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 106791,
-      "num": 448525,
-      "word": "上支付宝抢闭幕式限量隐藏彩蛋",
-      "onboard_time": 1696766437,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 106711,
@@ -2585,14 +2617,6 @@
       "onboard_time": 1696719743,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88808,
-      "num": 183025,
-      "word": "30年前登上人民日报的女孩续写圆梦故事",
-      "onboard_time": 1696768178,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88182,
@@ -2739,20 +2763,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39009,
+      "num": 1166248,
+      "word": "杭州亚运会高燃时刻大盘点",
+      "onboard_time": 1696752159,
+      "rank": 46,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 36831,
       "num": 450305,
       "word": "看见中国力量",
       "onboard_time": 1696755634,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 32057,
-      "num": 1166248,
-      "word": "杭州亚运会高燃时刻大盘点",
-      "onboard_time": 1696752159,
-      "rank": 46,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 28321,
