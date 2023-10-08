@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696756497577,
+  "endTime": 1696757650150,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1417695,
+      "num": 544490,
+      "word": "夜店文化倒退十年",
+      "onboard_time": 1696753296,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1377748,
       "num": 1377748,
       "word": "巴以冲突双方死亡人数已超400",
@@ -145,14 +153,6 @@
       "onboard_time": 1696734036,
       "rank": 7,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1341487,
-      "num": 544490,
-      "word": "夜店文化倒退十年",
-      "onboard_time": 1696753296,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 1325047,
@@ -171,6 +171,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1186413,
+      "num": 1186413,
+      "word": "李子柒油管粉丝不降反升",
+      "onboard_time": 1696753959,
+      "rank": 39,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1130964,
       "num": 1130964,
       "word": "终于知道为什么手术线会消失了",
@@ -185,6 +193,14 @@
       "onboard_time": 1696721127,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1098067,
+      "num": 1098067,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1696756655,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1061178,
@@ -243,15 +259,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 960839,
-      "num": 960839,
-      "word": "李子柒油管粉丝不降反升",
-      "onboard_time": 1696753959,
-      "rank": 39,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 909760,
+      "raw_hot": 972663,
       "num": 453586,
       "word": "女司机撞倒行人用卫生巾帮止血",
       "onboard_time": 1696754076,
@@ -361,6 +369,14 @@
       "onboard_time": 1696750535,
       "rank": 9,
       "category": "网红"
+    },
+    {
+      "raw_hot": 660672,
+      "num": 660672,
+      "word": "有的甜宠剧能不能别太性缘脑",
+      "onboard_time": 1696736137,
+      "rank": 4,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 653784,
@@ -579,6 +595,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 505506,
+      "num": 444692,
+      "word": "陈奕迅演唱会志愿者称被性骚扰",
+      "onboard_time": 1696754915,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 500969,
       "num": 500969,
       "word": "奥纳纳丢球",
@@ -592,6 +616,14 @@
       "word": "泽连斯基发文声援以色列",
       "onboard_time": 1696739741,
       "rank": 19,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 476830,
+      "num": 318022,
+      "word": "以色列中国留学生发声",
+      "onboard_time": 1696756294,
+      "rank": 45,
       "category": "国外要闻"
     },
     {
@@ -609,14 +641,6 @@
       "onboard_time": 1696748794,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 469607,
-      "num": 444692,
-      "word": "陈奕迅演唱会志愿者称被性骚扰",
-      "onboard_time": 1696754915,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 466082,
@@ -1251,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245817,
+      "num": 245817,
+      "word": "孙子玩奶奶手机被骗验证码险丢30000元",
+      "onboard_time": 1696757196,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 245138,
       "num": 245138,
       "word": "刘耀文 小狗之歌",
@@ -1499,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204642,
+      "num": 204642,
+      "word": "唐禹哲纠正宝石Gem东北口音",
+      "onboard_time": 1696756474,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204215,
       "num": 187643,
       "word": "虞书欣你怎么骗人啊",
@@ -1651,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183129,
+      "num": 183129,
+      "word": "蒋依依模仿手机壳",
+      "onboard_time": 1696757373,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 182330,
       "num": 182330,
       "word": "陈楚生阿璞反差感版光明",
@@ -1699,19 +1747,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178501,
+      "num": 178501,
+      "word": "问心男团",
+      "onboard_time": 1696756355,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178488,
       "num": 178488,
       "word": "魏大勋新角色也太惨了吧",
       "onboard_time": 1696731273,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 178302,
-      "num": 178302,
-      "word": "问心男团",
-      "onboard_time": 1696756355,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1795,14 +1843,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 167050,
-      "num": 167050,
-      "word": "以色列中国留学生发声",
-      "onboard_time": 1696756294,
-      "rank": 45,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 164905,
       "num": 164905,
       "word": "霹雳舞决赛放的是热烈主题曲",
@@ -1835,14 +1875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158486,
-      "num": 158486,
-      "word": "唐禹哲纠正宝石Gem东北口音",
-      "onboard_time": 1696756474,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 157826,
       "num": 157826,
       "word": "张艺兴问贝壳们请假理由",
@@ -1867,12 +1899,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 153474,
+      "num": 153474,
+      "word": "国货品牌集体团建为老乡鸡庆生",
+      "onboard_time": 1696757555,
+      "rank": 46,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 147459,
       "num": 147459,
       "word": "民警凌晨救下轻生男子后说睡不着了",
       "onboard_time": 1696730135,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145079,
+      "num": 145079,
+      "word": "宋亚轩 奇迹轩轩",
+      "onboard_time": 1696757614,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 144500,
@@ -1953,6 +2001,14 @@
       "onboard_time": 1696713493,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122388,
+      "num": 346044,
+      "word": "杭州亚运会闭幕式数字火炬人将返场",
+      "onboard_time": 1696757072,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 117893,
@@ -2099,6 +2155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72473,
+      "num": 256420,
+      "word": "央媒谈亚运会赛场的中国品牌力量",
+      "onboard_time": 1696756715,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 70327,
       "num": 70327,
       "word": "诛仙世界抽疯了",
@@ -2187,6 +2251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36831,
+      "num": 450305,
+      "word": "看见中国力量",
+      "onboard_time": 1696755634,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32057,
       "num": 162328,
       "word": "杭州亚运会高燃时刻大盘点",
@@ -2225,14 +2297,6 @@
       "onboard_time": 1696710493,
       "rank": 47,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 22680,
-      "num": 450305,
-      "word": "看见中国力量",
-      "onboard_time": 1696755634,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 19014,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1696757650150,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1644788,
+        "num": 1644788,
+        "word": "李子柒消失两年还会被偏爱吗",
+        "onboard_time": 1696747895,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1186413,
+        "num": 1186413,
+        "word": "李子柒油管粉丝不降反升",
+        "onboard_time": 1696753959,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 66087,
+        "num": 1104819,
+        "word": "中国航天67岁生日快乐",
+        "onboard_time": 1696752936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1098067,
+        "num": 1098067,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1696756655,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 660672,
+        "num": 660672,
+        "word": "有的甜宠剧能不能别太性缘脑",
+        "onboard_time": 1696736137,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 606752,
+        "num": 606752,
+        "word": "边伯贤 抗日神剧",
+        "onboard_time": 1696749875,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 520056,
+        "num": 520056,
+        "word": "马龙外战",
+        "onboard_time": 1696751134,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 482003,
+        "num": 482003,
+        "word": "拖把兄弟 吸氧兄弟",
+        "onboard_time": 1696751860,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 478535,
+        "num": 478535,
+        "word": "女子帮离世闺蜜照护女儿14年",
+        "onboard_time": 1696748133,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395251,
+        "num": 395251,
+        "word": "兰州站王楚钦马龙争冠",
+        "onboard_time": 1696754076,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1417695,
+        "num": 390194,
+        "word": "夜店文化倒退十年",
+        "onboard_time": 1696753296,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 972663,
+        "num": 384997,
+        "word": "女司机撞倒行人用卫生巾帮止血",
+        "onboard_time": 1696754076,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191434,
+        "num": 378293,
+        "word": "中方就巴以冲突表态",
+        "onboard_time": 1696734935,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 124136,
+        "num": 370487,
+        "word": "阿富汗西部地震已致超2000人遇难",
+        "onboard_time": 1696746933,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36831,
+        "num": 368322,
+        "word": "看见中国力量",
+        "onboard_time": 1696755634,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 863444,
+        "num": 359979,
+        "word": "江歌妈妈已成立传媒公司",
+        "onboard_time": 1696742502,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582057,
+        "num": 355490,
+        "word": "三喜给自己化的妆我要笑死了",
+        "onboard_time": 1696750535,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 122388,
+        "num": 346044,
+        "word": "杭州亚运会闭幕式数字火炬人将返场",
+        "onboard_time": 1696757072,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 509739,
+        "num": 339334,
+        "word": "以色列",
+        "onboard_time": 1696743398,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 505506,
+        "num": 331805,
+        "word": "陈奕迅演唱会志愿者称被性骚扰",
+        "onboard_time": 1696754915,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 507343,
+        "num": 330161,
+        "word": "女生买炸鸡付款一看两百万",
+        "onboard_time": 1696747472,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476830,
+        "num": 318022,
+        "word": "以色列中国留学生发声",
+        "onboard_time": 1696756294,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 454315,
+        "num": 314637,
+        "word": "蒲熠星终于来对地方了",
+        "onboard_time": 1696753838,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311313,
+        "num": 311313,
+        "word": "小米高级副总裁张峰将离职",
+        "onboard_time": 1696754316,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 295933,
+        "num": 295933,
+        "word": "弄丢涉密文件女孩哭诉要失业民警解困",
+        "onboard_time": 1696743695,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279187,
+        "num": 279187,
+        "word": "老乡鸡董事长亲自在餐厅端盘子",
+        "onboard_time": 1696754377,
+        "rank": 25,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 267604,
+        "num": 267604,
+        "word": "迪丽热巴看鲸鱼被偶遇",
+        "onboard_time": 1696745257,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72473,
+        "num": 256420,
+        "word": "央媒谈亚运会赛场的中国品牌力量",
+        "onboard_time": 1696756715,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 256265,
+        "num": 256265,
+        "word": "肖战原野漫步好迷人",
+        "onboard_time": 1696750895,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253590,
+        "num": 253590,
+        "word": "上海4岁女童走失事发海滩并非景点",
+        "onboard_time": 1696746573,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245817,
+        "num": 245817,
+        "word": "孙子玩奶奶手机被骗验证码险丢30000元",
+        "onboard_time": 1696757196,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235963,
+        "num": 235963,
+        "word": "六旬老人骑电动掉进深坑万幸被她发现",
+        "onboard_time": 1696756055,
+        "rank": 31,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 219955,
+        "num": 219955,
+        "word": "男孩偷拿300元民警配合沉浸式教育",
+        "onboard_time": 1696750417,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213050,
+        "num": 213050,
+        "word": "NCT127和时代少年团专辑封面相似度",
+        "onboard_time": 1696749033,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 207443,
+        "num": 207443,
+        "word": "每天两片烤馒头片拯救了我的胃",
+        "onboard_time": 1696746273,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207138,
+        "num": 207138,
+        "word": "老乡鸡",
+        "onboard_time": 1696730496,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204642,
+        "num": 204642,
+        "word": "唐禹哲纠正宝石Gem东北口音",
+        "onboard_time": 1696756474,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196932,
+        "num": 196932,
+        "word": "王楚钦3比0林高远",
+        "onboard_time": 1696750597,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196835,
+        "num": 196835,
+        "word": "网传杨紫将出演国色芳华",
+        "onboard_time": 1696749819,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193169,
+        "num": 193169,
+        "word": "iPhone15Pro多款机型破发",
+        "onboard_time": 1696750478,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 183129,
+        "num": 183129,
+        "word": "蒋依依模仿手机壳",
+        "onboard_time": 1696757373,
+        "rank": 40,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 178501,
+        "num": 178501,
+        "word": "问心男团",
+        "onboard_time": 1696756355,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176118,
+        "num": 176118,
+        "word": "孕期尽量用电气灶做饭或不下厨",
+        "onboard_time": 1696741363,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 170814,
+        "num": 170814,
+        "word": "准新娘长发被理发师剪至齐肩索赔8500",
+        "onboard_time": 1696749396,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167232,
+        "num": 167232,
+        "word": "虞书欣时装周换装游戏",
+        "onboard_time": 1696752037,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158169,
+        "num": 158169,
+        "word": "亚运会裁判真实身份是女警",
+        "onboard_time": 1696754015,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153474,
+        "num": 153474,
+        "word": "国货品牌集体团建为老乡鸡庆生",
+        "onboard_time": 1696757555,
+        "rank": 46,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 147201,
+        "num": 147201,
+        "word": "陈清晨孙颖莎的友谊",
+        "onboard_time": 1696751015,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145079,
+        "num": 145079,
+        "word": "宋亚轩 奇迹轩轩",
+        "onboard_time": 1696757614,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144177,
+        "num": 144177,
+        "word": "本届亚运最忙的竟是白素贞",
+        "onboard_time": 1696755398,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚运会中国代表团201金收官#"
+    }
+  }
+}
