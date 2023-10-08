@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/09 00:35:23
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/09 01:13:47
 </p>
 </blockquote>
 <p>
@@ -1575,6 +1575,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%B8%AA%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E7%A7%B0%E8%BF%94%E5%9B%9E%E6%97%B6%E8%A2%AB%E7%9F%B3%E5%A4%B4%E5%89%B2%E4%BC%A4%E8%84%9A%E8%B6%BE%23" target="weibo">
+失踪女童父亲称返回时被石头割伤脚趾（热度：1252078）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23" target="weibo">
 李泽锋 轻舟已过万重山（热度：1242296）
 </a>
@@ -1757,12 +1763,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%91%B6%E8%87%AA%E9%A6%96%E4%BA%86%23" target="weibo">
 姚瑶自首了（热度：1165339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%B8%AA%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E7%A7%B0%E8%BF%94%E5%9B%9E%E6%97%B6%E8%A2%AB%E7%9F%B3%E5%A4%B4%E5%89%B2%E4%BC%A4%E8%84%9A%E8%B6%BE%23" target="weibo">
-失踪女童父亲称返回时被石头割伤脚趾（热度：1163804）
 </a>
 </li>
 
