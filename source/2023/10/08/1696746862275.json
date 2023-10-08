@@ -1,0 +1,410 @@
+{
+  "runTime": 1696746862275,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2529963,
+        "num": 2529963,
+        "word": "江歌妈妈已成立传媒公司",
+        "onboard_time": 1696742502,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2025593,
+        "num": 2025593,
+        "word": "性缘脑",
+        "onboard_time": 1696736137,
+        "rank": 1,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59257,
+        "num": 1069620,
+        "word": "心心相融爱达未来",
+        "onboard_time": 1696738479,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005291,
+        "num": 1005291,
+        "word": "老乡鸡",
+        "onboard_time": 1696730496,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 983640,
+        "num": 983640,
+        "word": "弄丢涉密文件女孩哭诉要失业民警解困",
+        "onboard_time": 1696743695,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1703590,
+        "num": 977296,
+        "word": "蓝天救援队否认中止搜救4岁女童",
+        "onboard_time": 1696741300,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 824978,
+        "num": 824978,
+        "word": "朱一龙为角色增重减重50斤",
+        "onboard_time": 1696736918,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 643448,
+        "num": 643448,
+        "word": "别再把糖色当成离谱剧情保护色",
+        "onboard_time": 1696731992,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 607378,
+        "num": 607378,
+        "word": "孕期尽量用电气灶做饭或不下厨",
+        "onboard_time": 1696741363,
+        "rank": 8,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 562580,
+        "num": 562580,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1696746335,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675769,
+        "num": 556312,
+        "word": "以色列",
+        "onboard_time": 1696743398,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 546752,
+        "num": 546752,
+        "word": "迪丽热巴看鲸鱼被偶遇",
+        "onboard_time": 1696745257,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531346,
+        "num": 531346,
+        "word": "网曝高校女生被要求抽签进男生宿舍搞卫生",
+        "onboard_time": 1696734036,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 274771,
+        "num": 513730,
+        "word": "中方就巴以冲突表态",
+        "onboard_time": 1696734935,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 228040,
+        "num": 511026,
+        "word": "上海女童失联监护人是否担刑责",
+        "onboard_time": 1696738782,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 509479,
+        "num": 509479,
+        "word": "iPhone15Pro蓝色钛金属价格暴跌",
+        "onboard_time": 1696733074,
+        "rank": 15,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 501956,
+        "num": 501956,
+        "word": "pdf写罪状录",
+        "onboard_time": 1696745015,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 440683,
+        "num": 440683,
+        "word": "原来男友身高会影响女友颜值",
+        "onboard_time": 1696743516,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424539,
+        "num": 424539,
+        "word": "千万不要穿抹胸去吃火锅",
+        "onboard_time": 1696721127,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 349842,
+        "num": 349842,
+        "word": "于适坐到车上衬衫被撑爆了",
+        "onboard_time": 1696739679,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335443,
+        "num": 335443,
+        "word": "烬相思定档",
+        "onboard_time": 1696739620,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326003,
+        "num": 326003,
+        "word": "肖战演出作品表",
+        "onboard_time": 1696744295,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300427,
+        "num": 300427,
+        "word": "王阳体重只有130斤",
+        "onboard_time": 1696742617,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293740,
+        "num": 293740,
+        "word": "朱一龙过上了余华小说里的生活",
+        "onboard_time": 1696739263,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286431,
+        "num": 286431,
+        "word": "海底捞开到大学里了",
+        "onboard_time": 1696742436,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272291,
+        "num": 272291,
+        "word": "狗子误食3斤泡酒杨梅醉倒后死亡",
+        "onboard_time": 1696735897,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255275,
+        "num": 255275,
+        "word": "每天两片烤馒头片拯救了我的胃",
+        "onboard_time": 1696746273,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 243963,
+        "num": 243963,
+        "word": "泽连斯基发文声援以色列",
+        "onboard_time": 1696739741,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 243063,
+        "num": 243063,
+        "word": "THE9演唱会抢票",
+        "onboard_time": 1696736798,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238629,
+        "num": 238629,
+        "word": "江歌妈妈直播带货",
+        "onboard_time": 1696734636,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238381,
+        "num": 238381,
+        "word": "陈梦3比2陈幸同",
+        "onboard_time": 1696746335,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226588,
+        "num": 226588,
+        "word": "张彬彬孙珍妮新剧双A造型",
+        "onboard_time": 1696744177,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218829,
+        "num": 218829,
+        "word": "巴以冲突动态",
+        "onboard_time": 1696744356,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 214541,
+        "num": 214541,
+        "word": "小小时代不是林萧顾里她们唱的",
+        "onboard_time": 1696745432,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212967,
+        "num": 212967,
+        "word": "欧阳娜娜美拉德穿搭",
+        "onboard_time": 1696745916,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 209949,
+        "num": 209949,
+        "word": "张桂梅高速上将40余名学生护在身后",
+        "onboard_time": 1696737579,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208602,
+        "num": 208602,
+        "word": "上海4岁女童走失事发海滩并非景点",
+        "onboard_time": 1696746573,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200523,
+        "num": 200523,
+        "word": "冰岛偶遇迪丽热巴超市买菜",
+        "onboard_time": 1696736259,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189782,
+        "num": 189782,
+        "word": "拜登准备为以色列提供一切支持手段",
+        "onboard_time": 1696740701,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 189342,
+        "num": 189342,
+        "word": "10种病会在夫妻间传染",
+        "onboard_time": 1696735716,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 189010,
+        "num": 189010,
+        "word": "清华本硕博放弃北京中产去往非洲",
+        "onboard_time": 1696729774,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187454,
+        "num": 187454,
+        "word": "侧躺玩手机 斜视",
+        "onboard_time": 1696739981,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184333,
+        "num": 184333,
+        "word": "公交车里都是汉服公主是什么场面",
+        "onboard_time": 1696744955,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180430,
+        "num": 180430,
+        "word": "在成都失联超半月女子遗体被找到",
+        "onboard_time": 1696728156,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174636,
+        "num": 174636,
+        "word": "田嘉瑞决定当演员的原因",
+        "onboard_time": 1696741063,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171049,
+        "num": 171049,
+        "word": "陈梦晋级女单决赛",
+        "onboard_time": 1696746755,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163367,
+        "num": 163367,
+        "word": "周柯宇经纪公司声明",
+        "onboard_time": 1696743156,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160403,
+        "num": 160403,
+        "word": "韩国人不睡觉的标签可以撤了",
+        "onboard_time": 1696735298,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 151054,
+        "num": 151054,
+        "word": "挖呀挖黄老师5场直播销售额超百万",
+        "onboard_time": 1696722512,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 149398,
+        "num": 149398,
+        "word": "IVE小学生统领",
+        "onboard_time": 1696741837,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式浪漫送别杭州亚运会#"
+    }
+  }
+}

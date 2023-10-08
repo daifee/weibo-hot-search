@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696746085293,
+  "endTime": 1696746862275,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2529963,
+      "num": 2529963,
+      "word": "江歌妈妈已成立传媒公司",
+      "onboard_time": 1696742502,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2475917,
       "num": 632308,
       "word": "上海海滩走失女童父亲非继父",
@@ -433,14 +441,6 @@
       "onboard_time": 1696083343,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2443512,
-      "num": 2443512,
-      "word": "江歌妈妈已成立传媒公司",
-      "onboard_time": 1696742502,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2435213,
@@ -4971,6 +4971,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 607378,
+      "num": 607378,
+      "word": "孕期尽量用电气灶做饭或不下厨",
+      "onboard_time": 1696741363,
+      "rank": 25,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 607046,
       "num": 607046,
       "word": "张杰回应谢震业",
@@ -5041,14 +5049,6 @@
       "onboard_time": 1696479634,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 601453,
-      "num": 601453,
-      "word": "孕期尽量用电气灶做饭或不下厨",
-      "onboard_time": 1696741363,
-      "rank": 25,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 601296,
@@ -5531,6 +5531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 562580,
+      "num": 562580,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1696746335,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 562123,
       "num": 562123,
       "word": "喜报林双离婚了",
@@ -5673,6 +5681,14 @@
       "onboard_time": 1696495532,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 546752,
+      "num": 546752,
+      "word": "迪丽热巴看鲸鱼被偶遇",
+      "onboard_time": 1696745257,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 546271,
@@ -6217,6 +6233,14 @@
       "onboard_time": 1696672359,
       "rank": 16,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 501956,
+      "num": 501956,
+      "word": "pdf写罪状录",
+      "onboard_time": 1696745015,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 500001,
@@ -7875,14 +7899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 398292,
-      "num": 398292,
-      "word": "迪丽热巴看鲸鱼被偶遇",
-      "onboard_time": 1696745257,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397960,
       "num": 388722,
       "word": "大结局卫明出现幻觉",
@@ -8313,14 +8329,6 @@
       "onboard_time": 1696339602,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380305,
-      "num": 380305,
-      "word": "pdf写罪状录",
-      "onboard_time": 1696745015,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 379836,
@@ -10052,7 +10060,7 @@
     },
     {
       "raw_hot": 312587,
-      "num": 451909,
+      "num": 511026,
       "word": "上海女童失联监护人是否担刑责",
       "onboard_time": 1696738782,
       "rank": 39,
@@ -12475,6 +12483,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 255275,
+      "num": 255275,
+      "word": "每天两片烤馒头片拯救了我的胃",
+      "onboard_time": 1696746273,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "赵小棠把蒙古帽披在了身上",
@@ -13209,6 +13225,14 @@
       "onboard_time": 1696660957,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 238381,
+      "num": 238381,
+      "word": "陈梦3比2陈幸同",
+      "onboard_time": 1696746335,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 237919,
@@ -14068,7 +14092,7 @@
     },
     {
       "raw_hot": 221980,
-      "num": 212264,
+      "num": 218829,
       "word": "巴以冲突动态",
       "onboard_time": 1696744356,
       "rank": 35,
@@ -14531,6 +14555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212967,
+      "num": 212967,
+      "word": "欧阳娜娜美拉德穿搭",
+      "onboard_time": 1696745916,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212892,
       "num": 379495,
       "word": "我爱你中国是最深情的表白",
@@ -14801,6 +14833,14 @@
       "onboard_time": 1696431218,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208602,
+      "num": 208602,
+      "word": "上海4岁女童走失事发海滩并非景点",
+      "onboard_time": 1696746573,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208486,
@@ -17515,6 +17555,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 171049,
+      "num": 171049,
+      "word": "陈梦晋级女单决赛",
+      "onboard_time": 1696746755,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170862,
       "num": 170862,
       "word": "上海四行仓库祭台被游客摆满祭品",
@@ -18273,14 +18321,6 @@
       "onboard_time": 1696565493,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158265,
-      "num": 158265,
-      "word": "欧阳娜娜美拉德穿搭",
-      "onboard_time": 1696745916,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 158050,
@@ -20755,20 +20795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59257,
+      "num": 3505104,
+      "word": "心心相融爱达未来",
+      "onboard_time": 1696738479,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 59191,
       "num": 59191,
       "word": "傅云深朱旧除夕夜分手",
       "onboard_time": 1696284736,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59176,
-      "num": 3505104,
-      "word": "心心相融爱达未来",
-      "onboard_time": 1696738479,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58904,

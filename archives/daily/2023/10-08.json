@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696746085293,
+  "endTime": 1696746862275,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2443512,
-      "num": 2443512,
+      "raw_hot": 2529963,
+      "num": 2529963,
       "word": "江歌妈妈已成立传媒公司",
       "onboard_time": 1696742502,
       "rank": 15,
@@ -275,20 +275,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 607378,
+      "num": 607378,
+      "word": "孕期尽量用电气灶做饭或不下厨",
+      "onboard_time": 1696741363,
+      "rank": 25,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 601933,
       "num": 507491,
       "word": "狗子误食3斤泡酒杨梅醉倒后死亡",
       "onboard_time": 1696735897,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 601453,
-      "num": 601453,
-      "word": "孕期尽量用电气灶做饭或不下厨",
-      "onboard_time": 1696741363,
-      "rank": 25,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 592010,
@@ -331,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 562580,
+      "num": 562580,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1696746335,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 550820,
       "num": 550820,
       "word": "冰岛偶遇迪丽热巴超市买菜",
@@ -345,6 +353,14 @@
       "onboard_time": 1696683219,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 546752,
+      "num": 546752,
+      "word": "迪丽热巴看鲸鱼被偶遇",
+      "onboard_time": 1696745257,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 541788,
@@ -409,6 +425,14 @@
       "onboard_time": 1696729596,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 501956,
+      "num": 501956,
+      "word": "pdf写罪状录",
+      "onboard_time": 1696745015,
+      "rank": 17,
+      "category": "情感"
     },
     {
       "raw_hot": 500969,
@@ -523,14 +547,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 398292,
-      "num": 398292,
-      "word": "迪丽热巴看鲸鱼被偶遇",
-      "onboard_time": 1696745257,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 395288,
       "num": 395288,
       "word": "2024年考研报名正式开启",
@@ -569,14 +585,6 @@
       "onboard_time": 1696689638,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 380305,
-      "num": 380305,
-      "word": "pdf写罪状录",
-      "onboard_time": 1696745015,
-      "rank": 17,
-      "category": "情感"
     },
     {
       "raw_hot": 378560,
@@ -700,7 +708,7 @@
     },
     {
       "raw_hot": 312587,
-      "num": 451909,
+      "num": 511026,
       "word": "上海女童失联监护人是否担刑责",
       "onboard_time": 1696738782,
       "rank": 39,
@@ -875,6 +883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255275,
+      "num": 255275,
+      "word": "每天两片烤馒头片拯救了我的胃",
+      "onboard_time": 1696746273,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 250088,
       "num": 250088,
       "word": "范志毅送林雨薇127根发带",
@@ -955,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238381,
+      "num": 238381,
+      "word": "陈梦3比2陈幸同",
+      "onboard_time": 1696746335,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237560,
       "num": 237560,
       "word": "林家栋重返TVB",
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 221980,
-      "num": 212264,
+      "num": 218829,
       "word": "巴以冲突动态",
       "onboard_time": 1696744356,
       "rank": 35,
@@ -1043,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212967,
+      "num": 212967,
+      "word": "欧阳娜娜美拉德穿搭",
+      "onboard_time": 1696745916,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211052,
       "num": 211052,
       "word": "孙颖莎3比0张本美和",
@@ -1064,6 +1096,14 @@
       "word": "谭爷爷亲自示范教花花滑滑梯",
       "onboard_time": 1696725276,
       "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208602,
+      "num": 208602,
+      "word": "上海4岁女童走失事发海滩并非景点",
+      "onboard_time": 1696746573,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -1315,6 +1355,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171049,
+      "num": 171049,
+      "word": "陈梦晋级女单决赛",
+      "onboard_time": 1696746755,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169485,
       "num": 169485,
       "word": "黄子诚夜闯被抓",
@@ -1369,14 +1417,6 @@
       "onboard_time": 1696719803,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 158265,
-      "num": 158265,
-      "word": "欧阳娜娜美拉德穿搭",
-      "onboard_time": 1696745916,
-      "rank": 45,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 157826,
@@ -1627,7 +1667,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 59176,
+      "raw_hot": 59257,
       "num": 3505104,
       "word": "心心相融爱达未来",
       "onboard_time": 1696738479,
