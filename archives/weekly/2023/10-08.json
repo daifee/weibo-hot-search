@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696790044024,
+  "endTime": 1696792380486,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -3419,7 +3419,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 21306,
+      "raw_hot": 22611,
       "num": 26628,
       "word": "换位思考的理解最暖人心",
       "onboard_time": 1696789936,
@@ -3433,6 +3433,14 @@
       "onboard_time": 1696707133,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16501,
+      "num": 19612,
+      "word": "亚运会氛围有多欢乐",
+      "onboard_time": 1696785560,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 13026,
