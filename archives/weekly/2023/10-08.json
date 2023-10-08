@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696764835330,
+  "endTime": 1696768223072,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -139,6 +139,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1682594,
+      "num": 1682594,
+      "word": "杭州亚运会闭幕式",
+      "onboard_time": 1696764576,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1624282,
+      "num": 1254566,
+      "word": "狐妖小红娘王权篇",
+      "onboard_time": 1696756655,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 1488671,
+      "num": 1488671,
+      "word": "孙颖莎兰州站夺冠",
+      "onboard_time": 1696766975,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1448686,
       "num": 1448686,
       "word": "弄丢涉密文件女孩哭诉要失业民警解困",
@@ -153,6 +177,14 @@
       "onboard_time": 1696753296,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1410873,
+      "num": 461650,
+      "word": "高圆圆文淇 鬼怪和新娘",
+      "onboard_time": 1696765234,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1377748,
@@ -187,14 +219,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1254566,
-      "num": 1254566,
-      "word": "狐妖小红娘王权篇",
-      "onboard_time": 1696756655,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 1186413,
       "num": 1186413,
       "word": "李子柒油管粉丝不降反升",
@@ -209,6 +233,22 @@
       "onboard_time": 1696722694,
       "rank": 5,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1122807,
+      "num": 455850,
+      "word": "孙颖莎陈梦27拍相持",
+      "onboard_time": 1696765834,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1109303,
+      "num": 1109303,
+      "word": "珠海宣布中小学停课",
+      "onboard_time": 1696763974,
+      "rank": 23,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 1101684,
@@ -233,6 +273,14 @@
       "onboard_time": 1696751860,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1047144,
+      "num": 1047144,
+      "word": "北京下雪",
+      "onboard_time": 1696766614,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1044661,
@@ -291,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 974136,
+      "num": 974136,
+      "word": "王权富贵",
+      "onboard_time": 1696767758,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 972663,
       "num": 704160,
       "word": "女司机撞倒行人用卫生巾帮止血",
@@ -321,6 +377,14 @@
       "onboard_time": 1696757913,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 857743,
+      "num": 420150,
+      "word": "体育总局副局长点名批评男篮",
+      "onboard_time": 1696766614,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 821759,
@@ -411,6 +475,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 679146,
+      "num": 322922,
+      "word": "王楚钦vs马龙",
+      "onboard_time": 1696767996,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 673004,
       "num": 673004,
       "word": "奥特曼婚纱",
@@ -459,6 +531,14 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 646748,
+      "num": 646748,
+      "word": "埃及一警察向以色列游客开枪致3死",
+      "onboard_time": 1696763195,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 646348,
       "num": 646348,
       "word": "中国最好的博物馆排名",
@@ -473,6 +553,14 @@
       "onboard_time": 1696759174,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 636517,
+      "num": 415451,
+      "word": "三小只告别亚运会",
+      "onboard_time": 1696767455,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 634234,
@@ -521,6 +609,14 @@
       "onboard_time": 1696741363,
       "rank": 25,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 605543,
+      "num": 434740,
+      "word": "辱骂女大学生致死案房东以此作诗参赛",
+      "onboard_time": 1696766796,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 601933,
@@ -633,14 +729,6 @@
       "onboard_time": 1696735298,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 530831,
-      "num": 494752,
-      "word": "埃及一警察向以色列游客开枪致3死",
-      "onboard_time": 1696763195,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 524412,
@@ -803,6 +891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 459113,
+      "num": 320290,
+      "word": "马龙被左撇子痛击的一生",
+      "onboard_time": 1696767816,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 456407,
       "num": 456407,
       "word": "赵今麦8岁到21岁荧幕变化",
@@ -857,22 +953,6 @@
       "onboard_time": 1696695630,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 428698,
-      "num": 428698,
-      "word": "珠海宣布中小学停课",
-      "onboard_time": 1696763974,
-      "rank": 23,
-      "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 427892,
-      "num": 427892,
-      "word": "杭州亚运会闭幕式",
-      "onboard_time": 1696764576,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 427371,
@@ -953,6 +1033,14 @@
       "onboard_time": 1696737697,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 384125,
+      "num": 384125,
+      "word": "刘宪华 飞云之下",
+      "onboard_time": 1696766914,
+      "rank": 25,
+      "category": "音乐"
     },
     {
       "raw_hot": 384034,
@@ -1291,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284420,
+      "num": 284420,
+      "word": "我们的歌",
+      "onboard_time": 1696766196,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283228,
       "num": 283228,
       "word": "叙利亚霍姆斯军事学院发生自杀式无人机袭击",
@@ -1441,6 +1537,14 @@
       "onboard_time": 1696676920,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 253483,
+      "num": 253483,
+      "word": "李昀锐是人间loopy吧",
+      "onboard_time": 1696767214,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251245,
@@ -1883,6 +1987,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 199549,
+      "num": 199549,
+      "word": "时装周最出圈明星前十",
+      "onboard_time": 1696766014,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 199534,
       "num": 199534,
       "word": "阴阳师",
@@ -2220,7 +2332,7 @@
     },
     {
       "raw_hot": 158758,
-      "num": 225997,
+      "num": 295984,
       "word": "杭州亚运那些感动瞬间",
       "onboard_time": 1696764756,
       "rank": 39,
@@ -2379,6 +2491,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 106791,
+      "num": 448525,
+      "word": "上支付宝抢闭幕式限量隐藏彩蛋",
+      "onboard_time": 1696766437,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106711,
       "num": 106711,
       "word": "网友高铁上偶遇朱一龙拍摄路透",
@@ -2467,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88808,
+      "num": 183025,
+      "word": "30年前登上人民日报的女孩续写圆梦故事",
+      "onboard_time": 1696768178,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88182,
       "num": 88182,
       "word": "没想到大树竟然也分雌雄",
@@ -2497,6 +2625,14 @@
       "onboard_time": 1696718118,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77854,
+      "num": 327172,
+      "word": "赛事结束播报台工作人员动情高歌",
+      "onboard_time": 1696766437,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 73532,
@@ -2612,7 +2748,7 @@
     },
     {
       "raw_hot": 32057,
-      "num": 162328,
+      "num": 1166248,
       "word": "杭州亚运会高燃时刻大盘点",
       "onboard_time": 1696752159,
       "rank": 46,
