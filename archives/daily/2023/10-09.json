@@ -1,7 +1,15 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696804448311,
+  "endTime": 1696806991567,
   "band_list": [
+    {
+      "raw_hot": 1687424,
+      "num": 673060,
+      "word": "失踪女童父亲称返回时被石头割伤脚趾",
+      "onboard_time": 1696780111,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1298864,
       "num": 717003,
@@ -9,14 +17,6 @@
       "onboard_time": 1696767758,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1252078,
-      "num": 673060,
-      "word": "失踪女童父亲称返回时被石头割伤脚趾",
-      "onboard_time": 1696780111,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1032933,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 657773,
+      "num": 657773,
+      "word": "冯琳主持人大赛第一名晋级",
+      "onboard_time": 1696777600,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 644595,
       "num": 644595,
       "word": "甄嬛传中那些被删除掉戏份",
       "onboard_time": 1696778435,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 605555,
-      "num": 605555,
-      "word": "冯琳主持人大赛第一名晋级",
-      "onboard_time": 1696777600,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 593966,
@@ -89,6 +89,14 @@
       "onboard_time": 1696773039,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 443037,
+      "num": 443037,
+      "word": "95.2%的主播月收入5000元以下",
+      "onboard_time": 1696794014,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 384725,
@@ -179,6 +187,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 232883,
+      "num": 232883,
+      "word": "章子怡手机壳是自己的表情包",
+      "onboard_time": 1696786099,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 230727,
       "num": 230727,
       "word": "基普图姆打破马拉松世界纪录",
@@ -243,14 +259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 184691,
-      "num": 133126,
-      "word": "章子怡手机壳是自己的表情包",
-      "onboard_time": 1696786099,
-      "rank": 35,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 184301,
       "num": 184301,
       "word": "狐妖小红娘系列人物关系图",
@@ -265,6 +273,14 @@
       "onboard_time": 1696781789,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180140,
+      "num": 129427,
+      "word": "一县卫健教育系统各清退500人",
+      "onboard_time": 1696806142,
+      "rank": 21,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 174594,
@@ -283,12 +299,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 157822,
-      "num": 144849,
-      "word": "95.2%的主播月收入5000元以下",
-      "onboard_time": 1696794014,
-      "rank": 30,
-      "category": "社会新闻,财经"
+      "raw_hot": 162643,
+      "num": 128020,
+      "word": "苹果商店相继下架相关黄色软件",
+      "onboard_time": 1696806082,
+      "rank": 22,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 157149,
+      "num": 157149,
+      "word": "谁说50岁大妈只能跳广场舞",
+      "onboard_time": 1696784903,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 155917,
@@ -435,12 +459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99957,
+      "num": 99957,
+      "word": "沙溢说出个差和白敬亭平辈了",
+      "onboard_time": 1696803377,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 94282,
       "num": 101325,
       "word": "光良一开口我的青春回来了",
       "onboard_time": 1696775079,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86682,
+      "num": 86682,
+      "word": "精神小妹人设让我瘦了十斤",
+      "onboard_time": 1696786099,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 83022,
@@ -451,20 +491,52 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81402,
-      "num": 81402,
-      "word": "谁说50岁大妈只能跳广场舞",
-      "onboard_time": 1696784903,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 74105,
       "num": 71509,
       "word": "韩乔生谈朱婷伤病",
       "onboard_time": 1696785622,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 71861,
+      "num": 71861,
+      "word": "迪丽热巴棕色鸭舌帽日常造型",
+      "onboard_time": 1696802655,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 66108,
+      "num": 66108,
+      "word": "为啥直播带货抽佣这么高",
+      "onboard_time": 1696804640,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 63579,
+      "num": 490049,
+      "word": "再见了杭州亚运",
+      "onboard_time": 1696771899,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 57484,
+      "num": 57484,
+      "word": "珠海宣布中小学停课",
+      "onboard_time": 1696763974,
+      "rank": 45,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 56880,
+      "num": 56880,
+      "word": "阿克萨洪水",
+      "onboard_time": 1696786879,
+      "rank": 32,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 56425,
@@ -475,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55281,
+      "num": 55281,
+      "word": "直播行业真的赚钱吗",
+      "onboard_time": 1696804640,
+      "rank": 48,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 54712,
       "num": 54712,
       "word": "亚运会她力量",
@@ -483,43 +563,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53446,
-      "num": 53446,
-      "word": "精神小妹人设让我瘦了十斤",
-      "onboard_time": 1696786099,
-      "rank": 44,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 41859,
-      "num": 41495,
-      "word": "阿克萨洪水",
-      "onboard_time": 1696786879,
-      "rank": 32,
-      "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 40369,
-      "num": 40369,
-      "word": "沙溢说出个差和白敬亭平辈了",
-      "onboard_time": 1696803377,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32783,
-      "num": 32783,
-      "word": "迪丽热巴棕色鸭舌帽日常造型",
-      "onboard_time": 1696802655,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 27284,
-      "num": 308248,
-      "word": "再见了杭州亚运",
-      "onboard_time": 1696771899,
-      "rank": 2,
+      "raw_hot": 51873,
+      "num": 51873,
+      "word": "马丁内利绝杀",
+      "onboard_time": 1696806924,
+      "rank": 49,
       "category": "体育"
     },
     {

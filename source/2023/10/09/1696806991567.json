@@ -1,0 +1,410 @@
+{
+  "runTime": 1696806991567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 657773,
+        "num": 657773,
+        "word": "冯琳主持人大赛第一名晋级",
+        "onboard_time": 1696777600,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501516,
+        "num": 501516,
+        "word": "王楚钦战胜马龙夺冠",
+        "onboard_time": 1696770699,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63579,
+        "num": 490049,
+        "word": "再见了杭州亚运",
+        "onboard_time": 1696771899,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1687424,
+        "num": 489699,
+        "word": "失踪女童父亲称返回时被石头割伤脚趾",
+        "onboard_time": 1696780111,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511013,
+        "num": 469962,
+        "word": "王权富贵",
+        "onboard_time": 1696767758,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 735048,
+        "num": 459998,
+        "word": "以色列正式向哈马斯宣战",
+        "onboard_time": 1696772262,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 564117,
+        "num": 443930,
+        "word": "男孩游泳池溺亡10分钟无人救援",
+        "onboard_time": 1696773105,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443037,
+        "num": 443037,
+        "word": "95.2%的主播月收入5000元以下",
+        "onboard_time": 1696794014,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 329843,
+        "num": 329843,
+        "word": "以色列称一名中以混血女孩被绑架",
+        "onboard_time": 1696773039,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 316237,
+        "num": 316237,
+        "word": "下届亚运会在日本名古屋举办",
+        "onboard_time": 1696773039,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235273,
+        "num": 235273,
+        "word": "甄嬛传中那些被删除掉戏份",
+        "onboard_time": 1696778435,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232883,
+        "num": 232883,
+        "word": "章子怡手机壳是自己的表情包",
+        "onboard_time": 1696786099,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212389,
+        "num": 212389,
+        "word": "姚瑶自首了",
+        "onboard_time": 1696773461,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203418,
+        "num": 203418,
+        "word": "北京下雪",
+        "onboard_time": 1696766614,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198276,
+        "num": 198276,
+        "word": "辱骂女大学生致死案房东以此作诗参赛",
+        "onboard_time": 1696766796,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190824,
+        "num": 190824,
+        "word": "原来康辉去年就催过了",
+        "onboard_time": 1696774422,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179665,
+        "num": 179665,
+        "word": "就算到八十岁我都会等的剧",
+        "onboard_time": 1696782927,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157149,
+        "num": 157149,
+        "word": "谁说50岁大妈只能跳广场舞",
+        "onboard_time": 1696784903,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144206,
+        "num": 144206,
+        "word": "别让康辉再催啦",
+        "onboard_time": 1696769197,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134010,
+        "num": 134010,
+        "word": "杨紫白色棒球帽好女高",
+        "onboard_time": 1696763734,
+        "rank": 19,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 261947,
+        "num": 131413,
+        "word": "三小只告别亚运会",
+        "onboard_time": 1696767455,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180140,
+        "num": 129427,
+        "word": "一县卫健教育系统各清退500人",
+        "onboard_time": 1696806142,
+        "rank": 21,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 162643,
+        "num": 128020,
+        "word": "苹果商店相继下架相关黄色软件",
+        "onboard_time": 1696806082,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 155610,
+        "num": 125707,
+        "word": "彩票中了100万后的12小时",
+        "onboard_time": 1696771300,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145032,
+        "num": 121252,
+        "word": "女子吃烤栗子被炸嘴肿得张不开",
+        "onboard_time": 1696776637,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120550,
+        "num": 120550,
+        "word": "高圆圆文淇 鬼怪和新娘",
+        "onboard_time": 1696765234,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 108348,
+        "num": 108348,
+        "word": "内娱的原创编剧去哪了",
+        "onboard_time": 1696784664,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106616,
+        "num": 106616,
+        "word": "以色列多城市全面停工",
+        "onboard_time": 1696764215,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 105003,
+        "num": 105003,
+        "word": "吃完葡萄最好不要马上喝水",
+        "onboard_time": 1696762536,
+        "rank": 28,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 99957,
+        "num": 99957,
+        "word": "沙溢说出个差和白敬亭平辈了",
+        "onboard_time": 1696803377,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175547,
+        "num": 98248,
+        "word": "体育总局副局长点名批评男篮",
+        "onboard_time": 1696766614,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96274,
+        "num": 96274,
+        "word": "豆瓣8分剧还有公信力吗",
+        "onboard_time": 1696777478,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86682,
+        "num": 86682,
+        "word": "精神小妹人设让我瘦了十斤",
+        "onboard_time": 1696786099,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79618,
+        "num": 79618,
+        "word": "孙颖莎陈梦27拍相持",
+        "onboard_time": 1696765834,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75463,
+        "num": 75463,
+        "word": "以外交部证实两名以色列人在埃及遇难",
+        "onboard_time": 1696771661,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 73357,
+        "num": 73357,
+        "word": "宋亚轩红色亮片西装",
+        "onboard_time": 1696782328,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 73058,
+        "num": 73058,
+        "word": "鞠婧祎素颜wink",
+        "onboard_time": 1696774180,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 71861,
+        "num": 71861,
+        "word": "迪丽热巴棕色鸭舌帽日常造型",
+        "onboard_time": 1696802655,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 68878,
+        "num": 68878,
+        "word": "马龙被左撇子痛击的一生",
+        "onboard_time": 1696767816,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66473,
+        "num": 66473,
+        "word": "狐妖小红娘系列人物关系图",
+        "onboard_time": 1696773704,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66108,
+        "num": 66108,
+        "word": "为啥直播带货抽佣这么高",
+        "onboard_time": 1696804640,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62353,
+        "num": 62353,
+        "word": "以色列中国留学生发声",
+        "onboard_time": 1696756294,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 62327,
+        "num": 62327,
+        "word": "阿森纳vs曼城",
+        "onboard_time": 1696781789,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57849,
+        "num": 57849,
+        "word": "李子柒消失两年还会被偏爱吗",
+        "onboard_time": 1696747895,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 57746,
+        "num": 57746,
+        "word": "黄轩22岁到38岁脸变手不变",
+        "onboard_time": 1696772681,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57484,
+        "num": 57484,
+        "word": "珠海宣布中小学停课",
+        "onboard_time": 1696763974,
+        "rank": 45,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 56880,
+        "num": 56880,
+        "word": "阿克萨洪水",
+        "onboard_time": 1696786879,
+        "rank": 46,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 55761,
+        "num": 55761,
+        "word": "黄景瑜说四年前演不好林陆骁",
+        "onboard_time": 1696768418,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55281,
+        "num": 55281,
+        "word": "直播行业真的赚钱吗",
+        "onboard_time": 1696804640,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 51873,
+        "num": 51873,
+        "word": "马丁内利绝杀",
+        "onboard_time": 1696806924,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚运会中国代表团201金收官#"
+    }
+  }
+}
