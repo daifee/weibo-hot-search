@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696731928781,
+  "endTime": 1696732553251,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -563,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 2224492,
+      "num": 2224492,
+      "word": "在成都失联超半月女子遗体被找到",
+      "onboard_time": 1696728156,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2215047,
       "num": 2215047,
       "word": "仅0.4%主播月收入超10万",
@@ -736,14 +744,6 @@
       "word": "上海4岁女童海滩走失已超24小时",
       "onboard_time": 1696548863,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2002912,
-      "num": 2002912,
-      "word": "在成都失联超半月女子遗体被找到",
-      "onboard_time": 1696728156,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -1192,6 +1192,14 @@
       "word": "霸王茶姬 盗墓笔记",
       "onboard_time": 1696301611,
       "rank": 3,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 1636871,
+      "num": 1636871,
+      "word": "老乡鸡",
+      "onboard_time": 1696596760,
+      "rank": 5,
       "category": "美食"
     },
     {
@@ -1841,14 +1849,6 @@
       "onboard_time": 1696488754,
       "rank": 15,
       "category": "幽默,互联网"
-    },
-    {
-      "raw_hot": 1251306,
-      "num": 1251306,
-      "word": "老乡鸡",
-      "onboard_time": 1696596760,
-      "rank": 5,
-      "category": "美食"
     },
     {
       "raw_hot": 1242296,
@@ -5475,6 +5475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 548058,
+      "num": 548058,
+      "word": "奥特曼婚纱",
+      "onboard_time": 1696731034,
+      "rank": 19,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 547775,
       "num": 547775,
       "word": "广州塔这辈子没被这样看过",
@@ -5537,6 +5545,14 @@
       "onboard_time": 1696262734,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 541788,
+      "num": 541788,
+      "word": "你那不叫勇敢叫家里有钱",
+      "onboard_time": 1696729413,
+      "rank": 8,
+      "category": "情感"
     },
     {
       "raw_hot": 541611,
@@ -5617,14 +5633,6 @@
       "onboard_time": 1696260758,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 534889,
-      "num": 534889,
-      "word": "你那不叫勇敢叫家里有钱",
-      "onboard_time": 1696729413,
-      "rank": 8,
-      "category": "情感"
     },
     {
       "raw_hot": 534211,
@@ -5907,6 +5915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 511885,
+      "num": 511885,
+      "word": "她怎么躺在Windows桌面啊",
+      "onboard_time": 1696727017,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 510080,
       "num": 510080,
       "word": "统计称泰国超过1030万名平民持有枪支",
@@ -5953,6 +5969,14 @@
       "onboard_time": 1696423235,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 506613,
+      "num": 506613,
+      "word": "iPhone15美国市场销量或陷入停滞",
+      "onboard_time": 1696729596,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 506419,
@@ -6225,14 +6249,6 @@
       "onboard_time": 1696316192,
       "rank": 16,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 485508,
-      "num": 485508,
-      "word": "她怎么躺在Windows桌面啊",
-      "onboard_time": 1696727017,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 485265,
@@ -6563,6 +6579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 464262,
+      "num": 455456,
+      "word": "以色列总理强硬表态",
+      "onboard_time": 1696730254,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 463909,
       "num": 404436,
       "word": "王一博想去巴黎铁塔和卢浮宫",
@@ -6659,14 +6683,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 458688,
-      "num": 437995,
-      "word": "以色列总理强硬表态",
-      "onboard_time": 1696730254,
-      "rank": 16,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 456317,
       "num": 352434,
       "word": "马诺",
@@ -6713,6 +6729,14 @@
       "onboard_time": 1696484072,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 453486,
+      "num": 462296,
+      "word": "别再把糖色当成离谱剧情保护色",
+      "onboard_time": 1696731992,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 452840,
@@ -6873,14 +6897,6 @@
       "onboard_time": 1696170285,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 444828,
-      "num": 444828,
-      "word": "iPhone15美国市场销量或陷入停滞",
-      "onboard_time": 1696729596,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 444713,
@@ -7772,7 +7788,7 @@
     },
     {
       "raw_hot": 390813,
-      "num": 358464,
+      "num": 366888,
       "word": "清华本硕博放弃北京中产去往非洲",
       "onboard_time": 1696729774,
       "rank": 20,
@@ -7849,6 +7865,14 @@
       "onboard_time": 1696473932,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389460,
+      "num": 389460,
+      "word": "电影河边的错误定档",
+      "onboard_time": 1696731637,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 389116,
@@ -8241,14 +8265,6 @@
       "onboard_time": 1696549103,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 367851,
-      "num": 367851,
-      "word": "奥特曼婚纱",
-      "onboard_time": 1696731034,
-      "rank": 19,
-      "category": "动漫"
     },
     {
       "raw_hot": 367776,
@@ -9067,14 +9083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 337638,
-      "num": 337638,
-      "word": "电影河边的错误定档",
-      "onboard_time": 1696731637,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 336715,
       "num": 336715,
       "word": "孙颖莎是眼神莎吧",
@@ -9185,6 +9193,14 @@
       "onboard_time": 1696591000,
       "rank": 22,
       "category": "其它"
+    },
+    {
+      "raw_hot": 333154,
+      "num": 319744,
+      "word": "毛晓彤甜妹",
+      "onboard_time": 1696729714,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 332959,
@@ -9451,6 +9467,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 321989,
+      "num": 459242,
+      "word": "北京奥运外套再现杭州亚运还很新",
+      "onboard_time": 1696730973,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321584,
       "num": 321584,
       "word": "虞书欣赐梦初舞台",
@@ -9683,14 +9707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 313690,
-      "num": 313690,
-      "word": "毛晓彤甜妹",
-      "onboard_time": 1696729714,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 313426,
       "num": 313426,
       "word": "陈雨菲逆转进决赛",
@@ -9745,6 +9761,14 @@
       "onboard_time": 1696251701,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 310342,
+      "num": 310342,
+      "word": "赵今麦8岁到21岁荧幕变化",
+      "onboard_time": 1696731813,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 310327,
@@ -10617,6 +10641,14 @@
       "onboard_time": 1696582654,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 287125,
+      "num": 287125,
+      "word": "专家建议增加学生春假",
+      "onboard_time": 1696731214,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 286690,
@@ -11659,6 +11691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263544,
+      "num": 263544,
+      "word": "河边的错误",
+      "onboard_time": 1696731871,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 263112,
       "num": 420630,
       "word": "全红婵火速逃离采访区",
@@ -11680,14 +11720,6 @@
       "word": "女篮球员都哭了",
       "onboard_time": 1696516119,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 262615,
-      "num": 459242,
-      "word": "北京奥运外套再现杭州亚运还很新",
-      "onboard_time": 1696730973,
-      "rank": 14,
       "category": "体育"
     },
     {
@@ -12137,6 +12169,14 @@
       "onboard_time": 1696565853,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 250751,
+      "num": 250751,
+      "word": "叙利亚霍姆斯军事学院发生自杀式无人机袭击",
+      "onboard_time": 1696731393,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 250621,
@@ -12601,6 +12641,14 @@
       "onboard_time": 1696110795,
       "rank": 21,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 241605,
+      "num": 241605,
+      "word": "孙燕姿麦克风失灵的四分钟",
+      "onboard_time": 1696732054,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 241367,
@@ -13689,14 +13737,6 @@
       "onboard_time": 1696206990,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 219347,
-      "num": 219347,
-      "word": "专家建议增加学生春假",
-      "onboard_time": 1696731214,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219225,
@@ -15379,14 +15419,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 194421,
-      "num": 194421,
-      "word": "叙利亚霍姆斯军事学院发生自杀式无人机袭击",
-      "onboard_time": 1696731393,
-      "rank": 34,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 194395,
       "num": 194395,
       "word": "四个NPC都没抓住李斯丹妮",
@@ -16091,6 +16123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184950,
+      "num": 184950,
+      "word": "袖珍姑娘左文静象棋夺冠",
+      "onboard_time": 1696732355,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184469,
       "num": 184469,
       "word": "中国女篮战胜日本女篮",
@@ -16299,6 +16339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182350,
+      "num": 182350,
+      "word": "我国发现战略性金属矿物",
+      "onboard_time": 1696732534,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 182330,
       "num": 182330,
       "word": "陈楚生阿璞反差感版光明",
@@ -16473,6 +16521,14 @@
       "onboard_time": 1696118066,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 179059,
+      "num": 179059,
+      "word": "我国约2.45亿人患高血压",
+      "onboard_time": 1696732232,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178796,
@@ -16905,14 +16961,6 @@
       "onboard_time": 1696243953,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171116,
-      "num": 171116,
-      "word": "河边的错误",
-      "onboard_time": 1696731871,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 171079,
@@ -18275,20 +18323,20 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 144500,
+      "num": 144500,
+      "word": "我国航天事业创建67周年",
+      "onboard_time": 1696730615,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144496,
       "num": 290852,
       "word": "田涛96公斤级举重金牌",
       "onboard_time": 1696497992,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 144472,
-      "num": 144472,
-      "word": "我国航天事业创建67周年",
-      "onboard_time": 1696730615,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 144195,
@@ -18401,14 +18449,6 @@
       "onboard_time": 1696202904,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 142971,
-      "num": 142971,
-      "word": "赵今麦8岁到21岁荧幕变化",
-      "onboard_time": 1696731813,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 142933,
