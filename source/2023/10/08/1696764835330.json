@@ -1,0 +1,410 @@
+{
+  "runTime": 1696764835330,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1072976,
+        "num": 1072976,
+        "word": "闭幕式旗手谢震业",
+        "onboard_time": 1696761696,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 925719,
+        "num": 925719,
+        "word": "第一次在古偶见男主送女主莲花",
+        "onboard_time": 1696760674,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52728,
+        "num": 903048,
+        "word": "中国航天67岁生日快乐",
+        "onboard_time": 1696752936,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351556,
+        "num": 890921,
+        "word": "男孩偷拿300元民警配合沉浸式教育",
+        "onboard_time": 1696750417,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 465439,
+        "num": 825109,
+        "word": "女子帮离世闺蜜照护女儿14年",
+        "onboard_time": 1696748133,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1880707,
+        "num": 789634,
+        "word": "K435列车命案嫌犯被鉴定为精神病人",
+        "onboard_time": 1696759056,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168669,
+        "num": 760487,
+        "word": "杭州亚运会闭幕式数字火炬人将返场",
+        "onboard_time": 1696757072,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 751973,
+        "num": 751973,
+        "word": "李子柒消失两年还会被偏爱吗",
+        "onboard_time": 1696747895,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 825253,
+        "num": 734598,
+        "word": "以色列建国史",
+        "onboard_time": 1696757913,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 707162,
+        "num": 707162,
+        "word": "别再把糖色当成离谱剧情保护色",
+        "onboard_time": 1696762717,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 689632,
+        "num": 689632,
+        "word": "杨紫白色棒球帽好女高",
+        "onboard_time": 1696763734,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 682990,
+        "num": 682990,
+        "word": "狐妖小红娘王权篇",
+        "onboard_time": 1696756655,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613730,
+        "num": 613730,
+        "word": "以色列中国留学生发声",
+        "onboard_time": 1696756294,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 569280,
+        "num": 569280,
+        "word": "吃完葡萄最好不要马上喝水",
+        "onboard_time": 1696762536,
+        "rank": 13,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 144596,
+        "num": 526897,
+        "word": "回顾巴以冲突始末",
+        "onboard_time": 1696762655,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 508157,
+        "num": 508157,
+        "word": "十个勤天",
+        "onboard_time": 1696763494,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495714,
+        "num": 495714,
+        "word": "高圆圆生图",
+        "onboard_time": 1696759174,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530831,
+        "num": 494752,
+        "word": "埃及一警察向以色列游客开枪致3死",
+        "onboard_time": 1696763195,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 493704,
+        "num": 493704,
+        "word": "孙颖莎vs陈梦",
+        "onboard_time": 1696764694,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 455308,
+        "num": 455308,
+        "word": "王者荣耀仍居中国手游收入榜首",
+        "onboard_time": 1696757974,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 621408,
+        "num": 453686,
+        "word": "是东北菜量大不是东北菜量大",
+        "onboard_time": 1696758154,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 475624,
+        "num": 453314,
+        "word": "以色列",
+        "onboard_time": 1696743398,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 437847,
+        "num": 437847,
+        "word": "李子柒油管粉丝不降反升",
+        "onboard_time": 1696753959,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 428698,
+        "num": 428698,
+        "word": "珠海宣布中小学停课",
+        "onboard_time": 1696763974,
+        "rank": 23,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 427892,
+        "num": 427892,
+        "word": "杭州亚运会闭幕式",
+        "onboard_time": 1696764576,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401401,
+        "num": 401401,
+        "word": "女司机撞倒行人用卫生巾帮止血",
+        "onboard_time": 1696754076,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384034,
+        "num": 384034,
+        "word": "学校食堂19元一份的自助盒饭",
+        "onboard_time": 1696763674,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 371811,
+        "num": 371811,
+        "word": "边伯贤 抗日神剧",
+        "onboard_time": 1696749875,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357314,
+        "num": 357314,
+        "word": "为什么年轻人都反感加班",
+        "onboard_time": 1696758333,
+        "rank": 28,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 348925,
+        "num": 348925,
+        "word": "吴世勋发疯表情包",
+        "onboard_time": 1696762956,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415071,
+        "num": 346636,
+        "word": "以色列多城市全面停工",
+        "onboard_time": 1696764215,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 331473,
+        "num": 331473,
+        "word": "文俊辉获釜山电影节RisingStar奖",
+        "onboard_time": 1696760736,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 313886,
+        "num": 313886,
+        "word": "女生买炸鸡付款一看两百万",
+        "onboard_time": 1696747472,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312945,
+        "num": 312945,
+        "word": "夜店文化倒退十年",
+        "onboard_time": 1696753296,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 301985,
+        "num": 301985,
+        "word": "IVE预告",
+        "onboard_time": 1696764276,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 242277,
+        "num": 242277,
+        "word": "陈清晨孙颖莎的友谊",
+        "onboard_time": 1696751015,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241199,
+        "num": 241199,
+        "word": "陈雨菲最后一届亚运会",
+        "onboard_time": 1696758936,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236763,
+        "num": 236763,
+        "word": "原来HR喜欢这样的简历",
+        "onboard_time": 1696760974,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230352,
+        "num": 230352,
+        "word": "陈楚生一个字把胡兵大脑整宕机了",
+        "onboard_time": 1696762056,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158758,
+        "num": 225997,
+        "word": "杭州亚运那些感动瞬间",
+        "onboard_time": 1696764756,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222655,
+        "num": 222655,
+        "word": "在张杰身上看到了谢娜的影子",
+        "onboard_time": 1696764513,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221470,
+        "num": 221470,
+        "word": "坚如磐石进入2023年票房榜前十",
+        "onboard_time": 1696763557,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208087,
+        "num": 208087,
+        "word": "上海4岁女童走失事发海滩并非景点",
+        "onboard_time": 1696746573,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202423,
+        "num": 202423,
+        "word": "丁程鑫出发录制这就是街舞",
+        "onboard_time": 1696758514,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194039,
+        "num": 194039,
+        "word": "78岁姥爷爬墙为28岁孙女摘柿子",
+        "onboard_time": 1696763854,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187469,
+        "num": 187469,
+        "word": "曾舜晞被撩得耳朵都红了",
+        "onboard_time": 1696759833,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183247,
+        "num": 183247,
+        "word": "三喜给自己化的妆我要笑死了",
+        "onboard_time": 1696750535,
+        "rank": 46,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 182676,
+        "num": 182676,
+        "word": "杨超越车内自拍live图",
+        "onboard_time": 1696761936,
+        "rank": 47,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 177089,
+        "num": 177089,
+        "word": "肖战原野漫步好迷人",
+        "onboard_time": 1696750895,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165744,
+        "num": 165744,
+        "word": "王鹤润感谢莲花楼角丽谯",
+        "onboard_time": 1696762717,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国式浪漫送别杭州亚运会#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696763579548,
+  "endTime": 1696764835330,
   "band_list": [
     {
       "raw_hot": 4772579,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 925719,
+      "num": 925719,
+      "word": "第一次在古偶见男主送女主莲花",
+      "onboard_time": 1696760674,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 896154,
       "num": 896154,
       "word": "李健 希望大家少经受挫折磨难",
@@ -395,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 689632,
+      "num": 689632,
+      "word": "杨紫白色棒球帽好女高",
+      "onboard_time": 1696763734,
+      "rank": 10,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 673004,
       "num": 673004,
       "word": "奥特曼婚纱",
@@ -449,14 +465,6 @@
       "onboard_time": 1696725998,
       "rank": 7,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 638701,
-      "num": 638701,
-      "word": "第一次在古偶见男主送女主莲花",
-      "onboard_time": 1696760674,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 637895,
@@ -563,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 569280,
+      "num": 569280,
+      "word": "吃完葡萄最好不要马上喝水",
+      "onboard_time": 1696762536,
+      "rank": 16,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 567777,
       "num": 567777,
       "word": "地铁好像成了打工人的休息室",
@@ -619,6 +635,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 530831,
+      "num": 494752,
+      "word": "埃及一警察向以色列游客开枪致3死",
+      "onboard_time": 1696763195,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 524412,
       "num": 524412,
       "word": "于适坐到车上衬衫被撑爆了",
@@ -656,6 +680,14 @@
       "word": "丁程鑫出发录制这就是街舞",
       "onboard_time": 1696758514,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 508157,
+      "num": 508157,
+      "word": "十个勤天",
+      "onboard_time": 1696763494,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -699,12 +731,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 495474,
-      "num": 495474,
-      "word": "吃完葡萄最好不要马上喝水",
-      "onboard_time": 1696762536,
-      "rank": 16,
-      "category": "美食,知识科普"
+      "raw_hot": 493704,
+      "num": 493704,
+      "word": "孙颖莎vs陈梦",
+      "onboard_time": 1696764694,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 487579,
@@ -827,6 +859,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 428698,
+      "num": 428698,
+      "word": "珠海宣布中小学停课",
+      "onboard_time": 1696763974,
+      "rank": 23,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 427892,
+      "num": 427892,
+      "word": "杭州亚运会闭幕式",
+      "onboard_time": 1696764576,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 427371,
       "num": 427371,
       "word": "肖战原野漫步好迷人",
@@ -841,6 +889,14 @@
       "onboard_time": 1696760736,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 415071,
+      "num": 346636,
+      "word": "以色列多城市全面停工",
+      "onboard_time": 1696764215,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 405521,
@@ -897,6 +953,14 @@
       "onboard_time": 1696737697,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 384034,
+      "num": 384034,
+      "word": "学校食堂19元一份的自助盒饭",
+      "onboard_time": 1696763674,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 383197,
@@ -985,6 +1049,14 @@
       "onboard_time": 1696754316,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 348925,
+      "num": 348925,
+      "word": "吴世勋发疯表情包",
+      "onboard_time": 1696762956,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 345864,
@@ -1147,6 +1219,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 301985,
+      "num": 301985,
+      "word": "IVE预告",
+      "onboard_time": 1696764276,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 301724,
       "num": 301724,
       "word": "官方通报防火指挥中心大屏播放不雅画面",
@@ -1283,14 +1363,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 270164,
-      "num": 270164,
-      "word": "吴世勋发疯表情包",
-      "onboard_time": 1696762956,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 270115,
       "num": 270115,
       "word": "不会剥柚子的人有福了",
@@ -1305,14 +1377,6 @@
       "onboard_time": 1696759295,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268644,
-      "num": 261095,
-      "word": "埃及一警察向以色列游客开枪致3死",
-      "onboard_time": 1696763195,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 264857,
@@ -1587,12 +1651,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 222655,
+      "num": 222655,
+      "word": "在张杰身上看到了谢娜的影子",
+      "onboard_time": 1696764513,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 221980,
       "num": 218829,
       "word": "巴以冲突动态",
       "onboard_time": 1696744356,
       "rank": 35,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 221470,
+      "num": 221470,
+      "word": "坚如磐石进入2023年票房榜前十",
+      "onboard_time": 1696763557,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 221389,
@@ -1843,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194039,
+      "num": 194039,
+      "word": "78岁姥爷爬墙为28岁孙女摘柿子",
+      "onboard_time": 1696763854,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 193526,
       "num": 193526,
       "word": "困兽赌城风云预告",
@@ -2003,14 +2091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176382,
-      "num": 176382,
-      "word": "十个勤天",
-      "onboard_time": 1696763494,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175874,
       "num": 175874,
       "word": "S13赛前垃圾话",
@@ -2084,7 +2164,7 @@
     },
     {
       "raw_hot": 167613,
-      "num": 512496,
+      "num": 526897,
       "word": "回顾巴以冲突始末",
       "onboard_time": 1696762655,
       "rank": 13,
@@ -2139,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158758,
+      "num": 225997,
+      "word": "杭州亚运那些感动瞬间",
+      "onboard_time": 1696764756,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157826,
       "num": 157826,
       "word": "张艺兴问贝壳们请假理由",
@@ -2185,14 +2273,6 @@
       "onboard_time": 1696730615,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141794,
-      "num": 141794,
-      "word": "坚如磐石进入2023年票房榜前十",
-      "onboard_time": 1696763557,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 141478,
