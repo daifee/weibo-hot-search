@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696818864496,
+  "endTime": 1696821449268,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -91,6 +91,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2250097,
+      "num": 2250097,
+      "word": "李晓鹏被双开",
+      "onboard_time": 1696819054,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2244486,
       "num": 2244486,
       "word": "杭州亚运会闭幕式",
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 2131648,
-      "num": 949127,
+      "num": 1005661,
       "word": "以色列25岁女学生音乐节上被哈马斯掳走",
       "onboard_time": 1696810959,
       "rank": 11,
@@ -144,6 +152,14 @@
       "word": "江歌妈妈直播带货",
       "onboard_time": 1696734636,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2008192,
+      "num": 2008192,
+      "word": "近1000只鸟集体撞向一栋大楼后死亡",
+      "onboard_time": 1696817194,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -259,14 +275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1506752,
-      "num": 1506752,
-      "word": "近1000只鸟集体撞向一栋大楼后死亡",
-      "onboard_time": 1696817194,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1493014,
       "num": 853231,
       "word": "假球",
@@ -345,6 +353,14 @@
       "onboard_time": 1696774422,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1271340,
+      "num": 1271340,
+      "word": "很多人发现肿瘤时已经是中晚期",
+      "onboard_time": 1696817494,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1269135,
@@ -523,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 967612,
+      "num": 967612,
+      "word": "海底捞报名",
+      "onboard_time": 1696819415,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 925719,
       "num": 925719,
       "word": "第一次在古偶见男主送女主莲花",
@@ -561,14 +585,6 @@
       "onboard_time": 1696766614,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 831953,
-      "num": 468960,
-      "word": "很多人发现肿瘤时已经是中晚期",
-      "onboard_time": 1696817494,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 821759,
@@ -753,6 +769,14 @@
       "onboard_time": 1696731034,
       "rank": 19,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 672520,
+      "num": 672520,
+      "word": "以色列大使馆",
+      "onboard_time": 1696817920,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 672284,
@@ -963,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 567674,
+      "num": 567674,
+      "word": "妻子过生日丈夫偷偷买回6000元手机",
+      "onboard_time": 1696818094,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 551417,
       "num": 551417,
       "word": "上海4岁女童走失事发海滩并非景点",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1696739679,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 520733,
+      "num": 520733,
+      "word": "张元英的下垂眼",
+      "onboard_time": 1696818032,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 516015,
@@ -1147,14 +1187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 488073,
-      "num": 443959,
-      "word": "张元英的下垂眼",
-      "onboard_time": 1696818032,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 487579,
       "num": 487579,
       "word": "陈雨菲最后一届亚运会",
@@ -1251,6 +1283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 461145,
+      "num": 461145,
+      "word": "没人在意范丞丞的死活吗",
+      "onboard_time": 1696819896,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459254,
       "num": 459254,
       "word": "林俊杰没有一首一千年以后是一样的",
@@ -1339,6 +1379,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 428780,
+      "num": 428780,
+      "word": "母女驾车看外婆回时冲入水塘溺亡",
+      "onboard_time": 1696818696,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 427371,
       "num": 427371,
       "word": "肖战原野漫步好迷人",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1696751015,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 396084,
+      "num": 443510,
+      "word": "我抱着出生抱着出嫁",
+      "onboard_time": 1696819354,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 395288,
@@ -1595,6 +1651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352425,
+      "num": 352425,
+      "word": "孙述涛被双开",
+      "onboard_time": 1696821219,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 349364,
       "num": 349364,
       "word": "小米高级副总裁张峰将离职",
@@ -1627,12 +1691,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343384,
-      "num": 338807,
-      "word": "以色列大使馆",
-      "onboard_time": 1696817920,
-      "rank": 39,
-      "category": "国外要闻"
+      "raw_hot": 343791,
+      "num": 313573,
+      "word": "螃蟹价格与去年比几乎腰斩",
+      "onboard_time": 1696820077,
+      "rank": 21,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 338646,
@@ -1665,14 +1729,6 @@
       "onboard_time": 1696723475,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 337441,
-      "num": 458872,
-      "word": "妻子过生日丈夫偷偷买回6000元手机",
-      "onboard_time": 1696818094,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337050,
@@ -1835,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304571,
+      "num": 304571,
+      "word": "乔帅希望CBA时长改为40分钟",
+      "onboard_time": 1696819176,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304241,
       "num": 283262,
       "word": "为什么现在的烧烤这么贵",
@@ -1865,6 +1929,14 @@
       "onboard_time": 1696768418,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301579,
+      "num": 301579,
+      "word": "大熊猫英英去世",
+      "onboard_time": 1696818157,
+      "rank": 48,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 299023,
@@ -1939,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284746,
+      "num": 284746,
+      "word": "男管家3个月偷进女租客家近30次",
+      "onboard_time": 1696819054,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283900,
       "num": 283900,
       "word": "Yamy新歌大女主粤语rap",
@@ -2011,14 +2091,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 276283,
-      "num": 276283,
-      "word": "大熊猫英英去世",
-      "onboard_time": 1696818157,
-      "rank": 48,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 275306,
       "num": 202900,
       "word": "一县卫健教育系统各清退500人",
@@ -2035,6 +2107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 273723,
+      "num": 273723,
+      "word": "老乡鸡外卖",
+      "onboard_time": 1696820736,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 272955,
       "num": 272955,
       "word": "aespa演唱会舞台状态",
@@ -2049,6 +2129,14 @@
       "onboard_time": 1696737338,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272308,
+      "num": 272308,
+      "word": "HYBE不管LESSERAFIM演唱会退票后续",
+      "onboard_time": 1696821098,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 270239,
@@ -2081,6 +2169,22 @@
       "onboard_time": 1696812096,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267580,
+      "num": 267580,
+      "word": "谁家结婚这么可爱啊",
+      "onboard_time": 1696820198,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 267567,
+      "num": 267567,
+      "word": "西直门大太子浴巾擦脸神似北京大爷",
+      "onboard_time": 1696818873,
+      "rank": 31,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 266957,
@@ -2923,6 +3027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191732,
+      "num": 191732,
+      "word": "亚运三冠王回家第一件事给父母戴上金牌",
+      "onboard_time": 1696819296,
+      "rank": 39,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 191232,
       "num": 191232,
       "word": "我戈壁爆胎遇到救星了",
@@ -3387,20 +3499,20 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 152192,
+      "num": 152192,
+      "word": "凡人修仙传墨彩环",
+      "onboard_time": 1696819835,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152093,
       "num": 152093,
       "word": "金晨想邀请沈腾演男主",
       "onboard_time": 1696818032,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149012,
-      "num": 149012,
-      "word": "母女驾车看外婆回时冲入水塘溺亡",
-      "onboard_time": 1696818696,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 148057,
@@ -3449,6 +3561,14 @@
       "onboard_time": 1696721127,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137799,
+      "num": 137799,
+      "word": "柯南跟以前不一样了",
+      "onboard_time": 1696821339,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 135697,
@@ -3905,6 +4025,14 @@
       "onboard_time": 1696741422,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 52097,
+      "num": 2115026,
+      "word": "视频回顾杭州亚运会暖心瞬间",
+      "onboard_time": 1696819896,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 49488,
