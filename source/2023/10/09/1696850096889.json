@@ -1,0 +1,410 @@
+{
+  "runTime": 1696850096889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 967249,
+        "num": 967249,
+        "word": "霍启刚抱着郭晶晶的亚运火炬离开杭州",
+        "onboard_time": 1696841915,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 787737,
+        "num": 787737,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24214,
+        "num": 727559,
+        "word": "谢谢杭州亚运给予的感动和力量",
+        "onboard_time": 1696840595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234158,
+        "num": 719074,
+        "word": "山东一地基层机关大院敞开让农民晒粮",
+        "onboard_time": 1696844435,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1144914,
+        "num": 717442,
+        "word": "关晓彤微博之夜捂嘴原因",
+        "onboard_time": 1696847258,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713019,
+        "num": 713019,
+        "word": "黄石通报男子当街锤人致死",
+        "onboard_time": 1696845698,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193732,
+        "num": 565576,
+        "word": "今天这束花必须归我姐",
+        "onboard_time": 1696842812,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2104687,
+        "num": 564934,
+        "word": "非自然死亡 翻拍",
+        "onboard_time": 1696845997,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 564186,
+        "num": 564186,
+        "word": "山东一法官辞职后谈体制与选择",
+        "onboard_time": 1696846356,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505923,
+        "num": 505923,
+        "word": "爱格 爷青结",
+        "onboard_time": 1696847796,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1272708,
+        "num": 501067,
+        "word": "月薪多少可以买过万元的包包",
+        "onboard_time": 1696840833,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 576753,
+        "num": 497683,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 575175,
+        "num": 493122,
+        "word": "我做好您的相 您做您的将",
+        "onboard_time": 1696841615,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182252,
+        "num": 486246,
+        "word": "手机钉子户不钉了",
+        "onboard_time": 1696838376,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154672,
+        "num": 480184,
+        "word": "云南发现1.4公斤重大鸡枞",
+        "onboard_time": 1696830995,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 476920,
+        "num": 476920,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696839274,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 428920,
+        "num": 428920,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404535,
+        "num": 404535,
+        "word": "花火 我们还在",
+        "onboard_time": 1696848996,
+        "rank": 17,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 375231,
+        "num": 375231,
+        "word": "在以色列华人中至少3人中弹4人失联",
+        "onboard_time": 1696838916,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 370307,
+        "num": 370307,
+        "word": "TFBOYS为王俊凯特约策展人打call",
+        "onboard_time": 1696843656,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1121898,
+        "num": 346682,
+        "word": "男子相亲被砍一刀",
+        "onboard_time": 1696847258,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 939904,
+        "num": 338708,
+        "word": "建议1周换1次床上用品",
+        "onboard_time": 1696848935,
+        "rank": 21,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 598577,
+        "num": 333897,
+        "word": "4岁走失女童父亲在网友评论区求助",
+        "onboard_time": 1696844496,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322110,
+        "num": 322110,
+        "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+        "onboard_time": 1696832735,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318104,
+        "num": 318104,
+        "word": "2023年诺贝尔经济学奖揭晓",
+        "onboard_time": 1696845759,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278989,
+        "num": 278989,
+        "word": "种地吧",
+        "onboard_time": 1696845096,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277304,
+        "num": 277304,
+        "word": "27岁小伙对异性无感竟因大脑长了瘤",
+        "onboard_time": 1696843415,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265169,
+        "num": 265169,
+        "word": "我那190的甜妹爱豆",
+        "onboard_time": 1696841558,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244523,
+        "num": 244523,
+        "word": "侯明昊 智性恋",
+        "onboard_time": 1696836994,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244330,
+        "num": 244330,
+        "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+        "onboard_time": 1696828959,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225770,
+        "num": 225770,
+        "word": "问心",
+        "onboard_time": 1696848633,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224635,
+        "num": 224635,
+        "word": "梅西又要来中国了",
+        "onboard_time": 1696840175,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215842,
+        "num": 215842,
+        "word": "老乡鸡发文道歉",
+        "onboard_time": 1696829916,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213678,
+        "num": 213678,
+        "word": "Newjeans是彼此的敌蜜吧",
+        "onboard_time": 1696849715,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176407,
+        "num": 176407,
+        "word": "BSS去录制RM了",
+        "onboard_time": 1696844976,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175704,
+        "num": 175704,
+        "word": "会跳舞的女生能有多自信",
+        "onboard_time": 1696849715,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173627,
+        "num": 173627,
+        "word": "博主称旅游订不到房可挂急诊过夜",
+        "onboard_time": 1696837776,
+        "rank": 36,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 172190,
+        "num": 172190,
+        "word": "美国同意三星和SK海力士向其中国工厂提供设备",
+        "onboard_time": 1696849595,
+        "rank": 37,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 161998,
+        "num": 161998,
+        "word": "哈马斯",
+        "onboard_time": 1696841194,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 154583,
+        "num": 154583,
+        "word": "雷佳音10亿长这样",
+        "onboard_time": 1696849893,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152205,
+        "num": 152205,
+        "word": "谁给赵今麦画的卧蚕",
+        "onboard_time": 1696835194,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146594,
+        "num": 146594,
+        "word": "关晓彤把孟子义理想型身高看成1米63",
+        "onboard_time": 1696842215,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145319,
+        "num": 145319,
+        "word": "刘宇宁 大学生盘串现状",
+        "onboard_time": 1696838556,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138261,
+        "num": 138261,
+        "word": "PENTAGON五位成员离开CUBE",
+        "onboard_time": 1696841733,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132525,
+        "num": 132525,
+        "word": "司机高速遇3孩童独自行走帮报警",
+        "onboard_time": 1696849234,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122252,
+        "num": 122252,
+        "word": "警方回应黄石当街发生锤人致死事件",
+        "onboard_time": 1696843894,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116363,
+        "num": 116363,
+        "word": "郭敬明连续两天发了侯明昊",
+        "onboard_time": 1696832615,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114698,
+        "num": 114698,
+        "word": "螺蛳粉肉蟹煲",
+        "onboard_time": 1696840117,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 113751,
+        "num": 113751,
+        "word": "于和伟 金五集团高层大换血了",
+        "onboard_time": 1696844137,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101418,
+        "num": 101418,
+        "word": "戴建峰起诉视觉中国获立案",
+        "onboard_time": 1696847738,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平文化思想首次提出#"
+    }
+  }
+}

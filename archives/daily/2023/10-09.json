@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696847842566,
+  "endTime": 1696850096889,
   "band_list": [
     {
       "raw_hot": 4416722,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 1401881,
-      "num": 429552,
+      "num": 501067,
       "word": "月薪多少可以买过万元的包包",
       "onboard_time": 1696840833,
       "rank": 22,
@@ -179,6 +179,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1144914,
+      "num": 717442,
+      "word": "关晓彤微博之夜捂嘴原因",
+      "onboard_time": 1696847258,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1121898,
+      "num": 346682,
+      "word": "男子相亲被砍一刀",
+      "onboard_time": 1696847258,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1089077,
       "num": 1089077,
       "word": "被浙江的婚宴震惊到了",
@@ -193,14 +209,6 @@
       "onboard_time": 1696819415,
       "rank": 6,
       "category": "美食"
-    },
-    {
-      "raw_hot": 1051303,
-      "num": 333333,
-      "word": "男子相亲被砍一刀",
-      "onboard_time": 1696847258,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1032933,
@@ -233,6 +241,14 @@
       "onboard_time": 1696841615,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 939904,
+      "num": 338708,
+      "word": "建议1周换1次床上用品",
+      "onboard_time": 1696848935,
+      "rank": 21,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 935045,
@@ -347,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 713019,
+      "num": 713019,
+      "word": "黄石通报男子当街锤人致死",
+      "onboard_time": 1696845698,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674863,
       "num": 504398,
       "word": "A股",
@@ -443,14 +467,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 591326,
-      "num": 591326,
-      "word": "黄石通报男子当街锤人致死",
-      "onboard_time": 1696845698,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 580638,
       "num": 580638,
       "word": "老乡鸡免费吃饭的意义",
@@ -473,6 +489,14 @@
       "onboard_time": 1696818032,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 564186,
+      "num": 927825,
+      "word": "山东一法官辞职后谈体制与选择",
+      "onboard_time": 1696846356,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 547090,
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 512000,
-      "num": 347041,
+      "num": 480184,
       "word": "云南发现1.4公斤重大鸡枞",
       "onboard_time": 1696830995,
       "rank": 20,
@@ -555,12 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 506372,
-      "num": 927825,
-      "word": "山东一法官辞职后谈体制与选择",
-      "onboard_time": 1696846356,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 505923,
+      "num": 505923,
+      "word": "爱格 爷青结",
+      "onboard_time": 1696847796,
+      "rank": 49,
+      "category": "读书作家"
     },
     {
       "raw_hot": 499100,
@@ -721,6 +745,14 @@
       "onboard_time": 1696822658,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 404535,
+      "num": 404535,
+      "word": "花火 我们还在",
+      "onboard_time": 1696848996,
+      "rank": 17,
+      "category": "读书作家"
     },
     {
       "raw_hot": 403683,
@@ -1051,14 +1083,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 296151,
-      "num": 274552,
-      "word": "关晓彤微博之夜捂嘴原因",
-      "onboard_time": 1696847258,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 291727,
       "num": 291727,
       "word": "沙溢让白敬亭挑一个女主演",
@@ -1129,6 +1153,14 @@
       "onboard_time": 1696764215,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 278989,
+      "num": 278989,
+      "word": "种地吧",
+      "onboard_time": 1696845096,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 278184,
@@ -1412,7 +1444,7 @@
     },
     {
       "raw_hot": 230599,
-      "num": 524013,
+      "num": 565576,
       "word": "今天这束花必须归我姐",
       "onboard_time": 1696842812,
       "rank": 29,
@@ -1425,6 +1457,14 @@
       "onboard_time": 1696766796,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 225770,
+      "num": 225770,
+      "word": "问心",
+      "onboard_time": 1696848633,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 224329,
@@ -1513,6 +1553,14 @@
       "onboard_time": 1696817254,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 213678,
+      "num": 213678,
+      "word": "Newjeans是彼此的敌蜜吧",
+      "onboard_time": 1696849715,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 210956,
@@ -1659,14 +1707,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 191505,
-      "num": 191505,
-      "word": "种地吧",
-      "onboard_time": 1696845096,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190690,
       "num": 190690,
       "word": "王玉雯打戏好帅",
@@ -1787,6 +1827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 175704,
+      "num": 175704,
+      "word": "会跳舞的女生能有多自信",
+      "onboard_time": 1696849715,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 175240,
       "num": 175240,
       "word": "徐璐深V白裙",
@@ -1817,6 +1865,14 @@
       "onboard_time": 1696843235,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 172190,
+      "num": 172190,
+      "word": "美国同意三星和SK海力士向其中国工厂提供设备",
+      "onboard_time": 1696849595,
+      "rank": 37,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 170369,
@@ -1905,6 +1961,14 @@
       "onboard_time": 1696777297,
       "rank": 31,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 154583,
+      "num": 154583,
+      "word": "雷佳音10亿长这样",
+      "onboard_time": 1696849893,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 153996,
@@ -2043,6 +2107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132525,
+      "num": 132525,
+      "word": "司机高速遇3孩童独自行走帮报警",
+      "onboard_time": 1696849234,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132521,
       "num": 132521,
       "word": "白敬亭手机里的自拍",
@@ -2097,14 +2169,6 @@
       "onboard_time": 1696833874,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 120552,
-      "num": 120552,
-      "word": "爱格 爷青结",
-      "onboard_time": 1696847796,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 114870,
@@ -2331,20 +2395,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24214,
+      "num": 836773,
+      "word": "谢谢杭州亚运给予的感动和力量",
+      "onboard_time": 1696840595,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 22611,
       "num": 26628,
       "word": "换位思考的理解最暖人心",
       "onboard_time": 1696789936,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19806,
-      "num": 836773,
-      "word": "谢谢杭州亚运给予的感动和力量",
-      "onboard_time": 1696840595,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 16501,
