@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696890850145,
+  "endTime": 1696893428266,
   "band_list": [
     {
       "raw_hot": 1354892,
@@ -35,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 681918,
+      "num": 681918,
+      "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
+      "onboard_time": 1696857159,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 650002,
       "num": 351542,
       "word": "素颜的徐娇",
@@ -51,16 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 561227,
-      "num": 561227,
-      "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
-      "onboard_time": 1696857159,
-      "rank": 4,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 540928,
-      "num": 224507,
+      "num": 382650,
       "word": "江歌妈妈直播间来了9万人",
       "onboard_time": 1696866334,
       "rank": 20,
@@ -73,6 +73,14 @@
       "onboard_time": 1696865136,
       "rank": 6,
       "category": "其它"
+    },
+    {
+      "raw_hot": 524071,
+      "num": 524071,
+      "word": "月薪一万买不起面包",
+      "onboard_time": 1696856379,
+      "rank": 24,
+      "category": "社会议题"
     },
     {
       "raw_hot": 506809,
@@ -89,6 +97,14 @@
       "onboard_time": 1696866092,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 421470,
+      "num": 421470,
+      "word": "售楼处回应女业主遭保安轮流泼水",
+      "onboard_time": 1696887433,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 419447,
@@ -163,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246701,
+      "num": 214756,
+      "word": "男子暗恋大12岁女同事装监控偷窥",
+      "onboard_time": 1696860160,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 224645,
       "num": 224645,
       "word": "赵露思晒了童年照",
@@ -179,20 +203,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 216285,
-      "num": 216285,
-      "word": "月薪一万买不起面包",
-      "onboard_time": 1696856379,
-      "rank": 24,
-      "category": "社会议题"
-    },
-    {
-      "raw_hot": 214756,
-      "num": 214756,
-      "word": "男子暗恋大12岁女同事装监控偷窥",
-      "onboard_time": 1696860160,
-      "rank": 23,
-      "category": "社会新闻"
+      "raw_hot": 217657,
+      "num": 217657,
+      "word": "赵又廷毛晓彤跳舞金世佳划水",
+      "onboard_time": 1696890256,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 214564,
@@ -225,6 +241,14 @@
       "onboard_time": 1696854275,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193987,
+      "num": 193987,
+      "word": "终于看到先脱鞋再进门的欧美人",
+      "onboard_time": 1696885213,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 193975,
@@ -267,14 +291,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180534,
-      "num": 99282,
-      "word": "售楼处回应女业主遭保安轮流泼水",
-      "onboard_time": 1696887433,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169718,
       "num": 169718,
       "word": "魏大勋说不会撕下中戏校服上的胶布",
@@ -289,6 +305,14 @@
       "onboard_time": 1696861479,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151799,
+      "num": 102786,
+      "word": "关注巴以冲突动态",
+      "onboard_time": 1696893145,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 151153,
@@ -321,6 +345,14 @@
       "onboard_time": 1696851513,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 134678,
+      "num": 126052,
+      "word": "从体制内离职的人现在怎么样了",
+      "onboard_time": 1696892903,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 131496,
@@ -363,6 +395,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119874,
+      "num": 102408,
+      "word": "1个动作有助睡眠",
+      "onboard_time": 1696893265,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 119261,
+      "num": 119261,
+      "word": "鲁豫首穿马面裙",
+      "onboard_time": 1696850315,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 118443,
       "num": 118443,
       "word": "你能接受自己老了进养老院吗",
@@ -403,6 +451,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 103081,
+      "num": 103081,
+      "word": "奚梦瑶晒何猷君的半永久队服皮肤",
+      "onboard_time": 1696854515,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 98722,
+      "num": 98722,
+      "word": "8小时睡眠不一定适合每个人",
+      "onboard_time": 1696892964,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98151,
       "num": 98151,
       "word": "秋天就要听那英肖战恼人的秋风",
@@ -419,14 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 94016,
-      "num": 94016,
-      "word": "鲁豫首穿马面裙",
-      "onboard_time": 1696850315,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 93341,
       "num": 93341,
       "word": "厦门与金鸡奖牵手第五年",
@@ -435,12 +491,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 85163,
-      "num": 85163,
-      "word": "终于看到先脱鞋再进门的欧美人",
-      "onboard_time": 1696885213,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 89889,
+      "num": 89889,
+      "word": "电竞解说管泽元谈入行这九年",
+      "onboard_time": 1696892603,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 88143,
+      "num": 88143,
+      "word": "上厚下薄穿搭到底适合什么季节",
+      "onboard_time": 1696893025,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 85892,
+      "num": 85892,
+      "word": "小棉袄偷亲睡着的消防员爸爸",
+      "onboard_time": 1696893025,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79166,
+      "num": 79166,
+      "word": "中央气象台对台风小犬停止编号",
+      "onboard_time": 1696886233,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 69859,
@@ -449,6 +529,14 @@
       "onboard_time": 1696869206,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 63454,
+      "num": 63454,
+      "word": "他救起溺水女子的这一跳太帅了",
+      "onboard_time": 1696892663,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 61560,
@@ -483,14 +571,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 48631,
-      "num": 47077,
-      "word": "中央气象台对台风小犬停止编号",
-      "onboard_time": 1696886233,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 45716,
       "num": 50445,
       "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
@@ -505,14 +585,6 @@
       "onboard_time": 1696882153,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 41469,
-      "num": 41469,
-      "word": "赵又廷毛晓彤跳舞金世佳划水",
-      "onboard_time": 1696890256,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 37546,
