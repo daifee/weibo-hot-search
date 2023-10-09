@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696862144309,
+  "endTime": 1696864747605,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -337,6 +337,14 @@
       "onboard_time": 1696756655,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1613063,
+      "num": 779738,
+      "word": "以色列宣布全面封锁加沙地带",
+      "onboard_time": 1696861660,
+      "rank": 13,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1607706,
@@ -883,20 +891,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 790934,
+      "num": 790934,
+      "word": "蟹老板的女儿为什么是个抹香鲸",
+      "onboard_time": 1696858716,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 784235,
       "num": 730995,
       "word": "以色列称一名中以混血女孩被绑架",
       "onboard_time": 1696773039,
       "rank": 15,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 784060,
-      "num": 784060,
-      "word": "蟹老板的女儿为什么是个抹香鲸",
-      "onboard_time": 1696858716,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 778428,
@@ -1435,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543299,
+      "num": 424885,
+      "word": "赵露思晒了童年照",
+      "onboard_time": 1696861784,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541788,
       "num": 541788,
       "word": "你那不叫勇敢叫家里有钱",
@@ -1780,7 +1796,7 @@
     },
     {
       "raw_hot": 470225,
-      "num": 305661,
+      "num": 344421,
       "word": "男子暗恋大12岁女同事装监控偷窥",
       "onboard_time": 1696860160,
       "rank": 24,
@@ -1939,6 +1955,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 434287,
+      "num": 434287,
+      "word": "有人自林中坠落",
+      "onboard_time": 1696862983,
+      "rank": 9,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 432972,
+      "num": 346717,
+      "word": "女子PPT举报前夫婚内出轨博士造假",
+      "onboard_time": 1696861238,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432716,
       "num": 432716,
       "word": "为什么工作之后一定要交社保",
@@ -1977,14 +2009,6 @@
       "onboard_time": 1696760736,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 424267,
-      "num": 336592,
-      "word": "以色列宣布全面封锁加沙地带",
-      "onboard_time": 1696861660,
-      "rank": 13,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 421771,
@@ -2041,6 +2065,14 @@
       "onboard_time": 1696770158,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 407772,
+      "num": 407772,
+      "word": "金智秀问是谁说冷的",
+      "onboard_time": 1696864117,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 405521,
@@ -2243,6 +2275,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 363517,
+      "num": 363517,
+      "word": "中国男子水球队主教练去世",
+      "onboard_time": 1696861479,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 362798,
       "num": 362798,
       "word": "李一桐出演清瞳",
@@ -2361,6 +2401,14 @@
       "onboard_time": 1696843894,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350132,
+      "num": 350132,
+      "word": "秋天就要听那英肖战恼人的秋风",
+      "onboard_time": 1696863459,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 349364,
@@ -2483,14 +2531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336051,
-      "num": 301273,
-      "word": "女子PPT举报前夫婚内出轨博士造假",
-      "onboard_time": 1696861238,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335153,
       "num": 335153,
       "word": "爱榴莲和爱牛肉的都沉默了",
@@ -2595,14 +2635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317197,
-      "num": 299588,
-      "word": "赵露思晒了童年照",
-      "onboard_time": 1696861784,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316590,
       "num": 316590,
       "word": "郑恺自掏腰包帮新浪员工相亲",
@@ -2657,14 +2689,6 @@
       "onboard_time": 1696734935,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310328,
-      "num": 268214,
-      "word": "中国男子水球队主教练去世",
-      "onboard_time": 1696861479,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 310284,
@@ -2905,6 +2929,14 @@
       "onboard_time": 1696759833,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 286442,
+      "num": 286442,
+      "word": "东北鸡蛋拌饭",
+      "onboard_time": 1696862437,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 286148,
@@ -3275,6 +3307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257197,
+      "num": 257197,
+      "word": "檀健次与爱狗呆球",
+      "onboard_time": 1696862320,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256818,
       "num": 256818,
       "word": "这泰剧全剧贯穿着中国文化",
@@ -3515,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238606,
+      "num": 238606,
+      "word": "这就是总裁的100平米大床吗",
+      "onboard_time": 1696863103,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238381,
       "num": 238381,
       "word": "陈梦3比2陈幸同",
@@ -3537,6 +3585,14 @@
       "onboard_time": 1696824338,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 236685,
+      "num": 236685,
+      "word": "王楚钦对记者说生日快乐",
+      "onboard_time": 1696862262,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 236134,
@@ -3651,12 +3707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229730,
+      "num": 229730,
+      "word": "TVB台庆剧香港人在北京今日开播",
+      "onboard_time": 1696863220,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227773,
       "num": 227773,
       "word": "考研人有自己的网吧",
       "onboard_time": 1696857033,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227733,
+      "num": 227733,
+      "word": "迪丽热巴巴黎vlog",
+      "onboard_time": 1696862382,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 226423,
@@ -3707,6 +3779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223476,
+      "num": 223476,
+      "word": "成毅李一桐主演狐妖小红娘王权篇",
+      "onboard_time": 1696864477,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222655,
       "num": 222655,
       "word": "在张杰身上看到了谢娜的影子",
@@ -3753,6 +3833,14 @@
       "onboard_time": 1696757072,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221018,
+      "num": 221018,
+      "word": "IVE回归预告照",
+      "onboard_time": 1696862800,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 219742,
@@ -3931,6 +4019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209826,
+      "num": 209826,
+      "word": "素颜的徐娇",
+      "onboard_time": 1696864477,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 208538,
       "num": 208538,
       "word": "当我的狗穿上我弟的衣服",
@@ -4097,6 +4193,14 @@
       "onboard_time": 1696741837,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203197,
+      "num": 203197,
+      "word": "黄子诚有编制了",
+      "onboard_time": 1696862019,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 203098,
@@ -4755,6 +4859,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 170676,
+      "num": 170676,
+      "word": "如何谈一段长久的恋爱",
+      "onboard_time": 1696864417,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170369,
       "num": 170369,
       "word": "时之奇旅新皮肤",
@@ -4985,14 +5097,6 @@
       "onboard_time": 1696842996,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153782,
-      "num": 153782,
-      "word": "黄子诚有编制了",
-      "onboard_time": 1696862019,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 153474,
@@ -5713,6 +5817,14 @@
       "onboard_time": 1696734036,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39861,
+      "num": 1103766,
+      "word": "中国申办亚运时的承诺都做到了",
+      "onboard_time": 1696854094,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 36831,

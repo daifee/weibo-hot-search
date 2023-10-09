@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696862144309,
+  "endTime": 1696864747605,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1696240655,
       "rank": 10,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 1613063,
+      "num": 779738,
+      "word": "以色列宣布全面封锁加沙地带",
+      "onboard_time": 1696861660,
+      "rank": 13,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1612589,
@@ -4235,6 +4243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790934,
+      "num": 790934,
+      "word": "蟹老板的女儿为什么是个抹香鲸",
+      "onboard_time": 1696858716,
+      "rank": 15,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 789463,
       "num": 789463,
       "word": "Jennie巴黎时装周",
@@ -4305,14 +4321,6 @@
       "onboard_time": 1696773039,
       "rank": 15,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 784060,
-      "num": 784060,
-      "word": "蟹老板的女儿为什么是个抹香鲸",
-      "onboard_time": 1696858716,
-      "rank": 15,
-      "category": "动漫"
     },
     {
       "raw_hot": 781911,
@@ -6795,6 +6803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 543299,
+      "num": 424885,
+      "word": "赵露思晒了童年照",
+      "onboard_time": 1696861784,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 543186,
       "num": 380059,
       "word": "亚运电竞中国4金1铜收官",
@@ -8076,7 +8092,7 @@
     },
     {
       "raw_hot": 470225,
-      "num": 305661,
+      "num": 344421,
       "word": "男子暗恋大12岁女同事装监控偷窥",
       "onboard_time": 1696860160,
       "rank": 24,
@@ -8779,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434287,
+      "num": 434287,
+      "word": "有人自林中坠落",
+      "onboard_time": 1696862983,
+      "rank": 9,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 434236,
       "num": 434236,
       "word": "王阳又演反派了",
@@ -8833,6 +8857,14 @@
       "onboard_time": 1696163856,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 432972,
+      "num": 346717,
+      "word": "女子PPT举报前夫婚内出轨博士造假",
+      "onboard_time": 1696861238,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 432869,
@@ -8937,14 +8969,6 @@
       "onboard_time": 1696688560,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 424267,
-      "num": 336592,
-      "word": "以色列宣布全面封锁加沙地带",
-      "onboard_time": 1696861660,
-      "rank": 13,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 422243,
@@ -9233,6 +9257,14 @@
       "onboard_time": 1696588836,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407772,
+      "num": 407772,
+      "word": "金智秀问是谁说冷的",
+      "onboard_time": 1696864117,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 407199,
@@ -10315,6 +10347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 363517,
+      "num": 363517,
+      "word": "中国男子水球队主教练去世",
+      "onboard_time": 1696861479,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 363464,
       "num": 363464,
       "word": "迷笛官方称南阳盗窃案件落实65起",
@@ -10819,6 +10859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350132,
+      "num": 350132,
+      "word": "秋天就要听那英肖战恼人的秋风",
+      "onboard_time": 1696863459,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 350050,
       "num": 302561,
       "word": "西安游客已实现逛吃分离",
@@ -11257,14 +11305,6 @@
       "onboard_time": 1696217433,
       "rank": 44,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 336051,
-      "num": 301273,
-      "word": "女子PPT举报前夫婚内出轨博士造假",
-      "onboard_time": 1696861238,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 335810,
@@ -11851,14 +11891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 317197,
-      "num": 299588,
-      "word": "赵露思晒了童年照",
-      "onboard_time": 1696861784,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 316967,
       "num": 316967,
       "word": "张镇麟踢广告牌",
@@ -12033,14 +12065,6 @@
       "onboard_time": 1696251701,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310328,
-      "num": 268214,
-      "word": "中国男子水球队主教练去世",
-      "onboard_time": 1696861479,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 310327,
@@ -13145,6 +13169,14 @@
       "onboard_time": 1696125512,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 286442,
+      "num": 286442,
+      "word": "东北鸡蛋拌饭",
+      "onboard_time": 1696862437,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 286329,
@@ -14779,6 +14811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 257197,
+      "num": 257197,
+      "word": "檀健次与爱狗呆球",
+      "onboard_time": 1696862320,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257056,
       "num": 257056,
       "word": "王楚钦兼四项全部夺冠",
@@ -15755,6 +15795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 238606,
+      "num": 238606,
+      "word": "这就是总裁的100平米大床吗",
+      "onboard_time": 1696863103,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 238381,
       "num": 238381,
       "word": "陈梦3比2陈幸同",
@@ -15817,6 +15865,14 @@
       "onboard_time": 1696084007,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 236685,
+      "num": 236685,
+      "word": "王楚钦对记者说生日快乐",
+      "onboard_time": 1696862262,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 236629,
@@ -16203,6 +16259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229730,
+      "num": 229730,
+      "word": "TVB台庆剧香港人在北京今日开播",
+      "onboard_time": 1696863220,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229388,
       "num": 229388,
       "word": "关晓彤韩东君拍海报手忙脚乱",
@@ -16337,6 +16401,14 @@
       "onboard_time": 1696857033,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 227733,
+      "num": 227733,
+      "word": "迪丽热巴巴黎vlog",
+      "onboard_time": 1696862382,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 227709,
@@ -16675,6 +16747,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 223476,
+      "num": 223476,
+      "word": "成毅李一桐主演狐妖小红娘王权篇",
+      "onboard_time": 1696864477,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222931,
       "num": 222931,
       "word": "西双版纳现菌盖状七彩祥云",
@@ -16857,6 +16937,14 @@
       "onboard_time": 1696145255,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221018,
+      "num": 221018,
+      "word": "IVE回归预告照",
+      "onboard_time": 1696862800,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 220961,
@@ -17555,6 +17643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 209826,
+      "num": 209826,
+      "word": "素颜的徐娇",
+      "onboard_time": 1696864477,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 209806,
       "num": 209806,
       "word": "花西子回应审美争议",
@@ -18121,6 +18217,14 @@
       "onboard_time": 1696665395,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203197,
+      "num": 203197,
+      "word": "黄子诚有编制了",
+      "onboard_time": 1696862019,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 203180,
@@ -20947,6 +21051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170676,
+      "num": 170676,
+      "word": "如何谈一段长久的恋爱",
+      "onboard_time": 1696864417,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170511,
       "num": 170511,
       "word": "南阳迷笛被盗失主称营地没监控",
@@ -22049,14 +22161,6 @@
       "onboard_time": 1696842996,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153782,
-      "num": 153782,
-      "word": "黄子诚有编制了",
-      "onboard_time": 1696862019,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 153629,
@@ -24985,6 +25089,14 @@
       "onboard_time": 1696734036,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39861,
+      "num": 1103766,
+      "word": "中国申办亚运时的承诺都做到了",
+      "onboard_time": 1696854094,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 39735,
