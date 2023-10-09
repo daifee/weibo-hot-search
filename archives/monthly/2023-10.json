@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696839786414,
+  "endTime": 1696840634716,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2547,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1119813,
+      "num": 938943,
+      "word": "被清退的编外人员如何过难关",
+      "onboard_time": 1696834056,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1117568,
       "num": 1117568,
       "word": "金晨最不想承认自己会跳舞的一次",
@@ -2969,14 +2977,6 @@
       "onboard_time": 1696749333,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 995877,
-      "num": 938943,
-      "word": "被清退的编外人员如何过难关",
-      "onboard_time": 1696834056,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 995359,
@@ -3955,6 +3955,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 800513,
+      "num": 628710,
+      "word": "在以色列华人中至少3人中弹4人失联",
+      "onboard_time": 1696838916,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 799992,
       "num": 799992,
       "word": "曾黎的照片被贴在巴黎街头",
@@ -4049,6 +4057,14 @@
       "onboard_time": 1696345179,
       "rank": 17,
       "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 791710,
+      "num": 475022,
+      "word": "刘宇宁 大学生盘串现状",
+      "onboard_time": 1696838556,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 791341,
@@ -4401,6 +4417,14 @@
       "onboard_time": 1696682800,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 743877,
+      "num": 743877,
+      "word": "侯明昊 智性恋",
+      "onboard_time": 1696836994,
+      "rank": 3,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 743524,
@@ -4921,14 +4945,6 @@
       "onboard_time": 1696337680,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 686158,
-      "num": 686158,
-      "word": "侯明昊 智性恋",
-      "onboard_time": 1696836994,
-      "rank": 3,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 684270,
@@ -5547,6 +5563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 624391,
+      "num": 624391,
+      "word": "博主称旅游订不到房可挂急诊过夜",
+      "onboard_time": 1696837776,
+      "rank": 8,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 622894,
       "num": 622894,
       "word": "梁崴 尴尬",
@@ -5987,14 +6011,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 592621,
-      "num": 475022,
-      "word": "刘宇宁 大学生盘串现状",
-      "onboard_time": 1696838556,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 592010,
       "num": 592010,
       "word": "研究称人造子宫人体试验或很快会启动",
@@ -6273,14 +6289,6 @@
       "onboard_time": 1696599946,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 571779,
-      "num": 443781,
-      "word": "在以色列华人中至少3人中弹4人失联",
-      "onboard_time": 1696838916,
-      "rank": 15,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 571395,
@@ -6641,14 +6649,6 @@
       "onboard_time": 1696213172,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 539627,
-      "num": 539627,
-      "word": "博主称旅游订不到房可挂急诊过夜",
-      "onboard_time": 1696837776,
-      "rank": 8,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 539078,
@@ -10539,6 +10539,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346281,
+      "num": 346281,
+      "word": "田嘉瑞不愧是山东尖子生",
+      "onboard_time": 1696840474,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 345979,
       "num": 345979,
       "word": "网传金鸡奖开幕式出席嘉宾名单",
@@ -11435,6 +11443,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 316590,
+      "num": 316590,
+      "word": "郑恺自掏腰包帮新浪员工相亲",
+      "onboard_time": 1696839815,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 316083,
       "num": 265154,
       "word": "21岁女孩当职业伴娘参加50多场婚礼",
@@ -11691,6 +11707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 308064,
+      "num": 280835,
+      "word": "于文文在芒果上签名",
+      "onboard_time": 1696839454,
+      "rank": 36,
+      "category": "电影,幽默"
+    },
+    {
       "raw_hot": 308048,
       "num": 308048,
       "word": "女篮BGM 鹿晗勋章",
@@ -11721,6 +11745,14 @@
       "onboard_time": 1696404575,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 307861,
+      "num": 307861,
+      "word": "梅西又要来中国了",
+      "onboard_time": 1696840175,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 307175,
@@ -13139,6 +13171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277636,
+      "num": 277636,
+      "word": "黄晓明聊我要我觉得热梗前因",
+      "onboard_time": 1696839336,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277613,
       "num": 212714,
       "word": "街头随机采访到了富二代",
@@ -13217,14 +13257,6 @@
       "onboard_time": 1696434757,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 275591,
-      "num": 223789,
-      "word": "黄晓明聊我要我觉得热梗前因",
-      "onboard_time": 1696839336,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 275497,
@@ -14601,6 +14633,14 @@
       "onboard_time": 1696732054,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248428,
+      "num": 248428,
+      "word": "巴以冲突已致上千人死亡",
+      "onboard_time": 1696839336,
+      "rank": 46,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 248407,
@@ -16283,6 +16323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 219520,
+      "num": 219520,
+      "word": "韩庚扫楼收到金箍棒的反应",
+      "onboard_time": 1696840237,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 219350,
       "num": 219350,
       "word": "宋佳全度妍巴黎秀场热聊",
@@ -16537,6 +16585,14 @@
       "onboard_time": 1696332097,
       "rank": 6,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 214243,
+      "num": 201151,
+      "word": "以方称哈马斯扣押的人质中有美国人",
+      "onboard_time": 1696839694,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 214227,
@@ -17699,6 +17755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "螺蛳粉肉蟹煲",
+      "onboard_time": 1696840117,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 200729,
       "num": 200729,
       "word": "杭州亚运会今天闭幕",
@@ -18369,14 +18433,6 @@
       "onboard_time": 1696763854,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 193803,
-      "num": 193803,
-      "word": "于文文在芒果上签名",
-      "onboard_time": 1696839454,
-      "rank": 36,
-      "category": "电影,幽默"
     },
     {
       "raw_hot": 193720,
@@ -19075,6 +19131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 185544,
+      "num": 185544,
+      "word": "MIOS",
+      "onboard_time": 1696836815,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 185517,
       "num": 185517,
       "word": "林高远晋级男单半决赛",
@@ -19427,6 +19491,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 182151,
+      "num": 434382,
+      "word": "手机钉子户不钉了",
+      "onboard_time": 1696838376,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 182008,
       "num": 182008,
       "word": "巴以冲突",
@@ -19481,6 +19553,14 @@
       "onboard_time": 1696519477,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180725,
+      "num": 180725,
+      "word": "金玟庭Mamonde缪斯",
+      "onboard_time": 1696838434,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 180719,
@@ -19755,14 +19835,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176795,
-      "num": 176795,
-      "word": "金玟庭Mamonde缪斯",
-      "onboard_time": 1696838434,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176691,
       "num": 176691,
       "word": "陈芋汐1分钟回答23个问题",
@@ -19841,14 +19913,6 @@
       "onboard_time": 1696154011,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175769,
-      "num": 175769,
-      "word": "MIOS",
-      "onboard_time": 1696836815,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 175582,
@@ -20179,6 +20243,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 170369,
+      "num": 170369,
+      "word": "时之奇旅新皮肤",
+      "onboard_time": 1696836158,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 170351,
       "num": 170351,
       "word": "最不便利却最治愈的景区便利店",
@@ -20419,14 +20491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166354,
-      "num": 166354,
-      "word": "时之奇旅新皮肤",
-      "onboard_time": 1696836158,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 166305,
       "num": 166305,
       "word": "以前的爱情有多朴实无华",
@@ -20547,14 +20611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164947,
-      "num": 164947,
-      "word": "手机钉子户不钉了",
-      "onboard_time": 1696838376,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
       "raw_hot": 164905,
       "num": 164905,
       "word": "霹雳舞决赛放的是热烈主题曲",
@@ -20585,14 +20641,6 @@
       "onboard_time": 1696671696,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 164467,
-      "num": 164467,
-      "word": "巴以冲突已致上千人死亡",
-      "onboard_time": 1696839336,
-      "rank": 46,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 164327,
@@ -21777,14 +21825,6 @@
       "onboard_time": 1696837298,
       "rank": 47,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 143708,
-      "num": 137028,
-      "word": "以方称哈马斯扣押的人质中有美国人",
-      "onboard_time": 1696839694,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 143502,
@@ -24441,6 +24481,14 @@
       "onboard_time": 1696161035,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 19806,
+      "num": 836773,
+      "word": "谢谢杭州亚运给予的感动和力量",
+      "onboard_time": 1696840595,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 19800,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1696840634716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1656144,
+        "num": 1656144,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1044512,
+        "num": 1044512,
+        "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+        "onboard_time": 1696832735,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19806,
+        "num": 836773,
+        "word": "谢谢杭州亚运给予的感动和力量",
+        "onboard_time": 1696840595,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 743877,
+        "num": 743877,
+        "word": "侯明昊 智性恋",
+        "onboard_time": 1696836994,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 629486,
+        "num": 629486,
+        "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+        "onboard_time": 1696828959,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 800513,
+        "num": 628710,
+        "word": "在以色列华人中至少3人中弹4人失联",
+        "onboard_time": 1696838916,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 624391,
+        "num": 624391,
+        "word": "博主称旅游订不到房可挂急诊过夜",
+        "onboard_time": 1696837776,
+        "rank": 6,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 472140,
+        "num": 472140,
+        "word": "老乡鸡发文道歉",
+        "onboard_time": 1696829916,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445610,
+        "num": 445610,
+        "word": "老乡鸡免费吃饭的意义",
+        "onboard_time": 1696838074,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443785,
+        "num": 443785,
+        "word": "近1000只鸟集体撞向一栋大楼后死亡",
+        "onboard_time": 1696817194,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1119813,
+        "num": 443457,
+        "word": "被清退的编外人员如何过难关",
+        "onboard_time": 1696834056,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093681,
+        "num": 440720,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696839274,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 225880,
+        "num": 435815,
+        "word": "日本地震多地观测到海啸",
+        "onboard_time": 1696833755,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182151,
+        "num": 434382,
+        "word": "手机钉子户不钉了",
+        "onboard_time": 1696838376,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166850,
+        "num": 432345,
+        "word": "李晓鹏被双开",
+        "onboard_time": 1696819054,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1008993,
+        "num": 428342,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33560,
+        "num": 424773,
+        "word": "8张图回顾亚运会赛场难忘瞬间",
+        "onboard_time": 1696819658,
+        "rank": 16,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 791710,
+        "num": 422330,
+        "word": "刘宇宁 大学生盘串现状",
+        "onboard_time": 1696838556,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 421668,
+        "num": 421668,
+        "word": "狐妖小红娘 中年古偶",
+        "onboard_time": 1696822539,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371435,
+        "num": 371435,
+        "word": "张凌赫体重只有130斤",
+        "onboard_time": 1696836214,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346281,
+        "num": 346281,
+        "word": "田嘉瑞不愧是山东尖子生",
+        "onboard_time": 1696840474,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 337871,
+        "num": 337871,
+        "word": "中学连续3年用骨汤取代味精做菜",
+        "onboard_time": 1696835255,
+        "rank": 21,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 316590,
+        "num": 316590,
+        "word": "郑恺自掏腰包帮新浪员工相亲",
+        "onboard_time": 1696839815,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 307861,
+        "num": 307861,
+        "word": "梅西又要来中国了",
+        "onboard_time": 1696840175,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 288735,
+        "num": 288735,
+        "word": "王者荣耀",
+        "onboard_time": 1696837414,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 281764,
+        "num": 281764,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280990,
+        "num": 280990,
+        "word": "谁给赵今麦画的卧蚕",
+        "onboard_time": 1696835194,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308064,
+        "num": 280835,
+        "word": "于文文在芒果上签名",
+        "onboard_time": 1696839454,
+        "rank": 27,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 277636,
+        "num": 277636,
+        "word": "黄晓明聊我要我觉得热梗前因",
+        "onboard_time": 1696839336,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264572,
+        "num": 264572,
+        "word": "男子7岁被拐母亲遭人贩子打死",
+        "onboard_time": 1696828899,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248428,
+        "num": 248428,
+        "word": "巴以冲突已致上千人死亡",
+        "onboard_time": 1696839336,
+        "rank": 30,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 219520,
+        "num": 219520,
+        "word": "韩庚扫楼收到金箍棒的反应",
+        "onboard_time": 1696840237,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209727,
+        "num": 209727,
+        "word": "瑞幸 猫和老鼠",
+        "onboard_time": 1696814796,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229977,
+        "num": 209050,
+        "word": "哈马斯宣称停火不可能",
+        "onboard_time": 1696830396,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 202973,
+        "num": 202973,
+        "word": "2岁宝宝独自在家把自己照顾得很好",
+        "onboard_time": 1696827223,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201318,
+        "num": 201318,
+        "word": "罗云熙回应古装免检",
+        "onboard_time": 1696838193,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214243,
+        "num": 201151,
+        "word": "以方称哈马斯扣押的人质中有美国人",
+        "onboard_time": 1696839694,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 200804,
+        "num": 200804,
+        "word": "螺蛳粉肉蟹煲",
+        "onboard_time": 1696840117,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 190606,
+        "num": 190606,
+        "word": "丞磊卢昱晓cos尼克朱迪",
+        "onboard_time": 1696831418,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185544,
+        "num": 185544,
+        "word": "MIOS",
+        "onboard_time": 1696836815,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185511,
+        "num": 185511,
+        "word": "英雄联盟S13",
+        "onboard_time": 1696834356,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 180725,
+        "num": 180725,
+        "word": "金玟庭Mamonde缪斯",
+        "onboard_time": 1696838434,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179170,
+        "num": 179170,
+        "word": "云南发现1.4公斤重大鸡枞",
+        "onboard_time": 1696830995,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178770,
+        "num": 178770,
+        "word": "郭敬明连续两天发了侯明昊",
+        "onboard_time": 1696832615,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170369,
+        "num": 170369,
+        "word": "时之奇旅新皮肤",
+        "onboard_time": 1696836158,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 151730,
+        "num": 167449,
+        "word": "西工大仿生飞行器破世界纪录",
+        "onboard_time": 1696834476,
+        "rank": 45,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 166965,
+        "num": 166965,
+        "word": "肖战粉丝小飞侠32城公益",
+        "onboard_time": 1696829978,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162834,
+        "num": 162834,
+        "word": "爱格停刊",
+        "onboard_time": 1696825969,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 162789,
+        "num": 162789,
+        "word": "欧阳娜娜超过十年的好朋友",
+        "onboard_time": 1696833995,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145227,
+        "num": 145227,
+        "word": "订婚买三金时我妈也想要",
+        "onboard_time": 1696822057,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平文化思想首次提出#"
+    }
+  }
+}

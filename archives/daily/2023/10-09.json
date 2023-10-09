@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696839786414,
+  "endTime": 1696840634716,
   "band_list": [
     {
       "raw_hot": 4416722,
@@ -139,6 +139,22 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1119813,
+      "num": 938943,
+      "word": "被清退的编外人员如何过难关",
+      "onboard_time": 1696834056,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1093681,
+      "num": 440720,
+      "word": "巴勒斯坦",
+      "onboard_time": 1696839274,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1089077,
       "num": 1089077,
       "word": "被浙江的婚宴震惊到了",
@@ -161,14 +177,6 @@
       "onboard_time": 1696770699,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 995877,
-      "num": 938943,
-      "word": "被清退的编外人员如何过难关",
-      "onboard_time": 1696834056,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 982424,
@@ -203,6 +211,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 800513,
+      "num": 628710,
+      "word": "在以色列华人中至少3人中弹4人失联",
+      "onboard_time": 1696838916,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 797927,
       "num": 643530,
       "word": "男孩游泳池溺亡10分钟无人救援",
@@ -217,6 +233,14 @@
       "onboard_time": 1696814616,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 791710,
+      "num": 475022,
+      "word": "刘宇宁 大学生盘串现状",
+      "onboard_time": 1696838556,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 778428,
@@ -259,8 +283,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 686158,
-      "num": 686158,
+      "raw_hot": 743877,
+      "num": 743877,
       "word": "侯明昊 智性恋",
       "onboard_time": 1696836994,
       "rank": 3,
@@ -289,6 +313,14 @@
       "onboard_time": 1696778435,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 624391,
+      "num": 624391,
+      "word": "博主称旅游订不到房可挂急诊过夜",
+      "onboard_time": 1696837776,
+      "rank": 8,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 622518,
@@ -347,14 +379,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 592621,
-      "num": 475022,
-      "word": "刘宇宁 大学生盘串现状",
-      "onboard_time": 1696838556,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 580638,
       "num": 580638,
       "word": "老乡鸡免费吃饭的意义",
@@ -379,28 +403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 571779,
-      "num": 443781,
-      "word": "在以色列华人中至少3人中弹4人失联",
-      "onboard_time": 1696838916,
-      "rank": 15,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 547090,
       "num": 547090,
       "word": "刘雯反应能力好牛",
       "onboard_time": 1696824821,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 539627,
-      "num": 539627,
-      "word": "博主称旅游订不到房可挂急诊过夜",
-      "onboard_time": 1696837776,
-      "rank": 8,
-      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 538214,
@@ -465,14 +473,6 @@
       "onboard_time": 1696832615,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 491554,
-      "num": 388807,
-      "word": "巴勒斯坦",
-      "onboard_time": 1696839274,
-      "rank": 18,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 489410,
@@ -691,6 +691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 346281,
+      "num": 346281,
+      "word": "田嘉瑞不愧是山东尖子生",
+      "onboard_time": 1696840474,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 344964,
       "num": 498741,
       "word": "康辉说非要说满三次",
@@ -747,6 +755,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 316590,
+      "num": 316590,
+      "word": "郑恺自掏腰包帮新浪员工相亲",
+      "onboard_time": 1696839815,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 314848,
       "num": 480703,
       "word": "打击缅北电诈行动最新战果",
@@ -800,6 +816,22 @@
       "word": "三小只告别亚运会",
       "onboard_time": 1696767455,
       "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 308064,
+      "num": 280835,
+      "word": "于文文在芒果上签名",
+      "onboard_time": 1696839454,
+      "rank": 36,
+      "category": "电影,幽默"
+    },
+    {
+      "raw_hot": 307861,
+      "num": 307861,
+      "word": "梅西又要来中国了",
+      "onboard_time": 1696840175,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -923,8 +955,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 275591,
-      "num": 223789,
+      "raw_hot": 277636,
+      "num": 277636,
       "word": "黄晓明聊我要我觉得热梗前因",
       "onboard_time": 1696839336,
       "rank": 30,
@@ -1075,6 +1107,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 248428,
+      "num": 248428,
+      "word": "巴以冲突已致上千人死亡",
+      "onboard_time": 1696839336,
+      "rank": 46,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 247102,
       "num": 247102,
       "word": "鞠婧祎素颜wink",
@@ -1179,6 +1219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 219520,
+      "num": 219520,
+      "word": "韩庚扫楼收到金箍棒的反应",
+      "onboard_time": 1696840237,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218691,
       "num": 218691,
       "word": "欧阳娜娜超过十年的好朋友",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1696816413,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 214243,
+      "num": 201151,
+      "word": "以方称哈马斯扣押的人质中有美国人",
+      "onboard_time": 1696839694,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 213885,
@@ -1307,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 200804,
+      "num": 200804,
+      "word": "螺蛳粉肉蟹煲",
+      "onboard_time": 1696840117,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 200284,
       "num": 200284,
       "word": "正确的洗脸方法",
@@ -1345,14 +1409,6 @@
       "onboard_time": 1696808852,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193803,
-      "num": 193803,
-      "word": "于文文在芒果上签名",
-      "onboard_time": 1696839454,
-      "rank": 36,
-      "category": "电影,幽默"
     },
     {
       "raw_hot": 193488,
@@ -1411,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 185544,
+      "num": 185544,
+      "word": "MIOS",
+      "onboard_time": 1696836815,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184636,
       "num": 184636,
       "word": "小伙开店做生意先定下3类人永远免费",
@@ -1459,6 +1523,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 182151,
+      "num": 434382,
+      "word": "手机钉子户不钉了",
+      "onboard_time": 1696838376,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 180761,
       "num": 458321,
       "word": "西工大仿生飞行器破世界纪录",
@@ -1467,20 +1539,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 176795,
-      "num": 176795,
+      "raw_hot": 180725,
+      "num": 180725,
       "word": "金玟庭Mamonde缪斯",
       "onboard_time": 1696838434,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175769,
-      "num": 175769,
-      "word": "MIOS",
-      "onboard_time": 1696836815,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 175240,
@@ -1507,6 +1571,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 170369,
+      "num": 170369,
+      "word": "时之奇旅新皮肤",
+      "onboard_time": 1696836158,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 169409,
       "num": 169409,
       "word": "孙颖莎陈梦27拍相持",
@@ -1521,30 +1593,6 @@
       "onboard_time": 1696830396,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 166354,
-      "num": 166354,
-      "word": "时之奇旅新皮肤",
-      "onboard_time": 1696836158,
-      "rank": 36,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 164947,
-      "num": 164947,
-      "word": "手机钉子户不钉了",
-      "onboard_time": 1696838376,
-      "rank": 45,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 164467,
-      "num": 164467,
-      "word": "巴以冲突已致上千人死亡",
-      "onboard_time": 1696839336,
-      "rank": 46,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 164327,
@@ -1657,14 +1705,6 @@
       "onboard_time": 1696837298,
       "rank": 47,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 143708,
-      "num": 137028,
-      "word": "以方称哈马斯扣押的人质中有美国人",
-      "onboard_time": 1696839694,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 142295,
@@ -1993,6 +2033,14 @@
       "onboard_time": 1696789936,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 19806,
+      "num": 836773,
+      "word": "谢谢杭州亚运给予的感动和力量",
+      "onboard_time": 1696840595,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 16501,
