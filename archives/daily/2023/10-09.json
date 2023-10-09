@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696832609445,
+  "endTime": 1696833384622,
   "band_list": [
     {
       "raw_hot": 4416722,
@@ -59,19 +59,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1953190,
+      "num": 1953190,
+      "word": "老乡鸡发文道歉",
+      "onboard_time": 1696829916,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1929069,
       "num": 1929069,
       "word": "月薪4000的小镇青年背过万的包",
       "onboard_time": 1696825543,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1917560,
-      "num": 1917560,
-      "word": "老乡鸡发文道歉",
-      "onboard_time": 1696829916,
-      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1696809334,
       "rank": 5,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 1397416,
+      "num": 1397416,
+      "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+      "onboard_time": 1696828959,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1298864,
@@ -113,14 +121,6 @@
       "onboard_time": 1696806082,
       "rank": 22,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1191826,
-      "num": 1191826,
-      "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
-      "onboard_time": 1696828959,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 1089077,
@@ -227,7 +227,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 680871,
+      "raw_hot": 754813,
       "num": 480675,
       "word": "男子7岁被拐母亲遭人贩子打死",
       "onboard_time": 1696828899,
@@ -281,6 +281,14 @@
       "onboard_time": 1696817494,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 615019,
+      "num": 439342,
+      "word": "哈马斯宣称停火不可能",
+      "onboard_time": 1696830396,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 612651,
@@ -371,12 +379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 526914,
-      "num": 439342,
-      "word": "哈马斯宣称停火不可能",
-      "onboard_time": 1696830396,
-      "rank": 13,
-      "category": "国外要闻"
+      "raw_hot": 512000,
+      "num": 343517,
+      "word": "云南发现1.4公斤重大鸡枞",
+      "onboard_time": 1696830995,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511104,
@@ -393,6 +401,14 @@
       "onboard_time": 1696810723,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 483901,
+      "num": 389612,
+      "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+      "onboard_time": 1696832735,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 481469,
@@ -435,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 461222,
-      "num": 273381,
-      "word": "云南发现1.4公斤重大鸡枞",
-      "onboard_time": 1696830995,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 461145,
       "num": 461145,
       "word": "没人在意范丞丞的死活吗",
@@ -473,6 +481,14 @@
       "onboard_time": 1696820736,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 423135,
+      "num": 386448,
+      "word": "丞磊卢昱晓cos尼克朱迪",
+      "onboard_time": 1696831418,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 421771,
@@ -507,14 +523,6 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 401010,
-      "num": 272160,
-      "word": "丞磊卢昱晓cos尼克朱迪",
-      "onboard_time": 1696831418,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 396084,
       "num": 443510,
       "word": "我抱着出生抱着出嫁",
@@ -529,6 +537,14 @@
       "onboard_time": 1696777478,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 384472,
+      "num": 384472,
+      "word": "2023全球总决赛",
+      "onboard_time": 1696831057,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 383128,
@@ -552,6 +568,14 @@
       "word": "入秋三件套",
       "onboard_time": 1696826025,
       "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 363619,
+      "num": 363619,
+      "word": "谁教你这么起WiFi名的",
+      "onboard_time": 1696830755,
+      "rank": 17,
       "category": "幽默"
     },
     {
@@ -587,14 +611,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 339146,
-      "num": 339146,
-      "word": "谁教你这么起WiFi名的",
-      "onboard_time": 1696830755,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 336739,
       "num": 336739,
       "word": "女子找回钱包后惊讶里面竟有这么多钱",
@@ -619,12 +635,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 323401,
-      "num": 323401,
-      "word": "2023全球总决赛",
-      "onboard_time": 1696831057,
-      "rank": 18,
-      "category": "游戏"
+      "raw_hot": 321596,
+      "num": 321596,
+      "word": "郭敬明连续两天发了侯明昊",
+      "onboard_time": 1696832615,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 314848,
@@ -633,6 +649,14 @@
       "onboard_time": 1696823739,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 313966,
+      "num": 313966,
+      "word": "蔡文静或将录制跑男特别季",
+      "onboard_time": 1696832196,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 313384,
@@ -740,11 +764,19 @@
     },
     {
       "raw_hot": 285648,
-      "num": 270508,
+      "num": 274742,
       "word": "罗云熙古装梦回润玉",
       "onboard_time": 1696829497,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285102,
+      "num": 285102,
+      "word": "狗狗叫声让主人当街社死",
+      "onboard_time": 1696832134,
+      "rank": 26,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 284746,
@@ -785,6 +817,14 @@
       "onboard_time": 1696806142,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 271956,
+      "num": 271956,
+      "word": "高铁上打开妈妈烧的饭直接泪崩",
+      "onboard_time": 1696832134,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269365,
@@ -931,12 +971,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 237312,
-      "num": 237312,
-      "word": "狗狗叫声让主人当街社死",
-      "onboard_time": 1696832134,
-      "rank": 26,
-      "category": "动物萌宠"
+      "raw_hot": 242067,
+      "num": 242067,
+      "word": "夜色尚浅",
+      "onboard_time": 1696830516,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 237212,
@@ -947,14 +987,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 236897,
-      "num": 236897,
-      "word": "蔡文静或将录制跑男特别季",
-      "onboard_time": 1696832196,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236578,
       "num": 236578,
       "word": "杨紫白色棒球帽好女高",
@@ -963,8 +995,8 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 233654,
-      "num": 233654,
+      "raw_hot": 236134,
+      "num": 236134,
       "word": "知名潜水员下水后失联30余小时",
       "onboard_time": 1696830275,
       "rank": 28,
@@ -1001,22 +1033,6 @@
       "onboard_time": 1696829017,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221493,
-      "num": 221493,
-      "word": "夜色尚浅",
-      "onboard_time": 1696830516,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 220178,
-      "num": 220178,
-      "word": "高铁上打开妈妈烧的饭直接泪崩",
-      "onboard_time": 1696832134,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218344,
@@ -1331,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160085,
+      "num": 160085,
+      "word": "杨幂费加罗十月刊封面大片",
+      "onboard_time": 1696831956,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 159170,
       "num": 159170,
       "word": "SEVENTEEN祝贺文俊辉获奖",
@@ -1457,6 +1481,22 @@
       "onboard_time": 1696767816,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 128300,
+      "num": 128300,
+      "word": "折叠男孩成功拆除头盆环",
+      "onboard_time": 1696833214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 125033,
+      "num": 125033,
+      "word": "闪耀暖暖",
+      "onboard_time": 1696833336,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 122969,
