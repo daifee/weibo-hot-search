@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696869482161,
+  "endTime": 1696871737180,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -4019,6 +4019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 213691,
+      "num": 252886,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1696866155,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 213529,
       "num": 213529,
       "word": "会跳舞的女生能有多自信",
@@ -4257,14 +4265,6 @@
       "onboard_time": 1696741837,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203263,
-      "num": 252886,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1696866155,
-      "rank": 27,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 203197,
@@ -5715,6 +5715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79409,
+      "num": 79409,
+      "word": "逆水寒疑似将同人图融AI",
+      "onboard_time": 1696871600,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 77854,
       "num": 327172,
       "word": "赛事结束播报台工作人员动情高歌",
@@ -5843,6 +5851,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 58599,
+      "num": 55405,
+      "word": "新华社记者直击巴以冲突最新情况",
+      "onboard_time": 1696869745,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 56880,
       "num": 56880,
       "word": "阿克萨洪水",
@@ -5889,6 +5905,14 @@
       "onboard_time": 1696741422,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51307,
+      "num": 51307,
+      "word": "朱一龙马哲海报",
+      "onboard_time": 1696871600,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 49488,

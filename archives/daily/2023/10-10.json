@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696869482161,
+  "endTime": 1696871737180,
   "band_list": [
     {
       "raw_hot": 1354892,
@@ -171,6 +171,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 216285,
+      "num": 216285,
+      "word": "月薪一万买不起面包",
+      "onboard_time": 1696856379,
+      "rank": 24,
+      "category": "社会议题"
+    },
+    {
       "raw_hot": 214756,
       "num": 214756,
       "word": "男子暗恋大12岁女同事装监控偷窥",
@@ -187,15 +195,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 209994,
-      "num": 209994,
-      "word": "月薪一万买不起面包",
-      "onboard_time": 1696856379,
-      "rank": 24,
-      "category": "社会议题"
-    },
-    {
-      "raw_hot": 203263,
+      "raw_hot": 213691,
       "num": 252886,
       "word": "以色列巴勒斯坦冲突",
       "onboard_time": 1696866155,
@@ -411,6 +411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 79409,
+      "num": 79409,
+      "word": "逆水寒疑似将同人图融AI",
+      "onboard_time": 1696871600,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 69859,
       "num": 81439,
       "word": "很难想象广西人的快乐",
@@ -425,6 +433,30 @@
       "onboard_time": 1696854094,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 58599,
+      "num": 55405,
+      "word": "新华社记者直击巴以冲突最新情况",
+      "onboard_time": 1696869745,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 51307,
+      "num": 51307,
+      "word": "朱一龙马哲海报",
+      "onboard_time": 1696871600,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 45716,
+      "num": 50445,
+      "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
+      "onboard_time": 1696856433,
+      "rank": 49,
+      "category": "作品衍生"
     }
   ],
   "hotgov_list": [
