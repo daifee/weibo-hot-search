@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696854949303,
+  "endTime": 1696855946260,
   "band_list": [
     {
       "raw_hot": 4416722,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1696567,
+      "num": 1696567,
+      "word": "张真源 跑男",
+      "onboard_time": 1696854275,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1601972,
       "num": 473507,
       "word": "嗯哼甜馨一起郊游",
@@ -147,8 +155,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1354120,
-      "num": 1354120,
+      "raw_hot": 1396033,
+      "num": 1396033,
       "word": "美国同意三星和SK海力士向其中国工厂提供设备",
       "onboard_time": 1696849595,
       "rank": 37,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1287996,
-      "num": 777994,
+      "num": 830034,
       "word": "关晓彤微博之夜捂嘴原因",
       "onboard_time": 1696847258,
       "rank": 28,
@@ -251,20 +259,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 963083,
+      "num": 384643,
+      "word": "建议1周换1次床上用品",
+      "onboard_time": 1696848935,
+      "rank": 21,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 942864,
       "num": 528369,
       "word": "我做好您的相 您做您的将",
       "onboard_time": 1696841615,
       "rank": 12,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 940209,
-      "num": 384643,
-      "word": "建议1周换1次床上用品",
-      "onboard_time": 1696848935,
-      "rank": 21,
-      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 935045,
@@ -283,12 +291,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 860323,
-      "num": 860323,
-      "word": "张真源 跑男",
-      "onboard_time": 1696854275,
-      "rank": 1,
-      "category": "综艺"
+      "raw_hot": 844430,
+      "num": 844430,
+      "word": "奚梦瑶晒何猷君的半永久队服皮肤",
+      "onboard_time": 1696854515,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 815757,
@@ -457,6 +465,14 @@
       "onboard_time": 1696829978,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 619574,
+      "num": 619574,
+      "word": "鲁豫首穿马面裙",
+      "onboard_time": 1696850315,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 619332,
@@ -659,14 +675,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 488415,
-      "num": 488415,
-      "word": "奚梦瑶晒何猷君的半永久队服皮肤",
-      "onboard_time": 1696854515,
-      "rank": 8,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 486603,
       "num": 387685,
       "word": "27岁小伙对异性无感竟因大脑长了瘤",
@@ -699,14 +707,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 478460,
-      "num": 478460,
-      "word": "鲁豫首穿马面裙",
-      "onboard_time": 1696850315,
-      "rank": 17,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 476737,
       "num": 476737,
       "word": "大哥买下所有花让卖花女孩回家",
@@ -721,6 +721,14 @@
       "onboard_time": 1696809695,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 472043,
+      "num": 472043,
+      "word": "巴以本轮冲突双方伤亡人数已超6000",
+      "onboard_time": 1696852113,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 470974,
@@ -787,20 +795,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 447724,
-      "num": 447724,
-      "word": "巴以本轮冲突双方伤亡人数已超6000",
-      "onboard_time": 1696852113,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 443169,
       "num": 443169,
       "word": "老乡鸡外卖",
       "onboard_time": 1696820736,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 437714,
+      "num": 437714,
+      "word": "官方通报男童游泳馆溺亡",
+      "onboard_time": 1696852774,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 421771,
@@ -827,6 +835,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 406837,
+      "num": 406837,
+      "word": "男子涉黄打火机发民警手上",
+      "onboard_time": 1696853855,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403683,
       "num": 403683,
       "word": "张凌赫体重只有130斤",
@@ -843,19 +859,19 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 400630,
+      "num": 400630,
+      "word": "19岁女孩7年花40万减肥越减越胖",
+      "onboard_time": 1696851694,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 396084,
       "num": 443510,
       "word": "我抱着出生抱着出嫁",
       "onboard_time": 1696819354,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 385629,
-      "num": 385629,
-      "word": "官方通报男童游泳馆溺亡",
-      "onboard_time": 1696852774,
-      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -881,14 +897,6 @@
       "onboard_time": 1696813418,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 382753,
-      "num": 382753,
-      "word": "19岁女孩7年花40万减肥越减越胖",
-      "onboard_time": 1696851694,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 380685,
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 337364,
-      "num": 403735,
+      "num": 442320,
       "word": "中国女运动员摘金108枚",
       "onboard_time": 1696853496,
       "rank": 13,
@@ -1041,14 +1049,6 @@
       "onboard_time": 1696837414,
       "rank": 20,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 334289,
-      "num": 334289,
-      "word": "男子涉黄打火机发民警手上",
-      "onboard_time": 1696853855,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328505,
@@ -1195,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 291109,
+      "num": 291109,
+      "word": "沙特正式申办2034年世界杯",
+      "onboard_time": 1696854636,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 290983,
       "num": 290983,
       "word": "HYBE不管LESSERAFIM演唱会退票后续",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1696839336,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 276384,
+      "num": 276384,
+      "word": "南风知我意31集大虐",
+      "onboard_time": 1696853796,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 275306,
@@ -1459,14 +1475,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 249421,
-      "num": 249421,
-      "word": "南风知我意31集大虐",
-      "onboard_time": 1696853796,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248428,
       "num": 248428,
       "word": "巴以冲突已致上千人死亡",
@@ -1505,6 +1513,14 @@
       "onboard_time": 1696830516,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240344,
+      "num": 438033,
+      "word": "找到中美两个大国正确的相处之道",
+      "onboard_time": 1696853194,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 237212,
@@ -1563,6 +1579,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 231869,
+      "num": 231869,
+      "word": "你好种地少年",
+      "onboard_time": 1696853916,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230727,
       "num": 230727,
       "word": "基普图姆打破马拉松世界纪录",
@@ -1608,6 +1632,14 @@
       "word": "张彬彬你被绑架了就眨眨眼",
       "onboard_time": 1696829017,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 219742,
+      "num": 219742,
+      "word": "黄子诚假死",
+      "onboard_time": 1696851095,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -1771,28 +1803,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 203813,
-      "num": 203813,
-      "word": "黄子诚假死",
-      "onboard_time": 1696851095,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202213,
       "num": 202213,
       "word": "于和伟新片角色挺不住了",
       "onboard_time": 1696828364,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202171,
-      "num": 202171,
-      "word": "你好种地少年",
-      "onboard_time": 1696853916,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 201260,
@@ -1857,14 +1873,6 @@
       "onboard_time": 1696821819,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 192871,
-      "num": 192871,
-      "word": "沙特正式申办2034年世界杯",
-      "onboard_time": 1696854636,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 191732,
@@ -1977,14 +1985,6 @@
       "onboard_time": 1696825969,
       "rank": 40,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 183919,
-      "num": 400507,
-      "word": "找到中美两个大国正确的相处之道",
-      "onboard_time": 1696853194,
-      "rank": 14,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 183510,
@@ -2339,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132270,
+      "num": 132270,
+      "word": "大学生考证时间表",
+      "onboard_time": 1696855474,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 128300,
       "num": 128300,
       "word": "折叠男孩成功拆除头盆环",
@@ -2369,6 +2377,14 @@
       "onboard_time": 1696833874,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 120571,
+      "num": 120571,
+      "word": "张凌赫蒋龙男人间的battle",
+      "onboard_time": 1696855656,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 114870,
@@ -2595,6 +2611,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 28239,
+      "num": 1042496,
+      "word": "文化赋能以更自信姿态开创未来",
+      "onboard_time": 1696854334,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27168,
       "num": 28766,
       "word": "朱一龙新片演刑警",
@@ -2617,14 +2641,6 @@
       "onboard_time": 1696785560,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16003,
-      "num": 780642,
-      "word": "文化赋能以更自信姿态开创未来",
-      "onboard_time": 1696854334,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15839,
