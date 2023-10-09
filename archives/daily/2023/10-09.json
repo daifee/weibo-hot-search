@@ -1,9 +1,9 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696826103091,
+  "endTime": 1696828571660,
   "band_list": [
     {
-      "raw_hot": 4413173,
+      "raw_hot": 4416722,
       "num": 4413173,
       "word": "李思思从央视离职",
       "onboard_time": 1696824762,
@@ -56,6 +56,14 @@
       "word": "近1000只鸟集体撞向一栋大楼后死亡",
       "onboard_time": 1696817194,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1807973,
+      "num": 1807973,
+      "word": "月薪4000的小镇青年背过万的包",
+      "onboard_time": 1696825543,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -137,6 +145,14 @@
       "onboard_time": 1696774422,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 865922,
+      "num": 865922,
+      "word": "爱格停刊",
+      "onboard_time": 1696825969,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 806225,
@@ -267,6 +283,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 547090,
+      "num": 547090,
+      "word": "刘雯反应能力好牛",
+      "onboard_time": 1696824821,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538214,
       "num": 538214,
       "word": "姚瑶自首了",
@@ -299,28 +323,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 517664,
-      "num": 302806,
-      "word": "刘雯反应能力好牛",
-      "onboard_time": 1696824821,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 517237,
-      "num": 517237,
-      "word": "月薪4000的小镇青年背过万的包",
-      "onboard_time": 1696825543,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 511104,
       "num": 511104,
       "word": "胡兵曾代表中国赛艇队拿了世界第七",
       "onboard_time": 1696816297,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 501717,
+      "num": 501717,
+      "word": "2岁宝宝独自在家把自己照顾得很好",
+      "onboard_time": 1696827223,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 489410,
@@ -427,6 +443,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 403120,
+      "num": 280279,
+      "word": "第一批旅游发毒誓的00后已经决裂了",
+      "onboard_time": 1696827639,
+      "rank": 30,
+      "category": "旅游,社会新闻"
+    },
+    {
       "raw_hot": 396084,
       "num": 443510,
       "word": "我抱着出生抱着出嫁",
@@ -507,8 +531,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 318412,
-      "num": 318412,
+      "raw_hot": 323795,
+      "num": 318527,
       "word": "巴以支持者在美国街头举旗混战",
       "onboard_time": 1696825181,
       "rank": 48,
@@ -529,6 +553,14 @@
       "onboard_time": 1696776637,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311882,
+      "num": 311882,
+      "word": "吉克隽逸又素颜出镜了",
+      "onboard_time": 1696828126,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 309256,
@@ -579,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304290,
-      "num": 304290,
-      "word": "爱格停刊",
-      "onboard_time": 1696825969,
-      "rank": 29,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 301579,
       "num": 301579,
       "word": "大熊猫英英去世",
@@ -609,6 +633,14 @@
       "onboard_time": 1696810175,
       "rank": 25,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 298477,
+      "num": 298477,
+      "word": "入秋三件套",
+      "onboard_time": 1696826025,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 291727,
@@ -763,6 +795,14 @@
       "category": "剧集,幽默"
     },
     {
+      "raw_hot": 255490,
+      "num": 255490,
+      "word": "丈夫患癌老板娘决定化疗病人假发免费送",
+      "onboard_time": 1696825604,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253015,
       "num": 253015,
       "word": "北京下雪",
@@ -777,14 +817,6 @@
       "onboard_time": 1696807046,
       "rank": 15,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 250572,
-      "num": 250572,
-      "word": "丈夫患癌老板娘决定化疗病人假发免费送",
-      "onboard_time": 1696825604,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 247102,
@@ -857,6 +889,14 @@
       "onboard_time": 1696816413,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 215262,
+      "num": 215262,
+      "word": "老乡鸡0.01元套餐你抢到了吗",
+      "onboard_time": 1696827764,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 213885,
@@ -939,6 +979,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 202213,
+      "num": 202213,
+      "word": "于和伟新片角色挺不住了",
+      "onboard_time": 1696828364,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200284,
       "num": 200284,
       "word": "正确的洗脸方法",
@@ -969,14 +1017,6 @@
       "onboard_time": 1696814436,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 195670,
-      "num": 195670,
-      "word": "入秋三件套",
-      "onboard_time": 1696826025,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 195502,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1696822779,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184050,
+      "num": 184050,
+      "word": "毛晓彤飘逸衬衫裙造型",
+      "onboard_time": 1696825969,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 183510,

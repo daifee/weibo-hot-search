@@ -1,0 +1,410 @@
+{
+  "runTime": 1696828571660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1807973,
+        "num": 1807973,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1715074,
+        "num": 1715074,
+        "word": "李晓鹏被双开",
+        "onboard_time": 1696819054,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 57010,
+        "num": 1497944,
+        "word": "视频回顾杭州亚运会暖心瞬间",
+        "onboard_time": 1696819896,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1361968,
+        "num": 1361968,
+        "word": "瑞幸 猫和老鼠",
+        "onboard_time": 1696814796,
+        "rank": 3,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1357265,
+        "num": 1357265,
+        "word": "狐妖小红娘 中年古偶",
+        "onboard_time": 1696822539,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1125575,
+        "num": 1125575,
+        "word": "很多人发现肿瘤时已经是中晚期",
+        "onboard_time": 1696817494,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1060506,
+        "num": 1060506,
+        "word": "近1000只鸟集体撞向一栋大楼后死亡",
+        "onboard_time": 1696817194,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865922,
+        "num": 865922,
+        "word": "爱格停刊",
+        "onboard_time": 1696825969,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 549068,
+        "num": 549068,
+        "word": "王权富贵",
+        "onboard_time": 1696767758,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547090,
+        "num": 547090,
+        "word": "刘雯反应能力好牛",
+        "onboard_time": 1696824821,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 4416722,
+        "num": 544145,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501717,
+        "num": 501717,
+        "word": "2岁宝宝独自在家把自己照顾得很好",
+        "onboard_time": 1696827223,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497309,
+        "num": 497309,
+        "word": "海底捞报名",
+        "onboard_time": 1696819415,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 490394,
+        "num": 490394,
+        "word": "以色列大使馆",
+        "onboard_time": 1696817920,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 243647,
+        "num": 405446,
+        "word": "妻子过生日丈夫偷偷买回6000元手机",
+        "onboard_time": 1696818094,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368016,
+        "num": 368016,
+        "word": "金晨喂范丞丞吃葡萄脸都撑大了",
+        "onboard_time": 1696825064,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 481785,
+        "num": 366720,
+        "word": "以色列25岁女学生音乐节上被哈马斯掳走",
+        "onboard_time": 1696810959,
+        "rank": 16,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 364274,
+        "num": 364274,
+        "word": "母女驾车看外婆回时冲入水塘溺亡",
+        "onboard_time": 1696818696,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363436,
+        "num": 363436,
+        "word": "大金镯子还能安排吗",
+        "onboard_time": 1696823017,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230377,
+        "num": 342402,
+        "word": "打击缅北电诈行动最新战果",
+        "onboard_time": 1696823739,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 656452,
+        "num": 336656,
+        "word": "订婚买三金时我妈也想要",
+        "onboard_time": 1696822057,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442586,
+        "num": 336455,
+        "word": "11岁女孩将狗偷走掰断其牙齿舌头",
+        "onboard_time": 1696817494,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330109,
+        "num": 330109,
+        "word": "丑衣服的受众是大一的我",
+        "onboard_time": 1696822600,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320021,
+        "num": 320021,
+        "word": "张元英的下垂眼",
+        "onboard_time": 1696818032,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 323795,
+        "num": 318527,
+        "word": "巴以支持者在美国街头举旗混战",
+        "onboard_time": 1696825181,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 312692,
+        "num": 312692,
+        "word": "被浙江的婚宴震惊到了",
+        "onboard_time": 1696813179,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311882,
+        "num": 311882,
+        "word": "吉克隽逸又素颜出镜了",
+        "onboard_time": 1696828126,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 303393,
+        "num": 303393,
+        "word": "赵丽颖红美甲",
+        "onboard_time": 1696822658,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 298477,
+        "num": 298477,
+        "word": "入秋三件套",
+        "onboard_time": 1696826025,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 285089,
+        "num": 285089,
+        "word": "爱榴莲和爱牛肉的都沉默了",
+        "onboard_time": 1696825662,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 403120,
+        "num": 280279,
+        "word": "第一批旅游发毒誓的00后已经决裂了",
+        "onboard_time": 1696827639,
+        "rank": 30,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 255490,
+        "num": 255490,
+        "word": "丈夫患癌老板娘决定化疗病人假发免费送",
+        "onboard_time": 1696825604,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238137,
+        "num": 238137,
+        "word": "金鸡奖",
+        "onboard_time": 1696822539,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233364,
+        "num": 233364,
+        "word": "白宇帆自己接档自己",
+        "onboard_time": 1696823859,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215262,
+        "num": 215262,
+        "word": "老乡鸡0.01元套餐你抢到了吗",
+        "onboard_time": 1696827764,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 202213,
+        "num": 202213,
+        "word": "于和伟新片角色挺不住了",
+        "onboard_time": 1696828364,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196049,
+        "num": 196049,
+        "word": "沙溢让白敬亭挑一个女主演",
+        "onboard_time": 1696821458,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191029,
+        "num": 191029,
+        "word": "HYBE不管LESSERAFIM演唱会退票后续",
+        "onboard_time": 1696821098,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188586,
+        "num": 188586,
+        "word": "贺峻霖录完offer找陈铭要书单",
+        "onboard_time": 1696822899,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184781,
+        "num": 184781,
+        "word": "柯南跟以前不一样了",
+        "onboard_time": 1696821339,
+        "rank": 39,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 184050,
+        "num": 184050,
+        "word": "毛晓彤飘逸衬衫裙造型",
+        "onboard_time": 1696825969,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182733,
+        "num": 182733,
+        "word": "丹丹教育学",
+        "onboard_time": 1696824338,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148550,
+        "num": 180530,
+        "word": "没想到桂花的用处这么多",
+        "onboard_time": 1696825905,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 180405,
+        "num": 180405,
+        "word": "A股",
+        "onboard_time": 1696816174,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176894,
+        "num": 176894,
+        "word": "大哥买下所有花让卖花女孩回家",
+        "onboard_time": 1696824460,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175324,
+        "num": 175324,
+        "word": "螃蟹价格与去年比几乎腰斩",
+        "onboard_time": 1696820077,
+        "rank": 45,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 171535,
+        "num": 171535,
+        "word": "牛奶包装盒底部的色块是干嘛的",
+        "onboard_time": 1696825003,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 166916,
+        "num": 166916,
+        "word": "玫瑰故事",
+        "onboard_time": 1696824280,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155360,
+        "num": 155360,
+        "word": "林凯想和成毅三搭",
+        "onboard_time": 1696816652,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150459,
+        "num": 150459,
+        "word": "老乡鸡外卖",
+        "onboard_time": 1696820736,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平文化思想首次提出#"
+    }
+  }
+}

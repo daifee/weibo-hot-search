@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696826103091,
+  "endTime": 1696828571660,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -19,7 +19,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 4413173,
+      "raw_hot": 4416722,
       "num": 4413173,
       "word": "李思思从央视离职",
       "onboard_time": 1696824762,
@@ -225,6 +225,14 @@
       "onboard_time": 1696771300,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1807973,
+      "num": 1807973,
+      "word": "月薪4000的小镇青年背过万的包",
+      "onboard_time": 1696825543,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1804780,
@@ -593,6 +601,14 @@
       "onboard_time": 1696757913,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 865922,
+      "num": 865922,
+      "word": "爱格停刊",
+      "onboard_time": 1696825969,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 857743,
@@ -1075,6 +1091,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 547090,
+      "num": 547090,
+      "word": "刘雯反应能力好牛",
+      "onboard_time": 1696824821,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541788,
       "num": 541788,
       "word": "你那不叫勇敢叫家里有钱",
@@ -1121,22 +1145,6 @@
       "onboard_time": 1696739679,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 517664,
-      "num": 302806,
-      "word": "刘雯反应能力好牛",
-      "onboard_time": 1696824821,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 517237,
-      "num": 517237,
-      "word": "月薪4000的小镇青年背过万的包",
-      "onboard_time": 1696825543,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 516015,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1696754915,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 501717,
+      "num": 501717,
+      "word": "2岁宝宝独自在家把自己照顾得很好",
+      "onboard_time": 1696827223,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 500969,
@@ -1553,6 +1569,14 @@
       "onboard_time": 1696741063,
       "rank": 23,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 403120,
+      "num": 280279,
+      "word": "第一批旅游发毒誓的00后已经决裂了",
+      "onboard_time": 1696827639,
+      "rank": 30,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 400852,
@@ -1899,6 +1923,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 323795,
+      "num": 318527,
+      "word": "巴以支持者在美国街头举旗混战",
+      "onboard_time": 1696825181,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 323692,
       "num": 323692,
       "word": "六旬老人骑电动掉进深坑万幸被她发现",
@@ -1921,14 +1953,6 @@
       "onboard_time": 1696730973,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 318412,
-      "num": 318412,
-      "word": "巴以支持者在美国街头举旗混战",
-      "onboard_time": 1696825181,
-      "rank": 48,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 317241,
@@ -1961,6 +1985,14 @@
       "onboard_time": 1696738782,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 311882,
+      "num": 311882,
+      "word": "吉克隽逸又素颜出镜了",
+      "onboard_time": 1696828126,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 311592,
@@ -2035,14 +2067,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304290,
-      "num": 304290,
-      "word": "爱格停刊",
-      "onboard_time": 1696825969,
-      "rank": 29,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 304241,
       "num": 283262,
       "word": "为什么现在的烧烤这么贵",
@@ -2097,6 +2121,14 @@
       "onboard_time": 1696810175,
       "rank": 25,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 298477,
+      "num": 298477,
+      "word": "入秋三件套",
+      "onboard_time": 1696826025,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 296325,
@@ -2451,6 +2483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 255490,
+      "num": 255490,
+      "word": "丈夫患癌老板娘决定化疗病人假发免费送",
+      "onboard_time": 1696825604,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 253483,
       "num": 253483,
       "word": "李昀锐是人间loopy吧",
@@ -2489,14 +2529,6 @@
       "onboard_time": 1696775321,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 250572,
-      "num": 250572,
-      "word": "丈夫患癌老板娘决定化疗病人假发免费送",
-      "onboard_time": 1696825604,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 250271,
@@ -2819,6 +2851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215262,
+      "num": 215262,
+      "word": "老乡鸡0.01元套餐你抢到了吗",
+      "onboard_time": 1696827764,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 213885,
       "num": 132435,
       "word": "江苏健儿杭州亚运会金牌奖牌数全国第3",
@@ -3075,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202213,
+      "num": 202213,
+      "word": "于和伟新片角色挺不住了",
+      "onboard_time": 1696828364,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201772,
       "num": 201772,
       "word": "邢菲分享镜面妆",
@@ -3185,14 +3233,6 @@
       "onboard_time": 1696772804,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 195670,
-      "num": 195670,
-      "word": "入秋三件套",
-      "onboard_time": 1696826025,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 195631,
@@ -3361,6 +3401,14 @@
       "onboard_time": 1696822779,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184050,
+      "num": 184050,
+      "word": "毛晓彤飘逸衬衫裙造型",
+      "onboard_time": 1696825969,
+      "rank": 40,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 183510,
