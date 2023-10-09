@@ -1,0 +1,410 @@
+{
+  "runTime": 1696854949303,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1354120,
+        "num": 1354120,
+        "word": "美国同意三星和SK海力士向其中国工厂提供设备",
+        "onboard_time": 1696849595,
+        "rank": 0,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 860323,
+        "num": 860323,
+        "word": "张真源 跑男",
+        "onboard_time": 1696854275,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16003,
+        "num": 780642,
+        "word": "文化赋能以更自信姿态开创未来",
+        "onboard_time": 1696854334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 991546,
+        "num": 777994,
+        "word": "关晓彤微博之夜捂嘴原因",
+        "onboard_time": 1696847258,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 767434,
+        "num": 767434,
+        "word": "花火 我们还在",
+        "onboard_time": 1696848996,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 647600,
+        "num": 647600,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 635101,
+        "num": 635101,
+        "word": "少年歌行一次性官宣7部",
+        "onboard_time": 1696852657,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 506678,
+        "num": 506678,
+        "word": "高速7车追尾孕妇受伤交警霸气喊话",
+        "onboard_time": 1696850496,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 488415,
+        "num": 488415,
+        "word": "奚梦瑶晒何猷君的半永久队服皮肤",
+        "onboard_time": 1696854515,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478460,
+        "num": 478460,
+        "word": "鲁豫首穿马面裙",
+        "onboard_time": 1696850315,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1601972,
+        "num": 473507,
+        "word": "嗯哼甜馨一起郊游",
+        "onboard_time": 1696851037,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 761268,
+        "num": 471423,
+        "word": "非自然死亡 翻拍",
+        "onboard_time": 1696845997,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447724,
+        "num": 447724,
+        "word": "巴以本轮冲突双方伤亡人数已超6000",
+        "onboard_time": 1696852113,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 337364,
+        "num": 403735,
+        "word": "中国女运动员摘金108枚",
+        "onboard_time": 1696853496,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183919,
+        "num": 400507,
+        "word": "找到中美两个大国正确的相处之道",
+        "onboard_time": 1696853194,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 467393,
+        "num": 400184,
+        "word": "王鹤润演甜妹",
+        "onboard_time": 1696851815,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399780,
+        "num": 399780,
+        "word": "月薪多少可以买过万元的包包",
+        "onboard_time": 1696840833,
+        "rank": 16,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 397413,
+        "num": 397413,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385629,
+        "num": 385629,
+        "word": "官方通报男童游泳馆溺亡",
+        "onboard_time": 1696852774,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382753,
+        "num": 382753,
+        "word": "19岁女孩7年花40万减肥越减越胖",
+        "onboard_time": 1696851694,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 877039,
+        "num": 379427,
+        "word": "建议1周换1次床上用品",
+        "onboard_time": 1696848935,
+        "rank": 20,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 357342,
+        "num": 357342,
+        "word": "霍启刚抱着郭晶晶的亚运火炬离开杭州",
+        "onboard_time": 1696841915,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352647,
+        "num": 352647,
+        "word": "男子相亲被砍一刀",
+        "onboard_time": 1696847258,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334289,
+        "num": 334289,
+        "word": "男子涉黄打火机发民警手上",
+        "onboard_time": 1696853855,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323101,
+        "num": 323101,
+        "word": "在以色列华人中至少3人中弹4人失联",
+        "onboard_time": 1696838916,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 273528,
+        "num": 273528,
+        "word": "4岁走失女童父亲在网友评论区求助",
+        "onboard_time": 1696844496,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255373,
+        "num": 255373,
+        "word": "黄石通报男子当街锤人致死",
+        "onboard_time": 1696845698,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249421,
+        "num": 249421,
+        "word": "南风知我意31集大虐",
+        "onboard_time": 1696853796,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243405,
+        "num": 243405,
+        "word": "30年只用平价护肤品的皮肤状态",
+        "onboard_time": 1696851513,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 206049,
+        "num": 206049,
+        "word": "Newjeans是彼此的敌蜜吧",
+        "onboard_time": 1696849715,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205649,
+        "num": 205649,
+        "word": "成都混合团体世界杯赛制揭晓",
+        "onboard_time": 1696854456,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204387,
+        "num": 204387,
+        "word": "TFBOYS为王俊凯特约策展人打call",
+        "onboard_time": 1696843656,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203813,
+        "num": 203813,
+        "word": "黄子诚假死",
+        "onboard_time": 1696851095,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202171,
+        "num": 202171,
+        "word": "你好种地少年",
+        "onboard_time": 1696853916,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200448,
+        "num": 200448,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192871,
+        "num": 192871,
+        "word": "沙特正式申办2034年世界杯",
+        "onboard_time": 1696854636,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191154,
+        "num": 191154,
+        "word": "27岁小伙对异性无感竟因大脑长了瘤",
+        "onboard_time": 1696843415,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189069,
+        "num": 189069,
+        "word": "马嘉祺宋亚轩放学都是用跑的",
+        "onboard_time": 1696852834,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188964,
+        "num": 188964,
+        "word": "老乡鸡董事长束从轩发文道歉",
+        "onboard_time": 1696851694,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187692,
+        "num": 187692,
+        "word": "杨紫的巴黎回忆vlog",
+        "onboard_time": 1696853557,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171841,
+        "num": 171841,
+        "word": "关晓彤韩东君新剧定档",
+        "onboard_time": 1696852055,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166430,
+        "num": 166430,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696839274,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162240,
+        "num": 162240,
+        "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+        "onboard_time": 1696832735,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160869,
+        "num": 160869,
+        "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+        "onboard_time": 1696828959,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160318,
+        "num": 160318,
+        "word": "我做好您的相 您做您的将",
+        "onboard_time": 1696841615,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160263,
+        "num": 160263,
+        "word": "老乡鸡发文道歉",
+        "onboard_time": 1696829916,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149344,
+        "num": 149344,
+        "word": "云南发现1.4公斤重大鸡枞",
+        "onboard_time": 1696830995,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147341,
+        "num": 147341,
+        "word": "侯明昊 智性恋",
+        "onboard_time": 1696836994,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144040,
+        "num": 144040,
+        "word": "游客海边守护落单女童获奖5千",
+        "onboard_time": 1696853014,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132386,
+        "num": 132386,
+        "word": "爱格 爷青结",
+        "onboard_time": 1696847796,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国工会第十八次全国代表大会在京开幕#"
+    }
+  }
+}
