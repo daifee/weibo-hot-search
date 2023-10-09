@@ -1,0 +1,410 @@
+{
+  "runTime": 1696815149809,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2255705,
+        "num": 2255705,
+        "word": "3名队员未劝止拍摄不雅画面被停职",
+        "onboard_time": 1696808670,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 984810,
+        "num": 984810,
+        "word": "被浙江的婚宴震惊到了",
+        "onboard_time": 1696813179,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103771,
+        "num": 921720,
+        "word": "再见了杭州亚运",
+        "onboard_time": 1696771899,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 869186,
+        "num": 869186,
+        "word": "苹果商店相继下架相关黄色软件",
+        "onboard_time": 1696806082,
+        "rank": 3,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 761043,
+        "num": 761043,
+        "word": "我妈从福建带回来1200一斤的菌菇",
+        "onboard_time": 1696812096,
+        "rank": 4,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 2131648,
+        "num": 754369,
+        "word": "以色列25岁女学生音乐节上被哈马斯掳走",
+        "onboard_time": 1696810959,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 713197,
+        "num": 713197,
+        "word": "王权富贵",
+        "onboard_time": 1696767758,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673859,
+        "num": 673859,
+        "word": "原来康辉去年就催过了",
+        "onboard_time": 1696774422,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1194160,
+        "num": 673450,
+        "word": "以色列音乐节遇袭至少260死",
+        "onboard_time": 1696809334,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 662908,
+        "num": 662908,
+        "word": "瑞幸 猫和老鼠",
+        "onboard_time": 1696814796,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 688932,
+        "num": 656901,
+        "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
+        "onboard_time": 1696813179,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 687220,
+        "num": 622601,
+        "word": "以色列正式向哈马斯宣战",
+        "onboard_time": 1696772262,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 477705,
+        "num": 592627,
+        "word": "冯琳主持人大赛第一名晋级",
+        "onboard_time": 1696777600,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323254,
+        "num": 546002,
+        "word": "王楚钦战胜马龙夺冠",
+        "onboard_time": 1696770699,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284756,
+        "num": 526589,
+        "word": "下届亚运会在日本名古屋举办",
+        "onboard_time": 1696773039,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 501860,
+        "num": 501860,
+        "word": "不开心可能是你在长脑子",
+        "onboard_time": 1696808971,
+        "rank": 15,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 421771,
+        "num": 421771,
+        "word": "小偷也没想到我包里居然是白菜",
+        "onboard_time": 1696813360,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413513,
+        "num": 413513,
+        "word": "姚瑶自首了",
+        "onboard_time": 1696773461,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 400812,
+        "num": 400812,
+        "word": "中国人创造的英语被广泛使用",
+        "onboard_time": 1696808914,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 389454,
+        "num": 389454,
+        "word": "白敬亭沙溢家编外人员",
+        "onboard_time": 1696809695,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 372540,
+        "num": 372540,
+        "word": "被韩国的饭菜整破防了",
+        "onboard_time": 1696810723,
+        "rank": 20,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 367028,
+        "num": 367028,
+        "word": "关灯后真的不要玩手机了",
+        "onboard_time": 1696813418,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320817,
+        "num": 320817,
+        "word": "男孩游泳池溺亡10分钟无人救援",
+        "onboard_time": 1696773105,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297137,
+        "num": 297137,
+        "word": "甄嬛传中那些被删除掉戏份",
+        "onboard_time": 1696778435,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293795,
+        "num": 293795,
+        "word": "新疆独库公路现震撼日照金山",
+        "onboard_time": 1696811676,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 283900,
+        "num": 283900,
+        "word": "Yamy新歌大女主粤语rap",
+        "onboard_time": 1696812817,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 273171,
+        "num": 273171,
+        "word": "网友劝张老板自首",
+        "onboard_time": 1696814616,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271943,
+        "num": 271943,
+        "word": "以色列中国留学生发交战视频",
+        "onboard_time": 1696810175,
+        "rank": 27,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 261446,
+        "num": 261446,
+        "word": "把小猫爪爪捏扁了",
+        "onboard_time": 1696813776,
+        "rank": 28,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 245744,
+        "num": 245744,
+        "word": "内娱的原创编剧去哪了",
+        "onboard_time": 1696784664,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 384974,
+        "num": 244147,
+        "word": "王楚钦 头发长了就马上重新剪",
+        "onboard_time": 1696814495,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277929,
+        "num": 241659,
+        "word": "姜妍上一秒说笑下一秒泪崩",
+        "onboard_time": 1696814556,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238880,
+        "num": 238880,
+        "word": "三小只告别亚运会",
+        "onboard_time": 1696767455,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 238873,
+        "num": 238873,
+        "word": "女子找回钱包后惊讶里面竟有这么多钱",
+        "onboard_time": 1696807767,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237061,
+        "num": 237061,
+        "word": "康辉说非要说满三次",
+        "onboard_time": 1696814495,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235303,
+        "num": 235303,
+        "word": "陈楚生这可不兴说的啊",
+        "onboard_time": 1696811197,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219846,
+        "num": 219846,
+        "word": "这泰剧全剧贯穿着中国文化",
+        "onboard_time": 1696809092,
+        "rank": 36,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 218998,
+        "num": 218998,
+        "word": "彩票中了100万后的12小时",
+        "onboard_time": 1696771300,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199308,
+        "num": 199308,
+        "word": "95.2%的主播月收入5000元以下",
+        "onboard_time": 1696794014,
+        "rank": 38,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 197025,
+        "num": 197025,
+        "word": "看到消防员一拥而上老人笑到露牙床",
+        "onboard_time": 1696814436,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196089,
+        "num": 196089,
+        "word": "咽喉炎高发季如何减少刀片嗓",
+        "onboard_time": 1696812096,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186851,
+        "num": 186851,
+        "word": "巴以新一轮冲突已致近千人死亡",
+        "onboard_time": 1696807046,
+        "rank": 41,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 180941,
+        "num": 180941,
+        "word": "一县卫健教育系统各清退500人",
+        "onboard_time": 1696806142,
+        "rank": 42,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 172112,
+        "num": 172112,
+        "word": "正确的洗脸方法",
+        "onboard_time": 1696811436,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163702,
+        "num": 163702,
+        "word": "白桃星座",
+        "onboard_time": 1696809995,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 159759,
+        "num": 159759,
+        "word": "以色列称一名中以混血女孩被绑架",
+        "onboard_time": 1696773039,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 159170,
+        "num": 159170,
+        "word": "SEVENTEEN祝贺文俊辉获奖",
+        "onboard_time": 1696815095,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159015,
+        "num": 159015,
+        "word": "福二妹是水做的吧",
+        "onboard_time": 1696812458,
+        "rank": 47,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 155734,
+        "num": 155734,
+        "word": "毛晓彤问心状态",
+        "onboard_time": 1696808852,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153777,
+        "num": 153777,
+        "word": "张元英Kitsch直拍",
+        "onboard_time": 1696813776,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宣传思想文化工作作出重要指示#"
+    }
+  }
+}

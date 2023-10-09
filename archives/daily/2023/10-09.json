@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696813926778,
+  "endTime": 1696815149809,
   "band_list": [
     {
       "raw_hot": 2499722,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1777794,
-      "num": 565941,
+      "raw_hot": 2131648,
+      "num": 754369,
       "word": "以色列25岁女学生音乐节上被哈马斯掳走",
       "onboard_time": 1696810959,
       "rank": 11,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 984810,
+      "num": 984810,
+      "word": "被浙江的婚宴震惊到了",
+      "onboard_time": 1696813179,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 982424,
       "num": 649370,
       "word": "以色列正式向哈马斯宣战",
@@ -99,6 +107,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 688932,
+      "num": 656901,
+      "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
+      "onboard_time": 1696813179,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662908,
+      "num": 662908,
+      "word": "瑞幸 猫和老鼠",
+      "onboard_time": 1696814796,
+      "rank": 9,
+      "category": "美食"
+    },
+    {
       "raw_hot": 644595,
       "num": 644595,
       "word": "甄嬛传中那些被删除掉戏份",
@@ -123,14 +147,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 578386,
-      "num": 578386,
-      "word": "被浙江的婚宴震惊到了",
-      "onboard_time": 1696813179,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 538214,
       "num": 538214,
       "word": "姚瑶自首了",
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 489410,
-      "num": 337787,
+      "num": 372540,
       "word": "被韩国的饭菜整破防了",
       "onboard_time": 1696810723,
       "rank": 20,
@@ -172,19 +188,27 @@
     },
     {
       "raw_hot": 449571,
-      "num": 504237,
+      "num": 526589,
       "word": "下届亚运会在日本名古屋举办",
       "onboard_time": 1696773039,
       "rank": 11,
       "category": "体育"
     },
     {
-      "raw_hot": 413659,
-      "num": 413659,
+      "raw_hot": 421771,
+      "num": 421771,
       "word": "小偷也没想到我包里居然是白菜",
       "onboard_time": 1696813360,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 384974,
+      "num": 244147,
+      "word": "王楚钦 头发长了就马上重新剪",
+      "onboard_time": 1696814495,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 384725,
@@ -195,12 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 373739,
-      "num": 267159,
-      "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
-      "onboard_time": 1696813179,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 367028,
+      "num": 367028,
+      "word": "关灯后真的不要玩手机了",
+      "onboard_time": 1696813418,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 336739,
@@ -251,8 +275,8 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 279846,
-      "num": 279846,
+      "raw_hot": 283900,
+      "num": 283900,
       "word": "Yamy新歌大女主粤语rap",
       "onboard_time": 1696812817,
       "rank": 27,
@@ -275,12 +299,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277929,
+      "num": 241659,
+      "word": "姜妍上一秒说笑下一秒泪崩",
+      "onboard_time": 1696814556,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275306,
       "num": 202900,
       "word": "一县卫健教育系统各清退500人",
       "onboard_time": 1696806142,
       "rank": 21,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 273171,
+      "num": 273171,
+      "word": "网友劝张老板自首",
+      "onboard_time": 1696814616,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 269365,
@@ -323,6 +363,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261446,
+      "num": 261446,
+      "word": "把小猫爪爪捏扁了",
+      "onboard_time": 1696813776,
+      "rank": 45,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 259122,
       "num": 199900,
       "word": "莲花楼豆瓣超50万人评分",
@@ -355,20 +403,20 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 247501,
-      "num": 247501,
-      "word": "关灯后真的不要玩手机了",
-      "onboard_time": 1696813418,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 247102,
       "num": 247102,
       "word": "鞠婧祎素颜wink",
       "onboard_time": 1696774180,
       "rank": 16,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 237061,
+      "num": 237061,
+      "word": "康辉说非要说满三次",
+      "onboard_time": 1696814495,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236578,
@@ -483,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "看到消防员一拥而上老人笑到露牙床",
+      "onboard_time": 1696814436,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195502,
       "num": 195502,
       "word": "毛晓彤问心状态",
@@ -531,14 +587,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 171319,
-      "num": 171319,
-      "word": "把小猫爪爪捏扁了",
-      "onboard_time": 1696813776,
-      "rank": 45,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 169409,
       "num": 169409,
       "word": "孙颖莎陈梦27拍相持",
@@ -569,6 +617,14 @@
       "onboard_time": 1696813776,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 159170,
+      "num": 159170,
+      "word": "SEVENTEEN祝贺文俊辉获奖",
+      "onboard_time": 1696815095,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 155917,

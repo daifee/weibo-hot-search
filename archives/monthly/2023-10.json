@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696813926778,
+  "endTime": 1696815149809,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -731,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2131648,
+      "num": 754369,
+      "word": "以色列25岁女学生音乐节上被哈马斯掳走",
+      "onboard_time": 1696810959,
+      "rank": 11,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 2121764,
       "num": 1270585,
       "word": "研究证实怀孕会部分重置准妈妈大脑",
@@ -1097,14 +1105,6 @@
       "onboard_time": 1696161334,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1777794,
-      "num": 565941,
-      "word": "以色列25岁女学生音乐节上被哈马斯掳走",
-      "onboard_time": 1696810959,
-      "rank": 11,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1775651,
@@ -2889,6 +2889,14 @@
       "onboard_time": 1696750597,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 984810,
+      "num": 984810,
+      "word": "被浙江的婚宴震惊到了",
+      "onboard_time": 1696813179,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 984761,
@@ -4755,6 +4763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 688932,
+      "num": 656901,
+      "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
+      "onboard_time": 1696813179,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 688616,
       "num": 670376,
       "word": "甄妮发文质问郑少秋",
@@ -4945,6 +4961,14 @@
       "onboard_time": 1696228534,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 662908,
+      "num": 662908,
+      "word": "瑞幸 猫和老鼠",
+      "onboard_time": 1696814796,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 661942,
@@ -5937,14 +5961,6 @@
       "onboard_time": 1696684417,
       "rank": 30,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 578386,
-      "num": 578386,
-      "word": "被浙江的婚宴震惊到了",
-      "onboard_time": 1696813179,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 577860,
@@ -7060,7 +7076,7 @@
     },
     {
       "raw_hot": 489410,
-      "num": 337787,
+      "num": 372540,
       "word": "被韩国的饭菜整破防了",
       "onboard_time": 1696810723,
       "rank": 20,
@@ -8235,6 +8251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421771,
+      "num": 421771,
+      "word": "小偷也没想到我包里居然是白菜",
+      "onboard_time": 1696813360,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 420636,
       "num": 420636,
       "word": "邓亚萍 王楚钦涨球扛住取胜",
@@ -8361,14 +8385,6 @@
       "onboard_time": 1696548202,
       "rank": 16,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 413659,
-      "num": 413659,
-      "word": "小偷也没想到我包里居然是白菜",
-      "onboard_time": 1696813360,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 413573,
@@ -8995,6 +9011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 384974,
+      "num": 244147,
+      "word": "王楚钦 头发长了就马上重新剪",
+      "onboard_time": 1696814495,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384752,
       "num": 384752,
       "word": "迷笛志愿者丢手机被男子捡走报警追回",
@@ -9235,14 +9259,6 @@
       "category": "社会新闻,动物萌宠"
     },
     {
-      "raw_hot": 373739,
-      "num": 267159,
-      "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
-      "onboard_time": 1696813179,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 373354,
       "num": 373354,
       "word": "王鹤棣许七安新剧照",
@@ -9377,6 +9393,14 @@
       "onboard_time": 1696338338,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 367028,
+      "num": 367028,
+      "word": "关灯后真的不要玩手机了",
+      "onboard_time": 1696813418,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 366966,
@@ -12155,6 +12179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283900,
+      "num": 283900,
+      "word": "Yamy新歌大女主粤语rap",
+      "onboard_time": 1696812817,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283680,
       "num": 283680,
       "word": "喜欢吃月饼和白粥的都沉默了",
@@ -12355,14 +12387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 279846,
-      "num": 279846,
-      "word": "Yamy新歌大女主粤语rap",
-      "onboard_time": 1696812817,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279602,
       "num": 279602,
       "word": "南京演唱会出新规了",
@@ -12473,6 +12497,14 @@
       "onboard_time": 1696549224,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277929,
+      "num": 241659,
+      "word": "姜妍上一秒说笑下一秒泪崩",
+      "onboard_time": 1696814556,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 277878,
@@ -12737,6 +12769,14 @@
       "onboard_time": 1696602643,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273171,
+      "num": 273171,
+      "word": "网友劝张老板自首",
+      "onboard_time": 1696814616,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 273163,
@@ -13297,6 +13337,14 @@
       "onboard_time": 1696494871,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261446,
+      "num": 261446,
+      "word": "把小猫爪爪捏扁了",
+      "onboard_time": 1696813776,
+      "rank": 45,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 261308,
@@ -13931,14 +13979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247501,
-      "num": 247501,
-      "word": "关灯后真的不要玩手机了",
-      "onboard_time": 1696813418,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 247475,
       "num": 247475,
       "word": "宋亚轩美拉德初秋穿搭",
@@ -14481,6 +14521,14 @@
       "onboard_time": 1696389455,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 237061,
+      "num": 237061,
+      "word": "康辉说非要说满三次",
+      "onboard_time": 1696814495,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237047,
@@ -17235,6 +17283,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "看到消防员一拥而上老人笑到露牙床",
+      "onboard_time": 1696814436,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196872,
       "num": 196872,
       "word": "莫斯科行动",
@@ -19163,14 +19219,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 171319,
-      "num": 171319,
-      "word": "把小猫爪爪捏扁了",
-      "onboard_time": 1696813776,
-      "rank": 45,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 171281,
       "num": 171281,
       "word": "JINI solo出道曲1分钟先公开",
@@ -19969,6 +20017,14 @@
       "onboard_time": 1696775860,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159170,
+      "num": 159170,
+      "word": "SEVENTEEN祝贺文俊辉获奖",
+      "onboard_time": 1696815095,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 159022,

@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696813926778,
+  "endTime": 1696815149809,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -115,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2131648,
+      "num": 754369,
+      "word": "以色列25岁女学生音乐节上被哈马斯掳走",
+      "onboard_time": 1696810959,
+      "rank": 11,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 2082572,
       "num": 1856386,
       "word": "北京下雪",
@@ -185,14 +193,6 @@
       "onboard_time": 1696747895,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1777794,
-      "num": 565941,
-      "word": "以色列25岁女学生音乐节上被哈马斯掳走",
-      "onboard_time": 1696810959,
-      "rank": 11,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1770536,
@@ -483,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 984810,
+      "num": 984810,
+      "word": "被浙江的婚宴震惊到了",
+      "onboard_time": 1696813179,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 984761,
       "num": 984761,
       "word": "马龙外战",
@@ -683,6 +691,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 688932,
+      "num": 656901,
+      "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
+      "onboard_time": 1696813179,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679146,
       "num": 322922,
       "word": "王楚钦vs马龙",
@@ -721,6 +737,14 @@
       "onboard_time": 1696757974,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 662908,
+      "num": 662908,
+      "word": "瑞幸 猫和老鼠",
+      "onboard_time": 1696814796,
+      "rank": 9,
+      "category": "美食"
     },
     {
       "raw_hot": 660672,
@@ -873,14 +897,6 @@
       "onboard_time": 1696671876,
       "rank": 34,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 578386,
-      "num": 578386,
-      "word": "被浙江的婚宴震惊到了",
-      "onboard_time": 1696813179,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 573998,
@@ -1068,7 +1084,7 @@
     },
     {
       "raw_hot": 489410,
-      "num": 337787,
+      "num": 372540,
       "word": "被韩国的饭菜整破防了",
       "onboard_time": 1696810723,
       "rank": 20,
@@ -1259,20 +1275,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 421771,
+      "num": 421771,
+      "word": "小偷也没想到我包里居然是白菜",
+      "onboard_time": 1696813360,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 415071,
       "num": 346636,
       "word": "以色列多城市全面停工",
       "onboard_time": 1696764215,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 413659,
-      "num": 413659,
-      "word": "小偷也没想到我包里居然是白菜",
-      "onboard_time": 1696813360,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 412972,
@@ -1355,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 384974,
+      "num": 244147,
+      "word": "王楚钦 头发长了就马上重新剪",
+      "onboard_time": 1696814495,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384034,
       "num": 384034,
       "word": "学校食堂19元一份的自助盒饭",
@@ -1403,12 +1427,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 373739,
-      "num": 267159,
-      "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
-      "onboard_time": 1696813179,
-      "rank": 30,
-      "category": "社会新闻"
+      "raw_hot": 367028,
+      "num": 367028,
+      "word": "关灯后真的不要玩手机了",
+      "onboard_time": 1696813418,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 366783,
@@ -1795,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 283900,
+      "num": 283900,
+      "word": "Yamy新歌大女主粤语rap",
+      "onboard_time": 1696812817,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 283228,
       "num": 283228,
       "word": "叙利亚霍姆斯军事学院发生自杀式无人机袭击",
@@ -1835,14 +1867,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 279846,
-      "num": 279846,
-      "word": "Yamy新歌大女主粤语rap",
-      "onboard_time": 1696812817,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 279405,
       "num": 279405,
       "word": "拜登准备为以色列提供一切支持手段",
@@ -1857,6 +1881,14 @@
       "onboard_time": 1696784664,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277929,
+      "num": 241659,
+      "word": "姜妍上一秒说笑下一秒泪崩",
+      "onboard_time": 1696814556,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 276462,
@@ -1881,6 +1913,14 @@
       "onboard_time": 1696760974,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 273171,
+      "num": 273171,
+      "word": "网友劝张老板自首",
+      "onboard_time": 1696814616,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 272955,
@@ -1985,6 +2025,14 @@
       "onboard_time": 1696757614,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 261446,
+      "num": 261446,
+      "word": "把小猫爪爪捏扁了",
+      "onboard_time": 1696813776,
+      "rank": 45,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 261222,
@@ -2123,14 +2171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 247501,
-      "num": 247501,
-      "word": "关灯后真的不要玩手机了",
-      "onboard_time": 1696813418,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 247475,
       "num": 247475,
       "word": "宋亚轩美拉德初秋穿搭",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1696732592,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237061,
+      "num": 237061,
+      "word": "康辉说非要说满三次",
+      "onboard_time": 1696814495,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 235161,
@@ -2691,6 +2739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "看到消防员一拥而上老人笑到露牙床",
+      "onboard_time": 1696814436,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196418,
       "num": 196418,
       "word": "陈卓璇金色链条美拉德",
@@ -2995,14 +3051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171319,
-      "num": 171319,
-      "word": "把小猫爪爪捏扁了",
-      "onboard_time": 1696813776,
-      "rank": 45,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 171089,
       "num": 171089,
       "word": "韩国人疯狂喝咖啡的原因",
@@ -3129,6 +3177,14 @@
       "onboard_time": 1696775860,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159170,
+      "num": 159170,
+      "word": "SEVENTEEN祝贺文俊辉获奖",
+      "onboard_time": 1696815095,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 158820,
