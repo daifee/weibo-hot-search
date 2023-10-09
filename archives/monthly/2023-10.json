@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696882618685,
+  "endTime": 1696883663062,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -25579,6 +25579,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 20631,
+      "num": 20631,
+      "word": "真正的伦敦在河南",
+      "onboard_time": 1696882153,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 19990,
       "num": 19990,
       "word": "和平精英项目",
@@ -25643,16 +25651,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14573,
-      "num": 14573,
-      "word": "真正的伦敦在河南",
-      "onboard_time": 1696882153,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
-      "raw_hot": 13937,
-      "num": 13937,
+      "raw_hot": 15170,
+      "num": 15170,
       "word": "居然被一只流浪狗安慰了",
       "onboard_time": 1696881433,
       "rank": 45,
@@ -25713,6 +25713,14 @@
       "onboard_time": 1696708034,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11796,
+      "num": 14589,
+      "word": "噗师傅的做饭小妙招",
+      "onboard_time": 1696883653,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 9769,
