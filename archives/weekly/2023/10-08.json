@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696871737180,
+  "endTime": 1696872841638,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -3131,6 +3131,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 274860,
+      "num": 274860,
+      "word": "逆水寒疑似将同人图融AI",
+      "onboard_time": 1696871600,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 274605,
       "num": 274605,
       "word": "原来HR喜欢这样的简历",
@@ -5713,14 +5721,6 @@
       "onboard_time": 1696718118,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79409,
-      "num": 79409,
-      "word": "逆水寒疑似将同人图融AI",
-      "onboard_time": 1696871600,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 77854,
