@@ -1,0 +1,410 @@
+{
+  "runTime": 1696861049966,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2207341,
+        "num": 2207341,
+        "word": "老两口退休工资1万2被女儿送养老院",
+        "onboard_time": 1696856555,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1695056,
+        "num": 1695056,
+        "word": "Z先生到底是谁",
+        "onboard_time": 1696858716,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42553,
+        "num": 1145208,
+        "word": "文化赋能以更自信姿态开创未来",
+        "onboard_time": 1696854334,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957338,
+        "num": 957338,
+        "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
+        "onboard_time": 1696857159,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 789364,
+        "num": 789364,
+        "word": "张真源 跑男",
+        "onboard_time": 1696854275,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 633501,
+        "num": 633501,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 558149,
+        "num": 558149,
+        "word": "魏大勋说不会撕下中戏校服上的胶布",
+        "onboard_time": 1696857033,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537234,
+        "num": 537234,
+        "word": "美国同意三星和SK海力士向其中国工厂提供设备",
+        "onboard_time": 1696849595,
+        "rank": 7,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 409008,
+        "num": 409008,
+        "word": "关晓彤微博之夜捂嘴原因",
+        "onboard_time": 1696847258,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370657,
+        "num": 370657,
+        "word": "少年歌行一次性官宣7部",
+        "onboard_time": 1696852657,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1868334,
+        "num": 368787,
+        "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
+        "onboard_time": 1696858056,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 869952,
+        "num": 364700,
+        "word": "嗯哼甜馨一起郊游",
+        "onboard_time": 1696851037,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 751217,
+        "num": 361437,
+        "word": "宫脇咲良发文道歉",
+        "onboard_time": 1696857640,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315199,
+        "num": 360021,
+        "word": "巴以本轮冲突双方伤亡人数已超6000",
+        "onboard_time": 1696852113,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204201,
+        "num": 355682,
+        "word": "中国女运动员摘金108枚",
+        "onboard_time": 1696853496,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 707555,
+        "num": 355080,
+        "word": "蟹老板的女儿为什么是个抹香鲸",
+        "onboard_time": 1696858716,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 457953,
+        "num": 350230,
+        "word": "非自然死亡 翻拍",
+        "onboard_time": 1696845997,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349032,
+        "num": 349032,
+        "word": "奔跑吧",
+        "onboard_time": 1696858781,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332375,
+        "num": 332375,
+        "word": "男子涉黄打火机发民警手上",
+        "onboard_time": 1696853855,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255368,
+        "num": 255368,
+        "word": "官方通报男童游泳馆溺亡",
+        "onboard_time": 1696852774,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 962955,
+        "num": 255065,
+        "word": "建议1周换1次床上用品",
+        "onboard_time": 1696848935,
+        "rank": 20,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 589902,
+        "num": 254275,
+        "word": "月薪一万买不起面包",
+        "onboard_time": 1696856379,
+        "rank": 21,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 512089,
+        "num": 254157,
+        "word": "王鹤润曾谈和王鹤棣的关系",
+        "onboard_time": 1696857517,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346985,
+        "num": 253552,
+        "word": "鲁豫首穿马面裙",
+        "onboard_time": 1696850315,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 290012,
+        "num": 252576,
+        "word": "男子暗恋大12岁女同事装监控偷窥",
+        "onboard_time": 1696860160,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280378,
+        "num": 252327,
+        "word": "继承者们首播10周年",
+        "onboard_time": 1696858300,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261451,
+        "num": 251648,
+        "word": "范丞丞问孟子义是不是假戏真做",
+        "onboard_time": 1696860459,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149587,
+        "num": 251127,
+        "word": "找到中美两个大国正确的相处之道",
+        "onboard_time": 1696853194,
+        "rank": 27,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 250783,
+        "num": 250783,
+        "word": "男子相亲被砍一刀",
+        "onboard_time": 1696847258,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250141,
+        "num": 250141,
+        "word": "陈铭分享贺峻霖同款书单",
+        "onboard_time": 1696860819,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245944,
+        "num": 245944,
+        "word": "30年只用平价护肤品的皮肤状态",
+        "onboard_time": 1696851513,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 219380,
+        "num": 219380,
+        "word": "奚梦瑶晒何猷君的半永久队服皮肤",
+        "onboard_time": 1696854515,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219269,
+        "num": 219269,
+        "word": "海绵宝宝在妈妈肚子里就是方块",
+        "onboard_time": 1696860399,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 210954,
+        "num": 210954,
+        "word": "霍启刚抱着郭晶晶的亚运火炬离开杭州",
+        "onboard_time": 1696841915,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198902,
+        "num": 198902,
+        "word": "19岁女孩7年花40万减肥越减越胖",
+        "onboard_time": 1696851694,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196427,
+        "num": 196427,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193314,
+        "num": 193314,
+        "word": "李飞LP登顶韩服",
+        "onboard_time": 1696860582,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 192943,
+        "num": 192943,
+        "word": "周深和侗族小朋友唱谷雨天",
+        "onboard_time": 1696860880,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190744,
+        "num": 190744,
+        "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
+        "onboard_time": 1696856433,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 187617,
+        "num": 187617,
+        "word": "考研人有自己的网吧",
+        "onboard_time": 1696857033,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172818,
+        "num": 172818,
+        "word": "花火 我们还在",
+        "onboard_time": 1696848996,
+        "rank": 40,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 167730,
+        "num": 167730,
+        "word": "27岁小伙对异性无感竟因大脑长了瘤",
+        "onboard_time": 1696843415,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160895,
+        "num": 160895,
+        "word": "高铁上出逃了一只螃蟹",
+        "onboard_time": 1696860999,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157732,
+        "num": 157732,
+        "word": "在以色列华人中至少3人中弹4人失联",
+        "onboard_time": 1696838916,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 149073,
+        "num": 149073,
+        "word": "TFBOYS为王俊凯特约策展人打call",
+        "onboard_time": 1696843656,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145308,
+        "num": 145308,
+        "word": "沙特正式申办2034年世界杯",
+        "onboard_time": 1696854636,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 274489,
+        "num": 145249,
+        "word": "4岁走失女童父亲在网友评论区求助",
+        "onboard_time": 1696844496,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143950,
+        "num": 143950,
+        "word": "南风知我意31集大虐",
+        "onboard_time": 1696853796,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137397,
+        "num": 137397,
+        "word": "你好种地少年",
+        "onboard_time": 1696853916,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133749,
+        "num": 133749,
+        "word": "大学生考证时间表",
+        "onboard_time": 1696855474,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平文化思想首次提出#"
+    }
+  }
+}

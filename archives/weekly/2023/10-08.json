@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696858487527,
+  "endTime": 1696861049966,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -147,6 +147,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2207341,
+      "num": 2207341,
+      "word": "老两口退休工资1万2被女儿送养老院",
+      "onboard_time": 1696856555,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2131648,
       "num": 1005661,
       "word": "以色列25岁女学生音乐节上被哈马斯掳走",
@@ -227,6 +235,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1868334,
+      "num": 856416,
+      "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
+      "onboard_time": 1696858056,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1857918,
       "num": 1857918,
       "word": "孙颖莎vs王曼昱",
@@ -267,14 +283,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 1801176,
-      "num": 1801176,
-      "word": "老两口退休工资1万2被女儿送养老院",
-      "onboard_time": 1696856555,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1780398,
       "num": 1780398,
       "word": "张真源 跑男",
@@ -313,6 +321,14 @@
       "onboard_time": 1696780111,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1695056,
+      "num": 1695056,
+      "word": "Z先生到底是谁",
+      "onboard_time": 1696858716,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1624282,
@@ -699,6 +715,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 957338,
+      "num": 957338,
+      "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
+      "onboard_time": 1696857159,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 942864,
       "num": 528369,
       "word": "我做好您的相 您做您的将",
@@ -761,14 +785,6 @@
       "onboard_time": 1696766614,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 856416,
-      "num": 856416,
-      "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
-      "onboard_time": 1696858056,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 844430,
@@ -993,6 +1009,14 @@
       "onboard_time": 1696697963,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 707555,
+      "num": 355080,
+      "word": "蟹老板的女儿为什么是个抹香鲸",
+      "onboard_time": 1696858716,
+      "rank": 15,
+      "category": "动漫"
     },
     {
       "raw_hot": 706473,
@@ -1363,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 558149,
+      "num": 558149,
+      "word": "魏大勋说不会撕下中戏校服上的胶布",
+      "onboard_time": 1696857033,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 551417,
       "num": 551417,
       "word": "上海4岁女童走失事发海滩并非景点",
@@ -1491,14 +1523,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 518210,
-      "num": 485130,
-      "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
-      "onboard_time": 1696857159,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 516015,
       "num": 516015,
       "word": "豆瓣8分剧还有公信力吗",
@@ -1521,6 +1545,14 @@
       "onboard_time": 1696727673,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512089,
+      "num": 383685,
+      "word": "王鹤润曾谈和王鹤棣的关系",
+      "onboard_time": 1696857517,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 512000,
@@ -1931,14 +1963,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 422740,
-      "num": 422740,
-      "word": "魏大勋说不会撕下中戏校服上的胶布",
-      "onboard_time": 1696857033,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 421771,
       "num": 421771,
       "word": "小偷也没想到我包里居然是白菜",
@@ -2097,14 +2121,6 @@
       "onboard_time": 1696763674,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 383685,
-      "num": 383685,
-      "word": "王鹤润曾谈和王鹤棣的关系",
-      "onboard_time": 1696857517,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 383197,
@@ -2329,6 +2345,14 @@
       "onboard_time": 1696754316,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 349032,
+      "num": 349032,
+      "word": "奔跑吧",
+      "onboard_time": 1696858781,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 348925,
@@ -2771,6 +2795,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 290012,
+      "num": 252576,
+      "word": "男子暗恋大12岁女同事装监控偷窥",
+      "onboard_time": 1696860160,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288993,
       "num": 288993,
       "word": "秀动",
@@ -2897,6 +2929,14 @@
       "onboard_time": 1696733197,
       "rank": 28,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 280378,
+      "num": 252327,
+      "word": "继承者们首播10周年",
+      "onboard_time": 1696858300,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 279405,
@@ -3123,6 +3163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261451,
+      "num": 251648,
+      "word": "范丞丞问孟子义是不是假戏真做",
+      "onboard_time": 1696860459,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 261446,
       "num": 261446,
       "word": "把小猫爪爪捏扁了",
@@ -3251,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250141,
+      "num": 250141,
+      "word": "陈铭分享贺峻霖同款书单",
+      "onboard_time": 1696860819,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250088,
       "num": 250088,
       "word": "范志毅送林雨薇127根发带",
@@ -3323,6 +3379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 245944,
+      "num": 245944,
+      "word": "30年只用平价护肤品的皮肤状态",
+      "onboard_time": 1696851513,
+      "rank": 28,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 245817,
       "num": 245817,
       "word": "孙子玩奶奶手机被骗验证码险丢30000元",
@@ -3353,14 +3417,6 @@
       "onboard_time": 1696825905,
       "rank": 38,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 243405,
-      "num": 243405,
-      "word": "30年只用平价护肤品的皮肤状态",
-      "onboard_time": 1696851513,
-      "rank": 28,
-      "category": "美妆"
     },
     {
       "raw_hot": 242850,
@@ -3657,6 +3713,14 @@
       "onboard_time": 1696840237,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219269,
+      "num": 219269,
+      "word": "海绵宝宝在妈妈肚子里就是方块",
+      "onboard_time": 1696860399,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 218691,
@@ -4203,6 +4267,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193314,
+      "num": 193314,
+      "word": "李飞LP登顶韩服",
+      "onboard_time": 1696860582,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 192943,
+      "num": 192943,
+      "word": "周深和侗族小朋友唱谷雨天",
+      "onboard_time": 1696860880,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192611,
       "num": 192611,
       "word": "孙颖莎晋级女单决赛",
@@ -4233,6 +4313,14 @@
       "onboard_time": 1696683939,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190744,
+      "num": 190744,
+      "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
+      "onboard_time": 1696856433,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 190690,
@@ -4329,14 +4417,6 @@
       "onboard_time": 1696728275,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187027,
-      "num": 187027,
-      "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
-      "onboard_time": 1696856433,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 186934,
@@ -4691,14 +4771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 166533,
-      "num": 166533,
-      "word": "继承者们首播10周年",
-      "onboard_time": 1696858300,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 164905,
       "num": 164905,
       "word": "霹雳舞决赛放的是热烈主题曲",
@@ -4745,6 +4817,14 @@
       "onboard_time": 1696812938,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 160895,
+      "num": 160895,
+      "word": "高铁上出逃了一只螃蟹",
+      "onboard_time": 1696860999,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 160884,
@@ -5571,20 +5651,20 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 42553,
+      "num": 1145208,
+      "word": "文化赋能以更自信姿态开创未来",
+      "onboard_time": 1696854334,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41536,
       "num": 540470,
       "word": "国羽高燃4金收官",
       "onboard_time": 1696734036,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39789,
-      "num": 1042496,
-      "word": "文化赋能以更自信姿态开创未来",
-      "onboard_time": 1696854334,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36831,
