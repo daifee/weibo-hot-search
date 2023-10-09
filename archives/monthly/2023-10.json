@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696829651333,
+  "endTime": 1696832609445,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -968,6 +968,14 @@
       "word": "上海4岁女童海滩走失父亲发声",
       "onboard_time": 1696562853,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1917560,
+      "num": 1917560,
+      "word": "老乡鸡发文道歉",
+      "onboard_time": 1696829916,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -2337,6 +2345,14 @@
       "onboard_time": 1696567774,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1191826,
+      "num": 1191826,
+      "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+      "onboard_time": 1696828959,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1191107,
@@ -4915,6 +4931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 680871,
+      "num": 480675,
+      "word": "男子7岁被拐母亲遭人贩子打死",
+      "onboard_time": 1696828899,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679625,
       "num": 624499,
       "word": "王楚钦在场外自己教育自己",
@@ -5041,14 +5065,6 @@
       "onboard_time": 1696159895,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 666248,
-      "num": 258664,
-      "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
-      "onboard_time": 1696828959,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 666132,
@@ -5537,6 +5553,14 @@
       "onboard_time": 1696223190,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 620031,
+      "num": 459116,
+      "word": "肖战粉丝小飞侠32城公益",
+      "onboard_time": 1696829978,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 619526,
@@ -6707,6 +6731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526914,
+      "num": 439342,
+      "word": "哈马斯宣称停火不可能",
+      "onboard_time": 1696830396,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 526814,
       "num": 382152,
       "word": "南京鸡鸣寺网红猫要被游客摸秃了",
@@ -7793,6 +7825,14 @@
       "onboard_time": 1696550668,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 461222,
+      "num": 273381,
+      "word": "云南发现1.4公斤重大鸡枞",
+      "onboard_time": 1696830995,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461211,
@@ -8931,6 +8971,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 401010,
+      "num": 272160,
+      "word": "丞磊卢昱晓cos尼克朱迪",
+      "onboard_time": 1696831418,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 400852,
       "num": 400852,
       "word": "陈清晨孙颖莎的友谊",
@@ -9217,14 +9265,6 @@
       "onboard_time": 1696667318,
       "rank": 35,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 388540,
-      "num": 258577,
-      "word": "男子7岁被拐母亲遭人贩子打死",
-      "onboard_time": 1696828899,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387951,
@@ -9771,6 +9811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364839,
+      "num": 364839,
+      "word": "入秋三件套",
+      "onboard_time": 1696826025,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 364802,
       "num": 228983,
       "word": "王楚钦说请继续为国乒加油",
@@ -10097,14 +10145,6 @@
       "onboard_time": 1696760313,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 354369,
-      "num": 354369,
-      "word": "入秋三件套",
-      "onboard_time": 1696826025,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 354283,
@@ -10587,6 +10627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 339146,
+      "num": 339146,
+      "word": "谁教你这么起WiFi名的",
+      "onboard_time": 1696830755,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338732,
       "num": 338732,
       "word": "田志希申裕斌女双夺冠",
@@ -11025,6 +11073,14 @@
       "onboard_time": 1696564476,
       "rank": 26,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 323401,
+      "num": 323401,
+      "word": "2023全球总决赛",
+      "onboard_time": 1696831057,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 322867,
@@ -12492,7 +12548,7 @@
     },
     {
       "raw_hot": 285648,
-      "num": 262411,
+      "num": 270508,
       "word": "罗云熙古装梦回润玉",
       "onboard_time": 1696829497,
       "rank": 25,
@@ -13755,6 +13811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261632,
+      "num": 261632,
+      "word": "gidle出发长沙签售",
+      "onboard_time": 1696831596,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261622,
       "num": 1772978,
       "word": "升中国国旗是亚运健儿对祖国的告白",
@@ -14979,6 +15043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 237312,
+      "num": 237312,
+      "word": "狗狗叫声让主人当街社死",
+      "onboard_time": 1696832134,
+      "rank": 26,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 237212,
       "num": 237212,
       "word": "丹丹教育学",
@@ -14993,6 +15065,14 @@
       "onboard_time": 1696641695,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236897,
+      "num": 236897,
+      "word": "蔡文静或将录制跑男特别季",
+      "onboard_time": 1696832196,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 236836,
@@ -15145,6 +15225,14 @@
       "onboard_time": 1696223733,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233654,
+      "num": 233654,
+      "word": "知名潜水员下水后失联30余小时",
+      "onboard_time": 1696830275,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233480,
@@ -16009,6 +16097,14 @@
       "onboard_time": 1696551209,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220178,
+      "num": 220178,
+      "word": "高铁上打开妈妈烧的饭直接泪崩",
+      "onboard_time": 1696832134,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 220128,
@@ -18739,6 +18835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 186304,
+      "num": 186304,
+      "word": "薛之谦天津抢票",
+      "onboard_time": 1696830634,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 186289,
       "num": 186289,
       "word": "中国女篮亚运会五连胜",
@@ -20009,6 +20113,14 @@
       "onboard_time": 1696762655,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 167595,
+      "num": 167595,
+      "word": "红楼梦里的胭脂米在宁波一地种了400余年",
+      "onboard_time": 1696830396,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167520,
@@ -21553,6 +21665,14 @@
       "onboard_time": 1696575572,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142295,
+      "num": 142295,
+      "word": "金鸡百花电影节将于11月1日至4日举办",
+      "onboard_time": 1696831833,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 141768,

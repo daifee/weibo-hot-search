@@ -1,0 +1,410 @@
+{
+  "runTime": 1696832609445,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1917560,
+        "num": 1917560,
+        "word": "老乡鸡发文道歉",
+        "onboard_time": 1696829916,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228614,
+        "num": 1228614,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40459,
+        "num": 1205715,
+        "word": "视频回顾杭州亚运会暖心瞬间",
+        "onboard_time": 1696819896,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1191826,
+        "num": 1191826,
+        "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+        "onboard_time": 1696828959,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856518,
+        "num": 856518,
+        "word": "很多人发现肿瘤时已经是中晚期",
+        "onboard_time": 1696817494,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 768092,
+        "num": 768092,
+        "word": "瑞幸 猫和老鼠",
+        "onboard_time": 1696814796,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 699866,
+        "num": 699866,
+        "word": "狐妖小红娘 中年古偶",
+        "onboard_time": 1696822539,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 687182,
+        "num": 687182,
+        "word": "爱格停刊",
+        "onboard_time": 1696825969,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 612115,
+        "num": 612115,
+        "word": "近1000只鸟集体撞向一栋大楼后死亡",
+        "onboard_time": 1696817194,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507631,
+        "num": 507631,
+        "word": "李晓鹏被双开",
+        "onboard_time": 1696819054,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2162994,
+        "num": 503149,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680871,
+        "num": 480675,
+        "word": "男子7岁被拐母亲遭人贩子打死",
+        "onboard_time": 1696828899,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 620031,
+        "num": 459116,
+        "word": "肖战粉丝小飞侠32城公益",
+        "onboard_time": 1696829978,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526914,
+        "num": 439342,
+        "word": "哈马斯宣称停火不可能",
+        "onboard_time": 1696830396,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 202826,
+        "num": 420885,
+        "word": "妻子过生日丈夫偷偷买回6000元手机",
+        "onboard_time": 1696818094,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406311,
+        "num": 406311,
+        "word": "2岁宝宝独自在家把自己照顾得很好",
+        "onboard_time": 1696827223,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 364839,
+        "num": 364839,
+        "word": "入秋三件套",
+        "onboard_time": 1696826025,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339146,
+        "num": 339146,
+        "word": "谁教你这么起WiFi名的",
+        "onboard_time": 1696830755,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 323401,
+        "num": 323401,
+        "word": "2023全球总决赛",
+        "onboard_time": 1696831057,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 273410,
+        "num": 273410,
+        "word": "刘雯反应能力好牛",
+        "onboard_time": 1696824821,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 461222,
+        "num": 273381,
+        "word": "云南发现1.4公斤重大鸡枞",
+        "onboard_time": 1696830995,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 401010,
+        "num": 272160,
+        "word": "丞磊卢昱晓cos尼克朱迪",
+        "onboard_time": 1696831418,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328329,
+        "num": 271300,
+        "word": "订婚买三金时我妈也想要",
+        "onboard_time": 1696822057,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279968,
+        "num": 270508,
+        "word": "罗云熙古装梦回润玉",
+        "onboard_time": 1696829497,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270387,
+        "num": 270387,
+        "word": "以色列大使馆",
+        "onboard_time": 1696817920,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 261632,
+        "num": 261632,
+        "word": "gidle出发长沙签售",
+        "onboard_time": 1696831596,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237312,
+        "num": 237312,
+        "word": "狗狗叫声让主人当街社死",
+        "onboard_time": 1696832134,
+        "rank": 26,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 236897,
+        "num": 236897,
+        "word": "蔡文静或将录制跑男特别季",
+        "onboard_time": 1696832196,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233654,
+        "num": 233654,
+        "word": "知名潜水员下水后失联30余小时",
+        "onboard_time": 1696830275,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223111,
+        "num": 223111,
+        "word": "以色列25岁女学生音乐节上被哈马斯掳走",
+        "onboard_time": 1696810959,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 222798,
+        "num": 222798,
+        "word": "11岁女孩将狗偷走掰断其牙齿舌头",
+        "onboard_time": 1696817494,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221493,
+        "num": 221493,
+        "word": "夜色尚浅",
+        "onboard_time": 1696830516,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220178,
+        "num": 220178,
+        "word": "高铁上打开妈妈烧的饭直接泪崩",
+        "onboard_time": 1696832134,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215201,
+        "num": 215201,
+        "word": "吉克隽逸又素颜出镜了",
+        "onboard_time": 1696828126,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203821,
+        "num": 203821,
+        "word": "第一批旅游发毒誓的00后已经决裂了",
+        "onboard_time": 1696827639,
+        "rank": 34,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 186304,
+        "num": 186304,
+        "word": "薛之谦天津抢票",
+        "onboard_time": 1696830634,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185655,
+        "num": 185655,
+        "word": "张元英的下垂眼",
+        "onboard_time": 1696818032,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167595,
+        "num": 167595,
+        "word": "红楼梦里的胭脂米在宁波一地种了400余年",
+        "onboard_time": 1696830396,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167262,
+        "num": 167262,
+        "word": "金晨喂范丞丞吃葡萄脸都撑大了",
+        "onboard_time": 1696825064,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165581,
+        "num": 165581,
+        "word": "丑衣服的受众是大一的我",
+        "onboard_time": 1696822600,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160148,
+        "num": 160148,
+        "word": "海底捞报名",
+        "onboard_time": 1696819415,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159776,
+        "num": 159776,
+        "word": "张彬彬你被绑架了就眨眨眼",
+        "onboard_time": 1696829017,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157811,
+        "num": 157811,
+        "word": "李昀锐献上高深蛇鳞妆vlog",
+        "onboard_time": 1696828597,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155871,
+        "num": 155871,
+        "word": "打击缅北电诈行动最新战果",
+        "onboard_time": 1696823739,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 154835,
+        "num": 154835,
+        "word": "赵丽颖红美甲",
+        "onboard_time": 1696822658,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 144456,
+        "num": 144456,
+        "word": "网友劝张老板自首",
+        "onboard_time": 1696814616,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142295,
+        "num": 142295,
+        "word": "金鸡百花电影节将于11月1日至4日举办",
+        "onboard_time": 1696831833,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134697,
+        "num": 134697,
+        "word": "大金镯子还能安排吗",
+        "onboard_time": 1696823017,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133090,
+        "num": 133090,
+        "word": "丈夫患癌老板娘决定化疗病人假发免费送",
+        "onboard_time": 1696825604,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132248,
+        "num": 132248,
+        "word": "母女驾车看外婆回时冲入水塘溺亡",
+        "onboard_time": 1696818696,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚运会中国代表团201金收官#"
+    }
+  }
+}

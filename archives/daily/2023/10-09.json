@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696829651333,
+  "endTime": 1696832609445,
   "band_list": [
     {
       "raw_hot": 4416722,
@@ -67,6 +67,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1917560,
+      "num": 1917560,
+      "word": "老乡鸡发文道歉",
+      "onboard_time": 1696829916,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1723902,
       "num": 673060,
       "word": "失踪女童父亲称返回时被石头割伤脚趾",
@@ -105,6 +113,14 @@
       "onboard_time": 1696806082,
       "rank": 22,
       "category": "科技"
+    },
+    {
+      "raw_hot": 1191826,
+      "num": 1191826,
+      "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+      "onboard_time": 1696828959,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 1089077,
@@ -211,6 +227,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 680871,
+      "num": 480675,
+      "word": "男子7岁被拐母亲遭人贩子打死",
+      "onboard_time": 1696828899,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 674863,
       "num": 504398,
       "word": "A股",
@@ -227,14 +251,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 666248,
-      "num": 258664,
-      "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
-      "onboard_time": 1696828959,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 644595,
       "num": 644595,
       "word": "甄嬛传中那些被删除掉戏份",
@@ -249,6 +265,14 @@
       "onboard_time": 1696818094,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620031,
+      "num": 459116,
+      "word": "肖战粉丝小飞侠32城公益",
+      "onboard_time": 1696829978,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 619332,
@@ -347,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 526914,
+      "num": 439342,
+      "word": "哈马斯宣称停火不可能",
+      "onboard_time": 1696830396,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 511104,
       "num": 511104,
       "word": "胡兵曾代表中国赛艇队拿了世界第七",
@@ -401,6 +433,14 @@
       "onboard_time": 1696809695,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 461222,
+      "num": 273381,
+      "word": "云南发现1.4公斤重大鸡枞",
+      "onboard_time": 1696830995,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 461145,
@@ -467,19 +507,19 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 401010,
+      "num": 272160,
+      "word": "丞磊卢昱晓cos尼克朱迪",
+      "onboard_time": 1696831418,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 396084,
       "num": 443510,
       "word": "我抱着出生抱着出嫁",
       "onboard_time": 1696819354,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 388540,
-      "num": 258577,
-      "word": "男子7岁被拐母亲遭人贩子打死",
-      "onboard_time": 1696828899,
-      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -507,6 +547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 364839,
+      "num": 364839,
+      "word": "入秋三件套",
+      "onboard_time": 1696826025,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358100,
       "num": 358100,
       "word": "高铁i人专属座位",
@@ -523,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 354369,
-      "num": 354369,
-      "word": "入秋三件套",
-      "onboard_time": 1696826025,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 344964,
       "num": 498741,
       "word": "康辉说非要说满三次",
@@ -545,6 +585,14 @@
       "onboard_time": 1696820077,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 339146,
+      "num": 339146,
+      "word": "谁教你这么起WiFi名的",
+      "onboard_time": 1696830755,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 336739,
@@ -569,6 +617,14 @@
       "onboard_time": 1696825181,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 323401,
+      "num": 323401,
+      "word": "2023全球总决赛",
+      "onboard_time": 1696831057,
+      "rank": 18,
+      "category": "游戏"
     },
     {
       "raw_hot": 314848,
@@ -684,7 +740,7 @@
     },
     {
       "raw_hot": 285648,
-      "num": 262411,
+      "num": 270508,
       "word": "罗云熙古装梦回润玉",
       "onboard_time": 1696829497,
       "rank": 25,
@@ -795,6 +851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 261632,
+      "num": 261632,
+      "word": "gidle出发长沙签售",
+      "onboard_time": 1696831596,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261446,
       "num": 261446,
       "word": "把小猫爪爪捏扁了",
@@ -867,6 +931,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 237312,
+      "num": 237312,
+      "word": "狗狗叫声让主人当街社死",
+      "onboard_time": 1696832134,
+      "rank": 26,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 237212,
       "num": 237212,
       "word": "丹丹教育学",
@@ -875,12 +947,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 236897,
+      "num": 236897,
+      "word": "蔡文静或将录制跑男特别季",
+      "onboard_time": 1696832196,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236578,
       "num": 236578,
       "word": "杨紫白色棒球帽好女高",
       "onboard_time": 1696763734,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 233654,
+      "num": 233654,
+      "word": "知名潜水员下水后失联30余小时",
+      "onboard_time": 1696830275,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232224,
@@ -913,6 +1001,22 @@
       "onboard_time": 1696829017,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221493,
+      "num": 221493,
+      "word": "夜色尚浅",
+      "onboard_time": 1696830516,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220178,
+      "num": 220178,
+      "word": "高铁上打开妈妈烧的饭直接泪崩",
+      "onboard_time": 1696832134,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218344,
@@ -1115,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186304,
+      "num": 186304,
+      "word": "薛之谦天津抢票",
+      "onboard_time": 1696830634,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 184301,
       "num": 184301,
       "word": "狐妖小红娘系列人物关系图",
@@ -1177,6 +1289,14 @@
       "onboard_time": 1696765834,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167595,
+      "num": 167595,
+      "word": "红楼梦里的胭脂米在宁波一地种了400余年",
+      "onboard_time": 1696830396,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164327,
@@ -1272,6 +1392,14 @@
       "word": "文俊辉妍珍同框了",
       "onboard_time": 1696778138,
       "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 142295,
+      "num": 142295,
+      "word": "金鸡百花电影节将于11月1日至4日举办",
+      "onboard_time": 1696831833,
+      "rank": 46,
       "category": "电影"
     },
     {
