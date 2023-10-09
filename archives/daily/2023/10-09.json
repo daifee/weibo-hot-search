@@ -1,7 +1,15 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696825212428,
+  "endTime": 1696826103091,
   "band_list": [
+    {
+      "raw_hot": 4413173,
+      "num": 4413173,
+      "word": "李思思从央视离职",
+      "onboard_time": 1696824762,
+      "rank": 30,
+      "category": "艺人"
+    },
     {
       "raw_hot": 3354587,
       "num": 3354587,
@@ -27,14 +35,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2260229,
-      "num": 248564,
-      "word": "李思思从央视离职",
-      "onboard_time": 1696824762,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 2131648,
       "num": 1005661,
       "word": "以色列25岁女学生音乐节上被哈马斯掳走",
@@ -43,20 +43,20 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 2063457,
+      "num": 2063457,
+      "word": "狐妖小红娘 中年古偶",
+      "onboard_time": 1696822539,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 2008192,
       "num": 2008192,
       "word": "近1000只鸟集体撞向一栋大楼后死亡",
       "onboard_time": 1696817194,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1987174,
-      "num": 1987174,
-      "word": "狐妖小红娘 中年古偶",
-      "onboard_time": 1696822539,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1723902,
@@ -179,20 +179,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 770114,
+      "num": 398772,
+      "word": "订婚买三金时我妈也想要",
+      "onboard_time": 1696822057,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 760272,
       "num": 496848,
       "word": "孙述涛被双开",
       "onboard_time": 1696821219,
       "rank": 18,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 729646,
-      "num": 311391,
-      "word": "订婚买三金时我妈也想要",
-      "onboard_time": 1696822057,
-      "rank": 20,
-      "category": "情感"
     },
     {
       "raw_hot": 674863,
@@ -299,6 +299,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 517664,
+      "num": 302806,
+      "word": "刘雯反应能力好牛",
+      "onboard_time": 1696824821,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 517237,
+      "num": 517237,
+      "word": "月薪4000的小镇青年背过万的包",
+      "onboard_time": 1696825543,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511104,
       "num": 511104,
       "word": "胡兵曾代表中国赛艇队拿了世界第七",
@@ -337,6 +353,14 @@
       "onboard_time": 1696794014,
       "rank": 30,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 476737,
+      "num": 476737,
+      "word": "大哥买下所有花让卖花女孩回家",
+      "onboard_time": 1696824460,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 473983,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 420349,
-      "num": 309033,
+      "num": 398772,
       "word": "丑衣服的受众是大一的我",
       "onboard_time": 1696822600,
       "rank": 21,
@@ -396,19 +420,11 @@
     },
     {
       "raw_hot": 417910,
-      "num": 309000,
+      "num": 393229,
       "word": "赵丽颖红美甲",
       "onboard_time": 1696822658,
       "rank": 22,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 396438,
-      "num": 396438,
-      "word": "大哥买下所有花让卖花女孩回家",
-      "onboard_time": 1696824460,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396084,
@@ -433,6 +449,14 @@
       "onboard_time": 1696813418,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380444,
+      "num": 380444,
+      "word": "金晨喂范丞丞吃葡萄脸都撑大了",
+      "onboard_time": 1696825064,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 358100,
@@ -475,12 +499,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 331717,
-      "num": 244532,
-      "word": "刘雯反应能力好牛",
-      "onboard_time": 1696824821,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 335153,
+      "num": 335153,
+      "word": "爱榴莲和爱牛肉的都沉默了",
+      "onboard_time": 1696825662,
+      "rank": 27,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 318412,
+      "num": 318412,
+      "word": "巴以支持者在美国街头举旗混战",
+      "onboard_time": 1696825181,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 314848,
+      "num": 480703,
+      "word": "打击缅北电诈行动最新战果",
+      "onboard_time": 1696823739,
+      "rank": 24,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 313384,
@@ -515,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 308974,
-      "num": 308974,
-      "word": "打击缅北电诈行动最新战果",
-      "onboard_time": 1696823739,
-      "rank": 24,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 308132,
       "num": 308132,
       "word": "三小只告别亚运会",
@@ -545,6 +577,14 @@
       "onboard_time": 1696819176,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304290,
+      "num": 304290,
+      "word": "爱格停刊",
+      "onboard_time": 1696825969,
+      "rank": 29,
+      "category": "读书作家"
     },
     {
       "raw_hot": 301579,
@@ -587,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288624,
+      "num": 288624,
+      "word": "玫瑰故事",
+      "onboard_time": 1696824280,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284746,
       "num": 284746,
       "word": "男管家3个月偷进女租客家近30次",
@@ -601,14 +649,6 @@
       "onboard_time": 1696812817,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283061,
-      "num": 283061,
-      "word": "玫瑰故事",
-      "onboard_time": 1696824280,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 279325,
@@ -739,12 +779,36 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 250572,
+      "num": 250572,
+      "word": "丈夫患癌老板娘决定化疗病人假发免费送",
+      "onboard_time": 1696825604,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247102,
       "num": 247102,
       "word": "鞠婧祎素颜wink",
       "onboard_time": 1696774180,
       "rank": 16,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 244046,
+      "num": 244046,
+      "word": "没想到桂花的用处这么多",
+      "onboard_time": 1696825905,
+      "rank": 38,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 237212,
+      "num": 237212,
+      "word": "丹丹教育学",
+      "onboard_time": 1696824338,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 236578,
@@ -769,6 +833,14 @@
       "onboard_time": 1696766796,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218344,
+      "num": 218344,
+      "word": "牛奶包装盒底部的色块是干嘛的",
+      "onboard_time": 1696825003,
+      "rank": 44,
+      "category": "知识科普"
     },
     {
       "raw_hot": 217361,
@@ -803,14 +875,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 212807,
-      "num": 204209,
-      "word": "金晨喂范丞丞吃葡萄脸都撑大了",
-      "onboard_time": 1696825064,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 210956,
       "num": 210956,
       "word": "消防员把发病男子绑身上背下房顶",
@@ -833,14 +897,6 @@
       "onboard_time": 1696811319,
       "rank": 35,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 208505,
-      "num": 208505,
-      "word": "丹丹教育学",
-      "onboard_time": 1696824338,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 207658,
@@ -913,6 +969,14 @@
       "onboard_time": 1696814436,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195670,
+      "num": 195670,
+      "word": "入秋三件套",
+      "onboard_time": 1696826025,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 195502,
@@ -993,14 +1057,6 @@
       "onboard_time": 1696817074,
       "rank": 40,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 179734,
-      "num": 179734,
-      "word": "巴以支持者在美国街头举旗混战",
-      "onboard_time": 1696825181,
-      "rank": 48,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 174772,
@@ -1316,7 +1372,7 @@
     },
     {
       "raw_hot": 77833,
-      "num": 2115026,
+      "num": 2170532,
       "word": "视频回顾杭州亚运会暖心瞬间",
       "onboard_time": 1696819896,
       "rank": 2,
@@ -1436,6 +1492,9 @@
     },
     {
       "word": "#杭州亚运会纪念短片#"
+    },
+    {
+      "word": "#习近平文化思想首次提出#"
     }
   ]
 }
