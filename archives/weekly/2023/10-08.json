@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696850096889,
+  "endTime": 1696851264619,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 1401881,
-      "num": 501067,
+      "num": 508862,
       "word": "月薪多少可以买过万元的包包",
       "onboard_time": 1696840833,
       "rank": 22,
@@ -425,6 +425,14 @@
       "onboard_time": 1696749875,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1287996,
+      "num": 740894,
+      "word": "关晓彤微博之夜捂嘴原因",
+      "onboard_time": 1696847258,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 1275526,
@@ -499,14 +507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1144914,
-      "num": 717442,
-      "word": "关晓彤微博之夜捂嘴原因",
-      "onboard_time": 1696847258,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1130964,
       "num": 1130964,
       "word": "终于知道为什么手术线会消失了",
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 1121898,
-      "num": 346682,
+      "num": 379541,
       "word": "男子相亲被砍一刀",
       "onboard_time": 1696847258,
       "rank": 20,
@@ -659,8 +659,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 939904,
-      "num": 338708,
+      "raw_hot": 940209,
+      "num": 384643,
       "word": "建议1周换1次床上用品",
       "onboard_time": 1696848935,
       "rank": 21,
@@ -891,20 +891,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 740570,
+      "num": 740570,
+      "word": "花火 我们还在",
+      "onboard_time": 1696848996,
+      "rank": 17,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 732566,
+      "num": 732566,
+      "word": "黄石通报男子当街锤人致死",
+      "onboard_time": 1696845698,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 728211,
       "num": 602818,
       "word": "朱一龙过上了余华小说里的生活",
       "onboard_time": 1696739263,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 713019,
-      "num": 713019,
-      "word": "黄石通报男子当街锤人致死",
-      "onboard_time": 1696845698,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 711042,
@@ -1379,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 520018,
+      "num": 520018,
+      "word": "爱格 爷青结",
+      "onboard_time": 1696847796,
+      "rank": 49,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 516015,
       "num": 516015,
       "word": "豆瓣8分剧还有公信力吗",
@@ -1404,7 +1420,7 @@
     },
     {
       "raw_hot": 512000,
-      "num": 480184,
+      "num": 518271,
       "word": "云南发现1.4公斤重大鸡枞",
       "onboard_time": 1696830995,
       "rank": 20,
@@ -1457,14 +1473,6 @@
       "onboard_time": 1696729596,
       "rank": 15,
       "category": "数码"
-    },
-    {
-      "raw_hot": 505923,
-      "num": 505923,
-      "word": "爱格 爷青结",
-      "onboard_time": 1696847796,
-      "rank": 49,
-      "category": "读书作家"
     },
     {
       "raw_hot": 505506,
@@ -1707,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 454101,
+      "num": 454101,
+      "word": "鲁豫首穿马面裙",
+      "onboard_time": 1696850315,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 451059,
       "num": 451059,
       "word": "成毅张予曦付辛博豪门秋日大片",
@@ -1857,14 +1873,6 @@
       "onboard_time": 1696774904,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 404535,
-      "num": 404535,
-      "word": "花火 我们还在",
-      "onboard_time": 1696848996,
-      "rank": 17,
-      "category": "读书作家"
     },
     {
       "raw_hot": 403843,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1696723475,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 337590,
+      "num": 337590,
+      "word": "美国同意三星和SK海力士向其中国工厂提供设备",
+      "onboard_time": 1696849595,
+      "rank": 37,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 337050,
@@ -2803,6 +2819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 270700,
+      "num": 270700,
+      "word": "Newjeans是彼此的敌蜜吧",
+      "onboard_time": 1696849715,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270239,
       "num": 270239,
       "word": "粉笔模考",
@@ -3308,7 +3332,7 @@
     },
     {
       "raw_hot": 230599,
-      "num": 565576,
+      "num": 741125,
       "word": "今天这束花必须归我姐",
       "onboard_time": 1696842812,
       "rank": 29,
@@ -3353,6 +3377,14 @@
       "onboard_time": 1696687961,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 224391,
+      "num": 224391,
+      "word": "高速7车追尾孕妇受伤交警霸气喊话",
+      "onboard_time": 1696850496,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224329,
@@ -3459,6 +3491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216267,
+      "num": 216267,
+      "word": "雷佳音10亿长这样",
+      "onboard_time": 1696849893,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 216242,
       "num": 216242,
       "word": "丁霞哭了",
@@ -3507,12 +3547,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 213678,
-      "num": 213678,
-      "word": "Newjeans是彼此的敌蜜吧",
+      "raw_hot": 213529,
+      "num": 213529,
+      "word": "会跳舞的女生能有多自信",
       "onboard_time": 1696849715,
-      "rank": 33,
-      "category": "艺人"
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 213391,
@@ -4251,14 +4291,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175704,
-      "num": 175704,
-      "word": "会跳舞的女生能有多自信",
-      "onboard_time": 1696849715,
-      "rank": 35,
-      "category": "情感"
-    },
-    {
       "raw_hot": 175240,
       "num": 175240,
       "word": "徐璐深V白裙",
@@ -4297,14 +4329,6 @@
       "onboard_time": 1696767996,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 172190,
-      "num": 172190,
-      "word": "美国同意三星和SK海力士向其中国工厂提供设备",
-      "onboard_time": 1696849595,
-      "rank": 37,
-      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 172176,
@@ -4451,6 +4475,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 161451,
+      "num": 161451,
+      "word": "黄子诚假死",
+      "onboard_time": 1696851095,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160884,
       "num": 160884,
       "word": "封神台词之活字乱刷术",
@@ -4563,19 +4595,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 154583,
-      "num": 154583,
-      "word": "雷佳音10亿长这样",
-      "onboard_time": 1696849893,
-      "rank": 39,
-      "category": "电影"
-    },
-    {
       "raw_hot": 153996,
       "num": 153996,
       "word": "卢昱晓等饭版Lulu",
       "onboard_time": 1696842996,
       "rank": 47,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 153479,
+      "num": 153479,
+      "word": "嗯哼甜馨一起郊游",
+      "onboard_time": 1696851037,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -4680,6 +4712,14 @@
       "word": "直击上海4岁女童失踪超40小时救援现场",
       "onboard_time": 1696721127,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138432,
+      "num": 138432,
+      "word": "60岁大妈做烧饼20年日入过千",
+      "onboard_time": 1696850255,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -5259,6 +5299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33529,
+      "num": 836773,
+      "word": "谢谢杭州亚运给予的感动和力量",
+      "onboard_time": 1696840595,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 28321,
       "num": 28321,
       "word": "陈都灵吃饭也走流程",
@@ -5281,14 +5329,6 @@
       "onboard_time": 1696737520,
       "rank": 13,
       "category": "美食"
-    },
-    {
-      "raw_hot": 24214,
-      "num": 836773,
-      "word": "谢谢杭州亚运给予的感动和力量",
-      "onboard_time": 1696840595,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 23843,

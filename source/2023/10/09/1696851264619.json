@@ -1,0 +1,410 @@
+{
+  "runTime": 1696851264619,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 843886,
+        "num": 843886,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 774991,
+        "num": 774991,
+        "word": "霍启刚抱着郭晶晶的亚运火炬离开杭州",
+        "onboard_time": 1696841915,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33529,
+        "num": 742484,
+        "word": "谢谢杭州亚运给予的感动和力量",
+        "onboard_time": 1696840595,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226580,
+        "num": 741125,
+        "word": "今天这束花必须归我姐",
+        "onboard_time": 1696842812,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1287996,
+        "num": 740894,
+        "word": "关晓彤微博之夜捂嘴原因",
+        "onboard_time": 1696847258,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 740570,
+        "num": 740570,
+        "word": "花火 我们还在",
+        "onboard_time": 1696848996,
+        "rank": 5,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 207156,
+        "num": 732879,
+        "word": "山东一地基层机关大院敞开让农民晒粮",
+        "onboard_time": 1696844435,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 732566,
+        "num": 732566,
+        "word": "黄石通报男子当街锤人致死",
+        "onboard_time": 1696845698,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 520018,
+        "num": 520018,
+        "word": "爱格 爷青结",
+        "onboard_time": 1696847796,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 232167,
+        "num": 518271,
+        "word": "云南发现1.4公斤重大鸡枞",
+        "onboard_time": 1696830995,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1665833,
+        "num": 511451,
+        "word": "非自然死亡 翻拍",
+        "onboard_time": 1696845997,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1031929,
+        "num": 508862,
+        "word": "月薪多少可以买过万元的包包",
+        "onboard_time": 1696840833,
+        "rank": 11,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 531697,
+        "num": 505873,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521141,
+        "num": 499394,
+        "word": "山东一法官辞职后谈体制与选择",
+        "onboard_time": 1696846356,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176532,
+        "num": 493402,
+        "word": "手机钉子户不钉了",
+        "onboard_time": 1696838376,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 491729,
+        "num": 491729,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460258,
+        "num": 460258,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696839274,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 454101,
+        "num": 454101,
+        "word": "鲁豫首穿马面裙",
+        "onboard_time": 1696850315,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436642,
+        "num": 436642,
+        "word": "我做好您的相 您做您的将",
+        "onboard_time": 1696841615,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 388734,
+        "num": 388734,
+        "word": "TFBOYS为王俊凯特约策展人打call",
+        "onboard_time": 1696843656,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 940209,
+        "num": 384643,
+        "word": "建议1周换1次床上用品",
+        "onboard_time": 1696848935,
+        "rank": 20,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 930347,
+        "num": 379541,
+        "word": "男子相亲被砍一刀",
+        "onboard_time": 1696847258,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 464902,
+        "num": 372041,
+        "word": "4岁走失女童父亲在网友评论区求助",
+        "onboard_time": 1696844496,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363338,
+        "num": 363338,
+        "word": "在以色列华人中至少3人中弹4人失联",
+        "onboard_time": 1696838916,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 337590,
+        "num": 337590,
+        "word": "美国同意三星和SK海力士向其中国工厂提供设备",
+        "onboard_time": 1696849595,
+        "rank": 24,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 309034,
+        "num": 309034,
+        "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+        "onboard_time": 1696832735,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270700,
+        "num": 270700,
+        "word": "Newjeans是彼此的敌蜜吧",
+        "onboard_time": 1696849715,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256057,
+        "num": 256057,
+        "word": "27岁小伙对异性无感竟因大脑长了瘤",
+        "onboard_time": 1696843415,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247029,
+        "num": 247029,
+        "word": "种地吧",
+        "onboard_time": 1696845096,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240064,
+        "num": 240064,
+        "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+        "onboard_time": 1696828959,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231499,
+        "num": 231499,
+        "word": "2023年诺贝尔经济学奖揭晓",
+        "onboard_time": 1696845759,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224391,
+        "num": 224391,
+        "word": "高速7车追尾孕妇受伤交警霸气喊话",
+        "onboard_time": 1696850496,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216267,
+        "num": 216267,
+        "word": "雷佳音10亿长这样",
+        "onboard_time": 1696849893,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214077,
+        "num": 214077,
+        "word": "我那190的甜妹爱豆",
+        "onboard_time": 1696841558,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213529,
+        "num": 213529,
+        "word": "会跳舞的女生能有多自信",
+        "onboard_time": 1696849715,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204400,
+        "num": 204400,
+        "word": "老乡鸡发文道歉",
+        "onboard_time": 1696829916,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202794,
+        "num": 202794,
+        "word": "侯明昊 智性恋",
+        "onboard_time": 1696836994,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185971,
+        "num": 185971,
+        "word": "问心",
+        "onboard_time": 1696848633,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179785,
+        "num": 179785,
+        "word": "梅西又要来中国了",
+        "onboard_time": 1696840175,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163841,
+        "num": 163841,
+        "word": "谁给赵今麦画的卧蚕",
+        "onboard_time": 1696835194,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161451,
+        "num": 161451,
+        "word": "黄子诚假死",
+        "onboard_time": 1696851095,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153479,
+        "num": 153479,
+        "word": "嗯哼甜馨一起郊游",
+        "onboard_time": 1696851037,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147141,
+        "num": 147141,
+        "word": "BSS去录制RM了",
+        "onboard_time": 1696844976,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143225,
+        "num": 143225,
+        "word": "刘宇宁 大学生盘串现状",
+        "onboard_time": 1696838556,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141602,
+        "num": 141602,
+        "word": "哈马斯",
+        "onboard_time": 1696841194,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139566,
+        "num": 139566,
+        "word": "博主称旅游订不到房可挂急诊过夜",
+        "onboard_time": 1696837776,
+        "rank": 45,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 138432,
+        "num": 138432,
+        "word": "60岁大妈做烧饼20年日入过千",
+        "onboard_time": 1696850255,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117510,
+        "num": 117510,
+        "word": "PENTAGON五位成员离开CUBE",
+        "onboard_time": 1696841733,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110145,
+        "num": 110145,
+        "word": "司机高速遇3孩童独自行走帮报警",
+        "onboard_time": 1696849234,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102377,
+        "num": 102377,
+        "word": "关晓彤把孟子义理想型身高看成1米63",
+        "onboard_time": 1696842215,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宣传思想文化工作作出重要指示#"
+    }
+  }
+}
