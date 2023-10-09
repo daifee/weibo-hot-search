@@ -1,0 +1,410 @@
+{
+  "runTime": 1696882618685,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 106818,
+        "num": 106818,
+        "word": "女子PPT举报前夫婚内出轨博士造假",
+        "onboard_time": 1696861238,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 86295,
+        "num": 86295,
+        "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
+        "onboard_time": 1696857159,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9524,
+        "num": 65780,
+        "word": "中国申办亚运时的承诺都做到了",
+        "onboard_time": 1696854094,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 56983,
+        "num": 56983,
+        "word": "老两口退休工资1万2被女儿送养老院",
+        "onboard_time": 1696856555,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49390,
+        "num": 49390,
+        "word": "一觉醒来你回到了2001年",
+        "onboard_time": 1696865136,
+        "rank": 4,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 89172,
+        "num": 48596,
+        "word": "以色列宣布全面封锁加沙地带",
+        "onboard_time": 1696861660,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 46923,
+        "num": 46923,
+        "word": "Z先生到底是谁",
+        "onboard_time": 1696858716,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41906,
+        "num": 41906,
+        "word": "月薪一万买不起面包",
+        "onboard_time": 1696856379,
+        "rank": 7,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 50459,
+        "num": 39728,
+        "word": "以色列炮击黎巴嫩南部地区",
+        "onboard_time": 1696866092,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 37004,
+        "num": 37004,
+        "word": "逆水寒疑似将同人图融AI",
+        "onboard_time": 1696871600,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 74724,
+        "num": 37001,
+        "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
+        "onboard_time": 1696858056,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 41649,
+        "num": 36990,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1696866155,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 36806,
+        "num": 36806,
+        "word": "素颜的徐娇",
+        "onboard_time": 1696864477,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 34261,
+        "num": 34261,
+        "word": "蟹老板的女儿为什么是个抹香鲸",
+        "onboard_time": 1696858716,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 30594,
+        "num": 30594,
+        "word": "王鹤润曾谈和王鹤棣的关系",
+        "onboard_time": 1696857517,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27527,
+        "num": 27527,
+        "word": "嗯哼甜馨一起郊游",
+        "onboard_time": 1696851037,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26514,
+        "num": 26514,
+        "word": "宫脇咲良发文道歉",
+        "onboard_time": 1696857640,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23948,
+        "num": 23948,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 23462,
+        "num": 23462,
+        "word": "范丞丞问孟子义是不是假戏真做",
+        "onboard_time": 1696860459,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21017,
+        "num": 21017,
+        "word": "少年歌行一次性官宣7部",
+        "onboard_time": 1696852657,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 56292,
+        "num": 20725,
+        "word": "江歌妈妈直播间来了9万人",
+        "onboard_time": 1696866334,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29742,
+        "num": 20411,
+        "word": "男子暗恋大12岁女同事装监控偷窥",
+        "onboard_time": 1696860160,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26811,
+        "num": 19801,
+        "word": "建议1周换1次床上用品",
+        "onboard_time": 1696848935,
+        "rank": 22,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 21789,
+        "num": 19644,
+        "word": "30年只用平价护肤品的皮肤状态",
+        "onboard_time": 1696851513,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 19207,
+        "num": 19207,
+        "word": "这就是总裁的100平米大床吗",
+        "onboard_time": 1696863103,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18864,
+        "num": 18864,
+        "word": "檀健次与爱狗呆球",
+        "onboard_time": 1696862320,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18656,
+        "num": 18656,
+        "word": "美国同意三星和SK海力士向其中国工厂提供设备",
+        "onboard_time": 1696849595,
+        "rank": 26,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 18638,
+        "num": 18638,
+        "word": "迪丽热巴巴黎vlog",
+        "onboard_time": 1696862382,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18547,
+        "num": 18547,
+        "word": "张真源 跑男",
+        "onboard_time": 1696854275,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17937,
+        "num": 17937,
+        "word": "中国男子水球队主教练去世",
+        "onboard_time": 1696861479,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17363,
+        "num": 17363,
+        "word": "金鸡奖官宣",
+        "onboard_time": 1696865496,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16769,
+        "num": 16769,
+        "word": "鲁豫首穿马面裙",
+        "onboard_time": 1696850315,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16724,
+        "num": 16724,
+        "word": "赵露思晒了童年照",
+        "onboard_time": 1696861784,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16050,
+        "num": 16050,
+        "word": "关晓彤微博之夜捂嘴原因",
+        "onboard_time": 1696847258,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15580,
+        "num": 15580,
+        "word": "浙江的山还能这样爬吗",
+        "onboard_time": 1696876516,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 15493,
+        "num": 15493,
+        "word": "于文文 相亲失败的同事不要急",
+        "onboard_time": 1696867773,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15488,
+        "num": 15488,
+        "word": "高铁上出逃了一只螃蟹",
+        "onboard_time": 1696860999,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14875,
+        "num": 14875,
+        "word": "非自然死亡 翻拍",
+        "onboard_time": 1696845997,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14870,
+        "num": 14870,
+        "word": "巴以本轮冲突双方伤亡人数已超6000",
+        "onboard_time": 1696852113,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 14772,
+        "num": 14772,
+        "word": "魏大勋说不会撕下中戏校服上的胶布",
+        "onboard_time": 1696857033,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14573,
+        "num": 14573,
+        "word": "真正的伦敦在河南",
+        "onboard_time": 1696882153,
+        "rank": 40,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 14451,
+        "num": 14451,
+        "word": "与Apple高级副总裁Joz的假期对谈",
+        "onboard_time": 1696873098,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14360,
+        "num": 14360,
+        "word": "如何谈一段长久的恋爱",
+        "onboard_time": 1696864417,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 14275,
+        "num": 14275,
+        "word": "成毅李一桐主演狐妖小红娘王权篇",
+        "onboard_time": 1696864477,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14167,
+        "num": 14167,
+        "word": "新华社记者直击巴以冲突最新情况",
+        "onboard_time": 1696869745,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 13937,
+        "num": 13937,
+        "word": "居然被一只流浪狗安慰了",
+        "onboard_time": 1696881433,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 13719,
+        "num": 13719,
+        "word": "音乐和气味是最强大的搜索引擎",
+        "onboard_time": 1696875797,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 13498,
+        "num": 13498,
+        "word": "IVE回归预告照",
+        "onboard_time": 1696862800,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 13361,
+        "num": 13361,
+        "word": "张艺兴与素人的合影",
+        "onboard_time": 1696866579,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13139,
+        "num": 13139,
+        "word": "有人自林中坠落",
+        "onboard_time": 1696862983,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平文化思想首次提出#"
+    }
+  }
+}
