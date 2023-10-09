@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696821449268,
+  "endTime": 1696822464083,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -379,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2741878,
+      "num": 2741878,
+      "word": "李晓鹏被双开",
+      "onboard_time": 1696819054,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2722740,
       "num": 2722740,
       "word": "日本一火山喷发",
@@ -641,14 +649,6 @@
       "onboard_time": 1696495113,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 2250097,
-      "num": 2250097,
-      "word": "李晓鹏被双开",
-      "onboard_time": 1696819054,
-      "rank": 1,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2244486,
@@ -2755,6 +2755,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1035464,
+      "num": 1035464,
+      "word": "海底捞报名",
+      "onboard_time": 1696819415,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1034636,
       "num": 694503,
       "word": "网友在巴黎偶遇王一博",
@@ -3017,14 +3025,6 @@
       "onboard_time": 1696384713,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 967612,
-      "num": 967612,
-      "word": "海底捞报名",
-      "onboard_time": 1696819415,
-      "rank": 6,
-      "category": "美食"
     },
     {
       "raw_hot": 967284,
@@ -4201,6 +4201,14 @@
       "onboard_time": 1696215933,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 760272,
+      "num": 496848,
+      "word": "孙述涛被双开",
+      "onboard_time": 1696821219,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 759535,
@@ -5451,6 +5459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 622518,
+      "num": 622518,
+      "word": "妻子过生日丈夫偷偷买回6000元手机",
+      "onboard_time": 1696818094,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 621151,
       "num": 621151,
       "word": "相柳 九头真身暴力美学",
@@ -6099,12 +6115,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 572375,
+      "num": 520733,
+      "word": "张元英的下垂眼",
+      "onboard_time": 1696818032,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 571824,
       "num": 571824,
       "word": "韩素希不能当爱豆的原因",
       "onboard_time": 1696599946,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 571473,
+      "num": 311391,
+      "word": "订婚买三金时我妈也想要",
+      "onboard_time": 1696822057,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 571395,
@@ -6177,14 +6209,6 @@
       "onboard_time": 1696722632,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 567674,
-      "num": 567674,
-      "word": "妻子过生日丈夫偷偷买回6000元手机",
-      "onboard_time": 1696818094,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 563977,
@@ -6707,14 +6731,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 520733,
-      "num": 520733,
-      "word": "张元英的下垂眼",
-      "onboard_time": 1696818032,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 519724,
       "num": 374206,
       "word": "男朋友说闻到我要来大姨妈了",
@@ -6737,6 +6753,14 @@
       "onboard_time": 1696472613,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 517523,
+      "num": 517523,
+      "word": "母女驾车看外婆回时冲入水塘溺亡",
+      "onboard_time": 1696818696,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516695,
@@ -8283,6 +8307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432061,
+      "num": 432061,
+      "word": "老乡鸡外卖",
+      "onboard_time": 1696820736,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 431463,
       "num": 431463,
       "word": "王楚钦闻一次不够还闻两次的花",
@@ -8305,14 +8337,6 @@
       "onboard_time": 1696695630,
       "rank": 16,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 428780,
-      "num": 428780,
-      "word": "母女驾车看外婆回时冲入水塘溺亡",
-      "onboard_time": 1696818696,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 427371,
@@ -10025,14 +10049,6 @@
       "onboard_time": 1696772681,
       "rank": 24,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 352425,
-      "num": 352425,
-      "word": "孙述涛被双开",
-      "onboard_time": 1696821219,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 352396,
@@ -11955,6 +11971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291727,
+      "num": 291727,
+      "word": "沙溢让白敬亭挑一个女主演",
+      "onboard_time": 1696821458,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 291603,
       "num": 291603,
       "word": "王一博看秀看中相机包",
@@ -11993,6 +12017,14 @@
       "onboard_time": 1696344160,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 290983,
+      "num": 290983,
+      "word": "HYBE不管LESSERAFIM演唱会退票后续",
+      "onboard_time": 1696821098,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 290759,
@@ -12947,14 +12979,6 @@
       "category": "财经,社会新闻"
     },
     {
-      "raw_hot": 273723,
-      "num": 273723,
-      "word": "老乡鸡外卖",
-      "onboard_time": 1696820736,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
       "raw_hot": 273509,
       "num": 273509,
       "word": "田柾国将11月3日发行solo专辑",
@@ -13017,14 +13041,6 @@
       "onboard_time": 1696407276,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 272308,
-      "num": 272308,
-      "word": "HYBE不管LESSERAFIM演唱会退票后续",
-      "onboard_time": 1696821098,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 272088,
@@ -13641,6 +13657,14 @@
       "onboard_time": 1696334315,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259957,
+      "num": 259957,
+      "word": "柯南跟以前不一样了",
+      "onboard_time": 1696821339,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 259880,
@@ -16235,6 +16259,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 210956,
+      "num": 210956,
+      "word": "消防员把发病男子绑身上背下房顶",
+      "onboard_time": 1696822178,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210788,
       "num": 210788,
       "word": "张子枫出发巴黎",
@@ -17859,6 +17891,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 193488,
+      "num": 193488,
+      "word": "SEVENTEEN新专盛典风狂欢",
+      "onboard_time": 1696821819,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 193471,
       "num": 125735,
       "word": "王一博张子枫同框看秀",
@@ -18139,6 +18179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190572,
+      "num": 190572,
+      "word": "三十六骑完美诠释中国故事",
+      "onboard_time": 1696821819,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190560,
       "num": 190560,
       "word": "有人没听车银优这一声笑我都会伤心的",
@@ -18369,6 +18417,14 @@
       "onboard_time": 1696390660,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 186934,
+      "num": 186934,
+      "word": "3岁女儿同断臂爸爸合作剥板栗",
+      "onboard_time": 1696821698,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186850,
@@ -21419,14 +21475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137799,
-      "num": 137799,
-      "word": "柯南跟以前不一样了",
-      "onboard_time": 1696821339,
-      "rank": 45,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 137716,
       "num": 137716,
       "word": "文韬说每个人身上都有闪光点",
@@ -21441,6 +21489,14 @@
       "onboard_time": 1696600304,
       "rank": 14,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 137473,
+      "num": 137473,
+      "word": "BBC和Inflame演我看DOTA2决赛",
+      "onboard_time": 1696821937,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 137274,
@@ -23027,6 +23083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63075,
+      "num": 2115026,
+      "word": "视频回顾杭州亚运会暖心瞬间",
+      "onboard_time": 1696819896,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 62075,
       "num": 1350300,
       "word": "亚运赛场最动人的瞬间不只有夺金",
@@ -23217,14 +23281,6 @@
       "onboard_time": 1696741422,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52097,
-      "num": 2115026,
-      "word": "视频回顾杭州亚运会暖心瞬间",
-      "onboard_time": 1696819896,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 51288,

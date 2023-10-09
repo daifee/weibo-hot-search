@@ -1,0 +1,410 @@
+{
+  "runTime": 1696822464083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2741878,
+        "num": 2741878,
+        "word": "李晓鹏被双开",
+        "onboard_time": 1696819054,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2108496,
+        "num": 2108496,
+        "word": "瑞幸 猫和老鼠",
+        "onboard_time": 1696814796,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63075,
+        "num": 1913719,
+        "word": "视频回顾杭州亚运会暖心瞬间",
+        "onboard_time": 1696819896,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1871318,
+        "num": 1871318,
+        "word": "近1000只鸟集体撞向一栋大楼后死亡",
+        "onboard_time": 1696817194,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216933,
+        "num": 1216933,
+        "word": "很多人发现肿瘤时已经是中晚期",
+        "onboard_time": 1696817494,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1035464,
+        "num": 1035464,
+        "word": "海底捞报名",
+        "onboard_time": 1696819415,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 778980,
+        "num": 778980,
+        "word": "王权富贵",
+        "onboard_time": 1696767758,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 636033,
+        "num": 636033,
+        "word": "以色列大使馆",
+        "onboard_time": 1696817920,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 622518,
+        "num": 622518,
+        "word": "妻子过生日丈夫偷偷买回6000元手机",
+        "onboard_time": 1696818094,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517523,
+        "num": 517523,
+        "word": "母女驾车看外婆回时冲入水塘溺亡",
+        "onboard_time": 1696818696,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1051185,
+        "num": 511431,
+        "word": "以色列25岁女学生音乐节上被哈马斯掳走",
+        "onboard_time": 1696810959,
+        "rank": 10,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 760272,
+        "num": 496848,
+        "word": "孙述涛被双开",
+        "onboard_time": 1696821219,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 588708,
+        "num": 469456,
+        "word": "3名队员未劝止拍摄不雅画面被停职",
+        "onboard_time": 1696808670,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 572375,
+        "num": 456380,
+        "word": "张元英的下垂眼",
+        "onboard_time": 1696818032,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436064,
+        "num": 436064,
+        "word": "被浙江的婚宴震惊到了",
+        "onboard_time": 1696813179,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 432061,
+        "num": 432061,
+        "word": "老乡鸡外卖",
+        "onboard_time": 1696820736,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 385648,
+        "num": 385648,
+        "word": "没人在意范丞丞的死活吗",
+        "onboard_time": 1696819896,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346442,
+        "num": 346442,
+        "word": "我抱着出生抱着出嫁",
+        "onboard_time": 1696819354,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324692,
+        "num": 324692,
+        "word": "以色列正式向哈马斯宣战",
+        "onboard_time": 1696772262,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 318801,
+        "num": 318801,
+        "word": "沈腾金晨演的夫妻",
+        "onboard_time": 1696816652,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 571473,
+        "num": 311391,
+        "word": "订婚买三金时我妈也想要",
+        "onboard_time": 1696822057,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 496537,
+        "num": 309052,
+        "word": "11岁女孩将狗偷走掰断其牙齿舌头",
+        "onboard_time": 1696817494,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301395,
+        "num": 301395,
+        "word": "网友劝张老板自首",
+        "onboard_time": 1696814616,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291727,
+        "num": 291727,
+        "word": "沙溢让白敬亭挑一个女主演",
+        "onboard_time": 1696821458,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291321,
+        "num": 291321,
+        "word": "螃蟹价格与去年比几乎腰斩",
+        "onboard_time": 1696820077,
+        "rank": 24,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 290983,
+        "num": 290983,
+        "word": "HYBE不管LESSERAFIM演唱会退票后续",
+        "onboard_time": 1696821098,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 284516,
+        "num": 284516,
+        "word": "男管家3个月偷进女租客家近30次",
+        "onboard_time": 1696819054,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 283274,
+        "num": 283274,
+        "word": "乔帅希望CBA时长改为40分钟",
+        "onboard_time": 1696819176,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 266479,
+        "num": 266479,
+        "word": "高铁i人专属座位",
+        "onboard_time": 1696817316,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 259957,
+        "num": 259957,
+        "word": "柯南跟以前不一样了",
+        "onboard_time": 1696821339,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 259175,
+        "num": 259175,
+        "word": "A股",
+        "onboard_time": 1696816174,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 258175,
+        "num": 258175,
+        "word": "大熊猫英英去世",
+        "onboard_time": 1696818157,
+        "rank": 31,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 237815,
+        "num": 237815,
+        "word": "西直门大太子浴巾擦脸神似北京大爷",
+        "onboard_time": 1696818873,
+        "rank": 32,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 236792,
+        "num": 236792,
+        "word": "林凯想和成毅三搭",
+        "onboard_time": 1696816652,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234759,
+        "num": 234759,
+        "word": "以色列进入战争状态背后原因",
+        "onboard_time": 1696816717,
+        "rank": 34,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 229838,
+        "num": 229838,
+        "word": "谁家结婚这么可爱啊",
+        "onboard_time": 1696820198,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225359,
+        "num": 225359,
+        "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
+        "onboard_time": 1696813179,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210956,
+        "num": 210956,
+        "word": "消防员把发病男子绑身上背下房顶",
+        "onboard_time": 1696822178,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204494,
+        "num": 204494,
+        "word": "王楚钦 头发长了就马上重新剪",
+        "onboard_time": 1696814495,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199464,
+        "num": 199464,
+        "word": "关灯后真的不要玩手机了",
+        "onboard_time": 1696813418,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193488,
+        "num": 193488,
+        "word": "SEVENTEEN新专盛典风狂欢",
+        "onboard_time": 1696821819,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 190572,
+        "num": 190572,
+        "word": "三十六骑完美诠释中国故事",
+        "onboard_time": 1696821819,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 186934,
+        "num": 186934,
+        "word": "3岁女儿同断臂爸爸合作剥板栗",
+        "onboard_time": 1696821698,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167505,
+        "num": 167505,
+        "word": "以色列音乐节遇袭至少260死",
+        "onboard_time": 1696809334,
+        "rank": 43,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 158634,
+        "num": 158634,
+        "word": "被韩国的饭菜整破防了",
+        "onboard_time": 1696810723,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151914,
+        "num": 151914,
+        "word": "姜妍上一秒说笑下一秒泪崩",
+        "onboard_time": 1696814556,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147891,
+        "num": 147891,
+        "word": "亚运三冠王回家第一件事给父母戴上金牌",
+        "onboard_time": 1696819296,
+        "rank": 46,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 138789,
+        "num": 138789,
+        "word": "胡兵曾代表中国赛艇队拿了世界第七",
+        "onboard_time": 1696816297,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137473,
+        "num": 137473,
+        "word": "BBC和Inflame演我看DOTA2决赛",
+        "onboard_time": 1696821937,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135207,
+        "num": 135207,
+        "word": "新疆独库公路现震撼日照金山",
+        "onboard_time": 1696811676,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宣传思想文化工作作出重要指示#"
+    }
+  }
+}

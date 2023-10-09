@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696821449268,
+  "endTime": 1696822464083,
   "band_list": [
     {
       "raw_hot": 3354587,
@@ -11,20 +11,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2741878,
+      "num": 2741878,
+      "word": "李晓鹏被双开",
+      "onboard_time": 1696819054,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 2499722,
       "num": 2499722,
       "word": "3名队员未劝止拍摄不雅画面被停职",
       "onboard_time": 1696808670,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2250097,
-      "num": 2250097,
-      "word": "李晓鹏被双开",
-      "onboard_time": 1696819054,
-      "rank": 1,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 2131648,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1035464,
+      "num": 1035464,
+      "word": "海底捞报名",
+      "onboard_time": 1696819415,
+      "rank": 6,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1032933,
       "num": 1032933,
       "word": "王楚钦战胜马龙夺冠",
@@ -105,14 +113,6 @@
       "onboard_time": 1696772262,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 967612,
-      "num": 967612,
-      "word": "海底捞报名",
-      "onboard_time": 1696819415,
-      "rank": 6,
-      "category": "美食"
     },
     {
       "raw_hot": 963356,
@@ -163,6 +163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760272,
+      "num": 496848,
+      "word": "孙述涛被双开",
+      "onboard_time": 1696821219,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 674863,
       "num": 504398,
       "word": "A股",
@@ -185,6 +193,14 @@
       "onboard_time": 1696778435,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 622518,
+      "num": 622518,
+      "word": "妻子过生日丈夫偷偷买回6000元手机",
+      "onboard_time": 1696818094,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 619332,
@@ -211,12 +227,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 567674,
-      "num": 567674,
-      "word": "妻子过生日丈夫偷偷买回6000元手机",
-      "onboard_time": 1696818094,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 572375,
+      "num": 520733,
+      "word": "张元英的下垂眼",
+      "onboard_time": 1696818032,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 571473,
+      "num": 311391,
+      "word": "订婚买三金时我妈也想要",
+      "onboard_time": 1696822057,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 538214,
@@ -243,12 +267,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 520733,
-      "num": 520733,
-      "word": "张元英的下垂眼",
-      "onboard_time": 1696818032,
-      "rank": 32,
-      "category": "作品衍生"
+      "raw_hot": 517523,
+      "num": 517523,
+      "word": "母女驾车看外婆回时冲入水塘溺亡",
+      "onboard_time": 1696818696,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511104,
@@ -315,12 +339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 428780,
-      "num": 428780,
-      "word": "母女驾车看外婆回时冲入水塘溺亡",
-      "onboard_time": 1696818696,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 432061,
+      "num": 432061,
+      "word": "老乡鸡外卖",
+      "onboard_time": 1696820736,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 421771,
@@ -369,14 +393,6 @@
       "onboard_time": 1696816652,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 352425,
-      "num": 352425,
-      "word": "孙述涛被双开",
-      "onboard_time": 1696821219,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 344964,
@@ -467,6 +483,22 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 291727,
+      "num": 291727,
+      "word": "沙溢让白敬亭挑一个女主演",
+      "onboard_time": 1696821458,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 290983,
+      "num": 290983,
+      "word": "HYBE不管LESSERAFIM演唱会退票后续",
+      "onboard_time": 1696821098,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 284746,
       "num": 284746,
       "word": "男管家3个月偷进女租客家近30次",
@@ -505,22 +537,6 @@
       "onboard_time": 1696806142,
       "rank": 21,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 273723,
-      "num": 273723,
-      "word": "老乡鸡外卖",
-      "onboard_time": 1696820736,
-      "rank": 28,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 272308,
-      "num": 272308,
-      "word": "HYBE不管LESSERAFIM演唱会退票后续",
-      "onboard_time": 1696821098,
-      "rank": 29,
-      "category": "演出"
     },
     {
       "raw_hot": 269365,
@@ -585,6 +601,14 @@
       "onboard_time": 1696813776,
       "rank": 45,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 259957,
+      "num": 259957,
+      "word": "柯南跟以前不一样了",
+      "onboard_time": 1696821339,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 259122,
@@ -673,6 +697,14 @@
       "onboard_time": 1696817254,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210956,
+      "num": 210956,
+      "word": "消防员把发病男子绑身上背下房顶",
+      "onboard_time": 1696822178,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210947,
@@ -771,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193488,
+      "num": 193488,
+      "word": "SEVENTEEN新专盛典风狂欢",
+      "onboard_time": 1696821819,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191732,
       "num": 191732,
       "word": "亚运三冠王回家第一件事给父母戴上金牌",
@@ -779,12 +819,28 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 190572,
+      "num": 190572,
+      "word": "三十六骑完美诠释中国故事",
+      "onboard_time": 1696821819,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 190120,
       "num": 190120,
       "word": "黄轩22岁到38岁脸变手不变",
       "onboard_time": 1696772681,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186934,
+      "num": 186934,
+      "word": "3岁女儿同断臂爸爸合作剥板栗",
+      "onboard_time": 1696821698,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184301,
@@ -947,12 +1003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137799,
-      "num": 137799,
-      "word": "柯南跟以前不一样了",
-      "onboard_time": 1696821339,
-      "rank": 45,
-      "category": "动漫"
+      "raw_hot": 137473,
+      "num": 137473,
+      "word": "BBC和Inflame演我看DOTA2决赛",
+      "onboard_time": 1696821937,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 134697,
@@ -1155,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63075,
+      "num": 2115026,
+      "word": "视频回顾杭州亚运会暖心瞬间",
+      "onboard_time": 1696819896,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 56880,
       "num": 56880,
       "word": "阿克萨洪水",
@@ -1185,14 +1249,6 @@
       "onboard_time": 1696785441,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 52097,
-      "num": 2115026,
-      "word": "视频回顾杭州亚运会暖心瞬间",
-      "onboard_time": 1696819896,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 27168,
