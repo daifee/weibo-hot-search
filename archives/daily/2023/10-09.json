@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696844064237,
+  "endTime": 1696846810307,
   "band_list": [
     {
       "raw_hot": 4416722,
@@ -139,12 +139,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1271153,
+      "num": 1271153,
+      "word": "非自然死亡 翻拍",
+      "onboard_time": 1696845997,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1244759,
       "num": 1244759,
       "word": "胡兵因为妈妈意识到人生需要发生一个变革",
       "onboard_time": 1696832735,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1197849,
+      "num": 424172,
+      "word": "月薪多少可以买过万元的包包",
+      "onboard_time": 1696840833,
+      "rank": 22,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 1192625,
@@ -203,6 +219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 942864,
+      "num": 528369,
+      "word": "我做好您的相 您做您的将",
+      "onboard_time": 1696841615,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 935045,
       "num": 935045,
       "word": "博主称旅游订不到房可挂急诊过夜",
@@ -211,20 +235,20 @@
       "category": "旅游,社会新闻"
     },
     {
-      "raw_hot": 927475,
-      "num": 528369,
-      "word": "我做好您的相 您做您的将",
-      "onboard_time": 1696841615,
-      "rank": 12,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 865922,
       "num": 865922,
       "word": "爱格停刊",
       "onboard_time": 1696825969,
       "rank": 29,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 815757,
+      "num": 388229,
+      "word": "4岁走失女童父亲在网友评论区求助",
+      "onboard_time": 1696844496,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 806225,
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 525101,
+      "num": 525101,
+      "word": "TFBOYS为王俊凯特约策展人打call",
+      "onboard_time": 1696843656,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 522950,
       "num": 532379,
       "word": "PENTAGON五位成员离开CUBE",
@@ -531,6 +563,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 486603,
+      "num": 387685,
+      "word": "27岁小伙对异性无感竟因大脑长了瘤",
+      "onboard_time": 1696843415,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 481469,
       "num": 437255,
       "word": "沈腾金晨演的夫妻",
@@ -571,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 470974,
+      "num": 395687,
+      "word": "北京一餐饮店发生爆炸",
+      "onboard_time": 1696844375,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 461561,
       "num": 461561,
       "word": "关晓彤把孟子义理想型身高看成1米63",
@@ -595,6 +643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457861,
+      "num": 394692,
+      "word": "黄石通报男子当街锤人致死",
+      "onboard_time": 1696845698,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456526,
       "num": 456526,
       "word": "金鸡奖",
@@ -617,14 +673,6 @@
       "onboard_time": 1696820736,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 424172,
-      "num": 424172,
-      "word": "月薪多少可以买过万元的包包",
-      "onboard_time": 1696840833,
-      "rank": 22,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 421771,
@@ -675,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394115,
+      "num": 394115,
+      "word": "2023年诺贝尔经济学奖揭晓",
+      "onboard_time": 1696845759,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384725,
       "num": 384725,
       "word": "豆瓣8分剧还有公信力吗",
@@ -697,6 +753,14 @@
       "onboard_time": 1696813418,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380685,
+      "num": 1211804,
+      "word": "山东一地基层机关大院敞开让农民晒粮",
+      "onboard_time": 1696844435,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 380444,
@@ -777,6 +841,14 @@
       "onboard_time": 1696840474,
       "rank": 20,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 350855,
+      "num": 350855,
+      "word": "警方回应黄石当街发生锤人致死事件",
+      "onboard_time": 1696843894,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 344964,
@@ -876,7 +948,7 @@
     },
     {
       "raw_hot": 310162,
-      "num": 310162,
+      "num": 394423,
       "word": "三面环海不打渔村民搞旅游2个月赚10万",
       "onboard_time": 1696843595,
       "rank": 24,
@@ -937,6 +1009,14 @@
       "onboard_time": 1696819176,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304295,
+      "num": 389341,
+      "word": "山东一法官辞职后谈体制与选择",
+      "onboard_time": 1696846356,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301579,
@@ -1065,14 +1145,6 @@
       "onboard_time": 1696832134,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 271622,
-      "num": 271622,
-      "word": "TFBOYS为王俊凯特约策展人打call",
-      "onboard_time": 1696843656,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 269365,
@@ -1219,14 +1291,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 249341,
-      "num": 249341,
-      "word": "27岁小伙对异性无感竟因大脑长了瘤",
-      "onboard_time": 1696843415,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248428,
       "num": 248428,
       "word": "巴以冲突已致上千人死亡",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1696774180,
       "rank": 16,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 246274,
+      "num": 246274,
+      "word": "BSS去录制RM了",
+      "onboard_time": 1696844976,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244046,
@@ -1683,6 +1755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 178959,
+      "num": 178959,
+      "word": "薛之谦常州",
+      "onboard_time": 1696845339,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175240,
       "num": 175240,
       "word": "徐璐深V白裙",
@@ -1795,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156215,
+      "num": 156215,
+      "word": "种地吧",
+      "onboard_time": 1696845096,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155917,
       "num": 155917,
       "word": "天官赐福动画2片尾曲",
@@ -1849,14 +1937,6 @@
       "onboard_time": 1696762536,
       "rank": 33,
       "category": "美食,知识科普"
-    },
-    {
-      "raw_hot": 147604,
-      "num": 147604,
-      "word": "警方回应黄石当街发生锤人致死事件",
-      "onboard_time": 1696843894,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 145537,
@@ -1921,6 +2001,14 @@
       "onboard_time": 1696774904,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134573,
+      "num": 134573,
+      "word": "于和伟 金五集团高层大换血了",
+      "onboard_time": 1696844137,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 134419,
@@ -2148,7 +2236,7 @@
     },
     {
       "raw_hot": 70860,
-      "num": 1018403,
+      "num": 1231726,
       "word": "杭州亚运的50个珍贵瞬间",
       "onboard_time": 1696840776,
       "rank": 2,
