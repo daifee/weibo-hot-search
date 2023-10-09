@@ -1,7 +1,15 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696815149809,
+  "endTime": 1696818206814,
   "band_list": [
+    {
+      "raw_hot": 3049510,
+      "num": 3049510,
+      "word": "瑞幸 猫和老鼠",
+      "onboard_time": 1696814796,
+      "rank": 9,
+      "category": "美食"
+    },
     {
       "raw_hot": 2499722,
       "num": 2499722,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 2131648,
-      "num": 754369,
+      "num": 832998,
       "word": "以色列25岁女学生音乐节上被哈马斯掳走",
       "onboard_time": 1696810959,
       "rank": 11,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1298864,
-      "num": 844113,
+      "num": 846316,
       "word": "王权富贵",
       "onboard_time": 1696767758,
       "rank": 3,
@@ -51,20 +59,20 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1089077,
+      "num": 1089077,
+      "word": "被浙江的婚宴震惊到了",
+      "onboard_time": 1696813179,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1032933,
       "num": 1032933,
       "word": "王楚钦战胜马龙夺冠",
       "onboard_time": 1696770699,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 984810,
-      "num": 984810,
-      "word": "被浙江的婚宴震惊到了",
-      "onboard_time": 1696813179,
-      "rank": 10,
-      "category": "幽默"
     },
     {
       "raw_hot": 982424,
@@ -83,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 900544,
+      "num": 509503,
+      "word": "近1000只鸟集体撞向一栋大楼后死亡",
+      "onboard_time": 1696817194,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 806225,
       "num": 806225,
       "word": "我妈从福建带回来1200一斤的菌菇",
@@ -99,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791734,
+      "num": 791734,
+      "word": "网友劝张老板自首",
+      "onboard_time": 1696814616,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 778428,
+      "num": 778428,
+      "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
+      "onboard_time": 1696813179,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 773440,
       "num": 773440,
       "word": "冯琳主持人大赛第一名晋级",
@@ -107,20 +139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 688932,
-      "num": 656901,
-      "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
-      "onboard_time": 1696813179,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 662908,
-      "num": 662908,
-      "word": "瑞幸 猫和老鼠",
-      "onboard_time": 1696814796,
-      "rank": 9,
-      "category": "美食"
+      "raw_hot": 674863,
+      "num": 504398,
+      "word": "A股",
+      "onboard_time": 1696816174,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 644595,
@@ -163,12 +187,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 532089,
+      "num": 532089,
+      "word": "王楚钦 头发长了就马上重新剪",
+      "onboard_time": 1696814495,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 511104,
+      "num": 511104,
+      "word": "胡兵曾代表中国赛艇队拿了世界第七",
+      "onboard_time": 1696816297,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 489410,
       "num": 372540,
       "word": "被韩国的饭菜整破防了",
       "onboard_time": 1696810723,
       "rank": 20,
       "category": "美食"
+    },
+    {
+      "raw_hot": 481453,
+      "num": 481453,
+      "word": "姜妍上一秒说笑下一秒泪崩",
+      "onboard_time": 1696814556,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 479522,
@@ -187,12 +235,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467723,
+      "num": 215960,
+      "word": "很多人发现肿瘤时已经是中晚期",
+      "onboard_time": 1696817494,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 449571,
       "num": 526589,
       "word": "下届亚运会在日本名古屋举办",
       "onboard_time": 1696773039,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 424486,
+      "num": 404120,
+      "word": "11岁女孩将狗偷走掰断其牙齿舌头",
+      "onboard_time": 1696817494,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421906,
+      "num": 421906,
+      "word": "沈腾金晨演的夫妻",
+      "onboard_time": 1696816652,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 421771,
@@ -203,14 +275,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 384974,
-      "num": 244147,
-      "word": "王楚钦 头发长了就马上重新剪",
-      "onboard_time": 1696814495,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 384725,
       "num": 384725,
       "word": "豆瓣8分剧还有公信力吗",
@@ -219,12 +283,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367028,
-      "num": 367028,
+      "raw_hot": 383128,
+      "num": 383128,
       "word": "关灯后真的不要玩手机了",
       "onboard_time": 1696813418,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 356545,
+      "num": 356545,
+      "word": "林凯想和成毅三搭",
+      "onboard_time": 1696816652,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 344964,
+      "num": 498741,
+      "word": "康辉说非要说满三次",
+      "onboard_time": 1696814495,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336739,
@@ -235,12 +315,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 323909,
+      "num": 323909,
+      "word": "高铁i人专属座位",
+      "onboard_time": 1696817316,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 313384,
       "num": 204436,
       "word": "女子吃烤栗子被炸嘴肿得张不开",
       "onboard_time": 1696776637,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309256,
+      "num": 215393,
+      "word": "以色列进入战争状态背后原因",
+      "onboard_time": 1696816717,
+      "rank": 31,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 308132,
@@ -299,28 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277929,
-      "num": 241659,
-      "word": "姜妍上一秒说笑下一秒泪崩",
-      "onboard_time": 1696814556,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275306,
       "num": 202900,
       "word": "一县卫健教育系统各清退500人",
       "onboard_time": 1696806142,
       "rank": 21,
       "category": "教育,社会新闻"
-    },
-    {
-      "raw_hot": 273171,
-      "num": 273171,
-      "word": "网友劝张老板自首",
-      "onboard_time": 1696814616,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 269365,
@@ -411,14 +491,6 @@
       "category": "艺人,美妆"
     },
     {
-      "raw_hot": 237061,
-      "num": 237061,
-      "word": "康辉说非要说满三次",
-      "onboard_time": 1696814495,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 236578,
       "num": 236578,
       "word": "杨紫白色棒球帽好女高",
@@ -443,12 +515,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226196,
+      "num": 215089,
+      "word": "张元英的下垂眼",
+      "onboard_time": 1696818032,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 216226,
+      "num": 216226,
+      "word": "焯水时这些食物记得凉水下锅",
+      "onboard_time": 1696816413,
+      "rank": 29,
+      "category": "美食"
+    },
+    {
       "raw_hot": 213885,
       "num": 132435,
       "word": "江苏健儿杭州亚运会金牌奖牌数全国第3",
       "onboard_time": 1696807109,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213731,
+      "num": 213731,
+      "word": "在KTV背单词什么体验",
+      "onboard_time": 1696817254,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 210947,
@@ -555,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 186705,
+      "num": 186705,
+      "word": "以色列大使馆",
+      "onboard_time": 1696817920,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 184301,
       "num": 184301,
       "word": "狐妖小红娘系列人物关系图",
@@ -569,6 +673,14 @@
       "onboard_time": 1696781789,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182174,
+      "num": 182174,
+      "word": "千里江山图金银纪念币",
+      "onboard_time": 1696817074,
+      "rank": 40,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 174772,
@@ -603,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164218,
+      "num": 164218,
+      "word": "90后夫妻带6000藏书回乡办免费书屋",
+      "onboard_time": 1696815272,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162603,
       "num": 162603,
       "word": "亚运场馆保洁阿姨说辛苦是值得的",
@@ -635,6 +755,22 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 152093,
+      "num": 152093,
+      "word": "金晨想邀请沈腾演男主",
+      "onboard_time": 1696818032,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 151758,
+      "num": 151758,
+      "word": "妻子过生日丈夫偷偷买回6000元手机",
+      "onboard_time": 1696818094,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151400,
       "num": 151400,
       "word": "以色列中国留学生发声",
@@ -665,6 +801,14 @@
       "onboard_time": 1696778138,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142831,
+      "num": 142831,
+      "word": "大熊猫英英去世",
+      "onboard_time": 1696818157,
+      "rank": 48,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 140875,
