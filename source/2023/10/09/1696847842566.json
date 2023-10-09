@@ -1,0 +1,410 @@
+{
+  "runTime": 1696847842566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2358138,
+        "num": 2358138,
+        "word": "非自然死亡 翻拍",
+        "onboard_time": 1696845997,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1213624,
+        "num": 1213624,
+        "word": "霍启刚抱着郭晶晶的亚运火炬离开杭州",
+        "onboard_time": 1696841915,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56057,
+        "num": 1025774,
+        "word": "杭州亚运的50个珍贵瞬间",
+        "onboard_time": 1696840776,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 506372,
+        "num": 927825,
+        "word": "山东一法官辞职后谈体制与选择",
+        "onboard_time": 1696846356,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 911720,
+        "num": 911720,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 591326,
+        "num": 591326,
+        "word": "黄石通报男子当街锤人致死",
+        "onboard_time": 1696845698,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 299293,
+        "num": 559393,
+        "word": "山东一地基层机关大院敞开让农民晒粮",
+        "onboard_time": 1696844435,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531707,
+        "num": 531707,
+        "word": "TFBOYS为王俊凯特约策展人打call",
+        "onboard_time": 1696843656,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469501,
+        "num": 469501,
+        "word": "2023年诺贝尔经济学奖揭晓",
+        "onboard_time": 1696845759,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 429557,
+        "num": 429557,
+        "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+        "onboard_time": 1696832735,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1401881,
+        "num": 429552,
+        "word": "月薪多少可以买过万元的包包",
+        "onboard_time": 1696840833,
+        "rank": 10,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 691695,
+        "num": 422119,
+        "word": "我做好您的相 您做您的将",
+        "onboard_time": 1696841615,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 685542,
+        "num": 419964,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173949,
+        "num": 414424,
+        "word": "今天这束花必须归我姐",
+        "onboard_time": 1696842812,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132451,
+        "num": 410907,
+        "word": "日本地震多地观测到海啸",
+        "onboard_time": 1696833755,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 566645,
+        "num": 402987,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696839274,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 178049,
+        "num": 401909,
+        "word": "手机钉子户不钉了",
+        "onboard_time": 1696838376,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 398391,
+        "num": 398391,
+        "word": "侯明昊 智性恋",
+        "onboard_time": 1696836994,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 400978,
+        "num": 383387,
+        "word": "在以色列华人中至少3人中弹4人失联",
+        "onboard_time": 1696838916,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 349874,
+        "num": 349874,
+        "word": "我那190的甜妹爱豆",
+        "onboard_time": 1696841558,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1051303,
+        "num": 333333,
+        "word": "男子相亲被砍一刀",
+        "onboard_time": 1696847258,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 813496,
+        "num": 327715,
+        "word": "4岁走失女童父亲在网友评论区求助",
+        "onboard_time": 1696844496,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421187,
+        "num": 326617,
+        "word": "27岁小伙对异性无感竟因大脑长了瘤",
+        "onboard_time": 1696843415,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309614,
+        "num": 309614,
+        "word": "关晓彤把孟子义理想型身高看成1米63",
+        "onboard_time": 1696842215,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287067,
+        "num": 287067,
+        "word": "狐妖小红娘 中年古偶",
+        "onboard_time": 1696822539,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461656,
+        "num": 286436,
+        "word": "北京一餐饮店发生爆炸",
+        "onboard_time": 1696844375,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285573,
+        "num": 285573,
+        "word": "梅西又要来中国了",
+        "onboard_time": 1696840175,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283688,
+        "num": 283688,
+        "word": "博主称旅游订不到房可挂急诊过夜",
+        "onboard_time": 1696837776,
+        "rank": 27,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 296151,
+        "num": 274552,
+        "word": "关晓彤微博之夜捂嘴原因",
+        "onboard_time": 1696847258,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261695,
+        "num": 261695,
+        "word": "BSS去录制RM了",
+        "onboard_time": 1696844976,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251370,
+        "num": 251370,
+        "word": "警方回应黄石当街发生锤人致死事件",
+        "onboard_time": 1696843894,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246370,
+        "num": 246370,
+        "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+        "onboard_time": 1696828959,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238259,
+        "num": 238259,
+        "word": "老乡鸡发文道歉",
+        "onboard_time": 1696829916,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231096,
+        "num": 231096,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214219,
+        "num": 214219,
+        "word": "哈马斯",
+        "onboard_time": 1696841194,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 191505,
+        "num": 191505,
+        "word": "种地吧",
+        "onboard_time": 1696845096,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178112,
+        "num": 178112,
+        "word": "刘宇宁 大学生盘串现状",
+        "onboard_time": 1696838556,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170549,
+        "num": 170549,
+        "word": "PENTAGON五位成员离开CUBE",
+        "onboard_time": 1696841733,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170536,
+        "num": 170536,
+        "word": "螺蛳粉肉蟹煲",
+        "onboard_time": 1696840117,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 158518,
+        "num": 158518,
+        "word": "谁给赵今麦画的卧蚕",
+        "onboard_time": 1696835194,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156394,
+        "num": 156394,
+        "word": "近1000只鸟集体撞向一栋大楼后死亡",
+        "onboard_time": 1696817194,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156235,
+        "num": 156235,
+        "word": "三面环海不打渔村民搞旅游2个月赚10万",
+        "onboard_time": 1696843595,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154198,
+        "num": 154198,
+        "word": "中方第一时间启动领事保护应急机制",
+        "onboard_time": 1696842635,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 146179,
+        "num": 146179,
+        "word": "戴建峰起诉视觉中国获立案",
+        "onboard_time": 1696847738,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143720,
+        "num": 143720,
+        "word": "云南发现1.4公斤重大鸡枞",
+        "onboard_time": 1696830995,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143372,
+        "num": 143372,
+        "word": "薛之谦天津抢票",
+        "onboard_time": 1696830634,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135367,
+        "num": 135367,
+        "word": "男子7岁被拐母亲遭人贩子打死",
+        "onboard_time": 1696828899,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134473,
+        "num": 134473,
+        "word": "原神4.1",
+        "onboard_time": 1696843235,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 129637,
+        "num": 129637,
+        "word": "王俊凯任第七届平遥影展特约策展人",
+        "onboard_time": 1696840899,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120552,
+        "num": 120552,
+        "word": "爱格 爷青结",
+        "onboard_time": 1696847796,
+        "rank": 49,
+        "category": "读书作家"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平文化思想首次提出#"
+    }
+  }
+}
