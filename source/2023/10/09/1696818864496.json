@@ -1,0 +1,410 @@
+{
+  "runTime": 1696818864496,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3354587,
+        "num": 3354587,
+        "word": "瑞幸 猫和老鼠",
+        "onboard_time": 1696814796,
+        "rank": 0,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1506752,
+        "num": 1506752,
+        "word": "近1000只鸟集体撞向一栋大楼后死亡",
+        "onboard_time": 1696817194,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79005,
+        "num": 1270093,
+        "word": "再见了杭州亚运",
+        "onboard_time": 1696771899,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1264851,
+        "num": 1264851,
+        "word": "3名队员未劝止拍摄不雅画面被停职",
+        "onboard_time": 1696808670,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060998,
+        "num": 1060998,
+        "word": "被浙江的婚宴震惊到了",
+        "onboard_time": 1696813179,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1336627,
+        "num": 949127,
+        "word": "以色列25岁女学生音乐节上被哈马斯掳走",
+        "onboard_time": 1696810959,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 796575,
+        "num": 796575,
+        "word": "王权富贵",
+        "onboard_time": 1696767758,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 739120,
+        "num": 739120,
+        "word": "网友劝张老板自首",
+        "onboard_time": 1696814616,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 700489,
+        "num": 700489,
+        "word": "5岁女儿一遍遍喊妈妈女子看后连夜赶回",
+        "onboard_time": 1696813179,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470910,
+        "num": 470910,
+        "word": "王楚钦 头发长了就马上重新剪",
+        "onboard_time": 1696814495,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 831953,
+        "num": 468960,
+        "word": "很多人发现肿瘤时已经是中晚期",
+        "onboard_time": 1696817494,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 502998,
+        "num": 464662,
+        "word": "A股",
+        "onboard_time": 1696816174,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 337441,
+        "num": 458872,
+        "word": "妻子过生日丈夫偷偷买回6000元手机",
+        "onboard_time": 1696818094,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322595,
+        "num": 453516,
+        "word": "康辉说非要说满三次",
+        "onboard_time": 1696814495,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249498,
+        "num": 448899,
+        "word": "冯琳主持人大赛第一名晋级",
+        "onboard_time": 1696777600,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488073,
+        "num": 443959,
+        "word": "张元英的下垂眼",
+        "onboard_time": 1696818032,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 481469,
+        "num": 437255,
+        "word": "沈腾金晨演的夫妻",
+        "onboard_time": 1696816652,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435931,
+        "num": 435931,
+        "word": "以色列正式向哈马斯宣战",
+        "onboard_time": 1696772262,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 427981,
+        "num": 427981,
+        "word": "姜妍上一秒说笑下一秒泪崩",
+        "onboard_time": 1696814556,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424506,
+        "num": 424506,
+        "word": "胡兵曾代表中国赛艇队拿了世界第七",
+        "onboard_time": 1696816297,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 619332,
+        "num": 408631,
+        "word": "11岁女孩将狗偷走掰断其牙齿舌头",
+        "onboard_time": 1696817494,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359050,
+        "num": 359050,
+        "word": "以色列音乐节遇袭至少260死",
+        "onboard_time": 1696809334,
+        "rank": 21,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 358100,
+        "num": 358100,
+        "word": "高铁i人专属座位",
+        "onboard_time": 1696817316,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 339013,
+        "num": 339013,
+        "word": "苹果商店相继下架相关黄色软件",
+        "onboard_time": 1696806082,
+        "rank": 23,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 343384,
+        "num": 338807,
+        "word": "以色列大使馆",
+        "onboard_time": 1696817920,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 332805,
+        "num": 332805,
+        "word": "关灯后真的不要玩手机了",
+        "onboard_time": 1696813418,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 306816,
+        "num": 306816,
+        "word": "林凯想和成毅三搭",
+        "onboard_time": 1696816652,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302592,
+        "num": 302592,
+        "word": "以色列进入战争状态背后原因",
+        "onboard_time": 1696816717,
+        "rank": 27,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 291816,
+        "num": 291816,
+        "word": "我妈从福建带回来1200一斤的菌菇",
+        "onboard_time": 1696812096,
+        "rank": 28,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 276283,
+        "num": 276283,
+        "word": "大熊猫英英去世",
+        "onboard_time": 1696818157,
+        "rank": 29,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 253653,
+        "num": 253653,
+        "word": "中国人创造的英语被广泛使用",
+        "onboard_time": 1696808914,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206749,
+        "num": 206749,
+        "word": "焯水时这些食物记得凉水下锅",
+        "onboard_time": 1696816413,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 203365,
+        "num": 203365,
+        "word": "甄嬛传中那些被删除掉戏份",
+        "onboard_time": 1696778435,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198571,
+        "num": 198571,
+        "word": "在KTV背单词什么体验",
+        "onboard_time": 1696817254,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 191008,
+        "num": 191008,
+        "word": "把小猫爪爪捏扁了",
+        "onboard_time": 1696813776,
+        "rank": 34,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 181977,
+        "num": 181977,
+        "word": "被韩国的饭菜整破防了",
+        "onboard_time": 1696810723,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180653,
+        "num": 180653,
+        "word": "新疆独库公路现震撼日照金山",
+        "onboard_time": 1696811676,
+        "rank": 36,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 180645,
+        "num": 180645,
+        "word": "小偷也没想到我包里居然是白菜",
+        "onboard_time": 1696813360,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178806,
+        "num": 178806,
+        "word": "姚瑶自首了",
+        "onboard_time": 1696773461,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169307,
+        "num": 169307,
+        "word": "原来康辉去年就催过了",
+        "onboard_time": 1696774422,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165456,
+        "num": 165456,
+        "word": "王楚钦战胜马龙夺冠",
+        "onboard_time": 1696770699,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158879,
+        "num": 158879,
+        "word": "不开心可能是你在长脑子",
+        "onboard_time": 1696808971,
+        "rank": 41,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 153628,
+        "num": 153628,
+        "word": "男孩游泳池溺亡10分钟无人救援",
+        "onboard_time": 1696773105,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149012,
+        "num": 149012,
+        "word": "母女驾车看外婆回时冲入水塘溺亡",
+        "onboard_time": 1696818696,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148758,
+        "num": 148758,
+        "word": "金晨想邀请沈腾演男主",
+        "onboard_time": 1696818032,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134431,
+        "num": 134431,
+        "word": "以色列中国留学生发交战视频",
+        "onboard_time": 1696810175,
+        "rank": 45,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 133136,
+        "num": 133136,
+        "word": "90后夫妻带6000藏书回乡办免费书屋",
+        "onboard_time": 1696815272,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130550,
+        "num": 130550,
+        "word": "陈楚生这可不兴说的啊",
+        "onboard_time": 1696811197,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127203,
+        "num": 127203,
+        "word": "内娱的原创编剧去哪了",
+        "onboard_time": 1696784664,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123151,
+        "num": 123151,
+        "word": "白敬亭沙溢家编外人员",
+        "onboard_time": 1696809695,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚运会中国代表团201金收官#"
+    }
+  }
+}
