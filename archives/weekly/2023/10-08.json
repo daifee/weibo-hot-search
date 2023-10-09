@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696857778045,
+  "endTime": 1696858487527,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -265,6 +265,14 @@
       "onboard_time": 1696747895,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1801176,
+      "num": 1801176,
+      "word": "老两口退休工资1万2被女儿送养老院",
+      "onboard_time": 1696856555,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1780398,
@@ -643,12 +651,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1004268,
-      "num": 1004268,
-      "word": "老两口退休工资1万2被女儿送养老院",
-      "onboard_time": 1696856555,
-      "rank": 3,
-      "category": "社会新闻"
+      "raw_hot": 1009413,
+      "num": 509651,
+      "word": "宫脇咲良发文道歉",
+      "onboard_time": 1696857640,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1000105,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 963083,
-      "num": 384643,
+      "num": 411520,
       "word": "建议1周换1次床上用品",
       "onboard_time": 1696848935,
       "rank": 21,
@@ -753,6 +761,14 @@
       "onboard_time": 1696766614,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 856416,
+      "num": 856416,
+      "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
+      "onboard_time": 1696858056,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 844430,
@@ -1108,7 +1124,7 @@
     },
     {
       "raw_hot": 637226,
-      "num": 301252,
+      "num": 411290,
       "word": "月薪一万买不起面包",
       "onboard_time": 1696856379,
       "rank": 21,
@@ -1475,6 +1491,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 518210,
+      "num": 485130,
+      "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
+      "onboard_time": 1696857159,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516015,
       "num": 516015,
       "word": "豆瓣8分剧还有公信力吗",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1696764694,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 492008,
-      "num": 492008,
-      "word": "宫脇咲良发文道歉",
-      "onboard_time": 1696857640,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 489410,
@@ -1915,6 +1931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 422740,
+      "num": 422740,
+      "word": "魏大勋说不会撕下中戏校服上的胶布",
+      "onboard_time": 1696857033,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 421771,
       "num": 421771,
       "word": "小偷也没想到我包里居然是白菜",
@@ -2073,6 +2097,14 @@
       "onboard_time": 1696763674,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 383685,
+      "num": 383685,
+      "word": "王鹤润曾谈和王鹤棣的关系",
+      "onboard_time": 1696857517,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 383197,
@@ -2372,7 +2404,7 @@
     },
     {
       "raw_hot": 337364,
-      "num": 496970,
+      "num": 497323,
       "word": "中国女运动员摘金108枚",
       "onboard_time": 1696853496,
       "rank": 13,
@@ -2601,14 +2633,6 @@
       "onboard_time": 1696822899,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 308530,
-      "num": 219131,
-      "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
-      "onboard_time": 1696857159,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 308064,
@@ -3339,6 +3363,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 242850,
+      "num": 242850,
+      "word": "特工任务结局",
+      "onboard_time": 1696857818,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242525,
       "num": 242525,
       "word": "杜华首谈章昊的实力和出道",
@@ -3507,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227773,
+      "num": 227773,
+      "word": "考研人有自己的网吧",
+      "onboard_time": 1696857033,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 226423,
       "num": 226423,
       "word": "一等功海军飞行员再添一喜",
@@ -3553,14 +3593,6 @@
       "onboard_time": 1696726956,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 223890,
-      "num": 223890,
-      "word": "魏大勋说不会撕下中戏校服上的胶布",
-      "onboard_time": 1696857033,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 222655,
@@ -3819,14 +3851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207316,
-      "num": 207316,
-      "word": "考研人有自己的网吧",
-      "onboard_time": 1696857033,
-      "rank": 34,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 207152,
       "num": 207152,
       "word": "金晨发光眼线",
@@ -4075,6 +4099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198269,
+      "num": 198269,
+      "word": "明星时装周待遇含金量",
+      "onboard_time": 1696858117,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197581,
       "num": 197581,
       "word": "杨超越车内自拍live图",
@@ -4299,6 +4331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187027,
+      "num": 187027,
+      "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
+      "onboard_time": 1696856433,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186934,
       "num": 186934,
       "word": "3岁女儿同断臂爸爸合作剥板栗",
@@ -4369,14 +4409,6 @@
       "onboard_time": 1696770459,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 182800,
-      "num": 182800,
-      "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
-      "onboard_time": 1696856433,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 182330,
@@ -4473,14 +4505,6 @@
       "onboard_time": 1696775503,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 178548,
-      "num": 178548,
-      "word": "王鹤润曾谈和王鹤棣的关系",
-      "onboard_time": 1696857517,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 178501,
@@ -4665,6 +4689,14 @@
       "onboard_time": 1696776822,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166533,
+      "num": 166533,
+      "word": "继承者们首播10周年",
+      "onboard_time": 1696858300,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 164905,
@@ -4883,6 +4915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145501,
+      "num": 145501,
+      "word": "魏大勋片场被吓到模糊",
+      "onboard_time": 1696856315,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144500,
       "num": 144500,
       "word": "我国航天事业创建67周年",
@@ -4921,14 +4961,6 @@
       "onboard_time": 1696831833,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142035,
-      "num": 142035,
-      "word": "魏大勋片场被吓到模糊",
-      "onboard_time": 1696856315,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 141478,
@@ -5547,7 +5579,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 37602,
+      "raw_hot": 39789,
       "num": 1042496,
       "word": "文化赋能以更自信姿态开创未来",
       "onboard_time": 1696854334,
