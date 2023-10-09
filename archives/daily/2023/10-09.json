@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696855946260,
+  "endTime": 1696857778045,
   "band_list": [
     {
       "raw_hot": 4416722,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1780398,
+      "num": 1780398,
+      "word": "张真源 跑男",
+      "onboard_time": 1696854275,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1770921,
       "num": 1770921,
       "word": "霍启刚抱着郭晶晶的亚运火炬离开杭州",
@@ -107,16 +115,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1696567,
-      "num": 1696567,
-      "word": "张真源 跑男",
-      "onboard_time": 1696854275,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1601972,
-      "num": 473507,
+      "num": 525691,
       "word": "嗯哼甜馨一起郊游",
       "onboard_time": 1696851037,
       "rank": 41,
@@ -241,6 +241,14 @@
       "onboard_time": 1696770699,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1004268,
+      "num": 1004268,
+      "word": "老两口退休工资1万2被女儿送养老院",
+      "onboard_time": 1696856555,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 982424,
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 732770,
+      "num": 732770,
+      "word": "男子涉黄打火机发民警手上",
+      "onboard_time": 1696853855,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 732566,
       "num": 732566,
       "word": "黄石通报男子当街锤人致死",
@@ -433,6 +449,14 @@
       "onboard_time": 1696778435,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 637226,
+      "num": 301252,
+      "word": "月薪一万买不起面包",
+      "onboard_time": 1696856379,
+      "rank": 21,
+      "category": "社会议题"
     },
     {
       "raw_hot": 635101,
@@ -611,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 531155,
+      "num": 531155,
+      "word": "官方通报男童游泳馆溺亡",
+      "onboard_time": 1696852774,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 522950,
       "num": 532379,
       "word": "PENTAGON五位成员离开CUBE",
@@ -665,6 +697,14 @@
       "onboard_time": 1696832615,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 492008,
+      "num": 492008,
+      "word": "宫脇咲良发文道歉",
+      "onboard_time": 1696857640,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 489410,
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 472043,
-      "num": 472043,
+      "num": 507121,
       "word": "巴以本轮冲突双方伤亡人数已超6000",
       "onboard_time": 1696852113,
       "rank": 12,
@@ -803,14 +843,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 437714,
-      "num": 437714,
-      "word": "官方通报男童游泳馆溺亡",
-      "onboard_time": 1696852774,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421771,
       "num": 421771,
       "word": "小偷也没想到我包里居然是白菜",
@@ -835,11 +867,11 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 406837,
-      "num": 406837,
-      "word": "男子涉黄打火机发民警手上",
-      "onboard_time": 1696853855,
-      "rank": 23,
+      "raw_hot": 417029,
+      "num": 417029,
+      "word": "19岁女孩7年花40万减肥越减越胖",
+      "onboard_time": 1696851694,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -857,14 +889,6 @@
       "onboard_time": 1696827639,
       "rank": 30,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 400630,
-      "num": 400630,
-      "word": "19岁女孩7年花40万减肥越减越胖",
-      "onboard_time": 1696851694,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 396084,
@@ -1020,7 +1044,7 @@
     },
     {
       "raw_hot": 337364,
-      "num": 442320,
+      "num": 496970,
       "word": "中国女运动员摘金108枚",
       "onboard_time": 1696853496,
       "rank": 13,
@@ -1131,6 +1155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308530,
+      "num": 219131,
+      "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
+      "onboard_time": 1696857159,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 308132,
       "num": 308132,
       "word": "三小只告别亚运会",
@@ -1161,6 +1193,14 @@
       "onboard_time": 1696819176,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304376,
+      "num": 506492,
+      "word": "找到中美两个大国正确的相处之道",
+      "onboard_time": 1696853194,
+      "rank": 14,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 301579,
@@ -1515,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 240344,
-      "num": 438033,
-      "word": "找到中美两个大国正确的相处之道",
-      "onboard_time": 1696853194,
-      "rank": 14,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 237212,
       "num": 237212,
       "word": "丹丹教育学",
@@ -1625,6 +1657,14 @@
       "onboard_time": 1696838193,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223890,
+      "num": 223890,
+      "word": "魏大勋说不会撕下中戏校服上的胶布",
+      "onboard_time": 1696857033,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 221859,
@@ -1763,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207316,
+      "num": 207316,
+      "word": "考研人有自己的网吧",
+      "onboard_time": 1696857033,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207093,
       "num": 207093,
       "word": "SEVENTEEN新专歌曲取样试听",
@@ -1849,6 +1897,14 @@
       "onboard_time": 1696807225,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 197267,
+      "num": 197267,
+      "word": "大学生考证时间表",
+      "onboard_time": 1696855474,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 197025,
@@ -1995,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182800,
+      "num": 182800,
+      "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
+      "onboard_time": 1696856433,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182174,
       "num": 182174,
       "word": "千里江山图金银纪念币",
@@ -2025,6 +2089,14 @@
       "onboard_time": 1696845339,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178548,
+      "num": 178548,
+      "word": "王鹤润曾谈和王鹤棣的关系",
+      "onboard_time": 1696857517,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 175240,
@@ -2251,6 +2323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142035,
+      "num": 142035,
+      "word": "魏大勋片场被吓到模糊",
+      "onboard_time": 1696856315,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140875,
       "num": 140875,
       "word": "国乒小时候有多可爱",
@@ -2339,12 +2419,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132270,
-      "num": 132270,
-      "word": "大学生考证时间表",
-      "onboard_time": 1696855474,
+      "raw_hot": 129063,
+      "num": 129063,
+      "word": "关晓彤看自己吃瓜合集",
+      "onboard_time": 1696856136,
       "rank": 45,
-      "category": "教育"
+      "category": "综艺"
     },
     {
       "raw_hot": 128300,
@@ -2603,20 +2683,20 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 37602,
+      "num": 1042496,
+      "word": "文化赋能以更自信姿态开创未来",
+      "onboard_time": 1696854334,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33529,
       "num": 836773,
       "word": "谢谢杭州亚运给予的感动和力量",
       "onboard_time": 1696840595,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 28239,
-      "num": 1042496,
-      "word": "文化赋能以更自信姿态开创未来",
-      "onboard_time": 1696854334,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 27168,
