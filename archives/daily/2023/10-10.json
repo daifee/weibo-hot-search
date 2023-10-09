@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696886091008,
+  "endTime": 1696887241143,
   "band_list": [
     {
       "raw_hot": 1354892,
@@ -459,12 +459,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 47001,
+      "num": 35070,
+      "word": "你能接受自己老了进养老院吗",
+      "onboard_time": 1696884433,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 45716,
       "num": 50445,
       "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
       "onboard_time": 1696856433,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 37728,
+      "num": 36731,
+      "word": "真正的伦敦在河南",
+      "onboard_time": 1696882153,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 37546,
@@ -475,20 +491,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 36731,
-      "num": 36731,
-      "word": "真正的伦敦在河南",
-      "onboard_time": 1696882153,
-      "rank": 40,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 32741,
       "num": 30772,
       "word": "音乐和气味是最强大的搜索引擎",
       "onboard_time": 1696875797,
       "rank": 31,
       "category": "其它"
+    },
+    {
+      "raw_hot": 32190,
+      "num": 18487,
+      "word": "终于看到先脱鞋再进门的欧美人",
+      "onboard_time": 1696885213,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 29902,
@@ -499,14 +515,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 24270,
-      "num": 24270,
-      "word": "你能接受自己老了进养老院吗",
-      "onboard_time": 1696884433,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 21533,
       "num": 25297,
       "word": "浙江的山还能这样爬吗",
@@ -515,12 +523,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 18270,
-      "num": 17049,
-      "word": "终于看到先脱鞋再进门的欧美人",
-      "onboard_time": 1696885213,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 19834,
+      "num": 18252,
+      "word": "中央气象台对台风小犬停止编号",
+      "onboard_time": 1696886233,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15170,
