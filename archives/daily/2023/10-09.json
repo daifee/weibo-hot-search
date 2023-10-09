@@ -1,6 +1,6 @@
 {
   "startTime": 1696782003879,
-  "endTime": 1696828571660,
+  "endTime": 1696829651333,
   "band_list": [
     {
       "raw_hot": 4416722,
@@ -59,8 +59,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1807973,
-      "num": 1807973,
+      "raw_hot": 1929069,
+      "num": 1929069,
       "word": "月薪4000的小镇青年背过万的包",
       "onboard_time": 1696825543,
       "rank": 11,
@@ -227,6 +227,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 666248,
+      "num": 258664,
+      "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+      "onboard_time": 1696828959,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 644595,
       "num": 644595,
       "word": "甄嬛传中那些被删除掉戏份",
@@ -257,6 +265,14 @@
       "onboard_time": 1696808971,
       "rank": 7,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 595324,
+      "num": 595324,
+      "word": "2岁宝宝独自在家把自己照顾得很好",
+      "onboard_time": 1696827223,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 593966,
@@ -315,6 +331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 532924,
+      "num": 311882,
+      "word": "吉克隽逸又素颜出镜了",
+      "onboard_time": 1696828126,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532089,
       "num": 532089,
       "word": "王楚钦 头发长了就马上重新剪",
@@ -329,14 +353,6 @@
       "onboard_time": 1696816297,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 501717,
-      "num": 501717,
-      "word": "2岁宝宝独自在家把自己照顾得很好",
-      "onboard_time": 1696827223,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 489410,
@@ -459,6 +475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 388540,
+      "num": 258577,
+      "word": "男子7岁被拐母亲遭人贩子打死",
+      "onboard_time": 1696828899,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384725,
       "num": 384725,
       "word": "豆瓣8分剧还有公信力吗",
@@ -497,6 +521,14 @@
       "onboard_time": 1696816652,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354369,
+      "num": 354369,
+      "word": "入秋三件套",
+      "onboard_time": 1696826025,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 344964,
@@ -553,14 +585,6 @@
       "onboard_time": 1696776637,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 311882,
-      "num": 311882,
-      "word": "吉克隽逸又素颜出镜了",
-      "onboard_time": 1696828126,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 309256,
@@ -635,14 +659,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 298477,
-      "num": 298477,
-      "word": "入秋三件套",
-      "onboard_time": 1696826025,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 291727,
       "num": 291727,
       "word": "沙溢让白敬亭挑一个女主演",
@@ -664,6 +680,14 @@
       "word": "玫瑰故事",
       "onboard_time": 1696824280,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285648,
+      "num": 262411,
+      "word": "罗云熙古装梦回润玉",
+      "onboard_time": 1696829497,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -713,6 +737,14 @@
       "onboard_time": 1696765234,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 268083,
+      "num": 260750,
+      "word": "李昀锐献上高深蛇鳞妆vlog",
+      "onboard_time": 1696828597,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 267879,
@@ -851,6 +883,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 232224,
+      "num": 232224,
+      "word": "老乡鸡0.01元套餐你抢到了吗",
+      "onboard_time": 1696827764,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 230727,
       "num": 230727,
       "word": "基普图姆打破马拉松世界纪录",
@@ -865,6 +905,14 @@
       "onboard_time": 1696766796,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221859,
+      "num": 221859,
+      "word": "张彬彬你被绑架了就眨眨眼",
+      "onboard_time": 1696829017,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 218344,
@@ -889,14 +937,6 @@
       "onboard_time": 1696816413,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 215262,
-      "num": 215262,
-      "word": "老乡鸡0.01元套餐你抢到了吗",
-      "onboard_time": 1696827764,
-      "rank": 34,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 213885,
@@ -1041,6 +1081,14 @@
       "onboard_time": 1696819296,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 190690,
+      "num": 190690,
+      "word": "王玉雯打戏好帅",
+      "onboard_time": 1696828778,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 190572,
