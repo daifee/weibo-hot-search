@@ -1,0 +1,410 @@
+{
+  "runTime": 1696876536967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 241418,
+        "num": 241418,
+        "word": "女子PPT举报前夫婚内出轨博士造假",
+        "onboard_time": 1696861238,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194965,
+        "num": 194965,
+        "word": "逆水寒疑似将同人图融AI",
+        "onboard_time": 1696871600,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14300,
+        "num": 173043,
+        "word": "中国申办亚运时的承诺都做到了",
+        "onboard_time": 1696854094,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 168110,
+        "num": 168110,
+        "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
+        "onboard_time": 1696857159,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112912,
+        "num": 112912,
+        "word": "月薪一万买不起面包",
+        "onboard_time": 1696856379,
+        "rank": 4,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 143772,
+        "num": 111896,
+        "word": "以色列宣布全面封锁加沙地带",
+        "onboard_time": 1696861660,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 106538,
+        "num": 106538,
+        "word": "Z先生到底是谁",
+        "onboard_time": 1696858716,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86773,
+        "num": 86773,
+        "word": "一觉醒来你回到了2001年",
+        "onboard_time": 1696865136,
+        "rank": 7,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 141142,
+        "num": 86607,
+        "word": "以色列炮击黎巴嫩南部地区",
+        "onboard_time": 1696866092,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 82521,
+        "num": 82521,
+        "word": "老两口退休工资1万2被女儿送养老院",
+        "onboard_time": 1696856555,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149811,
+        "num": 79970,
+        "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
+        "onboard_time": 1696858056,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109418,
+        "num": 79269,
+        "word": "素颜的徐娇",
+        "onboard_time": 1696864477,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 75536,
+        "num": 75536,
+        "word": "宫脇咲良发文道歉",
+        "onboard_time": 1696857640,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67410,
+        "num": 67410,
+        "word": "蟹老板的女儿为什么是个抹香鲸",
+        "onboard_time": 1696858716,
+        "rank": 13,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 58984,
+        "num": 58984,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1696866155,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 58874,
+        "num": 58874,
+        "word": "嗯哼甜馨一起郊游",
+        "onboard_time": 1696851037,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50116,
+        "num": 50116,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 49162,
+        "num": 49162,
+        "word": "非自然死亡 翻拍",
+        "onboard_time": 1696845997,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42640,
+        "num": 42640,
+        "word": "于文文 相亲失败的同事不要急",
+        "onboard_time": 1696867773,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39143,
+        "num": 39143,
+        "word": "赵露思晒了童年照",
+        "onboard_time": 1696861784,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105055,
+        "num": 39137,
+        "word": "江歌妈妈直播间来了9万人",
+        "onboard_time": 1696866334,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66394,
+        "num": 39102,
+        "word": "建议1周换1次床上用品",
+        "onboard_time": 1696848935,
+        "rank": 21,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 47250,
+        "num": 39082,
+        "word": "男子暗恋大12岁女同事装监控偷窥",
+        "onboard_time": 1696860160,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39048,
+        "num": 39048,
+        "word": "少年歌行一次性官宣7部",
+        "onboard_time": 1696852657,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 36347,
+        "num": 36347,
+        "word": "张真源 跑男",
+        "onboard_time": 1696854275,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36180,
+        "num": 36180,
+        "word": "范丞丞问孟子义是不是假戏真做",
+        "onboard_time": 1696860459,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33603,
+        "num": 33603,
+        "word": "很难想象广西人的快乐",
+        "onboard_time": 1696869206,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 32218,
+        "num": 32218,
+        "word": "美国同意三星和SK海力士向其中国工厂提供设备",
+        "onboard_time": 1696849595,
+        "rank": 27,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 31148,
+        "num": 31148,
+        "word": "鲁豫首穿马面裙",
+        "onboard_time": 1696850315,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30973,
+        "num": 30973,
+        "word": "金鸡奖官宣",
+        "onboard_time": 1696865496,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49716,
+        "num": 30808,
+        "word": "与Apple高级副总裁Joz的假期对谈",
+        "onboard_time": 1696873098,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 32741,
+        "num": 30772,
+        "word": "音乐和气味是最强大的搜索引擎",
+        "onboard_time": 1696875797,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 30583,
+        "num": 30583,
+        "word": "30年只用平价护肤品的皮肤状态",
+        "onboard_time": 1696851513,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 29752,
+        "num": 29752,
+        "word": "如何谈一段长久的恋爱",
+        "onboard_time": 1696864417,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28744,
+        "num": 28744,
+        "word": "张艺兴与素人的合影",
+        "onboard_time": 1696866579,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27941,
+        "num": 27941,
+        "word": "迪丽热巴巴黎vlog",
+        "onboard_time": 1696862382,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27835,
+        "num": 27835,
+        "word": "魏大勋说不会撕下中戏校服上的胶布",
+        "onboard_time": 1696857033,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26518,
+        "num": 26518,
+        "word": "中国男子水球队主教练去世",
+        "onboard_time": 1696861479,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26460,
+        "num": 26460,
+        "word": "巴以本轮冲突双方伤亡人数已超6000",
+        "onboard_time": 1696852113,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 26183,
+        "num": 26183,
+        "word": "有人自林中坠落",
+        "onboard_time": 1696862983,
+        "rank": 39,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 25773,
+        "num": 25773,
+        "word": "檀健次与爱狗呆球",
+        "onboard_time": 1696862320,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25711,
+        "num": 25711,
+        "word": "这就是总裁的100平米大床吗",
+        "onboard_time": 1696863103,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25379,
+        "num": 25379,
+        "word": "王鹤润曾谈和王鹤棣的关系",
+        "onboard_time": 1696857517,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24315,
+        "num": 25375,
+        "word": "关晓彤微博之夜捂嘴原因",
+        "onboard_time": 1696847258,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23872,
+        "num": 25360,
+        "word": "高铁上出逃了一只螃蟹",
+        "onboard_time": 1696860999,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23764,
+        "num": 25352,
+        "word": "金智秀问是谁说冷的",
+        "onboard_time": 1696864117,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22904,
+        "num": 25337,
+        "word": "考研人有自己的网吧",
+        "onboard_time": 1696857033,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 22368,
+        "num": 25332,
+        "word": "IVE回归预告照",
+        "onboard_time": 1696862800,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 21865,
+        "num": 25318,
+        "word": "新华社记者直击巴以冲突最新情况",
+        "onboard_time": 1696869745,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 21533,
+        "num": 25297,
+        "word": "浙江的山还能这样爬吗",
+        "onboard_time": 1696876516,
+        "rank": 49,
+        "category": "旅游"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国工会第十八次全国代表大会在京开幕#"
+    }
+  }
+}
