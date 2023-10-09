@@ -1,0 +1,410 @@
+{
+  "runTime": 1696835796652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1734021,
+        "num": 1734021,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1575229,
+        "num": 1575229,
+        "word": "老乡鸡发文道歉",
+        "onboard_time": 1696829916,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31493,
+        "num": 1363828,
+        "word": "8张图回顾亚运会赛场难忘瞬间",
+        "onboard_time": 1696819658,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 1310964,
+        "num": 1310964,
+        "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+        "onboard_time": 1696828959,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1041196,
+        "num": 1041196,
+        "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+        "onboard_time": 1696832735,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 597842,
+        "num": 597842,
+        "word": "哈马斯宣称停火不可能",
+        "onboard_time": 1696830396,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 590320,
+        "num": 590320,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 585747,
+        "num": 585747,
+        "word": "狐妖小红娘 中年古偶",
+        "onboard_time": 1696822539,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 545981,
+        "num": 545981,
+        "word": "爱格停刊",
+        "onboard_time": 1696825969,
+        "rank": 8,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 504877,
+        "num": 504877,
+        "word": "很多人发现肿瘤时已经是中晚期",
+        "onboard_time": 1696817494,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1611928,
+        "num": 504575,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567236,
+        "num": 501969,
+        "word": "男子7岁被拐母亲遭人贩子打死",
+        "onboard_time": 1696828899,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 537917,
+        "num": 500825,
+        "word": "被清退的编外人员如何过难关",
+        "onboard_time": 1696834056,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360449,
+        "num": 497968,
+        "word": "日本地震多地观测到海啸",
+        "onboard_time": 1696833755,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 245654,
+        "num": 495941,
+        "word": "李晓鹏被双开",
+        "onboard_time": 1696819054,
+        "rank": 14,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 495241,
+        "num": 495241,
+        "word": "郭敬明连续两天发了侯明昊",
+        "onboard_time": 1696832615,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458956,
+        "num": 458956,
+        "word": "丞磊卢昱晓cos尼克朱迪",
+        "onboard_time": 1696831418,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445453,
+        "num": 445453,
+        "word": "近1000只鸟集体撞向一栋大楼后死亡",
+        "onboard_time": 1696817194,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397972,
+        "num": 397972,
+        "word": "瑞幸 猫和老鼠",
+        "onboard_time": 1696814796,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 370461,
+        "num": 370461,
+        "word": "肖战粉丝小飞侠32城公益",
+        "onboard_time": 1696829978,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 391922,
+        "num": 347041,
+        "word": "云南发现1.4公斤重大鸡枞",
+        "onboard_time": 1696830995,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308691,
+        "num": 308691,
+        "word": "2023全球总决赛",
+        "onboard_time": 1696831057,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 290198,
+        "num": 290198,
+        "word": "张小斐机场美拉德穿搭",
+        "onboard_time": 1696834232,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 267573,
+        "num": 267573,
+        "word": "中学连续3年用骨汤取代味精做菜",
+        "onboard_time": 1696835255,
+        "rank": 23,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 254448,
+        "num": 254448,
+        "word": "订婚买三金时我妈也想要",
+        "onboard_time": 1696822057,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 237600,
+        "num": 237600,
+        "word": "谁给赵今麦画的卧蚕",
+        "onboard_time": 1696835194,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233152,
+        "num": 233152,
+        "word": "2岁宝宝独自在家把自己照顾得很好",
+        "onboard_time": 1696827223,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229635,
+        "num": 229635,
+        "word": "谁教你这么起WiFi名的",
+        "onboard_time": 1696830755,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217753,
+        "num": 217753,
+        "word": "欧阳娜娜超过十年的好朋友",
+        "onboard_time": 1696833995,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212434,
+        "num": 212434,
+        "word": "罗云熙古装梦回润玉",
+        "onboard_time": 1696829497,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205018,
+        "num": 205018,
+        "word": "狗狗叫声让主人当街社死",
+        "onboard_time": 1696832134,
+        "rank": 30,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 199432,
+        "num": 199432,
+        "word": "英雄联盟S13",
+        "onboard_time": 1696834356,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 196731,
+        "num": 196731,
+        "word": "gidle出发长沙签售",
+        "onboard_time": 1696831596,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190653,
+        "num": 190653,
+        "word": "蔡文静或将录制跑男特别季",
+        "onboard_time": 1696832196,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180674,
+        "num": 180674,
+        "word": "入秋三件套",
+        "onboard_time": 1696826025,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172537,
+        "num": 172537,
+        "word": "知名潜水员下水后失联30余小时",
+        "onboard_time": 1696830275,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168578,
+        "num": 168578,
+        "word": "11岁女孩将狗偷走掰断其牙齿舌头",
+        "onboard_time": 1696817494,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161807,
+        "num": 161807,
+        "word": "以色列大使馆",
+        "onboard_time": 1696817920,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 160838,
+        "num": 160838,
+        "word": "高铁上打开妈妈烧的饭直接泪崩",
+        "onboard_time": 1696832134,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153652,
+        "num": 153652,
+        "word": "杨幂费加罗十月刊封面大片",
+        "onboard_time": 1696831956,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 149474,
+        "num": 149474,
+        "word": "张元英的下垂眼",
+        "onboard_time": 1696818032,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145347,
+        "num": 145347,
+        "word": "夜色尚浅",
+        "onboard_time": 1696830516,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144384,
+        "num": 144384,
+        "word": "丑衣服的受众是大一的我",
+        "onboard_time": 1696822600,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137722,
+        "num": 137722,
+        "word": "薛之谦天津抢票",
+        "onboard_time": 1696830634,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135570,
+        "num": 135570,
+        "word": "刘雯反应能力好牛",
+        "onboard_time": 1696824821,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132783,
+        "num": 132783,
+        "word": "妻子过生日丈夫偷偷买回6000元手机",
+        "onboard_time": 1696818094,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132358,
+        "num": 132358,
+        "word": "海豚伴航海警舰艇降速护送",
+        "onboard_time": 1696835613,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 132048,
+        "num": 132048,
+        "word": "西工大仿生飞行器破世界纪录",
+        "onboard_time": 1696834476,
+        "rank": 47,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 127822,
+        "num": 127822,
+        "word": "第一批旅游发毒誓的00后已经决裂了",
+        "onboard_time": 1696827639,
+        "rank": 48,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 121285,
+        "num": 121285,
+        "word": "BDS晋级S13入围赛",
+        "onboard_time": 1696833874,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宣传思想文化工作作出重要指示#"
+    }
+  }
+}
