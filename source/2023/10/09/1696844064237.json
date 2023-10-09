@@ -1,0 +1,410 @@
+{
+  "runTime": 1696844064237,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1770921,
+        "num": 1770921,
+        "word": "霍启刚抱着郭晶晶的亚运火炬离开杭州",
+        "onboard_time": 1696841915,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1306663,
+        "num": 1306663,
+        "word": "微信内存从126G到75G",
+        "onboard_time": 1696833755,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 70860,
+        "num": 826508,
+        "word": "杭州亚运的50个珍贵瞬间",
+        "onboard_time": 1696840776,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 812516,
+        "num": 812516,
+        "word": "博主称旅游订不到房可挂急诊过夜",
+        "onboard_time": 1696837776,
+        "rank": 3,
+        "category": "旅游,社会新闻"
+      },
+      {
+        "raw_hot": 652674,
+        "num": 652674,
+        "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+        "onboard_time": 1696832735,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 612114,
+        "num": 612114,
+        "word": "侯明昊 智性恋",
+        "onboard_time": 1696836994,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 586909,
+        "num": 586909,
+        "word": "王俊凯任第七届平遥影展特约策展人",
+        "onboard_time": 1696840899,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 577948,
+        "num": 577948,
+        "word": "在以色列华人中至少3人中弹4人失联",
+        "onboard_time": 1696838916,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 533948,
+        "num": 533948,
+        "word": "梅西又要来中国了",
+        "onboard_time": 1696840175,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499034,
+        "num": 532379,
+        "word": "PENTAGON五位成员离开CUBE",
+        "onboard_time": 1696841733,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1165422,
+        "num": 531390,
+        "word": "巴勒斯坦",
+        "onboard_time": 1696839274,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 927475,
+        "num": 528369,
+        "word": "我做好您的相 您做您的将",
+        "onboard_time": 1696841615,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302990,
+        "num": 526945,
+        "word": "手机钉子户不钉了",
+        "onboard_time": 1696838376,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 230599,
+        "num": 524013,
+        "word": "今天这束花必须归我姐",
+        "onboard_time": 1696842812,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158246,
+        "num": 523484,
+        "word": "日本地震多地观测到海啸",
+        "onboard_time": 1696833755,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 787903,
+        "num": 521763,
+        "word": "李思思从央视离职",
+        "onboard_time": 1696824762,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520037,
+        "num": 520037,
+        "word": "刘宇宁 大学生盘串现状",
+        "onboard_time": 1696838556,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 499100,
+        "num": 499100,
+        "word": "我那190的甜妹爱豆",
+        "onboard_time": 1696841558,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 461561,
+        "num": 461561,
+        "word": "关晓彤把孟子义理想型身高看成1米63",
+        "onboard_time": 1696842215,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424172,
+        "num": 424172,
+        "word": "月薪多少可以买过万元的包包",
+        "onboard_time": 1696840833,
+        "rank": 19,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 414591,
+        "num": 414591,
+        "word": "蓝盈莹 浣碧最爱的两个男人都在身边了",
+        "onboard_time": 1696828959,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412591,
+        "num": 412591,
+        "word": "狐妖小红娘 中年古偶",
+        "onboard_time": 1696822539,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360731,
+        "num": 360731,
+        "word": "小伙扶起摔倒老人又折返帮叫家人",
+        "onboard_time": 1696842933,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322590,
+        "num": 322590,
+        "word": "哈马斯",
+        "onboard_time": 1696841194,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 310162,
+        "num": 310162,
+        "word": "三面环海不打渔村民搞旅游2个月赚10万",
+        "onboard_time": 1696843595,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292025,
+        "num": 292025,
+        "word": "老乡鸡发文道歉",
+        "onboard_time": 1696829916,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274306,
+        "num": 274306,
+        "word": "近1000只鸟集体撞向一栋大楼后死亡",
+        "onboard_time": 1696817194,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271622,
+        "num": 271622,
+        "word": "TFBOYS为王俊凯特约策展人打call",
+        "onboard_time": 1696843656,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266636,
+        "num": 266636,
+        "word": "田嘉瑞不愧是山东尖子生",
+        "onboard_time": 1696840474,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 261337,
+        "num": 261337,
+        "word": "老乡鸡免费吃饭的意义",
+        "onboard_time": 1696838074,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260989,
+        "num": 260989,
+        "word": "中方第一时间启动领事保护应急机制",
+        "onboard_time": 1696842635,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 249341,
+        "num": 249341,
+        "word": "27岁小伙对异性无感竟因大脑长了瘤",
+        "onboard_time": 1696843415,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235271,
+        "num": 235271,
+        "word": "螺蛳粉肉蟹煲",
+        "onboard_time": 1696840117,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214576,
+        "num": 214576,
+        "word": "月薪4000的小镇青年背过万的包",
+        "onboard_time": 1696825543,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207830,
+        "num": 207830,
+        "word": "网友新加坡偶遇潘玮柏夫妇",
+        "onboard_time": 1696840955,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1035601,
+        "num": 207103,
+        "word": "被清退的编外人员如何过难关",
+        "onboard_time": 1696834056,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201260,
+        "num": 201260,
+        "word": "薛之谦天津抢票",
+        "onboard_time": 1696830634,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198238,
+        "num": 198238,
+        "word": "谁给赵今麦画的卧蚕",
+        "onboard_time": 1696835194,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197719,
+        "num": 197719,
+        "word": "男子7岁被拐母亲遭人贩子打死",
+        "onboard_time": 1696828899,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179501,
+        "num": 179501,
+        "word": "巴以冲突已致上千人死亡",
+        "onboard_time": 1696839336,
+        "rank": 39,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 176028,
+        "num": 176028,
+        "word": "WTT法兰克福冠军赛2023",
+        "onboard_time": 1696841497,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173432,
+        "num": 173432,
+        "word": "原神4.1",
+        "onboard_time": 1696843235,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 169588,
+        "num": 169588,
+        "word": "国乒WTT法兰克福冠军赛名单",
+        "onboard_time": 1696843117,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169335,
+        "num": 169335,
+        "word": "中学连续3年用骨汤取代味精做菜",
+        "onboard_time": 1696835255,
+        "rank": 43,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 163749,
+        "num": 163749,
+        "word": "郑恺自掏腰包帮新浪员工相亲",
+        "onboard_time": 1696839815,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158650,
+        "num": 158650,
+        "word": "云南发现1.4公斤重大鸡枞",
+        "onboard_time": 1696830995,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153996,
+        "num": 153996,
+        "word": "卢昱晓等饭版Lulu",
+        "onboard_time": 1696842996,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147818,
+        "num": 147818,
+        "word": "2岁宝宝独自在家把自己照顾得很好",
+        "onboard_time": 1696827223,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147604,
+        "num": 147604,
+        "word": "警方回应黄石当街发生锤人致死事件",
+        "onboard_time": 1696843894,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138547,
+        "num": 138547,
+        "word": "于文文在芒果上签名",
+        "onboard_time": 1696839454,
+        "rank": 49,
+        "category": "电影,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平对宣传思想文化工作作出重要指示#"
+    }
+  }
+}
