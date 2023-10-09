@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696836854509,
+  "endTime": 1696839786414,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1954001,
+      "num": 1954001,
+      "word": "微信内存从126G到75G",
+      "onboard_time": 1696833755,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1953190,
       "num": 1953190,
       "word": "老乡鸡发文道歉",
       "onboard_time": 1696829916,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1931707,
-      "num": 1931707,
-      "word": "微信内存从126G到75G",
-      "onboard_time": 1696833755,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1929069,
@@ -419,20 +419,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1244759,
+      "num": 1244759,
+      "word": "胡兵因为妈妈意识到人生需要发生一个变革",
+      "onboard_time": 1696832735,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1224555,
       "num": 1083162,
       "word": "以色列正式向哈马斯宣战",
       "onboard_time": 1696772262,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1194072,
-      "num": 1194072,
-      "word": "胡兵因为妈妈意识到人生需要发生一个变革",
-      "onboard_time": 1696832735,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 1192625,
@@ -579,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 995877,
+      "num": 938943,
+      "word": "被清退的编外人员如何过难关",
+      "onboard_time": 1696834056,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 988948,
       "num": 988948,
       "word": "王楚钦3比0林高远",
@@ -600,14 +608,6 @@
       "word": "女司机撞倒行人用卫生巾帮止血",
       "onboard_time": 1696754076,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 938943,
-      "num": 938943,
-      "word": "被清退的编外人员如何过难关",
-      "onboard_time": 1696834056,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -843,6 +843,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 686158,
+      "num": 686158,
+      "word": "侯明昊 智性恋",
+      "onboard_time": 1696836994,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 679146,
       "num": 322922,
       "word": "王楚钦vs马龙",
@@ -1067,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 592621,
+      "num": 475022,
+      "word": "刘宇宁 大学生盘串现状",
+      "onboard_time": 1696838556,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 592010,
       "num": 592010,
       "word": "研究称人造子宫人体试验或很快会启动",
@@ -1091,6 +1107,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 580638,
+      "num": 580638,
+      "word": "老乡鸡免费吃饭的意义",
+      "onboard_time": 1696838074,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577351,
       "num": 577351,
       "word": "母女驾车看外婆回时冲入水塘溺亡",
@@ -1113,6 +1137,14 @@
       "onboard_time": 1696818032,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 571779,
+      "num": 443781,
+      "word": "在以色列华人中至少3人中弹4人失联",
+      "onboard_time": 1696838916,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 569280,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1696729413,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 539627,
+      "num": 539627,
+      "word": "博主称旅游订不到房可挂急诊过夜",
+      "onboard_time": 1696837776,
+      "rank": 8,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 537144,
@@ -1667,6 +1707,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403683,
+      "num": 403683,
+      "word": "张凌赫体重只有130斤",
+      "onboard_time": 1696836214,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403120,
       "num": 280279,
       "word": "第一批旅游发毒誓的00后已经决裂了",
@@ -1793,6 +1841,14 @@
       "onboard_time": 1696739981,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 373011,
+      "num": 373011,
+      "word": "中学连续3年用骨汤取代味精做菜",
+      "onboard_time": 1696835255,
+      "rank": 23,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 366783,
@@ -1923,14 +1979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347976,
-      "num": 347976,
-      "word": "张凌赫体重只有130斤",
-      "onboard_time": 1696836214,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 345864,
       "num": 437583,
       "word": "亚运史上第1块霹雳舞金牌",
@@ -1953,14 +2001,6 @@
       "onboard_time": 1696820077,
       "rank": 21,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 340710,
-      "num": 340710,
-      "word": "中学连续3年用骨汤取代味精做菜",
-      "onboard_time": 1696835255,
-      "rank": 23,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 338646,
@@ -2025,6 +2065,14 @@
       "onboard_time": 1696825662,
       "rank": 27,
       "category": "美食"
+    },
+    {
+      "raw_hot": 334646,
+      "num": 334646,
+      "word": "王者荣耀",
+      "onboard_time": 1696837414,
+      "rank": 20,
+      "category": "游戏"
     },
     {
       "raw_hot": 333154,
@@ -2457,6 +2505,14 @@
       "onboard_time": 1696720525,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275591,
+      "num": 223789,
+      "word": "黄晓明聊我要我觉得热梗前因",
+      "onboard_time": 1696839336,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 275306,
@@ -2923,6 +2979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233580,
+      "num": 233580,
+      "word": "英雄联盟S13",
+      "onboard_time": 1696834356,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 233210,
       "num": 233210,
       "word": "亚运会裁判真实身份是女警",
@@ -2987,6 +3051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224329,
+      "num": 224329,
+      "word": "罗云熙回应古装免检",
+      "onboard_time": 1696838193,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 223892,
       "num": 223892,
       "word": "苏醒还想淘汰蔡国庆",
@@ -3043,20 +3115,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218691,
+      "num": 218691,
+      "word": "欧阳娜娜超过十年的好朋友",
+      "onboard_time": 1696833995,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218344,
       "num": 218344,
       "word": "牛奶包装盒底部的色块是干嘛的",
       "onboard_time": 1696825003,
       "rank": 44,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 217753,
-      "num": 217753,
-      "word": "欧阳娜娜超过十年的好朋友",
-      "onboard_time": 1696833995,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 217361,
@@ -3379,6 +3451,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 200895,
+      "num": 200895,
+      "word": "韩庚 已在新浪相亲事业部整装待发",
+      "onboard_time": 1696837055,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200729,
       "num": 200729,
       "word": "杭州亚运会今天闭幕",
@@ -3417,14 +3497,6 @@
       "onboard_time": 1696721306,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 199432,
-      "num": 199432,
-      "word": "英雄联盟S13",
-      "onboard_time": 1696834356,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 198675,
@@ -3505,6 +3577,14 @@
       "onboard_time": 1696763854,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193803,
+      "num": 193803,
+      "word": "于文文在芒果上签名",
+      "onboard_time": 1696839454,
+      "rank": 36,
+      "category": "电影,幽默"
     },
     {
       "raw_hot": 193526,
@@ -3651,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184636,
+      "num": 184636,
+      "word": "小伙开店做生意先定下3类人永远免费",
+      "onboard_time": 1696837895,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184069,
       "num": 184069,
       "word": "Lana Del Rey把演唱会门票收入捐赠",
@@ -3705,6 +3793,14 @@
       "onboard_time": 1696721609,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 180761,
+      "num": 458321,
+      "word": "西工大仿生飞行器破世界纪录",
+      "onboard_time": 1696834476,
+      "rank": 47,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 180647,
@@ -3787,12 +3883,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176795,
+      "num": 176795,
+      "word": "金玟庭Mamonde缪斯",
+      "onboard_time": 1696838434,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175874,
       "num": 175874,
       "word": "S13赛前垃圾话",
       "onboard_time": 1696750354,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175769,
+      "num": 175769,
+      "word": "MIOS",
+      "onboard_time": 1696836815,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 175240,
+      "num": 175240,
+      "word": "徐璐深V白裙",
+      "onboard_time": 1696838795,
+      "rank": 41,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 174772,
@@ -3899,12 +4019,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166354,
+      "num": 166354,
+      "word": "时之奇旅新皮肤",
+      "onboard_time": 1696836158,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 164947,
+      "num": 164947,
+      "word": "手机钉子户不钉了",
+      "onboard_time": 1696838376,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 164905,
       "num": 164905,
       "word": "霹雳舞决赛放的是热烈主题曲",
       "onboard_time": 1696728215,
       "rank": 40,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 164467,
+      "num": 164467,
+      "word": "巴以冲突已致上千人死亡",
+      "onboard_time": 1696839336,
+      "rank": 46,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 164327,
@@ -3945,14 +4089,6 @@
       "onboard_time": 1696812938,
       "rank": 48,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 161792,
-      "num": 161792,
-      "word": "时之奇旅新皮肤",
-      "onboard_time": 1696836158,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 160884,
@@ -4115,6 +4251,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143774,
+      "num": 143774,
+      "word": "北京地铁1号线变身未来列车",
+      "onboard_time": 1696837298,
+      "rank": 47,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 143708,
+      "num": 137028,
+      "word": "以方称哈马斯扣押的人质中有美国人",
+      "onboard_time": 1696839694,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 142295,
       "num": 142295,
       "word": "金鸡百花电影节将于11月1日至4日举办",
@@ -4203,14 +4355,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 132048,
-      "num": 164414,
-      "word": "西工大仿生飞行器破世界纪录",
-      "onboard_time": 1696834476,
-      "rank": 47,
-      "category": "科技,社会新闻"
-    },
-    {
       "raw_hot": 129445,
       "num": 347944,
       "word": "30年前登上人民日报的女孩续写圆梦故事",
@@ -4281,14 +4425,6 @@
       "onboard_time": 1696771899,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122827,
-      "num": 122827,
-      "word": "MIOS",
-      "onboard_time": 1696836815,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 121285,
