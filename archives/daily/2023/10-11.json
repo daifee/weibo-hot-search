@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696965125263,
+  "endTime": 1696966449680,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -464,6 +464,22 @@
       "word": "问心",
       "onboard_time": 1696942298,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 18373,
+      "num": 18373,
+      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
+      "onboard_time": 1696966214,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14965,
+      "num": 17353,
+      "word": "有生之年",
+      "onboard_time": 1696966033,
+      "rank": 48,
       "category": "剧集"
     }
   ],

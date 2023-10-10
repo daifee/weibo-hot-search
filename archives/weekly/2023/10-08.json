@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696965125263,
+  "endTime": 1696966449680,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -8915,6 +8915,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18373,
+      "num": 18373,
+      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
+      "onboard_time": 1696966214,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 16501,
       "num": 19612,
       "word": "亚运会氛围有多欢乐",
@@ -8937,6 +8945,14 @@
       "onboard_time": 1696881433,
       "rank": 45,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 14965,
+      "num": 17353,
+      "word": "有生之年",
+      "onboard_time": 1696966033,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 13061,
