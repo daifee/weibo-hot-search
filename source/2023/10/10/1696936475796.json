@@ -1,0 +1,410 @@
+{
+  "runTime": 1696936475796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1881905,
+        "num": 1881905,
+        "word": "欧阳娣娣 创5",
+        "onboard_time": 1696931795,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288607,
+        "num": 1808747,
+        "word": "走失32年男子认亲背起妈妈回家",
+        "onboard_time": 1696932815,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125575,
+        "num": 1787403,
+        "word": "马尔代夫第一座跨海大桥是中国造",
+        "onboard_time": 1696929933,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1778290,
+        "num": 1778290,
+        "word": "创5选手撞脸鹿晗关晓彤",
+        "onboard_time": 1696932213,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263946,
+        "num": 1239058,
+        "word": "大熊猫花花迪拜式吃笋",
+        "onboard_time": 1696934438,
+        "rank": 4,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 933324,
+        "num": 933324,
+        "word": "陈楚生老婆说胡兵心态好年轻",
+        "onboard_time": 1696933534,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101267,
+        "num": 778956,
+        "word": "民警熊抱劝阻被骗男子转账",
+        "onboard_time": 1696932155,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 705493,
+        "num": 705493,
+        "word": "17年这天发了真相是假",
+        "onboard_time": 1696934852,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 651966,
+        "num": 651966,
+        "word": "创5 熟人",
+        "onboard_time": 1696925615,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471317,
+        "num": 471317,
+        "word": "63岁老人免费体检后多次手术身亡",
+        "onboard_time": 1696928312,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537147,
+        "num": 468973,
+        "word": "北极鲶鱼",
+        "onboard_time": 1696930414,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 871484,
+        "num": 468642,
+        "word": "终于搞懂五险一金了",
+        "onboard_time": 1696934438,
+        "rank": 11,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 466241,
+        "num": 466241,
+        "word": "每天喝咖啡会导致卵巢囊肿吗",
+        "onboard_time": 1696919915,
+        "rank": 12,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 448101,
+        "num": 448101,
+        "word": "嗑CP 青年女粉丝的创造性情感体验",
+        "onboard_time": 1696934374,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 437960,
+        "num": 437960,
+        "word": "我国芯片领域获重大突破",
+        "onboard_time": 1696928013,
+        "rank": 14,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 385323,
+        "num": 385323,
+        "word": "许昕",
+        "onboard_time": 1696935572,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 374925,
+        "num": 374925,
+        "word": "国足vs越南",
+        "onboard_time": 1696934252,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362330,
+        "num": 362330,
+        "word": "官方通报北极鲶鱼事件",
+        "onboard_time": 1696907913,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335177,
+        "num": 335177,
+        "word": "IVE 好歹毒的美工",
+        "onboard_time": 1696934613,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314737,
+        "num": 314737,
+        "word": "你吃的油很可能早过期了",
+        "onboard_time": 1696928554,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 782452,
+        "num": 314636,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314449,
+        "num": 314449,
+        "word": "邓为仙台有树定妆造型路透",
+        "onboard_time": 1696935932,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292821,
+        "num": 292821,
+        "word": "最走心的婚礼朋友圈邀请",
+        "onboard_time": 1696933056,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 286784,
+        "num": 286784,
+        "word": "二级科员是什么级别",
+        "onboard_time": 1696919794,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278716,
+        "num": 278716,
+        "word": "周杰伦上海",
+        "onboard_time": 1696927414,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 270353,
+        "num": 270353,
+        "word": "北极鲶鱼爷爷曾称老老实实干到退休",
+        "onboard_time": 1696916856,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252664,
+        "num": 252664,
+        "word": "张小斐新片尺度",
+        "onboard_time": 1696936239,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248366,
+        "num": 248366,
+        "word": "油价",
+        "onboard_time": 1696933955,
+        "rank": 27,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 248215,
+        "num": 248215,
+        "word": "新中式馒头为什么没人吃了",
+        "onboard_time": 1696935038,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228727,
+        "num": 228727,
+        "word": "阿扎尔宣布退役",
+        "onboard_time": 1696929875,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 445064,
+        "num": 228128,
+        "word": "以军称发现1500具哈马斯武装人员尸体",
+        "onboard_time": 1696933655,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 263154,
+        "num": 228000,
+        "word": "相亲发生关系男子被控强奸迎反转",
+        "onboard_time": 1696935755,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227519,
+        "num": 227519,
+        "word": "aespa黑裙造型",
+        "onboard_time": 1696932453,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 223982,
+        "num": 223982,
+        "word": "徐怀钰致敬李玟",
+        "onboard_time": 1696936173,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222314,
+        "num": 222314,
+        "word": "S13世界赛首个五杀",
+        "onboard_time": 1696935994,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221078,
+        "num": 221078,
+        "word": "刘亦菲红玫瑰白旗袍",
+        "onboard_time": 1696933534,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217300,
+        "num": 217300,
+        "word": "王玉雯像极了美人鱼",
+        "onboard_time": 1696928852,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216950,
+        "num": 216950,
+        "word": "台媒曝炎亚纶将改名转运",
+        "onboard_time": 1696917455,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202346,
+        "num": 202346,
+        "word": "虞书欣裸色山茶花挂脖上衣",
+        "onboard_time": 1696928432,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193273,
+        "num": 193273,
+        "word": "上学和上班的苦是不一样的",
+        "onboard_time": 1696934613,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191640,
+        "num": 191640,
+        "word": "邓超偷拍孙俪练拳击",
+        "onboard_time": 1696933895,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189699,
+        "num": 189699,
+        "word": "献鱼",
+        "onboard_time": 1696926814,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183343,
+        "num": 183343,
+        "word": "时装周明星高光时刻",
+        "onboard_time": 1696935637,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 184170,
+        "num": 183012,
+        "word": "历史上最著名的天津人叫哪吒",
+        "onboard_time": 1696927174,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 180419,
+        "num": 180419,
+        "word": "创造营2024",
+        "onboard_time": 1696928974,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177944,
+        "num": 177944,
+        "word": "人有三样东西是无法隐瞒的",
+        "onboard_time": 1696931132,
+        "rank": 45,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 176954,
+        "num": 176954,
+        "word": "创5路透",
+        "onboard_time": 1696917939,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176655,
+        "num": 176655,
+        "word": "2023TMA颁奖礼",
+        "onboard_time": 1696918895,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160834,
+        "num": 160834,
+        "word": "TMA直播",
+        "onboard_time": 1696934733,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158954,
+        "num": 158954,
+        "word": "赵丽颖好优雅的美",
+        "onboard_time": 1696931075,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路白皮书#"
+    }
+  }
+}

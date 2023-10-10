@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696934176943,
+  "endTime": 1696936475796,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -211,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 933324,
+      "num": 933324,
+      "word": "陈楚生老婆说胡兵心态好年轻",
+      "onboard_time": 1696933534,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 895071,
       "num": 895071,
       "word": "创5路透",
@@ -225,6 +233,14 @@
       "onboard_time": 1696915181,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 871484,
+      "num": 468642,
+      "word": "终于搞懂五险一金了",
+      "onboard_time": 1696934438,
+      "rank": 11,
+      "category": "知识科普"
     },
     {
       "raw_hot": 858220,
@@ -337,6 +353,14 @@
       "onboard_time": 1696928013,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 705493,
+      "num": 705493,
+      "word": "17年这天发了真相是假",
+      "onboard_time": 1696934852,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 700509,
@@ -627,6 +651,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 448101,
+      "num": 448101,
+      "word": "嗑CP 青年女粉丝的创造性情感体验",
+      "onboard_time": 1696934374,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 446131,
       "num": 446131,
       "word": "王玉雯像极了美人鱼",
@@ -641,6 +673,14 @@
       "onboard_time": 1696907615,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 445064,
+      "num": 228128,
+      "word": "以军称发现1500具哈马斯武装人员尸体",
+      "onboard_time": 1696933655,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 441007,
@@ -692,7 +732,7 @@
     },
     {
       "raw_hot": 419939,
-      "num": 215401,
+      "num": 292821,
       "word": "最走心的婚礼朋友圈邀请",
       "onboard_time": 1696933056,
       "rank": 41,
@@ -745,6 +785,14 @@
       "onboard_time": 1696906294,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 385323,
+      "num": 385323,
+      "word": "许昕",
+      "onboard_time": 1696935572,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 385198,
@@ -803,6 +851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374925,
+      "num": 374925,
+      "word": "国足vs越南",
+      "onboard_time": 1696934252,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 373496,
       "num": 309049,
       "word": "宫脇咲良发文道歉",
@@ -849,6 +905,14 @@
       "onboard_time": 1696910144,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 335177,
+      "num": 335177,
+      "word": "IVE 好歹毒的美工",
+      "onboard_time": 1696934613,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 334335,
@@ -929,6 +993,14 @@
       "onboard_time": 1696915360,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 314449,
+      "num": 314449,
+      "word": "邓为仙台有树定妆造型路透",
+      "onboard_time": 1696935932,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 305551,
@@ -1033,6 +1105,14 @@
       "onboard_time": 1696921356,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288607,
+      "num": 2012285,
+      "word": "走失32年男子认亲背起妈妈回家",
+      "onboard_time": 1696932815,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288302,
@@ -1155,6 +1235,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 263946,
+      "num": 1239058,
+      "word": "大熊猫花花迪拜式吃笋",
+      "onboard_time": 1696934438,
+      "rank": 4,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 263754,
       "num": 242422,
       "word": "金世佳是满35减15吗",
@@ -1169,6 +1257,14 @@
       "onboard_time": 1696911586,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263154,
+      "num": 228000,
+      "word": "相亲发生关系男子被控强奸迎反转",
+      "onboard_time": 1696935755,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262604,
@@ -1259,6 +1355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252664,
+      "num": 252664,
+      "word": "张小斐新片尺度",
+      "onboard_time": 1696936239,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252583,
       "num": 252583,
       "word": "2023TMA颁奖礼",
@@ -1273,6 +1377,22 @@
       "onboard_time": 1696864477,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248366,
+      "num": 248366,
+      "word": "油价",
+      "onboard_time": 1696933955,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 248215,
+      "num": 248215,
+      "word": "新中式馒头为什么没人吃了",
+      "onboard_time": 1696935038,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 244677,
@@ -1467,12 +1587,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223982,
+      "num": 223982,
+      "word": "徐怀钰致敬李玟",
+      "onboard_time": 1696936173,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223709,
       "num": 223709,
       "word": "美国同意三星和SK海力士向其中国工厂提供设备",
       "onboard_time": 1696849595,
       "rank": 22,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 222314,
+      "num": 222314,
+      "word": "S13世界赛首个五杀",
+      "onboard_time": 1696935994,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 218792,
@@ -1507,14 +1643,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 214052,
-      "num": 2012285,
-      "word": "走失32年男子认亲背起妈妈回家",
-      "onboard_time": 1696932815,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213726,
       "num": 213726,
       "word": "聊天的时候反感别人回复什么",
@@ -1537,14 +1665,6 @@
       "onboard_time": 1696908454,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211188,
-      "num": 211188,
-      "word": "以军称发现1500具哈马斯武装人员尸体",
-      "onboard_time": 1696933655,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 210641,
@@ -1699,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194536,
-      "num": 194536,
-      "word": "陈楚生老婆说胡兵心态好年轻",
-      "onboard_time": 1696933534,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193987,
       "num": 193987,
       "word": "终于看到先脱鞋再进门的欧美人",
@@ -1731,6 +1843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193273,
+      "num": 193273,
+      "word": "上学和上班的苦是不一样的",
+      "onboard_time": 1696934613,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193176,
       "num": 193176,
       "word": "李马克选的kpop梦之队",
@@ -1745,6 +1865,14 @@
       "onboard_time": 1696914400,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 191640,
+      "num": 191640,
+      "word": "邓超偷拍孙俪练拳击",
+      "onboard_time": 1696933895,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 190053,
@@ -1803,12 +1931,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 183463,
-      "num": 183463,
-      "word": "邓超偷拍孙俪练拳击",
-      "onboard_time": 1696933895,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 183343,
+      "num": 183343,
+      "word": "时装周明星高光时刻",
+      "onboard_time": 1696935637,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 183243,
@@ -2003,6 +2131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 160834,
+      "num": 160834,
+      "word": "TMA直播",
+      "onboard_time": 1696934733,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157171,
       "num": 157171,
       "word": "不怕人的丹顶鹤 人工孵化",
@@ -2073,14 +2209,6 @@
       "onboard_time": 1696899994,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146733,
-      "num": 146733,
-      "word": "油价",
-      "onboard_time": 1696933955,
-      "rank": 46,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 141937,

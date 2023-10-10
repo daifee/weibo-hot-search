@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696934176943,
+  "endTime": 1696936475796,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -955,6 +955,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 933324,
+      "num": 933324,
+      "word": "陈楚生老婆说胡兵心态好年轻",
+      "onboard_time": 1696933534,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 925719,
       "num": 925719,
       "word": "第一次在古偶见男主送女主莲花",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1696757913,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 871484,
+      "num": 468642,
+      "word": "终于搞懂五险一金了",
+      "onboard_time": 1696934438,
+      "rank": 11,
+      "category": "知识科普"
     },
     {
       "raw_hot": 865922,
@@ -1337,6 +1353,14 @@
       "onboard_time": 1696928013,
       "rank": 21,
       "category": "科技"
+    },
+    {
+      "raw_hot": 705493,
+      "num": 705493,
+      "word": "17年这天发了真相是假",
+      "onboard_time": 1696934852,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 702294,
@@ -2499,6 +2523,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 448101,
+      "num": 448101,
+      "word": "嗑CP 青年女粉丝的创造性情感体验",
+      "onboard_time": 1696934374,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 447791,
       "num": 447791,
       "word": "我们的歌A组合唱在路上",
@@ -2529,6 +2561,14 @@
       "onboard_time": 1696907615,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 445064,
+      "num": 228128,
+      "word": "以军称发现1500具哈马斯武装人员尸体",
+      "onboard_time": 1696933655,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 443716,
@@ -2652,7 +2692,7 @@
     },
     {
       "raw_hot": 419939,
-      "num": 215401,
+      "num": 292821,
       "word": "最走心的婚礼朋友圈邀请",
       "onboard_time": 1696933056,
       "rank": 41,
@@ -2819,6 +2859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 385323,
+      "num": 385323,
+      "word": "许昕",
+      "onboard_time": 1696935572,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 385198,
       "num": 285187,
       "word": "广东真的没有穿衣焦虑",
@@ -2953,6 +3001,14 @@
       "onboard_time": 1696905209,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 374925,
+      "num": 374925,
+      "word": "国足vs越南",
+      "onboard_time": 1696934252,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 373011,
@@ -3283,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335177,
+      "num": 335177,
+      "word": "IVE 好歹毒的美工",
+      "onboard_time": 1696934613,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 335153,
       "num": 335153,
       "word": "爱榴莲和爱牛肉的都沉默了",
@@ -3481,6 +3545,14 @@
       "onboard_time": 1696823739,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 314449,
+      "num": 314449,
+      "word": "邓为仙台有树定妆造型路透",
+      "onboard_time": 1696935932,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 313966,
@@ -3817,6 +3889,14 @@
       "onboard_time": 1696824280,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 288607,
+      "num": 2012285,
+      "word": "走失32年男子认亲背起妈妈回家",
+      "onboard_time": 1696932815,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288515,
@@ -4227,6 +4307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263946,
+      "num": 1239058,
+      "word": "大熊猫花花迪拜式吃笋",
+      "onboard_time": 1696934438,
+      "rank": 4,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 263754,
       "num": 242422,
       "word": "金世佳是满35减15吗",
@@ -4265,6 +4353,14 @@
       "onboard_time": 1696747714,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 263154,
+      "num": 228000,
+      "word": "相亲发生关系男子被控强奸迎反转",
+      "onboard_time": 1696935755,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262604,
@@ -4483,6 +4579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252664,
+      "num": 252664,
+      "word": "张小斐新片尺度",
+      "onboard_time": 1696936239,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252583,
       "num": 252583,
       "word": "2023TMA颁奖礼",
@@ -4585,6 +4689,22 @@
       "onboard_time": 1696839336,
       "rank": 46,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 248366,
+      "num": 248366,
+      "word": "油价",
+      "onboard_time": 1696933955,
+      "rank": 46,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 248215,
+      "num": 248215,
+      "word": "新中式馒头为什么没人吃了",
+      "onboard_time": 1696935038,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 247915,
@@ -5107,6 +5227,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223982,
+      "num": 223982,
+      "word": "徐怀钰致敬李玟",
+      "onboard_time": 1696936173,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223892,
       "num": 223892,
       "word": "苏醒还想淘汰蔡国庆",
@@ -5121,6 +5249,14 @@
       "onboard_time": 1696764513,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222314,
+      "num": 222314,
+      "word": "S13世界赛首个五杀",
+      "onboard_time": 1696935994,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 222295,
@@ -5291,14 +5427,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 214052,
-      "num": 2012285,
-      "word": "走失32年男子认亲背起妈妈回家",
-      "onboard_time": 1696932815,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214032,
       "num": 214032,
       "word": "冯琳气质",
@@ -5369,14 +5497,6 @@
       "onboard_time": 1696908454,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211188,
-      "num": 211188,
-      "word": "以军称发现1500具哈马斯武装人员尸体",
-      "onboard_time": 1696933655,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 211052,
@@ -5939,14 +6059,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 194536,
-      "num": 194536,
-      "word": "陈楚生老婆说胡兵心态好年轻",
-      "onboard_time": 1696933534,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194039,
       "num": 194039,
       "word": "78岁姥爷爬墙为28岁孙女摘柿子",
@@ -5987,6 +6099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 193273,
+      "num": 193273,
+      "word": "上学和上班的苦是不一样的",
+      "onboard_time": 1696934613,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 193176,
       "num": 193176,
       "word": "李马克选的kpop梦之队",
@@ -6017,6 +6137,14 @@
       "onboard_time": 1696819296,
       "rank": 39,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 191640,
+      "num": 191640,
+      "word": "邓超偷拍孙俪练拳击",
+      "onboard_time": 1696933895,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 191232,
@@ -6259,20 +6387,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183463,
-      "num": 183463,
-      "word": "邓超偷拍孙俪练拳击",
-      "onboard_time": 1696933895,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183442,
       "num": 183442,
       "word": "2023挑战者杯抽签结果",
       "onboard_time": 1696770459,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 183343,
+      "num": 183343,
+      "word": "时装周明星高光时刻",
+      "onboard_time": 1696935637,
+      "rank": 42,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 183243,
@@ -6779,6 +6907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160834,
+      "num": 160834,
+      "word": "TMA直播",
+      "onboard_time": 1696934733,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160659,
       "num": 160659,
       "word": "张元英Kitsch直拍",
@@ -7001,14 +7137,6 @@
       "onboard_time": 1696899994,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 146733,
-      "num": 146733,
-      "word": "油价",
-      "onboard_time": 1696933955,
-      "rank": 46,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 146179,
