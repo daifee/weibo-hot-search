@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696901516096,
+  "endTime": 1696904598692,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -385,6 +385,14 @@
       "onboard_time": 1696671995,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2742852,
+      "num": 2742852,
+      "word": "中国驻旧金山总领馆发声",
+      "onboard_time": 1696902871,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2741878,
@@ -953,6 +961,14 @@
       "onboard_time": 1696157373,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 1967643,
+      "num": 1967643,
+      "word": "不明身份人员驾车冲闯中国驻旧金山总领馆",
+      "onboard_time": 1696903831,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1954001,
@@ -2579,6 +2595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1162684,
+      "num": 498696,
+      "word": "黎巴嫩",
+      "onboard_time": 1696897714,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1159610,
       "num": 1159610,
       "word": "8天很短7天很长",
@@ -3033,6 +3057,14 @@
       "onboard_time": 1696756294,
       "rank": 45,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1016869,
+      "num": 297934,
+      "word": "23岁长高了5厘米",
+      "onboard_time": 1696900474,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 1013533,
@@ -3635,14 +3667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 880309,
-      "num": 394099,
-      "word": "黎巴嫩",
-      "onboard_time": 1696897714,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 879295,
       "num": 879295,
       "word": "万渣朝凰 8个男主",
@@ -3825,6 +3849,14 @@
       "onboard_time": 1696174235,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 858220,
+      "num": 754457,
+      "word": "上海一女子到以色列度假遇战乱",
+      "onboard_time": 1696899157,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 857958,
@@ -4025,6 +4057,14 @@
       "onboard_time": 1696567897,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 822132,
+      "num": 822132,
+      "word": "武打演员孟海去世",
+      "onboard_time": 1696902812,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 821759,
@@ -4803,14 +4843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 725695,
-      "num": 297934,
-      "word": "23岁长高了5厘米",
-      "onboard_time": 1696900474,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 723979,
       "num": 555493,
       "word": "莎头",
@@ -5099,6 +5131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 700509,
+      "num": 188083,
+      "word": "一辆汽车撞上中国驻旧金山总领馆一建筑",
+      "onboard_time": 1696901972,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 699856,
       "num": 477171,
       "word": "韩国人疯狂喝咖啡的原因",
@@ -5164,7 +5204,7 @@
     },
     {
       "raw_hot": 693384,
-      "num": 443581,
+      "num": 495674,
       "word": "抑郁症早期4个危险信号",
       "onboard_time": 1696899032,
       "rank": 11,
@@ -6041,14 +6081,6 @@
       "onboard_time": 1696378109,
       "rank": 8,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 611031,
-      "num": 348713,
-      "word": "上海一女子到以色列度假遇战乱",
-      "onboard_time": 1696899157,
-      "rank": 22,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 610212,
@@ -7587,6 +7619,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 500495,
+      "num": 500495,
+      "word": "为有暗香来定档",
+      "onboard_time": 1696901132,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500001,
       "num": 487829,
       "word": "泽连斯基发文声援以色列",
@@ -8443,6 +8483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459428,
+      "num": 459428,
+      "word": "老头衫的受众其实是女高",
+      "onboard_time": 1696901673,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 459254,
       "num": 459254,
       "word": "林俊杰没有一首一千年以后是一样的",
@@ -8649,6 +8697,14 @@
       "onboard_time": 1696164157,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 448294,
+      "num": 316997,
+      "word": "库克回应每年iPhone几乎没太大升级",
+      "onboard_time": 1696899636,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 448181,
@@ -9715,6 +9771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 393871,
+      "num": 393871,
+      "word": "虞书欣白天拍戏晚上练舞",
+      "onboard_time": 1696902511,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393795,
       "num": 525286,
       "word": "反超日本队的最后一棒是谁",
@@ -10051,12 +10115,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 382724,
+      "num": 382724,
+      "word": "我是我们班唯一交学费的人",
+      "onboard_time": 1696901851,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 382341,
       "num": 320733,
       "word": "陈都灵大梦归离",
       "onboard_time": 1696125150,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 382060,
+      "num": 236084,
+      "word": "他居然知道自己跳了多少下",
+      "onboard_time": 1696902571,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 382035,
@@ -12081,14 +12161,6 @@
       "onboard_time": 1696734336,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316997,
-      "num": 316997,
-      "word": "库克回应每年iPhone几乎没太大升级",
-      "onboard_time": 1696899636,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 316967,
@@ -16099,6 +16171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238212,
+      "num": 238212,
+      "word": "文班亚马首秀",
+      "onboard_time": 1696901613,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237919,
       "num": 237919,
       "word": "店员打压我妈被我怼了",
@@ -16145,6 +16225,14 @@
       "onboard_time": 1696892964,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237269,
+      "num": 237269,
+      "word": "手机到底多久换一次最好",
+      "onboard_time": 1696899636,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 237212,
@@ -16401,6 +16489,14 @@
       "onboard_time": 1696324959,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232712,
+      "num": 232712,
+      "word": "轿车侧翻公交司机飞奔跳上车救人",
+      "onboard_time": 1696904311,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232624,
@@ -17067,14 +17163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 222860,
-      "num": 222860,
-      "word": "为有暗香来定档",
-      "onboard_time": 1696901132,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222658,
       "num": 222658,
       "word": "律政杨天真",
@@ -17507,6 +17595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 215896,
+      "num": 396333,
+      "word": "巴以冲突死亡人数升至约1600人",
+      "onboard_time": 1696900714,
+      "rank": 37,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 215707,
       "num": 215707,
       "word": "上班",
@@ -17569,6 +17665,14 @@
       "onboard_time": 1696493732,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215026,
+      "num": 215026,
+      "word": "李汶翰抽搐式哭戏",
+      "onboard_time": 1696902632,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 214838,
@@ -18947,14 +19051,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199877,
-      "num": 199877,
-      "word": "巴以冲突死亡人数升至约1600人",
-      "onboard_time": 1696900714,
-      "rank": 37,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 199825,
       "num": 199825,
       "word": "手指脱皮会影响指纹比对吗",
@@ -19441,14 +19537,6 @@
       "onboard_time": 1696634788,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 194765,
-      "num": 194765,
-      "word": "手机到底多久换一次最好",
-      "onboard_time": 1696899636,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 194728,
@@ -22867,6 +22955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149582,
+      "num": 149582,
+      "word": "男子将亲生儿子以3万元卖掉",
+      "onboard_time": 1696904491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149305,
       "num": 149305,
       "word": "马龙3比0赵胜敏",
@@ -23609,6 +23705,14 @@
       "onboard_time": 1696424559,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135925,
+      "num": 135925,
+      "word": "王传君封面造型 星期五",
+      "onboard_time": 1696903710,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135887,
@@ -25124,7 +25228,7 @@
     },
     {
       "raw_hot": 73924,
-      "num": 1167725,
+      "num": 1500632,
       "word": "中国申办亚运时的承诺都做到了",
       "onboard_time": 1696854094,
       "rank": 2,
@@ -25617,6 +25721,14 @@
       "onboard_time": 1696586440,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47233,
+      "num": 188417,
+      "word": "一场二十年的长跑",
+      "onboard_time": 1696903233,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47212,

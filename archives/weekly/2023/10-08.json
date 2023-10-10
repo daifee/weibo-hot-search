@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696901516096,
+  "endTime": 1696904598692,
   "band_list": [
     {
       "raw_hot": 6984632,
@@ -65,6 +65,14 @@
       "onboard_time": 1696814796,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2742852,
+      "num": 2742852,
+      "word": "中国驻旧金山总领馆发声",
+      "onboard_time": 1696902871,
+      "rank": 0,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2741878,
@@ -209,6 +217,14 @@
       "onboard_time": 1696725698,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1967643,
+      "num": 1967643,
+      "word": "不明身份人员驾车冲闯中国驻旧金山总领馆",
+      "onboard_time": 1696903831,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1954001,
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1162684,
+      "num": 498696,
+      "word": "黎巴嫩",
+      "onboard_time": 1696897714,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1152816,
       "num": 1152816,
       "word": "王楚钦重返男单世界第一",
@@ -715,6 +739,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1016869,
+      "num": 297934,
+      "word": "23岁长高了5厘米",
+      "onboard_time": 1696900474,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1009413,
       "num": 509651,
       "word": "宫脇咲良发文道歉",
@@ -811,14 +843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 880309,
-      "num": 394099,
-      "word": "黎巴嫩",
-      "onboard_time": 1696897714,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 871891,
       "num": 871891,
       "word": "以色列建国史",
@@ -835,6 +859,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 858220,
+      "num": 754457,
+      "word": "上海一女子到以色列度假遇战乱",
+      "onboard_time": 1696899157,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 857743,
       "num": 451242,
       "word": "体育总局副局长点名批评男篮",
@@ -848,6 +880,14 @@
       "word": "奚梦瑶晒何猷君的半永久队服皮肤",
       "onboard_time": 1696854515,
       "rank": 8,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 822132,
+      "num": 822132,
+      "word": "武打演员孟海去世",
+      "onboard_time": 1696902812,
+      "rank": 4,
       "category": "艺人"
     },
     {
@@ -1067,14 +1107,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 725695,
-      "num": 297934,
-      "word": "23岁长高了5厘米",
-      "onboard_time": 1696900474,
-      "rank": 20,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 711042,
       "num": 442130,
       "word": "彩票中了100万后的12小时",
@@ -1107,8 +1139,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 700509,
+      "num": 188083,
+      "word": "一辆汽车撞上中国驻旧金山总领馆一建筑",
+      "onboard_time": 1696901972,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 693384,
-      "num": 443581,
+      "num": 495674,
       "word": "抑郁症早期4个危险信号",
       "onboard_time": 1696899032,
       "rank": 11,
@@ -1385,14 +1425,6 @@
       "onboard_time": 1696774180,
       "rank": 12,
       "category": "艺人,美妆"
-    },
-    {
-      "raw_hot": 611031,
-      "num": 348713,
-      "word": "上海一女子到以色列度假遇战乱",
-      "onboard_time": 1696899157,
-      "rank": 22,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 607378,
@@ -1787,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500495,
+      "num": 500495,
+      "word": "为有暗香来定档",
+      "onboard_time": 1696901132,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 500001,
       "num": 487829,
       "word": "泽连斯基发文声援以色列",
@@ -1995,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459428,
+      "num": 459428,
+      "word": "老头衫的受众其实是女高",
+      "onboard_time": 1696901673,
+      "rank": 12,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 459254,
       "num": 459254,
       "word": "林俊杰没有一首一千年以后是一样的",
@@ -2057,6 +2105,14 @@
       "onboard_time": 1696743516,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 448294,
+      "num": 316997,
+      "word": "库克回应每年iPhone几乎没太大升级",
+      "onboard_time": 1696899636,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 448181,
@@ -2291,6 +2347,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 393871,
+      "num": 393871,
+      "word": "虞书欣白天拍戏晚上练舞",
+      "onboard_time": 1696902511,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390813,
       "num": 366888,
       "word": "清华本硕博放弃北京中产去往非洲",
@@ -2345,6 +2409,22 @@
       "onboard_time": 1696813418,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 382724,
+      "num": 382724,
+      "word": "我是我们班唯一交学费的人",
+      "onboard_time": 1696901851,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 382060,
+      "num": 236084,
+      "word": "他居然知道自己跳了多少下",
+      "onboard_time": 1696902571,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 382035,
@@ -2825,14 +2905,6 @@
       "onboard_time": 1696734336,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316997,
-      "num": 316997,
-      "word": "库克回应每年iPhone几乎没太大升级",
-      "onboard_time": 1696899636,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 316590,
@@ -3859,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238212,
+      "num": 238212,
+      "word": "文班亚马首秀",
+      "onboard_time": 1696901613,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237560,
       "num": 237560,
       "word": "林家栋重返TVB",
@@ -3881,6 +3961,14 @@
       "onboard_time": 1696892964,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237269,
+      "num": 237269,
+      "word": "手机到底多久换一次最好",
+      "onboard_time": 1696899636,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 237212,
@@ -3961,6 +4049,14 @@
       "onboard_time": 1696754015,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232712,
+      "num": 232712,
+      "word": "轿车侧翻公交司机飞奔跳上车救人",
+      "onboard_time": 1696904311,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232548,
@@ -4081,14 +4177,6 @@
       "onboard_time": 1696726956,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 222860,
-      "num": 222860,
-      "word": "为有暗香来定档",
-      "onboard_time": 1696901132,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 222655,
@@ -4227,11 +4315,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 215896,
+      "num": 396333,
+      "word": "巴以冲突死亡人数升至约1600人",
+      "onboard_time": 1696900714,
+      "rank": 37,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 215281,
       "num": 215281,
       "word": "侯明昊头发竟然没有散下来",
       "onboard_time": 1696725097,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 215026,
+      "num": 215026,
+      "word": "李汶翰抽搐式哭戏",
+      "onboard_time": 1696902632,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -4635,14 +4739,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 199877,
-      "num": 199877,
-      "word": "巴以冲突死亡人数升至约1600人",
-      "onboard_time": 1696900714,
-      "rank": 37,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 199549,
       "num": 199549,
       "word": "时装周最出圈明星前十",
@@ -4753,14 +4849,6 @@
       "onboard_time": 1696808852,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 194765,
-      "num": 194765,
-      "word": "手机到底多久换一次最好",
-      "onboard_time": 1696899636,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 194537,
@@ -5595,6 +5683,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 149582,
+      "num": 149582,
+      "word": "男子将亲生儿子以3万元卖掉",
+      "onboard_time": 1696904491,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148057,
       "num": 148057,
       "word": "第36届中国电影金鸡奖提名名单",
@@ -5721,6 +5817,14 @@
       "onboard_time": 1696821937,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 135925,
+      "num": 135925,
+      "word": "王传君封面造型 星期五",
+      "onboard_time": 1696903710,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 135697,
@@ -6212,7 +6316,7 @@
     },
     {
       "raw_hot": 73924,
-      "num": 1167725,
+      "num": 1500632,
       "word": "中国申办亚运时的承诺都做到了",
       "onboard_time": 1696854094,
       "rank": 2,
@@ -6401,6 +6505,14 @@
       "onboard_time": 1696701800,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47233,
+      "num": 188417,
+      "word": "一场二十年的长跑",
+      "onboard_time": 1696903233,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 45968,
