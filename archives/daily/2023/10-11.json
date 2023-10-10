@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696976156695,
+  "endTime": 1696977250662,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -243,6 +243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195780,
+      "num": 195780,
+      "word": "动车卫生间里居然长了眼",
+      "onboard_time": 1696943797,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185831,
       "num": 185831,
       "word": "董宇辉 知识越丰富的人越谦虚",
@@ -289,14 +297,6 @@
       "onboard_time": 1696947221,
       "rank": 35,
       "category": "音乐,时尚"
-    },
-    {
-      "raw_hot": 139009,
-      "num": 139009,
-      "word": "动车卫生间里居然长了眼",
-      "onboard_time": 1696943797,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133149,
@@ -403,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62857,
+      "num": 62857,
+      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
+      "onboard_time": 1696966214,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 60374,
       "num": 60374,
       "word": "职场里别陷入打工心态",
@@ -427,6 +435,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55563,
+      "num": 47915,
+      "word": "来自189金世佳盖帽压迫感",
+      "onboard_time": 1696975636,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 53486,
+      "num": 53486,
+      "word": "刘学义林允或将演春花厌",
+      "onboard_time": 1696975756,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 53277,
+      "num": 53277,
+      "word": "因为男友家有果园所以决定嫁了",
+      "onboard_time": 1696970534,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48615,
       "num": 44244,
       "word": "美发圈没人敢说的秘密被抖出来了",
@@ -441,30 +473,6 @@
       "onboard_time": 1696944760,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 41178,
-      "num": 34106,
-      "word": "刘学义林允或将演春花厌",
-      "onboard_time": 1696975756,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 40779,
-      "num": 40779,
-      "word": "因为男友家有果园所以决定嫁了",
-      "onboard_time": 1696970534,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 40600,
-      "num": 40600,
-      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
-      "onboard_time": 1696966214,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39178,
@@ -483,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33948,
+      "num": 33948,
+      "word": "近5年时间记录100种花开瞬间",
+      "onboard_time": 1696972033,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 28195,
       "num": 44248,
       "word": "问心",
@@ -491,28 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 25658,
-      "num": 25658,
-      "word": "近5年时间记录100种花开瞬间",
-      "onboard_time": 1696972033,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 23780,
-      "num": 23780,
+      "raw_hot": 27921,
+      "num": 27921,
       "word": "中医治病非常灵活",
       "onboard_time": 1696974193,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 22908,
-      "num": 22908,
-      "word": "来自189金世佳盖帽压迫感",
-      "onboard_time": 1696975636,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 14965,
