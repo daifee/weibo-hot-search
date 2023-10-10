@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696966449680,
+  "endTime": 1696968946345,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -8811,6 +8811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 40600,
+      "num": 40600,
+      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
+      "onboard_time": 1696966214,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 36831,
       "num": 450305,
       "word": "看见中国力量",
@@ -8915,14 +8923,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 18373,
-      "num": 18373,
-      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
-      "onboard_time": 1696966214,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 16501,
       "num": 19612,
       "word": "亚运会氛围有多欢乐",
@@ -8985,6 +8985,14 @@
       "onboard_time": 1696883653,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 11621,
+      "num": 12606,
+      "word": "TMA穿彩色是不是犯法",
+      "onboard_time": 1696968913,
+      "rank": 49,
+      "category": "音乐,时尚"
     }
   ],
   "hotgov_list": [
