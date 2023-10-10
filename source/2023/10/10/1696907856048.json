@@ -1,0 +1,410 @@
+{
+  "runTime": 1696907856048,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3442119,
+        "num": 3442119,
+        "word": "冲闯中国总领馆男子被击毙",
+        "onboard_time": 1696906054,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2487399,
+        "num": 2487399,
+        "word": "不明身份人员驾车冲闯中国驻旧金山总领馆",
+        "onboard_time": 1696903831,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 48151,
+        "num": 1327453,
+        "word": "中国申办亚运时的承诺都做到了",
+        "onboard_time": 1696854094,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 915720,
+        "num": 915720,
+        "word": "中国驻旧金山总领馆发声",
+        "onboard_time": 1696902871,
+        "rank": 3,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 673925,
+        "num": 673925,
+        "word": "武打演员孟海去世",
+        "onboard_time": 1696902812,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 851479,
+        "num": 669363,
+        "word": "上海一女子到以色列度假遇战乱",
+        "onboard_time": 1696899157,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 641940,
+        "num": 641940,
+        "word": "从体制内离职的人现在怎么样了",
+        "onboard_time": 1696892903,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617919,
+        "num": 617919,
+        "word": "周也恶女妆造",
+        "onboard_time": 1696904790,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370154,
+        "num": 370154,
+        "word": "陈奕迅成都演唱会连开6场",
+        "onboard_time": 1696905631,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 365024,
+        "num": 365024,
+        "word": "女子PPT举报前夫婚内出轨博士造假",
+        "onboard_time": 1696861238,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444725,
+        "num": 363858,
+        "word": "网传GQ盛典出席明星",
+        "onboard_time": 1696906111,
+        "rank": 10,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 434218,
+        "num": 343347,
+        "word": "老头衫的受众其实是女高",
+        "onboard_time": 1696901673,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 396181,
+        "num": 324049,
+        "word": "王楚钦孙颖莎顶峰相见",
+        "onboard_time": 1696905274,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 372106,
+        "num": 318123,
+        "word": "杨鸣担任辽宁益胜总裁兼总教练",
+        "onboard_time": 1696907134,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 308718,
+        "num": 308718,
+        "word": "我是我们班唯一交学费的人",
+        "onboard_time": 1696901851,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 291886,
+        "num": 291886,
+        "word": "广州队主力球员月薪仅1万5",
+        "onboard_time": 1696906473,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 290867,
+        "num": 290867,
+        "word": "黎巴嫩真主党袭击以军军营",
+        "onboard_time": 1696906532,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 289059,
+        "num": 289059,
+        "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
+        "onboard_time": 1696858056,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 286356,
+        "num": 286356,
+        "word": "虞书欣白天拍戏晚上练舞",
+        "onboard_time": 1696902511,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259977,
+        "num": 259977,
+        "word": "王鹤润曾谈和王鹤棣的关系",
+        "onboard_time": 1696857517,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80554,
+        "num": 259444,
+        "word": "给宠物拍证件照有多上头",
+        "onboard_time": 1696906054,
+        "rank": 20,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 715150,
+        "num": 258688,
+        "word": "医生提醒洗澡时不要清理肚脐眼",
+        "onboard_time": 1696904733,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 670263,
+        "num": 258298,
+        "word": "23岁长高了5厘米",
+        "onboard_time": 1696900474,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 581498,
+        "num": 257456,
+        "word": "男子将亲生儿子以3万元卖掉",
+        "onboard_time": 1696904491,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391849,
+        "num": 256614,
+        "word": "跟我妈说研究生综测最后一名时",
+        "onboard_time": 1696906294,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375569,
+        "num": 256169,
+        "word": "谭松韵新片演闫妮吴京女儿",
+        "onboard_time": 1696905209,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296086,
+        "num": 254910,
+        "word": "库克回应每年iPhone几乎没太大升级",
+        "onboard_time": 1696899636,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 269158,
+        "num": 254580,
+        "word": "母亲瘫痪多年经儿子照顾站了起来",
+        "onboard_time": 1696906652,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254086,
+        "num": 254086,
+        "word": "因为一杯十块钱的奶茶吵架了",
+        "onboard_time": 1696898558,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 251463,
+        "num": 251463,
+        "word": "抑郁症早期4个危险信号",
+        "onboard_time": 1696899032,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241119,
+        "num": 241119,
+        "word": "黎巴嫩",
+        "onboard_time": 1696897714,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 236204,
+        "num": 236204,
+        "word": "婚礼的17.5万都花在了哪里",
+        "onboard_time": 1696896932,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228152,
+        "num": 228152,
+        "word": "朱一龙说我奔着一条过演的",
+        "onboard_time": 1696907495,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226231,
+        "num": 226231,
+        "word": "以色列",
+        "onboard_time": 1696898615,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 216990,
+        "num": 216990,
+        "word": "男生在1300度高温下做出一朵牡丹花",
+        "onboard_time": 1696904972,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211199,
+        "num": 211199,
+        "word": "哪吒2要来了",
+        "onboard_time": 1696895071,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209173,
+        "num": 209173,
+        "word": "为有暗香来定档",
+        "onboard_time": 1696901132,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207487,
+        "num": 207487,
+        "word": "大熊猫香香看起来是只文静小熊",
+        "onboard_time": 1696906833,
+        "rank": 37,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 206769,
+        "num": 206769,
+        "word": "以色列宣布全面封锁加沙地带",
+        "onboard_time": 1696861660,
+        "rank": 38,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 206647,
+        "num": 206647,
+        "word": "王楚钦重返男单世界第一",
+        "onboard_time": 1696898677,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202044,
+        "num": 202044,
+        "word": "毛不易的微博真的很治愈",
+        "onboard_time": 1696907432,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54343,
+        "num": 201401,
+        "word": "张柏芝美得毫不费力",
+        "onboard_time": 1696907673,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 200760,
+        "num": 200760,
+        "word": "张小斐新片在黑化边缘反复试探",
+        "onboard_time": 1696907673,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197872,
+        "num": 197872,
+        "word": "陈牧驰高中的照片",
+        "onboard_time": 1696907615,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 197563,
+        "num": 197563,
+        "word": "他居然知道自己跳了多少下",
+        "onboard_time": 1696902571,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196085,
+        "num": 196085,
+        "word": "关晓彤抬眸杀",
+        "onboard_time": 1696904913,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191340,
+        "num": 191340,
+        "word": "杜兆才被逮捕",
+        "onboard_time": 1696905152,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190140,
+        "num": 190140,
+        "word": "江歌妈妈直播间来了9万人",
+        "onboard_time": 1696866334,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182886,
+        "num": 182886,
+        "word": "薛之谦香港站",
+        "onboard_time": 1696905933,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181405,
+        "num": 181405,
+        "word": "美国正加速向以色列提供武器弹药",
+        "onboard_time": 1696907375,
+        "rank": 49,
+        "category": "军事,国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国工会第十八次全国代表大会在京开幕#"
+    }
+  }
+}
