@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696929458513,
+  "endTime": 1696930501346,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -72,6 +72,14 @@
       "word": "北极鲶鱼爷爷曾称老老实实干到退休",
       "onboard_time": 1696916856,
       "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1882647,
+      "num": 328622,
+      "word": "北极鲶鱼",
+      "onboard_time": 1696930414,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 610478,
+      "num": 610478,
+      "word": "你吃的油很可能早过期了",
+      "onboard_time": 1696928554,
+      "rank": 15,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 581498,
       "num": 291558,
       "word": "男子将亲生儿子以3万元卖掉",
@@ -523,6 +539,22 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 473869,
+      "num": 473869,
+      "word": "阿扎尔宣布退役",
+      "onboard_time": 1696929875,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 463530,
+      "num": 463530,
+      "word": "创造营2024",
+      "onboard_time": 1696928974,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 454562,
       "num": 430533,
       "word": "以色列炮击黎巴嫩南部地区",
@@ -576,14 +608,6 @@
       "word": "苹果的苹字还能组成什么词",
       "onboard_time": 1696894228,
       "rank": 36,
-      "category": "知识科普"
-    },
-    {
-      "raw_hot": 432215,
-      "num": 432215,
-      "word": "你吃的油很可能早过期了",
-      "onboard_time": 1696928554,
-      "rank": 15,
       "category": "知识科普"
     },
     {
@@ -667,6 +691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 389479,
+      "num": 389479,
+      "word": "63岁老人免费体检后多次手术身亡",
+      "onboard_time": 1696928312,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 385198,
       "num": 285187,
       "word": "广东真的没有穿衣焦虑",
@@ -724,7 +756,7 @@
     },
     {
       "raw_hot": 374008,
-      "num": 318019,
+      "num": 326766,
       "word": "我国芯片领域获重大突破",
       "onboard_time": 1696928013,
       "rank": 21,
@@ -753,6 +785,14 @@
       "onboard_time": 1696905631,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 353247,
+      "num": 353247,
+      "word": "王玉雯像极了美人鱼",
+      "onboard_time": 1696928852,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350440,
@@ -867,6 +907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 300550,
+      "num": 300550,
+      "word": "虞书欣裸色山茶花挂脖上衣",
+      "onboard_time": 1696928432,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 299863,
       "num": 242842,
       "word": "刘诗雯vs刘斐",
@@ -921,14 +969,6 @@
       "onboard_time": 1696860160,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 293833,
-      "num": 293833,
-      "word": "虞书欣裸色山茶花挂脖上衣",
-      "onboard_time": 1696928432,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 291886,
@@ -987,6 +1027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279195,
+      "num": 279195,
+      "word": "令人心动的offer",
+      "onboard_time": 1696929455,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276299,
       "num": 276299,
       "word": "以色列总理称计划对哈马斯发动大规模攻击",
@@ -1041,6 +1089,14 @@
       "onboard_time": 1696906652,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268517,
+      "num": 255748,
+      "word": "北京街头惊现4匹大马",
+      "onboard_time": 1696929636,
+      "rank": 30,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 267740,
@@ -1163,28 +1219,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 251878,
-      "num": 251878,
-      "word": "63岁老人免费体检后多次手术身亡",
-      "onboard_time": 1696928312,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251796,
       "num": 251796,
       "word": "成毅李一桐主演狐妖小红娘王权篇",
       "onboard_time": 1696864477,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248510,
-      "num": 248510,
-      "word": "王玉雯像极了美人鱼",
-      "onboard_time": 1696928852,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244677,
@@ -1209,6 +1249,14 @@
       "onboard_time": 1696900892,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241967,
+      "num": 241967,
+      "word": "小鹏汽车部门负责人停职员工配合调查",
+      "onboard_time": 1696929994,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 241090,
@@ -1304,14 +1352,6 @@
       "word": "竟然从范丞丞的脸上看到了疲惫",
       "onboard_time": 1696909303,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 232833,
-      "num": 232833,
-      "word": "创造营2024",
-      "onboard_time": 1696928974,
-      "rank": 34,
       "category": "综艺"
     },
     {
@@ -1683,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 181329,
+      "num": 181329,
+      "word": "女子路遇大爷晕倒立刻人工呼吸救助",
+      "onboard_time": 1696930292,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181018,
       "num": 181018,
       "word": "库克谈为何每年推出新iPhone",
@@ -1809,6 +1857,14 @@
       "onboard_time": 1696916019,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161057,
+      "num": 161057,
+      "word": "没想到芋泥做的春卷这么好吃",
+      "onboard_time": 1696930232,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 157171,
@@ -2185,6 +2241,14 @@
       "onboard_time": 1696907673,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 51995,
+      "num": 895106,
+      "word": "马尔代夫第一座跨海大桥是中国造",
+      "onboard_time": 1696929933,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51307,

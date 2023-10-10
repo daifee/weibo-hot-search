@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696929458513,
+  "endTime": 1696930501346,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -305,6 +305,14 @@
       "onboard_time": 1696758154,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1882647,
+      "num": 328622,
+      "word": "北极鲶鱼",
+      "onboard_time": 1696930414,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1868334,
@@ -1627,6 +1635,14 @@
       "category": "艺人,美妆"
     },
     {
+      "raw_hot": 610478,
+      "num": 610478,
+      "word": "你吃的油很可能早过期了",
+      "onboard_time": 1696928554,
+      "rank": 15,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 607378,
       "num": 607378,
       "word": "孕期尽量用电气灶做饭或不下厨",
@@ -2243,6 +2259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473869,
+      "num": 473869,
+      "word": "阿扎尔宣布退役",
+      "onboard_time": 1696929875,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 472447,
       "num": 472447,
       "word": "狐妖小红娘系列人物关系图",
@@ -2313,6 +2337,14 @@
       "onboard_time": 1696737579,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 463530,
+      "num": 463530,
+      "word": "创造营2024",
+      "onboard_time": 1696928974,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 461561,
@@ -2489,14 +2521,6 @@
       "onboard_time": 1696695091,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 432215,
-      "num": 432215,
-      "word": "你吃的油很可能早过期了",
-      "onboard_time": 1696928554,
-      "rank": 15,
-      "category": "知识科普"
     },
     {
       "raw_hot": 430689,
@@ -2723,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389479,
+      "num": 389479,
+      "word": "63岁老人免费体检后多次手术身亡",
+      "onboard_time": 1696928312,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 389460,
       "num": 389460,
       "word": "电影河边的错误定档",
@@ -2876,7 +2908,7 @@
     },
     {
       "raw_hot": 374008,
-      "num": 318019,
+      "num": 326766,
       "word": "我国芯片领域获重大突破",
       "onboard_time": 1696928013,
       "rank": 21,
@@ -3033,6 +3065,14 @@
       "onboard_time": 1696760313,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 353247,
+      "num": 353247,
+      "word": "王玉雯像极了美人鱼",
+      "onboard_time": 1696928852,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 353136,
@@ -3571,6 +3611,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 300550,
+      "num": 300550,
+      "word": "虞书欣裸色山茶花挂脖上衣",
+      "onboard_time": 1696928432,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 299863,
       "num": 242842,
       "word": "刘诗雯vs刘斐",
@@ -3648,14 +3696,6 @@
       "word": "于适脏辫",
       "onboard_time": 1696925194,
       "rank": 27,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 293833,
-      "num": 293833,
-      "word": "虞书欣裸色山茶花挂脖上衣",
-      "onboard_time": 1696928432,
-      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -3891,6 +3931,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 279195,
+      "num": 279195,
+      "word": "令人心动的offer",
+      "onboard_time": 1696929455,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "种地吧",
@@ -4057,6 +4105,14 @@
       "onboard_time": 1696906652,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 268517,
+      "num": 255748,
+      "word": "北京街头惊现4匹大马",
+      "onboard_time": 1696929636,
+      "rank": 30,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 268083,
@@ -4395,14 +4451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251878,
-      "num": 251878,
-      "word": "63岁老人免费体检后多次手术身亡",
-      "onboard_time": 1696928312,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251858,
       "num": 251858,
       "word": "孙颖莎亮相闭幕式短片",
@@ -4473,14 +4521,6 @@
       "onboard_time": 1696744177,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248510,
-      "num": 248510,
-      "word": "王玉雯像极了美人鱼",
-      "onboard_time": 1696928852,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 248445,
@@ -4617,6 +4657,14 @@
       "onboard_time": 1696830516,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241967,
+      "num": 241967,
+      "word": "小鹏汽车部门负责人停职员工配合调查",
+      "onboard_time": 1696929994,
+      "rank": 34,
+      "category": "汽车"
     },
     {
       "raw_hot": 241090,
@@ -4841,14 +4889,6 @@
       "onboard_time": 1696754015,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232833,
-      "num": 232833,
-      "word": "创造营2024",
-      "onboard_time": 1696928974,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 232712,
@@ -6171,6 +6211,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 181329,
+      "num": 181329,
+      "word": "女子路遇大爷晕倒立刻人工呼吸救助",
+      "onboard_time": 1696930292,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 181018,
       "num": 181018,
       "word": "库克谈为何每年推出新iPhone",
@@ -6577,6 +6625,14 @@
       "onboard_time": 1696812938,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 161057,
+      "num": 161057,
+      "word": "没想到芋泥做的春卷这么好吃",
+      "onboard_time": 1696930232,
+      "rank": 45,
+      "category": "美食"
     },
     {
       "raw_hot": 160884,
@@ -7633,6 +7689,14 @@
       "onboard_time": 1696741422,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51995,
+      "num": 895106,
+      "word": "马尔代夫第一座跨海大桥是中国造",
+      "onboard_time": 1696929933,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 51307,
