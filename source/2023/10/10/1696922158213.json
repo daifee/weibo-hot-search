@@ -1,0 +1,410 @@
+{
+  "runTime": 1696922158213,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6477392,
+        "num": 6477392,
+        "word": "北极鲶鱼爷爷违法违纪所得被收缴",
+        "onboard_time": 1696912543,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3339311,
+        "num": 3339311,
+        "word": "官方通报北极鲶鱼事件",
+        "onboard_time": 1696907913,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71888,
+        "num": 3104855,
+        "word": "用中国传统色打开秋天",
+        "onboard_time": 1696911227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2927026,
+        "num": 2927026,
+        "word": "北极鲶鱼爷爷被开除党籍",
+        "onboard_time": 1696908214,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1234463,
+        "num": 1234463,
+        "word": "北极鲶鱼的爷爷或不会被起诉判刑",
+        "onboard_time": 1696917996,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1102776,
+        "num": 1102776,
+        "word": "二级科员是什么级别",
+        "onboard_time": 1696919794,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869686,
+        "num": 869686,
+        "word": "每天喝咖啡会导致卵巢囊肿吗",
+        "onboard_time": 1696919915,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 773599,
+        "num": 773599,
+        "word": "北极鲶鱼爷爷曾称老老实实干到退休",
+        "onboard_time": 1696916856,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730938,
+        "num": 730938,
+        "word": "创5路透",
+        "onboard_time": 1696917939,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 622567,
+        "num": 622567,
+        "word": "网传浪姐5将邀请朴彩英",
+        "onboard_time": 1696918656,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1348929,
+        "num": 591783,
+        "word": "台媒曝炎亚纶将改名转运",
+        "onboard_time": 1696917455,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508822,
+        "num": 508822,
+        "word": "第一次见女主演男主的嫂嫂",
+        "onboard_time": 1696915181,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454375,
+        "num": 454375,
+        "word": "樊胜美现象 父亲的文化观念",
+        "onboard_time": 1696919794,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 413645,
+        "num": 413645,
+        "word": "孙颖莎世排积分全是冠军",
+        "onboard_time": 1696921356,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 387717,
+        "num": 387717,
+        "word": "1个月接诊1700多名脆皮年轻人",
+        "onboard_time": 1696919316,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366958,
+        "num": 366958,
+        "word": "余华 希望一直卖版权一直不拍",
+        "onboard_time": 1696911943,
+        "rank": 15,
+        "category": "电影,电影"
+      },
+      {
+        "raw_hot": 297636,
+        "num": 297636,
+        "word": "张硕在民政局邀请王睡睡拍合照",
+        "onboard_time": 1696917939,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269700,
+        "num": 269700,
+        "word": "庆余年二剧组聚餐",
+        "onboard_time": 1696919555,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244359,
+        "num": 244359,
+        "word": "现在的韩剧需要南柱赫",
+        "onboard_time": 1696921356,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238681,
+        "num": 238681,
+        "word": "上海一女子到以色列度假遇战乱",
+        "onboard_time": 1696899157,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1145793,
+        "num": 237941,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453278,
+        "num": 237221,
+        "word": "4岁失踪女童父亲向水哥求助",
+        "onboard_time": 1696917758,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235982,
+        "num": 235982,
+        "word": "新人婚礼现场给未来宝宝众筹名字",
+        "onboard_time": 1696921595,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227962,
+        "num": 227962,
+        "word": "程潇程晨姐妹青春篇章大片",
+        "onboard_time": 1696915837,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226849,
+        "num": 226849,
+        "word": "刘诗雯vs刘斐",
+        "onboard_time": 1696917275,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226119,
+        "num": 226119,
+        "word": "原来有人一天工作18个小时",
+        "onboard_time": 1696920273,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 220013,
+        "num": 220013,
+        "word": "TFBOYS明天见登十大巅峰单曲",
+        "onboard_time": 1696909180,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 218503,
+        "num": 218503,
+        "word": "狗子每次去厕所前都会通知全家",
+        "onboard_time": 1696919136,
+        "rank": 27,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 203877,
+        "num": 203877,
+        "word": "人民网评北极鲶鱼事件",
+        "onboard_time": 1696921416,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197991,
+        "num": 197991,
+        "word": "江歌妈妈首场直播带货超百万元",
+        "onboard_time": 1696913921,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191195,
+        "num": 191195,
+        "word": "原来考研也是有痕迹的",
+        "onboard_time": 1696915360,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 185459,
+        "num": 185459,
+        "word": "研究表明远古北欧葬礼是吃掉逝者",
+        "onboard_time": 1696919375,
+        "rank": 31,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 179748,
+        "num": 179748,
+        "word": "i人真的适合当大学老师",
+        "onboard_time": 1696912064,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 178704,
+        "num": 178704,
+        "word": "唐嫣拄着拐杖拍戏",
+        "onboard_time": 1696915837,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176865,
+        "num": 176865,
+        "word": "冲闯中国总领馆男子被击毙",
+        "onboard_time": 1696906054,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 170924,
+        "num": 170924,
+        "word": "阴阳师 超鬼王",
+        "onboard_time": 1696920816,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 153580,
+        "num": 153580,
+        "word": "广东廉江一校车被撞幼儿哭声一片",
+        "onboard_time": 1696914519,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148248,
+        "num": 148248,
+        "word": "BABYMONSTER官宣将出道",
+        "onboard_time": 1696914702,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 148037,
+        "num": 148037,
+        "word": "路人看到迪丽热巴真人的评价",
+        "onboard_time": 1696912366,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145122,
+        "num": 145122,
+        "word": "以色列",
+        "onboard_time": 1696898615,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 178841,
+        "num": 144358,
+        "word": "晓明哥还是改不了霸道总裁的性格",
+        "onboard_time": 1696920092,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143105,
+        "num": 143105,
+        "word": "2023TMA颁奖礼",
+        "onboard_time": 1696918895,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142414,
+        "num": 142414,
+        "word": "广东真的没有穿衣焦虑",
+        "onboard_time": 1696911943,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139845,
+        "num": 139845,
+        "word": "黑龙江一小学食堂6名学生吃2盘菜",
+        "onboard_time": 1696910623,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139331,
+        "num": 139331,
+        "word": "医生提醒洗澡时不要清理肚脐眼",
+        "onboard_time": 1696904733,
+        "rank": 44,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 137506,
+        "num": 137506,
+        "word": "上了大学才知道水果有多贵",
+        "onboard_time": 1696916316,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130381,
+        "num": 130381,
+        "word": "钟楚曦松弛感",
+        "onboard_time": 1696920515,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128753,
+        "num": 128753,
+        "word": "十大巅峰单曲",
+        "onboard_time": 1696918234,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126215,
+        "num": 126215,
+        "word": "我社交五分钟之后",
+        "onboard_time": 1696922136,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125007,
+        "num": 125007,
+        "word": "消防员救70000只鸡养鸡大户拎鸡感谢",
+        "onboard_time": 1696922015,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国工会第十八次全国代表大会在京开幕#"
+    }
+  }
+}
