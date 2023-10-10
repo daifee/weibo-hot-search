@@ -1,10 +1,10 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696979836645,
+  "endTime": 1696980860397,
   "band_list": [
     {
       "raw_hot": 2694992,
-      "num": 737217,
+      "num": 780677,
       "word": "新冠",
       "onboard_time": 1696945299,
       "rank": 3,
@@ -19,8 +19,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 1169494,
-      "num": 1169494,
+      "raw_hot": 1428377,
+      "num": 1428377,
       "word": "韩国不满杭州亚运会表现",
       "onboard_time": 1696946498,
       "rank": 6,
@@ -51,11 +51,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 613294,
-      "num": 278737,
+      "raw_hot": 656490,
+      "num": 284000,
       "word": "相亲发生关系男子被控强奸迎反转",
       "onboard_time": 1696935755,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 622356,
+      "num": 242733,
+      "word": "丈夫出轨妻子将小三扒光游街获刑",
+      "onboard_time": 1696914702,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -67,19 +75,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 545411,
-      "num": 545411,
+      "raw_hot": 589446,
+      "num": 589446,
       "word": "动车卫生间里居然长了眼",
       "onboard_time": 1696943797,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 538129,
-      "num": 242733,
-      "word": "丈夫出轨妻子将小三扒光游街获刑",
-      "onboard_time": 1696914702,
-      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -89,6 +89,14 @@
       "onboard_time": 1696951538,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 412690,
+      "num": 282416,
+      "word": "夸克占用了我900多G的内存",
+      "onboard_time": 1696980629,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 395281,
@@ -107,20 +115,20 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 356839,
+      "num": 356839,
+      "word": "占美人口3%犹太人操纵七成美国财富",
+      "onboard_time": 1696949438,
+      "rank": 8,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 351309,
       "num": 322912,
       "word": "为什么体制内的人很少发朋友圈",
       "onboard_time": 1696943378,
       "rank": 11,
       "category": "其它"
-    },
-    {
-      "raw_hot": 345736,
-      "num": 345736,
-      "word": "占美人口3%犹太人操纵七成美国财富",
-      "onboard_time": 1696949438,
-      "rank": 8,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 321983,
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 293769,
+      "num": 293769,
+      "word": "家人嫌我买的多巴胺公园凳丑",
+      "onboard_time": 1696945478,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 286380,
       "num": 286380,
       "word": "小时候吃的台湾无骨鸡柳去哪了",
@@ -161,6 +177,14 @@
       "onboard_time": 1696943678,
       "rank": 16,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252454,
+      "num": 241896,
+      "word": "订婚结束新娘家人将彩礼还给新郎",
+      "onboard_time": 1696949259,
+      "rank": 22,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 250129,
@@ -179,20 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241896,
-      "num": 241896,
-      "word": "订婚结束新娘家人将彩礼还给新郎",
-      "onboard_time": 1696949259,
-      "rank": 22,
-      "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 241712,
-      "num": 241712,
-      "word": "家人嫌我买的多巴胺公园凳丑",
-      "onboard_time": 1696945478,
-      "rank": 24,
-      "category": "幽默"
+      "raw_hot": 239502,
+      "num": 140088,
+      "word": "频繁发朋友圈被说是显眼包",
+      "onboard_time": 1696980268,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 235649,
@@ -211,6 +227,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 222655,
+      "num": 135926,
+      "word": "韩国退伍炊事兵爱上中国菜了",
+      "onboard_time": 1696980391,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 222552,
+      "num": 222552,
+      "word": "檀健次让我感受到了偶像的力量",
+      "onboard_time": 1696978945,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 214357,
+      "num": 214357,
+      "word": "新华社称退休不是护身符",
+      "onboard_time": 1696947580,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212174,
       "num": 212174,
       "word": "9月新增本土新冠死亡病例45例",
@@ -227,12 +267,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 208875,
-      "num": 208875,
-      "word": "新华社称退休不是护身符",
-      "onboard_time": 1696947580,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 209759,
+      "num": 209759,
+      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+      "onboard_time": 1696941936,
+      "rank": 32,
+      "category": "军事"
     },
     {
       "raw_hot": 204927,
@@ -267,28 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 177234,
-      "num": 177234,
-      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
-      "onboard_time": 1696941936,
-      "rank": 32,
-      "category": "军事"
-    },
-    {
       "raw_hot": 168859,
       "num": 168859,
       "word": "白鹿说以爱为营快播了",
       "onboard_time": 1696949200,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168581,
-      "num": 168581,
-      "word": "檀健次让我感受到了偶像的力量",
-      "onboard_time": 1696978945,
-      "rank": 14,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 165632,
@@ -299,12 +323,44 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143008,
-      "num": 143008,
+      "raw_hot": 159493,
+      "num": 159493,
+      "word": "乡镇机关大院地上晒满了农民的粮食",
+      "onboard_time": 1696979967,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158882,
+      "num": 158882,
+      "word": "撒贝宁的原名",
+      "onboard_time": 1696980449,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 156754,
+      "num": 156754,
       "word": "肖战杭州亚运圆梦时刻",
       "onboard_time": 1696944216,
       "rank": 40,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 153968,
+      "num": 153968,
+      "word": "武磊成为国足历史射手王",
+      "onboard_time": 1696978884,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153158,
+      "num": 134976,
+      "word": "女生经期不建议吃的六种水果",
+      "onboard_time": 1696980691,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 142077,
@@ -339,6 +395,30 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 129846,
+      "num": 129846,
+      "word": "因为男友家有果园所以决定嫁了",
+      "onboard_time": 1696970534,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 128376,
+      "num": 128376,
+      "word": "戚薇瘦气能不能分我点",
+      "onboard_time": 1696941397,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127944,
+      "num": 127944,
+      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
+      "onboard_time": 1696966214,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124918,
       "num": 124918,
       "word": "终于搞懂五险一金了",
@@ -355,36 +435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123842,
-      "num": 123842,
-      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
-      "onboard_time": 1696966214,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120986,
-      "num": 120986,
-      "word": "因为男友家有果园所以决定嫁了",
-      "onboard_time": 1696970534,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 120849,
-      "num": 120849,
-      "word": "戚薇瘦气能不能分我点",
-      "onboard_time": 1696941397,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 114689,
       "num": 114689,
       "word": "乐夏应该给大张伟开三份儿钱",
       "onboard_time": 1696954172,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114622,
+      "num": 114622,
+      "word": "关于拼车拼到了狗狗这件事",
+      "onboard_time": 1696980569,
+      "rank": 38,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 111507,
@@ -411,20 +475,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 108525,
+      "num": 108525,
+      "word": "新中式馒头为什么没人吃了",
+      "onboard_time": 1696935038,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 107384,
       "num": 107384,
       "word": "原来周星驰和吴孟达说过相声",
       "onboard_time": 1696948180,
       "rank": 49,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 102098,
-      "num": 102098,
-      "word": "武磊成为国足历史射手王",
-      "onboard_time": 1696978884,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 98942,
@@ -435,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77295,
-      "num": 77295,
+      "raw_hot": 93111,
+      "num": 93111,
       "word": "刘学义林允或将演春花厌",
       "onboard_time": 1696975756,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89406,
+      "num": 89406,
+      "word": "aespa将11月10日回归",
+      "onboard_time": 1696980449,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 69767,
@@ -508,7 +580,7 @@
     },
     {
       "raw_hot": 38306,
-      "num": 748979,
+      "num": 798441,
       "word": "杭州亚运会微纪录片登场",
       "onboard_time": 1696948781,
       "rank": 2,
