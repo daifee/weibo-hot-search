@@ -1,0 +1,410 @@
+{
+  "runTime": 1696944842999,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3658428,
+        "num": 3658428,
+        "word": "9月新增本土新冠死亡病例45例",
+        "onboard_time": 1696940136,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2001541,
+        "num": 2001541,
+        "word": "晚上十一点之前尽量入睡",
+        "onboard_time": 1696940136,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 82203,
+        "num": 975763,
+        "word": "马尔代夫第一座跨海大桥是中国造",
+        "onboard_time": 1696929933,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 816314,
+        "num": 816314,
+        "word": "删除微信好友能保留聊天记录",
+        "onboard_time": 1696937735,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 805819,
+        "num": 805819,
+        "word": "肖战杭州亚运圆梦时刻",
+        "onboard_time": 1696944216,
+        "rank": 4,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 759332,
+        "num": 759332,
+        "word": "张小斐新片尺度",
+        "onboard_time": 1696936239,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 492851,
+        "num": 492851,
+        "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+        "onboard_time": 1696941936,
+        "rank": 6,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 473028,
+        "num": 473028,
+        "word": "创5选手撞脸鹿晗关晓彤",
+        "onboard_time": 1696932213,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 384325,
+        "num": 384325,
+        "word": "丰田经销商吼客户买十万的车叫什么叫",
+        "onboard_time": 1696938758,
+        "rank": 8,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 451687,
+        "num": 384255,
+        "word": "欧阳娣娣 创5",
+        "onboard_time": 1696931795,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1367103,
+        "num": 381146,
+        "word": "相亲发生关系男子被控强奸迎反转",
+        "onboard_time": 1696935755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1042910,
+        "num": 378232,
+        "word": "杨幂帽子 济公",
+        "onboard_time": 1696942359,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 973146,
+        "num": 376493,
+        "word": "鹿晗张艺兴共享衣橱",
+        "onboard_time": 1696943678,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 831427,
+        "num": 375216,
+        "word": "为什么体制内的人很少发朋友圈",
+        "onboard_time": 1696943378,
+        "rank": 13,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 587755,
+        "num": 373796,
+        "word": "北极鲶鱼",
+        "onboard_time": 1696930414,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372107,
+        "num": 372107,
+        "word": "章昊的脸",
+        "onboard_time": 1696944097,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 347274,
+        "num": 347274,
+        "word": "刘诗雯3比0刘斐",
+        "onboard_time": 1696943618,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369066,
+        "num": 345960,
+        "word": "ITZY",
+        "onboard_time": 1696941157,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342770,
+        "num": 342770,
+        "word": "王一博无袖黑背心",
+        "onboard_time": 1696941275,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310490,
+        "num": 310490,
+        "word": "SEVENTEEN获TMA年度艺人",
+        "onboard_time": 1696941877,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 848690,
+        "num": 310412,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309847,
+        "num": 309847,
+        "word": "中国公民自愿离开巴以外交部将全力协助",
+        "onboard_time": 1696937439,
+        "rank": 21,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 294868,
+        "num": 294868,
+        "word": "创5 熟人",
+        "onboard_time": 1696925615,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272492,
+        "num": 272492,
+        "word": "罐罐烤奶",
+        "onboard_time": 1696943257,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 271140,
+        "num": 271140,
+        "word": "终于搞懂五险一金了",
+        "onboard_time": 1696934438,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 252792,
+        "num": 252792,
+        "word": "待播古偶神仙打架",
+        "onboard_time": 1696942717,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248974,
+        "num": 248974,
+        "word": "戚薇瘦气能不能分我点",
+        "onboard_time": 1696941397,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 248196,
+        "num": 248196,
+        "word": "17年这天发了真相是假",
+        "onboard_time": 1696934852,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 244983,
+        "num": 244983,
+        "word": "于适P了肩膀",
+        "onboard_time": 1696944097,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 224312,
+        "num": 224312,
+        "word": "丰田4S店就怒怼客户道歉",
+        "onboard_time": 1696936712,
+        "rank": 29,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 218209,
+        "num": 218209,
+        "word": "动车卫生间里居然长了眼",
+        "onboard_time": 1696943797,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211618,
+        "num": 211618,
+        "word": "陈楚生老婆说胡兵心态好年轻",
+        "onboard_time": 1696933534,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208786,
+        "num": 208786,
+        "word": "男子被老同学诈骗51万仍与其结婚",
+        "onboard_time": 1696940556,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208481,
+        "num": 208481,
+        "word": "TMA年度艺人",
+        "onboard_time": 1696942717,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207649,
+        "num": 207649,
+        "word": "你认为最伤胃的行为是什么",
+        "onboard_time": 1696940136,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205287,
+        "num": 205287,
+        "word": "最走心的婚礼朋友圈邀请",
+        "onboard_time": 1696933056,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 195028,
+        "num": 195028,
+        "word": "哈马斯官员称愿就停火进行讨论",
+        "onboard_time": 1696943978,
+        "rank": 36,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 193208,
+        "num": 193208,
+        "word": "国足vs越南",
+        "onboard_time": 1696934252,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189120,
+        "num": 189120,
+        "word": "多亏看了黄景瑜的剧",
+        "onboard_time": 1696940378,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187825,
+        "num": 187825,
+        "word": "新中式馒头为什么没人吃了",
+        "onboard_time": 1696935038,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185229,
+        "num": 185229,
+        "word": "以色列否认卡塔尔就人质问题展开斡旋",
+        "onboard_time": 1696938038,
+        "rank": 40,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 173724,
+        "num": 173724,
+        "word": "宁艺卓TMA红毯飞吻",
+        "onboard_time": 1696943316,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 173312,
+        "num": 173312,
+        "word": "问心",
+        "onboard_time": 1696942298,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170711,
+        "num": 170711,
+        "word": "工作真的在削弱我的文化体力",
+        "onboard_time": 1696942417,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169204,
+        "num": 169204,
+        "word": "cp30",
+        "onboard_time": 1696944760,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 156835,
+        "num": 156835,
+        "word": "杨鸣直播",
+        "onboard_time": 1696944581,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154880,
+        "num": 154880,
+        "word": "邓为仙台有树定妆造型路透",
+        "onboard_time": 1696935932,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145920,
+        "num": 145920,
+        "word": "以军称发现1500具哈马斯武装人员尸体",
+        "onboard_time": 1696933655,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 140454,
+        "num": 140454,
+        "word": "二十届中央第二轮巡视对象公布",
+        "onboard_time": 1696940739,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 138365,
+        "num": 138365,
+        "word": "我国芯片领域获重大突破",
+        "onboard_time": 1696928013,
+        "rank": 49,
+        "category": "科技"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系是世界上最重要的双边关系#"
+    }
+  }
+}

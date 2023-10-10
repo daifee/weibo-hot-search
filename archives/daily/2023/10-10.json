@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696944105038,
+  "endTime": 1696944842999,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -35,8 +35,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 3458203,
-      "num": 3458203,
+      "raw_hot": 3658428,
+      "num": 3658428,
       "word": "9月新增本土新冠死亡病例45例",
       "onboard_time": 1696940136,
       "rank": 4,
@@ -89,6 +89,14 @@
       "onboard_time": 1696892903,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2001541,
+      "num": 2001541,
+      "word": "晚上十一点之前尽量入睡",
+      "onboard_time": 1696940136,
+      "rank": 7,
+      "category": "其它"
     },
     {
       "raw_hot": 1978389,
@@ -153,14 +161,6 @@
       "onboard_time": 1696919794,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1463265,
-      "num": 1463265,
-      "word": "晚上十一点之前尽量入睡",
-      "onboard_time": 1696940136,
-      "rank": 7,
-      "category": "其它"
     },
     {
       "raw_hot": 1455901,
@@ -241,6 +241,14 @@
       "onboard_time": 1696856379,
       "rank": 24,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 973146,
+      "num": 415449,
+      "word": "鹿晗张艺兴共享衣橱",
+      "onboard_time": 1696943678,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 964914,
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 831427,
+      "num": 415006,
+      "word": "为什么体制内的人很少发朋友圈",
+      "onboard_time": 1696943378,
+      "rank": 14,
+      "category": "其它"
+    },
+    {
       "raw_hot": 829439,
       "num": 829439,
       "word": "献鱼",
@@ -363,6 +379,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 805819,
+      "num": 805819,
+      "word": "肖战杭州亚运圆梦时刻",
+      "onboard_time": 1696944216,
+      "rank": 4,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 799422,
       "num": 799422,
       "word": "中国公民自愿离开巴以外交部将全力协助",
@@ -393,14 +417,6 @@
       "onboard_time": 1696928312,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 740159,
-      "num": 415449,
-      "word": "鹿晗张艺兴共享衣橱",
-      "onboard_time": 1696943678,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 732528,
@@ -667,6 +683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492851,
+      "num": 492851,
+      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+      "onboard_time": 1696941936,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 483413,
       "num": 483413,
       "word": "老头衫的受众其实是女高",
@@ -859,14 +883,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 415006,
-      "num": 415006,
-      "word": "为什么体制内的人很少发朋友圈",
-      "onboard_time": 1696943378,
-      "rank": 14,
-      "category": "其它"
-    },
-    {
       "raw_hot": 398025,
       "num": 398025,
       "word": "原来迪士尼以前叫迪斯尼",
@@ -979,6 +995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372107,
+      "num": 372107,
+      "word": "章昊的脸",
+      "onboard_time": 1696944097,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 370774,
       "num": 370774,
       "word": "向佐和女儿的相处模式",
@@ -1003,14 +1027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 363334,
-      "num": 363334,
-      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
-      "onboard_time": 1696941936,
-      "rank": 16,
-      "category": "军事"
-    },
-    {
       "raw_hot": 350614,
       "num": 350614,
       "word": "SEVENTEEN获TMA年度艺人",
@@ -1025,6 +1041,14 @@
       "onboard_time": 1696893687,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 347274,
+      "num": 347274,
+      "word": "刘诗雯3比0刘斐",
+      "onboard_time": 1696943618,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 346842,
@@ -1195,14 +1219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 297354,
-      "num": 297354,
-      "word": "刘诗雯3比0刘斐",
-      "onboard_time": 1696943618,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 296217,
       "num": 273913,
       "word": "毛不易的微博真的很治愈",
@@ -1345,6 +1361,14 @@
       "onboard_time": 1696913624,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 272492,
+      "num": 272492,
+      "word": "罐罐烤奶",
+      "onboard_time": 1696943257,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 272319,
@@ -1507,6 +1531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252792,
+      "num": 252792,
+      "word": "待播古偶神仙打架",
+      "onboard_time": 1696942717,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252712,
       "num": 252712,
       "word": "C罗希望参加2026世界杯后退役",
@@ -1545,6 +1577,14 @@
       "onboard_time": 1696940556,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 244983,
+      "num": 244983,
+      "word": "于适P了肩膀",
+      "onboard_time": 1696944097,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 244677,
@@ -1803,6 +1843,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 218209,
+      "num": 218209,
+      "word": "动车卫生间里居然长了眼",
+      "onboard_time": 1696943797,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 215896,
       "num": 396333,
       "word": "巴以冲突死亡人数升至约1600人",
@@ -1841,14 +1889,6 @@
       "onboard_time": 1696866155,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 213127,
-      "num": 213127,
-      "word": "待播古偶神仙打架",
-      "onboard_time": 1696942717,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 211430,
@@ -1955,14 +1995,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202671,
-      "num": 202671,
-      "word": "罐罐烤奶",
-      "onboard_time": 1696943257,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 202392,
       "num": 202392,
       "word": "网传鞠婧祎程潇客串狐妖小红娘王权篇",
@@ -2065,6 +2097,14 @@
       "onboard_time": 1696933895,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195028,
+      "num": 195028,
+      "word": "哈马斯官员称愿就停火进行讨论",
+      "onboard_time": 1696943978,
+      "rank": 44,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 194943,
@@ -2243,14 +2283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180400,
-      "num": 180400,
-      "word": "动车卫生间里居然长了眼",
-      "onboard_time": 1696943797,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179480,
       "num": 179480,
       "word": "薛之谦成都",
@@ -2281,6 +2313,14 @@
       "onboard_time": 1696932574,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 173724,
+      "num": 173724,
+      "word": "宁艺卓TMA红毯飞吻",
+      "onboard_time": 1696943316,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 173681,
@@ -2323,6 +2363,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170711,
+      "num": 170711,
+      "word": "工作真的在削弱我的文化体力",
+      "onboard_time": 1696942417,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 170488,
       "num": 170488,
       "word": "奶奶抢救苏醒后9旬爷爷深情表白",
@@ -2345,6 +2393,14 @@
       "onboard_time": 1696857033,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169204,
+      "num": 169204,
+      "word": "cp30",
+      "onboard_time": 1696944760,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 166336,
@@ -2427,6 +2483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 156835,
+      "num": 156835,
+      "word": "杨鸣直播",
+      "onboard_time": 1696944581,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156011,
       "num": 1904137,
       "word": "马尔代夫第一座跨海大桥是中国造",
@@ -2475,28 +2539,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 147750,
-      "num": 147750,
-      "word": "工作真的在削弱我的文化体力",
-      "onboard_time": 1696942417,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 146887,
       "num": 146887,
       "word": "李兰迪入秋三件套",
       "onboard_time": 1696899994,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145406,
-      "num": 145406,
-      "word": "哈马斯官员称愿就停火进行讨论",
-      "onboard_time": 1696943978,
-      "rank": 44,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 141937,
@@ -2513,14 +2561,6 @@
       "onboard_time": 1696941457,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 139356,
-      "num": 139356,
-      "word": "宁艺卓TMA红毯飞吻",
-      "onboard_time": 1696943316,
-      "rank": 45,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139137,
