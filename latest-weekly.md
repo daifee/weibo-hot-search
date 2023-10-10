@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/11 01:34:16
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/11 02:22:27
 </p>
 </blockquote>
 <p>
@@ -6659,6 +6659,12 @@ enhypen饭撒（热度：103559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%E5%85%8D%E8%B4%B9%23" target="weibo">
 老乡鸡免费（热度：25815）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%91%E5%9C%88%E6%B2%A1%E4%BA%BA%E6%95%A2%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86%E8%A2%AB%E6%8A%96%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+美发圈没人敢说的秘密被抖出来了（热度：25750）
 </a>
 </li>
 
