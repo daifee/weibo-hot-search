@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696900295034,
+  "endTime": 1696901516096,
   "band_list": [
     {
       "raw_hot": 2003585,
@@ -43,6 +43,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 880309,
+      "num": 394099,
+      "word": "黎巴嫩",
+      "onboard_time": 1696897714,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 851082,
       "num": 557390,
       "word": "以色列宣布全面封锁加沙地带",
@@ -83,7 +91,15 @@
       "category": "情感"
     },
     {
-      "raw_hot": 691925,
+      "raw_hot": 725695,
+      "num": 297934,
+      "word": "23岁长高了5厘米",
+      "onboard_time": 1696900474,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 693384,
       "num": 443581,
       "word": "抑郁症早期4个危险信号",
       "onboard_time": 1696899032,
@@ -97,6 +113,14 @@
       "onboard_time": 1696896396,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 658132,
+      "num": 658132,
+      "word": "王鹤润曾谈和王鹤棣的关系",
+      "onboard_time": 1696857517,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 650002,
@@ -123,12 +147,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 602225,
+      "raw_hot": 634432,
       "num": 349630,
       "word": "因为一杯十块钱的奶茶吵架了",
       "onboard_time": 1696898558,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 611031,
+      "num": 348713,
+      "word": "上海一女子到以色列度假遇战乱",
+      "onboard_time": 1696899157,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 540928,
@@ -147,14 +179,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 515590,
-      "num": 394099,
-      "word": "黎巴嫩",
-      "onboard_time": 1696897714,
-      "rank": 17,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 506809,
       "num": 506809,
       "word": "金鸡奖官宣",
@@ -168,22 +192,6 @@
       "word": "以色列炮击黎巴嫩南部地区",
       "onboard_time": 1696866092,
       "rank": 12,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 452710,
-      "num": 452710,
-      "word": "王鹤润曾谈和王鹤棣的关系",
-      "onboard_time": 1696857517,
-      "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 442421,
-      "num": 348713,
-      "word": "上海一女子到以色列度假遇战乱",
-      "onboard_time": 1696899157,
-      "rank": 22,
       "category": "国外要闻"
     },
     {
@@ -387,6 +395,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243235,
+      "num": 243235,
+      "word": "毛晓彤问心人设",
+      "onboard_time": 1696900892,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 241090,
+      "num": 241090,
+      "word": "旧金山",
+      "onboard_time": 1696899875,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238672,
       "num": 238672,
       "word": "赵又廷毛晓彤跳舞金世佳划水",
@@ -417,6 +441,14 @@
       "onboard_time": 1696849595,
       "rank": 22,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 222860,
+      "num": 222860,
+      "word": "为有暗香来定档",
+      "onboard_time": 1696901132,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 218792,
@@ -459,14 +491,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 209114,
-      "num": 209114,
-      "word": "旧金山",
-      "onboard_time": 1696899875,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 201857,
       "num": 201857,
       "word": "金智秀问是谁说冷的",
@@ -481,6 +505,14 @@
       "onboard_time": 1696854275,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199877,
+      "num": 199877,
+      "word": "巴以冲突死亡人数升至约1600人",
+      "onboard_time": 1696900714,
+      "rank": 37,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 198146,
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170488,
+      "num": 170488,
+      "word": "奶奶抢救苏醒后9旬爷爷深情表白",
+      "onboard_time": 1696900772,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170381,
       "num": 170381,
       "word": "女儿凌晨3点起床帮妈妈剥玉米",
@@ -643,6 +683,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 146887,
+      "num": 146887,
+      "word": "李兰迪入秋三件套",
+      "onboard_time": 1696899994,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139137,
       "num": 114438,
       "word": "电竞解说管泽元谈入行这九年",
@@ -673,6 +721,14 @@
       "onboard_time": 1696851513,
       "rank": 37,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 134607,
+      "num": 134607,
+      "word": "朱一龙追疯子的人",
+      "onboard_time": 1696901491,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 131496,
@@ -721,6 +777,14 @@
       "onboard_time": 1696862382,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120993,
+      "num": 136808,
+      "word": "聚亚洲之力筑未来之路",
+      "onboard_time": 1696901071,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 119261,
