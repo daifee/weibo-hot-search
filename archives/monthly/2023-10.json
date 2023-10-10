@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696941210951,
+  "endTime": 1696942199343,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1211,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1835884,
+      "num": 1835884,
+      "word": "9月新增本土新冠死亡病例45例",
+      "onboard_time": 1696940136,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1834681,
       "num": 1834681,
       "word": "周润发回应裸捐56亿港币",
@@ -1499,6 +1507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1680739,
+      "num": 1680739,
+      "word": "删除微信好友能保留聊天记录",
+      "onboard_time": 1696937735,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1678919,
       "num": 1678919,
       "word": "中国姑娘4×100接力金牌",
@@ -1625,14 +1641,6 @@
       "onboard_time": 1696376846,
       "rank": 0,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1628069,
-      "num": 1628069,
-      "word": "删除微信好友能保留聊天记录",
-      "onboard_time": 1696937735,
-      "rank": 0,
-      "category": "互联网"
     },
     {
       "raw_hot": 1627586,
@@ -4219,14 +4227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 833330,
-      "num": 833330,
-      "word": "9月新增本土新冠死亡病例45例",
-      "onboard_time": 1696940136,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 829818,
       "num": 829818,
       "word": "全红婵进女子10米台决赛",
@@ -4345,6 +4345,14 @@
       "onboard_time": 1696909180,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 809201,
+      "num": 809201,
+      "word": "晚上十一点之前尽量入睡",
+      "onboard_time": 1696940136,
+      "rank": 7,
+      "category": "其它"
     },
     {
       "raw_hot": 808720,
@@ -7403,6 +7411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 539460,
+      "num": 390442,
+      "word": "王一博无袖黑背心",
+      "onboard_time": 1696941275,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 539078,
       "num": 539078,
       "word": "赵继伟与韩国球员冲突",
@@ -7441,14 +7457,6 @@
       "onboard_time": 1696669598,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 537061,
-      "num": 537061,
-      "word": "晚上十一点之前尽量入睡",
-      "onboard_time": 1696940136,
-      "rank": 7,
-      "category": "其它"
     },
     {
       "raw_hot": 535377,
@@ -10417,6 +10425,14 @@
       "onboard_time": 1696729774,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390718,
+      "num": 390718,
+      "word": "ITZY",
+      "onboard_time": 1696941157,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 390619,
@@ -14459,6 +14475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 283430,
+      "num": 252682,
+      "word": "戚薇瘦气能不能分我点",
+      "onboard_time": 1696941397,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 283228,
       "num": 283228,
       "word": "叙利亚霍姆斯军事学院发生自杀式无人机袭击",
@@ -16587,6 +16611,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 247839,
+      "num": 247839,
+      "word": "男子被老同学诈骗51万仍与其结婚",
+      "onboard_time": 1696940556,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247718,
       "num": 236132,
       "word": "叔叔看不懂cctv5了",
@@ -16953,6 +16985,14 @@
       "onboard_time": 1696857818,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242784,
+      "num": 242784,
+      "word": "二十届中央第二轮巡视对象公布",
+      "onboard_time": 1696940739,
+      "rank": 23,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 242747,
@@ -18555,14 +18595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 219554,
-      "num": 219554,
-      "word": "二十届中央第二轮巡视对象公布",
-      "onboard_time": 1696940739,
-      "rank": 23,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 219520,
       "num": 219520,
       "word": "韩庚扫楼收到金箍棒的反应",
@@ -18625,6 +18657,14 @@
       "onboard_time": 1696833995,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218450,
+      "num": 218450,
+      "word": "以色列否认卡塔尔就人质问题展开斡旋",
+      "onboard_time": 1696938038,
+      "rank": 24,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 218428,
@@ -18777,14 +18817,6 @@
       "onboard_time": 1696656277,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 215608,
-      "num": 215608,
-      "word": "以色列否认卡塔尔就人质问题展开斡旋",
-      "onboard_time": 1696938038,
-      "rank": 24,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 215561,
@@ -19120,6 +19152,14 @@
       "word": "中短发的神再添一名猛将",
       "onboard_time": 1696552412,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211208,
+      "num": 211208,
+      "word": "SEVENTEEN获TMA年度艺人",
+      "onboard_time": 1696941877,
+      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -20161,6 +20201,14 @@
       "onboard_time": 1696397015,
       "rank": 35,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 201193,
+      "num": 201193,
+      "word": "白磷弹",
+      "onboard_time": 1696941936,
+      "rank": 29,
+      "category": "军事"
     },
     {
       "raw_hot": 201138,
@@ -21595,14 +21643,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 187825,
-      "num": 187825,
-      "word": "男子被老同学诈骗51万仍与其结婚",
-      "onboard_time": 1696940556,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187742,
       "num": 187742,
       "word": "釜山电影节上的包上恩",
@@ -22689,14 +22729,6 @@
       "onboard_time": 1696226736,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175243,
-      "num": 175243,
-      "word": "ITZY",
-      "onboard_time": 1696941157,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 175240,
@@ -24523,6 +24555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149137,
+      "num": 149137,
+      "word": "王嘉尔从爱豆到老板",
+      "onboard_time": 1696941816,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149031,
       "num": 149031,
       "word": "当执勤消防员遇见喜欢的歌手",
@@ -25001,6 +25041,14 @@
       "onboard_time": 1696574076,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141533,
+      "num": 141533,
+      "word": "为WBG出征S13助威",
+      "onboard_time": 1696941457,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 141478,
