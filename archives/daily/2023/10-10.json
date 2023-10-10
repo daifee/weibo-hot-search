@@ -1,7 +1,15 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696904598692,
+  "endTime": 1696905269942,
   "band_list": [
+    {
+      "raw_hot": 3724313,
+      "num": 3724313,
+      "word": "不明身份人员驾车冲闯中国驻旧金山总领馆",
+      "onboard_time": 1696903831,
+      "rank": 1,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 2742852,
       "num": 2742852,
@@ -17,14 +25,6 @@
       "onboard_time": 1696892903,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1967643,
-      "num": 1967643,
-      "word": "不明身份人员驾车冲闯中国驻旧金山总领馆",
-      "onboard_time": 1696903831,
-      "rank": 1,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1455901,
@@ -227,12 +227,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 459428,
-      "num": 459428,
+      "raw_hot": 483413,
+      "num": 483413,
       "word": "老头衫的受众其实是女高",
       "onboard_time": 1696901673,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 460027,
+      "num": 231238,
+      "word": "医生提醒洗澡时不要清理肚脐眼",
+      "onboard_time": 1696904733,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 454562,
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 382060,
-      "num": 236084,
+      "num": 375751,
       "word": "他居然知道自己跳了多少下",
       "onboard_time": 1696902571,
       "rank": 30,
@@ -377,6 +385,14 @@
       "onboard_time": 1696867773,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 320186,
+      "num": 248510,
+      "word": "男子将亲生儿子以3万元卖掉",
+      "onboard_time": 1696904491,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 301609,
@@ -515,11 +531,27 @@
       "category": "数码"
     },
     {
+      "raw_hot": 233998,
+      "num": 233998,
+      "word": "周也恶女妆造",
+      "onboard_time": 1696904790,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232712,
       "num": 232712,
       "word": "轿车侧翻公交司机飞奔跳上车救人",
       "onboard_time": 1696904311,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226455,
+      "num": 226455,
+      "word": "男生在1300度高温下做出一朵牡丹花",
+      "onboard_time": 1696904972,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -529,6 +561,14 @@
       "onboard_time": 1696861784,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224352,
+      "num": 230664,
+      "word": "张国立韩庚新片演中国式父子",
+      "onboard_time": 1696904671,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 223709,
@@ -595,6 +635,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 210121,
+      "num": 210121,
+      "word": "杜兆才被逮捕",
+      "onboard_time": 1696905152,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201857,
       "num": 201857,
       "word": "金智秀问是谁说冷的",
@@ -633,6 +681,14 @@
       "onboard_time": 1696845997,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188437,
+      "num": 188437,
+      "word": "谭松韵新片演闫妮吴京女儿",
+      "onboard_time": 1696905209,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 188363,
@@ -689,6 +745,22 @@
       "onboard_time": 1696899454,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 176579,
+      "num": 176579,
+      "word": "关晓彤抬眸杀",
+      "onboard_time": 1696904913,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173681,
+      "num": 173681,
+      "word": "周深谈卡布时期的自己",
+      "onboard_time": 1696905092,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 173029,
@@ -769,14 +841,6 @@
       "onboard_time": 1696893145,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 149582,
-      "num": 149582,
-      "word": "男子将亲生儿子以3万元卖掉",
-      "onboard_time": 1696904491,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146887,
@@ -987,6 +1051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90232,
+      "num": 226071,
+      "word": "起猛了看见树在天上飞",
+      "onboard_time": 1696901613,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 79166,
       "num": 79166,
       "word": "中央气象台对台风小犬停止编号",
@@ -1044,7 +1116,7 @@
     },
     {
       "raw_hot": 47233,
-      "num": 188417,
+      "num": 204490,
       "word": "一场二十年的长跑",
       "onboard_time": 1696903233,
       "rank": 39,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1696905269942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3724313,
+        "num": 3724313,
+        "word": "不明身份人员驾车冲闯中国驻旧金山总领馆",
+        "onboard_time": 1696903831,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2590468,
+        "num": 2590468,
+        "word": "中国驻旧金山总领馆发声",
+        "onboard_time": 1696902871,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 54858,
+        "num": 947516,
+        "word": "中国申办亚运时的承诺都做到了",
+        "onboard_time": 1696854094,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 884290,
+        "num": 884290,
+        "word": "从体制内离职的人现在怎么样了",
+        "onboard_time": 1696892903,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 756220,
+        "num": 756220,
+        "word": "武打演员孟海去世",
+        "onboard_time": 1696902812,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 758483,
+        "num": 748359,
+        "word": "上海一女子到以色列度假遇战乱",
+        "onboard_time": 1696899157,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 700855,
+        "num": 700855,
+        "word": "王楚钦重返男单世界第一",
+        "onboard_time": 1696898677,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 553733,
+        "num": 553733,
+        "word": "女子PPT举报前夫婚内出轨博士造假",
+        "onboard_time": 1696861238,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 483413,
+        "num": 483413,
+        "word": "老头衫的受众其实是女高",
+        "onboard_time": 1696901673,
+        "rank": 8,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 473244,
+        "num": 473244,
+        "word": "王鹤润曾谈和王鹤棣的关系",
+        "onboard_time": 1696857517,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 849838,
+        "num": 468713,
+        "word": "黎巴嫩",
+        "onboard_time": 1696897714,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 460359,
+        "num": 460359,
+        "word": "为有暗香来定档",
+        "onboard_time": 1696901132,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 389601,
+        "num": 389601,
+        "word": "虞书欣白天拍戏晚上练舞",
+        "onboard_time": 1696902511,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237855,
+        "num": 377560,
+        "word": "以色列宣布全面封锁加沙地带",
+        "onboard_time": 1696861660,
+        "rank": 13,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 212580,
+        "num": 376015,
+        "word": "巴以冲突死亡人数升至约1600人",
+        "onboard_time": 1696900714,
+        "rank": 14,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 375751,
+        "num": 375751,
+        "word": "他居然知道自己跳了多少下",
+        "onboard_time": 1696902571,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355484,
+        "num": 355484,
+        "word": "我是我们班唯一交学费的人",
+        "onboard_time": 1696901851,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 345637,
+        "num": 345637,
+        "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
+        "onboard_time": 1696858056,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276396,
+        "num": 276396,
+        "word": "哪吒2要来了",
+        "onboard_time": 1696895071,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249329,
+        "num": 249329,
+        "word": "王海举报国企转账私人账户近6亿",
+        "onboard_time": 1696895311,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988605,
+        "num": 249178,
+        "word": "23岁长高了5厘米",
+        "onboard_time": 1696900474,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 453321,
+        "num": 248991,
+        "word": "抑郁症早期4个危险信号",
+        "onboard_time": 1696899032,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 434213,
+        "num": 248968,
+        "word": "因为一杯十块钱的奶茶吵架了",
+        "onboard_time": 1696898558,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 426062,
+        "num": 248668,
+        "word": "库克回应每年iPhone几乎没太大升级",
+        "onboard_time": 1696899636,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 320186,
+        "num": 248510,
+        "word": "男子将亲生儿子以3万元卖掉",
+        "onboard_time": 1696904491,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248473,
+        "num": 248473,
+        "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
+        "onboard_time": 1696857159,
+        "rank": 25,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 244058,
+        "num": 244058,
+        "word": "婚礼的17.5万都花在了哪里",
+        "onboard_time": 1696896932,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234335,
+        "num": 234335,
+        "word": "江歌妈妈直播间来了9万人",
+        "onboard_time": 1696866334,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233998,
+        "num": 233998,
+        "word": "周也恶女妆造",
+        "onboard_time": 1696904790,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232016,
+        "num": 232016,
+        "word": "以色列",
+        "onboard_time": 1696898615,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 460027,
+        "num": 231238,
+        "word": "医生提醒洗澡时不要清理肚脐眼",
+        "onboard_time": 1696904733,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 224352,
+        "num": 230664,
+        "word": "张国立韩庚新片演中国式父子",
+        "onboard_time": 1696904671,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230290,
+        "num": 230290,
+        "word": "手机到底多久换一次最好",
+        "onboard_time": 1696899636,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 226455,
+        "num": 226455,
+        "word": "男生在1300度高温下做出一朵牡丹花",
+        "onboard_time": 1696904972,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90232,
+        "num": 226071,
+        "word": "起猛了看见树在天上飞",
+        "onboard_time": 1696901613,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225838,
+        "num": 225838,
+        "word": "苹果的苹字还能组成什么词",
+        "onboard_time": 1696894228,
+        "rank": 35,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 223485,
+        "num": 223485,
+        "word": "文班亚马首秀",
+        "onboard_time": 1696901613,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213434,
+        "num": 213434,
+        "word": "轿车侧翻公交司机飞奔跳上车救人",
+        "onboard_time": 1696904311,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210121,
+        "num": 210121,
+        "word": "杜兆才被逮捕",
+        "onboard_time": 1696905152,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 40728,
+        "num": 204490,
+        "word": "一场二十年的长跑",
+        "onboard_time": 1696903233,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199166,
+        "num": 199166,
+        "word": "主人不在家快递显示狗已签收",
+        "onboard_time": 1696898496,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 188437,
+        "num": 188437,
+        "word": "谭松韵新片演闫妮吴京女儿",
+        "onboard_time": 1696905209,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185674,
+        "num": 185674,
+        "word": "夜色尚浅 GQ盛典",
+        "onboard_time": 1696894892,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 183220,
+        "num": 183220,
+        "word": "你谈不上恋爱的原因",
+        "onboard_time": 1696898977,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182857,
+        "num": 182857,
+        "word": "李汶翰抽搐式哭戏",
+        "onboard_time": 1696902632,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176579,
+        "num": 176579,
+        "word": "关晓彤抬眸杀",
+        "onboard_time": 1696904913,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173681,
+        "num": 173681,
+        "word": "周深谈卡布时期的自己",
+        "onboard_time": 1696905092,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163546,
+        "num": 163546,
+        "word": "抢到周杰伦演唱会门票能有多嘚瑟",
+        "onboard_time": 1696898077,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154613,
+        "num": 154613,
+        "word": "老两口退休工资1万2被女儿送养老院",
+        "onboard_time": 1696856555,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154196,
+        "num": 154196,
+        "word": "月薪一万买不起面包",
+        "onboard_time": 1696856379,
+        "rank": 49,
+        "category": "社会议题"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平文化思想首次提出#"
+    }
+  }
+}
