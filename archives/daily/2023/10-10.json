@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696923252965,
+  "endTime": 1696926123692,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -76,10 +76,18 @@
     },
     {
       "raw_hot": 1552038,
-      "num": 280608,
+      "num": 347328,
       "word": "丈夫出轨妻子将小三扒光游街获刑",
       "onboard_time": 1696914702,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1468014,
+      "num": 1351646,
+      "word": "二级科员是什么级别",
+      "onboard_time": 1696919794,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -99,20 +107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1351646,
-      "num": 1351646,
-      "word": "二级科员是什么级别",
-      "onboard_time": 1696919794,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1348929,
       "num": 591783,
       "word": "台媒曝炎亚纶将改名转运",
       "onboard_time": 1696917455,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1173006,
+      "num": 1173006,
+      "word": "每天喝咖啡会导致卵巢囊肿吗",
+      "onboard_time": 1696919915,
+      "rank": 6,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1162684,
@@ -155,12 +163,12 @@
       "category": "社会议题"
     },
     {
-      "raw_hot": 962273,
-      "num": 962273,
-      "word": "每天喝咖啡会导致卵巢囊肿吗",
-      "onboard_time": 1696919915,
-      "rank": 6,
-      "category": "知识科普"
+      "raw_hot": 968666,
+      "num": 968666,
+      "word": "创5 熟人",
+      "onboard_time": 1696925615,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 959424,
@@ -281,6 +289,14 @@
       "onboard_time": 1696899032,
       "rank": 11,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 691080,
+      "num": 412473,
+      "word": "杨幂塑料袋头饰",
+      "onboard_time": 1696923876,
+      "rank": 11,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 679163,
@@ -436,7 +452,7 @@
     },
     {
       "raw_hot": 499203,
-      "num": 251866,
+      "num": 319529,
       "word": "4岁失踪女童父亲向水哥求助",
       "onboard_time": 1696917758,
       "rank": 22,
@@ -465,6 +481,14 @@
       "onboard_time": 1696911284,
       "rank": 24,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 481850,
+      "num": 481850,
+      "word": "人民网评北极鲶鱼事件",
+      "onboard_time": 1696921416,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 454562,
@@ -603,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 384470,
+      "num": 384470,
+      "word": "张艺兴也掏出了压箱底的衣服",
+      "onboard_time": 1696926037,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382724,
       "num": 382724,
       "word": "我是我们班唯一交学费的人",
@@ -633,6 +665,14 @@
       "onboard_time": 1696915837,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 376821,
+      "num": 376821,
+      "word": "梅西确定再次来中国",
+      "onboard_time": 1696924474,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 375569,
@@ -691,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334961,
+      "num": 194841,
+      "word": "全中国最难摸鱼的工位",
+      "onboard_time": 1696924714,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 334335,
       "num": 334335,
       "word": "张小斐新片在黑化边缘反复试探",
@@ -721,14 +769,6 @@
       "onboard_time": 1696867773,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 317564,
-      "num": 317564,
-      "word": "人民网评北极鲶鱼事件",
-      "onboard_time": 1696921416,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 317460,
@@ -769,6 +809,14 @@
       "onboard_time": 1696917275,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 299761,
+      "num": 299761,
+      "word": "丞磊卢昱晓摩天轮合照",
+      "onboard_time": 1696922315,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 299248,
@@ -840,14 +888,6 @@
       "word": "嗯哼甜馨一起郊游",
       "onboard_time": 1696851037,
       "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 283205,
-      "num": 283205,
-      "word": "丞磊卢昱晓摩天轮合照",
-      "onboard_time": 1696922315,
-      "rank": 18,
       "category": "艺人"
     },
     {
@@ -971,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259916,
+      "num": 259916,
+      "word": "妈妈变了 谢谢你丽芬",
+      "onboard_time": 1696923396,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257084,
       "num": 222062,
       "word": "狗子每次去厕所前都会通知全家",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1696910922,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252583,
+      "num": 252583,
+      "word": "2023TMA颁奖礼",
+      "onboard_time": 1696918895,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 251796,
@@ -1049,6 +1105,14 @@
       "onboard_time": 1696915360,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 239667,
+      "num": 239667,
+      "word": "于适脏辫",
+      "onboard_time": 1696925194,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 238672,
@@ -1227,14 +1291,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 212641,
-      "num": 187448,
-      "word": "2023TMA颁奖礼",
-      "onboard_time": 1696918895,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 211430,
       "num": 211430,
       "word": "谭松韵的眼泪像断线的珍珠",
@@ -1353,6 +1409,14 @@
       "onboard_time": 1696899577,
       "rank": 39,
       "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 197381,
+      "num": 197381,
+      "word": "中国驻旧金山总领馆暂停对外办公",
+      "onboard_time": 1696925495,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 197011,
@@ -1747,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122020,
+      "num": 122020,
+      "word": "时之奇旅系列皮肤CG动画",
+      "onboard_time": 1696925436,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 121934,
       "num": 121934,
       "word": "迪丽热巴巴黎vlog",
@@ -1756,7 +1828,7 @@
     },
     {
       "raw_hot": 120993,
-      "num": 197319,
+      "num": 1001815,
       "word": "聚亚洲之力筑未来之路",
       "onboard_time": 1696901071,
       "rank": 48,
