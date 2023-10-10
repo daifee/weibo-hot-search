@@ -1,7 +1,23 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696894452020,
+  "endTime": 1696900295034,
   "band_list": [
+    {
+      "raw_hot": 2003585,
+      "num": 1167140,
+      "word": "从体制内离职的人现在怎么样了",
+      "onboard_time": 1696892903,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1455901,
+      "num": 1455901,
+      "word": "王海举报国企转账私人账户近6亿",
+      "onboard_time": 1696895311,
+      "rank": 0,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1378166,
       "num": 1378166,
@@ -9,6 +25,14 @@
       "onboard_time": 1696861238,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1152816,
+      "num": 1152816,
+      "word": "王楚钦重返男单世界第一",
+      "onboard_time": 1696898677,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 977206,
@@ -36,19 +60,43 @@
     },
     {
       "raw_hot": 815708,
-      "num": 352955,
+      "num": 436959,
       "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
       "onboard_time": 1696858056,
       "rank": 10,
       "category": "综艺"
     },
     {
-      "raw_hot": 726101,
-      "num": 726101,
+      "raw_hot": 768249,
+      "num": 768249,
       "word": "陈奕迅在美吐槽旧金山街头吸毒泛滥",
       "onboard_time": 1696857159,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 732528,
+      "num": 350042,
+      "word": "婚礼的17.5万都花在了哪里",
+      "onboard_time": 1696896932,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 691925,
+      "num": 443581,
+      "word": "抑郁症早期4个危险信号",
+      "onboard_time": 1696899032,
+      "rank": 11,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 679163,
+      "num": 438266,
+      "word": "埃及一警察向以色列旅游团开枪造成至少3人死亡",
+      "onboard_time": 1696896396,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 650002,
@@ -67,8 +115,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 637180,
+      "num": 637180,
+      "word": "哪吒2要来了",
+      "onboard_time": 1696895071,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 602225,
+      "num": 349630,
+      "word": "因为一杯十块钱的奶茶吵架了",
+      "onboard_time": 1696898558,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 540928,
-      "num": 470986,
+      "num": 529806,
       "word": "江歌妈妈直播间来了9万人",
       "onboard_time": 1696866334,
       "rank": 20,
@@ -83,6 +147,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 515590,
+      "num": 394099,
+      "word": "黎巴嫩",
+      "onboard_time": 1696897714,
+      "rank": 17,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 506809,
       "num": 506809,
       "word": "金鸡奖官宣",
@@ -92,19 +164,43 @@
     },
     {
       "raw_hot": 454562,
-      "num": 427576,
+      "num": 430533,
       "word": "以色列炮击黎巴嫩南部地区",
       "onboard_time": 1696866092,
       "rank": 12,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 445527,
-      "num": 155006,
-      "word": "从体制内离职的人现在怎么样了",
-      "onboard_time": 1696892903,
-      "rank": 21,
-      "category": "社会新闻"
+      "raw_hot": 452710,
+      "num": 452710,
+      "word": "王鹤润曾谈和王鹤棣的关系",
+      "onboard_time": 1696857517,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 442421,
+      "num": 348713,
+      "word": "上海一女子到以色列度假遇战乱",
+      "onboard_time": 1696899157,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 439657,
+      "num": 348243,
+      "word": "苹果的苹字还能组成什么词",
+      "onboard_time": 1696894228,
+      "rank": 36,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 422662,
+      "num": 347370,
+      "word": "以色列",
+      "onboard_time": 1696898615,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 421470,
@@ -131,12 +227,52 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 398025,
+      "num": 398025,
+      "word": "原来迪士尼以前叫迪斯尼",
+      "onboard_time": 1696895371,
+      "rank": 16,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 382035,
+      "num": 347807,
+      "word": "爸爸把狗子写在了户口本上",
+      "onboard_time": 1696893746,
+      "rank": 31,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 373496,
       "num": 309049,
       "word": "宫脇咲良发文道歉",
       "onboard_time": 1696857640,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 370774,
+      "num": 370774,
+      "word": "向佐和女儿的相处模式",
+      "onboard_time": 1696896337,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 350440,
+      "num": 350440,
+      "word": "在高铁上痛经被广播求医了",
+      "onboard_time": 1696893687,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 346842,
+      "num": 346842,
+      "word": "主人不在家快递显示狗已签收",
+      "onboard_time": 1696898496,
+      "rank": 26,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 325701,
@@ -155,12 +291,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 316997,
+      "num": 316997,
+      "word": "库克回应每年iPhone几乎没太大升级",
+      "onboard_time": 1696899636,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 301609,
       "num": 301609,
       "word": "蟹老板的女儿为什么是个抹香鲸",
       "onboard_time": 1696858716,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 299248,
+      "num": 299248,
+      "word": "夜色尚浅 GQ盛典",
+      "onboard_time": 1696894892,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 294043,
@@ -179,12 +331,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276299,
+      "num": 276299,
+      "word": "以色列总理称计划对哈马斯发动大规模攻击",
+      "onboard_time": 1696897413,
+      "rank": 29,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 274860,
       "num": 274860,
       "word": "逆水寒疑似将同人图融AI",
       "onboard_time": 1696871600,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 273987,
+      "num": 273987,
+      "word": "你谈不上恋爱的原因",
+      "onboard_time": 1696898977,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 267740,
+      "num": 267740,
+      "word": "在高原呆半个月39岁的我长高两厘米",
+      "onboard_time": 1696893988,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 265772,
+      "num": 265772,
+      "word": "中美关系是世界上最重要的双边关系",
+      "onboard_time": 1696897233,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 251796,
@@ -195,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243997,
+      "num": 243997,
+      "word": "抢到周杰伦演唱会门票能有多嘚瑟",
+      "onboard_time": 1696898077,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238672,
       "num": 238672,
       "word": "赵又廷毛晓彤跳舞金世佳划水",
@@ -203,20 +395,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233413,
-      "num": 115708,
-      "word": "在高铁上痛经被广播求医了",
-      "onboard_time": 1696893687,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 225363,
-      "num": 115453,
-      "word": "爸爸把狗子写在了户口本上",
-      "onboard_time": 1696893746,
-      "rank": 31,
-      "category": "动物萌宠"
+      "raw_hot": 237352,
+      "num": 237352,
+      "word": "8小时睡眠不一定适合每个人",
+      "onboard_time": 1696892964,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 224645,
@@ -235,12 +419,12 @@
       "category": "科技,社会新闻"
     },
     {
-      "raw_hot": 223594,
-      "num": 154906,
-      "word": "8小时睡眠不一定适合每个人",
-      "onboard_time": 1696892964,
-      "rank": 34,
-      "category": "健康医疗"
+      "raw_hot": 218792,
+      "num": 218792,
+      "word": "关晓彤推荐北京美食",
+      "onboard_time": 1696897475,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 214564,
@@ -249,6 +433,14 @@
       "onboard_time": 1696868610,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 213726,
+      "num": 213726,
+      "word": "聊天的时候反感别人回复什么",
+      "onboard_time": 1696895855,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 213691,
@@ -267,6 +459,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 209114,
+      "num": 209114,
+      "word": "旧金山",
+      "onboard_time": 1696899875,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201857,
       "num": 201857,
       "word": "金智秀问是谁说冷的",
@@ -281,6 +481,22 @@
       "onboard_time": 1696854275,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 198146,
+      "num": 198146,
+      "word": "见证了二胡与钢琴神仙打架现场",
+      "onboard_time": 1696899577,
+      "rank": 39,
+      "category": "幽默,社会新闻"
+    },
+    {
+      "raw_hot": 194765,
+      "num": 194765,
+      "word": "手机到底多久换一次最好",
+      "onboard_time": 1696899636,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 193987,
@@ -307,12 +523,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185880,
+      "num": 185880,
+      "word": "湖北首次发布69道预制菜谱",
+      "onboard_time": 1696896814,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185805,
       "num": 185805,
       "word": "少年歌行一次性官宣7部",
       "onboard_time": 1696852657,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 181018,
+      "num": 181018,
+      "word": "库克谈为何每年推出新iPhone",
+      "onboard_time": 1696897413,
+      "rank": 43,
+      "category": "数码"
     },
     {
       "raw_hot": 180818,
@@ -331,6 +563,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 179101,
+      "num": 179101,
+      "word": "篮网vs湖人",
+      "onboard_time": 1696899454,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 173029,
+      "num": 173029,
+      "word": "NBA季前赛",
+      "onboard_time": 1696900055,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172943,
+      "num": 172943,
+      "word": "男子爬山遇满山垃圾半天捡五大袋",
+      "onboard_time": 1696899275,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170381,
       "num": 170381,
       "word": "女儿凌晨3点起床帮妈妈剥玉米",
@@ -347,12 +603,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 154870,
-      "num": 154870,
-      "word": "王鹤润曾谈和王鹤棣的关系",
-      "onboard_time": 1696857517,
-      "rank": 35,
-      "category": "剧集"
+      "raw_hot": 166066,
+      "num": 166066,
+      "word": "关晓彤李雪琴在八卦的爱好上同频了",
+      "onboard_time": 1696897837,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165237,
+      "num": 165237,
+      "word": "陈绮贞 疯狂又浪漫又不切实际",
+      "onboard_time": 1696895613,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 153266,
@@ -491,28 +755,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 113402,
-      "num": 113402,
-      "word": "苹果的苹字还能组成什么词",
-      "onboard_time": 1696894228,
-      "rank": 36,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 113038,
       "num": 113038,
       "word": "范丞丞问孟子义是不是假戏真做",
       "onboard_time": 1696860459,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 112101,
-      "num": 112101,
-      "word": "在高原呆半个月39岁的我长高两厘米",
-      "onboard_time": 1696893988,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 110021,
@@ -579,20 +827,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 73924,
+      "num": 1167725,
+      "word": "中国申办亚运时的承诺都做到了",
+      "onboard_time": 1696854094,
+      "rank": 2,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 69859,
       "num": 81439,
       "word": "很难想象广西人的快乐",
       "onboard_time": 1696869206,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 63759,
-      "num": 851383,
-      "word": "中国申办亚运时的承诺都做到了",
-      "onboard_time": 1696854094,
-      "rank": 2,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 63454,
