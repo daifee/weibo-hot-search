@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696933163664,
+  "endTime": 1696934176943,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -51,10 +51,26 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2190017,
+      "num": 2190017,
+      "word": "欧阳娣娣 创5",
+      "onboard_time": 1696931795,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2093961,
       "num": 1234463,
       "word": "北极鲶鱼的爷爷或不会被起诉判刑",
       "onboard_time": 1696917996,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2076789,
+      "num": 643449,
+      "word": "北极鲶鱼",
+      "onboard_time": 1696930414,
       "rank": 20,
       "category": "社会新闻"
     },
@@ -67,14 +83,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1990931,
-      "num": 1990931,
-      "word": "欧阳娣娣 创5",
-      "onboard_time": 1696931795,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1977817,
       "num": 1977817,
       "word": "北极鲶鱼爷爷曾称老老实实干到退休",
@@ -83,12 +91,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1939787,
-      "num": 580667,
-      "word": "北极鲶鱼",
-      "onboard_time": 1696930414,
-      "rank": 20,
-      "category": "社会新闻"
+      "raw_hot": 1885742,
+      "num": 1885742,
+      "word": "创5选手撞脸鹿晗关晓彤",
+      "onboard_time": 1696932213,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1692929,
@@ -137,14 +145,6 @@
       "onboard_time": 1696917455,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1317817,
-      "num": 1317817,
-      "word": "创5选手撞脸鹿晗关晓彤",
-      "onboard_time": 1696932213,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1173006,
@@ -491,6 +491,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 532016,
+      "num": 532016,
+      "word": "周杰伦上海",
+      "onboard_time": 1696927414,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 525673,
       "num": 525673,
       "word": "BABYMONSTER官宣将出道",
@@ -553,14 +561,6 @@
       "onboard_time": 1696921416,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486143,
-      "num": 486143,
-      "word": "周杰伦上海",
-      "onboard_time": 1696927414,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 483413,
@@ -689,6 +689,14 @@
       "onboard_time": 1696887433,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 419939,
+      "num": 215401,
+      "word": "最走心的婚礼朋友圈邀请",
+      "onboard_time": 1696933056,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 419447,
@@ -883,6 +891,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 323531,
+      "num": 323531,
+      "word": "虞书欣裸色山茶花挂脖上衣",
+      "onboard_time": 1696928432,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323175,
       "num": 323175,
       "word": "北极鲶鱼事件的启示",
@@ -931,14 +947,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 300550,
-      "num": 300550,
-      "word": "虞书欣裸色山茶花挂脖上衣",
-      "onboard_time": 1696928432,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 299863,
       "num": 242842,
       "word": "刘诗雯vs刘斐",
@@ -969,6 +977,14 @@
       "onboard_time": 1696894892,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 297978,
+      "num": 297978,
+      "word": "aespa黑裙造型",
+      "onboard_time": 1696932453,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 296217,
@@ -1219,11 +1235,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 254702,
-      "num": 254702,
-      "word": "aespa黑裙造型",
-      "onboard_time": 1696932453,
-      "rank": 27,
+      "raw_hot": 255465,
+      "num": 255465,
+      "word": "刘亦菲红玫瑰白旗袍",
+      "onboard_time": 1696933534,
+      "rank": 26,
       "category": "作品衍生"
     },
     {
@@ -1411,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 226486,
+      "num": 226486,
+      "word": "赵丽颖好优雅的美",
+      "onboard_time": 1696931075,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226455,
       "num": 226455,
       "word": "男生在1300度高温下做出一朵牡丹花",
@@ -1424,14 +1448,6 @@
       "word": "原来有人一天工作18个小时",
       "onboard_time": 1696920273,
       "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225041,
-      "num": 225041,
-      "word": "赵丽颖好优雅的美",
-      "onboard_time": 1696931075,
-      "rank": 33,
       "category": "作品衍生"
     },
     {
@@ -1491,6 +1507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214052,
+      "num": 2012285,
+      "word": "走失32年男子认亲背起妈妈回家",
+      "onboard_time": 1696932815,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213726,
       "num": 213726,
       "word": "聊天的时候反感别人回复什么",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1696908454,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211188,
+      "num": 211188,
+      "word": "以军称发现1500具哈马斯武装人员尸体",
+      "onboard_time": 1696933655,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 210641,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1696912905,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204039,
+      "num": 204039,
+      "word": "张云雷直播",
+      "onboard_time": 1696933242,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 202896,
@@ -1659,6 +1699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194536,
+      "num": 194536,
+      "word": "陈楚生老婆说胡兵心态好年轻",
+      "onboard_time": 1696933534,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193987,
       "num": 193987,
       "word": "终于看到先脱鞋再进门的欧美人",
@@ -1723,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 186073,
+      "num": 186073,
+      "word": "朱一龙把马哲演活了",
+      "onboard_time": 1696933296,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 185880,
       "num": 185880,
       "word": "湖北首次发布69道预制菜谱",
@@ -1747,6 +1803,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 183463,
+      "num": 183463,
+      "word": "邓超偷拍孙俪练拳击",
+      "onboard_time": 1696933895,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183243,
       "num": 183243,
       "word": "乐队的夏天演唱会阵容",
@@ -1769,6 +1833,14 @@
       "onboard_time": 1696905933,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182049,
+      "num": 1462495,
+      "word": "民警熊抱劝阻被骗男子转账",
+      "onboard_time": 1696932155,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181329,
@@ -1827,28 +1899,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 177761,
-      "num": 177761,
-      "word": "最走心的婚礼朋友圈邀请",
-      "onboard_time": 1696933056,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 174880,
       "num": 172384,
       "word": "小学生精神状态领先我十几年",
       "onboard_time": 1696932574,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 174419,
-      "num": 1252461,
-      "word": "民警熊抱劝阻被骗男子转账",
-      "onboard_time": 1696932155,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173681,
@@ -1865,14 +1921,6 @@
       "onboard_time": 1696908572,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173057,
-      "num": 447511,
-      "word": "走失32年男子认亲背起妈妈回家",
-      "onboard_time": 1696932815,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173029,
@@ -1980,7 +2028,7 @@
     },
     {
       "raw_hot": 156011,
-      "num": 1318769,
+      "num": 1904137,
       "word": "马尔代夫第一座跨海大桥是中国造",
       "onboard_time": 1696929933,
       "rank": 2,
@@ -2025,6 +2073,14 @@
       "onboard_time": 1696899994,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146733,
+      "num": 146733,
+      "word": "油价",
+      "onboard_time": 1696933955,
+      "rank": 46,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 141937,

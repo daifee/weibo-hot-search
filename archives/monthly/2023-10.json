@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696933163664,
+  "endTime": 1696934176943,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -763,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2190017,
+      "num": 2190017,
+      "word": "欧阳娣娣 创5",
+      "onboard_time": 1696931795,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2172583,
       "num": 2172583,
       "word": "日本流水面致892人中毒",
@@ -907,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2076789,
+      "num": 643449,
+      "word": "北极鲶鱼",
+      "onboard_time": 1696930414,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2066511,
       "num": 939062,
       "word": "爱马仕总监晒和Angelababy合照",
@@ -1011,14 +1027,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 1990931,
-      "num": 1990931,
-      "word": "欧阳娣娣 创5",
-      "onboard_time": 1696931795,
-      "rank": 0,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1977817,
       "num": 1977817,
       "word": "北极鲶鱼爷爷曾称老老实实干到退休",
@@ -1049,14 +1057,6 @@
       "onboard_time": 1696638216,
       "rank": 1,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1939787,
-      "num": 580667,
-      "word": "北极鲶鱼",
-      "onboard_time": 1696930414,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1937005,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1696758154,
       "rank": 5,
       "category": "美食"
+    },
+    {
+      "raw_hot": 1885742,
+      "num": 1885742,
+      "word": "创5选手撞脸鹿晗关晓彤",
+      "onboard_time": 1696932213,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1872520,
@@ -2313,14 +2321,6 @@
       "onboard_time": 1696341338,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1317817,
-      "num": 1317817,
-      "word": "创5选手撞脸鹿晗关晓彤",
-      "onboard_time": 1696932213,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1315790,
@@ -7435,6 +7435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 532016,
+      "num": 532016,
+      "word": "周杰伦上海",
+      "onboard_time": 1696927414,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 531707,
       "num": 531707,
       "word": "TFBOYS为王俊凯特约策展人打call",
@@ -8249,14 +8257,6 @@
       "onboard_time": 1696843415,
       "rank": 31,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 486143,
-      "num": 486143,
-      "word": "周杰伦上海",
-      "onboard_time": 1696927414,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 485265,
@@ -9649,6 +9649,14 @@
       "onboard_time": 1696318231,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 419939,
+      "num": 215401,
+      "word": "最走心的婚礼朋友圈邀请",
+      "onboard_time": 1696933056,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 419595,
@@ -12435,6 +12443,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 323531,
+      "num": 323531,
+      "word": "虞书欣裸色山茶花挂脖上衣",
+      "onboard_time": 1696928432,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 323505,
       "num": 323505,
       "word": "丫丫一把薅掉蓝球只吃笋笋",
@@ -13299,14 +13315,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300550,
-      "num": 300550,
-      "word": "虞书欣裸色山茶花挂脖上衣",
-      "onboard_time": 1696928432,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 300249,
       "num": 300249,
       "word": "柯洁战胜许家元",
@@ -13481,6 +13489,14 @@
       "onboard_time": 1696392700,
       "rank": 28,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 297978,
+      "num": 297978,
+      "word": "aespa黑裙造型",
+      "onboard_time": 1696932453,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 297587,
@@ -16035,6 +16051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255465,
+      "num": 255465,
+      "word": "刘亦菲红玫瑰白旗袍",
+      "onboard_time": 1696933534,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 255183,
       "num": 255183,
       "word": "赵小棠把蒙古帽披在了身上",
@@ -16057,14 +16081,6 @@
       "onboard_time": 1696413336,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 254702,
-      "num": 254702,
-      "word": "aespa黑裙造型",
-      "onboard_time": 1696932453,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 254691,
@@ -17763,6 +17779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226486,
+      "num": 226486,
+      "word": "赵丽颖好优雅的美",
+      "onboard_time": 1696931075,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 226455,
       "num": 226455,
       "word": "男生在1300度高温下做出一朵牡丹花",
@@ -17889,14 +17913,6 @@
       "onboard_time": 1696652384,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225041,
-      "num": 225041,
-      "word": "赵丽颖好优雅的美",
-      "onboard_time": 1696931075,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224854,
@@ -18659,6 +18675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214052,
+      "num": 2012285,
+      "word": "走失32年男子认亲背起妈妈回家",
+      "onboard_time": 1696932815,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214032,
       "num": 214032,
       "word": "冯琳气质",
@@ -18881,6 +18905,14 @@
       "onboard_time": 1696552412,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 211188,
+      "num": 211188,
+      "word": "以军称发现1500具哈马斯武装人员尸体",
+      "onboard_time": 1696933655,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 211156,
@@ -19593,6 +19625,14 @@
       "onboard_time": 1696079565,
       "rank": 29,
       "category": "教育"
+    },
+    {
+      "raw_hot": 204039,
+      "num": 204039,
+      "word": "张云雷直播",
+      "onboard_time": 1696933242,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 203796,
@@ -20619,6 +20659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194536,
+      "num": 194536,
+      "word": "陈楚生老婆说胡兵心态好年轻",
+      "onboard_time": 1696933534,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194501,
       "num": 194501,
       "word": "林俊杰重拾快乐",
@@ -21451,6 +21499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186073,
+      "num": 186073,
+      "word": "朱一龙把马哲演活了",
+      "onboard_time": 1696933296,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186041,
       "num": 186041,
       "word": "时装周最出圈明星前二十",
@@ -21699,6 +21755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183463,
+      "num": 183463,
+      "word": "邓超偷拍孙俪练拳击",
+      "onboard_time": 1696933895,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183442,
       "num": 183442,
       "word": "2023挑战者杯抽签结果",
@@ -21881,6 +21945,14 @@
       "onboard_time": 1696817074,
       "rank": 40,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 182049,
+      "num": 1462495,
+      "word": "民警熊抱劝阻被骗男子转账",
+      "onboard_time": 1696932155,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 182008,
@@ -22187,14 +22259,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 177761,
-      "num": 177761,
-      "word": "最走心的婚礼朋友圈邀请",
-      "onboard_time": 1696933056,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 177594,
       "num": 177594,
       "word": "郑恺潜伏在影院看前任4",
@@ -22475,14 +22539,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 174419,
-      "num": 1252461,
-      "word": "民警熊抱劝阻被骗男子转账",
-      "onboard_time": 1696932155,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 174316,
       "num": 174316,
       "word": "患强直性脊柱炎的他从警30年破案千起",
@@ -22561,14 +22617,6 @@
       "onboard_time": 1696908572,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173057,
-      "num": 447511,
-      "word": "走失32年男子认亲背起妈妈回家",
-      "onboard_time": 1696932815,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 173038,
@@ -23796,7 +23844,7 @@
     },
     {
       "raw_hot": 156011,
-      "num": 1318769,
+      "num": 1904137,
       "word": "马尔代夫第一座跨海大桥是中国造",
       "onboard_time": 1696929933,
       "rank": 2,
@@ -24313,6 +24361,14 @@
       "onboard_time": 1696899994,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146733,
+      "num": 146733,
+      "word": "油价",
+      "onboard_time": 1696933955,
+      "rank": 46,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 146572,
