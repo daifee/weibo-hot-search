@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696952067072,
+  "endTime": 1696954974153,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -1899,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 598221,
+      "num": 598221,
+      "word": "seventeen",
+      "onboard_time": 1696952196,
+      "rank": 5,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 595324,
       "num": 595324,
       "word": "2岁宝宝独自在家把自己照顾得很好",
@@ -2883,6 +2891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 421608,
+      "num": 421608,
+      "word": "52岁瞿颖走秀状态",
+      "onboard_time": 1696951538,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 421470,
       "num": 421470,
       "word": "售楼处回应女业主遭保安轮流泼水",
@@ -3539,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345736,
+      "num": 345736,
+      "word": "占美人口3%犹太人操纵七成美国财富",
+      "onboard_time": 1696949438,
+      "rank": 28,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 344964,
       "num": 498741,
       "word": "康辉说非要说满三次",
@@ -3739,6 +3763,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 325772,
+      "num": 325772,
+      "word": "巴以冲突已致近1700人死亡",
+      "onboard_time": 1696952735,
+      "rank": 9,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 324291,
       "num": 324291,
       "word": "订婚结束新娘家人将彩礼还给新郎",
@@ -3793,6 +3825,22 @@
       "onboard_time": 1696730973,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321983,
+      "num": 283984,
+      "word": "上海4岁女童失踪海滩入口已封闭",
+      "onboard_time": 1696950941,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320849,
+      "num": 320849,
+      "word": "属于i人的季节来了",
+      "onboard_time": 1696951898,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 320454,
@@ -4323,14 +4371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283984,
-      "num": 283984,
-      "word": "上海4岁女童失踪海滩入口已封闭",
-      "onboard_time": 1696950941,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 283900,
       "num": 283900,
       "word": "Yamy新歌大女主粤语rap",
@@ -4531,14 +4571,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 272466,
-      "num": 272466,
-      "word": "占美人口3%犹太人操纵七成美国财富",
-      "onboard_time": 1696949438,
-      "rank": 28,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 272319,
       "num": 272319,
       "word": "新中式馒头为什么没人吃了",
@@ -4673,14 +4705,6 @@
       "onboard_time": 1696782927,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 266653,
-      "num": 266653,
-      "word": "52岁瞿颖走秀状态",
-      "onboard_time": 1696951538,
-      "rank": 30,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265772,
@@ -5057,6 +5081,14 @@
       "onboard_time": 1696860399,
       "rank": 32,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 250129,
+      "num": 250129,
+      "word": "孟子义素颜自拍",
+      "onboard_time": 1696952735,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 250088,
@@ -7971,12 +8003,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 131314,
-      "num": 131314,
-      "word": "属于i人的季节来了",
-      "onboard_time": 1696951898,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 131230,
+      "num": 131230,
+      "word": "给南风知我意来杯碧茶之毒",
+      "onboard_time": 1696953216,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 130381,
@@ -8075,6 +8107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123190,
+      "num": 123190,
+      "word": "好羡慕能带薪发疯的工作",
+      "onboard_time": 1696954891,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123114,
       "num": 123114,
       "word": "台风小犬",
@@ -8153,6 +8193,14 @@
       "onboard_time": 1696781970,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114689,
+      "num": 114689,
+      "word": "乐夏应该给大张伟开三份儿钱",
+      "onboard_time": 1696954172,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 113780,
