@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696937655240,
+  "endTime": 1696941210951,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1978389,
+      "num": 901492,
+      "word": "相亲发生关系男子被控强奸迎反转",
+      "onboard_time": 1696935755,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1977817,
       "num": 1977817,
       "word": "北极鲶鱼爷爷曾称老老实实干到退休",
@@ -113,6 +121,14 @@
       "onboard_time": 1696936239,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1628069,
+      "num": 1628069,
+      "word": "删除微信好友能保留聊天记录",
+      "onboard_time": 1696937735,
+      "rank": 0,
+      "category": "互联网"
     },
     {
       "raw_hot": 1552038,
@@ -177,14 +193,6 @@
       "onboard_time": 1696898677,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1104764,
-      "num": 239794,
-      "word": "相亲发生关系男子被控强奸迎反转",
-      "onboard_time": 1696935755,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1016869,
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 833330,
+      "num": 833330,
+      "word": "9月新增本土新冠死亡病例45例",
+      "onboard_time": 1696940136,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 829439,
       "num": 829439,
       "word": "献鱼",
@@ -329,6 +345,14 @@
       "onboard_time": 1696909180,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 799422,
+      "num": 799422,
+      "word": "中国公民自愿离开巴以外交部将全力协助",
+      "onboard_time": 1696937439,
+      "rank": 27,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 768249,
@@ -539,6 +563,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 537061,
+      "num": 537061,
+      "word": "晚上十一点之前尽量入睡",
+      "onboard_time": 1696940136,
+      "rank": 7,
+      "category": "其它"
+    },
+    {
       "raw_hot": 532016,
       "num": 532016,
       "word": "周杰伦上海",
@@ -635,12 +667,28 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 466349,
+      "num": 466349,
+      "word": "丰田经销商吼客户买十万的车叫什么叫",
+      "onboard_time": 1696938758,
+      "rank": 9,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 463530,
       "num": 463530,
       "word": "创造营2024",
       "onboard_time": 1696928974,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 456387,
+      "num": 456387,
+      "word": "丰田4S店就怒怼客户道歉",
+      "onboard_time": 1696936712,
+      "rank": 29,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 454562,
@@ -1155,6 +1203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286929,
+      "num": 286929,
+      "word": "多亏看了黄景瑜的剧",
+      "onboard_time": 1696940378,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286769,
       "num": 286769,
       "word": "S13出征海报",
@@ -1411,14 +1467,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 245263,
-      "num": 245263,
-      "word": "中国公民自愿离开巴以外交部将全力协助",
-      "onboard_time": 1696937439,
-      "rank": 27,
-      "category": "国内要闻,社会新闻"
-    },
-    {
       "raw_hot": 244677,
       "num": 244677,
       "word": "广西街头10元能买70个火龙果",
@@ -1457,14 +1505,6 @@
       "onboard_time": 1696899875,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240592,
-      "num": 240592,
-      "word": "丰田4S店就怒怼客户道歉",
-      "onboard_time": 1696936712,
-      "rank": 29,
-      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 239720,
@@ -1643,6 +1683,14 @@
       "category": "科技,社会新闻"
     },
     {
+      "raw_hot": 219554,
+      "num": 219554,
+      "word": "二十届中央第二轮巡视对象公布",
+      "onboard_time": 1696940739,
+      "rank": 23,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 218792,
       "num": 218792,
       "word": "关晓彤推荐北京美食",
@@ -1656,6 +1704,14 @@
       "word": "巴以冲突死亡人数升至约1600人",
       "onboard_time": 1696900714,
       "rank": 37,
+      "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 215608,
+      "num": 215608,
+      "word": "以色列否认卡塔尔就人质问题展开斡旋",
+      "onboard_time": 1696938038,
+      "rank": 24,
       "category": "国外要闻,军事"
     },
     {
@@ -1721,6 +1777,14 @@
       "onboard_time": 1696905152,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209855,
+      "num": 209855,
+      "word": "徐海东3比1许昕",
+      "onboard_time": 1696938093,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 207980,
@@ -1817,6 +1881,14 @@
       "onboard_time": 1696904913,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 199250,
+      "num": 199250,
+      "word": "你认为最伤胃的行为是什么",
+      "onboard_time": 1696940136,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 198459,
@@ -1937,6 +2009,14 @@
       "onboard_time": 1696866579,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187825,
+      "num": 187825,
+      "word": "男子被老同学诈骗51万仍与其结婚",
+      "onboard_time": 1696940556,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187050,
@@ -2075,6 +2155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 175243,
+      "num": 175243,
+      "word": "ITZY",
+      "onboard_time": 1696941157,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 174880,
       "num": 172384,
       "word": "小学生精神状态领先我十几年",
@@ -2145,6 +2233,14 @@
       "onboard_time": 1696857033,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 166336,
+      "num": 166336,
+      "word": "Sohee新发色",
+      "onboard_time": 1696938093,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166066,
