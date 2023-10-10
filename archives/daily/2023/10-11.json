@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696958030533,
+  "endTime": 1696959256337,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 200461,
-      "num": 149210,
+      "num": 157458,
       "word": "好羡慕能带薪发疯的工作",
       "onboard_time": 1696954891,
       "rank": 43,
@@ -411,12 +411,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 57424,
+      "num": 57424,
+      "word": "原神海维 核中宇宙",
+      "onboard_time": 1696958360,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 55653,
       "num": 55653,
       "word": "好喜欢这样的婚礼气氛",
       "onboard_time": 1696958001,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 46810,
+      "num": 52305,
+      "word": "cp30",
+      "onboard_time": 1696944760,
+      "rank": 43,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 39178,
+      "num": 52282,
+      "word": "待播古偶神仙打架",
+      "onboard_time": 1696942717,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 38306,
