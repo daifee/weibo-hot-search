@@ -1,0 +1,410 @@
+{
+  "runTime": 1696914974172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9868826,
+        "num": 9868826,
+        "word": "官方通报北极鲶鱼事件",
+        "onboard_time": 1696907913,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9851631,
+        "num": 9851631,
+        "word": "北极鲶鱼爷爷违法违纪所得被收缴",
+        "onboard_time": 1696912543,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138846,
+        "num": 1385931,
+        "word": "用中国传统色打开秋天",
+        "onboard_time": 1696911227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9425787,
+        "num": 9425787,
+        "word": "北极鲶鱼爷爷被开除党籍",
+        "onboard_time": 1696908214,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001184,
+        "num": 1001184,
+        "word": "余华 希望一直卖版权一直不拍",
+        "onboard_time": 1696911943,
+        "rank": 4,
+        "category": "电影,电影"
+      },
+      {
+        "raw_hot": 959424,
+        "num": 959424,
+        "word": "黑龙江一小学食堂6名学生吃2盘菜",
+        "onboard_time": 1696910623,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 650064,
+        "num": 650064,
+        "word": "上海一女子到以色列度假遇战乱",
+        "onboard_time": 1696899157,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 616769,
+        "num": 616769,
+        "word": "冲闯中国总领馆男子被击毙",
+        "onboard_time": 1696906054,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 528686,
+        "num": 528686,
+        "word": "江歌妈妈首场直播带货超百万元",
+        "onboard_time": 1696913921,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507525,
+        "num": 507525,
+        "word": "TFBOYS明天见登十大巅峰单曲",
+        "onboard_time": 1696909180,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 462488,
+        "num": 462488,
+        "word": "武林外传里的女性角色都好正常",
+        "onboard_time": 1696910623,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398049,
+        "num": 398049,
+        "word": "从体制内离职的人现在怎么样了",
+        "onboard_time": 1696892903,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392731,
+        "num": 392731,
+        "word": "陈牧驰高中的照片",
+        "onboard_time": 1696907615,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 318761,
+        "num": 318761,
+        "word": "迪丽热巴成都双子塔地广",
+        "onboard_time": 1696911465,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316320,
+        "num": 316320,
+        "word": "老头衫的受众其实是女高",
+        "onboard_time": 1696901673,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 299064,
+        "num": 299064,
+        "word": "以色列",
+        "onboard_time": 1696898615,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 293486,
+        "num": 293486,
+        "word": "BABYMONSTER官宣将出道",
+        "onboard_time": 1696914702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292209,
+        "num": 292209,
+        "word": "武打演员孟海去世",
+        "onboard_time": 1696902812,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296893,
+        "num": 291870,
+        "word": "路人看到迪丽热巴真人的评价",
+        "onboard_time": 1696912366,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288302,
+        "num": 288302,
+        "word": "RIIZE成员SOHEE旧照",
+        "onboard_time": 1696913023,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553113,
+        "num": 288026,
+        "word": "医生提醒洗澡时不要清理肚脐眼",
+        "onboard_time": 1696904733,
+        "rank": 20,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 521364,
+        "num": 287968,
+        "word": "i人真的适合当大学老师",
+        "onboard_time": 1696912064,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422849,
+        "num": 287391,
+        "word": "23岁长高了5厘米",
+        "onboard_time": 1696900474,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286769,
+        "num": 286769,
+        "word": "S13出征海报",
+        "onboard_time": 1696913564,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 385198,
+        "num": 285187,
+        "word": "广东真的没有穿衣焦虑",
+        "onboard_time": 1696911943,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 384993,
+        "num": 283290,
+        "word": "两女子违规穿越终身禁入四姑娘山",
+        "onboard_time": 1696908940,
+        "rank": 25,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 372113,
+        "num": 280608,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325653,
+        "num": 277676,
+        "word": "空心菜吃了会抽筋且致癌吗",
+        "onboard_time": 1696911284,
+        "rank": 27,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 305551,
+        "num": 275255,
+        "word": "妻子患渐冻症丈夫温情守护16年",
+        "onboard_time": 1696913264,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273719,
+        "num": 273719,
+        "word": "蝴蝶停在了梅德韦杰夫的网球上",
+        "onboard_time": 1696913624,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 282013,
+        "num": 272989,
+        "word": "女子冒充男人与闺蜜恋爱",
+        "onboard_time": 1696910024,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271101,
+        "num": 271101,
+        "word": "李一桐梦女多的原因找到了",
+        "onboard_time": 1696914583,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262521,
+        "num": 262521,
+        "word": "张杰万物不如你十大巅峰单曲",
+        "onboard_time": 1696913385,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260771,
+        "num": 260771,
+        "word": "为什么大学图书馆门口楼梯这么多",
+        "onboard_time": 1696913624,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255949,
+        "num": 255949,
+        "word": "喝完喜酒回去只记得花童了",
+        "onboard_time": 1696912605,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 251941,
+        "num": 251941,
+        "word": "广东廉江一校车被撞幼儿哭声一片",
+        "onboard_time": 1696914519,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251547,
+        "num": 251547,
+        "word": "任敏清纯感",
+        "onboard_time": 1696911586,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250915,
+        "num": 250915,
+        "word": "女子PPT举报前夫婚内出轨博士造假",
+        "onboard_time": 1696861238,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245618,
+        "num": 245618,
+        "word": "男子将亲生儿子以3万元卖掉",
+        "onboard_time": 1696904491,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 241996,
+        "num": 241996,
+        "word": "周也恶女妆造",
+        "onboard_time": 1696904790,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238538,
+        "num": 238538,
+        "word": "谭松韵新片演闫妮吴京女儿",
+        "onboard_time": 1696905209,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230978,
+        "num": 230978,
+        "word": "因为一杯十块钱的奶茶吵架了",
+        "onboard_time": 1696898558,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230137,
+        "num": 230137,
+        "word": "张凌赫四人小分队搞不定一个手机",
+        "onboard_time": 1696913745,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204301,
+        "num": 204301,
+        "word": "刘捷任中共浙江省委副书记",
+        "onboard_time": 1696912905,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198111,
+        "num": 198111,
+        "word": "陈奕迅成都演唱会连开6场",
+        "onboard_time": 1696905631,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 197411,
+        "num": 197411,
+        "word": "乐队的夏天演唱会 工体",
+        "onboard_time": 1696914881,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194642,
+        "num": 194642,
+        "word": "网传GQ盛典出席明星",
+        "onboard_time": 1696906111,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193044,
+        "num": 193044,
+        "word": "谷江山 抢票",
+        "onboard_time": 1696914400,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 183243,
+        "num": 183243,
+        "word": "乐队的夏天演唱会阵容",
+        "onboard_time": 1696913803,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 178431,
+        "num": 178431,
+        "word": "我是我们班唯一交学费的人",
+        "onboard_time": 1696901851,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系是世界上最重要的双边关系#"
+    }
+  }
+}
