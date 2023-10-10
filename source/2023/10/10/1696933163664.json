@@ -1,0 +1,410 @@
+{
+  "runTime": 1696933163664,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1990931,
+        "num": 1990931,
+        "word": "欧阳娣娣 创5",
+        "onboard_time": 1696931795,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198459,
+        "num": 1326157,
+        "word": "民警护送两名七旬老人成功逃离火场",
+        "onboard_time": 1696930772,
+        "rank": 1,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 156011,
+        "num": 1318769,
+        "word": "马尔代夫第一座跨海大桥是中国造",
+        "onboard_time": 1696929933,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1317817,
+        "num": 1317817,
+        "word": "创5选手撞脸鹿晗关晓彤",
+        "onboard_time": 1696932213,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174419,
+        "num": 1252461,
+        "word": "民警熊抱劝阻被骗男子转账",
+        "onboard_time": 1696932155,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1249072,
+        "num": 1249072,
+        "word": "创5 熟人",
+        "onboard_time": 1696925615,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 852552,
+        "num": 852552,
+        "word": "你吃的油很可能早过期了",
+        "onboard_time": 1696928554,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 753270,
+        "num": 753270,
+        "word": "63岁老人免费体检后多次手术身亡",
+        "onboard_time": 1696928312,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706117,
+        "num": 706117,
+        "word": "我国芯片领域获重大突破",
+        "onboard_time": 1696928013,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 626855,
+        "num": 626855,
+        "word": "阿扎尔宣布退役",
+        "onboard_time": 1696929875,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 713864,
+        "num": 605856,
+        "word": "二级科员是什么级别",
+        "onboard_time": 1696919794,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1939787,
+        "num": 580667,
+        "word": "北极鲶鱼",
+        "onboard_time": 1696930414,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510682,
+        "num": 510682,
+        "word": "历史上最著名的天津人叫哪吒",
+        "onboard_time": 1696927174,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 486143,
+        "num": 486143,
+        "word": "周杰伦上海",
+        "onboard_time": 1696927414,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 621515,
+        "num": 483759,
+        "word": "官方通报北极鲶鱼事件",
+        "onboard_time": 1696907913,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472417,
+        "num": 472417,
+        "word": "每天喝咖啡会导致卵巢囊肿吗",
+        "onboard_time": 1696919915,
+        "rank": 15,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 173057,
+        "num": 447511,
+        "word": "走失32年男子认亲背起妈妈回家",
+        "onboard_time": 1696932815,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446131,
+        "num": 446131,
+        "word": "王玉雯像极了美人鱼",
+        "onboard_time": 1696928852,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 403817,
+        "num": 403817,
+        "word": "台媒曝炎亚纶将改名转运",
+        "onboard_time": 1696917455,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 344722,
+        "num": 344722,
+        "word": "献鱼",
+        "onboard_time": 1696926814,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1197766,
+        "num": 344331,
+        "word": "北极鲶鱼爷爷违法违纪所得被收缴",
+        "onboard_time": 1696912543,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 949013,
+        "num": 343473,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342491,
+        "num": 342491,
+        "word": "创造营2024",
+        "onboard_time": 1696928974,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 332380,
+        "num": 332380,
+        "word": "人有三样东西是无法隐瞒的",
+        "onboard_time": 1696931132,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 722147,
+        "num": 328716,
+        "word": "北极鲶鱼爷爷被开除党籍",
+        "onboard_time": 1696908214,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273889,
+        "num": 273889,
+        "word": "北极鲶鱼爷爷曾称老老实实干到退休",
+        "onboard_time": 1696916856,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267589,
+        "num": 267589,
+        "word": "虞书欣裸色山茶花挂脖上衣",
+        "onboard_time": 1696928432,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 254702,
+        "num": 254702,
+        "word": "aespa黑裙造型",
+        "onboard_time": 1696932453,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 100768,
+        "num": 253291,
+        "word": "女子路遇大爷晕倒立刻人工呼吸救助",
+        "onboard_time": 1696930292,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252510,
+        "num": 252510,
+        "word": "张艺兴也掏出了压箱底的衣服",
+        "onboard_time": 1696926037,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242781,
+        "num": 242781,
+        "word": "2023TMA红毯",
+        "onboard_time": 1696926874,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238827,
+        "num": 238827,
+        "word": "小鹏汽车部门负责人停职员工配合调查",
+        "onboard_time": 1696929994,
+        "rank": 31,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 226009,
+        "num": 226009,
+        "word": "北京街头惊现4匹大马",
+        "onboard_time": 1696929636,
+        "rank": 32,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 225041,
+        "num": 225041,
+        "word": "赵丽颖好优雅的美",
+        "onboard_time": 1696931075,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210398,
+        "num": 210398,
+        "word": "4岁失踪女童父亲向水哥求助",
+        "onboard_time": 1696917758,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206834,
+        "num": 206834,
+        "word": "2023TMA颁奖礼",
+        "onboard_time": 1696918895,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202356,
+        "num": 202356,
+        "word": "亚运霹雳舞冠军评价王一博舞技",
+        "onboard_time": 1696927715,
+        "rank": 36,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 196890,
+        "num": 196890,
+        "word": "令人心动的offer",
+        "onboard_time": 1696929455,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190533,
+        "num": 190533,
+        "word": "杨幂塑料袋头饰",
+        "onboard_time": 1696923876,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186548,
+        "num": 186548,
+        "word": "分享结扎经历被嘲太监当事人发声",
+        "onboard_time": 1696926213,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179480,
+        "num": 179480,
+        "word": "薛之谦成都",
+        "onboard_time": 1696931253,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177761,
+        "num": 177761,
+        "word": "最走心的婚礼朋友圈邀请",
+        "onboard_time": 1696933056,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176260,
+        "num": 176260,
+        "word": "孙颖莎世排积分全是冠军",
+        "onboard_time": 1696921356,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172586,
+        "num": 172586,
+        "word": "网传浪姐5将邀请朴彩英",
+        "onboard_time": 1696918656,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174880,
+        "num": 172384,
+        "word": "小学生精神状态领先我十几年",
+        "onboard_time": 1696932574,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171042,
+        "num": 171042,
+        "word": "S13",
+        "onboard_time": 1696926874,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 167378,
+        "num": 167378,
+        "word": "创5路透",
+        "onboard_time": 1696917939,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163433,
+        "num": 163433,
+        "word": "全中国最难摸鱼的工位",
+        "onboard_time": 1696924714,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 160975,
+        "num": 160975,
+        "word": "小伙用玉米皮做凤冠奶奶戴上超惊艳",
+        "onboard_time": 1696927354,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156918,
+        "num": 156918,
+        "word": "医院应不应该设置VIP",
+        "onboard_time": 1696931736,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路白皮书#"
+    }
+  }
+}
