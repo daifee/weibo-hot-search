@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696977250662,
+  "endTime": 1696979836645,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -2073,6 +2073,14 @@
       "onboard_time": 1696824821,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 545411,
+      "num": 545411,
+      "word": "动车卫生间里居然长了眼",
+      "onboard_time": 1696943797,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 543299,
@@ -4360,14 +4368,6 @@
       "word": "男管家3个月偷进女租客家近30次",
       "onboard_time": 1696819054,
       "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 284475,
-      "num": 284475,
-      "word": "动车卫生间里居然长了眼",
-      "onboard_time": 1696943797,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -7387,6 +7387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168581,
+      "num": 168581,
+      "word": "檀健次让我感受到了偶像的力量",
+      "onboard_time": 1696978945,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 168364,
       "num": 168364,
       "word": "外国朋友在亚运村盛赞缙云烧饼",
@@ -8107,6 +8115,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123842,
+      "num": 123842,
+      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
+      "onboard_time": 1696966214,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123793,
       "num": 123793,
       "word": "张子墨 时代峰峻",
@@ -8161,6 +8177,14 @@
       "onboard_time": 1696901071,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 120986,
+      "num": 120986,
+      "word": "因为男友家有果园所以决定嫁了",
+      "onboard_time": 1696970534,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 120571,
@@ -8281,6 +8305,14 @@
       "onboard_time": 1696690300,
       "rank": 44,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102098,
+      "num": 102098,
+      "word": "武磊成为国足历史射手王",
+      "onboard_time": 1696978884,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 100821,
@@ -8491,6 +8523,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 77295,
+      "num": 77295,
+      "word": "刘学义林允或将演春花厌",
+      "onboard_time": 1696975756,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74225,
       "num": 74225,
       "word": "周冠宇卡塔尔站拿分",
@@ -8571,6 +8611,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 69767,
+      "num": 72847,
+      "word": "美发圈没人敢说的秘密被抖出来了",
+      "onboard_time": 1696961837,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 69706,
       "num": 1351404,
       "word": "中国航天67岁生日快乐",
@@ -8601,14 +8649,6 @@
       "onboard_time": 1696910443,
       "rank": 14,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 62857,
-      "num": 62857,
-      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
-      "onboard_time": 1696966214,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 60374,
@@ -8684,7 +8724,7 @@
     },
     {
       "raw_hot": 55563,
-      "num": 47915,
+      "num": 72816,
       "word": "来自189金世佳盖帽压迫感",
       "onboard_time": 1696975636,
       "rank": 41,
@@ -8713,22 +8753,6 @@
       "onboard_time": 1696785441,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53486,
-      "num": 53486,
-      "word": "刘学义林允或将演春花厌",
-      "onboard_time": 1696975756,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 53277,
-      "num": 53277,
-      "word": "因为男友家有果园所以决定嫁了",
-      "onboard_time": 1696970534,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 53199,
@@ -8787,12 +8811,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 48615,
-      "num": 44244,
-      "word": "美发圈没人敢说的秘密被抖出来了",
-      "onboard_time": 1696961837,
-      "rank": 44,
-      "category": "美妆"
+      "raw_hot": 49082,
+      "num": 72823,
+      "word": "中医治病非常灵活",
+      "onboard_time": 1696974193,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 47233,
@@ -8897,14 +8921,6 @@
       "onboard_time": 1696713134,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 27921,
-      "num": 27921,
-      "word": "中医治病非常灵活",
-      "onboard_time": 1696974193,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 27168,

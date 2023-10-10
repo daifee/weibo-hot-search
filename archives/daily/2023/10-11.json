@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696977250662,
+  "endTime": 1696979836645,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -17,6 +17,14 @@
       "onboard_time": 1696940136,
       "rank": 0,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1169494,
+      "num": 1169494,
+      "word": "韩国不满杭州亚运会表现",
+      "onboard_time": 1696946498,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 813780,
@@ -43,6 +51,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 613294,
+      "num": 278737,
+      "word": "相亲发生关系男子被控强奸迎反转",
+      "onboard_time": 1696935755,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598221,
       "num": 598221,
       "word": "seventeen",
@@ -51,15 +67,15 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 476677,
-      "num": 476677,
-      "word": "韩国不满杭州亚运会表现",
-      "onboard_time": 1696946498,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 545411,
+      "num": 545411,
+      "word": "动车卫生间里居然长了眼",
+      "onboard_time": 1696943797,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 457873,
+      "raw_hot": 538129,
       "num": 242733,
       "word": "丈夫出轨妻子将小三扒光游街获刑",
       "onboard_time": 1696914702,
@@ -147,14 +163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 278737,
-      "num": 278737,
-      "word": "相亲发生关系男子被控强奸迎反转",
-      "onboard_time": 1696935755,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 250129,
       "num": 250129,
       "word": "孟子义素颜自拍",
@@ -179,6 +187,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 241712,
+      "num": 241712,
+      "word": "家人嫌我买的多巴胺公园凳丑",
+      "onboard_time": 1696945478,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 235649,
       "num": 182024,
       "word": "北极鲶鱼",
@@ -193,14 +209,6 @@
       "onboard_time": 1696942359,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 225095,
-      "num": 225095,
-      "word": "家人嫌我买的多巴胺公园凳丑",
-      "onboard_time": 1696945478,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 212174,
@@ -243,14 +251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195780,
-      "num": 195780,
-      "word": "动车卫生间里居然长了眼",
-      "onboard_time": 1696943797,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 185831,
       "num": 185831,
       "word": "董宇辉 知识越丰富的人越谦虚",
@@ -283,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168581,
+      "num": 168581,
+      "word": "檀健次让我感受到了偶像的力量",
+      "onboard_time": 1696978945,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165632,
       "num": 165632,
       "word": "小时候看居然没觉得哪里不对",
       "onboard_time": 1696948541,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 143008,
+      "num": 143008,
+      "word": "肖战杭州亚运圆梦时刻",
+      "onboard_time": 1696944216,
+      "rank": 40,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 142077,
@@ -323,14 +339,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128288,
-      "num": 128288,
-      "word": "肖战杭州亚运圆梦时刻",
-      "onboard_time": 1696944216,
-      "rank": 40,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 124918,
       "num": 124918,
       "word": "终于搞懂五险一金了",
@@ -345,6 +353,22 @@
       "onboard_time": 1696946439,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123842,
+      "num": 123842,
+      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
+      "onboard_time": 1696966214,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 120986,
+      "num": 120986,
+      "word": "因为男友家有果园所以决定嫁了",
+      "onboard_time": 1696970534,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 120849,
@@ -395,6 +419,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 102098,
+      "num": 102098,
+      "word": "武磊成为国足历史射手王",
+      "onboard_time": 1696978884,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98942,
       "num": 98942,
       "word": "张之臻",
@@ -403,12 +435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62857,
-      "num": 62857,
-      "word": "邓超马伊琍钟楚曦热依扎同框看秀",
-      "onboard_time": 1696966214,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 77295,
+      "num": 77295,
+      "word": "刘学义林允或将演春花厌",
+      "onboard_time": 1696975756,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 69767,
+      "num": 72847,
+      "word": "美发圈没人敢说的秘密被抖出来了",
+      "onboard_time": 1696961837,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 60374,
@@ -436,35 +476,27 @@
     },
     {
       "raw_hot": 55563,
-      "num": 47915,
+      "num": 72816,
       "word": "来自189金世佳盖帽压迫感",
       "onboard_time": 1696975636,
       "rank": 41,
       "category": "剧集"
     },
     {
-      "raw_hot": 53486,
-      "num": 53486,
-      "word": "刘学义林允或将演春花厌",
-      "onboard_time": 1696975756,
-      "rank": 30,
+      "raw_hot": 52486,
+      "num": 72832,
+      "word": "待播古偶神仙打架",
+      "onboard_time": 1696942717,
+      "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 53277,
-      "num": 53277,
-      "word": "因为男友家有果园所以决定嫁了",
-      "onboard_time": 1696970534,
-      "rank": 24,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 48615,
-      "num": 44244,
-      "word": "美发圈没人敢说的秘密被抖出来了",
-      "onboard_time": 1696961837,
-      "rank": 44,
-      "category": "美妆"
+      "raw_hot": 49082,
+      "num": 72823,
+      "word": "中医治病非常灵活",
+      "onboard_time": 1696974193,
+      "rank": 39,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 46810,
@@ -473,14 +505,6 @@
       "onboard_time": 1696944760,
       "rank": 43,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 39178,
-      "num": 52282,
-      "word": "待播古偶神仙打架",
-      "onboard_time": 1696942717,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 38306,
@@ -505,14 +529,6 @@
       "onboard_time": 1696942298,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 27921,
-      "num": 27921,
-      "word": "中医治病非常灵活",
-      "onboard_time": 1696974193,
-      "rank": 39,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 14965,
