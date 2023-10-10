@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696973662839,
+  "endTime": 1696976156695,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -443,6 +443,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 41178,
+      "num": 34106,
+      "word": "刘学义林允或将演春花厌",
+      "onboard_time": 1696975756,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 40779,
+      "num": 40779,
+      "word": "因为男友家有果园所以决定嫁了",
+      "onboard_time": 1696970534,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 40600,
       "num": 40600,
       "word": "邓超马伊琍钟楚曦热依扎同框看秀",
@@ -475,12 +491,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26442,
-      "num": 24692,
-      "word": "因为男友家有果园所以决定嫁了",
-      "onboard_time": 1696970534,
-      "rank": 24,
-      "category": "情感"
+      "raw_hot": 25658,
+      "num": 25658,
+      "word": "近5年时间记录100种花开瞬间",
+      "onboard_time": 1696972033,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 23780,
+      "num": 23780,
+      "word": "中医治病非常灵活",
+      "onboard_time": 1696974193,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 22908,
+      "num": 22908,
+      "word": "来自189金世佳盖帽压迫感",
+      "onboard_time": 1696975636,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 14965,
@@ -489,14 +521,6 @@
       "onboard_time": 1696966033,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14094,
-      "num": 14094,
-      "word": "近5年时间记录100种花开瞬间",
-      "onboard_time": 1696972033,
-      "rank": 45,
-      "category": "其它"
     },
     {
       "raw_hot": 11621,
