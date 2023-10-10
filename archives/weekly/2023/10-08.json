@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696916055709,
+  "endTime": 1696919009515,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -211,6 +211,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 2093961,
+      "num": 239259,
+      "word": "北极鲶鱼的爷爷或不会被起诉判刑",
+      "onboard_time": 1696917996,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2082572,
       "num": 1856386,
       "word": "北京下雪",
@@ -256,6 +264,14 @@
       "word": "上海4岁女童搜索区域已到浙江舟山",
       "onboard_time": 1696725698,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1977817,
+      "num": 1977817,
+      "word": "北极鲶鱼爷爷曾称老老实实干到退休",
+      "onboard_time": 1696916856,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -627,6 +643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1174401,
+      "num": 364900,
+      "word": "台媒曝炎亚纶将改名转运",
+      "onboard_time": 1696917455,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1167316,
       "num": 1167316,
       "word": "马龙被左撇子痛击的一生",
@@ -921,6 +945,14 @@
       "onboard_time": 1696825969,
       "rank": 29,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 860059,
+      "num": 860059,
+      "word": "创5路透",
+      "onboard_time": 1696917939,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 858220,
@@ -2211,6 +2243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458807,
+      "num": 238084,
+      "word": "4岁失踪女童父亲向水哥求助",
+      "onboard_time": 1696917758,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456526,
       "num": 456526,
       "word": "金鸡奖",
@@ -2257,6 +2297,14 @@
       "onboard_time": 1696743516,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 450263,
+      "num": 364896,
+      "word": "张硕在民政局邀请王睡睡拍合照",
+      "onboard_time": 1696917939,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 449814,
@@ -2649,6 +2697,14 @@
       "onboard_time": 1696825064,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 380011,
+      "num": 380011,
+      "word": "程潇程晨姐妹青春篇章大片",
+      "onboard_time": 1696915837,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 378560,
@@ -3107,6 +3163,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 323175,
+      "num": 323175,
+      "word": "北极鲶鱼事件的启示",
+      "onboard_time": 1696916918,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 322586,
       "num": 208971,
       "word": "10月不要请假",
@@ -3345,6 +3409,14 @@
       "onboard_time": 1696818157,
       "rank": 48,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 299863,
+      "num": 237422,
+      "word": "刘诗雯vs刘斐",
+      "onboard_time": 1696917275,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 299248,
@@ -3851,6 +3923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263754,
+      "num": 236800,
+      "word": "金世佳是满35减15吗",
+      "onboard_time": 1696916137,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263544,
       "num": 263544,
       "word": "河边的错误",
@@ -4041,6 +4121,14 @@
       "onboard_time": 1696767214,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 253356,
+      "num": 253356,
+      "word": "唐嫣拄着拐杖拍戏",
+      "onboard_time": 1696915837,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 252712,
@@ -4289,6 +4377,14 @@
       "onboard_time": 1696724497,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239720,
+      "num": 239720,
+      "word": "中国海警局就菲律宾非法侵闯黄岩岛发声",
+      "onboard_time": 1696915360,
+      "rank": 33,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 238672,
@@ -4579,6 +4675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 224877,
+      "num": 224877,
+      "word": "网传浪姐5将邀请朴彩英",
+      "onboard_time": 1696918656,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224504,
       "num": 224504,
       "word": "韩国男足夺得亚运冠军",
@@ -4747,14 +4851,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 216195,
-      "num": 216195,
-      "word": "中国海警局就菲律宾非法侵闯黄岩岛发声",
-      "onboard_time": 1696915360,
-      "rank": 33,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 215896,
       "num": 396333,
       "word": "巴以冲突死亡人数升至约1600人",
@@ -4883,6 +4979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210641,
+      "num": 210641,
+      "word": "钟庚赐按二级科员确定其退休待遇",
+      "onboard_time": 1696917275,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210360,
       "num": 210360,
       "word": "文俊辉妍珍同框了",
@@ -4993,6 +5097,14 @@
       "onboard_time": 1696750177,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206989,
+      "num": 206989,
+      "word": "十大巅峰单曲",
+      "onboard_time": 1696918234,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 206812,
@@ -5219,14 +5331,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 200610,
-      "num": 200610,
-      "word": "程潇程晨姐妹青春篇章大片",
-      "onboard_time": 1696915837,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 200284,
       "num": 200284,
       "word": "正确的洗脸方法",
@@ -5265,6 +5369,14 @@
       "onboard_time": 1696807225,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198402,
+      "num": 198402,
+      "word": "上了大学才知道水果有多贵",
+      "onboard_time": 1696916316,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 198269,
@@ -5393,6 +5505,14 @@
       "onboard_time": 1696821819,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193176,
+      "num": 193176,
+      "word": "李马克选的kpop梦之队",
+      "onboard_time": 1696917877,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 193044,
@@ -5651,20 +5771,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 183177,
+      "num": 183177,
+      "word": "7旬爷爷拿香烟给上高中孙子换牛奶",
+      "onboard_time": 1696917097,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182886,
       "num": 182886,
       "word": "薛之谦香港站",
       "onboard_time": 1696905933,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 182851,
-      "num": 182851,
-      "word": "唐嫣拄着拐杖拍戏",
-      "onboard_time": 1696915837,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 182330,
@@ -6364,7 +6484,7 @@
     },
     {
       "raw_hot": 138846,
-      "num": 4316004,
+      "num": 5080750,
       "word": "用中国传统色打开秋天",
       "onboard_time": 1696911227,
       "rank": 2,
@@ -6433,6 +6553,14 @@
       "onboard_time": 1696844137,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134144,
+      "num": 134144,
+      "word": "2023TMA颁奖礼",
+      "onboard_time": 1696918895,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133469,
@@ -6513,6 +6641,14 @@
       "onboard_time": 1696772383,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127655,
+      "num": 127655,
+      "word": "阴阳师毁灭女神",
+      "onboard_time": 1696916735,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 127040,
