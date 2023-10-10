@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696944842999,
+  "endTime": 1696947385511,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 4027195,
+      "num": 925273,
+      "word": "新冠",
+      "onboard_time": 1696945299,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4008759,
       "num": 4008759,
       "word": "王艺迪vs早田希娜",
@@ -313,6 +321,14 @@
       "onboard_time": 1696814796,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 3323867,
+      "num": 3323867,
+      "word": "晚上十一点之前尽量入睡",
+      "onboard_time": 1696940136,
+      "rank": 7,
+      "category": "其它"
     },
     {
       "raw_hot": 3302957,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1696892903,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2001541,
-      "num": 2001541,
-      "word": "晚上十一点之前尽量入睡",
-      "onboard_time": 1696940136,
-      "rank": 7,
-      "category": "其它"
     },
     {
       "raw_hot": 1998192,
@@ -1836,7 +1844,7 @@
     },
     {
       "raw_hot": 1552038,
-      "num": 347328,
+      "num": 372975,
       "word": "丈夫出轨妻子将小三扒光游街获刑",
       "onboard_time": 1696914702,
       "rank": 26,
@@ -3044,7 +3052,7 @@
     },
     {
       "raw_hot": 1057356,
-      "num": 415550,
+      "num": 527629,
       "word": "杨幂帽子 济公",
       "onboard_time": 1696942359,
       "rank": 11,
@@ -3420,7 +3428,7 @@
     },
     {
       "raw_hot": 973146,
-      "num": 415449,
+      "num": 525819,
       "word": "鹿晗张艺兴共享衣橱",
       "onboard_time": 1696943678,
       "rank": 12,
@@ -3795,6 +3803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 890622,
+      "num": 528596,
+      "word": "为什么体制内的人很少发朋友圈",
+      "onboard_time": 1696943378,
+      "rank": 14,
+      "category": "其它"
+    },
+    {
       "raw_hot": 890359,
       "num": 890359,
       "word": "林俊杰咸阳",
@@ -3857,6 +3873,14 @@
       "onboard_time": 1696484792,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 884515,
+      "num": 884515,
+      "word": "韩国不满杭州亚运会表现",
+      "onboard_time": 1696946498,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 883116,
@@ -4251,14 +4275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 831427,
-      "num": 415006,
-      "word": "为什么体制内的人很少发朋友圈",
-      "onboard_time": 1696943378,
-      "rank": 14,
-      "category": "其它"
-    },
-    {
       "raw_hot": 829818,
       "num": 829818,
       "word": "全红婵进女子10米台决赛",
@@ -4553,6 +4569,14 @@
       "onboard_time": 1696750298,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 793216,
+      "num": 793216,
+      "word": "国足2比0复仇越南",
+      "onboard_time": 1696945660,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 791795,
@@ -5513,6 +5537,14 @@
       "onboard_time": 1696240832,
       "rank": 20,
       "category": "其它"
+    },
+    {
+      "raw_hot": 695648,
+      "num": 695648,
+      "word": "家人嫌我买的多巴胺公园凳丑",
+      "onboard_time": 1696945478,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 694817,
@@ -7491,6 +7523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 535784,
+      "num": 523839,
+      "word": "于适P了肩膀",
+      "onboard_time": 1696944097,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 535377,
       "num": 535377,
       "word": "莎头永远不会驼背",
@@ -7609,6 +7649,14 @@
       "onboard_time": 1696149513,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 530559,
+      "num": 530559,
+      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+      "onboard_time": 1696941936,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 530186,
@@ -8249,14 +8297,6 @@
       "onboard_time": 1696430858,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 492851,
-      "num": 492851,
-      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
-      "onboard_time": 1696941936,
-      "rank": 16,
-      "category": "军事"
     },
     {
       "raw_hot": 492743,
@@ -10251,6 +10291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399338,
+      "num": 399338,
+      "word": "小时候吃的台湾无骨鸡柳去哪了",
+      "onboard_time": 1696946498,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 399036,
       "num": 399036,
       "word": "华天这枚金牌等了9年",
@@ -10963,6 +11011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374087,
+      "num": 374087,
+      "word": "章昊的脸",
+      "onboard_time": 1696944097,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373805,
       "num": 373805,
       "word": "谭爷爷教会花花玩滑梯了",
@@ -10993,14 +11049,6 @@
       "onboard_time": 1696502795,
       "rank": 21,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 372107,
-      "num": 372107,
-      "word": "章昊的脸",
-      "onboard_time": 1696944097,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 371973,
@@ -11715,6 +11763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352151,
+      "num": 352151,
+      "word": "婚礼现场新郎10秒偷瞄新娘3次",
+      "onboard_time": 1696946678,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351888,
       "num": 319919,
       "word": "韩庚回应戒烟会长胖",
@@ -11889,6 +11945,14 @@
       "onboard_time": 1696130435,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347646,
+      "num": 347646,
+      "word": "国足越南冲突",
+      "onboard_time": 1696946439,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 347293,
@@ -13419,6 +13483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303306,
+      "num": 303306,
+      "word": "SEVENTEEN获TMA大赏",
+      "onboard_time": 1696944878,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 302537,
       "num": 4584095,
       "word": "满街五星红旗是中国人的浪漫",
@@ -14483,6 +14555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 284475,
+      "num": 284475,
+      "word": "动车卫生间里居然长了眼",
+      "onboard_time": 1696943797,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284356,
       "num": 284356,
       "word": "Jennie新歌榜单成绩",
@@ -15209,6 +15289,14 @@
       "onboard_time": 1696737338,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272910,
+      "num": 272910,
+      "word": "丰田",
+      "onboard_time": 1696945838,
+      "rank": 26,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 272826,
@@ -16379,6 +16467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 254273,
+      "num": 254273,
+      "word": "cp30",
+      "onboard_time": 1696944760,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 253955,
       "num": 478061,
       "word": "中国女排决赛对阵日本队",
@@ -16921,14 +17017,6 @@
       "onboard_time": 1696213651,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244983,
-      "num": 244983,
-      "word": "于适P了肩膀",
-      "onboard_time": 1696944097,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244967,
@@ -18803,14 +18891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218209,
-      "num": 218209,
-      "word": "动车卫生间里居然长了眼",
-      "onboard_time": 1696943797,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217786,
       "num": 217786,
       "word": "无语菩萨 本来国庆上班就烦",
@@ -19145,6 +19225,14 @@
       "onboard_time": 1696245033,
       "rank": 38,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 213420,
+      "num": 213420,
+      "word": "武磊破门",
+      "onboard_time": 1696945838,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 213391,
@@ -21555,6 +21643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190279,
+      "num": 190279,
+      "word": "宁艺卓TMA红毯飞吻",
+      "onboard_time": 1696943316,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 190053,
       "num": 190053,
       "word": "田嘉瑞辅导林子烨反被拿捏",
@@ -22979,14 +23075,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 173724,
-      "num": 173724,
-      "word": "宁艺卓TMA红毯飞吻",
-      "onboard_time": 1696943316,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 173681,
       "num": 173681,
       "word": "周深谈卡布时期的自己",
@@ -23145,6 +23233,14 @@
       "onboard_time": 1696692456,
       "rank": 44,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 171411,
+      "num": 171411,
+      "word": "贺峻霖好社牛",
+      "onboard_time": 1696946017,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 171281,
@@ -23315,14 +23411,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169204,
-      "num": 169204,
-      "word": "cp30",
-      "onboard_time": 1696944760,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 169131,
       "num": 169131,
       "word": "谁给林韩中做的造型",
@@ -23435,6 +23523,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 167267,
+      "num": 167267,
+      "word": "王秋明破门",
+      "onboard_time": 1696946678,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167266,
       "num": 167266,
       "word": "李明伦情商",
@@ -23457,6 +23553,14 @@
       "onboard_time": 1696400974,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166901,
+      "num": 166901,
+      "word": "张元英美式女高造型",
+      "onboard_time": 1696947221,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166881,
@@ -23659,6 +23763,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 164835,
+      "num": 164835,
+      "word": "以军战机连续24小时空袭加沙地带",
+      "onboard_time": 1696946258,
+      "rank": 45,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 164631,
       "num": 164631,
       "word": "角丽谯奋斗半生归来全都白干",
@@ -23841,6 +23953,14 @@
       "onboard_time": 1696137693,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162038,
+      "num": 162038,
+      "word": "王俊凯出发平遥路透",
+      "onboard_time": 1696945779,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161965,
@@ -27567,6 +27687,14 @@
       "num": 1603547,
       "word": "畅游祖国山河",
       "onboard_time": 1696322193,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47205,
+      "num": 930620,
+      "word": "乡村行看振兴",
+      "onboard_time": 1696945779,
       "rank": 2,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696944842999,
+  "endTime": 1696947385511,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 4027195,
+      "num": 925273,
+      "word": "新冠",
+      "onboard_time": 1696945299,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3945458,
       "num": 3945458,
       "word": "4岁女童搜救因外部原因中止",
@@ -113,6 +121,14 @@
       "onboard_time": 1696814796,
       "rank": 9,
       "category": "美食"
+    },
+    {
+      "raw_hot": 3323867,
+      "num": 3323867,
+      "word": "晚上十一点之前尽量入睡",
+      "onboard_time": 1696940136,
+      "rank": 7,
+      "category": "其它"
     },
     {
       "raw_hot": 2742852,
@@ -281,14 +297,6 @@
       "onboard_time": 1696892903,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2001541,
-      "num": 2001541,
-      "word": "晚上十一点之前尽量入睡",
-      "onboard_time": 1696940136,
-      "rank": 7,
-      "category": "其它"
     },
     {
       "raw_hot": 1998192,
@@ -524,7 +532,7 @@
     },
     {
       "raw_hot": 1552038,
-      "num": 347328,
+      "num": 372975,
       "word": "丈夫出轨妻子将小三扒光游街获刑",
       "onboard_time": 1696914702,
       "rank": 26,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 1057356,
-      "num": 415550,
+      "num": 527629,
       "word": "杨幂帽子 济公",
       "onboard_time": 1696942359,
       "rank": 11,
@@ -956,7 +964,7 @@
     },
     {
       "raw_hot": 973146,
-      "num": 415449,
+      "num": 525819,
       "word": "鹿晗张艺兴共享衣橱",
       "onboard_time": 1696943678,
       "rank": 12,
@@ -1059,6 +1067,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 890622,
+      "num": 528596,
+      "word": "为什么体制内的人很少发朋友圈",
+      "onboard_time": 1696943378,
+      "rank": 14,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 884515,
+      "num": 884515,
+      "word": "韩国不满杭州亚运会表现",
+      "onboard_time": 1696946498,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 871891,
       "num": 871891,
       "word": "以色列建国史",
@@ -1121,14 +1145,6 @@
       "onboard_time": 1696921356,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 831427,
-      "num": 415006,
-      "word": "为什么体制内的人很少发朋友圈",
-      "onboard_time": 1696943378,
-      "rank": 14,
-      "category": "其它"
     },
     {
       "raw_hot": 829439,
@@ -1241,6 +1257,14 @@
       "onboard_time": 1696750298,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 793216,
+      "num": 793216,
+      "word": "国足2比0复仇越南",
+      "onboard_time": 1696945660,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 791734,
@@ -1465,6 +1489,14 @@
       "onboard_time": 1696901972,
       "rank": 40,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 695648,
+      "num": 695648,
+      "word": "家人嫌我买的多巴胺公园凳丑",
+      "onboard_time": 1696945478,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 693384,
@@ -2035,6 +2067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 535784,
+      "num": 523839,
+      "word": "于适P了肩膀",
+      "onboard_time": 1696944097,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 533770,
       "num": 533770,
       "word": "韩国人不睡觉的标签可以撤了",
@@ -2089,6 +2129,14 @@
       "onboard_time": 1696852774,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 530559,
+      "num": 530559,
+      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+      "onboard_time": 1696941936,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 525673,
@@ -2313,14 +2361,6 @@
       "onboard_time": 1696764694,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 492851,
-      "num": 492851,
-      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
-      "onboard_time": 1696941936,
-      "rank": 16,
-      "category": "军事"
     },
     {
       "raw_hot": 489410,
@@ -2915,6 +2955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 399338,
+      "num": 399338,
+      "word": "小时候吃的台湾无骨鸡柳去哪了",
+      "onboard_time": 1696946498,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 398025,
       "num": 398025,
       "word": "原来迪士尼以前叫迪斯尼",
@@ -3139,20 +3187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374087,
+      "num": 374087,
+      "word": "章昊的脸",
+      "onboard_time": 1696944097,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 373011,
       "num": 373011,
       "word": "中学连续3年用骨汤取代味精做菜",
       "onboard_time": 1696835255,
       "rank": 23,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 372107,
-      "num": 372107,
-      "word": "章昊的脸",
-      "onboard_time": 1696944097,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 370774,
@@ -3323,6 +3371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 352151,
+      "num": 352151,
+      "word": "婚礼现场新郎10秒偷瞄新娘3次",
+      "onboard_time": 1696946678,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350855,
       "num": 350855,
       "word": "警方回应黄石当街发生锤人致死事件",
@@ -3377,6 +3433,14 @@
       "onboard_time": 1696762956,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347646,
+      "num": 347646,
+      "word": "国足越南冲突",
+      "onboard_time": 1696946439,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 347274,
@@ -3843,6 +3907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 303306,
+      "num": 303306,
+      "word": "SEVENTEEN获TMA大赏",
+      "onboard_time": 1696944878,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301985,
       "num": 301985,
       "word": "IVE预告",
@@ -4155,6 +4227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284475,
+      "num": 284475,
+      "word": "动车卫生间里居然长了眼",
+      "onboard_time": 1696943797,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283900,
       "num": 283900,
       "word": "Yamy新歌大女主粤语rap",
@@ -4337,6 +4417,14 @@
       "onboard_time": 1696737338,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272910,
+      "num": 272910,
+      "word": "丰田",
+      "onboard_time": 1696945838,
+      "rank": 26,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 272492,
@@ -4739,6 +4827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 254273,
+      "num": 254273,
+      "word": "cp30",
+      "onboard_time": 1696944760,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 253483,
       "num": 253483,
       "word": "李昀锐是人间loopy吧",
@@ -4953,14 +5049,6 @@
       "onboard_time": 1696771419,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244983,
-      "num": 244983,
-      "word": "于适P了肩膀",
-      "onboard_time": 1696944097,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 244677,
@@ -5571,14 +5659,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 218209,
-      "num": 218209,
-      "word": "动车卫生间里居然长了眼",
-      "onboard_time": 1696943797,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217361,
       "num": 217361,
       "word": "郑恺 兄弟的相亲网站VIP账号借你们",
@@ -5705,6 +5785,14 @@
       "onboard_time": 1696849715,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 213420,
+      "num": 213420,
+      "word": "武磊破门",
+      "onboard_time": 1696945838,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 213391,
@@ -6475,6 +6563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190279,
+      "num": 190279,
+      "word": "宁艺卓TMA红毯飞吻",
+      "onboard_time": 1696943316,
+      "rank": 45,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 190053,
       "num": 190053,
       "word": "田嘉瑞辅导林子烨反被拿捏",
@@ -6907,14 +7003,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 173724,
-      "num": 173724,
-      "word": "宁艺卓TMA红毯飞吻",
-      "onboard_time": 1696943316,
-      "rank": 45,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 173681,
       "num": 173681,
       "word": "周深谈卡布时期的自己",
@@ -7003,6 +7091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171411,
+      "num": 171411,
+      "word": "贺峻霖好社牛",
+      "onboard_time": 1696946017,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171089,
       "num": 171089,
       "word": "韩国人疯狂喝咖啡的原因",
@@ -7067,14 +7163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 169204,
-      "num": 169204,
-      "word": "cp30",
-      "onboard_time": 1696944760,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 168714,
       "num": 160861,
       "word": "夫妻因饮食习惯同时确诊同种癌症",
@@ -7107,12 +7195,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167267,
+      "num": 167267,
+      "word": "王秋明破门",
+      "onboard_time": 1696946678,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167211,
       "num": 167211,
       "word": "芝加哥马拉松",
       "onboard_time": 1696776822,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166901,
+      "num": 166901,
+      "word": "张元英美式女高造型",
+      "onboard_time": 1696947221,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166336,
@@ -7153,6 +7257,14 @@
       "onboard_time": 1696728215,
       "rank": 40,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 164835,
+      "num": 164835,
+      "word": "以军战机连续24小时空袭加沙地带",
+      "onboard_time": 1696946258,
+      "rank": 45,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 164327,
@@ -7201,6 +7313,14 @@
       "onboard_time": 1696812938,
       "rank": 48,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 162038,
+      "num": 162038,
+      "word": "王俊凯出发平遥路透",
+      "onboard_time": 1696945779,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161057,
@@ -8360,6 +8480,14 @@
       "word": "一场二十年的长跑",
       "onboard_time": 1696903233,
       "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47205,
+      "num": 930620,
+      "word": "乡村行看振兴",
+      "onboard_time": 1696945779,
+      "rank": 2,
       "category": "社会新闻"
     },
     {

@@ -1,0 +1,410 @@
+{
+  "runTime": 1696947385511,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3323867,
+        "num": 3323867,
+        "word": "晚上十一点之前尽量入睡",
+        "onboard_time": 1696940136,
+        "rank": 0,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 994328,
+        "num": 994328,
+        "word": "张小斐新片尺度",
+        "onboard_time": 1696936239,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 47205,
+        "num": 930620,
+        "word": "乡村行看振兴",
+        "onboard_time": 1696945779,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 4027195,
+        "num": 925273,
+        "word": "新冠",
+        "onboard_time": 1696945299,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2140777,
+        "num": 918693,
+        "word": "9月新增本土新冠死亡病例45例",
+        "onboard_time": 1696940136,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 884515,
+        "num": 884515,
+        "word": "韩国不满杭州亚运会表现",
+        "onboard_time": 1696946498,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 793216,
+        "num": 793216,
+        "word": "国足2比0复仇越南",
+        "onboard_time": 1696945660,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 695648,
+        "num": 695648,
+        "word": "家人嫌我买的多巴胺公园凳丑",
+        "onboard_time": 1696945478,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 553264,
+        "num": 553264,
+        "word": "肖战杭州亚运圆梦时刻",
+        "onboard_time": 1696944216,
+        "rank": 8,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 530559,
+        "num": 530559,
+        "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+        "onboard_time": 1696941936,
+        "rank": 9,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 1316054,
+        "num": 529291,
+        "word": "相亲发生关系男子被控强奸迎反转",
+        "onboard_time": 1696935755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 890622,
+        "num": 528596,
+        "word": "为什么体制内的人很少发朋友圈",
+        "onboard_time": 1696943378,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 821482,
+        "num": 527629,
+        "word": "杨幂帽子 济公",
+        "onboard_time": 1696942359,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 658137,
+        "num": 525819,
+        "word": "鹿晗张艺兴共享衣橱",
+        "onboard_time": 1696943678,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 535784,
+        "num": 523839,
+        "word": "于适P了肩膀",
+        "onboard_time": 1696944097,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 523519,
+        "num": 523519,
+        "word": "北极鲶鱼",
+        "onboard_time": 1696930414,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 481199,
+        "num": 481199,
+        "word": "删除微信好友能保留聊天记录",
+        "onboard_time": 1696937735,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 422378,
+        "num": 422378,
+        "word": "欧阳娣娣 创5",
+        "onboard_time": 1696931795,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 399338,
+        "num": 399338,
+        "word": "小时候吃的台湾无骨鸡柳去哪了",
+        "onboard_time": 1696946498,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 374087,
+        "num": 374087,
+        "word": "章昊的脸",
+        "onboard_time": 1696944097,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 831606,
+        "num": 372975,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359056,
+        "num": 359056,
+        "word": "创5选手撞脸鹿晗关晓彤",
+        "onboard_time": 1696932213,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352151,
+        "num": 352151,
+        "word": "婚礼现场新郎10秒偷瞄新娘3次",
+        "onboard_time": 1696946678,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 347646,
+        "num": 347646,
+        "word": "国足越南冲突",
+        "onboard_time": 1696946439,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 303306,
+        "num": 303306,
+        "word": "SEVENTEEN获TMA大赏",
+        "onboard_time": 1696944878,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284475,
+        "num": 284475,
+        "word": "动车卫生间里居然长了眼",
+        "onboard_time": 1696943797,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272910,
+        "num": 272910,
+        "word": "丰田",
+        "onboard_time": 1696945838,
+        "rank": 26,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 263382,
+        "num": 263382,
+        "word": "17年这天发了真相是假",
+        "onboard_time": 1696934852,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 254273,
+        "num": 254273,
+        "word": "cp30",
+        "onboard_time": 1696944760,
+        "rank": 28,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 237819,
+        "num": 237819,
+        "word": "王一博无袖黑背心",
+        "onboard_time": 1696941275,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232642,
+        "num": 232642,
+        "word": "待播古偶神仙打架",
+        "onboard_time": 1696942717,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227616,
+        "num": 227616,
+        "word": "创5 熟人",
+        "onboard_time": 1696925615,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226868,
+        "num": 226868,
+        "word": "刘诗雯3比0刘斐",
+        "onboard_time": 1696943618,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213420,
+        "num": 213420,
+        "word": "武磊破门",
+        "onboard_time": 1696945838,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 206777,
+        "num": 206777,
+        "word": "戚薇瘦气能不能分我点",
+        "onboard_time": 1696941397,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202979,
+        "num": 202979,
+        "word": "终于搞懂五险一金了",
+        "onboard_time": 1696934438,
+        "rank": 35,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 195010,
+        "num": 195010,
+        "word": "ITZY",
+        "onboard_time": 1696941157,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193796,
+        "num": 193796,
+        "word": "陈楚生老婆说胡兵心态好年轻",
+        "onboard_time": 1696933534,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190279,
+        "num": 190279,
+        "word": "宁艺卓TMA红毯飞吻",
+        "onboard_time": 1696943316,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182618,
+        "num": 182618,
+        "word": "丰田经销商吼客户买十万的车叫什么叫",
+        "onboard_time": 1696938758,
+        "rank": 39,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 171411,
+        "num": 171411,
+        "word": "贺峻霖好社牛",
+        "onboard_time": 1696946017,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168508,
+        "num": 168508,
+        "word": "最走心的婚礼朋友圈邀请",
+        "onboard_time": 1696933056,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167267,
+        "num": 167267,
+        "word": "王秋明破门",
+        "onboard_time": 1696946678,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166901,
+        "num": 166901,
+        "word": "张元英美式女高造型",
+        "onboard_time": 1696947221,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165009,
+        "num": 165009,
+        "word": "问心",
+        "onboard_time": 1696942298,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164835,
+        "num": 164835,
+        "word": "以军战机连续24小时空袭加沙地带",
+        "onboard_time": 1696946258,
+        "rank": 45,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 162038,
+        "num": 162038,
+        "word": "王俊凯出发平遥路透",
+        "onboard_time": 1696945779,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163923,
+        "num": 162011,
+        "word": "哈马斯官员称愿就停火进行讨论",
+        "onboard_time": 1696943978,
+        "rank": 47,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 161518,
+        "num": 161518,
+        "word": "中国公民自愿离开巴以外交部将全力协助",
+        "onboard_time": 1696937439,
+        "rank": 48,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 155816,
+        "num": 155816,
+        "word": "罐罐烤奶",
+        "onboard_time": 1696943257,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系是世界上最重要的双边关系#"
+    }
+  }
+}
