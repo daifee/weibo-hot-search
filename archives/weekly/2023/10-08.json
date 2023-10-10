@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696926919269,
+  "endTime": 1696929458513,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -404,7 +404,7 @@
     },
     {
       "raw_hot": 1692929,
-      "num": 968666,
+      "num": 989214,
       "word": "创5 熟人",
       "onboard_time": 1696925615,
       "rank": 4,
@@ -891,6 +891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 964914,
+      "num": 1235033,
+      "word": "历史上最著名的天津人叫哪吒",
+      "onboard_time": 1696927174,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 963083,
       "num": 411520,
       "word": "建议1周换1次床上用品",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1696921356,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 829439,
+      "num": 829439,
+      "word": "献鱼",
+      "onboard_time": 1696926814,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 822132,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1696862983,
       "rank": 9,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 625411,
+      "num": 625411,
+      "word": "世界精神卫生日",
+      "onboard_time": 1696927836,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623181,
@@ -2443,6 +2467,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 441007,
+      "num": 441007,
+      "word": "全中国最难摸鱼的工位",
+      "onboard_time": 1696924714,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 439657,
       "num": 348243,
       "word": "苹果的苹字还能组成什么词",
@@ -2457,6 +2489,14 @@
       "onboard_time": 1696695091,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 432215,
+      "num": 432215,
+      "word": "你吃的油很可能早过期了",
+      "onboard_time": 1696928554,
+      "rank": 15,
+      "category": "知识科普"
     },
     {
       "raw_hot": 430689,
@@ -2835,6 +2875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 374008,
+      "num": 318019,
+      "word": "我国芯片领域获重大突破",
+      "onboard_time": 1696928013,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 373011,
       "num": 373011,
       "word": "中学连续3年用骨汤取代味精做菜",
@@ -2857,14 +2905,6 @@
       "onboard_time": 1696905631,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 368623,
-      "num": 368623,
-      "word": "全中国最难摸鱼的工位",
-      "onboard_time": 1696924714,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 366783,
@@ -3043,6 +3083,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 349240,
+      "num": 349240,
+      "word": "周杰伦上海",
+      "onboard_time": 1696927414,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 349032,
       "num": 349032,
       "word": "奔跑吧",
@@ -3211,12 +3259,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 331274,
+      "num": 331274,
+      "word": "亚运霹雳舞冠军评价王一博舞技",
+      "onboard_time": 1696927715,
+      "rank": 18,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 329775,
       "num": 329775,
       "word": "吉鲁扑单刀",
       "onboard_time": 1696725276,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329043,
+      "num": 329043,
+      "word": "2023TMA红毯",
+      "onboard_time": 1696926874,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 328505,
@@ -3313,14 +3377,6 @@
       "onboard_time": 1696839815,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 316502,
-      "num": 316502,
-      "word": "2023TMA红毯",
-      "onboard_time": 1696926874,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 315773,
@@ -3523,6 +3579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299793,
+      "num": 299793,
+      "word": "S13",
+      "onboard_time": 1696926874,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 299761,
       "num": 299761,
       "word": "丞磊卢昱晓摩天轮合照",
@@ -3584,6 +3648,14 @@
       "word": "于适脏辫",
       "onboard_time": 1696925194,
       "rank": 27,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 293833,
+      "num": 293833,
+      "word": "虞书欣裸色山茶花挂脖上衣",
+      "onboard_time": 1696928432,
+      "rank": 24,
       "category": "作品衍生"
     },
     {
@@ -3923,14 +3995,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 272016,
-      "num": 272016,
-      "word": "献鱼",
-      "onboard_time": 1696926814,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 271956,
       "num": 271956,
       "word": "高铁上打开妈妈烧的饭直接泪崩",
@@ -4107,12 +4171,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262604,
+      "num": 262604,
+      "word": "WBG租借DRX基地",
+      "onboard_time": 1696926874,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262521,
       "num": 262521,
       "word": "张杰万物不如你十大巅峰单曲",
       "onboard_time": 1696913385,
       "rank": 32,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 262067,
+      "num": 262067,
+      "word": "秀芬复活",
+      "onboard_time": 1696929093,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 261963,
@@ -4315,6 +4395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251878,
+      "num": 251878,
+      "word": "63岁老人免费体检后多次手术身亡",
+      "onboard_time": 1696928312,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251858,
       "num": 251858,
       "word": "孙颖莎亮相闭幕式短片",
@@ -4385,6 +4473,14 @@
       "onboard_time": 1696744177,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248510,
+      "num": 248510,
+      "word": "王玉雯像极了美人鱼",
+      "onboard_time": 1696928852,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 248445,
@@ -4553,6 +4649,14 @@
       "onboard_time": 1696915360,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 239188,
+      "num": 239188,
+      "word": "分享结扎经历被嘲太监当事人发声",
+      "onboard_time": 1696926213,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 238672,
@@ -4737,6 +4841,14 @@
       "onboard_time": 1696754015,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232833,
+      "num": 232833,
+      "word": "创造营2024",
+      "onboard_time": 1696928974,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 232712,
@@ -5395,14 +5507,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 204739,
-      "num": 204739,
-      "word": "WBG租借DRX基地",
-      "onboard_time": 1696926874,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 204642,
       "num": 204642,
       "word": "唐禹哲纠正宝石Gem东北口音",
@@ -5627,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197330,
+      "num": 197330,
+      "word": "乔治娅 欧姬芙的头骨",
+      "onboard_time": 1696928674,
+      "rank": 38,
+      "category": "其它"
+    },
+    {
       "raw_hot": 197267,
       "num": 197267,
       "word": "大学生考证时间表",
@@ -5641,6 +5753,14 @@
       "onboard_time": 1696720705,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197184,
+      "num": 197184,
+      "word": "祝我节日快乐",
+      "onboard_time": 1696928312,
+      "rank": 39,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 197025,
@@ -5705,6 +5825,14 @@
       "onboard_time": 1696885213,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193766,
+      "num": 193766,
+      "word": "小伙用玉米皮做凤冠奶奶戴上超惊艳",
+      "onboard_time": 1696927354,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193526,
@@ -6427,14 +6555,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163477,
-      "num": 163477,
-      "word": "分享结扎经历被嘲太监当事人发声",
-      "onboard_time": 1696926213,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 163236,
       "num": 599803,
       "word": "谢震业高举五星红旗入场",
@@ -6643,6 +6763,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 151388,
+      "num": 151388,
+      "word": "周也新剧1女3男",
+      "onboard_time": 1696928013,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148057,
       "num": 148057,
       "word": "第36届中国电影金鸡奖提名名单",
@@ -6721,6 +6849,14 @@
       "onboard_time": 1696831833,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141937,
+      "num": 141937,
+      "word": "徐娇晒马甲线",
+      "onboard_time": 1696927116,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 141478,
@@ -6875,14 +7011,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 129883,
-      "num": 129883,
-      "word": "S13",
-      "onboard_time": 1696926874,
-      "rank": 48,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 129649,
       "num": 129649,
       "word": "第36届金鸡奖主视觉海报出炉",
@@ -7004,7 +7132,7 @@
     },
     {
       "raw_hot": 120993,
-      "num": 1001815,
+      "num": 1012217,
       "word": "聚亚洲之力筑未来之路",
       "onboard_time": 1696901071,
       "rank": 48,
