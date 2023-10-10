@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696962897522,
+  "endTime": 1696965125263,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -8755,6 +8755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48615,
+      "num": 44244,
+      "word": "美发圈没人敢说的秘密被抖出来了",
+      "onboard_time": 1696961837,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 47233,
       "num": 204490,
       "word": "一场二十年的长跑",
@@ -8801,14 +8809,6 @@
       "onboard_time": 1696734036,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37539,
-      "num": 44244,
-      "word": "美发圈没人敢说的秘密被抖出来了",
-      "onboard_time": 1696961837,
-      "rank": 44,
-      "category": "美妆"
     },
     {
       "raw_hot": 36831,

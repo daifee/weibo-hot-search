@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696962897522,
+  "endTime": 1696965125263,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -27931,6 +27931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 48615,
+      "num": 44244,
+      "word": "美发圈没人敢说的秘密被抖出来了",
+      "onboard_time": 1696961837,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 47798,
       "num": 47798,
       "word": "薛之谦音乐节贵阳",
@@ -28097,14 +28105,6 @@
       "onboard_time": 1696449855,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37539,
-      "num": 44244,
-      "word": "美发圈没人敢说的秘密被抖出来了",
-      "onboard_time": 1696961837,
-      "rank": 44,
-      "category": "美妆"
     },
     {
       "raw_hot": 36831,

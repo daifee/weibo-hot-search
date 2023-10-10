@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/11 02:34:57
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/11 03:12:05
 </p>
 </blockquote>
 <p>
@@ -6579,6 +6579,12 @@ enhypen饭撒（热度：103559）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%91%E5%9C%88%E6%B2%A1%E4%BA%BA%E6%95%A2%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86%E8%A2%AB%E6%8A%96%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+美发圈没人敢说的秘密被抖出来了（热度：48615）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E4%BA%8C%E5%8D%81%E5%B9%B4%E7%9A%84%E9%95%BF%E8%B7%91%23" target="weibo">
 一场二十年的长跑（热度：47233）
 </a>
@@ -6611,12 +6617,6 @@ enhypen饭撒（热度：103559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E9%AB%98%E7%87%834%E9%87%91%E6%94%B6%E5%AE%98%23" target="weibo">
 国羽高燃4金收官（热度：41536）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8F%91%E5%9C%88%E6%B2%A1%E4%BA%BA%E6%95%A2%E8%AF%B4%E7%9A%84%E7%A7%98%E5%AF%86%E8%A2%AB%E6%8A%96%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
-美发圈没人敢说的秘密被抖出来了（热度：37539）
 </a>
 </li>
 
