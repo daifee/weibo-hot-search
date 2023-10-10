@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696972531144,
+  "endTime": 1696973662839,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -8875,6 +8875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 26442,
+      "num": 24692,
+      "word": "因为男友家有果园所以决定嫁了",
+      "onboard_time": 1696970534,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 25815,
       "num": 754592,
       "word": "老乡鸡免费",
@@ -8905,14 +8913,6 @@
       "onboard_time": 1696789936,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22123,
-      "num": 22123,
-      "word": "因为男友家有果园所以决定嫁了",
-      "onboard_time": 1696970534,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 21533,
@@ -8963,6 +8963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 14094,
+      "num": 14094,
+      "word": "近5年时间记录100种花开瞬间",
+      "onboard_time": 1696972033,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 13061,
       "num": 17521,
       "word": "闪亮的你",
@@ -8977,14 +8985,6 @@
       "onboard_time": 1696709893,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12215,
-      "num": 13594,
-      "word": "近5年时间记录100种花开瞬间",
-      "onboard_time": 1696972033,
-      "rank": 45,
-      "category": "其它"
     },
     {
       "raw_hot": 11861,
