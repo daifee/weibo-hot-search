@@ -1,0 +1,410 @@
+{
+  "runTime": 1696916055709,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 9324665,
+        "num": 9324665,
+        "word": "北极鲶鱼爷爷违法违纪所得被收缴",
+        "onboard_time": 1696912543,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7826204,
+        "num": 7826204,
+        "word": "官方通报北极鲶鱼事件",
+        "onboard_time": 1696907913,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121813,
+        "num": 2221540,
+        "word": "用中国传统色打开秋天",
+        "onboard_time": 1696911227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7619285,
+        "num": 7619285,
+        "word": "北极鲶鱼爷爷被开除党籍",
+        "onboard_time": 1696908214,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1013886,
+        "num": 1013886,
+        "word": "余华 希望一直卖版权一直不拍",
+        "onboard_time": 1696911943,
+        "rank": 4,
+        "category": "电影,电影"
+      },
+      {
+        "raw_hot": 894782,
+        "num": 894782,
+        "word": "第一次见女主演男主的嫂嫂",
+        "onboard_time": 1696915181,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749995,
+        "num": 749995,
+        "word": "黑龙江一小学食堂6名学生吃2盘菜",
+        "onboard_time": 1696910623,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568989,
+        "num": 568989,
+        "word": "江歌妈妈首场直播带货超百万元",
+        "onboard_time": 1696913921,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525673,
+        "num": 525673,
+        "word": "BABYMONSTER官宣将出道",
+        "onboard_time": 1696914702,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 495978,
+        "num": 495978,
+        "word": "上海一女子到以色列度假遇战乱",
+        "onboard_time": 1696899157,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 468848,
+        "num": 468848,
+        "word": "冲闯中国总领馆男子被击毙",
+        "onboard_time": 1696906054,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 383289,
+        "num": 383289,
+        "word": "TFBOYS明天见登十大巅峰单曲",
+        "onboard_time": 1696909180,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 343240,
+        "num": 343240,
+        "word": "武林外传里的女性角色都好正常",
+        "onboard_time": 1696910623,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341922,
+        "num": 341922,
+        "word": "从体制内离职的人现在怎么样了",
+        "onboard_time": 1696892903,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317460,
+        "num": 317460,
+        "word": "路人看到迪丽热巴真人的评价",
+        "onboard_time": 1696912366,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300878,
+        "num": 300878,
+        "word": "陈牧驰高中的照片",
+        "onboard_time": 1696907615,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265349,
+        "num": 265349,
+        "word": "S13出征海报",
+        "onboard_time": 1696913564,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 258093,
+        "num": 258093,
+        "word": "老头衫的受众其实是女高",
+        "onboard_time": 1696901673,
+        "rank": 17,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 253445,
+        "num": 253445,
+        "word": "以色列",
+        "onboard_time": 1696898615,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 233070,
+        "num": 252380,
+        "word": "武打演员孟海去世",
+        "onboard_time": 1696902812,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1552038,
+        "num": 251902,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 432525,
+        "num": 250346,
+        "word": "i人真的适合当大学老师",
+        "onboard_time": 1696912064,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 411914,
+        "num": 249234,
+        "word": "医生提醒洗澡时不要清理肚脐眼",
+        "onboard_time": 1696904733,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 344402,
+        "num": 247923,
+        "word": "23岁长高了5厘米",
+        "onboard_time": 1696900474,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 315111,
+        "num": 247438,
+        "word": "原来考研也是有痕迹的",
+        "onboard_time": 1696915360,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 299163,
+        "num": 245332,
+        "word": "广东真的没有穿衣焦虑",
+        "onboard_time": 1696911943,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261013,
+        "num": 244811,
+        "word": "广东廉江一校车被撞幼儿哭声一片",
+        "onboard_time": 1696914519,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244056,
+        "num": 244056,
+        "word": "空心菜吃了会抽筋且致癌吗",
+        "onboard_time": 1696911284,
+        "rank": 27,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 243721,
+        "num": 243721,
+        "word": "两女子违规穿越终身禁入四姑娘山",
+        "onboard_time": 1696908940,
+        "rank": 28,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 229915,
+        "num": 229915,
+        "word": "迪丽热巴成都双子塔地广",
+        "onboard_time": 1696911465,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217590,
+        "num": 217590,
+        "word": "李一桐梦女多的原因找到了",
+        "onboard_time": 1696914583,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217089,
+        "num": 217089,
+        "word": "女子冒充男人与闺蜜恋爱",
+        "onboard_time": 1696910024,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216943,
+        "num": 216943,
+        "word": "张凌赫四人小分队搞不定一个手机",
+        "onboard_time": 1696913745,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216195,
+        "num": 216195,
+        "word": "中国海警局就菲律宾非法侵闯黄岩岛发声",
+        "onboard_time": 1696915360,
+        "rank": 33,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 204809,
+        "num": 204809,
+        "word": "乐队的夏天演唱会 工体",
+        "onboard_time": 1696914881,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202611,
+        "num": 202611,
+        "word": "为什么大学图书馆门口楼梯这么多",
+        "onboard_time": 1696913624,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200610,
+        "num": 200610,
+        "word": "程潇程晨姐妹青春篇章大片",
+        "onboard_time": 1696915837,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 197011,
+        "num": 197011,
+        "word": "再见爱人",
+        "onboard_time": 1696915959,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189582,
+        "num": 189582,
+        "word": "RIIZE成员SOHEE旧照",
+        "onboard_time": 1696913023,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188360,
+        "num": 188360,
+        "word": "喝完喜酒回去只记得花童了",
+        "onboard_time": 1696912605,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 187084,
+        "num": 187084,
+        "word": "任敏清纯感",
+        "onboard_time": 1696911586,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186599,
+        "num": 186599,
+        "word": "蝴蝶停在了梅德韦杰夫的网球上",
+        "onboard_time": 1696913624,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185000,
+        "num": 185000,
+        "word": "因为一杯十块钱的奶茶吵架了",
+        "onboard_time": 1696898558,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182851,
+        "num": 182851,
+        "word": "唐嫣拄着拐杖拍戏",
+        "onboard_time": 1696915837,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177333,
+        "num": 177333,
+        "word": "女子PPT举报前夫婚内出轨博士造假",
+        "onboard_time": 1696861238,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175885,
+        "num": 175885,
+        "word": "周也恶女妆造",
+        "onboard_time": 1696904790,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173307,
+        "num": 173307,
+        "word": "张杰万物不如你十大巅峰单曲",
+        "onboard_time": 1696913385,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165163,
+        "num": 165163,
+        "word": "坑里有水为救人消防直说那也得下",
+        "onboard_time": 1696916019,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163075,
+        "num": 163075,
+        "word": "陈奕迅成都演唱会连开6场",
+        "onboard_time": 1696905631,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160703,
+        "num": 160703,
+        "word": "谭松韵新片演闫妮吴京女儿",
+        "onboard_time": 1696905209,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国工会第十八次全国代表大会在京开幕#"
+    }
+  }
+}

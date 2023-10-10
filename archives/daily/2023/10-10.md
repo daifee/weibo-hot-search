@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/10 00:22:03 ~ 2023/10/10 13:16:14
+本榜单时间：2023/10/10 00:22:03 ~ 2023/10/10 13:34:15
 </p>
 </blockquote>
 <p>
@@ -57,6 +57,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E5%A6%BB%E5%AD%90%E5%B0%86%E5%B0%8F%E4%B8%89%E6%89%92%E5%85%89%E6%B8%B8%E8%A1%97%E8%8E%B7%E5%88%91%23" target="weibo">
+丈夫出轨妻子将小三扒光游街获刑（热度：1552038）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%B5%B7%E4%B8%BE%E6%8A%A5%E5%9B%BD%E4%BC%81%E8%BD%AC%E8%B4%A6%E7%A7%81%E4%BA%BA%E8%B4%A6%E6%88%B7%E8%BF%916%E4%BA%BF%23" target="weibo">
 王海举报国企转账私人账户近6亿（热度：1455901）
 </a>
@@ -88,7 +94,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%20%E5%B8%8C%E6%9C%9B%E4%B8%80%E7%9B%B4%E5%8D%96%E7%89%88%E6%9D%83%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%8D%23" target="weibo">
-余华 希望一直卖版权一直不拍（热度：1001184）
+余华 希望一直卖版权一直不拍（热度：1013886）
 </a>
 </li>
 
@@ -101,6 +107,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E5%B0%8F%E5%AD%A6%E9%A3%9F%E5%A0%826%E5%90%8D%E5%AD%A6%E7%94%9F%E5%90%832%E7%9B%98%E8%8F%9C%23" target="weibo">
 黑龙江一小学食堂6名学生吃2盘菜（热度：959424）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%BC%94%E7%94%B7%E4%B8%BB%E7%9A%84%E5%AB%82%E5%AB%82%23" target="weibo">
+第一次见女主演男主的嫂嫂（热度：894782）
 </a>
 </li>
 
@@ -219,6 +231,12 @@ TFBOYS明天见登十大巅峰单曲（热度：810922）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E9%A6%96%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B6%85%E7%99%BE%E4%B8%87%E5%85%83%23" target="weibo">
+江歌妈妈首场直播带货超百万元（热度：568989）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E9%B8%A3%E6%8B%85%E4%BB%BB%E8%BE%BD%E5%AE%81%E7%9B%8A%E8%83%9C%E6%80%BB%E8%A3%81%E5%85%BC%E6%80%BB%E6%95%99%E7%BB%83%23" target="weibo">
 杨鸣担任辽宁益胜总裁兼总教练（热度：562744）
 </a>
@@ -237,8 +255,8 @@ TFBOYS明天见登十大巅峰单曲（热度：810922）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E9%A6%96%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%E8%B6%85%E7%99%BE%E4%B8%87%E5%85%83%23" target="weibo">
-江歌妈妈首场直播带货超百万元（热度：528686）
+<a href="https://s.weibo.com/weibo?q=%23BABYMONSTER%E5%AE%98%E5%AE%A3%E5%B0%86%E5%87%BA%E9%81%93%23" target="weibo">
+BABYMONSTER官宣将出道（热度：525673）
 </a>
 </li>
 
@@ -405,12 +423,6 @@ i人真的适合当大学老师（热度：521364）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E5%87%BA%E8%BD%A8%E5%A6%BB%E5%AD%90%E5%B0%86%E5%B0%8F%E4%B8%89%E6%89%92%E5%85%89%E6%B8%B8%E8%A1%97%E8%8E%B7%E5%88%91%23" target="weibo">
-丈夫出轨妻子将小三扒光游街获刑（热度：372113）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E5%92%8C%E5%A5%B3%E5%84%BF%E7%9A%84%E7%9B%B8%E5%A4%84%E6%A8%A1%E5%BC%8F%23" target="weibo">
 向佐和女儿的相处模式（热度：370774）
 </a>
@@ -459,6 +471,18 @@ i人真的适合当大学老师（热度：521364）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E7%9C%8B%E5%88%B0%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E4%BA%BA%E7%9A%84%E8%AF%84%E4%BB%B7%23" target="weibo">
+路人看到迪丽热巴真人的评价（热度：317460）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%80%83%E7%A0%94%E4%B9%9F%E6%98%AF%E6%9C%89%E7%97%95%E8%BF%B9%E7%9A%84%23" target="weibo">
+原来考研也是有痕迹的（热度：315111）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E6%82%A3%E6%B8%90%E5%86%BB%E7%97%87%E4%B8%88%E5%A4%AB%E6%B8%A9%E6%83%85%E5%AE%88%E6%8A%A416%E5%B9%B4%23" target="weibo">
 妻子患渐冻症丈夫温情守护16年（热度：305551）
 </a>
@@ -477,12 +501,6 @@ i人真的适合当大学老师（热度：521364）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E4%BA%BA%E7%9C%8B%E5%88%B0%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E4%BA%BA%E7%9A%84%E8%AF%84%E4%BB%B7%23" target="weibo">
-路人看到迪丽热巴真人的评价（热度：296893）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%8D%E6%98%93%E7%9A%84%E5%BE%AE%E5%8D%9A%E7%9C%9F%E7%9A%84%E5%BE%88%E6%B2%BB%E6%84%88%23" target="weibo">
 毛不易的微博真的很治愈（热度：296217）
 </a>
@@ -491,12 +509,6 @@ i人真的适合当大学老师（热度：521364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9A%97%E6%81%8B%E5%A4%A712%E5%B2%81%E5%A5%B3%E5%90%8C%E4%BA%8B%E8%A3%85%E7%9B%91%E6%8E%A7%E5%81%B7%E7%AA%A5%23" target="weibo">
 男子暗恋大12岁女同事装监控偷窥（热度：294043）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BABYMONSTER%E5%AE%98%E5%AE%A3%E5%B0%86%E5%87%BA%E9%81%93%23" target="weibo">
-BABYMONSTER官宣将出道（热度：293486）
 </a>
 </li>
 
@@ -597,6 +609,12 @@ S13出征海报（热度：286769）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E4%B8%80%E6%A0%A1%E8%BD%A6%E8%A2%AB%E6%92%9E%E5%B9%BC%E5%84%BF%E5%93%AD%E5%A3%B0%E4%B8%80%E7%89%87%23" target="weibo">
+广东廉江一校车被撞幼儿哭声一片（热度：261013）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AD%A6%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%97%A8%E5%8F%A3%E6%A5%BC%E6%A2%AF%E8%BF%99%E4%B9%88%E5%A4%9A%23" target="weibo">
 为什么大学图书馆门口楼梯这么多（热度：260771）
 </a>
@@ -611,12 +629,6 @@ S13出征海报（热度：286769）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%B8%8C%E6%9C%9B%E5%8F%82%E5%8A%A02026%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8E%E9%80%80%E5%BD%B9%23" target="weibo">
 C罗希望参加2026世界杯后退役（热度：252712）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%BB%89%E6%B1%9F%E4%B8%80%E6%A0%A1%E8%BD%A6%E8%A2%AB%E6%92%9E%E5%B9%BC%E5%84%BF%E5%93%AD%E5%A3%B0%E4%B8%80%E7%89%87%23" target="weibo">
-广东廉江一校车被撞幼儿哭声一片（热度：251941）
 </a>
 </li>
 
@@ -735,6 +747,12 @@ C罗希望参加2026世界杯后退役（热度：252712）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E5%B1%80%E5%B0%B1%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%9D%9E%E6%B3%95%E4%BE%B5%E9%97%AF%E9%BB%84%E5%B2%A9%E5%B2%9B%E5%8F%91%E5%A3%B0%23" target="weibo">
+中国海警局就菲律宾非法侵闯黄岩岛发声（热度：216195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3%E7%BA%A61600%E4%BA%BA%23" target="weibo">
 巴以冲突死亡人数升至约1600人（热度：215896）
 </a>
@@ -789,6 +807,12 @@ C罗希望参加2026世界杯后退役（热度：252712）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E9%98%9F%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%B7%A5%E4%BD%93%23" target="weibo">
+乐队的夏天演唱会 工体（热度：204809）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%8D%B7%E4%BB%BB%E4%B8%AD%E5%85%B1%E6%B5%99%E6%B1%9F%E7%9C%81%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%23" target="weibo">
 刘捷任中共浙江省委副书记（热度：204301）
 </a>
@@ -813,14 +837,20 @@ C罗希望参加2026世界杯后退役（热度：252712）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E7%A8%8B%E6%99%A8%E5%A7%90%E5%A6%B9%E9%9D%92%E6%98%A5%E7%AF%87%E7%AB%A0%E5%A4%A7%E7%89%87%23" target="weibo">
+程潇程晨姐妹青春篇章大片（热度：200610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%81%E8%AF%81%E4%BA%86%E4%BA%8C%E8%83%A1%E4%B8%8E%E9%92%A2%E7%90%B4%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%E7%8E%B0%E5%9C%BA%23" target="weibo">
 见证了二胡与钢琴神仙打架现场（热度：198146）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E9%98%9F%E7%9A%84%E5%A4%8F%E5%A4%A9%E6%BC%94%E5%94%B1%E4%BC%9A%20%E5%B7%A5%E4%BD%93%23" target="weibo">
-乐队的夏天演唱会 工体（热度：197411）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%23" target="weibo">
+再见爱人（热度：197011）
 </a>
 </li>
 
@@ -875,6 +905,12 @@ C罗希望参加2026世界杯后退役（热度：252712）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E9%A6%99%E6%B8%AF%E7%AB%99%23" target="weibo">
 薛之谦香港站（热度：182886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E6%8B%84%E7%9D%80%E6%8B%90%E6%9D%96%E6%8B%8D%E6%88%8F%23" target="weibo">
+唐嫣拄着拐杖拍戏（热度：182851）
 </a>
 </li>
 
@@ -953,6 +989,12 @@ NBA季前赛（热度：173029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%BB%AE%E8%B4%9E%20%E7%96%AF%E7%8B%82%E5%8F%88%E6%B5%AA%E6%BC%AB%E5%8F%88%E4%B8%8D%E5%88%87%E5%AE%9E%E9%99%85%23" target="weibo">
 陈绮贞 疯狂又浪漫又不切实际（热度：165237）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9D%91%E9%87%8C%E6%9C%89%E6%B0%B4%E4%B8%BA%E6%95%91%E4%BA%BA%E6%B6%88%E9%98%B2%E7%9B%B4%E8%AF%B4%E9%82%A3%E4%B9%9F%E5%BE%97%E4%B8%8B%23" target="weibo">
+坑里有水为救人消防直说那也得下（热度：165163）
 </a>
 </li>
 
