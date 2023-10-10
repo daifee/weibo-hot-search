@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696926123692,
+  "endTime": 1696926919269,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -401,6 +401,14 @@
       "onboard_time": 1696780111,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1692929,
+      "num": 968666,
+      "word": "创5 熟人",
+      "onboard_time": 1696925615,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1624282,
@@ -883,14 +891,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 968666,
-      "num": 968666,
-      "word": "创5 熟人",
-      "onboard_time": 1696925615,
-      "rank": 4,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 963083,
       "num": 411520,
       "word": "建议1周换1次床上用品",
@@ -1300,7 +1300,7 @@
     },
     {
       "raw_hot": 691080,
-      "num": 412473,
+      "num": 468595,
       "word": "杨幂塑料袋头饰",
       "onboard_time": 1696923876,
       "rank": 11,
@@ -1393,6 +1393,14 @@
       "onboard_time": 1696857517,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 655447,
+      "num": 655447,
+      "word": "张艺兴也掏出了压箱底的衣服",
+      "onboard_time": 1696926037,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 653784,
@@ -2083,6 +2091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 494089,
+      "num": 494089,
+      "word": "人民网评北极鲶鱼事件",
+      "onboard_time": 1696921416,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493704,
       "num": 493704,
       "word": "孙颖莎vs陈梦",
@@ -2137,14 +2153,6 @@
       "onboard_time": 1696911284,
       "rank": 24,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 481850,
-      "num": 481850,
-      "word": "人民网评北极鲶鱼事件",
-      "onboard_time": 1696921416,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 481469,
@@ -2707,14 +2715,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 384470,
-      "num": 384470,
-      "word": "张艺兴也掏出了压箱底的衣服",
-      "onboard_time": 1696926037,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 384034,
       "num": 384034,
       "word": "学校食堂19元一份的自助盒饭",
@@ -2857,6 +2857,14 @@
       "onboard_time": 1696905631,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 368623,
+      "num": 368623,
+      "word": "全中国最难摸鱼的工位",
+      "onboard_time": 1696924714,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 366783,
@@ -3171,14 +3179,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 334961,
-      "num": 194841,
-      "word": "全中国最难摸鱼的工位",
-      "onboard_time": 1696924714,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 334646,
       "num": 334646,
       "word": "王者荣耀",
@@ -3313,6 +3313,14 @@
       "onboard_time": 1696839815,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 316502,
+      "num": 316502,
+      "word": "2023TMA红毯",
+      "onboard_time": 1696926874,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 315773,
@@ -3569,6 +3577,14 @@
       "onboard_time": 1696907432,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296057,
+      "num": 296057,
+      "word": "于适脏辫",
+      "onboard_time": 1696925194,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 291886,
@@ -3905,6 +3921,14 @@
       "onboard_time": 1696737338,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 272016,
+      "num": 272016,
+      "word": "献鱼",
+      "onboard_time": 1696926814,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 271956,
@@ -4531,14 +4555,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 239667,
-      "num": 239667,
-      "word": "于适脏辫",
-      "onboard_time": 1696925194,
-      "rank": 27,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 238672,
       "num": 238672,
       "word": "赵又廷毛晓彤跳舞金世佳划水",
@@ -4761,6 +4777,14 @@
       "onboard_time": 1696769859,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231125,
+      "num": 231125,
+      "word": "中国驻旧金山总领馆暂停对外办公",
+      "onboard_time": 1696925495,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 230599,
@@ -5371,6 +5395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204739,
+      "num": 204739,
+      "word": "WBG租借DRX基地",
+      "onboard_time": 1696926874,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 204642,
       "num": 204642,
       "word": "唐禹哲纠正宝石Gem东北口音",
@@ -5585,14 +5617,6 @@
       "onboard_time": 1696761936,
       "rank": 36,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 197381,
-      "num": 197381,
-      "word": "中国驻旧金山总领馆暂停对外办公",
-      "onboard_time": 1696925495,
-      "rank": 29,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 197337,
@@ -6403,6 +6427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163477,
+      "num": 163477,
+      "word": "分享结扎经历被嘲太监当事人发声",
+      "onboard_time": 1696926213,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163236,
       "num": 599803,
       "word": "谢震业高举五星红旗入场",
@@ -6545,6 +6577,14 @@
       "onboard_time": 1696919674,
       "rank": 41,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 157167,
+      "num": 157167,
+      "word": "货车被堵德州消防喷水救4000只小鸡",
+      "onboard_time": 1696926154,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156258,
@@ -6835,6 +6875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 129883,
+      "num": 129883,
+      "word": "S13",
+      "onboard_time": 1696926874,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 129649,
       "num": 129649,
       "word": "第36届金鸡奖主视觉海报出炉",
@@ -6937,6 +6985,14 @@
       "onboard_time": 1696925436,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 121335,
+      "num": 121335,
+      "word": "妈妈乱画被女孩挽救成漫画",
+      "onboard_time": 1696926814,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121285,

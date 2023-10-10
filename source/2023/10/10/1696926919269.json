@@ -1,0 +1,410 @@
+{
+  "runTime": 1696926919269,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2998659,
+        "num": 2998659,
+        "word": "北极鲶鱼爷爷违法违纪所得被收缴",
+        "onboard_time": 1696912543,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084114,
+        "num": 1084114,
+        "word": "每天喝咖啡会导致卵巢囊肿吗",
+        "onboard_time": 1696919915,
+        "rank": 1,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 10175,
+        "num": 800451,
+        "word": "聚亚洲之力筑未来之路",
+        "onboard_time": 1696901071,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1926232,
+        "num": 759150,
+        "word": "北极鲶鱼爷爷被开除党籍",
+        "onboard_time": 1696908214,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1692929,
+        "num": 719313,
+        "word": "创5 熟人",
+        "onboard_time": 1696925615,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655447,
+        "num": 655447,
+        "word": "张艺兴也掏出了压箱底的衣服",
+        "onboard_time": 1696926037,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1778816,
+        "num": 655317,
+        "word": "官方通报北极鲶鱼事件",
+        "onboard_time": 1696907913,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 613016,
+        "num": 613016,
+        "word": "孙颖莎世排积分全是冠军",
+        "onboard_time": 1696921356,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494089,
+        "num": 494089,
+        "word": "人民网评北极鲶鱼事件",
+        "onboard_time": 1696921416,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344835,
+        "num": 490280,
+        "word": "二级科员是什么级别",
+        "onboard_time": 1696919794,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762133,
+        "num": 480699,
+        "word": "台媒曝炎亚纶将改名转运",
+        "onboard_time": 1696917455,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622520,
+        "num": 468595,
+        "word": "杨幂塑料袋头饰",
+        "onboard_time": 1696923876,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 738299,
+        "num": 461830,
+        "word": "北极鲶鱼的爷爷或不会被起诉判刑",
+        "onboard_time": 1696917996,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453599,
+        "num": 453599,
+        "word": "北极鲶鱼爷爷曾称老老实实干到退休",
+        "onboard_time": 1696916856,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374891,
+        "num": 374891,
+        "word": "樊胜美现象 父亲的文化观念",
+        "onboard_time": 1696919794,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 374427,
+        "num": 374427,
+        "word": "梅西确定再次来中国",
+        "onboard_time": 1696924474,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 368623,
+        "num": 368623,
+        "word": "全中国最难摸鱼的工位",
+        "onboard_time": 1696924714,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344360,
+        "num": 344360,
+        "word": "1个月接诊1700多名脆皮年轻人",
+        "onboard_time": 1696919316,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339904,
+        "num": 339904,
+        "word": "第一次见女主演男主的嫂嫂",
+        "onboard_time": 1696915181,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319412,
+        "num": 319412,
+        "word": "网传浪姐5将邀请朴彩英",
+        "onboard_time": 1696918656,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1005298,
+        "num": 318257,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316502,
+        "num": 316502,
+        "word": "2023TMA红毯",
+        "onboard_time": 1696926874,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 296102,
+        "num": 296102,
+        "word": "4岁失踪女童父亲向水哥求助",
+        "onboard_time": 1696917758,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296057,
+        "num": 296057,
+        "word": "于适脏辫",
+        "onboard_time": 1696925194,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283252,
+        "num": 283252,
+        "word": "余华 希望一直卖版权一直不拍",
+        "onboard_time": 1696911943,
+        "rank": 24,
+        "category": "电影,电影"
+      },
+      {
+        "raw_hot": 279266,
+        "num": 279266,
+        "word": "丞磊卢昱晓摩天轮合照",
+        "onboard_time": 1696922315,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272016,
+        "num": 272016,
+        "word": "献鱼",
+        "onboard_time": 1696926814,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267279,
+        "num": 267279,
+        "word": "创5路透",
+        "onboard_time": 1696917939,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239708,
+        "num": 239708,
+        "word": "现在的韩剧需要南柱赫",
+        "onboard_time": 1696921356,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231435,
+        "num": 231435,
+        "word": "2023TMA颁奖礼",
+        "onboard_time": 1696918895,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 231125,
+        "num": 231125,
+        "word": "中国驻旧金山总领馆暂停对外办公",
+        "onboard_time": 1696925495,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 231070,
+        "num": 231070,
+        "word": "妈妈变了 谢谢你丽芬",
+        "onboard_time": 1696923396,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205416,
+        "num": 205416,
+        "word": "希望KPOP男爱豆免除兵役",
+        "onboard_time": 1696922615,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204739,
+        "num": 204739,
+        "word": "WBG租借DRX基地",
+        "onboard_time": 1696926874,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187967,
+        "num": 187967,
+        "word": "网传鞠婧祎程潇客串狐妖小红娘王权篇",
+        "onboard_time": 1696922500,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168825,
+        "num": 168825,
+        "word": "庆余年二剧组聚餐",
+        "onboard_time": 1696919555,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164321,
+        "num": 164321,
+        "word": "狗子每次去厕所前都会通知全家",
+        "onboard_time": 1696919136,
+        "rank": 36,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 163477,
+        "num": 163477,
+        "word": "分享结扎经历被嘲太监当事人发声",
+        "onboard_time": 1696926213,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161068,
+        "num": 161068,
+        "word": "原来有人一天工作18个小时",
+        "onboard_time": 1696920273,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158263,
+        "num": 158263,
+        "word": "上海一女子到以色列度假遇战乱",
+        "onboard_time": 1696899157,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 157167,
+        "num": 157167,
+        "word": "货车被堵德州消防喷水救4000只小鸡",
+        "onboard_time": 1696926154,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153694,
+        "num": 153694,
+        "word": "i人真的适合当大学老师",
+        "onboard_time": 1696912064,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147577,
+        "num": 147577,
+        "word": "TFBOYS明天见登十大巅峰单曲",
+        "onboard_time": 1696909180,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 142601,
+        "num": 142601,
+        "word": "江歌妈妈首场直播带货超百万元",
+        "onboard_time": 1696913921,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141644,
+        "num": 141644,
+        "word": "消防员救70000只鸡养鸡大户拎鸡感谢",
+        "onboard_time": 1696922015,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137425,
+        "num": 137425,
+        "word": "广东真的没有穿衣焦虑",
+        "onboard_time": 1696911943,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135262,
+        "num": 135262,
+        "word": "原来考研也是有痕迹的",
+        "onboard_time": 1696915360,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 131120,
+        "num": 131120,
+        "word": "程潇程晨姐妹青春篇章大片",
+        "onboard_time": 1696915837,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 129883,
+        "num": 129883,
+        "word": "S13",
+        "onboard_time": 1696926874,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 121335,
+        "num": 121335,
+        "word": "妈妈乱画被女孩挽救成漫画",
+        "onboard_time": 1696926814,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国工会第十八次全国代表大会在京开幕#"
+    }
+  }
+}
