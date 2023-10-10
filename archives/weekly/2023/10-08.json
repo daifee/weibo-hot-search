@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696947385511,
+  "endTime": 1696948519953,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 4269593,
+      "num": 1416764,
+      "word": "新冠",
+      "onboard_time": 1696945299,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4212239,
       "num": 4212239,
       "word": "性缘脑",
@@ -65,14 +73,6 @@
       "onboard_time": 1696767758,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 4027195,
-      "num": 925273,
-      "word": "新冠",
-      "onboard_time": 1696945299,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3945458,
@@ -433,6 +433,14 @@
       "onboard_time": 1696770821,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1770005,
+      "num": 1770005,
+      "word": "韩国不满杭州亚运会表现",
+      "onboard_time": 1696946498,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1751124,
@@ -1075,14 +1083,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 884515,
-      "num": 884515,
-      "word": "韩国不满杭州亚运会表现",
-      "onboard_time": 1696946498,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 871891,
       "num": 871891,
       "word": "以色列建国史",
@@ -1249,6 +1249,14 @@
       "onboard_time": 1696937439,
       "rank": 27,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 794710,
+      "num": 443535,
+      "word": "新华社称退休不是护身符",
+      "onboard_time": 1696947580,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 793375,
@@ -1427,6 +1435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 716080,
+      "num": 716080,
+      "word": "家人嫌我买的多巴胺公园凳丑",
+      "onboard_time": 1696945478,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 715150,
       "num": 293355,
       "word": "医生提醒洗澡时不要清理肚脐眼",
@@ -1489,14 +1505,6 @@
       "onboard_time": 1696901972,
       "rank": 40,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 695648,
-      "num": 695648,
-      "word": "家人嫌我买的多巴胺公园凳丑",
-      "onboard_time": 1696945478,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 693384,
@@ -1776,6 +1784,14 @@
       "word": "11岁女孩将狗偷走掰断其牙齿舌头",
       "onboard_time": 1696817494,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 619326,
+      "num": 360704,
+      "word": "上海4岁女童海滩失踪案最新进展",
+      "onboard_time": 1696947520,
+      "rank": 21,
       "category": "社会新闻"
     },
     {
@@ -2265,6 +2281,14 @@
       "onboard_time": 1696735298,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 506849,
+      "num": 506849,
+      "word": "小时候吃的台湾无骨鸡柳去哪了",
+      "onboard_time": 1696946498,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 506809,
@@ -2955,14 +2979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 399338,
-      "num": 399338,
-      "word": "小时候吃的台湾无骨鸡柳去哪了",
-      "onboard_time": 1696946498,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 398025,
       "num": 398025,
       "word": "原来迪士尼以前叫迪斯尼",
@@ -3339,6 +3355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 355320,
+      "num": 355320,
+      "word": "国足越南冲突",
+      "onboard_time": 1696946439,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 355129,
       "num": 355129,
       "word": "英雄志",
@@ -3433,14 +3457,6 @@
       "onboard_time": 1696762956,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347646,
-      "num": 347646,
-      "word": "国足越南冲突",
-      "onboard_time": 1696946439,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 347274,
@@ -4043,6 +4059,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 294321,
+      "num": 267985,
+      "word": "张元英美式女高造型",
+      "onboard_time": 1696947221,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 291886,
       "num": 291886,
       "word": "广州队主力球员月薪仅1万5",
@@ -4457,6 +4481,14 @@
       "onboard_time": 1696914583,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271026,
+      "num": 248379,
+      "word": "原来周星驰和吴孟达说过相声",
+      "onboard_time": 1696948180,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 270700,
@@ -5473,6 +5505,14 @@
       "onboard_time": 1696862382,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227350,
+      "num": 227350,
+      "word": "创造营2023",
+      "onboard_time": 1696948062,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 226486,
@@ -7107,6 +7147,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 171003,
+      "num": 171003,
+      "word": "张艺谋获东京电影节终身成就奖",
+      "onboard_time": 1696947882,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170924,
       "num": 170924,
       "word": "阴阳师 超鬼王",
@@ -7163,6 +7211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169392,
+      "num": 169392,
+      "word": "赵昭仪好真实一女孩",
+      "onboard_time": 1696947400,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168714,
       "num": 160861,
       "word": "夫妻因饮食习惯同时确诊同种癌症",
@@ -7209,14 +7265,6 @@
       "onboard_time": 1696776822,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166901,
-      "num": 166901,
-      "word": "张元英美式女高造型",
-      "onboard_time": 1696947221,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166336,
@@ -7297,6 +7345,14 @@
       "onboard_time": 1696769437,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163123,
+      "num": 163123,
+      "word": "薛之谦天外来物巡回演唱会",
+      "onboard_time": 1696948001,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 162689,
@@ -8459,6 +8515,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 50312,
+      "num": 1427325,
+      "word": "乡村行看振兴",
+      "onboard_time": 1696945779,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 49488,
       "num": 54331,
       "word": "罗云熙早秋棕色系奶茶穿搭",
@@ -8480,14 +8544,6 @@
       "word": "一场二十年的长跑",
       "onboard_time": 1696903233,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47205,
-      "num": 930620,
-      "word": "乡村行看振兴",
-      "onboard_time": 1696945779,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

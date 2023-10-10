@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696947385511,
+  "endTime": 1696948519953,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -27,8 +27,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4027195,
-      "num": 925273,
+      "raw_hot": 4269593,
+      "num": 1416764,
       "word": "新冠",
       "onboard_time": 1696945299,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1696932213,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1770005,
+      "num": 1770005,
+      "word": "韩国不满杭州亚运会表现",
+      "onboard_time": 1696946498,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 1692929,
@@ -307,14 +315,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 884515,
-      "num": 884515,
-      "word": "韩国不满杭州亚运会表现",
-      "onboard_time": 1696946498,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 871484,
       "num": 649852,
       "word": "终于搞懂五险一金了",
@@ -411,6 +411,14 @@
       "category": "国内要闻,社会新闻"
     },
     {
+      "raw_hot": 794710,
+      "num": 443535,
+      "word": "新华社称退休不是护身符",
+      "onboard_time": 1696947580,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 793216,
       "num": 793216,
       "word": "国足2比0复仇越南",
@@ -451,6 +459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 716080,
+      "num": 716080,
+      "word": "家人嫌我买的多巴胺公园凳丑",
+      "onboard_time": 1696945478,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 715150,
       "num": 293355,
       "word": "医生提醒洗澡时不要清理肚脐眼",
@@ -481,14 +497,6 @@
       "onboard_time": 1696901972,
       "rank": 40,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 695648,
-      "num": 695648,
-      "word": "家人嫌我买的多巴胺公园凳丑",
-      "onboard_time": 1696945478,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 693384,
@@ -585,6 +593,14 @@
       "onboard_time": 1696918656,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 619326,
+      "num": 360704,
+      "word": "上海4岁女童海滩失踪案最新进展",
+      "onboard_time": 1696947520,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 617919,
@@ -697,6 +713,14 @@
       "onboard_time": 1696908940,
       "rank": 22,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 506849,
+      "num": 506849,
+      "word": "小时候吃的台湾无骨鸡柳去哪了",
+      "onboard_time": 1696946498,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 506809,
@@ -923,14 +947,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 399338,
-      "num": 399338,
-      "word": "小时候吃的台湾无骨鸡柳去哪了",
-      "onboard_time": 1696946498,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 398025,
       "num": 398025,
       "word": "原来迪士尼以前叫迪斯尼",
@@ -1075,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 355320,
+      "num": 355320,
+      "word": "国足越南冲突",
+      "onboard_time": 1696946439,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 352151,
       "num": 352151,
       "word": "婚礼现场新郎10秒偷瞄新娘3次",
@@ -1097,14 +1121,6 @@
       "onboard_time": 1696893687,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 347646,
-      "num": 347646,
-      "word": "国足越南冲突",
-      "onboard_time": 1696946439,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 347274,
@@ -1307,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 294321,
+      "num": 267985,
+      "word": "张元英美式女高造型",
+      "onboard_time": 1696947221,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 294043,
       "num": 214756,
       "word": "男子暗恋大12岁女同事装监控偷窥",
@@ -1473,6 +1497,14 @@
       "onboard_time": 1696914583,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271026,
+      "num": 248379,
+      "word": "原来周星驰和吴孟达说过相声",
+      "onboard_time": 1696948180,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 269700,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1696913745,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 227350,
+      "num": 227350,
+      "word": "创造营2023",
+      "onboard_time": 1696948062,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 226486,
@@ -2451,6 +2491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171003,
+      "num": 171003,
+      "word": "张艺谋获东京电影节终身成就奖",
+      "onboard_time": 1696947882,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 170924,
       "num": 170924,
       "word": "阴阳师 超鬼王",
@@ -2491,20 +2539,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169392,
+      "num": 169392,
+      "word": "赵昭仪好真实一女孩",
+      "onboard_time": 1696947400,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167267,
       "num": 167267,
       "word": "王秋明破门",
       "onboard_time": 1696946678,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166901,
-      "num": 166901,
-      "word": "张元英美式女高造型",
-      "onboard_time": 1696947221,
-      "rank": 43,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 166336,
@@ -2553,6 +2601,14 @@
       "onboard_time": 1696942417,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163123,
+      "num": 163123,
+      "word": "薛之谦天外来物巡回演唱会",
+      "onboard_time": 1696948001,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 162038,
@@ -3019,19 +3075,19 @@
       "category": "数码"
     },
     {
+      "raw_hot": 50312,
+      "num": 1427325,
+      "word": "乡村行看振兴",
+      "onboard_time": 1696945779,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 47233,
       "num": 204490,
       "word": "一场二十年的长跑",
       "onboard_time": 1696903233,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 47205,
-      "num": 930620,
-      "word": "乡村行看振兴",
-      "onboard_time": 1696945779,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
