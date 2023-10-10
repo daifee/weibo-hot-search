@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696922158213,
+  "endTime": 1696923252965,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -99,6 +99,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1351646,
+      "num": 1351646,
+      "word": "二级科员是什么级别",
+      "onboard_time": 1696919794,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1348929,
       "num": 591783,
       "word": "台媒曝炎亚纶将改名转运",
@@ -121,14 +129,6 @@
       "onboard_time": 1696898677,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1102776,
-      "num": 1102776,
-      "word": "二级科员是什么级别",
-      "onboard_time": 1696919794,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1016869,
@@ -155,6 +155,14 @@
       "category": "社会议题"
     },
     {
+      "raw_hot": 962273,
+      "num": 962273,
+      "word": "每天喝咖啡会导致卵巢囊肿吗",
+      "onboard_time": 1696919915,
+      "rank": 6,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 959424,
       "num": 959424,
       "word": "黑龙江一小学食堂6名学生吃2盘菜",
@@ -179,14 +187,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 869686,
-      "num": 869686,
-      "word": "每天喝咖啡会导致卵巢囊肿吗",
-      "onboard_time": 1696919915,
-      "rank": 6,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 858220,
       "num": 785780,
       "word": "上海一女子到以色列度假遇战乱",
@@ -209,6 +209,14 @@
       "onboard_time": 1696858716,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 837610,
+      "num": 837610,
+      "word": "孙颖莎世排积分全是冠军",
+      "onboard_time": 1696921356,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 822132,
@@ -428,7 +436,7 @@
     },
     {
       "raw_hot": 499203,
-      "num": 243746,
+      "num": 251866,
       "word": "4岁失踪女童父亲向水哥求助",
       "onboard_time": 1696917758,
       "rank": 22,
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425479,
+      "num": 425479,
+      "word": "1个月接诊1700多名脆皮年轻人",
+      "onboard_time": 1696919316,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 422662,
       "num": 357658,
       "word": "以色列",
@@ -547,14 +563,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 413645,
-      "num": 413645,
-      "word": "孙颖莎世排积分全是冠军",
-      "onboard_time": 1696921356,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 398025,
       "num": 398025,
       "word": "原来迪士尼以前叫迪斯尼",
@@ -585,14 +593,6 @@
       "onboard_time": 1696906294,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 387717,
-      "num": 387717,
-      "word": "1个月接诊1700多名脆皮年轻人",
-      "onboard_time": 1696919316,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385198,
@@ -723,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 317564,
+      "num": 317564,
+      "word": "人民网评北极鲶鱼事件",
+      "onboard_time": 1696921416,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 317460,
       "num": 317460,
       "word": "路人看到迪丽热巴真人的评价",
@@ -803,6 +811,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 288948,
+      "num": 288948,
+      "word": "现在的韩剧需要南柱赫",
+      "onboard_time": 1696921356,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288302,
       "num": 288302,
       "word": "RIIZE成员SOHEE旧照",
@@ -824,6 +840,14 @@
       "word": "嗯哼甜馨一起郊游",
       "onboard_time": 1696851037,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 283205,
+      "num": 283205,
+      "word": "丞磊卢昱晓摩天轮合照",
+      "onboard_time": 1696922315,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -948,7 +972,7 @@
     },
     {
       "raw_hot": 257084,
-      "num": 218503,
+      "num": 222062,
       "word": "狗子每次去厕所前都会通知全家",
       "onboard_time": 1696919136,
       "rank": 30,
@@ -993,14 +1017,6 @@
       "onboard_time": 1696910623,
       "rank": 33,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 244359,
-      "num": 244359,
-      "word": "现在的韩剧需要南柱赫",
-      "onboard_time": 1696921356,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 243997,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1696921595,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235557,
+      "num": 235557,
+      "word": "希望KPOP男爱豆免除兵役",
+      "onboard_time": 1696922615,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 234911,
@@ -1275,12 +1299,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 203877,
-      "num": 203877,
-      "word": "人民网评北极鲶鱼事件",
-      "onboard_time": 1696921416,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 202896,
+      "num": 202896,
+      "word": "我社交五分钟之后",
+      "onboard_time": 1696922136,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 202392,
+      "num": 202392,
+      "word": "网传鞠婧祎程潇客串狐妖小红娘王权篇",
+      "onboard_time": 1696922500,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 201857,
@@ -1377,6 +1409,14 @@
       "onboard_time": 1696866579,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187050,
+      "num": 203097,
+      "word": "消防员救70000只鸡养鸡大户拎鸡感谢",
+      "onboard_time": 1696922015,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185880,
@@ -1705,22 +1745,6 @@
       "onboard_time": 1696847258,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126215,
-      "num": 126215,
-      "word": "我社交五分钟之后",
-      "onboard_time": 1696922136,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 125007,
-      "num": 125007,
-      "word": "消防员救70000只鸡养鸡大户拎鸡感谢",
-      "onboard_time": 1696922015,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121934,
