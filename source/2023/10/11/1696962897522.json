@@ -1,0 +1,410 @@
+{
+  "runTime": 1696962897522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 339345,
+        "num": 339345,
+        "word": "seventeen",
+        "onboard_time": 1696952196,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 260667,
+        "num": 260667,
+        "word": "晚上十一点之前尽量入睡",
+        "onboard_time": 1696940136,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 8720,
+        "num": 189740,
+        "word": "杭州亚运会微纪录片登场",
+        "onboard_time": 1696948781,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 420627,
+        "num": 182732,
+        "word": "新冠",
+        "onboard_time": 1696945299,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123301,
+        "num": 123301,
+        "word": "韩国不满杭州亚运会表现",
+        "onboard_time": 1696946498,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104848,
+        "num": 104848,
+        "word": "张小斐新片尺度",
+        "onboard_time": 1696936239,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103323,
+        "num": 103323,
+        "word": "删除微信好友能保留聊天记录",
+        "onboard_time": 1696937735,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 90062,
+        "num": 90062,
+        "word": "网传一中学运动会表演刺杀安倍",
+        "onboard_time": 1696949621,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 81722,
+        "num": 81722,
+        "word": "巴以冲突已致近1700人死亡",
+        "onboard_time": 1696952735,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 73441,
+        "num": 73441,
+        "word": "小时候吃的台湾无骨鸡柳去哪了",
+        "onboard_time": 1696946498,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 71731,
+        "num": 71731,
+        "word": "占美人口3%犹太人操纵七成美国财富",
+        "onboard_time": 1696949438,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 66099,
+        "num": 66099,
+        "word": "为什么体制内的人很少发朋友圈",
+        "onboard_time": 1696943378,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 65924,
+        "num": 65924,
+        "word": "鹿晗张艺兴共享衣橱",
+        "onboard_time": 1696943678,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 65576,
+        "num": 65576,
+        "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+        "onboard_time": 1696941936,
+        "rank": 13,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 64359,
+        "num": 64359,
+        "word": "好羡慕能带薪发疯的工作",
+        "onboard_time": 1696954891,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64260,
+        "num": 64260,
+        "word": "相亲发生关系男子被控强奸迎反转",
+        "onboard_time": 1696935755,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58680,
+        "num": 58680,
+        "word": "欧阳娣娣 创5",
+        "onboard_time": 1696931795,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57067,
+        "num": 57067,
+        "word": "华北理工食堂被曝吃出鼠头",
+        "onboard_time": 1696948837,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52575,
+        "num": 52575,
+        "word": "杨幂帽子 济公",
+        "onboard_time": 1696942359,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 50393,
+        "num": 50393,
+        "word": "属于i人的季节来了",
+        "onboard_time": 1696951898,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144150,
+        "num": 49706,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58821,
+        "num": 49542,
+        "word": "上海4岁女童失踪海滩入口已封闭",
+        "onboard_time": 1696950941,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48101,
+        "num": 48101,
+        "word": "52岁瞿颖走秀状态",
+        "onboard_time": 1696951538,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44341,
+        "num": 44341,
+        "word": "动车卫生间里居然长了眼",
+        "onboard_time": 1696943797,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 43339,
+        "num": 43339,
+        "word": "于适P了肩膀",
+        "onboard_time": 1696944097,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 42947,
+        "num": 42947,
+        "word": "9月新增本土新冠死亡病例45例",
+        "onboard_time": 1696940136,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41781,
+        "num": 41781,
+        "word": "原神海维 核中宇宙",
+        "onboard_time": 1696958360,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 41604,
+        "num": 41604,
+        "word": "新华社称退休不是护身符",
+        "onboard_time": 1696947580,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39389,
+        "num": 39389,
+        "word": "家人嫌我买的多巴胺公园凳丑",
+        "onboard_time": 1696945478,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37823,
+        "num": 39192,
+        "word": "订婚结束新娘家人将彩礼还给新郎",
+        "onboard_time": 1696949259,
+        "rank": 29,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 37539,
+        "num": 38798,
+        "word": "美发圈没人敢说的秘密被抖出来了",
+        "onboard_time": 1696961837,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 35263,
+        "num": 38215,
+        "word": "孟子义素颜自拍",
+        "onboard_time": 1696952735,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34081,
+        "num": 37921,
+        "word": "终于搞懂五险一金了",
+        "onboard_time": 1696934438,
+        "rank": 32,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 33900,
+        "num": 37562,
+        "word": "创5选手撞脸鹿晗关晓彤",
+        "onboard_time": 1696932213,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31115,
+        "num": 36927,
+        "word": "国足越南冲突",
+        "onboard_time": 1696946439,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30929,
+        "num": 36624,
+        "word": "肖战杭州亚运圆梦时刻",
+        "onboard_time": 1696944216,
+        "rank": 35,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 30569,
+        "num": 36295,
+        "word": "戚薇瘦气能不能分我点",
+        "onboard_time": 1696941397,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30537,
+        "num": 35784,
+        "word": "cp30",
+        "onboard_time": 1696944760,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 30430,
+        "num": 35121,
+        "word": "张元英美式女高造型",
+        "onboard_time": 1696947221,
+        "rank": 38,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 30309,
+        "num": 34848,
+        "word": "陈楚生老婆说胡兵心态好年轻",
+        "onboard_time": 1696933534,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29031,
+        "num": 34346,
+        "word": "小时候看居然没觉得哪里不对",
+        "onboard_time": 1696948541,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 27602,
+        "num": 33767,
+        "word": "创造营2023",
+        "onboard_time": 1696948062,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27298,
+        "num": 33479,
+        "word": "问心",
+        "onboard_time": 1696942298,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26119,
+        "num": 33083,
+        "word": "华北理工大学通报",
+        "onboard_time": 1696949803,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25046,
+        "num": 32693,
+        "word": "待播古偶神仙打架",
+        "onboard_time": 1696942717,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24045,
+        "num": 32126,
+        "word": "给南风知我意来杯碧茶之毒",
+        "onboard_time": 1696953216,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22449,
+        "num": 31793,
+        "word": "原来周星驰和吴孟达说过相声",
+        "onboard_time": 1696948180,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20276,
+        "num": 31215,
+        "word": "17年这天发了真相是假",
+        "onboard_time": 1696934852,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19456,
+        "num": 31018,
+        "word": "沈小婷肖俊Galileo Challenge",
+        "onboard_time": 1696949862,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18779,
+        "num": 30530,
+        "word": "董宇辉 知识越丰富的人越谦虚",
+        "onboard_time": 1696949019,
+        "rank": 49,
+        "category": "情感,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路走过10年#"
+    }
+  }
+}
