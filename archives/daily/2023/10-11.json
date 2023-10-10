@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696970051062,
+  "endTime": 1696972531144,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -475,12 +475,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22123,
+      "num": 22123,
+      "word": "因为男友家有果园所以决定嫁了",
+      "onboard_time": 1696970534,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14965,
       "num": 17353,
       "word": "有生之年",
       "onboard_time": 1696966033,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12215,
+      "num": 13594,
+      "word": "近5年时间记录100种花开瞬间",
+      "onboard_time": 1696972033,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 11621,
