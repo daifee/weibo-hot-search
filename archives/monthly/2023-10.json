@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696942199343,
+  "endTime": 1696944105038,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -271,6 +271,14 @@
       "num": 3472438,
       "word": "日本海啸",
       "onboard_time": 1696474955,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3458203,
+      "num": 3458203,
+      "word": "9月新增本土新冠死亡病例45例",
+      "onboard_time": 1696940136,
       "rank": 4,
       "category": "社会新闻"
     },
@@ -1211,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1835884,
-      "num": 1835884,
-      "word": "9月新增本土新冠死亡病例45例",
-      "onboard_time": 1696940136,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1834681,
       "num": 1834681,
       "word": "周润发回应裸捐56亿港币",
@@ -1993,6 +1993,14 @@
       "onboard_time": 1696603424,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1463265,
+      "num": 1463265,
+      "word": "晚上十一点之前尽量入睡",
+      "onboard_time": 1696940136,
+      "rank": 7,
+      "category": "其它"
     },
     {
       "raw_hot": 1455901,
@@ -3033,6 +3041,14 @@
       "onboard_time": 1696161756,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1057356,
+      "num": 415550,
+      "word": "杨幂帽子 济公",
+      "onboard_time": 1696942359,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1054056,
@@ -4347,14 +4363,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 809201,
-      "num": 809201,
-      "word": "晚上十一点之前尽量入睡",
-      "onboard_time": 1696940136,
-      "rank": 7,
-      "category": "其它"
-    },
-    {
       "raw_hot": 808720,
       "num": 808720,
       "word": "王牌对王牌",
@@ -4953,6 +4961,14 @@
       "onboard_time": 1696652024,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 740159,
+      "num": 415449,
+      "word": "鹿晗张艺兴共享衣橱",
+      "onboard_time": 1696943678,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 739898,
@@ -9851,6 +9867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416031,
+      "num": 416031,
+      "word": "ITZY",
+      "onboard_time": 1696941157,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415288,
       "num": 1141375,
       "word": "特警碰掉游客小吃后重新买了一份",
@@ -9873,6 +9897,14 @@
       "onboard_time": 1696764215,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 415006,
+      "num": 415006,
+      "word": "为什么体制内的人很少发朋友圈",
+      "onboard_time": 1696943378,
+      "rank": 14,
+      "category": "其它"
     },
     {
       "raw_hot": 414979,
@@ -10425,14 +10457,6 @@
       "onboard_time": 1696729774,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390718,
-      "num": 390718,
-      "word": "ITZY",
-      "onboard_time": 1696941157,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 390619,
@@ -11243,6 +11267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 363334,
+      "num": 363334,
+      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+      "onboard_time": 1696941936,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 363273,
       "num": 363273,
       "word": "李沁去刘雨昕演唱会",
@@ -11729,6 +11761,14 @@
       "onboard_time": 1696843894,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350614,
+      "num": 350614,
+      "word": "SEVENTEEN获TMA年度艺人",
+      "onboard_time": 1696941877,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350440,
@@ -13683,6 +13723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 297354,
+      "num": 297354,
+      "word": "刘诗雯3比0刘斐",
+      "onboard_time": 1696943618,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297136,
       "num": 297136,
       "word": "马龙的巅峰期为什么会这么长",
@@ -14243,6 +14291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286917,
+      "num": 286917,
+      "word": "戚薇瘦气能不能分我点",
+      "onboard_time": 1696941397,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286873,
       "num": 286873,
       "word": "曾舜晞被撩得耳朵都红了",
@@ -14473,14 +14529,6 @@
       "onboard_time": 1696405717,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283430,
-      "num": 252682,
-      "word": "戚薇瘦气能不能分我点",
-      "onboard_time": 1696941397,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 283228,
@@ -17035,6 +17083,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 242161,
+      "num": 242161,
+      "word": "TMA年度艺人",
+      "onboard_time": 1696942717,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242038,
       "num": 242038,
       "word": "住酒店一定要注意这些地方",
@@ -17425,6 +17481,14 @@
       "onboard_time": 1696637559,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 235564,
+      "num": 235564,
+      "word": "你认为最伤胃的行为是什么",
+      "onboard_time": 1696940136,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 235557,
@@ -19075,6 +19139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213127,
+      "num": 213127,
+      "word": "待播古偶神仙打架",
+      "onboard_time": 1696942717,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212967,
       "num": 212967,
       "word": "欧阳娜娜美拉德穿搭",
@@ -19152,14 +19224,6 @@
       "word": "中短发的神再添一名猛将",
       "onboard_time": 1696552412,
       "rank": 32,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 211208,
-      "num": 211208,
-      "word": "SEVENTEEN获TMA年度艺人",
-      "onboard_time": 1696941877,
-      "rank": 28,
       "category": "作品衍生"
     },
     {
@@ -20043,6 +20107,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 202671,
+      "num": 202671,
+      "word": "罐罐烤奶",
+      "onboard_time": 1696943257,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 202616,
       "num": 202616,
       "word": "双胞胎弟弟扮成天使送姐姐出嫁",
@@ -20457,14 +20529,6 @@
       "onboard_time": 1696560874,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199250,
-      "num": 199250,
-      "word": "你认为最伤胃的行为是什么",
-      "onboard_time": 1696940136,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 198889,
@@ -22379,6 +22443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180400,
+      "num": 180400,
+      "word": "动车卫生间里居然长了眼",
+      "onboard_time": 1696943797,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179934,
       "num": 179934,
       "word": "亚运会闭幕式荷桂交替美哭了",
@@ -23595,6 +23667,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 163477,
+      "num": 163477,
+      "word": "国足半场0比0越南",
+      "onboard_time": 1696942417,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163244,
       "num": 163244,
       "word": "哈利波特为什么是七部的原因",
@@ -24651,6 +24731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147750,
+      "num": 147750,
+      "word": "工作真的在削弱我的文化体力",
+      "onboard_time": 1696942417,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147486,
       "num": 147486,
       "word": "满月女儿惊喜现身惹消防员泪目",
@@ -24769,6 +24857,14 @@
       "onboard_time": 1696856315,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145406,
+      "num": 145406,
+      "word": "哈马斯官员称愿就停火进行讨论",
+      "onboard_time": 1696943978,
+      "rank": 44,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 144722,
@@ -25137,6 +25233,14 @@
       "onboard_time": 1696721127,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139356,
+      "num": 139356,
+      "word": "宁艺卓TMA红毯飞吻",
+      "onboard_time": 1696943316,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139289,

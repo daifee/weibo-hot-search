@@ -1,0 +1,410 @@
+{
+  "runTime": 1696944105038,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3458203,
+        "num": 3458203,
+        "word": "9月新增本土新冠死亡病例45例",
+        "onboard_time": 1696940136,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1463265,
+        "num": 1463265,
+        "word": "晚上十一点之前尽量入睡",
+        "onboard_time": 1696940136,
+        "rank": 1,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 76784,
+        "num": 1209564,
+        "word": "马尔代夫第一座跨海大桥是中国造",
+        "onboard_time": 1696929933,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1069448,
+        "num": 1069448,
+        "word": "删除微信好友能保留聊天记录",
+        "onboard_time": 1696937735,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 791657,
+        "num": 791657,
+        "word": "张小斐新片尺度",
+        "onboard_time": 1696936239,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 542248,
+        "num": 542248,
+        "word": "创5选手撞脸鹿晗关晓彤",
+        "onboard_time": 1696932213,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446169,
+        "num": 446169,
+        "word": "丰田经销商吼客户买十万的车叫什么叫",
+        "onboard_time": 1696938758,
+        "rank": 6,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 495712,
+        "num": 443049,
+        "word": "欧阳娣娣 创5",
+        "onboard_time": 1696931795,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 434587,
+        "num": 434587,
+        "word": "中国公民自愿离开巴以外交部将全力协助",
+        "onboard_time": 1696937439,
+        "rank": 8,
+        "category": "国内要闻,社会新闻"
+      },
+      {
+        "raw_hot": 416031,
+        "num": 416031,
+        "word": "ITZY",
+        "onboard_time": 1696941157,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1389826,
+        "num": 415929,
+        "word": "相亲发生关系男子被控强奸迎反转",
+        "onboard_time": 1696935755,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057356,
+        "num": 415550,
+        "word": "杨幂帽子 济公",
+        "onboard_time": 1696942359,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 740159,
+        "num": 415449,
+        "word": "鹿晗张艺兴共享衣橱",
+        "onboard_time": 1696943678,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 591328,
+        "num": 415209,
+        "word": "北极鲶鱼",
+        "onboard_time": 1696930414,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415006,
+        "num": 415006,
+        "word": "为什么体制内的人很少发朋友圈",
+        "onboard_time": 1696943378,
+        "rank": 14,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 381582,
+        "num": 381582,
+        "word": "王一博无袖黑背心",
+        "onboard_time": 1696941275,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 363334,
+        "num": 363334,
+        "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+        "onboard_time": 1696941936,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 350614,
+        "num": 350614,
+        "word": "SEVENTEEN获TMA年度艺人",
+        "onboard_time": 1696941877,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 336623,
+        "num": 336623,
+        "word": "创5 熟人",
+        "onboard_time": 1696925615,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333571,
+        "num": 333571,
+        "word": "终于搞懂五险一金了",
+        "onboard_time": 1696934438,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 814005,
+        "num": 322463,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297354,
+        "num": 297354,
+        "word": "刘诗雯3比0刘斐",
+        "onboard_time": 1696943618,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 286917,
+        "num": 286917,
+        "word": "戚薇瘦气能不能分我点",
+        "onboard_time": 1696941397,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272297,
+        "num": 272297,
+        "word": "丰田4S店就怒怼客户道歉",
+        "onboard_time": 1696936712,
+        "rank": 23,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 272135,
+        "num": 272135,
+        "word": "17年这天发了真相是假",
+        "onboard_time": 1696934852,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 248362,
+        "num": 248362,
+        "word": "多亏看了黄景瑜的剧",
+        "onboard_time": 1696940378,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242161,
+        "num": 242161,
+        "word": "TMA年度艺人",
+        "onboard_time": 1696942717,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 235564,
+        "num": 235564,
+        "word": "你认为最伤胃的行为是什么",
+        "onboard_time": 1696940136,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233503,
+        "num": 233503,
+        "word": "男子被老同学诈骗51万仍与其结婚",
+        "onboard_time": 1696940556,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225944,
+        "num": 225944,
+        "word": "陈楚生老婆说胡兵心态好年轻",
+        "onboard_time": 1696933534,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221184,
+        "num": 221184,
+        "word": "最走心的婚礼朋友圈邀请",
+        "onboard_time": 1696933056,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213127,
+        "num": 213127,
+        "word": "待播古偶神仙打架",
+        "onboard_time": 1696942717,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206785,
+        "num": 206785,
+        "word": "问心",
+        "onboard_time": 1696942298,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204806,
+        "num": 204806,
+        "word": "新中式馒头为什么没人吃了",
+        "onboard_time": 1696935038,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204197,
+        "num": 204197,
+        "word": "以色列否认卡塔尔就人质问题展开斡旋",
+        "onboard_time": 1696938038,
+        "rank": 34,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 202671,
+        "num": 202671,
+        "word": "罐罐烤奶",
+        "onboard_time": 1696943257,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 180400,
+        "num": 180400,
+        "word": "动车卫生间里居然长了眼",
+        "onboard_time": 1696943797,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179393,
+        "num": 179393,
+        "word": "邓为仙台有树定妆造型路透",
+        "onboard_time": 1696935932,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166303,
+        "num": 166303,
+        "word": "二十届中央第二轮巡视对象公布",
+        "onboard_time": 1696940739,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 163477,
+        "num": 163477,
+        "word": "国足半场0比0越南",
+        "onboard_time": 1696942417,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161463,
+        "num": 161463,
+        "word": "国足vs越南",
+        "onboard_time": 1696934252,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159033,
+        "num": 159033,
+        "word": "以军称发现1500具哈马斯武装人员尸体",
+        "onboard_time": 1696933655,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 158520,
+        "num": 158520,
+        "word": "我国芯片领域获重大突破",
+        "onboard_time": 1696928013,
+        "rank": 42,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 147750,
+        "num": 147750,
+        "word": "工作真的在削弱我的文化体力",
+        "onboard_time": 1696942417,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145406,
+        "num": 145406,
+        "word": "哈马斯官员称愿就停火进行讨论",
+        "onboard_time": 1696943978,
+        "rank": 44,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 139356,
+        "num": 139356,
+        "word": "宁艺卓TMA红毯飞吻",
+        "onboard_time": 1696943316,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 135762,
+        "num": 135762,
+        "word": "官方通报北极鲶鱼事件",
+        "onboard_time": 1696907913,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135333,
+        "num": 135333,
+        "word": "王嘉尔从爱豆到老板",
+        "onboard_time": 1696941816,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128762,
+        "num": 128762,
+        "word": "王楚钦孙颖莎vs刘丁硕王添艺",
+        "onboard_time": 1696937134,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128710,
+        "num": 128710,
+        "word": "每天喝咖啡会导致卵巢囊肿吗",
+        "onboard_time": 1696919915,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系是世界上最重要的双边关系#"
+    }
+  }
+}

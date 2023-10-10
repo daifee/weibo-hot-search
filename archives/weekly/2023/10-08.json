@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696942199343,
+  "endTime": 1696944105038,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -81,6 +81,14 @@
       "onboard_time": 1696903831,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3458203,
+      "num": 3458203,
+      "word": "9月新增本土新冠死亡病例45例",
+      "onboard_time": 1696940136,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3442119,
@@ -371,14 +379,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1835884,
-      "num": 1835884,
-      "word": "9月新增本土新冠死亡病例45例",
-      "onboard_time": 1696940136,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1818661,
       "num": 1773059,
       "word": "闭幕式日本表演",
@@ -545,6 +545,14 @@
       "onboard_time": 1696919794,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1463265,
+      "num": 1463265,
+      "word": "晚上十一点之前尽量入睡",
+      "onboard_time": 1696940136,
+      "rank": 7,
+      "category": "其它"
     },
     {
       "raw_hot": 1455901,
@@ -841,6 +849,14 @@
       "onboard_time": 1696751860,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1057356,
+      "num": 415550,
+      "word": "杨幂帽子 济公",
+      "onboard_time": 1696942359,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1044661,
@@ -1147,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 809201,
-      "num": 809201,
-      "word": "晚上十一点之前尽量入睡",
-      "onboard_time": 1696940136,
-      "rank": 7,
-      "category": "其它"
-    },
-    {
       "raw_hot": 807810,
       "num": 807810,
       "word": "中方就巴以冲突表态",
@@ -1336,6 +1344,14 @@
       "word": "侯明昊 智性恋",
       "onboard_time": 1696836994,
       "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 740159,
+      "num": 415449,
+      "word": "鹿晗张艺兴共享衣橱",
+      "onboard_time": 1696943678,
+      "rank": 12,
       "category": "作品衍生"
     },
     {
@@ -2795,12 +2811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 416031,
+      "num": 416031,
+      "word": "ITZY",
+      "onboard_time": 1696941157,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415071,
       "num": 346636,
       "word": "以色列多城市全面停工",
       "onboard_time": 1696764215,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 415006,
+      "num": 415006,
+      "word": "为什么体制内的人很少发朋友圈",
+      "onboard_time": 1696943378,
+      "rank": 14,
+      "category": "其它"
     },
     {
       "raw_hot": 412972,
@@ -2921,14 +2953,6 @@
       "onboard_time": 1696729774,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390718,
-      "num": 390718,
-      "word": "ITZY",
-      "onboard_time": 1696941157,
-      "rank": 35,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 389460,
@@ -3163,6 +3187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 363334,
+      "num": 363334,
+      "word": "以色列军被指在加沙人口稠密区使用白磷弹",
+      "onboard_time": 1696941936,
+      "rank": 16,
+      "category": "军事"
+    },
+    {
       "raw_hot": 362798,
       "num": 362798,
       "word": "李一桐出演清瞳",
@@ -3281,6 +3313,14 @@
       "onboard_time": 1696843894,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350614,
+      "num": 350614,
+      "word": "SEVENTEEN获TMA年度艺人",
+      "onboard_time": 1696941877,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 350440,
@@ -3883,6 +3923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 297354,
+      "num": 297354,
+      "word": "刘诗雯3比0刘斐",
+      "onboard_time": 1696943618,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 296325,
       "num": 296325,
       "word": "周深戏腔一开口惠英红都坐不住了",
@@ -4027,6 +4075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 286917,
+      "num": 286917,
+      "word": "戚薇瘦气能不能分我点",
+      "onboard_time": 1696941397,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 286873,
       "num": 286873,
       "word": "曾舜晞被撩得耳朵都红了",
@@ -4089,14 +4145,6 @@
       "onboard_time": 1696812817,
       "rank": 27,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 283430,
-      "num": 252682,
-      "word": "戚薇瘦气能不能分我点",
-      "onboard_time": 1696941397,
-      "rank": 21,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 283228,
@@ -4931,6 +4979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242161,
+      "num": 242161,
+      "word": "TMA年度艺人",
+      "onboard_time": 1696942717,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 242067,
       "num": 242067,
       "word": "夜色尚浅",
@@ -5081,6 +5137,14 @@
       "onboard_time": 1696921595,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235564,
+      "num": 235564,
+      "word": "你认为最伤胃的行为是什么",
+      "onboard_time": 1696940136,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 235557,
@@ -5603,6 +5667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213127,
+      "num": 213127,
+      "word": "待播古偶神仙打架",
+      "onboard_time": 1696942717,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212967,
       "num": 212967,
       "word": "欧阳娜娜美拉德穿搭",
@@ -5617,14 +5689,6 @@
       "onboard_time": 1696908454,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 211208,
-      "num": 211208,
-      "word": "SEVENTEEN获TMA年度艺人",
-      "onboard_time": 1696941877,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 211052,
@@ -5955,6 +6019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202671,
+      "num": 202671,
+      "word": "罐罐烤奶",
+      "onboard_time": 1696943257,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 202453,
       "num": 202453,
       "word": "光良一开口我的青春回来了",
@@ -6081,14 +6153,6 @@
       "onboard_time": 1696721306,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 199250,
-      "num": 199250,
-      "word": "你认为最伤胃的行为是什么",
-      "onboard_time": 1696940136,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 198675,
@@ -6667,6 +6731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180400,
+      "num": 180400,
+      "word": "动车卫生间里居然长了眼",
+      "onboard_time": 1696943797,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 179934,
       "num": 179934,
       "word": "亚运会闭幕式荷桂交替美哭了",
@@ -7043,6 +7115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163477,
+      "num": 163477,
+      "word": "国足半场0比0越南",
+      "onboard_time": 1696942417,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163236,
       "num": 599803,
       "word": "谢震业高举五星红旗入场",
@@ -7307,6 +7387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147750,
+      "num": 147750,
+      "word": "工作真的在削弱我的文化体力",
+      "onboard_time": 1696942417,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147459,
       "num": 147459,
       "word": "民警凌晨救下轻生男子后说睡不着了",
@@ -7337,6 +7425,14 @@
       "onboard_time": 1696856315,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145406,
+      "num": 145406,
+      "word": "哈马斯官员称愿就停火进行讨论",
+      "onboard_time": 1696943978,
+      "rank": 44,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 144500,
@@ -7417,6 +7513,14 @@
       "onboard_time": 1696721127,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 139356,
+      "num": 139356,
+      "word": "宁艺卓TMA红毯飞吻",
+      "onboard_time": 1696943316,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 139137,
