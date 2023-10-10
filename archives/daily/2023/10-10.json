@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696936475796,
+  "endTime": 1696937655240,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1643228,
+      "num": 1643228,
+      "word": "张小斐新片尺度",
+      "onboard_time": 1696936239,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1552038,
       "num": 347328,
       "word": "丈夫出轨妻子将小三扒光游街获刑",
@@ -169,6 +177,14 @@
       "onboard_time": 1696898677,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1104764,
+      "num": 239794,
+      "word": "相亲发生关系男子被控强奸迎反转",
+      "onboard_time": 1696935755,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1016869,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 871484,
-      "num": 468642,
+      "num": 649852,
       "word": "终于搞懂五险一金了",
       "onboard_time": 1696934438,
       "rank": 11,
@@ -321,6 +337,14 @@
       "onboard_time": 1696857159,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 755966,
+      "num": 755966,
+      "word": "许昕",
+      "onboard_time": 1696935572,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 753270,
@@ -676,7 +700,7 @@
     },
     {
       "raw_hot": 445064,
-      "num": 228128,
+      "num": 239445,
       "word": "以军称发现1500具哈马斯武装人员尸体",
       "onboard_time": 1696933655,
       "rank": 31,
@@ -787,14 +811,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 385323,
-      "num": 385323,
-      "word": "许昕",
-      "onboard_time": 1696935572,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 385198,
       "num": 285187,
       "word": "广东真的没有穿衣焦虑",
@@ -833,6 +849,14 @@
       "onboard_time": 1696915837,
       "rank": 36,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 378567,
+      "num": 378567,
+      "word": "朱一龙J人本J",
+      "onboard_time": 1696936839,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 376821,
@@ -881,6 +905,14 @@
       "onboard_time": 1696905631,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 369487,
+      "num": 369487,
+      "word": "邓为仙台有树定妆造型路透",
+      "onboard_time": 1696935932,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 350440,
@@ -995,14 +1027,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 314449,
-      "num": 314449,
-      "word": "邓为仙台有树定妆造型路透",
-      "onboard_time": 1696935932,
-      "rank": 21,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 305551,
       "num": 275255,
       "word": "妻子患渐冻症丈夫温情守护16年",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1696858716,
       "rank": 15,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 301506,
+      "num": 301506,
+      "word": "王楚钦孙颖莎vs刘丁硕王添艺",
+      "onboard_time": 1696937134,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 299863,
@@ -1187,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272319,
+      "num": 272319,
+      "word": "新中式馒头为什么没人吃了",
+      "onboard_time": 1696935038,
+      "rank": 28,
+      "category": "美食"
+    },
+    {
       "raw_hot": 271101,
       "num": 271101,
       "word": "李一桐梦女多的原因找到了",
@@ -1236,7 +1276,7 @@
     },
     {
       "raw_hot": 263946,
-      "num": 1239058,
+      "num": 1369896,
       "word": "大熊猫花花迪拜式吃笋",
       "onboard_time": 1696934438,
       "rank": 4,
@@ -1257,14 +1297,6 @@
       "onboard_time": 1696911586,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263154,
-      "num": 228000,
-      "word": "相亲发生关系男子被控强奸迎反转",
-      "onboard_time": 1696935755,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262604,
@@ -1355,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 252664,
-      "num": 252664,
-      "word": "张小斐新片尺度",
-      "onboard_time": 1696936239,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 252583,
       "num": 252583,
       "word": "2023TMA颁奖礼",
@@ -1387,12 +1411,12 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 248215,
-      "num": 248215,
-      "word": "新中式馒头为什么没人吃了",
-      "onboard_time": 1696935038,
-      "rank": 28,
-      "category": "美食"
+      "raw_hot": 245263,
+      "num": 245263,
+      "word": "中国公民自愿离开巴以外交部将全力协助",
+      "onboard_time": 1696937439,
+      "rank": 27,
+      "category": "国内要闻,社会新闻"
     },
     {
       "raw_hot": 244677,
@@ -1433,6 +1457,14 @@
       "onboard_time": 1696899875,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240592,
+      "num": 240592,
+      "word": "丰田4S店就怒怼客户道歉",
+      "onboard_time": 1696936712,
+      "rank": 29,
+      "category": "社会新闻,汽车"
     },
     {
       "raw_hot": 239720,
@@ -1531,6 +1563,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232421,
+      "num": 232421,
+      "word": "徐怀钰致敬李玟",
+      "onboard_time": 1696936173,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 232061,
+      "num": 232061,
+      "word": "S13世界赛首个五杀",
+      "onboard_time": 1696935994,
+      "rank": 34,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231125,
       "num": 231125,
       "word": "中国驻旧金山总领馆暂停对外办公",
@@ -1587,28 +1635,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 223982,
-      "num": 223982,
-      "word": "徐怀钰致敬李玟",
-      "onboard_time": 1696936173,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 223709,
       "num": 223709,
       "word": "美国同意三星和SK海力士向其中国工厂提供设备",
       "onboard_time": 1696849595,
       "rank": 22,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 222314,
-      "num": 222314,
-      "word": "S13世界赛首个五杀",
-      "onboard_time": 1696935994,
-      "rank": 34,
-      "category": "游戏"
     },
     {
       "raw_hot": 218792,
@@ -1691,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207980,
+      "num": 207980,
+      "word": "吴邪你说句话啊",
+      "onboard_time": 1696937075,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 207487,
       "num": 207487,
       "word": "大熊猫香香看起来是只文静小熊",
@@ -1763,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201290,
+      "num": 201290,
+      "word": "上学和上班的苦是不一样的",
+      "onboard_time": 1696934613,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 200964,
       "num": 200964,
       "word": "关晓彤抬眸杀",
@@ -1819,6 +1867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195036,
+      "num": 195036,
+      "word": "邓超偷拍孙俪练拳击",
+      "onboard_time": 1696933895,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 194943,
+      "num": 194943,
+      "word": "打麻将像呼吸一样简单",
+      "onboard_time": 1696936777,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 193987,
       "num": 193987,
       "word": "终于看到先脱鞋再进门的欧美人",
@@ -1843,14 +1907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 193273,
-      "num": 193273,
-      "word": "上学和上班的苦是不一样的",
-      "onboard_time": 1696934613,
-      "rank": 39,
-      "category": "情感"
-    },
-    {
       "raw_hot": 193176,
       "num": 193176,
       "word": "李马克选的kpop梦之队",
@@ -1865,14 +1921,6 @@
       "onboard_time": 1696914400,
       "rank": 47,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 191640,
-      "num": 191640,
-      "word": "邓超偷拍孙俪练拳击",
-      "onboard_time": 1696933895,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 190053,
@@ -2441,6 +2489,14 @@
       "onboard_time": 1696863459,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 97597,
+      "num": 274551,
+      "word": "千万工程为乡村叠了多少buff",
+      "onboard_time": 1696937557,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97068,
