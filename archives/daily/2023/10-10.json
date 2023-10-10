@@ -1,6 +1,6 @@
 {
   "startTime": 1696868523854,
-  "endTime": 1696919009515,
+  "endTime": 1696919791562,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2093961,
-      "num": 239259,
+      "num": 389447,
       "word": "北极鲶鱼的爷爷或不会被起诉判刑",
       "onboard_time": 1696917996,
       "rank": 20,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 1174401,
-      "num": 364900,
+      "num": 371175,
       "word": "台媒曝炎亚纶将改名转运",
       "onboard_time": 1696917455,
       "rank": 10,
@@ -155,20 +155,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 895071,
+      "num": 895071,
+      "word": "创5路透",
+      "onboard_time": 1696917939,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 894782,
       "num": 894782,
       "word": "第一次见女主演男主的嫂嫂",
       "onboard_time": 1696915181,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 860059,
-      "num": 860059,
-      "word": "创5路透",
-      "onboard_time": 1696917939,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 858220,
@@ -403,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 499203,
+      "num": 243746,
+      "word": "4岁失踪女童父亲向水哥求助",
+      "onboard_time": 1696917758,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483413,
       "num": 483413,
       "word": "老头衫的受众其实是女高",
       "onboard_time": 1696901673,
       "rank": 12,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 482592,
+      "num": 482592,
+      "word": "张硕在民政局邀请王睡睡拍合照",
+      "onboard_time": 1696917939,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 482371,
@@ -419,28 +435,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 458807,
-      "num": 238084,
-      "word": "4岁失踪女童父亲向水哥求助",
-      "onboard_time": 1696917758,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454562,
       "num": 430533,
       "word": "以色列炮击黎巴嫩南部地区",
       "onboard_time": 1696866092,
       "rank": 12,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 450263,
-      "num": 364896,
-      "word": "张硕在民政局邀请王睡睡拍合照",
-      "onboard_time": 1696917939,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 449814,
@@ -457,6 +457,14 @@
       "onboard_time": 1696899636,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 446181,
+      "num": 446181,
+      "word": "网传浪姐5将邀请朴彩英",
+      "onboard_time": 1696918656,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 445854,
@@ -708,7 +716,7 @@
     },
     {
       "raw_hot": 299863,
-      "num": 237422,
+      "num": 242842,
       "word": "刘诗雯vs刘斐",
       "onboard_time": 1696917275,
       "rank": 23,
@@ -852,7 +860,7 @@
     },
     {
       "raw_hot": 263754,
-      "num": 236800,
+      "num": 242422,
       "word": "金世佳是满35减15吗",
       "onboard_time": 1696916137,
       "rank": 24,
@@ -889,6 +897,14 @@
       "onboard_time": 1696913624,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 257084,
+      "num": 187476,
+      "word": "狗子每次去厕所前都会通知全家",
+      "onboard_time": 1696919136,
+      "rank": 30,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 255949,
@@ -1043,14 +1059,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 224877,
-      "num": 224877,
-      "word": "网传浪姐5将邀请朴彩英",
-      "onboard_time": 1696918656,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224645,
       "num": 224645,
       "word": "赵露思晒了童年照",
@@ -1121,6 +1129,14 @@
       "onboard_time": 1696866155,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 212641,
+      "num": 187448,
+      "word": "2023TMA颁奖礼",
+      "onboard_time": 1696918895,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211430,
@@ -1267,6 +1283,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190188,
+      "num": 187420,
+      "word": "庆余年二剧组聚餐",
+      "onboard_time": 1696919555,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 190053,
       "num": 190053,
       "word": "田嘉瑞辅导林子烨反被拿捏",
@@ -1355,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175018,
+      "num": 175018,
+      "word": "研究表明远古北欧葬礼是吃掉逝者",
+      "onboard_time": 1696919375,
+      "rank": 35,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 173681,
       "num": 173681,
       "word": "周深谈卡布时期的自己",
@@ -1384,6 +1416,14 @@
       "word": "男子爬山遇满山垃圾半天捡五大袋",
       "onboard_time": 1696899275,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170853,
+      "num": 170853,
+      "word": "1个月接诊1700多名脆皮年轻人",
+      "onboard_time": 1696919316,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1433,6 +1473,14 @@
       "onboard_time": 1696916019,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157171,
+      "num": 157171,
+      "word": "不怕人的丹顶鹤 人工孵化",
+      "onboard_time": 1696919674,
+      "rank": 41,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 153266,
@@ -1521,14 +1569,6 @@
       "onboard_time": 1696901491,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134144,
-      "num": 134144,
-      "word": "2023TMA颁奖礼",
-      "onboard_time": 1696918895,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 131496,
