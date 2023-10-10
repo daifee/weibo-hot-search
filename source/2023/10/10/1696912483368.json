@@ -1,0 +1,410 @@
+{
+  "runTime": 1696912483368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 14529367,
+        "num": 14529367,
+        "word": "官方通报北极鲶鱼事件",
+        "onboard_time": 1696907913,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13794260,
+        "num": 13794260,
+        "word": "北极鲶鱼爷爷被开除党籍",
+        "onboard_time": 1696908214,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101257,
+        "num": 3569667,
+        "word": "用中国传统色打开秋天",
+        "onboard_time": 1696911227,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822591,
+        "num": 822591,
+        "word": "黑龙江一小学食堂6名学生吃2盘菜",
+        "onboard_time": 1696910623,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 810922,
+        "num": 810922,
+        "word": "TFBOYS明天见登十大巅峰单曲",
+        "onboard_time": 1696909180,
+        "rank": 4,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1030747,
+        "num": 810302,
+        "word": "冲闯中国总领馆男子被击毙",
+        "onboard_time": 1696906054,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 785780,
+        "num": 785780,
+        "word": "上海一女子到以色列度假遇战乱",
+        "onboard_time": 1696899157,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 524864,
+        "num": 524864,
+        "word": "武林外传里的女性角色都好正常",
+        "onboard_time": 1696910623,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 497967,
+        "num": 497967,
+        "word": "从体制内离职的人现在怎么样了",
+        "onboard_time": 1696892903,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404832,
+        "num": 404832,
+        "word": "武打演员孟海去世",
+        "onboard_time": 1696902812,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 473528,
+        "num": 402975,
+        "word": "余华 希望一直卖版权一直不拍",
+        "onboard_time": 1696911943,
+        "rank": 10,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 465465,
+        "num": 393509,
+        "word": "老头衫的受众其实是女高",
+        "onboard_time": 1696901673,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 444977,
+        "num": 385826,
+        "word": "陈牧驰高中的照片",
+        "onboard_time": 1696907615,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 426119,
+        "num": 379974,
+        "word": "迪丽热巴成都双子塔地广",
+        "onboard_time": 1696911465,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63395,
+        "num": 376856,
+        "word": "有功夫来郑州",
+        "onboard_time": 1696910443,
+        "rank": 14,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 372401,
+        "num": 372401,
+        "word": "周也恶女妆造",
+        "onboard_time": 1696904790,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357658,
+        "num": 357658,
+        "word": "以色列",
+        "onboard_time": 1696898615,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 322421,
+        "num": 322421,
+        "word": "网传GQ盛典出席明星",
+        "onboard_time": 1696906111,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 322268,
+        "num": 322268,
+        "word": "女子PPT举报前夫婚内出轨博士造假",
+        "onboard_time": 1696861238,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272935,
+        "num": 272935,
+        "word": "湖人战胜篮网",
+        "onboard_time": 1696910144,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 685295,
+        "num": 272071,
+        "word": "23岁长高了5厘米",
+        "onboard_time": 1696900474,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 579366,
+        "num": 271908,
+        "word": "医生提醒洗澡时不要清理肚脐眼",
+        "onboard_time": 1696904733,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 520349,
+        "num": 271017,
+        "word": "两女子违规穿越终身禁入四姑娘山",
+        "onboard_time": 1696908940,
+        "rank": 22,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 482371,
+        "num": 270103,
+        "word": "空心菜吃了会抽筋且致癌吗",
+        "onboard_time": 1696911284,
+        "rank": 23,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 409795,
+        "num": 268391,
+        "word": "男子将亲生儿子以3万元卖掉",
+        "onboard_time": 1696904491,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339042,
+        "num": 267768,
+        "word": "i人真的适合当大学老师",
+        "onboard_time": 1696912064,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322343,
+        "num": 267317,
+        "word": "因为一杯十块钱的奶茶吵架了",
+        "onboard_time": 1696898558,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304921,
+        "num": 266435,
+        "word": "广东真的没有穿衣焦虑",
+        "onboard_time": 1696911943,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 265565,
+        "num": 265565,
+        "word": "谭松韵新片演闫妮吴京女儿",
+        "onboard_time": 1696905209,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264200,
+        "num": 264200,
+        "word": "女子冒充男人与闺蜜恋爱",
+        "onboard_time": 1696910024,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263783,
+        "num": 263783,
+        "word": "杨鸣担任辽宁益胜总裁兼总教练",
+        "onboard_time": 1696907134,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 263485,
+        "num": 263485,
+        "word": "任敏清纯感",
+        "onboard_time": 1696911586,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259950,
+        "num": 259950,
+        "word": "陈奕迅成都演唱会连开6场",
+        "onboard_time": 1696905631,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257220,
+        "num": 257220,
+        "word": "跟我妈说研究生综测最后一名时",
+        "onboard_time": 1696906294,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253032,
+        "num": 253032,
+        "word": "黎巴嫩真主党袭击以军军营",
+        "onboard_time": 1696906532,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 250122,
+        "num": 250122,
+        "word": "毛不易的微博真的很治愈",
+        "onboard_time": 1696907432,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236844,
+        "num": 236844,
+        "word": "王楚钦孙颖莎顶峰相见",
+        "onboard_time": 1696905274,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234531,
+        "num": 234531,
+        "word": "C罗希望参加2026世界杯后退役",
+        "onboard_time": 1696910922,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234321,
+        "num": 234321,
+        "word": "竟然从范丞丞的脸上看到了疲惫",
+        "onboard_time": 1696909303,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233764,
+        "num": 233764,
+        "word": "广西街头10元能买70个火龙果",
+        "onboard_time": 1696910623,
+        "rank": 39,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 229883,
+        "num": 229883,
+        "word": "我是我们班唯一交学费的人",
+        "onboard_time": 1696901851,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217643,
+        "num": 217643,
+        "word": "张小斐新片在黑化边缘反复试探",
+        "onboard_time": 1696907673,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207656,
+        "num": 207656,
+        "word": "库克回应每年iPhone几乎没太大升级",
+        "onboard_time": 1696899636,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201283,
+        "num": 201283,
+        "word": "婚礼的17.5万都花在了哪里",
+        "onboard_time": 1696896932,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199270,
+        "num": 199270,
+        "word": "哪吒2要来了",
+        "onboard_time": 1696895071,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199060,
+        "num": 199060,
+        "word": "美国正加速向以色列提供武器弹药",
+        "onboard_time": 1696907375,
+        "rank": 45,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 197524,
+        "num": 197524,
+        "word": "广州队主力球员月薪仅1万5",
+        "onboard_time": 1696906473,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187862,
+        "num": 187862,
+        "word": "抑郁症早期4个危险信号",
+        "onboard_time": 1696899032,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182563,
+        "num": 182563,
+        "word": "Angelababy喂范丞丞吃葡萄主打避嫌",
+        "onboard_time": 1696858056,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173589,
+        "num": 173589,
+        "word": "路人看到迪丽热巴真人的评价",
+        "onboard_time": 1696912366,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美关系是世界上最重要的双边关系#"
+    }
+  }
+}

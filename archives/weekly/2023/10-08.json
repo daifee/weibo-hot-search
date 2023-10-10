@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696911612902,
+  "endTime": 1696912483368,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13785547,
-      "num": 13785547,
+      "raw_hot": 13794260,
+      "num": 13794260,
       "word": "北极鲶鱼爷爷被开除党籍",
       "onboard_time": 1696908214,
       "rank": 1,
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 858220,
-      "num": 754457,
+      "num": 785780,
       "word": "上海一女子到以色列度假遇战乱",
       "onboard_time": 1696899157,
       "rank": 22,
@@ -905,6 +905,14 @@
       "onboard_time": 1696854515,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 822591,
+      "num": 822591,
+      "word": "黑龙江一小学食堂6名学生吃2盘菜",
+      "onboard_time": 1696910623,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822132,
@@ -937,6 +945,14 @@
       "onboard_time": 1696747472,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 810922,
+      "num": 810922,
+      "word": "TFBOYS明天见登十大巅峰单曲",
+      "onboard_time": 1696909180,
+      "rank": 3,
+      "category": "音乐"
     },
     {
       "raw_hot": 807810,
@@ -1065,14 +1081,6 @@
       "onboard_time": 1696821219,
       "rank": 18,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 757540,
-      "num": 757540,
-      "word": "TFBOYS明天见登十大巅峰单曲",
-      "onboard_time": 1696909180,
-      "rank": 3,
-      "category": "音乐"
     },
     {
       "raw_hot": 755696,
@@ -1747,6 +1755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 524864,
+      "num": 524864,
+      "word": "武林外传里的女性角色都好正常",
+      "onboard_time": 1696910623,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 524412,
       "num": 524412,
       "word": "于适坐到车上衬衫被撑爆了",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1696841733,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 520349,
+      "num": 292932,
+      "word": "两女子违规穿越终身禁入四姑娘山",
+      "onboard_time": 1696908940,
+      "rank": 22,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 520018,
@@ -1955,6 +1979,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 482371,
+      "num": 289846,
+      "word": "空心菜吃了会抽筋且致癌吗",
+      "onboard_time": 1696911284,
+      "rank": 24,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 481469,
       "num": 437255,
       "word": "沈腾金晨演的夫妻",
@@ -2003,14 +2035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476605,
-      "num": 396271,
-      "word": "黑龙江一小学食堂6名学生吃2盘菜",
-      "onboard_time": 1696910623,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 475085,
       "num": 475085,
       "word": "丞磊痛失艺名",
@@ -2025,6 +2049,14 @@
       "onboard_time": 1696809695,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473528,
+      "num": 402975,
+      "word": "余华 希望一直卖版权一直不拍",
+      "onboard_time": 1696911943,
+      "rank": 10,
+      "category": "读书作家"
     },
     {
       "raw_hot": 472447,
@@ -2065,14 +2097,6 @@
       "onboard_time": 1696845759,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 469023,
-      "num": 292932,
-      "word": "两女子违规穿越终身禁入四姑娘山",
-      "onboard_time": 1696908940,
-      "rank": 22,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 467393,
@@ -2307,12 +2331,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 425264,
-      "num": 425264,
-      "word": "武林外传里的女性角色都好正常",
-      "onboard_time": 1696910623,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 426119,
+      "num": 379974,
+      "word": "迪丽热巴成都双子塔地广",
+      "onboard_time": 1696911465,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 421771,
@@ -2604,7 +2628,7 @@
     },
     {
       "raw_hot": 375569,
-      "num": 261468,
+      "num": 265565,
       "word": "谭松韵新片演闫妮吴京女儿",
       "onboard_time": 1696905209,
       "rank": 41,
@@ -2867,6 +2891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339042,
+      "num": 267768,
+      "word": "i人真的适合当大学老师",
+      "onboard_time": 1696912064,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 338703,
       "num": 338703,
       "word": "哈马斯",
@@ -2985,14 +3017,6 @@
       "onboard_time": 1696725276,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329658,
-      "num": 289846,
-      "word": "空心菜吃了会抽筋且致癌吗",
-      "onboard_time": 1696911284,
-      "rank": 24,
-      "category": "知识科普"
     },
     {
       "raw_hot": 328505,
@@ -3193,6 +3217,14 @@
       "onboard_time": 1696811197,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304921,
+      "num": 266435,
+      "word": "广东真的没有穿衣焦虑",
+      "onboard_time": 1696911943,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 304571,
@@ -3715,12 +3747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 264200,
+      "num": 264200,
+      "word": "女子冒充男人与闺蜜恋爱",
+      "onboard_time": 1696910024,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263544,
       "num": 263544,
       "word": "河边的错误",
       "onboard_time": 1696731871,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 263485,
+      "num": 263485,
+      "word": "任敏清纯感",
+      "onboard_time": 1696911586,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 263289,
@@ -3849,14 +3897,6 @@
       "onboard_time": 1696676920,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255577,
-      "num": 255577,
-      "word": "迪丽热巴成都双子塔地广",
-      "onboard_time": 1696911465,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 255490,
@@ -4267,12 +4307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233780,
-      "num": 233780,
-      "word": "女子冒充男人与闺蜜恋爱",
-      "onboard_time": 1696910024,
-      "rank": 36,
-      "category": "社会新闻"
+      "raw_hot": 234321,
+      "num": 234321,
+      "word": "竟然从范丞丞的脸上看到了疲惫",
+      "onboard_time": 1696909303,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 233580,
@@ -4721,14 +4761,6 @@
       "onboard_time": 1696729294,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 210187,
-      "num": 210187,
-      "word": "竟然从范丞丞的脸上看到了疲惫",
-      "onboard_time": 1696909303,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 210121,
@@ -5611,6 +5643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173589,
+      "num": 173589,
+      "word": "路人看到迪丽热巴真人的评价",
+      "onboard_time": 1696912366,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173432,
       "num": 173432,
       "word": "原神4.1",
@@ -5785,14 +5825,6 @@
       "onboard_time": 1696897837,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165835,
-      "num": 165835,
-      "word": "任敏清纯感",
-      "onboard_time": 1696911586,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 165237,
@@ -6451,6 +6483,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 101257,
+      "num": 4316004,
+      "word": "用中国传统色打开秋天",
+      "onboard_time": 1696911227,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100821,
       "num": 100821,
       "word": "国羽4金3银2铜收官",
@@ -6747,6 +6787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 63395,
+      "num": 376856,
+      "word": "有功夫来郑州",
+      "onboard_time": 1696910443,
+      "rank": 14,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 59257,
       "num": 3505104,
       "word": "心心相融爱达未来",
@@ -6859,14 +6907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47972,
-      "num": 355289,
-      "word": "有功夫来郑州",
-      "onboard_time": 1696910443,
-      "rank": 14,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 47233,
       "num": 204490,
       "word": "一场二十年的长跑",
@@ -6913,14 +6953,6 @@
       "onboard_time": 1696734036,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37802,
-      "num": 4316004,
-      "word": "用中国传统色打开秋天",
-      "onboard_time": 1696911227,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 36831,
