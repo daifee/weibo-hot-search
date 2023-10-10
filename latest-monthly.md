@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/10 22:35:19
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/10 23:18:34
 </p>
 </blockquote>
 <p>
@@ -653,6 +653,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%9725%E5%B2%81%E5%A5%B3%E5%AD%A6%E7%94%9F%E9%9F%B3%E4%B9%90%E8%8A%82%E4%B8%8A%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E6%8E%B3%E8%B5%B0%23" target="weibo">
 以色列25岁女学生音乐节上被哈马斯掳走（热度：2131648）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%8C%97%E7%90%86%E5%B7%A5%E9%A3%9F%E5%A0%82%E8%A2%AB%E6%9B%9D%E5%90%83%E5%87%BA%E9%BC%A0%E5%A4%B4%23" target="weibo">
+华北理工食堂被曝吃出鼠头（热度：2125796）
 </a>
 </li>
 
@@ -2223,6 +2229,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%BF%90%E5%8A%A8%E4%BC%9A%E8%A1%A8%E6%BC%94%E5%88%BA%E6%9D%80%E5%AE%89%E5%80%8D%23" target="weibo">
+网传一中学运动会表演刺杀安倍（热度：1098180）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%9F%E5%BC%9F%E7%BB%93%E5%A9%9A%E8%91%A3%E5%AE%87%E8%BE%89%E5%9B%9E%E5%AE%B6%E5%B8%AE%E5%BF%99%E6%88%90%E7%A2%8D%E7%9C%BC%E5%8C%85%23" target="weibo">
 弟弟结婚董宇辉回家帮忙成碍眼包（热度：1097808）
 </a>
@@ -3305,6 +3317,12 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E6%98%8E%E5%A4%A9%E8%A7%81%E7%99%BB%E5%8D%81%E5%A4%A7%E5%B7%85%E5%B3%B0%E5%8D%95%E6%9B%B2%23" target="weibo">
 TFBOYS明天见登十大巅峰单曲（热度：810922）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232024%E6%98%A5%E8%8A%82%E4%BC%917%E4%B8%8A8%23" target="weibo">
+2024春节休7上8（热度：810171）
 </a>
 </li>
 
@@ -4815,6 +4833,12 @@ Jennie将发新歌（热度：642409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%97%B6%E5%80%99%E5%90%83%E7%9A%84%E5%8F%B0%E6%B9%BE%E6%97%A0%E9%AA%A8%E9%B8%A1%E6%9F%B3%E5%8E%BB%E5%93%AA%E4%BA%86%23" target="weibo">
+小时候吃的台湾无骨鸡柳去哪了（热度：619116）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E6%8C%A4%E4%B8%8D%E4%B8%8A%E8%BD%A6%E8%A2%AB%E6%BB%9E%E7%95%99%E7%AB%99%E5%8F%B0%23" target="weibo">
 12306回应乘客挤不上车被滞留站台（热度：618665）
 </a>
@@ -5987,30 +6011,6 @@ i人真的适合当大学老师（热度：521364）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E5%8F%91%E7%8E%B01.4%E5%85%AC%E6%96%A4%E9%87%8D%E5%A4%A7%E9%B8%A1%E6%9E%9E%23" target="weibo">
 云南发现1.4公斤重大鸡枞（热度：512000）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E6%80%8E%E4%B9%88%E8%BA%BA%E5%9C%A8Windows%E6%A1%8C%E9%9D%A2%E5%95%8A%23" target="weibo">
-她怎么躺在Windows桌面啊（热度：511885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E5%87%BA%E5%8F%91%E5%BD%95%E5%88%B6%E8%BF%99%E5%B0%B1%E6%98%AF%E8%A1%97%E8%88%9E%23" target="weibo">
-丁程鑫出发录制这就是街舞（热度：511614）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%B5%E6%9B%BE%E4%BB%A3%E8%A1%A8%E4%B8%AD%E5%9B%BD%E8%B5%9B%E8%89%87%E9%98%9F%E6%8B%BF%E4%BA%86%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%83%23" target="weibo">
-胡兵曾代表中国赛艇队拿了世界第七（热度：511104）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%9F%E8%AE%A1%E7%A7%B0%E6%B3%B0%E5%9B%BD%E8%B6%85%E8%BF%871030%E4%B8%87%E5%90%8D%E5%B9%B3%E6%B0%91%E6%8C%81%E6%9C%89%E6%9E%AA%E6%94%AF%23" target="weibo">
-统计称泰国超过1030万名平民持有枪支（热度：510080）
 </a>
 </li>
 
