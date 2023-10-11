@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697028589753,
+  "endTime": 1697030566419,
   "band_list": [
     {
       "raw_hot": 5557870,
@@ -9,6 +9,22 @@
       "onboard_time": 1697010096,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 3408888,
+      "num": 362274,
+      "word": "武汉大学",
+      "onboard_time": 1697027075,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3174572,
+      "num": 1730055,
+      "word": "武大男生在图书馆实施性骚扰",
+      "onboard_time": 1697027494,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3059017,
@@ -49,14 +65,6 @@
       "onboard_time": 1697023235,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 2423357,
-      "num": 362274,
-      "word": "武汉大学",
-      "onboard_time": 1697027075,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2373079,
@@ -123,14 +131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1730055,
-      "num": 1730055,
-      "word": "武大男生在图书馆实施性骚扰",
-      "onboard_time": 1697027494,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1724661,
       "num": 1724661,
       "word": "晚上十一点之前尽量入睡",
@@ -179,20 +179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1478828,
+      "num": 1478828,
+      "word": "敬贵妃 她私下就是烟酒都来啊",
+      "onboard_time": 1697025275,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1459310,
       "num": 1459310,
       "word": "iPhone被曝夜间自动关机",
       "onboard_time": 1696989813,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1454680,
-      "num": 1454680,
-      "word": "敬贵妃 她私下就是烟酒都来啊",
-      "onboard_time": 1697025275,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1438643,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 743148,
+      "num": 282319,
+      "word": "北京政法职业学院霸凌女生疑亮相宣传片",
+      "onboard_time": 1697027315,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 707323,
       "num": 707323,
       "word": "在新加坡对护士爆粗口被调查",
@@ -473,6 +481,14 @@
       "onboard_time": 1697003133,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643189,
+      "num": 248905,
+      "word": "原来公积金是这样用的",
+      "onboard_time": 1697027797,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 640841,
@@ -651,20 +667,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 520076,
+      "num": 520076,
+      "word": "潜水员韩颋被找到",
+      "onboard_time": 1697025933,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 513906,
       "num": 430310,
       "word": "北极鲶鱼哪来的安全感",
       "onboard_time": 1697012135,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 511109,
-      "num": 202556,
-      "word": "原来公积金是这样用的",
-      "onboard_time": 1697027797,
-      "rank": 30,
-      "category": "知识科普"
     },
     {
       "raw_hot": 503594,
@@ -907,14 +923,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 390956,
-      "num": 340199,
-      "word": "潜水员韩颋被找到",
-      "onboard_time": 1697025933,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 388790,
       "num": 334744,
       "word": "穿旗袍的刘亦菲 古色古香的瓷器",
@@ -955,6 +963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 373752,
+      "num": 373752,
+      "word": "王嘉尔金发丸子头造型",
+      "onboard_time": 1697026051,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 368096,
       "num": 272336,
       "word": "Jennie有自己的手麦了",
@@ -977,14 +993,6 @@
       "onboard_time": 1696952735,
       "rank": 9,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 365612,
-      "num": 365612,
-      "word": "王嘉尔金发丸子头造型",
-      "onboard_time": 1697026051,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 364833,
@@ -1177,6 +1185,14 @@
       "onboard_time": 1697016814,
       "rank": 36,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 319867,
+      "num": 319867,
+      "word": "白鹿抵达昆明录制跑男",
+      "onboard_time": 1697028936,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 315040,
@@ -1387,6 +1403,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 272568,
+      "num": 272568,
+      "word": "叶舒华上海签售会生图",
+      "onboard_time": 1697029236,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 272295,
       "num": 272295,
       "word": "微信好友1000个什么水平",
@@ -1489,14 +1513,6 @@
       "onboard_time": 1697001873,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255999,
-      "num": 255999,
-      "word": "北京政法职业学院霸凌女生疑亮相宣传片",
-      "onboard_time": 1697027315,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255943,
@@ -1627,6 +1643,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 238052,
+      "num": 238052,
+      "word": "莲花楼 无痛背单词",
+      "onboard_time": 1697027196,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 236822,
+      "num": 236822,
+      "word": "俞敏洪想上价值 余秀华躺地上不起来",
+      "onboard_time": 1697028215,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 236528,
       "num": 236528,
       "word": "男子拾金不昧被免一年物业费",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1696999542,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230760,
+      "num": 230760,
+      "word": "刘聪演唱会官宣",
+      "onboard_time": 1697029778,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 228938,
@@ -1713,14 +1753,6 @@
       "onboard_time": 1697007815,
       "rank": 28,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 224713,
-      "num": 224713,
-      "word": "莲花楼 无痛背单词",
-      "onboard_time": 1697027196,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 222552,
@@ -2035,14 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189353,
-      "num": 189353,
-      "word": "俞敏洪想上价值 余秀华躺地上不起来",
-      "onboard_time": 1697028215,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 189212,
       "num": 189212,
       "word": "斗破苍穹萧炎美杜莎撒狗粮",
@@ -2185,6 +2209,14 @@
       "onboard_time": 1697003854,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 182254,
+      "num": 182254,
+      "word": "刘维给薛之谦打几分主要看粉丝",
+      "onboard_time": 1697030137,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 182183,
@@ -2339,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169857,
+      "num": 169857,
+      "word": "复旦退休教授讲座时抽烟遭投诉",
+      "onboard_time": 1697029896,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169853,
       "num": 169853,
       "word": "花月杀手",
@@ -2363,6 +2403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 166135,
+      "num": 166135,
+      "word": "陈家平主用皮带止血",
+      "onboard_time": 1697030434,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165632,
       "num": 165632,
       "word": "小时候看居然没觉得哪里不对",
@@ -2376,6 +2424,14 @@
       "word": "虞书欣永夜星河粉衣路透",
       "onboard_time": 1696985739,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163320,
+      "num": 163320,
+      "word": "左双桃陈家平真情侣假情深",
+      "onboard_time": 1697030315,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -2595,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142561,
+      "num": 142561,
+      "word": "王曼昱3比0吴洋晨",
+      "onboard_time": 1697030434,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142077,
       "num": 142077,
       "word": "张元英美式女高造型",
@@ -2729,6 +2793,14 @@
       "onboard_time": 1696946439,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122464,
+      "num": 122464,
+      "word": "孝女冒雨为母洗脚",
+      "onboard_time": 1697030377,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 118330,
