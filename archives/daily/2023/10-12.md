@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/12 00:22:00 ~ 2023/10/12 03:33:58
+本榜单时间：2023/10/12 00:22:00 ~ 2023/10/12 04:18:16
 </p>
 </blockquote>
 <p>
@@ -327,6 +327,12 @@ gidle上海线下签售会（热度：78274）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%93%88%E8%90%A8%E5%85%8B%E5%85%AC%E4%B8%BB%23" target="weibo">
+颖儿哈萨克公主（热度：70889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%90%91%E6%80%A7%E6%A0%BC%E7%9A%84%E5%8A%9B%E9%87%8F%23" target="weibo">
 内向性格的力量（热度：62004）
 </a>
@@ -351,20 +357,20 @@ gidle上海线下签售会（热度：78274）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%93%88%E8%90%A8%E5%85%8B%E5%85%AC%E4%B8%BB%23" target="weibo">
-颖儿哈萨克公主（热度：28233）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E4%BD%BF%E7%94%A8%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%BF%99%E7%93%9C%E4%BF%9D%E7%86%9F%E5%90%97%E8%A2%AB%E5%91%8A%23" target="weibo">
+游戏使用孙红雷这瓜保熟吗被告（热度：35702）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%AC%AC%E4%B8%80%E9%9B%86%E5%B0%B1%E4%B8%80%E8%B5%B7%E8%A2%AB%E6%8A%93%E5%95%8A%23" target="weibo">
-谁家男女主第一集就一起被抓啊（热度：20129）
+谁家男女主第一集就一起被抓啊（热度：21228）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E4%BD%BF%E7%94%A8%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%BF%99%E7%93%9C%E4%BF%9D%E7%86%9F%E5%90%97%E8%A2%AB%E5%91%8A%23" target="weibo">
-游戏使用孙红雷这瓜保熟吗被告（热度：19891）
+<a href="https://s.weibo.com/weibo?q=%23SNH48%20Number%20One%23" target="weibo">
+SNH48 Number One（热度：12546）
 </a>
 </li>
 

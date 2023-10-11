@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697052838922,
+  "endTime": 1697055496366,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -11427,6 +11427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70889,
+      "num": 45231,
+      "word": "颖儿哈萨克公主",
+      "onboard_time": 1697052373,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 70860,
       "num": 1231726,
       "word": "杭州亚运的50个珍贵瞬间",
@@ -11763,6 +11771,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 35702,
+      "num": 39566,
+      "word": "游戏使用孙红雷这瓜保熟吗被告",
+      "onboard_time": 1697052195,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33948,
       "num": 33948,
       "word": "近5年时间记录100种花开瞬间",
@@ -11819,14 +11835,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28233,
-      "num": 45231,
-      "word": "颖儿哈萨克公主",
-      "onboard_time": 1697052373,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 27168,
       "num": 28766,
       "word": "朱一龙新片演刑警",
@@ -11875,20 +11883,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 20129,
+      "raw_hot": 21228,
       "num": 39577,
       "word": "谁家男女主第一集就一起被抓啊",
       "onboard_time": 1697051954,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 19891,
-      "num": 39566,
-      "word": "游戏使用孙红雷这瓜保熟吗被告",
-      "onboard_time": 1697052195,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 19014,
@@ -11953,6 +11953,14 @@
       "onboard_time": 1696709893,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12546,
+      "num": 37185,
+      "word": "SNH48 Number One",
+      "onboard_time": 1697054474,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 11861,

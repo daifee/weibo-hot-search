@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697052838922,
+  "endTime": 1697055496366,
   "band_list": [
     {
       "raw_hot": 1637823,
@@ -419,6 +419,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 70889,
+      "num": 45231,
+      "word": "颖儿哈萨克公主",
+      "onboard_time": 1697052373,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62004,
       "num": 67164,
       "word": "内向性格的力量",
@@ -451,15 +459,15 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 28233,
-      "num": 45231,
-      "word": "颖儿哈萨克公主",
-      "onboard_time": 1697052373,
-      "rank": 17,
-      "category": "艺人"
+      "raw_hot": 35702,
+      "num": 39566,
+      "word": "游戏使用孙红雷这瓜保熟吗被告",
+      "onboard_time": 1697052195,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 20129,
+      "raw_hot": 21228,
       "num": 39577,
       "word": "谁家男女主第一集就一起被抓啊",
       "onboard_time": 1697051954,
@@ -467,12 +475,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 19891,
-      "num": 39566,
-      "word": "游戏使用孙红雷这瓜保熟吗被告",
-      "onboard_time": 1697052195,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 12546,
+      "num": 37185,
+      "word": "SNH48 Number One",
+      "onboard_time": 1697054474,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 10376,

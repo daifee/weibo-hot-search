@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/12 03:33:58
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/12 04:18:16
 </p>
 </blockquote>
 <p>
@@ -8583,6 +8583,12 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%93%88%E8%90%A8%E5%85%8B%E5%85%AC%E4%B8%BB%23" target="weibo">
+颖儿哈萨克公主（热度：70889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%9A%8450%E4%B8%AA%E7%8F%8D%E8%B4%B5%E7%9E%AC%E9%97%B4%23" target="weibo">
 杭州亚运的50个珍贵瞬间（热度：70860）
 </a>
@@ -8835,6 +8841,12 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E4%BD%BF%E7%94%A8%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%BF%99%E7%93%9C%E4%BF%9D%E7%86%9F%E5%90%97%E8%A2%AB%E5%91%8A%23" target="weibo">
+游戏使用孙红雷这瓜保熟吗被告（热度：35702）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%915%E5%B9%B4%E6%97%B6%E9%97%B4%E8%AE%B0%E5%BD%95100%E7%A7%8D%E8%8A%B1%E5%BC%80%E7%9E%AC%E9%97%B4%23" target="weibo">
 近5年时间记录100种花开瞬间（热度：33948）
 </a>
@@ -8877,12 +8889,6 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E5%93%88%E8%90%A8%E5%85%8B%E5%85%AC%E4%B8%BB%23" target="weibo">
-颖儿哈萨克公主（热度：28233）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E6%96%B0%E7%89%87%E6%BC%94%E5%88%91%E8%AD%A6%23" target="weibo">
 朱一龙新片演刑警（热度：27168）
 </a>
@@ -8920,13 +8926,7 @@ aespa将11月10日回归（热度：89406）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E5%AE%B6%E7%94%B7%E5%A5%B3%E4%B8%BB%E7%AC%AC%E4%B8%80%E9%9B%86%E5%B0%B1%E4%B8%80%E8%B5%B7%E8%A2%AB%E6%8A%93%E5%95%8A%23" target="weibo">
-谁家男女主第一集就一起被抓啊（热度：20129）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%B8%E6%88%8F%E4%BD%BF%E7%94%A8%E5%AD%99%E7%BA%A2%E9%9B%B7%E8%BF%99%E7%93%9C%E4%BF%9D%E7%86%9F%E5%90%97%E8%A2%AB%E5%91%8A%23" target="weibo">
-游戏使用孙红雷这瓜保熟吗被告（热度：19891）
+谁家男女主第一集就一起被抓啊（热度：21228）
 </a>
 </li>
 
@@ -8975,6 +8975,12 @@ kpop组合专辑总销量TOP9（热度：19014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BE%BD%E6%AF%9B%E7%90%83%23" target="weibo">
 亚运会羽毛球（热度：13026）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23SNH48%20Number%20One%23" target="weibo">
+SNH48 Number One（热度：12546）
 </a>
 </li>
 
