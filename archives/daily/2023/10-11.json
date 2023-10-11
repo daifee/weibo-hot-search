@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697001362004,
+  "endTime": 1697002440690,
   "band_list": [
     {
       "raw_hot": 3059017,
@@ -75,20 +75,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1855160,
+      "num": 1855160,
+      "word": "作者七月新番去世",
+      "onboard_time": 1696999060,
+      "rank": 1,
+      "category": "社会新闻,读书作家"
+    },
+    {
       "raw_hot": 1724661,
       "num": 1724661,
       "word": "晚上十一点之前尽量入睡",
       "onboard_time": 1696940136,
       "rank": 0,
       "category": "其它"
-    },
-    {
-      "raw_hot": 1712305,
-      "num": 1712305,
-      "word": "作者七月新番去世",
-      "onboard_time": 1696999060,
-      "rank": 1,
-      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 1658795,
@@ -155,7 +155,7 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 976818,
+      "raw_hot": 1010811,
       "num": 586273,
       "word": "95后女模特为男友增肥69斤后被抛弃",
       "onboard_time": 1696997859,
@@ -347,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 536783,
+      "num": 230962,
+      "word": "老婆怀不上问题竟出在老公的工作上",
+      "onboard_time": 1697001161,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529908,
       "num": 529908,
       "word": "男子买50克金条打成镯子送爱妻",
@@ -393,6 +401,14 @@
       "onboard_time": 1696999306,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 496954,
+      "num": 496954,
+      "word": "1个怀的是娃1个怀的是宠爱",
+      "onboard_time": 1696999720,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 480484,
@@ -449,14 +465,6 @@
       "onboard_time": 1696951538,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 415887,
-      "num": 415887,
-      "word": "1个怀的是娃1个怀的是宠爱",
-      "onboard_time": 1696999720,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407929,
@@ -587,6 +595,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 331464,
+      "num": 331464,
+      "word": "秦霄贤在周扬青面前横不了一点",
+      "onboard_time": 1697001161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 327334,
       "num": 327334,
       "word": "欧盟称以色列的一些决定违反国际法",
@@ -681,6 +697,14 @@
       "onboard_time": 1696949803,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 294737,
+      "num": 294737,
+      "word": "Mate60系列供应商涨价",
+      "onboard_time": 1697000800,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 294418,
@@ -787,12 +811,20 @@
       "category": "幽默,剧集"
     },
     {
-      "raw_hot": 256994,
-      "num": 256994,
-      "word": "Mate60系列供应商涨价",
-      "onboard_time": 1697000800,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 257783,
+      "num": 257783,
+      "word": "张远质疑陆虎理解陆虎成为陆虎",
+      "onboard_time": 1697001873,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 255032,
+      "num": 255032,
+      "word": "傅首尔想刀人的眼神藏不住了",
+      "onboard_time": 1697001873,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 252454,
@@ -864,14 +896,6 @@
       "word": "鼠的身子去哪了",
       "onboard_time": 1696999542,
       "rank": 32,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 230962,
-      "num": 230962,
-      "word": "老婆怀不上问题竟出在老公的工作上",
-      "onboard_time": 1697001161,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1035,19 +1059,19 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 199519,
+      "num": 223419,
+      "word": "医护紧急爬山2300米救下心梗游客",
+      "onboard_time": 1697002174,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198965,
       "num": 198965,
       "word": "我恋5男嘉宾自认为和清华女霸总很配",
       "onboard_time": 1697000619,
       "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198567,
-      "num": 198567,
-      "word": "秦霄贤在周扬青面前横不了一点",
-      "onboard_time": 1697001161,
-      "rank": 37,
       "category": "综艺"
     },
     {
@@ -1073,6 +1097,14 @@
       "onboard_time": 1697000381,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190530,
+      "num": 190530,
+      "word": "夫妻偷生姜民警找到时已腌成几缸咸菜",
+      "onboard_time": 1697000619,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187253,
@@ -1139,8 +1171,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176311,
+      "num": 176311,
+      "word": "星穹铁道1.4",
+      "onboard_time": 1697001935,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 175606,
+      "num": 175606,
+      "word": "电梯故障却见证孩子们之间的友谊",
+      "onboard_time": 1697002114,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174854,
-      "num": 509881,
+      "num": 539050,
       "word": "刘宪华的热爱如金",
       "onboard_time": 1697000141,
       "rank": 13,
@@ -1177,14 +1225,6 @@
       "onboard_time": 1696949200,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167947,
-      "num": 167947,
-      "word": "夫妻偷生姜民警找到时已腌成几缸咸菜",
-      "onboard_time": 1697000619,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165632,
@@ -1257,6 +1297,14 @@
       "onboard_time": 1696999660,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146414,
+      "num": 146414,
+      "word": "巴以冲突升级",
+      "onboard_time": 1697002416,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 142077,
