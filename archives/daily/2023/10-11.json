@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697005430280,
+  "endTime": 1697006227573,
   "band_list": [
     {
       "raw_hot": 3059017,
@@ -83,6 +83,14 @@
       "category": "社会新闻,读书作家"
     },
     {
+      "raw_hot": 1839945,
+      "num": 1839945,
+      "word": "碧桂园",
+      "onboard_time": 1697003195,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1724661,
       "num": 1724661,
       "word": "晚上十一点之前尽量入睡",
@@ -105,14 +113,6 @@
       "onboard_time": 1696980449,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1496216,
-      "num": 1496216,
-      "word": "碧桂园",
-      "onboard_time": 1697003195,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1459310,
@@ -219,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 760774,
-      "num": 760774,
+      "raw_hot": 780202,
+      "num": 780202,
       "word": "女研究生养猫反向将自己关进笼子",
       "onboard_time": 1697002355,
       "rank": 4,
@@ -315,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 605396,
+      "num": 506362,
+      "word": "被哈马斯绑架的中以混血女孩父母发声",
+      "onboard_time": 1697002477,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 598221,
       "num": 598221,
       "word": "seventeen",
@@ -369,14 +377,6 @@
       "onboard_time": 1696981172,
       "rank": 7,
       "category": "情感"
-    },
-    {
-      "raw_hot": 544884,
-      "num": 506362,
-      "word": "被哈马斯绑架的中以混血女孩父母发声",
-      "onboard_time": 1697002477,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 537572,
@@ -451,19 +451,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 494335,
+      "num": 494335,
+      "word": "碧桂园服务总裁李长江辞职",
+      "onboard_time": 1697003496,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480484,
       "num": 542611,
       "word": "何明树李兵李荣强同志被评定为烈士",
       "onboard_time": 1696981412,
       "rank": 9,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 479019,
-      "num": 479019,
-      "word": "碧桂园服务总裁李长江辞职",
-      "onboard_time": 1697003496,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -513,6 +513,14 @@
       "onboard_time": 1696951538,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 413883,
+      "num": 413883,
+      "word": "中国网民叫新加坡坡县引发争议",
+      "onboard_time": 1697003133,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407929,
@@ -635,14 +643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 344346,
-      "num": 344346,
-      "word": "中国网民叫新加坡坡县引发争议",
-      "onboard_time": 1697003133,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 339099,
       "num": 339099,
       "word": "卢靖姗呼吁职场人关注隐形慢病",
@@ -689,6 +689,22 @@
       "onboard_time": 1696950941,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320768,
+      "num": 320768,
+      "word": "男子离开编制后父母觉得天塌了",
+      "onboard_time": 1697005113,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 317985,
+      "num": 317985,
+      "word": "A股",
+      "onboard_time": 1697005774,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 311947,
@@ -1091,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206768,
+      "num": 206768,
+      "word": "十个勤天拍给独居女孩的短片",
+      "onboard_time": 1697005594,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206171,
       "num": 206171,
       "word": "创5马丽亚曾做过冬奥引导员",
@@ -1243,6 +1267,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 183693,
+      "num": 183693,
+      "word": "关晓彤晒开机照",
+      "onboard_time": 1697005956,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182624,
       "num": 182624,
       "word": "星穹铁道",
@@ -1347,14 +1379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 166231,
-      "num": 166231,
-      "word": "男子离开编制后父母觉得天塌了",
-      "onboard_time": 1697005113,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165632,
       "num": 165632,
       "word": "小时候看居然没觉得哪里不对",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1696991433,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157704,
+      "num": 157704,
+      "word": "冀州到朝歌 侯雯元骑车5个半小时",
+      "onboard_time": 1697005894,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 157342,
@@ -1707,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41419,
+      "num": 1464251,
+      "word": "行走黄河 遇见幸福",
+      "onboard_time": 1697004695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33948,
       "num": 33948,
       "word": "近5年时间记录100种花开瞬间",
@@ -1715,12 +1755,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 31978,
-      "num": 1464251,
-      "word": "行走黄河 遇见幸福",
-      "onboard_time": 1697004695,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 28713,
+      "num": 430163,
+      "word": "影像年中的快乐事儿",
+      "onboard_time": 1697004034,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 28195,
@@ -1729,14 +1769,6 @@
       "onboard_time": 1696942298,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 18757,
-      "num": 430163,
-      "word": "影像年中的快乐事儿",
-      "onboard_time": 1697004034,
-      "rank": 14,
-      "category": "情感"
     },
     {
       "raw_hot": 14965,
