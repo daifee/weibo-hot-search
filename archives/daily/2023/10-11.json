@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697034994214,
+  "endTime": 1697037477023,
   "band_list": [
     {
       "raw_hot": 5557870,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 944632,
-      "num": 501131,
+      "num": 522188,
       "word": "联合国9名人员在以色列空袭中丧生",
       "onboard_time": 1697031998,
       "rank": 5,
@@ -353,6 +353,14 @@
       "onboard_time": 1696993595,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 838815,
+      "num": 838815,
+      "word": "螃蟹把最好吃的部分进化掉了",
+      "onboard_time": 1697035001,
+      "rank": 1,
+      "category": "美食,知识科普"
     },
     {
       "raw_hot": 829544,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 648643,
-      "num": 514791,
+      "num": 518853,
       "word": "肖战无羁录音室新花絮",
       "onboard_time": 1697032598,
       "rank": 4,
@@ -641,6 +649,14 @@
       "onboard_time": 1696984359,
       "rank": 14,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 568362,
+      "num": 291497,
+      "word": "补气血真的很重要",
+      "onboard_time": 1697034580,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 565347,
@@ -843,6 +859,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 456110,
+      "num": 456110,
+      "word": "倚天屠龙记里的大美人",
+      "onboard_time": 1697033317,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 454112,
       "num": 454112,
       "word": "原来微信可以锁屏录音",
@@ -865,6 +889,14 @@
       "onboard_time": 1696993055,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 447708,
+      "num": 325972,
+      "word": "白鹿丞磊 朝雪录",
+      "onboard_time": 1697036617,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 444829,
@@ -939,6 +971,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 399586,
+      "num": 336418,
+      "word": "刘雅瑟扒出柳姐包里装发胶",
+      "onboard_time": 1697033979,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 399291,
       "num": 399291,
       "word": "频繁发朋友圈被说是显眼包",
@@ -969,14 +1009,6 @@
       "onboard_time": 1696989755,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 390040,
-      "num": 390040,
-      "word": "倚天屠龙记里的大美人",
-      "onboard_time": 1697033317,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 388790,
@@ -1033,6 +1065,14 @@
       "onboard_time": 1697026051,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 368111,
+      "num": 289937,
+      "word": "为什么有人喜欢把手机语言改成英文",
+      "onboard_time": 1697035299,
+      "rank": 25,
+      "category": "其它"
     },
     {
       "raw_hot": 368096,
@@ -1187,6 +1227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 345207,
+      "num": 314851,
+      "word": "杨紫尼龙大片",
+      "onboard_time": 1697034459,
+      "rank": 28,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 342231,
       "num": 342231,
       "word": "福州震感",
@@ -1201,14 +1249,6 @@
       "onboard_time": 1696998399,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 336418,
-      "num": 336418,
-      "word": "刘雅瑟扒出柳姐包里装发胶",
-      "onboard_time": 1697033979,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 335161,
@@ -1305,6 +1345,14 @@
       "onboard_time": 1697007274,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 312288,
+      "num": 312288,
+      "word": "姜典撞脸Doinb",
+      "onboard_time": 1697035897,
+      "rank": 17,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 311947,
@@ -1441,6 +1489,14 @@
       "onboard_time": 1696991012,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 289537,
+      "num": 289537,
+      "word": "原来婚礼主持才是最不确定性因素",
+      "onboard_time": 1697034398,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 287217,
@@ -1611,20 +1667,20 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 263562,
+      "num": 263562,
+      "word": "青藏高原发现异形菊石化石",
+      "onboard_time": 1697035299,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260387,
       "num": 260387,
       "word": "在KTV背单词也太爽了",
       "onboard_time": 1697018499,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 259444,
-      "num": 259444,
-      "word": "杨紫尼龙大片",
-      "onboard_time": 1697034459,
-      "rank": 28,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 257783,
@@ -1747,14 +1803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 241375,
-      "num": 241375,
-      "word": "补气血真的很重要",
-      "onboard_time": 1697034580,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 239384,
       "num": 239384,
       "word": "宫崎骏红猪定档",
@@ -1811,14 +1859,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 231602,
-      "num": 231602,
-      "word": "原来婚礼主持才是最不确定性因素",
-      "onboard_time": 1697034398,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 228938,
       "num": 228938,
       "word": "周恺跪地庆祝",
@@ -1849,6 +1889,14 @@
       "onboard_time": 1696991612,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226968,
+      "num": 226968,
+      "word": "很适合一个人住的梦中情房",
+      "onboard_time": 1697034580,
+      "rank": 42,
+      "category": "其它"
     },
     {
       "raw_hot": 226771,
@@ -1907,6 +1955,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 221371,
+      "num": 221371,
+      "word": "李泳知跳Get A Guitar",
+      "onboard_time": 1697035836,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 219389,
       "num": 219389,
       "word": "行李箱发现了妈妈剥好的柚子",
@@ -1961,6 +2017,14 @@
       "onboard_time": 1696940136,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212002,
+      "num": 212002,
+      "word": "灯光是蓝绿红橙的 凯子心情是黑色的",
+      "onboard_time": 1697028516,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 210382,
@@ -2241,14 +2305,6 @@
       "onboard_time": 1697012436,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189083,
-      "num": 189083,
-      "word": "灯光是蓝绿红橙的 凯子心情是黑色的",
-      "onboard_time": 1697028516,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 188287,
@@ -2555,14 +2611,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 167596,
-      "num": 167596,
-      "word": "很适合一个人住的梦中情房",
-      "onboard_time": 1697034580,
-      "rank": 42,
-      "category": "其它"
-    },
-    {
       "raw_hot": 166417,
       "num": 166417,
       "word": "汇金公司增持农业银行",
@@ -2787,6 +2835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 146756,
+      "num": 146756,
+      "word": "男子开车落水一群村民飞奔营救",
+      "onboard_time": 1697037158,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145806,
       "num": 145806,
       "word": "成都科幻馆夜晚的音乐喷泉太美了",
@@ -2961,6 +3017,14 @@
       "onboard_time": 1697027135,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 126540,
+      "num": 126540,
+      "word": "许嵩乌鸦氛围感",
+      "onboard_time": 1697037337,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 124918,
