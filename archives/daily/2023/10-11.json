@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696995259336,
+  "endTime": 1696998009090,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2153359,
+      "num": 2153359,
+      "word": "王牌8官宣阵容",
+      "onboard_time": 1696992631,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2125341,
       "num": 2125341,
       "word": "女生经期不建议吃的六种水果",
@@ -43,20 +51,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 2007633,
-      "num": 2007633,
-      "word": "王牌8官宣阵容",
-      "onboard_time": 1696992631,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1996649,
       "num": 1996649,
       "word": "社保卡一定要记得激活",
       "onboard_time": 1696984240,
       "rank": 4,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1935404,
+      "num": 571755,
+      "word": "一生不被允许gap的中国人",
+      "onboard_time": 1696993297,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 1724661,
@@ -107,12 +115,28 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 945346,
-      "num": 571755,
-      "word": "一生不被允许gap的中国人",
-      "onboard_time": 1696993297,
-      "rank": 11,
-      "category": "情感"
+      "raw_hot": 1115423,
+      "num": 1115423,
+      "word": "每坐1小时平均寿命缩短22分钟",
+      "onboard_time": 1696987357,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 1072200,
+      "num": 1072200,
+      "word": "酒店床上布条的作用",
+      "onboard_time": 1696995876,
+      "rank": 5,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 917001,
+      "num": 481583,
+      "word": "张钧甯阮经天 16年前16年后",
+      "onboard_time": 1696996657,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 910856,
@@ -147,20 +171,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 815073,
+      "num": 815073,
+      "word": "范丞丞关晓彤二搭演兄妹",
+      "onboard_time": 1696994976,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 813780,
       "num": 813780,
       "word": "网传一中学运动会表演刺杀安倍",
       "onboard_time": 1696949621,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 798776,
-      "num": 798776,
-      "word": "范丞丞关晓彤二搭演兄妹",
-      "onboard_time": 1696994976,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 743556,
@@ -195,14 +219,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 660817,
-      "num": 352755,
-      "word": "每坐1小时平均寿命缩短22分钟",
-      "onboard_time": 1696987357,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 660732,
       "num": 660732,
       "word": "男子创业7次成功后劝年轻人别创业",
@@ -225,6 +241,14 @@
       "onboard_time": 1696914702,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614833,
+      "num": 475514,
+      "word": "唐香玉 宝宝碗",
+      "onboard_time": 1696996718,
+      "rank": 13,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 613689,
@@ -312,6 +336,22 @@
       "word": "何明树李兵李荣强同志被评定为烈士",
       "onboard_time": 1696981412,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 474221,
+      "num": 474221,
+      "word": "肖战用画笔勾勒梦想",
+      "onboard_time": 1696995876,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 467906,
+      "num": 467906,
+      "word": "班主任花6小时为全班学生炸鸡腿",
+      "onboard_time": 1696996836,
+      "rank": 15,
       "category": "社会新闻"
     },
     {
@@ -403,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366406,
+      "num": 366406,
+      "word": "高校食堂疑吃出鼠头店家曾称是牛肉",
+      "onboard_time": 1696997076,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365848,
       "num": 365848,
       "word": "巴以冲突已致近1700人死亡",
@@ -467,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311831,
+      "num": 311831,
+      "word": "孟宴臣出圈名场面",
+      "onboard_time": 1696995757,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 311482,
       "num": 311482,
       "word": "市监局回应高校食堂吃到疑似鼠头",
@@ -523,6 +579,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294227,
+      "num": 294227,
+      "word": "天津大爷跳水完胜菲律宾",
+      "onboard_time": 1696995156,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293769,
       "num": 293769,
       "word": "家人嫌我买的多巴胺公园凳丑",
@@ -563,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274504,
+      "num": 274504,
+      "word": "社保缴满15年后能坐等退休吗",
+      "onboard_time": 1696997499,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273056,
       "num": 273056,
       "word": "疑似seventeen新专剧透",
@@ -593,6 +665,14 @@
       "onboard_time": 1696989036,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253965,
+      "num": 253965,
+      "word": "大龄剩女的思维是错的",
+      "onboard_time": 1696997560,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 252454,
@@ -649,6 +729,14 @@
       "onboard_time": 1696931795,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 237381,
+      "num": 237381,
+      "word": "白人点中餐惊掉我下巴",
+      "onboard_time": 1696997435,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 235649,
@@ -715,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216308,
+      "num": 216308,
+      "word": "秋天的红腹锦鸡美成了火凤凰",
+      "onboard_time": 1696997375,
+      "rank": 33,
+      "category": "社会新闻,自然"
+    },
+    {
       "raw_hot": 213456,
       "num": 213456,
       "word": "妈妈爱小狗但妈妈更爱我",
@@ -755,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207591,
+      "num": 207591,
+      "word": "95后女模特为男友增肥69斤后被抛弃",
+      "onboard_time": 1696997859,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206171,
       "num": 206171,
       "word": "创5马丽亚曾做过冬奥引导员",
@@ -785,6 +889,14 @@
       "onboard_time": 1696991854,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 203942,
+      "num": 418652,
+      "word": "无痛分娩的普及到底难在哪",
+      "onboard_time": 1696994315,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201774,
@@ -849,6 +961,14 @@
       "onboard_time": 1696992755,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183828,
+      "num": 183828,
+      "word": "唐嫣粉红少女裙",
+      "onboard_time": 1696996477,
+      "rank": 39,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 182624,
@@ -923,6 +1043,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158391,
+      "num": 158391,
+      "word": "科学家称人类可能生活在计算机模型中",
+      "onboard_time": 1696997920,
+      "rank": 45,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 157342,
+      "num": 157342,
+      "word": "钟汉良 为真相还一束正义的光",
+      "onboard_time": 1696996535,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156754,
       "num": 156754,
       "word": "肖战杭州亚运圆梦时刻",
@@ -945,14 +1081,6 @@
       "onboard_time": 1696978884,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151193,
-      "num": 151193,
-      "word": "天津大爷跳水完胜菲律宾",
-      "onboard_time": 1696995156,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 142077,
@@ -1116,7 +1244,7 @@
     },
     {
       "raw_hot": 107170,
-      "num": 150725,
+      "num": 486656,
       "word": "崩铁镜流上线",
       "onboard_time": 1696995103,
       "rank": 45,
@@ -1153,14 +1281,6 @@
       "onboard_time": 1696980449,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 74934,
-      "num": 418652,
-      "word": "无痛分娩的普及到底难在哪",
-      "onboard_time": 1696994315,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 69767,

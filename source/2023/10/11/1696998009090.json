@@ -1,0 +1,410 @@
+{
+  "runTime": 1696998009090,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2153359,
+        "num": 2153359,
+        "word": "王牌8官宣阵容",
+        "onboard_time": 1696992631,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1416736,
+        "num": 1416736,
+        "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+        "onboard_time": 1696992098,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61242,
+        "num": 1183780,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1141052,
+        "num": 1141052,
+        "word": "iPhone被曝夜间自动关机",
+        "onboard_time": 1696989813,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1115423,
+        "num": 1115423,
+        "word": "每坐1小时平均寿命缩短22分钟",
+        "onboard_time": 1696987357,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1072200,
+        "num": 1072200,
+        "word": "酒店床上布条的作用",
+        "onboard_time": 1696995876,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 903812,
+        "num": 903812,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 6,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 815073,
+        "num": 815073,
+        "word": "范丞丞关晓彤二搭演兄妹",
+        "onboard_time": 1696994976,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 673789,
+        "num": 673789,
+        "word": "王牌8没贾玲",
+        "onboard_time": 1696993595,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 489964,
+        "num": 489964,
+        "word": "国考",
+        "onboard_time": 1696992333,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 59188,
+        "num": 486656,
+        "word": "崩铁镜流上线",
+        "onboard_time": 1696995103,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1935404,
+        "num": 485617,
+        "word": "一生不被允许gap的中国人",
+        "onboard_time": 1696993297,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 917001,
+        "num": 481583,
+        "word": "张钧甯阮经天 16年前16年后",
+        "onboard_time": 1696996657,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 614833,
+        "num": 475514,
+        "word": "唐香玉 宝宝碗",
+        "onboard_time": 1696996718,
+        "rank": 13,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 474221,
+        "num": 474221,
+        "word": "肖战用画笔勾勒梦想",
+        "onboard_time": 1696995876,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467906,
+        "num": 467906,
+        "word": "班主任花6小时为全班学生炸鸡腿",
+        "onboard_time": 1696996836,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430490,
+        "num": 430490,
+        "word": "在新加坡对护士爆粗口被调查",
+        "onboard_time": 1696989872,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430043,
+        "num": 430043,
+        "word": "朴灿烈 抢票",
+        "onboard_time": 1696994134,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 421369,
+        "num": 421369,
+        "word": "网友看部剧救了自己的命",
+        "onboard_time": 1696987237,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366406,
+        "num": 366406,
+        "word": "高校食堂疑吃出鼠头店家曾称是牛肉",
+        "onboard_time": 1696997076,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361663,
+        "num": 361663,
+        "word": "关晓彤爆王牌对王牌游戏内幕",
+        "onboard_time": 1696985378,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351353,
+        "num": 351353,
+        "word": "新冠",
+        "onboard_time": 1696945299,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328646,
+        "num": 328646,
+        "word": "撒贝宁的原名",
+        "onboard_time": 1696980449,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 311831,
+        "num": 311831,
+        "word": "孟宴臣出圈名场面",
+        "onboard_time": 1696995757,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297525,
+        "num": 297525,
+        "word": "市监局回应高校食堂吃到疑似鼠头",
+        "onboard_time": 1696994737,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294227,
+        "num": 294227,
+        "word": "天津大爷跳水完胜菲律宾",
+        "onboard_time": 1696995156,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274504,
+        "num": 274504,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253965,
+        "num": 253965,
+        "word": "大龄剩女的思维是错的",
+        "onboard_time": 1696997560,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 250399,
+        "num": 250399,
+        "word": "联合国宣布调查巴以冲突中的战争罪行",
+        "onboard_time": 1696989572,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 237434,
+        "num": 237434,
+        "word": "莎头 连轴转",
+        "onboard_time": 1696993055,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237381,
+        "num": 237381,
+        "word": "白人点中餐惊掉我下巴",
+        "onboard_time": 1696997435,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249074,
+        "num": 236272,
+        "word": "以色列正准备在加沙开展数月地面攻势",
+        "onboard_time": 1696993595,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 216721,
+        "num": 216721,
+        "word": "朴炯植瘦回颜巅了",
+        "onboard_time": 1696987654,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 216308,
+        "num": 216308,
+        "word": "秋天的红腹锦鸡美成了火凤凰",
+        "onboard_time": 1696997375,
+        "rank": 33,
+        "category": "社会新闻,自然"
+      },
+      {
+        "raw_hot": 214956,
+        "num": 214956,
+        "word": "秋天是养头发的最好时机",
+        "onboard_time": 1696988252,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 207591,
+        "num": 207591,
+        "word": "95后女模特为男友增肥69斤后被抛弃",
+        "onboard_time": 1696997859,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704533,
+        "num": 207510,
+        "word": "官方回应北极鲶鱼爷爷处罚过轻质疑",
+        "onboard_time": 1696983702,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869451,
+        "num": 206682,
+        "word": "北极鲶鱼的恨国论也该严查",
+        "onboard_time": 1696986276,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203942,
+        "num": 203942,
+        "word": "无痛分娩的普及到底难在哪",
+        "onboard_time": 1696994315,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183828,
+        "num": 183828,
+        "word": "唐嫣粉红少女裙",
+        "onboard_time": 1696996477,
+        "rank": 39,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 183631,
+        "num": 183631,
+        "word": "马斯克写信威胁海王2留下艾梅柏",
+        "onboard_time": 1696991612,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171933,
+        "num": 171933,
+        "word": "iPhone平均寿命将达8年",
+        "onboard_time": 1696985678,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 171081,
+        "num": 171081,
+        "word": "老乡鸡 卡了",
+        "onboard_time": 1696991854,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168483,
+        "num": 168483,
+        "word": "夸克占用了我900多G的内存",
+        "onboard_time": 1696980629,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 164521,
+        "num": 164521,
+        "word": "景甜不敢和父母乱发牢骚",
+        "onboard_time": 1696991612,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158391,
+        "num": 158391,
+        "word": "科学家称人类可能生活在计算机模型中",
+        "onboard_time": 1696997920,
+        "rank": 45,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 157342,
+        "num": 157342,
+        "word": "钟汉良 为真相还一束正义的光",
+        "onboard_time": 1696996535,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154913,
+        "num": 154913,
+        "word": "妈妈爱小狗但妈妈更爱我",
+        "onboard_time": 1696991854,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153721,
+        "num": 153721,
+        "word": "恋5窒息男嘉宾被狠狠拿捏",
+        "onboard_time": 1696990897,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151408,
+        "num": 151408,
+        "word": "aespa人鱼公主风造型",
+        "onboard_time": 1696991854,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路白皮书#"
+    }
+  }
+}
