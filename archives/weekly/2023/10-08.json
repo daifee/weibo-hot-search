@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697020602846,
+  "endTime": 1697022883666,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -689,6 +689,14 @@
       "onboard_time": 1697013819,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 1537729,
+      "num": 1537729,
+      "word": "罗翔谈PPT曝光渣男渣女",
+      "onboard_time": 1697018858,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1493014,
@@ -1403,14 +1411,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 849819,
-      "num": 849819,
-      "word": "罗翔谈PPT曝光渣男渣女",
-      "onboard_time": 1697018858,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 844430,
       "num": 844430,
       "word": "奚梦瑶晒何猷君的半永久队服皮肤",
@@ -1721,6 +1721,14 @@
       "onboard_time": 1696745015,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 744588,
+      "num": 744588,
+      "word": "台湾地震",
+      "onboard_time": 1697021375,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 743877,
@@ -2379,6 +2387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 580573,
+      "num": 580573,
+      "word": "周冬雨黑色长裙从肩露到腰",
+      "onboard_time": 1697021435,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 578734,
       "num": 530409,
       "word": "北极鲶鱼究竟是什么鱼",
@@ -2756,7 +2772,7 @@
     },
     {
       "raw_hot": 513906,
-      "num": 403363,
+      "num": 430310,
       "word": "北极鲶鱼哪来的安全感",
       "onboard_time": 1697012135,
       "rank": 21,
@@ -3395,6 +3411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 445593,
+      "num": 261281,
+      "word": "25岁了还要瞒着爸妈吃辣条",
+      "onboard_time": 1697022334,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 445064,
       "num": 239445,
       "word": "以军称发现1500具哈马斯武装人员尸体",
@@ -3441,6 +3465,14 @@
       "onboard_time": 1696894228,
       "rank": 36,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 433338,
+      "num": 433338,
+      "word": "JINI回应退出NMIXX的原因",
+      "onboard_time": 1697017596,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 432716,
@@ -3609,6 +3641,14 @@
       "onboard_time": 1696770158,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 408606,
+      "num": 408606,
+      "word": "时代少年团LV快闪造型",
+      "onboard_time": 1697020597,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 407929,
@@ -4243,6 +4283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 354381,
+      "num": 257101,
+      "word": "何炅 关于懂你这件事的分寸感",
+      "onboard_time": 1697020774,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 353136,
       "num": 346281,
       "word": "田嘉瑞不愧是山东尖子生",
@@ -4387,6 +4435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342231,
+      "num": 342231,
+      "word": "福州震感",
+      "onboard_time": 1697021736,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339099,
       "num": 339099,
       "word": "卢靖姗呼吁职场人关注隐形慢病",
@@ -4409,6 +4465,14 @@
       "onboard_time": 1696759953,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 338321,
+      "num": 807938,
+      "word": "网友塞尔维亚街头遇中国警察巡逻",
+      "onboard_time": 1697022096,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 338245,
@@ -4667,6 +4731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321754,
+      "num": 250181,
+      "word": "完美头骨",
+      "onboard_time": 1697021974,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 320691,
+      "num": 1731169,
+      "word": "双眼皮的大熊猫有多可爱",
+      "onboard_time": 1697016814,
+      "rank": 36,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 320454,
       "num": 320454,
       "word": "于文文 相亲失败的同事不要急",
@@ -4891,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 304618,
+      "num": 248375,
+      "word": "老人卖花生错过车女顾客让老公送回家",
+      "onboard_time": 1697022213,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 304571,
       "num": 304571,
       "word": "乔帅希望CBA时长改为40分钟",
@@ -4905,14 +4993,6 @@
       "onboard_time": 1696993415,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304415,
-      "num": 1731169,
-      "word": "双眼皮的大熊猫有多可爱",
-      "onboard_time": 1697016814,
-      "rank": 36,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 304376,
@@ -5496,6 +5576,14 @@
       "word": "蝴蝶停在了梅德韦杰夫的网球上",
       "onboard_time": 1696913624,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273336,
+      "num": 326917,
+      "word": "女篮为何这么强",
+      "onboard_time": 1697018915,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -6467,6 +6555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240806,
+      "num": 240806,
+      "word": "神隐开播时间",
+      "onboard_time": 1697022213,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240283,
       "num": 240283,
       "word": "湖人vs勇士",
@@ -6489,6 +6585,14 @@
       "onboard_time": 1696926213,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 239140,
+      "num": 239140,
+      "word": "莲藕蒸肉蛋",
+      "onboard_time": 1697021375,
+      "rank": 27,
+      "category": "美食"
     },
     {
       "raw_hot": 238892,
@@ -8123,6 +8227,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 190998,
+      "num": 190998,
+      "word": "飞机清洁袋的正确用法",
+      "onboard_time": 1697021855,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 190957,
       "num": 190957,
       "word": "以色列中国留学生男友临时入伍",
@@ -8369,6 +8481,14 @@
       "onboard_time": 1696821698,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186450,
+      "num": 186450,
+      "word": "原来林俊杰还拍过偶像剧",
+      "onboard_time": 1697022695,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 186073,
@@ -9283,6 +9403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160323,
+      "num": 160323,
+      "word": "脆皮大学生",
+      "onboard_time": 1697022633,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160222,
       "num": 160222,
       "word": "秋天第一杯冰糖雪梨是老师给的",
@@ -9361,6 +9489,14 @@
       "onboard_time": 1696764756,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158738,
+      "num": 158738,
+      "word": "S13全球总决赛入围赛",
+      "onboard_time": 1697020234,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 158656,
@@ -9555,14 +9691,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152731,
-      "num": 326917,
-      "word": "女篮为何这么强",
-      "onboard_time": 1697018915,
-      "rank": 31,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152192,
       "num": 152192,
       "word": "凡人修仙传墨彩环",
@@ -9689,14 +9817,6 @@
       "onboard_time": 1697006555,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144666,
-      "num": 144666,
-      "word": "S13全球总决赛入围赛",
-      "onboard_time": 1697020234,
-      "rank": 49,
-      "category": "游戏"
     },
     {
       "raw_hot": 144500,

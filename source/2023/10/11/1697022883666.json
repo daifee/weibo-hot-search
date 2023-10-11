@@ -1,0 +1,410 @@
+{
+  "runTime": 1697022883666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1760992,
+        "num": 1760992,
+        "word": "网友曝刘暖曦在视频号直播带货",
+        "onboard_time": 1697016693,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320691,
+        "num": 1614816,
+        "word": "双眼皮的大熊猫有多可爱",
+        "onboard_time": 1697016814,
+        "rank": 1,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 13578,
+        "num": 1558003,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1537729,
+        "num": 1537729,
+        "word": "罗翔谈PPT曝光渣男渣女",
+        "onboard_time": 1697018858,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338321,
+        "num": 807938,
+        "word": "网友塞尔维亚街头遇中国警察巡逻",
+        "onboard_time": 1697022096,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 800663,
+        "num": 800663,
+        "word": "以色列议员呼吁使用末日武器",
+        "onboard_time": 1697017776,
+        "rank": 5,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 155184,
+        "num": 768711,
+        "word": "面馆老板为亚运一线工作者免费送2000碗面",
+        "onboard_time": 1697018734,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 744588,
+        "num": 744588,
+        "word": "台湾地震",
+        "onboard_time": 1697021375,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704648,
+        "num": 704648,
+        "word": "贾玲缺席王牌8的原因",
+        "onboard_time": 1697014834,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 746123,
+        "num": 663147,
+        "word": "成蕾被驱逐出境",
+        "onboard_time": 1697010096,
+        "rank": 9,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 617751,
+        "num": 617751,
+        "word": "老天奶我求你了 girls help girls",
+        "onboard_time": 1697015915,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 580573,
+        "num": 580573,
+        "word": "周冬雨黑色长裙从肩露到腰",
+        "onboard_time": 1697021435,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 433338,
+        "num": 433338,
+        "word": "JINI回应退出NMIXX的原因",
+        "onboard_time": 1697017596,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430310,
+        "num": 430310,
+        "word": "北极鲶鱼哪来的安全感",
+        "onboard_time": 1697012135,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408606,
+        "num": 408606,
+        "word": "时代少年团LV快闪造型",
+        "onboard_time": 1697020597,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 342231,
+        "num": 342231,
+        "word": "福州震感",
+        "onboard_time": 1697021736,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339007,
+        "num": 339007,
+        "word": "中国马术队巴黎奥运会参赛资格被取消",
+        "onboard_time": 1697011956,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313580,
+        "num": 313580,
+        "word": "胡彦斌讲着讲着失控了",
+        "onboard_time": 1697017596,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294858,
+        "num": 294858,
+        "word": "迪丽热巴冰晶小橘子",
+        "onboard_time": 1697017478,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267849,
+        "num": 267849,
+        "word": "男子离开编制后父母觉得天塌了",
+        "onboard_time": 1697005113,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454302,
+        "num": 264029,
+        "word": "吴昕父母敲了4次门在门外待了6个小时",
+        "onboard_time": 1697011415,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445593,
+        "num": 261281,
+        "word": "25岁了还要瞒着爸妈吃辣条",
+        "onboard_time": 1697022334,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 354381,
+        "num": 257101,
+        "word": "何炅 关于懂你这件事的分寸感",
+        "onboard_time": 1697020774,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321754,
+        "num": 250181,
+        "word": "完美头骨",
+        "onboard_time": 1697021974,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 304618,
+        "num": 248375,
+        "word": "老人卖花生错过车女顾客让老公送回家",
+        "onboard_time": 1697022213,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279956,
+        "num": 244947,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240806,
+        "num": 240806,
+        "word": "神隐开播时间",
+        "onboard_time": 1697022213,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239140,
+        "num": 239140,
+        "word": "莲藕蒸肉蛋",
+        "onboard_time": 1697021375,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 227277,
+        "num": 227277,
+        "word": "结婚后为什么开销这么大",
+        "onboard_time": 1697016336,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201468,
+        "num": 201468,
+        "word": "女儿获国奖父亲苦恼发不了朋友圈",
+        "onboard_time": 1697011235,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195981,
+        "num": 195981,
+        "word": "优衣库涨薪",
+        "onboard_time": 1697014417,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 190998,
+        "num": 190998,
+        "word": "飞机清洁袋的正确用法",
+        "onboard_time": 1697021855,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 186450,
+        "num": 186450,
+        "word": "原来林俊杰还拍过偶像剧",
+        "onboard_time": 1697022695,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182788,
+        "num": 182788,
+        "word": "华天不会被禁赛",
+        "onboard_time": 1697018259,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181158,
+        "num": 181158,
+        "word": "巴以冲突升级",
+        "onboard_time": 1697002416,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 177860,
+        "num": 177860,
+        "word": "奔跑吧生态篇即将开录",
+        "onboard_time": 1697017596,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172065,
+        "num": 172065,
+        "word": "原来微信可以锁屏录音",
+        "onboard_time": 1697011174,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 170084,
+        "num": 170084,
+        "word": "宋亚轩跳gento",
+        "onboard_time": 1697017534,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160323,
+        "num": 160323,
+        "word": "脆皮大学生",
+        "onboard_time": 1697022633,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158995,
+        "num": 158995,
+        "word": "一份面包怎么敢卖两份钱",
+        "onboard_time": 1697018379,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158738,
+        "num": 158738,
+        "word": "S13全球总决赛入围赛",
+        "onboard_time": 1697020234,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158176,
+        "num": 158176,
+        "word": "投资人爆料韩寒因餐厅亏损上亿",
+        "onboard_time": 1697006673,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155657,
+        "num": 155657,
+        "word": "Jennie有自己的手麦了",
+        "onboard_time": 1697015978,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150777,
+        "num": 150777,
+        "word": "大乔新皮肤",
+        "onboard_time": 1697010814,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142304,
+        "num": 142304,
+        "word": "盘锦巨响",
+        "onboard_time": 1697020475,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273336,
+        "num": 141805,
+        "word": "女篮为何这么强",
+        "onboard_time": 1697018915,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140209,
+        "num": 140209,
+        "word": "海底捞回应顾客用锅底煮中药",
+        "onboard_time": 1697009312,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139427,
+        "num": 139427,
+        "word": "KBS年末舞台官宣",
+        "onboard_time": 1697019756,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139087,
+        "num": 139087,
+        "word": "200年前有钱人的豪宅",
+        "onboard_time": 1697014897,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 137501,
+        "num": 137501,
+        "word": "0713像你这样的朋友",
+        "onboard_time": 1697015978,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席一带一路国际合作高峰论坛#"
+    }
+  }
+}
