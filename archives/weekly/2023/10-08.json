@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696987926982,
+  "endTime": 1696990995338,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1996649,
+      "num": 1996649,
+      "word": "社保卡一定要记得激活",
+      "onboard_time": 1696984240,
+      "rank": 4,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 1978389,
       "num": 901492,
       "word": "相亲发生关系男子被控强奸迎反转",
@@ -507,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1702326,
-      "num": 1702326,
-      "word": "社保卡一定要记得激活",
-      "onboard_time": 1696984240,
-      "rank": 4,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 1692929,
       "num": 1249072,
       "word": "创5 熟人",
@@ -593,6 +593,14 @@
       "onboard_time": 1696980449,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1554108,
+      "num": 494933,
+      "word": "北极鲶鱼的恨国论也该严查",
+      "onboard_time": 1696986276,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1552038,
@@ -1163,6 +1171,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 879430,
+      "num": 879430,
+      "word": "冲突已致巴以双方超2100人死亡",
+      "onboard_time": 1696987056,
+      "rank": 4,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 871891,
       "num": 871891,
       "word": "以色列建国史",
@@ -1587,14 +1603,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 698759,
-      "num": 494933,
-      "word": "北极鲶鱼的恨国论也该严查",
-      "onboard_time": 1696986276,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 693384,
       "num": 495674,
       "word": "抑郁症早期4个危险信号",
@@ -1691,6 +1699,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 660817,
+      "num": 352755,
+      "word": "每坐1小时平均寿命缩短22分钟",
+      "onboard_time": 1696987357,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 660672,
       "num": 660672,
       "word": "有的甜宠剧能不能别太性缘脑",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1696864477,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 649766,
+      "num": 649766,
+      "word": "男子创业7次成功后劝年轻人别创业",
+      "onboard_time": 1696987237,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 646748,
@@ -1825,6 +1849,14 @@
       "onboard_time": 1696862983,
       "rank": 9,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 626696,
+      "num": 626696,
+      "word": "网友看部剧救了自己的命",
+      "onboard_time": 1696987237,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 625411,
@@ -2971,12 +3003,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 427983,
+      "num": 427983,
+      "word": "外媒称以色列已列出报复名单",
+      "onboard_time": 1696986158,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 427371,
       "num": 427371,
       "word": "肖战原野漫步好迷人",
       "onboard_time": 1696750895,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 427236,
+      "num": 427236,
+      "word": "秋天是养头发的最好时机",
+      "onboard_time": 1696988252,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 426835,
@@ -3001,6 +3049,14 @@
       "onboard_time": 1696919316,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423733,
+      "num": 423733,
+      "word": "朴炯植瘦回颜巅了",
+      "onboard_time": 1696987654,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421771,
@@ -3121,14 +3177,6 @@
       "onboard_time": 1696741063,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 403771,
-      "num": 352755,
-      "word": "每坐1小时平均寿命缩短22分钟",
-      "onboard_time": 1696987357,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 403683,
@@ -3539,6 +3587,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 359931,
+      "num": 359931,
+      "word": "联合国宣布调查巴以冲突中的战争罪行",
+      "onboard_time": 1696989572,
+      "rank": 15,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 358217,
       "num": 358217,
       "word": "王阳体重只有130斤",
@@ -3617,14 +3673,6 @@
       "onboard_time": 1696760313,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 353200,
-      "num": 353200,
-      "word": "网友看部剧救了自己的命",
-      "onboard_time": 1696987237,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 353136,
@@ -4019,6 +4067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321341,
+      "num": 321341,
+      "word": "美福特号航母已抵达地中海东部",
+      "onboard_time": 1696989755,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 320454,
       "num": 320454,
       "word": "于文文 相亲失败的同事不要急",
@@ -4080,14 +4136,6 @@
       "word": "打击缅北电诈行动最新战果",
       "onboard_time": 1696823739,
       "rank": 24,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 314376,
-      "num": 314376,
-      "word": "外媒称以色列已列出报复名单",
-      "onboard_time": 1696986158,
-      "rank": 34,
       "category": "国外要闻"
     },
     {
@@ -4329,6 +4377,14 @@
       "onboard_time": 1696810175,
       "rank": 25,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 298417,
+      "num": 298417,
+      "word": "iPhone被曝夜间自动关机",
+      "onboard_time": 1696989813,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 297978,
@@ -4739,6 +4795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 273056,
+      "num": 273056,
+      "word": "疑似seventeen新专剧透",
+      "onboard_time": 1696987415,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 272955,
       "num": 272955,
       "word": "aespa演唱会舞台状态",
@@ -4793,6 +4857,14 @@
       "onboard_time": 1696832134,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 271894,
+      "num": 271894,
+      "word": "王牌对王牌",
+      "onboard_time": 1696990352,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 271101,
@@ -4881,6 +4953,14 @@
       "onboard_time": 1696812096,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 267773,
+      "num": 267773,
+      "word": "时代少年团到达上海",
+      "onboard_time": 1696989036,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 267740,
@@ -5275,14 +5355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 251041,
-      "num": 251041,
-      "word": "疑似seventeen新专剧透",
-      "onboard_time": 1696987415,
-      "rank": 24,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 250698,
       "num": 250698,
       "word": "杨超越清冷感",
@@ -5473,6 +5545,14 @@
       "onboard_time": 1696898077,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 243512,
+      "num": 243512,
+      "word": "在新加坡对护士爆粗口被调查",
+      "onboard_time": 1696989872,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243235,
@@ -5827,14 +5907,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 231420,
-      "num": 508766,
-      "word": "男子创业7次成功后劝年轻人别创业",
-      "onboard_time": 1696987237,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 231415,
       "num": 231415,
       "word": "杭州亚运会总奖牌榜",
@@ -5897,14 +5969,6 @@
       "onboard_time": 1696862382,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226730,
-      "num": 226730,
-      "word": "朴炯植瘦回颜巅了",
-      "onboard_time": 1696987654,
-      "rank": 27,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 226486,
@@ -6073,6 +6137,14 @@
       "onboard_time": 1696840237,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219389,
+      "num": 219389,
+      "word": "行李箱发现了妈妈剥好的柚子",
+      "onboard_time": 1696987838,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 218792,
@@ -6529,6 +6601,14 @@
       "onboard_time": 1696770639,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 204849,
+      "num": 204849,
+      "word": "小巷人家",
+      "onboard_time": 1696990533,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 204809,
@@ -7011,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190907,
+      "num": 190907,
+      "word": "8旬退休教师拾荒卖废品助学24年",
+      "onboard_time": 1696989511,
+      "rank": 32,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 190744,
       "num": 190744,
       "word": "卢昱晓田嘉瑞看虞书欣赐梦MV拍摄",
@@ -7056,6 +7144,14 @@
       "word": "田嘉瑞辅导林子烨反被拿捏",
       "onboard_time": 1696911104,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189946,
+      "num": 189946,
+      "word": "关晓彤王安宇演情侣",
+      "onboard_time": 1696990298,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -7137,6 +7233,14 @@
       "onboard_time": 1696682257,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 187253,
+      "num": 187253,
+      "word": "洗脸巾你买对了吗",
+      "onboard_time": 1696990772,
+      "rank": 34,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 187238,
@@ -7329,6 +7433,14 @@
       "onboard_time": 1696721609,
       "rank": 48,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 181721,
+      "num": 181721,
+      "word": "王鹤润竟是谁的青春不迷茫里的光头女孩",
+      "onboard_time": 1696987897,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 181329,
@@ -7699,6 +7811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 168711,
+      "num": 168711,
+      "word": "恋5窒息男嘉宾被狠狠拿捏",
+      "onboard_time": 1696990897,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168364,
       "num": 168364,
       "word": "外国朋友在亚运村盛赞缙云烧饼",
@@ -8043,6 +8163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155129,
+      "num": 155129,
+      "word": "徐灵菱说张纯烨有律师潜质",
+      "onboard_time": 1696990592,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153996,
       "num": 153996,
       "word": "卢昱晓等饭版Lulu",
@@ -8267,6 +8395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 136570,
+      "num": 136570,
+      "word": "狄龙火箭首秀被驱逐",
+      "onboard_time": 1696988912,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135925,
       "num": 135925,
       "word": "王传君封面造型 星期五",
@@ -8288,6 +8424,14 @@
       "word": "爸爸设计攀爬路线护两岁娃锻炼",
       "onboard_time": 1696778736,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134931,
+      "num": 134931,
+      "word": "学生咳嗽学校特地熬冰糖雪梨汤",
+      "onboard_time": 1696988614,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -8353,14 +8497,6 @@
       "onboard_time": 1696835613,
       "rank": 46,
       "category": "军事"
-    },
-    {
-      "raw_hot": 131843,
-      "num": 131843,
-      "word": "王鹤润竟是谁的青春不迷茫里的光头女孩",
-      "onboard_time": 1696987897,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 130381,
@@ -8539,6 +8675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118330,
+      "num": 118330,
+      "word": "消防一番话救回打败仗欲跳楼小学生",
+      "onboard_time": 1696989636,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117893,
       "num": 117893,
       "word": "黄景瑜是会安慰张凌赫的",
@@ -8577,6 +8721,14 @@
       "onboard_time": 1696868069,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 112862,
+      "num": 112862,
+      "word": "崔胜澈预告照",
+      "onboard_time": 1696988432,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 110982,
