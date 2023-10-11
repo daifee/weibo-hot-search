@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697051652892,
+  "endTime": 1697052838922,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -11819,6 +11819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28233,
+      "num": 45231,
+      "word": "颖儿哈萨克公主",
+      "onboard_time": 1697052373,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 27168,
       "num": 28766,
       "word": "朱一龙新片演刑警",
@@ -11865,6 +11873,22 @@
       "onboard_time": 1696876516,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 20129,
+      "num": 39577,
+      "word": "谁家男女主第一集就一起被抓啊",
+      "onboard_time": 1697051954,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 19891,
+      "num": 39566,
+      "word": "游戏使用孙红雷这瓜保熟吗被告",
+      "onboard_time": 1697052195,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 19014,
