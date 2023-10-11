@@ -1,0 +1,410 @@
+{
+  "runTime": 1696995259336,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2063538,
+        "num": 2063538,
+        "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+        "onboard_time": 1696992098,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2007633,
+        "num": 2007633,
+        "word": "王牌8官宣阵容",
+        "onboard_time": 1696992631,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61641,
+        "num": 1518884,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1459310,
+        "num": 1459310,
+        "word": "iPhone被曝夜间自动关机",
+        "onboard_time": 1696989813,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1091404,
+        "num": 1091404,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 871538,
+        "num": 871538,
+        "word": "王牌8没贾玲",
+        "onboard_time": 1696993595,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 798776,
+        "num": 798776,
+        "word": "范丞丞关晓彤二搭演兄妹",
+        "onboard_time": 1696994976,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 681243,
+        "num": 681243,
+        "word": "在新加坡对护士爆粗口被调查",
+        "onboard_time": 1696989872,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654439,
+        "num": 654439,
+        "word": "网友看部剧救了自己的命",
+        "onboard_time": 1696987237,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 613689,
+        "num": 613689,
+        "word": "国考",
+        "onboard_time": 1696992333,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 945346,
+        "num": 571755,
+        "word": "一生不被允许gap的中国人",
+        "onboard_time": 1696993297,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 690003,
+        "num": 512760,
+        "word": "关晓彤爆王牌对王牌游戏内幕",
+        "onboard_time": 1696985378,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444829,
+        "num": 444829,
+        "word": "朴灿烈 抢票",
+        "onboard_time": 1696994134,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 430125,
+        "num": 430125,
+        "word": "联合国宣布调查巴以冲突中的战争罪行",
+        "onboard_time": 1696989572,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 74934,
+        "num": 418652,
+        "word": "无痛分娩的普及到底难在哪",
+        "onboard_time": 1696994315,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415208,
+        "num": 415208,
+        "word": "新冠",
+        "onboard_time": 1696945299,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395809,
+        "num": 395809,
+        "word": "消防员拿棍子扛出个27斤巨形蜂窝",
+        "onboard_time": 1696994916,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390972,
+        "num": 390972,
+        "word": "撒贝宁的原名",
+        "onboard_time": 1696980449,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364833,
+        "num": 364833,
+        "word": "莎头 连轴转",
+        "onboard_time": 1696993055,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 327515,
+        "num": 327515,
+        "word": "秋天是养头发的最好时机",
+        "onboard_time": 1696988252,
+        "rank": 19,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1152864,
+        "num": 324075,
+        "word": "北极鲶鱼的恨国论也该严查",
+        "onboard_time": 1696986276,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 901781,
+        "num": 319762,
+        "word": "官方回应北极鲶鱼爷爷处罚过轻质疑",
+        "onboard_time": 1696983702,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494469,
+        "num": 319284,
+        "word": "每坐1小时平均寿命缩短22分钟",
+        "onboard_time": 1696987357,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311482,
+        "num": 311482,
+        "word": "市监局回应高校食堂吃到疑似鼠头",
+        "onboard_time": 1696994737,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296282,
+        "num": 296282,
+        "word": "女生经期不建议吃的六种水果",
+        "onboard_time": 1696980691,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 268745,
+        "num": 268745,
+        "word": "以色列正准备在加沙开展数月地面攻势",
+        "onboard_time": 1696993595,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 266367,
+        "num": 266367,
+        "word": "恋5窒息男嘉宾被狠狠拿捏",
+        "onboard_time": 1696990897,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246730,
+        "num": 246730,
+        "word": "景甜不敢和父母乱发牢骚",
+        "onboard_time": 1696991612,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240517,
+        "num": 240517,
+        "word": "朴炯植瘦回颜巅了",
+        "onboard_time": 1696987654,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237318,
+        "num": 237318,
+        "word": "冲突已致巴以双方超2100人死亡",
+        "onboard_time": 1696987056,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 223387,
+        "num": 223387,
+        "word": "老乡鸡 卡了",
+        "onboard_time": 1696991854,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211967,
+        "num": 211967,
+        "word": "王牌8好友季官宣",
+        "onboard_time": 1696993415,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211486,
+        "num": 211486,
+        "word": "新华社称退休不是护身符",
+        "onboard_time": 1696947580,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208014,
+        "num": 208014,
+        "word": "夸克占用了我900多G的内存",
+        "onboard_time": 1696980629,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206249,
+        "num": 206249,
+        "word": "马斯克写信威胁海王2留下艾梅柏",
+        "onboard_time": 1696991612,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202851,
+        "num": 202851,
+        "word": "男子创业7次成功后劝年轻人别创业",
+        "onboard_time": 1696987237,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201774,
+        "num": 201774,
+        "word": "镜流",
+        "onboard_time": 1696994796,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200575,
+        "num": 200575,
+        "word": "美福特号航母已抵达地中海东部",
+        "onboard_time": 1696989755,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 191320,
+        "num": 191320,
+        "word": "妈妈爱小狗但妈妈更爱我",
+        "onboard_time": 1696991854,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185638,
+        "num": 185638,
+        "word": "iPhone平均寿命将达8年",
+        "onboard_time": 1696985678,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 179243,
+        "num": 179243,
+        "word": "林高远王曼昱晋级混双八强",
+        "onboard_time": 1696992996,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177770,
+        "num": 177770,
+        "word": "aespa人鱼公主风造型",
+        "onboard_time": 1696991854,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 170243,
+        "num": 170243,
+        "word": "导演叫停后朱一龙仍沉浸角色",
+        "onboard_time": 1696982075,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151667,
+        "num": 151667,
+        "word": "很喜欢但不敢发朋友圈的照片",
+        "onboard_time": 1696981172,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151193,
+        "num": 151193,
+        "word": "天津大爷跳水完胜菲律宾",
+        "onboard_time": 1696995156,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107170,
+        "num": 150725,
+        "word": "崩铁镜流上线",
+        "onboard_time": 1696995103,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150494,
+        "num": 150494,
+        "word": "外媒称以色列已列出报复名单",
+        "onboard_time": 1696986158,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 140041,
+        "num": 140041,
+        "word": "终于把五险一金弄懂了",
+        "onboard_time": 1696984359,
+        "rank": 47,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 138830,
+        "num": 138830,
+        "word": "全锦赛混双",
+        "onboard_time": 1696992755,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119821,
+        "num": 119821,
+        "word": "行李箱发现了妈妈剥好的柚子",
+        "onboard_time": 1696987838,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路白皮书#"
+    }
+  }
+}

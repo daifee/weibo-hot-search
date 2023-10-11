@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696994270990,
+  "endTime": 1696995259336,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -331,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2007633,
+      "num": 2007633,
+      "word": "王牌8官宣阵容",
+      "onboard_time": 1696992631,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2003585,
       "num": 1167140,
       "word": "从体制内离职的人现在怎么样了",
@@ -369,14 +377,6 @@
       "onboard_time": 1696916856,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1969173,
-      "num": 1969173,
-      "word": "王牌8官宣阵容",
-      "onboard_time": 1696992631,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 1954001,
@@ -651,6 +651,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1459310,
+      "num": 1459310,
+      "word": "iPhone被曝夜间自动关机",
+      "onboard_time": 1696989813,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1455901,
       "num": 1455901,
       "word": "王海举报国企转账私人账户近6亿",
@@ -713,14 +721,6 @@
       "onboard_time": 1696849595,
       "rank": 37,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 1390213,
-      "num": 1390213,
-      "word": "iPhone被曝夜间自动关机",
-      "onboard_time": 1696989813,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 1378166,
@@ -1115,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 945346,
+      "num": 571755,
+      "word": "一生不被允许gap的中国人",
+      "onboard_time": 1696993297,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 942864,
       "num": 528369,
       "word": "我做好您的相 您做您的将",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1696757913,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 871538,
+      "num": 871538,
+      "word": "王牌8没贾玲",
+      "onboard_time": 1696993595,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 871484,
@@ -1377,6 +1393,14 @@
       "onboard_time": 1696937439,
       "rank": 27,
       "category": "国内要闻,社会新闻"
+    },
+    {
+      "raw_hot": 798776,
+      "num": 798776,
+      "word": "范丞丞关晓彤二搭演兄妹",
+      "onboard_time": 1696994976,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 794710,
@@ -1995,6 +2019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 613689,
+      "num": 613689,
+      "word": "国考",
+      "onboard_time": 1696992333,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 612651,
       "num": 612651,
       "word": "不开心可能是你在长脑子",
@@ -2065,14 +2097,6 @@
       "onboard_time": 1696732834,
       "rank": 21,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 591331,
-      "num": 591331,
-      "word": "王牌8没贾玲",
-      "onboard_time": 1696993595,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 589674,
@@ -2185,14 +2209,6 @@
       "onboard_time": 1696846356,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 563586,
-      "num": 563586,
-      "word": "国考",
-      "onboard_time": 1696992333,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 562744,
@@ -2505,14 +2521,6 @@
       "onboard_time": 1696816297,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 509570,
-      "num": 509570,
-      "word": "一生不被允许gap的中国人",
-      "onboard_time": 1696993297,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 508157,
@@ -3027,6 +3035,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 444829,
+      "num": 444829,
+      "word": "朴灿烈 抢票",
+      "onboard_time": 1696994134,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 443716,
       "num": 443716,
       "word": "以外交部证实两名以色列人在埃及遇难",
@@ -3312,6 +3328,14 @@
       "word": "我抱着出生抱着出嫁",
       "onboard_time": 1696819354,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 395809,
+      "num": 395809,
+      "word": "消防员拿棍子扛出个27斤巨形蜂窝",
+      "onboard_time": 1696994916,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -3625,6 +3649,14 @@
       "onboard_time": 1696826025,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 364833,
+      "num": 364833,
+      "word": "莎头 连轴转",
+      "onboard_time": 1696993055,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 363619,
@@ -4003,14 +4035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 334016,
-      "num": 334016,
-      "word": "莎头 连轴转",
-      "onboard_time": 1696993055,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 333154,
       "num": 319744,
       "word": "毛晓彤甜妹",
@@ -4241,6 +4265,14 @@
       "onboard_time": 1696726776,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 311482,
+      "num": 311482,
+      "word": "市监局回应高校食堂吃到疑似鼠头",
+      "onboard_time": 1696994737,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 311305,
@@ -5019,6 +5051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 268745,
+      "num": 268745,
+      "word": "以色列正准备在加沙开展数月地面攻势",
+      "onboard_time": 1696993595,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 268517,
       "num": 255748,
       "word": "北京街头惊现4匹大马",
@@ -5563,6 +5603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246730,
+      "num": 246730,
+      "word": "景甜不敢和父母乱发牢骚",
+      "onboard_time": 1696991612,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245944,
       "num": 245944,
       "word": "30年只用平价护肤品的皮肤状态",
@@ -6043,14 +6091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228223,
-      "num": 228223,
-      "word": "景甜不敢和父母乱发牢骚",
-      "onboard_time": 1696991612,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228206,
       "num": 228206,
       "word": "马斯克写信威胁海王2留下艾梅柏",
@@ -6483,14 +6523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 210778,
-      "num": 210778,
-      "word": "以色列正准备在加沙开展数月地面攻势",
-      "onboard_time": 1696993595,
-      "rank": 35,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 210641,
       "num": 210641,
       "word": "钟庚赐按二级科员确定其退休待遇",
@@ -6857,6 +6889,14 @@
       "onboard_time": 1696828364,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201774,
+      "num": 201774,
+      "word": "镜流",
+      "onboard_time": 1696994796,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 201772,
@@ -7963,14 +8003,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 168001,
-      "num": 168001,
-      "word": "朴灿烈 抢票",
-      "onboard_time": 1696994134,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 167613,
       "num": 526897,
       "word": "回顾巴以冲突始末",
@@ -8385,6 +8417,14 @@
       "onboard_time": 1696928013,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151193,
+      "num": 151193,
+      "word": "天津大爷跳水完胜菲律宾",
+      "onboard_time": 1696995156,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 149137,
@@ -8915,6 +8955,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 107170,
+      "num": 150725,
+      "word": "崩铁镜流上线",
+      "onboard_time": 1696995103,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 106711,
       "num": 106711,
       "word": "网友高铁上偶遇朱一龙拍摄路透",
@@ -9185,6 +9233,14 @@
       "onboard_time": 1696819896,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 74934,
+      "num": 418652,
+      "word": "无痛分娩的普及到底难在哪",
+      "onboard_time": 1696994315,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74225,
