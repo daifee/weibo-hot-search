@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697060047085,
+  "endTime": 1697062560399,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -11323,6 +11323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82033,
+      "num": 59992,
+      "word": "颖儿哈萨克公主",
+      "onboard_time": 1697052373,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81722,
       "num": 81722,
       "word": "0713全员演技在线",
@@ -11425,14 +11433,6 @@
       "onboard_time": 1696808010,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 70889,
-      "num": 45231,
-      "word": "颖儿哈萨克公主",
-      "onboard_time": 1697052373,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 70860,
@@ -11643,6 +11643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51346,
+      "num": 39655,
+      "word": "减肥平台期最有效的方法",
+      "onboard_time": 1697056994,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 51307,
       "num": 51307,
       "word": "朱一龙马哲海报",
@@ -11811,12 +11819,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 29905,
+      "num": 30416,
+      "word": "体检指标常见异常代表什么",
+      "onboard_time": 1697061434,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 29902,
       "num": 29902,
       "word": "孙艺洲有点功夫在腿上",
       "onboard_time": 1696874719,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 28986,
+      "num": 39577,
+      "word": "谁家男女主第一集就一起被抓啊",
+      "onboard_time": 1697051954,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 28713,
@@ -11851,14 +11875,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 25706,
-      "num": 33702,
-      "word": "减肥平台期最有效的方法",
-      "onboard_time": 1697056994,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 23843,
       "num": 2220980,
       "word": "推进共建绿色一带一路",
@@ -11889,14 +11905,6 @@
       "onboard_time": 1696876516,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 21228,
-      "num": 39577,
-      "word": "谁家男女主第一集就一起被抓啊",
-      "onboard_time": 1697051954,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 19014,

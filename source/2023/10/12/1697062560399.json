@@ -1,0 +1,410 @@
+{
+  "runTime": 1697062560399,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 499066,
+        "num": 499066,
+        "word": "周杰伦演唱会前黄牛集体退票",
+        "onboard_time": 1697040451,
+        "rank": 0,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 213769,
+        "num": 213769,
+        "word": "武大回应学生举报图书馆遭性骚扰",
+        "onboard_time": 1697042724,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11860,
+        "num": 141752,
+        "word": "一带一路一往无前",
+        "onboard_time": 1697028578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110566,
+        "num": 110566,
+        "word": "男子举报一烟草厂长出轨并生女",
+        "onboard_time": 1697039253,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95336,
+        "num": 95336,
+        "word": "螃蟹把最好吃的部分进化掉了",
+        "onboard_time": 1697035001,
+        "rank": 4,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 98894,
+        "num": 87018,
+        "word": "联合国9名人员在以色列空袭中丧生",
+        "onboard_time": 1697031998,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 75129,
+        "num": 75129,
+        "word": "敬贵妃 她私下就是烟酒都来啊",
+        "onboard_time": 1697025275,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75109,
+        "num": 75109,
+        "word": "papi酱 追星有这么严格嘛",
+        "onboard_time": 1697023235,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62652,
+        "num": 62652,
+        "word": "贾玲缺席王牌8的原因",
+        "onboard_time": 1697014834,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61473,
+        "num": 61473,
+        "word": "肖战无羁录音室新花絮",
+        "onboard_time": 1697032598,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 284281,
+        "num": 61277,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697026593,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 118878,
+        "num": 60475,
+        "word": "武大男生在图书馆实施性骚扰",
+        "onboard_time": 1697027494,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82033,
+        "num": 59992,
+        "word": "颖儿哈萨克公主",
+        "onboard_time": 1697052373,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65860,
+        "num": 59599,
+        "word": "以色列议员呼吁使用末日武器",
+        "onboard_time": 1697017776,
+        "rank": 13,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 58982,
+        "num": 58982,
+        "word": "我替朱一龙感到尴尬",
+        "onboard_time": 1697032719,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54765,
+        "num": 54765,
+        "word": "刘宪华直播连麦连了一屋子人",
+        "onboard_time": 1697037698,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49590,
+        "num": 49590,
+        "word": "潜水员韩颋被找到",
+        "onboard_time": 1697025933,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46838,
+        "num": 46838,
+        "word": "白鹿丞磊 朝雪录",
+        "onboard_time": 1697036617,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40423,
+        "num": 40423,
+        "word": "杨紫尼龙大片",
+        "onboard_time": 1697034459,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 40040,
+        "num": 40040,
+        "word": "小时候以为张韶涵没有胳膊",
+        "onboard_time": 1697039132,
+        "rank": 19,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 68358,
+        "num": 40006,
+        "word": "晚上睡觉之前建议揉一揉肚子",
+        "onboard_time": 1697026356,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 66170,
+        "num": 39880,
+        "word": "补气血真的很重要",
+        "onboard_time": 1697034580,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51346,
+        "num": 39655,
+        "word": "减肥平台期最有效的方法",
+        "onboard_time": 1697056994,
+        "rank": 22,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 47623,
+        "num": 39578,
+        "word": "他手机有秘密有感情有爱人",
+        "onboard_time": 1697039192,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45008,
+        "num": 39402,
+        "word": "吴昕父母敲了4次门在门外待了6个小时",
+        "onboard_time": 1697011415,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39391,
+        "num": 39391,
+        "word": "为什么有人喜欢把手机语言改成英文",
+        "onboard_time": 1697035299,
+        "rank": 25,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 39360,
+        "num": 39360,
+        "word": "原来公积金是这样用的",
+        "onboard_time": 1697027797,
+        "rank": 26,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 36232,
+        "num": 36232,
+        "word": "原来我们可以健康的熬夜",
+        "onboard_time": 1697040868,
+        "rank": 27,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 33490,
+        "num": 33490,
+        "word": "网友曝刘暖曦在视频号直播带货",
+        "onboard_time": 1697016693,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32707,
+        "num": 32707,
+        "word": "SEVENTEEN预告照",
+        "onboard_time": 1697039672,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30417,
+        "num": 30417,
+        "word": "游戏使用孙红雷这瓜保熟吗被告",
+        "onboard_time": 1697052195,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29905,
+        "num": 30416,
+        "word": "体检指标常见异常代表什么",
+        "onboard_time": 1697061434,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 28986,
+        "num": 30410,
+        "word": "谁家男女主第一集就一起被抓啊",
+        "onboard_time": 1697051954,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28310,
+        "num": 30403,
+        "word": "倚天屠龙记里的大美人",
+        "onboard_time": 1697033317,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27983,
+        "num": 30395,
+        "word": "猫咪因咬充电线被主人PUA",
+        "onboard_time": 1697049073,
+        "rank": 34,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 27636,
+        "num": 30391,
+        "word": "闫桉发文告别组合",
+        "onboard_time": 1697030616,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27474,
+        "num": 30386,
+        "word": "我的临时身份证也太临时了吧",
+        "onboard_time": 1697026415,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25431,
+        "num": 30382,
+        "word": "姜典撞脸Doinb",
+        "onboard_time": 1697035897,
+        "rank": 37,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 24971,
+        "num": 30375,
+        "word": "武汉大学",
+        "onboard_time": 1697027075,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24927,
+        "num": 30374,
+        "word": "2023年的小米6有啥新变化",
+        "onboard_time": 1697041947,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24833,
+        "num": 30363,
+        "word": "复旦退休教授讲座时抽烟遭投诉",
+        "onboard_time": 1697029896,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24367,
+        "num": 30359,
+        "word": "差点被面部保养淹死",
+        "onboard_time": 1697039432,
+        "rank": 41,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 22612,
+        "num": 30352,
+        "word": "李健 为什么专注变得越来越难",
+        "onboard_time": 1697033378,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21131,
+        "num": 30350,
+        "word": "王源这两张图感觉不配字都不完整",
+        "onboard_time": 1697039612,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19564,
+        "num": 30345,
+        "word": "内向性格的力量",
+        "onboard_time": 1697042846,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18672,
+        "num": 30340,
+        "word": "罗翔谈PPT曝光渣男渣女",
+        "onboard_time": 1697018858,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17665,
+        "num": 30333,
+        "word": "灯光是蓝绿红橙的 凯子心情是黑色的",
+        "onboard_time": 1697028516,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17130,
+        "num": 30329,
+        "word": "梅花红桃首播收视率",
+        "onboard_time": 1697039371,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17093,
+        "num": 30325,
+        "word": "王俊凯红毯全身镜头",
+        "onboard_time": 1697023053,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15491,
+        "num": 30317,
+        "word": "刘雅瑟扒出柳姐包里装发胶",
+        "onboard_time": 1697033979,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断开创新时代宣传思想文化工作新局面#"
+    }
+  }
+}
