@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697027654242,
+  "endTime": 1697028589753,
   "band_list": [
     {
       "raw_hot": 5557870,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 2451188,
-      "num": 716382,
+      "num": 945132,
       "word": "papi酱 追星有这么严格嘛",
       "onboard_time": 1697023235,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2423357,
+      "num": 362274,
+      "word": "武汉大学",
+      "onboard_time": 1697027075,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2373079,
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1730055,
+      "num": 1730055,
+      "word": "武大男生在图书馆实施性骚扰",
+      "onboard_time": 1697027494,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1724661,
       "num": 1724661,
       "word": "晚上十一点之前尽量入睡",
@@ -169,6 +185,14 @@
       "onboard_time": 1696989813,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1454680,
+      "num": 1454680,
+      "word": "敬贵妃 她私下就是烟酒都来啊",
+      "onboard_time": 1697025275,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1438643,
@@ -227,6 +251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1025252,
+      "num": 360296,
+      "word": "巴勒斯坦",
+      "onboard_time": 1697026593,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1012975,
       "num": 1012975,
       "word": "以色列议员呼吁使用末日武器",
@@ -249,14 +281,6 @@
       "onboard_time": 1697015915,
       "rank": 12,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 975157,
-      "num": 975157,
-      "word": "敬贵妃 她私下就是烟酒都来啊",
-      "onboard_time": 1697025275,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 968203,
@@ -352,14 +376,6 @@
       "word": "女研究生养猫反向将自己关进笼子",
       "onboard_time": 1697002355,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 778313,
-      "num": 332440,
-      "word": "武汉大学",
-      "onboard_time": 1697027075,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -643,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511109,
+      "num": 202556,
+      "word": "原来公积金是这样用的",
+      "onboard_time": 1697027797,
+      "rank": 30,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 503594,
       "num": 503594,
       "word": "大龄剩女的思维是错的",
@@ -713,14 +737,6 @@
       "onboard_time": 1696981412,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 476996,
-      "num": 331069,
-      "word": "巴勒斯坦",
-      "onboard_time": 1697026593,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 474221,
@@ -891,8 +907,16 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 390956,
+      "num": 340199,
+      "word": "潜水员韩颋被找到",
+      "onboard_time": 1697025933,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388790,
-      "num": 330462,
+      "num": 334744,
       "word": "穿旗袍的刘亦菲 古色古香的瓷器",
       "onboard_time": 1697023894,
       "rank": 36,
@@ -953,6 +977,14 @@
       "onboard_time": 1696952735,
       "rank": 9,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 365612,
+      "num": 365612,
+      "word": "王嘉尔金发丸子头造型",
+      "onboard_time": 1697026051,
+      "rank": 8,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 364833,
@@ -1059,14 +1091,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 346858,
-      "num": 346858,
-      "word": "王嘉尔金发丸子头造型",
-      "onboard_time": 1697026051,
-      "rank": 8,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 342231,
       "num": 342231,
       "word": "福州震感",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1696982375,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 325040,
-      "num": 325040,
-      "word": "潜水员韩颋被找到",
-      "onboard_time": 1697025933,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 321983,
@@ -1475,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255999,
+      "num": 255999,
+      "word": "北京政法职业学院霸凌女生疑亮相宣传片",
+      "onboard_time": 1697027315,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 255943,
       "num": 255943,
       "word": "闺蜜之间的聊天记录有多野",
@@ -1689,6 +1713,14 @@
       "onboard_time": 1697007815,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 224713,
+      "num": 224713,
+      "word": "莲花楼 无痛背单词",
+      "onboard_time": 1697027196,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 222552,
@@ -1947,14 +1979,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 195457,
-      "num": 195457,
-      "word": "武大男生在图书馆实施性骚扰",
-      "onboard_time": 1697027494,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 194213,
       "num": 194213,
       "word": "九章三号求解特定问题比超算快1亿亿倍",
@@ -2011,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189353,
+      "num": 189353,
+      "word": "俞敏洪想上价值 余秀华躺地上不起来",
+      "onboard_time": 1697028215,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189212,
       "num": 189212,
       "word": "斗破苍穹萧炎美杜莎撒狗粮",
@@ -2057,6 +2089,14 @@
       "onboard_time": 1697008774,
       "rank": 36,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 187147,
+      "num": 187147,
+      "word": "涵艺爆料EDG新辅助",
+      "onboard_time": 1697028034,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 186505,
@@ -2187,6 +2227,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 177486,
+      "num": 177486,
+      "word": "交警听到呼救飞奔爬车的身影太帅了",
+      "onboard_time": 1697028578,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177053,
       "num": 177053,
       "word": "女生好看不是原罪",
@@ -2217,14 +2265,6 @@
       "onboard_time": 1697001935,
       "rank": 39,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 175821,
-      "num": 175821,
-      "word": "莲花楼 无痛背单词",
-      "onboard_time": 1697027196,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 175621,
@@ -2315,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166417,
+      "num": 166417,
+      "word": "汇金公司增持农业银行",
+      "onboard_time": 1697028215,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165632,
       "num": 165632,
       "word": "小时候看居然没觉得哪里不对",
@@ -2337,6 +2385,14 @@
       "onboard_time": 1697019756,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162581,
+      "num": 162581,
+      "word": "灯光是蓝绿红橙的 凯子心情是黑色的",
+      "onboard_time": 1697028516,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 162246,
@@ -2499,14 +2555,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 148363,
-      "num": 148363,
-      "word": "北京政法职业学院霸凌女生疑亮相宣传片",
-      "onboard_time": 1697027315,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 145806,
       "num": 145806,
       "word": "成都科幻馆夜晚的音乐喷泉太美了",
@@ -2569,6 +2617,14 @@
       "onboard_time": 1696995757,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139333,
+      "num": 139333,
+      "word": "甘肃天水特色十大美食",
+      "onboard_time": 1697028455,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 136570,
@@ -2913,6 +2969,14 @@
       "onboard_time": 1696942298,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16939,
+      "num": 989966,
+      "word": "一带一路一往无前",
+      "onboard_time": 1697028578,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 14965,
