@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697002440690,
+  "endTime": 1697005430280,
   "band_list": [
     {
       "raw_hot": 3059017,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1496216,
+      "num": 1496216,
+      "word": "碧桂园",
+      "onboard_time": 1697003195,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1459310,
       "num": 1459310,
       "word": "iPhone被曝夜间自动关机",
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 760774,
+      "num": 760774,
+      "word": "女研究生养猫反向将自己关进笼子",
+      "onboard_time": 1697002355,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 743556,
       "num": 345664,
       "word": "华北理工食堂被曝吃出鼠头",
@@ -257,6 +273,14 @@
       "onboard_time": 1696935755,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 647930,
+      "num": 647930,
+      "word": "巴以冲突升级",
+      "onboard_time": 1697002416,
+      "rank": 47,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 633414,
@@ -307,6 +331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 585642,
+      "num": 585642,
+      "word": "卢昱晓 你好李佳",
+      "onboard_time": 1697004334,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 578734,
       "num": 530409,
       "word": "北极鲶鱼究竟是什么鱼",
@@ -339,6 +371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 544884,
+      "num": 506362,
+      "word": "被哈马斯绑架的中以混血女孩父母发声",
+      "onboard_time": 1697002477,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 537572,
       "num": 618597,
       "word": "班主任花6小时为全班学生炸鸡腿",
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 536783,
-      "num": 230962,
+      "num": 347017,
       "word": "老婆怀不上问题竟出在老公的工作上",
       "onboard_time": 1697001161,
       "rank": 33,
@@ -416,6 +456,14 @@
       "word": "何明树李兵李荣强同志被评定为烈士",
       "onboard_time": 1696981412,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479019,
+      "num": 479019,
+      "word": "碧桂园服务总裁李长江辞职",
+      "onboard_time": 1697003496,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -555,6 +603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358604,
+      "num": 358604,
+      "word": "王源哭戏演技",
+      "onboard_time": 1697004816,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356839,
       "num": 356839,
       "word": "占美人口3%犹太人操纵七成美国财富",
@@ -577,6 +633,14 @@
       "onboard_time": 1696984598,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 344346,
+      "num": 344346,
+      "word": "中国网民叫新加坡坡县引发争议",
+      "onboard_time": 1697003133,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 339099,
@@ -763,6 +827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 274306,
+      "num": 274306,
+      "word": "泽连斯基称巴以冲突可能使国际减少关注俄乌",
+      "onboard_time": 1697002776,
+      "rank": 23,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 273056,
       "num": 273056,
       "word": "疑似seventeen新专剧透",
@@ -777,6 +849,14 @@
       "onboard_time": 1696982315,
       "rank": 27,
       "category": "情感"
+    },
+    {
+      "raw_hot": 271869,
+      "num": 271869,
+      "word": "傅首尔想刀人的眼神藏不住了",
+      "onboard_time": 1697001873,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 268745,
@@ -819,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 255032,
-      "num": 255032,
-      "word": "傅首尔想刀人的眼神藏不住了",
-      "onboard_time": 1697001873,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 252454,
       "num": 241896,
       "word": "订婚结束新娘家人将彩礼还给新郎",
@@ -857,6 +929,14 @@
       "onboard_time": 1696991612,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 246711,
+      "num": 239843,
+      "word": "苏翊鸣 You jump I jump",
+      "onboard_time": 1697004272,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 245091,
@@ -953,6 +1033,14 @@
       "onboard_time": 1696992996,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216373,
+      "num": 216373,
+      "word": "千年后李白诗里的轻舟成了氢舟",
+      "onboard_time": 1697005234,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216308,
@@ -1123,6 +1211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 186070,
+      "num": 186070,
+      "word": "少年歌行3定档",
+      "onboard_time": 1697003013,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185831,
       "num": 185831,
       "word": "董宇辉 知识越丰富的人越谦虚",
@@ -1155,6 +1251,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 182342,
+      "num": 182342,
+      "word": "前EDG上单Ray退役",
+      "onboard_time": 1697003854,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 182183,
       "num": 182183,
       "word": "创5选手撞脸鹿晗关晓彤",
@@ -1168,6 +1272,14 @@
       "word": "王鹤润竟是谁的青春不迷茫里的光头女孩",
       "onboard_time": 1696987897,
       "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 176873,
+      "num": 176873,
+      "word": "炎越疯我越爱",
+      "onboard_time": 1697004213,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1219,12 +1331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170005,
+      "num": 170005,
+      "word": "以后不敢随便捂嘴笑了",
+      "onboard_time": 1697002837,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168859,
       "num": 168859,
       "word": "白鹿说以爱为营快播了",
       "onboard_time": 1696949200,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166231,
+      "num": 166231,
+      "word": "男子离开编制后父母觉得天塌了",
+      "onboard_time": 1697005113,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165632,
@@ -1297,14 +1425,6 @@
       "onboard_time": 1696999660,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146414,
-      "num": 146414,
-      "word": "巴以冲突升级",
-      "onboard_time": 1697002416,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 142077,
@@ -1595,12 +1715,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 31978,
+      "num": 1464251,
+      "word": "行走黄河 遇见幸福",
+      "onboard_time": 1697004695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 28195,
       "num": 44248,
       "word": "问心",
       "onboard_time": 1696942298,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18757,
+      "num": 430163,
+      "word": "影像年中的快乐事儿",
+      "onboard_time": 1697004034,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 14965,

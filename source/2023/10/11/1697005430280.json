@@ -1,0 +1,410 @@
+{
+  "runTime": 1697005430280,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2600253,
+        "num": 2600253,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1496216,
+        "num": 1496216,
+        "word": "碧桂园",
+        "onboard_time": 1697003195,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31978,
+        "num": 1464251,
+        "word": "行走黄河 遇见幸福",
+        "onboard_time": 1697004695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1449691,
+        "num": 1449691,
+        "word": "作者七月新番去世",
+        "onboard_time": 1696999060,
+        "rank": 3,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 760774,
+        "num": 760774,
+        "word": "女研究生养猫反向将自己关进笼子",
+        "onboard_time": 1697002355,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647930,
+        "num": 647930,
+        "word": "巴以冲突升级",
+        "onboard_time": 1697002416,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 617532,
+        "num": 617532,
+        "word": "王牌8官宣阵容",
+        "onboard_time": 1696992631,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 585642,
+        "num": 585642,
+        "word": "卢昱晓 你好李佳",
+        "onboard_time": 1697004334,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 542520,
+        "num": 542520,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 511421,
+        "num": 511421,
+        "word": "男子买50克金条打成镯子送爱妻",
+        "onboard_time": 1696998342,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 918411,
+        "num": 506665,
+        "word": "95后女模特为男友增肥69斤后被抛弃",
+        "onboard_time": 1696997859,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 544884,
+        "num": 506362,
+        "word": "被哈马斯绑架的中以混血女孩父母发声",
+        "onboard_time": 1697002477,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479019,
+        "num": 479019,
+        "word": "碧桂园服务总裁李长江辞职",
+        "onboard_time": 1697003496,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449609,
+        "num": 449609,
+        "word": "央视镜头里的陈都灵",
+        "onboard_time": 1696998460,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18757,
+        "num": 430163,
+        "word": "影像年中的快乐事儿",
+        "onboard_time": 1697004034,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 418344,
+        "num": 418344,
+        "word": "每坐1小时平均寿命缩短22分钟",
+        "onboard_time": 1696987357,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 376432,
+        "num": 376432,
+        "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+        "onboard_time": 1696992098,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373342,
+        "num": 373342,
+        "word": "张钧甯阮经天 16年前16年后",
+        "onboard_time": 1696996657,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358604,
+        "num": 358604,
+        "word": "王源哭戏演技",
+        "onboard_time": 1697004816,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349647,
+        "num": 349647,
+        "word": "一生不被允许gap的中国人",
+        "onboard_time": 1696993297,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 481857,
+        "num": 347017,
+        "word": "老婆怀不上问题竟出在老公的工作上",
+        "onboard_time": 1697001161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438317,
+        "num": 347004,
+        "word": "酒店床上布条的作用",
+        "onboard_time": 1696995876,
+        "rank": 21,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 344346,
+        "num": 344346,
+        "word": "中国网民叫新加坡坡县引发争议",
+        "onboard_time": 1697003133,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274306,
+        "num": 274306,
+        "word": "泽连斯基称巴以冲突可能使国际减少关注俄乌",
+        "onboard_time": 1697002776,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 271922,
+        "num": 271922,
+        "word": "秦霄贤在周扬青面前横不了一点",
+        "onboard_time": 1697001161,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271869,
+        "num": 271869,
+        "word": "傅首尔想刀人的眼神藏不住了",
+        "onboard_time": 1697001873,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265136,
+        "num": 265136,
+        "word": "Mate60系列供应商涨价",
+        "onboard_time": 1697000800,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 254432,
+        "num": 254432,
+        "word": "1个怀的是娃1个怀的是宠爱",
+        "onboard_time": 1696999720,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244250,
+        "num": 244250,
+        "word": "王牌8没贾玲",
+        "onboard_time": 1696993595,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243883,
+        "num": 243883,
+        "word": "关晓彤爆王牌对王牌游戏内幕",
+        "onboard_time": 1696985378,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246711,
+        "num": 239843,
+        "word": "苏翊鸣 You jump I jump",
+        "onboard_time": 1697004272,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226481,
+        "num": 226481,
+        "word": "欧盟称以色列的一些决定违反国际法",
+        "onboard_time": 1696999720,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 216373,
+        "num": 216373,
+        "word": "千年后李白诗里的轻舟成了氢舟",
+        "onboard_time": 1697005234,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211878,
+        "num": 211878,
+        "word": "四川一中学化粪池塌陷有学生掉进粪坑",
+        "onboard_time": 1696999421,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 206840,
+        "num": 206840,
+        "word": "仙台有树",
+        "onboard_time": 1696999306,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186070,
+        "num": 186070,
+        "word": "少年歌行3定档",
+        "onboard_time": 1697003013,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183830,
+        "num": 183830,
+        "word": "iPhone被曝夜间自动关机",
+        "onboard_time": 1696989813,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182342,
+        "num": 182342,
+        "word": "前EDG上单Ray退役",
+        "onboard_time": 1697003854,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176873,
+        "num": 176873,
+        "word": "炎越疯我越爱",
+        "onboard_time": 1697004213,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176629,
+        "num": 176629,
+        "word": "夫妻偷生姜民警找到时已腌成几缸咸菜",
+        "onboard_time": 1697000619,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170005,
+        "num": 170005,
+        "word": "以后不敢随便捂嘴笑了",
+        "onboard_time": 1697002837,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169457,
+        "num": 169457,
+        "word": "国考",
+        "onboard_time": 1696992333,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166626,
+        "num": 166626,
+        "word": "为啥影视剧女主工作都不常见",
+        "onboard_time": 1696999603,
+        "rank": 42,
+        "category": "幽默,剧集"
+      },
+      {
+        "raw_hot": 166231,
+        "num": 166231,
+        "word": "男子离开编制后父母觉得天塌了",
+        "onboard_time": 1697005113,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164830,
+        "num": 164830,
+        "word": "张远质疑陆虎理解陆虎成为陆虎",
+        "onboard_time": 1697001873,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162249,
+        "num": 162249,
+        "word": "关晓彤三句不离喝点",
+        "onboard_time": 1696993055,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153415,
+        "num": 153415,
+        "word": "我恋5男嘉宾自认为和清华女霸总很配",
+        "onboard_time": 1697000619,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152407,
+        "num": 152407,
+        "word": "自热米饭里的大米是真大米吗",
+        "onboard_time": 1696998941,
+        "rank": 47,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 149149,
+        "num": 149149,
+        "word": "朴灿烈 抢票",
+        "onboard_time": 1696994134,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148521,
+        "num": 148521,
+        "word": "肖战用画笔勾勒梦想",
+        "onboard_time": 1696995876,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路白皮书#"
+    }
+  }
+}
