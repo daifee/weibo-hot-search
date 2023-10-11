@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1696991666464,
+  "endTime": 1696994270990,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -489,6 +489,14 @@
       "onboard_time": 1696741300,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2653720,
+      "num": 2653720,
+      "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+      "onboard_time": 1696992098,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2580234,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1696916856,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1969173,
+      "num": 1969173,
+      "word": "王牌8官宣阵容",
+      "onboard_time": 1696992631,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1954001,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1696158275,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1390213,
+      "num": 1390213,
+      "word": "iPhone被曝夜间自动关机",
+      "onboard_time": 1696989813,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 1378166,
@@ -4379,6 +4403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 829544,
+      "num": 829544,
+      "word": "网友看部剧救了自己的命",
+      "onboard_time": 1696987237,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 829439,
       "num": 829439,
       "word": "献鱼",
@@ -4737,14 +4769,6 @@
       "onboard_time": 1696407575,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 791163,
-      "num": 791163,
-      "word": "网友看部剧救了自己的命",
-      "onboard_time": 1696987237,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 790934,
@@ -5481,6 +5505,14 @@
       "onboard_time": 1696223070,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 707323,
+      "num": 707323,
+      "word": "在新加坡对护士爆粗口被调查",
+      "onboard_time": 1696989872,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 706473,
@@ -6971,6 +7003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 591331,
+      "num": 591331,
+      "word": "王牌8没贾玲",
+      "onboard_time": 1696993595,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 590699,
       "num": 590699,
       "word": "陈飞宇说魏大勋第一场戏紧张到疯狂喝水",
@@ -7347,6 +7387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563586,
+      "num": 563586,
+      "word": "国考",
+      "onboard_time": 1696992333,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 562744,
       "num": 562744,
       "word": "杨鸣担任辽宁益胜总裁兼总教练",
@@ -7449,6 +7497,14 @@
       "onboard_time": 1696586617,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 555193,
+      "num": 555193,
+      "word": "联合国宣布调查巴以冲突中的战争罪行",
+      "onboard_time": 1696989572,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 554324,
@@ -8193,6 +8249,14 @@
       "onboard_time": 1696139612,
       "rank": 16,
       "category": "情感,艺人"
+    },
+    {
+      "raw_hot": 509570,
+      "num": 509570,
+      "word": "一生不被允许gap的中国人",
+      "onboard_time": 1696993297,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 508848,
@@ -8963,14 +9027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 471846,
-      "num": 471846,
-      "word": "iPhone被曝夜间自动关机",
-      "onboard_time": 1696989813,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 471740,
       "num": 471740,
       "word": "我恋5最窒息男嘉宾恋爱了",
@@ -9275,14 +9331,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 456586,
-      "num": 376135,
-      "word": "联合国宣布调查巴以冲突中的战争罪行",
-      "onboard_time": 1696989572,
-      "rank": 15,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 456526,
       "num": 456526,
       "word": "金鸡奖",
@@ -9481,6 +9529,14 @@
       "onboard_time": 1696402356,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 448926,
+      "num": 448926,
+      "word": "关晓彤三句不离喝点",
+      "onboard_time": 1696993055,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 448600,
@@ -11443,14 +11499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369483,
-      "num": 369483,
-      "word": "在新加坡对护士爆粗口被调查",
-      "onboard_time": 1696989872,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 369326,
       "num": 369326,
       "word": "大宋提刑官时影角色适配度",
@@ -12795,6 +12843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334016,
+      "num": 334016,
+      "word": "莎头 连轴转",
+      "onboard_time": 1696993055,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333861,
       "num": 333861,
       "word": "室友要在寝室养病",
@@ -13841,6 +13897,14 @@
       "onboard_time": 1696166437,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304427,
+      "num": 304427,
+      "word": "王牌8好友季官宣",
+      "onboard_time": 1696993415,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 304376,
@@ -18611,6 +18675,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 228223,
+      "num": 228223,
+      "word": "景甜不敢和父母乱发牢骚",
+      "onboard_time": 1696991612,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228206,
+      "num": 228206,
+      "word": "马斯克写信威胁海王2留下艾梅柏",
+      "onboard_time": 1696991612,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 228181,
       "num": 228181,
       "word": "不小心把大哥穿的衣服翻译了",
@@ -18713,6 +18793,14 @@
       "onboard_time": 1696332155,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 226771,
+      "num": 226771,
+      "word": "老乡鸡 卡了",
+      "onboard_time": 1696991854,
+      "rank": 29,
+      "category": "互联网"
     },
     {
       "raw_hot": 226560,
@@ -19419,6 +19507,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 218302,
+      "num": 218302,
+      "word": "林高远王曼昱晋级混双八强",
+      "onboard_time": 1696992996,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218229,
       "num": 203547,
       "word": "女子十一假期结婚花500元租伴娘",
@@ -19755,6 +19851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213456,
+      "num": 213456,
+      "word": "妈妈爱小狗但妈妈更爱我",
+      "onboard_time": 1696991854,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 213434,
       "num": 213434,
       "word": "侯明昊 男生秋冬穿搭模版",
@@ -19937,6 +20041,14 @@
       "onboard_time": 1696142614,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210778,
+      "num": 210778,
+      "word": "以色列正准备在加沙开展数月地面攻势",
+      "onboard_time": 1696993595,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 210772,
@@ -20601,6 +20713,14 @@
       "onboard_time": 1696321892,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204553,
+      "num": 204553,
+      "word": "aespa人鱼公主风造型",
+      "onboard_time": 1696991854,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 204443,
@@ -21691,14 +21811,6 @@
       "category": "社会新闻,音乐"
     },
     {
-      "raw_hot": 194660,
-      "num": 194660,
-      "word": "马斯克写信威胁海王2留下艾梅柏",
-      "onboard_time": 1696991612,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 194604,
       "num": 194604,
       "word": "国庆别走",
@@ -22681,6 +22793,14 @@
       "onboard_time": 1696919375,
       "rank": 35,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 185378,
+      "num": 185378,
+      "word": "全锦赛混双",
+      "onboard_time": 1696992755,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 185312,
@@ -24145,6 +24265,14 @@
       "onboard_time": 1696131451,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 168001,
+      "num": 168001,
+      "word": "朴灿烈 抢票",
+      "onboard_time": 1696994134,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 167613,
@@ -27227,14 +27355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112898,
-      "num": 112898,
-      "word": "景甜不敢和父母乱发牢骚",
-      "onboard_time": 1696991612,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112862,
       "num": 112862,
       "word": "崔胜澈预告照",
@@ -27540,7 +27660,7 @@
     },
     {
       "raw_hot": 98333,
-      "num": 1095186,
+      "num": 1633077,
       "word": "全国网络普法行四川站",
       "onboard_time": 1696991073,
       "rank": 2,

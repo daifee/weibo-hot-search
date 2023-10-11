@@ -1,0 +1,410 @@
+{
+  "runTime": 1696994270990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2653720,
+        "num": 2653720,
+        "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+        "onboard_time": 1696992098,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1969173,
+        "num": 1969173,
+        "word": "王牌8官宣阵容",
+        "onboard_time": 1696992631,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62615,
+        "num": 1633077,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1390213,
+        "num": 1390213,
+        "word": "iPhone被曝夜间自动关机",
+        "onboard_time": 1696989813,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1257206,
+        "num": 1257206,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 867092,
+        "num": 867092,
+        "word": "关晓彤爆王牌对王牌游戏内幕",
+        "onboard_time": 1696985378,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 829544,
+        "num": 829544,
+        "word": "网友看部剧救了自己的命",
+        "onboard_time": 1696987237,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 707323,
+        "num": 707323,
+        "word": "在新加坡对护士爆粗口被调查",
+        "onboard_time": 1696989872,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 591331,
+        "num": 591331,
+        "word": "王牌8没贾玲",
+        "onboard_time": 1696993595,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563586,
+        "num": 563586,
+        "word": "国考",
+        "onboard_time": 1696992333,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 555193,
+        "num": 555193,
+        "word": "联合国宣布调查巴以冲突中的战争罪行",
+        "onboard_time": 1696989572,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 509570,
+        "num": 509570,
+        "word": "一生不被允许gap的中国人",
+        "onboard_time": 1696993297,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 501043,
+        "num": 501043,
+        "word": "女生经期不建议吃的六种水果",
+        "onboard_time": 1696980691,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 458394,
+        "num": 458394,
+        "word": "撒贝宁的原名",
+        "onboard_time": 1696980449,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448926,
+        "num": 448926,
+        "word": "关晓彤三句不离喝点",
+        "onboard_time": 1696993055,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 424451,
+        "num": 424451,
+        "word": "新冠",
+        "onboard_time": 1696945299,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1248658,
+        "num": 420225,
+        "word": "北极鲶鱼的恨国论也该严查",
+        "onboard_time": 1696986276,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371158,
+        "num": 371158,
+        "word": "恋5窒息男嘉宾被狠狠拿捏",
+        "onboard_time": 1696990897,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361244,
+        "num": 361244,
+        "word": "秋天是养头发的最好时机",
+        "onboard_time": 1696988252,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 334016,
+        "num": 334016,
+        "word": "莎头 连轴转",
+        "onboard_time": 1696993055,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1004908,
+        "num": 326380,
+        "word": "官方回应北极鲶鱼爷爷处罚过轻质疑",
+        "onboard_time": 1696983702,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539190,
+        "num": 320135,
+        "word": "每坐1小时平均寿命缩短22分钟",
+        "onboard_time": 1696987357,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 304427,
+        "num": 304427,
+        "word": "王牌8好友季官宣",
+        "onboard_time": 1696993415,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302285,
+        "num": 302285,
+        "word": "男子创业7次成功后劝年轻人别创业",
+        "onboard_time": 1696987237,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258387,
+        "num": 258387,
+        "word": "朴炯植瘦回颜巅了",
+        "onboard_time": 1696987654,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 255512,
+        "num": 255512,
+        "word": "冲突已致巴以双方超2100人死亡",
+        "onboard_time": 1696987056,
+        "rank": 25,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 234756,
+        "num": 234756,
+        "word": "美福特号航母已抵达地中海东部",
+        "onboard_time": 1696989755,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 228223,
+        "num": 228223,
+        "word": "景甜不敢和父母乱发牢骚",
+        "onboard_time": 1696991612,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228206,
+        "num": 228206,
+        "word": "马斯克写信威胁海王2留下艾梅柏",
+        "onboard_time": 1696991612,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226771,
+        "num": 226771,
+        "word": "老乡鸡 卡了",
+        "onboard_time": 1696991854,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 226532,
+        "num": 226532,
+        "word": "iPhone平均寿命将达8年",
+        "onboard_time": 1696985678,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220864,
+        "num": 220864,
+        "word": "夸克占用了我900多G的内存",
+        "onboard_time": 1696980629,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218796,
+        "num": 218796,
+        "word": "新华社称退休不是护身符",
+        "onboard_time": 1696947580,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218302,
+        "num": 218302,
+        "word": "林高远王曼昱晋级混双八强",
+        "onboard_time": 1696992996,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 213456,
+        "num": 213456,
+        "word": "妈妈爱小狗但妈妈更爱我",
+        "onboard_time": 1696991854,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 210778,
+        "num": 210778,
+        "word": "以色列正准备在加沙开展数月地面攻势",
+        "onboard_time": 1696993595,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 210155,
+        "num": 210155,
+        "word": "导演叫停后朱一龙仍沉浸角色",
+        "onboard_time": 1696982075,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170724,
+        "num": 204991,
+        "word": "洗脸巾你买对了吗",
+        "onboard_time": 1696990772,
+        "rank": 37,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 204737,
+        "num": 204737,
+        "word": "外媒称以色列已列出报复名单",
+        "onboard_time": 1696986158,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204553,
+        "num": 204553,
+        "word": "aespa人鱼公主风造型",
+        "onboard_time": 1696991854,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185378,
+        "num": 185378,
+        "word": "全锦赛混双",
+        "onboard_time": 1696992755,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168001,
+        "num": 168001,
+        "word": "朴灿烈 抢票",
+        "onboard_time": 1696994134,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157747,
+        "num": 157747,
+        "word": "很喜欢但不敢发朋友圈的照片",
+        "onboard_time": 1696981172,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 151826,
+        "num": 151826,
+        "word": "女生打卡十几个博物馆复原50套汉服",
+        "onboard_time": 1696991012,
+        "rank": 43,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 150491,
+        "num": 150491,
+        "word": "王牌对王牌",
+        "onboard_time": 1696990352,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139786,
+        "num": 139786,
+        "word": "行李箱发现了妈妈剥好的柚子",
+        "onboard_time": 1696987838,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136978,
+        "num": 136978,
+        "word": "疑似seventeen新专剧透",
+        "onboard_time": 1696987415,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 136783,
+        "num": 136783,
+        "word": "时代少年团到达上海",
+        "onboard_time": 1696989036,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136184,
+        "num": 136184,
+        "word": "终于把五险一金弄懂了",
+        "onboard_time": 1696984359,
+        "rank": 48,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 120581,
+        "num": 120581,
+        "word": "大姐警惕性太高接到陌生电话见招拆招",
+        "onboard_time": 1696991433,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路白皮书#"
+    }
+  }
+}

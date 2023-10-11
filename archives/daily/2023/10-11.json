@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696991666464,
+  "endTime": 1696994270990,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -9,6 +9,14 @@
       "onboard_time": 1696945299,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2653720,
+      "num": 2653720,
+      "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+      "onboard_time": 1696992098,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2573970,
@@ -43,6 +51,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1969173,
+      "num": 1969173,
+      "word": "王牌8官宣阵容",
+      "onboard_time": 1696992631,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1724661,
       "num": 1724661,
       "word": "晚上十一点之前尽量入睡",
@@ -75,6 +91,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1390213,
+      "num": 1390213,
+      "word": "iPhone被曝夜间自动关机",
+      "onboard_time": 1696989813,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1119546,
       "num": 501342,
       "word": "本轮巴以冲突已致双方2100余人死亡",
@@ -99,6 +123,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 829544,
+      "num": 829544,
+      "word": "网友看部剧救了自己的命",
+      "onboard_time": 1696987237,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 813780,
       "num": 813780,
       "word": "网传一中学运动会表演刺杀安倍",
@@ -107,19 +139,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 791163,
-      "num": 791163,
-      "word": "网友看部剧救了自己的命",
-      "onboard_time": 1696987237,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 743556,
       "num": 345664,
       "word": "华北理工食堂被曝吃出鼠头",
       "onboard_time": 1696948837,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 707323,
+      "num": 707323,
+      "word": "在新加坡对护士爆粗口被调查",
+      "onboard_time": 1696989872,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -179,6 +211,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 591331,
+      "num": 591331,
+      "word": "王牌8没贾玲",
+      "onboard_time": 1696993595,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 589446,
       "num": 589446,
       "word": "动车卫生间里居然长了眼",
@@ -201,6 +241,22 @@
       "onboard_time": 1696984359,
       "rank": 14,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 563586,
+      "num": 563586,
+      "word": "国考",
+      "onboard_time": 1696992333,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 555193,
+      "num": 555193,
+      "word": "联合国宣布调查巴以冲突中的战争罪行",
+      "onboard_time": 1696989572,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 546830,
@@ -227,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 509570,
+      "num": 509570,
+      "word": "一生不被允许gap的中国人",
+      "onboard_time": 1696993297,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 499779,
       "num": 499779,
       "word": "秋天是养头发的最好时机",
@@ -243,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 471846,
-      "num": 471846,
-      "word": "iPhone被曝夜间自动关机",
-      "onboard_time": 1696989813,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 465068,
       "num": 465068,
       "word": "外媒称以色列已列出报复名单",
@@ -259,12 +315,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 456586,
-      "num": 376135,
-      "word": "联合国宣布调查巴以冲突中的战争罪行",
-      "onboard_time": 1696989572,
-      "rank": 15,
-      "category": "国外要闻"
+      "raw_hot": 448926,
+      "num": 448926,
+      "word": "关晓彤三句不离喝点",
+      "onboard_time": 1696993055,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 423733,
@@ -323,14 +379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 369483,
-      "num": 369483,
-      "word": "在新加坡对护士爆粗口被调查",
-      "onboard_time": 1696989872,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 365848,
       "num": 365848,
       "word": "巴以冲突已致近1700人死亡",
@@ -371,6 +419,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 334016,
+      "num": 334016,
+      "word": "莎头 连轴转",
+      "onboard_time": 1696993055,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327036,
       "num": 327036,
       "word": "iOS17.1将修复iPhone12辐射问题",
@@ -401,6 +457,14 @@
       "onboard_time": 1696980391,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 304427,
+      "num": 304427,
+      "word": "王牌8好友季官宣",
+      "onboard_time": 1696993415,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 300786,
@@ -555,6 +619,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 228223,
+      "num": 228223,
+      "word": "景甜不敢和父母乱发牢骚",
+      "onboard_time": 1696991612,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228206,
+      "num": 228206,
+      "word": "马斯克写信威胁海王2留下艾梅柏",
+      "onboard_time": 1696991612,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 226771,
+      "num": 226771,
+      "word": "老乡鸡 卡了",
+      "onboard_time": 1696991854,
+      "rank": 29,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 222552,
       "num": 222552,
       "word": "檀健次让我感受到了偶像的力量",
@@ -579,12 +667,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 218302,
+      "num": 218302,
+      "word": "林高远王曼昱晋级混双八强",
+      "onboard_time": 1696992996,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213456,
+      "num": 213456,
+      "word": "妈妈爱小狗但妈妈更爱我",
+      "onboard_time": 1696991854,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212174,
       "num": 212174,
       "word": "9月新增本土新冠死亡病例45例",
       "onboard_time": 1696940136,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210778,
+      "num": 210778,
+      "word": "以色列正准备在加沙开展数月地面攻势",
+      "onboard_time": 1696993595,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 209980,
@@ -635,20 +747,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204553,
+      "num": 204553,
+      "word": "aespa人鱼公主风造型",
+      "onboard_time": 1696991854,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 200461,
       "num": 157458,
       "word": "好羡慕能带薪发疯的工作",
       "onboard_time": 1696954891,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 194660,
-      "num": 194660,
-      "word": "马斯克写信威胁海王2留下艾梅柏",
-      "onboard_time": 1696991612,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 194213,
@@ -691,6 +803,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 185378,
+      "num": 185378,
+      "word": "全锦赛混双",
+      "onboard_time": 1696992755,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182624,
       "num": 182624,
       "word": "星穹铁道",
@@ -729,6 +849,14 @@
       "onboard_time": 1696949200,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168001,
+      "num": 168001,
+      "word": "朴灿烈 抢票",
+      "onboard_time": 1696994134,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 165632,
@@ -899,14 +1027,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 112898,
-      "num": 112898,
-      "word": "景甜不敢和父母乱发牢骚",
-      "onboard_time": 1696991612,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112862,
       "num": 112862,
       "word": "崔胜澈预告照",
@@ -964,7 +1084,7 @@
     },
     {
       "raw_hot": 98333,
-      "num": 1095186,
+      "num": 1633077,
       "word": "全国网络普法行四川站",
       "onboard_time": 1696991073,
       "rank": 2,
