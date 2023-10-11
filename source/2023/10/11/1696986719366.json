@@ -1,0 +1,410 @@
+{
+  "runTime": 1696986719366,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2125341,
+        "num": 2125341,
+        "word": "女生经期不建议吃的六种水果",
+        "onboard_time": 1696980691,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1743778,
+        "num": 1743778,
+        "word": "关晓彤爆王牌对王牌游戏内幕",
+        "onboard_time": 1696985378,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44741,
+        "num": 1657297,
+        "word": "杭州亚运会微纪录片登场",
+        "onboard_time": 1696948781,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1580674,
+        "num": 1580674,
+        "word": "撒贝宁的原名",
+        "onboard_time": 1696980449,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1420364,
+        "num": 1420364,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 684155,
+        "num": 684155,
+        "word": "iPhone平均寿命将达8年",
+        "onboard_time": 1696985678,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 595541,
+        "num": 595541,
+        "word": "晚上十一点之前尽量入睡",
+        "onboard_time": 1696940136,
+        "rank": 6,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 546830,
+        "num": 546830,
+        "word": "很喜欢但不敢发朋友圈的照片",
+        "onboard_time": 1696981172,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 482661,
+        "num": 543956,
+        "word": "韩国不满杭州亚运会表现",
+        "onboard_time": 1696946498,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 480484,
+        "num": 542611,
+        "word": "何明树李兵李荣强同志被评定为烈士",
+        "onboard_time": 1696981412,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2573970,
+        "num": 537545,
+        "word": "官方回应北极鲶鱼爷爷处罚过轻质疑",
+        "onboard_time": 1696983702,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1099972,
+        "num": 535690,
+        "word": "新冠",
+        "onboard_time": 1696945299,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679973,
+        "num": 533440,
+        "word": "夸克占用了我900多G的内存",
+        "onboard_time": 1696980629,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 578734,
+        "num": 530409,
+        "word": "北极鲶鱼究竟是什么鱼",
+        "onboard_time": 1696981714,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569362,
+        "num": 525312,
+        "word": "终于把五险一金弄懂了",
+        "onboard_time": 1696984359,
+        "rank": 14,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 524607,
+        "num": 524607,
+        "word": "长期摆烂后如何恢复自律",
+        "onboard_time": 1696980871,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521044,
+        "num": 521044,
+        "word": "新华社称退休不是护身符",
+        "onboard_time": 1696947580,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399291,
+        "num": 399291,
+        "word": "频繁发朋友圈被说是显眼包",
+        "onboard_time": 1696980268,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351268,
+        "num": 351268,
+        "word": "黄景瑜全国分瑜",
+        "onboard_time": 1696984598,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335161,
+        "num": 335161,
+        "word": "巴以冲突已超1900人死亡",
+        "onboard_time": 1696985977,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 327036,
+        "num": 327036,
+        "word": "iOS17.1将修复iPhone12辐射问题",
+        "onboard_time": 1696982375,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 308205,
+        "num": 308205,
+        "word": "韩国退伍炊事兵爱上中国菜了",
+        "onboard_time": 1696980391,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 297351,
+        "num": 297351,
+        "word": "魏大勋收到孟宴臣生日邀请函",
+        "onboard_time": 1696986515,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282322,
+        "num": 282322,
+        "word": "丈夫出轨妻子将小三扒光游街获刑",
+        "onboard_time": 1696914702,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279396,
+        "num": 279396,
+        "word": "杨幂看见猫就走不动路",
+        "onboard_time": 1696982013,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 275882,
+        "num": 275882,
+        "word": "北极鲶鱼的恨国论也该严查",
+        "onboard_time": 1696986276,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 275626,
+        "num": 275626,
+        "word": "导演叫停后朱一龙仍沉浸角色",
+        "onboard_time": 1696982075,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272295,
+        "num": 272295,
+        "word": "微信好友1000个什么水平",
+        "onboard_time": 1696982315,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 256080,
+        "num": 256080,
+        "word": "占美人口3%犹太人操纵七成美国财富",
+        "onboard_time": 1696949438,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 251919,
+        "num": 251919,
+        "word": "国际女童日",
+        "onboard_time": 1696986276,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245091,
+        "num": 245091,
+        "word": "傅首尔体验当民政局调解员",
+        "onboard_time": 1696985078,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233753,
+        "num": 233753,
+        "word": "订婚结束新娘家人将彩礼还给新郎",
+        "onboard_time": 1696949259,
+        "rank": 31,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 221703,
+        "num": 221703,
+        "word": "熊猫头顶两只超萌米奇朵朵",
+        "onboard_time": 1696985856,
+        "rank": 32,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 220516,
+        "num": 220516,
+        "word": "张小斐新片尺度",
+        "onboard_time": 1696936239,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212657,
+        "num": 212657,
+        "word": "外媒称以色列已列出报复名单",
+        "onboard_time": 1696986158,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 208563,
+        "num": 208563,
+        "word": "受伤丹顶鹤被女子照顾每天准时到访",
+        "onboard_time": 1696981773,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206507,
+        "num": 206507,
+        "word": "动车卫生间里居然长了眼",
+        "onboard_time": 1696943797,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194213,
+        "num": 194213,
+        "word": "九章三号求解特定问题比超算快1亿亿倍",
+        "onboard_time": 1696986103,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192034,
+        "num": 192034,
+        "word": "华北理工食堂被曝吃出鼠头",
+        "onboard_time": 1696948837,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187238,
+        "num": 187238,
+        "word": "对经常点赞的人有莫名的好感",
+        "onboard_time": 1696982499,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186651,
+        "num": 186651,
+        "word": "上海4岁女童失踪海滩入口已封闭",
+        "onboard_time": 1696950941,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182624,
+        "num": 182624,
+        "word": "星穹铁道",
+        "onboard_time": 1696986635,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182123,
+        "num": 182123,
+        "word": "鹿晗张艺兴共享衣橱",
+        "onboard_time": 1696943678,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174500,
+        "num": 174500,
+        "word": "没事别扒拉小猫咪",
+        "onboard_time": 1696985137,
+        "rank": 43,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 169729,
+        "num": 169729,
+        "word": "家人嫌我买的多巴胺公园凳丑",
+        "onboard_time": 1696945478,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165954,
+        "num": 165954,
+        "word": "9月新增本土新冠死亡病例45例",
+        "onboard_time": 1696940136,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163841,
+        "num": 163841,
+        "word": "虞书欣永夜星河粉衣路透",
+        "onboard_time": 1696985739,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163529,
+        "num": 163529,
+        "word": "52岁瞿颖走秀状态",
+        "onboard_time": 1696951538,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163431,
+        "num": 163431,
+        "word": "檀健次让我感受到了偶像的力量",
+        "onboard_time": 1696978945,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162601,
+        "num": 162601,
+        "word": "为什么体制内的人很少发朋友圈",
+        "onboard_time": 1696943378,
+        "rank": 49,
+        "category": "其它"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路走过10年#"
+    }
+  }
+}

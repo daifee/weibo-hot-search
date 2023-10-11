@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696980860397,
+  "endTime": 1696986719366,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -155,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2573970,
+      "num": 537545,
+      "word": "官方回应北极鲶鱼爷爷处罚过轻质疑",
+      "onboard_time": 1696983702,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2529963,
       "num": 2529963,
       "word": "江歌妈妈已成立传媒公司",
@@ -249,6 +257,14 @@
       "onboard_time": 1696948837,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2125341,
+      "num": 2125341,
+      "word": "女生经期不建议吃的六种水果",
+      "onboard_time": 1696980691,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2093961,
@@ -475,6 +491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1743778,
+      "num": 1743778,
+      "word": "关晓彤爆王牌对王牌游戏内幕",
+      "onboard_time": 1696985378,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1723902,
       "num": 673060,
       "word": "失踪女童父亲称返回时被石头割伤脚趾",
@@ -555,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1580674,
+      "num": 1580674,
+      "word": "撒贝宁的原名",
+      "onboard_time": 1696980449,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1552038,
       "num": 387297,
       "word": "丈夫出轨妻子将小三扒光游街获刑",
@@ -601,6 +633,14 @@
       "onboard_time": 1696743695,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1420364,
+      "num": 1420364,
+      "word": "社保卡一定要记得激活",
+      "onboard_time": 1696984240,
+      "rank": 4,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1417695,
@@ -1555,6 +1595,22 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 684155,
+      "num": 684155,
+      "word": "iPhone平均寿命将达8年",
+      "onboard_time": 1696985678,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 679973,
+      "num": 533440,
+      "word": "夸克占用了我900多G的内存",
+      "onboard_time": 1696980629,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 679163,
       "num": 438266,
       "word": "埃及一警察向以色列旅游团开枪造成至少3人死亡",
@@ -1971,6 +2027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578734,
+      "num": 530409,
+      "word": "北极鲶鱼究竟是什么鱼",
+      "onboard_time": 1696981714,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 577351,
       "num": 577351,
       "word": "母女驾车看外婆回时冲入水塘溺亡",
@@ -1993,6 +2057,14 @@
       "onboard_time": 1696818032,
       "rank": 32,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 569362,
+      "num": 525312,
+      "word": "终于把五险一金弄懂了",
+      "onboard_time": 1696984359,
+      "rank": 14,
+      "category": "知识科普"
     },
     {
       "raw_hot": 569280,
@@ -2081,6 +2153,14 @@
       "onboard_time": 1696824821,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 546830,
+      "num": 546830,
+      "word": "很喜欢但不敢发朋友圈的照片",
+      "onboard_time": 1696981172,
+      "rank": 7,
+      "category": "情感"
     },
     {
       "raw_hot": 543299,
@@ -2217,6 +2297,14 @@
       "onboard_time": 1696910623,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524607,
+      "num": 524607,
+      "word": "长期摆烂后如何恢复自律",
+      "onboard_time": 1696980871,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 524412,
@@ -2489,6 +2577,14 @@
       "onboard_time": 1696814556,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 480484,
+      "num": 542611,
+      "word": "何明树李兵李荣强同志被评定为烈士",
+      "onboard_time": 1696981412,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479522,
@@ -2979,14 +3075,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 412690,
-      "num": 282416,
-      "word": "夸克占用了我900多G的内存",
-      "onboard_time": 1696980629,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 409240,
       "num": 409240,
       "word": "TTG对阵eStar",
@@ -3041,6 +3129,14 @@
       "onboard_time": 1696751015,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 399291,
+      "num": 399291,
+      "word": "频繁发朋友圈被说是显眼包",
+      "onboard_time": 1696980268,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 398025,
@@ -3515,6 +3611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 351268,
+      "num": 351268,
+      "word": "黄景瑜全国分瑜",
+      "onboard_time": 1696984598,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 350855,
       "num": 350855,
       "word": "警方回应黄石当街发生锤人致死事件",
@@ -3699,6 +3803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 335161,
+      "num": 335161,
+      "word": "巴以冲突已超1900人死亡",
+      "onboard_time": 1696985977,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 335153,
       "num": 335153,
       "word": "爱榴莲和爱牛肉的都沉默了",
@@ -3785,6 +3897,14 @@
       "onboard_time": 1696742436,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 327036,
+      "num": 327036,
+      "word": "iOS17.1将修复iPhone12辐射问题",
+      "onboard_time": 1696982375,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 326136,
@@ -4003,6 +4123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308205,
+      "num": 308205,
+      "word": "韩国退伍炊事兵爱上中国菜了",
+      "onboard_time": 1696980391,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 308064,
       "num": 280835,
       "word": "于文文在芒果上签名",
@@ -4161,6 +4289,14 @@
       "onboard_time": 1696932453,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 297351,
+      "num": 297351,
+      "word": "魏大勋收到孟宴臣生日邀请函",
+      "onboard_time": 1696986515,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 296325,
@@ -4451,6 +4587,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 279396,
+      "num": 279396,
+      "word": "杨幂看见猫就走不动路",
+      "onboard_time": 1696982013,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 279195,
       "num": 279195,
       "word": "令人心动的offer",
@@ -4505,6 +4649,22 @@
       "onboard_time": 1696897413,
       "rank": 29,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 275882,
+      "num": 275882,
+      "word": "北极鲶鱼的恨国论也该严查",
+      "onboard_time": 1696986276,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 275626,
+      "num": 275626,
+      "word": "导演叫停后朱一龙仍沉浸角色",
+      "onboard_time": 1696982075,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 275306,
@@ -4585,6 +4745,14 @@
       "onboard_time": 1696935038,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 272295,
+      "num": 272295,
+      "word": "微信好友1000个什么水平",
+      "onboard_time": 1696982315,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 271956,
@@ -5043,6 +5211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 251919,
+      "num": 251919,
+      "word": "国际女童日",
+      "onboard_time": 1696986276,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 251858,
       "num": 251858,
       "word": "孙颖莎亮相闭幕式短片",
@@ -5219,6 +5395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245091,
+      "num": 245091,
+      "word": "傅首尔体验当民政局调解员",
+      "onboard_time": 1696985078,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245009,
       "num": 245009,
       "word": "小时候看居然没觉得哪里不对",
@@ -5337,14 +5521,6 @@
       "onboard_time": 1696915360,
       "rank": 33,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 239502,
-      "num": 140088,
-      "word": "频繁发朋友圈被说是显眼包",
-      "onboard_time": 1696980268,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 239188,
@@ -5763,14 +5939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 222655,
-      "num": 135926,
-      "word": "韩国退伍炊事兵爱上中国菜了",
-      "onboard_time": 1696980391,
-      "rank": 31,
-      "category": "美食"
-    },
-    {
       "raw_hot": 222552,
       "num": 222552,
       "word": "檀健次让我感受到了偶像的力量",
@@ -5801,6 +5969,14 @@
       "onboard_time": 1696829017,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221703,
+      "num": 221703,
+      "word": "熊猫头顶两只超萌米奇朵朵",
+      "onboard_time": 1696985856,
+      "rank": 32,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 221470,
@@ -6027,6 +6203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212657,
+      "num": 212657,
+      "word": "外媒称以色列已列出报复名单",
+      "onboard_time": 1696986158,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 211430,
       "num": 211430,
       "word": "谭松韵的眼泪像断线的珍珠",
@@ -6113,6 +6297,14 @@
       "onboard_time": 1696938093,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208563,
+      "num": 208563,
+      "word": "受伤丹顶鹤被女子照顾每天准时到访",
+      "onboard_time": 1696981773,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 208538,
@@ -6659,6 +6851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194213,
+      "num": 194213,
+      "word": "九章三号求解特定问题比超算快1亿亿倍",
+      "onboard_time": 1696986103,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194039,
       "num": 194039,
       "word": "78岁姥爷爬墙为28岁孙女摘柿子",
@@ -6883,6 +7083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187238,
+      "num": 187238,
+      "word": "对经常点赞的人有莫名的好感",
+      "onboard_time": 1696982499,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187082,
       "num": 187082,
       "word": "布兰妮父亲患重病入院",
@@ -7025,6 +7233,14 @@
       "onboard_time": 1696905933,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182624,
+      "num": 182624,
+      "word": "星穹铁道",
+      "onboard_time": 1696986635,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 182330,
@@ -7233,6 +7449,14 @@
       "onboard_time": 1696784903,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 174500,
+      "num": 174500,
+      "word": "没事别扒拉小猫咪",
+      "onboard_time": 1696985137,
+      "rank": 43,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 173681,
@@ -7523,6 +7747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163841,
+      "num": 163841,
+      "word": "虞书欣永夜星河粉衣路透",
+      "onboard_time": 1696985739,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163477,
       "num": 163477,
       "word": "国足半场0比0越南",
@@ -7659,14 +7891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158882,
-      "num": 158882,
-      "word": "撒贝宁的原名",
-      "onboard_time": 1696980449,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 158820,
       "num": 117507,
       "word": "安洗莹让陈雨菲展示我姓石",
@@ -7793,14 +8017,6 @@
       "onboard_time": 1696893868,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 153158,
-      "num": 134976,
-      "word": "女生经期不建议吃的六种水果",
-      "onboard_time": 1696980691,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 152192,
