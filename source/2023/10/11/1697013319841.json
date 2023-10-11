@@ -1,0 +1,410 @@
+{
+  "runTime": 1697013319841,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5557870,
+        "num": 5557870,
+        "word": "成蕾被驱逐出境",
+        "onboard_time": 1697010096,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1172294,
+        "num": 1172294,
+        "word": "男子离开编制后父母觉得天塌了",
+        "onboard_time": 1697005113,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31524,
+        "num": 1107409,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1071419,
+        "num": 1071419,
+        "word": "中国马术队巴黎奥运会参赛资格被取消",
+        "onboard_time": 1697011956,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 827537,
+        "num": 827537,
+        "word": "华天马匹兴奋剂检测阳性",
+        "onboard_time": 1697011895,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 756201,
+        "num": 756201,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 666109,
+        "num": 666109,
+        "word": "海底捞回应顾客用锅底煮中药",
+        "onboard_time": 1697009312,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596065,
+        "num": 596065,
+        "word": "投资人爆料韩寒因餐厅亏损上亿",
+        "onboard_time": 1697006673,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 559671,
+        "num": 559671,
+        "word": "内娱走出国门的美貌",
+        "onboard_time": 1697010334,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539258,
+        "num": 539258,
+        "word": "大乔新皮肤",
+        "onboard_time": 1697010814,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 537586,
+        "num": 537586,
+        "word": "95后女模特为男友增肥69斤后被抛弃",
+        "onboard_time": 1696997859,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479511,
+        "num": 479511,
+        "word": "女儿获国奖父亲苦恼发不了朋友圈",
+        "onboard_time": 1697011235,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468796,
+        "num": 468796,
+        "word": "碧桂园",
+        "onboard_time": 1697003195,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 454112,
+        "num": 454112,
+        "word": "原来微信可以锁屏录音",
+        "onboard_time": 1697011174,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 385382,
+        "num": 385382,
+        "word": "放羊的星星花絮",
+        "onboard_time": 1697008113,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378411,
+        "num": 378411,
+        "word": "王嘉尔巡演官宣",
+        "onboard_time": 1697010096,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 361511,
+        "num": 361511,
+        "word": "大学生日薪1000元其实被卖到缅甸",
+        "onboard_time": 1697011235,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337531,
+        "num": 337531,
+        "word": "巴以冲突升级",
+        "onboard_time": 1697002416,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 309207,
+        "num": 309207,
+        "word": "对女孩子早期性教育有多重要",
+        "onboard_time": 1697011295,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288849,
+        "num": 288849,
+        "word": "作者七月新番去世",
+        "onboard_time": 1696999060,
+        "rank": 19,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 959749,
+        "num": 287960,
+        "word": "吴昕父母敲了4次门在门外待了6个小时",
+        "onboard_time": 1697011415,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513906,
+        "num": 261918,
+        "word": "北极鲶鱼哪来的安全感",
+        "onboard_time": 1697012135,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348449,
+        "num": 246371,
+        "word": "突然感觉洗衣粉比洗衣液好用",
+        "onboard_time": 1697011235,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300478,
+        "num": 225428,
+        "word": "对眼睛很友好的明星",
+        "onboard_time": 1697012616,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214907,
+        "num": 214907,
+        "word": "闺蜜之间的聊天记录有多野",
+        "onboard_time": 1697011174,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213728,
+        "num": 213728,
+        "word": "中国网民叫新加坡坡县引发争议",
+        "onboard_time": 1697003133,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213326,
+        "num": 213326,
+        "word": "一生不被允许gap的中国人",
+        "onboard_time": 1696993297,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205338,
+        "num": 205338,
+        "word": "张钧甯阮经天 16年前16年后",
+        "onboard_time": 1696996657,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199897,
+        "num": 199897,
+        "word": "SEVENTEEN大赏含金量",
+        "onboard_time": 1697009673,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 197365,
+        "num": 197365,
+        "word": "女子为照顾瘫痪父亲37岁未嫁人",
+        "onboard_time": 1697013157,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229715,
+        "num": 197361,
+        "word": "vivo回应员工遭印度逮捕",
+        "onboard_time": 1697009615,
+        "rank": 30,
+        "category": "互联网,社会新闻"
+      },
+      {
+        "raw_hot": 196813,
+        "num": 196813,
+        "word": "印度室友给我治疗感冒的食材",
+        "onboard_time": 1697012376,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196556,
+        "num": 196556,
+        "word": "王牌8官宣阵容",
+        "onboard_time": 1696992631,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192266,
+        "num": 192266,
+        "word": "老婆怀不上问题竟出在老公的工作上",
+        "onboard_time": 1697001161,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189210,
+        "num": 189210,
+        "word": "董宇辉回乡感言引无数游子共鸣",
+        "onboard_time": 1697012436,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188238,
+        "num": 188238,
+        "word": "女研究生养猫反向将自己关进笼子",
+        "onboard_time": 1697002355,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166068,
+        "num": 166068,
+        "word": "男子买50克金条打成镯子送爱妻",
+        "onboard_time": 1696998342,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163020,
+        "num": 163020,
+        "word": "十大人气动漫男角色",
+        "onboard_time": 1697008173,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 161765,
+        "num": 161765,
+        "word": "影院分区售票",
+        "onboard_time": 1697011956,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156918,
+        "num": 156918,
+        "word": "砂锅界有自己的爱马仕",
+        "onboard_time": 1697013217,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 151488,
+        "num": 151488,
+        "word": "内娱人设统治区",
+        "onboard_time": 1697008715,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150665,
+        "num": 150665,
+        "word": "新娘疯狂使眼色暗示新郎找婚鞋",
+        "onboard_time": 1697013095,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149814,
+        "num": 149814,
+        "word": "卢昱晓 你好李佳",
+        "onboard_time": 1697004334,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146084,
+        "num": 146084,
+        "word": "被哈马斯绑架的中以混血女孩父母发声",
+        "onboard_time": 1697002477,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144551,
+        "num": 144551,
+        "word": "王俊凯对AI技术持保留意见",
+        "onboard_time": 1697007274,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138771,
+        "num": 138771,
+        "word": "王牌8没贾玲",
+        "onboard_time": 1696993595,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135582,
+        "num": 135582,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 134890,
+        "num": 134890,
+        "word": "朱一龙工作上是J人没错了",
+        "onboard_time": 1697009254,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133408,
+        "num": 133408,
+        "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+        "onboard_time": 1696992098,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130636,
+        "num": 130636,
+        "word": "我们的歌 三代歌手合作",
+        "onboard_time": 1697010393,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断开创新时代宣传思想文化工作新局面#"
+    }
+  }
+}
