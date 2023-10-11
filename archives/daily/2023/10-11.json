@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696990995338,
+  "endTime": 1696991666464,
   "band_list": [
     {
       "raw_hot": 2694992,
@@ -51,20 +51,20 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1658795,
+      "num": 495143,
+      "word": "北极鲶鱼的恨国论也该严查",
+      "onboard_time": 1696986276,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1580674,
       "num": 1580674,
       "word": "撒贝宁的原名",
       "onboard_time": 1696980449,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1554108,
-      "num": 494933,
-      "word": "北极鲶鱼的恨国论也该严查",
-      "onboard_time": 1696986276,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1428377,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 791163,
+      "num": 791163,
+      "word": "网友看部剧救了自己的命",
+      "onboard_time": 1696987237,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 743556,
       "num": 345664,
       "word": "华北理工食堂被曝吃出鼠头",
@@ -139,28 +147,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 656490,
-      "num": 284000,
-      "word": "相亲发生关系男子被控强奸迎反转",
-      "onboard_time": 1696935755,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 649766,
-      "num": 649766,
+      "raw_hot": 660732,
+      "num": 660732,
       "word": "男子创业7次成功后劝年轻人别创业",
       "onboard_time": 1696987237,
       "rank": 9,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 626696,
-      "num": 626696,
-      "word": "网友看部剧救了自己的命",
-      "onboard_time": 1696987237,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 656490,
+      "num": 284000,
+      "word": "相亲发生关系男子被控强奸迎反转",
+      "onboard_time": 1696935755,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 622356,
@@ -227,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 499779,
+      "num": 499779,
+      "word": "秋天是养头发的最好时机",
+      "onboard_time": 1696988252,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 480484,
       "num": 542611,
       "word": "何明树李兵李荣强同志被评定为烈士",
@@ -235,20 +243,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 427983,
-      "num": 427983,
+      "raw_hot": 471846,
+      "num": 471846,
+      "word": "iPhone被曝夜间自动关机",
+      "onboard_time": 1696989813,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 465068,
+      "num": 465068,
       "word": "外媒称以色列已列出报复名单",
       "onboard_time": 1696986158,
       "rank": 34,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 427236,
-      "num": 427236,
-      "word": "秋天是养头发的最好时机",
-      "onboard_time": 1696988252,
-      "rank": 12,
-      "category": "美妆"
+      "raw_hot": 456586,
+      "num": 376135,
+      "word": "联合国宣布调查巴以冲突中的战争罪行",
+      "onboard_time": 1696989572,
+      "rank": 15,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 423733,
@@ -267,6 +283,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 407929,
+      "num": 407929,
+      "word": "恋5窒息男嘉宾被狠狠拿捏",
+      "onboard_time": 1696990897,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 399291,
       "num": 399291,
       "word": "频繁发朋友圈被说是显眼包",
@@ -283,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 391992,
+      "num": 334636,
+      "word": "美福特号航母已抵达地中海东部",
+      "onboard_time": 1696989755,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 374524,
       "num": 374524,
       "word": "魏大勋收到孟宴臣生日邀请函",
@@ -291,20 +323,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 369483,
+      "num": 369483,
+      "word": "在新加坡对护士爆粗口被调查",
+      "onboard_time": 1696989872,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 365848,
       "num": 365848,
       "word": "巴以冲突已致近1700人死亡",
       "onboard_time": 1696952735,
       "rank": 9,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 359931,
-      "num": 359931,
-      "word": "联合国宣布调查巴以冲突中的战争罪行",
-      "onboard_time": 1696989572,
-      "rank": 15,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 356839,
@@ -355,12 +387,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321341,
-      "num": 321341,
-      "word": "美福特号航母已抵达地中海东部",
-      "onboard_time": 1696989755,
-      "rank": 18,
-      "category": "国外要闻"
+      "raw_hot": 311305,
+      "num": 311305,
+      "word": "王牌对王牌",
+      "onboard_time": 1696990352,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 308205,
@@ -379,14 +411,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 298417,
-      "num": 298417,
-      "word": "iPhone被曝夜间自动关机",
-      "onboard_time": 1696989813,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 298192,
       "num": 298192,
       "word": "华北理工大学通报",
@@ -395,12 +419,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294418,
+      "num": 294418,
+      "word": "导演叫停后朱一龙仍沉浸角色",
+      "onboard_time": 1696982075,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 293769,
       "num": 293769,
       "word": "家人嫌我买的多巴胺公园凳丑",
       "onboard_time": 1696945478,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 290396,
+      "num": 290396,
+      "word": "女生打卡十几个博物馆复原50套汉服",
+      "onboard_time": 1696991012,
+      "rank": 26,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 286380,
@@ -427,14 +467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 275626,
-      "num": 275626,
-      "word": "导演叫停后朱一龙仍沉浸角色",
-      "onboard_time": 1696982075,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 273056,
       "num": 273056,
       "word": "疑似seventeen新专剧透",
@@ -449,14 +481,6 @@
       "onboard_time": 1696982315,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 271894,
-      "num": 271894,
-      "word": "王牌对王牌",
-      "onboard_time": 1696990352,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 267773,
@@ -499,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243512,
-      "num": 243512,
-      "word": "在新加坡对护士爆粗口被调查",
-      "onboard_time": 1696989872,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 243521,
+      "num": 243521,
+      "word": "关晓彤王安宇演情侣",
+      "onboard_time": 1696990298,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 243340,
@@ -619,6 +643,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194660,
+      "num": 194660,
+      "word": "马斯克写信威胁海王2留下艾梅柏",
+      "onboard_time": 1696991612,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194213,
       "num": 194213,
       "word": "九章三号求解特定问题比超算快1亿亿倍",
@@ -635,16 +667,8 @@
       "category": "社会正能量"
     },
     {
-      "raw_hot": 189946,
-      "num": 189946,
-      "word": "关晓彤王安宇演情侣",
-      "onboard_time": 1696990298,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187253,
-      "num": 187253,
+      "num": 329570,
       "word": "洗脸巾你买对了吗",
       "onboard_time": 1696990772,
       "rank": 34,
@@ -707,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168711,
-      "num": 168711,
-      "word": "恋5窒息男嘉宾被狠狠拿捏",
-      "onboard_time": 1696990897,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165632,
       "num": 165632,
       "word": "小时候看居然没觉得哪里不对",
@@ -736,6 +752,14 @@
       "word": "乡镇机关大院地上晒满了农民的粮食",
       "onboard_time": 1696979967,
       "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158656,
+      "num": 158656,
+      "word": "大姐警惕性太高接到陌生电话见招拆招",
+      "onboard_time": 1696991433,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -875,6 +899,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 112898,
+      "num": 112898,
+      "word": "景甜不敢和父母乱发牢骚",
+      "onboard_time": 1696991612,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112862,
       "num": 112862,
       "word": "崔胜澈预告照",
@@ -929,6 +961,14 @@
       "onboard_time": 1696952676,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98333,
+      "num": 1095186,
+      "word": "全国网络普法行四川站",
+      "onboard_time": 1696991073,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93111,

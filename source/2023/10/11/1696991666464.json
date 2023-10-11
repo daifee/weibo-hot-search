@@ -1,0 +1,410 @@
+{
+  "runTime": 1696991666464,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1797058,
+        "num": 1797058,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1449310,
+        "num": 1449310,
+        "word": "关晓彤爆王牌对王牌游戏内幕",
+        "onboard_time": 1696985378,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98333,
+        "num": 1095186,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957251,
+        "num": 957251,
+        "word": "女生经期不建议吃的六种水果",
+        "onboard_time": 1696980691,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 791163,
+        "num": 791163,
+        "word": "网友看部剧救了自己的命",
+        "onboard_time": 1696987237,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701146,
+        "num": 701146,
+        "word": "冲突已致巴以双方超2100人死亡",
+        "onboard_time": 1696987056,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 670310,
+        "num": 670310,
+        "word": "iPhone平均寿命将达8年",
+        "onboard_time": 1696985678,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 660732,
+        "num": 660732,
+        "word": "男子创业7次成功后劝年轻人别创业",
+        "onboard_time": 1696987237,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 655318,
+        "num": 655318,
+        "word": "撒贝宁的原名",
+        "onboard_time": 1696980449,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 499779,
+        "num": 499779,
+        "word": "秋天是养头发的最好时机",
+        "onboard_time": 1696988252,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1658795,
+        "num": 495143,
+        "word": "北极鲶鱼的恨国论也该严查",
+        "onboard_time": 1696986276,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567750,
+        "num": 487535,
+        "word": "新冠",
+        "onboard_time": 1696945299,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471846,
+        "num": 471846,
+        "word": "iPhone被曝夜间自动关机",
+        "onboard_time": 1696989813,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 465068,
+        "num": 465068,
+        "word": "外媒称以色列已列出报复名单",
+        "onboard_time": 1696986158,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 407929,
+        "num": 407929,
+        "word": "恋5窒息男嘉宾被狠狠拿捏",
+        "onboard_time": 1696990897,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376922,
+        "num": 376922,
+        "word": "朴炯植瘦回颜巅了",
+        "onboard_time": 1696987654,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 456586,
+        "num": 376135,
+        "word": "联合国宣布调查巴以冲突中的战争罪行",
+        "onboard_time": 1696989572,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 369483,
+        "num": 369483,
+        "word": "在新加坡对护士爆粗口被调查",
+        "onboard_time": 1696989872,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341193,
+        "num": 341193,
+        "word": "新华社称退休不是护身符",
+        "onboard_time": 1696947580,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 391992,
+        "num": 334636,
+        "word": "美福特号航母已抵达地中海东部",
+        "onboard_time": 1696989755,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 157025,
+        "num": 329570,
+        "word": "洗脸巾你买对了吗",
+        "onboard_time": 1696990772,
+        "rank": 20,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 1240891,
+        "num": 320274,
+        "word": "官方回应北极鲶鱼爷爷处罚过轻质疑",
+        "onboard_time": 1696983702,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639548,
+        "num": 312979,
+        "word": "每坐1小时平均寿命缩短22分钟",
+        "onboard_time": 1696987357,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 311305,
+        "num": 311305,
+        "word": "王牌对王牌",
+        "onboard_time": 1696990352,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294418,
+        "num": 294418,
+        "word": "导演叫停后朱一龙仍沉浸角色",
+        "onboard_time": 1696982075,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290460,
+        "num": 290460,
+        "word": "夸克占用了我900多G的内存",
+        "onboard_time": 1696980629,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290396,
+        "num": 290396,
+        "word": "女生打卡十几个博物馆复原50套汉服",
+        "onboard_time": 1696991012,
+        "rank": 26,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 257360,
+        "num": 257360,
+        "word": "疑似seventeen新专剧透",
+        "onboard_time": 1696987415,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255866,
+        "num": 255866,
+        "word": "很喜欢但不敢发朋友圈的照片",
+        "onboard_time": 1696981172,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 247303,
+        "num": 247303,
+        "word": "终于把五险一金弄懂了",
+        "onboard_time": 1696984359,
+        "rank": 29,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 243521,
+        "num": 243521,
+        "word": "关晓彤王安宇演情侣",
+        "onboard_time": 1696990298,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217667,
+        "num": 217667,
+        "word": "魏大勋收到孟宴臣生日邀请函",
+        "onboard_time": 1696986515,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212340,
+        "num": 212340,
+        "word": "时代少年团到达上海",
+        "onboard_time": 1696989036,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200714,
+        "num": 200714,
+        "word": "小巷人家",
+        "onboard_time": 1696990533,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194660,
+        "num": 194660,
+        "word": "马斯克写信威胁海王2留下艾梅柏",
+        "onboard_time": 1696991612,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194521,
+        "num": 194521,
+        "word": "行李箱发现了妈妈剥好的柚子",
+        "onboard_time": 1696987838,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176264,
+        "num": 176264,
+        "word": "王鹤润竟是谁的青春不迷茫里的光头女孩",
+        "onboard_time": 1696987897,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174389,
+        "num": 174389,
+        "word": "黄景瑜全国分瑜",
+        "onboard_time": 1696984598,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158741,
+        "num": 158741,
+        "word": "韩国不满杭州亚运会表现",
+        "onboard_time": 1696946498,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158656,
+        "num": 158656,
+        "word": "大姐警惕性太高接到陌生电话见招拆招",
+        "onboard_time": 1696991433,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154514,
+        "num": 154514,
+        "word": "北极鲶鱼究竟是什么鱼",
+        "onboard_time": 1696981714,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153447,
+        "num": 153447,
+        "word": "创5马丽亚曾做过冬奥引导员",
+        "onboard_time": 1696986938,
+        "rank": 41,
+        "category": "综艺,体育"
+      },
+      {
+        "raw_hot": 148077,
+        "num": 148077,
+        "word": "徐灵菱说张纯烨有律师潜质",
+        "onboard_time": 1696990592,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127739,
+        "num": 127739,
+        "word": "iOS17.1将修复iPhone12辐射问题",
+        "onboard_time": 1696982375,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 123075,
+        "num": 123075,
+        "word": "长期摆烂后如何恢复自律",
+        "onboard_time": 1696980871,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120298,
+        "num": 120298,
+        "word": "8旬退休教师拾荒卖废品助学24年",
+        "onboard_time": 1696989511,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 115702,
+        "num": 115702,
+        "word": "狄龙火箭首秀被驱逐",
+        "onboard_time": 1696988912,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112898,
+        "num": 112898,
+        "word": "景甜不敢和父母乱发牢骚",
+        "onboard_time": 1696991612,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122664,
+        "num": 112832,
+        "word": "上海4岁女童失踪海滩入口已封闭",
+        "onboard_time": 1696950941,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31600,
+        "num": 112526,
+        "word": "杭州亚运会微纪录片登场",
+        "onboard_time": 1696948781,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路走过10年#"
+    }
+  }
+}
