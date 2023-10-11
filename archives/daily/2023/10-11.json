@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697022883666,
+  "endTime": 1697024067331,
   "band_list": [
     {
       "raw_hot": 5557870,
@@ -371,12 +371,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 693575,
+      "num": 221106,
+      "word": "papi酱 追星有这么严格嘛",
+      "onboard_time": 1697023235,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 680133,
+      "num": 1525016,
+      "word": "网友塞尔维亚街头遇中国警察巡逻",
+      "onboard_time": 1697022096,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 679973,
       "num": 533440,
       "word": "夸克占用了我900多G的内存",
       "onboard_time": 1696980629,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 678474,
+      "num": 580573,
+      "word": "周冬雨黑色长裙从肩露到腰",
+      "onboard_time": 1697021435,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 660732,
@@ -499,14 +523,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 580573,
-      "num": 580573,
-      "word": "周冬雨黑色长裙从肩露到腰",
-      "onboard_time": 1697021435,
-      "rank": 11,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 578734,
       "num": 530409,
       "word": "北极鲶鱼究竟是什么鱼",
@@ -627,6 +643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 496411,
+      "num": 262698,
+      "word": "25岁了还要瞒着爸妈吃辣条",
+      "onboard_time": 1697022334,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 494335,
       "num": 494335,
       "word": "碧桂园服务总裁李长江辞职",
@@ -713,14 +737,6 @@
       "onboard_time": 1696993055,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 445593,
-      "num": 261281,
-      "word": "25岁了还要瞒着爸妈吃辣条",
-      "onboard_time": 1697022334,
-      "rank": 21,
-      "category": "幽默"
     },
     {
       "raw_hot": 444829,
@@ -883,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364142,
+      "num": 261249,
+      "word": "完美头骨",
+      "onboard_time": 1697021974,
+      "rank": 23,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 361511,
       "num": 361511,
       "word": "大学生日薪1000元其实被卖到缅甸",
@@ -924,7 +948,7 @@
     },
     {
       "raw_hot": 354381,
-      "num": 257101,
+      "num": 257958,
       "word": "何炅 关于懂你这件事的分寸感",
       "onboard_time": 1697020774,
       "rank": 22,
@@ -979,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 338321,
-      "num": 807938,
-      "word": "网友塞尔维亚街头遇中国警察巡逻",
-      "onboard_time": 1697022096,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335161,
       "num": 335161,
       "word": "巴以冲突已超1900人死亡",
@@ -1001,6 +1017,14 @@
       "onboard_time": 1697001161,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329609,
+      "num": 329609,
+      "word": "神隐开播时间",
+      "onboard_time": 1697022213,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 327334,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1696950941,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 321754,
-      "num": 250181,
-      "word": "完美头骨",
-      "onboard_time": 1697021974,
-      "rank": 23,
-      "category": "时尚"
     },
     {
       "raw_hot": 320691,
@@ -1315,6 +1331,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 265069,
+      "num": 265069,
+      "word": "研究表明租房住老得快",
+      "onboard_time": 1697023594,
+      "rank": 19,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 265007,
       "num": 265007,
       "word": "0713像你这样的朋友",
@@ -1329,6 +1353,14 @@
       "onboard_time": 1696999603,
       "rank": 27,
       "category": "幽默,剧集"
+    },
+    {
+      "raw_hot": 261278,
+      "num": 258631,
+      "word": "王俊凯红毯全身镜头",
+      "onboard_time": 1697023053,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 260387,
@@ -1395,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 247549,
+      "num": 247549,
+      "word": "原来林俊杰还拍过偶像剧",
+      "onboard_time": 1697022695,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246730,
       "num": 246730,
       "word": "景甜不敢和父母乱发牢骚",
@@ -1449,14 +1489,6 @@
       "onboard_time": 1697017596,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 240806,
-      "num": 240806,
-      "word": "神隐开播时间",
-      "onboard_time": 1697022213,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 239140,
@@ -1731,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202590,
+      "num": 202590,
+      "word": "朱一龙想和贾樟柯合作",
+      "onboard_time": 1697023414,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201774,
       "num": 201774,
       "word": "镜流",
@@ -1785,6 +1825,14 @@
       "onboard_time": 1696986103,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192670,
+      "num": 192670,
+      "word": "问心林逸用勺子做手术",
+      "onboard_time": 1697023053,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 190998,
@@ -1875,12 +1923,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 186450,
-      "num": 186450,
-      "word": "原来林俊杰还拍过偶像剧",
-      "onboard_time": 1697022695,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 186204,
+      "num": 186204,
+      "word": "穿旗袍的刘亦菲 古色古香的瓷器",
+      "onboard_time": 1697023894,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186070,
@@ -1899,12 +1947,28 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 185444,
+      "num": 185444,
+      "word": "脆皮大学生",
+      "onboard_time": 1697022633,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 185378,
       "num": 185378,
       "word": "全锦赛混双",
       "onboard_time": 1696992755,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185106,
+      "num": 185106,
+      "word": "河边的错误平遥电影展开幕片",
+      "onboard_time": 1697023833,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 183828,
@@ -2131,14 +2195,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160323,
-      "num": 160323,
-      "word": "脆皮大学生",
-      "onboard_time": 1697022633,
-      "rank": 38,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 159594,
       "num": 159594,
       "word": "超强台风布拉万",
@@ -2219,6 +2275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155684,
+      "num": 155684,
+      "word": "鲁班七号时之奇旅皮肤",
+      "onboard_time": 1697023775,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 155640,
       "num": 155640,
       "word": "利路修对中国风的理解",
@@ -2281,6 +2345,14 @@
       "onboard_time": 1697014055,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 145806,
+      "num": 145806,
+      "word": "成都科幻馆夜晚的音乐喷泉太美了",
+      "onboard_time": 1697023356,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145744,
@@ -2684,7 +2756,7 @@
     },
     {
       "raw_hot": 9870,
-      "num": 444770,
+      "num": 1523355,
       "word": "高质量发展调研行",
       "onboard_time": 1696996117,
       "rank": 7,

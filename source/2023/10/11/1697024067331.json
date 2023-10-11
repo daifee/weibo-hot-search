@@ -1,0 +1,410 @@
+{
+  "runTime": 1697024067331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1534822,
+        "num": 1534822,
+        "word": "网友曝刘暖曦在视频号直播带货",
+        "onboard_time": 1697016693,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 680133,
+        "num": 1525016,
+        "word": "网友塞尔维亚街头遇中国警察巡逻",
+        "onboard_time": 1697022096,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5807,
+        "num": 1523355,
+        "word": "高质量发展调研行",
+        "onboard_time": 1696996117,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1522021,
+        "num": 1522021,
+        "word": "罗翔谈PPT曝光渣男渣女",
+        "onboard_time": 1697018858,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234358,
+        "num": 753611,
+        "word": "双眼皮的大熊猫有多可爱",
+        "onboard_time": 1697016814,
+        "rank": 4,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 642710,
+        "num": 642710,
+        "word": "以色列议员呼吁使用末日武器",
+        "onboard_time": 1697017776,
+        "rank": 5,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 140842,
+        "num": 640634,
+        "word": "面馆老板为亚运一线工作者免费送2000碗面",
+        "onboard_time": 1697018734,
+        "rank": 6,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 12303,
+        "num": 639880,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639498,
+        "num": 639498,
+        "word": "贾玲缺席王牌8的原因",
+        "onboard_time": 1697014834,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 554901,
+        "num": 554901,
+        "word": "台湾地震",
+        "onboard_time": 1697021375,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 678474,
+        "num": 553591,
+        "word": "周冬雨黑色长裙从肩露到腰",
+        "onboard_time": 1697021435,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 543589,
+        "num": 543589,
+        "word": "老天奶我求你了 girls help girls",
+        "onboard_time": 1697015915,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 518599,
+        "num": 518599,
+        "word": "成蕾被驱逐出境",
+        "onboard_time": 1697010096,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 406974,
+        "num": 406974,
+        "word": "北极鲶鱼哪来的安全感",
+        "onboard_time": 1697012135,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368564,
+        "num": 368564,
+        "word": "JINI回应退出NMIXX的原因",
+        "onboard_time": 1697017596,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357693,
+        "num": 357693,
+        "word": "时代少年团LV快闪造型",
+        "onboard_time": 1697020597,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 334104,
+        "num": 334104,
+        "word": "中国马术队巴黎奥运会参赛资格被取消",
+        "onboard_time": 1697011956,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 329609,
+        "num": 329609,
+        "word": "神隐开播时间",
+        "onboard_time": 1697022213,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 275079,
+        "num": 275079,
+        "word": "迪丽热巴冰晶小橘子",
+        "onboard_time": 1697017478,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 265069,
+        "num": 265069,
+        "word": "研究表明租房住老得快",
+        "onboard_time": 1697023594,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 496411,
+        "num": 262698,
+        "word": "25岁了还要瞒着爸妈吃辣条",
+        "onboard_time": 1697022334,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 470019,
+        "num": 262586,
+        "word": "吴昕父母敲了4次门在门外待了6个小时",
+        "onboard_time": 1697011415,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 364142,
+        "num": 261249,
+        "word": "完美头骨",
+        "onboard_time": 1697021974,
+        "rank": 22,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 259816,
+        "num": 259816,
+        "word": "胡彦斌讲着讲着失控了",
+        "onboard_time": 1697017596,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261278,
+        "num": 258631,
+        "word": "王俊凯红毯全身镜头",
+        "onboard_time": 1697023053,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269941,
+        "num": 257958,
+        "word": "何炅 关于懂你这件事的分寸感",
+        "onboard_time": 1697020774,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 247549,
+        "num": 247549,
+        "word": "原来林俊杰还拍过偶像剧",
+        "onboard_time": 1697022695,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247030,
+        "num": 247030,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231812,
+        "num": 231812,
+        "word": "福州震感",
+        "onboard_time": 1697021736,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222093,
+        "num": 222093,
+        "word": "老人卖花生错过车女顾客让老公送回家",
+        "onboard_time": 1697022213,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693575,
+        "num": 221106,
+        "word": "papi酱 追星有这么严格嘛",
+        "onboard_time": 1697023235,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 218710,
+        "num": 218710,
+        "word": "男子离开编制后父母觉得天塌了",
+        "onboard_time": 1697005113,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202590,
+        "num": 202590,
+        "word": "朱一龙想和贾樟柯合作",
+        "onboard_time": 1697023414,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192670,
+        "num": 192670,
+        "word": "问心林逸用勺子做手术",
+        "onboard_time": 1697023053,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191427,
+        "num": 191427,
+        "word": "结婚后为什么开销这么大",
+        "onboard_time": 1697016336,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187534,
+        "num": 187534,
+        "word": "莲藕蒸肉蛋",
+        "onboard_time": 1697021375,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186204,
+        "num": 186204,
+        "word": "穿旗袍的刘亦菲 古色古香的瓷器",
+        "onboard_time": 1697023894,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185444,
+        "num": 185444,
+        "word": "脆皮大学生",
+        "onboard_time": 1697022633,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185106,
+        "num": 185106,
+        "word": "河边的错误平遥电影展开幕片",
+        "onboard_time": 1697023833,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177548,
+        "num": 177548,
+        "word": "女儿获国奖父亲苦恼发不了朋友圈",
+        "onboard_time": 1697011235,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155684,
+        "num": 155684,
+        "word": "鲁班七号时之奇旅皮肤",
+        "onboard_time": 1697023775,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 150017,
+        "num": 150017,
+        "word": "Jennie有自己的手麦了",
+        "onboard_time": 1697015978,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145806,
+        "num": 145806,
+        "word": "成都科幻馆夜晚的音乐喷泉太美了",
+        "onboard_time": 1697023356,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137120,
+        "num": 137120,
+        "word": "优衣库涨薪",
+        "onboard_time": 1697014417,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135014,
+        "num": 135014,
+        "word": "宋亚轩跳gento",
+        "onboard_time": 1697017534,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133544,
+        "num": 133544,
+        "word": "大乔新皮肤",
+        "onboard_time": 1697010814,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131694,
+        "num": 131694,
+        "word": "巴以冲突升级",
+        "onboard_time": 1697002416,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 129845,
+        "num": 129845,
+        "word": "投资人爆料韩寒因餐厅亏损上亿",
+        "onboard_time": 1697006673,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128309,
+        "num": 128309,
+        "word": "原来微信可以锁屏录音",
+        "onboard_time": 1697011174,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 123340,
+        "num": 123340,
+        "word": "S13全球总决赛入围赛",
+        "onboard_time": 1697020234,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断开创新时代宣传思想文化工作新局面#"
+    }
+  }
+}
