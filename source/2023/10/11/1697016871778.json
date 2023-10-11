@@ -1,0 +1,410 @@
+{
+  "runTime": 1697016871778,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3515362,
+        "num": 3515362,
+        "word": "成蕾被驱逐出境",
+        "onboard_time": 1697010096,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1380230,
+        "num": 1380230,
+        "word": "外交部回应成蕾案件",
+        "onboard_time": 1697013819,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 26600,
+        "num": 898142,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835632,
+        "num": 835632,
+        "word": "中国马术队巴黎奥运会参赛资格被取消",
+        "onboard_time": 1697011956,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 828817,
+        "num": 828817,
+        "word": "贾玲缺席王牌8的原因",
+        "onboard_time": 1697014834,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 696915,
+        "num": 696915,
+        "word": "海底捞回应顾客用锅底煮中药",
+        "onboard_time": 1697009312,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602057,
+        "num": 602057,
+        "word": "优衣库涨薪",
+        "onboard_time": 1697014417,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 582551,
+        "num": 582551,
+        "word": "男子离开编制后父母觉得天塌了",
+        "onboard_time": 1697005113,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452661,
+        "num": 452661,
+        "word": "华天马匹兴奋剂检测阳性",
+        "onboard_time": 1697011895,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 402835,
+        "num": 402835,
+        "word": "对女孩子早期性教育有多重要",
+        "onboard_time": 1697011295,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 370334,
+        "num": 370334,
+        "word": "投资人爆料韩寒因餐厅亏损上亿",
+        "onboard_time": 1697006673,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335236,
+        "num": 335236,
+        "word": "大乔新皮肤",
+        "onboard_time": 1697010814,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 332577,
+        "num": 332577,
+        "word": "老天奶我求你了 girls help girls",
+        "onboard_time": 1697015915,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 325163,
+        "num": 325163,
+        "word": "女儿获国奖父亲苦恼发不了朋友圈",
+        "onboard_time": 1697011235,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286278,
+        "num": 286278,
+        "word": "巴以冲突升级",
+        "onboard_time": 1697002416,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 273999,
+        "num": 273999,
+        "word": "大学生日薪1000元其实被卖到缅甸",
+        "onboard_time": 1697011235,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258568,
+        "num": 258568,
+        "word": "放羊的星星花絮",
+        "onboard_time": 1697008113,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253241,
+        "num": 253241,
+        "word": "95后女模特为男友增肥69斤后被抛弃",
+        "onboard_time": 1696997859,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245391,
+        "num": 245391,
+        "word": "作者七月新番去世",
+        "onboard_time": 1696999060,
+        "rank": 18,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 240188,
+        "num": 240188,
+        "word": "0713像你这样的朋友",
+        "onboard_time": 1697015978,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 735803,
+        "num": 240062,
+        "word": "吴昕父母敲了4次门在门外待了6个小时",
+        "onboard_time": 1697011415,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 639400,
+        "num": 239613,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446827,
+        "num": 239309,
+        "word": "原来微信可以锁屏录音",
+        "onboard_time": 1697011174,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 423016,
+        "num": 238933,
+        "word": "北极鲶鱼哪来的安全感",
+        "onboard_time": 1697012135,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230476,
+        "num": 238364,
+        "word": "王嘉尔巡演官宣",
+        "onboard_time": 1697010096,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 398540,
+        "num": 238009,
+        "word": "内娱走出国门的美貌",
+        "onboard_time": 1697010334,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368096,
+        "num": 237792,
+        "word": "Jennie有自己的手麦了",
+        "onboard_time": 1697015978,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237566,
+        "num": 237566,
+        "word": "对眼睛很友好的明星",
+        "onboard_time": 1697012616,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236528,
+        "num": 236528,
+        "word": "男子拾金不昧被免一年物业费",
+        "onboard_time": 1697015675,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210172,
+        "num": 210172,
+        "word": "五月天广州演唱会",
+        "onboard_time": 1697016034,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79394,
+        "num": 207462,
+        "word": "是谁让金晨一键倾心",
+        "onboard_time": 1697016336,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401362,
+        "num": 207450,
+        "word": "200年前有钱人的豪宅",
+        "onboard_time": 1697014897,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 226832,
+        "num": 207396,
+        "word": "结婚后为什么开销这么大",
+        "onboard_time": 1697016336,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207316,
+        "num": 207316,
+        "word": "碧桂园",
+        "onboard_time": 1697003195,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206698,
+        "num": 206698,
+        "word": "突然感觉洗衣粉比洗衣液好用",
+        "onboard_time": 1697011235,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170748,
+        "num": 170748,
+        "word": "爸爸流泪对病重妈妈说下辈子还要在一起",
+        "onboard_time": 1697016034,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169691,
+        "num": 169691,
+        "word": "双眼皮的大熊猫有多可爱",
+        "onboard_time": 1697016814,
+        "rank": 36,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 163887,
+        "num": 163887,
+        "word": "网友曝刘暖曦在视频号直播带货",
+        "onboard_time": 1697016693,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163415,
+        "num": 163415,
+        "word": "杨超越露肩针织衫",
+        "onboard_time": 1697013696,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 161421,
+        "num": 161421,
+        "word": "新娘疯狂使眼色暗示新郎找婚鞋",
+        "onboard_time": 1697013095,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157605,
+        "num": 157605,
+        "word": "华天回应马匹兴奋剂检测阳性",
+        "onboard_time": 1697016458,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154702,
+        "num": 154702,
+        "word": "周也蝴蝶结公主头",
+        "onboard_time": 1697015135,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145744,
+        "num": 145744,
+        "word": "平遥国际电影展",
+        "onboard_time": 1697016519,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141025,
+        "num": 141025,
+        "word": "砂锅界有自己的爱马仕",
+        "onboard_time": 1697013217,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132487,
+        "num": 132487,
+        "word": "女生好看不是原罪",
+        "onboard_time": 1697014055,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131967,
+        "num": 131967,
+        "word": "SEVENTEEN大赏含金量",
+        "onboard_time": 1697009673,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131140,
+        "num": 131140,
+        "word": "永远无法和后置相机的自己和解",
+        "onboard_time": 1697016814,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 130939,
+        "num": 130939,
+        "word": "中国网民叫新加坡坡县引发争议",
+        "onboard_time": 1697003133,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113644,
+        "num": 113644,
+        "word": "王牌8官宣阵容",
+        "onboard_time": 1696992631,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113568,
+        "num": 113568,
+        "word": "一生不被允许gap的中国人",
+        "onboard_time": 1696993297,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席一带一路国际合作高峰论坛#"
+    }
+  }
+}

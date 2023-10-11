@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697015874585,
+  "endTime": 1697016871778,
   "band_list": [
     {
       "raw_hot": 5557870,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 828817,
+      "num": 828817,
+      "word": "贾玲缺席王牌8的原因",
+      "onboard_time": 1697014834,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 827537,
       "num": 827537,
       "word": "华天马匹兴奋剂检测阳性",
@@ -409,6 +417,14 @@
       "onboard_time": 1697002477,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 602057,
+      "num": 602057,
+      "word": "优衣库涨薪",
+      "onboard_time": 1697014417,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 598221,
@@ -571,14 +587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486632,
-      "num": 440983,
-      "word": "贾玲缺席王牌8的原因",
-      "onboard_time": 1697014834,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 480484,
       "num": 542611,
       "word": "何明树李兵李荣强同志被评定为烈士",
@@ -625,14 +633,6 @@
       "onboard_time": 1696986158,
       "rank": 34,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 457197,
-      "num": 440738,
-      "word": "优衣库涨薪",
-      "onboard_time": 1697014417,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 454112,
@@ -699,6 +699,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 401362,
+      "num": 207450,
+      "word": "200年前有钱人的豪宅",
+      "onboard_time": 1697014897,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 399291,
       "num": 399291,
       "word": "频繁发朋友圈被说是显眼包",
@@ -745,6 +753,14 @@
       "onboard_time": 1696986515,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 368096,
+      "num": 237792,
+      "word": "Jennie有自己的手麦了",
+      "onboard_time": 1697015978,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 366406,
@@ -849,6 +865,14 @@
       "onboard_time": 1696985977,
       "rank": 19,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 332577,
+      "num": 332577,
+      "word": "老天奶我求你了 girls help girls",
+      "onboard_time": 1697015915,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 331464,
@@ -969,14 +993,6 @@
       "onboard_time": 1697012616,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 298798,
-      "num": 182416,
-      "word": "200年前有钱人的豪宅",
-      "onboard_time": 1697014897,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 298192,
@@ -1227,6 +1243,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240188,
+      "num": 240188,
+      "word": "0713像你这样的朋友",
+      "onboard_time": 1697015978,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236528,
+      "num": 236528,
+      "word": "男子拾金不昧被免一年物业费",
+      "onboard_time": 1697015675,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235649,
       "num": 182024,
       "word": "北极鲶鱼",
@@ -1265,6 +1297,14 @@
       "onboard_time": 1696991612,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 226832,
+      "num": 207396,
+      "word": "结婚后为什么开销这么大",
+      "onboard_time": 1697016336,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 226771,
@@ -1361,6 +1401,14 @@
       "onboard_time": 1696940136,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210172,
+      "num": 210172,
+      "word": "五月天广州演唱会",
+      "onboard_time": 1697016034,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 209980,
@@ -1472,14 +1520,6 @@
       "word": "医护紧急爬山2300米救下心梗游客",
       "onboard_time": 1697002174,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 199119,
-      "num": 199119,
-      "word": "男子拾金不昧被免一年物业费",
-      "onboard_time": 1697015675,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -1771,12 +1811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170748,
+      "num": 170748,
+      "word": "爸爸流泪对病重妈妈说下辈子还要在一起",
+      "onboard_time": 1697016034,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170005,
       "num": 170005,
       "word": "以后不敢随便捂嘴笑了",
       "onboard_time": 1697002837,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169691,
+      "num": 169691,
+      "word": "双眼皮的大熊猫有多可爱",
+      "onboard_time": 1697016814,
+      "rank": 36,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 168859,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1696948541,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 163887,
+      "num": 163887,
+      "word": "网友曝刘暖曦在视频号直播带货",
+      "onboard_time": 1697016693,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163841,
@@ -1833,6 +1897,14 @@
       "onboard_time": 1697005894,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157605,
+      "num": 157605,
+      "word": "华天回应马匹兴奋剂检测阳性",
+      "onboard_time": 1697016458,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 157342,
@@ -1905,6 +1977,14 @@
       "onboard_time": 1697014055,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 145744,
+      "num": 145744,
+      "word": "平遥国际电影展",
+      "onboard_time": 1697016519,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 145198,
@@ -1985,6 +2065,14 @@
       "onboard_time": 1696948062,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131140,
+      "num": 131140,
+      "word": "永远无法和后置相机的自己和解",
+      "onboard_time": 1697016814,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 130328,
@@ -2161,6 +2249,14 @@
       "onboard_time": 1696980449,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 79394,
+      "num": 207462,
+      "word": "是谁让金晨一键倾心",
+      "onboard_time": 1697016336,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 69767,

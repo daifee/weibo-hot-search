@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697015874585,
+  "endTime": 1697016871778,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -1403,6 +1403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 828817,
+      "num": 828817,
+      "word": "贾玲缺席王牌8的原因",
+      "onboard_time": 1697014834,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 827537,
       "num": 827537,
       "word": "华天马匹兴奋剂检测阳性",
@@ -2235,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 602057,
+      "num": 602057,
+      "word": "优衣库涨薪",
+      "onboard_time": 1697014417,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 601933,
       "num": 507491,
       "word": "狗子误食3斤泡酒杨梅醉倒后死亡",
@@ -2923,14 +2939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486632,
-      "num": 440983,
-      "word": "贾玲缺席王牌8的原因",
-      "onboard_time": 1697014834,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 486603,
       "num": 387685,
       "word": "27岁小伙对异性无感竟因大脑长了瘤",
@@ -3193,14 +3201,6 @@
       "onboard_time": 1696831418,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 457197,
-      "num": 440738,
-      "word": "优衣库涨薪",
-      "onboard_time": 1697014417,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 456526,
@@ -3627,6 +3627,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 401362,
+      "num": 207450,
+      "word": "200年前有钱人的豪宅",
+      "onboard_time": 1697014897,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 400852,
       "num": 400852,
       "word": "陈清晨孙颖莎的友谊",
@@ -3969,6 +3977,14 @@
       "onboard_time": 1696935932,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 368096,
+      "num": 237792,
+      "word": "Jennie有自己的手麦了",
+      "onboard_time": 1697015978,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 366783,
@@ -4433,6 +4449,14 @@
       "onboard_time": 1696729714,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332577,
+      "num": 332577,
+      "word": "老天奶我求你了 girls help girls",
+      "onboard_time": 1697015915,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 332380,
@@ -4953,14 +4977,6 @@
       "onboard_time": 1696811676,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 298798,
-      "num": 182416,
-      "word": "200年前有钱人的豪宅",
-      "onboard_time": 1697014897,
-      "rank": 30,
-      "category": "其它"
     },
     {
       "raw_hot": 298787,
@@ -6339,6 +6355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 240188,
+      "num": 240188,
+      "word": "0713像你这样的朋友",
+      "onboard_time": 1697015978,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239720,
       "num": 239720,
       "word": "中国海警局就菲律宾非法侵闯黄岩岛发声",
@@ -6441,6 +6465,14 @@
       "onboard_time": 1696862262,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236528,
+      "num": 236528,
+      "word": "男子拾金不昧被免一年物业费",
+      "onboard_time": 1697015675,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236134,
@@ -6697,6 +6729,14 @@
       "onboard_time": 1696862382,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226832,
+      "num": 207396,
+      "word": "结婚后为什么开销这么大",
+      "onboard_time": 1697016336,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 226771,
@@ -7176,6 +7216,14 @@
       "word": "歌迷看薛之谦演唱会被抬出送医",
       "onboard_time": 1696729294,
       "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 210172,
+      "num": 210172,
+      "word": "五月天广州演唱会",
+      "onboard_time": 1697016034,
+      "rank": 29,
       "category": "演出"
     },
     {
@@ -7673,14 +7721,6 @@
       "onboard_time": 1696721306,
       "rank": 44,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 199119,
-      "num": 199119,
-      "word": "男子拾金不昧被免一年物业费",
-      "onboard_time": 1697015675,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198965,
@@ -8811,6 +8851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170748,
+      "num": 170748,
+      "word": "爸爸流泪对病重妈妈说下辈子还要在一起",
+      "onboard_time": 1697016034,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170711,
       "num": 170711,
       "word": "工作真的在削弱我的文化体力",
@@ -8849,6 +8897,14 @@
       "onboard_time": 1697002837,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169691,
+      "num": 169691,
+      "word": "双眼皮的大熊猫有多可爱",
+      "onboard_time": 1697016814,
+      "rank": 36,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 169588,
@@ -8984,6 +9040,14 @@
       "word": "90后夫妻带6000藏书回乡办免费书屋",
       "onboard_time": 1696815272,
       "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163887,
+      "num": 163887,
+      "word": "网友曝刘暖曦在视频号直播带货",
+      "onboard_time": 1697016693,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -9193,6 +9257,14 @@
       "onboard_time": 1696682018,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 157605,
+      "num": 157605,
+      "word": "华天回应马匹兴奋剂检测阳性",
+      "onboard_time": 1697016458,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 157342,
@@ -9409,6 +9481,14 @@
       "onboard_time": 1696847738,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145744,
+      "num": 145744,
+      "word": "平遥国际电影展",
+      "onboard_time": 1697016519,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 145501,
@@ -9673,6 +9753,14 @@
       "onboard_time": 1696835613,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 131140,
+      "num": 131140,
+      "word": "永远无法和后置相机的自己和解",
+      "onboard_time": 1697016814,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 130381,
@@ -10209,6 +10297,14 @@
       "onboard_time": 1696718118,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 79394,
+      "num": 207462,
+      "word": "是谁让金晨一键倾心",
+      "onboard_time": 1697016336,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 79166,
