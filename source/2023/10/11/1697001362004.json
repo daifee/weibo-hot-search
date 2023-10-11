@@ -1,0 +1,410 @@
+{
+  "runTime": 1697001362004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3059017,
+        "num": 3059017,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1712305,
+        "num": 1712305,
+        "word": "作者七月新番去世",
+        "onboard_time": 1696999060,
+        "rank": 1,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 57519,
+        "num": 1551560,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1438643,
+        "num": 1438643,
+        "word": "酒店床上布条的作用",
+        "onboard_time": 1696995876,
+        "rank": 3,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1073379,
+        "num": 1073379,
+        "word": "王牌8官宣阵容",
+        "onboard_time": 1696992631,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 860829,
+        "num": 860829,
+        "word": "张钧甯阮经天 16年前16年后",
+        "onboard_time": 1696996657,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 847661,
+        "num": 847661,
+        "word": "每坐1小时平均寿命缩短22分钟",
+        "onboard_time": 1696987357,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 805856,
+        "num": 805856,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 736332,
+        "num": 736332,
+        "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+        "onboard_time": 1696992098,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 633414,
+        "num": 633414,
+        "word": "央视镜头里的陈都灵",
+        "onboard_time": 1696998460,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1184311,
+        "num": 629994,
+        "word": "一生不被允许gap的中国人",
+        "onboard_time": 1696993297,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 976818,
+        "num": 586273,
+        "word": "95后女模特为男友增肥69斤后被抛弃",
+        "onboard_time": 1696997859,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529908,
+        "num": 529908,
+        "word": "男子买50克金条打成镯子送爱妻",
+        "onboard_time": 1696998342,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174854,
+        "num": 509881,
+        "word": "刘宪华的热爱如金",
+        "onboard_time": 1697000141,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497579,
+        "num": 497579,
+        "word": "仙台有树",
+        "onboard_time": 1696999306,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 415887,
+        "num": 415887,
+        "word": "1个怀的是娃1个怀的是宠爱",
+        "onboard_time": 1696999720,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399151,
+        "num": 399151,
+        "word": "范丞丞关晓彤二搭演兄妹",
+        "onboard_time": 1696994976,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 398326,
+        "num": 398326,
+        "word": "王牌8没贾玲",
+        "onboard_time": 1696993595,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391406,
+        "num": 391406,
+        "word": "iPhone被曝夜间自动关机",
+        "onboard_time": 1696989813,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 383344,
+        "num": 383344,
+        "word": "自热米饭里的大米是真大米吗",
+        "onboard_time": 1696998941,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 401783,
+        "num": 370831,
+        "word": "四川一中学化粪池塌陷有学生掉进粪坑",
+        "onboard_time": 1696999421,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 327978,
+        "num": 327978,
+        "word": "关晓彤爆王牌对王牌游戏内幕",
+        "onboard_time": 1696985378,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 327334,
+        "num": 327334,
+        "word": "欧盟称以色列的一些决定违反国际法",
+        "onboard_time": 1696999720,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 308253,
+        "num": 308253,
+        "word": "朴灿烈 抢票",
+        "onboard_time": 1696994134,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 296066,
+        "num": 296066,
+        "word": "唐香玉 宝宝碗",
+        "onboard_time": 1696996718,
+        "rank": 24,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 276244,
+        "num": 276244,
+        "word": "孟宴臣出圈名场面",
+        "onboard_time": 1696995757,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265739,
+        "num": 265739,
+        "word": "小米整改电视开机广告",
+        "onboard_time": 1696998881,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 264454,
+        "num": 264454,
+        "word": "为啥影视剧女主工作都不常见",
+        "onboard_time": 1696999603,
+        "rank": 27,
+        "category": "幽默,剧集"
+      },
+      {
+        "raw_hot": 256994,
+        "num": 256994,
+        "word": "Mate60系列供应商涨价",
+        "onboard_time": 1697000800,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245393,
+        "num": 250650,
+        "word": "班主任花6小时为全班学生炸鸡腿",
+        "onboard_time": 1696996836,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248844,
+        "num": 248844,
+        "word": "肖战用画笔勾勒梦想",
+        "onboard_time": 1696995876,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248380,
+        "num": 248380,
+        "word": "科学家称人类可能生活在计算机模型中",
+        "onboard_time": 1696997920,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 234638,
+        "num": 234638,
+        "word": "鼠的身子去哪了",
+        "onboard_time": 1696999542,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230962,
+        "num": 230962,
+        "word": "老婆怀不上问题竟出在老公的工作上",
+        "onboard_time": 1697001161,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230159,
+        "num": 230159,
+        "word": "国考",
+        "onboard_time": 1696992333,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 229166,
+        "num": 229166,
+        "word": "天津大爷跳水完胜菲律宾",
+        "onboard_time": 1696995156,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198965,
+        "num": 198965,
+        "word": "我恋5男嘉宾自认为和清华女霸总很配",
+        "onboard_time": 1697000619,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198567,
+        "num": 198567,
+        "word": "秦霄贤在周扬青面前横不了一点",
+        "onboard_time": 1697001161,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197994,
+        "num": 197994,
+        "word": "高校食堂疑吃出鼠头店家曾称是牛肉",
+        "onboard_time": 1696997076,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196192,
+        "num": 196192,
+        "word": "新冠",
+        "onboard_time": 1696945299,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190897,
+        "num": 190897,
+        "word": "原神莱欧斯利",
+        "onboard_time": 1697000381,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195278,
+        "num": 190225,
+        "word": "撒贝宁的原名",
+        "onboard_time": 1696980449,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189162,
+        "num": 189162,
+        "word": "朴炯植瘦回颜巅了",
+        "onboard_time": 1696987654,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179245,
+        "num": 179245,
+        "word": "网友看部剧救了自己的命",
+        "onboard_time": 1696987237,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173372,
+        "num": 173372,
+        "word": "大妈遇网诈险转20万民警急出夹子音",
+        "onboard_time": 1697000800,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "白人点中餐惊掉我下巴",
+        "onboard_time": 1696997435,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172839,
+        "num": 172839,
+        "word": "女医生扔下手里东西跑去救老人",
+        "onboard_time": 1696999481,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167947,
+        "num": 167947,
+        "word": "夫妻偷生姜民警找到时已腌成几缸咸菜",
+        "onboard_time": 1697000619,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152822,
+        "num": 152822,
+        "word": "家务优等生",
+        "onboard_time": 1696999660,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140735,
+        "num": 140735,
+        "word": "钟汉良 为真相还一束正义的光",
+        "onboard_time": 1696996535,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路走过10年#"
+    }
+  }
+}

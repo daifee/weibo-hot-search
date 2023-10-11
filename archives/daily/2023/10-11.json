@@ -1,7 +1,15 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1696998864494,
+  "endTime": 1697001362004,
   "band_list": [
+    {
+      "raw_hot": 3059017,
+      "num": 3059017,
+      "word": "社保缴满15年后能坐等退休吗",
+      "onboard_time": 1696997499,
+      "rank": 26,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2694992,
       "num": 780677,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 1935404,
-      "num": 611523,
+      "num": 629994,
       "word": "一生不被允许gap的中国人",
       "onboard_time": 1696993297,
       "rank": 11,
@@ -73,6 +81,14 @@
       "onboard_time": 1696940136,
       "rank": 0,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1712305,
+      "num": 1712305,
+      "word": "作者七月新番去世",
+      "onboard_time": 1696999060,
+      "rank": 1,
+      "category": "社会新闻,读书作家"
     },
     {
       "raw_hot": 1658795,
@@ -99,6 +115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1438643,
+      "num": 1438643,
+      "word": "酒店床上布条的作用",
+      "onboard_time": 1696995876,
+      "rank": 5,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 1432207,
       "num": 1432207,
       "word": "张钧甯阮经天 16年前16年后",
@@ -123,20 +147,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1255495,
-      "num": 1255495,
-      "word": "酒店床上布条的作用",
-      "onboard_time": 1696995876,
-      "rank": 5,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 1119546,
       "num": 501342,
       "word": "本轮巴以冲突已致双方2100余人死亡",
       "onboard_time": 1696987056,
       "rank": 11,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 976818,
+      "num": 586273,
+      "word": "95后女模特为男友增肥69斤后被抛弃",
+      "onboard_time": 1696997859,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 910856,
@@ -161,14 +185,6 @@
       "onboard_time": 1696993595,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 851004,
-      "num": 609406,
-      "word": "社保缴满15年后能坐等退休吗",
-      "onboard_time": 1696997499,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 829544,
@@ -241,6 +257,14 @@
       "onboard_time": 1696935755,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 633414,
+      "num": 633414,
+      "word": "央视镜头里的陈都灵",
+      "onboard_time": 1696998460,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 622356,
@@ -323,6 +347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 529908,
+      "num": 529908,
+      "word": "男子买50克金条打成镯子送爱妻",
+      "onboard_time": 1696998342,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 524607,
       "num": 524607,
       "word": "长期摆烂后如何恢复自律",
@@ -353,6 +385,14 @@
       "onboard_time": 1696988252,
       "rank": 12,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 497579,
+      "num": 497579,
+      "word": "仙台有树",
+      "onboard_time": 1696999306,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 480484,
@@ -395,14 +435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 431102,
-      "num": 431102,
-      "word": "95后女模特为男友增肥69斤后被抛弃",
-      "onboard_time": 1696997859,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 423733,
       "num": 423733,
       "word": "朴炯植瘦回颜巅了",
@@ -419,12 +451,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 415887,
+      "num": 415887,
+      "word": "1个怀的是娃1个怀的是宠爱",
+      "onboard_time": 1696999720,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 407929,
       "num": 407929,
       "word": "恋5窒息男嘉宾被狠狠拿捏",
       "onboard_time": 1696990897,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 401783,
+      "num": 370831,
+      "word": "四川一中学化粪池塌陷有学生掉进粪坑",
+      "onboard_time": 1696999421,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 399291,
@@ -457,6 +505,14 @@
       "onboard_time": 1696989755,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 383344,
+      "num": 383344,
+      "word": "自热米饭里的大米是真大米吗",
+      "onboard_time": 1696998941,
+      "rank": 19,
+      "category": "知识科普"
     },
     {
       "raw_hot": 374524,
@@ -515,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 350371,
-      "num": 350371,
-      "word": "央视镜头里的陈都灵",
-      "onboard_time": 1696998460,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 339099,
       "num": 339099,
       "word": "卢靖姗呼吁职场人关注隐形慢病",
@@ -536,6 +584,14 @@
       "word": "巴以冲突已超1900人死亡",
       "onboard_time": 1696985977,
       "rank": 19,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 327334,
+      "num": 327334,
+      "word": "欧盟称以色列的一些决定违反国际法",
+      "onboard_time": 1696999720,
+      "rank": 22,
       "category": "国外要闻"
     },
     {
@@ -715,12 +771,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254897,
-      "num": 254897,
-      "word": "男子买50克金条打成镯子送爱妻",
-      "onboard_time": 1696998342,
-      "rank": 32,
-      "category": "社会新闻"
+      "raw_hot": 265739,
+      "num": 265739,
+      "word": "小米整改电视开机广告",
+      "onboard_time": 1696998881,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 264454,
+      "num": 264454,
+      "word": "为啥影视剧女主工作都不常见",
+      "onboard_time": 1696999603,
+      "rank": 27,
+      "category": "幽默,剧集"
+    },
+    {
+      "raw_hot": 256994,
+      "num": 256994,
+      "word": "Mate60系列供应商涨价",
+      "onboard_time": 1697000800,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 252454,
@@ -784,6 +856,22 @@
       "word": "北极鲶鱼",
       "onboard_time": 1696930414,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234638,
+      "num": 234638,
+      "word": "鼠的身子去哪了",
+      "onboard_time": 1696999542,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230962,
+      "num": 230962,
+      "word": "老婆怀不上问题竟出在老公的工作上",
+      "onboard_time": 1697001161,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -947,6 +1035,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198965,
+      "num": 198965,
+      "word": "我恋5男嘉宾自认为和清华女霸总很配",
+      "onboard_time": 1697000619,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 198567,
+      "num": 198567,
+      "word": "秦霄贤在周扬青面前横不了一点",
+      "onboard_time": 1697001161,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194213,
       "num": 194213,
       "word": "九章三号求解特定问题比超算快1亿亿倍",
@@ -961,6 +1065,14 @@
       "onboard_time": 1696989511,
       "rank": 32,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 190897,
+      "num": 190897,
+      "word": "原神莱欧斯利",
+      "onboard_time": 1697000381,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 187253,
@@ -1027,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174854,
+      "num": 509881,
+      "word": "刘宪华的热爱如金",
+      "onboard_time": 1697000141,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 174500,
       "num": 174500,
       "word": "没事别扒拉小猫咪",
@@ -1035,12 +1155,36 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 173372,
+      "num": 173372,
+      "word": "大妈遇网诈险转20万民警急出夹子音",
+      "onboard_time": 1697000800,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172839,
+      "num": 172839,
+      "word": "女医生扔下手里东西跑去救老人",
+      "onboard_time": 1696999481,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168859,
       "num": 168859,
       "word": "白鹿说以爱为营快播了",
       "onboard_time": 1696949200,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167947,
+      "num": 167947,
+      "word": "夫妻偷生姜民警找到时已腌成几缸咸菜",
+      "onboard_time": 1697000619,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165632,
@@ -1105,6 +1249,14 @@
       "onboard_time": 1696978884,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152822,
+      "num": 152822,
+      "word": "家务优等生",
+      "onboard_time": 1696999660,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 142077,
