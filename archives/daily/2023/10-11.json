@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697008568432,
+  "endTime": 1697009663896,
   "band_list": [
     {
       "raw_hot": 3059017,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1342447,
+      "num": 1342447,
+      "word": "男子离开编制后父母觉得天塌了",
+      "onboard_time": 1697005113,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1302987,
       "num": 1302987,
       "word": "每坐1小时平均寿命缩短22分钟",
@@ -169,14 +177,6 @@
       "onboard_time": 1696987056,
       "rank": 11,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 1036703,
-      "num": 1036703,
-      "word": "男子离开编制后父母觉得天塌了",
-      "onboard_time": 1697005113,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1010811,
@@ -497,6 +497,14 @@
       "onboard_time": 1696995876,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473180,
+      "num": 473180,
+      "word": "放羊的星星花絮",
+      "onboard_time": 1697008113,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 465068,
@@ -907,6 +915,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271104,
+      "num": 271104,
+      "word": "华北理工食堂承包商称食材由学校采购",
+      "onboard_time": 1697008294,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 269321,
+      "num": 269321,
+      "word": "内娱人设统治区",
+      "onboard_time": 1697008715,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268745,
       "num": 268745,
       "word": "以色列正准备在加沙开展数月地面攻势",
@@ -931,14 +955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 266630,
-      "num": 266630,
-      "word": "放羊的星星花絮",
-      "onboard_time": 1697008113,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 265739,
       "num": 265739,
       "word": "小米整改电视开机广告",
@@ -961,6 +977,14 @@
       "onboard_time": 1697001873,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 252609,
+      "num": 252609,
+      "word": "朱一龙工作上是J人没错了",
+      "onboard_time": 1697009254,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 252454,
@@ -1067,6 +1091,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 226695,
+      "num": 226695,
+      "word": "十大人气动漫男角色",
+      "onboard_time": 1697008173,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 225697,
+      "num": 225697,
+      "word": "我的真实身份其实是蚊子公主",
+      "onboard_time": 1697007815,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 222552,
       "num": 222552,
       "word": "檀健次让我感受到了偶像的力量",
@@ -1115,6 +1155,14 @@
       "category": "社会新闻,自然"
     },
     {
+      "raw_hot": 213675,
+      "num": 213675,
+      "word": "Jennie新歌抒情版",
+      "onboard_time": 1697008894,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213456,
       "num": 213456,
       "word": "妈妈爱小狗但妈妈更爱我",
@@ -1153,14 +1201,6 @@
       "onboard_time": 1696981773,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 207969,
-      "num": 207969,
-      "word": "我的真实身份其实是蚊子公主",
-      "onboard_time": 1697007815,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 206768,
@@ -1283,6 +1323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189212,
+      "num": 189212,
+      "word": "斗破苍穹萧炎美杜莎撒狗粮",
+      "onboard_time": 1697009017,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 187253,
       "num": 329570,
       "word": "洗脸巾你买对了吗",
@@ -1297,6 +1345,14 @@
       "onboard_time": 1696982499,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187210,
+      "num": 187210,
+      "word": "我能看她劈柴一整天",
+      "onboard_time": 1697008774,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 186070,
@@ -1427,6 +1483,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 174030,
+      "num": 174030,
+      "word": "海底捞回应顾客用锅底煮中药",
+      "onboard_time": 1697009312,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173372,
       "num": 173372,
       "word": "大妈遇网诈险转20万民警急出夹子音",
@@ -1465,14 +1529,6 @@
       "onboard_time": 1696948541,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165263,
-      "num": 165263,
-      "word": "华北理工食堂承包商称食材由学校采购",
-      "onboard_time": 1697008294,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163841,
@@ -1523,6 +1579,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 155640,
+      "num": 155640,
+      "word": "利路修对中国风的理解",
+      "onboard_time": 1697009374,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155129,
       "num": 155129,
       "word": "徐灵菱说张纯烨有律师潜质",
@@ -1547,12 +1611,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 146840,
-      "num": 146840,
-      "word": "十大人气动漫男角色",
-      "onboard_time": 1697008173,
-      "rank": 44,
-      "category": "动漫"
+      "raw_hot": 149799,
+      "num": 149799,
+      "word": "电影一个和四个全员不像好人",
+      "onboard_time": 1697008537,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 145198,
+      "num": 145198,
+      "word": "边防战士爬刀背坡巡逻守界碑",
+      "onboard_time": 1697008655,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145180,
@@ -1561,6 +1633,14 @@
       "onboard_time": 1697006555,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143554,
+      "num": 143554,
+      "word": "vivo回应员工遭印度逮捕",
+      "onboard_time": 1697009615,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 142896,
@@ -1617,14 +1697,6 @@
       "onboard_time": 1696948062,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130774,
-      "num": 130774,
-      "word": "电影一个和四个全员不像好人",
-      "onboard_time": 1697008537,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 130328,
@@ -1795,20 +1867,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 66245,
+      "num": 1464251,
+      "word": "行走黄河 遇见幸福",
+      "onboard_time": 1697004695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 60374,
       "num": 60374,
       "word": "职场里别陷入打工心态",
       "onboard_time": 1696957702,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 58686,
-      "num": 1464251,
-      "word": "行走黄河 遇见幸福",
-      "onboard_time": 1697004695,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 57424,
@@ -1905,6 +1977,14 @@
       "onboard_time": 1696968913,
       "rank": 49,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 9870,
+      "num": 444770,
+      "word": "高质量发展调研行",
+      "onboard_time": 1696996117,
+      "rank": 7,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

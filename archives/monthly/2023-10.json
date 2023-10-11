@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697008568432,
+  "endTime": 1697009663896,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2467,6 +2467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1342447,
+      "num": 1342447,
+      "word": "男子离开编制后父母觉得天塌了",
+      "onboard_time": 1697005113,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1341168,
       "num": 1330012,
       "word": "秦岚这状态是喝了点吧",
@@ -3321,14 +3329,6 @@
       "onboard_time": 1696234114,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1036703,
-      "num": 1036703,
-      "word": "男子离开编制后父母觉得天塌了",
-      "onboard_time": 1697005113,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1035722,
@@ -9169,6 +9169,14 @@
       "onboard_time": 1696252119,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 473180,
+      "num": 473180,
+      "word": "放羊的星星花絮",
+      "onboard_time": 1697008113,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 472951,
@@ -16243,6 +16251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 271104,
+      "num": 271104,
+      "word": "华北理工食堂承包商称食材由学校采购",
+      "onboard_time": 1697008294,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271101,
       "num": 271101,
       "word": "李一桐梦女多的原因找到了",
@@ -16369,6 +16385,14 @@
       "onboard_time": 1696561896,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 269321,
+      "num": 269321,
+      "word": "内娱人设统治区",
+      "onboard_time": 1697008715,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 269158,
@@ -16505,14 +16529,6 @@
       "onboard_time": 1696606656,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 266630,
-      "num": 266630,
-      "word": "放羊的星星花絮",
-      "onboard_time": 1697008113,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 266039,
@@ -17457,6 +17473,14 @@
       "onboard_time": 1696910922,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 252609,
+      "num": 252609,
+      "word": "朱一龙工作上是J人没错了",
+      "onboard_time": 1697009254,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 252583,
@@ -19211,6 +19235,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 226695,
+      "num": 226695,
+      "word": "十大人气动漫男角色",
+      "onboard_time": 1697008173,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 226560,
       "num": 226560,
       "word": "陈飞宇 为志愿军配音差点缺氧晕倒",
@@ -19313,6 +19345,14 @@
       "onboard_time": 1696675119,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225697,
+      "num": 225697,
+      "word": "我的真实身份其实是蚊子公主",
+      "onboard_time": 1697007815,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 225623,
@@ -20259,6 +20299,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 213675,
+      "num": 213675,
+      "word": "Jennie新歌抒情版",
+      "onboard_time": 1697008894,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 213529,
       "num": 213529,
       "word": "会跳舞的女生能有多自信",
@@ -20752,14 +20800,6 @@
       "word": "吴邪你说句话啊",
       "onboard_time": 1696937075,
       "rank": 37,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 207969,
-      "num": 207969,
-      "word": "我的真实身份其实是蚊子公主",
-      "onboard_time": 1697007815,
-      "rank": 28,
       "category": "幽默"
     },
     {
@@ -22939,6 +22979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189212,
+      "num": 189212,
+      "word": "斗破苍穹萧炎美杜莎撒狗粮",
+      "onboard_time": 1697009017,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 189197,
       "num": 189197,
       "word": "中国男篮半场领先18分",
@@ -23105,6 +23153,14 @@
       "onboard_time": 1696982499,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187210,
+      "num": 187210,
+      "word": "我能看她劈柴一整天",
+      "onboard_time": 1697008774,
+      "rank": 36,
+      "category": "运动健身"
     },
     {
       "raw_hot": 187136,
@@ -24371,6 +24427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174030,
+      "num": 174030,
+      "word": "海底捞回应顾客用锅底煮中药",
+      "onboard_time": 1697009312,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174024,
       "num": 216173,
       "word": "叶诗文曾为克服瓶颈去清华读书沉淀",
@@ -25057,14 +25121,6 @@
       "onboard_time": 1696555652,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165263,
-      "num": 165263,
-      "word": "华北理工食堂承包商称食材由学校采购",
-      "onboard_time": 1697008294,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165245,
@@ -25867,6 +25923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155640,
+      "num": 155640,
+      "word": "利路修对中国风的理解",
+      "onboard_time": 1697009374,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155444,
       "num": 155444,
       "word": "被消防队门口的大乌龙给甜到了",
@@ -26243,6 +26307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149799,
+      "num": 149799,
+      "word": "电影一个和四个全员不像好人",
+      "onboard_time": 1697008537,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 149305,
       "num": 149305,
       "word": "马龙3比0赵胜敏",
@@ -26379,14 +26451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146840,
-      "num": 146840,
-      "word": "十大人气动漫男角色",
-      "onboard_time": 1697008173,
-      "rank": 44,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 146572,
       "num": 146572,
       "word": "扒手国庆节搞事情被民警盯上终翻车",
@@ -26473,6 +26537,14 @@
       "onboard_time": 1696856315,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145198,
+      "num": 145198,
+      "word": "边防战士爬刀背坡巡逻守界碑",
+      "onboard_time": 1697008655,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145180,
@@ -26569,6 +26641,14 @@
       "onboard_time": 1696837298,
       "rank": 47,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 143554,
+      "num": 143554,
+      "word": "vivo回应员工遭印度逮捕",
+      "onboard_time": 1697009615,
+      "rank": 47,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 143502,
@@ -27329,14 +27409,6 @@
       "onboard_time": 1696210112,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 130774,
-      "num": 130774,
-      "word": "电影一个和四个全员不像好人",
-      "onboard_time": 1697008537,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 130629,
@@ -28931,6 +29003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66245,
+      "num": 1464251,
+      "word": "行走黄河 遇见幸福",
+      "onboard_time": 1697004695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66108,
       "num": 66108,
       "word": "为啥直播带货抽佣这么高",
@@ -29081,14 +29161,6 @@
       "onboard_time": 1696708574,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 58686,
-      "num": 1464251,
-      "word": "行走黄河 遇见幸福",
-      "onboard_time": 1697004695,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 58599,
@@ -29945,6 +30017,14 @@
       "onboard_time": 1696968913,
       "rank": 49,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 9870,
+      "num": 444770,
+      "word": "高质量发展调研行",
+      "onboard_time": 1696996117,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 9769,
