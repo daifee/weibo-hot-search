@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/12 00:37:43
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/12 01:15:51
 </p>
 </blockquote>
 <p>
@@ -1623,6 +1623,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23" target="weibo">
+周杰伦演唱会前黄牛集体退票（热度：1485945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E8%B5%9B%E5%90%8E%E8%B0%88%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23" target="weibo">
 林雨薇赛后谈吴艳妮抢跑（热度：1483564）
 </a>
@@ -2075,12 +2081,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%23" target="weibo">
 海滩走失女童（热度：1242184）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23" target="weibo">
-周杰伦演唱会前黄牛集体退票（热度：1242162）
 </a>
 </li>
 
@@ -3335,6 +3335,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%9D%E5%8D%9C%E5%88%80%23" target="weibo">
 萝卜刀（热度：861564）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0%23" target="weibo">
+武大回应学生举报图书馆遭性骚扰（热度：860787）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ DOTA2中国追平蒙古（热度：568263）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%8B%E9%B2%B8%E9%B1%BC%E8%A2%AB%E5%81%B6%E9%81%87%23" target="weibo">
 迪丽热巴看鲸鱼被偶遇（热度：551041）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E5%B2%9B%E5%81%B6%E9%81%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%B6%85%E5%B8%82%E4%B9%B0%E8%8F%9C%23" target="weibo">
-冰岛偶遇迪丽热巴超市买菜（热度：550820）
 </a>
 </li>
 

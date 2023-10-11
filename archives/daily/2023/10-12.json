@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697042263137,
+  "endTime": 1697044551434,
   "band_list": [
     {
       "raw_hot": 1637823,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1242162,
-      "num": 1242162,
+      "raw_hot": 1485945,
+      "num": 1485945,
       "word": "周杰伦演唱会前黄牛集体退票",
       "onboard_time": 1697040451,
       "rank": 13,
@@ -25,6 +25,14 @@
       "onboard_time": 1697035001,
       "rank": 0,
       "category": "美食,知识科普"
+    },
+    {
+      "raw_hot": 860787,
+      "num": 860787,
+      "word": "武大回应学生举报图书馆遭性骚扰",
+      "onboard_time": 1697042724,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 739886,
@@ -195,6 +203,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 200499,
+      "num": 160589,
+      "word": "原来我们可以健康的熬夜",
+      "onboard_time": 1697040868,
+      "rank": 44,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 194589,
       "num": 305904,
       "word": "潜水员韩颋被找到",
@@ -209,14 +225,6 @@
       "onboard_time": 1697032719,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 175262,
-      "num": 160589,
-      "word": "原来我们可以健康的熬夜",
-      "onboard_time": 1697040868,
-      "rank": 44,
-      "category": "知识科普"
     },
     {
       "raw_hot": 170717,
@@ -371,6 +379,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 82490,
+      "num": 82490,
+      "word": "桥本环奈爱豆时代影像资料",
+      "onboard_time": 1697043382,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 80690,
       "num": 96069,
       "word": "JINI回应退出NMIXX的原因",
@@ -403,6 +419,38 @@
       "category": "数码"
     },
     {
+      "raw_hot": 62004,
+      "num": 67164,
+      "word": "内向性格的力量",
+      "onboard_time": 1697042846,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 44848,
+      "num": 67146,
+      "word": "什么环境下会促成infp",
+      "onboard_time": 1697042304,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 41544,
+      "num": 67141,
+      "word": "问心东立小分队救人好燃",
+      "onboard_time": 1697035598,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 10376,
+      "num": 461906,
+      "word": "一带一路一往无前",
+      "onboard_time": 1697028578,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 4887,
       "num": 706668,
       "word": "高质量发展调研行",
@@ -417,6 +465,9 @@
     },
     {
       "word": "#习近平在江西考察调研#"
+    },
+    {
+      "word": "#习近平将出席一带一路国际合作高峰论坛#"
     }
   ]
 }
