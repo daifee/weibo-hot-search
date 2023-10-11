@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697066216488,
+  "endTime": 1697067256281,
   "band_list": [
     {
       "raw_hot": 1969878,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 563397,
+      "num": 196638,
+      "word": "张若昀真的把宁理绑去拍庆余年2了",
+      "onboard_time": 1697065705,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429992,
       "num": 429992,
       "word": "白鹿丞磊 朝雪录",
@@ -91,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 392392,
+      "num": 169032,
+      "word": "女子被7年男友气哭想退婚爸爸力挺",
+      "onboard_time": 1697065462,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382677,
       "num": 382677,
       "word": "联合国9名人员在以色列空袭中丧生",
@@ -99,12 +115,36 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 379065,
+      "num": 189062,
+      "word": "颖儿哈萨克公主",
+      "onboard_time": 1697052373,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367275,
       "num": 301808,
       "word": "王源这两张图感觉不配字都不完整",
       "onboard_time": 1697039612,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 366347,
+      "num": 366347,
+      "word": "哈马斯杀害以色列40名儿童是真是假",
+      "onboard_time": 1697066487,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 326801,
+      "num": 326801,
+      "word": "野生大熊猫破坏相机怼脸画面",
+      "onboard_time": 1697065462,
+      "rank": 9,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 318226,
@@ -129,14 +169,6 @@
       "onboard_time": 1697017776,
       "rank": 19,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 292444,
-      "num": 167465,
-      "word": "颖儿哈萨克公主",
-      "onboard_time": 1697052373,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 271398,
@@ -211,12 +243,36 @@
       "category": "其它"
     },
     {
+      "raw_hot": 206652,
+      "num": 139803,
+      "word": "长期运动对外貌改变有多大",
+      "onboard_time": 1697067029,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 205267,
+      "num": 137456,
+      "word": "经常用牙线会让牙缝变宽吗",
+      "onboard_time": 1697067029,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 200499,
       "num": 160589,
       "word": "原来我们可以健康的熬夜",
       "onboard_time": 1697040868,
       "rank": 44,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 199689,
+      "num": 199689,
+      "word": "黄轩工作室晒黄轩怕冷实锤",
+      "onboard_time": 1697066246,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 194589,
@@ -235,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178203,
+      "num": 178203,
+      "word": "中国短道速滑队集训名单",
+      "onboard_time": 1697066185,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170717,
       "num": 170717,
       "word": "SEVENTEEN预告照",
@@ -243,16 +307,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169681,
-      "num": 169681,
-      "word": "野生大熊猫破坏相机怼脸画面",
-      "onboard_time": 1697065462,
-      "rank": 9,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 169590,
-      "num": 103747,
+      "num": 132957,
       "word": "体检指标常见异常代表什么",
       "onboard_time": 1697061434,
       "rank": 31,
@@ -273,14 +329,6 @@
       "onboard_time": 1697026415,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 164013,
-      "num": 103680,
-      "word": "女子被7年男友气哭想退婚爸爸力挺",
-      "onboard_time": 1697065462,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 161321,
@@ -307,12 +355,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155972,
-      "num": 96979,
-      "word": "张若昀真的把宁理绑去拍庆余年2了",
-      "onboard_time": 1697065705,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 158815,
+      "num": 158815,
+      "word": "妈妈随手一笔女儿改成创意漫画",
+      "onboard_time": 1697066005,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147354,
@@ -329,6 +377,14 @@
       "onboard_time": 1697035299,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143097,
+      "num": 143097,
+      "word": "救市后为何还是没人买房",
+      "onboard_time": 1697065525,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 139563,
@@ -363,12 +419,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121472,
+      "num": 121472,
+      "word": "减肥平台期最有效的方法",
+      "onboard_time": 1697056994,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 117788,
       "num": 117788,
       "word": "李健 为什么专注变得越来越难",
       "onboard_time": 1697033378,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116662,
+      "num": 116662,
+      "word": "我爸背着我们辍学了",
+      "onboard_time": 1697067029,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 115261,
+      "num": 115261,
+      "word": "老师吃席不忘给住宿学生打包解馋",
+      "onboard_time": 1697066067,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112043,
+      "num": 112043,
+      "word": "击垮你的是工作还是情绪",
+      "onboard_time": 1697065525,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 111637,
@@ -379,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 109660,
-      "num": 103264,
-      "word": "减肥平台期最有效的方法",
-      "onboard_time": 1697056994,
-      "rank": 31,
-      "category": "运动健身"
+      "raw_hot": 105512,
+      "num": 105512,
+      "word": "老爷爷路边亲密喂食一群麻雀",
+      "onboard_time": 1697066185,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101990,
@@ -435,6 +523,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 89538,
+      "num": 89538,
+      "word": "消防员累到睡着小棉袄爬上前偷亲",
+      "onboard_time": 1697066127,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 87486,
       "num": 96084,
       "word": "王嘉尔金发丸子头造型",
@@ -443,28 +539,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 85154,
-      "num": 85154,
-      "word": "救市后为何还是没人买房",
-      "onboard_time": 1697065525,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 82884,
-      "num": 82884,
-      "word": "妈妈随手一笔女儿改成创意漫画",
-      "onboard_time": 1697066005,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 81175,
-      "num": 81175,
-      "word": "击垮你的是工作还是情绪",
-      "onboard_time": 1697065525,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 81035,
+      "num": 89305,
+      "word": "体重秤被室友压碎了",
+      "onboard_time": 1697067210,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 80690,
@@ -491,14 +571,6 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 72421,
-      "num": 72421,
-      "word": "老师吃席不忘给住宿学生打包解馋",
-      "onboard_time": 1697066067,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 72163,
       "num": 96031,
       "word": "2023年的小米6有啥新变化",
@@ -507,36 +579,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 65800,
-      "num": 65800,
-      "word": "消防员累到睡着小棉袄爬上前偷亲",
-      "onboard_time": 1697066127,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 62004,
       "num": 67164,
       "word": "内向性格的力量",
       "onboard_time": 1697042846,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 61623,
-      "num": 61623,
-      "word": "老爷爷路边亲密喂食一群麻雀",
-      "onboard_time": 1697066185,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 60086,
-      "num": 60086,
-      "word": "中国短道速滑队集训名单",
-      "onboard_time": 1697066185,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 44848,
@@ -579,8 +627,8 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 23152,
-      "num": 576296,
+      "raw_hot": 28297,
+      "num": 809879,
       "word": "一带一路一往无前",
       "onboard_time": 1697028578,
       "rank": 2,
