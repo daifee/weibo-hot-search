@@ -1,0 +1,410 @@
+{
+  "runTime": 1697008568432,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1690933,
+        "num": 1690933,
+        "word": "投资人爆料韩寒因餐厅亏损上亿",
+        "onboard_time": 1697006673,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1036703,
+        "num": 1036703,
+        "word": "男子离开编制后父母觉得天塌了",
+        "onboard_time": 1697005113,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58686,
+        "num": 823593,
+        "word": "行走黄河 遇见幸福",
+        "onboard_time": 1697004695,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1772967,
+        "num": 784415,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657481,
+        "num": 657481,
+        "word": "作者七月新番去世",
+        "onboard_time": 1696999060,
+        "rank": 4,
+        "category": "社会新闻,读书作家"
+      },
+      {
+        "raw_hot": 643569,
+        "num": 643569,
+        "word": "中国网民叫新加坡坡县引发争议",
+        "onboard_time": 1697003133,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 555406,
+        "num": 555406,
+        "word": "巴以冲突升级",
+        "onboard_time": 1697002416,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 533416,
+        "num": 533416,
+        "word": "女研究生养猫反向将自己关进笼子",
+        "onboard_time": 1697002355,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472175,
+        "num": 472175,
+        "word": "社保卡一定要记得激活",
+        "onboard_time": 1696984240,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 419585,
+        "num": 419585,
+        "word": "王牌8官宣阵容",
+        "onboard_time": 1696992631,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1248347,
+        "num": 413156,
+        "word": "碧桂园",
+        "onboard_time": 1697003195,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804573,
+        "num": 411980,
+        "word": "95后女模特为男友增肥69斤后被抛弃",
+        "onboard_time": 1696997859,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 453370,
+        "num": 405591,
+        "word": "井胧和姐姐那么近又那么远",
+        "onboard_time": 1697006853,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379752,
+        "num": 379752,
+        "word": "一生不被允许gap的中国人",
+        "onboard_time": 1696993297,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349258,
+        "num": 349258,
+        "word": "卢昱晓 你好李佳",
+        "onboard_time": 1697004334,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346894,
+        "num": 346894,
+        "word": "A股",
+        "onboard_time": 1697005774,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 315040,
+        "num": 315040,
+        "word": "王俊凯对AI技术持保留意见",
+        "onboard_time": 1697007274,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309152,
+        "num": 309152,
+        "word": "男子买50克金条打成镯子送爱妻",
+        "onboard_time": 1696998342,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478168,
+        "num": 305674,
+        "word": "被哈马斯绑架的中以混血女孩父母发声",
+        "onboard_time": 1697002477,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301229,
+        "num": 301229,
+        "word": "王诗晴曾把全部积蓄借给纪焕博买房",
+        "onboard_time": 1697006733,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305344,
+        "num": 300768,
+        "word": "老婆怀不上问题竟出在老公的工作上",
+        "onboard_time": 1697001161,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268333,
+        "num": 268333,
+        "word": "阮经天张钧甯 我们友谊长存",
+        "onboard_time": 1697007933,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 266630,
+        "num": 266630,
+        "word": "放羊的星星花絮",
+        "onboard_time": 1697008113,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244763,
+        "num": 244763,
+        "word": "碧桂园服务总裁李长江辞职",
+        "onboard_time": 1697003496,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244309,
+        "num": 244309,
+        "word": "每坐1小时平均寿命缩短22分钟",
+        "onboard_time": 1696987357,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 254108,
+        "num": 241708,
+        "word": "张钧甯阮经天 16年前16年后",
+        "onboard_time": 1696996657,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228825,
+        "num": 228825,
+        "word": "酒店床上布条的作用",
+        "onboard_time": 1696995876,
+        "rank": 26,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 227780,
+        "num": 227780,
+        "word": "王楚钦孙颖莎0比3刘丁硕王添艺",
+        "onboard_time": 1696992098,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207969,
+        "num": 207969,
+        "word": "我的真实身份其实是蚊子公主",
+        "onboard_time": 1697007815,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199570,
+        "num": 199570,
+        "word": "泽连斯基称巴以冲突可能使国际减少关注俄乌",
+        "onboard_time": 1697002776,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204000,
+        "num": 195783,
+        "word": "龚俊油画妆",
+        "onboard_time": 1697008232,
+        "rank": 30,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 180545,
+        "num": 180545,
+        "word": "失眠可以试试翻白眼",
+        "onboard_time": 1697007333,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180479,
+        "num": 180479,
+        "word": "王牌8没贾玲",
+        "onboard_time": 1696993595,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176045,
+        "num": 176045,
+        "word": "Mate60系列供应商涨价",
+        "onboard_time": 1697000800,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175621,
+        "num": 175621,
+        "word": "女孩读书是为遇见更好的自己",
+        "onboard_time": 1697008173,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168979,
+        "num": 168979,
+        "word": "十个勤天拍给独居女孩的短片",
+        "onboard_time": 1697005594,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165263,
+        "num": 165263,
+        "word": "华北理工食堂承包商称食材由学校采购",
+        "onboard_time": 1697008294,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158975,
+        "num": 158975,
+        "word": "王源哭戏演技",
+        "onboard_time": 1697004816,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156499,
+        "num": 156499,
+        "word": "关晓彤三句不离喝点",
+        "onboard_time": 1696993055,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153636,
+        "num": 153636,
+        "word": "苏翊鸣 You jump I jump",
+        "onboard_time": 1697004272,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156089,
+        "num": 153473,
+        "word": "关晓彤晒开机照",
+        "onboard_time": 1697005956,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150496,
+        "num": 150496,
+        "word": "四川一中学化粪池塌陷有学生掉进粪坑",
+        "onboard_time": 1696999421,
+        "rank": 41,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 149941,
+        "num": 149941,
+        "word": "傅首尔想刀人的眼神藏不住了",
+        "onboard_time": 1697001873,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147722,
+        "num": 147722,
+        "word": "国考",
+        "onboard_time": 1696992333,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146840,
+        "num": 146840,
+        "word": "十大人气动漫男角色",
+        "onboard_time": 1697008173,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 145180,
+        "num": 145180,
+        "word": "流浪杜华",
+        "onboard_time": 1697006555,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142896,
+        "num": 142896,
+        "word": "陈都灵 中秋奇妙游",
+        "onboard_time": 1696998460,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138440,
+        "num": 138440,
+        "word": "仙台有树",
+        "onboard_time": 1696999306,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133331,
+        "num": 133331,
+        "word": "iPhone被曝夜间自动关机",
+        "onboard_time": 1696989813,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130774,
+        "num": 130774,
+        "word": "电影一个和四个全员不像好人",
+        "onboard_time": 1697008537,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#不断开创新时代宣传思想文化工作新局面#"
+    }
+  }
+}

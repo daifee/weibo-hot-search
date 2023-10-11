@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697006227573,
+  "endTime": 1697008568432,
   "band_list": [
     {
       "raw_hot": 3059017,
@@ -99,6 +99,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1690933,
+      "num": 1690933,
+      "word": "投资人爆料韩寒因餐厅亏损上亿",
+      "onboard_time": 1697006673,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1658795,
       "num": 495143,
       "word": "北极鲶鱼的恨国论也该严查",
@@ -161,6 +169,14 @@
       "onboard_time": 1696987056,
       "rank": 11,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 1036703,
+      "num": 1036703,
+      "word": "男子离开编制后父母觉得天塌了",
+      "onboard_time": 1697005113,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1010811,
@@ -281,6 +297,14 @@
       "onboard_time": 1697002416,
       "rank": 47,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 643569,
+      "num": 643569,
+      "word": "中国网民叫新加坡坡县引发争议",
+      "onboard_time": 1697003133,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 633414,
@@ -483,6 +507,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 453370,
+      "num": 405591,
+      "word": "井胧和姐姐那么近又那么远",
+      "onboard_time": 1697006853,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448926,
       "num": 448926,
       "word": "关晓彤三句不离喝点",
@@ -513,14 +545,6 @@
       "onboard_time": 1696951538,
       "rank": 7,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 413883,
-      "num": 413883,
-      "word": "中国网民叫新加坡坡县引发争议",
-      "onboard_time": 1697003133,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407929,
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346894,
+      "num": 346894,
+      "word": "A股",
+      "onboard_time": 1697005774,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 339099,
       "num": 339099,
       "word": "卢靖姗呼吁职场人关注隐形慢病",
@@ -691,20 +723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 320768,
-      "num": 320768,
-      "word": "男子离开编制后父母觉得天塌了",
-      "onboard_time": 1697005113,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 317985,
-      "num": 317985,
-      "word": "A股",
-      "onboard_time": 1697005774,
-      "rank": 22,
-      "category": "财经"
+      "raw_hot": 315040,
+      "num": 315040,
+      "word": "王俊凯对AI技术持保留意见",
+      "onboard_time": 1697007274,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 311947,
@@ -752,6 +776,14 @@
       "word": "王牌8好友季官宣",
       "onboard_time": 1696993415,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 301229,
+      "num": 301229,
+      "word": "王诗晴曾把全部积蓄借给纪焕博买房",
+      "onboard_time": 1697006733,
+      "rank": 19,
       "category": "综艺"
     },
     {
@@ -883,12 +915,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 268333,
+      "num": 268333,
+      "word": "阮经天张钧甯 我们友谊长存",
+      "onboard_time": 1697007933,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267773,
       "num": 267773,
       "word": "时代少年团到达上海",
       "onboard_time": 1696989036,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 266630,
+      "num": 266630,
+      "word": "放羊的星星花絮",
+      "onboard_time": 1697008113,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 265739,
@@ -1107,6 +1155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207969,
+      "num": 207969,
+      "word": "我的真实身份其实是蚊子公主",
+      "onboard_time": 1697007815,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 206768,
       "num": 206768,
       "word": "十个勤天拍给独居女孩的短片",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1696991854,
       "rank": 39,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 204000,
+      "num": 195783,
+      "word": "龚俊油画妆",
+      "onboard_time": 1697008232,
+      "rank": 30,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 203942,
@@ -1307,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180545,
+      "num": 180545,
+      "word": "失眠可以试试翻白眼",
+      "onboard_time": 1697007333,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 176873,
       "num": 176873,
       "word": "炎越疯我越爱",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1697001935,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 175621,
+      "num": 175621,
+      "word": "女孩读书是为遇见更好的自己",
+      "onboard_time": 1697008173,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175606,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1696948541,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165263,
+      "num": 165263,
+      "word": "华北理工食堂承包商称食材由学校采购",
+      "onboard_time": 1697008294,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163841,
@@ -1459,6 +1547,30 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146840,
+      "num": 146840,
+      "word": "十大人气动漫男角色",
+      "onboard_time": 1697008173,
+      "rank": 44,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 145180,
+      "num": 145180,
+      "word": "流浪杜华",
+      "onboard_time": 1697006555,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142896,
+      "num": 142896,
+      "word": "陈都灵 中秋奇妙游",
+      "onboard_time": 1696998460,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142077,
       "num": 142077,
       "word": "张元英美式女高造型",
@@ -1505,6 +1617,14 @@
       "onboard_time": 1696948062,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130774,
+      "num": 130774,
+      "word": "电影一个和四个全员不像好人",
+      "onboard_time": 1697008537,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 130328,
@@ -1683,6 +1803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 58686,
+      "num": 1464251,
+      "word": "行走黄河 遇见幸福",
+      "onboard_time": 1697004695,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 57424,
       "num": 57424,
       "word": "原神海维 核中宇宙",
@@ -1739,14 +1867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 41419,
-      "num": 1464251,
-      "word": "行走黄河 遇见幸福",
-      "onboard_time": 1697004695,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 33948,
       "num": 33948,
       "word": "近5年时间记录100种花开瞬间",
@@ -1799,6 +1919,9 @@
     },
     {
       "word": "#习近平将出席一带一路国际合作高峰论坛#"
+    },
+    {
+      "word": "#不断开创新时代宣传思想文化工作新局面#"
     }
   ]
 }
