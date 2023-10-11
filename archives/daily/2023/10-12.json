@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697041320717,
+  "endTime": 1697042263137,
   "band_list": [
     {
       "raw_hot": 1637823,
@@ -9,6 +9,14 @@
       "onboard_time": 1697027494,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242162,
+      "num": 1242162,
+      "word": "周杰伦演唱会前黄牛集体退票",
+      "onboard_time": 1697040451,
+      "rank": 13,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 1196484,
@@ -36,23 +44,15 @@
     },
     {
       "raw_hot": 587894,
-      "num": 403510,
+      "num": 441608,
       "word": "papi酱 追星有这么严格嘛",
       "onboard_time": 1697023235,
       "rank": 3,
       "category": "网红"
     },
     {
-      "raw_hot": 541648,
-      "num": 302886,
-      "word": "周杰伦演唱会前黄牛集体退票",
-      "onboard_time": 1697040451,
-      "rank": 13,
-      "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 527446,
-      "num": 302563,
+      "raw_hot": 581557,
+      "num": 581557,
       "word": "男子举报一烟草厂长出轨并生女",
       "onboard_time": 1697039253,
       "rank": 14,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225023,
+      "num": 205282,
+      "word": "他手机有秘密有感情有爱人",
+      "onboard_time": 1697039192,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 219916,
       "num": 307796,
       "word": "肖战无羁录音室新花絮",
@@ -187,14 +195,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 205282,
-      "num": 205282,
-      "word": "他手机有秘密有感情有爱人",
-      "onboard_time": 1697039192,
-      "rank": 25,
-      "category": "情感"
-    },
-    {
       "raw_hot": 194589,
       "num": 305904,
       "word": "潜水员韩颋被找到",
@@ -209,6 +209,14 @@
       "onboard_time": 1697032719,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175262,
+      "num": 160589,
+      "word": "原来我们可以健康的熬夜",
+      "onboard_time": 1697040868,
+      "rank": 44,
+      "category": "知识科普"
     },
     {
       "raw_hot": 170717,
@@ -227,7 +235,7 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 164051,
+      "raw_hot": 166041,
       "num": 164051,
       "word": "我的临时身份证也太临时了吧",
       "onboard_time": 1697026415,
@@ -243,20 +251,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160134,
+      "num": 160134,
+      "word": "差点被面部保养淹死",
+      "onboard_time": 1697039432,
+      "rank": 32,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 158949,
       "num": 158949,
       "word": "闫桉发文告别组合",
       "onboard_time": 1697030616,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150263,
-      "num": 150263,
-      "word": "差点被面部保养淹死",
-      "onboard_time": 1697039432,
-      "rank": 32,
-      "category": "幽默,美妆"
     },
     {
       "raw_hot": 147354,
@@ -340,23 +348,15 @@
     },
     {
       "raw_hot": 92510,
-      "num": 92510,
+      "num": 95969,
       "word": "周杰伦上海演唱会彩排",
       "onboard_time": 1697034698,
       "rank": 43,
       "category": "演出"
     },
     {
-      "raw_hot": 92148,
-      "num": 92148,
-      "word": "原来我们可以健康的熬夜",
-      "onboard_time": 1697040868,
-      "rank": 44,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 92016,
-      "num": 92016,
+      "num": 95979,
       "word": "李泳知跳Get A Guitar",
       "onboard_time": 1697035836,
       "rank": 45,
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 87486,
-      "num": 92016,
+      "num": 96084,
       "word": "王嘉尔金发丸子头造型",
       "onboard_time": 1697026051,
       "rank": 46,
@@ -372,7 +372,7 @@
     },
     {
       "raw_hot": 80690,
-      "num": 92006,
+      "num": 96069,
       "word": "JINI回应退出NMIXX的原因",
       "onboard_time": 1697017596,
       "rank": 47,
@@ -388,15 +388,23 @@
     },
     {
       "raw_hot": 76115,
-      "num": 91990,
+      "num": 96000,
       "word": "张博恒的亚运金牌没捂热就捐了",
       "onboard_time": 1697038834,
       "rank": 49,
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 72163,
+      "num": 96031,
+      "word": "2023年的小米6有啥新变化",
+      "onboard_time": 1697041947,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 4887,
-      "num": 403625,
+      "num": 706668,
       "word": "高质量发展调研行",
       "onboard_time": 1696996117,
       "rank": 2,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#不断开创新时代宣传思想文化工作新局面#"
+    },
+    {
+      "word": "#习近平在江西考察调研#"
     }
   ]
 }
