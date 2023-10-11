@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/12 06:34:02
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/12 07:16:56
 </p>
 </blockquote>
 <p>
@@ -897,6 +897,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23" target="weibo">
+周杰伦演唱会前黄牛集体退票（热度：1969878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E4%BF%A1%E5%86%85%E5%AD%98%E4%BB%8E126G%E5%88%B075G%23" target="weibo">
 微信内存从126G到75G（热度：1954001）
 </a>
@@ -1619,12 +1625,6 @@ DOTA2中国队晋级决赛（热度：1546862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%85%B0%E5%B7%9E%E7%AB%99%E5%A4%BA%E5%86%A0%23" target="weibo">
 孙颖莎兰州站夺冠（热度：1488671）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23" target="weibo">
-周杰伦演唱会前黄牛集体退票（热度：1485945）
 </a>
 </li>
 
@@ -2787,6 +2787,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0%23" target="weibo">
+武大回应学生举报图书馆遭性骚扰（热度：979673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E6%9C%88%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 十月狗屎运最旺的星座（热度：979214）
 </a>
@@ -3335,12 +3341,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%90%9D%E5%8D%9C%E5%88%80%23" target="weibo">
 萝卜刀（热度：861564）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0%23" target="weibo">
-武大回应学生举报图书馆遭性骚扰（热度：860787）
 </a>
 </li>
 
