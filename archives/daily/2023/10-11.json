@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697037477023,
+  "endTime": 1697038477173,
   "band_list": [
     {
       "raw_hot": 5557870,
@@ -243,6 +243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1282559,
+      "num": 1282559,
+      "word": "螃蟹把最好吃的部分进化掉了",
+      "onboard_time": 1697035001,
+      "rank": 1,
+      "category": "美食,知识科普"
+    },
+    {
       "raw_hot": 1119546,
       "num": 501342,
       "word": "本轮巴以冲突已致双方2100余人死亡",
@@ -316,7 +324,7 @@
     },
     {
       "raw_hot": 944632,
-      "num": 522188,
+      "num": 570216,
       "word": "联合国9名人员在以色列空袭中丧生",
       "onboard_time": 1697031998,
       "rank": 5,
@@ -353,14 +361,6 @@
       "onboard_time": 1696993595,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 838815,
-      "num": 838815,
-      "word": "螃蟹把最好吃的部分进化掉了",
-      "onboard_time": 1697035001,
-      "rank": 1,
-      "category": "美食,知识科普"
     },
     {
       "raw_hot": 829544,
@@ -635,6 +635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 582820,
+      "num": 582820,
+      "word": "白鹿丞磊 朝雪录",
+      "onboard_time": 1697036617,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 578734,
       "num": 530409,
       "word": "北极鲶鱼究竟是什么鱼",
@@ -889,14 +897,6 @@
       "onboard_time": 1696993055,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 447708,
-      "num": 325972,
-      "word": "白鹿丞磊 朝雪录",
-      "onboard_time": 1697036617,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 444829,
@@ -1155,6 +1155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 359245,
+      "num": 312288,
+      "word": "姜典撞脸Doinb",
+      "onboard_time": 1697035897,
+      "rank": 17,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 358604,
       "num": 358604,
       "word": "王源哭戏演技",
@@ -1331,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319516,
+      "num": 301586,
+      "word": "刘宪华直播连麦连了一屋子人",
+      "onboard_time": 1697037698,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318323,
       "num": 349597,
       "word": "gidle上海线下签售会",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1697007274,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 312288,
-      "num": 312288,
-      "word": "姜典撞脸Doinb",
-      "onboard_time": 1697035897,
-      "rank": 17,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 311947,
@@ -2011,20 +2019,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 212526,
+      "num": 212526,
+      "word": "灯光是蓝绿红橙的 凯子心情是黑色的",
+      "onboard_time": 1697028516,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 212174,
       "num": 212174,
       "word": "9月新增本土新冠死亡病例45例",
       "onboard_time": 1696940136,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 212002,
-      "num": 212002,
-      "word": "灯光是蓝绿红橙的 凯子心情是黑色的",
-      "onboard_time": 1697028516,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 210382,
@@ -2931,6 +2939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135499,
+      "num": 135499,
+      "word": "如何用蟹八件吃螃蟹",
+      "onboard_time": 1697037815,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 134931,
       "num": 134931,
       "word": "学生咳嗽学校特地熬冰糖雪梨汤",
@@ -3121,6 +3137,14 @@
       "onboard_time": 1696995103,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 109074,
+      "num": 109074,
+      "word": "200斤重患者突发急病120求助119",
+      "onboard_time": 1697037757,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 108954,
