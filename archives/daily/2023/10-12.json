@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697055496366,
+  "endTime": 1697056484230,
   "band_list": [
     {
       "raw_hot": 1637823,
@@ -451,20 +451,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38019,
+      "num": 39566,
+      "word": "游戏使用孙红雷这瓜保熟吗被告",
+      "onboard_time": 1697052195,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36732,
       "num": 49612,
       "word": "猫咪因咬充电线被主人PUA",
       "onboard_time": 1697049073,
       "rank": 41,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 35702,
-      "num": 39566,
-      "word": "游戏使用孙红雷这瓜保熟吗被告",
-      "onboard_time": 1697052195,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21228,
