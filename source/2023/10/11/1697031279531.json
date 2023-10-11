@@ -1,0 +1,410 @@
+{
+  "runTime": 1697031279531,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1331074,
+        "num": 1331074,
+        "word": "敬贵妃 她私下就是烟酒都来啊",
+        "onboard_time": 1697025275,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 670154,
+        "num": 670154,
+        "word": "潜水员韩颋被找到",
+        "onboard_time": 1697025933,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 6190,
+        "num": 512217,
+        "word": "高质量发展调研行",
+        "onboard_time": 1696996117,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1685321,
+        "num": 501086,
+        "word": "papi酱 追星有这么严格嘛",
+        "onboard_time": 1697023235,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 462452,
+        "num": 462452,
+        "word": "贾玲缺席王牌8的原因",
+        "onboard_time": 1697014834,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526439,
+        "num": 459201,
+        "word": "罗翔谈PPT曝光渣男渣女",
+        "onboard_time": 1697018858,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443382,
+        "num": 443382,
+        "word": "以色列议员呼吁使用末日武器",
+        "onboard_time": 1697017776,
+        "rank": 6,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 425184,
+        "num": 425184,
+        "word": "停止销售41款即开型福利彩票",
+        "onboard_time": 1697025393,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332850,
+        "num": 332850,
+        "word": "王嘉尔金发丸子头造型",
+        "onboard_time": 1697026051,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 287217,
+        "num": 287217,
+        "word": "刘聪演唱会官宣",
+        "onboard_time": 1697029778,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 3862877,
+        "num": 285167,
+        "word": "武大男生在图书馆实施性骚扰",
+        "onboard_time": 1697027494,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3206660,
+        "num": 281454,
+        "word": "武汉大学",
+        "onboard_time": 1697027075,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 942401,
+        "num": 279807,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697026593,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 964049,
+        "num": 275074,
+        "word": "北京政法职业学院霸凌女生疑亮相宣传片",
+        "onboard_time": 1697027315,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274230,
+        "num": 274230,
+        "word": "白鹿抵达昆明录制跑男",
+        "onboard_time": 1697028936,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 366946,
+        "num": 272751,
+        "word": "叶舒华上海签售会生图",
+        "onboard_time": 1697029236,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330956,
+        "num": 269911,
+        "word": "网友曝刘暖曦在视频号直播带货",
+        "onboard_time": 1697016693,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297777,
+        "num": 267101,
+        "word": "北极鲶鱼哪来的安全感",
+        "onboard_time": 1697012135,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263283,
+        "num": 263283,
+        "word": "穿旗袍的刘亦菲 古色古香的瓷器",
+        "onboard_time": 1697023894,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 260992,
+        "num": 260992,
+        "word": "俞敏洪想上价值 余秀华躺地上不起来",
+        "onboard_time": 1697028215,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 692614,
+        "num": 259691,
+        "word": "原来公积金是这样用的",
+        "onboard_time": 1697027797,
+        "rank": 20,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 427429,
+        "num": 258243,
+        "word": "晚上睡觉之前建议揉一揉肚子",
+        "onboard_time": 1697026356,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 387271,
+        "num": 256194,
+        "word": "吴昕父母敲了4次门在门外待了6个小时",
+        "onboard_time": 1697011415,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279886,
+        "num": 254640,
+        "word": "我的临时身份证也太临时了吧",
+        "onboard_time": 1697026415,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261932,
+        "num": 253346,
+        "word": "老天奶我求你了 girls help girls",
+        "onboard_time": 1697015915,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252556,
+        "num": 252556,
+        "word": "成蕾被驱逐出境",
+        "onboard_time": 1697010096,
+        "rank": 25,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 228843,
+        "num": 228843,
+        "word": "刘维给薛之谦打几分主要看粉丝",
+        "onboard_time": 1697030137,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222081,
+        "num": 222081,
+        "word": "复旦退休教授讲座时抽烟遭投诉",
+        "onboard_time": 1697029896,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219684,
+        "num": 219684,
+        "word": "莲花楼 无痛背单词",
+        "onboard_time": 1697027196,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210200,
+        "num": 210200,
+        "word": "周冬雨黑色长裙从肩露到腰",
+        "onboard_time": 1697021435,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240879,
+        "num": 209226,
+        "word": "闫桉发文告别组合",
+        "onboard_time": 1697030616,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199598,
+        "num": 199598,
+        "word": "陈家平主用皮带止血",
+        "onboard_time": 1697030434,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199064,
+        "num": 199064,
+        "word": "官方答复上海申奥",
+        "onboard_time": 1697024672,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195997,
+        "num": 195997,
+        "word": "JINI回应退出NMIXX的原因",
+        "onboard_time": 1697017596,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188559,
+        "num": 188559,
+        "word": "王俊凯红毯全身镜头",
+        "onboard_time": 1697023053,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184589,
+        "num": 184589,
+        "word": "早期周雨彤",
+        "onboard_time": 1697024372,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160033,
+        "num": 160033,
+        "word": "王曼昱3比0吴洋晨",
+        "onboard_time": 1697030434,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148408,
+        "num": 148408,
+        "word": "爸爸每天带6岁女儿陆地训练游泳",
+        "onboard_time": 1697025694,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147746,
+        "num": 147746,
+        "word": "中国马术队巴黎奥运会参赛资格被取消",
+        "onboard_time": 1697011956,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179705,
+        "num": 147696,
+        "word": "贾樟柯给王俊凯的惊喜",
+        "onboard_time": 1697026655,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147436,
+        "num": 147436,
+        "word": "孝女冒雨为母洗脚",
+        "onboard_time": 1697030377,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139951,
+        "num": 139951,
+        "word": "宫崎骏红猪定档",
+        "onboard_time": 1697027315,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136998,
+        "num": 136998,
+        "word": "涵艺爆料EDG新辅助",
+        "onboard_time": 1697028034,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135783,
+        "num": 135783,
+        "word": "交警听到呼救飞奔爬车的身影太帅了",
+        "onboard_time": 1697028578,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132532,
+        "num": 132532,
+        "word": "左双桃陈家平真情侣假情深",
+        "onboard_time": 1697030315,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131270,
+        "num": 131270,
+        "word": "时代少年团LV快闪造型",
+        "onboard_time": 1697020597,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129795,
+        "num": 129795,
+        "word": "仿假肢鞋卖出去了",
+        "onboard_time": 1697025514,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124664,
+        "num": 124664,
+        "word": "社保缴满15年后能坐等退休吗",
+        "onboard_time": 1696997499,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121348,
+        "num": 121348,
+        "word": "时装周最出圈明星前三",
+        "onboard_time": 1697024915,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 115991,
+        "num": 121346,
+        "word": "何炅 关于懂你这件事的分寸感",
+        "onboard_time": 1697020774,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席一带一路国际合作高峰论坛#"
+    }
+  }
+}

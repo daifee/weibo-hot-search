@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697030566419,
+  "endTime": 1697031279531,
   "band_list": [
     {
       "raw_hot": 5557870,
@@ -11,19 +11,19 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 3862877,
+      "num": 1730055,
+      "word": "武大男生在图书馆实施性骚扰",
+      "onboard_time": 1697027494,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3408888,
       "num": 362274,
       "word": "武汉大学",
       "onboard_time": 1697027075,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 3174572,
-      "num": 1730055,
-      "word": "武大男生在图书馆实施性骚扰",
-      "onboard_time": 1697027494,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -291,6 +291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 964049,
+      "num": 282319,
+      "word": "北京政法职业学院霸凌女生疑亮相宣传片",
+      "onboard_time": 1697027315,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 959749,
       "num": 308938,
       "word": "吴昕父母敲了4次门在门外待了6个小时",
@@ -395,14 +403,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 743148,
-      "num": 282319,
-      "word": "北京政法职业学院霸凌女生疑亮相宣传片",
-      "onboard_time": 1697027315,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 707323,
       "num": 707323,
       "word": "在新加坡对护士爆粗口被调查",
@@ -417,6 +417,14 @@
       "onboard_time": 1696936239,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 692614,
+      "num": 259691,
+      "word": "原来公积金是这样用的",
+      "onboard_time": 1697027797,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 680133,
@@ -441,6 +449,14 @@
       "onboard_time": 1697021435,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 670154,
+      "num": 670154,
+      "word": "潜水员韩颋被找到",
+      "onboard_time": 1697025933,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 660732,
@@ -481,14 +497,6 @@
       "onboard_time": 1697003133,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643189,
-      "num": 248905,
-      "word": "原来公积金是这样用的",
-      "onboard_time": 1697027797,
-      "rank": 30,
-      "category": "知识科普"
     },
     {
       "raw_hot": 640841,
@@ -664,14 +672,6 @@
       "word": "新华社称退休不是护身符",
       "onboard_time": 1696947580,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 520076,
-      "num": 520076,
-      "word": "潜水员韩颋被找到",
-      "onboard_time": 1697025933,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -977,6 +977,14 @@
       "onboard_time": 1697015978,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 366946,
+      "num": 272751,
+      "word": "叶舒华上海签售会生图",
+      "onboard_time": 1697029236,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 366406,
@@ -1331,6 +1339,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 287217,
+      "num": 287217,
+      "word": "刘聪演唱会官宣",
+      "onboard_time": 1697029778,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 286380,
       "num": 286380,
       "word": "小时候吃的台湾无骨鸡柳去哪了",
@@ -1401,14 +1417,6 @@
       "onboard_time": 1696987415,
       "rank": 24,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 272568,
-      "num": 272568,
-      "word": "叶舒华上海签售会生图",
-      "onboard_time": 1697029236,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 272295,
@@ -1497,6 +1505,14 @@
       "onboard_time": 1696999603,
       "rank": 27,
       "category": "幽默,剧集"
+    },
+    {
+      "raw_hot": 260992,
+      "num": 260992,
+      "word": "俞敏洪想上价值 余秀华躺地上不起来",
+      "onboard_time": 1697028215,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 260387,
@@ -1627,6 +1643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 240879,
+      "num": 209226,
+      "word": "闫桉发文告别组合",
+      "onboard_time": 1697030616,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 239384,
       "num": 239384,
       "word": "宫崎骏红猪定档",
@@ -1649,14 +1673,6 @@
       "onboard_time": 1697027196,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 236822,
-      "num": 236822,
-      "word": "俞敏洪想上价值 余秀华躺地上不起来",
-      "onboard_time": 1697028215,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 236528,
@@ -1691,20 +1707,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 230760,
-      "num": 230760,
-      "word": "刘聪演唱会官宣",
-      "onboard_time": 1697029778,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 228938,
       "num": 228938,
       "word": "周恺跪地庆祝",
       "onboard_time": 1697026894,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 228843,
+      "num": 228843,
+      "word": "刘维给薛之谦打几分主要看粉丝",
+      "onboard_time": 1697030137,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 228619,
@@ -1761,6 +1777,14 @@
       "onboard_time": 1696978945,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222081,
+      "num": 222081,
+      "word": "复旦退休教授讲座时抽烟遭投诉",
+      "onboard_time": 1697029896,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221703,
@@ -1977,6 +2001,14 @@
       "onboard_time": 1696954891,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 199598,
+      "num": 199598,
+      "word": "陈家平主用皮带止血",
+      "onboard_time": 1697030434,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 199519,
@@ -2211,14 +2243,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 182254,
-      "num": 182254,
-      "word": "刘维给薛之谦打几分主要看粉丝",
-      "onboard_time": 1697030137,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182183,
       "num": 182183,
       "word": "创5选手撞脸鹿晗关晓彤",
@@ -2371,14 +2395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169857,
-      "num": 169857,
-      "word": "复旦退休教授讲座时抽烟遭投诉",
-      "onboard_time": 1697029896,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 169853,
       "num": 169853,
       "word": "花月杀手",
@@ -2401,14 +2417,6 @@
       "onboard_time": 1697028215,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 166135,
-      "num": 166135,
-      "word": "陈家平主用皮带止血",
-      "onboard_time": 1697030434,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 165632,
@@ -2457,6 +2465,14 @@
       "onboard_time": 1697010393,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160033,
+      "num": 160033,
+      "word": "王曼昱3比0吴洋晨",
+      "onboard_time": 1697030434,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 159594,
@@ -2611,6 +2627,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 147436,
+      "num": 147436,
+      "word": "孝女冒雨为母洗脚",
+      "onboard_time": 1697030377,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 145806,
       "num": 145806,
       "word": "成都科幻馆夜晚的音乐喷泉太美了",
@@ -2649,14 +2673,6 @@
       "onboard_time": 1696998460,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 142561,
-      "num": 142561,
-      "word": "王曼昱3比0吴洋晨",
-      "onboard_time": 1697030434,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 142077,
@@ -2793,14 +2809,6 @@
       "onboard_time": 1696946439,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122464,
-      "num": 122464,
-      "word": "孝女冒雨为母洗脚",
-      "onboard_time": 1697030377,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 118330,
