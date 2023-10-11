@@ -1,6 +1,6 @@
 {
   "startTime": 1696954974153,
-  "endTime": 1697016871778,
+  "endTime": 1697019564715,
   "band_list": [
     {
       "raw_hot": 5557870,
@@ -65,6 +65,14 @@
       "onboard_time": 1696985378,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2028062,
+      "num": 2028062,
+      "word": "网友曝刘暖曦在视频号直播带货",
+      "onboard_time": 1697016693,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1996649,
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1012975,
+      "num": 1012975,
+      "word": "以色列议员呼吁使用末日武器",
+      "onboard_time": 1697017776,
+      "rank": 5,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 1010811,
       "num": 586273,
       "word": "95后女模特为男友增肥69斤后被抛弃",
@@ -211,8 +227,24 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 981128,
+      "num": 981128,
+      "word": "老天奶我求你了 girls help girls",
+      "onboard_time": 1697015915,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 968203,
+      "num": 968203,
+      "word": "贾玲缺席王牌8的原因",
+      "onboard_time": 1697014834,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 959749,
-      "num": 287960,
+      "num": 294617,
       "word": "吴昕父母敲了4次门在门外待了6个小时",
       "onboard_time": 1697011415,
       "rank": 20,
@@ -251,12 +283,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 828817,
-      "num": 828817,
-      "word": "贾玲缺席王牌8的原因",
-      "onboard_time": 1697014834,
-      "rank": 10,
-      "category": "综艺"
+      "raw_hot": 828725,
+      "num": 828725,
+      "word": "JINI回应退出NIMXX的原因",
+      "onboard_time": 1697017596,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 827537,
@@ -532,7 +564,7 @@
     },
     {
       "raw_hot": 513906,
-      "num": 261918,
+      "num": 338364,
       "word": "北极鲶鱼哪来的安全感",
       "onboard_time": 1697012135,
       "rank": 21,
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 401362,
-      "num": 207450,
+      "num": 295472,
       "word": "200年前有钱人的豪宅",
       "onboard_time": 1697014897,
       "rank": 30,
@@ -747,6 +779,22 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 380570,
+      "num": 380570,
+      "word": "胡彦斌讲着讲着失控了",
+      "onboard_time": 1697017596,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 378588,
+      "num": 378588,
+      "word": "华天不会被禁赛",
+      "onboard_time": 1697018259,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 374524,
       "num": 374524,
       "word": "魏大勋收到孟宴臣生日邀请函",
@@ -756,7 +804,7 @@
     },
     {
       "raw_hot": 368096,
-      "num": 237792,
+      "num": 272336,
       "word": "Jennie有自己的手麦了",
       "onboard_time": 1697015978,
       "rank": 26,
@@ -811,6 +859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 359148,
+      "num": 359148,
+      "word": "罗翔谈PPT曝光渣男渣女",
+      "onboard_time": 1697018858,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358604,
       "num": 358604,
       "word": "王源哭戏演技",
@@ -843,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 348627,
+      "num": 293218,
+      "word": "迪丽热巴冰晶小橘子",
+      "onboard_time": 1697017478,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 346894,
       "num": 346894,
       "word": "A股",
@@ -865,14 +929,6 @@
       "onboard_time": 1696985977,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 332577,
-      "num": 332577,
-      "word": "老天奶我求你了 girls help girls",
-      "onboard_time": 1697015915,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 331464,
@@ -1059,6 +1115,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 280399,
+      "num": 280399,
+      "word": "结婚后为什么开销这么大",
+      "onboard_time": 1697016336,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 279396,
       "num": 279396,
       "word": "杨幂看见猫就走不动路",
@@ -1131,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267888,
+      "num": 267888,
+      "word": "一份面包怎么敢卖两份钱",
+      "onboard_time": 1697018379,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 267773,
       "num": 267773,
       "word": "时代少年团到达上海",
@@ -1147,12 +1219,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 265007,
+      "num": 265007,
+      "word": "0713像你这样的朋友",
+      "onboard_time": 1697015978,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264454,
       "num": 264454,
       "word": "为啥影视剧女主工作都不常见",
       "onboard_time": 1696999603,
       "rank": 27,
       "category": "幽默,剧集"
+    },
+    {
+      "raw_hot": 260387,
+      "num": 260387,
+      "word": "在KTV背单词也太爽了",
+      "onboard_time": 1697018499,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 257783,
@@ -1169,6 +1257,14 @@
       "onboard_time": 1697011174,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 255066,
+      "num": 255066,
+      "word": "JINIsolo出道",
+      "onboard_time": 1697017478,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 252609,
@@ -1227,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 244312,
+      "num": 244312,
+      "word": "宋亚轩跳gento",
+      "onboard_time": 1697017534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243521,
       "num": 243521,
       "word": "关晓彤王安宇演情侣",
@@ -1243,11 +1347,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 240188,
-      "num": 240188,
-      "word": "0713像你这样的朋友",
-      "onboard_time": 1697015978,
-      "rank": 19,
+      "raw_hot": 241383,
+      "num": 241383,
+      "word": "奔跑吧生态篇即将开录",
+      "onboard_time": 1697017596,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -1299,14 +1403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 226832,
-      "num": 207396,
-      "word": "结婚后为什么开销这么大",
-      "onboard_time": 1697016336,
-      "rank": 32,
-      "category": "情感"
-    },
-    {
       "raw_hot": 226771,
       "num": 226771,
       "word": "老乡鸡 卡了",
@@ -1321,6 +1417,14 @@
       "onboard_time": 1697008173,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 226304,
+      "num": 1961678,
+      "word": "永暑礁医院救下越南右上肢离断渔民",
+      "onboard_time": 1697018318,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225697,
@@ -1403,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210703,
+      "num": 1031549,
+      "word": "双眼皮的大熊猫有多可爱",
+      "onboard_time": 1697016814,
+      "rank": 36,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 210172,
       "num": 210172,
       "word": "五月天广州演唱会",
@@ -1425,6 +1537,14 @@
       "onboard_time": 1696941936,
       "rank": 32,
       "category": "军事"
+    },
+    {
+      "raw_hot": 209706,
+      "num": 209706,
+      "word": "大张伟和马嘉祺一起演绎Fly",
+      "onboard_time": 1697017776,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 208563,
@@ -1601,6 +1721,14 @@
       "onboard_time": 1697012436,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188287,
+      "num": 188287,
+      "word": "华天回应马匹兴奋剂检测阳性",
+      "onboard_time": 1697016458,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 187253,
@@ -1827,14 +1955,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169691,
-      "num": 169691,
-      "word": "双眼皮的大熊猫有多可爱",
-      "onboard_time": 1697016814,
-      "rank": 36,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 168859,
       "num": 168859,
       "word": "白鹿说以爱为营快播了",
@@ -1849,14 +1969,6 @@
       "onboard_time": 1696948541,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163887,
-      "num": 163887,
-      "word": "网友曝刘暖曦在视频号直播带货",
-      "onboard_time": 1697016693,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 163841,
@@ -1899,14 +2011,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157605,
-      "num": 157605,
-      "word": "华天回应马匹兴奋剂检测阳性",
-      "onboard_time": 1697016458,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 157342,
       "num": 157342,
       "word": "钟汉良 为真相还一束正义的光",
@@ -1923,12 +2027,28 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 156458,
+      "num": 156458,
+      "word": "我恋5新女嘉宾攻击性拉满",
+      "onboard_time": 1697017776,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155640,
       "num": 155640,
       "word": "利路修对中国风的理解",
       "onboard_time": 1697009374,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155208,
+      "num": 155208,
+      "word": "超强台风布拉万",
+      "onboard_time": 1697016756,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155129,
@@ -1947,12 +2067,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153003,
+      "num": 153003,
+      "word": "原来工作中活的开心的人都有一个特质",
+      "onboard_time": 1697019216,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 152822,
       "num": 152822,
       "word": "家务优等生",
       "onboard_time": 1696999660,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 152731,
+      "num": 244494,
+      "word": "女篮为何这么强",
+      "onboard_time": 1697018915,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 151473,
@@ -2049,6 +2185,14 @@
       "onboard_time": 1696988614,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133612,
+      "num": 988507,
+      "word": "面馆老板为亚运一线工作者免费送2000碗面",
+      "onboard_time": 1697018734,
+      "rank": 6,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 133149,
@@ -2228,7 +2372,7 @@
     },
     {
       "raw_hot": 98333,
-      "num": 1633077,
+      "num": 1913884,
       "word": "全国网络普法行四川站",
       "onboard_time": 1696991073,
       "rank": 2,
