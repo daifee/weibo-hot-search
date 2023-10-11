@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1696986719366,
+  "endTime": 1696987926982,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -299,6 +299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2063197,
+      "num": 2063197,
+      "word": "关晓彤爆王牌对王牌游戏内幕",
+      "onboard_time": 1696985378,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 2016058,
       "num": 2016058,
       "word": "江歌妈妈直播带货",
@@ -491,20 +499,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1743778,
-      "num": 1743778,
-      "word": "关晓彤爆王牌对王牌游戏内幕",
-      "onboard_time": 1696985378,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1723902,
       "num": 673060,
       "word": "失踪女童父亲称返回时被石头割伤脚趾",
       "onboard_time": 1696780111,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1702326,
+      "num": 1702326,
+      "word": "社保卡一定要记得激活",
+      "onboard_time": 1696984240,
+      "rank": 4,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1692929,
@@ -633,14 +641,6 @@
       "onboard_time": 1696743695,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1420364,
-      "num": 1420364,
-      "word": "社保卡一定要记得激活",
-      "onboard_time": 1696984240,
-      "rank": 4,
-      "category": "知识科普"
     },
     {
       "raw_hot": 1417695,
@@ -865,6 +865,14 @@
       "onboard_time": 1696847258,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1119546,
+      "num": 501342,
+      "word": "本轮巴以冲突已致双方2100余人死亡",
+      "onboard_time": 1696987056,
+      "rank": 11,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1112531,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1696760674,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 910856,
+      "num": 910856,
+      "word": "iPhone平均寿命将达8年",
+      "onboard_time": 1696985678,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 903131,
@@ -1571,6 +1587,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 698759,
+      "num": 494933,
+      "word": "北极鲶鱼的恨国论也该严查",
+      "onboard_time": 1696986276,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693384,
       "num": 495674,
       "word": "抑郁症早期4个危险信号",
@@ -1593,14 +1617,6 @@
       "onboard_time": 1696763734,
       "rank": 10,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 684155,
-      "num": 684155,
-      "word": "iPhone平均寿命将达8年",
-      "onboard_time": 1696985678,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 679973,
@@ -3107,6 +3123,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 403771,
+      "num": 352755,
+      "word": "每坐1小时平均寿命缩短22分钟",
+      "onboard_time": 1696987357,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 403683,
       "num": 403683,
       "word": "张凌赫体重只有130斤",
@@ -3395,6 +3419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 374524,
+      "num": 374524,
+      "word": "魏大勋收到孟宴臣生日邀请函",
+      "onboard_time": 1696986515,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 374087,
       "num": 374087,
       "word": "章昊的脸",
@@ -3585,6 +3617,14 @@
       "onboard_time": 1696760313,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 353200,
+      "num": 353200,
+      "word": "网友看部剧救了自己的命",
+      "onboard_time": 1696987237,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 353136,
@@ -4043,6 +4083,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 314376,
+      "num": 314376,
+      "word": "外媒称以色列已列出报复名单",
+      "onboard_time": 1696986158,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 313966,
       "num": 313966,
       "word": "蔡文静或将录制跑男特别季",
@@ -4289,14 +4337,6 @@
       "onboard_time": 1696932453,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 297351,
-      "num": 297351,
-      "word": "魏大勋收到孟宴臣生日邀请函",
-      "onboard_time": 1696986515,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 296325,
@@ -4649,14 +4689,6 @@
       "onboard_time": 1696897413,
       "rank": 29,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 275882,
-      "num": 275882,
-      "word": "北极鲶鱼的恨国论也该严查",
-      "onboard_time": 1696986276,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 275626,
@@ -5243,6 +5275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251041,
+      "num": 251041,
+      "word": "疑似seventeen新专剧透",
+      "onboard_time": 1696987415,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 250698,
       "num": 250698,
       "word": "杨超越清冷感",
@@ -5787,6 +5827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231420,
+      "num": 508766,
+      "word": "男子创业7次成功后劝年轻人别创业",
+      "onboard_time": 1696987237,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231415,
       "num": 231415,
       "word": "杭州亚运会总奖牌榜",
@@ -5849,6 +5897,14 @@
       "onboard_time": 1696862382,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226730,
+      "num": 226730,
+      "word": "朴炯植瘦回颜巅了",
+      "onboard_time": 1696987654,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 226486,
@@ -6203,14 +6259,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 212657,
-      "num": 212657,
-      "word": "外媒称以色列已列出报复名单",
-      "onboard_time": 1696986158,
-      "rank": 34,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 211430,
       "num": 211430,
       "word": "谭松韵的眼泪像断线的珍珠",
@@ -6425,6 +6473,14 @@
       "onboard_time": 1696736559,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 206171,
+      "num": 206171,
+      "word": "创5马丽亚曾做过冬奥引导员",
+      "onboard_time": 1696986938,
+      "rank": 32,
+      "category": "综艺,体育"
     },
     {
       "raw_hot": 205649,
@@ -8297,6 +8353,14 @@
       "onboard_time": 1696835613,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 131843,
+      "num": 131843,
+      "word": "王鹤润竟是谁的青春不迷茫里的光头女孩",
+      "onboard_time": 1696987897,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 130381,
