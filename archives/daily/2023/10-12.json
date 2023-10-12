@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697092556901,
+  "endTime": 1697094973165,
   "band_list": [
     {
       "raw_hot": 3007519,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2138374,
+      "num": 2138374,
+      "word": "高铁上拒绝了宝爹妈的换座后",
+      "onboard_time": 1697089414,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 2117863,
       "num": 2117863,
       "word": "产妇拍下产床抓痕引20万妈妈共鸣",
@@ -107,12 +115,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1425566,
-      "num": 1425566,
-      "word": "高铁上拒绝了宝爹妈的换座后",
-      "onboard_time": 1697089414,
-      "rank": 4,
-      "category": "情感"
+      "raw_hot": 1416856,
+      "num": 1416856,
+      "word": "跑男",
+      "onboard_time": 1697088215,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 1401718,
@@ -179,12 +187,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1039117,
-      "num": 1039117,
-      "word": "跑男",
-      "onboard_time": 1697088215,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 990303,
+      "num": 990303,
+      "word": "靳东 济南大学",
+      "onboard_time": 1697093375,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 979673,
@@ -233,6 +241,14 @@
       "onboard_time": 1697026593,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 747297,
+      "num": 747297,
+      "word": "陈情令版权已到期",
+      "onboard_time": 1697093013,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 739886,
@@ -307,6 +323,22 @@
       "category": "读书作家,电影"
     },
     {
+      "raw_hot": 659510,
+      "num": 659510,
+      "word": "王哲林结婚",
+      "onboard_time": 1697093493,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 659263,
+      "num": 659263,
+      "word": "广州警方通报乘客裙子现不明液体",
+      "onboard_time": 1697090615,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649516,
       "num": 304052,
       "word": "武汉大学",
@@ -320,6 +352,14 @@
       "word": "警方回应武大学生举报图书馆遭性骚扰",
       "onboard_time": 1697089355,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 618281,
+      "num": 618281,
+      "word": "女孩偷偷充值游戏6000元被妈妈带去自首",
+      "onboard_time": 1697091214,
+      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -395,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 545480,
-      "num": 483780,
-      "word": "广州警方通报乘客裙子现不明液体",
-      "onboard_time": 1697090615,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 540168,
       "num": 540168,
       "word": "网曝出租车高速路甩客致乘客身亡",
@@ -433,6 +465,14 @@
       "onboard_time": 1697074654,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 522489,
+      "num": 522489,
+      "word": "女子网购包一月后发现陌生人身份证",
+      "onboard_time": 1697092415,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 521837,
@@ -467,6 +507,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 482692,
+      "num": 482692,
+      "word": "邓为一下子就掀开了",
+      "onboard_time": 1697091274,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 459993,
       "num": 459993,
       "word": "赵露思对接否认出演姜泥",
@@ -475,12 +523,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 456186,
-      "num": 456186,
-      "word": "邓为一下子就掀开了",
-      "onboard_time": 1697091274,
-      "rank": 21,
-      "category": "作品衍生"
+      "raw_hot": 456569,
+      "num": 456569,
+      "word": "李沁一年十封",
+      "onboard_time": 1697093194,
+      "rank": 15,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 443354,
+      "num": 443354,
+      "word": "阿信听到粉丝买黄牛的反应",
+      "onboard_time": 1697091871,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 433256,
@@ -611,11 +667,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 368788,
-      "num": 368788,
-      "word": "女孩偷偷充值游戏6000元被妈妈带去自首",
-      "onboard_time": 1697091214,
-      "rank": 23,
+      "raw_hot": 368500,
+      "num": 368500,
+      "word": "我国去年出生人口956万",
+      "onboard_time": 1697094099,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -665,6 +721,22 @@
       "onboard_time": 1697083833,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 348604,
+      "num": 348604,
+      "word": "刘涛健身照",
+      "onboard_time": 1697093915,
+      "rank": 21,
+      "category": "艺人,运动健身"
+    },
+    {
+      "raw_hot": 345068,
+      "num": 345068,
+      "word": "于适 脸帅就可以了",
+      "onboard_time": 1697092292,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 336980,
@@ -835,14 +907,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 282968,
-      "num": 261863,
-      "word": "阿信听到粉丝买黄牛的反应",
-      "onboard_time": 1697091871,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 278866,
       "num": 278866,
       "word": "关晓彤王牌对王牌哭了",
@@ -1001,6 +1065,14 @@
       "onboard_time": 1697080720,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237659,
+      "num": 191420,
+      "word": "秦霄贤不想坐伊能静旁边",
+      "onboard_time": 1697092773,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 236828,
@@ -1203,6 +1275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208117,
+      "num": 189574,
+      "word": "张凌赫赵今麦身高差",
+      "onboard_time": 1697094214,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206968,
       "num": 206968,
       "word": "余华说朱一龙又i又e",
@@ -1211,19 +1291,19 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206890,
-      "num": 206890,
-      "word": "于适 脸帅就可以了",
-      "onboard_time": 1697092292,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 206737,
       "num": 206737,
       "word": "周也醉酒戏",
       "onboard_time": 1697073278,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206116,
+      "num": 184244,
+      "word": "邓为首部男主仙侠剧",
+      "onboard_time": 1697094756,
+      "rank": 33,
       "category": "剧集"
     },
     {
@@ -1249,6 +1329,14 @@
       "onboard_time": 1697040868,
       "rank": 44,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 200377,
+      "num": 183526,
+      "word": "范丞丞脖子怎么这么长",
+      "onboard_time": 1697094875,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 199689,
@@ -1353,6 +1441,14 @@
       "onboard_time": 1697077412,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188699,
+      "num": 183188,
+      "word": "跑男录制现场站姐站满了一艘船",
+      "onboard_time": 1697094934,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 188158,
@@ -1499,11 +1595,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 161350,
-      "num": 161350,
-      "word": "女子网购包一月后发现陌生人身份证",
-      "onboard_time": 1697092415,
-      "rank": 42,
+      "raw_hot": 164728,
+      "num": 164728,
+      "word": "男子持刀架脖女法官空手夺白刃",
+      "onboard_time": 1697093013,
+      "rank": 38,
       "category": "社会新闻"
     },
     {
@@ -1851,7 +1947,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13689,
+      "raw_hot": 23796,
       "num": 1855720,
       "word": "全国网络普法行四川站",
       "onboard_time": 1696991073,
