@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697088842522,
+  "endTime": 1697091783640,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -449,6 +449,14 @@
       "onboard_time": 1697081857,
       "rank": 1,
       "category": "网红"
+    },
+    {
+      "raw_hot": 2031971,
+      "num": 1430178,
+      "word": "郑强回应婚内出轨包养情妇",
+      "onboard_time": 1697088035,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2016058,
@@ -995,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328897,
+      "num": 1328897,
+      "word": "高铁上拒绝了宝爹妈的换座后",
+      "onboard_time": 1697089414,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1325047,
       "num": 1325047,
       "word": "边伯贤 抗日神剧",
@@ -1025,14 +1041,6 @@
       "onboard_time": 1696847258,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1286069,
-      "num": 1286069,
-      "word": "郑强回应婚内出轨包养情妇",
-      "onboard_time": 1697088035,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1282559,
@@ -1299,6 +1307,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1039117,
+      "num": 1039117,
+      "word": "跑男",
+      "onboard_time": 1697088215,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1035722,
       "num": 1035722,
       "word": "李子柒或将复出",
@@ -1531,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 913983,
+      "num": 913983,
+      "word": "杨立新杨玏父子到底谁在撒谎",
+      "onboard_time": 1697087198,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 910856,
       "num": 910856,
       "word": "iPhone平均寿命将达8年",
@@ -1601,14 +1625,6 @@
       "onboard_time": 1696987056,
       "rank": 4,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 875934,
-      "num": 875934,
-      "word": "跑男",
-      "onboard_time": 1697088215,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 871891,
@@ -2427,6 +2443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 635115,
+      "num": 635115,
+      "word": "警方回应武大学生举报图书馆遭性骚扰",
+      "onboard_time": 1697089355,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635101,
       "num": 635101,
       "word": "少年歌行一次性官宣7部",
@@ -2705,14 +2729,6 @@
       "onboard_time": 1696827223,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 593193,
-      "num": 593193,
-      "word": "杨立新杨玏父子到底谁在撒谎",
-      "onboard_time": 1697087198,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 592873,
@@ -3049,6 +3065,14 @@
       "onboard_time": 1696941275,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 538777,
+      "num": 538777,
+      "word": "这还是那个青春期的赵奕欢吗",
+      "onboard_time": 1697089355,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 538007,
@@ -3787,6 +3811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459993,
+      "num": 459993,
+      "word": "赵露思对接否认出演姜泥",
+      "onboard_time": 1697089714,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459254,
       "num": 459254,
       "word": "林俊杰没有一首一千年以后是一样的",
@@ -4211,6 +4243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 413930,
+      "num": 413930,
+      "word": "奔跑吧全员开工打卡",
+      "onboard_time": 1697089355,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 412972,
       "num": 412972,
       "word": "刘宪华 飞云之下",
@@ -4491,6 +4531,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 383590,
+      "num": 201943,
+      "word": "广州警方通报乘客裙子现不明液体",
+      "onboard_time": 1697090615,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383344,
       "num": 383344,
       "word": "自热米饭里的大米是真大米吗",
@@ -4593,6 +4641,14 @@
       "onboard_time": 1697052373,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379056,
+      "num": 379056,
+      "word": "邓为新剧演向涵之徒弟",
+      "onboard_time": 1697089473,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 378588,
@@ -5891,6 +5947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303502,
+      "num": 286701,
+      "word": "邓为一下子就掀开了",
+      "onboard_time": 1697091274,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 301985,
       "num": 301985,
       "word": "IVE预告",
@@ -6001,6 +6065,14 @@
       "onboard_time": 1696894892,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 299142,
+      "num": 299142,
+      "word": "古茗天官赐福",
+      "onboard_time": 1697090014,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 299071,
@@ -6505,6 +6577,14 @@
       "onboard_time": 1696897413,
       "rank": 29,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 275997,
+      "num": 275997,
+      "word": "女孩偷偷充值游戏6000元被妈妈带去自首",
+      "onboard_time": 1697091214,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275306,
@@ -7491,6 +7571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244723,
+      "num": 244723,
+      "word": "学历与能力哪个更管用",
+      "onboard_time": 1697089835,
+      "rank": 24,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244677,
       "num": 244677,
       "word": "广西街头10元能买70个火龙果",
@@ -8003,6 +8091,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 230984,
+      "num": 230984,
+      "word": "林高远因伤退赛",
+      "onboard_time": 1697090496,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230599,
       "num": 741125,
       "word": "今天这束花必须归我姐",
@@ -8049,6 +8145,14 @@
       "onboard_time": 1697030137,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228536,
+      "num": 228536,
+      "word": "妻子首谈威尔史密斯奥斯卡打人事件",
+      "onboard_time": 1697090135,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 228206,
@@ -8433,6 +8537,14 @@
       "onboard_time": 1697079994,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 216785,
+      "num": 216785,
+      "word": "爷爷忙着掰玉米狗狗赖在怀里撒娇",
+      "onboard_time": 1697089054,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216373,
@@ -9331,6 +9443,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 198565,
+      "num": 198565,
+      "word": "曾舜晞种田文男主抬上来了",
+      "onboard_time": 1697091274,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198459,
       "num": 1326157,
       "word": "民警护送两名七旬老人成功逃离火场",
@@ -9705,6 +9825,14 @@
       "onboard_time": 1697000381,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 190760,
+      "num": 190760,
+      "word": "郑强",
+      "onboard_time": 1697089114,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190744,
@@ -10283,6 +10411,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180256,
+      "num": 180256,
+      "word": "兰闺喜事大结局",
+      "onboard_time": 1697088936,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180071,
       "num": 180071,
       "word": "IVE MINE",
@@ -10715,6 +10851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169960,
+      "num": 169960,
+      "word": "湖人",
+      "onboard_time": 1697091214,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169853,
       "num": 169853,
       "word": "花月杀手",
@@ -11011,6 +11155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160460,
+      "num": 160460,
+      "word": "一等功舰载机飞行员迎娶航母军官",
+      "onboard_time": 1697089714,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160222,
       "num": 160222,
       "word": "秋天第一杯冰糖雪梨是老师给的",
@@ -11219,6 +11371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156628,
+      "num": 156628,
+      "word": "张云雷天津",
+      "onboard_time": 1697091693,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156458,
       "num": 156458,
       "word": "我恋5新女嘉宾攻击性拉满",
@@ -11320,6 +11480,14 @@
       "word": "家务优等生",
       "onboard_time": 1696999660,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152526,
+      "num": 152526,
+      "word": "张真源奔跑吧",
+      "onboard_time": 1697088874,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -11555,6 +11723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141708,
+      "num": 141708,
+      "word": "山东大集已开启人传人模式",
+      "onboard_time": 1697089595,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141533,
       "num": 141533,
       "word": "为WBG出征S13助威",
@@ -11641,6 +11817,14 @@
       "onboard_time": 1696821937,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 137374,
+      "num": 137374,
+      "word": "16岁男生捡废品创业被赞很帅",
+      "onboard_time": 1697091632,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136570,

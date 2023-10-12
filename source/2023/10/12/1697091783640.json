@@ -1,0 +1,410 @@
+{
+  "runTime": 1697091783640,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2211740,
+        "num": 2211740,
+        "word": "女子怀孕5个月被房东知道后退租",
+        "onboard_time": 1697086477,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1746539,
+        "num": 1746539,
+        "word": "全红婵弟弟 鱼啊",
+        "onboard_time": 1697085638,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10828,
+        "num": 1479120,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2031971,
+        "num": 1430178,
+        "word": "郑强回应婚内出轨包养情妇",
+        "onboard_time": 1697088035,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1328897,
+        "num": 1328897,
+        "word": "高铁上拒绝了宝爹妈的换座后",
+        "onboard_time": 1697089414,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1222845,
+        "num": 1222845,
+        "word": "雪中悍刀行女主",
+        "onboard_time": 1697084978,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1039117,
+        "num": 1039117,
+        "word": "跑男",
+        "onboard_time": 1697088215,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913983,
+        "num": 913983,
+        "word": "杨立新杨玏父子到底谁在撒谎",
+        "onboard_time": 1697087198,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 635115,
+        "num": 635115,
+        "word": "警方回应武大学生举报图书馆遭性骚扰",
+        "onboard_time": 1697089355,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582649,
+        "num": 582649,
+        "word": "当潦草小狗见到潦草小马",
+        "onboard_time": 1697079813,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 538777,
+        "num": 538777,
+        "word": "这还是那个青春期的赵奕欢吗",
+        "onboard_time": 1697089355,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 519803,
+        "num": 519803,
+        "word": "完颜慧德",
+        "onboard_time": 1697081857,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 459993,
+        "num": 459993,
+        "word": "赵露思对接否认出演姜泥",
+        "onboard_time": 1697089714,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428290,
+        "num": 428290,
+        "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
+        "onboard_time": 1697081557,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 413930,
+        "num": 413930,
+        "word": "奔跑吧全员开工打卡",
+        "onboard_time": 1697089355,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379056,
+        "num": 379056,
+        "word": "邓为新剧演向涵之徒弟",
+        "onboard_time": 1697089473,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361067,
+        "num": 361067,
+        "word": "产妇拍下产床抓痕引20万妈妈共鸣",
+        "onboard_time": 1697071477,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350313,
+        "num": 350313,
+        "word": "长相思第一季收官庆典",
+        "onboard_time": 1697086839,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299142,
+        "num": 299142,
+        "word": "古茗天官赐福",
+        "onboard_time": 1697090014,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 296008,
+        "num": 296008,
+        "word": "为什么耳朵里面会长这种痘",
+        "onboard_time": 1697077052,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 358085,
+        "num": 288731,
+        "word": "2023年应届生平均招聘月薪10342元",
+        "onboard_time": 1697073456,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303502,
+        "num": 286701,
+        "word": "邓为一下子就掀开了",
+        "onboard_time": 1697091274,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 278572,
+        "num": 278572,
+        "word": "外国雇佣兵离开乌克兰赴以色列作战",
+        "onboard_time": 1697082156,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 275997,
+        "num": 275997,
+        "word": "女孩偷偷充值游戏6000元被妈妈带去自首",
+        "onboard_time": 1697091214,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244723,
+        "num": 244723,
+        "word": "学历与能力哪个更管用",
+        "onboard_time": 1697089835,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236481,
+        "num": 236481,
+        "word": "中石油直播",
+        "onboard_time": 1697087737,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230984,
+        "num": 230984,
+        "word": "林高远因伤退赛",
+        "onboard_time": 1697090496,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228536,
+        "num": 228536,
+        "word": "妻子首谈威尔史密斯奥斯卡打人事件",
+        "onboard_time": 1697090135,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216785,
+        "num": 216785,
+        "word": "爷爷忙着掰玉米狗狗赖在怀里撒娇",
+        "onboard_time": 1697089054,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203760,
+        "num": 203760,
+        "word": "种田文",
+        "onboard_time": 1697087556,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383590,
+        "num": 201943,
+        "word": "广州警方通报乘客裙子现不明液体",
+        "onboard_time": 1697090615,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198565,
+        "num": 198565,
+        "word": "曾舜晞种田文男主抬上来了",
+        "onboard_time": 1697091274,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190760,
+        "num": 190760,
+        "word": "郑强",
+        "onboard_time": 1697089114,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187408,
+        "num": 187408,
+        "word": "吴京 女儿奴属性大爆发",
+        "onboard_time": 1697082038,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187070,
+        "num": 187070,
+        "word": "古茗天官赐福动画",
+        "onboard_time": 1697087916,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 181887,
+        "num": 181887,
+        "word": "十个勤天",
+        "onboard_time": 1697090076,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180256,
+        "num": 180256,
+        "word": "兰闺喜事大结局",
+        "onboard_time": 1697088936,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178413,
+        "num": 178413,
+        "word": "烬相思开播",
+        "onboard_time": 1697083833,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171127,
+        "num": 171127,
+        "word": "为什么年轻人开始讨厌信用卡了",
+        "onboard_time": 1697076334,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169960,
+        "num": 169960,
+        "word": "湖人",
+        "onboard_time": 1697091214,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169564,
+        "num": 169564,
+        "word": "拱出去",
+        "onboard_time": 1697087138,
+        "rank": 40,
+        "category": "幽默,网红"
+      },
+      {
+        "raw_hot": 163929,
+        "num": 163929,
+        "word": "爱宝双胞胎闺女一个e型一个i型",
+        "onboard_time": 1697081857,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160460,
+        "num": 160460,
+        "word": "一等功舰载机飞行员迎娶航母军官",
+        "onboard_time": 1697089714,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159849,
+        "num": 159849,
+        "word": "长期运动对外貌改变有多大",
+        "onboard_time": 1697067029,
+        "rank": 43,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 156628,
+        "num": 156628,
+        "word": "张云雷天津",
+        "onboard_time": 1697091693,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152526,
+        "num": 152526,
+        "word": "张真源奔跑吧",
+        "onboard_time": 1697088874,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141708,
+        "num": 141708,
+        "word": "山东大集已开启人传人模式",
+        "onboard_time": 1697089595,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139541,
+        "num": 139541,
+        "word": "刘暖曦视频号直播4次后被投诉永久禁播",
+        "onboard_time": 1697076634,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137374,
+        "num": 137374,
+        "word": "16岁男生捡废品创业被赞很帅",
+        "onboard_time": 1697091632,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129901,
+        "num": 129901,
+        "word": "李晓鹏被逮捕",
+        "onboard_time": 1697078253,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江西考察调研#"
+    }
+  }
+}
