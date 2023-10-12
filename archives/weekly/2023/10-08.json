@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697139235616,
+  "endTime": 1697141820994,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -14267,6 +14267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 61444,
+      "num": 40176,
+      "word": "男子拆开相框意外发现前女友求婚留言",
+      "onboard_time": 1697138054,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 60374,
       "num": 60374,
       "word": "职场里别陷入打工心态",
@@ -14539,6 +14547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 37812,
+      "num": 48294,
+      "word": "原来你们委屈想回家的家是这样的",
+      "onboard_time": 1697135176,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 36831,
       "num": 450305,
       "word": "看见中国力量",
@@ -14577,14 +14593,6 @@
       "onboard_time": 1696840595,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 33313,
-      "num": 40176,
-      "word": "男子拆开相框意外发现前女友求婚留言",
-      "onboard_time": 1697138054,
-      "rank": 30,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 32794,
@@ -14635,14 +14643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27087,
-      "num": 48294,
-      "word": "原来你们委屈想回家的家是这样的",
-      "onboard_time": 1697135176,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 25815,
       "num": 754592,
       "word": "老乡鸡免费",
@@ -14681,6 +14681,14 @@
       "onboard_time": 1696876516,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 21132,
+      "num": 40124,
+      "word": "网购搜索平替词",
+      "onboard_time": 1697139073,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 19014,
@@ -14723,12 +14731,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13448,
-      "num": 40124,
-      "word": "网购搜索平替词",
-      "onboard_time": 1697139073,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 14640,
+      "num": 39764,
+      "word": "珠江人家定档央一",
+      "onboard_time": 1697141053,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 13061,
@@ -14753,6 +14761,14 @@
       "onboard_time": 1697054474,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12254,
+      "num": 39759,
+      "word": "东北路人都是隐藏的NPC",
+      "onboard_time": 1697140093,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 11861,
