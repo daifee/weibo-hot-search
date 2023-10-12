@@ -1,10 +1,10 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697077315437,
+  "endTime": 1697078042540,
   "band_list": [
     {
-      "raw_hot": 2963605,
-      "num": 2963605,
+      "raw_hot": 3007519,
+      "num": 3007519,
       "word": "2023年应届生平均招聘月薪10342元",
       "onboard_time": 1697073456,
       "rank": 7,
@@ -67,8 +67,16 @@
       "category": "美食,知识科普"
     },
     {
+      "raw_hot": 1129327,
+      "num": 1129327,
+      "word": "刘暖曦视频号直播4次后被投诉永久禁播",
+      "onboard_time": 1697076634,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1127650,
-      "num": 578126,
+      "num": 578436,
       "word": "长期运动对外貌改变有多大",
       "onboard_time": 1697067029,
       "rank": 30,
@@ -91,6 +99,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 852803,
+      "num": 852803,
+      "word": "为什么耳朵里面会长这种痘",
+      "onboard_time": 1697077052,
+      "rank": 11,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 776105,
+      "num": 776105,
+      "word": "以色列",
+      "onboard_time": 1697072199,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 747801,
       "num": 300621,
       "word": "巴勒斯坦",
@@ -107,12 +131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 739130,
-      "num": 732429,
-      "word": "以色列",
-      "onboard_time": 1697072199,
-      "rank": 22,
-      "category": "国外要闻"
+      "raw_hot": 735059,
+      "num": 735059,
+      "word": "为什么年轻人开始讨厌信用卡了",
+      "onboard_time": 1697076334,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 716646,
@@ -123,20 +147,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 714778,
+      "num": 714778,
+      "word": "仙台有树开机官宣",
+      "onboard_time": 1697075854,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 682039,
       "num": 519312,
       "word": "北极鲶鱼",
       "onboard_time": 1697070339,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 674574,
-      "num": 674574,
-      "word": "仙台有树开机官宣",
-      "onboard_time": 1697075854,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 671056,
@@ -155,22 +179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 618725,
-      "num": 470729,
-      "word": "为什么耳朵里面会长这种痘",
-      "onboard_time": 1697077052,
-      "rank": 11,
-      "category": "知识科普"
-    },
-    {
-      "raw_hot": 590794,
-      "num": 590794,
-      "word": "刘暖曦视频号直播4次后被投诉永久禁播",
-      "onboard_time": 1697076634,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 587894,
       "num": 441608,
       "word": "papi酱 追星有这么严格嘛",
@@ -184,6 +192,14 @@
       "word": "北极鲶鱼捕捞后也要有晾晒",
       "onboard_time": 1697071477,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 587565,
+      "num": 587565,
+      "word": "订婚仪式结束新娘家人将彩礼还给新郎",
+      "onboard_time": 1697076095,
+      "rank": 29,
       "category": "社会新闻"
     },
     {
@@ -211,12 +227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 540168,
+      "num": 540168,
+      "word": "网曝出租车高速路甩客致乘客身亡",
+      "onboard_time": 1697076334,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 529441,
       "num": 529441,
       "word": "罗晋请唐嫣念无双剧组喝奶茶",
       "onboard_time": 1697069375,
       "rank": 13,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 524078,
+      "num": 524078,
+      "word": "以色列总理称将粉碎摧毁哈马斯",
+      "onboard_time": 1697074654,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 519685,
@@ -227,36 +259,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 514192,
-      "num": 468883,
-      "word": "以色列总理称将粉碎摧毁哈马斯",
-      "onboard_time": 1697074654,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 485366,
       "num": 485366,
       "word": "福宝妹妹们叫睿宝辉宝",
       "onboard_time": 1697073036,
       "rank": 12,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 482026,
-      "num": 482026,
-      "word": "订婚仪式结束新娘家人将彩礼还给新郎",
-      "onboard_time": 1697076095,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 462956,
-      "num": 462956,
-      "word": "为什么年轻人开始讨厌信用卡了",
-      "onboard_time": 1697076334,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 429992,
@@ -329,14 +337,6 @@
       "onboard_time": 1697066487,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 359168,
-      "num": 359168,
-      "word": "网曝出租车高速路甩客致乘客身亡",
-      "onboard_time": 1697076334,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336627,
@@ -483,6 +483,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 268578,
+      "num": 268578,
+      "word": "宿管大爷11年手写200多本日志",
+      "onboard_time": 1697077471,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261020,
+      "num": 261020,
+      "word": "张柏芝滑冰",
+      "onboard_time": 1697076452,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "方头明有钱后",
@@ -539,12 +555,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222225,
-      "num": 222225,
-      "word": "张柏芝滑冰",
-      "onboard_time": 1697076452,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 224267,
+      "num": 224267,
+      "word": "关晓彤穿了多少件衣服",
+      "onboard_time": 1697077172,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 220120,
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 213091,
-      "num": 205513,
+      "num": 206011,
       "word": "联合国11名人员在以军空袭加沙中死亡",
       "onboard_time": 1697075132,
       "rank": 31,
@@ -659,6 +675,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 192486,
+      "num": 192486,
+      "word": "原来这是左撇子被纠正的原因",
+      "onboard_time": 1697077114,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191518,
       "num": 191518,
       "word": "陈飞宇魏大勋路演生图",
@@ -673,6 +697,14 @@
       "onboard_time": 1697069015,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 189861,
+      "num": 189861,
+      "word": "度华年",
+      "onboard_time": 1697077412,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 188158,
@@ -721,6 +753,14 @@
       "onboard_time": 1697039672,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170392,
+      "num": 170392,
+      "word": "关晓彤撑伞有那味儿了",
+      "onboard_time": 1697077773,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 169590,
@@ -779,12 +819,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150502,
-      "num": 150502,
-      "word": "关晓彤穿了多少件衣服",
-      "onboard_time": 1697077172,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 151516,
+      "num": 151516,
+      "word": "正当防卫",
+      "onboard_time": 1697077715,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 147354,
@@ -793,6 +833,14 @@
       "onboard_time": 1697034459,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 146711,
+      "num": 146711,
+      "word": "一张小纸条记录诚实与善意的双向奔赴",
+      "onboard_time": 1697077412,
+      "rank": 48,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 145138,
@@ -809,14 +857,6 @@
       "onboard_time": 1697028516,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139541,
-      "num": 139541,
-      "word": "原来这是左撇子被纠正的原因",
-      "onboard_time": 1697077114,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136143,
@@ -977,6 +1017,14 @@
       "onboard_time": 1697017596,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79759,
+      "num": 146218,
+      "word": "折叠屏一折遮三丑的时代已经过去",
+      "onboard_time": 1697078013,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 78274,
