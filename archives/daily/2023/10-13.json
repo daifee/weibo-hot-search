@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697152657327,
+  "endTime": 1697153658950,
   "band_list": [
     {
       "raw_hot": 1031123,
@@ -17,6 +17,14 @@
       "onboard_time": 1697138054,
       "rank": 30,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 931028,
+      "num": 142282,
+      "word": "美国女子遭性侵被救下后又被其侵犯",
+      "onboard_time": 1697151743,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 905278,
@@ -43,11 +51,11 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 625204,
-      "num": 90561,
-      "word": "美国女子遭性侵被救下后又被其侵犯",
-      "onboard_time": 1697151743,
-      "rank": 30,
+      "raw_hot": 590933,
+      "num": 336114,
+      "word": "岳母来走亲戚结果连剥十几天玉米",
+      "onboard_time": 1697151802,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -75,20 +83,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378656,
-      "num": 378656,
+      "raw_hot": 421221,
+      "num": 421221,
+      "word": "合资车退出中国市场意味着什么",
+      "onboard_time": 1697130800,
+      "rank": 45,
+      "category": "汽车,财经"
+    },
+    {
+      "raw_hot": 420958,
+      "num": 420958,
       "word": "20岁女生裸辞用76天穷游22个城市",
       "onboard_time": 1697116360,
       "rank": 6,
       "category": "旅游"
     },
     {
-      "raw_hot": 336114,
-      "num": 336114,
-      "word": "岳母来走亲戚结果连剥十几天玉米",
-      "onboard_time": 1697151802,
-      "rank": 5,
-      "category": "社会新闻"
+      "raw_hot": 359214,
+      "num": 359214,
+      "word": "中国手机的美颜功能到了非洲改了",
+      "onboard_time": 1697119427,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 335374,
@@ -97,14 +113,6 @@
       "onboard_time": 1697105134,
       "rank": 11,
       "category": "其它"
-    },
-    {
-      "raw_hot": 327910,
-      "num": 327910,
-      "word": "合资车退出中国市场意味着什么",
-      "onboard_time": 1697130800,
-      "rank": 45,
-      "category": "汽车,财经"
     },
     {
       "raw_hot": 323791,
@@ -131,12 +139,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 292453,
-      "num": 292453,
-      "word": "中国手机的美颜功能到了非洲改了",
-      "onboard_time": 1697119427,
-      "rank": 14,
-      "category": "数码"
+      "raw_hot": 296405,
+      "num": 296405,
+      "word": "巴以大规模冲突进入第五天",
+      "onboard_time": 1697110773,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 288451,
+      "num": 288451,
+      "word": "黄景瑜 感谢所有消防员的竭诚守护",
+      "onboard_time": 1697151864,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 270513,
@@ -145,6 +161,14 @@
       "onboard_time": 1697115337,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 264864,
+      "num": 139963,
+      "word": "男子劳作后误喝500毫升汽车防冻液身亡",
+      "onboard_time": 1697151743,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 264160,
@@ -187,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234464,
-      "num": 234464,
-      "word": "巴以大规模冲突进入第五天",
-      "onboard_time": 1697110773,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 232554,
       "num": 209177,
       "word": "黄晓明帮六公主发微博",
@@ -227,6 +243,14 @@
       "category": "网红,社会新闻"
     },
     {
+      "raw_hot": 194774,
+      "num": 194774,
+      "word": "女子失联23年家人保留座机十几年",
+      "onboard_time": 1697151743,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192939,
       "num": 192939,
       "word": "这已经是小朋友的天花板了",
@@ -241,6 +265,14 @@
       "onboard_time": 1697127091,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 187154,
+      "num": 187154,
+      "word": "徐梦洁香槟蝴蝶碎钻妆",
+      "onboard_time": 1697152886,
+      "rank": 15,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 185411,
@@ -267,14 +299,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 174094,
-      "num": 136365,
-      "word": "男子劳作后误喝500毫升汽车防冻液身亡",
-      "onboard_time": 1697151743,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165687,
       "num": 165687,
       "word": "珠帘玉幕",
@@ -291,14 +315,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 157452,
-      "num": 157452,
-      "word": "黄景瑜 感谢所有消防员的竭诚守护",
-      "onboard_time": 1697151864,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 156824,
       "num": 156824,
       "word": "被德国面包划伤食道",
@@ -307,11 +323,35 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156167,
+      "num": 139351,
+      "word": "张译新片抽搐式愤怒",
+      "onboard_time": 1697153249,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 155876,
+      "num": 155876,
+      "word": "业内揭秘黄牛割肉退周杰伦演唱会门票原因",
+      "onboard_time": 1697153308,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154783,
       "num": 154783,
       "word": "city walk home sleep",
       "onboard_time": 1697122603,
       "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 147160,
+      "num": 127550,
+      "word": "e人和i人在理发店完全不一样",
+      "onboard_time": 1697152886,
+      "rank": 30,
       "category": "幽默"
     },
     {
@@ -323,8 +363,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 141696,
-      "num": 141696,
+      "raw_hot": 142589,
+      "num": 142589,
       "word": "支原体肺炎",
       "onboard_time": 1697105317,
       "rank": 35,
@@ -411,14 +451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 116868,
-      "num": 116868,
-      "word": "女子失联23年家人保留座机十几年",
-      "onboard_time": 1697151743,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116087,
       "num": 116087,
       "word": "迪丽热巴 枭起青壤",
@@ -435,12 +467,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 109080,
+      "num": 109080,
+      "word": "为什么说好朋友不要常联系",
+      "onboard_time": 1697152706,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104475,
       "num": 104475,
       "word": "郑强回应婚内出轨包养情妇",
       "onboard_time": 1697088035,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99865,
+      "num": 99865,
+      "word": "神还原班主任公布成绩",
+      "onboard_time": 1697151622,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 95682,
@@ -459,8 +507,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 80652,
+      "num": 97724,
+      "word": "TI12小组赛",
+      "onboard_time": 1697153368,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 69522,
-      "num": 69522,
+      "num": 97685,
       "word": "黄晓明双剧收视率好抗打",
       "onboard_time": 1697108794,
       "rank": 45,
@@ -475,20 +531,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 66883,
-      "num": 66883,
-      "word": "神还原班主任公布成绩",
-      "onboard_time": 1697151622,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 54923,
-      "num": 54923,
+      "raw_hot": 59381,
+      "num": 97680,
       "word": "吸血章鱼走路的样子",
       "onboard_time": 1697144653,
       "rank": 46,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 54956,
+      "num": 807370,
+      "word": "荔枝与车厘子的丝路之旅",
+      "onboard_time": 1697117084,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 53182,
@@ -505,14 +561,6 @@
       "onboard_time": 1697107535,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44914,
-      "num": 807370,
-      "word": "荔枝与车厘子的丝路之旅",
-      "onboard_time": 1697117084,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 37812,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 07:17:37
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 07:34:18
 </p>
 </blockquote>
 <p>
@@ -3261,6 +3261,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E6%80%A7%E4%BE%B5%E8%A2%AB%E6%95%91%E4%B8%8B%E5%90%8E%E5%8F%88%E8%A2%AB%E5%85%B6%E4%BE%B5%E7%8A%AF%23" target="weibo">
+美国女子遭性侵被救下后又被其侵犯（热度：931028）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8F%A4%E5%81%B6%E8%A7%81%E7%94%B7%E4%B8%BB%E9%80%81%E5%A5%B3%E4%B8%BB%E8%8E%B2%E8%8A%B1%23" target="weibo">
 第一次在古偶见男主送女主莲花（热度：925719）
 </a>
@@ -5603,12 +5609,6 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%93%84%E7%90%83%E6%8B%8D%23" target="weibo">
 王楚钦哄球拍（热度：625400）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E6%80%A7%E4%BE%B5%E8%A2%AB%E6%95%91%E4%B8%8B%E5%90%8E%E5%8F%88%E8%A2%AB%E5%85%B6%E4%BE%B5%E7%8A%AF%23" target="weibo">
-美国女子遭性侵被救下后又被其侵犯（热度：625204）
 </a>
 </li>
 
