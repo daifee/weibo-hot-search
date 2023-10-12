@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697148989477,
+  "endTime": 1697150039406,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -5091,6 +5091,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 387070,
+      "num": 387070,
+      "word": "男子拆开相框意外发现前女友求婚留言",
+      "onboard_time": 1697138054,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 386867,
       "num": 386867,
       "word": "侯雯元 中国宝宝自己的ken",
@@ -9161,14 +9169,6 @@
       "onboard_time": 1697008173,
       "rank": 44,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 226541,
-      "num": 226541,
-      "word": "男子拆开相框意外发现前女友求婚留言",
-      "onboard_time": 1697138054,
-      "rank": 30,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 226486,
@@ -14611,6 +14611,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 30544,
+      "num": 48211,
+      "word": "吸血章鱼走路的样子",
+      "onboard_time": 1697144653,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 29902,
       "num": 29902,
       "word": "孙艺洲有点功夫在腿上",
@@ -14651,12 +14659,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 24978,
+      "num": 48168,
+      "word": "网购搜索平替词",
+      "onboard_time": 1697139073,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23843,
       "num": 2220980,
       "word": "推进共建绿色一带一路",
       "onboard_time": 1696683578,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23424,
+      "num": 48143,
+      "word": "东北路人都是隐藏的NPC",
+      "onboard_time": 1697140093,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 23108,
@@ -14675,12 +14699,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21971,
-      "num": 40124,
-      "word": "网购搜索平替词",
-      "onboard_time": 1697139073,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 22150,
+      "num": 48128,
+      "word": "学生们演绎从绿皮火车到中国高铁",
+      "onboard_time": 1697147115,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 21533,
@@ -14691,28 +14715,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 21206,
-      "num": 37646,
-      "word": "吸血章鱼走路的样子",
-      "onboard_time": 1697144653,
-      "rank": 46,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 19014,
       "num": 52073,
       "word": "kpop组合专辑总销量TOP9",
       "onboard_time": 1696707133,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 16863,
-      "num": 39759,
-      "word": "东北路人都是隐藏的NPC",
-      "onboard_time": 1697140093,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 16501,

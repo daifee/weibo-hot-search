@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697148989477,
+  "endTime": 1697150039406,
   "band_list": [
     {
       "raw_hot": 1031123,
@@ -57,6 +57,14 @@
       "onboard_time": 1697123139,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387070,
+      "num": 387070,
+      "word": "男子拆开相框意外发现前女友求婚留言",
+      "onboard_time": 1697138054,
+      "rank": 30,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 378656,
@@ -169,14 +177,6 @@
       "onboard_time": 1697122837,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226541,
-      "num": 226541,
-      "word": "男子拆开相框意外发现前女友求婚留言",
-      "onboard_time": 1697138054,
-      "rank": 30,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 212832,
@@ -467,36 +467,44 @@
       "category": "情感"
     },
     {
-      "raw_hot": 21971,
-      "num": 40124,
-      "word": "网购搜索平替词",
-      "onboard_time": 1697139073,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 21206,
-      "num": 37646,
+      "raw_hot": 30544,
+      "num": 48211,
       "word": "吸血章鱼走路的样子",
       "onboard_time": 1697144653,
       "rank": 46,
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 18993,
-      "num": 41919,
-      "word": "没认出黄绮珊",
-      "onboard_time": 1697106514,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 24978,
+      "num": 48168,
+      "word": "网购搜索平替词",
+      "onboard_time": 1697139073,
+      "rank": 49,
+      "category": "幽默"
     },
     {
-      "raw_hot": 16863,
-      "num": 39759,
+      "raw_hot": 23424,
+      "num": 48143,
       "word": "东北路人都是隐藏的NPC",
       "onboard_time": 1697140093,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 22150,
+      "num": 48128,
+      "word": "学生们演绎从绿皮火车到中国高铁",
+      "onboard_time": 1697147115,
+      "rank": 48,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 21984,
+      "num": 48112,
+      "word": "没认出黄绮珊",
+      "onboard_time": 1697106514,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 14640,

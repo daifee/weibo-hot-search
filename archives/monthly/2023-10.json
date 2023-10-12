@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697148989477,
+  "endTime": 1697150039406,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -12667,6 +12667,14 @@
       "category": "情感,网红"
     },
     {
+      "raw_hot": 387070,
+      "num": 387070,
+      "word": "男子拆开相框意外发现前女友求婚留言",
+      "onboard_time": 1697138054,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 387052,
       "num": 387052,
       "word": "王一博巴黎看秀官方镜头",
@@ -21873,14 +21881,6 @@
       "onboard_time": 1696331616,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 226541,
-      "num": 226541,
-      "word": "男子拆开相框意外发现前女友求婚留言",
-      "onboard_time": 1697138054,
-      "rank": 30,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 226516,
@@ -33979,6 +33979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30544,
+      "num": 48211,
+      "word": "吸血章鱼走路的样子",
+      "onboard_time": 1697144653,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 29902,
       "num": 29902,
       "word": "孙艺洲有点功夫在腿上",
@@ -34107,6 +34115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24978,
+      "num": 48168,
+      "word": "网购搜索平替词",
+      "onboard_time": 1697139073,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24438,
       "num": 519780,
       "word": "iQOO手机见证中国电竞冲金时刻",
@@ -34131,6 +34147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23424,
+      "num": 48143,
+      "word": "东北路人都是隐藏的NPC",
+      "onboard_time": 1697140093,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 23108,
       "num": 51839,
       "word": "杨幂若把你直拍",
@@ -34147,12 +34171,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21971,
-      "num": 40124,
-      "word": "网购搜索平替词",
-      "onboard_time": 1697139073,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 22150,
+      "num": 48128,
+      "word": "学生们演绎从绿皮火车到中国高铁",
+      "onboard_time": 1697147115,
+      "rank": 48,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 21533,
@@ -34161,14 +34185,6 @@
       "onboard_time": 1696876516,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 21206,
-      "num": 37646,
-      "word": "吸血章鱼走路的样子",
-      "onboard_time": 1697144653,
-      "rank": 46,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 19990,
@@ -34217,14 +34233,6 @@
       "onboard_time": 1696237233,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 16863,
-      "num": 39759,
-      "word": "东北路人都是隐藏的NPC",
-      "onboard_time": 1697140093,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 16501,
