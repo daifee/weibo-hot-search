@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697135753601,
+  "endTime": 1697138031319,
   "band_list": [
     {
       "raw_hot": 1031123,
@@ -451,12 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20809,
+      "raw_hot": 26402,
       "num": 48294,
       "word": "原来你们委屈想回家的家是这样的",
       "onboard_time": 1697135176,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 18036,
+      "num": 41919,
+      "word": "没认出黄绮珊",
+      "onboard_time": 1697106514,
+      "rank": 43,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
