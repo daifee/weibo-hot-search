@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697134973104,
+  "endTime": 1697135753601,
   "band_list": [
     {
       "raw_hot": 1031123,
@@ -411,7 +411,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64159,
+      "raw_hot": 67343,
       "num": 52577,
       "word": "安心把闹钟关掉",
       "onboard_time": 1697132958,
@@ -449,6 +449,14 @@
       "onboard_time": 1697108794,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 20809,
+      "num": 48294,
+      "word": "原来你们委屈想回家的家是这样的",
+      "onboard_time": 1697135176,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [

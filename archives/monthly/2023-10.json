@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697134973104,
+  "endTime": 1697135753601,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -33163,6 +33163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67343,
+      "num": 52577,
+      "word": "安心把闹钟关掉",
+      "onboard_time": 1697132958,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66655,
       "num": 35531,
       "word": "一起祝福新中国生日快乐",
@@ -33201,14 +33209,6 @@
       "onboard_time": 1696400735,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 64159,
-      "num": 52577,
-      "word": "安心把闹钟关掉",
-      "onboard_time": 1697132958,
-      "rank": 20,
-      "category": "幽默"
     },
     {
       "raw_hot": 64141,
@@ -34137,6 +34137,14 @@
       "onboard_time": 1696876516,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 20809,
+      "num": 48294,
+      "word": "原来你们委屈想回家的家是这样的",
+      "onboard_time": 1697135176,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 19990,
