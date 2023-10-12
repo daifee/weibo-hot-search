@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 06:33:59
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 07:17:37
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ iPhone被曝夜间自动关机（热度：1459310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23" target="weibo">
+男子拆开相框意外发现前女友求婚留言（热度：988033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E9%80%89%E8%A7%92%E9%A3%8E%E6%B3%A2%23" target="weibo">
 刘宇宁直播回应珠帘玉幕选角风波（热度：985075）
 </a>
@@ -2171,6 +2177,12 @@ iPhone15Pro蓝色钛金属价格暴跌（热度：653784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E7%B2%BE%E7%A5%9E%E5%8D%AB%E7%94%9F%E6%97%A5%23" target="weibo">
 世界精神卫生日（热度：625411）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E6%80%A7%E4%BE%B5%E8%A2%AB%E6%95%91%E4%B8%8B%E5%90%8E%E5%8F%88%E8%A2%AB%E5%85%B6%E4%BE%B5%E7%8A%AF%23" target="weibo">
+美国女子遭性侵被救下后又被其侵犯（热度：625204）
 </a>
 </li>
 
@@ -3831,12 +3843,6 @@ SEVENTEEN获TMA大赏（热度：387454）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23" target="weibo">
-男子拆开相框意外发现前女友求婚留言（热度：387070）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E9%9B%AF%E5%85%83%20%E4%B8%AD%E5%9B%BD%E5%AE%9D%E5%AE%9D%E8%87%AA%E5%B7%B1%E7%9A%84ken%23" target="weibo">
 侯雯元 中国宝宝自己的ken（热度：386867）
 </a>
@@ -4533,6 +4539,12 @@ iPhone15Pro多款机型破发（热度：337050）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B2%B3%E6%AF%8D%E6%9D%A5%E8%B5%B0%E4%BA%B2%E6%88%9A%E7%BB%93%E6%9E%9C%E8%BF%9E%E5%89%A5%E5%8D%81%E5%87%A0%E5%A4%A9%E7%8E%89%E7%B1%B3%23" target="weibo">
+岳母来走亲戚结果连剥十几天玉米（热度：336114）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23IVE%20%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E7%BE%8E%E5%B7%A5%23" target="weibo">
 IVE 好歹毒的美工（热度：335177）
 </a>
@@ -4643,6 +4655,12 @@ IVE 好歹毒的美工（热度：335177）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E7%BB%99%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%94%BB%E7%9A%84%E5%8D%A7%E8%9A%95%23" target="weibo">
 谁给赵今麦画的卧蚕（热度：328505）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%B5%84%E8%BD%A6%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23" target="weibo">
+合资车退出中国市场意味着什么（热度：327910）
 </a>
 </li>
 
@@ -8913,12 +8931,6 @@ Liz哭了（热度：179674）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%88%E8%B5%84%E8%BD%A6%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88%23" target="weibo">
-合资车退出中国市场意味着什么（热度：176027）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23S13%E8%B5%9B%E5%89%8D%E5%9E%83%E5%9C%BE%E8%AF%9D%23" target="weibo">
 S13赛前垃圾话（热度：175874）
 </a>
@@ -8969,6 +8981,12 @@ S13赛前垃圾话（热度：175874）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E4%BA%8B%E5%88%AB%E6%89%92%E6%8B%89%E5%B0%8F%E7%8C%AB%E5%92%AA%23" target="weibo">
 没事别扒拉小猫咪（热度：174500）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8A%B3%E4%BD%9C%E5%90%8E%E8%AF%AF%E5%96%9D500%E6%AF%AB%E5%8D%87%E6%B1%BD%E8%BD%A6%E9%98%B2%E5%86%BB%E6%B6%B2%E8%BA%AB%E4%BA%A1%23" target="weibo">
+男子劳作后误喝500毫升汽车防冻液身亡（热度：174094）
 </a>
 </li>
 
@@ -9521,6 +9539,12 @@ S13全球总决赛入围赛（热度：158738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E5%85%AC%E4%B8%BB%E9%80%A0%E5%9E%8B%23" target="weibo">
 张元英公主造型（热度：157613）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%20%E6%84%9F%E8%B0%A2%E6%89%80%E6%9C%89%E6%B6%88%E9%98%B2%E5%91%98%E7%9A%84%E7%AB%AD%E8%AF%9A%E5%AE%88%E6%8A%A4%23" target="weibo">
+黄景瑜 感谢所有消防员的竭诚守护（热度：157452）
 </a>
 </li>
 
@@ -10239,6 +10263,12 @@ BDS晋级S13入围赛（热度：121285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%A4%B1%E8%81%9423%E5%B9%B4%E5%AE%B6%E4%BA%BA%E4%BF%9D%E7%95%99%E5%BA%A7%E6%9C%BA%E5%8D%81%E5%87%A0%E5%B9%B4%23" target="weibo">
+女子失联23年家人保留座机十几年（热度：116868）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E8%83%8C%E7%9D%80%E6%88%91%E4%BB%AC%E8%BE%8D%E5%AD%A6%E4%BA%86%23" target="weibo">
 我爸背着我们辍学了（热度：116662）
 </a>
@@ -10683,6 +10713,12 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E8%BF%98%E5%8E%9F%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%85%AC%E5%B8%83%E6%88%90%E7%BB%A9%23" target="weibo">
+神还原班主任公布成绩（热度：66883）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E8%B5%B0%E9%BB%84%E6%B2%B3%20%E9%81%87%E8%A7%81%E5%B9%B8%E7%A6%8F%23" target="weibo">
 行走黄河 遇见幸福（热度：66245）
 </a>
@@ -10791,6 +10827,12 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E8%A1%80%E7%AB%A0%E9%B1%BC%E8%B5%B0%E8%B7%AF%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
+吸血章鱼走路的样子（热度：54923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E7%BE%8E%E5%BE%97%E6%AF%AB%E4%B8%8D%E8%B4%B9%E5%8A%9B%23" target="weibo">
 张柏芝美得毫不费力（热度：54906）
 </a>
@@ -10869,6 +10911,12 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%E4%B8%8E%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E4%B8%9D%E8%B7%AF%E4%B9%8B%E6%97%85%23" target="weibo">
+荔枝与车厘子的丝路之旅（热度：44914）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E7%8E%AF%E5%A2%83%E4%B8%8B%E4%BC%9A%E4%BF%83%E6%88%90infp%23" target="weibo">
 什么环境下会促成infp（热度：44848）
 </a>
@@ -10907,12 +10955,6 @@ aespa将11月10日回归（热度：89406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E9%AB%98%E7%87%834%E9%87%91%E6%94%B6%E5%AE%98%23" target="weibo">
 国羽高燃4金收官（热度：41536）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%94%E6%9E%9D%E4%B8%8E%E8%BD%A6%E5%8E%98%E5%AD%90%E7%9A%84%E4%B8%9D%E8%B7%AF%E4%B9%8B%E6%97%85%23" target="weibo">
-荔枝与车厘子的丝路之旅（热度：41404）
 </a>
 </li>
 
@@ -10967,12 +11009,6 @@ aespa将11月10日回归（热度：89406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E5%92%8C%E6%B0%94%E5%91%B3%E6%98%AF%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%23" target="weibo">
 音乐和气味是最强大的搜索引擎（热度：32741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E8%A1%80%E7%AB%A0%E9%B1%BC%E8%B5%B0%E8%B7%AF%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
-吸血章鱼走路的样子（热度：30544）
 </a>
 </li>
 

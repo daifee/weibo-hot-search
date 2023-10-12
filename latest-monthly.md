@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 06:33:59
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 07:17:37
 </p>
 </blockquote>
 <p>
@@ -2997,6 +2997,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23" target="weibo">
+男子拆开相框意外发现前女友求婚留言（热度：988033）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E7%9B%B4%E6%92%AD%E5%9B%9E%E5%BA%94%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%E9%80%89%E8%A7%92%E9%A3%8E%E6%B3%A2%23" target="weibo">
 刘宇宁直播回应珠帘玉幕选角风波（热度：985075）
 </a>
@@ -5601,6 +5607,12 @@ Jennie将发新歌（热度：642409）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E6%80%A7%E4%BE%B5%E8%A2%AB%E6%95%91%E4%B8%8B%E5%90%8E%E5%8F%88%E8%A2%AB%E5%85%B6%E4%BE%B5%E7%8A%AF%23" target="weibo">
+美国女子遭性侵被救下后又被其侵犯（热度：625204）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BF%8A%E5%87%AF%E4%BB%BB%E7%AC%AC%E4%B8%83%E5%B1%8A%E5%B9%B3%E9%81%A5%E5%BD%B1%E5%B1%95%E7%89%B9%E7%BA%A6%E7%AD%96%E5%B1%95%E4%BA%BA%23" target="weibo">
 王俊凯任第七届平遥影展特约策展人（热度：623181）
 </a>
@@ -5999,18 +6011,6 @@ seventeen（热度：598221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%8B%AC%E8%87%AA%E5%9C%A8%E5%AE%B6%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%85%A7%E9%A1%BE%E5%BE%97%E5%BE%88%E5%A5%BD%23" target="weibo">
 2岁宝宝独自在家把自己照顾得很好（热度：595324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E8%B6%85%E5%B8%82%E5%85%8D%E8%B4%B9%E4%B8%BA%E9%A1%BE%E5%AE%A2%E5%8F%91%E9%9B%A8%E8%A1%A3%23" target="weibo">
-胖东来超市免费为顾客发雨衣（热度：594791）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%89%E4%B8%87%E5%A4%9A%E6%9D%A1%E6%B6%88%E6%81%AF%E7%82%B9%E5%BC%80%E4%BA%86%23" target="weibo">
-把朋友圈三万多条消息点开了（热度：594757）
 </a>
 </li>
 
