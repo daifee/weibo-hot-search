@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697085291595,
+  "endTime": 1697087780164,
   "band_list": [
     {
       "raw_hot": 3007519,
@@ -25,6 +25,14 @@
       "onboard_time": 1697079395,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2496183,
+      "num": 2496183,
+      "word": "全红婵弟弟 鱼啊",
+      "onboard_time": 1697085638,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2146083,
@@ -67,6 +75,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 1832584,
+      "num": 1832584,
+      "word": "女子怀孕5个月被房东知道后退租",
+      "onboard_time": 1697086477,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1637823,
       "num": 464790,
       "word": "武大男生在图书馆实施性骚扰",
@@ -81,6 +97,14 @@
       "onboard_time": 1697077052,
       "rank": 11,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1401718,
+      "num": 1401718,
+      "word": "雪中悍刀行女主",
+      "onboard_time": 1697084978,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 1314390,
@@ -132,7 +156,7 @@
     },
     {
       "raw_hot": 1042784,
-      "num": 239717,
+      "num": 931918,
       "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
       "onboard_time": 1697081557,
       "rank": 30,
@@ -259,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 613995,
+      "num": 613995,
+      "word": "长相思第一季收官庆典",
+      "onboard_time": 1697086839,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 605414,
       "num": 605414,
       "word": "的哥回应网传高速甩客致乘客身亡",
@@ -364,7 +396,7 @@
     },
     {
       "raw_hot": 503608,
-      "num": 227372,
+      "num": 395224,
       "word": "外国雇佣兵离开乌克兰赴以色列作战",
       "onboard_time": 1697082156,
       "rank": 33,
@@ -377,14 +409,6 @@
       "onboard_time": 1697073036,
       "rank": 12,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 459582,
-      "num": 235446,
-      "word": "雪中悍刀行女主",
-      "onboard_time": 1697084978,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 429992,
@@ -516,7 +540,7 @@
     },
     {
       "raw_hot": 336980,
-      "num": 228164,
+      "num": 251567,
       "word": "多方回应女子高速下车后溺亡",
       "onboard_time": 1697083055,
       "rank": 32,
@@ -569,6 +593,14 @@
       "onboard_time": 1697026356,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 314940,
+      "num": 314940,
+      "word": "拱出去",
+      "onboard_time": 1697087138,
+      "rank": 22,
+      "category": "幽默,网红"
     },
     {
       "raw_hot": 313659,
@@ -627,6 +659,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 294408,
+      "num": 273263,
+      "word": "公安机关公开通缉2名电诈头目",
+      "onboard_time": 1697086539,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293233,
       "num": 293233,
       "word": "朱一龙 卷不代表努力",
@@ -667,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273679,
+      "num": 273679,
+      "word": "有了名字的福宝妹妹粉嘟嘟",
+      "onboard_time": 1697087556,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 271398,
       "num": 271398,
       "word": "原来公积金是这样用的",
@@ -675,12 +723,28 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 270446,
+      "num": 270446,
+      "word": "背了两年的包夹层是个纸壳子",
+      "onboard_time": 1697085759,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 269907,
       "num": 269907,
       "word": "吴昕父母敲了4次门在门外待了6个小时",
       "onboard_time": 1697011415,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 269558,
+      "num": 269558,
+      "word": "女子跳河站水中让丈夫签离婚协议",
+      "onboard_time": 1697087317,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 269506,
@@ -705,6 +769,14 @@
       "onboard_time": 1697078913,
       "rank": 25,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 262707,
+      "num": 262707,
+      "word": "种田文",
+      "onboard_time": 1697087556,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 261020,
@@ -803,12 +875,28 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 226360,
+      "num": 226360,
+      "word": "高考钉子户梁实第28次备考",
+      "onboard_time": 1697085221,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 225023,
       "num": 205282,
       "word": "他手机有秘密有感情有爱人",
       "onboard_time": 1697039192,
       "rank": 25,
       "category": "情感"
+    },
+    {
+      "raw_hot": 224718,
+      "num": 224718,
+      "word": "上百一斤的牛肉做烤串",
+      "onboard_time": 1697084978,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 224267,
@@ -899,14 +987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 208452,
-      "num": 208452,
-      "word": "上百一斤的牛肉做烤串",
-      "onboard_time": 1697084978,
-      "rank": 38,
-      "category": "美食"
-    },
-    {
       "raw_hot": 208351,
       "num": 208351,
       "word": "原来这是左撇子被纠正的原因",
@@ -969,6 +1049,14 @@
       "onboard_time": 1697066246,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 199458,
+      "num": 199458,
+      "word": "白鹿奔跑吧开工照",
+      "onboard_time": 1697087676,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 198566,
@@ -1043,14 +1131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 190112,
-      "num": 190112,
-      "word": "高考钉子户梁实第28次备考",
-      "onboard_time": 1697085221,
-      "rank": 42,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 189861,
       "num": 189861,
       "word": "度华年",
@@ -1113,6 +1193,14 @@
       "onboard_time": 1697070216,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 179315,
+      "num": 179315,
+      "word": "中石油直播",
+      "onboard_time": 1697087737,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178203,
@@ -1387,6 +1475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 86433,
+      "num": 243676,
+      "word": "绵柔巾跟棉柔巾可能差了十万八千里",
+      "onboard_time": 1697087080,
+      "rank": 36,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 80690,
       "num": 96069,
       "word": "JINI回应退出NMIXX的原因",
@@ -1481,6 +1577,14 @@
       "onboard_time": 1697054474,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 6942,
+      "num": 1656326,
+      "word": "全国网络普法行四川站",
+      "onboard_time": 1696991073,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 4887,
