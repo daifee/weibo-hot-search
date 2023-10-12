@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697074223807,
+  "endTime": 1697076214738,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -187,6 +187,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 2679261,
+      "num": 2679261,
+      "word": "2023年应届生平均招聘月薪10342元",
+      "onboard_time": 1697073456,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2654165,
       "num": 2654165,
       "word": "蓝天救援队否认中止搜救4岁女童",
@@ -353,6 +361,14 @@
       "onboard_time": 1696980691,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2117863,
+      "num": 2117863,
+      "word": "产妇拍下产床抓痕引20万妈妈共鸣",
+      "onboard_time": 1697071477,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2093961,
@@ -632,14 +648,6 @@
       "word": "失踪女童父亲称返回时被石头割伤脚趾",
       "onboard_time": 1696780111,
       "rank": 10,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1703562,
-      "num": 1703562,
-      "word": "产妇拍下产床抓痕引20万妈妈共鸣",
-      "onboard_time": 1697071477,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1804,7 +1812,7 @@
     },
     {
       "raw_hot": 765898,
-      "num": 622353,
+      "num": 732429,
       "word": "以色列",
       "onboard_time": 1696661376,
       "rank": 40,
@@ -2417,14 +2425,6 @@
       "onboard_time": 1696904790,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 615363,
-      "num": 615363,
-      "word": "2023年应届生平均招聘月薪10342元",
-      "onboard_time": 1697073456,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 615019,
@@ -3419,6 +3419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473218,
+      "num": 473218,
+      "word": "仙台有树开机官宣",
+      "onboard_time": 1697075854,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 473180,
       "num": 473180,
       "word": "放羊的星星花絮",
@@ -3993,6 +4001,14 @@
       "onboard_time": 1696990897,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407626,
+      "num": 407626,
+      "word": "以色列总理称将粉碎摧毁哈马斯",
+      "onboard_time": 1697074654,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 405521,
@@ -5051,6 +5067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332826,
+      "num": 332826,
+      "word": "金靖快把黄晓明夸哭了",
+      "onboard_time": 1697073095,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332787,
       "num": 332787,
       "word": "王俊凯红毯全身镜头",
@@ -5545,14 +5569,6 @@
       "onboard_time": 1696689763,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 302393,
-      "num": 302393,
-      "word": "金靖快把黄晓明夸哭了",
-      "onboard_time": 1697073095,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 301985,
@@ -6097,6 +6113,14 @@
       "onboard_time": 1697068354,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278804,
+      "num": 249917,
+      "word": "陆虎第15次唱于正OST",
+      "onboard_time": 1697075914,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 278184,
@@ -8083,6 +8107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213091,
+      "num": 198766,
+      "word": "联合国11名人员在以军空袭加沙中死亡",
+      "onboard_time": 1697075132,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 212967,
       "num": 212967,
       "word": "欧阳娜娜美拉德穿搭",
@@ -8723,6 +8755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199583,
+      "num": 199583,
+      "word": "订婚仪式结束新娘家人将彩礼还给新郎",
+      "onboard_time": 1697076095,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199549,
       "num": 199549,
       "word": "时装周最出圈明星前十",
@@ -8953,6 +8993,14 @@
       "onboard_time": 1696778556,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 194271,
+      "num": 193145,
+      "word": "哈马斯否认其武装人员袭击儿童",
+      "onboard_time": 1697075373,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 194213,
@@ -9243,12 +9291,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188158,
+      "num": 188158,
+      "word": "三季度全国平均招聘月薪达10115元",
+      "onboard_time": 1697075734,
+      "rank": 36,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 187742,
       "num": 187742,
       "word": "釜山电影节上的包上恩",
       "onboard_time": 1696779036,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187726,
+      "num": 187726,
+      "word": "SEVENTEEN新专预售量突破467万张",
+      "onboard_time": 1697074173,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 187692,
@@ -9337,6 +9401,14 @@
       "onboard_time": 1697025514,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 186081,
+      "num": 186081,
+      "word": "100名工友为5个听障同事自学手语",
+      "onboard_time": 1697076031,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186073,
@@ -9769,14 +9841,6 @@
       "onboard_time": 1697014055,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 176952,
-      "num": 176952,
-      "word": "SEVENTEEN新专预售量突破467万张",
-      "onboard_time": 1697074173,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 176873,
@@ -12204,7 +12268,7 @@
     },
     {
       "raw_hot": 36387,
-      "num": 1360792,
+      "num": 1718644,
       "word": "一带一路一往无前",
       "onboard_time": 1697028578,
       "rank": 2,
