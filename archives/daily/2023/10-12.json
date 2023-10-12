@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697087780164,
+  "endTime": 1697088842522,
   "band_list": [
     {
       "raw_hot": 3007519,
@@ -25,6 +25,14 @@
       "onboard_time": 1697079395,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2626070,
+      "num": 2626070,
+      "word": "女子怀孕5个月被房东知道后退租",
+      "onboard_time": 1697086477,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2496183,
@@ -75,14 +83,6 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 1832584,
-      "num": 1832584,
-      "word": "女子怀孕5个月被房东知道后退租",
-      "onboard_time": 1697086477,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1637823,
       "num": 464790,
       "word": "武大男生在图书馆实施性骚扰",
@@ -113,6 +113,14 @@
       "onboard_time": 1697072199,
       "rank": 22,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1286069,
+      "num": 1286069,
+      "word": "郑强回应婚内出轨包养情妇",
+      "onboard_time": 1697088035,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1280945,
@@ -185,6 +193,14 @@
       "onboard_time": 1697068773,
       "rank": 6,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 875934,
+      "num": 875934,
+      "word": "跑男",
+      "onboard_time": 1697088215,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 801220,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 593193,
+      "num": 593193,
+      "word": "杨立新杨玏父子到底谁在撒谎",
+      "onboard_time": 1697087198,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 587894,
       "num": 441608,
       "word": "papi酱 追星有这么严格嘛",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 503608,
-      "num": 395224,
+      "num": 399299,
       "word": "外国雇佣兵离开乌克兰赴以色列作战",
       "onboard_time": 1697082156,
       "rank": 33,
@@ -409,6 +433,14 @@
       "onboard_time": 1697073036,
       "rank": 12,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 433256,
+      "num": 433256,
+      "word": "中石油直播",
+      "onboard_time": 1697087737,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 429992,
@@ -433,6 +465,14 @@
       "onboard_time": 1697078554,
       "rank": 19,
       "category": "情感"
+    },
+    {
+      "raw_hot": 419168,
+      "num": 419168,
+      "word": "种田文",
+      "onboard_time": 1697087556,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 415372,
@@ -481,6 +521,14 @@
       "onboard_time": 1697031998,
       "rank": 5,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 379927,
+      "num": 379927,
+      "word": "白鹿奔跑吧开工照",
+      "onboard_time": 1697087676,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 379065,
@@ -587,20 +635,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 323094,
+      "num": 323094,
+      "word": "拱出去",
+      "onboard_time": 1697087138,
+      "rank": 22,
+      "category": "幽默,网红"
+    },
+    {
       "raw_hot": 318226,
       "num": 290239,
       "word": "晚上睡觉之前建议揉一揉肚子",
       "onboard_time": 1697026356,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 314940,
-      "num": 314940,
-      "word": "拱出去",
-      "onboard_time": 1697087138,
-      "rank": 22,
-      "category": "幽默,网红"
     },
     {
       "raw_hot": 313659,
@@ -651,6 +699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 299678,
+      "num": 299678,
+      "word": "有了名字的福宝妹妹粉嘟嘟",
+      "onboard_time": 1697087556,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298705,
       "num": 298705,
       "word": "以色列议员呼吁使用末日武器",
@@ -683,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 285379,
+      "num": 285379,
+      "word": "女子跳河站水中让丈夫签离婚协议",
+      "onboard_time": 1697087317,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 278866,
       "num": 278866,
       "word": "关晓彤王牌对王牌哭了",
@@ -705,14 +769,6 @@
       "onboard_time": 1697078614,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 273679,
-      "num": 273679,
-      "word": "有了名字的福宝妹妹粉嘟嘟",
-      "onboard_time": 1697087556,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271398,
@@ -739,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 269558,
-      "num": 269558,
-      "word": "女子跳河站水中让丈夫签离婚协议",
-      "onboard_time": 1697087317,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 269506,
       "num": 269506,
       "word": "补气血真的很重要",
@@ -769,14 +817,6 @@
       "onboard_time": 1697078913,
       "rank": 25,
       "category": "游戏,音乐"
-    },
-    {
-      "raw_hot": 262707,
-      "num": 262707,
-      "word": "种田文",
-      "onboard_time": 1697087556,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 261020,
@@ -825,6 +865,14 @@
       "onboard_time": 1697082217,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240952,
+      "num": 240952,
+      "word": "古茗天官赐福动画",
+      "onboard_time": 1697087916,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 240469,
@@ -1051,14 +1099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199458,
-      "num": 199458,
-      "word": "白鹿奔跑吧开工照",
-      "onboard_time": 1697087676,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 198566,
       "num": 198566,
       "word": "周杰伦开不了口2001年现场",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1697077715,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197669,
+      "num": 197669,
+      "word": "睿宝辉宝亮相姜爷爷满眼自豪与宠溺",
+      "onboard_time": 1697088576,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 197215,
@@ -1193,14 +1241,6 @@
       "onboard_time": 1697070216,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179315,
-      "num": 179315,
-      "word": "中石油直播",
-      "onboard_time": 1697087737,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 178203,
@@ -1347,6 +1387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129198,
+      "num": 425130,
+      "word": "绵柔巾跟棉柔巾可能差了十万八千里",
+      "onboard_time": 1697087080,
+      "rank": 36,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 129119,
       "num": 129119,
       "word": "梅花红桃首播收视率",
@@ -1475,14 +1523,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 86433,
-      "num": 243676,
-      "word": "绵柔巾跟棉柔巾可能差了十万八千里",
-      "onboard_time": 1697087080,
-      "rank": 36,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 80690,
       "num": 96069,
       "word": "JINI回应退出NMIXX的原因",
@@ -1579,8 +1619,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 6942,
-      "num": 1656326,
+      "raw_hot": 8652,
+      "num": 1855720,
       "word": "全国网络普法行四川站",
       "onboard_time": 1696991073,
       "rank": 2,
@@ -1607,6 +1647,9 @@
     },
     {
       "word": "#习近平在江西九江考察调研#"
+    },
+    {
+      "word": "#一带一路朋友圈越来越大#"
     }
   ]
 }
