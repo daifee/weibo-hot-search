@@ -1,0 +1,410 @@
+{
+  "runTime": 1697117785119,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1175348,
+        "num": 1175348,
+        "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
+        "onboard_time": 1697109873,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1129617,
+        "num": 1129617,
+        "word": "以色列空袭叙利亚两座机场",
+        "onboard_time": 1697111134,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 66517,
+        "num": 854646,
+        "word": "这枚大铁环是自主研发国之重器",
+        "onboard_time": 1697117624,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 749056,
+        "num": 749056,
+        "word": "张嘉倪 爱看狐狸哭",
+        "onboard_time": 1697113897,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565013,
+        "num": 565013,
+        "word": "韩国地铁站偶遇天官赐福",
+        "onboard_time": 1697113293,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 523755,
+        "num": 523755,
+        "word": "邓为 头套",
+        "onboard_time": 1697111617,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 675392,
+        "num": 521316,
+        "word": "刘宇宁直播回应珠帘玉幕选角风波",
+        "onboard_time": 1697113596,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 455530,
+        "num": 455530,
+        "word": "张本美和赢了张本智和",
+        "onboard_time": 1697111794,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 451454,
+        "num": 451454,
+        "word": "女子怀孕5个月被房东知道后退租",
+        "onboard_time": 1697086477,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438339,
+        "num": 438339,
+        "word": "20岁女生裸辞用76天穷游22个城市",
+        "onboard_time": 1697116360,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 789710,
+        "num": 437462,
+        "word": "杨超越 一言难尽的滤镜",
+        "onboard_time": 1697115337,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 738963,
+        "num": 436823,
+        "word": "被德国面包划伤食道",
+        "onboard_time": 1697116779,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 637197,
+        "num": 435858,
+        "word": "韩国女厕给外国人带来的冲击",
+        "onboard_time": 1697105134,
+        "rank": 12,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 433853,
+        "num": 433853,
+        "word": "珠帘玉幕",
+        "onboard_time": 1697113956,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 591646,
+        "num": 426936,
+        "word": "叙利亚",
+        "onboard_time": 1697111914,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 406331,
+        "num": 406331,
+        "word": "郭宝昌去世",
+        "onboard_time": 1697097876,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107662,
+        "num": 403398,
+        "word": "荣耀连发3款折叠屏抢占高端用户",
+        "onboard_time": 1697114795,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401485,
+        "num": 401485,
+        "word": "没认出黄绮珊",
+        "onboard_time": 1697106514,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387867,
+        "num": 387867,
+        "word": "范丞丞吃火锅用油碟",
+        "onboard_time": 1697115397,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360252,
+        "num": 360252,
+        "word": "叙机场在伊朗外长到访前遭以军空袭",
+        "onboard_time": 1697113234,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 340943,
+        "num": 340943,
+        "word": "妈妈用迟接孩子方式教育爱迟到儿子",
+        "onboard_time": 1697112816,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340502,
+        "num": 340502,
+        "word": "迪丽热巴 枭起青壤",
+        "onboard_time": 1697112275,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1936231,
+        "num": 339848,
+        "word": "刘宇宁回应折腰相关",
+        "onboard_time": 1697115698,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 300534,
+        "num": 338847,
+        "word": "郑强回应婚内出轨包养情妇",
+        "onboard_time": 1697088035,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338409,
+        "num": 338409,
+        "word": "折腰",
+        "onboard_time": 1697117385,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306292,
+        "num": 306292,
+        "word": "燃冬",
+        "onboard_time": 1697113175,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 303260,
+        "num": 303260,
+        "word": "周深又素颜出镜了",
+        "onboard_time": 1697115880,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293413,
+        "num": 293413,
+        "word": "马龙回应球迷喊巴黎见",
+        "onboard_time": 1697114377,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283459,
+        "num": 283459,
+        "word": "支原体肺炎",
+        "onboard_time": 1697105317,
+        "rank": 28,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 242094,
+        "num": 242094,
+        "word": "美军将派第二艘航母支持以色列",
+        "onboard_time": 1697102854,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 240478,
+        "num": 240478,
+        "word": "这就是勾引人类的下场",
+        "onboard_time": 1697116298,
+        "rank": 30,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 232659,
+        "num": 232659,
+        "word": "沈小婷成韩彬 Galileo Challenge",
+        "onboard_time": 1697115577,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 232021,
+        "num": 232021,
+        "word": "白鹿范丞丞车内手势舞",
+        "onboard_time": 1697111735,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228623,
+        "num": 228623,
+        "word": "巴以大规模冲突进入第五天",
+        "onboard_time": 1697110773,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 212411,
+        "num": 212411,
+        "word": "苏醒愿意降价去密逃恐怖本",
+        "onboard_time": 1697114196,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207511,
+        "num": 207511,
+        "word": "黄晓明双剧收视率好抗打",
+        "onboard_time": 1697108794,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203067,
+        "num": 203067,
+        "word": "披荆斩棘的哥哥 演唱会",
+        "onboard_time": 1697107535,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197241,
+        "num": 197241,
+        "word": "王嘉尔把中华太极带上英国杂志",
+        "onboard_time": 1697114619,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186689,
+        "num": 186689,
+        "word": "女儿继承因公牺牲父亲生前警号",
+        "onboard_time": 1697103513,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49512,
+        "num": 185669,
+        "word": "85后女生挑战护肤配方规则",
+        "onboard_time": 1697115637,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195527,
+        "num": 185657,
+        "word": "谁教赵小棠这么骑马的",
+        "onboard_time": 1697117263,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195159,
+        "num": 185382,
+        "word": "邓为说我收到啦",
+        "onboard_time": 1697117263,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184705,
+        "num": 184705,
+        "word": "关晓彤甩了一滴泪",
+        "onboard_time": 1697117502,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172666,
+        "num": 172666,
+        "word": "成都市教育局回应初中生校内身亡",
+        "onboard_time": 1697107954,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181523,
+        "num": 172281,
+        "word": "谁家女主身手这么好啊",
+        "onboard_time": 1697116238,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169804,
+        "num": 169804,
+        "word": "全红婵弟弟 鱼啊",
+        "onboard_time": 1697085638,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164898,
+        "num": 164898,
+        "word": "辅警20秒救出被车上货物压倒男子",
+        "onboard_time": 1697117026,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158232,
+        "num": 158232,
+        "word": "钟汉良坠车戏倒吊一小时",
+        "onboard_time": 1697111314,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145503,
+        "num": 145503,
+        "word": "中国制造全球最小人工心让七旬老人获新生",
+        "onboard_time": 1697117745,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 145204,
+        "num": 145204,
+        "word": "温太医 娘娘style",
+        "onboard_time": 1697113414,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路朋友圈越来越大#"
+    }
+  }
+}

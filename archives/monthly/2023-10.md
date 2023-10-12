@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/12 21:22:28
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/12 21:36:25
 </p>
 </blockquote>
 <p>
@@ -1029,6 +1029,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E6%8A%98%E8%85%B0%E7%9B%B8%E5%85%B3%23" target="weibo">
+刘宇宁回应折腰相关（热度：1936231）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%94%9F%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8gap%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
 一生不被允许gap的中国人（热度：1935404）
 </a>
@@ -1223,12 +1229,6 @@ Jennie王一博看秀待遇（热度：1809955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%20%E8%B7%91%E7%94%B7%23" target="weibo">
 张真源 跑男（热度：1780398）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E6%8A%98%E8%85%B0%E7%9B%B8%E5%85%B3%23" target="weibo">
-刘宇宁回应折腰相关（热度：1779476）
 </a>
 </li>
 
@@ -4341,6 +4341,12 @@ pdf写罪状录（热度：749818）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%20%E7%88%B1%E7%9C%8B%E7%8B%90%E7%8B%B8%E5%93%AD%23" target="weibo">
+张嘉倪 爱看狐狸哭（热度：749056）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%83%85%E4%BB%A4%E7%89%88%E6%9D%83%E5%B7%B2%E5%88%B0%E6%9C%9F%23" target="weibo">
 陈情令版权已到期（热度：747297）
 </a>
@@ -4397,6 +4403,12 @@ pdf写罪状录（热度：749818）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E7%9B%B4%E6%92%AD%E8%BF%9E%E9%BA%A6%E8%BF%9E%E4%BA%86%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%23" target="weibo">
 刘宪华直播连麦连了一屋子人（热度：739886）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%B7%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%88%92%E4%BC%A4%E9%A3%9F%E9%81%93%23" target="weibo">
+被德国面包划伤食道（热度：738963）
 </a>
 </li>
 
@@ -4589,12 +4601,6 @@ VOGUE评选巴黎时装周最时尚明星（热度：731565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E6%B4%97%E6%BE%A1%E6%97%B6%E4%B8%8D%E8%A6%81%E6%B8%85%E7%90%86%E8%82%9A%E8%84%90%E7%9C%BC%23" target="weibo">
 医生提醒洗澡时不要清理肚脐眼（热度：715150）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%98%89%E5%80%AA%20%E7%88%B1%E7%9C%8B%E7%8B%90%E7%8B%B8%E5%93%AD%23" target="weibo">
-张嘉倪 爱看狐狸哭（热度：714878）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ NCT127和时代少年团专辑封面相似度（热度：592873）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%B8%B8%E5%AE%A2%E5%9B%9B%E5%B7%9D%E5%8D%A7%E9%BE%99%E9%82%93%E7%94%9F%E6%B2%9F%E6%8B%8D%E7%85%A7%E6%BB%91%E8%90%BD%E6%BA%BA%E4%BA%A1%23" target="weibo">
 女游客四川卧龙邓生沟拍照滑落溺亡（热度：589869）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%83%AC%E7%9B%B8%E6%80%9D%E5%AE%9A%E6%A1%A3%23" target="weibo">
-烬相思定档（热度：589674）
 </a>
 </li>
 

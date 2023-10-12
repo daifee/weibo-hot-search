@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697116948986,
+  "endTime": 1697117785119,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -595,6 +595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1936231,
+      "num": 1779476,
+      "word": "刘宇宁回应折腰相关",
+      "onboard_time": 1697115698,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1935404,
       "num": 629994,
       "word": "一生不被允许gap的中国人",
@@ -705,14 +713,6 @@
       "onboard_time": 1696854275,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1779476,
-      "num": 1779476,
-      "word": "刘宇宁回应折腰相关",
-      "onboard_time": 1697115698,
-      "rank": 0,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1770921,
@@ -2187,6 +2187,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 749056,
+      "num": 749056,
+      "word": "张嘉倪 爱看狐狸哭",
+      "onboard_time": 1697113897,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 747297,
       "num": 747297,
       "word": "陈情令版权已到期",
@@ -2225,6 +2233,14 @@
       "onboard_time": 1697037698,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 738963,
+      "num": 436823,
+      "word": "被德国面包划伤食道",
+      "onboard_time": 1697116779,
+      "rank": 24,
+      "category": "美食"
     },
     {
       "raw_hot": 735059,
@@ -2297,14 +2313,6 @@
       "onboard_time": 1696904733,
       "rank": 30,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 714878,
-      "num": 714878,
-      "word": "张嘉倪 爱看狐狸哭",
-      "onboard_time": 1697113897,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 714778,
@@ -4451,6 +4459,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 438339,
+      "num": 438339,
+      "word": "20岁女生裸辞用76天穷游22个城市",
+      "onboard_time": 1697116360,
+      "rank": 30,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 433338,
       "num": 433338,
       "word": "JINI回应退出NMIXX的原因",
@@ -5787,6 +5803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338409,
+      "num": 338409,
+      "word": "折腰",
+      "onboard_time": 1697117385,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 338245,
       "num": 338245,
       "word": "辛爽 我们把火车从桦林开到了釜山",
@@ -6507,6 +6531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 303260,
+      "num": 303260,
+      "word": "周深又素颜出镜了",
+      "onboard_time": 1697115880,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301985,
       "num": 301985,
       "word": "IVE预告",
@@ -7041,14 +7073,6 @@
       "onboard_time": 1696733197,
       "rank": 28,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 280382,
-      "num": 280382,
-      "word": "被德国面包划伤食道",
-      "onboard_time": 1697116779,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 280378,
@@ -8283,14 +8307,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 243537,
-      "num": 243537,
-      "word": "周深又素颜出镜了",
-      "onboard_time": 1697115880,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 243521,
       "num": 243521,
       "word": "关晓彤王安宇演情侣",
@@ -8401,6 +8417,14 @@
       "onboard_time": 1696735956,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240478,
+      "num": 240478,
+      "word": "这就是勾引人类的下场",
+      "onboard_time": 1697116298,
+      "rank": 33,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 240469,
@@ -8729,14 +8753,6 @@
       "onboard_time": 1696754015,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232868,
-      "num": 232868,
-      "word": "20岁女生裸辞用76天穷游22个城市",
-      "onboard_time": 1697116360,
-      "rank": 30,
-      "category": "旅游"
     },
     {
       "raw_hot": 232712,
@@ -9627,14 +9643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209710,
-      "num": 209710,
-      "word": "这就是勾引人类的下场",
-      "onboard_time": 1697116298,
-      "rank": 33,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 209706,
       "num": 209706,
       "word": "大张伟和马嘉祺一起演绎Fly",
@@ -10491,12 +10499,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195527,
+      "num": 185657,
+      "word": "谁教赵小棠这么骑马的",
+      "onboard_time": 1697117263,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195502,
       "num": 195502,
       "word": "毛晓彤问心状态",
       "onboard_time": 1696808852,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195159,
+      "num": 185382,
+      "word": "邓为说我收到啦",
+      "onboard_time": 1697117263,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 195036,
@@ -11129,6 +11153,14 @@
       "onboard_time": 1696769977,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184705,
+      "num": 184705,
+      "word": "关晓彤甩了一滴泪",
+      "onboard_time": 1697117502,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 184636,
@@ -12027,6 +12059,14 @@
       "category": "体育,音乐"
     },
     {
+      "raw_hot": 164898,
+      "num": 164898,
+      "word": "辅警20秒救出被车上货物压倒男子",
+      "onboard_time": 1697117026,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 164835,
       "num": 164835,
       "word": "以军战机连续24小时空袭加沙地带",
@@ -12681,6 +12721,14 @@
       "onboard_time": 1697016519,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 145503,
+      "num": 145503,
+      "word": "中国制造全球最小人工心让七旬老人获新生",
+      "onboard_time": 1697117745,
+      "rank": 48,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 145501,
@@ -13849,6 +13897,14 @@
       "onboard_time": 1696752936,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 66517,
+      "num": 854646,
+      "word": "这枚大铁环是自主研发国之重器",
+      "onboard_time": 1697117624,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 66245,
