@@ -1,0 +1,410 @@
+{
+  "runTime": 1697105926451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1959382,
+        "num": 1959382,
+        "word": "郭宝昌去世",
+        "onboard_time": 1697097876,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1069973,
+        "num": 1069973,
+        "word": "女儿继承因公牺牲父亲生前警号",
+        "onboard_time": 1697103513,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41326,
+        "num": 1041749,
+        "word": "在阿根廷采撷多彩风情",
+        "onboard_time": 1697097997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1023499,
+        "num": 1023499,
+        "word": "女子怀孕5个月被房东知道后退租",
+        "onboard_time": 1697086477,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238154,
+        "num": 1014373,
+        "word": "警方高燃实战比武堪比警匪片",
+        "onboard_time": 1697105254,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1009110,
+        "num": 1009110,
+        "word": "郑强回应婚内出轨包养情妇",
+        "onboard_time": 1697088035,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 883092,
+        "num": 883092,
+        "word": "东部战区回应美机过航台海",
+        "onboard_time": 1697100817,
+        "rank": 6,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 819248,
+        "num": 819248,
+        "word": "可口可乐 好利来",
+        "onboard_time": 1697097216,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 755371,
+        "num": 755371,
+        "word": "美军将派第二艘航母支持以色列",
+        "onboard_time": 1697102854,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 637476,
+        "num": 637476,
+        "word": "网传广州地铁遭恐怖袭击是谣言",
+        "onboard_time": 1697101175,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592212,
+        "num": 592212,
+        "word": "靳东 济南大学",
+        "onboard_time": 1697093375,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562695,
+        "num": 562695,
+        "word": "跑男",
+        "onboard_time": 1697088215,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553081,
+        "num": 553081,
+        "word": "全红婵弟弟 鱼啊",
+        "onboard_time": 1697085638,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 528223,
+        "num": 528223,
+        "word": "广州警方正追查造谣者",
+        "onboard_time": 1697101295,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489012,
+        "num": 489012,
+        "word": "跑男录制现场站姐站满了一艘船",
+        "onboard_time": 1697094934,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245829,
+        "num": 429775,
+        "word": "如果不能救起落水者我会遗憾一辈子",
+        "onboard_time": 1697105555,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426741,
+        "num": 426741,
+        "word": "我国去年出生人口956万",
+        "onboard_time": 1697094099,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392829,
+        "num": 392829,
+        "word": "邓为高马尾长卷发",
+        "onboard_time": 1697099376,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 386827,
+        "num": 386827,
+        "word": "杨立新杨玏父子到底谁在撒谎",
+        "onboard_time": 1697087198,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378532,
+        "num": 378532,
+        "word": "打响了反校园偷拿外卖第一枪",
+        "onboard_time": 1697099735,
+        "rank": 19,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 878125,
+        "num": 376521,
+        "word": "月入5万舍不得打车",
+        "onboard_time": 1697101773,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361071,
+        "num": 361071,
+        "word": "女子被偷10多件内衣报警后遭辞退",
+        "onboard_time": 1697102676,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360412,
+        "num": 360412,
+        "word": "莲花楼评论 神坛下的告别",
+        "onboard_time": 1697104054,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 359732,
+        "num": 359732,
+        "word": "张艺谋 天堂仍有大宅门",
+        "onboard_time": 1697105317,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 349630,
+        "num": 349630,
+        "word": "陈情令版权已到期",
+        "onboard_time": 1697093013,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337129,
+        "num": 337129,
+        "word": "LV卖不动了吗",
+        "onboard_time": 1697095417,
+        "rank": 25,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 196361,
+        "num": 317920,
+        "word": "嘉兴女护士10秒救下卡喉女子",
+        "onboard_time": 1697104594,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314388,
+        "num": 314388,
+        "word": "支原体肺炎",
+        "onboard_time": 1697105317,
+        "rank": 27,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 292771,
+        "num": 292771,
+        "word": "广州地铁称珠江新城站一切如常",
+        "onboard_time": 1697100095,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279725,
+        "num": 279725,
+        "word": "雪中悍刀行女主",
+        "onboard_time": 1697084978,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 665929,
+        "num": 275726,
+        "word": "韩国女厕给外国人带来的冲击",
+        "onboard_time": 1697105134,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 246975,
+        "num": 246975,
+        "word": "薛之谦清远",
+        "onboard_time": 1697104113,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239194,
+        "num": 239194,
+        "word": "高铁上拒绝了宝爹妈的换座后",
+        "onboard_time": 1697089414,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215965,
+        "num": 215965,
+        "word": "看来我是星期六出生的孩子",
+        "onboard_time": 1697100696,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197252,
+        "num": 197252,
+        "word": "周杰伦演唱会提词器",
+        "onboard_time": 1697102018,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194605,
+        "num": 194605,
+        "word": "阿信听到粉丝买黄牛的反应",
+        "onboard_time": 1697091871,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194405,
+        "num": 194405,
+        "word": "大宅门",
+        "onboard_time": 1697105735,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166601,
+        "num": 166601,
+        "word": "赵露思对接否认出演姜泥",
+        "onboard_time": 1697089714,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162261,
+        "num": 162261,
+        "word": "华为发布全球首个全系列5.5G解决方案",
+        "onboard_time": 1697097457,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175438,
+        "num": 160547,
+        "word": "周杰伦上海",
+        "onboard_time": 1697104235,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157226,
+        "num": 157226,
+        "word": "刘涛健身照",
+        "onboard_time": 1697093915,
+        "rank": 40,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 144826,
+        "num": 144826,
+        "word": "巴以冲突",
+        "onboard_time": 1697097757,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 138770,
+        "num": 138770,
+        "word": "新人雪山举行婚礼遇瑞雪共白头",
+        "onboard_time": 1697105673,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136439,
+        "num": 136439,
+        "word": "黄健翔爆粗骂国足脸都不要了",
+        "onboard_time": 1697097577,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131905,
+        "num": 131905,
+        "word": "朱一龙多在这样的电影里呆着",
+        "onboard_time": 1697105016,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127093,
+        "num": 127093,
+        "word": "陈若琳当年有多牛",
+        "onboard_time": 1697099917,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126512,
+        "num": 126512,
+        "word": "你想在长相思演唱会上听到哪首歌",
+        "onboard_time": 1697103575,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125198,
+        "num": 125198,
+        "word": "李沁一年十封",
+        "onboard_time": 1697093194,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125123,
+        "num": 125123,
+        "word": "消防挖沙3小时救出困沙漠客车",
+        "onboard_time": 1697105735,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122016,
+        "num": 122016,
+        "word": "卢昱晓奔跑吧昆明录制",
+        "onboard_time": 1697099137,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江西省考察调研#"
+    }
+  }
+}

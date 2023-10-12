@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697103262898,
+  "endTime": 1697105926451,
   "band_list": [
     {
       "raw_hot": 3783613,
@@ -267,6 +267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1069973,
+      "num": 1069973,
+      "word": "女儿继承因公牺牲父亲生前警号",
+      "onboard_time": 1697103513,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1042784,
       "num": 931918,
       "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
@@ -307,12 +315,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 878125,
+      "num": 549126,
+      "word": "月入5万舍不得打车",
+      "onboard_time": 1697101773,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 801220,
       "num": 801220,
       "word": "招聘月薪和实际薪资是两回事",
       "onboard_time": 1697078554,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 755371,
+      "num": 755371,
+      "word": "美军将派第二艘航母支持以色列",
+      "onboard_time": 1697102854,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 747801,
@@ -409,6 +433,14 @@
       "onboard_time": 1697071659,
       "rank": 12,
       "category": "读书作家,电影"
+    },
+    {
+      "raw_hot": 665929,
+      "num": 275726,
+      "word": "韩国女厕给外国人带来的冲击",
+      "onboard_time": 1697105134,
+      "rank": 30,
+      "category": "其它"
     },
     {
       "raw_hot": 659510,
@@ -521,14 +553,6 @@
       "onboard_time": 1697065705,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 549126,
-      "num": 549126,
-      "word": "月入5万舍不得打车",
-      "onboard_time": 1697101773,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 542004,
@@ -835,6 +859,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 361071,
+      "num": 361071,
+      "word": "女子被偷10多件内衣报警后遭辞退",
+      "onboard_time": 1697102676,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360412,
+      "num": 360412,
+      "word": "莲花楼评论 神坛下的告别",
+      "onboard_time": 1697104054,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360145,
       "num": 231387,
       "word": "韩寒网红餐厅旗下大量门店已倒闭",
@@ -843,12 +883,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358173,
-      "num": 234733,
-      "word": "美军将派第二艘航母支持以色列",
-      "onboard_time": 1697102854,
-      "rank": 30,
-      "category": "国外要闻"
+      "raw_hot": 359732,
+      "num": 359732,
+      "word": "张艺谋 天堂仍有大宅门",
+      "onboard_time": 1697105317,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 349852,
@@ -971,6 +1011,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 314388,
+      "num": 314388,
+      "word": "支原体肺炎",
+      "onboard_time": 1697105317,
+      "rank": 27,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 313659,
       "num": 313659,
       "word": "经常用牙线会让牙缝变宽吗",
@@ -992,14 +1040,6 @@
       "word": "青藏高原发现距今2.2亿年鲨鱼化石",
       "onboard_time": 1697079212,
       "rank": 14,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 310562,
-      "num": 310562,
-      "word": "女子被偷10多件内衣报警后遭辞退",
-      "onboard_time": 1697102676,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1227,12 +1267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246975,
+      "num": 246975,
+      "word": "薛之谦清远",
+      "onboard_time": 1697104113,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245975,
       "num": 245975,
       "word": "中药界的C位",
       "onboard_time": 1697096195,
       "rank": 30,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 245829,
+      "num": 429775,
+      "word": "如果不能救起落水者我会遗憾一辈子",
+      "onboard_time": 1697105555,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 245278,
@@ -1297,6 +1353,14 @@
       "onboard_time": 1697080720,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238154,
+      "num": 1014373,
+      "word": "警方高燃实战比武堪比警匪片",
+      "onboard_time": 1697105254,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 236828,
@@ -1667,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196361,
+      "num": 317920,
+      "word": "嘉兴女护士10秒救下卡喉女子",
+      "onboard_time": 1697104594,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195005,
       "num": 169166,
       "word": "伍佰 成都抢票",
@@ -1681,6 +1753,14 @@
       "onboard_time": 1697025933,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194405,
+      "num": 194405,
+      "word": "大宅门",
+      "onboard_time": 1697105735,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 194271,
@@ -1867,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175438,
+      "num": 160547,
+      "word": "周杰伦上海",
+      "onboard_time": 1697104235,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175117,
       "num": 175117,
       "word": "痴呆母亲出门给女儿买馄饨迷路急哭",
@@ -2027,6 +2115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 138770,
+      "num": 138770,
+      "word": "新人雪山举行婚礼遇瑞雪共白头",
+      "onboard_time": 1697105673,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136143,
       "num": 136143,
       "word": "恋与制作人",
@@ -2040,6 +2136,14 @@
       "word": "王俊凯红毯全身镜头",
       "onboard_time": 1697023053,
       "rank": 36,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 131905,
+      "num": 131905,
+      "word": "朱一龙多在这样的电影里呆着",
+      "onboard_time": 1697105016,
+      "rank": 44,
       "category": "电影"
     },
     {
@@ -2065,6 +2169,22 @@
       "onboard_time": 1697039371,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126512,
+      "num": 126512,
+      "word": "你想在长相思演唱会上听到哪首歌",
+      "onboard_time": 1697103575,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 125123,
+      "num": 125123,
+      "word": "消防挖沙3小时救出困沙漠客车",
+      "onboard_time": 1697105735,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121472,
