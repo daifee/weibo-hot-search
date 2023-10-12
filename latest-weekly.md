@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 04:17:00
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 04:34:56
 </p>
 </blockquote>
 <p>
@@ -11079,14 +11079,14 @@ kpop组合专辑总销量TOP9（热度：19014）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23SNH48%20Number%20One%23" target="weibo">
-SNH48 Number One（热度：12546）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%B7%AF%E4%BA%BA%E9%83%BD%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84NPC%23" target="weibo">
+东北路人都是隐藏的NPC（热度：13011）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%B7%AF%E4%BA%BA%E9%83%BD%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84NPC%23" target="weibo">
-东北路人都是隐藏的NPC（热度：12254）
+<a href="https://s.weibo.com/weibo?q=%23SNH48%20Number%20One%23" target="weibo">
+SNH48 Number One（热度：12546）
 </a>
 </li>
 
