@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697117785119,
+  "endTime": 1697120208063,
   "band_list": [
     {
       "raw_hot": 3783613,
@@ -33,6 +33,14 @@
       "onboard_time": 1697067811,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2750075,
+      "num": 487897,
+      "word": "宋祖儿 折腰",
+      "onboard_time": 1697118583,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 2716171,
@@ -195,6 +203,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1521045,
+      "num": 1521045,
+      "word": "折腰",
+      "onboard_time": 1697117385,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1401718,
       "num": 1401718,
       "word": "雪中悍刀行女主",
@@ -315,6 +331,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 1069224,
+      "num": 1069224,
+      "word": "被德国面包划伤食道",
+      "onboard_time": 1697116779,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1042784,
       "num": 931918,
       "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
@@ -387,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 841063,
+      "num": 471422,
+      "word": "白敬亭上下半身有季节差",
+      "onboard_time": 1697118229,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 837599,
       "num": 837599,
       "word": "支原体肺炎",
@@ -417,6 +449,14 @@
       "onboard_time": 1697102854,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 753472,
+      "num": 753472,
+      "word": "6男生自助火锅店喝111瓶酸梅汤",
+      "onboard_time": 1697118162,
+      "rank": 5,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 749056,
@@ -459,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 738963,
-      "num": 436823,
-      "word": "被德国面包划伤食道",
-      "onboard_time": 1697116779,
-      "rank": 24,
-      "category": "美食"
-    },
-    {
       "raw_hot": 735059,
       "num": 735059,
       "word": "为什么年轻人开始讨厌信用卡了",
@@ -505,6 +537,14 @@
       "onboard_time": 1697079757,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 698891,
+      "num": 449962,
+      "word": "中以混血女孩中国妈妈再发声",
+      "onboard_time": 1697119003,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 698408,
@@ -577,6 +617,14 @@
       "onboard_time": 1697027075,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 644649,
+      "num": 644649,
+      "word": "20岁女生裸辞用76天穷游22个城市",
+      "onboard_time": 1697116360,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 635115,
@@ -787,6 +835,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 514934,
+      "num": 514934,
+      "word": "张凌赫回应炎症女孩",
+      "onboard_time": 1697119724,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 505226,
       "num": 505226,
       "word": "迪丽热巴 枭起青壤",
@@ -883,14 +939,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 438339,
-      "num": 438339,
-      "word": "20岁女生裸辞用76天穷游22个城市",
-      "onboard_time": 1697116360,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 433256,
       "num": 433256,
       "word": "中石油直播",
@@ -969,6 +1017,22 @@
       "onboard_time": 1697095896,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411503,
+      "num": 411503,
+      "word": "IVE",
+      "onboard_time": 1697118162,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 410410,
+      "num": 294102,
+      "word": "李子柒复出卡在哪了",
+      "onboard_time": 1697118641,
+      "rank": 20,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 408378,
@@ -1131,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345662,
+      "num": 293073,
+      "word": "全国统一放抹布位置",
+      "onboard_time": 1697118229,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345068,
       "num": 345068,
       "word": "于适 脸帅就可以了",
@@ -1153,14 +1225,6 @@
       "onboard_time": 1697100696,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 338409,
-      "num": 338409,
-      "word": "折腰",
-      "onboard_time": 1697117385,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 336980,
@@ -1385,6 +1449,14 @@
       "onboard_time": 1697072975,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 289474,
+      "num": 220975,
+      "word": "中国手机的美颜功能到了非洲改了",
+      "onboard_time": 1697119427,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 288640,
@@ -1843,12 +1915,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220905,
+      "num": 220905,
+      "word": "邓为说我收到啦",
+      "onboard_time": 1697117263,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 220686,
       "num": 220686,
       "word": "种地吧",
       "onboard_time": 1697084738,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 220374,
+      "num": 209063,
+      "word": "曹杨新歌在周杰伦演唱会首唱",
+      "onboard_time": 1697119003,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 220120,
@@ -2163,14 +2251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195159,
-      "num": 185382,
-      "word": "邓为说我收到啦",
-      "onboard_time": 1697117263,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195005,
       "num": 169166,
       "word": "伍佰 成都抢票",
@@ -2217,6 +2297,14 @@
       "onboard_time": 1697080836,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193377,
+      "num": 193377,
+      "word": "现在10后都进化成这样了",
+      "onboard_time": 1697119782,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 193308,
@@ -2275,6 +2363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189730,
+      "num": 189730,
+      "word": "女子辞掉父母眼中的铁饭碗改行修瓷器",
+      "onboard_time": 1697118828,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188158,
       "num": 188158,
       "word": "三季度全国平均招聘月薪达10115元",
@@ -2289,6 +2385,14 @@
       "onboard_time": 1697074173,
       "rank": 41,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 187080,
+      "num": 187080,
+      "word": "黄绮珊别唱了我没眼泪了",
+      "onboard_time": 1697119665,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 186973,
@@ -2331,8 +2435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 184705,
-      "num": 184705,
+      "raw_hot": 184848,
+      "num": 184848,
       "word": "关晓彤甩了一滴泪",
       "onboard_time": 1697117502,
       "rank": 42,
@@ -2585,6 +2689,14 @@
       "onboard_time": 1697066005,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156098,
+      "num": 896650,
+      "word": "这枚大铁环是自主研发国之重器",
+      "onboard_time": 1697117624,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 153256,
@@ -2897,14 +3009,6 @@
       "onboard_time": 1697041947,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 66517,
-      "num": 854646,
-      "word": "这枚大铁环是自主研发国之重器",
-      "onboard_time": 1697117624,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 62839,

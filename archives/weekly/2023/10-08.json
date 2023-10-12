@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697117785119,
+  "endTime": 1697120208063,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -193,6 +193,14 @@
       "onboard_time": 1697067811,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2750075,
+      "num": 487897,
+      "word": "宋祖儿 折腰",
+      "onboard_time": 1697118583,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 2742852,
@@ -915,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1521045,
+      "num": 1521045,
+      "word": "折腰",
+      "onboard_time": 1697117385,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1493014,
       "num": 853231,
       "word": "假球",
@@ -1419,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1069224,
+      "num": 1069224,
+      "word": "被德国面包划伤食道",
+      "onboard_time": 1697116779,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1061178,
       "num": 1061178,
       "word": "拖把兄弟 吸氧兄弟",
@@ -1859,6 +1883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 841063,
+      "num": 471422,
+      "word": "白敬亭上下半身有季节差",
+      "onboard_time": 1697118229,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 837610,
       "num": 837610,
       "word": "孙颖莎世排积分全是冠军",
@@ -2171,6 +2203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 753472,
+      "num": 753472,
+      "word": "6男生自助火锅店喝111瓶酸梅汤",
+      "onboard_time": 1697118162,
+      "rank": 5,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 753270,
       "num": 753270,
       "word": "63岁老人免费体检后多次手术身亡",
@@ -2233,14 +2273,6 @@
       "onboard_time": 1697037698,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 738963,
-      "num": 436823,
-      "word": "被德国面包划伤食道",
-      "onboard_time": 1697116779,
-      "rank": 24,
-      "category": "美食"
     },
     {
       "raw_hot": 735059,
@@ -2393,6 +2425,14 @@
       "onboard_time": 1696901972,
       "rank": 40,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 698891,
+      "num": 449962,
+      "word": "中以混血女孩中国妈妈再发声",
+      "onboard_time": 1697119003,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 698408,
@@ -2665,6 +2705,14 @@
       "onboard_time": 1697010814,
       "rank": 6,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 644649,
+      "num": 644649,
+      "word": "20岁女生裸辞用76天穷游22个城市",
+      "onboard_time": 1697116360,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 644595,
@@ -3643,6 +3691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514934,
+      "num": 514934,
+      "word": "张凌赫回应炎症女孩",
+      "onboard_time": 1697119724,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 513906,
       "num": 430310,
       "word": "北极鲶鱼哪来的安全感",
@@ -4459,14 +4515,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 438339,
-      "num": 438339,
-      "word": "20岁女生裸辞用76天穷游22个城市",
-      "onboard_time": 1697116360,
-      "rank": 30,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 433338,
       "num": 433338,
       "word": "JINI回应退出NMIXX的原因",
@@ -4705,6 +4753,22 @@
       "onboard_time": 1697095896,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411503,
+      "num": 411503,
+      "word": "IVE",
+      "onboard_time": 1697118162,
+      "rank": 15,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 410410,
+      "num": 294102,
+      "word": "李子柒复出卡在哪了",
+      "onboard_time": 1697118641,
+      "rank": 20,
+      "category": "网红,社会新闻"
     },
     {
       "raw_hot": 409240,
@@ -5715,6 +5779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 345662,
+      "num": 293073,
+      "word": "全国统一放抹布位置",
+      "onboard_time": 1697118229,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 345207,
       "num": 314851,
       "word": "杨紫尼龙大片",
@@ -5801,14 +5873,6 @@
       "onboard_time": 1696759953,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 338409,
-      "num": 338409,
-      "word": "折腰",
-      "onboard_time": 1697117385,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 338245,
@@ -6825,6 +6889,14 @@
       "onboard_time": 1697034398,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289474,
+      "num": 220975,
+      "word": "中国手机的美颜功能到了非洲改了",
+      "onboard_time": 1697119427,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 288993,
@@ -9211,6 +9283,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 220905,
+      "num": 220905,
+      "word": "邓为说我收到啦",
+      "onboard_time": 1697117263,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220374,
+      "num": 209063,
+      "word": "曹杨新歌在周杰伦演唱会首唱",
+      "onboard_time": 1697119003,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 220120,
       "num": 220120,
       "word": "摊主塞大枣被捡枣小朋友婉拒",
@@ -10515,14 +10603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195159,
-      "num": 185382,
-      "word": "邓为说我收到啦",
-      "onboard_time": 1697117263,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 195036,
       "num": 195036,
       "word": "邓超偷拍孙俪练拳击",
@@ -10641,6 +10721,14 @@
       "onboard_time": 1696821819,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193377,
+      "num": 193377,
+      "word": "现在10后都进化成这样了",
+      "onboard_time": 1697119782,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 193308,
@@ -10859,6 +10947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189730,
+      "num": 189730,
+      "word": "女子辞掉父母眼中的铁饭碗改行修瓷器",
+      "onboard_time": 1697118828,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189717,
       "num": 189717,
       "word": "李盈莹这一幕太让人心疼了",
@@ -11019,6 +11115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187080,
+      "num": 187080,
+      "word": "黄绮珊别唱了我没眼泪了",
+      "onboard_time": 1697119665,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187050,
       "num": 203097,
       "word": "消防员救70000只鸡养鸡大户拎鸡感谢",
@@ -11147,20 +11251,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184848,
+      "num": 184848,
+      "word": "关晓彤甩了一滴泪",
+      "onboard_time": 1697117502,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184724,
       "num": 184724,
       "word": "白敬亭骑马照",
       "onboard_time": 1696769977,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 184705,
-      "num": 184705,
-      "word": "关晓彤甩了一滴泪",
-      "onboard_time": 1697117502,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 184636,
@@ -12465,6 +12569,14 @@
       "onboard_time": 1696766437,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156098,
+      "num": 896650,
+      "word": "这枚大铁环是自主研发国之重器",
+      "onboard_time": 1697117624,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 156011,
@@ -13897,14 +14009,6 @@
       "onboard_time": 1696752936,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 66517,
-      "num": 854646,
-      "word": "这枚大铁环是自主研发国之重器",
-      "onboard_time": 1697117624,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 66245,
