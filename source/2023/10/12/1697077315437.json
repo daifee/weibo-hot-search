@@ -1,0 +1,410 @@
+{
+  "runTime": 1697077315437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2963605,
+        "num": 2963605,
+        "word": "2023年应届生平均招聘月薪10342元",
+        "onboard_time": 1697073456,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1915868,
+        "num": 1915868,
+        "word": "产妇拍下产床抓痕引20万妈妈共鸣",
+        "onboard_time": 1697071477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19582,
+        "num": 1230651,
+        "word": "一带一路一往无前",
+        "onboard_time": 1697028578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 838351,
+        "num": 838351,
+        "word": "周杰伦演唱会前黄牛集体退票",
+        "onboard_time": 1697040451,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 674574,
+        "num": 674574,
+        "word": "仙台有树开机官宣",
+        "onboard_time": 1697075854,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 739130,
+        "num": 667696,
+        "word": "以色列",
+        "onboard_time": 1697072199,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 615056,
+        "num": 615056,
+        "word": "余华 当当盯上了我的另一部小说",
+        "onboard_time": 1697071659,
+        "rank": 6,
+        "category": "读书作家,电影"
+      },
+      {
+        "raw_hot": 590794,
+        "num": 590794,
+        "word": "刘暖曦视频号直播4次后被投诉永久禁播",
+        "onboard_time": 1697076634,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569950,
+        "num": 569950,
+        "word": "过度疲劳的6种表现",
+        "onboard_time": 1697068111,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 482026,
+        "num": 482026,
+        "word": "订婚仪式结束新娘家人将彩礼还给新郎",
+        "onboard_time": 1697076095,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777441,
+        "num": 476561,
+        "word": "长期运动对外貌改变有多大",
+        "onboard_time": 1697067029,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 618725,
+        "num": 470729,
+        "word": "为什么耳朵里面会长这种痘",
+        "onboard_time": 1697077052,
+        "rank": 11,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 514192,
+        "num": 468883,
+        "word": "以色列总理称将粉碎摧毁哈马斯",
+        "onboard_time": 1697074654,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 462956,
+        "num": 462956,
+        "word": "为什么年轻人开始讨厌信用卡了",
+        "onboard_time": 1697076334,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411523,
+        "num": 411523,
+        "word": "福宝妹妹们叫睿宝辉宝",
+        "onboard_time": 1697073036,
+        "rank": 14,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 370424,
+        "num": 370424,
+        "word": "武大男生在图书馆实施性骚扰",
+        "onboard_time": 1697027494,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359168,
+        "num": 359168,
+        "word": "网曝出租车高速路甩客致乘客身亡",
+        "onboard_time": 1697076334,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348384,
+        "num": 348384,
+        "word": "张若昀真的把宁理绑去拍庆余年2了",
+        "onboard_time": 1697065705,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 328515,
+        "num": 328515,
+        "word": "丞磊上午被淘汰下午被选上宫尚角",
+        "onboard_time": 1697069675,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315935,
+        "num": 315935,
+        "word": "金靖快把黄晓明夸哭了",
+        "onboard_time": 1697073095,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1034887,
+        "num": 314732,
+        "word": "北极鲶鱼爷爷退休16年后被捞出",
+        "onboard_time": 1697067811,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312464,
+        "num": 312464,
+        "word": "100名工友为5个听障同事自学手语",
+        "onboard_time": 1697076031,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281716,
+        "num": 281716,
+        "word": "美国室友试穿中国明朝藩王吉服",
+        "onboard_time": 1697069075,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280003,
+        "num": 280003,
+        "word": "武大回应学生举报图书馆遭性骚扰",
+        "onboard_time": 1697042724,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274824,
+        "num": 274824,
+        "word": "陆虎第15次唱于正OST",
+        "onboard_time": 1697075914,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245278,
+        "num": 245278,
+        "word": "消防员从天而降飞扑救回轻生女",
+        "onboard_time": 1697076751,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224943,
+        "num": 224943,
+        "word": "罗晋请唐嫣念无双剧组喝奶茶",
+        "onboard_time": 1697069375,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222225,
+        "num": 222225,
+        "word": "张柏芝滑冰",
+        "onboard_time": 1697076452,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216590,
+        "num": 216590,
+        "word": "螃蟹把最好吃的部分进化掉了",
+        "onboard_time": 1697035001,
+        "rank": 28,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 212699,
+        "num": 212699,
+        "word": "长相思演唱会",
+        "onboard_time": 1697069915,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260032,
+        "num": 210733,
+        "word": "北极鲶鱼捕捞后也要有晾晒",
+        "onboard_time": 1697071477,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208676,
+        "num": 208676,
+        "word": "傅首尔太清醒了",
+        "onboard_time": 1697071537,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205513,
+        "num": 205513,
+        "word": "联合国11名人员在以军空袭加沙中死亡",
+        "onboard_time": 1697075132,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204054,
+        "num": 204054,
+        "word": "方头明有钱后",
+        "onboard_time": 1697072018,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 197466,
+        "num": 197466,
+        "word": "于正说连夜更换周也配音",
+        "onboard_time": 1697067268,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196765,
+        "num": 196765,
+        "word": "巴以冲突已致超过2300人死亡",
+        "onboard_time": 1697068773,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 194363,
+        "num": 194363,
+        "word": "一件事证明你消费降级了",
+        "onboard_time": 1697068293,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1230287,
+        "num": 193120,
+        "word": "淘宝回应李思思将直播带货",
+        "onboard_time": 1697069978,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191518,
+        "num": 191518,
+        "word": "陈飞宇魏大勋路演生图",
+        "onboard_time": 1697076574,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 188258,
+        "num": 188258,
+        "word": "五月天演唱会知足哥",
+        "onboard_time": 1697072917,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172219,
+        "num": 172219,
+        "word": "哈马斯否认其武装人员袭击儿童",
+        "onboard_time": 1697075373,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 163238,
+        "num": 163238,
+        "word": "SEVENTEEN新专预售量突破467万张",
+        "onboard_time": 1697074173,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 161877,
+        "num": 161877,
+        "word": "体重秤被室友压碎了",
+        "onboard_time": 1697067210,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158297,
+        "num": 158297,
+        "word": "朱一龙 卷不代表努力",
+        "onboard_time": 1697072975,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150808,
+        "num": 150808,
+        "word": "武汉大学",
+        "onboard_time": 1697027075,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150502,
+        "num": 150502,
+        "word": "关晓彤穿了多少件衣服",
+        "onboard_time": 1697077172,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147618,
+        "num": 147618,
+        "word": "三季度全国平均招聘月薪达10115元",
+        "onboard_time": 1697075734,
+        "rank": 46,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 145323,
+        "num": 145323,
+        "word": "哈马斯杀害以色列40名儿童是真是假",
+        "onboard_time": 1697066487,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139541,
+        "num": 139541,
+        "word": "原来这是左撇子被纠正的原因",
+        "onboard_time": 1697077114,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136143,
+        "num": 136143,
+        "word": "恋与制作人",
+        "onboard_time": 1697077291,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席一带一路国际合作高峰论坛#"
+    }
+  }
+}
