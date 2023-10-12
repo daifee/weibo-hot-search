@@ -1,0 +1,410 @@
+{
+  "runTime": 1697074223807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2064413,
+        "num": 2064413,
+        "word": "淘宝回应李思思将直播带货",
+        "onboard_time": 1697069978,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1703562,
+        "num": 1703562,
+        "word": "产妇拍下产床抓痕引20万妈妈共鸣",
+        "onboard_time": 1697071477,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28626,
+        "num": 1109556,
+        "word": "一带一路一往无前",
+        "onboard_time": 1697028578,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1022859,
+        "num": 1022859,
+        "word": "周杰伦演唱会前黄牛集体退票",
+        "onboard_time": 1697040451,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 967058,
+        "num": 967058,
+        "word": "过度疲劳的6种表现",
+        "onboard_time": 1697068111,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 671056,
+        "num": 671056,
+        "word": "余华 当当盯上了我的另一部小说",
+        "onboard_time": 1697071659,
+        "rank": 5,
+        "category": "读书作家,电影"
+      },
+      {
+        "raw_hot": 669597,
+        "num": 669597,
+        "word": "美国室友试穿中国明朝藩王吉服",
+        "onboard_time": 1697069075,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 615363,
+        "num": 615363,
+        "word": "2023年应届生平均招聘月薪10342元",
+        "onboard_time": 1697073456,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565878,
+        "num": 565878,
+        "word": "以色列",
+        "onboard_time": 1697072199,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 496123,
+        "num": 496123,
+        "word": "螃蟹把最好吃的部分进化掉了",
+        "onboard_time": 1697035001,
+        "rank": 9,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 846532,
+        "num": 493694,
+        "word": "长期运动对外貌改变有多大",
+        "onboard_time": 1697067029,
+        "rank": 10,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 538244,
+        "num": 490956,
+        "word": "巴以冲突已致超过2300人死亡",
+        "onboard_time": 1697068773,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 485366,
+        "num": 485366,
+        "word": "福宝妹妹们叫睿宝辉宝",
+        "onboard_time": 1697073036,
+        "rank": 12,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 2073992,
+        "num": 467972,
+        "word": "北极鲶鱼爷爷退休16年后被捞出",
+        "onboard_time": 1697067811,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433825,
+        "num": 433825,
+        "word": "张若昀真的把宁理绑去拍庆余年2了",
+        "onboard_time": 1697065705,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429475,
+        "num": 429475,
+        "word": "于正说连夜更换周也配音",
+        "onboard_time": 1697067268,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 426363,
+        "num": 426363,
+        "word": "武大男生在图书馆实施性骚扰",
+        "onboard_time": 1697027494,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411423,
+        "num": 411423,
+        "word": "罗晋请唐嫣念无双剧组喝奶茶",
+        "onboard_time": 1697069375,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 569309,
+        "num": 403496,
+        "word": "北极鲶鱼捕捞后也要有晾晒",
+        "onboard_time": 1697071477,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389984,
+        "num": 389984,
+        "word": "丞磊上午被淘汰下午被选上宫尚角",
+        "onboard_time": 1697069675,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477056,
+        "num": 372628,
+        "word": "北极鲶鱼",
+        "onboard_time": 1697070339,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351583,
+        "num": 351583,
+        "word": "一件事证明你消费降级了",
+        "onboard_time": 1697068293,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349931,
+        "num": 349931,
+        "word": "武大回应学生举报图书馆遭性骚扰",
+        "onboard_time": 1697042724,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348311,
+        "num": 348311,
+        "word": "被直播间美颜迫害的吴京",
+        "onboard_time": 1697069134,
+        "rank": 23,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 302393,
+        "num": 302393,
+        "word": "金靖快把黄晓明夸哭了",
+        "onboard_time": 1697073095,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301816,
+        "num": 301816,
+        "word": "长相思演唱会",
+        "onboard_time": 1697069915,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293233,
+        "num": 293233,
+        "word": "朱一龙 卷不代表努力",
+        "onboard_time": 1697072975,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290378,
+        "num": 290378,
+        "word": "傅首尔太清醒了",
+        "onboard_time": 1697071537,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265711,
+        "num": 265711,
+        "word": "体重秤被室友压碎了",
+        "onboard_time": 1697067210,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256194,
+        "num": 256194,
+        "word": "哈马斯杀害以色列40名儿童是真是假",
+        "onboard_time": 1697066487,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 252245,
+        "num": 252245,
+        "word": "方头明有钱后",
+        "onboard_time": 1697072018,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 251427,
+        "num": 251427,
+        "word": "山东男孩于文亮10天涨粉超百万",
+        "onboard_time": 1697068595,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249252,
+        "num": 249252,
+        "word": "邱少云被火烧过的棉衣残片看得泪目",
+        "onboard_time": 1697068293,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240420,
+        "num": 240420,
+        "word": "五月天演唱会知足哥",
+        "onboard_time": 1697072917,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 220120,
+        "num": 220120,
+        "word": "摊主塞大枣被捡枣小朋友婉拒",
+        "onboard_time": 1697073216,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206737,
+        "num": 206737,
+        "word": "周也醉酒戏",
+        "onboard_time": 1697073278,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206346,
+        "num": 206346,
+        "word": "经常用牙线会让牙缝变宽吗",
+        "onboard_time": 1697067029,
+        "rank": 36,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 200054,
+        "num": 200054,
+        "word": "补气血真的很重要",
+        "onboard_time": 1697034580,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 196592,
+        "num": 196592,
+        "word": "现实版扫地僧到底有多牛",
+        "onboard_time": 1697073874,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188310,
+        "num": 188310,
+        "word": "男子举报一烟草厂长出轨并生女",
+        "onboard_time": 1697039253,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179695,
+        "num": 179695,
+        "word": "颖儿哈萨克公主",
+        "onboard_time": 1697052373,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176952,
+        "num": 176952,
+        "word": "SEVENTEEN新专预售量突破467万张",
+        "onboard_time": 1697074173,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173178,
+        "num": 173178,
+        "word": "25岁残疾小伙多次蜕变成为技校老师",
+        "onboard_time": 1697072499,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169012,
+        "num": 169012,
+        "word": "救市后为何还是没人买房",
+        "onboard_time": 1697065525,
+        "rank": 43,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 168899,
+        "num": 168899,
+        "word": "关晓彤王牌对王牌哭了",
+        "onboard_time": 1697068354,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168437,
+        "num": 168437,
+        "word": "武汉大学",
+        "onboard_time": 1697027075,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165359,
+        "num": 165359,
+        "word": "女子被7年男友气哭想退婚爸爸力挺",
+        "onboard_time": 1697065462,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162984,
+        "num": 162984,
+        "word": "野生大熊猫破坏相机怼脸画面",
+        "onboard_time": 1697065462,
+        "rank": 47,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 161932,
+        "num": 161932,
+        "word": "在机场勇敢的退了一块钱",
+        "onboard_time": 1697069015,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150512,
+        "num": 150512,
+        "word": "IVE MINE",
+        "onboard_time": 1697070216,
+        "rank": 49,
+        "category": "音乐"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江西考察调研#"
+    }
+  }
+}

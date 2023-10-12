@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697072982956,
+  "endTime": 1697074223807,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -632,6 +632,14 @@
       "word": "失踪女童父亲称返回时被石头割伤脚趾",
       "onboard_time": 1696780111,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1703562,
+      "num": 1703562,
+      "word": "产妇拍下产床抓痕引20万妈妈共鸣",
+      "onboard_time": 1697071477,
+      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -1443,14 +1451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 895664,
-      "num": 895664,
-      "word": "产妇拍下产床抓痕引20万妈妈共鸣",
-      "onboard_time": 1697071477,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 895071,
       "num": 895071,
       "word": "创5路透",
@@ -1916,7 +1916,7 @@
     },
     {
       "raw_hot": 716646,
-      "num": 571766,
+      "num": 669597,
       "word": "美国室友试穿中国明朝藩王吉服",
       "onboard_time": 1697069075,
       "rank": 11,
@@ -2105,6 +2105,14 @@
       "onboard_time": 1696737520,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 671056,
+      "num": 671056,
+      "word": "余华 当当盯上了我的另一部小说",
+      "onboard_time": 1697071659,
+      "rank": 12,
+      "category": "读书作家,电影"
     },
     {
       "raw_hot": 670154,
@@ -2409,6 +2417,14 @@
       "onboard_time": 1696904790,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 615363,
+      "num": 615363,
+      "word": "2023年应届生平均招聘月薪10342元",
+      "onboard_time": 1697073456,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 615019,
@@ -2737,14 +2753,6 @@
       "onboard_time": 1696857033,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 557472,
-      "num": 557472,
-      "word": "余华 当当盯上了我的另一部小说",
-      "onboard_time": 1697071659,
-      "rank": 12,
-      "category": "读书作家,电影"
     },
     {
       "raw_hot": 555193,
@@ -3297,6 +3305,14 @@
       "onboard_time": 1696843415,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 485366,
+      "num": 485366,
+      "word": "福宝妹妹们叫睿宝辉宝",
+      "onboard_time": 1697073036,
+      "rank": 12,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 483413,
@@ -3860,7 +3876,7 @@
     },
     {
       "raw_hot": 421628,
-      "num": 342906,
+      "num": 351583,
       "word": "一件事证明你消费降级了",
       "onboard_time": 1697068293,
       "rank": 21,
@@ -5531,6 +5547,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 302393,
+      "num": 302393,
+      "word": "金靖快把黄晓明夸哭了",
+      "onboard_time": 1697073095,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 301985,
       "num": 301985,
       "word": "IVE预告",
@@ -5721,6 +5745,14 @@
       "onboard_time": 1696947221,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 293233,
+      "num": 293233,
+      "word": "朱一龙 卷不代表努力",
+      "onboard_time": 1697072975,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 291886,
@@ -6803,6 +6835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252245,
+      "num": 252245,
+      "word": "方头明有钱后",
+      "onboard_time": 1697072018,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 251919,
       "num": 251919,
       "word": "国际女童日",
@@ -7147,6 +7187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240420,
+      "num": 240420,
+      "word": "五月天演唱会知足哥",
+      "onboard_time": 1697072917,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 240283,
       "num": 240283,
       "word": "湖人vs勇士",
@@ -7345,14 +7393,6 @@
       "onboard_time": 1696840117,
       "rank": 37,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235196,
-      "num": 235196,
-      "word": "方头明有钱后",
-      "onboard_time": 1697072018,
-      "rank": 32,
-      "category": "网红"
     },
     {
       "raw_hot": 235161,
@@ -7793,6 +7833,14 @@
       "onboard_time": 1696862800,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 220120,
+      "num": 220120,
+      "word": "摊主塞大枣被捡枣小朋友婉拒",
+      "onboard_time": 1697073216,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219742,
@@ -8281,6 +8329,14 @@
       "onboard_time": 1697005594,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206737,
+      "num": 206737,
+      "word": "周也醉酒戏",
+      "onboard_time": 1697073278,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 206729,
@@ -8833,6 +8889,14 @@
       "onboard_time": 1697012376,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196592,
+      "num": 196592,
+      "word": "现实版扫地僧到底有多牛",
+      "onboard_time": 1697073874,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 196418,
@@ -9705,6 +9769,14 @@
       "onboard_time": 1697014055,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176952,
+      "num": 176952,
+      "word": "SEVENTEEN新专预售量突破467万张",
+      "onboard_time": 1697074173,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 176873,
@@ -10889,14 +10961,6 @@
       "onboard_time": 1696911227,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138751,
-      "num": 138751,
-      "word": "五月天演唱会知足哥",
-      "onboard_time": 1697072917,
-      "rank": 48,
-      "category": "演出"
     },
     {
       "raw_hot": 138432,
