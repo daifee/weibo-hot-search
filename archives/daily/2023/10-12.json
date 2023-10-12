@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697121284197,
+  "endTime": 1697123898742,
   "band_list": [
     {
       "raw_hot": 3783613,
@@ -193,6 +193,14 @@
       "onboard_time": 1697101175,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1574693,
+      "num": 1574693,
+      "word": "6男生自助火锅店喝111瓶酸梅汤",
+      "onboard_time": 1697118162,
+      "rank": 5,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 1555511,
@@ -411,14 +419,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 884693,
-      "num": 884693,
-      "word": "6男生自助火锅店喝111瓶酸梅汤",
-      "onboard_time": 1697118162,
-      "rank": 5,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 878125,
       "num": 549126,
       "word": "月入5万舍不得打车",
@@ -457,6 +457,22 @@
       "onboard_time": 1697078554,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 768074,
+      "num": 768074,
+      "word": "张凌赫回应炎症女孩",
+      "onboard_time": 1697119724,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 767496,
+      "num": 767496,
+      "word": "调整中国人民银行职责机构编制",
+      "onboard_time": 1697122240,
+      "rank": 4,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 755371,
@@ -563,6 +579,14 @@
       "category": "时尚,财经"
     },
     {
+      "raw_hot": 695935,
+      "num": 454451,
+      "word": "被哈马斯绑架的中以混血女孩今天生日",
+      "onboard_time": 1697122365,
+      "rank": 10,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 693826,
       "num": 693826,
       "word": "蒲熠星快被考试逼疯了",
@@ -625,14 +649,6 @@
       "onboard_time": 1697027075,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 636566,
-      "num": 636566,
-      "word": "张凌赫回应炎症女孩",
-      "onboard_time": 1697119724,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 635115,
@@ -875,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 481154,
+      "num": 481154,
+      "word": "黄绮珊别唱了我没眼泪了",
+      "onboard_time": 1697119665,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468679,
       "num": 468679,
       "word": "周也公主小妹即视感",
@@ -897,6 +921,14 @@
       "onboard_time": 1697113956,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460262,
+      "num": 460262,
+      "word": "中国手机的美颜功能到了非洲改了",
+      "onboard_time": 1697119427,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 459993,
@@ -937,6 +969,14 @@
       "onboard_time": 1697091871,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 435139,
+      "num": 435139,
+      "word": "多名公费师范毕业生未履约被通报",
+      "onboard_time": 1697122723,
+      "rank": 14,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 433256,
@@ -1059,28 +1099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 400852,
-      "num": 400852,
-      "word": "黄绮珊别唱了我没眼泪了",
-      "onboard_time": 1697119665,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 398227,
       "num": 398227,
       "word": "白鹿范丞丞车内手势舞",
       "onboard_time": 1697111735,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 397234,
-      "num": 220975,
-      "word": "中国手机的美颜功能到了非洲改了",
-      "onboard_time": 1697119427,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 396016,
@@ -1105,6 +1129,22 @@
       "onboard_time": 1697081857,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386867,
+      "num": 386867,
+      "word": "侯雯元 中国宝宝自己的ken",
+      "onboard_time": 1697121462,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383819,
+      "num": 310074,
+      "word": "徐梦洁从头到脚都是毛线",
+      "onboard_time": 1697122365,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 382677,
@@ -1371,6 +1411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310260,
+      "num": 310260,
+      "word": "别再把假肺炎当真肺炎治了",
+      "onboard_time": 1697122424,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 308015,
       "num": 308015,
       "word": "贾玲缺席王牌8的原因",
@@ -1467,6 +1515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291318,
+      "num": 291318,
+      "word": "张艺兴吃了粉丝推荐的菜",
+      "onboard_time": 1697122837,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 288640,
       "num": 288640,
       "word": "邱少云被火烧过的棉衣残片看得泪目",
@@ -1548,7 +1604,7 @@
     },
     {
       "raw_hot": 270909,
-      "num": 262013,
+      "num": 262791,
       "word": "巴以大规模冲突进入第五天",
       "onboard_time": 1697110773,
       "rank": 26,
@@ -1641,6 +1697,14 @@
       "onboard_time": 1697072018,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 251856,
+      "num": 251856,
+      "word": "city walk home sleep",
+      "onboard_time": 1697122603,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 248870,
@@ -1841,6 +1905,14 @@
       "onboard_time": 1697090496,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229775,
+      "num": 229775,
+      "word": "问心",
+      "onboard_time": 1697123259,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 229431,
@@ -2145,6 +2217,14 @@
       "onboard_time": 1697094756,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204215,
+      "num": 204215,
+      "word": "任子威回应落选世界杯阵容",
+      "onboard_time": 1697123139,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 203982,
@@ -2555,6 +2635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174037,
+      "num": 174037,
+      "word": "邓见超和粉丝要王源表情包",
+      "onboard_time": 1697122780,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171969,
       "num": 171969,
       "word": "南风知我意",
@@ -2617,6 +2705,14 @@
       "onboard_time": 1697026415,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 165472,
+      "num": 165472,
+      "word": "陈家平前女友出现是巧合还是有意",
+      "onboard_time": 1697123800,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 164898,
@@ -2857,6 +2953,14 @@
       "onboard_time": 1697056994,
       "rank": 31,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 120415,
+      "num": 120415,
+      "word": "辅警7秒跳7米高桥救落水女子",
+      "onboard_time": 1697121281,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 117788,
@@ -3141,6 +3245,9 @@
     },
     {
       "word": "#习近平在江西省考察调研#"
+    },
+    {
+      "word": "#跨越不同地域共唱繁荣之路#"
     }
   ]
 }
