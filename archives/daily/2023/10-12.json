@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697084437885,
+  "endTime": 1697085291595,
   "band_list": [
     {
       "raw_hot": 3007519,
@@ -35,6 +35,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2142170,
+      "num": 2142170,
+      "word": "李晓鹏被逮捕",
+      "onboard_time": 1697078253,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2117863,
       "num": 2117863,
       "word": "产妇拍下产床抓痕引20万妈妈共鸣",
@@ -43,12 +51,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2091297,
-      "num": 2091297,
-      "word": "李晓鹏被逮捕",
-      "onboard_time": 1697078253,
+      "raw_hot": 2061780,
+      "num": 2061780,
+      "word": "完颜慧德",
+      "onboard_time": 1697081857,
       "rank": 1,
-      "category": "社会新闻"
+      "category": "网红"
     },
     {
       "raw_hot": 1969878,
@@ -65,14 +73,6 @@
       "onboard_time": 1697027494,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1567488,
-      "num": 1567488,
-      "word": "完颜慧德",
-      "onboard_time": 1697081857,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1554809,
@@ -131,20 +131,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1042784,
+      "num": 239717,
+      "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
+      "onboard_time": 1697081557,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 979673,
       "num": 979673,
       "word": "武大回应学生举报图书馆遭性骚扰",
       "onboard_time": 1697042724,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 965153,
-      "num": 229039,
-      "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
-      "onboard_time": 1697081557,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 962842,
@@ -235,20 +235,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 675390,
+      "num": 675390,
+      "word": "吴京 女儿奴属性大爆发",
+      "onboard_time": 1697082038,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 671056,
       "num": 671056,
       "word": "余华 当当盯上了我的另一部小说",
       "onboard_time": 1697071659,
       "rank": 12,
       "category": "读书作家,电影"
-    },
-    {
-      "raw_hot": 654213,
-      "num": 228359,
-      "word": "吴京 女儿奴属性大爆发",
-      "onboard_time": 1697082038,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 649516,
@@ -379,6 +379,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 459582,
+      "num": 235446,
+      "word": "雪中悍刀行女主",
+      "onboard_time": 1697084978,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 429992,
       "num": 429992,
       "word": "白鹿丞磊 朝雪录",
@@ -435,8 +443,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 385798,
-      "num": 385798,
+      "raw_hot": 390863,
+      "num": 390863,
       "word": "爱宝双胞胎闺女一个e型一个i型",
       "onboard_time": 1697081857,
       "rank": 17,
@@ -459,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367675,
+      "num": 367675,
+      "word": "南波万的聚会",
+      "onboard_time": 1697081677,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367275,
       "num": 301808,
       "word": "王源这两张图感觉不配字都不完整",
@@ -475,20 +491,36 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 366132,
-      "num": 316608,
-      "word": "南波万的聚会",
-      "onboard_time": 1697081677,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 363244,
       "num": 363244,
       "word": "奶茶最不能容忍的小料",
       "onboard_time": 1697079698,
       "rank": 23,
       "category": "美食"
+    },
+    {
+      "raw_hot": 360145,
+      "num": 231387,
+      "word": "韩寒网红餐厅旗下大量门店已倒闭",
+      "onboard_time": 1697084435,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 349852,
+      "num": 349852,
+      "word": "烬相思开播",
+      "onboard_time": 1697083833,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 336980,
+      "num": 228164,
+      "word": "多方回应女子高速下车后溺亡",
+      "onboard_time": 1697083055,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336627,
@@ -545,14 +577,6 @@
       "onboard_time": 1697067029,
       "rank": 31,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 313191,
-      "num": 228164,
-      "word": "多方回应女子高速下车后溺亡",
-      "onboard_time": 1697083055,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312464,
@@ -691,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259145,
-      "num": 259145,
-      "word": "烬相思开播",
-      "onboard_time": 1697083833,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "方头明有钱后",
@@ -729,6 +745,14 @@
       "onboard_time": 1697035897,
       "rank": 17,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 243345,
+      "num": 243345,
+      "word": "赵今麦出演长公主李蓉",
+      "onboard_time": 1697082217,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 240469,
@@ -803,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 220686,
+      "num": 220686,
+      "word": "种地吧",
+      "onboard_time": 1697084738,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 220120,
       "num": 220120,
       "word": "摊主塞大枣被捡枣小朋友婉拒",
@@ -827,6 +859,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216936,
+      "num": 216936,
+      "word": "又有杨紫红毯看啦",
+      "onboard_time": 1697083178,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216785,
       "num": 216785,
       "word": "田耕纪",
@@ -843,14 +883,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 213986,
-      "num": 213986,
-      "word": "赵今麦出演长公主李蓉",
-      "onboard_time": 1697082217,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 213091,
       "num": 206011,
       "word": "联合国11名人员在以军空袭加沙中死亡",
@@ -865,6 +897,14 @@
       "onboard_time": 1697070157,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208452,
+      "num": 208452,
+      "word": "上百一斤的牛肉做烤串",
+      "onboard_time": 1697084978,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 208351,
@@ -905,14 +945,6 @@
       "onboard_time": 1697072499,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203379,
-      "num": 203379,
-      "word": "又有杨紫红毯看啦",
-      "onboard_time": 1697083178,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 201131,
@@ -1011,6 +1043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 190112,
+      "num": 190112,
+      "word": "高考钉子户梁实第28次备考",
+      "onboard_time": 1697085221,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 189861,
       "num": 189861,
       "word": "度华年",
@@ -1035,6 +1075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 186973,
+      "num": 186973,
+      "word": "苏醒密室苏坦己",
+      "onboard_time": 1697084859,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 185912,
       "num": 183796,
       "word": "关晓彤撑伞有那味儿了",
@@ -1049,6 +1097,14 @@
       "onboard_time": 1697032719,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 181293,
+      "num": 181293,
+      "word": "2023挑战者杯定妆照",
+      "onboard_time": 1697085159,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 180071,
@@ -1068,7 +1124,7 @@
     },
     {
       "raw_hot": 177679,
-      "num": 1697840,
+      "num": 1713723,
       "word": "黄河九碗面哪碗让你念念不忘",
       "onboard_time": 1697079635,
       "rank": 2,

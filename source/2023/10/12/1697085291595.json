@@ -1,0 +1,410 @@
+{
+  "runTime": 1697085291595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2142170,
+        "num": 2142170,
+        "word": "李晓鹏被逮捕",
+        "onboard_time": 1697078253,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2061780,
+        "num": 2061780,
+        "word": "完颜慧德",
+        "onboard_time": 1697081857,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166112,
+        "num": 1713723,
+        "word": "黄河九碗面哪碗让你念念不忘",
+        "onboard_time": 1697079635,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1504303,
+        "num": 1504303,
+        "word": "2023年应届生平均招聘月薪10342元",
+        "onboard_time": 1697073456,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032189,
+        "num": 1032189,
+        "word": "当潦草小狗见到潦草小马",
+        "onboard_time": 1697079813,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 904219,
+        "num": 904219,
+        "word": "时代少年团澳门站官宣",
+        "onboard_time": 1697082877,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 852299,
+        "num": 852299,
+        "word": "产妇拍下产床抓痕引20万妈妈共鸣",
+        "onboard_time": 1697071477,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 826163,
+        "num": 826163,
+        "word": "为什么耳朵里面会长这种痘",
+        "onboard_time": 1697077052,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 800998,
+        "num": 800998,
+        "word": "刘暖曦视频号直播4次后被投诉永久禁播",
+        "onboard_time": 1697076634,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 690807,
+        "num": 690807,
+        "word": "招聘月薪和实际薪资是两回事",
+        "onboard_time": 1697078554,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 675390,
+        "num": 675390,
+        "word": "吴京 女儿奴属性大爆发",
+        "onboard_time": 1697082038,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 508695,
+        "num": 508695,
+        "word": "蒲熠星快被考试逼疯了",
+        "onboard_time": 1697079698,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470310,
+        "num": 470310,
+        "word": "台湾人的输入法",
+        "onboard_time": 1697078913,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 462895,
+        "num": 462895,
+        "word": "脑白金 褪黑素",
+        "onboard_time": 1697079757,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 461174,
+        "num": 461174,
+        "word": "田曦薇新剧是个穿越女",
+        "onboard_time": 1697081196,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 456650,
+        "num": 456650,
+        "word": "余华 当当盯上了我的另一部小说",
+        "onboard_time": 1697071659,
+        "rank": 15,
+        "category": "作品衍生,电影"
+      },
+      {
+        "raw_hot": 417973,
+        "num": 417973,
+        "word": "周杰伦演唱会前黄牛集体退票",
+        "onboard_time": 1697040451,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 405533,
+        "num": 405533,
+        "word": "长期运动对外貌改变有多大",
+        "onboard_time": 1697067029,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 402675,
+        "num": 402675,
+        "word": "高铁能不能出个大学生车厢",
+        "onboard_time": 1697078554,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390863,
+        "num": 390863,
+        "word": "爱宝双胞胎闺女一个e型一个i型",
+        "onboard_time": 1697081857,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443118,
+        "num": 383569,
+        "word": "以色列",
+        "onboard_time": 1697072199,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 367675,
+        "num": 367675,
+        "word": "南波万的聚会",
+        "onboard_time": 1697081677,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349852,
+        "num": 349852,
+        "word": "烬相思开播",
+        "onboard_time": 1697083833,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308675,
+        "num": 308675,
+        "word": "仙台有树开机官宣",
+        "onboard_time": 1697075854,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306755,
+        "num": 306755,
+        "word": "武大回应学生举报图书馆遭性骚扰",
+        "onboard_time": 1697042724,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296673,
+        "num": 296673,
+        "word": "为什么年轻人开始讨厌信用卡了",
+        "onboard_time": 1697076334,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289516,
+        "num": 289516,
+        "word": "奶茶最不能容忍的小料",
+        "onboard_time": 1697079698,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 287658,
+        "num": 287658,
+        "word": "巴以冲突已致超过2300人死亡",
+        "onboard_time": 1697068773,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 269058,
+        "num": 269058,
+        "word": "王者荣耀2023周年庆",
+        "onboard_time": 1697082457,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 243345,
+        "num": 243345,
+        "word": "赵今麦出演长公主李蓉",
+        "onboard_time": 1697082217,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1042784,
+        "num": 239717,
+        "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
+        "onboard_time": 1697081557,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 459582,
+        "num": 235446,
+        "word": "雪中悍刀行女主",
+        "onboard_time": 1697084978,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360145,
+        "num": 231387,
+        "word": "韩寒网红餐厅旗下大量门店已倒闭",
+        "onboard_time": 1697084435,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485624,
+        "num": 226894,
+        "word": "外国雇佣兵离开乌克兰赴以色列作战",
+        "onboard_time": 1697082156,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 336980,
+        "num": 224628,
+        "word": "多方回应女子高速下车后溺亡",
+        "onboard_time": 1697083055,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220686,
+        "num": 220686,
+        "word": "种地吧",
+        "onboard_time": 1697084738,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216936,
+        "num": 216936,
+        "word": "又有杨紫红毯看啦",
+        "onboard_time": 1697083178,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 215147,
+        "num": 215147,
+        "word": "长相思演唱会",
+        "onboard_time": 1697069915,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208452,
+        "num": 208452,
+        "word": "上百一斤的牛肉做烤串",
+        "onboard_time": 1697084978,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204311,
+        "num": 204311,
+        "word": "女子错用导航上高架交警一路护送下桥",
+        "onboard_time": 1697083598,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200396,
+        "num": 200396,
+        "word": "两部古偶在今天开机",
+        "onboard_time": 1697082637,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192835,
+        "num": 192835,
+        "word": "朱一龙一生中最漫长的1分钟",
+        "onboard_time": 1697081076,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 190112,
+        "num": 190112,
+        "word": "高考钉子户梁实第28次备考",
+        "onboard_time": 1697085221,
+        "rank": 42,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 187309,
+        "num": 187309,
+        "word": "过度疲劳的6种表现",
+        "onboard_time": 1697068111,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 186973,
+        "num": 186973,
+        "word": "苏醒密室苏坦己",
+        "onboard_time": 1697084859,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181293,
+        "num": 181293,
+        "word": "2023挑战者杯定妆照",
+        "onboard_time": 1697085159,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180246,
+        "num": 180246,
+        "word": "武大男生在图书馆实施性骚扰",
+        "onboard_time": 1697027494,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166307,
+        "num": 166307,
+        "word": "的哥回应网传高速甩客致乘客身亡",
+        "onboard_time": 1697076334,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165854,
+        "num": 165854,
+        "word": "仙台有树",
+        "onboard_time": 1697080116,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163868,
+        "num": 163868,
+        "word": "男子酒后开车被前女友举报2次",
+        "onboard_time": 1697080836,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江西考察调研#"
+    }
+  }
+}

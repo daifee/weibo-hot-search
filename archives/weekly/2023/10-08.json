@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697084437885,
+  "endTime": 1697085291595,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2142170,
+      "num": 2142170,
+      "word": "李晓鹏被逮捕",
+      "onboard_time": 1697078253,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2131648,
       "num": 1005661,
       "word": "以色列25岁女学生音乐节上被哈马斯掳走",
@@ -387,14 +395,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2091297,
-      "num": 2091297,
-      "word": "李晓鹏被逮捕",
-      "onboard_time": 1697078253,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 2082572,
       "num": 1856386,
       "word": "北京下雪",
@@ -425,6 +425,14 @@
       "onboard_time": 1696985378,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2061780,
+      "num": 2061780,
+      "word": "完颜慧德",
+      "onboard_time": 1697081857,
+      "rank": 1,
+      "category": "网红"
     },
     {
       "raw_hot": 2016058,
@@ -761,14 +769,6 @@
       "onboard_time": 1696980449,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1567488,
-      "num": 1567488,
-      "word": "完颜慧德",
-      "onboard_time": 1697081857,
-      "rank": 1,
-      "category": "网红"
     },
     {
       "raw_hot": 1554809,
@@ -1259,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1042784,
+      "num": 239717,
+      "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
+      "onboard_time": 1697081557,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1035722,
       "num": 1035722,
       "word": "李子柒或将复出",
@@ -1401,14 +1409,6 @@
       "onboard_time": 1697014834,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 965153,
-      "num": 229039,
-      "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
-      "onboard_time": 1697081557,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 964914,
@@ -2187,6 +2187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 675390,
+      "num": 675390,
+      "word": "吴京 女儿奴属性大爆发",
+      "onboard_time": 1697082038,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 674863,
       "num": 504398,
       "word": "A股",
@@ -2280,14 +2288,6 @@
       "word": "张艺兴也掏出了压箱底的衣服",
       "onboard_time": 1696926037,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 654213,
-      "num": 228359,
-      "word": "吴京 女儿奴属性大爆发",
-      "onboard_time": 1697082038,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -3731,6 +3731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459582,
+      "num": 235446,
+      "word": "雪中悍刀行女主",
+      "onboard_time": 1697084978,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 459254,
       "num": 459254,
       "word": "林俊杰没有一首一千年以后是一样的",
@@ -4339,6 +4347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 390863,
+      "num": 390863,
+      "word": "爱宝双胞胎闺女一个e型一个i型",
+      "onboard_time": 1697081857,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390813,
       "num": 366888,
       "word": "清华本硕博放弃北京中产去往非洲",
@@ -4385,14 +4401,6 @@
       "onboard_time": 1696737697,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 385798,
-      "num": 385798,
-      "word": "爱宝双胞胎闺女一个e型一个i型",
-      "onboard_time": 1697081857,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 385198,
@@ -4667,6 +4675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 367675,
+      "num": 367675,
+      "word": "南波万的聚会",
+      "onboard_time": 1697081677,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 367275,
       "num": 301808,
       "word": "王源这两张图感觉不配字都不完整",
@@ -4697,14 +4713,6 @@
       "onboard_time": 1697066487,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 366132,
-      "num": 316608,
-      "word": "南波万的聚会",
-      "onboard_time": 1697081677,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 365848,
@@ -4825,6 +4833,14 @@
       "onboard_time": 1696833755,
       "rank": 13,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 360145,
+      "num": 231387,
+      "word": "韩寒网红餐厅旗下大量门店已倒闭",
+      "onboard_time": 1697084435,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359600,
@@ -5011,6 +5027,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 349852,
+      "num": 349852,
+      "word": "烬相思开播",
+      "onboard_time": 1697083833,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 349364,
       "num": 349364,
       "word": "小米高级副总裁张峰将离职",
@@ -5177,6 +5201,14 @@
       "onboard_time": 1696750478,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 336980,
+      "num": 228164,
+      "word": "多方回应女子高速下车后溺亡",
+      "onboard_time": 1697083055,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336739,
@@ -5569,14 +5601,6 @@
       "onboard_time": 1697067029,
       "rank": 31,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 313191,
-      "num": 228164,
-      "word": "多方回应女子高速下车后溺亡",
-      "onboard_time": 1697083055,
-      "rank": 32,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 312587,
@@ -6947,14 +6971,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259145,
-      "num": 259145,
-      "word": "烬相思开播",
-      "onboard_time": 1697083833,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 259122,
       "num": 199900,
       "word": "莲花楼豆瓣超50万人评分",
@@ -7401,6 +7417,14 @@
       "onboard_time": 1696990298,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243345,
+      "num": 243345,
+      "word": "赵今麦出演长公主李蓉",
+      "onboard_time": 1697082217,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 243235,
@@ -8259,6 +8283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216936,
+      "num": 216936,
+      "word": "又有杨紫红毯看啦",
+      "onboard_time": 1697083178,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 216785,
       "num": 216785,
       "word": "田耕纪",
@@ -8353,14 +8385,6 @@
       "onboard_time": 1696864959,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 213986,
-      "num": 213986,
-      "word": "赵今麦出演长公主李蓉",
-      "onboard_time": 1697082217,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 213885,
@@ -8601,6 +8625,14 @@
       "onboard_time": 1696723357,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208452,
+      "num": 208452,
+      "word": "上百一斤的牛肉做烤串",
+      "onboard_time": 1697084978,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 208351,
@@ -8913,14 +8945,6 @@
       "onboard_time": 1696741837,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203379,
-      "num": 203379,
-      "word": "又有杨紫红毯看啦",
-      "onboard_time": 1697083178,
-      "rank": 38,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 203197,
@@ -9603,6 +9627,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190112,
+      "num": 190112,
+      "word": "高考钉子户梁实第28次备考",
+      "onboard_time": 1697085221,
+      "rank": 42,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 190053,
       "num": 190053,
       "word": "田嘉瑞辅导林子烨反被拿捏",
@@ -9785,6 +9817,14 @@
       "onboard_time": 1696922015,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186973,
+      "num": 186973,
+      "word": "苏醒密室苏坦己",
+      "onboard_time": 1697084859,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 186934,
@@ -10059,6 +10099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181293,
+      "num": 181293,
+      "word": "2023挑战者杯定妆照",
+      "onboard_time": 1697085159,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181018,
       "num": 181018,
       "word": "库克谈为何每年推出新iPhone",
@@ -10212,7 +10260,7 @@
     },
     {
       "raw_hot": 177679,
-      "num": 1697840,
+      "num": 1713723,
       "word": "黄河九碗面哪碗让你念念不忘",
       "onboard_time": 1697079635,
       "rank": 2,
