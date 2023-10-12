@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697091783640,
+  "endTime": 1697092556901,
   "band_list": [
     {
       "raw_hot": 3007519,
@@ -107,20 +107,20 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1425566,
+      "num": 1425566,
+      "word": "高铁上拒绝了宝爹妈的换座后",
+      "onboard_time": 1697089414,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1401718,
       "num": 1401718,
       "word": "雪中悍刀行女主",
       "onboard_time": 1697084978,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1328897,
-      "num": 1328897,
-      "word": "高铁上拒绝了宝爹妈的换座后",
-      "onboard_time": 1697089414,
-      "rank": 4,
-      "category": "情感"
     },
     {
       "raw_hot": 1314390,
@@ -195,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 968649,
+      "num": 968649,
+      "word": "杨立新杨玏父子到底谁在撒谎",
+      "onboard_time": 1697087198,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 962842,
       "num": 962842,
       "word": "时代少年团澳门站官宣",
       "onboard_time": 1697082877,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 913983,
-      "num": 913983,
-      "word": "杨立新杨玏父子到底谁在撒谎",
-      "onboard_time": 1697087198,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 886398,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 545480,
+      "num": 483780,
+      "word": "广州警方通报乘客裙子现不明液体",
+      "onboard_time": 1697090615,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 540168,
       "num": 540168,
       "word": "网曝出租车高速路甩客致乘客身亡",
@@ -467,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456186,
+      "num": 456186,
+      "word": "邓为一下子就掀开了",
+      "onboard_time": 1697091274,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 433256,
       "num": 433256,
       "word": "中石油直播",
@@ -481,6 +497,14 @@
       "onboard_time": 1697036617,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 427044,
+      "num": 427044,
+      "word": "奔跑吧全员开工打卡",
+      "onboard_time": 1697089355,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 421628,
@@ -515,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 413930,
-      "num": 413930,
-      "word": "奔跑吧全员开工打卡",
-      "onboard_time": 1697089355,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 405490,
       "num": 405490,
       "word": "仙台有树",
@@ -552,14 +568,6 @@
       "word": "爱宝双胞胎闺女一个e型一个i型",
       "onboard_time": 1697081857,
       "rank": 17,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 383590,
-      "num": 201943,
-      "word": "广州警方通报乘客裙子现不明液体",
-      "onboard_time": 1697090615,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -593,6 +601,22 @@
       "onboard_time": 1697089473,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 371390,
+      "num": 371390,
+      "word": "古茗天官赐福",
+      "onboard_time": 1697090014,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 368788,
+      "num": 368788,
+      "word": "女孩偷偷充值游戏6000元被妈妈带去自首",
+      "onboard_time": 1697091214,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 367675,
@@ -657,6 +681,14 @@
       "onboard_time": 1697067210,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 332867,
+      "num": 332867,
+      "word": "李健演唱会",
+      "onboard_time": 1697091871,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 332826,
@@ -747,14 +779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 303502,
-      "num": 286701,
-      "word": "邓为一下子就掀开了",
-      "onboard_time": 1697091274,
-      "rank": 21,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 300035,
       "num": 300035,
       "word": "山东男孩于文亮10天涨粉超百万",
@@ -769,14 +793,6 @@
       "onboard_time": 1697087556,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 299142,
-      "num": 299142,
-      "word": "古茗天官赐福",
-      "onboard_time": 1697090014,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 298705,
@@ -819,6 +835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282968,
+      "num": 261863,
+      "word": "阿信听到粉丝买黄牛的反应",
+      "onboard_time": 1697091871,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 278866,
       "num": 278866,
       "word": "关晓彤王牌对王牌哭了",
@@ -833,14 +857,6 @@
       "onboard_time": 1697075914,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275997,
-      "num": 275997,
-      "word": "女孩偷偷充值游戏6000元被妈妈带去自首",
-      "onboard_time": 1697091214,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 274486,
@@ -987,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 236828,
+      "num": 236828,
+      "word": "16岁男生捡废品创业被赞很帅",
+      "onboard_time": 1697091632,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 231660,
       "num": 231660,
       "word": "2024格莱美报名名单",
@@ -1064,6 +1088,14 @@
       "word": "两部古偶在今天开机",
       "onboard_time": 1697082637,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 221943,
+      "num": 221943,
+      "word": "曾舜晞种田文男主抬上来了",
+      "onboard_time": 1697091274,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -1147,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 208442,
+      "num": 208442,
+      "word": "张云雷天津",
+      "onboard_time": 1697091693,
+      "rank": 44,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208351,
       "num": 208351,
       "word": "原来这是左撇子被纠正的原因",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1697083419,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 206890,
+      "num": 206890,
+      "word": "于适 脸帅就可以了",
+      "onboard_time": 1697092292,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 206737,
@@ -1217,14 +1265,6 @@
       "onboard_time": 1697069735,
       "rank": 38,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 198565,
-      "num": 198565,
-      "word": "曾舜晞种田文男主抬上来了",
-      "onboard_time": 1697091274,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 198324,
@@ -1387,6 +1427,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 179272,
+      "num": 179272,
+      "word": "湖人",
+      "onboard_time": 1697091214,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 178203,
       "num": 178203,
       "word": "中国短道速滑队集训名单",
@@ -1403,20 +1451,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176871,
+      "num": 176871,
+      "word": "欧文谈被排在NBA第34位",
+      "onboard_time": 1697091815,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170717,
       "num": 170717,
       "word": "SEVENTEEN预告照",
       "onboard_time": 1697039672,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169960,
-      "num": 169960,
-      "word": "湖人",
-      "onboard_time": 1697091214,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 169590,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1697026415,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161350,
+      "num": 161350,
+      "word": "女子网购包一月后发现陌生人身份证",
+      "onboard_time": 1697092415,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161321,
@@ -1491,12 +1547,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 156628,
-      "num": 156628,
-      "word": "张云雷天津",
-      "onboard_time": 1697091693,
-      "rank": 44,
-      "category": "演出"
+      "raw_hot": 153256,
+      "num": 153256,
+      "word": "山东大集已开启人传人模式",
+      "onboard_time": 1697089595,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152526,
@@ -1505,6 +1561,14 @@
       "onboard_time": 1697088874,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151775,
+      "num": 151775,
+      "word": "北京政法职业学院辟谣",
+      "onboard_time": 1697092473,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147354,
@@ -1531,28 +1595,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141708,
-      "num": 141708,
-      "word": "山东大集已开启人传人模式",
-      "onboard_time": 1697089595,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 139563,
       "num": 139563,
       "word": "灯光是蓝绿红橙的 凯子心情是黑色的",
       "onboard_time": 1697028516,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137374,
-      "num": 137374,
-      "word": "16岁男生捡废品创业被赞很帅",
-      "onboard_time": 1697091632,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 136143,
@@ -1803,20 +1851,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 13689,
+      "num": 1855720,
+      "word": "全国网络普法行四川站",
+      "onboard_time": 1696991073,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12546,
       "num": 37185,
       "word": "SNH48 Number One",
       "onboard_time": 1697054474,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 10828,
-      "num": 1855720,
-      "word": "全国网络普法行四川站",
-      "onboard_time": 1696991073,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 4887,

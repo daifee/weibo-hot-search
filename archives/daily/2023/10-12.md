@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/12 00:22:00 ~ 2023/10/12 14:23:03
+本榜单时间：2023/10/12 00:22:00 ~ 2023/10/12 14:35:56
 </p>
 </blockquote>
 <p>
@@ -93,14 +93,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E5%A5%B3%E4%B8%BB%23" target="weibo">
-雪中悍刀行女主（热度：1401718）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%8B%92%E7%BB%9D%E4%BA%86%E5%AE%9D%E7%88%B9%E5%A6%88%E7%9A%84%E6%8D%A2%E5%BA%A7%E5%90%8E%23" target="weibo">
+高铁上拒绝了宝爹妈的换座后（热度：1425566）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E6%8B%92%E7%BB%9D%E4%BA%86%E5%AE%9D%E7%88%B9%E5%A6%88%E7%9A%84%E6%8D%A2%E5%BA%A7%E5%90%8E%23" target="weibo">
-高铁上拒绝了宝爹妈的换座后（热度：1328897）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C%E5%A5%B3%E4%B8%BB%23" target="weibo">
+雪中悍刀行女主（热度：1401718）
 </a>
 </li>
 
@@ -159,14 +159,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BE%B3%E9%97%A8%E7%AB%99%E5%AE%98%E5%AE%A3%23" target="weibo">
-时代少年团澳门站官宣（热度：962842）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E6%9D%A8%E7%8E%8F%E7%88%B6%E5%AD%90%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E6%92%92%E8%B0%8E%23" target="weibo">
+杨立新杨玏父子到底谁在撒谎（热度：968649）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%AB%8B%E6%96%B0%E6%9D%A8%E7%8E%8F%E7%88%B6%E5%AD%90%E5%88%B0%E5%BA%95%E8%B0%81%E5%9C%A8%E6%92%92%E8%B0%8E%23" target="weibo">
-杨立新杨玏父子到底谁在撒谎（热度：913983）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E6%BE%B3%E9%97%A8%E7%AB%99%E5%AE%98%E5%AE%A3%23" target="weibo">
+时代少年团澳门站官宣（热度：962842）
 </a>
 </li>
 
@@ -309,6 +309,12 @@ papi酱 追星有这么严格嘛（热度：587894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E8%A3%99%E5%AD%90%E7%8E%B0%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%23" target="weibo">
+广州警方通报乘客裙子现不明液体（热度：545480）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E5%87%BA%E7%A7%9F%E8%BD%A6%E9%AB%98%E9%80%9F%E8%B7%AF%E7%94%A9%E5%AE%A2%E8%87%B4%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1%23" target="weibo">
 网曝出租车高速路甩客致乘客身亡（热度：540168）
 </a>
@@ -363,6 +369,12 @@ papi酱 追星有这么严格嘛（热度：587894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E6%8E%80%E5%BC%80%E4%BA%86%23" target="weibo">
+邓为一下子就掀开了（热度：456186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%9F%B3%E6%B2%B9%E7%9B%B4%E6%92%AD%23" target="weibo">
 中石油直播（热度：433256）
 </a>
@@ -371,6 +383,12 @@ papi酱 追星有这么严格嘛（热度：587894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%9E%E7%A3%8A%20%E6%9C%9D%E9%9B%AA%E5%BD%95%23" target="weibo">
 白鹿丞磊 朝雪录（热度：429992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E5%BC%80%E5%B7%A5%E6%89%93%E5%8D%A1%23" target="weibo">
+奔跑吧全员开工打卡（热度：427044）
 </a>
 </li>
 
@@ -399,12 +417,6 @@ papi酱 追星有这么严格嘛（热度：587894）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%E5%85%A8%E5%91%98%E5%BC%80%E5%B7%A5%E6%89%93%E5%8D%A1%23" target="weibo">
-奔跑吧全员开工打卡（热度：413930）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E5%8F%B0%E6%9C%89%E6%A0%91%23" target="weibo">
 仙台有树（热度：405490）
 </a>
@@ -429,12 +441,6 @@ papi酱 追星有这么严格嘛（热度：587894）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E4%B9%98%E5%AE%A2%E8%A3%99%E5%AD%90%E7%8E%B0%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%23" target="weibo">
-广州警方通报乘客裙子现不明液体（热度：383590）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD9%E5%90%8D%E4%BA%BA%E5%91%98%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E4%B8%AD%E4%B8%A7%E7%94%9F%23" target="weibo">
 联合国9名人员在以色列空袭中丧生（热度：382677）
 </a>
@@ -455,6 +461,18 @@ papi酱 追星有这么严格嘛（热度：587894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%96%B0%E5%89%A7%E6%BC%94%E5%90%91%E6%B6%B5%E4%B9%8B%E5%BE%92%E5%BC%9F%23" target="weibo">
 邓为新剧演向涵之徒弟（热度：379056）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%23" target="weibo">
+古茗天官赐福（热度：371390）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%B7%E5%81%B7%E5%85%85%E5%80%BC%E6%B8%B8%E6%88%8F6000%E5%85%83%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E8%87%AA%E9%A6%96%23" target="weibo">
+女孩偷偷充值游戏6000元被妈妈带去自首（热度：368788）
 </a>
 </li>
 
@@ -503,6 +521,12 @@ papi酱 追星有这么严格嘛（热度：587894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E9%87%8D%E7%A7%A4%E8%A2%AB%E5%AE%A4%E5%8F%8B%E5%8E%8B%E7%A2%8E%E4%BA%86%23" target="weibo">
 体重秤被室友压碎了（热度：336627）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%81%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+李健演唱会（热度：332867）
 </a>
 </li>
 
@@ -573,12 +597,6 @@ papi酱 追星有这么严格嘛（热度：587894）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E4%B8%80%E4%B8%8B%E5%AD%90%E5%B0%B1%E6%8E%80%E5%BC%80%E4%BA%86%23" target="weibo">
-邓为一下子就掀开了（热度：303502）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%94%B7%E5%AD%A9%E4%BA%8E%E6%96%87%E4%BA%AE10%E5%A4%A9%E6%B6%A8%E7%B2%89%E8%B6%85%E7%99%BE%E4%B8%87%23" target="weibo">
 山东男孩于文亮10天涨粉超百万（热度：300035）
 </a>
@@ -587,12 +605,6 @@ papi酱 追星有这么严格嘛（热度：587894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%86%E5%90%8D%E5%AD%97%E7%9A%84%E7%A6%8F%E5%AE%9D%E5%A6%B9%E5%A6%B9%E7%B2%89%E5%98%9F%E5%98%9F%23" target="weibo">
 有了名字的福宝妹妹粉嘟嘟（热度：299678）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E8%8C%97%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%23" target="weibo">
-古茗天官赐福（热度：299142）
 </a>
 </li>
 
@@ -627,6 +639,12 @@ papi酱 追星有这么严格嘛（热度：587894）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E4%BF%A1%E5%90%AC%E5%88%B0%E7%B2%89%E4%B8%9D%E4%B9%B0%E9%BB%84%E7%89%9B%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+阿信听到粉丝买黄牛的反应（热度：282968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%E5%93%AD%E4%BA%86%23" target="weibo">
 关晓彤王牌对王牌哭了（热度：278866）
 </a>
@@ -635,12 +653,6 @@ papi酱 追星有这么严格嘛（热度：587894）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%86%E8%99%8E%E7%AC%AC15%E6%AC%A1%E5%94%B1%E4%BA%8E%E6%AD%A3OST%23" target="weibo">
 陆虎第15次唱于正OST（热度：278804）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%B7%E5%81%B7%E5%85%85%E5%80%BC%E6%B8%B8%E6%88%8F6000%E5%85%83%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E8%87%AA%E9%A6%96%23" target="weibo">
-女孩偷偷充值游戏6000元被妈妈带去自首（热度：275997）
 </a>
 </li>
 
@@ -753,6 +765,12 @@ gidle将参加S13粉丝音乐会（热度：265840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E7%94%B7%E7%94%9F%E6%8D%A1%E5%BA%9F%E5%93%81%E5%88%9B%E4%B8%9A%E8%A2%AB%E8%B5%9E%E5%BE%88%E5%B8%85%23" target="weibo">
+16岁男生捡废品创业被赞很帅（热度：236828）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232024%E6%A0%BC%E8%8E%B1%E7%BE%8E%E6%8A%A5%E5%90%8D%E5%90%8D%E5%8D%95%23" target="weibo">
 2024格莱美报名名单（热度：231660）
 </a>
@@ -809,6 +827,12 @@ gidle将参加S13粉丝音乐会（热度：265840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E9%83%A8%E5%8F%A4%E5%81%B6%E5%9C%A8%E4%BB%8A%E5%A4%A9%E5%BC%80%E6%9C%BA%23" target="weibo">
 两部古偶在今天开机（热度：223708）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E7%A7%8D%E7%94%B0%E6%96%87%E7%94%B7%E4%B8%BB%E6%8A%AC%E4%B8%8A%E6%9D%A5%E4%BA%86%23" target="weibo">
+曾舜晞种田文男主抬上来了（热度：221943）
 </a>
 </li>
 
@@ -873,6 +897,12 @@ gidle将参加S13粉丝音乐会（热度：265840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E5%A4%A9%E6%B4%A5%23" target="weibo">
+张云雷天津（热度：208442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E6%98%AF%E5%B7%A6%E6%92%87%E5%AD%90%E8%A2%AB%E7%BA%A0%E6%AD%A3%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 原来这是左撇子被纠正的原因（热度：208351）
 </a>
@@ -887,6 +917,12 @@ gidle将参加S13粉丝音乐会（热度：265840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E8%AF%B4%E6%9C%B1%E4%B8%80%E9%BE%99%E5%8F%88i%E5%8F%88e%23" target="weibo">
 余华说朱一龙又i又e（热度：206968）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E9%80%82%20%E8%84%B8%E5%B8%85%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86%23" target="weibo">
+于适 脸帅就可以了（热度：206890）
 </a>
 </li>
 
@@ -923,12 +959,6 @@ gidle将参加S13粉丝音乐会（热度：265840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%BC%80%E4%B8%8D%E4%BA%86%E5%8F%A32001%E5%B9%B4%E7%8E%B0%E5%9C%BA%23" target="weibo">
 周杰伦开不了口2001年现场（热度：198566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%88%9C%E6%99%9E%E7%A7%8D%E7%94%B0%E6%96%87%E7%94%B7%E4%B8%BB%E6%8A%AC%E4%B8%8A%E6%9D%A5%E4%BA%86%23" target="weibo">
-曾舜晞种田文男主抬上来了（热度：198565）
 </a>
 </li>
 
@@ -1053,6 +1083,12 @@ IVE MINE（热度：180071）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%23" target="weibo">
+湖人（热度：179272）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%98%9F%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95%23" target="weibo">
 中国短道速滑队集训名单（热度：178203）
 </a>
@@ -1065,14 +1101,14 @@ IVE MINE（热度：180071）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E9%A2%84%E5%91%8A%E7%85%A7%23" target="weibo">
-SEVENTEEN预告照（热度：170717）
+<a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E6%96%87%E8%B0%88%E8%A2%AB%E6%8E%92%E5%9C%A8NBA%E7%AC%AC34%E4%BD%8D%23" target="weibo">
+欧文谈被排在NBA第34位（热度：176871）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E4%BA%BA%23" target="weibo">
-湖人（热度：169960）
+<a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E9%A2%84%E5%91%8A%E7%85%A7%23" target="weibo">
+SEVENTEEN预告照（热度：170717）
 </a>
 </li>
 
@@ -1097,6 +1133,12 @@ SEVENTEEN预告照（热度：170717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E4%B8%B4%E6%97%B6%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%B9%9F%E5%A4%AA%E4%B8%B4%E6%97%B6%E4%BA%86%E5%90%A7%23" target="weibo">
 我的临时身份证也太临时了吧（热度：166041）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD%E5%8C%85%E4%B8%80%E6%9C%88%E5%90%8E%E5%8F%91%E7%8E%B0%E9%99%8C%E7%94%9F%E4%BA%BA%E8%BA%AB%E4%BB%BD%E8%AF%81%23" target="weibo">
+女子网购包一月后发现陌生人身份证（热度：161350）
 </a>
 </li>
 
@@ -1131,14 +1173,20 @@ SEVENTEEN预告照（热度：170717）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%91%E9%9B%B7%E5%A4%A9%E6%B4%A5%23" target="weibo">
-张云雷天津（热度：156628）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E9%9B%86%E5%B7%B2%E5%BC%80%E5%90%AF%E4%BA%BA%E4%BC%A0%E4%BA%BA%E6%A8%A1%E5%BC%8F%23" target="weibo">
+山东大集已开启人传人模式（热度：153256）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
 张真源奔跑吧（热度：152526）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E6%94%BF%E6%B3%95%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E8%BE%9F%E8%B0%A3%23" target="weibo">
+北京政法职业学院辟谣（热度：151775）
 </a>
 </li>
 
@@ -1161,20 +1209,8 @@ SEVENTEEN预告照（热度：170717）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E5%A4%A7%E9%9B%86%E5%B7%B2%E5%BC%80%E5%90%AF%E4%BA%BA%E4%BC%A0%E4%BA%BA%E6%A8%A1%E5%BC%8F%23" target="weibo">
-山东大集已开启人传人模式（热度：141708）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AF%E5%85%89%E6%98%AF%E8%93%9D%E7%BB%BF%E7%BA%A2%E6%A9%99%E7%9A%84%20%E5%87%AF%E5%AD%90%E5%BF%83%E6%83%85%E6%98%AF%E9%BB%91%E8%89%B2%E7%9A%84%23" target="weibo">
 灯光是蓝绿红橙的 凯子心情是黑色的（热度：139563）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2316%E5%B2%81%E7%94%B7%E7%94%9F%E6%8D%A1%E5%BA%9F%E5%93%81%E5%88%9B%E4%B8%9A%E8%A2%AB%E8%B5%9E%E5%BE%88%E5%B8%85%23" target="weibo">
-16岁男生捡废品创业被赞很帅（热度：137374）
 </a>
 </li>
 
@@ -1365,14 +1401,14 @@ gidle上海线下签售会（热度：78274）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23SNH48%20Number%20One%23" target="weibo">
-SNH48 Number One（热度：12546）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E5%9B%9B%E5%B7%9D%E7%AB%99%23" target="weibo">
+全国网络普法行四川站（热度：13689）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%99%AE%E6%B3%95%E8%A1%8C%E5%9B%9B%E5%B7%9D%E7%AB%99%23" target="weibo">
-全国网络普法行四川站（热度：10828）
+<a href="https://s.weibo.com/weibo?q=%23SNH48%20Number%20One%23" target="weibo">
+SNH48 Number One（热度：12546）
 </a>
 </li>
 
