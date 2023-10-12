@@ -1,13 +1,29 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697096054862,
+  "endTime": 1697098926924,
   "band_list": [
+    {
+      "raw_hot": 3783613,
+      "num": 3783613,
+      "word": "跑男",
+      "onboard_time": 1697088215,
+      "rank": 7,
+      "category": "综艺"
+    },
     {
       "raw_hot": 3007519,
       "num": 3007519,
       "word": "2023年应届生平均招聘月薪10342元",
       "onboard_time": 1697073456,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2987972,
+      "num": 2987972,
+      "word": "男子广州地铁猥亵女子被行拘",
+      "onboard_time": 1697097577,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -25,14 +41,6 @@
       "onboard_time": 1697079395,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2666966,
-      "num": 2666966,
-      "word": "跑男",
-      "onboard_time": 1697088215,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 2626070,
@@ -83,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2093476,
+      "num": 1296431,
+      "word": "三名中国公民在巴以冲突中遇难",
+      "onboard_time": 1697096258,
+      "rank": 5,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 2061780,
       "num": 2061780,
       "word": "完颜慧德",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 2031971,
-      "num": 1512554,
+      "num": 1584576,
       "word": "郑强回应婚内出轨包养情妇",
       "onboard_time": 1697088035,
       "rank": 4,
@@ -147,6 +163,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1301378,
+      "num": 1301378,
+      "word": "我国去年出生人口956万",
+      "onboard_time": 1697094099,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1280945,
       "num": 1280945,
       "word": "当潦草小狗见到潦草小马",
@@ -155,12 +179,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1267326,
+      "num": 1267326,
+      "word": "郭宝昌去世",
+      "onboard_time": 1697097876,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1223020,
       "num": 1223020,
       "word": "过度疲劳的6种表现",
       "onboard_time": 1697068111,
       "rank": 3,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1220934,
+      "num": 941293,
+      "word": "跑男录制现场站姐站满了一艘船",
+      "onboard_time": 1697094934,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 1196484,
@@ -185,14 +225,6 @@
       "onboard_time": 1697067029,
       "rank": 30,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 1090210,
-      "num": 1090210,
-      "word": "我国去年出生人口956万",
-      "onboard_time": 1697094099,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1042784,
@@ -299,19 +331,19 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 698408,
+      "num": 698408,
+      "word": "LV卖不动了吗",
+      "onboard_time": 1697095417,
+      "rank": 22,
+      "category": "时尚,财经"
+    },
+    {
       "raw_hot": 693826,
       "num": 693826,
       "word": "蒲熠星快被考试逼疯了",
       "onboard_time": 1697079698,
       "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 682067,
-      "num": 682067,
-      "word": "跑男录制现场站姐站满了一艘船",
-      "onboard_time": 1697094934,
-      "rank": 36,
       "category": "综艺"
     },
     {
@@ -361,6 +393,14 @@
       "onboard_time": 1697027075,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 641529,
+      "num": 641529,
+      "word": "可口可乐 好利来",
+      "onboard_time": 1697097216,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 635115,
@@ -465,6 +505,14 @@
       "onboard_time": 1697089355,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 533548,
+      "num": 533548,
+      "word": "小米社区误杀了雷军账号",
+      "onboard_time": 1697095716,
+      "rank": 39,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 529441,
@@ -609,6 +657,14 @@
       "onboard_time": 1697069675,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 412276,
+      "num": 412276,
+      "word": "当事人回应举报郑强",
+      "onboard_time": 1697095896,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405490,
@@ -859,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304470,
+      "num": 304470,
+      "word": "华为发布全球首个全系列5.5G解决方案",
+      "onboard_time": 1697097457,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 303586,
       "num": 303586,
       "word": "王者荣耀2023周年庆",
@@ -907,6 +971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 291281,
+      "num": 291281,
+      "word": "黄健翔爆粗骂国足脸都不要了",
+      "onboard_time": 1697097577,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 288640,
       "num": 288640,
       "word": "邱少云被火烧过的棉衣残片看得泪目",
@@ -923,12 +995,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 284859,
-      "num": 284859,
-      "word": "LV卖不动了吗",
-      "onboard_time": 1697095417,
-      "rank": 22,
-      "category": "时尚,财经"
+      "raw_hot": 278940,
+      "num": 278940,
+      "word": "张真源八年从等看跑男到录跑男",
+      "onboard_time": 1697096557,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 278866,
@@ -1001,6 +1073,14 @@
       "onboard_time": 1697078913,
       "rank": 25,
       "category": "游戏,音乐"
+    },
+    {
+      "raw_hot": 264500,
+      "num": 264500,
+      "word": "猪猪侠 恋爱脑",
+      "onboard_time": 1697096258,
+      "rank": 29,
+      "category": "幽默"
     },
     {
       "raw_hot": 261020,
@@ -1105,6 +1185,14 @@
       "onboard_time": 1697080720,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236869,
+      "num": 236869,
+      "word": "中药界的C位",
+      "onboard_time": 1697096195,
+      "rank": 30,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 236828,
@@ -1339,12 +1427,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207869,
-      "num": 207869,
-      "word": "当事人回应举报郑强",
-      "onboard_time": 1697095896,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 207213,
+      "num": 207213,
+      "word": "向涵之开机照",
+      "onboard_time": 1697096676,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 206968,
@@ -1379,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202280,
+      "num": 202280,
+      "word": "太原理工大学回应郑强被举报",
+      "onboard_time": 1697095476,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201131,
       "num": 205252,
       "word": "向鹏刘炜珊混双晋级决赛",
@@ -1403,6 +1499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198864,
+      "num": 198864,
+      "word": "网传中石油官员称1升等于800毫升是假的",
+      "onboard_time": 1697098594,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198566,
       "num": 198566,
       "word": "周杰伦开不了口2001年现场",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1697077715,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198144,
+      "num": 198144,
+      "word": "巴以冲突",
+      "onboard_time": 1697097757,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 197669,
@@ -1467,12 +1579,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 193897,
+      "num": 193897,
+      "word": "白敬亭正当防卫开机路透",
+      "onboard_time": 1697096374,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193666,
       "num": 196266,
       "word": "男子酒后开车被前女友举报2次",
       "onboard_time": 1697080836,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191622,
+      "num": 191622,
+      "word": "田曦薇唱的时候尴尬吗",
+      "onboard_time": 1697098475,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 191518,
@@ -1611,12 +1739,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 170725,
-      "num": 170725,
-      "word": "小米社区误杀了雷军账号",
-      "onboard_time": 1697095716,
-      "rank": 39,
-      "category": "社会新闻,互联网"
+      "raw_hot": 175117,
+      "num": 175117,
+      "word": "痴呆母亲出门给女儿买馄饨迷路急哭",
+      "onboard_time": 1697096495,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170717,
@@ -1704,14 +1832,6 @@
       "word": "妈妈随手一笔女儿改成创意漫画",
       "onboard_time": 1697066005,
       "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 153268,
-      "num": 153268,
-      "word": "太原理工大学回应郑强被举报",
-      "onboard_time": 1697095476,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2015,6 +2135,14 @@
       "num": 1718644,
       "word": "一带一路一往无前",
       "onboard_time": 1697028578,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35291,
+      "num": 2024690,
+      "word": "在阿根廷采撷多彩风情",
+      "onboard_time": 1697097997,
       "rank": 2,
       "category": "社会新闻"
     },
