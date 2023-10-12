@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697115030361,
+  "endTime": 1697116948986,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -705,6 +705,14 @@
       "onboard_time": 1696854275,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1779476,
+      "num": 1779476,
+      "word": "刘宇宁回应折腰相关",
+      "onboard_time": 1697115698,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1770921,
@@ -1891,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 828309,
+      "num": 461229,
+      "word": "杨超越 一言难尽的滤镜",
+      "onboard_time": 1697115337,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 827537,
       "num": 827537,
       "word": "华天马匹兴奋剂检测阳性",
@@ -2283,6 +2299,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 714878,
+      "num": 714878,
+      "word": "张嘉倪 爱看狐狸哭",
+      "onboard_time": 1697113897,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 714778,
       "num": 714778,
       "word": "仙台有树开机官宣",
@@ -2545,14 +2569,6 @@
       "onboard_time": 1696736137,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 660194,
-      "num": 660194,
-      "word": "张嘉倪 爱看狐狸哭",
-      "onboard_time": 1697113897,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 659510,
@@ -2955,6 +2971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604430,
+      "num": 604430,
+      "word": "韩国地铁站偶遇天官赐福",
+      "onboard_time": 1697113293,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 602057,
       "num": 602057,
       "word": "优衣库涨薪",
@@ -3012,7 +3036,7 @@
     },
     {
       "raw_hot": 589900,
-      "num": 417535,
+      "num": 436671,
       "word": "叙机场在伊朗外长到访前遭以军空袭",
       "onboard_time": 1697113234,
       "rank": 16,
@@ -4139,6 +4163,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 461617,
+      "num": 461617,
+      "word": "珠帘玉幕",
+      "onboard_time": 1697113956,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 461561,
       "num": 461561,
       "word": "关晓彤把孟子义理想型身高看成1米63",
@@ -4169,6 +4201,14 @@
       "onboard_time": 1696726659,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 458975,
+      "num": 458975,
+      "word": "范丞丞吃火锅用油碟",
+      "onboard_time": 1697115397,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 458956,
@@ -4649,14 +4689,6 @@
       "onboard_time": 1697095896,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 410821,
-      "num": 410821,
-      "word": "韩国地铁站偶遇天官赐福",
-      "onboard_time": 1697113293,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 409240,
@@ -5931,6 +5963,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 331148,
+      "num": 331148,
+      "word": "马龙回应球迷喊巴黎见",
+      "onboard_time": 1697114377,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 329775,
       "num": 329775,
       "word": "吉鲁扑单刀",
@@ -6081,14 +6121,6 @@
       "onboard_time": 1696668159,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322460,
-      "num": 310566,
-      "word": "珠帘玉幕",
-      "onboard_time": 1697113956,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 321989,
@@ -7011,6 +7043,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 280382,
+      "num": 280382,
+      "word": "被德国面包划伤食道",
+      "onboard_time": 1697116779,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 280378,
       "num": 269455,
       "word": "继承者们首播10周年",
@@ -7081,14 +7121,6 @@
       "onboard_time": 1696784664,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 277765,
-      "num": 277765,
-      "word": "马龙回应球迷喊巴黎见",
-      "onboard_time": 1697114377,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 277636,
@@ -8251,6 +8283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 243537,
+      "num": 243537,
+      "word": "周深又素颜出镜了",
+      "onboard_time": 1697115880,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243521,
       "num": 243521,
       "word": "关晓彤王安宇演情侣",
@@ -8345,6 +8385,14 @@
       "onboard_time": 1697087916,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 240846,
+      "num": 240846,
+      "word": "沈小婷成韩彬 Galileo Challenge",
+      "onboard_time": 1697115577,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240828,
@@ -8681,6 +8729,14 @@
       "onboard_time": 1696754015,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232868,
+      "num": 232868,
+      "word": "20岁女生裸辞用76天穷游22个城市",
+      "onboard_time": 1697116360,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 232712,
@@ -9571,6 +9627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209710,
+      "num": 209710,
+      "word": "这就是勾引人类的下场",
+      "onboard_time": 1697116298,
+      "rank": 33,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 209706,
       "num": 209706,
       "word": "大张伟和马嘉祺一起演绎Fly",
@@ -10176,6 +10240,14 @@
       "word": "陈家平主用皮带止血",
       "onboard_time": 1697030434,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199571,
+      "num": 199571,
+      "word": "谁家女主身手这么好啊",
+      "onboard_time": 1697116238,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -13211,6 +13283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116243,
+      "num": 431173,
+      "word": "荣耀连发3款折叠屏抢占高端用户",
+      "onboard_time": 1697114795,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 115261,
       "num": 115261,
       "word": "老师吃席不忘给住宿学生打包解馋",
@@ -13337,14 +13417,6 @@
       "onboard_time": 1696692456,
       "rank": 42,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 107787,
-      "num": 212283,
-      "word": "荣耀连发3款折叠屏抢占高端用户",
-      "onboard_time": 1697114795,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 106711,
@@ -13809,6 +13881,14 @@
       "onboard_time": 1696910443,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 62839,
+      "num": 198994,
+      "word": "85后女生挑战护肤配方规则",
+      "onboard_time": 1697115637,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62004,

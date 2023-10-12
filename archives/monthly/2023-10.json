@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697115030361,
+  "endTime": 1697116948986,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1617,6 +1617,14 @@
       "onboard_time": 1696854275,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1779476,
+      "num": 1779476,
+      "word": "刘宇宁回应折腰相关",
+      "onboard_time": 1697115698,
+      "rank": 0,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1775651,
@@ -5019,6 +5027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 828309,
+      "num": 461229,
+      "word": "杨超越 一言难尽的滤镜",
+      "onboard_time": 1697115337,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 827537,
       "num": 827537,
       "word": "华天马匹兴奋剂检测阳性",
@@ -6091,6 +6107,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 714878,
+      "num": 714878,
+      "word": "张嘉倪 爱看狐狸哭",
+      "onboard_time": 1697113897,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 714778,
       "num": 714778,
       "word": "仙台有树开机官宣",
@@ -6785,14 +6809,6 @@
       "onboard_time": 1696465529,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 660194,
-      "num": 660194,
-      "word": "张嘉倪 爱看狐狸哭",
-      "onboard_time": 1697113897,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 659781,
@@ -7683,6 +7699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 604430,
+      "num": 604430,
+      "word": "韩国地铁站偶遇天官赐福",
+      "onboard_time": 1697113293,
+      "rank": 25,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 603957,
       "num": 345604,
       "word": "情侣同名同姓相恋7年后恩爱订婚",
@@ -7956,7 +7980,7 @@
     },
     {
       "raw_hot": 589900,
-      "num": 417535,
+      "num": 436671,
       "word": "叙机场在伊朗外长到访前遭以军空袭",
       "onboard_time": 1697113234,
       "rank": 16,
@@ -10619,6 +10643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 458975,
+      "num": 458975,
+      "word": "范丞丞吃火锅用油碟",
+      "onboard_time": 1697115397,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458956,
       "num": 458956,
       "word": "丞磊卢昱晓cos尼克朱迪",
@@ -11753,14 +11785,6 @@
       "onboard_time": 1696430078,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 410821,
-      "num": 410821,
-      "word": "韩国地铁站偶遇天官赐福",
-      "onboard_time": 1697113293,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 410322,
@@ -14811,6 +14835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331148,
+      "num": 331148,
+      "word": "马龙回应球迷喊巴黎见",
+      "onboard_time": 1697114377,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331080,
       "num": 331080,
       "word": "中国女足vs乌兹别克斯坦",
@@ -17467,6 +17499,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 280382,
+      "num": 280382,
+      "word": "被德国面包划伤食道",
+      "onboard_time": 1697116779,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 280378,
       "num": 269455,
       "word": "继承者们首播10周年",
@@ -17689,14 +17729,6 @@
       "onboard_time": 1696566633,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 277765,
-      "num": 277765,
-      "word": "马龙回应球迷喊巴黎见",
-      "onboard_time": 1697114377,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 277675,
@@ -20275,6 +20307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243537,
+      "num": 243537,
+      "word": "周深又素颜出镜了",
+      "onboard_time": 1697115880,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 243521,
       "num": 243521,
       "word": "关晓彤王安宇演情侣",
@@ -20465,6 +20505,14 @@
       "onboard_time": 1697087916,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 240846,
+      "num": 240846,
+      "word": "沈小婷成韩彬 Galileo Challenge",
+      "onboard_time": 1697115577,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 240828,
@@ -21097,6 +21145,14 @@
       "onboard_time": 1696324959,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 232868,
+      "num": 232868,
+      "word": "20岁女生裸辞用76天穷游22个城市",
+      "onboard_time": 1697116360,
+      "rank": 30,
+      "category": "旅游"
     },
     {
       "raw_hot": 232712,
@@ -23179,6 +23235,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 209710,
+      "num": 209710,
+      "word": "这就是勾引人类的下场",
+      "onboard_time": 1697116298,
+      "rank": 33,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 209706,
       "num": 209706,
       "word": "大张伟和马嘉祺一起演绎Fly",
@@ -24489,6 +24553,14 @@
       "onboard_time": 1696144293,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 199571,
+      "num": 199571,
+      "word": "谁家女主身手这么好啊",
+      "onboard_time": 1697116238,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 199549,
@@ -31595,6 +31667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116243,
+      "num": 431173,
+      "word": "荣耀连发3款折叠屏抢占高端用户",
+      "onboard_time": 1697114795,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 116161,
       "num": 116161,
       "word": "假期余额只剩3天",
@@ -31857,14 +31937,6 @@
       "onboard_time": 1696175675,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 107787,
-      "num": 212283,
-      "word": "荣耀连发3款折叠屏抢占高端用户",
-      "onboard_time": 1697114795,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 107458,
@@ -32801,6 +32873,14 @@
       "onboard_time": 1696910443,
       "rank": 14,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 62839,
+      "num": 198994,
+      "word": "85后女生挑战护肤配方规则",
+      "onboard_time": 1697115637,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62075,
