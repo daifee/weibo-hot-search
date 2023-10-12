@@ -1,0 +1,410 @@
+{
+  "runTime": 1697096054862,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2666966,
+        "num": 2666966,
+        "word": "跑男",
+        "onboard_time": 1697088215,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2073674,
+        "num": 2073674,
+        "word": "高铁上拒绝了宝爹妈的换座后",
+        "onboard_time": 1697089414,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19820,
+        "num": 1533982,
+        "word": "全国网络普法行四川站",
+        "onboard_time": 1696991073,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1512554,
+        "num": 1512554,
+        "word": "郑强回应婚内出轨包养情妇",
+        "onboard_time": 1697088035,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1381510,
+        "num": 1381510,
+        "word": "靳东 济南大学",
+        "onboard_time": 1697093375,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1199644,
+        "num": 1199644,
+        "word": "女子怀孕5个月被房东知道后退租",
+        "onboard_time": 1697086477,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1090210,
+        "num": 1090210,
+        "word": "我国去年出生人口956万",
+        "onboard_time": 1697094099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 830695,
+        "num": 830695,
+        "word": "全红婵弟弟 鱼啊",
+        "onboard_time": 1697085638,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 757119,
+        "num": 757119,
+        "word": "雪中悍刀行女主",
+        "onboard_time": 1697084978,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 689640,
+        "num": 689640,
+        "word": "陈情令版权已到期",
+        "onboard_time": 1697093013,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 682067,
+        "num": 682067,
+        "word": "跑男录制现场站姐站满了一艘船",
+        "onboard_time": 1697094934,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 596558,
+        "num": 596558,
+        "word": "杨立新杨玏父子到底谁在撒谎",
+        "onboard_time": 1697087198,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 544003,
+        "num": 544003,
+        "word": "王哲林结婚",
+        "onboard_time": 1697093493,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534582,
+        "num": 534582,
+        "word": "广州警方通报乘客裙子现不明液体",
+        "onboard_time": 1697090615,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513192,
+        "num": 513192,
+        "word": "女孩偷偷充值游戏6000元被妈妈带去自首",
+        "onboard_time": 1697091214,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497301,
+        "num": 497301,
+        "word": "女子网购包一月后发现陌生人身份证",
+        "onboard_time": 1697092415,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 470103,
+        "num": 470103,
+        "word": "邓为一下子就掀开了",
+        "onboard_time": 1697091274,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 454442,
+        "num": 454442,
+        "word": "李沁一年十封",
+        "onboard_time": 1697093194,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 416278,
+        "num": 416278,
+        "word": "阿信听到粉丝买黄牛的反应",
+        "onboard_time": 1697091871,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 396016,
+        "num": 396016,
+        "word": "刘涛健身照",
+        "onboard_time": 1697093915,
+        "rank": 19,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 348491,
+        "num": 348491,
+        "word": "秦霄贤不想坐伊能静旁边",
+        "onboard_time": 1697092773,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322148,
+        "num": 322148,
+        "word": "这还是那个青春期的赵奕欢吗",
+        "onboard_time": 1697089355,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284859,
+        "num": 284859,
+        "word": "LV卖不动了吗",
+        "onboard_time": 1697095417,
+        "rank": 22,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 277483,
+        "num": 277483,
+        "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
+        "onboard_time": 1697081557,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 261572,
+        "num": 261572,
+        "word": "警方回应武大学生举报图书馆遭性骚扰",
+        "onboard_time": 1697089355,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268177,
+        "num": 261185,
+        "word": "完颜慧德",
+        "onboard_time": 1697081857,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 260261,
+        "num": 260261,
+        "word": "于适 脸帅就可以了",
+        "onboard_time": 1697092292,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257784,
+        "num": 257784,
+        "word": "当潦草小狗见到潦草小马",
+        "onboard_time": 1697079813,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213293,
+        "num": 257360,
+        "word": "外国雇佣兵离开乌克兰赴以色列作战",
+        "onboard_time": 1697082156,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 208176,
+        "num": 257120,
+        "word": "古茗天官赐福",
+        "onboard_time": 1697090014,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 256995,
+        "num": 256995,
+        "word": "范丞丞脖子怎么这么长",
+        "onboard_time": 1697094875,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248397,
+        "num": 248397,
+        "word": "东北银渐层是懂配合交班的",
+        "onboard_time": 1697095654,
+        "rank": 31,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 232616,
+        "num": 232616,
+        "word": "杨紫长相思收官庆典VCR",
+        "onboard_time": 1697095476,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224091,
+        "num": 224091,
+        "word": "李昀锐有妹妹会介绍给黄曦彦的原因",
+        "onboard_time": 1697095236,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211280,
+        "num": 211280,
+        "word": "罗翔称上名校不仅靠努力更靠命",
+        "onboard_time": 1697095417,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 207869,
+        "num": 207869,
+        "word": "当事人回应举报郑强",
+        "onboard_time": 1697095896,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203139,
+        "num": 203139,
+        "word": "奔跑吧全员开工打卡",
+        "onboard_time": 1697089355,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198585,
+        "num": 198585,
+        "word": "赵露思对接否认出演姜泥",
+        "onboard_time": 1697089714,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171932,
+        "num": 171932,
+        "word": "产妇拍下产床抓痕引20万妈妈共鸣",
+        "onboard_time": 1697071477,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170725,
+        "num": 170725,
+        "word": "小米社区误杀了雷军账号",
+        "onboard_time": 1697095716,
+        "rank": 39,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 195005,
+        "num": 169166,
+        "word": "伍佰 成都抢票",
+        "onboard_time": 1697095115,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194818,
+        "num": 168998,
+        "word": "张凌赫赵今麦身高差",
+        "onboard_time": 1697094214,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179346,
+        "num": 168958,
+        "word": "邓为首部男主仙侠剧",
+        "onboard_time": 1697094756,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164535,
+        "num": 164535,
+        "word": "为什么耳朵里面会长这种痘",
+        "onboard_time": 1697077052,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 153268,
+        "num": 153268,
+        "word": "太原理工大学回应郑强被举报",
+        "onboard_time": 1697095476,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143741,
+        "num": 143741,
+        "word": "长相思第一季收官庆典",
+        "onboard_time": 1697086839,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137804,
+        "num": 137804,
+        "word": "曾舜晞种田文男主抬上来了",
+        "onboard_time": 1697091274,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134354,
+        "num": 134354,
+        "word": "学历与能力哪个更管用",
+        "onboard_time": 1697089835,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132518,
+        "num": 132518,
+        "word": "爷爷忙着掰玉米狗狗赖在怀里撒娇",
+        "onboard_time": 1697089054,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127818,
+        "num": 127818,
+        "word": "林高远因伤退赛",
+        "onboard_time": 1697090496,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江西九江考察调研#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697094973165,
+  "endTime": 1697096054862,
   "band_list": [
     {
       "raw_hot": 3007519,
@@ -25,6 +25,14 @@
       "onboard_time": 1697079395,
       "rank": 3,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2666966,
+      "num": 2666966,
+      "word": "跑男",
+      "onboard_time": 1697088215,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 2626070,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 2031971,
-      "num": 1430178,
+      "num": 1512554,
       "word": "郑强回应婚内出轨包养情妇",
       "onboard_time": 1697088035,
       "rank": 4,
@@ -115,20 +123,20 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1416856,
-      "num": 1416856,
-      "word": "跑男",
-      "onboard_time": 1697088215,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 1401718,
       "num": 1401718,
       "word": "雪中悍刀行女主",
       "onboard_time": 1697084978,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1381510,
+      "num": 1381510,
+      "word": "靳东 济南大学",
+      "onboard_time": 1697093375,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 1314390,
@@ -179,20 +187,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1090210,
+      "num": 1090210,
+      "word": "我国去年出生人口956万",
+      "onboard_time": 1697094099,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1042784,
       "num": 931918,
       "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
       "onboard_time": 1697081557,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 990303,
-      "num": 990303,
-      "word": "靳东 济南大学",
-      "onboard_time": 1697093375,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 979673,
@@ -296,6 +304,14 @@
       "word": "蒲熠星快被考试逼疯了",
       "onboard_time": 1697079698,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 682067,
+      "num": 682067,
+      "word": "跑男录制现场站姐站满了一艘船",
+      "onboard_time": 1697094934,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -611,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396016,
+      "num": 396016,
+      "word": "刘涛健身照",
+      "onboard_time": 1697093915,
+      "rank": 21,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 392392,
       "num": 212312,
       "word": "女子被7年男友气哭想退婚爸爸力挺",
@@ -667,14 +691,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 368500,
-      "num": 368500,
-      "word": "我国去年出生人口956万",
-      "onboard_time": 1697094099,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 367675,
       "num": 367675,
       "word": "南波万的聚会",
@@ -723,12 +739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 348604,
-      "num": 348604,
-      "word": "刘涛健身照",
-      "onboard_time": 1697093915,
-      "rank": 21,
-      "category": "艺人,运动健身"
+      "raw_hot": 348491,
+      "num": 348491,
+      "word": "秦霄贤不想坐伊能静旁边",
+      "onboard_time": 1697092773,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 345068,
@@ -907,6 +923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 284859,
+      "num": 284859,
+      "word": "LV卖不动了吗",
+      "onboard_time": 1697095417,
+      "rank": 22,
+      "category": "时尚,财经"
+    },
+    {
       "raw_hot": 278866,
       "num": 278866,
       "word": "关晓彤王牌对王牌哭了",
@@ -987,12 +1011,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 256995,
+      "num": 256995,
+      "word": "范丞丞脖子怎么这么长",
+      "onboard_time": 1697094875,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "方头明有钱后",
       "onboard_time": 1697072018,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 248397,
+      "num": 248397,
+      "word": "东北银渐层是懂配合交班的",
+      "onboard_time": 1697095654,
+      "rank": 31,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 247429,
@@ -1067,20 +1107,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 237659,
-      "num": 191420,
-      "word": "秦霄贤不想坐伊能静旁边",
-      "onboard_time": 1697092773,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 236828,
       "num": 236828,
       "word": "16岁男生捡废品创业被赞很帅",
       "onboard_time": 1697091632,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232616,
+      "num": 232616,
+      "word": "杨紫长相思收官庆典VCR",
+      "onboard_time": 1697095476,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 231660,
@@ -1153,6 +1193,14 @@
       "onboard_time": 1697077172,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224091,
+      "num": 224091,
+      "word": "李昀锐有妹妹会介绍给黄曦彦的原因",
+      "onboard_time": 1697095236,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 223708,
@@ -1243,6 +1291,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 211280,
+      "num": 211280,
+      "word": "罗翔称上名校不仅靠努力更靠命",
+      "onboard_time": 1697095417,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 210043,
       "num": 210043,
       "word": "保洁阿姨把我的洗澡刷当马桶刷了",
@@ -1281,6 +1337,14 @@
       "onboard_time": 1697094214,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207869,
+      "num": 207869,
+      "word": "当事人回应举报郑强",
+      "onboard_time": 1697095896,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206968,
@@ -1331,14 +1395,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 200377,
-      "num": 183526,
-      "word": "范丞丞脖子怎么这么长",
-      "onboard_time": 1697094875,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199689,
       "num": 199689,
       "word": "黄轩工作室晒黄轩怕冷实锤",
@@ -1385,6 +1441,14 @@
       "onboard_time": 1697073874,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195005,
+      "num": 169166,
+      "word": "伍佰 成都抢票",
+      "onboard_time": 1697095115,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 194589,
@@ -1441,14 +1505,6 @@
       "onboard_time": 1697077412,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 188699,
-      "num": 183188,
-      "word": "跑男录制现场站姐站满了一艘船",
-      "onboard_time": 1697094934,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 188158,
@@ -1555,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170725,
+      "num": 170725,
+      "word": "小米社区误杀了雷军账号",
+      "onboard_time": 1697095716,
+      "rank": 39,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 170717,
       "num": 170717,
       "word": "SEVENTEEN预告照",
@@ -1640,6 +1704,14 @@
       "word": "妈妈随手一笔女儿改成创意漫画",
       "onboard_time": 1697066005,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153268,
+      "num": 153268,
+      "word": "太原理工大学回应郑强被举报",
+      "onboard_time": 1697095476,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
