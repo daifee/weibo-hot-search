@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/12 23:34:34
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 00:22:29
 </p>
 </blockquote>
 <p>
@@ -4137,6 +4137,12 @@ Jennie巴黎时装周（热度：789463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%A7%91%E5%A4%A7%E6%8B%9F%E6%92%A4%E9%94%80%E8%8B%B1%E8%AF%AD%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A%23" target="weibo">
+中科大拟撤销英语本科专业（热度：788183）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%86%B0%E5%A8%87%23" target="weibo">
 何冰娇（热度：787837）
 </a>
@@ -6005,12 +6011,6 @@ seventeen（热度：598221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%89%E4%B8%87%E5%A4%9A%E6%9D%A1%E6%B6%88%E6%81%AF%E7%82%B9%E5%BC%80%E4%BA%86%23" target="weibo">
 把朋友圈三万多条消息点开了（热度：594757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%BB%9F%E5%8F%91%E6%96%87%23" target="weibo">
-以色列总统发文（热度：594304）
 </a>
 </li>
 
