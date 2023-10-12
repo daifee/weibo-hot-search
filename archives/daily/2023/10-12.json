@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697110458159,
+  "endTime": 1697114035067,
   "band_list": [
     {
       "raw_hot": 3783613,
@@ -57,6 +57,14 @@
       "onboard_time": 1697085638,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2303539,
+      "num": 2303539,
+      "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
+      "onboard_time": 1697109873,
+      "rank": 12,
+      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 2299160,
@@ -137,6 +145,14 @@
       "onboard_time": 1697040451,
       "rank": 13,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 1768269,
+      "num": 1768269,
+      "word": "以色列空袭叙利亚两座机场",
+      "onboard_time": 1697111134,
+      "rank": 1,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1713259,
@@ -257,6 +273,14 @@
       "onboard_time": 1697076634,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1175690,
+      "num": 464090,
+      "word": "叙利亚",
+      "onboard_time": 1697111914,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1162098,
@@ -403,6 +427,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 733829,
+      "num": 733829,
+      "word": "张本美和赢了张本智和",
+      "onboard_time": 1697111794,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 727737,
+      "num": 727737,
+      "word": "邓为 头套",
+      "onboard_time": 1697111617,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 716646,
       "num": 669597,
       "word": "美国室友试穿中国明朝藩王吉服",
@@ -425,14 +465,6 @@
       "onboard_time": 1697079757,
       "rank": 13,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 711479,
-      "num": 525917,
-      "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
-      "onboard_time": 1697109873,
-      "rank": 12,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 698408,
@@ -699,6 +731,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 505226,
+      "num": 505226,
+      "word": "迪丽热巴 枭起青壤",
+      "onboard_time": 1697112275,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 503608,
       "num": 399299,
       "word": "外国雇佣兵离开乌克兰赴以色列作战",
@@ -721,6 +761,14 @@
       "onboard_time": 1697091274,
       "rank": 21,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 478943,
+      "num": 478943,
+      "word": "刘宇宁直播回应珠帘玉幕选角风波",
+      "onboard_time": 1697113596,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 468679,
@@ -761,6 +809,14 @@
       "onboard_time": 1697091871,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 439287,
+      "num": 439287,
+      "word": "妈妈用迟接孩子方式教育爱迟到儿子",
+      "onboard_time": 1697112816,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 433256,
@@ -859,6 +915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 398227,
+      "num": 398227,
+      "word": "白鹿范丞丞车内手势舞",
+      "onboard_time": 1697111735,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396016,
       "num": 396016,
       "word": "刘涛健身照",
@@ -881,6 +945,14 @@
       "onboard_time": 1697081857,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 390812,
+      "num": 390812,
+      "word": "叙机场在伊朗外长到访前遭以军空袭",
+      "onboard_time": 1697113234,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 382677,
@@ -1073,6 +1145,14 @@
       "onboard_time": 1697087138,
       "rank": 22,
       "category": "幽默,网红"
+    },
+    {
+      "raw_hot": 321754,
+      "num": 321754,
+      "word": "燃冬",
+      "onboard_time": 1697113175,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 319023,
@@ -1299,6 +1379,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 270909,
+      "num": 262013,
+      "word": "巴以大规模冲突进入第五天",
+      "onboard_time": 1697110773,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 270446,
       "num": 270446,
       "word": "背了两年的包夹层是个纸壳子",
@@ -1321,6 +1409,14 @@
       "onboard_time": 1697034580,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 268709,
+      "num": 268709,
+      "word": "韩国地铁站偶遇天官赐福",
+      "onboard_time": 1697113293,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 268578,
@@ -1371,12 +1467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 254814,
+      "num": 253625,
+      "word": "宋雨琦双马尾芭比",
+      "onboard_time": 1697113897,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 252245,
       "num": 252245,
       "word": "方头明有钱后",
       "onboard_time": 1697072018,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 248870,
+      "num": 248870,
+      "word": "荣耀 配色",
+      "onboard_time": 1697112994,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 248397,
@@ -1401,6 +1513,14 @@
       "onboard_time": 1697104113,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246467,
+      "num": 246467,
+      "word": "梁靖崑因伤退赛",
+      "onboard_time": 1697112635,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 245975,
@@ -1451,6 +1571,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 240485,
+      "num": 240485,
+      "word": "温太医 娘娘style",
+      "onboard_time": 1697113414,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240469,
       "num": 240469,
       "word": "女子错用导航上高架交警一路护送下桥",
@@ -1489,6 +1617,14 @@
       "onboard_time": 1697091632,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234971,
+      "num": 234971,
+      "word": "钟汉良坠车戏倒吊一小时",
+      "onboard_time": 1697111314,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 232616,
@@ -1592,6 +1728,14 @@
       "word": "两部古偶在今天开机",
       "onboard_time": 1697082637,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222284,
+      "num": 222284,
+      "word": "张嘉倪 爱看狐狸哭",
+      "onboard_time": 1697113897,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1891,6 +2035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195791,
+      "num": 195791,
+      "word": "徐明浩画展开展",
+      "onboard_time": 1697113897,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195005,
       "num": 169166,
       "word": "伍佰 成都抢票",
@@ -1971,6 +2123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191115,
+      "num": 191115,
+      "word": "珠帘玉幕",
+      "onboard_time": 1697113956,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190760,
       "num": 190760,
       "word": "郑强",
@@ -2041,6 +2201,14 @@
       "onboard_time": 1697032719,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182581,
+      "num": 182581,
+      "word": "福宝的双胞胎妹妹已经长牙会爬了",
+      "onboard_time": 1697112275,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181887,
@@ -2185,6 +2353,14 @@
       "onboard_time": 1697078013,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 166132,
+      "num": 166132,
+      "word": "走丢狗狗被警花照顾后开朗不少",
+      "onboard_time": 1697114016,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166041,
@@ -2505,6 +2681,14 @@
       "onboard_time": 1697066127,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89238,
+      "num": 253941,
+      "word": "智己LS6上市",
+      "onboard_time": 1697112755,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 87486,
