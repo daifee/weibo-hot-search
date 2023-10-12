@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697138031319,
+  "endTime": 1697139235616,
   "band_list": [
     {
       "raw_hot": 1031123,
@@ -451,7 +451,15 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 26402,
+      "raw_hot": 33313,
+      "num": 40176,
+      "word": "男子拆开相框意外发现前女友求婚留言",
+      "onboard_time": 1697138054,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 27087,
       "num": 48294,
       "word": "原来你们委屈想回家的家是这样的",
       "onboard_time": 1697135176,
@@ -459,12 +467,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 18036,
+      "raw_hot": 18993,
       "num": 41919,
       "word": "没认出黄绮珊",
       "onboard_time": 1697106514,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 13448,
+      "num": 40124,
+      "word": "网购搜索平替词",
+      "onboard_time": 1697139073,
+      "rank": 49,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [

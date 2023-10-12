@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 03:13:51
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 03:33:55
 </p>
 </blockquote>
 <p>
@@ -10947,6 +10947,12 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23" target="weibo">
+男子拆开相框意外发现前女友求婚留言（热度：33313）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%88%90%E5%9C%B0%E4%BA%A7%E5%A5%B3%E4%B8%9A%E4%B8%BB%E7%BB%B4%E6%9D%83%E9%81%AD%E4%BF%9D%E5%AE%89%E8%BD%AE%E6%B5%81%E6%B3%BC%E6%B0%B4%23" target="weibo">
 天成地产女业主维权遭保安轮流泼水（热度：32794）
 </a>
@@ -10984,7 +10990,7 @@ aespa将11月10日回归（热度：89406）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BD%A0%E4%BB%AC%E5%A7%94%E5%B1%88%E6%83%B3%E5%9B%9E%E5%AE%B6%E7%9A%84%E5%AE%B6%E6%98%AF%E8%BF%99%E6%A0%B7%E7%9A%84%23" target="weibo">
-原来你们委屈想回家的家是这样的（热度：26402）
+原来你们委屈想回家的家是这样的（热度：27087）
 </a>
 </li>
 
@@ -11045,6 +11051,12 @@ kpop组合专辑总销量TOP9（热度：19014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%94%9F%E4%B9%8B%E5%B9%B4%23" target="weibo">
 有生之年（热度：14965）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E6%90%9C%E7%B4%A2%E5%B9%B3%E6%9B%BF%E8%AF%8D%23" target="weibo">
+网购搜索平替词（热度：13448）
 </a>
 </li>
 
