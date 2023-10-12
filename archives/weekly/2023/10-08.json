@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697102251295,
+  "endTime": 1697103262898,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -1067,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1330138,
+      "num": 1330138,
+      "word": "东部战区回应美机过航台海",
+      "onboard_time": 1697100817,
+      "rank": 10,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 1325047,
       "num": 1325047,
       "word": "边伯贤 抗日神剧",
@@ -1169,6 +1177,14 @@
       "onboard_time": 1697068111,
       "rank": 3,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1222302,
+      "num": 1222302,
+      "word": "广州警方正追查造谣者",
+      "onboard_time": 1697101295,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1220934,
@@ -1409,14 +1425,6 @@
       "onboard_time": 1696689763,
       "rank": 3,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1021474,
-      "num": 740890,
-      "word": "东部战区回应美机过航台海",
-      "onboard_time": 1697100817,
-      "rank": 10,
-      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 1017394,
@@ -1769,14 +1777,6 @@
       "onboard_time": 1696854515,
       "rank": 8,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 842630,
-      "num": 730041,
-      "word": "广州警方正追查造谣者",
-      "onboard_time": 1697101295,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 837610,
@@ -3139,6 +3139,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 549126,
+      "num": 549126,
+      "word": "月入5万舍不得打车",
+      "onboard_time": 1697101773,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 547090,
       "num": 547090,
       "word": "刘雯反应能力好牛",
@@ -3161,6 +3169,14 @@
       "onboard_time": 1696861784,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 542004,
+      "num": 542004,
+      "word": "邓为高马尾长卷发",
+      "onboard_time": 1697099376,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 541788,
@@ -3425,6 +3441,14 @@
       "onboard_time": 1697069134,
       "rank": 14,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 517159,
+      "num": 517159,
+      "word": "打响了反校园偷拿外卖第一枪",
+      "onboard_time": 1697099735,
+      "rank": 17,
+      "category": "其它"
     },
     {
       "raw_hot": 516015,
@@ -3769,14 +3793,6 @@
       "onboard_time": 1696794014,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 478561,
-      "num": 478561,
-      "word": "打响了反校园偷拿外卖第一枪",
-      "onboard_time": 1697099735,
-      "rank": 17,
-      "category": "其它"
     },
     {
       "raw_hot": 476753,
@@ -4499,14 +4515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 403629,
-      "num": 403629,
-      "word": "邓为高马尾长卷发",
-      "onboard_time": 1697099376,
-      "rank": 36,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 403120,
       "num": 280279,
       "word": "第一批旅游发毒誓的00后已经决裂了",
@@ -5201,6 +5209,14 @@
       "onboard_time": 1696742617,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358173,
+      "num": 234733,
+      "word": "美军将派第二艘航母支持以色列",
+      "onboard_time": 1697102854,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 358100,
@@ -6049,6 +6065,14 @@
       "onboard_time": 1696734935,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 310562,
+      "num": 310562,
+      "word": "女子被偷10多件内衣报警后遭辞退",
+      "onboard_time": 1697102676,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 310284,
@@ -7233,14 +7257,6 @@
       "onboard_time": 1696934438,
       "rank": 4,
       "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 263844,
-      "num": 263844,
-      "word": "月入5万舍不得打车",
-      "onboard_time": 1697101773,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 263754,
@@ -9025,6 +9041,14 @@
       "onboard_time": 1696945838,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213400,
+      "num": 213400,
+      "word": "周杰伦演唱会提词器",
+      "onboard_time": 1697102018,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 213391,
@@ -11353,14 +11377,6 @@
       "onboard_time": 1696743216,
       "rank": 49,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 168220,
-      "num": 168220,
-      "word": "周杰伦演唱会提词器",
-      "onboard_time": 1697102018,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 168024,
@@ -13779,6 +13795,9 @@
     },
     {
       "word": "#一带一路朋友圈越来越大#"
+    },
+    {
+      "word": "#习近平在江西省考察调研#"
     }
   ]
 }
