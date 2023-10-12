@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 05:34:15
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 06:16:29
 </p>
 </blockquote>
 <p>
@@ -6885,6 +6885,12 @@ TVB台庆剧香港人在北京今日开播（热度：229730）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23" target="weibo">
+男子拆开相框意外发现前女友求婚留言（热度：226541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%A5%BD%E4%BC%98%E9%9B%85%E7%9A%84%E7%BE%8E%23" target="weibo">
 赵丽颖好优雅的美（热度：226486）
 </a>
@@ -10311,12 +10317,6 @@ BDS晋级S13入围赛（热度：121285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23" target="weibo">
-男子拆开相框意外发现前女友求婚留言（热度：110836）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%B4%E9%80%82%E5%90%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%91%B3%E8%95%BE%E7%9A%84%E6%8B%BF%E9%93%81%23" target="weibo">
 更适合中国人味蕾的拿铁（热度：109739）
 </a>
@@ -11019,20 +11019,32 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E6%90%9C%E7%B4%A2%E5%B9%B3%E6%9B%BF%E8%AF%8D%23" target="weibo">
+网购搜索平替词（热度：21971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%9A%84%E5%B1%B1%E8%BF%98%E8%83%BD%E8%BF%99%E6%A0%B7%E7%88%AC%E5%90%97%23" target="weibo">
 浙江的山还能这样爬吗（热度：21533）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E6%90%9C%E7%B4%A2%E5%B9%B3%E6%9B%BF%E8%AF%8D%23" target="weibo">
-网购搜索平替词（热度：21132）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E8%A1%80%E7%AB%A0%E9%B1%BC%E8%B5%B0%E8%B7%AF%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
+吸血章鱼走路的样子（热度：21206）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23kpop%E7%BB%84%E5%90%88%E4%B8%93%E8%BE%91%E6%80%BB%E9%94%80%E9%87%8FTOP9%23" target="weibo">
 kpop组合专辑总销量TOP9（热度：19014）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%B7%AF%E4%BA%BA%E9%83%BD%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84NPC%23" target="weibo">
+东北路人都是隐藏的NPC（热度：16863）
 </a>
 </li>
 
@@ -11063,18 +11075,6 @@ kpop组合专辑总销量TOP9（热度：19014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B1%9F%E4%BA%BA%E5%AE%B6%E5%AE%9A%E6%A1%A3%E5%A4%AE%E4%B8%80%23" target="weibo">
 珠江人家定档央一（热度：14640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%B7%AF%E4%BA%BA%E9%83%BD%E6%98%AF%E9%9A%90%E8%97%8F%E7%9A%84NPC%23" target="weibo">
-东北路人都是隐藏的NPC（热度：13632）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E8%A1%80%E7%AB%A0%E9%B1%BC%E8%B5%B0%E8%B7%AF%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
-吸血章鱼走路的样子（热度：13202）
 </a>
 </li>
 

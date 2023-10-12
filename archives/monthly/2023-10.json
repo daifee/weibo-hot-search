@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697146455424,
+  "endTime": 1697148989477,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -21875,6 +21875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 226541,
+      "num": 226541,
+      "word": "男子拆开相框意外发现前女友求婚留言",
+      "onboard_time": 1697138054,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 226516,
       "num": 226516,
       "word": "中国女篮半场领先日本5分",
@@ -32227,14 +32235,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 110836,
-      "num": 40176,
-      "word": "男子拆开相框意外发现前女友求婚留言",
-      "onboard_time": 1697138054,
-      "rank": 30,
-      "category": "社会新闻,幽默"
-    },
-    {
       "raw_hot": 110775,
       "num": 110775,
       "word": "国庆中秋双节同庆",
@@ -34147,6 +34147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 21971,
+      "num": 40124,
+      "word": "网购搜索平替词",
+      "onboard_time": 1697139073,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 21533,
       "num": 25297,
       "word": "浙江的山还能这样爬吗",
@@ -34155,12 +34163,12 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 21132,
-      "num": 40124,
-      "word": "网购搜索平替词",
-      "onboard_time": 1697139073,
-      "rank": 49,
-      "category": "幽默"
+      "raw_hot": 21206,
+      "num": 37646,
+      "word": "吸血章鱼走路的样子",
+      "onboard_time": 1697144653,
+      "rank": 46,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 19990,
@@ -34211,6 +34219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16863,
+      "num": 39759,
+      "word": "东北路人都是隐藏的NPC",
+      "onboard_time": 1697140093,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16501,
       "num": 19612,
       "word": "亚运会氛围有多欢乐",
@@ -34257,22 +34273,6 @@
       "onboard_time": 1696148618,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13632,
-      "num": 39759,
-      "word": "东北路人都是隐藏的NPC",
-      "onboard_time": 1697140093,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 13202,
-      "num": 37646,
-      "word": "吸血章鱼走路的样子",
-      "onboard_time": 1697144653,
-      "rank": 46,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 13189,
