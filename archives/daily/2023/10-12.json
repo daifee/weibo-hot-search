@@ -1,7 +1,23 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697067256281,
+  "endTime": 1697072982956,
   "band_list": [
+    {
+      "raw_hot": 2793464,
+      "num": 2137003,
+      "word": "北极鲶鱼爷爷退休16年后被捞出",
+      "onboard_time": 1697067811,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2146083,
+      "num": 2146083,
+      "word": "淘宝回应李思思将直播带货",
+      "onboard_time": 1697069978,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1969878,
       "num": 1969878,
@@ -12,11 +28,19 @@
     },
     {
       "raw_hot": 1637823,
-      "num": 304929,
+      "num": 464790,
       "word": "武大男生在图书馆实施性骚扰",
       "onboard_time": 1697027494,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1223020,
+      "num": 1223020,
+      "word": "过度疲劳的6种表现",
+      "onboard_time": 1697068111,
+      "rank": 3,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1196484,
@@ -27,12 +51,36 @@
       "category": "美食,知识科普"
     },
     {
+      "raw_hot": 1127650,
+      "num": 578126,
+      "word": "长期运动对外貌改变有多大",
+      "onboard_time": 1697067029,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 979673,
       "num": 979673,
       "word": "武大回应学生举报图书馆遭性骚扰",
       "onboard_time": 1697042724,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 895664,
+      "num": 895664,
+      "word": "产妇拍下产床抓痕引20万妈妈共鸣",
+      "onboard_time": 1697071477,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 886398,
+      "num": 886398,
+      "word": "巴以冲突已致超过2300人死亡",
+      "onboard_time": 1697068773,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 747801,
@@ -51,6 +99,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 716646,
+      "num": 571766,
+      "word": "美国室友试穿中国明朝藩王吉服",
+      "onboard_time": 1697069075,
+      "rank": 11,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 682039,
+      "num": 519312,
+      "word": "北极鲶鱼",
+      "onboard_time": 1697070339,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649516,
       "num": 304052,
       "word": "武汉大学",
@@ -67,6 +131,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 587771,
+      "num": 587771,
+      "word": "北极鲶鱼捕捞后也要有晾晒",
+      "onboard_time": 1697071477,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581557,
       "num": 581557,
       "word": "男子举报一烟草厂长出轨并生女",
@@ -75,12 +147,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579293,
+      "num": 579293,
+      "word": "于正说连夜更换周也配音",
+      "onboard_time": 1697067268,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 563397,
-      "num": 196638,
+      "num": 507848,
       "word": "张若昀真的把宁理绑去拍庆余年2了",
       "onboard_time": 1697065705,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 557472,
+      "num": 557472,
+      "word": "余华 当当盯上了我的另一部小说",
+      "onboard_time": 1697071659,
+      "rank": 12,
+      "category": "读书作家,电影"
+    },
+    {
+      "raw_hot": 529441,
+      "num": 529441,
+      "word": "罗晋请唐嫣念无双剧组喝奶茶",
+      "onboard_time": 1697069375,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 519685,
+      "num": 519685,
+      "word": "被直播间美颜迫害的吴京",
+      "onboard_time": 1697069134,
+      "rank": 14,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 429992,
@@ -88,6 +192,22 @@
       "word": "白鹿丞磊 朝雪录",
       "onboard_time": 1697036617,
       "rank": 1,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 421628,
+      "num": 342906,
+      "word": "一件事证明你消费降级了",
+      "onboard_time": 1697068293,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 415372,
+      "num": 415372,
+      "word": "丞磊上午被淘汰下午被选上宫尚角",
+      "onboard_time": 1697069675,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -100,11 +220,19 @@
     },
     {
       "raw_hot": 392392,
-      "num": 169032,
+      "num": 212312,
       "word": "女子被7年男友气哭想退婚爸爸力挺",
       "onboard_time": 1697065462,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388866,
+      "num": 342834,
+      "word": "以色列",
+      "onboard_time": 1697072199,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 382677,
@@ -116,7 +244,7 @@
     },
     {
       "raw_hot": 379065,
-      "num": 189062,
+      "num": 271193,
       "word": "颖儿哈萨克公主",
       "onboard_time": 1697052373,
       "rank": 17,
@@ -139,12 +267,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 336627,
+      "num": 336627,
+      "word": "体重秤被室友压碎了",
+      "onboard_time": 1697067210,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 326801,
       "num": 326801,
       "word": "野生大熊猫破坏相机怼脸画面",
       "onboard_time": 1697065462,
       "rank": 9,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 325718,
+      "num": 325718,
+      "word": "长相思演唱会",
+      "onboard_time": 1697069915,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 323557,
+      "num": 323557,
+      "word": "傅首尔太清醒了",
+      "onboard_time": 1697071537,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 318226,
@@ -155,6 +307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 313659,
+      "num": 313659,
+      "word": "经常用牙线会让牙缝变宽吗",
+      "onboard_time": 1697067029,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 308015,
       "num": 308015,
       "word": "贾玲缺席王牌8的原因",
@@ -163,12 +323,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 300035,
+      "num": 300035,
+      "word": "山东男孩于文亮10天涨粉超百万",
+      "onboard_time": 1697068595,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 298705,
       "num": 298705,
       "word": "以色列议员呼吁使用末日武器",
       "onboard_time": 1697017776,
       "rank": 19,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 288640,
+      "num": 288640,
+      "word": "邱少云被火烧过的棉衣残片看得泪目",
+      "onboard_time": 1697068293,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 278866,
+      "num": 278866,
+      "word": "关晓彤王牌对王牌哭了",
+      "onboard_time": 1697068354,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 271398,
@@ -203,12 +387,28 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 235196,
+      "num": 235196,
+      "word": "方头明有钱后",
+      "onboard_time": 1697072018,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 229431,
       "num": 299193,
       "word": "罗翔谈PPT曝光渣男渣女",
       "onboard_time": 1697018858,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 228052,
+      "num": 228052,
+      "word": "救市后为何还是没人买房",
+      "onboard_time": 1697065525,
+      "rank": 34,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 225023,
@@ -243,20 +443,20 @@
       "category": "其它"
     },
     {
-      "raw_hot": 206652,
-      "num": 139803,
-      "word": "长期运动对外貌改变有多大",
-      "onboard_time": 1697067029,
-      "rank": 30,
-      "category": "运动健身"
+      "raw_hot": 210043,
+      "num": 210043,
+      "word": "保洁阿姨把我的洗澡刷当马桶刷了",
+      "onboard_time": 1697070157,
+      "rank": 35,
+      "category": "情感"
     },
     {
-      "raw_hot": 205267,
-      "num": 137456,
-      "word": "经常用牙线会让牙缝变宽吗",
-      "onboard_time": 1697067029,
-      "rank": 31,
-      "category": "知识科普"
+      "raw_hot": 203982,
+      "num": 203982,
+      "word": "25岁残疾小伙多次蜕变成为技校老师",
+      "onboard_time": 1697072499,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200499,
@@ -275,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198566,
+      "num": 198566,
+      "word": "周杰伦开不了口2001年现场",
+      "onboard_time": 1697069735,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194589,
       "num": 305904,
       "word": "潜水员韩颋被找到",
@@ -283,12 +491,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 191462,
+      "num": 191462,
+      "word": "在机场勇敢的退了一块钱",
+      "onboard_time": 1697069015,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 185225,
       "num": 185225,
       "word": "我替朱一龙感到尴尬",
       "onboard_time": 1697032719,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 180071,
+      "num": 180071,
+      "word": "IVE MINE",
+      "onboard_time": 1697070216,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 178203,
@@ -379,20 +603,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143097,
-      "num": 143097,
-      "word": "救市后为何还是没人买房",
-      "onboard_time": 1697065525,
-      "rank": 34,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 139563,
       "num": 139563,
       "word": "灯光是蓝绿红橙的 凯子心情是黑色的",
       "onboard_time": 1697028516,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 138751,
+      "num": 138751,
+      "word": "五月天演唱会知足哥",
+      "onboard_time": 1697072917,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 135195,
@@ -539,14 +763,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 81035,
-      "num": 89305,
-      "word": "体重秤被室友压碎了",
-      "onboard_time": 1697067210,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 80690,
       "num": 96069,
       "word": "JINI回应退出NMIXX的原因",
@@ -627,8 +843,8 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 28297,
-      "num": 809879,
+      "raw_hot": 36387,
+      "num": 1360792,
       "word": "一带一路一往无前",
       "onboard_time": 1697028578,
       "rank": 2,
