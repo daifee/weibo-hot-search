@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697142896717,
+  "endTime": 1697145299586,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -14003,6 +14003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88624,
+      "num": 40176,
+      "word": "男子拆开相框意外发现前女友求婚留言",
+      "onboard_time": 1697138054,
+      "rank": 30,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 88182,
       "num": 88182,
       "word": "没想到大树竟然也分雌雄",
@@ -14265,14 +14273,6 @@
       "onboard_time": 1697042846,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 61444,
-      "num": 40176,
-      "word": "男子拆开相框意外发现前女友求婚留言",
-      "onboard_time": 1697138054,
-      "rank": 30,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 60374,
@@ -14739,6 +14739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13306,
+      "num": 39759,
+      "word": "东北路人都是隐藏的NPC",
+      "onboard_time": 1697140093,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 13061,
       "num": 17521,
       "word": "闪亮的你",
@@ -14755,20 +14763,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13011,
-      "num": 39759,
-      "word": "东北路人都是隐藏的NPC",
-      "onboard_time": 1697140093,
-      "rank": 49,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 12546,
       "num": 37185,
       "word": "SNH48 Number One",
       "onboard_time": 1697054474,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12499,
+      "num": 17179,
+      "word": "吸血章鱼走路的样子",
+      "onboard_time": 1697144653,
+      "rank": 46,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 11861,

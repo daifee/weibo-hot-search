@@ -1,0 +1,410 @@
+{
+  "runTime": 1697145299586,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 83756,
+        "num": 83756,
+        "word": "6男生自助火锅店喝111瓶酸梅汤",
+        "onboard_time": 1697118162,
+        "rank": 0,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 64969,
+        "num": 64969,
+        "word": "巴以大规模冲突进入第五天",
+        "onboard_time": 1697110773,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 11236,
+        "num": 50001,
+        "word": "荔枝与车厘子的丝路之旅",
+        "onboard_time": 1697117084,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 47952,
+        "num": 47952,
+        "word": "20岁女生裸辞用76天穷游22个城市",
+        "onboard_time": 1697116360,
+        "rank": 3,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 47855,
+        "num": 47855,
+        "word": "中科大拟撤销英语本科专业",
+        "onboard_time": 1697124218,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 38759,
+        "num": 38759,
+        "word": "合资车退出中国市场意味着什么",
+        "onboard_time": 1697130800,
+        "rank": 5,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 37029,
+        "num": 37029,
+        "word": "多名公费师范毕业生未履约被通报",
+        "onboard_time": 1697122723,
+        "rank": 6,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 34069,
+        "num": 34069,
+        "word": "中国手机的美颜功能到了非洲改了",
+        "onboard_time": 1697119427,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 31771,
+        "num": 31771,
+        "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
+        "onboard_time": 1697109873,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30052,
+        "num": 30052,
+        "word": "张嘉倪 爱看狐狸哭",
+        "onboard_time": 1697113897,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88624,
+        "num": 28978,
+        "word": "男子拆开相框意外发现前女友求婚留言",
+        "onboard_time": 1697138054,
+        "rank": 10,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 56235,
+        "num": 28938,
+        "word": "以色列空袭叙利亚两座机场",
+        "onboard_time": 1697111134,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 39342,
+        "num": 28486,
+        "word": "韩国女厕给外国人带来的冲击",
+        "onboard_time": 1697105134,
+        "rank": 12,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 26989,
+        "num": 26989,
+        "word": "杨超越 一言难尽的滤镜",
+        "onboard_time": 1697115337,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33011,
+        "num": 26975,
+        "word": "叙利亚",
+        "onboard_time": 1697111914,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 26887,
+        "num": 26887,
+        "word": "被德国面包划伤食道",
+        "onboard_time": 1697116779,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24781,
+        "num": 24781,
+        "word": "这已经是小朋友的天花板了",
+        "onboard_time": 1697124698,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30013,
+        "num": 24096,
+        "word": "美军将派第二艘航母支持以色列",
+        "onboard_time": 1697102854,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 23295,
+        "num": 23295,
+        "word": "折腰",
+        "onboard_time": 1697117385,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21800,
+        "num": 21800,
+        "word": "白敬亭上下半身有季节差",
+        "onboard_time": 1697118229,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24855,
+        "num": 21777,
+        "word": "李子柒复出卡在哪了",
+        "onboard_time": 1697118641,
+        "rank": 20,
+        "category": "网红,社会新闻"
+      },
+      {
+        "raw_hot": 21708,
+        "num": 21708,
+        "word": "支原体肺炎",
+        "onboard_time": 1697105317,
+        "rank": 21,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 20334,
+        "num": 20334,
+        "word": "黄晓明帮六公主发微博",
+        "onboard_time": 1697125297,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20145,
+        "num": 20145,
+        "word": "珠帘玉幕",
+        "onboard_time": 1697113956,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19397,
+        "num": 19397,
+        "word": "张凌赫回应炎症女孩",
+        "onboard_time": 1697119724,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19332,
+        "num": 19332,
+        "word": "女子怀孕5个月被房东知道后退租",
+        "onboard_time": 1697086477,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18731,
+        "num": 18731,
+        "word": "披荆斩棘的哥哥 演唱会",
+        "onboard_time": 1697107535,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18552,
+        "num": 18552,
+        "word": "原来你们委屈想回家的家是这样的",
+        "onboard_time": 1697135176,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18497,
+        "num": 18497,
+        "word": "韩国济州岛买水果",
+        "onboard_time": 1697124097,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17625,
+        "num": 17625,
+        "word": "失明老人收音机损坏寒夜独行购买",
+        "onboard_time": 1697126733,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19641,
+        "num": 17611,
+        "word": "网购搜索平替词",
+        "onboard_time": 1697139073,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18394,
+        "num": 17459,
+        "word": "刘宇宁回应折腰相关",
+        "onboard_time": 1697115698,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 17220,
+        "num": 17220,
+        "word": "郑强回应婚内出轨包养情妇",
+        "onboard_time": 1697088035,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16877,
+        "num": 17218,
+        "word": "问心",
+        "onboard_time": 1697123259,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16626,
+        "num": 17214,
+        "word": "网友卖周杰伦演唱会阳台票",
+        "onboard_time": 1697124517,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16409,
+        "num": 17211,
+        "word": "全国统一放抹布位置",
+        "onboard_time": 1697118229,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15785,
+        "num": 17208,
+        "word": "邓为 头套",
+        "onboard_time": 1697111617,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15588,
+        "num": 17207,
+        "word": "刘宇宁直播回应珠帘玉幕选角风波",
+        "onboard_time": 1697113596,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15387,
+        "num": 17203,
+        "word": "任子威回应落选世界杯阵容",
+        "onboard_time": 1697123139,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15278,
+        "num": 17199,
+        "word": "徐梦洁从头到脚都是毛线",
+        "onboard_time": 1697122365,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14527,
+        "num": 17198,
+        "word": "调整中国人民银行职责机构编制",
+        "onboard_time": 1697122240,
+        "rank": 40,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 14312,
+        "num": 17193,
+        "word": "观众评朱一龙的表现是前所未有",
+        "onboard_time": 1697125533,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14285,
+        "num": 17189,
+        "word": "黄晓明双剧收视率好抗打",
+        "onboard_time": 1697108794,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14212,
+        "num": 17186,
+        "word": "沈腾说孟子义叫孟子作",
+        "onboard_time": 1697127091,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13306,
+        "num": 17185,
+        "word": "东北路人都是隐藏的NPC",
+        "onboard_time": 1697140093,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12836,
+        "num": 17180,
+        "word": "迪丽热巴 枭起青壤",
+        "onboard_time": 1697112275,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12499,
+        "num": 17179,
+        "word": "吸血章鱼走路的样子",
+        "onboard_time": 1697144653,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 12104,
+        "num": 17175,
+        "word": "燃冬",
+        "onboard_time": 1697113175,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11941,
+        "num": 17170,
+        "word": "张艺兴吃了粉丝推荐的菜",
+        "onboard_time": 1697122837,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11793,
+        "num": 17169,
+        "word": "黄绮珊别唱了我没眼泪了",
+        "onboard_time": 1697119665,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越不同地域共唱繁荣之路#"
+    }
+  }
+}
