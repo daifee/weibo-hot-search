@@ -1,0 +1,410 @@
+{
+  "runTime": 1697115030361,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1950417,
+        "num": 1950417,
+        "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
+        "onboard_time": 1697109873,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1633368,
+        "num": 1633368,
+        "word": "以色列空袭叙利亚两座机场",
+        "onboard_time": 1697111134,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 23452,
+        "num": 1264457,
+        "word": "在阿根廷采撷多彩风情",
+        "onboard_time": 1697097997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 985075,
+        "num": 985075,
+        "word": "刘宇宁直播回应珠帘玉幕选角风波",
+        "onboard_time": 1697113596,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 740773,
+        "num": 740773,
+        "word": "邓为 头套",
+        "onboard_time": 1697111617,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 668644,
+        "num": 668644,
+        "word": "张本美和赢了张本智和",
+        "onboard_time": 1697111794,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660194,
+        "num": 660194,
+        "word": "张嘉倪 爱看狐狸哭",
+        "onboard_time": 1697113897,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 570011,
+        "num": 570011,
+        "word": "郭宝昌去世",
+        "onboard_time": 1697097876,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 565483,
+        "num": 565483,
+        "word": "女子怀孕5个月被房东知道后退租",
+        "onboard_time": 1697086477,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 447882,
+        "num": 447882,
+        "word": "妈妈用迟接孩子方式教育爱迟到儿子",
+        "onboard_time": 1697112816,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934568,
+        "num": 443778,
+        "word": "叙利亚",
+        "onboard_time": 1697111914,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 841198,
+        "num": 434524,
+        "word": "韩国女厕给外国人带来的冲击",
+        "onboard_time": 1697105134,
+        "rank": 11,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 556726,
+        "num": 427522,
+        "word": "没认出黄绮珊",
+        "onboard_time": 1697106514,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589900,
+        "num": 417535,
+        "word": "叙机场在伊朗外长到访前遭以军空袭",
+        "onboard_time": 1697113234,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 417307,
+        "num": 417307,
+        "word": "燃冬",
+        "onboard_time": 1697113175,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410821,
+        "num": 410821,
+        "word": "韩国地铁站偶遇天官赐福",
+        "onboard_time": 1697113293,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 406714,
+        "num": 406714,
+        "word": "郑强回应婚内出轨包养情妇",
+        "onboard_time": 1697088035,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394429,
+        "num": 394429,
+        "word": "迪丽热巴 枭起青壤",
+        "onboard_time": 1697112275,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367889,
+        "num": 367889,
+        "word": "白鹿范丞丞车内手势舞",
+        "onboard_time": 1697111735,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312098,
+        "num": 312098,
+        "word": "钧正平辟谣解放军击落美军巡逻机",
+        "onboard_time": 1697109694,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 322460,
+        "num": 310566,
+        "word": "珠帘玉幕",
+        "onboard_time": 1697113956,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295114,
+        "num": 295114,
+        "word": "张艺谋 天堂仍有大宅门",
+        "onboard_time": 1697105317,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277765,
+        "num": 277765,
+        "word": "马龙回应球迷喊巴黎见",
+        "onboard_time": 1697114377,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270902,
+        "num": 270902,
+        "word": "黄晓明双剧收视率好抗打",
+        "onboard_time": 1697108794,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270826,
+        "num": 270826,
+        "word": "美军将派第二艘航母支持以色列",
+        "onboard_time": 1697102854,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 269485,
+        "num": 269485,
+        "word": "支原体肺炎",
+        "onboard_time": 1697105317,
+        "rank": 25,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 110961,
+        "num": 261564,
+        "word": "智己LS6上市",
+        "onboard_time": 1697112755,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 257277,
+        "num": 257277,
+        "word": "巴以大规模冲突进入第五天",
+        "onboard_time": 1697110773,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 244994,
+        "num": 244994,
+        "word": "温太医 娘娘style",
+        "onboard_time": 1697113414,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244779,
+        "num": 244779,
+        "word": "宋雨琦双马尾芭比",
+        "onboard_time": 1697113897,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 237456,
+        "num": 237456,
+        "word": "苏醒愿意降价去密逃恐怖本",
+        "onboard_time": 1697114196,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236347,
+        "num": 236347,
+        "word": "钟汉良坠车戏倒吊一小时",
+        "onboard_time": 1697111314,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233180,
+        "num": 233180,
+        "word": "周也公主小妹即视感",
+        "onboard_time": 1697106034,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224554,
+        "num": 224554,
+        "word": "黄宗泽新剧尺度",
+        "onboard_time": 1697110116,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212505,
+        "num": 212505,
+        "word": "荣耀 配色",
+        "onboard_time": 1697112994,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220002,
+        "num": 212439,
+        "word": "披荆斩棘的哥哥 演唱会",
+        "onboard_time": 1697107535,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107787,
+        "num": 212283,
+        "word": "荣耀连发3款折叠屏抢占高端用户",
+        "onboard_time": 1697114795,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212180,
+        "num": 212180,
+        "word": "全红婵弟弟 鱼啊",
+        "onboard_time": 1697085638,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210639,
+        "num": 210639,
+        "word": "梁靖崑因伤退赛",
+        "onboard_time": 1697112635,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208961,
+        "num": 208961,
+        "word": "王嘉尔把中华太极带上英国杂志",
+        "onboard_time": 1697114619,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204377,
+        "num": 204377,
+        "word": "女儿继承因公牺牲父亲生前警号",
+        "onboard_time": 1697103513,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193830,
+        "num": 193830,
+        "word": "徐明浩画展开展",
+        "onboard_time": 1697113897,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189901,
+        "num": 189901,
+        "word": "令人心动的offer是档恋综吧",
+        "onboard_time": 1697108195,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185176,
+        "num": 185176,
+        "word": "走丢狗狗被警花照顾后开朗不少",
+        "onboard_time": 1697114016,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183315,
+        "num": 183315,
+        "word": "年轻人开始去高溢价生活了",
+        "onboard_time": 1697106935,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180230,
+        "num": 180230,
+        "word": "智己LS6",
+        "onboard_time": 1697114916,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178380,
+        "num": 178380,
+        "word": "成都市教育局回应初中生校内身亡",
+        "onboard_time": 1697107954,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174113,
+        "num": 174113,
+        "word": "福宝的双胞胎妹妹已经长牙会爬了",
+        "onboard_time": 1697112275,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162388,
+        "num": 162388,
+        "word": "女子被偷10多件内衣报警后遭辞退",
+        "onboard_time": 1697102676,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156894,
+        "num": 156894,
+        "word": "我国去年出生人口956万",
+        "onboard_time": 1697094099,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平在江西省考察调研#"
+    }
+  }
+}

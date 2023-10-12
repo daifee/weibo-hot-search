@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697114035067,
+  "endTime": 1697115030361,
   "band_list": [
     {
       "raw_hot": 3783613,
@@ -315,6 +315,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 985075,
+      "num": 985075,
+      "word": "刘宇宁直播回应珠帘玉幕选角风波",
+      "onboard_time": 1697113596,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 979673,
       "num": 979673,
       "word": "武大回应学生举报图书馆遭性骚扰",
@@ -411,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 740773,
+      "num": 740773,
+      "word": "邓为 头套",
+      "onboard_time": 1697111617,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 739886,
       "num": 304593,
       "word": "刘宪华直播连麦连了一屋子人",
@@ -433,14 +449,6 @@
       "onboard_time": 1697111794,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 727737,
-      "num": 727737,
-      "word": "邓为 头套",
-      "onboard_time": 1697111617,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 716646,
@@ -515,6 +523,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 660194,
+      "num": 660194,
+      "word": "张嘉倪 爱看狐狸哭",
+      "onboard_time": 1697113897,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 659510,
       "num": 659510,
       "word": "王哲林结婚",
@@ -585,6 +601,14 @@
       "onboard_time": 1697106875,
       "rank": 35,
       "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 589900,
+      "num": 417535,
+      "word": "叙机场在伊朗外长到访前遭以军空袭",
+      "onboard_time": 1697113234,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 587894,
@@ -763,14 +787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 478943,
-      "num": 478943,
-      "word": "刘宇宁直播回应珠帘玉幕选角风波",
-      "onboard_time": 1697113596,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 468679,
       "num": 468679,
       "word": "周也公主小妹即视感",
@@ -803,20 +819,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 447882,
+      "num": 447882,
+      "word": "妈妈用迟接孩子方式教育爱迟到儿子",
+      "onboard_time": 1697112816,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 443354,
       "num": 443354,
       "word": "阿信听到粉丝买黄牛的反应",
       "onboard_time": 1697091871,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 439287,
-      "num": 439287,
-      "word": "妈妈用迟接孩子方式教育爱迟到儿子",
-      "onboard_time": 1697112816,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 433256,
@@ -875,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417307,
+      "num": 417307,
+      "word": "燃冬",
+      "onboard_time": 1697113175,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 415372,
       "num": 415372,
       "word": "丞磊上午被淘汰下午被选上宫尚角",
@@ -889,6 +913,14 @@
       "onboard_time": 1697095896,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410821,
+      "num": 410821,
+      "word": "韩国地铁站偶遇天官赐福",
+      "onboard_time": 1697113293,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 408378,
@@ -945,14 +977,6 @@
       "onboard_time": 1697081857,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390812,
-      "num": 390812,
-      "word": "叙机场在伊朗外长到访前遭以军空袭",
-      "onboard_time": 1697113234,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 382677,
@@ -1147,12 +1171,12 @@
       "category": "幽默,网红"
     },
     {
-      "raw_hot": 321754,
-      "num": 321754,
-      "word": "燃冬",
-      "onboard_time": 1697113175,
-      "rank": 20,
-      "category": "电影"
+      "raw_hot": 322460,
+      "num": 310566,
+      "word": "珠帘玉幕",
+      "onboard_time": 1697113956,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 319023,
@@ -1347,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277765,
+      "num": 277765,
+      "word": "马龙回应球迷喊巴黎见",
+      "onboard_time": 1697114377,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 274486,
       "num": 274486,
       "word": "赵今麦张凌赫度华年定妆照",
@@ -1409,14 +1441,6 @@
       "onboard_time": 1697034580,
       "rank": 23,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 268709,
-      "num": 268709,
-      "word": "韩国地铁站偶遇天官赐福",
-      "onboard_time": 1697113293,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 268578,
@@ -1539,6 +1563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244994,
+      "num": 244994,
+      "word": "温太医 娘娘style",
+      "onboard_time": 1697113414,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244792,
       "num": 299924,
       "word": "姜典撞脸Doinb",
@@ -1569,14 +1601,6 @@
       "onboard_time": 1697087916,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 240485,
-      "num": 240485,
-      "word": "温太医 娘娘style",
-      "onboard_time": 1697113414,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 240469,
@@ -1611,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 237456,
+      "num": 237456,
+      "word": "苏醒愿意降价去密逃恐怖本",
+      "onboard_time": 1697114196,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236828,
       "num": 236828,
       "word": "16岁男生捡废品创业被赞很帅",
@@ -1619,8 +1651,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234971,
-      "num": 234971,
+      "raw_hot": 236347,
+      "num": 236347,
       "word": "钟汉良坠车戏倒吊一小时",
       "onboard_time": 1697111314,
       "rank": 34,
@@ -1728,14 +1760,6 @@
       "word": "两部古偶在今天开机",
       "onboard_time": 1697082637,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 222284,
-      "num": 222284,
-      "word": "张嘉倪 爱看狐狸哭",
-      "onboard_time": 1697113897,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1857,6 +1881,14 @@
       "onboard_time": 1697070157,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208961,
+      "num": 208961,
+      "word": "王嘉尔把中华太极带上英国杂志",
+      "onboard_time": 1697114619,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208442,
@@ -2123,14 +2155,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191115,
-      "num": 191115,
-      "word": "珠帘玉幕",
-      "onboard_time": 1697113956,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 190760,
       "num": 190760,
       "word": "郑强",
@@ -2203,6 +2227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185176,
+      "num": 185176,
+      "word": "走丢狗狗被警花照顾后开朗不少",
+      "onboard_time": 1697114016,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182581,
       "num": 182581,
       "word": "福宝的双胞胎妹妹已经长牙会爬了",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1697088936,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180230,
+      "num": 180230,
+      "word": "智己LS6",
+      "onboard_time": 1697114916,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 180071,
@@ -2353,14 +2393,6 @@
       "onboard_time": 1697078013,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 166132,
-      "num": 166132,
-      "word": "走丢狗狗被警花照顾后开朗不少",
-      "onboard_time": 1697114016,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166041,
@@ -2619,6 +2651,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110961,
+      "num": 261564,
+      "word": "智己LS6上市",
+      "onboard_time": 1697112755,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 107787,
+      "num": 212283,
+      "word": "荣耀连发3款折叠屏抢占高端用户",
+      "onboard_time": 1697114795,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105512,
       "num": 105512,
       "word": "老爷爷路边亲密喂食一群麻雀",
@@ -2681,14 +2729,6 @@
       "onboard_time": 1697066127,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 89238,
-      "num": 253941,
-      "word": "智己LS6上市",
-      "onboard_time": 1697112755,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 87486,

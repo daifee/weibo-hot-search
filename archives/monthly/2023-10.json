@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697114035067,
+  "endTime": 1697115030361,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -3931,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 985075,
+      "num": 985075,
+      "word": "刘宇宁直播回应珠帘玉幕选角风波",
+      "onboard_time": 1697113596,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 984761,
       "num": 984761,
       "word": "马龙外战",
@@ -5803,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740773,
+      "num": 740773,
+      "word": "邓为 头套",
+      "onboard_time": 1697111617,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 739898,
       "num": 646841,
       "word": "亚运会闭幕式只用一块草坪",
@@ -5969,14 +5985,6 @@
       "onboard_time": 1696329396,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 727737,
-      "num": 727737,
-      "word": "邓为 头套",
-      "onboard_time": 1697111617,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 727635,
@@ -6777,6 +6785,14 @@
       "onboard_time": 1696465529,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 660194,
+      "num": 660194,
+      "word": "张嘉倪 爱看狐狸哭",
+      "onboard_time": 1697113897,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 659781,
@@ -7937,6 +7953,14 @@
       "onboard_time": 1696637140,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 589900,
+      "num": 417535,
+      "word": "叙机场在伊朗外长到访前遭以军空袭",
+      "onboard_time": 1697113234,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 589869,
@@ -10051,14 +10075,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 478943,
-      "num": 478943,
-      "word": "刘宇宁直播回应珠帘玉幕选角风波",
-      "onboard_time": 1697113596,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 478777,
       "num": 511286,
       "word": "乒乓球比赛现场喔声一片",
@@ -10899,6 +10915,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 447882,
+      "num": 447882,
+      "word": "妈妈用迟接孩子方式教育爱迟到儿子",
+      "onboard_time": 1697112816,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447791,
       "num": 447791,
       "word": "我们的歌A组合唱在路上",
@@ -11129,14 +11153,6 @@
       "onboard_time": 1696894228,
       "rank": 36,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 439287,
-      "num": 439287,
-      "word": "妈妈用迟接孩子方式教育爱迟到儿子",
-      "onboard_time": 1697112816,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 439054,
@@ -11619,6 +11635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 417307,
+      "num": 417307,
+      "word": "燃冬",
+      "onboard_time": 1697113175,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
       "raw_hot": 417189,
       "num": 290385,
       "word": "杭州亚运会首发现兴奋剂阳性案例",
@@ -11729,6 +11753,14 @@
       "onboard_time": 1696430078,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 410821,
+      "num": 410821,
+      "word": "韩国地铁站偶遇天官赐福",
+      "onboard_time": 1697113293,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 410322,
@@ -12353,14 +12385,6 @@
       "onboard_time": 1696729774,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 390812,
-      "num": 390812,
-      "word": "叙机场在伊朗外长到访前遭以军空袭",
-      "onboard_time": 1697113234,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 390619,
@@ -15163,14 +15187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321754,
-      "num": 321754,
-      "word": "燃冬",
-      "onboard_time": 1697113175,
-      "rank": 20,
-      "category": "电影"
-    },
-    {
       "raw_hot": 321584,
       "num": 321584,
       "word": "虞书欣赐梦初舞台",
@@ -17675,6 +17691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 277765,
+      "num": 277765,
+      "word": "马龙回应球迷喊巴黎见",
+      "onboard_time": 1697114377,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 277675,
       "num": 277675,
       "word": "毛晓彤说这届同事太难带了",
@@ -18361,14 +18385,6 @@
       "onboard_time": 1696584333,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268709,
-      "num": 268709,
-      "word": "韩国地铁站偶遇天官赐福",
-      "onboard_time": 1697113293,
-      "rank": 25,
-      "category": "动漫"
     },
     {
       "raw_hot": 268578,
@@ -20131,6 +20147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 244994,
+      "num": 244994,
+      "word": "温太医 娘娘style",
+      "onboard_time": 1697113414,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 244967,
       "num": 244967,
       "word": "听说很好吃全员出题式官宣",
@@ -20467,14 +20491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240485,
-      "num": 240485,
-      "word": "温太医 娘娘style",
-      "onboard_time": 1697113414,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 240469,
       "num": 240469,
       "word": "女子错用导航上高架交警一路护送下桥",
@@ -20707,6 +20723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237456,
+      "num": 237456,
+      "word": "苏醒愿意降价去密逃恐怖本",
+      "onboard_time": 1697114196,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237453,
       "num": 237453,
       "word": "蜜雪冰城在2003年是家常菜馆",
@@ -20785,6 +20809,14 @@
       "onboard_time": 1697015675,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236347,
+      "num": 236347,
+      "word": "钟汉良坠车戏倒吊一小时",
+      "onboard_time": 1697111314,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 236283,
@@ -20921,14 +20953,6 @@
       "onboard_time": 1696580316,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234971,
-      "num": 234971,
-      "word": "钟汉良坠车戏倒吊一小时",
-      "onboard_time": 1697111314,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 234922,
@@ -22049,14 +22073,6 @@
       "onboard_time": 1696768958,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 222284,
-      "num": 222284,
-      "word": "张嘉倪 爱看狐狸哭",
-      "onboard_time": 1697113897,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 222143,
@@ -23225,6 +23241,14 @@
       "onboard_time": 1696494392,
       "rank": 26,
       "category": "体育,音乐"
+    },
+    {
+      "raw_hot": 208961,
+      "num": 208961,
+      "word": "王嘉尔把中华太极带上英国杂志",
+      "onboard_time": 1697114619,
+      "rank": 39,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 208809,
@@ -26363,6 +26387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185176,
+      "num": 185176,
+      "word": "走丢狗狗被警花照顾后开朗不少",
+      "onboard_time": 1697114016,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185111,
       "num": 185111,
       "word": "不要怀疑自己胜利的秘诀就是相信自己",
@@ -26945,6 +26977,14 @@
       "onboard_time": 1697088936,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180230,
+      "num": 180230,
+      "word": "智己LS6",
+      "onboard_time": 1697114916,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 180071,
@@ -28257,14 +28297,6 @@
       "onboard_time": 1696485634,
       "rank": 37,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 166132,
-      "num": 166132,
-      "word": "走丢狗狗被警花照顾后开朗不少",
-      "onboard_time": 1697114016,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 166108,
@@ -31755,6 +31787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 110961,
+      "num": 261564,
+      "word": "智己LS6上市",
+      "onboard_time": 1697112755,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 110775,
       "num": 110775,
       "word": "国庆中秋双节同庆",
@@ -31817,6 +31857,14 @@
       "onboard_time": 1696175675,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107787,
+      "num": 212283,
+      "word": "荣耀连发3款折叠屏抢占高端用户",
+      "onboard_time": 1697114795,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 107458,
@@ -32209,14 +32257,6 @@
       "onboard_time": 1696980449,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 89238,
-      "num": 253941,
-      "word": "智己LS6上市",
-      "onboard_time": 1697112755,
-      "rank": 27,
-      "category": "汽车"
     },
     {
       "raw_hot": 89028,
