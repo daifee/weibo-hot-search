@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697098926924,
+  "endTime": 1697099720464,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -387,6 +387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2136098,
+      "num": 1567571,
+      "word": "三名中国公民在巴以冲突中遇难",
+      "onboard_time": 1697096258,
+      "rank": 5,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 2131648,
       "num": 1005661,
       "word": "以色列25岁女学生音乐节上被哈马斯掳走",
@@ -435,14 +443,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2093476,
-      "num": 1296431,
-      "word": "三名中国公民在巴以冲突中遇难",
-      "onboard_time": 1697096258,
-      "rank": 5,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 2082572,
       "num": 1856386,
       "word": "北京下雪",
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 2031971,
-      "num": 1584576,
+      "num": 1706897,
       "word": "郑强回应婚内出轨包养情妇",
       "onboard_time": 1697088035,
       "rank": 4,
@@ -649,6 +649,14 @@
       "onboard_time": 1696949980,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1842757,
+      "num": 1842757,
+      "word": "郭宝昌去世",
+      "onboard_time": 1697097876,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 1839945,
@@ -1121,14 +1129,6 @@
       "onboard_time": 1696688262,
       "rank": 0,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1267326,
-      "num": 1267326,
-      "word": "郭宝昌去世",
-      "onboard_time": 1697097876,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 1244759,
@@ -1745,6 +1745,14 @@
       "onboard_time": 1696921356,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 835725,
+      "num": 835725,
+      "word": "可口可乐 好利来",
+      "onboard_time": 1697097216,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 829544,
@@ -2497,14 +2505,6 @@
       "onboard_time": 1697003133,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 641529,
-      "num": 641529,
-      "word": "可口可乐 好利来",
-      "onboard_time": 1697097216,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 640841,
@@ -5411,6 +5411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 344554,
+      "num": 344554,
+      "word": "卢昱晓奔跑吧昆明录制",
+      "onboard_time": 1697099137,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343791,
       "num": 313573,
       "word": "螃蟹价格与去年比几乎腰斩",
@@ -5833,6 +5841,14 @@
       "onboard_time": 1697028936,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 319023,
+      "num": 319023,
+      "word": "网传中石油官员称1升等于800毫升是假的",
+      "onboard_time": 1697098594,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 318323,
@@ -6331,6 +6347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 294374,
+      "num": 294374,
+      "word": "黄健翔爆粗骂国足脸都不要了",
+      "onboard_time": 1697097577,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294321,
       "num": 269569,
       "word": "张元英美式女高造型",
@@ -6361,14 +6385,6 @@
       "onboard_time": 1696821458,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 291281,
-      "num": 291281,
-      "word": "黄健翔爆粗骂国足脸都不要了",
-      "onboard_time": 1697097577,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 291109,
@@ -7203,6 +7219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 262922,
+      "num": 262922,
+      "word": "巴以冲突",
+      "onboard_time": 1696721609,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 262604,
       "num": 262604,
       "word": "WBG租借DRX基地",
@@ -7715,6 +7739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 245975,
+      "num": 245975,
+      "word": "中药界的C位",
+      "onboard_time": 1697096195,
+      "rank": 30,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 245944,
       "num": 245944,
       "word": "30年只用平价护肤品的皮肤状态",
@@ -8065,14 +8097,6 @@
       "onboard_time": 1696824338,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 236869,
-      "num": 236869,
-      "word": "中药界的C位",
-      "onboard_time": 1697096195,
-      "rank": 30,
-      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 236828,
@@ -9715,14 +9739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 198864,
-      "num": 198864,
-      "word": "网传中石油官员称1升等于800毫升是假的",
-      "onboard_time": 1697098594,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 198675,
       "num": 198675,
       "word": "阿森纳1比0曼城",
@@ -9777,14 +9793,6 @@
       "onboard_time": 1696899577,
       "rank": 39,
       "category": "幽默,社会新闻"
-    },
-    {
-      "raw_hot": 198144,
-      "num": 198144,
-      "word": "巴以冲突",
-      "onboard_time": 1696721609,
-      "rank": 48,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 197669,
@@ -10041,6 +10049,14 @@
       "onboard_time": 1696914400,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 192906,
+      "num": 192906,
+      "word": "邓为高马尾长卷发",
+      "onboard_time": 1697099376,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192670,
@@ -10417,6 +10433,14 @@
       "onboard_time": 1697025514,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 186162,
+      "num": 186162,
+      "word": "狗狗接女主人下班仔细检查每个路人",
+      "onboard_time": 1697099078,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186073,
@@ -13355,6 +13379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41988,
+      "num": 2082528,
+      "word": "在阿根廷采撷多彩风情",
+      "onboard_time": 1697097997,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 41544,
       "num": 67141,
       "word": "问心东立小分队救人好燃",
@@ -13399,14 +13431,6 @@
       "num": 1718644,
       "word": "一带一路一往无前",
       "onboard_time": 1697028578,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35291,
-      "num": 2024690,
-      "word": "在阿根廷采撷多彩风情",
-      "onboard_time": 1697097997,
       "rank": 2,
       "category": "社会新闻"
     },

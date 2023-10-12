@@ -1,0 +1,410 @@
+{
+  "runTime": 1697099720464,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3356980,
+        "num": 3356980,
+        "word": "跑男",
+        "onboard_time": 1697088215,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2573353,
+        "num": 2573353,
+        "word": "男子广州地铁猥亵女子被行拘",
+        "onboard_time": 1697097577,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41988,
+        "num": 2082528,
+        "word": "在阿根廷采撷多彩风情",
+        "onboard_time": 1697097997,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1842757,
+        "num": 1842757,
+        "word": "郭宝昌去世",
+        "onboard_time": 1697097876,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1706897,
+        "num": 1706897,
+        "word": "郑强回应婚内出轨包养情妇",
+        "onboard_time": 1697088035,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2136098,
+        "num": 1567571,
+        "word": "三名中国公民在巴以冲突中遇难",
+        "onboard_time": 1697096258,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1172568,
+        "num": 1172568,
+        "word": "我国去年出生人口956万",
+        "onboard_time": 1697094099,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906036,
+        "num": 906036,
+        "word": "靳东 济南大学",
+        "onboard_time": 1697093375,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835725,
+        "num": 835725,
+        "word": "可口可乐 好利来",
+        "onboard_time": 1697097216,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 827690,
+        "num": 827690,
+        "word": "高铁上拒绝了宝爹妈的换座后",
+        "onboard_time": 1697089414,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 949704,
+        "num": 827302,
+        "word": "跑男录制现场站姐站满了一艘船",
+        "onboard_time": 1697094934,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 820105,
+        "num": 820105,
+        "word": "女子怀孕5个月被房东知道后退租",
+        "onboard_time": 1697086477,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643992,
+        "num": 643992,
+        "word": "LV卖不动了吗",
+        "onboard_time": 1697095417,
+        "rank": 12,
+        "category": "时尚,财经"
+      },
+      {
+        "raw_hot": 559561,
+        "num": 559561,
+        "word": "全红婵弟弟 鱼啊",
+        "onboard_time": 1697085638,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 512889,
+        "num": 512889,
+        "word": "陈情令版权已到期",
+        "onboard_time": 1697093013,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495433,
+        "num": 495433,
+        "word": "小米社区误杀了雷军账号",
+        "onboard_time": 1697095716,
+        "rank": 15,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 409843,
+        "num": 409843,
+        "word": "杨立新杨玏父子到底谁在撒谎",
+        "onboard_time": 1697087198,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378240,
+        "num": 378240,
+        "word": "阿信听到粉丝买黄牛的反应",
+        "onboard_time": 1697091871,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 362734,
+        "num": 362734,
+        "word": "雪中悍刀行女主",
+        "onboard_time": 1697084978,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344554,
+        "num": 344554,
+        "word": "卢昱晓奔跑吧昆明录制",
+        "onboard_time": 1697099137,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339846,
+        "num": 339846,
+        "word": "当事人回应举报郑强",
+        "onboard_time": 1697095896,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319023,
+        "num": 319023,
+        "word": "网传中石油官员称1升等于800毫升是假的",
+        "onboard_time": 1697098594,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296563,
+        "num": 296563,
+        "word": "邓为一下子就掀开了",
+        "onboard_time": 1697091274,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 294374,
+        "num": 294374,
+        "word": "黄健翔爆粗骂国足脸都不要了",
+        "onboard_time": 1697097577,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293218,
+        "num": 293218,
+        "word": "华为发布全球首个全系列5.5G解决方案",
+        "onboard_time": 1697097457,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 289975,
+        "num": 289975,
+        "word": "广州警方通报乘客裙子现不明液体",
+        "onboard_time": 1697090615,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282899,
+        "num": 282899,
+        "word": "女子网购包一月后发现陌生人身份证",
+        "onboard_time": 1697092415,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274641,
+        "num": 274641,
+        "word": "王哲林结婚",
+        "onboard_time": 1697093493,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262922,
+        "num": 262922,
+        "word": "巴以冲突",
+        "onboard_time": 1697097757,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 260878,
+        "num": 260878,
+        "word": "刘涛健身照",
+        "onboard_time": 1697093915,
+        "rank": 29,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 252866,
+        "num": 252866,
+        "word": "张真源八年从等看跑男到录跑男",
+        "onboard_time": 1697096557,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245975,
+        "num": 245975,
+        "word": "中药界的C位",
+        "onboard_time": 1697096195,
+        "rank": 31,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 244794,
+        "num": 244794,
+        "word": "李沁一年十封",
+        "onboard_time": 1697093194,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 226918,
+        "num": 226918,
+        "word": "范丞丞脖子怎么这么长",
+        "onboard_time": 1697094875,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214553,
+        "num": 214553,
+        "word": "当潦草小狗见到潦草小马",
+        "onboard_time": 1697079813,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202699,
+        "num": 202699,
+        "word": "猪猪侠 恋爱脑",
+        "onboard_time": 1697096258,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 192906,
+        "num": 192906,
+        "word": "邓为高马尾长卷发",
+        "onboard_time": 1697099376,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191463,
+        "num": 191463,
+        "word": "田曦薇唱的时候尴尬吗",
+        "onboard_time": 1697098475,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188540,
+        "num": 188540,
+        "word": "罗翔称上名校不仅靠努力更靠命",
+        "onboard_time": 1697095417,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 188144,
+        "num": 188144,
+        "word": "太原理工大学回应郑强被举报",
+        "onboard_time": 1697095476,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186162,
+        "num": 186162,
+        "word": "狗狗接女主人下班仔细检查每个路人",
+        "onboard_time": 1697099078,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171697,
+        "num": 171697,
+        "word": "白敬亭正当防卫开机路透",
+        "onboard_time": 1697096374,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170782,
+        "num": 170782,
+        "word": "杨紫长相思收官庆典VCR",
+        "onboard_time": 1697095476,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170617,
+        "num": 170617,
+        "word": "向涵之开机照",
+        "onboard_time": 1697096676,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170260,
+        "num": 170260,
+        "word": "东北银渐层是懂配合交班的",
+        "onboard_time": 1697095654,
+        "rank": 44,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 153843,
+        "num": 153843,
+        "word": "警方回应武大学生举报图书馆遭性骚扰",
+        "onboard_time": 1697089355,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152836,
+        "num": 152836,
+        "word": "完颜慧德",
+        "onboard_time": 1697081857,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 142412,
+        "num": 142412,
+        "word": "李昀锐有妹妹会介绍给黄曦彦的原因",
+        "onboard_time": 1697095236,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138819,
+        "num": 138819,
+        "word": "秦霄贤不想坐伊能静旁边",
+        "onboard_time": 1697092773,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135931,
+        "num": 135931,
+        "word": "张凌赫赵今麦身高差",
+        "onboard_time": 1697094214,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路朋友圈越来越大#"
+    }
+  }
+}
