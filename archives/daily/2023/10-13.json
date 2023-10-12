@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697130944824,
+  "endTime": 1697132060490,
   "band_list": [
     {
       "raw_hot": 1031123,
@@ -395,6 +395,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 93302,
+      "num": 93302,
+      "word": "合资车退出中国市场意味着什么",
+      "onboard_time": 1697130800,
+      "rank": 45,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 84606,
       "num": 84606,
       "word": "摩羯座的浪漫都藏在行动里",
@@ -411,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51488,
-      "num": 68337,
-      "word": "合资车退出中国市场意味着什么",
-      "onboard_time": 1697130800,
-      "rank": 45,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 47901,
       "num": 68323,
       "word": "披荆斩棘的哥哥 演唱会",
@@ -433,6 +433,14 @@
       "onboard_time": 1697117084,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 38049,
+      "num": 59438,
+      "word": "黄晓明双剧收视率好抗打",
+      "onboard_time": 1697108794,
+      "rank": 45,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
