@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697078042540,
+  "endTime": 1697080638803,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1912308,
+      "num": 1912308,
+      "word": "李晓鹏被逮捕",
+      "onboard_time": 1697078253,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1888594,
       "num": 1888594,
       "word": "是东北菜量大不是东北菜量大",
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1654560,
+      "num": 1654560,
+      "word": "海底捞 洗头",
+      "onboard_time": 1697079395,
+      "rank": 3,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1643228,
       "num": 1643228,
       "word": "张小斐新片尺度",
@@ -745,6 +761,14 @@
       "onboard_time": 1696980449,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1554809,
+      "num": 1554809,
+      "word": "为什么耳朵里面会长这种痘",
+      "onboard_time": 1697077052,
+      "rank": 11,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1552038,
@@ -947,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1314390,
+      "num": 776105,
+      "word": "以色列",
+      "onboard_time": 1696661376,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1302987,
       "num": 1302987,
       "word": "每坐1小时平均寿命缩短22分钟",
@@ -1027,6 +1059,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 1186946,
+      "num": 1186946,
+      "word": "刘暖曦视频号直播4次后被投诉永久禁播",
+      "onboard_time": 1697076634,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1186413,
       "num": 1186413,
       "word": "李子柒油管粉丝不降反升",
@@ -1081,14 +1121,6 @@
       "onboard_time": 1696722694,
       "rank": 5,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 1129327,
-      "num": 1129327,
-      "word": "刘暖曦视频号直播4次后被投诉永久禁播",
-      "onboard_time": 1697076634,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1127650,
@@ -1555,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 852803,
-      "num": 852803,
-      "word": "为什么耳朵里面会长这种痘",
-      "onboard_time": 1697077052,
-      "rank": 11,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 852552,
       "num": 852552,
       "word": "你吃的油很可能早过期了",
@@ -1801,14 +1825,6 @@
       "onboard_time": 1696813179,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 776105,
-      "num": 776105,
-      "word": "以色列",
-      "onboard_time": 1696661376,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 773440,
@@ -2521,6 +2537,14 @@
       "onboard_time": 1696741363,
       "rank": 25,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 605414,
+      "num": 605414,
+      "word": "的哥回应网传高速甩客致乘客身亡",
+      "onboard_time": 1697076334,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 605396,
@@ -3723,6 +3747,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 450047,
+      "num": 450047,
+      "word": "当潦草小狗见到潦草小马",
+      "onboard_time": 1697079813,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 449814,
       "num": 449814,
       "word": "网传GQ盛典出席明星",
@@ -3841,6 +3873,14 @@
       "onboard_time": 1696894228,
       "rank": 36,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 437273,
+      "num": 437273,
+      "word": "台湾人的输入法",
+      "onboard_time": 1697078913,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 433338,
@@ -3979,6 +4019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418812,
+      "num": 418812,
+      "word": "脑白金 褪黑素",
+      "onboard_time": 1697079757,
+      "rank": 13,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 417910,
       "num": 393229,
       "word": "赵丽颖红美甲",
@@ -4025,6 +4073,14 @@
       "onboard_time": 1696766914,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 411710,
+      "num": 411710,
+      "word": "蒲熠星快被考试逼疯了",
+      "onboard_time": 1697079698,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 409240,
@@ -4427,6 +4483,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 377087,
+      "num": 377087,
+      "word": "高铁能不能出个大学生车厢",
+      "onboard_time": 1697078554,
+      "rank": 19,
+      "category": "情感"
+    },
+    {
       "raw_hot": 376945,
       "num": 376945,
       "word": "侧躺玩手机 斜视",
@@ -4721,6 +4785,14 @@
       "onboard_time": 1696817316,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 358034,
+      "num": 358034,
+      "word": "招聘月薪和实际薪资是两回事",
+      "onboard_time": 1697078554,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 357347,
@@ -5443,6 +5515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 312330,
+      "num": 412142,
+      "word": "青藏高原发现距今2.2亿年鲨鱼化石",
+      "onboard_time": 1697079212,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 311947,
       "num": 311947,
       "word": "孟宴臣出圈名场面",
@@ -5553,6 +5633,14 @@
       "onboard_time": 1696712054,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 306988,
+      "num": 306988,
+      "word": "奶茶最不能容忍的小料",
+      "onboard_time": 1697079698,
+      "rank": 23,
+      "category": "美食"
     },
     {
       "raw_hot": 306182,
@@ -6563,6 +6651,14 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 264105,
+      "num": 264105,
+      "word": "gidle将参加S13粉丝音乐会",
+      "onboard_time": 1697078913,
+      "rank": 25,
+      "category": "游戏,音乐"
+    },
+    {
       "raw_hot": 263946,
       "num": 1369896,
       "word": "大熊猫花花迪拜式吃笋",
@@ -7083,6 +7179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 247429,
+      "num": 253361,
+      "word": "父母举家南迁支持女儿当乡村教师",
+      "onboard_time": 1697078794,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 247345,
       "num": 247345,
       "word": "周柯宇经纪公司声明",
@@ -7371,6 +7475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 238163,
+      "num": 238163,
+      "word": "赵今麦张凌赫度华年定妆照",
+      "onboard_time": 1697078614,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 238052,
       "num": 238052,
       "word": "莲花楼 无痛背单词",
@@ -7616,6 +7728,14 @@
       "word": "沈小婷肖俊Galileo Challenge",
       "onboard_time": 1696949862,
       "rank": 36,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 231660,
+      "num": 231660,
+      "word": "2024格莱美报名名单",
+      "onboard_time": 1697079934,
+      "rank": 33,
       "category": "音乐"
     },
     {
@@ -8355,6 +8475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 208351,
+      "num": 208351,
+      "word": "原来这是左撇子被纠正的原因",
+      "onboard_time": 1697077114,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 208170,
       "num": 208170,
       "word": "亚运闭幕式大莲花变身大花园",
@@ -8627,6 +8755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 203768,
+      "num": 203768,
+      "word": "田耕纪",
+      "onboard_time": 1697079994,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203603,
       "num": 203603,
       "word": "新娘疯狂使眼色暗示新郎找婚鞋",
@@ -8761,6 +8897,14 @@
       "onboard_time": 1696941936,
       "rank": 29,
       "category": "军事"
+    },
+    {
+      "raw_hot": 201131,
+      "num": 205252,
+      "word": "向鹏刘炜珊混双晋级决赛",
+      "onboard_time": 1697080297,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 200965,
@@ -8905,6 +9049,14 @@
       "onboard_time": 1696916316,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 198324,
+      "num": 198324,
+      "word": "正当防卫",
+      "onboard_time": 1697077715,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 198269,
@@ -9153,14 +9305,6 @@
       "onboard_time": 1696749995,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192486,
-      "num": 192486,
-      "word": "原来这是左撇子被纠正的原因",
-      "onboard_time": 1697077114,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 191732,
@@ -9512,6 +9656,14 @@
       "word": "少年歌行3定档",
       "onboard_time": 1697003013,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 185912,
+      "num": 170392,
+      "word": "关晓彤撑伞有那味儿了",
+      "onboard_time": 1697077773,
+      "rank": 39,
       "category": "剧集"
     },
     {
@@ -10195,14 +10347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170392,
-      "num": 170392,
-      "word": "关晓彤撑伞有那味儿了",
-      "onboard_time": 1697077773,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170381,
       "num": 170381,
       "word": "女儿凌晨3点起床帮妈妈剥玉米",
@@ -10675,6 +10819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 157392,
+      "num": 382990,
+      "word": "折叠屏一折遮三丑的时代已经过去",
+      "onboard_time": 1697078013,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 157342,
       "num": 157342,
       "word": "钟汉良 为真相还一束正义的光",
@@ -10849,14 +11001,6 @@
       "onboard_time": 1696893145,
       "rank": 30,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 151516,
-      "num": 151516,
-      "word": "正当防卫",
-      "onboard_time": 1697077715,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 151473,
@@ -11747,6 +11891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98905,
+      "num": 1697840,
+      "word": "黄河九碗面哪碗让你念念不忘",
+      "onboard_time": 1697079635,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98333,
       "num": 1913884,
       "word": "全国网络普法行四川站",
@@ -11937,14 +12089,6 @@
       "onboard_time": 1696718118,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79759,
-      "num": 146218,
-      "word": "折叠屏一折遮三丑的时代已经过去",
-      "onboard_time": 1697078013,
-      "rank": 49,
-      "category": "数码"
     },
     {
       "raw_hot": 79394,
