@@ -1,6 +1,6 @@
 {
   "startTime": 1697041320717,
-  "endTime": 1697099720464,
+  "endTime": 1697102251295,
   "band_list": [
     {
       "raw_hot": 3783613,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2299160,
+      "num": 2299160,
+      "word": "郭宝昌去世",
+      "onboard_time": 1697097876,
+      "rank": 6,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2146083,
       "num": 2146083,
       "word": "淘宝回应李思思将直播带货",
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1976724,
+      "num": 1976724,
+      "word": "广州地铁称珠江新城站一切如常",
+      "onboard_time": 1697100095,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1969878,
       "num": 1969878,
       "word": "周杰伦演唱会前黄牛集体退票",
@@ -123,19 +139,19 @@
       "category": "社会新闻,演出"
     },
     {
-      "raw_hot": 1842757,
-      "num": 1842757,
-      "word": "郭宝昌去世",
-      "onboard_time": 1697097876,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1637823,
       "num": 464790,
       "word": "武大男生在图书馆实施性骚扰",
       "onboard_time": 1697027494,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1632315,
+      "num": 1632315,
+      "word": "网传广州地铁遭恐怖袭击是谣言",
+      "onboard_time": 1697101175,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -227,12 +243,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 1120225,
+      "num": 1120225,
+      "word": "可口可乐 好利来",
+      "onboard_time": 1697097216,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 1042784,
       "num": 931918,
       "word": "巴勒斯坦一女婴空袭中丧生父亲痛哭",
       "onboard_time": 1697081557,
       "rank": 30,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1021474,
+      "num": 740890,
+      "word": "东部战区回应美机过航台海",
+      "onboard_time": 1697100817,
+      "rank": 10,
+      "category": "国内要闻,军事"
     },
     {
       "raw_hot": 979673,
@@ -267,12 +299,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 835725,
-      "num": 835725,
-      "word": "可口可乐 好利来",
-      "onboard_time": 1697097216,
-      "rank": 12,
-      "category": "美食"
+      "raw_hot": 842630,
+      "num": 730041,
+      "word": "广州警方正追查造谣者",
+      "onboard_time": 1697101295,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 801220,
@@ -579,6 +611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 478561,
+      "num": 478561,
+      "word": "打响了反校园偷拿外卖第一枪",
+      "onboard_time": 1697099735,
+      "rank": 17,
+      "category": "其它"
+    },
+    {
       "raw_hot": 459993,
       "num": 459993,
       "word": "赵露思对接否认出演姜泥",
@@ -673,6 +713,14 @@
       "onboard_time": 1697080116,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 403629,
+      "num": 403629,
+      "word": "邓为高马尾长卷发",
+      "onboard_time": 1697099376,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 403287,
@@ -817,6 +865,14 @@
       "onboard_time": 1697099137,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 342191,
+      "num": 342191,
+      "word": "看来我是星期六出生的孩子",
+      "onboard_time": 1697100696,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 336980,
@@ -1043,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273578,
+      "num": 273578,
+      "word": "巴以冲突",
+      "onboard_time": 1697097757,
+      "rank": 39,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 271398,
       "num": 271398,
       "word": "原来公积金是这样用的",
@@ -1099,12 +1163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 262922,
-      "num": 262922,
-      "word": "巴以冲突",
-      "onboard_time": 1697097757,
-      "rank": 39,
-      "category": "国外要闻"
+      "raw_hot": 263844,
+      "num": 263844,
+      "word": "月入5万舍不得打车",
+      "onboard_time": 1697101773,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261020,
@@ -1467,6 +1531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206797,
+      "num": 206797,
+      "word": "陈若琳当年有多牛",
+      "onboard_time": 1697099917,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 206737,
       "num": 206737,
       "word": "周也醉酒戏",
@@ -1505,6 +1577,14 @@
       "onboard_time": 1697080297,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200551,
+      "num": 200551,
+      "word": "共创之夜阵容官宣",
+      "onboard_time": 1697101595,
+      "rank": 37,
+      "category": "游戏,艺人"
     },
     {
       "raw_hot": 200499,
@@ -1603,12 +1683,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192906,
-      "num": 192906,
-      "word": "邓为高马尾长卷发",
-      "onboard_time": 1697099376,
-      "rank": 36,
-      "category": "作品衍生,时尚"
+      "raw_hot": 193308,
+      "num": 193308,
+      "word": "WTT太原站首批参赛名单",
+      "onboard_time": 1697102073,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 191622,
@@ -1795,6 +1875,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 168220,
+      "num": 168220,
+      "word": "周杰伦演唱会提词器",
+      "onboard_time": 1697102018,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 167808,
       "num": 382990,
       "word": "折叠屏一折遮三丑的时代已经过去",
@@ -1904,6 +1992,14 @@
       "word": "青藏高原发现异形菊石化石",
       "onboard_time": 1697035299,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 141820,
+      "num": 141820,
+      "word": "消防员奶爸训练搜二代坐滑梯萌翻了",
+      "onboard_time": 1697100095,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -2115,6 +2211,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 55183,
+      "num": 2082528,
+      "word": "在阿根廷采撷多彩风情",
+      "onboard_time": 1697097997,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 44848,
       "num": 67146,
       "word": "什么环境下会促成infp",
@@ -2129,14 +2233,6 @@
       "onboard_time": 1697051954,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 41988,
-      "num": 2082528,
-      "word": "在阿根廷采撷多彩风情",
-      "onboard_time": 1697097997,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 41544,
