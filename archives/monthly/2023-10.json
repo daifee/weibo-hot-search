@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697109288335,
+  "endTime": 1697110458159,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -4179,6 +4179,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 949713,
+      "num": 574515,
+      "word": "没认出黄绮珊",
+      "onboard_time": 1697106514,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 945504,
       "num": 945504,
       "word": "陈佳鹏逆转",
@@ -4457,14 +4465,6 @@
       "onboard_time": 1696680275,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 890194,
-      "num": 574515,
-      "word": "没认出黄绮珊",
-      "onboard_time": 1697106514,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 889757,
@@ -6107,6 +6107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 711479,
+      "num": 525917,
+      "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
+      "onboard_time": 1697109873,
+      "rank": 12,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 711042,
       "num": 442130,
       "word": "彩票中了100万后的12小时",
@@ -6641,6 +6649,14 @@
       "onboard_time": 1696575754,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 668534,
+      "num": 517645,
+      "word": "钧正平辟谣解放军击落美军巡逻机",
+      "onboard_time": 1697109694,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 668157,
@@ -8401,6 +8417,14 @@
       "onboard_time": 1696857033,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 557524,
+      "num": 557524,
+      "word": "黄晓明双剧收视率好抗打",
+      "onboard_time": 1697108794,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 557189,
@@ -10307,20 +10331,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 468679,
+      "num": 468679,
+      "word": "周也公主小妹即视感",
+      "onboard_time": 1697106034,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 468511,
       "num": 468511,
       "word": "4K镜头下的巨型蛀牙",
       "onboard_time": 1696227334,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 468086,
-      "num": 468086,
-      "word": "周也公主小妹即视感",
-      "onboard_time": 1697106034,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 467393,
@@ -11353,6 +11377,14 @@
       "onboard_time": 1696919316,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 423992,
+      "num": 423992,
+      "word": "成都市教育局回应初中生校内身亡",
+      "onboard_time": 1697107954,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 423733,
@@ -12993,14 +13025,6 @@
       "onboard_time": 1696587939,
       "rank": 20,
       "category": "演出"
-    },
-    {
-      "raw_hot": 368659,
-      "num": 368659,
-      "word": "成都市教育局回应初中生校内身亡",
-      "onboard_time": 1697107954,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 368551,
@@ -15899,6 +15923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 303399,
+      "num": 303399,
+      "word": "黄宗泽新剧尺度",
+      "onboard_time": 1697110116,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302537,
       "num": 4584095,
       "word": "满街五星红旗是中国人的浪漫",
@@ -17243,6 +17275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 282045,
+      "num": 282045,
+      "word": "令人心动的offer是档恋综吧",
+      "onboard_time": 1697108195,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 282013,
       "num": 272989,
       "word": "女子冒充男人与闺蜜恋爱",
@@ -17825,14 +17865,6 @@
       "onboard_time": 1696255364,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 273922,
-      "num": 273922,
-      "word": "令人心动的offer是档恋综吧",
-      "onboard_time": 1697108195,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 273848,
@@ -19889,14 +19921,6 @@
       "onboard_time": 1696757196,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 245690,
-      "num": 245690,
-      "word": "黄晓明双剧收视率好抗打",
-      "onboard_time": 1697108794,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 245526,
@@ -25595,6 +25619,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 190179,
+      "num": 190179,
+      "word": "为有暗香来",
+      "onboard_time": 1697109452,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190053,
       "num": 190053,
       "word": "田嘉瑞辅导林子烨反被拿捏",
@@ -26883,6 +26915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179014,
+      "num": 179014,
+      "word": "又有范丞丞综艺看了",
+      "onboard_time": 1697109816,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178959,
       "num": 178959,
       "word": "薛之谦常州",
@@ -27539,6 +27579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171969,
+      "num": 171969,
+      "word": "南风知我意",
+      "onboard_time": 1697110174,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171841,
       "num": 171841,
       "word": "关晓彤韩东君新剧定档",
@@ -27553,6 +27601,14 @@
       "onboard_time": 1696692456,
       "rank": 44,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 171535,
+      "num": 171535,
+      "word": "日食记 超大盒提拉米苏",
+      "onboard_time": 1697109095,
+      "rank": 47,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 171411,
@@ -28689,6 +28745,14 @@
       "onboard_time": 1696979967,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 159298,
+      "num": 159298,
+      "word": "虞书欣暴走小杰",
+      "onboard_time": 1697109816,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 159270,
@@ -30113,14 +30177,6 @@
       "onboard_time": 1696779633,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140380,
-      "num": 140380,
-      "word": "日食记 超大盒提拉米苏",
-      "onboard_time": 1697109095,
-      "rank": 47,
-      "category": "美食,动漫"
     },
     {
       "raw_hot": 140355,
@@ -32147,6 +32203,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80564,
+      "num": 500965,
+      "word": "初入职场法医季2收官",
+      "onboard_time": 1697108434,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 80047,
       "num": 80047,
       "word": "萌兰太火民警化身人潮中的定海神针",
@@ -32593,14 +32657,6 @@
       "onboard_time": 1696213531,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 59713,
-      "num": 452249,
-      "word": "初入职场法医季2收官",
-      "onboard_time": 1697108434,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 59353,
