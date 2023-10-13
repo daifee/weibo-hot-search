@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697203365309,
+  "endTime": 1697204055884,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2764533,
+      "num": 2764533,
+      "word": "杨威自曝要终身佩戴呼吸机",
+      "onboard_time": 1697200236,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2750075,
       "num": 532754,
       "word": "宋祖儿 折腰",
@@ -233,14 +241,6 @@
       "onboard_time": 1697079395,
       "rank": 3,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2699222,
-      "num": 2699222,
-      "word": "杨威自曝要终身佩戴呼吸机",
-      "onboard_time": 1697200236,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 2654165,
@@ -1339,6 +1339,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1313337,
+      "num": 1313337,
+      "word": "2岁男孩被关3天没吃饭其父亲手机关机",
+      "onboard_time": 1697201495,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1302987,
       "num": 1302987,
       "word": "每坐1小时平均寿命缩短22分钟",
@@ -1681,14 +1689,6 @@
       "onboard_time": 1696942359,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1045092,
-      "num": 1045092,
-      "word": "2岁男孩被关3天没吃饭其父亲手机关机",
-      "onboard_time": 1697201495,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1044661,
@@ -3075,6 +3075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 656728,
+      "num": 547552,
+      "word": "赵丽颖去布拉格了",
+      "onboard_time": 1697199874,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 655447,
       "num": 655447,
       "word": "张艺兴也掏出了压箱底的衣服",
@@ -3177,14 +3185,6 @@
       "onboard_time": 1697003133,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 642640,
-      "num": 547552,
-      "word": "赵丽颖去布拉格了",
-      "onboard_time": 1697199874,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 640841,
@@ -5187,6 +5187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 447595,
+      "num": 447595,
+      "word": "画个大浓妆去见仇人",
+      "onboard_time": 1697198736,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 446634,
       "num": 446634,
       "word": "我的助理不简单定档",
@@ -5555,14 +5563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 410087,
-      "num": 410087,
-      "word": "画个大浓妆去见仇人",
-      "onboard_time": 1697198736,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 409240,
       "num": 409240,
       "word": "TTG对阵eStar",
@@ -5649,6 +5649,14 @@
       "onboard_time": 1696827639,
       "rank": 30,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 403029,
+      "num": 403029,
+      "word": "王艺迪3比2王曼昱",
+      "onboard_time": 1697202994,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 401783,
@@ -6796,7 +6804,7 @@
     },
     {
       "raw_hot": 343389,
-      "num": 297099,
+      "num": 343041,
       "word": "刘聪 抢票",
       "onboard_time": 1697200595,
       "rank": 30,
@@ -7265,14 +7273,6 @@
       "onboard_time": 1696668159,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 322387,
-      "num": 322387,
-      "word": "王艺迪3比2王曼昱",
-      "onboard_time": 1697202994,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 321989,
@@ -8475,6 +8475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 276550,
+      "num": 211527,
+      "word": "当我相信了新疆人说的简单吃一点",
+      "onboard_time": 1697202396,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 276462,
       "num": 276462,
       "word": "寒露",
@@ -9331,6 +9339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 254581,
+      "num": 254581,
+      "word": "大闸蟹入侵英国多地",
+      "onboard_time": 1697202276,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 254273,
       "num": 254273,
       "word": "cp30",
@@ -9585,6 +9601,14 @@
       "onboard_time": 1696940556,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247826,
+      "num": 247826,
+      "word": "张小斐新片被王子异掐脖子爆青筋",
+      "onboard_time": 1697201795,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 247549,
@@ -10483,14 +10507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229663,
-      "num": 204485,
-      "word": "当我相信了新疆人说的简单吃一点",
-      "onboard_time": 1697202396,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 228938,
       "num": 228938,
       "word": "周恺跪地庆祝",
@@ -10619,6 +10635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226261,
+      "num": 226261,
+      "word": "日本4比1加拿大",
+      "onboard_time": 1697202813,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 226119,
       "num": 226119,
       "word": "原来有人一天工作18个小时",
@@ -10697,14 +10721,6 @@
       "onboard_time": 1696687961,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224473,
-      "num": 224473,
-      "word": "张小斐新片被王子异掐脖子爆青筋",
-      "onboard_time": 1697201795,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 224352,
@@ -10889,6 +10905,14 @@
       "onboard_time": 1697117263,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 220529,
+      "num": 220529,
+      "word": "AG全员拉满",
+      "onboard_time": 1697203294,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 220120,
@@ -11323,6 +11347,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 210557,
+      "num": 210557,
+      "word": "汪峰首次回应热搜梗",
+      "onboard_time": 1697202576,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210496,
       "num": 210496,
       "word": "Bin新发色",
@@ -11417,6 +11449,14 @@
       "onboard_time": 1697017776,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 209090,
+      "num": 209090,
+      "word": "校园暴力时保护我的女生结婚了",
+      "onboard_time": 1697202034,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 208961,
@@ -11547,6 +11587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207109,
+      "num": 207109,
+      "word": "重返未来1999",
+      "onboard_time": 1697203176,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 207093,
       "num": 207093,
       "word": "SEVENTEEN新专歌曲取样试听",
@@ -11643,14 +11691,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 206548,
-      "num": 206548,
-      "word": "日本4比1加拿大",
-      "onboard_time": 1697202813,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206479,
       "num": 206479,
       "word": "梅西复出替补",
@@ -11745,14 +11785,6 @@
       "onboard_time": 1696770639,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 204910,
-      "num": 204910,
-      "word": "校园暴力时保护我的女生结婚了",
-      "onboard_time": 1697202034,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 204849,
@@ -12451,6 +12483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195999,
+      "num": 195999,
+      "word": "你还关注武汉大学性骚扰哪些细节",
+      "onboard_time": 1697203235,
+      "rank": 45,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 195791,
       "num": 195791,
       "word": "徐明浩画展开展",
@@ -12993,14 +13033,6 @@
       "onboard_time": 1697012436,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189169,
-      "num": 189169,
-      "word": "汪峰首次回应热搜梗",
-      "onboard_time": 1697202576,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 189069,
@@ -13715,14 +13747,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178423,
-      "num": 178423,
-      "word": "大闸蟹入侵英国多地",
-      "onboard_time": 1697202276,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 178203,
       "num": 178203,
       "word": "中国短道速滑队集训名单",
@@ -13923,6 +13947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 173569,
+      "num": 209090,
+      "word": "吴宣仪穿搭",
+      "onboard_time": 1697200955,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173432,
       "num": 173432,
       "word": "原神4.1",
@@ -13979,12 +14011,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 172659,
-      "num": 172659,
-      "word": "重返未来1999",
-      "onboard_time": 1697203176,
-      "rank": 38,
-      "category": "游戏"
+      "raw_hot": 172735,
+      "num": 172735,
+      "word": "KPL",
+      "onboard_time": 1697203956,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 172438,
@@ -14499,12 +14531,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161274,
+      "num": 161274,
+      "word": "乐队的夏天",
+      "onboard_time": 1697203655,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161057,
       "num": 161057,
       "word": "没想到芋泥做的春卷这么好吃",
       "onboard_time": 1696930232,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161053,
+      "num": 161053,
+      "word": "白鹿被周深笑到扶墙",
+      "onboard_time": 1697203535,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 160884,
@@ -14907,6 +14955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 155050,
+      "num": 155050,
+      "word": "林逸对周筱然的爱意藏不住喽",
+      "onboard_time": 1697203715,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153996,
       "num": 153996,
       "word": "卢昱晓等饭版Lulu",
@@ -15025,6 +15081,14 @@
       "onboard_time": 1696928013,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150429,
+      "num": 150429,
+      "word": "隐藏内衣肩带穿搭",
+      "onboard_time": 1697203116,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 149799,
@@ -15195,14 +15259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145410,
-      "num": 209090,
-      "word": "吴宣仪穿搭",
-      "onboard_time": 1697200955,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 145198,
       "num": 145198,
       "word": "边防战士爬刀背坡巡逻守界碑",
@@ -15291,14 +15347,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 142031,
-      "num": 142031,
-      "word": "你还关注武汉大学性骚扰哪些细节",
-      "onboard_time": 1697203235,
-      "rank": 45,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 141937,
       "num": 141937,
       "word": "徐娇晒马甲线",
@@ -15329,22 +15377,6 @@
       "onboard_time": 1696723235,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 141470,
-      "num": 141470,
-      "word": "隐藏内衣肩带穿搭",
-      "onboard_time": 1697203116,
-      "rank": 46,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 141321,
-      "num": 141321,
-      "word": "AG全员拉满",
-      "onboard_time": 1697203294,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 140384,
@@ -17075,6 +17107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 25159,
+      "num": 1563403,
+      "word": "照片里的青春",
+      "onboard_time": 1697085820,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24978,
       "num": 48168,
       "word": "网购搜索平替词",
@@ -17129,14 +17169,6 @@
       "onboard_time": 1697147115,
       "rank": 48,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 21786,
-      "num": 1563403,
-      "word": "照片里的青春",
-      "onboard_time": 1697085820,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 21533,
