@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 15:16:03
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 15:34:16
 </p>
 </blockquote>
 <p>
@@ -1191,6 +1191,12 @@ Angelababy喂范丞丞吃葡萄主打避嫌（热度：1868334）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
+狗头萝莉发文致歉（热度：1840652）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A2%A7%E6%A1%82%E5%9B%AD%23" target="weibo">
 碧桂园（热度：1839945）
 </a>
@@ -1971,14 +1977,14 @@ iPhone被曝夜间自动关机（热度：1459310）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E6%98%AF%E6%AD%A6%E5%86%85%E7%9B%B4%E5%AD%90%E7%94%BB%E7%9A%84%23" target="weibo">
-Jennie新歌封面是武内直子画的（热度：1411394）
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
+董宇辉 无耻的偶像剧恋爱观（热度：1412648）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
-董宇辉 无耻的偶像剧恋爱观（热度：1409628）
+<a href="https://s.weibo.com/weibo?q=%23Jennie%E6%96%B0%E6%AD%8C%E5%B0%81%E9%9D%A2%E6%98%AF%E6%AD%A6%E5%86%85%E7%9B%B4%E5%AD%90%E7%94%BB%E7%9A%84%23" target="weibo">
+Jennie新歌封面是武内直子画的（热度：1411394）
 </a>
 </li>
 
@@ -2109,6 +2115,12 @@ IVE空降（热度：1376713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E8%BE%9F%E8%B0%A3%E5%88%98%E5%A7%93%E5%95%86%E4%BA%BA%E8%A2%AB%E6%8A%93%23" target="weibo">
+京东辟谣刘姓商人被抓（热度：1357204）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E6%B8%B8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A110%E5%88%86%E9%92%9F%E6%97%A0%E4%BA%BA%E6%95%91%E6%8F%B4%23" target="weibo">
 男孩游泳池溺亡10分钟无人救援（热度：1355119）
 </a>
@@ -2129,12 +2141,6 @@ IVE空降（热度：1376713）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E8%AF%B4%E6%B2%A1%E6%9C%89%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%A5%B9%E7%9A%84%E6%B0%B4%E5%B9%B3%E4%B8%8D%E4%BC%9A%E6%8F%90%E9%AB%98%23" target="weibo">
 陈芋汐说没有全红婵她的水平不会提高（热度：1348251）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
-狗头萝莉发文致歉（热度：1347889）
 </a>
 </li>
 
@@ -2183,12 +2189,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%9C%BA%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B5%B7%23" target="weibo">
 东部战区回应美机过航台海（热度：1330138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E8%BE%9F%E8%B0%A3%E5%88%98%E5%A7%93%E5%95%86%E4%BA%BA%E8%A2%AB%E6%8A%93%23" target="weibo">
-京东辟谣刘姓商人被抓（热度：1330011）
 </a>
 </li>
 
