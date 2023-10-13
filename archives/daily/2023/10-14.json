@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697224440300,
+  "endTime": 1697225666480,
   "band_list": [
     {
       "raw_hot": 1383869,
@@ -451,6 +451,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 55003,
+      "num": 48750,
+      "word": "睡眠不足真的很糟糕",
+      "onboard_time": 1697222776,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 54674,
       "num": 71673,
       "word": "去看演唱会的态度",
@@ -475,14 +483,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 31033,
-      "num": 48088,
-      "word": "睡眠不足真的很糟糕",
-      "onboard_time": 1697222776,
-      "rank": 26,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 28381,
       "num": 49705,
       "word": "戳爷新歌MV穿女装",
@@ -505,6 +505,14 @@
       "onboard_time": 1697221757,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 19256,
+      "num": 48394,
+      "word": "王毅谈巴以冲突",
+      "onboard_time": 1697225175,
+      "rank": 45,
+      "category": "国内要闻"
     }
   ],
   "hotgov_list": [
