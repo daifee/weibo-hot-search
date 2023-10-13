@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697229259261,
+  "endTime": 1697231696663,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -16835,6 +16835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 81784,
+      "num": 81784,
+      "word": "孟佳一口气生吃8种辣椒",
+      "onboard_time": 1697228774,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81722,
       "num": 81722,
       "word": "0713全员演技在线",
@@ -17475,12 +17483,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 28791,
-      "num": 36209,
-      "word": "孟佳一口气生吃8种辣椒",
-      "onboard_time": 1697228774,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 29448,
+      "num": 46191,
+      "word": "宝宝连体衣 保暖又可爱",
+      "onboard_time": 1697228234,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 28713,
@@ -17627,14 +17635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 17681,
-      "num": 46191,
-      "word": "宝宝连体衣 保暖又可爱",
-      "onboard_time": 1697228234,
-      "rank": 49,
-      "category": "母婴育儿"
-    },
-    {
       "raw_hot": 16501,
       "num": 19612,
       "word": "亚运会氛围有多欢乐",
@@ -17681,6 +17681,14 @@
       "onboard_time": 1697141053,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13304,
+      "num": 29385,
+      "word": "社区回应3岁孩子被父亲关车库3天",
+      "onboard_time": 1697231593,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 13061,
