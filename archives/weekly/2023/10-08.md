@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 00:21:56
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 00:37:22
 </p>
 </blockquote>
 <p>
@@ -2583,6 +2583,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A7%81%E8%AF%81%E4%BA%86%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
+图书馆见证了大学生的精神状态（热度：619428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2311%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%B0%86%E7%8B%97%E5%81%B7%E8%B5%B0%E6%8E%B0%E6%96%AD%E5%85%B6%E7%89%99%E9%BD%BF%E8%88%8C%E5%A4%B4%23" target="weibo">
 11岁女孩将狗偷走掰断其牙齿舌头（热度：619332）
 </a>
@@ -4767,12 +4773,6 @@ SEVENTEEN获TMA大赏（热度：387454）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A7%81%E8%AF%81%E4%BA%86%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%9A%84%E7%B2%BE%E7%A5%9E%E7%8A%B6%E6%80%81%23" target="weibo">
-图书馆见证了大学生的精神状态（热度：368404）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%BA%E5%96%9C%E6%AC%A2%E6%8A%8A%E6%89%8B%E6%9C%BA%E8%AF%AD%E8%A8%80%E6%94%B9%E6%88%90%E8%8B%B1%E6%96%87%23" target="weibo">
 为什么有人喜欢把手机语言改成英文（热度：368111）
 </a>
@@ -5919,6 +5919,12 @@ gidle上海线下签售会（热度：318323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%88%91%E7%94%A8%E8%99%BE%E5%81%9A%E7%9A%84%E8%99%BE%E7%89%87%23" target="weibo">
+看我用虾做的虾片（热度：303801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802023%E5%91%A8%E5%B9%B4%E5%BA%86%23" target="weibo">
 王者荣耀2023周年庆（热度：303586）
 </a>
@@ -6215,12 +6221,6 @@ HYBE不管LESSERAFIM演唱会退票后续（热度：290983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E7%A7%8D%E7%97%85%E4%BC%9A%E5%9C%A8%E5%A4%AB%E5%A6%BB%E9%97%B4%E4%BC%A0%E6%9F%93%23" target="weibo">
 10种病会在夫妻间传染（热度：288941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E6%88%91%E7%94%A8%E8%99%BE%E5%81%9A%E7%9A%84%E8%99%BE%E7%89%87%23" target="weibo">
-看我用虾做的虾片（热度：288727）
 </a>
 </li>
 
@@ -8967,6 +8967,12 @@ SEVENTEEN新专歌曲取样试听（热度：207093）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93YG%E4%BA%BA%E8%B7%B3JYP%E8%88%9E%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%9A%84%E6%83%85%E5%86%B5%23" target="weibo">
+当YG人跳JYP舞会出现的情况（热度：206045）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23KSG%20%E7%8A%B6%E6%80%81%23" target="weibo">
 KSG 状态（热度：206035）
 </a>
@@ -9761,12 +9767,6 @@ KPL 挑杯（热度：192589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E5%9B%BD%E8%80%83%E6%8A%A5%E5%90%8D%E6%95%99%E7%A8%8B%23" target="weibo">
 2024国考报名教程（热度：192418）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93YG%E4%BA%BA%E8%B7%B3JYP%E8%88%9E%E4%BC%9A%E5%87%BA%E7%8E%B0%E7%9A%84%E6%83%85%E5%86%B5%23" target="weibo">
-当YG人跳JYP舞会出现的情况（热度：192120）
 </a>
 </li>
 
@@ -10673,6 +10673,12 @@ S13赛前垃圾话（热度：175874）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.1%23" target="weibo">
 原神4.1（热度：173432）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E5%9C%A8%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%9C%A8%E7%8E%A9%E6%89%8B%23" target="weibo">
+刘嘉玲在接受采访梁朝伟在玩手（热度：173404）
 </a>
 </li>
 
@@ -12195,12 +12201,6 @@ BDS晋级S13入围赛（热度：121285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E5%9C%A8%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF%E6%A2%81%E6%9C%9D%E4%BC%9F%E5%9C%A8%E7%8E%A9%E6%89%8B%23" target="weibo">
-刘嘉玲在接受采访梁朝伟在玩手（热度：118829）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E8%87%AA%E5%B7%B1%E8%80%81%E4%BA%86%E8%BF%9B%E5%85%BB%E8%80%81%E9%99%A2%E5%90%97%23" target="weibo">
 你能接受自己老了进养老院吗（热度：118443）
 </a>
@@ -12711,6 +12711,12 @@ TI12小组赛（热度：80652）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BBC%E8%AE%B0%E8%80%85%E5%9C%A8%E5%8A%A0%E6%B2%99%E6%8A%A5%E9%81%93%E6%97%B6%E5%93%AD%E6%B3%A3%23" target="weibo">
+BBC记者在加沙报道时哭泣（热度：71927）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%9A%8450%E4%B8%AA%E7%8F%8D%E8%B4%B5%E7%9E%AC%E9%97%B4%23" target="weibo">
 杭州亚运的50个珍贵瞬间（热度：70860）
 </a>
@@ -13101,6 +13107,12 @@ TI12小组赛（热度：80652）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%B5%E5%95%86%E5%A4%A7%E4%BC%9A%23" target="weibo">
+中国新电商大会（热度：25105）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%B4%AD%E6%90%9C%E7%B4%A2%E5%B9%B3%E6%9B%BF%E8%AF%8D%23" target="weibo">
 网购搜索平替词（热度：24978）
 </a>
@@ -13151,12 +13163,6 @@ TI12小组赛（热度：80652）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23kpop%E7%BB%84%E5%90%88%E4%B8%93%E8%BE%91%E6%80%BB%E9%94%80%E9%87%8FTOP9%23" target="weibo">
 kpop组合专辑总销量TOP9（热度：19014）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%96%B0%E7%94%B5%E5%95%86%E5%A4%A7%E4%BC%9A%23" target="weibo">
-中国新电商大会（热度：18590）
 </a>
 </li>
 
