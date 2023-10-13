@@ -1,0 +1,410 @@
+{
+  "runTime": 1697178239599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1017178,
+        "num": 1017178,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 665925,
+        "num": 665925,
+        "word": "以色列要求加沙北部上百万人迁移至南部",
+        "onboard_time": 1697169936,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 38808,
+        "num": 650923,
+        "word": "航天员向少先队员发出探索星辰大海约定",
+        "onboard_time": 1697166694,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 822041,
+        "num": 636965,
+        "word": "张栋梁性张力",
+        "onboard_time": 1697174560,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 689059,
+        "num": 626598,
+        "word": "董宇辉 无耻的偶像剧恋爱观",
+        "onboard_time": 1697177200,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 684921,
+        "num": 604181,
+        "word": "周五",
+        "onboard_time": 1697157519,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 600699,
+        "num": 600699,
+        "word": "茅台董事长称白酒有很多很好的科技含量",
+        "onboard_time": 1697173181,
+        "rank": 6,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 562422,
+        "num": 562422,
+        "word": "海清造型不提示都知道演的谁",
+        "onboard_time": 1697175099,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 516467,
+        "num": 516467,
+        "word": "巴勒斯坦母亲吻别死去孩子",
+        "onboard_time": 1697174497,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 342574,
+        "num": 497146,
+        "word": "陈牧驰住在楼梯间大片",
+        "onboard_time": 1697175817,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1253801,
+        "num": 496958,
+        "word": "男子当街鞭打女子长达8分钟",
+        "onboard_time": 1697173960,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 657675,
+        "num": 496717,
+        "word": "刘暖曦朋友发声",
+        "onboard_time": 1697168555,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 496471,
+        "num": 496471,
+        "word": "王一博牛仔帽",
+        "onboard_time": 1697175216,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 413896,
+        "num": 413896,
+        "word": "美国政府将从13日开始安排撤侨航班",
+        "onboard_time": 1697177316,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 316044,
+        "num": 386181,
+        "word": "官员辟谣武大图书馆骚扰事件男生系其儿子",
+        "onboard_time": 1697172221,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1733070,
+        "num": 383589,
+        "word": "泄露陈牧驰离婚信息或触刑法",
+        "onboard_time": 1697174798,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375991,
+        "num": 375991,
+        "word": "难听",
+        "onboard_time": 1697173119,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 320645,
+        "num": 320645,
+        "word": "低盘发是梁洁的美丽开关",
+        "onboard_time": 1697173419,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 314161,
+        "num": 314161,
+        "word": "IVE空降",
+        "onboard_time": 1697175038,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294409,
+        "num": 294409,
+        "word": "中方与以色列方通话",
+        "onboard_time": 1697156257,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 345269,
+        "num": 291571,
+        "word": "未婚先孕男友失联了该怎么办",
+        "onboard_time": 1697174378,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287853,
+        "num": 287853,
+        "word": "货车运5380只吸血鬼蟹入境被查",
+        "onboard_time": 1697176296,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259728,
+        "num": 259728,
+        "word": "中国男篮能递补亚运金牌吗",
+        "onboard_time": 1697170297,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258732,
+        "num": 258732,
+        "word": "反复长痘其实是湿热体质引起的",
+        "onboard_time": 1697173181,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243399,
+        "num": 243399,
+        "word": "SEVENTEEN一直娱特典",
+        "onboard_time": 1697175516,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240017,
+        "num": 240017,
+        "word": "古茗天官赐福动画联名",
+        "onboard_time": 1697174977,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 233380,
+        "num": 233380,
+        "word": "美国女子遭性侵被救下后又被其侵犯",
+        "onboard_time": 1697151743,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231172,
+        "num": 231172,
+        "word": "第一次见又坏又苦的女主",
+        "onboard_time": 1697174497,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223332,
+        "num": 223332,
+        "word": "李若彤四季青砍价1980买22件衣服",
+        "onboard_time": 1697174318,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219239,
+        "num": 219239,
+        "word": "山崎贤人肿了么",
+        "onboard_time": 1697173539,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295039,
+        "num": 216517,
+        "word": "什么样的卫衣才算卫衣",
+        "onboard_time": 1697177200,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 212058,
+        "num": 212058,
+        "word": "全智贤有种素面朝天的美",
+        "onboard_time": 1697170178,
+        "rank": 31,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 196719,
+        "num": 196719,
+        "word": "没认出刘雅瑟",
+        "onboard_time": 1697175760,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189774,
+        "num": 189774,
+        "word": "杨紫手势变装",
+        "onboard_time": 1697174737,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174715,
+        "num": 174715,
+        "word": "欧阳娜娜回归校园vlog",
+        "onboard_time": 1697174142,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168965,
+        "num": 168965,
+        "word": "蔡国庆陈楚生罗杰夫落叶归根",
+        "onboard_time": 1697174918,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167330,
+        "num": 167330,
+        "word": "男子健身房失误砸断女生4根脚趾",
+        "onboard_time": 1697165678,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162967,
+        "num": 162967,
+        "word": "一见钟情到无话可说要多久",
+        "onboard_time": 1697177619,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141164,
+        "num": 141164,
+        "word": "纯狱风是白敬亭的统治区",
+        "onboard_time": 1697168796,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137158,
+        "num": 137158,
+        "word": "官方通报成都中学生校内自缢事件",
+        "onboard_time": 1697161232,
+        "rank": 39,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 136077,
+        "num": 136077,
+        "word": "天官赐福动画戚容海报",
+        "onboard_time": 1697166515,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 132032,
+        "num": 132032,
+        "word": "广东一高校老师美术馆看展时坠亡",
+        "onboard_time": 1697162676,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130871,
+        "num": 130871,
+        "word": "东北蔬菜丿了是什么",
+        "onboard_time": 1697171861,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125242,
+        "num": 125242,
+        "word": "当公司的同事突然加我好友",
+        "onboard_time": 1697174497,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125222,
+        "num": 125222,
+        "word": "巴以冲突已致双方超2800人死亡",
+        "onboard_time": 1697154813,
+        "rank": 44,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 123890,
+        "num": 123890,
+        "word": "张杰跳舞反差感",
+        "onboard_time": 1697178157,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121576,
+        "num": 121576,
+        "word": "2024国考报名教程",
+        "onboard_time": 1697168617,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 121220,
+        "num": 121220,
+        "word": "胡歌饰演张桂梅丈夫",
+        "onboard_time": 1697178157,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116583,
+        "num": 116583,
+        "word": "hybe的编舞",
+        "onboard_time": 1697171619,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112467,
+        "num": 112467,
+        "word": "关晓彤捧蓝玫瑰",
+        "onboard_time": 1697174021,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越不同地域共唱繁荣之路#"
+    }
+  }
+}

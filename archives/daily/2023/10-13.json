@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697175262079,
+  "endTime": 1697178239599,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1733070,
+      "num": 383589,
+      "word": "泄露陈牧驰离婚信息或触刑法",
+      "onboard_time": 1697174798,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1690850,
       "num": 1690850,
       "word": "12306推出静音车厢",
@@ -81,6 +89,14 @@
       "onboard_time": 1697169936,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1253801,
+      "num": 496958,
+      "word": "男子当街鞭打女子长达8分钟",
+      "onboard_time": 1697173960,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1031123,
@@ -129,6 +145,14 @@
       "onboard_time": 1697109873,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 822041,
+      "num": 636965,
+      "word": "张栋梁性张力",
+      "onboard_time": 1697174560,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 819801,
@@ -195,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 689059,
+      "num": 626598,
+      "word": "董宇辉 无耻的偶像剧恋爱观",
+      "onboard_time": 1697177200,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 673688,
       "num": 673688,
       "word": "广东一高校老师美术馆看展时坠亡",
@@ -251,20 +283,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 610590,
-      "num": 379137,
-      "word": "泄露陈牧驰离婚信息或触刑法",
-      "onboard_time": 1697174798,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 601449,
       "num": 601449,
       "word": "全智贤有种素面朝天的美",
       "onboard_time": 1697170178,
       "rank": 17,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 600699,
+      "num": 600699,
+      "word": "茅台董事长称白酒有很多很好的科技含量",
+      "onboard_time": 1697173181,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 590933,
@@ -283,20 +315,20 @@
       "category": "教育,社会新闻"
     },
     {
-      "raw_hot": 583351,
-      "num": 583351,
-      "word": "茅台董事长称白酒有很多很好的科技含量",
-      "onboard_time": 1697173181,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 571265,
       "num": 571265,
       "word": "业内揭秘黄牛割肉退周杰伦演唱会门票原因",
       "onboard_time": 1697153308,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 562422,
+      "num": 562422,
+      "word": "海清造型不提示都知道演的谁",
+      "onboard_time": 1697175099,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 556325,
@@ -331,6 +363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 516467,
+      "num": 516467,
+      "word": "巴勒斯坦母亲吻别死去孩子",
+      "onboard_time": 1697174497,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 514891,
       "num": 514891,
       "word": "孙卓被拐案今日宣判",
@@ -355,12 +395,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 498869,
-      "num": 498869,
-      "word": "张栋梁性张力",
-      "onboard_time": 1697174560,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 496471,
+      "num": 496471,
+      "word": "王一博牛仔帽",
+      "onboard_time": 1697175216,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 478187,
@@ -419,14 +459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 430088,
-      "num": 369643,
-      "word": "男子当街鞭打女子长达8分钟",
-      "onboard_time": 1697173960,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 421221,
       "num": 421221,
       "word": "合资车退出中国市场意味着什么",
@@ -441,6 +473,14 @@
       "onboard_time": 1697116360,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 413896,
+      "num": 413896,
+      "word": "美国政府将从13日开始安排撤侨航班",
+      "onboard_time": 1697177316,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 405754,
@@ -531,6 +571,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 345269,
+      "num": 326833,
+      "word": "未婚先孕男友失联了该怎么办",
+      "onboard_time": 1697174378,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 344416,
       "num": 344416,
       "word": "关晓彤捧蓝玫瑰",
@@ -553,6 +601,14 @@
       "onboard_time": 1697167116,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342574,
+      "num": 497146,
+      "word": "陈牧驰住在楼梯间大片",
+      "onboard_time": 1697175817,
+      "rank": 9,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 335374,
@@ -587,14 +643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 326833,
-      "num": 326833,
-      "word": "未婚先孕男友失联了该怎么办",
-      "onboard_time": 1697174378,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
       "raw_hot": 326410,
       "num": 326410,
       "word": "妈妈反向育儿剥20多颗糖治女儿糖瘾",
@@ -625,6 +673,14 @@
       "onboard_time": 1697164053,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 314161,
+      "num": 314161,
+      "word": "IVE空降",
+      "onboard_time": 1697175038,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 305237,
@@ -675,6 +731,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 295039,
+      "num": 216517,
+      "word": "什么样的卫衣才算卫衣",
+      "onboard_time": 1697177200,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 289608,
       "num": 289608,
       "word": "孙海洋希望对人贩子判处死刑",
@@ -697,6 +761,14 @@
       "onboard_time": 1697156557,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 287853,
+      "num": 287853,
+      "word": "货车运5380只吸血鬼蟹入境被查",
+      "onboard_time": 1697176296,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281634,
@@ -835,14 +907,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 248837,
-      "num": 242794,
-      "word": "巴勒斯坦母亲吻别死去孩子",
-      "onboard_time": 1697174497,
-      "rank": 32,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 247972,
       "num": 236289,
       "word": "披荆斩棘四公",
@@ -865,6 +929,14 @@
       "onboard_time": 1697160633,
       "rank": 41,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 243399,
+      "num": 243399,
+      "word": "SEVENTEEN一直娱特典",
+      "onboard_time": 1697175516,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 241667,
@@ -979,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216007,
-      "num": 216007,
-      "word": "IVE空降",
-      "onboard_time": 1697175038,
-      "rank": 39,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 214602,
       "num": 214602,
       "word": "十岁妹妹寄来的生日礼物",
@@ -1041,14 +1105,6 @@
       "onboard_time": 1697159435,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 208510,
-      "num": 208510,
-      "word": "海清造型不提示都知道演的谁",
-      "onboard_time": 1697175099,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 208121,
@@ -1131,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196719,
+      "num": 196719,
+      "word": "没认出刘雅瑟",
+      "onboard_time": 1697175760,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195484,
       "num": 195484,
       "word": "曹杨新歌歌词居然是李莎旻子写的",
@@ -1193,14 +1257,6 @@
       "onboard_time": 1697168617,
       "rank": 45,
       "category": "教育"
-    },
-    {
-      "raw_hot": 192229,
-      "num": 192229,
-      "word": "王一博牛仔帽",
-      "onboard_time": 1697175216,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 189956,
@@ -1369,6 +1425,14 @@
       "onboard_time": 1697111617,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 162967,
+      "num": 162967,
+      "word": "一见钟情到无话可说要多久",
+      "onboard_time": 1697177619,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 159883,
@@ -1563,12 +1627,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123890,
+      "num": 123890,
+      "word": "张杰跳舞反差感",
+      "onboard_time": 1697178157,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123711,
       "num": 123711,
       "word": "邓见超和粉丝要王源表情包",
       "onboard_time": 1697122780,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121220,
+      "num": 121220,
+      "word": "胡歌饰演张桂梅丈夫",
+      "onboard_time": 1697178157,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 120221,

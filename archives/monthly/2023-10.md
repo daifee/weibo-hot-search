@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 13:34:22
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 14:23:59
 </p>
 </blockquote>
 <p>
@@ -1383,6 +1383,12 @@ Z先生到底是谁（热度：1751124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%84%E9%9C%B2%E9%99%88%E7%89%A7%E9%A9%B0%E7%A6%BB%E5%A9%9A%E4%BF%A1%E6%81%AF%E6%88%96%E8%A7%A6%E5%88%91%E6%B3%95%23" target="weibo">
+泄露陈牧驰离婚信息或触刑法（热度：1733070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E4%BB%8A%E5%B9%B4%E4%B8%89%E9%83%A8%E7%A0%B4%E4%B8%87%E5%89%A7%E9%9B%86%23" target="weibo">
 腾讯今年三部破万剧集（热度：1725121）
 </a>
@@ -2303,6 +2309,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8E%A7%E7%B3%96%E4%B8%8D%E8%83%BD%E5%90%83%E8%BF%99%E4%BA%9B%23" target="weibo">
 原来控糖不能吃这些（热度：1254068）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F%23" target="weibo">
+男子当街鞭打女子长达8分钟（热度：1253801）
 </a>
 </li>
 
@@ -3957,6 +3969,12 @@ Jennie个人单曲音源上线（热度：822249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A0%8B%E6%A2%81%E6%80%A7%E5%BC%A0%E5%8A%9B%23" target="weibo">
+张栋梁性张力（热度：822041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E4%B8%A4%E7%89%87%E7%83%A4%E9%A6%92%E5%A4%B4%E7%89%87%E6%8B%AF%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E8%83%83%23" target="weibo">
 每天两片烤馒头片拯救了我的胃（热度：821759）
 </a>
@@ -5073,6 +5091,12 @@ LV卖不动了吗（热度：698408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
+董宇辉 无耻的偶像剧恋爱观（热度：689059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%9B%9E%E5%BA%94%E7%82%B8%E9%B1%BC%E5%8A%A8%E4%BD%9C%23" target="weibo">
 全红婵陈芋汐回应炸鱼动作（热度：688963）
 </a>
@@ -5931,12 +5955,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B3%84%E9%9C%B2%E9%99%88%E7%89%A7%E9%A9%B0%E7%A6%BB%E5%A9%9A%E4%BF%A1%E6%81%AF%E6%88%96%E8%A7%A6%E5%88%91%E6%B3%95%23" target="weibo">
-泄露陈牧驰离婚信息或触刑法（热度：610590）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%83%B3%E4%B8%8A%E7%8F%AD%23" target="weibo">
 不想上班（热度：610212）
 </a>
@@ -5993,24 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9A%84%E5%93%A5%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%AB%98%E9%80%9F%E7%94%A9%E5%AE%A2%E8%87%B4%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1%23" target="weibo">
 的哥回应网传高速甩客致乘客身亡（热度：605414）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E7%BB%91%E6%9E%B6%E7%9A%84%E4%B8%AD%E4%BB%A5%E6%B7%B7%E8%A1%80%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
-被哈马斯绑架的中以混血女孩父母发声（热度：605396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%86%B0%E5%A8%87%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B%23" target="weibo">
-何冰娇无缘决赛（热度：604926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E5%8F%88%E8%A6%81%E6%9D%A5%E4%B8%AD%E5%9B%BD%E4%BA%86%23" target="weibo">
-梅西又要来中国了（热度：604497）
 </a>
 </li>
 
