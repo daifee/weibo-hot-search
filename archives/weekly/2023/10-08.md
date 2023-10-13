@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 04:18:30
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 04:34:19
 </p>
 </blockquote>
 <p>
@@ -13119,6 +13119,12 @@ TI12小组赛（热度：80652）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23" target="weibo">
+孟佳一口气生吃8种辣椒（热度：28791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%83%8F%E5%B9%B4%E4%B8%AD%E7%9A%84%E5%BF%AB%E4%B9%90%E4%BA%8B%E5%84%BF%23" target="weibo">
 影像年中的快乐事儿（热度：28713）
 </a>
@@ -13227,8 +13233,20 @@ kpop组合专辑总销量TOP9（热度：19014）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%BF%9E%E4%BD%93%E8%A1%A3%20%E4%BF%9D%E6%9A%96%E5%8F%88%E5%8F%AF%E7%88%B1%23" target="weibo">
+宝宝连体衣 保暖又可爱（热度：17681）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E6%B0%9B%E5%9B%B4%E6%9C%89%E5%A4%9A%E6%AC%A2%E4%B9%90%23" target="weibo">
 亚运会氛围有多欢乐（热度：16501）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DOTA2%23" target="weibo">
+DOTA2（热度：16338）
 </a>
 </li>
 
@@ -13253,12 +13271,6 @@ kpop组合专辑总销量TOP9（热度：19014）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E6%B1%9F%E4%BA%BA%E5%AE%B6%E5%AE%9A%E6%A1%A3%E5%A4%AE%E4%B8%80%23" target="weibo">
 珠江人家定档央一（热度：14640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%BF%9E%E4%BD%93%E8%A1%A3%20%E4%BF%9D%E6%9A%96%E5%8F%88%E5%8F%AF%E7%88%B1%23" target="weibo">
-宝宝连体衣 保暖又可爱（热度：13161）
 </a>
 </li>
 

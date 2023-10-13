@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/14 00:21:56 ~ 2023/10/14 04:18:30
+本榜单时间：2023/10/14 00:21:56 ~ 2023/10/14 04:34:19
 </p>
 </blockquote>
 <p>
@@ -381,6 +381,12 @@ i人最完美的周末休息法（热度：83024）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23" target="weibo">
+孟佳一口气生吃8种辣椒（热度：28791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%B3%E7%88%B7%E6%96%B0%E6%AD%8CMV%E7%A9%BF%E5%A5%B3%E8%A3%85%23" target="weibo">
 戳爷新歌MV穿女装（热度：28381）
 </a>
@@ -400,7 +406,13 @@ i人最完美的周末休息法（热度：83024）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%BF%9E%E4%BD%93%E8%A1%A3%20%E4%BF%9D%E6%9A%96%E5%8F%88%E5%8F%AF%E7%88%B1%23" target="weibo">
-宝宝连体衣 保暖又可爱（热度：13161）
+宝宝连体衣 保暖又可爱（热度：17681）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DOTA2%23" target="weibo">
+DOTA2（热度：16338）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697228310773,
+  "endTime": 1697229259261,
   "band_list": [
     {
       "raw_hot": 1383869,
@@ -491,6 +491,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 28791,
+      "num": 36209,
+      "word": "孟佳一口气生吃8种辣椒",
+      "onboard_time": 1697228774,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 28381,
       "num": 49705,
       "word": "戳爷新歌MV穿女装",
@@ -515,12 +523,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 13161,
+      "raw_hot": 17681,
       "num": 46191,
       "word": "宝宝连体衣 保暖又可爱",
       "onboard_time": 1697228234,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 16338,
+      "num": 36179,
+      "word": "DOTA2",
+      "onboard_time": 1697228714,
+      "rank": 42,
+      "category": "游戏"
     }
   ],
   "hotgov_list": [
