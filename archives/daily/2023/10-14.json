@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697236454595,
+  "endTime": 1697239017050,
   "band_list": [
     {
       "raw_hot": 1383869,
@@ -59,6 +59,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 600727,
+      "num": 600727,
+      "word": "BBC记者在加沙报道时哭泣",
+      "onboard_time": 1697214868,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 552351,
       "num": 552351,
       "word": "时代峰峻让粉丝买到门票后再订机酒",
@@ -91,12 +99,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359299,
-      "num": 359299,
-      "word": "BBC记者在加沙报道时哭泣",
-      "onboard_time": 1697214868,
-      "rank": 47,
-      "category": "国外要闻"
+      "raw_hot": 387503,
+      "num": 387503,
+      "word": "孟佳一口气生吃8种辣椒",
+      "onboard_time": 1697228774,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 348020,
@@ -113,6 +121,14 @@
       "onboard_time": 1697209360,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 305465,
+      "num": 305465,
+      "word": "社区回应3岁孩子被父亲关车库3天",
+      "onboard_time": 1697231593,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 305105,
@@ -139,8 +155,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266462,
-      "num": 198637,
+      "raw_hot": 285073,
+      "num": 285073,
       "word": "刘嘉玲在接受采访梁朝伟在玩手",
       "onboard_time": 1697213732,
       "rank": 42,
@@ -161,6 +177,14 @@
       "onboard_time": 1697210915,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 244689,
+      "num": 244689,
+      "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
+      "onboard_time": 1697216962,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 240595,
@@ -195,14 +219,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 198059,
-      "num": 198059,
-      "word": "孟佳一口气生吃8种辣椒",
-      "onboard_time": 1697228774,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193390,
       "num": 193390,
       "word": "大闸蟹入侵英国多地",
@@ -211,28 +227,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 183075,
-      "num": 183075,
-      "word": "张云雷挑战佛山电翰甩手",
-      "onboard_time": 1697209360,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 187417,
+      "num": 184926,
+      "word": "村里开咖啡店 老头半夜起来种地",
+      "onboard_time": 1697236639,
+      "rank": 10,
+      "category": "幽默"
     },
     {
-      "raw_hot": 182352,
-      "num": 112468,
+      "raw_hot": 186685,
+      "num": 186685,
       "word": "加沙地带危在旦夕",
       "onboard_time": 1697215226,
       "rank": 31,
       "category": "国内要闻,军事"
     },
     {
-      "raw_hot": 178070,
-      "num": 83733,
-      "word": "社区回应3岁孩子被父亲关车库3天",
-      "onboard_time": 1697231593,
-      "rank": 47,
-      "category": "社会新闻"
+      "raw_hot": 183075,
+      "num": 183075,
+      "word": "张云雷挑战佛山电翰甩手",
+      "onboard_time": 1697209360,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 171739,
@@ -281,14 +297,6 @@
       "onboard_time": 1697198794,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 146330,
-      "num": 121389,
-      "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
-      "onboard_time": 1697216962,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141108,
@@ -369,6 +377,14 @@
       "onboard_time": 1697193874,
       "rank": 40,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 123672,
+      "num": 123672,
+      "word": "为什么厂商不做小屏手机",
+      "onboard_time": 1697215526,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 118172,
@@ -459,20 +475,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 68610,
-      "num": 68610,
-      "word": "为什么厂商不做小屏手机",
-      "onboard_time": 1697215526,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 55003,
-      "num": 48750,
+      "raw_hot": 72248,
+      "num": 72248,
       "word": "睡眠不足真的很糟糕",
       "onboard_time": 1697222776,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 70420,
+      "num": 70420,
+      "word": "王毅谈巴以冲突",
+      "onboard_time": 1697225175,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 56022,
+      "num": 56022,
+      "word": "66岁大爷锻炼时跳河救了个人",
+      "onboard_time": 1697238925,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 54674,
@@ -491,28 +515,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54252,
+      "num": 54252,
+      "word": "女子手写4页纸感谢民警帮找回父亲照片",
+      "onboard_time": 1697238078,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 52468,
-      "num": 54130,
+      "num": 54152,
       "word": "水墨李莲花",
       "onboard_time": 1697217921,
       "rank": 44,
       "category": "动漫"
     },
     {
-      "raw_hot": 36971,
-      "num": 48552,
-      "word": "王毅谈巴以冲突",
-      "onboard_time": 1697225175,
-      "rank": 45,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 31299,
-      "num": 48526,
+      "raw_hot": 47499,
+      "num": 54220,
       "word": "宝宝连体衣 保暖又可爱",
       "onboard_time": 1697228234,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 45520,
+      "num": 54182,
+      "word": "路人遇车祸消防跑上前暖心救助",
+      "onboard_time": 1697238326,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28381,
