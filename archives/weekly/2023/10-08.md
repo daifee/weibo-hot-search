@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 14:23:59
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/13 14:37:16
 </p>
 </blockquote>
 <p>
@@ -951,6 +951,12 @@ iPhone被曝夜间自动关机（热度：1459310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F%23" target="weibo">
+男子当街鞭打女子长达8分钟（热度：1295101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
 关晓彤微博之夜捂嘴原因（热度：1287996）
 </a>
@@ -983,12 +989,6 @@ iPhone被曝夜间自动关机（热度：1459310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%B7%B4%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%B2%E7%AA%81%E9%80%A0%E6%88%90%E4%B8%A5%E9%87%8D%E4%BC%A4%E4%BA%A1%23" target="weibo">
 以巴爆发大规模冲突造成严重伤亡（热度：1269135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F%23" target="weibo">
-男子当街鞭打女子长达8分钟（热度：1253801）
 </a>
 </li>
 
@@ -1383,6 +1383,12 @@ iPhone被曝夜间自动关机（热度：1459310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
+董宇辉 无耻的偶像剧恋爱观（热度：945172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD9%E5%90%8D%E4%BA%BA%E5%91%98%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E4%B8%AD%E4%B8%A7%E7%94%9F%23" target="weibo">
 联合国9名人员在以色列空袭中丧生（热度：944632）
 </a>
@@ -1601,6 +1607,12 @@ JINI回应退出NIMXX的原因（热度：828725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%A4%A9%E4%B8%A4%E7%89%87%E7%83%A4%E9%A6%92%E5%A4%B4%E7%89%87%E6%8B%AF%E6%95%91%E4%BA%86%E6%88%91%E7%9A%84%E8%83%83%23" target="weibo">
 每天两片烤馒头片拯救了我的胃（热度：821759）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23" target="weibo">
+美国政府将从13日开始安排撤侨航班（热度：819174）
 </a>
 </li>
 
@@ -2039,12 +2051,6 @@ LV卖不动了吗（热度：698408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%99%BD%E8%89%B2%E6%A3%92%E7%90%83%E5%B8%BD%E5%A5%BD%E5%A5%B3%E9%AB%98%23" target="weibo">
 杨紫白色棒球帽好女高（热度：689632）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
-董宇辉 无耻的偶像剧恋爱观（热度：689059）
 </a>
 </li>
 
@@ -3315,6 +3321,12 @@ iPhone15美国市场销量或陷入停滞（热度：506613）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E7%8F%AD%E4%B8%80%E4%B8%AA%E6%9C%88%E5%90%83%E4%BA%86%E5%85%AC%E5%8F%B82600%E7%9A%84%E9%9B%B6%E9%A3%9F%23" target="weibo">
+上班一个月吃了公司2600的零食（热度：480032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2395.2%25%E7%9A%84%E4%B8%BB%E6%92%AD%E6%9C%88%E6%94%B6%E5%85%A55000%E5%85%83%E4%BB%A5%E4%B8%8B%23" target="weibo">
 95.2%的主播月收入5000元以下（热度：479522）
 </a>
@@ -3569,6 +3581,12 @@ kpop勇闯格莱美（热度：463360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%9A%E5%A4%A9%E5%B1%A0%E9%BE%99%E8%AE%B0%E9%87%8C%E7%9A%84%E5%A4%A7%E7%BE%8E%E4%BA%BA%23" target="weibo">
 倚天屠龙记里的大美人（热度：456110）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%A5%B0%E6%BC%94%E5%BC%A0%E6%A1%82%E6%A2%85%E4%B8%88%E5%A4%AB%23" target="weibo">
+胡歌饰演张桂梅丈夫（热度：454613）
 </a>
 </li>
 
@@ -3905,12 +3923,6 @@ ITZY（热度：416031）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%9A%E5%9F%8E%E5%B8%82%E5%85%A8%E9%9D%A2%E5%81%9C%E5%B7%A5%23" target="weibo">
 以色列多城市全面停工（热度：415071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23" target="weibo">
-美国政府将从13日开始安排撤侨航班（热度：413896）
 </a>
 </li>
 
@@ -4463,6 +4475,12 @@ Jennie有自己的手麦了（热度：368096）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%8E%E5%A4%B4%20%E8%BF%9E%E8%BD%B4%E8%BD%AC%23" target="weibo">
 莎头 连轴转（热度：364833）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23IVE%E7%A9%BA%E9%99%8D%23" target="weibo">
+IVE空降（热度：364375）
 </a>
 </li>
 
@@ -5187,6 +5205,12 @@ iOS17.1将修复iPhone12辐射问题（热度：327036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E8%BF%905380%E5%8F%AA%E5%90%B8%E8%A1%80%E9%AC%BC%E8%9F%B9%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23" target="weibo">
+货车运5380只吸血鬼蟹入境被查（热度：318580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23gidle%E4%B8%8A%E6%B5%B7%E7%BA%BF%E4%B8%8B%E7%AD%BE%E5%94%AE%E4%BC%9A%23" target="weibo">
 gidle上海线下签售会（热度：318323）
 </a>
@@ -5249,12 +5273,6 @@ gidle上海线下签售会（热度：318323）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8E%BB%E9%AB%98%E6%BA%A2%E4%BB%B7%E7%94%9F%E6%B4%BB%E4%BA%86%23" target="weibo">
 年轻人开始去高溢价生活了（热度：314636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23IVE%E7%A9%BA%E9%99%8D%23" target="weibo">
-IVE空降（热度：314161）
 </a>
 </li>
 
@@ -5783,12 +5801,6 @@ HYBE不管LESSERAFIM演唱会退票后续（热度：290983）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23RIIZE%E6%88%90%E5%91%98SOHEE%E6%97%A7%E7%85%A7%23" target="weibo">
 RIIZE成员SOHEE旧照（热度：288302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%A6%E8%BF%905380%E5%8F%AA%E5%90%B8%E8%A1%80%E9%AC%BC%E8%9F%B9%E5%85%A5%E5%A2%83%E8%A2%AB%E6%9F%A5%23" target="weibo">
-货车运5380只吸血鬼蟹入境被查（热度：287853）
 </a>
 </li>
 
@@ -8451,6 +8463,12 @@ IVE小学生统领（热度：203600）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E7%89%88%E4%B9%98%E9%A3%8E%E7%A0%B4%E6%B5%AA%23" target="weibo">
+越南版乘风破浪（热度：202590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E8%89%AF%E4%B8%80%E5%BC%80%E5%8F%A3%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 光良一开口我的青春回来了（热度：202453）
 </a>
@@ -8757,6 +8775,12 @@ IVE小学生统领（热度：203600）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%E5%88%B0%E6%97%A0%E8%AF%9D%E5%8F%AF%E8%AF%B4%E8%A6%81%E5%A4%9A%E4%B9%85%23" target="weibo">
+一见钟情到无话可说要多久（热度：196882）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%AE%A4%E5%8F%8B%E7%BB%99%E6%88%91%E6%B2%BB%E7%96%97%E6%84%9F%E5%86%92%E7%9A%84%E9%A3%9F%E6%9D%90%23" target="weibo">
 印度室友给我治疗感冒的食材（热度：196813）
 </a>
@@ -8933,6 +8957,12 @@ SEVENTEEN新专盛典风狂欢（热度：193488）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E7%81%AB%E8%BD%A6%E7%A9%BF%E8%B6%8A%E4%B8%B9%E9%9C%9E%E5%9C%B0%E8%B2%8C%23" target="weibo">
 当火车穿越丹霞地貌（热度：193467）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E9%98%B3%E9%80%9A%E6%8A%A5%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%80%81%E5%B8%88%E9%80%BC%E5%AD%A9%E5%AD%90%E5%90%83%E5%91%95%E5%90%90%E7%89%A9%23" target="weibo">
+沈阳通报幼儿园老师逼孩子吃呕吐物（热度：193393）
 </a>
 </li>
 
@@ -10197,12 +10227,6 @@ KBS年末舞台官宣（热度：163211）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85%E5%88%B0%E6%97%A0%E8%AF%9D%E5%8F%AF%E8%AF%B4%E8%A6%81%E5%A4%9A%E4%B9%85%23" target="weibo">
-一见钟情到无话可说要多久（热度：162967）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8%E8%8D%89%E5%8E%9F%E5%81%B6%E9%81%87%E6%AF%9B%E9%98%BF%E6%95%8F%E6%96%87%E6%B7%87%23" target="weibo">
 网友在草原偶遇毛阿敏文淇（热度：162689）
 </a>
@@ -10329,6 +10353,12 @@ TMA直播（热度：160834）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%940%E5%88%98%E4%B8%81%E7%A1%95%E4%BA%8E%E5%AD%90%E6%B4%8B%23" target="weibo">
+许昕樊振东3比0刘丁硕于子洋（热度：159486）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2327%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9C%AC%E8%BD%AE%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E8%BA%AB%E4%BA%A1%23" target="weibo">
 27名美国公民本轮巴以冲突中身亡（热度：159330）
 </a>
@@ -10361,6 +10391,12 @@ SEVENTEEN祝贺文俊辉获奖（热度：159170）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E9%9A%8F%E6%89%8B%E4%B8%80%E7%AC%94%E5%A5%B3%E5%84%BF%E6%94%B9%E6%88%90%E5%88%9B%E6%84%8F%E6%BC%AB%E7%94%BB%23" target="weibo">
 妈妈随手一笔女儿改成创意漫画（热度：158815）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%80%80%E4%BC%911%E5%B9%B4%E7%94%BB%E5%87%BA140%E5%A4%9A%E5%B9%85%E7%B2%89%E7%AC%94%E7%94%BB%23" target="weibo">
+女子退休1年画出140多幅粉笔画（热度：158760）
 </a>
 </li>
 
@@ -10839,6 +10875,12 @@ e人和i人在理发店完全不一样（热度：147160）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E6%96%B0%E7%89%87%E6%89%94%E7%83%9F%E9%95%9C%E5%A4%B4%23" target="weibo">
+张译新片扔烟镜头（热度：137920）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23BBC%E5%92%8CInflame%E6%BC%94%E6%88%91%E7%9C%8BDOTA2%E5%86%B3%E8%B5%9B%23" target="weibo">
 BBC和Inflame演我看DOTA2决赛（热度：137473）
 </a>
@@ -10853,6 +10895,12 @@ BBC和Inflame演我看DOTA2决赛（热度：137473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%84%E9%BE%99%E7%81%AB%E7%AE%AD%E9%A6%96%E7%A7%80%E8%A2%AB%E9%A9%B1%E9%80%90%23" target="weibo">
 狄龙火箭首秀被驱逐（热度：136570）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%B0%E7%94%B7%E8%A3%85%E7%A9%BF%E7%9A%84%E5%A5%B3%E5%AD%A9%E4%BB%AC%23" target="weibo">
+买男装穿的女孩们（热度：136443）
 </a>
 </li>
 
@@ -10917,6 +10965,12 @@ Amber一声哞让张凌赫绷不住了（热度：134627）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B7%B3%E8%88%9E%E5%8F%8D%E5%B7%AE%E6%84%9F%23" target="weibo">
+张杰跳舞反差感（热度：133884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E6%A2%81%E9%9D%96%E5%B4%91%23" target="weibo">
 马龙vs梁靖崑（热度：133469）
 </a>
@@ -10955,6 +11009,12 @@ Amber一声哞让张凌赫绷不住了（热度：134627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E5%A4%9A%E5%9C%A8%E8%BF%99%E6%A0%B7%E7%9A%84%E7%94%B5%E5%BD%B1%E9%87%8C%E5%91%86%E7%9D%80%23" target="weibo">
 朱一龙多在这样的电影里呆着（热度：131905）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%97%A8%E6%8D%9E%E7%81%AB%E9%94%85%20%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
+嗨捞火锅 广东人沉默了（热度：131676）
 </a>
 </li>
 
@@ -11103,12 +11163,6 @@ Amber一声哞让张凌赫绷不住了（热度：134627）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E8%B7%B3%E8%88%9E%E5%8F%8D%E5%B7%AE%E6%84%9F%23" target="weibo">
-张杰跳舞反差感（热度：123890）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AD%90%E5%A2%A8%20%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%23" target="weibo">
 张子墨 时代峰峻（热度：123793）
 </a>
@@ -11147,12 +11201,6 @@ Amber一声哞让张凌赫绷不住了（热度：134627）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23BDS%E6%99%8B%E7%BA%A7S13%E5%85%A5%E5%9B%B4%E8%B5%9B%23" target="weibo">
 BDS晋级S13入围赛（热度：121285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%A5%B0%E6%BC%94%E5%BC%A0%E6%A1%82%E6%A2%85%E4%B8%88%E5%A4%AB%23" target="weibo">
-胡歌饰演张桂梅丈夫（热度：121220）
 </a>
 </li>
 

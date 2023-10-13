@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 14:23:59
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 14:37:16
 </p>
 </blockquote>
 <p>
@@ -2241,6 +2241,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F%23" target="weibo">
+男子当街鞭打女子长达8分钟（热度：1295101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
 关晓彤微博之夜捂嘴原因（热度：1287996）
 </a>
@@ -2309,12 +2315,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8E%A7%E7%B3%96%E4%B8%8D%E8%83%BD%E5%90%83%E8%BF%99%E4%BA%9B%23" target="weibo">
 原来控糖不能吃这些（热度：1254068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F%23" target="weibo">
-男子当街鞭打女子长达8分钟（热度：1253801）
 </a>
 </li>
 
@@ -3303,6 +3303,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
+董宇辉 无耻的偶像剧恋爱观（热度：945172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD9%E5%90%8D%E4%BA%BA%E5%91%98%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E4%B8%AD%E4%B8%A7%E7%94%9F%23" target="weibo">
 联合国9名人员在以色列空袭中丧生（热度：944632）
 </a>
@@ -3989,6 +3995,12 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23" target="weibo">
 小伙称因长期抠鼻子感染丹毒（热度：820938）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23" target="weibo">
+美国政府将从13日开始安排撤侨航班（热度：819174）
 </a>
 </li>
 
@@ -5091,12 +5103,6 @@ LV卖不动了吗（热度：698408）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
-董宇辉 无耻的偶像剧恋爱观（热度：689059）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%9B%9E%E5%BA%94%E7%82%B8%E9%B1%BC%E5%8A%A8%E4%BD%9C%23" target="weibo">
 全红婵陈芋汐回应炸鱼动作（热度：688963）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%B6%E6%9D%A5%E7%9C%8B%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
 孙颖莎赶来看男单决赛（热度：605436）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9A%84%E5%93%A5%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%AB%98%E9%80%9F%E7%94%A9%E5%AE%A2%E8%87%B4%E4%B9%98%E5%AE%A2%E8%BA%AB%E4%BA%A1%23" target="weibo">
-的哥回应网传高速甩客致乘客身亡（热度：605414）
 </a>
 </li>
 

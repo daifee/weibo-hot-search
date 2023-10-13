@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697178239599,
+  "endTime": 1697179036129,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1733070,
-      "num": 383589,
+      "num": 468435,
       "word": "泄露陈牧驰离婚信息或触刑法",
       "onboard_time": 1697174798,
       "rank": 12,
@@ -91,7 +91,7 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1253801,
+      "raw_hot": 1295101,
       "num": 496958,
       "word": "男子当街鞭打女子长达8分钟",
       "onboard_time": 1697173960,
@@ -120,6 +120,14 @@
       "word": "南柱赫真的不是在拍韩剧吗",
       "onboard_time": 1697153791,
       "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 945172,
+      "num": 626598,
+      "word": "董宇辉 无耻的偶像剧恋爱观",
+      "onboard_time": 1697177200,
+      "rank": 4,
       "category": "作品衍生"
     },
     {
@@ -161,6 +169,14 @@
       "onboard_time": 1697117385,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 819174,
+      "num": 588757,
+      "word": "美国政府将从13日开始安排撤侨航班",
+      "onboard_time": 1697177316,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 802661,
@@ -217,14 +233,6 @@
       "onboard_time": 1697160215,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 689059,
-      "num": 626598,
-      "word": "董宇辉 无耻的偶像剧恋爱观",
-      "onboard_time": 1697177200,
-      "rank": 4,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 673688,
@@ -403,6 +411,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 480032,
+      "num": 287464,
+      "word": "上班一个月吃了公司2600的零食",
+      "onboard_time": 1697178338,
+      "rank": 20,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 478187,
       "num": 478187,
       "word": "刘诗雯3比1钱天一",
@@ -425,6 +441,14 @@
       "onboard_time": 1697173181,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 454613,
+      "num": 454613,
+      "word": "胡歌饰演张桂梅丈夫",
+      "onboard_time": 1697178157,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 452205,
@@ -473,14 +497,6 @@
       "onboard_time": 1697116360,
       "rank": 6,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 413896,
-      "num": 413896,
-      "word": "美国政府将从13日开始安排撤侨航班",
-      "onboard_time": 1697177316,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 405754,
@@ -537,6 +553,14 @@
       "onboard_time": 1697157157,
       "rank": 16,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 364375,
+      "num": 364375,
+      "word": "IVE空降",
+      "onboard_time": 1697175038,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 359917,
@@ -659,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 318580,
+      "num": 318580,
+      "word": "货车运5380只吸血鬼蟹入境被查",
+      "onboard_time": 1697176296,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 316869,
       "num": 316869,
       "word": "古茗天官赐福动画联名",
@@ -673,14 +705,6 @@
       "onboard_time": 1697164053,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 314161,
-      "num": 314161,
-      "word": "IVE空降",
-      "onboard_time": 1697175038,
-      "rank": 39,
-      "category": "音乐"
     },
     {
       "raw_hot": 305237,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 295039,
-      "num": 216517,
+      "num": 287488,
       "word": "什么样的卫衣才算卫衣",
       "onboard_time": 1697177200,
       "rank": 30,
@@ -761,14 +785,6 @@
       "onboard_time": 1697156557,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 287853,
-      "num": 287853,
-      "word": "货车运5380只吸血鬼蟹入境被查",
-      "onboard_time": 1697176296,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 281634,
@@ -1155,6 +1171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202590,
+      "num": 198566,
+      "word": "越南版乘风破浪",
+      "onboard_time": 1697178879,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200700,
       "num": 200700,
       "word": "这还是我认识的方便面吗",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1697166277,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196882,
+      "num": 196882,
+      "word": "一见钟情到无话可说要多久",
+      "onboard_time": 1697177619,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 196719,
@@ -1241,6 +1273,14 @@
       "onboard_time": 1697160455,
       "rank": 35,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 193393,
+      "num": 193393,
+      "word": "沈阳通报幼儿园老师逼孩子吃呕吐物",
+      "onboard_time": 1697178455,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192939,
@@ -1427,14 +1467,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 162967,
-      "num": 162967,
-      "word": "一见钟情到无话可说要多久",
-      "onboard_time": 1697177619,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 159883,
       "num": 159883,
       "word": "街边满地百元钞票路人报警默默守护",
@@ -1451,12 +1483,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 159486,
+      "num": 159486,
+      "word": "许昕樊振东3比0刘丁硕于子洋",
+      "onboard_time": 1697178935,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159330,
       "num": 159330,
       "word": "27名美国公民本轮巴以冲突中身亡",
       "onboard_time": 1697154992,
       "rank": 49,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 158760,
+      "num": 158760,
+      "word": "女子退休1年画出140多幅粉笔画",
+      "onboard_time": 1697178576,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156824,
@@ -1539,6 +1587,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 137920,
+      "num": 137920,
+      "word": "张译新片扔烟镜头",
+      "onboard_time": 1697178996,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 137022,
       "num": 137022,
       "word": "国际减灾日",
@@ -1547,12 +1603,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 136443,
+      "num": 136443,
+      "word": "买男装穿的女孩们",
+      "onboard_time": 1697178755,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 135244,
       "num": 135244,
       "word": "虞书欣觉得自己其实是个i人",
       "onboard_time": 1697163993,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133884,
+      "num": 133884,
+      "word": "张杰跳舞反差感",
+      "onboard_time": 1697178157,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 131676,
+      "num": 131676,
+      "word": "嗨捞火锅 广东人沉默了",
+      "onboard_time": 1697178935,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 130519,
@@ -1627,28 +1707,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123890,
-      "num": 123890,
-      "word": "张杰跳舞反差感",
-      "onboard_time": 1697178157,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123711,
       "num": 123711,
       "word": "邓见超和粉丝要王源表情包",
       "onboard_time": 1697122780,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 121220,
-      "num": 121220,
-      "word": "胡歌饰演张桂梅丈夫",
-      "onboard_time": 1697178157,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 120221,
