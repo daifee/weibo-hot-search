@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/13 00:22:29 ~ 2023/10/13 10:27:27
+本榜单时间：2023/10/13 00:22:29 ~ 2023/10/13 10:38:18
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%87%AA%E7%BC%A2%E4%BA%8B%E4%BB%B6%23" target="weibo">
-官方通报成都中学生校内自缢事件（热度：2122115）
+官方通报成都中学生校内自缢事件（热度：2198311）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%94%23" target="weibo">
+周五（热度：2109433）
 </a>
 </li>
 
@@ -41,12 +47,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%80%83%23" target="weibo">
 国考（热度：1601821）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%94%23" target="weibo">
-周五（热度：1565579）
 </a>
 </li>
 
@@ -129,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%AE%98%E5%AE%A3%23" target="weibo">
+正当防卫官宣（热度：650629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E5%93%88%E9%A9%AC%E6%96%AF%E9%87%8A%E6%94%BE%E4%BA%BA%E8%B4%A8%E7%94%BB%E9%9D%A2%23" target="weibo">
 疑似哈马斯释放人质画面（热度：629585）
 </a>
@@ -183,6 +189,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E7%BE%8E%E6%9C%AF%E9%A6%86%E7%9C%8B%E5%B1%95%E6%97%B6%E5%9D%A0%E4%BA%A1%23" target="weibo">
+广东一高校老师美术馆看展时坠亡（热度：483784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E7%90%83%E4%B8%8A80%E4%BA%BF%E4%BA%BA%E5%8F%AA%E5%8D%A0%E4%BA%86%E8%BF%99%E4%B9%88%E4%B8%80%E5%B0%8F%E5%9D%97%E5%9C%B0%E6%96%B9%23" target="weibo">
 地球上80亿人只占了这么一小块地方（热度：465932）
 </a>
@@ -203,12 +215,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E5%A5%B3%E7%94%9F%E8%A3%B8%E8%BE%9E%E7%94%A876%E5%A4%A9%E7%A9%B7%E6%B8%B822%E4%B8%AA%E5%9F%8E%E5%B8%82%23" target="weibo">
 20岁女生裸辞用76天穷游22个城市（热度：420958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E7%BE%8E%E6%9C%AF%E9%A6%86%E7%9C%8B%E5%B1%95%E6%97%B6%E5%9D%A0%E4%BA%A1%23" target="weibo">
-广东一高校老师美术馆看展时坠亡（热度：408711）
 </a>
 </li>
 
@@ -393,6 +399,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%BA40%E5%B2%81%E5%A4%B4%E5%A9%9A%E5%A7%91%E5%A7%91%E4%B8%BB%E6%8C%81%E5%A9%9A%E7%A4%BC%23" target="weibo">
+男孩为40岁头婚姑姑主持婚礼（热度：219299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23104%E5%B2%81%E5%A5%B6%E5%A5%B6%E5%88%B7%E6%96%B0%E8%B7%B3%E4%BC%9E%E6%9C%80%E9%AB%98%E9%BE%84%E7%BA%AA%E5%BD%95%E4%B8%80%E5%91%A8%E5%90%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 104岁奶奶刷新跳伞最高龄纪录一周后去世（热度：214574）
 </a>
@@ -419,6 +431,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E6%8B%BE%E5%B1%8B%E5%AD%90%E6%89%BE%E5%88%B0%E4%BA%86%E5%8D%81%E5%B9%B4%E5%89%8D%E7%9A%84%E9%92%B1%E5%8C%85%23" target="weibo">
 收拾屋子找到了十年前的钱包（热度：210815）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E5%A5%97%E9%A4%90%23" target="weibo">
+天官赐福套餐（热度：208497）
 </a>
 </li>
 
@@ -513,6 +531,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E4%BC%9A%E6%8A%A2%E9%9D%99%E9%9F%B3%E8%BD%A6%E5%8E%A2%E5%90%97%23" target="weibo">
+你会抢静音车厢吗（热度：186570）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%BB%AE%E7%8F%8A%E5%88%AB%E5%94%B1%E4%BA%86%E6%88%91%E6%B2%A1%E7%9C%BC%E6%B3%AA%E4%BA%86%23" target="weibo">
 黄绮珊别唱了我没眼泪了（热度：185411）
 </a>
@@ -521,12 +545,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E6%98%8E%E8%80%81%E4%BA%BA%E6%94%B6%E9%9F%B3%E6%9C%BA%E6%8D%9F%E5%9D%8F%E5%AF%92%E5%A4%9C%E7%8B%AC%E8%A1%8C%E8%B4%AD%E4%B9%B0%23" target="weibo">
 失明老人收音机损坏寒夜独行购买（热度：184246）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%AE%98%E5%AE%A3%23" target="weibo">
-正当防卫官宣（热度：181254）
 </a>
 </li>
 
@@ -567,6 +585,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E9%99%88%E6%80%9D%E6%96%AF%E5%90%88%E7%85%A7%23" target="weibo">
+徐娇陈思斯合照（热度：163826）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%20%E5%A4%B4%E5%A5%97%23" target="weibo">
 邓为 头套（热度：163412）
 </a>
@@ -603,14 +627,14 @@ city walk home sleep（热度：154783）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23e%E4%BA%BA%E5%92%8Ci%E4%BA%BA%E5%9C%A8%E7%90%86%E5%8F%91%E5%BA%97%E5%AE%8C%E5%85%A8%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
-e人和i人在理发店完全不一样（热度：147160）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%903%E5%B9%B4%E8%8A%B119%E4%B8%878%E8%AF%BB%E4%BA%86%E4%B8%AA%E5%81%87%E5%8D%9A%E5%A3%AB%23" target="weibo">
+男子3年花19万8读了个假博士（热度：151535）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%A8%87%E9%99%88%E6%80%9D%E6%96%AF%E5%90%88%E7%85%A7%23" target="weibo">
-徐娇陈思斯合照（热度：146584）
+<a href="https://s.weibo.com/weibo?q=%23e%E4%BA%BA%E5%92%8Ci%E4%BA%BA%E5%9C%A8%E7%90%86%E5%8F%91%E5%BA%97%E5%AE%8C%E5%85%A8%E4%B8%8D%E4%B8%80%E6%A0%B7%23" target="weibo">
+e人和i人在理发店完全不一样（热度：147160）
 </a>
 </li>
 
@@ -629,6 +653,12 @@ e人和i人在理发店完全不一样（热度：147160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E5%87%8F%E7%81%BE%E6%97%A5%23" target="weibo">
 国际减灾日（热度：137022）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%AAi%E4%BA%BA%23" target="weibo">
+虞书欣觉得自己其实是个i人（热度：135244）
 </a>
 </li>
 
@@ -693,6 +723,12 @@ e人和i人在理发店完全不一样（热度：147160）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%A8%E8%87%AA%E5%AD%A6%E6%B5%B7%E5%A7%86%E7%AB%8B%E5%85%8B%E6%B3%95%E6%95%91%E5%9B%9E%E5%8D%A1%E5%96%89%E5%A5%B3%E5%84%BF%23" target="weibo">
+妈妈用自学海姆立克法救回卡喉女儿（热度：120221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E5%86%8D%E6%8A%8A%E5%81%87%E8%82%BA%E7%82%8E%E5%BD%93%E7%9C%9F%E8%82%BA%E7%82%8E%E6%B2%BB%E4%BA%86%23" target="weibo">
 别再把假肺炎当真肺炎治了（热度：118322）
 </a>
@@ -701,12 +737,6 @@ e人和i人在理发店完全不一样（热度：147160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%9B%9E%E5%BA%94%E6%8A%98%E8%85%B0%E7%9B%B8%E5%85%B3%23" target="weibo">
 刘宇宁回应折腰相关（热度：117753）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%99%9E%E4%B9%A6%E6%AC%A3%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E5%85%B6%E5%AE%9E%E6%98%AF%E4%B8%AAi%E4%BA%BA%23" target="weibo">
-虞书欣觉得自己其实是个i人（热度：117370）
 </a>
 </li>
 

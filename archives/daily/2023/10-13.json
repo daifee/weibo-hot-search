@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697164047867,
+  "endTime": 1697164698762,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -11,12 +11,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 2122115,
-      "num": 2122115,
+      "raw_hot": 2198311,
+      "num": 2198311,
       "word": "官方通报成都中学生校内自缢事件",
       "onboard_time": 1697161232,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2109433,
+      "num": 2109433,
+      "word": "周五",
+      "onboard_time": 1697157519,
+      "rank": 3,
+      "category": "情感"
     },
     {
       "raw_hot": 1886932,
@@ -41,14 +49,6 @@
       "onboard_time": 1697162492,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1565579,
-      "num": 1565579,
-      "word": "周五",
-      "onboard_time": 1697157519,
-      "rank": 3,
-      "category": "情感"
     },
     {
       "raw_hot": 1031123,
@@ -155,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 650629,
+      "num": 650629,
+      "word": "正当防卫官宣",
+      "onboard_time": 1697163934,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 629585,
       "num": 448220,
       "word": "疑似哈马斯释放人质画面",
@@ -227,6 +235,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 483784,
+      "num": 359174,
+      "word": "广东一高校老师美术馆看展时坠亡",
+      "onboard_time": 1697162676,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465932,
       "num": 465932,
       "word": "地球上80亿人只占了这么一小块地方",
@@ -257,14 +273,6 @@
       "onboard_time": 1697116360,
       "rank": 6,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 408711,
-      "num": 207102,
-      "word": "广东一高校老师美术馆看展时坠亡",
-      "onboard_time": 1697162676,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 405754,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 219299,
+      "num": 219299,
+      "word": "男孩为40岁头婚姑姑主持婚礼",
+      "onboard_time": 1697164053,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 214574,
       "num": 214574,
       "word": "104岁奶奶刷新跳伞最高龄纪录一周后去世",
@@ -545,6 +561,14 @@
       "onboard_time": 1697159435,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 208497,
+      "num": 208497,
+      "word": "天官赐福套餐",
+      "onboard_time": 1697164353,
+      "rank": 30,
+      "category": "动漫,剧集"
     },
     {
       "raw_hot": 208121,
@@ -667,6 +691,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 186570,
+      "num": 186570,
+      "word": "你会抢静音车厢吗",
+      "onboard_time": 1697164414,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185411,
       "num": 185411,
       "word": "黄绮珊别唱了我没眼泪了",
@@ -681,14 +713,6 @@
       "onboard_time": 1697126733,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181254,
-      "num": 181254,
-      "word": "正当防卫官宣",
-      "onboard_time": 1697163934,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 177979,
@@ -739,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163826,
+      "num": 163826,
+      "word": "徐娇陈思斯合照",
+      "onboard_time": 1697163692,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163412,
       "num": 163412,
       "word": "邓为 头套",
@@ -787,20 +819,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151535,
+      "num": 151535,
+      "word": "男子3年花19万8读了个假博士",
+      "onboard_time": 1697164476,
+      "rank": 40,
+      "category": "教育,社会新闻"
+    },
+    {
       "raw_hot": 147160,
       "num": 127550,
       "word": "e人和i人在理发店完全不一样",
       "onboard_time": 1697152886,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 146584,
-      "num": 146584,
-      "word": "徐娇陈思斯合照",
-      "onboard_time": 1697163692,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 142600,
@@ -825,6 +857,14 @@
       "onboard_time": 1697163511,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 135244,
+      "num": 135244,
+      "word": "虞书欣觉得自己其实是个i人",
+      "onboard_time": 1697163993,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130519,
@@ -907,6 +947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120221,
+      "num": 120221,
+      "word": "妈妈用自学海姆立克法救回卡喉女儿",
+      "onboard_time": 1697162194,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118322,
       "num": 118322,
       "word": "别再把假肺炎当真肺炎治了",
@@ -920,14 +968,6 @@
       "word": "刘宇宁回应折腰相关",
       "onboard_time": 1697115698,
       "rank": 45,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 117370,
-      "num": 117370,
-      "word": "虞书欣觉得自己其实是个i人",
-      "onboard_time": 1697163993,
-      "rank": 49,
       "category": "作品衍生"
     },
     {

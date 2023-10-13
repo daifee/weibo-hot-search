@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 10:27:27
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 10:38:18
 </p>
 </blockquote>
 <p>
@@ -717,6 +717,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%87%AA%E7%BC%A2%E4%BA%8B%E4%BB%B6%23" target="weibo">
+官方通报成都中学生校内自缢事件（热度：2198311）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%A3%E5%A8%A3%20%E5%88%9B5%23" target="weibo">
 欧阳娣娣 创5（热度：2190017）
 </a>
@@ -819,12 +825,6 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%88%90%E9%83%BD%E4%B8%AD%E5%AD%A6%E7%94%9F%E6%A0%A1%E5%86%85%E8%87%AA%E7%BC%A2%E4%BA%8B%E4%BB%B6%23" target="weibo">
-官方通报成都中学生校内自缢事件（热度：2122115）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E8%AF%81%E5%AE%9E%E6%80%80%E5%AD%95%E4%BC%9A%E9%83%A8%E5%88%86%E9%87%8D%E7%BD%AE%E5%87%86%E5%A6%88%E5%A6%88%E5%A4%A7%E8%84%91%23" target="weibo">
 研究证实怀孕会部分重置准妈妈大脑（热度：2121764）
 </a>
@@ -845,6 +845,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%AA%92%E6%9B%9D%E9%83%91%E5%B0%91%E7%A7%8B%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%9C%A8%E7%BE%8E%E5%8E%BB%E4%B8%96%23" target="weibo">
 港媒曝郑少秋大女儿在美去世（热度：2114528）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%94%23" target="weibo">
+周五（热度：2109433）
 </a>
 </li>
 
@@ -1685,12 +1691,6 @@ Jennie将常驻综艺公寓404（热度：1612589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%BB%8A%E9%BA%A6%20MiuMiu%23" target="weibo">
 赵今麦 MiuMiu（热度：1566291）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%94%23" target="weibo">
-周五（热度：1565579）
 </a>
 </li>
 
@@ -5385,6 +5385,12 @@ iPhone15Pro蓝色钛金属价格暴跌（热度：653784）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%AE%98%E5%AE%A3%23" target="weibo">
+正当防卫官宣（热度：650629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B4%A0%E9%A2%9C%E7%9A%84%E5%BE%90%E5%A8%87%23" target="weibo">
 素颜的徐娇（热度：650002）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E4%B8%80%E7%94%9F%E4%B8%AD%E6%9C%80%E7%88%B1%23" target="weibo">
 周杰伦 一生中最爱（热度：599519）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
-陈梦王艺迪（热度：599095）
 </a>
 </li>
 
