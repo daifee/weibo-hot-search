@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697207674773,
+  "endTime": 1697210309708,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -195,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1328232,
+      "num": 1328232,
+      "word": "10万元存款被银行员工转成理财",
+      "onboard_time": 1697207675,
+      "rank": 1,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1320641,
       "num": 494296,
       "word": "以色列",
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 974904,
-      "num": 430350,
+      "num": 498963,
       "word": "孙俪陪女儿看甄嬛传",
       "onboard_time": 1697204674,
       "rank": 10,
@@ -289,6 +297,14 @@
       "onboard_time": 1697153791,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 956101,
+      "num": 501141,
+      "word": "以色列在加沙地带附近集结坦克",
+      "onboard_time": 1697209537,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 939774,
@@ -304,6 +320,14 @@
       "word": "胡歌饰演张桂梅丈夫",
       "onboard_time": 1697178157,
       "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 928774,
+      "num": 928774,
+      "word": "封神",
+      "onboard_time": 1697209360,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -329,6 +353,14 @@
       "onboard_time": 1697109873,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 845967,
+      "num": 845967,
+      "word": "武大肖某某12个月不能评奖评优",
+      "onboard_time": 1697207736,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 824045,
@@ -369,6 +401,14 @@
       "onboard_time": 1697170297,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 798518,
+      "num": 798518,
+      "word": "本片拍摄无人员伤亡",
+      "onboard_time": 1697208095,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 788183,
@@ -579,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 557067,
+      "num": 557067,
+      "word": "辛芷蕾花少5回国助理接机认错人",
+      "onboard_time": 1697209715,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 556325,
       "num": 292905,
       "word": "每天都要擦一擦手机",
@@ -705,6 +753,14 @@
       "onboard_time": 1697199994,
       "rank": 8,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493254,
+      "num": 493254,
+      "word": "看offer知道发邮件的礼仪点",
+      "onboard_time": 1697209360,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 490710,
@@ -859,6 +915,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 414449,
+      "num": 414449,
+      "word": "张云雷挑战佛山电翰甩手",
+      "onboard_time": 1697209360,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 405754,
       "num": 405754,
       "word": "盖被子的顺序会影响保暖效果",
@@ -908,7 +972,7 @@
     },
     {
       "raw_hot": 380302,
-      "num": 188938,
+      "num": 209832,
       "word": "没想到这居然是正品香奈儿",
       "onboard_time": 1697205635,
       "rank": 30,
@@ -1235,6 +1299,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 298918,
+      "num": 298918,
+      "word": "戴了假发的井胧井迪",
+      "onboard_time": 1697209360,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 297644,
       "num": 285685,
       "word": "林俊杰和女歌手合唱记得四个版本",
@@ -1425,6 +1497,14 @@
       "onboard_time": 1697165434,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260751,
+      "num": 210422,
+      "word": "谁家男主一出场就要饭还挨打啊",
+      "onboard_time": 1697209838,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 259615,
@@ -1667,12 +1747,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 230973,
+      "num": 230973,
+      "word": "玻璃栈道上的雪不能踩",
+      "onboard_time": 1697208036,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 228845,
       "num": 228845,
       "word": "张艺兴吃了粉丝推荐的菜",
       "onboard_time": 1697122837,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228739,
+      "num": 228739,
+      "word": "崔然竣Chasing直拍",
+      "onboard_time": 1697209715,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 226525,
@@ -1689,6 +1785,14 @@
       "onboard_time": 1697202813,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225753,
+      "num": 225753,
+      "word": "动视暴雪宣布已完成与微软的交易",
+      "onboard_time": 1697207618,
+      "rank": 41,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 225155,
@@ -1825,6 +1929,14 @@
       "onboard_time": 1697158778,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212069,
+      "num": 212069,
+      "word": "4AM",
+      "onboard_time": 1697209418,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 211995,
@@ -2259,6 +2371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183728,
+      "num": 183728,
+      "word": "爱人如养花",
+      "onboard_time": 1697207796,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180914,
       "num": 180914,
       "word": "鸡屎藤糖水有多好喝",
@@ -2635,14 +2755,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 141374,
-      "num": 141374,
-      "word": "动视暴雪宣布已完成与微软的交易",
-      "onboard_time": 1697207618,
-      "rank": 41,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 139631,
       "num": 139631,
       "word": "韩国4比0突尼斯",
@@ -2795,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121446,
+      "num": 121446,
+      "word": "九尾催无畏抬杠",
+      "onboard_time": 1697208396,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120221,
       "num": 120221,
       "word": "妈妈用自学海姆立克法救回卡喉女儿",
@@ -2817,6 +2937,14 @@
       "onboard_time": 1697190212,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 117862,
+      "num": 117862,
+      "word": "去看演唱会的态度",
+      "onboard_time": 1697210197,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 117814,
@@ -2849,6 +2977,14 @@
       "onboard_time": 1697112275,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114674,
+      "num": 114674,
+      "word": "文咏珊红色大裙摆铺满一个房间",
+      "onboard_time": 1697210256,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114048,
@@ -3043,20 +3179,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28493,
+      "num": 1563403,
+      "word": "照片里的青春",
+      "onboard_time": 1697085820,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 27520,
       "num": 213988,
       "word": "草根篮球赛事有多卷",
       "onboard_time": 1697180438,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27476,
-      "num": 1563403,
-      "word": "照片里的青春",
-      "onboard_time": 1697085820,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24978,
