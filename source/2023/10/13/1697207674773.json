@@ -1,0 +1,410 @@
+{
+  "runTime": 1697207674773,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2395716,
+        "num": 2395716,
+        "word": "杨威自曝要终身佩戴呼吸机",
+        "onboard_time": 1697200236,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1472008,
+        "num": 1472008,
+        "word": "2岁男孩被关3天没吃饭其父亲手机关机",
+        "onboard_time": 1697201495,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 27476,
+        "num": 1277142,
+        "word": "照片里的青春",
+        "onboard_time": 1697085820,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1096495,
+        "num": 1096495,
+        "word": "大闸蟹入侵英国多地",
+        "onboard_time": 1697202276,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 624558,
+        "num": 624558,
+        "word": "姚政脚筋断了才想起来办社保",
+        "onboard_time": 1697190035,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436578,
+        "num": 436578,
+        "word": "韩国爆料博主金勇浩去世",
+        "onboard_time": 1697194954,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430880,
+        "num": 430880,
+        "word": "孙海洋哭诉结果难以接受将准备上诉",
+        "onboard_time": 1697188114,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430524,
+        "num": 430524,
+        "word": "沈梦辰羡慕杜海涛的原因",
+        "onboard_time": 1697199874,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376735,
+        "num": 430495,
+        "word": "汪峰首次回应热搜梗",
+        "onboard_time": 1697202576,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599080,
+        "num": 430450,
+        "word": "武汉大学对肖某某记过处分",
+        "onboard_time": 1697198794,
+        "rank": 9,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 874483,
+        "num": 430350,
+        "word": "孙俪陪女儿看甄嬛传",
+        "onboard_time": 1697204674,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 442357,
+        "num": 430272,
+        "word": "当我相信了新疆人说的简单吃一点",
+        "onboard_time": 1697202396,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 430272,
+        "num": 430271,
+        "word": "王蔷宣布订婚",
+        "onboard_time": 1697205936,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 429741,
+        "num": 429741,
+        "word": "赵丽颖去布拉格了",
+        "onboard_time": 1697199874,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409745,
+        "num": 409745,
+        "word": "狗头萝莉发文致歉",
+        "onboard_time": 1697179955,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 406251,
+        "num": 406251,
+        "word": "以色列",
+        "onboard_time": 1697190514,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 246319,
+        "num": 246319,
+        "word": "王鹤棣 直播",
+        "onboard_time": 1697199874,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234120,
+        "num": 234120,
+        "word": "卢昱晓回应追鹿晗吴世勋",
+        "onboard_time": 1697183255,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227876,
+        "num": 227876,
+        "word": "画个大浓妆去见仇人",
+        "onboard_time": 1697198736,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225919,
+        "num": 225919,
+        "word": "吴宣仪穿搭",
+        "onboard_time": 1697200955,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326058,
+        "num": 225902,
+        "word": "鼓励生育不能只盯着二孩",
+        "onboard_time": 1697191894,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252267,
+        "num": 225536,
+        "word": "张小斐新片被王子异掐脖子爆青筋",
+        "onboard_time": 1697201795,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236981,
+        "num": 224461,
+        "word": "我猜没有一个广东人能读对",
+        "onboard_time": 1697204796,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222130,
+        "num": 222130,
+        "word": "刘聪 抢票",
+        "onboard_time": 1697200595,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209756,
+        "num": 209756,
+        "word": "医院给出的正常体重范围",
+        "onboard_time": 1697197292,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 200849,
+        "num": 200849,
+        "word": "新M7爆单再投10亿保交付",
+        "onboard_time": 1697204915,
+        "rank": 25,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 188988,
+        "num": 188988,
+        "word": "武大通报学生举报图书馆被骚扰",
+        "onboard_time": 1697199632,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180006,
+        "num": 180006,
+        "word": "以驻日大使质问日本是什么意思",
+        "onboard_time": 1697194653,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 177590,
+        "num": 177590,
+        "word": "白鹿被周深笑到扶墙",
+        "onboard_time": 1697203535,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175262,
+        "num": 175262,
+        "word": "于适 宝诗龙",
+        "onboard_time": 1697193874,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 324364,
+        "num": 175163,
+        "word": "没想到这居然是正品香奈儿",
+        "onboard_time": 1697205635,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 206035,
+        "num": 175084,
+        "word": "KSG 状态",
+        "onboard_time": 1697206536,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170181,
+        "num": 170181,
+        "word": "张元英双马尾蝴蝶结造型",
+        "onboard_time": 1697200715,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169443,
+        "num": 169443,
+        "word": "王艺迪3比2王曼昱",
+        "onboard_time": 1697202994,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163273,
+        "num": 163273,
+        "word": "24岁女子顺转剖大出血多器官衰竭",
+        "onboard_time": 1697184813,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159433,
+        "num": 159433,
+        "word": "迪丽热巴花少5回国路透",
+        "onboard_time": 1697199994,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165530,
+        "num": 159124,
+        "word": "成都一学生被同学强迫吸氨气病危",
+        "onboard_time": 1697193035,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 155117,
+        "num": 155117,
+        "word": "校园暴力时保护我的女生结婚了",
+        "onboard_time": 1697202034,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150036,
+        "num": 150036,
+        "word": "你永远可以相信央视审美",
+        "onboard_time": 1697200535,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148694,
+        "num": 148694,
+        "word": "CMA正式批准微软收购动视暴雪",
+        "onboard_time": 1697207554,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 144997,
+        "num": 144997,
+        "word": "李宇春 冷宫歌",
+        "onboard_time": 1697201435,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141374,
+        "num": 141374,
+        "word": "动视暴雪宣布已完成与微软的交易",
+        "onboard_time": 1697207618,
+        "rank": 41,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 136823,
+        "num": 136823,
+        "word": "韩国人写的Jennie新闻标题",
+        "onboard_time": 1697193515,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133755,
+        "num": 133755,
+        "word": "一诺说不想让大家失望",
+        "onboard_time": 1697207435,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132446,
+        "num": 132446,
+        "word": "女子求职被要求做避孕措施后拍照报备",
+        "onboard_time": 1697188295,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130057,
+        "num": 130057,
+        "word": "不让龚俊走的媒体老师们",
+        "onboard_time": 1697202336,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129763,
+        "num": 129763,
+        "word": "日本4比1加拿大",
+        "onboard_time": 1697202813,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127163,
+        "num": 127163,
+        "word": "李宇春重庆演唱会嘉宾是妈妈",
+        "onboard_time": 1697199874,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 122448,
+        "num": 127159,
+        "word": "银行回应拒为无工作人员办银行卡",
+        "onboard_time": 1697192793,
+        "rank": 48,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 118382,
+        "num": 127149,
+        "word": "第一次见这么铁面无私的女主",
+        "onboard_time": 1697194593,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化江西篇章#"
+    }
+  }
+}

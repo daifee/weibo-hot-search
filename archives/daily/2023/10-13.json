@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697206604070,
+  "endTime": 1697207674773,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -227,8 +227,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1036620,
-      "num": 1036620,
+      "raw_hot": 1096495,
+      "num": 1096495,
       "word": "大闸蟹入侵英国多地",
       "onboard_time": 1697202276,
       "rank": 36,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 974904,
-      "num": 313656,
+      "num": 430350,
       "word": "孙俪陪女儿看甄嬛传",
       "onboard_time": 1697204674,
       "rank": 10,
@@ -811,12 +811,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 442357,
+      "num": 430272,
+      "word": "当我相信了新疆人说的简单吃一点",
+      "onboard_time": 1697202396,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 440451,
       "num": 440451,
       "word": "真正的下饭剧这不就来了",
       "onboard_time": 1697185713,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 430272,
+      "num": 430271,
+      "word": "王蔷宣布订婚",
+      "onboard_time": 1697205936,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 428694,
@@ -899,12 +915,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 376122,
-      "num": 311676,
-      "word": "当我相信了新疆人说的简单吃一点",
-      "onboard_time": 1697202396,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 376735,
+      "num": 430495,
+      "word": "汪峰首次回应热搜梗",
+      "onboard_time": 1697202576,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 370535,
@@ -1259,14 +1275,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 290313,
-      "num": 185173,
-      "word": "王蔷宣布订婚",
-      "onboard_time": 1697205936,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289608,
       "num": 289608,
       "word": "孙海洋希望对人贩子判处死刑",
@@ -1313,14 +1321,6 @@
       "onboard_time": 1697190275,
       "rank": 24,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 282729,
-      "num": 282729,
-      "word": "汪峰首次回应热搜梗",
-      "onboard_time": 1697202576,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 281634,
@@ -1475,6 +1475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252267,
+      "num": 247826,
+      "word": "张小斐新片被王子异掐脖子爆青筋",
+      "onboard_time": 1697201795,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251671,
       "num": 251671,
       "word": "薛之谦 抢票",
@@ -1497,14 +1505,6 @@
       "onboard_time": 1697173839,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 247826,
-      "num": 247826,
-      "word": "张小斐新片被王子异掐脖子爆青筋",
-      "onboard_time": 1697201795,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 247215,
@@ -1881,6 +1881,14 @@
       "onboard_time": 1697195014,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 206035,
+      "num": 175084,
+      "word": "KSG 状态",
+      "onboard_time": 1697206536,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 205389,
@@ -2547,6 +2555,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 148694,
+      "num": 148694,
+      "word": "CMA正式批准微软收购动视暴雪",
+      "onboard_time": 1697207554,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148129,
       "num": 210446,
       "word": "跟白羊座相处的诀窍",
@@ -2619,20 +2635,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141374,
+      "num": 141374,
+      "word": "动视暴雪宣布已完成与微软的交易",
+      "onboard_time": 1697207618,
+      "rank": 41,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 139631,
       "num": 139631,
       "word": "韩国4比0突尼斯",
       "onboard_time": 1697205816,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 137630,
-      "num": 137630,
-      "word": "KSG 状态",
-      "onboard_time": 1697206536,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 137022,
@@ -2673,6 +2689,14 @@
       "onboard_time": 1697178157,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133755,
+      "num": 133755,
+      "word": "一诺说不想让大家失望",
+      "onboard_time": 1697207435,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 133111,
@@ -3027,7 +3051,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27052,
+      "raw_hot": 27476,
       "num": 1563403,
       "word": "照片里的青春",
       "onboard_time": 1697085820,
@@ -3106,6 +3130,9 @@
     },
     {
       "word": "#一带一路中的中国理念#"
+    },
+    {
+      "word": "#奋力谱写中国式现代化江西篇章#"
     }
   ]
 }
