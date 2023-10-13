@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 20:50:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 21:22:45
 </p>
 </blockquote>
 <p>
@@ -437,6 +437,12 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E9%80%9F%E6%BB%91%E9%98%9F%E5%9B%A0%E8%BF%87%E6%97%A9%E5%BA%86%E7%A5%9D%E9%94%99%E5%A4%B1%E9%87%91%E7%89%8C%23" target="weibo">
 韩国速滑队因过早庆祝错失金牌（热度：2703385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23" target="weibo">
+杨威自曝要终身佩戴呼吸机（热度：2699222）
 </a>
 </li>
 
@@ -1125,12 +1131,6 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%A8%81%E8%87%AA%E6%9B%9D%E8%A6%81%E7%BB%88%E8%BA%AB%E4%BD%A9%E6%88%B4%E5%91%BC%E5%90%B8%E6%9C%BA%23" target="weibo">
-杨威自曝要终身佩戴呼吸机（热度：1904073）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
 狗头萝莉发文致歉（热度：1895203）
 </a>
@@ -1355,6 +1355,12 @@ Jennie王一博看秀待遇（热度：1809955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B7%B2%E5%A9%9A%E5%A5%B3%E5%AD%90%E9%99%AA%E9%A2%86%E5%AF%BC%E5%96%9D%E9%85%92%E9%86%89%E5%8D%A7%E8%A1%97%E5%A4%B4%23" target="weibo">
 官方通报已婚女子陪领导喝酒醉卧街头（热度：1760576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8E%E4%BC%A4%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%91%98%E5%AE%B6%E5%B1%9E%E7%9A%84%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8A%93%E8%8E%B7%23" target="weibo">
+扎伤以色列外交人员家属的嫌疑人被抓获（热度：1759463）
 </a>
 </li>
 
@@ -2933,6 +2939,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B1%9F%E7%BA%A2%23" target="weibo">
 满江红（热度：1047411）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%85%B33%E5%A4%A9%E6%B2%A1%E5%90%83%E9%A5%AD%E5%85%B6%E7%88%B6%E4%BA%B2%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA%23" target="weibo">
+2岁男孩被关3天没吃饭其父亲手机关机（热度：1045092）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E6%8C%A4%E4%B8%8D%E4%B8%8A%E8%BD%A6%E8%A2%AB%E6%BB%9E%E7%95%99%E7%AB%99%E5%8F%B0%23" target="weibo">
 12306回应乘客挤不上车被滞留站台（热度：618665）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%B7%E5%81%B7%E5%85%85%E5%80%BC%E6%B8%B8%E6%88%8F6000%E5%85%83%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E8%87%AA%E9%A6%96%23" target="weibo">
-女孩偷偷充值游戏6000元被妈妈带去自首（热度：618281）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%81%B6%E5%A5%B3%E5%A6%86%E9%80%A0%23" target="weibo">
-周也恶女妆造（热度：617919）
 </a>
 </li>
 
