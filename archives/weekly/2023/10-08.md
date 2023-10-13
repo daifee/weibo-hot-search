@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 06:16:13
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 06:34:14
 </p>
 </blockquote>
 <p>
@@ -4941,6 +4941,12 @@ vivo回应员工遭印度逮捕（热度：360700）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23BBC%E8%AE%B0%E8%80%85%E5%9C%A8%E5%8A%A0%E6%B2%99%E6%8A%A5%E9%81%93%E6%97%B6%E5%93%AD%E6%B3%A3%23" target="weibo">
+BBC记者在加沙报道时哭泣（热度：359299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%85%B8%E6%92%9E%E8%84%B8Doinb%23" target="weibo">
 姜典撞脸Doinb（热度：359245）
 </a>
@@ -5717,12 +5723,6 @@ gidle上海线下签售会（热度：318323）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E5%B8%B8%E7%94%A8%E7%89%99%E7%BA%BF%E4%BC%9A%E8%AE%A9%E7%89%99%E7%BC%9D%E5%8F%98%E5%AE%BD%E5%90%97%23" target="weibo">
 经常用牙线会让牙缝变宽吗（热度：313659）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BBC%E8%AE%B0%E8%80%85%E5%9C%A8%E5%8A%A0%E6%B2%99%E6%8A%A5%E9%81%93%E6%97%B6%E5%93%AD%E6%B3%A3%23" target="weibo">
-BBC记者在加沙报道时哭泣（热度：312939）
 </a>
 </li>
 
@@ -9447,6 +9447,12 @@ IVE小学生统领（热度：203600）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23" target="weibo">
+孟佳一口气生吃8种辣椒（热度：198059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TTG%E5%85%88%E4%B8%8B%E4%B8%80%E5%9F%8E%23" target="weibo">
 TTG先下一城（热度：197949）
 </a>
@@ -10539,6 +10545,12 @@ Liz哭了（热度：179674）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%943%E5%B2%81%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%85%B3%E8%BD%A6%E5%BA%933%E5%A4%A9%23" target="weibo">
+社区回应3岁孩子被父亲关车库3天（热度：178070）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%87%E6%B7%87%E6%96%B0%E7%89%87%E6%8B%9F%E9%82%80%E5%88%98%E4%BA%A6%E8%8F%B2%E5%80%AA%E5%A6%AE%E5%88%98%E6%B5%A9%E5%AD%98%23" target="weibo">
 文淇新片拟邀刘亦菲倪妮刘浩存（热度：177979）
 </a>
@@ -11559,12 +11571,6 @@ S13全球总决赛入围赛（热度：158738）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23" target="weibo">
-孟佳一口气生吃8种辣椒（热度：148866）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%B8%AE8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%89%BE%E5%A6%88%E5%A6%88%23" target="weibo">
 民警用无人机帮8岁男孩找妈妈（热度：148794）
 </a>
@@ -12267,12 +12273,6 @@ BDS晋级S13入围赛（热度：121285）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%943%E5%B2%81%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%85%B3%E8%BD%A6%E5%BA%933%E5%A4%A9%23" target="weibo">
-社区回应3岁孩子被父亲关车库3天（热度：117172）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E8%83%8C%E7%9D%80%E6%88%91%E4%BB%AC%E8%BE%8D%E5%AD%A6%E4%BA%86%23" target="weibo">
 我爸背着我们辍学了（热度：116662）
 </a>
@@ -12789,6 +12789,12 @@ TI12小组赛（热度：80652）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%82%E5%95%86%E4%B8%8D%E5%81%9A%E5%B0%8F%E5%B1%8F%E6%89%8B%E6%9C%BA%23" target="weibo">
+为什么厂商不做小屏手机（热度：68610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BF%83%E6%8A%8A%E9%97%B9%E9%92%9F%E5%85%B3%E6%8E%89%23" target="weibo">
 安心把闹钟关掉（热度：67343）
 </a>
@@ -12875,12 +12881,6 @@ TI12小组赛（热度：80652）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23" target="weibo">
 新华社记者直击巴以冲突最新情况（热度：58599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%82%E5%95%86%E4%B8%8D%E5%81%9A%E5%B0%8F%E5%B1%8F%E6%89%8B%E6%9C%BA%23" target="weibo">
-为什么厂商不做小屏手机（热度：57745）
 </a>
 </li>
 
@@ -13071,6 +13071,12 @@ TI12小组赛（热度：80652）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23" target="weibo">
+王毅谈巴以冲突（热度：36971）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8B%E8%A7%81%E4%B8%AD%E5%9B%BD%E5%8A%9B%E9%87%8F%23" target="weibo">
 看见中国力量（热度：36831）
 </a>
@@ -13113,12 +13119,6 @@ TI12小组赛（热度：80652）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E8%B0%88%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23" target="weibo">
-王毅谈巴以冲突（热度：32790）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E5%92%8C%E6%B0%94%E5%91%B3%E6%98%AF%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%23" target="weibo">
 音乐和气味是最强大的搜索引擎（热度：32741）
 </a>
@@ -13126,7 +13126,7 @@ TI12小组赛（热度：80652）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E8%BF%9E%E4%BD%93%E8%A1%A3%20%E4%BF%9D%E6%9A%96%E5%8F%88%E5%8F%AF%E7%88%B1%23" target="weibo">
-宝宝连体衣 保暖又可爱（热度：30690）
+宝宝连体衣 保暖又可爱（热度：31299）
 </a>
 </li>
 

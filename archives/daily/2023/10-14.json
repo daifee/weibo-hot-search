@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697235373967,
+  "endTime": 1697236454595,
   "band_list": [
     {
       "raw_hot": 1383869,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359299,
+      "num": 359299,
+      "word": "BBC记者在加沙报道时哭泣",
+      "onboard_time": 1697214868,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 348020,
       "num": 348020,
       "word": "文咏珊红色大裙摆铺满一个房间",
@@ -105,14 +113,6 @@
       "onboard_time": 1697209360,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312939,
-      "num": 271931,
-      "word": "BBC记者在加沙报道时哭泣",
-      "onboard_time": 1697214868,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 305105,
@@ -195,6 +195,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198059,
+      "num": 198059,
+      "word": "孟佳一口气生吃8种辣椒",
+      "onboard_time": 1697228774,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193390,
       "num": 193390,
       "word": "大闸蟹入侵英国多地",
@@ -212,11 +220,19 @@
     },
     {
       "raw_hot": 182352,
-      "num": 89709,
+      "num": 112468,
       "word": "加沙地带危在旦夕",
       "onboard_time": 1697215226,
       "rank": 31,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 178070,
+      "num": 83733,
+      "word": "社区回应3岁孩子被父亲关车库3天",
+      "onboard_time": 1697231593,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171739,
@@ -265,14 +281,6 @@
       "onboard_time": 1697198794,
       "rank": 28,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 148866,
-      "num": 148866,
-      "word": "孟佳一口气生吃8种辣椒",
-      "onboard_time": 1697228774,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 146330,
@@ -371,14 +379,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 117172,
-      "num": 68378,
-      "word": "社区回应3岁孩子被父亲关车库3天",
-      "onboard_time": 1697231593,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 116528,
       "num": 123791,
       "word": "4AM",
@@ -459,8 +459,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 57745,
-      "num": 57745,
+      "raw_hot": 68610,
+      "num": 68610,
       "word": "为什么厂商不做小屏手机",
       "onboard_time": 1697215526,
       "rank": 23,
@@ -499,7 +499,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 32790,
+      "raw_hot": 36971,
       "num": 48552,
       "word": "王毅谈巴以冲突",
       "onboard_time": 1697225175,
@@ -507,7 +507,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 30690,
+      "raw_hot": 31299,
       "num": 48526,
       "word": "宝宝连体衣 保暖又可爱",
       "onboard_time": 1697228234,
