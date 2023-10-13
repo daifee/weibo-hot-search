@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697221367179,
+  "endTime": 1697222192040,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -17475,20 +17475,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 28381,
+      "num": 49705,
+      "word": "戳爷新歌MV穿女装",
+      "onboard_time": 1697220916,
+      "rank": 48,
+      "category": "音乐,时尚"
+    },
+    {
       "raw_hot": 28321,
       "num": 28321,
       "word": "陈都灵吃饭也走流程",
       "onboard_time": 1696713134,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28087,
-      "num": 49489,
-      "word": "戳爷新歌MV穿女装",
-      "onboard_time": 1697220916,
-      "rank": 48,
-      "category": "音乐,时尚"
     },
     {
       "raw_hot": 27520,
@@ -17561,6 +17561,14 @@
       "onboard_time": 1696710493,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 23087,
+      "num": 49685,
+      "word": "自来水造浪计划",
+      "onboard_time": 1697221757,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 22611,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697221367179,
+  "endTime": 1697222192040,
   "band_list": [
     {
       "raw_hot": 1383869,
@@ -475,8 +475,8 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 28087,
-      "num": 49489,
+      "raw_hot": 28381,
+      "num": 49705,
       "word": "戳爷新歌MV穿女装",
       "onboard_time": 1697220916,
       "rank": 48,
@@ -488,6 +488,14 @@
       "word": "中国新电商大会",
       "onboard_time": 1697201316,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 23087,
+      "num": 49685,
+      "word": "自来水造浪计划",
+      "onboard_time": 1697221757,
+      "rank": 48,
       "category": "社会新闻"
     }
   ],
