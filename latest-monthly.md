@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 11:18:14
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 11:34:37
 </p>
 </blockquote>
 <p>
@@ -5145,6 +5145,12 @@ A股（热度：674863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E7%BE%8E%E6%9C%AF%E9%A6%86%E7%9C%8B%E5%B1%95%E6%97%B6%E5%9D%A0%E4%BA%A1%23" target="weibo">
+广东一高校老师美术馆看展时坠亡（热度：673688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%BA%9C%E6%9C%BA%E5%9C%BA%E4%BC%9A%E5%88%B6%E8%A3%81%E6%89%80%E6%9C%89%E5%8D%A1%E7%82%B9%E7%9A%84%E4%BA%BA%23" target="weibo">
 天府机场会制裁所有卡点的人（热度：673684）
 </a>
@@ -5727,6 +5733,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%A4%B1%E8%AF%AF%E7%A0%B8%E6%96%AD%E5%A5%B3%E7%94%9F4%E6%A0%B9%E8%84%9A%E8%B6%BE%23" target="weibo">
+男子健身房失误砸断女生4根脚趾（热度：622199）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%20%E4%B9%9D%E5%A4%B4%E7%9C%9F%E8%BA%AB%E6%9A%B4%E5%8A%9B%E7%BE%8E%E5%AD%A6%23" target="weibo">
 相柳 九头真身暴力美学（热度：621151）
 </a>
@@ -5789,12 +5801,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%81%B7%E5%81%B7%E5%85%85%E5%80%BC%E6%B8%B8%E6%88%8F6000%E5%85%83%E8%A2%AB%E5%A6%88%E5%A6%88%E5%B8%A6%E5%8E%BB%E8%87%AA%E9%A6%96%23" target="weibo">
 女孩偷偷充值游戏6000元被妈妈带去自首（热度：618281）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%A4%B1%E8%AF%AF%E7%A0%B8%E6%96%AD%E5%A5%B3%E7%94%9F4%E6%A0%B9%E8%84%9A%E8%B6%BE%23" target="weibo">
-男子健身房失误砸断女生4根脚趾（热度：618014）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BF%9B%E9%A9%AC%E9%BE%99%E5%87%BB%E6%8E%8C%23" target="weibo">
 王濛马龙击掌（热度：601296）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%236%E9%87%91%E5%BC%A0%E9%9B%A8%E9%9C%8F%E8%8E%B7%E8%AF%84%E6%9C%80%E6%9C%89%E4%BB%B7%E5%80%BC%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%23" target="weibo">
-6金张雨霏获评最有价值女运动员（热度：599668）
 </a>
 </li>
 

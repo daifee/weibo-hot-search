@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697167094663,
+  "endTime": 1697168077662,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -147,6 +147,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 673688,
+      "num": 673688,
+      "word": "广东一高校老师美术馆看展时坠亡",
+      "onboard_time": 1697162676,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 660094,
       "num": 660094,
       "word": "正当防卫官宣",
@@ -179,8 +187,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 618014,
-      "num": 388314,
+      "raw_hot": 622199,
+      "num": 429481,
       "word": "男子健身房失误砸断女生4根脚趾",
       "onboard_time": 1697165678,
       "rank": 10,
@@ -227,20 +235,20 @@
       "category": "动漫,剧集"
     },
     {
-      "raw_hot": 539950,
-      "num": 539950,
-      "word": "广东一高校老师美术馆看展时坠亡",
-      "onboard_time": 1697162676,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 520534,
       "num": 520534,
       "word": "跑男特别季大合照",
       "onboard_time": 1697155477,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 514891,
+      "num": 514891,
+      "word": "孙卓被拐案今日宣判",
+      "onboard_time": 1697165678,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510837,
@@ -259,12 +267,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 478187,
+      "num": 478187,
+      "word": "刘诗雯3比1钱天一",
+      "onboard_time": 1697167295,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 465932,
       "num": 465932,
       "word": "地球上80亿人只占了这么一小块地方",
       "onboard_time": 1697155477,
       "rank": 13,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 452205,
+      "num": 425730,
+      "word": "男子3年花19万8读了个假博士",
+      "onboard_time": 1697164476,
+      "rank": 40,
+      "category": "教育,社会新闻"
     },
     {
       "raw_hot": 450998,
@@ -275,12 +299,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 449042,
-      "num": 387683,
-      "word": "男子3年花19万8读了个假博士",
-      "onboard_time": 1697164476,
-      "rank": 40,
-      "category": "教育,社会新闻"
+      "raw_hot": 446634,
+      "num": 446634,
+      "word": "我的助理不简单定档",
+      "onboard_time": 1697166934,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 421221,
@@ -307,12 +331,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 389041,
-      "num": 389041,
-      "word": "孙卓被拐案今日宣判",
-      "onboard_time": 1697165678,
-      "rank": 9,
-      "category": "社会新闻"
+      "raw_hot": 398161,
+      "num": 398161,
+      "word": "巴西遭倒勾绝平",
+      "onboard_time": 1697166336,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 384535,
@@ -347,22 +371,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 341227,
-      "num": 341227,
-      "word": "巴西遭倒勾绝平",
-      "onboard_time": 1697166336,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 341025,
-      "num": 341025,
-      "word": "我的助理不简单定档",
-      "onboard_time": 1697166934,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 335374,
       "num": 299849,
       "word": "韩国女厕给外国人带来的冲击",
@@ -377,6 +385,22 @@
       "onboard_time": 1697159435,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 330225,
+      "num": 330225,
+      "word": "我本是高山",
+      "onboard_time": 1697166336,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 329326,
+      "num": 329326,
+      "word": "白敬亭李沐风开机照",
+      "onboard_time": 1697167116,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 326410,
@@ -417,6 +441,14 @@
       "onboard_time": 1697124097,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 297644,
+      "num": 236559,
+      "word": "林俊杰和女歌手合唱记得四个版本",
+      "onboard_time": 1697167415,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 297038,
@@ -483,14 +515,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 266196,
-      "num": 266196,
-      "word": "我本是高山",
-      "onboard_time": 1697166336,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 264864,
       "num": 239269,
       "word": "男子劳作后误喝500毫升汽车防冻液身亡",
@@ -507,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 262516,
+      "num": 262516,
+      "word": "再见爱人3网友拟邀嘉宾",
+      "onboard_time": 1697165434,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259615,
       "num": 259615,
       "word": "你的脾胃虚是怎么来的",
@@ -515,12 +547,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 258328,
-      "num": 216779,
-      "word": "再见爱人3网友拟邀嘉宾",
-      "onboard_time": 1697165434,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 256529,
+      "num": 256529,
+      "word": "天官赐福动画戚容海报",
+      "onboard_time": 1697166515,
+      "rank": 33,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 247215,
@@ -547,6 +579,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 240897,
+      "num": 240897,
+      "word": "南波万的聚会2整季预告",
+      "onboard_time": 1697166995,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239078,
       "num": 210759,
       "word": "叙利亚",
@@ -561,6 +601,14 @@
       "onboard_time": 1697122365,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237167,
+      "num": 237167,
+      "word": "北京女子电脑忘街头40分钟后找回",
+      "onboard_time": 1697166754,
+      "rank": 34,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 232554,
@@ -635,28 +683,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 211602,
-      "num": 211602,
-      "word": "南波万的聚会2整季预告",
-      "onboard_time": 1697166995,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210815,
       "num": 210815,
       "word": "收拾屋子找到了十年前的钱包",
       "onboard_time": 1697159435,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209199,
-      "num": 209199,
-      "word": "天官赐福动画戚容海报",
-      "onboard_time": 1697166515,
-      "rank": 33,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 208121,
@@ -667,12 +699,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207665,
-      "num": 207665,
-      "word": "北京女子电脑忘街头40分钟后找回",
-      "onboard_time": 1697166754,
-      "rank": 34,
-      "category": "社会新闻,科技"
+      "raw_hot": 207443,
+      "num": 207443,
+      "word": "时代少年团诠释各自潮流穿搭",
+      "onboard_time": 1697167054,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205389,
@@ -787,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 191534,
+      "num": 191534,
+      "word": "高叶新剧是大女主视角",
+      "onboard_time": 1697167592,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189956,
       "num": 189956,
       "word": "店铺起火左邻右舍拎着灭火器赶来",
@@ -843,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180261,
+      "num": 180261,
+      "word": "今天下了班打算干啥",
+      "onboard_time": 1697164953,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177979,
       "num": 177979,
       "word": "文淇新片拟邀刘亦菲倪妮刘浩存",
@@ -873,6 +921,14 @@
       "onboard_time": 1697154691,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170178,
+      "num": 170178,
+      "word": "小猫爬窗旁听讲课引师生围观",
+      "onboard_time": 1697167295,
+      "rank": 42,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 165687,
@@ -907,6 +963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 159883,
+      "num": 159883,
+      "word": "街边满地百元钞票路人报警默默守护",
+      "onboard_time": 1697168015,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159497,
       "num": 159497,
       "word": "许佳琪美拉德出逃妆",
@@ -931,6 +995,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156499,
+      "num": 156499,
+      "word": "老舅看到粉丝横幅的反应",
+      "onboard_time": 1697167775,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156167,
       "num": 139351,
       "word": "张译新片抽搐式愤怒",
@@ -945,14 +1017,6 @@
       "onboard_time": 1697122603,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 149832,
-      "num": 149832,
-      "word": "今天下了班打算干啥",
-      "onboard_time": 1697164953,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 147839,
@@ -999,14 +1063,6 @@
       "num": 135244,
       "word": "虞书欣觉得自己其实是个i人",
       "onboard_time": 1697163993,
-      "rank": 49,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135070,
-      "num": 135070,
-      "word": "时代少年团诠释各自潮流穿搭",
-      "onboard_time": 1697167054,
       "rank": 49,
       "category": "作品衍生"
     },
@@ -1164,7 +1220,7 @@
     },
     {
       "raw_hot": 89110,
-      "num": 601475,
+      "num": 649698,
       "word": "航天员向少先队员发出探索星辰大海约定",
       "onboard_time": 1697166694,
       "rank": 2,

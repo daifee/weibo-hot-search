@@ -1,0 +1,410 @@
+{
+  "runTime": 1697168077662,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1267263,
+        "num": 1267263,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 673688,
+        "num": 673688,
+        "word": "广东一高校老师美术馆看展时坠亡",
+        "onboard_time": 1697162676,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 83296,
+        "num": 649698,
+        "word": "航天员向少先队员发出探索星辰大海约定",
+        "onboard_time": 1697166694,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1480444,
+        "num": 647136,
+        "word": "周五",
+        "onboard_time": 1697157519,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 644006,
+        "num": 644006,
+        "word": "正当防卫官宣",
+        "onboard_time": 1697163934,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529881,
+        "num": 529881,
+        "word": "天官赐福套餐",
+        "onboard_time": 1697164353,
+        "rank": 5,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 528729,
+        "num": 528729,
+        "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
+        "onboard_time": 1697109873,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 514891,
+        "num": 514891,
+        "word": "孙卓被拐案今日宣判",
+        "onboard_time": 1697165678,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 478187,
+        "num": 478187,
+        "word": "刘诗雯3比1钱天一",
+        "onboard_time": 1697167295,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 446634,
+        "num": 446634,
+        "word": "我的助理不简单定档",
+        "onboard_time": 1697166934,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1431079,
+        "num": 446321,
+        "word": "官方通报成都中学生校内自缢事件",
+        "onboard_time": 1697161232,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 622199,
+        "num": 429481,
+        "word": "男子健身房失误砸断女生4根脚趾",
+        "onboard_time": 1697165678,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452205,
+        "num": 425730,
+        "word": "男子3年花19万8读了个假博士",
+        "onboard_time": 1697164476,
+        "rank": 12,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 398161,
+        "num": 398161,
+        "word": "巴西遭倒勾绝平",
+        "onboard_time": 1697166336,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 383377,
+        "num": 383377,
+        "word": "朋友称刘暖曦直播是为了修复心理",
+        "onboard_time": 1697155358,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 356788,
+        "num": 356788,
+        "word": "iPhone16Pro或配骁龙X75调制解调器",
+        "onboard_time": 1697161474,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 330225,
+        "num": 330225,
+        "word": "我本是高山",
+        "onboard_time": 1697166336,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329326,
+        "num": 329326,
+        "word": "白敬亭李沐风开机照",
+        "onboard_time": 1697167116,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307986,
+        "num": 307986,
+        "word": "中方与以色列方通话",
+        "onboard_time": 1697156257,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 304589,
+        "num": 304589,
+        "word": "南柱赫真的不是在拍韩剧吗",
+        "onboard_time": 1697153791,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 550285,
+        "num": 303944,
+        "word": "美国女子遭性侵被救下后又被其侵犯",
+        "onboard_time": 1697151743,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300517,
+        "num": 300517,
+        "word": "朴炯植朴宝英合照",
+        "onboard_time": 1697159856,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262516,
+        "num": 262516,
+        "word": "再见爱人3网友拟邀嘉宾",
+        "onboard_time": 1697165434,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261918,
+        "num": 261918,
+        "word": "男孩为40岁头婚姑姑主持婚礼",
+        "onboard_time": 1697164053,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259707,
+        "num": 259707,
+        "word": "男子买菜捡46万现金报警归还",
+        "onboard_time": 1697164712,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 258883,
+        "num": 258883,
+        "word": "折腰",
+        "onboard_time": 1697117385,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257599,
+        "num": 257599,
+        "word": "孙海洋说人贩子无任何悔意且傲慢",
+        "onboard_time": 1697160215,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256529,
+        "num": 256529,
+        "word": "天官赐福动画戚容海报",
+        "onboard_time": 1697166515,
+        "rank": 27,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 240897,
+        "num": 240897,
+        "word": "南波万的聚会2整季预告",
+        "onboard_time": 1697166995,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237167,
+        "num": 237167,
+        "word": "北京女子电脑忘街头40分钟后找回",
+        "onboard_time": 1697166754,
+        "rank": 29,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 297644,
+        "num": 236559,
+        "word": "林俊杰和女歌手合唱记得四个版本",
+        "onboard_time": 1697167415,
+        "rank": 30,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 233346,
+        "num": 233346,
+        "word": "12306推出静音车厢",
+        "onboard_time": 1697156677,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227584,
+        "num": 227584,
+        "word": "巴以冲突已致双方超2800人死亡",
+        "onboard_time": 1697154813,
+        "rank": 32,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 207443,
+        "num": 207443,
+        "word": "时代少年团诠释各自潮流穿搭",
+        "onboard_time": 1697167054,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202019,
+        "num": 202019,
+        "word": "妈妈反向育儿剥20多颗糖治女儿糖瘾",
+        "onboard_time": 1697160936,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198999,
+        "num": 198999,
+        "word": "十岁妹妹寄来的生日礼物",
+        "onboard_time": 1697165556,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191534,
+        "num": 191534,
+        "word": "高叶新剧是大女主视角",
+        "onboard_time": 1697167592,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191075,
+        "num": 191075,
+        "word": "中国人和德国人都沉默了",
+        "onboard_time": 1697154272,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 185075,
+        "num": 185075,
+        "word": "菲律宾男篮球员未通过兴奋剂检测",
+        "onboard_time": 1697158959,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180999,
+        "num": 180999,
+        "word": "梅西梅开二柱",
+        "onboard_time": 1697162676,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180261,
+        "num": 180261,
+        "word": "今天下了班打算干啥",
+        "onboard_time": 1697164953,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189068,
+        "num": 176189,
+        "word": "高叶大嫂的外表摇滚的心",
+        "onboard_time": 1697161593,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170178,
+        "num": 170178,
+        "word": "小猫爬窗旁听讲课引师生围观",
+        "onboard_time": 1697167295,
+        "rank": 42,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 159883,
+        "num": 159883,
+        "word": "街边满地百元钞票路人报警默默守护",
+        "onboard_time": 1697168015,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159541,
+        "num": 159541,
+        "word": "吃柚子前摔一摔柚子会更甜",
+        "onboard_time": 1697153730,
+        "rank": 44,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 156499,
+        "num": 156499,
+        "word": "老舅看到粉丝横幅的反应",
+        "onboard_time": 1697167775,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149796,
+        "num": 149796,
+        "word": "第一次见一车大金毛",
+        "onboard_time": 1697160633,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 145868,
+        "num": 145868,
+        "word": "地球上80亿人只占了这么一小块地方",
+        "onboard_time": 1697155477,
+        "rank": 47,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 145623,
+        "num": 145623,
+        "word": "大学物理老师课堂放电像银角大王",
+        "onboard_time": 1697165614,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145331,
+        "num": 145331,
+        "word": "太阳vs开拓者",
+        "onboard_time": 1697166277,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越不同地域共唱繁荣之路#"
+    }
+  }
+}
