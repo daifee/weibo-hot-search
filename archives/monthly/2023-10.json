@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697174192381,
+  "endTime": 1697175262079,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -7891,6 +7891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 610590,
+      "num": 379137,
+      "word": "泄露陈牧驰离婚信息或触刑法",
+      "onboard_time": 1697174798,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610212,
       "num": 610212,
       "word": "不想上班",
@@ -8401,6 +8409,14 @@
       "onboard_time": 1697024672,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 583351,
+      "num": 583351,
+      "word": "茅台董事长称白酒有很多很好的科技含量",
+      "onboard_time": 1697173181,
+      "rank": 13,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 582820,
@@ -10043,6 +10059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 498869,
+      "num": 498869,
+      "word": "张栋梁性张力",
+      "onboard_time": 1697174560,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 498764,
       "num": 464185,
       "word": "周润发谈韩国电影的竞争力",
@@ -11084,7 +11108,7 @@
     },
     {
       "raw_hot": 456418,
-      "num": 268985,
+      "num": 336044,
       "word": "反复长痘其实是湿热体质引起的",
       "onboard_time": 1697173181,
       "rank": 20,
@@ -11849,6 +11873,14 @@
       "onboard_time": 1696864117,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 430088,
+      "num": 369643,
+      "word": "男子当街鞭打女子长达8分钟",
+      "onboard_time": 1697173960,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 427371,
@@ -12995,14 +13027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 388630,
-      "num": 388630,
-      "word": "茅台董事长称白酒有很多很好的科技含量",
-      "onboard_time": 1697173181,
-      "rank": 13,
-      "category": "财经,社会新闻"
-    },
-    {
       "raw_hot": 387951,
       "num": 387951,
       "word": "刘玉栋说不会再有男篮做旗手",
@@ -13673,6 +13697,14 @@
       "onboard_time": 1696587939,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 368617,
+      "num": 368617,
+      "word": "蔡国庆陈楚生罗杰夫落叶归根",
+      "onboard_time": 1697174918,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 368551,
@@ -14451,6 +14483,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353113,
+      "num": 353113,
+      "word": "山崎贤人肿了么",
+      "onboard_time": 1697173539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 352991,
       "num": 352991,
       "word": "马龙在王濛面前i人属性爆发",
@@ -14771,6 +14811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 346484,
+      "num": 346484,
+      "word": "低盘发是梁洁的美丽开关",
+      "onboard_time": 1697173419,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 346304,
       "num": 346304,
       "word": "gidle英文首专",
@@ -14856,6 +14904,14 @@
       "word": "卢昱晓奔跑吧昆明录制",
       "onboard_time": 1697099137,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 344416,
+      "num": 344416,
+      "word": "关晓彤捧蓝玫瑰",
+      "onboard_time": 1697174021,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -15579,6 +15635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 326833,
+      "num": 326833,
+      "word": "未婚先孕男友失联了该怎么办",
+      "onboard_time": 1697174378,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 326801,
       "num": 326801,
       "word": "野生大熊猫破坏相机怼脸画面",
@@ -16057,6 +16121,14 @@
       "onboard_time": 1696470212,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316869,
+      "num": 316869,
+      "word": "古茗天官赐福动画联名",
+      "onboard_time": 1697174977,
+      "rank": 23,
+      "category": "动漫"
     },
     {
       "raw_hot": 316748,
@@ -18595,6 +18667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 275226,
+      "num": 244135,
+      "word": "李若彤四季青砍价1980买22件衣服",
+      "onboard_time": 1697174318,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275089,
       "num": 275089,
       "word": "中秋母亲拨通儿子生前号码民警暖心陪聊",
@@ -18961,6 +19041,14 @@
       "onboard_time": 1696914583,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 271075,
+      "num": 271075,
+      "word": "欧阳娜娜回归校园vlog",
+      "onboard_time": 1697174142,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 271026,
@@ -20019,14 +20107,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257273,
-      "num": 257273,
-      "word": "山崎贤人肿了么",
-      "onboard_time": 1697173539,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 257272,
       "num": 237926,
       "word": "吴艳妮冲击金牌",
@@ -20451,6 +20531,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 251427,
+      "num": 243478,
+      "word": "当公司的同事突然加我好友",
+      "onboard_time": 1697174497,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 251245,
       "num": 251245,
       "word": "海事部门已对走失女童开展搜救",
@@ -20609,6 +20697,14 @@
       "onboard_time": 1697112994,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 248837,
+      "num": 242794,
+      "word": "巴勒斯坦母亲吻别死去孩子",
+      "onboard_time": 1697174497,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 248445,
@@ -20987,14 +21083,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 245061,
-      "num": 245061,
-      "word": "关晓彤捧蓝玫瑰",
-      "onboard_time": 1697174021,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245055,
       "num": 245055,
       "word": "失笑开机",
@@ -21289,6 +21377,14 @@
       "onboard_time": 1697124517,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 241655,
+      "num": 241655,
+      "word": "第一次见又坏又苦的女主",
+      "onboard_time": 1697174497,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 241383,
@@ -21665,6 +21761,14 @@
       "onboard_time": 1696824338,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 237178,
+      "num": 237178,
+      "word": "主动约E人吃饭的后果",
+      "onboard_time": 1697173660,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 237167,
@@ -22977,6 +23081,14 @@
       "onboard_time": 1696978945,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 222475,
+      "num": 222475,
+      "word": "杨紫手势变装",
+      "onboard_time": 1697174737,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 222423,
@@ -24305,6 +24417,14 @@
       "onboard_time": 1696811319,
       "rank": 35,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 208510,
+      "num": 208510,
+      "word": "海清造型不提示都知道演的谁",
+      "onboard_time": 1697175099,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 208486,
@@ -25843,14 +25963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197601,
-      "num": 211555,
-      "word": "男子当街鞭打女子长达8分钟",
-      "onboard_time": 1697173960,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 197581,
       "num": 197581,
       "word": "杨超越车内自拍live图",
@@ -26209,14 +26321,6 @@
       "onboard_time": 1696659217,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195432,
-      "num": 211544,
-      "word": "主动约E人吃饭的后果",
-      "onboard_time": 1697173660,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 195421,
@@ -26699,6 +26803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192229,
+      "num": 192229,
+      "word": "王一博牛仔帽",
+      "onboard_time": 1697175216,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 192088,
       "num": 192088,
       "word": "张凌赫粉色眼影",
@@ -26985,14 +27097,6 @@
       "onboard_time": 1696943316,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 190205,
-      "num": 211527,
-      "word": "欧阳娜娜回归校园vlog",
-      "onboard_time": 1697174142,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 190179,
@@ -27625,6 +27729,14 @@
       "onboard_time": 1696241374,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185278,
+      "num": 185278,
+      "word": "把青春华章写在祖国大地上",
+      "onboard_time": 1697174497,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 185264,
@@ -28337,14 +28449,6 @@
       "onboard_time": 1696931253,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 179441,
-      "num": 211501,
-      "word": "低盘发是梁洁的美丽开关",
-      "onboard_time": 1697173419,
-      "rank": 40,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 179417,

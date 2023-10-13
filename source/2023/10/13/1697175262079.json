@@ -1,0 +1,410 @@
+{
+  "runTime": 1697175262079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1267600,
+        "num": 1267600,
+        "word": "以色列要求加沙北部上百万人迁移至南部",
+        "onboard_time": 1697169936,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 964421,
+        "num": 964421,
+        "word": "官员辟谣武大图书馆骚扰事件男生系其儿子",
+        "onboard_time": 1697172221,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45121,
+        "num": 759232,
+        "word": "航天员向少先队员发出探索星辰大海约定",
+        "onboard_time": 1697166694,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1079541,
+        "num": 750534,
+        "word": "周五",
+        "onboard_time": 1697157519,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 721083,
+        "num": 721083,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 583351,
+        "num": 583351,
+        "word": "茅台董事长称白酒有很多很好的科技含量",
+        "onboard_time": 1697173181,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 498869,
+        "num": 498869,
+        "word": "张栋梁性张力",
+        "onboard_time": 1697174560,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485317,
+        "num": 485317,
+        "word": "中国男篮能递补亚运金牌吗",
+        "onboard_time": 1697170297,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479575,
+        "num": 479575,
+        "word": "中方与以色列方通话",
+        "onboard_time": 1697156257,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 390668,
+        "num": 390668,
+        "word": "全智贤有种素面朝天的美",
+        "onboard_time": 1697170178,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 1331765,
+        "num": 386797,
+        "word": "刘暖曦朋友发声",
+        "onboard_time": 1697168555,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 910298,
+        "num": 380611,
+        "word": "难听",
+        "onboard_time": 1697173119,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 610590,
+        "num": 379137,
+        "word": "泄露陈牧驰离婚信息或触刑法",
+        "onboard_time": 1697174798,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430088,
+        "num": 369643,
+        "word": "男子当街鞭打女子长达8分钟",
+        "onboard_time": 1697173960,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368617,
+        "num": 368617,
+        "word": "蔡国庆陈楚生罗杰夫落叶归根",
+        "onboard_time": 1697174918,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360363,
+        "num": 360363,
+        "word": "官方通报成都中学生校内自缢事件",
+        "onboard_time": 1697161232,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 353113,
+        "num": 353113,
+        "word": "山崎贤人肿了么",
+        "onboard_time": 1697173539,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346484,
+        "num": 346484,
+        "word": "低盘发是梁洁的美丽开关",
+        "onboard_time": 1697173419,
+        "rank": 17,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 344416,
+        "num": 344416,
+        "word": "关晓彤捧蓝玫瑰",
+        "onboard_time": 1697174021,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 339310,
+        "num": 339310,
+        "word": "男子健身房失误砸断女生4根脚趾",
+        "onboard_time": 1697165678,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415598,
+        "num": 336044,
+        "word": "反复长痘其实是湿热体质引起的",
+        "onboard_time": 1697173181,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 326833,
+        "num": 326833,
+        "word": "未婚先孕男友失联了该怎么办",
+        "onboard_time": 1697174378,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322849,
+        "num": 322849,
+        "word": "美国女子遭性侵被救下后又被其侵犯",
+        "onboard_time": 1697151743,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316869,
+        "num": 316869,
+        "word": "古茗天官赐福动画联名",
+        "onboard_time": 1697174977,
+        "rank": 23,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 288518,
+        "num": 288518,
+        "word": "TXT回归",
+        "onboard_time": 1697170658,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271075,
+        "num": 271075,
+        "word": "欧阳娜娜回归校园vlog",
+        "onboard_time": 1697174142,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267695,
+        "num": 267695,
+        "word": "纯狱风是白敬亭的统治区",
+        "onboard_time": 1697168796,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258709,
+        "num": 258709,
+        "word": "柯佳嬿 没有一家之主的概念",
+        "onboard_time": 1697171079,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245648,
+        "num": 245648,
+        "word": "广东一高校老师美术馆看展时坠亡",
+        "onboard_time": 1697162676,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244491,
+        "num": 244491,
+        "word": "余华没想到河边的错误被改出来了",
+        "onboard_time": 1697168738,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275226,
+        "num": 244135,
+        "word": "李若彤四季青砍价1980买22件衣服",
+        "onboard_time": 1697174318,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251427,
+        "num": 243478,
+        "word": "当公司的同事突然加我好友",
+        "onboard_time": 1697174497,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248837,
+        "num": 242794,
+        "word": "巴勒斯坦母亲吻别死去孩子",
+        "onboard_time": 1697174497,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 241655,
+        "num": 241655,
+        "word": "第一次见又坏又苦的女主",
+        "onboard_time": 1697174497,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237178,
+        "num": 237178,
+        "word": "主动约E人吃饭的后果",
+        "onboard_time": 1697173660,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 222741,
+        "num": 222741,
+        "word": "张桂梅真实事迹改编电影",
+        "onboard_time": 1697170596,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 222475,
+        "num": 222475,
+        "word": "杨紫手势变装",
+        "onboard_time": 1697174737,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220423,
+        "num": 220423,
+        "word": "东北蔬菜丿了是什么",
+        "onboard_time": 1697171861,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216190,
+        "num": 216190,
+        "word": "IVE新歌Baddie公开",
+        "onboard_time": 1697170416,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216007,
+        "num": 216007,
+        "word": "IVE空降",
+        "onboard_time": 1697175038,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212844,
+        "num": 212844,
+        "word": "你有噗噗困难症吗",
+        "onboard_time": 1697170658,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212099,
+        "num": 212099,
+        "word": "披荆斩棘四公",
+        "onboard_time": 1697173839,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208510,
+        "num": 208510,
+        "word": "海清造型不提示都知道演的谁",
+        "onboard_time": 1697175099,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203467,
+        "num": 203467,
+        "word": "男孩为40岁头婚姑姑主持婚礼",
+        "onboard_time": 1697164053,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202282,
+        "num": 202282,
+        "word": "hybe的编舞",
+        "onboard_time": 1697171619,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 200379,
+        "num": 200379,
+        "word": "天官赐福动画戚容海报",
+        "onboard_time": 1697166515,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 192229,
+        "num": 192229,
+        "word": "王一博牛仔帽",
+        "onboard_time": 1697175216,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185278,
+        "num": 185278,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1697174497,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 182610,
+        "num": 182610,
+        "word": "高叶新剧是大女主视角",
+        "onboard_time": 1697167592,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174922,
+        "num": 174922,
+        "word": "男子3年花19万8读了个假博士",
+        "onboard_time": 1697164476,
+        "rank": 49,
+        "category": "教育,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越不同地域共唱繁荣之路#"
+    }
+  }
+}
