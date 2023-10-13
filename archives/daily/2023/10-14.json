@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697239017050,
+  "endTime": 1697240055309,
   "band_list": [
     {
       "raw_hot": 1383869,
@@ -27,6 +27,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 783326,
+      "num": 783326,
+      "word": "10万元存款被银行员工转成理财",
+      "onboard_time": 1697207675,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 760137,
       "num": 725715,
       "word": "以色列在加沙地带附近集结坦克",
@@ -41,14 +49,6 @@
       "onboard_time": 1697209360,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 658507,
-      "num": 658507,
-      "word": "10万元存款被银行员工转成理财",
-      "onboard_time": 1697207675,
-      "rank": 6,
-      "category": "财经"
     },
     {
       "raw_hot": 619428,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428304,
+      "num": 428304,
+      "word": "孟佳一口气生吃8种辣椒",
+      "onboard_time": 1697228774,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 407823,
       "num": 407823,
       "word": "汪顺遭老同学黄雅琼爆料是班上最皮",
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 387503,
-      "num": 387503,
-      "word": "孟佳一口气生吃8种辣椒",
-      "onboard_time": 1697228774,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 375824,
+      "num": 375824,
+      "word": "刘嘉玲在接受采访梁朝伟在玩手",
+      "onboard_time": 1697213732,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 348020,
@@ -115,20 +123,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333807,
+      "num": 333807,
+      "word": "社区回应3岁孩子被父亲关车库3天",
+      "onboard_time": 1697231593,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324862,
       "num": 324862,
       "word": "看offer知道发邮件的礼仪点",
       "onboard_time": 1697209360,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 305465,
-      "num": 305465,
-      "word": "社区回应3岁孩子被父亲关车库3天",
-      "onboard_time": 1697231593,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305105,
@@ -147,6 +155,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 297108,
+      "num": 210070,
+      "word": "村里开咖啡店 老头半夜起来种地",
+      "onboard_time": 1697236639,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 294818,
       "num": 294818,
       "word": "戴了假发的井胧井迪",
@@ -155,12 +171,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 285073,
-      "num": 285073,
-      "word": "刘嘉玲在接受采访梁朝伟在玩手",
-      "onboard_time": 1697213732,
+      "raw_hot": 289651,
+      "num": 289651,
+      "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
+      "onboard_time": 1697216962,
       "rank": 42,
-      "category": "作品衍生"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 265527,
@@ -177,14 +193,6 @@
       "onboard_time": 1697210915,
       "rank": 18,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 244689,
-      "num": 244689,
-      "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
-      "onboard_time": 1697216962,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 240595,
@@ -211,6 +219,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 212760,
+      "num": 212760,
+      "word": "加沙地带危在旦夕",
+      "onboard_time": 1697215226,
+      "rank": 31,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 206045,
       "num": 206045,
       "word": "当YG人跳JYP舞会出现的情况",
@@ -227,28 +243,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 187417,
-      "num": 184926,
-      "word": "村里开咖啡店 老头半夜起来种地",
-      "onboard_time": 1697236639,
-      "rank": 10,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 186685,
-      "num": 186685,
-      "word": "加沙地带危在旦夕",
-      "onboard_time": 1697215226,
-      "rank": 31,
-      "category": "国内要闻,军事"
-    },
-    {
       "raw_hot": 183075,
       "num": 183075,
       "word": "张云雷挑战佛山电翰甩手",
       "onboard_time": 1697209360,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 178245,
+      "num": 178245,
+      "word": "学生未按时到校班主任上门救下一家四口",
+      "onboard_time": 1697239284,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171739,
@@ -451,6 +459,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86777,
+      "num": 81187,
+      "word": "王毅谈巴以冲突",
+      "onboard_time": 1697225175,
+      "rank": 45,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 86646,
+      "num": 86646,
+      "word": "睡眠不足真的很糟糕",
+      "onboard_time": 1697222776,
+      "rank": 26,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83607,
       "num": 104671,
       "word": "爱人如养花",
@@ -475,24 +499,48 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72248,
-      "num": 72248,
-      "word": "睡眠不足真的很糟糕",
-      "onboard_time": 1697222776,
-      "rank": 26,
-      "category": "健康医疗"
+      "raw_hot": 76452,
+      "num": 76452,
+      "word": "搜救犬吠20秒让消防员知道这里有人",
+      "onboard_time": 1697239223,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 70420,
-      "num": 70420,
-      "word": "王毅谈巴以冲突",
-      "onboard_time": 1697225175,
-      "rank": 45,
-      "category": "国内要闻"
+      "raw_hot": 69472,
+      "num": 69472,
+      "word": "没有记者在场时的全红婵",
+      "onboard_time": 1697239764,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63080,
+      "num": 63080,
+      "word": "旅游时的顶级队友",
+      "onboard_time": 1697239644,
+      "rank": 40,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 62377,
+      "num": 62377,
+      "word": "黎巴嫩以色列临时边界发生交火",
+      "onboard_time": 1697239944,
+      "rank": 41,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 61940,
+      "num": 61940,
+      "word": "女子手写4页纸感谢民警帮找回父亲照片",
+      "onboard_time": 1697238078,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 56022,
-      "num": 56022,
+      "num": 61908,
       "word": "66岁大爷锻炼时跳河救了个人",
       "onboard_time": 1697238925,
       "rank": 38,
@@ -515,16 +563,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54252,
-      "num": 54252,
-      "word": "女子手写4页纸感谢民警帮找回父亲照片",
-      "onboard_time": 1697238078,
-      "rank": 40,
-      "category": "社会新闻"
+      "raw_hot": 54455,
+      "num": 61922,
+      "word": "周深just like fire舞台感染力",
+      "onboard_time": 1697239824,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 52468,
-      "num": 54152,
+      "num": 61905,
       "word": "水墨李莲花",
       "onboard_time": 1697217921,
       "rank": 44,
