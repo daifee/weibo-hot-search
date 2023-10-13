@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697196858674,
+  "endTime": 1697200421153,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -865,6 +865,14 @@
       "onboard_time": 1697105134,
       "rank": 30,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1695094,
+      "num": 1695094,
+      "word": "武汉大学对肖某某记过处分",
+      "onboard_time": 1697198794,
+      "rank": 0,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1692929,
@@ -1763,6 +1771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 995000,
+      "num": 995000,
+      "word": "韩国爆料博主金勇浩去世",
+      "onboard_time": 1697194954,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 988948,
       "num": 988948,
       "word": "王楚钦3比0林高远",
@@ -1777,6 +1793,14 @@
       "onboard_time": 1697138054,
       "rank": 30,
       "category": "社会新闻,幽默"
+    },
+    {
+      "raw_hot": 986746,
+      "num": 986746,
+      "word": "武大通报学生举报图书馆被骚扰",
+      "onboard_time": 1697199632,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 985075,
@@ -2675,6 +2699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 727237,
+      "num": 727237,
+      "word": "沈梦辰羡慕杜海涛的原因",
+      "onboard_time": 1697199874,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 716646,
       "num": 669597,
       "word": "美国室友试穿中国明朝藩王吉服",
@@ -3027,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 653883,
+      "num": 653883,
+      "word": "第一次见这么铁面无私的女主",
+      "onboard_time": 1697194593,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 653784,
       "num": 629321,
       "word": "iPhone15Pro蓝色钛金属价格暴跌",
@@ -3107,20 +3147,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 643723,
-      "num": 643723,
-      "word": "第一次见这么铁面无私的女主",
-      "onboard_time": 1697194593,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 643569,
       "num": 643569,
       "word": "中国网民叫新加坡坡县引发争议",
       "onboard_time": 1697003133,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642640,
+      "num": 426897,
+      "word": "赵丽颖去布拉格了",
+      "onboard_time": 1697199874,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 640841,
@@ -4491,6 +4531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493493,
+      "num": 493493,
+      "word": "迪丽热巴花少5回国路透",
+      "onboard_time": 1697199994,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 490710,
       "num": 298468,
       "word": "上班一个月吃了公司2600的零食",
@@ -4705,14 +4753,6 @@
       "onboard_time": 1696852113,
       "rank": 12,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 471474,
-      "num": 215115,
-      "word": "韩国爆料博主金勇浩去世",
-      "onboard_time": 1697194954,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 471073,
@@ -5251,6 +5291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428694,
+      "num": 428694,
+      "word": "以驻日大使质问日本是什么意思",
+      "onboard_time": 1697194653,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 427371,
       "num": 427371,
       "word": "肖战原野漫步好迷人",
@@ -5305,14 +5353,6 @@
       "onboard_time": 1696987654,
       "rank": 27,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 422135,
-      "num": 422135,
-      "word": "以驻日大使质问日本是什么意思",
-      "onboard_time": 1697194653,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 421771,
@@ -6137,6 +6177,14 @@
       "onboard_time": 1697081677,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 367634,
+      "num": 367634,
+      "word": "王鹤棣 直播",
+      "onboard_time": 1697199874,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 367275,
@@ -7411,6 +7459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 311384,
+      "num": 253510,
+      "word": "医院给出的正常体重范围",
+      "onboard_time": 1697197292,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 311305,
       "num": 311305,
       "word": "王牌对王牌",
@@ -7513,6 +7569,14 @@
       "onboard_time": 1697189014,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 307224,
+      "num": 191019,
+      "word": "画个大浓妆去见仇人",
+      "onboard_time": 1697198736,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 306182,
@@ -8587,6 +8651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270463,
+      "num": 270463,
+      "word": "陈梦vs陈幸同",
+      "onboard_time": 1697198494,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270446,
       "num": 270446,
       "word": "背了两年的包夹层是个纸壳子",
@@ -9089,6 +9161,14 @@
       "onboard_time": 1697001873,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 257398,
+      "num": 257398,
+      "word": "坠亡女教师家属称美术馆无警示牌",
+      "onboard_time": 1697194415,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 257197,
@@ -9737,14 +9817,6 @@
       "onboard_time": 1696942717,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 242147,
-      "num": 242147,
-      "word": "坠亡女教师家属称美术馆无警示牌",
-      "onboard_time": 1697194415,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242067,
@@ -10713,6 +10785,14 @@
       "onboard_time": 1697035836,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 221289,
+      "num": 221289,
+      "word": "于适冷帽造型",
+      "onboard_time": 1697199874,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 221119,
@@ -11955,6 +12035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199667,
+      "num": 199667,
+      "word": "李宇春重庆演唱会嘉宾是妈妈",
+      "onboard_time": 1697199874,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199598,
       "num": 199598,
       "word": "陈家平主用皮带止血",
@@ -12969,6 +13057,14 @@
       "onboard_time": 1696922015,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186991,
+      "num": 186991,
+      "word": "杨威自曝要终身佩戴呼吸机",
+      "onboard_time": 1697200236,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 186973,
@@ -15299,6 +15395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133111,
+      "num": 141290,
+      "word": "王者周年庆返场皮肤候选名单",
+      "onboard_time": 1697196634,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 132525,
       "num": 132525,
       "word": "司机高速遇3孩童独自行走帮报警",
@@ -15329,14 +15433,6 @@
       "onboard_time": 1697105016,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131430,
-      "num": 141290,
-      "word": "王者周年庆返场皮肤候选名单",
-      "onboard_time": 1697196634,
-      "rank": 46,
-      "category": "游戏"
     },
     {
       "raw_hot": 131140,
@@ -15409,6 +15505,14 @@
       "onboard_time": 1696856136,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128855,
+      "num": 128855,
+      "word": "跟白羊座相处的诀窍",
+      "onboard_time": 1697197474,
+      "rank": 39,
+      "category": "休闲"
     },
     {
       "raw_hot": 128662,
@@ -15659,6 +15763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117814,
+      "num": 117814,
+      "word": "消息称前公募一哥王亚伟被带走调查",
+      "onboard_time": 1697195555,
+      "rank": 44,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 117486,
       "num": 464287,
       "word": "周五周五轻松为主",
@@ -15721,6 +15833,14 @@
       "onboard_time": 1696980569,
       "rank": 38,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 114048,
+      "num": 114048,
+      "word": "LPL出征S13主题照",
+      "onboard_time": 1697197533,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 113780,
@@ -16025,6 +16145,14 @@
       "onboard_time": 1696685978,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 90977,
+      "num": 113988,
+      "word": "在江苏生活是种什么体验",
+      "onboard_time": 1697198794,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 90431,
@@ -16691,6 +16819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36123,
+      "num": 1379321,
+      "word": "一眼千年看景德镇文化强磁场",
+      "onboard_time": 1697182956,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 33948,
       "num": 33948,
       "word": "近5年时间记录100种花开瞬间",
@@ -16936,14 +17072,6 @@
       "word": "高质量发展调研行",
       "onboard_time": 1696996117,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9373,
-      "num": 1379321,
-      "word": "一眼千年看景德镇文化强磁场",
-      "onboard_time": 1697182956,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],
