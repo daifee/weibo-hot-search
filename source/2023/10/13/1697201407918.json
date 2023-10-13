@@ -1,0 +1,410 @@
+{
+  "runTime": 1697201407918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2216521,
+        "num": 2216521,
+        "word": "武汉大学对肖某某记过处分",
+        "onboard_time": 1697198794,
+        "rank": 0,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 1904073,
+        "num": 1904073,
+        "word": "杨威自曝要终身佩戴呼吸机",
+        "onboard_time": 1697200236,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5316,
+        "num": 1623323,
+        "word": "中国新电商大会",
+        "onboard_time": 1697201316,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1534893,
+        "num": 1534893,
+        "word": "武大通报学生举报图书馆被骚扰",
+        "onboard_time": 1697199632,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032714,
+        "num": 1032714,
+        "word": "鼓励生育不能只盯着二孩",
+        "onboard_time": 1697191894,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 921803,
+        "num": 921803,
+        "word": "沈梦辰羡慕杜海涛的原因",
+        "onboard_time": 1697199874,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 802718,
+        "num": 802718,
+        "word": "韩国爆料博主金勇浩去世",
+        "onboard_time": 1697194954,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 628754,
+        "num": 628754,
+        "word": "姚政脚筋断了才想起来办社保",
+        "onboard_time": 1697190035,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 580448,
+        "num": 580448,
+        "word": "王鹤棣 直播",
+        "onboard_time": 1697199874,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 521011,
+        "num": 521011,
+        "word": "第一次见这么铁面无私的女主",
+        "onboard_time": 1697194593,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 593508,
+        "num": 513990,
+        "word": "赵丽颖去布拉格了",
+        "onboard_time": 1697199874,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496064,
+        "num": 496064,
+        "word": "狗头萝莉发文致歉",
+        "onboard_time": 1697179955,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 446739,
+        "num": 446739,
+        "word": "以色列",
+        "onboard_time": 1697190514,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 35770,
+        "num": 404418,
+        "word": "一眼千年看景德镇文化强磁场",
+        "onboard_time": 1697182956,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390475,
+        "num": 390475,
+        "word": "以驻日大使质问日本是什么意思",
+        "onboard_time": 1697194653,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 363691,
+        "num": 363691,
+        "word": "迪丽热巴花少5回国路透",
+        "onboard_time": 1697199994,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 354272,
+        "num": 354272,
+        "word": "孙海洋哭诉结果难以接受将准备上诉",
+        "onboard_time": 1697188114,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319874,
+        "num": 319874,
+        "word": "画个大浓妆去见仇人",
+        "onboard_time": 1697198736,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 286912,
+        "num": 286912,
+        "word": "于适 宝诗龙",
+        "onboard_time": 1697193874,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 284429,
+        "num": 284429,
+        "word": "卢昱晓回应追鹿晗吴世勋",
+        "onboard_time": 1697183255,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572358,
+        "num": 283139,
+        "word": "成都一学生被同学强迫吸氨气病危",
+        "onboard_time": 1697193035,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 309087,
+        "num": 281830,
+        "word": "医院给出的正常体重范围",
+        "onboard_time": 1697197292,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 276956,
+        "num": 276956,
+        "word": "银行回应拒为无工作人员办银行卡",
+        "onboard_time": 1697192793,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 242912,
+        "num": 242912,
+        "word": "租客退房后留下满屋防撞条",
+        "onboard_time": 1697191954,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 219188,
+        "num": 219188,
+        "word": "陈梦vs陈幸同",
+        "onboard_time": 1697198494,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216148,
+        "num": 216148,
+        "word": "坠亡女教师家属称美术馆无警示牌",
+        "onboard_time": 1697194415,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190606,
+        "num": 216130,
+        "word": "韩国人写的Jennie新闻标题",
+        "onboard_time": 1697193515,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189082,
+        "num": 215310,
+        "word": "女子求职被要求做避孕措施后拍照报备",
+        "onboard_time": 1697188295,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188680,
+        "num": 214743,
+        "word": "24岁女子顺转剖大出血多器官衰竭",
+        "onboard_time": 1697184813,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183604,
+        "num": 214379,
+        "word": "于适冷帽造型",
+        "onboard_time": 1697199874,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 343389,
+        "num": 214062,
+        "word": "刘聪 抢票",
+        "onboard_time": 1697200595,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180239,
+        "num": 213726,
+        "word": "相恋1个月女友瘫痪男友陪伴31年",
+        "onboard_time": 1697189555,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171428,
+        "num": 212854,
+        "word": "张元英双马尾蝴蝶结造型",
+        "onboard_time": 1697200715,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163884,
+        "num": 212376,
+        "word": "你永远可以相信央视审美",
+        "onboard_time": 1697200535,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158561,
+        "num": 212148,
+        "word": "五月天演唱会",
+        "onboard_time": 1697195135,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154105,
+        "num": 211522,
+        "word": "LESSERAFIM个资变团资",
+        "onboard_time": 1697195014,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150972,
+        "num": 210918,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148129,
+        "num": 210446,
+        "word": "跟白羊座相处的诀窍",
+        "onboard_time": 1697197474,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 130204,
+        "num": 210407,
+        "word": "李宇春重庆演唱会嘉宾是妈妈",
+        "onboard_time": 1697199874,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119624,
+        "num": 209914,
+        "word": "这居然是TizzyT的歌",
+        "onboard_time": 1697191654,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 119148,
+        "num": 209090,
+        "word": "吴宣仪穿搭",
+        "onboard_time": 1697200955,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116860,
+        "num": 208830,
+        "word": "男子捡手机跟失主打太极民警一招整服",
+        "onboard_time": 1697195314,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115437,
+        "num": 208193,
+        "word": "果然是90后当父母了",
+        "onboard_time": 1697191415,
+        "rank": 42,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 114464,
+        "num": 207606,
+        "word": "王者周年庆返场皮肤候选名单",
+        "onboard_time": 1697196634,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107922,
+        "num": 207295,
+        "word": "长得像洋娃娃的黎巴嫩双胞胎",
+        "onboard_time": 1697193395,
+        "rank": 44,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 107751,
+        "num": 207005,
+        "word": "孙海洋哽咽说等了16年零4天的宣判",
+        "onboard_time": 1697181758,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106900,
+        "num": 206497,
+        "word": "郑钦文晋级郑州赛四强",
+        "onboard_time": 1697201376,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105699,
+        "num": 206055,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1697190755,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102451,
+        "num": 205291,
+        "word": "时代少年团演唱会澄清与提醒",
+        "onboard_time": 1697195014,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101621,
+        "num": 204713,
+        "word": "LPL出征S13主题照",
+        "onboard_time": 1697197533,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路中的中国理念#"
+    }
+  }
+}
