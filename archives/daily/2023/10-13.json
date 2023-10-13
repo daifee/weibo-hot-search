@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697171787860,
+  "endTime": 1697174192381,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2571386,
-      "num": 883448,
+      "num": 1172296,
       "word": "刘暖曦朋友发声",
       "onboard_time": 1697168555,
       "rank": 3,
@@ -59,11 +59,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1359442,
+      "num": 1359442,
+      "word": "官员辟谣武大图书馆骚扰事件男生系其儿子",
+      "onboard_time": 1697172221,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1316943,
       "num": 1316943,
       "word": "中方与以色列方通话",
       "onboard_time": 1697156257,
       "rank": 6,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1302063,
+      "num": 1302063,
+      "word": "以色列要求加沙北部上百万人迁移至南部",
+      "onboard_time": 1697169936,
+      "rank": 11,
       "category": "国外要闻"
     },
     {
@@ -73,14 +89,6 @@
       "onboard_time": 1697118162,
       "rank": 0,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 996400,
-      "num": 996400,
-      "word": "以色列要求加沙北部上百万人迁移至南部",
-      "onboard_time": 1697169936,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 988033,
@@ -105,6 +113,14 @@
       "onboard_time": 1697151743,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 925514,
+      "num": 737427,
+      "word": "难听",
+      "onboard_time": 1697173119,
+      "rank": 6,
+      "category": "音乐"
     },
     {
       "raw_hot": 905278,
@@ -339,6 +355,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 456418,
+      "num": 268985,
+      "word": "反复长痘其实是湿热体质引起的",
+      "onboard_time": 1697173181,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 452205,
       "num": 425730,
       "word": "男子3年花19万8读了个假博士",
@@ -356,7 +380,7 @@
     },
     {
       "raw_hot": 448731,
-      "num": 238426,
+      "num": 313617,
       "word": "柯佳嬿 没有一家之主的概念",
       "onboard_time": 1697171079,
       "rank": 30,
@@ -403,6 +427,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388812,
+      "num": 334307,
+      "word": "你有噗噗困难症吗",
+      "onboard_time": 1697170658,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 388630,
+      "num": 388630,
+      "word": "茅台董事长称白酒有很多很好的科技含量",
+      "onboard_time": 1697173181,
+      "rank": 13,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 384535,
       "num": 384535,
       "word": "梅西梅开二柱",
@@ -441,14 +481,6 @@
       "onboard_time": 1697119427,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 346635,
-      "num": 334307,
-      "word": "你有噗噗困难症吗",
-      "onboard_time": 1697170658,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 343890,
@@ -595,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 281634,
+      "num": 258825,
+      "word": "东北蔬菜丿了是什么",
+      "onboard_time": 1697171861,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 276710,
       "num": 276710,
       "word": "高叶大嫂的外表摇滚的心",
@@ -608,6 +648,14 @@
       "word": "杨超越 一言难尽的滤镜",
       "onboard_time": 1697115337,
       "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 270300,
+      "num": 270300,
+      "word": "hybe的编舞",
+      "onboard_time": 1697171619,
+      "rank": 42,
       "category": "作品衍生"
     },
     {
@@ -667,6 +715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 257273,
+      "num": 257273,
+      "word": "山崎贤人肿了么",
+      "onboard_time": 1697173539,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256529,
       "num": 256529,
       "word": "天官赐福动画戚容海报",
@@ -691,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 247972,
+      "num": 236289,
+      "word": "披荆斩棘四公",
+      "onboard_time": 1697173839,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247215,
       "num": 247215,
       "word": "白敬亭上下半身有季节差",
@@ -705,6 +769,14 @@
       "onboard_time": 1697160633,
       "rank": 41,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 245061,
+      "num": 245061,
+      "word": "关晓彤捧蓝玫瑰",
+      "onboard_time": 1697174021,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 241667,
@@ -915,14 +987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199674,
-      "num": 199674,
-      "word": "hybe的编舞",
-      "onboard_time": 1697171619,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 199353,
       "num": 199353,
       "word": "龙珠Daima",
@@ -939,12 +1003,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197601,
+      "num": 211555,
+      "word": "男子当街鞭打女子长达8分钟",
+      "onboard_time": 1697173960,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195484,
       "num": 195484,
       "word": "曹杨新歌歌词居然是李莎旻子写的",
       "onboard_time": 1697158177,
       "rank": 37,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 195432,
+      "num": 211544,
+      "word": "主动约E人吃饭的后果",
+      "onboard_time": 1697173660,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 195285,
@@ -1003,6 +1083,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 190205,
+      "num": 211527,
+      "word": "欧阳娜娜回归校园vlog",
+      "onboard_time": 1697174142,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189956,
       "num": 189956,
       "word": "店铺起火左邻右舍拎着灭火器赶来",
@@ -1012,7 +1100,7 @@
     },
     {
       "raw_hot": 189956,
-      "num": 189956,
+      "num": 211464,
       "word": "朱一龙想把戏服穿成自己的衣服",
       "onboard_time": 1697170297,
       "rank": 46,
@@ -1075,6 +1163,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179680,
+      "num": 211514,
+      "word": "女孩热爱游泳爸爸每天下班后陪练",
+      "onboard_time": 1697173361,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 179441,
+      "num": 211501,
+      "word": "低盘发是梁洁的美丽开关",
+      "onboard_time": 1697173419,
+      "rank": 40,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 177979,
       "num": 177979,
       "word": "文淇新片拟邀刘亦菲倪妮刘浩存",
@@ -1129,6 +1233,14 @@
       "onboard_time": 1697159378,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 163988,
+      "num": 211476,
+      "word": "夏日入侵企画抢票",
+      "onboard_time": 1697173599,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 163826,
@@ -1203,12 +1315,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 152857,
+      "num": 211438,
+      "word": "饲养员姜爷爷夸辉宝很能吃",
+      "onboard_time": 1697173484,
+      "rank": 46,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 147839,
       "num": 147839,
       "word": "中国少年先锋队建队74周年",
       "onboard_time": 1697166034,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147739,
+      "num": 211410,
+      "word": "J罗凌空破门",
+      "onboard_time": 1697172399,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 147160,
@@ -1404,7 +1532,7 @@
     },
     {
       "raw_hot": 91900,
-      "num": 896744,
+      "num": 1189871,
       "word": "航天员向少先队员发出探索星辰大海约定",
       "onboard_time": 1697166694,
       "rank": 2,

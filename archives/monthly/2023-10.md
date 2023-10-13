@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 12:36:27
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 13:16:32
 </p>
 </blockquote>
 <p>
@@ -2073,6 +2073,12 @@ IVE空降（热度：1376713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E5%91%98%E8%BE%9F%E8%B0%A3%E6%AD%A6%E5%A4%A7%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%AA%9A%E6%89%B0%E4%BA%8B%E4%BB%B6%E7%94%B7%E7%94%9F%E7%B3%BB%E5%85%B6%E5%84%BF%E5%AD%90%23" target="weibo">
+官员辟谣武大图书馆骚扰事件男生系其儿子（热度：1359442）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E6%9B%9D%E9%AB%98%E6%A0%A1%E5%A5%B3%E7%94%9F%E8%A2%AB%E8%A6%81%E6%B1%82%E6%8A%BD%E7%AD%BE%E8%BF%9B%E7%94%B7%E7%94%9F%E5%AE%BF%E8%88%8D%E6%90%9E%E5%8D%AB%E7%94%9F%23" target="weibo">
 网曝高校女生被要求抽签进男生宿舍搞卫生（热度：1359375）
 </a>
@@ -2201,6 +2207,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E5%9D%901%E5%B0%8F%E6%97%B6%E5%B9%B3%E5%9D%87%E5%AF%BF%E5%91%BD%E7%BC%A9%E7%9F%AD22%E5%88%86%E9%92%9F%23" target="weibo">
 每坐1小时平均寿命缩短22分钟（热度：1302987）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%B8%8A%E7%99%BE%E4%B8%87%E4%BA%BA%E8%BF%81%E7%A7%BB%E8%87%B3%E5%8D%97%E9%83%A8%23" target="weibo">
+以色列要求加沙北部上百万人迁移至南部（热度：1302063）
 </a>
 </li>
 
@@ -3027,12 +3039,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%A6%81%E6%B1%82%E5%8A%A0%E6%B2%99%E5%8C%97%E9%83%A8%E4%B8%8A%E7%99%BE%E4%B8%87%E4%BA%BA%E8%BF%81%E7%A7%BB%E8%87%B3%E5%8D%97%E9%83%A8%23" target="weibo">
-以色列要求加沙北部上百万人迁移至南部（热度：996400）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 外媒报道王一博巴黎时装周（热度：995359）
 </a>
@@ -3329,6 +3335,12 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9C%A8%E5%8F%A4%E5%81%B6%E8%A7%81%E7%94%B7%E4%B8%BB%E9%80%81%E5%A5%B3%E4%B8%BB%E8%8E%B2%E8%8A%B1%23" target="weibo">
 第一次在古偶见男主送女主莲花（热度：925719）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E5%90%AC%23" target="weibo">
+难听（热度：925514）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%9C%B0%E9%93%81%E7%AB%99%E5%81%B6%E9%81%87%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%23" target="weibo">
 韩国地铁站偶遇天官赐福（热度：604430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E5%90%8C%E5%90%8D%E5%90%8C%E5%A7%93%E7%9B%B8%E6%81%8B7%E5%B9%B4%E5%90%8E%E6%81%A9%E7%88%B1%E8%AE%A2%E5%A9%9A%23" target="weibo">
-情侣同名同姓相恋7年后恩爱订婚（热度：603957）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%90%9B%E5%B1%B11%E5%85%83%E5%8D%88%E9%A4%90%E7%9B%98%E7%82%B9%E5%A4%9A%E5%87%BA1012%E5%85%83%23" target="weibo">
-老君山1元午餐盘点多出1012元（热度：603400）
 </a>
 </li>
 
