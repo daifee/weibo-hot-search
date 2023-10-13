@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697217342860,
+  "endTime": 1697218443854,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -7611,6 +7611,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 312939,
+      "num": 85664,
+      "word": "BBC记者在加沙报道时哭泣",
+      "onboard_time": 1697214868,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 312587,
       "num": 511026,
       "word": "上海女童失联监护人是否担刑责",
@@ -8409,14 +8417,6 @@
       "onboard_time": 1696749094,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286011,
-      "num": 85664,
-      "word": "BBC记者在加沙报道时哭泣",
-      "onboard_time": 1697214868,
-      "rank": 47,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 285805,
@@ -15955,6 +15955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 131714,
+      "num": 131714,
+      "word": "猫咪误把零食当成了猫条",
+      "onboard_time": 1697215585,
+      "rank": 19,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 131205,
       "num": 131205,
       "word": "钟意天秀飞雷神",
@@ -15985,14 +15993,6 @@
       "onboard_time": 1696920515,
       "rank": 46,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 130271,
-      "num": 130271,
-      "word": "猫咪误把零食当成了猫条",
-      "onboard_time": 1697215585,
-      "rank": 19,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 130085,
@@ -16217,6 +16217,14 @@
       "onboard_time": 1697208396,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121389,
+      "num": 121389,
+      "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
+      "onboard_time": 1697216962,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121335,
@@ -16963,6 +16971,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 70631,
+      "num": 70631,
+      "word": "i人最完美的周末休息法",
+      "onboard_time": 1697217382,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 70630,
       "num": 1982190,
       "word": "杭州亚运会高燃时刻大盘点",
@@ -17024,14 +17040,6 @@
       "word": "为啥直播带货抽佣这么高",
       "onboard_time": 1696804640,
       "rank": 40,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 65317,
-      "num": 71703,
-      "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
-      "onboard_time": 1697216962,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -17217,6 +17225,14 @@
       "onboard_time": 1697130681,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52468,
+      "num": 54130,
+      "word": "水墨李莲花",
+      "onboard_time": 1697217921,
+      "rank": 44,
+      "category": "动漫"
     },
     {
       "raw_hot": 52184,

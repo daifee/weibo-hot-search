@@ -1,0 +1,410 @@
+{
+  "runTime": 1697218443854,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 503211,
+        "num": 503211,
+        "word": "杨威自曝要终身佩戴呼吸机",
+        "onboard_time": 1697200236,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 403343,
+        "num": 403343,
+        "word": "封神",
+        "onboard_time": 1697209360,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17673,
+        "num": 339954,
+        "word": "中国新电商大会",
+        "onboard_time": 1697201316,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308810,
+        "num": 308810,
+        "word": "图书馆见证了大学生的精神状态",
+        "onboard_time": 1697212472,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 246009,
+        "num": 246009,
+        "word": "本片拍摄无人员伤亡",
+        "onboard_time": 1697208095,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188047,
+        "num": 188047,
+        "word": "看我用虾做的虾片",
+        "onboard_time": 1697211813,
+        "rank": 5,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186753,
+        "num": 186753,
+        "word": "10万元存款被银行员工转成理财",
+        "onboard_time": 1697207675,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177313,
+        "num": 177313,
+        "word": "辛芷蕾花少5回国助理接机认错人",
+        "onboard_time": 1697209715,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171925,
+        "num": 171925,
+        "word": "时代峰峻让粉丝买到门票后再订机酒",
+        "onboard_time": 1697211694,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 153959,
+        "num": 153959,
+        "word": "以色列在加沙地带附近集结坦克",
+        "onboard_time": 1697209537,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 253071,
+        "num": 153817,
+        "word": "刘嘉玲在接受采访梁朝伟在玩手",
+        "onboard_time": 1697213732,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175850,
+        "num": 153752,
+        "word": "狗头萝莉发文致歉",
+        "onboard_time": 1697179955,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 167742,
+        "num": 153355,
+        "word": "2岁男孩被关3天没吃饭其父亲手机关机",
+        "onboard_time": 1697201495,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152674,
+        "num": 152674,
+        "word": "以色列",
+        "onboard_time": 1697190514,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 136447,
+        "num": 136447,
+        "word": "武大肖某某12个月不能评奖评优",
+        "onboard_time": 1697207736,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135404,
+        "num": 135404,
+        "word": "文咏珊红色大裙摆铺满一个房间",
+        "onboard_time": 1697210256,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131714,
+        "num": 131714,
+        "word": "猫咪误把零食当成了猫条",
+        "onboard_time": 1697215585,
+        "rank": 16,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 121402,
+        "num": 121402,
+        "word": "当YG人跳JYP舞会出现的情况",
+        "onboard_time": 1697212773,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121389,
+        "num": 121389,
+        "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
+        "onboard_time": 1697216962,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112715,
+        "num": 112715,
+        "word": "孙俪陪女儿看甄嬛传",
+        "onboard_time": 1697204674,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98049,
+        "num": 98049,
+        "word": "赵丽颖去布拉格了",
+        "onboard_time": 1697199874,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87804,
+        "num": 87804,
+        "word": "医院给出的正常体重范围",
+        "onboard_time": 1697197292,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87460,
+        "num": 87460,
+        "word": "武汉大学对肖某某记过处分",
+        "onboard_time": 1697198794,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 85939,
+        "num": 85939,
+        "word": "2023爱奇艺尖叫之夜拟邀阵容",
+        "onboard_time": 1697213790,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83240,
+        "num": 83240,
+        "word": "我猜没有一个广东人能读对",
+        "onboard_time": 1697204796,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81032,
+        "num": 81032,
+        "word": "看offer知道发邮件的礼仪点",
+        "onboard_time": 1697209360,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79888,
+        "num": 79888,
+        "word": "以驻日大使质问日本是什么意思",
+        "onboard_time": 1697194653,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 71218,
+        "num": 71218,
+        "word": "于适 宝诗龙",
+        "onboard_time": 1697193874,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 70714,
+        "num": 70714,
+        "word": "王艺瑾国家大剧院学跳康康舞",
+        "onboard_time": 1697210915,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70631,
+        "num": 70631,
+        "word": "i人最完美的周末休息法",
+        "onboard_time": 1697217382,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 312939,
+        "num": 70345,
+        "word": "BBC记者在加沙报道时哭泣",
+        "onboard_time": 1697214868,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 180628,
+        "num": 69627,
+        "word": "加沙地带危在旦夕",
+        "onboard_time": 1697215226,
+        "rank": 31,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 92476,
+        "num": 69395,
+        "word": "没想到这居然是正品香奈儿",
+        "onboard_time": 1697205635,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68300,
+        "num": 68300,
+        "word": "王鹤棣 直播",
+        "onboard_time": 1697199874,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67056,
+        "num": 67056,
+        "word": "关晓彤说左双桃撒娇是被逼的",
+        "onboard_time": 1697213434,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66623,
+        "num": 66623,
+        "word": "戴了假发的井胧井迪",
+        "onboard_time": 1697209360,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64443,
+        "num": 64443,
+        "word": "沈梦辰羡慕杜海涛的原因",
+        "onboard_time": 1697199874,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 63146,
+        "num": 63146,
+        "word": "张元英双马尾蝴蝶结造型",
+        "onboard_time": 1697200715,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62685,
+        "num": 62685,
+        "word": "大闸蟹入侵英国多地",
+        "onboard_time": 1697202276,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60387,
+        "num": 60387,
+        "word": "孙海洋哭诉结果难以接受将准备上诉",
+        "onboard_time": 1697188114,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60210,
+        "num": 60210,
+        "word": "陆虎说姚政是自己的一道疤",
+        "onboard_time": 1697214031,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56661,
+        "num": 56661,
+        "word": "阿勒泰的冬天",
+        "onboard_time": 1697210497,
+        "rank": 41,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 55955,
+        "num": 55955,
+        "word": "武大通报学生举报图书馆被骚扰",
+        "onboard_time": 1697199632,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54130,
+        "num": 54130,
+        "word": "汪顺遭老同学黄雅琼爆料是班上最皮",
+        "onboard_time": 1697210674,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52468,
+        "num": 54130,
+        "word": "水墨李莲花",
+        "onboard_time": 1697217921,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 47632,
+        "num": 54105,
+        "word": "韩国爆料博主金勇浩去世",
+        "onboard_time": 1697194954,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47362,
+        "num": 54089,
+        "word": "你永远可以相信央视审美",
+        "onboard_time": 1697200535,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 47332,
+        "num": 54081,
+        "word": "韩国人写的Jennie新闻标题",
+        "onboard_time": 1697193515,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43738,
+        "num": 54067,
+        "word": "动视暴雪宣布已完成与微软的交易",
+        "onboard_time": 1697207618,
+        "rank": 48,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 43648,
+        "num": 54053,
+        "word": "迪丽热巴花少5回国路透",
+        "onboard_time": 1697199994,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的长江情怀#"
+    }
+  }
+}
