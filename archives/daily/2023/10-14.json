@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697232859010,
+  "endTime": 1697235373967,
   "band_list": [
     {
       "raw_hot": 1383869,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 312939,
-      "num": 85664,
+      "num": 271931,
       "word": "BBC记者在加沙报道时哭泣",
       "onboard_time": 1697214868,
       "rank": 47,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 182352,
-      "num": 85384,
+      "num": 89709,
       "word": "加沙地带危在旦夕",
       "onboard_time": 1697215226,
       "rank": 31,
@@ -265,6 +265,14 @@
       "onboard_time": 1697198794,
       "rank": 28,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 148866,
+      "num": 148866,
+      "word": "孟佳一口气生吃8种辣椒",
+      "onboard_time": 1697228774,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 146330,
@@ -363,6 +371,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 117172,
+      "num": 68378,
+      "word": "社区回应3岁孩子被父亲关车库3天",
+      "onboard_time": 1697231593,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116528,
       "num": 123791,
       "word": "4AM",
@@ -417,14 +433,6 @@
       "onboard_time": 1697205936,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86492,
-      "num": 86492,
-      "word": "孟佳一口气生吃8种辣椒",
-      "onboard_time": 1697228774,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 83607,
@@ -492,23 +500,15 @@
     },
     {
       "raw_hot": 32790,
-      "num": 48394,
+      "num": 48552,
       "word": "王毅谈巴以冲突",
       "onboard_time": 1697225175,
       "rank": 45,
       "category": "国内要闻"
     },
     {
-      "raw_hot": 32691,
-      "num": 30574,
-      "word": "社区回应3岁孩子被父亲关车库3天",
-      "onboard_time": 1697231593,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 30690,
-      "num": 46191,
+      "num": 48526,
       "word": "宝宝连体衣 保暖又可爱",
       "onboard_time": 1697228234,
       "rank": 49,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 23368,
-      "num": 36179,
+      "num": 48333,
       "word": "DOTA2",
       "onboard_time": 1697228714,
       "rank": 42,

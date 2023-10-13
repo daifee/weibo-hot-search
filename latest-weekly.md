@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 05:34:19
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 06:16:13
 </p>
 </blockquote>
 <p>
@@ -11559,6 +11559,12 @@ S13全球总决赛入围赛（热度：158738）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23" target="weibo">
+孟佳一口气生吃8种辣椒（热度：148866）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%B8%AE8%E5%B2%81%E7%94%B7%E5%AD%A9%E6%89%BE%E5%A6%88%E5%A6%88%23" target="weibo">
 民警用无人机帮8岁男孩找妈妈（热度：148794）
 </a>
@@ -12261,6 +12267,12 @@ BDS晋级S13入围赛（热度：121285）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%943%E5%B2%81%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%85%B3%E8%BD%A6%E5%BA%933%E5%A4%A9%23" target="weibo">
+社区回应3岁孩子被父亲关车库3天（热度：117172）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E8%83%8C%E7%9D%80%E6%88%91%E4%BB%AC%E8%BE%8D%E5%AD%A6%E4%BA%86%23" target="weibo">
 我爸背着我们辍学了（热度：116662）
 </a>
@@ -12593,12 +12605,6 @@ aespa将11月10日回归（热度：89406）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%A4%A7%E6%A0%91%E7%AB%9F%E7%84%B6%E4%B9%9F%E5%88%86%E9%9B%8C%E9%9B%84%23" target="weibo">
 没想到大树竟然也分雌雄（热度：88182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E4%BD%B3%E4%B8%80%E5%8F%A3%E6%B0%94%E7%94%9F%E5%90%838%E7%A7%8D%E8%BE%A3%E6%A4%92%23" target="weibo">
-孟佳一口气生吃8种辣椒（热度：86492）
 </a>
 </li>
 
@@ -13115,12 +13121,6 @@ TI12小组赛（热度：80652）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%B3%E4%B9%90%E5%92%8C%E6%B0%94%E5%91%B3%E6%98%AF%E6%9C%80%E5%BC%BA%E5%A4%A7%E7%9A%84%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%23" target="weibo">
 音乐和气味是最强大的搜索引擎（热度：32741）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%9B%9E%E5%BA%943%E5%B2%81%E5%AD%A9%E5%AD%90%E8%A2%AB%E7%88%B6%E4%BA%B2%E5%85%B3%E8%BD%A6%E5%BA%933%E5%A4%A9%23" target="weibo">
-社区回应3岁孩子被父亲关车库3天（热度：32691）
 </a>
 </li>
 
