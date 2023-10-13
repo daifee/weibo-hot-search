@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697222192040,
+  "endTime": 1697224440300,
   "band_list": [
     {
       "raw_hot": 1383869,
@@ -473,6 +473,14 @@
       "onboard_time": 1697217921,
       "rank": 44,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 31033,
+      "num": 48088,
+      "word": "睡眠不足真的很糟糕",
+      "onboard_time": 1697222776,
+      "rank": 26,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 28381,
