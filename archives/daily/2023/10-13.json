@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697179036129,
+  "endTime": 1697181363500,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -67,10 +67,34 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1409628,
+      "num": 626598,
+      "word": "董宇辉 无耻的偶像剧恋爱观",
+      "onboard_time": 1697177200,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1359442,
       "num": 1359442,
       "word": "官员辟谣武大图书馆骚扰事件男生系其儿子",
       "onboard_time": 1697172221,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1347889,
+      "num": 366350,
+      "word": "狗头萝莉发文致歉",
+      "onboard_time": 1697179955,
+      "rank": 10,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 1330011,
+      "num": 1330011,
+      "word": "京东辟谣刘姓商人被抓",
+      "onboard_time": 1697180316,
       "rank": 0,
       "category": "社会新闻"
     },
@@ -123,20 +147,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 945172,
-      "num": 626598,
-      "word": "董宇辉 无耻的偶像剧恋爱观",
-      "onboard_time": 1697177200,
-      "rank": 4,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 939774,
       "num": 335639,
       "word": "美国女子遭性侵被救下后又被其侵犯",
       "onboard_time": 1697151743,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 938609,
+      "num": 454613,
+      "word": "胡歌饰演张桂梅丈夫",
+      "onboard_time": 1697178157,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 925514,
@@ -155,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 824045,
+      "num": 588757,
+      "word": "美国政府将从13日开始安排撤侨航班",
+      "onboard_time": 1697177316,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 822041,
       "num": 636965,
       "word": "张栋梁性张力",
@@ -169,14 +201,6 @@
       "onboard_time": 1697117385,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 819174,
-      "num": 588757,
-      "word": "美国政府将从13日开始安排撤侨航班",
-      "onboard_time": 1697177316,
-      "rank": 13,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 802661,
@@ -411,8 +435,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 480032,
-      "num": 287464,
+      "raw_hot": 490014,
+      "num": 293803,
       "word": "上班一个月吃了公司2600的零食",
       "onboard_time": 1697178338,
       "rank": 20,
@@ -443,20 +467,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 454613,
-      "num": 454613,
-      "word": "胡歌饰演张桂梅丈夫",
-      "onboard_time": 1697178157,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 452205,
       "num": 425730,
       "word": "男子3年花19万8读了个假博士",
       "onboard_time": 1697164476,
       "rank": 40,
       "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 452152,
+      "num": 452152,
+      "word": "沈阳通报幼儿园老师逼孩子吃呕吐物",
+      "onboard_time": 1697178455,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 450998,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346644,
+      "num": 346644,
+      "word": "货车运5380只吸血鬼蟹入境被查",
+      "onboard_time": 1697176296,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346484,
       "num": 346484,
       "word": "低盘发是梁洁的美丽开关",
@@ -635,6 +667,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 339693,
+      "num": 339693,
+      "word": "许昕樊振东3比0刘丁硕于子洋",
+      "onboard_time": 1697178935,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 335374,
       "num": 299849,
       "word": "韩国女厕给外国人带来的冲击",
@@ -667,6 +707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 329514,
+      "num": 329514,
+      "word": "A股",
+      "onboard_time": 1697179474,
+      "rank": 17,
+      "category": "财经"
+    },
+    {
       "raw_hot": 326410,
       "num": 326410,
       "word": "妈妈反向育儿剥20多颗糖治女儿糖瘾",
@@ -675,20 +723,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325589,
+      "num": 198081,
+      "word": "马龙说樊振东王楚钦太依赖我了",
+      "onboard_time": 1697180915,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 324704,
       "num": 296452,
       "word": "周杰伦上海演唱会场外氛围",
       "onboard_time": 1697159738,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 318580,
-      "num": 318580,
-      "word": "货车运5380只吸血鬼蟹入境被查",
-      "onboard_time": 1697176296,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 316869,
@@ -705,6 +753,14 @@
       "onboard_time": 1697164053,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309798,
+      "num": 309798,
+      "word": "王家卫镜头下的宋慧乔",
+      "onboard_time": 1697180077,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 305237,
@@ -907,6 +963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255498,
+      "num": 255498,
+      "word": "女子因服用安眠药没见到爱人最后一面",
+      "onboard_time": 1697181095,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252635,
       "num": 252635,
       "word": "披荆斩棘3四公部落海报",
@@ -1043,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226525,
+      "num": 198566,
+      "word": "越南版乘风破浪",
+      "onboard_time": 1697178879,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222475,
       "num": 222475,
       "word": "杨紫手势变装",
@@ -1155,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204482,
+      "num": 204482,
+      "word": "张译新片扔烟镜头",
+      "onboard_time": 1697178996,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203637,
       "num": 203637,
       "word": "这个宿舍终究是选对了",
@@ -1168,14 +1248,6 @@
       "word": "张真源晒奔跑吧名牌",
       "onboard_time": 1697158658,
       "rank": 35,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 202590,
-      "num": 198566,
-      "word": "越南版乘风破浪",
-      "onboard_time": 1697178879,
-      "rank": 30,
       "category": "综艺"
     },
     {
@@ -1209,6 +1281,22 @@
       "onboard_time": 1697166277,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198286,
+      "num": 198286,
+      "word": "嗨捞火锅 广东人沉默了",
+      "onboard_time": 1697178935,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 197624,
+      "num": 197624,
+      "word": "张真源跑男下班和粉丝挥手鞠躬",
+      "onboard_time": 1697179416,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 196882,
@@ -1273,14 +1361,6 @@
       "onboard_time": 1697160455,
       "rank": 35,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 193393,
-      "num": 193393,
-      "word": "沈阳通报幼儿园老师逼孩子吃呕吐物",
-      "onboard_time": 1697178455,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 192939,
@@ -1411,6 +1491,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 175896,
+      "num": 175896,
+      "word": "大鱼海棠3立项",
+      "onboard_time": 1697179715,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174308,
       "num": 174308,
       "word": "突然找到了解决上班迟到的方法",
@@ -1481,14 +1569,6 @@
       "onboard_time": 1697160695,
       "rank": 42,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 159486,
-      "num": 159486,
-      "word": "许昕樊振东3比0刘丁硕于子洋",
-      "onboard_time": 1697178935,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 159330,
@@ -1587,14 +1667,6 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 137920,
-      "num": 137920,
-      "word": "张译新片扔烟镜头",
-      "onboard_time": 1697178996,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 137022,
       "num": 137022,
       "word": "国际减灾日",
@@ -1625,14 +1697,6 @@
       "onboard_time": 1697178157,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131676,
-      "num": 131676,
-      "word": "嗨捞火锅 广东人沉默了",
-      "onboard_time": 1697178935,
-      "rank": 47,
-      "category": "美食"
     },
     {
       "raw_hot": 130519,
@@ -1705,6 +1769,14 @@
       "onboard_time": 1697086477,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123886,
+      "num": 127225,
+      "word": "乐基儿审美领先我20年",
+      "onboard_time": 1697181335,
+      "rank": 48,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 123711,
@@ -1859,12 +1931,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43532,
+      "num": 563929,
+      "word": "中国量子计算又刷新世界纪录",
+      "onboard_time": 1697166395,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 37812,
       "num": 48294,
       "word": "原来你们委屈想回家的家是这样的",
       "onboard_time": 1697135176,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27520,
+      "num": 146908,
+      "word": "草根篮球赛事有多卷",
+      "onboard_time": 1697180438,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 24978,

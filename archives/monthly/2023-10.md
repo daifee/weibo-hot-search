@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 14:37:16
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 15:16:03
 </p>
 </blockquote>
 <p>
@@ -1977,6 +1977,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
+董宇辉 无耻的偶像剧恋爱观（热度：1409628）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%23" target="weibo">
 许家印（热度：1402353）
 </a>
@@ -2127,6 +2133,12 @@ IVE空降（热度：1376713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
+狗头萝莉发文致歉（热度：1347889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%8A%A5%E9%81%93%E6%9D%A8%E5%B9%82%E5%BC%98%E6%89%AC%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%23" target="weibo">
 台媒报道杨幂弘扬中华文化（热度：1344187）
 </a>
@@ -2171,6 +2183,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E9%83%A8%E6%88%98%E5%8C%BA%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%9C%BA%E8%BF%87%E8%88%AA%E5%8F%B0%E6%B5%B7%23" target="weibo">
 东部战区回应美机过航台海（热度：1330138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E8%BE%9F%E8%B0%A3%E5%88%98%E5%A7%93%E5%95%86%E4%BA%BA%E8%A2%AB%E6%8A%93%23" target="weibo">
+京东辟谣刘姓商人被抓（热度：1330011）
 </a>
 </li>
 
@@ -3303,12 +3321,6 @@ Super Shy（热度：956731）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
-董宇辉 无耻的偶像剧恋爱观（热度：945172）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD9%E5%90%8D%E4%BA%BA%E5%91%98%E5%9C%A8%E4%BB%A5%E8%89%B2%E5%88%97%E7%A9%BA%E8%A2%AD%E4%B8%AD%E4%B8%A7%E7%94%9F%23" target="weibo">
 联合国9名人员在以色列空袭中丧生（热度：944632）
 </a>
@@ -3323,6 +3335,12 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E6%80%A7%E4%BE%B5%E8%A2%AB%E6%95%91%E4%B8%8B%E5%90%8E%E5%8F%88%E8%A2%AB%E5%85%B6%E4%BE%B5%E7%8A%AF%23" target="weibo">
 美国女子遭性侵被救下后又被其侵犯（热度：939774）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%A5%B0%E6%BC%94%E5%BC%A0%E6%A1%82%E6%A2%85%E4%B8%88%E5%A4%AB%23" target="weibo">
+胡歌饰演张桂梅丈夫（热度：938609）
 </a>
 </li>
 
@@ -3957,6 +3975,12 @@ JINI回应退出NIMXX的原因（热度：828725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23" target="weibo">
+美国政府将从13日开始安排撤侨航班（热度：824045）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84i%E4%BA%BA%E5%90%8C%E4%BA%8B%E7%AB%9F%E7%84%B6%E6%98%AF%E8%A1%8C%E8%B5%B0%E7%9A%8450%E4%B8%87%23" target="weibo">
 我的i人同事竟然是行走的50万（热度：823671）
 </a>
@@ -3995,12 +4019,6 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23" target="weibo">
 小伙称因长期抠鼻子感染丹毒（热度：820938）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%B0%86%E4%BB%8E13%E6%97%A5%E5%BC%80%E5%A7%8B%E5%AE%89%E6%8E%92%E6%92%A4%E4%BE%A8%E8%88%AA%E7%8F%AD%23" target="weibo">
-美国政府将从13日开始安排撤侨航班（热度：819174）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E6%9C%9F%E5%B0%BD%E9%87%8F%E7%94%A8%E7%94%B5%E6%B0%94%E7%81%B6%E5%81%9A%E9%A5%AD%E6%88%96%E4%B8%8D%E4%B8%8B%E5%8E%A8%23" target="weibo">
 孕期尽量用电气灶做饭或不下厨（热度：607378）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E5%9B%9E%E5%BA%94%E8%B0%A2%E9%9C%87%E4%B8%9A%23" target="weibo">
-张杰回应谢震业（热度：607046）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E4%BD%B3%E5%AC%BF%20%E5%86%85%E5%90%91%E4%B8%8D%E5%BF%85%E5%8B%89%E5%BC%BA%E8%87%AA%E5%B7%B1%E5%A4%96%E5%90%91%23" target="weibo">
-柯佳嬿 内向不必勉强自己外向（热度：606495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%B5%B6%E6%9D%A5%E7%9C%8B%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
-孙颖莎赶来看男单决赛（热度：605436）
 </a>
 </li>
 
