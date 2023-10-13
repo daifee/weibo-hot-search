@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/13 00:22:29 ~ 2023/10/13 17:17:16
+本榜单时间：2023/10/13 00:22:29 ~ 2023/10/13 17:34:28
 </p>
 </blockquote>
 <p>
@@ -81,6 +81,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B1%E9%AA%82%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%8A%A4%E5%A3%AB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%AE%A4%E7%BD%AA%E9%81%93%E6%AD%89%23" target="weibo">
+辱骂新加坡护士的中国女子认罪道歉（热度：1481488）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E5%AE%87%E8%BE%89%20%E6%97%A0%E8%80%BB%E7%9A%84%E5%81%B6%E5%83%8F%E5%89%A7%E6%81%8B%E7%88%B1%E8%A7%82%23" target="weibo">
 董宇辉 无耻的偶像剧恋爱观（热度：1412648）
 </a>
@@ -111,12 +117,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%B1%E9%AA%82%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%8A%A4%E5%A3%AB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%AE%A4%E7%BD%AA%E9%81%93%E6%AD%89%23" target="weibo">
-辱骂新加坡护士的中国女子认罪道歉（热度：1299098）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%9E%AD%E6%89%93%E5%A5%B3%E5%AD%90%E9%95%BF%E8%BE%BE8%E5%88%86%E9%92%9F%23" target="weibo">
 男子当街鞭打女子长达8分钟（热度：1295101）
 </a>
@@ -125,6 +125,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E7%94%B7%E7%94%9F%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E5%BA%97%E5%96%9D111%E7%93%B6%E9%85%B8%E6%A2%85%E6%B1%A4%23" target="weibo">
 6男生自助火锅店喝111瓶酸梅汤（热度：1031123）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%93%AD%E8%AF%89%E7%BB%93%E6%9E%9C%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97%E5%B0%86%E5%87%86%E5%A4%87%E4%B8%8A%E8%AF%89%23" target="weibo">
+孙海洋哭诉结果难以接受将准备上诉（热度：1030821）
 </a>
 </li>
 
@@ -251,6 +257,12 @@ TXT回归（热度：661061）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%92%8C%E5%BE%B7%E5%9B%BD%E4%BA%BA%E9%83%BD%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
 中国人和德国人都沉默了（热度：653359）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B1%82%E8%81%8C%E8%A2%AB%E8%A6%81%E6%B1%82%E5%81%9A%E9%81%BF%E5%AD%95%E6%8E%AA%E6%96%BD%E5%90%8E%E6%8B%8D%E7%85%A7%E6%8A%A5%E5%A4%87%23" target="weibo">
+女子求职被要求做避孕措施后拍照报备（热度：647145）
 </a>
 </li>
 
@@ -393,6 +405,12 @@ IVE新歌Baddie公开（热度：519721）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%20%E5%9B%BD%E5%86%85%E5%A4%96%E7%9C%89%E7%AC%94%E5%86%8D%E6%B5%8B%E9%87%8D%E7%AE%97%E5%8D%95%E4%BB%B7%23" target="weibo">
+B太 国内外眉笔再测重算单价（热度：487092）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF3%E6%AF%941%E9%92%B1%E5%A4%A9%E4%B8%80%23" target="weibo">
 刘诗雯3比1钱天一（热度：478187）
 </a>
@@ -465,12 +483,6 @@ IVE新歌Baddie公开（热度：519721）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%93%AD%E8%AF%89%E7%BB%93%E6%9E%9C%E9%9A%BE%E4%BB%A5%E6%8E%A5%E5%8F%97%E5%B0%86%E5%87%86%E5%A4%87%E4%B8%8A%E8%AF%89%23" target="weibo">
-孙海洋哭诉结果难以接受将准备上诉（热度：420186）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%96%E8%A2%AB%E5%AD%90%E7%9A%84%E9%A1%BA%E5%BA%8F%E4%BC%9A%E5%BD%B1%E5%93%8D%E4%BF%9D%E6%9A%96%E6%95%88%E6%9E%9C%23" target="weibo">
 盖被子的顺序会影响保暖效果（热度：405754）
 </a>
@@ -497,6 +509,12 @@ IVE新歌Baddie公开（热度：519721）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E8%A5%BF%E6%A2%85%E5%BC%80%E4%BA%8C%E6%9F%B1%23" target="weibo">
 梅西梅开二柱（热度：384535）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E8%82%A1%E4%BB%B7%E4%B8%80%E5%BA%A6%E6%9A%B4%E8%B7%8C%23" target="weibo">
+京东股价一度暴跌（热度：370535）
 </a>
 </li>
 
@@ -545,12 +563,6 @@ IVE空降（热度：364375）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%B4%8E%E8%B4%A4%E4%BA%BA%E8%82%BF%E4%BA%86%E4%B9%88%23" target="weibo">
 山崎贤人肿了么（热度：353113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23B%E5%A4%AA%20%E5%9B%BD%E5%86%85%E5%A4%96%E7%9C%89%E7%AC%94%E5%86%8D%E6%B5%8B%E9%87%8D%E7%AE%97%E5%8D%95%E4%BB%B7%23" target="weibo">
-B太 国内外眉笔再测重算单价（热度：347351）
 </a>
 </li>
 
@@ -677,6 +689,12 @@ A股（热度：329514）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E4%B8%BA40%E5%B2%81%E5%A4%B4%E5%A9%9A%E5%A7%91%E5%A7%91%E4%B8%BB%E6%8C%81%E5%A9%9A%E7%A4%BC%23" target="weibo">
 男孩为40岁头婚姑姑主持婚礼（热度：314827）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9F%8F%E5%8F%A1%E9%A6%96%E6%AC%A1%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%BD%95%E5%88%B6%E7%BB%BC%E8%89%BA%23" target="weibo">
+林柏叡首次带女儿录制综艺（热度：307574）
 </a>
 </li>
 
@@ -1059,12 +1077,6 @@ SEVENTEEN一直娱特典（热度：243399）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E4%B8%9C%E8%82%A1%E4%BB%B7%E4%B8%80%E5%BA%A6%E6%9A%B4%E8%B7%8C%23" target="weibo">
-京东股价一度暴跌（热度：202135）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E8%BF%98%E6%98%AF%E6%88%91%E8%AE%A4%E8%AF%86%E7%9A%84%E6%96%B9%E4%BE%BF%E9%9D%A2%E5%90%97%23" target="weibo">
 这还是我认识的方便面吗（热度：200700）
 </a>
@@ -1091,6 +1103,12 @@ SEVENTEEN一直娱特典（热度：243399）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E9%98%B3vs%E5%BC%80%E6%8B%93%E8%80%85%23" target="weibo">
 太阳vs开拓者（热度：198817）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E7%94%B5%E5%BD%B1%20%E4%BB%8E%E7%BB%9D%E6%9C%9B%E5%88%B0%E8%87%AA%E6%95%91%23" target="weibo">
+张小斐新电影 从绝望到自救（热度：198646）
 </a>
 </li>
 
@@ -1293,6 +1311,12 @@ TTG战胜eStar（热度：189706）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%81%8B1%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%8F%8B%E7%98%AB%E7%97%AA%E7%94%B7%E5%8F%8B%E9%99%AA%E4%BC%B431%E5%B9%B4%23" target="weibo">
+相恋1个月女友瘫痪男友陪伴31年（热度：175541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E6%89%BE%E5%88%B0%E4%BA%86%E8%A7%A3%E5%86%B3%E4%B8%8A%E7%8F%AD%E8%BF%9F%E5%88%B0%E7%9A%84%E6%96%B9%E6%B3%95%23" target="weibo">
 突然找到了解决上班迟到的方法（热度：174308）
 </a>
@@ -1305,6 +1329,12 @@ TTG战胜eStar（热度：189706）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%9C%AC%E6%98%AF%E9%AB%98%E5%B1%B1%20%E5%A5%B3%E9%AB%98%E6%A0%A1%E8%AE%AD%23" target="weibo">
+我本是高山 女高校训（热度：169673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8F%A0%E5%B8%98%E7%8E%89%E5%B9%95%23" target="weibo">
 珠帘玉幕（热度：165687）
 </a>
@@ -1313,6 +1343,12 @@ TTG战胜eStar（热度：189706）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%8E%E7%AE%A1%E5%86%92%E9%9B%A8%E5%B8%AE%E6%91%8A%E8%B4%A9%E6%94%B6%E4%B8%9C%E8%A5%BF%23" target="weibo">
 城管冒雨帮摊贩收东西（热度：165177）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%89%E5%BE%97%E5%91%A8%E4%BA%94%E8%BF%99%E4%B9%88%E9%9A%BE%E7%86%AC%23" target="weibo">
+第一次觉得周五这么难熬（热度：165022）
 </a>
 </li>
 
@@ -1379,12 +1415,6 @@ TTG战胜eStar（热度：189706）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%BE%B7%E5%9B%BD%E9%9D%A2%E5%8C%85%E5%88%92%E4%BC%A4%E9%A3%9F%E9%81%93%23" target="weibo">
 被德国面包划伤食道（热度：156824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B1%82%E8%81%8C%E8%A2%AB%E8%A6%81%E6%B1%82%E5%81%9A%E9%81%BF%E5%AD%95%E6%8E%AA%E6%96%BD%E5%90%8E%E6%8B%8D%E7%85%A7%E6%8A%A5%E5%A4%87%23" target="weibo">
-女子求职被要求做避孕措施后拍照报备（热度：156745）
 </a>
 </li>
 
@@ -1547,6 +1577,12 @@ e人和i人在理发店完全不一样（热度：147160）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%A7%81%E8%B6%85%E5%92%8C%E7%B2%89%E4%B8%9D%E8%A6%81%E7%8E%8B%E6%BA%90%E8%A1%A8%E6%83%85%E5%8C%85%23" target="weibo">
 邓见超和粉丝要王源表情包（热度：123711）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A5%95%E9%A2%96%E6%8B%8D%E7%9A%84%E8%B5%B5%E9%9C%B2%E6%80%9D%23" target="weibo">
+林奕颖拍的赵露思（热度：122807）
 </a>
 </li>
 

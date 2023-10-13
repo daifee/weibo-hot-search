@@ -1,0 +1,410 @@
+{
+  "runTime": 1697189668837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1632016,
+        "num": 1632016,
+        "word": "孙海洋哽咽说等了16年零4天的宣判",
+        "onboard_time": 1697181758,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1481488,
+        "num": 1481488,
+        "word": "辱骂新加坡护士的中国女子认罪道歉",
+        "onboard_time": 1697184877,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 49791,
+        "num": 1211797,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1697174497,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1057961,
+        "num": 1057961,
+        "word": "卢昱晓回应追鹿晗吴世勋",
+        "onboard_time": 1697183255,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1030821,
+        "num": 1030821,
+        "word": "孙海洋哭诉结果难以接受将准备上诉",
+        "onboard_time": 1697188114,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 627226,
+        "num": 627226,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 529401,
+        "num": 529401,
+        "word": "天官赐福",
+        "onboard_time": 1697186136,
+        "rank": 6,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 423306,
+        "num": 423306,
+        "word": "周五",
+        "onboard_time": 1697157519,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372961,
+        "num": 372961,
+        "word": "董宇辉 无耻的偶像剧恋爱观",
+        "onboard_time": 1697177200,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 351376,
+        "num": 351376,
+        "word": "卢昱晓跟沈月庄达菲要联系方式",
+        "onboard_time": 1697185773,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1304122,
+        "num": 343815,
+        "word": "狗头萝莉发文致歉",
+        "onboard_time": 1697179955,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 652606,
+        "num": 340435,
+        "word": "男子当街鞭打女子长达8分钟",
+        "onboard_time": 1697173960,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 647145,
+        "num": 327413,
+        "word": "女子求职被要求做避孕措施后拍照报备",
+        "onboard_time": 1697188295,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487092,
+        "num": 324786,
+        "word": "B太 国内外眉笔再测重算单价",
+        "onboard_time": 1697184394,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 370535,
+        "num": 315438,
+        "word": "京东股价一度暴跌",
+        "onboard_time": 1697188355,
+        "rank": 14,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 307574,
+        "num": 307574,
+        "word": "林柏叡首次带女儿录制综艺",
+        "onboard_time": 1697189014,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304465,
+        "num": 304465,
+        "word": "甜恋的风终于吹到王子文了",
+        "onboard_time": 1697183556,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278102,
+        "num": 278102,
+        "word": "以色列要求加沙北部上百万人迁移至南部",
+        "onboard_time": 1697169936,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 259717,
+        "num": 259717,
+        "word": "马龙说樊振东王楚钦太依赖我了",
+        "onboard_time": 1697180915,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241268,
+        "num": 241268,
+        "word": "美国政府将从13日开始安排撤侨航班",
+        "onboard_time": 1697177316,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 591653,
+        "num": 241250,
+        "word": "泄露陈牧驰离婚信息或触刑法",
+        "onboard_time": 1697174798,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393186,
+        "num": 241217,
+        "word": "24岁女子顺转剖大出血多器官衰竭",
+        "onboard_time": 1697184813,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 374750,
+        "num": 241210,
+        "word": "奶茶杯还能这么用",
+        "onboard_time": 1697185354,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 241091,
+        "num": 241091,
+        "word": "上班一个月吃了公司2600的零食",
+        "onboard_time": 1697178338,
+        "rank": 23,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 231544,
+        "num": 231544,
+        "word": "孙卓被拐案两被告分别被判5年2年",
+        "onboard_time": 1697184277,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208789,
+        "num": 208789,
+        "word": "巴勒斯坦母亲吻别死去孩子",
+        "onboard_time": 1697174497,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 198646,
+        "num": 198646,
+        "word": "张小斐新电影 从绝望到自救",
+        "onboard_time": 1697188716,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185875,
+        "num": 185875,
+        "word": "7根石柱文物回归圆明园",
+        "onboard_time": 1697186075,
+        "rank": 27,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 177390,
+        "num": 177390,
+        "word": "胡歌饰演张桂梅丈夫",
+        "onboard_time": 1697178157,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175541,
+        "num": 175541,
+        "word": "相恋1个月女友瘫痪男友陪伴31年",
+        "onboard_time": 1697189555,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169673,
+        "num": 169673,
+        "word": "我本是高山 女高校训",
+        "onboard_time": 1697189255,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166663,
+        "num": 166663,
+        "word": "IVE空降",
+        "onboard_time": 1697175038,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 165022,
+        "num": 165022,
+        "word": "第一次觉得周五这么难熬",
+        "onboard_time": 1697189014,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156289,
+        "num": 156289,
+        "word": "欧豪总算捡起歌手身份了",
+        "onboard_time": 1697186554,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 154331,
+        "num": 154331,
+        "word": "TTG战胜eStar",
+        "onboard_time": 1697188233,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147901,
+        "num": 147901,
+        "word": "沈阳通报幼儿园老师逼孩子吃呕吐物",
+        "onboard_time": 1697178455,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143088,
+        "num": 143088,
+        "word": "孙俪也在追梅花红桃",
+        "onboard_time": 1697185116,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142150,
+        "num": 142150,
+        "word": "张碧晨北京 抢票",
+        "onboard_time": 1697188173,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123081,
+        "num": 123081,
+        "word": "2024国考报名教程",
+        "onboard_time": 1697168617,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122807,
+        "num": 122807,
+        "word": "林奕颖拍的赵露思",
+        "onboard_time": 1697189494,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121963,
+        "num": 121963,
+        "word": "京东辟谣刘姓商人被抓",
+        "onboard_time": 1697180316,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120639,
+        "num": 120639,
+        "word": "王家卫镜头下的宋慧乔",
+        "onboard_time": 1697180077,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119198,
+        "num": 119198,
+        "word": "中方与以色列方通话",
+        "onboard_time": 1697156257,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 117767,
+        "num": 117767,
+        "word": "张小斐新片好惨",
+        "onboard_time": 1697187516,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117295,
+        "num": 117295,
+        "word": "张栋梁性张力",
+        "onboard_time": 1697174560,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116642,
+        "num": 116642,
+        "word": "货车运5380只吸血鬼蟹入境被查",
+        "onboard_time": 1697176296,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110094,
+        "num": 110094,
+        "word": "动态MVP",
+        "onboard_time": 1697187155,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 109845,
+        "num": 109845,
+        "word": "孙卓被拐案一审宣判拐骗者获刑5年",
+        "onboard_time": 1697183014,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109323,
+        "num": 109323,
+        "word": "刘暖曦朋友发声",
+        "onboard_time": 1697168555,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 106811,
+        "num": 106811,
+        "word": "今日份孙颖莎是莎指导吧",
+        "onboard_time": 1697183255,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的长江情怀#"
+    }
+  }
+}
