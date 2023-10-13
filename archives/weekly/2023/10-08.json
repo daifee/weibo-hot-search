@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697231696663,
+  "endTime": 1697232859010,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -16779,6 +16779,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 86492,
+      "num": 86492,
+      "word": "孟佳一口气生吃8种辣椒",
+      "onboard_time": 1697228774,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 85298,
       "num": 85298,
       "word": "民警飞身扑救18楼天台轻生女子",
@@ -16833,14 +16841,6 @@
       "onboard_time": 1696785560,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 81784,
-      "num": 81784,
-      "word": "孟佳一口气生吃8种辣椒",
-      "onboard_time": 1697228774,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 81722,
@@ -17475,20 +17475,28 @@
       "category": "其它"
     },
     {
+      "raw_hot": 32691,
+      "num": 30574,
+      "word": "社区回应3岁孩子被父亲关车库3天",
+      "onboard_time": 1697231593,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30690,
+      "num": 46191,
+      "word": "宝宝连体衣 保暖又可爱",
+      "onboard_time": 1697228234,
+      "rank": 49,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 29902,
       "num": 29902,
       "word": "孙艺洲有点功夫在腿上",
       "onboard_time": 1696874719,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 29448,
-      "num": 46191,
-      "word": "宝宝连体衣 保暖又可爱",
-      "onboard_time": 1697228234,
-      "rank": 49,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 28713,
@@ -17587,6 +17595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 23368,
+      "num": 36179,
+      "word": "DOTA2",
+      "onboard_time": 1697228714,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 23108,
       "num": 51839,
       "word": "杨幂若把你直拍",
@@ -17643,14 +17659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16338,
-      "num": 36179,
-      "word": "DOTA2",
-      "onboard_time": 1697228714,
-      "rank": 42,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 15839,
       "num": 18224,
       "word": "亚洲内容大赏",
@@ -17683,11 +17691,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 13304,
-      "num": 29385,
-      "word": "社区回应3岁孩子被父亲关车库3天",
-      "onboard_time": 1697231593,
-      "rank": 47,
+      "raw_hot": 13295,
+      "num": 30397,
+      "word": "摄影师5年延时拍下100种花开瞬间",
+      "onboard_time": 1697232794,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
