@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697170833937,
+  "endTime": 1697171787860,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -267,6 +267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2571386,
+      "num": 883448,
+      "word": "刘暖曦朋友发声",
+      "onboard_time": 1697168555,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 2529963,
       "num": 2529963,
       "word": "江歌妈妈已成立传媒公司",
@@ -393,14 +401,6 @@
       "onboard_time": 1696931795,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 2176385,
-      "num": 883361,
-      "word": "刘暖曦朋友发声",
-      "onboard_time": 1697168555,
-      "rank": 3,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 2153359,
@@ -1195,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1316943,
+      "num": 1316943,
+      "word": "中方与以色列方通话",
+      "onboard_time": 1697156257,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1314390,
       "num": 776105,
       "word": "以色列",
@@ -1305,14 +1313,6 @@
       "onboard_time": 1697094934,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1203922,
-      "num": 1203922,
-      "word": "中方与以色列方通话",
-      "onboard_time": 1697156257,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1192625,
@@ -1633,6 +1633,14 @@
       "onboard_time": 1696749333,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 996400,
+      "num": 996400,
+      "word": "以色列要求加沙北部上百万人迁移至南部",
+      "onboard_time": 1697169936,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 988948,
@@ -2153,6 +2161,14 @@
       "onboard_time": 1696758333,
       "rank": 15,
       "category": "社会议题"
+    },
+    {
+      "raw_hot": 802661,
+      "num": 802661,
+      "word": "中国男篮能递补亚运金牌吗",
+      "onboard_time": 1697170297,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 801220,
@@ -2779,6 +2795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 661061,
+      "num": 661061,
+      "word": "TXT回归",
+      "onboard_time": 1697170658,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 660732,
       "num": 660732,
       "word": "男子创业7次成功后劝年轻人别创业",
@@ -3068,7 +3092,7 @@
     },
     {
       "raw_hot": 622199,
-      "num": 429481,
+      "num": 488662,
       "word": "男子健身房失误砸断女生4根脚趾",
       "onboard_time": 1697165678,
       "rank": 10,
@@ -3249,6 +3273,14 @@
       "onboard_time": 1696735897,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 601449,
+      "num": 601449,
+      "word": "全智贤有种素面朝天的美",
+      "onboard_time": 1697170178,
+      "rank": 17,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 598221,
@@ -3521,14 +3553,6 @@
       "onboard_time": 1696907134,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 561398,
-      "num": 390681,
-      "word": "以色列要求加沙北部上百万人迁移至南部",
-      "onboard_time": 1697169936,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 558149,
@@ -3905,6 +3929,14 @@
       "onboard_time": 1696847796,
       "rank": 49,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 519721,
+      "num": 519721,
+      "word": "IVE新歌Baddie公开",
+      "onboard_time": 1697170416,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 519685,
@@ -4699,6 +4731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 448731,
+      "num": 238426,
+      "word": "柯佳嬿 没有一家之主的概念",
+      "onboard_time": 1697171079,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 448294,
       "num": 316997,
       "word": "库克回应每年iPhone几乎没太大升级",
@@ -4809,14 +4849,6 @@
       "onboard_time": 1696820736,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 441156,
-      "num": 441156,
-      "word": "IVE新歌Baddie公开",
-      "onboard_time": 1697170416,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 441007,
@@ -5683,14 +5715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 370649,
-      "num": 370649,
-      "word": "中国男篮能递补亚运金牌吗",
-      "onboard_time": 1697170297,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 370154,
       "num": 370154,
       "word": "陈奕迅成都演唱会连开6场",
@@ -5907,6 +5931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359917,
+      "num": 359917,
+      "word": "高叶新剧是大女主视角",
+      "onboard_time": 1697167592,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359600,
       "num": 330046,
       "word": "早期周雨彤",
@@ -6033,14 +6065,6 @@
       "onboard_time": 1696840474,
       "rank": 20,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 352884,
-      "num": 352884,
-      "word": "高叶新剧是大女主视角",
-      "onboard_time": 1697167592,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 352622,
@@ -6171,6 +6195,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 346635,
+      "num": 334307,
+      "word": "你有噗噗困难症吗",
+      "onboard_time": 1697170658,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 345864,
       "num": 437583,
       "word": "亚运史上第1块霹雳舞金牌",
@@ -6185,14 +6217,6 @@
       "onboard_time": 1697118229,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 345315,
-      "num": 345315,
-      "word": "全智贤有种素面朝天的美",
-      "onboard_time": 1697170178,
-      "rank": 17,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 345207,
@@ -6227,12 +6251,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 343890,
+      "num": 333911,
+      "word": "纯狱风是白敬亭的统治区",
+      "onboard_time": 1697168796,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 343791,
       "num": 313573,
       "word": "螃蟹价格与去年比几乎腰斩",
       "onboard_time": 1696820077,
       "rank": 21,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 343553,
+      "num": 343553,
+      "word": "白敬亭李沐风开机照",
+      "onboard_time": 1697167116,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 342391,
@@ -6257,14 +6297,6 @@
       "onboard_time": 1697100696,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 339649,
-      "num": 339649,
-      "word": "白敬亭李沐风开机照",
-      "onboard_time": 1697167116,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 339099,
@@ -6409,6 +6441,14 @@
       "onboard_time": 1697159435,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 333518,
+      "num": 333518,
+      "word": "张桂梅真实事迹改编电影",
+      "onboard_time": 1697170596,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 333154,
@@ -7219,14 +7259,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 298558,
-      "num": 326548,
-      "word": "你有噗噗困难症吗",
-      "onboard_time": 1697170658,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 297978,
       "num": 297978,
       "word": "aespa黑裙造型",
@@ -7633,14 +7665,6 @@
       "onboard_time": 1696723235,
       "rank": 23,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 282066,
-      "num": 282066,
-      "word": "纯狱风是白敬亭的统治区",
-      "onboard_time": 1697168796,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 282045,
@@ -8627,6 +8651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252635,
+      "num": 252635,
+      "word": "披荆斩棘3四公部落海报",
+      "onboard_time": 1697171739,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252609,
       "num": 252609,
       "word": "朱一龙工作上是J人没错了",
@@ -9185,6 +9217,14 @@
       "onboard_time": 1696915360,
       "rank": 33,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 239480,
+      "num": 239480,
+      "word": "林孝埈领衔出战短道速滑世界杯",
+      "onboard_time": 1697169816,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 239384,
@@ -9899,6 +9939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222126,
+      "num": 232658,
+      "word": "小学生捡3000多元现金归还获赠锦旗",
+      "onboard_time": 1697171018,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221980,
       "num": 218829,
       "word": "巴以冲突动态",
@@ -10315,12 +10363,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 212448,
-      "num": 212448,
-      "word": "林孝埈领衔出战短道速滑世界杯",
-      "onboard_time": 1697169816,
-      "rank": 39,
-      "category": "体育"
+      "raw_hot": 212475,
+      "num": 212475,
+      "word": "王牌8宣传片在玩一种很新的闪现",
+      "onboard_time": 1697168915,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 212422,
@@ -10457,14 +10505,6 @@
       "onboard_time": 1697070157,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 209951,
-      "num": 209951,
-      "word": "TXT回归",
-      "onboard_time": 1697170658,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 209855,
@@ -11139,6 +11179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199674,
+      "num": 199674,
+      "word": "hybe的编舞",
+      "onboard_time": 1697171619,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 199598,
       "num": 199598,
       "word": "陈家平主用皮带止血",
@@ -11347,14 +11395,6 @@
       "category": "社会新闻,幽默"
     },
     {
-      "raw_hot": 197098,
-      "num": 197098,
-      "word": "王牌8宣传片在玩一种很新的闪现",
-      "onboard_time": 1697168915,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197025,
       "num": 197025,
       "word": "看到消防员一拥而上老人笑到露牙床",
@@ -11369,14 +11409,6 @@
       "onboard_time": 1696915959,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196863,
-      "num": 196863,
-      "word": "张桂梅真实事迹改编电影",
-      "onboard_time": 1697170596,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 196813,
@@ -11489,6 +11521,14 @@
       "onboard_time": 1696936777,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 194942,
+      "num": 194942,
+      "word": "黄子弘凡巡演官宣六城",
+      "onboard_time": 1697171739,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 194774,
@@ -11649,6 +11689,14 @@
       "onboard_time": 1696749995,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192418,
+      "num": 192418,
+      "word": "2024国考报名教程",
+      "onboard_time": 1697168617,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 191732,
@@ -11819,14 +11867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189989,
-      "num": 189989,
-      "word": "2024国考报名教程",
-      "onboard_time": 1697168617,
-      "rank": 45,
-      "category": "教育"
-    },
-    {
       "raw_hot": 189956,
       "num": 189956,
       "word": "店铺起火左邻右舍拎着灭火器赶来",
@@ -11835,20 +11875,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189956,
+      "num": 189956,
+      "word": "朱一龙想把戏服穿成自己的衣服",
+      "onboard_time": 1697170297,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189861,
       "num": 189861,
       "word": "度华年",
       "onboard_time": 1697077412,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189792,
-      "num": 189792,
-      "word": "朱一龙想把戏服穿成自己的衣服",
-      "onboard_time": 1697170297,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 189730,
@@ -11865,6 +11905,14 @@
       "onboard_time": 1696749033,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189258,
+      "num": 193588,
+      "word": "繁城之下今晚开播",
+      "onboard_time": 1697171256,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 189212,
@@ -14883,6 +14931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91900,
+      "num": 896744,
+      "word": "航天员向少先队员发出探索星辰大海约定",
+      "onboard_time": 1697166694,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 91872,
       "num": 91872,
       "word": "台风",
@@ -14937,14 +14993,6 @@
       "onboard_time": 1696980449,
       "rank": 44,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 89110,
-      "num": 896744,
-      "word": "航天员向少先队员发出探索星辰大海约定",
-      "onboard_time": 1697166694,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 89028,
@@ -15620,7 +15668,7 @@
     },
     {
       "raw_hot": 24697,
-      "num": 259621,
+      "num": 335180,
       "word": "未来的智能SUV有多强",
       "onboard_time": 1697169997,
       "rank": 29,
@@ -15833,6 +15881,9 @@
     },
     {
       "word": "#跨越不同地域共唱繁荣之路#"
+    },
+    {
+      "word": "#感悟总书记的长江情怀#"
     }
   ]
 }

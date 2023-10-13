@@ -1,0 +1,410 @@
+{
+  "runTime": 1697171787860,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1316943,
+        "num": 1316943,
+        "word": "中方与以色列方通话",
+        "onboard_time": 1697156257,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 996400,
+        "num": 996400,
+        "word": "以色列要求加沙北部上百万人迁移至南部",
+        "onboard_time": 1697169936,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 91900,
+        "num": 886065,
+        "word": "航天员向少先队员发出探索星辰大海约定",
+        "onboard_time": 1697166694,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 2571386,
+        "num": 883448,
+        "word": "刘暖曦朋友发声",
+        "onboard_time": 1697168555,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1507910,
+        "num": 882307,
+        "word": "周五",
+        "onboard_time": 1697157519,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 858140,
+        "num": 858140,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 802661,
+        "num": 802661,
+        "word": "中国男篮能递补亚运金牌吗",
+        "onboard_time": 1697170297,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661061,
+        "num": 661061,
+        "word": "TXT回归",
+        "onboard_time": 1697170658,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 648684,
+        "num": 648684,
+        "word": "余华没想到河边的错误被改出来了",
+        "onboard_time": 1697168738,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 601449,
+        "num": 601449,
+        "word": "全智贤有种素面朝天的美",
+        "onboard_time": 1697170178,
+        "rank": 9,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 715417,
+        "num": 586928,
+        "word": "官方通报成都中学生校内自缢事件",
+        "onboard_time": 1697161232,
+        "rank": 10,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 537129,
+        "num": 537129,
+        "word": "广东一高校老师美术馆看展时坠亡",
+        "onboard_time": 1697162676,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519721,
+        "num": 519721,
+        "word": "IVE新歌Baddie公开",
+        "onboard_time": 1697170416,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 517402,
+        "num": 517402,
+        "word": "天官赐福套餐",
+        "onboard_time": 1697164353,
+        "rank": 13,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 488662,
+        "num": 488662,
+        "word": "男子健身房失误砸断女生4根脚趾",
+        "onboard_time": 1697165678,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359917,
+        "num": 359917,
+        "word": "高叶新剧是大女主视角",
+        "onboard_time": 1697167592,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 347484,
+        "num": 347484,
+        "word": "刘诗雯3比1钱天一",
+        "onboard_time": 1697167295,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343553,
+        "num": 343553,
+        "word": "白敬亭李沐风开机照",
+        "onboard_time": 1697167116,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 335514,
+        "num": 335514,
+        "word": "男子3年花19万8读了个假博士",
+        "onboard_time": 1697164476,
+        "rank": 18,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 24696,
+        "num": 335180,
+        "word": "未来的智能SUV有多强",
+        "onboard_time": 1697169997,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 581415,
+        "num": 334924,
+        "word": "美国女子遭性侵被救下后又被其侵犯",
+        "onboard_time": 1697151743,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 346635,
+        "num": 334307,
+        "word": "你有噗噗困难症吗",
+        "onboard_time": 1697170658,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 343890,
+        "num": 333911,
+        "word": "纯狱风是白敬亭的统治区",
+        "onboard_time": 1697168796,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 333518,
+        "num": 333518,
+        "word": "张桂梅真实事迹改编电影",
+        "onboard_time": 1697170596,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283120,
+        "num": 283120,
+        "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
+        "onboard_time": 1697109873,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272038,
+        "num": 272038,
+        "word": "丫丫眼里只有长笋笋",
+        "onboard_time": 1697168974,
+        "rank": 25,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 258784,
+        "num": 258784,
+        "word": "巴以冲突已致双方超2800人死亡",
+        "onboard_time": 1697154813,
+        "rank": 26,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 252635,
+        "num": 252635,
+        "word": "披荆斩棘3四公部落海报",
+        "onboard_time": 1697171739,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250854,
+        "num": 250854,
+        "word": "我本是高山",
+        "onboard_time": 1697166336,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239480,
+        "num": 239480,
+        "word": "林孝埈领衔出战短道速滑世界杯",
+        "onboard_time": 1697169816,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448731,
+        "num": 238426,
+        "word": "柯佳嬿 没有一家之主的概念",
+        "onboard_time": 1697171079,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235259,
+        "num": 235259,
+        "word": "正当防卫官宣",
+        "onboard_time": 1697163934,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222126,
+        "num": 232658,
+        "word": "小学生捡3000多元现金归还获赠锦旗",
+        "onboard_time": 1697171018,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232058,
+        "num": 232058,
+        "word": "孙海洋希望对人贩子判处死刑",
+        "onboard_time": 1697168137,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232341,
+        "num": 231800,
+        "word": "男孩为40岁头婚姑姑主持婚礼",
+        "onboard_time": 1697164053,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230785,
+        "num": 230785,
+        "word": "今天下了班打算干啥",
+        "onboard_time": 1697164953,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227927,
+        "num": 227927,
+        "word": "天官赐福动画戚容海报",
+        "onboard_time": 1697166515,
+        "rank": 36,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 221779,
+        "num": 221779,
+        "word": "林俊杰和女歌手合唱记得四个版本",
+        "onboard_time": 1697167415,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 216459,
+        "num": 216459,
+        "word": "iPhone16Pro或配骁龙X75调制解调器",
+        "onboard_time": 1697161474,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 215076,
+        "num": 215076,
+        "word": "朴炯植朴宝英合照",
+        "onboard_time": 1697159856,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212475,
+        "num": 212475,
+        "word": "王牌8宣传片在玩一种很新的闪现",
+        "onboard_time": 1697168915,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200262,
+        "num": 200262,
+        "word": "我的助理不简单定档",
+        "onboard_time": 1697166934,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199674,
+        "num": 199674,
+        "word": "hybe的编舞",
+        "onboard_time": 1697171619,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 194942,
+        "num": 194942,
+        "word": "黄子弘凡巡演官宣六城",
+        "onboard_time": 1697171739,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189258,
+        "num": 193588,
+        "word": "繁城之下今晚开播",
+        "onboard_time": 1697171256,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193505,
+        "num": 193505,
+        "word": "封神 如果彪子原生家庭正常",
+        "onboard_time": 1697168974,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192418,
+        "num": 192418,
+        "word": "2024国考报名教程",
+        "onboard_time": 1697168617,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 189956,
+        "num": 189956,
+        "word": "朱一龙想把戏服穿成自己的衣服",
+        "onboard_time": 1697170297,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187178,
+        "num": 187178,
+        "word": "南波万的聚会2整季预告",
+        "onboard_time": 1697166995,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186432,
+        "num": 186432,
+        "word": "巴西遭倒勾绝平",
+        "onboard_time": 1697166336,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#感悟总书记的长江情怀#"
+    }
+  }
+}
