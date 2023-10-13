@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697168077662,
+  "endTime": 1697170833937,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -17,6 +17,14 @@
       "onboard_time": 1697161232,
       "rank": 0,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 2176385,
+      "num": 883361,
+      "word": "刘暖曦朋友发声",
+      "onboard_time": 1697168555,
+      "rank": 3,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2109433,
@@ -51,6 +59,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1203922,
+      "num": 1203922,
+      "word": "中方与以色列方通话",
+      "onboard_time": 1697156257,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1031123,
       "num": 1031123,
       "word": "6男生自助火锅店喝111瓶酸梅汤",
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 939774,
-      "num": 317682,
+      "num": 335639,
       "word": "美国女子遭性侵被救下后又被其侵犯",
       "onboard_time": 1697151743,
       "rank": 30,
@@ -123,6 +139,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 746943,
+      "num": 746943,
+      "word": "余华没想到河边的错误被改出来了",
+      "onboard_time": 1697168738,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 733423,
       "num": 733423,
       "word": "菲律宾男篮球员未通过兴奋剂检测",
@@ -137,14 +161,6 @@
       "onboard_time": 1697160215,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 690787,
-      "num": 690787,
-      "word": "中方与以色列方通话",
-      "onboard_time": 1697156257,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 673688,
@@ -217,6 +233,14 @@
       "onboard_time": 1697153308,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 561398,
+      "num": 390681,
+      "word": "以色列要求加沙北部上百万人迁移至南部",
+      "onboard_time": 1697169936,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 556325,
@@ -307,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 441156,
+      "num": 441156,
+      "word": "IVE新歌Baddie公开",
+      "onboard_time": 1697170416,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 421221,
       "num": 421221,
       "word": "合资车退出中国市场意味着什么",
@@ -347,6 +379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370649,
+      "num": 370649,
+      "word": "中国男篮能递补亚运金牌吗",
+      "onboard_time": 1697170297,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 369897,
       "num": 292030,
       "word": "吃柚子前摔一摔柚子会更甜",
@@ -371,6 +411,30 @@
       "category": "数码"
     },
     {
+      "raw_hot": 352884,
+      "num": 352884,
+      "word": "高叶新剧是大女主视角",
+      "onboard_time": 1697167592,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 345315,
+      "num": 345315,
+      "word": "全智贤有种素面朝天的美",
+      "onboard_time": 1697170178,
+      "rank": 17,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 339649,
+      "num": 339649,
+      "word": "白敬亭李沐风开机照",
+      "onboard_time": 1697167116,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335374,
       "num": 299849,
       "word": "韩国女厕给外国人带来的冲击",
@@ -388,19 +452,11 @@
     },
     {
       "raw_hot": 330225,
-      "num": 330225,
+      "num": 335812,
       "word": "我本是高山",
       "onboard_time": 1697166336,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 329326,
-      "num": 329326,
-      "word": "白敬亭李沐风开机照",
-      "onboard_time": 1697167116,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 326410,
@@ -443,8 +499,16 @@
       "category": "美食"
     },
     {
+      "raw_hot": 298558,
+      "num": 326548,
+      "word": "你有噗噗困难症吗",
+      "onboard_time": 1697170658,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 297644,
-      "num": 236559,
+      "num": 285685,
       "word": "林俊杰和女歌手合唱记得四个版本",
       "onboard_time": 1697167415,
       "rank": 30,
@@ -467,6 +531,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 296185,
+      "num": 296185,
+      "word": "丫丫眼里只有长笋笋",
+      "onboard_time": 1697168974,
+      "rank": 24,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 289608,
+      "num": 289608,
+      "word": "孙海洋希望对人贩子判处死刑",
+      "onboard_time": 1697168137,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288451,
       "num": 288451,
       "word": "黄景瑜 感谢所有消防员的竭诚守护",
@@ -481,6 +561,14 @@
       "onboard_time": 1697156557,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 282066,
+      "num": 282066,
+      "word": "纯狱风是白敬亭的统治区",
+      "onboard_time": 1697168796,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 276710,
@@ -547,12 +635,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 259550,
+      "num": 259550,
+      "word": "封神 如果彪子原生家庭正常",
+      "onboard_time": 1697168974,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 256529,
       "num": 256529,
       "word": "天官赐福动画戚容海报",
       "onboard_time": 1697166515,
       "rank": 33,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 255599,
+      "num": 255599,
+      "word": "今天下了班打算干啥",
+      "onboard_time": 1697164953,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247215,
@@ -675,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212448,
+      "num": 212448,
+      "word": "林孝埈领衔出战短道速滑世界杯",
+      "onboard_time": 1697169816,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212422,
       "num": 212422,
       "word": "马立奥上海之行",
@@ -689,6 +801,14 @@
       "onboard_time": 1697159435,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 209951,
+      "num": 209951,
+      "word": "TXT回归",
+      "onboard_time": 1697170658,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 208121,
@@ -771,6 +891,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197098,
+      "num": 197098,
+      "word": "王牌8宣传片在玩一种很新的闪现",
+      "onboard_time": 1697168915,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 196863,
+      "num": 196863,
+      "word": "张桂梅真实事迹改编电影",
+      "onboard_time": 1697170596,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195484,
       "num": 195484,
       "word": "曹杨新歌歌词居然是李莎旻子写的",
@@ -819,12 +955,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 191534,
-      "num": 191534,
-      "word": "高叶新剧是大女主视角",
-      "onboard_time": 1697167592,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 189989,
+      "num": 189989,
+      "word": "2024国考报名教程",
+      "onboard_time": 1697168617,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 189956,
@@ -833,6 +969,14 @@
       "onboard_time": 1697159555,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189792,
+      "num": 189792,
+      "word": "朱一龙想把戏服穿成自己的衣服",
+      "onboard_time": 1697170297,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 187209,
@@ -880,14 +1024,6 @@
       "word": "大学物理老师课堂放电像银角大王",
       "onboard_time": 1697165614,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 180261,
-      "num": 180261,
-      "word": "今天下了班打算干啥",
-      "onboard_time": 1697164953,
-      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1220,7 +1356,7 @@
     },
     {
       "raw_hot": 89110,
-      "num": 649698,
+      "num": 896744,
       "word": "航天员向少先队员发出探索星辰大海约定",
       "onboard_time": 1697166694,
       "rank": 2,
@@ -1305,6 +1441,14 @@
       "onboard_time": 1697139073,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 24697,
+      "num": 259621,
+      "word": "未来的智能SUV有多强",
+      "onboard_time": 1697169997,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 23424,
