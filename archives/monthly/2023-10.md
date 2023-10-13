@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 15:34:16
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 16:22:40
 </p>
 </blockquote>
 <p>
@@ -735,6 +735,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%93%BD%E5%92%BD%E8%AF%B4%E7%AD%89%E4%BA%8616%E5%B9%B4%E9%9B%B64%E5%A4%A9%E7%9A%84%E5%AE%A3%E5%88%A4%23" target="weibo">
+孙海洋哽咽说等了16年零4天的宣判（热度：2177171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B5%81%E6%B0%B4%E9%9D%A2%E8%87%B4892%E4%BA%BA%E4%B8%AD%E6%AF%92%23" target="weibo">
 日本流水面致892人中毒（热度：2172583）
 </a>
@@ -1065,6 +1071,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%9B%9E%E5%BA%94%E8%BF%BD%E9%B9%BF%E6%99%97%E5%90%B4%E4%B8%96%E5%8B%8B%23" target="weibo">
+卢昱晓回应追鹿晗吴世勋（热度：1935608）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%94%9F%E4%B8%8D%E8%A2%AB%E5%85%81%E8%AE%B8gap%E7%9A%84%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
 一生不被允许gap的中国人（热度：1935404）
 </a>
@@ -1097,6 +1109,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E6%8B%BC%E5%88%B0%E6%8A%BD%E7%AD%8B%23" target="weibo">
 陈雨菲拼到抽筋（热度：1912282）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
+狗头萝莉发文致歉（热度：1895203）
 </a>
 </li>
 
@@ -1187,12 +1205,6 @@ Angelababy喂范丞丞吃葡萄主打避嫌（热度：1868334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87100%E7%B1%B3%E6%A0%8F%E9%87%91%E7%89%8C%23" target="weibo">
 林雨薇100米栏金牌（热度：1841521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
-狗头萝莉发文致歉（热度：1840652）
 </a>
 </li>
 
@@ -3065,6 +3077,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
 王楚钦vs林高远（热度：1000105）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%AF%BB%E5%AD%90%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
+孙海洋寻子案一审宣判（热度：997661）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A5%E8%B5%84%E9%AB%98%E5%8F%88%E4%B8%8D%E5%8D%B7%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
 工资高又不卷的工作（热度：609709）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8A%AC%E5%A4%9C%E5%8F%89%20%E8%96%87%E6%A1%94%23" target="weibo">
-犬夜叉 薇桔（热度：608491）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%85%BB%E7%9A%84%E7%8C%AB25%E5%B2%81%E4%BA%86%23" target="weibo">
-爸爸养的猫25岁了（热度：607806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%95%E6%9C%9F%E5%B0%BD%E9%87%8F%E7%94%A8%E7%94%B5%E6%B0%94%E7%81%B6%E5%81%9A%E9%A5%AD%E6%88%96%E4%B8%8D%E4%B8%8B%E5%8E%A8%23" target="weibo">
-孕期尽量用电气灶做饭或不下厨（热度：607378）
 </a>
 </li>
 
