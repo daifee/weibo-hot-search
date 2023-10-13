@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 01:34:03
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 02:22:47
 </p>
 </blockquote>
 <p>
@@ -11649,6 +11649,12 @@ e人和i人在理发店完全不一样（热度：147160）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%93%E6%AF%8D%E4%BA%B2%E9%A9%B3%E4%BA%BA%E8%B4%A9%E5%BA%AD%E4%B8%8A%E6%9B%BE%E5%87%BA%E8%B5%84%E5%85%BB%E5%A8%83%E8%A8%80%E8%AE%BA%23" target="weibo">
+孙卓母亲驳人贩庭上曾出资养娃言论（热度：146330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%BB%BA%E5%B3%B0%E8%B5%B7%E8%AF%89%E8%A7%86%E8%A7%89%E4%B8%AD%E5%9B%BD%E8%8E%B7%E7%AB%8B%E6%A1%88%23" target="weibo">
 戴建峰起诉视觉中国获立案（热度：146179）
 </a>
@@ -12177,12 +12183,6 @@ Amber一声哞让张凌赫绷不住了（热度：134627）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%93%E6%AF%8D%E4%BA%B2%E9%A9%B3%E4%BA%BA%E8%B4%A9%E5%BA%AD%E4%B8%8A%E6%9B%BE%E5%87%BA%E8%B5%84%E5%85%BB%E5%A8%83%E8%A8%80%E8%AE%BA%23" target="weibo">
-孙卓母亲驳人贩庭上曾出资养娃言论（热度：121389）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E4%B9%B1%E7%94%BB%E8%A2%AB%E5%A5%B3%E5%AD%A9%E6%8C%BD%E6%95%91%E6%88%90%E6%BC%AB%E7%94%BB%23" target="weibo">
 妈妈乱画被女孩挽救成漫画（热度：121335）
 </a>
@@ -12627,6 +12627,12 @@ aespa将11月10日回归（热度：89406）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23i%E4%BA%BA%E6%9C%80%E5%AE%8C%E7%BE%8E%E7%9A%84%E5%91%A8%E6%9C%AB%E4%BC%91%E6%81%AF%E6%B3%95%23" target="weibo">
+i人最完美的周末休息法（热度：83024）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E7%92%87%E5%87%A4%E8%A5%84%E5%A6%86%E9%80%A0%23" target="weibo">
 王子璇凤襄妆造（热度：83022）
 </a>
@@ -12737,12 +12743,6 @@ TI12小组赛（热度：80652）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E7%9A%8450%E4%B8%AA%E7%8F%8D%E8%B4%B5%E7%9E%AC%E9%97%B4%23" target="weibo">
 杭州亚运的50个珍贵瞬间（热度：70860）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23i%E4%BA%BA%E6%9C%80%E5%AE%8C%E7%BE%8E%E7%9A%84%E5%91%A8%E6%9C%AB%E4%BC%91%E6%81%AF%E6%B3%95%23" target="weibo">
-i人最完美的周末休息法（热度：70631）
 </a>
 </li>
 
@@ -12863,6 +12863,12 @@ i人最完美的周末休息法（热度：70631）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E8%AE%B0%E8%80%85%E7%9B%B4%E5%87%BB%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5%23" target="weibo">
 新华社记者直击巴以冲突最新情况（热度：58599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%82%E5%95%86%E4%B8%8D%E5%81%9A%E5%B0%8F%E5%B1%8F%E6%89%8B%E6%9C%BA%23" target="weibo">
+为什么厂商不做小屏手机（热度：57745）
 </a>
 </li>
 
@@ -13115,6 +13121,12 @@ i人最完美的周末休息法（热度：70631）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E5%90%83%E9%A5%AD%E4%B9%9F%E8%B5%B0%E6%B5%81%E7%A8%8B%23" target="weibo">
 陈都灵吃饭也走流程（热度：28321）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%B3%E7%88%B7%E6%96%B0%E6%AD%8CMV%E7%A9%BF%E5%A5%B3%E8%A3%85%23" target="weibo">
+戳爷新歌MV穿女装（热度：28087）
 </a>
 </li>
 

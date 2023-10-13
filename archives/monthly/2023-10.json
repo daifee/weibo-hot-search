@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697218443854,
+  "endTime": 1697221367179,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -32843,6 +32843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146330,
+      "num": 121389,
+      "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
+      "onboard_time": 1697216962,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146187,
       "num": 146187,
       "word": "果果真是妈妈的好女儿",
@@ -34491,14 +34499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121389,
-      "num": 121389,
-      "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
-      "onboard_time": 1697216962,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121335,
       "num": 121335,
       "word": "妈妈乱画被女孩挽救成漫画",
@@ -35547,6 +35547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 83024,
+      "num": 70631,
+      "word": "i人最完美的周末休息法",
+      "onboard_time": 1697217382,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 83022,
       "num": 83022,
       "word": "王子璇凤襄妆造",
@@ -35833,14 +35841,6 @@
       "onboard_time": 1696840776,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 70631,
-      "num": 70631,
-      "word": "i人最完美的周末休息法",
-      "onboard_time": 1697217382,
-      "rank": 29,
-      "category": "幽默"
     },
     {
       "raw_hot": 70630,
@@ -36193,6 +36193,14 @@
       "onboard_time": 1696460601,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57745,
+      "num": 57745,
+      "word": "为什么厂商不做小屏手机",
+      "onboard_time": 1697215526,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 57424,
@@ -36849,6 +36857,14 @@
       "onboard_time": 1696622954,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28087,
+      "num": 49489,
+      "word": "戳爷新歌MV穿女装",
+      "onboard_time": 1697220916,
+      "rank": 48,
+      "category": "音乐,时尚"
     },
     {
       "raw_hot": 27520,
