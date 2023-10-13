@@ -1,6 +1,6 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697186138515,
+  "endTime": 1697188636729,
   "band_list": [
     {
       "raw_hot": 3031674,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1935608,
-      "num": 811191,
+      "num": 945006,
       "word": "卢昱晓回应追鹿晗吴世勋",
       "onboard_time": 1697183255,
       "rank": 3,
@@ -129,6 +129,14 @@
       "onboard_time": 1697169936,
       "rank": 11,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1299098,
+      "num": 1299098,
+      "word": "辱骂新加坡护士的中国女子认罪道歉",
+      "onboard_time": 1697184877,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1295101,
@@ -403,12 +411,20 @@
       "category": "动漫,剧集"
     },
     {
-      "raw_hot": 535155,
-      "num": 535155,
-      "word": "辱骂新加坡护士的中国女子认罪道歉",
-      "onboard_time": 1697184877,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 540784,
+      "num": 540784,
+      "word": "天官赐福",
+      "onboard_time": 1697186136,
+      "rank": 5,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 533719,
+      "num": 533719,
+      "word": "奶茶杯还能这么用",
+      "onboard_time": 1697185354,
+      "rank": 26,
+      "category": "其它"
     },
     {
       "raw_hot": 520534,
@@ -563,6 +579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 440451,
+      "num": 440451,
+      "word": "真正的下饭剧这不就来了",
+      "onboard_time": 1697185713,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421221,
       "num": 421221,
       "word": "合资车退出中国市场意味着什么",
@@ -577,6 +601,14 @@
       "onboard_time": 1697116360,
       "rank": 6,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 420186,
+      "num": 420186,
+      "word": "孙海洋哭诉结果难以接受将准备上诉",
+      "onboard_time": 1697188114,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 405754,
@@ -635,6 +667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 366001,
+      "num": 366001,
+      "word": "卢昱晓跟沈月庄达菲要联系方式",
+      "onboard_time": 1697185773,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 364901,
       "num": 364901,
       "word": "难怪小说女主能在游艇里跑迷路",
@@ -673,6 +713,14 @@
       "onboard_time": 1697173539,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347351,
+      "num": 347351,
+      "word": "B太 国内外眉笔再测重算单价",
+      "onboard_time": 1697184394,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 346644,
@@ -987,14 +1035,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 268200,
-      "num": 190283,
-      "word": "B太 国内外眉笔再测重算单价",
-      "onboard_time": 1697184394,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 267461,
       "num": 267461,
       "word": "男子买菜捡46万现金报警归还",
@@ -1203,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223384,
-      "num": 223384,
-      "word": "奶茶杯还能这么用",
-      "onboard_time": 1697185354,
-      "rank": 26,
-      "category": "其它"
-    },
-    {
       "raw_hot": 222475,
       "num": 222475,
       "word": "杨紫手势变装",
@@ -1353,6 +1385,22 @@
       "onboard_time": 1697158658,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202392,
+      "num": 202392,
+      "word": "7根石柱文物回归圆明园",
+      "onboard_time": 1697186075,
+      "rank": 36,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 202135,
+      "num": 202135,
+      "word": "京东股价一度暴跌",
+      "onboard_time": 1697188355,
+      "rank": 26,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 200700,
@@ -1515,6 +1563,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191668,
+      "num": 191668,
+      "word": "张小斐新片好惨",
+      "onboard_time": 1697187516,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190136,
       "num": 190136,
       "word": "孙俪也在追梅花红桃",
@@ -1537,6 +1593,14 @@
       "onboard_time": 1697170297,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189706,
+      "num": 189706,
+      "word": "TTG战胜eStar",
+      "onboard_time": 1697188233,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 189258,
@@ -1580,7 +1644,7 @@
     },
     {
       "raw_hot": 185278,
-      "num": 815005,
+      "num": 978562,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1697174497,
       "rank": 47,
@@ -1651,14 +1715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 172675,
-      "num": 172675,
-      "word": "卢昱晓跟沈月庄达菲要联系方式",
-      "onboard_time": 1697185773,
-      "rank": 33,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 170178,
       "num": 170178,
       "word": "小猫爬窗旁听讲课引师生围观",
@@ -1707,14 +1763,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163443,
-      "num": 163443,
-      "word": "7根石柱文物回归圆明园",
-      "onboard_time": 1697186075,
-      "rank": 36,
-      "category": "社会新闻,旅游"
-    },
-    {
       "raw_hot": 163412,
       "num": 163412,
       "word": "邓为 头套",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1697185413,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 159594,
+      "num": 159594,
+      "word": "欧豪总算捡起歌手身份了",
+      "onboard_time": 1697186554,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 159497,
@@ -1771,6 +1827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 156745,
+      "num": 156745,
+      "word": "女子求职被要求做避孕措施后拍照报备",
+      "onboard_time": 1697188295,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156499,
       "num": 156499,
       "word": "老舅看到粉丝横幅的反应",
@@ -1787,20 +1851,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 155206,
-      "num": 155206,
-      "word": "真正的下饭剧这不就来了",
-      "onboard_time": 1697185713,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 154783,
       "num": 154783,
       "word": "city walk home sleep",
       "onboard_time": 1697122603,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 153761,
+      "num": 153761,
+      "word": "动态MVP",
+      "onboard_time": 1697187155,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 152857,
@@ -1833,6 +1897,14 @@
       "onboard_time": 1697152886,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 146869,
+      "num": 146869,
+      "word": "张碧晨北京 抢票",
+      "onboard_time": 1697188173,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 142600,
