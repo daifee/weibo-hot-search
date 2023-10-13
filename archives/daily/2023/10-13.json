@@ -1,10 +1,10 @@
 {
   "startTime": 1697127749504,
-  "endTime": 1697159648126,
+  "endTime": 1697160889723,
   "band_list": [
     {
       "raw_hot": 3031674,
-      "num": 267778,
+      "num": 294985,
       "word": "去以色列工作的中国男性不允许与当地女性接触",
       "onboard_time": 1697154871,
       "rank": 20,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1465589,
-      "num": 1465589,
+      "raw_hot": 1690850,
+      "num": 1690850,
       "word": "12306推出静音车厢",
       "onboard_time": 1697156677,
       "rank": 0,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 939774,
-      "num": 266007,
+      "num": 294400,
       "word": "美国女子遭性侵被救下后又被其侵犯",
       "onboard_time": 1697151743,
       "rank": 30,
@@ -65,6 +65,14 @@
       "onboard_time": 1697109873,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 819801,
+      "num": 709405,
+      "word": "折腰",
+      "onboard_time": 1697117385,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 788183,
@@ -91,24 +99,24 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 709405,
-      "num": 709405,
-      "word": "折腰",
-      "onboard_time": 1697117385,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 733423,
+      "num": 733423,
+      "word": "菲律宾男篮球员未通过兴奋剂检测",
+      "onboard_time": 1697158959,
+      "rank": 9,
+      "category": "体育"
     },
     {
-      "raw_hot": 690027,
-      "num": 628924,
+      "raw_hot": 690787,
+      "num": 690787,
       "word": "中方与以色列方通话",
       "onboard_time": 1697156257,
       "rank": 6,
       "category": "国外要闻"
     },
     {
-      "raw_hot": 661824,
-      "num": 661824,
+      "raw_hot": 671076,
+      "num": 671076,
       "word": "周五",
       "onboard_time": 1697157519,
       "rank": 3,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 556325,
-      "num": 263959,
+      "num": 292905,
       "word": "每天都要擦一擦手机",
       "onboard_time": 1697156016,
       "rank": 22,
@@ -179,12 +187,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 488689,
-      "num": 488689,
-      "word": "菲律宾男篮球员未通过兴奋剂检测",
-      "onboard_time": 1697158959,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 465932,
+      "num": 465932,
+      "word": "地球上80亿人只占了这么一小块地方",
+      "onboard_time": 1697155477,
+      "rank": 13,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 457085,
+      "num": 396653,
+      "word": "朴炯植朴宝英合照",
+      "onboard_time": 1697159856,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 450998,
@@ -211,16 +227,8 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 396502,
-      "num": 396502,
-      "word": "地球上80亿人只占了这么一小块地方",
-      "onboard_time": 1697155477,
-      "rank": 13,
-      "category": "知识科普"
-    },
-    {
-      "raw_hot": 396213,
-      "num": 396213,
+      "raw_hot": 405754,
+      "num": 405754,
       "word": "盖被子的顺序会影响保暖效果",
       "onboard_time": 1697157699,
       "rank": 14,
@@ -228,10 +236,18 @@
     },
     {
       "raw_hot": 369897,
-      "num": 261403,
+      "num": 292030,
       "word": "吃柚子前摔一摔柚子会更甜",
       "onboard_time": 1697153730,
       "rank": 23,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 364901,
+      "num": 364901,
+      "word": "难怪小说女主能在游艇里跑迷路",
+      "onboard_time": 1697157157,
+      "rank": 16,
       "category": "知识科普"
     },
     {
@@ -243,20 +259,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 338039,
-      "num": 338039,
-      "word": "难怪小说女主能在游艇里跑迷路",
-      "onboard_time": 1697157157,
-      "rank": 16,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 335374,
       "num": 299849,
       "word": "韩国女厕给外国人带来的冲击",
       "onboard_time": 1697105134,
       "rank": 11,
       "category": "其它"
+    },
+    {
+      "raw_hot": 334327,
+      "num": 334327,
+      "word": "不理解妈妈工作的我如今成了她同行",
+      "onboard_time": 1697159435,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 324704,
+      "num": 296452,
+      "word": "周杰伦上海演唱会场外氛围",
+      "onboard_time": 1697159738,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 305237,
@@ -273,6 +297,14 @@
       "onboard_time": 1697124097,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 297038,
+      "num": 297038,
+      "word": "渐冻人蔡磊希望至少再捐5000万",
+      "onboard_time": 1697158836,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 296405,
@@ -308,7 +340,7 @@
     },
     {
       "raw_hot": 264864,
-      "num": 233111,
+      "num": 239269,
       "word": "男子劳作后误喝500毫升汽车防冻液身亡",
       "onboard_time": 1697151743,
       "rank": 19,
@@ -371,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 231537,
+      "num": 231537,
+      "word": "韩国人是真的很会形容美食",
+      "onboard_time": 1697156616,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 228845,
       "num": 228845,
       "word": "张艺兴吃了粉丝推荐的菜",
@@ -384,14 +424,6 @@
       "word": "专家解读社保缴满15年后能否坐等退休",
       "onboard_time": 1697156616,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216550,
-      "num": 216550,
-      "word": "渐冻人蔡磊希望至少再捐5000万",
-      "onboard_time": 1697158836,
-      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -411,14 +443,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 213247,
-      "num": 213247,
-      "word": "韩国人是真的很会形容美食",
-      "onboard_time": 1697156616,
-      "rank": 32,
-      "category": "美食"
-    },
-    {
       "raw_hot": 212832,
       "num": 212832,
       "word": "张凌赫回应炎症女孩",
@@ -435,12 +459,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210815,
+      "num": 210815,
+      "word": "收拾屋子找到了十年前的钱包",
+      "onboard_time": 1697159435,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 205389,
       "num": 205389,
       "word": "李子柒复出卡在哪了",
       "onboard_time": 1697118641,
       "rank": 23,
       "category": "网红,社会新闻"
+    },
+    {
+      "raw_hot": 204410,
+      "num": 204410,
+      "word": "孙海洋说人贩子无任何悔意且傲慢",
+      "onboard_time": 1697160215,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203637,
+      "num": 203637,
+      "word": "这个宿舍终究是选对了",
+      "onboard_time": 1697159738,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 203576,
@@ -483,6 +531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193467,
+      "num": 193467,
+      "word": "当火车穿越丹霞地貌",
+      "onboard_time": 1697160455,
+      "rank": 35,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 192939,
       "num": 192939,
       "word": "这已经是小朋友的天花板了",
@@ -497,14 +553,6 @@
       "onboard_time": 1697159555,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189773,
-      "num": 189773,
-      "word": "不理解妈妈工作的我如今成了她同行",
-      "onboard_time": 1697159435,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 187209,
@@ -563,12 +611,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 175895,
-      "num": 175895,
-      "word": "收拾屋子找到了十年前的钱包",
-      "onboard_time": 1697159435,
-      "rank": 43,
-      "category": "情感"
+      "raw_hot": 175326,
+      "num": 175326,
+      "word": "第一次见一车大金毛",
+      "onboard_time": 1697160633,
+      "rank": 41,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 174308,
@@ -609,6 +657,14 @@
       "onboard_time": 1697154992,
       "rank": 49,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 159231,
+      "num": 159231,
+      "word": "许佳琪美拉德出逃妆",
+      "onboard_time": 1697160695,
+      "rank": 42,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 156824,
@@ -803,7 +859,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 74020,
+      "raw_hot": 77031,
       "num": 807370,
       "word": "荔枝与车厘子的丝路之旅",
       "onboard_time": 1697117084,
