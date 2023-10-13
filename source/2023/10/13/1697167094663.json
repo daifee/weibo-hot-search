@@ -1,0 +1,410 @@
+{
+  "runTime": 1697167094663,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1199496,
+        "num": 1199496,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 660094,
+        "num": 660094,
+        "word": "正当防卫官宣",
+        "onboard_time": 1697163934,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89110,
+        "num": 601475,
+        "word": "航天员向少先队员发出探索星辰大海约定",
+        "onboard_time": 1697166694,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1754514,
+        "num": 586219,
+        "word": "周五",
+        "onboard_time": 1697157519,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 557781,
+        "num": 557781,
+        "word": "黄牛确认已无法售卖周杰伦上海演唱会门票",
+        "onboard_time": 1697109873,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2074942,
+        "num": 556814,
+        "word": "官方通报成都中学生校内自缢事件",
+        "onboard_time": 1697161232,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 554119,
+        "num": 554119,
+        "word": "天官赐福套餐",
+        "onboard_time": 1697164353,
+        "rank": 6,
+        "category": "动漫,剧集"
+      },
+      {
+        "raw_hot": 539950,
+        "num": 539950,
+        "word": "广东一高校老师美术馆看展时坠亡",
+        "onboard_time": 1697162676,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 452685,
+        "num": 452685,
+        "word": "iPhone16Pro或配骁龙X75调制解调器",
+        "onboard_time": 1697161474,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 389041,
+        "num": 389041,
+        "word": "孙卓被拐案今日宣判",
+        "onboard_time": 1697165678,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618014,
+        "num": 388314,
+        "word": "男子健身房失误砸断女生4根脚趾",
+        "onboard_time": 1697165678,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449042,
+        "num": 387683,
+        "word": "男子3年花19万8读了个假博士",
+        "onboard_time": 1697164476,
+        "rank": 11,
+        "category": "教育,社会新闻"
+      },
+      {
+        "raw_hot": 428133,
+        "num": 387386,
+        "word": "朋友称刘暖曦直播是为了修复心理",
+        "onboard_time": 1697155358,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385458,
+        "num": 385458,
+        "word": "孙海洋说人贩子无任何悔意且傲慢",
+        "onboard_time": 1697160215,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 372098,
+        "num": 372098,
+        "word": "朴炯植朴宝英合照",
+        "onboard_time": 1697159856,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 357210,
+        "num": 357210,
+        "word": "南柱赫真的不是在拍韩剧吗",
+        "onboard_time": 1697153791,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341227,
+        "num": 341227,
+        "word": "巴西遭倒勾绝平",
+        "onboard_time": 1697166336,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341025,
+        "num": 341025,
+        "word": "我的助理不简单定档",
+        "onboard_time": 1697166934,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 330517,
+        "num": 330517,
+        "word": "12306推出静音车厢",
+        "onboard_time": 1697156677,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318523,
+        "num": 318523,
+        "word": "折腰",
+        "onboard_time": 1697117385,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533775,
+        "num": 317682,
+        "word": "美国女子遭性侵被救下后又被其侵犯",
+        "onboard_time": 1697151743,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314827,
+        "num": 314827,
+        "word": "男孩为40岁头婚姑姑主持婚礼",
+        "onboard_time": 1697164053,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272460,
+        "num": 272460,
+        "word": "中方与以色列方通话",
+        "onboard_time": 1697156257,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 267461,
+        "num": 267461,
+        "word": "男子买菜捡46万现金报警归还",
+        "onboard_time": 1697164712,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266196,
+        "num": 266196,
+        "word": "我本是高山",
+        "onboard_time": 1697166336,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253089,
+        "num": 253089,
+        "word": "妈妈反向育儿剥20多颗糖治女儿糖瘾",
+        "onboard_time": 1697160936,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223742,
+        "num": 223742,
+        "word": "巴以冲突已致双方超2800人死亡",
+        "onboard_time": 1697154813,
+        "rank": 26,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 221697,
+        "num": 221697,
+        "word": "梅西梅开二柱",
+        "onboard_time": 1697162676,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 218283,
+        "num": 218283,
+        "word": "高叶大嫂的外表摇滚的心",
+        "onboard_time": 1697161593,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217259,
+        "num": 217259,
+        "word": "菲律宾男篮球员未通过兴奋剂检测",
+        "onboard_time": 1697158959,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258328,
+        "num": 216779,
+        "word": "再见爱人3网友拟邀嘉宾",
+        "onboard_time": 1697165434,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214602,
+        "num": 214602,
+        "word": "十岁妹妹寄来的生日礼物",
+        "onboard_time": 1697165556,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211602,
+        "num": 211602,
+        "word": "南波万的聚会2整季预告",
+        "onboard_time": 1697166995,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209199,
+        "num": 209199,
+        "word": "天官赐福动画戚容海报",
+        "onboard_time": 1697166515,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 207665,
+        "num": 207665,
+        "word": "北京女子电脑忘街头40分钟后找回",
+        "onboard_time": 1697166754,
+        "rank": 34,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 207176,
+        "num": 207176,
+        "word": "中国人和德国人都沉默了",
+        "onboard_time": 1697154272,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205000,
+        "num": 205000,
+        "word": "海清新片出演燃灯校长张桂梅",
+        "onboard_time": 1697166216,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199890,
+        "num": 199890,
+        "word": "女儿带阿尔兹海默症妈妈帮助400个家庭",
+        "onboard_time": 1697166336,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198817,
+        "num": 198817,
+        "word": "太阳vs开拓者",
+        "onboard_time": 1697166277,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194246,
+        "num": 194246,
+        "word": "吃柚子前摔一摔柚子会更甜",
+        "onboard_time": 1697153730,
+        "rank": 39,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 181408,
+        "num": 181408,
+        "word": "第一次见一车大金毛",
+        "onboard_time": 1697160633,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 180358,
+        "num": 180358,
+        "word": "大学物理老师课堂放电像银角大王",
+        "onboard_time": 1697165614,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169950,
+        "num": 169950,
+        "word": "地球上80亿人只占了这么一小块地方",
+        "onboard_time": 1697155477,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 156029,
+        "num": 156029,
+        "word": "徐娇陈思斯合照",
+        "onboard_time": 1697163692,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153747,
+        "num": 153747,
+        "word": "窗边的小豆豆新预告",
+        "onboard_time": 1697161354,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149832,
+        "num": 149832,
+        "word": "今天下了班打算干啥",
+        "onboard_time": 1697164953,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147839,
+        "num": 147839,
+        "word": "中国少年先锋队建队74周年",
+        "onboard_time": 1697166034,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140508,
+        "num": 140508,
+        "word": "周杰伦上海演唱会场外氛围",
+        "onboard_time": 1697159738,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136873,
+        "num": 136873,
+        "word": "男子劳作后误喝500毫升汽车防冻液身亡",
+        "onboard_time": 1697151743,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135070,
+        "num": 135070,
+        "word": "时代少年团诠释各自潮流穿搭",
+        "onboard_time": 1697167054,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越不同地域共唱繁荣之路#"
+    }
+  }
+}

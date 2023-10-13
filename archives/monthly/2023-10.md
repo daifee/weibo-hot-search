@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 10:38:18
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/13 11:18:14
 </p>
 </blockquote>
 <p>
@@ -5271,6 +5271,12 @@ A股（热度：674863）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%AE%98%E5%AE%A3%23" target="weibo">
+正当防卫官宣（热度：660094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%88%8F%E8%85%94%E4%B8%80%E5%BC%80%E5%8F%A3%E6%83%A0%E8%8B%B1%E7%BA%A2%E9%83%BD%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
 周深戏腔一开口惠英红都坐不住了（热度：659781）
 </a>
@@ -5381,12 +5387,6 @@ iPhone15Pro蓝色钛金属价格暴跌（热度：653784）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B6%E8%8C%B6%E7%9A%84%E4%BB%B7%E6%A0%BC%23" target="weibo">
 台湾奶茶的价格（热度：651057）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%E5%AE%98%E5%AE%A3%23" target="weibo">
-正当防卫官宣（热度：650629）
 </a>
 </li>
 
@@ -5793,6 +5793,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%A4%B1%E8%AF%AF%E7%A0%B8%E6%96%AD%E5%A5%B3%E7%94%9F4%E6%A0%B9%E8%84%9A%E8%B6%BE%23" target="weibo">
+男子健身房失误砸断女生4根脚趾（热度：618014）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%E6%81%B6%E5%A5%B3%E5%A6%86%E9%80%A0%23" target="weibo">
 周也恶女妆造（热度：617919）
 </a>
@@ -6005,12 +6011,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%236%E9%87%91%E5%BC%A0%E9%9B%A8%E9%9C%8F%E8%8E%B7%E8%AF%84%E6%9C%80%E6%9C%89%E4%BB%B7%E5%80%BC%E5%A5%B3%E8%BF%90%E5%8A%A8%E5%91%98%23" target="weibo">
 6金张雨霏获评最有价值女运动员（热度：599668）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E4%B8%80%E7%94%9F%E4%B8%AD%E6%9C%80%E7%88%B1%23" target="weibo">
-周杰伦 一生中最爱（热度：599519）
 </a>
 </li>
 
