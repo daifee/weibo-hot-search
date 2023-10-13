@@ -1,0 +1,410 @@
+{
+  "runTime": 1697193299596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1305493,
+        "num": 1305493,
+        "word": "姚政脚筋断了才想起来办社保",
+        "onboard_time": 1697190035,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287083,
+        "num": 883158,
+        "word": "景区满头大汗跪地救人的女孩获表彰",
+        "onboard_time": 1697190636,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 39885,
+        "num": 823742,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1697174497,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 771936,
+        "num": 771936,
+        "word": "这居然是TizzyT的歌",
+        "onboard_time": 1697191654,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 96647,
+        "num": 758385,
+        "word": "她们是凡间奇女子",
+        "onboard_time": 1697190212,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758234,
+        "num": 758234,
+        "word": "第一次觉得周五这么难熬",
+        "onboard_time": 1697189014,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85052,
+        "num": 635548,
+        "word": "5旬大叔用32年守护10万亩青山",
+        "onboard_time": 1697192316,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551349,
+        "num": 551349,
+        "word": "卢昱晓回应追鹿晗吴世勋",
+        "onboard_time": 1697183255,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549586,
+        "num": 549586,
+        "word": "鼓励生育不能只盯着二孩",
+        "onboard_time": 1697191894,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504856,
+        "num": 504856,
+        "word": "我本是高山 女高校训",
+        "onboard_time": 1697189255,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1576234,
+        "num": 503832,
+        "word": "女子求职被要求做避孕措施后拍照报备",
+        "onboard_time": 1697188295,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1369385,
+        "num": 499731,
+        "word": "孙海洋哭诉结果难以接受将准备上诉",
+        "onboard_time": 1697188114,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1320641,
+        "num": 494296,
+        "word": "以色列",
+        "onboard_time": 1697190514,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 922391,
+        "num": 488913,
+        "word": "狗头萝莉发文致歉",
+        "onboard_time": 1697179955,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 61611,
+        "num": 485100,
+        "word": "蛋仔派对午夜魅影季",
+        "onboard_time": 1697191236,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 482879,
+        "num": 482879,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 450664,
+        "num": 450664,
+        "word": "辱骂新加坡护士的中国女子认罪道歉",
+        "onboard_time": 1697184877,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348711,
+        "num": 348711,
+        "word": "五月天成都 二次开抢",
+        "onboard_time": 1697191175,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 340529,
+        "num": 340529,
+        "word": "孙海洋哽咽说等了16年零4天的宣判",
+        "onboard_time": 1697181758,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278221,
+        "num": 278221,
+        "word": "天官赐福",
+        "onboard_time": 1697186136,
+        "rank": 19,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 722519,
+        "num": 278018,
+        "word": "泄露陈牧驰离婚信息或触刑法",
+        "onboard_time": 1697174798,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 462247,
+        "num": 276723,
+        "word": "租客退房后留下满屋防撞条",
+        "onboard_time": 1697191954,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 265861,
+        "num": 265861,
+        "word": "京东股价一度暴跌",
+        "onboard_time": 1697188355,
+        "rank": 22,
+        "category": "财经,互联网"
+      },
+      {
+        "raw_hot": 263333,
+        "num": 263333,
+        "word": "24岁女子顺转剖大出血多器官衰竭",
+        "onboard_time": 1697184813,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256384,
+        "num": 256384,
+        "word": "接到Doinb电话",
+        "onboard_time": 1697190275,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 251762,
+        "num": 251762,
+        "word": "张柏芝说自己真的保持得蛮好的",
+        "onboard_time": 1697190094,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246046,
+        "num": 246046,
+        "word": "相恋1个月女友瘫痪男友陪伴31年",
+        "onboard_time": 1697189555,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238696,
+        "num": 238696,
+        "word": "官方回应女教师美术馆看展坠亡",
+        "onboard_time": 1697191535,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235033,
+        "num": 235033,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1697190755,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 231383,
+        "num": 231383,
+        "word": "孙红雷诉游戏公司声音侵权案一审宣判",
+        "onboard_time": 1697189673,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263103,
+        "num": 228334,
+        "word": "果然是90后当父母了",
+        "onboard_time": 1697191415,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 213201,
+        "num": 213201,
+        "word": "TXT",
+        "onboard_time": 1697192914,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 212064,
+        "num": 212064,
+        "word": "小辣 我们都不要放弃",
+        "onboard_time": 1697191713,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 189608,
+        "num": 189608,
+        "word": "林柏叡首次带女儿录制综艺",
+        "onboard_time": 1697189014,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187038,
+        "num": 187038,
+        "word": "上班一个月吃了公司2600的零食",
+        "onboard_time": 1697178338,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 177258,
+        "num": 177258,
+        "word": "北方人真的要比南方人胖吗",
+        "onboard_time": 1697190755,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171114,
+        "num": 171114,
+        "word": "成都一学生被同学强迫吸氨气病危",
+        "onboard_time": 1697193035,
+        "rank": 36,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 167442,
+        "num": 167442,
+        "word": "林奕颖拍的赵露思",
+        "onboard_time": 1697189494,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162372,
+        "num": 162372,
+        "word": "董宇辉 无耻的偶像剧恋爱观",
+        "onboard_time": 1697177200,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161173,
+        "num": 161173,
+        "word": "男子当街鞭打女子长达8分钟",
+        "onboard_time": 1697173960,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157565,
+        "num": 157565,
+        "word": "马龙说樊振东王楚钦太依赖我了",
+        "onboard_time": 1697180915,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156074,
+        "num": 156074,
+        "word": "以色列要求加沙北部上百万人迁移至南部",
+        "onboard_time": 1697169936,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 153874,
+        "num": 153874,
+        "word": "鸡屎藤糖水有多好喝",
+        "onboard_time": 1697189853,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 144332,
+        "num": 144332,
+        "word": "银行回应拒为无工作人员办银行卡",
+        "onboard_time": 1697192793,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 143938,
+        "num": 143938,
+        "word": "IVE空降",
+        "onboard_time": 1697175038,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 123829,
+        "num": 123829,
+        "word": "美国政府将从13日开始安排撤侨航班",
+        "onboard_time": 1697177316,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 121620,
+        "num": 121620,
+        "word": "奶茶杯还能这么用",
+        "onboard_time": 1697185354,
+        "rank": 46,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 120007,
+        "num": 120007,
+        "word": "孙卓被拐案两被告分别被判5年2年",
+        "onboard_time": 1697184277,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116793,
+        "num": 116793,
+        "word": "卢昱晓跟沈月庄达菲要联系方式",
+        "onboard_time": 1697185773,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113516,
+        "num": 113516,
+        "word": "B太 国内外眉笔再测重算单价",
+        "onboard_time": 1697184394,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越不同地域共唱繁荣之路#"
+    }
+  }
+}
