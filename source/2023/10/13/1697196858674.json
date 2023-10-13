@@ -1,0 +1,410 @@
+{
+  "runTime": 1697196858674,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1930640,
+        "num": 1930640,
+        "word": "鼓励生育不能只盯着二孩",
+        "onboard_time": 1697191894,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 214440,
+        "num": 1524570,
+        "word": "景区满头大汗跪地救人的女孩获表彰",
+        "onboard_time": 1697190636,
+        "rank": 1,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 9373,
+        "num": 1379321,
+        "word": "一眼千年看景德镇文化强磁场",
+        "onboard_time": 1697182956,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1284430,
+        "num": 1284430,
+        "word": "姚政脚筋断了才想起来办社保",
+        "onboard_time": 1697190035,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195611,
+        "num": 879434,
+        "word": "男子捡手机跟失主打太极民警一招整服",
+        "onboard_time": 1697195314,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 806677,
+        "num": 806677,
+        "word": "成都一学生被同学强迫吸氨气病危",
+        "onboard_time": 1697193035,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 117864,
+        "num": 702973,
+        "word": "她们是凡间奇女子",
+        "onboard_time": 1697190212,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643723,
+        "num": 643723,
+        "word": "第一次见这么铁面无私的女主",
+        "onboard_time": 1697194593,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 516098,
+        "num": 516098,
+        "word": "银行回应拒为无工作人员办银行卡",
+        "onboard_time": 1697192793,
+        "rank": 8,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 498589,
+        "num": 498589,
+        "word": "于适 宝诗龙",
+        "onboard_time": 1697193874,
+        "rank": 9,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 697104,
+        "num": 497680,
+        "word": "狗头萝莉发文致歉",
+        "onboard_time": 1697179955,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 634761,
+        "num": 481679,
+        "word": "以色列",
+        "onboard_time": 1697190514,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 117486,
+        "num": 464287,
+        "word": "周五周五轻松为主",
+        "onboard_time": 1697193515,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500300,
+        "num": 457141,
+        "word": "孙海洋哭诉结果难以接受将准备上诉",
+        "onboard_time": 1697188114,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451781,
+        "num": 451781,
+        "word": "韩国人写的Jennie新闻标题",
+        "onboard_time": 1697193515,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422135,
+        "num": 422135,
+        "word": "以驻日大使质问日本是什么意思",
+        "onboard_time": 1697194653,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 372831,
+        "num": 372831,
+        "word": "卢昱晓回应追鹿晗吴世勋",
+        "onboard_time": 1697183255,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351733,
+        "num": 351733,
+        "word": "这居然是TizzyT的歌",
+        "onboard_time": 1697191654,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 290784,
+        "num": 290784,
+        "word": "蔡卓妍收到关智斌找蔡国庆送的祝福",
+        "onboard_time": 1697194835,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271035,
+        "num": 271035,
+        "word": "第一次觉得周五这么难熬",
+        "onboard_time": 1697189014,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 661619,
+        "num": 267243,
+        "word": "女子求职被要求做避孕措施后拍照报备",
+        "onboard_time": 1697188295,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28564,
+        "num": 260227,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1697174497,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318880,
+        "num": 251984,
+        "word": "泄露陈牧驰离婚信息或触刑法",
+        "onboard_time": 1697174798,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276002,
+        "num": 245327,
+        "word": "租客退房后留下满屋防撞条",
+        "onboard_time": 1697191954,
+        "rank": 23,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 242147,
+        "num": 242147,
+        "word": "坠亡女教师家属称美术馆无警示牌",
+        "onboard_time": 1697194415,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 234318,
+        "num": 234318,
+        "word": "24岁女子顺转剖大出血多器官衰竭",
+        "onboard_time": 1697184813,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232810,
+        "num": 232810,
+        "word": "LESSERAFIM个资变团资",
+        "onboard_time": 1697195014,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232581,
+        "num": 232581,
+        "word": "相恋1个月女友瘫痪男友陪伴31年",
+        "onboard_time": 1697189555,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221754,
+        "num": 221754,
+        "word": "前公募一哥王亚伟被带走调查",
+        "onboard_time": 1697195555,
+        "rank": 28,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 221119,
+        "num": 221119,
+        "word": "五月天演唱会",
+        "onboard_time": 1697195135,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 471474,
+        "num": 215115,
+        "word": "韩国爆料博主金勇浩去世",
+        "onboard_time": 1697194954,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206566,
+        "num": 206566,
+        "word": "时代少年团演唱会澄清与提醒",
+        "onboard_time": 1697195014,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 200132,
+        "num": 200132,
+        "word": "果然是90后当父母了",
+        "onboard_time": 1697191415,
+        "rank": 32,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 199659,
+        "num": 199659,
+        "word": "国考",
+        "onboard_time": 1697162492,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 186534,
+        "num": 186534,
+        "word": "长得像洋娃娃的黎巴嫩双胞胎",
+        "onboard_time": 1697193395,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 182791,
+        "num": 182791,
+        "word": "TXT",
+        "onboard_time": 1697192914,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 175916,
+        "num": 175916,
+        "word": "辱骂新加坡护士的中国女子认罪道歉",
+        "onboard_time": 1697184877,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165180,
+        "num": 165180,
+        "word": "孙海洋哽咽说等了16年零4天的宣判",
+        "onboard_time": 1697181758,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164367,
+        "num": 164367,
+        "word": "薛之谦 抢票",
+        "onboard_time": 1697190755,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163767,
+        "num": 163767,
+        "word": "张拿铁是户籍黑洞",
+        "onboard_time": 1697193815,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148431,
+        "num": 148431,
+        "word": "官方回应女教师美术馆看展坠亡",
+        "onboard_time": 1697191535,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144057,
+        "num": 144057,
+        "word": "繁城之下",
+        "onboard_time": 1697195373,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142156,
+        "num": 142156,
+        "word": "FNC官宣Rekkles离队",
+        "onboard_time": 1697195433,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141506,
+        "num": 141506,
+        "word": "上班一个月吃了公司2600的零食",
+        "onboard_time": 1697178338,
+        "rank": 43,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 141389,
+        "num": 141389,
+        "word": "降这么多的也只有工资了",
+        "onboard_time": 1697193333,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132972,
+        "num": 141297,
+        "word": "我本是高山 女高校训",
+        "onboard_time": 1697189255,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131430,
+        "num": 141290,
+        "word": "王者周年庆返场皮肤候选名单",
+        "onboard_time": 1697196634,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 123636,
+        "num": 141154,
+        "word": "张柏芝说自己真的保持得蛮好的",
+        "onboard_time": 1697190094,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111192,
+        "num": 141064,
+        "word": "马龙说樊振东王楚钦太依赖我了",
+        "onboard_time": 1697180915,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99887,
+        "num": 140954,
+        "word": "踏上祖国军舰拿着中国护照有种归属感",
+        "onboard_time": 1697196813,
+        "rank": 49,
+        "category": "军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#跨越不同地域共唱繁荣之路#"
+    }
+  }
+}
