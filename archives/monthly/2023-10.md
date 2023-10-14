@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 20:30:27
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 20:45:31
 </p>
 </blockquote>
 <p>
@@ -3753,6 +3753,12 @@ iPhone平均寿命将达8年（热度：910856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23" target="weibo">
+孩子手洗不干净老师细看心疼（热度：898713）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E5%92%8C%E8%BD%A6%E9%93%B6%E4%BC%98%E4%B8%80%E8%B5%B7%E6%8B%8D%E5%B9%BF%E5%91%8A%E4%BA%86%23" target="weibo">
 韩素希和车银优一起拍广告了（热度：898003）
 </a>
@@ -3893,12 +3899,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E5%85%A55%E4%B8%87%E8%88%8D%E4%B8%8D%E5%BE%97%E6%89%93%E8%BD%A6%23" target="weibo">
 月入5万舍不得打车（热度：878125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23" target="weibo">
-孩子手洗不干净老师细看心疼（热度：877985）
 </a>
 </li>
 
@@ -4427,6 +4427,12 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E8%83%BD%E9%80%92%E8%A1%A5%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E5%90%97%23" target="weibo">
 中国男篮能递补亚运金牌吗（热度：802661）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B7%B1V%E7%BA%A2%E8%A3%99%23" target="weibo">
+赵丽颖深V红裙（热度：802018）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
 哪吒2要来了（热度：637180）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E5%88%A4%E5%AE%9A%E5%8D%8E%E8%8E%8E%E6%97%A0%E5%AB%8C%E7%96%91%23" target="weibo">
-韩警方判定华莎无嫌疑（热度：636606）
 </a>
 </li>
 

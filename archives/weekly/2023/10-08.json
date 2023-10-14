@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697286627381,
+  "endTime": 1697287531377,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 2089317,
-      "num": 411254,
+      "num": 561175,
       "word": "纪宝贝去世",
       "onboard_time": 1697283392,
       "rank": 5,
@@ -2291,6 +2291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 898713,
+      "num": 898713,
+      "word": "孩子手洗不干净老师细看心疼",
+      "onboard_time": 1697284173,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896154,
       "num": 896154,
       "word": "李健 希望大家少经受挫折磨难",
@@ -2344,14 +2352,6 @@
       "word": "月入5万舍不得打车",
       "onboard_time": 1697101773,
       "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 877985,
-      "num": 877985,
-      "word": "孩子手洗不干净老师细看心疼",
-      "onboard_time": 1697284173,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -2657,6 +2657,14 @@
       "onboard_time": 1697170297,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 802018,
+      "num": 350209,
+      "word": "赵丽颖深V红裙",
+      "onboard_time": 1697286575,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 801220,
@@ -3532,7 +3540,7 @@
     },
     {
       "raw_hot": 644474,
-      "num": 329770,
+      "num": 344004,
       "word": "蔡文静脸上好多钻石",
       "onboard_time": 1697275473,
       "rank": 24,
@@ -4203,6 +4211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 567995,
+      "num": 567995,
+      "word": "赵丽颖檀健次同框",
+      "onboard_time": 1697286575,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567777,
       "num": 567777,
       "word": "地铁好像成了打工人的休息室",
@@ -4611,6 +4627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 526593,
+      "num": 373869,
+      "word": "李一桐回复粉丝狂飙2有机会吗",
+      "onboard_time": 1697284114,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 525673,
       "num": 525673,
       "word": "BABYMONSTER官宣将出道",
@@ -4809,14 +4833,6 @@
       "onboard_time": 1697242770,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 512011,
-      "num": 373869,
-      "word": "李一桐回复粉丝狂飙2有机会吗",
-      "onboard_time": 1697284114,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 512000,
@@ -5153,6 +5169,14 @@
       "onboard_time": 1697073036,
       "rank": 12,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 484595,
+      "num": 370909,
+      "word": "秋婉G 抄袭",
+      "onboard_time": 1697285313,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 483413,
@@ -6075,6 +6099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 422172,
+      "num": 422172,
+      "word": "佛山电翰爆火后回应",
+      "onboard_time": 1697283093,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 421771,
       "num": 421771,
       "word": "小偷也没想到我包里居然是白菜",
@@ -6179,14 +6211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 417191,
-      "num": 370909,
-      "word": "秋婉G 抄袭",
-      "onboard_time": 1697285313,
-      "rank": 12,
-      "category": "体育"
-    },
-    {
       "raw_hot": 417029,
       "num": 417029,
       "word": "19岁女孩7年花40万减肥越减越胖",
@@ -6273,14 +6297,6 @@
       "onboard_time": 1697118162,
       "rank": 15,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 411009,
-      "num": 411009,
-      "word": "佛山电翰爆火后回应",
-      "onboard_time": 1697283093,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 409240,
@@ -6625,14 +6641,6 @@
       "onboard_time": 1696949019,
       "rank": 21,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 386919,
-      "num": 348739,
-      "word": "赵丽颖深V红裙",
-      "onboard_time": 1697286575,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 386867,
@@ -8249,6 +8257,14 @@
       "onboard_time": 1696949200,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 320018,
+      "num": 320018,
+      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+      "onboard_time": 1697285852,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 319867,
@@ -11547,14 +11563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234599,
-      "num": 189072,
-      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
-      "onboard_time": 1697285852,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 234537,
       "num": 234537,
       "word": "朱一龙说我奔着一条过演的",
@@ -14251,6 +14259,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 193033,
+      "num": 193033,
+      "word": "王心凌上海演唱会",
+      "onboard_time": 1697286395,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192939,
       "num": 192939,
       "word": "这已经是小朋友的天花板了",
@@ -14843,14 +14859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 185898,
-      "num": 185898,
-      "word": "王心凌上海演唱会",
-      "onboard_time": 1697286395,
-      "rank": 31,
-      "category": "演出"
-    },
-    {
       "raw_hot": 185880,
       "num": 185880,
       "word": "湖北首次发布69道预制菜谱",
@@ -15177,14 +15185,6 @@
       "onboard_time": 1697015135,
       "rank": 31,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 181979,
-      "num": 181979,
-      "word": "赵丽颖檀健次同框",
-      "onboard_time": 1697286575,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 181721,
@@ -16809,6 +16809,14 @@
       "onboard_time": 1696929933,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 155777,
+      "num": 155777,
+      "word": "巴以冲突记者手机APP警报响个不停",
+      "onboard_time": 1697287175,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 155734,
@@ -18843,6 +18851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80732,
+      "num": 348965,
+      "word": "双十一10月24日晚8点开启",
+      "onboard_time": 1697284831,
+      "rank": 14,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 80652,
       "num": 97724,
       "word": "TI12小组赛",
@@ -19161,14 +19177,6 @@
       "onboard_time": 1696869745,
       "rank": 43,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 58475,
-      "num": 348965,
-      "word": "双十一10月24日晚8点开启",
-      "onboard_time": 1697284831,
-      "rank": 14,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 57424,
