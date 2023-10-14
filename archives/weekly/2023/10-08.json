@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697292849948,
+  "endTime": 1697294046376,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -2275,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 931590,
+      "num": 705179,
+      "word": "巴以冲突",
+      "onboard_time": 1696721609,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 925719,
       "num": 925719,
       "word": "第一次在古偶见男主送女主莲花",
@@ -2548,7 +2556,7 @@
     },
     {
       "raw_hot": 826205,
-      "num": 444798,
+      "num": 453801,
       "word": "赵丽颖深V红裙",
       "onboard_time": 1697286575,
       "rank": 15,
@@ -3171,14 +3179,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 705179,
-      "num": 705179,
-      "word": "巴以冲突",
-      "onboard_time": 1696721609,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 702294,
       "num": 598841,
       "word": "辱骂女大学生致死案房东以此作诗参赛",
@@ -3241,6 +3241,14 @@
       "onboard_time": 1696763734,
       "rank": 10,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 687915,
+      "num": 528746,
+      "word": "巴以冲突不断升级面临失控风险",
+      "onboard_time": 1697293002,
+      "rank": 10,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 684143,
@@ -4699,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 528915,
+      "num": 528915,
+      "word": "武汉欢乐谷 差评",
+      "onboard_time": 1697289695,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 526593,
       "num": 373869,
       "word": "李一桐回复粉丝狂飙2有机会吗",
@@ -5169,14 +5185,6 @@
       "onboard_time": 1696764694,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 493650,
-      "num": 493650,
-      "word": "武汉欢乐谷 差评",
-      "onboard_time": 1697289695,
-      "rank": 28,
-      "category": "旅游"
     },
     {
       "raw_hot": 493493,
@@ -5763,6 +5771,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 453777,
+      "num": 453777,
+      "word": "KPL 至暗时刻",
+      "onboard_time": 1697292097,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 453370,
       "num": 405591,
       "word": "井胧和姐姐那么近又那么远",
@@ -6105,6 +6121,14 @@
       "onboard_time": 1697254651,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 428711,
+      "num": 428711,
+      "word": "徐明浩 直播",
+      "onboard_time": 1697292338,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 428694,
@@ -6619,14 +6643,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 395361,
-      "num": 395361,
-      "word": "KPL 至暗时刻",
-      "onboard_time": 1697292097,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 395288,
       "num": 395288,
       "word": "2024年考研报名正式开启",
@@ -7129,6 +7145,14 @@
       "onboard_time": 1696905631,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 369997,
+      "num": 369997,
+      "word": "玲娜贝儿也是工龄两年的小童模了",
+      "onboard_time": 1697293236,
+      "rank": 16,
+      "category": "网红"
     },
     {
       "raw_hot": 369897,
@@ -8265,14 +8289,6 @@
       "onboard_time": 1696949259,
       "rank": 24,
       "category": "社会新闻,情感"
-    },
-    {
-      "raw_hot": 323942,
-      "num": 323942,
-      "word": "徐明浩 直播",
-      "onboard_time": 1697292338,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 323795,
@@ -10259,6 +10275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263647,
+      "num": 263647,
+      "word": "中国人在非洲穿过31种地层打井出水",
+      "onboard_time": 1697291736,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263562,
       "num": 263562,
       "word": "青藏高原发现异形菊石化石",
@@ -11491,14 +11515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237525,
-      "num": 237525,
-      "word": "中国人在非洲穿过31种地层打井出水",
-      "onboard_time": 1697291736,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 237503,
       "num": 237503,
       "word": "如何谈一段长久的恋爱",
@@ -11969,6 +11985,14 @@
       "onboard_time": 1697263052,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228080,
+      "num": 228080,
+      "word": "徐瑛彬3比2许昕",
+      "onboard_time": 1697293356,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 228052,
@@ -13683,6 +13707,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 201156,
+      "num": 201156,
+      "word": "DRG质疑WB成为WB",
+      "onboard_time": 1697292458,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201131,
       "num": 205252,
       "word": "向鹏刘炜珊混双晋级决赛",
@@ -13721,6 +13753,14 @@
       "onboard_time": 1697245655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200813,
+      "num": 200813,
+      "word": "挑战者杯",
+      "onboard_time": 1697293538,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 200729,
@@ -13769,14 +13809,6 @@
       "onboard_time": 1696954891,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 200358,
-      "num": 200358,
-      "word": "DRG质疑WB成为WB",
-      "onboard_time": 1697292458,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 200284,
@@ -15763,6 +15795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 176259,
+      "num": 176259,
+      "word": "KPL真汗流浃背了",
+      "onboard_time": 1697292815,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175896,
       "num": 213961,
       "word": "大鱼海棠3立项",
@@ -16819,6 +16859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159141,
+      "num": 159141,
+      "word": "张小斐 非典型人生",
+      "onboard_time": 1697293717,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158820,
       "num": 117507,
       "word": "安洗莹让陈雨菲展示我姓石",
@@ -17451,6 +17499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 145222,
+      "num": 145222,
+      "word": "现在小说男主有很多都比不上猴哥",
+      "onboard_time": 1697293781,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 145198,
       "num": 145198,
       "word": "边防战士爬刀背坡巡逻守界碑",
@@ -17761,6 +17817,14 @@
       "onboard_time": 1696720466,
       "rank": 37,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 135590,
+      "num": 135590,
+      "word": "教大家怎么白菜价吃日料",
+      "onboard_time": 1697294018,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 135499,
@@ -18137,14 +18201,6 @@
       "onboard_time": 1697253993,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127993,
-      "num": 168997,
-      "word": "KPL真汗流浃背了",
-      "onboard_time": 1697292815,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 127944,
@@ -19724,7 +19780,7 @@
     },
     {
       "raw_hot": 36244,
-      "num": 122113,
+      "num": 775010,
       "word": "一带一路有你有我",
       "onboard_time": 1697287774,
       "rank": 47,
