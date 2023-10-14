@@ -1,0 +1,410 @@
+{
+  "runTime": 1697321719324,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 237178,
+        "num": 237178,
+        "word": "女子乔迁新房70人吃席家里蹲",
+        "onboard_time": 1697298214,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110737,
+        "num": 110737,
+        "word": "以色列同意加沙地带的外国人离开",
+        "onboard_time": 1697297015,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 8810,
+        "num": 93996,
+        "word": "一带一路有你有我",
+        "onboard_time": 1697287774,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 91993,
+        "num": 91993,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 3,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 47925,
+        "num": 47925,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 261754,
+        "num": 47351,
+        "word": "巴以冲突",
+        "onboard_time": 1697289999,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 53340,
+        "num": 47034,
+        "word": "纪宝贝去世",
+        "onboard_time": 1697283392,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46706,
+        "num": 46706,
+        "word": "张靓颖穿18cm靴子唱跳不带喘",
+        "onboard_time": 1697296831,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 40150,
+        "num": 40150,
+        "word": "苏醒巡演终于唱跳了",
+        "onboard_time": 1697300070,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 36887,
+        "num": 40059,
+        "word": "赵丽颖檀健次同框",
+        "onboard_time": 1697286575,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264862,
+        "num": 39845,
+        "word": "男子车内当孩子面将妻子捅成重伤",
+        "onboard_time": 1697301150,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 77460,
+        "num": 39711,
+        "word": "以军方回应路透社记者身亡",
+        "onboard_time": 1697295757,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 54979,
+        "num": 39575,
+        "word": "巴以冲突不断升级面临失控风险",
+        "onboard_time": 1697293002,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 53054,
+        "num": 39383,
+        "word": "湖南一技师学院一名女生宿舍内死亡",
+        "onboard_time": 1697289094,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46897,
+        "num": 39237,
+        "word": "朴宝英更新与朴炯植合照",
+        "onboard_time": 1697295874,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45710,
+        "num": 38996,
+        "word": "普京回应巴以冲突",
+        "onboard_time": 1697295937,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 41180,
+        "num": 38843,
+        "word": "赵丽颖闪钻礼服",
+        "onboard_time": 1697297913,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 38764,
+        "num": 38764,
+        "word": "现在问题不是车银优",
+        "onboard_time": 1697298156,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37701,
+        "num": 37701,
+        "word": "普京称现阶段最重要的是制止流血事件",
+        "onboard_time": 1697299354,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 33642,
+        "num": 33642,
+        "word": "以军称将对加沙地带发起强力进攻",
+        "onboard_time": 1697277573,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 58616,
+        "num": 33531,
+        "word": "长大后才发现过来人的经验是真的",
+        "onboard_time": 1697315953,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 33333,
+        "num": 33333,
+        "word": "浙F367UJ你冲向草丛的样子真帅",
+        "onboard_time": 1697294434,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32909,
+        "num": 32909,
+        "word": "杨紫黑色闪钻镂空裙",
+        "onboard_time": 1697291736,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 31870,
+        "num": 31870,
+        "word": "英语老师为不同成绩准备了meme贴纸",
+        "onboard_time": 1697297798,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31505,
+        "num": 31505,
+        "word": "丁程鑫把黄子韬泼倒了",
+        "onboard_time": 1697299950,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29209,
+        "num": 29209,
+        "word": "王栎鑫白毛",
+        "onboard_time": 1697287593,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28780,
+        "num": 28780,
+        "word": "我的执刃大人来到现代当少爷了",
+        "onboard_time": 1697303483,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28192,
+        "num": 28192,
+        "word": "一群小猫和一群小狗首次见面",
+        "onboard_time": 1697300012,
+        "rank": 27,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 24561,
+        "num": 24561,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24525,
+        "num": 24525,
+        "word": "许昕还是太全面了",
+        "onboard_time": 1697289515,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27283,
+        "num": 24409,
+        "word": "新铁锅煮螺蛳粉汤底黑亮似芝麻糊",
+        "onboard_time": 1697315294,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 24236,
+        "num": 24236,
+        "word": "华浅提出和离",
+        "onboard_time": 1697300850,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22693,
+        "num": 22693,
+        "word": "李一桐回复粉丝狂飙2有机会吗",
+        "onboard_time": 1697284114,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21113,
+        "num": 21113,
+        "word": "KPL 至暗时刻",
+        "onboard_time": 1697292097,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20609,
+        "num": 21113,
+        "word": "巴以冲突记者手机APP警报响个不停",
+        "onboard_time": 1697287175,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 20267,
+        "num": 21112,
+        "word": "五月天 现场",
+        "onboard_time": 1697295998,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19422,
+        "num": 21111,
+        "word": "黄晓明林述巍评价尹正",
+        "onboard_time": 1697320935,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18926,
+        "num": 21110,
+        "word": "田耕纪首播反响",
+        "onboard_time": 1697287957,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18706,
+        "num": 21110,
+        "word": "薛之谦宋茜互动好搞笑",
+        "onboard_time": 1697288795,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18687,
+        "num": 21110,
+        "word": "全国小狗听见出去玩的统一反应",
+        "onboard_time": 1697306419,
+        "rank": 39,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 18442,
+        "num": 21108,
+        "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+        "onboard_time": 1697285852,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 17498,
+        "num": 21108,
+        "word": "周杰伦知道王冰冰用他点奶茶吗",
+        "onboard_time": 1697270250,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16900,
+        "num": 21107,
+        "word": "如何用iPhone拍出好看的美食照片",
+        "onboard_time": 1697302587,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16483,
+        "num": 21107,
+        "word": "陈楚生 广州",
+        "onboard_time": 1697283812,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16451,
+        "num": 21106,
+        "word": "玲娜贝儿也是工龄两年的小童模了",
+        "onboard_time": 1697293236,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15520,
+        "num": 21105,
+        "word": "武汉欢乐谷 差评",
+        "onboard_time": 1697289695,
+        "rank": 45,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 17016,
+        "num": 21104,
+        "word": "周杰伦上海1943",
+        "onboard_time": 1697297913,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15425,
+        "num": 21103,
+        "word": "王子异包上恩对手戏好疯批",
+        "onboard_time": 1697297854,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15046,
+        "num": 21103,
+        "word": "成韩彬洗娃直播",
+        "onboard_time": 1697301030,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14333,
+        "num": 21102,
+        "word": "熬夜等级表",
+        "onboard_time": 1697308757,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持价值性和知识性相统一#"
+    }
+  }
+}
