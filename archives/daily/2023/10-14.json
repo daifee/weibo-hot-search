@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697276050767,
+  "endTime": 1697278589868,
   "band_list": [
     {
       "raw_hot": 2234669,
@@ -251,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 720340,
+      "num": 720340,
+      "word": "孙女得知聊天框是置顶时爷爷已病逝",
+      "onboard_time": 1697271211,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 684143,
       "num": 222262,
       "word": "致6死婚车事故遇难新娘已怀有身孕",
@@ -299,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 644474,
+      "num": 291284,
+      "word": "蔡文静脸上好多钻石",
+      "onboard_time": 1697275473,
+      "rank": 24,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 625758,
       "num": 625758,
       "word": "现在流行男主不是官配吗",
@@ -339,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 582938,
-      "num": 582938,
-      "word": "孙女得知聊天框是置顶时爷爷已病逝",
-      "onboard_time": 1697271211,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 589965,
+      "num": 589965,
+      "word": "以军一次打死打伤7名记者",
+      "onboard_time": 1697276851,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 562178,
@@ -435,6 +451,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 510029,
+      "num": 510029,
+      "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
+      "onboard_time": 1697274693,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 497905,
+      "num": 497905,
+      "word": "以色列6天投6000枚炸弹",
+      "onboard_time": 1697273733,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 476528,
       "num": 302580,
       "word": "医生提醒年轻人千万不要再熬夜了",
@@ -467,6 +499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 449478,
+      "num": 449478,
+      "word": "拖米 小黑屋赢了我先退网了",
+      "onboard_time": 1697277153,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 449301,
       "num": 449301,
       "word": "周杰伦演唱会偶遇张雨绮",
@@ -492,7 +532,7 @@
     },
     {
       "raw_hot": 442900,
-      "num": 225961,
+      "num": 290391,
       "word": "男子用螳螂吃掉颈后肉瘊子",
       "onboard_time": 1697270612,
       "rank": 22,
@@ -504,14 +544,6 @@
       "word": "加沙居民撤离车队遭以色列空袭已致70死",
       "onboard_time": 1697272170,
       "rank": 44,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 439809,
-      "num": 439809,
-      "word": "以色列6天投6000枚炸弹",
-      "onboard_time": 1697273733,
-      "rank": 11,
       "category": "国外要闻"
     },
     {
@@ -547,6 +579,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422729,
+      "num": 422729,
+      "word": "小黑屋 黑马",
+      "onboard_time": 1697276912,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 419198,
+      "num": 419198,
+      "word": "以军称将对加沙地带发起强力进攻",
+      "onboard_time": 1697277573,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 415510,
       "num": 415510,
       "word": "王栎鑫把陈楚生说哭了",
@@ -569,6 +617,14 @@
       "onboard_time": 1697261794,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 408455,
+      "num": 408455,
+      "word": "XHW战胜WB",
+      "onboard_time": 1697276612,
+      "rank": 16,
+      "category": "电竞"
     },
     {
       "raw_hot": 407823,
@@ -620,7 +676,7 @@
     },
     {
       "raw_hot": 375013,
-      "num": 224632,
+      "num": 258663,
       "word": "唐嫣好港",
       "onboard_time": 1697272411,
       "rank": 23,
@@ -723,8 +779,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 316661,
+      "num": 290477,
+      "word": "罗云熙 水龙吟",
+      "onboard_time": 1697276554,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 316222,
-      "num": 220591,
+      "num": 289155,
       "word": "双胞胎为啥要穿的一模一样",
       "onboard_time": 1697272954,
       "rank": 23,
@@ -819,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294438,
+      "num": 294438,
+      "word": "四川沙拉 曹氏特辣",
+      "onboard_time": 1697271271,
+      "rank": 47,
+      "category": "美食"
+    },
+    {
       "raw_hot": 294425,
       "num": 294425,
       "word": "大牙 我浪费了好多擦泪的时间",
@@ -841,6 +913,14 @@
       "onboard_time": 1697248172,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288556,
+      "num": 220431,
+      "word": "斗鱼 没想过会赢",
+      "onboard_time": 1697278231,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 284813,
@@ -867,14 +947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277207,
-      "num": 277207,
-      "word": "四川沙拉 曹氏特辣",
-      "onboard_time": 1697271271,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 273997,
       "num": 273997,
       "word": "文班亚马惊天隔扣",
@@ -897,14 +969,6 @@
       "onboard_time": 1697263052,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 269290,
-      "num": 219460,
-      "word": "蔡文静脸上好多钻石",
-      "onboard_time": 1697275473,
-      "rank": 24,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 265527,
@@ -947,12 +1011,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 250383,
+      "num": 976772,
+      "word": "袁隆平选定试验田单季亩产1251.5公斤",
+      "onboard_time": 1697277032,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249927,
       "num": 249927,
       "word": "秀智素颜状态",
       "onboard_time": 1697240125,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 246754,
+      "num": 246754,
+      "word": "陈楚生 扫弟机",
+      "onboard_time": 1697275953,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 240595,
@@ -1017,6 +1097,14 @@
       "onboard_time": 1697240426,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229404,
+      "num": 229404,
+      "word": "李知恩采访好帅",
+      "onboard_time": 1697278353,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 228202,
@@ -1099,11 +1187,11 @@
       "category": "数码"
     },
     {
-      "raw_hot": 208929,
-      "num": 208929,
-      "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
-      "onboard_time": 1697274693,
-      "rank": 36,
+      "raw_hot": 208261,
+      "num": 738295,
+      "word": "广州一妈妈带女儿赴港实现冰雪奇缘梦",
+      "onboard_time": 1697275891,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -1339,6 +1427,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 177355,
+      "num": 177355,
+      "word": "韩国执政党国民力量党宣布领导层决定集体辞职",
+      "onboard_time": 1697276432,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 177048,
       "num": 177048,
       "word": "这孩子幼儿园在国企上的吧",
@@ -1361,6 +1457,14 @@
       "onboard_time": 1697252732,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173755,
+      "num": 173755,
+      "word": "观众说朱一龙和99年小演员是两代人",
+      "onboard_time": 1697278353,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 171739,
@@ -1515,6 +1619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158393,
+      "num": 158393,
+      "word": "苏醒要唱王栎鑫的Treasure",
+      "onboard_time": 1697277269,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158080,
       "num": 158080,
       "word": "五代男团处境困难的男爱豆",
@@ -1579,20 +1691,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 147351,
+      "num": 147351,
+      "word": "丞磊大梦归离今日路透",
+      "onboard_time": 1697275772,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146741,
       "num": 146741,
       "word": "加沙上空飘满撤离传单",
       "onboard_time": 1697272232,
       "rank": 37,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 146626,
-      "num": 146626,
-      "word": "广州一妈妈带女儿赴港实现冰雪奇缘梦",
-      "onboard_time": 1697275891,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146029,
@@ -1675,6 +1787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 136171,
+      "num": 136171,
+      "word": "朱正廷我努力都能生一个你",
+      "onboard_time": 1697275713,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135349,
       "num": 135349,
       "word": "沈梦辰羡慕杜海涛的原因",
@@ -1723,6 +1843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133208,
+      "num": 696831,
+      "word": "祖国最东西南北端少先队员高喊爱祖国",
+      "onboard_time": 1697277992,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132534,
       "num": 132534,
       "word": "gidle唱了不再犹豫",
@@ -1739,12 +1867,36 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 130955,
+      "num": 126580,
+      "word": "杨迪回应把吴昕拉黑",
+      "onboard_time": 1697273371,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130849,
       "num": 130849,
       "word": "Baddie Challenge 姜敏熙宋亨俊",
       "onboard_time": 1697269532,
       "rank": 45,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129606,
+      "num": 129606,
+      "word": "XHW有点东西",
+      "onboard_time": 1697276792,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 129580,
+      "num": 129580,
+      "word": "周也骨相",
+      "onboard_time": 1697276313,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 129238,
@@ -1787,14 +1939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 127771,
-      "num": 127771,
-      "word": "丞磊大梦归离今日路透",
-      "onboard_time": 1697275772,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 126677,
       "num": 126677,
       "word": "跟随大张伟马嘉祺的歌声漫游宇宙",
@@ -1811,12 +1955,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 126580,
-      "num": 126580,
-      "word": "杨迪回应把吴昕拉黑",
-      "onboard_time": 1697273371,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 125885,
+      "num": 125885,
+      "word": "王俊凯平遥影展影响力",
+      "onboard_time": 1697276554,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 124366,
@@ -1905,14 +2049,6 @@
       "onboard_time": 1697194653,
       "rank": 39,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 114674,
-      "num": 114674,
-      "word": "陈楚生 扫弟机",
-      "onboard_time": 1697275953,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 114016,
@@ -2169,6 +2305,14 @@
       "onboard_time": 1697228714,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 23249,
+      "num": 150419,
+      "word": "成都今天穿什么",
+      "onboard_time": 1697277632,
+      "rank": 39,
+      "category": "时尚"
     },
     {
       "raw_hot": 23087,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 17:34:10
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 18:16:29
 </p>
 </blockquote>
 <p>
@@ -5073,6 +5073,12 @@ VOGUE评选巴黎时装周最时尚明星（热度：731565）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D%23" target="weibo">
+孙女得知聊天框是置顶时爷爷已病逝（热度：720340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E4%B8%8B%E5%8E%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98%23" target="weibo">
 一盒月饼下去办公室无人生还（热度：718488）
 </a>
@@ -5901,6 +5907,12 @@ Yamy郭颖签约少城时代（热度：649832）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%94%A1%E6%96%87%E9%9D%99%E8%84%B8%E4%B8%8A%E5%A5%BD%E5%A4%9A%E9%92%BB%E7%9F%B3%23" target="weibo">
+蔡文静脸上好多钻石（热度：644474）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E5%8F%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9D%A1%E5%8E%BF%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE%23" target="weibo">
 中国网民叫新加坡坡县引发争议（热度：643569）
 </a>
@@ -5999,18 +6011,6 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%BE%E6%8A%A5%E5%9B%BE%E4%B9%A6%E9%A6%86%E9%81%AD%E6%80%A7%E9%AA%9A%E6%89%B0%23" target="weibo">
 警方回应武大学生举报图书馆遭性骚扰（热度：635115）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E6%AD%8C%E8%A1%8C%E4%B8%80%E6%AC%A1%E6%80%A7%E5%AE%98%E5%AE%A37%E9%83%A8%23" target="weibo">
-少年歌行一次性官宣7部（热度：635101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%90%8E13%E7%A7%92%23" target="weibo">
-最后13秒（热度：635035）
 </a>
 </li>
 
