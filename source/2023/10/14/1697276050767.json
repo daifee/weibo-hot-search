@@ -1,0 +1,410 @@
+{
+  "runTime": 1697276050767,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310462,
+        "num": 1310462,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1099113,
+        "num": 1099113,
+        "word": "周杰伦知道王冰冰用他点奶茶吗",
+        "onboard_time": 1697270250,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40357,
+        "num": 968925,
+        "word": "青春华章",
+        "onboard_time": 1697270971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1645396,
+        "num": 920399,
+        "word": "家属否认致6死婚车事故司机酒驾玩通宵",
+        "onboard_time": 1697270672,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 865561,
+        "num": 865561,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 647425,
+        "num": 647425,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582938,
+        "num": 582938,
+        "word": "孙女得知聊天框是置顶时爷爷已病逝",
+        "onboard_time": 1697271211,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448171,
+        "num": 448171,
+        "word": "WB 青春风暴",
+        "onboard_time": 1697274332,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 441932,
+        "num": 441932,
+        "word": "加沙居民撤离车队遭以色列空袭已致70死",
+        "onboard_time": 1697272170,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 439809,
+        "num": 439809,
+        "word": "以色列6天投6000枚炸弹",
+        "onboard_time": 1697273733,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 432569,
+        "num": 432569,
+        "word": "抢劫杀房东的17岁少年已被逮捕",
+        "onboard_time": 1697271871,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342895,
+        "num": 342895,
+        "word": "日本人为了做顿假料理有多拼",
+        "onboard_time": 1697270192,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 298763,
+        "num": 298763,
+        "word": "警方通报17岁男生杀害房东",
+        "onboard_time": 1697272232,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297881,
+        "num": 297881,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284813,
+        "num": 284813,
+        "word": "XHW对战WB",
+        "onboard_time": 1697274574,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 277207,
+        "num": 277207,
+        "word": "四川沙拉 曹氏特辣",
+        "onboard_time": 1697271271,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 274960,
+        "num": 274960,
+        "word": "美国要求以色列推迟地面进攻",
+        "onboard_time": 1697263111,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 261473,
+        "num": 261473,
+        "word": "陈牧驰工作室维权声明",
+        "onboard_time": 1697263831,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256227,
+        "num": 256227,
+        "word": "超40万巴勒斯坦人离开加沙的家园",
+        "onboard_time": 1697268270,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 227102,
+        "num": 227102,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442900,
+        "num": 225961,
+        "word": "男子用螳螂吃掉颈后肉瘊子",
+        "onboard_time": 1697270612,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360594,
+        "num": 224632,
+        "word": "唐嫣好港",
+        "onboard_time": 1697272411,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304934,
+        "num": 222920,
+        "word": "专升本后工资反而变低了",
+        "onboard_time": 1697270310,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 288313,
+        "num": 220591,
+        "word": "双胞胎为啥要穿的一模一样",
+        "onboard_time": 1697272954,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 269290,
+        "num": 219460,
+        "word": "蔡文静脸上好多钻石",
+        "onboard_time": 1697275473,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 233376,
+        "num": 217910,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 25,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 217210,
+        "num": 217210,
+        "word": "何运晨这里没有外人只有家人",
+        "onboard_time": 1697272770,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208929,
+        "num": 208929,
+        "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
+        "onboard_time": 1697274693,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205323,
+        "num": 205323,
+        "word": "周启豪摔倒",
+        "onboard_time": 1697273850,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187037,
+        "num": 187037,
+        "word": "第五人格",
+        "onboard_time": 1697275593,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 178424,
+        "num": 178424,
+        "word": "王栎鑫把陈楚生说哭了",
+        "onboard_time": 1697263592,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164881,
+        "num": 164881,
+        "word": "李一桐复古名伶造型",
+        "onboard_time": 1697272532,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 163811,
+        "num": 163811,
+        "word": "BBC记者被以色列警察持枪威胁",
+        "onboard_time": 1697265572,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 156928,
+        "num": 156928,
+        "word": "问心杨阿姨去世",
+        "onboard_time": 1697271329,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155450,
+        "num": 155450,
+        "word": "医生提醒年轻人千万不要再熬夜了",
+        "onboard_time": 1697257712,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153991,
+        "num": 153991,
+        "word": "谁教你这样晒结婚证的",
+        "onboard_time": 1697269770,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148584,
+        "num": 148584,
+        "word": "国考岗位",
+        "onboard_time": 1697250934,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146626,
+        "num": 146626,
+        "word": "广州一妈妈带女儿赴港实现冰雪奇缘梦",
+        "onboard_time": 1697275891,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140504,
+        "num": 140504,
+        "word": "董璇看女儿小酒窝走秀时的眼神",
+        "onboard_time": 1697262690,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133914,
+        "num": 133914,
+        "word": "TheShy和Rascal同框",
+        "onboard_time": 1697275832,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130750,
+        "num": 130750,
+        "word": "周杰伦演唱会的前一天和当天",
+        "onboard_time": 1697274211,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129744,
+        "num": 129744,
+        "word": "詹姆斯真老了",
+        "onboard_time": 1697262030,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127771,
+        "num": 127771,
+        "word": "丞磊大梦归离今日路透",
+        "onboard_time": 1697275772,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 126064,
+        "num": 126064,
+        "word": "致敬不穿警服的警察",
+        "onboard_time": 1697274092,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123869,
+        "num": 123869,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122321,
+        "num": 122321,
+        "word": "男孩困5楼窗外空调师傅拿绳相救",
+        "onboard_time": 1697275293,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119687,
+        "num": 119687,
+        "word": "于正新剧的审美",
+        "onboard_time": 1697269171,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117565,
+        "num": 117565,
+        "word": "高叶脏辫羽毛造型",
+        "onboard_time": 1697273011,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116332,
+        "num": 116332,
+        "word": "国考",
+        "onboard_time": 1697268691,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 114674,
+        "num": 114674,
+        "word": "陈楚生 扫弟机",
+        "onboard_time": 1697275953,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化江西篇章#"
+    }
+  }
+}
