@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697268833626,
+  "endTime": 1697271566010,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2619,6 +2619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1463633,
+      "num": 1463633,
+      "word": "社保缴15年和25年待遇差别",
+      "onboard_time": 1697268929,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1459310,
       "num": 1459310,
       "word": "iPhone被曝夜间自动关机",
@@ -3459,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1200801,
+      "num": 1200801,
+      "word": "陈奕迅澳门演唱会被要求说国语",
+      "onboard_time": 1697264611,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1199002,
       "num": 494568,
       "word": "母女双双吃蒸苹果的后果",
@@ -3521,14 +3537,6 @@
       "onboard_time": 1696753959,
       "rank": 39,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1184114,
-      "num": 1184114,
-      "word": "陈奕迅澳门演唱会被要求说国语",
-      "onboard_time": 1697264611,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 1177995,
@@ -4617,6 +4625,14 @@
       "onboard_time": 1697082877,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 962648,
+      "num": 304123,
+      "word": "周杰伦知道王冰冰用他点奶茶吗",
+      "onboard_time": 1697270250,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 960061,
@@ -7697,6 +7713,14 @@
       "onboard_time": 1696606719,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 652830,
+      "num": 652830,
+      "word": "超40万巴勒斯坦人离开加沙的家园",
+      "onboard_time": 1697268270,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 651971,
@@ -13123,6 +13147,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 413967,
+      "num": 205488,
+      "word": "专升本后工资反而变低了",
+      "onboard_time": 1697270310,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413606,
       "num": 413606,
       "word": "SM年末大促销",
@@ -13977,6 +14009,14 @@
       "onboard_time": 1696507595,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 387009,
+      "num": 179548,
+      "word": "家属否认致6死婚车事故司机酒驾玩通宵",
+      "onboard_time": 1697270672,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 386867,
@@ -18483,6 +18523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 295551,
+      "num": 295551,
+      "word": "奶奶出殡前一天",
+      "onboard_time": 1697268631,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295426,
       "num": 295426,
       "word": "男子帮陌生人借充电宝8小时未归还",
@@ -21795,12 +21843,28 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 253403,
+      "num": 177447,
+      "word": "日本人为了做顿假料理有多拼",
+      "onboard_time": 1697270192,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 253356,
       "num": 253356,
       "word": "唐嫣拄着拐杖拍戏",
       "onboard_time": 1696915837,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253129,
+      "num": 203905,
+      "word": "男子用螳螂吃掉颈后肉瘊子",
+      "onboard_time": 1697270612,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 252846,
@@ -23377,6 +23441,14 @@
       "onboard_time": 1697251772,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235636,
+      "num": 235636,
+      "word": "心疼逆战组",
+      "onboard_time": 1697269291,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 235564,
@@ -26235,6 +26307,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 207308,
+      "num": 207308,
+      "word": "人体器官运输航班提前17分钟抵达顺利手术",
+      "onboard_time": 1697270011,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207213,
       "num": 207213,
       "word": "向涵之开机照",
@@ -27080,6 +27160,14 @@
       "word": "邓见超和粉丝要王源表情包",
       "onboard_time": 1697122780,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 201987,
+      "num": 201987,
+      "word": "杨丞琳陈妍希潘玮柏合照",
+      "onboard_time": 1697270070,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -28627,14 +28715,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 192733,
-      "num": 192733,
-      "word": "超40万巴勒斯坦人离开加沙的家园",
-      "onboard_time": 1697268270,
-      "rank": 26,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 192680,
       "num": 186288,
       "word": "陈飞宇为志愿军发的第一篇800字长文",
@@ -29273,6 +29353,14 @@
       "onboard_time": 1696951002,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188674,
+      "num": 188674,
+      "word": "新郎率24位兄弟跳过河舞蹈气氛燃爆",
+      "onboard_time": 1697270732,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 188624,
@@ -31715,6 +31803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168065,
+      "num": 168065,
+      "word": "谁教你这样晒结婚证的",
+      "onboard_time": 1697269770,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 168024,
       "num": 168024,
       "word": "在校园遭到性骚扰该怎么办",
@@ -31953,6 +32049,14 @@
       "onboard_time": 1696456095,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165871,
+      "num": 165871,
+      "word": "孙女得知聊天框是置顶时爷爷已病逝",
+      "onboard_time": 1697271211,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165492,
@@ -32353,6 +32457,14 @@
       "onboard_time": 1696137693,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162074,
+      "num": 162074,
+      "word": "于正新剧的审美",
+      "onboard_time": 1697269171,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 162038,
@@ -34459,6 +34571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139090,
+      "num": 139090,
+      "word": "问心杨阿姨去世",
+      "onboard_time": 1697271329,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138969,
       "num": 138969,
       "word": "龚俊金丝图腾斗篷",
@@ -35065,6 +35185,14 @@
       "onboard_time": 1696210112,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130849,
+      "num": 130849,
+      "word": "Baddie Challenge 姜敏熙宋亨俊",
+      "onboard_time": 1697269532,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 130629,
@@ -35731,14 +35859,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 118935,
-      "num": 118935,
-      "word": "奶奶出殡前一天",
-      "onboard_time": 1697268631,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118854,
       "num": 118854,
       "word": "非遗小戏为山东一村年带客50万",
@@ -35817,6 +35937,14 @@
       "onboard_time": 1697195555,
       "rank": 44,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 117793,
+      "num": 117793,
+      "word": "四川沙拉 曹氏特辣",
+      "onboard_time": 1697271271,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 117486,
@@ -35961,6 +36089,14 @@
       "onboard_time": 1697197533,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 114016,
+      "num": 190816,
+      "word": "青春华章",
+      "onboard_time": 1697270971,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113981,
@@ -38513,6 +38649,14 @@
       "onboard_time": 1696649559,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 5820,
+      "num": 1263112,
+      "word": "中欧班列书写丝路新传奇",
+      "onboard_time": 1697271451,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

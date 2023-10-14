@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697268833626,
+  "endTime": 1697271566010,
   "band_list": [
     {
       "raw_hot": 2234669,
@@ -33,6 +33,14 @@
       "onboard_time": 1697246073,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1463633,
+      "num": 1463633,
+      "word": "社保缴15年和25年待遇差别",
+      "onboard_time": 1697268929,
+      "rank": 1,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1407269,
@@ -91,8 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1184114,
-      "num": 1184114,
+      "raw_hot": 1200801,
+      "num": 1200801,
       "word": "陈奕迅澳门演唱会被要求说国语",
       "onboard_time": 1697264611,
       "rank": 17,
@@ -153,6 +161,14 @@
       "onboard_time": 1697240065,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 962648,
+      "num": 304123,
+      "word": "周杰伦知道王冰冰用他点奶茶吗",
+      "onboard_time": 1697270250,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 850385,
@@ -249,6 +265,14 @@
       "onboard_time": 1697247872,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 652830,
+      "num": 652830,
+      "word": "超40万巴勒斯坦人离开加沙的家园",
+      "onboard_time": 1697268270,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 650697,
@@ -475,6 +499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 413967,
+      "num": 205488,
+      "word": "专升本后工资反而变低了",
+      "onboard_time": 1697270310,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 413606,
       "num": 413606,
       "word": "SM年末大促销",
@@ -505,6 +537,14 @@
       "onboard_time": 1697246913,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 387009,
+      "num": 179548,
+      "word": "家属否认致6死婚车事故司机酒驾玩通宵",
+      "onboard_time": 1697270672,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384916,
@@ -683,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295551,
+      "num": 295551,
+      "word": "奶奶出殡前一天",
+      "onboard_time": 1697268631,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 294818,
       "num": 294818,
       "word": "戴了假发的井胧井迪",
@@ -787,6 +835,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 253403,
+      "num": 177447,
+      "word": "日本人为了做顿假料理有多拼",
+      "onboard_time": 1697270192,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 253129,
+      "num": 203905,
+      "word": "男子用螳螂吃掉颈后肉瘊子",
+      "onboard_time": 1697270612,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249927,
       "num": 249927,
       "word": "秀智素颜状态",
@@ -833,6 +897,14 @@
       "onboard_time": 1697251772,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235636,
+      "num": 235636,
+      "word": "心疼逆战组",
+      "onboard_time": 1697269291,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 234742,
@@ -907,6 +979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 207308,
+      "num": 207308,
+      "word": "人体器官运输航班提前17分钟抵达顺利手术",
+      "onboard_time": 1697270011,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207108,
       "num": 207108,
       "word": "被傅园慧苏到像呼吸一样",
@@ -945,6 +1025,14 @@
       "onboard_time": 1697256392,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 201987,
+      "num": 201987,
+      "word": "杨丞琳陈妍希潘玮柏合照",
+      "onboard_time": 1697270070,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 201745,
@@ -1019,20 +1107,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 192733,
-      "num": 192733,
-      "word": "超40万巴勒斯坦人离开加沙的家园",
-      "onboard_time": 1697268270,
-      "rank": 26,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 189865,
       "num": 189865,
       "word": "小伙神似周杰伦被歌迷围观跟拍",
       "onboard_time": 1697267672,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 188674,
+      "num": 188674,
+      "word": "新郎率24位兄弟跳过河舞蹈气氛燃爆",
+      "onboard_time": 1697270732,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187234,
@@ -1171,6 +1259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168065,
+      "num": 168065,
+      "word": "谁教你这样晒结婚证的",
+      "onboard_time": 1697269770,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 167823,
       "num": 167823,
       "word": "外研社比赛",
@@ -1203,6 +1299,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165871,
+      "num": 165871,
+      "word": "孙女得知聊天框是置顶时爷爷已病逝",
+      "onboard_time": 1697271211,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162947,
       "num": 162947,
       "word": "在成都肉眼可见雪山是种什么体验",
@@ -1232,6 +1336,14 @@
       "word": "网剧万花世界开通官博",
       "onboard_time": 1697246670,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162074,
+      "num": 162074,
+      "word": "于正新剧的审美",
+      "onboard_time": 1697269171,
+      "rank": 35,
       "category": "剧集"
     },
     {
@@ -1339,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139090,
+      "num": 139090,
+      "word": "问心杨阿姨去世",
+      "onboard_time": 1697271329,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138751,
       "num": 138751,
       "word": "十月待播新剧前瞻",
@@ -1433,6 +1553,14 @@
       "onboard_time": 1697215585,
       "rank": 19,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 130849,
+      "num": 130849,
+      "word": "Baddie Challenge 姜敏熙宋亨俊",
+      "onboard_time": 1697269532,
+      "rank": 45,
+      "category": "音乐"
     },
     {
       "raw_hot": 129238,
@@ -1539,20 +1667,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118935,
-      "num": 118935,
-      "word": "奶奶出殡前一天",
-      "onboard_time": 1697268631,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118172,
       "num": 118172,
       "word": "你永远可以相信央视审美",
       "onboard_time": 1697200535,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117793,
+      "num": 117793,
+      "word": "四川沙拉 曹氏特辣",
+      "onboard_time": 1697271271,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 116528,
@@ -1569,6 +1697,14 @@
       "onboard_time": 1697194653,
       "rank": 39,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 114016,
+      "num": 190816,
+      "word": "青春华章",
+      "onboard_time": 1697270971,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 113598,
@@ -1832,6 +1968,14 @@
       "word": "摄影师5年延时拍下100种花开瞬间",
       "onboard_time": 1697232794,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5820,
+      "num": 1263112,
+      "word": "中欧班列书写丝路新传奇",
+      "onboard_time": 1697271451,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
