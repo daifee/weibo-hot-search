@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697310790933,
+  "endTime": 1697312028539,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -37915,6 +37915,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 91459,
+      "num": 46782,
+      "word": "熬夜等级表",
+      "onboard_time": 1697308757,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 90977,
       "num": 113988,
       "word": "在江苏生活是种什么体验",
@@ -38073,14 +38081,6 @@
       "onboard_time": 1697128647,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 84556,
-      "num": 46782,
-      "word": "熬夜等级表",
-      "onboard_time": 1697308757,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 83657,
@@ -39497,6 +39497,14 @@
       "onboard_time": 1696713134,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28303,
+      "num": 28303,
+      "word": "杨玏吻白马梦回伯邑考",
+      "onboard_time": 1697310675,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 28131,

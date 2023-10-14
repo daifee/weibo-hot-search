@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697310790933,
+  "endTime": 1697312028539,
   "band_list": [
     {
       "raw_hot": 1145020,
@@ -427,20 +427,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 91459,
+      "num": 46782,
+      "word": "熬夜等级表",
+      "onboard_time": 1697308757,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 85562,
       "num": 93219,
       "word": "婚礼仪式暂停竟是为了反诈宣传",
       "onboard_time": 1697295336,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 84556,
-      "num": 46782,
-      "word": "熬夜等级表",
-      "onboard_time": 1697308757,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 52824,
@@ -473,6 +473,14 @@
       "onboard_time": 1697287774,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 28303,
+      "num": 28303,
+      "word": "杨玏吻白马梦回伯邑考",
+      "onboard_time": 1697310675,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 23757,
