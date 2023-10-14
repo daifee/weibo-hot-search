@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697303636944,
+  "endTime": 1697304847746,
   "band_list": [
     {
       "raw_hot": 1145020,
@@ -33,6 +33,14 @@
       "onboard_time": 1697283392,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 731284,
+      "num": 275053,
+      "word": "男子车内当孩子面将妻子捅成重伤",
+      "onboard_time": 1697301150,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686649,
@@ -137,14 +145,6 @@
       "onboard_time": 1697295937,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 373028,
-      "num": 275053,
-      "word": "男子车内当孩子面将妻子捅成重伤",
-      "onboard_time": 1697301150,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 371969,
@@ -299,6 +299,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143186,
+      "num": 143186,
+      "word": "如何用iPhone拍出好看的美食照片",
+      "onboard_time": 1697302587,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139986,
       "num": 137029,
       "word": "成韩彬洗娃直播",
@@ -371,14 +379,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 110515,
-      "num": 110515,
-      "word": "如何用iPhone拍出好看的美食照片",
-      "onboard_time": 1697302587,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 110384,
       "num": 110384,
       "word": "问心",
@@ -411,6 +411,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 98037,
+      "num": 98037,
+      "word": "我的执刃大人来到现代当少爷了",
+      "onboard_time": 1697303483,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96109,
       "num": 96109,
       "word": "教大家怎么白菜价吃日料",
@@ -425,14 +433,6 @@
       "onboard_time": 1697295336,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 69186,
-      "num": 69186,
-      "word": "我的执刃大人来到现代当少爷了",
-      "onboard_time": 1697303483,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 29097,
