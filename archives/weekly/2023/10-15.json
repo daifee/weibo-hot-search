@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697314596592,
+  "endTime": 1697315659519,
   "band_list": [
     {
       "raw_hot": 1145020,
@@ -489,6 +489,14 @@
       "onboard_time": 1697309895,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 14469,
+      "num": 16090,
+      "word": "新铁锅煮螺蛳粉汤底黑亮似芝麻糊",
+      "onboard_time": 1697315294,
+      "rank": 46,
+      "category": "美食"
     }
   ],
   "hotgov_list": [
