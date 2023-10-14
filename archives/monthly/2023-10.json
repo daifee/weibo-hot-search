@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697279641948,
+  "endTime": 1697282009978,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1635,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1836922,
+      "num": 1836922,
+      "word": "社保缴15年和25年待遇差别",
+      "onboard_time": 1697268929,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1834681,
       "num": 1834681,
       "word": "周润发回应裸捐56亿港币",
@@ -1649,14 +1657,6 @@
       "onboard_time": 1696469792,
       "rank": 0,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1823465,
-      "num": 1823465,
-      "word": "社保缴15年和25年待遇差别",
-      "onboard_time": 1697268929,
-      "rank": 1,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1822841,
@@ -5531,6 +5531,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 839484,
+      "num": 839484,
+      "word": "以军一次打死打伤7名记者",
+      "onboard_time": 1697276851,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 838379,
       "num": 838379,
       "word": "定闹钟",
@@ -6691,14 +6699,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 729884,
-      "num": 729884,
-      "word": "以军一次打死打伤7名记者",
-      "onboard_time": 1697276851,
-      "rank": 8,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 728914,
       "num": 787792,
       "word": "以色列国防军宣布进入战争状态",
@@ -7803,20 +7803,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648785,
+      "num": 648785,
+      "word": "李知恩采访好帅",
+      "onboard_time": 1697278353,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 648643,
       "num": 518853,
       "word": "肖战无羁录音室新花絮",
       "onboard_time": 1697032598,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 648200,
-      "num": 648200,
-      "word": "李知恩采访好帅",
-      "onboard_time": 1697278353,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 647930,
@@ -16499,6 +16499,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 336022,
+      "num": 900087,
+      "word": "二哈迷路住进警局变成反诈汪",
+      "onboard_time": 1697279492,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335810,
       "num": 335810,
       "word": "张颂文不仅演外交官还当导游",
@@ -18705,6 +18713,14 @@
       "onboard_time": 1697177200,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 294962,
+      "num": 294962,
+      "word": "原来鞋底磨损不均是正常的",
+      "onboard_time": 1697281112,
+      "rank": 14,
+      "category": "知识科普"
     },
     {
       "raw_hot": 294873,
@@ -23619,6 +23635,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 235785,
+      "num": 235785,
+      "word": "王艺迪3比0陈幸同",
+      "onboard_time": 1697280633,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 235743,
       "num": 235743,
       "word": "iOS17安装率低迷",
@@ -27747,6 +27771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199801,
+      "num": 199801,
+      "word": "IVE新歌eitherway成绩",
+      "onboard_time": 1697280090,
+      "rank": 22,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 199689,
       "num": 199689,
       "word": "黄轩工作室晒黄轩怕冷实锤",
@@ -29873,6 +29905,14 @@
       "onboard_time": 1697164414,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 186564,
+      "num": 186564,
+      "word": "魏巡淘汰",
+      "onboard_time": 1697280571,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 186505,
@@ -32091,6 +32131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 168064,
+      "num": 168064,
+      "word": "给KPL一点主播震撼",
+      "onboard_time": 1697281053,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 168024,
       "num": 168024,
       "word": "在校园遭到性骚扰该怎么办",
@@ -32505,14 +32553,6 @@
       "onboard_time": 1696808429,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164221,
-      "num": 257459,
-      "word": "二哈迷路住进警局变成反诈汪",
-      "onboard_time": 1697279492,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 164218,
@@ -33809,6 +33849,14 @@
       "onboard_time": 1696633586,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152139,
+      "num": 152139,
+      "word": "周也骨相",
+      "onboard_time": 1697276313,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 152093,
@@ -35627,14 +35675,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 129580,
-      "num": 129580,
-      "word": "周也骨相",
-      "onboard_time": 1697276313,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 129552,
       "num": 129552,
       "word": "华天夺得杭州亚运马术项目两枚金牌",
@@ -35657,6 +35697,14 @@
       "onboard_time": 1696768178,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129370,
+      "num": 129370,
+      "word": "炸糖糕",
+      "onboard_time": 1697281651,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 129364,
@@ -35737,6 +35785,14 @@
       "onboard_time": 1696554871,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128458,
+      "num": 128458,
+      "word": "魏哲鸣四公逆风翻盘",
+      "onboard_time": 1697279851,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 128437,
