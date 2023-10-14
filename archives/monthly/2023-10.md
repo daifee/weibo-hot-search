@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 14:21:24
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 14:34:28
 </p>
 </blockquote>
 <p>
@@ -2469,6 +2469,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23" target="weibo">
+男子误喝防冻液血液成胶冻状离世（热度：1243034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23" target="weibo">
 李泽锋 轻舟已过万重山（热度：1242296）
 </a>
@@ -3113,6 +3119,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%B7%9E%E4%B8%80%E5%A9%9A%E7%A4%BC%E5%9C%BA%E5%9C%B0%E8%A2%AB%E6%9D%91%E6%B0%91%E8%BF%9E%E5%A4%9C%E6%90%AC%E7%A9%BA%23" target="weibo">
 徐州一婚礼场地被村民连夜搬空（热度：1030977）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%BB%B4%E6%9D%83%E5%A3%B0%E6%98%8E%23" target="weibo">
+陈牧驰工作室维权声明（热度：1030547）
 </a>
 </li>
 
@@ -4077,6 +4089,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%80%E4%BB%A5%E4%B8%8D%E8%A6%81%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%89%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%BB%8F%E5%85%B8%23" target="weibo">
+所以不要和陌生人说话才会成为经典（热度：845343）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%9A%E6%A2%A6%E7%91%B6%E6%99%92%E4%BD%95%E7%8C%B7%E5%90%9B%E7%9A%84%E5%8D%8A%E6%B0%B8%E4%B9%85%E9%98%9F%E6%9C%8D%E7%9A%AE%E8%82%A4%23" target="weibo">
 奚梦瑶晒何猷君的半永久队服皮肤（热度：844430）
 </a>
@@ -4257,12 +4275,6 @@ Jennie个人单曲音源上线（热度：822249）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%BB%B4%E6%9D%83%E5%A3%B0%E6%98%8E%23" target="weibo">
-陈牧驰工作室维权声明（热度：818450）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%9C%A8%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B1%82%E5%8A%A9%23" target="weibo">
 4岁走失女童父亲在网友评论区求助（热度：815757）
 </a>
@@ -4337,12 +4349,6 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%9C%86%E6%A2%A6%E6%97%B6%E5%88%BB%23" target="weibo">
 肖战杭州亚运圆梦时刻（热度：805819）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%80%E4%BB%A5%E4%B8%8D%E8%A6%81%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%89%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%BB%8F%E5%85%B8%23" target="weibo">
-所以不要和陌生人说话才会成为经典（热度：805648）
 </a>
 </li>
 
@@ -5163,12 +5169,6 @@ IVE先行曲OffTheRecord（热度：713477）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23" target="weibo">
-男子误喝防冻液血液成胶冻状离世（热度：710553）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%A9%E6%8F%90%E7%A5%96%E5%B8%88%E6%89%8D%E6%98%AF%E5%AD%99%E6%82%9F%E7%A9%BA%E5%94%AF%E4%B8%80%E7%9A%84%E5%B8%88%E7%88%B6%23" target="weibo">
 菩提祖师才是孙悟空唯一的师父（热度：709646）
 </a>
@@ -5415,6 +5415,12 @@ LV卖不动了吗（热度：698408）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%87%B46%E6%AD%BB%E5%A9%9A%E8%BD%A6%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E6%96%B0%E5%A8%98%E5%B7%B2%E6%80%80%E6%9C%89%E8%BA%AB%E5%AD%95%23" target="weibo">
+致6死婚车事故遇难新娘已怀有身孕（热度：684143）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E7%A6%B9%E7%8F%8D%E6%9E%97%E9%92%9F%E5%8B%8B%23" target="weibo">
 樊振东王楚钦vs张禹珍林钟勋（热度：683506）
 </a>
@@ -5609,6 +5615,12 @@ A股（热度：674863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B7%E5%BE%97%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%E7%9A%8411%E4%BD%8D%E5%8D%8E%E4%BA%BA%23" target="weibo">
 获得诺贝尔奖的11位华人（热度：663978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E4%BB%A5%E8%89%B2%E5%88%97%E6%8E%A8%E8%BF%9F%E5%9C%B0%E9%9D%A2%E8%BF%9B%E6%94%BB%23" target="weibo">
+美国要求以色列推迟地面进攻（热度：663263）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%23" target="weibo">
 张家齐（热度：632434）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%9C%E6%AD%A2%E9%94%80%E5%94%AE41%E6%AC%BE%E5%8D%B3%E5%BC%80%E5%9E%8B%E7%A6%8F%E5%88%A9%E5%BD%A9%E7%A5%A8%23" target="weibo">
-停止销售41款即开型福利彩票（热度：631750）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E5%A5%B3%E5%9B%A20%E6%AF%942%E9%9F%A9%E5%9B%BD%23" target="weibo">
-国羽女团0比2韩国（热度：631702）
 </a>
 </li>
 
