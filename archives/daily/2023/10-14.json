@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697278589868,
+  "endTime": 1697279641948,
   "band_list": [
     {
       "raw_hot": 2234669,
@@ -251,6 +251,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 746397,
+      "num": 746397,
+      "word": "斗鱼 没想过会赢",
+      "onboard_time": 1697278231,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 729884,
+      "num": 729884,
+      "word": "以军一次打死打伤7名记者",
+      "onboard_time": 1697276851,
+      "rank": 8,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 720340,
       "num": 720340,
       "word": "孙女得知聊天框是置顶时爷爷已病逝",
@@ -297,6 +313,14 @@
       "onboard_time": 1697248652,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 648200,
+      "num": 648200,
+      "word": "李知恩采访好帅",
+      "onboard_time": 1697278353,
+      "rank": 28,
+      "category": "电竞"
     },
     {
       "raw_hot": 646826,
@@ -353,14 +377,6 @@
       "onboard_time": 1697243797,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 589965,
-      "num": 589965,
-      "word": "以军一次打死打伤7名记者",
-      "onboard_time": 1697276851,
-      "rank": 8,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 562178,
@@ -427,6 +443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 531027,
+      "num": 531027,
+      "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
+      "onboard_time": 1697274693,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 521451,
       "num": 521451,
       "word": "抢劫杀房东的17岁少年已被逮捕",
@@ -449,14 +473,6 @@
       "onboard_time": 1697248712,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 510029,
-      "num": 510029,
-      "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
-      "onboard_time": 1697274693,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 497905,
@@ -489,6 +505,14 @@
       "onboard_time": 1697264730,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 461122,
+      "num": 461122,
+      "word": "以军称将对加沙地带发起强力进攻",
+      "onboard_time": 1697277573,
+      "rank": 14,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 460435,
@@ -585,14 +609,6 @@
       "onboard_time": 1697276912,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 419198,
-      "num": 419198,
-      "word": "以军称将对加沙地带发起强力进攻",
-      "onboard_time": 1697277573,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 415510,
@@ -915,20 +931,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 288556,
-      "num": 220431,
-      "word": "斗鱼 没想过会赢",
-      "onboard_time": 1697278231,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 284813,
       "num": 284813,
       "word": "XHW对战WB",
       "onboard_time": 1697274574,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 279053,
+      "num": 257430,
+      "word": "宋茜去了周杰伦演唱会",
+      "onboard_time": 1697279253,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 278884,
@@ -995,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 257632,
+      "num": 257632,
+      "word": "陈楚生 扫弟机",
+      "onboard_time": 1697275953,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257563,
       "num": 257563,
       "word": "王艺瑾国家大剧院学跳康康舞",
@@ -1011,8 +1035,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 250383,
-      "num": 976772,
+      "raw_hot": 254576,
+      "num": 1206527,
       "word": "袁隆平选定试验田单季亩产1251.5公斤",
       "onboard_time": 1697277032,
       "rank": 1,
@@ -1025,14 +1049,6 @@
       "onboard_time": 1697240125,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 246754,
-      "num": 246754,
-      "word": "陈楚生 扫弟机",
-      "onboard_time": 1697275953,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 240595,
@@ -1097,14 +1113,6 @@
       "onboard_time": 1697240426,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 229404,
-      "num": 229404,
-      "word": "李知恩采访好帅",
-      "onboard_time": 1697278353,
-      "rank": 28,
-      "category": "电竞"
     },
     {
       "raw_hot": 228202,
@@ -1188,7 +1196,7 @@
     },
     {
       "raw_hot": 208261,
-      "num": 738295,
+      "num": 793017,
       "word": "广州一妈妈带女儿赴港实现冰雪奇缘梦",
       "onboard_time": 1697275891,
       "rank": 37,
@@ -1307,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 193877,
+      "num": 193877,
+      "word": "九尾的狸梦乐园",
+      "onboard_time": 1697279371,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193732,
       "num": 193732,
       "word": "朱一龙现场教学粘人徒弟",
@@ -1371,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185143,
+      "num": 185143,
+      "word": "丞磊大梦归离今日路透",
+      "onboard_time": 1697275772,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184595,
       "num": 184595,
       "word": "王星越曾演过周生如故",
@@ -1385,6 +1409,14 @@
       "onboard_time": 1697263230,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184301,
+      "num": 184301,
+      "word": "韩国执政党国民力量党宣布领导层决定集体辞职",
+      "onboard_time": 1697276432,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 183075,
@@ -1419,20 +1451,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 177658,
+      "num": 177658,
+      "word": "朱正廷我努力都能生一个你",
+      "onboard_time": 1697275713,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177557,
       "num": 177557,
       "word": "完颜慧德 心理咨询师",
       "onboard_time": 1697267429,
       "rank": 45,
       "category": "网红"
-    },
-    {
-      "raw_hot": 177355,
-      "num": 177355,
-      "word": "韩国执政党国民力量党宣布领导层决定集体辞职",
-      "onboard_time": 1697276432,
-      "rank": 32,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 177048,
@@ -1547,12 +1579,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166386,
+      "num": 166386,
+      "word": "职业赛场上的显眼包",
+      "onboard_time": 1697279012,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165875,
       "num": 144480,
       "word": "没想到这居然是正品香奈儿",
       "onboard_time": 1697205635,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 164509,
+      "num": 151898,
+      "word": "朱一龙说不要限制自己",
+      "onboard_time": 1697279492,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 164221,
+      "num": 257459,
+      "word": "二哈迷路住进警局变成反诈汪",
+      "onboard_time": 1697279492,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162947,
@@ -1691,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 147351,
-      "num": 147351,
-      "word": "丞磊大梦归离今日路透",
-      "onboard_time": 1697275772,
-      "rank": 42,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 146741,
       "num": 146741,
       "word": "加沙上空飘满撤离传单",
@@ -1785,14 +1833,6 @@
       "onboard_time": 1697274211,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136171,
-      "num": 136171,
-      "word": "朱正廷我努力都能生一个你",
-      "onboard_time": 1697275713,
-      "rank": 42,
-      "category": "综艺"
     },
     {
       "raw_hot": 135349,
@@ -1987,6 +2027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122828,
+      "num": 122828,
+      "word": "林逸方筱然双双患病",
+      "onboard_time": 1697279610,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122752,
       "num": 122752,
       "word": "关晓彤好会演撒娇",
@@ -2043,6 +2091,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116196,
+      "num": 119204,
+      "word": "北京超跑玩家周末的打开方式",
+      "onboard_time": 1697278951,
+      "rank": 49,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 115408,
       "num": 123721,
       "word": "以驻日大使质问日本是什么意思",
@@ -2052,7 +2108,7 @@
     },
     {
       "raw_hot": 114016,
-      "num": 968925,
+      "num": 989361,
       "word": "青春华章",
       "onboard_time": 1697270971,
       "rank": 26,
@@ -2267,6 +2323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34808,
+      "num": 167675,
+      "word": "成都今天穿什么",
+      "onboard_time": 1697277632,
+      "rank": 39,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 28381,
       "num": 49705,
       "word": "戳爷新歌MV穿女装",
@@ -2305,14 +2369,6 @@
       "onboard_time": 1697228714,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 23249,
-      "num": 150419,
-      "word": "成都今天穿什么",
-      "onboard_time": 1697277632,
-      "rank": 39,
-      "category": "时尚"
     },
     {
       "raw_hot": 23087,
@@ -2354,6 +2410,9 @@
     },
     {
       "word": "#总书记提到的固本兴新有何深意#"
+    },
+    {
+      "word": "#坚持价值性和知识性相统一#"
     }
   ]
 }

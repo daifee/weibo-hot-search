@@ -1,0 +1,410 @@
+{
+  "runTime": 1697279641948,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1736069,
+        "num": 1736069,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 254576,
+        "num": 1206527,
+        "word": "袁隆平选定试验田单季亩产1251.5公斤",
+        "onboard_time": 1697277032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37800,
+        "num": 989361,
+        "word": "青春华章",
+        "onboard_time": 1697270971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 843395,
+        "num": 843395,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166825,
+        "num": 793017,
+        "word": "广州一妈妈带女儿赴港实现冰雪奇缘梦",
+        "onboard_time": 1697275891,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 746397,
+        "num": 746397,
+        "word": "斗鱼 没想过会赢",
+        "onboard_time": 1697278231,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 729884,
+        "num": 729884,
+        "word": "以军一次打死打伤7名记者",
+        "onboard_time": 1697276851,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 728802,
+        "num": 728802,
+        "word": "周杰伦知道王冰冰用他点奶茶吗",
+        "onboard_time": 1697270250,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 648200,
+        "num": 648200,
+        "word": "李知恩采访好帅",
+        "onboard_time": 1697278353,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 633859,
+        "num": 633859,
+        "word": "孙女得知聊天框是置顶时爷爷已病逝",
+        "onboard_time": 1697271211,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531027,
+        "num": 531027,
+        "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
+        "onboard_time": 1697274693,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 510399,
+        "num": 510399,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 461122,
+        "num": 461122,
+        "word": "以军称将对加沙地带发起强力进攻",
+        "onboard_time": 1697277573,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 384985,
+        "num": 384985,
+        "word": "小黑屋 黑马",
+        "onboard_time": 1697276912,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 363767,
+        "num": 363767,
+        "word": "以色列6天投6000枚炸弹",
+        "onboard_time": 1697273733,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 287705,
+        "num": 287705,
+        "word": "加沙居民撤离车队遭以色列空袭已致70死",
+        "onboard_time": 1697272170,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 287564,
+        "num": 287564,
+        "word": "XHW战胜WB",
+        "onboard_time": 1697276612,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 285096,
+        "num": 285096,
+        "word": "拖米 小黑屋赢了我先退网了",
+        "onboard_time": 1697277153,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 257632,
+        "num": 257632,
+        "word": "陈楚生 扫弟机",
+        "onboard_time": 1697275953,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215124,
+        "num": 257632,
+        "word": "美国要求以色列推迟地面进攻",
+        "onboard_time": 1697263111,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 572551,
+        "num": 257543,
+        "word": "蔡文静脸上好多钻石",
+        "onboard_time": 1697275473,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 164221,
+        "num": 257459,
+        "word": "二哈迷路住进警局变成反诈汪",
+        "onboard_time": 1697279492,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279053,
+        "num": 257430,
+        "word": "宋茜去了周杰伦演唱会",
+        "onboard_time": 1697279253,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257394,
+        "num": 257394,
+        "word": "罗云熙 水龙吟",
+        "onboard_time": 1697276554,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90673,
+        "num": 253721,
+        "word": "祖国最东西南北端少先队员高喊爱祖国",
+        "onboard_time": 1697277992,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251679,
+        "num": 251679,
+        "word": "男子用螳螂吃掉颈后肉瘊子",
+        "onboard_time": 1697270612,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231846,
+        "num": 231846,
+        "word": "双胞胎为啥要穿的一模一样",
+        "onboard_time": 1697272954,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212680,
+        "num": 212680,
+        "word": "WB 青春风暴",
+        "onboard_time": 1697274332,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208497,
+        "num": 208497,
+        "word": "陈牧驰工作室维权声明",
+        "onboard_time": 1697263831,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206063,
+        "num": 206063,
+        "word": "唐嫣好港",
+        "onboard_time": 1697272411,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193877,
+        "num": 193877,
+        "word": "九尾的狸梦乐园",
+        "onboard_time": 1697279371,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1034962,
+        "num": 193729,
+        "word": "家属否认致6死婚车事故司机酒驾玩通宵",
+        "onboard_time": 1697270672,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188597,
+        "num": 188597,
+        "word": "四川沙拉 曹氏特辣",
+        "onboard_time": 1697271271,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 185143,
+        "num": 185143,
+        "word": "丞磊大梦归离今日路透",
+        "onboard_time": 1697275772,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 184301,
+        "num": 184301,
+        "word": "韩国执政党国民力量党宣布领导层决定集体辞职",
+        "onboard_time": 1697276432,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 180649,
+        "num": 180649,
+        "word": "超40万巴勒斯坦人离开加沙的家园",
+        "onboard_time": 1697268270,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 179875,
+        "num": 179875,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177658,
+        "num": 177658,
+        "word": "朱正廷我努力都能生一个你",
+        "onboard_time": 1697275713,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169758,
+        "num": 169758,
+        "word": "观众说朱一龙和99年小演员是两代人",
+        "onboard_time": 1697278353,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34808,
+        "num": 167675,
+        "word": "成都今天穿什么",
+        "onboard_time": 1697277632,
+        "rank": 39,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 166386,
+        "num": 166386,
+        "word": "职业赛场上的显眼包",
+        "onboard_time": 1697279012,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164377,
+        "num": 164377,
+        "word": "专升本后工资反而变低了",
+        "onboard_time": 1697270310,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152837,
+        "num": 152837,
+        "word": "抢劫杀房东的17岁少年已被逮捕",
+        "onboard_time": 1697271871,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164509,
+        "num": 151898,
+        "word": "朱一龙说不要限制自己",
+        "onboard_time": 1697279492,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135386,
+        "num": 135386,
+        "word": "苏醒要唱王栎鑫的Treasure",
+        "onboard_time": 1697277269,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125966,
+        "num": 125966,
+        "word": "警方通报17岁男生杀害房东",
+        "onboard_time": 1697272232,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124263,
+        "num": 124263,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122828,
+        "num": 122828,
+        "word": "林逸方筱然双双患病",
+        "onboard_time": 1697279610,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120253,
+        "num": 120253,
+        "word": "BBC记者被以色列警察持枪威胁",
+        "onboard_time": 1697265572,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 116196,
+        "num": 119204,
+        "word": "北京超跑玩家周末的打开方式",
+        "onboard_time": 1697278951,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持价值性和知识性相统一#"
+    }
+  }
+}
