@@ -1,7 +1,15 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697265268449,
+  "endTime": 1697267676425,
   "band_list": [
+    {
+      "raw_hot": 2234669,
+      "num": 2234669,
+      "word": "男子误喝防冻液血液成胶冻状离世",
+      "onboard_time": 1697263171,
+      "rank": 11,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 1749540,
       "num": 1749540,
@@ -49,14 +57,6 @@
       "onboard_time": 1697257770,
       "rank": 40,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 1243034,
-      "num": 1243034,
-      "word": "男子误喝防冻液血液成胶冻状离世",
-      "onboard_time": 1697263171,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1232737,
@@ -145,6 +145,14 @@
       "onboard_time": 1697240065,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 960007,
+      "num": 960007,
+      "word": "陈奕迅澳门演唱会被要求说国语",
+      "onboard_time": 1697264611,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 850385,
@@ -291,7 +299,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 578044,
+      "raw_hot": 591237,
       "num": 438172,
       "word": "董璇看女儿小酒窝走秀时的眼神",
       "onboard_time": 1697262690,
@@ -371,6 +379,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 479724,
+      "num": 365070,
+      "word": "BBC记者被以色列警察持枪威胁",
+      "onboard_time": 1697265572,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 476528,
       "num": 302580,
       "word": "医生提醒年轻人千万不要再熬夜了",
@@ -411,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 438281,
+      "num": 438281,
+      "word": "国考约7成招录计划专招应届生",
+      "onboard_time": 1697264730,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 437559,
       "num": 437559,
       "word": "民间流传缠腰龙缠一圈致命是谣言",
@@ -449,6 +473,14 @@
       "onboard_time": 1697261794,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 412681,
+      "num": 412681,
+      "word": "王栎鑫把陈楚生说哭了",
+      "onboard_time": 1697263592,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 407823,
@@ -499,14 +531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 370111,
-      "num": 274573,
-      "word": "王栎鑫把陈楚生说哭了",
-      "onboard_time": 1697263592,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 358050,
       "num": 265946,
       "word": "大一和大四一眼就能认出来",
@@ -547,12 +571,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 344914,
-      "num": 344914,
-      "word": "陈奕迅澳门演唱会被要求说国语",
-      "onboard_time": 1697264611,
-      "rank": 17,
-      "category": "演出"
+      "raw_hot": 337777,
+      "num": 337777,
+      "word": "张杰把逆战唱成孤勇者",
+      "onboard_time": 1697265273,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 333807,
@@ -787,14 +811,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 237551,
-      "num": 237551,
-      "word": "国考约7成招录计划专招应届生",
-      "onboard_time": 1697264730,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 237406,
       "num": 237406,
       "word": "詹姆斯真老了",
@@ -931,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201745,
+      "num": 201745,
+      "word": "二十岁的于正",
+      "onboard_time": 1697266952,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200824,
       "num": 200824,
       "word": "伊能静真的好懂女生",
@@ -976,6 +1000,14 @@
       "word": "朱一龙的粘人徒弟超会的",
       "onboard_time": 1697259391,
       "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 193732,
+      "num": 193732,
+      "word": "朱一龙现场教学粘人徒弟",
+      "onboard_time": 1697267011,
+      "rank": 29,
       "category": "电影"
     },
     {
@@ -1043,6 +1075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175500,
+      "num": 175500,
+      "word": "沢田纲吉",
+      "onboard_time": 1697266411,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 174585,
       "num": 174585,
       "word": "全球最贵巴菲特午餐",
@@ -1073,6 +1113,14 @@
       "onboard_time": 1697197292,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 168845,
+      "num": 168845,
+      "word": "王子文一把推开了白敬亭",
+      "onboard_time": 1697265030,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 168816,
@@ -1129,6 +1177,22 @@
       "onboard_time": 1697250632,
       "rank": 39,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 162874,
+      "num": 162874,
+      "word": "侯明昊 天选古装人",
+      "onboard_time": 1697266891,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 162614,
+      "num": 162614,
+      "word": "孟子义官宣现在就出发",
+      "onboard_time": 1697267311,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 162355,
@@ -1208,14 +1272,6 @@
       "word": "迪丽热巴万花世界开通官博",
       "onboard_time": 1697246670,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 153637,
-      "num": 153637,
-      "word": "王子文一把推开了白敬亭",
-      "onboard_time": 1697265030,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -1315,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133761,
+      "num": 131408,
+      "word": "小伙神似周杰伦被歌迷围观跟拍",
+      "onboard_time": 1697267672,
+      "rank": 43,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 133721,
       "num": 133721,
       "word": "酒后找代驾结果代驾竟酒驾",
@@ -1385,6 +1449,22 @@
       "onboard_time": 1697253993,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128264,
+      "num": 128264,
+      "word": "完颜慧德 心理咨询师",
+      "onboard_time": 1697267429,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 126677,
+      "num": 126677,
+      "word": "跟随大张伟马嘉祺的歌声漫游宇宙",
+      "onboard_time": 1697267489,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 126622,

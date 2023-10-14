@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 14:34:28
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 15:14:36
 </p>
 </blockquote>
 <p>
@@ -707,6 +707,12 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23K435%E5%88%97%E8%BD%A6%E5%91%BD%E6%A1%88%E5%AB%8C%E7%8A%AF%E8%A2%AB%E9%89%B4%E5%AE%9A%E4%B8%BA%E7%B2%BE%E7%A5%9E%E7%97%85%E4%BA%BA%23" target="weibo">
 K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23" target="weibo">
+男子误喝防冻液血液成胶冻状离世（热度：2234669）
 </a>
 </li>
 
@@ -2469,12 +2475,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23" target="weibo">
-男子误喝防冻液血液成胶冻状离世（热度：1243034）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E9%94%8B%20%E8%BD%BB%E8%88%9F%E5%B7%B2%E8%BF%87%E4%B8%87%E9%87%8D%E5%B1%B1%23" target="weibo">
 李泽锋 轻舟已过万重山（热度：1242296）
 </a>
@@ -3473,6 +3473,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E6%9F%B1%E8%B5%AB%E7%9C%9F%E7%9A%84%E4%B8%8D%E6%98%AF%E5%9C%A8%E6%8B%8D%E9%9F%A9%E5%89%A7%E5%90%97%23" target="weibo">
 南柱赫真的不是在拍韩剧吗（热度：960061）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A5%95%E8%BF%85%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AF%B4%E5%9B%BD%E8%AF%AD%23" target="weibo">
+陈奕迅澳门演唱会被要求说国语（热度：960007）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E7%90%B3%23" target="weibo">
 马琳（热度：633006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%23" target="weibo">
-张家齐（热度：632434）
 </a>
 </li>
 
