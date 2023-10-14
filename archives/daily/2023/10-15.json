@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697304847746,
+  "endTime": 1697307632051,
   "band_list": [
     {
       "raw_hot": 1145020,
@@ -219,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 209723,
+      "num": 209723,
+      "word": "如何用iPhone拍出好看的美食照片",
+      "onboard_time": 1697302587,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 202977,
       "num": 202977,
       "word": "苏醒巡演终于唱跳了",
@@ -297,14 +305,6 @@
       "onboard_time": 1697264611,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 143186,
-      "num": 143186,
-      "word": "如何用iPhone拍出好看的美食照片",
-      "onboard_time": 1697302587,
-      "rank": 31,
-      "category": "数码"
     },
     {
       "raw_hot": 139986,
@@ -395,6 +395,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 107873,
+      "num": 98037,
+      "word": "我的执刃大人来到现代当少爷了",
+      "onboard_time": 1697303483,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103837,
       "num": 103837,
       "word": "巴以冲突记者手机APP警报响个不停",
@@ -411,14 +419,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 98037,
-      "num": 98037,
-      "word": "我的执刃大人来到现代当少爷了",
-      "onboard_time": 1697303483,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 96109,
       "num": 96109,
       "word": "教大家怎么白菜价吃日料",
@@ -433,6 +433,22 @@
       "onboard_time": 1697295336,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 44934,
+      "num": 44934,
+      "word": "全国小狗听见出去玩的统一反应",
+      "onboard_time": 1697306419,
+      "rank": 37,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 43831,
+      "num": 43831,
+      "word": "周杰伦上海",
+      "onboard_time": 1697282013,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 29097,

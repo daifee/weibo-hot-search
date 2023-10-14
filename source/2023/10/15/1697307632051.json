@@ -1,0 +1,410 @@
+{
+  "runTime": 1697307632051,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 272943,
+        "num": 272943,
+        "word": "以色列同意加沙地带的外国人离开",
+        "onboard_time": 1697297015,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 219330,
+        "num": 219330,
+        "word": "女子乔迁新房70人吃席家里蹲",
+        "onboard_time": 1697298214,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11237,
+        "num": 212912,
+        "word": "一带一路有你有我",
+        "onboard_time": 1697287774,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 209723,
+        "num": 209723,
+        "word": "如何用iPhone拍出好看的美食照片",
+        "onboard_time": 1697302587,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 168605,
+        "num": 168605,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 399026,
+        "num": 135862,
+        "word": "巴以冲突",
+        "onboard_time": 1697289999,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 227711,
+        "num": 133306,
+        "word": "纪宝贝去世",
+        "onboard_time": 1697283392,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 101463,
+        "num": 101463,
+        "word": "张靓颖穿18cm靴子唱跳不带喘",
+        "onboard_time": 1697296831,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87360,
+        "num": 87360,
+        "word": "苏醒巡演终于唱跳了",
+        "onboard_time": 1697300070,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 85814,
+        "num": 85814,
+        "word": "丁程鑫把黄子韬泼倒了",
+        "onboard_time": 1697299950,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 544311,
+        "num": 85698,
+        "word": "男子车内当孩子面将妻子捅成重伤",
+        "onboard_time": 1697301150,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231298,
+        "num": 84185,
+        "word": "现在问题不是车银优",
+        "onboard_time": 1697298156,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167538,
+        "num": 83690,
+        "word": "湖南一技师学院一名女生宿舍内死亡",
+        "onboard_time": 1697289094,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146299,
+        "num": 82714,
+        "word": "以军方回应路透社记者身亡",
+        "onboard_time": 1697295757,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 145934,
+        "num": 82006,
+        "word": "巴以冲突不断升级面临失控风险",
+        "onboard_time": 1697293002,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 120201,
+        "num": 81241,
+        "word": "朴宝英更新与朴炯植合照",
+        "onboard_time": 1697295874,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109866,
+        "num": 80662,
+        "word": "王栎鑫白毛",
+        "onboard_time": 1697287593,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107873,
+        "num": 79828,
+        "word": "我的执刃大人来到现代当少爷了",
+        "onboard_time": 1697303483,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104626,
+        "num": 78485,
+        "word": "赵丽颖闪钻礼服",
+        "onboard_time": 1697297913,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 96795,
+        "num": 77429,
+        "word": "以军称将对加沙地带发起强力进攻",
+        "onboard_time": 1697277573,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 77295,
+        "num": 77295,
+        "word": "华浅提出和离",
+        "onboard_time": 1697300850,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73873,
+        "num": 73873,
+        "word": "五月天 现场",
+        "onboard_time": 1697295998,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71786,
+        "num": 71786,
+        "word": "一群小猫和一群小狗首次见面",
+        "onboard_time": 1697300012,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 84814,
+        "num": 71762,
+        "word": "赵丽颖檀健次同框",
+        "onboard_time": 1697286575,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71627,
+        "num": 71627,
+        "word": "英语老师为不同成绩准备了meme贴纸",
+        "onboard_time": 1697297798,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 67587,
+        "num": 67587,
+        "word": "田耕纪首播反响",
+        "onboard_time": 1697287957,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67287,
+        "num": 67287,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 62844,
+        "num": 62844,
+        "word": "浙F367UJ你冲向草丛的样子真帅",
+        "onboard_time": 1697294434,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62152,
+        "num": 62152,
+        "word": "成韩彬洗娃直播",
+        "onboard_time": 1697301030,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55933,
+        "num": 55933,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54933,
+        "num": 54933,
+        "word": "许昕还是太全面了",
+        "onboard_time": 1697289515,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51819,
+        "num": 51819,
+        "word": "普京回应巴以冲突",
+        "onboard_time": 1697295937,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 51379,
+        "num": 51379,
+        "word": "KPL 至暗时刻",
+        "onboard_time": 1697292097,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 50976,
+        "num": 50976,
+        "word": "陈楚生 广州",
+        "onboard_time": 1697283812,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50698,
+        "num": 50698,
+        "word": "杨紫黑色闪钻镂空裙",
+        "onboard_time": 1697291736,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 46186,
+        "num": 46186,
+        "word": "武汉欢乐谷 差评",
+        "onboard_time": 1697289695,
+        "rank": 35,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 45600,
+        "num": 45600,
+        "word": "李一桐回复粉丝狂飙2有机会吗",
+        "onboard_time": 1697284114,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44934,
+        "num": 44934,
+        "word": "全国小狗听见出去玩的统一反应",
+        "onboard_time": 1697306419,
+        "rank": 37,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 44056,
+        "num": 44056,
+        "word": "Steam 崩了",
+        "onboard_time": 1697295817,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 43831,
+        "num": 43831,
+        "word": "周杰伦上海",
+        "onboard_time": 1697282013,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43260,
+        "num": 43260,
+        "word": "薛之谦宋茜互动好搞笑",
+        "onboard_time": 1697288795,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43053,
+        "num": 43053,
+        "word": "普京称现阶段最重要的是制止流血事件",
+        "onboard_time": 1697299354,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 40968,
+        "num": 40968,
+        "word": "问心",
+        "onboard_time": 1697289999,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40714,
+        "num": 40714,
+        "word": "玲娜贝儿也是工龄两年的小童模了",
+        "onboard_time": 1697293236,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 40127,
+        "num": 40127,
+        "word": "周杰伦上海1943",
+        "onboard_time": 1697297913,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37665,
+        "num": 37665,
+        "word": "王子异包上恩对手戏好疯批",
+        "onboard_time": 1697297854,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37020,
+        "num": 37020,
+        "word": "田柾国TXT舞蹈挑战",
+        "onboard_time": 1697299652,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34577,
+        "num": 37010,
+        "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+        "onboard_time": 1697285852,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 31387,
+        "num": 36999,
+        "word": "莎头组合神同步瞬间",
+        "onboard_time": 1697288194,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31287,
+        "num": 36985,
+        "word": "巴以冲突记者手机APP警报响个不停",
+        "onboard_time": 1697287175,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把青春华章写在祖国大地上#"
+    }
+  }
+}

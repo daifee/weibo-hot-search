@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697304847746,
+  "endTime": 1697307632051,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -26731,6 +26731,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 209723,
+      "num": 209723,
+      "word": "如何用iPhone拍出好看的美食照片",
+      "onboard_time": 1697302587,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 209706,
       "num": 209706,
       "word": "大张伟和马嘉祺一起演绎Fly",
@@ -35299,14 +35307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 143186,
-      "num": 143186,
-      "word": "如何用iPhone拍出好看的美食照片",
-      "onboard_time": 1697302587,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 143040,
       "num": 143040,
       "word": "蔡国庆胡兵好像闺蜜和敌蜜",
@@ -37491,6 +37491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107873,
+      "num": 98037,
+      "word": "我的执刃大人来到现代当少爷了",
+      "onboard_time": 1697303483,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107458,
       "num": 107458,
       "word": "曼联2比3加拉塔萨雷",
@@ -37777,14 +37785,6 @@
       "onboard_time": 1696146931,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 98037,
-      "num": 98037,
-      "word": "我的执刃大人来到现代当少爷了",
-      "onboard_time": 1697303483,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 97986,
@@ -39105,6 +39105,14 @@
       "onboard_time": 1696424977,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44934,
+      "num": 44934,
+      "word": "全国小狗听见出去玩的统一反应",
+      "onboard_time": 1697306419,
+      "rank": 37,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 44848,
