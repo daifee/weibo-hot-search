@@ -1,0 +1,410 @@
+{
+  "runTime": 1697250832716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1749540,
+        "num": 1749540,
+        "word": "水溶C100怎么就成了神水",
+        "onboard_time": 1697246612,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1324820,
+        "num": 1324820,
+        "word": "国考公告",
+        "onboard_time": 1697246073,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 57260,
+        "num": 1110708,
+        "word": "行走黄河 遇见幸福",
+        "onboard_time": 1697246850,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1062520,
+        "num": 1062520,
+        "word": "2024国考计划招录3.96万人",
+        "onboard_time": 1697249492,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1038533,
+        "num": 1038533,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 832293,
+        "num": 832293,
+        "word": "孙海洋向寻亲家长道歉",
+        "onboard_time": 1697246850,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 683623,
+        "num": 683623,
+        "word": "徐冬冬被压10年的剧播了",
+        "onboard_time": 1697243312,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 621023,
+        "num": 621023,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 558789,
+        "num": 558789,
+        "word": "学生未按时到校班主任上门救下一家四口",
+        "onboard_time": 1697239284,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 550739,
+        "num": 550739,
+        "word": "考研二战的学姐消失在朋友圈",
+        "onboard_time": 1697240426,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 908188,
+        "num": 548106,
+        "word": "佛山电翰",
+        "onboard_time": 1697248593,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 562251,
+        "num": 545121,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697241331,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 537205,
+        "num": 537205,
+        "word": "电子竞技不相信女性",
+        "onboard_time": 1697246793,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 480401,
+        "num": 480401,
+        "word": "以色列将对巴勒斯坦加大攻势",
+        "onboard_time": 1697248712,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 461757,
+        "num": 461757,
+        "word": "福岛小学门口辐射值超标10倍",
+        "onboard_time": 1697248652,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 449301,
+        "num": 449301,
+        "word": "周杰伦演唱会偶遇张雨绮",
+        "onboard_time": 1697248533,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 318989,
+        "num": 318989,
+        "word": "檀健次 丽江",
+        "onboard_time": 1697243428,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316956,
+        "num": 316956,
+        "word": "官方通报家长不参与自愿研学被踢出群",
+        "onboard_time": 1697245113,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315613,
+        "num": 315613,
+        "word": "卢昱晓有在努力纠正走姿了",
+        "onboard_time": 1697242770,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308894,
+        "num": 308894,
+        "word": "多尔衮行宫挂牌1.8亿出售",
+        "onboard_time": 1697242412,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1122767,
+        "num": 307432,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 672806,
+        "num": 307015,
+        "word": "英男子性侵13岁女童判无罪释放后大笑",
+        "onboard_time": 1697240065,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305514,
+        "num": 305514,
+        "word": "为什么胰腺癌一发现就是晚期",
+        "onboard_time": 1697246913,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282719,
+        "num": 282719,
+        "word": "男子骗女子同居生娃后又骗百万积蓄",
+        "onboard_time": 1697248172,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273997,
+        "num": 273997,
+        "word": "文班亚马惊天隔扣",
+        "onboard_time": 1697249972,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258131,
+        "num": 258131,
+        "word": "杀猪盘短信已然沦为网友发疯工具",
+        "onboard_time": 1697248292,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249115,
+        "num": 249115,
+        "word": "大一和大四一眼就能认出来",
+        "onboard_time": 1697245292,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239459,
+        "num": 239459,
+        "word": "问心女孩穿婚纱虐麻了",
+        "onboard_time": 1697247634,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236733,
+        "num": 236733,
+        "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
+        "onboard_time": 1697244153,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222430,
+        "num": 222430,
+        "word": "1.5斤超早产儿出生81天后顺利出院",
+        "onboard_time": 1697249431,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211647,
+        "num": 211647,
+        "word": "大张伟以为林子祥叶蒨文只是商业伙伴",
+        "onboard_time": 1697243797,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183140,
+        "num": 183140,
+        "word": "床垫上的膜真的不用撕掉吗",
+        "onboard_time": 1697240426,
+        "rank": 31,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 168483,
+        "num": 168483,
+        "word": "邓为好别致的裤子",
+        "onboard_time": 1697249794,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159359,
+        "num": 159359,
+        "word": "联合国在加沙地带物资已用尽",
+        "onboard_time": 1697243613,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 158579,
+        "num": 158579,
+        "word": "警方通报男子追刺民警被击中身亡",
+        "onboard_time": 1697241626,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157376,
+        "num": 157376,
+        "word": "李宇春首唱陆贞传奇主题曲",
+        "onboard_time": 1697248471,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156072,
+        "num": 156072,
+        "word": "奶奶摆摊6年免费送早餐说亏钱也愿意",
+        "onboard_time": 1697249972,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155756,
+        "num": 155756,
+        "word": "伊能静真的好懂女生",
+        "onboard_time": 1697245655,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144757,
+        "num": 144757,
+        "word": "杨威自曝要终身佩戴呼吸机",
+        "onboard_time": 1697200236,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143768,
+        "num": 143768,
+        "word": "轻舟已过万重山说的是哪里",
+        "onboard_time": 1697250632,
+        "rank": 39,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 142041,
+        "num": 142041,
+        "word": "黎巴嫩以色列临时边界发生交火",
+        "onboard_time": 1697239944,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 135291,
+        "num": 135291,
+        "word": "陈飞宇于适握手",
+        "onboard_time": 1697245412,
+        "rank": 41,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 134095,
+        "num": 134095,
+        "word": "10块钱70个火龙果",
+        "onboard_time": 1697244212,
+        "rank": 42,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160117,
+        "num": 131192,
+        "word": "小雪把古茗的人形立牌偷走了",
+        "onboard_time": 1697241809,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124099,
+        "num": 124099,
+        "word": "巴勒斯坦人的生存谁来关心",
+        "onboard_time": 1697241331,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 122546,
+        "num": 122546,
+        "word": "哈登对76人失望",
+        "onboard_time": 1697248411,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117997,
+        "num": 117997,
+        "word": "吃完葡萄不要立刻喝水",
+        "onboard_time": 1697240426,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114498,
+        "num": 114498,
+        "word": "秀智素颜状态",
+        "onboard_time": 1697240125,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113598,
+        "num": 113598,
+        "word": "电梯超员引发故障消防员撬门救出22人",
+        "onboard_time": 1697250454,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110245,
+        "num": 110245,
+        "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
+        "onboard_time": 1697216962,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把青春华章写在祖国大地上#"
+    }
+  }
+}

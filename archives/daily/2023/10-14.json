@@ -1,7 +1,15 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697250052138,
+  "endTime": 1697250832716,
   "band_list": [
+    {
+      "raw_hot": 1749540,
+      "num": 1749540,
+      "word": "水溶C100怎么就成了神水",
+      "onboard_time": 1697246612,
+      "rank": 27,
+      "category": "知识科普"
+    },
     {
       "raw_hot": 1652687,
       "num": 1652687,
@@ -9,14 +17,6 @@
       "onboard_time": 1697239284,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1593273,
-      "num": 1593273,
-      "word": "水溶C100怎么就成了神水",
-      "onboard_time": 1697246612,
-      "rank": 27,
-      "category": "知识科普"
     },
     {
       "raw_hot": 1549319,
@@ -59,6 +59,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1122767,
+      "num": 316146,
+      "word": "浙江17岁少年杀害65岁房东",
+      "onboard_time": 1697247634,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 1083103,
       "num": 1083103,
       "word": "徐冬冬被压10年的剧播了",
@@ -67,20 +75,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1050626,
-      "num": 316146,
-      "word": "浙江17岁少年杀害65岁房东",
-      "onboard_time": 1697247634,
+      "raw_hot": 1062520,
+      "num": 1062520,
+      "word": "2024国考计划招录3.96万人",
+      "onboard_time": 1697249492,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1038533,
+      "num": 1038533,
+      "word": "杨迪把吴昕拉黑了",
+      "onboard_time": 1697244391,
       "rank": 21,
-      "category": "社会负面"
+      "category": "综艺"
     },
     {
       "raw_hot": 998462,
-      "num": 305486,
+      "num": 307015,
       "word": "英男子性侵13岁女童判无罪释放后大笑",
       "onboard_time": 1697240065,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 908188,
+      "num": 563207,
+      "word": "佛山电翰",
+      "onboard_time": 1697248593,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 850385,
@@ -131,28 +155,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 734983,
-      "num": 734983,
-      "word": "杨迪把吴昕拉黑了",
-      "onboard_time": 1697244391,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 730515,
-      "num": 730515,
-      "word": "2024国考计划招录3.96万人",
-      "onboard_time": 1697249492,
-      "rank": 6,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 647539,
-      "num": 563207,
-      "word": "佛山电翰",
-      "onboard_time": 1697248593,
-      "rank": 31,
-      "category": "网红"
+      "raw_hot": 621023,
+      "num": 621023,
+      "word": "周也 名门贵女",
+      "onboard_time": 1697247872,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 619428,
@@ -161,14 +169,6 @@
       "onboard_time": 1697212472,
       "rank": 11,
       "category": "教育"
-    },
-    {
-      "raw_hot": 606127,
-      "num": 606127,
-      "word": "周也 名门贵女",
-      "onboard_time": 1697247872,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 600727,
@@ -219,8 +219,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 535332,
-      "num": 515784,
+      "raw_hot": 537205,
+      "num": 537205,
       "word": "电子竞技不相信女性",
       "onboard_time": 1697246793,
       "rank": 45,
@@ -243,6 +243,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 480401,
+      "num": 480401,
+      "word": "以色列将对巴勒斯坦加大攻势",
+      "onboard_time": 1697248712,
+      "rank": 18,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 461757,
+      "num": 461757,
+      "word": "福岛小学门口辐射值超标10倍",
+      "onboard_time": 1697248652,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 460435,
       "num": 460435,
       "word": "官方通报家长不参与自愿研学被踢出群",
@@ -251,28 +267,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 444895,
-      "num": 267105,
-      "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
-      "onboard_time": 1697244153,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442674,
-      "num": 442674,
+      "raw_hot": 449301,
+      "num": 449301,
       "word": "周杰伦演唱会偶遇张雨绮",
       "onboard_time": 1697248533,
       "rank": 30,
       "category": "演出"
     },
     {
-      "raw_hot": 440795,
-      "num": 440795,
-      "word": "以色列将对巴勒斯坦加大攻势",
-      "onboard_time": 1697248712,
-      "rank": 18,
-      "category": "国外要闻"
+      "raw_hot": 444895,
+      "num": 267105,
+      "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
+      "onboard_time": 1697244153,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437559,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 395406,
-      "num": 299291,
+      "num": 305514,
       "word": "为什么胰腺癌一发现就是晚期",
       "onboard_time": 1697246913,
       "rank": 32,
@@ -329,14 +337,6 @@
       "onboard_time": 1697213732,
       "rank": 42,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 363209,
-      "num": 363209,
-      "word": "福岛小学门口辐射值超标10倍",
-      "onboard_time": 1697248652,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358050,
@@ -451,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 273997,
+      "num": 273997,
+      "word": "文班亚马惊天隔扣",
+      "onboard_time": 1697249972,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273095,
       "num": 273095,
       "word": "杀猪盘短信已然沦为网友发疯工具",
@@ -531,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 222430,
+      "num": 222430,
+      "word": "1.5斤超早产儿出生81天后顺利出院",
+      "onboard_time": 1697249431,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212760,
       "num": 212760,
       "word": "加沙地带危在旦夕",
@@ -579,14 +595,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189664,
-      "num": 189664,
-      "word": "1.5斤超早产儿出生81天后顺利出院",
-      "onboard_time": 1697249431,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 183075,
       "num": 183075,
       "word": "张云雷挑战佛山电翰甩手",
@@ -627,6 +635,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168483,
+      "num": 168483,
+      "word": "邓为好别致的裤子",
+      "onboard_time": 1697249794,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165875,
       "num": 144480,
       "word": "没想到这居然是正品香奈儿",
@@ -659,12 +675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157376,
+      "num": 157376,
+      "word": "李宇春首唱陆贞传奇主题曲",
+      "onboard_time": 1697248471,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 156489,
       "num": 156489,
       "word": "王鹤棣 直播",
       "onboard_time": 1697199874,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156072,
+      "num": 156072,
+      "word": "奶奶摆摊6年免费送早餐说亏钱也愿意",
+      "onboard_time": 1697249972,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155316,
@@ -683,22 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154884,
-      "num": 154884,
-      "word": "李宇春首唱陆贞传奇主题曲",
-      "onboard_time": 1697248471,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 148447,
-      "num": 148447,
-      "word": "邓为好别致的裤子",
-      "onboard_time": 1697249794,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 146029,
       "num": 146029,
       "word": "小警犬训练太凶太费训导员",
@@ -715,20 +731,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143768,
+      "num": 143768,
+      "word": "轻舟已过万重山说的是哪里",
+      "onboard_time": 1697250632,
+      "rank": 39,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 143705,
       "num": 143705,
       "word": "再次紧急提醒在以中国公民加强安全防范",
       "onboard_time": 1697241331,
       "rank": 38,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 142881,
-      "num": 142881,
-      "word": "文班亚马惊天隔扣",
-      "onboard_time": 1697249972,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 141108,
@@ -761,14 +777,6 @@
       "onboard_time": 1697199874,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134271,
-      "num": 134271,
-      "word": "奶奶摆摊6年免费送早餐说亏钱也愿意",
-      "onboard_time": 1697249972,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 133550,
@@ -873,6 +881,14 @@
       "onboard_time": 1697194653,
       "rank": 39,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 113598,
+      "num": 113598,
+      "word": "电梯超员引发故障消防员撬门救出22人",
+      "onboard_time": 1697250454,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 109304,
