@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 19:34:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 20:30:27
 </p>
 </blockquote>
 <p>
@@ -893,6 +893,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E6%9E%81%E9%B2%B6%E9%B1%BC%E7%9A%84%E7%88%B7%E7%88%B7%E6%88%96%E4%B8%8D%E4%BC%9A%E8%A2%AB%E8%B5%B7%E8%AF%89%E5%88%A4%E5%88%91%23" target="weibo">
 北极鲶鱼的爷爷或不会被起诉判刑（热度：2093961）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23" target="weibo">
+纪宝贝去世（热度：2089317）
 </a>
 </li>
 
@@ -3891,6 +3897,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23" target="weibo">
+孩子手洗不干净老师细看心疼（热度：877985）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E9%A6%96%E9%83%A8%E7%94%B7%E4%B8%BB%E5%89%A7%23" target="weibo">
 邓为首部男主剧（热度：877276）
 </a>
@@ -5999,18 +6011,6 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E8%AD%A6%E6%96%B9%E5%88%A4%E5%AE%9A%E5%8D%8E%E8%8E%8E%E6%97%A0%E5%AB%8C%E7%96%91%23" target="weibo">
 韩警方判定华莎无嫌疑（热度：636606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%AF%91%E7%9A%84%E5%BE%AE%E5%8D%9A%E5%A5%BD%E4%B8%A5%E8%B0%A8%23" target="weibo">
-张译的微博好严谨（热度：636310）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%E4%B8%8E%E7%8B%90%E5%A6%96%E5%B0%8F%E7%BA%A2%E5%A8%98%E5%B0%86%E5%90%8C%E6%9C%9F%E6%92%AD%E5%87%BA%23" target="weibo">
-长相思与狐妖小红娘将同期播出（热度：635662）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1697286627381,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1165837,
+        "num": 1165837,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 877985,
+        "num": 877985,
+        "word": "孩子手洗不干净老师细看心疼",
+        "onboard_time": 1697284173,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38703,
+        "num": 622406,
+        "word": "青春华章",
+        "onboard_time": 1697270971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 606390,
+        "num": 606390,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411376,
+        "num": 411376,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2089317,
+        "num": 411254,
+        "word": "纪宝贝去世",
+        "onboard_time": 1697283392,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 411009,
+        "num": 411009,
+        "word": "佛山电翰爆火后回应",
+        "onboard_time": 1697283093,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 394744,
+        "num": 394744,
+        "word": "炸糖糕",
+        "onboard_time": 1697281651,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 394593,
+        "num": 394593,
+        "word": "海归博士返乡把牡蛎养成高端生食食材",
+        "onboard_time": 1697285196,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378245,
+        "num": 378245,
+        "word": "周杰伦知道王冰冰用他点奶茶吗",
+        "onboard_time": 1697270250,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 512011,
+        "num": 373869,
+        "word": "李一桐回复粉丝狂飙2有机会吗",
+        "onboard_time": 1697284114,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 419630,
+        "num": 372359,
+        "word": "以军一次打死打伤7名记者",
+        "onboard_time": 1697276851,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 417191,
+        "num": 370909,
+        "word": "秋婉G 抄袭",
+        "onboard_time": 1697285313,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367736,
+        "num": 367736,
+        "word": "原来鞋底磨损不均是正常的",
+        "onboard_time": 1697281112,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 58475,
+        "num": 348965,
+        "word": "双十一10月24日晚8点开启",
+        "onboard_time": 1697284831,
+        "rank": 14,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 386919,
+        "num": 348739,
+        "word": "赵丽颖深V红裙",
+        "onboard_time": 1697286575,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 346340,
+        "num": 346340,
+        "word": "陈楚生 广州",
+        "onboard_time": 1697283812,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 329770,
+        "num": 329770,
+        "word": "蔡文静脸上好多钻石",
+        "onboard_time": 1697275473,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 328239,
+        "num": 328239,
+        "word": "你们还能认出他是朱一龙吗",
+        "onboard_time": 1697284475,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305854,
+        "num": 305854,
+        "word": "以军称将对加沙地带发起强力进攻",
+        "onboard_time": 1697277573,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 286634,
+        "num": 286634,
+        "word": "你好星期六",
+        "onboard_time": 1697282972,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271191,
+        "num": 271191,
+        "word": "田耕纪",
+        "onboard_time": 1697282133,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250609,
+        "num": 250609,
+        "word": "李知恩采访好帅",
+        "onboard_time": 1697278353,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242733,
+        "num": 242733,
+        "word": "严浩翔秦霄贤来看大张伟演唱会",
+        "onboard_time": 1697284475,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 226919,
+        "num": 226919,
+        "word": "男子用螳螂吃掉颈后肉瘊子",
+        "onboard_time": 1697270612,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223429,
+        "num": 223429,
+        "word": "赶去救人的航班上有人突然需要下机",
+        "onboard_time": 1697283332,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220369,
+        "num": 220369,
+        "word": "宋茜去了周杰伦演唱会",
+        "onboard_time": 1697279253,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 208139,
+        "num": 208139,
+        "word": "一个月养好脾胃",
+        "onboard_time": 1697284173,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 194332,
+        "num": 194332,
+        "word": "超40万巴勒斯坦人离开加沙的家园",
+        "onboard_time": 1697268270,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 190463,
+        "num": 190463,
+        "word": "郑钦文晋级郑州赛决赛",
+        "onboard_time": 1697285794,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234599,
+        "num": 189072,
+        "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+        "onboard_time": 1697285852,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 185898,
+        "num": 185898,
+        "word": "王心凌上海演唱会",
+        "onboard_time": 1697286395,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 185865,
+        "num": 185865,
+        "word": "有人自林中坠落",
+        "onboard_time": 1697284655,
+        "rank": 32,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 184723,
+        "num": 184723,
+        "word": "樊振东反手鞭打",
+        "onboard_time": 1697282673,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183578,
+        "num": 183578,
+        "word": "加沙居民撤离车队遭以色列空袭已致70死",
+        "onboard_time": 1697272170,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 181979,
+        "num": 181979,
+        "word": "赵丽颖檀健次同框",
+        "onboard_time": 1697286575,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170287,
+        "num": 170287,
+        "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
+        "onboard_time": 1697274693,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165639,
+        "num": 165639,
+        "word": "双胞胎为啥要穿的一模一样",
+        "onboard_time": 1697272954,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165212,
+        "num": 165212,
+        "word": "孙女得知聊天框是置顶时爷爷已病逝",
+        "onboard_time": 1697271211,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158866,
+        "num": 158866,
+        "word": "斗鱼 没想过会赢",
+        "onboard_time": 1697278231,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141330,
+        "num": 141330,
+        "word": "唐嫣好港",
+        "onboard_time": 1697272411,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141208,
+        "num": 141208,
+        "word": "以色列6天投6000枚炸弹",
+        "onboard_time": 1697273733,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139270,
+        "num": 139270,
+        "word": "陈牧驰工作室维权声明",
+        "onboard_time": 1697263831,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134697,
+        "num": 134697,
+        "word": "薛之谦天津演唱会",
+        "onboard_time": 1697283211,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128647,
+        "num": 128647,
+        "word": "专升本后工资反而变低了",
+        "onboard_time": 1697270310,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127494,
+        "num": 127494,
+        "word": "二哈迷路住进警局变成反诈汪",
+        "onboard_time": 1697279492,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124278,
+        "num": 124278,
+        "word": "罗云熙 水龙吟",
+        "onboard_time": 1697276554,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120618,
+        "num": 120618,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119187,
+        "num": 119187,
+        "word": "张靓颖光2023巡回演唱会",
+        "onboard_time": 1697283453,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113361,
+        "num": 113361,
+        "word": "宝鸡马拉松用锅盔擀面皮投喂选手",
+        "onboard_time": 1697286575,
+        "rank": 49,
+        "category": "社会新闻,运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持价值性和知识性相统一#"
+    }
+  }
+}
