@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697248950282,
+  "endTime": 1697250052138,
   "band_list": [
     {
       "raw_hot": 1652687,
@@ -9,6 +9,22 @@
       "onboard_time": 1697239284,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1593273,
+      "num": 1593273,
+      "word": "水溶C100怎么就成了神水",
+      "onboard_time": 1697246612,
+      "rank": 27,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 1549319,
+      "num": 1549319,
+      "word": "国考公告",
+      "onboard_time": 1697246073,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 1383869,
@@ -20,7 +36,7 @@
     },
     {
       "raw_hot": 1214847,
-      "num": 466090,
+      "num": 576825,
       "word": "巴勒斯坦",
       "onboard_time": 1697241331,
       "rank": 10,
@@ -43,14 +59,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1147121,
-      "num": 1147121,
-      "word": "水溶C100怎么就成了神水",
-      "onboard_time": 1697246612,
-      "rank": 27,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 1083103,
       "num": 1083103,
       "word": "徐冬冬被压10年的剧播了",
@@ -59,8 +67,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1050626,
+      "num": 316146,
+      "word": "浙江17岁少年杀害65岁房东",
+      "onboard_time": 1697247634,
+      "rank": 21,
+      "category": "社会负面"
+    },
+    {
       "raw_hot": 998462,
-      "num": 274290,
+      "num": 305486,
       "word": "英男子性侵13岁女童判无罪释放后大笑",
       "onboard_time": 1697240065,
       "rank": 20,
@@ -115,28 +131,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 697292,
-      "num": 697292,
-      "word": "国考公告",
-      "onboard_time": 1697246073,
-      "rank": 5,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 650803,
-      "num": 418292,
+      "raw_hot": 734983,
+      "num": 734983,
       "word": "杨迪把吴昕拉黑了",
       "onboard_time": 1697244391,
       "rank": 21,
       "category": "综艺"
     },
     {
-      "raw_hot": 640778,
-      "num": 270797,
-      "word": "浙江17岁少年杀害65岁房东",
-      "onboard_time": 1697247634,
-      "rank": 21,
-      "category": "社会负面"
+      "raw_hot": 730515,
+      "num": 730515,
+      "word": "2024国考计划招录3.96万人",
+      "onboard_time": 1697249492,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 647539,
+      "num": 563207,
+      "word": "佛山电翰",
+      "onboard_time": 1697248593,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 619428,
@@ -145,6 +161,14 @@
       "onboard_time": 1697212472,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 606127,
+      "num": 606127,
+      "word": "周也 名门贵女",
+      "onboard_time": 1697247872,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 600727,
@@ -196,7 +220,7 @@
     },
     {
       "raw_hot": 535332,
-      "num": 465346,
+      "num": 515784,
       "word": "电子竞技不相信女性",
       "onboard_time": 1697246793,
       "rank": 45,
@@ -209,14 +233,6 @@
       "onboard_time": 1697241626,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 524632,
-      "num": 524632,
-      "word": "周也 名门贵女",
-      "onboard_time": 1697247872,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 512131,
@@ -241,6 +257,22 @@
       "onboard_time": 1697244153,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442674,
+      "num": 442674,
+      "word": "周杰伦演唱会偶遇张雨绮",
+      "onboard_time": 1697248533,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 440795,
+      "num": 440795,
+      "word": "以色列将对巴勒斯坦加大攻势",
+      "onboard_time": 1697248712,
+      "rank": 18,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 437559,
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 395406,
-      "num": 270231,
+      "num": 299291,
       "word": "为什么胰腺癌一发现就是晚期",
       "onboard_time": 1697246913,
       "rank": 32,
@@ -297,6 +329,14 @@
       "onboard_time": 1697213732,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 363209,
+      "num": 363209,
+      "word": "福岛小学门口辐射值超标10倍",
+      "onboard_time": 1697248652,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 358050,
@@ -395,20 +435,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 291775,
-      "num": 291775,
-      "word": "以色列将对巴勒斯坦加大攻势",
-      "onboard_time": 1697248712,
-      "rank": 18,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 289651,
       "num": 289651,
       "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
       "onboard_time": 1697216962,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 288624,
+      "num": 288624,
+      "word": "男子骗女子同居生娃后又骗百万积蓄",
+      "onboard_time": 1697248172,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273095,
+      "num": 273095,
+      "word": "杀猪盘短信已然沦为网友发疯工具",
+      "onboard_time": 1697248292,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 270537,
+      "num": 270537,
+      "word": "问心女孩穿婚纱虐麻了",
+      "onboard_time": 1697247634,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 265527,
@@ -451,14 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 240211,
-      "num": 240211,
-      "word": "问心女孩穿婚纱虐麻了",
-      "onboard_time": 1697247634,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 239709,
       "num": 239709,
       "word": "狗头萝莉发文致歉",
@@ -499,30 +547,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 210463,
-      "num": 210463,
-      "word": "男子骗女子同居生娃后又骗百万积蓄",
-      "onboard_time": 1697248172,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 209986,
-      "num": 209986,
-      "word": "周杰伦演唱会偶遇张雨绮",
-      "onboard_time": 1697248533,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 209174,
-      "num": 209174,
-      "word": "佛山电翰",
-      "onboard_time": 1697248593,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 206045,
       "num": 206045,
       "word": "当YG人跳JYP舞会出现的情况",
@@ -539,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196869,
-      "num": 196869,
-      "word": "杀猪盘短信已然沦为网友发疯工具",
-      "onboard_time": 1697248292,
-      "rank": 32,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 194731,
       "num": 194731,
       "word": "陈飞宇于适握手",
@@ -555,19 +571,19 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 193907,
-      "num": 193907,
-      "word": "福岛小学门口辐射值超标10倍",
-      "onboard_time": 1697248652,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193390,
       "num": 193390,
       "word": "大闸蟹入侵英国多地",
       "onboard_time": 1697202276,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189664,
+      "num": 189664,
+      "word": "1.5斤超早产儿出生81天后顺利出院",
+      "onboard_time": 1697249431,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -667,6 +683,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154884,
+      "num": 154884,
+      "word": "李宇春首唱陆贞传奇主题曲",
+      "onboard_time": 1697248471,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 148447,
+      "num": 148447,
+      "word": "邓为好别致的裤子",
+      "onboard_time": 1697249794,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 146029,
       "num": 146029,
       "word": "小警犬训练太凶太费训导员",
@@ -689,6 +721,14 @@
       "onboard_time": 1697241331,
       "rank": 38,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 142881,
+      "num": 142881,
+      "word": "文班亚马惊天隔扣",
+      "onboard_time": 1697249972,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 141108,
@@ -721,6 +761,14 @@
       "onboard_time": 1697199874,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134271,
+      "num": 134271,
+      "word": "奶奶摆摊6年免费送早餐说亏钱也愿意",
+      "onboard_time": 1697249972,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133550,
@@ -761,14 +809,6 @@
       "onboard_time": 1697246374,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 128442,
-      "num": 128442,
-      "word": "李宇春首唱陆贞传奇主题曲",
-      "onboard_time": 1697248471,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 124366,
@@ -963,6 +1003,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 61724,
+      "num": 1158408,
+      "word": "行走黄河 遇见幸福",
+      "onboard_time": 1697246850,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 56022,
       "num": 61908,
       "word": "66岁大爷锻炼时跳河救了个人",
@@ -993,14 +1041,6 @@
       "onboard_time": 1697239824,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 53292,
-      "num": 1158408,
-      "word": "行走黄河 遇见幸福",
-      "onboard_time": 1697246850,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 52468,
