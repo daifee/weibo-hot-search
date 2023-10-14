@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697290437821,
+  "endTime": 1697292849948,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 2089317,
-      "num": 752472,
+      "num": 791375,
       "word": "纪宝贝去世",
       "onboard_time": 1697283392,
       "rank": 5,
@@ -1705,6 +1705,14 @@
       "onboard_time": 1696747895,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1801528,
+      "num": 1801528,
+      "word": "湖南一技师学院一名女生宿舍内死亡",
+      "onboard_time": 1697289094,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1797203,
@@ -4499,6 +4507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 979941,
+      "num": 979941,
+      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+      "onboard_time": 1697285852,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 979673,
       "num": 979673,
       "word": "武大回应学生举报图书馆遭性骚扰",
@@ -4753,14 +4769,6 @@
       "onboard_time": 1696166923,
       "rank": 39,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 951037,
-      "num": 951037,
-      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
-      "onboard_time": 1697285852,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 949713,
@@ -5676,7 +5684,7 @@
     },
     {
       "raw_hot": 826205,
-      "num": 400209,
+      "num": 444798,
       "word": "赵丽颖深V红裙",
       "onboard_time": 1697286575,
       "rank": 15,
@@ -5828,7 +5836,7 @@
     },
     {
       "raw_hot": 808657,
-      "num": 438829,
+      "num": 757317,
       "word": "巴以冲突记者手机APP警报响个不停",
       "onboard_time": 1697287175,
       "rank": 35,
@@ -6284,7 +6292,7 @@
     },
     {
       "raw_hot": 771199,
-      "num": 427893,
+      "num": 532652,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
       "rank": 11,
@@ -7091,6 +7099,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 705179,
+      "num": 705179,
+      "word": "巴以冲突",
+      "onboard_time": 1696721609,
+      "rank": 48,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 705006,
       "num": 762411,
       "word": "樊振东回应国乒开会梗",
@@ -7539,14 +7555,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 667839,
-      "num": 417319,
-      "word": "湖南一技师学院一名女生宿舍内死亡",
-      "onboard_time": 1697289094,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 667830,
       "num": 667830,
       "word": "冯琳好优秀",
@@ -7865,6 +7873,14 @@
       "onboard_time": 1696654665,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 649219,
+      "num": 649219,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1697289515,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 648785,
@@ -8561,6 +8577,14 @@
       "onboard_time": 1696378109,
       "rank": 8,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 611117,
+      "num": 311586,
+      "word": "杨紫黑色闪钻镂空裙",
+      "onboard_time": 1697291736,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 610212,
@@ -11067,6 +11091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 493650,
+      "num": 493650,
+      "word": "武汉欢乐谷 差评",
+      "onboard_time": 1697289695,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 493648,
       "num": 493648,
       "word": "当年明月作者的顶级觉悟",
@@ -12289,6 +12321,14 @@
       "onboard_time": 1696601385,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450347,
+      "num": 450347,
+      "word": "GK 心梗",
+      "onboard_time": 1697289756,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 449814,
@@ -13969,6 +14009,14 @@
       "onboard_time": 1697246913,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 395361,
+      "num": 395361,
+      "word": "KPL 至暗时刻",
+      "onboard_time": 1697292097,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 395288,
@@ -17051,14 +17099,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 327956,
-      "num": 327956,
-      "word": "许昕还是太全面了",
-      "onboard_time": 1697289515,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 327812,
       "num": 327812,
       "word": "海底捞开到大学里了",
@@ -17241,6 +17281,14 @@
       "onboard_time": 1696688206,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323942,
+      "num": 323942,
+      "word": "徐明浩 直播",
+      "onboard_time": 1697292338,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 323864,
@@ -17665,6 +17713,14 @@
       "onboard_time": 1696839815,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 316588,
+      "num": 316588,
+      "word": "女儿让张杰唱逆战",
+      "onboard_time": 1697291019,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 316222,
@@ -20547,14 +20603,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273578,
-      "num": 273578,
-      "word": "巴以冲突",
-      "onboard_time": 1696721609,
-      "rank": 48,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 273509,
       "num": 273509,
       "word": "田柾国将11月3日发行solo专辑",
@@ -20633,6 +20681,14 @@
       "onboard_time": 1696175194,
       "rank": 24,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 272796,
+      "num": 272796,
+      "word": "PUBG 又崩了",
+      "onboard_time": 1697292159,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 272722,
@@ -21123,6 +21179,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 266493,
+      "num": 266493,
+      "word": "李昀锐新角色梦回袁慎",
+      "onboard_time": 1697290776,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266039,
       "num": 266039,
       "word": "中国跳水包揽49年全部金牌",
@@ -21409,14 +21473,6 @@
       "onboard_time": 1696911586,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 263443,
-      "num": 263443,
-      "word": "GK 心梗",
-      "onboard_time": 1697289756,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 263289,
@@ -23027,6 +23083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244186,
+      "num": 244186,
+      "word": "张杰川音演绎蜀道难",
+      "onboard_time": 1697292338,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 244164,
       "num": 244164,
       "word": "中国男篮半场落后中国台北3分",
@@ -23633,6 +23697,14 @@
       "onboard_time": 1696732592,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237525,
+      "num": 237525,
+      "word": "中国人在非洲穿过31种地层打井出水",
+      "onboard_time": 1697291736,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237503,
@@ -25459,14 +25531,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219885,
-      "num": 219885,
-      "word": "武汉欢乐谷 差评",
-      "onboard_time": 1697289695,
-      "rank": 28,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 219812,
       "num": 219812,
       "word": "王楚钦左手不是枷锁",
@@ -26811,6 +26875,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 207091,
+      "num": 207091,
+      "word": "BOA2比0战胜DRG",
+      "onboard_time": 1697291019,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207026,
       "num": 207026,
       "word": "林俊杰画画竟然这么好",
@@ -27905,6 +27977,14 @@
       "onboard_time": 1696954891,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200358,
+      "num": 200358,
+      "word": "DRG质疑WB成为WB",
+      "onboard_time": 1697292458,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 200322,
@@ -31443,6 +31523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176889,
+      "num": 176889,
+      "word": "大张伟演唱会",
+      "onboard_time": 1697292458,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176883,
       "num": 176883,
       "word": "超30万人齐聚天安门广场看升国旗",
@@ -33243,6 +33331,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160548,
+      "num": 169100,
+      "word": "张远的胸肌隔着衣服都能看到",
+      "onboard_time": 1697291317,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160547,
       "num": 160547,
       "word": "老人高铁晕倒众人接力心肺复苏",
@@ -34939,6 +35035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 142928,
+      "num": 169061,
+      "word": "法考",
+      "onboard_time": 1697290655,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142896,
       "num": 142896,
       "word": "陈都灵 中秋奇妙游",
@@ -36137,6 +36241,14 @@
       "onboard_time": 1696073079,
       "rank": 49,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 127993,
+      "num": 168997,
+      "word": "KPL真汗流浃背了",
+      "onboard_time": 1697292815,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 127944,
@@ -38843,6 +38955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36493,
+      "num": 1563403,
+      "word": "照片里的青春",
+      "onboard_time": 1697085820,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36457,
       "num": 28418,
       "word": "中国女篮亚运第七冠",
@@ -39025,14 +39145,6 @@
       "onboard_time": 1697004034,
       "rank": 14,
       "category": "情感"
-    },
-    {
-      "raw_hot": 28493,
-      "num": 1563403,
-      "word": "照片里的青春",
-      "onboard_time": 1697085820,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 28381,

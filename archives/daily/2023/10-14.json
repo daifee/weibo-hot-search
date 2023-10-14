@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697290437821,
+  "endTime": 1697292849948,
   "band_list": [
     {
       "raw_hot": 2234669,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2089317,
-      "num": 752472,
+      "num": 791375,
       "word": "纪宝贝去世",
       "onboard_time": 1697283392,
       "rank": 5,
@@ -25,6 +25,14 @@
       "onboard_time": 1697268929,
       "rank": 1,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1801528,
+      "num": 1801528,
+      "word": "湖南一技师学院一名女生宿舍内死亡",
+      "onboard_time": 1697289094,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1749540,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 979941,
+      "num": 979941,
+      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+      "onboard_time": 1697285852,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 957435,
       "num": 957435,
       "word": "孩子手洗不干净老师细看心疼",
@@ -201,14 +217,6 @@
       "onboard_time": 1697286575,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 951037,
-      "num": 951037,
-      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
-      "onboard_time": 1697285852,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 850385,
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 826205,
-      "num": 400209,
+      "num": 444798,
       "word": "赵丽颖深V红裙",
       "onboard_time": 1697286575,
       "rank": 15,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 808657,
-      "num": 438829,
+      "num": 757317,
       "word": "巴以冲突记者手机APP警报响个不停",
       "onboard_time": 1697287175,
       "rank": 35,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 771199,
-      "num": 427893,
+      "num": 532652,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
       "rank": 11,
@@ -331,18 +339,18 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 705179,
+      "num": 705179,
+      "word": "巴以冲突",
+      "onboard_time": 1697289999,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 684143,
       "num": 222262,
       "word": "致6死婚车事故遇难新娘已怀有身孕",
       "onboard_time": 1697264250,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 667839,
-      "num": 417319,
-      "word": "湖南一技师学院一名女生宿舍内死亡",
-      "onboard_time": 1697289094,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -377,6 +385,14 @@
       "onboard_time": 1697248652,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 649219,
+      "num": 649219,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1697289515,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 648785,
@@ -425,6 +441,14 @@
       "onboard_time": 1697212472,
       "rank": 11,
       "category": "教育"
+    },
+    {
+      "raw_hot": 611117,
+      "num": 311586,
+      "word": "杨紫黑色闪钻镂空裙",
+      "onboard_time": 1697291736,
+      "rank": 20,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 600727,
@@ -579,6 +603,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 493650,
+      "num": 493650,
+      "word": "武汉欢乐谷 差评",
+      "onboard_time": 1697289695,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 484595,
       "num": 370909,
       "word": "秋婉G 抄袭",
@@ -633,6 +665,14 @@
       "onboard_time": 1697245113,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 450347,
+      "num": 450347,
+      "word": "GK 心梗",
+      "onboard_time": 1697289756,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 449478,
@@ -795,6 +835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 395361,
+      "num": 395361,
+      "word": "KPL 至暗时刻",
+      "onboard_time": 1697292097,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 394593,
       "num": 394593,
       "word": "海归博士返乡把牡蛎养成高端生食食材",
@@ -940,7 +988,7 @@
     },
     {
       "raw_hot": 331198,
-      "num": 201599,
+      "num": 241581,
       "word": "周杰伦上海",
       "onboard_time": 1697282013,
       "rank": 19,
@@ -953,14 +1001,6 @@
       "onboard_time": 1697284475,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 327956,
-      "num": 327956,
-      "word": "许昕还是太全面了",
-      "onboard_time": 1697289515,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 325111,
@@ -987,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323942,
+      "num": 323942,
+      "word": "徐明浩 直播",
+      "onboard_time": 1697292338,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 322575,
       "num": 322575,
       "word": "逆战 咏春",
@@ -1001,6 +1049,14 @@
       "onboard_time": 1697276554,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 316588,
+      "num": 316588,
+      "word": "女儿让张杰唱逆战",
+      "onboard_time": 1697291019,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 316222,
@@ -1179,6 +1235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272796,
+      "num": 272796,
+      "word": "PUBG 又崩了",
+      "onboard_time": 1697292159,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 270537,
       "num": 270537,
       "word": "问心女孩穿婚纱虐麻了",
@@ -1195,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 266493,
+      "num": 266493,
+      "word": "李昀锐新角色梦回袁慎",
+      "onboard_time": 1697290776,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265527,
       "num": 265527,
       "word": "阿勒泰的冬天",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1697256810,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 263443,
-      "num": 263443,
-      "word": "GK 心梗",
-      "onboard_time": 1697289756,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 261736,
@@ -1267,6 +1331,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 244186,
+      "num": 244186,
+      "word": "张杰川音演绎蜀道难",
+      "onboard_time": 1697292338,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242733,
       "num": 242733,
       "word": "严浩翔秦霄贤来看大张伟演唱会",
@@ -1305,6 +1377,14 @@
       "onboard_time": 1697284173,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 237525,
+      "num": 237525,
+      "word": "中国人在非洲穿过31种地层打井出水",
+      "onboard_time": 1697291736,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237406,
@@ -1403,14 +1483,6 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 219885,
-      "num": 219885,
-      "word": "武汉欢乐谷 差评",
-      "onboard_time": 1697289695,
-      "rank": 28,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 216914,
       "num": 205323,
       "word": "周启豪摔倒",
@@ -1443,6 +1515,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 211799,
+      "num": 211799,
+      "word": "问心",
+      "onboard_time": 1697289999,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210468,
       "num": 210468,
       "word": "巴勒斯坦人的生存谁来关心",
@@ -1457,14 +1537,6 @@
       "onboard_time": 1697258312,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 209137,
-      "num": 209137,
-      "word": "巴以冲突",
-      "onboard_time": 1697289999,
-      "rank": 29,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 208261,
@@ -1491,6 +1563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207091,
+      "num": 207091,
+      "word": "BOA2比0战胜DRG",
+      "onboard_time": 1697291019,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206045,
       "num": 206045,
       "word": "当YG人跳JYP舞会出现的情况",
@@ -1513,14 +1593,6 @@
       "onboard_time": 1697260833,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 204490,
-      "num": 204490,
-      "word": "问心",
-      "onboard_time": 1697289999,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 203343,
@@ -1561,6 +1633,14 @@
       "onboard_time": 1697245655,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200358,
+      "num": 200358,
+      "word": "DRG质疑WB成为WB",
+      "onboard_time": 1697292458,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 200211,
@@ -1843,6 +1923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 176889,
+      "num": 176889,
+      "word": "大张伟演唱会",
+      "onboard_time": 1697292458,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 174585,
       "num": 174585,
       "word": "全球最贵巴菲特午餐",
@@ -2027,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160548,
+      "num": 169100,
+      "word": "张远的胸肌隔着衣服都能看到",
+      "onboard_time": 1697291317,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 160452,
       "num": 160452,
       "word": "孟佳说自己卖力吃甲鱼是为了敖子逸",
@@ -2161,6 +2257,14 @@
       "onboard_time": 1697241331,
       "rank": 38,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 142928,
+      "num": 169061,
+      "word": "法考",
+      "onboard_time": 1697290655,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 141108,
@@ -2369,6 +2473,14 @@
       "onboard_time": 1697253993,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127993,
+      "num": 168997,
+      "word": "KPL真汗流浃背了",
+      "onboard_time": 1697292815,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 126677,
@@ -2755,6 +2867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36493,
+      "num": 933335,
+      "word": "照片里的青春",
+      "onboard_time": 1697085820,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 36244,
       "num": 122113,
       "word": "一带一路有你有我",
@@ -2783,14 +2903,6 @@
       "num": 1106114,
       "word": "中国新电商大会",
       "onboard_time": 1697201316,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27917,
-      "num": 933335,
-      "word": "照片里的青春",
-      "onboard_time": 1697085820,
       "rank": 2,
       "category": "社会新闻"
     },
