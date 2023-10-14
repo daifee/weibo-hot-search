@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697272448153,
+  "endTime": 1697274909770,
   "band_list": [
     {
       "raw_hot": 2234669,
@@ -32,6 +32,14 @@
       "word": "学生未按时到校班主任上门救下一家四口",
       "onboard_time": 1697239284,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1557969,
+      "num": 792559,
+      "word": "家属否认致6死婚车事故司机酒驾玩通宵",
+      "onboard_time": 1697270672,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -243,14 +251,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 743824,
-      "num": 299558,
-      "word": "家属否认致6死婚车事故司机酒驾玩通宵",
-      "onboard_time": 1697270672,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 684143,
       "num": 222262,
       "word": "致6死婚车事故遇难新娘已怀有身孕",
@@ -339,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 575767,
+      "num": 575767,
+      "word": "孙女得知聊天框是置顶时爷爷已病逝",
+      "onboard_time": 1697271211,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 562178,
       "num": 365070,
       "word": "BBC记者被以色列警察持枪威胁",
@@ -400,6 +408,14 @@
       "word": "武大被骚扰当事人回应肖某某记过",
       "onboard_time": 1697261311,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 521451,
+      "num": 521451,
+      "word": "抢劫杀房东的17岁少年已被逮捕",
+      "onboard_time": 1697271871,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -547,12 +563,36 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 392575,
+      "num": 392575,
+      "word": "警方通报17岁男生杀害房东",
+      "onboard_time": 1697272232,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392027,
+      "num": 216396,
+      "word": "男子用螳螂吃掉颈后肉瘊子",
+      "onboard_time": 1697270612,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 384916,
       "num": 384916,
       "word": "小雪把古茗的人形立牌偷走了",
       "onboard_time": 1697241809,
       "rank": 9,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 377564,
+      "num": 377564,
+      "word": "WB 青春风暴",
+      "onboard_time": 1697274332,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 375824,
@@ -563,12 +603,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 375013,
+      "num": 214605,
+      "word": "唐嫣好港",
+      "onboard_time": 1697272411,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 371808,
       "num": 371808,
       "word": "杀猪盘短信已然沦为网友发疯工具",
       "onboard_time": 1697248292,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 367223,
+      "num": 367223,
+      "word": "加沙居民撤离车队遭以色列空袭已致70死",
+      "onboard_time": 1697272170,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 358050,
@@ -611,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 340145,
+      "num": 340145,
+      "word": "以色列6天投6000枚炸弹",
+      "onboard_time": 1697273733,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 337777,
       "num": 337777,
       "word": "张杰把逆战唱成孤勇者",
@@ -619,35 +683,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 336893,
-      "num": 216396,
-      "word": "男子用螳螂吃掉颈后肉瘊子",
-      "onboard_time": 1697270612,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 333807,
       "num": 333807,
       "word": "社区回应3岁孩子被父亲关车库3天",
       "onboard_time": 1697231593,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 331967,
-      "num": 297604,
-      "word": "抢劫杀房东的17岁少年已被逮捕",
-      "onboard_time": 1697271871,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325207,
-      "num": 325207,
-      "word": "孙女得知聊天框是置顶时爷爷已病逝",
-      "onboard_time": 1697271211,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -675,12 +715,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317136,
-      "num": 214605,
-      "word": "唐嫣好港",
-      "onboard_time": 1697272411,
+      "raw_hot": 316222,
+      "num": 212596,
+      "word": "双胞胎为啥要穿的一模一样",
+      "onboard_time": 1697272954,
       "rank": 23,
-      "category": "作品衍生"
+      "category": "幽默"
     },
     {
       "raw_hot": 310952,
@@ -867,8 +907,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 257419,
+      "num": 257419,
+      "word": "何运晨这里没有外人只有家人",
+      "onboard_time": 1697272770,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253403,
-      "num": 196079,
+      "num": 240425,
       "word": "日本人为了做顿假料理有多拼",
       "onboard_time": 1697270192,
       "rank": 31,
@@ -905,14 +953,6 @@
       "onboard_time": 1697179955,
       "rank": 20,
       "category": "网红"
-    },
-    {
-      "raw_hot": 238781,
-      "num": 178685,
-      "word": "警方通报17岁男生杀害房东",
-      "onboard_time": 1697272232,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237406,
@@ -995,12 +1035,36 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 216914,
+      "num": 176079,
+      "word": "周启豪摔倒",
+      "onboard_time": 1697273850,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214935,
+      "num": 214935,
+      "word": "致敬不穿警服的警察",
+      "onboard_time": 1697274092,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212760,
       "num": 212760,
       "word": "加沙地带危在旦夕",
       "onboard_time": 1697215226,
       "rank": 31,
       "category": "国内要闻,军事"
+    },
+    {
+      "raw_hot": 211134,
+      "num": 211134,
+      "word": "四川沙拉 曹氏特辣",
+      "onboard_time": 1697271271,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 210468,
@@ -1115,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195277,
+      "num": 195277,
+      "word": "XHW对战WB",
+      "onboard_time": 1697274574,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 194731,
       "num": 194731,
       "word": "陈飞宇于适握手",
@@ -1161,6 +1233,14 @@
       "onboard_time": 1697270732,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187362,
+      "num": 187362,
+      "word": "李一桐复古名伶造型",
+      "onboard_time": 1697272532,
+      "rank": 28,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 187234,
@@ -1275,14 +1355,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 169553,
-      "num": 169553,
-      "word": "四川沙拉 曹氏特辣",
-      "onboard_time": 1697271271,
-      "rank": 47,
-      "category": "美食"
-    },
-    {
       "raw_hot": 168845,
       "num": 168845,
       "word": "王子文一把推开了白敬亭",
@@ -1321,6 +1393,14 @@
       "onboard_time": 1697262871,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 167576,
+      "num": 167576,
+      "word": "高叶脏辫羽毛造型",
+      "onboard_time": 1697273011,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 166627,
@@ -1435,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156186,
+      "num": 156186,
+      "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
+      "onboard_time": 1697274693,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156072,
       "num": 156072,
       "word": "奶奶摆摊6年免费送早餐说亏钱也愿意",
@@ -1457,6 +1545,22 @@
       "onboard_time": 1697246670,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 154501,
+      "num": 154501,
+      "word": "虎子撒娇",
+      "onboard_time": 1697271753,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 149713,
+      "num": 149713,
+      "word": "证监会出台融券政策两条逆周期安排",
+      "onboard_time": 1697273972,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 146741,
@@ -1537,6 +1641,14 @@
       "onboard_time": 1697263710,
       "rank": 46,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 137018,
+      "num": 137018,
+      "word": "周杰伦演唱会的前一天和当天",
+      "onboard_time": 1697274211,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 135349,
@@ -1659,6 +1771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126580,
+      "num": 126580,
+      "word": "杨迪回应把吴昕拉黑",
+      "onboard_time": 1697273371,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124366,
       "num": 124366,
       "word": "武大通报学生举报图书馆被骚扰",
@@ -1691,28 +1811,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 122524,
-      "num": 122524,
-      "word": "加沙居民撤离车队遭以色列空袭已致70死",
-      "onboard_time": 1697272170,
-      "rank": 44,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 122182,
       "num": 122182,
       "word": "世界候鸟日",
       "onboard_time": 1697256752,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 121283,
-      "num": 121283,
-      "word": "虎子撒娇",
-      "onboard_time": 1697271753,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 120638,
@@ -1729,6 +1833,14 @@
       "onboard_time": 1697200535,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117234,
+      "num": 117234,
+      "word": "文韬非酋属性从不让人失望",
+      "onboard_time": 1697273913,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 116528,
@@ -1748,7 +1860,7 @@
     },
     {
       "raw_hot": 114016,
-      "num": 190816,
+      "num": 806261,
       "word": "青春华章",
       "onboard_time": 1697270971,
       "rank": 26,

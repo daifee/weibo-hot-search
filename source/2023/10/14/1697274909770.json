@@ -1,0 +1,410 @@
+{
+  "runTime": 1697274909770,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1422229,
+        "num": 1422229,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1001988,
+        "num": 1001988,
+        "word": "周杰伦知道王冰冰用他点奶茶吗",
+        "onboard_time": 1697270250,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23429,
+        "num": 806261,
+        "word": "青春华章",
+        "onboard_time": 1697270971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1557969,
+        "num": 792559,
+        "word": "家属否认致6死婚车事故司机酒驾玩通宵",
+        "onboard_time": 1697270672,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777687,
+        "num": 777687,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 671881,
+        "num": 671881,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 575767,
+        "num": 575767,
+        "word": "孙女得知聊天框是置顶时爷爷已病逝",
+        "onboard_time": 1697271211,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 521451,
+        "num": 521451,
+        "word": "抢劫杀房东的17岁少年已被逮捕",
+        "onboard_time": 1697271871,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392575,
+        "num": 392575,
+        "word": "警方通报17岁男生杀害房东",
+        "onboard_time": 1697272232,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 377564,
+        "num": 377564,
+        "word": "WB 青春风暴",
+        "onboard_time": 1697274332,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 367223,
+        "num": 367223,
+        "word": "加沙居民撤离车队遭以色列空袭已致70死",
+        "onboard_time": 1697272170,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 340145,
+        "num": 340145,
+        "word": "以色列6天投6000枚炸弹",
+        "onboard_time": 1697273733,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 337845,
+        "num": 337845,
+        "word": "超40万巴勒斯坦人离开加沙的家园",
+        "onboard_time": 1697268270,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 286840,
+        "num": 286840,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286316,
+        "num": 286316,
+        "word": "美国要求以色列推迟地面进攻",
+        "onboard_time": 1697263111,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 272601,
+        "num": 272601,
+        "word": "陈牧驰工作室维权声明",
+        "onboard_time": 1697263831,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264217,
+        "num": 264217,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257419,
+        "num": 257419,
+        "word": "何运晨这里没有外人只有家人",
+        "onboard_time": 1697272770,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240425,
+        "num": 240425,
+        "word": "日本人为了做顿假料理有多拼",
+        "onboard_time": 1697270192,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214935,
+        "num": 214935,
+        "word": "致敬不穿警服的警察",
+        "onboard_time": 1697274092,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392027,
+        "num": 214516,
+        "word": "男子用螳螂吃掉颈后肉瘊子",
+        "onboard_time": 1697270612,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375013,
+        "num": 213854,
+        "word": "唐嫣好港",
+        "onboard_time": 1697272411,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 324737,
+        "num": 212794,
+        "word": "专升本后工资反而变低了",
+        "onboard_time": 1697270310,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 316222,
+        "num": 212596,
+        "word": "双胞胎为啥要穿的一模一样",
+        "onboard_time": 1697272954,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 277898,
+        "num": 211252,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 24,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 211134,
+        "num": 211134,
+        "word": "四川沙拉 曹氏特辣",
+        "onboard_time": 1697271271,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196939,
+        "num": 196939,
+        "word": "王栎鑫把陈楚生说哭了",
+        "onboard_time": 1697263592,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195277,
+        "num": 195277,
+        "word": "XHW对战WB",
+        "onboard_time": 1697274574,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187362,
+        "num": 187362,
+        "word": "李一桐复古名伶造型",
+        "onboard_time": 1697272532,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 182430,
+        "num": 182430,
+        "word": "问心杨阿姨去世",
+        "onboard_time": 1697271329,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216914,
+        "num": 176079,
+        "word": "周启豪摔倒",
+        "onboard_time": 1697273850,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169424,
+        "num": 169424,
+        "word": "BBC记者被以色列警察持枪威胁",
+        "onboard_time": 1697265572,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 167576,
+        "num": 167576,
+        "word": "高叶脏辫羽毛造型",
+        "onboard_time": 1697273011,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164254,
+        "num": 164254,
+        "word": "医生提醒年轻人千万不要再熬夜了",
+        "onboard_time": 1697257712,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163428,
+        "num": 163428,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157380,
+        "num": 157380,
+        "word": "国考岗位",
+        "onboard_time": 1697250934,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 156186,
+        "num": 156186,
+        "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
+        "onboard_time": 1697274693,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154501,
+        "num": 154501,
+        "word": "虎子撒娇",
+        "onboard_time": 1697271753,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153398,
+        "num": 153398,
+        "word": "董璇看女儿小酒窝走秀时的眼神",
+        "onboard_time": 1697262690,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150401,
+        "num": 150401,
+        "word": "奶奶出殡前一天",
+        "onboard_time": 1697268631,
+        "rank": 39,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 149713,
+        "num": 149713,
+        "word": "证监会出台融券政策两条逆周期安排",
+        "onboard_time": 1697273972,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140699,
+        "num": 140699,
+        "word": "心疼逆战组",
+        "onboard_time": 1697269291,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137018,
+        "num": 137018,
+        "word": "周杰伦演唱会的前一天和当天",
+        "onboard_time": 1697274211,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136093,
+        "num": 136093,
+        "word": "詹姆斯真老了",
+        "onboard_time": 1697262030,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130629,
+        "num": 130629,
+        "word": "于正新剧的审美",
+        "onboard_time": 1697269171,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129079,
+        "num": 129079,
+        "word": "国考",
+        "onboard_time": 1697268691,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126580,
+        "num": 126580,
+        "word": "杨迪回应把吴昕拉黑",
+        "onboard_time": 1697273371,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123908,
+        "num": 123908,
+        "word": "所以不要和陌生人说话才会成为经典",
+        "onboard_time": 1697259093,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119128,
+        "num": 119128,
+        "word": "谁教你这样晒结婚证的",
+        "onboard_time": 1697269770,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117234,
+        "num": 117234,
+        "word": "文韬非酋属性从不让人失望",
+        "onboard_time": 1697273913,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化江西篇章#"
+    }
+  }
+}
