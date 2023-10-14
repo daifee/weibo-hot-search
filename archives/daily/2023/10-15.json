@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697300412859,
+  "endTime": 1697301294385,
   "band_list": [
     {
       "raw_hot": 1145020,
@@ -19,8 +19,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 775404,
-      "num": 775404,
+      "raw_hot": 781816,
+      "num": 781816,
       "word": "女子乔迁新房70人吃席家里蹲",
       "onboard_time": 1697298214,
       "rank": 1,
@@ -33,6 +33,14 @@
       "onboard_time": 1697283392,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 649491,
+      "num": 321666,
+      "word": "以色列同意加沙地带的外国人离开",
+      "onboard_time": 1697297015,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 648921,
@@ -67,15 +75,7 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 538067,
-      "num": 321666,
-      "word": "以色列同意加沙地带的外国人离开",
-      "onboard_time": 1697297015,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 520807,
+      "raw_hot": 557244,
       "num": 315902,
       "word": "现在问题不是车银优",
       "onboard_time": 1697298156,
@@ -97,6 +97,14 @@
       "onboard_time": 1697268929,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 436128,
+      "num": 277598,
+      "word": "朴宝英更新与朴炯植合照",
+      "onboard_time": 1697295874,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 417218,
@@ -123,12 +131,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 357850,
-      "num": 248082,
-      "word": "朴宝英更新与朴炯植合照",
-      "onboard_time": 1697295874,
-      "rank": 20,
-      "category": "艺人"
+      "raw_hot": 378288,
+      "num": 285831,
+      "word": "英语老师为不同成绩准备了meme贴纸",
+      "onboard_time": 1697297798,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 371969,
+      "num": 371969,
+      "word": "华浅提出和离",
+      "onboard_time": 1697300850,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 333587,
@@ -147,12 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285831,
-      "num": 285831,
-      "word": "英语老师为不同成绩准备了meme贴纸",
-      "onboard_time": 1697297798,
-      "rank": 18,
-      "category": "教育"
+      "raw_hot": 265734,
+      "num": 265734,
+      "word": "丁程鑫把黄子韬泼倒了",
+      "onboard_time": 1697299950,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 251953,
@@ -195,28 +211,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201055,
-      "num": 201055,
-      "word": "田柾国TXT舞蹈挑战",
-      "onboard_time": 1697299652,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 190140,
-      "num": 190140,
+      "raw_hot": 202977,
+      "num": 202977,
       "word": "苏醒巡演终于唱跳了",
       "onboard_time": 1697300070,
       "rank": 26,
       "category": "演出"
     },
     {
-      "raw_hot": 188036,
-      "num": 188036,
-      "word": "丁程鑫把黄子韬泼倒了",
-      "onboard_time": 1697299950,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 201055,
+      "num": 201055,
+      "word": "田柾国TXT舞蹈挑战",
+      "onboard_time": 1697299652,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 186100,
@@ -259,8 +267,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 156038,
-      "num": 156038,
+      "raw_hot": 162155,
+      "num": 162155,
       "word": "普京称现阶段最重要的是制止流血事件",
       "onboard_time": 1697299354,
       "rank": 33,
@@ -273,6 +281,22 @@
       "onboard_time": 1697264611,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 139986,
+      "num": 137029,
+      "word": "成韩彬洗娃直播",
+      "onboard_time": 1697301030,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139391,
+      "num": 139391,
+      "word": "一群小猫和一群小狗首次见面",
+      "onboard_time": 1697300012,
+      "rank": 47,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 134420,
@@ -371,14 +395,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 96384,
-      "num": 96384,
-      "word": "一群小猫和一群小狗首次见面",
-      "onboard_time": 1697300012,
-      "rank": 47,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 96109,
       "num": 96109,
       "word": "教大家怎么白菜价吃日料",
@@ -395,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 67495,
+      "num": 80062,
+      "word": "男子车内当孩子面将妻子捅成重伤",
+      "onboard_time": 1697301150,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29097,
       "num": 699037,
       "word": "一带一路有你有我",
@@ -406,6 +430,9 @@
   "hotgov_list": [
     {
       "word": "#把青春华章写在祖国大地上#"
+    },
+    {
+      "word": "#坚持价值性和知识性相统一#"
     }
   ]
 }
