@@ -1,0 +1,410 @@
+{
+  "runTime": 1697245823965,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1652687,
+        "num": 1652687,
+        "word": "学生未按时到校班主任上门救下一家四口",
+        "onboard_time": 1697239284,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160663,
+        "num": 1160663,
+        "word": "考研二战的学姐消失在朋友圈",
+        "onboard_time": 1697240426,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28013,
+        "num": 1106114,
+        "word": "中国新电商大会",
+        "onboard_time": 1697201316,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083103,
+        "num": 1083103,
+        "word": "徐冬冬被压10年的剧播了",
+        "onboard_time": 1697243312,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 850385,
+        "num": 850385,
+        "word": "多尔衮行宫挂牌1.8亿出售",
+        "onboard_time": 1697242412,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 543650,
+        "num": 543650,
+        "word": "杨威自曝要终身佩戴呼吸机",
+        "onboard_time": 1697200236,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533615,
+        "num": 533615,
+        "word": "警方通报男子追刺民警被击中身亡",
+        "onboard_time": 1697241626,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437559,
+        "num": 437559,
+        "word": "民间流传缠腰龙缠一圈致命是谣言",
+        "onboard_time": 1697240186,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338506,
+        "num": 338506,
+        "word": "联合国在加沙地带物资已用尽",
+        "onboard_time": 1697243613,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 336437,
+        "num": 336437,
+        "word": "小雪把古茗的人形立牌偷走了",
+        "onboard_time": 1697241809,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 953722,
+        "num": 336021,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697241331,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 593849,
+        "num": 333489,
+        "word": "大张伟以为林子祥叶蒨文只是商业伙伴",
+        "onboard_time": 1697243797,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 559785,
+        "num": 329829,
+        "word": "檀健次 丽江",
+        "onboard_time": 1697243428,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463388,
+        "num": 327561,
+        "word": "卢昱晓有在努力纠正走姿了",
+        "onboard_time": 1697242770,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326223,
+        "num": 326223,
+        "word": "刘嘉玲在接受采访梁朝伟在玩手",
+        "onboard_time": 1697213732,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 310952,
+        "num": 310952,
+        "word": "中方将派特使前往中东",
+        "onboard_time": 1697240243,
+        "rank": 15,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 297380,
+        "num": 297380,
+        "word": "黎巴嫩以色列临时边界发生交火",
+        "onboard_time": 1697239944,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 260777,
+        "num": 260777,
+        "word": "浙江一小学发现汉六朝时期聚落遗址",
+        "onboard_time": 1697240243,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259784,
+        "num": 259784,
+        "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
+        "onboard_time": 1697216962,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249927,
+        "num": 249927,
+        "word": "秀智素颜状态",
+        "onboard_time": 1697240125,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 998462,
+        "num": 248575,
+        "word": "英男子性侵13岁女童判无罪释放后大笑",
+        "onboard_time": 1697240065,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545277,
+        "num": 248008,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543956,
+        "num": 246813,
+        "word": "床垫上的膜真的不用撕掉吗",
+        "onboard_time": 1697240426,
+        "rank": 22,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 444895,
+        "num": 245135,
+        "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
+        "onboard_time": 1697244153,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243870,
+        "num": 243870,
+        "word": "10块钱70个火龙果",
+        "onboard_time": 1697244212,
+        "rank": 24,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 234742,
+        "num": 234742,
+        "word": "吃完葡萄不要立刻喝水",
+        "onboard_time": 1697240426,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231287,
+        "num": 231287,
+        "word": "10万元存款被银行员工转成理财",
+        "onboard_time": 1697207675,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 210468,
+        "num": 210468,
+        "word": "巴勒斯坦人的生存谁来关心",
+        "onboard_time": 1697241331,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204293,
+        "num": 204293,
+        "word": "官方通报家长不参与自愿研学被踢出群",
+        "onboard_time": 1697245113,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177048,
+        "num": 177048,
+        "word": "这孩子幼儿园在国企上的吧",
+        "onboard_time": 1697241990,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 278776,
+        "num": 170875,
+        "word": "大一和大四一眼就能认出来",
+        "onboard_time": 1697245292,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182502,
+        "num": 169611,
+        "word": "刘国梁女儿LPGA首秀",
+        "onboard_time": 1697241809,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155182,
+        "num": 155182,
+        "word": "文咏珊红色大裙摆铺满一个房间",
+        "onboard_time": 1697210256,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151620,
+        "num": 151620,
+        "word": "赵丽颖去布拉格了",
+        "onboard_time": 1697199874,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150292,
+        "num": 150292,
+        "word": "辛芷蕾花少5回国助理接机认错人",
+        "onboard_time": 1697209715,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146029,
+        "num": 146029,
+        "word": "小警犬训练太凶太费训导员",
+        "onboard_time": 1697244335,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145108,
+        "num": 145108,
+        "word": "陈飞宇于适握手",
+        "onboard_time": 1697245412,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 144189,
+        "num": 144189,
+        "word": "女警抱住情绪崩溃女子安慰10分钟",
+        "onboard_time": 1697242532,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143705,
+        "num": 143705,
+        "word": "再次紧急提醒在以中国公民加强安全防范",
+        "onboard_time": 1697241331,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 136806,
+        "num": 136806,
+        "word": "武大肖某某12个月不能评奖评优",
+        "onboard_time": 1697207736,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134578,
+        "num": 134578,
+        "word": "封神",
+        "onboard_time": 1697209360,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125420,
+        "num": 125420,
+        "word": "时代峰峻让粉丝买到门票后再订机酒",
+        "onboard_time": 1697211694,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120638,
+        "num": 120638,
+        "word": "没有记者在场时的全红婵",
+        "onboard_time": 1697239764,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114335,
+        "num": 114335,
+        "word": "孙俪陪女儿看甄嬛传",
+        "onboard_time": 1697204674,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104998,
+        "num": 104998,
+        "word": "BetterThings Treasure舞蹈挑战",
+        "onboard_time": 1697245537,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 104426,
+        "num": 104426,
+        "word": "帽厂老板6年招工60多名聋哑人",
+        "onboard_time": 1697245054,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103266,
+        "num": 103266,
+        "word": "伊能静真的好懂女生",
+        "onboard_time": 1697245655,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100864,
+        "num": 100864,
+        "word": "图书馆见证了大学生的精神状态",
+        "onboard_time": 1697212472,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 97722,
+        "num": 97722,
+        "word": "老人电瓶车上昏厥这时一群人出手了",
+        "onboard_time": 1697244936,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91949,
+        "num": 91949,
+        "word": "社区回应3岁孩子被父亲关车库3天",
+        "onboard_time": 1697231593,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把青春华章写在祖国大地上#"
+    }
+  }
+}

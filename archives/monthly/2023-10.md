@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 07:34:15
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 09:10:23
 </p>
 </blockquote>
 <p>
@@ -1557,6 +1557,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%9C%AA%E6%8C%89%E6%97%B6%E5%88%B0%E6%A0%A1%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%8A%E9%97%A8%E6%95%91%E4%B8%8B%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%23" target="weibo">
+学生未按时到校班主任上门救下一家四口（热度：1652687）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%9A%84%E5%A5%A5%E8%BF%90%E9%93%9C%E7%89%8C%E6%9D%A5%E4%BA%86%23" target="weibo">
 苏炳添的奥运铜牌来了（热度：1651651）
 </a>
@@ -2673,6 +2679,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E4%BA%8C%E6%88%98%E7%9A%84%E5%AD%A6%E5%A7%90%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
+考研二战的学姐消失在朋友圈（热度：1160663）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%238%E5%A4%A9%E5%BE%88%E7%9F%AD7%E5%A4%A9%E5%BE%88%E9%95%BF%23" target="weibo">
 8天很短7天很长（热度：1159610）
 </a>
@@ -2873,6 +2885,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%8A%A5%E5%90%8D%23" target="weibo">
 海底捞报名（热度：1085530）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E8%A2%AB%E5%8E%8B10%E5%B9%B4%E7%9A%84%E5%89%A7%E6%92%AD%E4%BA%86%23" target="weibo">
+徐冬冬被压10年的剧播了（热度：1083103）
 </a>
 </li>
 
@@ -3179,6 +3197,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
 王楚钦vs林高远（热度：1000105）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%94%B7%E5%AD%90%E6%80%A7%E4%BE%B513%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%88%A4%E6%97%A0%E7%BD%AA%E9%87%8A%E6%94%BE%E5%90%8E%E5%A4%A7%E7%AC%91%23" target="weibo">
+英男子性侵13岁女童判无罪释放后大笑（热度：998462）
 </a>
 </li>
 
@@ -3947,6 +3971,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%90%83%E7%9A%84%E6%B2%B9%E5%BE%88%E5%8F%AF%E8%83%BD%E6%97%A9%E8%BF%87%E6%9C%9F%E4%BA%86%23" target="weibo">
 你吃的油很可能早过期了（热度：852552）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B0%94%E8%A1%AE%E8%A1%8C%E5%AE%AB%E6%8C%82%E7%89%8C1.8%E4%BA%BF%E5%87%BA%E5%94%AE%23" target="weibo">
+多尔衮行宫挂牌1.8亿出售（热度：850385）
 </a>
 </li>
 
@@ -5984,36 +6014,6 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E6%B5%AA%E5%A7%905%E5%B0%86%E9%82%80%E8%AF%B7%E6%9C%B4%E5%BD%A9%E8%8B%B1%23" target="weibo">
-网传浪姐5将邀请朴彩英（热度：622567）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A6%BB%E5%AD%90%E8%BF%87%E7%94%9F%E6%97%A5%E4%B8%88%E5%A4%AB%E5%81%B7%E5%81%B7%E4%B9%B0%E5%9B%9E6000%E5%85%83%E6%89%8B%E6%9C%BA%23" target="weibo">
-妻子过生日丈夫偷偷买回6000元手机（热度：622518）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%81%A5%E8%BA%AB%E6%88%BF%E5%A4%B1%E8%AF%AF%E7%A0%B8%E6%96%AD%E5%A5%B3%E7%94%9F4%E6%A0%B9%E8%84%9A%E8%B6%BE%23" target="weibo">
-男子健身房失误砸断女生4根脚趾（热度：622199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E6%9F%B3%20%E4%B9%9D%E5%A4%B4%E7%9C%9F%E8%BA%AB%E6%9A%B4%E5%8A%9B%E7%BE%8E%E5%AD%A6%23" target="weibo">
-相柳 九头真身暴力美学（热度：621151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%A4%AA%E4%BC%9A%E4%BA%86%23" target="weibo">
-张艺兴太会了（热度：620482）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6281,6 +6281,12 @@ iPhone16Pro或配骁龙X75调制解调器（热度：626494）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%A5%8B%E5%8A%9B%E8%B0%B1%E5%86%99%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B1%9F%E8%A5%BF%E7%AF%87%E7%AB%A0%23%23" target="weibo">
 #奋力谱写中国式现代化江西篇章#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A%23%23" target="weibo">
+#把青春华章写在祖国大地上#
 </a>
 </li>
 
