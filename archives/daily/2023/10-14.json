@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697287531377,
+  "endTime": 1697289470293,
   "band_list": [
     {
       "raw_hot": 2234669,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2089317,
-      "num": 561175,
+      "num": 635816,
       "word": "纪宝贝去世",
       "onboard_time": 1697283392,
       "rank": 5,
@@ -187,12 +187,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 898713,
-      "num": 898713,
+      "raw_hot": 957435,
+      "num": 957435,
       "word": "孩子手洗不干净老师细看心疼",
       "onboard_time": 1697284173,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917544,
+      "num": 917544,
+      "word": "赵丽颖檀健次同框",
+      "onboard_time": 1697286575,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 850385,
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 826205,
+      "num": 382132,
+      "word": "赵丽颖深V红裙",
+      "onboard_time": 1697286575,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 811104,
       "num": 811104,
       "word": "山东超半数乡镇公务员想离职",
@@ -243,20 +259,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 802018,
-      "num": 350209,
-      "word": "赵丽颖深V红裙",
-      "onboard_time": 1697286575,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 783326,
       "num": 783326,
       "word": "10万元存款被银行员工转成理财",
       "onboard_time": 1697207675,
       "rank": 6,
       "category": "财经"
+    },
+    {
+      "raw_hot": 771199,
+      "num": 380955,
+      "word": "王栎鑫白毛",
+      "onboard_time": 1697287593,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 769761,
@@ -297,6 +313,14 @@
       "onboard_time": 1697271211,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697180,
+      "num": 697180,
+      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+      "onboard_time": 1697285852,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 684143,
@@ -409,14 +433,6 @@
       "onboard_time": 1697243797,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 567995,
-      "num": 567995,
-      "word": "赵丽颖檀健次同框",
-      "onboard_time": 1697286575,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 562178,
@@ -579,6 +595,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 460709,
+      "num": 460709,
+      "word": "田耕纪首播反响",
+      "onboard_time": 1697287957,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460435,
       "num": 460435,
       "word": "官方通报家长不参与自愿研学被踢出群",
@@ -617,6 +641,14 @@
       "onboard_time": 1697244153,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 444464,
+      "num": 366008,
+      "word": "王毅同布林肯通话",
+      "onboard_time": 1697287716,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 442900,
@@ -683,6 +715,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 415976,
+      "num": 338427,
+      "word": "巴以冲突记者手机APP警报响个不停",
+      "onboard_time": 1697287175,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 415510,
       "num": 415510,
       "word": "王栎鑫把陈楚生说哭了",
@@ -745,6 +785,14 @@
       "onboard_time": 1697285196,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393442,
+      "num": 393442,
+      "word": "莎头组合神同步瞬间",
+      "onboard_time": 1697288194,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 392575,
@@ -915,14 +963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 320018,
-      "num": 320018,
-      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
-      "onboard_time": 1697285852,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 316661,
       "num": 290477,
       "word": "罗云熙 水龙吟",
@@ -953,6 +993,14 @@
       "onboard_time": 1697204674,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304994,
+      "num": 287178,
+      "word": "薛之谦宋茜互动好搞笑",
+      "onboard_time": 1697288795,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 304566,
@@ -1187,6 +1235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 243128,
+      "num": 193061,
+      "word": "湖南一技师学院一名女生宿舍内死亡",
+      "onboard_time": 1697289094,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242733,
       "num": 242733,
       "word": "严浩翔秦霄贤来看大张伟演唱会",
@@ -1217,6 +1273,14 @@
       "onboard_time": 1697179955,
       "rank": 20,
       "category": "网红"
+    },
+    {
+      "raw_hot": 237703,
+      "num": 237703,
+      "word": "一个月养好脾胃",
+      "onboard_time": 1697284173,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237406,
@@ -1339,6 +1403,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 211982,
+      "num": 211982,
+      "word": "山东男孩于文亮回应走红",
+      "onboard_time": 1697288315,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 210468,
       "num": 210468,
       "word": "巴勒斯坦人的生存谁来关心",
@@ -1361,14 +1433,6 @@
       "onboard_time": 1697275891,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 208139,
-      "num": 208139,
-      "word": "一个月养好脾胃",
-      "onboard_time": 1697284173,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 207308,
@@ -1491,6 +1555,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 194376,
+      "num": 194376,
+      "word": "张凌赫 hi6",
+      "onboard_time": 1697289155,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193944,
       "num": 193944,
       "word": "朱一龙的粘人徒弟超会的",
@@ -1531,6 +1603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 192994,
+      "num": 192994,
+      "word": "小奶狗火场被救跟着消防员不肯走",
+      "onboard_time": 1697288373,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 190463,
       "num": 190463,
       "word": "郑钦文晋级郑州赛决赛",
@@ -1545,6 +1625,14 @@
       "onboard_time": 1697267672,
       "rank": 43,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 188928,
+      "num": 188928,
+      "word": "辛芷蕾庆余年2杀青",
+      "onboard_time": 1697287774,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 188674,
@@ -1681,6 +1769,14 @@
       "onboard_time": 1697275713,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177586,
+      "num": 177586,
+      "word": "诸葛亮看着评论区陷入沉思",
+      "onboard_time": 1697288013,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 177557,
@@ -1937,14 +2033,6 @@
       "onboard_time": 1697249972,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155777,
-      "num": 155777,
-      "word": "巴以冲突记者手机APP警报响个不停",
-      "onboard_time": 1697287175,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 155316,
@@ -2611,6 +2699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36244,
+      "num": 122113,
+      "word": "一带一路有你有我",
+      "onboard_time": 1697287774,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 34808,
       "num": 167675,
       "word": "成都今天穿什么",
@@ -2631,6 +2727,14 @@
       "num": 1106114,
       "word": "中国新电商大会",
       "onboard_time": 1697201316,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 27917,
+      "num": 933335,
+      "word": "照片里的青春",
+      "onboard_time": 1697085820,
       "rank": 2,
       "category": "社会新闻"
     },

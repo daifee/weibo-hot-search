@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697287531377,
+  "endTime": 1697289470293,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -532,7 +532,7 @@
     },
     {
       "raw_hot": 2089317,
-      "num": 561175,
+      "num": 635816,
       "word": "纪宝贝去世",
       "onboard_time": 1697283392,
       "rank": 5,
@@ -2187,6 +2187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 957435,
+      "num": 957435,
+      "word": "孩子手洗不干净老师细看心疼",
+      "onboard_time": 1697284173,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 949713,
       "num": 574515,
       "word": "没认出黄绮珊",
@@ -2267,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 917544,
+      "num": 917544,
+      "word": "赵丽颖檀健次同框",
+      "onboard_time": 1697286575,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 910856,
       "num": 910856,
       "word": "iPhone平均寿命将达8年",
@@ -2289,14 +2305,6 @@
       "onboard_time": 1697032719,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 898713,
-      "num": 898713,
-      "word": "孩子手洗不干净老师细看心疼",
-      "onboard_time": 1697284173,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 896154,
@@ -2523,6 +2531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 826205,
+      "num": 382132,
+      "word": "赵丽颖深V红裙",
+      "onboard_time": 1697286575,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 824045,
       "num": 588757,
       "word": "美国政府将从13日开始安排撤侨航班",
@@ -2659,14 +2675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 802018,
-      "num": 350209,
-      "word": "赵丽颖深V红裙",
-      "onboard_time": 1697286575,
-      "rank": 15,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 801220,
       "num": 801220,
       "word": "招聘月薪和实际薪资是两回事",
@@ -2785,6 +2793,14 @@
       "onboard_time": 1697122240,
       "rank": 4,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 771199,
+      "num": 380955,
+      "word": "王栎鑫白毛",
+      "onboard_time": 1697287593,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 770114,
@@ -3153,6 +3169,14 @@
       "onboard_time": 1697095417,
       "rank": 22,
       "category": "时尚,财经"
+    },
+    {
+      "raw_hot": 697180,
+      "num": 697180,
+      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+      "onboard_time": 1697285852,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 693826,
@@ -4209,14 +4233,6 @@
       "onboard_time": 1697034580,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 567995,
-      "num": 567995,
-      "word": "赵丽颖檀健次同框",
-      "onboard_time": 1697286575,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 567777,
@@ -5555,6 +5571,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 460709,
+      "num": 460709,
+      "word": "田耕纪首播反响",
+      "onboard_time": 1697287957,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 460435,
       "num": 460435,
       "word": "官方通报家长不参与自愿研学被踢出群",
@@ -5865,6 +5889,14 @@
       "onboard_time": 1696994134,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 444464,
+      "num": 366008,
+      "word": "王毅同布林肯通话",
+      "onboard_time": 1697287716,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 443716,
@@ -6227,6 +6259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415976,
+      "num": 338427,
+      "word": "巴以冲突记者手机APP警报响个不停",
+      "onboard_time": 1697287175,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 415510,
       "num": 415510,
       "word": "王栎鑫把陈楚生说哭了",
@@ -6553,6 +6593,14 @@
       "onboard_time": 1696902511,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393442,
+      "num": 393442,
+      "word": "莎头组合神同步瞬间",
+      "onboard_time": 1697288194,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 392575,
@@ -8259,14 +8307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 320018,
-      "num": 320018,
-      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
-      "onboard_time": 1697285852,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 319867,
       "num": 319867,
       "word": "白鹿抵达昆明录制跑男",
@@ -8633,6 +8673,14 @@
       "onboard_time": 1697122837,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304994,
+      "num": 287178,
+      "word": "薛之谦宋茜互动好搞笑",
+      "onboard_time": 1697288795,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 304618,
@@ -11043,6 +11091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243128,
+      "num": 193061,
+      "word": "湖南一技师学院一名女生宿舍内死亡",
+      "onboard_time": 1697289094,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242850,
       "num": 242850,
       "word": "特工任务结局",
@@ -11329,6 +11385,14 @@
       "onboard_time": 1697027196,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237703,
+      "num": 237703,
+      "word": "一个月养好脾胃",
+      "onboard_time": 1697284173,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 237560,
@@ -12651,6 +12715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 211982,
+      "num": 211982,
+      "word": "山东男孩于文亮回应走红",
+      "onboard_time": 1697288315,
+      "rank": 27,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 211430,
       "num": 211430,
       "word": "谭松韵的眼泪像断线的珍珠",
@@ -12889,14 +12961,6 @@
       "onboard_time": 1697081076,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 208139,
-      "num": 208139,
-      "word": "一个月养好脾胃",
-      "onboard_time": 1697284173,
-      "rank": 27,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 208121,
@@ -14131,6 +14195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194376,
+      "num": 194376,
+      "word": "张凌赫 hi6",
+      "onboard_time": 1697289155,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194271,
       "num": 193145,
       "word": "哈马斯否认其武装人员袭击儿童",
@@ -14265,6 +14337,14 @@
       "onboard_time": 1697286395,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192994,
+      "num": 192994,
+      "word": "小奶狗火场被救跟着消防员不肯走",
+      "onboard_time": 1697288373,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192939,
@@ -14601,6 +14681,14 @@
       "onboard_time": 1696851694,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188928,
+      "num": 188928,
+      "word": "辛芷蕾庆余年2杀青",
+      "onboard_time": 1697287774,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 188927,
@@ -15457,6 +15545,14 @@
       "onboard_time": 1697275713,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177586,
+      "num": 177586,
+      "word": "诸葛亮看着评论区陷入沉思",
+      "onboard_time": 1697288013,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 177557,
@@ -16809,14 +16905,6 @@
       "onboard_time": 1696929933,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 155777,
-      "num": 155777,
-      "word": "巴以冲突记者手机APP警报响个不停",
-      "onboard_time": 1697287175,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 155734,
@@ -19473,6 +19561,14 @@
       "onboard_time": 1697028578,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36244,
+      "num": 122113,
+      "word": "一带一路有你有我",
+      "onboard_time": 1697287774,
+      "rank": 47,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 36123,
