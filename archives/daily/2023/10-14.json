@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697260516311,
+  "endTime": 1697261653914,
   "band_list": [
     {
       "raw_hot": 1749540,
@@ -99,11 +99,27 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1047662,
+      "num": 1047662,
+      "word": "曝知名媒体人段暄失联",
+      "onboard_time": 1697257770,
+      "rank": 40,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1045983,
       "num": 1045983,
       "word": "国考岗位",
       "onboard_time": 1697250934,
       "rank": 3,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 1020266,
+      "num": 1020266,
+      "word": "国家公务员局对考生发布提醒",
+      "onboard_time": 1697255371,
+      "rank": 11,
       "category": "教育"
     },
     {
@@ -113,22 +129,6 @@
       "onboard_time": 1697240065,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 996117,
-      "num": 996117,
-      "word": "国家公务员局对考生发布提醒",
-      "onboard_time": 1697255371,
-      "rank": 11,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 903458,
-      "num": 903458,
-      "word": "曝知名媒体人段暄失联",
-      "onboard_time": 1697257770,
-      "rank": 40,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 850385,
@@ -307,12 +307,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 476528,
+      "num": 285345,
+      "word": "医生提醒年轻人千万不要再熬夜了",
+      "onboard_time": 1697257712,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 472580,
       "num": 472580,
       "word": "国产烂片营销为何堪比诈骗",
       "onboard_time": 1697256152,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 467058,
+      "num": 467058,
+      "word": "所以不要和陌生人说话才会成为经典",
+      "onboard_time": 1697259093,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 460435,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 444895,
-      "num": 280013,
+      "num": 282203,
       "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
       "onboard_time": 1697244153,
       "rank": 23,
@@ -361,6 +377,14 @@
       "onboard_time": 1697228774,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 407938,
+      "num": 407938,
+      "word": "武大被骚扰当事人回应肖某某记过",
+      "onboard_time": 1697261311,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 407823,
@@ -411,14 +435,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 361934,
-      "num": 276739,
-      "word": "医生提醒年轻人千万不要再熬夜了",
-      "onboard_time": 1697257712,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 358050,
       "num": 265946,
       "word": "大一和大四一眼就能认出来",
@@ -449,6 +465,14 @@
       "onboard_time": 1697243613,
       "rank": 8,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 346206,
+      "num": 346206,
+      "word": "勇士战胜湖人",
+      "onboard_time": 1697260652,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 333807,
@@ -531,6 +555,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 296098,
+      "num": 296098,
+      "word": "香港翻拍的社内相亲",
+      "onboard_time": 1697260291,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294818,
       "num": 294818,
       "word": "戴了假发的井胧井迪",
@@ -579,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 271840,
-      "num": 271840,
-      "word": "香港翻拍的社内相亲",
-      "onboard_time": 1697260291,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 270537,
       "num": 270537,
       "word": "问心女孩穿婚纱虐麻了",
@@ -627,6 +651,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 256317,
+      "num": 256317,
+      "word": "胡兵淘汰",
+      "onboard_time": 1697261311,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249927,
       "num": 249927,
       "word": "秀智素颜状态",
@@ -657,14 +689,6 @@
       "onboard_time": 1697190514,
       "rank": 21,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 235901,
-      "num": 235901,
-      "word": "所以不要和陌生人说话才会成为经典",
-      "onboard_time": 1697259093,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 235700,
@@ -705,6 +729,14 @@
       "onboard_time": 1697251352,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 220752,
+      "num": 220752,
+      "word": "余华 是情绪而不是人生进入了死胡同",
+      "onboard_time": 1697259992,
+      "rank": 36,
+      "category": "读书作家"
     },
     {
       "raw_hot": 212760,
@@ -753,6 +785,14 @@
       "onboard_time": 1697253570,
       "rank": 25,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 205448,
+      "num": 205448,
+      "word": "想听的脱口秀大会在复旦",
+      "onboard_time": 1697260833,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 202353,
@@ -808,6 +848,14 @@
       "word": "大闸蟹入侵英国多地",
       "onboard_time": 1697202276,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191063,
+      "num": 191063,
+      "word": "幼儿园为兔子办婚礼请小朋友吃大席",
+      "onboard_time": 1697261372,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -889,14 +937,6 @@
       "onboard_time": 1697249794,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 168047,
-      "num": 168047,
-      "word": "余华 是情绪而不是人生进入了死胡同",
-      "onboard_time": 1697259992,
-      "rank": 36,
-      "category": "读书作家"
     },
     {
       "raw_hot": 166608,
@@ -1467,8 +1507,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 24350,
-      "num": 944741,
+      "raw_hot": 24791,
+      "num": 1025064,
       "word": "共建一带一路十周年",
       "onboard_time": 1697258672,
       "rank": 2,

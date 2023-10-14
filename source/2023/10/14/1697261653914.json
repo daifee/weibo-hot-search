@@ -1,0 +1,410 @@
+{
+  "runTime": 1697261653914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1139697,
+        "num": 1139697,
+        "word": "水溶C100怎么就成了神水",
+        "onboard_time": 1697246612,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1047662,
+        "num": 1047662,
+        "word": "曝知名媒体人段暄失联",
+        "onboard_time": 1697257770,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 24791,
+        "num": 1025064,
+        "word": "共建一带一路十周年",
+        "onboard_time": 1697258672,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1020266,
+        "num": 1020266,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 686221,
+        "num": 686221,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 684228,
+        "num": 684228,
+        "word": "佛山电翰",
+        "onboard_time": 1697248593,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 507828,
+        "num": 507828,
+        "word": "徐冬冬被压10年的剧播了",
+        "onboard_time": 1697243312,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 467058,
+        "num": 467058,
+        "word": "所以不要和陌生人说话才会成为经典",
+        "onboard_time": 1697259093,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 449564,
+        "num": 449564,
+        "word": "国产烂片营销为何堪比诈骗",
+        "onboard_time": 1697256152,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 431463,
+        "num": 431463,
+        "word": "以色列将对巴勒斯坦加大攻势",
+        "onboard_time": 1697248712,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 422771,
+        "num": 422771,
+        "word": "国考岗位",
+        "onboard_time": 1697250934,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 411919,
+        "num": 411919,
+        "word": "山东超半数乡镇公务员想离职",
+        "onboard_time": 1697252853,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407938,
+        "num": 407938,
+        "word": "武大被骚扰当事人回应肖某某记过",
+        "onboard_time": 1697261311,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375173,
+        "num": 375173,
+        "word": "考研二战的学姐消失在朋友圈",
+        "onboard_time": 1697240426,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 372658,
+        "num": 372658,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 346206,
+        "num": 346206,
+        "word": "勇士战胜湖人",
+        "onboard_time": 1697260652,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 339849,
+        "num": 339849,
+        "word": "现在流行男主不是官配吗",
+        "onboard_time": 1697252673,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303925,
+        "num": 303925,
+        "word": "逆战 咏春",
+        "onboard_time": 1697259152,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303322,
+        "num": 303322,
+        "word": "孙海洋向寻亲家长道歉",
+        "onboard_time": 1697246850,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296098,
+        "num": 296098,
+        "word": "香港翻拍的社内相亲",
+        "onboard_time": 1697260291,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 943755,
+        "num": 290534,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 476528,
+        "num": 285345,
+        "word": "医生提醒年轻人千万不要再熬夜了",
+        "onboard_time": 1697257712,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307465,
+        "num": 282203,
+        "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
+        "onboard_time": 1697244153,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267852,
+        "num": 267852,
+        "word": "周杰伦演唱会偶遇张雨绮",
+        "onboard_time": 1697248533,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 256317,
+        "num": 256317,
+        "word": "胡兵淘汰",
+        "onboard_time": 1697261311,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253436,
+        "num": 253436,
+        "word": "福岛小学门口辐射值超标10倍",
+        "onboard_time": 1697248652,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245946,
+        "num": 245946,
+        "word": "电子竞技不相信女性",
+        "onboard_time": 1697246793,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 235800,
+        "num": 235800,
+        "word": "披荆斩棘四公",
+        "onboard_time": 1697258733,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232859,
+        "num": 232859,
+        "word": "英男子性侵13岁女童判无罪释放后大笑",
+        "onboard_time": 1697240065,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221077,
+        "num": 221077,
+        "word": "我爸给自己买了乳贴",
+        "onboard_time": 1697251171,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220752,
+        "num": 220752,
+        "word": "余华 是情绪而不是人生进入了死胡同",
+        "onboard_time": 1697259992,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 205448,
+        "num": 205448,
+        "word": "想听的脱口秀大会在复旦",
+        "onboard_time": 1697260833,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204332,
+        "num": 204332,
+        "word": "如何查看身份证注册了几个微信",
+        "onboard_time": 1697258312,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197760,
+        "num": 197760,
+        "word": "女生壮成这样出门有多爽",
+        "onboard_time": 1697255310,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191063,
+        "num": 191063,
+        "word": "幼儿园为兔子办婚礼请小朋友吃大席",
+        "onboard_time": 1697261372,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184722,
+        "num": 184722,
+        "word": "国考公告",
+        "onboard_time": 1697246073,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 183311,
+        "num": 183311,
+        "word": "女子每天背128斤丈夫上下3楼",
+        "onboard_time": 1697251772,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183309,
+        "num": 183309,
+        "word": "2024国考计划招录3.96万人",
+        "onboard_time": 1697249492,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154876,
+        "num": 154876,
+        "word": "杀猪盘短信已然沦为网友发疯工具",
+        "onboard_time": 1697248292,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 152447,
+        "num": 152447,
+        "word": "为有暗香来",
+        "onboard_time": 1697256392,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150464,
+        "num": 150464,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697241331,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 148467,
+        "num": 148467,
+        "word": "张凌赫早八状态",
+        "onboard_time": 1697256270,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148073,
+        "num": 148073,
+        "word": "段暄",
+        "onboard_time": 1697254651,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142807,
+        "num": 142807,
+        "word": "计算机毕业生做环卫工人是什么体验",
+        "onboard_time": 1697256810,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137984,
+        "num": 137984,
+        "word": "为什么胰腺癌一发现就是晚期",
+        "onboard_time": 1697246913,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 137223,
+        "num": 137223,
+        "word": "卢昱晓有在努力纠正走姿了",
+        "onboard_time": 1697242770,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122219,
+        "num": 122219,
+        "word": "大一和大四一眼就能认出来",
+        "onboard_time": 1697245292,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111919,
+        "num": 111919,
+        "word": "十月待播新剧前瞻",
+        "onboard_time": 1697257409,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108094,
+        "num": 108094,
+        "word": "檀健次 丽江",
+        "onboard_time": 1697243428,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107621,
+        "num": 107621,
+        "word": "朱一龙听到两代人瞳孔地震",
+        "onboard_time": 1697254170,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到的固本兴新有何深意#"
+    }
+  }
+}
