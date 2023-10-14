@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697253436723,
+  "endTime": 1697254453044,
   "band_list": [
     {
       "raw_hot": 1749540,
@@ -27,6 +27,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1407269,
+      "num": 1407269,
+      "word": "杨迪把吴昕拉黑了",
+      "onboard_time": 1697244391,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1383869,
       "num": 1383869,
       "word": "杨威自曝要终身佩戴呼吸机",
@@ -35,12 +43,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1252083,
-      "num": 1252083,
-      "word": "杨迪把吴昕拉黑了",
-      "onboard_time": 1697244391,
-      "rank": 21,
-      "category": "综艺"
+      "raw_hot": 1232737,
+      "num": 596678,
+      "word": "佛山电翰",
+      "onboard_time": 1697248593,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 1214847,
@@ -49,14 +57,6 @@
       "onboard_time": 1697241331,
       "rank": 10,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1214729,
-      "num": 596678,
-      "word": "佛山电翰",
-      "onboard_time": 1697248593,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 1209353,
@@ -147,6 +147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 769761,
+      "num": 769761,
+      "word": "我爸给自己买了乳贴",
+      "onboard_time": 1697251171,
+      "rank": 5,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 760137,
       "num": 725715,
       "word": "以色列在加沙地带附近集结坦克",
@@ -163,12 +171,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 722725,
-      "num": 722725,
-      "word": "我爸给自己买了乳贴",
-      "onboard_time": 1697251171,
-      "rank": 5,
-      "category": "幽默"
+      "raw_hot": 655433,
+      "num": 655433,
+      "word": "周也 名门贵女",
+      "onboard_time": 1697247872,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 650697,
@@ -177,14 +185,6 @@
       "onboard_time": 1697248652,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643095,
-      "num": 643095,
-      "word": "周也 名门贵女",
-      "onboard_time": 1697247872,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 619428,
@@ -355,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 371808,
+      "num": 371808,
+      "word": "杀猪盘短信已然沦为网友发疯工具",
+      "onboard_time": 1697248292,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358050,
       "num": 265946,
       "word": "大一和大四一眼就能认出来",
@@ -387,12 +395,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333098,
+      "num": 333098,
+      "word": "山东超半数乡镇公务员想离职",
+      "onboard_time": 1697252853,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 324862,
       "num": 324862,
       "word": "看offer知道发邮件的礼仪点",
       "onboard_time": 1697209360,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312580,
+      "num": 312580,
+      "word": "现在流行男主不是官配吗",
+      "onboard_time": 1697252673,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 310952,
@@ -417,14 +441,6 @@
       "onboard_time": 1697211813,
       "rank": 16,
       "category": "美食"
-    },
-    {
-      "raw_hot": 299259,
-      "num": 299259,
-      "word": "杀猪盘短信已然沦为网友发疯工具",
-      "onboard_time": 1697248292,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 297380,
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 294425,
+      "num": 294425,
+      "word": "大牙 我浪费了好多擦泪的时间",
+      "onboard_time": 1697252192,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289651,
       "num": 289651,
       "word": "孙卓母亲驳人贩庭上曾出资养娃言论",
@@ -473,14 +497,6 @@
       "onboard_time": 1697248172,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 283824,
-      "num": 283824,
-      "word": "大牙 我浪费了好多擦泪的时间",
-      "onboard_time": 1697252192,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 273997,
@@ -611,6 +627,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 205608,
+      "num": 205608,
+      "word": "给鸟中大熊猫筑巢是什么体验",
+      "onboard_time": 1697253570,
+      "rank": 25,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 200824,
       "num": 200824,
       "word": "伊能静真的好懂女生",
@@ -619,20 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197031,
-      "num": 197031,
-      "word": "现在流行男主不是官配吗",
-      "onboard_time": 1697252673,
-      "rank": 32,
-      "category": "剧集"
+      "raw_hot": 200211,
+      "num": 200211,
+      "word": "张踩铃说自己视频里真的没夸张",
+      "onboard_time": 1697253872,
+      "rank": 28,
+      "category": "综艺"
     },
     {
-      "raw_hot": 197024,
-      "num": 197024,
-      "word": "山东超半数乡镇公务员想离职",
-      "onboard_time": 1697252853,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 196175,
+      "num": 196175,
+      "word": "田耕纪今晚开播",
+      "onboard_time": 1697253631,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 194731,
@@ -659,6 +683,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 185834,
+      "num": 185834,
+      "word": "陆毅质疑理解接受粉色",
+      "onboard_time": 1697254170,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183075,
       "num": 183075,
       "word": "张云雷挑战佛山电翰甩手",
@@ -673,6 +705,14 @@
       "onboard_time": 1697241809,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181819,
+      "num": 181819,
+      "word": "朱一龙听到两代人瞳孔地震",
+      "onboard_time": 1697254170,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 177048,
@@ -723,20 +763,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166608,
+      "num": 166608,
+      "word": "杨九郎说和唐九洲是一个单位的",
+      "onboard_time": 1697251171,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165875,
       "num": 144480,
       "word": "没想到这居然是正品香奈儿",
       "onboard_time": 1697205635,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 163362,
-      "num": 163362,
-      "word": "杨九郎说和唐九洲是一个单位的",
-      "onboard_time": 1697251171,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 162919,
@@ -899,6 +939,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 132534,
+      "num": 132534,
+      "word": "gidle唱了不再犹豫",
+      "onboard_time": 1697252374,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 131714,
       "num": 131714,
       "word": "猫咪误把零食当成了猫条",
@@ -931,6 +979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128288,
+      "num": 128288,
+      "word": "7旬老人小学门口义务执勤10余年",
+      "onboard_time": 1697253993,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124366,
       "num": 124366,
       "word": "武大通报学生举报图书馆被骚扰",
@@ -953,14 +1009,6 @@
       "onboard_time": 1697215526,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 123429,
-      "num": 123429,
-      "word": "gidle唱了不再犹豫",
-      "onboard_time": 1697252374,
-      "rank": 49,
-      "category": "演出"
     },
     {
       "raw_hot": 122752,
@@ -1263,6 +1311,9 @@
     },
     {
       "word": "#把青春华章写在祖国大地上#"
+    },
+    {
+      "word": "#总书记提到的固本兴新有何深意#"
     }
   ]
 }

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 11:17:16
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 11:34:13
 </p>
 </blockquote>
 <p>
@@ -2085,6 +2085,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%8A%8A%E5%90%B4%E6%98%95%E6%8B%89%E9%BB%91%E4%BA%86%23" target="weibo">
+杨迪把吴昕拉黑了（热度：1407269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E5%AE%B6%E5%8D%B0%23" target="weibo">
 许家印（热度：1402353）
 </a>
@@ -2445,12 +2451,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%8A%8A%E5%90%B4%E6%98%95%E6%8B%89%E9%BB%91%E4%BA%86%23" target="weibo">
-杨迪把吴昕拉黑了（热度：1252083）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%23" target="weibo">
 封神（热度：1246600）
 </a>
@@ -2489,6 +2489,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AF%AE%E4%B8%80%E5%88%86%E4%B9%8B%E5%B7%AE%E8%BE%93%E4%BA%86%23" target="weibo">
 男篮一分之差输了（热度：1234452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%23" target="weibo">
+佛山电翰（热度：1232737）
 </a>
 </li>
 
@@ -2555,12 +2561,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A4%BE%E6%AD%BB%E5%BC%8F%E5%94%B1%E4%BD%95%E5%BF%85%23" target="weibo">
 于文文在海底捞社死式唱何必（热度：1216152）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%23" target="weibo">
-佛山电翰（热度：1214729）
 </a>
 </li>
 
@@ -4629,6 +4629,12 @@ Jennie巴黎时装周（热度：789463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B9%B0%E4%BA%86%E4%B9%B3%E8%B4%B4%23" target="weibo">
+我爸给自己买了乳贴（热度：769761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E6%9C%89%E4%B8%89%E4%B8%AA%E5%91%A8%E4%B8%80%23" target="weibo">
 本周有三个周一（热度：769543）
 </a>
@@ -4997,12 +5003,6 @@ VOGUE评选巴黎时装周最时尚明星（热度：731565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B16%E5%8F%B7%E4%BA%86%23" target="weibo">
 怎么就6号了（热度：723855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B9%B0%E4%BA%86%E4%B9%B3%E8%B4%B4%23" target="weibo">
-我爸给自己买了乳贴（热度：722725）
 </a>
 </li>
 
@@ -5679,6 +5679,12 @@ TXT回归（热度：661061）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%20%E5%90%8D%E9%97%A8%E8%B4%B5%E5%A5%B3%23" target="weibo">
+周也 名门贵女（热度：655433）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%A7%B0%E6%97%A0%E6%B3%95%E5%92%8C%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%81%9A%E6%AF%94%E8%BE%83%23" target="weibo">
 苏炳添称无法和谢震业做比较（热度：654707）
 </a>
@@ -5813,12 +5819,6 @@ Yamy郭颖签约少城时代（热度：649832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%BD%91%E6%B0%91%E5%8F%AB%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9D%A1%E5%8E%BF%E5%BC%95%E5%8F%91%E4%BA%89%E8%AE%AE%23" target="weibo">
 中国网民叫新加坡坡县引发争议（热度：643569）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%B9%9F%20%E5%90%8D%E9%97%A8%E8%B4%B5%E5%A5%B3%23" target="weibo">
-周也 名门贵女（热度：643095）
 </a>
 </li>
 
@@ -6287,6 +6287,12 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E6%8A%8A%E9%9D%92%E6%98%A5%E5%8D%8E%E7%AB%A0%E5%86%99%E5%9C%A8%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%8A%23%23" target="weibo">
 #把青春华章写在祖国大地上#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E6%80%BB%E4%B9%A6%E8%AE%B0%E6%8F%90%E5%88%B0%E7%9A%84%E5%9B%BA%E6%9C%AC%E5%85%B4%E6%96%B0%E6%9C%89%E4%BD%95%E6%B7%B1%E6%84%8F%23%23" target="weibo">
+#总书记提到的固本兴新有何深意#
 </a>
 </li>
 
