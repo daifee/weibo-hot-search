@@ -1,6 +1,6 @@
 {
   "startTime": 1696695605146,
-  "endTime": 1697282009978,
+  "endTime": 1697283247596,
   "band_list": [
     {
       "raw_hot": 15586528,
@@ -3939,6 +3939,14 @@
       "category": "游戏,艺人"
     },
     {
+      "raw_hot": 597174,
+      "num": 597174,
+      "word": "原来鞋底磨损不均是正常的",
+      "onboard_time": 1697281112,
+      "rank": 14,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 595324,
       "num": 595324,
       "word": "2岁宝宝独自在家把自己照顾得很好",
@@ -5185,6 +5193,14 @@
       "onboard_time": 1696981412,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 479864,
+      "num": 479864,
+      "word": "炸糖糕",
+      "onboard_time": 1697281651,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 479522,
@@ -7748,7 +7764,7 @@
     },
     {
       "raw_hot": 336022,
-      "num": 900087,
+      "num": 1090314,
       "word": "二哈迷路住进警局变成反诈汪",
       "onboard_time": 1697279492,
       "rank": 21,
@@ -8025,6 +8041,14 @@
       "onboard_time": 1697256270,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 324707,
+      "num": 216785,
+      "word": "田耕纪",
+      "onboard_time": 1697079994,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 324704,
@@ -8889,14 +8913,6 @@
       "onboard_time": 1697177200,
       "rank": 30,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 294962,
-      "num": 294962,
-      "word": "原来鞋底磨损不均是正常的",
-      "onboard_time": 1697281112,
-      "rank": 14,
-      "category": "知识科普"
     },
     {
       "raw_hot": 294737,
@@ -12229,14 +12245,6 @@
     {
       "raw_hot": 216785,
       "num": 216785,
-      "word": "田耕纪",
-      "onboard_time": 1697079994,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 216785,
-      "num": 216785,
       "word": "爷爷忙着掰玉米狗狗赖在怀里撒娇",
       "onboard_time": 1697089054,
       "rank": 28,
@@ -13201,6 +13209,14 @@
       "onboard_time": 1697158658,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203343,
+      "num": 167043,
+      "word": "这瓶子摆成了城",
+      "onboard_time": 1697282852,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 203256,
@@ -15723,6 +15739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 170512,
+      "num": 170512,
+      "word": "樊振东反手鞭打",
+      "onboard_time": 1697282673,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170488,
       "num": 170488,
       "word": "奶奶抢救苏醒后9旬爷爷深情表白",
@@ -17475,6 +17499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133695,
+      "num": 133695,
+      "word": "佛山电翰爆火后回应",
+      "onboard_time": 1697283093,
+      "rank": 37,
+      "category": "网红"
+    },
+    {
       "raw_hot": 133469,
       "num": 133469,
       "word": "马龙vs梁靖崑",
@@ -17536,6 +17568,14 @@
       "word": "白敬亭手机里的自拍",
       "onboard_time": 1696782389,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132359,
+      "num": 132359,
+      "word": "你好星期六",
+      "onboard_time": 1697282972,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -17649,14 +17689,6 @@
       "onboard_time": 1696768178,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129370,
-      "num": 129370,
-      "word": "炸糖糕",
-      "onboard_time": 1697281651,
-      "rank": 38,
-      "category": "美食"
     },
     {
       "raw_hot": 129198,
@@ -17969,6 +18001,14 @@
       "onboard_time": 1696901071,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 120801,
+      "num": 120801,
+      "word": "薛之谦天津演唱会",
+      "onboard_time": 1697283211,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 120638,
@@ -18392,6 +18432,14 @@
       "word": "小棉袄偷亲睡着的消防员爸爸",
       "onboard_time": 1696893025,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99090,
+      "num": 99090,
+      "word": "老人骑车摔倒路过司机暖心上前帮忙",
+      "onboard_time": 1697282612,
+      "rank": 47,
       "category": "社会新闻"
     },
     {

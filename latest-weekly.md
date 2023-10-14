@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 19:13:29
+本榜单时间：2023/10/08 00:20:05 ~ 2023/10/14 19:34:07
 </p>
 </blockquote>
 <p>
@@ -2967,6 +2967,12 @@ seventeen（热度：598221）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9E%8B%E5%BA%95%E7%A3%A8%E6%8D%9F%E4%B8%8D%E5%9D%87%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%23" target="weibo">
+原来鞋底磨损不均是正常的（热度：597174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E5%AE%9D%E5%AE%9D%E7%8B%AC%E8%87%AA%E5%9C%A8%E5%AE%B6%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%85%A7%E9%A1%BE%E5%BE%97%E5%BE%88%E5%A5%BD%23" target="weibo">
 2岁宝宝独自在家把自己照顾得很好（热度：595324）
 </a>
@@ -3899,6 +3905,12 @@ B太 国内外眉笔再测重算单价（热度：487092）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E6%98%8E%E6%A0%91%E6%9D%8E%E5%85%B5%E6%9D%8E%E8%8D%A3%E5%BC%BA%E5%90%8C%E5%BF%97%E8%A2%AB%E8%AF%84%E5%AE%9A%E4%B8%BA%E7%83%88%E5%A3%AB%23" target="weibo">
 何明树李兵李荣强同志被评定为烈士（热度：480484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E7%B3%96%E7%B3%95%23" target="weibo">
+炸糖糕（热度：479864）
 </a>
 </li>
 
@@ -6033,6 +6045,12 @@ iOS17.1将修复iPhone12辐射问题（热度：327036）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%23" target="weibo">
+田耕纪（热度：324707）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9C%BA%E5%A4%96%E6%B0%9B%E5%9B%B4%23" target="weibo">
 周杰伦上海演唱会场外氛围（热度：324704）
 </a>
@@ -6677,12 +6695,6 @@ aespa黑裙造型（热度：297978）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%8D%AB%E8%A1%A3%E6%89%8D%E7%AE%97%E5%8D%AB%E8%A1%A3%23" target="weibo">
 什么样的卫衣才算卫衣（热度：295039）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9E%8B%E5%BA%95%E7%A3%A8%E6%8D%9F%E4%B8%8D%E5%9D%87%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%23" target="weibo">
-原来鞋底磨损不均是正常的（热度：294962）
 </a>
 </li>
 
@@ -9183,12 +9195,6 @@ WTT法兰克福冠军赛2023（热度：217263）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%23" target="weibo">
-田耕纪（热度：216785）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B7%E7%88%B7%E5%BF%99%E7%9D%80%E6%8E%B0%E7%8E%89%E7%B1%B3%E7%8B%97%E7%8B%97%E8%B5%96%E5%9C%A8%E6%80%80%E9%87%8C%E6%92%92%E5%A8%87%23" target="weibo">
 爷爷忙着掰玉米狗狗赖在怀里撒娇（热度：216785）
 </a>
@@ -9911,6 +9917,12 @@ IVE小学生统领（热度：203600）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E6%99%92%E5%A5%94%E8%B7%91%E5%90%A7%E5%90%8D%E7%89%8C%23" target="weibo">
 张真源晒奔跑吧名牌（热度：203576）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%93%B6%E5%AD%90%E6%91%86%E6%88%90%E4%BA%86%E5%9F%8E%23" target="weibo">
+这瓶子摆成了城（热度：203343）
 </a>
 </li>
 
@@ -11805,6 +11817,12 @@ SEVENTEEN预告照（热度：170717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%8D%E6%89%8B%E9%9E%AD%E6%89%93%23" target="weibo">
+樊振东反手鞭打（热度：170512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E6%8A%A2%E6%95%91%E8%8B%8F%E9%86%92%E5%90%8E9%E6%97%AC%E7%88%B7%E7%88%B7%E6%B7%B1%E6%83%85%E8%A1%A8%E7%99%BD%23" target="weibo">
 奶奶抢救苏醒后9旬爷爷深情表白（热度：170488）
 </a>
@@ -13119,6 +13137,12 @@ TheShy和Rascal同框（热度：133914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E7%88%86%E7%81%AB%E5%90%8E%E5%9B%9E%E5%BA%94%23" target="weibo">
+佛山电翰爆火后回应（热度：133695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99vs%E6%A2%81%E9%9D%96%E5%B4%91%23" target="weibo">
 马龙vs梁靖崑（热度：133469）
 </a>
@@ -13163,6 +13187,12 @@ gidle唱了不再犹豫（热度：132534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E6%89%8B%E6%9C%BA%E9%87%8C%E7%9A%84%E8%87%AA%E6%8B%8D%23" target="weibo">
 白敬亭手机里的自拍（热度：132521）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
+你好星期六（热度：132359）
 </a>
 </li>
 
@@ -13247,12 +13277,6 @@ XHW有点东西（热度：129606）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2330%E5%B9%B4%E5%89%8D%E7%99%BB%E4%B8%8A%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E7%9A%84%E5%A5%B3%E5%AD%A9%E7%BB%AD%E5%86%99%E5%9C%86%E6%A2%A6%E6%95%85%E4%BA%8B%23" target="weibo">
 30年前登上人民日报的女孩续写圆梦故事（热度：129445）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E7%B3%96%E7%B3%95%23" target="weibo">
-炸糖糕（热度：129370）
 </a>
 </li>
 
@@ -13487,6 +13511,12 @@ BDS晋级S13入围赛（热度：121285）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%81%9A%E4%BA%9A%E6%B4%B2%E4%B9%8B%E5%8A%9B%E7%AD%91%E6%9C%AA%E6%9D%A5%E4%B9%8B%E8%B7%AF%23" target="weibo">
 聚亚洲之力筑未来之路（热度：120993）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+薛之谦天津演唱会（热度：120801）
 </a>
 </li>
 
@@ -13805,6 +13835,12 @@ enhypen饭撒（热度：103559）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%A3%89%E8%A2%84%E5%81%B7%E4%BA%B2%E7%9D%A1%E7%9D%80%E7%9A%84%E6%B6%88%E9%98%B2%E5%91%98%E7%88%B8%E7%88%B8%23" target="weibo">
 小棉袄偷亲睡着的消防员爸爸（热度：99494）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AA%91%E8%BD%A6%E6%91%94%E5%80%92%E8%B7%AF%E8%BF%87%E5%8F%B8%E6%9C%BA%E6%9A%96%E5%BF%83%E4%B8%8A%E5%89%8D%E5%B8%AE%E5%BF%99%23" target="weibo">
+老人骑车摔倒路过司机暖心上前帮忙（热度：99090）
 </a>
 </li>
 

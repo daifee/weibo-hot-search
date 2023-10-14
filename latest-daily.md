@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/14 00:21:56 ~ 2023/10/14 19:13:29
+本榜单时间：2023/10/14 00:21:56 ~ 2023/10/14 19:34:07
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ BBC记者在加沙报道时哭泣（热度：600727）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9E%8B%E5%BA%95%E7%A3%A8%E6%8D%9F%E4%B8%8D%E5%9D%87%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%23" target="weibo">
+原来鞋底磨损不均是正常的（热度：597174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%BC%A0%E4%BC%9F%E4%BB%A5%E4%B8%BA%E6%9E%97%E5%AD%90%E7%A5%A5%E5%8F%B6%E8%92%A8%E6%96%87%E5%8F%AA%E6%98%AF%E5%95%86%E4%B8%9A%E4%BC%99%E4%BC%B4%23" target="weibo">
 大张伟以为林子祥叶蒨文只是商业伙伴（热度：593849）
 </a>
@@ -371,6 +377,12 @@ BBC记者被以色列警察持枪威胁（热度：562178）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%976%E5%A4%A9%E6%8A%956000%E6%9E%9A%E7%82%B8%E5%BC%B9%23" target="weibo">
 以色列6天投6000枚炸弹（热度：497905）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E7%B3%96%E7%B3%95%23" target="weibo">
+炸糖糕（热度：479864）
 </a>
 </li>
 
@@ -597,6 +609,12 @@ XHW战胜WB（热度：408455）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%8A%E6%B5%B7%23" target="weibo">
+周杰伦上海（热度：331198）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E6%97%A9%E5%85%AB%E7%8A%B6%E6%80%81%23" target="weibo">
 张凌赫早八状态（热度：325111）
 </a>
@@ -605,6 +623,12 @@ XHW战胜WB（热度：408455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%8Boffer%E7%9F%A5%E9%81%93%E5%8F%91%E9%82%AE%E4%BB%B6%E7%9A%84%E7%A4%BC%E4%BB%AA%E7%82%B9%23" target="weibo">
 看offer知道发邮件的礼仪点（热度：324862）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%23" target="weibo">
+田耕纪（热度：324707）
 </a>
 </li>
 
@@ -683,12 +707,6 @@ XHW战胜WB（热度：408455）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E5%A5%B6%E5%87%BA%E6%AE%A1%E5%89%8D%E4%B8%80%E5%A4%A9%23" target="weibo">
 奶奶出殡前一天（热度：295551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E9%9E%8B%E5%BA%95%E7%A3%A8%E6%8D%9F%E4%B8%8D%E5%9D%87%E6%98%AF%E6%AD%A3%E5%B8%B8%E7%9A%84%23" target="weibo">
-原来鞋底磨损不均是正常的（热度：294962）
 </a>
 </li>
 
@@ -963,6 +981,12 @@ XHW对战WB（热度：284813）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E7%93%B6%E5%AD%90%E6%91%86%E6%88%90%E4%BA%86%E5%9F%8E%23" target="weibo">
+这瓶子摆成了城（热度：203343）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%23" target="weibo">
 为有暗香来（热度：202353）
 </a>
@@ -1175,6 +1199,12 @@ IVE新歌eitherway成绩（热度：199801）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E9%99%A2%E7%BB%99%E5%87%BA%E7%9A%84%E6%AD%A3%E5%B8%B8%E4%BD%93%E9%87%8D%E8%8C%83%E5%9B%B4%23" target="weibo">
 医院给出的正常体重范围（热度：171399）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%8F%8D%E6%89%8B%E9%9E%AD%E6%89%93%23" target="weibo">
+樊振东反手鞭打（热度：170512）
 </a>
 </li>
 
@@ -1455,6 +1485,12 @@ TheShy和Rascal同框（热度：133914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%9B%E5%B1%B1%E7%94%B5%E7%BF%B0%E7%88%86%E7%81%AB%E5%90%8E%E5%9B%9E%E5%BA%94%23" target="weibo">
+佛山电翰爆火后回应（热度：133695）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%8C%9C%E6%B2%A1%E6%9C%89%E4%B8%80%E4%B8%AA%E5%B9%BF%E4%B8%9C%E4%BA%BA%E8%83%BD%E8%AF%BB%E5%AF%B9%23" target="weibo">
 我猜没有一个广东人能读对（热度：133550）
 </a>
@@ -1469,6 +1505,12 @@ TheShy和Rascal同框（热度：133914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23gidle%E5%94%B1%E4%BA%86%E4%B8%8D%E5%86%8D%E7%8A%B9%E8%B1%AB%23" target="weibo">
 gidle唱了不再犹豫（热度：132534）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A5%BD%E6%98%9F%E6%9C%9F%E5%85%AD%23" target="weibo">
+你好星期六（热度：132359）
 </a>
 </li>
 
@@ -1493,12 +1535,6 @@ Baddie Challenge 姜敏熙宋亨俊（热度：130849）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23XHW%E6%9C%89%E7%82%B9%E4%B8%9C%E8%A5%BF%23" target="weibo">
 XHW有点东西（热度：129606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%B8%E7%B3%96%E7%B3%95%23" target="weibo">
-炸糖糕（热度：129370）
 </a>
 </li>
 
@@ -1599,6 +1635,12 @@ CharliePuth上海演唱会（热度：126622）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+薛之谦天津演唱会（热度：120801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E8%AE%B0%E8%80%85%E5%9C%A8%E5%9C%BA%E6%97%B6%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%23" target="weibo">
 没有记者在场时的全红婵（热度：120638）
 </a>
@@ -1685,6 +1727,12 @@ BetterThings Treasure舞蹈挑战（热度：104998）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%BD%E5%8E%82%E8%80%81%E6%9D%BF6%E5%B9%B4%E6%8B%9B%E5%B7%A560%E5%A4%9A%E5%90%8D%E8%81%8B%E5%93%91%E4%BA%BA%23" target="weibo">
 帽厂老板6年招工60多名聋哑人（热度：104426）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E9%AA%91%E8%BD%A6%E6%91%94%E5%80%92%E8%B7%AF%E8%BF%87%E5%8F%B8%E6%9C%BA%E6%9A%96%E5%BF%83%E4%B8%8A%E5%89%8D%E5%B8%AE%E5%BF%99%23" target="weibo">
+老人骑车摔倒路过司机暖心上前帮忙（热度：99090）
 </a>
 </li>
 

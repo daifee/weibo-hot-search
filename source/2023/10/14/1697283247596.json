@@ -1,0 +1,410 @@
+{
+  "runTime": 1697283247596,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1616535,
+        "num": 1616535,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 322577,
+        "num": 1090314,
+        "word": "二哈迷路住进警局变成反诈汪",
+        "onboard_time": 1697279492,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39147,
+        "num": 881974,
+        "word": "青春华章",
+        "onboard_time": 1697270971,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 777131,
+        "num": 777131,
+        "word": "以军一次打死打伤7名记者",
+        "onboard_time": 1697276851,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 162773,
+        "num": 597443,
+        "word": "广州一妈妈带女儿赴港实现冰雪奇缘梦",
+        "onboard_time": 1697275891,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597174,
+        "num": 597174,
+        "word": "原来鞋底磨损不均是正常的",
+        "onboard_time": 1697281112,
+        "rank": 5,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 146748,
+        "num": 579935,
+        "word": "袁隆平选定试验田单季亩产1251.5公斤",
+        "onboard_time": 1697277032,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 565942,
+        "num": 565942,
+        "word": "李知恩采访好帅",
+        "onboard_time": 1697278353,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 553862,
+        "num": 553862,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 534839,
+        "num": 534839,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 495958,
+        "num": 495958,
+        "word": "孙女得知聊天框是置顶时爷爷已病逝",
+        "onboard_time": 1697271211,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479864,
+        "num": 479864,
+        "word": "炸糖糕",
+        "onboard_time": 1697281651,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 409662,
+        "num": 409662,
+        "word": "斗鱼 没想过会赢",
+        "onboard_time": 1697278231,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 409462,
+        "num": 409462,
+        "word": "以军称将对加沙地带发起强力进攻",
+        "onboard_time": 1697277573,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 401336,
+        "num": 401336,
+        "word": "周杰伦知道王冰冰用他点奶茶吗",
+        "onboard_time": 1697270250,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341833,
+        "num": 341833,
+        "word": "男子吐槽餐厅16元水蒸蛋仅一层蛋皮",
+        "onboard_time": 1697274693,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239918,
+        "num": 239918,
+        "word": "罗云熙 水龙吟",
+        "onboard_time": 1697276554,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220518,
+        "num": 220518,
+        "word": "加沙居民撤离车队遭以色列空袭已致70死",
+        "onboard_time": 1697272170,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 205601,
+        "num": 205601,
+        "word": "超40万巴勒斯坦人离开加沙的家园",
+        "onboard_time": 1697268270,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 331198,
+        "num": 201599,
+        "word": "周杰伦上海",
+        "onboard_time": 1697282013,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 324707,
+        "num": 197561,
+        "word": "田耕纪",
+        "onboard_time": 1697282133,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280314,
+        "num": 193039,
+        "word": "蔡文静脸上好多钻石",
+        "onboard_time": 1697275473,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 240257,
+        "num": 188222,
+        "word": "男子用螳螂吃掉颈后肉瘊子",
+        "onboard_time": 1697270612,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185211,
+        "num": 185211,
+        "word": "双胞胎为啥要穿的一模一样",
+        "onboard_time": 1697272954,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174773,
+        "num": 174773,
+        "word": "IVE新歌eitherway成绩",
+        "onboard_time": 1697280090,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171439,
+        "num": 171439,
+        "word": "专升本后工资反而变低了",
+        "onboard_time": 1697270310,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 171123,
+        "num": 171123,
+        "word": "以色列6天投6000枚炸弹",
+        "onboard_time": 1697273733,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 170512,
+        "num": 170512,
+        "word": "樊振东反手鞭打",
+        "onboard_time": 1697282673,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168961,
+        "num": 168961,
+        "word": "陈牧驰工作室维权声明",
+        "onboard_time": 1697263831,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167446,
+        "num": 167446,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 203343,
+        "num": 167043,
+        "word": "这瓶子摆成了城",
+        "onboard_time": 1697282852,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155798,
+        "num": 155798,
+        "word": "美国要求以色列推迟地面进攻",
+        "onboard_time": 1697263111,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 151549,
+        "num": 151549,
+        "word": "王艺迪3比0陈幸同",
+        "onboard_time": 1697280633,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145503,
+        "num": 145503,
+        "word": "小黑屋 黑马",
+        "onboard_time": 1697276912,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141820,
+        "num": 141820,
+        "word": "唐嫣好港",
+        "onboard_time": 1697272411,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141786,
+        "num": 141786,
+        "word": "魏巡淘汰",
+        "onboard_time": 1697280571,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135505,
+        "num": 135505,
+        "word": "给KPL一点主播震撼",
+        "onboard_time": 1697281053,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133695,
+        "num": 133695,
+        "word": "佛山电翰爆火后回应",
+        "onboard_time": 1697283093,
+        "rank": 37,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 132359,
+        "num": 132359,
+        "word": "你好星期六",
+        "onboard_time": 1697282972,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132345,
+        "num": 132345,
+        "word": "陈楚生 扫弟机",
+        "onboard_time": 1697275953,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123861,
+        "num": 123861,
+        "word": "丞磊大梦归离今日路透",
+        "onboard_time": 1697275772,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120801,
+        "num": 120801,
+        "word": "薛之谦天津演唱会",
+        "onboard_time": 1697283211,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114263,
+        "num": 114263,
+        "word": "周也骨相",
+        "onboard_time": 1697276313,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113022,
+        "num": 113022,
+        "word": "BBC记者被以色列警察持枪威胁",
+        "onboard_time": 1697265572,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 112210,
+        "num": 112210,
+        "word": "抢劫杀房东的17岁少年已被逮捕",
+        "onboard_time": 1697271871,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111798,
+        "num": 111798,
+        "word": "朱正廷我努力都能生一个你",
+        "onboard_time": 1697275713,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106432,
+        "num": 106432,
+        "word": "WB 青春风暴",
+        "onboard_time": 1697274332,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99090,
+        "num": 99090,
+        "word": "老人骑车摔倒路过司机暖心上前帮忙",
+        "onboard_time": 1697282612,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98977,
+        "num": 98977,
+        "word": "苏醒要唱王栎鑫的Treasure",
+        "onboard_time": 1697277269,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98573,
+        "num": 98573,
+        "word": "韩国执政党国民力量党宣布领导层决定集体辞职",
+        "onboard_time": 1697276432,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持价值性和知识性相统一#"
+    }
+  }
+}
