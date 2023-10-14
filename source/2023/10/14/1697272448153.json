@@ -1,0 +1,410 @@
+{
+  "runTime": 1697272448153,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1823465,
+        "num": 1823465,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1374318,
+        "num": 1374318,
+        "word": "周杰伦知道王冰冰用他点奶茶吗",
+        "onboard_time": 1697270250,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23528,
+        "num": 1173110,
+        "word": "中欧班列书写丝路新传奇",
+        "onboard_time": 1697271451,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1166927,
+        "num": 1166927,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 959644,
+        "num": 959644,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 572075,
+        "num": 572075,
+        "word": "超40万巴勒斯坦人离开加沙的家园",
+        "onboard_time": 1697268270,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 349750,
+        "num": 349750,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344419,
+        "num": 344419,
+        "word": "美国要求以色列推迟地面进攻",
+        "onboard_time": 1697263111,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 331691,
+        "num": 331691,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325207,
+        "num": 325207,
+        "word": "孙女得知聊天框是置顶时爷爷已病逝",
+        "onboard_time": 1697271211,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743824,
+        "num": 299558,
+        "word": "家属否认致6死婚车事故司机酒驾玩通宵",
+        "onboard_time": 1697270672,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331967,
+        "num": 297604,
+        "word": "抢劫杀房东的17岁少年已被逮捕",
+        "onboard_time": 1697271871,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331238,
+        "num": 297463,
+        "word": "陈牧驰工作室维权声明",
+        "onboard_time": 1697263831,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272355,
+        "num": 272355,
+        "word": "奶奶出殡前一天",
+        "onboard_time": 1697268631,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 271946,
+        "num": 271946,
+        "word": "董璇看女儿小酒窝走秀时的眼神",
+        "onboard_time": 1697262690,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271168,
+        "num": 271168,
+        "word": "所以不要和陌生人说话才会成为经典",
+        "onboard_time": 1697259093,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269566,
+        "num": 269566,
+        "word": "BBC记者被以色列警察持枪威胁",
+        "onboard_time": 1697265572,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 230013,
+        "num": 230013,
+        "word": "幼儿园为兔子办婚礼请小朋友吃大席",
+        "onboard_time": 1697261372,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220098,
+        "num": 220098,
+        "word": "王栎鑫把陈楚生说哭了",
+        "onboard_time": 1697263592,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218617,
+        "num": 218617,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 454528,
+        "num": 218072,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 378054,
+        "num": 217090,
+        "word": "专升本后工资反而变低了",
+        "onboard_time": 1697270310,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 336893,
+        "num": 216396,
+        "word": "男子用螳螂吃掉颈后肉瘊子",
+        "onboard_time": 1697270612,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317136,
+        "num": 214605,
+        "word": "唐嫣好港",
+        "onboard_time": 1697272411,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 239878,
+        "num": 213851,
+        "word": "问心杨阿姨去世",
+        "onboard_time": 1697271329,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213293,
+        "num": 213293,
+        "word": "心疼逆战组",
+        "onboard_time": 1697269291,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196079,
+        "num": 196079,
+        "word": "日本人为了做顿假料理有多拼",
+        "onboard_time": 1697270192,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195208,
+        "num": 195208,
+        "word": "人体器官运输航班提前17分钟抵达顺利手术",
+        "onboard_time": 1697270011,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189089,
+        "num": 189089,
+        "word": "国考岗位",
+        "onboard_time": 1697250934,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180174,
+        "num": 180174,
+        "word": "医生提醒年轻人千万不要再熬夜了",
+        "onboard_time": 1697257712,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238781,
+        "num": 178685,
+        "word": "警方通报17岁男生杀害房东",
+        "onboard_time": 1697272232,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173690,
+        "num": 173690,
+        "word": "国考约7成招录计划专招应届生",
+        "onboard_time": 1697264730,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 169553,
+        "num": 169553,
+        "word": "四川沙拉 曹氏特辣",
+        "onboard_time": 1697271271,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157632,
+        "num": 157632,
+        "word": "新郎率24位兄弟跳过河舞蹈气氛燃爆",
+        "onboard_time": 1697270732,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157038,
+        "num": 157038,
+        "word": "谁教你这样晒结婚证的",
+        "onboard_time": 1697269770,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156439,
+        "num": 156439,
+        "word": "詹姆斯真老了",
+        "onboard_time": 1697262030,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147913,
+        "num": 147913,
+        "word": "杨丞琳陈妍希潘玮柏合照",
+        "onboard_time": 1697270070,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146741,
+        "num": 146741,
+        "word": "加沙上空飘满撤离传单",
+        "onboard_time": 1697272232,
+        "rank": 37,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 143706,
+        "num": 143706,
+        "word": "国考",
+        "onboard_time": 1697268691,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143665,
+        "num": 143665,
+        "word": "于正新剧的审美",
+        "onboard_time": 1697269171,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141821,
+        "num": 141821,
+        "word": "戚薇许嵩歌圈何炅谢娜",
+        "onboard_time": 1697263230,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139195,
+        "num": 139195,
+        "word": "杨紫头发丝都在发光",
+        "onboard_time": 1697263052,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126026,
+        "num": 126026,
+        "word": "以色列将对巴勒斯坦加大攻势",
+        "onboard_time": 1697248712,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 124969,
+        "num": 124969,
+        "word": "SM年末大促销",
+        "onboard_time": 1697261794,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 122524,
+        "num": 122524,
+        "word": "加沙居民撤离车队遭以色列空袭已致70死",
+        "onboard_time": 1697272170,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 121994,
+        "num": 121994,
+        "word": "曝知名媒体人段暄失联",
+        "onboard_time": 1697257770,
+        "rank": 45,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 121283,
+        "num": 121283,
+        "word": "虎子撒娇",
+        "onboard_time": 1697271753,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119505,
+        "num": 119505,
+        "word": "水溶C100怎么就成了神水",
+        "onboard_time": 1697246612,
+        "rank": 47,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 114910,
+        "num": 114910,
+        "word": "Baddie Challenge 姜敏熙宋亨俊",
+        "onboard_time": 1697269532,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112111,
+        "num": 112111,
+        "word": "张杰把逆战唱成孤勇者",
+        "onboard_time": 1697265273,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化江西篇章#"
+    }
+  }
+}
