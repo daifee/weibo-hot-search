@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/15 07:16:03
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/15 07:33:56
 </p>
 </blockquote>
 <p>
@@ -3747,6 +3747,12 @@ iPhone平均寿命将达8年（热度：910856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E5%86%85%E5%BD%93%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%B0%86%E5%A6%BB%E5%AD%90%E6%8D%85%E6%88%90%E9%87%8D%E4%BC%A4%23" target="weibo">
+男子车内当孩子面将妻子捅成重伤（热度：910248）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%E7%BB%93%E5%B1%80%23" target="weibo">
 他从火光中走来结局（热度：908721）
 </a>
@@ -4619,12 +4625,6 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9F%B9%E8%80%81%E6%9D%BF%E7%9A%84%E5%A5%B3%E5%84%BF%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%AA%E6%8A%B9%E9%A6%99%E9%B2%B8%23" target="weibo">
 蟹老板的女儿为什么是个抹香鲸（热度：790934）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E5%86%85%E5%BD%93%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%B0%86%E5%A6%BB%E5%AD%90%E6%8D%85%E6%88%90%E9%87%8D%E4%BC%A4%23" target="weibo">
-男子车内当孩子面将妻子捅成重伤（热度：790534）
 </a>
 </li>
 
