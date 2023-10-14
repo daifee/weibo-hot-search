@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697307632051,
+  "endTime": 1697308451231,
   "band_list": [
     {
       "raw_hot": 1145020,
@@ -435,8 +435,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44934,
-      "num": 44934,
+      "raw_hot": 52824,
+      "num": 48117,
       "word": "全国小狗听见出去玩的统一反应",
       "onboard_time": 1697306419,
       "rank": 37,
@@ -449,6 +449,14 @@
       "onboard_time": 1697282013,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32745,
+      "num": 32745,
+      "word": "张凌赫 hi6",
+      "onboard_time": 1697289155,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 29097,

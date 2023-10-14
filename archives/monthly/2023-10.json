@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697307632051,
+  "endTime": 1697308451231,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -38931,6 +38931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52824,
+      "num": 48117,
+      "word": "全国小狗听见出去玩的统一反应",
+      "onboard_time": 1697306419,
+      "rank": 37,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 52468,
       "num": 61905,
       "word": "水墨李莲花",
@@ -39105,14 +39113,6 @@
       "onboard_time": 1696424977,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44934,
-      "num": 44934,
-      "word": "全国小狗听见出去玩的统一反应",
-      "onboard_time": 1697306419,
-      "rank": 37,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 44848,
