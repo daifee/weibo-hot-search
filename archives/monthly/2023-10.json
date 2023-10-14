@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697261653914,
+  "endTime": 1697264484201,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -3227,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1260353,
+      "num": 1260353,
+      "word": "曝知名媒体人段暄失联",
+      "onboard_time": 1697257770,
+      "rank": 40,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 1259579,
       "num": 1259579,
       "word": "樊振东晋级决赛",
@@ -4025,14 +4033,6 @@
       "onboard_time": 1696668159,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1047662,
-      "num": 1047662,
-      "word": "曝知名媒体人段暄失联",
-      "onboard_time": 1697257770,
-      "rank": 40,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 1047411,
@@ -5659,6 +5659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 818450,
+      "num": 424111,
+      "word": "陈牧驰工作室维权声明",
+      "onboard_time": 1697263831,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 815757,
       "num": 388229,
       "word": "4岁走失女童父亲在网友评论区求助",
@@ -5761,6 +5769,14 @@
       "onboard_time": 1696944216,
       "rank": 4,
       "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 805648,
+      "num": 805648,
+      "word": "所以不要和陌生人说话才会成为经典",
+      "onboard_time": 1697259093,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 805071,
@@ -6849,6 +6865,14 @@
       "onboard_time": 1696136793,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 710553,
+      "num": 421243,
+      "word": "男子误喝防冻液血液成胶冻状离世",
+      "onboard_time": 1697263171,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 709646,
@@ -8019,6 +8043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 628112,
+      "num": 613948,
+      "word": "美国要求以色列推迟地面进攻",
+      "onboard_time": 1697263111,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 628016,
       "num": 283390,
       "word": "孟非参观祖屋要看房产证",
@@ -8105,6 +8137,14 @@
       "onboard_time": 1696256677,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 624785,
+      "num": 624785,
+      "word": "幼儿园为兔子办婚礼请小朋友吃大席",
+      "onboard_time": 1697261372,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 623181,
@@ -9035,6 +9075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 578044,
+      "num": 417722,
+      "word": "董璇看女儿小酒窝走秀时的眼神",
+      "onboard_time": 1697262690,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577860,
       "num": 577860,
       "word": "张小斐这个动图谁懂",
@@ -9857,6 +9905,14 @@
       "onboard_time": 1696828126,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532888,
+      "num": 532888,
+      "word": "武大被骚扰当事人回应肖某某记过",
+      "onboard_time": 1697261311,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 532089,
@@ -11236,7 +11292,7 @@
     },
     {
       "raw_hot": 476528,
-      "num": 285345,
+      "num": 302580,
       "word": "医生提醒年轻人千万不要再熬夜了",
       "onboard_time": 1697257712,
       "rank": 36,
@@ -11528,14 +11584,6 @@
       "word": "王鹤润演甜妹",
       "onboard_time": 1696851815,
       "rank": 15,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 467058,
-      "num": 467058,
-      "word": "所以不要和陌生人说话才会成为经典",
-      "onboard_time": 1697259093,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -13027,6 +13075,14 @@
       "category": "旅游,社会新闻"
     },
     {
+      "raw_hot": 413606,
+      "num": 413606,
+      "word": "SM年末大促销",
+      "onboard_time": 1697261794,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 413573,
       "num": 413573,
       "word": "曾舜晞工作室偷偷发了深V照",
@@ -13169,14 +13225,6 @@
       "onboard_time": 1696588836,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 407938,
-      "num": 407938,
-      "word": "武大被骚扰当事人回应肖某某记过",
-      "onboard_time": 1697261311,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 407929,
@@ -14073,6 +14121,14 @@
       "onboard_time": 1696813418,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 382763,
+      "num": 382763,
+      "word": "戚薇许嵩歌圈何炅谢娜",
+      "onboard_time": 1697263230,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 382724,
@@ -17731,6 +17787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304566,
+      "num": 304566,
+      "word": "胡兵淘汰",
+      "onboard_time": 1697261311,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304534,
       "num": 304534,
       "word": "KPOP大众性的男爱豆时代",
@@ -17897,6 +17961,14 @@
       "onboard_time": 1696418314,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 301897,
+      "num": 301897,
+      "word": "你知道夔怎么读吗",
+      "onboard_time": 1697262273,
+      "rank": 22,
+      "category": "知识科普"
     },
     {
       "raw_hot": 301868,
@@ -20379,6 +20451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269355,
+      "num": 269355,
+      "word": "杨紫头发丝都在发光",
+      "onboard_time": 1697263052,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269321,
       "num": 269321,
       "word": "内娱人设统治区",
@@ -21443,14 +21523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 256317,
-      "num": 256317,
-      "word": "胡兵淘汰",
-      "onboard_time": 1697261311,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 256306,
       "num": 234832,
       "word": "王楚钦谈乒乓球混双发展",
@@ -21505,6 +21577,14 @@
       "onboard_time": 1696649196,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 255796,
+      "num": 255796,
+      "word": "王栎鑫把陈楚生说哭了",
+      "onboard_time": 1697263592,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 255784,
@@ -21897,6 +21977,14 @@
       "onboard_time": 1697240125,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 249900,
+      "num": 249900,
+      "word": "俄罗斯人组团去黑龙江吃早饭",
+      "onboard_time": 1697263592,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 249861,
@@ -22619,6 +22707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242508,
+      "num": 222262,
+      "word": "致6死婚车事故遇难新娘已怀有身孕",
+      "onboard_time": 1697264250,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 242311,
       "num": 242311,
       "word": "叶舒华be故事感",
@@ -23057,6 +23153,14 @@
       "onboard_time": 1696389455,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 237406,
+      "num": 237406,
+      "word": "詹姆斯真老了",
+      "onboard_time": 1697262030,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 237352,
@@ -23857,6 +23961,14 @@
       "onboard_time": 1696991612,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 228202,
+      "num": 228202,
+      "word": "张远四公MVP",
+      "onboard_time": 1697263052,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 228181,
@@ -27771,6 +27883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196950,
+      "num": 196950,
+      "word": "女儿谎称袖子口有线头给妈妈惊喜",
+      "onboard_time": 1697261730,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 196882,
       "num": 213920,
       "word": "一见钟情到无话可说要多久",
@@ -28680,14 +28800,6 @@
       "word": "这是疫情后的第一个国庆",
       "onboard_time": 1696220493,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 191063,
-      "num": 191063,
-      "word": "幼儿园为兔子办婚礼请小朋友吃大席",
-      "onboard_time": 1697261372,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -29625,6 +29737,22 @@
       "onboard_time": 1696837895,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 184595,
+      "num": 184595,
+      "word": "王星越曾演过周生如故",
+      "onboard_time": 1697262451,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 184484,
+      "num": 184484,
+      "word": "全网都知道马哲的徒弟裆开了",
+      "onboard_time": 1697263230,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 184469,
@@ -30827,6 +30955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174585,
+      "num": 174585,
+      "word": "全球最贵巴菲特午餐",
+      "onboard_time": 1697262211,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 174500,
       "num": 174500,
       "word": "没事别扒拉小猫咪",
@@ -31497,6 +31633,14 @@
       "onboard_time": 1696131451,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167823,
+      "num": 167823,
+      "word": "外研社比赛",
+      "onboard_time": 1697262871,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 167808,
@@ -34345,6 +34489,14 @@
       "onboard_time": 1696404696,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137126,
+      "num": 137126,
+      "word": "小白天被奶爸按摩得咩咩叫",
+      "onboard_time": 1697263710,
+      "rank": 46,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 137069,
@@ -37915,6 +38067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 25389,
+      "num": 1025064,
+      "word": "共建一带一路十周年",
+      "onboard_time": 1697258672,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25310,
       "num": 556806,
       "word": "舞台2023唱给自己的歌",
@@ -37945,14 +38105,6 @@
       "onboard_time": 1697139073,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 24791,
-      "num": 1025064,
-      "word": "共建一带一路十周年",
-      "onboard_time": 1697258672,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24697,

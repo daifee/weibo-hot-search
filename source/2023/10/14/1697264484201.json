@@ -1,0 +1,410 @@
+{
+  "runTime": 1697264484201,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1260353,
+        "num": 1260353,
+        "word": "曝知名媒体人段暄失联",
+        "onboard_time": 1697257770,
+        "rank": 0,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 805648,
+        "num": 805648,
+        "word": "所以不要和陌生人说话才会成为经典",
+        "onboard_time": 1697259093,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25389,
+        "num": 734930,
+        "word": "共建一带一路十周年",
+        "onboard_time": 1697258672,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 704095,
+        "num": 704095,
+        "word": "水溶C100怎么就成了神水",
+        "onboard_time": 1697246612,
+        "rank": 3,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 624785,
+        "num": 624785,
+        "word": "幼儿园为兔子办婚礼请小朋友吃大席",
+        "onboard_time": 1697261372,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 628112,
+        "num": 613948,
+        "word": "美国要求以色列推迟地面进攻",
+        "onboard_time": 1697263111,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 596200,
+        "num": 596200,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 532888,
+        "num": 532888,
+        "word": "武大被骚扰当事人回应肖某某记过",
+        "onboard_time": 1697261311,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518202,
+        "num": 518202,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 426499,
+        "num": 426499,
+        "word": "佛山电翰",
+        "onboard_time": 1697248593,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 818450,
+        "num": 424111,
+        "word": "陈牧驰工作室维权声明",
+        "onboard_time": 1697263831,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 710553,
+        "num": 421243,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578044,
+        "num": 417722,
+        "word": "董璇看女儿小酒窝走秀时的眼神",
+        "onboard_time": 1697262690,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413606,
+        "num": 413606,
+        "word": "SM年末大促销",
+        "onboard_time": 1697261794,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 408886,
+        "num": 408886,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382763,
+        "num": 382763,
+        "word": "戚薇许嵩歌圈何炅谢娜",
+        "onboard_time": 1697263230,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 368552,
+        "num": 368552,
+        "word": "国考岗位",
+        "onboard_time": 1697250934,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 335449,
+        "num": 335449,
+        "word": "以色列将对巴勒斯坦加大攻势",
+        "onboard_time": 1697248712,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 304566,
+        "num": 304566,
+        "word": "胡兵淘汰",
+        "onboard_time": 1697261311,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257548,
+        "num": 302802,
+        "word": "徐冬冬被压10年的剧播了",
+        "onboard_time": 1697243312,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 741888,
+        "num": 302780,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 329050,
+        "num": 302580,
+        "word": "医生提醒年轻人千万不要再熬夜了",
+        "onboard_time": 1697257712,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301897,
+        "num": 301897,
+        "word": "你知道夔怎么读吗",
+        "onboard_time": 1697262273,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 269355,
+        "num": 269355,
+        "word": "杨紫头发丝都在发光",
+        "onboard_time": 1697263052,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255796,
+        "num": 255796,
+        "word": "王栎鑫把陈楚生说哭了",
+        "onboard_time": 1697263592,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 249900,
+        "num": 249900,
+        "word": "俄罗斯人组团去黑龙江吃早饭",
+        "onboard_time": 1697263592,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237406,
+        "num": 237406,
+        "word": "詹姆斯真老了",
+        "onboard_time": 1697262030,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228202,
+        "num": 228202,
+        "word": "张远四公MVP",
+        "onboard_time": 1697263052,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223755,
+        "num": 223755,
+        "word": "考研二战的学姐消失在朋友圈",
+        "onboard_time": 1697240426,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223524,
+        "num": 223524,
+        "word": "山东超半数乡镇公务员想离职",
+        "onboard_time": 1697252853,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242508,
+        "num": 222262,
+        "word": "致6死婚车事故遇难新娘已怀有身孕",
+        "onboard_time": 1697264250,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219434,
+        "num": 219434,
+        "word": "周杰伦演唱会偶遇张雨绮",
+        "onboard_time": 1697248533,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205598,
+        "num": 205598,
+        "word": "余华 是情绪而不是人生进入了死胡同",
+        "onboard_time": 1697259992,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196950,
+        "num": 196950,
+        "word": "女儿谎称袖子口有线头给妈妈惊喜",
+        "onboard_time": 1697261730,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190376,
+        "num": 190376,
+        "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
+        "onboard_time": 1697244153,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184595,
+        "num": 184595,
+        "word": "王星越曾演过周生如故",
+        "onboard_time": 1697262451,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184484,
+        "num": 184484,
+        "word": "全网都知道马哲的徒弟裆开了",
+        "onboard_time": 1697263230,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179626,
+        "num": 179626,
+        "word": "孙海洋向寻亲家长道歉",
+        "onboard_time": 1697246850,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174627,
+        "num": 174627,
+        "word": "勇士战胜湖人",
+        "onboard_time": 1697260652,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174585,
+        "num": 174585,
+        "word": "全球最贵巴菲特午餐",
+        "onboard_time": 1697262211,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 170110,
+        "num": 170110,
+        "word": "现在流行男主不是官配吗",
+        "onboard_time": 1697252673,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167823,
+        "num": 167823,
+        "word": "外研社比赛",
+        "onboard_time": 1697262871,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158022,
+        "num": 158022,
+        "word": "国产烂片营销为何堪比诈骗",
+        "onboard_time": 1697256152,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149241,
+        "num": 149241,
+        "word": "我爸给自己买了乳贴",
+        "onboard_time": 1697251171,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137390,
+        "num": 137390,
+        "word": "逆战 咏春",
+        "onboard_time": 1697259152,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137183,
+        "num": 137183,
+        "word": "国考公告",
+        "onboard_time": 1697246073,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137126,
+        "num": 137126,
+        "word": "小白天被奶爸按摩得咩咩叫",
+        "onboard_time": 1697263710,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 136625,
+        "num": 136625,
+        "word": "香港翻拍的社内相亲",
+        "onboard_time": 1697260291,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133938,
+        "num": 133938,
+        "word": "2024国考计划招录3.96万人",
+        "onboard_time": 1697249492,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129685,
+        "num": 129685,
+        "word": "想听的脱口秀大会在复旦",
+        "onboard_time": 1697260833,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化江西篇章#"
+    }
+  }
+}

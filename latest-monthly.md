@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 13:34:13
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/14 14:21:24
 </p>
 </blockquote>
 <p>
@@ -2433,6 +2433,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%A5%E5%90%8D%E5%AA%92%E4%BD%93%E4%BA%BA%E6%AE%B5%E6%9A%84%E5%A4%B1%E8%81%94%23" target="weibo">
+曝知名媒体人段暄失联（热度：1260353）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
 樊振东晋级决赛（热度：1259579）
 </a>
@@ -3029,12 +3035,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2310%E6%9C%88%E4%B8%8D%E8%A6%81%E8%AF%B7%E5%81%87%23" target="weibo">
 10月不要请假（热度：1049817）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%A5%E5%90%8D%E5%AA%92%E4%BD%93%E4%BA%BA%E6%AE%B5%E6%9A%84%E5%A4%B1%E8%81%94%23" target="weibo">
-曝知名媒体人段暄失联（热度：1047662）
 </a>
 </li>
 
@@ -4257,6 +4257,12 @@ Jennie个人单曲音源上线（热度：822249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E7%89%A7%E9%A9%B0%E5%B7%A5%E4%BD%9C%E5%AE%A4%E7%BB%B4%E6%9D%83%E5%A3%B0%E6%98%8E%23" target="weibo">
+陈牧驰工作室维权声明（热度：818450）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%9C%A8%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B1%82%E5%8A%A9%23" target="weibo">
 4岁走失女童父亲在网友评论区求助（热度：815757）
 </a>
@@ -4331,6 +4337,12 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%9C%86%E6%A2%A6%E6%97%B6%E5%88%BB%23" target="weibo">
 肖战杭州亚运圆梦时刻（热度：805819）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%80%E4%BB%A5%E4%B8%8D%E8%A6%81%E5%92%8C%E9%99%8C%E7%94%9F%E4%BA%BA%E8%AF%B4%E8%AF%9D%E6%89%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E7%BB%8F%E5%85%B8%23" target="weibo">
+所以不要和陌生人说话才会成为经典（热度：805648）
 </a>
 </li>
 
@@ -5147,6 +5159,12 @@ IVE先行曲OffTheRecord（热度：713477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E6%BD%87%E8%BF%9B%E7%BB%84%23" target="weibo">
 程潇进组（热度：711028）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%AF%AF%E5%96%9D%E9%98%B2%E5%86%BB%E6%B6%B2%E8%A1%80%E6%B6%B2%E6%88%90%E8%83%B6%E5%86%BB%E7%8A%B6%E7%A6%BB%E4%B8%96%23" target="weibo">
+男子误喝防冻液血液成胶冻状离世（热度：710553）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Jennie将发新歌（热度：642409）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E5%A5%B3%E5%9B%A20%E6%AF%942%E9%9F%A9%E5%9B%BD%23" target="weibo">
 国羽女团0比2韩国（热度：631702）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%923%E6%AF%940%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%23" target="weibo">
-中国女排3比0泰国女排（热度：631435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%80%9D%E9%9B%A8%E4%B8%8A%E7%AF%AE%23" target="weibo">
-王思雨上篮（热度：631359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%85%92%E5%BA%971%E5%A4%A911%E5%AF%B9%E6%96%B0%E4%BA%BA%E7%BB%93%E5%A9%9A%E6%8B%89%E6%BB%A1%E6%A8%AA%E5%B9%85%23" target="weibo">
-酒店1天11对新人结婚拉满横幅（热度：630390）
 </a>
 </li>
 
