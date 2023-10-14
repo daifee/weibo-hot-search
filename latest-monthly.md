@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/15 06:33:55
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/15 07:16:03
 </p>
 </blockquote>
 <p>
@@ -4623,6 +4623,12 @@ THE9演唱会抢票（热度：807449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E5%86%85%E5%BD%93%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%B0%86%E5%A6%BB%E5%AD%90%E6%8D%85%E6%88%90%E9%87%8D%E4%BC%A4%23" target="weibo">
+男子车内当孩子面将妻子捅成重伤（热度：790534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Jennie%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%23" target="weibo">
 Jennie巴黎时装周（热度：789463）
 </a>
@@ -5105,12 +5111,6 @@ VOGUE评选巴黎时装周最时尚明星（热度：731565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E8%AF%B4%E4%BA%BA%E8%B4%A9%E5%AD%90%E6%97%A0%E4%BB%BB%E4%BD%95%E6%82%94%E6%84%8F%E4%B8%94%E5%82%B2%E6%85%A2%23" target="weibo">
 孙海洋说人贩子无任何悔意且傲慢（热度：731502）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E5%86%85%E5%BD%93%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%B0%86%E5%A6%BB%E5%AD%90%E6%8D%85%E6%88%90%E9%87%8D%E4%BC%A4%23" target="weibo">
-男子车内当孩子面将妻子捅成重伤（热度：731284）
 </a>
 </li>
 

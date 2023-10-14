@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/15 00:20:12 ~ 2023/10/15 06:33:55
+本榜单时间：2023/10/15 00:20:12 ~ 2023/10/15 07:16:03
 </p>
 </blockquote>
 <p>
@@ -27,6 +27,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E5%86%85%E5%BD%93%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%B0%86%E5%A6%BB%E5%AD%90%E6%8D%85%E6%88%90%E9%87%8D%E4%BC%A4%23" target="weibo">
+男子车内当孩子面将妻子捅成重伤（热度：790534）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%94%E8%BF%81%E6%96%B0%E6%88%BF70%E4%BA%BA%E5%90%83%E5%B8%AD%E5%AE%B6%E9%87%8C%E8%B9%B2%23" target="weibo">
 女子乔迁新房70人吃席家里蹲（热度：781816）
 </a>
@@ -35,12 +41,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%AA%E5%AE%9D%E8%B4%9D%E5%8E%BB%E4%B8%96%23" target="weibo">
 纪宝贝去世（热度：772695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BD%A6%E5%86%85%E5%BD%93%E5%AD%A9%E5%AD%90%E9%9D%A2%E5%B0%86%E5%A6%BB%E5%AD%90%E6%8D%85%E6%88%90%E9%87%8D%E4%BC%A4%23" target="weibo">
-男子车内当孩子面将妻子捅成重伤（热度：731284）
 </a>
 </li>
 
@@ -291,6 +291,12 @@ KPL 至暗时刻（热度：122353）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23400%E4%BD%99%E5%B9%B4%E5%8F%A4%E6%9D%91%E8%90%BD%E5%AE%B6%E5%AE%B6%E6%9C%89%E6%B3%89%E6%B0%B4%E5%92%8C%E7%AB%B9%E6%9E%97%23" target="weibo">
+400余年古村落家家有泉水和竹林（热度：117275）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%20%E5%B9%BF%E5%B7%9E%23" target="weibo">
 陈楚生 广州（热度：112821）
 </a>
@@ -311,6 +317,12 @@ KPL 至暗时刻（热度：122353）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84%E6%89%A7%E5%88%83%E5%A4%A7%E4%BA%BA%E6%9D%A5%E5%88%B0%E7%8E%B0%E4%BB%A3%E5%BD%93%E5%B0%91%E7%88%B7%E4%BA%86%23" target="weibo">
 我的执刃大人来到现代当少爷了（热度：107873）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%E8%BF%87%E6%9D%A5%E4%BA%BA%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
+长大后才发现过来人的经验是真的（热度：104665）
 </a>
 </li>
 
@@ -345,8 +357,20 @@ KPL 至暗时刻（热度：122353）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E5%A4%A7%E5%90%8E%E6%89%8D%E5%8F%91%E7%8E%B0%E8%BF%87%E6%9D%A5%E4%BA%BA%E7%9A%84%E7%BB%8F%E9%AA%8C%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
-长大后才发现过来人的经验是真的（热度：71228）
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%A7%8B%E5%86%AC%E7%A9%BF%E6%90%AD%E5%A5%BD%E5%AE%9E%E7%94%A8%23" target="weibo">
+章若楠秋冬穿搭好实用（热度：64599）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%93%81%E9%94%85%E7%85%AE%E8%9E%BA%E8%9B%B3%E7%B2%89%E6%B1%A4%E5%BA%95%E9%BB%91%E4%BA%AE%E4%BC%BC%E8%8A%9D%E9%BA%BB%E7%B3%8A%23" target="weibo">
+新铁锅煮螺蛳粉汤底黑亮似芝麻糊（热度：59146）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%8F%A3%E4%B8%80%E7%8E%89%E7%B1%B3%E7%A7%8D%E6%A4%8D%E5%9C%B0%E8%A2%AB%E4%BA%94%E7%99%BE%E4%BD%99%E4%BA%BA%E5%93%84%E6%8A%A2%23" target="weibo">
+周口一玉米种植地被五百余人哄抢（热度：56651）
 </a>
 </li>
 
@@ -363,14 +387,26 @@ KPL 至暗时刻（热度：122353）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%20hi6%23" target="weibo">
-张凌赫 hi6（热度：32745）
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%9E%97%E8%BF%B0%E5%B7%8D%E8%AF%84%E4%BB%B7%E5%B0%B9%E6%AD%A3%23" target="weibo">
+黄晓明林述巍评价尹正（热度：43399）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%93%81%E9%94%85%E7%85%AE%E8%9E%BA%E8%9B%B3%E7%B2%89%E6%B1%A4%E5%BA%95%E9%BB%91%E4%BA%AE%E4%BC%BC%E8%8A%9D%E9%BA%BB%E7%B3%8A%23" target="weibo">
-新铁锅煮螺蛳粉汤底黑亮似芝麻糊（热度：30914）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E5%90%BB%E7%99%BD%E9%A9%AC%E6%A2%A6%E5%9B%9E%E4%BC%AF%E9%82%91%E8%80%83%23" target="weibo">
+杨玏吻白马梦回伯邑考（热度：39719）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A4%A7%E7%88%B7%E8%B7%B3%E6%B1%9F%E5%8B%87%E6%95%91%E8%90%BD%E6%B0%B4%E5%A5%B3%E5%AD%90%23" target="weibo">
+六旬大爷跳江勇救落水女子（热度：32992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%20hi6%23" target="weibo">
+张凌赫 hi6（热度：32745）
 </a>
 </li>
 
@@ -381,26 +417,8 @@ KPL 至暗时刻（热度：122353）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E6%9E%97%E8%BF%B0%E5%B7%8D%E8%AF%84%E4%BB%B7%E5%B0%B9%E6%AD%A3%23" target="weibo">
-黄晓明林述巍评价尹正（热度：28593）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%8E%8F%E5%90%BB%E7%99%BD%E9%A9%AC%E6%A2%A6%E5%9B%9E%E4%BC%AF%E9%82%91%E8%80%83%23" target="weibo">
-杨玏吻白马梦回伯邑考（热度：28303）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%99%E8%8C%B9%20%E5%AE%81%E6%B3%A2%23" target="weibo">
 梁静茹 宁波（热度：23757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E8%8B%A5%E6%A5%A0%E7%A7%8B%E5%86%AC%E7%A9%BF%E6%90%AD%E5%A5%BD%E5%AE%9E%E7%94%A8%23" target="weibo">
-章若楠秋冬穿搭好实用（热度：21948）
 </a>
 </li>
 
