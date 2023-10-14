@@ -1,0 +1,410 @@
+{
+  "runTime": 1697296555106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717605,
+        "num": 952637,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1273249,
+        "num": 832235,
+        "word": "巴以冲突不断升级面临失控风险",
+        "onboard_time": 1697293002,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 30619,
+        "num": 678807,
+        "word": "一带一路有你有我",
+        "onboard_time": 1697287774,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 587046,
+        "num": 587046,
+        "word": "赵丽颖檀健次同框",
+        "onboard_time": 1697286575,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1088052,
+        "num": 584779,
+        "word": "湖南一技师学院一名女生宿舍内死亡",
+        "onboard_time": 1697289094,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1617419,
+        "num": 566846,
+        "word": "巴以冲突",
+        "onboard_time": 1697289999,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1212971,
+        "num": 558661,
+        "word": "纪宝贝去世",
+        "onboard_time": 1697283392,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 530680,
+        "num": 530680,
+        "word": "玲娜贝儿也是工龄两年的小童模了",
+        "onboard_time": 1697293236,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 469122,
+        "num": 469122,
+        "word": "浙F367UJ你冲向草丛的样子真帅",
+        "onboard_time": 1697294434,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411877,
+        "num": 411877,
+        "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+        "onboard_time": 1697285852,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 580311,
+        "num": 400567,
+        "word": "凡尔赛宫收到炸弹警报",
+        "onboard_time": 1697295633,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 499809,
+        "num": 387695,
+        "word": "王栎鑫白毛",
+        "onboard_time": 1697287593,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 488961,
+        "num": 374022,
+        "word": "普京回应巴以冲突",
+        "onboard_time": 1697295937,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 449571,
+        "num": 365736,
+        "word": "赵丽颖深V红裙",
+        "onboard_time": 1697286575,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359889,
+        "num": 359889,
+        "word": "田耕纪首播反响",
+        "onboard_time": 1697287957,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358696,
+        "num": 358696,
+        "word": "五月天 现场",
+        "onboard_time": 1697295998,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342303,
+        "num": 342303,
+        "word": "许昕还是太全面了",
+        "onboard_time": 1697289515,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313102,
+        "num": 313102,
+        "word": "女儿让张杰唱逆战",
+        "onboard_time": 1697291019,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302471,
+        "num": 302471,
+        "word": "武汉欢乐谷 差评",
+        "onboard_time": 1697289695,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 294296,
+        "num": 294296,
+        "word": "徐明浩 直播",
+        "onboard_time": 1697292338,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380844,
+        "num": 287849,
+        "word": "杨紫黑色闪钻镂空裙",
+        "onboard_time": 1697291736,
+        "rank": 20,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 277759,
+        "num": 277759,
+        "word": "KPL 至暗时刻",
+        "onboard_time": 1697292097,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 272300,
+        "num": 272300,
+        "word": "以军方回应路透社记者身亡",
+        "onboard_time": 1697295757,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 256468,
+        "num": 256468,
+        "word": "教大家怎么白菜价吃日料",
+        "onboard_time": 1697294018,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 248899,
+        "num": 248899,
+        "word": "Steam 崩了",
+        "onboard_time": 1697295817,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 246138,
+        "num": 246138,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238795,
+        "num": 238795,
+        "word": "周杰伦上海",
+        "onboard_time": 1697282013,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 238629,
+        "num": 238629,
+        "word": "以军称将对加沙地带发起强力进攻",
+        "onboard_time": 1697277573,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 235803,
+        "num": 235803,
+        "word": "巴以冲突记者手机APP警报响个不停",
+        "onboard_time": 1697287175,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 206463,
+        "num": 206463,
+        "word": "薛之谦宋茜互动好搞笑",
+        "onboard_time": 1697288795,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205608,
+        "num": 205608,
+        "word": "朴宝英更新与朴炯植合照",
+        "onboard_time": 1697295874,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199844,
+        "num": 199844,
+        "word": "蔡文静脸上好多钻石",
+        "onboard_time": 1697275473,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 196788,
+        "num": 196788,
+        "word": "张杰孤勇者梦幻联动",
+        "onboard_time": 1697296357,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196090,
+        "num": 196090,
+        "word": "中国人在非洲穿过31种地层打井出水",
+        "onboard_time": 1697291736,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195587,
+        "num": 195587,
+        "word": "问心",
+        "onboard_time": 1697289999,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193874,
+        "num": 193874,
+        "word": "吴昕说自己天天在跑碎活",
+        "onboard_time": 1697294135,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189520,
+        "num": 189520,
+        "word": "婚礼仪式暂停竟是为了反诈宣传",
+        "onboard_time": 1697295336,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185384,
+        "num": 185384,
+        "word": "电影无价之宝 芊芊的花裙子没买到",
+        "onboard_time": 1697296055,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181369,
+        "num": 181369,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180548,
+        "num": 180548,
+        "word": "它们拼命用小脚刨石块只为找到你",
+        "onboard_time": 1697295336,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179466,
+        "num": 179466,
+        "word": "现在小说男主有很多都比不上猴哥",
+        "onboard_time": 1697293781,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173728,
+        "num": 173728,
+        "word": "张凌赫 hi6",
+        "onboard_time": 1697289155,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170154,
+        "num": 170154,
+        "word": "周杰伦知道王冰冰用他点奶茶吗",
+        "onboard_time": 1697270250,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164259,
+        "num": 164259,
+        "word": "张小斐 非典型人生",
+        "onboard_time": 1697293717,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156637,
+        "num": 156637,
+        "word": "李昀锐新角色梦回袁慎",
+        "onboard_time": 1697290776,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156361,
+        "num": 156361,
+        "word": "莎头组合神同步瞬间",
+        "onboard_time": 1697288194,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150750,
+        "num": 150750,
+        "word": "李宇春重庆演唱会",
+        "onboard_time": 1697295158,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140707,
+        "num": 140707,
+        "word": "PUBG 又崩了",
+        "onboard_time": 1697292159,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 139808,
+        "num": 139808,
+        "word": "孩子手洗不干净老师细看心疼",
+        "onboard_time": 1697284173,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129610,
+        "num": 129610,
+        "word": "GK 心梗",
+        "onboard_time": 1697289756,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到的固本兴新有何深意#"
+    }
+  }
+}
