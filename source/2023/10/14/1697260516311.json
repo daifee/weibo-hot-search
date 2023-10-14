@@ -1,0 +1,410 @@
+{
+  "runTime": 1697260516311,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228730,
+        "num": 1228730,
+        "word": "水溶C100怎么就成了神水",
+        "onboard_time": 1697246612,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 996117,
+        "num": 996117,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24350,
+        "num": 944741,
+        "word": "共建一带一路十周年",
+        "onboard_time": 1697258672,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 903458,
+        "num": 903458,
+        "word": "曝知名媒体人段暄失联",
+        "onboard_time": 1697257770,
+        "rank": 3,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 772229,
+        "num": 772229,
+        "word": "佛山电翰",
+        "onboard_time": 1697248593,
+        "rank": 4,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 757635,
+        "num": 757635,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521135,
+        "num": 521135,
+        "word": "山东超半数乡镇公务员想离职",
+        "onboard_time": 1697252853,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504852,
+        "num": 504852,
+        "word": "徐冬冬被压10年的剧播了",
+        "onboard_time": 1697243312,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472580,
+        "num": 472580,
+        "word": "国产烂片营销为何堪比诈骗",
+        "onboard_time": 1697256152,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469547,
+        "num": 469547,
+        "word": "现在流行男主不是官配吗",
+        "onboard_time": 1697252673,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 461816,
+        "num": 461816,
+        "word": "以色列将对巴勒斯坦加大攻势",
+        "onboard_time": 1697248712,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 455990,
+        "num": 455990,
+        "word": "国考岗位",
+        "onboard_time": 1697250934,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 436386,
+        "num": 436386,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 419807,
+        "num": 419807,
+        "word": "考研二战的学姐消失在朋友圈",
+        "onboard_time": 1697240426,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 375493,
+        "num": 375493,
+        "word": "孙海洋向寻亲家长道歉",
+        "onboard_time": 1697246850,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330909,
+        "num": 330909,
+        "word": "电子竞技不相信女性",
+        "onboard_time": 1697246793,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322575,
+        "num": 322575,
+        "word": "逆战 咏春",
+        "onboard_time": 1697259152,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299506,
+        "num": 299506,
+        "word": "福岛小学门口辐射值超标10倍",
+        "onboard_time": 1697248652,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280465,
+        "num": 280465,
+        "word": "周杰伦演唱会偶遇张雨绮",
+        "onboard_time": 1697248533,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278884,
+        "num": 278884,
+        "word": "披荆斩棘四公",
+        "onboard_time": 1697258733,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1064658,
+        "num": 277844,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 361934,
+        "num": 276739,
+        "word": "医生提醒年轻人千万不要再熬夜了",
+        "onboard_time": 1697257712,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351116,
+        "num": 274058,
+        "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
+        "onboard_time": 1697244153,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293031,
+        "num": 272708,
+        "word": "英男子性侵13岁女童判无罪释放后大笑",
+        "onboard_time": 1697240065,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 271840,
+        "num": 271840,
+        "word": "香港翻拍的社内相亲",
+        "onboard_time": 1697260291,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267742,
+        "num": 267742,
+        "word": "段暄",
+        "onboard_time": 1697254651,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 253333,
+        "num": 253333,
+        "word": "我爸给自己买了乳贴",
+        "onboard_time": 1697251171,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235901,
+        "num": 235901,
+        "word": "所以不要和陌生人说话才会成为经典",
+        "onboard_time": 1697259093,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228276,
+        "num": 228276,
+        "word": "女生壮成这样出门有多爽",
+        "onboard_time": 1697255310,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 209525,
+        "num": 209525,
+        "word": "如何查看身份证注册了几个微信",
+        "onboard_time": 1697258312,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 198477,
+        "num": 198477,
+        "word": "国考公告",
+        "onboard_time": 1697246073,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 193944,
+        "num": 193944,
+        "word": "朱一龙的粘人徒弟超会的",
+        "onboard_time": 1697259391,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181376,
+        "num": 181376,
+        "word": "2024国考计划招录3.96万人",
+        "onboard_time": 1697249492,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178795,
+        "num": 178795,
+        "word": "女子每天背128斤丈夫上下3楼",
+        "onboard_time": 1697251772,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176547,
+        "num": 176547,
+        "word": "张凌赫早八状态",
+        "onboard_time": 1697256270,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172484,
+        "num": 172484,
+        "word": "杀猪盘短信已然沦为网友发疯工具",
+        "onboard_time": 1697248292,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 168047,
+        "num": 168047,
+        "word": "余华 是情绪而不是人生进入了死胡同",
+        "onboard_time": 1697259992,
+        "rank": 36,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 164448,
+        "num": 164448,
+        "word": "计算机毕业生做环卫工人是什么体验",
+        "onboard_time": 1697256810,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164264,
+        "num": 164264,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697241331,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 158442,
+        "num": 158442,
+        "word": "为有暗香来",
+        "onboard_time": 1697256392,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145890,
+        "num": 145890,
+        "word": "卢昱晓有在努力纠正走姿了",
+        "onboard_time": 1697242770,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144688,
+        "num": 144688,
+        "word": "为什么胰腺癌一发现就是晚期",
+        "onboard_time": 1697246913,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 144230,
+        "num": 144230,
+        "word": "朱一龙听到两代人瞳孔地震",
+        "onboard_time": 1697254170,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139161,
+        "num": 139161,
+        "word": "大一和大四一眼就能认出来",
+        "onboard_time": 1697245292,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135183,
+        "num": 135183,
+        "word": "被傅园慧苏到像呼吸一样",
+        "onboard_time": 1697255254,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123775,
+        "num": 123775,
+        "word": "檀健次 丽江",
+        "onboard_time": 1697243428,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121479,
+        "num": 121479,
+        "word": "多尔衮行宫挂牌1.8亿出售",
+        "onboard_time": 1697242412,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118853,
+        "num": 118853,
+        "word": "男子骗女子同居生娃后又骗百万积蓄",
+        "onboard_time": 1697248172,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113382,
+        "num": 113382,
+        "word": "在成都肉眼可见雪山是种什么体验",
+        "onboard_time": 1697257533,
+        "rank": 48,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 111196,
+        "num": 111196,
+        "word": "以闪亮之名鸢尾迷局",
+        "onboard_time": 1697258853,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化江西篇章#"
+    }
+  }
+}

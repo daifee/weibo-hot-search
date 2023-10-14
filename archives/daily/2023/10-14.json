@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697258062535,
+  "endTime": 1697260516311,
   "band_list": [
     {
       "raw_hot": 1749540,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1232737,
-      "num": 596678,
+      "num": 772229,
       "word": "佛山电翰",
       "onboard_time": 1697248593,
       "rank": 31,
@@ -115,6 +115,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 996117,
+      "num": 996117,
+      "word": "国家公务员局对考生发布提醒",
+      "onboard_time": 1697255371,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 903458,
+      "num": 903458,
+      "word": "曝知名媒体人段暄失联",
+      "onboard_time": 1697257770,
+      "rank": 40,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 850385,
       "num": 850385,
       "word": "多尔衮行宫挂牌1.8亿出售",
@@ -129,14 +145,6 @@
       "onboard_time": 1697209715,
       "rank": 1,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 825878,
-      "num": 448528,
-      "word": "国家公务员局对考生发布提醒",
-      "onboard_time": 1697255371,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 811104,
@@ -299,6 +307,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 472580,
+      "num": 472580,
+      "word": "国产烂片营销为何堪比诈骗",
+      "onboard_time": 1697256152,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 460435,
       "num": 460435,
       "word": "官方通报家长不参与自愿研学被踢出群",
@@ -321,14 +337,6 @@
       "onboard_time": 1697244153,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442601,
-      "num": 442601,
-      "word": "国产烂片营销为何堪比诈骗",
-      "onboard_time": 1697256152,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 437559,
@@ -403,6 +411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 361934,
+      "num": 276739,
+      "word": "医生提醒年轻人千万不要再熬夜了",
+      "onboard_time": 1697257712,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 358050,
       "num": 265946,
       "word": "大一和大四一眼就能认出来",
@@ -456,6 +472,14 @@
       "word": "看offer知道发邮件的礼仪点",
       "onboard_time": 1697209360,
       "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 322575,
+      "num": 322575,
+      "word": "逆战 咏春",
+      "onboard_time": 1697259152,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -539,12 +563,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 278884,
+      "num": 278884,
+      "word": "披荆斩棘四公",
+      "onboard_time": 1697258733,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 273997,
       "num": 273997,
       "word": "文班亚马惊天隔扣",
       "onboard_time": 1697249972,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271840,
+      "num": 271840,
+      "word": "香港翻拍的社内相亲",
+      "onboard_time": 1697260291,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 270537,
@@ -619,6 +659,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 235901,
+      "num": 235901,
+      "word": "所以不要和陌生人说话才会成为经典",
+      "onboard_time": 1697259093,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235700,
       "num": 235700,
       "word": "女子每天背128斤丈夫上下3楼",
@@ -673,6 +721,14 @@
       "onboard_time": 1697241331,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 209525,
+      "num": 209525,
+      "word": "如何查看身份证注册了几个微信",
+      "onboard_time": 1697258312,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 207108,
@@ -737,6 +793,14 @@
       "onboard_time": 1697245412,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 193944,
+      "num": 193944,
+      "word": "朱一龙的粘人徒弟超会的",
+      "onboard_time": 1697259391,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 193390,
@@ -827,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 168047,
+      "num": 168047,
+      "word": "余华 是情绪而不是人生进入了死胡同",
+      "onboard_time": 1697259992,
+      "rank": 36,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 166608,
       "num": 166608,
       "word": "杨九郎说和唐九洲是一个单位的",
@@ -841,14 +913,6 @@
       "onboard_time": 1697205635,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 165218,
-      "num": 165218,
-      "word": "医生提醒年轻人千万不要再熬夜了",
-      "onboard_time": 1697257712,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 162947,
@@ -945,14 +1009,6 @@
       "onboard_time": 1697246670,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151064,
-      "num": 151064,
-      "word": "曝知名媒体人段暄失联",
-      "onboard_time": 1697257770,
-      "rank": 40,
-      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 146029,
@@ -1195,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111196,
+      "num": 111196,
+      "word": "以闪亮之名鸢尾迷局",
+      "onboard_time": 1697258853,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109304,
       "num": 109304,
       "word": "陆虎说姚政是自己的一道疤",
@@ -1399,6 +1463,14 @@
       "num": 1106114,
       "word": "中国新电商大会",
       "onboard_time": 1697201316,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24350,
+      "num": 944741,
+      "word": "共建一带一路十周年",
+      "onboard_time": 1697258672,
       "rank": 2,
       "category": "社会新闻"
     },
