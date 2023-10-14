@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697289470293,
+  "endTime": 1697290437821,
   "band_list": [
     {
       "raw_hot": 2234669,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2089317,
-      "num": 635816,
+      "num": 752472,
       "word": "纪宝贝去世",
       "onboard_time": 1697283392,
       "rank": 5,
@@ -195,12 +195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 917544,
+      "raw_hot": 955293,
       "num": 917544,
       "word": "赵丽颖檀健次同框",
       "onboard_time": 1697286575,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 951037,
+      "num": 951037,
+      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+      "onboard_time": 1697285852,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 850385,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 826205,
-      "num": 382132,
+      "num": 400209,
       "word": "赵丽颖深V红裙",
       "onboard_time": 1697286575,
       "rank": 15,
@@ -249,6 +257,14 @@
       "onboard_time": 1697252853,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 808657,
+      "num": 438829,
+      "word": "巴以冲突记者手机APP警报响个不停",
+      "onboard_time": 1697287175,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 804498,
@@ -268,7 +284,7 @@
     },
     {
       "raw_hot": 771199,
-      "num": 380955,
+      "num": 427893,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
       "rank": 11,
@@ -315,18 +331,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 697180,
-      "num": 697180,
-      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
-      "onboard_time": 1697285852,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 684143,
       "num": 222262,
       "word": "致6死婚车事故遇难新娘已怀有身孕",
       "onboard_time": 1697264250,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 667839,
+      "num": 417319,
+      "word": "湖南一技师学院一名女生宿舍内死亡",
+      "onboard_time": 1697289094,
       "rank": 30,
       "category": "社会新闻"
     },
@@ -435,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 567427,
+      "num": 567427,
+      "word": "田耕纪首播反响",
+      "onboard_time": 1697287957,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562178,
       "num": 365070,
       "word": "BBC记者被以色列警察持枪威胁",
@@ -481,6 +505,14 @@
       "onboard_time": 1697246793,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 533676,
+      "num": 533676,
+      "word": "张凌赫 hi6",
+      "onboard_time": 1697289155,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 533615,
@@ -595,14 +627,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 460709,
-      "num": 460709,
-      "word": "田耕纪首播反响",
-      "onboard_time": 1697287957,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 460435,
       "num": 460435,
       "word": "官方通报家长不参与自愿研学被踢出群",
@@ -644,7 +668,7 @@
     },
     {
       "raw_hot": 444464,
-      "num": 366008,
+      "num": 398876,
       "word": "王毅同布林肯通话",
       "onboard_time": 1697287716,
       "rank": 12,
@@ -713,14 +737,6 @@
       "onboard_time": 1697283093,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 415976,
-      "num": 338427,
-      "word": "巴以冲突记者手机APP警报响个不停",
-      "onboard_time": 1697287175,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 415510,
@@ -801,6 +817,14 @@
       "onboard_time": 1697272232,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387774,
+      "num": 316657,
+      "word": "薛之谦宋茜互动好搞笑",
+      "onboard_time": 1697288795,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 384916,
@@ -931,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 327956,
+      "num": 327956,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1697289515,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 325111,
       "num": 325111,
       "word": "张凌赫早八状态",
@@ -993,14 +1025,6 @@
       "onboard_time": 1697204674,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304994,
-      "num": 287178,
-      "word": "薛之谦宋茜互动好搞笑",
-      "onboard_time": 1697288795,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 304566,
@@ -1187,6 +1211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263443,
+      "num": 263443,
+      "word": "GK 心梗",
+      "onboard_time": 1697289756,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 261736,
       "num": 261736,
       "word": "浙江一小学发现汉六朝时期聚落遗址",
@@ -1233,14 +1265,6 @@
       "onboard_time": 1697240125,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 243128,
-      "num": 193061,
-      "word": "湖南一技师学院一名女生宿舍内死亡",
-      "onboard_time": 1697289094,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242733,
@@ -1379,6 +1403,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 219885,
+      "num": 219885,
+      "word": "武汉欢乐谷 差评",
+      "onboard_time": 1697289695,
+      "rank": 28,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 216914,
       "num": 205323,
       "word": "周启豪摔倒",
@@ -1427,6 +1459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 209137,
+      "num": 209137,
+      "word": "巴以冲突",
+      "onboard_time": 1697289999,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 208261,
       "num": 793017,
       "word": "广州一妈妈带女儿赴港实现冰雪奇缘梦",
@@ -1473,6 +1513,14 @@
       "onboard_time": 1697260833,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204490,
+      "num": 204490,
+      "word": "问心",
+      "onboard_time": 1697289999,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 203343,
@@ -1555,14 +1603,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 194376,
-      "num": 194376,
-      "word": "张凌赫 hi6",
-      "onboard_time": 1697289155,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193944,
       "num": 193944,
       "word": "朱一龙的粘人徒弟超会的",
@@ -1641,6 +1681,14 @@
       "onboard_time": 1697270732,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 188381,
+      "num": 188381,
+      "word": "DRG对战BOA",
+      "onboard_time": 1697290056,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 187362,
@@ -2073,6 +2121,14 @@
       "onboard_time": 1697273972,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148853,
+      "num": 148853,
+      "word": "一诺感谢TTG两位哥",
+      "onboard_time": 1697289515,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 146741,

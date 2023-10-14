@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697289470293,
+  "endTime": 1697290437821,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 2089317,
-      "num": 635816,
+      "num": 752472,
       "word": "纪宝贝去世",
       "onboard_time": 1697283392,
       "rank": 5,
@@ -4731,6 +4731,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 955293,
+      "num": 917544,
+      "word": "赵丽颖檀健次同框",
+      "onboard_time": 1697286575,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 952951,
       "num": 952951,
       "word": "经期不能做的6件事",
@@ -4745,6 +4753,14 @@
       "onboard_time": 1696166923,
       "rank": 39,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 951037,
+      "num": 951037,
+      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
+      "onboard_time": 1697285852,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 949713,
@@ -4897,14 +4913,6 @@
       "onboard_time": 1696571793,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 917544,
-      "num": 917544,
-      "word": "赵丽颖檀健次同框",
-      "onboard_time": 1697286575,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 913985,
@@ -5668,7 +5676,7 @@
     },
     {
       "raw_hot": 826205,
-      "num": 382132,
+      "num": 400209,
       "word": "赵丽颖深V红裙",
       "onboard_time": 1697286575,
       "rank": 15,
@@ -5817,6 +5825,14 @@
       "onboard_time": 1696574554,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 808657,
+      "num": 438829,
+      "word": "巴以冲突记者手机APP警报响个不停",
+      "onboard_time": 1697287175,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 807810,
@@ -6268,7 +6284,7 @@
     },
     {
       "raw_hot": 771199,
-      "num": 380955,
+      "num": 427893,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
       "rank": 11,
@@ -7187,14 +7203,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 697180,
-      "num": 697180,
-      "word": "鸡蛋是舍不得吃的 牛奶是上次给他们的",
-      "onboard_time": 1697285852,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 696787,
       "num": 696787,
       "word": "日本女足全队向水庆霞鞠躬",
@@ -7529,6 +7537,14 @@
       "onboard_time": 1696757974,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 667839,
+      "num": 417319,
+      "word": "湖南一技师学院一名女生宿舍内死亡",
+      "onboard_time": 1697289094,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 667830,
@@ -9435,6 +9451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 567427,
+      "num": 567427,
+      "word": "田耕纪首播反响",
+      "onboard_time": 1697287957,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 565347,
       "num": 353820,
       "word": "闫桉发文告别组合",
@@ -10009,6 +10033,14 @@
       "onboard_time": 1697185354,
       "rank": 26,
       "category": "其它"
+    },
+    {
+      "raw_hot": 533676,
+      "num": 533676,
+      "word": "张凌赫 hi6",
+      "onboard_time": 1697289155,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 533615,
@@ -11979,14 +12011,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 460709,
-      "num": 460709,
-      "word": "田耕纪首播反响",
-      "onboard_time": 1697287957,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 460660,
       "num": 460660,
       "word": "迪丽热巴花少5拍照姿势",
@@ -12548,7 +12572,7 @@
     },
     {
       "raw_hot": 444464,
-      "num": 366008,
+      "num": 398876,
       "word": "王毅同布林肯通话",
       "onboard_time": 1697287716,
       "rank": 12,
@@ -13297,14 +13321,6 @@
       "onboard_time": 1696941157,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 415976,
-      "num": 338427,
-      "word": "巴以冲突记者手机APP警报响个不停",
-      "onboard_time": 1697287175,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 415510,
@@ -14249,6 +14265,14 @@
       "onboard_time": 1696434633,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 387774,
+      "num": 316657,
+      "word": "薛之谦宋茜互动好搞笑",
+      "onboard_time": 1697288795,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 387454,
@@ -17027,6 +17051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 327956,
+      "num": 327956,
+      "word": "许昕还是太全面了",
+      "onboard_time": 1697289515,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327812,
       "num": 327812,
       "word": "海底捞开到大学里了",
@@ -18177,14 +18209,6 @@
       "onboard_time": 1697122837,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304994,
-      "num": 287178,
-      "word": "薛之谦宋茜互动好搞笑",
-      "onboard_time": 1697288795,
-      "rank": 20,
-      "category": "演出"
     },
     {
       "raw_hot": 304618,
@@ -21387,6 +21411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263443,
+      "num": 263443,
+      "word": "GK 心梗",
+      "onboard_time": 1697289756,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 263289,
       "num": 263289,
       "word": "陈梦晋级女单决赛",
@@ -23097,14 +23129,6 @@
       "onboard_time": 1696900892,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243128,
-      "num": 193061,
-      "word": "湖南一技师学院一名女生宿舍内死亡",
-      "onboard_time": 1697289094,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243031,
@@ -25433,6 +25457,14 @@
       "onboard_time": 1696510177,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 219885,
+      "num": 219885,
+      "word": "武汉欢乐谷 差评",
+      "onboard_time": 1697289695,
+      "rank": 28,
+      "category": "旅游"
     },
     {
       "raw_hot": 219812,
@@ -28891,14 +28923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 194376,
-      "num": 194376,
-      "word": "张凌赫 hi6",
-      "onboard_time": 1697289155,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 194271,
       "num": 193145,
       "word": "哈马斯否认其武装人员袭击儿童",
@@ -29881,6 +29905,14 @@
       "onboard_time": 1696494331,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188381,
+      "num": 188381,
+      "word": "DRG对战BOA",
+      "onboard_time": 1697290056,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 188363,
@@ -34353,6 +34385,14 @@
       "onboard_time": 1696245155,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148853,
+      "num": 148853,
+      "word": "一诺感谢TTG两位哥",
+      "onboard_time": 1697289515,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 148842,
