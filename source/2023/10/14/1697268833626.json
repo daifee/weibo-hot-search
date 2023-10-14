@@ -1,0 +1,410 @@
+{
+  "runTime": 1697268833626,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2102949,
+        "num": 2102949,
+        "word": "男子误喝防冻液血液成胶冻状离世",
+        "onboard_time": 1697263171,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1184114,
+        "num": 1184114,
+        "word": "陈奕迅澳门演唱会被要求说国语",
+        "onboard_time": 1697264611,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21373,
+        "num": 727171,
+        "word": "共建一带一路十周年",
+        "onboard_time": 1697258672,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 587330,
+        "num": 587330,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 580318,
+        "num": 580318,
+        "word": "所以不要和陌生人说话才会成为经典",
+        "onboard_time": 1697259093,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 477102,
+        "num": 477102,
+        "word": "美国要求以色列推迟地面进攻",
+        "onboard_time": 1697263111,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 471559,
+        "num": 471559,
+        "word": "国考约7成招录计划专招应届生",
+        "onboard_time": 1697264730,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 469621,
+        "num": 469621,
+        "word": "幼儿园为兔子办婚礼请小朋友吃大席",
+        "onboard_time": 1697261372,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415510,
+        "num": 415510,
+        "word": "王栎鑫把陈楚生说哭了",
+        "onboard_time": 1697263592,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357944,
+        "num": 357944,
+        "word": "曝知名媒体人段暄失联",
+        "onboard_time": 1697257770,
+        "rank": 9,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 648441,
+        "num": 346737,
+        "word": "陈牧驰工作室维权声明",
+        "onboard_time": 1697263831,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 646826,
+        "num": 338751,
+        "word": "董璇看女儿小酒窝走秀时的眼神",
+        "onboard_time": 1697262690,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 562178,
+        "num": 333591,
+        "word": "BBC记者被以色列警察持枪威胁",
+        "onboard_time": 1697265572,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 325949,
+        "num": 325949,
+        "word": "水溶C100怎么就成了神水",
+        "onboard_time": 1697246612,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 287074,
+        "num": 287074,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 281214,
+        "num": 281214,
+        "word": "戚薇许嵩歌圈何炅谢娜",
+        "onboard_time": 1697263230,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269040,
+        "num": 269040,
+        "word": "国考岗位",
+        "onboard_time": 1697250934,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243796,
+        "num": 243796,
+        "word": "张杰把逆战唱成孤勇者",
+        "onboard_time": 1697265273,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241450,
+        "num": 241450,
+        "word": "杨紫头发丝都在发光",
+        "onboard_time": 1697263052,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223985,
+        "num": 223985,
+        "word": "佛山电翰",
+        "onboard_time": 1697248593,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 648737,
+        "num": 223904,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 244917,
+        "num": 223662,
+        "word": "医生提醒年轻人千万不要再熬夜了",
+        "onboard_time": 1697257712,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223001,
+        "num": 223001,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205150,
+        "num": 205150,
+        "word": "詹姆斯真老了",
+        "onboard_time": 1697262030,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199269,
+        "num": 199269,
+        "word": "二十岁的于正",
+        "onboard_time": 1697266952,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198781,
+        "num": 198781,
+        "word": "SM年末大促销",
+        "onboard_time": 1697261794,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 192733,
+        "num": 192733,
+        "word": "超40万巴勒斯坦人离开加沙的家园",
+        "onboard_time": 1697268270,
+        "rank": 26,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 189865,
+        "num": 189865,
+        "word": "小伙神似周杰伦被歌迷围观跟拍",
+        "onboard_time": 1697267672,
+        "rank": 27,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 188916,
+        "num": 188916,
+        "word": "武大被骚扰当事人回应肖某某记过",
+        "onboard_time": 1697261311,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185696,
+        "num": 185696,
+        "word": "你知道夔怎么读吗",
+        "onboard_time": 1697262273,
+        "rank": 29,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 185361,
+        "num": 185361,
+        "word": "以色列将对巴勒斯坦加大攻势",
+        "onboard_time": 1697248712,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 182306,
+        "num": 182306,
+        "word": "孟子义官宣现在就出发",
+        "onboard_time": 1697267311,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179159,
+        "num": 179159,
+        "word": "沢田纲吉",
+        "onboard_time": 1697266411,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 177557,
+        "num": 177557,
+        "word": "完颜慧德 心理咨询师",
+        "onboard_time": 1697267429,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166627,
+        "num": 166627,
+        "word": "国考",
+        "onboard_time": 1697268691,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151087,
+        "num": 151087,
+        "word": "周杰伦演唱会偶遇张雨绮",
+        "onboard_time": 1697248533,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 149365,
+        "num": 149365,
+        "word": "俄罗斯人组团去黑龙江吃早饭",
+        "onboard_time": 1697263592,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147708,
+        "num": 147708,
+        "word": "女儿谎称袖子口有线头给妈妈惊喜",
+        "onboard_time": 1697261730,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140160,
+        "num": 140160,
+        "word": "王子文一把推开了白敬亭",
+        "onboard_time": 1697265030,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138650,
+        "num": 138650,
+        "word": "徐冬冬被压10年的剧播了",
+        "onboard_time": 1697243312,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136943,
+        "num": 136943,
+        "word": "余华 是情绪而不是人生进入了死胡同",
+        "onboard_time": 1697259992,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131248,
+        "num": 131248,
+        "word": "侯明昊 天选古装人",
+        "onboard_time": 1697266891,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127056,
+        "num": 127056,
+        "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
+        "onboard_time": 1697244153,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124429,
+        "num": 124429,
+        "word": "我爸给自己买了乳贴",
+        "onboard_time": 1697251171,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124356,
+        "num": 124356,
+        "word": "张远四公MVP",
+        "onboard_time": 1697263052,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123259,
+        "num": 123259,
+        "word": "全网都知道马哲的徒弟裆开了",
+        "onboard_time": 1697263230,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121118,
+        "num": 121118,
+        "word": "黄子弘凡说啥来啥",
+        "onboard_time": 1697265212,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118935,
+        "num": 118935,
+        "word": "奶奶出殡前一天",
+        "onboard_time": 1697268631,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117748,
+        "num": 117748,
+        "word": "考研二战的学姐消失在朋友圈",
+        "onboard_time": 1697240426,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114186,
+        "num": 114186,
+        "word": "跟随大张伟马嘉祺的歌声漫游宇宙",
+        "onboard_time": 1697267489,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#奋力谱写中国式现代化江西篇章#"
+    }
+  }
+}

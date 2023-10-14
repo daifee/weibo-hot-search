@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697267676425,
+  "endTime": 1697268833626,
   "band_list": [
     {
       "raw_hot": 2234669,
@@ -91,6 +91,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1184114,
+      "num": 1184114,
+      "word": "陈奕迅澳门演唱会被要求说国语",
+      "onboard_time": 1697264611,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1160663,
       "num": 1160663,
       "word": "考研二战的学姐消失在朋友圈",
@@ -145,14 +153,6 @@
       "onboard_time": 1697240065,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 960007,
-      "num": 960007,
-      "word": "陈奕迅澳门演唱会被要求说国语",
-      "onboard_time": 1697264611,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 850385,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 646826,
+      "num": 438172,
+      "word": "董璇看女儿小酒窝走秀时的眼神",
+      "onboard_time": 1697262690,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 625758,
       "num": 625758,
       "word": "现在流行男主不是官配吗",
@@ -299,12 +307,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 591237,
-      "num": 438172,
-      "word": "董璇看女儿小酒窝走秀时的眼神",
-      "onboard_time": 1697262690,
+      "raw_hot": 562178,
+      "num": 365070,
+      "word": "BBC记者被以色列警察持枪威胁",
+      "onboard_time": 1697265572,
       "rank": 12,
-      "category": "艺人"
+      "category": "国外要闻"
     },
     {
       "raw_hot": 559785,
@@ -379,14 +387,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 479724,
-      "num": 365070,
-      "word": "BBC记者被以色列警察持枪威胁",
-      "onboard_time": 1697265572,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 476528,
       "num": 302580,
       "word": "医生提醒年轻人千万不要再熬夜了",
@@ -401,6 +401,14 @@
       "onboard_time": 1697256152,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 471559,
+      "num": 471559,
+      "word": "国考约7成招录计划专招应届生",
+      "onboard_time": 1697264730,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 460435,
@@ -425,14 +433,6 @@
       "onboard_time": 1697244153,
       "rank": 23,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 438281,
-      "num": 438281,
-      "word": "国考约7成招录计划专招应届生",
-      "onboard_time": 1697264730,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 437559,
@@ -467,20 +467,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 415510,
+      "num": 415510,
+      "word": "王栎鑫把陈楚生说哭了",
+      "onboard_time": 1697263592,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 413606,
       "num": 413606,
       "word": "SM年末大促销",
       "onboard_time": 1697261794,
       "rank": 13,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 412681,
-      "num": 412681,
-      "word": "王栎鑫把陈楚生说哭了",
-      "onboard_time": 1697263592,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 407823,
@@ -1019,6 +1019,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192733,
+      "num": 192733,
+      "word": "超40万巴勒斯坦人离开加沙的家园",
+      "onboard_time": 1697268270,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 189865,
+      "num": 189865,
+      "word": "小伙神似周杰伦被歌迷围观跟拍",
+      "onboard_time": 1697267672,
+      "rank": 43,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 187234,
       "num": 187234,
       "word": "2024国考这些时间点要留意",
@@ -1067,20 +1083,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182306,
+      "num": 182306,
+      "word": "孟子义官宣现在就出发",
+      "onboard_time": 1697267311,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 179159,
+      "num": 179159,
+      "word": "沢田纲吉",
+      "onboard_time": 1697266411,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 177557,
+      "num": 177557,
+      "word": "完颜慧德 心理咨询师",
+      "onboard_time": 1697267429,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 177048,
       "num": 177048,
       "word": "这孩子幼儿园在国企上的吧",
       "onboard_time": 1697241990,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 175500,
-      "num": 175500,
-      "word": "沢田纲吉",
-      "onboard_time": 1697266411,
-      "rank": 31,
-      "category": "动漫"
     },
     {
       "raw_hot": 174585,
@@ -1147,6 +1179,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 166627,
+      "num": 166627,
+      "word": "国考",
+      "onboard_time": 1697268691,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 166608,
       "num": 166608,
       "word": "杨九郎说和唐九洲是一个单位的",
@@ -1185,14 +1225,6 @@
       "onboard_time": 1697266891,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 162614,
-      "num": 162614,
-      "word": "孟子义官宣现在就出发",
-      "onboard_time": 1697267311,
-      "rank": 34,
-      "category": "综艺"
     },
     {
       "raw_hot": 162355,
@@ -1371,14 +1403,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 133761,
-      "num": 131408,
-      "word": "小伙神似周杰伦被歌迷围观跟拍",
-      "onboard_time": 1697267672,
-      "rank": 43,
-      "category": "社会新闻,艺人"
-    },
-    {
       "raw_hot": 133721,
       "num": 133721,
       "word": "酒后找代驾结果代驾竟酒驾",
@@ -1451,14 +1475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 128264,
-      "num": 128264,
-      "word": "完颜慧德 心理咨询师",
-      "onboard_time": 1697267429,
-      "rank": 45,
-      "category": "网红"
-    },
-    {
       "raw_hot": 126677,
       "num": 126677,
       "word": "跟随大张伟马嘉祺的歌声漫游宇宙",
@@ -1521,6 +1537,14 @@
       "onboard_time": 1697239764,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118935,
+      "num": 118935,
+      "word": "奶奶出殡前一天",
+      "onboard_time": 1697268631,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 118172,
