@@ -1,6 +1,6 @@
 {
   "startTime": 1697214116973,
-  "endTime": 1697257182722,
+  "endTime": 1697258062535,
   "band_list": [
     {
       "raw_hot": 1749540,
@@ -131,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 825878,
+      "num": 448528,
+      "word": "国家公务员局对考生发布提醒",
+      "onboard_time": 1697255371,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 811104,
       "num": 811104,
       "word": "山东超半数乡镇公务员想离职",
@@ -177,14 +185,6 @@
       "onboard_time": 1697209360,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 682436,
-      "num": 440725,
-      "word": "国家公务员局对考生发布提醒",
-      "onboard_time": 1697255371,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 655433,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 442601,
+      "num": 442601,
+      "word": "国产烂片营销为何堪比诈骗",
+      "onboard_time": 1697256152,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 437559,
       "num": 437559,
       "word": "民间流传缠腰龙缠一圈致命是谣言",
@@ -409,14 +417,6 @@
       "onboard_time": 1697255310,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 349221,
-      "num": 349221,
-      "word": "国产烂片营销为何堪比诈骗",
-      "onboard_time": 1697256152,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 348020,
@@ -561,6 +561,14 @@
       "onboard_time": 1697210497,
       "rank": 17,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 264534,
+      "num": 264534,
+      "word": "计算机毕业生做环卫工人是什么体验",
+      "onboard_time": 1697256810,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261736,
@@ -835,6 +843,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165218,
+      "num": 165218,
+      "word": "医生提醒年轻人千万不要再熬夜了",
+      "onboard_time": 1697257712,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162947,
+      "num": 162947,
+      "word": "在成都肉眼可见雪山是种什么体验",
+      "onboard_time": 1697257533,
+      "rank": 37,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 162919,
       "num": 162919,
       "word": "轻舟已过万重山说的是哪里",
@@ -873,6 +897,14 @@
       "onboard_time": 1697191894,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 158080,
+      "num": 158080,
+      "word": "五代男团处境困难的男爱豆",
+      "onboard_time": 1697252970,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 157376,
@@ -915,6 +947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151064,
+      "num": 151064,
+      "word": "曝知名媒体人段暄失联",
+      "onboard_time": 1697257770,
+      "rank": 40,
+      "category": "社会新闻,体育"
+    },
+    {
       "raw_hot": 146029,
       "num": 146029,
       "word": "小警犬训练太凶太费训导员",
@@ -928,14 +968,6 @@
       "word": "女警抱住情绪崩溃女子安慰10分钟",
       "onboard_time": 1697242532,
       "rank": 37,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 143984,
-      "num": 143984,
-      "word": "计算机毕业生做环卫工人是什么体验",
-      "onboard_time": 1697256810,
-      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -955,12 +987,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139854,
-      "num": 139854,
-      "word": "五代男团处境困难的男爱豆",
-      "onboard_time": 1697252970,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 138751,
+      "num": 138751,
+      "word": "十月待播新剧前瞻",
+      "onboard_time": 1697257409,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 138710,

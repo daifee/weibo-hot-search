@@ -1,0 +1,410 @@
+{
+  "runTime": 1697258062535,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1040750,
+        "num": 1040750,
+        "word": "水溶C100怎么就成了神水",
+        "onboard_time": 1697246612,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 980992,
+        "num": 980992,
+        "word": "杨迪把吴昕拉黑了",
+        "onboard_time": 1697244391,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25963,
+        "num": 794219,
+        "word": "行走黄河 遇见幸福",
+        "onboard_time": 1697246850,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 727709,
+        "num": 727709,
+        "word": "山东超半数乡镇公务员想离职",
+        "onboard_time": 1697252853,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593065,
+        "num": 593065,
+        "word": "现在流行男主不是官配吗",
+        "onboard_time": 1697252673,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 586191,
+        "num": 586191,
+        "word": "国考岗位",
+        "onboard_time": 1697250934,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 490191,
+        "num": 490191,
+        "word": "徐冬冬被压10年的剧播了",
+        "onboard_time": 1697243312,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 489083,
+        "num": 489083,
+        "word": "以色列将对巴勒斯坦加大攻势",
+        "onboard_time": 1697248712,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 457731,
+        "num": 457731,
+        "word": "我爸给自己买了乳贴",
+        "onboard_time": 1697251171,
+        "rank": 8,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 452575,
+        "num": 452575,
+        "word": "周也 名门贵女",
+        "onboard_time": 1697247872,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919923,
+        "num": 452026,
+        "word": "佛山电翰",
+        "onboard_time": 1697248593,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 825878,
+        "num": 448528,
+        "word": "国家公务员局对考生发布提醒",
+        "onboard_time": 1697255371,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 442601,
+        "num": 442601,
+        "word": "国产烂片营销为何堪比诈骗",
+        "onboard_time": 1697256152,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 425596,
+        "num": 425596,
+        "word": "孙海洋向寻亲家长道歉",
+        "onboard_time": 1697246850,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405867,
+        "num": 405867,
+        "word": "段暄",
+        "onboard_time": 1697254651,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367886,
+        "num": 367886,
+        "word": "考研二战的学姐消失在朋友圈",
+        "onboard_time": 1697240426,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338278,
+        "num": 338278,
+        "word": "电子竞技不相信女性",
+        "onboard_time": 1697246793,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 297620,
+        "num": 297620,
+        "word": "张凌赫早八状态",
+        "onboard_time": 1697256270,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297555,
+        "num": 297555,
+        "word": "周杰伦演唱会偶遇张雨绮",
+        "onboard_time": 1697248533,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 282787,
+        "num": 282787,
+        "word": "福岛小学门口辐射值超标10倍",
+        "onboard_time": 1697248652,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1093709,
+        "num": 282349,
+        "word": "浙江17岁少年杀害65岁房东",
+        "onboard_time": 1697247634,
+        "rank": 20,
+        "category": "社会负面"
+      },
+      {
+        "raw_hot": 322630,
+        "num": 276975,
+        "word": "女村支书掌掴13岁女孩被其父打断鼻骨",
+        "onboard_time": 1697244153,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314360,
+        "num": 271620,
+        "word": "女生壮成这样出门有多爽",
+        "onboard_time": 1697255310,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 290640,
+        "num": 264649,
+        "word": "英男子性侵13岁女童判无罪释放后大笑",
+        "onboard_time": 1697240065,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264534,
+        "num": 264534,
+        "word": "计算机毕业生做环卫工人是什么体验",
+        "onboard_time": 1697256810,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225134,
+        "num": 225134,
+        "word": "杀猪盘短信已然沦为网友发疯工具",
+        "onboard_time": 1697248292,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217739,
+        "num": 217739,
+        "word": "朱一龙听到两代人瞳孔地震",
+        "onboard_time": 1697254170,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213944,
+        "num": 213944,
+        "word": "国考公告",
+        "onboard_time": 1697246073,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 204737,
+        "num": 204737,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697241331,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 194566,
+        "num": 194566,
+        "word": "2024国考计划招录3.96万人",
+        "onboard_time": 1697249492,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184147,
+        "num": 184147,
+        "word": "为有暗香来",
+        "onboard_time": 1697256392,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179975,
+        "num": 179975,
+        "word": "被傅园慧苏到像呼吸一样",
+        "onboard_time": 1697255254,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177178,
+        "num": 177178,
+        "word": "大牙 我浪费了好多擦泪的时间",
+        "onboard_time": 1697252192,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170772,
+        "num": 170772,
+        "word": "女子每天背128斤丈夫上下3楼",
+        "onboard_time": 1697251772,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169939,
+        "num": 169939,
+        "word": "大一和大四一眼就能认出来",
+        "onboard_time": 1697245292,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169359,
+        "num": 169359,
+        "word": "为什么胰腺癌一发现就是晚期",
+        "onboard_time": 1697246913,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165218,
+        "num": 165218,
+        "word": "医生提醒年轻人千万不要再熬夜了",
+        "onboard_time": 1697257712,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162947,
+        "num": 162947,
+        "word": "在成都肉眼可见雪山是种什么体验",
+        "onboard_time": 1697257533,
+        "rank": 37,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 160033,
+        "num": 160033,
+        "word": "卢昱晓有在努力纠正走姿了",
+        "onboard_time": 1697242770,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158080,
+        "num": 158080,
+        "word": "五代男团处境困难的男爱豆",
+        "onboard_time": 1697252970,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151064,
+        "num": 151064,
+        "word": "曝知名媒体人段暄失联",
+        "onboard_time": 1697257770,
+        "rank": 40,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 149193,
+        "num": 149193,
+        "word": "多尔衮行宫挂牌1.8亿出售",
+        "onboard_time": 1697242412,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142021,
+        "num": 142021,
+        "word": "陆毅质疑理解接受粉色",
+        "onboard_time": 1697254170,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141679,
+        "num": 141679,
+        "word": "檀健次 丽江",
+        "onboard_time": 1697243428,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139036,
+        "num": 139036,
+        "word": "因为挤不上地铁离职了",
+        "onboard_time": 1697251352,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 138751,
+        "num": 138751,
+        "word": "十月待播新剧前瞻",
+        "onboard_time": 1697257409,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132222,
+        "num": 132222,
+        "word": "文班亚马惊天隔扣",
+        "onboard_time": 1697249972,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126611,
+        "num": 126611,
+        "word": "男子骗女子同居生娃后又骗百万积蓄",
+        "onboard_time": 1697248172,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118395,
+        "num": 118395,
+        "word": "小伙辞职进大凉山支教6年成校长",
+        "onboard_time": 1697254830,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109408,
+        "num": 109408,
+        "word": "CharliePuth上海演唱会",
+        "onboard_time": 1697254470,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记提到的固本兴新有何深意#"
+    }
+  }
+}
