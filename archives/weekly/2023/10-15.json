@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697361308561,
+  "endTime": 1697362442828,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -16,6 +16,14 @@
       "word": "夏奶奶去世",
       "onboard_time": 1697342254,
       "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2485511,
+      "num": 2485511,
+      "word": "乡村爱情13刘能饰演者赵明远去世",
+      "onboard_time": 1697357912,
+      "rank": 32,
       "category": "艺人"
     },
     {
@@ -35,6 +43,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2130164,
+      "num": 339265,
+      "word": "米村拌饭 魏大勋来吃俺了",
+      "onboard_time": 1697359354,
+      "rank": 10,
+      "category": "美食,艺人"
+    },
+    {
       "raw_hot": 2119909,
       "num": 2119909,
       "word": "王楚钦 希望大家能尊重彼此的隐私",
@@ -49,14 +65,6 @@
       "onboard_time": 1697349331,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1954312,
-      "num": 286891,
-      "word": "米村拌饭 魏大勋来吃俺了",
-      "onboard_time": 1697359354,
-      "rank": 10,
-      "category": "美食,艺人"
     },
     {
       "raw_hot": 1874909,
@@ -91,16 +99,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1535496,
-      "num": 1535496,
-      "word": "乡村爱情13刘能饰演者赵明远去世",
-      "onboard_time": 1697357912,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1391052,
-      "num": 285997,
+      "num": 336647,
       "word": "红星美凯龙 迪丽热巴",
       "onboard_time": 1697358332,
       "rank": 15,
@@ -185,6 +185,14 @@
       "onboard_time": 1697356834,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 851694,
+      "num": 330847,
+      "word": "中国中免董事长李刚去世",
+      "onboard_time": 1697360612,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 836362,
@@ -289,6 +297,14 @@
       "onboard_time": 1697289094,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640111,
+      "num": 326078,
+      "word": "夫妻每天背几十斤黄金上下班坚持20年",
+      "onboard_time": 1697361514,
+      "rank": 15,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 630448,
@@ -419,6 +435,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 541996,
+      "num": 541996,
+      "word": "加沙空袭幸存婴儿在记者安抚下笑了",
+      "onboard_time": 1697359112,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 540893,
       "num": 359550,
       "word": "罗翔 比穷更可怕的是无人在意",
@@ -523,12 +547,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 476198,
-      "num": 277063,
-      "word": "加沙空袭幸存婴儿在记者安抚下笑了",
-      "onboard_time": 1697359112,
-      "rank": 14,
-      "category": "国外要闻"
+      "raw_hot": 477409,
+      "num": 322298,
+      "word": "林俊杰 生生是一个很私人的作品",
+      "onboard_time": 1697361212,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 460830,
@@ -691,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374327,
-      "num": 271750,
-      "word": "中国中免董事长李刚去世",
-      "onboard_time": 1697360612,
-      "rank": 16,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 371969,
       "num": 371969,
       "word": "华浅提出和离",
@@ -713,6 +729,14 @@
       "onboard_time": 1697342194,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365510,
+      "num": 166226,
+      "word": "伊朗官方否认C罗将受鞭刑",
+      "onboard_time": 1697361876,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 365137,
@@ -737,6 +761,22 @@
       "onboard_time": 1697345555,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 353179,
+      "num": 353179,
+      "word": "女子欲轻生被遛狗大哥死死拽住",
+      "onboard_time": 1697359773,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344245,
+      "num": 344245,
+      "word": "男子跑全马腿抽筋老人点穴三秒恢复",
+      "onboard_time": 1697361636,
+      "rank": 9,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 342572,
@@ -788,7 +828,7 @@
     },
     {
       "raw_hot": 326817,
-      "num": 264635,
+      "num": 289589,
       "word": "邓为今天好清爽",
       "onboard_time": 1697359713,
       "rank": 19,
@@ -907,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293162,
-      "num": 293162,
-      "word": "女子欲轻生被遛狗大哥死死拽住",
-      "onboard_time": 1697359773,
-      "rank": 8,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288695,
       "num": 288695,
       "word": "我爸偷偷背着我考了个N2",
@@ -1003,20 +1035,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264063,
+      "num": 264063,
+      "word": "张元英金丝眼镜",
+      "onboard_time": 1697358873,
+      "rank": 21,
+      "category": "综艺,时尚"
+    },
+    {
       "raw_hot": 261025,
       "num": 205458,
       "word": "宋轶当演员克服了全家阻碍",
       "onboard_time": 1697357434,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 260582,
-      "num": 260582,
-      "word": "张元英金丝眼镜",
-      "onboard_time": 1697358873,
-      "rank": 21,
-      "category": "综艺,时尚"
     },
     {
       "raw_hot": 256102,
@@ -1147,6 +1179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223463,
+      "num": 198573,
+      "word": "卢昱晓私服穿搭",
+      "onboard_time": 1697360674,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 217996,
       "num": 217996,
       "word": "粉笔模考",
@@ -1259,6 +1299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197318,
+      "num": 197318,
+      "word": "段奥娟反向OK",
+      "onboard_time": 1697361155,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195157,
       "num": 195157,
       "word": "春节档影片金鸡奖入围情况",
@@ -1273,6 +1321,14 @@
       "onboard_time": 1697343874,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193307,
+      "num": 165392,
+      "word": "安宥真烟熏妆",
+      "onboard_time": 1697362060,
+      "rank": 31,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 192813,
@@ -1297,14 +1353,6 @@
       "onboard_time": 1697346935,
       "rank": 42,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 191035,
-      "num": 191035,
-      "word": "卢昱晓私服穿搭",
-      "onboard_time": 1697360674,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 186100,
@@ -1579,14 +1627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150580,
-      "num": 150580,
-      "word": "段奥娟反向OK",
-      "onboard_time": 1697361155,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150332,
       "num": 189923,
       "word": "400余年古村落家家有泉水和竹林",
@@ -1691,14 +1731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130560,
-      "num": 130560,
-      "word": "林俊杰 生生是一个很私人的作品",
-      "onboard_time": 1697361212,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 128811,
       "num": 128811,
       "word": "TXT ACOUSTIC MEDLEY",
@@ -1779,6 +1811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117868,
+      "num": 117868,
+      "word": "轿车失控落水孤舟老翁救回一条生命",
+      "onboard_time": 1697361996,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117700,
       "num": 117700,
       "word": "2024年国考公告",
@@ -1809,6 +1849,14 @@
       "onboard_time": 1697283812,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111868,
+      "num": 111868,
+      "word": "民警7秒空手夺刀救下轻生女子",
+      "onboard_time": 1697361936,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110384,
@@ -2071,6 +2119,9 @@
     },
     {
       "word": "#共建一带一路习近平主席这样说#"
+    },
+    {
+      "word": "#习近平的丝路情缘#"
     }
   ]
 }
