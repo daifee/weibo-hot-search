@@ -1,0 +1,410 @@
+{
+  "runTime": 1697376854768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1812282,
+        "num": 1812282,
+        "word": "5000万买的豪宅总能闻到邻居烧菜味",
+        "onboard_time": 1697369132,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1562579,
+        "num": 1562579,
+        "word": "以方宣布断绝与联合国中东问题特使关系",
+        "onboard_time": 1697366314,
+        "rank": 1,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 49928,
+        "num": 1020591,
+        "word": "中国载人航天事业正阔步前进",
+        "onboard_time": 1697375076,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 929772,
+        "num": 929772,
+        "word": "七岁儿子在加拿大的中文作业",
+        "onboard_time": 1697373155,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 784908,
+        "num": 784908,
+        "word": "为什么高铁提前三分钟停止检票",
+        "onboard_time": 1697368056,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 673858,
+        "num": 673858,
+        "word": "4名小学生发现41年前曾灭绝的甲虫",
+        "onboard_time": 1697373995,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667273,
+        "num": 667273,
+        "word": "乡村爱情13刘能饰演者赵明远去世",
+        "onboard_time": 1697357912,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568789,
+        "num": 568789,
+        "word": "禾野",
+        "onboard_time": 1697375497,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 463101,
+        "num": 463101,
+        "word": "胡兵 陈楚生站哥",
+        "onboard_time": 1697375797,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447500,
+        "num": 447500,
+        "word": "75岁老人攒18万退休金给自己买房",
+        "onboard_time": 1697371716,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1741070,
+        "num": 415062,
+        "word": "33岁男子自捆双脚跳桥身亡",
+        "onboard_time": 1697370517,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028888,
+        "num": 397592,
+        "word": "刘亦菲晒花木兰蛋糕",
+        "onboard_time": 1697374895,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519479,
+        "num": 390177,
+        "word": "加沙",
+        "onboard_time": 1697374655,
+        "rank": 12,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 377849,
+        "num": 377849,
+        "word": "王栎鑫儿子女儿三人共用一张脸",
+        "onboard_time": 1697355155,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 366454,
+        "num": 366454,
+        "word": "米村拌饭 魏大勋来吃俺了",
+        "onboard_time": 1697359354,
+        "rank": 14,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 342944,
+        "num": 342944,
+        "word": "S13抽签",
+        "onboard_time": 1697371658,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 331917,
+        "num": 331917,
+        "word": "王毅与伊朗外长通电话",
+        "onboard_time": 1697371113,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 328513,
+        "num": 328513,
+        "word": "以色列演员发视频嘲讽加沙断水断电",
+        "onboard_time": 1697367814,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 313377,
+        "num": 313377,
+        "word": "以色列",
+        "onboard_time": 1697363492,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 275611,
+        "num": 275611,
+        "word": "神隐",
+        "onboard_time": 1697369554,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54668,
+        "num": 269986,
+        "word": "李毅迭戈弗兰同场竞技",
+        "onboard_time": 1697375076,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 415178,
+        "num": 269316,
+        "word": "夫妻每天背几十斤黄金上下班坚持20年",
+        "onboard_time": 1697361514,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 331653,
+        "num": 268844,
+        "word": "岳云鹏没认出来素颜的孟子义",
+        "onboard_time": 1697373337,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267376,
+        "num": 267376,
+        "word": "林俊杰 生生是一个很私人的作品",
+        "onboard_time": 1697361212,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 264876,
+        "num": 264876,
+        "word": "迪丽热巴黄景瑜 二搭",
+        "onboard_time": 1697354371,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258064,
+        "num": 258064,
+        "word": "以军发言人称以军将在中东任何地方行动",
+        "onboard_time": 1697364214,
+        "rank": 25,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 254971,
+        "num": 254971,
+        "word": "长相思主创种相思豆",
+        "onboard_time": 1697376041,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253780,
+        "num": 253780,
+        "word": "去年我国结婚人数25至29岁最多",
+        "onboard_time": 1697363555,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248083,
+        "num": 248083,
+        "word": "名侦探学院",
+        "onboard_time": 1697375373,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234732,
+        "num": 234732,
+        "word": "红星美凯龙 迪丽热巴",
+        "onboard_time": 1697358332,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229023,
+        "num": 229023,
+        "word": "陈楚生演唱会",
+        "onboard_time": 1697372674,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 222828,
+        "num": 222828,
+        "word": "男生用嘴帮女友吸伤口确诊三级暴露",
+        "onboard_time": 1697340451,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213659,
+        "num": 213659,
+        "word": "咏梅 我已经和我的皱纹和解了",
+        "onboard_time": 1697374716,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210885,
+        "num": 210885,
+        "word": "梁洁全家去旅行了不带梁洁",
+        "onboard_time": 1697373995,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200875,
+        "num": 200875,
+        "word": "我们的歌",
+        "onboard_time": 1697375856,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198579,
+        "num": 198579,
+        "word": "你们馒头届要考博啊",
+        "onboard_time": 1697369435,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 194089,
+        "num": 194089,
+        "word": "石凯巡演唱跳",
+        "onboard_time": 1697375676,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182540,
+        "num": 182540,
+        "word": "陈家平爱与不爱好明显",
+        "onboard_time": 1697375615,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181967,
+        "num": 181967,
+        "word": "WBG抽签",
+        "onboard_time": 1697371716,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25497,
+        "num": 181362,
+        "word": "看到球场情侣我酸了",
+        "onboard_time": 1697374835,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 181224,
+        "num": 181224,
+        "word": "唐嫣真的好甜",
+        "onboard_time": 1697370096,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180519,
+        "num": 180519,
+        "word": "赵丽颖新妆造",
+        "onboard_time": 1697366612,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178848,
+        "num": 178848,
+        "word": "老人球场疑突发心梗万幸3名球友是医护",
+        "onboard_time": 1697374536,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176973,
+        "num": 176973,
+        "word": "原声台词稳定的明星",
+        "onboard_time": 1697373757,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157396,
+        "num": 157396,
+        "word": "贾玲王牌8请假条",
+        "onboard_time": 1697356834,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145389,
+        "num": 145389,
+        "word": "76岁林子祥和33岁胡夏的友谊",
+        "onboard_time": 1697353534,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143372,
+        "num": 143372,
+        "word": "老人拍张掖美景即兴朗诵慷慨激昂",
+        "onboard_time": 1697376455,
+        "rank": 46,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 140589,
+        "num": 140589,
+        "word": "张子枫田园风穿搭",
+        "onboard_time": 1697372613,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137575,
+        "num": 137575,
+        "word": "莎头青奥会夺冠五周年",
+        "onboard_time": 1697370696,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118498,
+        "num": 118498,
+        "word": "BBC总部被亲巴勒斯坦组织泼红漆",
+        "onboard_time": 1697365294,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}
