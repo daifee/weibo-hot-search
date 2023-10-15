@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697369637565,
+  "endTime": 1697373044005,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2731,6 +2731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1478796,
+      "num": 481649,
+      "word": "33岁男子自捆双脚跳桥身亡",
+      "onboard_time": 1697370517,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1474068,
       "num": 1474068,
       "word": "易烊千玺也去看了坚如磐石",
@@ -3017,6 +3025,14 @@
       "onboard_time": 1697358332,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1387923,
+      "num": 1387923,
+      "word": "为什么高铁提前三分钟停止检票",
+      "onboard_time": 1697368056,
+      "rank": 13,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1381510,
@@ -3449,6 +3465,14 @@
       "onboard_time": 1696230274,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1254662,
+      "num": 1254662,
+      "word": "5000万买的豪宅总能闻到邻居烧菜味",
+      "onboard_time": 1697369132,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1254068,
@@ -5123,14 +5147,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 916454,
-      "num": 916454,
-      "word": "为什么高铁提前三分钟停止检票",
-      "onboard_time": 1697368056,
-      "rank": 13,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 913985,
       "num": 1873538,
       "word": "王楚钦孙颖莎出战混双",
@@ -5649,6 +5665,14 @@
       "onboard_time": 1696766614,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 856734,
+      "num": 467141,
+      "word": "王毅与伊朗外长通电话",
+      "onboard_time": 1697371113,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 856157,
@@ -9931,6 +9955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 564452,
+      "num": 564452,
+      "word": "以色列演员发视频嘲讽加沙断水断电",
+      "onboard_time": 1697367814,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 564186,
       "num": 927825,
       "word": "山东一法官辞职后谈体制与选择",
@@ -10795,6 +10827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 525881,
+      "num": 525881,
+      "word": "实名",
+      "onboard_time": 1697372674,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 525787,
       "num": 471201,
       "word": "韩庚在减了",
@@ -11337,6 +11377,14 @@
       "onboard_time": 1696193415,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 506364,
+      "num": 506364,
+      "word": "神隐",
+      "onboard_time": 1697369554,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 505892,
@@ -12401,14 +12449,6 @@
       "onboard_time": 1697123139,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 469813,
-      "num": 469813,
-      "word": "以色列演员发视频嘲讽加沙断水断电",
-      "onboard_time": 1697367814,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 469501,
@@ -13657,6 +13697,14 @@
       "onboard_time": 1697351492,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431125,
+      "num": 431125,
+      "word": "BLG KT",
+      "onboard_time": 1697370814,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 430689,
@@ -15795,6 +15843,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 369783,
+      "num": 369783,
+      "word": "前台实名制",
+      "onboard_time": 1697372674,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 369573,
       "num": 312709,
       "word": "DOTA2中国对阵马来西亚",
@@ -17376,14 +17432,6 @@
       "word": "孙女整理爷爷遗物发现备好的嫁妆",
       "onboard_time": 1696173278,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 340429,
-      "num": 247610,
-      "word": "5000万买的豪宅总能闻到邻居烧菜味",
-      "onboard_time": 1697369132,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -20019,6 +20067,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 293814,
+      "num": 293814,
+      "word": "WBG抽签",
+      "onboard_time": 1697371716,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 293775,
       "num": 435969,
       "word": "妈妈送狗当成年礼女儿圆梦哇哇大哭",
@@ -20217,6 +20273,14 @@
       "onboard_time": 1696906532,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 290830,
+      "num": 290830,
+      "word": "你们馒头届要考博啊",
+      "onboard_time": 1697369435,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 290759,
@@ -21569,6 +21633,14 @@
       "onboard_time": 1697078614,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274444,
+      "num": 237359,
+      "word": "75岁老人攒18万退休金给自己买房",
+      "onboard_time": 1697371716,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 274306,
@@ -23121,6 +23193,14 @@
       "onboard_time": 1696121371,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 257249,
+      "num": 257249,
+      "word": "女儿结婚妈妈激动说祝你俩生日快乐",
+      "onboard_time": 1697371773,
+      "rank": 27,
+      "category": "情感"
     },
     {
       "raw_hot": 257197,
@@ -24947,6 +25027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237399,
+      "num": 237399,
+      "word": "陈楚生演唱会",
+      "onboard_time": 1697372674,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 237352,
       "num": 237352,
       "word": "8小时睡眠不一定适合每个人",
@@ -25025,6 +25113,14 @@
       "onboard_time": 1697091632,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236735,
+      "num": 236735,
+      "word": "S13抽签",
+      "onboard_time": 1697371658,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 236685,
@@ -26945,6 +27041,14 @@
       "onboard_time": 1696510119,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217547,
+      "num": 217547,
+      "word": "唐嫣真的好甜",
+      "onboard_time": 1697370096,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 217361,
@@ -29811,6 +29915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 197761,
+      "num": 197761,
+      "word": "张子枫田园风穿搭",
+      "onboard_time": 1697372613,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197759,
       "num": 676733,
       "word": "她们是与大国同飞的大女主",
@@ -31009,6 +31121,14 @@
       "onboard_time": 1696239154,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 191235,
+      "num": 191235,
+      "word": "DRG战胜Wkk",
+      "onboard_time": 1697372256,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 191232,
@@ -32971,6 +33091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178440,
+      "num": 178440,
+      "word": "胡彦斌披荆斩棘票数",
+      "onboard_time": 1697369973,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 178329,
       "num": 178329,
       "word": "中国女足半决赛对战日本",
@@ -34281,14 +34409,6 @@
       "onboard_time": 1697078013,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 167786,
-      "num": 167786,
-      "word": "你们馒头届要考博啊",
-      "onboard_time": 1697369435,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 167613,
@@ -35715,6 +35835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156100,
+      "num": 156100,
+      "word": "梁朝伟刘嘉玲许光汉合影",
+      "onboard_time": 1697370814,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156098,
       "num": 979352,
       "word": "这枚大铁环是自主研发国之重器",
@@ -35808,6 +35936,14 @@
       "word": "林诗栋3比0周恺",
       "onboard_time": 1697205456,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155317,
+      "num": 155317,
+      "word": "莎头青奥会夺冠五周年",
+      "onboard_time": 1697370696,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -35936,14 +36072,6 @@
       "word": "魏大勋新剧在梦里下线了",
       "onboard_time": 1696207834,
       "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 154034,
-      "num": 154034,
-      "word": "神隐",
-      "onboard_time": 1697369554,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -36819,6 +36947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144482,
+      "num": 144482,
+      "word": "小伙夜爬嵩山遇大爷运货帮其照亮一路",
+      "onboard_time": 1697372492,
+      "rank": 46,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 144195,
       "num": 144195,
       "word": "张嘉益陈好新剧演夫妻",
@@ -36873,6 +37009,14 @@
       "onboard_time": 1696853014,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144029,
+      "num": 144029,
+      "word": "JDG BDS",
+      "onboard_time": 1697371054,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 143905,
