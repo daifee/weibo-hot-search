@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697411794816,
+  "endTime": 1697412841498,
   "band_list": [
     {
       "raw_hot": 1404141,
@@ -19,20 +19,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1219187,
+      "num": 1219187,
+      "word": "4名小学生发现41年前曾灭绝的甲虫",
+      "onboard_time": 1697373995,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 995352,
       "num": 393651,
       "word": "白敬亭工作室发了好多物料",
       "onboard_time": 1697383775,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 904054,
-      "num": 904054,
-      "word": "4名小学生发现41年前曾灭绝的甲虫",
-      "onboard_time": 1697373995,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 896764,
@@ -51,20 +51,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 856524,
+      "num": 856524,
+      "word": "为什么今年支原体传染严重",
+      "onboard_time": 1697398394,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 841579,
       "num": 377343,
       "word": "33岁男子自捆双脚跳桥身亡",
       "onboard_time": 1697370517,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 811266,
-      "num": 811266,
-      "word": "为什么今年支原体传染严重",
-      "onboard_time": 1697398394,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 751534,
@@ -107,12 +107,28 @@
       "category": "美食"
     },
     {
-      "raw_hot": 436571,
+      "raw_hot": 567290,
       "num": 368307,
       "word": "全华班被献祭",
       "onboard_time": 1697377178,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 486400,
+      "num": 307376,
+      "word": "这是蜜雪冰城的私生子吗",
+      "onboard_time": 1697411787,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 469478,
+      "num": 469478,
+      "word": "官方回应家长质疑拼音o读成喔",
+      "onboard_time": 1697381017,
+      "rank": 8,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434920,
@@ -123,12 +139,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 415881,
-      "num": 415881,
-      "word": "官方回应家长质疑拼音o读成喔",
-      "onboard_time": 1697381017,
-      "rank": 8,
-      "category": "社会新闻"
+      "raw_hot": 393767,
+      "num": 393767,
+      "word": "岳云鹏没认出来素颜的孟子义",
+      "onboard_time": 1697373337,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 340057,
+      "num": 116600,
+      "word": "韩国地铁上看到爱宝双胞胎视频",
+      "onboard_time": 1697411787,
+      "rank": 30,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 328911,
@@ -147,12 +171,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 312210,
-      "num": 312210,
-      "word": "岳云鹏没认出来素颜的孟子义",
-      "onboard_time": 1697373337,
-      "rank": 45,
-      "category": "综艺"
+      "raw_hot": 321560,
+      "num": 321560,
+      "word": "为什么领导的头像都是风景照",
+      "onboard_time": 1697410702,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 293646,
@@ -163,12 +187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290453,
+      "num": 290453,
+      "word": "加沙地带死伤人数过万",
+      "onboard_time": 1697412027,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 279312,
       "num": 279312,
       "word": "七岁儿子在加拿大的中文作业",
       "onboard_time": 1697373155,
       "rank": 17,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 273015,
+      "num": 273015,
+      "word": "普京回应美报告鼓吹准备与中俄同时开战",
+      "onboard_time": 1697377477,
+      "rank": 20,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 257357,
@@ -187,12 +227,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 243075,
-      "num": 243075,
-      "word": "普京回应美报告鼓吹准备与中俄同时开战",
-      "onboard_time": 1697377477,
-      "rank": 20,
-      "category": "国外要闻,军事"
+      "raw_hot": 221401,
+      "num": 221401,
+      "word": "以国家安全顾问承认误判情报",
+      "onboard_time": 1697401333,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 220591,
@@ -201,14 +241,6 @@
       "onboard_time": 1697361514,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 217221,
-      "num": 217221,
-      "word": "以国家安全顾问承认误判情报",
-      "onboard_time": 1697401333,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 207722,
@@ -235,12 +267,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202768,
+      "num": 116245,
+      "word": "中国第一颗原子弹爆炸成功59周年",
+      "onboard_time": 1697411909,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201841,
       "num": 201841,
       "word": "95后称还没去婚礼先参加了葬礼",
       "onboard_time": 1697378559,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199950,
+      "num": 199950,
+      "word": "浙江逆袭王从职高读到麻省理工博士",
+      "onboard_time": 1697411966,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 197261,
@@ -289,6 +337,14 @@
       "onboard_time": 1697374655,
       "rank": 31,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 154945,
+      "num": 116002,
+      "word": "大熊猫福宝爬树已丝滑如猴了",
+      "onboard_time": 1697411607,
+      "rank": 40,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 152872,
@@ -353,14 +409,6 @@
       "onboard_time": 1697354371,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 116391,
-      "num": 116391,
-      "word": "为什么领导的头像都是风景照",
-      "onboard_time": 1697410702,
-      "rank": 25,
-      "category": "情感"
     },
     {
       "raw_hot": 115706,
@@ -443,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73933,
+      "num": 73933,
+      "word": "SuperCup超大杯",
+      "onboard_time": 1697402954,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71717,
       "num": 83907,
       "word": "导演回应影展观众当着主创喊退钱",
@@ -457,22 +513,6 @@
       "onboard_time": 1697403432,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 61601,
-      "num": 61601,
-      "word": "SuperCup超大杯",
-      "onboard_time": 1697402954,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 61301,
-      "num": 61301,
-      "word": "大熊猫福宝爬树已丝滑如猴了",
-      "onboard_time": 1697411607,
-      "rank": 40,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 54016,
@@ -539,7 +579,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 7256,
+      "raw_hot": 8591,
       "num": 626526,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1697174497,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 07:16:34
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 07:34:01
 </p>
 </blockquote>
 <p>
@@ -2775,6 +2775,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23" target="weibo">
+4名小学生发现41年前曾灭绝的甲虫（热度：1219187）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%A4%BE%E6%AD%BB%E5%BC%8F%E5%94%B1%E4%BD%95%E5%BF%85%23" target="weibo">
 于文文在海底捞社死式唱何必（热度：1216152）
 </a>
@@ -3981,12 +3987,6 @@ iPhone平均寿命将达8年（热度：910856）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23" target="weibo">
-4名小学生发现41年前曾灭绝的甲虫（热度：904054）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B0%8F%E5%8F%AA%E5%91%8A%E5%88%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%23" target="weibo">
 三小只告别亚运会（热度：903131）
 </a>
@@ -4347,6 +4347,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E6%94%AF%E5%8E%9F%E4%BD%93%E4%BC%A0%E6%9F%93%E4%B8%A5%E9%87%8D%23" target="weibo">
+为什么今年支原体传染严重（热度：856524）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%B4%AF%E4%BA%86%E6%88%91%E6%9B%BF%E4%BD%A0%E6%BC%94%E4%B8%A4%E9%9B%86%23" target="weibo">
 张婧仪累了我替你演两集（热度：856157）
 </a>
@@ -4655,12 +4661,6 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87%23" target="weibo">
 女生买炸鸡付款一看两百万（热度：811550）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E6%94%AF%E5%8E%9F%E4%BD%93%E4%BC%A0%E6%9F%93%E4%B8%A5%E9%87%8D%23" target="weibo">
-为什么今年支原体传染严重（热度：811266）
 </a>
 </li>
 
