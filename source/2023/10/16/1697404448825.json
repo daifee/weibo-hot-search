@@ -1,0 +1,410 @@
+{
+  "runTime": 1697404448825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 105285,
+        "num": 105285,
+        "word": "为什么今年支原体传染严重",
+        "onboard_time": 1697398394,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 67596,
+        "num": 67596,
+        "word": "4名小学生发现41年前曾灭绝的甲虫",
+        "onboard_time": 1697373995,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2851,
+        "num": 48520,
+        "word": "把青春华章写在祖国大地上",
+        "onboard_time": 1697174497,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 47605,
+        "num": 47605,
+        "word": "公办教师调入镇政府30年退休发现没编制",
+        "onboard_time": 1697382038,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 47386,
+        "num": 47386,
+        "word": "在海底捞被人要蛋糕了",
+        "onboard_time": 1697378377,
+        "rank": 4,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65446,
+        "num": 47303,
+        "word": "以方宣布断绝与联合国中东问题特使关系",
+        "onboard_time": 1697366314,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 46590,
+        "num": 46590,
+        "word": "15号赢麻了 倒带赢麻了",
+        "onboard_time": 1697380118,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45818,
+        "num": 45818,
+        "word": "屠呦呦以身试药实验191次终获成功",
+        "onboard_time": 1697385154,
+        "rank": 7,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 45540,
+        "num": 45540,
+        "word": "官方回应家长质疑拼音o读成喔",
+        "onboard_time": 1697381017,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45260,
+        "num": 45260,
+        "word": "岳云鹏没认出来素颜的孟子义",
+        "onboard_time": 1697373337,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68485,
+        "num": 44310,
+        "word": "33岁男子自捆双脚跳桥身亡",
+        "onboard_time": 1697370517,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 64096,
+        "num": 44202,
+        "word": "刘亦菲的洞洞鞋",
+        "onboard_time": 1697382219,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 57519,
+        "num": 44153,
+        "word": "全华班被献祭",
+        "onboard_time": 1697377178,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43026,
+        "num": 43026,
+        "word": "普京回应美报告鼓吹准备与中俄同时开战",
+        "onboard_time": 1697377477,
+        "rank": 13,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 34857,
+        "num": 34857,
+        "word": "加沙",
+        "onboard_time": 1697374655,
+        "rank": 14,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 31774,
+        "num": 31774,
+        "word": "白敬亭工作室发了好多物料",
+        "onboard_time": 1697383775,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29981,
+        "num": 29981,
+        "word": "周杰伦唱了倒带",
+        "onboard_time": 1697379216,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28836,
+        "num": 28836,
+        "word": "以军在加沙边界集结装甲推土机",
+        "onboard_time": 1697378438,
+        "rank": 17,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 26839,
+        "num": 26839,
+        "word": "七岁儿子在加拿大的中文作业",
+        "onboard_time": 1697373155,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23450,
+        "num": 23450,
+        "word": "以色列",
+        "onboard_time": 1697363492,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 25417,
+        "num": 23058,
+        "word": "夫妻每天背几十斤黄金上下班坚持20年",
+        "onboard_time": 1697361514,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 22577,
+        "num": 22577,
+        "word": "SuperCup超大杯",
+        "onboard_time": 1697402954,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22345,
+        "num": 22345,
+        "word": "5000万买的豪宅总能闻到邻居烧菜味",
+        "onboard_time": 1697369132,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21796,
+        "num": 21796,
+        "word": "胡彦斌对四十岁的理解很通透",
+        "onboard_time": 1697403432,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21645,
+        "num": 21645,
+        "word": "黄晓明去了周杰伦演唱会",
+        "onboard_time": 1697380118,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20913,
+        "num": 20913,
+        "word": "95后称还没去婚礼先参加了葬礼",
+        "onboard_time": 1697378559,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20581,
+        "num": 20581,
+        "word": "刘亦菲晒花木兰蛋糕",
+        "onboard_time": 1697374895,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20213,
+        "num": 20213,
+        "word": "我才知道悬溺是喜欢你读快了",
+        "onboard_time": 1697380063,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18204,
+        "num": 18204,
+        "word": "对体育饭圈化必须亮红牌",
+        "onboard_time": 1697387367,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17236,
+        "num": 17236,
+        "word": "为什么广东人煲汤这么好喝",
+        "onboard_time": 1697379819,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 17814,
+        "num": 17235,
+        "word": "英媒驻加沙记者失联前视频",
+        "onboard_time": 1697397734,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17230,
+        "num": 17230,
+        "word": "比吐槽大会生猛",
+        "onboard_time": 1697381199,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 17186,
+        "num": 17186,
+        "word": "乡村爱情13刘能饰演者赵明远去世",
+        "onboard_time": 1697357912,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16210,
+        "num": 17176,
+        "word": "华浅被逼下跪",
+        "onboard_time": 1697383956,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15669,
+        "num": 17174,
+        "word": "米村拌饭",
+        "onboard_time": 1697380959,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 15270,
+        "num": 17158,
+        "word": "迪丽热巴黄景瑜 二搭",
+        "onboard_time": 1697354371,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15007,
+        "num": 17137,
+        "word": "梁洁全家去旅行了不带梁洁",
+        "onboard_time": 1697373995,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14315,
+        "num": 17135,
+        "word": "白桃星座",
+        "onboard_time": 1697382576,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 13471,
+        "num": 17113,
+        "word": "王栎鑫儿子女儿三人共用一张脸",
+        "onboard_time": 1697355155,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13429,
+        "num": 17104,
+        "word": "小男孩坐错车公交司机开车送回家",
+        "onboard_time": 1697384614,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13264,
+        "num": 17092,
+        "word": "李玟骨灰将于10月底下葬",
+        "onboard_time": 1697379519,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12498,
+        "num": 17078,
+        "word": "李昊直播",
+        "onboard_time": 1697387008,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12405,
+        "num": 17059,
+        "word": "为什么高铁提前三分钟停止检票",
+        "onboard_time": 1697368056,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 12054,
+        "num": 17055,
+        "word": "毛晓彤哭戏",
+        "onboard_time": 1697399054,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11918,
+        "num": 17041,
+        "word": "赵丽颖新妆造",
+        "onboard_time": 1697366612,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 11568,
+        "num": 17023,
+        "word": "林俊杰 生生是一个很私人的作品",
+        "onboard_time": 1697361212,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 11476,
+        "num": 17019,
+        "word": "米村拌饭 魏大勋来吃俺了",
+        "onboard_time": 1697359354,
+        "rank": 46,
+        "category": "艺人,美食"
+      },
+      {
+        "raw_hot": 11326,
+        "num": 17001,
+        "word": "刘能",
+        "onboard_time": 1697379460,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11281,
+        "num": 16984,
+        "word": "薛之谦脏辫开花了",
+        "onboard_time": 1697397554,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 10993,
+        "num": 16981,
+        "word": "胡兵 陈楚生站哥",
+        "onboard_time": 1697375797,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#从大写意到工笔画#"
+    }
+  }
+}

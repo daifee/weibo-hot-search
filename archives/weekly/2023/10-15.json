@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697402062849,
+  "endTime": 1697404448825,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -2907,6 +2907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 105285,
+      "num": 105285,
+      "word": "为什么今年支原体传染严重",
+      "onboard_time": 1697398394,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 104665,
       "num": 89566,
       "word": "长大后才发现过来人的经验是真的",
@@ -3033,14 +3041,6 @@
       "onboard_time": 1697358755,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57544,
-      "num": 57544,
-      "word": "为什么今年支原体传染严重",
-      "onboard_time": 1697398394,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 54215,
@@ -3185,6 +3185,22 @@
       "onboard_time": 1697309895,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 22577,
+      "num": 22577,
+      "word": "SuperCup超大杯",
+      "onboard_time": 1697402954,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 21796,
+      "num": 21796,
+      "word": "胡彦斌对四十岁的理解很通透",
+      "onboard_time": 1697403432,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 19893,
