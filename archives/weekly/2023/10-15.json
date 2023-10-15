@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697384035961,
+  "endTime": 1697386815175,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -267,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 995352,
+      "num": 393651,
+      "word": "白敬亭工作室发了好多物料",
+      "onboard_time": 1697383775,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 968320,
       "num": 475922,
       "word": "男子车内当孩子面将妻子捅成重伤",
@@ -297,6 +305,14 @@
       "onboard_time": 1697341470,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 896764,
+      "num": 896764,
+      "word": "公办教师调入镇政府30年退休发现没编制",
+      "onboard_time": 1697382038,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 881980,
@@ -417,14 +433,6 @@
       "onboard_time": 1697372674,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 719225,
-      "num": 451361,
-      "word": "公办教师调入镇政府30年退休发现没编制",
-      "onboard_time": 1697382038,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 697339,
@@ -995,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403656,
+      "num": 403656,
+      "word": "屠呦呦以身试药实验191次终获成功",
+      "onboard_time": 1697385154,
+      "rank": 9,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 400149,
       "num": 400149,
       "word": "英语老师为不同成绩准备了meme贴纸",
@@ -1249,14 +1265,6 @@
       "onboard_time": 1697339489,
       "rank": 36,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 316783,
-      "num": 316783,
-      "word": "白敬亭工作室发了好多物料",
-      "onboard_time": 1697383775,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 313295,
@@ -1771,6 +1779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 207722,
+      "num": 207722,
+      "word": "Alin说马嘉祺的相机太可爱了",
+      "onboard_time": 1697384795,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205401,
       "num": 646586,
       "word": "医院开设共享厨房设备免费用食材零加价",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1697380239,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187710,
+      "num": 187710,
+      "word": "华浅被逼下跪",
+      "onboard_time": 1697383956,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 186100,
@@ -2761,6 +2785,14 @@
       "onboard_time": 1697293781,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118172,
+      "num": 118172,
+      "word": "小男孩坐错车公交司机开车送回家",
+      "onboard_time": 1697384614,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118123,
