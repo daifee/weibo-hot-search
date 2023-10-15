@@ -1,0 +1,410 @@
+{
+  "runTime": 1697340848892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1792980,
+        "num": 1792980,
+        "word": "K5133次旅客列车运行中脱轨",
+        "onboard_time": 1697339429,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1627114,
+        "num": 1627114,
+        "word": "金鸡奖提名名单",
+        "onboard_time": 1697333489,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28651,
+        "num": 1268442,
+        "word": "一带一路铺就共同发展繁荣之路",
+        "onboard_time": 1697335290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251762,
+        "num": 1251762,
+        "word": "王楚钦 希望大家能尊重彼此的隐私",
+        "onboard_time": 1697325682,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 532208,
+        "num": 532208,
+        "word": "梁朝伟首次提名金鸡奖",
+        "onboard_time": 1697337453,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1684926,
+        "num": 508450,
+        "word": "巴以冲突已致中国公民4死6伤2失联",
+        "onboard_time": 1697330309,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 477575,
+        "num": 477575,
+        "word": "这什么节目上来就脱衣服",
+        "onboard_time": 1697335353,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 456419,
+        "num": 456419,
+        "word": "徐娇十岁时的觉悟",
+        "onboard_time": 1697334811,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 438603,
+        "num": 438603,
+        "word": "金鸡奖 六亲不认只认作品",
+        "onboard_time": 1697340508,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389632,
+        "num": 389632,
+        "word": "杨利伟飞天居然是20年前了",
+        "onboard_time": 1697335649,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507085,
+        "num": 376319,
+        "word": "蒋依依美拉德大衣",
+        "onboard_time": 1697330550,
+        "rank": 10,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 425858,
+        "num": 370686,
+        "word": "TF家族三代飞韩国",
+        "onboard_time": 1697337210,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335440,
+        "num": 335440,
+        "word": "认知严重障碍的大爷在美发店消费60万",
+        "onboard_time": 1697333489,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 334083,
+        "num": 334083,
+        "word": "关智斌 钢管舞",
+        "onboard_time": 1697334690,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308413,
+        "num": 308413,
+        "word": "天津马拉松最大显眼包",
+        "onboard_time": 1697336851,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 319719,
+        "num": 308077,
+        "word": "吴昕Amber芝芙cha了我姓石",
+        "onboard_time": 1697339851,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292792,
+        "num": 292792,
+        "word": "乌尔善 金鸡奖最佳导演提名",
+        "onboard_time": 1697337931,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275478,
+        "num": 275478,
+        "word": "向佐直播间情绪失控的原因",
+        "onboard_time": 1697340633,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273144,
+        "num": 273144,
+        "word": "加沙地带断电前后影像对比",
+        "onboard_time": 1697329230,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 256102,
+        "num": 256102,
+        "word": "哈尔滨铁路局通报K5133脱轨",
+        "onboard_time": 1697339609,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 597888,
+        "num": 256036,
+        "word": "男子车内当孩子面将妻子捅成重伤",
+        "onboard_time": 1697301150,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457194,
+        "num": 253269,
+        "word": "你以为减肥实际上增肥的食物",
+        "onboard_time": 1697334271,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 319055,
+        "num": 251624,
+        "word": "猫 穷和敷衍是两码事",
+        "onboard_time": 1697339489,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 277108,
+        "num": 250436,
+        "word": "现在油条都是预制品了吗",
+        "onboard_time": 1697338708,
+        "rank": 23,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 213246,
+        "num": 248955,
+        "word": "巴以冲突不断升级面临失控风险",
+        "onboard_time": 1697293002,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 270111,
+        "num": 246478,
+        "word": "发朋友圈只发景物不发自拍",
+        "onboard_time": 1697326644,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245737,
+        "num": 245737,
+        "word": "王一博提名金鸡最佳男配角",
+        "onboard_time": 1697334633,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232729,
+        "num": 232729,
+        "word": "突然明白了为什么叫蒜头鼻",
+        "onboard_time": 1697326644,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231566,
+        "num": 231566,
+        "word": "刘亦菲这段台词太让人共鸣了",
+        "onboard_time": 1697333368,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226899,
+        "num": 226899,
+        "word": "秦岚黑色抹胸开叉拖尾裙",
+        "onboard_time": 1697335353,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 332104,
+        "num": 222247,
+        "word": "男生用嘴帮女友吸伤口确诊三级暴露",
+        "onboard_time": 1697340451,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211169,
+        "num": 211169,
+        "word": "沙特冻结美国推动的沙以关系正常化谈判",
+        "onboard_time": 1697340149,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 203897,
+        "num": 203897,
+        "word": "天津马拉松鸣枪开跑",
+        "onboard_time": 1697333190,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198467,
+        "num": 198467,
+        "word": "废文网回来了",
+        "onboard_time": 1697340391,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 198248,
+        "num": 198248,
+        "word": "K5133次脱轨列车车上人员全部平安",
+        "onboard_time": 1697339670,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197717,
+        "num": 197717,
+        "word": "叶童提名金鸡奖最佳女配",
+        "onboard_time": 1697338828,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192813,
+        "num": 192813,
+        "word": "田嘉瑞泼林一 一击即中",
+        "onboard_time": 1697336729,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180904,
+        "num": 180904,
+        "word": "惠英红提名金鸡奖最佳女主角",
+        "onboard_time": 1697337330,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180482,
+        "num": 180482,
+        "word": "赵丽颖品牌晚宴视频",
+        "onboard_time": 1697330850,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176599,
+        "num": 176599,
+        "word": "大张伟偷拿妈妈丝巾送粉丝",
+        "onboard_time": 1697328025,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176370,
+        "num": 176370,
+        "word": "粉笔模考",
+        "onboard_time": 1697340691,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174671,
+        "num": 174671,
+        "word": "辍学小伙攒2000元返校实现歌手梦",
+        "onboard_time": 1697339971,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152606,
+        "num": 152606,
+        "word": "在伦敦公寓煮螺蛳粉被邻居骂了",
+        "onboard_time": 1697340691,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152565,
+        "num": 152565,
+        "word": "马来西亚36岁演员帮子女洗澡时猝逝",
+        "onboard_time": 1697328569,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145613,
+        "num": 145613,
+        "word": "中国人用20年在太空造别墅",
+        "onboard_time": 1697340451,
+        "rank": 44,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 142681,
+        "num": 142681,
+        "word": "杨皓宇值得",
+        "onboard_time": 1697338410,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128811,
+        "num": 128811,
+        "word": "TXT ACOUSTIC MEDLEY",
+        "onboard_time": 1697340210,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128073,
+        "num": 128073,
+        "word": "多平台现外卖恶意赔付教程",
+        "onboard_time": 1697340751,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123696,
+        "num": 123696,
+        "word": "螺蛳粉的热量真的很高吗",
+        "onboard_time": 1697325622,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 122401,
+        "num": 122401,
+        "word": "丞磊骑行plog",
+        "onboard_time": 1697338708,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#把青春华章写在祖国大地上#"
+    }
+  }
+}

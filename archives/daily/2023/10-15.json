@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697339835891,
+  "endTime": 1697340848892,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -17,6 +17,14 @@
       "onboard_time": 1697325682,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1792980,
+      "num": 1792980,
+      "word": "K5133次旅客列车运行中脱轨",
+      "onboard_time": 1697339429,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1695194,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 816570,
-      "num": 332025,
+      "num": 335440,
       "word": "认知严重障碍的大爷在美发店消费60万",
       "onboard_time": 1697333489,
       "rank": 33,
@@ -171,14 +179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 558974,
-      "num": 341379,
-      "word": "K5133次旅客列车运行中脱轨",
-      "onboard_time": 1697339429,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 557244,
       "num": 315902,
       "word": "现在问题不是车银优",
@@ -259,6 +259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 477575,
+      "num": 477575,
+      "word": "这什么节目上来就脱衣服",
+      "onboard_time": 1697335353,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455090,
       "num": 455090,
       "word": "社保缴15年和25年待遇差别",
@@ -268,11 +276,19 @@
     },
     {
       "raw_hot": 443409,
-      "num": 339550,
+      "num": 370686,
       "word": "TF家族三代飞韩国",
       "onboard_time": 1697337210,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438603,
+      "num": 438603,
+      "word": "金鸡奖 六亲不认只认作品",
+      "onboard_time": 1697340508,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 436128,
@@ -355,14 +371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 338659,
-      "num": 338659,
-      "word": "这什么节目上来就脱衣服",
-      "onboard_time": 1697335353,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 333587,
       "num": 333587,
       "word": "五月天 现场",
@@ -379,12 +387,44 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 332104,
+      "num": 222247,
+      "word": "男生用嘴帮女友吸伤口确诊三级暴露",
+      "onboard_time": 1697340451,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327852,
       "num": 327852,
       "word": "封神金鸡奖9项提名",
       "onboard_time": 1697333790,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 319719,
+      "num": 308077,
+      "word": "吴昕Amber芝芙cha了我姓石",
+      "onboard_time": 1697339851,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 319055,
+      "num": 251624,
+      "word": "猫 穷和敷衍是两码事",
+      "onboard_time": 1697339489,
+      "rank": 36,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 308413,
+      "num": 308413,
+      "word": "天津马拉松最大显眼包",
+      "onboard_time": 1697336851,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 304329,
@@ -419,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277108,
+      "num": 262247,
+      "word": "现在油条都是预制品了吗",
+      "onboard_time": 1697338708,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 276052,
       "num": 276052,
       "word": "王一博去看大张伟演唱会",
@@ -427,12 +475,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 274256,
-      "num": 274256,
-      "word": "天津马拉松最大显眼包",
-      "onboard_time": 1697336851,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 275478,
+      "num": 275478,
+      "word": "向佐直播间情绪失控的原因",
+      "onboard_time": 1697340633,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 273132,
@@ -443,12 +491,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 262247,
-      "num": 262247,
-      "word": "现在油条都是预制品了吗",
-      "onboard_time": 1697338708,
-      "rank": 24,
-      "category": "美食"
+      "raw_hot": 256102,
+      "num": 256102,
+      "word": "哈尔滨铁路局通报K5133脱轨",
+      "onboard_time": 1697339609,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 251953,
@@ -507,6 +555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211169,
+      "num": 211169,
+      "word": "沙特冻结美国推动的沙以关系正常化谈判",
+      "onboard_time": 1697340149,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 209723,
       "num": 209723,
       "word": "如何用iPhone拍出好看的美食照片",
@@ -563,16 +619,24 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193743,
-      "num": 193743,
-      "word": "哈尔滨铁路局通报K5133脱轨",
-      "onboard_time": 1697339609,
-      "rank": 30,
+      "raw_hot": 198467,
+      "num": 198467,
+      "word": "废文网回来了",
+      "onboard_time": 1697340391,
+      "rank": 33,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 198248,
+      "num": 198248,
+      "word": "K5133次脱轨列车车上人员全部平安",
+      "onboard_time": 1697339670,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 189518,
-      "num": 189518,
+      "raw_hot": 192813,
+      "num": 192813,
       "word": "田嘉瑞泼林一 一击即中",
       "onboard_time": 1697336729,
       "rank": 49,
@@ -611,12 +675,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 176370,
+      "num": 176370,
+      "word": "粉笔模考",
+      "onboard_time": 1697340691,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 175222,
       "num": 175222,
       "word": "田耕纪爱奇艺热度值破6000",
       "onboard_time": 1697330189,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174671,
+      "num": 174671,
+      "word": "辍学小伙攒2000元返校实现歌手梦",
+      "onboard_time": 1697339971,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 174414,
@@ -657,14 +737,6 @@
       "onboard_time": 1697325622,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 169104,
-      "num": 169104,
-      "word": "猫 穷和敷衍是两码事",
-      "onboard_time": 1697339489,
-      "rank": 36,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 166227,
@@ -715,14 +787,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157576,
-      "num": 157576,
-      "word": "K5133次脱轨列车车上人员全部平安",
-      "onboard_time": 1697339670,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156876,
       "num": 156876,
       "word": "苏醒演唱会偶遇吴莫愁",
@@ -737,6 +801,14 @@
       "onboard_time": 1697264611,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152606,
+      "num": 152606,
+      "word": "在伦敦公寓煮螺蛳粉被邻居骂了",
+      "onboard_time": 1697340691,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 152383,
@@ -769,6 +841,14 @@
       "onboard_time": 1697338708,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145613,
+      "num": 145613,
+      "word": "中国人用20年在太空造别墅",
+      "onboard_time": 1697340451,
+      "rank": 44,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 145588,
@@ -811,12 +891,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128811,
+      "num": 128811,
+      "word": "TXT ACOUSTIC MEDLEY",
+      "onboard_time": 1697340210,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128107,
       "num": 128107,
       "word": "女儿让张杰唱逆战",
       "onboard_time": 1697291019,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128073,
+      "num": 128073,
+      "word": "多平台现外卖恶意赔付教程",
+      "onboard_time": 1697340751,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 127019,
@@ -1060,7 +1156,7 @@
     },
     {
       "raw_hot": 34742,
-      "num": 995422,
+      "num": 1268442,
       "word": "一带一路铺就共同发展繁荣之路",
       "onboard_time": 1697335290,
       "rank": 2,
