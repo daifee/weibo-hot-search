@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697373044005,
+  "endTime": 1697373956302,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -107,6 +107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1710593,
+      "num": 481649,
+      "word": "33岁男子自捆双脚跳桥身亡",
+      "onboard_time": 1697370517,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1695194,
       "num": 1695194,
       "word": "金鸡奖提名名单",
@@ -115,12 +123,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1478796,
-      "num": 481649,
-      "word": "33岁男子自捆双脚跳桥身亡",
-      "onboard_time": 1697370517,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 1460373,
+      "num": 1460373,
+      "word": "为什么高铁提前三分钟停止检票",
+      "onboard_time": 1697368056,
+      "rank": 13,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1391052,
@@ -131,20 +139,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1387923,
-      "num": 1387923,
-      "word": "为什么高铁提前三分钟停止检票",
-      "onboard_time": 1697368056,
-      "rank": 13,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 1374248,
       "num": 1374248,
       "word": "去年我国结婚人数25至29岁最多",
       "onboard_time": 1697363555,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1326760,
+      "num": 1326760,
+      "word": "前台实名制",
+      "onboard_time": 1697372674,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 1305421,
@@ -155,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1287626,
+      "num": 1287626,
+      "word": "5000万买的豪宅总能闻到邻居烧菜味",
+      "onboard_time": 1697369132,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279294,
       "num": 1279294,
       "word": "王栎鑫儿子女儿三人共用一张脸",
       "onboard_time": 1697355155,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1254662,
-      "num": 1254662,
-      "word": "5000万买的豪宅总能闻到邻居烧菜味",
-      "onboard_time": 1697369132,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1198191,
@@ -313,6 +321,14 @@
       "onboard_time": 1697365294,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 736337,
+      "num": 525881,
+      "word": "实名",
+      "onboard_time": 1697372674,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 697339,
@@ -547,6 +563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 540162,
+      "num": 225176,
+      "word": "七岁儿子在加拿大的中文作业",
+      "onboard_time": 1697373155,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 533070,
       "num": 533070,
       "word": "法考",
@@ -561,14 +585,6 @@
       "onboard_time": 1697329109,
       "rank": 5,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 525881,
-      "num": 525881,
-      "word": "实名",
-      "onboard_time": 1697372674,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 525787,
@@ -875,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 369783,
-      "num": 369783,
-      "word": "前台实名制",
-      "onboard_time": 1697372674,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 368045,
       "num": 335288,
       "word": "现在很少见到黑长直了",
@@ -961,6 +969,14 @@
       "onboard_time": 1697335353,
       "rank": 14,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 331120,
+      "num": 331120,
+      "word": "75岁老人攒18万退休金给自己买房",
+      "onboard_time": 1697371716,
+      "rank": 30,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 327852,
@@ -1067,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298655,
+      "num": 298655,
+      "word": "WBG抽签",
+      "onboard_time": 1697371716,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 298140,
       "num": 298140,
       "word": "丁程鑫把黄子韬泼倒了",
@@ -1089,14 +1113,6 @@
       "onboard_time": 1697286575,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293814,
-      "num": 293814,
-      "word": "WBG抽签",
-      "onboard_time": 1697371716,
-      "rank": 22,
-      "category": "电竞"
     },
     {
       "raw_hot": 290830,
@@ -1155,6 +1171,22 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 284263,
+      "num": 284263,
+      "word": "S13抽签",
+      "onboard_time": 1697371658,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 281259,
+      "num": 281259,
+      "word": "陈楚生演唱会",
+      "onboard_time": 1697372674,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 277108,
       "num": 262247,
       "word": "现在油条都是预制品了吗",
@@ -1177,14 +1209,6 @@
       "onboard_time": 1697342073,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274444,
-      "num": 237359,
-      "word": "75岁老人攒18万退休金给自己买房",
-      "onboard_time": 1697371716,
-      "rank": 30,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 273132,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1697358873,
       "rank": 21,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 261331,
+      "num": 261331,
+      "word": "岳云鹏没认出来素颜的孟子义",
+      "onboard_time": 1697373337,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 261025,
@@ -1339,14 +1371,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 237399,
-      "num": 237399,
-      "word": "陈楚生演唱会",
-      "onboard_time": 1697372674,
-      "rank": 29,
-      "category": "演出"
-    },
-    {
       "raw_hot": 237249,
       "num": 219827,
       "word": "螺蛳粉的热量真的很高吗",
@@ -1361,14 +1385,6 @@
       "onboard_time": 1697346573,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 236735,
-      "num": 236735,
-      "word": "S13抽签",
-      "onboard_time": 1697371658,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 234503,
@@ -2147,6 +2163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143485,
+      "num": 143485,
+      "word": "原声台词稳定的明星",
+      "onboard_time": 1697373757,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139986,
       "num": 137029,
       "word": "成韩彬洗娃直播",
@@ -2161,6 +2185,14 @@
       "onboard_time": 1697351673,
       "rank": 44,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 137858,
+      "num": 137858,
+      "word": "梅花红桃民国婚礼",
+      "onboard_time": 1697373573,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 136521,
@@ -2580,7 +2612,7 @@
     },
     {
       "raw_hot": 19893,
-      "num": 1274457,
+      "num": 1339177,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1697174497,
       "rank": 2,
