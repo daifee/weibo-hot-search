@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697337414825,
+  "endTime": 1697339835891,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -19,8 +19,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 1651703,
-      "num": 1651703,
+      "raw_hot": 1695194,
+      "num": 1695194,
       "word": "金鸡奖提名名单",
       "onboard_time": 1697333489,
       "rank": 9,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 816570,
-      "num": 326253,
+      "num": 332025,
       "word": "认知严重障碍的大爷在美发店消费60万",
       "onboard_time": 1697333489,
       "rank": 33,
@@ -81,6 +81,14 @@
       "onboard_time": 1697297015,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 651624,
+      "num": 651624,
+      "word": "梁朝伟首次提名金鸡奖",
+      "onboard_time": 1697337453,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 648921,
@@ -163,6 +171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558974,
+      "num": 341379,
+      "word": "K5133次旅客列车运行中脱轨",
+      "onboard_time": 1697339429,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 557244,
       "num": 315902,
       "word": "现在问题不是车银优",
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 544685,
-      "num": 246727,
+      "num": 268379,
       "word": "你以为减肥实际上增肥的食物",
       "onboard_time": 1697334271,
       "rank": 20,
@@ -219,8 +235,16 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 491392,
-      "num": 491392,
+      "raw_hot": 497858,
+      "num": 497858,
+      "word": "徐娇十岁时的觉悟",
+      "onboard_time": 1697334811,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 492807,
+      "num": 492807,
       "word": "杨利伟飞天居然是20年前了",
       "onboard_time": 1697335649,
       "rank": 7,
@@ -228,19 +252,11 @@
     },
     {
       "raw_hot": 484341,
-      "num": 246582,
+      "num": 265008,
       "word": "发朋友圈只发景物不发自拍",
       "onboard_time": 1697326644,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 457170,
-      "num": 457170,
-      "word": "徐娇十岁时的觉悟",
-      "onboard_time": 1697334811,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 455090,
@@ -249,6 +265,14 @@
       "onboard_time": 1697268929,
       "rank": 7,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 443409,
+      "num": 339550,
+      "word": "TF家族三代飞韩国",
+      "onboard_time": 1697337210,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 436128,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 422452,
-      "num": 246492,
+      "num": 264317,
       "word": "突然明白了为什么叫蒜头鼻",
       "onboard_time": 1697326644,
       "rank": 21,
@@ -315,6 +339,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 342338,
+      "num": 342338,
+      "word": "乌尔善 金鸡奖最佳导演提名",
+      "onboard_time": 1697337931,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 342274,
+      "num": 342274,
+      "word": "天津马拉松鸣枪开跑",
+      "onboard_time": 1697333190,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 338659,
+      "num": 338659,
+      "word": "这什么节目上来就脱衣服",
+      "onboard_time": 1697335353,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333587,
       "num": 333587,
       "word": "五月天 现场",
@@ -340,7 +388,7 @@
     },
     {
       "raw_hot": 304329,
-      "num": 232391,
+      "num": 247755,
       "word": "刘亦菲这段台词太让人共鸣了",
       "onboard_time": 1697333368,
       "rank": 31,
@@ -379,6 +427,30 @@
       "category": "演出"
     },
     {
+      "raw_hot": 274256,
+      "num": 274256,
+      "word": "天津马拉松最大显眼包",
+      "onboard_time": 1697336851,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 273132,
+      "num": 273132,
+      "word": "惠英红提名金鸡奖最佳女主角",
+      "onboard_time": 1697337330,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 262247,
+      "num": 262247,
+      "word": "现在油条都是预制品了吗",
+      "onboard_time": 1697338708,
+      "rank": 24,
+      "category": "美食"
+    },
+    {
       "raw_hot": 251953,
       "num": 251953,
       "word": "周杰伦上海1943",
@@ -387,28 +459,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 246910,
-      "num": 246910,
-      "word": "这什么节目上来就脱衣服",
-      "onboard_time": 1697335353,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 237249,
       "num": 219827,
       "word": "螺蛳粉的热量真的很高吗",
       "onboard_time": 1697325622,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 236331,
-      "num": 236331,
-      "word": "天津马拉松鸣枪开跑",
-      "onboard_time": 1697333190,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 234503,
@@ -451,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 216662,
-      "num": 171985,
-      "word": "天津马拉松最大显眼包",
-      "onboard_time": 1697336851,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209723,
       "num": 209723,
       "word": "如何用iPhone拍出好看的美食照片",
@@ -475,12 +523,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 203740,
-      "num": 203740,
-      "word": "TF家族三代飞韩国",
-      "onboard_time": 1697337210,
+      "raw_hot": 203219,
+      "num": 203219,
+      "word": "叶童提名金鸡奖最佳女配",
+      "onboard_time": 1697338828,
       "rank": 27,
-      "category": "艺人"
+      "category": "电影"
     },
     {
       "raw_hot": 202977,
@@ -505,6 +553,30 @@
       "onboard_time": 1697299652,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198907,
+      "num": 198907,
+      "word": "大连马拉松",
+      "onboard_time": 1697338950,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193743,
+      "num": 193743,
+      "word": "哈尔滨铁路局通报K5133脱轨",
+      "onboard_time": 1697339609,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189518,
+      "num": 189518,
+      "word": "田嘉瑞泼林一 一击即中",
+      "onboard_time": 1697336729,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 186100,
@@ -555,6 +627,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174202,
+      "num": 174202,
+      "word": "杨皓宇值得",
+      "onboard_time": 1697338410,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 171251,
+      "num": 171251,
+      "word": "秋婉G",
+      "onboard_time": 1697338049,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169696,
       "num": 169696,
       "word": "许昕还是太全面了",
@@ -569,6 +657,14 @@
       "onboard_time": 1697325622,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 169104,
+      "num": 169104,
+      "word": "猫 穷和敷衍是两码事",
+      "onboard_time": 1697339489,
+      "rank": 36,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 166227,
@@ -611,20 +707,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 161920,
+      "num": 161920,
+      "word": "闫妮提名金鸡奖最佳女主角",
+      "onboard_time": 1697339308,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 157576,
+      "num": 157576,
+      "word": "K5133次脱轨列车车上人员全部平安",
+      "onboard_time": 1697339670,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 156876,
       "num": 156876,
       "word": "苏醒演唱会偶遇吴莫愁",
       "onboard_time": 1697327065,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 155416,
-      "num": 155416,
-      "word": "惠英红提名金鸡奖最佳女主角",
-      "onboard_time": 1697337330,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 155213,
@@ -651,6 +755,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149372,
+      "num": 149372,
+      "word": "李雪健提名金鸡最佳男配角",
+      "onboard_time": 1697337630,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 149318,
+      "num": 149318,
+      "word": "丞磊骑行plog",
+      "onboard_time": 1697338708,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145588,
       "num": 145588,
       "word": "当我把柚子皮盖头上扎丸子头",
@@ -665,14 +785,6 @@
       "onboard_time": 1697335353,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 145178,
-      "num": 145178,
-      "word": "田嘉瑞泼林一 一击即中",
-      "onboard_time": 1697336729,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 139986,
@@ -948,7 +1060,7 @@
     },
     {
       "raw_hot": 34742,
-      "num": 798605,
+      "num": 995422,
       "word": "一带一路铺就共同发展繁荣之路",
       "onboard_time": 1697335290,
       "rank": 2,

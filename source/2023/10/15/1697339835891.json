@@ -1,0 +1,410 @@
+{
+  "runTime": 1697339835891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1695194,
+        "num": 1695194,
+        "word": "金鸡奖提名名单",
+        "onboard_time": 1697333489,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1392601,
+        "num": 1392601,
+        "word": "王楚钦 希望大家能尊重彼此的隐私",
+        "onboard_time": 1697325682,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28417,
+        "num": 995422,
+        "word": "一带一路铺就共同发展繁荣之路",
+        "onboard_time": 1697335290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651624,
+        "num": 651624,
+        "word": "梁朝伟首次提名金鸡奖",
+        "onboard_time": 1697337453,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 497858,
+        "num": 497858,
+        "word": "徐娇十岁时的觉悟",
+        "onboard_time": 1697334811,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1860967,
+        "num": 495908,
+        "word": "巴以冲突已致中国公民4死6伤2失联",
+        "onboard_time": 1697330309,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 492807,
+        "num": 492807,
+        "word": "杨利伟飞天居然是20年前了",
+        "onboard_time": 1697335649,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416776,
+        "num": 416776,
+        "word": "关智斌 钢管舞",
+        "onboard_time": 1697334690,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342338,
+        "num": 342338,
+        "word": "乌尔善 金鸡奖最佳导演提名",
+        "onboard_time": 1697337931,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342274,
+        "num": 342274,
+        "word": "天津马拉松鸣枪开跑",
+        "onboard_time": 1697333190,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558974,
+        "num": 341379,
+        "word": "K5133次旅客列车运行中脱轨",
+        "onboard_time": 1697339429,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513491,
+        "num": 340226,
+        "word": "蒋依依美拉德大衣",
+        "onboard_time": 1697330550,
+        "rank": 11,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 443409,
+        "num": 339550,
+        "word": "TF家族三代飞韩国",
+        "onboard_time": 1697337210,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338659,
+        "num": 338659,
+        "word": "这什么节目上来就脱衣服",
+        "onboard_time": 1697335353,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 406529,
+        "num": 332025,
+        "word": "认知严重障碍的大爷在美发店消费60万",
+        "onboard_time": 1697333489,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308174,
+        "num": 308174,
+        "word": "加沙地带断电前后影像对比",
+        "onboard_time": 1697329230,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 305155,
+        "num": 305155,
+        "word": "王一博提名金鸡最佳男配角",
+        "onboard_time": 1697334633,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274256,
+        "num": 274256,
+        "word": "天津马拉松最大显眼包",
+        "onboard_time": 1697336851,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273132,
+        "num": 273132,
+        "word": "惠英红提名金鸡奖最佳女主角",
+        "onboard_time": 1697337330,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 243945,
+        "num": 272186,
+        "word": "巴以冲突不断升级面临失控风险",
+        "onboard_time": 1697293002,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 675013,
+        "num": 270322,
+        "word": "男子车内当孩子面将妻子捅成重伤",
+        "onboard_time": 1697301150,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539109,
+        "num": 268379,
+        "word": "你以为减肥实际上增肥的食物",
+        "onboard_time": 1697334271,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 321137,
+        "num": 265008,
+        "word": "发朋友圈只发景物不发自拍",
+        "onboard_time": 1697326644,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277826,
+        "num": 264317,
+        "word": "突然明白了为什么叫蒜头鼻",
+        "onboard_time": 1697326644,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 262247,
+        "num": 262247,
+        "word": "现在油条都是预制品了吗",
+        "onboard_time": 1697338708,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 261722,
+        "num": 261722,
+        "word": "秦岚黑色抹胸开叉拖尾裙",
+        "onboard_time": 1697335353,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 247755,
+        "num": 247755,
+        "word": "刘亦菲这段台词太让人共鸣了",
+        "onboard_time": 1697333368,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203219,
+        "num": 203219,
+        "word": "叶童提名金鸡奖最佳女配",
+        "onboard_time": 1697338828,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199487,
+        "num": 199487,
+        "word": "大张伟偷拿妈妈丝巾送粉丝",
+        "onboard_time": 1697328025,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198907,
+        "num": 198907,
+        "word": "大连马拉松",
+        "onboard_time": 1697338950,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193743,
+        "num": 193743,
+        "word": "哈尔滨铁路局通报K5133脱轨",
+        "onboard_time": 1697339609,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189518,
+        "num": 189518,
+        "word": "田嘉瑞泼林一 一击即中",
+        "onboard_time": 1697336729,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182198,
+        "num": 182198,
+        "word": "赵丽颖品牌晚宴视频",
+        "onboard_time": 1697330850,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176166,
+        "num": 176166,
+        "word": "马来西亚36岁演员帮子女洗澡时猝逝",
+        "onboard_time": 1697328569,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174202,
+        "num": 174202,
+        "word": "杨皓宇值得",
+        "onboard_time": 1697338410,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171251,
+        "num": 171251,
+        "word": "秋婉G",
+        "onboard_time": 1697338049,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169104,
+        "num": 169104,
+        "word": "猫 穷和敷衍是两码事",
+        "onboard_time": 1697339489,
+        "rank": 36,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 166914,
+        "num": 166914,
+        "word": "螺蛳粉的热量真的很高吗",
+        "onboard_time": 1697325622,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 161920,
+        "num": 161920,
+        "word": "闫妮提名金鸡奖最佳女主角",
+        "onboard_time": 1697339308,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157576,
+        "num": 157576,
+        "word": "K5133次脱轨列车车上人员全部平安",
+        "onboard_time": 1697339670,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150676,
+        "num": 150676,
+        "word": "陈哲远我那运动风男友",
+        "onboard_time": 1697336371,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149372,
+        "num": 149372,
+        "word": "李雪健提名金鸡最佳男配角",
+        "onboard_time": 1697337630,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149318,
+        "num": 149318,
+        "word": "丞磊骑行plog",
+        "onboard_time": 1697338708,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143679,
+        "num": 143679,
+        "word": "封神金鸡奖9项提名",
+        "onboard_time": 1697333790,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142857,
+        "num": 142857,
+        "word": "国考岗位专业目录使用指南",
+        "onboard_time": 1697330490,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 142081,
+        "num": 142081,
+        "word": "王毅同沙特外交大臣费萨尔通电话",
+        "onboard_time": 1697330429,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 135208,
+        "num": 135208,
+        "word": "严屹宽 建模脸",
+        "onboard_time": 1697329109,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134617,
+        "num": 134617,
+        "word": "在法国上中文课有种学霸的感觉",
+        "onboard_time": 1697329407,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 131321,
+        "num": 131321,
+        "word": "张凌赫金靖合照",
+        "onboard_time": 1697336009,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113122,
+        "num": 128310,
+        "word": "丈夫为救坠崖昏迷妻子自己也被困",
+        "onboard_time": 1697333672,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持价值性和知识性相统一#"
+    }
+  }
+}
