@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697379270787,
+  "endTime": 1697380447387,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -51,6 +51,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2174232,
+      "num": 2174232,
+      "word": "在海底捞被人要蛋糕了",
+      "onboard_time": 1697378377,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2130164,
       "num": 601726,
       "word": "米村拌饭 魏大勋来吃俺了",
@@ -75,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1969485,
+      "num": 1969485,
+      "word": "周杰伦唱了倒带",
+      "onboard_time": 1697379216,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1874909,
       "num": 1874909,
       "word": "向佐直播间情绪失控的原因",
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1812637,
-      "num": 481649,
+      "num": 517035,
       "word": "33岁男子自捆双脚跳桥身亡",
       "onboard_time": 1697370517,
       "rank": 10,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 1405753,
-      "num": 486360,
+      "num": 523805,
       "word": "全华班被献祭",
       "onboard_time": 1697377178,
       "rank": 10,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 1028888,
-      "num": 459382,
+      "num": 513798,
       "word": "刘亦菲晒花木兰蛋糕",
       "onboard_time": 1697374895,
       "rank": 12,
@@ -257,14 +273,6 @@
       "onboard_time": 1697341470,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 898850,
-      "num": 898850,
-      "word": "在海底捞被人要蛋糕了",
-      "onboard_time": 1697378377,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 881980,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 829347,
-      "num": 444731,
+      "num": 484364,
       "word": "加沙",
       "onboard_time": 1697374655,
       "rank": 23,
@@ -345,6 +353,14 @@
       "onboard_time": 1697298214,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779481,
+      "num": 779481,
+      "word": "李玟骨灰将于10月底下葬",
+      "onboard_time": 1697379519,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 772695,
@@ -555,6 +571,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 566210,
+      "num": 465954,
+      "word": "黄晓明去了周杰伦演唱会",
+      "onboard_time": 1697380118,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 564452,
       "num": 564452,
       "word": "以色列演员发视频嘲讽加沙断水断电",
@@ -641,6 +665,14 @@
       "onboard_time": 1697329109,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 527397,
+      "num": 527397,
+      "word": "刘能",
+      "onboard_time": 1697379460,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 525787,
@@ -811,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 446960,
+      "num": 446960,
+      "word": "张杰slow down",
+      "onboard_time": 1697378739,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 443409,
       "num": 370686,
       "word": "TF家族三代飞韩国",
@@ -871,14 +911,6 @@
       "num": 305306,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 415362,
-      "num": 415362,
-      "word": "周杰伦唱了倒带",
-      "onboard_time": 1697379216,
       "rank": 15,
       "category": "演出"
     },
@@ -971,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376737,
+      "num": 376737,
+      "word": "以军在加沙边界集结装甲推土机",
+      "onboard_time": 1697378438,
+      "rank": 22,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 371969,
       "num": 371969,
       "word": "华浅提出和离",
@@ -993,6 +1033,14 @@
       "onboard_time": 1697350954,
       "rank": 32,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 358637,
+      "num": 358637,
+      "word": "95后称还没去婚礼先参加了葬礼",
+      "onboard_time": 1697378559,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 356382,
@@ -1107,14 +1155,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326365,
-      "num": 326365,
-      "word": "张杰slow down",
-      "onboard_time": 1697378739,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 319719,
       "num": 308077,
       "word": "吴昕Amber芝芙cha了我姓石",
@@ -1169,6 +1209,14 @@
       "onboard_time": 1697350833,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 306140,
+      "num": 306140,
+      "word": "15号赢麻了 倒带赢麻了",
+      "onboard_time": 1697380118,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 304329,
@@ -1259,20 +1307,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287660,
+      "num": 287660,
+      "word": "我才知道悬溺是喜欢你读快了",
+      "onboard_time": 1697380063,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 286781,
       "num": 286781,
       "word": "沙特冻结美国推动的沙以关系正常化谈判",
       "onboard_time": 1697340149,
       "rank": 31,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 286069,
-      "num": 286069,
-      "word": "以军在加沙边界集结装甲推土机",
-      "onboard_time": 1697378438,
-      "rank": 22,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 285533,
@@ -1547,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234111,
+      "num": 234111,
+      "word": "孟子义沈腾 子作腾坏",
+      "onboard_time": 1697379398,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230389,
       "num": 230389,
       "word": "以军称将对加沙地带发起强力进攻",
@@ -1577,14 +1633,6 @@
       "onboard_time": 1697376876,
       "rank": 27,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 225893,
-      "num": 212903,
-      "word": "95后称还没去婚礼先参加了葬礼",
-      "onboard_time": 1697378559,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 225820,
@@ -1756,7 +1804,7 @@
     },
     {
       "raw_hot": 198955,
-      "num": 198955,
+      "num": 205647,
       "word": "范丞丞喊孟子义小作精",
       "onboard_time": 1697377837,
       "rank": 31,
@@ -1907,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188344,
+      "num": 205651,
+      "word": "郑钦文郑州赛夺冠",
+      "onboard_time": 1697380239,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186100,
       "num": 186100,
       "word": "杨紫黑色闪钻镂空裙",
@@ -2004,7 +2060,7 @@
     },
     {
       "raw_hot": 176973,
-      "num": 176973,
+      "num": 205540,
       "word": "原声台词稳定的明星",
       "onboard_time": 1697373757,
       "rank": 39,
@@ -2025,6 +2081,14 @@
       "onboard_time": 1697351910,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 176259,
+      "num": 205635,
+      "word": "假如封神有朋友圈",
+      "onboard_time": 1697378257,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 175222,
@@ -2049,14 +2113,6 @@
       "onboard_time": 1697339971,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 174656,
-      "num": 174656,
-      "word": "假如封神有朋友圈",
-      "onboard_time": 1697378257,
-      "rank": 37,
-      "category": "电影"
     },
     {
       "raw_hot": 174564,
@@ -2209,6 +2265,22 @@
       "onboard_time": 1697368415,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159488,
+      "num": 205593,
+      "word": "2023最后一场日环食要来了",
+      "onboard_time": 1697380298,
+      "rank": 42,
+      "category": "自然"
+    },
+    {
+      "raw_hot": 157852,
+      "num": 205584,
+      "word": "为什么广东人煲汤这么好喝",
+      "onboard_time": 1697379819,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 156876,
@@ -2401,6 +2473,14 @@
       "onboard_time": 1697351673,
       "rank": 44,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 138070,
+      "num": 205549,
+      "word": "广东男篮vs广州男篮",
+      "onboard_time": 1697379761,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 137858,
@@ -2763,6 +2843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54215,
+      "num": 1490805,
+      "word": "中国载人航天事业正阔步前进",
+      "onboard_time": 1697375076,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53835,
       "num": 53835,
       "word": "全国小狗听见出去玩的统一反应",
@@ -2775,14 +2863,6 @@
       "num": 1532876,
       "word": "农民运动会丰收氛围拉满",
       "onboard_time": 1697356953,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 50477,
-      "num": 1076081,
-      "word": "中国载人航天事业正阔步前进",
-      "onboard_time": 1697375076,
       "rank": 2,
       "category": "社会新闻"
     },
