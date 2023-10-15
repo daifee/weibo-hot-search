@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697358842347,
+  "endTime": 1697361308561,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -51,6 +51,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1954312,
+      "num": 286891,
+      "word": "米村拌饭 魏大勋来吃俺了",
+      "onboard_time": 1697359354,
+      "rank": 10,
+      "category": "美食,艺人"
+    },
+    {
       "raw_hot": 1874909,
       "num": 1874909,
       "word": "向佐直播间情绪失控的原因",
@@ -83,6 +91,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1535496,
+      "num": 1535496,
+      "word": "乡村爱情13刘能饰演者赵明远去世",
+      "onboard_time": 1697357912,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1391052,
+      "num": 285997,
+      "word": "红星美凯龙 迪丽热巴",
+      "onboard_time": 1697358332,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1305421,
       "num": 617172,
       "word": "男生用嘴帮女友吸伤口确诊三级暴露",
@@ -97,6 +121,14 @@
       "onboard_time": 1697355155,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1198191,
+      "num": 343195,
+      "word": "什么是三级暴露",
+      "onboard_time": 1697356233,
+      "rank": 11,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1145020,
@@ -121,14 +153,6 @@
       "onboard_time": 1697342073,
       "rank": 14,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1001340,
-      "num": 1001340,
-      "word": "乡村爱情13刘能饰演者赵明远去世",
-      "onboard_time": 1697357912,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 968320,
@@ -161,14 +185,6 @@
       "onboard_time": 1697356834,
       "rank": 4,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 877696,
-      "num": 343195,
-      "word": "什么是三级暴露",
-      "onboard_time": 1697356233,
-      "rank": 11,
-      "category": "知识科普"
     },
     {
       "raw_hot": 836362,
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476198,
+      "num": 277063,
+      "word": "加沙空袭幸存婴儿在记者安抚下笑了",
+      "onboard_time": 1697359112,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 460830,
       "num": 460830,
       "word": "沙溢说贾玲你不在王牌哥就不走了",
@@ -603,6 +627,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 414937,
+      "num": 414937,
+      "word": "官方通报业主滥挖地下室致河水倒灌车库",
+      "onboard_time": 1697357670,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410347,
       "num": 384679,
       "word": "逃出大英博物馆主创谈创作历程",
@@ -659,12 +691,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 374315,
-      "num": 247865,
-      "word": "红星美凯龙 迪丽热巴",
-      "onboard_time": 1697358332,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 374327,
+      "num": 271750,
+      "word": "中国中免董事长李刚去世",
+      "onboard_time": 1697360612,
+      "rank": 16,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 371969,
@@ -753,6 +785,14 @@
       "onboard_time": 1697333790,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 326817,
+      "num": 264635,
+      "word": "邓为今天好清爽",
+      "onboard_time": 1697359713,
+      "rank": 19,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326417,
@@ -867,6 +907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293162,
+      "num": 293162,
+      "word": "女子欲轻生被遛狗大哥死死拽住",
+      "onboard_time": 1697359773,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288695,
       "num": 288695,
       "word": "我爸偷偷背着我考了个N2",
@@ -956,11 +1004,19 @@
     },
     {
       "raw_hot": 261025,
-      "num": 197957,
+      "num": 205458,
       "word": "宋轶当演员克服了全家阻碍",
       "onboard_time": 1697357434,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260582,
+      "num": 260582,
+      "word": "张元英金丝眼镜",
+      "onboard_time": 1697358873,
+      "rank": 21,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 256102,
@@ -1025,14 +1081,6 @@
       "onboard_time": 1697351254,
       "rank": 35,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 240972,
-      "num": 240972,
-      "word": "官方通报业主滥挖地下室致河水倒灌车库",
-      "onboard_time": 1697357670,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 237249,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1697302587,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 205401,
+      "num": 205401,
+      "word": "医院开设共享厨房设备免费用食材零加价",
+      "onboard_time": 1697360913,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 205341,
@@ -1243,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191035,
+      "num": 191035,
+      "word": "卢昱晓私服穿搭",
+      "onboard_time": 1697360674,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 186100,
       "num": 186100,
       "word": "杨紫黑色闪钻镂空裙",
@@ -1265,6 +1329,14 @@
       "onboard_time": 1697345195,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182839,
+      "num": 182839,
+      "word": "国美客户端现辱骂创始人弹窗",
+      "onboard_time": 1697359531,
+      "rank": 30,
+      "category": "互联网,社会新闻"
     },
     {
       "raw_hot": 182061,
@@ -1361,6 +1433,14 @@
       "onboard_time": 1697338410,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173499,
+      "num": 173499,
+      "word": "周星驰邀宋康昊参演少林女足",
+      "onboard_time": 1697360674,
+      "rank": 33,
+      "category": "电影,电影"
     },
     {
       "raw_hot": 171735,
@@ -1475,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155223,
+      "num": 155223,
+      "word": "topik",
+      "onboard_time": 1697360311,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
       "raw_hot": 155213,
       "num": 155213,
       "word": "陈奕迅澳门演唱会被要求说国语",
@@ -1489,6 +1577,14 @@
       "onboard_time": 1697324719,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150580,
+      "num": 150580,
+      "word": "段奥娟反向OK",
+      "onboard_time": 1697361155,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 150332,
@@ -1579,12 +1675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132895,
+      "num": 132895,
+      "word": "民警4次救助同1老人熟门熟路送回家",
+      "onboard_time": 1697361095,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131129,
       "num": 131129,
       "word": "余华真不是客套",
       "onboard_time": 1697356834,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130560,
+      "num": 130560,
+      "word": "林俊杰 生生是一个很私人的作品",
+      "onboard_time": 1697361212,
+      "rank": 47,
+      "category": "音乐"
     },
     {
       "raw_hot": 128811,
@@ -1835,6 +1947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 58282,
+      "num": 266480,
+      "word": "原来马拉松可以这样跑",
+      "onboard_time": 1697358755,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53835,
       "num": 53835,
       "word": "全国小狗听见出去玩的统一反应",
@@ -1843,15 +1963,7 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 48274,
-      "num": 132982,
-      "word": "原来马拉松可以这样跑",
-      "onboard_time": 1697358755,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 48210,
+      "raw_hot": 53396,
       "num": 1116192,
       "word": "农民运动会丰收氛围拉满",
       "onboard_time": 1697356953,
