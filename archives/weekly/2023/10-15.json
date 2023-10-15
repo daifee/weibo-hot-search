@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697357990190,
+  "endTime": 1697358842347,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -123,6 +123,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1001340,
+      "num": 1001340,
+      "word": "乡村爱情13刘能饰演者赵明远去世",
+      "onboard_time": 1697357912,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 968320,
       "num": 475922,
       "word": "男子车内当孩子面将妻子捅成重伤",
@@ -153,6 +161,14 @@
       "onboard_time": 1697356834,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 877696,
+      "num": 343195,
+      "word": "什么是三级暴露",
+      "onboard_time": 1697356233,
+      "rank": 11,
+      "category": "知识科普"
     },
     {
       "raw_hot": 836362,
@@ -281,14 +297,6 @@
       "onboard_time": 1697295757,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 611547,
-      "num": 343195,
-      "word": "什么是三级暴露",
-      "onboard_time": 1697356233,
-      "rank": 11,
-      "category": "知识科普"
     },
     {
       "raw_hot": 601448,
@@ -651,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 374315,
+      "num": 247865,
+      "word": "红星美凯龙 迪丽热巴",
+      "onboard_time": 1697358332,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371969,
       "num": 371969,
       "word": "华浅提出和离",
@@ -819,6 +835,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 300756,
+      "num": 230766,
+      "word": "白敬亭在每一部剧里都能演自己",
+      "onboard_time": 1697356834,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 298140,
       "num": 298140,
       "word": "丁程鑫把黄子韬泼倒了",
@@ -849,14 +873,6 @@
       "onboard_time": 1697340990,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 288271,
-      "num": 230766,
-      "word": "白敬亭在每一部剧里都能演自己",
-      "onboard_time": 1697356834,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 287734,
@@ -939,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 261025,
+      "num": 197957,
+      "word": "宋轶当演员克服了全家阻碍",
+      "onboard_time": 1697357434,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256102,
       "num": 256102,
       "word": "哈尔滨铁路局通报K5133脱轨",
@@ -1001,6 +1025,14 @@
       "onboard_time": 1697351254,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240972,
+      "num": 240972,
+      "word": "官方通报业主滥挖地下室致河水倒灌车库",
+      "onboard_time": 1697357670,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237249,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1697340691,
       "rank": 40,
       "category": "教育"
-    },
-    {
-      "raw_hot": 216071,
-      "num": 197957,
-      "word": "宋轶当演员克服了全家阻碍",
-      "onboard_time": 1697357434,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 212903,
@@ -1241,14 +1265,6 @@
       "onboard_time": 1697345195,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183384,
-      "num": 183384,
-      "word": "乡村爱情13刘能饰演者赵明远去世",
-      "onboard_time": 1697357912,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 182061,
@@ -1465,14 +1481,6 @@
       "onboard_time": 1697264611,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152778,
-      "num": 152778,
-      "word": "官方通报业主滥挖地下室致河水倒灌车库",
-      "onboard_time": 1697357670,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152383,
@@ -1835,6 +1843,22 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 48274,
+      "num": 132982,
+      "word": "原来马拉松可以这样跑",
+      "onboard_time": 1697358755,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 48210,
+      "num": 1116192,
+      "word": "农民运动会丰收氛围拉满",
+      "onboard_time": 1697356953,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43831,
       "num": 43831,
       "word": "周杰伦上海",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1697287774,
       "rank": 2,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 27044,
-      "num": 1116192,
-      "word": "农民运动会丰收氛围拉满",
-      "onboard_time": 1697356953,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 23757,

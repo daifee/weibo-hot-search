@@ -1,0 +1,410 @@
+{
+  "runTime": 1697358842347,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384413,
+        "num": 1384413,
+        "word": "迪丽热巴黄景瑜 二搭",
+        "onboard_time": 1697354371,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1245874,
+        "num": 1245874,
+        "word": "王栎鑫儿子女儿三人共用一张脸",
+        "onboard_time": 1697355155,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 48210,
+        "num": 1096170,
+        "word": "农民运动会丰收氛围拉满",
+        "onboard_time": 1697356953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1001340,
+        "num": 1001340,
+        "word": "乡村爱情13刘能饰演者赵明远去世",
+        "onboard_time": 1697357912,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 793864,
+        "num": 793864,
+        "word": "贾玲王牌8请假条",
+        "onboard_time": 1697356834,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 945731,
+        "num": 692520,
+        "word": "夏奶奶去世",
+        "onboard_time": 1697342254,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535299,
+        "num": 535299,
+        "word": "李佳 牛",
+        "onboard_time": 1697349331,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 475055,
+        "num": 475055,
+        "word": "许昕",
+        "onboard_time": 1697354258,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 448134,
+        "num": 448134,
+        "word": "瑞幸回应与迪奥联名",
+        "onboard_time": 1697350053,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 311936,
+        "num": 311936,
+        "word": "中国将派特使推动巴以停火止战",
+        "onboard_time": 1697350954,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 877696,
+        "num": 304851,
+        "word": "什么是三级暴露",
+        "onboard_time": 1697356233,
+        "rank": 10,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 637767,
+        "num": 283024,
+        "word": "向佐直播间情绪失控的原因",
+        "onboard_time": 1697340633,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599940,
+        "num": 277025,
+        "word": "金鸡奖 六亲不认只认作品",
+        "onboard_time": 1697340508,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 444702,
+        "num": 251139,
+        "word": "76岁林子祥和33岁胡夏的友谊",
+        "onboard_time": 1697353534,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 250994,
+        "num": 250994,
+        "word": "超市里的秘密早知道早好",
+        "onboard_time": 1697349753,
+        "rank": 14,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 374315,
+        "num": 247865,
+        "word": "红星美凯龙 迪丽热巴",
+        "onboard_time": 1697358332,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302796,
+        "num": 246966,
+        "word": "别让迪丽热巴看到这个牌",
+        "onboard_time": 1697355992,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 240972,
+        "num": 240972,
+        "word": "官方通报业主滥挖地下室致河水倒灌车库",
+        "onboard_time": 1697357670,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213828,
+        "num": 213828,
+        "word": "周杰伦巡演首场4名黄牛被行政拘留",
+        "onboard_time": 1697349753,
+        "rank": 18,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 197125,
+        "num": 197125,
+        "word": "K5133次旅客列车运行中脱轨",
+        "onboard_time": 1697339429,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 603645,
+        "num": 196932,
+        "word": "男生用嘴帮女友吸伤口确诊三级暴露",
+        "onboard_time": 1697340451,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 508207,
+        "num": 196794,
+        "word": "以色列轰炸后的加沙尸横遍野",
+        "onboard_time": 1697342073,
+        "rank": 21,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 300756,
+        "num": 196256,
+        "word": "白敬亭在每一部剧里都能演自己",
+        "onboard_time": 1697356834,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285715,
+        "num": 195883,
+        "word": "女选手控腹超过1小时",
+        "onboard_time": 1697349572,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233769,
+        "num": 195670,
+        "word": "科学家建议老婆怀孕老公不能被裁员",
+        "onboard_time": 1697349393,
+        "rank": 24,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 261025,
+        "num": 195282,
+        "word": "宋轶当演员克服了全家阻碍",
+        "onboard_time": 1697357434,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236103,
+        "num": 195080,
+        "word": "金鸡奖 掉提名的大热门",
+        "onboard_time": 1697341470,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225800,
+        "num": 194707,
+        "word": "5个月婴儿误被捂脸4岁哥哥帮掀被",
+        "onboard_time": 1697351492,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212221,
+        "num": 194572,
+        "word": "是姐狗的姐也是姐狗的狗",
+        "onboard_time": 1697341412,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194271,
+        "num": 194271,
+        "word": "王一博三部电影角色均获奖项认可",
+        "onboard_time": 1697353293,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187342,
+        "num": 187342,
+        "word": "罗翔 比穷更可怕的是无人在意",
+        "onboard_time": 1697347834,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176701,
+        "num": 176701,
+        "word": "王牌家族全员回复贾玲",
+        "onboard_time": 1697356354,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183962,
+        "num": 175640,
+        "word": "瑞幸要和dior联名了吗",
+        "onboard_time": 1697340870,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172477,
+        "num": 172477,
+        "word": "广东26岁女生全身大换血",
+        "onboard_time": 1697351735,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166061,
+        "num": 166061,
+        "word": "现在很少见到黑长直了",
+        "onboard_time": 1697342194,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164006,
+        "num": 164006,
+        "word": "王楚钦机场怒怼跟拍",
+        "onboard_time": 1697348375,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150007,
+        "num": 150007,
+        "word": "为什么年轻人不到菜市场买菜了",
+        "onboard_time": 1697342854,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145918,
+        "num": 145918,
+        "word": "上海地产队男团夺冠",
+        "onboard_time": 1697356414,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143618,
+        "num": 143618,
+        "word": "张馨予80年代新娘子头发",
+        "onboard_time": 1697348071,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141887,
+        "num": 141887,
+        "word": "以政府发言人称行动目的是铲除哈马斯",
+        "onboard_time": 1697345433,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141789,
+        "num": 141789,
+        "word": "赵丽颖水晶吊坠头冠",
+        "onboard_time": 1697347054,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141261,
+        "num": 141261,
+        "word": "荷桂少女",
+        "onboard_time": 1697355693,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135814,
+        "num": 135814,
+        "word": "巴以冲突已致中国公民4死6伤2失联",
+        "onboard_time": 1697330309,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 135641,
+        "num": 135641,
+        "word": "千香引 鞠婧祎宋威龙",
+        "onboard_time": 1697352754,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48274,
+        "num": 132982,
+        "word": "原来马拉松可以这样跑",
+        "onboard_time": 1697358755,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132539,
+        "num": 132539,
+        "word": "法考主观题",
+        "onboard_time": 1697346573,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 129587,
+        "num": 129587,
+        "word": "我爸偷偷背着我考了个N2",
+        "onboard_time": 1697340990,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123776,
+        "num": 123776,
+        "word": "余华真不是客套",
+        "onboard_time": 1697356834,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123582,
+        "num": 123582,
+        "word": "卡塔尔资本近70亿美元报价曼联被拒",
+        "onboard_time": 1697341353,
+        "rank": 48,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 122685,
+        "num": 122685,
+        "word": "田曦薇锁喉玲娜贝儿",
+        "onboard_time": 1697350833,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持价值性和知识性相统一#"
+    }
+  }
+}
