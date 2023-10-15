@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697350891504,
+  "endTime": 1697351665544,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1849349,
+      "num": 1849349,
+      "word": "李佳 牛",
+      "onboard_time": 1697349331,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1792980,
       "num": 1792980,
       "word": "K5133次旅客列车运行中脱轨",
@@ -65,14 +73,6 @@
       "onboard_time": 1697333489,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1430476,
-      "num": 1430476,
-      "word": "李佳 牛",
-      "onboard_time": 1697349331,
-      "rank": 1,
-      "category": "教育"
     },
     {
       "raw_hot": 1305421,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 966210,
+      "num": 966210,
+      "word": "瑞幸回应与迪奥联名",
+      "onboard_time": 1697350053,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 908835,
       "num": 908835,
       "word": "金鸡奖 掉提名的大热门",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 788138,
-      "num": 505398,
+      "num": 755143,
       "word": "女选手控腹超过1小时",
       "onboard_time": 1697349572,
       "rank": 11,
@@ -329,14 +337,6 @@
       "onboard_time": 1697328569,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 547815,
-      "num": 499389,
-      "word": "瑞幸回应与迪奥联名",
-      "onboard_time": 1697350053,
-      "rank": 12,
-      "category": "美食"
     },
     {
       "raw_hot": 544685,
@@ -547,12 +547,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 387847,
+      "num": 387847,
+      "word": "周杰伦巡演首场4名黄牛被行政拘留",
+      "onboard_time": 1697349753,
+      "rank": 19,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 383541,
       "num": 383541,
       "word": "碧昂斯苦练中国国粹变脸",
       "onboard_time": 1697341594,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379535,
+      "num": 379535,
+      "word": "超市里的秘密早知道早好",
+      "onboard_time": 1697349753,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 371969,
@@ -569,14 +585,6 @@
       "onboard_time": 1697342194,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 364577,
-      "num": 364577,
-      "word": "周杰伦巡演首场4名黄牛被行政拘留",
-      "onboard_time": 1697349753,
-      "rank": 19,
-      "category": "社会新闻,演出"
     },
     {
       "raw_hot": 356382,
@@ -627,14 +635,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 329649,
-      "num": 247577,
-      "word": "超市里的秘密早知道早好",
-      "onboard_time": 1697349753,
-      "rank": 30,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 327852,
       "num": 327852,
       "word": "封神金鸡奖9项提名",
@@ -667,6 +667,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 318645,
+      "num": 318645,
+      "word": "逃出大英博物馆主创谈创作历程",
+      "onboard_time": 1697351254,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 313295,
       "num": 313295,
       "word": "为什么年轻人不到菜市场买菜了",
@@ -689,6 +697,14 @@
       "onboard_time": 1697336851,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306436,
+      "num": 306436,
+      "word": "田曦薇锁喉玲娜贝儿",
+      "onboard_time": 1697350833,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 304329,
@@ -761,14 +777,6 @@
       "onboard_time": 1697340149,
       "rank": 31,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 285204,
-      "num": 285204,
-      "word": "田曦薇锁喉玲娜贝儿",
-      "onboard_time": 1697350833,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 284940,
@@ -1003,6 +1011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202108,
+      "num": 202108,
+      "word": "中国将派特使推动巴以停火止战",
+      "onboard_time": 1697350954,
+      "rank": 32,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 201055,
       "num": 201055,
       "word": "田柾国TXT舞蹈挑战",
@@ -1075,6 +1091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188777,
+      "num": 188777,
+      "word": "重温一下cha的始祖鸟",
+      "onboard_time": 1697351254,
+      "rank": 35,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 186100,
       "num": 186100,
       "word": "杨紫黑色闪钻镂空裙",
@@ -1121,6 +1145,14 @@
       "onboard_time": 1697293236,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178860,
+      "num": 178860,
+      "word": "黄宗泽快不了一点",
+      "onboard_time": 1697349211,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 177901,
@@ -1187,6 +1219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170621,
+      "num": 170621,
+      "word": "浪漫的断章",
+      "onboard_time": 1697351072,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169743,
       "num": 169743,
       "word": "费启鸣中枪戏",
@@ -1209,6 +1249,14 @@
       "onboard_time": 1697325622,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 168524,
+      "num": 168524,
+      "word": "5个月婴儿误被捂脸4岁哥哥帮掀被",
+      "onboard_time": 1697351492,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 166227,
