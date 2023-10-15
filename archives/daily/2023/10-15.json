@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697333818024,
+  "endTime": 1697336764150,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -17,6 +17,14 @@
       "onboard_time": 1697325682,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1651703,
+      "num": 1651703,
+      "word": "金鸡奖提名名单",
+      "onboard_time": 1697333489,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 1145020,
@@ -40,6 +48,14 @@
       "word": "男子车内当孩子面将妻子捅成重伤",
       "onboard_time": 1697301150,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 816570,
+      "num": 326253,
+      "word": "认知严重障碍的大爷在美发店消费60万",
+      "onboard_time": 1697333489,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -81,6 +97,14 @@
       "onboard_time": 1697296831,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 628015,
+      "num": 457358,
+      "word": "蒋依依美拉德大衣",
+      "onboard_time": 1697330550,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 620344,
@@ -131,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 562603,
+      "num": 562603,
+      "word": "关智斌 钢管舞",
+      "onboard_time": 1697334690,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 557244,
       "num": 315902,
       "word": "现在问题不是车银优",
@@ -163,6 +195,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 524719,
+      "num": 524719,
+      "word": "王一博提名金鸡最佳男配角",
+      "onboard_time": 1697334633,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 519361,
+      "num": 246727,
+      "word": "你以为减肥实际上增肥的食物",
+      "onboard_time": 1697334271,
+      "rank": 20,
+      "category": "美食"
+    },
+    {
       "raw_hot": 510850,
       "num": 309771,
       "word": "巴以冲突不断升级面临失控风险",
@@ -172,27 +220,11 @@
     },
     {
       "raw_hot": 484341,
-      "num": 227066,
+      "num": 246582,
       "word": "发朋友圈只发景物不发自拍",
       "onboard_time": 1697326644,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 477950,
-      "num": 477950,
-      "word": "金鸡奖提名名单",
-      "onboard_time": 1697333489,
-      "rank": 9,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 457358,
-      "num": 457358,
-      "word": "蒋依依美拉德大衣",
-      "onboard_time": 1697330550,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 455090,
@@ -212,7 +244,7 @@
     },
     {
       "raw_hot": 422452,
-      "num": 222840,
+      "num": 246492,
       "word": "突然明白了为什么叫蒜头鼻",
       "onboard_time": 1697326644,
       "rank": 21,
@@ -233,6 +265,14 @@
       "onboard_time": 1697297798,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 393733,
+      "num": 323481,
+      "word": "徐娇十岁时的觉悟",
+      "onboard_time": 1697334811,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 392212,
@@ -273,6 +313,38 @@
       "onboard_time": 1697295998,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 332473,
+      "num": 332473,
+      "word": "杨利伟飞天居然是20年前了",
+      "onboard_time": 1697335649,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 327852,
+      "num": 327852,
+      "word": "封神金鸡奖9项提名",
+      "onboard_time": 1697333790,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 323168,
+      "num": 323168,
+      "word": "秦岚黑色抹胸开叉拖尾裙",
+      "onboard_time": 1697335353,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 304329,
+      "num": 232391,
+      "word": "刘亦菲这段台词太让人共鸣了",
+      "onboard_time": 1697333368,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 298140,
@@ -363,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 217181,
+      "num": 217181,
+      "word": "这什么节目上来就脱衣服",
+      "onboard_time": 1697335353,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209723,
       "num": 209723,
       "word": "如何用iPhone拍出好看的美食照片",
@@ -451,14 +531,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 173853,
-      "num": 173853,
-      "word": "刘亦菲这段台词太让人共鸣了",
-      "onboard_time": 1697333368,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169696,
       "num": 169696,
       "word": "许昕还是太全面了",
@@ -489,6 +561,14 @@
       "onboard_time": 1697300012,
       "rank": 47,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 164380,
+      "num": 164380,
+      "word": "丈夫为救坠崖昏迷妻子自己也被困",
+      "onboard_time": 1697333672,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 162970,
@@ -523,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 154901,
-      "num": 154901,
-      "word": "认知严重障碍的大爷在美发店消费60万",
-      "onboard_time": 1697333489,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 152383,
       "num": 152383,
       "word": "周口一玉米种植地被五百余人哄抢",
@@ -547,6 +619,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145588,
+      "num": 145588,
+      "word": "当我把柚子皮盖头上扎丸子头",
+      "onboard_time": 1697333489,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 145563,
+      "num": 145563,
+      "word": "吴磊的狗晒锦旗",
+      "onboard_time": 1697335353,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139986,
       "num": 137029,
       "word": "成韩彬洗娃直播",
@@ -555,20 +643,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136827,
-      "num": 136827,
-      "word": "丈夫为救坠崖昏迷妻子自己也被困",
-      "onboard_time": 1697333672,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 134503,
-      "num": 134503,
-      "word": "当我把柚子皮盖头上扎丸子头",
-      "onboard_time": 1697333489,
+      "raw_hot": 136025,
+      "num": 136025,
+      "word": "张凌赫金靖合照",
+      "onboard_time": 1697336009,
       "rank": 40,
-      "category": "幽默"
+      "category": "综艺"
     },
     {
       "raw_hot": 134420,
@@ -577,6 +657,14 @@
       "onboard_time": 1697263171,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129550,
+      "num": 129550,
+      "word": "陈哲远我那运动风男友",
+      "onboard_time": 1697336371,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 128107,
@@ -641,14 +729,6 @@
       "onboard_time": 1697331691,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 117076,
-      "num": 117076,
-      "word": "封神金鸡奖9项提名",
-      "onboard_time": 1697333790,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 116056,
@@ -755,6 +835,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 92907,
+      "num": 92907,
+      "word": "田嘉瑞泼林一 一击即中",
+      "onboard_time": 1697336729,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 91459,
       "num": 46782,
       "word": "熬夜等级表",
@@ -851,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32708,
+      "num": 798605,
+      "word": "一带一路铺就共同发展繁荣之路",
+      "onboard_time": 1697335290,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29097,
       "num": 1101183,
       "word": "一带一路有你有我",
@@ -865,6 +961,14 @@
       "onboard_time": 1697309895,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19670,
+      "num": 136918,
+      "word": "张朝阳的物理课重庆开讲",
+      "onboard_time": 1697335230,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 12196,

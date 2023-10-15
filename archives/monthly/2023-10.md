@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/15 09:36:58
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/15 10:26:04
 </p>
 </blockquote>
 <p>
@@ -1601,6 +1601,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%9C%AA%E6%8C%89%E6%97%B6%E5%88%B0%E6%A0%A1%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%B8%8A%E9%97%A8%E6%95%91%E4%B8%8B%E4%B8%80%E5%AE%B6%E5%9B%9B%E5%8F%A3%23" target="weibo">
 学生未按时到校班主任上门救下一家四口（热度：1652687）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23" target="weibo">
+金鸡奖提名名单（热度：1651703）
 </a>
 </li>
 
@@ -4377,6 +4383,12 @@ Jennie个人单曲音源上线（热度：822249）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E7%9F%A5%E4%B8%A5%E9%87%8D%E9%9A%9C%E7%A2%8D%E7%9A%84%E5%A4%A7%E7%88%B7%E5%9C%A8%E7%BE%8E%E5%8F%91%E5%BA%97%E6%B6%88%E8%B4%B960%E4%B8%87%23" target="weibo">
+认知严重障碍的大爷在美发店消费60万（热度：816570）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%9C%A8%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B1%82%E5%8A%A9%23" target="weibo">
 4岁走失女童父亲在网友评论区求助（热度：815757）
 </a>
@@ -5999,18 +6011,6 @@ Yamy郭颖签约少城时代（热度：649832）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E7%9C%8B%E5%A5%B3%E5%84%BF%E5%B0%8F%E9%85%92%E7%AA%9D%E8%B5%B0%E7%A7%80%E6%97%B6%E7%9A%84%E7%9C%BC%E7%A5%9E%23" target="weibo">
 董璇看女儿小酒窝走秀时的眼神（热度：646826）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E7%AB%9F%E7%84%B6%E4%B8%8D%E6%98%AF%E7%94%B0%E5%BE%84%E9%98%9F%E7%AC%AC%E4%B8%80%E7%BF%98%E8%87%80%23" target="weibo">
-苏炳添竟然不是田径队第一翘臀（热度：646754）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%80%E8%AD%A6%E5%AF%9F%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%B8%B8%E5%AE%A2%E5%BC%80%E6%9E%AA%E8%87%B43%E6%AD%BB%23" target="weibo">
-埃及一警察向以色列游客开枪致3死（热度：646748）
 </a>
 </li>
 
