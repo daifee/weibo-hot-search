@@ -1,0 +1,410 @@
+{
+  "runTime": 1697366042886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1855009,
+        "num": 1855009,
+        "word": "夫妻每天背几十斤黄金上下班坚持20年",
+        "onboard_time": 1697361514,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 386483,
+        "num": 1635210,
+        "word": "男子跑全马腿抽筋老人点穴三秒恢复",
+        "onboard_time": 1697361636,
+        "rank": 1,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 31618,
+        "num": 1532876,
+        "word": "农民运动会丰收氛围拉满",
+        "onboard_time": 1697356953,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1530569,
+        "num": 1530569,
+        "word": "乡村爱情13刘能饰演者赵明远去世",
+        "onboard_time": 1697357912,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301206,
+        "num": 1020812,
+        "word": "女子欲轻生被遛狗大哥死死拽住",
+        "onboard_time": 1697359773,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755017,
+        "num": 755017,
+        "word": "林俊杰 生生是一个很私人的作品",
+        "onboard_time": 1697361212,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 694818,
+        "num": 694818,
+        "word": "王栎鑫儿子女儿三人共用一张脸",
+        "onboard_time": 1697355155,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 650832,
+        "num": 650832,
+        "word": "去年我国结婚人数25至29岁最多",
+        "onboard_time": 1697363555,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618126,
+        "num": 618126,
+        "word": "去年中国结婚人数跌破700万对",
+        "onboard_time": 1697364393,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 531105,
+        "num": 531105,
+        "word": "迪丽热巴黄景瑜 二搭",
+        "onboard_time": 1697354371,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1541658,
+        "num": 529978,
+        "word": "米村拌饭 魏大勋来吃俺了",
+        "onboard_time": 1697359354,
+        "rank": 10,
+        "category": "美食,艺人"
+      },
+      {
+        "raw_hot": 168880,
+        "num": 529270,
+        "word": "关爱盲人朋友我们能做些什么",
+        "onboard_time": 1697365294,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789985,
+        "num": 527717,
+        "word": "以色列",
+        "onboard_time": 1697363492,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 699779,
+        "num": 527337,
+        "word": "红星美凯龙 迪丽热巴",
+        "onboard_time": 1697358332,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 539983,
+        "num": 525560,
+        "word": "BBC总部被亲巴勒斯坦组织泼红漆",
+        "onboard_time": 1697365294,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 525118,
+        "num": 525118,
+        "word": "什么是三级暴露",
+        "onboard_time": 1697356233,
+        "rank": 15,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 466379,
+        "num": 466379,
+        "word": "以军发言人称以军将在中东任何地方行动",
+        "onboard_time": 1697364214,
+        "rank": 16,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 462681,
+        "num": 462681,
+        "word": "中国中免董事长李刚去世",
+        "onboard_time": 1697360612,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 428330,
+        "num": 428330,
+        "word": "美国公民及直系亲属将撤离以色列",
+        "onboard_time": 1697365294,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 404251,
+        "num": 404251,
+        "word": "夏奶奶去世",
+        "onboard_time": 1697342254,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372892,
+        "num": 372892,
+        "word": "金鸡奖 六亲不认只认作品",
+        "onboard_time": 1697340508,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351142,
+        "num": 351142,
+        "word": "伊朗官方否认C罗将受鞭刑",
+        "onboard_time": 1697361876,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344225,
+        "num": 344225,
+        "word": "贾玲王牌8请假条",
+        "onboard_time": 1697356834,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289842,
+        "num": 289842,
+        "word": "男生用嘴帮女友吸伤口确诊三级暴露",
+        "onboard_time": 1697340451,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280513,
+        "num": 280513,
+        "word": "加沙空袭幸存婴儿在记者安抚下笑了",
+        "onboard_time": 1697359112,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 256919,
+        "num": 256919,
+        "word": "瑞幸回应与迪奥联名",
+        "onboard_time": 1697350053,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 246253,
+        "num": 246253,
+        "word": "76岁林子祥和33岁胡夏的友谊",
+        "onboard_time": 1697353534,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 235755,
+        "num": 235755,
+        "word": "以色列地面部队局部袭击加沙",
+        "onboard_time": 1697362534,
+        "rank": 27,
+        "category": "军事,国外要闻"
+      },
+      {
+        "raw_hot": 221421,
+        "num": 221421,
+        "word": "张元英金丝眼镜",
+        "onboard_time": 1697358873,
+        "rank": 28,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 195092,
+        "num": 202613,
+        "word": "空调安装师傅从天而降救回孩子",
+        "onboard_time": 1697365656,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201566,
+        "num": 201566,
+        "word": "被小孩管理的长辈朋友圈",
+        "onboard_time": 1697364096,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199228,
+        "num": 199228,
+        "word": "周也新剧果盘头",
+        "onboard_time": 1697364695,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191825,
+        "num": 191825,
+        "word": "盖伦",
+        "onboard_time": 1697365712,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184189,
+        "num": 184189,
+        "word": "向佐直播间情绪失控的原因",
+        "onboard_time": 1697340633,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175831,
+        "num": 175831,
+        "word": "段奥娟反向OK",
+        "onboard_time": 1697361155,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162472,
+        "num": 162472,
+        "word": "卢昱晓私服穿搭",
+        "onboard_time": 1697360674,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 148723,
+        "num": 148723,
+        "word": "熊猫宝宝吃竹子大有学问",
+        "onboard_time": 1697365058,
+        "rank": 36,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 148085,
+        "num": 148085,
+        "word": "KSG对战eStar",
+        "onboard_time": 1697364458,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145363,
+        "num": 145363,
+        "word": "邓为今天好清爽",
+        "onboard_time": 1697359713,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137775,
+        "num": 137775,
+        "word": "宋轶当演员克服了全家阻碍",
+        "onboard_time": 1697357434,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130784,
+        "num": 130784,
+        "word": "杨紫夜色大片",
+        "onboard_time": 1697362716,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128662,
+        "num": 128662,
+        "word": "科学家建议老婆怀孕老公不能被裁员",
+        "onboard_time": 1697349393,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 122306,
+        "num": 122306,
+        "word": "少林女足",
+        "onboard_time": 1697363914,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122246,
+        "num": 122246,
+        "word": "5个月婴儿误被捂脸4岁哥哥帮掀被",
+        "onboard_time": 1697351492,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120068,
+        "num": 120068,
+        "word": "白敬亭在每一部剧里都能演自己",
+        "onboard_time": 1697356834,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111752,
+        "num": 111752,
+        "word": "以政府发言人称行动目的是铲除哈马斯",
+        "onboard_time": 1697345433,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 108021,
+        "num": 108021,
+        "word": "安宥真烟熏妆",
+        "onboard_time": 1697362060,
+        "rank": 46,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 105591,
+        "num": 105591,
+        "word": "别让迪丽热巴看到这个牌",
+        "onboard_time": 1697355992,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97974,
+        "num": 97974,
+        "word": "王一博三部电影角色均获奖项认可",
+        "onboard_time": 1697353293,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97758,
+        "num": 97758,
+        "word": "国美客户端现辱骂创始人弹窗",
+        "onboard_time": 1697359531,
+        "rank": 49,
+        "category": "互联网,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路习近平主席这样说#"
+    }
+  }
+}
