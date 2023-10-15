@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697348038489,
+  "endTime": 1697350891504,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2809,6 +2809,14 @@
       "onboard_time": 1696996657,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1430476,
+      "num": 1430476,
+      "word": "李佳 牛",
+      "onboard_time": 1697349331,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 1421574,
@@ -6275,6 +6283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 788138,
+      "num": 505398,
+      "word": "女选手控腹超过1小时",
+      "onboard_time": 1697349572,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 787837,
       "num": 787837,
       "word": "何冰娇",
@@ -7361,6 +7377,14 @@
       "onboard_time": 1696642713,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697339,
+      "num": 697339,
+      "word": "王楚钦机场怒怼跟拍",
+      "onboard_time": 1697348375,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 696787,
@@ -10067,6 +10091,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 547815,
+      "num": 499389,
+      "word": "瑞幸回应与迪奥联名",
+      "onboard_time": 1697350053,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 547775,
       "num": 547775,
       "word": "广州塔这辈子没被这样看过",
@@ -10225,6 +10257,14 @@
       "onboard_time": 1696866334,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 540893,
+      "num": 359550,
+      "word": "罗翔 比穷更可怕的是无人在意",
+      "onboard_time": 1697347834,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 540784,
@@ -10961,6 +11001,14 @@
       "onboard_time": 1697012135,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513573,
+      "num": 513573,
+      "word": "伊拉克上万人街头声援巴勒斯坦",
+      "onboard_time": 1697346155,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 513572,
@@ -12433,6 +12481,14 @@
       "onboard_time": 1697277573,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 460830,
+      "num": 460830,
+      "word": "沙溢说贾玲你不在王牌哥就不走了",
+      "onboard_time": 1697348494,
+      "rank": 14,
+      "category": "综艺,综艺"
     },
     {
       "raw_hot": 460660,
@@ -15779,6 +15835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364577,
+      "num": 364577,
+      "word": "周杰伦巡演首场4名黄牛被行政拘留",
+      "onboard_time": 1697349753,
+      "rank": 19,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 364142,
       "num": 261249,
       "word": "完美头骨",
@@ -16305,14 +16369,6 @@
       "onboard_time": 1696429305,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 353943,
-      "num": 353943,
-      "word": "伊拉克上万人街头声援巴勒斯坦",
-      "onboard_time": 1697346155,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 353495,
@@ -17585,6 +17641,14 @@
       "onboard_time": 1696725276,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329649,
+      "num": 247577,
+      "word": "超市里的秘密早知道早好",
+      "onboard_time": 1697349753,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 329609,
@@ -19067,6 +19131,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 301974,
+      "num": 301974,
+      "word": "科学家建议老婆怀孕老公不能被裁员",
+      "onboard_time": 1697349393,
+      "rank": 24,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 301897,
       "num": 301897,
       "word": "你知道夔怎么读吗",
@@ -20361,6 +20433,14 @@
       "onboard_time": 1696481673,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285204,
+      "num": 285204,
+      "word": "田曦薇锁喉玲娜贝儿",
+      "onboard_time": 1697350833,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 285121,
@@ -21729,6 +21809,14 @@
       "onboard_time": 1696584333,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 268667,
+      "num": 268667,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1697349873,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 268578,
@@ -31235,14 +31323,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 186309,
-      "num": 186309,
-      "word": "罗翔 比穷更可怕的是无人在意",
-      "onboard_time": 1697347834,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 186289,
       "num": 186289,
       "word": "中国女篮亚运会五连胜",
@@ -32419,6 +32499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177901,
+      "num": 177901,
+      "word": "丁程鑫彩带摇",
+      "onboard_time": 1697350292,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177679,
       "num": 1713723,
       "word": "黄河九碗面哪碗让你念念不忘",
@@ -32801,6 +32889,14 @@
       "onboard_time": 1696584814,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174985,
+      "num": 174985,
+      "word": "张馨予80年代新娘子头发",
+      "onboard_time": 1697348071,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 174880,
@@ -34993,6 +35089,14 @@
       "onboard_time": 1696155932,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 156611,
+      "num": 156611,
+      "word": "沙溢出现的这一刻幽默达到顶峰",
+      "onboard_time": 1697348254,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 156499,
@@ -40257,6 +40361,14 @@
       "onboard_time": 1696531219,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38911,
+      "num": 1271376,
+      "word": "中国载人航天史上了不起的首次",
+      "onboard_time": 1697350833,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38060,
