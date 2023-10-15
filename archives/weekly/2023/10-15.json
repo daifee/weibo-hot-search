@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697408112338,
+  "endTime": 1697409221933,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -1147,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357312,
+      "num": 357312,
+      "word": "为什么今年支原体传染严重",
+      "onboard_time": 1697398394,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 356382,
       "num": 356382,
       "word": "废文网回来了",
@@ -1745,14 +1753,6 @@
       "onboard_time": 1697297854,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 225727,
-      "num": 225727,
-      "word": "为什么今年支原体传染严重",
-      "onboard_time": 1697398394,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 223463,
@@ -2987,6 +2987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87404,
+      "num": 87404,
+      "word": "以国家安全顾问承认误判情报",
+      "onboard_time": 1697401333,
+      "rank": 40,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 85562,
       "num": 93219,
       "word": "婚礼仪式暂停竟是为了反诈宣传",
@@ -3017,6 +3025,14 @@
       "onboard_time": 1697368415,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 65348,
+      "num": 65348,
+      "word": "胡彦斌对四十岁的理解很通透",
+      "onboard_time": 1697403432,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 64599,
@@ -3067,22 +3083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 52597,
-      "num": 52597,
-      "word": "胡彦斌对四十岁的理解很通透",
-      "onboard_time": 1697403432,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 46657,
-      "num": 46657,
-      "word": "以国家安全顾问承认误判情报",
-      "onboard_time": 1697401333,
-      "rank": 40,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 43831,
       "num": 43831,
       "word": "周杰伦上海",
@@ -3123,6 +3123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 33414,
+      "num": 33414,
+      "word": "SuperCup超大杯",
+      "onboard_time": 1697402954,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32992,
       "num": 43025,
       "word": "六旬大爷跳江勇救落水女子",
@@ -3147,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29682,
+      "num": 29682,
+      "word": "英媒驻加沙记者失联前视频",
+      "onboard_time": 1697397734,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29097,
       "num": 1101183,
       "word": "一带一路有你有我",
@@ -3161,14 +3177,6 @@
       "onboard_time": 1697391378,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28209,
-      "num": 28209,
-      "word": "SuperCup超大杯",
-      "onboard_time": 1697402954,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 26788,
@@ -3187,14 +3195,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 26196,
-      "num": 22724,
-      "word": "英媒驻加沙记者失联前视频",
-      "onboard_time": 1697397734,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 25497,
       "num": 181638,
       "word": "看到球场情侣我酸了",
@@ -3208,6 +3208,14 @@
       "word": "梁静茹 宁波",
       "onboard_time": 1697309895,
       "rank": 45,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 20158,
+      "num": 27989,
+      "word": "薛之谦脏辫开花了",
+      "onboard_time": 1697397554,
+      "rank": 47,
       "category": "演出"
     },
     {
@@ -3225,14 +3233,6 @@
       "onboard_time": 1697399054,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14578,
-      "num": 19368,
-      "word": "薛之谦脏辫开花了",
-      "onboard_time": 1697397554,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 12196,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697408112338,
+  "endTime": 1697409221933,
   "band_list": [
     {
       "raw_hot": 1404141,
@@ -115,6 +115,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 357312,
+      "num": 357312,
+      "word": "为什么今年支原体传染严重",
+      "onboard_time": 1697398394,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 354820,
+      "num": 354820,
+      "word": "4名小学生发现41年前曾灭绝的甲虫",
+      "onboard_time": 1697373995,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328911,
       "num": 328911,
       "word": "5000万买的豪宅总能闻到邻居烧菜味",
@@ -171,14 +187,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 225727,
-      "num": 225727,
-      "word": "为什么今年支原体传染严重",
-      "onboard_time": 1697398394,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 220591,
       "num": 220591,
       "word": "夫妻每天背几十斤黄金上下班坚持20年",
@@ -216,14 +224,6 @@
       "word": "95后称还没去婚礼先参加了葬礼",
       "onboard_time": 1697378559,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 198211,
-      "num": 198211,
-      "word": "4名小学生发现41年前曾灭绝的甲虫",
-      "onboard_time": 1697373995,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -323,6 +323,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 119654,
+      "num": 119654,
+      "word": "岳云鹏没认出来素颜的孟子义",
+      "onboard_time": 1697373337,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118172,
       "num": 118172,
       "word": "小男孩坐错车公交司机开车送回家",
@@ -379,14 +387,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 105341,
-      "num": 107565,
-      "word": "岳云鹏没认出来素颜的孟子义",
-      "onboard_time": 1697373337,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96867,
       "num": 107560,
       "word": "当外国留学生遇见山东乡村振兴",
@@ -409,6 +409,14 @@
       "onboard_time": 1697373995,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87404,
+      "num": 87404,
+      "word": "以国家安全顾问承认误判情报",
+      "onboard_time": 1697401333,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 77464,
@@ -435,20 +443,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 52597,
-      "num": 52597,
+      "raw_hot": 65348,
+      "num": 65348,
       "word": "胡彦斌对四十岁的理解很通透",
       "onboard_time": 1697403432,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 46657,
-      "num": 46657,
-      "word": "以国家安全顾问承认误判情报",
-      "onboard_time": 1697401333,
-      "rank": 40,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 38404,
@@ -457,6 +457,22 @@
       "onboard_time": 1697389940,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 33414,
+      "num": 33414,
+      "word": "SuperCup超大杯",
+      "onboard_time": 1697402954,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29682,
+      "num": 29682,
+      "word": "英媒驻加沙记者失联前视频",
+      "onboard_time": 1697397734,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 28705,
@@ -475,14 +491,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28209,
-      "num": 28209,
-      "word": "SuperCup超大杯",
-      "onboard_time": 1697402954,
-      "rank": 21,
-      "category": "体育"
-    },
-    {
       "raw_hot": 26788,
       "num": 32941,
       "word": "胡歌伦敦生图",
@@ -491,12 +499,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 26196,
-      "num": 22724,
-      "word": "英媒驻加沙记者失联前视频",
-      "onboard_time": 1697397734,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 20158,
+      "num": 27989,
+      "word": "薛之谦脏辫开花了",
+      "onboard_time": 1697397554,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 17452,
@@ -505,14 +513,6 @@
       "onboard_time": 1697399054,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14578,
-      "num": 19368,
-      "word": "薛之谦脏辫开花了",
-      "onboard_time": 1697397554,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 6081,
