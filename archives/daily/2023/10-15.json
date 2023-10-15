@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697362442828,
+  "endTime": 1697365024577,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2130164,
-      "num": 339265,
+      "num": 480543,
       "word": "米村拌饭 魏大勋来吃俺了",
       "onboard_time": 1697359354,
       "rank": 10,
@@ -99,8 +99,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1525408,
+      "num": 1525408,
+      "word": "夫妻每天背几十斤黄金上下班坚持20年",
+      "onboard_time": 1697361514,
+      "rank": 15,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1391052,
-      "num": 336647,
+      "num": 467336,
       "word": "红星美凯龙 迪丽热巴",
       "onboard_time": 1697358332,
       "rank": 15,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 1198191,
-      "num": 343195,
+      "num": 451775,
       "word": "什么是三级暴露",
       "onboard_time": 1697356233,
       "rank": 11,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 851694,
-      "num": 330847,
+      "num": 444642,
       "word": "中国中免董事长李刚去世",
       "onboard_time": 1697360612,
       "rank": 16,
@@ -211,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 814059,
+      "num": 814059,
+      "word": "林俊杰 生生是一个很私人的作品",
+      "onboard_time": 1697361212,
+      "rank": 47,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 788138,
       "num": 755143,
       "word": "女选手控腹超过1小时",
       "onboard_time": 1697349572,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 784690,
+      "num": 477500,
+      "word": "以色列",
+      "onboard_time": 1697363492,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 781816,
@@ -297,14 +321,6 @@
       "onboard_time": 1697289094,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 640111,
-      "num": 326078,
-      "word": "夫妻每天背几十斤黄金上下班坚持20年",
-      "onboard_time": 1697361514,
-      "rank": 15,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 630448,
@@ -547,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 477409,
-      "num": 322298,
-      "word": "林俊杰 生生是一个很私人的作品",
-      "onboard_time": 1697361212,
-      "rank": 47,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 460830,
       "num": 460830,
       "word": "沙溢说贾玲你不在王牌哥就不走了",
@@ -595,12 +603,28 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 447824,
+      "num": 332745,
+      "word": "伊朗官方否认C罗将受鞭刑",
+      "onboard_time": 1697361876,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 443409,
       "num": 370686,
       "word": "TF家族三代飞韩国",
       "onboard_time": 1697337210,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 440465,
+      "num": 440465,
+      "word": "去年我国结婚人数25至29岁最多",
+      "onboard_time": 1697363555,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 437351,
@@ -731,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 365510,
-      "num": 166226,
-      "word": "伊朗官方否认C罗将受鞭刑",
-      "onboard_time": 1697361876,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 365137,
       "num": 365137,
       "word": "中国将派特使推动巴以停火止战",
@@ -764,15 +780,15 @@
     },
     {
       "raw_hot": 353179,
-      "num": 353179,
+      "num": 1098705,
       "word": "女子欲轻生被遛狗大哥死死拽住",
       "onboard_time": 1697359773,
       "rank": 8,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344245,
-      "num": 344245,
+      "raw_hot": 345616,
+      "num": 1529946,
       "word": "男子跑全马腿抽筋老人点穴三秒恢复",
       "onboard_time": 1697361636,
       "rank": 9,
@@ -811,6 +827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 333440,
+      "num": 333440,
+      "word": "去年中国结婚人数跌破700万对",
+      "onboard_time": 1697364393,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333084,
       "num": 323168,
       "word": "秦岚黑色抹胸开叉拖尾裙",
@@ -841,6 +865,14 @@
       "onboard_time": 1697342495,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 321226,
+      "num": 321226,
+      "word": "以军发言人称以军将在中东任何地方行动",
+      "onboard_time": 1697364214,
+      "rank": 22,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 319719,
@@ -977,6 +1009,14 @@
       "onboard_time": 1697342912,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 284913,
+      "num": 284913,
+      "word": "以色列地面部队局部袭击加沙",
+      "onboard_time": 1697362534,
+      "rank": 24,
+      "category": "军事,国外要闻"
     },
     {
       "raw_hot": 277108,
@@ -1212,7 +1252,7 @@
     },
     {
       "raw_hot": 205401,
-      "num": 205401,
+      "num": 646586,
       "word": "医院开设共享厨房设备免费用食材零加价",
       "onboard_time": 1697360913,
       "rank": 27,
@@ -1241,6 +1281,14 @@
       "onboard_time": 1697345914,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 203638,
+      "num": 187876,
+      "word": "周也新剧果盘头",
+      "onboard_time": 1697364695,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 203219,
@@ -1273,6 +1321,14 @@
       "onboard_time": 1697299652,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 200457,
+      "num": 187857,
+      "word": "被小孩管理的长辈朋友圈",
+      "onboard_time": 1697364096,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 198907,
@@ -1353,6 +1409,14 @@
       "onboard_time": 1697346935,
       "rank": 42,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 191663,
+      "num": 191663,
+      "word": "卢芳芳帮左双桃试婚纱",
+      "onboard_time": 1697363914,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 186100,
@@ -1465,6 +1529,14 @@
       "onboard_time": 1697339971,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174564,
+      "num": 174564,
+      "word": "KSG对战eStar",
+      "onboard_time": 1697364458,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 174414,
@@ -1603,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156469,
+      "num": 156469,
+      "word": "杨紫夜色大片",
+      "onboard_time": 1697362716,
+      "rank": 36,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155223,
       "num": 155223,
       "word": "topik",
@@ -1617,6 +1697,14 @@
       "onboard_time": 1697264611,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152638,
+      "num": 152638,
+      "word": "少林女足",
+      "onboard_time": 1697363914,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 152383,
@@ -2012,7 +2100,7 @@
     },
     {
       "raw_hot": 53396,
-      "num": 1116192,
+      "num": 1525642,
       "word": "农民运动会丰收氛围拉满",
       "onboard_time": 1697356953,
       "rank": 2,
