@@ -1,7 +1,15 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697368395659,
+  "endTime": 1697369637565,
   "band_list": [
+    {
+      "raw_hot": 3438737,
+      "num": 3438737,
+      "word": "以方宣布断绝与联合国中东问题特使关系",
+      "onboard_time": 1697366314,
+      "rank": 10,
+      "category": "国外要闻"
+    },
     {
       "raw_hot": 3030731,
       "num": 3030731,
@@ -115,8 +123,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1356194,
-      "num": 1356194,
+      "raw_hot": 1374248,
+      "num": 1374248,
       "word": "去年我国结婚人数25至29岁最多",
       "onboard_time": 1697363555,
       "rank": 15,
@@ -137,14 +145,6 @@
       "onboard_time": 1697355155,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1235814,
-      "num": 606516,
-      "word": "以方宣布断绝与联合国中东问题特使关系",
-      "onboard_time": 1697366314,
-      "rank": 10,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1198191,
@@ -193,6 +193,14 @@
       "onboard_time": 1697350053,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 916454,
+      "num": 916454,
+      "word": "为什么高铁提前三分钟停止检票",
+      "onboard_time": 1697368056,
+      "rank": 13,
+      "category": "知识科普"
     },
     {
       "raw_hot": 908835,
@@ -459,14 +467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 559196,
-      "num": 559196,
-      "word": "为什么高铁提前三分钟停止检票",
-      "onboard_time": 1697368056,
-      "rank": 13,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 557244,
       "num": 315902,
       "word": "现在问题不是车银优",
@@ -619,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469813,
+      "num": 469813,
+      "word": "以色列演员发视频嘲讽加沙断水断电",
+      "onboard_time": 1697367814,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 460830,
       "num": 460830,
       "word": "沙溢说贾玲你不在王牌哥就不走了",
@@ -755,6 +763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 397435,
+      "num": 397435,
+      "word": "花海",
+      "onboard_time": 1697367994,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 392212,
       "num": 392212,
       "word": "凡尔赛宫收到炸弹警报",
@@ -788,7 +804,7 @@
     },
     {
       "raw_hot": 386483,
-      "num": 1635210,
+      "num": 2062496,
       "word": "男子跑全马腿抽筋老人点穴三秒恢复",
       "onboard_time": 1697361636,
       "rank": 9,
@@ -844,7 +860,7 @@
     },
     {
       "raw_hot": 353179,
-      "num": 1098705,
+      "num": 1257259,
       "word": "女子欲轻生被遛狗大哥死死拽住",
       "onboard_time": 1697359773,
       "rank": 8,
@@ -873,6 +889,14 @@
       "onboard_time": 1697333190,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 340429,
+      "num": 247610,
+      "word": "5000万买的豪宅总能闻到邻居烧菜味",
+      "onboard_time": 1697369132,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 333587,
@@ -1043,6 +1067,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 285533,
+      "num": 285533,
+      "word": "eStar怎么了",
+      "onboard_time": 1697368354,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 284940,
       "num": 284940,
       "word": "Hero全员报名马拉松",
@@ -1115,14 +1147,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 266850,
-      "num": 266850,
-      "word": "以色列演员发视频嘲讽加沙断水断电",
-      "onboard_time": 1697367814,
-      "rank": 26,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 264063,
       "num": 264063,
       "word": "张元英金丝眼镜",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1697357434,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259015,
+      "num": 259015,
+      "word": "盖伦",
+      "onboard_time": 1697365712,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 256102,
@@ -1156,7 +1188,7 @@
     },
     {
       "raw_hot": 254113,
-      "num": 755178,
+      "num": 1034855,
       "word": "空调安装师傅从天而降救回孩子",
       "onboard_time": 1697365656,
       "rank": 29,
@@ -1177,6 +1209,14 @@
       "onboard_time": 1697297913,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 251651,
+      "num": 251651,
+      "word": "蒲熠星 生活本身就是最好的文本",
+      "onboard_time": 1697367936,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 250911,
@@ -1201,14 +1241,6 @@
       "onboard_time": 1697345615,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 246224,
-      "num": 246224,
-      "word": "盖伦",
-      "onboard_time": 1697365712,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 242033,
@@ -1299,14 +1331,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 214281,
-      "num": 214281,
-      "word": "花海",
-      "onboard_time": 1697367994,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 212903,
       "num": 212903,
       "word": "王楚钦回应跟拍",
@@ -1379,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202427,
+      "num": 202427,
+      "word": "看田耕纪的一些玄学",
+      "onboard_time": 1697368473,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202203,
       "num": 202203,
       "word": "不管说什么男朋友都会用反问句来接话",
@@ -1403,6 +1435,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 200656,
+      "num": 200656,
+      "word": "Adam上单盖伦",
+      "onboard_time": 1697369014,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 199148,
+      "num": 199148,
+      "word": "KPL",
+      "onboard_time": 1697369314,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 199051,
+      "num": 199051,
+      "word": "贵州酸汤火锅",
+      "onboard_time": 1697366794,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 198907,
       "num": 198907,
       "word": "大连马拉松",
@@ -1411,12 +1467,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198831,
-      "num": 198831,
-      "word": "贵州酸汤火锅",
-      "onboard_time": 1697366794,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 198686,
+      "num": 198686,
+      "word": "BDS让二追三",
+      "onboard_time": 1697369193,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 198248,
@@ -1443,12 +1499,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196859,
-      "num": 196859,
-      "word": "蒲熠星 生活本身就是最好的文本",
-      "onboard_time": 1697367936,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 196390,
+      "num": 196390,
+      "word": "S13",
+      "onboard_time": 1697369256,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 195157,
@@ -1481,6 +1537,14 @@
       "onboard_time": 1697362060,
       "rank": 31,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 193035,
+      "num": 193035,
+      "word": "卖房为灾区捐款450万的爱心奶奶走了",
+      "onboard_time": 1697368473,
+      "rank": 40,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192813,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1697291736,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185982,
+      "num": 197518,
+      "word": "BDS战胜PSG",
+      "onboard_time": 1697368954,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 185627,
@@ -1723,6 +1795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 167786,
+      "num": 167786,
+      "word": "你们馒头届要考博啊",
+      "onboard_time": 1697369435,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166227,
       "num": 166227,
       "word": "张艺兴武汉CityWalk",
@@ -1771,12 +1851,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 159636,
-      "num": 159636,
-      "word": "eStar怎么了",
-      "onboard_time": 1697368354,
-      "rank": 39,
-      "category": "电竞"
+      "raw_hot": 160384,
+      "num": 160384,
+      "word": "卢布列夫",
+      "onboard_time": 1697368415,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 156876,
@@ -1817,6 +1897,14 @@
       "onboard_time": 1697264611,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154034,
+      "num": 154034,
+      "word": "神隐",
+      "onboard_time": 1697369554,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 152638,
@@ -2219,6 +2307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 68375,
+      "num": 137922,
+      "word": "徐亮盛赞港星足球水平",
+      "onboard_time": 1697368415,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64599,
       "num": 64599,
       "word": "章若楠秋冬穿搭好实用",
@@ -2323,20 +2419,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 26628,
+      "num": 527985,
+      "word": "民间篮球赛现场真炸",
+      "onboard_time": 1697367633,
+      "rank": 14,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 23757,
       "num": 23757,
       "word": "梁静茹 宁波",
       "onboard_time": 1697309895,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13902,
-      "num": 527985,
-      "word": "民间篮球赛现场真炸",
-      "onboard_time": 1697367633,
-      "rank": 14,
-      "category": "运动健身"
     },
     {
       "raw_hot": 12196,
