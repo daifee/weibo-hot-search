@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697382959636,
+  "endTime": 1697384035961,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2707,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1494590,
+      "num": 1494590,
+      "word": "我才知道悬溺是喜欢你读快了",
+      "onboard_time": 1697380063,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1493014,
       "num": 853231,
       "word": "假球",
@@ -2905,14 +2913,6 @@
       "onboard_time": 1696129532,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1421334,
-      "num": 1421334,
-      "word": "我才知道悬溺是喜欢你读快了",
-      "onboard_time": 1697380063,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 1420323,
@@ -4419,6 +4419,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1035373,
+      "num": 466230,
+      "word": "刘亦菲的洞洞鞋",
+      "onboard_time": 1697382219,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1034636,
       "num": 694503,
       "word": "网友在巴黎偶遇王一博",
@@ -5681,6 +5689,14 @@
       "onboard_time": 1697122365,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 860760,
+      "num": 860760,
+      "word": "米村拌饭",
+      "onboard_time": 1697380959,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 860327,
@@ -7235,6 +7251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 719225,
+      "num": 451361,
+      "word": "公办教师调入镇政府30年退休发现没编制",
+      "onboard_time": 1697382038,
+      "rank": 30,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 718488,
       "num": 718488,
       "word": "一盒月饼下去办公室无人生还",
@@ -7617,14 +7641,6 @@
       "onboard_time": 1696642713,
       "rank": 21,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 697532,
-      "num": 697532,
-      "word": "米村拌饭",
-      "onboard_time": 1697380959,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 697339,
@@ -11625,14 +11641,6 @@
       "onboard_time": 1696901132,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 500076,
-      "num": 236671,
-      "word": "公办教师调入镇政府30年退休发现没编制",
-      "onboard_time": 1697382038,
-      "rank": 30,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 500001,
@@ -15723,6 +15731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 378806,
+      "num": 378806,
+      "word": "白桃星座",
+      "onboard_time": 1696809995,
+      "rank": 38,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 378588,
       "num": 378588,
       "word": "华天不会被禁赛",
@@ -18819,14 +18835,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 317358,
-      "num": 317358,
-      "word": "刘亦菲的洞洞鞋",
-      "onboard_time": 1697382219,
-      "rank": 23,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 317296,
       "num": 317296,
       "word": "TI中国队晋级崩铁全服奖励",
@@ -18865,6 +18873,14 @@
       "onboard_time": 1697174977,
       "rank": 23,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 316783,
+      "num": 316783,
+      "word": "白敬亭工作室发了好多物料",
+      "onboard_time": 1697383775,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 316748,
@@ -20065,6 +20081,14 @@
       "onboard_time": 1696306772,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 297485,
+      "num": 297485,
+      "word": "女子数次弯腰清理路面碎石后默默带走",
+      "onboard_time": 1697384017,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 297380,
@@ -22401,6 +22425,14 @@
       "onboard_time": 1697161354,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268945,
+      "num": 268945,
+      "word": "段奥娟进组电影永不失联的爱",
+      "onboard_time": 1697383417,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 268745,
@@ -28865,14 +28897,6 @@
       "onboard_time": 1696124673,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 205237,
-      "num": 205237,
-      "word": "白桃星座",
-      "onboard_time": 1696809995,
-      "rank": 38,
-      "category": "休闲"
     },
     {
       "raw_hot": 205134,
@@ -39256,6 +39280,14 @@
       "word": "老人自发组织小区每周升国旗唱国歌",
       "onboard_time": 1696146873,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 120491,
+      "num": 120491,
+      "word": "当外国留学生遇见山东乡村振兴",
+      "onboard_time": 1697383059,
+      "rank": 48,
       "category": "社会新闻"
     },
     {

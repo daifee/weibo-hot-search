@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697382959636,
+  "endTime": 1697384035961,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -147,20 +147,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1494590,
+      "num": 1494590,
+      "word": "我才知道悬溺是喜欢你读快了",
+      "onboard_time": 1697380063,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1460373,
       "num": 1460373,
       "word": "为什么高铁提前三分钟停止检票",
       "onboard_time": 1697368056,
       "rank": 13,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 1421334,
-      "num": 1421334,
-      "word": "我才知道悬溺是喜欢你读快了",
-      "onboard_time": 1697380063,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 1405753,
@@ -243,6 +243,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1035373,
+      "num": 466230,
+      "word": "刘亦菲的洞洞鞋",
+      "onboard_time": 1697382219,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 1032144,
       "num": 1010717,
       "word": "以色列轰炸后的加沙尸横遍野",
@@ -297,6 +305,14 @@
       "onboard_time": 1697356834,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 860760,
+      "num": 860760,
+      "word": "米村拌饭",
+      "onboard_time": 1697380959,
+      "rank": 7,
+      "category": "美食"
     },
     {
       "raw_hot": 858929,
@@ -403,12 +419,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 697532,
-      "num": 697532,
-      "word": "米村拌饭",
-      "onboard_time": 1697380959,
-      "rank": 7,
-      "category": "美食"
+      "raw_hot": 719225,
+      "num": 451361,
+      "word": "公办教师调入镇政府30年退休发现没编制",
+      "onboard_time": 1697382038,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 697339,
@@ -771,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 500076,
-      "num": 236671,
-      "word": "公办教师调入镇政府30年退休发现没编制",
-      "onboard_time": 1697382038,
-      "rank": 30,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 497858,
       "num": 497858,
       "word": "徐娇十岁时的觉悟",
@@ -1059,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378806,
+      "num": 378806,
+      "word": "白桃星座",
+      "onboard_time": 1697382576,
+      "rank": 41,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 376737,
       "num": 376737,
       "word": "以军在加沙边界集结装甲推土机",
@@ -1235,12 +1251,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 317358,
-      "num": 317358,
-      "word": "刘亦菲的洞洞鞋",
-      "onboard_time": 1697382219,
+      "raw_hot": 316783,
+      "num": 316783,
+      "word": "白敬亭工作室发了好多物料",
+      "onboard_time": 1697383775,
       "rank": 23,
-      "category": "作品衍生,时尚"
+      "category": "艺人"
     },
     {
       "raw_hot": 313295,
@@ -1329,6 +1345,14 @@
       "onboard_time": 1697299950,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 297485,
+      "num": 297485,
+      "word": "女子数次弯腰清理路面碎石后默默带走",
+      "onboard_time": 1697384017,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295916,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1697369256,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 268945,
+      "num": 268945,
+      "word": "段奥娟进组电影永不失联的爱",
+      "onboard_time": 1697383417,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 268667,
@@ -2387,14 +2419,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155265,
-      "num": 155265,
-      "word": "白桃星座",
-      "onboard_time": 1697382576,
-      "rank": 41,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 155223,
       "num": 155223,
       "word": "topik",
@@ -2721,6 +2745,14 @@
       "onboard_time": 1697329769,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120491,
+      "num": 120491,
+      "word": "当外国留学生遇见山东乡村振兴",
+      "onboard_time": 1697383059,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118783,
