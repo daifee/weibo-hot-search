@@ -1,0 +1,410 @@
+{
+  "runTime": 1697332642005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3001404,
+        "num": 3001404,
+        "word": "巴以冲突已致中国公民4死6伤2失联",
+        "onboard_time": 1697330309,
+        "rank": 0,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2119909,
+        "num": 2119909,
+        "word": "王楚钦 希望大家能尊重彼此的隐私",
+        "onboard_time": 1697325682,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23704,
+        "num": 1101183,
+        "word": "一带一路有你有我",
+        "onboard_time": 1697287774,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 587692,
+        "num": 587692,
+        "word": "大张伟偷拿妈妈丝巾送粉丝",
+        "onboard_time": 1697328025,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 550572,
+        "num": 550572,
+        "word": "马来西亚36岁演员帮子女洗澡时猝逝",
+        "onboard_time": 1697328569,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 530140,
+        "num": 530140,
+        "word": "严屹宽 建模脸",
+        "onboard_time": 1697329109,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 456942,
+        "num": 456942,
+        "word": "以军方回应路透社记者身亡",
+        "onboard_time": 1697295757,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 390154,
+        "num": 390154,
+        "word": "社保缴15年和25年待遇差别",
+        "onboard_time": 1697268929,
+        "rank": 7,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 389924,
+        "num": 389924,
+        "word": "赵丽颖品牌晚宴视频",
+        "onboard_time": 1697330850,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295916,
+        "num": 295916,
+        "word": "杨紫关智斌同框",
+        "onboard_time": 1697328509,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 968320,
+        "num": 295894,
+        "word": "男子车内当孩子面将妻子捅成重伤",
+        "onboard_time": 1697301150,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601448,
+        "num": 295181,
+        "word": "王毅同沙特外交大臣费萨尔通电话",
+        "onboard_time": 1697330429,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 525787,
+        "num": 294905,
+        "word": "韩庚在减了",
+        "onboard_time": 1697327545,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463033,
+        "num": 294466,
+        "word": "加沙地带断电前后影像对比",
+        "onboard_time": 1697329230,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 393246,
+        "num": 293890,
+        "word": "在法国上中文课有种学霸的感觉",
+        "onboard_time": 1697329407,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 370927,
+        "num": 293461,
+        "word": "巴以冲突",
+        "onboard_time": 1697289999,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 293323,
+        "num": 293323,
+        "word": "蒋依依美拉德大衣",
+        "onboard_time": 1697330550,
+        "rank": 16,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 276052,
+        "num": 276052,
+        "word": "王一博去看大张伟演唱会",
+        "onboard_time": 1697328206,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 237068,
+        "num": 237068,
+        "word": "朴宝英更新与朴炯植合照",
+        "onboard_time": 1697295874,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226812,
+        "num": 226812,
+        "word": "丁真肺活量惊呆罗一舟",
+        "onboard_time": 1697325861,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 484341,
+        "num": 226128,
+        "word": "发朋友圈只发景物不发自拍",
+        "onboard_time": 1697326644,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 422452,
+        "num": 222840,
+        "word": "突然明白了为什么叫蒜头鼻",
+        "onboard_time": 1697326644,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237249,
+        "num": 219827,
+        "word": "螺蛳粉的热量真的很高吗",
+        "onboard_time": 1697325622,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 214758,
+        "num": 214758,
+        "word": "巴以冲突不断升级面临失控风险",
+        "onboard_time": 1697293002,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 209915,
+        "num": 209915,
+        "word": "女子乔迁新房70人吃席家里蹲",
+        "onboard_time": 1697298214,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 202743,
+        "num": 202743,
+        "word": "以色列同意加沙地带的外国人离开",
+        "onboard_time": 1697297015,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 202203,
+        "num": 202203,
+        "word": "不管说什么男朋友都会用反问句来接话",
+        "onboard_time": 1697329529,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 187498,
+        "num": 187498,
+        "word": "赵丽颖闪钻礼服",
+        "onboard_time": 1697297913,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 179370,
+        "num": 179370,
+        "word": "原来还可以健康熬夜",
+        "onboard_time": 1697329830,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 175222,
+        "num": 175222,
+        "word": "田耕纪爱奇艺热度值破6000",
+        "onboard_time": 1697330189,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169365,
+        "num": 169365,
+        "word": "四川人连早饭都是重油重辣吗",
+        "onboard_time": 1697325622,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 165308,
+        "num": 165308,
+        "word": "浙F367UJ你冲向草丛的样子真帅",
+        "onboard_time": 1697294434,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162904,
+        "num": 162904,
+        "word": "张靓颖穿18cm靴子唱跳不带喘",
+        "onboard_time": 1697296831,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162003,
+        "num": 162003,
+        "word": "X玖R1SE齐聚赵磊北京巡演",
+        "onboard_time": 1697331570,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156876,
+        "num": 156876,
+        "word": "苏醒演唱会偶遇吴莫愁",
+        "onboard_time": 1697327065,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152383,
+        "num": 152383,
+        "word": "周口一玉米种植地被五百余人哄抢",
+        "onboard_time": 1697324719,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149140,
+        "num": 149140,
+        "word": "湖南一技师学院一名女生宿舍内死亡",
+        "onboard_time": 1697289094,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140557,
+        "num": 140557,
+        "word": "国考岗位专业目录使用指南",
+        "onboard_time": 1697330490,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 120267,
+        "num": 120267,
+        "word": "王心凌上海演唱会演绎黄昏晓",
+        "onboard_time": 1697329769,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117700,
+        "num": 117700,
+        "word": "2024年国考公告",
+        "onboard_time": 1697331691,
+        "rank": 39,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 116056,
+        "num": 116056,
+        "word": "从不拆家的金毛拆了自己的窝",
+        "onboard_time": 1697329769,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 114308,
+        "num": 114308,
+        "word": "民国剧十有九悲",
+        "onboard_time": 1697329168,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111840,
+        "num": 111840,
+        "word": "王栎鑫白毛",
+        "onboard_time": 1697287593,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109981,
+        "num": 109981,
+        "word": "苏醒好会唱英文歌",
+        "onboard_time": 1697331450,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107991,
+        "num": 107991,
+        "word": "你准备参加今年国考吗",
+        "onboard_time": 1697330790,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105850,
+        "num": 105850,
+        "word": "现在问题不是车银优",
+        "onboard_time": 1697298156,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99348,
+        "num": 99348,
+        "word": "女子集200多个硬币拼囍字庆闺蜜结婚",
+        "onboard_time": 1697326824,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93221,
+        "num": 93221,
+        "word": "英语老师为不同成绩准备了meme贴纸",
+        "onboard_time": 1697297798,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 89446,
+        "num": 89446,
+        "word": "同学说我的工位像保安室",
+        "onboard_time": 1697327426,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77785,
+        "num": 77785,
+        "word": "张杰杨和苏合作一千公里",
+        "onboard_time": 1697326883,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持价值性和知识性相统一#"
+    }
+  }
+}
