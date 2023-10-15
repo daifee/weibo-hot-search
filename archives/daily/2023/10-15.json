@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697376854768,
+  "endTime": 1697379270787,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -139,6 +139,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1405753,
+      "num": 486360,
+      "word": "全华班被献祭",
+      "onboard_time": 1697377178,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1391052,
       "num": 527337,
       "word": "红星美凯龙 迪丽热巴",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1028888,
-      "num": 397592,
+      "num": 459382,
       "word": "刘亦菲晒花木兰蛋糕",
       "onboard_time": 1697374895,
       "rank": 12,
@@ -235,8 +243,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 929772,
-      "num": 929772,
+      "raw_hot": 937314,
+      "num": 937314,
       "word": "七岁儿子在加拿大的中文作业",
       "onboard_time": 1697373155,
       "rank": 30,
@@ -249,6 +257,14 @@
       "onboard_time": 1697341470,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 898850,
+      "num": 898850,
+      "word": "在海底捞被人要蛋糕了",
+      "onboard_time": 1697378377,
+      "rank": 4,
+      "category": "幽默"
     },
     {
       "raw_hot": 881980,
@@ -289,6 +305,14 @@
       "onboard_time": 1697353534,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 829347,
+      "num": 444731,
+      "word": "加沙",
+      "onboard_time": 1697374655,
+      "rank": 23,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 816570,
@@ -353,6 +377,14 @@
       "onboard_time": 1697348375,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 696542,
+      "num": 696542,
+      "word": "普京回应美报告鼓吹准备与中俄同时开战",
+      "onboard_time": 1697377477,
+      "rank": 5,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 686649,
@@ -627,12 +659,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 519479,
-      "num": 390177,
-      "word": "加沙",
-      "onboard_time": 1697374655,
-      "rank": 23,
-      "category": "国外要闻,军事"
+      "raw_hot": 518455,
+      "num": 518455,
+      "word": "胡兵 陈楚生站哥",
+      "onboard_time": 1697375797,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 513573,
@@ -657,6 +689,14 @@
       "onboard_time": 1697369554,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 505907,
+      "num": 431152,
+      "word": "张颜齐 横幅",
+      "onboard_time": 1697376935,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 497858,
@@ -713,14 +753,6 @@
       "onboard_time": 1697335353,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 463101,
-      "num": 463101,
-      "word": "胡兵 陈楚生站哥",
-      "onboard_time": 1697375797,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 460830,
@@ -839,6 +871,14 @@
       "num": 305306,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 415362,
+      "num": 415362,
+      "word": "周杰伦唱了倒带",
+      "onboard_time": 1697379216,
       "rank": 15,
       "category": "演出"
     },
@@ -971,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 355640,
+      "num": 299854,
+      "word": "朋友来看苏醒是因为没买到周杰伦的票",
+      "onboard_time": 1697377297,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 353179,
       "num": 1257259,
       "word": "女子欲轻生被遛狗大哥死死拽住",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1697342495,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326365,
+      "num": 326365,
+      "word": "张杰slow down",
+      "onboard_time": 1697378739,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 319719,
@@ -1209,6 +1265,14 @@
       "onboard_time": 1697340149,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 286069,
+      "num": 286069,
+      "word": "以军在加沙边界集结装甲推土机",
+      "onboard_time": 1697378438,
+      "rank": 22,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 285533,
@@ -1507,6 +1571,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226112,
+      "num": 226112,
+      "word": "被奶奶按头喂饭的小狗",
+      "onboard_time": 1697376876,
+      "rank": 27,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 225893,
+      "num": 212903,
+      "word": "95后称还没去婚礼先参加了葬礼",
+      "onboard_time": 1697378559,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 225820,
       "num": 225820,
       "word": "王子异包上恩对手戏好疯批",
@@ -1673,6 +1753,14 @@
       "onboard_time": 1697366794,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198955,
+      "num": 198955,
+      "word": "范丞丞喊孟子义小作精",
+      "onboard_time": 1697377837,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 198907,
@@ -1961,6 +2049,14 @@
       "onboard_time": 1697339971,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174656,
+      "num": 174656,
+      "word": "假如封神有朋友圈",
+      "onboard_time": 1697378257,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 174564,
@@ -2315,12 +2411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137307,
+      "num": 137307,
+      "word": "聂海胜回忆目送神五飞天",
+      "onboard_time": 1697378559,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136521,
       "num": 136521,
       "word": "张凌赫金靖合照",
       "onboard_time": 1697336009,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136039,
+      "num": 136039,
+      "word": "WB战胜HJG",
+      "onboard_time": 1697378860,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 134420,
@@ -2337,6 +2449,14 @@
       "onboard_time": 1697361095,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131518,
+      "num": 131518,
+      "word": "北京WB",
+      "onboard_time": 1697377116,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 131129,
@@ -2659,7 +2779,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49928,
+      "raw_hot": 50477,
       "num": 1076081,
       "word": "中国载人航天事业正阔步前进",
       "onboard_time": 1697375076,
