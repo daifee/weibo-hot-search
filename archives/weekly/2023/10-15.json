@@ -1,10 +1,10 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697332642005,
+  "endTime": 1697333818024,
   "band_list": [
     {
-      "raw_hot": 3001404,
-      "num": 3001404,
+      "raw_hot": 3030731,
+      "num": 3030731,
       "word": "巴以冲突已致中国公民4死6伤2失联",
       "onboard_time": 1697330309,
       "rank": 0,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 968320,
-      "num": 295894,
+      "num": 475922,
       "word": "男子车内当孩子面将妻子捅成重伤",
       "onboard_time": 1697301150,
       "rank": 49,
@@ -92,11 +92,19 @@
     },
     {
       "raw_hot": 601448,
-      "num": 295181,
+      "num": 521203,
       "word": "王毅同沙特外交大臣费萨尔通电话",
       "onboard_time": 1697330429,
       "rank": 11,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 594735,
+      "num": 594735,
+      "word": "加沙地带断电前后影像对比",
+      "onboard_time": 1697329230,
+      "rank": 13,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 587692,
@@ -113,6 +121,14 @@
       "onboard_time": 1697297913,
       "rank": 11,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 575310,
+      "num": 575310,
+      "word": "在法国上中文课有种学霸的感觉",
+      "onboard_time": 1697329407,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 557244,
@@ -140,7 +156,7 @@
     },
     {
       "raw_hot": 525787,
-      "num": 294905,
+      "num": 471201,
       "word": "韩庚在减了",
       "onboard_time": 1697327545,
       "rank": 12,
@@ -156,19 +172,27 @@
     },
     {
       "raw_hot": 484341,
-      "num": 226128,
+      "num": 227066,
       "word": "发朋友圈只发景物不发自拍",
       "onboard_time": 1697326644,
       "rank": 20,
       "category": "情感"
     },
     {
-      "raw_hot": 463033,
-      "num": 294466,
-      "word": "加沙地带断电前后影像对比",
-      "onboard_time": 1697329230,
-      "rank": 13,
-      "category": "国外要闻"
+      "raw_hot": 477950,
+      "num": 477950,
+      "word": "金鸡奖提名名单",
+      "onboard_time": 1697333489,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 457358,
+      "num": 457358,
+      "word": "蒋依依美拉德大衣",
+      "onboard_time": 1697330550,
+      "rank": 16,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 455090,
@@ -209,14 +233,6 @@
       "onboard_time": 1697297798,
       "rank": 18,
       "category": "教育"
-    },
-    {
-      "raw_hot": 393246,
-      "num": 293890,
-      "word": "在法国上中文课有种学霸的感觉",
-      "onboard_time": 1697329407,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 392212,
@@ -281,14 +297,6 @@
       "onboard_time": 1697286575,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293323,
-      "num": 293323,
-      "word": "蒋依依美拉德大衣",
-      "onboard_time": 1697330550,
-      "rank": 16,
-      "category": "艺人,时尚"
     },
     {
       "raw_hot": 276052,
@@ -363,6 +371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204627,
+      "num": 204627,
+      "word": "X玖R1SE齐聚赵磊北京巡演",
+      "onboard_time": 1697331570,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 202977,
       "num": 202977,
       "word": "苏醒巡演终于唱跳了",
@@ -387,12 +403,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 197382,
+      "num": 197382,
+      "word": "天津马拉松鸣枪开跑",
+      "onboard_time": 1697333190,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186100,
       "num": 186100,
       "word": "杨紫黑色闪钻镂空裙",
       "onboard_time": 1697291736,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 182061,
+      "num": 182061,
+      "word": "国考岗位专业目录使用指南",
+      "onboard_time": 1697330490,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 180397,
+      "num": 180397,
+      "word": "原来还可以健康熬夜",
+      "onboard_time": 1697329830,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 179881,
@@ -403,19 +443,19 @@
       "category": "网红"
     },
     {
-      "raw_hot": 179370,
-      "num": 179370,
-      "word": "原来还可以健康熬夜",
-      "onboard_time": 1697329830,
-      "rank": 28,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 175222,
       "num": 175222,
       "word": "田耕纪爱奇艺热度值破6000",
       "onboard_time": 1697330189,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 173853,
+      "num": 173853,
+      "word": "刘亦菲这段台词太让人共鸣了",
+      "onboard_time": 1697333368,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -467,14 +507,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 162003,
-      "num": 162003,
-      "word": "X玖R1SE齐聚赵磊北京巡演",
-      "onboard_time": 1697331570,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 156876,
       "num": 156876,
       "word": "苏醒演唱会偶遇吴莫愁",
@@ -489,6 +521,14 @@
       "onboard_time": 1697264611,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 154901,
+      "num": 154901,
+      "word": "认知严重障碍的大爷在美发店消费60万",
+      "onboard_time": 1697333489,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152383,
@@ -507,20 +547,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 140557,
-      "num": 140557,
-      "word": "国考岗位专业目录使用指南",
-      "onboard_time": 1697330490,
-      "rank": 37,
-      "category": "教育"
-    },
-    {
       "raw_hot": 139986,
       "num": 137029,
       "word": "成韩彬洗娃直播",
       "onboard_time": 1697301030,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136827,
+      "num": 136827,
+      "word": "丈夫为救坠崖昏迷妻子自己也被困",
+      "onboard_time": 1697333672,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 134503,
+      "num": 134503,
+      "word": "当我把柚子皮盖头上扎丸子头",
+      "onboard_time": 1697333489,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 134420,
@@ -563,8 +611,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 120267,
-      "num": 120267,
+      "raw_hot": 120718,
+      "num": 120718,
       "word": "王心凌上海演唱会演绎黄昏晓",
       "onboard_time": 1697329769,
       "rank": 38,
@@ -593,6 +641,14 @@
       "onboard_time": 1697331691,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 117076,
+      "num": 117076,
+      "word": "封神金鸡奖9项提名",
+      "onboard_time": 1697333790,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 116056,
