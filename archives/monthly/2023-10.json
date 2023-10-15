@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697391242503,
+  "endTime": 1697394045269,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -42043,6 +42043,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 28705,
+      "num": 33012,
+      "word": "灯亮的那一刻真是绝了",
+      "onboard_time": 1697391378,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 28381,
       "num": 49705,
       "word": "戳爷新歌MV穿女装",
@@ -42297,6 +42305,14 @@
       "onboard_time": 1696876516,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 21130,
+      "num": 32941,
+      "word": "胡歌伦敦生图",
+      "onboard_time": 1697393896,
+      "rank": 49,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 19990,
