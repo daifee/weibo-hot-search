@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697355228620,
+  "endTime": 1697357990190,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1705645,
-      "num": 1705645,
+      "raw_hot": 1738499,
+      "num": 1738499,
       "word": "迪丽热巴黄景瑜 二搭",
       "onboard_time": 1697354371,
       "rank": 0,
@@ -89,6 +89,14 @@
       "onboard_time": 1697340451,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1279294,
+      "num": 1279294,
+      "word": "王栎鑫儿子女儿三人共用一张脸",
+      "onboard_time": 1697355155,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 1145020,
@@ -137,6 +145,14 @@
       "onboard_time": 1697341470,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 881980,
+      "num": 881980,
+      "word": "贾玲王牌8请假条",
+      "onboard_time": 1697356834,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 836362,
@@ -267,6 +283,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 611547,
+      "num": 343195,
+      "word": "什么是三级暴露",
+      "onboard_time": 1697356233,
+      "rank": 11,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 601448,
       "num": 521203,
       "word": "王毅同沙特外交大臣费萨尔通电话",
@@ -289,6 +313,14 @@
       "onboard_time": 1697328025,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 582889,
+      "num": 582889,
+      "word": "许昕",
+      "onboard_time": 1697354258,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 575910,
@@ -401,14 +433,6 @@
       "onboard_time": 1697334633,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 514057,
-      "num": 514057,
-      "word": "许昕",
-      "onboard_time": 1697354258,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 513573,
@@ -667,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 342572,
+      "num": 342572,
+      "word": "别让迪丽热巴看到这个牌",
+      "onboard_time": 1697355992,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 342338,
       "num": 342338,
       "word": "乌尔善 金鸡奖最佳导演提名",
@@ -817,6 +849,14 @@
       "onboard_time": 1697340990,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 288271,
+      "num": 230766,
+      "word": "白敬亭在每一部剧里都能演自己",
+      "onboard_time": 1697356834,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 287734,
@@ -1003,6 +1043,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 228268,
+      "num": 228268,
+      "word": "王牌家族全员回复贾玲",
+      "onboard_time": 1697356354,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226812,
       "num": 226812,
       "word": "丁真肺活量惊呆罗一舟",
@@ -1027,6 +1075,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216071,
+      "num": 197957,
+      "word": "宋轶当演员克服了全家阻碍",
+      "onboard_time": 1697357434,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212903,
       "num": 212903,
       "word": "王楚钦回应跟拍",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1697302587,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 205341,
+      "num": 205341,
+      "word": "上海地产队男团夺冠",
+      "onboard_time": 1697356414,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 204627,
@@ -1155,14 +1219,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 190348,
-      "num": 190348,
-      "word": "王栎鑫儿子女儿三人共用一张脸",
-      "onboard_time": 1697355155,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 186100,
       "num": 186100,
       "word": "杨紫黑色闪钻镂空裙",
@@ -1187,12 +1243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183384,
+      "num": 183384,
+      "word": "乡村爱情13刘能饰演者赵明远去世",
+      "onboard_time": 1697357912,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 182061,
       "num": 182061,
       "word": "国考岗位专业目录使用指南",
       "onboard_time": 1697330490,
       "rank": 37,
       "category": "教育"
+    },
+    {
+      "raw_hot": 181284,
+      "num": 181284,
+      "word": "荷桂少女",
+      "onboard_time": 1697355693,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180397,
@@ -1395,6 +1467,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 152778,
+      "num": 152778,
+      "word": "官方通报业主滥挖地下室致河水倒灌车库",
+      "onboard_time": 1697357670,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152383,
       "num": 152383,
       "word": "周口一玉米种植地被五百余人哄抢",
@@ -1491,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131129,
+      "num": 131129,
+      "word": "余华真不是客套",
+      "onboard_time": 1697356834,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128811,
       "num": 128811,
       "word": "TXT ACOUSTIC MEDLEY",
@@ -1521,6 +1609,14 @@
       "onboard_time": 1697288795,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 124627,
+      "num": 124627,
+      "word": "金鸡奖",
+      "onboard_time": 1697356233,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 123053,
@@ -1803,6 +1899,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 27044,
+      "num": 1116192,
+      "word": "农民运动会丰收氛围拉满",
+      "onboard_time": 1697356953,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 23757,
       "num": 23757,
       "word": "梁静茹 宁波",
@@ -1836,6 +1940,9 @@
     },
     {
       "word": "#总书记提到的固本兴新有何深意#"
+    },
+    {
+      "word": "#共建一带一路习近平主席这样说#"
     }
   ]
 }
