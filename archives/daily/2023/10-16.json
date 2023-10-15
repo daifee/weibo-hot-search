@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697409221933,
+  "endTime": 1697411794816,
   "band_list": [
     {
       "raw_hot": 1404141,
@@ -27,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 904054,
+      "num": 904054,
+      "word": "4名小学生发现41年前曾灭绝的甲虫",
+      "onboard_time": 1697373995,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896764,
       "num": 896764,
       "word": "公办教师调入镇政府30年退休发现没编制",
@@ -49,6 +57,14 @@
       "onboard_time": 1697370517,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 811266,
+      "num": 811266,
+      "word": "为什么今年支原体传染严重",
+      "onboard_time": 1697398394,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 751534,
@@ -91,6 +107,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 436571,
+      "num": 368307,
+      "word": "全华班被献祭",
+      "onboard_time": 1697377178,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 434920,
       "num": 434920,
       "word": "对体育饭圈化必须亮红牌",
@@ -104,30 +128,6 @@
       "word": "官方回应家长质疑拼音o读成喔",
       "onboard_time": 1697381017,
       "rank": 8,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 368307,
-      "num": 368307,
-      "word": "全华班被献祭",
-      "onboard_time": 1697377178,
-      "rank": 13,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 357312,
-      "num": 357312,
-      "word": "为什么今年支原体传染严重",
-      "onboard_time": 1697398394,
-      "rank": 49,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 354820,
-      "num": 354820,
-      "word": "4名小学生发现41年前曾灭绝的甲虫",
-      "onboard_time": 1697373995,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -145,6 +145,14 @@
       "onboard_time": 1697382576,
       "rank": 15,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 312210,
+      "num": 312210,
+      "word": "岳云鹏没认出来素颜的孟子义",
+      "onboard_time": 1697373337,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 293646,
@@ -193,6 +201,14 @@
       "onboard_time": 1697361514,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 217221,
+      "num": 217221,
+      "word": "以国家安全顾问承认误判情报",
+      "onboard_time": 1697401333,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 207722,
@@ -323,14 +339,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 119654,
-      "num": 119654,
-      "word": "岳云鹏没认出来素颜的孟子义",
-      "onboard_time": 1697373337,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118172,
       "num": 118172,
       "word": "小男孩坐错车公交司机开车送回家",
@@ -345,6 +353,14 @@
       "onboard_time": 1697354371,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116391,
+      "num": 116391,
+      "word": "为什么领导的头像都是风景照",
+      "onboard_time": 1697410702,
+      "rank": 25,
+      "category": "情感"
     },
     {
       "raw_hot": 115706,
@@ -411,14 +427,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 87404,
-      "num": 87404,
-      "word": "以国家安全顾问承认误判情报",
-      "onboard_time": 1697401333,
-      "rank": 40,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 77464,
       "num": 107547,
       "word": "男子上交父亲遗留家中的158枚子弹",
@@ -451,28 +459,44 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 38404,
-      "num": 59194,
-      "word": "TW对战GAM",
-      "onboard_time": 1697389940,
-      "rank": 49,
-      "category": "游戏"
-    },
-    {
-      "raw_hot": 33414,
-      "num": 33414,
+      "raw_hot": 61601,
+      "num": 61601,
       "word": "SuperCup超大杯",
       "onboard_time": 1697402954,
       "rank": 21,
       "category": "体育"
     },
     {
-      "raw_hot": 29682,
-      "num": 29682,
+      "raw_hot": 61301,
+      "num": 61301,
+      "word": "大熊猫福宝爬树已丝滑如猴了",
+      "onboard_time": 1697411607,
+      "rank": 40,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 54016,
+      "num": 54016,
+      "word": "遛狗男子踩空消防摸黑下井救人",
+      "onboard_time": 1697410824,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51588,
+      "num": 51588,
       "word": "英媒驻加沙记者失联前视频",
       "onboard_time": 1697397734,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 38404,
+      "num": 59194,
+      "word": "TW对战GAM",
+      "onboard_time": 1697389940,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 28705,
@@ -515,8 +539,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 6081,
-      "num": 553270,
+      "raw_hot": 7256,
+      "num": 626526,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1697174497,
       "rank": 2,

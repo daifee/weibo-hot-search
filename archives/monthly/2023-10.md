@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 06:33:41
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 07:16:34
 </p>
 </blockquote>
 <p>
@@ -3981,6 +3981,12 @@ iPhone平均寿命将达8年（热度：910856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23" target="weibo">
+4名小学生发现41年前曾灭绝的甲虫（热度：904054）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B0%8F%E5%8F%AA%E5%91%8A%E5%88%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%23" target="weibo">
 三小只告别亚运会（热度：903131）
 </a>
@@ -4649,6 +4655,12 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87%23" target="weibo">
 女生买炸鸡付款一看两百万（热度：811550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BB%8A%E5%B9%B4%E6%94%AF%E5%8E%9F%E4%BD%93%E4%BC%A0%E6%9F%93%E4%B8%A5%E9%87%8D%23" target="weibo">
+为什么今年支原体传染严重（热度：811266）
 </a>
 </li>
 
@@ -5967,12 +5979,6 @@ A股（热度：674863）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%90%8D%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%8F%91%E7%8E%B041%E5%B9%B4%E5%89%8D%E6%9B%BE%E7%81%AD%E7%BB%9D%E7%9A%84%E7%94%B2%E8%99%AB%23" target="weibo">
-4名小学生发现41年前曾灭绝的甲虫（热度：673858）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E9%AB%98%E6%A0%A1%E8%80%81%E5%B8%88%E7%BE%8E%E6%9C%AF%E9%A6%86%E7%9C%8B%E5%B1%95%E6%97%B6%E5%9D%A0%E4%BA%A1%23" target="weibo">
 广东一高校老师美术馆看展时坠亡（热度：673688）
 </a>
@@ -6005,12 +6011,6 @@ A股（热度：674863）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%B1%B1%E6%B8%B8%E5%AE%A2%E8%A2%AB%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BF%97%E6%84%BF%E8%80%85%E7%83%AD%E6%83%85%E6%8A%95%E5%96%82%23" target="weibo">
 黄山游客被大学生志愿者热情投喂（热度：671883）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%20%E5%BD%93%E5%BD%93%E7%9B%AF%E4%B8%8A%E4%BA%86%E6%88%91%E7%9A%84%E5%8F%A6%E4%B8%80%E9%83%A8%E5%B0%8F%E8%AF%B4%23" target="weibo">
-余华 当当盯上了我的另一部小说（热度：671056）
 </a>
 </li>
 
