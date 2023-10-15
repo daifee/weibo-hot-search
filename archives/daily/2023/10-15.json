@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697344499832,
+  "endTime": 1697346919106,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2240559,
+      "raw_hot": 2290994,
       "num": 501217,
       "word": "金鸡奖 六亲不认只认作品",
       "onboard_time": 1697340508,
@@ -88,6 +88,14 @@
       "word": "巴以冲突",
       "onboard_time": 1697289999,
       "rank": 5,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1010717,
+      "num": 1010717,
+      "word": "以色列轰炸后的加沙尸横遍野",
+      "onboard_time": 1697342073,
+      "rank": 14,
       "category": "国外要闻"
     },
     {
@@ -171,19 +179,19 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 623903,
+      "num": 623903,
+      "word": "是姐狗的姐也是姐狗的狗",
+      "onboard_time": 1697341412,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 620344,
       "num": 620344,
       "word": "以军方回应路透社记者身亡",
       "onboard_time": 1697295757,
       "rank": 4,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 610584,
-      "num": 610584,
-      "word": "以色列轰炸后的加沙尸横遍野",
-      "onboard_time": 1697342073,
-      "rank": 14,
       "category": "国外要闻"
     },
     {
@@ -291,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 518919,
+      "num": 518919,
+      "word": "法考主观题",
+      "onboard_time": 1697346573,
+      "rank": 8,
+      "category": "教育"
+    },
+    {
       "raw_hot": 510850,
       "num": 309771,
       "word": "巴以冲突不断升级面临失控风险",
@@ -305,6 +321,14 @@
       "onboard_time": 1697334811,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 493668,
+      "num": 493668,
+      "word": "王牌对王牌",
+      "onboard_time": 1697344835,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 492807,
@@ -329,14 +353,6 @@
       "onboard_time": 1697335353,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 473101,
-      "num": 473101,
-      "word": "是姐狗的姐也是姐狗的狗",
-      "onboard_time": 1697341412,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 458126,
@@ -371,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437351,
+      "num": 437351,
+      "word": "印度将申办2036年奥运会",
+      "onboard_time": 1697341833,
+      "rank": 15,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 436128,
       "num": 277598,
       "word": "朴宝英更新与朴炯植合照",
@@ -387,20 +411,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 418019,
-      "num": 418019,
-      "word": "印度将申办2036年奥运会",
-      "onboard_time": 1697341833,
-      "rank": 15,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 417218,
       "num": 305306,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 413190,
+      "num": 413190,
+      "word": "叶童老师值得",
+      "onboard_time": 1697346456,
+      "rank": 17,
+      "category": "电影,综艺"
     },
     {
       "raw_hot": 400149,
@@ -451,8 +475,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369766,
+      "num": 369766,
+      "word": "梅西中国行官宣",
+      "onboard_time": 1697346273,
+      "rank": 19,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 368045,
-      "num": 311356,
+      "num": 335288,
       "word": "现在很少见到黑长直了",
       "onboard_time": 1697342194,
       "rank": 20,
@@ -465,6 +497,14 @@
       "onboard_time": 1697340391,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 356040,
+      "num": 241239,
+      "word": "金鸡奖没有新人奖",
+      "onboard_time": 1697345555,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 342338,
@@ -531,6 +571,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 313295,
+      "num": 313295,
+      "word": "为什么年轻人不到菜市场买菜了",
+      "onboard_time": 1697342854,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312331,
       "num": 312331,
       "word": "田柾国NewJeans舞蹈挑战",
@@ -547,20 +595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 307343,
-      "num": 307343,
-      "word": "为什么年轻人不到菜市场买菜了",
-      "onboard_time": 1697342854,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 304329,
       "num": 247755,
       "word": "刘亦菲这段台词太让人共鸣了",
       "onboard_time": 1697333368,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304035,
+      "num": 241229,
+      "word": "以政府发言人称行动目的是铲除哈马斯",
+      "onboard_time": 1697345433,
+      "rank": 31,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 298140,
@@ -651,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 272810,
+      "num": 272810,
+      "word": "柯南 而立之年的小兰",
+      "onboard_time": 1697344475,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 256102,
       "num": 256102,
       "word": "哈尔滨铁路局通报K5133脱轨",
@@ -697,6 +753,14 @@
       "onboard_time": 1697341654,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247964,
+      "num": 247964,
+      "word": "爷爷第一次抱孙女前反复擦手",
+      "onboard_time": 1697345615,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 237249,
@@ -771,12 +835,36 @@
       "category": "数码"
     },
     {
+      "raw_hot": 204884,
+      "num": 204884,
+      "word": "艾丽娅 没提名",
+      "onboard_time": 1697346573,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204627,
       "num": 204627,
       "word": "X玖R1SE齐聚赵磊北京巡演",
       "onboard_time": 1697331570,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204237,
+      "num": 204237,
+      "word": "为有暗香来三对cp现状",
+      "onboard_time": 1697345914,
+      "rank": 38,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 203689,
+      "num": 203689,
+      "word": "伊拉克上万人街头声援巴勒斯坦",
+      "onboard_time": 1697346155,
+      "rank": 40,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 203219,
@@ -811,6 +899,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199661,
+      "num": 199661,
+      "word": "为什么酒店没有晾衣服的地方",
+      "onboard_time": 1697346635,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198907,
       "num": 198907,
       "word": "大连马拉松",
@@ -825,6 +921,14 @@
       "onboard_time": 1697339670,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197560,
+      "num": 197560,
+      "word": "张雨绮带来的山东大葱比人高",
+      "onboard_time": 1697344775,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 195157,
@@ -851,6 +955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192318,
+      "num": 192318,
+      "word": "金鸡奖提名名单是如何评选产生的",
+      "onboard_time": 1697345433,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186100,
       "num": 186100,
       "word": "杨紫黑色闪钻镂空裙",
@@ -865,6 +977,14 @@
       "onboard_time": 1697344296,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184356,
+      "num": 184356,
+      "word": "张杰马冬梅行为",
+      "onboard_time": 1697345195,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 182061,
@@ -987,14 +1107,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 162954,
-      "num": 162954,
-      "word": "柯南 而立之年的小兰",
-      "onboard_time": 1697344475,
-      "rank": 49,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "普京称现阶段最重要的是制止流血事件",
@@ -1020,7 +1132,7 @@
     },
     {
       "raw_hot": 156798,
-      "num": 241053,
+      "num": 486784,
       "word": "范丞丞扛住了怼脸镜头",
       "onboard_time": 1697343874,
       "rank": 32,

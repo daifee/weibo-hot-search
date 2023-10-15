@@ -1,0 +1,410 @@
+{
+  "runTime": 1697346919106,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2619323,
+        "num": 2619323,
+        "word": "夏奶奶去世",
+        "onboard_time": 1697342254,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1698462,
+        "num": 1698462,
+        "word": "瑞幸要和dior联名了吗",
+        "onboard_time": 1697340870,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 25916,
+        "num": 1597575,
+        "word": "一带一路铺就共同发展繁荣之路",
+        "onboard_time": 1697335290,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1575391,
+        "num": 1575391,
+        "word": "向佐直播间情绪失控的原因",
+        "onboard_time": 1697340633,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1010717,
+        "num": 1010717,
+        "word": "以色列轰炸后的加沙尸横遍野",
+        "onboard_time": 1697342073,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 721915,
+        "num": 721915,
+        "word": "金鸡奖 掉提名的大热门",
+        "onboard_time": 1697341470,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 623903,
+        "num": 623903,
+        "word": "是姐狗的姐也是姐狗的狗",
+        "onboard_time": 1697341412,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 610821,
+        "num": 610821,
+        "word": "K5133次旅客列车运行中脱轨",
+        "onboard_time": 1697339429,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518919,
+        "num": 518919,
+        "word": "法考主观题",
+        "onboard_time": 1697346573,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 493668,
+        "num": 493668,
+        "word": "王牌对王牌",
+        "onboard_time": 1697344835,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105447,
+        "num": 486784,
+        "word": "范丞丞扛住了怼脸镜头",
+        "onboard_time": 1697343874,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2290994,
+        "num": 486665,
+        "word": "金鸡奖 六亲不认只认作品",
+        "onboard_time": 1697340508,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1208742,
+        "num": 486495,
+        "word": "男生用嘴帮女友吸伤口确诊三级暴露",
+        "onboard_time": 1697340451,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485998,
+        "num": 485998,
+        "word": "巴以冲突已致中国公民4死6伤2失联",
+        "onboard_time": 1697330309,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 471115,
+        "num": 471115,
+        "word": "金鸡奖提名名单",
+        "onboard_time": 1697333489,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 437351,
+        "num": 437351,
+        "word": "印度将申办2036年奥运会",
+        "onboard_time": 1697341833,
+        "rank": 15,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 428354,
+        "num": 428354,
+        "word": "阿富汗发生6.4级地震",
+        "onboard_time": 1697343455,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 413190,
+        "num": 413190,
+        "word": "叶童老师值得",
+        "onboard_time": 1697346456,
+        "rank": 17,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 379098,
+        "num": 379098,
+        "word": "卡塔尔资本近70亿美元报价曼联被拒",
+        "onboard_time": 1697341353,
+        "rank": 18,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 369766,
+        "num": 369766,
+        "word": "梅西中国行官宣",
+        "onboard_time": 1697346273,
+        "rank": 19,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 357774,
+        "num": 357774,
+        "word": "王楚钦 希望大家能尊重彼此的隐私",
+        "onboard_time": 1697325682,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 357410,
+        "num": 357410,
+        "word": "惠英红 感谢金鸡看到我这粒尘埃",
+        "onboard_time": 1697342674,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335288,
+        "num": 335288,
+        "word": "现在很少见到黑长直了",
+        "onboard_time": 1697342194,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 313295,
+        "num": 313295,
+        "word": "为什么年轻人不到菜市场买菜了",
+        "onboard_time": 1697342854,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289187,
+        "num": 289187,
+        "word": "碧昂斯苦练中国国粹变脸",
+        "onboard_time": 1697341594,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272810,
+        "num": 272810,
+        "word": "柯南 而立之年的小兰",
+        "onboard_time": 1697344475,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 259162,
+        "num": 259162,
+        "word": "我爸偷偷背着我考了个N2",
+        "onboard_time": 1697340990,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257530,
+        "num": 257530,
+        "word": "王一博提名金鸡最佳男配角",
+        "onboard_time": 1697334633,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247964,
+        "num": 247964,
+        "word": "爷爷第一次抱孙女前反复擦手",
+        "onboard_time": 1697345615,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243221,
+        "num": 243221,
+        "word": "刘诗诗白衣战损哭戏路透",
+        "onboard_time": 1697343455,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 356040,
+        "num": 241239,
+        "word": "金鸡奖没有新人奖",
+        "onboard_time": 1697345555,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304035,
+        "num": 241229,
+        "word": "以政府发言人称行动目的是铲除哈马斯",
+        "onboard_time": 1697345433,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 238603,
+        "num": 238603,
+        "word": "莲花楼作者评价曾舜晞田耕纪",
+        "onboard_time": 1697343935,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231208,
+        "num": 231208,
+        "word": "废文网回来了",
+        "onboard_time": 1697340391,
+        "rank": 33,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 216401,
+        "num": 216401,
+        "word": "陈奕迅演唱会国语粤语双声道",
+        "onboard_time": 1697342073,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213451,
+        "num": 213451,
+        "word": "卢昱晓终于来奔跑吧啦",
+        "onboard_time": 1697342495,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212325,
+        "num": 212325,
+        "word": "田柾国NewJeans舞蹈挑战",
+        "onboard_time": 1697342433,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 204884,
+        "num": 204884,
+        "word": "艾丽娅 没提名",
+        "onboard_time": 1697346573,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204237,
+        "num": 204237,
+        "word": "为有暗香来三对cp现状",
+        "onboard_time": 1697345914,
+        "rank": 38,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 203775,
+        "num": 203775,
+        "word": "马立奥有记忆后第一次高铁行",
+        "onboard_time": 1697343757,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203689,
+        "num": 203689,
+        "word": "伊拉克上万人街头声援巴勒斯坦",
+        "onboard_time": 1697346155,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 199661,
+        "num": 199661,
+        "word": "为什么酒店没有晾衣服的地方",
+        "onboard_time": 1697346635,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197560,
+        "num": 197560,
+        "word": "张雨绮带来的山东大葱比人高",
+        "onboard_time": 1697344775,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192318,
+        "num": 192318,
+        "word": "金鸡奖提名名单是如何评选产生的",
+        "onboard_time": 1697345433,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188422,
+        "num": 188422,
+        "word": "你以为减肥实际上增肥的食物",
+        "onboard_time": 1697334271,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 188284,
+        "num": 188284,
+        "word": "加沙地带断电前后影像对比",
+        "onboard_time": 1697329230,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 188281,
+        "num": 188281,
+        "word": "于正感谢大家喜欢为有暗香来",
+        "onboard_time": 1697341654,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187856,
+        "num": 187856,
+        "word": "猫 穷和敷衍是两码事",
+        "onboard_time": 1697339489,
+        "rank": 47,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 184812,
+        "num": 184812,
+        "word": "梁朝伟首次提名金鸡奖",
+        "onboard_time": 1697337453,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184356,
+        "num": 184356,
+        "word": "张杰马冬梅行为",
+        "onboard_time": 1697345195,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#把青春华章写在祖国大地上#"
+    }
+  }
+}
