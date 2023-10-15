@@ -1,0 +1,410 @@
+{
+  "runTime": 1697354076946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2020477,
+        "num": 2020477,
+        "word": "李佳 牛",
+        "onboard_time": 1697349331,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1601942,
+        "num": 1601942,
+        "word": "夏奶奶去世",
+        "onboard_time": 1697342254,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100381,
+        "num": 1044895,
+        "word": "中国载人航天史上了不起的首次",
+        "onboard_time": 1697350833,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 973800,
+        "num": 973800,
+        "word": "向佐直播间情绪失控的原因",
+        "onboard_time": 1697340633,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 853490,
+        "num": 853490,
+        "word": "瑞幸回应与迪奥联名",
+        "onboard_time": 1697350053,
+        "rank": 4,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 641937,
+        "num": 641937,
+        "word": "女选手控腹超过1小时",
+        "onboard_time": 1697349572,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 490343,
+        "num": 490343,
+        "word": "K5133次旅客列车运行中脱轨",
+        "onboard_time": 1697339429,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 482849,
+        "num": 482849,
+        "word": "千香引 鞠婧祎宋威龙",
+        "onboard_time": 1697352754,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455015,
+        "num": 455015,
+        "word": "王一博三部电影角色均获奖项认可",
+        "onboard_time": 1697353293,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390214,
+        "num": 390214,
+        "word": "王楚钦机场怒怼跟拍",
+        "onboard_time": 1697348375,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1460952,
+        "num": 386314,
+        "word": "金鸡奖 六亲不认只认作品",
+        "onboard_time": 1697340508,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 716267,
+        "num": 382261,
+        "word": "以色列轰炸后的加沙尸横遍野",
+        "onboard_time": 1697342073,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 454790,
+        "num": 380745,
+        "word": "金鸡奖 掉提名的大热门",
+        "onboard_time": 1697341470,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 410347,
+        "num": 373735,
+        "word": "逃出大英博物馆主创谈创作历程",
+        "onboard_time": 1697351254,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 401726,
+        "num": 370081,
+        "word": "超市里的秘密早知道早好",
+        "onboard_time": 1697349753,
+        "rank": 14,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 401519,
+        "num": 364340,
+        "word": "是姐狗的姐也是姐狗的狗",
+        "onboard_time": 1697341412,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362171,
+        "num": 362171,
+        "word": "周杰伦巡演首场4名黄牛被行政拘留",
+        "onboard_time": 1697349753,
+        "rank": 16,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 349621,
+        "num": 349621,
+        "word": "76岁林子祥和33岁胡夏的友谊",
+        "onboard_time": 1697353534,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 239144,
+        "num": 343162,
+        "word": "伊拉克上万人街头声援巴勒斯坦",
+        "onboard_time": 1697346155,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 219083,
+        "num": 340278,
+        "word": "中国将派特使推动巴以停火止战",
+        "onboard_time": 1697350954,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 705308,
+        "num": 333424,
+        "word": "男生用嘴帮女友吸伤口确诊三级暴露",
+        "onboard_time": 1697340451,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431282,
+        "num": 327819,
+        "word": "5个月婴儿误被捂脸4岁哥哥帮掀被",
+        "onboard_time": 1697351492,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321212,
+        "num": 321212,
+        "word": "罗翔 比穷更可怕的是无人在意",
+        "onboard_time": 1697347834,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 314734,
+        "num": 314734,
+        "word": "沙溢说贾玲你不在王牌哥就不走了",
+        "onboard_time": 1697348494,
+        "rank": 23,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 273123,
+        "num": 273123,
+        "word": "广东26岁女生全身大换血",
+        "onboard_time": 1697351735,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255297,
+        "num": 255297,
+        "word": "赵丽颖水晶吊坠头冠",
+        "onboard_time": 1697347054,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 242033,
+        "num": 242033,
+        "word": "重温一下cha的始祖鸟",
+        "onboard_time": 1697351254,
+        "rank": 26,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 238733,
+        "num": 238733,
+        "word": "科学家建议老婆怀孕老公不能被裁员",
+        "onboard_time": 1697349393,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 222449,
+        "num": 222449,
+        "word": "叶童老师值得",
+        "onboard_time": 1697346456,
+        "rank": 28,
+        "category": "电影,综艺"
+      },
+      {
+        "raw_hot": 217197,
+        "num": 217197,
+        "word": "田曦薇锁喉玲娜贝儿",
+        "onboard_time": 1697350833,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213704,
+        "num": 213704,
+        "word": "现在很少见到黑长直了",
+        "onboard_time": 1697342194,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 198003,
+        "num": 198003,
+        "word": "我爸偷偷背着我考了个N2",
+        "onboard_time": 1697340990,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 194770,
+        "num": 194770,
+        "word": "瑞幸要和dior联名了吗",
+        "onboard_time": 1697340870,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189727,
+        "num": 189727,
+        "word": "法考主观题",
+        "onboard_time": 1697346573,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 184291,
+        "num": 184291,
+        "word": "金鸡奖提名名单",
+        "onboard_time": 1697333489,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184263,
+        "num": 184263,
+        "word": "梅西中国行官宣",
+        "onboard_time": 1697346273,
+        "rank": 35,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 182590,
+        "num": 182590,
+        "word": "巴以冲突已致中国公民4死6伤2失联",
+        "onboard_time": 1697330309,
+        "rank": 36,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 176448,
+        "num": 176448,
+        "word": "2岁娃误吞半瓶抗抑郁药交警疾驰救命",
+        "onboard_time": 1697351910,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170516,
+        "num": 170516,
+        "word": "为什么年轻人不到菜市场买菜了",
+        "onboard_time": 1697342854,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162090,
+        "num": 162090,
+        "word": "黄宗泽快不了一点",
+        "onboard_time": 1697349211,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152100,
+        "num": 152100,
+        "word": "金鸡奖没有新人奖",
+        "onboard_time": 1697345555,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149063,
+        "num": 149063,
+        "word": "杨利伟透露航天员正为登月任务做准备",
+        "onboard_time": 1697352272,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144728,
+        "num": 144728,
+        "word": "卡塔尔资本近70亿美元报价曼联被拒",
+        "onboard_time": 1697341353,
+        "rank": 42,
+        "category": "体育,财经"
+      },
+      {
+        "raw_hot": 143706,
+        "num": 143706,
+        "word": "朝阳打歌中心",
+        "onboard_time": 1697349873,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139897,
+        "num": 139897,
+        "word": "法国全国反恐安全警戒级别提至最高",
+        "onboard_time": 1697351673,
+        "rank": 44,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 137968,
+        "num": 137968,
+        "word": "于正感谢大家喜欢为有暗香来",
+        "onboard_time": 1697341654,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135625,
+        "num": 135625,
+        "word": "惠英红 感谢金鸡看到我这粒尘埃",
+        "onboard_time": 1697342674,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135461,
+        "num": 135461,
+        "word": "法考",
+        "onboard_time": 1697347292,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134149,
+        "num": 134149,
+        "word": "以政府发言人称行动目的是铲除哈马斯",
+        "onboard_time": 1697345433,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 131773,
+        "num": 131773,
+        "word": "乌尔善 金鸡奖最佳导演提名",
+        "onboard_time": 1697337931,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#把青春华章写在祖国大地上#"
+    }
+  }
+}
