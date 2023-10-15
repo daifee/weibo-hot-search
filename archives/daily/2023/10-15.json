@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697343588605,
+  "endTime": 1697344499832,
   "band_list": [
     {
       "raw_hot": 3030731,
@@ -9,6 +9,22 @@
       "onboard_time": 1697330309,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2672555,
+      "num": 2672555,
+      "word": "夏奶奶去世",
+      "onboard_time": 1697342254,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2240559,
+      "num": 501217,
+      "word": "金鸡奖 六亲不认只认作品",
+      "onboard_time": 1697340508,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 2178230,
@@ -25,22 +41,6 @@
       "onboard_time": 1697325682,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 2066723,
-      "num": 501022,
-      "word": "金鸡奖 六亲不认只认作品",
-      "onboard_time": 1697340508,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 2032942,
-      "num": 2032942,
-      "word": "夏奶奶去世",
-      "onboard_time": 1697342254,
-      "rank": 1,
-      "category": "艺人"
     },
     {
       "raw_hot": 1874909,
@@ -67,8 +67,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1163696,
-      "num": 482928,
+      "raw_hot": 1305421,
+      "num": 495666,
       "word": "男生用嘴帮女友吸伤口确诊三级暴露",
       "onboard_time": 1697340451,
       "rank": 30,
@@ -176,6 +176,14 @@
       "word": "以军方回应路透社记者身亡",
       "onboard_time": 1697295757,
       "rank": 4,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 610584,
+      "num": 610584,
+      "word": "以色列轰炸后的加沙尸横遍野",
+      "onboard_time": 1697342073,
+      "rank": 14,
       "category": "国外要闻"
     },
     {
@@ -323,6 +331,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 473101,
+      "num": 473101,
+      "word": "是姐狗的姐也是姐狗的狗",
+      "onboard_time": 1697341412,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 458126,
+      "num": 458126,
+      "word": "阿富汗发生6.4级地震",
+      "onboard_time": 1697343455,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455090,
       "num": 455090,
       "word": "社保缴15年和25年待遇差别",
@@ -347,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440214,
-      "num": 440214,
-      "word": "是姐狗的姐也是姐狗的狗",
-      "onboard_time": 1697341412,
-      "rank": 13,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 436128,
       "num": 277598,
       "word": "朴宝英更新与朴炯植合照",
@@ -371,20 +387,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 418019,
+      "num": 418019,
+      "word": "印度将申办2036年奥运会",
+      "onboard_time": 1697341833,
+      "rank": 15,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 417218,
       "num": 305306,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 408111,
-      "num": 408111,
-      "word": "以色列轰炸后的加沙尸横遍野",
-      "onboard_time": 1697342073,
-      "rank": 14,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 400149,
@@ -419,14 +435,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 386021,
-      "num": 386021,
-      "word": "印度将申办2036年奥运会",
-      "onboard_time": 1697341833,
-      "rank": 15,
-      "category": "体育,社会新闻"
-    },
-    {
       "raw_hot": 383541,
       "num": 383541,
       "word": "碧昂斯苦练中国国粹变脸",
@@ -443,8 +451,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 360624,
-      "num": 295927,
+      "raw_hot": 368045,
+      "num": 311356,
       "word": "现在很少见到黑长直了",
       "onboard_time": 1697342194,
       "rank": 20,
@@ -523,12 +531,28 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 312331,
+      "num": 312331,
+      "word": "田柾国NewJeans舞蹈挑战",
+      "onboard_time": 1697342433,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 308413,
       "num": 308413,
       "word": "天津马拉松最大显眼包",
       "onboard_time": 1697336851,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307343,
+      "num": 307343,
+      "word": "为什么年轻人不到菜市场买菜了",
+      "onboard_time": 1697342854,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 304329,
@@ -571,6 +595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 287734,
+      "num": 287734,
+      "word": "刘诗诗白衣战损哭戏路透",
+      "onboard_time": 1697343455,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286781,
       "num": 286781,
       "word": "沙特冻结美国推动的沙以关系正常化谈判",
@@ -579,12 +611,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 282172,
-      "num": 282172,
-      "word": "田柾国NewJeans舞蹈挑战",
-      "onboard_time": 1697342433,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 284940,
+      "num": 284940,
+      "word": "Hero全员报名马拉松",
+      "onboard_time": 1697342912,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 277108,
@@ -627,6 +659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 255470,
+      "num": 255470,
+      "word": "马立奥有记忆后第一次高铁行",
+      "onboard_time": 1697343757,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 253978,
       "num": 253978,
       "word": "在伦敦公寓煮螺蛳粉被邻居骂了",
@@ -643,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 250911,
+      "num": 250911,
+      "word": "莲花楼作者评价曾舜晞田耕纪",
+      "onboard_time": 1697343935,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249175,
       "num": 249175,
       "word": "于正感谢大家喜欢为有暗香来",
@@ -657,14 +705,6 @@
       "onboard_time": 1697325622,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 235111,
-      "num": 235111,
-      "word": "为什么年轻人不到菜市场买菜了",
-      "onboard_time": 1697342854,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 234503,
@@ -721,14 +761,6 @@
       "onboard_time": 1697343214,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 210845,
-      "num": 210845,
-      "word": "Hero全员报名马拉松",
-      "onboard_time": 1697342912,
-      "rank": 38,
-      "category": "游戏"
     },
     {
       "raw_hot": 209723,
@@ -803,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194502,
+      "num": 194502,
+      "word": "美企1美元卖亏损工厂中企接手盈利",
+      "onboard_time": 1697343874,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192813,
       "num": 192813,
       "word": "田嘉瑞泼林一 一击即中",
@@ -811,28 +851,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192081,
-      "num": 192081,
-      "word": "阿富汗发生6.4级地震",
-      "onboard_time": 1697343455,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189450,
-      "num": 189450,
-      "word": "刘诗诗白衣战损哭戏路透",
-      "onboard_time": 1697343455,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186100,
       "num": 186100,
       "word": "杨紫黑色闪钻镂空裙",
       "onboard_time": 1697291736,
       "rank": 28,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185627,
+      "num": 185627,
+      "word": "埃塞俄比亚选手天马夺冠",
+      "onboard_time": 1697344296,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 182061,
@@ -955,6 +987,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162954,
+      "num": 162954,
+      "word": "柯南 而立之年的小兰",
+      "onboard_time": 1697344475,
+      "rank": 49,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "普京称现阶段最重要的是制止流血事件",
@@ -977,6 +1017,14 @@
       "onboard_time": 1697327065,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156798,
+      "num": 241053,
+      "word": "范丞丞扛住了怼脸镜头",
+      "onboard_time": 1697343874,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 155213,
