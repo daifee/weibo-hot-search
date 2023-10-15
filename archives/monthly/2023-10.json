@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697387755159,
+  "endTime": 1697390090550,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -13800,6 +13800,14 @@
       "word": "王楚钦3比1英田理志",
       "onboard_time": 1696496373,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 434920,
+      "num": 434920,
+      "word": "对体育饭圈化必须亮红牌",
+      "onboard_time": 1697387367,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -40291,14 +40299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 93602,
-      "num": 93602,
-      "word": "对体育饭圈化必须亮红牌",
-      "onboard_time": 1697387367,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 93341,
       "num": 93341,
       "word": "厦门与金鸡奖牵手第五年",
@@ -41737,6 +41737,14 @@
       "onboard_time": 1696531219,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38404,
+      "num": 57740,
+      "word": "TW对战GAM",
+      "onboard_time": 1697389940,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 38060,

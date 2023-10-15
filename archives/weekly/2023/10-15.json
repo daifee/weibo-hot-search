@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697387755159,
+  "endTime": 1697390090550,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -945,6 +945,14 @@
       "onboard_time": 1697295874,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 434920,
+      "num": 434920,
+      "word": "对体育饭圈化必须亮红牌",
+      "onboard_time": 1697387367,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 431282,
@@ -2955,14 +2963,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 93602,
-      "num": 93602,
-      "word": "对体育饭圈化必须亮红牌",
-      "onboard_time": 1697387367,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 91459,
       "num": 46782,
       "word": "熬夜等级表",
@@ -3073,6 +3073,14 @@
       "onboard_time": 1697310675,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38404,
+      "num": 57740,
+      "word": "TW对战GAM",
+      "onboard_time": 1697389940,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 34742,
