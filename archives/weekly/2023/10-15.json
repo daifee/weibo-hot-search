@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697398441129,
+  "endTime": 1697401003096,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -3083,6 +3083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41742,
+      "num": 41742,
+      "word": "为什么今年支原体传染严重",
+      "onboard_time": 1697398394,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 38404,
       "num": 59194,
       "word": "TW对战GAM",
@@ -3155,6 +3163,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 26196,
+      "num": 22091,
+      "word": "英媒驻加沙记者失联前视频",
+      "onboard_time": 1697397734,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25497,
       "num": 181638,
       "word": "看到球场情侣我酸了",
@@ -3179,12 +3195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19713,
-      "num": 22091,
-      "word": "英媒驻加沙记者失联前视频",
-      "onboard_time": 1697397734,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 17452,
+      "num": 18247,
+      "word": "毛晓彤哭戏",
+      "onboard_time": 1697399054,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 14578,
@@ -3193,14 +3209,6 @@
       "onboard_time": 1697397554,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 13799,
-      "num": 18938,
-      "word": "为什么今年支原体传染严重",
-      "onboard_time": 1697398394,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 12196,

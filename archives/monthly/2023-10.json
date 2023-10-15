@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697398441129,
+  "endTime": 1697401003096,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -41715,6 +41715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41742,
+      "num": 41742,
+      "word": "为什么今年支原体传染严重",
+      "onboard_time": 1697398394,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41544,
       "num": 67141,
       "word": "问心东立小分队救人好燃",
@@ -42139,6 +42147,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 26196,
+      "num": 22091,
+      "word": "英媒驻加沙记者失联前视频",
+      "onboard_time": 1697397734,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 25815,
       "num": 754592,
       "word": "老乡鸡免费",
@@ -42331,14 +42347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 19713,
-      "num": 22091,
-      "word": "英媒驻加沙记者失联前视频",
-      "onboard_time": 1697397734,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 19014,
       "num": 52073,
       "word": "kpop组合专辑总销量TOP9",
@@ -42361,6 +42369,14 @@
       "onboard_time": 1696614679,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 17452,
+      "num": 18247,
+      "word": "毛晓彤哭戏",
+      "onboard_time": 1697399054,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 17355,
@@ -42425,14 +42441,6 @@
       "onboard_time": 1696148618,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 13799,
-      "num": 18938,
-      "word": "为什么今年支原体传染严重",
-      "onboard_time": 1697398394,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 13295,
