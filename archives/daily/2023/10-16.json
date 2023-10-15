@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697397180293,
+  "endTime": 1697398441129,
   "band_list": [
     {
       "raw_hot": 1404141,
@@ -457,6 +457,30 @@
       "onboard_time": 1697393896,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 19713,
+      "num": 22091,
+      "word": "英媒驻加沙记者失联前视频",
+      "onboard_time": 1697397734,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14578,
+      "num": 19368,
+      "word": "薛之谦脏辫开花了",
+      "onboard_time": 1697397554,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13799,
+      "num": 18938,
+      "word": "为什么今年支原体传染严重",
+      "onboard_time": 1697398394,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 6081,
