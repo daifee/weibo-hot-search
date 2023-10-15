@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697380447387,
+  "endTime": 1697382959636,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -43,20 +43,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 2224048,
+      "num": 2224048,
+      "word": "在海底捞被人要蛋糕了",
+      "onboard_time": 1697378377,
+      "rank": 4,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 2178230,
       "num": 2178230,
       "word": "瑞幸要和dior联名了吗",
       "onboard_time": 1697340870,
       "rank": 0,
       "category": "美食"
-    },
-    {
-      "raw_hot": 2174232,
-      "num": 2174232,
-      "word": "在海底捞被人要蛋糕了",
-      "onboard_time": 1697378377,
-      "rank": 4,
-      "category": "幽默"
     },
     {
       "raw_hot": 2130164,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1812637,
-      "num": 517035,
+      "num": 609851,
       "word": "33岁男子自捆双脚跳桥身亡",
       "onboard_time": 1697370517,
       "rank": 10,
@@ -155,8 +155,16 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1421334,
+      "num": 1421334,
+      "word": "我才知道悬溺是喜欢你读快了",
+      "onboard_time": 1697380063,
+      "rank": 24,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 1405753,
-      "num": 523805,
+      "num": 602934,
       "word": "全华班被献祭",
       "onboard_time": 1697377178,
       "rank": 10,
@@ -177,6 +185,14 @@
       "onboard_time": 1697363555,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1361645,
+      "num": 1361645,
+      "word": "15号赢麻了 倒带赢麻了",
+      "onboard_time": 1697380118,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 1326760,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 697532,
+      "num": 697532,
+      "word": "米村拌饭",
+      "onboard_time": 1697380959,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 697339,
       "num": 697339,
       "word": "王楚钦机场怒怼跟拍",
@@ -401,6 +425,14 @@
       "onboard_time": 1697377477,
       "rank": 5,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 692025,
+      "num": 692025,
+      "word": "赵露思有你在首唱",
+      "onboard_time": 1697381077,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 686649,
@@ -635,6 +667,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 544099,
+      "num": 544099,
+      "word": "官方回应家长质疑拼音o读成喔",
+      "onboard_time": 1697381017,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 541996,
       "num": 541996,
       "word": "加沙空袭幸存婴儿在记者安抚下笑了",
@@ -729,6 +769,14 @@
       "onboard_time": 1697376935,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 500076,
+      "num": 236671,
+      "word": "公办教师调入镇政府30年退休发现没编制",
+      "onboard_time": 1697382038,
+      "rank": 30,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 497858,
@@ -963,6 +1011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 391329,
+      "num": 391329,
+      "word": "比吐槽大会生猛",
+      "onboard_time": 1697381199,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 389924,
       "num": 389924,
       "word": "赵丽颖品牌晚宴视频",
@@ -1025,6 +1081,14 @@
       "onboard_time": 1697342194,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365672,
+      "num": 365672,
+      "word": "十个勤天",
+      "onboard_time": 1697381617,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 365137,
@@ -1171,6 +1235,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 317358,
+      "num": 317358,
+      "word": "刘亦菲的洞洞鞋",
+      "onboard_time": 1697382219,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 313295,
       "num": 313295,
       "word": "为什么年轻人不到菜市场买菜了",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1697350833,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 306140,
-      "num": 306140,
-      "word": "15号赢麻了 倒带赢麻了",
-      "onboard_time": 1697380118,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 304329,
@@ -1305,14 +1369,6 @@
       "onboard_time": 1697343455,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 287660,
-      "num": 287660,
-      "word": "我才知道悬溺是喜欢你读快了",
-      "onboard_time": 1697380063,
-      "rank": 24,
-      "category": "音乐"
     },
     {
       "raw_hot": 286781,
@@ -1739,6 +1795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202623,
+      "num": 202623,
+      "word": "男子上交父亲遗留家中的158枚子弹",
+      "onboard_time": 1697381318,
+      "rank": 33,
+      "category": "社会新闻,军事"
+    },
+    {
       "raw_hot": 202427,
       "num": 202427,
       "word": "看田耕纪的一些玄学",
@@ -2035,12 +2099,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 179085,
+      "num": 179085,
+      "word": "王者荣耀",
+      "onboard_time": 1697380719,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178860,
       "num": 178860,
       "word": "黄宗泽快不了一点",
       "onboard_time": 1697349211,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178682,
+      "num": 205584,
+      "word": "为什么广东人煲汤这么好喝",
+      "onboard_time": 1697379819,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 178440,
@@ -2275,14 +2355,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 157852,
-      "num": 205584,
-      "word": "为什么广东人煲汤这么好喝",
-      "onboard_time": 1697379819,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
       "raw_hot": 156876,
       "num": 156876,
       "word": "苏醒演唱会偶遇吴莫愁",
@@ -2313,6 +2385,14 @@
       "onboard_time": 1697370814,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155265,
+      "num": 155265,
+      "word": "白桃星座",
+      "onboard_time": 1697382576,
+      "rank": 41,
+      "category": "休闲"
     },
     {
       "raw_hot": 155223,
@@ -2361,6 +2441,14 @@
       "onboard_time": 1697368354,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150463,
+      "num": 150463,
+      "word": "西湖鸳鸯换羽毛了",
+      "onboard_time": 1697382760,
+      "rank": 42,
+      "category": "旅游,社会新闻"
     },
     {
       "raw_hot": 150332,
@@ -2433,6 +2521,14 @@
       "onboard_time": 1697335353,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144909,
+      "num": 144909,
+      "word": "导演回应影展观众当着主创喊退钱",
+      "onboard_time": 1697382337,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 144482,
@@ -2545,6 +2641,14 @@
       "onboard_time": 1697356834,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 129876,
+      "num": 129876,
+      "word": "消防员送迷路仨月的马鹿回家啦",
+      "onboard_time": 1697382397,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128811,
@@ -2844,7 +2948,7 @@
     },
     {
       "raw_hot": 54215,
-      "num": 1490805,
+      "num": 1612290,
       "word": "中国载人航天事业正阔步前进",
       "onboard_time": 1697375076,
       "rank": 2,
