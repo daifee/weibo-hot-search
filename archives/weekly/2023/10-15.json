@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697441660914,
+  "endTime": 1697444589845,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -9,6 +9,14 @@
       "onboard_time": 1697366314,
       "rank": 10,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3396639,
+      "num": 3396639,
+      "word": "两大型犬撕咬2岁半女童致严重受伤",
+      "onboard_time": 1697440172,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3030731,
@@ -275,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1333357,
-      "num": 1333357,
-      "word": "两大型犬撕咬2岁半女童致严重受伤",
-      "onboard_time": 1697440172,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1326760,
       "num": 1326760,
       "word": "前台实名制",
@@ -305,6 +305,14 @@
       "onboard_time": 1697340451,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1302314,
+      "num": 325042,
+      "word": "钟楚曦曾在七夕被分手",
+      "onboard_time": 1697442812,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 1301411,
@@ -353,6 +361,14 @@
       "onboard_time": 1697356233,
       "rank": 11,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1151859,
+      "num": 1151859,
+      "word": "尊重式分手",
+      "onboard_time": 1697442273,
+      "rank": 1,
+      "category": "情感"
     },
     {
       "raw_hot": 1145020,
@@ -707,6 +723,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 680875,
+      "num": 372283,
+      "word": "直接问到沈月本人了",
+      "onboard_time": 1697441735,
+      "rank": 10,
+      "category": "艺人,幽默"
+    },
+    {
       "raw_hot": 677476,
       "num": 677476,
       "word": "叶童老师值得",
@@ -817,6 +841,14 @@
       "onboard_time": 1697424573,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 610526,
+      "num": 371817,
+      "word": "双胞胎先出来的那个不一定是老大",
+      "onboard_time": 1697442334,
+      "rank": 12,
+      "category": "知识科普"
     },
     {
       "raw_hot": 607584,
@@ -937,6 +969,14 @@
       "onboard_time": 1697380118,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 565377,
+      "num": 565377,
+      "word": "狗神",
+      "onboard_time": 1697443051,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 564452,
@@ -1220,7 +1260,7 @@
     },
     {
       "raw_hot": 490919,
-      "num": 407517,
+      "num": 438149,
       "word": "懒羊羊在周杰伦演唱会唱了一整晚",
       "onboard_time": 1697440291,
       "rank": 36,
@@ -1659,6 +1699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 370570,
+      "num": 370570,
+      "word": "俄对日本进口鱼类等水产品实施限制",
+      "onboard_time": 1697440353,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 369815,
       "num": 266434,
       "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
@@ -1843,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 330479,
+      "num": 330479,
+      "word": "派出所回应一幼儿小区内遭未拴绳大狗撕咬",
+      "onboard_time": 1697443232,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 328772,
       "num": 328772,
       "word": "国考报考人数最多的岗位",
@@ -1891,11 +1947,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326276,
+      "num": 326276,
+      "word": "杨玏回应小时候一天吃十袋奶",
+      "onboard_time": 1697443655,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321560,
       "num": 321560,
       "word": "为什么领导的头像都是风景照",
       "onboard_time": 1697410702,
       "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 319967,
+      "num": 319967,
+      "word": "这才是面试官爱听的离职原因",
+      "onboard_time": 1697441012,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -2115,14 +2187,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 285395,
-      "num": 285395,
-      "word": "俄对日本进口鱼类等水产品实施限制",
-      "onboard_time": 1697440353,
-      "rank": 33,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 284982,
       "num": 312035,
       "word": "进化的刚刚好又聪明又不用上班",
@@ -2225,6 +2289,14 @@
       "onboard_time": 1697344475,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 272747,
+      "num": 272747,
+      "word": "迪丽热巴鎏金长裙梦回乔晶晶",
+      "onboard_time": 1697442214,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 269752,
@@ -2499,6 +2571,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 242122,
+      "num": 222408,
+      "word": "外交部建议在以中国公民尽快回国",
+      "onboard_time": 1697444131,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 242033,
       "num": 242033,
       "word": "重温一下cha的始祖鸟",
@@ -2579,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 233902,
+      "num": 220735,
+      "word": "2349名缅北电信诈骗嫌犯移交我方",
+      "onboard_time": 1697443532,
+      "rank": 31,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 233233,
       "num": 233233,
       "word": "卢昱晓的脸遇上胶片",
@@ -2609,6 +2697,14 @@
       "onboard_time": 1697277573,
       "rank": 23,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 230325,
+      "num": 230325,
+      "word": "她只是个NPC可她的设定就是爱你",
+      "onboard_time": 1697440891,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 228268,
@@ -2657,14 +2753,6 @@
       "onboard_time": 1697360674,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 222983,
-      "num": 222983,
-      "word": "她只是个NPC可她的设定就是爱你",
-      "onboard_time": 1697440891,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 222810,
@@ -2939,14 +3027,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 200790,
-      "num": 200790,
-      "word": "这才是面试官爱听的离职原因",
-      "onboard_time": 1697441012,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 200656,
       "num": 200656,
       "word": "Adam上单盖伦",
@@ -3187,6 +3267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191809,
+      "num": 191809,
+      "word": "家长给女儿缝制999朵纸玫瑰裙走秀",
+      "onboard_time": 1697442574,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191663,
       "num": 191663,
       "word": "卢芳芳帮左双桃试婚纱",
@@ -3209,6 +3297,14 @@
       "onboard_time": 1697372256,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 188357,
+      "num": 188357,
+      "word": "赵本山 厨子与掌门",
+      "onboard_time": 1697441613,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 188344,
@@ -3481,6 +3577,14 @@
       "onboard_time": 1697370696,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172247,
+      "num": 172247,
+      "word": "长期处于消极思维更易患老年痴呆",
+      "onboard_time": 1697444074,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171735,
@@ -3963,6 +4067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134620,
+      "num": 134620,
+      "word": "TES对战BOA",
+      "onboard_time": 1697443892,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134420,
       "num": 134420,
       "word": "男子误喝防冻液血液成胶冻状离世",
@@ -4019,14 +4131,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128795,
-      "num": 128795,
-      "word": "赵本山 厨子与掌门",
-      "onboard_time": 1697441613,
-      "rank": 45,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 128107,
       "num": 128107,
       "word": "女儿让张杰唱逆战",
@@ -4065,6 +4169,14 @@
       "onboard_time": 1697356233,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124035,
+      "num": 124035,
+      "word": "以方否认停火允许援助进入加沙报道",
+      "onboard_time": 1697444553,
+      "rank": 49,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 123053,
@@ -4387,6 +4499,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 58806,
+      "num": 1030967,
+      "word": "牡丹与玫瑰的丝路流芳",
+      "onboard_time": 1697443173,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 58282,
       "num": 266480,
       "word": "原来马拉松可以这样跑",
@@ -4561,6 +4681,14 @@
       "onboard_time": 1697309895,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20926,
+      "num": 371193,
+      "word": "环太原公路自行车赛",
+      "onboard_time": 1697443232,
+      "rank": 14,
+      "category": "运动健身"
     },
     {
       "raw_hot": 20158,

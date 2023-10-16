@@ -1,0 +1,410 @@
+{
+  "runTime": 1697444589845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3396639,
+        "num": 3396639,
+        "word": "两大型犬撕咬2岁半女童致严重受伤",
+        "onboard_time": 1697440172,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1151859,
+        "num": 1151859,
+        "word": "尊重式分手",
+        "onboard_time": 1697442273,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 58806,
+        "num": 1030967,
+        "word": "牡丹与玫瑰的丝路流芳",
+        "onboard_time": 1697443173,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1025374,
+        "num": 1025374,
+        "word": "华为 谢霆锋",
+        "onboard_time": 1697433755,
+        "rank": 3,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 646330,
+        "num": 646330,
+        "word": "迪丽热巴秦岚周也美女贴贴",
+        "onboard_time": 1697439811,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 565377,
+        "num": 565377,
+        "word": "狗神",
+        "onboard_time": 1697443051,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 455803,
+        "num": 455803,
+        "word": "谷村新司去世",
+        "onboard_time": 1697437956,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438149,
+        "num": 438149,
+        "word": "懒羊羊在周杰伦演唱会唱了一整晚",
+        "onboard_time": 1697440291,
+        "rank": 7,
+        "category": "演出,幽默"
+      },
+      {
+        "raw_hot": 412790,
+        "num": 412790,
+        "word": "雷军 别着急这次产品很很很强",
+        "onboard_time": 1697437052,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 372402,
+        "num": 372402,
+        "word": "以军和哈马斯加沙南部临时停火5小时",
+        "onboard_time": 1697437831,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 680875,
+        "num": 372283,
+        "word": "直接问到沈月本人了",
+        "onboard_time": 1697441735,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 660496,
+        "num": 371901,
+        "word": "陈都灵这套可以代所有小说",
+        "onboard_time": 1697427334,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 610526,
+        "num": 371817,
+        "word": "双胞胎先出来的那个不一定是老大",
+        "onboard_time": 1697442334,
+        "rank": 12,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 605156,
+        "num": 371455,
+        "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+        "onboard_time": 1697423190,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20926,
+        "num": 371193,
+        "word": "环太原公路自行车赛",
+        "onboard_time": 1697443232,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 507859,
+        "num": 370843,
+        "word": "香港顶流姜涛跑步健身",
+        "onboard_time": 1697433874,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 373022,
+        "num": 370604,
+        "word": "吴雅婷问王栎鑫你嗓子还好吗",
+        "onboard_time": 1697424632,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 370570,
+        "num": 370570,
+        "word": "俄对日本进口鱼类等水产品实施限制",
+        "onboard_time": 1697440353,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 330479,
+        "num": 330479,
+        "word": "派出所回应一幼儿小区内遭未拴绳大狗撕咬",
+        "onboard_time": 1697443232,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326276,
+        "num": 326276,
+        "word": "杨玏回应小时候一天吃十袋奶",
+        "onboard_time": 1697443655,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1302314,
+        "num": 325042,
+        "word": "钟楚曦曾在七夕被分手",
+        "onboard_time": 1697442812,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 541271,
+        "num": 322867,
+        "word": "爸妈一次性给了四年的生活费",
+        "onboard_time": 1697420317,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320537,
+        "num": 320537,
+        "word": "肖战许凯孙阳时尚表现力",
+        "onboard_time": 1697441494,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 319967,
+        "num": 319967,
+        "word": "这才是面试官爱听的离职原因",
+        "onboard_time": 1697441012,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298972,
+        "num": 298972,
+        "word": "清华博士后当交警15年勘查无错漏",
+        "onboard_time": 1697427936,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292887,
+        "num": 292887,
+        "word": "杰瑞有那么多套床",
+        "onboard_time": 1697439391,
+        "rank": 25,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 272747,
+        "num": 272747,
+        "word": "迪丽热巴鎏金长裙梦回乔晶晶",
+        "onboard_time": 1697442214,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 246822,
+        "num": 246822,
+        "word": "徐娇 能不能别吹我了我害怕",
+        "onboard_time": 1697420492,
+        "rank": 27,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 230325,
+        "num": 230325,
+        "word": "她只是个NPC可她的设定就是爱你",
+        "onboard_time": 1697440891,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222614,
+        "num": 222614,
+        "word": "体育总局副局长点名足协塌方式腐败",
+        "onboard_time": 1697437351,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242122,
+        "num": 222408,
+        "word": "外交部建议在以中国公民尽快回国",
+        "onboard_time": 1697444131,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 233902,
+        "num": 220735,
+        "word": "2349名缅北电信诈骗嫌犯移交我方",
+        "onboard_time": 1697443532,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 217418,
+        "num": 217418,
+        "word": "男子去世后妻子发现其微信有暧昧对象",
+        "onboard_time": 1697427273,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213111,
+        "num": 213111,
+        "word": "蒲熠星刘奕君聊到电竞停不下来",
+        "onboard_time": 1697439034,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212176,
+        "num": 212176,
+        "word": "不经意却很不卫生的行为",
+        "onboard_time": 1697418872,
+        "rank": 34,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 191809,
+        "num": 191809,
+        "word": "家长给女儿缝制999朵纸玫瑰裙走秀",
+        "onboard_time": 1697442574,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189721,
+        "num": 189721,
+        "word": "深圳一大楼贴膜防止鸟撞",
+        "onboard_time": 1697440533,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188357,
+        "num": 188357,
+        "word": "赵本山 厨子与掌门",
+        "onboard_time": 1697441613,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183774,
+        "num": 183774,
+        "word": "腾讯认证三部爆款剧集",
+        "onboard_time": 1697421092,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172247,
+        "num": 172247,
+        "word": "长期处于消极思维更易患老年痴呆",
+        "onboard_time": 1697444074,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163596,
+        "num": 163596,
+        "word": "陈都灵到底在跟谁聊天",
+        "onboard_time": 1697439331,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159223,
+        "num": 159223,
+        "word": "妈妈想陪女儿上大学当上食堂阿姨",
+        "onboard_time": 1697439871,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149762,
+        "num": 149762,
+        "word": "双相患者被12岁男孩治愈相约捡废品",
+        "onboard_time": 1697439094,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147020,
+        "num": 147020,
+        "word": "国考报考人数最多的岗位",
+        "onboard_time": 1697427519,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146265,
+        "num": 146265,
+        "word": "小米14",
+        "onboard_time": 1697424573,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140349,
+        "num": 140349,
+        "word": "110和119为救老人变泥人",
+        "onboard_time": 1697440834,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137311,
+        "num": 137311,
+        "word": "田曦薇第六集了很难再忍下去",
+        "onboard_time": 1697435372,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134620,
+        "num": 134620,
+        "word": "TES对战BOA",
+        "onboard_time": 1697443892,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133704,
+        "num": 133704,
+        "word": "王者周年庆返场皮肤",
+        "onboard_time": 1697436213,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124035,
+        "num": 124035,
+        "word": "以方否认停火允许援助进入加沙报道",
+        "onboard_time": 1697444553,
+        "rank": 49,
+        "category": "国外要闻,军事"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路走合作共赢之路带来发展和繁荣#"
+    }
+  }
+}
