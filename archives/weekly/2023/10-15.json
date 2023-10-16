@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697470471814,
+  "endTime": 1697473417332,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -296,6 +296,14 @@
       "word": "街道办已动员数百人寻找肇事烈犬",
       "onboard_time": 1697452773,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1611627,
+      "num": 386280,
+      "word": "拉布拉多未咬人已被主人领回",
+      "onboard_time": 1697469217,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -859,14 +867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 715093,
-      "num": 386280,
-      "word": "拉布拉多未咬人已被主人领回",
-      "onboard_time": 1697469217,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 698706,
       "num": 698706,
       "word": "肖战GUCCI大片",
@@ -1121,6 +1121,14 @@
       "onboard_time": 1697354258,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 581668,
+      "num": 581668,
+      "word": "为有暗香来 男主是谁",
+      "onboard_time": 1697469637,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 575910,
@@ -2155,20 +2163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 365662,
-      "num": 365662,
-      "word": "为有暗香来 男主是谁",
-      "onboard_time": 1697469637,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 365137,
       "num": 365137,
       "word": "中国将派特使推动巴以停火止战",
       "onboard_time": 1697350954,
       "rank": 32,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 364558,
+      "num": 277617,
+      "word": "成都禁养犬名单",
+      "onboard_time": 1697469037,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 361839,
@@ -2387,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 334122,
+      "num": 225703,
+      "word": "22岁弟弟申请拥有独立卫生间",
+      "onboard_time": 1697469517,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 333587,
       "num": 333587,
       "word": "五月天 现场",
@@ -2481,14 +2497,6 @@
       "onboard_time": 1697435372,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 322344,
-      "num": 225703,
-      "word": "22岁弟弟申请拥有独立卫生间",
-      "onboard_time": 1697469517,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 321560,
@@ -3219,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246305,
+      "num": 246305,
+      "word": "老罗和SEVENTEEN已经熟成这样了吗",
+      "onboard_time": 1697470652,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246281,
       "num": 246281,
       "word": "这不是跑马是来进货的吧",
@@ -3257,14 +3273,6 @@
       "onboard_time": 1697415336,
       "rank": 30,
       "category": "幽默,音乐"
-    },
-    {
-      "raw_hot": 240297,
-      "num": 277617,
-      "word": "成都禁养犬名单",
-      "onboard_time": 1697469037,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 238649,
@@ -5339,6 +5347,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124743,
+      "num": 124743,
+      "word": "守护甜心 抽赏",
+      "onboard_time": 1697472689,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 124627,
       "num": 124627,
       "word": "金鸡奖",
@@ -5515,6 +5531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107144,
+      "num": 107144,
+      "word": "林俊杰jj20世界巡回演唱会",
+      "onboard_time": 1697470474,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 107073,
       "num": 226369,
       "word": "女生不能对健康有侥幸心理",
@@ -5616,6 +5640,14 @@
       "word": "婚礼仪式暂停竟是为了反诈宣传",
       "onboard_time": 1697295336,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 84469,
+      "num": 84469,
+      "word": "当自拍发现陌生男女都出镜时",
+      "onboard_time": 1697472450,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
