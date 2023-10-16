@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697476551042,
+  "endTime": 1697477651661,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -1819,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428256,
+      "num": 428256,
+      "word": "人民网评2岁女童被恶犬咬伤",
+      "onboard_time": 1697472510,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 428223,
       "num": 428223,
       "word": "塞尔维亚总统武契奇抵华",
@@ -2176,14 +2184,6 @@
       "word": "成都禁养犬名单",
       "onboard_time": 1697469037,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 362330,
-      "num": 362330,
-      "word": "人民网评2岁女童被恶犬咬伤",
-      "onboard_time": 1697472510,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5331,6 +5331,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 128860,
+      "num": 128860,
+      "word": "虎鹤妖师录结局全是反转",
+      "onboard_time": 1697476939,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128811,
       "num": 128811,
       "word": "TXT ACOUSTIC MEDLEY",
@@ -5795,6 +5803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46304,
+      "num": 53345,
+      "word": "玛雅遗址里月神也抱着一只兔子",
+      "onboard_time": 1697477179,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 43831,
       "num": 43831,
       "word": "周杰伦上海",
@@ -5817,6 +5833,14 @@
       "onboard_time": 1697310675,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38961,
+      "num": 53256,
+      "word": "明日方舟 做法",
+      "onboard_time": 1697477598,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 38404,
