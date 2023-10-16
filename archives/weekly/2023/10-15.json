@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697498231200,
+  "endTime": 1697499245730,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -555,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014363,
+      "num": 1014363,
+      "word": "人民网评2岁女童被恶犬咬伤",
+      "onboard_time": 1697472510,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 995352,
       "num": 393651,
       "word": "白敬亭工作室发了好多物料",
@@ -673,14 +681,6 @@
       "onboard_time": 1697420317,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 873790,
-      "num": 873790,
-      "word": "人民网评2岁女童被恶犬咬伤",
-      "onboard_time": 1697472510,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 860760,
@@ -1507,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491648,
+      "num": 491648,
+      "word": "强烈的自卑会使人变得非常无礼",
+      "onboard_time": 1697480416,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 491601,
       "num": 304575,
       "word": "男子穿离婚快乐T恤大闹婚礼现场",
@@ -1579,14 +1587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 477323,
-      "num": 477323,
-      "word": "强烈的自卑会使人变得非常无礼",
-      "onboard_time": 1697480416,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 476008,
       "num": 476008,
       "word": "博主100元吃遍东北早市被指造假",
@@ -1609,6 +1609,14 @@
       "onboard_time": 1697418516,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466114,
+      "num": 466114,
+      "word": "我国超3亿人遭受慢性疼痛",
+      "onboard_time": 1697497824,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 465505,
@@ -1937,6 +1945,14 @@
       "onboard_time": 1697430097,
       "rank": 34,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 404949,
+      "num": 196293,
+      "word": "成都禁养22种烈性犬不包括罗威纳",
+      "onboard_time": 1697497644,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 404647,
@@ -3403,6 +3419,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 231905,
+      "num": 116767,
+      "word": "比利时vs瑞典比赛因恐怖袭击中断",
+      "onboard_time": 1697497824,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231471,
       "num": 231471,
       "word": "林俊杰咸阳",
@@ -3433,6 +3457,14 @@
       "onboard_time": 1697440891,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229096,
+      "num": 214488,
+      "word": "手滑帮导师上午门诊放了60个号",
+      "onboard_time": 1697466218,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 228268,
@@ -3553,14 +3585,6 @@
       "onboard_time": 1697461355,
       "rank": 26,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 214488,
-      "num": 214488,
-      "word": "手滑帮导师上午门诊放了60个号",
-      "onboard_time": 1697466218,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 213659,
@@ -3737,14 +3761,6 @@
       "onboard_time": 1697356414,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205337,
-      "num": 180592,
-      "word": "成都禁养22种烈性犬不包括罗威纳",
-      "onboard_time": 1697497644,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204627,
@@ -4827,12 +4843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163926,
-      "num": 163926,
-      "word": "我国超3亿人遭受慢性疼痛",
-      "onboard_time": 1697497824,
-      "rank": 17,
-      "category": "健康医疗"
+      "raw_hot": 163116,
+      "num": 163116,
+      "word": "一带一路十周年",
+      "onboard_time": 1697498062,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 162970,
@@ -4892,7 +4908,7 @@
     },
     {
       "raw_hot": 159005,
-      "num": 93116,
+      "num": 109307,
       "word": "加错微信遇到对的人",
       "onboard_time": 1697474604,
       "rank": 22,
@@ -5395,6 +5411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 126652,
+      "num": 126652,
+      "word": "4年前周杰伦和孙燕姿的合唱",
+      "onboard_time": 1697477717,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 125014,
       "num": 125014,
       "word": "高校回收毕业生万件旧物免费送学生",
@@ -5425,14 +5449,6 @@
       "onboard_time": 1697270250,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 122827,
-      "num": 92345,
-      "word": "比利时vs瑞典比赛因恐怖袭击中断",
-      "onboard_time": 1697497824,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 122766,
@@ -5513,14 +5529,6 @@
       "onboard_time": 1697331691,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 116097,
-      "num": 116097,
-      "word": "4年前周杰伦和孙燕姿的合唱",
-      "onboard_time": 1697477717,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 116056,
@@ -5619,6 +5627,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106913,
+      "num": 106913,
+      "word": "金毛吃光37包鸭翅躲起来偷瞄主人",
+      "onboard_time": 1697480117,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 106270,
+      "num": 106270,
+      "word": "鼻子里面为什么会长这种痘",
+      "onboard_time": 1697499148,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105349,
       "num": 92013,
       "word": "中国军舰在中业岛附近海域巡逻合理合法",
@@ -5683,12 +5707,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99215,
+      "num": 99215,
+      "word": "玛雅遗址里月神也抱着一只兔子",
+      "onboard_time": 1697477179,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97053,
+      "num": 97053,
+      "word": "野生大熊猫遇到话痨大叔",
+      "onboard_time": 1697492056,
+      "rank": 32,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 96109,
       "num": 96109,
       "word": "教大家怎么白菜价吃日料",
       "onboard_time": 1697294018,
       "rank": 48,
       "category": "美食"
+    },
+    {
+      "raw_hot": 92883,
+      "num": 92883,
+      "word": "空调师傅空降救下窗外被困男孩",
+      "onboard_time": 1697498124,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 91459,
@@ -5715,14 +5763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86937,
-      "num": 86937,
-      "word": "金毛吃光37包鸭翅躲起来偷瞄主人",
-      "onboard_time": 1697480117,
-      "rank": 46,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 86097,
       "num": 86097,
       "word": "比利时vs瑞典",
@@ -5739,16 +5779,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 85539,
-      "num": 85539,
-      "word": "野生大熊猫遇到话痨大叔",
-      "onboard_time": 1697492056,
-      "rank": 32,
-      "category": "动物萌宠"
+      "raw_hot": 82088,
+      "num": 82088,
+      "word": "女子欲跳桥被遛狗大哥紧紧抱住",
+      "onboard_time": 1697498366,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
-      "raw_hot": 78495,
-      "num": 78495,
+      "raw_hot": 81462,
+      "num": 81462,
       "word": "我救不了千万个它 但下个路口有千万个我",
       "onboard_time": 1697479037,
       "rank": 38,
@@ -5771,28 +5811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74933,
-      "num": 74933,
-      "word": "玛雅遗址里月神也抱着一只兔子",
-      "onboard_time": 1697477179,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 73933,
       "num": 73933,
       "word": "SuperCup超大杯",
       "onboard_time": 1697402954,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68588,
-      "num": 68588,
-      "word": "空调师傅空降救下窗外被困男孩",
-      "onboard_time": 1697498124,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 68375,
@@ -5825,14 +5849,6 @@
       "onboard_time": 1697322315,
       "rank": 41,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 62499,
-      "num": 62499,
-      "word": "一带一路十周年",
-      "onboard_time": 1697498062,
-      "rank": 49,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 61414,
@@ -5931,6 +5947,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41704,
+      "num": 569360,
+      "word": "沿着一带一路去旅行",
+      "onboard_time": 1697464056,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38961,
       "num": 53256,
       "word": "明日方舟 做法",
@@ -5959,14 +5983,6 @@
       "num": 1339177,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1697174497,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33629,
-      "num": 492903,
-      "word": "沿着一带一路去旅行",
-      "onboard_time": 1697464056,
       "rank": 2,
       "category": "社会新闻"
     },

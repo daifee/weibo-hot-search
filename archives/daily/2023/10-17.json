@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697498231200,
+  "endTime": 1697499245730,
   "band_list": [
     {
       "raw_hot": 1611627,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1014363,
+      "num": 1014363,
+      "word": "人民网评2岁女童被恶犬咬伤",
+      "onboard_time": 1697472510,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 891819,
       "num": 891819,
       "word": "为什么粉色要贵这么多",
@@ -27,15 +35,7 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 873790,
-      "num": 873790,
-      "word": "人民网评2岁女童被恶犬咬伤",
-      "onboard_time": 1697472510,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 687456,
+      "raw_hot": 851411,
       "num": 256296,
       "word": "赵本山给徒弟补近亿税额",
       "onboard_time": 1697463394,
@@ -75,12 +75,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 477323,
-      "num": 477323,
+      "raw_hot": 491648,
+      "num": 491648,
       "word": "强烈的自卑会使人变得非常无礼",
       "onboard_time": 1697480416,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 466114,
+      "num": 466114,
+      "word": "我国超3亿人遭受慢性疼痛",
+      "onboard_time": 1697497824,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 460593,
@@ -105,6 +113,14 @@
       "onboard_time": 1697453435,
       "rank": 20,
       "category": "时尚,网红"
+    },
+    {
+      "raw_hot": 404949,
+      "num": 196293,
+      "word": "成都禁养22种烈性犬不包括罗威纳",
+      "onboard_time": 1697497644,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366942,
@@ -195,20 +211,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 231905,
+      "num": 116767,
+      "word": "比利时vs瑞典比赛因恐怖袭击中断",
+      "onboard_time": 1697497824,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229096,
+      "num": 181419,
+      "word": "手滑帮导师上午门诊放了60个号",
+      "onboard_time": 1697466218,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 210813,
       "num": 210813,
       "word": "毕业五年了辅导员突然叫我干活",
       "onboard_time": 1697459854,
       "rank": 24,
       "category": "教育"
-    },
-    {
-      "raw_hot": 205337,
-      "num": 180592,
-      "word": "成都禁养22种烈性犬不包括罗威纳",
-      "onboard_time": 1697497644,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199767,
@@ -243,16 +267,16 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 181090,
-      "num": 181090,
+      "raw_hot": 184120,
+      "num": 184120,
       "word": "脾胃虚吃这八种食物",
       "onboard_time": 1697464777,
       "rank": 44,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 180585,
-      "num": 180585,
+      "raw_hot": 181586,
+      "num": 181586,
       "word": "小伙租123平房子花4万改造成理想的家",
       "onboard_time": 1697460333,
       "rank": 41,
@@ -283,24 +307,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 167827,
-      "num": 142396,
-      "word": "手滑帮导师上午门诊放了60个号",
-      "onboard_time": 1697466218,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 163926,
-      "num": 163926,
-      "word": "我国超3亿人遭受慢性疼痛",
-      "onboard_time": 1697497824,
-      "rank": 17,
-      "category": "健康医疗"
+      "raw_hot": 163116,
+      "num": 163116,
+      "word": "一带一路十周年",
+      "onboard_time": 1697498062,
+      "rank": 49,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 159005,
-      "num": 93116,
+      "num": 109307,
       "word": "加错微信遇到对的人",
       "onboard_time": 1697474604,
       "rank": 22,
@@ -339,20 +355,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126652,
+      "num": 126652,
+      "word": "4年前周杰伦和孙燕姿的合唱",
+      "onboard_time": 1697477717,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123390,
       "num": 123390,
       "word": "当自拍发现陌生男女都出镜时",
       "onboard_time": 1697472450,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 122827,
-      "num": 92345,
-      "word": "比利时vs瑞典比赛因恐怖袭击中断",
-      "onboard_time": 1697497824,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 122807,
@@ -387,14 +403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 116097,
-      "num": 116097,
-      "word": "4年前周杰伦和孙燕姿的合唱",
-      "onboard_time": 1697477717,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 111678,
       "num": 111678,
       "word": "两大型犬撕咬2岁半女童致严重受伤",
@@ -409,6 +417,22 @@
       "onboard_time": 1697470474,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106913,
+      "num": 106913,
+      "word": "金毛吃光37包鸭翅躲起来偷瞄主人",
+      "onboard_time": 1697480117,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 106270,
+      "num": 106270,
+      "word": "鼻子里面为什么会长这种痘",
+      "onboard_time": 1697499148,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105349,
@@ -427,6 +451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99215,
+      "num": 99215,
+      "word": "玛雅遗址里月神也抱着一只兔子",
+      "onboard_time": 1697477179,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 97053,
+      "num": 97053,
+      "word": "野生大熊猫遇到话痨大叔",
+      "onboard_time": 1697492056,
+      "rank": 32,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 94295,
       "num": 170375,
       "word": "明天秋裤备好",
@@ -443,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 92883,
+      "num": 92883,
+      "word": "空调师傅空降救下窗外被困男孩",
+      "onboard_time": 1697498124,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 89795,
       "num": 89795,
       "word": "刘诗诗谢娜同框看秀",
@@ -451,16 +499,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 86937,
-      "num": 86937,
-      "word": "金毛吃光37包鸭翅躲起来偷瞄主人",
-      "onboard_time": 1697480117,
-      "rank": 46,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 86685,
-      "num": 86685,
+      "raw_hot": 87537,
+      "num": 87537,
       "word": "孟子义问范丞丞是不是创造营第一",
       "onboard_time": 1697459013,
       "rank": 47,
@@ -475,12 +515,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85539,
-      "num": 85539,
-      "word": "野生大熊猫遇到话痨大叔",
-      "onboard_time": 1697492056,
-      "rank": 32,
-      "category": "动物萌宠"
+      "raw_hot": 85276,
+      "num": 85276,
+      "word": "小胖 努力三年只为和你顶峰相见",
+      "onboard_time": 1697457213,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 82088,
+      "num": 82088,
+      "word": "女子欲跳桥被遛狗大哥紧紧抱住",
+      "onboard_time": 1697498366,
+      "rank": 47,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 81852,
@@ -491,36 +539,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78495,
-      "num": 78495,
+      "raw_hot": 81462,
+      "num": 81462,
       "word": "我救不了千万个它 但下个路口有千万个我",
       "onboard_time": 1697479037,
       "rank": 38,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 75104,
-      "num": 75104,
-      "word": "小胖 努力三年只为和你顶峰相见",
-      "onboard_time": 1697457213,
-      "rank": 34,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 74933,
-      "num": 74933,
-      "word": "玛雅遗址里月神也抱着一只兔子",
-      "onboard_time": 1697477179,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 68588,
-      "num": 68588,
-      "word": "空调师傅空降救下窗外被困男孩",
-      "onboard_time": 1697498124,
-      "rank": 46,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 64766,
@@ -531,20 +555,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 62499,
-      "num": 62499,
-      "word": "一带一路十周年",
-      "onboard_time": 1697498062,
-      "rank": 49,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 54160,
       "num": 58378,
       "word": "现在就出发",
       "onboard_time": 1697475502,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 41704,
+      "num": 569360,
+      "word": "沿着一带一路去旅行",
+      "onboard_time": 1697464056,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39262,
@@ -561,14 +585,6 @@
       "onboard_time": 1697477598,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 33629,
-      "num": 492903,
-      "word": "沿着一带一路去旅行",
-      "onboard_time": 1697464056,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 24484,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 07:17:11
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 07:34:05
 </p>
 </blockquote>
 <p>
@@ -3639,6 +3639,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%842%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23" target="weibo">
+人民网评2岁女童被恶犬咬伤（热度：1014363）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%20%E5%B8%8C%E6%9C%9B%E4%B8%80%E7%9B%B4%E5%8D%96%E7%89%88%E6%9D%83%E4%B8%80%E7%9B%B4%E4%B8%8D%E6%8B%8D%23" target="weibo">
 余华 希望一直卖版权一直不拍（热度：1013886）
 </a>
@@ -4457,12 +4463,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%90%AF%E8%B1%AAvs%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 周启豪vs王楚钦（热度：874661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%842%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23" target="weibo">
-人民网评2岁女童被恶犬咬伤（热度：873790）
 </a>
 </li>
 
