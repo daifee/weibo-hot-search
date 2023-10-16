@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697466974509,
+  "endTime": 1697469461260,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1696168966,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2113106,
+      "num": 885079,
+      "word": "警方已发现咬人黑狗行踪",
+      "onboard_time": 1697465496,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2109433,
@@ -3987,6 +3995,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 1195185,
+      "num": 566478,
+      "word": "被大型犬撕咬女童母亲发声",
+      "onboard_time": 1697459374,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1192625,
       "num": 1192625,
       "word": "苹果商店相继下架相关黄色软件",
@@ -4523,14 +4539,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1061205,
-      "num": 566478,
-      "word": "被大型犬撕咬女童母亲发声",
-      "onboard_time": 1697459374,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1061178,
       "num": 1061178,
       "word": "拖把兄弟 吸氧兄弟",
@@ -4953,6 +4961,14 @@
       "onboard_time": 1697194954,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 994796,
+      "num": 356907,
+      "word": "魏大勋已经不敢抓脚踝了",
+      "onboard_time": 1697466879,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 990481,
@@ -5761,14 +5777,6 @@
       "onboard_time": 1696484792,
       "rank": 5,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 885079,
-      "num": 885079,
-      "word": "警方已发现咬人黑狗行踪",
-      "onboard_time": 1697465496,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 883818,
@@ -6651,6 +6659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 802739,
+      "num": 802739,
+      "word": "周筱风官宣恋情",
+      "onboard_time": 1697464897,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 802723,
       "num": 802723,
       "word": "竹马天降都是你开机",
@@ -7025,6 +7041,14 @@
       "onboard_time": 1696555171,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 777471,
+      "num": 777471,
+      "word": "为什么粉色要贵这么多",
+      "onboard_time": 1697465736,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 776450,
@@ -9489,14 +9513,6 @@
       "onboard_time": 1696560393,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 615158,
-      "num": 615158,
-      "word": "周筱风官宣恋情",
-      "onboard_time": 1697464897,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 615019,
@@ -12915,6 +12931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 480276,
+      "num": 480276,
+      "word": "曾舜晞这辈子没干的活儿全在娱乐圈干了",
+      "onboard_time": 1697467717,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479864,
       "num": 479864,
       "word": "炸糖糕",
@@ -13603,6 +13627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 460361,
+      "num": 460361,
+      "word": "檀健次 北海蛊王",
+      "onboard_time": 1697468140,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 460323,
       "num": 460323,
       "word": "徐明浩作品将在萨奇画廊展出",
@@ -13649,6 +13681,14 @@
       "onboard_time": 1696831418,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 458430,
+      "num": 346722,
+      "word": "美籍犹太裔学者称应为巴勒斯坦人哭泣",
+      "onboard_time": 1697466276,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 458126,
@@ -16259,6 +16299,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 386868,
+      "num": 341589,
+      "word": "陈楚生不教儿子吉他的原因",
+      "onboard_time": 1697469096,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386867,
       "num": 386867,
       "word": "侯雯元 中国宝宝自己的ken",
@@ -16329,14 +16377,6 @@
       "onboard_time": 1696335337,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 385072,
-      "num": 198864,
-      "word": "为什么粉色要贵这么多",
-      "onboard_time": 1697465736,
-      "rank": 47,
-      "category": "时尚"
     },
     {
       "raw_hot": 384916,
@@ -16441,6 +16481,14 @@
       "onboard_time": 1697341594,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383456,
+      "num": 383456,
+      "word": "中国移动采购120万台华为手机",
+      "onboard_time": 1697466578,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 383376,
@@ -22131,6 +22179,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 286971,
+      "num": 286971,
+      "word": "周雨彤回复韩火火",
+      "onboard_time": 1697467358,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 286929,
       "num": 286929,
       "word": "多亏看了黄景瑜的剧",
@@ -22313,6 +22369,14 @@
       "onboard_time": 1696650760,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 285008,
+      "num": 285978,
+      "word": "乃万走秀",
+      "onboard_time": 1697468738,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284982,
@@ -25843,14 +25907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246560,
-      "num": 198418,
-      "word": "中国移动采购120万台华为手机",
-      "onboard_time": 1697466578,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 246519,
       "num": 246519,
       "word": "LESSERAFIM个资变团资",
@@ -26985,6 +27041,14 @@
       "onboard_time": 1696508496,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235812,
+      "num": 235812,
+      "word": "家里这些东西正在偷偷伤害你",
+      "onboard_time": 1697467598,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 235791,
@@ -29227,6 +29291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214488,
+      "num": 214488,
+      "word": "手滑帮导师上午门诊放了60个号",
+      "onboard_time": 1697466218,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 214409,
       "num": 214409,
       "word": "林双吃醋",
@@ -29497,6 +29569,14 @@
       "onboard_time": 1696557512,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212703,
+      "num": 212703,
+      "word": "封神编剧新剧透",
+      "onboard_time": 1697468498,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 212648,
@@ -31075,6 +31155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202743,
+      "num": 202743,
+      "word": "周也李昀锐cp感",
+      "onboard_time": 1697468796,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202680,
       "num": 202680,
       "word": "军嫂惊喜现身惹硬汉瞬间泪目",
@@ -31297,6 +31385,14 @@
       "onboard_time": 1697455532,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 201610,
+      "num": 201610,
+      "word": "范丞丞喊白敬亭顾九思",
+      "onboard_time": 1697468317,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 201574,
@@ -31721,6 +31817,14 @@
       "onboard_time": 1697419531,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 199602,
+      "num": 199602,
+      "word": "白鹿 这一种快乐无法描写",
+      "onboard_time": 1697469217,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 199598,
@@ -33979,14 +34083,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 188127,
-      "num": 188127,
-      "word": "手滑帮导师上午门诊放了60个号",
-      "onboard_time": 1697466218,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187742,
       "num": 187742,
       "word": "釜山电影节上的包上恩",
@@ -34409,6 +34505,14 @@
       "onboard_time": 1697022633,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 185401,
+      "num": 185401,
+      "word": "拉布拉多未咬人已被主人领回",
+      "onboard_time": 1697469217,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185384,
@@ -34881,14 +34985,6 @@
       "onboard_time": 1697462976,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182659,
-      "num": 182659,
-      "word": "美籍犹太裔学者称应为巴勒斯坦人哭泣",
-      "onboard_time": 1697466276,
-      "rank": 38,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 182638,
@@ -35441,6 +35537,14 @@
       "onboard_time": 1697109816,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178969,
+      "num": 178969,
+      "word": "朱一龙河边的错误夺平遥最高奖",
+      "onboard_time": 1697467538,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 178959,
@@ -38555,6 +38659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155363,
+      "num": 155363,
+      "word": "周雨彤下台走错方向",
+      "onboard_time": 1697467238,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 155223,
       "num": 155223,
       "word": "topik",
@@ -38929,6 +39041,14 @@
       "onboard_time": 1696215933,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151535,
+      "num": 151535,
+      "word": "成都禁养犬名单",
+      "onboard_time": 1697469037,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 151473,
@@ -39617,14 +39737,6 @@
       "onboard_time": 1697382337,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 144868,
-      "num": 144868,
-      "word": "魏大勋已经不敢抓脚踝了",
-      "onboard_time": 1697466879,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144722,
@@ -41635,6 +41747,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 120873,
+      "num": 785551,
+      "word": "旧风力发电叶片变草场栅栏能用30年",
+      "onboard_time": 1697464174,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 120718,
       "num": 120718,
       "word": "王心凌上海演唱会演绎黄昏晓",
@@ -42256,14 +42376,6 @@
       "word": "10岁小女孩手举国旗策马巡边",
       "onboard_time": 1696175675,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108196,
-      "num": 655857,
-      "word": "旧风力发电叶片变草场栅栏能用30年",
-      "onboard_time": 1697464174,
-      "rank": 2,
       "category": "社会新闻"
     },
     {

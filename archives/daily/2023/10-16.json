@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697466974509,
+  "endTime": 1697469461260,
   "band_list": [
     {
       "raw_hot": 3396639,
@@ -73,6 +73,14 @@
       "onboard_time": 1697421092,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 2113106,
+      "num": 885079,
+      "word": "警方已发现咬人黑狗行踪",
+      "onboard_time": 1697465496,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2054950,
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1195185,
+      "num": 566478,
+      "word": "被大型犬撕咬女童母亲发声",
+      "onboard_time": 1697459374,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1113887,
       "num": 941337,
       "word": "原来外国人注册微信这么难",
@@ -259,14 +275,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1061205,
-      "num": 566478,
-      "word": "被大型犬撕咬女童母亲发声",
-      "onboard_time": 1697459374,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1041751,
       "num": 491094,
       "word": "巴勒斯坦",
@@ -281,6 +289,14 @@
       "onboard_time": 1697383775,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 994796,
+      "num": 356907,
+      "word": "魏大勋已经不敢抓脚踝了",
+      "onboard_time": 1697466879,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 975342,
@@ -339,14 +355,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 885079,
-      "num": 885079,
-      "word": "警方已发现咬人黑狗行踪",
-      "onboard_time": 1697465496,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 883818,
       "num": 883818,
       "word": "外交部建议在以中国公民尽快回国",
@@ -403,6 +411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 802739,
+      "num": 802739,
+      "word": "周筱风官宣恋情",
+      "onboard_time": 1697464897,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 786521,
       "num": 786521,
       "word": "徐穗珍将solo歌手出道",
@@ -425,6 +441,14 @@
       "onboard_time": 1697449953,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 777471,
+      "num": 777471,
+      "word": "为什么粉色要贵这么多",
+      "onboard_time": 1697465736,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 751780,
@@ -537,14 +561,6 @@
       "onboard_time": 1697421152,
       "rank": 6,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 615158,
-      "num": 615158,
-      "word": "周筱风官宣恋情",
-      "onboard_time": 1697464897,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 614385,
@@ -763,6 +779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 480276,
+      "num": 480276,
+      "word": "曾舜晞这辈子没干的活儿全在娱乐圈干了",
+      "onboard_time": 1697467717,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 479617,
       "num": 479617,
       "word": "未拆封iPhone免开箱即可更新",
@@ -809,6 +833,22 @@
       "onboard_time": 1697412869,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 460361,
+      "num": 460361,
+      "word": "檀健次 北海蛊王",
+      "onboard_time": 1697468140,
+      "rank": 7,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 458430,
+      "num": 346722,
+      "word": "美籍犹太裔学者称应为巴勒斯坦人哭泣",
+      "onboard_time": 1697466276,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 457304,
@@ -1019,12 +1059,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 385072,
-      "num": 198864,
-      "word": "为什么粉色要贵这么多",
-      "onboard_time": 1697465736,
-      "rank": 47,
-      "category": "时尚"
+      "raw_hot": 386868,
+      "num": 341589,
+      "word": "陈楚生不教儿子吉他的原因",
+      "onboard_time": 1697469096,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 383456,
+      "num": 383456,
+      "word": "中国移动采购120万台华为手机",
+      "onboard_time": 1697466578,
+      "rank": 31,
+      "category": "数码"
     },
     {
       "raw_hot": 383177,
@@ -1395,12 +1443,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 286971,
+      "num": 286971,
+      "word": "周雨彤回复韩火火",
+      "onboard_time": 1697467358,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 285537,
       "num": 285537,
       "word": "为什么饮水机都在厕所旁边",
       "onboard_time": 1697417974,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 285008,
+      "num": 285978,
+      "word": "乃万走秀",
+      "onboard_time": 1697468738,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 284982,
@@ -1643,14 +1707,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246560,
-      "num": 198418,
-      "word": "中国移动采购120万台华为手机",
-      "onboard_time": 1697466578,
-      "rank": 31,
-      "category": "数码"
-    },
-    {
       "raw_hot": 246281,
       "num": 246281,
       "word": "这不是跑马是来进货的吧",
@@ -1697,6 +1753,14 @@
       "onboard_time": 1697411966,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 235812,
+      "num": 235812,
+      "word": "家里这些东西正在偷偷伤害你",
+      "onboard_time": 1697467598,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 233902,
@@ -1833,6 +1897,22 @@
       "onboard_time": 1697461355,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 214488,
+      "num": 214488,
+      "word": "手滑帮导师上午门诊放了60个号",
+      "onboard_time": 1697466218,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 212703,
+      "num": 212703,
+      "word": "封神编剧新剧透",
+      "onboard_time": 1697468498,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 212648,
@@ -2011,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202743,
+      "num": 202743,
+      "word": "周也李昀锐cp感",
+      "onboard_time": 1697468796,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202475,
       "num": 202475,
       "word": "朱一龙和余华撞发色了",
@@ -2059,6 +2147,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 201610,
+      "num": 201610,
+      "word": "范丞丞喊白敬亭顾九思",
+      "onboard_time": 1697468317,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201398,
       "num": 201398,
       "word": "8旬老人手握竹竿十余年救下数百人",
@@ -2105,6 +2201,14 @@
       "onboard_time": 1697419531,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 199602,
+      "num": 199602,
+      "word": "白鹿 这一种快乐无法描写",
+      "onboard_time": 1697469217,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 198065,
@@ -2251,14 +2355,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 188127,
-      "num": 188127,
-      "word": "手滑帮导师上午门诊放了60个号",
-      "onboard_time": 1697466218,
-      "rank": 36,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 187710,
       "num": 187710,
       "word": "华浅被逼下跪",
@@ -2281,6 +2377,14 @@
       "onboard_time": 1697464356,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 185401,
+      "num": 185401,
+      "word": "拉布拉多未咬人已被主人领回",
+      "onboard_time": 1697469217,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184332,
@@ -2315,14 +2419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 182659,
-      "num": 182659,
-      "word": "美籍犹太裔学者称应为巴勒斯坦人哭泣",
-      "onboard_time": 1697466276,
-      "rank": 38,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 182317,
       "num": 182317,
       "word": "seventeen在TMA真的剧透了",
@@ -2353,6 +2449,14 @@
       "onboard_time": 1697463636,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 178969,
+      "num": 178969,
+      "word": "朱一龙河边的错误夺平遥最高奖",
+      "onboard_time": 1697467538,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 177901,
@@ -2555,6 +2659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155363,
+      "num": 155363,
+      "word": "周雨彤下台走错方向",
+      "onboard_time": 1697467238,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154945,
       "num": 116002,
       "word": "大熊猫福宝爬树已丝滑如猴了",
@@ -2585,6 +2697,14 @@
       "onboard_time": 1697427036,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 151535,
+      "num": 151535,
+      "word": "成都禁养犬名单",
+      "onboard_time": 1697469037,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150840,
@@ -2641,14 +2761,6 @@
       "onboard_time": 1697375797,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 144868,
-      "num": 144868,
-      "word": "魏大勋已经不敢抓脚踝了",
-      "onboard_time": 1697466879,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 141322,
@@ -2755,6 +2867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120873,
+      "num": 785551,
+      "word": "旧风力发电叶片变草场栅栏能用30年",
+      "onboard_time": 1697464174,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 118172,
       "num": 118172,
       "word": "小男孩坐错车公交司机开车送回家",
@@ -2801,14 +2921,6 @@
       "onboard_time": 1697355155,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 108196,
-      "num": 655857,
-      "word": "旧风力发电叶片变草场栅栏能用30年",
-      "onboard_time": 1697464174,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 107620,
