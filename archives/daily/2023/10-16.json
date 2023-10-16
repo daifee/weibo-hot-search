@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697448864674,
+  "endTime": 1697451555348,
   "band_list": [
     {
       "raw_hot": 3396639,
@@ -43,6 +43,14 @@
       "category": "数码,艺人"
     },
     {
+      "raw_hot": 2203525,
+      "num": 2203525,
+      "word": "朱一龙 北大",
+      "onboard_time": 1697447073,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2148982,
       "num": 2148982,
       "word": "腾讯认证三部爆款剧集",
@@ -75,14 +83,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1877572,
-      "num": 1877572,
-      "word": "朱一龙 北大",
-      "onboard_time": 1697447073,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1820817,
       "num": 421941,
       "word": "香港顶流姜涛跑步健身",
@@ -97,6 +97,14 @@
       "onboard_time": 1697414613,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1691717,
+      "num": 1691717,
+      "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
+      "onboard_time": 1697448994,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1456113,
@@ -321,6 +329,14 @@
       "onboard_time": 1697412869,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 778217,
+      "num": 778217,
+      "word": "警方通报女童被狗咬伤",
+      "onboard_time": 1697449953,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 751780,
@@ -691,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 420741,
+      "num": 420741,
+      "word": "拜登回应巴勒斯坦裔男孩被刺死",
+      "onboard_time": 1697448934,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 414688,
       "num": 414688,
       "word": "官方回应外国游客无人机撞损文峰塔",
@@ -729,6 +753,14 @@
       "onboard_time": 1697373337,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 391954,
+      "num": 391954,
+      "word": "为何找对象要看脸",
+      "onboard_time": 1697445694,
+      "rank": 15,
+      "category": "知识科普"
     },
     {
       "raw_hot": 383177,
@@ -771,14 +803,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 370257,
-      "num": 370257,
-      "word": "为何找对象要看脸",
-      "onboard_time": 1697445694,
-      "rank": 15,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 369815,
       "num": 266434,
       "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
@@ -793,6 +817,14 @@
       "onboard_time": 1697443655,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 359449,
+      "num": 2341797,
+      "word": "少年欲跳桥轻生被无数双手紧抓救回",
+      "onboard_time": 1697449474,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359209,
@@ -817,6 +849,14 @@
       "onboard_time": 1697411787,
       "rank": 30,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 356606,
+      "num": 356606,
+      "word": "主降临 主认可",
+      "onboard_time": 1697448514,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 356084,
@@ -955,12 +995,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 312578,
+      "num": 312578,
+      "word": "重庆震感",
+      "onboard_time": 1697450253,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 310745,
       "num": 310745,
       "word": "白鹿王鹤棣 你好星期六",
       "onboard_time": 1697422173,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304109,
+      "num": 1846684,
+      "word": "深圳一大楼贴膜防止鸟撞",
+      "onboard_time": 1697440533,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293646,
@@ -1001,6 +1057,14 @@
       "onboard_time": 1697430397,
       "rank": 39,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 282682,
+      "num": 266154,
+      "word": "孟美岐甜妹风",
+      "onboard_time": 1697450794,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 282495,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1697418814,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264635,
+      "num": 264635,
+      "word": "肖战同路人音源全网上线",
+      "onboard_time": 1697450675,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 262732,
@@ -1267,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 228098,
+      "num": 228098,
+      "word": "平遥国际电影展红毯",
+      "onboard_time": 1697450493,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225508,
       "num": 225508,
       "word": "钟辰乐用文字给章昊转账",
@@ -1307,12 +1387,28 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 217822,
+      "num": 217822,
+      "word": "田耕纪空镜",
+      "onboard_time": 1697449594,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 216896,
       "num": 216896,
       "word": "被农民的中国式浪漫震撼了",
       "onboard_time": 1697425354,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 214698,
+      "num": 214698,
+      "word": "博主100元吃遍东北早市被指造假",
+      "onboard_time": 1697451395,
+      "rank": 32,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 212605,
@@ -1329,6 +1425,14 @@
       "onboard_time": 1697426194,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 211855,
+      "num": 211855,
+      "word": "母亲参加女儿婚礼弄丢10万嫁妆",
+      "onboard_time": 1697449357,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 211217,
@@ -1435,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 202475,
+      "num": 202475,
+      "word": "朱一龙和余华撞发色了",
+      "onboard_time": 1697450794,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201989,
       "num": 201989,
       "word": "范丞丞卢昱晓同框",
@@ -1507,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 196569,
-      "num": 196569,
-      "word": "深圳一大楼贴膜防止鸟撞",
-      "onboard_time": 1697440533,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 196333,
       "num": 196333,
       "word": "110和119为救老人变泥人",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1697427036,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192921,
+      "num": 192921,
+      "word": "周也无处安放的手",
+      "onboard_time": 1697448812,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 191809,
@@ -1635,6 +1747,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 181107,
+      "num": 181107,
+      "word": "陶勇发长文聊问心",
+      "onboard_time": 1697450374,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177901,
       "num": 177901,
       "word": "AR对阵Entity",
@@ -1659,12 +1779,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 174067,
-      "num": 174067,
-      "word": "主降临 主认可",
-      "onboard_time": 1697448514,
-      "rank": 36,
-      "category": "电影"
+      "raw_hot": 175420,
+      "num": 175420,
+      "word": "亚残运村中国队公寓楼挂满国旗",
+      "onboard_time": 1697451094,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174094,
+      "num": 992020,
+      "word": "援藏组15年戈壁滩上种200万棵苗木",
+      "onboard_time": 1697450434,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172414,
@@ -1673,6 +1801,14 @@
       "onboard_time": 1697444553,
       "rank": 49,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 170945,
+      "num": 170945,
+      "word": "迪丽热巴候场小彩蛋",
+      "onboard_time": 1697448934,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 170701,
@@ -1883,14 +2019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133824,
-      "num": 133824,
-      "word": "周也无处安放的手",
-      "onboard_time": 1697448812,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 132082,
       "num": 132082,
       "word": "XCG冠军",
@@ -2068,7 +2196,7 @@
     },
     {
       "raw_hot": 66801,
-      "num": 1440580,
+      "num": 2245764,
       "word": "牡丹与玫瑰的丝路流芳",
       "onboard_time": 1697443173,
       "rank": 2,
@@ -2191,6 +2319,9 @@
     },
     {
       "word": "#一带一路走合作共赢之路带来发展和繁荣#"
+    },
+    {
+      "word": "#一带一路十年之约#"
     }
   ]
 }
