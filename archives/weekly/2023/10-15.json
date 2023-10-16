@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697420085710,
+  "endTime": 1697423155347,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -41,6 +41,14 @@
       "onboard_time": 1697340508,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2251159,
+      "num": 466103,
+      "word": "徐娇 能不能别吹我了我害怕",
+      "onboard_time": 1697420492,
+      "rank": 10,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 2224048,
@@ -137,6 +145,14 @@
       "onboard_time": 1697339429,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1758375,
+      "num": 1758375,
+      "word": "腾讯认证三部爆款剧集",
+      "onboard_time": 1697421092,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 1747065,
@@ -323,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 983046,
+      "num": 453949,
+      "word": "巴勒斯坦",
+      "onboard_time": 1697418633,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 968320,
       "num": 475922,
       "word": "男子车内当孩子面将妻子捅成重伤",
@@ -369,6 +393,14 @@
       "onboard_time": 1697356834,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 875108,
+      "num": 267073,
+      "word": "爸妈一次性给了四年的生活费",
+      "onboard_time": 1697420317,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 860760,
@@ -531,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 689314,
+      "num": 689314,
+      "word": "美国男子26刀刺死巴勒斯坦裔男孩",
+      "onboard_time": 1697421693,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 686649,
       "num": 686649,
       "word": "以色列同意加沙地带的外国人离开",
@@ -595,6 +635,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 635631,
+      "num": 635631,
+      "word": "江歌妈妈眼中有了精气神",
+      "onboard_time": 1697420070,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 630448,
       "num": 630448,
       "word": "张靓颖穿18cm靴子唱跳不带喘",
@@ -625,6 +673,14 @@
       "onboard_time": 1697364393,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 616846,
+      "num": 616846,
+      "word": "海底捞等位区竟然分i人e人",
+      "onboard_time": 1697421152,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 607584,
@@ -795,6 +851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 543224,
+      "num": 543224,
+      "word": "宋凯当选新一届中国足协主席",
+      "onboard_time": 1697422474,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 541996,
       "num": 541996,
       "word": "加沙空袭幸存婴儿在记者安抚下笑了",
@@ -857,14 +921,6 @@
       "onboard_time": 1697418333,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 522361,
-      "num": 446939,
-      "word": "巴勒斯坦",
-      "onboard_time": 1697418633,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 519285,
@@ -971,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 469995,
+      "num": 469995,
+      "word": "支原体肺炎主要症状有2个",
+      "onboard_time": 1697418516,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 463406,
       "num": 463406,
       "word": "杨洋雀斑妆",
@@ -1043,14 +1107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443553,
-      "num": 443553,
-      "word": "支原体肺炎主要症状有2个",
-      "onboard_time": 1697418516,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 443409,
       "num": 370686,
       "word": "TF家族三代飞韩国",
@@ -1115,6 +1171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 420388,
+      "num": 420388,
+      "word": "A股",
+      "onboard_time": 1697422474,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 417218,
       "num": 305306,
       "word": "王栎鑫白毛",
@@ -1153,6 +1217,22 @@
       "onboard_time": 1697414255,
       "rank": 20,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 401972,
+      "num": 401972,
+      "word": "派出所俩月收50多面锦旗铺了一地",
+      "onboard_time": 1697421454,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401823,
+      "num": 286703,
+      "word": "杭州姑娘误点3两烧麦4顿没吃完",
+      "onboard_time": 1697419531,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 400149,
@@ -1267,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369815,
+      "num": 266434,
+      "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
+      "onboard_time": 1697419773,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 368045,
       "num": 335288,
       "word": "现在很少见到黑长直了",
@@ -1345,6 +1433,14 @@
       "onboard_time": 1697359773,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 350765,
+      "num": 266083,
+      "word": "什么病挂什么科",
+      "onboard_time": 1697420430,
+      "rank": 23,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 344528,
@@ -1555,12 +1651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 291435,
+      "num": 291435,
+      "word": "Taylor Swift演唱会大电影",
+      "onboard_time": 1697419773,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 290830,
       "num": 290830,
       "word": "你们馒头届要考博啊",
       "onboard_time": 1697369435,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 289305,
+      "num": 265781,
+      "word": "披荆斩棘后张栋梁的变化",
+      "onboard_time": 1697420317,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 288695,
@@ -1585,14 +1697,6 @@
       "onboard_time": 1697340149,
       "rank": 31,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 286703,
-      "num": 286703,
-      "word": "杭州姑娘误点3两烧麦4顿没吃完",
-      "onboard_time": 1697419531,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285537,
@@ -1625,6 +1729,14 @@
       "onboard_time": 1697362534,
       "rank": 24,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 282495,
+      "num": 265251,
+      "word": "同事点的奶茶底部裂开了",
+      "onboard_time": 1697419714,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 277108,
@@ -1715,6 +1827,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267206,
+      "num": 267206,
+      "word": "长这么大终于分清五谷了",
+      "onboard_time": 1697418814,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 265158,
+      "num": 265158,
+      "word": "未拆封iPhone免开箱即可更新",
+      "onboard_time": 1697421032,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 265022,
+      "num": 265022,
+      "word": "白鹿王鹤棣 你好星期六",
+      "onboard_time": 1697422173,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264063,
       "num": 264063,
       "word": "张元英金丝眼镜",
@@ -1723,20 +1859,20 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 262340,
+      "num": 265646,
+      "word": "男子中专毕业逆袭成大学副教授",
+      "onboard_time": 1697419714,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 261025,
       "num": 205458,
       "word": "宋轶当演员克服了全家阻碍",
       "onboard_time": 1697357434,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 259691,
-      "num": 259691,
-      "word": "Taylor Swift演唱会大电影",
-      "onboard_time": 1697419773,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 259015,
@@ -1811,6 +1947,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 253687,
+      "num": 253687,
+      "word": "于适的胸肌给早晨一点点震撼",
+      "onboard_time": 1697420132,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 251953,
       "num": 251953,
       "word": "周杰伦上海1943",
@@ -1835,20 +1979,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249361,
+      "num": 249361,
+      "word": "i人才是e人的最佳补品",
+      "onboard_time": 1697419237,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 249175,
       "num": 249175,
       "word": "于正感谢大家喜欢为有暗香来",
       "onboard_time": 1697341654,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248694,
-      "num": 248694,
-      "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
-      "onboard_time": 1697419773,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248083,
@@ -1921,14 +2065,6 @@
       "onboard_time": 1697411966,
       "rank": 21,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 236009,
-      "num": 236009,
-      "word": "i人才是e人的最佳补品",
-      "onboard_time": 1697419237,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 235324,
@@ -2027,22 +2163,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 218399,
-      "num": 218399,
-      "word": "男子中专毕业逆袭成大学副教授",
-      "onboard_time": 1697419714,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 218384,
-      "num": 218384,
-      "word": "长这么大终于分清五谷了",
-      "onboard_time": 1697418814,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 217996,
       "num": 217996,
       "word": "粉笔模考",
@@ -2067,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212605,
+      "num": 212605,
+      "word": "杭州调整住房限购范围",
+      "onboard_time": 1697420012,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209723,
       "num": 209723,
       "word": "如何用iPhone拍出好看的美食照片",
@@ -2080,6 +2208,14 @@
       "word": "Alin说马嘉祺的相机太可爱了",
       "onboard_time": 1697384795,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 206968,
+      "num": 206968,
+      "word": "范丞丞夸金晨30亿女主角真美",
+      "onboard_time": 1697421333,
+      "rank": 35,
       "category": "综艺"
     },
     {
@@ -2113,14 +2249,6 @@
       "onboard_time": 1697345914,
       "rank": 38,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 204139,
-      "num": 204139,
-      "word": "同事点的奶茶底部裂开了",
-      "onboard_time": 1697419714,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 203638,
@@ -2233,6 +2361,14 @@
       "onboard_time": 1697369314,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199130,
+      "num": 199130,
+      "word": "剑网3校服",
+      "onboard_time": 1697422715,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 199051,
@@ -2675,14 +2811,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172689,
-      "num": 172689,
-      "word": "杭州调整住房限购范围",
-      "onboard_time": 1697420012,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171735,
       "num": 486784,
       "word": "范丞丞扛住了怼脸镜头",
@@ -2737,6 +2865,14 @@
       "onboard_time": 1697365294,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168403,
+      "num": 168403,
+      "word": "蔡国庆在陈楚生演唱会唱365个祝福",
+      "onboard_time": 1697422294,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 166227,
@@ -2795,6 +2931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160497,
+      "num": 160497,
+      "word": "平遥有自己的成语大会",
+      "onboard_time": 1697422117,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160384,
       "num": 160384,
       "word": "卢布列夫",
@@ -2811,12 +2955,12 @@
       "category": "自然"
     },
     {
-      "raw_hot": 157615,
-      "num": 157615,
-      "word": "江歌妈妈眼中有了精气神",
-      "onboard_time": 1697420070,
+      "raw_hot": 157637,
+      "num": 157637,
+      "word": "范丞丞卢昱晓同框",
+      "onboard_time": 1697422898,
       "rank": 47,
-      "category": "社会新闻"
+      "category": "综艺"
     },
     {
       "raw_hot": 156876,
@@ -2928,6 +3072,14 @@
       "word": "400余年古村落家家有泉水和竹林",
       "onboard_time": 1697324719,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150147,
+      "num": 150147,
+      "word": "米香弥漫想念袁爷爷",
+      "onboard_time": 1697420253,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -3677,6 +3829,9 @@
     },
     {
       "word": "#从大写意到工笔画#"
+    },
+    {
+      "word": "#一带一路走合作共赢之路带来发展和繁荣#"
     }
   ]
 }
