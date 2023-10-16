@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697490934823,
+  "endTime": 1697492050886,
   "band_list": [
     {
       "raw_hot": 1611627,
@@ -537,6 +537,14 @@
       "onboard_time": 1697486954,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12612,
+      "num": 18883,
+      "word": "一带一路一起来",
+      "onboard_time": 1697491093,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 9333,
