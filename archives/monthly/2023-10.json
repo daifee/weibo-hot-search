@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697459674914,
+  "endTime": 1697460657727,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1675,6 +1675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1910803,
+      "num": 343916,
+      "word": "拉布拉多",
+      "onboard_time": 1697456313,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1895203,
       "num": 505518,
       "word": "狗头萝莉发文致歉",
@@ -2449,14 +2457,6 @@
       "onboard_time": 1696513906,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1625330,
-      "num": 343916,
-      "word": "拉布拉多",
-      "onboard_time": 1697456313,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1624973,
@@ -6067,6 +6067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 855309,
+      "num": 855309,
+      "word": "母亲讲述女童被大型犬撕咬致肾破裂",
+      "onboard_time": 1697456490,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 852879,
       "num": 852879,
       "word": "李诗沣进决赛",
@@ -7033,14 +7041,6 @@
       "onboard_time": 1697287593,
       "rank": 11,
       "category": "演出"
-    },
-    {
-      "raw_hot": 770439,
-      "num": 770439,
-      "word": "母亲讲述女童被大型犬撕咬致肾破裂",
-      "onboard_time": 1697456490,
-      "rank": 5,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770114,
@@ -8067,6 +8067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 694604,
+      "num": 694604,
+      "word": "白鹿带闺蜜看五月天演唱会",
+      "onboard_time": 1697459134,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 693826,
       "num": 693826,
       "word": "蒲熠星快被考试逼疯了",
@@ -8305,6 +8313,14 @@
       "onboard_time": 1697346273,
       "rank": 19,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 674682,
+      "num": 674682,
+      "word": "孟子义问范丞丞是不是创造营第一",
+      "onboard_time": 1697459013,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 673688,
@@ -11835,6 +11851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 514467,
+      "num": 277436,
+      "word": "特斯拉车主高速多次别车被刑拘",
+      "onboard_time": 1697458474,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 514013,
       "num": 514013,
       "word": "章子怡片中哭到嘴唇颤抖",
@@ -12699,6 +12723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 483741,
+      "num": 235068,
+      "word": "毕业五年了辅导员突然叫我干活",
+      "onboard_time": 1697459854,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 483413,
       "num": 483413,
       "word": "老头衫的受众其实是女高",
@@ -13273,14 +13305,6 @@
       "onboard_time": 1696851815,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 466778,
-      "num": 466778,
-      "word": "白鹿带闺蜜看五月天演唱会",
-      "onboard_time": 1697459134,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 466349,
@@ -14795,6 +14819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 422616,
+      "num": 231364,
+      "word": "宋仲基说儿子嘴唇最像自己",
+      "onboard_time": 1697460153,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 422452,
       "num": 264317,
       "word": "突然明白了为什么叫蒜头鼻",
@@ -15025,6 +15057,14 @@
       "onboard_time": 1696941157,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 415939,
+      "num": 275889,
+      "word": "被大型犬撕咬女童母亲发声",
+      "onboard_time": 1697459374,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 415510,
@@ -23707,14 +23747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267069,
-      "num": 267069,
-      "word": "孟子义问范丞丞是不是创造营第一",
-      "onboard_time": 1697459013,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 266994,
       "num": 266994,
       "word": "前任4后劲",
@@ -24265,14 +24297,6 @@
       "onboard_time": 1696813776,
       "rank": 45,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 261404,
-      "num": 261404,
-      "word": "特斯拉车主高速多次别车被刑拘",
-      "onboard_time": 1697458474,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261308,
@@ -24849,6 +24873,14 @@
       "onboard_time": 1696335099,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255575,
+      "num": 255575,
+      "word": "明天秋裤备好",
+      "onboard_time": 1697457093,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 255565,
@@ -27387,14 +27419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229456,
-      "num": 229456,
-      "word": "明天秋裤备好",
-      "onboard_time": 1697457093,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 229388,
       "num": 229388,
       "word": "关晓彤韩东君拍海报手忙脚乱",
@@ -27472,6 +27496,14 @@
       "word": "羽毛球男双",
       "onboard_time": 1696393775,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 228670,
+      "num": 228670,
+      "word": "韦世豪破门",
+      "onboard_time": 1697459914,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -28875,6 +28907,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 216213,
+      "num": 196533,
+      "word": "肯豆为什么痘痘没了",
+      "onboard_time": 1697460092,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 216089,
       "num": 216089,
       "word": "石宇奇1比2拉克什亚",
@@ -29731,6 +29771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209378,
+      "num": 209378,
+      "word": "徐穗珍与BRD公司签约",
+      "onboard_time": 1697457994,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209321,
       "num": 209321,
       "word": "把3天假期余额速充到四川",
@@ -30305,14 +30353,6 @@
       "onboard_time": 1696654485,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205711,
-      "num": 205711,
-      "word": "徐穗珍与BRD公司签约",
-      "onboard_time": 1697457994,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 205649,
@@ -31201,6 +31241,14 @@
       "onboard_time": 1696156957,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201132,
+      "num": 201132,
+      "word": "谷村新司 化作天上的星",
+      "onboard_time": 1697460034,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 201131,
@@ -35251,6 +35299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178305,
+      "num": 178305,
+      "word": "演唱会大合唱真的很好哭",
+      "onboard_time": 1697459914,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 178303,
       "num": 178303,
       "word": "陈伟霆油腻不了一点",
@@ -35899,6 +35955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173845,
+      "num": 173845,
+      "word": "小伙租123平房子花4万改造成理想的家",
+      "onboard_time": 1697460333,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 173802,
       "num": 173802,
       "word": "3交警仅10分钟送昏倒游客就医",
@@ -36115,14 +36179,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171991,
-      "num": 171991,
-      "word": "被大型犬撕咬女童母亲发声",
-      "onboard_time": 1697459374,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 171969,
       "num": 171969,
       "word": "南风知我意",
@@ -36257,6 +36313,14 @@
       "onboard_time": 1696171241,
       "rank": 44,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 170844,
+      "num": 170844,
+      "word": "AG对战TTG",
+      "onboard_time": 1697459553,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 170816,
@@ -38009,14 +38073,6 @@
       "onboard_time": 1696577735,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157323,
-      "num": 157323,
-      "word": "AG对战TTG",
-      "onboard_time": 1697459553,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 157316,
@@ -39963,6 +40019,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138511,
+      "num": 138511,
+      "word": "双十一",
+      "onboard_time": 1697460574,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138432,
       "num": 138432,
       "word": "60岁大妈做烧饼20年日入过千",
@@ -41417,6 +41481,14 @@
       "onboard_time": 1697283453,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119170,
+      "num": 119170,
+      "word": "警方辟谣大型犬主人被孩子家长砍了",
+      "onboard_time": 1697460633,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 119014,
@@ -43659,6 +43731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 49395,
+      "num": 984337,
+      "word": "杭州亚残运村今天开村了",
+      "onboard_time": 1697442873,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49354,
       "num": 49354,
       "word": "2023F1卡塔尔大奖赛",
@@ -43673,14 +43753,6 @@
       "onboard_time": 1696095143,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 49265,
-      "num": 984337,
-      "word": "杭州亚残运村今天开村了",
-      "onboard_time": 1697442873,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 49082,

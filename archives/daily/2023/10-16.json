@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697459674914,
+  "endTime": 1697460657727,
   "band_list": [
     {
       "raw_hot": 3396639,
@@ -83,6 +83,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1910803,
+      "num": 343916,
+      "word": "拉布拉多",
+      "onboard_time": 1697456313,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1886530,
       "num": 1886530,
       "word": "尊重式分手",
@@ -113,14 +121,6 @@
       "onboard_time": 1697414613,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1625330,
-      "num": 343916,
-      "word": "拉布拉多",
-      "onboard_time": 1697456313,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1617686,
@@ -339,6 +339,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 855309,
+      "num": 855309,
+      "word": "母亲讲述女童被大型犬撕咬致肾破裂",
+      "onboard_time": 1697456490,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 842667,
       "num": 842667,
       "word": "雷军 别着急这次产品很很很强",
@@ -376,14 +384,6 @@
       "word": "警方通报女童被狗咬伤",
       "onboard_time": 1697449953,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 770439,
-      "num": 770439,
-      "word": "母亲讲述女童被大型犬撕咬致肾破裂",
-      "onboard_time": 1697456490,
-      "rank": 5,
       "category": "社会新闻"
     },
     {
@@ -435,12 +435,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 694604,
+      "num": 694604,
+      "word": "白鹿带闺蜜看五月天演唱会",
+      "onboard_time": 1697459134,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 680875,
       "num": 402733,
       "word": "直接问到沈月本人了",
       "onboard_time": 1697441735,
       "rank": 10,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 674682,
+      "num": 674682,
+      "word": "孟子义问范丞丞是不是创造营第一",
+      "onboard_time": 1697459013,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 667933,
@@ -611,6 +627,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 514467,
+      "num": 277436,
+      "word": "特斯拉车主高速多次别车被刑拘",
+      "onboard_time": 1697458474,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 506205,
       "num": 506205,
       "word": "被狗咬伤女童生命体征平稳",
@@ -667,6 +691,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 483741,
+      "num": 235068,
+      "word": "毕业五年了辅导员突然叫我干活",
+      "onboard_time": 1697459854,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 479617,
       "num": 479617,
       "word": "未拆封iPhone免开箱即可更新",
@@ -705,14 +737,6 @@
       "onboard_time": 1697381017,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466778,
-      "num": 466778,
-      "word": "白鹿带闺蜜看五月天演唱会",
-      "onboard_time": 1697459134,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 463406,
@@ -824,6 +848,22 @@
       "word": "上海独生女为买房火速结婚",
       "onboard_time": 1697434595,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 422616,
+      "num": 231364,
+      "word": "宋仲基说儿子嘴唇最像自己",
+      "onboard_time": 1697460153,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 415939,
+      "num": 275889,
+      "word": "被大型犬撕咬女童母亲发声",
+      "onboard_time": 1697459374,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -1315,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267069,
-      "num": 267069,
-      "word": "孟子义问范丞丞是不是创造营第一",
-      "onboard_time": 1697459013,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 262732,
       "num": 262732,
       "word": "周也吃的什么勺子这么大",
@@ -1344,14 +1376,6 @@
       "word": "罗威纳",
       "onboard_time": 1697447194,
       "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261404,
-      "num": 261404,
-      "word": "特斯拉车主高速多次别车被刑拘",
-      "onboard_time": 1697458474,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1385,6 +1409,14 @@
       "onboard_time": 1697417919,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 255575,
+      "num": 255575,
+      "word": "明天秋裤备好",
+      "onboard_time": 1697457093,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254963,
@@ -1555,12 +1587,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229456,
-      "num": 229456,
-      "word": "明天秋裤备好",
-      "onboard_time": 1697457093,
+      "raw_hot": 228670,
+      "num": 228670,
+      "word": "韦世豪破门",
+      "onboard_time": 1697459914,
       "rank": 25,
-      "category": "社会新闻"
+      "category": "体育"
     },
     {
       "raw_hot": 228098,
@@ -1635,6 +1667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 216213,
+      "num": 196533,
+      "word": "肯豆为什么痘痘没了",
+      "onboard_time": 1697460092,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 212648,
       "num": 212648,
       "word": "中国在欧洲的铁杆朋友来了",
@@ -1691,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209378,
+      "num": 209378,
+      "word": "徐穗珍与BRD公司签约",
+      "onboard_time": 1697457994,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "Alin说马嘉祺的相机太可爱了",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1697448394,
       "rank": 27,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 205711,
-      "num": 205711,
-      "word": "徐穗珍与BRD公司签约",
-      "onboard_time": 1697457994,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 205425,
@@ -1865,6 +1905,14 @@
       "onboard_time": 1697446355,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201132,
+      "num": 201132,
+      "word": "谷村新司 化作天上的星",
+      "onboard_time": 1697460034,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 200251,
@@ -2075,6 +2123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178305,
+      "num": 178305,
+      "word": "演唱会大合唱真的很好哭",
+      "onboard_time": 1697459914,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177901,
       "num": 177901,
       "word": "AR对阵Entity",
@@ -2115,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173845,
+      "num": 173845,
+      "word": "小伙租123平房子花4万改造成理想的家",
+      "onboard_time": 1697460333,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172414,
       "num": 172414,
       "word": "以方否认停火允许援助进入加沙报道",
@@ -2123,20 +2187,20 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 171991,
-      "num": 171991,
-      "word": "被大型犬撕咬女童母亲发声",
-      "onboard_time": 1697459374,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170945,
       "num": 170945,
       "word": "迪丽热巴候场小彩蛋",
       "onboard_time": 1697448934,
       "rank": 41,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170844,
+      "num": 170844,
+      "word": "AG对战TTG",
+      "onboard_time": 1697459553,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 170701,
@@ -2241,14 +2305,6 @@
       "onboard_time": 1697454813,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157323,
-      "num": 157323,
-      "word": "AG对战TTG",
-      "onboard_time": 1697459553,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 156051,
@@ -2379,6 +2435,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 138511,
+      "num": 138511,
+      "word": "双十一",
+      "onboard_time": 1697460574,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138307,
       "num": 357177,
       "word": "淘宝买菜打拼价玩的是商战",
@@ -2449,6 +2513,14 @@
       "onboard_time": 1697447614,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119170,
+      "num": 119170,
+      "word": "警方辟谣大型犬主人被孩子家长砍了",
+      "onboard_time": 1697460633,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118172,
@@ -2635,7 +2707,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 49265,
+      "raw_hot": 49395,
       "num": 984337,
       "word": "杭州亚残运村今天开村了",
       "onboard_time": 1697442873,

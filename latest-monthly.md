@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 20:34:34
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 20:50:57
 </p>
 </blockquote>
 <p>
@@ -1269,6 +1269,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%23" target="weibo">
+拉布拉多（热度：1910803）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
 狗头萝莉发文致歉（热度：1895203）
 </a>
@@ -1847,12 +1853,6 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%98%E5%BE%97%E6%98%AF%E5%A5%B3%E7%AF%AE%20%E8%BF%98%E5%BE%97%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%A5%B3%E4%BA%BA%23" target="weibo">
 还得是女篮 还得是中国女人（热度：1627586）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%23" target="weibo">
-拉布拉多（热度：1625330）
 </a>
 </li>
 
@@ -4563,6 +4563,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%AE%B2%E8%BF%B0%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%A4%A7%E5%9E%8B%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E8%82%BE%E7%A0%B4%E8%A3%82%23" target="weibo">
+母亲讲述女童被大型犬撕咬致肾破裂（热度：855309）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%97%E6%B2%A3%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 李诗沣进决赛（热度：852879）
 </a>
@@ -5285,12 +5291,6 @@ Jennie巴黎时装周（热度：789463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E7%99%BD%E6%AF%9B%23" target="weibo">
 王栎鑫白毛（热度：771199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%AE%B2%E8%BF%B0%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%A4%A7%E5%9E%8B%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E8%82%BE%E7%A0%B4%E8%A3%82%23" target="weibo">
-母亲讲述女童被大型犬撕咬致肾破裂（热度：770439）
 </a>
 </li>
 
