@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697418820307,
+  "endTime": 1697420085710,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1345,6 +1345,14 @@
       "onboard_time": 1696593457,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2054950,
+      "num": 2054950,
+      "word": "不经意却很不卫生的行为",
+      "onboard_time": 1697418872,
+      "rank": 0,
+      "category": "知识科普"
     },
     {
       "raw_hot": 2034170,
@@ -3572,7 +3580,7 @@
     },
     {
       "raw_hot": 1244276,
-      "num": 816537,
+      "num": 963887,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1697413654,
       "rank": 1,
@@ -3593,6 +3601,14 @@
       "onboard_time": 1696647276,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1242015,
+      "num": 1242015,
+      "word": "拜登称必须彻底消灭哈马斯",
+      "onboard_time": 1697418454,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1237386,
@@ -11219,6 +11235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 522420,
+      "num": 522420,
+      "word": "宋轶真的好懂i人",
+      "onboard_time": 1697418333,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 521837,
       "num": 521837,
       "word": "台湾人的输入法",
@@ -13633,6 +13657,14 @@
       "onboard_time": 1696586677,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 443553,
+      "num": 443553,
+      "word": "支原体肺炎主要症状有2个",
+      "onboard_time": 1697418516,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443409,
@@ -18435,14 +18467,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 327040,
-      "num": 327040,
-      "word": "宋轶真的好懂i人",
-      "onboard_time": 1697418333,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 327036,
       "num": 327036,
       "word": "iOS17.1将修复iPhone12辐射问题",
@@ -18553,14 +18577,6 @@
       "onboard_time": 1696338218,
       "rank": 29,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 325378,
-      "num": 325378,
-      "word": "拜登称必须彻底消灭哈马斯",
-      "onboard_time": 1697418454,
-      "rank": 22,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 325318,
@@ -21107,6 +21123,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 286703,
+      "num": 286703,
+      "word": "杭州姑娘误点3两烧麦4顿没吃完",
+      "onboard_time": 1697419531,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 286690,
       "num": 286690,
       "word": "周冬雨雷佳音 没有CP感",
@@ -21193,6 +21217,14 @@
       "onboard_time": 1696430019,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285537,
+      "num": 285537,
+      "word": "为什么饮水机都在厕所旁边",
+      "onboard_time": 1697417974,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 285533,
@@ -23443,6 +23475,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 259691,
+      "num": 259691,
+      "word": "Taylor Swift演唱会大电影",
+      "onboard_time": 1697419773,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259615,
       "num": 259615,
       "word": "你的脾胃虚是怎么来的",
@@ -23761,14 +23801,6 @@
       "onboard_time": 1697339609,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256091,
-      "num": 256091,
-      "word": "为什么饮水机都在厕所旁边",
-      "onboard_time": 1697417974,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 256064,
@@ -24361,6 +24393,14 @@
       "onboard_time": 1697112994,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 248694,
+      "num": 248694,
+      "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
+      "onboard_time": 1697419773,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 248445,
@@ -25689,6 +25729,14 @@
       "onboard_time": 1696830275,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 236009,
+      "num": 236009,
+      "word": "i人才是e人的最佳补品",
+      "onboard_time": 1697419237,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 235982,
@@ -27531,12 +27579,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218399,
+      "num": 218399,
+      "word": "男子中专毕业逆袭成大学副教授",
+      "onboard_time": 1697419714,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 218395,
       "num": 218395,
       "word": "Ella给Selina的儿子买礼物",
       "onboard_time": 1696605279,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 218384,
+      "num": 218384,
+      "word": "长这么大终于分清五谷了",
+      "onboard_time": 1697418814,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218344,
@@ -29299,6 +29363,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 204139,
+      "num": 204139,
+      "word": "同事点的奶茶底部裂开了",
+      "onboard_time": 1697419714,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 204096,
       "num": 204096,
       "word": "新郎接亲意外被困电梯求助消防",
@@ -30147,6 +30219,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 199602,
+      "num": 199602,
+      "word": "曾黎私服穿搭",
+      "onboard_time": 1697419531,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 199598,
       "num": 199598,
       "word": "陈家平主用皮带止血",
@@ -30881,6 +30961,14 @@
       "onboard_time": 1697203235,
       "rank": 45,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 195828,
+      "num": 195828,
+      "word": "世界粮食日",
+      "onboard_time": 1697418993,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195822,
@@ -32281,14 +32369,6 @@
       "onboard_time": 1697075734,
       "rank": 36,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 188131,
-      "num": 188131,
-      "word": "支原体肺炎主要症状有2个",
-      "onboard_time": 1697418516,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187742,
@@ -34099,6 +34179,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175843,
+      "num": 175843,
+      "word": "ENHYPEN回归预告",
+      "onboard_time": 1697419654,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175831,
       "num": 175831,
       "word": "李宇春 冷宫歌",
@@ -34529,6 +34617,14 @@
       "onboard_time": 1697370696,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172689,
+      "num": 172689,
+      "word": "杭州调整住房限购范围",
+      "onboard_time": 1697420012,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172664,
@@ -36361,6 +36457,14 @@
       "onboard_time": 1697005894,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157615,
+      "num": 157615,
+      "word": "江歌妈妈眼中有了精气神",
+      "onboard_time": 1697420070,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157498,

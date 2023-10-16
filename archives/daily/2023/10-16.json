@@ -1,7 +1,15 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697418820307,
+  "endTime": 1697420085710,
   "band_list": [
+    {
+      "raw_hot": 2054950,
+      "num": 2054950,
+      "word": "不经意却很不卫生的行为",
+      "onboard_time": 1697418872,
+      "rank": 0,
+      "category": "知识科普"
+    },
     {
       "raw_hot": 1747065,
       "num": 505231,
@@ -36,11 +44,19 @@
     },
     {
       "raw_hot": 1244276,
-      "num": 816537,
+      "num": 963887,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1697413654,
       "rank": 1,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 1242015,
+      "num": 1242015,
+      "word": "拜登称必须彻底消灭哈马斯",
+      "onboard_time": 1697418454,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1219187,
@@ -179,6 +195,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 522420,
+      "num": 522420,
+      "word": "宋轶真的好懂i人",
+      "onboard_time": 1697418333,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 522361,
+      "num": 446939,
+      "word": "巴勒斯坦",
+      "onboard_time": 1697418633,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 519285,
       "num": 519285,
       "word": "巴以冲突已致双方超4100人死亡",
@@ -201,6 +233,14 @@
       "onboard_time": 1697412869,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 443553,
+      "num": 443553,
+      "word": "支原体肺炎主要症状有2个",
+      "onboard_time": 1697418516,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434920,
@@ -267,22 +307,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 327040,
-      "num": 327040,
-      "word": "宋轶真的好懂i人",
-      "onboard_time": 1697418333,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 325378,
-      "num": 325378,
-      "word": "拜登称必须彻底消灭哈马斯",
-      "onboard_time": 1697418454,
-      "rank": 22,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 321560,
       "num": 321560,
       "word": "为什么领导的头像都是风景照",
@@ -297,6 +321,22 @@
       "onboard_time": 1697357912,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 286703,
+      "num": 286703,
+      "word": "杭州姑娘误点3两烧麦4顿没吃完",
+      "onboard_time": 1697419531,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285537,
+      "num": 285537,
+      "word": "为什么饮水机都在厕所旁边",
+      "onboard_time": 1697417974,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 279312,
@@ -323,20 +363,20 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 259691,
+      "num": 259691,
+      "word": "Taylor Swift演唱会大电影",
+      "onboard_time": 1697419773,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 257357,
       "num": 257357,
       "word": "米村拌饭 魏大勋来吃俺了",
       "onboard_time": 1697359354,
       "rank": 18,
       "category": "艺人,美食"
-    },
-    {
-      "raw_hot": 256091,
-      "num": 256091,
-      "word": "为什么饮水机都在厕所旁边",
-      "onboard_time": 1697417974,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 255619,
@@ -363,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 248694,
+      "num": 248694,
+      "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
+      "onboard_time": 1697419773,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240441,
       "num": 240441,
       "word": "凤凰传奇听了都得踢着正步出来",
@@ -385,6 +433,14 @@
       "onboard_time": 1697411966,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 236009,
+      "num": 236009,
+      "word": "i人才是e人的最佳补品",
+      "onboard_time": 1697419237,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 230570,
@@ -411,6 +467,22 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 218399,
+      "num": 218399,
+      "word": "男子中专毕业逆袭成大学副教授",
+      "onboard_time": 1697419714,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 218384,
+      "num": 218384,
+      "word": "长这么大终于分清五谷了",
+      "onboard_time": 1697418814,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "Alin说马嘉祺的相机太可爱了",
@@ -433,6 +505,14 @@
       "onboard_time": 1697381199,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204139,
+      "num": 204139,
+      "word": "同事点的奶茶底部裂开了",
+      "onboard_time": 1697419714,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 203071,
@@ -459,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199602,
+      "num": 199602,
+      "word": "曾黎私服穿搭",
+      "onboard_time": 1697419531,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 197261,
       "num": 197261,
       "word": "李昊直播",
@@ -467,20 +555,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195828,
+      "num": 195828,
+      "word": "世界粮食日",
+      "onboard_time": 1697418993,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194658,
       "num": 194658,
       "word": "朴灿烈单曲",
       "onboard_time": 1697418032,
       "rank": 36,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 188131,
-      "num": 188131,
-      "word": "支原体肺炎主要症状有2个",
-      "onboard_time": 1697418516,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187710,
@@ -515,12 +603,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 181108,
-      "num": 181108,
-      "word": "巴勒斯坦",
-      "onboard_time": 1697418633,
-      "rank": 43,
-      "category": "国外要闻"
+      "raw_hot": 175843,
+      "num": 175843,
+      "word": "ENHYPEN回归预告",
+      "onboard_time": 1697419654,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 175788,
@@ -529,6 +617,14 @@
       "onboard_time": 1697363492,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 172689,
+      "num": 172689,
+      "word": "杭州调整住房限购范围",
+      "onboard_time": 1697420012,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170364,
@@ -561,6 +657,14 @@
       "onboard_time": 1697417256,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157615,
+      "num": 157615,
+      "word": "江歌妈妈眼中有了精气神",
+      "onboard_time": 1697420070,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156051,
@@ -779,8 +883,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32371,
-      "num": 787808,
+      "raw_hot": 34183,
+      "num": 1042489,
       "word": "把青春华章写在祖国大地上",
       "onboard_time": 1697174497,
       "rank": 2,

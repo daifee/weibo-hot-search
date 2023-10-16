@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697418820307,
+  "endTime": 1697420085710,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -73,6 +73,14 @@
       "onboard_time": 1697325682,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2054950,
+      "num": 2054950,
+      "word": "不经意却很不卫生的行为",
+      "onboard_time": 1697418872,
+      "rank": 0,
+      "category": "知识科普"
     },
     {
       "raw_hot": 2020477,
@@ -236,11 +244,19 @@
     },
     {
       "raw_hot": 1244276,
-      "num": 816537,
+      "num": 963887,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1697413654,
       "rank": 1,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 1242015,
+      "num": 1242015,
+      "word": "拜登称必须彻底消灭哈马斯",
+      "onboard_time": 1697418454,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1219187,
@@ -835,6 +851,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 522420,
+      "num": 522420,
+      "word": "宋轶真的好懂i人",
+      "onboard_time": 1697418333,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 522361,
+      "num": 446939,
+      "word": "巴勒斯坦",
+      "onboard_time": 1697418633,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 519285,
       "num": 519285,
       "word": "巴以冲突已致双方超4100人死亡",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1697378739,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 443553,
+      "num": 443553,
+      "word": "支原体肺炎主要症状有2个",
+      "onboard_time": 1697418516,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443409,
@@ -1363,14 +1403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 327040,
-      "num": 327040,
-      "word": "宋轶真的好懂i人",
-      "onboard_time": 1697418333,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 326817,
       "num": 289589,
       "word": "邓为今天好清爽",
@@ -1385,14 +1417,6 @@
       "onboard_time": 1697342495,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 325378,
-      "num": 325378,
-      "word": "拜登称必须彻底消灭哈马斯",
-      "onboard_time": 1697418454,
-      "rank": 22,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 321560,
@@ -1563,6 +1587,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 286703,
+      "num": 286703,
+      "word": "杭州姑娘误点3两烧麦4顿没吃完",
+      "onboard_time": 1697419531,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 285537,
+      "num": 285537,
+      "word": "为什么饮水机都在厕所旁边",
+      "onboard_time": 1697417974,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 285533,
       "num": 285533,
       "word": "eStar怎么了",
@@ -1691,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259691,
+      "num": 259691,
+      "word": "Taylor Swift演唱会大电影",
+      "onboard_time": 1697419773,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 259015,
       "num": 259015,
       "word": "盖伦",
@@ -1713,14 +1761,6 @@
       "onboard_time": 1697339609,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 256091,
-      "num": 256091,
-      "word": "为什么饮水机都在厕所旁边",
-      "onboard_time": 1697417974,
-      "rank": 26,
-      "category": "幽默"
     },
     {
       "raw_hot": 255619,
@@ -1803,6 +1843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248694,
+      "num": 248694,
+      "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
+      "onboard_time": 1697419773,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 248083,
       "num": 248083,
       "word": "名侦探学院",
@@ -1873,6 +1921,14 @@
       "onboard_time": 1697411966,
       "rank": 21,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 236009,
+      "num": 236009,
+      "word": "i人才是e人的最佳补品",
+      "onboard_time": 1697419237,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 235324,
@@ -1971,6 +2027,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 218399,
+      "num": 218399,
+      "word": "男子中专毕业逆袭成大学副教授",
+      "onboard_time": 1697419714,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 218384,
+      "num": 218384,
+      "word": "长这么大终于分清五谷了",
+      "onboard_time": 1697418814,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 217996,
       "num": 217996,
       "word": "粉笔模考",
@@ -2041,6 +2113,14 @@
       "onboard_time": 1697345914,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 204139,
+      "num": 204139,
+      "word": "同事点的奶茶底部裂开了",
+      "onboard_time": 1697419714,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 203638,
@@ -2139,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199602,
+      "num": 199602,
+      "word": "曾黎私服穿搭",
+      "onboard_time": 1697419531,
+      "rank": 36,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 199148,
       "num": 199148,
       "word": "KPL",
@@ -2225,6 +2313,14 @@
       "onboard_time": 1697387008,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195828,
+      "num": 195828,
+      "word": "世界粮食日",
+      "onboard_time": 1697418993,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 195157,
@@ -2331,14 +2427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 188131,
-      "num": 188131,
-      "word": "支原体肺炎主要症状有2个",
-      "onboard_time": 1697418516,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 187710,
       "num": 187710,
       "word": "华浅被逼下跪",
@@ -2425,14 +2513,6 @@
       "onboard_time": 1697355693,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 181108,
-      "num": 181108,
-      "word": "巴勒斯坦",
-      "onboard_time": 1697418633,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 180397,
@@ -2523,6 +2603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 175843,
+      "num": 175843,
+      "word": "ENHYPEN回归预告",
+      "onboard_time": 1697419654,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175222,
       "num": 175222,
       "word": "田耕纪爱奇艺热度值破6000",
@@ -2585,6 +2673,14 @@
       "onboard_time": 1697370696,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172689,
+      "num": 172689,
+      "word": "杭州调整住房限购范围",
+      "onboard_time": 1697420012,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171735,
@@ -2713,6 +2809,14 @@
       "onboard_time": 1697380298,
       "rank": 42,
       "category": "自然"
+    },
+    {
+      "raw_hot": 157615,
+      "num": 157615,
+      "word": "江歌妈妈眼中有了精气神",
+      "onboard_time": 1697420070,
+      "rank": 47,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 156876,
@@ -3443,6 +3547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 34183,
+      "num": 1339177,
+      "word": "把青春华章写在祖国大地上",
+      "onboard_time": 1697174497,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 32992,
       "num": 43025,
       "word": "六旬大爷跳江勇救落水女子",
@@ -3464,14 +3576,6 @@
       "word": "张朝阳的物理课重庆开讲",
       "onboard_time": 1697335230,
       "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32371,
-      "num": 1339177,
-      "word": "把青春华章写在祖国大地上",
-      "onboard_time": 1697174497,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
