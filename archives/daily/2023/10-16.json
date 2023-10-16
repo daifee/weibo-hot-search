@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697452616715,
+  "endTime": 1697454896715,
   "band_list": [
     {
       "raw_hot": 3396639,
@@ -27,6 +27,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2273906,
+      "num": 2273906,
+      "word": "朱一龙 北大",
+      "onboard_time": 1697447073,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 2251159,
       "num": 497944,
       "word": "徐娇 能不能别吹我了我害怕",
@@ -41,14 +49,6 @@
       "onboard_time": 1697433755,
       "rank": 1,
       "category": "数码,艺人"
-    },
-    {
-      "raw_hot": 2203525,
-      "num": 2203525,
-      "word": "朱一龙 北大",
-      "onboard_time": 1697447073,
-      "rank": 5,
-      "category": "电影"
     },
     {
       "raw_hot": 2148982,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1586469,
+      "num": 1586469,
+      "word": "狗主人责任",
+      "onboard_time": 1697451692,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1456113,
       "num": 493376,
       "word": "吴雅婷问王栎鑫你嗓子还好吗",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 1319771,
-      "num": 329647,
+      "num": 338810,
       "word": "钟楚曦曾在七夕被分手",
       "onboard_time": 1697442812,
       "rank": 20,
@@ -209,6 +217,14 @@
       "onboard_time": 1697418633,
       "rank": 43,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1010542,
+      "num": 1010542,
+      "word": "MiuMiu钻石内裤",
+      "onboard_time": 1697453435,
+      "rank": 8,
+      "category": "时尚"
     },
     {
       "raw_hot": 995352,
@@ -427,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 616133,
+      "num": 616133,
+      "word": "街道办已动员数百人寻找肇事烈犬",
+      "onboard_time": 1697452773,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 614385,
       "num": 614385,
       "word": "小米14",
@@ -555,6 +579,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 506205,
+      "num": 506205,
+      "word": "被狗咬伤女童生命体征平稳",
+      "onboard_time": 1697451634,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500819,
       "num": 500819,
       "word": "杰瑞有那么多套床",
@@ -603,20 +635,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 486513,
-      "num": 486513,
-      "word": "狗主人责任",
-      "onboard_time": 1697451692,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 479617,
       "num": 479617,
       "word": "未拆封iPhone免开箱即可更新",
       "onboard_time": 1697421032,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 476008,
+      "num": 476008,
+      "word": "博主100元吃遍东北早市被指造假",
+      "onboard_time": 1697451395,
+      "rank": 32,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 469995,
@@ -635,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 466435,
-      "num": 466435,
-      "word": "博主100元吃遍东北早市被指造假",
-      "onboard_time": 1697451395,
-      "rank": 32,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 463406,
       "num": 463406,
       "word": "杨洋雀斑妆",
@@ -657,6 +681,14 @@
       "onboard_time": 1697421454,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 452996,
+      "num": 452996,
+      "word": "死掉的大闸蟹有多毒",
+      "onboard_time": 1697452534,
+      "rank": 41,
+      "category": "知识科普"
     },
     {
       "raw_hot": 451393,
@@ -795,6 +827,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 391454,
+      "num": 391454,
+      "word": "被田耕纪气死",
+      "onboard_time": 1697453311,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 383177,
       "num": 383177,
       "word": "喜茶红山动物园联名",
@@ -841,6 +881,14 @@
       "onboard_time": 1697419773,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361839,
+      "num": 361839,
+      "word": "赵露思 唤醒沉睡银天鹅",
+      "onboard_time": 1697453134,
+      "rank": 18,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 360741,
@@ -916,7 +964,7 @@
     },
     {
       "raw_hot": 344158,
-      "num": 241077,
+      "num": 342949,
       "word": "自建房造的丑 关我入住后什么事",
       "onboard_time": 1697451692,
       "rank": 30,
@@ -947,6 +995,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 333970,
+      "num": 333970,
+      "word": "塞尔维亚总统武契奇抵华",
+      "onboard_time": 1697453674,
+      "rank": 22,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 332023,
       "num": 332023,
       "word": "双相患者被12岁男孩治愈相约捡废品",
@@ -963,12 +1019,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 329778,
-      "num": 329778,
-      "word": "被狗咬伤女童生命体征平稳",
-      "onboard_time": 1697451634,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 329418,
+      "num": 329418,
+      "word": "赵丽颖工作室换头像",
+      "onboard_time": 1697453375,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 328911,
@@ -1019,6 +1075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 323081,
+      "num": 323081,
+      "word": "赵今麦在穿",
+      "onboard_time": 1697454035,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 321560,
       "num": 321560,
       "word": "为什么领导的头像都是风景照",
@@ -1057,6 +1121,22 @@
       "onboard_time": 1697422173,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 302357,
+      "num": 245022,
+      "word": "打滴时看到了司机师傅的群名",
+      "onboard_time": 1697453014,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 300548,
+      "num": 300548,
+      "word": "被确诊为纸吸管",
+      "onboard_time": 1697452836,
+      "rank": 25,
+      "category": "幽默"
     },
     {
       "raw_hot": 293646,
@@ -1227,6 +1307,14 @@
       "category": "艺人,美食"
     },
     {
+      "raw_hot": 256900,
+      "num": 244356,
+      "word": "刘诗诗谢娜同框看秀",
+      "onboard_time": 1697454517,
+      "rank": 31,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 255619,
       "num": 255619,
       "word": "张雨霏100蝶破纪录夺金",
@@ -1315,6 +1403,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 240821,
+      "num": 240821,
+      "word": "今天是A股6124点16周年",
+      "onboard_time": 1697452356,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 240441,
       "num": 240441,
       "word": "凤凰传奇听了都得踢着正步出来",
@@ -1395,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223831,
+      "num": 1268117,
+      "word": "学生将军训服洗干净后赠给环卫工人",
+      "onboard_time": 1697454336,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222810,
       "num": 222810,
       "word": "内娱甜妹妆造王者",
@@ -1443,6 +1547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212648,
+      "num": 212648,
+      "word": "中国在欧洲的铁杆朋友来了",
+      "onboard_time": 1697453674,
+      "rank": 37,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 212605,
       "num": 212605,
       "word": "杭州调整住房限购范围",
@@ -1489,14 +1601,6 @@
       "onboard_time": 1697444671,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 207891,
-      "num": 207891,
-      "word": "今天是A股6124点16周年",
-      "onboard_time": 1697452356,
-      "rank": 33,
-      "category": "财经"
     },
     {
       "raw_hot": 207722,
@@ -1619,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201398,
+      "num": 201398,
+      "word": "8旬老人手握竹竿十余年救下数百人",
+      "onboard_time": 1697454573,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201230,
       "num": 220983,
       "word": "女子溺水无呼吸心跳被民警坚持救回",
@@ -1665,6 +1777,14 @@
       "onboard_time": 1697387008,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197256,
+      "num": 197256,
+      "word": "DNTSS24大秀",
+      "onboard_time": 1697454214,
+      "rank": 42,
+      "category": "时尚"
     },
     {
       "raw_hot": 196333,
@@ -1737,6 +1857,14 @@
       "onboard_time": 1697429256,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190247,
+      "num": 190247,
+      "word": "仲溪午男狐狸",
+      "onboard_time": 1697454517,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 189628,
@@ -1859,14 +1987,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 171095,
-      "num": 171095,
-      "word": "死掉的大闸蟹有多毒",
-      "onboard_time": 1697452534,
-      "rank": 41,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 170945,
       "num": 170945,
       "word": "迪丽热巴候场小彩蛋",
@@ -1897,6 +2017,22 @@
       "onboard_time": 1697422294,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167819,
+      "num": 167819,
+      "word": "国足vs乌兹别克斯坦首发",
+      "onboard_time": 1697454395,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166029,
+      "num": 166029,
+      "word": "余华真的超爱",
+      "onboard_time": 1697454154,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 165635,
@@ -1937,6 +2073,14 @@
       "onboard_time": 1697422117,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 157572,
+      "num": 157572,
+      "word": "问心集集刀",
+      "onboard_time": 1697454813,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 156051,
