@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 12:20:31
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 12:34:18
 </p>
 </blockquote>
 <p>
@@ -1173,6 +1173,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%BF%99%E5%A5%97%E5%8F%AF%E4%BB%A5%E4%BB%A3%E6%89%80%E6%9C%89%E5%B0%8F%E8%AF%B4%23" target="weibo">
+陈都灵这套可以代所有小说（热度：1942492）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%88%96%E5%9C%A82024%E5%B9%B4%E5%87%BA%E7%8E%B0%E5%A4%A7%E8%90%A7%E6%9D%A1%E4%BB%A5%E6%9D%A5%E6%9C%80%E4%B8%A5%E9%87%8D%E5%B4%A9%E7%9B%98%23" target="weibo">
 美国或在2024年出现大萧条以来最严重崩盘（热度：1937005）
 </a>
@@ -1505,12 +1511,6 @@ K5133次旅客列车运行中脱轨（热度：1792980）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8E%E4%BC%A4%E4%BB%A5%E8%89%B2%E5%88%97%E5%A4%96%E4%BA%A4%E4%BA%BA%E5%91%98%E5%AE%B6%E5%B1%9E%E7%9A%84%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E6%8A%93%E8%8E%B7%23" target="weibo">
 扎伤以色列外交人员家属的嫌疑人被抓获（热度：1759463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E8%BF%99%E5%A5%97%E5%8F%AF%E4%BB%A5%E4%BB%A3%E6%89%80%E6%9C%89%E5%B0%8F%E8%AF%B4%23" target="weibo">
-陈都灵这套可以代所有小说（热度：1758095）
 </a>
 </li>
 
@@ -3141,6 +3141,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%86%8C%E5%BE%AE%E4%BF%A1%E8%BF%99%E4%B9%88%E9%9A%BE%23" target="weibo">
+原来外国人注册微信这么难（热度：1113887）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96%23" target="weibo">
 诺贝尔文学奖（热度：1113103）
 </a>
@@ -3687,12 +3693,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%86%8C%E5%BE%AE%E4%BF%A1%E8%BF%99%E4%B9%88%E9%9A%BE%23" target="weibo">
-原来外国人注册微信这么难（热度：978028）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B9%B0%E4%B8%8D%E8%B5%B7%E9%9D%A2%E5%8C%85%23" target="weibo">
 月薪一万买不起面包（热度：977206）
 </a>
@@ -3701,6 +3701,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E6%BB%A9%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E5%9C%A8%E6%B0%B4%E8%BE%B9%E6%91%94%E5%80%92%E5%90%8E%E6%B6%88%E5%A4%B1%E5%9C%A8%E6%B5%B7%E6%B5%AA%E4%B8%AD%23" target="weibo">
 海滩走失女童在水边摔倒后消失在海浪中（热度：975882）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%8B%98%E6%9F%A5%E6%97%A0%E9%94%99%E6%BC%8F%23" target="weibo">
+清华博士后当交警15年勘查无错漏（热度：975342）
 </a>
 </li>
 
@@ -3935,12 +3941,6 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%97%85%E6%B8%B8%E8%AE%A2%E4%B8%8D%E5%88%B0%E6%88%BF%E5%8F%AF%E6%8C%82%E6%80%A5%E8%AF%8A%E8%BF%87%E5%A4%9C%23" target="weibo">
 博主称旅游订不到房可挂急诊过夜（热度：935045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E5%8D%8E%E5%8D%9A%E5%A3%AB%E5%90%8E%E5%BD%93%E4%BA%A4%E8%AD%A615%E5%B9%B4%E5%8B%98%E6%9F%A5%E6%97%A0%E9%94%99%E6%BC%8F%23" target="weibo">
-清华博士后当交警15年勘查无错漏（热度：934936）
 </a>
 </li>
 

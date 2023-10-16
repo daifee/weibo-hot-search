@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697430031895,
+  "endTime": 1697430858241,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1942492,
+      "num": 347239,
+      "word": "陈都灵这套可以代所有小说",
+      "onboard_time": 1697427334,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1874909,
       "num": 1874909,
       "word": "向佐直播间情绪失控的原因",
@@ -161,14 +169,6 @@
       "onboard_time": 1697339429,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1758095,
-      "num": 347239,
-      "word": "陈都灵这套可以代所有小说",
-      "onboard_time": 1697427334,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 1747065,
@@ -323,6 +323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1113887,
+      "num": 941337,
+      "word": "原来外国人注册微信这么难",
+      "onboard_time": 1697425116,
+      "rank": 12,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1054002,
       "num": 596382,
       "word": "巴以冲突",
@@ -371,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 978028,
-      "num": 941337,
-      "word": "原来外国人注册微信这么难",
-      "onboard_time": 1697425116,
-      "rank": 12,
-      "category": "互联网"
+      "raw_hot": 975342,
+      "num": 975342,
+      "word": "清华博士后当交警15年勘查无错漏",
+      "onboard_time": 1697427936,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 968320,
@@ -401,14 +409,6 @@
       "onboard_time": 1697373155,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 934936,
-      "num": 934936,
-      "word": "清华博士后当交警15年勘查无错漏",
-      "onboard_time": 1697427936,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 908835,
@@ -1251,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 433718,
+      "num": 337864,
+      "word": "檀健次穿了网纱内搭",
+      "onboard_time": 1697429497,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 431282,
       "num": 327819,
       "word": "5个月婴儿误被捂脸4岁哥哥帮掀被",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1697349753,
       "rank": 19,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 387089,
-      "num": 337864,
-      "word": "檀健次穿了网纱内搭",
-      "onboard_time": 1697429497,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 386483,
@@ -1651,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320374,
+      "num": 300353,
+      "word": "国考报考人数最多的岗位",
+      "onboard_time": 1697427519,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 319719,
       "num": 308077,
       "word": "吴昕Amber芝芙cha了我姓石",
@@ -1665,6 +1673,14 @@
       "onboard_time": 1697339489,
       "rank": 36,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 314732,
+      "num": 314732,
+      "word": "陈晓到底跟唐晓天说了什么",
+      "onboard_time": 1697430219,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 313295,
@@ -1745,14 +1761,6 @@
       "onboard_time": 1697356834,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 300353,
-      "num": 300353,
-      "word": "国考报考人数最多的岗位",
-      "onboard_time": 1697427519,
-      "rank": 25,
-      "category": "教育"
     },
     {
       "raw_hot": 298655,
@@ -1915,6 +1923,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275902,
+      "num": 275902,
+      "word": "宋轶15岁到33岁荧幕变化",
+      "onboard_time": 1697429737,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275003,
       "num": 275003,
       "word": "陈奕迅演唱会国语粤语双声道",
@@ -2011,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260563,
+      "num": 260563,
+      "word": "阳江地震",
+      "onboard_time": 1697428721,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 259927,
       "num": 259927,
       "word": "马哲到底开了几枪",
@@ -2099,14 +2123,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 252806,
-      "num": 252806,
-      "word": "阳江地震",
-      "onboard_time": 1697428721,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 251953,
       "num": 251953,
       "word": "周杰伦上海1943",
@@ -2145,6 +2161,14 @@
       "onboard_time": 1697341654,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 248506,
+      "num": 248506,
+      "word": "加沙地带避难所已收容超40万巴勒斯坦人",
+      "onboard_time": 1697427635,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 248083,
@@ -2187,6 +2211,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 243674,
+      "num": 243674,
+      "word": "一带一路",
+      "onboard_time": 1697430397,
+      "rank": 32,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 242033,
       "num": 242033,
       "word": "重温一下cha的始祖鸟",
@@ -2195,11 +2227,11 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 240752,
-      "num": 240752,
-      "word": "加沙地带避难所已收容超40万巴勒斯坦人",
-      "onboard_time": 1697427635,
-      "rank": 32,
+      "raw_hot": 241023,
+      "num": 241023,
+      "word": "中方呼吁召开巴以冲突国际和会",
+      "onboard_time": 1697430097,
+      "rank": 34,
       "category": "国外要闻"
     },
     {
@@ -2331,6 +2363,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 222810,
+      "num": 222810,
+      "word": "内娱甜妹妆造王者",
+      "onboard_time": 1697429617,
+      "rank": 48,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 221401,
       "num": 221401,
       "word": "以国家安全顾问承认误判情报",
@@ -2395,6 +2435,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 209303,
+      "num": 209303,
+      "word": "进化的刚刚好又聪明又不用上班",
+      "onboard_time": 1697430397,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "Alin说马嘉祺的相机太可爱了",
@@ -2409,6 +2457,14 @@
       "onboard_time": 1697421333,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205972,
+      "num": 205972,
+      "word": "选择容易症",
+      "onboard_time": 1697430219,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 205401,
@@ -2441,6 +2497,14 @@
       "onboard_time": 1697345914,
       "rank": 38,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 204117,
+      "num": 204117,
+      "word": "中国崩铁战队全员晋级胜者组",
+      "onboard_time": 1697430460,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 203638,
@@ -2513,6 +2577,14 @@
       "onboard_time": 1697422898,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201974,
+      "num": 201974,
+      "word": "邓为口罩眼神杀",
+      "onboard_time": 1697430578,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 201566,
@@ -2619,14 +2691,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 197695,
-      "num": 197695,
-      "word": "宋轶15岁到33岁荧幕变化",
-      "onboard_time": 1697429737,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197560,
       "num": 197560,
       "word": "张雨绮带来的山东大葱比人高",
@@ -2699,6 +2763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 194275,
+      "num": 194275,
+      "word": "张元英一秒表情管理",
+      "onboard_time": 1697430697,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193617,
       "num": 193617,
       "word": "陈家平爱与不爱好明显",
@@ -2763,12 +2835,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191528,
+      "num": 191528,
+      "word": "白敬亭工作室说公主请来看现在就出发",
+      "onboard_time": 1697429256,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191235,
       "num": 191235,
       "word": "DRG战胜Wkk",
       "onboard_time": 1697372256,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 189217,
+      "num": 189217,
+      "word": "周一上班的我太需要这些话",
+      "onboard_time": 1697430761,
+      "rank": 49,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 188344,
@@ -2889,14 +2977,6 @@
       "onboard_time": 1697293236,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 179214,
-      "num": 179214,
-      "word": "白敬亭工作室说公主请来看现在就出发",
-      "onboard_time": 1697429256,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 179085,
@@ -3193,14 +3273,6 @@
       "onboard_time": 1697368415,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 159978,
-      "num": 159978,
-      "word": "内娱甜妹妆造王者",
-      "onboard_time": 1697429617,
-      "rank": 48,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 159488,
@@ -4011,6 +4083,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29360,
+      "num": 341321,
+      "word": "青春郑州炫舞世界",
+      "onboard_time": 1697429557,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29097,
       "num": 1101183,
       "word": "一带一路有你有我",
@@ -4073,14 +4153,6 @@
       "onboard_time": 1697399054,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17395,
-      "num": 341321,
-      "word": "青春郑州炫舞世界",
-      "onboard_time": 1697429557,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 15171,
