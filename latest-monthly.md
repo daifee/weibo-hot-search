@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 19:14:56
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 19:34:27
 </p>
 </blockquote>
 <p>
@@ -1263,6 +1263,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B4%A3%E4%BB%BB%23" target="weibo">
+狗主人责任（热度：1907537）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
 狗头萝莉发文致歉（热度：1895203）
 </a>
@@ -1947,12 +1953,6 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B4%A3%E4%BB%BB%23" target="weibo">
-狗主人责任（热度：1586469）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E4%BA%86%E6%96%B0%E5%A5%BD%E5%8F%8B%E5%85%88%E7%9C%8B%E8%87%AA%E5%B7%B1%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
 加了新好友先看自己朋友圈（热度：1581971）
 </a>
@@ -2087,6 +2087,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%A0%E4%B8%BA%E8%A2%AB%E5%98%B2%E7%AC%91%E8%8B%B1%E6%96%87%E5%8E%BB%E6%BC%94%E4%BA%86%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88%23" target="weibo">
 黄晓明因为被嘲笑英文去演了英语老师（热度：1525476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23MiuMiu%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4%23" target="weibo">
+MiuMiu钻石内裤（热度：1522801）
 </a>
 </li>
 
@@ -2931,6 +2937,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E5%B7%B2%E5%8A%A8%E5%91%98%E6%95%B0%E7%99%BE%E4%BA%BA%E5%AF%BB%E6%89%BE%E8%82%87%E4%BA%8B%E7%83%88%E7%8A%AC%23" target="weibo">
+街道办已动员数百人寻找肇事烈犬（热度：1208821）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E4%B8%A4%E6%9E%9A%E9%93%B6%E7%89%8C%23" target="weibo">
 柯洁两枚银牌（热度：1208002）
 </a>
@@ -3629,12 +3641,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2395%E5%90%8E%E5%A5%B3%E6%A8%A1%E7%89%B9%E4%B8%BA%E7%94%B7%E5%8F%8B%E5%A2%9E%E8%82%A569%E6%96%A4%E5%90%8E%E8%A2%AB%E6%8A%9B%E5%BC%83%23" target="weibo">
 95后女模特为男友增肥69斤后被抛弃（热度：1010811）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23MiuMiu%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4%23" target="weibo">
-MiuMiu钻石内裤（热度：1010542）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ LV卖不动了吗（热度：698408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E5%85%A8%E9%98%9F%E5%90%91%E6%B0%B4%E5%BA%86%E9%9C%9E%E9%9E%A0%E8%BA%AC%23" target="weibo">
 日本女足全队向水庆霞鞠躬（热度：696787）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E8%BF%9B%E4%BA%9A%E8%BF%904%E5%BC%BA%23" target="weibo">
-陈雨菲进亚运4强（热度：696755）
 </a>
 </li>
 
