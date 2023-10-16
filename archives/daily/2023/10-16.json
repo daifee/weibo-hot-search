@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697447904288,
+  "endTime": 1697448864674,
   "band_list": [
     {
       "raw_hot": 3396639,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2625858,
+      "num": 2625858,
+      "word": "麻酱拿铁",
+      "onboard_time": 1697446056,
+      "rank": 0,
+      "category": "美食"
+    },
+    {
       "raw_hot": 2251159,
       "num": 497944,
       "word": "徐娇 能不能别吹我了我害怕",
@@ -33,14 +41,6 @@
       "onboard_time": 1697433755,
       "rank": 1,
       "category": "数码,艺人"
-    },
-    {
-      "raw_hot": 2156128,
-      "num": 2156128,
-      "word": "麻酱拿铁",
-      "onboard_time": 1697446056,
-      "rank": 0,
-      "category": "美食"
     },
     {
       "raw_hot": 2148982,
@@ -73,6 +73,14 @@
       "onboard_time": 1697442273,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1877572,
+      "num": 1877572,
+      "word": "朱一龙 北大",
+      "onboard_time": 1697447073,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1820817,
@@ -219,6 +227,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 928108,
+      "num": 820071,
+      "word": "派出所回应一幼儿小区内遭未拴绳大狗撕咬",
+      "onboard_time": 1697443232,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 896764,
       "num": 896764,
       "word": "公办教师调入镇政府30年退休发现没编制",
@@ -291,14 +307,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 820071,
-      "num": 820071,
-      "word": "派出所回应一幼儿小区内遭未拴绳大狗撕咬",
-      "onboard_time": 1697443232,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 786521,
       "num": 786521,
       "word": "徐穗珍将solo歌手出道",
@@ -315,12 +323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 769485,
-      "num": 769485,
-      "word": "朱一龙 北大",
-      "onboard_time": 1697447073,
-      "rank": 5,
-      "category": "电影"
+      "raw_hot": 751780,
+      "num": 751780,
+      "word": "我们四个把日子过好比什么都强",
+      "onboard_time": 1697444733,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 751534,
@@ -353,14 +361,6 @@
       "onboard_time": 1697366314,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 698933,
-      "num": 698933,
-      "word": "我们四个把日子过好比什么都强",
-      "onboard_time": 1697444733,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 698706,
@@ -771,6 +771,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 370257,
+      "num": 370257,
+      "word": "为何找对象要看脸",
+      "onboard_time": 1697445694,
+      "rank": 15,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 369815,
       "num": 266434,
       "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
@@ -795,6 +803,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 357559,
+      "num": 357559,
+      "word": "田耕纪的女导演女编剧们",
+      "onboard_time": 1697447673,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356952,
       "num": 356952,
       "word": "韩国地铁上看到爱宝双胞胎视频",
@@ -811,20 +827,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 352225,
-      "num": 352225,
-      "word": "为何找对象要看脸",
-      "onboard_time": 1697445694,
-      "rank": 15,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 350765,
       "num": 293999,
       "word": "什么病挂什么科",
       "onboard_time": 1697420430,
       "rank": 23,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 350554,
+      "num": 350554,
+      "word": "拜登称以色列不应占领加沙",
+      "onboard_time": 1697446173,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 350146,
@@ -1067,6 +1083,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 261974,
+      "num": 261974,
+      "word": "罗威纳",
+      "onboard_time": 1697447194,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260563,
       "num": 260563,
       "word": "阳江地震",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1697381617,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 251053,
-      "num": 276308,
-      "word": "拜登称以色列不应占领加沙",
-      "onboard_time": 1697446173,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 249361,
@@ -1363,6 +1379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205794,
+      "num": 221860,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1697448394,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 205365,
       "num": 205365,
       "word": "黄晓明去了周杰伦演唱会",
@@ -1436,11 +1460,19 @@
     },
     {
       "raw_hot": 201230,
-      "num": 218121,
+      "num": 220983,
       "word": "女子溺水无呼吸心跳被民警坚持救回",
       "onboard_time": 1697446355,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200251,
+      "num": 200251,
+      "word": "麦迪出演鹅厂NBA宣传片",
+      "onboard_time": 1697448215,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 199718,
@@ -1603,14 +1635,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 180236,
-      "num": 180236,
-      "word": "罗威纳",
-      "onboard_time": 1697447194,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 177901,
       "num": 177901,
       "word": "AR对阵Entity",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1697363492,
       "rank": 28,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 174067,
+      "num": 174067,
+      "word": "主降临 主认可",
+      "onboard_time": 1697448514,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 172414,
@@ -1667,20 +1699,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165635,
+      "num": 165635,
+      "word": "TES战胜BOA",
+      "onboard_time": 1697447795,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164974,
       "num": 164974,
       "word": "段奥娟进组电影永不失联的爱",
       "onboard_time": 1697383417,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 163758,
-      "num": 163758,
-      "word": "田耕纪的女导演女编剧们",
-      "onboard_time": 1697447673,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 162977,
@@ -1763,6 +1795,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 147006,
+      "num": 147006,
+      "word": "微博迎新之夜",
+      "onboard_time": 1697448095,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 145573,
       "num": 145573,
       "word": "胡兵 陈楚生站哥",
@@ -1843,6 +1883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133824,
+      "num": 133824,
+      "word": "周也无处安放的手",
+      "onboard_time": 1697448812,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132082,
       "num": 132082,
       "word": "XCG冠军",
@@ -1859,11 +1907,11 @@
       "category": "美食"
     },
     {
-      "raw_hot": 123846,
-      "num": 123846,
-      "word": "TES战胜BOA",
-      "onboard_time": 1697447795,
-      "rank": 46,
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "XHW对战狼队",
+      "onboard_time": 1697447614,
+      "rank": 49,
       "category": "电竞"
     },
     {
@@ -2019,20 +2067,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66801,
+      "num": 1440580,
+      "word": "牡丹与玫瑰的丝路流芳",
+      "onboard_time": 1697443173,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65348,
       "num": 65348,
       "word": "胡彦斌对四十岁的理解很通透",
       "onboard_time": 1697403432,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65264,
-      "num": 1064535,
-      "word": "牡丹与玫瑰的丝路流芳",
-      "onboard_time": 1697443173,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54016,

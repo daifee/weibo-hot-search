@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697447904288,
+  "endTime": 1697448864674,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -41,6 +41,14 @@
       "onboard_time": 1697342254,
       "rank": 1,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2625858,
+      "num": 2625858,
+      "word": "麻酱拿铁",
+      "onboard_time": 1697446056,
+      "rank": 0,
+      "category": "美食"
     },
     {
       "raw_hot": 2485511,
@@ -87,14 +95,6 @@
       "num": 2178230,
       "word": "瑞幸要和dior联名了吗",
       "onboard_time": 1697340870,
-      "rank": 0,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 2156128,
-      "num": 2156128,
-      "word": "麻酱拿铁",
-      "onboard_time": 1697446056,
       "rank": 0,
       "category": "美食"
     },
@@ -161,6 +161,14 @@
       "onboard_time": 1697442273,
       "rank": 1,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1877572,
+      "num": 1877572,
+      "word": "朱一龙 北大",
+      "onboard_time": 1697447073,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 1874909,
@@ -491,6 +499,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 928108,
+      "num": 820071,
+      "word": "派出所回应一幼儿小区内遭未拴绳大狗撕咬",
+      "onboard_time": 1697443232,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 908835,
       "num": 908835,
       "word": "金鸡奖 掉提名的大热门",
@@ -611,14 +627,6 @@
       "category": "国外要闻,军事"
     },
     {
-      "raw_hot": 820071,
-      "num": 820071,
-      "word": "派出所回应一幼儿小区内遭未拴绳大狗撕咬",
-      "onboard_time": 1697443232,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 816570,
       "num": 335440,
       "word": "认知严重障碍的大爷在美发店消费60万",
@@ -683,20 +691,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 769485,
-      "num": 769485,
-      "word": "朱一龙 北大",
-      "onboard_time": 1697447073,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 759133,
       "num": 759133,
       "word": "BBC总部被亲巴勒斯坦组织泼红漆",
       "onboard_time": 1697365294,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 751780,
+      "num": 751780,
+      "word": "我们四个把日子过好比什么都强",
+      "onboard_time": 1697444733,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 749274,
@@ -721,14 +729,6 @@
       "onboard_time": 1697422474,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 698933,
-      "num": 698933,
-      "word": "我们四个把日子过好比什么都强",
-      "onboard_time": 1697444733,
-      "rank": 23,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 698706,
@@ -1763,6 +1763,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 370257,
+      "num": 370257,
+      "word": "为何找对象要看脸",
+      "onboard_time": 1697445694,
+      "rank": 15,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 369815,
       "num": 266434,
       "word": "网友吐槽海底捞拒绝给棉花娃娃过生日",
@@ -1819,6 +1827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357559,
+      "num": 357559,
+      "word": "田耕纪的女导演女编剧们",
+      "onboard_time": 1697447673,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 356952,
       "num": 356952,
       "word": "韩国地铁上看到爱宝双胞胎视频",
@@ -1867,20 +1883,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 352225,
-      "num": 352225,
-      "word": "为何找对象要看脸",
-      "onboard_time": 1697445694,
-      "rank": 15,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 350765,
       "num": 293999,
       "word": "什么病挂什么科",
       "onboard_time": 1697420430,
       "rank": 23,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 350554,
+      "num": 350554,
+      "word": "拜登称以色列不应占领加沙",
+      "onboard_time": 1697446173,
+      "rank": 19,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 350146,
@@ -2427,6 +2443,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 261974,
+      "num": 261974,
+      "word": "罗威纳",
+      "onboard_time": 1697447194,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 261025,
       "num": 205458,
       "word": "宋轶当演员克服了全家阻碍",
@@ -2561,14 +2585,6 @@
       "onboard_time": 1697367936,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251053,
-      "num": 276308,
-      "word": "拜登称以色列不应占领加沙",
-      "onboard_time": 1697446173,
-      "rank": 19,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 250911,
@@ -2955,6 +2971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 205794,
+      "num": 221860,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1697448394,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 205401,
       "num": 646586,
       "word": "医院开设共享厨房设备免费用食材零加价",
@@ -3092,7 +3116,7 @@
     },
     {
       "raw_hot": 201230,
-      "num": 218121,
+      "num": 220983,
       "word": "女子溺水无呼吸心跳被民警坚持救回",
       "onboard_time": 1697446355,
       "rank": 28,
@@ -3121,6 +3145,14 @@
       "onboard_time": 1697369014,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200251,
+      "num": 200251,
+      "word": "麦迪出演鹅厂NBA宣传片",
+      "onboard_time": 1697448215,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 199718,
@@ -3523,14 +3555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 180236,
-      "num": 180236,
-      "word": "罗威纳",
-      "onboard_time": 1697447194,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 179881,
       "num": 169220,
       "word": "玲娜贝儿也是工龄两年的小童模了",
@@ -3675,6 +3699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174067,
+      "num": 174067,
+      "word": "主降临 主认可",
+      "onboard_time": 1697448514,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 173499,
       "num": 173499,
       "word": "周星驰邀宋康昊参演少林女足",
@@ -3779,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165635,
+      "num": 165635,
+      "word": "TES战胜BOA",
+      "onboard_time": 1697447795,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165212,
       "num": 165212,
       "word": "一群小猫和一群小狗首次见面",
@@ -3793,14 +3833,6 @@
       "onboard_time": 1697336371,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163758,
-      "num": 163758,
-      "word": "田耕纪的女导演女编剧们",
-      "onboard_time": 1697447673,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 162970,
@@ -4027,6 +4059,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 147006,
+      "num": 147006,
+      "word": "微博迎新之夜",
+      "onboard_time": 1697448095,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146880,
       "num": 146880,
       "word": "PSG对战BDS",
@@ -4211,6 +4251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 133824,
+      "num": 133824,
+      "word": "周也无处安放的手",
+      "onboard_time": 1697448812,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132895,
       "num": 132895,
       "word": "民警4次救助同1老人熟门熟路送回家",
@@ -4299,20 +4347,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123846,
-      "num": 123846,
-      "word": "TES战胜BOA",
-      "onboard_time": 1697447795,
-      "rank": 46,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 123053,
       "num": 115563,
       "word": "周杰伦知道王冰冰用他点奶茶吗",
       "onboard_time": 1697270250,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122766,
+      "num": 122766,
+      "word": "XHW对战狼队",
+      "onboard_time": 1697447614,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 122353,
@@ -4603,20 +4651,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66801,
+      "num": 1440580,
+      "word": "牡丹与玫瑰的丝路流芳",
+      "onboard_time": 1697443173,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65348,
       "num": 65348,
       "word": "胡彦斌对四十岁的理解很通透",
       "onboard_time": 1697403432,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65264,
-      "num": 1064535,
-      "word": "牡丹与玫瑰的丝路流芳",
-      "onboard_time": 1697443173,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 64599,
