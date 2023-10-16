@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697460657727,
+  "endTime": 1697462516171,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2757767,
+      "num": 1907537,
+      "word": "狗主人责任",
+      "onboard_time": 1697451692,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2672555,
       "num": 2672555,
       "word": "夏奶奶去世",
@@ -57,14 +65,6 @@
       "onboard_time": 1697357912,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2351017,
-      "num": 1907537,
-      "word": "狗主人责任",
-      "onboard_time": 1697451692,
-      "rank": 11,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2290994,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1910803,
-      "num": 343916,
+      "num": 527389,
       "word": "拉布拉多",
       "onboard_time": 1697456313,
       "rank": 10,
@@ -267,8 +267,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1617686,
-      "num": 1617686,
+      "raw_hot": 1636557,
+      "num": 1636557,
       "word": "街道办已动员数百人寻找肇事烈犬",
       "onboard_time": 1697452773,
       "rank": 9,
@@ -441,6 +441,14 @@
       "onboard_time": 1697425116,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1104729,
+      "num": 257326,
+      "word": "宋仲基说儿子嘴唇最像自己",
+      "onboard_time": 1697460153,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1068005,
@@ -795,6 +803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 711944,
+      "num": 711944,
+      "word": "成都咬伤女童大黑狗有主人",
+      "onboard_time": 1697460934,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698706,
       "num": 698706,
       "word": "肖战GUCCI大片",
@@ -833,6 +849,14 @@
       "onboard_time": 1697381077,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 691897,
+      "num": 566478,
+      "word": "被大型犬撕咬女童母亲发声",
+      "onboard_time": 1697459374,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686649,
@@ -1292,7 +1316,7 @@
     },
     {
       "raw_hot": 514467,
-      "num": 277436,
+      "num": 423926,
       "word": "特斯拉车主高速多次别车被刑拘",
       "onboard_time": 1697458474,
       "rank": 19,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1697369554,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 506229,
+      "num": 506229,
+      "word": "警方辟谣大型犬主人被孩子家长砍了",
+      "onboard_time": 1697460633,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 506205,
@@ -1428,7 +1460,7 @@
     },
     {
       "raw_hot": 483741,
-      "num": 235068,
+      "num": 254136,
       "word": "毕业五年了辅导员突然叫我干活",
       "onboard_time": 1697459854,
       "rank": 21,
@@ -1553,6 +1585,14 @@
       "onboard_time": 1697341353,
       "rank": 12,
       "category": "体育,财经"
+    },
+    {
+      "raw_hot": 451882,
+      "num": 451882,
+      "word": "小伙租123平房子花4万改造成理想的家",
+      "onboard_time": 1697460333,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 451393,
@@ -1707,14 +1747,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 422616,
-      "num": 231364,
-      "word": "宋仲基说儿子嘴唇最像自己",
-      "onboard_time": 1697460153,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 422452,
       "num": 264317,
       "word": "突然明白了为什么叫蒜头鼻",
@@ -1723,20 +1755,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 420460,
+      "num": 420460,
+      "word": "明天秋裤备好",
+      "onboard_time": 1697457093,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417218,
       "num": 305306,
       "word": "王栎鑫白毛",
       "onboard_time": 1697287593,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 415939,
-      "num": 275889,
-      "word": "被大型犬撕咬女童母亲发声",
-      "onboard_time": 1697459374,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 414937,
@@ -2435,6 +2467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 299950,
+      "num": 299950,
+      "word": "范丞丞唱了魏大勋他只是经过",
+      "onboard_time": 1697461115,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 298655,
       "num": 298655,
       "word": "WBG抽签",
@@ -2739,6 +2779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261262,
+      "num": 261262,
+      "word": "肯豆为什么痘痘没了",
+      "onboard_time": 1697460092,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 261025,
       "num": 205458,
       "word": "宋轶当演员克服了全家阻碍",
@@ -2793,14 +2841,6 @@
       "onboard_time": 1697417919,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 255575,
-      "num": 255575,
-      "word": "明天秋裤备好",
-      "onboard_time": 1697457093,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 255470,
@@ -2947,6 +2987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246657,
+      "num": 246657,
+      "word": "韦世豪破门",
+      "onboard_time": 1697459914,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 246613,
       "num": 246613,
       "word": "孙雯当选足协副主席",
@@ -2969,6 +3017,14 @@
       "onboard_time": 1697430397,
       "rank": 32,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 242266,
+      "num": 242266,
+      "word": "双十一",
+      "onboard_time": 1697460574,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 242033,
@@ -3115,14 +3171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228670,
-      "num": 228670,
-      "word": "韦世豪破门",
-      "onboard_time": 1697459914,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 228268,
       "num": 228268,
       "word": "王牌家族全员回复贾玲",
@@ -3235,12 +3283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 216213,
-      "num": 196533,
-      "word": "肯豆为什么痘痘没了",
-      "onboard_time": 1697460092,
-      "rank": 30,
-      "category": "美妆"
+      "raw_hot": 214837,
+      "num": 214837,
+      "word": "淄博民警腾出宿舍让游客母子过夜",
+      "onboard_time": 1697461355,
+      "rank": 26,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 213659,
@@ -3377,6 +3425,14 @@
       "onboard_time": 1697448394,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 205723,
+      "num": 205723,
+      "word": "一带一路国际合作高峰论坛开幕式",
+      "onboard_time": 1697462135,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 205425,
@@ -3827,6 +3883,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192656,
+      "num": 192656,
+      "word": "AG 韧性",
+      "onboard_time": 1697462074,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192428,
+      "num": 192428,
+      "word": "演唱会大合唱真的很好哭",
+      "onboard_time": 1697459914,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 192318,
       "num": 192318,
       "word": "金鸡奖提名名单是如何评选产生的",
@@ -4043,6 +4115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180210,
+      "num": 180210,
+      "word": "学网红拍粉底把自己拍流鼻血",
+      "onboard_time": 1697461594,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 179881,
       "num": 169220,
       "word": "玲娜贝儿也是工龄两年的小童模了",
@@ -4081,14 +4161,6 @@
       "onboard_time": 1697369973,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178305,
-      "num": 178305,
-      "word": "演唱会大合唱真的很好哭",
-      "onboard_time": 1697459914,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 177901,
@@ -4208,14 +4280,6 @@
       "word": "援藏组15年戈壁滩上种200万棵苗木",
       "onboard_time": 1697450434,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 173845,
-      "num": 173845,
-      "word": "小伙租123平房子花4万改造成理想的家",
-      "onboard_time": 1697460333,
-      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -4763,14 +4827,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 138511,
-      "num": 138511,
-      "word": "双十一",
-      "onboard_time": 1697460574,
-      "rank": 43,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 138307,
       "num": 357177,
       "word": "淘宝买菜打拼价玩的是商战",
@@ -4984,14 +5040,6 @@
       "word": "当外国留学生遇见山东乡村振兴",
       "onboard_time": 1697383059,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 119170,
-      "num": 119170,
-      "word": "警方辟谣大型犬主人被孩子家长砍了",
-      "onboard_time": 1697460633,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -5331,20 +5379,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51876,
+      "num": 984337,
+      "word": "杭州亚残运村今天开村了",
+      "onboard_time": 1697442873,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51588,
       "num": 51588,
       "word": "英媒驻加沙记者失联前视频",
       "onboard_time": 1697397734,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 49395,
-      "num": 984337,
-      "word": "杭州亚残运村今天开村了",
-      "onboard_time": 1697442873,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 43831,
