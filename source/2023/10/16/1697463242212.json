@@ -1,0 +1,410 @@
+{
+  "runTime": 1697463242212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1643941,
+        "num": 1643941,
+        "word": "街道办已动员数百人寻找肇事烈犬",
+        "onboard_time": 1697452773,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946378,
+        "num": 946378,
+        "word": "朱一龙 北大",
+        "onboard_time": 1697447073,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40908,
+        "num": 717464,
+        "word": "杭州亚残运村今天开村了",
+        "onboard_time": 1697442873,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2709098,
+        "num": 687838,
+        "word": "狗主人责任",
+        "onboard_time": 1697451692,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 601412,
+        "num": 601412,
+        "word": "孟子义问范丞丞是不是创造营第一",
+        "onboard_time": 1697459013,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 581113,
+        "num": 581113,
+        "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
+        "onboard_time": 1697448994,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1141209,
+        "num": 571868,
+        "word": "成都咬伤女童大黑狗有主人",
+        "onboard_time": 1697460934,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 536101,
+        "num": 536101,
+        "word": "警方辟谣大型犬主人被孩子家长砍了",
+        "onboard_time": 1697460633,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500770,
+        "num": 500770,
+        "word": "白鹿带闺蜜看五月天演唱会",
+        "onboard_time": 1697459134,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 829698,
+        "num": 496728,
+        "word": "被大型犬撕咬女童母亲发声",
+        "onboard_time": 1697459374,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 517323,
+        "num": 467671,
+        "word": "两大型犬撕咬2岁半女童致严重受伤",
+        "onboard_time": 1697440172,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431837,
+        "num": 431837,
+        "word": "特斯拉车主高速多次别车被刑拘",
+        "onboard_time": 1697458474,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1556085,
+        "num": 431418,
+        "word": "拉布拉多",
+        "onboard_time": 1697456313,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409329,
+        "num": 409329,
+        "word": "小伙租123平房子花4万改造成理想的家",
+        "onboard_time": 1697460333,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406268,
+        "num": 406268,
+        "word": "小胖 努力三年只为和你顶峰相见",
+        "onboard_time": 1697457213,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 562780,
+        "num": 405650,
+        "word": "母亲讲述女童被大型犬撕咬致肾破裂",
+        "onboard_time": 1697456490,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 398144,
+        "num": 398144,
+        "word": "明天秋裤备好",
+        "onboard_time": 1697457093,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349213,
+        "num": 349213,
+        "word": "范丞丞唱了魏大勋他只是经过",
+        "onboard_time": 1697461115,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 322801,
+        "num": 322801,
+        "word": "一带一路国际合作高峰论坛开幕式",
+        "onboard_time": 1697462135,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 288139,
+        "num": 288139,
+        "word": "刘诗诗谢娜同框看秀",
+        "onboard_time": 1697454517,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 1094285,
+        "num": 279778,
+        "word": "宋仲基说儿子嘴唇最像自己",
+        "onboard_time": 1697460153,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 938395,
+        "num": 276618,
+        "word": "MiuMiu钻石内裤",
+        "onboard_time": 1697453435,
+        "rank": 21,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 448130,
+        "num": 276581,
+        "word": "毕业五年了辅导员突然叫我干活",
+        "onboard_time": 1697459854,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268059,
+        "num": 268059,
+        "word": "问心",
+        "onboard_time": 1697462795,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267789,
+        "num": 267789,
+        "word": "肯豆为什么痘痘没了",
+        "onboard_time": 1697460092,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 236390,
+        "num": 236390,
+        "word": "双十一",
+        "onboard_time": 1697460574,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 233582,
+        "num": 233582,
+        "word": "国足vs乌兹别克斯坦",
+        "onboard_time": 1697455655,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221294,
+        "num": 221294,
+        "word": "被田耕纪气死",
+        "onboard_time": 1697453311,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218704,
+        "num": 218704,
+        "word": "韦世豪破门",
+        "onboard_time": 1697459914,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210521,
+        "num": 210521,
+        "word": "AG 韧性",
+        "onboard_time": 1697462074,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192139,
+        "num": 192139,
+        "word": "学网红拍粉底把自己拍流鼻血",
+        "onboard_time": 1697461594,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 191997,
+        "num": 191997,
+        "word": "AG对战TTG",
+        "onboard_time": 1697459553,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187840,
+        "num": 187840,
+        "word": "钟楚曦曾在七夕被分手",
+        "onboard_time": 1697442812,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184734,
+        "num": 184734,
+        "word": "我们四个把日子过好比什么都强",
+        "onboard_time": 1697444733,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 182685,
+        "num": 182685,
+        "word": "彭楚粤直播",
+        "onboard_time": 1697462976,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178312,
+        "num": 178312,
+        "word": "演唱会大合唱真的很好哭",
+        "onboard_time": 1697459914,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 174177,
+        "num": 174177,
+        "word": "杨千嬅 笑中有泪的是这首歌",
+        "onboard_time": 1697463094,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 166840,
+        "num": 166840,
+        "word": "死掉的大闸蟹有多毒",
+        "onboard_time": 1697452534,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 150818,
+        "num": 150818,
+        "word": "赵今麦在穿",
+        "onboard_time": 1697454035,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150100,
+        "num": 150100,
+        "word": "蔡文静美拉德穿搭",
+        "onboard_time": 1697458893,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148899,
+        "num": 148899,
+        "word": "韩国10代爱豆理想型TOP10",
+        "onboard_time": 1697462735,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147839,
+        "num": 147839,
+        "word": "淄博民警腾出宿舍让游客母子过夜",
+        "onboard_time": 1697461355,
+        "rank": 41,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 144843,
+        "num": 144843,
+        "word": "赵丽颖工作室换头像",
+        "onboard_time": 1697453375,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143826,
+        "num": 143826,
+        "word": "迪丽热巴秦岚周也美女贴贴",
+        "onboard_time": 1697439811,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 143374,
+        "num": 143374,
+        "word": "麻酱拿铁",
+        "onboard_time": 1697446056,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143015,
+        "num": 143015,
+        "word": "博主100元吃遍东北早市被指造假",
+        "onboard_time": 1697451395,
+        "rank": 45,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 142739,
+        "num": 142739,
+        "word": "徐穗珍与BRD公司签约",
+        "onboard_time": 1697457994,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129649,
+        "num": 129649,
+        "word": "韩火火大秀集齐顶流综艺",
+        "onboard_time": 1697456432,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 128178,
+        "num": 128178,
+        "word": "外交部建议在以中国公民尽快回国",
+        "onboard_time": 1697444131,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 126792,
+        "num": 126792,
+        "word": "莲花楼台词中的治愈感",
+        "onboard_time": 1697458534,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路十年之约#"
+    }
+  }
+}
