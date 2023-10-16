@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697451555348,
+  "endTime": 1697452616715,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1707,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1877873,
+      "num": 1877873,
+      "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
+      "onboard_time": 1697448994,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1874909,
       "num": 1874909,
       "word": "向佐直播间情绪失控的原因",
@@ -2233,14 +2241,6 @@
       "onboard_time": 1696211430,
       "rank": 1,
       "category": "科技"
-    },
-    {
-      "raw_hot": 1691717,
-      "num": 1691717,
-      "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
-      "onboard_time": 1697448994,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1690933,
@@ -3460,7 +3460,7 @@
     },
     {
       "raw_hot": 1319771,
-      "num": 325042,
+      "num": 329647,
       "word": "钟楚曦曾在七夕被分手",
       "onboard_time": 1697442812,
       "rank": 20,
@@ -12579,6 +12579,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 486513,
+      "num": 486513,
+      "word": "狗主人责任",
+      "onboard_time": 1697451692,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485366,
       "num": 485366,
       "word": "福宝妹妹们叫睿宝辉宝",
@@ -13193,6 +13201,14 @@
       "onboard_time": 1696851815,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 466435,
+      "num": 466435,
+      "word": "博主100元吃遍东北早市被指造假",
+      "onboard_time": 1697451395,
+      "rank": 32,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 466349,
@@ -14187,6 +14203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 441422,
+      "num": 441422,
+      "word": "拜登回应巴勒斯坦裔男孩被刺死",
+      "onboard_time": 1697448934,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 441007,
       "num": 441007,
       "word": "全中国最难摸鱼的工位",
@@ -14273,6 +14297,14 @@
       "onboard_time": 1696650941,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436976,
+      "num": 436976,
+      "word": "重庆震感",
+      "onboard_time": 1697450253,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436838,
@@ -14761,14 +14793,6 @@
       "onboard_time": 1697118641,
       "rank": 20,
       "category": "网红,社会新闻"
-    },
-    {
-      "raw_hot": 420741,
-      "num": 420741,
-      "word": "拜登回应巴勒斯坦裔男孩被刺死",
-      "onboard_time": 1697448934,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 420636,
@@ -15673,6 +15697,14 @@
       "onboard_time": 1696330595,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 393895,
+      "num": 393895,
+      "word": "主降临 主认可",
+      "onboard_time": 1697448514,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 393871,
@@ -17475,14 +17507,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 356606,
-      "num": 356606,
-      "word": "主降临 主认可",
-      "onboard_time": 1697448514,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 356545,
       "num": 356545,
       "word": "林凯想和成毅三搭",
@@ -18235,6 +18259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344158,
+      "num": 241077,
+      "word": "自建房造的丑 关我入住后什么事",
+      "onboard_time": 1697451692,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 343890,
       "num": 333911,
       "word": "纯狱风是白敬亭的统治区",
@@ -18545,6 +18577,14 @@
       "onboard_time": 1697265273,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337638,
+      "num": 1910930,
+      "word": "深圳一大楼贴膜防止鸟撞",
+      "onboard_time": 1697440533,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337364,
@@ -18987,6 +19027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 329778,
+      "num": 329778,
+      "word": "被狗咬伤女童生命体征平稳",
+      "onboard_time": 1697451634,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329775,
       "num": 329775,
       "word": "吉鲁扑单刀",
@@ -19145,6 +19193,14 @@
       "onboard_time": 1696526423,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326506,
+      "num": 326506,
+      "word": "肖战同路人音源全网上线",
+      "onboard_time": 1697450675,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 326417,
@@ -19931,14 +19987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 312578,
-      "num": 312578,
-      "word": "重庆震感",
-      "onboard_time": 1697450253,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312464,
       "num": 312464,
       "word": "100名工友为5个听障同事自学手语",
@@ -20457,14 +20505,6 @@
       "onboard_time": 1697190094,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 304109,
-      "num": 1846684,
-      "word": "深圳一大楼贴膜防止鸟撞",
-      "onboard_time": 1697440533,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304035,
@@ -21281,6 +21321,14 @@
       "onboard_time": 1696241974,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 292409,
+      "num": 292409,
+      "word": "孟美岐甜妹风",
+      "onboard_time": 1697450794,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 292296,
@@ -22161,14 +22209,6 @@
       "onboard_time": 1696647995,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 282682,
-      "num": 266154,
-      "word": "孟美岐甜妹风",
-      "onboard_time": 1697450794,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 282495,
@@ -23729,14 +23769,6 @@
       "onboard_time": 1696584156,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264635,
-      "num": 264635,
-      "word": "肖战同路人音源全网上线",
-      "onboard_time": 1697450675,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 264534,
@@ -28771,14 +28803,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 214698,
-      "num": 214698,
-      "word": "博主100元吃遍东北早市被指造假",
-      "onboard_time": 1697451395,
-      "rank": 32,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 214602,
       "num": 214602,
       "word": "十岁妹妹寄来的生日礼物",
@@ -29145,6 +29169,14 @@
       "onboard_time": 1697158778,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 212350,
+      "num": 212350,
+      "word": "小米王化否认新系统命名CNMiOS",
+      "onboard_time": 1697452114,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 212209,
@@ -29713,6 +29745,14 @@
       "onboard_time": 1696937075,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207891,
+      "num": 207891,
+      "word": "今天是A股6124点16周年",
+      "onboard_time": 1697452356,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 207749,
@@ -32785,6 +32825,14 @@
       "onboard_time": 1696517620,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192046,
+      "num": 1117588,
+      "word": "路遇货车自燃兵哥哥卸货灭火",
+      "onboard_time": 1697451755,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 191870,
@@ -35923,6 +35971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171095,
+      "num": 171095,
+      "word": "死掉的大闸蟹有多毒",
+      "onboard_time": 1697452534,
+      "rank": 41,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 171079,
       "num": 171079,
       "word": "Jennie米色马甲背心短裤造型",
@@ -38483,6 +38539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149745,
+      "num": 149745,
+      "word": "范丞丞在白敬亭面前演不了一点",
+      "onboard_time": 1697452476,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149713,
       "num": 149713,
       "word": "证监会出台融券政策两条逆周期安排",
@@ -38545,6 +38609,14 @@
       "onboard_time": 1696245155,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148903,
+      "num": 148903,
+      "word": "重庆狼队2比0XHW",
+      "onboard_time": 1697452235,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 148853,

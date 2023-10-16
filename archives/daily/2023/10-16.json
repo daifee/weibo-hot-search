@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697451555348,
+  "endTime": 1697452616715,
   "band_list": [
     {
       "raw_hot": 3396639,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1877873,
+      "num": 1877873,
+      "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
+      "onboard_time": 1697448994,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1820817,
       "num": 421941,
       "word": "香港顶流姜涛跑步健身",
@@ -97,14 +105,6 @@
       "onboard_time": 1697414613,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1691717,
-      "num": 1691717,
-      "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
-      "onboard_time": 1697448994,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1456113,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1319771,
-      "num": 325042,
+      "num": 329647,
       "word": "钟楚曦曾在七夕被分手",
       "onboard_time": 1697442812,
       "rank": 20,
@@ -603,6 +603,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 486513,
+      "num": 486513,
+      "word": "狗主人责任",
+      "onboard_time": 1697451692,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 479617,
       "num": 479617,
       "word": "未拆封iPhone免开箱即可更新",
@@ -625,6 +633,14 @@
       "onboard_time": 1697381017,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466435,
+      "num": 466435,
+      "word": "博主100元吃遍东北早市被指造假",
+      "onboard_time": 1697451395,
+      "rank": 32,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 463406,
@@ -667,12 +683,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 441422,
+      "num": 441422,
+      "word": "拜登回应巴勒斯坦裔男孩被刺死",
+      "onboard_time": 1697448934,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 439961,
       "num": 439961,
       "word": "蒲熠星刘奕君聊到电竞停不下来",
       "onboard_time": 1697439034,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 436976,
+      "num": 436976,
+      "word": "重庆震感",
+      "onboard_time": 1697450253,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434920,
@@ -707,14 +739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 420741,
-      "num": 420741,
-      "word": "拜登回应巴勒斯坦裔男孩被刺死",
-      "onboard_time": 1697448934,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 414688,
       "num": 414688,
       "word": "官方回应外国游客无人机撞损文峰塔",
@@ -745,6 +769,14 @@
       "onboard_time": 1697419531,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393895,
+      "num": 393895,
+      "word": "主降临 主认可",
+      "onboard_time": 1697448514,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 393767,
@@ -851,14 +883,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 356606,
-      "num": 356606,
-      "word": "主降临 主认可",
-      "onboard_time": 1697448514,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 356084,
       "num": 356084,
       "word": "加沙地带死伤人数过万",
@@ -891,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 344158,
+      "num": 241077,
+      "word": "自建房造的丑 关我入住后什么事",
+      "onboard_time": 1697451692,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 341962,
       "num": 341962,
       "word": "王俊凯是这样使用吗",
@@ -907,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337638,
+      "num": 1910930,
+      "word": "深圳一大楼贴膜防止鸟撞",
+      "onboard_time": 1697440533,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332023,
       "num": 332023,
       "word": "双相患者被12岁男孩治愈相约捡废品",
@@ -920,6 +960,14 @@
       "word": "妈妈想陪女儿上大学当上食堂阿姨",
       "onboard_time": 1697439871,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329778,
+      "num": 329778,
+      "word": "被狗咬伤女童生命体征平稳",
+      "onboard_time": 1697451634,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -953,6 +1001,14 @@
       "onboard_time": 1697382576,
       "rank": 15,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 326506,
+      "num": 326506,
+      "word": "肖战同路人音源全网上线",
+      "onboard_time": 1697450675,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 326402,
@@ -995,14 +1051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 312578,
-      "num": 312578,
-      "word": "重庆震感",
-      "onboard_time": 1697450253,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 310745,
       "num": 310745,
       "word": "白鹿王鹤棣 你好星期六",
@@ -1011,20 +1059,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304109,
-      "num": 1846684,
-      "word": "深圳一大楼贴膜防止鸟撞",
-      "onboard_time": 1697440533,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293646,
       "num": 293646,
       "word": "乡村爱情13刘能饰演者赵明远去世",
       "onboard_time": 1697357912,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292409,
+      "num": 292409,
+      "word": "孟美岐甜妹风",
+      "onboard_time": 1697450794,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291628,
+      "num": 291628,
+      "word": "英雄联盟",
+      "onboard_time": 1697451815,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 291435,
@@ -1057,14 +1113,6 @@
       "onboard_time": 1697430397,
       "rank": 39,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 282682,
-      "num": 266154,
-      "word": "孟美岐甜妹风",
-      "onboard_time": 1697450794,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 282495,
@@ -1129,14 +1177,6 @@
       "onboard_time": 1697418814,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264635,
-      "num": 264635,
-      "word": "肖战同路人音源全网上线",
-      "onboard_time": 1697450675,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 262732,
@@ -1403,20 +1443,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214698,
-      "num": 214698,
-      "word": "博主100元吃遍东北早市被指造假",
-      "onboard_time": 1697451395,
-      "rank": 32,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 212605,
       "num": 212605,
       "word": "杭州调整住房限购范围",
       "onboard_time": 1697420012,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212350,
+      "num": 212350,
+      "word": "小米王化否认新系统命名CNMiOS",
+      "onboard_time": 1697452114,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 212141,
@@ -1449,6 +1489,14 @@
       "onboard_time": 1697444671,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207891,
+      "num": 207891,
+      "word": "今天是A股6124点16周年",
+      "onboard_time": 1697452356,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 207722,
@@ -1667,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192046,
+      "num": 1117588,
+      "word": "路遇货车自燃兵哥哥卸货灭火",
+      "onboard_time": 1697451755,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191809,
       "num": 191809,
       "word": "家长给女儿缝制999朵纸玫瑰裙走秀",
@@ -1803,6 +1859,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 171095,
+      "num": 171095,
+      "word": "死掉的大闸蟹有多毒",
+      "onboard_time": 1697452534,
+      "rank": 41,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 170945,
       "num": 170945,
       "word": "迪丽热巴候场小彩蛋",
@@ -1923,12 +1987,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149745,
+      "num": 149745,
+      "word": "范丞丞在白敬亭面前演不了一点",
+      "onboard_time": 1697452476,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149127,
       "num": 149127,
       "word": "在罗马穿马面裙citywalk",
       "onboard_time": 1697436992,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 148903,
+      "num": 148903,
+      "word": "重庆狼队2比0XHW",
+      "onboard_time": 1697452235,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 147006,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697451555348,
+  "endTime": 1697452616715,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -171,6 +171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1877873,
+      "num": 1877873,
+      "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
+      "onboard_time": 1697448994,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1874909,
       "num": 1874909,
       "word": "向佐直播间情绪失控的原因",
@@ -241,14 +249,6 @@
       "onboard_time": 1697333489,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1691717,
-      "num": 1691717,
-      "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
-      "onboard_time": 1697448994,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1494590,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1319771,
-      "num": 325042,
+      "num": 329647,
       "word": "钟楚曦曾在七夕被分手",
       "onboard_time": 1697442812,
       "rank": 20,
@@ -1331,6 +1331,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 486513,
+      "num": 486513,
+      "word": "狗主人责任",
+      "onboard_time": 1697451692,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 484341,
       "num": 265008,
       "word": "发朋友圈只发景物不发自拍",
@@ -1369,6 +1377,14 @@
       "onboard_time": 1697418516,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 466435,
+      "num": 466435,
+      "word": "博主100元吃遍东北早市被指造假",
+      "onboard_time": 1697451395,
+      "rank": 32,
+      "category": "美食,社会新闻"
     },
     {
       "raw_hot": 463406,
@@ -1483,6 +1499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441422,
+      "num": 441422,
+      "word": "拜登回应巴勒斯坦裔男孩被刺死",
+      "onboard_time": 1697448934,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 439961,
       "num": 439961,
       "word": "蒲熠星刘奕君聊到电竞停不下来",
@@ -1497,6 +1521,14 @@
       "onboard_time": 1697341833,
       "rank": 15,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 436976,
+      "num": 436976,
+      "word": "重庆震感",
+      "onboard_time": 1697450253,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436128,
@@ -1569,14 +1601,6 @@
       "onboard_time": 1697326644,
       "rank": 21,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 420741,
-      "num": 420741,
-      "word": "拜登回应巴勒斯坦裔男孩被刺死",
-      "onboard_time": 1697448934,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 417218,
@@ -1657,6 +1681,14 @@
       "onboard_time": 1697367994,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 393895,
+      "num": 393895,
+      "word": "主降临 主认可",
+      "onboard_time": 1697448514,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 393767,
@@ -1875,14 +1907,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 356606,
-      "num": 356606,
-      "word": "主降临 主认可",
-      "onboard_time": 1697448514,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 356382,
       "num": 356382,
       "word": "废文网回来了",
@@ -1955,6 +1979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 344158,
+      "num": 241077,
+      "word": "自建房造的丑 关我入住后什么事",
+      "onboard_time": 1697451692,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 342572,
       "num": 342572,
       "word": "别让迪丽热巴看到这个牌",
@@ -1995,6 +2027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 337638,
+      "num": 1910930,
+      "word": "深圳一大楼贴膜防止鸟撞",
+      "onboard_time": 1697440533,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 333587,
       "num": 333587,
       "word": "五月天 现场",
@@ -2024,6 +2064,14 @@
       "word": "妈妈想陪女儿上大学当上食堂阿姨",
       "onboard_time": 1697439871,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 329778,
+      "num": 329778,
+      "word": "被狗咬伤女童生命体征平稳",
+      "onboard_time": 1697451634,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2057,6 +2105,14 @@
       "onboard_time": 1697359713,
       "rank": 19,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326506,
+      "num": 326506,
+      "word": "肖战同路人音源全网上线",
+      "onboard_time": 1697450675,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 326417,
@@ -2131,14 +2187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 312578,
-      "num": 312578,
-      "word": "重庆震感",
-      "onboard_time": 1697450253,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 312331,
       "num": 312331,
       "word": "田柾国NewJeans舞蹈挑战",
@@ -2185,14 +2233,6 @@
       "onboard_time": 1697333368,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304109,
-      "num": 1846684,
-      "word": "深圳一大楼贴膜防止鸟撞",
-      "onboard_time": 1697440533,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 304035,
@@ -2257,6 +2297,22 @@
       "onboard_time": 1697286575,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292409,
+      "num": 292409,
+      "word": "孟美岐甜妹风",
+      "onboard_time": 1697450794,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 291628,
+      "num": 291628,
+      "word": "英雄联盟",
+      "onboard_time": 1697451815,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 291435,
@@ -2345,14 +2401,6 @@
       "onboard_time": 1697362534,
       "rank": 24,
       "category": "军事,国外要闻"
-    },
-    {
-      "raw_hot": 282682,
-      "num": 266154,
-      "word": "孟美岐甜妹风",
-      "onboard_time": 1697450794,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 282495,
@@ -2481,14 +2529,6 @@
       "onboard_time": 1697418814,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264635,
-      "num": 264635,
-      "word": "肖战同路人音源全网上线",
-      "onboard_time": 1697450675,
-      "rank": 23,
-      "category": "音乐"
     },
     {
       "raw_hot": 264063,
@@ -2971,14 +3011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 214698,
-      "num": 214698,
-      "word": "博主100元吃遍东北早市被指造假",
-      "onboard_time": 1697451395,
-      "rank": 32,
-      "category": "美食,社会新闻"
-    },
-    {
       "raw_hot": 213659,
       "num": 213659,
       "word": "咏梅 我已经和我的皱纹和解了",
@@ -3001,6 +3033,14 @@
       "onboard_time": 1697420012,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 212350,
+      "num": 212350,
+      "word": "小米王化否认新系统命名CNMiOS",
+      "onboard_time": 1697452114,
+      "rank": 32,
+      "category": "数码"
     },
     {
       "raw_hot": 212141,
@@ -3041,6 +3081,14 @@
       "onboard_time": 1697444671,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207891,
+      "num": 207891,
+      "word": "今天是A股6124点16周年",
+      "onboard_time": 1697452356,
+      "rank": 33,
+      "category": "财经"
     },
     {
       "raw_hot": 207722,
@@ -3491,6 +3539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192046,
+      "num": 1117588,
+      "word": "路遇货车自燃兵哥哥卸货灭火",
+      "onboard_time": 1697451755,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 191870,
       "num": 191870,
       "word": "光与夜之恋",
@@ -3875,6 +3931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171095,
+      "num": 171095,
+      "word": "死掉的大闸蟹有多毒",
+      "onboard_time": 1697452534,
+      "rank": 41,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 170945,
       "num": 170945,
       "word": "迪丽热巴候场小彩蛋",
@@ -4155,6 +4219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149745,
+      "num": 149745,
+      "word": "范丞丞在白敬亭面前演不了一点",
+      "onboard_time": 1697452476,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149372,
       "num": 149372,
       "word": "李雪健提名金鸡最佳男配角",
@@ -4185,6 +4257,14 @@
       "onboard_time": 1697352272,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 148903,
+      "num": 148903,
+      "word": "重庆狼队2比0XHW",
+      "onboard_time": 1697452235,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 148723,
