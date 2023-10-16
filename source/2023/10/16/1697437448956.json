@@ -1,0 +1,410 @@
+{
+  "runTime": 1697437448956,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2219002,
+        "num": 2219002,
+        "word": "华为 谢霆锋",
+        "onboard_time": 1697433755,
+        "rank": 0,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 698706,
+        "num": 698706,
+        "word": "肖战GUCCI大片",
+        "onboard_time": 1697435013,
+        "rank": 1,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 54411,
+        "num": 530873,
+        "word": "神舟十七号计划本月发射",
+        "onboard_time": 1697423492,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518918,
+        "num": 518918,
+        "word": "腾讯认证三部爆款剧集",
+        "onboard_time": 1697421092,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508282,
+        "num": 508282,
+        "word": "不经意却很不卫生的行为",
+        "onboard_time": 1697418872,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 413049,
+        "num": 413049,
+        "word": "清华博士后当交警15年勘查无错漏",
+        "onboard_time": 1697427936,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359344,
+        "num": 359344,
+        "word": "网传外国游客无人机撞损文峰塔",
+        "onboard_time": 1697436516,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341559,
+        "num": 341559,
+        "word": "白敬亭假动作钓出两个卧底",
+        "onboard_time": 1697430876,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 298641,
+        "num": 298641,
+        "word": "美国男子26刀刺死巴勒斯坦裔男孩",
+        "onboard_time": 1697421693,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 298624,
+        "num": 298624,
+        "word": "周一上班的我太需要这些话",
+        "onboard_time": 1697430761,
+        "rank": 9,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 1780661,
+        "num": 298457,
+        "word": "香港顶流姜涛跑步健身",
+        "onboard_time": 1697433874,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1058227,
+        "num": 296632,
+        "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+        "onboard_time": 1697423190,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980798,
+        "num": 295649,
+        "word": "陈都灵这套可以代所有小说",
+        "onboard_time": 1697427334,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 928216,
+        "num": 294723,
+        "word": "哈马斯",
+        "onboard_time": 1697433694,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 652312,
+        "num": 293581,
+        "word": "吴雅婷问王栎鑫你嗓子还好吗",
+        "onboard_time": 1697424632,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 496162,
+        "num": 292229,
+        "word": "徐娇 能不能别吹我了我害怕",
+        "onboard_time": 1697420492,
+        "rank": 15,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 350146,
+        "num": 291345,
+        "word": "迪丽热巴Live图",
+        "onboard_time": 1697432258,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290957,
+        "num": 290957,
+        "word": "国考报考人数最多的岗位",
+        "onboard_time": 1697427519,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 281465,
+        "num": 281465,
+        "word": "王者周年庆返场皮肤",
+        "onboard_time": 1697436213,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 250946,
+        "num": 250946,
+        "word": "为有暗香来",
+        "onboard_time": 1697430999,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492678,
+        "num": 248614,
+        "word": "上海宝格丽酒店被挂牌出售最贵套房30万一晚",
+        "onboard_time": 1697433755,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480745,
+        "num": 244450,
+        "word": "爸妈一次性给了四年的生活费",
+        "onboard_time": 1697420317,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 424113,
+        "num": 240395,
+        "word": "上海独生女为买房火速结婚",
+        "onboard_time": 1697434595,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352573,
+        "num": 238213,
+        "word": "男子去世后妻子发现其微信有暧昧对象",
+        "onboard_time": 1697427273,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304716,
+        "num": 230976,
+        "word": "田曦薇第六集了很难再忍下去",
+        "onboard_time": 1697435372,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230411,
+        "num": 230411,
+        "word": "A股",
+        "onboard_time": 1697422474,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 228564,
+        "num": 228564,
+        "word": "男子穿离婚快乐T恤大闹婚礼现场",
+        "onboard_time": 1697431599,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225857,
+        "num": 225857,
+        "word": "小米14",
+        "onboard_time": 1697424573,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 218681,
+        "num": 218681,
+        "word": "卢昱晓的脸遇上胶片",
+        "onboard_time": 1697436274,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203713,
+        "num": 203713,
+        "word": "父亲离家23年后2儿子捧鲜花接回",
+        "onboard_time": 1697435853,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232910,
+        "num": 201478,
+        "word": "俄罗斯外长拉夫罗夫抵达北京",
+        "onboard_time": 1697437052,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 198065,
+        "num": 198065,
+        "word": "锋华绝代",
+        "onboard_time": 1697436516,
+        "rank": 31,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 195096,
+        "num": 195096,
+        "word": "7岁男孩报警说被家暴民警客串家教",
+        "onboard_time": 1697432797,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193698,
+        "num": 193698,
+        "word": "雷军 别着急这次产品很很很强",
+        "onboard_time": 1697437052,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173119,
+        "num": 173119,
+        "word": "仓鼠要能做出来估计20都省了",
+        "onboard_time": 1697432618,
+        "rank": 34,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 172427,
+        "num": 172427,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697418633,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 170470,
+        "num": 170470,
+        "word": "张元英一秒表情管理",
+        "onboard_time": 1697430697,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169373,
+        "num": 169373,
+        "word": "体育总局副局长点名足协塌方式腐败",
+        "onboard_time": 1697437351,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 155767,
+        "num": 155767,
+        "word": "周也吃的什么勺子这么大",
+        "onboard_time": 1697432858,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146142,
+        "num": 146142,
+        "word": "派出所俩月收50多面锦旗铺了一地",
+        "onboard_time": 1697421454,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142144,
+        "num": 142144,
+        "word": "花儿与少年丝路季官宣",
+        "onboard_time": 1697427456,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128299,
+        "num": 128299,
+        "word": "宋轶15岁到33岁荧幕变化",
+        "onboard_time": 1697429737,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124199,
+        "num": 124199,
+        "word": "杭州姑娘误点3两烧麦4顿没吃完",
+        "onboard_time": 1697419531,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116971,
+        "num": 116971,
+        "word": "在罗马穿马面裙citywalk",
+        "onboard_time": 1697436992,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 115860,
+        "num": 115860,
+        "word": "支原体肺炎主要症状有2个",
+        "onboard_time": 1697418516,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114034,
+        "num": 114034,
+        "word": "邓为口罩眼神杀",
+        "onboard_time": 1697430578,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113644,
+        "num": 113644,
+        "word": "马哲的枪里还剩7发子弹",
+        "onboard_time": 1697436094,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112157,
+        "num": 112157,
+        "word": "萌大无法无天式浇朋友",
+        "onboard_time": 1697437412,
+        "rank": 47,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 111860,
+        "num": 111860,
+        "word": "海底捞等位区竟然分i人e人",
+        "onboard_time": 1697421152,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109956,
+        "num": 109956,
+        "word": "陈晓到底跟唐晓天说了什么",
+        "onboard_time": 1697430219,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的丝路情缘#"
+    }
+  }
+}

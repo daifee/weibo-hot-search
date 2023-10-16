@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697434443616,
+  "endTime": 1697437448956,
   "band_list": [
     {
       "raw_hot": 2818946,
@@ -17,6 +17,14 @@
       "onboard_time": 1697420492,
       "rank": 10,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2219002,
+      "num": 2219002,
+      "word": "华为 谢霆锋",
+      "onboard_time": 1697433755,
+      "rank": 1,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 2148982,
@@ -41,6 +49,14 @@
       "onboard_time": 1697427334,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1780661,
+      "num": 326401,
+      "word": "香港顶流姜涛跑步健身",
+      "onboard_time": 1697433874,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 1747065,
@@ -139,20 +155,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 983193,
-      "num": 983193,
-      "word": "华为 谢霆锋",
-      "onboard_time": 1697433755,
-      "rank": 1,
-      "category": "数码,艺人"
-    },
-    {
       "raw_hot": 975342,
       "num": 975342,
       "word": "清华博士后当交警15年勘查无错漏",
       "onboard_time": 1697427936,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 928216,
+      "num": 294723,
+      "word": "哈马斯",
+      "onboard_time": 1697433694,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 896764,
@@ -249,6 +265,14 @@
       "onboard_time": 1697366314,
       "rank": 7,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 698706,
+      "num": 698706,
+      "word": "肖战GUCCI大片",
+      "onboard_time": 1697435013,
+      "rank": 1,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 653869,
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492678,
+      "num": 248614,
+      "word": "上海宝格丽酒店被挂牌出售最贵套房30万一晚",
+      "onboard_time": 1697433755,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 491601,
       "num": 304575,
       "word": "男子穿离婚快乐T恤大闹婚礼现场",
@@ -475,12 +507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 411594,
-      "num": 326401,
-      "word": "香港顶流姜涛跑步健身",
-      "onboard_time": 1697433874,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 424113,
+      "num": 240395,
+      "word": "上海独生女为买房火速结婚",
+      "onboard_time": 1697434595,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408558,
@@ -539,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359344,
+      "num": 359344,
+      "word": "网传外国游客无人机撞损文峰塔",
+      "onboard_time": 1697436516,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 359209,
       "num": 335429,
       "word": "尼龙六周年杨紫真我大片",
@@ -571,6 +611,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 350146,
+      "num": 326357,
+      "word": "迪丽热巴Live图",
+      "onboard_time": 1697432258,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 338398,
       "num": 302983,
       "word": "花儿与少年",
@@ -593,14 +641,6 @@
       "onboard_time": 1697382576,
       "rank": 15,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 326357,
-      "num": 326357,
-      "word": "迪丽热巴Live图",
-      "onboard_time": 1697432258,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 321560,
@@ -633,6 +673,14 @@
       "onboard_time": 1697422173,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 304716,
+      "num": 230976,
+      "word": "田曦薇第六集了很难再忍下去",
+      "onboard_time": 1697435372,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 293646,
@@ -683,6 +731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 281465,
+      "num": 281465,
+      "word": "王者周年庆返场皮肤",
+      "onboard_time": 1697436213,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 279312,
       "num": 279312,
       "word": "七岁儿子在加拿大的中文作业",
@@ -728,22 +784,6 @@
       "word": "长这么大终于分清五谷了",
       "onboard_time": 1697418814,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 266461,
-      "num": 266461,
-      "word": "哈马斯",
-      "onboard_time": 1697433694,
-      "rank": 25,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 266456,
-      "num": 236203,
-      "word": "上海宝格丽酒店被挂牌出售最贵套房30万一晚",
-      "onboard_time": 1697433755,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -891,6 +931,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 232910,
+      "num": 201478,
+      "word": "俄罗斯外长拉夫罗夫抵达北京",
+      "onboard_time": 1697437052,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 230570,
       "num": 230570,
       "word": "aespa将回归",
@@ -921,6 +969,14 @@
       "onboard_time": 1697361514,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 218681,
+      "num": 218681,
+      "word": "卢昱晓的脸遇上胶片",
+      "onboard_time": 1697436274,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 218596,
@@ -1003,6 +1059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203713,
+      "num": 203713,
+      "word": "父亲离家23年后2儿子捧鲜花接回",
+      "onboard_time": 1697435853,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203071,
       "num": 203071,
       "word": "于适感谢大家一路的支持和鼓励",
@@ -1059,6 +1123,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 198065,
+      "num": 198065,
+      "word": "锋华绝代",
+      "onboard_time": 1697436516,
+      "rank": 31,
+      "category": "数码,艺人"
+    },
+    {
       "raw_hot": 197261,
       "num": 197261,
       "word": "李昊直播",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1697430697,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193698,
+      "num": 193698,
+      "word": "雷军 别着急这次产品很很很强",
+      "onboard_time": 1697437052,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 192994,
@@ -1185,6 +1265,14 @@
       "onboard_time": 1697379519,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169373,
+      "num": 169373,
+      "word": "体育总局副局长点名足协塌方式腐败",
+      "onboard_time": 1697437351,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 168403,
@@ -1339,6 +1427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 116971,
+      "num": 116971,
+      "word": "在罗马穿马面裙citywalk",
+      "onboard_time": 1697436992,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 116686,
       "num": 116686,
       "word": "迪丽热巴黄景瑜 二搭",
@@ -1353,6 +1449,22 @@
       "onboard_time": 1697384017,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113644,
+      "num": 113644,
+      "word": "马哲的枪里还剩7发子弹",
+      "onboard_time": 1697436094,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 112157,
+      "num": 112157,
+      "word": "萌大无法无天式浇朋友",
+      "onboard_time": 1697437412,
+      "rank": 47,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 112078,
