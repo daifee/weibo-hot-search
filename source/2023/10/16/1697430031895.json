@@ -1,0 +1,410 @@
+{
+  "runTime": 1697430031895,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2818946,
+        "num": 2818946,
+        "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+        "onboard_time": 1697423190,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1413168,
+        "num": 1413168,
+        "word": "腾讯认证三部爆款剧集",
+        "onboard_time": 1697421092,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90697,
+        "num": 1106828,
+        "word": "神舟十七号计划本月发射",
+        "onboard_time": 1697423492,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 934936,
+        "num": 934936,
+        "word": "清华博士后当交警15年勘查无错漏",
+        "onboard_time": 1697427936,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922891,
+        "num": 922891,
+        "word": "不经意却很不卫生的行为",
+        "onboard_time": 1697418872,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 638742,
+        "num": 638742,
+        "word": "美国男子26刀刺死巴勒斯坦裔男孩",
+        "onboard_time": 1697421693,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 603508,
+        "num": 603508,
+        "word": "花儿与少年丝路季官宣",
+        "onboard_time": 1697427456,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560862,
+        "num": 560862,
+        "word": "小米14",
+        "onboard_time": 1697424573,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 391253,
+        "num": 391253,
+        "word": "赵小棠第一部仙侠剧",
+        "onboard_time": 1697424516,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348144,
+        "num": 348144,
+        "word": "肖战献唱同路人",
+        "onboard_time": 1697425771,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1758095,
+        "num": 347239,
+        "word": "陈都灵这套可以代所有小说",
+        "onboard_time": 1697427334,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1456113,
+        "num": 345622,
+        "word": "吴雅婷问王栎鑫你嗓子还好吗",
+        "onboard_time": 1697424632,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1298529,
+        "num": 344024,
+        "word": "徐娇 能不能别吹我了我害怕",
+        "onboard_time": 1697420492,
+        "rank": 12,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 978028,
+        "num": 341933,
+        "word": "原来外国人注册微信这么难",
+        "onboard_time": 1697425116,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 17395,
+        "num": 341321,
+        "word": "青春郑州炫舞世界",
+        "onboard_time": 1697429557,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 708103,
+        "num": 338820,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697418633,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 387089,
+        "num": 337864,
+        "word": "檀健次穿了网纱内搭",
+        "onboard_time": 1697429497,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359209,
+        "num": 335429,
+        "word": "尼龙六周年杨紫真我大片",
+        "onboard_time": 1697429256,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 335307,
+        "num": 335307,
+        "word": "江歌妈妈眼中有了精气神",
+        "onboard_time": 1697420070,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335030,
+        "num": 335030,
+        "word": "王鹤棣在老板婚礼上开派对",
+        "onboard_time": 1697414613,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 875981,
+        "num": 334727,
+        "word": "男子去世后妻子发现其微信有暧昧对象",
+        "onboard_time": 1697427273,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741079,
+        "num": 332390,
+        "word": "爸妈一次性给了四年的生活费",
+        "onboard_time": 1697420317,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329820,
+        "num": 329820,
+        "word": "喜茶红山动物园联名",
+        "onboard_time": 1697423432,
+        "rank": 22,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 323414,
+        "num": 323414,
+        "word": "杭州姑娘误点3两烧麦4顿没吃完",
+        "onboard_time": 1697419531,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319885,
+        "num": 319885,
+        "word": "海底捞等位区竟然分i人e人",
+        "onboard_time": 1697421152,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 300353,
+        "num": 300353,
+        "word": "国考报考人数最多的岗位",
+        "onboard_time": 1697427519,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 286230,
+        "num": 286230,
+        "word": "什么病挂什么科",
+        "onboard_time": 1697420430,
+        "rank": 26,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 272232,
+        "num": 272232,
+        "word": "徐穗珍将solo歌手出道",
+        "onboard_time": 1697416594,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 253096,
+        "num": 253096,
+        "word": "郑在玹开通微博",
+        "onboard_time": 1697426015,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252806,
+        "num": 252806,
+        "word": "阳江地震",
+        "onboard_time": 1697428721,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246281,
+        "num": 246281,
+        "word": "这不是跑马是来进货的吧",
+        "onboard_time": 1697429196,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 245061,
+        "num": 245061,
+        "word": "男生去长白山喷发胶头发冻成粉条",
+        "onboard_time": 1697426319,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240752,
+        "num": 240752,
+        "word": "加沙地带避难所已收容超40万巴勒斯坦人",
+        "onboard_time": 1697427635,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 236122,
+        "num": 236122,
+        "word": "支原体肺炎主要症状有2个",
+        "onboard_time": 1697418516,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227658,
+        "num": 227658,
+        "word": "拜登称必须彻底消灭哈马斯",
+        "onboard_time": 1697418454,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 211875,
+        "num": 211875,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1697413654,
+        "rank": 35,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 208234,
+        "num": 208234,
+        "word": "花儿与少年",
+        "onboard_time": 1697425534,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197695,
+        "num": 197695,
+        "word": "宋轶15岁到33岁荧幕变化",
+        "onboard_time": 1697429737,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189159,
+        "num": 189159,
+        "word": "派出所俩月收50多面锦旗铺了一地",
+        "onboard_time": 1697421454,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187547,
+        "num": 187547,
+        "word": "未拆封iPhone免开箱即可更新",
+        "onboard_time": 1697421032,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107073,
+        "num": 186186,
+        "word": "女生不能对健康有侥幸心理",
+        "onboard_time": 1697426612,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185674,
+        "num": 185674,
+        "word": "A股",
+        "onboard_time": 1697422474,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 183759,
+        "num": 183759,
+        "word": "宋轶真的好懂i人",
+        "onboard_time": 1697418333,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179214,
+        "num": 179214,
+        "word": "白敬亭工作室说公主请来看现在就出发",
+        "onboard_time": 1697429256,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176714,
+        "num": 176714,
+        "word": "白鹿王鹤棣 你好星期六",
+        "onboard_time": 1697422173,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175278,
+        "num": 175278,
+        "word": "孙雯当选足协副主席",
+        "onboard_time": 1697426612,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173164,
+        "num": 173164,
+        "word": "同事点的奶茶底部裂开了",
+        "onboard_time": 1697419714,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169102,
+        "num": 169102,
+        "word": "Taylor Swift演唱会大电影",
+        "onboard_time": 1697419773,
+        "rank": 47,
+        "category": "电影,演出"
+      },
+      {
+        "raw_hot": 159978,
+        "num": 159978,
+        "word": "内娱甜妹妆造王者",
+        "onboard_time": 1697429617,
+        "rank": 48,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 157922,
+        "num": 157922,
+        "word": "披荆斩棘后张栋梁的变化",
+        "onboard_time": 1697420317,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路走合作共赢之路带来发展和繁荣#"
+    }
+  }
+}
