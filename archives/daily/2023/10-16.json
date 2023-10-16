@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697463242212,
+  "endTime": 1697465842362,
   "band_list": [
     {
       "raw_hot": 3396639,
@@ -33,6 +33,14 @@
       "onboard_time": 1697446056,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2286801,
+      "num": 2286801,
+      "word": "成都咬伤女童大黑狗有主人",
+      "onboard_time": 1697460934,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2273906,
@@ -131,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1618752,
+      "num": 368740,
+      "word": "赵本山给徒弟补近亿税额",
+      "onboard_time": 1697463394,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1560241,
       "num": 1522801,
       "word": "MiuMiu钻石内裤",
@@ -219,14 +235,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1141209,
-      "num": 711944,
-      "word": "成都咬伤女童大黑狗有主人",
-      "onboard_time": 1697460934,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1113887,
       "num": 941337,
       "word": "原来外国人注册微信这么难",
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 1104729,
-      "num": 279778,
+      "num": 310296,
       "word": "宋仲基说儿子嘴唇最像自己",
       "onboard_time": 1697460153,
       "rank": 22,
@@ -363,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 854754,
+      "num": 566478,
+      "word": "被大型犬撕咬女童母亲发声",
+      "onboard_time": 1697459374,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 842667,
       "num": 842667,
       "word": "雷军 别着急这次产品很很很强",
@@ -376,14 +392,6 @@
       "word": "33岁男子自捆双脚跳桥身亡",
       "onboard_time": 1697370517,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 829698,
-      "num": 566478,
-      "word": "被大型犬撕咬女童母亲发声",
-      "onboard_time": 1697459374,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -611,6 +619,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 557152,
+      "num": 557152,
+      "word": "警方辟谣大型犬主人被孩子家长砍了",
+      "onboard_time": 1697460633,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 548093,
       "num": 420388,
       "word": "A股",
@@ -619,12 +635,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 536101,
-      "num": 536101,
-      "word": "警方辟谣大型犬主人被孩子家长砍了",
-      "onboard_time": 1697460633,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 543464,
+      "num": 308959,
+      "word": "再聊下去该网恋了",
+      "onboard_time": 1697463575,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 524076,
@@ -724,7 +740,7 @@
     },
     {
       "raw_hot": 483741,
-      "num": 276581,
+      "num": 302758,
       "word": "毕业五年了辅导员突然叫我干活",
       "onboard_time": 1697459854,
       "rank": 21,
@@ -931,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395114,
+      "num": 367591,
+      "word": "王鹤棣蓝色挑染",
+      "onboard_time": 1697463875,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 393895,
       "num": 393895,
       "word": "主降临 主认可",
@@ -1011,6 +1035,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369129,
+      "num": 369129,
+      "word": "一带一路国际合作高峰论坛开幕式",
+      "onboard_time": 1697462135,
+      "rank": 29,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 366642,
+      "num": 366642,
+      "word": "谢娜废土风",
+      "onboard_time": 1697464294,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 361839,
       "num": 361839,
       "word": "赵露思 唤醒沉睡银天鹅",
@@ -1065,6 +1105,14 @@
       "onboard_time": 1697412027,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 352537,
+      "num": 352537,
+      "word": "周筱风官宣恋情",
+      "onboard_time": 1697464897,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 350765,
@@ -1219,14 +1267,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 322801,
-      "num": 322801,
-      "word": "一带一路国际合作高峰论坛开幕式",
-      "onboard_time": 1697462135,
-      "rank": 29,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 321560,
       "num": 321560,
       "word": "为什么领导的头像都是风景照",
@@ -1281,6 +1321,14 @@
       "onboard_time": 1697452836,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297151,
+      "num": 297151,
+      "word": "警方已发现咬人黑狗行踪",
+      "onboard_time": 1697465496,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 293646,
@@ -1417,6 +1465,14 @@
       "onboard_time": 1697418814,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264133,
+      "num": 264133,
+      "word": "双十一",
+      "onboard_time": 1697460574,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 262732,
@@ -1571,12 +1627,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 242266,
-      "num": 242266,
-      "word": "双十一",
-      "onboard_time": 1697460574,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 240952,
+      "num": 240952,
+      "word": "国足1比2乌兹别克斯坦",
+      "onboard_time": 1697465496,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 240821,
@@ -1673,6 +1729,14 @@
       "onboard_time": 1697458534,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226397,
+      "num": 226397,
+      "word": "脾胃虚吃这八种食物",
+      "onboard_time": 1697464777,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 225508,
@@ -1881,6 +1945,14 @@
       "onboard_time": 1697381199,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204450,
+      "num": 204450,
+      "word": "双胞胎满100天爱宝出外场了",
+      "onboard_time": 1697465136,
+      "rank": 32,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 204117,
@@ -2171,6 +2243,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 187402,
+      "num": 187402,
+      "word": "国足8分钟连丢两球",
+      "onboard_time": 1697465257,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186603,
+      "num": 186603,
+      "word": "两句话让对方军师干懵了",
+      "onboard_time": 1697464356,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 184332,
       "num": 184332,
       "word": "如何伤一只柯基的自尊",
@@ -2225,6 +2313,14 @@
       "onboard_time": 1697450374,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179174,
+      "num": 179174,
+      "word": "TTG战胜AG",
+      "onboard_time": 1697463636,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 177901,
@@ -2395,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157463,
+      "num": 157463,
+      "word": "韩国10代爱豆理想型TOP10",
+      "onboard_time": 1697462735,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 156051,
       "num": 156051,
       "word": "淮竹这个身段打戏太好看了",
@@ -2473,14 +2577,6 @@
       "onboard_time": 1697452235,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148899,
-      "num": 148899,
-      "word": "韩国10代爱豆理想型TOP10",
-      "onboard_time": 1697462735,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 147006,
@@ -2585,6 +2681,14 @@
       "onboard_time": 1697425293,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 128294,
+      "num": 128294,
+      "word": "为什么粉色要贵这么多",
+      "onboard_time": 1697465736,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 128081,
@@ -2721,6 +2825,14 @@
       "onboard_time": 1697373995,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83970,
+      "num": 633617,
+      "word": "旧风力发电叶片变草场栅栏能用30年",
+      "onboard_time": 1697464174,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77464,

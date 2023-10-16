@@ -1,0 +1,410 @@
+{
+  "runTime": 1697465842362,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2286801,
+        "num": 2286801,
+        "word": "成都咬伤女童大黑狗有主人",
+        "onboard_time": 1697460934,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798518,
+        "num": 798518,
+        "word": "朱一龙 北大",
+        "onboard_time": 1697447073,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83970,
+        "num": 633617,
+        "word": "旧风力发电叶片变草场栅栏能用30年",
+        "onboard_time": 1697464174,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 632439,
+        "num": 632439,
+        "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
+        "onboard_time": 1697448994,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 557152,
+        "num": 557152,
+        "word": "警方辟谣大型犬主人被孩子家长砍了",
+        "onboard_time": 1697460633,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418903,
+        "num": 418903,
+        "word": "孟子义问范丞丞是不是创造营第一",
+        "onboard_time": 1697459013,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 411268,
+        "num": 411268,
+        "word": "白鹿带闺蜜看五月天演唱会",
+        "onboard_time": 1697459134,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 382834,
+        "num": 382834,
+        "word": "小伙租123平房子花4万改造成理想的家",
+        "onboard_time": 1697460333,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369129,
+        "num": 369129,
+        "word": "一带一路国际合作高峰论坛开幕式",
+        "onboard_time": 1697462135,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 854754,
+        "num": 368910,
+        "word": "被大型犬撕咬女童母亲发声",
+        "onboard_time": 1697459374,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1618752,
+        "num": 368740,
+        "word": "赵本山给徒弟补近亿税额",
+        "onboard_time": 1697463394,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1495636,
+        "num": 368408,
+        "word": "拉布拉多",
+        "onboard_time": 1697456313,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1490856,
+        "num": 367810,
+        "word": "狗主人责任",
+        "onboard_time": 1697451692,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395114,
+        "num": 367591,
+        "word": "王鹤棣蓝色挑染",
+        "onboard_time": 1697463875,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394513,
+        "num": 367323,
+        "word": "两大型犬撕咬2岁半女童致严重受伤",
+        "onboard_time": 1697440172,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1021594,
+        "num": 366893,
+        "word": "街道办已动员数百人寻找肇事烈犬",
+        "onboard_time": 1697452773,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 366642,
+        "num": 366642,
+        "word": "谢娜废土风",
+        "onboard_time": 1697464294,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 352537,
+        "num": 352537,
+        "word": "周筱风官宣恋情",
+        "onboard_time": 1697464897,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316211,
+        "num": 316211,
+        "word": "特斯拉车主高速多次别车被刑拘",
+        "onboard_time": 1697458474,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311793,
+        "num": 311793,
+        "word": "范丞丞唱了魏大勋他只是经过",
+        "onboard_time": 1697461115,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 954350,
+        "num": 310296,
+        "word": "宋仲基说儿子嘴唇最像自己",
+        "onboard_time": 1697460153,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 857668,
+        "num": 309611,
+        "word": "MiuMiu钻石内裤",
+        "onboard_time": 1697453435,
+        "rank": 21,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 543464,
+        "num": 308959,
+        "word": "再聊下去该网恋了",
+        "onboard_time": 1697463575,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 302758,
+        "num": 302758,
+        "word": "毕业五年了辅导员突然叫我干活",
+        "onboard_time": 1697459854,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 297151,
+        "num": 297151,
+        "word": "警方已发现咬人黑狗行踪",
+        "onboard_time": 1697465496,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264133,
+        "num": 264133,
+        "word": "双十一",
+        "onboard_time": 1697460574,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247992,
+        "num": 247992,
+        "word": "刘诗诗谢娜同框看秀",
+        "onboard_time": 1697454517,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 291541,
+        "num": 245286,
+        "word": "母亲讲述女童被大型犬撕咬致肾破裂",
+        "onboard_time": 1697456490,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240952,
+        "num": 240952,
+        "word": "国足1比2乌兹别克斯坦",
+        "onboard_time": 1697465496,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232609,
+        "num": 232609,
+        "word": "明天秋裤备好",
+        "onboard_time": 1697457093,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226397,
+        "num": 226397,
+        "word": "脾胃虚吃这八种食物",
+        "onboard_time": 1697464777,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 210810,
+        "num": 210810,
+        "word": "问心",
+        "onboard_time": 1697462795,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204450,
+        "num": 204450,
+        "word": "双胞胎满100天爱宝出外场了",
+        "onboard_time": 1697465136,
+        "rank": 32,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 204382,
+        "num": 204382,
+        "word": "被田耕纪气死",
+        "onboard_time": 1697453311,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187839,
+        "num": 187839,
+        "word": "肯豆为什么痘痘没了",
+        "onboard_time": 1697460092,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 187402,
+        "num": 187402,
+        "word": "国足8分钟连丢两球",
+        "onboard_time": 1697465257,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187338,
+        "num": 187338,
+        "word": "国足vs乌兹别克斯坦",
+        "onboard_time": 1697455655,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186603,
+        "num": 186603,
+        "word": "两句话让对方军师干懵了",
+        "onboard_time": 1697464356,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184024,
+        "num": 184024,
+        "word": "小胖 努力三年只为和你顶峰相见",
+        "onboard_time": 1697457213,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179174,
+        "num": 179174,
+        "word": "TTG战胜AG",
+        "onboard_time": 1697463636,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 157463,
+        "num": 157463,
+        "word": "韩国10代爱豆理想型TOP10",
+        "onboard_time": 1697462735,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151792,
+        "num": 151792,
+        "word": "学网红拍粉底把自己拍流鼻血",
+        "onboard_time": 1697461594,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146397,
+        "num": 146397,
+        "word": "我们四个把日子过好比什么都强",
+        "onboard_time": 1697444733,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141678,
+        "num": 141678,
+        "word": "彭楚粤直播",
+        "onboard_time": 1697462976,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137667,
+        "num": 137667,
+        "word": "AG 韧性",
+        "onboard_time": 1697462074,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135003,
+        "num": 135003,
+        "word": "赵丽颖工作室换头像",
+        "onboard_time": 1697453375,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132974,
+        "num": 132974,
+        "word": "杨千嬅 笑中有泪的是这首歌",
+        "onboard_time": 1697463094,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128294,
+        "num": 128294,
+        "word": "为什么粉色要贵这么多",
+        "onboard_time": 1697465736,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 128060,
+        "num": 128060,
+        "word": "迪丽热巴秦岚周也美女贴贴",
+        "onboard_time": 1697439811,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125996,
+        "num": 125996,
+        "word": "死掉的大闸蟹有多毒",
+        "onboard_time": 1697452534,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路走合作共赢之路带来发展和繁荣#"
+    }
+  }
+}
