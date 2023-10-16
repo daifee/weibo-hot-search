@@ -1,0 +1,410 @@
+{
+  "runTime": 1697434443616,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1122557,
+        "num": 1122557,
+        "word": "腾讯认证三部爆款剧集",
+        "onboard_time": 1697421092,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 983193,
+        "num": 983193,
+        "word": "华为 谢霆锋",
+        "onboard_time": 1697433755,
+        "rank": 1,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 51470,
+        "num": 872963,
+        "word": "神舟十七号计划本月发射",
+        "onboard_time": 1697423492,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 767940,
+        "num": 767940,
+        "word": "清华博士后当交警15年勘查无错漏",
+        "onboard_time": 1697427936,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 667322,
+        "num": 667322,
+        "word": "不经意却很不卫生的行为",
+        "onboard_time": 1697418872,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 522093,
+        "num": 522093,
+        "word": "周一上班的我太需要这些话",
+        "onboard_time": 1697430761,
+        "rank": 5,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 434839,
+        "num": 434839,
+        "word": "白敬亭假动作钓出两个卧底",
+        "onboard_time": 1697430876,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417210,
+        "num": 417210,
+        "word": "美国男子26刀刺死巴勒斯坦裔男孩",
+        "onboard_time": 1697421693,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 365957,
+        "num": 365957,
+        "word": "中方呼吁召开巴以冲突国际和会",
+        "onboard_time": 1697430097,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 328147,
+        "num": 328147,
+        "word": "为有暗香来",
+        "onboard_time": 1697430999,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1842241,
+        "num": 327923,
+        "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+        "onboard_time": 1697423190,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1485562,
+        "num": 327717,
+        "word": "陈都灵这套可以代所有小说",
+        "onboard_time": 1697427334,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 967193,
+        "num": 327542,
+        "word": "吴雅婷问王栎鑫你嗓子还好吗",
+        "onboard_time": 1697424632,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 876137,
+        "num": 327332,
+        "word": "徐娇 能不能别吹我了我害怕",
+        "onboard_time": 1697420492,
+        "rank": 13,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 138307,
+        "num": 326885,
+        "word": "淘宝买菜打拼价玩的是商战",
+        "onboard_time": 1697432437,
+        "rank": 14,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 460503,
+        "num": 326621,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697418633,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 411594,
+        "num": 326401,
+        "word": "香港顶流姜涛跑步健身",
+        "onboard_time": 1697433874,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326357,
+        "num": 326357,
+        "word": "迪丽热巴Live图",
+        "onboard_time": 1697432258,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287122,
+        "num": 287122,
+        "word": "小米14",
+        "onboard_time": 1697424573,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 282921,
+        "num": 282921,
+        "word": "花儿与少年丝路季官宣",
+        "onboard_time": 1697427456,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1352795,
+        "num": 282498,
+        "word": "妻子称非常害怕嫁给威尔史密斯",
+        "onboard_time": 1697432377,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 534573,
+        "num": 281664,
+        "word": "爸妈一次性给了四年的生活费",
+        "onboard_time": 1697420317,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 513021,
+        "num": 281228,
+        "word": "男子去世后妻子发现其微信有暧昧对象",
+        "onboard_time": 1697427273,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 384925,
+        "num": 279787,
+        "word": "男子穿离婚快乐T恤大闹婚礼现场",
+        "onboard_time": 1697431599,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279604,
+        "num": 279604,
+        "word": "檀健次穿了网纱内搭",
+        "onboard_time": 1697429497,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266461,
+        "num": 266461,
+        "word": "哈马斯",
+        "onboard_time": 1697433694,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 259595,
+        "num": 259595,
+        "word": "进化的刚刚好又聪明又不用上班",
+        "onboard_time": 1697430397,
+        "rank": 26,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 254963,
+        "num": 254963,
+        "word": "7岁男孩报警说被家暴民警客串家教",
+        "onboard_time": 1697432797,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250639,
+        "num": 250639,
+        "word": "周也吃的什么勺子这么大",
+        "onboard_time": 1697432858,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237074,
+        "num": 237074,
+        "word": "宋轶15岁到33岁荧幕变化",
+        "onboard_time": 1697429737,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266456,
+        "num": 236203,
+        "word": "上海宝格丽酒店被挂牌出售最贵套房30万一晚",
+        "onboard_time": 1697433755,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226506,
+        "num": 226506,
+        "word": "国考报考人数最多的岗位",
+        "onboard_time": 1697427519,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218596,
+        "num": 218596,
+        "word": "仓鼠要能做出来估计20都省了",
+        "onboard_time": 1697432618,
+        "rank": 32,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 214290,
+        "num": 214290,
+        "word": "陈晓到底跟唐晓天说了什么",
+        "onboard_time": 1697430219,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181034,
+        "num": 181034,
+        "word": "海底捞等位区竟然分i人e人",
+        "onboard_time": 1697421152,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179688,
+        "num": 179688,
+        "word": "肖战献唱同路人",
+        "onboard_time": 1697425771,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176678,
+        "num": 176678,
+        "word": "内娱甜妹妆造王者",
+        "onboard_time": 1697429617,
+        "rank": 36,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 175420,
+        "num": 175420,
+        "word": "杭州姑娘误点3两烧麦4顿没吃完",
+        "onboard_time": 1697419531,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173547,
+        "num": 173547,
+        "word": "张元英一秒表情管理",
+        "onboard_time": 1697430697,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169978,
+        "num": 169978,
+        "word": "邓为口罩眼神杀",
+        "onboard_time": 1697430578,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166657,
+        "num": 166657,
+        "word": "王鹤棣在老板婚礼上开派对",
+        "onboard_time": 1697414613,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165407,
+        "num": 165407,
+        "word": "赵小棠第一部仙侠剧",
+        "onboard_time": 1697424516,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163438,
+        "num": 163438,
+        "word": "什么病挂什么科",
+        "onboard_time": 1697420430,
+        "rank": 42,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 160231,
+        "num": 160231,
+        "word": "徐穗珍将solo歌手出道",
+        "onboard_time": 1697416594,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 155375,
+        "num": 155375,
+        "word": "中国崩铁战队全员晋级胜者组",
+        "onboard_time": 1697430460,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 154233,
+        "num": 154233,
+        "word": "派出所俩月收50多面锦旗铺了一地",
+        "onboard_time": 1697421454,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150591,
+        "num": 150591,
+        "word": "拜登称必须彻底消灭哈马斯",
+        "onboard_time": 1697418454,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 145365,
+        "num": 145365,
+        "word": "支原体肺炎主要症状有2个",
+        "onboard_time": 1697418516,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144514,
+        "num": 144514,
+        "word": "一带一路",
+        "onboard_time": 1697430397,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 136982,
+        "num": 136982,
+        "word": "白鹿王鹤棣 你好星期六",
+        "onboard_time": 1697422173,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平的丝路情缘#"
+    }
+  }
+}

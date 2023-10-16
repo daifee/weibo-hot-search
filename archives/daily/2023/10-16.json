@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697433407020,
+  "endTime": 1697434443616,
   "band_list": [
     {
       "raw_hot": 2818946,
@@ -67,6 +67,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1352795,
+      "num": 360543,
+      "word": "妻子称非常害怕嫁给威尔史密斯",
+      "onboard_time": 1697432377,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1342817,
       "num": 1342817,
       "word": "15号赢麻了 倒带赢麻了",
@@ -115,14 +123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 1052950,
-      "num": 360543,
-      "word": "妻子称非常害怕嫁给威尔史密斯",
-      "onboard_time": 1697432377,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 1041751,
       "num": 491094,
       "word": "巴勒斯坦",
@@ -137,6 +137,14 @@
       "onboard_time": 1697383775,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 983193,
+      "num": 983193,
+      "word": "华为 谢霆锋",
+      "onboard_time": 1697433755,
+      "rank": 1,
+      "category": "数码,艺人"
     },
     {
       "raw_hot": 975342,
@@ -363,20 +371,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 522093,
+      "num": 522093,
+      "word": "周一上班的我太需要这些话",
+      "onboard_time": 1697430761,
+      "rank": 49,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 519285,
       "num": 519285,
       "word": "巴以冲突已致双方超4100人死亡",
       "onboard_time": 1697416298,
       "rank": 9,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 510583,
-      "num": 510583,
-      "word": "周一上班的我太需要这些话",
-      "onboard_time": 1697430761,
-      "rank": 49,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 498331,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 447206,
-      "num": 350455,
+      "num": 434839,
       "word": "白敬亭假动作钓出两个卧底",
       "onboard_time": 1697430876,
       "rank": 16,
@@ -465,6 +473,14 @@
       "onboard_time": 1697430999,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411594,
+      "num": 326401,
+      "word": "香港顶流姜涛跑步健身",
+      "onboard_time": 1697433874,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 408558,
@@ -579,6 +595,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 326357,
+      "num": 326357,
+      "word": "迪丽热巴Live图",
+      "onboard_time": 1697432258,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321560,
       "num": 321560,
       "word": "为什么领导的头像都是风景照",
@@ -609,14 +633,6 @@
       "onboard_time": 1697422173,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 304393,
-      "num": 304393,
-      "word": "迪丽热巴Live图",
-      "onboard_time": 1697432258,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 293646,
@@ -715,6 +731,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 266461,
+      "num": 266461,
+      "word": "哈马斯",
+      "onboard_time": 1697433694,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 266456,
+      "num": 236203,
+      "word": "上海宝格丽酒店被挂牌出售最贵套房30万一晚",
+      "onboard_time": 1697433755,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262732,
       "num": 262732,
       "word": "周也吃的什么勺子这么大",
@@ -761,6 +793,14 @@
       "onboard_time": 1697417919,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254963,
+      "num": 254963,
+      "word": "7岁男孩报警说被家暴民警客串家教",
+      "onboard_time": 1697432797,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254585,
@@ -881,6 +921,14 @@
       "onboard_time": 1697361514,
       "rank": 21,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 218596,
+      "num": 218596,
+      "word": "仓鼠要能做出来估计20都省了",
+      "onboard_time": 1697432618,
+      "rank": 43,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 216896,
@@ -1083,14 +1131,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 183988,
-      "num": 183988,
-      "word": "7岁男孩报警说被家暴民警客串家教",
-      "onboard_time": 1697432797,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 182317,
       "num": 182317,
       "word": "seventeen在TMA真的剧透了",
@@ -1105,14 +1145,6 @@
       "onboard_time": 1697416896,
       "rank": 42,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 177918,
-      "num": 177918,
-      "word": "仓鼠要能做出来估计20都省了",
-      "onboard_time": 1697432618,
-      "rank": 43,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 177901,
@@ -1259,6 +1291,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 138307,
+      "num": 357177,
+      "word": "淘宝买菜打拼价玩的是商战",
+      "onboard_time": 1697432437,
+      "rank": 14,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 137428,
       "num": 145995,
       "word": "这个秋天确定不来趟河南么",
@@ -1353,14 +1393,6 @@
       "onboard_time": 1697426612,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98160,
-      "num": 357177,
-      "word": "淘宝买菜打拼价玩的是商战",
-      "onboard_time": 1697432437,
-      "rank": 14,
-      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 96867,
