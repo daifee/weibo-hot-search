@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697423802854,
+  "endTime": 1697426294748,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2251159,
-      "num": 466103,
+      "num": 497914,
       "word": "徐娇 能不能别吹我了我害怕",
       "onboard_time": 1697420492,
       "rank": 10,
@@ -65,6 +65,14 @@
       "onboard_time": 1697340870,
       "rank": 0,
       "category": "美食"
+    },
+    {
+      "raw_hot": 2148982,
+      "num": 2148982,
+      "word": "腾讯认证三部爆款剧集",
+      "onboard_time": 1697421092,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 2130164,
@@ -107,6 +115,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1944475,
+      "num": 1944475,
+      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+      "onboard_time": 1697423190,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1874909,
       "num": 1874909,
       "word": "向佐直播间情绪失控的原因",
@@ -121,14 +137,6 @@
       "onboard_time": 1697361514,
       "rank": 15,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 1833479,
-      "num": 1833479,
-      "word": "腾讯认证三部爆款剧集",
-      "onboard_time": 1697421092,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1812637,
@@ -283,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201291,
+      "num": 493376,
+      "word": "吴雅婷问王栎鑫你嗓子还好吗",
+      "onboard_time": 1697424632,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1198191,
       "num": 525118,
       "word": "什么是三级暴露",
@@ -308,7 +324,7 @@
     },
     {
       "raw_hot": 1041751,
-      "num": 453949,
+      "num": 486426,
       "word": "巴勒斯坦",
       "onboard_time": 1697418633,
       "rank": 43,
@@ -404,7 +420,7 @@
     },
     {
       "raw_hot": 875314,
-      "num": 267073,
+      "num": 341985,
       "word": "爸妈一次性给了四年的生活费",
       "onboard_time": 1697420317,
       "rank": 20,
@@ -521,6 +537,14 @@
       "onboard_time": 1697379519,
       "rank": 4,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775090,
+      "num": 491377,
+      "word": "原来外国人注册微信这么难",
+      "onboard_time": 1697425116,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 772695,
@@ -651,20 +675,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 631116,
+      "num": 631116,
+      "word": "海底捞等位区竟然分i人e人",
+      "onboard_time": 1697421152,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 630448,
       "num": 630448,
       "word": "张靓颖穿18cm靴子唱跳不带喘",
       "onboard_time": 1697296831,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 629758,
-      "num": 629758,
-      "word": "海底捞等位区竟然分i人e人",
-      "onboard_time": 1697421152,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 628015,
@@ -819,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558474,
+      "num": 558474,
+      "word": "肖战献唱同路人",
+      "onboard_time": 1697425771,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 557244,
       "num": 315902,
       "word": "现在问题不是车银优",
@@ -923,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 524076,
+      "num": 524076,
+      "word": "赵小棠第一部仙侠剧",
+      "onboard_time": 1697424516,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 522420,
       "num": 522420,
       "word": "宋轶真的好懂i人",
@@ -1025,6 +1065,22 @@
       "onboard_time": 1697352754,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481822,
+      "num": 481822,
+      "word": "小米14",
+      "onboard_time": 1697424573,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 479617,
+      "num": 479617,
+      "word": "未拆封iPhone免开箱即可更新",
+      "onboard_time": 1697421032,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 477575,
@@ -1228,7 +1284,7 @@
     },
     {
       "raw_hot": 401823,
-      "num": 286703,
+      "num": 295239,
       "word": "杭州姑娘误点3两烧麦4顿没吃完",
       "onboard_time": 1697419531,
       "rank": 21,
@@ -1313,6 +1369,14 @@
       "onboard_time": 1697341594,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 383177,
+      "num": 383177,
+      "word": "喜茶红山动物园联名",
+      "onboard_time": 1697423432,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 378806,
@@ -1436,7 +1500,7 @@
     },
     {
       "raw_hot": 350765,
-      "num": 266083,
+      "num": 293999,
       "word": "什么病挂什么科",
       "onboard_time": 1697420430,
       "rank": 23,
@@ -1555,6 +1619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 310745,
+      "num": 310745,
+      "word": "白鹿王鹤棣 你好星期六",
+      "onboard_time": 1697422173,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 308413,
       "num": 308413,
       "word": "天津马拉松最大显眼包",
@@ -1651,14 +1723,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293464,
-      "num": 244355,
-      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
-      "onboard_time": 1697423190,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 291435,
       "num": 291435,
       "word": "Taylor Swift演唱会大电影",
@@ -1747,14 +1811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277928,
-      "num": 265022,
-      "word": "白鹿王鹤棣 你好星期六",
-      "onboard_time": 1697422173,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277108,
       "num": 262247,
       "word": "现在油条都是预制品了吗",
@@ -1785,14 +1841,6 @@
       "onboard_time": 1697342073,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 274648,
-      "num": 274648,
-      "word": "未拆封iPhone免开箱即可更新",
-      "onboard_time": 1697421032,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 273132,
@@ -2003,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248112,
+      "num": 248112,
+      "word": "郑在玹开通微博",
+      "onboard_time": 1697426015,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248083,
       "num": 248083,
       "word": "名侦探学院",
@@ -2211,6 +2267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 208764,
+      "num": 208764,
+      "word": "花儿与少年",
+      "onboard_time": 1697425534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "Alin说马嘉祺的相机太可爱了",
@@ -2323,6 +2387,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 201989,
+      "num": 201989,
+      "word": "范丞丞卢昱晓同框",
+      "onboard_time": 1697422898,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201566,
       "num": 201566,
       "word": "被小孩管理的长辈朋友圈",
@@ -2353,6 +2425,14 @@
       "onboard_time": 1697369014,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200348,
+      "num": 200348,
+      "word": "被农民的中国式浪漫震撼了",
+      "onboard_time": 1697425354,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199718,
@@ -2459,14 +2539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195842,
-      "num": 195842,
-      "word": "喜茶红山动物园联名",
-      "onboard_time": 1697423432,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195828,
       "num": 195828,
       "word": "世界粮食日",
@@ -2505,14 +2577,6 @@
       "onboard_time": 1697343874,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 193963,
-      "num": 193963,
-      "word": "范丞丞卢昱晓同框",
-      "onboard_time": 1697422898,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 193617,
@@ -2593,6 +2657,14 @@
       "onboard_time": 1697383956,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187577,
+      "num": 187577,
+      "word": "刘连舸被决定逮捕",
+      "onboard_time": 1697423731,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186100,
@@ -2729,6 +2801,14 @@
       "onboard_time": 1697350292,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177901,
+      "num": 177901,
+      "word": "AR对阵Entity",
+      "onboard_time": 1697423190,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 176973,
@@ -2915,14 +2995,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 165059,
-      "num": 165059,
-      "word": "AR对阵Entity",
-      "onboard_time": 1697423190,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 163937,
       "num": 163937,
       "word": "陈哲远我那运动风男友",
@@ -2977,14 +3049,6 @@
       "onboard_time": 1697368415,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160111,
-      "num": 160111,
-      "word": "刘连舸被决定逮捕",
-      "onboard_time": 1697423731,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159488,
@@ -3089,6 +3153,14 @@
       "onboard_time": 1697368354,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151703,
+      "num": 151703,
+      "word": "AR晋级TI12胜者组",
+      "onboard_time": 1697426194,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 150463,
@@ -3289,6 +3361,14 @@
       "onboard_time": 1697361095,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132082,
+      "num": 132082,
+      "word": "XCG冠军",
+      "onboard_time": 1697425293,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 131518,
@@ -3587,6 +3667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 78022,
+      "num": 1321330,
+      "word": "神舟十七号计划本月发射",
+      "onboard_time": 1697423492,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77785,
       "num": 77785,
       "word": "张杰杨和苏合作一千公里",
@@ -3809,14 +3897,6 @@
       "onboard_time": 1697309895,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 21314,
-      "num": 1112673,
-      "word": "神舟十七号计划本月发射",
-      "onboard_time": 1697423492,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20158,

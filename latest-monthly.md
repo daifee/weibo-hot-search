@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 10:36:42
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 11:18:14
 </p>
 </blockquote>
 <p>
@@ -843,6 +843,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%AE%A4%E8%AF%81%E4%B8%89%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7%E9%9B%86%23" target="weibo">
+腾讯认证三部爆款剧集（热度：2148982）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%81%AE%E6%8C%A1%E5%8F%91%E7%90%83%23" target="weibo">
 遮挡发球（热度：2148895）
 </a>
@@ -1155,6 +1161,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94%E6%8B%92%E7%BB%9D%E7%BB%99%E6%A3%89%E8%8A%B1%E5%A8%83%E5%A8%83%E8%BF%87%E7%94%9F%E6%97%A5%E4%BA%89%E8%AE%AE%23" target="weibo">
+海底捞回应拒绝给棉花娃娃过生日争议（热度：1944475）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A6%E7%94%9F%E6%89%93%E6%95%B0%E5%8D%81%E4%B8%AA%E7%94%B5%E8%AF%9D%E4%B8%BE%E6%8A%A5%E5%AD%A6%E6%A0%A1%E5%81%87%E6%9C%9F%E8%A1%A5%E8%AF%BE%23" target="weibo">
 学生打数十个电话举报学校假期补课（热度：1942905）
 </a>
@@ -1343,12 +1355,6 @@ Angelababy喂范丞丞吃葡萄主打避嫌（热度：1868334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E5%9B%9E%E5%BA%94%E8%A3%B8%E6%8D%9056%E4%BA%BF%E6%B8%AF%E5%B8%81%23" target="weibo">
 周润发回应裸捐56亿港币（热度：1834681）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%AE%A4%E8%AF%81%E4%B8%89%E9%83%A8%E7%88%86%E6%AC%BE%E5%89%A7%E9%9B%86%23" target="weibo">
-腾讯认证三部爆款剧集（热度：1833479）
 </a>
 </li>
 
@@ -2855,6 +2861,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%90%91%E5%AF%BB%E4%BA%B2%E5%AE%B6%E9%95%BF%E9%81%93%E6%AD%89%23" target="weibo">
 孙海洋向寻亲家长道歉（热度：1204978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E9%9B%85%E5%A9%B7%E9%97%AE%E7%8E%8B%E6%A0%8E%E9%91%AB%E4%BD%A0%E5%97%93%E5%AD%90%E8%BF%98%E5%A5%BD%E5%90%97%23" target="weibo">
+吴雅婷问王栎鑫你嗓子还好吗（热度：1201291）
 </a>
 </li>
 
@@ -5097,6 +5109,12 @@ Jennie巴黎时装周（热度：789463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A4%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%86%8C%E5%BE%AE%E4%BF%A1%E8%BF%99%E4%B9%88%E9%9A%BE%23" target="weibo">
+原来外国人注册微信这么难（热度：775090）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%90%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%E6%99%8B%E7%BA%A7%23" target="weibo">
 冯琳主持人大赛第一名晋级（热度：773440）
 </a>
@@ -5993,24 +6011,6 @@ LV卖不动了吗（热度：698408）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%83%E5%8F%8A%E4%B8%80%E8%AD%A6%E5%AF%9F%E5%90%91%E4%BB%A5%E8%89%B2%E5%88%97%E6%97%85%E6%B8%B8%E5%9B%A2%E5%BC%80%E6%9E%AA%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%913%E4%BA%BA%E6%AD%BB%E4%BA%A1%23" target="weibo">
 埃及一警察向以色列旅游团开枪造成至少3人死亡（热度：679163）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%A9%AC%E9%BE%99%23" target="weibo">
-王楚钦vs马龙（热度：679146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E9%BB%91%E8%89%B2%E9%95%BF%E8%A3%99%E4%BB%8E%E8%82%A9%E9%9C%B2%E5%88%B0%E8%85%B0%23" target="weibo">
-周冬雨黑色长裙从肩露到腰（热度：678474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B6%E7%AB%A5%E8%80%81%E5%B8%88%E5%80%BC%E5%BE%97%23" target="weibo">
-叶童老师值得（热度：677476）
 </a>
 </li>
 

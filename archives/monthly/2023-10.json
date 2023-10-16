@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697423802854,
+  "endTime": 1697426294748,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 2251159,
-      "num": 466103,
+      "num": 497914,
       "word": "徐娇 能不能别吹我了我害怕",
       "onboard_time": 1697420492,
       "rank": 10,
@@ -1105,6 +1105,14 @@
       "onboard_time": 1696992631,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2148982,
+      "num": 2148982,
+      "word": "腾讯认证三部爆款剧集",
+      "onboard_time": 1697421092,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 2148895,
@@ -1523,6 +1531,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1944475,
+      "num": 1944475,
+      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+      "onboard_time": 1697423190,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1942905,
       "num": 1942905,
       "word": "学生打数十个电话举报学校假期补课",
@@ -1777,14 +1793,6 @@
       "onboard_time": 1696549586,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1833479,
-      "num": 1833479,
-      "word": "腾讯认证三部爆款剧集",
-      "onboard_time": 1697421092,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1823923,
@@ -3795,6 +3803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201291,
+      "num": 493376,
+      "word": "吴雅婷问王栎鑫你嗓子还好吗",
+      "onboard_time": 1697424632,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1200801,
       "num": 1200801,
       "word": "陈奕迅澳门演唱会被要求说国语",
@@ -5644,7 +5660,7 @@
     },
     {
       "raw_hot": 875314,
-      "num": 267073,
+      "num": 341985,
       "word": "爸妈一次性给了四年的生活费",
       "onboard_time": 1697420317,
       "rank": 20,
@@ -6777,6 +6793,14 @@
       "onboard_time": 1696666117,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 775090,
+      "num": 491377,
+      "word": "原来外国人注册微信这么难",
+      "onboard_time": 1697425116,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 773440,
@@ -8835,6 +8859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631116,
+      "num": 631116,
+      "word": "海底捞等位区竟然分i人e人",
+      "onboard_time": 1697421152,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 630448,
       "num": 630448,
       "word": "张靓颖穿18cm靴子唱跳不带喘",
@@ -8849,14 +8881,6 @@
       "onboard_time": 1696318052,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 629758,
-      "num": 629758,
-      "word": "海底捞等位区竟然分i人e人",
-      "onboard_time": 1697421152,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 629585,
@@ -10387,6 +10411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558474,
+      "num": 558474,
+      "word": "肖战献唱同路人",
+      "onboard_time": 1697425771,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 558149,
       "num": 558149,
       "word": "魏大勋说不会撕下中戏校服上的胶布",
@@ -11257,6 +11289,14 @@
       "onboard_time": 1697074654,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 524076,
+      "num": 524076,
+      "word": "赵小棠第一部仙侠剧",
+      "onboard_time": 1697424516,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 523501,
@@ -12395,6 +12435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 481822,
+      "num": 481822,
+      "word": "小米14",
+      "onboard_time": 1697424573,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 481469,
       "num": 437255,
       "word": "沈腾金晨演的夫妻",
@@ -12441,6 +12489,14 @@
       "onboard_time": 1697281651,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 479617,
+      "num": 479617,
+      "word": "未拆封iPhone免开箱即可更新",
+      "onboard_time": 1697421032,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 479522,
@@ -15012,7 +15068,7 @@
     },
     {
       "raw_hot": 401823,
-      "num": 286703,
+      "num": 295239,
       "word": "杭州姑娘误点3两烧麦4顿没吃完",
       "onboard_time": 1697419531,
       "rank": 21,
@@ -15785,6 +15841,14 @@
       "onboard_time": 1696386395,
       "rank": 19,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 383177,
+      "num": 383177,
+      "word": "喜茶红山动物园联名",
+      "onboard_time": 1697423432,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 383128,
@@ -17356,7 +17420,7 @@
     },
     {
       "raw_hot": 350765,
-      "num": 266083,
+      "num": 293999,
       "word": "什么病挂什么科",
       "onboard_time": 1697420430,
       "rank": 23,
@@ -19459,6 +19523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 310745,
+      "num": 310745,
+      "word": "白鹿王鹤棣 你好星期六",
+      "onboard_time": 1697422173,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310327,
       "num": 310327,
       "word": "他从火光中走来",
@@ -20625,14 +20697,6 @@
       "onboard_time": 1696289482,
       "rank": 34,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 293464,
-      "num": 244355,
-      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
-      "onboard_time": 1697423190,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 293233,
@@ -21923,14 +21987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277928,
-      "num": 265022,
-      "word": "白鹿王鹤棣 你好星期六",
-      "onboard_time": 1697422173,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 277878,
       "num": 277878,
       "word": "日本女足3分钟两球",
@@ -22193,14 +22249,6 @@
       "onboard_time": 1696129354,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274648,
-      "num": 274648,
-      "word": "未拆封iPhone免开箱即可更新",
-      "onboard_time": 1697421032,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 274605,
@@ -24585,6 +24633,14 @@
       "onboard_time": 1696933955,
       "rank": 46,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 248112,
+      "num": 248112,
+      "word": "郑在玹开通微博",
+      "onboard_time": 1697426015,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 248083,
@@ -28755,6 +28811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208764,
+      "num": 208764,
+      "word": "花儿与少年",
+      "onboard_time": 1697425534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208676,
       "num": 208676,
       "word": "时代少年团楼外楼舞蹈练习室版",
@@ -29915,6 +29979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 201989,
+      "num": 201989,
+      "word": "范丞丞卢昱晓同框",
+      "onboard_time": 1697422898,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201987,
       "num": 201987,
       "word": "杨丞琳陈妍希潘玮柏合照",
@@ -30225,6 +30297,14 @@
       "onboard_time": 1696954891,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 200348,
+      "num": 200348,
+      "word": "被农民的中国式浪漫震撼了",
+      "onboard_time": 1697425354,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200322,
@@ -31099,14 +31179,6 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 195842,
-      "num": 195842,
-      "word": "喜茶红山动物园联名",
-      "onboard_time": 1697423432,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195828,
       "num": 195828,
       "word": "世界粮食日",
@@ -31473,14 +31545,6 @@
       "onboard_time": 1696885213,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 193963,
-      "num": 193963,
-      "word": "范丞丞卢昱晓同框",
-      "onboard_time": 1697422898,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 193944,
@@ -32553,6 +32617,14 @@
       "onboard_time": 1696853557,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187577,
+      "num": 187577,
+      "word": "刘连舸被决定逮捕",
+      "onboard_time": 1697423731,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187564,
@@ -34033,6 +34105,14 @@
       "onboard_time": 1697350292,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 177901,
+      "num": 177901,
+      "word": "AR对阵Entity",
+      "onboard_time": 1697423190,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 177679,
@@ -35643,14 +35723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 165059,
-      "num": 165059,
-      "word": "AR对阵Entity",
-      "onboard_time": 1697423190,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164981,
       "num": 164981,
       "word": "CCTV6国庆片单",
@@ -36289,14 +36361,6 @@
       "onboard_time": 1697039432,
       "rank": 32,
       "category": "幽默,美妆"
-    },
-    {
-      "raw_hot": 160111,
-      "num": 160111,
-      "word": "刘连舸被决定逮捕",
-      "onboard_time": 1697423731,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 160085,
@@ -37265,6 +37329,14 @@
       "onboard_time": 1697092473,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151703,
+      "num": 151703,
+      "word": "AR晋级TI12胜者组",
+      "onboard_time": 1697426194,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 151598,
@@ -39057,6 +39129,14 @@
       "onboard_time": 1696835613,
       "rank": 46,
       "category": "军事"
+    },
+    {
+      "raw_hot": 132082,
+      "num": 132082,
+      "word": "XCG冠军",
+      "onboard_time": 1697425293,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 131905,
@@ -41283,6 +41363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78022,
+      "num": 1321330,
+      "word": "神舟十七号计划本月发射",
+      "onboard_time": 1697423492,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77854,
       "num": 327172,
       "word": "赛事结束播报台工作人员动情高歌",
@@ -42929,14 +43017,6 @@
       "onboard_time": 1696876516,
       "rank": 49,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 21314,
-      "num": 1112673,
-      "word": "神舟十七号计划本月发射",
-      "onboard_time": 1697423492,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20158,

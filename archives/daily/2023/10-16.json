@@ -1,14 +1,22 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697423802854,
+  "endTime": 1697426294748,
   "band_list": [
     {
       "raw_hot": 2251159,
-      "num": 466103,
+      "num": 497914,
       "word": "徐娇 能不能别吹我了我害怕",
       "onboard_time": 1697420492,
       "rank": 10,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2148982,
+      "num": 2148982,
+      "word": "腾讯认证三部爆款剧集",
+      "onboard_time": 1697421092,
+      "rank": 1,
+      "category": "剧集"
     },
     {
       "raw_hot": 2054950,
@@ -19,12 +27,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1833479,
-      "num": 1833479,
-      "word": "腾讯认证三部爆款剧集",
-      "onboard_time": 1697421092,
-      "rank": 1,
-      "category": "剧集"
+      "raw_hot": 1944475,
+      "num": 1944475,
+      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+      "onboard_time": 1697423190,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1747065,
@@ -83,8 +91,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1201291,
+      "num": 493376,
+      "word": "吴雅婷问王栎鑫你嗓子还好吗",
+      "onboard_time": 1697424632,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1041751,
-      "num": 453949,
+      "num": 486426,
       "word": "巴勒斯坦",
       "onboard_time": 1697418633,
       "rank": 43,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 875314,
-      "num": 267073,
+      "num": 341985,
       "word": "爸妈一次性给了四年的生活费",
       "onboard_time": 1697420317,
       "rank": 20,
@@ -161,6 +177,14 @@
       "onboard_time": 1697412869,
       "rank": 4,
       "category": "情感"
+    },
+    {
+      "raw_hot": 775090,
+      "num": 491377,
+      "word": "原来外国人注册微信这么难",
+      "onboard_time": 1697425116,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 751534,
@@ -203,8 +227,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 629758,
-      "num": 629758,
+      "raw_hot": 631116,
+      "num": 631116,
       "word": "海底捞等位区竟然分i人e人",
       "onboard_time": 1697421152,
       "rank": 6,
@@ -259,12 +283,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 558474,
+      "num": 558474,
+      "word": "肖战献唱同路人",
+      "onboard_time": 1697425771,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 548093,
       "num": 420388,
       "word": "A股",
       "onboard_time": 1697422474,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 524076,
+      "num": 524076,
+      "word": "赵小棠第一部仙侠剧",
+      "onboard_time": 1697424516,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 522420,
@@ -281,6 +321,22 @@
       "onboard_time": 1697416298,
       "rank": 9,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 481822,
+      "num": 481822,
+      "word": "小米14",
+      "onboard_time": 1697424573,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 479617,
+      "num": 479617,
+      "word": "未拆封iPhone免开箱即可更新",
+      "onboard_time": 1697421032,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 469995,
@@ -332,7 +388,7 @@
     },
     {
       "raw_hot": 401823,
-      "num": 286703,
+      "num": 295239,
       "word": "杭州姑娘误点3两烧麦4顿没吃完",
       "onboard_time": 1697419531,
       "rank": 21,
@@ -345,6 +401,14 @@
       "onboard_time": 1697373337,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 383177,
+      "num": 383177,
+      "word": "喜茶红山动物园联名",
+      "onboard_time": 1697423432,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 372690,
@@ -380,7 +444,7 @@
     },
     {
       "raw_hot": 350765,
-      "num": 266083,
+      "num": 293999,
       "word": "什么病挂什么科",
       "onboard_time": 1697420430,
       "rank": 23,
@@ -411,20 +475,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 310745,
+      "num": 310745,
+      "word": "白鹿王鹤棣 你好星期六",
+      "onboard_time": 1697422173,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 293646,
       "num": 293646,
       "word": "乡村爱情13刘能饰演者赵明远去世",
       "onboard_time": 1697357912,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 293464,
-      "num": 244355,
-      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
-      "onboard_time": 1697423190,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291435,
@@ -467,28 +531,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 277928,
-      "num": 265022,
-      "word": "白鹿王鹤棣 你好星期六",
-      "onboard_time": 1697422173,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275976,
       "num": 275976,
       "word": "男子一路尾随女孩店铺老板挺身呵退",
       "onboard_time": 1697417735,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 274648,
-      "num": 274648,
-      "word": "未拆封iPhone免开箱即可更新",
-      "onboard_time": 1697421032,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 273015,
@@ -563,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 248112,
+      "num": 248112,
+      "word": "郑在玹开通微博",
+      "onboard_time": 1697426015,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 240441,
       "num": 240441,
       "word": "凤凰传奇听了都得踢着正步出来",
@@ -619,6 +675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208764,
+      "num": 208764,
+      "word": "花儿与少年",
+      "onboard_time": 1697425534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207722,
       "num": 207722,
       "word": "Alin说马嘉祺的相机太可爱了",
@@ -667,11 +731,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201989,
+      "num": 201989,
+      "word": "范丞丞卢昱晓同框",
+      "onboard_time": 1697422898,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201841,
       "num": 201841,
       "word": "95后称还没去婚礼先参加了葬礼",
       "onboard_time": 1697378559,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200348,
+      "num": 200348,
+      "word": "被农民的中国式浪漫震撼了",
+      "onboard_time": 1697425354,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -699,14 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 195842,
-      "num": 195842,
-      "word": "喜茶红山动物园联名",
-      "onboard_time": 1697423432,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195828,
       "num": 195828,
       "word": "世界粮食日",
@@ -723,20 +795,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 193963,
-      "num": 193963,
-      "word": "范丞丞卢昱晓同框",
-      "onboard_time": 1697422898,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187710,
       "num": 187710,
       "word": "华浅被逼下跪",
       "onboard_time": 1697383956,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 187577,
+      "num": 187577,
+      "word": "刘连舸被决定逮捕",
+      "onboard_time": 1697423731,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 184332,
@@ -761,6 +833,14 @@
       "onboard_time": 1697416896,
       "rank": 42,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 177901,
+      "num": 177901,
+      "word": "AR对阵Entity",
+      "onboard_time": 1697423190,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 175843,
@@ -795,14 +875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 165059,
-      "num": 165059,
-      "word": "AR对阵Entity",
-      "onboard_time": 1697423190,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 164974,
       "num": 164974,
       "word": "段奥娟进组电影永不失联的爱",
@@ -835,14 +907,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160111,
-      "num": 160111,
-      "word": "刘连舸被决定逮捕",
-      "onboard_time": 1697423731,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 156051,
       "num": 156051,
       "word": "淮竹这个身段打戏太好看了",
@@ -873,6 +937,14 @@
       "onboard_time": 1697361212,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 151703,
+      "num": 151703,
+      "word": "AR晋级TI12胜者组",
+      "onboard_time": 1697426194,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 150147,
@@ -913,6 +985,14 @@
       "onboard_time": 1697368056,
       "rank": 36,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 132082,
+      "num": 132082,
+      "word": "XCG冠军",
+      "onboard_time": 1697425293,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 128081,
@@ -1001,6 +1081,14 @@
       "onboard_time": 1697373995,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78022,
+      "num": 1321330,
+      "word": "神舟十七号计划本月发射",
+      "onboard_time": 1697423492,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 77464,
@@ -1097,14 +1185,6 @@
       "onboard_time": 1697393896,
       "rank": 49,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 21314,
-      "num": 1112673,
-      "word": "神舟十七号计划本月发射",
-      "onboard_time": 1697423492,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20158,

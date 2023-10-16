@@ -1,0 +1,410 @@
+{
+  "runTime": 1697426294748,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2148982,
+        "num": 2148982,
+        "word": "腾讯认证三部爆款剧集",
+        "onboard_time": 1697421092,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1944475,
+        "num": 1944475,
+        "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+        "onboard_time": 1697423190,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78022,
+        "num": 1321330,
+        "word": "神舟十七号计划本月发射",
+        "onboard_time": 1697423492,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045855,
+        "num": 1045855,
+        "word": "不经意却很不卫生的行为",
+        "onboard_time": 1697418872,
+        "rank": 3,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 878345,
+        "num": 878345,
+        "word": "美国男子26刀刺死巴勒斯坦裔男孩",
+        "onboard_time": 1697421693,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 631116,
+        "num": 631116,
+        "word": "海底捞等位区竟然分i人e人",
+        "onboard_time": 1697421152,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 565601,
+        "num": 565601,
+        "word": "宋凯当选新一届中国足协主席",
+        "onboard_time": 1697422474,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558474,
+        "num": 558474,
+        "word": "肖战献唱同路人",
+        "onboard_time": 1697425771,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 524076,
+        "num": 524076,
+        "word": "赵小棠第一部仙侠剧",
+        "onboard_time": 1697424516,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 503217,
+        "num": 503217,
+        "word": "江歌妈妈眼中有了精气神",
+        "onboard_time": 1697420070,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1771160,
+        "num": 497914,
+        "word": "徐娇 能不能别吹我了我害怕",
+        "onboard_time": 1697420492,
+        "rank": 10,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 1201291,
+        "num": 493376,
+        "word": "吴雅婷问王栎鑫你嗓子还好吗",
+        "onboard_time": 1697424632,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 775090,
+        "num": 491377,
+        "word": "原来外国人注册微信这么难",
+        "onboard_time": 1697425116,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 707400,
+        "num": 486426,
+        "word": "巴勒斯坦",
+        "onboard_time": 1697418633,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 481822,
+        "num": 481822,
+        "word": "小米14",
+        "onboard_time": 1697424573,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 479617,
+        "num": 479617,
+        "word": "未拆封iPhone免开箱即可更新",
+        "onboard_time": 1697421032,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395096,
+        "num": 395096,
+        "word": "王鹤棣在老板婚礼上开派对",
+        "onboard_time": 1697414613,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383177,
+        "num": 383177,
+        "word": "喜茶红山动物园联名",
+        "onboard_time": 1697423432,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350957,
+        "num": 350957,
+        "word": "派出所俩月收50多面锦旗铺了一地",
+        "onboard_time": 1697421454,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350475,
+        "num": 350475,
+        "word": "A股",
+        "onboard_time": 1697422474,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 818271,
+        "num": 341985,
+        "word": "爸妈一次性给了四年的生活费",
+        "onboard_time": 1697420317,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 332160,
+        "num": 332160,
+        "word": "徐穗珍将solo歌手出道",
+        "onboard_time": 1697416594,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 315254,
+        "num": 315254,
+        "word": "拜登称必须彻底消灭哈马斯",
+        "onboard_time": 1697418454,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 310745,
+        "num": 310745,
+        "word": "白鹿王鹤棣 你好星期六",
+        "onboard_time": 1697422173,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295239,
+        "num": 295239,
+        "word": "杭州姑娘误点3两烧麦4顿没吃完",
+        "onboard_time": 1697419531,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293999,
+        "num": 293999,
+        "word": "什么病挂什么科",
+        "onboard_time": 1697420430,
+        "rank": 25,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 276427,
+        "num": 276427,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1697413654,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 271506,
+        "num": 271506,
+        "word": "支原体肺炎主要症状有2个",
+        "onboard_time": 1697418516,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248112,
+        "num": 248112,
+        "word": "郑在玹开通微博",
+        "onboard_time": 1697426015,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231665,
+        "num": 231665,
+        "word": "宋轶真的好懂i人",
+        "onboard_time": 1697418333,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224862,
+        "num": 224862,
+        "word": "披荆斩棘后张栋梁的变化",
+        "onboard_time": 1697420317,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210484,
+        "num": 210484,
+        "word": "Taylor Swift演唱会大电影",
+        "onboard_time": 1697419773,
+        "rank": 31,
+        "category": "电影,演出"
+      },
+      {
+        "raw_hot": 208764,
+        "num": 208764,
+        "word": "花儿与少年",
+        "onboard_time": 1697425534,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201989,
+        "num": 201989,
+        "word": "范丞丞卢昱晓同框",
+        "onboard_time": 1697422898,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200348,
+        "num": 200348,
+        "word": "被农民的中国式浪漫震撼了",
+        "onboard_time": 1697425354,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194396,
+        "num": 194396,
+        "word": "同事点的奶茶底部裂开了",
+        "onboard_time": 1697419714,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191969,
+        "num": 191969,
+        "word": "赵丽颖与凤行全新造型",
+        "onboard_time": 1697414493,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187577,
+        "num": 187577,
+        "word": "刘连舸被决定逮捕",
+        "onboard_time": 1697423731,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177901,
+        "num": 177901,
+        "word": "AR对阵Entity",
+        "onboard_time": 1697423190,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163362,
+        "num": 163362,
+        "word": "长这么大终于分清五谷了",
+        "onboard_time": 1697418814,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157061,
+        "num": 157061,
+        "word": "范丞丞夸金晨30亿女主角真美",
+        "onboard_time": 1697421333,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154853,
+        "num": 154853,
+        "word": "在飞机上拍到一半海水一半沙漠",
+        "onboard_time": 1697412869,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154494,
+        "num": 154494,
+        "word": "于适的胸肌给早晨一点点震撼",
+        "onboard_time": 1697420132,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151703,
+        "num": 151703,
+        "word": "AR晋级TI12胜者组",
+        "onboard_time": 1697426194,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149317,
+        "num": 149317,
+        "word": "刘亦菲的洞洞鞋",
+        "onboard_time": 1697382219,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147716,
+        "num": 147716,
+        "word": "好多Kpop艺人发了预告",
+        "onboard_time": 1697415695,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 145874,
+        "num": 145874,
+        "word": "高铁上最烦想换座位的情侣",
+        "onboard_time": 1697415993,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136900,
+        "num": 136900,
+        "word": "关于我蒸了一整个馒头这件事",
+        "onboard_time": 1697414255,
+        "rank": 47,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 134376,
+        "num": 134376,
+        "word": "i人才是e人的最佳补品",
+        "onboard_time": 1697419237,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132082,
+        "num": 132082,
+        "word": "XCG冠军",
+        "onboard_time": 1697425293,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路走合作共赢之路带来发展和繁荣#"
+    }
+  }
+}
