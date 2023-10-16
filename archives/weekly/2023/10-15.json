@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697412841498,
+  "endTime": 1697418820307,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1747065,
+      "num": 505231,
+      "word": "王鹤棣在老板婚礼上开派对",
+      "onboard_time": 1697414613,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1738499,
       "num": 1738499,
       "word": "迪丽热巴黄景瑜 二搭",
@@ -203,6 +211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1311228,
+      "num": 307376,
+      "word": "这是蜜雪冰城的私生子吗",
+      "onboard_time": 1697411787,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1305421,
       "num": 617172,
       "word": "男生用嘴帮女友吸伤口确诊三级暴露",
@@ -217,6 +233,14 @@
       "onboard_time": 1697355155,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1244276,
+      "num": 816537,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1697413654,
+      "rank": 1,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 1219187,
@@ -411,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 786521,
+      "num": 786521,
+      "word": "徐穗珍将solo歌手出道",
+      "onboard_time": 1697416594,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 783449,
+      "num": 783449,
+      "word": "在飞机上拍到一半海水一半沙漠",
+      "onboard_time": 1697412869,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
       "raw_hot": 781816,
       "num": 781816,
       "word": "女子乔迁新房70人吃席家里蹲",
@@ -587,6 +627,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 596525,
+      "num": 485036,
+      "word": "高铁上最烦想换座位的情侣",
+      "onboard_time": 1697415993,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 594735,
       "num": 594735,
       "word": "加沙地带断电前后影像对比",
@@ -643,6 +691,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 567415,
+      "num": 567415,
+      "word": "好多Kpop艺人发了预告",
+      "onboard_time": 1697415695,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 566210,
       "num": 465954,
       "word": "黄晓明去了周杰伦演唱会",
@@ -673,6 +729,14 @@
       "onboard_time": 1697334690,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 561110,
+      "num": 561110,
+      "word": "赵丽颖与凤行全新造型",
+      "onboard_time": 1697414493,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 557244,
@@ -771,6 +835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 519285,
+      "num": 519285,
+      "word": "巴以冲突已致双方超4100人死亡",
+      "onboard_time": 1697416298,
+      "rank": 9,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 518455,
       "num": 518455,
       "word": "胡兵 陈楚生站哥",
@@ -843,14 +915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486400,
-      "num": 307376,
-      "word": "这是蜜雪冰城的私生子吗",
-      "onboard_time": 1697411787,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 484341,
       "num": 265008,
       "word": "发朋友圈只发景物不发自拍",
@@ -873,6 +937,14 @@
       "onboard_time": 1697335353,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 463406,
+      "num": 463406,
+      "word": "杨洋雀斑妆",
+      "onboard_time": 1697412869,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 460830,
@@ -1035,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404647,
+      "num": 346551,
+      "word": "关于我蒸了一整个馒头这件事",
+      "onboard_time": 1697414255,
+      "rank": 20,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 400149,
       "num": 400149,
       "word": "英语老师为不同成绩准备了meme贴纸",
@@ -1131,6 +1211,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 372690,
+      "num": 372690,
+      "word": "加沙南部物价翻了2到5倍",
+      "onboard_time": 1697416536,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 371969,
       "num": 371969,
       "word": "华浅提出和离",
@@ -1171,12 +1259,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356952,
+      "num": 356952,
+      "word": "韩国地铁上看到爱宝双胞胎视频",
+      "onboard_time": 1697411787,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 356382,
       "num": 356382,
       "word": "废文网回来了",
       "onboard_time": 1697340391,
       "rank": 33,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 356084,
+      "num": 356084,
+      "word": "加沙地带死伤人数过万",
+      "onboard_time": 1697412027,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 356040,
@@ -1235,14 +1339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 340057,
-      "num": 116600,
-      "word": "韩国地铁上看到爱宝双胞胎视频",
-      "onboard_time": 1697411787,
-      "rank": 30,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 333587,
       "num": 333587,
       "word": "五月天 现场",
@@ -1267,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 327040,
+      "num": 327040,
+      "word": "宋轶真的好懂i人",
+      "onboard_time": 1697418333,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326817,
       "num": 289589,
       "word": "邓为今天好清爽",
@@ -1281,6 +1385,14 @@
       "onboard_time": 1697342495,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 325378,
+      "num": 325378,
+      "word": "拜登称必须彻底消灭哈马斯",
+      "onboard_time": 1697418454,
+      "rank": 22,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 321560,
@@ -1427,14 +1539,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 290453,
-      "num": 290453,
-      "word": "加沙地带死伤人数过万",
-      "onboard_time": 1697412027,
-      "rank": 16,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 288695,
       "num": 288695,
       "word": "我爸偷偷背着我考了个N2",
@@ -1497,6 +1601,14 @@
       "onboard_time": 1697328206,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 275976,
+      "num": 275976,
+      "word": "男子一路尾随女孩店铺老板挺身呵退",
+      "onboard_time": 1697417735,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 275003,
@@ -1603,6 +1715,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 256091,
+      "num": 256091,
+      "word": "为什么饮水机都在厕所旁边",
+      "onboard_time": 1697417974,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 255619,
+      "num": 255619,
+      "word": "张雨霏100蝶破纪录夺金",
+      "onboard_time": 1697417919,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 255470,
       "num": 255470,
       "word": "马立奥有记忆后第一次高铁行",
@@ -1617,6 +1745,14 @@
       "onboard_time": 1697376041,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 254585,
+      "num": 254585,
+      "word": "小学生上课吞圆珠笔零件呼吸困难",
+      "onboard_time": 1697417497,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 254113,
@@ -1699,6 +1835,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 240441,
+      "num": 240441,
+      "word": "凤凰传奇听了都得踢着正步出来",
+      "onboard_time": 1697415336,
+      "rank": 30,
+      "category": "幽默,音乐"
+    },
+    {
+      "raw_hot": 238649,
+      "num": 238649,
+      "word": "白鹿卢昱晓奔跑吧路透",
+      "onboard_time": 1697413471,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 237249,
       "num": 219827,
       "word": "螺蛳粉的热量真的很高吗",
@@ -1713,6 +1865,14 @@
       "onboard_time": 1697346573,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236140,
+      "num": 236140,
+      "word": "浙江逆袭王从职高读到麻省理工博士",
+      "onboard_time": 1697411966,
+      "rank": 21,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 235324,
@@ -1745,6 +1905,14 @@
       "onboard_time": 1697379398,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230570,
+      "num": 230570,
+      "word": "aespa将回归",
+      "onboard_time": 1697417614,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 230389,
@@ -1891,6 +2059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203071,
+      "num": 203071,
+      "word": "于适感谢大家一路的支持和鼓励",
+      "onboard_time": 1697418571,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202977,
       "num": 202977,
       "word": "苏醒巡演终于唱跳了",
@@ -1961,14 +2137,6 @@
       "onboard_time": 1697369014,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199950,
-      "num": 199950,
-      "word": "浙江逆袭王从职高读到麻省理工博士",
-      "onboard_time": 1697411966,
-      "rank": 21,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 199148,
@@ -2075,6 +2243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194658,
+      "num": 194658,
+      "word": "朴灿烈单曲",
+      "onboard_time": 1697418032,
+      "rank": 36,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 194502,
       "num": 194502,
       "word": "美企1美元卖亏损工厂中企接手盈利",
@@ -2155,6 +2331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188131,
+      "num": 188131,
+      "word": "支原体肺炎主要症状有2个",
+      "onboard_time": 1697418516,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187710,
       "num": 187710,
       "word": "华浅被逼下跪",
@@ -2195,12 +2379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184332,
+      "num": 184332,
+      "word": "如何伤一只柯基的自尊",
+      "onboard_time": 1697413892,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 182839,
       "num": 182839,
       "word": "国美客户端现辱骂创始人弹窗",
       "onboard_time": 1697359531,
       "rank": 30,
       "category": "互联网,社会新闻"
+    },
+    {
+      "raw_hot": 182317,
+      "num": 182317,
+      "word": "seventeen在TMA真的剧透了",
+      "onboard_time": 1697414797,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 182061,
@@ -2211,12 +2411,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 181876,
+      "num": 181876,
+      "word": "加沙地带超1000人在废墟中失踪",
+      "onboard_time": 1697416896,
+      "rank": 42,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 181284,
       "num": 181284,
       "word": "荷桂少女",
       "onboard_time": 1697355693,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 181108,
+      "num": 181108,
+      "word": "巴勒斯坦",
+      "onboard_time": 1697418633,
+      "rank": 43,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 180397,
@@ -2459,6 +2675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 162314,
+      "num": 162314,
+      "word": "cp感也是自带一些玄学的",
+      "onboard_time": 1697417256,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 162155,
       "num": 162155,
       "word": "普京称现阶段最重要的是制止流血事件",
@@ -2521,6 +2745,14 @@
       "onboard_time": 1697370814,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156051,
+      "num": 156051,
+      "word": "淮竹这个身段打戏太好看了",
+      "onboard_time": 1697416236,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 155223,
@@ -2721,6 +2953,14 @@
       "onboard_time": 1697373573,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137428,
+      "num": 145995,
+      "word": "这个秋天确定不来趟河南么",
+      "onboard_time": 1697416776,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 137307,
@@ -3227,6 +3467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 32371,
+      "num": 1339177,
+      "word": "把青春华章写在祖国大地上",
+      "onboard_time": 1697174497,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 29097,
       "num": 1101183,
       "word": "一带一路有你有我",
@@ -3281,14 +3529,6 @@
       "onboard_time": 1697397554,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19893,
-      "num": 1339177,
-      "word": "把青春华章写在祖国大地上",
-      "onboard_time": 1697174497,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 17452,
