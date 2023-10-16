@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697480611293,
+  "endTime": 1697481438570,
   "band_list": [
     {
       "raw_hot": 1611627,
@@ -459,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40272,
+      "num": 47829,
+      "word": "我救不了千万个它 但下个路口有千万个我",
+      "onboard_time": 1697479037,
+      "rank": 38,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 39262,
       "num": 53272,
       "word": "王鹤棣蓝色挑染",
@@ -475,15 +483,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32856,
-      "num": 47829,
-      "word": "我救不了千万个它 但下个路口有千万个我",
-      "onboard_time": 1697479037,
-      "rank": 38,
-      "category": "动物萌宠"
+      "raw_hot": 37477,
+      "num": 47776,
+      "word": "强烈的自卑会使人变得非常无礼",
+      "onboard_time": 1697480416,
+      "rank": 49,
+      "category": "情感"
     },
     {
-      "raw_hot": 26170,
+      "raw_hot": 30055,
       "num": 47791,
       "word": "金毛吃光37包鸭翅躲起来偷瞄主人",
       "onboard_time": 1697480117,
@@ -491,12 +499,12 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 24258,
-      "num": 47776,
-      "word": "强烈的自卑会使人变得非常无礼",
-      "onboard_time": 1697480416,
+      "raw_hot": 22186,
+      "num": 30006,
+      "word": "无人驾驶汽车飞过金鸡湖上空",
+      "onboard_time": 1697480056,
       "rank": 49,
-      "category": "情感"
+      "category": "科技"
     },
     {
       "raw_hot": 9333,
