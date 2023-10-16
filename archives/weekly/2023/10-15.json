@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697456067339,
+  "endTime": 1697459674914,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -57,6 +57,14 @@
       "onboard_time": 1697357912,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2351017,
+      "num": 1907537,
+      "word": "狗主人责任",
+      "onboard_time": 1697451692,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2290994,
@@ -163,14 +171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1907537,
-      "num": 1907537,
-      "word": "狗主人责任",
-      "onboard_time": 1697451692,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1886530,
       "num": 1886530,
       "word": "尊重式分手",
@@ -259,7 +259,23 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1522801,
+      "raw_hot": 1625330,
+      "num": 343916,
+      "word": "拉布拉多",
+      "onboard_time": 1697456313,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1617686,
+      "num": 1617686,
+      "word": "街道办已动员数百人寻找肇事烈犬",
+      "onboard_time": 1697452773,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1560241,
       "num": 1522801,
       "word": "MiuMiu钻石内裤",
       "onboard_time": 1697453435,
@@ -403,14 +419,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1208821,
-      "num": 1208821,
-      "word": "街道办已动员数百人寻找肇事烈犬",
-      "onboard_time": 1697452773,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1198191,
       "num": 525118,
       "word": "什么是三级暴露",
@@ -521,6 +529,14 @@
       "onboard_time": 1697433694,
       "rank": 25,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 944973,
+      "num": 944973,
+      "word": "小胖 努力三年只为和你顶峰相见",
+      "onboard_time": 1697457213,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 937314,
@@ -729,6 +745,14 @@
       "onboard_time": 1697283392,
       "rank": 6,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 770439,
+      "num": 770439,
+      "word": "母亲讲述女童被大型犬撕咬致肾破裂",
+      "onboard_time": 1697456490,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 759133,
@@ -1427,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 466778,
+      "num": 466778,
+      "word": "白鹿带闺蜜看五月天演唱会",
+      "onboard_time": 1697459134,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 463406,
       "num": 463406,
       "word": "杨洋雀斑妆",
@@ -2035,6 +2067,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 350318,
+      "num": 350318,
+      "word": "国足vs乌兹别克斯坦",
+      "onboard_time": 1697455655,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350146,
       "num": 326357,
       "word": "迪丽热巴Live图",
@@ -2056,6 +2096,14 @@
       "word": "S13抽签",
       "onboard_time": 1697371658,
       "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 344066,
+      "num": 344066,
+      "word": "胖胖的李",
+      "onboard_time": 1697456674,
+      "rank": 9,
       "category": "电竞"
     },
     {
@@ -2619,6 +2667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 267069,
+      "num": 267069,
+      "word": "孟子义问范丞丞是不是创造营第一",
+      "onboard_time": 1697459013,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 264063,
       "num": 264063,
       "word": "张元英金丝眼镜",
@@ -2648,6 +2704,14 @@
       "word": "罗威纳",
       "onboard_time": 1697447194,
       "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261404,
+      "num": 261404,
+      "word": "特斯拉车主高速多次别车被刑拘",
+      "onboard_time": 1697458474,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -2987,6 +3051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 231471,
+      "num": 231471,
+      "word": "林俊杰咸阳",
+      "onboard_time": 1697458294,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 230570,
       "num": 230570,
       "word": "aespa将回归",
@@ -3011,6 +3083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229456,
+      "num": 229456,
+      "word": "明天秋裤备好",
+      "onboard_time": 1697457093,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 228268,
       "num": 228268,
       "word": "王牌家族全员回复贾玲",
@@ -3033,6 +3113,14 @@
       "onboard_time": 1697325861,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226724,
+      "num": 226724,
+      "word": "莲花楼台词中的治愈感",
+      "onboard_time": 1697458534,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 226112,
@@ -3203,6 +3291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207316,
+      "num": 207316,
+      "word": "蔡文静美拉德穿搭",
+      "onboard_time": 1697458893,
+      "rank": 28,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206968,
       "num": 206968,
       "word": "范丞丞夸金晨30亿女主角真美",
@@ -3233,6 +3329,14 @@
       "onboard_time": 1697448394,
       "rank": 27,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 205711,
+      "num": 205711,
+      "word": "徐穗珍与BRD公司签约",
+      "onboard_time": 1697457994,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 205425,
@@ -3803,14 +3907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 184554,
-      "num": 184554,
-      "word": "国足vs乌兹别克斯坦",
-      "onboard_time": 1697455655,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184356,
       "num": 184356,
       "word": "张杰马冬梅行为",
@@ -3833,6 +3929,14 @@
       "onboard_time": 1697444671,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 183787,
+      "num": 183787,
+      "word": "韩火火大秀集齐顶流综艺",
+      "onboard_time": 1697456432,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 182839,
@@ -4075,6 +4179,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 171991,
+      "num": 171991,
+      "word": "被大型犬撕咬女童母亲发声",
+      "onboard_time": 1697459374,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171735,
       "num": 486784,
       "word": "范丞丞扛住了怼脸镜头",
@@ -4187,12 +4299,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165621,
+      "num": 165621,
+      "word": "街道办回应女童被大黑狗撕咬",
+      "onboard_time": 1697457811,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165212,
       "num": 165212,
       "word": "一群小猫和一群小狗首次见面",
       "onboard_time": 1697300012,
       "rank": 47,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 164333,
+      "num": 164333,
+      "word": "情久唯爱AG",
+      "onboard_time": 1697459076,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 163937,
@@ -4265,6 +4393,14 @@
       "onboard_time": 1697454813,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157323,
+      "num": 157323,
+      "word": "AG对战TTG",
+      "onboard_time": 1697459553,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 156876,
@@ -4369,6 +4505,14 @@
       "onboard_time": 1697368354,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150840,
+      "num": 150840,
+      "word": "一起开启丝路奇旅",
+      "onboard_time": 1697459196,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150463,
@@ -4616,6 +4760,14 @@
       "word": "张凌赫金靖合照",
       "onboard_time": 1697336009,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 136367,
+      "num": 136367,
+      "word": "关智斌找徐良为容祖儿写歌",
+      "onboard_time": 1697456073,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -5113,6 +5265,14 @@
       "onboard_time": 1697397734,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49265,
+      "num": 984337,
+      "word": "杭州亚残运村今天开村了",
+      "onboard_time": 1697442873,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 43831,

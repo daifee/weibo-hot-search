@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 19:34:27
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/16 20:34:34
 </p>
 </blockquote>
 <p>
@@ -645,6 +645,12 @@ DIOR 迪丽热巴（热度：2432400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B4%A3%E4%BB%BB%23" target="weibo">
+狗主人责任（热度：2351017）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%BF%9E%E7%BB%AD%E4%B8%8B%E8%B7%8C%23" target="weibo">
 金价连续下跌（热度：2347720）
 </a>
@@ -1263,12 +1269,6 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B4%A3%E4%BB%BB%23" target="weibo">
-狗主人责任（热度：1907537）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
 狗头萝莉发文致歉（热度：1895203）
 </a>
@@ -1851,6 +1851,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%23" target="weibo">
+拉布拉多（热度：1625330）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E4%BA%AC%E6%8E%A2%E7%8F%AD%20%E9%9C%8D%E6%80%9D%E7%87%95%E6%B3%AA%E6%B4%92%20%E5%BC%A0%E8%89%BA%E8%B0%8B%E9%9C%87%E6%83%8A%23" target="weibo">
 吴京探班 霍思燕泪洒 张艺谋震惊（热度：1624973）
 </a>
@@ -1883,6 +1889,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23MLB%20%E6%96%87%E6%A1%88%23" target="weibo">
 MLB 文案（热度：1618045）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E5%B7%B2%E5%8A%A8%E5%91%98%E6%95%B0%E7%99%BE%E4%BA%BA%E5%AF%BB%E6%89%BE%E8%82%87%E4%BA%8B%E7%83%88%E7%8A%AC%23" target="weibo">
+街道办已动员数百人寻找肇事烈犬（热度：1617686）
 </a>
 </li>
 
@@ -2019,6 +2031,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23MiuMiu%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4%23" target="weibo">
+MiuMiu钻石内裤（热度：1560241）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9D%9A%E6%8C%81%E8%AE%A9%E5%A5%B3%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%9A%8F2%E5%8D%83%23" target="weibo">
 妈妈坚持让女子婚礼随2千（热度：1557702）
 </a>
@@ -2087,12 +2105,6 @@ DOTA2中国队晋级决赛（热度：1546862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E%E5%9B%A0%E4%B8%BA%E8%A2%AB%E5%98%B2%E7%AC%91%E8%8B%B1%E6%96%87%E5%8E%BB%E6%BC%94%E4%BA%86%E8%8B%B1%E8%AF%AD%E8%80%81%E5%B8%88%23" target="weibo">
 黄晓明因为被嘲笑英文去演了英语老师（热度：1525476）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23MiuMiu%E9%92%BB%E7%9F%B3%E5%86%85%E8%A3%A4%23" target="weibo">
-MiuMiu钻石内裤（热度：1522801）
 </a>
 </li>
 
@@ -2933,12 +2945,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F17%E5%B2%81%E5%B0%91%E5%B9%B4%E6%9D%80%E5%AE%B365%E5%B2%81%E6%88%BF%E4%B8%9C%23" target="weibo">
 浙江17岁少年杀害65岁房东（热度：1209353）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E5%B7%B2%E5%8A%A8%E5%91%98%E6%95%B0%E7%99%BE%E4%BA%BA%E5%AF%BB%E6%89%BE%E8%82%87%E4%BA%8B%E7%83%88%E7%8A%AC%23" target="weibo">
-街道办已动员数百人寻找肇事烈犬（热度：1208821）
 </a>
 </li>
 
@@ -3989,6 +3995,12 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BD%B3%E9%B9%8F%E9%80%86%E8%BD%AC%23" target="weibo">
 陈佳鹏逆转（热度：945504）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%20%E5%8A%AA%E5%8A%9B%E4%B8%89%E5%B9%B4%E5%8F%AA%E4%B8%BA%E5%92%8C%E4%BD%A0%E9%A1%B6%E5%B3%B0%E7%9B%B8%E8%A7%81%23" target="weibo">
+小胖 努力三年只为和你顶峰相见（热度：944973）
 </a>
 </li>
 
@@ -5277,6 +5289,12 @@ Jennie巴黎时装周（热度：789463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%AE%B2%E8%BF%B0%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%A4%A7%E5%9E%8B%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E8%82%BE%E7%A0%B4%E8%A3%82%23" target="weibo">
+母亲讲述女童被大型犬撕咬致肾破裂（热度：770439）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A2%E5%A9%9A%E4%B9%B0%E4%B8%89%E9%87%91%E6%97%B6%E6%88%91%E5%A6%88%E4%B9%9F%E6%83%B3%E8%A6%81%23" target="weibo">
 订婚买三金时我妈也想要（热度：770114）
 </a>
@@ -5993,24 +6011,6 @@ DOTA2中国队追平（热度：704439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LV%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%E5%90%97%23" target="weibo">
 LV卖不动了吗（热度：698408）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%918%E4%B8%8A7%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C%23" target="weibo">
-休8上7是什么体验（热度：697992）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%9C%BA%E5%9C%BA%E6%80%92%E6%80%BC%E8%B7%9F%E6%8B%8D%23" target="weibo">
-王楚钦机场怒怼跟拍（热度：697339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A5%B3%E8%B6%B3%E5%85%A8%E9%98%9F%E5%90%91%E6%B0%B4%E5%BA%86%E9%9C%9E%E9%9E%A0%E8%BA%AC%23" target="weibo">
-日本女足全队向水庆霞鞠躬（热度：696787）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1697459674914,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1617686,
+        "num": 1617686,
+        "word": "街道办已动员数百人寻找肇事烈犬",
+        "onboard_time": 1697452773,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1253455,
+        "num": 1253455,
+        "word": "朱一龙 北大",
+        "onboard_time": 1697447073,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49265,
+        "num": 984337,
+        "word": "杭州亚残运村今天开村了",
+        "onboard_time": 1697442873,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2351017,
+        "num": 981751,
+        "word": "狗主人责任",
+        "onboard_time": 1697451692,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 944973,
+        "num": 944973,
+        "word": "小胖 努力三年只为和你顶峰相见",
+        "onboard_time": 1697457213,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 770439,
+        "num": 770439,
+        "word": "母亲讲述女童被大型犬撕咬致肾破裂",
+        "onboard_time": 1697456490,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 645561,
+        "num": 645561,
+        "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
+        "onboard_time": 1697448994,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 466778,
+        "num": 466778,
+        "word": "白鹿带闺蜜看五月天演唱会",
+        "onboard_time": 1697459134,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 350318,
+        "num": 350318,
+        "word": "国足vs乌兹别克斯坦",
+        "onboard_time": 1697455655,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344066,
+        "num": 344066,
+        "word": "胖胖的李",
+        "onboard_time": 1697456674,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1625330,
+        "num": 343916,
+        "word": "拉布拉多",
+        "onboard_time": 1697456313,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 836023,
+        "num": 336310,
+        "word": "两大型犬撕咬2岁半女童致严重受伤",
+        "onboard_time": 1697440172,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 457634,
+        "num": 331830,
+        "word": "刘诗诗谢娜同框看秀",
+        "onboard_time": 1697454517,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 371083,
+        "num": 330430,
+        "word": "赵今麦在穿",
+        "onboard_time": 1697454035,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 327447,
+        "num": 327447,
+        "word": "死掉的大闸蟹有多毒",
+        "onboard_time": 1697452534,
+        "rank": 14,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 271832,
+        "num": 312510,
+        "word": "塞尔维亚总统武契奇抵华",
+        "onboard_time": 1697453674,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 298491,
+        "num": 298491,
+        "word": "被田耕纪气死",
+        "onboard_time": 1697453311,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 293367,
+        "num": 293367,
+        "word": "麻酱拿铁",
+        "onboard_time": 1697446056,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 267069,
+        "num": 267069,
+        "word": "孟子义问范丞丞是不是创造营第一",
+        "onboard_time": 1697459013,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261404,
+        "num": 261404,
+        "word": "特斯拉车主高速多次别车被刑拘",
+        "onboard_time": 1697458474,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1560241,
+        "num": 260259,
+        "word": "MiuMiu钻石内裤",
+        "onboard_time": 1697453435,
+        "rank": 20,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 354290,
+        "num": 253310,
+        "word": "钟楚曦曾在七夕被分手",
+        "onboard_time": 1697442812,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246187,
+        "num": 246187,
+        "word": "博主100元吃遍东北早市被指造假",
+        "onboard_time": 1697451395,
+        "rank": 22,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 231471,
+        "num": 231471,
+        "word": "林俊杰咸阳",
+        "onboard_time": 1697458294,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229506,
+        "num": 229506,
+        "word": "我们四个把日子过好比什么都强",
+        "onboard_time": 1697444733,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229456,
+        "num": 229456,
+        "word": "明天秋裤备好",
+        "onboard_time": 1697457093,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226724,
+        "num": 226724,
+        "word": "莲花楼台词中的治愈感",
+        "onboard_time": 1697458534,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215829,
+        "num": 215829,
+        "word": "爸妈一次性给了四年的生活费",
+        "onboard_time": 1697420317,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207316,
+        "num": 207316,
+        "word": "蔡文静美拉德穿搭",
+        "onboard_time": 1697458893,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205711,
+        "num": 205711,
+        "word": "徐穗珍与BRD公司签约",
+        "onboard_time": 1697457994,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184630,
+        "num": 184630,
+        "word": "赵丽颖工作室换头像",
+        "onboard_time": 1697453375,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183787,
+        "num": 183787,
+        "word": "韩火火大秀集齐顶流综艺",
+        "onboard_time": 1697456432,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178668,
+        "num": 178668,
+        "word": "迪丽热巴秦岚周也美女贴贴",
+        "onboard_time": 1697439811,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 171991,
+        "num": 171991,
+        "word": "被大型犬撕咬女童母亲发声",
+        "onboard_time": 1697459374,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166845,
+        "num": 166845,
+        "word": "自建房造的丑 关我入住后什么事",
+        "onboard_time": 1697451692,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 166824,
+        "num": 166824,
+        "word": "被狗咬伤女童生命体征平稳",
+        "onboard_time": 1697451634,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165621,
+        "num": 165621,
+        "word": "街道办回应女童被大黑狗撕咬",
+        "onboard_time": 1697457811,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164333,
+        "num": 164333,
+        "word": "情久唯爱AG",
+        "onboard_time": 1697459076,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163265,
+        "num": 163265,
+        "word": "仲溪午男狐狸",
+        "onboard_time": 1697454517,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157323,
+        "num": 157323,
+        "word": "AG对战TTG",
+        "onboard_time": 1697459553,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151659,
+        "num": 151659,
+        "word": "这才是面试官爱听的离职原因",
+        "onboard_time": 1697441012,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150840,
+        "num": 150840,
+        "word": "一起开启丝路奇旅",
+        "onboard_time": 1697459196,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146914,
+        "num": 146914,
+        "word": "迪丽热巴鎏金长裙梦回乔晶晶",
+        "onboard_time": 1697442214,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 145765,
+        "num": 145765,
+        "word": "尊重式分手",
+        "onboard_time": 1697442273,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145115,
+        "num": 145115,
+        "word": "华为 谢霆锋",
+        "onboard_time": 1697433755,
+        "rank": 44,
+        "category": "数码,艺人"
+      },
+      {
+        "raw_hot": 141005,
+        "num": 141005,
+        "word": "外交部建议在以中国公民尽快回国",
+        "onboard_time": 1697444131,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 139564,
+        "num": 139564,
+        "word": "拜登回应巴勒斯坦裔男孩被刺死",
+        "onboard_time": 1697448934,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139451,
+        "num": 139451,
+        "word": "今天是A股6124点16周年",
+        "onboard_time": 1697452356,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136367,
+        "num": 136367,
+        "word": "关智斌找徐良为容祖儿写歌",
+        "onboard_time": 1697456073,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132213,
+        "num": 132213,
+        "word": "问心集集刀",
+        "onboard_time": 1697454813,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路十年之约#"
+    }
+  }
+}
