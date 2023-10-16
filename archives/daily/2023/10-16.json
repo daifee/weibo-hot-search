@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697437448956,
+  "endTime": 1697438220428,
   "band_list": [
     {
       "raw_hot": 2818946,
@@ -51,7 +51,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1780661,
+      "raw_hot": 1820817,
       "num": 326401,
       "word": "香港顶流姜涛跑步健身",
       "onboard_time": 1697433874,
@@ -163,8 +163,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 928216,
-      "num": 294723,
+      "raw_hot": 948799,
+      "num": 314986,
       "word": "哈马斯",
       "onboard_time": 1697433694,
       "rank": 25,
@@ -347,6 +347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 573744,
+      "num": 573744,
+      "word": "网传外国游客无人机撞损文峰塔",
+      "onboard_time": 1697436516,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 567415,
       "num": 567415,
       "word": "好多Kpop艺人发了预告",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 492678,
-      "num": 248614,
+      "num": 307983,
       "word": "上海宝格丽酒店被挂牌出售最贵套房30万一晚",
       "onboard_time": 1697433755,
       "rank": 30,
@@ -433,6 +441,14 @@
       "onboard_time": 1697431599,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 486631,
+      "num": 312422,
+      "word": "雷军 别着急这次产品很很很强",
+      "onboard_time": 1697437052,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 479617,
@@ -508,7 +524,7 @@
     },
     {
       "raw_hot": 424113,
-      "num": 240395,
+      "num": 307147,
       "word": "上海独生女为买房火速结婚",
       "onboard_time": 1697434595,
       "rank": 22,
@@ -571,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359344,
-      "num": 359344,
-      "word": "网传外国游客无人机撞损文峰塔",
-      "onboard_time": 1697436516,
-      "rank": 6,
-      "category": "社会新闻"
+      "raw_hot": 364681,
+      "num": 311055,
+      "word": "以军和哈马斯加沙南部临时停火5小时",
+      "onboard_time": 1697437831,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 359209,
@@ -619,12 +635,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347215,
+      "num": 309471,
+      "word": "俄罗斯外长拉夫罗夫抵达北京",
+      "onboard_time": 1697437052,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 338398,
       "num": 302983,
       "word": "花儿与少年",
       "onboard_time": 1697425534,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 329513,
+      "num": 329513,
+      "word": "谷村新司去世",
+      "onboard_time": 1697437956,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 328911,
@@ -635,12 +667,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 327843,
+      "num": 305707,
+      "word": "王者周年庆返场皮肤",
+      "onboard_time": 1697436213,
+      "rank": 18,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 327842,
       "num": 327842,
       "word": "白桃星座",
       "onboard_time": 1697382576,
       "rank": 15,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 326402,
+      "num": 304887,
+      "word": "田曦薇第六集了很难再忍下去",
+      "onboard_time": 1697435372,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 321560,
@@ -652,7 +700,7 @@
     },
     {
       "raw_hot": 320374,
-      "num": 300353,
+      "num": 316934,
       "word": "国考报考人数最多的岗位",
       "onboard_time": 1697427519,
       "rank": 25,
@@ -675,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 304716,
-      "num": 230976,
-      "word": "田曦薇第六集了很难再忍下去",
-      "onboard_time": 1697435372,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 299283,
+      "num": 299283,
+      "word": "体育总局副局长点名足协塌方式腐败",
+      "onboard_time": 1697437351,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 293646,
@@ -729,14 +777,6 @@
       "onboard_time": 1697419714,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 281465,
-      "num": 281465,
-      "word": "王者周年庆返场皮肤",
-      "onboard_time": 1697436213,
-      "rank": 18,
-      "category": "游戏"
     },
     {
       "raw_hot": 279312,
@@ -931,12 +971,12 @@
       "category": "社会新闻,教育"
     },
     {
-      "raw_hot": 232910,
-      "num": 201478,
-      "word": "俄罗斯外长拉夫罗夫抵达北京",
-      "onboard_time": 1697437052,
-      "rank": 30,
-      "category": "国内要闻"
+      "raw_hot": 233233,
+      "num": 233233,
+      "word": "卢昱晓的脸遇上胶片",
+      "onboard_time": 1697436274,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 230570,
@@ -969,14 +1009,6 @@
       "onboard_time": 1697361514,
       "rank": 21,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 218681,
-      "num": 218681,
-      "word": "卢昱晓的脸遇上胶片",
-      "onboard_time": 1697436274,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 218596,
@@ -1163,14 +1195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 193698,
-      "num": 193698,
-      "word": "雷军 别着急这次产品很很很强",
-      "onboard_time": 1697437052,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 192994,
       "num": 192994,
       "word": "别急你的外卖小哥正在救人",
@@ -1267,14 +1291,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169373,
-      "num": 169373,
-      "word": "体育总局副局长点名足协塌方式腐败",
-      "onboard_time": 1697437351,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168403,
       "num": 168403,
       "word": "蔡国庆在陈楚生演唱会唱365个祝福",
@@ -1363,6 +1379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149127,
+      "num": 149127,
+      "word": "在罗马穿马面裙citywalk",
+      "onboard_time": 1697436992,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 145573,
       "num": 145573,
       "word": "胡兵 陈楚生站哥",
@@ -1425,14 +1449,6 @@
       "onboard_time": 1697384614,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116971,
-      "num": 116971,
-      "word": "在罗马穿马面裙citywalk",
-      "onboard_time": 1697436992,
-      "rank": 43,
-      "category": "时尚"
     },
     {
       "raw_hot": 116686,
@@ -1505,6 +1521,14 @@
       "onboard_time": 1697426612,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 101115,
+      "num": 107358,
+      "word": "食族人天官赐福漫画",
+      "onboard_time": 1697438132,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 96867,
