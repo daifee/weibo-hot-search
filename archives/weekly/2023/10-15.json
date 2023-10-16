@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697423155347,
+  "endTime": 1697423802854,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -123,6 +123,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 1833479,
+      "num": 1833479,
+      "word": "腾讯认证三部爆款剧集",
+      "onboard_time": 1697421092,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1812637,
       "num": 609851,
       "word": "33岁男子自捆双脚跳桥身亡",
@@ -145,14 +153,6 @@
       "onboard_time": 1697339429,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1758375,
-      "num": 1758375,
-      "word": "腾讯认证三部爆款剧集",
-      "onboard_time": 1697421092,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1747065,
@@ -307,6 +307,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1041751,
+      "num": 453949,
+      "word": "巴勒斯坦",
+      "onboard_time": 1697418633,
+      "rank": 43,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1035373,
       "num": 466230,
       "word": "刘亦菲的洞洞鞋",
@@ -337,14 +345,6 @@
       "onboard_time": 1697383775,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 983046,
-      "num": 453949,
-      "word": "巴勒斯坦",
-      "onboard_time": 1697418633,
-      "rank": 43,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 968320,
@@ -387,6 +387,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 895035,
+      "num": 895035,
+      "word": "美国男子26刀刺死巴勒斯坦裔男孩",
+      "onboard_time": 1697421693,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 881980,
       "num": 881980,
       "word": "贾玲王牌8请假条",
@@ -395,7 +403,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 875108,
+      "raw_hot": 875314,
       "num": 267073,
       "word": "爸妈一次性给了四年的生活费",
       "onboard_time": 1697420317,
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 717657,
+      "num": 717657,
+      "word": "宋凯当选新一届中国足协主席",
+      "onboard_time": 1697422474,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 697339,
       "num": 697339,
       "word": "王楚钦机场怒怼跟拍",
@@ -561,14 +577,6 @@
       "onboard_time": 1697381077,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 689314,
-      "num": 689314,
-      "word": "美国男子26刀刺死巴勒斯坦裔男孩",
-      "onboard_time": 1697421693,
-      "rank": 3,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 686649,
@@ -611,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 653869,
+      "num": 653869,
+      "word": "江歌妈妈眼中有了精气神",
+      "onboard_time": 1697420070,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 651624,
       "num": 651624,
       "word": "梁朝伟首次提名金鸡奖",
@@ -635,20 +651,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 635631,
-      "num": 635631,
-      "word": "江歌妈妈眼中有了精气神",
-      "onboard_time": 1697420070,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 630448,
       "num": 630448,
       "word": "张靓颖穿18cm靴子唱跳不带喘",
       "onboard_time": 1697296831,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 629758,
+      "num": 629758,
+      "word": "海底捞等位区竟然分i人e人",
+      "onboard_time": 1697421152,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 628015,
@@ -673,14 +689,6 @@
       "onboard_time": 1697364393,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 616846,
-      "num": 616846,
-      "word": "海底捞等位区竟然分i人e人",
-      "onboard_time": 1697421152,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 607584,
@@ -835,6 +843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 548093,
+      "num": 420388,
+      "word": "A股",
+      "onboard_time": 1697422474,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 544685,
       "num": 268379,
       "word": "你以为减肥实际上增肥的食物",
@@ -849,14 +865,6 @@
       "onboard_time": 1697381017,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 543224,
-      "num": 543224,
-      "word": "宋凯当选新一届中国足协主席",
-      "onboard_time": 1697422474,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 541996,
@@ -1059,6 +1067,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457304,
+      "num": 457304,
+      "word": "派出所俩月收50多面锦旗铺了一地",
+      "onboard_time": 1697421454,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455090,
       "num": 455090,
       "word": "社保缴15年和25年待遇差别",
@@ -1171,14 +1187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 420388,
-      "num": 420388,
-      "word": "A股",
-      "onboard_time": 1697422474,
-      "rank": 14,
-      "category": "财经"
-    },
-    {
       "raw_hot": 417218,
       "num": 305306,
       "word": "王栎鑫白毛",
@@ -1217,14 +1225,6 @@
       "onboard_time": 1697414255,
       "rank": 20,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 401972,
-      "num": 401972,
-      "word": "派出所俩月收50多面锦旗铺了一地",
-      "onboard_time": 1697421454,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401823,
@@ -1651,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 293464,
+      "num": 244355,
+      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+      "onboard_time": 1697423190,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291435,
       "num": 291435,
       "word": "Taylor Swift演唱会大电影",
@@ -1667,7 +1675,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 289305,
+      "raw_hot": 289944,
       "num": 265781,
       "word": "披荆斩棘后张栋梁的变化",
       "onboard_time": 1697420317,
@@ -1739,6 +1747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277928,
+      "num": 265022,
+      "word": "白鹿王鹤棣 你好星期六",
+      "onboard_time": 1697422173,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277108,
       "num": 262247,
       "word": "现在油条都是预制品了吗",
@@ -1769,6 +1785,14 @@
       "onboard_time": 1697342073,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 274648,
+      "num": 274648,
+      "word": "未拆封iPhone免开箱即可更新",
+      "onboard_time": 1697421032,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 273132,
@@ -1833,22 +1857,6 @@
       "onboard_time": 1697418814,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 265158,
-      "num": 265158,
-      "word": "未拆封iPhone免开箱即可更新",
-      "onboard_time": 1697421032,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 265022,
-      "num": 265022,
-      "word": "白鹿王鹤棣 你好星期六",
-      "onboard_time": 1697422173,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 264063,
@@ -2347,6 +2355,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199718,
+      "num": 199718,
+      "word": "剑网3校服",
+      "onboard_time": 1697422715,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199602,
       "num": 199602,
       "word": "曾黎私服穿搭",
@@ -2361,14 +2377,6 @@
       "onboard_time": 1697369314,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199130,
-      "num": 199130,
-      "word": "剑网3校服",
-      "onboard_time": 1697422715,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 199051,
@@ -2451,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195842,
+      "num": 195842,
+      "word": "喜茶红山动物园联名",
+      "onboard_time": 1697423432,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195828,
       "num": 195828,
       "word": "世界粮食日",
@@ -2489,6 +2505,14 @@
       "onboard_time": 1697343874,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 193963,
+      "num": 193963,
+      "word": "范丞丞卢昱晓同框",
+      "onboard_time": 1697422898,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 193617,
@@ -2891,6 +2915,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 165059,
+      "num": 165059,
+      "word": "AR对阵Entity",
+      "onboard_time": 1697423190,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163937,
       "num": 163937,
       "word": "陈哲远我那运动风男友",
@@ -2947,20 +2979,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160111,
+      "num": 160111,
+      "word": "刘连舸被决定逮捕",
+      "onboard_time": 1697423731,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159488,
       "num": 205593,
       "word": "2023最后一场日环食要来了",
       "onboard_time": 1697380298,
       "rank": 42,
       "category": "自然"
-    },
-    {
-      "raw_hot": 157637,
-      "num": 157637,
-      "word": "范丞丞卢昱晓同框",
-      "onboard_time": 1697422898,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 156876,
@@ -3779,6 +3811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21314,
+      "num": 1112673,
+      "word": "神舟十七号计划本月发射",
+      "onboard_time": 1697423492,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 20158,
       "num": 27989,
       "word": "薛之谦脏辫开花了",
@@ -3795,19 +3835,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15171,
+      "num": 698960,
+      "word": "照片里的青春",
+      "onboard_time": 1697085820,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 12196,
       "num": 15793,
       "word": "侗寨千人大歌现场有多震撼",
       "onboard_time": 1697314754,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 9725,
-      "num": 698960,
-      "word": "照片里的青春",
-      "onboard_time": 1697085820,
-      "rank": 6,
       "category": "社会新闻"
     }
   ],

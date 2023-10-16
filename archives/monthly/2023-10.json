@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697423155347,
+  "endTime": 1697423802854,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1779,6 +1779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1833479,
+      "num": 1833479,
+      "word": "腾讯认证三部爆款剧集",
+      "onboard_time": 1697421092,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1823923,
       "num": 1823923,
       "word": "研一男生入学1个月被邀当导师伴郎",
@@ -1977,14 +1985,6 @@
       "onboard_time": 1697202034,
       "rank": 1,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1758375,
-      "num": 1758375,
-      "word": "腾讯认证三部爆款剧集",
-      "onboard_time": 1697421092,
-      "rank": 1,
-      "category": "剧集"
     },
     {
       "raw_hot": 1756284,
@@ -5427,6 +5427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 895035,
+      "num": 895035,
+      "word": "美国男子26刀刺死巴勒斯坦裔男孩",
+      "onboard_time": 1697421693,
+      "rank": 3,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 894782,
       "num": 894782,
       "word": "第一次见女主演男主的嫂嫂",
@@ -5635,19 +5643,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 875314,
+      "num": 267073,
+      "word": "爸妈一次性给了四年的生活费",
+      "onboard_time": 1697420317,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 875262,
       "num": 875262,
       "word": "因为是INTJ而被HR告知没被录取",
       "onboard_time": 1696520133,
       "rank": 3,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 875108,
-      "num": 267073,
-      "word": "爸妈一次性给了四年的生活费",
-      "onboard_time": 1697420317,
-      "rank": 20,
       "category": "情感"
     },
     {
@@ -7379,6 +7387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 717657,
+      "num": 717657,
+      "word": "宋凯当选新一届中国足协主席",
+      "onboard_time": 1697422474,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 717023,
       "num": 717023,
       "word": "陈梦王曼昱晋级女双四强",
@@ -7849,14 +7865,6 @@
       "onboard_time": 1696763734,
       "rank": 10,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 689314,
-      "num": 689314,
-      "word": "美国男子26刀刺死巴勒斯坦裔男孩",
-      "onboard_time": 1697421693,
-      "rank": 3,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 689147,
@@ -8371,6 +8379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 653869,
+      "num": 653869,
+      "word": "江歌妈妈眼中有了精气神",
+      "onboard_time": 1697420070,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653784,
       "num": 629321,
       "word": "iPhone15Pro蓝色钛金属价格暴跌",
@@ -8699,14 +8715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 635631,
-      "num": 635631,
-      "word": "江歌妈妈眼中有了精气神",
-      "onboard_time": 1697420070,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 635617,
       "num": 1084245,
       "word": "孙颖莎赛后称早田希娜很出色",
@@ -8841,6 +8849,14 @@
       "onboard_time": 1696318052,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 629758,
+      "num": 629758,
+      "word": "海底捞等位区竟然分i人e人",
+      "onboard_time": 1697421152,
+      "rank": 6,
+      "category": "幽默"
     },
     {
       "raw_hot": 629585,
@@ -9137,14 +9153,6 @@
       "onboard_time": 1697202095,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 616846,
-      "num": 616846,
-      "word": "海底捞等位区竟然分i人e人",
-      "onboard_time": 1697421152,
-      "rank": 6,
-      "category": "幽默"
     },
     {
       "raw_hot": 615504,
@@ -10657,14 +10665,6 @@
       "onboard_time": 1696861784,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 543224,
-      "num": 543224,
-      "word": "宋凯当选新一届中国足协主席",
-      "onboard_time": 1697422474,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 543186,
@@ -13155,6 +13155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 457304,
+      "num": 457304,
+      "word": "派出所俩月收50多面锦旗铺了一地",
+      "onboard_time": 1697421454,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 456569,
       "num": 456569,
       "word": "李沁一年十封",
@@ -15001,14 +15009,6 @@
       "onboard_time": 1696681178,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 401972,
-      "num": 401972,
-      "word": "派出所俩月收50多面锦旗铺了一地",
-      "onboard_time": 1697421454,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 401823,
@@ -20627,6 +20627,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 293464,
+      "num": 244355,
+      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+      "onboard_time": 1697423190,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 293233,
       "num": 293233,
       "word": "朱一龙 卷不代表努力",
@@ -20875,6 +20883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 289944,
+      "num": 265781,
+      "word": "披荆斩棘后张栋梁的变化",
+      "onboard_time": 1697420317,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 289881,
       "num": 289881,
       "word": "中国女篮夺冠后抱起教练",
@@ -20913,14 +20929,6 @@
       "onboard_time": 1697034398,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 289305,
-      "num": 265781,
-      "word": "披荆斩棘后张栋梁的变化",
-      "onboard_time": 1697420317,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 289276,
@@ -21915,6 +21923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277928,
+      "num": 265022,
+      "word": "白鹿王鹤棣 你好星期六",
+      "onboard_time": 1697422173,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277878,
       "num": 277878,
       "word": "日本女足3分钟两球",
@@ -22177,6 +22193,14 @@
       "onboard_time": 1696129354,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 274648,
+      "num": 274648,
+      "word": "未拆封iPhone免开箱即可更新",
+      "onboard_time": 1697421032,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 274605,
@@ -23027,28 +23051,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265158,
-      "num": 265158,
-      "word": "未拆封iPhone免开箱即可更新",
-      "onboard_time": 1697421032,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 265086,
       "num": 265086,
       "word": "中国男篮领奖表情",
       "onboard_time": 1696635993,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 265022,
-      "num": 265022,
-      "word": "白鹿王鹤棣 你好星期六",
-      "onboard_time": 1697422173,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 265007,
@@ -30315,6 +30323,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 199718,
+      "num": 199718,
+      "word": "剑网3校服",
+      "onboard_time": 1697422715,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 199689,
       "num": 199689,
       "word": "黄轩工作室晒黄轩怕冷实锤",
@@ -30465,14 +30481,6 @@
       "onboard_time": 1697203956,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199130,
-      "num": 199130,
-      "word": "剑网3校服",
-      "onboard_time": 1697422715,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 199051,
@@ -31091,6 +31099,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 195842,
+      "num": 195842,
+      "word": "喜茶红山动物园联名",
+      "onboard_time": 1697423432,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195828,
       "num": 195828,
       "word": "世界粮食日",
@@ -31457,6 +31473,14 @@
       "onboard_time": 1696885213,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 193963,
+      "num": 193963,
+      "word": "范丞丞卢昱晓同框",
+      "onboard_time": 1697422898,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 193944,
@@ -35619,6 +35643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165059,
+      "num": 165059,
+      "word": "AR对阵Entity",
+      "onboard_time": 1697423190,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 164981,
       "num": 164981,
       "word": "CCTV6国庆片单",
@@ -36259,6 +36291,14 @@
       "category": "幽默,美妆"
     },
     {
+      "raw_hot": 160111,
+      "num": 160111,
+      "word": "刘连舸被决定逮捕",
+      "onboard_time": 1697423731,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160085,
       "num": 160085,
       "word": "杨幂费加罗十月刊封面大片",
@@ -36593,14 +36633,6 @@
       "onboard_time": 1697005894,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 157637,
-      "num": 157637,
-      "word": "范丞丞卢昱晓同框",
-      "onboard_time": 1697422898,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 157498,
@@ -42897,6 +42929,14 @@
       "onboard_time": 1696876516,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 21314,
+      "num": 1112673,
+      "word": "神舟十七号计划本月发射",
+      "onboard_time": 1697423492,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 20158,
