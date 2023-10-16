@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697438220428,
+  "endTime": 1697440607766,
   "band_list": [
     {
       "raw_hot": 2818946,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1942492,
-      "num": 373360,
+      "num": 412804,
       "word": "陈都灵这套可以代所有小说",
       "onboard_time": 1697427334,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1820817,
-      "num": 326401,
+      "num": 413424,
       "word": "香港顶流姜涛跑步健身",
       "onboard_time": 1697433874,
       "rank": 16,
@@ -105,6 +105,14 @@
       "onboard_time": 1697411787,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1301411,
+      "num": 1301411,
+      "word": "谷村新司去世",
+      "onboard_time": 1697437956,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 1244276,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 948799,
-      "num": 314986,
+      "num": 406646,
       "word": "哈马斯",
       "onboard_time": 1697433694,
       "rank": 25,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 875314,
-      "num": 341985,
+      "num": 367951,
       "word": "爸妈一次性给了四年的生活费",
       "onboard_time": 1697420317,
       "rank": 20,
@@ -217,6 +225,14 @@
       "onboard_time": 1697398394,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 842667,
+      "num": 842667,
+      "word": "雷军 别着急这次产品很很很强",
+      "onboard_time": 1697437052,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 841579,
@@ -291,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 638999,
+      "num": 638999,
+      "word": "迪丽热巴秦岚周也美女贴贴",
+      "onboard_time": 1697439811,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 631116,
       "num": 631116,
       "word": "海底捞等位区竟然分i人e人",
@@ -337,6 +361,14 @@
       "onboard_time": 1697379216,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 586281,
+      "num": 586281,
+      "word": "以军和哈马斯加沙南部临时停火5小时",
+      "onboard_time": 1697437831,
+      "rank": 17,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 579929,
@@ -443,14 +475,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 486631,
-      "num": 312422,
-      "word": "雷军 别着急这次产品很很很强",
-      "onboard_time": 1697437052,
-      "rank": 33,
-      "category": "数码"
-    },
-    {
       "raw_hot": 479617,
       "num": 479617,
       "word": "未拆封iPhone免开箱即可更新",
@@ -491,11 +515,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 451393,
+      "num": 408788,
+      "word": "迪丽热巴斯维诗活动",
+      "onboard_time": 1697439452,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 447206,
       "num": 434839,
       "word": "白敬亭假动作钓出两个卧底",
       "onboard_time": 1697430876,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 439961,
+      "num": 439961,
+      "word": "蒲熠星刘奕君聊到电竞停不下来",
+      "onboard_time": 1697439034,
+      "rank": 6,
       "category": "综艺"
     },
     {
@@ -531,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 414688,
+      "num": 414688,
+      "word": "官方回应外国游客无人机撞损文峰塔",
+      "onboard_time": 1697436516,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 408558,
       "num": 408558,
       "word": "中方呼吁召开巴以冲突国际和会",
@@ -563,12 +611,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 391358,
+      "num": 391358,
+      "word": "杰瑞有那么多套床",
+      "onboard_time": 1697439391,
+      "rank": 17,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 383177,
       "num": 383177,
       "word": "喜茶红山动物园联名",
       "onboard_time": 1697423432,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 376365,
+      "num": 376365,
+      "word": "俄罗斯外长拉夫罗夫抵达北京",
+      "onboard_time": 1697437052,
+      "rank": 30,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 372690,
@@ -585,14 +649,6 @@
       "onboard_time": 1697419773,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364681,
-      "num": 311055,
-      "word": "以军和哈马斯加沙南部临时停火5小时",
-      "onboard_time": 1697437831,
-      "rank": 17,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 359209,
@@ -635,14 +691,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347215,
-      "num": 309471,
-      "word": "俄罗斯外长拉夫罗夫抵达北京",
-      "onboard_time": 1697437052,
-      "rank": 30,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 338398,
       "num": 302983,
       "word": "花儿与少年",
@@ -651,12 +699,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 329513,
-      "num": 329513,
-      "word": "谷村新司去世",
-      "onboard_time": 1697437956,
-      "rank": 8,
-      "category": "艺人"
+      "raw_hot": 332023,
+      "num": 332023,
+      "word": "双相患者被12岁男孩治愈相约捡废品",
+      "onboard_time": 1697439094,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328911,
@@ -665,6 +713,14 @@
       "onboard_time": 1697369132,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 328772,
+      "num": 328772,
+      "word": "国考报考人数最多的岗位",
+      "onboard_time": 1697427519,
+      "rank": 25,
+      "category": "教育"
     },
     {
       "raw_hot": 327843,
@@ -699,14 +755,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320374,
-      "num": 316934,
-      "word": "国考报考人数最多的岗位",
-      "onboard_time": 1697427519,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 314732,
       "num": 314732,
       "word": "陈晓到底跟唐晓天说了什么",
@@ -723,8 +771,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 299283,
-      "num": 299283,
+      "raw_hot": 305358,
+      "num": 305358,
       "word": "体育总局副局长点名足协塌方式腐败",
       "onboard_time": 1697437351,
       "rank": 37,
@@ -777,6 +825,14 @@
       "onboard_time": 1697419714,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 279422,
+      "num": 279422,
+      "word": "妈妈想陪女儿上大学当上食堂阿姨",
+      "onboard_time": 1697439871,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 279312,
@@ -979,12 +1035,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 232829,
+      "num": 232829,
+      "word": "他每天走两万步只为隐患无处可逃",
+      "onboard_time": 1697440053,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230570,
       "num": 230570,
       "word": "aespa将回归",
       "onboard_time": 1697417614,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223458,
+      "num": 223458,
+      "word": "俄对日本进口鱼类等水产品实施限制",
+      "onboard_time": 1697440353,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 222810,
@@ -1051,12 +1123,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207271,
+      "num": 207271,
+      "word": "两大型犬撕咬2岁半女童致严重受伤",
+      "onboard_time": 1697440172,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 206968,
       "num": 206968,
       "word": "范丞丞夸金晨30亿女主角真美",
       "onboard_time": 1697421333,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206555,
+      "num": 206555,
+      "word": "陈都灵到底在跟谁聊天",
+      "onboard_time": 1697439331,
+      "rank": 35,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205972,
@@ -1139,6 +1227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201137,
+      "num": 201137,
+      "word": "懒羊羊在周杰伦演唱会唱了一整晚",
+      "onboard_time": 1697440291,
+      "rank": 36,
+      "category": "演出,幽默"
+    },
+    {
       "raw_hot": 199718,
       "num": 199718,
       "word": "剑网3校服",
@@ -1211,6 +1307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191204,
+      "num": 191204,
+      "word": "你知道感情中的弃猫效应吗",
+      "onboard_time": 1697439752,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 187710,
       "num": 187710,
       "word": "华浅被逼下跪",
@@ -1249,6 +1353,14 @@
       "onboard_time": 1697416896,
       "rank": 42,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 178572,
+      "num": 178572,
+      "word": "钟辰乐用文字给章昊转账",
+      "onboard_time": 1697440411,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 177901,
@@ -1395,12 +1507,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141322,
+      "num": 141322,
+      "word": "大车加油时着火员工这套动作太赞",
+      "onboard_time": 1697439811,
+      "rank": 46,
+      "category": "社会新闻,汽车"
+    },
+    {
+      "raw_hot": 140025,
+      "num": 140025,
+      "word": "张艺兴大连演唱会官宣",
+      "onboard_time": 1697438851,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 139152,
+      "num": 139152,
+      "word": "深圳一大楼贴膜防止鸟撞",
+      "onboard_time": 1697440533,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139028,
       "num": 139028,
       "word": "赵丽颖新妆造",
       "onboard_time": 1697366612,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 138772,
+      "num": 237853,
+      "word": "上扬真的会发光",
+      "onboard_time": 1697439993,
+      "rank": 31,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 138307,
