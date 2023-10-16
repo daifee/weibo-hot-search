@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697465842362,
+  "endTime": 1697466974509,
   "band_list": [
     {
       "raw_hot": 3396639,
@@ -35,7 +35,7 @@
       "category": "美食"
     },
     {
-      "raw_hot": 2286801,
+      "raw_hot": 2584209,
       "num": 2286801,
       "word": "成都咬伤女童大黑狗有主人",
       "onboard_time": 1697460934,
@@ -131,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1675719,
+      "num": 399696,
+      "word": "赵本山给徒弟补近亿税额",
+      "onboard_time": 1697463394,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1643941,
       "num": 1643941,
       "word": "街道办已动员数百人寻找肇事烈犬",
       "onboard_time": 1697452773,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1618752,
-      "num": 368740,
-      "word": "赵本山给徒弟补近亿税额",
-      "onboard_time": 1697463394,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1560241,
@@ -259,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1061205,
+      "num": 566478,
+      "word": "被大型犬撕咬女童母亲发声",
+      "onboard_time": 1697459374,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1041751,
       "num": 491094,
       "word": "巴勒斯坦",
@@ -331,6 +339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 885079,
+      "num": 885079,
+      "word": "警方已发现咬人黑狗行踪",
+      "onboard_time": 1697465496,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 883818,
       "num": 883818,
       "word": "外交部建议在以中国公民尽快回国",
@@ -368,14 +384,6 @@
       "word": "母亲讲述女童被大型犬撕咬致肾破裂",
       "onboard_time": 1697456490,
       "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 854754,
-      "num": 566478,
-      "word": "被大型犬撕咬女童母亲发声",
-      "onboard_time": 1697459374,
-      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -529,6 +537,14 @@
       "onboard_time": 1697421152,
       "rank": 6,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 615158,
+      "num": 615158,
+      "word": "周筱风官宣恋情",
+      "onboard_time": 1697464897,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 614385,
@@ -883,6 +899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 430734,
+      "num": 430734,
+      "word": "国足1比2乌兹别克斯坦",
+      "onboard_time": 1697465496,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428223,
       "num": 428223,
       "word": "塞尔维亚总统武契奇抵华",
@@ -971,6 +995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392103,
+      "num": 392103,
+      "word": "谢娜废土风",
+      "onboard_time": 1697464294,
+      "rank": 16,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 391954,
       "num": 391954,
       "word": "为何找对象要看脸",
@@ -985,6 +1017,14 @@
       "onboard_time": 1697453311,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 385072,
+      "num": 198864,
+      "word": "为什么粉色要贵这么多",
+      "onboard_time": 1697465736,
+      "rank": 47,
+      "category": "时尚"
     },
     {
       "raw_hot": 383177,
@@ -1043,20 +1083,20 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 366642,
-      "num": 366642,
-      "word": "谢娜废土风",
-      "onboard_time": 1697464294,
-      "rank": 16,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 361839,
       "num": 361839,
       "word": "赵露思 唤醒沉睡银天鹅",
       "onboard_time": 1697453134,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361326,
+      "num": 361326,
+      "word": "脾胃虚吃这八种食物",
+      "onboard_time": 1697464777,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 360741,
@@ -1105,14 +1145,6 @@
       "onboard_time": 1697412027,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 352537,
-      "num": 352537,
-      "word": "周筱风官宣恋情",
-      "onboard_time": 1697464897,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 350765,
@@ -1323,14 +1355,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 297151,
-      "num": 297151,
-      "word": "警方已发现咬人黑狗行踪",
-      "onboard_time": 1697465496,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 293646,
       "num": 293646,
       "word": "乡村爱情13刘能饰演者赵明远去世",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1697418814,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264914,
+      "num": 264914,
+      "word": "国足8分钟连丢两球",
+      "onboard_time": 1697465257,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 264133,
@@ -1611,6 +1643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246560,
+      "num": 198418,
+      "word": "中国移动采购120万台华为手机",
+      "onboard_time": 1697466578,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 246281,
       "num": 246281,
       "word": "这不是跑马是来进货的吧",
@@ -1625,14 +1665,6 @@
       "onboard_time": 1697430397,
       "rank": 32,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 240952,
-      "num": 240952,
-      "word": "国足1比2乌兹别克斯坦",
-      "onboard_time": 1697465496,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 240821,
@@ -1691,6 +1723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232056,
+      "num": 204450,
+      "word": "双胞胎满100天爱宝出外场了",
+      "onboard_time": 1697465136,
+      "rank": 32,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 231471,
       "num": 231471,
       "word": "林俊杰咸阳",
@@ -1729,14 +1769,6 @@
       "onboard_time": 1697458534,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 226397,
-      "num": 226397,
-      "word": "脾胃虚吃这八种食物",
-      "onboard_time": 1697464777,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 225508,
@@ -1945,14 +1977,6 @@
       "onboard_time": 1697381199,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 204450,
-      "num": 204450,
-      "word": "双胞胎满100天爱宝出外场了",
-      "onboard_time": 1697465136,
-      "rank": 32,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 204117,
@@ -2227,6 +2251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188127,
+      "num": 188127,
+      "word": "手滑帮导师上午门诊放了60个号",
+      "onboard_time": 1697466218,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 187710,
       "num": 187710,
       "word": "华浅被逼下跪",
@@ -2241,14 +2273,6 @@
       "onboard_time": 1697423731,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 187402,
-      "num": 187402,
-      "word": "国足8分钟连丢两球",
-      "onboard_time": 1697465257,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 186603,
@@ -2289,6 +2313,14 @@
       "onboard_time": 1697462976,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182659,
+      "num": 182659,
+      "word": "美籍犹太裔学者称应为巴勒斯坦人哭泣",
+      "onboard_time": 1697466276,
+      "rank": 38,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 182317,
@@ -2377,6 +2409,22 @@
       "onboard_time": 1697444553,
       "rank": 49,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 171540,
+      "num": 171540,
+      "word": "遛狗未拴绳违法",
+      "onboard_time": 1697465977,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171005,
+      "num": 171005,
+      "word": "徕芬电动牙刷",
+      "onboard_time": 1697466457,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 170945,
@@ -2483,20 +2531,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 158704,
+      "num": 158704,
+      "word": "韩国10代爱豆理想型TOP10",
+      "onboard_time": 1697462735,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 157572,
       "num": 157572,
       "word": "问心集集刀",
       "onboard_time": 1697454813,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 157463,
-      "num": 157463,
-      "word": "韩国10代爱豆理想型TOP10",
-      "onboard_time": 1697462735,
-      "rank": 40,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156051,
@@ -2595,6 +2643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144868,
+      "num": 144868,
+      "word": "魏大勋已经不敢抓脚踝了",
+      "onboard_time": 1697466879,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 141322,
       "num": 141322,
       "word": "大车加油时着火员工这套动作太赞",
@@ -2683,14 +2739,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 128294,
-      "num": 128294,
-      "word": "为什么粉色要贵这么多",
-      "onboard_time": 1697465736,
-      "rank": 47,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 128081,
       "num": 128081,
       "word": "为什么广东人煲汤这么好喝",
@@ -2753,6 +2801,14 @@
       "onboard_time": 1697355155,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108196,
+      "num": 655857,
+      "word": "旧风力发电叶片变草场栅栏能用30年",
+      "onboard_time": 1697464174,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 107620,
@@ -2825,14 +2881,6 @@
       "onboard_time": 1697373995,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83970,
-      "num": 633617,
-      "word": "旧风力发电叶片变草场栅栏能用30年",
-      "onboard_time": 1697464174,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 77464,
@@ -3002,6 +3050,9 @@
     },
     {
       "word": "#一带一路十年之约#"
+    },
+    {
+      "word": "#大道共通#"
     }
   ]
 }
