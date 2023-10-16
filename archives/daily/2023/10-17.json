@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697494561766,
+  "endTime": 1697495647798,
   "band_list": [
     {
       "raw_hot": 1611627,
@@ -123,6 +123,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 318292,
+      "num": 318292,
+      "word": "强烈的自卑会使人变得非常无礼",
+      "onboard_time": 1697480416,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 306901,
       "num": 306901,
       "word": "檀健次 北海蛊王",
@@ -185,14 +193,6 @@
       "onboard_time": 1697448994,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 220390,
-      "num": 220390,
-      "word": "强烈的自卑会使人变得非常无礼",
-      "onboard_time": 1697480416,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 210813,
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 109712,
-      "num": 55532,
+      "num": 71606,
       "word": "4年前周杰伦和孙燕姿的合唱",
       "onboard_time": 1697477717,
       "rank": 15,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 63082,
-      "num": 51778,
+      "num": 60884,
       "word": "我救不了千万个它 但下个路口有千万个我",
       "onboard_time": 1697479037,
       "rank": 38,
@@ -467,12 +467,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46686,
+      "num": 46686,
+      "word": "中国军舰在中业岛附近海域巡逻合理合法",
+      "onboard_time": 1697492654,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
       "raw_hot": 46304,
       "num": 53345,
       "word": "玛雅遗址里月神也抱着一只兔子",
       "onboard_time": 1697477179,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42809,
+      "num": 42809,
+      "word": "野生大熊猫遇到话痨大叔",
+      "onboard_time": 1697492056,
+      "rank": 32,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 39262,
@@ -491,28 +507,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 32414,
-      "num": 32414,
-      "word": "中国军舰在中业岛附近海域巡逻合理合法",
-      "onboard_time": 1697492654,
-      "rank": 31,
-      "category": "军事"
-    },
-    {
-      "raw_hot": 31339,
-      "num": 31339,
-      "word": "野生大熊猫遇到话痨大叔",
-      "onboard_time": 1697492056,
-      "rank": 32,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 30055,
+      "raw_hot": 34832,
       "num": 47791,
       "word": "金毛吃光37包鸭翅躲起来偷瞄主人",
       "onboard_time": 1697480117,
       "rank": 46,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 24484,
+      "num": 32745,
+      "word": "一带一路一起来",
+      "onboard_time": 1697491093,
+      "rank": 48,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 22186,
@@ -531,14 +539,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 17036,
-      "num": 24723,
-      "word": "一带一路一起来",
-      "onboard_time": 1697491093,
-      "rank": 48,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 16197,
       "num": 19492,
       "word": "大自然的神奇矿物收藏",
@@ -555,20 +555,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 15783,
+      "num": 188172,
+      "word": "沿着一带一路去旅行",
+      "onboard_time": 1697464056,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 15442,
       "num": 16422,
       "word": "大张伟的孩子缘",
       "onboard_time": 1697486954,
       "rank": 41,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 11311,
-      "num": 141681,
-      "word": "沿着一带一路去旅行",
-      "onboard_time": 1697464056,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

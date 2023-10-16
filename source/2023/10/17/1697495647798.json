@@ -1,0 +1,410 @@
+{
+  "runTime": 1697495647798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 318292,
+        "num": 318292,
+        "word": "强烈的自卑会使人变得非常无礼",
+        "onboard_time": 1697480416,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303923,
+        "num": 303923,
+        "word": "人民网评2岁女童被恶犬咬伤",
+        "onboard_time": 1697472510,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 15783,
+        "num": 188172,
+        "word": "沿着一带一路去旅行",
+        "onboard_time": 1697464056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162287,
+        "num": 162287,
+        "word": "警方已发现咬人黑狗行踪",
+        "onboard_time": 1697465496,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155848,
+        "num": 155848,
+        "word": "为什么粉色要贵这么多",
+        "onboard_time": 1697465736,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 121566,
+        "num": 121566,
+        "word": "朱一龙 北大",
+        "onboard_time": 1697447073,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111556,
+        "num": 111556,
+        "word": "为有暗香来 男主是谁",
+        "onboard_time": 1697469637,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105428,
+        "num": 105428,
+        "word": "檀健次 北海蛊王",
+        "onboard_time": 1697468140,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 91989,
+        "num": 91989,
+        "word": "美籍犹太裔学者称应为巴勒斯坦人哭泣",
+        "onboard_time": 1697466276,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 83281,
+        "num": 83281,
+        "word": "脾胃虚吃这八种食物",
+        "onboard_time": 1697464777,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 543118,
+        "num": 82720,
+        "word": "拉布拉多未咬人已被主人领回",
+        "onboard_time": 1697469217,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316745,
+        "num": 80063,
+        "word": "赵本山给徒弟补近亿税额",
+        "onboard_time": 1697463394,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198205,
+        "num": 78587,
+        "word": "成都咬伤女童大黑狗有主人",
+        "onboard_time": 1697460934,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163034,
+        "num": 77748,
+        "word": "被大型犬撕咬女童母亲发声",
+        "onboard_time": 1697459374,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92127,
+        "num": 74882,
+        "word": "魏大勋已经不敢抓脚踝了",
+        "onboard_time": 1697466879,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 74668,
+        "num": 74668,
+        "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
+        "onboard_time": 1697448994,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 71606,
+        "num": 71606,
+        "word": "4年前周杰伦和孙燕姿的合唱",
+        "onboard_time": 1697477717,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64910,
+        "num": 64910,
+        "word": "小伙租123平房子花4万改造成理想的家",
+        "onboard_time": 1697460333,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60884,
+        "num": 60884,
+        "word": "我救不了千万个它 但下个路口有千万个我",
+        "onboard_time": 1697479037,
+        "rank": 18,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 54569,
+        "num": 54569,
+        "word": "周筱风官宣恋情",
+        "onboard_time": 1697464897,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67646,
+        "num": 54552,
+        "word": "MiuMiu钻石内裤",
+        "onboard_time": 1697453435,
+        "rank": 20,
+        "category": "时尚,网红"
+      },
+      {
+        "raw_hot": 66616,
+        "num": 54533,
+        "word": "22岁弟弟申请拥有独立卫生间",
+        "onboard_time": 1697469517,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64760,
+        "num": 54516,
+        "word": "宋仲基说儿子嘴唇最像自己",
+        "onboard_time": 1697460153,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62438,
+        "num": 54469,
+        "word": "手滑帮导师上午门诊放了60个号",
+        "onboard_time": 1697466218,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 58548,
+        "num": 54457,
+        "word": "毕业五年了辅导员突然叫我干活",
+        "onboard_time": 1697459854,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 54441,
+        "num": 54441,
+        "word": "中国移动采购120万台华为手机",
+        "onboard_time": 1697466578,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 49444,
+        "num": 49444,
+        "word": "南海归墟预约量破200万",
+        "onboard_time": 1697469456,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49260,
+        "num": 49260,
+        "word": "加错微信遇到对的人",
+        "onboard_time": 1697474604,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 48733,
+        "num": 48733,
+        "word": "家里这些东西正在偷偷伤害你",
+        "onboard_time": 1697467598,
+        "rank": 28,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 31381,
+        "num": 46976,
+        "word": "明天秋裤备好",
+        "onboard_time": 1697457093,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 46686,
+        "num": 46686,
+        "word": "中国军舰在中业岛附近海域巡逻合理合法",
+        "onboard_time": 1697492654,
+        "rank": 30,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 45298,
+        "num": 45298,
+        "word": "老罗和SEVENTEEN已经熟成这样了吗",
+        "onboard_time": 1697470652,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 44598,
+        "num": 44598,
+        "word": "周雨彤回复韩火火",
+        "onboard_time": 1697467358,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44013,
+        "num": 44013,
+        "word": "拉布拉多",
+        "onboard_time": 1697456313,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42809,
+        "num": 42809,
+        "word": "野生大熊猫遇到话痨大叔",
+        "onboard_time": 1697492056,
+        "rank": 34,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 40189,
+        "num": 40189,
+        "word": "小胖 努力三年只为和你顶峰相见",
+        "onboard_time": 1697457213,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39414,
+        "num": 39414,
+        "word": "曾舜晞这辈子没干的活儿全在娱乐圈干了",
+        "onboard_time": 1697467717,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38519,
+        "num": 38519,
+        "word": "玛雅遗址里月神也抱着一只兔子",
+        "onboard_time": 1697477179,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37177,
+        "num": 37177,
+        "word": "陈楚生不教儿子吉他的原因",
+        "onboard_time": 1697469096,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36759,
+        "num": 36759,
+        "word": "虎鹤妖师录结局全是反转",
+        "onboard_time": 1697476939,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35220,
+        "num": 35220,
+        "word": "成都禁养犬名单",
+        "onboard_time": 1697469037,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34832,
+        "num": 34832,
+        "word": "金毛吃光37包鸭翅躲起来偷瞄主人",
+        "onboard_time": 1697480117,
+        "rank": 41,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 33202,
+        "num": 33202,
+        "word": "再聊下去该网恋了",
+        "onboard_time": 1697463575,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33071,
+        "num": 33071,
+        "word": "白鹿带闺蜜看五月天演唱会",
+        "onboard_time": 1697459134,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30317,
+        "num": 33064,
+        "word": "孟子义问范丞丞是不是创造营第一",
+        "onboard_time": 1697459013,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24484,
+        "num": 32745,
+        "word": "一带一路一起来",
+        "onboard_time": 1697491093,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 23210,
+        "num": 32482,
+        "word": "刘诗诗谢娜同框看秀",
+        "onboard_time": 1697454517,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 23053,
+        "num": 32260,
+        "word": "张元英手指眼角痣",
+        "onboard_time": 1697469757,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 32142,
+        "num": 32142,
+        "word": "白鹿 这一种快乐无法描写",
+        "onboard_time": 1697469217,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22562,
+        "num": 32139,
+        "word": "周也李昀锐cp感",
+        "onboard_time": 1697468796,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路十年之约#"
+    }
+  }
+}
