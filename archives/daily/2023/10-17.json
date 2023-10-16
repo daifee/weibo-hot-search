@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697474351976,
+  "endTime": 1697476551042,
   "band_list": [
     {
       "raw_hot": 1611627,
@@ -104,6 +104,14 @@
       "word": "成都禁养犬名单",
       "onboard_time": 1697469037,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 362330,
+      "num": 362330,
+      "word": "人民网评2岁女童被恶犬咬伤",
+      "onboard_time": 1697472510,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -211,20 +219,20 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 184583,
+      "num": 184583,
+      "word": "守护甜心 抽赏",
+      "onboard_time": 1697472689,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 175726,
       "num": 175726,
       "word": "曾舜晞这辈子没干的活儿全在娱乐圈干了",
       "onboard_time": 1697467717,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174561,
-      "num": 174561,
-      "word": "守护甜心 抽赏",
-      "onboard_time": 1697472689,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 173410,
@@ -241,6 +249,14 @@
       "onboard_time": 1697469096,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159005,
+      "num": 93116,
+      "word": "加错微信遇到对的人",
+      "onboard_time": 1697474604,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 155927,
@@ -323,14 +339,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108225,
-      "num": 108225,
-      "word": "人民网评2岁女童被恶犬咬伤",
-      "onboard_time": 1697472510,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107771,
       "num": 107771,
       "word": "小伙租123平房子花4万改造成理想的家",
@@ -403,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75104,
+      "num": 75104,
+      "word": "小胖 努力三年只为和你顶峰相见",
+      "onboard_time": 1697457213,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64766,
       "num": 507316,
       "word": "旧风力发电叶片变草场栅栏能用30年",
       "onboard_time": 1697464174,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 54160,
+      "num": 58378,
+      "word": "现在就出发",
+      "onboard_time": 1697475502,
+      "rank": 43,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

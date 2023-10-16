@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697474351976,
+  "endTime": 1697476551042,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -17499,6 +17499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 362330,
+      "num": 362330,
+      "word": "人民网评2岁女童被恶犬咬伤",
+      "onboard_time": 1697472510,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 361963,
       "num": 361963,
       "word": "檀健次十月进组拍戏",
@@ -34715,6 +34723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184583,
+      "num": 184583,
+      "word": "守护甜心 抽赏",
+      "onboard_time": 1697472689,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 184484,
       "num": 184484,
       "word": "全网都知道马哲的徒弟裆开了",
@@ -36249,14 +36265,6 @@
       "onboard_time": 1697364458,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174561,
-      "num": 174561,
-      "word": "守护甜心 抽赏",
-      "onboard_time": 1697472689,
-      "rank": 35,
-      "category": "动漫"
     },
     {
       "raw_hot": 174500,
@@ -38281,6 +38289,14 @@
       "onboard_time": 1696590161,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 159005,
+      "num": 93116,
+      "word": "加错微信遇到对的人",
+      "onboard_time": 1697474604,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 158996,
@@ -42451,14 +42467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 108225,
-      "num": 108225,
-      "word": "人民网评2岁女童被恶犬咬伤",
-      "onboard_time": 1697472510,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107991,
       "num": 107991,
       "word": "你准备参加今年国考吗",
@@ -44041,6 +44049,14 @@
       "onboard_time": 1696613360,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 54160,
+      "num": 58378,
+      "word": "现在就出发",
+      "onboard_time": 1697475502,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 54016,
