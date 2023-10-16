@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 06:34:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 07:17:11
 </p>
 </blockquote>
 <p>
@@ -4461,6 +4461,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%842%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%23" target="weibo">
+人民网评2岁女童被恶犬咬伤（热度：873790）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E6%8B%8D%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2%E5%90%8C%E6%AC%BE%E7%85%A7%23" target="weibo">
 沈梦辰拍了周杰伦专辑封面同款照（热度：872868）
 </a>
@@ -6005,12 +6011,6 @@ DOTA2中国队追平（热度：704439）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%BE%E5%88%B0%E5%86%A0%E5%86%9B%E5%92%AC%E5%A5%96%E7%89%8C%E7%9A%84%E5%8E%9F%E5%9B%A0%E4%BA%86%23" target="weibo">
 找到冠军咬奖牌的原因了（热度：703589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%A1%E5%B0%94%E8%B5%9B%E5%AE%AB%E6%94%B6%E5%88%B0%E7%82%B8%E5%BC%B9%E8%AD%A6%E6%8A%A5%23" target="weibo">
-凡尔赛宫收到炸弹警报（热度：702445）
 </a>
 </li>
 
