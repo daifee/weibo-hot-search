@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697426294748,
+  "endTime": 1697427267652,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -17,6 +17,14 @@
       "onboard_time": 1697330309,
       "rank": 0,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 2695641,
+      "num": 2695641,
+      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
+      "onboard_time": 1697423190,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2672555,
@@ -44,7 +52,7 @@
     },
     {
       "raw_hot": 2251159,
-      "num": 497914,
+      "num": 497944,
       "word": "徐娇 能不能别吹我了我害怕",
       "onboard_time": 1697420492,
       "rank": 10,
@@ -113,14 +121,6 @@
       "onboard_time": 1697379216,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1944475,
-      "num": 1944475,
-      "word": "海底捞回应拒绝给棉花娃娃过生日争议",
-      "onboard_time": 1697423190,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1874909,
@@ -283,20 +283,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1226701,
+      "num": 493376,
+      "word": "吴雅婷问王栎鑫你嗓子还好吗",
+      "onboard_time": 1697424632,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1219187,
       "num": 1219187,
       "word": "4名小学生发现41年前曾灭绝的甲虫",
       "onboard_time": 1697373995,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1201291,
-      "num": 493376,
-      "word": "吴雅婷问王栎鑫你嗓子还好吗",
-      "onboard_time": 1697424632,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 1198191,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 1041751,
-      "num": 486426,
+      "num": 491094,
       "word": "巴勒斯坦",
       "onboard_time": 1697418633,
       "rank": 43,
@@ -377,6 +377,14 @@
       "onboard_time": 1697350053,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 941337,
+      "num": 941337,
+      "word": "原来外国人注册微信这么难",
+      "onboard_time": 1697425116,
+      "rank": 12,
+      "category": "互联网"
     },
     {
       "raw_hot": 937314,
@@ -537,14 +545,6 @@
       "onboard_time": 1697379519,
       "rank": 4,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 775090,
-      "num": 491377,
-      "word": "原来外国人注册微信这么难",
-      "onboard_time": 1697425116,
-      "rank": 12,
-      "category": "互联网"
     },
     {
       "raw_hot": 772695,
@@ -713,6 +713,14 @@
       "onboard_time": 1697364393,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 614385,
+      "num": 614385,
+      "word": "小米14",
+      "onboard_time": 1697424573,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 607584,
@@ -1019,6 +1027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 498331,
+      "num": 498331,
+      "word": "郑在玹开通微博",
+      "onboard_time": 1697426015,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 497858,
       "num": 497858,
       "word": "徐娇十岁时的觉悟",
@@ -1065,14 +1081,6 @@
       "onboard_time": 1697352754,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 481822,
-      "num": 481822,
-      "word": "小米14",
-      "onboard_time": 1697424573,
-      "rank": 14,
-      "category": "数码"
     },
     {
       "raw_hot": 479617,
@@ -1539,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 338398,
+      "num": 302983,
+      "word": "花儿与少年",
+      "onboard_time": 1697425534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333587,
       "num": 333587,
       "word": "五月天 现场",
@@ -1811,6 +1827,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 277314,
+      "num": 277314,
+      "word": "男生去长白山喷发胶头发冻成粉条",
+      "onboard_time": 1697426319,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277108,
       "num": 262247,
       "word": "现在油条都是预制品了吗",
@@ -1929,6 +1953,14 @@
       "onboard_time": 1697357434,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 259927,
+      "num": 259927,
+      "word": "马哲到底开了几枪",
+      "onboard_time": 1697426975,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 259015,
@@ -2051,14 +2083,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 248112,
-      "num": 248112,
-      "word": "郑在玹开通微博",
-      "onboard_time": 1697426015,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248083,
       "num": 248083,
       "word": "名侦探学院",
@@ -2081,6 +2105,14 @@
       "onboard_time": 1697373995,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246613,
+      "num": 246613,
+      "word": "孙雯当选足协副主席",
+      "onboard_time": 1697426612,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 242033,
@@ -2235,6 +2267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 216896,
+      "num": 216896,
+      "word": "被农民的中国式浪漫震撼了",
+      "onboard_time": 1697425354,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213659,
       "num": 213659,
       "word": "咏梅 我已经和我的皱纹和解了",
@@ -2259,20 +2299,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212141,
+      "num": 212141,
+      "word": "AR晋级TI12胜者组",
+      "onboard_time": 1697426194,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 209723,
       "num": 209723,
       "word": "如何用iPhone拍出好看的美食照片",
       "onboard_time": 1697302587,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 208764,
-      "num": 208764,
-      "word": "花儿与少年",
-      "onboard_time": 1697425534,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 207722,
@@ -2425,14 +2465,6 @@
       "onboard_time": 1697369014,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200348,
-      "num": 200348,
-      "word": "被农民的中国式浪漫震撼了",
-      "onboard_time": 1697425354,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 199718,
@@ -2600,6 +2632,14 @@
       "word": "卖房为灾区捐款450万的爱心奶奶走了",
       "onboard_time": 1697368473,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192994,
+      "num": 192994,
+      "word": "别急你的外卖小哥正在救人",
+      "onboard_time": 1697427036,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -2931,6 +2971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170701,
+      "num": 170701,
+      "word": "广州地铁员工乘客AED合力救下一命",
+      "onboard_time": 1697426918,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170621,
       "num": 170621,
       "word": "浪漫的断章",
@@ -3139,6 +3187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152433,
+      "num": 152433,
+      "word": "vivo开发者大会",
+      "onboard_time": 1697427036,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 152383,
       "num": 152383,
       "word": "周口一玉米种植地被五百余人哄抢",
@@ -3153,14 +3209,6 @@
       "onboard_time": 1697368354,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151703,
-      "num": 151703,
-      "word": "AR晋级TI12胜者组",
-      "onboard_time": 1697426194,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 150463,
@@ -3659,6 +3707,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89135,
+      "num": 1321330,
+      "word": "神舟十七号计划本月发射",
+      "onboard_time": 1697423492,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85562,
       "num": 93219,
       "word": "婚礼仪式暂停竟是为了反诈宣传",
@@ -3667,12 +3723,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 78022,
-      "num": 1321330,
-      "word": "神舟十七号计划本月发射",
-      "onboard_time": 1697423492,
-      "rank": 2,
-      "category": "社会新闻"
+      "raw_hot": 81140,
+      "num": 226369,
+      "word": "女生不能对健康有侥幸心理",
+      "onboard_time": 1697426612,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77785,
