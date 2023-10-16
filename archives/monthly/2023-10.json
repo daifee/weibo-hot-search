@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697484850672,
+  "endTime": 1697487557113,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -45153,6 +45153,14 @@
       "onboard_time": 1696789875,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15442,
+      "num": 16422,
+      "word": "大张伟的孩子缘",
+      "onboard_time": 1697486954,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 15170,
