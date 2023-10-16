@@ -1,6 +1,6 @@
 {
   "startTime": 1697386815175,
-  "endTime": 1697430858241,
+  "endTime": 1697433407020,
   "band_list": [
     {
       "raw_hot": 2818946,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1942492,
-      "num": 347239,
+      "num": 373360,
       "word": "陈都灵这套可以代所有小说",
       "onboard_time": 1697427334,
       "rank": 10,
@@ -113,6 +113,14 @@
       "onboard_time": 1697425116,
       "rank": 12,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 1052950,
+      "num": 360543,
+      "word": "妻子称非常害怕嫁给威尔史密斯",
+      "onboard_time": 1697432377,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1041751,
@@ -363,12 +371,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 510583,
+      "num": 510583,
+      "word": "周一上班的我太需要这些话",
+      "onboard_time": 1697430761,
+      "rank": 49,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 498331,
       "num": 498331,
       "word": "郑在玹开通微博",
       "onboard_time": 1697426015,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491601,
+      "num": 304575,
+      "word": "男子穿离婚快乐T恤大闹婚礼现场",
+      "onboard_time": 1697431599,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 479617,
@@ -411,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 447206,
+      "num": 350455,
+      "word": "白敬亭假动作钓出两个卧底",
+      "onboard_time": 1697430876,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 434920,
       "num": 434920,
       "word": "对体育饭圈化必须亮红牌",
@@ -420,11 +452,27 @@
     },
     {
       "raw_hot": 433718,
-      "num": 337864,
+      "num": 347466,
       "word": "檀健次穿了网纱内搭",
       "onboard_time": 1697429497,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 426439,
+      "num": 426439,
+      "word": "为有暗香来",
+      "onboard_time": 1697430999,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 408558,
+      "num": 408558,
+      "word": "中方呼吁召开巴以冲突国际和会",
+      "onboard_time": 1697430097,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 404647,
@@ -563,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304393,
+      "num": 304393,
+      "word": "迪丽热巴Live图",
+      "onboard_time": 1697432258,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 293646,
       "num": 293646,
       "word": "乡村爱情13刘能饰演者赵明远去世",
@@ -593,6 +649,14 @@
       "onboard_time": 1697417974,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284982,
+      "num": 312035,
+      "word": "进化的刚刚好又聪明又不用上班",
+      "onboard_time": 1697430397,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 282495,
@@ -649,6 +713,14 @@
       "onboard_time": 1697418814,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262732,
+      "num": 262732,
+      "word": "周也吃的什么勺子这么大",
+      "onboard_time": 1697432858,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 262340,
@@ -755,14 +827,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 241023,
-      "num": 241023,
-      "word": "中方呼吁召开巴以冲突国际和会",
-      "onboard_time": 1697430097,
-      "rank": 34,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 240441,
       "num": 240441,
       "word": "凤凰传奇听了都得踢着正步出来",
@@ -841,14 +905,6 @@
       "onboard_time": 1697426194,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 209303,
-      "num": 209303,
-      "word": "进化的刚刚好又聪明又不用上班",
-      "onboard_time": 1697430397,
-      "rank": 39,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 207722,
@@ -1003,14 +1059,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189217,
-      "num": 189217,
-      "word": "周一上班的我太需要这些话",
-      "onboard_time": 1697430761,
-      "rank": 49,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 187710,
       "num": 187710,
       "word": "华浅被逼下跪",
@@ -1035,6 +1083,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 183988,
+      "num": 183988,
+      "word": "7岁男孩报警说被家暴民警客串家教",
+      "onboard_time": 1697432797,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 182317,
       "num": 182317,
       "word": "seventeen在TMA真的剧透了",
@@ -1049,6 +1105,14 @@
       "onboard_time": 1697416896,
       "rank": 42,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 177918,
+      "num": 177918,
+      "word": "仓鼠要能做出来估计20都省了",
+      "onboard_time": 1697432618,
+      "rank": 43,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 177901,
@@ -1289,6 +1353,14 @@
       "onboard_time": 1697426612,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 98160,
+      "num": 357177,
+      "word": "淘宝买菜打拼价玩的是商战",
+      "onboard_time": 1697432437,
+      "rank": 14,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 96867,

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697430858241,
+  "endTime": 1697433407020,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1548,7 +1548,7 @@
     },
     {
       "raw_hot": 1942492,
-      "num": 347239,
+      "num": 373360,
       "word": "陈都灵这套可以代所有小说",
       "onboard_time": 1697427334,
       "rank": 10,
@@ -4409,6 +4409,14 @@
       "onboard_time": 1696599106,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1052950,
+      "num": 360543,
+      "word": "妻子称非常害怕嫁给威尔史密斯",
+      "onboard_time": 1697432377,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 1052615,
@@ -11699,6 +11707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510583,
+      "num": 510583,
+      "word": "周一上班的我太需要这些话",
+      "onboard_time": 1697430761,
+      "rank": 49,
+      "category": "作品衍生,幽默"
+    },
+    {
       "raw_hot": 510080,
       "num": 510080,
       "word": "统计称泰国超过1030万名平民持有枪支",
@@ -12208,6 +12224,14 @@
       "word": "迷笛称警方已抓获一些盗窃者",
       "onboard_time": 1696483054,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 491601,
+      "num": 304575,
+      "word": "男子穿离婚快乐T恤大闹婚礼现场",
+      "onboard_time": 1697431599,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -13667,6 +13691,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 447206,
+      "num": 350455,
+      "word": "白敬亭假动作钓出两个卧底",
+      "onboard_time": 1697430876,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 446960,
       "num": 446960,
       "word": "张杰slow down",
@@ -14108,7 +14140,7 @@
     },
     {
       "raw_hot": 433718,
-      "num": 337864,
+      "num": 347466,
       "word": "檀健次穿了网纱内搭",
       "onboard_time": 1697429497,
       "rank": 16,
@@ -14321,6 +14353,14 @@
       "onboard_time": 1696387718,
       "rank": 13,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 426439,
+      "num": 426439,
+      "word": "为有暗香来",
+      "onboard_time": 1697109452,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 426378,
@@ -14865,6 +14905,14 @@
       "onboard_time": 1697020597,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 408558,
+      "num": 408558,
+      "word": "中方呼吁召开巴以冲突国际和会",
+      "onboard_time": 1697430097,
+      "rank": 34,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 408455,
@@ -19979,6 +20027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 304393,
+      "num": 304393,
+      "word": "迪丽热巴Live图",
+      "onboard_time": 1697432258,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304376,
       "num": 506492,
       "word": "找到中美两个大国正确的相处之道",
@@ -21521,6 +21577,14 @@
       "onboard_time": 1696650760,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 284982,
+      "num": 312035,
+      "word": "进化的刚刚好又聪明又不用上班",
+      "onboard_time": 1697430397,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 284940,
@@ -23449,6 +23513,14 @@
       "onboard_time": 1696516119,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262732,
+      "num": 262732,
+      "word": "周也吃的什么勺子这么大",
+      "onboard_time": 1697432858,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 262604,
@@ -25529,14 +25601,6 @@
       "onboard_time": 1696176631,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 241023,
-      "num": 241023,
-      "word": "中方呼吁召开巴以冲突国际和会",
-      "onboard_time": 1697430097,
-      "rank": 34,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 240952,
@@ -28915,14 +28979,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209303,
-      "num": 209303,
-      "word": "进化的刚刚好又聪明又不用上班",
-      "onboard_time": 1697430397,
-      "rank": 39,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 209112,
       "num": 209112,
       "word": "iPhone15Pro系列缩短发货时间",
@@ -30113,14 +30169,6 @@
       "onboard_time": 1696575395,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 202353,
-      "num": 202353,
-      "word": "为有暗香来",
-      "onboard_time": 1697109452,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 202326,
@@ -32627,14 +32675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189217,
-      "num": 189217,
-      "word": "周一上班的我太需要这些话",
-      "onboard_time": 1697430761,
-      "rank": 49,
-      "category": "作品衍生,幽默"
-    },
-    {
       "raw_hot": 189212,
       "num": 189212,
       "word": "斗破苍穹萧炎美杜莎撒狗粮",
@@ -33441,6 +33481,14 @@
       "onboard_time": 1696580735,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 183988,
+      "num": 183988,
+      "word": "7岁男孩报警说被家暴民警客串家教",
+      "onboard_time": 1697432797,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183935,
@@ -34313,6 +34361,14 @@
       "onboard_time": 1697154452,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177918,
+      "num": 177918,
+      "word": "仓鼠要能做出来估计20都省了",
+      "onboard_time": 1697432618,
+      "rank": 43,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 177901,
@@ -41121,6 +41177,14 @@
       "onboard_time": 1696146931,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98160,
+      "num": 357177,
+      "word": "淘宝买菜打拼价玩的是商战",
+      "onboard_time": 1697432437,
+      "rank": 14,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 97986,
