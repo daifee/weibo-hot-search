@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697473417332,
+  "endTime": 1697474351976,
   "band_list": [
     {
       "raw_hot": 1611627,
@@ -219,6 +219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174561,
+      "num": 174561,
+      "word": "守护甜心 抽赏",
+      "onboard_time": 1697472689,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 173410,
       "num": 173410,
       "word": "周也李昀锐cp感",
@@ -267,12 +275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124743,
-      "num": 124743,
-      "word": "守护甜心 抽赏",
-      "onboard_time": 1697472689,
-      "rank": 35,
-      "category": "动漫"
+      "raw_hot": 123390,
+      "num": 123390,
+      "word": "当自拍发现陌生男女都出镜时",
+      "onboard_time": 1697472450,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122807,
@@ -312,6 +320,14 @@
       "word": "两大型犬撕咬2岁半女童致严重受伤",
       "onboard_time": 1697440172,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108225,
+      "num": 108225,
+      "word": "人民网评2岁女童被恶犬咬伤",
+      "onboard_time": 1697472510,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -377,14 +393,6 @@
       "onboard_time": 1697459013,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84469,
-      "num": 84469,
-      "word": "当自拍发现陌生男女都出镜时",
-      "onboard_time": 1697472450,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 81852,
