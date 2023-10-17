@@ -1,0 +1,410 @@
+{
+  "runTime": 1697534245946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1355707,
+        "num": 1355707,
+        "word": "庆余年2有徐志胜",
+        "onboard_time": 1697530297,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1129879,
+        "num": 1129879,
+        "word": "男子中3342万元巨奖15分钟火速领奖",
+        "onboard_time": 1697532395,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50595,
+        "num": 1075487,
+        "word": "感悟东方智慧的融会贯通",
+        "onboard_time": 1697531795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2216985,
+        "num": 1011870,
+        "word": "屁股针为什么消失了",
+        "onboard_time": 1697528853,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1832928,
+        "num": 806555,
+        "word": "李玟与姚贝娜将葬在同一墓园",
+        "onboard_time": 1697530956,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1286863,
+        "num": 749040,
+        "word": "宋仲基海外试镜全部被淘汰",
+        "onboard_time": 1697528313,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 667775,
+        "num": 667775,
+        "word": "李沁暂别林婉儿",
+        "onboard_time": 1697528435,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 606935,
+        "num": 606935,
+        "word": "仲某即将再婚 仲某还是单身",
+        "onboard_time": 1697530657,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 577458,
+        "num": 577458,
+        "word": "加拿大军机不远万里到中国家门口滋事挑衅",
+        "onboard_time": 1697532637,
+        "rank": 8,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 555469,
+        "num": 555469,
+        "word": "理想 跳楼款",
+        "onboard_time": 1697532156,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 2507221,
+        "num": 542963,
+        "word": "成都咬伤女童的罗威纳犬被捕获",
+        "onboard_time": 1697530836,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 873785,
+        "num": 517875,
+        "word": "医生建议被恶犬撕咬女童保守治疗",
+        "onboard_time": 1697526273,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 787407,
+        "num": 494681,
+        "word": "物业回应保洁阿姨为女童挡狗",
+        "onboard_time": 1697530174,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556263,
+        "num": 473106,
+        "word": "钢铁侠今天在漫威宇宙正式去世",
+        "onboard_time": 1697533658,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468167,
+        "num": 468167,
+        "word": "金晨左手喂狗右手喂自己",
+        "onboard_time": 1697529636,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 442814,
+        "num": 442814,
+        "word": "SM否认朴灿烈吴世勋签约新公司",
+        "onboard_time": 1697530416,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428957,
+        "num": 428957,
+        "word": "南航回应飞机餐发4个馒头1片白菜",
+        "onboard_time": 1697532395,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395951,
+        "num": 395951,
+        "word": "长相思角色号醒了",
+        "onboard_time": 1697529336,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385614,
+        "num": 385614,
+        "word": "司机路边帮抱婴儿下一秒车被撞飞",
+        "onboard_time": 1697529455,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394193,
+        "num": 382573,
+        "word": "狗被遗弃原主人就可以不担责吗",
+        "onboard_time": 1697531255,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 542104,
+        "num": 382276,
+        "word": "爸妈被我三千块的工资震惊到了",
+        "onboard_time": 1697526093,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378421,
+        "num": 378421,
+        "word": "乞丐情头",
+        "onboard_time": 1697528075,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367380,
+        "num": 367380,
+        "word": "薛之谦他不红那我也不该红",
+        "onboard_time": 1697527474,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 336508,
+        "num": 336508,
+        "word": "吸引全红婵只需要一个玩偶",
+        "onboard_time": 1697529816,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332188,
+        "num": 332188,
+        "word": "梅西 第八座金球奖",
+        "onboard_time": 1697531557,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330628,
+        "num": 330628,
+        "word": "庆余年2新角色剧照",
+        "onboard_time": 1697532395,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286406,
+        "num": 286406,
+        "word": "罗翔谈狗咬伤他人狗主是否犯罪",
+        "onboard_time": 1697523213,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312117,
+        "num": 281679,
+        "word": "李小冉叫长公主疯女人",
+        "onboard_time": 1697531435,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 273079,
+        "num": 273079,
+        "word": "新疆男孩脱口而出自己是中华民族",
+        "onboard_time": 1697530297,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270674,
+        "num": 270674,
+        "word": "李玟本月将在武汉安葬",
+        "onboard_time": 1697530777,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248689,
+        "num": 248689,
+        "word": "联合国秘书长抵达北京",
+        "onboard_time": 1697533055,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 237350,
+        "num": 237350,
+        "word": "iPhone15ProMax大陆零部件仅占2%",
+        "onboard_time": 1697529875,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 224973,
+        "num": 224973,
+        "word": "原神 小保底不歪",
+        "onboard_time": 1697531736,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 210353,
+        "num": 210353,
+        "word": "王源说生活可以向动物学习",
+        "onboard_time": 1697532454,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192283,
+        "num": 192283,
+        "word": "警方回应狗主人调查情况",
+        "onboard_time": 1697533597,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 191925,
+        "num": 191925,
+        "word": "长相思2到底啥时候播",
+        "onboard_time": 1697531675,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182779,
+        "num": 182779,
+        "word": "南航飞机餐发4个馒头1片白菜",
+        "onboard_time": 1697533534,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181222,
+        "num": 181222,
+        "word": "庆余年王启年女儿",
+        "onboard_time": 1697527893,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179236,
+        "num": 179236,
+        "word": "桂花烤奶",
+        "onboard_time": 1697523511,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177594,
+        "num": 177594,
+        "word": "讯飞员工因提前一小时抢老乡鸡免费餐被罚",
+        "onboard_time": 1697525193,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168499,
+        "num": 168499,
+        "word": "孟宴臣第一人称视角",
+        "onboard_time": 1697529574,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166670,
+        "num": 166670,
+        "word": "朱一龙说不太担心观众看不懂",
+        "onboard_time": 1697532877,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166050,
+        "num": 166050,
+        "word": "伊朗外长称该国有可能参战",
+        "onboard_time": 1697533957,
+        "rank": 42,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 161571,
+        "num": 161571,
+        "word": "这种隔夜水最好别喝",
+        "onboard_time": 1697523511,
+        "rank": 43,
+        "category": "知识科普,健康医疗"
+      },
+      {
+        "raw_hot": 159903,
+        "num": 159903,
+        "word": "以色列用白磷弹袭击黎巴嫩边界",
+        "onboard_time": 1697534078,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 150476,
+        "num": 150476,
+        "word": "狐妖小红娘 四顾门遗址",
+        "onboard_time": 1697524531,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148721,
+        "num": 148721,
+        "word": "男子不想结婚偷下堕胎药致女友流产",
+        "onboard_time": 1697514094,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146350,
+        "num": 146350,
+        "word": "庆余年",
+        "onboard_time": 1697524415,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138752,
+        "num": 138752,
+        "word": "都来看我推吹泡泡",
+        "onboard_time": 1697532877,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142265,
+        "num": 138286,
+        "word": "高中同学车祸失忆全班守护18年",
+        "onboard_time": 1697515776,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中哈双方要坚持初心守望相助#"
+    }
+  }
+}

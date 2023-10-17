@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697531733516,
+  "endTime": 1697534245946,
   "band_list": [
     {
       "raw_hot": 3303661,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2618891,
-      "num": 603417,
+      "num": 1011870,
       "word": "屁股针为什么消失了",
       "onboard_time": 1697528853,
       "rank": 3,
@@ -24,6 +24,14 @@
       "word": "狗和主人必须尽快绳之以法",
       "onboard_time": 1697503059,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2507221,
+      "num": 542963,
+      "word": "成都咬伤女童的罗威纳犬被捕获",
+      "onboard_time": 1697530836,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 2316378,
-      "num": 603406,
+      "num": 749040,
       "word": "宋仲基海外试镜全部被淘汰",
       "onboard_time": 1697528313,
       "rank": 4,
@@ -83,12 +91,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 1881960,
-      "num": 409422,
-      "word": "成都咬伤女童的罗威纳犬被捕获",
-      "onboard_time": 1697530836,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 1832928,
+      "num": 806555,
+      "word": "李玟与姚贝娜将葬在同一墓园",
+      "onboard_time": 1697530956,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 1697579,
@@ -192,6 +200,14 @@
       "word": "男子不想结婚偷下堕胎药致女友流产",
       "onboard_time": 1697514094,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1129879,
+      "num": 1129879,
+      "word": "男子中3342万元巨奖15分钟火速领奖",
+      "onboard_time": 1697532395,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -345,6 +361,14 @@
       "onboard_time": 1697525193,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 787407,
+      "num": 494681,
+      "word": "物业回应保洁阿姨为女童挡狗",
+      "onboard_time": 1697530174,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 783602,
@@ -507,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 606935,
+      "num": 606935,
+      "word": "仲某即将再婚 仲某还是单身",
+      "onboard_time": 1697530657,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 582278,
       "num": 344750,
       "word": "四川被咬女童20多处咬伤",
@@ -539,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577458,
+      "num": 577458,
+      "word": "加拿大军机不远万里到中国家门口滋事挑衅",
+      "onboard_time": 1697532637,
+      "rank": 8,
+      "category": "国内要闻,军事"
+    },
+    {
       "raw_hot": 567280,
       "num": 383498,
       "word": "魏大勋已经不敢抓脚踝了",
@@ -556,11 +596,27 @@
     },
     {
       "raw_hot": 563699,
-      "num": 408106,
+      "num": 442814,
       "word": "SM否认朴灿烈吴世勋签约新公司",
       "onboard_time": 1697530416,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 556263,
+      "num": 473106,
+      "word": "钢铁侠今天在漫威宇宙正式去世",
+      "onboard_time": 1697533658,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 555469,
+      "num": 555469,
+      "word": "理想 跳楼款",
+      "onboard_time": 1697532156,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 553724,
@@ -585,22 +641,6 @@
       "onboard_time": 1697503059,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 519122,
-      "num": 406524,
-      "word": "物业回应保洁阿姨为女童挡狗",
-      "onboard_time": 1697530174,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 515372,
-      "num": 515372,
-      "word": "仲某即将再婚 仲某还是单身",
-      "onboard_time": 1697530657,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 513196,
@@ -723,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 428957,
+      "num": 428957,
+      "word": "南航回应飞机餐发4个馒头1片白菜",
+      "onboard_time": 1697532395,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425935,
       "num": 425935,
       "word": "黑壮美的吉克隽逸",
@@ -763,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394193,
+      "num": 382573,
+      "word": "狗被遗弃原主人就可以不担责吗",
+      "onboard_time": 1697531255,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387022,
       "num": 387022,
       "word": "MIUI",
       "onboard_time": 1697511993,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 385614,
+      "num": 410334,
+      "word": "司机路边帮抱婴儿下一秒车被撞飞",
+      "onboard_time": 1697529455,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376418,
@@ -835,14 +899,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 345648,
-      "num": 410334,
-      "word": "司机路边帮抱婴儿下一秒车被撞飞",
-      "onboard_time": 1697529455,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 342947,
       "num": 272137,
       "word": "庆余年王启年女儿",
@@ -876,7 +932,7 @@
     },
     {
       "raw_hot": 337293,
-      "num": 254658,
+      "num": 336508,
       "word": "吸引全红婵只需要一个玩偶",
       "onboard_time": 1697529816,
       "rank": 32,
@@ -897,6 +953,22 @@
       "onboard_time": 1697469517,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332188,
+      "num": 332188,
+      "word": "梅西 第八座金球奖",
+      "onboard_time": 1697531557,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 330628,
+      "num": 330628,
+      "word": "庆余年2新角色剧照",
+      "onboard_time": 1697532395,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 320400,
@@ -937,6 +1009,14 @@
       "onboard_time": 1697504254,
       "rank": 30,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 312117,
+      "num": 281679,
+      "word": "李小冉叫长公主疯女人",
+      "onboard_time": 1697531435,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 306901,
@@ -1040,14 +1120,6 @@
       "word": "赵晴演技",
       "onboard_time": 1697504316,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 281298,
-      "num": 281298,
-      "word": "李小冉叫长公主疯女人",
-      "onboard_time": 1697531435,
-      "rank": 26,
       "category": "剧集"
     },
     {
@@ -1211,6 +1283,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 248689,
+      "num": 248689,
+      "word": "联合国秘书长抵达北京",
+      "onboard_time": 1697533055,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 248328,
       "num": 213394,
       "word": "再聊下去该网恋了",
@@ -1339,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 224973,
+      "num": 224973,
+      "word": "原神 小保底不歪",
+      "onboard_time": 1697531736,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 222631,
       "num": 222631,
       "word": "曾舜晞关注田曦薇微博",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1697459854,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 210353,
+      "num": 210353,
+      "word": "王源说生活可以向动物学习",
+      "onboard_time": 1697532454,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 208898,
@@ -1563,11 +1659,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192283,
+      "num": 192283,
+      "word": "警方回应狗主人调查情况",
+      "onboard_time": 1697533597,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192037,
       "num": 192037,
       "word": "邓为长相思线下应援",
       "onboard_time": 1697524232,
       "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 191925,
+      "num": 191925,
+      "word": "长相思2到底啥时候播",
+      "onboard_time": 1697531675,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -1657,6 +1769,14 @@
       "onboard_time": 1697464777,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182779,
+      "num": 182779,
+      "word": "南航飞机餐发4个馒头1片白菜",
+      "onboard_time": 1697533534,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 181586,
@@ -1755,12 +1875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165355,
-      "num": 165355,
-      "word": "狗被遗弃原主人就可以不担责吗",
-      "onboard_time": 1697531255,
+      "raw_hot": 166670,
+      "num": 166670,
+      "word": "朱一龙说不太担心观众看不懂",
+      "onboard_time": 1697532877,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 166050,
+      "num": 166050,
+      "word": "伊朗外长称该国有可能参战",
+      "onboard_time": 1697533957,
       "rank": 42,
-      "category": "社会新闻"
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 163116,
@@ -1769,6 +1897,14 @@
       "onboard_time": 1697498062,
       "rank": 49,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 159903,
+      "num": 159903,
+      "word": "以色列用白磷弹袭击黎巴嫩边界",
+      "onboard_time": 1697534078,
+      "rank": 44,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 159144,
@@ -1785,14 +1921,6 @@
       "onboard_time": 1697474604,
       "rank": 22,
       "category": "情感"
-    },
-    {
-      "raw_hot": 157070,
-      "num": 157070,
-      "word": "梅西 第八座金球奖",
-      "onboard_time": 1697531557,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 155927,
@@ -1859,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138752,
+      "num": 138752,
+      "word": "都来看我推吹泡泡",
+      "onboard_time": 1697532877,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132984,
       "num": 132984,
       "word": "小狗被困水池警校生下水帮抱上岸",
@@ -1880,14 +2016,6 @@
       "word": "虎鹤妖师录结局全是反转",
       "onboard_time": 1697476939,
       "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 128837,
-      "num": 128837,
-      "word": "长相思2到底啥时候播",
-      "onboard_time": 1697531675,
-      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2145,6 +2273,14 @@
       "onboard_time": 1697475502,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50595,
+      "num": 1075487,
+      "word": "感悟东方智慧的融会贯通",
+      "onboard_time": 1697531795,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 39262,
