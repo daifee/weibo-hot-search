@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697552202879,
+  "endTime": 1697553282058,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1290636,
+      "num": 516234,
+      "word": "重庆明确规定禁养32种犬只",
+      "onboard_time": 1697550520,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1219210,
       "num": 1219210,
       "word": "普京抵达人民大会堂",
@@ -515,14 +523,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 794969,
-      "num": 516234,
-      "word": "重庆明确规定禁养32种犬只",
-      "onboard_time": 1697550520,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 789362,
       "num": 501563,
       "word": "广告公司向车主和吴磊道歉",
@@ -569,6 +569,14 @@
       "onboard_time": 1697523511,
       "rank": 34,
       "category": "美食"
+    },
+    {
+      "raw_hot": 762290,
+      "num": 762290,
+      "word": "网传2024湖南卫视跨年演唱会名单",
+      "onboard_time": 1697550223,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 760443,
@@ -625,6 +633,22 @@
       "onboard_time": 1697515897,
       "rank": 12,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 722738,
+      "num": 722738,
+      "word": "iPad eSIM",
+      "onboard_time": 1697551118,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 721312,
+      "num": 466939,
+      "word": "檀健次摘耳返",
+      "onboard_time": 1697553041,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 718880,
@@ -771,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 580576,
-      "num": 580576,
-      "word": "iPad eSIM",
-      "onboard_time": 1697551118,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 580198,
       "num": 539580,
       "word": "金晨左手喂狗右手喂自己",
@@ -875,8 +891,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 511433,
+      "num": 444866,
+      "word": "00后买刮刮乐中100万分男友10万",
+      "onboard_time": 1697552620,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 505108,
-      "num": 351990,
+      "num": 357826,
       "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
       "onboard_time": 1697536777,
       "rank": 25,
@@ -1009,6 +1033,14 @@
       "onboard_time": 1697531255,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 442137,
+      "num": 444903,
+      "word": "联合国称以色列可能构成国际犯罪",
+      "onboard_time": 1697551784,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 434322,
@@ -1308,7 +1340,7 @@
     },
     {
       "raw_hot": 327183,
-      "num": 243842,
+      "num": 253630,
       "word": "被黄凯的实习日记鼓舞到了",
       "onboard_time": 1697548298,
       "rank": 32,
@@ -1331,12 +1363,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 324725,
+      "num": 262391,
+      "word": "建议洗脸要洗发际线",
+      "onboard_time": 1697552982,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 321331,
       "num": 307112,
       "word": "韩国人想跟法国人交朋友的原因",
       "onboard_time": 1697548718,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 320726,
+      "num": 320726,
+      "word": "英伟达大跌",
+      "onboard_time": 1697552620,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 320400,
@@ -1571,6 +1619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270540,
+      "num": 270540,
+      "word": "华为手机销量跃至国内第一",
+      "onboard_time": 1697552560,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 270273,
       "num": 270273,
       "word": "支原体肺炎",
@@ -1723,6 +1779,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 252286,
+      "num": 252286,
+      "word": "代号鸢崩了",
+      "onboard_time": 1697552445,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 248689,
       "num": 248689,
       "word": "联合国秘书长抵达北京",
@@ -1737,6 +1801,14 @@
       "onboard_time": 1697463575,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 247766,
+      "num": 247766,
+      "word": "刘德华说霆锋太疼我了",
+      "onboard_time": 1697552259,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 246921,
@@ -1881,6 +1953,14 @@
       "onboard_time": 1697515836,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220043,
+      "num": 220043,
+      "word": "谢霆锋性张力",
+      "onboard_time": 1697552920,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219039,
@@ -2275,6 +2355,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 188622,
+      "num": 188622,
+      "word": "问心 边看边哭",
+      "onboard_time": 1697552920,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188386,
       "num": 188386,
       "word": "原神4.1",
@@ -2441,14 +2529,6 @@
       "onboard_time": 1697526153,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 169049,
-      "num": 169049,
-      "word": "联合国称以色列可能构成国际犯罪",
-      "onboard_time": 1697551784,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 168522,

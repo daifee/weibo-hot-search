@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697552202879,
+  "endTime": 1697553282058,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -3891,6 +3891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1290636,
+      "num": 516234,
+      "word": "重庆明确规定禁养32种犬只",
+      "onboard_time": 1697550520,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1287996,
       "num": 830034,
       "word": "关晓彤微博之夜捂嘴原因",
@@ -7259,14 +7267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 794969,
-      "num": 516234,
-      "word": "重庆明确规定禁养32种犬只",
-      "onboard_time": 1697550520,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 794710,
       "num": 550229,
       "word": "新华社称退休不是护身符",
@@ -7729,6 +7729,14 @@
       "onboard_time": 1696215933,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 762290,
+      "num": 762290,
+      "word": "网传2024湖南卫视跨年演唱会名单",
+      "onboard_time": 1697550223,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 760443,
@@ -8251,12 +8259,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 722738,
+      "num": 722738,
+      "word": "iPad eSIM",
+      "onboard_time": 1697551118,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 722671,
       "num": 722671,
       "word": "杨幂这套图用在今天太合适了",
       "onboard_time": 1696641695,
       "rank": 16,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 721312,
+      "num": 466939,
+      "word": "檀健次摘耳返",
+      "onboard_time": 1697553041,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 720340,
@@ -11011,14 +11035,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 580576,
-      "num": 580576,
-      "word": "iPad eSIM",
-      "onboard_time": 1697551118,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 580448,
       "num": 580448,
       "word": "王鹤棣 直播",
@@ -12859,6 +12875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 511433,
+      "num": 444866,
+      "word": "00后买刮刮乐中100万分男友10万",
+      "onboard_time": 1697552620,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511104,
       "num": 511104,
       "word": "胡兵曾代表中国赛艇队拿了世界第七",
@@ -13036,7 +13060,7 @@
     },
     {
       "raw_hot": 505108,
-      "num": 351990,
+      "num": 357826,
       "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
       "onboard_time": 1697536777,
       "rank": 25,
@@ -15329,6 +15353,14 @@
       "onboard_time": 1697202396,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 442137,
+      "num": 444903,
+      "word": "联合国称以色列可能构成国际犯罪",
+      "onboard_time": 1697551784,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 441932,
@@ -20700,7 +20732,7 @@
     },
     {
       "raw_hot": 327183,
-      "num": 243842,
+      "num": 253630,
       "word": "被黄凯的实习日记鼓舞到了",
       "onboard_time": 1697548298,
       "rank": 32,
@@ -20865,6 +20897,14 @@
       "onboard_time": 1696431097,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324725,
+      "num": 262391,
+      "word": "建议洗脸要洗发际线",
+      "onboard_time": 1697552982,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 324707,
@@ -21105,6 +21145,14 @@
       "onboard_time": 1696308212,
       "rank": 14,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 320726,
+      "num": 320726,
+      "word": "英伟达大跌",
+      "onboard_time": 1697552620,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 320691,
@@ -25075,6 +25123,14 @@
       "category": "游戏,体育"
     },
     {
+      "raw_hot": 270540,
+      "num": 270540,
+      "word": "华为手机销量跃至国内第一",
+      "onboard_time": 1697552560,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 270537,
       "num": 270537,
       "word": "问心女孩穿婚纱虐麻了",
@@ -26923,6 +26979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 252286,
+      "num": 252286,
+      "word": "代号鸢崩了",
+      "onboard_time": 1697552445,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 252267,
       "num": 247826,
       "word": "张小斐新片被王子异掐脖子爆青筋",
@@ -27313,6 +27377,14 @@
       "onboard_time": 1696940556,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 247766,
+      "num": 247766,
+      "word": "刘德华说霆锋太疼我了",
+      "onboard_time": 1697552259,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 247718,
@@ -30529,6 +30601,14 @@
       "onboard_time": 1697073216,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 220043,
+      "num": 220043,
+      "word": "谢霆锋性张力",
+      "onboard_time": 1697552920,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219998,
@@ -36067,6 +36147,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 188622,
+      "num": 188622,
+      "word": "问心 边看边哭",
+      "onboard_time": 1697552920,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188391,
       "num": 188391,
       "word": "wtt球星挑战赛兰州站2023",
@@ -39057,14 +39145,6 @@
       "onboard_time": 1696425816,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169049,
-      "num": 169049,
-      "word": "联合国称以色列可能构成国际犯罪",
-      "onboard_time": 1697551784,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 168880,

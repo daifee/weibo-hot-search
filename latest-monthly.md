@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 22:16:42
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 22:34:42
 </p>
 </blockquote>
 <p>
@@ -2931,6 +2931,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%98%8E%E7%A1%AE%E8%A7%84%E5%AE%9A%E7%A6%81%E5%85%BB32%E7%A7%8D%E7%8A%AC%E5%8F%AA%23" target="weibo">
+重庆明确规定禁养32种犬只（热度：1290636）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
 关晓彤微博之夜捂嘴原因（热度：1287996）
 </a>
@@ -5457,12 +5463,6 @@ THE9演唱会抢票（热度：807449）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E6%98%8E%E7%A1%AE%E8%A7%84%E5%AE%9A%E7%A6%81%E5%85%BB32%E7%A7%8D%E7%8A%AC%E5%8F%AA%23" target="weibo">
-重庆明确规定禁养32种犬只（热度：794969）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A7%B0%E9%80%80%E4%BC%91%E4%B8%8D%E6%98%AF%E6%8A%A4%E8%BA%AB%E7%AC%A6%23" target="weibo">
 新华社称退休不是护身符（热度：794710）
 </a>
@@ -5811,6 +5811,12 @@ Jennie巴黎时装周（热度：789463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A02024%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%8D%95%23" target="weibo">
+网传2024湖南卫视跨年演唱会名单（热度：762290）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%A8%81%E7%BA%B3%23" target="weibo">
 罗威纳（热度：760443）
 </a>
@@ -6005,12 +6011,6 @@ IVE李瑞在翰林高中被骚扰（热度：741165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E5%8F%AA%E7%94%A8%E4%B8%80%E5%9D%97%E8%8D%89%E5%9D%AA%23" target="weibo">
 亚运会闭幕式只用一块草坪（热度：739898）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%AA%E5%8D%8E%E7%9B%B4%E6%92%AD%E8%BF%9E%E9%BA%A6%E8%BF%9E%E4%BA%86%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%23" target="weibo">
-刘宪华直播连麦连了一屋子人（热度：739886）
 </a>
 </li>
 
