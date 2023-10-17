@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697582049260,
+  "endTime": 1697584605366,
   "band_list": [
     {
       "raw_hot": 2106907,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1027641,
-      "num": 390963,
+      "num": 493717,
       "word": "长相思晚会 尴尬",
       "onboard_time": 1697549439,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 825284,
+      "num": 252459,
+      "word": "成都大狗咬伤女童所在小区业主发声",
+      "onboard_time": 1697543614,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 719023,
@@ -59,12 +67,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 540398,
+      "num": 540398,
+      "word": "去年我国一孩出生低于450万",
+      "onboard_time": 1697563280,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 536497,
+      "num": 536497,
+      "word": "傅首尔觉得老刘不爱她的原因",
+      "onboard_time": 1697562203,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 534294,
       "num": 361446,
       "word": "扶杨紫的小姐姐撞进了邓为怀里",
       "onboard_time": 1697548298,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 528306,
+      "num": 335549,
+      "word": "以色列驻英大使宣称加沙不存在人道主义危机",
+      "onboard_time": 1697571434,
+      "rank": 12,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 488230,
@@ -99,6 +131,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 417249,
+      "num": 141605,
+      "word": "咬伤女童的大型犬还未找到",
+      "onboard_time": 1697577793,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411709,
       "num": 347763,
       "word": "咬伤女童罗威纳犬打过狂犬疫苗",
@@ -107,19 +147,19 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 396248,
+      "num": 193216,
+      "word": "塞尔维亚是中国的铁杆朋友",
+      "onboard_time": 1697582841,
+      "rank": 13,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 395030,
       "num": 301197,
       "word": "被狗咬伤女童尚未脱离危险",
       "onboard_time": 1697555682,
       "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 394536,
-      "num": 252459,
-      "word": "成都大狗咬伤女童所在小区业主发声",
-      "onboard_time": 1697543614,
-      "rank": 24,
       "category": "社会新闻"
     },
     {
@@ -131,20 +171,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 357283,
+      "num": 357283,
+      "word": "救了个老人是曾经的小学老师",
+      "onboard_time": 1697561125,
+      "rank": 46,
+      "category": "社会正能量"
+    },
+    {
+      "raw_hot": 333607,
+      "num": 300605,
+      "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
+      "onboard_time": 1697554181,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332066,
       "num": 301703,
       "word": "广告公司向车主和吴磊道歉",
       "onboard_time": 1697549921,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 330446,
-      "num": 330446,
-      "word": "去年我国一孩出生低于450万",
-      "onboard_time": 1697563280,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315191,
@@ -163,14 +211,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 300605,
-      "num": 300605,
-      "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
-      "onboard_time": 1697554181,
-      "rank": 21,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 290899,
       "num": 290899,
       "word": "老公抬妾我吃席",
@@ -185,14 +225,6 @@
       "onboard_time": 1697551118,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 273190,
-      "num": 273190,
-      "word": "傅首尔觉得老刘不爱她的原因",
-      "onboard_time": 1697562203,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 261070,
@@ -219,28 +251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 229332,
-      "num": 71289,
-      "word": "以色列驻英大使宣称加沙不存在人道主义危机",
-      "onboard_time": 1697571434,
-      "rank": 12,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 215370,
       "num": 215370,
       "word": "建议洗脸要洗发际线",
       "onboard_time": 1697552982,
       "rank": 25,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 206744,
-      "num": 70219,
-      "word": "咬伤女童的大型犬还未找到",
-      "onboard_time": 1697577793,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 204696,
@@ -379,14 +395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121455,
-      "num": 121455,
-      "word": "救了个老人是曾经的小学老师",
-      "onboard_time": 1697561125,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 121386,
       "num": 121386,
       "word": "谢霆锋性张力",
@@ -451,6 +459,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 97316,
+      "num": 97316,
+      "word": "一个人住真的会很舒服",
+      "onboard_time": 1697583744,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 90024,
+      "num": 90024,
+      "word": "十年开通一带一路集装箱航线80余条",
+      "onboard_time": 1697583684,
+      "rank": 33,
+      "category": "国内要闻,财经"
+    },
+    {
       "raw_hot": 89259,
       "num": 89259,
       "word": "白鹿的狗到底有多少小发卡",
@@ -467,12 +491,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79251,
+      "num": 79251,
+      "word": "孕后期准妈妈用胶带缓解压力",
+      "onboard_time": 1697573592,
+      "rank": 49,
+      "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 78191,
+      "num": 78191,
+      "word": "杨紫流光羽毛裙",
+      "onboard_time": 1697545533,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 75540,
+      "num": 75540,
+      "word": "一梦枕星河开机",
+      "onboard_time": 1697584347,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73195,
       "num": 73195,
       "word": "月曜中国采访成都篇",
       "onboard_time": 1697562981,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70365,
+      "num": 70365,
+      "word": "姜广涛与合伙人纠纷案件将二审",
+      "onboard_time": 1697574793,
+      "rank": 36,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 68811,
@@ -499,28 +555,44 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 61101,
+      "num": 69842,
+      "word": "虎子超级加辈",
+      "onboard_time": 1697579835,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58475,
+      "num": 69830,
+      "word": "被东北碳水的神秘力量征服",
+      "onboard_time": 1697579475,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 57627,
+      "num": 69824,
+      "word": "向共建一带一路所有的参与者建设者致敬",
+      "onboard_time": 1697583443,
+      "rank": 47,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 54992,
+      "num": 69821,
+      "word": "罗威纳",
+      "onboard_time": 1697540739,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 54569,
       "num": 54830,
       "word": "方筱然操不完的心",
       "onboard_time": 1697551964,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49657,
-      "num": 49867,
-      "word": "杨紫流光羽毛裙",
-      "onboard_time": 1697545533,
-      "rank": 41,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 46257,
-      "num": 46257,
-      "word": "姜广涛与合伙人纠纷案件将二审",
-      "onboard_time": 1697574793,
-      "rank": 36,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 38453,
@@ -531,12 +603,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33720,
-      "num": 42423,
-      "word": "孕后期准妈妈用胶带缓解压力",
-      "onboard_time": 1697573592,
-      "rank": 49,
-      "category": "母婴育儿"
+      "raw_hot": 32077,
+      "num": 496123,
+      "word": "丝路之歌一路繁花",
+      "onboard_time": 1697548239,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 30239,
@@ -545,22 +617,6 @@
       "onboard_time": 1697564779,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 29357,
-      "num": 42411,
-      "word": "被东北碳水的神秘力量征服",
-      "onboard_time": 1697579475,
-      "rank": 43,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 27462,
-      "num": 42415,
-      "word": "罗威纳",
-      "onboard_time": 1697540739,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 26701,
@@ -601,14 +657,6 @@
       "onboard_time": 1697570836,
       "rank": 49,
       "category": "美食,幽默"
-    },
-    {
-      "raw_hot": 13066,
-      "num": 236733,
-      "word": "丝路之歌一路繁花",
-      "onboard_time": 1697548239,
-      "rank": 2,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

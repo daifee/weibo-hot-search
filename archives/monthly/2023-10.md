@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 06:34:09
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 07:16:45
 </p>
 </blockquote>
 <p>
@@ -5205,6 +5205,12 @@ JINI回应退出NIMXX的原因（热度：828725）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E6%89%80%E5%9C%A8%E5%B0%8F%E5%8C%BA%E4%B8%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+成都大狗咬伤女童所在小区业主发声（热度：825284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E5%9B%A2%E4%BD%93%E5%86%B3%E8%B5%9B%E4%B8%8D%E6%95%8C%E7%94%B3%E6%97%BB%E5%9F%88%23" target="weibo">
 柯洁团体决赛不敌申旻埈（热度：824429）
 </a>
@@ -6005,12 +6011,6 @@ pdf写罪状录（热度：749818）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8A%9D%E5%AD%A6%23" target="weibo">
 华晨宇劝学（热度：745143）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%B8%85%E6%BC%AA%E9%9C%B9%E9%9B%B3%E8%88%9E%E4%BA%9A%E8%BF%90%E9%A6%96%E9%87%91%23" target="weibo">
-刘清漪霹雳舞亚运首金（热度：745099）
 </a>
 </li>
 
