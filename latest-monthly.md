@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 07:16:45
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 07:34:09
 </p>
 </blockquote>
 <p>
@@ -4179,6 +4179,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E6%89%80%E5%9C%A8%E5%B0%8F%E5%8C%BA%E4%B8%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
+成都大狗咬伤女童所在小区业主发声（热度：971513）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%AF%E7%91%9C%E5%92%8C%E7%BD%91%E5%8F%8B%E5%86%B3%E6%88%98%E7%B4%AB%E7%A6%81%E4%B9%8B%E5%B7%85%23" target="weibo">
 黄景瑜和网友决战紫禁之巅（热度：970608）
 </a>
@@ -5201,12 +5207,6 @@ JINI回应退出NIMXX的原因（热度：828725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B7%B1V%E7%BA%A2%E8%A3%99%23" target="weibo">
 赵丽颖深V红裙（热度：826205）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E6%89%80%E5%9C%A8%E5%B0%8F%E5%8C%BA%E4%B8%9A%E4%B8%BB%E5%8F%91%E5%A3%B0%23" target="weibo">
-成都大狗咬伤女童所在小区业主发声（热度：825284）
 </a>
 </li>
 

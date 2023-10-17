@@ -1,0 +1,410 @@
+{
+  "runTime": 1697585649822,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 540017,
+        "num": 540017,
+        "word": "救了个老人是曾经的小学老师",
+        "onboard_time": 1697561125,
+        "rank": 0,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 376751,
+        "num": 376751,
+        "word": "莲花楼演唱会 诚意满满",
+        "onboard_time": 1697553761,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39228,
+        "num": 279506,
+        "word": "丝路之歌一路繁花",
+        "onboard_time": 1697548239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 556122,
+        "num": 267469,
+        "word": "长相思晚会 尴尬",
+        "onboard_time": 1697549439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240520,
+        "num": 240520,
+        "word": "普京抵达人民大会堂",
+        "onboard_time": 1697546254,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 433721,
+        "num": 237146,
+        "word": "扶杨紫的小姐姐撞进了邓为怀里",
+        "onboard_time": 1697548298,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 308364,
+        "num": 237002,
+        "word": "联合国称以色列可能构成国际犯罪",
+        "onboard_time": 1697551784,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 366621,
+        "num": 230503,
+        "word": "檀健次摘耳返",
+        "onboard_time": 1697553041,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219468,
+        "num": 219468,
+        "word": "宋仲基海外试镜全部被淘汰",
+        "onboard_time": 1697528313,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183473,
+        "num": 183473,
+        "word": "王楚钦比赛也逃不过写论文",
+        "onboard_time": 1697553646,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1269898,
+        "num": 183099,
+        "word": "退钱",
+        "onboard_time": 1697554363,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1206339,
+        "num": 177403,
+        "word": "网友曝吴磊借自行车拒绝合影",
+        "onboard_time": 1697543375,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 971513,
+        "num": 175585,
+        "word": "成都大狗咬伤女童所在小区业主发声",
+        "onboard_time": 1697543614,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 739840,
+        "num": 172266,
+        "word": "塞尔维亚是中国的铁杆朋友",
+        "onboard_time": 1697582841,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 720188,
+        "num": 168556,
+        "word": "傅首尔觉得老刘不爱她的原因",
+        "onboard_time": 1697562203,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 651180,
+        "num": 163775,
+        "word": "去年我国一孩出生低于450万",
+        "onboard_time": 1697563280,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 506900,
+        "num": 162581,
+        "word": "以色列驻英大使宣称加沙不存在人道主义危机",
+        "onboard_time": 1697571434,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 325613,
+        "num": 157425,
+        "word": "广告公司向车主和吴磊道歉",
+        "onboard_time": 1697549921,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235167,
+        "num": 156405,
+        "word": "屁股针为什么消失了",
+        "onboard_time": 1697528853,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153141,
+        "num": 153141,
+        "word": "网传2024湖南卫视跨年演唱会名单",
+        "onboard_time": 1697550223,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 429040,
+        "num": 151184,
+        "word": "00后买刮刮乐中100万分男友10万",
+        "onboard_time": 1697552620,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360632,
+        "num": 149797,
+        "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
+        "onboard_time": 1697554181,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206301,
+        "num": 147052,
+        "word": "一个人住真的会很舒服",
+        "onboard_time": 1697583744,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 183661,
+        "num": 144293,
+        "word": "建议洗脸要洗发际线",
+        "onboard_time": 1697552982,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 154355,
+        "num": 139680,
+        "word": "原来发型这么重要",
+        "onboard_time": 1697555864,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138552,
+        "num": 138552,
+        "word": "一梦枕星河开机",
+        "onboard_time": 1697584347,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135012,
+        "num": 135012,
+        "word": "英伟达大跌",
+        "onboard_time": 1697552620,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 133736,
+        "num": 133736,
+        "word": "苏醒让栎鑫和栎迷们以后不要再支持了",
+        "onboard_time": 1697541396,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115921,
+        "num": 115921,
+        "word": "enhypen QQ音乐压价",
+        "onboard_time": 1697554782,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114210,
+        "num": 114210,
+        "word": "iPad eSIM",
+        "onboard_time": 1697551118,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 178509,
+        "num": 113882,
+        "word": "杨紫长相思演唱会哭了",
+        "onboard_time": 1697585429,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112952,
+        "num": 112952,
+        "word": "咬伤女童罗威纳犬打过狂犬疫苗",
+        "onboard_time": 1697539539,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112657,
+        "num": 112657,
+        "word": "华为手机销量跃至国内第一",
+        "onboard_time": 1697552560,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106943,
+        "num": 106943,
+        "word": "天官赐福花城谢怜双人海报",
+        "onboard_time": 1697549258,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 103434,
+        "num": 103434,
+        "word": "被烈犬咬伤女童立即手术或面临摘肾",
+        "onboard_time": 1697535637,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97402,
+        "num": 97402,
+        "word": "重庆明确规定禁养32种犬只",
+        "onboard_time": 1697550520,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92736,
+        "num": 92736,
+        "word": "孕后期准妈妈用胶带缓解压力",
+        "onboard_time": 1697573592,
+        "rank": 36,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 88701,
+        "num": 88701,
+        "word": "姜广涛与合伙人纠纷案件将二审",
+        "onboard_time": 1697574793,
+        "rank": 37,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 86811,
+        "num": 86811,
+        "word": "老公抬妾我吃席",
+        "onboard_time": 1697555323,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84250,
+        "num": 86808,
+        "word": "郭艾伦说人生总是充满坎坷",
+        "onboard_time": 1697584408,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82305,
+        "num": 86801,
+        "word": "给黑狗逼得上手了",
+        "onboard_time": 1697557716,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 73902,
+        "num": 86788,
+        "word": "谢霆锋性张力",
+        "onboard_time": 1697552920,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122107,
+        "num": 86782,
+        "word": "长相思演唱会",
+        "onboard_time": 1697544574,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64543,
+        "num": 86781,
+        "word": "被东北碳水的神秘力量征服",
+        "onboard_time": 1697579475,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 63178,
+        "num": 86772,
+        "word": "南航飞机餐发4个馒头1片白菜",
+        "onboard_time": 1697533534,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59579,
+        "num": 86760,
+        "word": "罗威纳",
+        "onboard_time": 1697540739,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59139,
+        "num": 86757,
+        "word": "白鹿的狗到底有多少小发卡",
+        "onboard_time": 1697561425,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57759,
+        "num": 86750,
+        "word": "哈萨克斯坦总统返回母校",
+        "onboard_time": 1697585549,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 55310,
+        "num": 86736,
+        "word": "汤唯换新经纪人了",
+        "onboard_time": 1697567955,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54714,
+        "num": 86728,
+        "word": "一带一路",
+        "onboard_time": 1697538697,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同印度尼西亚总统会谈#"
+    }
+  }
+}
