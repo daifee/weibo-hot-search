@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697523806274,
+  "endTime": 1697524601119,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -403,6 +403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1492214,
+      "num": 1492214,
+      "word": "李想",
+      "onboard_time": 1697518419,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 1460373,
       "num": 1460373,
       "word": "为什么高铁提前三分钟停止检票",
@@ -483,6 +491,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1325817,
+      "num": 398202,
+      "word": "疑咬伤女童黑狗逃跑画面曝光",
+      "onboard_time": 1697521411,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1319771,
       "num": 341026,
       "word": "钟楚曦曾在七夕被分手",
@@ -531,14 +547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1278166,
-      "num": 398202,
-      "word": "疑咬伤女童黑狗逃跑画面曝光",
-      "onboard_time": 1697521411,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1244276,
       "num": 963887,
       "word": "本周狗屎运最旺的星座",
@@ -561,14 +569,6 @@
       "onboard_time": 1697373995,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1198821,
-      "num": 1198821,
-      "word": "李想",
-      "onboard_time": 1697518419,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 1198191,
@@ -705,6 +705,14 @@
       "onboard_time": 1697374895,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1027273,
+      "num": 376107,
+      "word": "罗翔谈狗咬伤他人狗主是否犯罪",
+      "onboard_time": 1697523213,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1014363,
@@ -1035,6 +1043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 779191,
+      "num": 278209,
+      "word": "张元英和富江",
+      "onboard_time": 1697522494,
+      "rank": 24,
+      "category": "艺人,动漫"
+    },
+    {
       "raw_hot": 778217,
       "num": 778217,
       "word": "警方通报女童被狗咬伤",
@@ -1131,14 +1147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 708068,
-      "num": 278209,
-      "word": "张元英和富江",
-      "onboard_time": 1697522494,
-      "rank": 24,
-      "category": "艺人,动漫"
-    },
-    {
       "raw_hot": 698706,
       "num": 698706,
       "word": "肖战GUCCI大片",
@@ -1209,6 +1217,14 @@
       "onboard_time": 1697441735,
       "rank": 10,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 678194,
+      "num": 678194,
+      "word": "关晓彤怎么做到不笑场的",
+      "onboard_time": 1697521175,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 677476,
@@ -1595,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551680,
+      "num": 344750,
+      "word": "四川被咬女童20多处咬伤",
+      "onboard_time": 1697523752,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 550572,
       "num": 550572,
       "word": "马来西亚36岁演员帮子女洗澡时猝逝",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1697347834,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 537120,
+      "num": 537120,
+      "word": "这种隔夜水最好别喝",
+      "onboard_time": 1697523511,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 533070,
@@ -2043,28 +2075,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 462024,
-      "num": 462024,
-      "word": "关晓彤怎么做到不笑场的",
-      "onboard_time": 1697521175,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 460830,
       "num": 460830,
       "word": "沙溢说贾玲你不在王牌哥就不走了",
       "onboard_time": 1697348494,
       "rank": 14,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 460424,
-      "num": 376107,
-      "word": "罗翔谈狗咬伤他人狗主是否犯罪",
-      "onboard_time": 1697523213,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458126,
@@ -2161,6 +2177,14 @@
       "onboard_time": 1697378739,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 444208,
+      "num": 392747,
+      "word": "桂花烤奶",
+      "onboard_time": 1697523511,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 443743,
@@ -2832,6 +2856,14 @@
       "word": "迪丽热巴Live图",
       "onboard_time": 1697432258,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 349274,
+      "num": 349274,
+      "word": "王源多个作品著作权获批",
+      "onboard_time": 1697524294,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -3971,14 +4003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 246653,
-      "num": 246653,
-      "word": "这种隔夜水最好别喝",
-      "onboard_time": 1697523511,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 246613,
       "num": 246613,
       "word": "孙雯当选足协副主席",
@@ -4235,6 +4259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229907,
+      "num": 229907,
+      "word": "金鸡奖提名名单背后的女演员困境",
+      "onboard_time": 1697524294,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229744,
       "num": 229744,
       "word": "巴以冲突已超4200人死亡",
@@ -4305,6 +4337,14 @@
       "onboard_time": 1697440411,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 224100,
+      "num": 224100,
+      "word": "董洁都演李昀锐的妈了",
+      "onboard_time": 1697524232,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 223463,
@@ -4473,6 +4513,14 @@
       "onboard_time": 1697439752,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 210847,
+      "num": 210847,
+      "word": "庆余年",
+      "onboard_time": 1697524415,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 210521,
@@ -4883,14 +4931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199868,
-      "num": 199868,
-      "word": "桂花烤奶",
-      "onboard_time": 1697523511,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 199718,
       "num": 199718,
       "word": "剑网3校服",
@@ -5233,6 +5273,14 @@
       "onboard_time": 1697429256,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 191259,
+      "num": 191259,
+      "word": "邓为长相思线下应援",
+      "onboard_time": 1697524232,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 191235,
@@ -6259,14 +6307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144872,
-      "num": 144872,
-      "word": "四川被咬女童20多处咬伤",
-      "onboard_time": 1697523752,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 144482,
       "num": 144482,
       "word": "小伙夜爬嵩山遇大爷运货帮其照亮一路",
@@ -6289,6 +6329,14 @@
       "onboard_time": 1697371054,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143855,
+      "num": 143855,
+      "word": "狐妖小红娘 四顾门遗址",
+      "onboard_time": 1697524531,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 143372,
@@ -6584,6 +6632,14 @@
       "word": "当外国留学生遇见山东乡村振兴",
       "onboard_time": 1697383059,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 119349,
+      "num": 143411,
+      "word": "11名特警救火结束后变白头翁",
+      "onboard_time": 1697521354,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
