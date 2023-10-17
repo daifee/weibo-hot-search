@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 20:50:37
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 21:21:28
 </p>
 </blockquote>
 <p>
@@ -701,6 +701,12 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9B%9D%E5%88%98%E6%9A%96%E6%9B%A6%E5%9C%A8%E8%A7%86%E9%A2%91%E5%8F%B7%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7%23" target="weibo">
 网友曝刘暖曦在视频号直播带货（热度：2373079）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%20%E5%A0%B5%E8%BD%A6%23" target="weibo">
+檀健次 堵车（热度：2359306）
 </a>
 </li>
 
@@ -1755,6 +1761,12 @@ Z先生到底是谁（热度：1751124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
+被烈犬咬伤女童立即手术或面临摘肾（热度：1739810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E5%85%B33%E5%A4%A9%E6%B2%A1%E5%90%83%E9%A5%AD%E5%85%B6%E7%88%B6%E4%BA%B2%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA%23" target="weibo">
 2岁男孩被关3天没吃饭其父亲手机关机（热度：1738979）
 </a>
@@ -2613,12 +2625,6 @@ IVE空降（热度：1376713）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
-被烈犬咬伤女童立即手术或面临摘肾（热度：1376584）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%9F%A5%E9%81%93%E7%8E%8B%E5%86%B0%E5%86%B0%E7%94%A8%E4%BB%96%E7%82%B9%E5%A5%B6%E8%8C%B6%E5%90%97%23" target="weibo">
 周杰伦知道王冰冰用他点奶茶吗（热度：1374318）
 </a>
@@ -3119,6 +3125,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%91%E7%94%B7%E5%BD%95%E5%88%B6%E7%8E%B0%E5%9C%BA%E7%AB%99%E5%A7%90%E7%AB%99%E6%BB%A1%E4%BA%86%E4%B8%80%E8%89%98%E8%88%B9%23" target="weibo">
 跑男录制现场站姐站满了一艘船（热度：1220934）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23" target="weibo">
+普京抵达人民大会堂（热度：1219210）
 </a>
 </li>
 
@@ -5145,12 +5157,6 @@ JINI回应退出NIMXX的原因（热度：828725）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E6%8A%B5%E8%BE%BE%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23" target="weibo">
-普京抵达人民大会堂（热度：824009）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%9A%84i%E4%BA%BA%E5%90%8C%E4%BA%8B%E7%AB%9F%E7%84%B6%E6%98%AF%E8%A1%8C%E8%B5%B0%E7%9A%8450%E4%B8%87%23" target="weibo">
 我的i人同事竟然是行走的50万（热度：823671）
 </a>
@@ -6005,12 +6011,6 @@ IVE李瑞在翰林高中被骚扰（热度：741165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%20%E7%99%BD%E6%9C%88%E5%85%89%23" target="weibo">
 魏大勋 白月光（热度：736119）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A5%B3%E5%8D%95%E6%99%8B%E7%BA%A716%E5%BC%BA%23" target="weibo">
-孙颖莎女单晋级16强（热度：735633）
 </a>
 </li>
 

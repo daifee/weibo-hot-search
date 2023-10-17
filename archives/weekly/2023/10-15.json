@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697547037581,
+  "endTime": 1697548888768,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2867632,
-      "num": 371550,
+      "num": 389075,
       "word": "网友曝吴磊借自行车拒绝合影",
       "onboard_time": 1697543375,
       "rank": 11,
@@ -153,6 +153,14 @@
       "onboard_time": 1697515776,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2359306,
+      "num": 2359306,
+      "word": "檀健次 堵车",
+      "onboard_time": 1697547575,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 2347538,
@@ -403,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1739810,
+      "num": 721315,
+      "word": "被烈犬咬伤女童立即手术或面临摘肾",
+      "onboard_time": 1697535637,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1738499,
       "num": 1738499,
       "word": "迪丽热巴黄景瑜 二搭",
@@ -539,14 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1376584,
-      "num": 721315,
-      "word": "被烈犬咬伤女童立即手术或面临摘肾",
-      "onboard_time": 1697535637,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1374248,
       "num": 1374248,
       "word": "去年我国结婚人数25至29岁最多",
@@ -556,7 +564,7 @@
     },
     {
       "raw_hot": 1365289,
-      "num": 350609,
+      "num": 385389,
       "word": "杨紫流光羽毛裙",
       "onboard_time": 1697545533,
       "rank": 13,
@@ -681,6 +689,14 @@
       "onboard_time": 1697418454,
       "rank": 22,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1219210,
+      "num": 1219210,
+      "word": "普京抵达人民大会堂",
+      "onboard_time": 1697546254,
+      "rank": 1,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1219187,
@@ -1139,14 +1155,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 824009,
-      "num": 824009,
-      "word": "普京抵达人民大会堂",
-      "onboard_time": 1697546254,
-      "rank": 1,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 816570,
       "num": 335440,
       "word": "认知严重障碍的大爷在美发店消费60万",
@@ -1353,6 +1361,14 @@
       "onboard_time": 1697539177,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 733538,
+      "num": 350318,
+      "word": "又一部双男主剧开机了",
+      "onboard_time": 1697547456,
+      "rank": 20,
+      "category": "剧集"
     },
     {
       "raw_hot": 733175,
@@ -1577,6 +1593,14 @@
       "onboard_time": 1697365294,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 634373,
+      "num": 547468,
+      "word": "长相思直播",
+      "onboard_time": 1697546977,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 633232,
@@ -1929,6 +1953,14 @@
       "onboard_time": 1697501915,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 553581,
+      "num": 383239,
+      "word": "扶杨紫的小姐姐撞进了邓为怀里",
+      "onboard_time": 1697548298,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 550572,
@@ -2427,6 +2459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455529,
+      "num": 381301,
+      "word": "疯狗咬人不松口怎么办",
+      "onboard_time": 1697544873,
+      "rank": 24,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 455090,
       "num": 455090,
       "word": "社保缴15年和25年待遇差别",
@@ -2795,6 +2835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 405721,
+      "num": 378136,
+      "word": "SEVENTEEN新曲 泄露",
+      "onboard_time": 1697547038,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404647,
       "num": 346551,
       "word": "关于我蒸了一整个馒头这件事",
@@ -2841,14 +2889,6 @@
       "onboard_time": 1697521952,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397756,
-      "num": 265529,
-      "word": "疯狗咬人不松口怎么办",
-      "onboard_time": 1697544873,
-      "rank": 24,
-      "category": "知识科普"
     },
     {
       "raw_hot": 397435,
@@ -2921,6 +2961,14 @@
       "onboard_time": 1697381199,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 390852,
+      "num": 390852,
+      "word": "邓为长相思演唱会造型",
+      "onboard_time": 1697548598,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 389924,
@@ -3291,6 +3339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347194,
+      "num": 347194,
+      "word": "成都大狗咬伤女童所在小区业主发声",
+      "onboard_time": 1697543614,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 345444,
       "num": 345444,
       "word": "自建房造的丑 关我入住后什么事",
@@ -3451,6 +3507,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 332498,
+      "num": 332498,
+      "word": "长相思 诗朗诵",
+      "onboard_time": 1697548778,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 332188,
       "num": 332188,
       "word": "梅西 第八座金球奖",
@@ -3521,6 +3585,14 @@
       "onboard_time": 1697436213,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 327183,
+      "num": 227443,
+      "word": "被黄凯的实习日记鼓舞到了",
+      "onboard_time": 1697548298,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 326817,
@@ -3651,14 +3723,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 315140,
-      "num": 245847,
-      "word": "成都大狗咬伤女童所在小区业主发声",
-      "onboard_time": 1697543614,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 314732,
       "num": 314732,
       "word": "陈晓到底跟唐晓天说了什么",
@@ -3703,6 +3767,14 @@
       "num": 310745,
       "word": "白鹿王鹤棣 你好星期六",
       "onboard_time": 1697422173,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 309195,
+      "num": 309195,
+      "word": "唐九洲刮彩票拜黄子弘凡",
+      "onboard_time": 1697546796,
       "rank": 28,
       "category": "综艺"
     },
@@ -5179,6 +5251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211783,
+      "num": 207864,
+      "word": "黄凯证明了励志故事实现的可能性",
+      "onboard_time": 1697543734,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211217,
       "num": 211217,
       "word": "你知道感情中的弃猫效应吗",
@@ -5233,14 +5313,6 @@
       "onboard_time": 1697508872,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 208242,
-      "num": 208242,
-      "word": "唐九洲刮彩票拜黄子弘凡",
-      "onboard_time": 1697546796,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 207914,
@@ -5691,6 +5763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198411,
+      "num": 198411,
+      "word": "天官赐福",
+      "onboard_time": 1697548718,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 198248,
       "num": 198248,
       "word": "K5133次脱轨列车车上人员全部平安",
@@ -5833,14 +5913,6 @@
       "onboard_time": 1697534801,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194504,
-      "num": 194504,
-      "word": "黄凯证明了励志故事实现的可能性",
-      "onboard_time": 1697543734,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 194502,
@@ -6571,6 +6643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172477,
+      "num": 172477,
+      "word": "水牛客串田耕纪",
+      "onboard_time": 1697548180,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172414,
       "num": 172414,
       "word": "以方否认停火允许援助进入加沙报道",
@@ -6731,6 +6811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167471,
+      "num": 167471,
+      "word": "KSG怎么了",
+      "onboard_time": 1697547337,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 166895,
       "num": 166895,
       "word": "于正说喜欢华浅就像喜欢魏璎珞",
@@ -6761,6 +6849,14 @@
       "onboard_time": 1697454154,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165666,
+      "num": 165666,
+      "word": "冰美式火锅",
+      "onboard_time": 1697548360,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 165635,
@@ -6825,6 +6921,22 @@
       "onboard_time": 1697285852,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 162733,
+      "num": 162733,
+      "word": "韩国人想跟法国人交朋友的原因",
+      "onboard_time": 1697548718,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 162327,
+      "num": 162327,
+      "word": "B太二刷新疆喀什",
+      "onboard_time": 1697548659,
+      "rank": 45,
+      "category": "网红,旅游"
     },
     {
       "raw_hot": 162314,
@@ -7259,14 +7371,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143729,
-      "num": 143729,
-      "word": "长相思直播",
-      "onboard_time": 1697546977,
-      "rank": 48,
-      "category": "演出"
-    },
-    {
       "raw_hot": 143372,
       "num": 143372,
       "word": "老人拍张掖美景即兴朗诵慷慨激昂",
@@ -7553,6 +7657,14 @@
       "onboard_time": 1697292097,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121057,
+      "num": 152913,
+      "word": "16岁高中生勇救落水女子",
+      "onboard_time": 1697548117,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 120873,
@@ -8161,6 +8273,14 @@
       "onboard_time": 1697335230,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 30947,
+      "num": 775894,
+      "word": "8组数字看懂一带一路",
+      "onboard_time": 1697548360,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 29360,
