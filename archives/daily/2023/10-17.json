@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697555906604,
+  "endTime": 1697556868268,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 3066558,
+      "num": 518343,
+      "word": "退钱",
+      "onboard_time": 1697554363,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 2976357,
       "num": 904364,
       "word": "长相思晚会 尴尬",
@@ -41,14 +49,6 @@
       "onboard_time": 1697543375,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2751090,
-      "num": 518343,
-      "word": "退钱",
-      "onboard_time": 1697554363,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 2731186,
@@ -707,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 713772,
+      "num": 465915,
+      "word": "被狗咬伤女童尚未脱离危险",
+      "onboard_time": 1697555682,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 693218,
       "num": 693218,
       "word": "第一次看男女主整部剧都在种田的",
@@ -729,6 +737,14 @@
       "onboard_time": 1697524415,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 672953,
+      "num": 672953,
+      "word": "enhypen QQ音乐压价",
+      "onboard_time": 1697554782,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 663507,
@@ -963,14 +979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 488400,
-      "num": 488400,
-      "word": "enhypen QQ音乐压价",
-      "onboard_time": 1697554782,
-      "rank": 19,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 487015,
       "num": 449191,
       "word": "于正发文维护赵晴",
@@ -1035,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 456102,
+      "num": 456102,
+      "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
+      "onboard_time": 1697554181,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455529,
       "num": 450517,
       "word": "疯狗咬人不松口怎么办",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1697447073,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 449567,
-      "num": 449567,
-      "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
-      "onboard_time": 1697554181,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 446940,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1697534078,
       "rank": 44,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 426416,
+      "num": 426416,
+      "word": "老公抬妾我吃席",
+      "onboard_time": 1697555323,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 425935,
@@ -1396,7 +1412,7 @@
     },
     {
       "raw_hot": 327183,
-      "num": 273702,
+      "num": 276632,
       "word": "被黄凯的实习日记鼓舞到了",
       "onboard_time": 1697548298,
       "rank": 32,
@@ -1504,14 +1520,6 @@
       "word": "李小冉叫长公主疯女人",
       "onboard_time": 1697531435,
       "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 311167,
-      "num": 311167,
-      "word": "老公抬妾我吃席",
-      "onboard_time": 1697555323,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1731,6 +1739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 265326,
+      "num": 265326,
+      "word": "原来发型这么重要",
+      "onboard_time": 1697555864,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 265325,
       "num": 265325,
       "word": "田耕纪里奶奶悲惨的一生",
@@ -1827,6 +1843,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 252950,
+      "num": 252950,
+      "word": "黄凯证明了励志故事实现的可能性",
+      "onboard_time": 1697543734,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252388,
       "num": 252388,
       "word": "这节目是懂讽刺的",
@@ -1905,14 +1929,6 @@
       "onboard_time": 1697514693,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243827,
-      "num": 243827,
-      "word": "黄凯证明了励志故事实现的可能性",
-      "onboard_time": 1697543734,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 238894,
@@ -2209,14 +2225,6 @@
       "onboard_time": 1697505756,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 202525,
-      "num": 202525,
-      "word": "被狗咬伤女童尚未脱离危险",
-      "onboard_time": 1697555682,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 201598,
@@ -2793,14 +2801,6 @@
       "onboard_time": 1697527534,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 146602,
-      "num": 146602,
-      "word": "原来发型这么重要",
-      "onboard_time": 1697555864,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 144244,
