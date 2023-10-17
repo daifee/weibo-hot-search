@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 18:19:03
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 18:36:22
 </p>
 </blockquote>
 <p>
@@ -1707,6 +1707,12 @@ Z先生到底是谁（热度：1751124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8F%88%E4%B8%80%E6%81%B6%E7%8A%AC%E8%BF%BD%E5%92%AC2%E5%90%8D%E5%B9%BC%E7%AB%A5%23" target="weibo">
+四川又一恶犬追咬2名幼童（热度：1748277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%9C%A8%E8%80%81%E6%9D%BF%E5%A9%9A%E7%A4%BC%E4%B8%8A%E5%BC%80%E6%B4%BE%E5%AF%B9%23" target="weibo">
 王鹤棣在老板婚礼上开派对（热度：1747065）
 </a>
@@ -2495,12 +2501,6 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%8A%8A%E5%90%B4%E6%98%95%E6%8B%89%E9%BB%91%E4%BA%86%23" target="weibo">
 杨迪把吴昕拉黑了（热度：1407269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8F%88%E4%B8%80%E6%81%B6%E7%8A%AC%E8%BF%BD%E5%92%AC2%E5%90%8D%E5%B9%BC%E7%AB%A5%23" target="weibo">
-四川又一恶犬追咬2名幼童（热度：1407023）
 </a>
 </li>
 
@@ -3917,6 +3917,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E8%84%87%E5%92%B2%E8%89%AF%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
 宫脇咲良发文道歉（热度：1009413）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
+被烈犬咬伤女童立即手术或面临摘肾（热度：1007529）
 </a>
 </li>
 
@@ -5375,12 +5381,6 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8Bp%E7%9A%84%E5%AD%99%E9%A2%96%E8%8E%8E%E9%95%BF%E5%8F%91%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
 网友p的孙颖莎长发的样子（热度：796735）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
-被烈犬咬伤女童立即手术或面临摘肾（热度：796046）
 </a>
 </li>
 

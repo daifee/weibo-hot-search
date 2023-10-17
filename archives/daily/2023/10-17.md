@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/17 00:23:37 ~ 2023/10/17 18:19:03
+本榜单时间：2023/10/17 00:23:37 ~ 2023/10/17 18:36:22
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8F%88%E4%B8%80%E6%81%B6%E7%8A%AC%E8%BF%BD%E5%92%AC2%E5%90%8D%E5%B9%BC%E7%AB%A5%23" target="weibo">
+四川又一恶犬追咬2名幼童（热度：1748277）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%94%9F%E4%BA%A7%E6%88%90%E6%9C%AC523%E7%BE%8E%E5%85%83%23" target="weibo">
 iPhone15Pro被曝生产成本523美元（热度：1697579）
 </a>
@@ -137,12 +143,6 @@ iPhone15Pro被曝生产成本523美元（热度：1697579）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%853%E4%BA%BF%E4%BA%BA%E9%81%AD%E5%8F%97%E6%85%A2%E6%80%A7%E7%96%BC%E7%97%9B%23" target="weibo">
 我国超3亿人遭受慢性疼痛（热度：1408722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8F%88%E4%B8%80%E6%81%B6%E7%8A%AC%E8%BF%BD%E5%92%AC2%E5%90%8D%E5%B9%BC%E7%AB%A5%23" target="weibo">
-四川又一恶犬追咬2名幼童（热度：1407023）
 </a>
 </li>
 
@@ -237,6 +237,12 @@ iPhone15Pro被曝生产成本523美元（热度：1697579）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
+被烈犬咬伤女童立即手术或面临摘肾（热度：1007529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%98%A0%E8%93%89%20%E5%81%B6%E9%81%87%E8%8B%B9%E6%9E%9CCEO%E5%BA%93%E5%85%8B%23" target="weibo">
 江映蓉 偶遇苹果CEO库克（热度：990657）
 </a>
@@ -291,6 +297,12 @@ Xiaomi HyperOS（热度：858223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%23" target="weibo">
+拉布拉多（热度：830801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%92%95%E5%92%AC%E4%B8%A4%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%B6%89%E4%BA%8B%E7%8B%97%E4%B8%BB%E4%BA%BA%E5%B0%9A%E6%9C%AA%E7%8E%B0%E8%BA%AB%23" target="weibo">
 撕咬两岁女童涉事狗主人尚未现身（热度：828868）
 </a>
@@ -311,12 +323,6 @@ Xiaomi HyperOS（热度：858223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E4%B8%BA%E5%A5%B3%E7%AB%A5%E6%8C%A1%E7%8B%97%23" target="weibo">
 物业回应保洁阿姨为女童挡狗（热度：797881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
-被烈犬咬伤女童立即手术或面临摘肾（热度：796046）
 </a>
 </li>
 
@@ -447,14 +453,14 @@ Jasper普通话主持校庆（热度：610731）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E6%9F%90%E5%8D%B3%E5%B0%86%E5%86%8D%E5%A9%9A%20%E4%BB%B2%E6%9F%90%E8%BF%98%E6%98%AF%E5%8D%95%E8%BA%AB%23" target="weibo">
-仲某即将再婚 仲某还是单身（热度：606935）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E9%A3%9E%E6%9C%BA%E9%A4%90%E5%8F%914%E4%B8%AA%E9%A6%92%E5%A4%B41%E7%89%87%E7%99%BD%E8%8F%9C%23" target="weibo">
+南航飞机餐发4个馒头1片白菜（热度：607869）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E9%A3%9E%E6%9C%BA%E9%A4%90%E5%8F%914%E4%B8%AA%E9%A6%92%E5%A4%B41%E7%89%87%E7%99%BD%E8%8F%9C%23" target="weibo">
-南航飞机餐发4个馒头1片白菜（热度：588786）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E6%9F%90%E5%8D%B3%E5%B0%86%E5%86%8D%E5%A9%9A%20%E4%BB%B2%E6%9F%90%E8%BF%98%E6%98%AF%E5%8D%95%E8%BA%AB%23" target="weibo">
+仲某即将再婚 仲某还是单身（热度：606935）
 </a>
 </li>
 
@@ -585,8 +591,8 @@ SM否认朴灿烈吴世勋签约新公司（热度：563699）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%23" target="weibo">
-拉布拉多（热度：460593）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%BA%BA%E5%A6%88%E5%A6%88%E6%80%80%E9%87%8C%E8%A2%AB%E7%AA%81%E7%84%B6%E7%AA%9C%E5%87%BA%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
+女童躺妈妈怀里被突然窜出大狗咬伤（热度：459050）
 </a>
 </li>
 
@@ -645,6 +651,12 @@ MiuMiu钻石内裤（热度：446940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E7%9A%AE%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%83%E4%B8%87%E5%88%AB%E7%94%A8%E8%82%9A%E5%AD%90%E6%94%B6%E4%BC%9E%23" target="weibo">
+脆皮大学生千万别用肚子收伞（热度：422899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E8%AE%A4%E5%87%BA%E6%9D%A8%E9%98%BF%E5%A7%A8%23" target="weibo">
 花儿认出杨阿姨（热度：418487）
 </a>
@@ -681,6 +693,12 @@ MIUI（热度：387022）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%94%B7%E5%AD%A9%E8%84%B1%E5%8F%A3%E8%80%8C%E5%87%BA%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%23" target="weibo">
+新疆男孩脱口而出自己是中华民族（热度：380347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E6%9C%89%E6%9A%97%E9%A6%99%E6%9D%A5%20%E8%89%BE%E7%B1%B3%23" target="weibo">
 为有暗香来 艾米（热度：376418）
 </a>
@@ -689,12 +707,6 @@ MIUI（热度：387022）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%9D%E4%BB%A3%E5%8F%8C%E9%AA%84%E5%A4%AE%E5%85%AB%E4%B8%8A%E5%8D%88%E6%A1%A3%E7%83%AD%E6%92%AD%23" target="weibo">
 绝代双骄央八上午档热播（热度：375707）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E7%94%B7%E5%AD%A9%E8%84%B1%E5%8F%A3%E8%80%8C%E5%87%BA%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%AD%E5%8D%8E%E6%B0%91%E6%97%8F%23" target="weibo">
-新疆男孩脱口而出自己是中华民族（热度：372010）
 </a>
 </li>
 
@@ -719,12 +731,6 @@ MIUI（热度：387022）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E4%B8%80%E5%AE%B6%E5%92%8C%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%BD%B1%23" target="weibo">
 吴尊一家和周杰伦合影（热度：355578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E8%BA%BA%E5%A6%88%E5%A6%88%E6%80%80%E9%87%8C%E8%A2%AB%E7%AA%81%E7%84%B6%E7%AA%9C%E5%87%BA%E5%A4%A7%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
-女童躺妈妈怀里被突然窜出大狗咬伤（热度：350198）
 </a>
 </li>
 
@@ -825,12 +831,6 @@ MIUI（热度：387022）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%86%E7%9A%AE%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%8D%83%E4%B8%87%E5%88%AB%E7%94%A8%E8%82%9A%E5%AD%90%E6%94%B6%E4%BC%9E%23" target="weibo">
-脆皮大学生千万别用肚子收伞（热度：313996）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E5%8F%AB%E9%95%BF%E5%85%AC%E4%B8%BB%E7%96%AF%E5%A5%B3%E4%BA%BA%23" target="weibo">
 李小冉叫长公主疯女人（热度：312117）
 </a>
@@ -887,6 +887,12 @@ MIUI（热度：387022）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AE%B4%E8%87%A3%E7%AC%AC%E4%B8%80%E4%BA%BA%E7%A7%B0%E8%A7%86%E8%A7%92%23" target="weibo">
 孟宴臣第一人称视角（热度：290165）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%23" target="weibo">
+中国邮政 魔道祖师（热度：287742）
 </a>
 </li>
 
@@ -1371,6 +1377,12 @@ iPhone15ProMax大陆零部件仅占2%（热度：283552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9A%84%E5%8F%AF%E7%88%B1%E8%80%B3%E6%9C%B5%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
+大熊猫的可爱耳朵藏不住了（热度：190658）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E5%B7%A5%E6%8D%A1%E7%94%B5%E8%84%91%E7%AD%89%E5%A4%B1%E4%B8%BB90%E5%88%86%E9%92%9F%E8%8E%B7%E5%A5%965000%23" target="weibo">
 民工捡电脑等失主90分钟获奖5000（热度：189639）
 </a>
@@ -1401,14 +1413,14 @@ iPhone15ProMax大陆零部件仅占2%（热度：283552）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23Chovy%E7%A0%B4%E9%9F%A9%E6%9C%8D%E7%BA%AA%E5%BD%95%23" target="weibo">
-Chovy破韩服纪录（热度：188294）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.1%23" target="weibo">
+原神4.1（热度：188386）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E4.1%23" target="weibo">
-原神4.1（热度：186889）
+<a href="https://s.weibo.com/weibo?q=%23Chovy%E7%A0%B4%E9%9F%A9%E6%9C%8D%E7%BA%AA%E5%BD%95%23" target="weibo">
+Chovy破韩服纪录（热度：188294）
 </a>
 </li>
 
@@ -1481,6 +1493,12 @@ Chovy破韩服纪录（热度：188294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%A6%E8%8D%92%E6%81%90%E6%83%A7%E7%97%87%23" target="weibo">
 书荒恐惧症（热度：170226）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%BD%A6%E5%A7%9D%E5%AF%B9%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9A%84%E8%AF%84%E4%BB%B7%23" target="weibo">
+吴彦姝对侯明昊的评价（热度：169940）
 </a>
 </li>
 
@@ -1571,12 +1589,6 @@ Chovy破韩服纪录（热度：188294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E4%B8%8B%E6%B0%B4%E6%95%91%E4%BA%BA%E5%90%8E%E9%A9%AC%E4%B8%8A%E5%8E%BB%E9%80%81%E9%A4%90%23" target="weibo">
 外卖小哥下水救人后马上去送餐（热度：151552）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%86%8A%E7%8C%AB%E7%9A%84%E5%8F%AF%E7%88%B1%E8%80%B3%E6%9C%B5%E8%97%8F%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
-大熊猫的可爱耳朵藏不住了（热度：151169）
 </a>
 </li>
 

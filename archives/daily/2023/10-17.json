@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697537943827,
+  "endTime": 1697538982353,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1748277,
+      "num": 1407023,
+      "word": "四川又一恶犬追咬2名幼童",
+      "onboard_time": 1697534976,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1697579,
       "num": 1697579,
       "word": "iPhone15Pro被曝生产成本523美元",
@@ -169,14 +177,6 @@
       "onboard_time": 1697497824,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1407023,
-      "num": 1407023,
-      "word": "四川又一恶犬追咬2名幼童",
-      "onboard_time": 1697534976,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1347676,
@@ -299,6 +299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1007529,
+      "num": 721315,
+      "word": "被烈犬咬伤女童立即手术或面临摘肾",
+      "onboard_time": 1697535637,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 990657,
       "num": 740044,
       "word": "江映蓉 偶遇苹果CEO库克",
@@ -371,6 +379,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 830801,
+      "num": 401267,
+      "word": "拉布拉多",
+      "onboard_time": 1697456313,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 828868,
       "num": 422365,
       "word": "撕咬两岁女童涉事狗主人尚未现身",
@@ -400,14 +416,6 @@
       "word": "物业回应保洁阿姨为女童挡狗",
       "onboard_time": 1697530174,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 796046,
-      "num": 721315,
-      "word": "被烈犬咬伤女童立即手术或面临摘肾",
-      "onboard_time": 1697535637,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -579,20 +587,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 607869,
+      "num": 607869,
+      "word": "南航飞机餐发4个馒头1片白菜",
+      "onboard_time": 1697533534,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 606935,
       "num": 606935,
       "word": "仲某即将再婚 仲某还是单身",
       "onboard_time": 1697530657,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 588786,
-      "num": 588786,
-      "word": "南航飞机餐发4个馒头1片白菜",
-      "onboard_time": 1697533534,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 582278,
@@ -763,11 +771,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 460593,
-      "num": 401267,
-      "word": "拉布拉多",
-      "onboard_time": 1697456313,
-      "rank": 15,
+      "raw_hot": 459050,
+      "num": 350198,
+      "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
+      "onboard_time": 1697536777,
+      "rank": 25,
       "category": "社会新闻"
     },
     {
@@ -843,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 422899,
+      "num": 313996,
+      "word": "脆皮大学生千万别用肚子收伞",
+      "onboard_time": 1697537258,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 418487,
       "num": 418487,
       "word": "花儿认出杨阿姨",
@@ -891,6 +907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 380347,
+      "num": 4120860,
+      "word": "新疆男孩脱口而出自己是中华民族",
+      "onboard_time": 1697530297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376418,
       "num": 376418,
       "word": "为有暗香来 艾米",
@@ -905,14 +929,6 @@
       "onboard_time": 1697518419,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 372010,
-      "num": 4120860,
-      "word": "新疆男孩脱口而出自己是中华民族",
-      "onboard_time": 1697530297,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366942,
@@ -945,14 +961,6 @@
       "onboard_time": 1697501495,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 350198,
-      "num": 350198,
-      "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
-      "onboard_time": 1697536777,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 349274,
@@ -1083,14 +1091,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 313996,
-      "num": 313996,
-      "word": "脆皮大学生千万别用肚子收伞",
-      "onboard_time": 1697537258,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 312117,
       "num": 298861,
       "word": "李小冉叫长公主疯女人",
@@ -1169,6 +1169,14 @@
       "onboard_time": 1697529574,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 287742,
+      "num": 287742,
+      "word": "中国邮政 魔道祖师",
+      "onboard_time": 1697538519,
+      "rank": 23,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 284730,
@@ -1811,6 +1819,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 190658,
+      "num": 1523476,
+      "word": "大熊猫的可爱耳朵藏不住了",
+      "onboard_time": 1697536236,
+      "rank": 3,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 189639,
       "num": 250509,
       "word": "民工捡电脑等失主90分钟获奖5000",
@@ -1851,20 +1867,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 188386,
+      "num": 188386,
+      "word": "原神4.1",
+      "onboard_time": 1697537258,
+      "rank": 41,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 188294,
       "num": 188294,
       "word": "Chovy破韩服纪录",
       "onboard_time": 1697520214,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 186889,
-      "num": 186889,
-      "word": "原神4.1",
-      "onboard_time": 1697537258,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 185987,
@@ -1961,6 +1977,14 @@
       "onboard_time": 1697525973,
       "rank": 37,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 169940,
+      "num": 169940,
+      "word": "吴彦姝对侯明昊的评价",
+      "onboard_time": 1697538759,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 169826,
@@ -2081,14 +2105,6 @@
       "onboard_time": 1697526755,
       "rank": 45,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 151169,
-      "num": 1523476,
-      "word": "大熊猫的可爱耳朵藏不住了",
-      "onboard_time": 1697536236,
-      "rank": 3,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 149852,
