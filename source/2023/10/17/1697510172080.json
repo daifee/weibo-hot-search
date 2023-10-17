@@ -1,0 +1,410 @@
+{
+  "runTime": 1697510172080,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2236065,
+        "num": 2236065,
+        "word": "普京总统抵达北京",
+        "onboard_time": 1697506354,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1759300,
+        "num": 1759300,
+        "word": "阿奇霉素",
+        "onboard_time": 1697502337,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 56719,
+        "num": 1527649,
+        "word": "沿着一带一路去旅行",
+        "onboard_time": 1697464056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299266,
+        "num": 1299266,
+        "word": "高校回应网红教师被指私生活混乱",
+        "onboard_time": 1697505874,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1233747,
+        "num": 1233747,
+        "word": "iPhone15Pro被曝生产成本523美元",
+        "onboard_time": 1697507794,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 2163335,
+        "num": 1025032,
+        "word": "狗和主人必须尽快绳之以法",
+        "onboard_time": 1697503059,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 721394,
+        "num": 721394,
+        "word": "被狗咬伤女童已转华西医院治疗",
+        "onboard_time": 1697508215,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 693218,
+        "num": 693218,
+        "word": "第一次看男女主整部剧都在种田的",
+        "onboard_time": 1697503476,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 455510,
+        "num": 455510,
+        "word": "华为中国销量已超越苹果",
+        "onboard_time": 1697509232,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 433068,
+        "num": 433068,
+        "word": "5男孩吃烧烤老板担忧催找妈妈买单",
+        "onboard_time": 1697507555,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 869240,
+        "num": 424771,
+        "word": "知情人称哈马斯被消灭前以色列不考虑停火",
+        "onboard_time": 1697504738,
+        "rank": 10,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 787071,
+        "num": 423401,
+        "word": "拉布拉多未咬人已被主人领回",
+        "onboard_time": 1697469217,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 415457,
+        "num": 415457,
+        "word": "朱一龙回应未获金鸡奖提名",
+        "onboard_time": 1697506772,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406683,
+        "num": 406683,
+        "word": "老板被情人诈骗2000万致公司破产",
+        "onboard_time": 1697504975,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358500,
+        "num": 358500,
+        "word": "我国超3亿人遭受慢性疼痛",
+        "onboard_time": 1697497824,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 354801,
+        "num": 354801,
+        "word": "为什么粉色要贵这么多",
+        "onboard_time": 1697465736,
+        "rank": 15,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 325684,
+        "num": 325684,
+        "word": "赵本山给徒弟补近亿税额",
+        "onboard_time": 1697463394,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319367,
+        "num": 319367,
+        "word": "宾大将追授林徽因建筑学学士",
+        "onboard_time": 1697509054,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315255,
+        "num": 315255,
+        "word": "虞书欣重新跳了yesok",
+        "onboard_time": 1697501915,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264694,
+        "num": 264694,
+        "word": "林品",
+        "onboard_time": 1697508813,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257390,
+        "num": 257390,
+        "word": "最近的周冬雨",
+        "onboard_time": 1697502816,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 256011,
+        "num": 256011,
+        "word": "小时候撒谎为出去玩 长大后撒谎为待在家",
+        "onboard_time": 1697507733,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 249074,
+        "num": 249074,
+        "word": "支原体肺炎",
+        "onboard_time": 1697505693,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 241031,
+        "num": 241031,
+        "word": "成都咬伤女童大黑狗有主人",
+        "onboard_time": 1697460934,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239480,
+        "num": 239480,
+        "word": "联合国安理会未通过巴以相关决议",
+        "onboard_time": 1697506715,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 238556,
+        "num": 238556,
+        "word": "坠楼死亡的剖析",
+        "onboard_time": 1697508335,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237482,
+        "num": 237482,
+        "word": "哥哥冲过来一把扯开捂住妹妹的被子",
+        "onboard_time": 1697499627,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 215446,
+        "num": 215446,
+        "word": "这就是e人喜欢i人的原因",
+        "onboard_time": 1697504434,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207914,
+        "num": 207914,
+        "word": "白敬亭说自己录节目第二季才打开",
+        "onboard_time": 1697506054,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204343,
+        "num": 204343,
+        "word": "美的安装师傅勇于救人获嘉奖",
+        "onboard_time": 1697509471,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205524,
+        "num": 204151,
+        "word": "范丞丞问孟子义和郭麒麟是不是真的",
+        "onboard_time": 1697503059,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203946,
+        "num": 203946,
+        "word": "55岁爷爷推6岁脑瘫孙女跑完5个马拉松",
+        "onboard_time": 1697509414,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198078,
+        "num": 198078,
+        "word": "赵晴演技",
+        "onboard_time": 1697504316,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195468,
+        "num": 195468,
+        "word": "以军称在空袭行动中打死一哈马斯高级领导人",
+        "onboard_time": 1697500898,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 193116,
+        "num": 193116,
+        "word": "猫猫被恶魔附身后有多坏",
+        "onboard_time": 1697504254,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 188792,
+        "num": 188792,
+        "word": "第三届一带一路国际合作高峰论坛",
+        "onboard_time": 1697509893,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 582568,
+        "num": 186744,
+        "word": "王不染看见赵露思的表情",
+        "onboard_time": 1697502215,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184230,
+        "num": 184230,
+        "word": "刘诗诗谢娜和TODS总监合影",
+        "onboard_time": 1697506054,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180789,
+        "num": 180789,
+        "word": "成都禁养22种烈性犬不包括罗威纳",
+        "onboard_time": 1697497644,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174031,
+        "num": 174031,
+        "word": "iPhone15中国首发销量较前代下降4.5%",
+        "onboard_time": 1697502937,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173928,
+        "num": 173928,
+        "word": "为有暗香来 男主是谁",
+        "onboard_time": 1697469637,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171622,
+        "num": 171622,
+        "word": "2023国际乒联第42周排名",
+        "onboard_time": 1697508872,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172072,
+        "num": 169902,
+        "word": "IVE李瑞在翰林高中被骚扰",
+        "onboard_time": 1697510073,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158458,
+        "num": 158458,
+        "word": "太空里还有3个中国人",
+        "onboard_time": 1697505095,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157400,
+        "num": 157400,
+        "word": "吴尊一家和周杰伦合影",
+        "onboard_time": 1697501495,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154334,
+        "num": 154334,
+        "word": "警方已发现咬人黑狗行踪",
+        "onboard_time": 1697465496,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151888,
+        "num": 151888,
+        "word": "以色列",
+        "onboard_time": 1697504137,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 150172,
+        "num": 150172,
+        "word": "鼻子里面为什么会长这种痘",
+        "onboard_time": 1697499148,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147474,
+        "num": 147474,
+        "word": "英雄联盟新乐队官宣",
+        "onboard_time": 1697505756,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139497,
+        "num": 139497,
+        "word": "女子毕设丢失民警打800个电话找回",
+        "onboard_time": 1697506595,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}

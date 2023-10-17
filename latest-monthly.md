@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 10:24:19
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 10:36:12
 </p>
 </blockquote>
 <p>
@@ -2751,6 +2751,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E7%A7%81%E7%94%9F%E6%B4%BB%E6%B7%B7%E4%B9%B1%23" target="weibo">
+高校回应网红教师被指私生活混乱（热度：1299266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%95%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
 女单半决赛（热度：1297367）
 </a>
@@ -2909,6 +2915,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AF%AE%E4%B8%80%E5%88%86%E4%B9%8B%E5%B7%AE%E8%BE%93%E4%BA%86%23" target="weibo">
 男篮一分之差输了（热度：1234452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%94%9F%E4%BA%A7%E6%88%90%E6%9C%AC523%E7%BE%8E%E5%85%83%23" target="weibo">
+iPhone15Pro被曝生产成本523美元（热度：1233747）
 </a>
 </li>
 
@@ -3339,12 +3351,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E5%9B%9E%E5%BA%94%E7%BD%91%E7%BA%A2%E6%95%99%E5%B8%88%E8%A2%AB%E6%8C%87%E7%A7%81%E7%94%9F%E6%B4%BB%E6%B7%B7%E4%B9%B1%23" target="weibo">
-高校回应网红教师被指私生活混乱（热度：1102329）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%A9%BF%E6%8A%B9%E8%83%B8%E5%8E%BB%E5%90%83%E7%81%AB%E9%94%85%23" target="weibo">
 千万不要穿抹胸去吃火锅（热度：1101684）
 </a>
@@ -3593,12 +3599,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E8%BD%B0%E7%82%B8%E5%90%8E%E7%9A%84%E5%8A%A0%E6%B2%99%E5%B0%B8%E6%A8%AA%E9%81%8D%E9%87%8E%23" target="weibo">
 以色列轰炸后的加沙尸横遍野（热度：1032144）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%94%9F%E4%BA%A7%E6%88%90%E6%9C%AC523%E7%BE%8E%E5%85%83%23" target="weibo">
-iPhone15Pro被曝生产成本523美元（热度：1032140）
 </a>
 </li>
 
@@ -5829,6 +5829,12 @@ VOGUE评选巴黎时装周最时尚明星（热度：731565）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E8%BD%AC%E5%8D%8E%E8%A5%BF%E5%8C%BB%E9%99%A2%E6%B2%BB%E7%96%97%23" target="weibo">
+被狗咬伤女童已转华西医院治疗（热度：721394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D%23" target="weibo">
 孙女得知聊天框是置顶时爷爷已病逝（热度：720340）
 </a>
@@ -6005,12 +6011,6 @@ IVE先行曲OffTheRecord（热度：713477）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%86%B2%E5%87%BB%E4%BA%9A%E8%BF%90%E7%AC%AC%E4%B8%89%E9%87%91%23" target="weibo">
 樊振东冲击亚运第三金（热度：707900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%AF%B9%E6%8A%A4%E5%A3%AB%E7%88%86%E7%B2%97%E5%8F%A3%E8%A2%AB%E8%B0%83%E6%9F%A5%23" target="weibo">
-在新加坡对护士爆粗口被调查（热度：707323）
 </a>
 </li>
 
