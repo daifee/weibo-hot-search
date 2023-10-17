@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697528053353,
+  "endTime": 1697530952023,
   "band_list": [
     {
       "raw_hot": 3303661,
@@ -17,6 +17,22 @@
       "onboard_time": 1697503059,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2501711,
+      "num": 680431,
+      "word": "医生建议被恶犬撕咬女童保守治疗",
+      "onboard_time": 1697526273,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2439857,
+      "num": 603417,
+      "word": "屁股针为什么消失了",
+      "onboard_time": 1697528853,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2387552,
@@ -43,6 +59,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 2316378,
+      "num": 603406,
+      "word": "宋仲基海外试镜全部被淘汰",
+      "onboard_time": 1697528313,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2136613,
       "num": 1238171,
       "word": "被狗咬伤女童母亲称已找到涉事黑狗",
@@ -57,14 +81,6 @@
       "onboard_time": 1697512895,
       "rank": 15,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 1911398,
-      "num": 680431,
-      "word": "医生建议被恶犬撕咬女童保守治疗",
-      "onboard_time": 1697526273,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1697579,
@@ -115,6 +131,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1335850,
+      "num": 1335850,
+      "word": "李沁暂别林婉儿",
+      "onboard_time": 1697528435,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1334698,
       "num": 643321,
       "word": "知情人称哈马斯被消灭前以色列不考虑停火",
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 1212285,
-      "num": 444030,
+      "num": 523681,
       "word": "罗翔谈狗咬伤他人狗主是否犯罪",
       "onboard_time": 1697523213,
       "rank": 16,
@@ -307,8 +331,16 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 784796,
+      "num": 539761,
+      "word": "庆余年2有徐志胜",
+      "onboard_time": 1697530297,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 783602,
-      "num": 261349,
+      "num": 342562,
       "word": "爸妈被我三千块的工资震惊到了",
       "onboard_time": 1697526093,
       "rank": 20,
@@ -483,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577753,
+      "num": 577753,
+      "word": "乞丐情头",
+      "onboard_time": 1697528075,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 567280,
       "num": 383498,
       "word": "魏大勋已经不敢抓脚踝了",
@@ -499,12 +539,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542071,
+      "num": 539651,
+      "word": "长相思角色号醒了",
+      "onboard_time": 1697529336,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 539580,
+      "num": 539580,
+      "word": "金晨左手喂狗右手喂自己",
+      "onboard_time": 1697529636,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 527554,
       "num": 587454,
       "word": "范丞丞问孟子义和郭麒麟是不是真的",
       "onboard_time": 1697503059,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 515372,
+      "num": 515372,
+      "word": "仲某即将再婚 仲某还是单身",
+      "onboard_time": 1697530657,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 513196,
@@ -536,6 +600,14 @@
       "word": "于正发文维护赵晴",
       "onboard_time": 1697513433,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 482714,
+      "num": 257582,
+      "word": "SM否认朴灿烈吴世勋签约新公司",
+      "onboard_time": 1697530416,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -716,7 +788,7 @@
     },
     {
       "raw_hot": 342947,
-      "num": 260524,
+      "num": 272137,
       "word": "庆余年王启年女儿",
       "onboard_time": 1697527893,
       "rank": 22,
@@ -747,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337293,
+      "num": 252447,
+      "word": "吸引全红婵只需要一个玩偶",
+      "onboard_time": 1697529816,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336011,
       "num": 336011,
       "word": "小米",
@@ -761,6 +841,14 @@
       "onboard_time": 1697469517,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 329309,
+      "num": 343680,
+      "word": "司机路边帮抱婴儿下一秒车被撞飞",
+      "onboard_time": 1697529455,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 320400,
@@ -859,6 +947,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290165,
+      "num": 290165,
+      "word": "孟宴臣第一人称视角",
+      "onboard_time": 1697529574,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 285380,
+      "num": 530592,
+      "word": "新疆男孩脱口而出自己是中华民族",
+      "onboard_time": 1697530297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 284730,
       "num": 284730,
       "word": "这就是e人喜欢i人的原因",
@@ -881,6 +985,14 @@
       "onboard_time": 1697514874,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 283552,
+      "num": 283552,
+      "word": "iPhone15ProMax大陆零部件仅占2%",
+      "onboard_time": 1697529875,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 283157,
@@ -913,6 +1025,22 @@
       "onboard_time": 1697466578,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 276039,
+      "num": 276039,
+      "word": "物业回应保洁阿姨为女童挡狗",
+      "onboard_time": 1697530174,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273334,
+      "num": 273334,
+      "word": "庆余年里真的有王楚然",
+      "onboard_time": 1697530599,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 271764,
@@ -971,6 +1099,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 262769,
+      "num": 274247,
+      "word": "浙江警察学院学生的家长拍拍拍拍拍",
+      "onboard_time": 1697519974,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 262718,
       "num": 262718,
       "word": "小时候撒谎为出去玩 长大后撒谎为待在家",
@@ -1027,6 +1163,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 252388,
+      "num": 252388,
+      "word": "这节目是懂讽刺的",
+      "onboard_time": 1697529816,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252309,
       "num": 252309,
       "word": "一带一路",
@@ -1041,6 +1185,14 @@
       "onboard_time": 1697463575,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 246921,
+      "num": 246921,
+      "word": "外国网友建议为双十一申遗",
+      "onboard_time": 1697527593,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246305,
@@ -1099,14 +1251,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 233313,
-      "num": 267386,
-      "word": "浙江警察学院学生的家长拍拍拍拍拍",
-      "onboard_time": 1697519974,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232216,
       "num": 232216,
       "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
@@ -1121,6 +1265,14 @@
       "onboard_time": 1697497824,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 230804,
+      "num": 230804,
+      "word": "于和伟 朋友问我谁先动口的",
+      "onboard_time": 1697528194,
+      "rank": 38,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 229907,
@@ -1176,6 +1328,14 @@
       "word": "越南版浪姐名单",
       "onboard_time": 1697520093,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 216884,
+      "num": 216884,
+      "word": "女选手回应控腹1小时",
+      "onboard_time": 1697529097,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -1249,6 +1409,14 @@
       "onboard_time": 1697521354,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 203994,
+      "num": 203994,
+      "word": "于适是一款很实用的艺人",
+      "onboard_time": 1697530055,
+      "rank": 40,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 203946,
@@ -1467,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179403,
+      "num": 179403,
+      "word": "李玟本月将在武汉安葬",
+      "onboard_time": 1697530777,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175978,
       "num": 175978,
       "word": "韩国人晚上真的不睡觉吗",
@@ -1536,6 +1712,14 @@
       "word": "该不该对伤人大狗的主人顶格处罚",
       "onboard_time": 1697526153,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169045,
+      "num": 169045,
+      "word": "成都咬伤女童的罗威纳犬被捕获",
+      "onboard_time": 1697530836,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1731,14 +1915,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 113238,
-      "num": 163893,
-      "word": "外国网友建议为双十一申遗",
-      "onboard_time": 1697527593,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 111678,
       "num": 111678,
       "word": "两大型犬撕咬2岁半女童致严重受伤",
@@ -1921,6 +2097,14 @@
       "onboard_time": 1697475502,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49889,
+      "num": 604649,
+      "word": "丝路行旅图",
+      "onboard_time": 1697529935,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 39262,

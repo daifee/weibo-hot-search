@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697528053353,
+  "endTime": 1697530952023,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2501711,
+      "num": 680431,
+      "word": "医生建议被恶犬撕咬女童保守治疗",
+      "onboard_time": 1697526273,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2485511,
       "num": 2485511,
       "word": "乡村爱情13刘能饰演者赵明远去世",
       "onboard_time": 1697357912,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2439857,
+      "num": 603417,
+      "word": "屁股针为什么消失了",
+      "onboard_time": 1697528853,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2387552,
@@ -113,6 +129,14 @@
       "onboard_time": 1697502337,
       "rank": 0,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2316378,
+      "num": 603406,
+      "word": "宋仲基海外试镜全部被淘汰",
+      "onboard_time": 1697528313,
+      "rank": 4,
+      "category": "艺人"
     },
     {
       "raw_hot": 2290994,
@@ -241,14 +265,6 @@
       "onboard_time": 1697427334,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 1911398,
-      "num": 680431,
-      "word": "医生建议被恶犬撕咬女童保守治疗",
-      "onboard_time": 1697526273,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1910803,
@@ -483,6 +499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1335850,
+      "num": 1335850,
+      "word": "李沁暂别林婉儿",
+      "onboard_time": 1697528435,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1334698,
       "num": 643321,
       "word": "知情人称哈马斯被消灭前以色列不考虑停火",
@@ -580,7 +604,7 @@
     },
     {
       "raw_hot": 1212285,
-      "num": 444030,
+      "num": 523681,
       "word": "罗翔谈狗咬伤他人狗主是否犯罪",
       "onboard_time": 1697523213,
       "rank": 16,
@@ -1059,8 +1083,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 784796,
+      "num": 539761,
+      "word": "庆余年2有徐志胜",
+      "onboard_time": 1697530297,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 783602,
-      "num": 261349,
+      "num": 342562,
       "word": "爸妈被我三千块的工资震惊到了",
       "onboard_time": 1697526093,
       "rank": 20,
@@ -1555,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 577753,
+      "num": 577753,
+      "word": "乞丐情头",
+      "onboard_time": 1697528075,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 575910,
       "num": 327804,
       "word": "赵丽颖闪钻礼服",
@@ -1723,6 +1763,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 542071,
+      "num": 539651,
+      "word": "长相思角色号醒了",
+      "onboard_time": 1697529336,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541996,
       "num": 541996,
       "word": "加沙空袭幸存婴儿在记者安抚下笑了",
@@ -1737,6 +1785,14 @@
       "onboard_time": 1697347834,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 539580,
+      "num": 539580,
+      "word": "金晨左手喂狗右手喂自己",
+      "onboard_time": 1697529636,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 533070,
@@ -1833,6 +1889,14 @@
       "onboard_time": 1697468140,
       "rank": 7,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 515372,
+      "num": 515372,
+      "word": "仲某即将再婚 仲某还是单身",
+      "onboard_time": 1697530657,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 514467,
@@ -2017,6 +2081,14 @@
       "onboard_time": 1697352754,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 482714,
+      "num": 257582,
+      "word": "SM否认朴灿烈吴世勋签约新公司",
+      "onboard_time": 1697530416,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 480276,
@@ -2956,7 +3028,7 @@
     },
     {
       "raw_hot": 342947,
-      "num": 260524,
+      "num": 272137,
       "word": "庆余年王启年女儿",
       "onboard_time": 1697527893,
       "rank": 22,
@@ -3027,6 +3099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 337293,
+      "num": 252447,
+      "word": "吸引全红婵只需要一个玩偶",
+      "onboard_time": 1697529816,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336011,
       "num": 336011,
       "word": "小米",
@@ -3081,6 +3161,14 @@
       "onboard_time": 1697453375,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329309,
+      "num": 343680,
+      "word": "司机路边帮抱婴儿下一秒车被撞飞",
+      "onboard_time": 1697529455,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 328772,
@@ -3427,6 +3515,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290165,
+      "num": 290165,
+      "word": "孟宴臣第一人称视角",
+      "onboard_time": 1697529574,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289944,
       "num": 265781,
       "word": "披荆斩棘后张栋梁的变化",
@@ -3483,6 +3579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 285380,
+      "num": 530592,
+      "word": "新疆男孩脱口而出自己是中华民族",
+      "onboard_time": 1697530297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285008,
       "num": 285978,
       "word": "乃万走秀",
@@ -3537,6 +3641,14 @@
       "onboard_time": 1697514874,
       "rank": 30,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 283552,
+      "num": 283552,
+      "word": "iPhone15ProMax大陆零部件仅占2%",
+      "onboard_time": 1697529875,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 283157,
@@ -3603,6 +3715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 276039,
+      "num": 276039,
+      "word": "物业回应保洁阿姨为女童挡狗",
+      "onboard_time": 1697530174,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275976,
       "num": 275976,
       "word": "男子一路尾随女孩店铺老板挺身呵退",
@@ -3633,6 +3753,14 @@
       "onboard_time": 1697342073,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 273334,
+      "num": 273334,
+      "word": "庆余年里真的有王楚然",
+      "onboard_time": 1697530599,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 273132,
@@ -3801,6 +3929,14 @@
       "onboard_time": 1697510853,
       "rank": 24,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 262769,
+      "num": 274247,
+      "word": "浙江警察学院学生的家长拍拍拍拍拍",
+      "onboard_time": 1697519974,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 262732,
@@ -3995,6 +4131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 252388,
+      "num": 252388,
+      "word": "这节目是懂讽刺的",
+      "onboard_time": 1697529816,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 252309,
       "num": 252309,
       "word": "一带一路",
@@ -4081,6 +4225,14 @@
       "onboard_time": 1697373995,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246921,
+      "num": 246921,
+      "word": "外国网友建议为双十一申遗",
+      "onboard_time": 1697527593,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246657,
@@ -4275,14 +4427,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 233313,
-      "num": 267386,
-      "word": "浙江警察学院学生的家长拍拍拍拍拍",
-      "onboard_time": 1697519974,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233233,
       "num": 233233,
       "word": "卢昱晓的脸遇上胶片",
@@ -4321,6 +4465,14 @@
       "onboard_time": 1697458294,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 230804,
+      "num": 230804,
+      "word": "于和伟 朋友问我谁先动口的",
+      "onboard_time": 1697528194,
+      "rank": 38,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 230570,
@@ -4513,6 +4665,14 @@
       "onboard_time": 1697425354,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216884,
+      "num": 216884,
+      "word": "女选手回应控腹1小时",
+      "onboard_time": 1697529097,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 214837,
@@ -4785,6 +4945,14 @@
       "onboard_time": 1697430460,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203994,
+      "num": 203994,
+      "word": "于适是一款很实用的艺人",
+      "onboard_time": 1697530055,
+      "rank": 40,
+      "category": "幽默,艺人"
     },
     {
       "raw_hot": 203946,
@@ -5643,6 +5811,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 179403,
+      "num": 179403,
+      "word": "李玟本月将在武汉安葬",
+      "onboard_time": 1697530777,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179174,
       "num": 179174,
       "word": "TTG战胜AG",
@@ -5985,6 +6161,14 @@
       "onboard_time": 1697325622,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 169045,
+      "num": 169045,
+      "word": "成都咬伤女童的罗威纳犬被捕获",
+      "onboard_time": 1697530836,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168880,
@@ -6867,14 +7051,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 113238,
-      "num": 163893,
-      "word": "外国网友建议为双十一申遗",
-      "onboard_time": 1697527593,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112821,
       "num": 112821,
       "word": "陈楚生 广州",
@@ -7265,6 +7441,14 @@
       "onboard_time": 1697397734,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49889,
+      "num": 604649,
+      "word": "丝路行旅图",
+      "onboard_time": 1697529935,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 43831,
