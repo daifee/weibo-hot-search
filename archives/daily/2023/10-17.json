@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697538982353,
+  "endTime": 1697541286176,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -219,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1280587,
+      "num": 721315,
+      "word": "被烈犬咬伤女童立即手术或面临摘肾",
+      "onboard_time": 1697535637,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1212285,
       "num": 523681,
       "word": "罗翔谈狗咬伤他人狗主是否犯罪",
@@ -257,6 +265,14 @@
       "onboard_time": 1697521175,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1070723,
+      "num": 410420,
+      "word": "拉布拉多",
+      "onboard_time": 1697456313,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1040757,
@@ -299,14 +315,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1007529,
-      "num": 721315,
-      "word": "被烈犬咬伤女童立即手术或面临摘肾",
-      "onboard_time": 1697535637,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 990657,
       "num": 740044,
       "word": "江映蓉 偶遇苹果CEO库克",
@@ -329,6 +337,14 @@
       "onboard_time": 1697514094,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 913004,
+      "num": 343949,
+      "word": "咬伤女童罗威纳犬打过狂犬疫苗",
+      "onboard_time": 1697539539,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 894820,
@@ -355,6 +371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 854024,
+      "num": 854024,
+      "word": "中国邮政 魔道祖师",
+      "onboard_time": 1697538519,
+      "rank": 23,
+      "category": "社会新闻,动漫"
+    },
+    {
       "raw_hot": 851411,
       "num": 557899,
       "word": "赵本山给徒弟补近亿税额",
@@ -377,14 +401,6 @@
       "onboard_time": 1697509232,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 830801,
-      "num": 401267,
-      "word": "拉布拉多",
-      "onboard_time": 1697456313,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 828868,
@@ -529,6 +545,14 @@
       "onboard_time": 1697524415,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 669102,
+      "num": 669102,
+      "word": "A股大概率有超越5年一遇级别的牛市",
+      "onboard_time": 1697539177,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 663507,
@@ -707,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 505108,
+      "num": 350198,
+      "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
+      "onboard_time": 1697536777,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 493879,
       "num": 493879,
       "word": "朱一龙回应未获金鸡奖提名",
@@ -769,14 +801,6 @@
       "onboard_time": 1697512114,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 459050,
-      "num": 350198,
-      "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
-      "onboard_time": 1697536777,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 451609,
@@ -867,6 +891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 404902,
+      "num": 4120860,
+      "word": "新疆男孩脱口而出自己是中华民族",
+      "onboard_time": 1697530297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 403471,
       "num": 403471,
       "word": "李玟本月将在武汉安葬",
@@ -907,14 +939,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 380347,
-      "num": 4120860,
-      "word": "新疆男孩脱口而出自己是中华民族",
-      "onboard_time": 1697530297,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376418,
       "num": 376418,
       "word": "为有暗香来 艾米",
@@ -952,6 +976,14 @@
       "word": "成都禁养犬名单",
       "onboard_time": 1697469037,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361907,
+      "num": 277483,
+      "word": "罗威纳",
+      "onboard_time": 1697540739,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -1019,12 +1051,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337266,
+      "num": 283251,
+      "word": "情侣每天聊天词穷怎么办",
+      "onboard_time": 1697540077,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 336011,
       "num": 336011,
       "word": "小米",
       "onboard_time": 1697515717,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 335983,
+      "num": 335983,
+      "word": "碧桂园所持6368万股权被冻结",
+      "onboard_time": 1697539419,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 334122,
@@ -1171,14 +1219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 287742,
-      "num": 287742,
-      "word": "中国邮政 魔道祖师",
-      "onboard_time": 1697538519,
-      "rank": 23,
-      "category": "社会新闻,动漫"
-    },
-    {
       "raw_hot": 284730,
       "num": 284730,
       "word": "这就是e人喜欢i人的原因",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1697516799,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 276889,
+      "num": 276889,
+      "word": "金世佳为角色给真医生做助理",
+      "onboard_time": 1697539959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 276554,
@@ -1531,6 +1579,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223466,
+      "num": 223466,
+      "word": "eStar苟住了",
+      "onboard_time": 1697540375,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 222631,
       "num": 222631,
       "word": "曾舜晞关注田曦薇微博",
@@ -1617,6 +1673,14 @@
       "onboard_time": 1697512473,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204985,
+      "num": 204985,
+      "word": "光遇 箬笠",
+      "onboard_time": 1697540976,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 204610,
@@ -1883,6 +1947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187761,
+      "num": 187761,
+      "word": "毛晓彤情绪转化好快",
+      "onboard_time": 1697540077,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185987,
       "num": 185987,
       "word": "华浅捧脸杀",
@@ -2035,6 +2107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165382,
+      "num": 165382,
+      "word": "gmm推介会",
+      "onboard_time": 1697539839,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163116,
       "num": 163116,
       "word": "一带一路十周年",
@@ -2115,6 +2195,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 147115,
+      "num": 147115,
+      "word": "法考主观题答案",
+      "onboard_time": 1697541215,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 146911,
       "num": 146911,
       "word": "为什么总说有困难就找人民警察",
@@ -2123,12 +2211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 145071,
+      "num": 145071,
+      "word": "傅云深用一房一狗求婚",
+      "onboard_time": 1697541215,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144244,
       "num": 144244,
       "word": "民警为产妇搭起临时产房",
       "onboard_time": 1697508633,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143610,
+      "num": 359389,
+      "word": "原神 莱欧斯利",
+      "onboard_time": 1697540439,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 138752,

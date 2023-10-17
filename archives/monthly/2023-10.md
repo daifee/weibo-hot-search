@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 18:36:22
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 19:14:46
 </p>
 </blockquote>
 <p>
@@ -2901,6 +2901,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
+被烈犬咬伤女童立即手术或面临摘肾（热度：1280587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E4%B8%89%E4%BA%BA%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23" target="weibo">
 王栎鑫儿子女儿三人共用一张脸（热度：1279294）
 </a>
@@ -3921,12 +3927,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
-被烈犬咬伤女童立即手术或面临摘肾（热度：1007529）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8D%95%E6%89%93%E5%86%B3%E8%B5%9B%E6%94%BE%E7%AE%80%E5%8D%95%E7%88%B1%23" target="weibo">
 樊振东王楚钦单打决赛放简单爱（热度：1000947）
 </a>
@@ -4407,6 +4407,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%BD%97%E5%A8%81%E7%BA%B3%E7%8A%AC%E6%89%93%E8%BF%87%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97%23" target="weibo">
+咬伤女童罗威纳犬打过狂犬疫苗（热度：913004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B510101010101010%E6%88%AA%E5%9B%BE%E6%89%93%E5%8D%A1%23" target="weibo">
 全红婵10101010101010截图打卡（热度：911416）
 </a>
@@ -4859,6 +4865,12 @@ Xiaomi HyperOS（热度：858223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%AE%B2%E8%BF%B0%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%A4%A7%E5%9E%8B%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E8%82%BE%E7%A0%B4%E8%A3%82%23" target="weibo">
 母亲讲述女童被大型犬撕咬致肾破裂（热度：855309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%23" target="weibo">
+中国邮政 魔道祖师（热度：854024）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ IVE李瑞在翰林高中被骚扰（热度：741165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E6%9C%AA%E9%80%9A%E8%BF%87%E5%85%B4%E5%A5%8B%E5%89%82%E6%A3%80%E6%B5%8B%23" target="weibo">
 菲律宾男篮球员未通过兴奋剂检测（热度：733423）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%9B%E6%9C%BA%E4%B8%8D%E8%BF%9C%E4%B8%87%E9%87%8C%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%BB%8B%E4%BA%8B%E6%8C%91%E8%A1%85%23" target="weibo">
-加拿大军机不远万里到中国家门口滋事挑衅（热度：733175）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%942%E9%BB%84%E9%95%87%E5%BB%B7%23" target="weibo">
-王楚钦4比2黄镇廷（热度：733060）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697538982353,
+  "endTime": 1697541286176,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -627,6 +627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1280587,
+      "num": 721315,
+      "word": "被烈犬咬伤女童立即手术或面临摘肾",
+      "onboard_time": 1697535637,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279294,
       "num": 1279294,
       "word": "王栎鑫儿子女儿三人共用一张脸",
@@ -835,14 +843,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1007529,
-      "num": 721315,
-      "word": "被烈犬咬伤女童立即手术或面临摘肾",
-      "onboard_time": 1697535637,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 995352,
       "num": 393651,
       "word": "白敬亭工作室发了好多物料",
@@ -928,6 +928,14 @@
       "word": "派出所回应一幼儿小区内遭未拴绳大狗撕咬",
       "onboard_time": 1697443232,
       "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 913004,
+      "num": 343949,
+      "word": "咬伤女童罗威纳犬打过狂犬疫苗",
+      "onboard_time": 1697539539,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -1041,6 +1049,14 @@
       "onboard_time": 1697456490,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 854024,
+      "num": 854024,
+      "word": "中国邮政 魔道祖师",
+      "onboard_time": 1697538519,
+      "rank": 23,
+      "category": "社会新闻,动漫"
     },
     {
       "raw_hot": 851694,
@@ -1425,6 +1441,14 @@
       "onboard_time": 1697459013,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 669102,
+      "num": 669102,
+      "word": "A股大概率有超越5年一遇级别的牛市",
+      "onboard_time": 1697539177,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 667933,
@@ -2075,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 505108,
+      "num": 350198,
+      "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
+      "onboard_time": 1697536777,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 500819,
       "num": 500819,
       "word": "杰瑞有那么多套床",
@@ -2321,14 +2353,6 @@
       "onboard_time": 1697348494,
       "rank": 14,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 459050,
-      "num": 350198,
-      "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
-      "onboard_time": 1697536777,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 458126,
@@ -2699,6 +2723,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 404902,
+      "num": 4120860,
+      "word": "新疆男孩脱口而出自己是中华民族",
+      "onboard_time": 1697530297,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 404647,
       "num": 346551,
       "word": "关于我蒸了一整个馒头这件事",
@@ -2891,14 +2923,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 380347,
-      "num": 4120860,
-      "word": "新疆男孩脱口而出自己是中华民族",
-      "onboard_time": 1697530297,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378806,
       "num": 378806,
       "word": "白桃星座",
@@ -3024,6 +3048,14 @@
       "word": "成都禁养犬名单",
       "onboard_time": 1697469037,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361907,
+      "num": 277483,
+      "word": "罗威纳",
+      "onboard_time": 1697447194,
+      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -3299,12 +3331,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337266,
+      "num": 283251,
+      "word": "情侣每天聊天词穷怎么办",
+      "onboard_time": 1697540077,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 336011,
       "num": 336011,
       "word": "小米",
       "onboard_time": 1697515717,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 335983,
+      "num": 335983,
+      "word": "碧桂园所持6368万股权被冻结",
+      "onboard_time": 1697539419,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 334122,
@@ -3755,14 +3803,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 287742,
-      "num": 287742,
-      "word": "中国邮政 魔道祖师",
-      "onboard_time": 1697538519,
-      "rank": 23,
-      "category": "社会新闻,动漫"
-    },
-    {
       "raw_hot": 287734,
       "num": 287734,
       "word": "刘诗诗白衣战损哭戏路透",
@@ -3913,6 +3953,14 @@
       "onboard_time": 1697338708,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 276889,
+      "num": 276889,
+      "word": "金世佳为角色给真医生做助理",
+      "onboard_time": 1697539959,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 276554,
@@ -4169,14 +4217,6 @@
       "onboard_time": 1697419714,
       "rank": 32,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 261974,
-      "num": 261974,
-      "word": "罗威纳",
-      "onboard_time": 1697447194,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261234,
@@ -4811,6 +4851,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 223466,
+      "num": 223466,
+      "word": "eStar苟住了",
+      "onboard_time": 1697540375,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223463,
       "num": 198573,
       "word": "卢昱晓私服穿搭",
@@ -5129,6 +5177,14 @@
       "onboard_time": 1697512473,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 204985,
+      "num": 204985,
+      "word": "光遇 箬笠",
+      "onboard_time": 1697540976,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 204627,
@@ -5923,6 +5979,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187761,
+      "num": 187761,
+      "word": "毛晓彤情绪转化好快",
+      "onboard_time": 1697540077,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187710,
       "num": 187710,
       "word": "华浅被逼下跪",
@@ -6531,6 +6595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165382,
+      "num": 165382,
+      "word": "gmm推介会",
+      "onboard_time": 1697539839,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165212,
       "num": 165212,
       "word": "一群小猫和一群小狗首次见面",
@@ -6891,6 +6963,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 147115,
+      "num": 147115,
+      "word": "法考主观题答案",
+      "onboard_time": 1697541215,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147006,
       "num": 147006,
       "word": "微博迎新之夜",
@@ -6939,6 +7019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145071,
+      "num": 145071,
+      "word": "傅云深用一房一狗求婚",
+      "onboard_time": 1697541215,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144909,
       "num": 144909,
       "word": "导演回应影展观众当着主创喊退钱",
@@ -6969,6 +7057,14 @@
       "onboard_time": 1697371054,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143610,
+      "num": 359389,
+      "word": "原神 莱欧斯利",
+      "onboard_time": 1697540439,
+      "rank": 14,
+      "category": "游戏"
     },
     {
       "raw_hot": 143372,
