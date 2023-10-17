@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697580997719,
+  "endTime": 1697582049260,
   "band_list": [
     {
       "raw_hot": 2106907,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 394536,
+      "num": 252459,
+      "word": "成都大狗咬伤女童所在小区业主发声",
+      "onboard_time": 1697543614,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 367224,
       "num": 367224,
       "word": "王楚钦比赛也逃不过写论文",
@@ -195,14 +203,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 254252,
-      "num": 252459,
-      "word": "成都大狗咬伤女童所在小区业主发声",
-      "onboard_time": 1697543614,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 235588,
       "num": 219447,
       "word": "给黑狗逼得上手了",
@@ -219,12 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229332,
+      "num": 71289,
+      "word": "以色列驻英大使宣称加沙不存在人道主义危机",
+      "onboard_time": 1697571434,
+      "rank": 12,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 215370,
       "num": 215370,
       "word": "建议洗脸要洗发际线",
       "onboard_time": 1697552982,
       "rank": 25,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 206744,
+      "num": 70219,
+      "word": "咬伤女童的大型犬还未找到",
+      "onboard_time": 1697577793,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 204696,
@@ -289,14 +305,6 @@
       "onboard_time": 1697553704,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 164475,
-      "num": 53561,
-      "word": "以色列驻英大使宣称加沙不存在人道主义危机",
-      "onboard_time": 1697571434,
-      "rank": 12,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 159730,
@@ -371,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125067,
-      "num": 51539,
-      "word": "咬伤女童的大型犬还未找到",
-      "onboard_time": 1697577793,
-      "rank": 33,
-      "category": "社会新闻"
+      "raw_hot": 121455,
+      "num": 121455,
+      "word": "救了个老人是曾经的小学老师",
+      "onboard_time": 1697561125,
+      "rank": 46,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 121386,
@@ -491,14 +499,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 56767,
-      "num": 56767,
-      "word": "救了个老人是曾经的小学老师",
-      "onboard_time": 1697561125,
-      "rank": 46,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 54569,
       "num": 54830,
       "word": "方筱然操不完的心",
@@ -507,7 +507,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44580,
+      "raw_hot": 49657,
       "num": 49867,
       "word": "杨紫流光羽毛裙",
       "onboard_time": 1697545533,
@@ -515,12 +515,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 42436,
-      "num": 42436,
+      "raw_hot": 46257,
+      "num": 46257,
       "word": "姜广涛与合伙人纠纷案件将二审",
       "onboard_time": 1697574793,
       "rank": 36,
       "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 38453,
+      "num": 47791,
+      "word": "汤唯换新经纪人了",
+      "onboard_time": 1697567955,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 33720,
+      "num": 42423,
+      "word": "孕后期准妈妈用胶带缓解压力",
+      "onboard_time": 1697573592,
+      "rank": 49,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 30239,
@@ -531,20 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28875,
-      "num": 42423,
-      "word": "孕后期准妈妈用胶带缓解压力",
-      "onboard_time": 1697573592,
-      "rank": 49,
-      "category": "母婴育儿"
+      "raw_hot": 29357,
+      "num": 42411,
+      "word": "被东北碳水的神秘力量征服",
+      "onboard_time": 1697579475,
+      "rank": 43,
+      "category": "美食"
     },
     {
-      "raw_hot": 27443,
-      "num": 47791,
-      "word": "汤唯换新经纪人了",
-      "onboard_time": 1697567955,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 27462,
+      "num": 42415,
+      "word": "罗威纳",
+      "onboard_time": 1697540739,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26701,
@@ -563,28 +579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22605,
-      "num": 42415,
-      "word": "罗威纳",
-      "onboard_time": 1697540739,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 22597,
       "num": 50953,
       "word": "电影学爸的问题出在哪",
       "onboard_time": 1697567416,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 20222,
-      "num": 42411,
-      "word": "被东北碳水的神秘力量征服",
-      "onboard_time": 1697579475,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 15738,
@@ -603,7 +603,7 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 11089,
+      "raw_hot": 13066,
       "num": 236733,
       "word": "丝路之歌一路繁花",
       "onboard_time": 1697548239,
