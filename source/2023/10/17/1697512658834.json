@@ -1,0 +1,410 @@
+{
+  "runTime": 1697512658834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1854749,
+        "num": 1854749,
+        "word": "阿奇霉素",
+        "onboard_time": 1697502337,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1664764,
+        "num": 1664764,
+        "word": "iPhone15Pro被曝生产成本523美元",
+        "onboard_time": 1697507794,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44558,
+        "num": 1557741,
+        "word": "沿着一带一路去旅行",
+        "onboard_time": 1697464056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1494231,
+        "num": 1494231,
+        "word": "雷军称小米澎湃OS将逐步接替MIUI",
+        "onboard_time": 1697511573,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1413603,
+        "num": 1413603,
+        "word": "普京总统抵达北京",
+        "onboard_time": 1697506354,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1238171,
+        "num": 1238171,
+        "word": "被狗咬伤女童母亲称已找到涉事黑狗",
+        "onboard_time": 1697511155,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1117226,
+        "num": 1117226,
+        "word": "我也不想抱你丫头答应我别跳",
+        "onboard_time": 1697510733,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835784,
+        "num": 835784,
+        "word": "华为中国销量已超越苹果",
+        "onboard_time": 1697509232,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1147426,
+        "num": 806341,
+        "word": "狗和主人必须尽快绳之以法",
+        "onboard_time": 1697503059,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 741165,
+        "num": 741165,
+        "word": "IVE李瑞在翰林高中被骚扰",
+        "onboard_time": 1697510073,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 990657,
+        "num": 740044,
+        "word": "江映蓉 偶遇苹果CEO库克",
+        "onboard_time": 1697511155,
+        "rank": 10,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 825305,
+        "num": 738274,
+        "word": "哈马斯称外国人质是客人将适时释放",
+        "onboard_time": 1697511393,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 736170,
+        "num": 736170,
+        "word": "被狗咬伤女童已转华西医院治疗",
+        "onboard_time": 1697508215,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665127,
+        "num": 665127,
+        "word": "第一次看男女主整部剧都在种田的",
+        "onboard_time": 1697503476,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 620146,
+        "num": 620146,
+        "word": "拉布拉多未咬人已被主人领回",
+        "onboard_time": 1697469217,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460826,
+        "num": 460826,
+        "word": "藕粉加奶粉等于麻薯是真的吗",
+        "onboard_time": 1697510612,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 390930,
+        "num": 390930,
+        "word": "知情人称哈马斯被消灭前以色列不考虑停火",
+        "onboard_time": 1697504738,
+        "rank": 16,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 371762,
+        "num": 371762,
+        "word": "5男孩吃烧烤老板担忧催找妈妈买单",
+        "onboard_time": 1697507555,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1030238,
+        "num": 347087,
+        "word": "高校回应网红教师被指私生活混乱",
+        "onboard_time": 1697505874,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 65289,
+        "num": 312014,
+        "word": "你多久换一次电动牙刷头",
+        "onboard_time": 1697510853,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 284044,
+        "num": 284044,
+        "word": "赵本山给徒弟补近亿税额",
+        "onboard_time": 1697463394,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280647,
+        "num": 280647,
+        "word": "大力女子姜南顺",
+        "onboard_time": 1697512114,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278483,
+        "num": 278483,
+        "word": "宾大将追授林徽因建筑学学士",
+        "onboard_time": 1697509054,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274386,
+        "num": 274386,
+        "word": "朱一龙回应未获金鸡奖提名",
+        "onboard_time": 1697506772,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 263406,
+        "num": 263406,
+        "word": "理想MEGA",
+        "onboard_time": 1697510853,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 260123,
+        "num": 260123,
+        "word": "虞书欣重新跳了yesok",
+        "onboard_time": 1697501915,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237996,
+        "num": 237996,
+        "word": "老板被情人诈骗2000万致公司破产",
+        "onboard_time": 1697504975,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224104,
+        "num": 224104,
+        "word": "为什么粉色要贵这么多",
+        "onboard_time": 1697465736,
+        "rank": 27,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 221105,
+        "num": 221105,
+        "word": "我国超3亿人遭受慢性疼痛",
+        "onboard_time": 1697497824,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 212211,
+        "num": 212211,
+        "word": "最近的周冬雨",
+        "onboard_time": 1697502816,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 749119,
+        "num": 211262,
+        "word": "Xiaomi HyperOS",
+        "onboard_time": 1697512294,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 207063,
+        "num": 207063,
+        "word": "哥哥冲过来一把扯开捂住妹妹的被子",
+        "onboard_time": 1697499627,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205566,
+        "num": 205566,
+        "word": "林品",
+        "onboard_time": 1697508813,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205302,
+        "num": 205302,
+        "word": "小时候撒谎为出去玩 长大后撒谎为待在家",
+        "onboard_time": 1697507733,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 204610,
+        "num": 204610,
+        "word": "白敬亭害羞往范丞丞怀里钻",
+        "onboard_time": 1697511032,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201592,
+        "num": 201592,
+        "word": "电影靠近我一点定档",
+        "onboard_time": 1697512294,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200788,
+        "num": 200788,
+        "word": "MIUI",
+        "onboard_time": 1697511993,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192911,
+        "num": 192911,
+        "word": "代号鸢 animate cafe",
+        "onboard_time": 1697511752,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183406,
+        "num": 183406,
+        "word": "南风知我意收官",
+        "onboard_time": 1697512473,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69720,
+        "num": 181447,
+        "word": "拿到驾照的张颂文",
+        "onboard_time": 1697512353,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181079,
+        "num": 181079,
+        "word": "坠楼死亡的剖析",
+        "onboard_time": 1697508335,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180682,
+        "num": 180682,
+        "word": "以军称在空袭行动中打死一哈马斯高级领导人",
+        "onboard_time": 1697500898,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 173029,
+        "num": 173029,
+        "word": "联合国安理会未通过巴以相关决议",
+        "onboard_time": 1697506715,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 165236,
+        "num": 165236,
+        "word": "赵晴演技",
+        "onboard_time": 1697504316,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164228,
+        "num": 164228,
+        "word": "支原体肺炎",
+        "onboard_time": 1697505693,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 161871,
+        "num": 161871,
+        "word": "以色列",
+        "onboard_time": 1697504137,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 156818,
+        "num": 156818,
+        "word": "这就是e人喜欢i人的原因",
+        "onboard_time": 1697504434,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154471,
+        "num": 154471,
+        "word": "55岁爷爷推6岁脑瘫孙女跑完5个马拉松",
+        "onboard_time": 1697509414,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152500,
+        "num": 152500,
+        "word": "为有暗香来 男主是谁",
+        "onboard_time": 1697469637,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141932,
+        "num": 141932,
+        "word": "研究称抱抱自己可以减轻疼痛",
+        "onboard_time": 1697511393,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路十年之约#"
+    }
+  }
+}

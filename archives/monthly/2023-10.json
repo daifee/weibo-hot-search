@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697510172080,
+  "endTime": 1697512658834,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2387,6 +2387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1664764,
+      "num": 1664764,
+      "word": "iPhone15Pro被曝生产成本523美元",
+      "onboard_time": 1697507794,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1658795,
       "num": 495143,
       "word": "北极鲶鱼的恨国论也该严查",
@@ -2588,7 +2596,7 @@
     },
     {
       "raw_hot": 1611627,
-      "num": 585559,
+      "num": 620146,
       "word": "拉布拉多未咬人已被主人领回",
       "onboard_time": 1697469217,
       "rank": 39,
@@ -2913,6 +2921,14 @@
       "onboard_time": 1697380063,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 1494231,
+      "num": 1494231,
+      "word": "雷军称小米澎湃OS将逐步接替MIUI",
+      "onboard_time": 1697511573,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 1493014,
@@ -3851,6 +3867,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1238171,
+      "num": 1238171,
+      "word": "被狗咬伤女童母亲称已找到涉事黑狗",
+      "onboard_time": 1697511155,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1237386,
       "num": 1237386,
       "word": "韩国朝鲜女双争金",
@@ -3873,14 +3897,6 @@
       "onboard_time": 1696428766,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1233747,
-      "num": 1233747,
-      "word": "iPhone15Pro被曝生产成本523美元",
-      "onboard_time": 1697507794,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 1232737,
@@ -4377,6 +4393,14 @@
       "onboard_time": 1696666300,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1117226,
+      "num": 1117226,
+      "word": "我也不想抱你丫头答应我别跳",
+      "onboard_time": 1697510733,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1113919,
@@ -5057,6 +5081,14 @@
       "onboard_time": 1697194954,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 990657,
+      "num": 740044,
+      "word": "江映蓉 偶遇苹果CEO库克",
+      "onboard_time": 1697511155,
+      "rank": 10,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 990481,
@@ -6411,6 +6443,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 835784,
+      "num": 835784,
+      "word": "华为中国销量已超越苹果",
+      "onboard_time": 1697509232,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 835342,
       "num": 342105,
       "word": "女子做职业伴娘国庆8天8场婚礼",
@@ -6505,6 +6545,14 @@
       "onboard_time": 1697286575,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 825305,
+      "num": 738274,
+      "word": "哈马斯称外国人质是客人将适时释放",
+      "onboard_time": 1697511393,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 824429,
@@ -7435,6 +7483,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 749119,
+      "num": 211262,
+      "word": "Xiaomi HyperOS",
+      "onboard_time": 1697512294,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 749056,
       "num": 749056,
       "word": "张嘉倪 爱看狐狸哭",
@@ -7515,6 +7571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 741165,
+      "num": 741165,
+      "word": "IVE李瑞在翰林高中被骚扰",
+      "onboard_time": 1697510073,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 740773,
       "num": 740773,
       "word": "邓为 头套",
@@ -7576,6 +7640,14 @@
       "word": "实名",
       "onboard_time": 1697372674,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 736170,
+      "num": 736170,
+      "word": "被狗咬伤女童已转华西医院治疗",
+      "onboard_time": 1697508215,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -7753,14 +7825,6 @@
       "onboard_time": 1696641695,
       "rank": 16,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 721394,
-      "num": 721394,
-      "word": "被狗咬伤女童已转华西医院治疗",
-      "onboard_time": 1697508215,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 720340,
@@ -13811,6 +13875,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 460826,
+      "num": 460826,
+      "word": "藕粉加奶粉等于麻薯是真的吗",
+      "onboard_time": 1697510612,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 460660,
       "num": 460660,
       "word": "迪丽热巴花少5拍照姿势",
@@ -13977,14 +14049,6 @@
       "onboard_time": 1696680758,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 455510,
-      "num": 455510,
-      "word": "华为中国销量已超越苹果",
-      "onboard_time": 1697509232,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 455015,
@@ -23011,6 +23075,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 280647,
+      "num": 280647,
+      "word": "大力女子姜南顺",
+      "onboard_time": 1697512114,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280581,
       "num": 278832,
       "word": "美众议院议长麦卡锡被罢免",
@@ -24657,6 +24729,14 @@
       "onboard_time": 1696911586,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 263406,
+      "num": 263406,
+      "word": "理想MEGA",
+      "onboard_time": 1697510853,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 263289,
@@ -31283,6 +31363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204610,
+      "num": 204610,
+      "word": "白敬亭害羞往范丞丞怀里钻",
+      "onboard_time": 1697511032,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204570,
       "num": 204570,
       "word": "前任4票房破5亿",
@@ -31907,6 +31995,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 201592,
+      "num": 201592,
+      "word": "电影靠近我一点定档",
+      "onboard_time": 1697512294,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201574,
       "num": 201574,
       "word": "10岁小女孩牢记1.5万字讲解词",
@@ -32105,6 +32201,14 @@
       "onboard_time": 1697293538,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200788,
+      "num": 200788,
+      "word": "MIUI",
+      "onboard_time": 1697511993,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 200729,
@@ -33713,6 +33817,14 @@
       "onboard_time": 1697448812,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192911,
+      "num": 192911,
+      "word": "代号鸢 animate cafe",
+      "onboard_time": 1697511752,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 192813,
@@ -35395,6 +35507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 183406,
+      "num": 183406,
+      "word": "南风知我意收官",
+      "onboard_time": 1697512473,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183384,
       "num": 183384,
       "word": "樊振东盲盒抽中乒乓球",
@@ -37041,14 +37161,6 @@
       "onboard_time": 1696745196,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172072,
-      "num": 169902,
-      "word": "IVE李瑞在翰林高中被骚扰",
-      "onboard_time": 1697510073,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 171969,
@@ -40643,6 +40755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141932,
+      "num": 141932,
+      "word": "研究称抱抱自己可以减轻疼痛",
+      "onboard_time": 1697511393,
+      "rank": 49,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 141820,
       "num": 141820,
       "word": "消防员奶爸训练搜二代坐滑梯萌翻了",
@@ -44147,6 +44267,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 69720,
+      "num": 181447,
+      "word": "拿到驾照的张颂文",
+      "onboard_time": 1697512353,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69706,
       "num": 1351404,
       "word": "中国航天67岁生日快乐",
@@ -44252,7 +44380,7 @@
     },
     {
       "raw_hot": 65783,
-      "num": 1527649,
+      "num": 1557741,
       "word": "沿着一带一路去旅行",
       "onboard_time": 1697464056,
       "rank": 2,
@@ -44273,6 +44401,14 @@
       "onboard_time": 1697403432,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65289,
+      "num": 312014,
+      "word": "你多久换一次电动牙刷头",
+      "onboard_time": 1697510853,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 64599,
