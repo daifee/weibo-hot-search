@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697570043268,
+  "endTime": 1697571269436,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -47905,6 +47905,14 @@
       "onboard_time": 1697141053,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13920,
+      "num": 21825,
+      "word": "有洁癖的人是怎么做饭的",
+      "onboard_time": 1697570836,
+      "rank": 49,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 13909,
