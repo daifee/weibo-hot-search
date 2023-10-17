@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697517244550,
+  "endTime": 1697519772709,
   "band_list": [
     {
       "raw_hot": 2509387,
@@ -8,6 +8,14 @@
       "word": "狗和主人必须尽快绳之以法",
       "onboard_time": 1697503059,
       "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2387552,
+      "num": 2387552,
+      "word": "高中同学车祸失忆全班守护18年",
+      "onboard_time": 1697515776,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -99,8 +107,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1260227,
+      "num": 643191,
+      "word": "黑狗主人最高面临七年以下有期徒刑",
+      "onboard_time": 1697518480,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1177729,
-      "num": 385241,
+      "num": 401263,
       "word": "男子不想结婚偷下堕胎药致女友流产",
       "onboard_time": 1697514094,
       "rank": 20,
@@ -203,8 +219,16 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 810386,
+      "num": 810386,
+      "word": "苹果宣布新增2500万元捐款",
+      "onboard_time": 1697517637,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 778146,
-      "num": 577838,
+      "num": 730778,
       "word": "花瓣支付不对标微信支付支付宝",
       "onboard_time": 1697514815,
       "rank": 13,
@@ -251,14 +275,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 710432,
-      "num": 710432,
-      "word": "高中同学车祸失忆全班守护18年",
-      "onboard_time": 1697515776,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 693218,
       "num": 693218,
       "word": "第一次看男女主整部剧都在种田的",
@@ -283,6 +299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 654402,
+      "num": 654402,
+      "word": "妈妈出门买菜身后跟俩特种兵",
+      "onboard_time": 1697517219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 649251,
       "num": 548011,
       "word": "王不染看见赵露思的表情",
@@ -297,6 +321,22 @@
       "onboard_time": 1697459374,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640599,
+      "num": 640599,
+      "word": "新歌坛四小花",
+      "onboard_time": 1697518836,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 610731,
+      "num": 610731,
+      "word": "Jasper普通话主持校庆",
+      "onboard_time": 1697516496,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 610485,
@@ -329,6 +369,14 @@
       "onboard_time": 1697501915,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 532789,
+      "num": 532789,
+      "word": "为了发朋友圈而产生的消费",
+      "onboard_time": 1697518836,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 527554,
@@ -369,6 +417,14 @@
       "onboard_time": 1697513433,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 476699,
+      "num": 476699,
+      "word": "普京与内塔尼亚胡通话",
+      "onboard_time": 1697516559,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 471754,
@@ -419,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 450576,
+      "num": 450576,
+      "word": "张若昀庆余年2杀青",
+      "onboard_time": 1697519018,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 446940,
       "num": 226009,
       "word": "MiuMiu钻石内裤",
@@ -459,12 +523,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417292,
-      "num": 244458,
-      "word": "普京与内塔尼亚胡通话",
-      "onboard_time": 1697516559,
-      "rank": 33,
-      "category": "国外要闻"
+      "raw_hot": 401665,
+      "num": 401665,
+      "word": "李想",
+      "onboard_time": 1697518419,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 387022,
@@ -475,20 +539,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 377950,
-      "num": 243982,
-      "word": "Jasper普通话主持校庆",
-      "onboard_time": 1697516496,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 366942,
       "num": 366942,
       "word": "白鹿 这一种快乐无法描写",
       "onboard_time": 1697469217,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 365901,
+      "num": 300580,
+      "word": "杨紫小夭今晚相见",
+      "onboard_time": 1697518538,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 364558,
@@ -507,12 +571,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 354331,
+      "num": 354331,
+      "word": "绝代双骄央八上午档热播",
+      "onboard_time": 1697518419,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342120,
       "num": 342120,
       "word": "以色列",
       "onboard_time": 1697504137,
       "rank": 24,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 341064,
+      "num": 341064,
+      "word": "虞书欣THE9演唱会粉丝应援",
+      "onboard_time": 1697515175,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 337880,
@@ -537,14 +617,6 @@
       "onboard_time": 1697469517,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 322502,
-      "num": 322502,
-      "word": "虞书欣THE9演唱会粉丝应援",
-      "onboard_time": 1697515175,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 320400,
@@ -659,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276554,
+      "num": 276554,
+      "word": "崔峻超拍的赵丽颖",
+      "onboard_time": 1697516799,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276353,
       "num": 276353,
       "word": "中国移动采购120万台华为手机",
@@ -747,6 +827,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 255401,
+      "num": 255401,
+      "word": "无穷小亮 可算把铁线蕨玩明白了",
+      "onboard_time": 1697518120,
+      "rank": 34,
+      "category": "自然"
+    },
+    {
       "raw_hot": 252309,
       "num": 252309,
       "word": "一带一路",
@@ -785,14 +873,6 @@
       "onboard_time": 1697514693,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 238902,
-      "num": 238902,
-      "word": "崔峻超拍的赵丽颖",
-      "onboard_time": 1697516799,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 238894,
@@ -995,12 +1075,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 193945,
+      "num": 193945,
+      "word": "逆水寒手游 丑衣服",
+      "onboard_time": 1697518961,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 192911,
       "num": 192911,
       "word": "代号鸢 animate cafe",
       "onboard_time": 1697511752,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192834,
+      "num": 192834,
+      "word": "田耕纪今晚分家",
+      "onboard_time": 1697518779,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 189508,
@@ -1075,14 +1171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177631,
-      "num": 177631,
-      "word": "妈妈出门买菜身后跟俩特种兵",
-      "onboard_time": 1697517219,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175978,
       "num": 175978,
       "word": "韩国人晚上真的不睡觉吗",
@@ -1129,6 +1217,22 @@
       "onboard_time": 1697469096,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166895,
+      "num": 166895,
+      "word": "于正说喜欢华浅就像喜欢魏璎珞",
+      "onboard_time": 1697518059,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 163908,
+      "num": 163908,
+      "word": "猫咪也是第一次当妈妈",
+      "onboard_time": 1697519498,
+      "rank": 46,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 163116,
@@ -1257,6 +1361,14 @@
       "onboard_time": 1697469757,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118387,
+      "num": 149262,
+      "word": "小孩组团霸气护送鼬獾到派出所",
+      "onboard_time": 1697517278,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 111678,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697517244550,
+  "endTime": 1697519772709,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -81,6 +81,14 @@
       "onboard_time": 1697357912,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2387552,
+      "num": 2387552,
+      "word": "高中同学车祸失忆全班守护18年",
+      "onboard_time": 1697515776,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2347538,
@@ -515,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1260227,
+      "num": 643191,
+      "word": "黑狗主人最高面临七年以下有期徒刑",
+      "onboard_time": 1697518480,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1244276,
       "num": 963887,
       "word": "本周狗屎运最旺的星座",
@@ -556,7 +572,7 @@
     },
     {
       "raw_hot": 1177729,
-      "num": 385241,
+      "num": 401263,
       "word": "男子不想结婚偷下堕胎药致女友流产",
       "onboard_time": 1697514094,
       "rank": 20,
@@ -931,6 +947,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 810386,
+      "num": 810386,
+      "word": "苹果宣布新增2500万元捐款",
+      "onboard_time": 1697517637,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 802739,
       "num": 802739,
       "word": "周筱风官宣恋情",
@@ -988,7 +1012,7 @@
     },
     {
       "raw_hot": 778146,
-      "num": 577838,
+      "num": 730778,
       "word": "花瓣支付不对标微信支付支付宝",
       "onboard_time": 1697514815,
       "rank": 13,
@@ -1073,14 +1097,6 @@
       "onboard_time": 1697422474,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 710432,
-      "num": 710432,
-      "word": "高中同学车祸失忆全班守护18年",
-      "onboard_time": 1697515776,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 698706,
@@ -1211,6 +1227,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 654402,
+      "num": 654402,
+      "word": "妈妈出门买菜身后跟俩特种兵",
+      "onboard_time": 1697517219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 653869,
       "num": 653869,
       "word": "江歌妈妈眼中有了精气神",
@@ -1241,6 +1265,14 @@
       "onboard_time": 1697289094,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 640599,
+      "num": 640599,
+      "word": "新歌坛四小花",
+      "onboard_time": 1697518836,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 639515,
@@ -1305,6 +1337,14 @@
       "onboard_time": 1697424573,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 610731,
+      "num": 610731,
+      "word": "Jasper普通话主持校庆",
+      "onboard_time": 1697516496,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 610485,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1697347292,
       "rank": 13,
       "category": "教育"
+    },
+    {
+      "raw_hot": 532789,
+      "num": 532789,
+      "word": "为了发朋友圈而产生的消费",
+      "onboard_time": 1697518836,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 530140,
@@ -1875,6 +1923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 476699,
+      "num": 476699,
+      "word": "普京与内塔尼亚胡通话",
+      "onboard_time": 1697516559,
+      "rank": 33,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 476008,
       "num": 476008,
       "word": "博主100元吃遍东北早市被指造假",
@@ -2033,6 +2089,14 @@
       "onboard_time": 1697439452,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450576,
+      "num": 450576,
+      "word": "张若昀庆余年2杀青",
+      "onboard_time": 1697519018,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 447824,
@@ -2243,14 +2307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417292,
-      "num": 244458,
-      "word": "普京与内塔尼亚胡通话",
-      "onboard_time": 1697516559,
-      "rank": 33,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 417218,
       "num": 305306,
       "word": "王栎鑫白毛",
@@ -2313,6 +2369,14 @@
       "onboard_time": 1697419531,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 401665,
+      "num": 401665,
+      "word": "李想",
+      "onboard_time": 1697518419,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 400149,
@@ -2475,14 +2539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 377950,
-      "num": 243982,
-      "word": "Jasper普通话主持校庆",
-      "onboard_time": 1697516496,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376737,
       "num": 376737,
       "word": "以军在加沙边界集结装甲推土机",
@@ -2545,6 +2601,14 @@
       "onboard_time": 1697342194,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 365901,
+      "num": 300580,
+      "word": "杨紫小夭今晚相见",
+      "onboard_time": 1697518538,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 365672,
@@ -2675,6 +2739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 354331,
+      "num": 354331,
+      "word": "绝代双骄央八上午档热播",
+      "onboard_time": 1697518419,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 353179,
       "num": 1257259,
       "word": "女子欲轻生被遛狗大哥死死拽住",
@@ -2777,6 +2849,14 @@
       "onboard_time": 1697445994,
       "rank": 16,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 341064,
+      "num": 341064,
+      "word": "虞书欣THE9演唱会粉丝应援",
+      "onboard_time": 1697515175,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 338398,
@@ -2913,14 +2993,6 @@
       "onboard_time": 1697435372,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 322502,
-      "num": 322502,
-      "word": "虞书欣THE9演唱会粉丝应援",
-      "onboard_time": 1697515175,
-      "rank": 33,
-      "category": "演出"
     },
     {
       "raw_hot": 321560,
@@ -3347,6 +3419,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 276554,
+      "num": 276554,
+      "word": "崔峻超拍的赵丽颖",
+      "onboard_time": 1697516799,
+      "rank": 37,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 276052,
       "num": 276052,
       "word": "王一博去看大张伟演唱会",
@@ -3659,6 +3739,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 255401,
+      "num": 255401,
+      "word": "无穷小亮 可算把铁线蕨玩明白了",
+      "onboard_time": 1697518120,
+      "rank": 34,
+      "category": "自然"
+    },
+    {
       "raw_hot": 254971,
       "num": 254971,
       "word": "长相思主创种相思豆",
@@ -3873,14 +3961,6 @@
       "onboard_time": 1697415336,
       "rank": 30,
       "category": "幽默,音乐"
-    },
-    {
-      "raw_hot": 238902,
-      "num": 238902,
-      "word": "崔峻超拍的赵丽颖",
-      "onboard_time": 1697516799,
-      "rank": 37,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 238894,
@@ -4883,6 +4963,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193945,
+      "num": 193945,
+      "word": "逆水寒手游 丑衣服",
+      "onboard_time": 1697518961,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 193617,
       "num": 193617,
       "word": "陈家平爱与不爱好明显",
@@ -4929,6 +5017,14 @@
       "onboard_time": 1697511752,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 192834,
+      "num": 192834,
+      "word": "田耕纪今晚分家",
+      "onboard_time": 1697518779,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 192813,
@@ -5315,14 +5411,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 177631,
-      "num": 177631,
-      "word": "妈妈出门买菜身后跟俩特种兵",
-      "onboard_time": 1697517219,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 176973,
       "num": 205540,
       "word": "原声台词稳定的明星",
@@ -5595,6 +5683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166895,
+      "num": 166895,
+      "word": "于正说喜欢华浅就像喜欢魏璎珞",
+      "onboard_time": 1697518059,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166227,
       "num": 166227,
       "word": "张艺兴武汉CityWalk",
@@ -5649,6 +5745,14 @@
       "onboard_time": 1697336371,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163908,
+      "num": 163908,
+      "word": "猫咪也是第一次当妈妈",
+      "onboard_time": 1697519498,
+      "rank": 46,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 163116,
@@ -6337,6 +6441,14 @@
       "onboard_time": 1697293781,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118387,
+      "num": 149262,
+      "word": "小孩组团霸气护送鼬獾到派出所",
+      "onboard_time": 1697517278,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118172,
