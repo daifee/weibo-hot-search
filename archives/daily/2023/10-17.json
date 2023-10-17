@@ -1,7 +1,23 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697506402497,
+  "endTime": 1697509459088,
   "band_list": [
+    {
+      "raw_hot": 2509387,
+      "num": 1167849,
+      "word": "狗和主人必须尽快绳之以法",
+      "onboard_time": 1697503059,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2347538,
+      "num": 2347538,
+      "word": "普京总统抵达北京",
+      "onboard_time": 1697506354,
+      "rank": 21,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 2317351,
       "num": 2317351,
@@ -43,6 +59,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 1102329,
+      "num": 1102329,
+      "word": "高校回应网红教师被指私生活混乱",
+      "onboard_time": 1697505874,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1039793,
       "num": 506869,
       "word": "警方已发现咬人黑狗行踪",
@@ -51,12 +75,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1031595,
-      "num": 1031595,
-      "word": "狗和主人必须尽快绳之以法",
-      "onboard_time": 1697503059,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 1032140,
+      "num": 1032140,
+      "word": "iPhone15Pro被曝生产成本523美元",
+      "onboard_time": 1697507794,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 1014363,
@@ -115,6 +139,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 649251,
+      "num": 548011,
+      "word": "王不染看见赵露思的表情",
+      "onboard_time": 1697502215,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 644889,
       "num": 251888,
       "word": "被大型犬撕咬女童母亲发声",
@@ -123,16 +155,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 622820,
-      "num": 548011,
-      "word": "王不染看见赵露思的表情",
-      "onboard_time": 1697502215,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 595024,
-      "num": 595024,
+      "raw_hot": 619846,
+      "num": 619846,
       "word": "第一次看男女主整部剧都在种田的",
       "onboard_time": 1697503476,
       "rank": 21,
@@ -179,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493879,
+      "num": 493879,
+      "word": "朱一龙回应未获金鸡奖提名",
+      "onboard_time": 1697506772,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 491648,
       "num": 491648,
       "word": "强烈的自卑会使人变得非常无礼",
@@ -192,6 +224,14 @@
       "word": "成都禁养22种烈性犬不包括罗威纳",
       "onboard_time": 1697497644,
       "rank": 15,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468880,
+      "num": 468880,
+      "word": "老板被情人诈骗2000万致公司破产",
+      "onboard_time": 1697504975,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -211,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 447830,
+      "num": 447830,
+      "word": "被狗咬伤女童已转华西医院治疗",
+      "onboard_time": 1697508215,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446940,
       "num": 226009,
       "word": "MiuMiu钻石内裤",
@@ -219,20 +267,20 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 428778,
+      "num": 428778,
+      "word": "5男孩吃烧烤老板担忧催找妈妈买单",
+      "onboard_time": 1697507555,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 425935,
       "num": 425935,
       "word": "黑壮美的吉克隽逸",
       "onboard_time": 1697499388,
       "rank": 19,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 422415,
-      "num": 422415,
-      "word": "老板被情人诈骗2000万致公司破产",
-      "onboard_time": 1697504975,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 366942,
@@ -283,22 +331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 327371,
-      "num": 327371,
-      "word": "普京总统抵达北京",
-      "onboard_time": 1697506354,
-      "rank": 21,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 319348,
-      "num": 264556,
-      "word": "高校回应网红教师被指私生活混乱",
-      "onboard_time": 1697505874,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318414,
       "num": 318414,
       "word": "鼻子里面为什么会长这种痘",
@@ -347,12 +379,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 290971,
+      "num": 290971,
+      "word": "华为中国销量已超越苹果",
+      "onboard_time": 1697509232,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 290400,
       "num": 216297,
       "word": "宋仲基说儿子嘴唇最像自己",
       "onboard_time": 1697460153,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289382,
+      "num": 289382,
+      "word": "宾大将追授林徽因建筑学学士",
+      "onboard_time": 1697509054,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 284730,
@@ -387,12 +435,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 270273,
+      "num": 270273,
+      "word": "支原体肺炎",
+      "onboard_time": 1697505693,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 265533,
       "num": 265533,
       "word": "男子紧急寻人还23年前欠的20万",
       "onboard_time": 1697505275,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 262718,
+      "num": 262718,
+      "word": "小时候撒谎为出去玩 长大后撒谎为待在家",
+      "onboard_time": 1697507733,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 261234,
+      "num": 261234,
+      "word": "联合国安理会未通过巴以相关决议",
+      "onboard_time": 1697506715,
+      "rank": 25,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 259081,
@@ -435,6 +507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 239555,
+      "num": 239555,
+      "word": "林品",
+      "onboard_time": 1697508813,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 238894,
       "num": 238894,
       "word": "刘诗诗谢娜和TODS总监合影",
@@ -475,14 +555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231440,
-      "num": 231440,
-      "word": "支原体肺炎",
-      "onboard_time": 1697505693,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 229744,
       "num": 229744,
       "word": "巴以冲突已超4200人死亡",
@@ -497,6 +569,14 @@
       "onboard_time": 1697466218,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 219753,
+      "num": 219753,
+      "word": "坠楼死亡的剖析",
+      "onboard_time": 1697508335,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 219039,
@@ -523,6 +603,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 208898,
+      "num": 208898,
+      "word": "2023国际乒联第42周排名",
+      "onboard_time": 1697508872,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206115,
+      "num": 206115,
+      "word": "白敬亭说自己录节目第二季才打开",
+      "onboard_time": 1697506054,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204456,
       "num": 204456,
       "word": "这个是沈月那款吗",
@@ -545,14 +641,6 @@
       "onboard_time": 1697505756,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200330,
-      "num": 200330,
-      "word": "白敬亭说自己录节目第二季才打开",
-      "onboard_time": 1697506054,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 199767,
@@ -643,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169826,
+      "num": 169826,
+      "word": "消防队员在地上爬行用身体当担架",
+      "onboard_time": 1697508755,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168522,
       "num": 168522,
       "word": "陈楚生不教儿子吉他的原因",
@@ -675,12 +771,36 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152701,
+      "num": 152701,
+      "word": "女子毕设丢失民警打800个电话找回",
+      "onboard_time": 1697506595,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 151973,
       "num": 151973,
       "word": "白鹿带闺蜜看五月天演唱会",
       "onboard_time": 1697459134,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147160,
+      "num": 147160,
+      "word": "55岁爷爷推6岁脑瘫孙女跑完5个马拉松",
+      "onboard_time": 1697509414,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144244,
+      "num": 144244,
+      "word": "民警为产妇搭起临时产房",
+      "onboard_time": 1697508633,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 128907,
@@ -884,7 +1004,7 @@
     },
     {
       "raw_hot": 65783,
-      "num": 1033298,
+      "num": 1189686,
       "word": "沿着一带一路去旅行",
       "onboard_time": 1697464056,
       "rank": 2,
