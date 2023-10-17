@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697559754528,
+  "endTime": 1697560710713,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -5076,7 +5076,7 @@
     },
     {
       "raw_hot": 235588,
-      "num": 167160,
+      "num": 219447,
       "word": "给黑狗逼得上手了",
       "onboard_time": 1697557716,
       "rank": 30,
@@ -7003,6 +7003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170471,
+      "num": 170471,
+      "word": "周也撞脸loopy",
+      "onboard_time": 1697559509,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 170226,
       "num": 170226,
       "word": "书荒恐惧症",
@@ -7779,6 +7787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135784,
+      "num": 107559,
+      "word": "夭璟",
+      "onboard_time": 1697553822,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134620,
       "num": 134620,
       "word": "TES对战BOA",
@@ -8089,14 +8105,6 @@
       "onboard_time": 1697361936,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 110603,
-      "num": 110603,
-      "word": "周也撞脸loopy",
-      "onboard_time": 1697559509,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 110383,
