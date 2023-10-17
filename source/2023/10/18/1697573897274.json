@@ -1,0 +1,410 @@
+{
+  "runTime": 1697573897274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 114297,
+        "num": 114297,
+        "word": "去年我国一孩出生低于450万",
+        "onboard_time": 1697563280,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50653,
+        "num": 50653,
+        "word": "傅首尔觉得老刘不爱她的原因",
+        "onboard_time": 1697562203,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 8306,
+        "num": 50446,
+        "word": "丝路之歌一路繁花",
+        "onboard_time": 1697548239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 56236,
+        "num": 48802,
+        "word": "长相思晚会 尴尬",
+        "onboard_time": 1697549439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 37397,
+        "num": 47691,
+        "word": "普京抵达人民大会堂",
+        "onboard_time": 1697546254,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 60623,
+        "num": 47052,
+        "word": "联合国称以色列可能构成国际犯罪",
+        "onboard_time": 1697551784,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 51404,
+        "num": 45357,
+        "word": "檀健次摘耳返",
+        "onboard_time": 1697553041,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33118,
+        "num": 44451,
+        "word": "莲花楼演唱会 诚意满满",
+        "onboard_time": 1697553761,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44183,
+        "num": 44183,
+        "word": "扶杨紫的小姐姐撞进了邓为怀里",
+        "onboard_time": 1697548298,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27005,
+        "num": 43601,
+        "word": "iPad eSIM",
+        "onboard_time": 1697551118,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134673,
+        "num": 42135,
+        "word": "网友曝吴磊借自行车拒绝合影",
+        "onboard_time": 1697543375,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121823,
+        "num": 41297,
+        "word": "退钱",
+        "onboard_time": 1697554363,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72566,
+        "num": 40296,
+        "word": "以色列驻英大使宣称加沙不存在人道主义危机",
+        "onboard_time": 1697571434,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 63720,
+        "num": 39949,
+        "word": "成都大狗咬伤女童所在小区业主发声",
+        "onboard_time": 1697543614,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38953,
+        "num": 38953,
+        "word": "屁股针为什么消失了",
+        "onboard_time": 1697528853,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37438,
+        "num": 37438,
+        "word": "广告公司向车主和吴磊道歉",
+        "onboard_time": 1697549921,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36583,
+        "num": 36583,
+        "word": "重庆明确规定禁养32种犬只",
+        "onboard_time": 1697550520,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31705,
+        "num": 31705,
+        "word": "被烈犬咬伤女童立即手术或面临摘肾",
+        "onboard_time": 1697535637,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 29438,
+        "num": 29438,
+        "word": "宋仲基海外试镜全部被淘汰",
+        "onboard_time": 1697528313,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26954,
+        "num": 26954,
+        "word": "长相思演唱会",
+        "onboard_time": 1697544574,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49112,
+        "num": 25289,
+        "word": "00后买刮刮乐中100万分男友10万",
+        "onboard_time": 1697552620,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33649,
+        "num": 24583,
+        "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
+        "onboard_time": 1697554181,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31669,
+        "num": 23968,
+        "word": "咬伤女童罗威纳犬打过狂犬疫苗",
+        "onboard_time": 1697539539,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23299,
+        "num": 23299,
+        "word": "建议洗脸要洗发际线",
+        "onboard_time": 1697552982,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 22933,
+        "num": 22933,
+        "word": "给黑狗逼得上手了",
+        "onboard_time": 1697557716,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 22716,
+        "num": 22716,
+        "word": "老公抬妾我吃席",
+        "onboard_time": 1697555323,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21609,
+        "num": 21609,
+        "word": "救了个老人是曾经的小学老师",
+        "onboard_time": 1697561125,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 21517,
+        "num": 21517,
+        "word": "原来发型这么重要",
+        "onboard_time": 1697555864,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 20493,
+        "num": 20493,
+        "word": "汤唯换新经纪人了",
+        "onboard_time": 1697567955,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19727,
+        "num": 19727,
+        "word": "一带一路",
+        "onboard_time": 1697538697,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 18652,
+        "num": 18652,
+        "word": "问心医学细节",
+        "onboard_time": 1697549140,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17627,
+        "num": 17627,
+        "word": "enhypen QQ音乐压价",
+        "onboard_time": 1697554782,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 17625,
+        "num": 17625,
+        "word": "英伟达大跌",
+        "onboard_time": 1697552620,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 17429,
+        "num": 17429,
+        "word": "方筱然操不完的心",
+        "onboard_time": 1697551964,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17354,
+        "num": 17354,
+        "word": "谢霆锋性张力",
+        "onboard_time": 1697552920,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16543,
+        "num": 16543,
+        "word": "天官赐福花城谢怜双人海报",
+        "onboard_time": 1697549258,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 16429,
+        "num": 16429,
+        "word": "南航飞机餐发4个馒头1片白菜",
+        "onboard_time": 1697533534,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16209,
+        "num": 16209,
+        "word": "网传2024湖南卫视跨年演唱会名单",
+        "onboard_time": 1697550223,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16137,
+        "num": 16137,
+        "word": "被黄凯的实习日记鼓舞到了",
+        "onboard_time": 1697548298,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16097,
+        "num": 16097,
+        "word": "王楚钦比赛也逃不过写论文",
+        "onboard_time": 1697553646,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16002,
+        "num": 16002,
+        "word": "华为手机销量跃至国内第一",
+        "onboard_time": 1697552560,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15972,
+        "num": 15972,
+        "word": "SEVENTEEN新曲 泄露",
+        "onboard_time": 1697547038,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15933,
+        "num": 15933,
+        "word": "陈丹青 平遥国际电影展",
+        "onboard_time": 1697568735,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15180,
+        "num": 15930,
+        "word": "黄凯证明了励志故事实现的可能性",
+        "onboard_time": 1697543734,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14968,
+        "num": 15928,
+        "word": "苏醒让栎鑫和栎迷们以后不要再支持了",
+        "onboard_time": 1697541396,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14124,
+        "num": 15921,
+        "word": "罗威纳",
+        "onboard_time": 1697540739,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13773,
+        "num": 15918,
+        "word": "电影学爸的问题出在哪",
+        "onboard_time": 1697567416,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13672,
+        "num": 15911,
+        "word": "周也撞脸loopy",
+        "onboard_time": 1697559509,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12682,
+        "num": 15907,
+        "word": "情侣每天聊天词穷怎么办",
+        "onboard_time": 1697540077,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12545,
+        "num": 15905,
+        "word": "孕后期准妈妈用胶带缓解压力",
+        "onboard_time": 1697573592,
+        "rank": 49,
+        "category": "母婴育儿"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见乌兹别克斯坦总统#"
+    }
+  }
+}
