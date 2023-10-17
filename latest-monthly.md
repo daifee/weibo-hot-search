@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 17:34:35
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 18:19:03
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%AD%BB%E4%BA%86%23" target="weibo">
 他从火光中走来 男主死了（热度：8547905）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
+狗主人被采取刑事强制措施（热度：8380809）
 </a>
 </li>
 
@@ -2489,6 +2495,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%E6%8A%8A%E5%90%B4%E6%98%95%E6%8B%89%E9%BB%91%E4%BA%86%23" target="weibo">
 杨迪把吴昕拉黑了（热度：1407269）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8F%88%E4%B8%80%E6%81%B6%E7%8A%AC%E8%BF%BD%E5%92%AC2%E5%90%8D%E5%B9%BC%E7%AB%A5%23" target="weibo">
+四川又一恶犬追咬2名幼童（热度：1407023）
 </a>
 </li>
 
@@ -5367,6 +5379,12 @@ THE9演唱会抢票（热度：807449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%83%88%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%AB%8B%E5%8D%B3%E6%89%8B%E6%9C%AF%E6%88%96%E9%9D%A2%E4%B8%B4%E6%91%98%E8%82%BE%23" target="weibo">
+被烈犬咬伤女童立即手术或面临摘肾（热度：796046）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E7%A7%B0%E9%80%80%E4%BC%91%E4%B8%8D%E6%98%AF%E6%8A%A4%E8%BA%AB%E7%AC%A6%23" target="weibo">
 新华社称退休不是护身符（热度：794710）
 </a>
@@ -5985,32 +6003,14 @@ IVE李瑞在翰林高中被骚扰（热度：741165）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%9B%E6%9C%BA%E4%B8%8D%E8%BF%9C%E4%B8%87%E9%87%8C%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%BB%8B%E4%BA%8B%E6%8C%91%E8%A1%85%23" target="weibo">
+加拿大军机不远万里到中国家门口滋事挑衅（热度：733175）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A64%E6%AF%942%E9%BB%84%E9%95%87%E5%BB%B7%23" target="weibo">
 王楚钦4比2黄镇廷（热度：733060）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%B6%89%E9%BB%84%E6%89%93%E7%81%AB%E6%9C%BA%E5%8F%91%E6%B0%91%E8%AD%A6%E6%89%8B%E4%B8%8A%23" target="weibo">
-男子涉黄打火机发民警手上（热度：732770）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%9F%B3%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%BD%93%E8%A1%97%E9%94%A4%E4%BA%BA%E8%87%B4%E6%AD%BB%23" target="weibo">
-黄石通报男子当街锤人致死（热度：732566）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E7%A4%BC%E7%9A%8417.5%E4%B8%87%E9%83%BD%E8%8A%B1%E5%9C%A8%E4%BA%86%E5%93%AA%E9%87%8C%23" target="weibo">
-婚礼的17.5万都花在了哪里（热度：732528）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23VOGUE%E8%AF%84%E9%80%89%E5%B7%B4%E9%BB%8E%E6%97%B6%E8%A3%85%E5%91%A8%E6%9C%80%E6%97%B6%E5%B0%9A%E6%98%8E%E6%98%9F%23" target="weibo">
-VOGUE评选巴黎时装周最时尚明星（热度：731565）
 </a>
 </li>
 
