@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 11:17:38
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 11:34:10
 </p>
 </blockquote>
 <p>
@@ -939,6 +939,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%89%BE%E5%88%B0%E6%B6%89%E4%BA%8B%E9%BB%91%E7%8B%97%23" target="weibo">
+被狗咬伤女童母亲称已找到涉事黑狗（热度：2136613）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E9%81%87%E9%9A%BE%23" target="weibo">
 三名中国公民在巴以冲突中遇难（热度：2136098）
 </a>
@@ -1713,6 +1719,12 @@ Z先生到底是谁（热度：1751124）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%94%9F%E4%BA%A7%E6%88%90%E6%9C%AC523%E7%BE%8E%E5%85%83%23" target="weibo">
+iPhone15Pro被曝生产成本523美元（热度：1697579）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%23" target="weibo">
 金鸡奖提名名单（热度：1695194）
 </a>
@@ -1799,12 +1811,6 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B0%8F%E4%BC%994%C3%97100%E6%8E%A5%E5%8A%9B%E5%86%A0%E5%86%9B%23" target="weibo">
 中国小伙4×100接力冠军（热度：1667194）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%94%9F%E4%BA%A7%E6%88%90%E6%9C%AC523%E7%BE%8E%E5%85%83%23" target="weibo">
-iPhone15Pro被曝生产成本523美元（热度：1664764）
 </a>
 </li>
 
@@ -2913,12 +2919,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%89%BE%E5%88%B0%E6%B6%89%E4%BA%8B%E9%BB%91%E7%8B%97%23" target="weibo">
-被狗咬伤女童母亲称已找到涉事黑狗（热度：1238171）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%9D%E9%B2%9C%E5%A5%B3%E5%8F%8C%E4%BA%89%E9%87%91%23" target="weibo">
 韩国朝鲜女双争金（热度：1237386）
 </a>
@@ -3641,6 +3641,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AD%8F%E5%A4%A7%E5%8B%8B%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%95%A2%E6%8A%93%E8%84%9A%E8%B8%9D%E4%BA%86%23" target="weibo">
 魏大勋已经不敢抓脚踝了（热度：1029984）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%B4%A8%E6%98%AF%E5%AE%A2%E4%BA%BA%E5%B0%86%E9%80%82%E6%97%B6%E9%87%8A%E6%94%BE%23" target="weibo">
+哈马斯称外国人质是客人将适时释放（热度：1029653）
 </a>
 </li>
 
@@ -4653,6 +4659,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Xiaomi%20HyperOS%23" target="weibo">
+Xiaomi HyperOS（热度：858223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A5%B3%E5%AD%90%E5%88%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%BA%A6%E5%81%87%E9%81%87%E6%88%98%E4%B9%B1%23" target="weibo">
 上海一女子到以色列度假遇战乱（热度：858220）
 </a>
@@ -4919,12 +4931,6 @@ JINI回应退出NIMXX的原因（热度：828725）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E6%B7%B1V%E7%BA%A2%E8%A3%99%23" target="weibo">
 赵丽颖深V红裙（热度：826205）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%B4%A8%E6%98%AF%E5%AE%A2%E4%BA%BA%E5%B0%86%E9%80%82%E6%97%B6%E9%87%8A%E6%94%BE%23" target="weibo">
-哈马斯称外国人质是客人将适时释放（热度：825305）
 </a>
 </li>
 
@@ -5621,12 +5627,6 @@ pdf写罪状录（热度：749818）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%88%E5%87%BA%E6%9D%A5%E7%9A%84%E9%82%A3%E4%B8%AA%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E8%80%81%E5%A4%A7%23" target="weibo">
 双胞胎先出来的那个不一定是老大（热度：749274）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Xiaomi%20HyperOS%23" target="weibo">
-Xiaomi HyperOS（热度：749119）
 </a>
 </li>
 

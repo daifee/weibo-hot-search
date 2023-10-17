@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697512658834,
+  "endTime": 1697513650753,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1235,6 +1235,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 2136613,
+      "num": 1238171,
+      "word": "被狗咬伤女童母亲称已找到涉事黑狗",
+      "onboard_time": 1697511155,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2136098,
       "num": 1567571,
       "word": "三名中国公民在巴以冲突中遇难",
@@ -2267,6 +2275,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 1697579,
+      "num": 1697579,
+      "word": "iPhone15Pro被曝生产成本523美元",
+      "onboard_time": 1697507794,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1695194,
       "num": 1695194,
       "word": "金鸡奖提名名单",
@@ -2385,14 +2401,6 @@
       "onboard_time": 1696340564,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1664764,
-      "num": 1664764,
-      "word": "iPhone15Pro被曝生产成本523美元",
-      "onboard_time": 1697507794,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 1658795,
@@ -3867,14 +3875,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1238171,
-      "num": 1238171,
-      "word": "被狗咬伤女童母亲称已找到涉事黑狗",
-      "onboard_time": 1697511155,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1237386,
       "num": 1237386,
       "word": "韩国朝鲜女双争金",
@@ -4841,6 +4841,14 @@
       "onboard_time": 1697466879,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1029653,
+      "num": 1029653,
+      "word": "哈马斯称外国人质是客人将适时释放",
+      "onboard_time": 1697511393,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1028888,
@@ -6187,6 +6195,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 858223,
+      "num": 211262,
+      "word": "Xiaomi HyperOS",
+      "onboard_time": 1697512294,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 858220,
       "num": 785780,
       "word": "上海一女子到以色列度假遇战乱",
@@ -6545,14 +6561,6 @@
       "onboard_time": 1697286575,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 825305,
-      "num": 738274,
-      "word": "哈马斯称外国人质是客人将适时释放",
-      "onboard_time": 1697511393,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 824429,
@@ -7481,14 +7489,6 @@
       "onboard_time": 1697442334,
       "rank": 12,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 749119,
-      "num": 211262,
-      "word": "Xiaomi HyperOS",
-      "onboard_time": 1697512294,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 749056,
@@ -13539,6 +13539,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 470498,
+      "num": 470498,
+      "word": "藕粉加奶粉等于麻薯是真的吗",
+      "onboard_time": 1697510612,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 470475,
       "num": 470475,
       "word": "王春雨女子800米铜牌",
@@ -13640,6 +13648,14 @@
       "word": "周也公主小妹即视感",
       "onboard_time": 1697106034,
       "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 468652,
+      "num": 468652,
+      "word": "大力女子姜南顺",
+      "onboard_time": 1697512114,
+      "rank": 21,
       "category": "剧集"
     },
     {
@@ -13873,14 +13889,6 @@
       "onboard_time": 1697348494,
       "rank": 14,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 460826,
-      "num": 460826,
-      "word": "藕粉加奶粉等于麻薯是真的吗",
-      "onboard_time": 1697510612,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 460660,
@@ -15571,6 +15579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 413836,
+      "num": 413836,
+      "word": "身份证会被手机消磁吗",
+      "onboard_time": 1697512895,
+      "rank": 15,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 413606,
       "num": 413606,
       "word": "SM年末大促销",
@@ -16593,6 +16609,14 @@
       "onboard_time": 1696507595,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 387022,
+      "num": 387022,
+      "word": "MIUI",
+      "onboard_time": 1697511993,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 386868,
@@ -23073,14 +23097,6 @@
       "onboard_time": 1696733197,
       "rank": 28,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 280647,
-      "num": 280647,
-      "word": "大力女子姜南顺",
-      "onboard_time": 1697512114,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 280581,
@@ -30475,6 +30491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 210100,
+      "num": 210100,
+      "word": "杨紫美拉德机车大片",
+      "onboard_time": 1697513493,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 210088,
       "num": 210088,
       "word": "谭爷爷亲自示范教花花滑滑梯",
@@ -31243,6 +31267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205280,
+      "num": 203661,
+      "word": "南风知我意收官",
+      "onboard_time": 1697512473,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205250,
       "num": 205250,
       "word": "爸爸每天带6岁女儿陆地训练游泳",
@@ -31689,6 +31721,14 @@
       "onboard_time": 1697019576,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 203080,
+      "num": 203080,
+      "word": "于正发文维护赵晴",
+      "onboard_time": 1697513433,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 203074,
@@ -32201,14 +32241,6 @@
       "onboard_time": 1697293538,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 200788,
-      "num": 200788,
-      "word": "MIUI",
-      "onboard_time": 1697511993,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 200729,
@@ -35505,14 +35537,6 @@
       "onboard_time": 1696770459,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 183406,
-      "num": 183406,
-      "word": "南风知我意收官",
-      "onboard_time": 1697512473,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 183384,
@@ -39915,6 +39939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149852,
+      "num": 149852,
+      "word": "研究称抱抱自己可以减轻疼痛",
+      "onboard_time": 1697511393,
+      "rank": 49,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 149833,
       "num": 149833,
       "word": "独家童话分账票房2000万",
@@ -40753,14 +40785,6 @@
       "onboard_time": 1696927116,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141932,
-      "num": 141932,
-      "word": "研究称抱抱自己可以减轻疼痛",
-      "onboard_time": 1697511393,
-      "rank": 49,
-      "category": "知识科普"
     },
     {
       "raw_hot": 141820,
@@ -43803,6 +43827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85068,
+      "num": 203867,
+      "word": "拿到驾照的张颂文",
+      "onboard_time": 1697512353,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85052,
       "num": 635548,
       "word": "5旬大叔用32年守护10万亩青山",
@@ -43921,6 +43953,14 @@
       "onboard_time": 1696461443,
       "rank": 37,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 80760,
+      "num": 312014,
+      "word": "你多久换一次电动牙刷头",
+      "onboard_time": 1697510853,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 80732,
@@ -44267,14 +44307,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 69720,
-      "num": 181447,
-      "word": "拿到驾照的张颂文",
-      "onboard_time": 1697512353,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69706,
       "num": 1351404,
       "word": "中国航天67岁生日快乐",
@@ -44401,14 +44433,6 @@
       "onboard_time": 1697403432,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65289,
-      "num": 312014,
-      "word": "你多久换一次电动牙刷头",
-      "onboard_time": 1697510853,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 64599,

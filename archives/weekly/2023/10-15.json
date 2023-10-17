@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697512658834,
+  "endTime": 1697513650753,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -155,6 +155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 2136613,
+      "num": 1238171,
+      "word": "被狗咬伤女童母亲称已找到涉事黑狗",
+      "onboard_time": 1697511155,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2130164,
       "num": 601726,
       "word": "米村拌饭 魏大勋来吃俺了",
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1697579,
+      "num": 1697579,
+      "word": "iPhone15Pro被曝生产成本523美元",
+      "onboard_time": 1697507794,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1695194,
       "num": 1695194,
       "word": "金鸡奖提名名单",
@@ -313,14 +329,6 @@
       "onboard_time": 1697463394,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1664764,
-      "num": 1664764,
-      "word": "iPhone15Pro被曝生产成本523美元",
-      "onboard_time": 1697507794,
-      "rank": 5,
-      "category": "数码"
     },
     {
       "raw_hot": 1643941,
@@ -515,14 +523,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1238171,
-      "num": 1238171,
-      "word": "被狗咬伤女童母亲称已找到涉事黑狗",
-      "onboard_time": 1697511155,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1219187,
       "num": 1219187,
       "word": "4名小学生发现41年前曾灭绝的甲虫",
@@ -633,6 +633,14 @@
       "onboard_time": 1697466879,
       "rank": 47,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1029653,
+      "num": 1029653,
+      "word": "哈马斯称外国人质是客人将适时释放",
+      "onboard_time": 1697511393,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1028888,
@@ -795,6 +803,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 858223,
+      "num": 211262,
+      "word": "Xiaomi HyperOS",
+      "onboard_time": 1697512294,
+      "rank": 30,
+      "category": "数码"
+    },
+    {
       "raw_hot": 856734,
       "num": 467141,
       "word": "王毅与伊朗外长通电话",
@@ -865,14 +881,6 @@
       "onboard_time": 1697374655,
       "rank": 23,
       "category": "国外要闻,军事"
-    },
-    {
-      "raw_hot": 825305,
-      "num": 738274,
-      "word": "哈马斯称外国人质是客人将适时释放",
-      "onboard_time": 1697511393,
-      "rank": 11,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 816570,
@@ -977,14 +985,6 @@
       "onboard_time": 1697442334,
       "rank": 12,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 749119,
-      "num": 211262,
-      "word": "Xiaomi HyperOS",
-      "onboard_time": 1697512294,
-      "rank": 30,
-      "category": "数码"
     },
     {
       "raw_hot": 741165,
@@ -1819,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 470498,
+      "num": 470498,
+      "word": "藕粉加奶粉等于麻薯是真的吗",
+      "onboard_time": 1697510612,
+      "rank": 15,
+      "category": "美食"
+    },
+    {
       "raw_hot": 469995,
       "num": 469995,
       "word": "支原体肺炎主要症状有2个",
@@ -1833,6 +1841,14 @@
       "onboard_time": 1697504975,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 468652,
+      "num": 468652,
+      "word": "大力女子姜南顺",
+      "onboard_time": 1697512114,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 465505,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1697348494,
       "rank": 14,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 460826,
-      "num": 460826,
-      "word": "藕粉加奶粉等于麻薯是真的吗",
-      "onboard_time": 1697510612,
-      "rank": 15,
-      "category": "美食"
     },
     {
       "raw_hot": 458126,
@@ -2163,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413836,
+      "num": 413836,
+      "word": "身份证会被手机消磁吗",
+      "onboard_time": 1697512895,
+      "rank": 15,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 412830,
       "num": 412830,
       "word": "赵丽颖新妆造",
@@ -2305,6 +2321,14 @@
       "onboard_time": 1697349753,
       "rank": 19,
       "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 387022,
+      "num": 387022,
+      "word": "MIUI",
+      "onboard_time": 1697511993,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 386868,
@@ -3145,14 +3169,6 @@
       "onboard_time": 1697419714,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 280647,
-      "num": 280647,
-      "word": "大力女子姜南顺",
-      "onboard_time": 1697512114,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 279754,
@@ -4099,6 +4115,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 210100,
+      "num": 210100,
+      "word": "杨紫美拉德机车大片",
+      "onboard_time": 1697513493,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 209723,
       "num": 209723,
       "word": "如何用iPhone拍出好看的美食照片",
@@ -4211,6 +4235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205280,
+      "num": 203661,
+      "word": "南风知我意收官",
+      "onboard_time": 1697512473,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204627,
       "num": 204627,
       "word": "X玖R1SE齐聚赵磊北京巡演",
@@ -4305,6 +4337,14 @@
       "onboard_time": 1697338828,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203080,
+      "num": 203080,
+      "word": "于正发文维护赵晴",
+      "onboard_time": 1697513433,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 203071,
@@ -4465,14 +4505,6 @@
       "onboard_time": 1697375856,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 200788,
-      "num": 200788,
-      "word": "MIUI",
-      "onboard_time": 1697511993,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 200656,
@@ -4945,14 +4977,6 @@
       "onboard_time": 1697456432,
       "rank": 31,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 183406,
-      "num": 183406,
-      "word": "南风知我意收官",
-      "onboard_time": 1697512473,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 182839,
@@ -5651,6 +5675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149852,
+      "num": 149852,
+      "word": "研究称抱抱自己可以减轻疼痛",
+      "onboard_time": 1697511393,
+      "rank": 49,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 149745,
       "num": 149745,
       "word": "范丞丞在白敬亭面前演不了一点",
@@ -5785,14 +5817,6 @@
       "onboard_time": 1697376455,
       "rank": 46,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 141932,
-      "num": 141932,
-      "word": "研究称抱抱自己可以减轻疼痛",
-      "onboard_time": 1697511393,
-      "rank": 49,
-      "category": "知识科普"
     },
     {
       "raw_hot": 141322,
@@ -6363,6 +6387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 85068,
+      "num": 203867,
+      "word": "拿到驾照的张颂文",
+      "onboard_time": 1697512353,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82088,
       "num": 82088,
       "word": "女子欲跳桥被遛狗大哥紧紧抱住",
@@ -6377,6 +6409,14 @@
       "onboard_time": 1697479037,
       "rank": 38,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 80760,
+      "num": 312014,
+      "word": "你多久换一次电动牙刷头",
+      "onboard_time": 1697510853,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 77785,
@@ -6401,14 +6441,6 @@
       "onboard_time": 1697402954,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69720,
-      "num": 181447,
-      "word": "拿到驾照的张颂文",
-      "onboard_time": 1697512353,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 68375,
@@ -6441,14 +6473,6 @@
       "onboard_time": 1697403432,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65289,
-      "num": 312014,
-      "word": "你多久换一次电动牙刷头",
-      "onboard_time": 1697510853,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 64599,

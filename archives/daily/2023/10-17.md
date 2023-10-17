@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/17 00:23:37 ~ 2023/10/17 11:17:38
+本榜单时间：2023/10/17 00:23:37 ~ 2023/10/17 11:34:10
 </p>
 </blockquote>
 <p>
@@ -33,8 +33,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%89%BE%E5%88%B0%E6%B6%89%E4%BA%8B%E9%BB%91%E7%8B%97%23" target="weibo">
+被狗咬伤女童母亲称已找到涉事黑狗（热度：2136613）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15Pro%E8%A2%AB%E6%9B%9D%E7%94%9F%E4%BA%A7%E6%88%90%E6%9C%AC523%E7%BE%8E%E5%85%83%23" target="weibo">
-iPhone15Pro被曝生产成本523美元（热度：1664764）
+iPhone15Pro被曝生产成本523美元（热度：1697579）
 </a>
 </li>
 
@@ -75,12 +81,6 @@ iPhone15Pro被曝生产成本523美元（热度：1664764）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E6%AF%8D%E4%BA%B2%E7%A7%B0%E5%B7%B2%E6%89%BE%E5%88%B0%E6%B6%89%E4%BA%8B%E9%BB%91%E7%8B%97%23" target="weibo">
-被狗咬伤女童母亲称已找到涉事黑狗（热度：1238171）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E4%B9%9F%E4%B8%8D%E6%83%B3%E6%8A%B1%E4%BD%A0%E4%B8%AB%E5%A4%B4%E7%AD%94%E5%BA%94%E6%88%91%E5%88%AB%E8%B7%B3%23" target="weibo">
 我也不想抱你丫头答应我别跳（热度：1117226）
 </a>
@@ -89,6 +89,12 @@ iPhone15Pro被曝生产成本523美元（热度：1664764）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%B7%B2%E5%8F%91%E7%8E%B0%E5%92%AC%E4%BA%BA%E9%BB%91%E7%8B%97%E8%A1%8C%E8%B8%AA%23" target="weibo">
 警方已发现咬人黑狗行踪（热度：1039793）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%B4%A8%E6%98%AF%E5%AE%A2%E4%BA%BA%E5%B0%86%E9%80%82%E6%97%B6%E9%87%8A%E6%94%BE%23" target="weibo">
+哈马斯称外国人质是客人将适时释放（热度：1029653）
 </a>
 </li>
 
@@ -111,6 +117,12 @@ iPhone15Pro被曝生产成本523美元（热度：1664764）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Xiaomi%20HyperOS%23" target="weibo">
+Xiaomi HyperOS（热度：858223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%9C%AC%E5%B1%B1%E7%BB%99%E5%BE%92%E5%BC%9F%E8%A1%A5%E8%BF%91%E4%BA%BF%E7%A8%8E%E9%A2%9D%23" target="weibo">
 赵本山给徒弟补近亿税额（热度：851411）
 </a>
@@ -125,18 +137,6 @@ iPhone15Pro被曝生产成本523美元（热度：1664764）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%94%80%E9%87%8F%E5%B7%B2%E8%B6%85%E8%B6%8A%E8%8B%B9%E6%9E%9C%23" target="weibo">
 华为中国销量已超越苹果（热度：835784）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E9%A9%AC%E6%96%AF%E7%A7%B0%E5%A4%96%E5%9B%BD%E4%BA%BA%E8%B4%A8%E6%98%AF%E5%AE%A2%E4%BA%BA%E5%B0%86%E9%80%82%E6%97%B6%E9%87%8A%E6%94%BE%23" target="weibo">
-哈马斯称外国人质是客人将适时释放（热度：825305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Xiaomi%20HyperOS%23" target="weibo">
-Xiaomi HyperOS（热度：749119）
 </a>
 </li>
 
@@ -237,14 +237,20 @@ iPhone15中国首发销量较前代下降4.5%（热度：692831）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%97%95%E7%B2%89%E5%8A%A0%E5%A5%B6%E7%B2%89%E7%AD%89%E4%BA%8E%E9%BA%BB%E8%96%AF%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23" target="weibo">
+藕粉加奶粉等于麻薯是真的吗（热度：470498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E6%9D%BF%E8%A2%AB%E6%83%85%E4%BA%BA%E8%AF%88%E9%AA%972000%E4%B8%87%E8%87%B4%E5%85%AC%E5%8F%B8%E7%A0%B4%E4%BA%A7%23" target="weibo">
 老板被情人诈骗2000万致公司破产（热度：468880）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%97%95%E7%B2%89%E5%8A%A0%E5%A5%B6%E7%B2%89%E7%AD%89%E4%BA%8E%E9%BA%BB%E8%96%AF%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97%23" target="weibo">
-藕粉加奶粉等于麻薯是真的吗（热度：460826）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8A%9B%E5%A5%B3%E5%AD%90%E5%A7%9C%E5%8D%97%E9%A1%BA%23" target="weibo">
+大力女子姜南顺（热度：468652）
 </a>
 </li>
 
@@ -275,6 +281,18 @@ MiuMiu钻石内裤（热度：446940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E5%A3%AE%E7%BE%8E%E7%9A%84%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8%23" target="weibo">
 黑壮美的吉克隽逸（热度：425935）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BC%9A%E8%A2%AB%E6%89%8B%E6%9C%BA%E6%B6%88%E7%A3%81%E5%90%97%23" target="weibo">
+身份证会被手机消磁吗（热度：413836）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23MIUI%23" target="weibo">
+MIUI（热度：387022）
 </a>
 </li>
 
@@ -371,12 +389,6 @@ MiuMiu钻石内裤（热度：446940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%99%B4%E6%BC%94%E6%8A%80%23" target="weibo">
 赵晴演技（热度：283157）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8A%9B%E5%A5%B3%E5%AD%90%E5%A7%9C%E5%8D%97%E9%A1%BA%23" target="weibo">
-大力女子姜南顺（热度：280647）
 </a>
 </li>
 
@@ -525,6 +537,12 @@ MiuMiu钻石内裤（热度：446940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E7%BE%8E%E6%8B%89%E5%BE%B7%E6%9C%BA%E8%BD%A6%E5%A4%A7%E7%89%87%23" target="weibo">
+杨紫美拉德机车大片（热度：210100）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232023%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E7%AC%AC42%E5%91%A8%E6%8E%92%E5%90%8D%23" target="weibo">
 2023国际乒联第42周排名（热度：208898）
 </a>
@@ -533,6 +551,12 @@ MiuMiu钻石内裤（热度：446940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E8%AF%B4%E8%87%AA%E5%B7%B1%E5%BD%95%E8%8A%82%E7%9B%AE%E7%AC%AC%E4%BA%8C%E5%AD%A3%E6%89%8D%E6%89%93%E5%BC%80%23" target="weibo">
 白敬亭说自己录节目第二季才打开（热度：207914）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E6%94%B6%E5%AE%98%23" target="weibo">
+南风知我意收官（热度：205280）
 </a>
 </li>
 
@@ -573,14 +597,14 @@ MiuMiu钻石内裤（热度：446940）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%9D%A0%E8%BF%91%E6%88%91%E4%B8%80%E7%82%B9%E5%AE%9A%E6%A1%A3%23" target="weibo">
-电影靠近我一点定档（热度：201592）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E5%8F%91%E6%96%87%E7%BB%B4%E6%8A%A4%E8%B5%B5%E6%99%B4%23" target="weibo">
+于正发文维护赵晴（热度：203080）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23MIUI%23" target="weibo">
-MIUI（热度：200788）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E9%9D%A0%E8%BF%91%E6%88%91%E4%B8%80%E7%82%B9%E5%AE%9A%E6%A1%A3%23" target="weibo">
+电影靠近我一点定档（热度：201592）
 </a>
 </li>
 
@@ -635,12 +659,6 @@ MIUI（热度：200788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%BE%E8%83%83%E8%99%9A%E5%90%83%E8%BF%99%E5%85%AB%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
 脾胃虚吃这八种食物（热度：184120）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%A3%8E%E7%9F%A5%E6%88%91%E6%84%8F%E6%94%B6%E5%AE%98%23" target="weibo">
-南风知我意收官（热度：183406）
 </a>
 </li>
 
@@ -711,14 +729,14 @@ MIUI（热度：200788）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%BA%E4%BA%A7%E5%A6%87%E6%90%AD%E8%B5%B7%E4%B8%B4%E6%97%B6%E4%BA%A7%E6%88%BF%23" target="weibo">
-民警为产妇搭起临时产房（热度：144244）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%8A%B1%E6%8A%B1%E8%87%AA%E5%B7%B1%E5%8F%AF%E4%BB%A5%E5%87%8F%E8%BD%BB%E7%96%BC%E7%97%9B%23" target="weibo">
+研究称抱抱自己可以减轻疼痛（热度：149852）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%8A%B1%E6%8A%B1%E8%87%AA%E5%B7%B1%E5%8F%AF%E4%BB%A5%E5%87%8F%E8%BD%BB%E7%96%BC%E7%97%9B%23" target="weibo">
-研究称抱抱自己可以减轻疼痛（热度：141932）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E4%B8%BA%E4%BA%A7%E5%A6%87%E6%90%AD%E8%B5%B7%E4%B8%B4%E6%97%B6%E4%BA%A7%E6%88%BF%23" target="weibo">
+民警为产妇搭起临时产房（热度：144244）
 </a>
 </li>
 
@@ -855,6 +873,12 @@ MIUI（热度：200788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E5%88%B0%E9%A9%BE%E7%85%A7%E7%9A%84%E5%BC%A0%E9%A2%82%E6%96%87%23" target="weibo">
+拿到驾照的张颂文（热度：85068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%AC%B2%E8%B7%B3%E6%A1%A5%E8%A2%AB%E9%81%9B%E7%8B%97%E5%A4%A7%E5%93%A5%E7%B4%A7%E7%B4%A7%E6%8A%B1%E4%BD%8F%23" target="weibo">
 女子欲跳桥被遛狗大哥紧紧抱住（热度：82088）
 </a>
@@ -873,20 +897,14 @@ MIUI（热度：200788）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%BF%E5%88%B0%E9%A9%BE%E7%85%A7%E7%9A%84%E5%BC%A0%E9%A2%82%E6%96%87%23" target="weibo">
-拿到驾照的张颂文（热度：69720）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A4%9A%E4%B9%85%E6%8D%A2%E4%B8%80%E6%AC%A1%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%E5%A4%B4%23" target="weibo">
+你多久换一次电动牙刷头（热度：80760）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%BF%E7%9D%80%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%8E%BB%E6%97%85%E8%A1%8C%23" target="weibo">
 沿着一带一路去旅行（热度：65783）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%A4%9A%E4%B9%85%E6%8D%A2%E4%B8%80%E6%AC%A1%E7%94%B5%E5%8A%A8%E7%89%99%E5%88%B7%E5%A4%B4%23" target="weibo">
-你多久换一次电动牙刷头（热度：65289）
 </a>
 </li>
 
