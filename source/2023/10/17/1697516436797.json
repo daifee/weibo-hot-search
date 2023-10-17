@@ -1,0 +1,410 @@
+{
+  "runTime": 1697516436797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1835271,
+        "num": 1835271,
+        "word": "身份证会被手机消磁吗",
+        "onboard_time": 1697512895,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1168293,
+        "num": 1168293,
+        "word": "阿奇霉素",
+        "onboard_time": 1697502337,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 99240,
+        "num": 1034607,
+        "word": "手账版一带一路知识点",
+        "onboard_time": 1697502578,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1217096,
+        "num": 995536,
+        "word": "iPhone15Pro被曝生产成本523美元",
+        "onboard_time": 1697507794,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 946185,
+        "num": 946185,
+        "word": "长相思",
+        "onboard_time": 1697514094,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 862189,
+        "num": 862189,
+        "word": "哈马斯称外国人质是客人将适时释放",
+        "onboard_time": 1697511393,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 835511,
+        "num": 835511,
+        "word": "普京总统抵达北京",
+        "onboard_time": 1697506354,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 2103280,
+        "num": 768336,
+        "word": "被狗咬伤女童母亲称已找到涉事黑狗",
+        "onboard_time": 1697511155,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630705,
+        "num": 630705,
+        "word": "第一次看男女主整部剧都在种田的",
+        "onboard_time": 1697503476,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 445781,
+        "num": 445781,
+        "word": "长相思全员相思不如相见",
+        "onboard_time": 1697515476,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434322,
+        "num": 434322,
+        "word": "小米澎湃OS",
+        "onboard_time": 1697514094,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 879014,
+        "num": 433118,
+        "word": "江映蓉 偶遇苹果CEO库克",
+        "onboard_time": 1697511155,
+        "rank": 11,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 672954,
+        "num": 429940,
+        "word": "杨紫时尚资源",
+        "onboard_time": 1697515897,
+        "rank": 12,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 504478,
+        "num": 426179,
+        "word": "花瓣支付不对标微信支付支付宝",
+        "onboard_time": 1697514815,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 828868,
+        "num": 422365,
+        "word": "撕咬两岁女童涉事狗主人尚未现身",
+        "onboard_time": 1697513794,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 487015,
+        "num": 418661,
+        "word": "于正发文维护赵晴",
+        "onboard_time": 1697513433,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 418567,
+        "num": 418567,
+        "word": "拉布拉多未咬人已被主人领回",
+        "onboard_time": 1697469217,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412232,
+        "num": 412232,
+        "word": "华为中国销量已超越苹果",
+        "onboard_time": 1697509232,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 411456,
+        "num": 411456,
+        "word": "藕粉加奶粉等于麻薯是真的吗",
+        "onboard_time": 1697510612,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 388816,
+        "num": 388816,
+        "word": "光遇 道袍复刻",
+        "onboard_time": 1697516259,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1120485,
+        "num": 385241,
+        "word": "男子不想结婚偷下堕胎药致女友流产",
+        "onboard_time": 1697514094,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639513,
+        "num": 381481,
+        "word": "高校回应网红教师被指私生活混乱",
+        "onboard_time": 1697505874,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373809,
+        "num": 373809,
+        "word": "大力女子姜南顺",
+        "onboard_time": 1697512114,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 373774,
+        "num": 373774,
+        "word": "花儿认出杨阿姨",
+        "onboard_time": 1697514514,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323345,
+        "num": 323345,
+        "word": "狗和主人必须尽快绳之以法",
+        "onboard_time": 1697503059,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320400,
+        "num": 320400,
+        "word": "沈腾收官照",
+        "onboard_time": 1697514514,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303180,
+        "num": 303180,
+        "word": "杨紫美拉德机车大片",
+        "onboard_time": 1697513493,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 275094,
+        "num": 275094,
+        "word": "高中同学车祸失忆全班守护18年",
+        "onboard_time": 1697515776,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208987,
+        "num": 272238,
+        "word": "我也不想抱你丫头答应我别跳",
+        "onboard_time": 1697510733,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195019,
+        "num": 270351,
+        "word": "一带一路高峰论坛",
+        "onboard_time": 1697516017,
+        "rank": 29,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 283717,
+        "num": 268753,
+        "word": "杨超越 我和天空一样蓝",
+        "onboard_time": 1697514874,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 630688,
+        "num": 263710,
+        "word": "雷军称小米澎湃OS将逐步接替MIUI",
+        "onboard_time": 1697511573,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303272,
+        "num": 260942,
+        "word": "知情人称哈马斯被消灭前以色列不考虑停火",
+        "onboard_time": 1697504738,
+        "rank": 32,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 285216,
+        "num": 259098,
+        "word": "虞书欣THE9演唱会粉丝应援",
+        "onboard_time": 1697515175,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257155,
+        "num": 257155,
+        "word": "火箭马刺冲突",
+        "onboard_time": 1697515296,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222631,
+        "num": 222631,
+        "word": "曾舜晞关注田曦薇微博",
+        "onboard_time": 1697515836,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207237,
+        "num": 207237,
+        "word": "赵本山给徒弟补近亿税额",
+        "onboard_time": 1697463394,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201462,
+        "num": 201462,
+        "word": "小米",
+        "onboard_time": 1697515717,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 201435,
+        "num": 201435,
+        "word": "被狗咬伤女童已转华西医院治疗",
+        "onboard_time": 1697508215,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193613,
+        "num": 193613,
+        "word": "理想MEGA",
+        "onboard_time": 1697510853,
+        "rank": 39,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 190729,
+        "num": 190729,
+        "word": "以色列",
+        "onboard_time": 1697504137,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 171551,
+        "num": 171551,
+        "word": "华浅捧脸杀",
+        "onboard_time": 1697515596,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170051,
+        "num": 170051,
+        "word": "朱一龙回应未获金鸡奖提名",
+        "onboard_time": 1697506772,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165706,
+        "num": 165706,
+        "word": "腾讯NBA新赛季阵容",
+        "onboard_time": 1697515657,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207408,
+        "num": 165292,
+        "word": "以军称在空袭行动中打死一哈马斯高级领导人",
+        "onboard_time": 1697500898,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 160281,
+        "num": 160281,
+        "word": "考研学子路灯下扎堆背书未来可期",
+        "onboard_time": 1697516380,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358073,
+        "num": 160174,
+        "word": "MIUI",
+        "onboard_time": 1697511993,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159955,
+        "num": 159955,
+        "word": "哥哥冲过来一把扯开捂住妹妹的被子",
+        "onboard_time": 1697499627,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159144,
+        "num": 159144,
+        "word": "我们的歌B组阵容",
+        "onboard_time": 1697514934,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151038,
+        "num": 151038,
+        "word": "虞书欣重新跳了yesok",
+        "onboard_time": 1697501915,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平将出席一带一路国际合作高峰论坛开幕式#"
+    }
+  }
+}
