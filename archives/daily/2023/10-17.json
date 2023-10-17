@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697549643081,
+  "endTime": 1697552202879,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -25,6 +25,14 @@
       "onboard_time": 1697534560,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2976357,
+      "num": 904364,
+      "word": "长相思晚会 尴尬",
+      "onboard_time": 1697549439,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 2867632,
@@ -153,6 +161,14 @@
       "onboard_time": 1697534976,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1722391,
+      "num": 837878,
+      "word": "檀健次到了",
+      "onboard_time": 1697551480,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 1697579,
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1056333,
+      "num": 1056333,
+      "word": "郭艾伦 我腿完蛋了",
+      "onboard_time": 1697549801,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1040757,
       "num": 1040757,
       "word": "张若昀庆余年2杀青",
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 913004,
-      "num": 418837,
+      "num": 509761,
       "word": "咬伤女童罗威纳犬打过狂犬疫苗",
       "onboard_time": 1697539539,
       "rank": 16,
@@ -443,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 845075,
+      "num": 845075,
+      "word": "2024湖南卫视跨年演唱会名单",
+      "onboard_time": 1697550223,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 835784,
       "num": 835784,
       "word": "华为中国销量已超越苹果",
@@ -481,6 +513,22 @@
       "onboard_time": 1697530174,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794969,
+      "num": 516234,
+      "word": "重庆明确规定禁养32种犬只",
+      "onboard_time": 1697550520,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 789362,
+      "num": 501563,
+      "word": "广告公司向车主和吴磊道歉",
+      "onboard_time": 1697549921,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 783602,
@@ -723,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580576,
+      "num": 580576,
+      "word": "iPad eSIM",
+      "onboard_time": 1697551118,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 580198,
       "num": 539580,
       "word": "金晨左手喂狗右手喂自己",
@@ -820,11 +876,19 @@
     },
     {
       "raw_hot": 505108,
-      "num": 350198,
+      "num": 351990,
       "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
       "onboard_time": 1697536777,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 500624,
+      "num": 500624,
+      "word": "天官赐福花城谢怜双人海报",
+      "onboard_time": 1697549258,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 493879,
@@ -1115,6 +1179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 356912,
+      "num": 347194,
+      "word": "成都大狗咬伤女童所在小区业主发声",
+      "onboard_time": 1697543614,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355578,
       "num": 355578,
       "word": "吴尊一家和周杰伦合影",
@@ -1129,14 +1201,6 @@
       "onboard_time": 1697524294,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347194,
-      "num": 347194,
-      "word": "成都大狗咬伤女童所在小区业主发声",
-      "onboard_time": 1697543614,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342947,
@@ -1244,7 +1308,7 @@
     },
     {
       "raw_hot": 327183,
-      "num": 227443,
+      "num": 243842,
       "word": "被黄凯的实习日记鼓舞到了",
       "onboard_time": 1697548298,
       "rank": 32,
@@ -1268,7 +1332,7 @@
     },
     {
       "raw_hot": 321331,
-      "num": 218431,
+      "num": 307112,
       "word": "韩国人想跟法国人交朋友的原因",
       "onboard_time": 1697548718,
       "rank": 44,
@@ -1315,11 +1379,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 315781,
+      "num": 315781,
+      "word": "梁崴把陈律整不会了",
+      "onboard_time": 1697551423,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 314591,
       "num": 314591,
       "word": "猫猫被恶魔附身后有多坏",
       "onboard_time": 1697504254,
       "rank": 30,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 313311,
+      "num": 313311,
+      "word": "天官赐福",
+      "onboard_time": 1697548718,
+      "rank": 38,
       "category": "动漫"
     },
     {
@@ -1384,14 +1464,6 @@
       "word": "周筱风官宣恋情",
       "onboard_time": 1697464897,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 294854,
-      "num": 294854,
-      "word": "长相思晚会 尴尬",
-      "onboard_time": 1697549439,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -1489,14 +1561,6 @@
       "onboard_time": 1697466578,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 273783,
-      "num": 273783,
-      "word": "天官赐福",
-      "onboard_time": 1697548718,
-      "rank": 38,
-      "category": "动漫"
     },
     {
       "raw_hot": 271764,
@@ -1657,14 +1721,6 @@
       "onboard_time": 1697504075,
       "rank": 34,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 251771,
-      "num": 215532,
-      "word": "天官赐福花城谢怜双人海报",
-      "onboard_time": 1697549258,
-      "rank": 32,
-      "category": "动漫"
     },
     {
       "raw_hot": 248689,
@@ -1884,7 +1940,7 @@
     },
     {
       "raw_hot": 211783,
-      "num": 207864,
+      "num": 210890,
       "word": "黄凯证明了励志故事实现的可能性",
       "onboard_time": 1697543734,
       "rank": 32,
@@ -2035,6 +2091,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 199109,
+      "num": 199109,
+      "word": "方筱然操不完的心",
+      "onboard_time": 1697551964,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198086,
       "num": 198086,
       "word": "猫咪也是第一次当妈妈",
@@ -2169,6 +2233,14 @@
       "onboard_time": 1697520093,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189606,
+      "num": 189606,
+      "word": "问心医学细节",
+      "onboard_time": 1697549140,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 189508,
@@ -2315,14 +2387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175294,
-      "num": 175294,
-      "word": "问心医学细节",
-      "onboard_time": 1697549140,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 174819,
       "num": 174819,
       "word": "盲人女孩摸到了刘洋姐姐身上的勋章",
@@ -2377,6 +2441,14 @@
       "onboard_time": 1697526153,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169049,
+      "num": 169049,
+      "word": "联合国称以色列可能构成国际犯罪",
+      "onboard_time": 1697551784,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 168522,
@@ -2675,6 +2747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114017,
+      "num": 1101869,
+      "word": "8组数字看懂一带一路",
+      "onboard_time": 1697548360,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 111678,
       "num": 111678,
       "word": "两大型犬撕咬2岁半女童致严重受伤",
@@ -2873,14 +2953,6 @@
       "onboard_time": 1697464174,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 56869,
-      "num": 1101869,
-      "word": "8组数字看懂一带一路",
-      "onboard_time": 1697548360,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 54160,
