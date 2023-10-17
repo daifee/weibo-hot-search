@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697524601119,
+  "endTime": 1697526969191,
   "band_list": [
     {
       "raw_hot": 3303661,
@@ -131,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1212285,
+      "num": 433792,
+      "word": "罗翔谈狗咬伤他人狗主是否犯罪",
+      "onboard_time": 1697523213,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1177729,
       "num": 401263,
       "word": "男子不想结婚偷下堕胎药致女友流产",
@@ -139,12 +147,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1128645,
+      "num": 884464,
+      "word": "朴灿烈吴世勋签约新公司",
+      "onboard_time": 1697524593,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1117226,
       "num": 1117226,
       "word": "我也不想抱你丫头答应我别跳",
       "onboard_time": 1697510733,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1110132,
+      "num": 1110132,
+      "word": "关晓彤怎么做到不笑场的",
+      "onboard_time": 1697521175,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 1040757,
@@ -169,14 +193,6 @@
       "onboard_time": 1697511393,
       "rank": 11,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1027273,
-      "num": 376107,
-      "word": "罗翔谈狗咬伤他人狗主是否犯罪",
-      "onboard_time": 1697523213,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1014363,
@@ -267,6 +283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 780320,
+      "num": 780320,
+      "word": "这种隔夜水最好别喝",
+      "onboard_time": 1697523511,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 779191,
       "num": 278209,
       "word": "张元英和富江",
@@ -281,6 +305,14 @@
       "onboard_time": 1697514815,
       "rank": 13,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 741885,
+      "num": 741885,
+      "word": "桂花烤奶",
+      "onboard_time": 1697523511,
+      "rank": 34,
+      "category": "美食"
     },
     {
       "raw_hot": 741165,
@@ -339,12 +371,28 @@
       "category": "数码"
     },
     {
-      "raw_hot": 678194,
-      "num": 678194,
-      "word": "关晓彤怎么做到不笑场的",
-      "onboard_time": 1697521175,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 692812,
+      "num": 428535,
+      "word": "讯飞员工因提前一小时抢老乡鸡免费餐被罚",
+      "onboard_time": 1697525193,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 689577,
+      "num": 231296,
+      "word": "爸妈被我三千块的工资震惊到了",
+      "onboard_time": 1697526093,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 685338,
+      "num": 421632,
+      "word": "医生建议被恶犬撕咬女童保守治疗",
+      "onboard_time": 1697526273,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663507,
@@ -403,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 591777,
+      "num": 591777,
+      "word": "庆余年",
+      "onboard_time": 1697524415,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 582278,
+      "num": 344750,
+      "word": "四川被咬女童20多处咬伤",
+      "onboard_time": 1697523752,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 581668,
       "num": 581668,
       "word": "为有暗香来 男主是谁",
@@ -425,22 +489,6 @@
       "onboard_time": 1697501915,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 551680,
-      "num": 344750,
-      "word": "四川被咬女童20多处咬伤",
-      "onboard_time": 1697523752,
-      "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 537120,
-      "num": 537120,
-      "word": "这种隔夜水最好别喝",
-      "onboard_time": 1697523511,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 527554,
@@ -547,14 +595,6 @@
       "category": "时尚,网红"
     },
     {
-      "raw_hot": 444208,
-      "num": 392747,
-      "word": "桂花烤奶",
-      "onboard_time": 1697523511,
-      "rank": 34,
-      "category": "美食"
-    },
-    {
       "raw_hot": 434322,
       "num": 598779,
       "word": "小米澎湃OS",
@@ -577,6 +617,14 @@
       "onboard_time": 1697499388,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425917,
+      "num": 425917,
+      "word": "狐妖小红娘 四顾门遗址",
+      "onboard_time": 1697524531,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 418487,
@@ -761,6 +809,14 @@
       "onboard_time": 1697513493,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 301318,
+      "num": 224100,
+      "word": "董洁都演李昀锐的妈了",
+      "onboard_time": 1697524232,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 296172,
@@ -1035,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231455,
+      "num": 231455,
+      "word": "迪丽热巴白金霓光鱼尾裙",
+      "onboard_time": 1697526393,
+      "rank": 19,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 229907,
       "num": 229907,
       "word": "金鸡奖提名名单背后的女演员困境",
@@ -1057,14 +1121,6 @@
       "onboard_time": 1697466218,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 224100,
-      "num": 224100,
-      "word": "董洁都演李昀锐的妈了",
-      "onboard_time": 1697524232,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 222631,
@@ -1097,14 +1153,6 @@
       "onboard_time": 1697503417,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 210847,
-      "num": 210847,
-      "word": "庆余年",
-      "onboard_time": 1697524415,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 210813,
@@ -1219,6 +1267,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 196214,
+      "num": 196214,
+      "word": "想看庆余年2的心达到顶峰",
+      "onboard_time": 1697525853,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195199,
       "num": 231572,
       "word": "南海归墟预约量破200万",
@@ -1267,12 +1323,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 191259,
-      "num": 191259,
+      "raw_hot": 192827,
+      "num": 192827,
+      "word": "英雄联盟S13",
+      "onboard_time": 1697525791,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 192037,
+      "num": 192037,
       "word": "邓为长相思线下应援",
       "onboard_time": 1697524232,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190845,
+      "num": 190845,
+      "word": "王一博漫步巴黎街头vlog",
+      "onboard_time": 1697526093,
+      "rank": 32,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 189639,
@@ -1395,6 +1467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170226,
+      "num": 170226,
+      "word": "书荒恐惧症",
+      "onboard_time": 1697525973,
+      "rank": 37,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 169826,
       "num": 169826,
       "word": "消防队员在地上爬行用身体当担架",
@@ -1409,6 +1489,14 @@
       "onboard_time": 1697520633,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169749,
+      "num": 169749,
+      "word": "该不该对伤人大狗的主人顶格处罚",
+      "onboard_time": 1697526153,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168522,
@@ -1475,6 +1563,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151552,
+      "num": 151552,
+      "word": "外卖小哥下水救人后马上去送餐",
+      "onboard_time": 1697526755,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 149852,
       "num": 149852,
       "word": "研究称抱抱自己可以减轻疼痛",
@@ -1491,12 +1587,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 143855,
-      "num": 143855,
-      "word": "狐妖小红娘 四顾门遗址",
-      "onboard_time": 1697524531,
+      "raw_hot": 143171,
+      "num": 143171,
+      "word": "盲人女孩摸到了刘洋姐姐身上的勋章",
+      "onboard_time": 1697526934,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132984,
+      "num": 132984,
+      "word": "小狗被困水池警校生下水帮抱上岸",
+      "onboard_time": 1697525493,
       "rank": 48,
-      "category": "剧集"
+      "category": "社会正能量"
     },
     {
       "raw_hot": 128907,
