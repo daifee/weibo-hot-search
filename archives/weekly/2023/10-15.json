@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697526969191,
+  "endTime": 1697528053353,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -241,6 +241,14 @@
       "onboard_time": 1697427334,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 1911398,
+      "num": 680431,
+      "word": "医生建议被恶犬撕咬女童保守治疗",
+      "onboard_time": 1697526273,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1910803,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 1212285,
-      "num": 433792,
+      "num": 444030,
       "word": "罗翔谈狗咬伤他人狗主是否犯罪",
       "onboard_time": 1697523213,
       "rank": 16,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 1128645,
-      "num": 884464,
+      "num": 984727,
       "word": "朴灿烈吴世勋签约新公司",
       "onboard_time": 1697524593,
       "rank": 3,
@@ -729,6 +737,14 @@
       "onboard_time": 1697374895,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1024989,
+      "num": 1024989,
+      "word": "薛之谦他不红那我也不该红",
+      "onboard_time": 1697527474,
+      "rank": 1,
+      "category": "音乐"
     },
     {
       "raw_hot": 1014363,
@@ -1011,6 +1027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 805226,
+      "num": 805226,
+      "word": "讯飞员工因提前一小时抢老乡鸡免费餐被罚",
+      "onboard_time": 1697525193,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 802739,
       "num": 802739,
       "word": "周筱风官宣恋情",
@@ -1033,6 +1057,14 @@
       "onboard_time": 1697416594,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 783602,
+      "num": 261349,
+      "word": "爸妈被我三千块的工资震惊到了",
+      "onboard_time": 1697526093,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 783449,
@@ -1091,6 +1123,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 773237,
+      "num": 773237,
+      "word": "桂花烤奶",
+      "onboard_time": 1697523511,
+      "rank": 34,
+      "category": "美食"
+    },
+    {
       "raw_hot": 772695,
       "num": 535793,
       "word": "纪宝贝去世",
@@ -1121,14 +1161,6 @@
       "onboard_time": 1697442334,
       "rank": 12,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 741885,
-      "num": 741885,
-      "word": "桂花烤奶",
-      "onboard_time": 1697523511,
-      "rank": 34,
-      "category": "美食"
     },
     {
       "raw_hot": 741165,
@@ -1227,28 +1259,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 692812,
-      "num": 428535,
-      "word": "讯飞员工因提前一小时抢老乡鸡免费餐被罚",
-      "onboard_time": 1697525193,
-      "rank": 11,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 692025,
       "num": 692025,
       "word": "赵露思有你在首唱",
       "onboard_time": 1697381077,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 689577,
-      "num": 231296,
-      "word": "爸妈被我三千块的工资震惊到了",
-      "onboard_time": 1697526093,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 686649,
@@ -1259,20 +1275,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 685338,
-      "num": 421632,
-      "word": "医生建议被恶犬撕咬女童保守治疗",
-      "onboard_time": 1697526273,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 680875,
       "num": 402733,
       "word": "直接问到沈月本人了",
       "onboard_time": 1697441735,
       "rank": 10,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 680294,
+      "num": 680294,
+      "word": "庆余年",
+      "onboard_time": 1697524415,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 677476,
@@ -1497,14 +1513,6 @@
       "onboard_time": 1697329230,
       "rank": 13,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 591777,
-      "num": 591777,
-      "word": "庆余年",
-      "onboard_time": 1697524415,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 587692,
@@ -2947,6 +2955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 342947,
+      "num": 260524,
+      "word": "庆余年王启年女儿",
+      "onboard_time": 1697527893,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342572,
       "num": 342572,
       "word": "别让迪丽热巴看到这个牌",
@@ -3707,6 +3723,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 267680,
+      "num": 267680,
+      "word": "第一次见要求魔改的剧",
+      "onboard_time": 1697527234,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267253,
       "num": 267253,
       "word": "老人球场疑突发心梗万幸3名球友是医护",
@@ -3849,6 +3873,14 @@
       "onboard_time": 1697365712,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 257774,
+      "num": 257774,
+      "word": "迪丽热巴白金霓光鱼尾裙",
+      "onboard_time": 1697526393,
+      "rank": 19,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 257249,
@@ -4244,7 +4276,7 @@
     },
     {
       "raw_hot": 233313,
-      "num": 251625,
+      "num": 267386,
       "word": "浙江警察学院学生的家长拍拍拍拍拍",
       "onboard_time": 1697519974,
       "rank": 28,
@@ -4289,14 +4321,6 @@
       "onboard_time": 1697458294,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 231455,
-      "num": 231455,
-      "word": "迪丽热巴白金霓光鱼尾裙",
-      "onboard_time": 1697526393,
-      "rank": 19,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 230570,
@@ -4361,6 +4385,14 @@
       "onboard_time": 1697450493,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 227657,
+      "num": 227657,
+      "word": "林宥嘉重庆抢票",
+      "onboard_time": 1697527714,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 226812,
@@ -4939,6 +4971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 201137,
+      "num": 201137,
+      "word": "英雄联盟S13",
+      "onboard_time": 1697525791,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201132,
       "num": 201132,
       "word": "谷村新司 化作天上的星",
@@ -5249,14 +5289,6 @@
       "onboard_time": 1697518779,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 192827,
-      "num": 192827,
-      "word": "英雄联盟S13",
-      "onboard_time": 1697525791,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 192813,
@@ -5763,6 +5795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174819,
+      "num": 174819,
+      "word": "盲人女孩摸到了刘洋姐姐身上的勋章",
+      "onboard_time": 1697526934,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174671,
       "num": 174671,
       "word": "辍学小伙攒2000元返校实现歌手梦",
@@ -6171,6 +6211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155482,
+      "num": 155482,
+      "word": "梦想未来音乐节",
+      "onboard_time": 1697527893,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 155363,
       "num": 155363,
       "word": "周雨彤下台走错方向",
@@ -6363,6 +6411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 146911,
+      "num": 146911,
+      "word": "为什么总说有困难就找人民警察",
+      "onboard_time": 1697527534,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 146880,
       "num": 146880,
       "word": "PSG对战BDS",
@@ -6433,14 +6489,6 @@
       "onboard_time": 1697376455,
       "rank": 46,
       "category": "社会新闻,旅游"
-    },
-    {
-      "raw_hot": 143171,
-      "num": 143171,
-      "word": "盲人女孩摸到了刘洋姐姐身上的勋章",
-      "onboard_time": 1697526934,
-      "rank": 46,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 141322,
@@ -6817,6 +6865,14 @@
       "onboard_time": 1697436094,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 113238,
+      "num": 163893,
+      "word": "外国网友建议为双十一申遗",
+      "onboard_time": 1697527593,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112821,
@@ -7368,6 +7424,14 @@
       "word": "无人驾驶汽车飞过金鸡湖上空",
       "onboard_time": 1697480056,
       "rank": 49,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 20265,
+      "num": 986242,
+      "word": "在太空改论文的导师快回来了",
+      "onboard_time": 1697513674,
+      "rank": 2,
       "category": "科技"
     },
     {

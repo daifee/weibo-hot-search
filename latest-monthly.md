@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 15:16:09
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/17 15:34:13
 </p>
 </blockquote>
 <p>
@@ -1319,6 +1319,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2%E6%8B%BC%E5%88%B0%E6%8A%BD%E7%AD%8B%23" target="weibo">
 陈雨菲拼到抽筋（热度：1912282）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E5%BB%BA%E8%AE%AE%E8%A2%AB%E6%81%B6%E7%8A%AC%E6%92%95%E5%92%AC%E5%A5%B3%E7%AB%A5%E4%BF%9D%E5%AE%88%E6%B2%BB%E7%96%97%23" target="weibo">
+医生建议被恶犬撕咬女童保守治疗（热度：1911398）
 </a>
 </li>
 
@@ -3741,6 +3747,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E4%BB%96%E4%B8%8D%E7%BA%A2%E9%82%A3%E6%88%91%E4%B9%9F%E4%B8%8D%E8%AF%A5%E7%BA%A2%23" target="weibo">
+薛之谦他不红那我也不该红（热度：1024989）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E8%B6%B3%E4%BA%9A%E8%BF%90%E9%98%9Fvs%E9%9F%A9%E5%9B%BD%23" target="weibo">
 国足亚运队vs韩国（热度：1020742）
 </a>
@@ -5181,6 +5193,12 @@ THE9演唱会抢票（热度：807449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%AF%E9%A3%9E%E5%91%98%E5%B7%A5%E5%9B%A0%E6%8F%90%E5%89%8D%E4%B8%80%E5%B0%8F%E6%97%B6%E6%8A%A2%E8%80%81%E4%B9%A1%E9%B8%A1%E5%85%8D%E8%B4%B9%E9%A4%90%E8%A2%AB%E7%BD%9A%23" target="weibo">
+讯飞员工因提前一小时抢老乡鸡免费餐被罚（热度：805226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%8A%23" target="weibo">
 多囊（热度：805071）
 </a>
@@ -5433,6 +5451,12 @@ Jennie巴黎时装周（热度：789463）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E8%A2%AB%E6%88%91%E4%B8%89%E5%8D%83%E5%9D%97%E7%9A%84%E5%B7%A5%E8%B5%84%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
+爸妈被我三千块的工资震惊到了（热度：783602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%8B%8D%E5%88%B0%E4%B8%80%E5%8D%8A%E6%B5%B7%E6%B0%B4%E4%B8%80%E5%8D%8A%E6%B2%99%E6%BC%A0%23" target="weibo">
 在飞机上拍到一半海水一半沙漠（热度：783449）
 </a>
@@ -5525,6 +5549,12 @@ Jennie巴黎时装周（热度：789463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%90%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%E6%99%8B%E7%BA%A7%23" target="weibo">
 冯琳主持人大赛第一名晋级（热度：773440）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E8%8A%B1%E7%83%A4%E5%A5%B6%23" target="weibo">
+桂花烤奶（热度：773237）
 </a>
 </li>
 
@@ -5793,12 +5823,6 @@ pdf写罪状录（热度：749818）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E8%8A%B1%E7%83%A4%E5%A5%B6%23" target="weibo">
-桂花烤奶（热度：741885）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23IVE%E6%9D%8E%E7%91%9E%E5%9C%A8%E7%BF%B0%E6%9E%97%E9%AB%98%E4%B8%AD%E8%A2%AB%E9%AA%9A%E6%89%B0%23" target="weibo">
 IVE李瑞在翰林高中被骚扰（热度：741165）
 </a>
@@ -5987,30 +6011,6 @@ VOGUE评选巴黎时装周最时尚明星（热度：731565）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%8E%E4%B9%88%E5%B0%B16%E5%8F%B7%E4%BA%86%23" target="weibo">
 怎么就6号了（热度：723855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E8%BF%99%E5%A5%97%E5%9B%BE%E7%94%A8%E5%9C%A8%E4%BB%8A%E5%A4%A9%E5%A4%AA%E5%90%88%E9%80%82%E4%BA%86%23" target="weibo">
-杨幂这套图用在今天太合适了（热度：722671）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%A5%B3%E5%BE%97%E7%9F%A5%E8%81%8A%E5%A4%A9%E6%A1%86%E6%98%AF%E7%BD%AE%E9%A1%B6%E6%97%B6%E7%88%B7%E7%88%B7%E5%B7%B2%E7%97%85%E9%80%9D%23" target="weibo">
-孙女得知聊天框是置顶时爷爷已病逝（热度：720340）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%B2%99%E7%8E%B0%E6%9C%89%E4%BE%9B%E5%BA%94%E5%8F%AA%E8%83%BD%E7%BB%B4%E6%8C%8124%E4%B8%AA%E5%B0%8F%E6%97%B6%23" target="weibo">
-加沙现有供应只能维持24个小时（热度：718880）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%9B%92%E6%9C%88%E9%A5%BC%E4%B8%8B%E5%8E%BB%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%97%A0%E4%BA%BA%E7%94%9F%E8%BF%98%23" target="weibo">
-一盒月饼下去办公室无人生还（热度：718488）
 </a>
 </li>
 
