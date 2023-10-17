@@ -1,0 +1,410 @@
+{
+  "runTime": 1697505165723,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2216420,
+        "num": 2216420,
+        "word": "阿奇霉素",
+        "onboard_time": 1697502337,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1408722,
+        "num": 1408722,
+        "word": "我国超3亿人遭受慢性疼痛",
+        "onboard_time": 1697497824,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65783,
+        "num": 876078,
+        "word": "沿着一带一路去旅行",
+        "onboard_time": 1697464056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 825881,
+        "num": 825881,
+        "word": "为什么粉色要贵这么多",
+        "onboard_time": 1697465736,
+        "rank": 3,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 718880,
+        "num": 718880,
+        "word": "加沙现有供应只能维持24个小时",
+        "onboard_time": 1697501557,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1582280,
+        "num": 716053,
+        "word": "以军称在空袭行动中打死一哈马斯高级领导人",
+        "onboard_time": 1697500898,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 692831,
+        "num": 692831,
+        "word": "iPhone15中国首发销量较前代下降4.5%",
+        "onboard_time": 1697502937,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 572619,
+        "num": 572619,
+        "word": "为有暗香来 男主是谁",
+        "onboard_time": 1697469637,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 527554,
+        "num": 527554,
+        "word": "范丞丞问孟子义和郭麒麟是不是真的",
+        "onboard_time": 1697503059,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 514691,
+        "num": 514691,
+        "word": "人民网评2岁女童被恶犬咬伤",
+        "onboard_time": 1697472510,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1325567,
+        "num": 514689,
+        "word": "拉布拉多未咬人已被主人领回",
+        "onboard_time": 1697469217,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847778,
+        "num": 514441,
+        "word": "最近的周冬雨",
+        "onboard_time": 1697502816,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 803676,
+        "num": 513975,
+        "word": "赵本山给徒弟补近亿税额",
+        "onboard_time": 1697463394,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 716579,
+        "num": 513877,
+        "word": "成都咬伤女童大黑狗有主人",
+        "onboard_time": 1697460934,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 656706,
+        "num": 513585,
+        "word": "知情人称哈马斯被消灭前以色列不考虑停火",
+        "onboard_time": 1697504738,
+        "rank": 14,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 553724,
+        "num": 513352,
+        "word": "虞书欣重新跳了yesok",
+        "onboard_time": 1697501915,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513253,
+        "num": 513253,
+        "word": "狗和主人必须尽快绳之以法",
+        "onboard_time": 1697503059,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 513196,
+        "num": 513196,
+        "word": "新人坐高铁去结婚乘客纷纷送祝福",
+        "onboard_time": 1697501015,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471754,
+        "num": 471754,
+        "word": "成都禁养22种烈性犬不包括罗威纳",
+        "onboard_time": 1697497644,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425935,
+        "num": 425935,
+        "word": "黑壮美的吉克隽逸",
+        "onboard_time": 1697499388,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424527,
+        "num": 424527,
+        "word": "王不染看见赵露思的表情",
+        "onboard_time": 1697502215,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403856,
+        "num": 403856,
+        "word": "第一次看男女主整部剧都在种田的",
+        "onboard_time": 1697503476,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383498,
+        "num": 383498,
+        "word": "魏大勋已经不敢抓脚踝了",
+        "onboard_time": 1697466879,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 355578,
+        "num": 355578,
+        "word": "吴尊一家和周杰伦合影",
+        "onboard_time": 1697501495,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 342120,
+        "num": 342120,
+        "word": "以色列",
+        "onboard_time": 1697504137,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 337880,
+        "num": 337880,
+        "word": "哥哥冲过来一把扯开捂住妹妹的被子",
+        "onboard_time": 1697499627,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318414,
+        "num": 318414,
+        "word": "鼻子里面为什么会长这种痘",
+        "onboard_time": 1697499148,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 317255,
+        "num": 317255,
+        "word": "1米86辅警搀扶走失老人穿街走巷寻家",
+        "onboard_time": 1697499750,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292668,
+        "num": 292668,
+        "word": "孙悦51岁第一次跑马",
+        "onboard_time": 1697500898,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 284730,
+        "num": 284730,
+        "word": "这就是e人喜欢i人的原因",
+        "onboard_time": 1697504434,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 307973,
+        "num": 284068,
+        "word": "猫猫被恶魔附身后有多坏",
+        "onboard_time": 1697504254,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 283157,
+        "num": 283157,
+        "word": "赵晴演技",
+        "onboard_time": 1697504316,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271764,
+        "num": 271764,
+        "word": "美国大学图书馆惊现中国家谱",
+        "onboard_time": 1697501798,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 256289,
+        "num": 256289,
+        "word": "边伯贤将演唱LOL男团出道单曲",
+        "onboard_time": 1697500412,
+        "rank": 33,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 252309,
+        "num": 252309,
+        "word": "一带一路",
+        "onboard_time": 1697504075,
+        "rank": 34,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 246008,
+        "num": 246008,
+        "word": "警方已发现咬人黑狗行踪",
+        "onboard_time": 1697465496,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237356,
+        "num": 237356,
+        "word": "只有秀粉分得清每届秀人",
+        "onboard_time": 1697501977,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229744,
+        "num": 229744,
+        "word": "巴以冲突已超4200人死亡",
+        "onboard_time": 1697501617,
+        "rank": 37,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 219039,
+        "num": 219039,
+        "word": "玲娜贝儿 煤气罐又炸了",
+        "onboard_time": 1697501856,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 214311,
+        "num": 214311,
+        "word": "这对90后演我不想上班状态",
+        "onboard_time": 1697503417,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213648,
+        "num": 213648,
+        "word": "被大型犬撕咬女童母亲发声",
+        "onboard_time": 1697459374,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204456,
+        "num": 204456,
+        "word": "这个是沈月那款吗",
+        "onboard_time": 1697502937,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203599,
+        "num": 203599,
+        "word": "张逸杰 五月天演唱会",
+        "onboard_time": 1697503357,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199838,
+        "num": 199838,
+        "word": "老板被情人诈骗2000万致公司破产",
+        "onboard_time": 1697504975,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199263,
+        "num": 199263,
+        "word": "太空里还有3个中国人",
+        "onboard_time": 1697505095,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189010,
+        "num": 189010,
+        "word": "小白船",
+        "onboard_time": 1697503896,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188822,
+        "num": 188822,
+        "word": "强烈的自卑会使人变得非常无礼",
+        "onboard_time": 1697480416,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 186479,
+        "num": 186479,
+        "word": "檀健次 北海蛊王",
+        "onboard_time": 1697468140,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 185967,
+        "num": 185967,
+        "word": "小伙开挖机修路大爷送来溏心鸡蛋",
+        "onboard_time": 1697505033,
+        "rank": 48,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 175978,
+        "num": 175978,
+        "word": "韩国人晚上真的不睡觉吗",
+        "onboard_time": 1697499269,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697499245730,
+  "endTime": 1697505165723,
   "band_list": [
     {
       "raw_hot": 3438737,
@@ -113,6 +113,14 @@
       "onboard_time": 1697433755,
       "rank": 1,
       "category": "数码,艺人"
+    },
+    {
+      "raw_hot": 2216420,
+      "num": 2216420,
+      "word": "阿奇霉素",
+      "onboard_time": 1697502337,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2178230,
@@ -284,7 +292,7 @@
     },
     {
       "raw_hot": 1675719,
-      "num": 399696,
+      "num": 513975,
       "word": "赵本山给徒弟补近亿税额",
       "onboard_time": 1697463394,
       "rank": 10,
@@ -300,11 +308,19 @@
     },
     {
       "raw_hot": 1611627,
-      "num": 386280,
+      "num": 514689,
       "word": "拉布拉多未咬人已被主人领回",
       "onboard_time": 1697469217,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1582280,
+      "num": 716053,
+      "word": "以军称在空袭行动中打死一哈马斯高级领导人",
+      "onboard_time": 1697500898,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 1560241,
@@ -337,6 +353,14 @@
       "onboard_time": 1697424632,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1408722,
+      "num": 1408722,
+      "word": "我国超3亿人遭受慢性疼痛",
+      "onboard_time": 1697497824,
+      "rank": 17,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 1405753,
@@ -731,6 +755,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 847778,
+      "num": 514441,
+      "word": "最近的周冬雨",
+      "onboard_time": 1697502816,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 842667,
       "num": 842667,
       "word": "雷军 别着急这次产品很很很强",
@@ -867,6 +899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 718880,
+      "num": 718880,
+      "word": "加沙现有供应只能维持24个小时",
+      "onboard_time": 1697501557,
+      "rank": 4,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 717657,
       "num": 717657,
       "word": "宋凯当选新一届中国足协主席",
@@ -905,6 +945,14 @@
       "onboard_time": 1697459134,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 692831,
+      "num": 692831,
+      "word": "iPhone15中国首发销量较前代下降4.5%",
+      "onboard_time": 1697502937,
+      "rank": 6,
+      "category": "数码"
     },
     {
       "raw_hot": 692025,
@@ -977,6 +1025,14 @@
       "onboard_time": 1697346573,
       "rank": 8,
       "category": "教育"
+    },
+    {
+      "raw_hot": 656706,
+      "num": 513585,
+      "word": "知情人称哈马斯被消灭前以色列不考虑停火",
+      "onboard_time": 1697504738,
+      "rank": 14,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 653869,
@@ -1259,6 +1315,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 553724,
+      "num": 513352,
+      "word": "虞书欣重新跳了yesok",
+      "onboard_time": 1697501915,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 550572,
       "num": 550572,
       "word": "马来西亚36岁演员帮子女洗澡时猝逝",
@@ -1329,6 +1393,14 @@
       "onboard_time": 1697329109,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 527554,
+      "num": 527554,
+      "word": "范丞丞问孟子义和郭麒麟是不是真的",
+      "onboard_time": 1697503059,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 527397,
@@ -1417,6 +1489,22 @@
       "onboard_time": 1697346155,
       "rank": 40,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 513253,
+      "num": 513253,
+      "word": "狗和主人必须尽快绳之以法",
+      "onboard_time": 1697503059,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 513196,
+      "num": 513196,
+      "word": "新人坐高铁去结婚乘客纷纷送祝福",
+      "onboard_time": 1697501015,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 510850,
@@ -1595,6 +1683,14 @@
       "category": "美食,社会新闻"
     },
     {
+      "raw_hot": 471754,
+      "num": 471754,
+      "word": "成都禁养22种烈性犬不包括罗威纳",
+      "onboard_time": 1697497644,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 471565,
       "num": 471565,
       "word": "赵今麦在穿",
@@ -1609,14 +1705,6 @@
       "onboard_time": 1697418516,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 466114,
-      "num": 466114,
-      "word": "我国超3亿人遭受慢性疼痛",
-      "onboard_time": 1697497824,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 465505,
@@ -1867,6 +1955,22 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 425935,
+      "num": 425935,
+      "word": "黑壮美的吉克隽逸",
+      "onboard_time": 1697499388,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 424527,
+      "num": 424527,
+      "word": "王不染看见赵露思的表情",
+      "onboard_time": 1697502215,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 424113,
       "num": 307147,
       "word": "上海独生女为买房火速结婚",
@@ -1947,20 +2051,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 404949,
-      "num": 196293,
-      "word": "成都禁养22种烈性犬不包括罗威纳",
-      "onboard_time": 1697497644,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 404647,
       "num": 346551,
       "word": "关于我蒸了一整个馒头这件事",
       "onboard_time": 1697414255,
       "rank": 20,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 403856,
+      "num": 403856,
+      "word": "第一次看男女主整部剧都在种田的",
+      "onboard_time": 1697503476,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 401823,
@@ -2307,6 +2411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 355578,
+      "num": 355578,
+      "word": "吴尊一家和周杰伦合影",
+      "onboard_time": 1697501495,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 353179,
       "num": 1257259,
       "word": "女子欲轻生被遛狗大哥死死拽住",
@@ -2417,6 +2529,14 @@
       "onboard_time": 1697425534,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337880,
+      "num": 337880,
+      "word": "哥哥冲过来一把扯开捂住妹妹的被子",
+      "onboard_time": 1697499627,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337638,
@@ -2563,12 +2683,28 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 318414,
+      "num": 318414,
+      "word": "鼻子里面为什么会长这种痘",
+      "onboard_time": 1697499148,
+      "rank": 33,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 317365,
       "num": 317365,
       "word": "体育总局副局长点名足协塌方式腐败",
       "onboard_time": 1697437351,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317255,
+      "num": 317255,
+      "word": "1米86辅警搀扶走失老人穿街走巷寻家",
+      "onboard_time": 1697499750,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 314732,
@@ -2609,6 +2745,14 @@
       "onboard_time": 1697336851,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 307973,
+      "num": 284068,
+      "word": "猫猫被恶魔附身后有多坏",
+      "onboard_time": 1697504254,
+      "rank": 30,
+      "category": "动漫"
     },
     {
       "raw_hot": 306800,
@@ -2713,6 +2857,14 @@
       "onboard_time": 1697286575,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 292668,
+      "num": 292668,
+      "word": "孙悦51岁第一次跑马",
+      "onboard_time": 1697500898,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 292409,
@@ -2835,6 +2987,22 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 284730,
+      "num": 284730,
+      "word": "这就是e人喜欢i人的原因",
+      "onboard_time": 1697504434,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 283157,
+      "num": 283157,
+      "word": "赵晴演技",
+      "onboard_time": 1697504316,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 282495,
       "num": 265251,
       "word": "同事点的奶茶底部裂开了",
@@ -2937,6 +3105,14 @@
       "onboard_time": 1697442214,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 271764,
+      "num": 271764,
+      "word": "美国大学图书馆惊现中国家谱",
+      "onboard_time": 1697501798,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 269752,
@@ -3083,6 +3259,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256289,
+      "num": 256289,
+      "word": "边伯贤将演唱LOL男团出道单曲",
+      "onboard_time": 1697500412,
+      "rank": 33,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 256102,
       "num": 256102,
       "word": "哈尔滨铁路局通报K5133脱轨",
@@ -3161,6 +3345,14 @@
       "onboard_time": 1697420132,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252309,
+      "num": 252309,
+      "word": "一带一路",
+      "onboard_time": 1697430397,
+      "rank": 32,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 251953,
@@ -3275,14 +3467,6 @@
       "category": "社会新闻,体育"
     },
     {
-      "raw_hot": 243674,
-      "num": 243674,
-      "word": "一带一路",
-      "onboard_time": 1697430397,
-      "rank": 32,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 242033,
       "num": 242033,
       "word": "重温一下cha的始祖鸟",
@@ -3312,6 +3496,14 @@
       "word": "白鹿卢昱晓奔跑吧路透",
       "onboard_time": 1697413471,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 237356,
+      "num": 237356,
+      "word": "只有秀粉分得清每届秀人",
+      "onboard_time": 1697501977,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -3459,6 +3651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229744,
+      "num": 229744,
+      "word": "巴以冲突已超4200人死亡",
+      "onboard_time": 1697501617,
+      "rank": 37,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 229096,
       "num": 214488,
       "word": "手滑帮导师上午门诊放了60个号",
@@ -3547,6 +3747,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 219039,
+      "num": 219039,
+      "word": "玲娜贝儿 煤气罐又炸了",
+      "onboard_time": 1697501856,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218596,
       "num": 218596,
       "word": "仓鼠要能做出来估计20都省了",
@@ -3585,6 +3793,14 @@
       "onboard_time": 1697461355,
       "rank": 26,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 214311,
+      "num": 214311,
+      "word": "这对90后演我不想上班状态",
+      "onboard_time": 1697503417,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 213659,
@@ -3771,6 +3987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204456,
+      "num": 204456,
+      "word": "这个是沈月那款吗",
+      "onboard_time": 1697502937,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204237,
       "num": 204237,
       "word": "为有暗香来三对cp现状",
@@ -3801,6 +4025,14 @@
       "onboard_time": 1697364695,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203599,
+      "num": 203599,
+      "word": "张逸杰 五月天演唱会",
+      "onboard_time": 1697503357,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 203219,
@@ -3979,6 +4211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199838,
+      "num": 199838,
+      "word": "老板被情人诈骗2000万致公司破产",
+      "onboard_time": 1697504975,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 199718,
       "num": 199718,
       "word": "剑网3校服",
@@ -3993,6 +4233,14 @@
       "onboard_time": 1697419531,
       "rank": 36,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 199263,
+      "num": 199263,
+      "word": "太空里还有3个中国人",
+      "onboard_time": 1697505095,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199148,
@@ -4299,6 +4547,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 189010,
+      "num": 189010,
+      "word": "小白船",
+      "onboard_time": 1697503896,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188357,
       "num": 188357,
       "word": "赵本山 厨子与掌门",
@@ -4353,6 +4609,14 @@
       "onboard_time": 1697368954,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185967,
+      "num": 185967,
+      "word": "小伙开挖机修路大爷送来溏心鸡蛋",
+      "onboard_time": 1697505033,
+      "rank": 48,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 185627,
@@ -4569,6 +4833,14 @@
       "onboard_time": 1697378257,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175978,
+      "num": 175978,
+      "word": "韩国人晚上真的不睡觉吗",
+      "onboard_time": 1697499269,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 175843,
@@ -5635,14 +5907,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 106270,
-      "num": 106270,
-      "word": "鼻子里面为什么会长这种痘",
-      "onboard_time": 1697499148,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 105349,
       "num": 92013,
       "word": "中国军舰在中业岛附近海域巡逻合理合法",
@@ -5835,6 +6099,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 65783,
+      "num": 876078,
+      "word": "沿着一带一路去旅行",
+      "onboard_time": 1697464056,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 65348,
       "num": 65348,
       "word": "胡彦斌对四十岁的理解很通透",
@@ -5945,14 +6217,6 @@
       "onboard_time": 1697310675,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 41704,
-      "num": 569360,
-      "word": "沿着一带一路去旅行",
-      "onboard_time": 1697464056,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 38961,
