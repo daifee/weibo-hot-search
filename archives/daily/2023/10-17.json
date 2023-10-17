@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697516436797,
+  "endTime": 1697517244550,
   "band_list": [
     {
       "raw_hot": 2509387,
@@ -35,8 +35,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1835271,
-      "num": 1835271,
+      "raw_hot": 2053111,
+      "num": 2053111,
       "word": "身份证会被手机消磁吗",
       "onboard_time": 1697512895,
       "rank": 15,
@@ -99,7 +99,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1120485,
+      "raw_hot": 1177729,
       "num": 385241,
       "word": "男子不想结婚偷下堕胎药致女友流产",
       "onboard_time": 1697514094,
@@ -203,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 778146,
+      "num": 577838,
+      "word": "花瓣支付不对标微信支付支付宝",
+      "onboard_time": 1697514815,
+      "rank": 13,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 741165,
       "num": 741165,
       "word": "IVE李瑞在翰林高中被骚扰",
@@ -219,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 730762,
+      "num": 565369,
+      "word": "杨紫时尚资源",
+      "onboard_time": 1697515897,
+      "rank": 12,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 718880,
       "num": 718880,
       "word": "加沙现有供应只能维持24个小时",
@@ -232,6 +248,14 @@
       "word": "成都咬伤女童大黑狗有主人",
       "onboard_time": 1697460934,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 710432,
+      "num": 710432,
+      "word": "高中同学车祸失忆全班守护18年",
+      "onboard_time": 1697515776,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -251,12 +275,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 672954,
-      "num": 429940,
-      "word": "杨紫时尚资源",
-      "onboard_time": 1697515897,
-      "rank": 12,
-      "category": "艺人,时尚"
+      "raw_hot": 663507,
+      "num": 663507,
+      "word": "光遇 道袍复刻",
+      "onboard_time": 1697516259,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 649251,
@@ -273,6 +297,14 @@
       "onboard_time": 1697459374,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610485,
+      "num": 610485,
+      "word": "长相思全员相思不如相见",
+      "onboard_time": 1697515476,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 581668,
@@ -315,14 +347,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 504478,
-      "num": 426179,
-      "word": "花瓣支付不对标微信支付支付宝",
-      "onboard_time": 1697514815,
-      "rank": 13,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 493879,
       "num": 493879,
       "word": "朱一龙回应未获金鸡奖提名",
@@ -340,7 +364,7 @@
     },
     {
       "raw_hot": 487015,
-      "num": 418661,
+      "num": 449191,
       "word": "于正发文维护赵晴",
       "onboard_time": 1697513433,
       "rank": 33,
@@ -403,16 +427,8 @@
       "category": "时尚,网红"
     },
     {
-      "raw_hot": 445781,
-      "num": 445781,
-      "word": "长相思全员相思不如相见",
-      "onboard_time": 1697515476,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 434322,
-      "num": 434322,
+      "num": 598779,
       "word": "小米澎湃OS",
       "onboard_time": 1697514094,
       "rank": 10,
@@ -435,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 388816,
-      "num": 388816,
-      "word": "光遇 道袍复刻",
-      "onboard_time": 1697516259,
-      "rank": 19,
-      "category": "游戏"
+      "raw_hot": 418487,
+      "num": 418487,
+      "word": "花儿认出杨阿姨",
+      "onboard_time": 1697514514,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 417292,
+      "num": 244458,
+      "word": "普京与内塔尼亚胡通话",
+      "onboard_time": 1697516559,
+      "rank": 33,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 387022,
@@ -451,12 +475,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 373774,
-      "num": 373774,
-      "word": "花儿认出杨阿姨",
-      "onboard_time": 1697514514,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 377950,
+      "num": 243982,
+      "word": "Jasper普通话主持校庆",
+      "onboard_time": 1697516496,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 366942,
@@ -499,12 +523,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 336011,
+      "num": 336011,
+      "word": "小米",
+      "onboard_time": 1697515717,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 334122,
       "num": 221277,
       "word": "22岁弟弟申请拥有独立卫生间",
       "onboard_time": 1697469517,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322502,
+      "num": 322502,
+      "word": "虞书欣THE9演唱会粉丝应援",
+      "onboard_time": 1697515175,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 320400,
@@ -587,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 285216,
-      "num": 259098,
-      "word": "虞书欣THE9演唱会粉丝应援",
-      "onboard_time": 1697515175,
-      "rank": 33,
-      "category": "演出"
-    },
-    {
       "raw_hot": 284730,
       "num": 284730,
       "word": "这就是e人喜欢i人的原因",
@@ -619,20 +651,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277661,
+      "num": 277661,
+      "word": "韩素希点赞newjeans相关帖子",
+      "onboard_time": 1697516799,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276353,
       "num": 276353,
       "word": "中国移动采购120万台华为手机",
       "onboard_time": 1697466578,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 275094,
-      "num": 275094,
-      "word": "高中同学车祸失忆全班守护18年",
-      "onboard_time": 1697515776,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 271764,
@@ -737,6 +769,30 @@
       "onboard_time": 1697470652,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 245449,
+      "num": 245449,
+      "word": "考研学子路灯下扎堆背书未来可期",
+      "onboard_time": 1697516380,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 243855,
+      "num": 243855,
+      "word": "杨紫范丞丞要久久爱集数变更",
+      "onboard_time": 1697514693,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238902,
+      "num": 238902,
+      "word": "崔峻超拍的赵丽颖",
+      "onboard_time": 1697516799,
+      "rank": 37,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 238894,
@@ -915,14 +971,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 201462,
-      "num": 201462,
-      "word": "小米",
-      "onboard_time": 1697515717,
-      "rank": 37,
-      "category": "数码"
-    },
-    {
       "raw_hot": 199767,
       "num": 199767,
       "word": "张元英手指眼角痣",
@@ -963,6 +1011,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 189192,
+      "num": 189192,
+      "word": "春夏李现对手戏",
+      "onboard_time": 1697516618,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189010,
       "num": 189010,
       "word": "小白船",
@@ -977,6 +1033,14 @@
       "onboard_time": 1697509893,
       "rank": 35,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 185987,
+      "num": 185987,
+      "word": "华浅捧脸杀",
+      "onboard_time": 1697515596,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 185967,
@@ -1011,6 +1075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 177631,
+      "num": 177631,
+      "word": "妈妈出门买菜身后跟俩特种兵",
+      "onboard_time": 1697517219,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175978,
       "num": 175978,
       "word": "韩国人晚上真的不睡觉吗",
@@ -1027,19 +1099,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175341,
+      "num": 175341,
+      "word": "腾讯NBA新赛季阵容",
+      "onboard_time": 1697515657,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173410,
       "num": 173410,
       "word": "周也李昀锐cp感",
       "onboard_time": 1697468796,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 171551,
-      "num": 171551,
-      "word": "华浅捧脸杀",
-      "onboard_time": 1697515596,
-      "rank": 41,
       "category": "剧集"
     },
     {
@@ -1059,28 +1131,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165706,
-      "num": 165706,
-      "word": "腾讯NBA新赛季阵容",
-      "onboard_time": 1697515657,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163116,
       "num": 163116,
       "word": "一带一路十周年",
       "onboard_time": 1697498062,
       "rank": 49,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 160281,
-      "num": 160281,
-      "word": "考研学子路灯下扎堆背书未来可期",
-      "onboard_time": 1697516380,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 159144,
@@ -1211,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107208,
+      "num": 1068890,
+      "word": "手账版一带一路知识点",
+      "onboard_time": 1697502578,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 107144,
       "num": 107144,
       "word": "林俊杰jj20世界巡回演唱会",
@@ -1241,14 +1305,6 @@
       "onboard_time": 1697465496,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 99240,
-      "num": 1034607,
-      "word": "手账版一带一路知识点",
-      "onboard_time": 1697502578,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 99215,
