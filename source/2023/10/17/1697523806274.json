@@ -1,0 +1,410 @@
+{
+  "runTime": 1697523806274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1198821,
+        "num": 1198821,
+        "word": "李想",
+        "onboard_time": 1697518419,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1040757,
+        "num": 1040757,
+        "word": "张若昀庆余年2杀青",
+        "onboard_time": 1697519018,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59538,
+        "num": 673076,
+        "word": "手账版一带一路知识点",
+        "onboard_time": 1697502578,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 620370,
+        "num": 620370,
+        "word": "高中同学车祸失忆全班守护18年",
+        "onboard_time": 1697515776,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607806,
+        "num": 607806,
+        "word": "身份证会被手机消磁吗",
+        "onboard_time": 1697512895,
+        "rank": 4,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 592803,
+        "num": 592803,
+        "word": "为了发朋友圈而产生的消费",
+        "onboard_time": 1697518836,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 474329,
+        "num": 474329,
+        "word": "普京总统抵达北京",
+        "onboard_time": 1697506354,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 462982,
+        "num": 462982,
+        "word": "妈妈出门买菜身后跟俩特种兵",
+        "onboard_time": 1697517219,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462024,
+        "num": 462024,
+        "word": "关晓彤怎么做到不笑场的",
+        "onboard_time": 1697521175,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406229,
+        "num": 406229,
+        "word": "苹果宣布新增2500万元捐款",
+        "onboard_time": 1697517637,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 3220779,
+        "num": 406207,
+        "word": "黑狗主人最高面临七年以下有期徒刑",
+        "onboard_time": 1697518480,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 456461,
+        "num": 402161,
+        "word": "江映蓉 偶遇苹果CEO库克",
+        "onboard_time": 1697511155,
+        "rank": 11,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 445353,
+        "num": 401486,
+        "word": "拉布拉多未咬人已被主人领回",
+        "onboard_time": 1697469217,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1278166,
+        "num": 398202,
+        "word": "疑咬伤女童黑狗逃跑画面曝光",
+        "onboard_time": 1697521411,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397970,
+        "num": 397970,
+        "word": "中国海警驱离日非法进我钓鱼岛领海船只",
+        "onboard_time": 1697521952,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376418,
+        "num": 376418,
+        "word": "为有暗香来 艾米",
+        "onboard_time": 1697521712,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 460424,
+        "num": 376107,
+        "word": "罗翔谈狗咬伤他人狗主是否犯罪",
+        "onboard_time": 1697523213,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375707,
+        "num": 375707,
+        "word": "绝代双骄央八上午档热播",
+        "onboard_time": 1697518419,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368136,
+        "num": 368136,
+        "word": "新歌坛四小花",
+        "onboard_time": 1697518836,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297731,
+        "num": 297731,
+        "word": "长相思",
+        "onboard_time": 1697514094,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 604649,
+        "num": 295536,
+        "word": "男子不想结婚偷下堕胎药致女友流产",
+        "onboard_time": 1697514094,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305923,
+        "num": 294791,
+        "word": "高校回应网红教师被指私生活混乱",
+        "onboard_time": 1697505874,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293200,
+        "num": 293200,
+        "word": "2023全球总决赛",
+        "onboard_time": 1697521233,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284612,
+        "num": 284612,
+        "word": "Jasper普通话主持校庆",
+        "onboard_time": 1697516496,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 708068,
+        "num": 278209,
+        "word": "张元英和富江",
+        "onboard_time": 1697522494,
+        "rank": 24,
+        "category": "艺人,动漫"
+      },
+      {
+        "raw_hot": 267142,
+        "num": 267142,
+        "word": "杨紫小夭今晚相见",
+        "onboard_time": 1697518538,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265325,
+        "num": 265325,
+        "word": "田耕纪里奶奶悲惨的一生",
+        "onboard_time": 1697522913,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 256565,
+        "num": 256565,
+        "word": "张翰在新剧里尝菜镜头",
+        "onboard_time": 1697520034,
+        "rank": 27,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 252842,
+        "num": 252842,
+        "word": "普京与内塔尼亚胡通话",
+        "onboard_time": 1697516559,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 204208,
+        "num": 247688,
+        "word": "42岁男子为妻子补办迟到14年的婚礼",
+        "onboard_time": 1697521354,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246653,
+        "num": 246653,
+        "word": "这种隔夜水最好别喝",
+        "onboard_time": 1697523511,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 238470,
+        "num": 238470,
+        "word": "iPhone15Pro被曝生产成本523美元",
+        "onboard_time": 1697507794,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214344,
+        "num": 214344,
+        "word": "花瓣支付不对标微信支付支付宝",
+        "onboard_time": 1697514815,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200080,
+        "num": 200080,
+        "word": "无穷小亮 可算把铁线蕨玩明白了",
+        "onboard_time": 1697518120,
+        "rank": 33,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 199868,
+        "num": 199868,
+        "word": "桂花烤奶",
+        "onboard_time": 1697523511,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199423,
+        "num": 199423,
+        "word": "长相思全员相思不如相见",
+        "onboard_time": 1697515476,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194268,
+        "num": 194268,
+        "word": "城管严查遛狗不栓绳发现就暂扣",
+        "onboard_time": 1697520874,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174524,
+        "num": 174524,
+        "word": "浙江警察学院学生的家长拍拍拍拍拍",
+        "onboard_time": 1697519974,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169757,
+        "num": 169757,
+        "word": "迪丽热巴秦岚周也也有自己的燃冬",
+        "onboard_time": 1697520633,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175077,
+        "num": 169148,
+        "word": "狗和主人必须尽快绳之以法",
+        "onboard_time": 1697503059,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159849,
+        "num": 159849,
+        "word": "Chovy破韩服纪录",
+        "onboard_time": 1697520214,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158772,
+        "num": 158772,
+        "word": "小米",
+        "onboard_time": 1697515717,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 154410,
+        "num": 154410,
+        "word": "阿奇霉素",
+        "onboard_time": 1697502337,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151690,
+        "num": 151690,
+        "word": "越南版浪姐名单",
+        "onboard_time": 1697520093,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150706,
+        "num": 150706,
+        "word": "虞书欣THE9演唱会粉丝应援",
+        "onboard_time": 1697515175,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150427,
+        "num": 150427,
+        "word": "杨紫时尚资源",
+        "onboard_time": 1697515897,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 148492,
+        "num": 148492,
+        "word": "第一次看男女主整部剧都在种田的",
+        "onboard_time": 1697503476,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144872,
+        "num": 144872,
+        "word": "四川被咬女童20多处咬伤",
+        "onboard_time": 1697523752,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142338,
+        "num": 142338,
+        "word": "崔峻超拍的赵丽颖",
+        "onboard_time": 1697516799,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 102843,
+        "num": 137118,
+        "word": "民工捡电脑等失主90分钟获奖5000",
+        "onboard_time": 1697520093,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路十年之约#"
+    }
+  }
+}
