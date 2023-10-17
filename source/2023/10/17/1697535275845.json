@@ -1,0 +1,410 @@
+{
+  "runTime": 1697535275845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1162154,
+        "num": 1162154,
+        "word": "庆余年2有徐志胜",
+        "onboard_time": 1697530297,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 894820,
+        "num": 894820,
+        "word": "钢铁侠今天在漫威宇宙正式去世",
+        "onboard_time": 1697533658,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52944,
+        "num": 699702,
+        "word": "感悟东方智慧的融会贯通",
+        "onboard_time": 1697531795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1701229,
+        "num": 693543,
+        "word": "屁股针为什么消失了",
+        "onboard_time": 1697528853,
+        "rank": 3,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1079717,
+        "num": 693413,
+        "word": "宋仲基海外试镜全部被淘汰",
+        "onboard_time": 1697528313,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 682592,
+        "num": 682592,
+        "word": "加拿大军机不远万里到中国家门口滋事挑衅",
+        "onboard_time": 1697532637,
+        "rank": 5,
+        "category": "国内要闻,军事"
+      },
+      {
+        "raw_hot": 567535,
+        "num": 567535,
+        "word": "南航回应飞机餐发4个馒头1片白菜",
+        "onboard_time": 1697532395,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566601,
+        "num": 566601,
+        "word": "李沁暂别林婉儿",
+        "onboard_time": 1697528435,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1692341,
+        "num": 546754,
+        "word": "李玟与姚贝娜将葬在同一墓园",
+        "onboard_time": 1697530956,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445205,
+        "num": 445205,
+        "word": "理想 跳楼款",
+        "onboard_time": 1697532156,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 3228661,
+        "num": 442649,
+        "word": "咬伤女童罗纳威主人被采取刑事强制措施",
+        "onboard_time": 1697534560,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2193706,
+        "num": 440199,
+        "word": "成都咬伤女童的罗威纳犬被捕获",
+        "onboard_time": 1697530836,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1347676,
+        "num": 425735,
+        "word": "男子中3342万元巨奖15分钟火速领奖",
+        "onboard_time": 1697532395,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 385328,
+        "num": 385328,
+        "word": "长相思角色号醒了",
+        "onboard_time": 1697529336,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 797881,
+        "num": 383320,
+        "word": "物业回应保洁阿姨为女童挡狗",
+        "onboard_time": 1697530174,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 378558,
+        "num": 378558,
+        "word": "SM否认朴灿烈吴世勋签约新公司",
+        "onboard_time": 1697530416,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371769,
+        "num": 371769,
+        "word": "金晨左手喂狗右手喂自己",
+        "onboard_time": 1697529636,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594838,
+        "num": 369539,
+        "word": "医生建议被恶犬撕咬女童保守治疗",
+        "onboard_time": 1697526273,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 363624,
+        "num": 363624,
+        "word": "以色列用白磷弹袭击黎巴嫩边界",
+        "onboard_time": 1697534078,
+        "rank": 18,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 351566,
+        "num": 351566,
+        "word": "南航飞机餐发4个馒头1片白菜",
+        "onboard_time": 1697533534,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525425,
+        "num": 347454,
+        "word": "爸妈被我三千块的工资震惊到了",
+        "onboard_time": 1697526093,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 445208,
+        "num": 335050,
+        "word": "狗被遗弃原主人就可以不担责吗",
+        "onboard_time": 1697531255,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317052,
+        "num": 317052,
+        "word": "薛之谦他不红那我也不该红",
+        "onboard_time": 1697527474,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 314302,
+        "num": 314302,
+        "word": "仲某即将再婚 仲某还是单身",
+        "onboard_time": 1697530657,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 337708,
+        "num": 314154,
+        "word": "警方回应狗主人调查情况",
+        "onboard_time": 1697533597,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312903,
+        "num": 312903,
+        "word": "乞丐情头",
+        "onboard_time": 1697528075,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298861,
+        "num": 298861,
+        "word": "李小冉叫长公主疯女人",
+        "onboard_time": 1697531435,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296849,
+        "num": 296849,
+        "word": "伊朗外长称该国有可能参战",
+        "onboard_time": 1697533957,
+        "rank": 27,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 296042,
+        "num": 296042,
+        "word": "吸引全红婵只需要一个玩偶",
+        "onboard_time": 1697529816,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291457,
+        "num": 291457,
+        "word": "庆余年2新角色剧照",
+        "onboard_time": 1697532395,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277962,
+        "num": 277962,
+        "word": "司机路边帮抱婴儿下一秒车被撞飞",
+        "onboard_time": 1697529455,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274881,
+        "num": 274881,
+        "word": "罗翔谈狗咬伤他人狗主是否犯罪",
+        "onboard_time": 1697523213,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261209,
+        "num": 261209,
+        "word": "梅西 第八座金球奖",
+        "onboard_time": 1697531557,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239619,
+        "num": 239619,
+        "word": "四川又一恶犬追咬2名幼童",
+        "onboard_time": 1697534976,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 61846,
+        "num": 232093,
+        "word": "100年前的音乐居然复活了",
+        "onboard_time": 1697534560,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 227839,
+        "num": 227839,
+        "word": "联合国秘书长抵达北京",
+        "onboard_time": 1697533055,
+        "rank": 35,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 209960,
+        "num": 209960,
+        "word": "iPhone15ProMax大陆零部件仅占2%",
+        "onboard_time": 1697529875,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202915,
+        "num": 202915,
+        "word": "新疆男孩脱口而出自己是中华民族",
+        "onboard_time": 1697530297,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198891,
+        "num": 198891,
+        "word": "原神 小保底不歪",
+        "onboard_time": 1697531736,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 194563,
+        "num": 194563,
+        "word": "联合工作组通报狗咬伤女童情况",
+        "onboard_time": 1697534801,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189879,
+        "num": 189879,
+        "word": "庆余年王启年女儿",
+        "onboard_time": 1697527893,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184899,
+        "num": 184899,
+        "word": "邓为到达绍兴",
+        "onboard_time": 1697534257,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171074,
+        "num": 171074,
+        "word": "王源说生活可以向动物学习",
+        "onboard_time": 1697532454,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169269,
+        "num": 169269,
+        "word": "桂花烤奶",
+        "onboard_time": 1697523511,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160660,
+        "num": 160660,
+        "word": "李玟本月将在武汉安葬",
+        "onboard_time": 1697530777,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157633,
+        "num": 157633,
+        "word": "长相思2到底啥时候播",
+        "onboard_time": 1697531675,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155563,
+        "num": 155563,
+        "word": "宣美新歌公开",
+        "onboard_time": 1697535216,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147222,
+        "num": 147222,
+        "word": "这种隔夜水最好别喝",
+        "onboard_time": 1697523511,
+        "rank": 47,
+        "category": "知识科普,健康医疗"
+      },
+      {
+        "raw_hot": 136245,
+        "num": 136245,
+        "word": "朱一龙说不太担心观众看不懂",
+        "onboard_time": 1697532877,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134527,
+        "num": 134527,
+        "word": "讯飞员工因提前一小时抢老乡鸡免费餐被罚",
+        "onboard_time": 1697525193,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中智关系创下多项第一#"
+    }
+  }
+}

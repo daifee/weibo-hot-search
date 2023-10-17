@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/17 00:23:37 ~ 2023/10/17 17:17:25
+本榜单时间：2023/10/17 00:23:37 ~ 2023/10/17 17:34:35
 </p>
 </blockquote>
 <p>
@@ -17,6 +17,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%91%E7%8B%97%E4%B8%BB%E4%BA%BA%E6%9C%80%E9%AB%98%E9%9D%A2%E4%B8%B4%E4%B8%83%E5%B9%B4%E4%BB%A5%E4%B8%8B%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%23" target="weibo">
 黑狗主人最高面临七年以下有期徒刑（热度：3303661）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%BD%97%E7%BA%B3%E5%A8%81%E4%B8%BB%E4%BA%BA%E8%A2%AB%E9%87%87%E5%8F%96%E5%88%91%E4%BA%8B%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD%23" target="weibo">
+咬伤女童罗纳威主人被采取刑事强制措施（热度：3228661）
 </a>
 </li>
 
@@ -129,6 +135,12 @@ iPhone15Pro被曝生产成本523美元（热度：1697579）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD3342%E4%B8%87%E5%85%83%E5%B7%A8%E5%A5%9615%E5%88%86%E9%92%9F%E7%81%AB%E9%80%9F%E9%A2%86%E5%A5%96%23" target="weibo">
+男子中3342万元巨奖15分钟火速领奖（热度：1347676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B2%81%E6%9A%82%E5%88%AB%E6%9E%97%E5%A9%89%E5%84%BF%23" target="weibo">
 李沁暂别林婉儿（热度：1335850）
 </a>
@@ -161,12 +173,6 @@ iPhone15Pro被曝生产成本523美元（热度：1697579）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%83%B3%E7%BB%93%E5%A9%9A%E5%81%B7%E4%B8%8B%E5%A0%95%E8%83%8E%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%8F%8B%E6%B5%81%E4%BA%A7%23" target="weibo">
 男子不想结婚偷下堕胎药致女友流产（热度：1177729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%AD3342%E4%B8%87%E5%85%83%E5%B7%A8%E5%A5%9615%E5%88%86%E9%92%9F%E7%81%AB%E9%80%9F%E9%A2%86%E5%A5%96%23" target="weibo">
-男子中3342万元巨奖15分钟火速领奖（热度：1129879）
 </a>
 </li>
 
@@ -237,6 +243,12 @@ iPhone15Pro被曝生产成本523美元（热度：1697579）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E4%BE%A0%E4%BB%8A%E5%A4%A9%E5%9C%A8%E6%BC%AB%E5%A8%81%E5%AE%87%E5%AE%99%E6%AD%A3%E5%BC%8F%E5%8E%BB%E4%B8%96%23" target="weibo">
+钢铁侠今天在漫威宇宙正式去世（热度：894820）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B2%89%E8%89%B2%E8%A6%81%E8%B4%B5%E8%BF%99%E4%B9%88%E5%A4%9A%23" target="weibo">
 为什么粉色要贵这么多（热度：891819）
 </a>
@@ -286,7 +298,7 @@ Xiaomi HyperOS（热度：858223）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%A9%E4%B8%9A%E5%9B%9E%E5%BA%94%E4%BF%9D%E6%B4%81%E9%98%BF%E5%A7%A8%E4%B8%BA%E5%A5%B3%E7%AB%A5%E6%8C%A1%E7%8B%97%23" target="weibo">
-物业回应保洁阿姨为女童挡狗（热度：787407）
+物业回应保洁阿姨为女童挡狗（热度：797881）
 </a>
 </li>
 
@@ -359,6 +371,12 @@ IVE李瑞在翰林高中被骚扰（热度：741165）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone15%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%8F%91%E9%94%80%E9%87%8F%E8%BE%83%E5%89%8D%E4%BB%A3%E4%B8%8B%E9%99%8D4.5%25%23" target="weibo">
 iPhone15中国首发销量较前代下降4.5%（热度：692831）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%9B%E6%9C%BA%E4%B8%8D%E8%BF%9C%E4%B8%87%E9%87%8C%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%BB%8B%E4%BA%8B%E6%8C%91%E8%A1%85%23" target="weibo">
+加拿大军机不远万里到中国家门口滋事挑衅（热度：682592）
 </a>
 </li>
 
@@ -441,8 +459,8 @@ Jasper普通话主持校庆（热度：610731）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%86%9B%E6%9C%BA%E4%B8%8D%E8%BF%9C%E4%B8%87%E9%87%8C%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AE%B6%E9%97%A8%E5%8F%A3%E6%BB%8B%E4%BA%8B%E6%8C%91%E8%A1%85%23" target="weibo">
-加拿大军机不远万里到中国家门口滋事挑衅（热度：577458）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E9%A3%9E%E6%9C%BA%E9%A4%90%E5%8F%914%E4%B8%AA%E9%A6%92%E5%A4%B41%E7%89%87%E7%99%BD%E8%8F%9C%23" target="weibo">
+南航回应飞机餐发4个馒头1片白菜（热度：567535）
 </a>
 </li>
 
@@ -461,12 +479,6 @@ Jasper普通话主持校庆（热度：610731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23SM%E5%90%A6%E8%AE%A4%E6%9C%B4%E7%81%BF%E7%83%88%E5%90%B4%E4%B8%96%E5%8B%8B%E7%AD%BE%E7%BA%A6%E6%96%B0%E5%85%AC%E5%8F%B8%23" target="weibo">
 SM否认朴灿烈吴世勋签约新公司（热度：563699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E4%BE%A0%E4%BB%8A%E5%A4%A9%E5%9C%A8%E6%BC%AB%E5%A8%81%E5%AE%87%E5%AE%99%E6%AD%A3%E5%BC%8F%E5%8E%BB%E4%B8%96%23" target="weibo">
-钢铁侠今天在漫威宇宙正式去世（热度：556263）
 </a>
 </li>
 
@@ -573,6 +585,12 @@ MiuMiu钻石内裤（热度：446940）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E8%A2%AB%E9%81%97%E5%BC%83%E5%8E%9F%E4%B8%BB%E4%BA%BA%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%8B%85%E8%B4%A3%E5%90%97%23" target="weibo">
+狗被遗弃原主人就可以不担责吗（热度：445208）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83OS%23" target="weibo">
 小米澎湃OS（热度：434322）
 </a>
@@ -581,12 +599,6 @@ MiuMiu钻石内裤（热度：446940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E7%94%B7%E5%AD%A9%E5%90%83%E7%83%A7%E7%83%A4%E8%80%81%E6%9D%BF%E6%8B%85%E5%BF%A7%E5%82%AC%E6%89%BE%E5%A6%88%E5%A6%88%E4%B9%B0%E5%8D%95%23" target="weibo">
 5男孩吃烧烤老板担忧催找妈妈买单（热度：433068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E5%9B%9E%E5%BA%94%E9%A3%9E%E6%9C%BA%E9%A4%90%E5%8F%914%E4%B8%AA%E9%A6%92%E5%A4%B41%E7%89%87%E7%99%BD%E8%8F%9C%23" target="weibo">
-南航回应飞机餐发4个馒头1片白菜（热度：428957）
 </a>
 </li>
 
@@ -617,12 +629,6 @@ MiuMiu钻石内裤（热度：446940）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B5%B7%E8%AD%A6%E9%A9%B1%E7%A6%BB%E6%97%A5%E9%9D%9E%E6%B3%95%E8%BF%9B%E6%88%91%E9%92%93%E9%B1%BC%E5%B2%9B%E9%A2%86%E6%B5%B7%E8%88%B9%E5%8F%AA%23" target="weibo">
 中国海警驱离日非法进我钓鱼岛领海船只（热度：397970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E8%A2%AB%E9%81%97%E5%BC%83%E5%8E%9F%E4%B8%BB%E4%BA%BA%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%B8%8D%E6%8B%85%E8%B4%A3%E5%90%97%23" target="weibo">
-狗被遗弃原主人就可以不担责吗（热度：394193）
 </a>
 </li>
 
@@ -675,8 +681,20 @@ MIUI（热度：387022）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9%E8%A2%AD%E5%87%BB%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%BE%B9%E7%95%8C%23" target="weibo">
+以色列用白磷弹袭击黎巴嫩边界（热度：363624）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%B0%8A%E4%B8%80%E5%AE%B6%E5%92%8C%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%90%88%E5%BD%B1%23" target="weibo">
 吴尊一家和周杰伦合影（热度：355578）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E9%A3%9E%E6%9C%BA%E9%A4%90%E5%8F%914%E4%B8%AA%E9%A6%92%E5%A4%B41%E7%89%87%E7%99%BD%E8%8F%9C%23" target="weibo">
+南航飞机餐发4个馒头1片白菜（热度：351566）
 </a>
 </li>
 
@@ -707,6 +725,12 @@ MIUI（热度：387022）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E5%86%B2%E8%BF%87%E6%9D%A5%E4%B8%80%E6%8A%8A%E6%89%AF%E5%BC%80%E6%8D%82%E4%BD%8F%E5%A6%B9%E5%A6%B9%E7%9A%84%E8%A2%AB%E5%AD%90%23" target="weibo">
 哥哥冲过来一把扯开捂住妹妹的被子（热度：337880）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
+警方回应狗主人调查情况（热度：337708）
 </a>
 </li>
 
@@ -797,6 +821,12 @@ MIUI（热度：387022）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E6%B4%81%E9%83%BD%E6%BC%94%E6%9D%8E%E6%98%80%E9%94%90%E7%9A%84%E5%A6%88%E4%BA%86%23" target="weibo">
 董洁都演李昀锐的妈了（热度：301318）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E7%A7%B0%E8%AF%A5%E5%9B%BD%E6%9C%89%E5%8F%AF%E8%83%BD%E5%8F%82%E6%88%98%23" target="weibo">
+伊朗外长称该国有可能参战（热度：296849）
 </a>
 </li>
 
@@ -1007,6 +1037,12 @@ iPhone15ProMax大陆零部件仅占2%（热度：283552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%A6%81%E4%B9%85%E4%B9%85%E7%88%B1%E9%9B%86%E6%95%B0%E5%8F%98%E6%9B%B4%23" target="weibo">
 杨紫范丞丞要久久爱集数变更（热度：243855）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%8F%88%E4%B8%80%E6%81%B6%E7%8A%AC%E8%BF%BD%E5%92%AC2%E5%90%8D%E5%B9%BC%E7%AB%A5%23" target="weibo">
+四川又一恶犬追咬2名幼童（热度：239619）
 </a>
 </li>
 
@@ -1233,6 +1269,12 @@ iPhone15ProMax大陆零部件仅占2%（热度：283552）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%B7%A5%E4%BD%9C%E7%BB%84%E9%80%9A%E6%8A%A5%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E6%83%85%E5%86%B5%23" target="weibo">
+联合工作组通报狗咬伤女童情况（热度：194563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9F%8E%E7%AE%A1%E4%B8%A5%E6%9F%A5%E9%81%9B%E7%8B%97%E4%B8%8D%E6%A0%93%E7%BB%B3%E5%8F%91%E7%8E%B0%E5%B0%B1%E6%9A%82%E6%89%A3%23" target="weibo">
 城管严查遛狗不栓绳发现就暂扣（热度：194268）
 </a>
@@ -1253,12 +1295,6 @@ iPhone15ProMax大陆零部件仅占2%（热度：283552）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%E4%BB%8A%E6%99%9A%E5%88%86%E5%AE%B6%23" target="weibo">
 田耕纪今晚分家（热度：192834）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%B0%83%E6%9F%A5%E6%83%85%E5%86%B5%23" target="weibo">
-警方回应狗主人调查情况（热度：192283）
 </a>
 </li>
 
@@ -1329,6 +1365,12 @@ Chovy破韩服纪录（热度：188294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E5%88%B0%E8%BE%BE%E7%BB%8D%E5%85%B4%23" target="weibo">
+邓为到达绍兴（热度：184899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%88%E6%8A%A4%E7%94%9C%E5%BF%83%20%E6%8A%BD%E8%B5%8F%23" target="weibo">
 守护甜心 抽赏（热度：184583）
 </a>
@@ -1337,12 +1379,6 @@ Chovy破韩服纪录（热度：188294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%84%BE%E8%83%83%E8%99%9A%E5%90%83%E8%BF%99%E5%85%AB%E7%A7%8D%E9%A3%9F%E7%89%A9%23" target="weibo">
 脾胃虚吃这八种食物（热度：184120）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E8%88%AA%E9%A3%9E%E6%9C%BA%E9%A4%90%E5%8F%914%E4%B8%AA%E9%A6%92%E5%A4%B41%E7%89%87%E7%99%BD%E8%8F%9C%23" target="weibo">
-南航飞机餐发4个馒头1片白菜（热度：182779）
 </a>
 </li>
 
@@ -1425,20 +1461,8 @@ Chovy破韩服纪录（热度：188294）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E7%A7%B0%E8%AF%A5%E5%9B%BD%E6%9C%89%E5%8F%AF%E8%83%BD%E5%8F%82%E6%88%98%23" target="weibo">
-伊朗外长称该国有可能参战（热度：166050）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B8%A6%E4%B8%80%E8%B7%AF%E5%8D%81%E5%91%A8%E5%B9%B4%23" target="weibo">
 一带一路十周年（热度：163116）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%94%A8%E7%99%BD%E7%A3%B7%E5%BC%B9%E8%A2%AD%E5%87%BB%E9%BB%8E%E5%B7%B4%E5%AB%A9%E8%BE%B9%E7%95%8C%23" target="weibo">
-以色列用白磷弹袭击黎巴嫩边界（热度：159903）
 </a>
 </li>
 
@@ -1457,6 +1481,12 @@ Chovy破韩服纪录（热度：188294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%9B%A8%E5%BD%A4%E5%9B%9E%E5%A4%8D%E9%9F%A9%E7%81%AB%E7%81%AB%23" target="weibo">
 周雨彤回复韩火火（热度：155927）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%A3%E7%BE%8E%E6%96%B0%E6%AD%8C%E5%85%AC%E5%BC%80%23" target="weibo">
+宣美新歌公开（热度：155563）
 </a>
 </li>
 
@@ -1713,6 +1743,12 @@ Chovy破韩服纪录（热度：188294）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23100%E5%B9%B4%E5%89%8D%E7%9A%84%E9%9F%B3%E4%B9%90%E5%B1%85%E7%84%B6%E5%A4%8D%E6%B4%BB%E4%BA%86%23" target="weibo">
+100年前的音乐居然复活了（热度：61846）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%23" target="weibo">
 现在就出发（热度：54160）
 </a>
@@ -1720,7 +1756,7 @@ Chovy破韩服纪录（热度：188294）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E6%82%9F%E4%B8%9C%E6%96%B9%E6%99%BA%E6%85%A7%E7%9A%84%E8%9E%8D%E4%BC%9A%E8%B4%AF%E9%80%9A%23" target="weibo">
-感悟东方智慧的融会贯通（热度：50595）
+感悟东方智慧的融会贯通（热度：52944）
 </a>
 </li>
 
@@ -1811,6 +1847,12 @@ Chovy破韩服纪录（热度：188294）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%93%88%E5%8F%8C%E6%96%B9%E8%A6%81%E5%9D%9A%E6%8C%81%E5%88%9D%E5%BF%83%E5%AE%88%E6%9C%9B%E7%9B%B8%E5%8A%A9%23%23" target="weibo">
 #中哈双方要坚持初心守望相助#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E6%99%BA%E5%85%B3%E7%B3%BB%E5%88%9B%E4%B8%8B%E5%A4%9A%E9%A1%B9%E7%AC%AC%E4%B8%80%23%23" target="weibo">
+#中智关系创下多项第一#
 </a>
 </li>
 
