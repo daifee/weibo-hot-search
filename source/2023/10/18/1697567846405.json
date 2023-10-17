@@ -1,0 +1,410 @@
+{
+  "runTime": 1697567846405,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 293173,
+        "num": 293173,
+        "word": "去年我国一孩出生低于450万",
+        "onboard_time": 1697563280,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162948,
+        "num": 162948,
+        "word": "傅首尔觉得老刘不爱她的原因",
+        "onboard_time": 1697562203,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 9889,
+        "num": 130898,
+        "word": "丝路之歌一路繁花",
+        "onboard_time": 1697548239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 118900,
+        "num": 118900,
+        "word": "长相思晚会 尴尬",
+        "onboard_time": 1697549439,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67722,
+        "num": 67722,
+        "word": "普京抵达人民大会堂",
+        "onboard_time": 1697546254,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 98711,
+        "num": 64155,
+        "word": "檀健次摘耳返",
+        "onboard_time": 1697553041,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94625,
+        "num": 62333,
+        "word": "联合国称以色列可能构成国际犯罪",
+        "onboard_time": 1697551784,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 85450,
+        "num": 60738,
+        "word": "扶杨紫的小姐姐撞进了邓为怀里",
+        "onboard_time": 1697548298,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51781,
+        "num": 51781,
+        "word": "莲花楼演唱会 诚意满满",
+        "onboard_time": 1697553761,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47944,
+        "num": 51767,
+        "word": "iPad eSIM",
+        "onboard_time": 1697551118,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 303012,
+        "num": 51685,
+        "word": "退钱",
+        "onboard_time": 1697554363,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 243840,
+        "num": 51671,
+        "word": "网友曝吴磊借自行车拒绝合影",
+        "onboard_time": 1697543375,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93501,
+        "num": 51572,
+        "word": "被烈犬咬伤女童立即手术或面临摘肾",
+        "onboard_time": 1697535637,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74570,
+        "num": 51561,
+        "word": "长相思演唱会",
+        "onboard_time": 1697544574,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70467,
+        "num": 51472,
+        "word": "屁股针为什么消失了",
+        "onboard_time": 1697528853,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81957,
+        "num": 51419,
+        "word": "成都大狗咬伤女童所在小区业主发声",
+        "onboard_time": 1697543614,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 71135,
+        "num": 51379,
+        "word": "广告公司向车主和吴磊道歉",
+        "onboard_time": 1697549921,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48396,
+        "num": 51286,
+        "word": "宋仲基海外试镜全部被淘汰",
+        "onboard_time": 1697528313,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55084,
+        "num": 51265,
+        "word": "咬伤女童罗威纳犬打过狂犬疫苗",
+        "onboard_time": 1697539539,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45242,
+        "num": 51229,
+        "word": "重庆明确规定禁养32种犬只",
+        "onboard_time": 1697550520,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103489,
+        "num": 51132,
+        "word": "00后买刮刮乐中100万分男友10万",
+        "onboard_time": 1697552620,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51121,
+        "num": 51121,
+        "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
+        "onboard_time": 1697554181,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45328,
+        "num": 51116,
+        "word": "网传2024湖南卫视跨年演唱会名单",
+        "onboard_time": 1697550223,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44361,
+        "num": 51109,
+        "word": "被黄凯的实习日记鼓舞到了",
+        "onboard_time": 1697548298,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39590,
+        "num": 51109,
+        "word": "天官赐福花城谢怜双人海报",
+        "onboard_time": 1697549258,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 40738,
+        "num": 51102,
+        "word": "黄凯证明了励志故事实现的可能性",
+        "onboard_time": 1697543734,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38219,
+        "num": 51092,
+        "word": "建议洗脸要洗发际线",
+        "onboard_time": 1697552982,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 36783,
+        "num": 51086,
+        "word": "enhypen QQ音乐压价",
+        "onboard_time": 1697554782,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 35672,
+        "num": 51082,
+        "word": "给黑狗逼得上手了",
+        "onboard_time": 1697557716,
+        "rank": 28,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 33999,
+        "num": 51073,
+        "word": "王楚钦比赛也逃不过写论文",
+        "onboard_time": 1697553646,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34658,
+        "num": 51072,
+        "word": "原来发型这么重要",
+        "onboard_time": 1697555864,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31941,
+        "num": 51065,
+        "word": "一带一路",
+        "onboard_time": 1697538697,
+        "rank": 31,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 31251,
+        "num": 51058,
+        "word": "A股大概率有超越5年一遇级别的牛市",
+        "onboard_time": 1697539177,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 30752,
+        "num": 51049,
+        "word": "老公抬妾我吃席",
+        "onboard_time": 1697555323,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29809,
+        "num": 51045,
+        "word": "问心医学细节",
+        "onboard_time": 1697549140,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30399,
+        "num": 51040,
+        "word": "周也撞脸loopy",
+        "onboard_time": 1697559509,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29709,
+        "num": 51032,
+        "word": "救了个老人是曾经的小学老师",
+        "onboard_time": 1697561125,
+        "rank": 36,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 29380,
+        "num": 51026,
+        "word": "白鹿的狗到底有多少小发卡",
+        "onboard_time": 1697561425,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29046,
+        "num": 51024,
+        "word": "苏醒让栎鑫和栎迷们以后不要再支持了",
+        "onboard_time": 1697541396,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26956,
+        "num": 51015,
+        "word": "华为手机销量跃至国内第一",
+        "onboard_time": 1697552560,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27859,
+        "num": 51006,
+        "word": "方筱然操不完的心",
+        "onboard_time": 1697551964,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26890,
+        "num": 51003,
+        "word": "情侣每天聊天词穷怎么办",
+        "onboard_time": 1697540077,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25906,
+        "num": 50996,
+        "word": "中国邮政 魔道祖师",
+        "onboard_time": 1697538519,
+        "rank": 42,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 25762,
+        "num": 50994,
+        "word": "南航飞机餐发4个馒头1片白菜",
+        "onboard_time": 1697533534,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 25250,
+        "num": 50987,
+        "word": "田耕纪 母女线",
+        "onboard_time": 1697564779,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24997,
+        "num": 50978,
+        "word": "英伟达大跌",
+        "onboard_time": 1697552620,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24381,
+        "num": 50974,
+        "word": "琉璃垂翎",
+        "onboard_time": 1697565138,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23771,
+        "num": 50964,
+        "word": "SEVENTEEN新曲 泄露",
+        "onboard_time": 1697547038,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23325,
+        "num": 50958,
+        "word": "王栎鑫向张杰吐槽逆战难唱",
+        "onboard_time": 1697543255,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22597,
+        "num": 50953,
+        "word": "电影学爸的问题出在哪",
+        "onboard_time": 1697567416,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697567026082,
+  "endTime": 1697567846405,
   "band_list": [
     {
       "raw_hot": 2106907,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 30239,
-      "num": 49863,
+      "num": 50987,
       "word": "田耕纪 母女线",
       "onboard_time": 1697564779,
       "rank": 43,
@@ -508,11 +508,19 @@
     },
     {
       "raw_hot": 26701,
-      "num": 49849,
+      "num": 50974,
       "word": "琉璃垂翎",
       "onboard_time": 1697565138,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 22597,
+      "num": 50953,
+      "word": "电影学爸的问题出在哪",
+      "onboard_time": 1697567416,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 11089,
