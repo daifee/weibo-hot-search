@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697542453760,
+  "endTime": 1697546069501,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -33,6 +33,14 @@
       "onboard_time": 1697528853,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 2551219,
+      "num": 371550,
+      "word": "网友曝吴磊借自行车拒绝合影",
+      "onboard_time": 1697543375,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2509387,
@@ -105,6 +113,14 @@
       "onboard_time": 1697512895,
       "rank": 15,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1897308,
+      "num": 1897308,
+      "word": "长相思演唱会",
+      "onboard_time": 1697544574,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 1832928,
@@ -475,6 +491,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 760443,
+      "num": 326224,
+      "word": "罗威纳",
+      "onboard_time": 1697540739,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 741165,
       "num": 741165,
       "word": "IVE李瑞在翰林高中被骚扰",
@@ -515,12 +539,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 729533,
-      "num": 326224,
-      "word": "罗威纳",
-      "onboard_time": 1697540739,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 724109,
+      "num": 350609,
+      "word": "杨紫流光羽毛裙",
+      "onboard_time": 1697545533,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 718880,
@@ -715,7 +739,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 542071,
+      "raw_hot": 551917,
       "num": 539651,
       "word": "长相思角色号醒了",
       "onboard_time": 1697529336,
@@ -819,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456029,
+      "num": 456029,
+      "word": "王栎鑫向张杰吐槽逆战难唱",
+      "onboard_time": 1697543255,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 451609,
       "num": 451609,
       "word": "朱一龙 北大",
@@ -907,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410010,
+      "num": 410010,
+      "word": "星巴克小杯",
+      "onboard_time": 1697542475,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 407701,
       "num": 4120860,
       "word": "新疆男孩脱口而出自己是中华民族",
@@ -953,6 +993,14 @@
       "onboard_time": 1697529455,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385212,
+      "num": 280307,
+      "word": "长相思演唱会彩排路透",
+      "onboard_time": 1697543435,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 376418,
@@ -1027,6 +1075,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 341416,
+      "num": 260241,
+      "word": "疯狗咬人不松口怎么办",
+      "onboard_time": 1697544873,
+      "rank": 24,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 341064,
       "num": 341064,
       "word": "虞书欣THE9演唱会粉丝应援",
@@ -1099,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331922,
+      "num": 282045,
+      "word": "读研究生以来最爽时刻",
+      "onboard_time": 1697541574,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 330628,
       "num": 330628,
       "word": "庆余年2新角色剧照",
@@ -1131,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320070,
+      "num": 320070,
+      "word": "张雨绮居然爱珍珠奶茶泡面",
+      "onboard_time": 1697543674,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319367,
       "num": 319367,
       "word": "宾大将追授林徽因建筑学学士",
@@ -1151,6 +1223,14 @@
       "num": 317255,
       "word": "1米86辅警搀扶走失老人穿街走巷寻家",
       "onboard_time": 1697499750,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315140,
+      "num": 245847,
+      "word": "成都大狗咬伤女童所在小区业主发声",
+      "onboard_time": 1697543614,
       "rank": 27,
       "category": "社会新闻"
     },
@@ -1283,14 +1363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282045,
-      "num": 282045,
-      "word": "读研究生以来最爽时刻",
-      "onboard_time": 1697541574,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 277661,
       "num": 277661,
       "word": "韩素希点赞newjeans相关帖子",
@@ -1377,6 +1449,14 @@
       "onboard_time": 1697508813,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264239,
+      "num": 264239,
+      "word": "令人心动的offer",
+      "onboard_time": 1697544638,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 263406,
@@ -1867,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194504,
+      "num": 194504,
+      "word": "黄凯证明了励志故事实现的可能性",
+      "onboard_time": 1697543734,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194268,
       "num": 194268,
       "word": "城管严查遛狗不栓绳发现就暂扣",
@@ -2035,6 +2123,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 185820,
+      "num": 185820,
+      "word": "汪苏泷盗月社为i做e",
+      "onboard_time": 1697544757,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184899,
       "num": 184899,
       "word": "邓为到达绍兴",
@@ -2155,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167715,
+      "num": 167715,
+      "word": "迪丽热巴梦境vlog",
+      "onboard_time": 1697544937,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166895,
       "num": 166895,
       "word": "于正说喜欢华浅就像喜欢魏璎珞",
@@ -2211,6 +2315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 158570,
+      "num": 158570,
+      "word": "18名大学生被困电梯救援全程兴奋拍照",
+      "onboard_time": 1697542955,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 155927,
       "num": 155927,
       "word": "周雨彤回复韩火火",
@@ -2265,6 +2377,14 @@
       "onboard_time": 1697511393,
       "rank": 49,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 147953,
+      "num": 147953,
+      "word": "一块巧克力一份鸡腿饭暖了一颗心",
+      "onboard_time": 1697545775,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 147115,
@@ -2553,6 +2673,14 @@
       "onboard_time": 1697534560,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 67817,
+      "num": 169271,
+      "word": "你支持将双十一定为节假日吗",
+      "onboard_time": 1697544039,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66403,

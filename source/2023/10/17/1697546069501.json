@@ -1,0 +1,410 @@
+{
+  "runTime": 1697546069501,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1897308,
+        "num": 1897308,
+        "word": "长相思演唱会",
+        "onboard_time": 1697544574,
+        "rank": 0,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 456029,
+        "num": 456029,
+        "word": "王栎鑫向张杰吐槽逆战难唱",
+        "onboard_time": 1697543255,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29696,
+        "num": 449462,
+        "word": "感悟东方智慧的融会贯通",
+        "onboard_time": 1697531795,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551917,
+        "num": 440042,
+        "word": "长相思角色号醒了",
+        "onboard_time": 1697529336,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 541154,
+        "num": 434295,
+        "word": "A股大概率有超越5年一遇级别的牛市",
+        "onboard_time": 1697539177,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 540311,
+        "num": 424033,
+        "word": "宋仲基海外试镜全部被淘汰",
+        "onboard_time": 1697528313,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419883,
+        "num": 419883,
+        "word": "南航飞机餐发4个馒头1片白菜",
+        "onboard_time": 1697533534,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410010,
+        "num": 410010,
+        "word": "星巴克小杯",
+        "onboard_time": 1697542475,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 396543,
+        "num": 396543,
+        "word": "中国邮政 魔道祖师",
+        "onboard_time": 1697538519,
+        "rank": 8,
+        "category": "社会新闻,动漫"
+      },
+      {
+        "raw_hot": 387636,
+        "num": 387636,
+        "word": "庆余年2有徐志胜",
+        "onboard_time": 1697530297,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2969741,
+        "num": 381252,
+        "word": "狗主人被采取刑事强制措施",
+        "onboard_time": 1697536538,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2551219,
+        "num": 371550,
+        "word": "网友曝吴磊借自行车拒绝合影",
+        "onboard_time": 1697543375,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1355120,
+        "num": 364555,
+        "word": "被烈犬咬伤女童立即手术或面临摘肾",
+        "onboard_time": 1697535637,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 724109,
+        "num": 350609,
+        "word": "杨紫流光羽毛裙",
+        "onboard_time": 1697545533,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 718282,
+        "num": 335137,
+        "word": "屁股针为什么消失了",
+        "onboard_time": 1697528853,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 760443,
+        "num": 324988,
+        "word": "罗威纳",
+        "onboard_time": 1697540739,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 320070,
+        "num": 320070,
+        "word": "张雨绮居然爱珍珠奶茶泡面",
+        "onboard_time": 1697543674,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281258,
+        "num": 281258,
+        "word": "傅云深用一房一狗求婚",
+        "onboard_time": 1697541215,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 446205,
+        "num": 281073,
+        "word": "拉布拉多",
+        "onboard_time": 1697537561,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 280356,
+        "num": 280356,
+        "word": "以色列用白磷弹袭击黎巴嫩边界",
+        "onboard_time": 1697534078,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 385212,
+        "num": 280307,
+        "word": "长相思演唱会彩排路透",
+        "onboard_time": 1697543435,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 383696,
+        "num": 279539,
+        "word": "咬伤女童罗威纳犬打过狂犬疫苗",
+        "onboard_time": 1697539539,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331922,
+        "num": 272149,
+        "word": "读研究生以来最爽时刻",
+        "onboard_time": 1697541574,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264239,
+        "num": 264239,
+        "word": "令人心动的offer",
+        "onboard_time": 1697544638,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 341416,
+        "num": 260241,
+        "word": "疯狗咬人不松口怎么办",
+        "onboard_time": 1697544873,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 254305,
+        "num": 254305,
+        "word": "苏醒让栎鑫和栎迷们以后不要再支持了",
+        "onboard_time": 1697541396,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248591,
+        "num": 248591,
+        "word": "9岁摄影师镜头下的张艺兴",
+        "onboard_time": 1697542057,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315140,
+        "num": 245847,
+        "word": "成都大狗咬伤女童所在小区业主发声",
+        "onboard_time": 1697543614,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268791,
+        "num": 239621,
+        "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
+        "onboard_time": 1697536777,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212509,
+        "num": 212509,
+        "word": "男子中3342万元巨奖15分钟火速领奖",
+        "onboard_time": 1697532395,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218069,
+        "num": 211887,
+        "word": "情侣每天聊天词穷怎么办",
+        "onboard_time": 1697540077,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211019,
+        "num": 211019,
+        "word": "成都咬伤女童的罗威纳犬被捕获",
+        "onboard_time": 1697530836,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194504,
+        "num": 194504,
+        "word": "黄凯证明了励志故事实现的可能性",
+        "onboard_time": 1697543734,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185820,
+        "num": 185820,
+        "word": "汪苏泷盗月社为i做e",
+        "onboard_time": 1697544757,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185073,
+        "num": 185073,
+        "word": "乞丐情头",
+        "onboard_time": 1697528075,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184335,
+        "num": 184335,
+        "word": "游乐王子版谢怜",
+        "onboard_time": 1697541396,
+        "rank": 35,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 181046,
+        "num": 181046,
+        "word": "李沁暂别林婉儿",
+        "onboard_time": 1697528435,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174620,
+        "num": 174620,
+        "word": "医生建议被恶犬撕咬女童保守治疗",
+        "onboard_time": 1697526273,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174462,
+        "num": 174462,
+        "word": "院长为周筱风主持公道",
+        "onboard_time": 1697542294,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67817,
+        "num": 169271,
+        "word": "你支持将双十一定为节假日吗",
+        "onboard_time": 1697544039,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168629,
+        "num": 168629,
+        "word": "物业回应保洁阿姨为女童挡狗",
+        "onboard_time": 1697530174,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167715,
+        "num": 167715,
+        "word": "迪丽热巴梦境vlog",
+        "onboard_time": 1697544937,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162969,
+        "num": 162969,
+        "word": "一带一路",
+        "onboard_time": 1697538697,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 160952,
+        "num": 160952,
+        "word": "钢铁侠今天在漫威宇宙正式去世",
+        "onboard_time": 1697533658,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158570,
+        "num": 158570,
+        "word": "18名大学生被困电梯救援全程兴奋拍照",
+        "onboard_time": 1697542955,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153540,
+        "num": 153540,
+        "word": "新疆男孩脱口而出自己是中华民族",
+        "onboard_time": 1697530297,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153528,
+        "num": 153528,
+        "word": "碧桂园所持6368万股权被冻结",
+        "onboard_time": 1697539419,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 151215,
+        "num": 151215,
+        "word": "庆余年2新角色剧照",
+        "onboard_time": 1697532395,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148757,
+        "num": 148757,
+        "word": "SM否认朴灿烈吴世勋签约新公司",
+        "onboard_time": 1697530416,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147953,
+        "num": 147953,
+        "word": "一块巧克力一份鸡腿饭暖了一颗心",
+        "onboard_time": 1697545775,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697542453760,
+  "endTime": 1697546069501,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -97,6 +97,14 @@
       "onboard_time": 1697460934,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2551219,
+      "num": 371550,
+      "word": "网友曝吴磊借自行车拒绝合影",
+      "onboard_time": 1697543375,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 2509387,
@@ -297,6 +305,14 @@
       "onboard_time": 1697456313,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1897308,
+      "num": 1897308,
+      "word": "长相思演唱会",
+      "onboard_time": 1697544574,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 1886530,
@@ -1259,6 +1275,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 760443,
+      "num": 326224,
+      "word": "罗威纳",
+      "onboard_time": 1697447194,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 759133,
       "num": 759133,
       "word": "BBC总部被亲巴勒斯坦组织泼红漆",
@@ -1331,12 +1355,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 729533,
-      "num": 326224,
-      "word": "罗威纳",
-      "onboard_time": 1697447194,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 724109,
+      "num": 350609,
+      "word": "杨紫流光羽毛裙",
+      "onboard_time": 1697545533,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 718880,
@@ -1891,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 551917,
+      "num": 539651,
+      "word": "长相思角色号醒了",
+      "onboard_time": 1697529336,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 550572,
       "num": 550572,
       "word": "马来西亚36岁演员帮子女洗澡时猝逝",
@@ -1929,14 +1961,6 @@
       "onboard_time": 1697463575,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 542071,
-      "num": 539651,
-      "word": "长相思角色号醒了",
-      "onboard_time": 1697529336,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 541996,
@@ -2387,6 +2411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 456029,
+      "num": 456029,
+      "word": "王栎鑫向张杰吐槽逆战难唱",
+      "onboard_time": 1697543255,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455090,
       "num": 455090,
       "word": "社保缴15年和25年待遇差别",
@@ -2731,6 +2763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 410010,
+      "num": 410010,
+      "word": "星巴克小杯",
+      "onboard_time": 1697542475,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 408558,
       "num": 408558,
       "word": "中方呼吁召开巴以冲突国际和会",
@@ -2921,6 +2961,14 @@
       "onboard_time": 1697529455,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385212,
+      "num": 280307,
+      "word": "长相思演唱会彩排路透",
+      "onboard_time": 1697543435,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 383541,
@@ -3291,6 +3339,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 341416,
+      "num": 260241,
+      "word": "疯狗咬人不松口怎么办",
+      "onboard_time": 1697544873,
+      "rank": 24,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 341064,
       "num": 341064,
       "word": "虞书欣THE9演唱会粉丝应援",
@@ -3401,6 +3457,14 @@
       "onboard_time": 1697439094,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 331922,
+      "num": 282045,
+      "word": "读研究生以来最爽时刻",
+      "onboard_time": 1697541574,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 331645,
@@ -3515,6 +3579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 320070,
+      "num": 320070,
+      "word": "张雨绮居然爱珍珠奶茶泡面",
+      "onboard_time": 1697543674,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 319967,
       "num": 319967,
       "word": "这才是面试官爱听的离职原因",
@@ -3567,6 +3639,14 @@
       "num": 317255,
       "word": "1米86辅警搀扶走失老人穿街走巷寻家",
       "onboard_time": 1697499750,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315140,
+      "num": 245847,
+      "word": "成都大狗咬伤女童所在小区业主发声",
+      "onboard_time": 1697543614,
       "rank": 27,
       "category": "社会新闻"
     },
@@ -3947,14 +4027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 282045,
-      "num": 282045,
-      "word": "读研究生以来最爽时刻",
-      "onboard_time": 1697541574,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 279754,
       "num": 279754,
       "word": "南海归墟预约量破200万",
@@ -4193,6 +4265,14 @@
       "onboard_time": 1697508813,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264239,
+      "num": 264239,
+      "word": "令人心动的offer",
+      "onboard_time": 1697544638,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 264133,
@@ -5731,6 +5811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 194504,
+      "num": 194504,
+      "word": "黄凯证明了励志故事实现的可能性",
+      "onboard_time": 1697543734,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194502,
       "num": 194502,
       "word": "美企1美元卖亏损工厂中企接手盈利",
@@ -6105,6 +6193,14 @@
       "onboard_time": 1697505033,
       "rank": 48,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 185820,
+      "num": 185820,
+      "word": "汪苏泷盗月社为i做e",
+      "onboard_time": 1697544757,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 185627,
@@ -6611,6 +6707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167715,
+      "num": 167715,
+      "word": "迪丽热巴梦境vlog",
+      "onboard_time": 1697544937,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166895,
       "num": 166895,
       "word": "于正说喜欢华浅就像喜欢魏璎珞",
@@ -6785,6 +6889,14 @@
       "onboard_time": 1697462735,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158570,
+      "num": 158570,
+      "word": "18名大学生被困电梯救援全程兴奋拍照",
+      "onboard_time": 1697542955,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 157572,
@@ -7033,6 +7145,14 @@
       "onboard_time": 1697365058,
       "rank": 36,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 147953,
+      "num": 147953,
+      "word": "一块巧克力一份鸡腿饭暖了一颗心",
+      "onboard_time": 1697545775,
+      "rank": 49,
+      "category": "社会正能量"
     },
     {
       "raw_hot": 147115,
@@ -7809,6 +7929,14 @@
       "onboard_time": 1697368415,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 67817,
+      "num": 169271,
+      "word": "你支持将双十一定为节假日吗",
+      "onboard_time": 1697544039,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66801,
