@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697564065028,
+  "endTime": 1697567026082,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -3721,6 +3721,14 @@
       "onboard_time": 1697532395,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 330446,
+      "num": 330446,
+      "word": "去年我国一孩出生低于450万",
+      "onboard_time": 1697563280,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 329418,
@@ -8435,14 +8443,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 66179,
-      "num": 77316,
-      "word": "去年我国一孩出生低于450万",
-      "onboard_time": 1697563280,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 65783,
       "num": 1557741,
       "word": "沿着一带一路去旅行",
@@ -8643,6 +8643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30239,
+      "num": 49863,
+      "word": "田耕纪 母女线",
+      "onboard_time": 1697564779,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29360,
       "num": 341321,
       "word": "青春郑州炫舞世界",
@@ -8681,6 +8689,14 @@
       "onboard_time": 1697393896,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 26701,
+      "num": 49849,
+      "word": "琉璃垂翎",
+      "onboard_time": 1697565138,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 26628,
@@ -8787,7 +8803,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10147,
+      "raw_hot": 11089,
       "num": 236733,
       "word": "丝路之歌一路繁花",
       "onboard_time": 1697548239,
