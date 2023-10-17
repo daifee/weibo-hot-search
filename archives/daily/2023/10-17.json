@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697553282058,
+  "endTime": 1697555906604,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -41,6 +41,14 @@
       "onboard_time": 1697543375,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2751090,
+      "num": 518343,
+      "word": "退钱",
+      "onboard_time": 1697554363,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 2731186,
@@ -187,6 +195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1609006,
+      "num": 1609006,
+      "word": "莲花楼演唱会 诚意满满",
+      "onboard_time": 1697553761,
+      "rank": 0,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1582280,
       "num": 716053,
       "word": "以军称在空袭行动中打死一哈马斯高级领导人",
@@ -305,6 +321,14 @@
       "onboard_time": 1697523213,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1197179,
+      "num": 802745,
+      "word": "檀健次摘耳返",
+      "onboard_time": 1697553041,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1177729,
@@ -427,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 907452,
+      "num": 476368,
+      "word": "00后买刮刮乐中100万分男友10万",
+      "onboard_time": 1697552620,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 894820,
       "num": 894820,
       "word": "钢铁侠今天在漫威宇宙正式去世",
@@ -441,6 +473,14 @@
       "onboard_time": 1697465736,
       "rank": 0,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 891752,
+      "num": 891752,
+      "word": "王楚钦比赛也逃不过写论文",
+      "onboard_time": 1697553646,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 858223,
@@ -499,6 +539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 813554,
+      "num": 813554,
+      "word": "网传2024湖南卫视跨年演唱会名单",
+      "onboard_time": 1697550223,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 810386,
       "num": 810386,
       "word": "苹果宣布新增2500万元捐款",
@@ -524,7 +572,7 @@
     },
     {
       "raw_hot": 789362,
-      "num": 501563,
+      "num": 508679,
       "word": "广告公司向车主和吴磊道歉",
       "onboard_time": 1697549921,
       "rank": 16,
@@ -545,6 +593,14 @@
       "onboard_time": 1697523511,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 780003,
+      "num": 780003,
+      "word": "联合国称以色列可能构成国际犯罪",
+      "onboard_time": 1697551784,
+      "rank": 39,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 779191,
@@ -569,14 +625,6 @@
       "onboard_time": 1697523511,
       "rank": 34,
       "category": "美食"
-    },
-    {
-      "raw_hot": 762290,
-      "num": 762290,
-      "word": "网传2024湖南卫视跨年演唱会名单",
-      "onboard_time": 1697550223,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 760443,
@@ -641,14 +689,6 @@
       "onboard_time": 1697551118,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 721312,
-      "num": 466939,
-      "word": "檀健次摘耳返",
-      "onboard_time": 1697553041,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 718880,
@@ -891,14 +931,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 511433,
-      "num": 444866,
-      "word": "00后买刮刮乐中100万分男友10万",
-      "onboard_time": 1697552620,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505108,
       "num": 357826,
       "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
@@ -929,6 +961,14 @@
       "onboard_time": 1697480416,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 488400,
+      "num": 488400,
+      "word": "enhypen QQ音乐压价",
+      "onboard_time": 1697554782,
+      "rank": 19,
+      "category": "音乐"
     },
     {
       "raw_hot": 487015,
@@ -1011,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449567,
+      "num": 449567,
+      "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
+      "onboard_time": 1697554181,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446940,
       "num": 226009,
       "word": "MiuMiu钻石内裤",
@@ -1033,14 +1081,6 @@
       "onboard_time": 1697531255,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 442137,
-      "num": 444903,
-      "word": "联合国称以色列可能构成国际犯罪",
-      "onboard_time": 1697551784,
-      "rank": 39,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 434322,
@@ -1147,12 +1187,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397063,
+      "num": 397063,
+      "word": "成都大狗咬伤女童所在小区业主发声",
+      "onboard_time": 1697543614,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387022,
       "num": 387022,
       "word": "MIUI",
       "onboard_time": 1697511993,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 386543,
+      "num": 386543,
+      "word": "建议洗脸要洗发际线",
+      "onboard_time": 1697552982,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 385614,
@@ -1203,19 +1259,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365395,
+      "num": 365395,
+      "word": "英伟达大跌",
+      "onboard_time": 1697552620,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 364558,
       "num": 247048,
       "word": "成都禁养犬名单",
       "onboard_time": 1697469037,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 356912,
-      "num": 347194,
-      "word": "成都大狗咬伤女童所在小区业主发声",
-      "onboard_time": 1697543614,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -1340,7 +1396,7 @@
     },
     {
       "raw_hot": 327183,
-      "num": 253630,
+      "num": 273702,
       "word": "被黄凯的实习日记鼓舞到了",
       "onboard_time": 1697548298,
       "rank": 32,
@@ -1363,28 +1419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 324725,
-      "num": 262391,
-      "word": "建议洗脸要洗发际线",
-      "onboard_time": 1697552982,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 321331,
       "num": 307112,
       "word": "韩国人想跟法国人交朋友的原因",
       "onboard_time": 1697548718,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320726,
-      "num": 320726,
-      "word": "英伟达大跌",
-      "onboard_time": 1697552620,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 320400,
@@ -1443,6 +1483,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 313781,
+      "num": 313781,
+      "word": "华为手机销量跃至国内第一",
+      "onboard_time": 1697552560,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 313311,
       "num": 313311,
       "word": "天官赐福",
@@ -1456,6 +1504,14 @@
       "word": "李小冉叫长公主疯女人",
       "onboard_time": 1697531435,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 311167,
+      "num": 311167,
+      "word": "老公抬妾我吃席",
+      "onboard_time": 1697555323,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1579,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281990,
+      "num": 281990,
+      "word": "李佳",
+      "onboard_time": 1697553704,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 277661,
       "num": 277661,
       "word": "韩素希点赞newjeans相关帖子",
@@ -1611,20 +1675,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 272176,
+      "num": 272176,
+      "word": "谢霆锋性张力",
+      "onboard_time": 1697552920,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 271764,
       "num": 271764,
       "word": "美国大学图书馆惊现中国家谱",
       "onboard_time": 1697501798,
       "rank": 32,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 270540,
-      "num": 270540,
-      "word": "华为手机销量跃至国内第一",
-      "onboard_time": 1697552560,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 270273,
@@ -1843,6 +1907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243827,
+      "num": 243827,
+      "word": "黄凯证明了励志故事实现的可能性",
+      "onboard_time": 1697543734,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238894,
       "num": 238894,
       "word": "刘诗诗谢娜和TODS总监合影",
@@ -1955,12 +2027,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220043,
-      "num": 220043,
-      "word": "谢霆锋性张力",
+      "raw_hot": 221813,
+      "num": 221813,
+      "word": "问心 边看边哭",
       "onboard_time": 1697552920,
-      "rank": 38,
-      "category": "作品衍生"
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 219039,
@@ -2017,14 +2089,6 @@
       "onboard_time": 1697540439,
       "rank": 14,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 211783,
-      "num": 210890,
-      "word": "黄凯证明了励志故事实现的可能性",
-      "onboard_time": 1697543734,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 210813,
@@ -2147,6 +2211,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202525,
+      "num": 202525,
+      "word": "被狗咬伤女童尚未脱离危险",
+      "onboard_time": 1697555682,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201598,
+      "num": 201598,
+      "word": "SEVENTEEN主打曲审核程序",
+      "onboard_time": 1697554601,
+      "rank": 39,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 201592,
       "num": 201592,
       "word": "电影靠近我一点定档",
@@ -2233,6 +2313,14 @@
       "onboard_time": 1697520874,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194255,
+      "num": 194255,
+      "word": "为啥不让张晚意唱歌",
+      "onboard_time": 1697555622,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 193945,
@@ -2353,14 +2441,6 @@
       "onboard_time": 1697509893,
       "rank": 35,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 188622,
-      "num": 188622,
-      "word": "问心 边看边哭",
-      "onboard_time": 1697552920,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 188386,
@@ -2603,6 +2683,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 159401,
+      "num": 159401,
+      "word": "问心",
+      "onboard_time": 1697555564,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159144,
       "num": 159144,
       "word": "我们的歌B组阵容",
@@ -2705,6 +2793,14 @@
       "onboard_time": 1697527534,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 146602,
+      "num": 146602,
+      "word": "原来发型这么重要",
+      "onboard_time": 1697555864,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 144244,
