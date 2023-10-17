@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697546069501,
+  "endTime": 1697547037581,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -51,6 +51,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 2867632,
+      "num": 371550,
+      "word": "网友曝吴磊借自行车拒绝合影",
+      "onboard_time": 1697543375,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2818946,
       "num": 2818946,
       "word": "海底捞回应拒绝给棉花娃娃过生日争议",
@@ -99,12 +107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2551219,
-      "num": 371550,
-      "word": "网友曝吴磊借自行车拒绝合影",
-      "onboard_time": 1697543375,
-      "rank": 11,
-      "category": "艺人"
+      "raw_hot": 2511425,
+      "num": 2511425,
+      "word": "长相思演唱会",
+      "onboard_time": 1697544574,
+      "rank": 0,
+      "category": "演出"
     },
     {
       "raw_hot": 2509387,
@@ -305,14 +313,6 @@
       "onboard_time": 1697456313,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1897308,
-      "num": 1897308,
-      "word": "长相思演唱会",
-      "onboard_time": 1697544574,
-      "rank": 0,
-      "category": "演出"
     },
     {
       "raw_hot": 1886530,
@@ -553,6 +553,14 @@
       "onboard_time": 1697363555,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1365289,
+      "num": 350609,
+      "word": "杨紫流光羽毛裙",
+      "onboard_time": 1697545533,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 1361645,
@@ -1131,6 +1139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 824009,
+      "num": 824009,
+      "word": "普京抵达人民大会堂",
+      "onboard_time": 1697546254,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 816570,
       "num": 335440,
       "word": "认知严重障碍的大爷在美发店消费60万",
@@ -1276,7 +1292,7 @@
     },
     {
       "raw_hot": 760443,
-      "num": 326224,
+      "num": 334706,
       "word": "罗威纳",
       "onboard_time": 1697447194,
       "rank": 35,
@@ -1353,14 +1369,6 @@
       "onboard_time": 1697515897,
       "rank": 12,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 724109,
-      "num": 350609,
-      "word": "杨紫流光羽毛裙",
-      "onboard_time": 1697545533,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 718880,
@@ -1779,6 +1787,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 573778,
+      "num": 573778,
+      "word": "长相思角色号醒了",
+      "onboard_time": 1697529336,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 573744,
       "num": 573744,
       "word": "网传外国游客无人机撞损文峰塔",
@@ -1913,14 +1929,6 @@
       "onboard_time": 1697501915,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 551917,
-      "num": 539651,
-      "word": "长相思角色号醒了",
-      "onboard_time": 1697529336,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 550572,
@@ -2395,6 +2403,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 458882,
+      "num": 458882,
+      "word": "王栎鑫向张杰吐槽逆战难唱",
+      "onboard_time": 1697543255,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458126,
       "num": 458126,
       "word": "阿富汗发生6.4级地震",
@@ -2409,14 +2425,6 @@
       "onboard_time": 1697421454,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 456029,
-      "num": 456029,
-      "word": "王栎鑫向张杰吐槽逆战难唱",
-      "onboard_time": 1697543255,
-      "rank": 1,
-      "category": "综艺"
     },
     {
       "raw_hot": 455090,
@@ -2747,6 +2755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 413507,
+      "num": 413507,
+      "word": "星巴克小杯",
+      "onboard_time": 1697542475,
+      "rank": 7,
+      "category": "美食"
+    },
+    {
       "raw_hot": 412830,
       "num": 412830,
       "word": "赵丽颖新妆造",
@@ -2761,14 +2777,6 @@
       "onboard_time": 1697351254,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 410010,
-      "num": 410010,
-      "word": "星巴克小杯",
-      "onboard_time": 1697542475,
-      "rank": 7,
-      "category": "美食"
     },
     {
       "raw_hot": 408558,
@@ -2833,6 +2841,14 @@
       "onboard_time": 1697521952,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 397756,
+      "num": 265529,
+      "word": "疯狗咬人不松口怎么办",
+      "onboard_time": 1697544873,
+      "rank": 24,
+      "category": "知识科普"
     },
     {
       "raw_hot": 397435,
@@ -3337,14 +3353,6 @@
       "onboard_time": 1697445994,
       "rank": 16,
       "category": "作品衍生,幽默"
-    },
-    {
-      "raw_hot": 341416,
-      "num": 260241,
-      "word": "疯狗咬人不松口怎么办",
-      "onboard_time": 1697544873,
-      "rank": 24,
-      "category": "知识科普"
     },
     {
       "raw_hot": 341064,
@@ -4163,6 +4171,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 269965,
+      "num": 269965,
+      "word": "令人心动的offer",
+      "onboard_time": 1697544638,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269752,
       "num": 269752,
       "word": "S13",
@@ -4265,14 +4281,6 @@
       "onboard_time": 1697508813,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 264239,
-      "num": 264239,
-      "word": "令人心动的offer",
-      "onboard_time": 1697544638,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 264133,
@@ -5227,6 +5235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208242,
+      "num": 208242,
+      "word": "唐九洲刮彩票拜黄子弘凡",
+      "onboard_time": 1697546796,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207914,
       "num": 207914,
       "word": "白敬亭说自己录节目第二季才打开",
@@ -5763,6 +5779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195888,
+      "num": 195888,
+      "word": "院长为周筱风主持公道",
+      "onboard_time": 1697542294,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195828,
       "num": 195828,
       "word": "世界粮食日",
@@ -5929,14 +5953,6 @@
       "onboard_time": 1697536418,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192452,
-      "num": 192452,
-      "word": "院长为周筱风主持公道",
-      "onboard_time": 1697542294,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 192428,
@@ -6131,6 +6147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188037,
+      "num": 188037,
+      "word": "汪苏泷盗月社为i做e",
+      "onboard_time": 1697544757,
+      "rank": 33,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 187761,
       "num": 187761,
       "word": "毛晓彤情绪转化好快",
@@ -6193,14 +6217,6 @@
       "onboard_time": 1697505033,
       "rank": 48,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 185820,
-      "num": 185820,
-      "word": "汪苏泷盗月社为i做e",
-      "onboard_time": 1697544757,
-      "rank": 33,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 185627,
@@ -7243,6 +7259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 143729,
+      "num": 143729,
+      "word": "长相思直播",
+      "onboard_time": 1697546977,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 143372,
       "num": 143372,
       "word": "老人拍张掖美景即兴朗诵慷慨激昂",
@@ -7795,6 +7819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 97822,
+      "num": 169271,
+      "word": "你支持将双十一定为节假日吗",
+      "onboard_time": 1697544039,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97053,
       "num": 97053,
       "word": "野生大熊猫遇到话痨大叔",
@@ -7931,14 +7963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67817,
-      "num": 169271,
-      "word": "你支持将双十一定为节假日吗",
-      "onboard_time": 1697544039,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 66801,
       "num": 2245764,
       "word": "牡丹与玫瑰的丝路流芳",
@@ -7948,7 +7972,7 @@
     },
     {
       "raw_hot": 66403,
-      "num": 604649,
+      "num": 611751,
       "word": "丝路行旅图",
       "onboard_time": 1697529935,
       "rank": 2,
