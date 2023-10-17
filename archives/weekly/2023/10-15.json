@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697567846405,
+  "endTime": 1697570043268,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -8675,6 +8675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27443,
+      "num": 47791,
+      "word": "汤唯换新经纪人了",
+      "onboard_time": 1697567955,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26827,
       "num": 371619,
       "word": "环太原公路自行车赛",
@@ -8721,6 +8729,14 @@
       "onboard_time": 1697491093,
       "rank": 48,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 24171,
+      "num": 47784,
+      "word": "陈丹青 平遥国际电影展",
+      "onboard_time": 1697568735,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 23757,
