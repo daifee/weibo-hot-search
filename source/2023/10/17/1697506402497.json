@@ -1,0 +1,410 @@
+{
+  "runTime": 1697506402497,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2317351,
+        "num": 2317351,
+        "word": "阿奇霉素",
+        "onboard_time": 1697502337,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1164695,
+        "num": 1164695,
+        "word": "我国超3亿人遭受慢性疼痛",
+        "onboard_time": 1697497824,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57777,
+        "num": 1033298,
+        "word": "沿着一带一路去旅行",
+        "onboard_time": 1697464056,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1031595,
+        "num": 1031595,
+        "word": "狗和主人必须尽快绳之以法",
+        "onboard_time": 1697503059,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 648218,
+        "num": 648218,
+        "word": "为什么粉色要贵这么多",
+        "onboard_time": 1697465736,
+        "rank": 4,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 1334698,
+        "num": 643321,
+        "word": "知情人称哈马斯被消灭前以色列不考虑停火",
+        "onboard_time": 1697504738,
+        "rank": 5,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1001063,
+        "num": 633093,
+        "word": "以军称在空袭行动中打死一哈马斯高级领导人",
+        "onboard_time": 1697500898,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 602923,
+        "num": 602923,
+        "word": "iPhone15中国首发销量较前代下降4.5%",
+        "onboard_time": 1697502937,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 595024,
+        "num": 595024,
+        "word": "第一次看男女主整部剧都在种田的",
+        "onboard_time": 1697503476,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 453923,
+        "num": 587454,
+        "word": "范丞丞问孟子义和郭麒麟是不是真的",
+        "onboard_time": 1697503059,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1180747,
+        "num": 585559,
+        "word": "拉布拉多未咬人已被主人领回",
+        "onboard_time": 1697469217,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 713404,
+        "num": 577747,
+        "word": "最近的周冬雨",
+        "onboard_time": 1697502816,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 648403,
+        "num": 566172,
+        "word": "成都咬伤女童大黑狗有主人",
+        "onboard_time": 1697460934,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 625138,
+        "num": 557899,
+        "word": "赵本山给徒弟补近亿税额",
+        "onboard_time": 1697463394,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 622820,
+        "num": 548011,
+        "word": "王不染看见赵露思的表情",
+        "onboard_time": 1697502215,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543750,
+        "num": 543750,
+        "word": "虞书欣重新跳了yesok",
+        "onboard_time": 1697501915,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480868,
+        "num": 480868,
+        "word": "加沙现有供应只能维持24个小时",
+        "onboard_time": 1697501557,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 422415,
+        "num": 422415,
+        "word": "老板被情人诈骗2000万致公司破产",
+        "onboard_time": 1697504975,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 402765,
+        "num": 402765,
+        "word": "为有暗香来 男主是谁",
+        "onboard_time": 1697469637,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 360433,
+        "num": 360433,
+        "word": "成都禁养22种烈性犬不包括罗威纳",
+        "onboard_time": 1697497644,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350695,
+        "num": 350695,
+        "word": "新人坐高铁去结婚乘客纷纷送祝福",
+        "onboard_time": 1697501015,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327371,
+        "num": 327371,
+        "word": "普京总统抵达北京",
+        "onboard_time": 1697506354,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 314591,
+        "num": 314591,
+        "word": "猫猫被恶魔附身后有多坏",
+        "onboard_time": 1697504254,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 306057,
+        "num": 306057,
+        "word": "哥哥冲过来一把扯开捂住妹妹的被子",
+        "onboard_time": 1697499627,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 305957,
+        "num": 305957,
+        "word": "孙悦51岁第一次跑马",
+        "onboard_time": 1697500898,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 295407,
+        "num": 295407,
+        "word": "黑壮美的吉克隽逸",
+        "onboard_time": 1697499388,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286745,
+        "num": 286745,
+        "word": "吴尊一家和周杰伦合影",
+        "onboard_time": 1697501495,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 285762,
+        "num": 285762,
+        "word": "人民网评2岁女童被恶犬咬伤",
+        "onboard_time": 1697472510,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 265533,
+        "num": 265533,
+        "word": "男子紧急寻人还23年前欠的20万",
+        "onboard_time": 1697505275,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264558,
+        "num": 264558,
+        "word": "魏大勋已经不敢抓脚踝了",
+        "onboard_time": 1697466879,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319348,
+        "num": 264556,
+        "word": "高校回应网红教师被指私生活混乱",
+        "onboard_time": 1697505874,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264447,
+        "num": 264447,
+        "word": "这就是e人喜欢i人的原因",
+        "onboard_time": 1697504434,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252522,
+        "num": 252522,
+        "word": "赵晴演技",
+        "onboard_time": 1697504316,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241432,
+        "num": 241432,
+        "word": "鼻子里面为什么会长这种痘",
+        "onboard_time": 1697499148,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 240652,
+        "num": 240652,
+        "word": "以色列",
+        "onboard_time": 1697504137,
+        "rank": 34,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 238894,
+        "num": 238894,
+        "word": "刘诗诗谢娜和TODS总监合影",
+        "onboard_time": 1697506054,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233933,
+        "num": 233933,
+        "word": "太空里还有3个中国人",
+        "onboard_time": 1697505095,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231440,
+        "num": 231440,
+        "word": "支原体肺炎",
+        "onboard_time": 1697505693,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205014,
+        "num": 205014,
+        "word": "1米86辅警搀扶走失老人穿街走巷寻家",
+        "onboard_time": 1697499750,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203415,
+        "num": 203415,
+        "word": "英雄联盟新乐队官宣",
+        "onboard_time": 1697505756,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201266,
+        "num": 201266,
+        "word": "警方已发现咬人黑狗行踪",
+        "onboard_time": 1697465496,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200330,
+        "num": 200330,
+        "word": "白敬亭说自己录节目第二季才打开",
+        "onboard_time": 1697506054,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186382,
+        "num": 186382,
+        "word": "一带一路",
+        "onboard_time": 1697504075,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 181720,
+        "num": 181720,
+        "word": "美国大学图书馆惊现中国家谱",
+        "onboard_time": 1697501798,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170851,
+        "num": 170851,
+        "word": "边伯贤将演唱LOL男团出道单曲",
+        "onboard_time": 1697500412,
+        "rank": 44,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 170377,
+        "num": 170377,
+        "word": "这个是沈月那款吗",
+        "onboard_time": 1697502937,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164727,
+        "num": 164727,
+        "word": "玲娜贝儿 煤气罐又炸了",
+        "onboard_time": 1697501856,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163256,
+        "num": 163256,
+        "word": "这对90后演我不想上班状态",
+        "onboard_time": 1697503417,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162320,
+        "num": 162320,
+        "word": "只有秀粉分得清每届秀人",
+        "onboard_time": 1697501977,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156512,
+        "num": 156512,
+        "word": "被大型犬撕咬女童母亲发声",
+        "onboard_time": 1697459374,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}
