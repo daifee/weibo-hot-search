@@ -1,0 +1,410 @@
+{
+  "runTime": 1697520828689,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1246200,
+        "num": 1246200,
+        "word": "身份证会被手机消磁吗",
+        "onboard_time": 1697512895,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 716830,
+        "num": 716830,
+        "word": "张若昀庆余年2杀青",
+        "onboard_time": 1697519018,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69600,
+        "num": 691032,
+        "word": "手账版一带一路知识点",
+        "onboard_time": 1697502578,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1661927,
+        "num": 683348,
+        "word": "高中同学车祸失忆全班守护18年",
+        "onboard_time": 1697515776,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 975500,
+        "num": 681623,
+        "word": "为了发朋友圈而产生的消费",
+        "onboard_time": 1697518836,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 673380,
+        "num": 673380,
+        "word": "苹果宣布新增2500万元捐款",
+        "onboard_time": 1697517637,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 644250,
+        "num": 644250,
+        "word": "长相思",
+        "onboard_time": 1697514094,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 633321,
+        "num": 633321,
+        "word": "普京总统抵达北京",
+        "onboard_time": 1697506354,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 522267,
+        "num": 522267,
+        "word": "阿奇霉素",
+        "onboard_time": 1697502337,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 494541,
+        "num": 494541,
+        "word": "花瓣支付不对标微信支付支付宝",
+        "onboard_time": 1697514815,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 3303661,
+        "num": 493642,
+        "word": "黑狗主人最高面临七年以下有期徒刑",
+        "onboard_time": 1697518480,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 609136,
+        "num": 492281,
+        "word": "江映蓉 偶遇苹果CEO库克",
+        "onboard_time": 1697511155,
+        "rank": 11,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 563447,
+        "num": 487898,
+        "word": "新歌坛四小花",
+        "onboard_time": 1697518836,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518796,
+        "num": 486194,
+        "word": "Jasper普通话主持校庆",
+        "onboard_time": 1697516496,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 485593,
+        "num": 485593,
+        "word": "妈妈出门买菜身后跟俩特种兵",
+        "onboard_time": 1697517219,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430297,
+        "num": 430297,
+        "word": "李想",
+        "onboard_time": 1697518419,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 427273,
+        "num": 427273,
+        "word": "拉布拉多未咬人已被主人领回",
+        "onboard_time": 1697469217,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 421424,
+        "num": 421424,
+        "word": "普京与内塔尼亚胡通话",
+        "onboard_time": 1697516559,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 380832,
+        "num": 380832,
+        "word": "iPhone15Pro被曝生产成本523美元",
+        "onboard_time": 1697507794,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 372821,
+        "num": 372821,
+        "word": "绝代双骄央八上午档热播",
+        "onboard_time": 1697518419,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 868229,
+        "num": 368256,
+        "word": "男子不想结婚偷下堕胎药致女友流产",
+        "onboard_time": 1697514094,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505882,
+        "num": 350706,
+        "word": "高校回应网红教师被指私生活混乱",
+        "onboard_time": 1697505874,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 332005,
+        "num": 332005,
+        "word": "长相思全员相思不如相见",
+        "onboard_time": 1697515476,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329495,
+        "num": 329495,
+        "word": "第一次看男女主整部剧都在种田的",
+        "onboard_time": 1697503476,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322815,
+        "num": 322815,
+        "word": "狗和主人必须尽快绳之以法",
+        "onboard_time": 1697503059,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 303485,
+        "num": 303485,
+        "word": "杨紫时尚资源",
+        "onboard_time": 1697515897,
+        "rank": 25,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 283747,
+        "num": 283747,
+        "word": "张翰在新剧里尝菜镜头",
+        "onboard_time": 1697520034,
+        "rank": 26,
+        "category": "剧集,幽默"
+      },
+      {
+        "raw_hot": 257687,
+        "num": 257687,
+        "word": "虞书欣THE9演唱会粉丝应援",
+        "onboard_time": 1697515175,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 233313,
+        "num": 251625,
+        "word": "浙江警察学院学生的家长拍拍拍拍拍",
+        "onboard_time": 1697519974,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189639,
+        "num": 250509,
+        "word": "民工捡电脑等失主90分钟获奖5000",
+        "onboard_time": 1697520093,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289103,
+        "num": 250401,
+        "word": "杨紫小夭今晚相见",
+        "onboard_time": 1697518538,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250071,
+        "num": 250071,
+        "word": "无穷小亮 可算把铁线蕨玩明白了",
+        "onboard_time": 1697518120,
+        "rank": 31,
+        "category": "自然"
+      },
+      {
+        "raw_hot": 245732,
+        "num": 245732,
+        "word": "崔峻超拍的赵丽颖",
+        "onboard_time": 1697516799,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 230971,
+        "num": 230971,
+        "word": "于正发文维护赵晴",
+        "onboard_time": 1697513433,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229869,
+        "num": 229869,
+        "word": "小米",
+        "onboard_time": 1697515717,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 217397,
+        "num": 217397,
+        "word": "越南版浪姐名单",
+        "onboard_time": 1697520093,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210761,
+        "num": 210761,
+        "word": "光遇 道袍复刻",
+        "onboard_time": 1697516259,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198086,
+        "num": 198086,
+        "word": "猫咪也是第一次当妈妈",
+        "onboard_time": 1697519498,
+        "rank": 37,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 188294,
+        "num": 188294,
+        "word": "Chovy破韩服纪录",
+        "onboard_time": 1697520214,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174565,
+        "num": 174565,
+        "word": "逆水寒手游 丑衣服",
+        "onboard_time": 1697518961,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165737,
+        "num": 165737,
+        "word": "花儿认出杨阿姨",
+        "onboard_time": 1697514514,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164117,
+        "num": 164117,
+        "word": "韩素希点赞newjeans相关帖子",
+        "onboard_time": 1697516799,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163639,
+        "num": 163639,
+        "word": "迪丽热巴秦岚周也也有自己的燃冬",
+        "onboard_time": 1697520633,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156683,
+        "num": 156683,
+        "word": "曾舜晞关注田曦薇微博",
+        "onboard_time": 1697515836,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152573,
+        "num": 152573,
+        "word": "华为中国销量已超越苹果",
+        "onboard_time": 1697509232,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 144648,
+        "num": 144648,
+        "word": "以色列",
+        "onboard_time": 1697504137,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 143173,
+        "num": 143173,
+        "word": "理想MEGA",
+        "onboard_time": 1697510853,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 139772,
+        "num": 139772,
+        "word": "杨超越 我和天空一样蓝",
+        "onboard_time": 1697514874,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 125525,
+        "num": 125525,
+        "word": "大力女子姜南顺",
+        "onboard_time": 1697512114,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117464,
+        "num": 125112,
+        "word": "考研学子路灯下扎堆背书未来可期",
+        "onboard_time": 1697516380,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}

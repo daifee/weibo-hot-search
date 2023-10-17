@@ -1,7 +1,15 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697519772709,
+  "endTime": 1697520828689,
   "band_list": [
+    {
+      "raw_hot": 3303661,
+      "num": 643191,
+      "word": "黑狗主人最高面临七年以下有期徒刑",
+      "onboard_time": 1697518480,
+      "rank": 10,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2509387,
       "num": 1167849,
@@ -107,14 +115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1260227,
-      "num": 643191,
-      "word": "黑狗主人最高面临七年以下有期徒刑",
-      "onboard_time": 1697518480,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1177729,
       "num": 401263,
       "word": "男子不想结婚偷下堕胎药致女友流产",
@@ -161,6 +161,14 @@
       "onboard_time": 1697511155,
       "rank": 10,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 975500,
+      "num": 681623,
+      "word": "为了发朋友圈而产生的消费",
+      "onboard_time": 1697518836,
+      "rank": 14,
+      "category": "情感"
     },
     {
       "raw_hot": 946185,
@@ -267,6 +275,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 716830,
+      "num": 716830,
+      "word": "张若昀庆余年2杀青",
+      "onboard_time": 1697519018,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 716579,
       "num": 566172,
       "word": "成都咬伤女童大黑狗有主人",
@@ -371,14 +387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 532789,
-      "num": 532789,
-      "word": "为了发朋友圈而产生的消费",
-      "onboard_time": 1697518836,
-      "rank": 14,
-      "category": "情感"
-    },
-    {
       "raw_hot": 527554,
       "num": 587454,
       "word": "范丞丞问孟子义和郭麒麟是不是真的",
@@ -475,14 +483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 450576,
-      "num": 450576,
-      "word": "张若昀庆余年2杀青",
-      "onboard_time": 1697519018,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 446940,
       "num": 226009,
       "word": "MiuMiu钻石内裤",
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 430297,
+      "num": 430297,
+      "word": "李想",
+      "onboard_time": 1697518419,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 425935,
       "num": 425935,
       "word": "黑壮美的吉克隽逸",
@@ -523,20 +531,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 401665,
-      "num": 401665,
-      "word": "李想",
-      "onboard_time": 1697518419,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 387022,
       "num": 387022,
       "word": "MIUI",
       "onboard_time": 1697511993,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 372821,
+      "num": 372821,
+      "word": "绝代双骄央八上午档热播",
+      "onboard_time": 1697518419,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 366942,
@@ -569,14 +577,6 @@
       "onboard_time": 1697501495,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 354331,
-      "num": 354331,
-      "word": "绝代双骄央八上午档热播",
-      "onboard_time": 1697518419,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 342120,
@@ -705,6 +705,14 @@
       "onboard_time": 1697504434,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 283747,
+      "num": 283747,
+      "word": "张翰在新剧里尝菜镜头",
+      "onboard_time": 1697520034,
+      "rank": 26,
+      "category": "剧集,幽默"
     },
     {
       "raw_hot": 283717,
@@ -907,6 +915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 233313,
+      "num": 251625,
+      "word": "浙江警察学院学生的家长拍拍拍拍拍",
+      "onboard_time": 1697519974,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 232216,
       "num": 232216,
       "word": "中国政府向巴勒斯坦提供紧急人道主义援助",
@@ -953,6 +969,14 @@
       "onboard_time": 1697501856,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 217397,
+      "num": 217397,
+      "word": "越南版浪姐名单",
+      "onboard_time": 1697520093,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 214311,
@@ -1059,6 +1083,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 198086,
+      "num": 198086,
+      "word": "猫咪也是第一次当妈妈",
+      "onboard_time": 1697519498,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 195199,
       "num": 231572,
       "word": "南海归墟预约量破200万",
@@ -1099,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189639,
+      "num": 250509,
+      "word": "民工捡电脑等失主90分钟获奖5000",
+      "onboard_time": 1697520093,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 189508,
       "num": 189508,
       "word": "家里这些东西正在偷偷伤害你",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1697509893,
       "rank": 35,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 188294,
+      "num": 188294,
+      "word": "Chovy破韩服纪录",
+      "onboard_time": 1697520214,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 185987,
@@ -1227,12 +1275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 163908,
-      "num": 163908,
-      "word": "猫咪也是第一次当妈妈",
-      "onboard_time": 1697519498,
-      "rank": 46,
-      "category": "动物萌宠"
+      "raw_hot": 163639,
+      "num": 163639,
+      "word": "迪丽热巴秦岚周也也有自己的燃冬",
+      "onboard_time": 1697520633,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 163116,
