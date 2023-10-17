@@ -1,6 +1,6 @@
 {
   "startTime": 1697473417332,
-  "endTime": 1697530952023,
+  "endTime": 1697531733516,
   "band_list": [
     {
       "raw_hot": 3303661,
@@ -9,6 +9,14 @@
       "onboard_time": 1697518480,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2618891,
+      "num": 603417,
+      "word": "屁股针为什么消失了",
+      "onboard_time": 1697528853,
+      "rank": 3,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 2509387,
@@ -25,14 +33,6 @@
       "onboard_time": 1697526273,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2439857,
-      "num": 603417,
-      "word": "屁股针为什么消失了",
-      "onboard_time": 1697528853,
-      "rank": 3,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 2387552,
@@ -83,6 +83,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1881960,
+      "num": 409422,
+      "word": "成都咬伤女童的罗威纳犬被捕获",
+      "onboard_time": 1697530836,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1697579,
       "num": 1697579,
       "word": "iPhone15Pro被曝生产成本523美元",
@@ -105,6 +113,14 @@
       "onboard_time": 1697500898,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1509367,
+      "num": 1509367,
+      "word": "庆余年2有徐志胜",
+      "onboard_time": 1697530297,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 1494231,
@@ -331,16 +347,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 784796,
-      "num": 539761,
-      "word": "庆余年2有徐志胜",
-      "onboard_time": 1697530297,
-      "rank": 11,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 783602,
-      "num": 342562,
+      "num": 403669,
       "word": "爸妈被我三千块的工资震惊到了",
       "onboard_time": 1697526093,
       "rank": 20,
@@ -515,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580198,
+      "num": 539580,
+      "word": "金晨左手喂狗右手喂自己",
+      "onboard_time": 1697529636,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577753,
       "num": 577753,
       "word": "乞丐情头",
@@ -529,6 +545,22 @@
       "onboard_time": 1697466879,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 566469,
+      "num": 254759,
+      "word": "李玟将与姚贝娜将葬在同一墓园",
+      "onboard_time": 1697530956,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 563699,
+      "num": 408106,
+      "word": "SM否认朴灿烈吴世勋签约新公司",
+      "onboard_time": 1697530416,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 553724,
@@ -547,20 +579,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 539580,
-      "num": 539580,
-      "word": "金晨左手喂狗右手喂自己",
-      "onboard_time": 1697529636,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 527554,
       "num": 587454,
       "word": "范丞丞问孟子义和郭麒麟是不是真的",
       "onboard_time": 1697503059,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519122,
+      "num": 406524,
+      "word": "物业回应保洁阿姨为女童挡狗",
+      "onboard_time": 1697530174,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515372,
@@ -600,14 +632,6 @@
       "word": "于正发文维护赵晴",
       "onboard_time": 1697513433,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 482714,
-      "num": 257582,
-      "word": "SM否认朴灿烈吴世勋签约新公司",
-      "onboard_time": 1697530416,
-      "rank": 31,
       "category": "艺人"
     },
     {
@@ -675,6 +699,14 @@
       "category": "时尚,网红"
     },
     {
+      "raw_hot": 445554,
+      "num": 404067,
+      "word": "庆余年里真的有王楚然",
+      "onboard_time": 1697530599,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 434322,
       "num": 598779,
       "word": "小米澎湃OS",
@@ -715,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403471,
+      "num": 403471,
+      "word": "李玟本月将在武汉安葬",
+      "onboard_time": 1697530777,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 397970,
       "num": 397970,
       "word": "中国海警驱离日非法进我钓鱼岛领海船只",
@@ -745,6 +785,14 @@
       "onboard_time": 1697518419,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 372010,
+      "num": 530592,
+      "word": "新疆男孩脱口而出自己是中华民族",
+      "onboard_time": 1697530297,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 366942,
@@ -787,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 345648,
+      "num": 410334,
+      "word": "司机路边帮抱婴儿下一秒车被撞飞",
+      "onboard_time": 1697529455,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 342947,
       "num": 272137,
       "word": "庆余年王启年女儿",
@@ -820,7 +876,7 @@
     },
     {
       "raw_hot": 337293,
-      "num": 252447,
+      "num": 254658,
       "word": "吸引全红婵只需要一个玩偶",
       "onboard_time": 1697529816,
       "rank": 32,
@@ -841,14 +897,6 @@
       "onboard_time": 1697469517,
       "rank": 21,
       "category": "情感"
-    },
-    {
-      "raw_hot": 329309,
-      "num": 343680,
-      "word": "司机路边帮抱婴儿下一秒车被撞飞",
-      "onboard_time": 1697529455,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320400,
@@ -955,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 285380,
-      "num": 530592,
-      "word": "新疆男孩脱口而出自己是中华民族",
-      "onboard_time": 1697530297,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 284730,
       "num": 284730,
       "word": "这就是e人喜欢i人的原因",
@@ -1003,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281298,
+      "num": 281298,
+      "word": "李小冉叫长公主疯女人",
+      "onboard_time": 1697531435,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 277661,
       "num": 277661,
       "word": "韩素希点赞newjeans相关帖子",
@@ -1025,22 +1073,6 @@
       "onboard_time": 1697466578,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 276039,
-      "num": 276039,
-      "word": "物业回应保洁阿姨为女童挡狗",
-      "onboard_time": 1697530174,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 273334,
-      "num": 273334,
-      "word": "庆余年里真的有王楚然",
-      "onboard_time": 1697530599,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 271764,
@@ -1635,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179403,
-      "num": 179403,
-      "word": "李玟本月将在武汉安葬",
-      "onboard_time": 1697530777,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 175978,
       "num": 175978,
       "word": "韩国人晚上真的不睡觉吗",
@@ -1715,14 +1739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 169045,
-      "num": 169045,
-      "word": "成都咬伤女童的罗威纳犬被捕获",
-      "onboard_time": 1697530836,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 168522,
       "num": 168522,
       "word": "陈楚生不教儿子吉他的原因",
@@ -1737,6 +1753,14 @@
       "onboard_time": 1697518059,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165355,
+      "num": 165355,
+      "word": "狗被遗弃原主人就可以不担责吗",
+      "onboard_time": 1697531255,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163116,
@@ -1761,6 +1785,14 @@
       "onboard_time": 1697474604,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157070,
+      "num": 157070,
+      "word": "梅西 第八座金球奖",
+      "onboard_time": 1697531557,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 155927,
@@ -1848,6 +1880,14 @@
       "word": "虎鹤妖师录结局全是反转",
       "onboard_time": 1697476939,
       "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128837,
+      "num": 128837,
+      "word": "长相思2到底啥时候播",
+      "onboard_time": 1697531675,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -2075,6 +2115,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 66403,
+      "num": 604649,
+      "word": "丝路行旅图",
+      "onboard_time": 1697529935,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 65783,
       "num": 1557741,
       "word": "沿着一带一路去旅行",
@@ -2097,14 +2145,6 @@
       "onboard_time": 1697475502,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 49889,
-      "num": 604649,
-      "word": "丝路行旅图",
-      "onboard_time": 1697529935,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 39262,
@@ -2191,6 +2231,9 @@
     },
     {
       "word": "#习近平将出席一带一路国际合作高峰论坛开幕式#"
+    },
+    {
+      "word": "#中哈双方要坚持初心守望相助#"
     }
   ]
 }
