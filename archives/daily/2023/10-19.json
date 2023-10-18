@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697656468177,
+  "endTime": 1697657643593,
   "band_list": [
     {
       "raw_hot": 2168877,
@@ -251,6 +251,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 165478,
+      "num": 55865,
+      "word": "南京酒吧街醉酒事件附近商户发声",
+      "onboard_time": 1697653816,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162792,
       "num": 162792,
       "word": "周筱风方筱然终于相认了",
@@ -345,14 +353,6 @@
       "onboard_time": 1697634634,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 135988,
-      "num": 55865,
-      "word": "南京酒吧街醉酒事件附近商户发声",
-      "onboard_time": 1697653816,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 134300,
@@ -497,6 +497,22 @@
       "onboard_time": 1697651119,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 16676,
+      "num": 16676,
+      "word": "我去迪士尼看烟花完全就是这样",
+      "onboard_time": 1697656575,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 15206,
+      "num": 16670,
+      "word": "李一桐说演反派很过瘾",
+      "onboard_time": 1697657534,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 13594,
