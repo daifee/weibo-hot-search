@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697599063804,
+  "endTime": 1697600070258,
   "band_list": [
     {
       "raw_hot": 2241771,
@@ -75,6 +75,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 994909,
+      "num": 461817,
+      "word": "庄家顺抢救无效死亡",
+      "onboard_time": 1697599112,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 984062,
+      "num": 668624,
+      "word": "同事的PPT也太卷了",
+      "onboard_time": 1697596470,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 971513,
       "num": 417687,
       "word": "成都大狗咬伤女童所在小区业主发声",
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 935199,
-      "num": 656770,
+      "num": 662624,
       "word": "乘务员在高铁上被惊喜求婚",
       "onboard_time": 1697594373,
       "rank": 4,
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 758925,
-      "num": 609175,
+      "num": 635124,
       "word": "加沙地带一医院遭袭数百人死亡",
       "onboard_time": 1697585670,
       "rank": 5,
@@ -155,20 +171,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 700653,
+      "num": 700653,
+      "word": "花儿与少年",
+      "onboard_time": 1697598031,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 698089,
-      "num": 461586,
+      "num": 477144,
       "word": "外媒称浸信会医院遭袭已致至少500人死亡",
       "onboard_time": 1697586755,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 657005,
-      "num": 657005,
-      "word": "同事的PPT也太卷了",
-      "onboard_time": 1697596470,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 622608,
@@ -185,14 +201,6 @@
       "onboard_time": 1697553041,
       "rank": 5,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 565460,
-      "num": 565460,
-      "word": "花儿与少年",
-      "onboard_time": 1697598031,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 565058,
@@ -227,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 535430,
+      "num": 535430,
+      "word": "张颂文白百何合作新剧",
+      "onboard_time": 1697597071,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 534294,
       "num": 361446,
       "word": "扶杨紫的小姐姐撞进了邓为怀里",
@@ -243,20 +259,36 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 513864,
-      "num": 513864,
-      "word": "张颂文白百何合作新剧",
-      "onboard_time": 1697597071,
-      "rank": 9,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 488230,
       "num": 488230,
       "word": "enhypen QQ音乐压价",
       "onboard_time": 1697554782,
       "rank": 1,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 487874,
+      "num": 385560,
+      "word": "男子摸女孩大腿被抓称又没摸疼你",
+      "onboard_time": 1697598334,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 487622,
+      "num": 487622,
+      "word": "收到一条信息小伙2个月狂减40斤",
+      "onboard_time": 1697597551,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482944,
+      "num": 447031,
+      "word": "官方回应网传成都部分小区成立打狗队",
+      "onboard_time": 1697598390,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469950,
@@ -281,6 +313,14 @@
       "onboard_time": 1697544574,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431385,
+      "num": 431385,
+      "word": "张晚意被喊老公的反应",
+      "onboard_time": 1697598453,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 417951,
@@ -316,7 +356,7 @@
     },
     {
       "raw_hot": 407946,
-      "num": 345986,
+      "num": 367461,
       "word": "梁崴 淘汰",
       "onboard_time": 1697597613,
       "rank": 20,
@@ -355,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 381641,
+      "num": 381641,
+      "word": "原来3岁前大脑发育就完成了80%",
+      "onboard_time": 1697598931,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 376649,
       "num": 376649,
       "word": "高铁上真的有在卖卫生巾了",
@@ -387,14 +435,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 358476,
-      "num": 358476,
-      "word": "收到一条信息小伙2个月狂减40斤",
-      "onboard_time": 1697597551,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 343326,
       "num": 343326,
       "word": "广东一外婆和孙女长得太像了",
@@ -403,19 +443,19 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334369,
+      "num": 334369,
+      "word": "威马仅剩817人且已停发工资",
+      "onboard_time": 1697599413,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 332066,
       "num": 308586,
       "word": "广告公司向车主和吴磊道歉",
       "onboard_time": 1697549921,
       "rank": 16,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 328574,
-      "num": 328574,
-      "word": "张晚意被喊老公的反应",
-      "onboard_time": 1697598453,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -451,19 +491,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 309515,
-      "num": 309515,
-      "word": "男子摸女孩大腿被抓称又没摸疼你",
-      "onboard_time": 1697598334,
-      "rank": 23,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 306060,
-      "num": 306060,
-      "word": "官方回应网传成都部分小区成立打狗队",
-      "onboard_time": 1697598390,
-      "rank": 24,
+      "raw_hot": 303679,
+      "num": 303679,
+      "word": "男子饿晕路边被救后市长热线响了",
+      "onboard_time": 1697597852,
+      "rank": 26,
       "category": "社会新闻"
     },
     {
@@ -491,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 295834,
+      "num": 295834,
+      "word": "天官赐福第二季",
+      "onboard_time": 1697598814,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 290899,
       "num": 290899,
       "word": "老公抬妾我吃席",
@@ -505,14 +545,6 @@
       "onboard_time": 1697551118,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 274176,
-      "num": 274176,
-      "word": "男子饿晕路边被救后市长热线响了",
-      "onboard_time": 1697597852,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273302,
@@ -595,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227115,
+      "num": 227115,
+      "word": "被关晓彤身上的姐感蛊到",
+      "onboard_time": 1697598814,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222349,
       "num": 222349,
       "word": "乌拉圭2比0巴西",
@@ -641,6 +681,14 @@
       "onboard_time": 1697588618,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212305,
+      "num": 212305,
+      "word": "蜡笔小新",
+      "onboard_time": 1697599233,
+      "rank": 34,
+      "category": "动漫"
     },
     {
       "raw_hot": 206301,
@@ -707,12 +755,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 198409,
-      "num": 198409,
-      "word": "被关晓彤身上的姐感蛊到",
-      "onboard_time": 1697598814,
-      "rank": 31,
-      "category": "剧集"
+      "raw_hot": 198551,
+      "num": 198551,
+      "word": "张译新片演双面特工",
+      "onboard_time": 1697599473,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 195607,
@@ -736,22 +784,6 @@
       "word": "被羲和号拍到的太阳炫到了",
       "onboard_time": 1697588076,
       "rank": 46,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 189959,
-      "num": 189959,
-      "word": "天官赐福第二季",
-      "onboard_time": 1697598814,
-      "rank": 33,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 188493,
-      "num": 188493,
-      "word": "原来3岁前大脑发育就完成了80%",
-      "onboard_time": 1697598931,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -817,6 +849,14 @@
       "onboard_time": 1697538519,
       "rank": 28,
       "category": "社会新闻,动漫"
+    },
+    {
+      "raw_hot": 167190,
+      "num": 167190,
+      "word": "张小斐惠英红对手戏",
+      "onboard_time": 1697599654,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 166180,
@@ -1003,6 +1043,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 93543,
+      "num": 671542,
+      "word": "认识一带一路的朋友圈",
+      "onboard_time": 1697598694,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92736,
       "num": 92736,
       "word": "孕后期准妈妈用胶带缓解压力",
@@ -1083,6 +1131,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 67332,
+      "num": 266887,
+      "word": "古典乐集体出逃",
+      "onboard_time": 1697599413,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 64543,
       "num": 86781,
       "word": "被东北碳水的神秘力量征服",
@@ -1147,28 +1203,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52553,
+      "num": 265751,
+      "word": "赵丽颖在家穿什么",
+      "onboard_time": 1697598633,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37208,
       "num": 162085,
       "word": "中国空间站办起了国际画展",
       "onboard_time": 1697598511,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35766,
-      "num": 656779,
-      "word": "认识一带一路的朋友圈",
-      "onboard_time": 1697598694,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 33144,
-      "num": 178074,
-      "word": "赵丽颖在家穿什么",
-      "onboard_time": 1697598633,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 30239,
