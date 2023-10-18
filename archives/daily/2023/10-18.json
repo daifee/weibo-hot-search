@@ -1,9 +1,9 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697617338464,
+  "endTime": 1697618132729,
   "band_list": [
     {
-      "raw_hot": 2411514,
+      "raw_hot": 2558177,
       "num": 315570,
       "word": "被恶犬咬伤女童家属发起200万筹款",
       "onboard_time": 1697613034,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2000048,
+      "num": 2000048,
+      "word": "年轻人开始反向消费了",
+      "onboard_time": 1697606673,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1974024,
       "num": 1974024,
       "word": "农村吃席上预制罐头摆盘也省了",
@@ -57,14 +65,6 @@
       "onboard_time": 1697612733,
       "rank": 12,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1836858,
-      "num": 1836858,
-      "word": "年轻人开始反向消费了",
-      "onboard_time": 1697606673,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1801324,
@@ -220,7 +220,7 @@
     },
     {
       "raw_hot": 978680,
-      "num": 602362,
+      "num": 650712,
       "word": "张硕 芒果后期都看不下去了",
       "onboard_time": 1697614471,
       "rank": 3,
@@ -267,12 +267,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 846401,
+      "num": 312369,
+      "word": "4090",
+      "onboard_time": 1697616695,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 825152,
       "num": 825152,
       "word": "父女俩时隔4个月相继成为大体老师",
       "onboard_time": 1697590718,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 820241,
+      "num": 820241,
+      "word": "100元吃遍东北早市当事人道歉",
+      "onboard_time": 1697615796,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 794467,
@@ -355,14 +371,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 695957,
-      "num": 695957,
-      "word": "100元吃遍东北早市当事人道歉",
-      "onboard_time": 1697615796,
-      "rank": 1,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 635333,
       "num": 635333,
       "word": "张硕王睡睡买房没写女方名字",
@@ -379,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 617379,
+      "num": 617379,
+      "word": "周杰伦蔡依林 倒带",
+      "onboard_time": 1697615915,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 608512,
       "num": 363964,
       "word": "檀健次摘耳返",
       "onboard_time": 1697553041,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 586452,
+      "num": 586452,
+      "word": "福原爱副教授职位或将不保",
+      "onboard_time": 1697615671,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 582122,
@@ -401,14 +425,6 @@
       "onboard_time": 1697552620,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 561649,
-      "num": 561649,
-      "word": "周杰伦蔡依林 倒带",
-      "onboard_time": 1697615915,
-      "rank": 4,
-      "category": "演出"
     },
     {
       "raw_hot": 558538,
@@ -499,14 +515,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 520623,
-      "num": 520623,
-      "word": "福原爱副教授职位或将不保",
-      "onboard_time": 1697615671,
-      "rank": 6,
-      "category": "体育"
-    },
-    {
       "raw_hot": 504320,
       "num": 504320,
       "word": "法国44岁男子性侵2名9旬老妪",
@@ -539,6 +547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 483072,
+      "num": 483072,
+      "word": "陆虎淋过雨要把王栎鑫的伞也撕烂",
+      "onboard_time": 1697617415,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469950,
       "num": 378594,
       "word": "兽医称从业10年仍害怕罗威纳犬",
@@ -561,6 +577,14 @@
       "onboard_time": 1697544574,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 460593,
+      "num": 460593,
+      "word": "拜登抵达以色列",
+      "onboard_time": 1697617233,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 456220,
@@ -603,6 +627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 424181,
+      "num": 307083,
+      "word": "大胆阿姨捞起河面浮尸一看还有气",
+      "onboard_time": 1697615734,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 417951,
       "num": 362182,
       "word": "联合国称以色列可能构成国际犯罪",
@@ -627,12 +659,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 412092,
+      "num": 312535,
+      "word": "香港的富太太住什么样的房子",
+      "onboard_time": 1697613814,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 411709,
       "num": 347763,
       "word": "咬伤女童罗威纳犬打过狂犬疫苗",
       "onboard_time": 1697539539,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 408217,
+      "num": 310035,
+      "word": "父母超过50岁别再做无效体检了",
+      "onboard_time": 1697615915,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 407946,
@@ -665,14 +713,6 @@
       "onboard_time": 1697595512,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 389369,
-      "num": 312535,
-      "word": "香港的富太太住什么样的房子",
-      "onboard_time": 1697613814,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 388078,
@@ -747,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349042,
+      "num": 301167,
+      "word": "周也草莓小福变成了草莓大福",
+      "onboard_time": 1697616034,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 347889,
       "num": 347889,
       "word": "10000元网购大闸蟹避雷攻略",
@@ -771,14 +819,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 340713,
-      "num": 310035,
-      "word": "父母超过50岁别再做无效体检了",
-      "onboard_time": 1697615915,
-      "rank": 21,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 332066,
       "num": 308586,
       "word": "广告公司向车主和吴磊道歉",
@@ -793,14 +833,6 @@
       "onboard_time": 1697587659,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 327796,
-      "num": 307083,
-      "word": "大胆阿姨捞起河面浮尸一看还有气",
-      "onboard_time": 1697615734,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 327788,
@@ -833,14 +865,6 @@
       "onboard_time": 1697550223,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312369,
-      "num": 312369,
-      "word": "4090",
-      "onboard_time": 1697616695,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 312237,
@@ -915,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282575,
+      "num": 282575,
+      "word": "朱一龙 浙大",
+      "onboard_time": 1697617654,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 281973,
       "num": 281973,
       "word": "宋亚轩叫醒沈腾的方法",
@@ -937,14 +969,6 @@
       "onboard_time": 1697610633,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 275700,
-      "num": 275700,
-      "word": "周也草莓小福变成了草莓大福",
-      "onboard_time": 1697616034,
-      "rank": 26,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 273858,
@@ -1035,6 +1059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 239451,
+      "num": 239451,
+      "word": "9月份中国从日本进口的水产品归零",
+      "onboard_time": 1697616934,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235588,
       "num": 219447,
       "word": "给黑狗逼得上手了",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1697596456,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232616,
+      "num": 232616,
+      "word": "成毅走路左脚绊右脚",
+      "onboard_time": 1697616273,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 229794,
@@ -1089,14 +1129,6 @@
       "onboard_time": 1697598814,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225779,
-      "num": 225779,
-      "word": "成毅走路左脚绊右脚",
-      "onboard_time": 1697616273,
-      "rank": 28,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 224233,
@@ -1339,6 +1371,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 193273,
+      "num": 313774,
+      "word": "张雪峰一个字炫耀华为全家桶",
+      "onboard_time": 1697614954,
+      "rank": 15,
+      "category": "数码"
+    },
+    {
       "raw_hot": 192950,
       "num": 192950,
       "word": "被羲和号拍到的太阳炫到了",
@@ -1379,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186477,
+      "num": 186477,
+      "word": "钟楚曦张云龙新剧吻戏",
+      "onboard_time": 1697617899,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185895,
       "num": 185895,
       "word": "女子带老公找警察发现老公是网逃",
@@ -1395,28 +1443,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185551,
-      "num": 185551,
-      "word": "9月份中国从日本进口的水产品归零",
-      "onboard_time": 1697616934,
-      "rank": 32,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184289,
       "num": 184289,
       "word": "苏翊鸣朱易同框",
       "onboard_time": 1697611472,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182408,
-      "num": 313774,
-      "word": "张雪峰一个字炫耀华为全家桶",
-      "onboard_time": 1697614954,
-      "rank": 15,
-      "category": "数码"
     },
     {
       "raw_hot": 180092,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1697593293,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 172478,
+      "num": 172478,
+      "word": "瞬间理解了意大利人的身高",
+      "onboard_time": 1697617899,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 171617,
@@ -1571,6 +1611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 162211,
+      "num": 162211,
+      "word": "小学每周一天不用电子设备重回黑板授课",
+      "onboard_time": 1697615671,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160913,
       "num": 160913,
       "word": "我们恋爱吧",
@@ -1593,14 +1641,6 @@
       "onboard_time": 1697553342,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 158670,
-      "num": 158670,
-      "word": "拜登抵达以色列",
-      "onboard_time": 1697617233,
-      "rank": 35,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 157264,
@@ -1689,14 +1729,6 @@
       "onboard_time": 1697609076,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 141441,
-      "num": 141441,
-      "word": "小学每周一天不用电子设备重回黑板授课",
-      "onboard_time": 1697615671,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 139428,
@@ -2073,6 +2105,14 @@
       "onboard_time": 1697567416,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21590,
+      "num": 667670,
+      "word": "开往秋天的列车能有多惊艳",
+      "onboard_time": 1697617835,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 15738,

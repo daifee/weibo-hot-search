@@ -1,0 +1,410 @@
+{
+  "runTime": 1697618132729,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2000048,
+        "num": 2000048,
+        "word": "年轻人开始反向消费了",
+        "onboard_time": 1697606673,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 820241,
+        "num": 820241,
+        "word": "100元吃遍东北早市当事人道歉",
+        "onboard_time": 1697615796,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 21590,
+        "num": 667670,
+        "word": "开往秋天的列车能有多惊艳",
+        "onboard_time": 1697617835,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946460,
+        "num": 650712,
+        "word": "张硕 芒果后期都看不下去了",
+        "onboard_time": 1697614471,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617379,
+        "num": 617379,
+        "word": "周杰伦蔡依林 倒带",
+        "onboard_time": 1697615915,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 586452,
+        "num": 586452,
+        "word": "福原爱副教授职位或将不保",
+        "onboard_time": 1697615671,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 530885,
+        "num": 530885,
+        "word": "生长痛 维生素D",
+        "onboard_time": 1697613993,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 483072,
+        "num": 483072,
+        "word": "陆虎淋过雨要把王栎鑫的伞也撕烂",
+        "onboard_time": 1697617415,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460593,
+        "num": 460593,
+        "word": "拜登抵达以色列",
+        "onboard_time": 1697617233,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 307679,
+        "num": 307679,
+        "word": "10000元网购大闸蟹避雷攻略",
+        "onboard_time": 1697613395,
+        "rank": 9,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 2558177,
+        "num": 307084,
+        "word": "被恶犬咬伤女童家属发起200万筹款",
+        "onboard_time": 1697613034,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193273,
+        "num": 306609,
+        "word": "张雪峰一个字炫耀华为全家桶",
+        "onboard_time": 1697614954,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1542798,
+        "num": 305796,
+        "word": "鹿哈半年收入超过3000万",
+        "onboard_time": 1697612733,
+        "rank": 12,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 846401,
+        "num": 305486,
+        "word": "4090",
+        "onboard_time": 1697616695,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 791230,
+        "num": 304530,
+        "word": "被狗咬女童方律师称狗主人被刑拘",
+        "onboard_time": 1697613933,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786890,
+        "num": 304185,
+        "word": "王祖贤 南京",
+        "onboard_time": 1697609671,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 680073,
+        "num": 303284,
+        "word": "醉酒女子当街遭性侵谣言系AI撰写",
+        "onboard_time": 1697613814,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437890,
+        "num": 303043,
+        "word": "头低低先生 微微笑小姐",
+        "onboard_time": 1697601937,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412092,
+        "num": 301866,
+        "word": "香港的富太太住什么样的房子",
+        "onboard_time": 1697613814,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 349042,
+        "num": 301167,
+        "word": "周也草莓小福变成了草莓大福",
+        "onboard_time": 1697616034,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 424181,
+        "num": 300546,
+        "word": "大胆阿姨捞起河面浮尸一看还有气",
+        "onboard_time": 1697615734,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408217,
+        "num": 300033,
+        "word": "父母超过50岁别再做无效体检了",
+        "onboard_time": 1697615915,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 364563,
+        "num": 299315,
+        "word": "赵露思 小熊猫袜子",
+        "onboard_time": 1697615193,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299087,
+        "num": 299087,
+        "word": "女主播直播间擦边卖咖啡牵出3亿大案",
+        "onboard_time": 1697612432,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292047,
+        "num": 292047,
+        "word": "孙俪女儿入了甄嬛的坑",
+        "onboard_time": 1697602175,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284666,
+        "num": 284666,
+        "word": "茅台董秘称员工离职率只有万分之三",
+        "onboard_time": 1697610153,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 282575,
+        "num": 282575,
+        "word": "朱一龙 浙大",
+        "onboard_time": 1697617654,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 269842,
+        "num": 269842,
+        "word": "王栎鑫相亲被问急了自嘲情感不顺",
+        "onboard_time": 1697604760,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250651,
+        "num": 250651,
+        "word": "边伯贤改善了SMTOWN分配率和待遇问题",
+        "onboard_time": 1697614356,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239451,
+        "num": 239451,
+        "word": "9月份中国从日本进口的水产品归零",
+        "onboard_time": 1697616934,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232616,
+        "num": 232616,
+        "word": "成毅走路左脚绊右脚",
+        "onboard_time": 1697616273,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 229420,
+        "num": 229420,
+        "word": "南京警方称酒吧街醉酒事件2人认识",
+        "onboard_time": 1697611898,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205292,
+        "num": 205292,
+        "word": "加沙地带一医院遭袭数百人死亡",
+        "onboard_time": 1697585670,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 202322,
+        "num": 202322,
+        "word": "张硕王睡睡买房没写女方名字",
+        "onboard_time": 1697606673,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186477,
+        "num": 186477,
+        "word": "钟楚曦张云龙新剧吻戏",
+        "onboard_time": 1697617899,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172616,
+        "num": 172616,
+        "word": "谭爷爷对花花字字不提爱",
+        "onboard_time": 1697613574,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 172478,
+        "num": 172478,
+        "word": "瞬间理解了意大利人的身高",
+        "onboard_time": 1697617899,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 49205,
+        "num": 166082,
+        "word": "认识一带一路的朋友圈",
+        "onboard_time": 1697598694,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162211,
+        "num": 162211,
+        "word": "小学每周一天不用电子设备重回黑板授课",
+        "onboard_time": 1697615671,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160276,
+        "num": 160276,
+        "word": "李现穿潜水服的身材",
+        "onboard_time": 1697615433,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157915,
+        "num": 157915,
+        "word": "女童母亲说狗主人至今没表态很心痛",
+        "onboard_time": 1697608232,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140677,
+        "num": 140677,
+        "word": "167名儿童仍被困在加沙废墟中",
+        "onboard_time": 1697585850,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 139831,
+        "num": 139831,
+        "word": "南京警方辟谣醉酒女子当街遭性侵",
+        "onboard_time": 1697602175,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130949,
+        "num": 130949,
+        "word": "梅西 在利马的又一场重要胜利",
+        "onboard_time": 1697614172,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128926,
+        "num": 128926,
+        "word": "死侍3导演回应霉霉加入漫威",
+        "onboard_time": 1697615615,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125679,
+        "num": 125679,
+        "word": "前任4 步入婚姻的忠告",
+        "onboard_time": 1697614899,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113060,
+        "num": 113060,
+        "word": "宋亚轩叫醒沈腾的方法",
+        "onboard_time": 1697610694,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112901,
+        "num": 112901,
+        "word": "我国人口数量虽下降但质量改善速度快",
+        "onboard_time": 1697604701,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112020,
+        "num": 112020,
+        "word": "训犬师称罗威纳犬咬伤幼童或是应激反应",
+        "onboard_time": 1697588076,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 111907,
+        "num": 111907,
+        "word": "张小斐新片 女儿和正义如何抉择",
+        "onboard_time": 1697614834,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}
