@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697657643593,
+  "endTime": 1697660290964,
   "band_list": [
     {
       "raw_hot": 2168877,
@@ -475,6 +475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 40679,
+      "num": 33960,
+      "word": "陈漫镜头下的林青霞",
+      "onboard_time": 1697658554,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30518,
       "num": 30518,
       "word": "虞书欣跳了Baddie",
@@ -499,20 +507,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 16676,
-      "num": 16676,
-      "word": "我去迪士尼看烟花完全就是这样",
-      "onboard_time": 1697656575,
-      "rank": 46,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 15206,
-      "num": 16670,
+      "raw_hot": 21328,
+      "num": 21328,
       "word": "李一桐说演反派很过瘾",
       "onboard_time": 1697657534,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 21069,
+      "num": 21069,
+      "word": "我去迪士尼看烟花完全就是这样",
+      "onboard_time": 1697656575,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 13594,
@@ -521,6 +529,14 @@
       "onboard_time": 1697633014,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12757,
+      "num": 15570,
+      "word": "觉得当代年轻人的出路越来越少了",
+      "onboard_time": 1697660233,
+      "rank": 49,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
