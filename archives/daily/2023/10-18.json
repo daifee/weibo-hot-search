@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697613378213,
+  "endTime": 1697614456058,
   "band_list": [
     {
       "raw_hot": 2241771,
@@ -41,6 +41,14 @@
       "onboard_time": 1697600974,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1913728,
+      "num": 302186,
+      "word": "鹿哈半年收入超过3000万",
+      "onboard_time": 1697612733,
+      "rank": 12,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1801324,
@@ -89,6 +97,30 @@
       "onboard_time": 1697590661,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1199380,
+      "num": 245568,
+      "word": "被狗咬女童方律师称狗主人被刑拘",
+      "onboard_time": 1697613933,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1173192,
+      "num": 534115,
+      "word": "女主播直播间擦边卖咖啡牵出3亿大案",
+      "onboard_time": 1697612432,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109864,
+      "num": 241278,
+      "word": "被恶犬咬伤女童家属发起200万筹款",
+      "onboard_time": 1697613034,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1067963,
@@ -201,14 +233,6 @@
       "onboard_time": 1697597551,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 903491,
-      "num": 302186,
-      "word": "鹿哈半年收入超过3000万",
-      "onboard_time": 1697612733,
-      "rank": 12,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 895321,
@@ -411,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 534115,
-      "num": 534115,
-      "word": "女主播直播间擦边卖咖啡牵出3亿大案",
-      "onboard_time": 1697612432,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 531066,
       "num": 531066,
       "word": "日本人眼中的韩国人的一生",
@@ -433,6 +449,22 @@
       "onboard_time": 1697571434,
       "rank": 12,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 525499,
+      "num": 525499,
+      "word": "年轻人开始反向消费了",
+      "onboard_time": 1697606673,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 509607,
+      "num": 237364,
+      "word": "醉酒女子当街遭性侵谣言系AI撰写",
+      "onboard_time": 1697613814,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 504320,
@@ -579,14 +611,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 390366,
-      "num": 388442,
-      "word": "年轻人开始反向消费了",
-      "onboard_time": 1697606673,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 390280,
       "num": 390280,
       "word": "夭柳有这一幕圆满了",
@@ -657,6 +681,22 @@
       "onboard_time": 1697554181,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 355233,
+      "num": 233703,
+      "word": "边伯贤改善了SMTOWN分配率和待遇问题",
+      "onboard_time": 1697614356,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 347792,
+      "num": 176888,
+      "word": "香港的富太太住什么样的房子",
+      "onboard_time": 1697613814,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 343704,
@@ -907,6 +947,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 237604,
+      "num": 174409,
+      "word": "生长痛 维生素D",
+      "onboard_time": 1697613993,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 235588,
       "num": 219447,
       "word": "给黑狗逼得上手了",
@@ -915,20 +963,20 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 234433,
-      "num": 234433,
-      "word": "被恶犬咬伤女童家属发起200万筹款",
-      "onboard_time": 1697613034,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233695,
       "num": 233695,
       "word": "阳江地震",
       "onboard_time": 1697596456,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229794,
+      "num": 229794,
+      "word": "谭爷爷对花花字字不提爱",
+      "onboard_time": 1697613574,
+      "rank": 23,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 229759,
@@ -969,6 +1017,14 @@
       "onboard_time": 1697609252,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 223321,
+      "num": 173255,
+      "word": "梅西 在利马的又一场重要胜利",
+      "onboard_time": 1697614172,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 222349,
@@ -1163,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197891,
+      "num": 197891,
+      "word": "10000元网购大闸蟹避雷攻略",
+      "onboard_time": 1697613395,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
       "raw_hot": 195690,
       "num": 195690,
       "word": "为有暗香来",
@@ -1307,6 +1371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171617,
+      "num": 171617,
+      "word": "刚出生四天的柴犬宝宝",
+      "onboard_time": 1697612615,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 170471,
       "num": 170471,
       "word": "周也撞脸loopy",
@@ -1419,14 +1491,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 155626,
-      "num": 155626,
-      "word": "刚出生四天的柴犬宝宝",
-      "onboard_time": 1697612615,
-      "rank": 39,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 148148,
       "num": 145474,
       "word": "前任4主创破9亿给观众敬9",
@@ -1499,6 +1563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 138844,
+      "num": 138844,
+      "word": "辅警深夜上门给农户抢修破裂水管",
+      "onboard_time": 1697613334,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 138640,
       "num": 138640,
       "word": "情侣每天聊天词穷怎么办",
@@ -1569,14 +1641,6 @@
       "onboard_time": 1697610033,
       "rank": 45,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 125208,
-      "num": 125208,
-      "word": "辅警深夜上门给农户抢修破裂水管",
-      "onboard_time": 1697613334,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121386,
