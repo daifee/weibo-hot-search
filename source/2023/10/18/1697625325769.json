@@ -1,0 +1,410 @@
+{
+  "runTime": 1697625325769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6735769,
+        "num": 6819055,
+        "word": "咬伤女童黑狗的主人被刑拘",
+        "onboard_time": 1697620115,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1019369,
+        "num": 1019369,
+        "word": "年轻人开始反向消费了",
+        "onboard_time": 1697606673,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51747,
+        "num": 868170,
+        "word": "一带一路的100个故事",
+        "onboard_time": 1697618256,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 827721,
+        "num": 827721,
+        "word": "都暻秀离开SMTOWN",
+        "onboard_time": 1697623417,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136433,
+        "num": 752965,
+        "word": "首位航母女舵手如今更飒了",
+        "onboard_time": 1697624559,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122580,
+        "num": 698162,
+        "word": "一棵树也可以美成调色盘",
+        "onboard_time": 1697622701,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 692946,
+        "num": 692946,
+        "word": "拜登抵达以色列",
+        "onboard_time": 1697617233,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 607427,
+        "num": 607427,
+        "word": "突然明白你好李焕英名字起的有多好",
+        "onboard_time": 1697622338,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117062,
+        "num": 602598,
+        "word": "92岁老人不慎摔倒热心路人纷纷伸出援手",
+        "onboard_time": 1697622877,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 602352,
+        "num": 602352,
+        "word": "金鸡奖最佳男配提名 流量与老戏骨",
+        "onboard_time": 1697619633,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78627,
+        "num": 601956,
+        "word": "华为MateX5真抗打",
+        "onboard_time": 1697622036,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1314078,
+        "num": 600927,
+        "word": "4090禁售",
+        "onboard_time": 1697624260,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1237739,
+        "num": 599466,
+        "word": "被恶犬咬伤女童家属发起200万筹款",
+        "onboard_time": 1697613034,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1189942,
+        "num": 598384,
+        "word": "邓为早期微博回复",
+        "onboard_time": 1697621977,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535747,
+        "num": 597582,
+        "word": "iPhone15Plus价格暴降",
+        "onboard_time": 1697619457,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 868075,
+        "num": 596678,
+        "word": "迪丽热巴出道后第一个新疆IP",
+        "onboard_time": 1697623237,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 604282,
+        "num": 594445,
+        "word": "街道办称罗威纳主人愿意赔偿",
+        "onboard_time": 1697623896,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 594427,
+        "num": 594427,
+        "word": "鹿哈半年收入超过3000万",
+        "onboard_time": 1697612733,
+        "rank": 17,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 592546,
+        "num": 592546,
+        "word": "西安一小区将逐户清理禁养犬",
+        "onboard_time": 1697622104,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 571495,
+        "num": 571495,
+        "word": "papi酱 老板直播间",
+        "onboard_time": 1697624559,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 437115,
+        "num": 437115,
+        "word": "公主请",
+        "onboard_time": 1697620834,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433913,
+        "num": 433913,
+        "word": "苏醒又被陈楚生淘汰了",
+        "onboard_time": 1697619457,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 354188,
+        "num": 354188,
+        "word": "恋5男嘉宾把女嘉宾吼哭了",
+        "onboard_time": 1697624616,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 300613,
+        "num": 300613,
+        "word": "100元吃遍东北早市当事人道歉",
+        "onboard_time": 1697615796,
+        "rank": 23,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 293750,
+        "num": 293750,
+        "word": "公厕蹲坑真的比马桶干净吗",
+        "onboard_time": 1697621196,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 287094,
+        "num": 287094,
+        "word": "TES太强了",
+        "onboard_time": 1697622517,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284687,
+        "num": 284687,
+        "word": "不是卫衣买不起 而是感冒灵更有性价比",
+        "onboard_time": 1697620355,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268544,
+        "num": 268544,
+        "word": "张硕 芒果后期都看不下去了",
+        "onboard_time": 1697614471,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254169,
+        "num": 254169,
+        "word": "不要钱也想做的工作出现了",
+        "onboard_time": 1697621857,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 251924,
+        "num": 251924,
+        "word": "王祖贤 南京",
+        "onboard_time": 1697609671,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263462,
+        "num": 249220,
+        "word": "无爪鸡骨",
+        "onboard_time": 1697624919,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 235790,
+        "num": 235790,
+        "word": "香港的富太太住什么样的房子",
+        "onboard_time": 1697613814,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 219679,
+        "num": 219679,
+        "word": "英雄联盟",
+        "onboard_time": 1697624559,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 216163,
+        "num": 216163,
+        "word": "醉酒女子当街遭性侵谣言系AI撰写",
+        "onboard_time": 1697613814,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210193,
+        "num": 210193,
+        "word": "内娱哭戏教科书",
+        "onboard_time": 1697623058,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 203531,
+        "num": 203531,
+        "word": "苏醒大号不敢发发小号",
+        "onboard_time": 1697620834,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199251,
+        "num": 199251,
+        "word": "周杰伦蔡依林 倒带",
+        "onboard_time": 1697615915,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 189711,
+        "num": 189711,
+        "word": "父母超过50岁别再做无效体检了",
+        "onboard_time": 1697615915,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186448,
+        "num": 186448,
+        "word": "四川被狗咬伤女童已获捐款超百万",
+        "onboard_time": 1697618436,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183593,
+        "num": 183593,
+        "word": "周也草莓小福变成了草莓大福",
+        "onboard_time": 1697616034,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177669,
+        "num": 177669,
+        "word": "𡘙字怎么念",
+        "onboard_time": 1697620654,
+        "rank": 40,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 176691,
+        "num": 176691,
+        "word": "薛之谦清远",
+        "onboard_time": 1697625158,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173357,
+        "num": 173357,
+        "word": "TES战胜TTG",
+        "onboard_time": 1697621375,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159943,
+        "num": 159943,
+        "word": "朱一龙 浙大",
+        "onboard_time": 1697617654,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158996,
+        "num": 158996,
+        "word": "妈妈下楼倒垃圾萌娃快速炫完100道题",
+        "onboard_time": 1697622338,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150780,
+        "num": 150780,
+        "word": "一带一路",
+        "onboard_time": 1697623715,
+        "rank": 45,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 155453,
+        "num": 150503,
+        "word": "韩国男星回应空气酵母",
+        "onboard_time": 1697618196,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149865,
+        "num": 149865,
+        "word": "陈楚生2024年计划了10场演唱会",
+        "onboard_time": 1697620474,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 144441,
+        "num": 144441,
+        "word": "西藏偶遇钟汉良",
+        "onboard_time": 1697619576,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143097,
+        "num": 143097,
+        "word": "边伯贤改善了SMTOWN分配率和待遇问题",
+        "onboard_time": 1697614356,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第三届一带一路国际合作高峰论坛#"
+    }
+  }
+}

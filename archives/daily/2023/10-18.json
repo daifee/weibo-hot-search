@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697624312063,
+  "endTime": 1697625325769,
   "band_list": [
     {
       "raw_hot": 7221835,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2558177,
-      "num": 493869,
+      "num": 599466,
       "word": "被恶犬咬伤女童家属发起200万筹款",
       "onboard_time": 1697613034,
       "rank": 22,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1913728,
-      "num": 493178,
+      "num": 594427,
       "word": "鹿哈半年收入超过3000万",
       "onboard_time": 1697612733,
       "rank": 12,
@@ -131,8 +131,16 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1314078,
+      "num": 600927,
+      "word": "4090禁售",
+      "onboard_time": 1697624260,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 1314032,
-      "num": 493589,
+      "num": 598384,
       "word": "邓为早期微博回复",
       "onboard_time": 1697621977,
       "rank": 12,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 1019503,
-      "num": 702340,
+      "num": 827721,
       "word": "都暻秀离开SMTOWN",
       "onboard_time": 1697623417,
       "rank": 3,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 963490,
-      "num": 493341,
+      "num": 596678,
       "word": "迪丽热巴出道后第一个新疆IP",
       "onboard_time": 1697623237,
       "rank": 14,
@@ -451,8 +459,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 607427,
+      "num": 607427,
+      "word": "突然明白你好李焕英名字起的有多好",
+      "onboard_time": 1697622338,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 604282,
+      "num": 594445,
+      "word": "街道办称罗威纳主人愿意赔偿",
+      "onboard_time": 1697623896,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 601131,
-      "num": 493037,
+      "num": 592546,
       "word": "西安一小区将逐户清理禁养犬",
       "onboard_time": 1697622104,
       "rank": 16,
@@ -489,6 +513,14 @@
       "onboard_time": 1697620834,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 571495,
+      "num": 571495,
+      "word": "papi酱 老板直播间",
+      "onboard_time": 1697624559,
+      "rank": 19,
+      "category": "网红"
     },
     {
       "raw_hot": 565058,
@@ -827,14 +859,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 397814,
-      "num": 397814,
-      "word": "突然明白你好李焕英名字起的有多好",
-      "onboard_time": 1697622338,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 395030,
       "num": 301197,
       "word": "被狗咬伤女童尚未脱离危险",
@@ -945,6 +969,14 @@
       "onboard_time": 1697614356,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354188,
+      "num": 354188,
+      "word": "恋5男嘉宾把女嘉宾吼哭了",
+      "onboard_time": 1697624616,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 350875,
@@ -1147,20 +1179,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273758,
-      "num": 273758,
-      "word": "街道办称罗威纳主人愿意赔偿",
-      "onboard_time": 1697623896,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 273302,
       "num": 273302,
       "word": "小伙每天埋头刷题15小时急性瘫痪",
       "onboard_time": 1697591557,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263462,
+      "num": 249220,
+      "word": "无爪鸡骨",
+      "onboard_time": 1697624919,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 262722,
@@ -1201,6 +1233,14 @@
       "onboard_time": 1697605298,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254169,
+      "num": 254169,
+      "word": "不要钱也想做的工作出现了",
+      "onboard_time": 1697621857,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 252782,
@@ -1249,14 +1289,6 @@
       "onboard_time": 1697605955,
       "rank": 38,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 238089,
-      "num": 238089,
-      "word": "不要钱也想做的工作出现了",
-      "onboard_time": 1697621857,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 235588,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1697594795,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219679,
+      "num": 219679,
+      "word": "英雄联盟",
+      "onboard_time": 1697624559,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 219564,
@@ -1723,14 +1763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178509,
-      "num": 178509,
-      "word": "4090禁售",
-      "onboard_time": 1697624260,
-      "rank": 47,
-      "category": "数码"
-    },
-    {
       "raw_hot": 177228,
       "num": 177228,
       "word": "流水纪分享肖战新歌幕后故事",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1697587659,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 176691,
+      "num": 176691,
+      "word": "薛之谦清远",
+      "onboard_time": 1697625158,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 175413,
@@ -2075,6 +2115,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 136433,
+      "num": 752965,
+      "word": "首位航母女舵手如今更飒了",
+      "onboard_time": 1697624559,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 136363,
       "num": 136363,
       "word": "英伟达大跌",
@@ -2131,12 +2179,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122580,
+      "num": 698162,
+      "word": "一棵树也可以美成调色盘",
+      "onboard_time": 1697622701,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121386,
       "num": 121386,
       "word": "谢霆锋性张力",
       "onboard_time": 1697552920,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 117062,
+      "num": 602598,
+      "word": "92岁老人不慎摔倒热心路人纷纷伸出援手",
+      "onboard_time": 1697622877,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116177,
@@ -2153,14 +2217,6 @@
       "onboard_time": 1697549140,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 114142,
-      "num": 695973,
-      "word": "一棵树也可以美成调色盘",
-      "onboard_time": 1697622701,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 110396,
@@ -2200,14 +2256,6 @@
       "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
       "onboard_time": 1697536777,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97248,
-      "num": 492928,
-      "word": "92岁老人不慎摔倒热心路人纷纷伸出援手",
-      "onboard_time": 1697622877,
-      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -2267,6 +2315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78627,
+      "num": 601956,
+      "word": "华为MateX5真抗打",
+      "onboard_time": 1697622036,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78191,
       "num": 78191,
       "word": "杨紫流光羽毛裙",
@@ -2281,14 +2337,6 @@
       "onboard_time": 1697562981,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 68943,
-      "num": 493931,
-      "word": "华为MateX5真抗打",
-      "onboard_time": 1697622036,
-      "rank": 10,
-      "category": "数码"
     },
     {
       "raw_hot": 68811,
@@ -2364,7 +2412,7 @@
     },
     {
       "raw_hot": 56630,
-      "num": 835506,
+      "num": 868170,
       "word": "一带一路的100个故事",
       "onboard_time": 1697618256,
       "rank": 2,
@@ -2471,6 +2519,9 @@
     },
     {
       "word": "#一带一路国际合作高峰论坛开幕式#"
+    },
+    {
+      "word": "#习近平出席第三届一带一路国际合作高峰论坛#"
     }
   ]
 }
