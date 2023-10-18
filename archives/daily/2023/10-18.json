@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697632440329,
+  "endTime": 1697633425508,
   "band_list": [
     {
       "raw_hot": 7221835,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2168387,
+      "num": 1039125,
+      "word": "云南电梯坠落致3死17伤",
+      "onboard_time": 1697629835,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2106907,
       "num": 470028,
       "word": "退钱",
@@ -49,14 +57,6 @@
       "onboard_time": 1697624260,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2032417,
-      "num": 803024,
-      "word": "云南电梯坠落致3死17伤",
-      "onboard_time": 1697629835,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2012550,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1826306,
-      "num": 812015,
+      "num": 1018313,
       "word": "杜华说不想再养NAME了",
       "onboard_time": 1697627614,
       "rank": 35,
@@ -193,6 +193,14 @@
       "onboard_time": 1697613933,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1199776,
+      "num": 1199776,
+      "word": "天官赐福 进不去",
+      "onboard_time": 1697632174,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 1173192,
@@ -387,6 +395,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 876666,
+      "num": 876666,
+      "word": "拜登抵达以色列之际以近加沙边境响起警报",
+      "onboard_time": 1697630313,
+      "rank": 5,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 853863,
       "num": 853863,
       "word": "恋5男嘉宾把女嘉宾吼哭了",
@@ -409,14 +425,6 @@
       "onboard_time": 1697619633,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 799781,
-      "num": 799781,
-      "word": "拜登抵达以色列之际以近加沙边境响起警报",
-      "onboard_time": 1697630313,
-      "rank": 5,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 794467,
@@ -465,6 +473,14 @@
       "onboard_time": 1697553761,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 718559,
+      "num": 718559,
+      "word": "广州地铁禁止恐怖形象进站",
+      "onboard_time": 1697632298,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 712843,
@@ -609,14 +625,6 @@
       "onboard_time": 1697618196,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 552151,
-      "num": 552151,
-      "word": "天官赐福 进不去",
-      "onboard_time": 1697632174,
-      "rank": 7,
-      "category": "动漫"
     },
     {
       "raw_hot": 549174,
@@ -1155,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 329681,
+      "num": 329681,
+      "word": "田耕纪",
+      "onboard_time": 1697632654,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 328281,
       "num": 328281,
       "word": "室友吃了我给的石榴过敏了",
@@ -1201,6 +1217,14 @@
       "onboard_time": 1697550223,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312793,
+      "num": 312793,
+      "word": "为有暗香来小侍卫上桌",
+      "onboard_time": 1697632474,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 312237,
@@ -1281,6 +1305,14 @@
       "onboard_time": 1697626414,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 297402,
+      "num": 297402,
+      "word": "4090显卡全面下架",
+      "onboard_time": 1697632833,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 291656,
@@ -1475,14 +1507,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 234791,
-      "num": 234791,
-      "word": "广州地铁禁止恐怖形象进站",
-      "onboard_time": 1697632298,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 233695,
       "num": 233695,
       "word": "阳江地震",
@@ -1627,6 +1651,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 214817,
+      "num": 214817,
+      "word": "后来我才理解吕子乔说的话",
+      "onboard_time": 1697631815,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 213496,
       "num": 213496,
       "word": "一杯奶茶钱能买这么多东西",
@@ -1715,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204263,
+      "num": 204263,
+      "word": "田耕纪直播",
+      "onboard_time": 1697632833,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204248,
       "num": 204248,
       "word": "加沙店铺食品存货只够四五天",
@@ -1761,6 +1801,14 @@
       "onboard_time": 1697607754,
       "rank": 26,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 200261,
+      "num": 229871,
+      "word": "南京1912玄武酒吧",
+      "onboard_time": 1697632955,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200051,
@@ -1899,6 +1947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188283,
+      "num": 188283,
+      "word": "她这一抱救下一个娃",
+      "onboard_time": 1697631757,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 187530,
       "num": 97084,
       "word": "hi6为檀健次长相思庆典送花篮",
@@ -2027,14 +2083,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 171532,
-      "num": 171532,
-      "word": "她这一抱救下一个娃",
-      "onboard_time": 1697631757,
-      "rank": 38,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 170471,
       "num": 170471,
       "word": "周也撞脸loopy",
@@ -2049,14 +2097,6 @@
       "onboard_time": 1697601096,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 167931,
-      "num": 167931,
-      "word": "后来我才理解吕子乔说的话",
-      "onboard_time": 1697631815,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 167636,
@@ -2105,6 +2145,14 @@
       "onboard_time": 1697552560,
       "rank": 31,
       "category": "数码"
+    },
+    {
+      "raw_hot": 165682,
+      "num": 165682,
+      "word": "问心",
+      "onboard_time": 1697555564,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 165470,
@@ -2515,14 +2563,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 107818,
-      "num": 104076,
-      "word": "问心",
-      "onboard_time": 1697555564,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 105440,
       "num": 105440,
       "word": "女童躺妈妈怀里被突然窜出大狗咬伤",
@@ -2723,6 +2763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40092,
+      "num": 804279,
+      "word": "开往秋天的列车能有多惊艳",
+      "onboard_time": 1697617835,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37208,
       "num": 162085,
       "word": "中国空间站办起了国际画展",
@@ -2763,10 +2811,10 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21590,
-      "num": 804279,
-      "word": "开往秋天的列车能有多惊艳",
-      "onboard_time": 1697617835,
+      "raw_hot": 20095,
+      "num": 1049572,
+      "word": "中国桥梁连着历史和现实的非凡跨越",
+      "onboard_time": 1697633014,
       "rank": 2,
       "category": "社会新闻"
     },

@@ -1,0 +1,410 @@
+{
+  "runTime": 1697633425508,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1209748,
+        "num": 1209748,
+        "word": "天官赐福第二季开播",
+        "onboard_time": 1697631213,
+        "rank": 0,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1199776,
+        "num": 1199776,
+        "word": "天官赐福 进不去",
+        "onboard_time": 1697632174,
+        "rank": 1,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 20095,
+        "num": 1049572,
+        "word": "中国桥梁连着历史和现实的非凡跨越",
+        "onboard_time": 1697633014,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2168387,
+        "num": 1039125,
+        "word": "云南电梯坠落致3死17伤",
+        "onboard_time": 1697629835,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1775218,
+        "num": 1018313,
+        "word": "杜华说不想再养NAME了",
+        "onboard_time": 1697627614,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 943385,
+        "num": 943385,
+        "word": "突然明白你好李焕英名字起的有多好",
+        "onboard_time": 1697622338,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 876666,
+        "num": 876666,
+        "word": "拜登抵达以色列之际以近加沙边境响起警报",
+        "onboard_time": 1697630313,
+        "rank": 6,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 718559,
+        "num": 718559,
+        "word": "广州地铁禁止恐怖形象进站",
+        "onboard_time": 1697632298,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 549736,
+        "num": 549736,
+        "word": "恋5男嘉宾把女嘉宾吼哭了",
+        "onboard_time": 1697624616,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 466628,
+        "num": 466628,
+        "word": "年轻人开始反向消费了",
+        "onboard_time": 1697606673,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1404861,
+        "num": 456732,
+        "word": "4090禁售",
+        "onboard_time": 1697624260,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1218237,
+        "num": 448053,
+        "word": "女童父母称200万筹款将全用于孩子治疗",
+        "onboard_time": 1697626296,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614872,
+        "num": 420972,
+        "word": "咬伤女童黑狗的主人被刑拘",
+        "onboard_time": 1697620115,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 467874,
+        "num": 402267,
+        "word": "虞书欣跳了Baddie",
+        "onboard_time": 1697629594,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 393396,
+        "num": 393396,
+        "word": "杜华宣布NAME将淘汰重组",
+        "onboard_time": 1697628993,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 388418,
+        "num": 388418,
+        "word": "都暻秀新公司名SUSU",
+        "onboard_time": 1697631996,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351715,
+        "num": 351715,
+        "word": "邓为早期微博回复",
+        "onboard_time": 1697621977,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329681,
+        "num": 329681,
+        "word": "田耕纪",
+        "onboard_time": 1697632654,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327919,
+        "num": 327919,
+        "word": "迪丽热巴出道后第一个新疆IP",
+        "onboard_time": 1697623237,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312793,
+        "num": 312793,
+        "word": "为有暗香来小侍卫上桌",
+        "onboard_time": 1697632474,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409096,
+        "num": 308505,
+        "word": "拜登抵达以色列",
+        "onboard_time": 1697617233,
+        "rank": 20,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 330436,
+        "num": 305077,
+        "word": "鹿哈回应已改名",
+        "onboard_time": 1697626957,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 329988,
+        "num": 303665,
+        "word": "吴昕泡脚已经成为身体记忆了",
+        "onboard_time": 1697630976,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 297402,
+        "num": 297402,
+        "word": "4090显卡全面下架",
+        "onboard_time": 1697632833,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 265438,
+        "num": 265438,
+        "word": "成都一养狗人选择凌晨2点遛狗",
+        "onboard_time": 1697628874,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 284536,
+        "num": 263659,
+        "word": "papi酱 老板直播间",
+        "onboard_time": 1697624559,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 258888,
+        "num": 258888,
+        "word": "梁朝伟看一场电影要买六张票",
+        "onboard_time": 1697630072,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247617,
+        "num": 247617,
+        "word": "黄凯 励志又心酸",
+        "onboard_time": 1697631156,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217122,
+        "num": 229997,
+        "word": "梅西中国行可能取消",
+        "onboard_time": 1697626836,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200261,
+        "num": 229871,
+        "word": "南京1912玄武酒吧",
+        "onboard_time": 1697632955,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446724,
+        "num": 229863,
+        "word": "街道办称罗威纳主人愿意赔偿",
+        "onboard_time": 1697623896,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229845,
+        "num": 229845,
+        "word": "iPhone15Plus价格暴降",
+        "onboard_time": 1697619457,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214817,
+        "num": 214817,
+        "word": "后来我才理解吕子乔说的话",
+        "onboard_time": 1697631815,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 210149,
+        "num": 210149,
+        "word": "莲花楼 重生成为天下第一的徒弟",
+        "onboard_time": 1697626414,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204263,
+        "num": 204263,
+        "word": "田耕纪直播",
+        "onboard_time": 1697632833,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200752,
+        "num": 200752,
+        "word": "鹿哈半年收入超过3000万",
+        "onboard_time": 1697612733,
+        "rank": 35,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 199551,
+        "num": 199551,
+        "word": "苏醒又被陈楚生淘汰了",
+        "onboard_time": 1697619457,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194091,
+        "num": 194091,
+        "word": "国防部回应我战机驱离加拿大侦察机",
+        "onboard_time": 1697627556,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 191511,
+        "num": 191511,
+        "word": "西安一小区将逐户清理禁养犬",
+        "onboard_time": 1697622104,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188283,
+        "num": 188283,
+        "word": "她这一抱救下一个娃",
+        "onboard_time": 1697631757,
+        "rank": 39,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 177095,
+        "num": 177095,
+        "word": "张硕 芒果后期都看不下去了",
+        "onboard_time": 1697614471,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170361,
+        "num": 170361,
+        "word": "醉酒女子当街遭性侵谣言系AI撰写",
+        "onboard_time": 1697613814,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169083,
+        "num": 169083,
+        "word": "金鸡奖最佳男配提名 流量与老戏骨",
+        "onboard_time": 1697619633,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165682,
+        "num": 165682,
+        "word": "问心",
+        "onboard_time": 1697632716,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40092,
+        "num": 160591,
+        "word": "开往秋天的列车能有多惊艳",
+        "onboard_time": 1697617835,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157988,
+        "num": 157988,
+        "word": "原来双子座这么注重细节",
+        "onboard_time": 1697630736,
+        "rank": 45,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 157091,
+        "num": 157091,
+        "word": "香港的富太太住什么样的房子",
+        "onboard_time": 1697613814,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 139365,
+        "num": 139365,
+        "word": "12岁泰国清迈小歌手翻唱上海滩",
+        "onboard_time": 1697630253,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 139001,
+        "num": 139001,
+        "word": "杨紫唱歌时台下reaction",
+        "onboard_time": 1697627314,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125833,
+        "num": 125833,
+        "word": "父母超过50岁别再做无效体检了",
+        "onboard_time": 1697615915,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}

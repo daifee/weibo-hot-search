@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697632440329,
+  "endTime": 1697633425508,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -283,6 +283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 2168387,
+      "num": 1039125,
+      "word": "云南电梯坠落致3死17伤",
+      "onboard_time": 1697629835,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2148982,
       "num": 2148982,
       "word": "腾讯认证三部爆款剧集",
@@ -345,14 +353,6 @@
       "onboard_time": 1697624260,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 2032417,
-      "num": 803024,
-      "word": "云南电梯坠落致3死17伤",
-      "onboard_time": 1697629835,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2020477,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 1826306,
-      "num": 812015,
+      "num": 1018313,
       "word": "杜华说不想再养NAME了",
       "onboard_time": 1697627614,
       "rank": 35,
@@ -937,6 +937,14 @@
       "onboard_time": 1697613933,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1199776,
+      "num": 1199776,
+      "word": "天官赐福 进不去",
+      "onboard_time": 1697632174,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 1198191,
@@ -1467,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 876666,
+      "num": 876666,
+      "word": "拜登抵达以色列之际以近加沙边境响起警报",
+      "onboard_time": 1697630313,
+      "rank": 5,
+      "category": "国外要闻,社会新闻"
+    },
+    {
       "raw_hot": 875981,
       "num": 334727,
       "word": "男子去世后妻子发现其微信有暧昧对象",
@@ -1673,14 +1689,6 @@
       "onboard_time": 1697464897,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 799781,
-      "num": 799781,
-      "word": "拜登抵达以色列之际以近加沙边境响起警报",
-      "onboard_time": 1697630313,
-      "rank": 5,
-      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 797881,
@@ -1945,6 +1953,14 @@
       "onboard_time": 1697501557,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 718559,
+      "num": 718559,
+      "word": "广州地铁禁止恐怖形象进站",
+      "onboard_time": 1697632298,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717657,
@@ -2649,14 +2665,6 @@
       "onboard_time": 1697501915,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 552151,
-      "num": 552151,
-      "word": "天官赐福 进不去",
-      "onboard_time": 1697632174,
-      "rank": 7,
-      "category": "动漫"
     },
     {
       "raw_hot": 550572,
@@ -4715,6 +4723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329681,
+      "num": 329681,
+      "word": "田耕纪",
+      "onboard_time": 1697455116,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 329418,
       "num": 329418,
       "word": "赵丽颖工作室换头像",
@@ -4979,6 +4995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 312793,
+      "num": 312793,
+      "word": "为有暗香来小侍卫上桌",
+      "onboard_time": 1697632474,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 312331,
       "num": 312331,
       "word": "田柾国NewJeans舞蹈挑战",
@@ -5201,6 +5225,14 @@
       "onboard_time": 1697384017,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297402,
+      "num": 297402,
+      "word": "4090显卡全面下架",
+      "onboard_time": 1697632833,
+      "rank": 23,
+      "category": "游戏"
     },
     {
       "raw_hot": 296849,
@@ -6363,14 +6395,6 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 234791,
-      "num": 234791,
-      "word": "广州地铁禁止恐怖形象进站",
-      "onboard_time": 1697632298,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 234503,
       "num": 234503,
       "word": "Steam 崩了",
@@ -6803,6 +6827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 214817,
+      "num": 214817,
+      "word": "后来我才理解吕子乔说的话",
+      "onboard_time": 1697631815,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 214568,
       "num": 214568,
       "word": "又被锅姨的眼神吓到了",
@@ -7163,6 +7195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204263,
+      "num": 204263,
+      "word": "田耕纪直播",
+      "onboard_time": 1697632833,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204248,
       "num": 204248,
       "word": "加沙店铺食品存货只够四五天",
@@ -7331,14 +7371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202413,
-      "num": 202413,
-      "word": "田耕纪",
-      "onboard_time": 1697455116,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202203,
       "num": 202203,
       "word": "不管说什么男朋友都会用反问句来接话",
@@ -7473,6 +7505,14 @@
       "onboard_time": 1697369014,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 200261,
+      "num": 229871,
+      "word": "南京1912玄武酒吧",
+      "onboard_time": 1697632955,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200251,
@@ -8131,6 +8171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 188283,
+      "num": 188283,
+      "word": "她这一抱救下一个娃",
+      "onboard_time": 1697631757,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 188037,
       "num": 188037,
       "word": "汪苏泷盗月社为i做e",
@@ -8707,14 +8755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171532,
-      "num": 171532,
-      "word": "她这一抱救下一个娃",
-      "onboard_time": 1697631757,
-      "rank": 38,
-      "category": "社会正能量"
-    },
-    {
       "raw_hot": 171251,
       "num": 171251,
       "word": "秋婉G",
@@ -8849,14 +8889,6 @@
       "onboard_time": 1697422294,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167931,
-      "num": 167931,
-      "word": "后来我才理解吕子乔说的话",
-      "onboard_time": 1697631815,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 167819,
@@ -10763,6 +10795,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40092,
+      "num": 804279,
+      "word": "开往秋天的列车能有多惊艳",
+      "onboard_time": 1697617835,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38961,
       "num": 53256,
       "word": "明日方舟 做法",
@@ -10939,14 +10979,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 21590,
-      "num": 804279,
-      "word": "开往秋天的列车能有多惊艳",
-      "onboard_time": 1697617835,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 20265,
       "num": 986242,
       "word": "在太空改论文的导师快回来了",
@@ -10961,6 +10993,14 @@
       "onboard_time": 1697397554,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20095,
+      "num": 1049572,
+      "word": "中国桥梁连着历史和现实的非凡跨越",
+      "onboard_time": 1697633014,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17788,
