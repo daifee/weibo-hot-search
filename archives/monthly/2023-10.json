@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697592800248,
+  "endTime": 1697595850967,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -3588,7 +3588,7 @@
     },
     {
       "raw_hot": 1368106,
-      "num": 500808,
+      "num": 594769,
       "word": "苹果承认iPhone15存在烧屏问题",
       "onboard_time": 1697587659,
       "rank": 3,
@@ -3609,6 +3609,14 @@
       "onboard_time": 1696342241,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1363257,
+      "num": 431272,
+      "word": "洗内裤机",
+      "onboard_time": 1697590661,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 1361645,
@@ -4969,6 +4977,14 @@
       "onboard_time": 1697549801,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1054712,
+      "num": 1054712,
+      "word": "建议以租代买的物品",
+      "onboard_time": 1697590896,
+      "rank": 17,
+      "category": "知识科普"
     },
     {
       "raw_hot": 1054056,
@@ -6963,12 +6979,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 825849,
-      "num": 431272,
-      "word": "洗内裤机",
-      "onboard_time": 1697590661,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 825152,
+      "num": 825152,
+      "word": "父女俩时隔4个月相继成为大体老师",
+      "onboard_time": 1697590718,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 824429,
@@ -7225,14 +7241,6 @@
       "onboard_time": 1696758333,
       "rank": 15,
       "category": "社会议题"
-    },
-    {
-      "raw_hot": 804390,
-      "num": 804390,
-      "word": "建议以租代买的物品",
-      "onboard_time": 1697590896,
-      "rank": 17,
-      "category": "知识科普"
     },
     {
       "raw_hot": 804001,
@@ -8363,6 +8371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 727198,
+      "num": 504398,
+      "word": "A股",
+      "onboard_time": 1696816174,
+      "rank": 11,
+      "category": "财经"
+    },
+    {
       "raw_hot": 723979,
       "num": 555493,
       "word": "莎头",
@@ -9153,14 +9169,6 @@
       "onboard_time": 1696158937,
       "rank": 16,
       "category": "综艺,综艺"
-    },
-    {
-      "raw_hot": 674863,
-      "num": 504398,
-      "word": "A股",
-      "onboard_time": 1696816174,
-      "rank": 11,
-      "category": "财经"
     },
     {
       "raw_hot": 674802,
@@ -12968,14 +12976,6 @@
       "word": "北极鲶鱼哪来的安全感",
       "onboard_time": 1697012135,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 513641,
-      "num": 513641,
-      "word": "父女俩时隔4个月相继成为大体老师",
-      "onboard_time": 1697590718,
-      "rank": 7,
       "category": "社会新闻"
     },
     {
@@ -17883,6 +17883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382338,
+      "num": 382338,
+      "word": "乘务员在高铁上被惊喜求婚",
+      "onboard_time": 1697594373,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 382060,
       "num": 375751,
       "word": "他居然知道自己跳了多少下",
@@ -18169,6 +18177,14 @@
       "onboard_time": 1697521712,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 376414,
+      "num": 376414,
+      "word": "内马尔受伤",
+      "onboard_time": 1697592215,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 376365,
@@ -20313,14 +20329,6 @@
       "onboard_time": 1696774060,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 338212,
-      "num": 338212,
-      "word": "内马尔受伤",
-      "onboard_time": 1697592215,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 337908,
@@ -30859,6 +30867,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221209,
+      "num": 221209,
+      "word": "曾舜晞更新自动回复",
+      "onboard_time": 1697594795,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 221119,
       "num": 221119,
       "word": "五月天演唱会",
@@ -31329,6 +31345,14 @@
       "onboard_time": 1696648594,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215479,
+      "num": 215479,
+      "word": "小伙骑电动摔倒3名路人为他停下",
+      "onboard_time": 1697595212,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 215335,
@@ -32593,6 +32617,14 @@
       "onboard_time": 1697421333,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206957,
+      "num": 206957,
+      "word": "乌拉圭2比0巴西",
+      "onboard_time": 1697595631,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 206900,
@@ -35081,6 +35113,14 @@
       "onboard_time": 1696634788,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 195394,
+      "num": 195394,
+      "word": "夭柳有这一幕圆满了",
+      "onboard_time": 1697595512,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 195285,
@@ -39115,6 +39155,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 172418,
+      "num": 172418,
+      "word": "田耕纪真的鸡飞蛋打了",
+      "onboard_time": 1697595572,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 172414,
       "num": 172414,
       "word": "以方否认停火允许援助进入加沙报道",
@@ -39945,6 +39993,14 @@
       "onboard_time": 1697297674,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166180,
+      "num": 145485,
+      "word": "檀健次再唱相柳人物曲",
+      "onboard_time": 1697595212,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 166162,
@@ -41699,6 +41755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152704,
+      "num": 152704,
+      "word": "请别再用更年期挖苦女人了",
+      "onboard_time": 1697593293,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 152701,
       "num": 152701,
       "word": "女子毕设丢失民警打800个电话找回",
@@ -42235,6 +42299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148148,
+      "num": 145474,
+      "word": "前任4主创破9亿给观众敬9",
+      "onboard_time": 1697593054,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148129,
       "num": 210446,
       "word": "跟白羊座相处的诀窍",
@@ -42545,6 +42617,14 @@
       "onboard_time": 1696311512,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 145533,
+      "num": 145533,
+      "word": "一带一路国际合作高峰论坛开幕",
+      "onboard_time": 1697594492,
+      "rank": 42,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 145503,
@@ -46628,7 +46708,7 @@
     },
     {
       "raw_hot": 68123,
-      "num": 507319,
+      "num": 668326,
       "word": "丝路之歌一路繁花",
       "onboard_time": 1697548239,
       "rank": 2,
@@ -48566,6 +48646,9 @@
     },
     {
       "word": "#习近平会见乌兹别克斯坦总统#"
+    },
+    {
+      "word": "#一带一路国际合作高峰论坛开幕式#"
     }
   ]
 }
