@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697646161831,
+  "endTime": 1697647127724,
   "band_list": [
     {
       "raw_hot": 2168877,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 614305,
-      "num": 204602,
+      "num": 235484,
       "word": "云南电梯坠落致3死17伤",
       "onboard_time": 1697629835,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 567856,
+      "num": 548270,
+      "word": "seventeen",
+      "onboard_time": 1697643514,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 561152,
@@ -57,14 +65,6 @@
       "onboard_time": 1697627614,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 478307,
-      "num": 478307,
-      "word": "seventeen",
-      "onboard_time": 1697643514,
-      "rank": 7,
-      "category": "音乐"
     },
     {
       "raw_hot": 471874,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 438556,
-      "num": 202929,
+      "num": 235177,
       "word": "谈恋爱在一起久了真的会腻吗",
       "onboard_time": 1697641296,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 415438,
+      "num": 415438,
+      "word": "饮料瓶底为什么用五瓣花凸起形状",
+      "onboard_time": 1697644054,
+      "rank": 10,
+      "category": "知识科普"
     },
     {
       "raw_hot": 390146,
@@ -105,14 +113,6 @@
       "onboard_time": 1697630313,
       "rank": 14,
       "category": "国外要闻,社会新闻"
-    },
-    {
-      "raw_hot": 383216,
-      "num": 383216,
-      "word": "饮料瓶底为什么用五瓣花凸起形状",
-      "onboard_time": 1697644054,
-      "rank": 10,
-      "category": "知识科普"
     },
     {
       "raw_hot": 366422,
@@ -171,12 +171,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 235093,
+      "num": 235093,
+      "word": "还以为是新版公主小妹",
+      "onboard_time": 1697645431,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 218173,
       "num": 199524,
       "word": "成都一养狗人选择凌晨2点遛狗",
       "onboard_time": 1697628874,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211659,
+      "num": 211659,
+      "word": "于适健身迷失自我",
+      "onboard_time": 1697644892,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205346,
@@ -187,20 +203,12 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 203942,
-      "num": 162037,
-      "word": "还以为是新版公主小妹",
-      "onboard_time": 1697645431,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 198816,
-      "num": 198816,
-      "word": "于适健身迷失自我",
-      "onboard_time": 1697644892,
-      "rank": 24,
-      "category": "作品衍生"
+      "raw_hot": 196883,
+      "num": 235735,
+      "word": "福宝 适当发疯有益身心健康",
+      "onboard_time": 1697646028,
+      "rank": 45,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 183646,
@@ -331,6 +339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 134300,
+      "num": 134300,
+      "word": "华晨宇答题正确率百分百",
+      "onboard_time": 1697646268,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133134,
       "num": 133134,
       "word": "田曦薇红色针织衫",
@@ -355,12 +371,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121198,
-      "num": 121198,
-      "word": "福宝 适当发疯有益身心健康",
-      "onboard_time": 1697646028,
-      "rank": 45,
-      "category": "动物萌宠"
+      "raw_hot": 122026,
+      "num": 122026,
+      "word": "25岁准爸爸爬窗托举头卡护栏女孩",
+      "onboard_time": 1697645251,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118649,
@@ -387,12 +403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 102166,
-      "num": 106190,
-      "word": "25岁准爸爸爬窗托举头卡护栏女孩",
-      "onboard_time": 1697645251,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 96586,
+      "num": 96586,
+      "word": "张翰珠江人家花絮",
+      "onboard_time": 1697641957,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 61699,
@@ -406,6 +422,9 @@
   "hotgov_list": [
     {
       "word": "#习近平会见尼日利亚副总统谢蒂马#"
+    },
+    {
+      "word": "#习近平出席第三届一带一路国际合作高峰论坛#"
     }
   ]
 }

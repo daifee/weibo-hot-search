@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697646161831,
+  "endTime": 1697647127724,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -2603,6 +2603,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 567856,
+      "num": 548270,
+      "word": "seventeen",
+      "onboard_time": 1697643514,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 567535,
       "num": 567535,
       "word": "南航回应飞机餐发4个馒头1片白菜",
@@ -3275,14 +3283,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 478307,
-      "num": 478307,
-      "word": "seventeen",
-      "onboard_time": 1697643514,
-      "rank": 7,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 477575,
       "num": 477575,
       "word": "这什么节目上来就脱衣服",
@@ -3907,6 +3907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 415438,
+      "num": 415438,
+      "word": "饮料瓶底为什么用五瓣花凸起形状",
+      "onboard_time": 1697644054,
+      "rank": 10,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 414937,
       "num": 414937,
       "word": "官方通报业主滥挖地下室致河水倒灌车库",
@@ -4281,14 +4289,6 @@
       "onboard_time": 1697341594,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 383216,
-      "num": 383216,
-      "word": "饮料瓶底为什么用五瓣花凸起形状",
-      "onboard_time": 1697644054,
-      "rank": 10,
-      "category": "知识科普"
     },
     {
       "raw_hot": 383177,
@@ -6603,6 +6603,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 235093,
+      "num": 235093,
+      "word": "还以为是新版公主小妹",
+      "onboard_time": 1697645431,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 234503,
       "num": 234503,
       "word": "Steam 崩了",
@@ -7187,6 +7195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211659,
+      "num": 211659,
+      "word": "于适健身迷失自我",
+      "onboard_time": 1697644892,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 211217,
       "num": 211217,
       "word": "你知道感情中的弃猫效应吗",
@@ -7497,14 +7513,6 @@
       "onboard_time": 1697509414,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203942,
-      "num": 162037,
-      "word": "还以为是新版公主小妹",
-      "onboard_time": 1697645431,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 203713,
@@ -7859,14 +7867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198816,
-      "num": 198816,
-      "word": "于适健身迷失自我",
-      "onboard_time": 1697644892,
-      "rank": 24,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 198686,
       "num": 198686,
       "word": "BDS让二追三",
@@ -7969,6 +7969,14 @@
       "onboard_time": 1697454214,
       "rank": 42,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 196883,
+      "num": 235735,
+      "word": "福宝 适当发疯有益身心健康",
+      "onboard_time": 1697646028,
+      "rank": 45,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 196333,
@@ -10291,6 +10299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134300,
+      "num": 134300,
+      "word": "华晨宇答题正确率百分百",
+      "onboard_time": 1697646268,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133516,
       "num": 133516,
       "word": "男子偷10余万只蜜蜂蜂箱摆满后院",
@@ -10483,12 +10499,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 121198,
-      "num": 121198,
-      "word": "福宝 适当发疯有益身心健康",
-      "onboard_time": 1697646028,
-      "rank": 45,
-      "category": "动物萌宠"
+      "raw_hot": 122026,
+      "num": 122026,
+      "word": "25岁准爸爸爬窗托举头卡护栏女孩",
+      "onboard_time": 1697645251,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121057,
@@ -10769,14 +10785,6 @@
       "onboard_time": 1697375076,
       "rank": 20,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102166,
-      "num": 106190,
-      "word": "25岁准爸爸爬窗托举头卡护栏女孩",
-      "onboard_time": 1697645251,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 101115,
