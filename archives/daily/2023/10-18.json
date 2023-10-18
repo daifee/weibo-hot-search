@@ -1,10 +1,18 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697620656459,
+  "endTime": 1697621665503,
   "band_list": [
     {
+      "raw_hot": 4454846,
+      "num": 5409692,
+      "word": "咬伤女童黑狗的主人被刑拘",
+      "onboard_time": 1697620115,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2558177,
-      "num": 457786,
+      "num": 459699,
       "word": "被恶犬咬伤女童家属发起200万筹款",
       "onboard_time": 1697613034,
       "rank": 22,
@@ -41,14 +49,6 @@
       "onboard_time": 1697609671,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2000967,
-      "num": 467569,
-      "word": "咬伤女童黑狗的主人被刑拘",
-      "onboard_time": 1697620115,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2000048,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1102145,
-      "num": 512373,
+      "num": 675438,
       "word": "拜登抵达以色列",
       "onboard_time": 1697617233,
       "rank": 35,
@@ -307,6 +307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 816700,
+      "num": 816700,
+      "word": "金鸡奖最佳男配提名 流量与老戏骨",
+      "onboard_time": 1697619633,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 794467,
       "num": 794467,
       "word": "茅台董秘称员工离职率只有万分之三",
@@ -419,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 600501,
+      "num": 600501,
+      "word": "iPhone15Plus价格暴降",
+      "onboard_time": 1697619457,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
       "raw_hot": 586452,
       "num": 586452,
       "word": "福原爱副教授职位或将不保",
@@ -435,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 578564,
+      "num": 457315,
+      "word": "苏醒大号不敢发发小号",
+      "onboard_time": 1697620834,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 565058,
       "num": 348827,
       "word": "00后买刮刮乐中100万分男友10万",
       "onboard_time": 1697552620,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 560074,
+      "num": 560074,
+      "word": "苏醒又被陈楚生淘汰了",
+      "onboard_time": 1697619457,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 558538,
@@ -539,22 +571,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 520083,
-      "num": 446949,
-      "word": "iPhone15Plus价格暴降",
-      "onboard_time": 1697619457,
-      "rank": 16,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 513382,
-      "num": 513382,
-      "word": "金鸡奖最佳男配提名 流量与老戏骨",
-      "onboard_time": 1697619633,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 504320,
       "num": 504320,
       "word": "法国44岁男子性侵2名9旬老妪",
@@ -595,12 +611,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 475536,
-      "num": 475536,
-      "word": "苏醒又被陈楚生淘汰了",
-      "onboard_time": 1697619457,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 477791,
+      "num": 455415,
+      "word": "公主请",
+      "onboard_time": 1697620834,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 473175,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 460899,
+      "num": 460899,
+      "word": "TES战胜TTG",
+      "onboard_time": 1697621375,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 456220,
       "num": 319501,
       "word": "警方称南京酒吧街醉酒事件非强奸",
@@ -657,6 +681,14 @@
       "onboard_time": 1697615734,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 441190,
+      "num": 376479,
+      "word": "不是卫衣买不起 而是感冒灵更有性价比",
+      "onboard_time": 1697620355,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 439006,
@@ -851,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358826,
+      "num": 358826,
+      "word": "四川被狗咬伤女童已获捐款超百万",
+      "onboard_time": 1697618436,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 355233,
       "num": 290592,
       "word": "边伯贤改善了SMTOWN分配率和待遇问题",
@@ -859,12 +899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349714,
-      "num": 349714,
-      "word": "四川被狗咬伤女童已获捐款超百万",
-      "onboard_time": 1697618436,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 350875,
+      "num": 350875,
+      "word": "𡘙字怎么念",
+      "onboard_time": 1697620654,
+      "rank": 24,
+      "category": "其它"
     },
     {
       "raw_hot": 347889,
@@ -897,6 +937,14 @@
       "onboard_time": 1697549921,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331452,
+      "num": 331452,
+      "word": "TTG没睡醒吗",
+      "onboard_time": 1697621497,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 328281,
@@ -1041,6 +1089,14 @@
       "onboard_time": 1697598273,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 273735,
+      "num": 258232,
+      "word": "公厕蹲坑真的比马桶干净吗",
+      "onboard_time": 1697621196,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 273302,
@@ -1243,6 +1299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218564,
+      "num": 218564,
+      "word": "西藏偶遇钟汉良",
+      "onboard_time": 1697619576,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 215479,
       "num": 215479,
       "word": "小伙骑电动摔倒3名路人为他停下",
@@ -1419,6 +1483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 198248,
+      "num": 198248,
+      "word": "陈楚生2024年计划了10场演唱会",
+      "onboard_time": 1697620474,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195690,
       "num": 195690,
       "word": "为有暗香来",
@@ -1459,6 +1531,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 192992,
+      "num": 192992,
+      "word": "涵艺爆料OMG将解散",
+      "onboard_time": 1697620237,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192950,
       "num": 192950,
       "word": "被羲和号拍到的太阳炫到了",
@@ -1491,28 +1571,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188430,
-      "num": 188430,
-      "word": "涵艺爆料OMG将解散",
-      "onboard_time": 1697620237,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 187530,
       "num": 97084,
       "word": "hi6为檀健次长相思庆典送花篮",
       "onboard_time": 1697562860,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185948,
-      "num": 185948,
-      "word": "不是卫衣买不起 而是感冒灵更有性价比",
-      "onboard_time": 1697620355,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 185895,
@@ -1691,14 +1755,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 164331,
-      "num": 164331,
-      "word": "陈楚生2024年计划了10场演唱会",
-      "onboard_time": 1697620474,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 163993,
       "num": 163993,
       "word": "跛脚村医行医22年徒步近8万公里",
@@ -1745,6 +1801,14 @@
       "onboard_time": 1697599413,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 148790,
+      "num": 148790,
+      "word": "于和伟 不知道人在哪里身在何处",
+      "onboard_time": 1697618196,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 148148,
@@ -1827,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143126,
+      "num": 148785,
+      "word": "民警打20多天电话喊女子领诈骗款被拒",
+      "onboard_time": 1697621317,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143108,
       "num": 143108,
       "word": "张远 取名鬼才",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1697609076,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141723,
+      "num": 148780,
+      "word": "咒术回战 伏黑惠一家三口",
+      "onboard_time": 1697618855,
+      "rank": 46,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 139428,
@@ -1883,14 +1963,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137611,
-      "num": 137611,
-      "word": "咒术回战 伏黑惠一家三口",
-      "onboard_time": 1697618855,
-      "rank": 46,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 136484,
       "num": 136484,
       "word": "花花才是最宠粉的熊猫吧",
@@ -1921,14 +1993,6 @@
       "onboard_time": 1697553822,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134956,
-      "num": 134956,
-      "word": "西藏偶遇钟汉良",
-      "onboard_time": 1697619576,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 133736,
@@ -2195,7 +2259,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41902,
+      "raw_hot": 51455,
       "num": 835506,
       "word": "一带一路的100个故事",
       "onboard_time": 1697618256,
