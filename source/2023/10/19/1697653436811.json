@@ -1,0 +1,410 @@
+{
+  "runTime": 1697653436811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 450138,
+        "num": 450138,
+        "word": "中国将全面取消制造业领域外资准入限制措施",
+        "onboard_time": 1697641895,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 130212,
+        "num": 130212,
+        "word": "范思哲晚宴",
+        "onboard_time": 1697638418,
+        "rank": 1,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 9914,
+        "num": 124440,
+        "word": "中国桥梁连着历史和现实的非凡跨越",
+        "onboard_time": 1697633014,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140707,
+        "num": 124065,
+        "word": "EXO变成CEO了",
+        "onboard_time": 1697635598,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123506,
+        "num": 123506,
+        "word": "杜华说不想再养NAME了",
+        "onboard_time": 1697627614,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342209,
+        "num": 119388,
+        "word": "巴总统宣布全国哀悼三天",
+        "onboard_time": 1697635234,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 111600,
+        "num": 111600,
+        "word": "广州地铁禁止恐怖形象进站",
+        "onboard_time": 1697632298,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108069,
+        "num": 108069,
+        "word": "4090显卡全面下架",
+        "onboard_time": 1697632833,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148044,
+        "num": 107854,
+        "word": "巴以冲突已致双方超4900人死亡",
+        "onboard_time": 1697637998,
+        "rank": 8,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 107231,
+        "num": 107231,
+        "word": "福宝 适当发疯有益身心健康",
+        "onboard_time": 1697646028,
+        "rank": 9,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 157291,
+        "num": 104796,
+        "word": "胡锡进 狗恶只因主昏",
+        "onboard_time": 1697649740,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129739,
+        "num": 104365,
+        "word": "拜登抵达以色列之际以近加沙边境响起警报",
+        "onboard_time": 1697630313,
+        "rank": 11,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 101795,
+        "num": 101795,
+        "word": "天官赐福 进不去",
+        "onboard_time": 1697632174,
+        "rank": 12,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 88396,
+        "num": 88396,
+        "word": "女童父母称200万筹款将全用于孩子治疗",
+        "onboard_time": 1697626296,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73306,
+        "num": 73306,
+        "word": "南京1912玄武酒吧",
+        "onboard_time": 1697632955,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69179,
+        "num": 69179,
+        "word": "谢怜cv",
+        "onboard_time": 1697634634,
+        "rank": 15,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 66849,
+        "num": 66849,
+        "word": "饮料瓶底为什么用五瓣花凸起形状",
+        "onboard_time": 1697644054,
+        "rank": 16,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 61812,
+        "num": 61812,
+        "word": "为有暗香来微博开分8.2分",
+        "onboard_time": 1697643695,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57239,
+        "num": 57239,
+        "word": "好心疼王睡睡",
+        "onboard_time": 1697634274,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49242,
+        "num": 49242,
+        "word": "天官赐福第二季开播",
+        "onboard_time": 1697631213,
+        "rank": 19,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 147940,
+        "num": 49109,
+        "word": "云南电梯坠落致3死17伤",
+        "onboard_time": 1697629835,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70966,
+        "num": 49031,
+        "word": "还以为是新版公主小妹",
+        "onboard_time": 1697645431,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66034,
+        "num": 48880,
+        "word": "成都一养狗人选择凌晨2点遛狗",
+        "onboard_time": 1697628874,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 58443,
+        "num": 48787,
+        "word": "于适健身迷失自我",
+        "onboard_time": 1697644892,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56946,
+        "num": 48636,
+        "word": "鹿哈回应已改名",
+        "onboard_time": 1697626957,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 48554,
+        "num": 48554,
+        "word": "巴以冲突",
+        "onboard_time": 1697640634,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 48250,
+        "num": 48250,
+        "word": "谈恋爱在一起久了真的会腻吗",
+        "onboard_time": 1697641296,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46024,
+        "num": 46024,
+        "word": "邓为早期微博回复",
+        "onboard_time": 1697621977,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43040,
+        "num": 43040,
+        "word": "周筱风方筱然终于相认了",
+        "onboard_time": 1697633795,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42989,
+        "num": 42989,
+        "word": "6个多月就出生的巴掌宝宝健康出院",
+        "onboard_time": 1697647285,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54773,
+        "num": 42570,
+        "word": "留学一年我对人生有了更多的想象",
+        "onboard_time": 1697650758,
+        "rank": 30,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41588,
+        "num": 41588,
+        "word": "张元英生图",
+        "onboard_time": 1697642914,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 39708,
+        "num": 39708,
+        "word": "官方回应网传大熊猫七仔休假",
+        "onboard_time": 1697649322,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 37752,
+        "num": 37752,
+        "word": "22岁女大学生捐髓救人",
+        "onboard_time": 1697645071,
+        "rank": 33,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 36229,
+        "num": 36229,
+        "word": "王者荣耀抽签",
+        "onboard_time": 1697643514,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36085,
+        "num": 36085,
+        "word": "丞磊 极限挑战4",
+        "onboard_time": 1697640634,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34868,
+        "num": 34868,
+        "word": "iPhone15Plus价格暴降",
+        "onboard_time": 1697619457,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34102,
+        "num": 34102,
+        "word": "seventeen",
+        "onboard_time": 1697643514,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 33509,
+        "num": 33509,
+        "word": "华晨宇答题正确率百分百",
+        "onboard_time": 1697646268,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33443,
+        "num": 33443,
+        "word": "25岁准爸爸爬窗托举头卡护栏女孩",
+        "onboard_time": 1697645251,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32633,
+        "num": 32633,
+        "word": "娜扎黑色开叉长裙",
+        "onboard_time": 1697637636,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31746,
+        "num": 31746,
+        "word": "eStar签运",
+        "onboard_time": 1697644054,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30984,
+        "num": 30984,
+        "word": "黄凯 励志又心酸",
+        "onboard_time": 1697631156,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30518,
+        "num": 30518,
+        "word": "虞书欣跳了Baddie",
+        "onboard_time": 1697629594,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28346,
+        "num": 28346,
+        "word": "迪丽热巴出道后第一个新疆IP",
+        "onboard_time": 1697623237,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28274,
+        "num": 28274,
+        "word": "穿衣风格真的会影响自信",
+        "onboard_time": 1697634634,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 27855,
+        "num": 27855,
+        "word": "白羊座是一群敢爱敢恨的人",
+        "onboard_time": 1697644412,
+        "rank": 46,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 27565,
+        "num": 27565,
+        "word": "在俄罗斯不要轻易点外卖",
+        "onboard_time": 1697634634,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24904,
+        "num": 27564,
+        "word": "小熊猫吃东西有点像小企鹅",
+        "onboard_time": 1697653097,
+        "rank": 48,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 23479,
+        "num": 27547,
+        "word": "我恋5三人约会修罗场",
+        "onboard_time": 1697651119,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见尼日利亚副总统谢蒂马#"
+    }
+  }
+}
