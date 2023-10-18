@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697610215209,
+  "endTime": 1697610999610,
   "band_list": [
     {
       "raw_hot": 2241771,
@@ -57,6 +57,14 @@
       "onboard_time": 1697602175,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1415776,
+      "num": 325176,
+      "word": "王祖贤 南京",
+      "onboard_time": 1697609671,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1385807,
@@ -147,20 +155,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 984583,
+      "num": 445208,
+      "word": "这些人禁止参加我的葬礼",
+      "onboard_time": 1697603501,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 984062,
       "num": 889907,
       "word": "同事的PPT也太卷了",
       "onboard_time": 1697596470,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 973163,
-      "num": 445208,
-      "word": "这些人禁止参加我的葬礼",
-      "onboard_time": 1697603501,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 971513,
@@ -267,6 +275,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 638371,
+      "num": 320220,
+      "word": "女童母亲说狗主人至今没表态很心痛",
+      "onboard_time": 1697608232,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 635333,
       "num": 635333,
       "word": "张硕王睡睡买房没写女方名字",
@@ -304,22 +320,6 @@
       "word": "00后买刮刮乐中100万分男友10万",
       "onboard_time": 1697552620,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 554505,
-      "num": 286534,
-      "word": "王祖贤 南京",
-      "onboard_time": 1697609671,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 553423,
-      "num": 275256,
-      "word": "女童母亲说狗主人至今没表态很心痛",
-      "onboard_time": 1697608232,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -459,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456220,
+      "num": 319501,
+      "word": "警方称南京酒吧街醉酒事件非强奸",
+      "onboard_time": 1697609554,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 439006,
       "num": 374117,
       "word": "别把刘德华吹感冒了",
@@ -539,6 +547,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 390366,
+      "num": 274834,
+      "word": "年轻人开始反向消费了",
+      "onboard_time": 1697606673,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 390280,
       "num": 390280,
       "word": "夭柳有这一幕圆满了",
@@ -561,14 +577,6 @@
       "onboard_time": 1697590478,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 382003,
-      "num": 206498,
-      "word": "年轻人开始反向消费了",
-      "onboard_time": 1697606673,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 381641,
@@ -660,7 +668,7 @@
     },
     {
       "raw_hot": 323588,
-      "num": 206468,
+      "num": 264702,
       "word": "网红与榜一大哥合伙开店被骗22万",
       "onboard_time": 1697608174,
       "rank": 22,
@@ -697,14 +705,6 @@
       "onboard_time": 1697607033,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304670,
-      "num": 201279,
-      "word": "警方称南京酒吧街醉酒事件非强奸",
-      "onboard_time": 1697609554,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 303679,
@@ -771,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 277256,
+      "num": 277256,
+      "word": "男孩睾丸扭转2周贻误8小时才就医",
+      "onboard_time": 1697610633,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 273858,
       "num": 273858,
       "word": "GDP",
@@ -803,6 +811,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259154,
+      "num": 259154,
+      "word": "茅台董秘称员工离职率只有万分之三",
+      "onboard_time": 1697610153,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 257691,
       "num": 257691,
       "word": "猫猫 您喝水吗",
@@ -817,6 +833,14 @@
       "onboard_time": 1697605298,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 252782,
+      "num": 325647,
+      "word": "邓紫棋经纪公司再诉灿星文化",
+      "onboard_time": 1697610213,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 252144,
@@ -963,6 +987,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 210721,
+      "num": 210721,
+      "word": "十个勤天不工作时还会回去种地",
+      "onboard_time": 1697609014,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207522,
       "num": 207522,
       "word": "秘鲁0比2阿根廷",
@@ -976,14 +1008,6 @@
       "word": "心疼黄凯",
       "onboard_time": 1697601398,
       "rank": 38,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 206354,
-      "num": 206354,
-      "word": "十个勤天不工作时还会回去种地",
-      "onboard_time": 1697609014,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1049,6 +1073,14 @@
       "onboard_time": 1697608653,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199537,
+      "num": 199537,
+      "word": "宋亚轩叫醒沈腾的方法",
+      "onboard_time": 1697610694,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 199452,
@@ -1137,6 +1169,14 @@
       "onboard_time": 1697603317,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188839,
+      "num": 188839,
+      "word": "南京一医院一周连做70台甲状腺癌手术",
+      "onboard_time": 1697609252,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187530,
@@ -1291,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 160210,
-      "num": 160210,
-      "word": "南京一医院一周连做70台甲状腺癌手术",
-      "onboard_time": 1697609252,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159730,
       "num": 159730,
       "word": "杨紫张晚意复刻夭玹名场面",
@@ -1363,6 +1395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141748,
+      "num": 141748,
+      "word": "我知道你的真实面目可我还是喜欢你",
+      "onboard_time": 1697609076,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 139428,
       "num": 139428,
       "word": "A股大概率有超越5年一遇级别的牛市",
@@ -1419,16 +1459,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127037,
-      "num": 127037,
-      "word": "我知道你的真实面目可我还是喜欢你",
-      "onboard_time": 1697609076,
-      "rank": 44,
-      "category": "剧集"
+      "raw_hot": 133516,
+      "num": 133516,
+      "word": "男子偷10余万只蜜蜂蜂箱摆满后院",
+      "onboard_time": 1697610571,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 123218,
-      "num": 123218,
+      "raw_hot": 130895,
+      "num": 130895,
       "word": "林青霞T锦绣十月刊封面",
       "onboard_time": 1697610033,
       "rank": 45,
@@ -1457,14 +1497,6 @@
       "onboard_time": 1697549140,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112635,
-      "num": 112635,
-      "word": "茅台董秘称员工离职率只有万分之三",
-      "onboard_time": 1697610153,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 110396,
