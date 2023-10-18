@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697638608953,
+  "endTime": 1697639691831,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3154452,
-      "num": 1078540,
+      "raw_hot": 3162686,
+      "num": 1082416,
       "word": "巴总统宣布全国哀悼三天",
       "onboard_time": 1697635234,
       "rank": 45,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 1420109,
-      "num": 1169887,
+      "num": 1274153,
       "word": "EXO变成CEO了",
       "onboard_time": 1697635598,
       "rank": 9,
@@ -817,6 +817,14 @@
       "onboard_time": 1697504738,
       "rank": 14,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 1330365,
+      "num": 1330365,
+      "word": "范思哲晚宴",
+      "onboard_time": 1697638418,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 1326760,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1697604701,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1025411,
+      "num": 776824,
+      "word": "巴以冲突已致双方超4900人死亡",
+      "onboard_time": 1697637998,
+      "rank": 12,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1024989,
@@ -1819,6 +1835,14 @@
       "category": "艺人,动漫"
     },
     {
+      "raw_hot": 778918,
+      "num": 778918,
+      "word": "每8个女性中就有一个乳腺癌患者",
+      "onboard_time": 1697634875,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 778217,
       "num": 778217,
       "word": "警方通报女童被狗咬伤",
@@ -1897,14 +1921,6 @@
       "onboard_time": 1697510073,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 740649,
-      "num": 565355,
-      "word": "巴以冲突已致双方超4900人死亡",
-      "onboard_time": 1697637998,
-      "rank": 12,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 739840,
@@ -2555,12 +2571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 570708,
-      "num": 570708,
-      "word": "每8个女性中就有一个乳腺癌患者",
-      "onboard_time": 1697634875,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 568964,
+      "num": 568964,
+      "word": "胡锡进炒股浮亏首次突破3万元",
+      "onboard_time": 1697637879,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 568789,
@@ -3787,14 +3803,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 423754,
-      "num": 423754,
-      "word": "胡锡进炒股浮亏首次突破3万元",
-      "onboard_time": 1697637879,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 422899,
       "num": 313996,
       "word": "脆皮大学生千万别用肚子收伞",
@@ -3852,7 +3860,7 @@
     },
     {
       "raw_hot": 416149,
-      "num": 350347,
+      "num": 378508,
       "word": "在俄罗斯不要轻易点外卖",
       "onboard_time": 1697634634,
       "rank": 20,
@@ -3985,6 +3993,14 @@
       "onboard_time": 1697530777,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402190,
+      "num": 402190,
+      "word": "AG战胜WB",
+      "onboard_time": 1697639077,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 401823,
@@ -4633,6 +4649,14 @@
       "onboard_time": 1697588317,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342979,
+      "num": 342979,
+      "word": "娜扎黑色开叉长裙",
+      "onboard_time": 1697637636,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 342947,
@@ -5963,14 +5987,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 259387,
-      "num": 259387,
-      "word": "娜扎黑色开叉长裙",
-      "onboard_time": 1697637636,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 259015,
       "num": 259015,
       "word": "盖伦",
@@ -6603,14 +6619,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 231127,
-      "num": 231127,
-      "word": "范思哲晚宴",
-      "onboard_time": 1697638418,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 230804,
       "num": 230804,
       "word": "于和伟 朋友问我谁先动口的",
@@ -6905,6 +6913,14 @@
       "onboard_time": 1697449594,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217697,
+      "num": 217697,
+      "word": "密逃后期好懂再就业男团",
+      "onboard_time": 1697638776,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 217397,
@@ -7867,6 +7883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195765,
+      "num": 195765,
+      "word": "蔡依林把努力刻在了骨子里",
+      "onboard_time": 1697638837,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195607,
       "num": 199993,
       "word": "一带一路国际形象网宣片",
@@ -7929,6 +7953,14 @@
       "onboard_time": 1697343874,
       "rank": 41,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194492,
+      "num": 194492,
+      "word": "鞠婧祎细闪眼妆",
+      "onboard_time": 1697638358,
+      "rank": 41,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 194275,
@@ -8073,14 +8105,6 @@
       "onboard_time": 1697336729,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192805,
-      "num": 192805,
-      "word": "鞠婧祎细闪眼妆",
-      "onboard_time": 1697638358,
-      "rank": 41,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 192621,
@@ -8369,6 +8393,14 @@
       "onboard_time": 1697423731,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 187540,
+      "num": 187540,
+      "word": "崔然竣Hanni舞蹈挑战",
+      "onboard_time": 1697639378,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 187530,
@@ -9131,6 +9163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166526,
+      "num": 166526,
+      "word": "这段被我选入华浅年度名场面",
+      "onboard_time": 1697638476,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166227,
       "num": 166227,
       "word": "张艺兴武汉CityWalk",
@@ -9153,6 +9193,14 @@
       "onboard_time": 1697454154,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165994,
+      "num": 165994,
+      "word": "闺蜜坐月子两女子送礼盒版老母鸡",
+      "onboard_time": 1697639560,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165635,
@@ -9193,14 +9241,6 @@
       "onboard_time": 1697300012,
       "rank": 47,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 165049,
-      "num": 165049,
-      "word": "这段被我选入华浅年度名场面",
-      "onboard_time": 1697638476,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 164333,

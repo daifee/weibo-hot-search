@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697638608953,
+  "endTime": 1697639691831,
   "band_list": [
     {
       "raw_hot": 7221835,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3154452,
-      "num": 1078540,
+      "raw_hot": 3162686,
+      "num": 1082416,
       "word": "巴总统宣布全国哀悼三天",
       "onboard_time": 1697635234,
       "rank": 45,
@@ -156,7 +156,7 @@
     },
     {
       "raw_hot": 1420109,
-      "num": 1169887,
+      "num": 1274153,
       "word": "EXO变成CEO了",
       "onboard_time": 1697635598,
       "rank": 9,
@@ -185,6 +185,14 @@
       "onboard_time": 1697590661,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1330365,
+      "num": 1330365,
+      "word": "范思哲晚宴",
+      "onboard_time": 1697638418,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 1314032,
@@ -305,6 +313,14 @@
       "onboard_time": 1697549439,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1025411,
+      "num": 776824,
+      "word": "巴以冲突已致双方超4900人死亡",
+      "onboard_time": 1697637998,
+      "rank": 12,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 1019503,
@@ -467,20 +483,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 778918,
+      "num": 778918,
+      "word": "每8个女性中就有一个乳腺癌患者",
+      "onboard_time": 1697634875,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 754000,
       "num": 754000,
       "word": "前三季度GDP同比增长5.2%",
       "onboard_time": 1697596052,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 740649,
-      "num": 565355,
-      "word": "巴以冲突已致双方超4900人死亡",
-      "onboard_time": 1697637998,
-      "rank": 12,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 739840,
@@ -635,12 +651,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 570708,
-      "num": 570708,
-      "word": "每8个女性中就有一个乳腺癌患者",
-      "onboard_time": 1697634875,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 568964,
+      "num": 568964,
+      "word": "胡锡进炒股浮亏首次突破3万元",
+      "onboard_time": 1697637879,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 565058,
@@ -987,14 +1003,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423754,
-      "num": 423754,
-      "word": "胡锡进炒股浮亏首次突破3万元",
-      "onboard_time": 1697637879,
-      "rank": 18,
-      "category": "财经"
-    },
-    {
       "raw_hot": 417951,
       "num": 362182,
       "word": "联合国称以色列可能构成国际犯罪",
@@ -1012,7 +1020,7 @@
     },
     {
       "raw_hot": 416149,
-      "num": 350347,
+      "num": 378508,
       "word": "在俄罗斯不要轻易点外卖",
       "onboard_time": 1697634634,
       "rank": 20,
@@ -1073,6 +1081,14 @@
       "onboard_time": 1697597613,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 402190,
+      "num": 402190,
+      "word": "AG战胜WB",
+      "onboard_time": 1697639077,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 395459,
@@ -1233,6 +1249,14 @@
       "onboard_time": 1697588317,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 342979,
+      "num": 342979,
+      "word": "娜扎黑色开叉长裙",
+      "onboard_time": 1697637636,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 341398,
@@ -1491,14 +1515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 259387,
-      "num": 259387,
-      "word": "娜扎黑色开叉长裙",
-      "onboard_time": 1697637636,
-      "rank": 26,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 257691,
       "num": 257691,
       "word": "猫猫 您喝水吗",
@@ -1643,14 +1659,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231127,
-      "num": 231127,
-      "word": "范思哲晚宴",
-      "onboard_time": 1697638418,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 229794,
       "num": 229794,
       "word": "谭爷爷对花花字字不提爱",
@@ -1761,6 +1769,14 @@
       "onboard_time": 1697628215,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 217697,
+      "num": 217697,
+      "word": "密逃后期好懂再就业男团",
+      "onboard_time": 1697638776,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 215479,
@@ -1995,6 +2011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195765,
+      "num": 195765,
+      "word": "蔡依林把努力刻在了骨子里",
+      "onboard_time": 1697638837,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195690,
       "num": 195690,
       "word": "为有暗香来",
@@ -2017,6 +2041,14 @@
       "onboard_time": 1697597914,
       "rank": 32,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 194492,
+      "num": 194492,
+      "word": "鞠婧祎细闪眼妆",
+      "onboard_time": 1697638358,
+      "rank": 41,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 193890,
@@ -2057,14 +2089,6 @@
       "onboard_time": 1697588076,
       "rank": 46,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 192805,
-      "num": 192805,
-      "word": "鞠婧祎细闪眼妆",
-      "onboard_time": 1697638358,
-      "rank": 41,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 191321,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1697631757,
       "rank": 38,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 187540,
+      "num": 187540,
+      "word": "崔然竣Hanni舞蹈挑战",
+      "onboard_time": 1697639378,
+      "rank": 41,
+      "category": "音乐"
     },
     {
       "raw_hot": 187530,
@@ -2315,6 +2347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166526,
+      "num": 166526,
+      "word": "这段被我选入华浅年度名场面",
+      "onboard_time": 1697638476,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166180,
       "num": 145485,
       "word": "檀健次再唱相柳人物曲",
@@ -2331,6 +2371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165994,
+      "num": 165994,
+      "word": "闺蜜坐月子两女子送礼盒版老母鸡",
+      "onboard_time": 1697639560,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165470,
       "num": 165470,
       "word": "高中老师为学生在班级门口装健身器",
@@ -2345,14 +2393,6 @@
       "onboard_time": 1697553704,
       "rank": 32,
       "category": "教育"
-    },
-    {
-      "raw_hot": 165049,
-      "num": 165049,
-      "word": "这段被我选入华浅年度名场面",
-      "onboard_time": 1697638476,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 163993,
