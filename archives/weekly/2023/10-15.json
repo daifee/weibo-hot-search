@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697614456058,
+  "endTime": 1697617338464,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -169,6 +169,14 @@
       "onboard_time": 1697357912,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2411514,
+      "num": 315570,
+      "word": "被恶犬咬伤女童家属发起200万筹款",
+      "onboard_time": 1697613034,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2387552,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 1913728,
-      "num": 302186,
+      "num": 315217,
       "word": "鹿哈半年收入超过3000万",
       "onboard_time": 1697612733,
       "rank": 12,
@@ -417,6 +425,14 @@
       "onboard_time": 1697361514,
       "rank": 15,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1836858,
+      "num": 1836858,
+      "word": "年轻人开始反向消费了",
+      "onboard_time": 1697606673,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1832928,
@@ -843,8 +859,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1199380,
-      "num": 245568,
+      "raw_hot": 1201572,
+      "num": 314244,
       "word": "被狗咬女童方律师称狗主人被刑拘",
       "onboard_time": 1697613933,
       "rank": 12,
@@ -929,14 +945,6 @@
       "onboard_time": 1697521175,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1109864,
-      "num": 241278,
-      "word": "被恶犬咬伤女童家属发起200万筹款",
-      "onboard_time": 1697613034,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1104729,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1697596470,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 978680,
+      "num": 602362,
+      "word": "张硕 芒果后期都看不下去了",
+      "onboard_time": 1697614471,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 975500,
@@ -1819,6 +1835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703038,
+      "num": 314089,
+      "word": "醉酒女子当街遭性侵谣言系AI撰写",
+      "onboard_time": 1697613814,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698706,
       "num": 698706,
       "word": "肖战GUCCI大片",
@@ -1849,6 +1873,14 @@
       "onboard_time": 1697377477,
       "rank": 5,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 695957,
+      "num": 695957,
+      "word": "100元吃遍东北早市当事人道歉",
+      "onboard_time": 1697615796,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 694604,
@@ -2355,12 +2387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 561649,
+      "num": 561649,
+      "word": "周杰伦蔡依林 倒带",
+      "onboard_time": 1697615915,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
       "raw_hot": 561110,
       "num": 561110,
       "word": "赵丽颖与凤行全新造型",
       "onboard_time": 1697414493,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 558538,
+      "num": 558538,
+      "word": "生长痛 维生素D",
+      "onboard_time": 1697613993,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 558474,
@@ -2579,14 +2627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 525499,
-      "num": 525499,
-      "word": "年轻人开始反向消费了",
-      "onboard_time": 1697606673,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 524719,
       "num": 524719,
       "word": "王一博提名金鸡最佳男配角",
@@ -2617,6 +2657,14 @@
       "onboard_time": 1697430761,
       "rank": 49,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 520623,
+      "num": 520623,
+      "word": "福原爱副教授职位或将不保",
+      "onboard_time": 1697615671,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 519285,
@@ -2673,14 +2721,6 @@
       "onboard_time": 1697293002,
       "rank": 14,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 509607,
-      "num": 237364,
-      "word": "醉酒女子当街遭性侵谣言系AI撰写",
-      "onboard_time": 1697613814,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 506364,
@@ -3299,6 +3339,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 428701,
+      "num": 310670,
+      "word": "赵露思 小熊猫袜子",
+      "onboard_time": 1697615193,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428223,
       "num": 428223,
       "word": "塞尔维亚总统武契奇抵华",
@@ -3633,6 +3681,14 @@
       "onboard_time": 1697330850,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389369,
+      "num": 312535,
+      "word": "香港的富太太住什么样的房子",
+      "onboard_time": 1697613814,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 389306,
@@ -4004,7 +4060,7 @@
     },
     {
       "raw_hot": 355233,
-      "num": 233703,
+      "num": 290592,
       "word": "边伯贤改善了SMTOWN分配率和待遇问题",
       "onboard_time": 1697614356,
       "rank": 20,
@@ -4067,12 +4123,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347792,
-      "num": 176888,
-      "word": "香港的富太太住什么样的房子",
-      "onboard_time": 1697613814,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 347889,
+      "num": 347889,
+      "word": "10000元网购大闸蟹避雷攻略",
+      "onboard_time": 1697613395,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 345444,
@@ -4161,6 +4217,14 @@
       "onboard_time": 1697515175,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 340713,
+      "num": 310035,
+      "word": "父母超过50岁别再做无效体检了",
+      "onboard_time": 1697615915,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 337880,
@@ -4321,6 +4385,14 @@
       "onboard_time": 1697436213,
       "rank": 18,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 327796,
+      "num": 307083,
+      "word": "大胆阿姨捞起河面浮尸一看还有气",
+      "onboard_time": 1697615734,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327788,
@@ -4537,6 +4609,14 @@
       "onboard_time": 1697342854,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 312369,
+      "num": 312369,
+      "word": "4090",
+      "onboard_time": 1697616695,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 312331,
@@ -5057,6 +5137,14 @@
       "onboard_time": 1697469757,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 275700,
+      "num": 275700,
+      "word": "周也草莓小福变成了草莓大福",
+      "onboard_time": 1697616034,
+      "rank": 26,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 275003,
@@ -5779,14 +5867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 237604,
-      "num": 174409,
-      "word": "生长痛 维生素D",
-      "onboard_time": 1697613993,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 237356,
       "num": 237356,
       "word": "只有秀粉分得清每届秀人",
@@ -6073,6 +6153,14 @@
       "onboard_time": 1697297854,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225779,
+      "num": 225779,
+      "word": "成毅走路左脚绊右脚",
+      "onboard_time": 1697616273,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 225508,
@@ -7035,14 +7123,6 @@
       "category": "数码,艺人"
     },
     {
-      "raw_hot": 197891,
-      "num": 197891,
-      "word": "10000元网购大闸蟹避雷攻略",
-      "onboard_time": 1697613395,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 197761,
       "num": 197761,
       "word": "张子枫田园风穿搭",
@@ -7643,6 +7723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "9月份中国从日本进口的水产品归零",
+      "onboard_time": 1697616934,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184899,
       "num": 184899,
       "word": "邓为到达绍兴",
@@ -7713,6 +7801,14 @@
       "onboard_time": 1697462976,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182408,
+      "num": 313774,
+      "word": "张雪峰一个字炫耀华为全家桶",
+      "onboard_time": 1697614954,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 182317,
@@ -7960,6 +8056,14 @@
       "word": "张馨予80年代新娘子头发",
       "onboard_time": 1697348071,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 174966,
+      "num": 174966,
+      "word": "李现穿潜水服的身材",
+      "onboard_time": 1697615433,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -8315,6 +8419,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165470,
+      "num": 165470,
+      "word": "高中老师为学生在班级门口装健身器",
+      "onboard_time": 1697616514,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165382,
       "num": 165382,
       "word": "gmm推介会",
@@ -8481,6 +8593,14 @@
       "onboard_time": 1697462735,
       "rank": 40,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 158670,
+      "num": 158670,
+      "word": "拜登抵达以色列",
+      "onboard_time": 1697617233,
+      "rank": 35,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 158570,
@@ -8763,6 +8883,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 147757,
+      "num": 147757,
+      "word": "死侍3导演回应霉霉加入漫威",
+      "onboard_time": 1697615615,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147115,
       "num": 147115,
       "word": "法考主观题答案",
@@ -8883,12 +9011,28 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 143108,
+      "num": 143108,
+      "word": "张远 取名鬼才",
+      "onboard_time": 1697616154,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141748,
       "num": 141748,
       "word": "我知道你的真实面目可我还是喜欢你",
       "onboard_time": 1697609076,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141441,
+      "num": 141441,
+      "word": "小学每周一天不用电子设备重回黑板授课",
+      "onboard_time": 1697615671,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 141322,
@@ -9025,6 +9169,14 @@
       "onboard_time": 1697456073,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136256,
+      "num": 136256,
+      "word": "前任4 步入婚姻的忠告",
+      "onboard_time": 1697614899,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 136039,
@@ -9177,6 +9329,14 @@
       "onboard_time": 1697366859,
       "rank": 46,
       "category": "教育"
+    },
+    {
+      "raw_hot": 124883,
+      "num": 136238,
+      "word": "张小斐新片 女儿和正义如何抉择",
+      "onboard_time": 1697614834,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 124627,

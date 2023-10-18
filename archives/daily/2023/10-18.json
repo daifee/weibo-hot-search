@@ -1,7 +1,15 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697614456058,
+  "endTime": 1697617338464,
   "band_list": [
+    {
+      "raw_hot": 2411514,
+      "num": 315570,
+      "word": "被恶犬咬伤女童家属发起200万筹款",
+      "onboard_time": 1697613034,
+      "rank": 22,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 2241771,
       "num": 774927,
@@ -44,11 +52,19 @@
     },
     {
       "raw_hot": 1913728,
-      "num": 302186,
+      "num": 315217,
       "word": "鹿哈半年收入超过3000万",
       "onboard_time": 1697612733,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1836858,
+      "num": 1836858,
+      "word": "年轻人开始反向消费了",
+      "onboard_time": 1697606673,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1801324,
@@ -99,8 +115,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1199380,
-      "num": 245568,
+      "raw_hot": 1201572,
+      "num": 314244,
       "word": "被狗咬女童方律师称狗主人被刑拘",
       "onboard_time": 1697613933,
       "rank": 12,
@@ -112,14 +128,6 @@
       "word": "女主播直播间擦边卖咖啡牵出3亿大案",
       "onboard_time": 1697612432,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1109864,
-      "num": 241278,
-      "word": "被恶犬咬伤女童家属发起200万筹款",
-      "onboard_time": 1697613034,
-      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -209,6 +217,14 @@
       "onboard_time": 1697596470,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 978680,
+      "num": 602362,
+      "word": "张硕 芒果后期都看不下去了",
+      "onboard_time": 1697614471,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 971513,
@@ -323,12 +339,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 703038,
+      "num": 314089,
+      "word": "醉酒女子当街遭性侵谣言系AI撰写",
+      "onboard_time": 1697613814,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698089,
       "num": 852876,
       "word": "外媒称浸信会医院遭袭已致至少500人死亡",
       "onboard_time": 1697586755,
       "rank": 8,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 695957,
+      "num": 695957,
+      "word": "100元吃遍东北早市当事人道歉",
+      "onboard_time": 1697615796,
+      "rank": 1,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 635333,
@@ -369,6 +401,22 @@
       "onboard_time": 1697552620,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561649,
+      "num": 561649,
+      "word": "周杰伦蔡依林 倒带",
+      "onboard_time": 1697615915,
+      "rank": 4,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 558538,
+      "num": 558538,
+      "word": "生长痛 维生素D",
+      "onboard_time": 1697613993,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 549174,
@@ -451,20 +499,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 525499,
-      "num": 525499,
-      "word": "年轻人开始反向消费了",
-      "onboard_time": 1697606673,
-      "rank": 36,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 509607,
-      "num": 237364,
-      "word": "醉酒女子当街遭性侵谣言系AI撰写",
-      "onboard_time": 1697613814,
-      "rank": 17,
-      "category": "社会新闻"
+      "raw_hot": 520623,
+      "num": 520623,
+      "word": "福原爱副教授职位或将不保",
+      "onboard_time": 1697615671,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 504320,
@@ -555,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428701,
+      "num": 310670,
+      "word": "赵露思 小熊猫袜子",
+      "onboard_time": 1697615193,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417951,
       "num": 362182,
       "word": "联合国称以色列可能构成国际犯罪",
@@ -617,6 +665,14 @@
       "onboard_time": 1697595512,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 389369,
+      "num": 312535,
+      "word": "香港的富太太住什么样的房子",
+      "onboard_time": 1697613814,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 388078,
@@ -684,19 +740,19 @@
     },
     {
       "raw_hot": 355233,
-      "num": 233703,
+      "num": 290592,
       "word": "边伯贤改善了SMTOWN分配率和待遇问题",
       "onboard_time": 1697614356,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 347792,
-      "num": 176888,
-      "word": "香港的富太太住什么样的房子",
-      "onboard_time": 1697613814,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 347889,
+      "num": 347889,
+      "word": "10000元网购大闸蟹避雷攻略",
+      "onboard_time": 1697613395,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 343704,
@@ -715,6 +771,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 340713,
+      "num": 310035,
+      "word": "父母超过50岁别再做无效体检了",
+      "onboard_time": 1697615915,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 332066,
       "num": 308586,
       "word": "广告公司向车主和吴磊道歉",
@@ -729,6 +793,14 @@
       "onboard_time": 1697587659,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 327796,
+      "num": 307083,
+      "word": "大胆阿姨捞起河面浮尸一看还有气",
+      "onboard_time": 1697615734,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327788,
@@ -761,6 +833,14 @@
       "onboard_time": 1697550223,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 312369,
+      "num": 312369,
+      "word": "4090",
+      "onboard_time": 1697616695,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 312237,
@@ -859,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275700,
+      "num": 275700,
+      "word": "周也草莓小福变成了草莓大福",
+      "onboard_time": 1697616034,
+      "rank": 26,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 273858,
       "num": 273858,
       "word": "GDP",
@@ -947,14 +1035,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 237604,
-      "num": 174409,
-      "word": "生长痛 维生素D",
-      "onboard_time": 1697613993,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 235588,
       "num": 219447,
       "word": "给黑狗逼得上手了",
@@ -1009,6 +1089,14 @@
       "onboard_time": 1697598814,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225779,
+      "num": 225779,
+      "word": "成毅走路左脚绊右脚",
+      "onboard_time": 1697616273,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 224233,
@@ -1219,14 +1307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 197891,
-      "num": 197891,
-      "word": "10000元网购大闸蟹避雷攻略",
-      "onboard_time": 1697613395,
-      "rank": 26,
-      "category": "美食"
-    },
-    {
       "raw_hot": 195690,
       "num": 195690,
       "word": "为有暗香来",
@@ -1315,12 +1395,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185551,
+      "num": 185551,
+      "word": "9月份中国从日本进口的水产品归零",
+      "onboard_time": 1697616934,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184289,
       "num": 184289,
       "word": "苏翊鸣朱易同框",
       "onboard_time": 1697611472,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 182408,
+      "num": 313774,
+      "word": "张雪峰一个字炫耀华为全家桶",
+      "onboard_time": 1697614954,
+      "rank": 15,
+      "category": "数码"
     },
     {
       "raw_hot": 180092,
@@ -1361,6 +1457,14 @@
       "onboard_time": 1697543734,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174966,
+      "num": 174966,
+      "word": "李现穿潜水服的身材",
+      "onboard_time": 1697615433,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 174731,
@@ -1443,6 +1547,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 165470,
+      "num": 165470,
+      "word": "高中老师为学生在班级门口装健身器",
+      "onboard_time": 1697616514,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165369,
       "num": 165369,
       "word": "李佳",
@@ -1483,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158670,
+      "num": 158670,
+      "word": "拜登抵达以色列",
+      "onboard_time": 1697617233,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 157264,
       "num": 785317,
       "word": "古典乐集体出逃",
@@ -1496,6 +1616,14 @@
       "word": "前任4主创破9亿给观众敬9",
       "onboard_time": 1697593054,
       "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 147757,
+      "num": 147757,
+      "word": "死侍3导演回应霉霉加入漫威",
+      "onboard_time": 1697615615,
+      "rank": 38,
       "category": "电影"
     },
     {
@@ -1547,12 +1675,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 143108,
+      "num": 143108,
+      "word": "张远 取名鬼才",
+      "onboard_time": 1697616154,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141748,
       "num": 141748,
       "word": "我知道你的真实面目可我还是喜欢你",
       "onboard_time": 1697609076,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141441,
+      "num": 141441,
+      "word": "小学每周一天不用电子设备重回黑板授课",
+      "onboard_time": 1697615671,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139428,
@@ -1611,6 +1755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 136256,
+      "num": 136256,
+      "word": "前任4 步入婚姻的忠告",
+      "onboard_time": 1697614899,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 135784,
       "num": 107559,
       "word": "夭璟",
@@ -1641,6 +1793,14 @@
       "onboard_time": 1697610033,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 124883,
+      "num": 136238,
+      "word": "张小斐新片 女儿和正义如何抉择",
+      "onboard_time": 1697614834,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 121386,
