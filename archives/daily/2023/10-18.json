@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697602840097,
+  "endTime": 1697603640340,
   "band_list": [
     {
       "raw_hot": 2241771,
@@ -27,7 +27,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 1623222,
+      "raw_hot": 1801324,
       "num": 817135,
       "word": "威马仅剩817人且已停发工资",
       "onboard_time": 1697599413,
@@ -41,6 +41,14 @@
       "onboard_time": 1697543375,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1426165,
+      "num": 1426165,
+      "word": "孙俪女儿入了甄嬛的坑",
+      "onboard_time": 1697602175,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 1385807,
@@ -83,6 +91,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1032426,
+      "num": 1032426,
+      "word": "农村吃席上预制罐头摆盘也省了",
+      "onboard_time": 1697600974,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1027641,
       "num": 493717,
       "word": "长相思晚会 尴尬",
@@ -123,6 +139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 932803,
+      "num": 422302,
+      "word": "女性的月经周期",
+      "onboard_time": 1697600795,
+      "rank": 20,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 908090,
       "num": 908090,
       "word": "收到一条信息小伙2个月狂减40斤",
@@ -145,14 +169,6 @@
       "onboard_time": 1697590718,
       "rank": 7,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 809563,
-      "num": 422302,
-      "word": "女性的月经周期",
-      "onboard_time": 1697600795,
-      "rank": 20,
-      "category": "知识科普"
     },
     {
       "raw_hot": 754000,
@@ -195,14 +211,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 717423,
-      "num": 717423,
-      "word": "孙俪女儿入了甄嬛的坑",
-      "onboard_time": 1697602175,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 703075,
       "num": 466389,
       "word": "陈铭 论喜欢和爱有什么差别",
@@ -219,12 +227,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 651732,
-      "num": 651732,
-      "word": "农村吃席上预制罐头摆盘也省了",
-      "onboard_time": 1697600974,
-      "rank": 16,
-      "category": "社会新闻"
+      "raw_hot": 641281,
+      "num": 381789,
+      "word": "头低低先生 微微笑小姐",
+      "onboard_time": 1697601937,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 622608,
@@ -256,6 +264,14 @@
       "word": "00后买刮刮乐中100万分男友10万",
       "onboard_time": 1697552620,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548015,
+      "num": 888193,
+      "word": "女生们在迪士尼cos欢天喜地七仙女",
+      "onboard_time": 1697601996,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -323,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 491292,
+      "num": 380207,
+      "word": "南京警方辟谣醉酒女子当街遭性侵",
+      "onboard_time": 1697602175,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488230,
       "num": 488230,
       "word": "enhypen QQ音乐压价",
@@ -363,20 +387,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 439006,
+      "num": 374117,
+      "word": "别把刘德华吹感冒了",
+      "onboard_time": 1697601757,
+      "rank": 25,
+      "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 435679,
+      "num": 423180,
+      "word": "167名儿童仍被困在加沙废墟中",
+      "onboard_time": 1697585850,
+      "rank": 21,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 431385,
       "num": 431385,
       "word": "张晚意被喊老公的反应",
       "onboard_time": 1697598453,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 423180,
-      "num": 423180,
-      "word": "167名儿童仍被困在加沙废墟中",
-      "onboard_time": 1697585850,
-      "rank": 21,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 417951,
@@ -419,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 396524,
-      "num": 888193,
-      "word": "女生们在迪士尼cos欢天喜地七仙女",
-      "onboard_time": 1697601996,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 395030,
       "num": 301197,
       "word": "被狗咬伤女童尚未脱离危险",
@@ -435,20 +459,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 393361,
+      "num": 863281,
+      "word": "天官赐福第二季",
+      "onboard_time": 1697598814,
+      "rank": 33,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 390280,
       "num": 390280,
       "word": "夭柳有这一幕圆满了",
       "onboard_time": 1697595512,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 389545,
-      "num": 863281,
-      "word": "天官赐福第二季",
-      "onboard_time": 1697598814,
-      "rank": 33,
-      "category": "动漫"
     },
     {
       "raw_hot": 386754,
@@ -483,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 370341,
+      "num": 275537,
+      "word": "如何低成本带孩子见世面",
+      "onboard_time": 1697601817,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 367224,
       "num": 367224,
       "word": "王楚钦比赛也逃不过写论文",
@@ -491,28 +523,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 364817,
-      "num": 364817,
-      "word": "头低低先生 微微笑小姐",
-      "onboard_time": 1697601937,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 363219,
-      "num": 363219,
-      "word": "别把刘德华吹感冒了",
-      "onboard_time": 1697601757,
-      "rank": 25,
-      "category": "幽默,艺人"
-    },
-    {
       "raw_hot": 360632,
       "num": 312601,
       "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
       "onboard_time": 1697554181,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 351579,
+      "num": 351579,
+      "word": "加沙医院遭袭20小时前孩子们还在做游戏",
+      "onboard_time": 1697602720,
+      "rank": 41,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 343830,
@@ -651,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264946,
-      "num": 264946,
-      "word": "如何低成本带孩子见世面",
-      "onboard_time": 1697601817,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 262722,
       "num": 262722,
       "word": "用诗意打开超级工程",
@@ -729,6 +745,14 @@
       "onboard_time": 1697550520,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 229713,
+      "num": 229713,
+      "word": "长相思庆功宴",
+      "onboard_time": 1697603078,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 229218,
@@ -835,12 +859,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205614,
-      "num": 205614,
-      "word": "南京警方辟谣醉酒女子当街遭性侵",
-      "onboard_time": 1697602175,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 205477,
+      "num": 205477,
+      "word": "这些人禁止参加我的葬礼",
+      "onboard_time": 1697603501,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 205162,
@@ -857,14 +881,6 @@
       "onboard_time": 1697595991,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202802,
-      "num": 202802,
-      "word": "加沙医院遭袭20小时前孩子们还在做游戏",
-      "onboard_time": 1697602720,
-      "rank": 41,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 202733,
@@ -923,12 +939,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 193877,
+      "num": 193877,
+      "word": "陈都灵午后慵懒风",
+      "onboard_time": 1697600256,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 192950,
       "num": 192950,
       "word": "被羲和号拍到的太阳炫到了",
       "onboard_time": 1697588076,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190020,
+      "num": 198165,
+      "word": "电影刀尖",
+      "onboard_time": 1697603317,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 187530,
@@ -939,12 +971,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186122,
-      "num": 186122,
-      "word": "陈都灵午后慵懒风",
-      "onboard_time": 1697600256,
+      "raw_hot": 185895,
+      "num": 185895,
+      "word": "女子带老公找警察发现老公是网逃",
+      "onboard_time": 1697602838,
       "rank": 46,
-      "category": "艺人,时尚"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 177228,
@@ -1051,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157264,
+      "num": 785317,
+      "word": "古典乐集体出逃",
+      "onboard_time": 1697599413,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 148148,
       "num": 145474,
       "word": "前任4主创破9亿给观众敬9",
@@ -1147,14 +1187,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128381,
-      "num": 785317,
-      "word": "古典乐集体出逃",
-      "onboard_time": 1697599413,
-      "rank": 29,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 121386,
       "num": 121386,
       "word": "谢霆锋性张力",
@@ -1164,7 +1196,7 @@
     },
     {
       "raw_hot": 116177,
-      "num": 896863,
+      "num": 965431,
       "word": "认识一带一路的朋友圈",
       "onboard_time": 1697598694,
       "rank": 2,
@@ -1361,6 +1393,14 @@
       "onboard_time": 1697551964,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54072,
+      "num": 198162,
+      "word": "华为平板让千年脸谱活起来了",
+      "onboard_time": 1697603501,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 52553,
