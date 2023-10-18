@@ -1,0 +1,410 @@
+{
+  "runTime": 1697636037235,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1972679,
+        "num": 1972679,
+        "word": "天官赐福 进不去",
+        "onboard_time": 1697632174,
+        "rank": 0,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1534545,
+        "num": 1534545,
+        "word": "广州地铁禁止恐怖形象进站",
+        "onboard_time": 1697632298,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 60509,
+        "num": 1359441,
+        "word": "中国支持高质量共建一带一路八项行动",
+        "onboard_time": 1697633496,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1186416,
+        "num": 1186416,
+        "word": "杜华说不想再养NAME了",
+        "onboard_time": 1697627614,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1098957,
+        "num": 1098957,
+        "word": "天官赐福第二季开播",
+        "onboard_time": 1697631213,
+        "rank": 4,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1032557,
+        "num": 1032557,
+        "word": "谢怜cv",
+        "onboard_time": 1697634634,
+        "rank": 5,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1672998,
+        "num": 1002779,
+        "word": "云南电梯坠落致3死17伤",
+        "onboard_time": 1697629835,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 802102,
+        "num": 802102,
+        "word": "突然明白你好李焕英名字起的有多好",
+        "onboard_time": 1697622338,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 773618,
+        "num": 773618,
+        "word": "拜登抵达以色列之际以近加沙边境响起警报",
+        "onboard_time": 1697630313,
+        "rank": 8,
+        "category": "国外要闻,社会新闻"
+      },
+      {
+        "raw_hot": 769125,
+        "num": 769125,
+        "word": "EXO变成CEO了",
+        "onboard_time": 1697635598,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 956328,
+        "num": 743199,
+        "word": "女童父母称200万筹款将全用于孩子治疗",
+        "onboard_time": 1697626296,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1389693,
+        "num": 729296,
+        "word": "巴总统宣布全国哀悼三天",
+        "onboard_time": 1697635234,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 676511,
+        "num": 676511,
+        "word": "南京1912玄武酒吧",
+        "onboard_time": 1697632955,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582754,
+        "num": 582754,
+        "word": "咬伤女童黑狗的主人被刑拘",
+        "onboard_time": 1697620115,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523118,
+        "num": 523118,
+        "word": "周筱风方筱然终于相认了",
+        "onboard_time": 1697633795,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 469149,
+        "num": 469149,
+        "word": "好心疼王睡睡",
+        "onboard_time": 1697634274,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 416453,
+        "num": 416453,
+        "word": "恋5男嘉宾把女嘉宾吼哭了",
+        "onboard_time": 1697624616,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324254,
+        "num": 324254,
+        "word": "虞书欣跳了Baddie",
+        "onboard_time": 1697629594,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317299,
+        "num": 317299,
+        "word": "邓为早期微博回复",
+        "onboard_time": 1697621977,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312044,
+        "num": 312044,
+        "word": "年轻人开始反向消费了",
+        "onboard_time": 1697606673,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 910185,
+        "num": 311684,
+        "word": "4090禁售",
+        "onboard_time": 1697624260,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 416149,
+        "num": 311538,
+        "word": "在俄罗斯不要轻易点外卖",
+        "onboard_time": 1697634634,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 395459,
+        "num": 310325,
+        "word": "穿衣风格真的会影响自信",
+        "onboard_time": 1697634634,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 304513,
+        "num": 304513,
+        "word": "迪丽热巴出道后第一个新疆IP",
+        "onboard_time": 1697623237,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295200,
+        "num": 295200,
+        "word": "为有暗香来小侍卫上桌",
+        "onboard_time": 1697632474,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 278787,
+        "num": 278787,
+        "word": "拜登抵达以色列",
+        "onboard_time": 1697617233,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 268988,
+        "num": 268988,
+        "word": "鹿哈回应已改名",
+        "onboard_time": 1697626957,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 268683,
+        "num": 268683,
+        "word": "4090显卡全面下架",
+        "onboard_time": 1697632833,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 226858,
+        "num": 226858,
+        "word": "吴昕泡脚已经成为身体记忆了",
+        "onboard_time": 1697630976,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214583,
+        "num": 214583,
+        "word": "每8个女性中就有一个乳腺癌患者",
+        "onboard_time": 1697634875,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213948,
+        "num": 213948,
+        "word": "张硕 芒果后期都看不下去了",
+        "onboard_time": 1697614471,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213187,
+        "num": 213187,
+        "word": "街道办称罗威纳主人愿意赔偿",
+        "onboard_time": 1697623896,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204908,
+        "num": 204908,
+        "word": "田耕纪",
+        "onboard_time": 1697632654,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202499,
+        "num": 202499,
+        "word": "月经周期会影响大脑吗",
+        "onboard_time": 1697632594,
+        "rank": 33,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 201465,
+        "num": 201465,
+        "word": "岑先生回来了",
+        "onboard_time": 1697635234,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 197056,
+        "num": 197056,
+        "word": "把阳光玫瑰塞进甜品里",
+        "onboard_time": 1697633975,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196013,
+        "num": 196013,
+        "word": "苏醒又被陈楚生淘汰了",
+        "onboard_time": 1697619457,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190461,
+        "num": 190461,
+        "word": "鹿哈半年收入超过3000万",
+        "onboard_time": 1697612733,
+        "rank": 37,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 189232,
+        "num": 189232,
+        "word": "都暻秀新公司名SUSU",
+        "onboard_time": 1697631996,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189133,
+        "num": 189133,
+        "word": "成都一养狗人选择凌晨2点遛狗",
+        "onboard_time": 1697628874,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187463,
+        "num": 187463,
+        "word": "后来我才理解吕子乔说的话",
+        "onboard_time": 1697631815,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185501,
+        "num": 185501,
+        "word": "杜华宣布NAME将淘汰重组",
+        "onboard_time": 1697628993,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185090,
+        "num": 185090,
+        "word": "黄凯 励志又心酸",
+        "onboard_time": 1697631156,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182437,
+        "num": 182437,
+        "word": "iPhone15Plus价格暴降",
+        "onboard_time": 1697619457,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 162579,
+        "num": 162579,
+        "word": "金鸡奖最佳男配提名 流量与老戏骨",
+        "onboard_time": 1697619633,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161144,
+        "num": 161144,
+        "word": "梁朝伟看一场电影要买六张票",
+        "onboard_time": 1697630072,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158329,
+        "num": 158329,
+        "word": "莲花楼 重生成为天下第一的徒弟",
+        "onboard_time": 1697626414,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149776,
+        "num": 149776,
+        "word": "问心",
+        "onboard_time": 1697632716,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138616,
+        "num": 138616,
+        "word": "梅西中国行可能取消",
+        "onboard_time": 1697626836,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115059,
+        "num": 138612,
+        "word": "她这一抱救下一个娃",
+        "onboard_time": 1697631757,
+        "rank": 49,
+        "category": "社会正能量"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见尼日利亚副总统谢蒂马#"
+    }
+  }
+}
