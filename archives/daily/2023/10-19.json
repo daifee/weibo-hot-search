@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697663703377,
+  "endTime": 1697664861588,
   "band_list": [
     {
       "raw_hot": 2168877,
@@ -475,12 +475,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 40979,
-      "num": 33960,
+      "raw_hot": 44334,
+      "num": 39085,
       "word": "陈漫镜头下的林青霞",
       "onboard_time": 1697658554,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 38188,
+      "num": 38188,
+      "word": "10个月宝宝食指倒刺被拔送PICU抢救",
+      "onboard_time": 1697662994,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30518,
@@ -489,6 +497,14 @@
       "onboard_time": 1697629594,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 27520,
+      "num": 21887,
+      "word": "淘汰再出道 这集我好像看过",
+      "onboard_time": 1697661612,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 25511,
@@ -507,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 21636,
+      "num": 21636,
+      "word": "觉得当代年轻人的出路越来越少了",
+      "onboard_time": 1697660233,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21328,
       "num": 21328,
       "word": "李一桐说演反派很过瘾",
@@ -523,32 +547,16 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 20310,
-      "num": 20310,
-      "word": "觉得当代年轻人的出路越来越少了",
-      "onboard_time": 1697660233,
-      "rank": 49,
-      "category": "情感"
+      "raw_hot": 16706,
+      "num": 16706,
+      "word": "同路人 一带一路十周年致敬曲",
+      "onboard_time": 1697664314,
+      "rank": 43,
+      "category": "音乐"
     },
     {
-      "raw_hot": 20119,
-      "num": 20119,
-      "word": "淘汰再出道 这集我好像看过",
-      "onboard_time": 1697661612,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18409,
-      "num": 18409,
-      "word": "10个月宝宝食指倒刺被拔送PICU抢救",
-      "onboard_time": 1697662994,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 13806,
-      "num": 15498,
+      "raw_hot": 14539,
+      "num": 15909,
       "word": "学校边的小卖铺有多赚钱",
       "onboard_time": 1697662873,
       "rank": 47,
