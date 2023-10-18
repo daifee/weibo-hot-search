@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697628851087,
+  "endTime": 1697632440329,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1635,6 +1635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2032417,
+      "num": 803024,
+      "word": "云南电梯坠落致3死17伤",
+      "onboard_time": 1697629835,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2031971,
       "num": 1706897,
       "word": "郑强回应婚内出轨包养情妇",
@@ -2112,6 +2120,14 @@
       "word": "李玟与姚贝娜将葬在同一墓园",
       "onboard_time": 1697530956,
       "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1826306,
+      "num": 812015,
+      "word": "杜华说不想再养NAME了",
+      "onboard_time": 1697627614,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -4049,6 +4065,14 @@
       "onboard_time": 1696847258,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1285398,
+      "num": 1285398,
+      "word": "天官赐福第二季开播",
+      "onboard_time": 1697631213,
+      "rank": 0,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 1282559,
@@ -7411,14 +7435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 812015,
-      "num": 812015,
-      "word": "杜华说不想再养NAME了",
-      "onboard_time": 1697627614,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 811550,
       "num": 517990,
       "word": "女生买炸鸡付款一看两百万",
@@ -7617,6 +7633,14 @@
       "onboard_time": 1696335997,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 799781,
+      "num": 799781,
+      "word": "拜登抵达以色列之际以近加沙边境响起警报",
+      "onboard_time": 1697630313,
+      "rank": 5,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 799776,
@@ -12315,6 +12339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 552151,
+      "num": 552151,
+      "word": "天官赐福 进不去",
+      "onboard_time": 1697632174,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 551417,
       "num": 551417,
       "word": "上海4岁女童走失事发海滩并非景点",
@@ -14057,6 +14089,14 @@
       "onboard_time": 1697506772,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 493840,
+      "num": 422082,
+      "word": "虞书欣跳了Baddie",
+      "onboard_time": 1697629594,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 493704,
@@ -16083,6 +16123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 443147,
+      "num": 408979,
+      "word": "杜华宣布NAME将淘汰重组",
+      "onboard_time": 1697628993,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 442900,
       "num": 290391,
       "word": "男子用螳螂吃掉颈后肉瘊子",
@@ -16497,6 +16545,14 @@
       "onboard_time": 1697351492,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431263,
+      "num": 431263,
+      "word": "都暻秀新公司名SUSU",
+      "onboard_time": 1697631996,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 431125,
@@ -21315,6 +21371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 334685,
+      "num": 314120,
+      "word": "吴昕泡脚已经成为身体记忆了",
+      "onboard_time": 1697630976,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 334646,
       "num": 334646,
       "word": "王者荣耀",
@@ -22827,6 +22891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310440,
+      "num": 274691,
+      "word": "梁朝伟看一场电影要买六张票",
+      "onboard_time": 1697630072,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 310327,
       "num": 310327,
       "word": "他从火光中走来",
@@ -24225,6 +24297,14 @@
       "onboard_time": 1696821458,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 291656,
+      "num": 285812,
+      "word": "成都一养狗人选择凌晨2点遛狗",
+      "onboard_time": 1697628874,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291603,
@@ -28315,6 +28395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 251071,
+      "num": 251071,
+      "word": "黄凯 励志又心酸",
+      "onboard_time": 1697631156,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 250911,
       "num": 250911,
       "word": "莲花楼作者评价曾舜晞田耕纪",
@@ -30153,6 +30241,14 @@
       "onboard_time": 1696907375,
       "rank": 49,
       "category": "军事,国外要闻"
+    },
+    {
+      "raw_hot": 234791,
+      "num": 234791,
+      "word": "广州地铁禁止恐怖形象进站",
+      "onboard_time": 1697632298,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 234777,
@@ -40499,6 +40595,14 @@
       "category": "美食,动漫"
     },
     {
+      "raw_hot": 171532,
+      "num": 171532,
+      "word": "她这一抱救下一个娃",
+      "onboard_time": 1697631757,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 171411,
       "num": 171411,
       "word": "贺峻霖好社牛",
@@ -41025,6 +41129,14 @@
       "onboard_time": 1696131451,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 167931,
+      "num": 167931,
+      "word": "后来我才理解吕子乔说的话",
+      "onboard_time": 1697631815,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167823,
@@ -42011,6 +42123,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 160971,
+      "num": 160971,
+      "word": "原来双子座这么注重细节",
+      "onboard_time": 1697630736,
+      "rank": 42,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 160913,
       "num": 160913,
       "word": "我们恋爱吧",
@@ -42977,6 +43097,14 @@
       "onboard_time": 1696660236,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154375,
+      "num": 154375,
+      "word": "12岁泰国清迈小歌手翻唱上海滩",
+      "onboard_time": 1697630253,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 154326,
@@ -44993,6 +45121,14 @@
       "onboard_time": 1697378860,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135957,
+      "num": 141766,
+      "word": "卡卡中国行",
+      "onboard_time": 1697631095,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 135925,
@@ -49780,7 +49916,7 @@
     },
     {
       "raw_hot": 21590,
-      "num": 667670,
+      "num": 804279,
       "word": "开往秋天的列车能有多惊艳",
       "onboard_time": 1697617835,
       "rank": 2,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697628851087,
+  "endTime": 1697632440329,
   "band_list": [
     {
       "raw_hot": 7221835,
@@ -51,6 +51,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2032417,
+      "num": 803024,
+      "word": "云南电梯坠落致3死17伤",
+      "onboard_time": 1697629835,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2012550,
       "num": 452173,
       "word": "王祖贤 南京",
@@ -81,6 +89,14 @@
       "onboard_time": 1697612733,
       "rank": 12,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1826306,
+      "num": 812015,
+      "word": "杜华说不想再养NAME了",
+      "onboard_time": 1697627614,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 1801324,
@@ -145,6 +161,14 @@
       "onboard_time": 1697621977,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1285398,
+      "num": 1285398,
+      "word": "天官赐福第二季开播",
+      "onboard_time": 1697631213,
+      "rank": 0,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 1263704,
@@ -387,12 +411,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 812015,
-      "num": 812015,
-      "word": "杜华说不想再养NAME了",
-      "onboard_time": 1697627614,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 799781,
+      "num": 799781,
+      "word": "拜登抵达以色列之际以近加沙边境响起警报",
+      "onboard_time": 1697630313,
+      "rank": 5,
+      "category": "国外要闻,社会新闻"
     },
     {
       "raw_hot": 794467,
@@ -587,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 552151,
+      "num": 552151,
+      "word": "天官赐福 进不去",
+      "onboard_time": 1697632174,
+      "rank": 7,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 549174,
       "num": 549174,
       "word": "男子中723万大奖求店主保密",
@@ -699,6 +731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 493840,
+      "num": 422082,
+      "word": "虞书欣跳了Baddie",
+      "onboard_time": 1697629594,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 492844,
       "num": 492844,
       "word": "公主请",
@@ -803,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 443147,
+      "num": 408979,
+      "word": "杜华宣布NAME将淘汰重组",
+      "onboard_time": 1697628993,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 441190,
       "num": 376479,
       "word": "不是卫衣买不起 而是感冒灵更有性价比",
@@ -840,6 +888,14 @@
       "word": "张晚意被喊老公的反应",
       "onboard_time": 1697598453,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 431263,
+      "num": 431263,
+      "word": "都暻秀新公司名SUSU",
+      "onboard_time": 1697631996,
+      "rank": 13,
       "category": "艺人"
     },
     {
@@ -1075,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 334685,
+      "num": 314120,
+      "word": "吴昕泡脚已经成为身体记忆了",
+      "onboard_time": 1697630976,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 332066,
       "num": 308586,
       "word": "广告公司向车主和吴磊道歉",
@@ -1147,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310440,
+      "num": 274691,
+      "word": "梁朝伟看一场电影要买六张票",
+      "onboard_time": 1697630072,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 306886,
       "num": 306886,
       "word": "TES太强了",
@@ -1209,6 +1281,14 @@
       "onboard_time": 1697626414,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 291656,
+      "num": 285812,
+      "word": "成都一养狗人选择凌晨2点遛狗",
+      "onboard_time": 1697628874,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 291289,
@@ -1339,6 +1419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251071,
+      "num": 251071,
+      "word": "黄凯 励志又心酸",
+      "onboard_time": 1697631156,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247576,
       "num": 247576,
       "word": "梅西10分钟2球",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1697557716,
       "rank": 30,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 234791,
+      "num": 234791,
+      "word": "广州地铁禁止恐怖形象进站",
+      "onboard_time": 1697632298,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 233695,
@@ -1931,6 +2027,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 171532,
+      "num": 171532,
+      "word": "她这一抱救下一个娃",
+      "onboard_time": 1697631757,
+      "rank": 38,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 170471,
       "num": 170471,
       "word": "周也撞脸loopy",
@@ -1945,6 +2049,14 @@
       "onboard_time": 1697601096,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 167931,
+      "num": 167931,
+      "word": "后来我才理解吕子乔说的话",
+      "onboard_time": 1697631815,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 167636,
@@ -2035,6 +2147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 160971,
+      "num": 160971,
+      "word": "原来双子座这么注重细节",
+      "onboard_time": 1697630736,
+      "rank": 42,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 160913,
       "num": 160913,
       "word": "我们恋爱吧",
@@ -2065,6 +2185,14 @@
       "onboard_time": 1697599413,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 154375,
+      "num": 154375,
+      "word": "12岁泰国清迈小歌手翻唱上海滩",
+      "onboard_time": 1697630253,
+      "rank": 44,
+      "category": "音乐"
     },
     {
       "raw_hot": 148797,
@@ -2273,6 +2401,14 @@
       "onboard_time": 1697614899,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 135957,
+      "num": 141766,
+      "word": "卡卡中国行",
+      "onboard_time": 1697631095,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 135784,
@@ -2628,7 +2764,7 @@
     },
     {
       "raw_hot": 21590,
-      "num": 667670,
+      "num": 804279,
       "word": "开往秋天的列车能有多惊艳",
       "onboard_time": 1697617835,
       "rank": 2,

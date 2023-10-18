@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 19:34:11
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 20:34:00
 </p>
 </blockquote>
 <p>
@@ -1239,6 +1239,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E7%94%B5%E6%A2%AF%E5%9D%A0%E8%90%BD%E8%87%B43%E6%AD%BB17%E4%BC%A4%23" target="weibo">
+云南电梯坠落致3死17伤（热度：2032417）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%BC%BA%E5%9B%9E%E5%BA%94%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23" target="weibo">
 郑强回应婚内出轨包养情妇（热度：2031971）
 </a>
@@ -1595,6 +1601,12 @@ Angelababy喂范丞丞吃葡萄主打避嫌（热度：1868334）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E4%B8%8E%E5%A7%9A%E8%B4%9D%E5%A8%9C%E5%B0%86%E8%91%AC%E5%9C%A8%E5%90%8C%E4%B8%80%E5%A2%93%E5%9B%AD%23" target="weibo">
 李玟与姚贝娜将葬在同一墓园（热度：1832928）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23" target="weibo">
+杜华说不想再养NAME了（热度：1826306）
 </a>
 </li>
 
@@ -3047,6 +3059,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
 关晓彤微博之夜捂嘴原因（热度：1287996）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BC%80%E6%92%AD%23" target="weibo">
+天官赐福第二季开播（热度：1285398）
 </a>
 </li>
 
@@ -5571,12 +5589,6 @@ Jennie个人单曲音源上线（热度：822249）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%E8%AF%B4%E4%B8%8D%E6%83%B3%E5%86%8D%E5%85%BBNAME%E4%BA%86%23" target="weibo">
-杜华说不想再养NAME了（热度：812015）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E4%B9%B0%E7%82%B8%E9%B8%A1%E4%BB%98%E6%AC%BE%E4%B8%80%E7%9C%8B%E4%B8%A4%E7%99%BE%E4%B8%87%23" target="weibo">
 女生买炸鸡付款一看两百万（热度：811550）
 </a>
@@ -5723,6 +5735,12 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E9%BB%8E%E7%9A%84%E7%85%A7%E7%89%87%E8%A2%AB%E8%B4%B4%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%A1%97%E5%A4%B4%23" target="weibo">
 曾黎的照片被贴在巴黎街头（热度：799992）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%E4%B9%8B%E9%99%85%E4%BB%A5%E8%BF%91%E5%8A%A0%E6%B2%99%E8%BE%B9%E5%A2%83%E5%93%8D%E8%B5%B7%E8%AD%A6%E6%8A%A5%23" target="weibo">
+拜登抵达以色列之际以近加沙边境响起警报（热度：799781）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Jennie巴黎时装周（热度：789463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%85%83%E8%8B%B1%E5%92%8C%E5%AF%8C%E6%B1%9F%23" target="weibo">
 张元英和富江（热度：779191）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%235%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B8%80%E9%81%8D%E9%81%8D%E5%96%8A%E5%A6%88%E5%A6%88%E5%A5%B3%E5%AD%90%E7%9C%8B%E5%90%8E%E8%BF%9E%E5%A4%9C%E8%B5%B6%E5%9B%9E%23" target="weibo">
-5岁女儿一遍遍喊妈妈女子看后连夜赶回（热度：778428）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%23" target="weibo">
-警方通报女童被狗咬伤（热度：778217）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E7%93%A3%E6%94%AF%E4%BB%98%E4%B8%8D%E5%AF%B9%E6%A0%87%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98%E6%94%AF%E4%BB%98%E5%AE%9D%23" target="weibo">
-花瓣支付不对标微信支付支付宝（热度：778146）
 </a>
 </li>
 
