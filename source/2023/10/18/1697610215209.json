@@ -1,0 +1,410 @@
+{
+  "runTime": 1697610215209,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193817,
+        "num": 1193817,
+        "word": "农村吃席上预制罐头摆盘也省了",
+        "onboard_time": 1697600974,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1028590,
+        "num": 1028590,
+        "word": "我国人口数量虽下降但质量改善速度快",
+        "onboard_time": 1697604701,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 75662,
+        "num": 845351,
+        "word": "认识一带一路的朋友圈",
+        "onboard_time": 1697598694,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839721,
+        "num": 839721,
+        "word": "王栎鑫相亲被问急了自嘲情感不顺",
+        "onboard_time": 1697604760,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 825043,
+        "num": 825043,
+        "word": "孙俪女儿入了甄嬛的坑",
+        "onboard_time": 1697602175,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 635333,
+        "num": 635333,
+        "word": "张硕王睡睡买房没写女方名字",
+        "onboard_time": 1697606673,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 531066,
+        "num": 531066,
+        "word": "日本人眼中的韩国人的一生",
+        "onboard_time": 1697606373,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371629,
+        "num": 371629,
+        "word": "加沙医院遭袭20小时前孩子们还在做游戏",
+        "onboard_time": 1697602720,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 312973,
+        "num": 312973,
+        "word": "男子中723万大奖求店主保密",
+        "onboard_time": 1697601033,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306439,
+        "num": 306439,
+        "word": "王思懿 最美潘金莲",
+        "onboard_time": 1697607033,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 973163,
+        "num": 301844,
+        "word": "这些人禁止参加我的葬礼",
+        "onboard_time": 1697603501,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 777664,
+        "num": 289996,
+        "word": "头低低先生 微微笑小姐",
+        "onboard_time": 1697601937,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554505,
+        "num": 286534,
+        "word": "王祖贤 南京",
+        "onboard_time": 1697609671,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553423,
+        "num": 275256,
+        "word": "女童母亲说狗主人至今没表态很心痛",
+        "onboard_time": 1697608232,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 496435,
+        "num": 260946,
+        "word": "南京警方辟谣醉酒女子当街遭性侵",
+        "onboard_time": 1697602175,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430159,
+        "num": 257690,
+        "word": "威马仅剩817人且已停发工资",
+        "onboard_time": 1697599413,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 396923,
+        "num": 242511,
+        "word": "训犬师称罗威纳犬咬伤幼童或是应激反应",
+        "onboard_time": 1697588076,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312981,
+        "num": 238148,
+        "word": "加沙地带一医院遭袭数百人死亡",
+        "onboard_time": 1697585670,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 233155,
+        "num": 233155,
+        "word": "法国44岁男子性侵2名9旬老妪",
+        "onboard_time": 1697600194,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206592,
+        "num": 206592,
+        "word": "檀健次周也很想很想你新海报",
+        "onboard_time": 1697605419,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 431810,
+        "num": 206556,
+        "word": "女性的月经周期",
+        "onboard_time": 1697600795,
+        "rank": 20,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 382003,
+        "num": 206498,
+        "word": "年轻人开始反向消费了",
+        "onboard_time": 1697606673,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323588,
+        "num": 206468,
+        "word": "网红与榜一大哥合伙开店被骗22万",
+        "onboard_time": 1697608174,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300223,
+        "num": 206405,
+        "word": "女孩留宿女同事家被爸爸打致耳穿孔",
+        "onboard_time": 1697605776,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257549,
+        "num": 206358,
+        "word": "167名儿童仍被困在加沙废墟中",
+        "onboard_time": 1697585850,
+        "rank": 24,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 206354,
+        "num": 206354,
+        "word": "十个勤天不工作时还会回去种地",
+        "onboard_time": 1697609014,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201716,
+        "num": 201716,
+        "word": "周也脸上的生命力",
+        "onboard_time": 1697607754,
+        "rank": 26,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 304670,
+        "num": 201279,
+        "word": "警方称南京酒吧街醉酒事件非强奸",
+        "onboard_time": 1697609554,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200051,
+        "num": 200051,
+        "word": "民警找回38只山羊收到咩咩咩锦旗",
+        "onboard_time": 1697608653,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199783,
+        "num": 199783,
+        "word": "咒术回战",
+        "onboard_time": 1697605955,
+        "rank": 29,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 190182,
+        "num": 190182,
+        "word": "陈芋汐的舞姿逐渐熊化",
+        "onboard_time": 1697606137,
+        "rank": 30,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 187114,
+        "num": 187114,
+        "word": "外媒称浸信会医院遭袭已致至少500人死亡",
+        "onboard_time": 1697586755,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 179273,
+        "num": 179273,
+        "word": "天官赐福第二季",
+        "onboard_time": 1697598814,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 173970,
+        "num": 173970,
+        "word": "4万多的钻石内裤在上海也卖不动",
+        "onboard_time": 1697586932,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169165,
+        "num": 169165,
+        "word": "原来3岁前大脑发育就完成了80%",
+        "onboard_time": 1697598931,
+        "rank": 34,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 161773,
+        "num": 161773,
+        "word": "别把刘德华吹感冒了",
+        "onboard_time": 1697601757,
+        "rank": 35,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 160512,
+        "num": 160512,
+        "word": "令人心动的offer5",
+        "onboard_time": 1697609614,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160210,
+        "num": 160210,
+        "word": "南京一医院一周连做70台甲状腺癌手术",
+        "onboard_time": 1697609252,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152316,
+        "num": 152316,
+        "word": "如何低成本带孩子见世面",
+        "onboard_time": 1697601817,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143806,
+        "num": 143806,
+        "word": "A股",
+        "onboard_time": 1697593833,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140628,
+        "num": 140628,
+        "word": "女生们在迪士尼cos欢天喜地七仙女",
+        "onboard_time": 1697601996,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138512,
+        "num": 138512,
+        "word": "花儿与少年",
+        "onboard_time": 1697598031,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134098,
+        "num": 134098,
+        "word": "梁崴 淘汰",
+        "onboard_time": 1697597613,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132898,
+        "num": 132898,
+        "word": "洗内裤机",
+        "onboard_time": 1697590661,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127037,
+        "num": 127037,
+        "word": "我知道你的真实面目可我还是喜欢你",
+        "onboard_time": 1697609076,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123218,
+        "num": 123218,
+        "word": "林青霞T锦绣十月刊封面",
+        "onboard_time": 1697610033,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 120818,
+        "num": 120818,
+        "word": "心疼黄凯",
+        "onboard_time": 1697601398,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118364,
+        "num": 118364,
+        "word": "为有暗香来",
+        "onboard_time": 1697605898,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114337,
+        "num": 114337,
+        "word": "学生进教室先排队拉引体向上",
+        "onboard_time": 1697606854,
+        "rank": 48,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 112635,
+        "num": 112635,
+        "word": "茅台董秘称员工离职率只有万分之三",
+        "onboard_time": 1697610153,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}
