@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697667374520,
+  "endTime": 1697668428530,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -3395,6 +3395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 465676,
+      "num": 142428,
+      "word": "南京酒吧街醉酒事件附近商户发声",
+      "onboard_time": 1697653816,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 465505,
       "num": 465505,
       "word": "白鹿 这一种快乐无法描写",
@@ -5041,14 +5049,6 @@
       "onboard_time": 1697548718,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 320749,
-      "num": 122996,
-      "word": "南京酒吧街醉酒事件附近商户发声",
-      "onboard_time": 1697653816,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 320400,
@@ -7155,6 +7155,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 212645,
+      "num": 212645,
+      "word": "10个月宝宝食指倒刺被拔送PICU抢救",
+      "onboard_time": 1697662994,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 212605,
       "num": 212605,
       "word": "杭州调整住房限购范围",
@@ -8987,14 +8995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175336,
-      "num": 175336,
-      "word": "10个月宝宝食指倒刺被拔送PICU抢救",
-      "onboard_time": 1697662994,
-      "rank": 39,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 175222,
       "num": 175222,
       "word": "田耕纪爱奇艺热度值破6000",
@@ -10275,6 +10275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136311,
+      "num": 95812,
+      "word": "陈漫镜头下的林青霞",
+      "onboard_time": 1697658554,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136256,
       "num": 136256,
       "word": "前任4 步入婚姻的忠告",
@@ -10971,14 +10979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84992,
-      "num": 66548,
-      "word": "陈漫镜头下的林青霞",
-      "onboard_time": 1697658554,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84250,
       "num": 86808,
       "word": "郭艾伦说人生总是充满坎坷",
@@ -11051,6 +11051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 74039,
+      "num": 74039,
+      "word": "22岁女大学生捐髓救人",
+      "onboard_time": 1697645071,
+      "rank": 41,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 73933,
       "num": 73933,
       "word": "SuperCup超大杯",
@@ -11067,20 +11075,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72482,
+      "num": 51503,
+      "word": "淘汰再出道 这集我好像看过",
+      "onboard_time": 1697661612,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68375,
       "num": 137922,
       "word": "徐亮盛赞港星足球水平",
       "onboard_time": 1697368415,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68181,
-      "num": 68181,
-      "word": "22岁女大学生捐髓救人",
-      "onboard_time": 1697645071,
-      "rank": 41,
-      "category": "社会正能量"
     },
     {
       "raw_hot": 68123,
@@ -11219,8 +11227,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54805,
+      "num": 54665,
+      "word": "觉得当代年轻人的出路越来越少了",
+      "onboard_time": 1697660233,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 54773,
-      "num": 42570,
+      "num": 43387,
       "word": "留学一年我对人生有了更多的想象",
       "onboard_time": 1697650758,
       "rank": 30,
@@ -11299,6 +11315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 46715,
+      "num": 46715,
+      "word": "李一桐说演反派很过瘾",
+      "onboard_time": 1697657534,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 43831,
       "num": 43831,
       "word": "周杰伦上海",
@@ -11323,14 +11347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 41091,
-      "num": 39491,
-      "word": "觉得当代年轻人的出路越来越少了",
-      "onboard_time": 1697660233,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 40092,
       "num": 804279,
       "word": "开往秋天的列车能有多惊艳",
@@ -11347,14 +11363,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38434,
-      "num": 35789,
-      "word": "淘汰再出道 这集我好像看过",
-      "onboard_time": 1697661612,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 38404,
       "num": 59194,
       "word": "TW对战GAM",
@@ -11369,6 +11377,14 @@
       "onboard_time": 1697598511,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 36460,
+      "num": 43370,
+      "word": "方筱然表白被拒",
+      "onboard_time": 1697666595,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 34742,
@@ -11409,14 +11425,6 @@
       "onboard_time": 1697335230,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32061,
-      "num": 32061,
-      "word": "李一桐说演反派很过瘾",
-      "onboard_time": 1697657534,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 30239,
@@ -11481,14 +11489,6 @@
       "onboard_time": 1697367633,
       "rank": 14,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 26314,
-      "num": 27909,
-      "word": "方筱然表白被拒",
-      "onboard_time": 1697666595,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 25511,
