@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 16:35:32
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 17:17:36
 </p>
 </blockquote>
 <p>
@@ -1269,6 +1269,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E9%BB%91%E7%8B%97%E7%9A%84%E4%B8%BB%E4%BA%BA%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
+咬伤女童黑狗的主人被刑拘（热度：2000967）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%8F%8D%E5%90%91%E6%B6%88%E8%B4%B9%E4%BA%86%23" target="weibo">
 年轻人开始反向消费了（热度：2000048）
 </a>
@@ -1835,6 +1841,12 @@ Z先生到底是谁（热度：1751124）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%BB%84%E6%99%AF%E7%91%9C%20%E4%BA%8C%E6%90%AD%23" target="weibo">
 迪丽热巴黄景瑜 二搭（热度：1738499）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234090%23" target="weibo">
+4090（热度：1737555）
 </a>
 </li>
 
@@ -3651,6 +3663,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E6%8A%B5%E8%BE%BE%E4%BB%A5%E8%89%B2%E5%88%97%23" target="weibo">
+拜登抵达以色列（热度：1102145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E4%B8%8D%E8%A6%81%E7%A9%BF%E6%8A%B9%E8%83%B8%E5%8E%BB%E5%90%83%E7%81%AB%E9%94%85%23" target="weibo">
 千万不要穿抹胸去吃火锅（热度：1101684）
 </a>
@@ -4707,6 +4725,12 @@ iPhone平均寿命将达8年（热度：910856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23100%E5%85%83%E5%90%83%E9%81%8D%E4%B8%9C%E5%8C%97%E6%97%A9%E5%B8%82%E5%BD%93%E4%BA%8B%E4%BA%BA%E9%81%93%E6%AD%89%23" target="weibo">
+100元吃遍东北早市当事人道歉（热度：904386）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B0%8F%E5%8F%AA%E5%91%8A%E5%88%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%23" target="weibo">
 三小只告别亚运会（热度：903131）
 </a>
@@ -5205,12 +5229,6 @@ Xiaomi HyperOS（热度：858223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234090%23" target="weibo">
-4090（热度：846401）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A4%A7%E8%82%96%E6%9F%90%E6%9F%9012%E4%B8%AA%E6%9C%88%E4%B8%8D%E8%83%BD%E8%AF%84%E5%A5%96%E8%AF%84%E4%BC%98%23" target="weibo">
 武大肖某某12个月不能评奖评优（热度：845967）
 </a>
@@ -5453,12 +5471,6 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23" target="weibo">
 小伙称因长期抠鼻子感染丹毒（热度：820938）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23100%E5%85%83%E5%90%83%E9%81%8D%E4%B8%9C%E5%8C%97%E6%97%A9%E5%B8%82%E5%BD%93%E4%BA%8B%E4%BA%BA%E9%81%93%E6%AD%89%23" target="weibo">
-100元吃遍东北早市当事人道歉（热度：820241）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Jennie巴黎时装周（热度：789463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E7%88%B8%E7%BB%99%E8%87%AA%E5%B7%B1%E4%B9%B0%E4%BA%86%E4%B9%B3%E8%B4%B4%23" target="weibo">
 我爸给自己买了乳贴（热度：769761）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E6%9C%89%E4%B8%89%E4%B8%AA%E5%91%A8%E4%B8%80%23" target="weibo">
-本周有三个周一（热度：769543）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%9B%9E%E5%BA%94%E7%82%8E%E7%97%87%E5%A5%B3%E5%AD%A9%23" target="weibo">
-张凌赫回应炎症女孩（热度：768074）
 </a>
 </li>
 

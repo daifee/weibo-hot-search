@@ -1,0 +1,410 @@
+{
+  "runTime": 1697620656459,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1808759,
+        "num": 1808759,
+        "word": "年轻人开始反向消费了",
+        "onboard_time": 1697606673,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 904386,
+        "num": 904386,
+        "word": "100元吃遍东北早市当事人道歉",
+        "onboard_time": 1697615796,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 41902,
+        "num": 835506,
+        "word": "一带一路的100个故事",
+        "onboard_time": 1697618256,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 776654,
+        "num": 776654,
+        "word": "张硕 芒果后期都看不下去了",
+        "onboard_time": 1697614471,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 513382,
+        "num": 513382,
+        "word": "金鸡奖最佳男配提名 流量与老戏骨",
+        "onboard_time": 1697619633,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1102145,
+        "num": 512373,
+        "word": "拜登抵达以色列",
+        "onboard_time": 1697617233,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 495387,
+        "num": 495387,
+        "word": "周杰伦蔡依林 倒带",
+        "onboard_time": 1697615915,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 475536,
+        "num": 475536,
+        "word": "苏醒又被陈楚生淘汰了",
+        "onboard_time": 1697619457,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 470981,
+        "num": 470981,
+        "word": "9月份中国从日本进口的水产品归零",
+        "onboard_time": 1697616934,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408727,
+        "num": 470910,
+        "word": "钟楚曦张云龙新剧吻戏",
+        "onboard_time": 1697617899,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2000967,
+        "num": 467569,
+        "word": "咬伤女童黑狗的主人被刑拘",
+        "onboard_time": 1697620115,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1737555,
+        "num": 462444,
+        "word": "4090",
+        "onboard_time": 1697616695,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1035163,
+        "num": 461520,
+        "word": "鹿哈半年收入超过3000万",
+        "onboard_time": 1697612733,
+        "rank": 12,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 1839391,
+        "num": 457786,
+        "word": "被恶犬咬伤女童家属发起200万筹款",
+        "onboard_time": 1697613034,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 559569,
+        "num": 452173,
+        "word": "王祖贤 南京",
+        "onboard_time": 1697609671,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 554687,
+        "num": 451561,
+        "word": "韩国男星回应空气酵母",
+        "onboard_time": 1697618196,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 520083,
+        "num": 446949,
+        "word": "iPhone15Plus价格暴降",
+        "onboard_time": 1697619457,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 473175,
+        "num": 442924,
+        "word": "朱一龙 浙大",
+        "onboard_time": 1697617654,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 442667,
+        "num": 442667,
+        "word": "醉酒女子当街遭性侵谣言系AI撰写",
+        "onboard_time": 1697613814,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 412766,
+        "num": 412766,
+        "word": "周也草莓小福变成了草莓大福",
+        "onboard_time": 1697616034,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 451096,
+        "num": 406609,
+        "word": "大胆阿姨捞起河面浮尸一看还有气",
+        "onboard_time": 1697615734,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 380586,
+        "num": 380586,
+        "word": "福原爱副教授职位或将不保",
+        "onboard_time": 1697615671,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349714,
+        "num": 349714,
+        "word": "四川被狗咬伤女童已获捐款超百万",
+        "onboard_time": 1697618436,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348189,
+        "num": 348189,
+        "word": "生长痛 维生素D",
+        "onboard_time": 1697613993,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 330498,
+        "num": 330498,
+        "word": "香港的富太太住什么样的房子",
+        "onboard_time": 1697613814,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 276679,
+        "num": 276679,
+        "word": "父母超过50岁别再做无效体检了",
+        "onboard_time": 1697615915,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 256254,
+        "num": 256254,
+        "word": "张颂文百度百科式官宣",
+        "onboard_time": 1697619157,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253643,
+        "num": 253643,
+        "word": "赵露思 小熊猫袜子",
+        "onboard_time": 1697615193,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241650,
+        "num": 241650,
+        "word": "头低低先生 微微笑小姐",
+        "onboard_time": 1697601937,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230526,
+        "num": 230526,
+        "word": "陆虎淋过雨要把王栎鑫的伞也撕烂",
+        "onboard_time": 1697617415,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 204248,
+        "num": 204248,
+        "word": "加沙店铺食品存货只够四五天",
+        "onboard_time": 1697619876,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 203608,
+        "num": 203608,
+        "word": "瞬间理解了意大利人的身高",
+        "onboard_time": 1697617899,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 188430,
+        "num": 188430,
+        "word": "涵艺爆料OMG将解散",
+        "onboard_time": 1697620237,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185948,
+        "num": 185948,
+        "word": "不是卫衣买不起 而是感冒灵更有性价比",
+        "onboard_time": 1697620355,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182551,
+        "num": 182551,
+        "word": "女主播直播间擦边卖咖啡牵出3亿大案",
+        "onboard_time": 1697612432,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253955,
+        "num": 181876,
+        "word": "被狗咬女童方律师称狗主人被刑拘",
+        "onboard_time": 1697613933,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180405,
+        "num": 180405,
+        "word": "妖刀五杀",
+        "onboard_time": 1697618559,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167411,
+        "num": 167411,
+        "word": "王栎鑫相亲被问急了自嘲情感不顺",
+        "onboard_time": 1697604760,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164368,
+        "num": 164368,
+        "word": "加沙地带一医院遭袭数百人死亡",
+        "onboard_time": 1697585670,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 164331,
+        "num": 164331,
+        "word": "陈楚生2024年计划了10场演唱会",
+        "onboard_time": 1697620474,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161013,
+        "num": 161013,
+        "word": "南京警方称酒吧街醉酒事件2人认识",
+        "onboard_time": 1697611898,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158889,
+        "num": 158889,
+        "word": "边伯贤改善了SMTOWN分配率和待遇问题",
+        "onboard_time": 1697614356,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157047,
+        "num": 157047,
+        "word": "孙俪女儿入了甄嬛的坑",
+        "onboard_time": 1697602175,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146994,
+        "num": 146994,
+        "word": "司机帮付车费男孩下车鞠躬致谢",
+        "onboard_time": 1697619335,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146490,
+        "num": 146490,
+        "word": "成毅走路左脚绊右脚",
+        "onboard_time": 1697616273,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144486,
+        "num": 144486,
+        "word": "新娘用手语给聋哑公婆敬茶改口",
+        "onboard_time": 1697618616,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137611,
+        "num": 137611,
+        "word": "咒术回战 伏黑惠一家三口",
+        "onboard_time": 1697618855,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 134956,
+        "num": 134956,
+        "word": "西藏偶遇钟汉良",
+        "onboard_time": 1697619576,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127881,
+        "num": 127881,
+        "word": "谭爷爷对花花字字不提爱",
+        "onboard_time": 1697613574,
+        "rank": 48,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 127617,
+        "num": 127617,
+        "word": "李现穿潜水服的身材",
+        "onboard_time": 1697615433,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路国际合作高峰论坛开幕式#"
+    }
+  }
+}
