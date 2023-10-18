@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697633425508,
+  "endTime": 1697635292921,
   "band_list": [
     {
       "raw_hot": 7221835,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2168387,
-      "num": 1039125,
+      "num": 1143287,
       "word": "云南电梯坠落致3死17伤",
       "onboard_time": 1697629835,
       "rank": 3,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1826306,
-      "num": 1018313,
+      "num": 1147298,
       "word": "杜华说不想再养NAME了",
       "onboard_time": 1697627614,
       "rank": 35,
@@ -105,6 +105,14 @@
       "onboard_time": 1697599413,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1765884,
+      "num": 1765884,
+      "word": "天官赐福 进不去",
+      "onboard_time": 1697632174,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 1737555,
@@ -136,6 +144,14 @@
       "word": "去年我国一孩出生低于450万",
       "onboard_time": 1697563280,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1377107,
+      "num": 1377107,
+      "word": "广州地铁禁止恐怖形象进站",
+      "onboard_time": 1697632298,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -193,14 +209,6 @@
       "onboard_time": 1697613933,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1199776,
-      "num": 1199776,
-      "word": "天官赐福 进不去",
-      "onboard_time": 1697632174,
-      "rank": 7,
-      "category": "动漫"
     },
     {
       "raw_hot": 1173192,
@@ -387,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 887996,
+      "num": 887996,
+      "word": "谢怜cv",
+      "onboard_time": 1697634634,
+      "rank": 6,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 886735,
       "num": 886735,
       "word": "加沙地带一医院遭袭数百人死亡",
@@ -473,14 +489,6 @@
       "onboard_time": 1697553761,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 718559,
-      "num": 718559,
-      "word": "广州地铁禁止恐怖形象进站",
-      "onboard_time": 1697632298,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 712843,
@@ -593,6 +601,14 @@
       "onboard_time": 1697620834,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 565320,
+      "num": 372405,
+      "word": "南京1912玄武酒吧",
+      "onboard_time": 1697632955,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565058,
@@ -769,6 +785,14 @@
       "onboard_time": 1697598334,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 483440,
+      "num": 366951,
+      "word": "周筱风方筱然终于相认了",
+      "onboard_time": 1697633795,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 483072,
@@ -987,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 403607,
+      "num": 359755,
+      "word": "好心疼王睡睡",
+      "onboard_time": 1697634274,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 395030,
       "num": 301197,
       "word": "被狗咬伤女童尚未脱离危险",
@@ -1083,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 359985,
+      "num": 329622,
+      "word": "在俄罗斯不要轻易点外卖",
+      "onboard_time": 1697634634,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 358826,
       "num": 358826,
       "word": "四川被狗咬伤女童已获捐款超百万",
@@ -1136,6 +1176,22 @@
       "word": "广东一外婆和孙女长得太像了",
       "onboard_time": 1697588317,
       "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 341398,
+      "num": 341398,
+      "word": "为有暗香来小侍卫上桌",
+      "onboard_time": 1697632474,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 337345,
+      "num": 322641,
+      "word": "穿衣风格真的会影响自信",
+      "onboard_time": 1697634634,
+      "rank": 21,
       "category": "情感"
     },
     {
@@ -1217,14 +1273,6 @@
       "onboard_time": 1697550223,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 312793,
-      "num": 312793,
-      "word": "为有暗香来小侍卫上桌",
-      "onboard_time": 1697632474,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 312237,
@@ -1499,6 +1547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 237296,
+      "num": 237296,
+      "word": "把阳光玫瑰塞进甜品里",
+      "onboard_time": 1697633975,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 235588,
       "num": 219447,
       "word": "给黑狗逼得上手了",
@@ -1659,6 +1715,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 214600,
+      "num": 214600,
+      "word": "月经周期会影响大脑吗",
+      "onboard_time": 1697632594,
+      "rank": 32,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 213496,
       "num": 213496,
       "word": "一杯奶茶钱能买这么多东西",
@@ -1801,14 +1865,6 @@
       "onboard_time": 1697607754,
       "rank": 26,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 200261,
-      "num": 229871,
-      "word": "南京1912玄武酒吧",
-      "onboard_time": 1697632955,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200051,
@@ -1955,6 +2011,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 188125,
+      "num": 202357,
+      "word": "每8个女性中就有一个乳腺癌患者",
+      "onboard_time": 1697634875,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187530,
       "num": 97084,
       "word": "hi6为檀健次长相思庆典送花篮",
@@ -1987,6 +2051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "魏牌高山",
+      "onboard_time": 1697634394,
+      "rank": 41,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 180405,
       "num": 180405,
       "word": "妖刀五杀",
@@ -2008,6 +2080,14 @@
       "word": "一键戳死",
       "onboard_time": 1697604760,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179193,
+      "num": 179193,
+      "word": "问心",
+      "onboard_time": 1697555564,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -2083,6 +2163,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 171251,
+      "num": 171251,
+      "word": "巴总统宣布全国哀悼三天",
+      "onboard_time": 1697635234,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 170471,
       "num": 170471,
       "word": "周也撞脸loopy",
@@ -2139,20 +2227,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166053,
+      "num": 166053,
+      "word": "岑先生回来了",
+      "onboard_time": 1697635234,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 166037,
       "num": 166037,
       "word": "华为手机销量跃至国内第一",
       "onboard_time": 1697552560,
       "rank": 31,
       "category": "数码"
-    },
-    {
-      "raw_hot": 165682,
-      "num": 165682,
-      "word": "问心",
-      "onboard_time": 1697555564,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 165470,
@@ -2736,6 +2824,14 @@
       "word": "向共建一带一路所有的参与者建设者致敬",
       "onboard_time": 1697583443,
       "rank": 47,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 56211,
+      "num": 1164982,
+      "word": "中国支持高质量共建一带一路八项行动",
+      "onboard_time": 1697633496,
+      "rank": 2,
       "category": "国内要闻"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697633425508,
+  "endTime": 1697635292921,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1292,7 +1292,7 @@
     },
     {
       "raw_hot": 2168387,
-      "num": 1039125,
+      "num": 1143287,
       "word": "云南电梯坠落致3死17伤",
       "onboard_time": 1697629835,
       "rank": 3,
@@ -2124,7 +2124,7 @@
     },
     {
       "raw_hot": 1826306,
-      "num": 1018313,
+      "num": 1147298,
       "word": "杜华说不想再养NAME了",
       "onboard_time": 1697627614,
       "rank": 35,
@@ -2321,6 +2321,14 @@
       "onboard_time": 1696330294,
       "rank": 12,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1765884,
+      "num": 1765884,
+      "word": "天官赐福 进不去",
+      "onboard_time": 1697632174,
+      "rank": 7,
+      "category": "动漫"
     },
     {
       "raw_hot": 1760781,
@@ -3635,6 +3643,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1377107,
+      "num": 1377107,
+      "word": "广州地铁禁止恐怖形象进站",
+      "onboard_time": 1697632298,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1376713,
       "num": 539904,
       "word": "IVE空降",
@@ -4457,14 +4473,6 @@
       "onboard_time": 1697264611,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 1199776,
-      "num": 1199776,
-      "word": "天官赐福 进不去",
-      "onboard_time": 1697632174,
-      "rank": 7,
-      "category": "动漫"
     },
     {
       "raw_hot": 1199002,
@@ -6545,6 +6553,14 @@
       "onboard_time": 1696336841,
       "rank": 20,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 887996,
+      "num": 887996,
+      "word": "谢怜cv",
+      "onboard_time": 1697634634,
+      "rank": 6,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 887973,
@@ -8777,14 +8793,6 @@
       "onboard_time": 1697501557,
       "rank": 4,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 718559,
-      "num": 718559,
-      "word": "广州地铁禁止恐怖形象进站",
-      "onboard_time": 1697632298,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 718488,
@@ -12019,6 +12027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 565320,
+      "num": 372405,
+      "word": "南京1912玄武酒吧",
+      "onboard_time": 1697632955,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 564452,
       "num": 564452,
       "word": "以色列演员发视频嘲讽加沙断水断电",
@@ -14433,6 +14449,14 @@
       "onboard_time": 1697459854,
       "rank": 21,
       "category": "教育"
+    },
+    {
+      "raw_hot": 483440,
+      "num": 366951,
+      "word": "周筱风方筱然终于相认了",
+      "onboard_time": 1697633795,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 483413,
@@ -17619,6 +17643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403607,
+      "num": 359755,
+      "word": "好心疼王睡睡",
+      "onboard_time": 1697634274,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403471,
       "num": 403471,
       "word": "李玟本月将在武汉安葬",
@@ -19755,6 +19787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 359985,
+      "num": 329622,
+      "word": "在俄罗斯不要轻易点外卖",
+      "onboard_time": 1697634634,
+      "rank": 20,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 359955,
       "num": 474521,
       "word": "柯洁赛后哭了",
@@ -21011,6 +21051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 341398,
+      "num": 341398,
+      "word": "为有暗香来小侍卫上桌",
+      "onboard_time": 1697632474,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 341385,
       "num": 341385,
       "word": "姚明回应被称作226",
@@ -21169,6 +21217,14 @@
       "onboard_time": 1696853496,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 337345,
+      "num": 322641,
+      "word": "穿衣风格真的会影响自信",
+      "onboard_time": 1697634634,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 337293,
@@ -22761,14 +22817,6 @@
       "onboard_time": 1696512759,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 312793,
-      "num": 312793,
-      "word": "为有暗香来小侍卫上桌",
-      "onboard_time": 1697632474,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 312587,
@@ -29939,6 +29987,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 237296,
+      "num": 237296,
+      "word": "把阳光玫瑰塞进甜品里",
+      "onboard_time": 1697633975,
+      "rank": 31,
+      "category": "美食"
+    },
+    {
       "raw_hot": 237269,
       "num": 237269,
       "word": "手机到底多久换一次最好",
@@ -32553,6 +32609,14 @@
       "onboard_time": 1697165556,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 214600,
+      "num": 214600,
+      "word": "月经周期会影响大脑吗",
+      "onboard_time": 1697632594,
+      "rank": 32,
+      "category": "知识科普"
     },
     {
       "raw_hot": 214574,
@@ -35283,14 +35347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200261,
-      "num": 229871,
-      "word": "南京1912玄武酒吧",
-      "onboard_time": 1697632955,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 200251,
       "num": 200251,
       "word": "麦迪出演鹅厂NBA宣传片",
@@ -37987,6 +38043,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 188125,
+      "num": 202357,
+      "word": "每8个女性中就有一个乳腺癌患者",
+      "onboard_time": 1697634875,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188037,
       "num": 188037,
       "word": "汪苏泷盗月社为i做e",
@@ -38729,6 +38793,14 @@
       "onboard_time": 1696155932,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183908,
+      "num": 183908,
+      "word": "魏牌高山",
+      "onboard_time": 1697634394,
+      "rank": 41,
+      "category": "汽车"
     },
     {
       "raw_hot": 183901,
@@ -40667,6 +40739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171251,
+      "num": 171251,
+      "word": "巴总统宣布全国哀悼三天",
+      "onboard_time": 1697635234,
+      "rank": 45,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 171238,
       "num": 171238,
       "word": "封神笑榜",
@@ -41449,6 +41529,14 @@
       "onboard_time": 1696897837,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166053,
+      "num": 166053,
+      "word": "岑先生回来了",
+      "onboard_time": 1697635234,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 166029,
@@ -48809,6 +48897,14 @@
       "onboard_time": 1696786879,
       "rank": 32,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 56211,
+      "num": 1164982,
+      "word": "中国支持高质量共建一带一路八项行动",
+      "onboard_time": 1697633496,
+      "rank": 2,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 56022,
