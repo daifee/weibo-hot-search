@@ -1,0 +1,410 @@
+{
+  "runTime": 1697592800248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 804390,
+        "num": 804390,
+        "word": "建议以租代买的物品",
+        "onboard_time": 1697590896,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 513641,
+        "num": 513641,
+        "word": "父女俩时隔4个月相继成为大体老师",
+        "onboard_time": 1697590718,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57313,
+        "num": 507319,
+        "word": "丝路之歌一路繁花",
+        "onboard_time": 1697548239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1077354,
+        "num": 500808,
+        "word": "苹果承认iPhone15存在烧屏问题",
+        "onboard_time": 1697587659,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 513742,
+        "num": 492081,
+        "word": "长相思晚会 尴尬",
+        "onboard_time": 1697549439,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 668131,
+        "num": 483694,
+        "word": "加沙地带一医院遭袭数百人死亡",
+        "onboard_time": 1697585670,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 482543,
+        "num": 482543,
+        "word": "塞尔维亚是中国的铁杆朋友",
+        "onboard_time": 1697582841,
+        "rank": 6,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 467480,
+        "num": 467480,
+        "word": "范家兄妹庆余年2再聚首",
+        "onboard_time": 1697589338,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 703075,
+        "num": 466389,
+        "word": "陈铭 论喜欢和爱有什么差别",
+        "onboard_time": 1697591017,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551493,
+        "num": 455715,
+        "word": "外媒称浸信会医院遭袭已致至少500人死亡",
+        "onboard_time": 1697586755,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 2211871,
+        "num": 455139,
+        "word": "训犬师称罗威纳犬咬伤幼童或是应激反应",
+        "onboard_time": 1697588076,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1803068,
+        "num": 449539,
+        "word": "4万多的钻石内裤在上海也卖不动",
+        "onboard_time": 1697586932,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 988363,
+        "num": 443597,
+        "word": "去年我国一孩出生低于450万",
+        "onboard_time": 1697563280,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 979632,
+        "num": 435908,
+        "word": "退钱",
+        "onboard_time": 1697554363,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 825849,
+        "num": 431272,
+        "word": "洗内裤机",
+        "onboard_time": 1697590661,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 663777,
+        "num": 422733,
+        "word": "网友曝吴磊借自行车拒绝合影",
+        "onboard_time": 1697543375,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 470292,
+        "num": 417687,
+        "word": "成都大狗咬伤女童所在小区业主发声",
+        "onboard_time": 1697543614,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414287,
+        "num": 414287,
+        "word": "Red Velvet",
+        "onboard_time": 1697587474,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 379003,
+        "num": 379003,
+        "word": "暧昧期两句话斩杀男方所有军师",
+        "onboard_time": 1697590478,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469950,
+        "num": 378594,
+        "word": "兽医称从业10年仍害怕罗威纳犬",
+        "onboard_time": 1697590299,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 376649,
+        "num": 376649,
+        "word": "高铁上真的有在卖卫生巾了",
+        "onboard_time": 1697588258,
+        "rank": 20,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 348827,
+        "num": 348827,
+        "word": "00后买刮刮乐中100万分男友10万",
+        "onboard_time": 1697552620,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 338212,
+        "num": 338212,
+        "word": "内马尔受伤",
+        "onboard_time": 1697592215,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 312431,
+        "num": 312431,
+        "word": "167名儿童仍被困在加沙废墟中",
+        "onboard_time": 1697585850,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 308366,
+        "num": 308366,
+        "word": "傅首尔觉得老刘不爱她的原因",
+        "onboard_time": 1697562203,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 302663,
+        "num": 302663,
+        "word": "双十一还有必要存在吗",
+        "onboard_time": 1697590896,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 280473,
+        "num": 280473,
+        "word": "救了个老人是曾经的小学老师",
+        "onboard_time": 1697561125,
+        "rank": 26,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 273875,
+        "num": 273875,
+        "word": "室友吃了我给的石榴过敏了",
+        "onboard_time": 1697587659,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 273302,
+        "num": 273302,
+        "word": "小伙每天埋头刷题15小时急性瘫痪",
+        "onboard_time": 1697591557,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272166,
+        "num": 272166,
+        "word": "代露娃下台也要跟杨紫牵手",
+        "onboard_time": 1697586634,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262722,
+        "num": 262722,
+        "word": "用诗意打开超级工程",
+        "onboard_time": 1697591378,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 255637,
+        "num": 255637,
+        "word": "广东一外婆和孙女长得太像了",
+        "onboard_time": 1697588317,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253487,
+        "num": 253487,
+        "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
+        "onboard_time": 1697554181,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253401,
+        "num": 253401,
+        "word": "猫猫 您喝水吗",
+        "onboard_time": 1697588919,
+        "rank": 33,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 245737,
+        "num": 245737,
+        "word": "大奉打更人",
+        "onboard_time": 1697589460,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231751,
+        "num": 231751,
+        "word": "广告公司向车主和吴磊道歉",
+        "onboard_time": 1697549921,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207451,
+        "num": 207451,
+        "word": "扶杨紫的小姐姐撞进了邓为怀里",
+        "onboard_time": 1697548298,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206120,
+        "num": 206120,
+        "word": "新疆2名小朋友广场上以舞会友",
+        "onboard_time": 1697591675,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200101,
+        "num": 200101,
+        "word": "iPad国行首次支持eSIM",
+        "onboard_time": 1697589998,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199814,
+        "num": 199814,
+        "word": "杨紫长相思演唱会哭了",
+        "onboard_time": 1697585429,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 198528,
+        "num": 198528,
+        "word": "刘诗诗韩火火合照",
+        "onboard_time": 1697587115,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 185303,
+        "num": 185303,
+        "word": "原来发型这么重要",
+        "onboard_time": 1697555864,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 172901,
+        "num": 172901,
+        "word": "以色列驻英大使宣称加沙不存在人道主义危机",
+        "onboard_time": 1697571434,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 168659,
+        "num": 168659,
+        "word": "iOS17.1将修复iPhone15烧屏问题",
+        "onboard_time": 1697587659,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166694,
+        "num": 166694,
+        "word": "任律的起点黄凯走了28年",
+        "onboard_time": 1697589825,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157758,
+        "num": 157758,
+        "word": "莲花楼演唱会 诚意满满",
+        "onboard_time": 1697553761,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156676,
+        "num": 156676,
+        "word": "哈萨克斯坦总统返回母校",
+        "onboard_time": 1697585549,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 153620,
+        "num": 153620,
+        "word": "一杯奶茶钱能买这么多东西",
+        "onboard_time": 1697588618,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145764,
+        "num": 145764,
+        "word": "一个人住真的会很舒服",
+        "onboard_time": 1697583744,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141949,
+        "num": 141949,
+        "word": "建议洗脸要洗发际线",
+        "onboard_time": 1697552982,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见乌兹别克斯坦总统#"
+    }
+  }
+}
