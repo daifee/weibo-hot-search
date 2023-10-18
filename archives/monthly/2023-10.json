@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697660290964,
+  "endTime": 1697661271754,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -50611,6 +50611,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 16158,
+      "num": 16158,
+      "word": "觉得当代年轻人的出路越来越少了",
+      "onboard_time": 1697660233,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 15839,
       "num": 18224,
       "word": "亚洲内容大赏",
@@ -50705,14 +50713,6 @@
       "onboard_time": 1696709893,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 12757,
-      "num": 15570,
-      "word": "觉得当代年轻人的出路越来越少了",
-      "onboard_time": 1697660233,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 12546,

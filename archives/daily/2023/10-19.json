@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697660290964,
+  "endTime": 1697661271754,
   "band_list": [
     {
       "raw_hot": 2168877,
@@ -523,20 +523,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 16158,
+      "num": 16158,
+      "word": "觉得当代年轻人的出路越来越少了",
+      "onboard_time": 1697660233,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13594,
       "num": 348309,
       "word": "中国桥梁连着历史和现实的非凡跨越",
       "onboard_time": 1697633014,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12757,
-      "num": 15570,
-      "word": "觉得当代年轻人的出路越来越少了",
-      "onboard_time": 1697660233,
-      "rank": 49,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
