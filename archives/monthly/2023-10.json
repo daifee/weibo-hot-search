@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697661271754,
+  "endTime": 1697663703377,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -49795,7 +49795,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 40679,
+      "raw_hot": 40979,
       "num": 33960,
       "word": "陈漫镜头下的林青霞",
       "onboard_time": 1697658554,
@@ -50507,6 +50507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20310,
+      "num": 20310,
+      "word": "觉得当代年轻人的出路越来越少了",
+      "onboard_time": 1697660233,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 20265,
       "num": 986242,
       "word": "在太空改论文的导师快回来了",
@@ -50521,6 +50529,14 @@
       "onboard_time": 1697397554,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20119,
+      "num": 20119,
+      "word": "淘汰再出道 这集我好像看过",
+      "onboard_time": 1697661612,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 20095,
@@ -50560,6 +50576,14 @@
       "word": "盛世中华 大美中国",
       "onboard_time": 1696036654,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18409,
+      "num": 18409,
+      "word": "10个月宝宝食指倒刺被拔送PICU抢救",
+      "onboard_time": 1697662994,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -50609,14 +50633,6 @@
       "onboard_time": 1697484194,
       "rank": 45,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 16158,
-      "num": 16158,
-      "word": "觉得当代年轻人的出路越来越少了",
-      "onboard_time": 1697660233,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 15839,
@@ -50673,6 +50689,14 @@
       "onboard_time": 1696148618,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13806,
+      "num": 15498,
+      "word": "学校边的小卖铺有多赚钱",
+      "onboard_time": 1697662873,
+      "rank": 47,
+      "category": "其它"
     },
     {
       "raw_hot": 13295,
