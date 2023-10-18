@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697627688194,
+  "endTime": 1697628851087,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -339,20 +339,20 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 2034135,
+      "num": 600927,
+      "word": "4090禁售",
+      "onboard_time": 1697624260,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 2020477,
       "num": 2020477,
       "word": "李佳 牛",
       "onboard_time": 1697349331,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 2016942,
-      "num": 600927,
-      "word": "4090禁售",
-      "onboard_time": 1697624260,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 2012550,
@@ -851,6 +851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1263704,
+      "num": 1263704,
+      "word": "突然明白你好李焕英名字起的有多好",
+      "onboard_time": 1697622338,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1244276,
       "num": 963887,
       "word": "本周狗屎运最旺的星座",
@@ -865,6 +873,14 @@
       "onboard_time": 1697418454,
       "rank": 22,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1230405,
+      "num": 529377,
+      "word": "女童父母称200万筹款将全用于孩子治疗",
+      "onboard_time": 1697626296,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1219210,
@@ -996,19 +1012,11 @@
     },
     {
       "raw_hot": 1083020,
-      "num": 732500,
+      "num": 959183,
       "word": "papi酱 老板直播间",
       "onboard_time": 1697624559,
       "rank": 19,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1082067,
-      "num": 1082067,
-      "word": "突然明白你好李焕英名字起的有多好",
-      "onboard_time": 1697622338,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 1068005,
@@ -1507,6 +1515,14 @@
       "category": "社会新闻,动漫"
     },
     {
+      "raw_hot": 853863,
+      "num": 853863,
+      "word": "恋5男嘉宾把女嘉宾吼哭了",
+      "onboard_time": 1697624616,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 851694,
       "num": 462681,
       "word": "中国中免董事长李刚去世",
@@ -1609,6 +1625,14 @@
       "onboard_time": 1697550223,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 812015,
+      "num": 812015,
+      "word": "杜华说不想再养NAME了",
+      "onboard_time": 1697627614,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 810386,
@@ -1763,14 +1787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 769545,
-      "num": 529377,
-      "word": "女童父母称200万筹款将全用于孩子治疗",
-      "onboard_time": 1697626296,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 760443,
       "num": 334706,
       "word": "罗威纳",
@@ -1801,14 +1817,6 @@
       "onboard_time": 1697444733,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 749368,
-      "num": 749368,
-      "word": "恋5男嘉宾把女嘉宾吼哭了",
-      "onboard_time": 1697624616,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 749274,
@@ -2403,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 578610,
+      "num": 578610,
+      "word": "徐明浩 KIKO",
+      "onboard_time": 1697627314,
+      "rank": 28,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 578564,
       "num": 457315,
       "word": "苏醒大号不敢发发小号",
@@ -2915,6 +2931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 500918,
+      "num": 500918,
+      "word": "国防部回应我战机驱离加拿大侦察机",
+      "onboard_time": 1697627556,
+      "rank": 14,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 500819,
       "num": 500819,
       "word": "杰瑞有那么多套床",
@@ -3081,6 +3105,14 @@
       "onboard_time": 1697352754,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481505,
+      "num": 351782,
+      "word": "鹿哈回应已改名",
+      "onboard_time": 1697626957,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 480276,
@@ -3441,6 +3473,14 @@
       "onboard_time": 1697601757,
       "rank": 25,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 437991,
+      "num": 437991,
+      "word": "梅西中国行可能取消",
+      "onboard_time": 1697626836,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 437351,
@@ -4387,14 +4427,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 345711,
-      "num": 343296,
-      "word": "鹿哈回应已改名",
-      "onboard_time": 1697626957,
-      "rank": 21,
-      "category": "网红"
-    },
-    {
       "raw_hot": 345444,
       "num": 345444,
       "word": "自建房造的丑 关我入住后什么事",
@@ -4441,14 +4473,6 @@
       "onboard_time": 1697588317,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 343071,
-      "num": 343071,
-      "word": "梅西中国行可能取消",
-      "onboard_time": 1697626836,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 342947,
@@ -5043,20 +5067,20 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 302006,
+      "num": 302006,
+      "word": "莲花楼 重生成为天下第一的徒弟",
+      "onboard_time": 1697626414,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301974,
       "num": 301974,
       "word": "科学家建议老婆怀孕老公不能被裁员",
       "onboard_time": 1697349393,
       "rank": 24,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 301519,
-      "num": 301519,
-      "word": "莲花楼 重生成为天下第一的徒弟",
-      "onboard_time": 1697626414,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 301318,
@@ -5739,14 +5763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 257859,
-      "num": 257859,
-      "word": "徐明浩 KIKO",
-      "onboard_time": 1697627314,
-      "rank": 28,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 257774,
       "num": 257774,
       "word": "迪丽热巴白金霓光鱼尾裙",
@@ -5955,6 +5971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251656,
+      "num": 251656,
+      "word": "杨紫唱歌时台下reaction",
+      "onboard_time": 1697627314,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 251651,
       "num": 251651,
       "word": "蒲熠星 生活本身就是最好的文本",
@@ -6153,6 +6177,14 @@
       "onboard_time": 1697415336,
       "rank": 30,
       "category": "幽默,音乐"
+    },
+    {
+      "raw_hot": 240193,
+      "num": 240193,
+      "word": "苏敏 亲爱的妈妈",
+      "onboard_time": 1697628453,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 238894,
@@ -6539,14 +6571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222507,
-      "num": 222507,
-      "word": "杨紫唱歌时台下reaction",
-      "onboard_time": 1697627314,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 222349,
       "num": 222349,
       "word": "乌拉圭2比0巴西",
@@ -6609,6 +6633,14 @@
       "onboard_time": 1697619576,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218533,
+      "num": 1109238,
+      "word": "景区工作人员拿着喇叭现场打假",
+      "onboard_time": 1697628215,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217996,
@@ -7425,14 +7457,6 @@
       "onboard_time": 1697338950,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198746,
-      "num": 198746,
-      "word": "杜华说不想再养NAME了",
-      "onboard_time": 1697627614,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 198686,
@@ -8363,6 +8387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 177100,
+      "num": 721165,
+      "word": "92岁老人不慎摔倒热心路人纷纷伸出援手",
+      "onboard_time": 1697622877,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176973,
       "num": 205540,
       "word": "原声台词稳定的明星",
@@ -8697,14 +8729,6 @@
       "onboard_time": 1697325622,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 169063,
-      "num": 721165,
-      "word": "92岁老人不慎摔倒热心路人纷纷伸出援手",
-      "onboard_time": 1697622877,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 168880,
@@ -9275,6 +9299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 148797,
+      "num": 343637,
+      "word": "山东在印尼沼泽地2年建起现代化产业园",
+      "onboard_time": 1697627494,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 148790,
       "num": 148790,
       "word": "于和伟 不知道人在哪里身在何处",
@@ -9353,6 +9385,14 @@
       "onboard_time": 1697368232,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145860,
+      "num": 145860,
+      "word": "陈双入对情侣装",
+      "onboard_time": 1697628574,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 145613,
@@ -9673,6 +9713,14 @@
       "onboard_time": 1697610571,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 133064,
+      "num": 133064,
+      "word": "邓紫棋向灿星文化讨薪案将二审",
+      "onboard_time": 1697627735,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 132984,
@@ -10000,14 +10048,6 @@
       "word": "民警7秒空手夺刀救下轻生女子",
       "onboard_time": 1697361936,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 111851,
-      "num": 343637,
-      "word": "山东在印尼沼泽地2年建起现代化产业园",
-      "onboard_time": 1697627494,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -10428,7 +10468,7 @@
     },
     {
       "raw_hot": 61528,
-      "num": 868170,
+      "num": 965298,
       "word": "一带一路的100个故事",
       "onboard_time": 1697618256,
       "rank": 2,
