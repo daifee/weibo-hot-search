@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697636037235,
+  "endTime": 1697638608953,
   "band_list": [
     {
       "raw_hot": 7221835,
@@ -9,6 +9,14 @@
       "onboard_time": 1697620115,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3154452,
+      "num": 1078540,
+      "word": "巴总统宣布全国哀悼三天",
+      "onboard_time": 1697635234,
+      "rank": 45,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 2558177,
@@ -147,12 +155,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 1389693,
-      "num": 729296,
-      "word": "巴总统宣布全国哀悼三天",
-      "onboard_time": 1697635234,
-      "rank": 45,
-      "category": "国外要闻"
+      "raw_hot": 1420109,
+      "num": 1169887,
+      "word": "EXO变成CEO了",
+      "onboard_time": 1697635598,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 1385807,
@@ -459,14 +467,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 769125,
-      "num": 769125,
-      "word": "EXO变成CEO了",
-      "onboard_time": 1697635598,
-      "rank": 9,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 754000,
       "num": 754000,
       "word": "前三季度GDP同比增长5.2%",
@@ -475,12 +475,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 740649,
+      "num": 565355,
+      "word": "巴以冲突已致双方超4900人死亡",
+      "onboard_time": 1697637998,
+      "rank": 12,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 739840,
       "num": 722687,
       "word": "塞尔维亚是中国的铁杆朋友",
       "onboard_time": 1697582841,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 736892,
+      "num": 676511,
+      "word": "南京1912玄武酒吧",
+      "onboard_time": 1697632955,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 727198,
@@ -537,14 +553,6 @@
       "onboard_time": 1697586755,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 676511,
-      "num": 676511,
-      "word": "南京1912玄武酒吧",
-      "onboard_time": 1697632955,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 635333,
@@ -625,6 +633,14 @@
       "onboard_time": 1697620834,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 570708,
+      "num": 570708,
+      "word": "每8个女性中就有一个乳腺癌患者",
+      "onboard_time": 1697634875,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 565058,
@@ -883,6 +899,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 460833,
+      "num": 460833,
+      "word": "岑先生回来了",
+      "onboard_time": 1697635234,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 456220,
       "num": 319501,
       "word": "警方称南京酒吧街醉酒事件非强奸",
@@ -963,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423754,
+      "num": 423754,
+      "word": "胡锡进炒股浮亏首次突破3万元",
+      "onboard_time": 1697637879,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 417951,
       "num": 362182,
       "word": "联合国称以色列可能构成国际犯罪",
@@ -980,7 +1012,7 @@
     },
     {
       "raw_hot": 416149,
-      "num": 329622,
+      "num": 350347,
       "word": "在俄罗斯不要轻易点外卖",
       "onboard_time": 1697634634,
       "rank": 20,
@@ -1044,7 +1076,7 @@
     },
     {
       "raw_hot": 395459,
-      "num": 322641,
+      "num": 333784,
       "word": "穿衣风格真的会影响自信",
       "onboard_time": 1697634634,
       "rank": 21,
@@ -1459,6 +1491,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 259387,
+      "num": 259387,
+      "word": "娜扎黑色开叉长裙",
+      "onboard_time": 1697637636,
+      "rank": 26,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 257691,
       "num": 257691,
       "word": "猫猫 您喝水吗",
@@ -1547,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 244788,
+      "num": 244788,
+      "word": "AG对战WB",
+      "onboard_time": 1697637695,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 240450,
       "num": 240450,
       "word": "咒术回战",
@@ -1593,6 +1641,14 @@
       "onboard_time": 1697616273,
       "rank": 28,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 231127,
+      "num": 231127,
+      "word": "范思哲晚宴",
+      "onboard_time": 1697638418,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 229794,
@@ -1739,14 +1795,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 214583,
-      "num": 214583,
-      "word": "每8个女性中就有一个乳腺癌患者",
-      "onboard_time": 1697634875,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 213496,
       "num": 213496,
       "word": "一杯奶茶钱能买这么多东西",
@@ -1761,6 +1809,14 @@
       "onboard_time": 1697599233,
       "rank": 34,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 211711,
+      "num": 211711,
+      "word": "刘慈欣给年轻科幻作者建议",
+      "onboard_time": 1697637695,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 210721,
@@ -1891,14 +1947,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 201465,
-      "num": 201465,
-      "word": "岑先生回来了",
-      "onboard_time": 1697635234,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 200051,
       "num": 200051,
       "word": "民警找回38只山羊收到咩咩咩锦旗",
@@ -1971,6 +2019,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 193890,
+      "num": 193890,
+      "word": "原来美甲也可以把物理学应用到极致",
+      "onboard_time": 1697637395,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 193877,
       "num": 193877,
       "word": "陈都灵午后慵懒风",
@@ -2003,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192805,
+      "num": 192805,
+      "word": "鞠婧祎细闪眼妆",
+      "onboard_time": 1697638358,
+      "rank": 41,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 191321,
       "num": 191321,
       "word": "苏醒巡演落幕",
@@ -2033,6 +2097,14 @@
       "onboard_time": 1697622338,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189205,
+      "num": 194093,
+      "word": "AG白鲨争夺一号种子",
+      "onboard_time": 1697637879,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 188283,
@@ -2195,6 +2267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170404,
+      "num": 170404,
+      "word": "杭州市区的徽派建筑群",
+      "onboard_time": 1697637515,
+      "rank": 46,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 170218,
       "num": 170218,
       "word": "男子收拾老屋发现父亲深藏功与名",
@@ -2265,6 +2345,14 @@
       "onboard_time": 1697553704,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 165049,
+      "num": 165049,
+      "word": "这段被我选入华浅年度名场面",
+      "onboard_time": 1697638476,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 163993,
@@ -2739,6 +2827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 74204,
+      "num": 1359441,
+      "word": "中国支持高质量共建一带一路八项行动",
+      "onboard_time": 1697633496,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 73195,
       "num": 73195,
       "word": "月曜中国采访成都篇",
@@ -2809,14 +2905,6 @@
       "onboard_time": 1697579835,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 60509,
-      "num": 1359441,
-      "word": "中国支持高质量共建一带一路八项行动",
-      "onboard_time": 1697633496,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 59579,
