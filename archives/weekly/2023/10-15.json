@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697595850967,
+  "endTime": 1697596516788,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 1368106,
-      "num": 594769,
+      "num": 656638,
       "word": "苹果承认iPhone15存在烧屏问题",
       "onboard_time": 1697587659,
       "rank": 3,
@@ -1492,7 +1492,7 @@
     },
     {
       "raw_hot": 758925,
-      "num": 483694,
+      "num": 509005,
       "word": "加沙地带一医院遭袭数百人死亡",
       "onboard_time": 1697585670,
       "rank": 5,
@@ -1913,6 +1913,14 @@
       "onboard_time": 1697424573,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 610810,
+      "num": 610810,
+      "word": "乘务员在高铁上被惊喜求婚",
+      "onboard_time": 1697594373,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 610731,
@@ -3387,14 +3395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 382338,
-      "num": 382338,
-      "word": "乘务员在高铁上被惊喜求婚",
-      "onboard_time": 1697594373,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378806,
       "num": 378806,
       "word": "白桃星座",
@@ -3656,6 +3656,14 @@
       "word": "女子欲轻生被遛狗大哥死死拽住",
       "onboard_time": 1697359773,
       "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352403,
+      "num": 305914,
+      "word": "前三季度GDP同比增长5.2%",
+      "onboard_time": 1697596052,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -4107,6 +4115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 316298,
+      "num": 316298,
+      "word": "让SEVENTEEN粉丝混乱的新歌part",
+      "onboard_time": 1697596174,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 315781,
       "num": 315781,
       "word": "梁崴把陈律整不会了",
@@ -4353,6 +4369,14 @@
       "onboard_time": 1697521233,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 292447,
+      "num": 292447,
+      "word": "夭柳有这一幕圆满了",
+      "onboard_time": 1697595512,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 292409,
@@ -5491,6 +5515,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 229218,
+      "num": 229218,
+      "word": "田耕纪真的鸡飞蛋打了",
+      "onboard_time": 1697595572,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229096,
       "num": 214488,
       "word": "手滑帮导师上午门诊放了60个号",
@@ -5601,6 +5633,14 @@
       "onboard_time": 1697515836,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222349,
+      "num": 222349,
+      "word": "乌拉圭2比0巴西",
+      "onboard_time": 1697595631,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 221813,
@@ -5899,14 +5939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206957,
-      "num": 206957,
-      "word": "乌拉圭2比0巴西",
-      "onboard_time": 1697595631,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206555,
       "num": 206555,
       "word": "陈都灵到底在跟谁聊天",
@@ -6097,6 +6129,14 @@
       "onboard_time": 1697505756,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 203388,
+      "num": 203388,
+      "word": "好喜欢连蔓儿这个转身",
+      "onboard_time": 1697595991,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 203219,
@@ -6489,14 +6529,6 @@
       "onboard_time": 1697590896,
       "rank": 43,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 195394,
-      "num": 195394,
-      "word": "夭柳有这一幕圆满了",
-      "onboard_time": 1697595512,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 195157,
@@ -7251,6 +7283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 174731,
+      "num": 174731,
+      "word": "请别再用更年期挖苦女人了",
+      "onboard_time": 1697593293,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174671,
       "num": 174671,
       "word": "辍学小伙攒2000元返校实现歌手梦",
@@ -7313,14 +7353,6 @@
       "onboard_time": 1697370696,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172418,
-      "num": 172418,
-      "word": "田耕纪真的鸡飞蛋打了",
-      "onboard_time": 1697595572,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 172414,
@@ -7707,6 +7739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157724,
+      "num": 157724,
+      "word": "流水纪分享肖战新歌幕后故事",
+      "onboard_time": 1697596412,
+      "rank": 40,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157572,
       "num": 157572,
       "word": "问心集集刀",
@@ -7809,14 +7849,6 @@
       "onboard_time": 1697375436,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 152704,
-      "num": 152704,
-      "word": "请别再用更年期挖苦女人了",
-      "onboard_time": 1697593293,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 152701,
@@ -8313,6 +8345,14 @@
       "onboard_time": 1697340751,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127175,
+      "num": 127175,
+      "word": "同事的PPT也太卷了",
+      "onboard_time": 1697596470,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 127019,
@@ -8860,7 +8900,7 @@
     },
     {
       "raw_hot": 68123,
-      "num": 668326,
+      "num": 671534,
       "word": "丝路之歌一路繁花",
       "onboard_time": 1697548239,
       "rank": 2,

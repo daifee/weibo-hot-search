@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697595850967,
+  "endTime": 1697596516788,
   "band_list": [
     {
       "raw_hot": 2241771,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1368106,
-      "num": 594769,
+      "num": 656638,
       "word": "苹果承认iPhone15存在烧屏问题",
       "onboard_time": 1697587659,
       "rank": 3,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 758925,
-      "num": 483694,
+      "num": 509005,
       "word": "加沙地带一医院遭袭数百人死亡",
       "onboard_time": 1697585670,
       "rank": 5,
@@ -152,6 +152,14 @@
       "word": "被烈犬咬伤女童立即手术或面临摘肾",
       "onboard_time": 1697535637,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 610810,
+      "num": 610810,
+      "word": "乘务员在高铁上被惊喜求婚",
+      "onboard_time": 1697594373,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -291,14 +299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 382338,
-      "num": 382338,
-      "word": "乘务员在高铁上被惊喜求婚",
-      "onboard_time": 1697594373,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 376649,
       "num": 376649,
       "word": "高铁上真的有在卖卫生巾了",
@@ -328,6 +328,14 @@
       "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
       "onboard_time": 1697554181,
       "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 352403,
+      "num": 305914,
+      "word": "前三季度GDP同比增长5.2%",
+      "onboard_time": 1697596052,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -363,6 +371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 316298,
+      "num": 316298,
+      "word": "让SEVENTEEN粉丝混乱的新歌part",
+      "onboard_time": 1697596174,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 315191,
       "num": 304405,
       "word": "网传2024湖南卫视跨年演唱会名单",
@@ -392,6 +408,14 @@
       "word": "代露娃下台也要跟杨紫牵手",
       "onboard_time": 1697586634,
       "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 292447,
+      "num": 292447,
+      "word": "夭柳有这一幕圆满了",
+      "onboard_time": 1697595512,
+      "rank": 31,
       "category": "剧集"
     },
     {
@@ -475,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 229218,
+      "num": 229218,
+      "word": "田耕纪真的鸡飞蛋打了",
+      "onboard_time": 1697595572,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 222349,
+      "num": 222349,
+      "word": "乌拉圭2比0巴西",
+      "onboard_time": 1697595631,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221209,
       "num": 221209,
       "word": "曾舜晞更新自动回复",
@@ -515,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 206957,
-      "num": 206957,
-      "word": "乌拉圭2比0巴西",
-      "onboard_time": 1697595631,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206301,
       "num": 181589,
       "word": "一个人住真的会很舒服",
@@ -545,6 +577,14 @@
       "onboard_time": 1697589825,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203388,
+      "num": 203388,
+      "word": "好喜欢连蔓儿这个转身",
+      "onboard_time": 1697595991,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 202733,
@@ -579,14 +619,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 195394,
-      "num": 195394,
-      "word": "夭柳有这一幕圆满了",
-      "onboard_time": 1697595512,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 192950,
       "num": 192950,
       "word": "被羲和号拍到的太阳炫到了",
@@ -619,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 172418,
-      "num": 172418,
-      "word": "田耕纪真的鸡飞蛋打了",
-      "onboard_time": 1697595572,
-      "rank": 36,
-      "category": "剧集"
+      "raw_hot": 174731,
+      "num": 174731,
+      "word": "请别再用更年期挖苦女人了",
+      "onboard_time": 1697593293,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170471,
@@ -675,12 +707,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152704,
-      "num": 152704,
-      "word": "请别再用更年期挖苦女人了",
-      "onboard_time": 1697593293,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 157724,
+      "num": 157724,
+      "word": "流水纪分享肖战新歌幕后故事",
+      "onboard_time": 1697596412,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 148148,
@@ -689,6 +721,14 @@
       "onboard_time": 1697593054,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148119,
+      "num": 148119,
+      "word": "阳江地震",
+      "onboard_time": 1697596456,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147535,
@@ -777,6 +817,14 @@
       "onboard_time": 1697541396,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127175,
+      "num": 127175,
+      "word": "同事的PPT也太卷了",
+      "onboard_time": 1697596470,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121386,
@@ -908,7 +956,7 @@
     },
     {
       "raw_hot": 68123,
-      "num": 668326,
+      "num": 671534,
       "word": "丝路之歌一路繁花",
       "onboard_time": 1697548239,
       "rank": 2,

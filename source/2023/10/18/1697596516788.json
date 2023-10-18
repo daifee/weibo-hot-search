@@ -1,0 +1,410 @@
+{
+  "runTime": 1697596516788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993536,
+        "num": 993536,
+        "word": "建议以租代买的物品",
+        "onboard_time": 1697590896,
+        "rank": 0,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 738306,
+        "num": 738306,
+        "word": "父女俩时隔4个月相继成为大体老师",
+        "onboard_time": 1697590718,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 35378,
+        "num": 671534,
+        "word": "丝路之歌一路繁花",
+        "onboard_time": 1697548239,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 656638,
+        "num": 656638,
+        "word": "苹果承认iPhone15存在烧屏问题",
+        "onboard_time": 1697587659,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 610810,
+        "num": 610810,
+        "word": "乘务员在高铁上被惊喜求婚",
+        "onboard_time": 1697594373,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 634348,
+        "num": 509005,
+        "word": "加沙地带一医院遭袭数百人死亡",
+        "onboard_time": 1697585670,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 364427,
+        "num": 364427,
+        "word": "内马尔受伤",
+        "onboard_time": 1697592215,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 337356,
+        "num": 337356,
+        "word": "长相思晚会 尴尬",
+        "onboard_time": 1697549439,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458648,
+        "num": 329661,
+        "word": "外媒称浸信会医院遭袭已致至少500人死亡",
+        "onboard_time": 1697586755,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 316298,
+        "num": 316298,
+        "word": "让SEVENTEEN粉丝混乱的新歌part",
+        "onboard_time": 1697596174,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1391302,
+        "num": 315590,
+        "word": "训犬师称罗威纳犬咬伤幼童或是应激反应",
+        "onboard_time": 1697588076,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1326718,
+        "num": 314099,
+        "word": "洗内裤机",
+        "onboard_time": 1697590661,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 979524,
+        "num": 312914,
+        "word": "4万多的钻石内裤在上海也卖不动",
+        "onboard_time": 1697586932,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 835835,
+        "num": 312085,
+        "word": "退钱",
+        "onboard_time": 1697554363,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 818847,
+        "num": 311633,
+        "word": "去年我国一孩出生低于450万",
+        "onboard_time": 1697563280,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 593677,
+        "num": 309608,
+        "word": "A股",
+        "onboard_time": 1697593833,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 398722,
+        "num": 308442,
+        "word": "网友曝吴磊借自行车拒绝合影",
+        "onboard_time": 1697543375,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363489,
+        "num": 307197,
+        "word": "兽医称从业10年仍害怕罗威纳犬",
+        "onboard_time": 1697590299,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 352403,
+        "num": 305914,
+        "word": "前三季度GDP同比增长5.2%",
+        "onboard_time": 1697596052,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316608,
+        "num": 305215,
+        "word": "167名儿童仍被困在加沙废墟中",
+        "onboard_time": 1697585850,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 304689,
+        "num": 304689,
+        "word": "范家兄妹庆余年2再聚首",
+        "onboard_time": 1697589338,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 292447,
+        "num": 292447,
+        "word": "夭柳有这一幕圆满了",
+        "onboard_time": 1697595512,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 285408,
+        "num": 285408,
+        "word": "暧昧期两句话斩杀男方所有军师",
+        "onboard_time": 1697590478,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 262045,
+        "num": 262045,
+        "word": "双十一还有必要存在吗",
+        "onboard_time": 1697590896,
+        "rank": 23,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240690,
+        "num": 240690,
+        "word": "陈铭 论喜欢和爱有什么差别",
+        "onboard_time": 1697591017,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238082,
+        "num": 238082,
+        "word": "Red Velvet",
+        "onboard_time": 1697587474,
+        "rank": 25,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 229218,
+        "num": 229218,
+        "word": "田耕纪真的鸡飞蛋打了",
+        "onboard_time": 1697595572,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222349,
+        "num": 222349,
+        "word": "乌拉圭2比0巴西",
+        "onboard_time": 1697595631,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221296,
+        "num": 221296,
+        "word": "代露娃下台也要跟杨紫牵手",
+        "onboard_time": 1697586634,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219999,
+        "num": 219999,
+        "word": "00后买刮刮乐中100万分男友10万",
+        "onboard_time": 1697552620,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203388,
+        "num": 203388,
+        "word": "好喜欢连蔓儿这个转身",
+        "onboard_time": 1697595991,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201867,
+        "num": 201867,
+        "word": "小伙每天埋头刷题15小时急性瘫痪",
+        "onboard_time": 1697591557,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180830,
+        "num": 180830,
+        "word": "小伙骑电动摔倒3名路人为他停下",
+        "onboard_time": 1697595212,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178961,
+        "num": 178961,
+        "word": "大奉打更人",
+        "onboard_time": 1697589460,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174731,
+        "num": 174731,
+        "word": "请别再用更年期挖苦女人了",
+        "onboard_time": 1697593293,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169588,
+        "num": 169588,
+        "word": "成都大狗咬伤女童所在小区业主发声",
+        "onboard_time": 1697543614,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 167349,
+        "num": 167349,
+        "word": "三胎全职妈妈凌晨天桥上崩溃痛哭",
+        "onboard_time": 1697554181,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166137,
+        "num": 166137,
+        "word": "曾舜晞更新自动回复",
+        "onboard_time": 1697594795,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164887,
+        "num": 164887,
+        "word": "广东一外婆和孙女长得太像了",
+        "onboard_time": 1697588317,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 159309,
+        "num": 159309,
+        "word": "新疆2名小朋友广场上以舞会友",
+        "onboard_time": 1697591675,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157724,
+        "num": 157724,
+        "word": "流水纪分享肖战新歌幕后故事",
+        "onboard_time": 1697596412,
+        "rank": 40,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 156951,
+        "num": 156951,
+        "word": "猫猫 您喝水吗",
+        "onboard_time": 1697588919,
+        "rank": 41,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 155160,
+        "num": 155160,
+        "word": "高铁上真的有在卖卫生巾了",
+        "onboard_time": 1697588258,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 148119,
+        "num": 148119,
+        "word": "阳江地震",
+        "onboard_time": 1697596456,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145343,
+        "num": 145343,
+        "word": "前任4主创破9亿给观众敬9",
+        "onboard_time": 1697593054,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145213,
+        "num": 145213,
+        "word": "室友吃了我给的石榴过敏了",
+        "onboard_time": 1697587659,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127175,
+        "num": 127175,
+        "word": "同事的PPT也太卷了",
+        "onboard_time": 1697596470,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126948,
+        "num": 126948,
+        "word": "广告公司向车主和吴磊道歉",
+        "onboard_time": 1697549921,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125879,
+        "num": 125879,
+        "word": "老公抬妾我吃席",
+        "onboard_time": 1697555323,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126717,
+        "num": 125787,
+        "word": "塞尔维亚是中国的铁杆朋友",
+        "onboard_time": 1697582841,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大道共通#"
+    }
+  }
+}
