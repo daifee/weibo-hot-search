@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697649351480,
+  "endTime": 1697650471186,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -11057,6 +11057,14 @@
       "onboard_time": 1697548239,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 67730,
+      "num": 67730,
+      "word": "胡锡进 狗恶只因主昏",
+      "onboard_time": 1697649740,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 66801,
