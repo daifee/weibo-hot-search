@@ -1,10 +1,10 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697621665503,
+  "endTime": 1697624312063,
   "band_list": [
     {
-      "raw_hot": 4454846,
-      "num": 5409692,
+      "raw_hot": 7221835,
+      "num": 8011254,
       "word": "咬伤女童黑狗的主人被刑拘",
       "onboard_time": 1697620115,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2558177,
-      "num": 459699,
+      "num": 493869,
       "word": "被恶犬咬伤女童家属发起200万筹款",
       "onboard_time": 1697613034,
       "rank": 22,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1913728,
-      "num": 461520,
+      "num": 493178,
       "word": "鹿哈半年收入超过3000万",
       "onboard_time": 1697612733,
       "rank": 12,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1737555,
-      "num": 462444,
+      "num": 493481,
       "word": "4090",
       "onboard_time": 1697616695,
       "rank": 19,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1314032,
+      "num": 493589,
+      "word": "邓为早期微博回复",
+      "onboard_time": 1697621977,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1201572,
       "num": 314244,
       "word": "被狗咬女童方律师称狗主人被刑拘",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 1102145,
-      "num": 675438,
+      "num": 695750,
       "word": "拜登抵达以色列",
       "onboard_time": 1697617233,
       "rank": 35,
@@ -201,6 +209,14 @@
       "onboard_time": 1697549439,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1019503,
+      "num": 702340,
+      "word": "都暻秀离开SMTOWN",
+      "onboard_time": 1697623417,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1009640,
@@ -257,6 +273,14 @@
       "onboard_time": 1697543614,
       "rank": 24,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 963490,
+      "num": 493341,
+      "word": "迪丽热巴出道后第一个新疆IP",
+      "onboard_time": 1697623237,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 935199,
@@ -427,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 601131,
+      "num": 493037,
+      "word": "西安一小区将逐户清理禁养犬",
+      "onboard_time": 1697622104,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 600501,
       "num": 600501,
       "word": "iPhone15Plus价格暴降",
@@ -587,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 492844,
+      "num": 492844,
+      "word": "公主请",
+      "onboard_time": 1697620834,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488230,
       "num": 488230,
       "word": "enhypen QQ音乐压价",
@@ -609,14 +649,6 @@
       "onboard_time": 1697617415,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 477791,
-      "num": 455415,
-      "word": "公主请",
-      "onboard_time": 1697620834,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 473175,
@@ -795,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 397814,
+      "num": 397814,
+      "word": "突然明白你好李焕英名字起的有多好",
+      "onboard_time": 1697622338,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 395030,
       "num": 301197,
       "word": "被狗咬伤女童尚未脱离危险",
@@ -809,6 +849,14 @@
       "onboard_time": 1697598814,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 390468,
+      "num": 390468,
+      "word": "公厕蹲坑真的比马桶干净吗",
+      "onboard_time": 1697621196,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 390280,
@@ -995,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306886,
+      "num": 306886,
+      "word": "TES太强了",
+      "onboard_time": 1697622517,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 306439,
       "num": 306439,
       "word": "王思懿 最美潘金莲",
@@ -1091,12 +1147,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 273735,
-      "num": 258232,
-      "word": "公厕蹲坑真的比马桶干净吗",
-      "onboard_time": 1697621196,
-      "rank": 30,
-      "category": "知识科普"
+      "raw_hot": 273758,
+      "num": 273758,
+      "word": "街道办称罗威纳主人愿意赔偿",
+      "onboard_time": 1697623896,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 273302,
@@ -1171,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 246765,
+      "num": 246765,
+      "word": "内娱哭戏教科书",
+      "onboard_time": 1697623058,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 246210,
       "num": 246210,
       "word": "大奉打更人",
@@ -1185,6 +1249,14 @@
       "onboard_time": 1697605955,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 238089,
+      "num": 238089,
+      "word": "不要钱也想做的工作出现了",
+      "onboard_time": 1697621857,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 235588,
@@ -1395,6 +1467,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 205081,
+      "num": 205081,
+      "word": "一带一路",
+      "onboard_time": 1697538697,
+      "rank": 49,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 204317,
+      "num": 204317,
+      "word": "田曦薇卡姿兰大眼睛",
+      "onboard_time": 1697622937,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204248,
       "num": 204248,
       "word": "加沙店铺食品存货只够四五天",
@@ -1571,6 +1659,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189605,
+      "num": 189605,
+      "word": "妈妈下楼倒垃圾萌娃快速炫完100道题",
+      "onboard_time": 1697622338,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187530,
       "num": 97084,
       "word": "hi6为檀健次长相思庆典送花篮",
@@ -1625,6 +1721,14 @@
       "onboard_time": 1697604760,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178509,
+      "num": 178509,
+      "word": "4090禁售",
+      "onboard_time": 1697624260,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 177228,
@@ -2051,6 +2155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114142,
+      "num": 695973,
+      "word": "一棵树也可以美成调色盘",
+      "onboard_time": 1697622701,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110396,
       "num": 110396,
       "word": "南航飞机餐发4个馒头1片白菜",
@@ -2091,12 +2203,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 101490,
-      "num": 101490,
-      "word": "一带一路",
-      "onboard_time": 1697538697,
-      "rank": 49,
-      "category": "国内要闻"
+      "raw_hot": 97248,
+      "num": 492928,
+      "word": "92岁老人不慎摔倒热心路人纷纷伸出援手",
+      "onboard_time": 1697622877,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 92736,
@@ -2105,6 +2217,14 @@
       "onboard_time": 1697573592,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 90523,
+      "num": 604609,
+      "word": "老人凌晨等公交去看病铁骑暖心相助",
+      "onboard_time": 1697622998,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90024,
@@ -2161,6 +2281,14 @@
       "onboard_time": 1697562981,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 68943,
+      "num": 493931,
+      "word": "华为MateX5真抗打",
+      "onboard_time": 1697622036,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 68811,
@@ -2235,6 +2363,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 56630,
+      "num": 835506,
+      "word": "一带一路的100个故事",
+      "onboard_time": 1697618256,
+      "rank": 2,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 55310,
       "num": 86736,
       "word": "汤唯换新经纪人了",
@@ -2257,14 +2393,6 @@
       "onboard_time": 1697598633,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 51455,
-      "num": 835506,
-      "word": "一带一路的100个故事",
-      "onboard_time": 1697618256,
-      "rank": 2,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 37208,
