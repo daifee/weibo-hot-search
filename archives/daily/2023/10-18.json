@@ -1,6 +1,6 @@
 {
   "startTime": 1697559754528,
-  "endTime": 1697610999610,
+  "endTime": 1697613378213,
   "band_list": [
     {
       "raw_hot": 2241771,
@@ -25,6 +25,14 @@
       "onboard_time": 1697554363,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 2012550,
+      "num": 325176,
+      "word": "王祖贤 南京",
+      "onboard_time": 1697609671,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 1974024,
@@ -57,14 +65,6 @@
       "onboard_time": 1697602175,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1415776,
-      "num": 325176,
-      "word": "王祖贤 南京",
-      "onboard_time": 1697609671,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 1385807,
@@ -139,6 +139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1009640,
+      "num": 320220,
+      "word": "女童母亲说狗主人至今没表态很心痛",
+      "onboard_time": 1697608232,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 997811,
       "num": 422302,
       "word": "女性的月经周期",
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 903491,
+      "num": 302186,
+      "word": "鹿哈半年收入超过3000万",
+      "onboard_time": 1697612733,
+      "rank": 12,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 895321,
       "num": 452945,
       "word": "南京警方辟谣醉酒女子当街遭性侵",
@@ -217,6 +233,14 @@
       "onboard_time": 1697590718,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794467,
+      "num": 794467,
+      "word": "茅台董秘称员工离职率只有万分之三",
+      "onboard_time": 1697610153,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 754000,
@@ -259,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 712843,
+      "num": 300822,
+      "word": "南京警方称酒吧街醉酒事件2人认识",
+      "onboard_time": 1697611898,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 703075,
       "num": 466389,
       "word": "陈铭 论喜欢和爱有什么差别",
@@ -273,14 +305,6 @@
       "onboard_time": 1697586755,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 638371,
-      "num": 320220,
-      "word": "女童母亲说狗主人至今没表态很心痛",
-      "onboard_time": 1697608232,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 635333,
@@ -385,6 +409,14 @@
       "onboard_time": 1697548298,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 534115,
+      "num": 534115,
+      "word": "女主播直播间擦边卖咖啡牵出3亿大案",
+      "onboard_time": 1697612432,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 531066,
@@ -548,7 +580,7 @@
     },
     {
       "raw_hot": 390366,
-      "num": 274834,
+      "num": 388442,
       "word": "年轻人开始反向消费了",
       "onboard_time": 1697606673,
       "rank": 36,
@@ -763,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281973,
+      "num": 281973,
+      "word": "宋亚轩叫醒沈腾的方法",
+      "onboard_time": 1697610694,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281547,
       "num": 357428,
       "word": "iPad eSIM",
@@ -809,14 +849,6 @@
       "onboard_time": 1697555864,
       "rank": 23,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 259154,
-      "num": 259154,
-      "word": "茅台董秘称员工离职率只有万分之三",
-      "onboard_time": 1697610153,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 257691,
@@ -883,6 +915,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 234433,
+      "num": 234433,
+      "word": "被恶犬咬伤女童家属发起200万筹款",
+      "onboard_time": 1697613034,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 233695,
       "num": 233695,
       "word": "阳江地震",
@@ -921,6 +961,14 @@
       "onboard_time": 1697598814,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224233,
+      "num": 224233,
+      "word": "南京一医院一周连做70台甲状腺癌手术",
+      "onboard_time": 1697609252,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 222349,
@@ -993,6 +1041,14 @@
       "onboard_time": 1697609014,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210516,
+      "num": 210516,
+      "word": "NONO性骚扰案开庭",
+      "onboard_time": 1697611772,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 207522,
@@ -1075,14 +1131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 199537,
-      "num": 199537,
-      "word": "宋亚轩叫醒沈腾的方法",
-      "onboard_time": 1697610694,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 199452,
       "num": 199452,
       "word": "被黄凯的实习日记鼓舞到了",
@@ -1163,20 +1211,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 191206,
+      "num": 191206,
+      "word": "朱一龙拔葱",
+      "onboard_time": 1697612795,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 190020,
       "num": 198165,
       "word": "电影刀尖",
       "onboard_time": 1697603317,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188839,
-      "num": 188839,
-      "word": "南京一医院一周连做70台甲状腺癌手术",
-      "onboard_time": 1697609252,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187530,
@@ -1201,6 +1249,22 @@
       "onboard_time": 1697604277,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184289,
+      "num": 184289,
+      "word": "苏翊鸣朱易同框",
+      "onboard_time": 1697611472,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 180092,
+      "num": 180092,
+      "word": "最遥远的距离定档",
+      "onboard_time": 1697611295,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 179820,
@@ -1315,6 +1379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 163993,
+      "num": 163993,
+      "word": "跛脚村医行医22年徒步近8万公里",
+      "onboard_time": 1697613100,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160913,
       "num": 160913,
       "word": "我们恋爱吧",
@@ -1347,6 +1419,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 155626,
+      "num": 155626,
+      "word": "刚出生四天的柴犬宝宝",
+      "onboard_time": 1697612615,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 148148,
       "num": 145474,
       "word": "前任4主创破9亿给观众敬9",
@@ -1377,6 +1457,14 @@
       "onboard_time": 1697594492,
       "rank": 42,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 145354,
+      "num": 145354,
+      "word": "听闻市民求救消防员拔吊瓶冲去救援",
+      "onboard_time": 1697612498,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145138,
@@ -1435,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136484,
+      "num": 136484,
+      "word": "花花才是最宠粉的熊猫吧",
+      "onboard_time": 1697613153,
+      "rank": 43,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 136363,
       "num": 136363,
       "word": "英伟达大跌",
@@ -1473,6 +1569,14 @@
       "onboard_time": 1697610033,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 125208,
+      "num": 125208,
+      "word": "辅警深夜上门给农户抢修破裂水管",
+      "onboard_time": 1697613334,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121386,
