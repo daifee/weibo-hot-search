@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 18:35:25
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/18 19:14:48
 </p>
 </blockquote>
 <p>
@@ -1241,6 +1241,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%20%E7%89%9B%23" target="weibo">
 李佳 牛（热度：2020477）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%234090%E7%A6%81%E5%94%AE%23" target="weibo">
+4090禁售（热度：2016942）
 </a>
 </li>
 
@@ -2967,12 +2973,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%234090%E7%A6%81%E5%94%AE%23" target="weibo">
-4090禁售（热度：1314078）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E4%B8%BA%E6%97%A9%E6%9C%9F%E5%BE%AE%E5%8D%9A%E5%9B%9E%E5%A4%8D%23" target="weibo">
 邓为早期微博回复（热度：1314032）
 </a>
@@ -3731,6 +3731,18 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E8%A2%AB%E5%8E%8B10%E5%B9%B4%E7%9A%84%E5%89%A7%E6%92%AD%E4%BA%86%23" target="weibo">
 徐冬冬被压10年的剧播了（热度：1083103）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B1%20%E8%80%81%E6%9D%BF%E7%9B%B4%E6%92%AD%E9%97%B4%23" target="weibo">
+papi酱 老板直播间（热度：1083020）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AA%81%E7%84%B6%E6%98%8E%E7%99%BD%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%E5%90%8D%E5%AD%97%E8%B5%B7%E7%9A%84%E6%9C%89%E5%A4%9A%E5%A5%BD%23" target="weibo">
+突然明白你好李焕英名字起的有多好（热度：1082067）
 </a>
 </li>
 
@@ -4619,6 +4631,12 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A5%9A%E7%94%9F%E8%80%81%E5%A9%86%E8%AF%B4%E8%83%A1%E5%85%B5%E5%BF%83%E6%80%81%E5%A5%BD%E5%B9%B4%E8%BD%BB%23" target="weibo">
 陈楚生老婆说胡兵心态好年轻（热度：933324）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E7%A7%B0%E7%BD%97%E5%A8%81%E7%BA%B3%E4%B8%BB%E4%BA%BA%E6%84%BF%E6%84%8F%E8%B5%94%E5%81%BF%23" target="weibo">
+街道办称罗威纳主人愿意赔偿（热度：928702）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Jennie巴黎时装周（热度：789463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9Cvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%23" target="weibo">
 林高远vs张本智和（热度：775893）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%90%B3%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%A4%A7%E8%B5%9B%E7%AC%AC%E4%B8%80%E5%90%8D%E6%99%8B%E7%BA%A7%23" target="weibo">
-冯琳主持人大赛第一名晋级（热度：773440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A1%82%E8%8A%B1%E7%83%A4%E5%A5%B6%23" target="weibo">
-桂花烤奶（热度：773237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B37%E6%AF%940%E8%83%9C%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E9%98%9F%23" target="weibo">
-中国女足7比0胜乌兹别克斯坦队（热度：772539）
 </a>
 </li>
 
