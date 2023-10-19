@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697754835216,
+  "endTime": 1697757428353,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -787,6 +787,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1547572,
+      "num": 1547572,
+      "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+      "onboard_time": 1697729435,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1543387,
       "num": 353350,
       "word": "四川被狗咬伤女童家属已筹得200万元",
@@ -1208,14 +1216,6 @@
       "word": "被大型犬撕咬女童母亲发声",
       "onboard_time": 1697459374,
       "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1189879,
-      "num": 1189879,
-      "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
-      "onboard_time": 1697729435,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -2339,6 +2339,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 759116,
+      "num": 221860,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1697448394,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 756245,
       "num": 756245,
       "word": "韩国自助冰",
@@ -2489,6 +2497,14 @@
       "onboard_time": 1697501557,
       "rank": 4,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 717747,
+      "num": 426123,
+      "word": "男子拒见3岁绝症女儿摔打妻子",
+      "onboard_time": 1697735361,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717657,
@@ -4043,6 +4059,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 484104,
+      "num": 484104,
+      "word": "张小泉菜刀又现拍蒜断刀",
+      "onboard_time": 1697730515,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 483741,
       "num": 302758,
       "word": "毕业五年了辅导员突然叫我干活",
@@ -4225,14 +4249,6 @@
       "onboard_time": 1697512114,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 468329,
-      "num": 468329,
-      "word": "张小泉菜刀又现拍蒜断刀",
-      "onboard_time": 1697730515,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 466304,
@@ -5363,14 +5379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380011,
-      "num": 426123,
-      "word": "男子拒见3岁绝症女儿摔打妻子",
-      "onboard_time": 1697735361,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 378878,
       "num": 378878,
       "word": "娜扎黑色开叉长裙",
@@ -5729,14 +5737,6 @@
       "onboard_time": 1697614356,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 354255,
-      "num": 221860,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1697448394,
-      "rank": 27,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 353179,
@@ -9867,6 +9867,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 199675,
+      "num": 79166,
+      "word": "以安全部队与巴勒斯坦武装人员约旦河西岸交火",
+      "onboard_time": 1697756483,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 199602,
       "num": 199602,
       "word": "曾黎私服穿搭",
@@ -12555,6 +12563,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147468,
+      "num": 202950,
+      "word": "G2回应抽中TheShy",
+      "onboard_time": 1697756543,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 147307,
+      "num": 127544,
+      "word": "当你的约会对象穿紧身牛仔裤时",
+      "onboard_time": 1697752995,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 147115,
       "num": 147115,
       "word": "法考主观题答案",
@@ -12835,6 +12859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138732,
+      "num": 126841,
+      "word": "这届年轻人结婚越来越抠",
+      "onboard_time": 1697744834,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 138552,
       "num": 138552,
       "word": "一梦枕星河开机",
@@ -12955,6 +12987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135142,
+      "num": 78801,
+      "word": "学校让爷爷带孙子拍张两寸照",
+      "onboard_time": 1697753776,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134620,
       "num": 134620,
       "word": "TES对战BOA",
@@ -13011,6 +13051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132462,
+      "num": 132462,
+      "word": "6岁女儿教科书式自救与父团聚",
+      "onboard_time": 1697756543,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 132082,
       "num": 132082,
       "word": "XCG冠军",
@@ -13041,6 +13089,14 @@
       "onboard_time": 1697610033,
       "rank": 45,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 129956,
+      "num": 129956,
+      "word": "姑娘给了送外卖的骑警两个橘子",
+      "onboard_time": 1697756421,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129876,
@@ -13571,6 +13627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 98228,
+      "num": 407834,
+      "word": "曾舜晞演过TVB神剧使徒行者3",
+      "onboard_time": 1697735659,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97822,
       "num": 169271,
       "word": "你支持将双十一定为节假日吗",
@@ -13603,11 +13667,27 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94833,
+      "num": 129908,
+      "word": "贴满HelloKitty的网约车成长沙打卡点",
+      "onboard_time": 1697756603,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 94193,
       "num": 171127,
       "word": "天猫试点飞人送快递惊呆路人",
       "onboard_time": 1697707775,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93223,
+      "num": 93223,
+      "word": "重庆迎来今秋第一场雪",
+      "onboard_time": 1697752214,
+      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -13625,6 +13705,14 @@
       "onboard_time": 1697573592,
       "rank": 49,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 92206,
+      "num": 128935,
+      "word": "男子被困溶洞2天邻居发现异常报警",
+      "onboard_time": 1697756543,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91459,
@@ -13707,6 +13795,22 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 87068,
+      "num": 87068,
+      "word": "秋季燃脂最快的减肥操",
+      "onboard_time": 1697755940,
+      "rank": 27,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 86598,
+      "num": 86598,
+      "word": "广东月收入多少才活的够滋润",
+      "onboard_time": 1697756421,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 86097,
       "num": 86097,
       "word": "比利时vs瑞典",
@@ -13787,14 +13891,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 78483,
-      "num": 407834,
-      "word": "曾舜晞演过TVB神剧使徒行者3",
-      "onboard_time": 1697735659,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78337,
       "num": 78337,
       "word": "微信消息通知横幅",
@@ -13833,6 +13929,14 @@
       "onboard_time": 1697633496,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 76346,
+      "num": 76346,
+      "word": "爸爸表演灯光魔术3岁萌娃兴奋鼓掌",
+      "onboard_time": 1697756543,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76115,
@@ -13905,6 +14009,14 @@
       "onboard_time": 1697548239,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 67673,
+      "num": 76136,
+      "word": "HPV和HPV疫苗的相关科普",
+      "onboard_time": 1697748493,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 66801,
@@ -14019,14 +14131,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 59408,
-      "num": 76136,
-      "word": "HPV和HPV疫苗的相关科普",
-      "onboard_time": 1697748493,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 59304,
       "num": 198162,
       "word": "华为平板让千年脸谱活起来了",
@@ -14043,6 +14147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58165,
+      "num": 421245,
+      "word": "没有译制片腔调的翻译 有被吓到",
+      "onboard_time": 1697733386,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 57627,
       "num": 69824,
       "word": "向共建一带一路所有的参与者建设者致敬",
@@ -14051,28 +14163,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 57006,
-      "num": 66700,
-      "word": "当你的约会对象穿紧身牛仔裤时",
-      "onboard_time": 1697752995,
-      "rank": 31,
+      "raw_hot": 55666,
+      "num": 76134,
+      "word": "爸爸拉着女儿假装在拍求职视频",
+      "onboard_time": 1697744414,
+      "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 56289,
-      "num": 76178,
-      "word": "这届年轻人结婚越来越抠",
-      "onboard_time": 1697744834,
-      "rank": 21,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 55672,
-      "num": 421245,
-      "word": "没有译制片腔调的翻译 有被吓到",
-      "onboard_time": 1697733386,
-      "rank": 49,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 55310,
@@ -14129,14 +14225,6 @@
       "onboard_time": 1697531795,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 52929,
-      "num": 66700,
-      "word": "学校让爷爷带孙子拍张两寸照",
-      "onboard_time": 1697753776,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 52553,
@@ -14227,6 +14315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40106,
+      "num": 66700,
+      "word": "巩俐用山东话念独白",
+      "onboard_time": 1697754198,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40092,
       "num": 804279,
       "word": "开往秋天的列车能有多惊艳",
@@ -14264,14 +14360,6 @@
       "word": "中国空间站办起了国际画展",
       "onboard_time": 1697598511,
       "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36497,
-      "num": 66700,
-      "word": "重庆迎来今秋第一场雪",
-      "onboard_time": 1697752214,
-      "rank": 27,
       "category": "社会新闻"
     },
     {
@@ -14313,14 +14401,6 @@
       "onboard_time": 1697335230,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 32071,
-      "num": 76134,
-      "word": "爸爸拉着女儿假装在拍求职视频",
-      "onboard_time": 1697744414,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 30899,
@@ -14401,14 +14481,6 @@
       "onboard_time": 1697367633,
       "rank": 14,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 25908,
-      "num": 66700,
-      "word": "巩俐用山东话念独白",
-      "onboard_time": 1697754198,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 25557,

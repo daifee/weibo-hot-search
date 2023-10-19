@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 06:33:55
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 07:17:08
 </p>
 </blockquote>
 <p>
@@ -2451,6 +2451,12 @@ MiuMiu钻石内裤（热度：1560241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E4%B8%8D%E8%89%AF%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3%23" target="weibo">
+23岁姑娘患乳腺癌与不良生活习惯有关（热度：1547572）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DOTA2%E4%B8%AD%E5%9B%BD%E9%98%9F%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B%23" target="weibo">
 DOTA2中国队晋级决赛（热度：1546862）
 </a>
@@ -3593,12 +3599,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%23" target="weibo">
 诺贝尔奖（热度：1191107）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E4%B8%8D%E8%89%AF%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3%23" target="weibo">
-23岁姑娘患乳腺癌与不良生活习惯有关（热度：1189879）
 </a>
 </li>
 
