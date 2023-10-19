@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697753759921,
+  "endTime": 1697754835216,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -5363,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 380011,
+      "num": 426123,
+      "word": "男子拒见3岁绝症女儿摔打妻子",
+      "onboard_time": 1697735361,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 378878,
       "num": 378878,
       "word": "娜扎黑色开叉长裙",
@@ -5721,6 +5729,14 @@
       "onboard_time": 1697614356,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 354255,
+      "num": 221860,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1697448394,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 353179,
@@ -6923,14 +6939,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 285623,
-      "num": 426123,
-      "word": "男子拒见3岁绝症女儿摔打妻子",
-      "onboard_time": 1697735361,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 285537,
       "num": 285537,
       "word": "为什么饮水机都在厕所旁边",
@@ -7609,14 +7617,6 @@
       "onboard_time": 1697428721,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260287,
-      "num": 221860,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1697448394,
-      "rank": 27,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 259927,
@@ -14019,6 +14019,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 59408,
+      "num": 76136,
+      "word": "HPV和HPV疫苗的相关科普",
+      "onboard_time": 1697748493,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59304,
       "num": 198162,
       "word": "华为平板让千年脸谱活起来了",
@@ -14041,6 +14049,22 @@
       "onboard_time": 1697583443,
       "rank": 47,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 57006,
+      "num": 66700,
+      "word": "当你的约会对象穿紧身牛仔裤时",
+      "onboard_time": 1697752995,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56289,
+      "num": 76178,
+      "word": "这届年轻人结婚越来越抠",
+      "onboard_time": 1697744834,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 55672,
@@ -14107,6 +14131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 52929,
+      "num": 66700,
+      "word": "学校让爷爷带孙子拍张两寸照",
+      "onboard_time": 1697753776,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 52553,
       "num": 265751,
       "word": "赵丽颖在家穿什么",
@@ -14129,14 +14161,6 @@
       "onboard_time": 1697397734,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 51440,
-      "num": 76136,
-      "word": "HPV和HPV疫苗的相关科普",
-      "onboard_time": 1697748493,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 50914,
@@ -14185,14 +14209,6 @@
       "onboard_time": 1697282013,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43778,
-      "num": 76178,
-      "word": "这届年轻人结婚越来越抠",
-      "onboard_time": 1697744834,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 43399,
@@ -14251,6 +14267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36497,
+      "num": 66700,
+      "word": "重庆迎来今秋第一场雪",
+      "onboard_time": 1697752214,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34742,
       "num": 1898520,
       "word": "一带一路铺就共同发展繁荣之路",
@@ -14289,6 +14313,14 @@
       "onboard_time": 1697335230,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32071,
+      "num": 76134,
+      "word": "爸爸拉着女儿假装在拍求职视频",
+      "onboard_time": 1697744414,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 30899,
@@ -14371,20 +14403,20 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 26130,
-      "num": 76134,
-      "word": "爸爸拉着女儿假装在拍求职视频",
-      "onboard_time": 1697744414,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 25908,
+      "num": 66700,
+      "word": "巩俐用山东话念独白",
+      "onboard_time": 1697754198,
+      "rank": 33,
+      "category": "艺人"
     },
     {
-      "raw_hot": 25629,
-      "num": 56458,
-      "word": "当你的约会对象穿紧身牛仔裤时",
-      "onboard_time": 1697752995,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 25557,
+      "num": 76197,
+      "word": "花少定档海报",
+      "onboard_time": 1697745914,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 25511,
@@ -14403,12 +14435,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 24617,
-      "num": 56479,
-      "word": "重庆迎来今秋第一场雪",
-      "onboard_time": 1697752214,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 25383,
+      "num": 76131,
+      "word": "阿拉伯国家都有哪些",
+      "onboard_time": 1697746573,
+      "rank": 47,
+      "category": "知识科普"
     },
     {
       "raw_hot": 24484,
@@ -14433,14 +14465,6 @@
       "onboard_time": 1697309895,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23497,
-      "num": 76197,
-      "word": "花少定档海报",
-      "onboard_time": 1697745914,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 23479,
@@ -14483,6 +14507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 20346,
+      "num": 66699,
+      "word": "放纵餐之后的补救方法",
+      "onboard_time": 1697753957,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 20265,
       "num": 986242,
       "word": "在太空改论文的导师快回来了",
@@ -14497,14 +14529,6 @@
       "onboard_time": 1697397554,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18757,
-      "num": 76131,
-      "word": "阿拉伯国家都有哪些",
-      "onboard_time": 1697746573,
-      "rank": 47,
-      "category": "知识科普"
     },
     {
       "raw_hot": 17788,

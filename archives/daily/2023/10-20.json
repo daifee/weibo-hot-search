@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697753759921,
+  "endTime": 1697754835216,
   "band_list": [
     {
       "raw_hot": 1189879,
@@ -51,6 +51,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 380011,
+      "num": 426123,
+      "word": "男子拒见3岁绝症女儿摔打妻子",
+      "onboard_time": 1697735361,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 354255,
+      "num": 92434,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1697744533,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 335181,
       "num": 450544,
       "word": "庆余年预约突破700万",
@@ -73,22 +89,6 @@
       "onboard_time": 1697715156,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285623,
-      "num": 426123,
-      "word": "男子拒见3岁绝症女儿摔打妻子",
-      "onboard_time": 1697735361,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 260287,
-      "num": 76245,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1697744533,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 255866,
@@ -459,6 +459,30 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59408,
+      "num": 76136,
+      "word": "HPV和HPV疫苗的相关科普",
+      "onboard_time": 1697748493,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 57006,
+      "num": 66700,
+      "word": "当你的约会对象穿紧身牛仔裤时",
+      "onboard_time": 1697752995,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 56289,
+      "num": 76178,
+      "word": "这届年轻人结婚越来越抠",
+      "onboard_time": 1697744834,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55672,
       "num": 421245,
       "word": "没有译制片腔调的翻译 有被吓到",
@@ -467,12 +491,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 51440,
-      "num": 76136,
-      "word": "HPV和HPV疫苗的相关科普",
-      "onboard_time": 1697748493,
-      "rank": 31,
-      "category": "健康医疗"
+      "raw_hot": 52929,
+      "num": 66700,
+      "word": "学校让爷爷带孙子拍张两寸照",
+      "onboard_time": 1697753776,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 49169,
@@ -480,14 +504,6 @@
       "word": "你的精神充电柱是什么",
       "onboard_time": 1697736679,
       "rank": 34,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 43778,
-      "num": 76178,
-      "word": "这届年轻人结婚越来越抠",
-      "onboard_time": 1697744834,
-      "rank": 21,
       "category": "情感"
     },
     {
@@ -499,6 +515,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36497,
+      "num": 66700,
+      "word": "重庆迎来今秋第一场雪",
+      "onboard_time": 1697752214,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 32071,
+      "num": 76134,
+      "word": "爸爸拉着女儿假装在拍求职视频",
+      "onboard_time": 1697744414,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27792,
       "num": 111822,
       "word": "立石俊树官宣结婚",
@@ -507,28 +539,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 26130,
-      "num": 76134,
-      "word": "爸爸拉着女儿假装在拍求职视频",
-      "onboard_time": 1697744414,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 25908,
+      "num": 66700,
+      "word": "巩俐用山东话念独白",
+      "onboard_time": 1697754198,
+      "rank": 33,
+      "category": "艺人"
     },
     {
-      "raw_hot": 25629,
-      "num": 56458,
-      "word": "当你的约会对象穿紧身牛仔裤时",
-      "onboard_time": 1697752995,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 25557,
+      "num": 76197,
+      "word": "花少定档海报",
+      "onboard_time": 1697745914,
+      "rank": 15,
+      "category": "综艺"
     },
     {
-      "raw_hot": 24617,
-      "num": 56479,
-      "word": "重庆迎来今秋第一场雪",
-      "onboard_time": 1697752214,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 25383,
+      "num": 76131,
+      "word": "阿拉伯国家都有哪些",
+      "onboard_time": 1697746573,
+      "rank": 47,
+      "category": "知识科普"
     },
     {
       "raw_hot": 23504,
@@ -539,20 +571,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 23497,
-      "num": 76197,
-      "word": "花少定档海报",
-      "onboard_time": 1697745914,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18757,
-      "num": 76131,
-      "word": "阿拉伯国家都有哪些",
-      "onboard_time": 1697746573,
-      "rank": 47,
-      "category": "知识科普"
+      "raw_hot": 20346,
+      "num": 66699,
+      "word": "放纵餐之后的补救方法",
+      "onboard_time": 1697753957,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 13624,
