@@ -1,0 +1,410 @@
+{
+  "runTime": 1697714076830,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2598954,
+        "num": 2598954,
+        "word": "曝韩国L姓顶级演员涉嫌吸毒",
+        "onboard_time": 1697708254,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298779,
+        "num": 1300126,
+        "word": "造型似外星人设备助中国企业拿海外订单",
+        "onboard_time": 1697708073,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8365,
+        "num": 1219285,
+        "word": "一带一路的100个故事",
+        "onboard_time": 1697618256,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1163208,
+        "num": 1163208,
+        "word": "14岁男孩口渴误喝百草枯肾衰竭",
+        "onboard_time": 1697710956,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151532,
+        "num": 756915,
+        "word": "折叠男孩今日出院想吃妈妈做的饭",
+        "onboard_time": 1697710418,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1774987,
+        "num": 751165,
+        "word": "百万粉丝网红罗大美遭熟人绑架杀害",
+        "onboard_time": 1697706156,
+        "rank": 5,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 695996,
+        "num": 695996,
+        "word": "苹果员工被曝涉嫌性侵米哈游职员",
+        "onboard_time": 1697705494,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 581884,
+        "num": 581884,
+        "word": "B站申请天官赐福谢怜商标",
+        "onboard_time": 1697712397,
+        "rank": 7,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 498459,
+        "num": 498459,
+        "word": "朱一龙 一怒之下怒了一下",
+        "onboard_time": 1697712756,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 368362,
+        "num": 368362,
+        "word": "要久久爱暂定Q4播出",
+        "onboard_time": 1697711916,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1088933,
+        "num": 366294,
+        "word": "海滩失踪女童遗体找到",
+        "onboard_time": 1697693016,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121153,
+        "num": 363546,
+        "word": "基建狂魔28天拉入16道岔爆改老火车站",
+        "onboard_time": 1697708497,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494999,
+        "num": 358079,
+        "word": "遭绑架网红罗大美遗体疑在红薯窖被找到",
+        "onboard_time": 1697710175,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 471178,
+        "num": 354325,
+        "word": "李善均",
+        "onboard_time": 1697708736,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456243,
+        "num": 350633,
+        "word": "独立咖啡店主诉苦被9块9咖啡卷死",
+        "onboard_time": 1697708497,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 445826,
+        "num": 349239,
+        "word": "陈奕迅发文回应澳门演唱会延期",
+        "onboard_time": 1697711737,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 345643,
+        "num": 345643,
+        "word": "女童父亲行为是否构成犯罪",
+        "onboard_time": 1697695424,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 341125,
+        "num": 341125,
+        "word": "海外同事吃饺子 一两one two",
+        "onboard_time": 1697711017,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 320393,
+        "num": 320393,
+        "word": "可可西里网红狼被游客投喂",
+        "onboard_time": 1697711256,
+        "rank": 18,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 301921,
+        "num": 301921,
+        "word": "韩素希新头像是TXT",
+        "onboard_time": 1697705555,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 933950,
+        "num": 301866,
+        "word": "萧敬腾林有慧官宣结婚",
+        "onboard_time": 1697702675,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358211,
+        "num": 301771,
+        "word": "终于找到过敏孩子变多的原因了",
+        "onboard_time": 1697713358,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301376,
+        "num": 301376,
+        "word": "爷爷去世男子高速上崩溃交警守护1小时",
+        "onboard_time": 1697710536,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292622,
+        "num": 292622,
+        "word": "G2战胜DK",
+        "onboard_time": 1697711136,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 283251,
+        "num": 283251,
+        "word": "杭州特色美食 萨莉亚",
+        "onboard_time": 1697711794,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 270562,
+        "num": 270562,
+        "word": "他从主公变成了公主",
+        "onboard_time": 1697697696,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269499,
+        "num": 269499,
+        "word": "于适这个主角是靠自己撕咬来的",
+        "onboard_time": 1697711975,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253632,
+        "num": 253632,
+        "word": "原来是随份子雨",
+        "onboard_time": 1697705013,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249626,
+        "num": 249626,
+        "word": "一名日籍药企员工涉间谍罪在华被捕",
+        "onboard_time": 1697706756,
+        "rank": 28,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 150225,
+        "num": 232926,
+        "word": "老姐妹识破骗局帮我保住15万",
+        "onboard_time": 1697714018,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460298,
+        "num": 232503,
+        "word": "线下那些卖三五百的衣服",
+        "onboard_time": 1697712277,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 231089,
+        "num": 231089,
+        "word": "只有黄凯在认真难过",
+        "onboard_time": 1697712996,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227580,
+        "num": 227580,
+        "word": "我的大叔",
+        "onboard_time": 1697713596,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226378,
+        "num": 226378,
+        "word": "王琳凯 公主请看vlog",
+        "onboard_time": 1697712095,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225370,
+        "num": 225370,
+        "word": "新娘刚下婚车就被系上围裙",
+        "onboard_time": 1697699497,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217562,
+        "num": 217562,
+        "word": "时代少年团下班穿出了四个季节",
+        "onboard_time": 1697711675,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207816,
+        "num": 207816,
+        "word": "原来二两米粉不是二两重的粉",
+        "onboard_time": 1697703456,
+        "rank": 36,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 219251,
+        "num": 207459,
+        "word": "白敬亭宋轶同款打卡",
+        "onboard_time": 1697696978,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206927,
+        "num": 206927,
+        "word": "周也给王星越戴狼耳朵",
+        "onboard_time": 1697713476,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205562,
+        "num": 205562,
+        "word": "郭麒麟越来越像郭德纲了",
+        "onboard_time": 1697704414,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204526,
+        "num": 204526,
+        "word": "NRG对战WBG",
+        "onboard_time": 1697709634,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 201624,
+        "num": 201624,
+        "word": "广州交警通报宝马与出租碰撞起火司机身亡",
+        "onboard_time": 1697707775,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190509,
+        "num": 190509,
+        "word": "塞尔维亚总统夫人逛秀水街",
+        "onboard_time": 1697705916,
+        "rank": 42,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 187231,
+        "num": 187231,
+        "word": "周也紫葡萄少女",
+        "onboard_time": 1697708797,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185171,
+        "num": 185171,
+        "word": "2023MAMA提名公布",
+        "onboard_time": 1697707296,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 176252,
+        "num": 176252,
+        "word": "崔胜澈不参与SEVENTEEN此次回归",
+        "onboard_time": 1697707356,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174828,
+        "num": 174828,
+        "word": "沈腾恭喜华晨宇把贾玲熬走了",
+        "onboard_time": 1697703814,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164494,
+        "num": 164494,
+        "word": "刘亦菲车展买法拉利经典回顾",
+        "onboard_time": 1697692235,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159327,
+        "num": 159327,
+        "word": "2岁娃逛动物园发现疑似金吊坠",
+        "onboard_time": 1697713776,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 154846,
+        "num": 154846,
+        "word": "女扮男装官方吐槽",
+        "onboard_time": 1697708974,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同出席开幕式的外方领导人集体合影#"
+    }
+  }
+}

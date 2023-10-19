@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 18:35:32
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 19:14:36
 </p>
 </blockquote>
 <p>
@@ -3657,6 +3657,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
+14岁男孩口渴误喝百草枯肾衰竭（热度：1163208）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%8E%E5%B7%B4%E5%AB%A9%23" target="weibo">
 黎巴嫩（热度：1162684）
 </a>
@@ -6005,12 +6011,6 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%88%AA%E4%BA%86%E4%B8%8B%E5%8D%8A%E8%BA%AB%E4%B9%8B%E5%90%8E%E7%9A%84%E7%BB%8F%E5%8E%86%23" target="weibo">
 男子被截了下半身之后的经历（热度：801317）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8B%9B%E8%81%98%E6%9C%88%E8%96%AA%E5%92%8C%E5%AE%9E%E9%99%85%E8%96%AA%E8%B5%84%E6%98%AF%E4%B8%A4%E5%9B%9E%E4%BA%8B%23" target="weibo">
-招聘月薪和实际薪资是两回事（热度：801220）
 </a>
 </li>
 
