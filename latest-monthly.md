@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 07:34:16
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 09:12:24
 </p>
 </blockquote>
 <p>
@@ -1197,6 +1197,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%8D%97%E4%BA%AC%E9%86%89%E9%85%92%E5%A5%B3%E5%AD%90%E8%A2%AB%E6%80%A7%E4%BE%B5%23" target="weibo">
+警方通报网传南京醉酒女子被性侵（热度：2066647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E9%A9%AC%E4%BB%95%E6%80%BB%E7%9B%91%E6%99%92%E5%92%8CAngelababy%E5%90%88%E7%85%A7%23" target="weibo">
 爱马仕总监晒和Angelababy合照（热度：2066511）
 </a>
@@ -2355,6 +2361,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E5%B7%B2%E7%AD%B9%E5%BE%97200%E4%B8%87%E5%85%83%23" target="weibo">
+四川被狗咬伤女童家属已筹得200万元（热度：1543387）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%B8%80%E6%B7%B1%E5%A4%9C%E5%8F%91%E9%95%BF%E6%96%87%23" target="weibo">
 林一深夜发长文（热度：1541898）
 </a>
@@ -2769,6 +2781,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%A5%A8%E5%8F%8D%E5%AF%B9%E8%87%B4%E5%AE%89%E7%90%86%E4%BC%9A%E6%9C%AA%E9%80%9A%E8%BF%87%E5%B7%B4%E4%BB%A5%E9%97%AE%E9%A2%98%E5%86%B3%E8%AE%AE%E8%8D%89%E6%A1%88%23" target="weibo">
+美国一票反对致安理会未通过巴以问题决议草案（热度：1378795）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90PPT%E4%B8%BE%E6%8A%A5%E5%89%8D%E5%A4%AB%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%8D%9A%E5%A3%AB%E9%80%A0%E5%81%87%23" target="weibo">
 女子PPT举报前夫婚内出轨博士造假（热度：1378166）
 </a>
@@ -2897,6 +2915,12 @@ IVE空降（热度：1376713）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92vs%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92%23" target="weibo">
 中国女排vs日本女排（热度：1348562）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E8%8E%B1%E5%9D%9E%E7%BF%BB%E6%8B%8D%E4%BD%A0%E5%A5%BD%E6%9D%8E%E7%84%95%E8%8B%B1%23" target="weibo">
+好莱坞翻拍你好李焕英（热度：1348426）
 </a>
 </li>
 
@@ -4851,6 +4875,12 @@ iPhone平均寿命将达8年（热度：910856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E7%9A%84%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%E9%83%BD%E5%9C%A8%E6%8E%A5%E5%8F%97%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2%23" target="weibo">
+全网的拉布拉多都在接受安全教育（热度：904368）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%B0%8F%E5%8F%AA%E5%91%8A%E5%88%AB%E4%BA%9A%E8%BF%90%E4%BC%9A%23" target="weibo">
 三小只告别亚运会（热度：903131）
 </a>
@@ -5199,6 +5229,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B%E5%A5%B3%E6%9C%8B%E5%8F%8B%23" target="weibo">
+覃海洋女朋友（热度：862968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%B0%86%E5%87%BA%E5%B8%ADGQ%E7%9B%9B%E5%85%B8%23" target="weibo">
 杨紫将出席GQ盛典（热度：861606）
 </a>
@@ -5285,6 +5321,12 @@ Xiaomi HyperOS（热度：858223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%AE%B2%E8%BF%B0%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%A4%A7%E5%9E%8B%E7%8A%AC%E6%92%95%E5%92%AC%E8%87%B4%E8%82%BE%E7%A0%B4%E8%A3%82%23" target="weibo">
 母亲讲述女童被大型犬撕咬致肾破裂（热度：855309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BD%93%E4%BC%B4%E9%83%8E%E6%9C%AA%E5%BD%92%E7%96%91%E8%A2%AB%E9%AA%97%E5%8E%BB%E7%BC%85%E7%94%B8%23" target="weibo">
+大学生当伴郎未归疑被骗去缅甸（热度：854256）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ Jennie巴黎时装周（热度：789463）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E9%AB%98%E9%93%81%E4%B8%8A%E5%81%B6%E9%81%87%E6%9C%B1%E4%B8%80%E9%BE%99%E6%8B%8D%E6%91%84%E8%B7%AF%E9%80%8F%23" target="weibo">
 网友高铁上偶遇朱一龙拍摄路透（热度：787451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%A2%A6%E7%BE%8E%E7%94%B2%23" target="weibo">
-李梦美甲（热度：786920）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%B0%86solo%E6%AD%8C%E6%89%8B%E5%87%BA%E9%81%93%23" target="weibo">
-徐穗珍将solo歌手出道（热度：786521）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%83%8C%E4%BA%86%E4%B8%80%E5%8C%85%E7%8E%A9%E5%81%B6%E7%A6%BB%E5%BC%80%E6%9D%AD%E5%B7%9E%23" target="weibo">
-全红婵背了一包玩偶离开杭州（热度：784844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E8%A2%AB%E9%AA%82%E5%BF%83%E5%A4%A7%23" target="weibo">
-上海走失女童父亲被骂心大（热度：784565）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E7%A7%B0%E4%B8%80%E5%90%8D%E4%B8%AD%E4%BB%A5%E6%B7%B7%E8%A1%80%E5%A5%B3%E5%AD%A9%E8%A2%AB%E7%BB%91%E6%9E%B6%23" target="weibo">
-以色列称一名中以混血女孩被绑架（热度：784235）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E8%A2%AB%E6%88%91%E4%B8%89%E5%8D%83%E5%9D%97%E7%9A%84%E5%B7%A5%E8%B5%84%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
-爸妈被我三千块的工资震惊到了（热度：783602）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E9%A3%9E%E6%9C%BA%E4%B8%8A%E6%8B%8D%E5%88%B0%E4%B8%80%E5%8D%8A%E6%B5%B7%E6%B0%B4%E4%B8%80%E5%8D%8A%E6%B2%99%E6%BC%A0%23" target="weibo">
-在飞机上拍到一半海水一半沙漠（热度：783449）
 </a>
 </li>
 
