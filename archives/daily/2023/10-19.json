@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697682886376,
+  "endTime": 1697685453553,
   "band_list": [
     {
       "raw_hot": 2390830,
@@ -67,6 +67,30 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1051652,
+      "num": 283652,
+      "word": "年存款2.4万是什么概念",
+      "onboard_time": 1697682694,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 937643,
+      "num": 937643,
+      "word": "陈律 那个合同真的是有效的",
+      "onboard_time": 1697675977,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 918347,
+      "num": 273710,
+      "word": "体制内的朋友圈越来越官方了",
+      "onboard_time": 1697681374,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 904368,
       "num": 480468,
       "word": "全网的拉布拉多都在接受安全教育",
@@ -81,6 +105,14 @@
       "onboard_time": 1697678855,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 881722,
+      "num": 380034,
+      "word": "麻辣烫好像有一套独立的计费系统",
+      "onboard_time": 1697682874,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 862968,
@@ -99,20 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 782177,
-      "num": 273710,
-      "word": "体制内的朋友圈越来越官方了",
-      "onboard_time": 1697681374,
-      "rank": 22,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 759783,
-      "num": 759783,
-      "word": "陈律 那个合同真的是有效的",
-      "onboard_time": 1697675977,
-      "rank": 4,
-      "category": "综艺"
+      "raw_hot": 807633,
+      "num": 375614,
+      "word": "济南巨响",
+      "onboard_time": 1697682632,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742041,
@@ -129,14 +153,6 @@
       "onboard_time": 1697635598,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 704171,
-      "num": 372427,
-      "word": "济南巨响",
-      "onboard_time": 1697682632,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 697446,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 632476,
-      "num": 619748,
+      "num": 619952,
       "word": "外媒称以色列军队已准备好进入加沙",
       "onboard_time": 1697680714,
       "rank": 6,
@@ -259,6 +275,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 455026,
+      "num": 455026,
+      "word": "刘亦菲林更新医院戏路透",
+      "onboard_time": 1697683173,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438556,
       "num": 235177,
       "word": "谈恋爱在一起久了真的会腻吗",
@@ -331,6 +355,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 381168,
+      "num": 381168,
+      "word": "虞书欣林小宅合影",
+      "onboard_time": 1697683355,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 375113,
       "num": 432796,
       "word": "酒吧街醉酒事件2人未发生实质性关系",
@@ -347,28 +379,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 360539,
+      "num": 360539,
+      "word": "生气身体的器官变化",
+      "onboard_time": 1697684134,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 350981,
       "num": 350981,
       "word": "广州地铁禁止恐怖形象进站",
       "onboard_time": 1697632298,
       "rank": 13,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 350039,
-      "num": 350039,
-      "word": "麻辣烫好像有一套独立的计费系统",
-      "onboard_time": 1697682874,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
-      "raw_hot": 349610,
-      "num": 268773,
-      "word": "年存款2.4万是什么概念",
-      "onboard_time": 1697682694,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 346243,
@@ -385,6 +409,22 @@
       "onboard_time": 1697673760,
       "rank": 22,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 341991,
+      "num": 257921,
+      "word": "领导问我能不能拿出10万",
+      "onboard_time": 1697682874,
+      "rank": 34,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 341265,
+      "num": 341265,
+      "word": "周杰伦间隔19年的两版倒带",
+      "onboard_time": 1697682454,
+      "rank": 28,
+      "category": "音乐"
     },
     {
       "raw_hot": 333505,
@@ -483,12 +523,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 254586,
-      "num": 254586,
-      "word": "周杰伦间隔19年的两版倒带",
-      "onboard_time": 1697682454,
-      "rank": 28,
-      "category": "音乐"
+      "raw_hot": 254099,
+      "num": 254099,
+      "word": "最好的夭璟",
+      "onboard_time": 1697683895,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 250575,
@@ -587,12 +627,28 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 213514,
+      "num": 361207,
+      "word": "小米14",
+      "onboard_time": 1697684433,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 211659,
       "num": 211659,
       "word": "于适健身迷失自我",
       "onboard_time": 1697644892,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207546,
+      "num": 207546,
+      "word": "古装悬疑探案繁城之下",
+      "onboard_time": 1697683832,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 205346,
@@ -611,14 +667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198515,
-      "num": 198515,
-      "word": "领导问我能不能拿出10万",
-      "onboard_time": 1697682874,
-      "rank": 34,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 198314,
       "num": 198314,
       "word": "陈瑶第3次一人分饰两角",
@@ -633,6 +681,14 @@
       "onboard_time": 1697676517,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 187182,
+      "num": 187182,
+      "word": "谁家男女主未嗑先be",
+      "onboard_time": 1697684493,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 183646,
@@ -705,6 +761,14 @@
       "onboard_time": 1697681973,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165846,
+      "num": 349471,
+      "word": "用淘宝AI办了场不花钱的婚礼",
+      "onboard_time": 1697682939,
+      "rank": 16,
+      "category": "科技,社会新闻"
     },
     {
       "raw_hot": 162792,
@@ -865,6 +929,14 @@
       "onboard_time": 1697637879,
       "rank": 35,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142639,
+      "num": 142639,
+      "word": "魏大勋的嗓音好适合唱民谣",
+      "onboard_time": 1697682996,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 142341,
@@ -1043,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 74183,
+      "num": 362232,
+      "word": "X5灵犀通信力压iPhone15",
+      "onboard_time": 1697682333,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 61699,
       "num": 693591,
       "word": "中国支持高质量共建一带一路八项行动",
@@ -1057,14 +1137,6 @@
       "onboard_time": 1697650758,
       "rank": 30,
       "category": "教育"
-    },
-    {
-      "raw_hot": 47263,
-      "num": 184522,
-      "word": "X5灵犀通信力压iPhone15",
-      "onboard_time": 1697682333,
-      "rank": 36,
-      "category": "数码"
     },
     {
       "raw_hot": 46332,
