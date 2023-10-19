@@ -1,14 +1,22 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697757428353,
+  "endTime": 1697758447946,
   "band_list": [
     {
-      "raw_hot": 1547572,
-      "num": 1547572,
+      "raw_hot": 1746126,
+      "num": 1746126,
       "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
       "onboard_time": 1697729435,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 968174,
+      "num": 250725,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1697744533,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 806698,
@@ -17,14 +25,6 @@
       "onboard_time": 1697725060,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 759116,
-      "num": 207490,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1697744533,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 717747,
@@ -43,6 +43,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 501160,
+      "num": 501160,
+      "word": "张小泉菜刀又现拍蒜断刀",
+      "onboard_time": 1697730515,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 485394,
       "num": 455612,
       "word": "EXO公司logo四叶草",
@@ -51,12 +59,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 484104,
-      "num": 484104,
-      "word": "张小泉菜刀又现拍蒜断刀",
-      "onboard_time": 1697730515,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 439639,
+      "num": 224275,
+      "word": "以安全部队与巴勒斯坦武装人员约旦河西岸交火",
+      "onboard_time": 1697756483,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 424384,
@@ -65,6 +73,14 @@
       "onboard_time": 1697722478,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 389793,
+      "num": 464264,
+      "word": "女孩自制计算器租给同学一天赚20多元",
+      "onboard_time": 1697718217,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335181,
@@ -91,11 +107,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 315202,
-      "num": 464264,
-      "word": "女孩自制计算器租给同学一天赚20多元",
-      "onboard_time": 1697718217,
-      "rank": 4,
+      "raw_hot": 260645,
+      "num": 260645,
+      "word": "姑娘给了送外卖的骑警两个橘子",
+      "onboard_time": 1697756421,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -123,12 +139,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237361,
+      "num": 237361,
+      "word": "G2回应抽中TheShy",
+      "onboard_time": 1697756543,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235054,
       "num": 452519,
       "word": "花海中的迪丽热巴",
       "onboard_time": 1697717976,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 227689,
+      "num": 227689,
+      "word": "6岁女儿教科书式自救与父团聚",
+      "onboard_time": 1697756543,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217512,
@@ -179,14 +211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199675,
-      "num": 79166,
-      "word": "以安全部队与巴勒斯坦武装人员约旦河西岸交火",
-      "onboard_time": 1697756483,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 193373,
       "num": 419154,
       "word": "入伍前170斤小伙现在能连做3600个俯卧撑",
@@ -203,12 +227,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163375,
+      "num": 208809,
+      "word": "当你的约会对象穿紧身牛仔裤时",
+      "onboard_time": 1697752995,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 157627,
       "num": 433347,
       "word": "田曦薇公主抱王鹤棣摔跤",
       "onboard_time": 1697722894,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157335,
+      "num": 208795,
+      "word": "这届年轻人结婚越来越抠",
+      "onboard_time": 1697744834,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 155547,
@@ -243,22 +283,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 147468,
-      "num": 202950,
-      "word": "G2回应抽中TheShy",
-      "onboard_time": 1697756543,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 147307,
-      "num": 127544,
-      "word": "当你的约会对象穿紧身牛仔裤时",
-      "onboard_time": 1697752995,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 143694,
       "num": 411662,
       "word": "外公跑一天给坐月子外孙女买土鸡蛋",
@@ -267,16 +291,24 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138732,
-      "num": 126841,
-      "word": "这届年轻人结婚越来越抠",
-      "onboard_time": 1697744834,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 139279,
+      "num": 208922,
+      "word": "贴满HelloKitty的网约车成长沙打卡点",
+      "onboard_time": 1697756603,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 137465,
+      "num": 208897,
+      "word": "男子被困溶洞2天邻居发现异常报警",
+      "onboard_time": 1697756543,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135142,
-      "num": 78801,
+      "num": 208416,
       "word": "学校让爷爷带孙子拍张两寸照",
       "onboard_time": 1697753776,
       "rank": 32,
@@ -289,22 +321,6 @@
       "onboard_time": 1697702675,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132462,
-      "num": 132462,
-      "word": "6岁女儿教科书式自救与父团聚",
-      "onboard_time": 1697756543,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 129956,
-      "num": 129956,
-      "word": "姑娘给了送外卖的骑警两个橘子",
-      "onboard_time": 1697756421,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 129477,
@@ -347,6 +363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 116576,
+      "num": 208724,
+      "word": "广东月收入多少才活的够滋润",
+      "onboard_time": 1697756421,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 111198,
       "num": 423986,
       "word": "毛晓彤在问心中职业细节拉满",
@@ -371,6 +395,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 102605,
+      "num": 407834,
+      "word": "曾舜晞演过TVB神剧使徒行者3",
+      "onboard_time": 1697735659,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102566,
       "num": 422811,
       "word": "TheShy亮iG队标",
@@ -379,12 +411,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 98228,
-      "num": 407834,
-      "word": "曾舜晞演过TVB神剧使徒行者3",
-      "onboard_time": 1697735659,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 102371,
+      "num": 208686,
+      "word": "秋季燃脂最快的减肥操",
+      "onboard_time": 1697755940,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 97083,
@@ -403,27 +435,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 94833,
-      "num": 129908,
-      "word": "贴满HelloKitty的网约车成长沙打卡点",
-      "onboard_time": 1697756603,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93223,
-      "num": 93223,
+      "raw_hot": 94805,
+      "num": 208666,
       "word": "重庆迎来今秋第一场雪",
       "onboard_time": 1697752214,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 92206,
-      "num": 128935,
-      "word": "男子被困溶洞2天邻居发现异常报警",
-      "onboard_time": 1697756543,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -451,22 +467,6 @@
       "category": "美食,幽默"
     },
     {
-      "raw_hot": 87068,
-      "num": 87068,
-      "word": "秋季燃脂最快的减肥操",
-      "onboard_time": 1697755940,
-      "rank": 27,
-      "category": "运动健身"
-    },
-    {
-      "raw_hot": 86598,
-      "num": 86598,
-      "word": "广东月收入多少才活的够滋润",
-      "onboard_time": 1697756421,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 82567,
       "num": 415799,
       "word": "韩素希新头像是TXT",
@@ -481,6 +481,14 @@
       "onboard_time": 1697721939,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 79785,
+      "num": 208608,
+      "word": "HPV和HPV疫苗的相关科普",
+      "onboard_time": 1697748493,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77865,
@@ -539,19 +547,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 67673,
-      "num": 76136,
-      "word": "HPV和HPV疫苗的相关科普",
-      "onboard_time": 1697748493,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 67405,
       "num": 413078,
       "word": "WBG 稳稳的幸福",
       "onboard_time": 1697715035,
       "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 65052,
+      "num": 208494,
+      "word": "G2 常看常新我去缓缓",
+      "onboard_time": 1697757806,
+      "rank": 37,
       "category": "电竞"
     },
     {
@@ -571,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 60312,
+      "num": 208475,
+      "word": "电视剧清明上河图密码开机",
+      "onboard_time": 1697758286,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58165,
       "num": 421245,
       "word": "没有译制片腔调的翻译 有被吓到",
@@ -579,8 +595,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55666,
-      "num": 76134,
+      "raw_hot": 55717,
+      "num": 208390,
       "word": "爸爸拉着女儿假装在拍求职视频",
       "onboard_time": 1697744414,
       "rank": 30,
@@ -593,6 +609,14 @@
       "onboard_time": 1697736679,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 44018,
+      "num": 208243,
+      "word": "武汉一未拴绳杜宾犬咬人被没收",
+      "onboard_time": 1697758348,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40106,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1697758447946,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1746126,
+        "num": 1746126,
+        "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+        "onboard_time": 1697729435,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 501160,
+        "num": 501160,
+        "word": "张小泉菜刀又现拍蒜断刀",
+        "onboard_time": 1697730515,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21970,
+        "num": 417825,
+        "word": "6张海报回顾一带一路动人故事",
+        "onboard_time": 1697721455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 389793,
+        "num": 389793,
+        "word": "女孩自制计算器租给同学一天赚20多元",
+        "onboard_time": 1697718217,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260645,
+        "num": 260645,
+        "word": "姑娘给了送外卖的骑警两个橘子",
+        "onboard_time": 1697756421,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 968174,
+        "num": 250725,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1697744533,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 237361,
+        "num": 237361,
+        "word": "G2回应抽中TheShy",
+        "onboard_time": 1697756543,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227689,
+        "num": 227689,
+        "word": "6岁女儿教科书式自救与父团聚",
+        "onboard_time": 1697756543,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225901,
+        "num": 225901,
+        "word": "警方回应两人与火车相撞不幸身亡",
+        "onboard_time": 1697719894,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140706,
+        "num": 224295,
+        "word": "花海中的迪丽热巴",
+        "onboard_time": 1697717976,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 439639,
+        "num": 224275,
+        "word": "以安全部队与巴勒斯坦武装人员约旦河西岸交火",
+        "onboard_time": 1697756483,
+        "rank": 10,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 223995,
+        "num": 223995,
+        "word": "宋威龙 三年不见男大十八变",
+        "onboard_time": 1697715156,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220299,
+        "num": 220299,
+        "word": "线下那些卖三五百的衣服",
+        "onboard_time": 1697712277,
+        "rank": 12,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 208988,
+        "num": 208988,
+        "word": "华晨宇的发际线",
+        "onboard_time": 1697729734,
+        "rank": 13,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 199852,
+        "num": 208968,
+        "word": "EXO公司logo四叶草",
+        "onboard_time": 1697728958,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148532,
+        "num": 208960,
+        "word": "罗大美遇害案3名嫌疑人已落网",
+        "onboard_time": 1697715935,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 184053,
+        "num": 208945,
+        "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+        "onboard_time": 1697719775,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139279,
+        "num": 208922,
+        "word": "贴满HelloKitty的网约车成长沙打卡点",
+        "onboard_time": 1697756603,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137465,
+        "num": 208897,
+        "word": "男子被困溶洞2天邻居发现异常报警",
+        "onboard_time": 1697756543,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121516,
+        "num": 208879,
+        "word": "外公跑一天给坐月子外孙女买土鸡蛋",
+        "onboard_time": 1697723436,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 551850,
+        "num": 208855,
+        "word": "男子拒见3岁绝症女儿摔打妻子",
+        "onboard_time": 1697735361,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193087,
+        "num": 208826,
+        "word": "7岁小女孩天生2个子宫3个肾",
+        "onboard_time": 1697716833,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163375,
+        "num": 208809,
+        "word": "当你的约会对象穿紧身牛仔裤时",
+        "onboard_time": 1697752995,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157335,
+        "num": 208795,
+        "word": "这届年轻人结婚越来越抠",
+        "onboard_time": 1697744834,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135640,
+        "num": 208776,
+        "word": "今年的古装爆剧",
+        "onboard_time": 1697727221,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 118136,
+        "num": 208740,
+        "word": "保证睡眠时间真的很重要",
+        "onboard_time": 1697719894,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116576,
+        "num": 208724,
+        "word": "广东月收入多少才活的够滋润",
+        "onboard_time": 1697756421,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102605,
+        "num": 208704,
+        "word": "曾舜晞演过TVB神剧使徒行者3",
+        "onboard_time": 1697735659,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102371,
+        "num": 208686,
+        "word": "秋季燃脂最快的减肥操",
+        "onboard_time": 1697755940,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 94805,
+        "num": 208666,
+        "word": "重庆迎来今秋第一场雪",
+        "onboard_time": 1697752214,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 91653,
+        "num": 208638,
+        "word": "S13瑞士轮第二轮抽签",
+        "onboard_time": 1697723376,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88332,
+        "num": 208623,
+        "word": "DK 疯牛病",
+        "onboard_time": 1697714254,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79785,
+        "num": 208608,
+        "word": "HPV和HPV疫苗的相关科普",
+        "onboard_time": 1697748493,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76288,
+        "num": 208576,
+        "word": "EDG出列",
+        "onboard_time": 1697725236,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75174,
+        "num": 208557,
+        "word": "田曦薇公主抱王鹤棣摔跤",
+        "onboard_time": 1697722894,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72053,
+        "num": 208542,
+        "word": "怎么处理朋友送的廉价礼物",
+        "onboard_time": 1697733805,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65328,
+        "num": 208522,
+        "word": "BLG现场给Yagao过生日",
+        "onboard_time": 1697727877,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65052,
+        "num": 208494,
+        "word": "G2 常看常新我去缓缓",
+        "onboard_time": 1697757806,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60312,
+        "num": 208475,
+        "word": "电视剧清明上河图密码开机",
+        "onboard_time": 1697758286,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58927,
+        "num": 208455,
+        "word": "建议吴京别看这期王牌",
+        "onboard_time": 1697726498,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57536,
+        "num": 208445,
+        "word": "萧敬腾林有慧官宣结婚",
+        "onboard_time": 1697702675,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57306,
+        "num": 208416,
+        "word": "学校让爷爷带孙子拍张两寸照",
+        "onboard_time": 1697753776,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55717,
+        "num": 208390,
+        "word": "爸爸拉着女儿假装在拍求职视频",
+        "onboard_time": 1697744414,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55414,
+        "num": 208380,
+        "word": "没有译制片腔调的翻译 有被吓到",
+        "onboard_time": 1697733386,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 52487,
+        "num": 208352,
+        "word": "芒果TV崩了",
+        "onboard_time": 1697716775,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50957,
+        "num": 208330,
+        "word": "2023MAMA最佳男女团预测",
+        "onboard_time": 1697724578,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 50839,
+        "num": 208322,
+        "word": "BLG将对战JDG",
+        "onboard_time": 1697726138,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48553,
+        "num": 208290,
+        "word": "当女法医是一件很酷的事儿",
+        "onboard_time": 1697734164,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48091,
+        "num": 208272,
+        "word": "毛晓彤港风氛围感",
+        "onboard_time": 1697734464,
+        "rank": 48,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 44018,
+        "num": 208243,
+        "word": "武汉一未拴绳杜宾犬咬人被没收",
+        "onboard_time": 1697758348,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}
