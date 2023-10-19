@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/19 00:22:41 ~ 2023/10/19 10:23:39
+本榜单时间：2023/10/19 00:22:41 ~ 2023/10/19 10:34:46
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%9C%89%E4%B8%80%E7%9E%AC%E9%97%B4%E7%9A%84%E7%97%9B%E8%8B%A6%E5%90%97%23" target="weibo">
-跳楼自杀真的只有一瞬间的痛苦吗（热度：2330341）
+跳楼自杀真的只有一瞬间的痛苦吗（热度：2390830）
 </a>
 </li>
 
@@ -87,8 +87,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%AE%98%E6%96%B9%E4%BA%86%23" target="weibo">
+体制内的朋友圈越来越官方了（热度：782177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%8B%20%E9%82%A3%E4%B8%AA%E5%90%88%E5%90%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%89%E6%95%88%E7%9A%84%23" target="weibo">
-陈律 那个合同真的是有效的（热度：751925）
+陈律 那个合同真的是有效的（热度：759783）
 </a>
 </li>
 
@@ -105,8 +111,14 @@ EXO变成CEO了（热度：717213）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%B7%A8%E5%93%8D%23" target="weibo">
+济南巨响（热度：704171）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%81%AD%E5%AE%B6%E6%9A%B4%E7%A6%BB%E5%A9%9A1%E5%B9%B4%E5%90%8E%E4%B8%BA%E5%AD%A9%E5%AD%90%E5%A4%8D%E5%A9%9A%23" target="weibo">
-女子遭家暴离婚1年后为孩子复婚（热度：663474）
+女子遭家暴离婚1年后为孩子复婚（热度：697446）
 </a>
 </li>
 
@@ -123,14 +135,14 @@ EXO变成CEO了（热度：717213）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%88%B6%E5%A5%B3%E7%A6%BB%E5%A2%83%E4%BC%A0%E9%97%BB%23" target="weibo">
-碧桂园回应创始人父女离境传闻（热度：631738）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%9B%E5%85%A5%E5%8A%A0%E6%B2%99%23" target="weibo">
+外媒称以色列军队已准备好进入加沙（热度：632476）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E7%A7%B0%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E9%98%9F%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%9B%E5%85%A5%E5%8A%A0%E6%B2%99%23" target="weibo">
-外媒称以色列军队已准备好进入加沙（热度：619748）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A2%A7%E6%A1%82%E5%9B%AD%E5%9B%9E%E5%BA%94%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%88%B6%E5%A5%B3%E7%A6%BB%E5%A2%83%E4%BC%A0%E9%97%BB%23" target="weibo">
+碧桂园回应创始人父女离境传闻（热度：631738）
 </a>
 </li>
 
@@ -149,12 +161,6 @@ EXO变成CEO了（热度：717213）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23seventeen%23" target="weibo">
 seventeen（热度：567856）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%AE%98%E6%96%B9%E4%BA%86%23" target="weibo">
-体制内的朋友圈越来越官方了（热度：563066）
 </a>
 </li>
 
@@ -273,6 +279,18 @@ seventeen（热度：567856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%A5%BD%E5%83%8F%E6%9C%89%E4%B8%80%E5%A5%97%E7%8B%AC%E7%AB%8B%E7%9A%84%E8%AE%A1%E8%B4%B9%E7%B3%BB%E7%BB%9F%23" target="weibo">
+麻辣烫好像有一套独立的计费系统（热度：350039）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E5%AD%98%E6%AC%BE2.4%E4%B8%87%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5%23" target="weibo">
+年存款2.4万是什么概念（热度：349610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%A5%95%E5%B8%A6%E5%A5%B3%E5%84%BF%E5%8E%BB%E7%8E%8B%E5%BF%83%E5%87%8C%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 黄奕带女儿去王心凌演唱会（热度：346243）
 </a>
@@ -309,6 +327,12 @@ seventeen（热度：567856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E9%81%87%E5%BD%92%E5%B7%A2%E5%AD%A3%23" target="weibo">
+光遇归巢季（热度：314639）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC1912%E7%8E%84%E6%AD%A6%E9%85%92%E5%90%A7%23" target="weibo">
 南京1912玄武酒吧（热度：313416）
 </a>
@@ -333,6 +357,12 @@ seventeen（热度：567856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%96%B0%E5%89%A7%E4%B8%8B%E8%AF%81%23" target="weibo">
+杨紫范丞丞新剧下证（热度：281595）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%98%E6%B1%B0%E5%86%8D%E5%87%BA%E9%81%93%20%E8%BF%99%E9%9B%86%E6%88%91%E5%A5%BD%E5%83%8F%E7%9C%8B%E8%BF%87%23" target="weibo">
 淘汰再出道 这集我好像看过（热度：273299）
 </a>
@@ -345,8 +375,14 @@ seventeen（热度：567856）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E8%8C%83%E4%B8%9E%E4%B8%9E%E6%96%B0%E5%89%A7%E4%B8%8B%E8%AF%81%23" target="weibo">
-杨紫范丞丞新剧下证（热度：268182）
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%97%B4%E9%9A%9419%E5%B9%B4%E7%9A%84%E4%B8%A4%E7%89%88%E5%80%92%E5%B8%A6%23" target="weibo">
+周杰伦间隔19年的两版倒带（热度：254586）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BF%9B%E7%BB%84%E4%BA%86%23" target="weibo">
+白鹿进组了（热度：250575）
 </a>
 </li>
 
@@ -371,6 +407,12 @@ A股（热度：248735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%AE%A9%E7%94%B0%E6%9B%A6%E8%96%87%E6%BC%94%E4%B8%AA%E4%BE%A0%E5%A5%B3%E5%90%A7%23" target="weibo">
 快让田曦薇演个侠女吧（热度：239780）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E7%94%9F%E7%89%A9%E5%AD%A6%E5%AE%B6%E5%84%BF%E6%97%B6%E5%B8%B8%E8%80%83%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%23" target="weibo">
+36岁生物学家儿时常考倒数第一（热度：238714）
 </a>
 </li>
 
@@ -423,14 +465,14 @@ A股（热度：248735）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2336%E5%B2%81%E7%94%9F%E7%89%A9%E5%AD%A6%E5%AE%B6%E5%84%BF%E6%97%B6%E5%B8%B8%E8%80%83%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%23" target="weibo">
-36岁生物学家儿时常考倒数第一（热度：204277）
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BF%8A%E5%8B%89%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8B%85%E5%BF%83EXO%E7%9A%84%E6%B4%BB%E5%8A%A8%23" target="weibo">
+金俊勉说不要担心EXO的活动（热度：201468）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BF%8A%E5%8B%89%E8%AF%B4%E4%B8%8D%E8%A6%81%E6%8B%85%E5%BF%83EXO%E7%9A%84%E6%B4%BB%E5%8A%A8%23" target="weibo">
-金俊勉说不要担心EXO的活动（热度：201468）
+<a href="https://s.weibo.com/weibo?q=%23%E9%A2%86%E5%AF%BC%E9%97%AE%E6%88%91%E8%83%BD%E4%B8%8D%E8%83%BD%E6%8B%BF%E5%87%BA10%E4%B8%87%23" target="weibo">
+领导问我能不能拿出10万（热度：198515）
 </a>
 </li>
 
@@ -449,6 +491,12 @@ A股（热度：248735）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%9C%E6%89%8E%E9%BB%91%E8%89%B2%E5%BC%80%E5%8F%89%E9%95%BF%E8%A3%99%23" target="weibo">
 娜扎黑色开叉长裙（热度：183646）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A51999%23" target="weibo">
+重返未来1999（热度：183190）
 </a>
 </li>
 
@@ -501,6 +549,12 @@ A股（热度：248735）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E6%B6%89%E8%BF%87%E6%84%A4%E6%80%92%E7%9A%84%E6%B5%B7%E5%AE%9A%E6%A1%A3%23" target="weibo">
+电影涉过愤怒的海定档（热度：162291）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23SEVENTEEN%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E5%90%8C%E5%A3%B0%E7%BF%BB%E8%AF%91%23" target="weibo">
 SEVENTEEN有自己的同声翻译（热度：161427）
 </a>
@@ -543,6 +597,12 @@ SEVENTEEN有自己的同声翻译（热度：161427）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E5%B0%94%E5%8D%8A%E5%9C%BA29%E5%88%86%23" target="weibo">
+普尔半场29分（热度：157059）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%8A%BD%E7%AD%BE%23" target="weibo">
 王者荣耀抽签（热度：156237）
 </a>
@@ -575,12 +635,6 @@ SEVENTEEN有自己的同声翻译（热度：161427）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%9F%B3%E6%A6%B4%E5%8F%88%E5%A4%A7%E5%8F%88%E7%94%9C%23" target="weibo">
 来自中国的石榴又大又甜（热度：149110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E5%B0%94%E5%8D%8A%E5%9C%BA29%E5%88%86%23" target="weibo">
-普尔半场29分（热度：147628）
 </a>
 </li>
 
@@ -623,12 +677,6 @@ SEVENTEEN有自己的同声翻译（热度：161427）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E8%80%95%E7%BA%AA%E7%88%B1%E5%A5%87%E8%89%BA%E7%83%AD%E5%BA%A6%E5%80%BC%E7%A0%B48888%23" target="weibo">
 田耕纪爱奇艺热度值破8888（热度：139947）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E8%BF%9B%E7%BB%84%E4%BA%86%23" target="weibo">
-白鹿进组了（热度：139167）
 </a>
 </li>
 
@@ -755,6 +803,12 @@ iPhone15Plus价格暴降（热度：76598）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E4%B8%80%E5%B9%B4%E6%88%91%E5%AF%B9%E4%BA%BA%E7%94%9F%E6%9C%89%E4%BA%86%E6%9B%B4%E5%A4%9A%E7%9A%84%E6%83%B3%E8%B1%A1%23" target="weibo">
 留学一年我对人生有了更多的想象（热度：60005）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23X5%E7%81%B5%E7%8A%80%E9%80%9A%E4%BF%A1%E5%8A%9B%E5%8E%8BiPhone15%23" target="weibo">
+X5灵犀通信力压iPhone15（热度：47263）
 </a>
 </li>
 

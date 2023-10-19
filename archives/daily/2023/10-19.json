@@ -1,9 +1,9 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697682219142,
+  "endTime": 1697682886376,
   "band_list": [
     {
-      "raw_hot": 2330341,
+      "raw_hot": 2390830,
       "num": 375656,
       "word": "跳楼自杀真的只有一瞬间的痛苦吗",
       "onboard_time": 1697679159,
@@ -99,8 +99,16 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 751925,
-      "num": 751925,
+      "raw_hot": 782177,
+      "num": 273710,
+      "word": "体制内的朋友圈越来越官方了",
+      "onboard_time": 1697681374,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 759783,
+      "num": 759783,
       "word": "陈律 那个合同真的是有效的",
       "onboard_time": 1697675977,
       "rank": 4,
@@ -123,8 +131,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 663474,
-      "num": 262483,
+      "raw_hot": 704171,
+      "num": 372427,
+      "word": "济南巨响",
+      "onboard_time": 1697682632,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 697446,
+      "num": 271976,
       "word": "女子遭家暴离婚1年后为孩子复婚",
       "onboard_time": 1697679759,
       "rank": 21,
@@ -147,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 632476,
+      "num": 619748,
+      "word": "外媒称以色列军队已准备好进入加沙",
+      "onboard_time": 1697680714,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 631738,
       "num": 631738,
       "word": "碧桂园回应创始人父女离境传闻",
       "onboard_time": 1697680052,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 619748,
-      "num": 619748,
-      "word": "外媒称以色列军队已准备好进入加沙",
-      "onboard_time": 1697680714,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 616120,
@@ -185,14 +201,6 @@
       "onboard_time": 1697643514,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 563066,
-      "num": 256620,
-      "word": "体制内的朋友圈越来越官方了",
-      "onboard_time": 1697681374,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 561152,
@@ -347,6 +355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 350039,
+      "num": 350039,
+      "word": "麻辣烫好像有一套独立的计费系统",
+      "onboard_time": 1697682874,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 349610,
+      "num": 268773,
+      "word": "年存款2.4万是什么概念",
+      "onboard_time": 1697682694,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 346243,
       "num": 346243,
       "word": "黄奕带女儿去王心凌演唱会",
@@ -395,6 +419,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 314639,
+      "num": 261535,
+      "word": "光遇归巢季",
+      "onboard_time": 1697682694,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 313416,
       "num": 313416,
       "word": "南京1912玄武酒吧",
@@ -427,6 +459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281595,
+      "num": 281595,
+      "word": "杨紫范丞丞新剧下证",
+      "onboard_time": 1697677416,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273299,
       "num": 273299,
       "word": "淘汰再出道 这集我好像看过",
@@ -443,11 +483,19 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 268182,
-      "num": 268182,
-      "word": "杨紫范丞丞新剧下证",
-      "onboard_time": 1697677416,
-      "rank": 31,
+      "raw_hot": 254586,
+      "num": 254586,
+      "word": "周杰伦间隔19年的两版倒带",
+      "onboard_time": 1697682454,
+      "rank": 28,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 250575,
+      "num": 250575,
+      "word": "白鹿进组了",
+      "onboard_time": 1697682093,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -481,6 +529,14 @@
       "onboard_time": 1697677298,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 238714,
+      "num": 238714,
+      "word": "36岁生物学家儿时常考倒数第一",
+      "onboard_time": 1697681253,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 235093,
@@ -547,20 +603,20 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 204277,
-      "num": 204277,
-      "word": "36岁生物学家儿时常考倒数第一",
-      "onboard_time": 1697681253,
-      "rank": 32,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 201468,
       "num": 201468,
       "word": "金俊勉说不要担心EXO的活动",
       "onboard_time": 1697675377,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198515,
+      "num": 198515,
+      "word": "领导问我能不能拿出10万",
+      "onboard_time": 1697682874,
+      "rank": 34,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 198314,
@@ -585,6 +641,14 @@
       "onboard_time": 1697637636,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 183190,
+      "num": 183190,
+      "word": "重返未来1999",
+      "onboard_time": 1697682213,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 178036,
@@ -651,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162291,
+      "num": 162291,
+      "word": "电影涉过愤怒的海定档",
+      "onboard_time": 1697682874,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 161427,
       "num": 161427,
       "word": "SEVENTEEN有自己的同声翻译",
@@ -707,6 +779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157059,
+      "num": 157059,
+      "word": "普尔半场29分",
+      "onboard_time": 1697682035,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156237,
       "num": 156237,
       "word": "王者荣耀抽签",
@@ -753,14 +833,6 @@
       "onboard_time": 1697680358,
       "rank": 43,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 147628,
-      "num": 147628,
-      "word": "普尔半场29分",
-      "onboard_time": 1697682035,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 147561,
@@ -816,14 +888,6 @@
       "word": "田耕纪爱奇艺热度值破8888",
       "onboard_time": 1697642559,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 139167,
-      "num": 139167,
-      "word": "白鹿进组了",
-      "onboard_time": 1697682093,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -993,6 +1057,14 @@
       "onboard_time": 1697650758,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 47263,
+      "num": 184522,
+      "word": "X5灵犀通信力压iPhone15",
+      "onboard_time": 1697682333,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 46332,

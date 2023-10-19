@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 10:23:39
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 10:34:46
 </p>
 </blockquote>
 <p>
@@ -717,6 +717,12 @@ DIOR 迪丽热巴（热度：2432400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%9C%89%E4%B8%80%E7%9E%AC%E9%97%B4%E7%9A%84%E7%97%9B%E8%8B%A6%E5%90%97%23" target="weibo">
+跳楼自杀真的只有一瞬间的痛苦吗（热度：2390830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E5%A5%BD%E7%BE%8E%23" target="weibo">
 林雨薇好美（热度：2389731）
 </a>
@@ -773,12 +779,6 @@ DIOR 迪丽热巴（热度：2432400）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B4%9D%E5%AB%82%E8%B0%88%E8%B4%9D%E5%85%8B%E6%B1%89%E5%A7%86%E5%87%BA%E8%BD%A8%23" target="weibo">
 贝嫂谈贝克汉姆出轨（热度：2340387）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%B3%E6%A5%BC%E8%87%AA%E6%9D%80%E7%9C%9F%E7%9A%84%E5%8F%AA%E6%9C%89%E4%B8%80%E7%9E%AC%E9%97%B4%E7%9A%84%E7%97%9B%E8%8B%A6%E5%90%97%23" target="weibo">
-跳楼自杀真的只有一瞬间的痛苦吗（热度：2330341）
 </a>
 </li>
 
