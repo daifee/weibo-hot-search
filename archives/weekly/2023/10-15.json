@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697742840288,
+  "endTime": 1697744040320,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -14505,6 +14505,14 @@
       "onboard_time": 1697570836,
       "rank": 49,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 13624,
+      "num": 48964,
+      "word": "满脑子都是左双桃一声亲老公",
+      "onboard_time": 1697743094,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 12196,
