@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 21:36:22
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 22:16:51
 </p>
 </blockquote>
 <p>
@@ -1851,6 +1851,12 @@ K5133次旅客列车运行中脱轨（热度：1792980）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Bin%E5%93%A5%E7%89%9B%E5%95%8A%23" target="weibo">
+Bin哥牛啊（热度：1766274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%99%9A%E4%B8%8A%E5%87%8F%E8%82%A5%E6%97%B6%E7%82%B9%E7%94%9C%E5%93%81%23" target="weibo">
 樊振东晚上减肥时点甜品（热度：1760781）
 </a>
@@ -2681,6 +2687,12 @@ iPhone被曝夜间自动关机（热度：1459310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%AD%BB%E5%90%8E%E4%BD%93%E5%86%85%E9%87%8D%E8%A6%81%E9%83%A8%E5%88%86%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E6%B4%BB%E5%A4%9A%E5%B9%B4%23" target="weibo">
 人死后体内重要部分还能继续活多年（热度：1438522）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B8%A61%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%81%B6%E7%8B%97%E6%92%95%E5%92%AC3%E5%88%86%E9%92%9F%23" target="weibo">
+老人带1岁男童回家被恶狗撕咬3分钟（热度：1437488）
 </a>
 </li>
 
@@ -3575,6 +3587,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%A5%96%23" target="weibo">
 诺贝尔奖（热度：1191107）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23S13%E7%91%9E%E5%A3%AB%E8%BD%AE%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%8A%BD%E7%AD%BE%23" target="weibo">
+S13瑞士轮第二轮抽签（热度：1188859）
 </a>
 </li>
 
@@ -5223,6 +5241,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E4%BA%AC%E7%AD%89%E5%9C%B0%E6%8B%9F%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E7%BC%96%E5%88%B6%23" target="weibo">
+官方回应北京等地拟取消教师编制（热度：883609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B%E8%B7%B3%E6%B0%B4%E7%82%B8%E9%B1%BC%E6%8A%8A%E8%87%AA%E5%B7%B1%E9%80%97%E7%AC%91%E4%BA%86%23" target="weibo">
 泰国选手跳水炸鱼把自己逗笑了（热度：883116）
 </a>
@@ -5363,6 +5387,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%23" target="weibo">
 王皓（热度：871704）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E4%B8%A4%E4%BA%BA%E4%B8%8E%E7%81%AB%E8%BD%A6%E7%9B%B8%E6%92%9E%E4%B8%8D%E5%B9%B8%E8%BA%AB%E4%BA%A1%23" target="weibo">
+警方回应两人与火车相撞不幸身亡（热度：871584）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E4%B8%80%E5%AD%A6%E7%94%9F%E8%A2%AB%E5%90%8C%E5%AD%A6%E5%BC%BA%E8%BF%AB%E5%90%B8%E6%B0%A8%E6%B0%94%E7%97%85%E5%8D%B1%23" target="weibo">
 成都一学生被同学强迫吸氨气病危（热度：806677）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%A6%88%E4%BB%8E%E7%A6%8F%E5%BB%BA%E5%B8%A6%E5%9B%9E%E6%9D%A51200%E4%B8%80%E6%96%A4%E7%9A%84%E8%8F%8C%E8%8F%87%23" target="weibo">
-我妈从福建带回来1200一斤的菌菇（热度：806225）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E5%9C%86%E6%A2%A6%E6%97%B6%E5%88%BB%23" target="weibo">
-肖战杭州亚运圆梦时刻（热度：805819）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%AF%E9%A3%9E%E5%91%98%E5%B7%A5%E5%9B%A0%E6%8F%90%E5%89%8D%E4%B8%80%E5%B0%8F%E6%97%B6%E6%8A%A2%E8%80%81%E4%B9%A1%E9%B8%A1%E5%85%8D%E8%B4%B9%E9%A4%90%E8%A2%AB%E7%BD%9A%23" target="weibo">
-讯飞员工因提前一小时抢老乡鸡免费餐被罚（热度：805226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%8A%23" target="weibo">
-多囊（热度：805071）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%83%BD%E5%8F%8D%E6%84%9F%E5%8A%A0%E7%8F%AD%23" target="weibo">
-为什么年轻人都反感加班（热度：804663）
 </a>
 </li>
 

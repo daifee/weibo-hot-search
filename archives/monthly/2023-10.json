@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697722582267,
+  "endTime": 1697725011378,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2451,6 +2451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1766274,
+      "num": 1766274,
+      "word": "Bin哥牛啊",
+      "onboard_time": 1697722478,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1760781,
       "num": 1760781,
       "word": "樊振东晚上减肥时点甜品",
@@ -3561,6 +3569,14 @@
       "onboard_time": 1696225355,
       "rank": 3,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 1437488,
+      "num": 1437488,
+      "word": "老人带1岁男童回家被恶狗撕咬3分钟",
+      "onboard_time": 1697721156,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1436478,
@@ -4753,6 +4769,14 @@
       "onboard_time": 1696240474,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1188859,
+      "num": 1188859,
+      "word": "S13瑞士轮第二轮抽签",
+      "onboard_time": 1697723376,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1186946,
@@ -6947,6 +6971,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 883609,
+      "num": 883609,
+      "word": "官方回应北京等地拟取消教师编制",
+      "onboard_time": 1697721098,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 883116,
       "num": 883116,
       "word": "泰国选手跳水炸鱼把自己逗笑了",
@@ -7137,6 +7169,14 @@
       "onboard_time": 1696231355,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 871584,
+      "num": 871584,
+      "word": "警方回应两人与火车相撞不幸身亡",
+      "onboard_time": 1697719894,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 871538,
@@ -8576,14 +8616,6 @@
       "word": "街道辟谣四川被咬女童先动手砸狗",
       "onboard_time": 1697714196,
       "rank": 21,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 768234,
-      "num": 768234,
-      "word": "警方回应两人与火车相撞不幸身亡",
-      "onboard_time": 1697719894,
-      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -12355,14 +12387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 578145,
-      "num": 578145,
-      "word": "Bin哥牛啊",
-      "onboard_time": 1697722478,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 577860,
       "num": 577860,
       "word": "张小斐这个动图谁懂",
@@ -13225,6 +13249,14 @@
       "onboard_time": 1696261178,
       "rank": 20,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 543171,
+      "num": 543171,
+      "word": "G2战胜DK",
+      "onboard_time": 1697711136,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 542839,
@@ -15083,6 +15115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 488549,
+      "num": 488549,
+      "word": "毛晓彤在问心中职业细节拉满",
+      "onboard_time": 1697720373,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 488176,
       "num": 488176,
       "word": "夜色尚浅",
@@ -15545,14 +15585,6 @@
       "onboard_time": 1696492532,
       "rank": 11,
       "category": "艺人,幽默"
-    },
-    {
-      "raw_hot": 476045,
-      "num": 476045,
-      "word": "毛晓彤在问心中职业细节拉满",
-      "onboard_time": 1697720373,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 476008,
@@ -16137,14 +16169,6 @@
       "onboard_time": 1697689178,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 462250,
-      "num": 462250,
-      "word": "官方回应北京等地拟取消教师编制",
-      "onboard_time": 1697721098,
-      "rank": 18,
-      "category": "教育"
     },
     {
       "raw_hot": 462247,
@@ -17195,14 +17219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 440007,
-      "num": 440007,
-      "word": "G2战胜DK",
-      "onboard_time": 1697711136,
-      "rank": 15,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 439961,
       "num": 439961,
       "word": "蒲熠星刘奕君聊到电竞停不下来",
@@ -17673,6 +17689,14 @@
       "onboard_time": 1697453674,
       "rank": 22,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 427572,
+      "num": 427572,
+      "word": "田曦薇公主抱王鹤棣摔跤",
+      "onboard_time": 1697722894,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 427534,
@@ -22547,14 +22571,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 335906,
-      "num": 335906,
-      "word": "老人带1岁男童回家被恶狗撕咬3分钟",
-      "onboard_time": 1697721156,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 335858,
       "num": 208730,
       "word": "张踩铃 到底是什么毁了大胖媳妇",
@@ -22793,6 +22809,14 @@
       "onboard_time": 1697023053,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 332756,
+      "num": 332756,
+      "word": "LPL瑞士轮首日全胜",
+      "onboard_time": 1697724634,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 332539,
@@ -23403,6 +23427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322804,
+      "num": 322804,
+      "word": "S13瑞士轮第二轮赛程",
+      "onboard_time": 1697724518,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 322575,
       "num": 322575,
       "word": "逆战 咏春",
@@ -23689,6 +23721,14 @@
       "onboard_time": 1697098594,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 318785,
+      "num": 308601,
+      "word": "保证睡眠时间真的很重要",
+      "onboard_time": 1697719894,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 318734,
@@ -24523,6 +24563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306009,
+      "num": 306009,
+      "word": "Smallcc回应离队",
+      "onboard_time": 1697724036,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305957,
       "num": 305957,
       "word": "孙悦51岁第一次跑马",
@@ -24945,6 +24993,14 @@
       "onboard_time": 1696937134,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301338,
+      "num": 301338,
+      "word": "王俊凯去乌镇戏剧节了",
+      "onboard_time": 1697721939,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 301318,
@@ -26065,6 +26121,14 @@
       "onboard_time": 1697156557,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288429,
+      "num": 288429,
+      "word": "花少姐姐们的耳饰",
+      "onboard_time": 1697723318,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 288389,
@@ -28873,6 +28937,14 @@
       "onboard_time": 1696844976,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 261687,
+      "num": 261687,
+      "word": "BLG战胜KT",
+      "onboard_time": 1697722539,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 261632,
@@ -31867,6 +31939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235699,
+      "num": 235699,
+      "word": "LCK瑞士轮首败",
+      "onboard_time": 1697723917,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 235636,
       "num": 235636,
       "word": "心疼逆战组",
@@ -32073,6 +32153,14 @@
       "onboard_time": 1696125091,
       "rank": 33,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 234257,
+      "num": 234257,
+      "word": "2023MAMA最佳男女团预测",
+      "onboard_time": 1697724578,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 234124,
@@ -37971,14 +38059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197504,
-      "num": 197504,
-      "word": "王俊凯去乌镇戏剧节了",
-      "onboard_time": 1697721939,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 197467,
       "num": 197467,
       "word": "李诗沣好稳的二单",
@@ -38009,14 +38089,6 @@
       "onboard_time": 1697013157,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 197354,
-      "num": 197354,
-      "word": "保证睡眠时间真的很重要",
-      "onboard_time": 1697719894,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197337,
@@ -39737,6 +39809,14 @@
       "onboard_time": 1697185116,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190084,
+      "num": 190084,
+      "word": "外公跑一天给坐月子外孙女买土鸡蛋",
+      "onboard_time": 1697723436,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 190053,
@@ -42747,6 +42827,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 174112,
+      "num": 174112,
+      "word": "第一次见男明星聊多巴胺穿搭",
+      "onboard_time": 1697724996,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 174094,
       "num": 992020,
       "word": "援藏组15年戈壁滩上种200万棵苗木",
@@ -45267,6 +45355,14 @@
       "category": "社会新闻,体育"
     },
     {
+      "raw_hot": 157923,
+      "num": 157923,
+      "word": "向涵之男装",
+      "onboard_time": 1697724823,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157826,
       "num": 157826,
       "word": "张艺兴问贝壳们请假理由",
@@ -45281,14 +45377,6 @@
       "onboard_time": 1696314692,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157785,
-      "num": 157785,
-      "word": "BLG战胜KT",
-      "onboard_time": 1697722539,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 157704,
@@ -47561,6 +47649,14 @@
       "onboard_time": 1696995757,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 139638,
+      "num": 139638,
+      "word": "姥姥带大的女孩用自己的方式爱护老人",
+      "onboard_time": 1697722776,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 139631,
@@ -52307,6 +52403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41372,
+      "num": 1278822,
+      "word": "6张海报回顾一带一路动人故事",
+      "onboard_time": 1697721455,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40567,
       "num": 54357,
       "word": "游戏使用孙红雷这瓜保熟吗被告",
@@ -52591,14 +52695,6 @@
       "num": 2981624,
       "word": "一带一路倡议十周年",
       "onboard_time": 1696322372,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 31735,
-      "num": 775979,
-      "word": "6张海报回顾一带一路动人故事",
-      "onboard_time": 1697721455,
       "rank": 2,
       "category": "社会新闻"
     },
