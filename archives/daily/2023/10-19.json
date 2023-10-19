@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697718845402,
+  "endTime": 1697719825938,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1012617,
-      "num": 429878,
+      "num": 444240,
       "word": "宋威龙 三年不见男大十八变",
       "onboard_time": 1697715156,
       "rank": 34,
@@ -345,6 +345,14 @@
       "onboard_time": 1697691098,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814451,
+      "num": 761230,
+      "word": "花海中的迪丽热巴",
+      "onboard_time": 1697717976,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 811640,
@@ -531,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626655,
+      "num": 626655,
+      "word": "3D还原上海女童走失过程",
+      "onboard_time": 1697717736,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 616120,
       "num": 616120,
       "word": "天官赐福 进不去",
@@ -601,14 +617,6 @@
       "onboard_time": 1697715935,
       "rank": 6,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 557508,
-      "num": 557508,
-      "word": "花海中的迪丽热巴",
-      "onboard_time": 1697717976,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 547105,
@@ -827,6 +835,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 447554,
+      "num": 447554,
+      "word": "陕西省政协原主席韩勇被查",
+      "onboard_time": 1697718574,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 446860,
       "num": 285819,
       "word": "男子遛禁养犬被查后带狗飞奔",
@@ -873,14 +889,6 @@
       "onboard_time": 1697678017,
       "rank": 8,
       "category": "演出"
-    },
-    {
-      "raw_hot": 431191,
-      "num": 431191,
-      "word": "3D还原上海女童走失过程",
-      "onboard_time": 1697717736,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431019,
@@ -1043,6 +1051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 358649,
+      "num": 358649,
+      "word": "于适胸肌充血",
+      "onboard_time": 1697717916,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358410,
       "num": 314390,
       "word": "王子文的项链上有五只蝴蝶",
@@ -1089,14 +1105,6 @@
       "onboard_time": 1697673760,
       "rank": 22,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 343800,
-      "num": 343800,
-      "word": "于适胸肌充血",
-      "onboard_time": 1697717916,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 343389,
@@ -1161,6 +1169,14 @@
       "onboard_time": 1697673213,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 326889,
+      "num": 326889,
+      "word": "女孩自制计算器租给同学一天赚20多元",
+      "onboard_time": 1697718217,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 325239,
@@ -1265,14 +1281,6 @@
       "onboard_time": 1697634634,
       "rank": 17,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 291366,
-      "num": 291366,
-      "word": "女孩自制计算器租给同学一天赚20多元",
-      "onboard_time": 1697718217,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 290977,
@@ -1779,6 +1787,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 211063,
+      "num": 211063,
+      "word": "官方回应济南巨响",
+      "onboard_time": 1697716295,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210324,
       "num": 210324,
       "word": "虞书欣巴黎ootd",
@@ -1843,6 +1859,14 @@
       "category": "母婴育儿,知识科普"
     },
     {
+      "raw_hot": 205859,
+      "num": 205859,
+      "word": "LNG战胜FNC",
+      "onboard_time": 1697719356,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205346,
       "num": 205346,
       "word": "天官赐福第二季开播",
@@ -1857,14 +1881,6 @@
       "onboard_time": 1697703218,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 202965,
-      "num": 202965,
-      "word": "陕西省政协原主席韩勇被查",
-      "onboard_time": 1697718574,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202904,
@@ -1907,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199278,
+      "num": 199278,
+      "word": "压力给到BLG",
+      "onboard_time": 1697719536,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198416,
       "num": 198416,
       "word": "谁来开旋转木马呢",
@@ -1921,6 +1945,14 @@
       "onboard_time": 1697681557,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197312,
+      "num": 197312,
+      "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+      "onboard_time": 1697719775,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 196983,
@@ -2051,6 +2083,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184231,
+      "num": 184231,
+      "word": "BLG对战KT",
+      "onboard_time": 1697719477,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183646,
       "num": 183646,
       "word": "娜扎黑色开叉长裙",
@@ -2169,14 +2209,6 @@
       "onboard_time": 1697710175,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 174475,
-      "num": 174475,
-      "word": "官方回应济南巨响",
-      "onboard_time": 1697716295,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 172742,

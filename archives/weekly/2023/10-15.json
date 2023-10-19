@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697718845402,
+  "endTime": 1697719825938,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -1468,7 +1468,7 @@
     },
     {
       "raw_hot": 1012617,
-      "num": 429878,
+      "num": 444240,
       "word": "宋威龙 三年不见男大十八变",
       "onboard_time": 1697715156,
       "rank": 34,
@@ -2033,6 +2033,14 @@
       "onboard_time": 1697333489,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 814451,
+      "num": 761230,
+      "word": "花海中的迪丽热巴",
+      "onboard_time": 1697717976,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 814059,
@@ -2835,6 +2843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 626655,
+      "num": 626655,
+      "word": "3D还原上海女童走失过程",
+      "onboard_time": 1697717736,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620344,
       "num": 620344,
       "word": "以军方回应路透社记者身亡",
@@ -3241,14 +3257,6 @@
       "onboard_time": 1697425771,
       "rank": 7,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 557508,
-      "num": 557508,
-      "word": "花海中的迪丽热巴",
-      "onboard_time": 1697717976,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 557244,
@@ -4315,6 +4323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 447554,
+      "num": 447554,
+      "word": "陕西省政协原主席韩勇被查",
+      "onboard_time": 1697718574,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447206,
       "num": 434839,
       "word": "白敬亭假动作钓出两个卧底",
@@ -4545,14 +4561,6 @@
       "onboard_time": 1697631996,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431191,
-      "num": 431191,
-      "word": "3D还原上海女童走失过程",
-      "onboard_time": 1697717736,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431125,
@@ -5435,6 +5443,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358649,
+      "num": 358649,
+      "word": "于适胸肌充血",
+      "onboard_time": 1697717916,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358637,
       "num": 358637,
       "word": "95后称还没去婚礼先参加了葬礼",
@@ -5649,14 +5665,6 @@
       "onboard_time": 1697456674,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 343800,
-      "num": 343800,
-      "word": "于适胸肌充血",
-      "onboard_time": 1697717916,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 343704,
@@ -5993,6 +6001,14 @@
       "onboard_time": 1697548298,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326889,
+      "num": 326889,
+      "word": "女孩自制计算器租给同学一天赚20多元",
+      "onboard_time": 1697718217,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326817,
@@ -6569,14 +6585,6 @@
       "onboard_time": 1697419773,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 291366,
-      "num": 291366,
-      "word": "女孩自制计算器租给同学一天赚20多元",
-      "onboard_time": 1697718217,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291289,
@@ -8771,6 +8779,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 211063,
+      "num": 211063,
+      "word": "官方回应济南巨响",
+      "onboard_time": 1697716295,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210721,
       "num": 210721,
       "word": "十个勤天不工作时还会回去种地",
@@ -8985,6 +9001,14 @@
       "onboard_time": 1697430219,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 205859,
+      "num": 205859,
+      "word": "LNG战胜FNC",
+      "onboard_time": 1697719356,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 205794,
@@ -9225,14 +9249,6 @@
       "onboard_time": 1697300070,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202965,
-      "num": 202965,
-      "word": "陕西省政协原主席韩勇被查",
-      "onboard_time": 1697718574,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202904,
@@ -9507,6 +9523,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 199278,
+      "num": 199278,
+      "word": "压力给到BLG",
+      "onboard_time": 1697719536,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199148,
       "num": 199148,
       "word": "KPL",
@@ -9649,6 +9673,14 @@
       "onboard_time": 1697361155,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197312,
+      "num": 197312,
+      "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+      "onboard_time": 1697719775,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 197261,
@@ -10475,6 +10507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184231,
+      "num": 184231,
+      "word": "BLG对战KT",
+      "onboard_time": 1697719477,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183908,
       "num": 183908,
       "word": "魏牌高山",
@@ -10937,14 +10977,6 @@
       "onboard_time": 1697364458,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 174475,
-      "num": 174475,
-      "word": "官方回应济南巨响",
-      "onboard_time": 1697716295,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174414,

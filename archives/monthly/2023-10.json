@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697718845402,
+  "endTime": 1697719825938,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5796,7 +5796,7 @@
     },
     {
       "raw_hot": 1012617,
-      "num": 429878,
+      "num": 444240,
       "word": "宋威龙 三年不见男大十八变",
       "onboard_time": 1697715156,
       "rank": 34,
@@ -7809,6 +7809,14 @@
       "onboard_time": 1696994976,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 814451,
+      "num": 761230,
+      "word": "花海中的迪丽热巴",
+      "onboard_time": 1697717976,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 814059,
@@ -11083,6 +11091,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 626655,
+      "num": 626655,
+      "word": "3D还原上海女童走失过程",
+      "onboard_time": 1697717736,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626560,
       "num": 626560,
       "word": "韩国地铁凌晨五点坐满了人",
@@ -12809,14 +12825,6 @@
       "onboard_time": 1697108794,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 557508,
-      "num": 557508,
-      "word": "花海中的迪丽热巴",
-      "onboard_time": 1697717976,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 557244,
@@ -16763,6 +16771,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 447554,
+      "num": 447554,
+      "word": "陕西省政协原主席韩勇被查",
+      "onboard_time": 1697718574,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 447206,
       "num": 434839,
       "word": "白敬亭假动作钓出两个卧底",
@@ -17473,14 +17489,6 @@
       "onboard_time": 1697631996,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 431191,
-      "num": 431191,
-      "word": "3D还原上海女童走失过程",
-      "onboard_time": 1697717736,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 431125,
@@ -20931,6 +20939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 358649,
+      "num": 358649,
+      "word": "于适胸肌充血",
+      "onboard_time": 1697717916,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 358648,
       "num": 358648,
       "word": "王耀庆 组队",
@@ -21929,14 +21945,6 @@
       "onboard_time": 1697168796,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 343800,
-      "num": 343800,
-      "word": "于适胸肌充血",
-      "onboard_time": 1697717916,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 343791,
@@ -23057,6 +23065,14 @@
       "onboard_time": 1696334979,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 326889,
+      "num": 326889,
+      "word": "女孩自制计算器租给同学一天赚20多元",
+      "onboard_time": 1697718217,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326817,
@@ -25617,14 +25633,6 @@
       "onboard_time": 1697419773,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 291366,
-      "num": 291366,
-      "word": "女孩自制计算器租给同学一天赚20多元",
-      "onboard_time": 1697718217,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 291289,
@@ -34915,6 +34923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 211063,
+      "num": 211063,
+      "word": "官方回应济南巨响",
+      "onboard_time": 1697716295,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210982,
       "num": 210982,
       "word": "白敬亭播报助威中国乒乓",
@@ -35859,6 +35875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205859,
+      "num": 205859,
+      "word": "LNG战胜FNC",
+      "onboard_time": 1697719356,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205818,
       "num": 205818,
       "word": "和三星堆拍照的正确姿势",
@@ -36545,14 +36569,6 @@
       "onboard_time": 1697300070,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 202965,
-      "num": 202965,
-      "word": "陕西省政协原主席韩勇被查",
-      "onboard_time": 1697718574,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202960,
@@ -37459,6 +37475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199278,
+      "num": 199278,
+      "word": "压力给到BLG",
+      "onboard_time": 1697719536,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199273,
       "num": 199273,
       "word": "吴姝彤10公里马拉松游泳金牌",
@@ -37905,6 +37929,14 @@
       "onboard_time": 1697361155,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 197312,
+      "num": 197312,
+      "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+      "onboard_time": 1697719775,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 197267,
@@ -40811,6 +40843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184231,
+      "num": 184231,
+      "word": "BLG对战KT",
+      "onboard_time": 1697719477,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184201,
       "num": 184201,
       "word": "陈清晨贾一凡",
@@ -42521,14 +42561,6 @@
       "onboard_time": 1696496431,
       "rank": 39,
       "category": "社会新闻,幽默"
-    },
-    {
-      "raw_hot": 174475,
-      "num": 174475,
-      "word": "官方回应济南巨响",
-      "onboard_time": 1697716295,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 174428,
