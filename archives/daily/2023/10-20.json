@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697735756022,
+  "endTime": 1697736838709,
   "band_list": [
     {
       "raw_hot": 1189879,
@@ -161,6 +161,14 @@
       "onboard_time": 1697719775,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196713,
+      "num": 426123,
+      "word": "男子拒见3岁绝症女儿摔打妻子",
+      "onboard_time": 1697735361,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193373,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 78483,
+      "num": 407834,
+      "word": "曾舜晞演过TVB神剧使徒行者3",
+      "onboard_time": 1697735659,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77865,
       "num": 77865,
       "word": "大熊猫与小朋友隔窗一起吃零食",
@@ -364,7 +380,7 @@
     },
     {
       "raw_hot": 75329,
-      "num": 75329,
+      "num": 305929,
       "word": "建议吴京别看这期王牌",
       "onboard_time": 1697726498,
       "rank": 42,
@@ -396,7 +412,7 @@
     },
     {
       "raw_hot": 70318,
-      "num": 70318,
+      "num": 308080,
       "word": "BLG将对战JDG",
       "onboard_time": 1697726138,
       "rank": 47,
@@ -427,14 +443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 57798,
-      "num": 426123,
-      "word": "男子拒见3岁绝症女儿摔打妻子",
-      "onboard_time": 1697735361,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 55672,
       "num": 421245,
       "word": "没有译制片腔调的翻译 有被吓到",
@@ -443,12 +451,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 39500,
-      "num": 407834,
-      "word": "曾舜晞演过TVB神剧使徒行者3",
-      "onboard_time": 1697735659,
-      "rank": 48,
-      "category": "剧集"
+      "raw_hot": 49169,
+      "num": 311742,
+      "word": "你的精神充电柱是什么",
+      "onboard_time": 1697736679,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 38889,
