@@ -1,0 +1,410 @@
+{
+  "runTime": 1697728691642,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 709880,
+        "num": 879276,
+        "word": "Bin哥牛啊",
+        "onboard_time": 1697722478,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 562753,
+        "num": 562753,
+        "word": "庆余年预约突破700万",
+        "onboard_time": 1697727696,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39896,
+        "num": 531241,
+        "word": "6张海报回顾一带一路动人故事",
+        "onboard_time": 1697721455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 505405,
+        "num": 505405,
+        "word": "EDG出列",
+        "onboard_time": 1697725236,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 458191,
+        "num": 458191,
+        "word": "向涵之男装",
+        "onboard_time": 1697724823,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 452399,
+        "num": 452399,
+        "word": "警方回应两人与火车相撞不幸身亡",
+        "onboard_time": 1697719894,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 436750,
+        "num": 436750,
+        "word": "S13瑞士轮第二轮抽签",
+        "onboard_time": 1697723376,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1740005,
+        "num": 427211,
+        "word": "老人带1岁男童回家被恶狗撕咬3分钟",
+        "onboard_time": 1697721156,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2016419,
+        "num": 425840,
+        "word": "专家称海滩失踪女童父亲太理想化",
+        "onboard_time": 1697725060,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405600,
+        "num": 405600,
+        "word": "花海中的迪丽热巴",
+        "onboard_time": 1697717976,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 500639,
+        "num": 405339,
+        "word": "宋威龙 三年不见男大十八变",
+        "onboard_time": 1697715156,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 404948,
+        "num": 404948,
+        "word": "田曦薇公主抱王鹤棣摔跤",
+        "onboard_time": 1697722894,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382640,
+        "num": 382640,
+        "word": "DK 疯牛病",
+        "onboard_time": 1697714254,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 327566,
+        "num": 327566,
+        "word": "女孩自制计算器租给同学一天赚20多元",
+        "onboard_time": 1697718217,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298916,
+        "num": 298916,
+        "word": "线下那些卖三五百的衣服",
+        "onboard_time": 1697712277,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 289518,
+        "num": 289518,
+        "word": "Elk刷新S13单场伤害纪录",
+        "onboard_time": 1697725177,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 283538,
+        "num": 283538,
+        "word": "2023MAMA最佳男女团预测",
+        "onboard_time": 1697724578,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 526907,
+        "num": 273008,
+        "word": "官方回应北京等地拟取消教师编制",
+        "onboard_time": 1697721098,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258797,
+        "num": 258797,
+        "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+        "onboard_time": 1697719775,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258381,
+        "num": 258381,
+        "word": "入伍前170斤小伙现在能连做3600个俯卧撑",
+        "onboard_time": 1697726738,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399519,
+        "num": 258245,
+        "word": "7岁小女孩天生2个子宫3个肾",
+        "onboard_time": 1697716833,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 397351,
+        "num": 257402,
+        "word": "今年的古装爆剧",
+        "onboard_time": 1697727221,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291979,
+        "num": 256786,
+        "word": "萧敬腾林有慧官宣结婚",
+        "onboard_time": 1697702675,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258824,
+        "num": 256488,
+        "word": "第一次见男明星聊多巴胺穿搭",
+        "onboard_time": 1697724996,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 152311,
+        "num": 255566,
+        "word": "罗大美遇害案3名嫌疑人已落网",
+        "onboard_time": 1697715935,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 149668,
+        "num": 255263,
+        "word": "大熊猫与小朋友隔窗一起吃零食",
+        "onboard_time": 1697725537,
+        "rank": 25,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 254944,
+        "num": 254944,
+        "word": "保证睡眠时间真的很重要",
+        "onboard_time": 1697719894,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 237474,
+        "num": 237474,
+        "word": "芒果TV崩了",
+        "onboard_time": 1697716775,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 253941,
+        "num": 234029,
+        "word": "3D还原上海女童走失过程",
+        "onboard_time": 1697717736,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229292,
+        "num": 229292,
+        "word": "建议吴京别看这期王牌",
+        "onboard_time": 1697726498,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223451,
+        "num": 223451,
+        "word": "WBG将对战G2",
+        "onboard_time": 1697725657,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205489,
+        "num": 205489,
+        "word": "BLG现场给Yagao过生日",
+        "onboard_time": 1697727877,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204898,
+        "num": 204898,
+        "word": "王多多解说",
+        "onboard_time": 1697725420,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199955,
+        "num": 199955,
+        "word": "毛晓彤在问心中职业细节拉满",
+        "onboard_time": 1697720373,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190863,
+        "num": 190863,
+        "word": "B站申请天官赐福谢怜商标",
+        "onboard_time": 1697712397,
+        "rank": 34,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 170627,
+        "num": 170627,
+        "word": "在宿舍吃螺蛳粉被舍友说了",
+        "onboard_time": 1697721455,
+        "rank": 35,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 170053,
+        "num": 170053,
+        "word": "NCT日本队出道曲公开",
+        "onboard_time": 1697728060,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 167219,
+        "num": 167219,
+        "word": "王俊凯去乌镇戏剧节了",
+        "onboard_time": 1697721939,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163238,
+        "num": 163238,
+        "word": "考研人开始卷茶叶了",
+        "onboard_time": 1697720193,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137112,
+        "num": 155022,
+        "word": "外公跑一天给坐月子外孙女买土鸡蛋",
+        "onboard_time": 1697723436,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147211,
+        "num": 147211,
+        "word": "崔胜澈不参与SEVENTEEN此次回归",
+        "onboard_time": 1697707356,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142117,
+        "num": 142117,
+        "word": "TheShy亮iG队标",
+        "onboard_time": 1697715216,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134152,
+        "num": 134152,
+        "word": "等一个周也王星越二搭",
+        "onboard_time": 1697714317,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129764,
+        "num": 129764,
+        "word": "14岁男孩口渴误喝百草枯肾衰竭",
+        "onboard_time": 1697710956,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122132,
+        "num": 122132,
+        "word": "苹果员工被曝涉嫌性侵米哈游职员",
+        "onboard_time": 1697705494,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119623,
+        "num": 119623,
+        "word": "陈奕迅发文回应澳门演唱会延期",
+        "onboard_time": 1697711737,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115563,
+        "num": 115563,
+        "word": "G2战胜DK",
+        "onboard_time": 1697711136,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114662,
+        "num": 114662,
+        "word": "S13瑞士轮第二轮赛程",
+        "onboard_time": 1697724518,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108175,
+        "num": 108175,
+        "word": "辛芷蕾首档真人秀",
+        "onboard_time": 1697722358,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106906,
+        "num": 106906,
+        "word": "花少姐姐们的耳饰",
+        "onboard_time": 1697723318,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中泰友好深深植根于两国人民心中#"
+    }
+  }
+}

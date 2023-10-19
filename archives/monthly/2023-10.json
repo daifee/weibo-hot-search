@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697726067366,
+  "endTime": 1697728691642,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1761,6 +1761,14 @@
       "onboard_time": 1697349331,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 2016419,
+      "num": 425840,
+      "word": "专家称海滩失踪女童父亲太理想化",
+      "onboard_time": 1697725060,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2016058,
@@ -12755,6 +12763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 562753,
+      "num": 562753,
+      "word": "庆余年预约突破700万",
+      "onboard_time": 1697727696,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 562744,
       "num": 562744,
       "word": "杨鸣担任辽宁益胜总裁兼总教练",
@@ -14523,6 +14539,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 505405,
+      "num": 505405,
+      "word": "EDG出列",
+      "onboard_time": 1697725236,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 505326,
       "num": 419236,
       "word": "陈立农跳女孩白月光回来了",
@@ -15108,7 +15132,7 @@
     },
     {
       "raw_hot": 489305,
-      "num": 422530,
+      "num": 458191,
       "word": "向涵之男装",
       "onboard_time": 1697724823,
       "rank": 45,
@@ -18947,6 +18971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 397351,
+      "num": 257402,
+      "word": "今年的古装爆剧",
+      "onboard_time": 1697727221,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 397311,
       "num": 397311,
       "word": "于文文的何必后劲太大了",
@@ -19993,14 +20025,6 @@
       "onboard_time": 1697445754,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378484,
-      "num": 378484,
-      "word": "专家称海滩失踪女童父亲太理想化",
-      "onboard_time": 1697725060,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 378067,
@@ -21513,14 +21537,6 @@
       "onboard_time": 1696235973,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351753,
-      "num": 351753,
-      "word": "EDG出列",
-      "onboard_time": 1697725236,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 351583,
@@ -25987,6 +26003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289518,
+      "num": 289518,
+      "word": "Elk刷新S13单场伤害纪录",
+      "onboard_time": 1697725177,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 289327,
       "num": 289327,
       "word": "最好的夭璟",
@@ -26681,6 +26705,14 @@
       "onboard_time": 1697529875,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 283538,
+      "num": 283538,
+      "word": "2023MAMA最佳男女团预测",
+      "onboard_time": 1697724578,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 283251,
@@ -29291,6 +29323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 258824,
+      "num": 256488,
+      "word": "第一次见男明星聊多巴胺穿搭",
+      "onboard_time": 1697724996,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 258748,
       "num": 258748,
       "word": "宋佳工作室出图好真实",
@@ -29313,6 +29353,14 @@
       "onboard_time": 1696247855,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 258381,
+      "num": 258381,
+      "word": "入伍前170斤小伙现在能连做3600个俯卧撑",
+      "onboard_time": 1697726738,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 258096,
@@ -29921,14 +29969,6 @@
       "onboard_time": 1697543734,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 252856,
-      "num": 252856,
-      "word": "2023MAMA最佳男女团预测",
-      "onboard_time": 1697724578,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 252846,
@@ -32236,7 +32276,7 @@
     },
     {
       "raw_hot": 233856,
-      "num": 233856,
+      "num": 255263,
       "word": "大熊猫与小朋友隔窗一起吃零食",
       "onboard_time": 1697725537,
       "rank": 30,
@@ -32705,6 +32745,14 @@
       "onboard_time": 1696570175,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229292,
+      "num": 229292,
+      "word": "建议吴京别看这期王牌",
+      "onboard_time": 1697726498,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 229264,
@@ -33579,14 +33627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 223325,
-      "num": 223325,
-      "word": "第一次见男明星聊多巴胺穿搭",
-      "onboard_time": 1697724996,
-      "rank": 41,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 223321,
       "num": 173255,
       "word": "梅西 在利马的又一场重要胜利",
@@ -34417,14 +34457,6 @@
       "onboard_time": 1696849893,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 216263,
-      "num": 216263,
-      "word": "Elk刷新S13单场伤害纪录",
-      "onboard_time": 1697725177,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 216226,
@@ -36211,6 +36243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205489,
+      "num": 205489,
+      "word": "BLG现场给Yagao过生日",
+      "onboard_time": 1697727877,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205448,
       "num": 205448,
       "word": "想听的脱口秀大会在复旦",
@@ -36353,6 +36393,14 @@
       "onboard_time": 1696216593,
       "rank": 46,
       "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 204898,
+      "num": 204898,
+      "word": "王多多解说",
+      "onboard_time": 1697725420,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 204862,
@@ -36561,14 +36609,6 @@
       "onboard_time": 1696933242,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 204031,
-      "num": 204031,
-      "word": "王多多解说",
-      "onboard_time": 1697725420,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 204000,
@@ -43473,6 +43513,14 @@
       "onboard_time": 1696592196,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170053,
+      "num": 170053,
+      "word": "NCT日本队出道曲公开",
+      "onboard_time": 1697728060,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 170005,
@@ -53653,6 +53701,9 @@
     },
     {
       "word": "#习近平会见联合国秘书长#"
+    },
+    {
+      "word": "#中泰友好深深植根于两国人民心中#"
     }
   ]
 }

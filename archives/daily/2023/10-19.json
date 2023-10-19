@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697726067366,
+  "endTime": 1697728691642,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -96,6 +96,14 @@
       "word": "苹果员工被曝涉嫌性侵米哈游职员",
       "onboard_time": 1697705494,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2016419,
+      "num": 425840,
+      "word": "专家称海滩失踪女童父亲太理想化",
+      "onboard_time": 1697725060,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -667,6 +675,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 562753,
+      "num": 562753,
+      "word": "庆余年预约突破700万",
+      "onboard_time": 1697727696,
+      "rank": 1,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 561152,
       "num": 561152,
       "word": "杜华说不想再养NAME了",
@@ -763,6 +779,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 505405,
+      "num": 505405,
+      "word": "EDG出列",
+      "onboard_time": 1697725236,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 504320,
       "num": 504320,
       "word": "毛晓彤在问心中职业细节拉满",
@@ -804,7 +828,7 @@
     },
     {
       "raw_hot": 489305,
-      "num": 422530,
+      "num": 458191,
       "word": "向涵之男装",
       "onboard_time": 1697724823,
       "rank": 45,
@@ -1067,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 397351,
+      "num": 257402,
+      "word": "今年的古装爆剧",
+      "onboard_time": 1697727221,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 390386,
       "num": 390386,
       "word": "WBG 稳稳的幸福",
@@ -1113,14 +1145,6 @@
       "onboard_time": 1697683355,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 378484,
-      "num": 378484,
-      "word": "专家称海滩失踪女童父亲太理想化",
-      "onboard_time": 1697725060,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 376381,
@@ -1200,14 +1224,6 @@
       "word": "T1对战TL",
       "onboard_time": 1697695003,
       "rank": 15,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 351753,
-      "num": 351753,
-      "word": "EDG出列",
-      "onboard_time": 1697725236,
-      "rank": 18,
       "category": "电竞"
     },
     {
@@ -1467,6 +1483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289518,
+      "num": 289518,
+      "word": "Elk刷新S13单场伤害纪录",
+      "onboard_time": 1697725177,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 289327,
       "num": 289327,
       "word": "最好的夭璟",
@@ -1513,6 +1537,14 @@
       "onboard_time": 1697696320,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 283538,
+      "num": 283538,
+      "word": "2023MAMA最佳男女团预测",
+      "onboard_time": 1697724578,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 283251,
@@ -1675,6 +1707,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 258824,
+      "num": 256488,
+      "word": "第一次见男明星聊多巴胺穿搭",
+      "onboard_time": 1697724996,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 258381,
+      "num": 258381,
+      "word": "入伍前170斤小伙现在能连做3600个俯卧撑",
+      "onboard_time": 1697726738,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256793,
       "num": 256793,
       "word": "用肚子收伞后居然黄体破裂了",
@@ -1713,14 +1761,6 @@
       "onboard_time": 1697699857,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 252856,
-      "num": 252856,
-      "word": "2023MAMA最佳男女团预测",
-      "onboard_time": 1697724578,
-      "rank": 34,
-      "category": "音乐"
     },
     {
       "raw_hot": 248987,
@@ -1844,7 +1884,7 @@
     },
     {
       "raw_hot": 233856,
-      "num": 233856,
+      "num": 255263,
       "word": "大熊猫与小朋友隔窗一起吃零食",
       "onboard_time": 1697725537,
       "rank": 30,
@@ -1891,6 +1931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 229292,
+      "num": 229292,
+      "word": "建议吴京别看这期王牌",
+      "onboard_time": 1697726498,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 226640,
       "num": 226640,
       "word": "况且我是要当爸爸的人",
@@ -1921,14 +1969,6 @@
       "onboard_time": 1697693560,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223325,
-      "num": 223325,
-      "word": "第一次见男明星聊多巴胺穿搭",
-      "onboard_time": 1697724996,
-      "rank": 41,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 221956,
@@ -1993,14 +2033,6 @@
       "onboard_time": 1697711675,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 216263,
-      "num": 216263,
-      "word": "Elk刷新S13单场伤害纪录",
-      "onboard_time": 1697725177,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 216011,
@@ -2131,6 +2163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205489,
+      "num": 205489,
+      "word": "BLG现场给Yagao过生日",
+      "onboard_time": 1697727877,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205346,
       "num": 205346,
       "word": "天官赐福第二季开播",
@@ -2139,20 +2179,20 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 204898,
+      "num": 204898,
+      "word": "王多多解说",
+      "onboard_time": 1697725420,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204189,
       "num": 204189,
       "word": "OPPO Find N3价格",
       "onboard_time": 1697703218,
       "rank": 36,
       "category": "数码"
-    },
-    {
-      "raw_hot": 204031,
-      "num": 204031,
-      "word": "王多多解说",
-      "onboard_time": 1697725420,
-      "rank": 35,
-      "category": "电竞"
     },
     {
       "raw_hot": 202904,
@@ -2529,6 +2569,14 @@
       "onboard_time": 1697678559,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 170053,
+      "num": 170053,
+      "word": "NCT日本队出道曲公开",
+      "onboard_time": 1697728060,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 169639,
@@ -3314,6 +3362,9 @@
     },
     {
       "word": "#习近平会见联合国秘书长#"
+    },
+    {
+      "word": "#中泰友好深深植根于两国人民心中#"
     }
   ]
 }
