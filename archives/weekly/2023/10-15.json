@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697715248846,
+  "endTime": 1697718845402,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -851,6 +851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1424569,
+      "num": 1424569,
+      "word": "芒果TV崩了",
+      "onboard_time": 1697716775,
+      "rank": 0,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1420109,
       "num": 1274153,
       "word": "EXO变成CEO了",
@@ -1299,6 +1307,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1059512,
+      "num": 1059512,
+      "word": "DK 疯牛病",
+      "onboard_time": 1697714254,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1056333,
       "num": 1056333,
       "word": "郭艾伦 我腿完蛋了",
@@ -1451,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1012617,
+      "num": 429878,
+      "word": "宋威龙 三年不见男大十八变",
+      "onboard_time": 1697715156,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1009640,
       "num": 320220,
       "word": "女童母亲说狗主人至今没表态很心痛",
@@ -1521,14 +1545,6 @@
       "onboard_time": 1697596470,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 980505,
-      "num": 980505,
-      "word": "DK 疯牛病",
-      "onboard_time": 1697714254,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 978680,
@@ -2035,6 +2051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 811640,
+      "num": 811640,
+      "word": "刘芳菲发文回应从央视离职",
+      "onboard_time": 1697715935,
+      "rank": 4,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 810386,
       "num": 810386,
       "word": "苹果宣布新增2500万元捐款",
@@ -2217,6 +2241,14 @@
       "onboard_time": 1697692840,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 769324,
+      "num": 426066,
+      "word": "街道辟谣四川被咬女童先动手砸狗",
+      "onboard_time": 1697714196,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 760443,
@@ -2635,6 +2667,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 657507,
+      "num": 336278,
+      "word": "7岁小女孩天生2个子宫3个肾",
+      "onboard_time": 1697716833,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 655838,
       "num": 655838,
       "word": "遭绑架网红罗大美遗体疑在红薯窖被找到",
@@ -2713,6 +2753,14 @@
       "onboard_time": 1697365294,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 635758,
+      "num": 635758,
+      "word": "花儿与少年丝路季定档",
+      "onboard_time": 1697716833,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 635333,
@@ -3163,6 +3211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 560246,
+      "num": 560246,
+      "word": "罗大美遇害案3名嫌疑人已落网",
+      "onboard_time": 1697715935,
+      "rank": 6,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 560074,
       "num": 560074,
       "word": "苏醒又被陈楚生淘汰了",
@@ -3185,6 +3241,14 @@
       "onboard_time": 1697425771,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 557508,
+      "num": 557508,
+      "word": "花海中的迪丽热巴",
+      "onboard_time": 1697717976,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 557244,
@@ -3561,6 +3625,14 @@
       "onboard_time": 1697293002,
       "rank": 14,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 509934,
+      "num": 509934,
+      "word": "TheShy亮iG队标",
+      "onboard_time": 1697715216,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 508461,
@@ -4473,6 +4545,14 @@
       "onboard_time": 1697631996,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 431191,
+      "num": 431191,
+      "word": "3D还原上海女童走失过程",
+      "onboard_time": 1697717736,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431125,
@@ -5571,6 +5651,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 343800,
+      "num": 343800,
+      "word": "于适胸肌充血",
+      "onboard_time": 1697717916,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 343704,
       "num": 328794,
       "word": "女孩留宿女同事家被爸爸打致耳穿孔",
@@ -5681,14 +5769,6 @@
       "onboard_time": 1697689779,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 338226,
-      "num": 338226,
-      "word": "街道辟谣四川被咬女童先动手砸狗",
-      "onboard_time": 1697714196,
-      "rank": 21,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 337880,
@@ -6491,6 +6571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 291366,
+      "num": 291366,
+      "word": "女孩自制计算器租给同学一天赚20多元",
+      "onboard_time": 1697718217,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291289,
       "num": 291289,
       "word": "山东在几内亚100天建成一座码头",
@@ -6545,6 +6633,14 @@
       "onboard_time": 1697683895,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 289191,
+      "num": 289191,
+      "word": "儿子出车祸父亲感谢查车交警",
+      "onboard_time": 1697715455,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 288695,
@@ -7129,6 +7225,14 @@
       "onboard_time": 1697508813,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 264538,
+      "num": 264538,
+      "word": "陈建州性骚扰案再开庭",
+      "onboard_time": 1697718273,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 264133,
@@ -7729,6 +7833,14 @@
       "onboard_time": 1697351254,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 240822,
+      "num": 240822,
+      "word": "朱一龙 谁让你们这么宣传我的",
+      "onboard_time": 1697716714,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 240821,
@@ -8363,14 +8475,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 218996,
-      "num": 218996,
-      "word": "宋威龙 三年不见男大十八变",
-      "onboard_time": 1697715156,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218850,
       "num": 218850,
       "word": "宝马与出租碰撞暂未发现开斗气车",
@@ -8619,6 +8723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 212008,
+      "num": 194497,
+      "word": "李现脸颊比心",
+      "onboard_time": 1697717916,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211855,
       "num": 211855,
       "word": "母亲参加女儿婚礼弄丢10万嫁妆",
@@ -8705,6 +8817,14 @@
       "onboard_time": 1697696142,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209737,
+      "num": 209737,
+      "word": "乌镇戏剧节",
+      "onboard_time": 1697718634,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 209723,
@@ -9105,6 +9225,14 @@
       "onboard_time": 1697300070,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202965,
+      "num": 202965,
+      "word": "陕西省政协原主席韩勇被查",
+      "onboard_time": 1697718574,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 202904,
@@ -9609,6 +9737,14 @@
       "onboard_time": 1697590896,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 195412,
+      "num": 195412,
+      "word": "山下武夫是假死",
+      "onboard_time": 1697716535,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 195157,
@@ -10193,14 +10329,6 @@
       "onboard_time": 1697684493,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 187047,
-      "num": 187047,
-      "word": "TheShy亮iG队标",
-      "onboard_time": 1697715216,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 186603,
@@ -10811,6 +10939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 174475,
+      "num": 174475,
+      "word": "官方回应济南巨响",
+      "onboard_time": 1697716295,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174414,
       "num": 174414,
       "word": "丈夫为救坠崖昏迷妻子自己也被困",
@@ -11075,6 +11211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 169271,
+      "num": 169271,
+      "word": "杨紫秋日雀斑妆",
+      "onboard_time": 1697715574,
+      "rank": 41,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 168880,
       "num": 529270,
       "word": "关爱盲人朋友我们能做些什么",
@@ -11241,6 +11385,14 @@
       "onboard_time": 1697539839,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165348,
+      "num": 165348,
+      "word": "警车暖心为骑行小姐姐挡洒水车",
+      "onboard_time": 1697718455,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165212,
@@ -11643,6 +11795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 155292,
+      "num": 155292,
+      "word": "FNC对战LNG",
+      "onboard_time": 1697716656,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155223,
       "num": 155223,
       "word": "topik",
@@ -11825,6 +11985,14 @@
       "onboard_time": 1697420253,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150027,
+      "num": 150027,
+      "word": "安宥真狼塑",
+      "onboard_time": 1697716416,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 149852,
@@ -12956,7 +13124,7 @@
     },
     {
       "raw_hot": 94193,
-      "num": 145121,
+      "num": 171127,
       "word": "天猫试点飞人送快递惊呆路人",
       "onboard_time": 1697707775,
       "rank": 49,

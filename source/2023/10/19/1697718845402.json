@@ -1,0 +1,410 @@
+{
+  "runTime": 1697718845402,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1424569,
+        "num": 1424569,
+        "word": "芒果TV崩了",
+        "onboard_time": 1697716775,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1059512,
+        "num": 1059512,
+        "word": "DK 疯牛病",
+        "onboard_time": 1697714254,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 7862,
+        "num": 909248,
+        "word": "一带一路的100个故事",
+        "onboard_time": 1697618256,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1671576,
+        "num": 905544,
+        "word": "曝韩国L姓顶级演员涉嫌吸毒",
+        "onboard_time": 1697708254,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811640,
+        "num": 811640,
+        "word": "刘芳菲发文回应从央视离职",
+        "onboard_time": 1697715935,
+        "rank": 4,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 635758,
+        "num": 635758,
+        "word": "花儿与少年丝路季定档",
+        "onboard_time": 1697716833,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 560246,
+        "num": 560246,
+        "word": "罗大美遇害案3名嫌疑人已落网",
+        "onboard_time": 1697715935,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 557508,
+        "num": 557508,
+        "word": "花海中的迪丽热巴",
+        "onboard_time": 1697717976,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 509934,
+        "num": 509934,
+        "word": "TheShy亮iG队标",
+        "onboard_time": 1697715216,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 431191,
+        "num": 431191,
+        "word": "3D还原上海女童走失过程",
+        "onboard_time": 1697717736,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1012617,
+        "num": 429878,
+        "word": "宋威龙 三年不见男大十八变",
+        "onboard_time": 1697715156,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 769324,
+        "num": 426066,
+        "word": "街道辟谣四川被咬女童先动手砸狗",
+        "onboard_time": 1697714196,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 630048,
+        "num": 425413,
+        "word": "海滩失踪女童遗体找到",
+        "onboard_time": 1697693016,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442029,
+        "num": 420186,
+        "word": "线下那些卖三五百的衣服",
+        "onboard_time": 1697712277,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 414600,
+        "num": 419293,
+        "word": "陈奕迅发文回应澳门演唱会延期",
+        "onboard_time": 1697711737,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 417095,
+        "num": 417095,
+        "word": "B站申请天官赐福谢怜商标",
+        "onboard_time": 1697712397,
+        "rank": 15,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 357688,
+        "num": 357688,
+        "word": "苹果员工被曝涉嫌性侵米哈游职员",
+        "onboard_time": 1697705494,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 351364,
+        "num": 351364,
+        "word": "14岁男孩口渴误喝百草枯肾衰竭",
+        "onboard_time": 1697710956,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350307,
+        "num": 350307,
+        "word": "朱一龙 一怒之下怒了一下",
+        "onboard_time": 1697712756,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343800,
+        "num": 343800,
+        "word": "于适胸肌充血",
+        "onboard_time": 1697717916,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 657507,
+        "num": 336278,
+        "word": "7岁小女孩天生2个子宫3个肾",
+        "onboard_time": 1697716833,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518308,
+        "num": 331539,
+        "word": "萧敬腾林有慧官宣结婚",
+        "onboard_time": 1697702675,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291366,
+        "num": 291366,
+        "word": "女孩自制计算器租给同学一天赚20多元",
+        "onboard_time": 1697718217,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289191,
+        "num": 289191,
+        "word": "儿子出车祸父亲感谢查车交警",
+        "onboard_time": 1697715455,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264538,
+        "num": 264538,
+        "word": "陈建州性骚扰案再开庭",
+        "onboard_time": 1697718273,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240822,
+        "num": 240822,
+        "word": "朱一龙 谁让你们这么宣传我的",
+        "onboard_time": 1697716714,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218069,
+        "num": 218069,
+        "word": "李现直播",
+        "onboard_time": 1697714618,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1053285,
+        "num": 215407,
+        "word": "百万粉丝网红罗大美遭熟人绑架杀害",
+        "onboard_time": 1697706156,
+        "rank": 27,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 209737,
+        "num": 209737,
+        "word": "乌镇戏剧节",
+        "onboard_time": 1697718634,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202965,
+        "num": 202965,
+        "word": "陕西省政协原主席韩勇被查",
+        "onboard_time": 1697718574,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195412,
+        "num": 195412,
+        "word": "山下武夫是假死",
+        "onboard_time": 1697716535,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212008,
+        "num": 194497,
+        "word": "李现脸颊比心",
+        "onboard_time": 1697717916,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185506,
+        "num": 185506,
+        "word": "李善均",
+        "onboard_time": 1697708736,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184151,
+        "num": 184151,
+        "word": "韩素希新头像是TXT",
+        "onboard_time": 1697705555,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183430,
+        "num": 183430,
+        "word": "等一个周也王星越二搭",
+        "onboard_time": 1697714317,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179452,
+        "num": 179452,
+        "word": "海外同事吃饺子 一两one two",
+        "onboard_time": 1697711017,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174788,
+        "num": 174788,
+        "word": "独立咖啡店主诉苦被9块9咖啡卷死",
+        "onboard_time": 1697708497,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 174475,
+        "num": 174475,
+        "word": "官方回应济南巨响",
+        "onboard_time": 1697716295,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174144,
+        "num": 174144,
+        "word": "爷爷去世男子高速上崩溃交警守护1小时",
+        "onboard_time": 1697710536,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 38296,
+        "num": 171127,
+        "word": "天猫试点飞人送快递惊呆路人",
+        "onboard_time": 1697707775,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169347,
+        "num": 169347,
+        "word": "WBG 稳稳的幸福",
+        "onboard_time": 1697715035,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169271,
+        "num": 169271,
+        "word": "杨紫秋日雀斑妆",
+        "onboard_time": 1697715574,
+        "rank": 41,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 165348,
+        "num": 165348,
+        "word": "警车暖心为骑行小姐姐挡洒水车",
+        "onboard_time": 1697718455,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149207,
+        "num": 155463,
+        "word": "2岁娃逛动物园发现疑似金吊坠",
+        "onboard_time": 1697713776,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155292,
+        "num": 155292,
+        "word": "FNC对战LNG",
+        "onboard_time": 1697716656,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152151,
+        "num": 152151,
+        "word": "TheShy时隔1447天再登S赛",
+        "onboard_time": 1697715035,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150027,
+        "num": 150027,
+        "word": "安宥真狼塑",
+        "onboard_time": 1697716416,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144631,
+        "num": 144631,
+        "word": "白敬亭宋轶同款打卡",
+        "onboard_time": 1697696978,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141020,
+        "num": 141020,
+        "word": "只有黄凯在认真难过",
+        "onboard_time": 1697712996,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139272,
+        "num": 139272,
+        "word": "外媒报道称张艺兴是KpopSuperstar",
+        "onboard_time": 1697701417,
+        "rank": 49,
+        "category": "艺人,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同出席开幕式的外方领导人集体合影#"
+    }
+  }
+}
