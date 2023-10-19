@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697750050010,
+  "endTime": 1697751236966,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -14275,6 +14275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31086,
+      "num": 76136,
+      "word": "HPV和HPV疫苗的相关科普",
+      "onboard_time": 1697748493,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 30899,
       "num": 176885,
       "word": "百部小戏唱火沂蒙故事",
@@ -14299,6 +14307,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 29134,
+      "num": 76178,
+      "word": "这届年轻人结婚越来越抠",
+      "onboard_time": 1697744834,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 29097,
       "num": 1101183,
       "word": "一带一路有你有我",
@@ -14313,14 +14329,6 @@
       "onboard_time": 1697391378,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28249,
-      "num": 64408,
-      "word": "这届年轻人结婚越来越抠",
-      "onboard_time": 1697744834,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 27792,
@@ -14364,7 +14372,7 @@
     },
     {
       "raw_hot": 26130,
-      "num": 64382,
+      "num": 76134,
       "word": "爸爸拉着女儿假装在拍求职视频",
       "onboard_time": 1697744414,
       "rank": 30,
@@ -14412,7 +14420,7 @@
     },
     {
       "raw_hot": 23497,
-      "num": 64424,
+      "num": 76197,
       "word": "花少定档海报",
       "onboard_time": 1697745914,
       "rank": 15,
@@ -14433,14 +14441,6 @@
       "onboard_time": 1697567416,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22355,
-      "num": 64379,
-      "word": "HPV和HPV疫苗的相关科普",
-      "onboard_time": 1697748493,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 22186,
@@ -14483,8 +14483,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18617,
-      "num": 64374,
+      "raw_hot": 18757,
+      "num": 76131,
       "word": "阿拉伯国家都有哪些",
       "onboard_time": 1697746573,
       "rank": 47,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697750050010,
+  "endTime": 1697751236966,
   "band_list": [
     {
       "raw_hot": 1189879,
@@ -219,20 +219,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 150649,
+      "num": 76245,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1697744533,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 149827,
       "num": 431040,
       "word": "Elk刷新S13单场伤害纪录",
       "onboard_time": 1697725177,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137507,
-      "num": 64449,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1697744533,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 133587,
@@ -483,8 +483,16 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 28249,
-      "num": 64408,
+      "raw_hot": 31086,
+      "num": 76136,
+      "word": "HPV和HPV疫苗的相关科普",
+      "onboard_time": 1697748493,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 29134,
+      "num": 76178,
       "word": "这届年轻人结婚越来越抠",
       "onboard_time": 1697744834,
       "rank": 21,
@@ -500,7 +508,7 @@
     },
     {
       "raw_hot": 26130,
-      "num": 64382,
+      "num": 76134,
       "word": "爸爸拉着女儿假装在拍求职视频",
       "onboard_time": 1697744414,
       "rank": 30,
@@ -516,23 +524,15 @@
     },
     {
       "raw_hot": 23497,
-      "num": 64424,
+      "num": 76197,
       "word": "花少定档海报",
       "onboard_time": 1697745914,
       "rank": 15,
       "category": "综艺"
     },
     {
-      "raw_hot": 22355,
-      "num": 64379,
-      "word": "HPV和HPV疫苗的相关科普",
-      "onboard_time": 1697748493,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 18617,
-      "num": 64374,
+      "raw_hot": 18757,
+      "num": 76131,
       "word": "阿拉伯国家都有哪些",
       "onboard_time": 1697746573,
       "rank": 47,
