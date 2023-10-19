@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697721745883,
+  "endTime": 1697722582267,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1012617,
-      "num": 444240,
+      "num": 488134,
       "word": "宋威龙 三年不见男大十八变",
       "onboard_time": 1697715156,
       "rank": 34,
@@ -339,6 +339,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 850932,
+      "num": 850932,
+      "word": "BLG对战KT",
+      "onboard_time": 1697719477,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 821838,
       "num": 1790321,
       "word": "90后考上公职3个月开始贪污获刑3年",
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 768234,
+      "num": 768234,
+      "word": "警方回应两人与火车相撞不幸身亡",
+      "onboard_time": 1697719894,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 756245,
       "num": 756245,
       "word": "韩国自助冰",
@@ -444,7 +460,7 @@
     },
     {
       "raw_hot": 699487,
-      "num": 626655,
+      "num": 661737,
       "word": "3D还原上海女童走失过程",
       "onboard_time": 1697717736,
       "rank": 9,
@@ -547,8 +563,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 616512,
-      "num": 616512,
+      "raw_hot": 621557,
+      "num": 621557,
       "word": "官方回应济南巨响",
       "onboard_time": 1697716295,
       "rank": 37,
@@ -568,6 +584,14 @@
       "word": "云南电梯坠落致3死17伤",
       "onboard_time": 1697629835,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609020,
+      "num": 609020,
+      "word": "女孩自制计算器租给同学一天赚20多元",
+      "onboard_time": 1697718217,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -603,12 +627,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 570423,
-      "num": 570423,
-      "word": "女孩自制计算器租给同学一天赚20多元",
-      "onboard_time": 1697718217,
-      "rank": 22,
-      "category": "社会新闻"
+      "raw_hot": 578145,
+      "num": 578145,
+      "word": "Bin哥牛啊",
+      "onboard_time": 1697722478,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 567856,
@@ -723,14 +747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 494796,
-      "num": 314250,
-      "word": "警方回应两人与火车相撞不幸身亡",
-      "onboard_time": 1697719894,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 492671,
       "num": 319164,
       "word": "地铁上偷看别人简历被发现了",
@@ -761,6 +777,14 @@
       "onboard_time": 1697696142,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 476045,
+      "num": 476045,
+      "word": "毛晓彤在问心中职业细节拉满",
+      "onboard_time": 1697720373,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 473979,
@@ -825,6 +849,14 @@
       "onboard_time": 1697689178,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 462250,
+      "num": 462250,
+      "word": "官方回应北京等地拟取消教师编制",
+      "onboard_time": 1697721098,
+      "rank": 18,
+      "category": "教育"
     },
     {
       "raw_hot": 455068,
@@ -915,6 +947,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 431166,
+      "num": 431166,
+      "word": "压力给到BLG",
+      "onboard_time": 1697719536,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 431019,
       "num": 431019,
       "word": "山姆海苔嵌镶数只死蟑螂",
@@ -964,7 +1004,7 @@
     },
     {
       "raw_hot": 408822,
-      "num": 313046,
+      "num": 405955,
       "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
       "onboard_time": 1697719775,
       "rank": 30,
@@ -1179,6 +1219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 335906,
+      "num": 335906,
+      "word": "老人带1岁男童回家被恶狗撕咬3分钟",
+      "onboard_time": 1697721156,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 335858,
       "num": 208730,
       "word": "张踩铃 到底是什么毁了大胖媳妇",
@@ -1307,14 +1355,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 297045,
-      "num": 297045,
-      "word": "毛晓彤在问心中职业细节拉满",
-      "onboard_time": 1697720373,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 290977,
       "num": 441177,
       "word": "LPL开启S13首战",
@@ -1361,6 +1401,14 @@
       "onboard_time": 1697690978,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 284646,
+      "num": 284646,
+      "word": "在宿舍吃螺蛳粉被舍友说了",
+      "onboard_time": 1697721455,
+      "rank": 38,
+      "category": "美食,幽默"
     },
     {
       "raw_hot": 284271,
@@ -1483,6 +1531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 268193,
+      "num": 220350,
+      "word": "LPL二连胜",
+      "onboard_time": 1697722058,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 267718,
       "num": 267718,
       "word": "服务员拾还百万存折被奖励带薪休假",
@@ -1507,8 +1563,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 259048,
-      "num": 231304,
+      "raw_hot": 262953,
+      "num": 262953,
       "word": "考研人开始卷茶叶了",
       "onboard_time": 1697720193,
       "rank": 24,
@@ -1579,14 +1635,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244966,
-      "num": 244966,
-      "word": "官方回应北京等地拟取消教师编制",
-      "onboard_time": 1697721098,
-      "rank": 18,
-      "category": "教育"
-    },
-    {
       "raw_hot": 243690,
       "num": 243690,
       "word": "我的大叔",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1697677298,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 239285,
+      "num": 239285,
+      "word": "辛芷蕾首档真人秀",
+      "onboard_time": 1697722358,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 238714,
@@ -1683,14 +1739,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 230548,
-      "num": 230548,
-      "word": "BLG对战KT",
-      "onboard_time": 1697719477,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 230258,
       "num": 243440,
       "word": "2岁娃逛动物园发现疑似金吊坠",
@@ -1736,6 +1784,14 @@
       "word": "河南一地明确狗未拴绳直接抓走暂扣",
       "onboard_time": 1697693560,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221956,
+      "num": 221956,
+      "word": "天津这家养老院火了",
+      "onboard_time": 1697721515,
+      "rank": 47,
       "category": "社会新闻"
     },
     {
@@ -1817,14 +1873,6 @@
       "onboard_time": 1697715035,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 213897,
-      "num": 213897,
-      "word": "老人带1岁男童回家被恶狗撕咬3分钟",
-      "onboard_time": 1697721156,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 213439,
@@ -1987,14 +2035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199278,
-      "num": 199278,
-      "word": "压力给到BLG",
-      "onboard_time": 1697719536,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 198416,
       "num": 198416,
       "word": "谁来开旋转木马呢",
@@ -2009,6 +2049,22 @@
       "onboard_time": 1697681557,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197504,
+      "num": 197504,
+      "word": "王俊凯去乌镇戏剧节了",
+      "onboard_time": 1697721939,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197354,
+      "num": 197354,
+      "word": "保证睡眠时间真的很重要",
+      "onboard_time": 1697719894,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 196983,
@@ -2137,14 +2193,6 @@
       "onboard_time": 1697698656,
       "rank": 31,
       "category": "社会新闻,汽车"
-    },
-    {
-      "raw_hot": 184791,
-      "num": 184791,
-      "word": "保证睡眠时间真的很重要",
-      "onboard_time": 1697719894,
-      "rank": 32,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 184381,
@@ -2307,6 +2355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171755,
+      "num": 171755,
+      "word": "盲童跳绳有多不容易",
+      "onboard_time": 1697721939,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171299,
       "num": 171299,
       "word": "Melody 不可以讲女权之上一定没有婚姻",
@@ -2459,20 +2515,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 160625,
-      "num": 160625,
-      "word": "在宿舍吃螺蛳粉被舍友说了",
-      "onboard_time": 1697721455,
-      "rank": 38,
-      "category": "美食,幽默"
-    },
-    {
       "raw_hot": 160225,
       "num": 160225,
       "word": "梅西晒照祝福内马尔",
       "onboard_time": 1697677778,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157785,
+      "num": 157785,
+      "word": "BLG战胜KT",
+      "onboard_time": 1697722539,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 157291,
@@ -2681,14 +2737,6 @@
       "onboard_time": 1697637879,
       "rank": 35,
       "category": "财经"
-    },
-    {
-      "raw_hot": 142441,
-      "num": 142441,
-      "word": "天津这家养老院火了",
-      "onboard_time": 1697721515,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 142341,
@@ -3011,6 +3059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 31735,
+      "num": 775979,
+      "word": "6张海报回顾一带一路动人故事",
+      "onboard_time": 1697721455,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30899,
       "num": 176885,
       "word": "百部小戏唱火沂蒙故事",
@@ -3065,14 +3121,6 @@
       "onboard_time": 1697662873,
       "rank": 47,
       "category": "其它"
-    },
-    {
-      "raw_hot": 11557,
-      "num": 620590,
-      "word": "6张海报回顾一带一路动人故事",
-      "onboard_time": 1697721455,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10704,
