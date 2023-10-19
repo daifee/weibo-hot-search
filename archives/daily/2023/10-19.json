@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697704520208,
+  "endTime": 1697707037044,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2719279,
-      "num": 402686,
+      "num": 619966,
       "word": "女童父亲行为是否构成犯罪",
       "onboard_time": 1697695424,
       "rank": 16,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1752129,
+      "num": 1752129,
+      "word": "宝马与出租车碰撞侧翻起火司机身亡",
+      "onboard_time": 1697702075,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1566499,
       "num": 1566499,
       "word": "刘琳演的妈好吓人",
@@ -147,11 +155,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1146186,
-      "num": 1146186,
-      "word": "宝马与出租车碰撞侧翻起火司机身亡",
-      "onboard_time": 1697702075,
-      "rank": 0,
+      "raw_hot": 1240052,
+      "num": 1240052,
+      "word": "苹果员工被曝涉嫌性侵米哈游职员",
+      "onboard_time": 1697705494,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1124782,
-      "num": 489386,
+      "num": 609396,
       "word": "屈楚萧也去了封神训练营",
       "onboard_time": 1697701958,
       "rank": 3,
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 851266,
-      "num": 306967,
+      "num": 343327,
       "word": "外媒报道称张艺兴是KpopSuperstar",
       "onboard_time": 1697701417,
       "rank": 13,
@@ -297,6 +305,14 @@
       "onboard_time": 1697696978,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 787352,
+      "num": 787352,
+      "word": "百万粉丝网红罗大美遭熟人绑架杀害",
+      "onboard_time": 1697706156,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 771549,
@@ -387,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 627661,
+      "num": 627661,
+      "word": "沈腾恭喜华晨宇把贾玲熬走了",
+      "onboard_time": 1697703814,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616120,
       "num": 616120,
       "word": "天官赐福 进不去",
@@ -451,12 +475,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 535273,
+      "num": 343095,
+      "word": "韩素希新头像是TXT",
+      "onboard_time": 1697705555,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522645,
       "num": 522645,
       "word": "内马尔重伤将手术",
       "onboard_time": 1697673817,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 512827,
+      "num": 292249,
+      "word": "男子为原创拍女友淫秽视频上传",
+      "onboard_time": 1697705494,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 503423,
@@ -579,6 +619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 448495,
+      "num": 448495,
+      "word": "前国脚戴琳成老赖被悬赏",
+      "onboard_time": 1697705134,
+      "rank": 7,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 446860,
       "num": 285819,
       "word": "男子遛禁养犬被查后带狗飞奔",
@@ -595,12 +643,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 440023,
+      "num": 342952,
+      "word": "郭麒麟越来越像郭德纲了",
+      "onboard_time": 1697704414,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 438556,
       "num": 235177,
       "word": "谈恋爱在一起久了真的会腻吗",
       "onboard_time": 1697641296,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 436109,
+      "num": 342879,
+      "word": "广州宝马",
+      "onboard_time": 1697703994,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 431408,
@@ -635,20 +699,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 422209,
-      "num": 422209,
-      "word": "沈腾恭喜华晨宇把贾玲熬走了",
-      "onboard_time": 1697703814,
-      "rank": 5,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 418554,
       "num": 1004039,
       "word": "贾玲让全世界知道了她妈妈叫李焕英",
       "onboard_time": 1697696560,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 418294,
+      "num": 342700,
+      "word": "原来是随份子雨",
+      "onboard_time": 1697705013,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 416514,
@@ -771,12 +835,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 343572,
+      "num": 343572,
+      "word": "JDG战胜BDS",
+      "onboard_time": 1697706633,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 343389,
       "num": 343389,
       "word": "三方机构审计水滴筹亏损超6000万",
       "onboard_time": 1697691038,
       "rank": 18,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 342666,
+      "num": 342666,
+      "word": "塞尔维亚总统夫人逛秀水街",
+      "onboard_time": 1697705916,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 341991,
@@ -883,6 +963,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 302215,
+      "num": 302215,
+      "word": "扶额苦笑",
+      "onboard_time": 1697704836,
+      "rank": 19,
+      "category": "幽默,作品衍生"
+    },
+    {
       "raw_hot": 300215,
       "num": 300215,
       "word": "谢怜cv",
@@ -923,6 +1011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 285653,
+      "num": 285653,
+      "word": "一名日籍药企员工涉间谍罪在华被捕",
+      "onboard_time": 1697706756,
+      "rank": 25,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 284271,
       "num": 284271,
       "word": "于适别追猪了追我",
@@ -948,7 +1044,7 @@
     },
     {
       "raw_hot": 278072,
-      "num": 212334,
+      "num": 264626,
       "word": "原来二两米粉不是二两重的粉",
       "onboard_time": 1697703456,
       "rank": 32,
@@ -987,6 +1083,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 270982,
+      "num": 270982,
+      "word": "罗大美",
+      "onboard_time": 1697706274,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 267718,
       "num": 267718,
       "word": "服务员拾还百万存折被奖励带薪休假",
@@ -1003,12 +1107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258226,
+      "num": 258226,
+      "word": "夫妻靠开河蚌两个月赚五六万",
+      "onboard_time": 1697705853,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 256793,
       "num": 256793,
       "word": "用肚子收伞后居然黄体破裂了",
       "onboard_time": 1697686356,
       "rank": 26,
       "category": "其它"
+    },
+    {
+      "raw_hot": 255787,
+      "num": 255787,
+      "word": "JDG对战BDS",
+      "onboard_time": 1697706274,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 254027,
@@ -1033,14 +1153,6 @@
       "onboard_time": 1697699857,
       "rank": 27,
       "category": "美食"
-    },
-    {
-      "raw_hot": 250319,
-      "num": 299179,
-      "word": "广州宝马",
-      "onboard_time": 1697703994,
-      "rank": 19,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 248987,
@@ -1195,6 +1307,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 213439,
+      "num": 213439,
+      "word": "李荣浩送井柏然大闸蟹",
+      "onboard_time": 1697706394,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211659,
       "num": 211659,
       "word": "于适健身迷失自我",
@@ -1225,6 +1345,14 @@
       "onboard_time": 1697696142,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209555,
+      "num": 209555,
+      "word": "张艺兴成都演唱会官宣",
+      "onboard_time": 1697706697,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 207546,
@@ -1283,6 +1411,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201838,
+      "num": 201838,
+      "word": "于适知道自己演姬发的反应",
+      "onboard_time": 1697705013,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 201468,
       "num": 201468,
       "word": "金俊勉说不要担心EXO的活动",
@@ -1329,6 +1465,14 @@
       "onboard_time": 1697689897,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 194043,
+      "num": 194043,
+      "word": "刘亚仁再次被不拘留起诉",
+      "onboard_time": 1697706697,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 192357,
@@ -1491,6 +1635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172742,
+      "num": 172742,
+      "word": "电瓶爆燃消防员闯进浓烟疏散群众",
+      "onboard_time": 1697706997,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 171994,
       "num": 171994,
       "word": "两大学生同校同天同为小朋友捐干细胞",
@@ -1555,12 +1707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165403,
+      "num": 165403,
+      "word": "JDG开门红",
+      "onboard_time": 1697706875,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165033,
       "num": 165033,
       "word": "男子在家做辣子鸡给窗外蜘蛛人送1份",
       "onboard_time": 1697699376,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 164043,
+      "num": 276936,
+      "word": "大熊猫也爱抖腿",
+      "onboard_time": 1697703097,
+      "rank": 39,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 162792,
@@ -1755,14 +1923,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 145423,
-      "num": 276936,
-      "word": "大熊猫也爱抖腿",
-      "onboard_time": 1697703097,
-      "rank": 39,
-      "category": "社会新闻,动物萌宠"
-    },
-    {
       "raw_hot": 145412,
       "num": 145412,
       "word": "这些访华的外国贵宾也太会了",
@@ -1811,6 +1971,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 140857,
+      "num": 140857,
+      "word": "跳绳 训僵尸",
+      "onboard_time": 1697706697,
+      "rank": 46,
+      "category": "幽默,运动健身"
+    },
+    {
       "raw_hot": 139947,
       "num": 139947,
       "word": "田耕纪爱奇艺热度值破8888",
@@ -1827,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135775,
+      "num": 135775,
+      "word": "沈腾让唐嫣绷不住了",
+      "onboard_time": 1697706938,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134300,
       "num": 134300,
       "word": "华晨宇答题正确率百分百",
@@ -1840,14 +2016,6 @@
       "word": "田曦薇红色针织衫",
       "onboard_time": 1697641181,
       "rank": 42,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132123,
-      "num": 132123,
-      "word": "郭麒麟越来越像郭德纲了",
-      "onboard_time": 1697704414,
-      "rank": 48,
       "category": "作品衍生"
     },
     {
@@ -2128,6 +2296,14 @@
       "word": "杭州亚残运会火炬传递启动",
       "onboard_time": 1697704357,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8351,
+      "num": 815447,
+      "word": "一带一路的100个故事",
+      "onboard_time": 1697618256,
+      "rank": 2,
       "category": "社会新闻"
     }
   ],
