@@ -1,0 +1,410 @@
+{
+  "runTime": 1697721745883,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1136675,
+        "num": 1136675,
+        "word": "芒果TV崩了",
+        "onboard_time": 1697716775,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 686073,
+        "num": 686073,
+        "word": "刘芳菲发文回应从央视离职",
+        "onboard_time": 1697715935,
+        "rank": 1,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 11557,
+        "num": 620590,
+        "word": "6张海报回顾一带一路动人故事",
+        "onboard_time": 1697721455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 742292,
+        "num": 618733,
+        "word": "花海中的迪丽热巴",
+        "onboard_time": 1697717976,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616512,
+        "num": 616512,
+        "word": "官方回应济南巨响",
+        "onboard_time": 1697716295,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 699487,
+        "num": 610622,
+        "word": "3D还原上海女童走失过程",
+        "onboard_time": 1697717736,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570423,
+        "num": 570423,
+        "word": "女孩自制计算器租给同学一天赚20多元",
+        "onboard_time": 1697718217,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383342,
+        "num": 383342,
+        "word": "DK 疯牛病",
+        "onboard_time": 1697714254,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 342975,
+        "num": 342975,
+        "word": "花儿与少年丝路季定档",
+        "onboard_time": 1697716833,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 316537,
+        "num": 316537,
+        "word": "罗大美遇害案3名嫌疑人已落网",
+        "onboard_time": 1697715935,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 563060,
+        "num": 314987,
+        "word": "宋威龙 三年不见男大十八变",
+        "onboard_time": 1697715156,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494796,
+        "num": 314250,
+        "word": "警方回应两人与火车相撞不幸身亡",
+        "onboard_time": 1697719894,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408822,
+        "num": 313046,
+        "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+        "onboard_time": 1697719775,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319821,
+        "num": 310405,
+        "word": "线下那些卖三五百的衣服",
+        "onboard_time": 1697712277,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 310337,
+        "num": 310337,
+        "word": "B站申请天官赐福谢怜商标",
+        "onboard_time": 1697712397,
+        "rank": 14,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 303736,
+        "num": 303736,
+        "word": "于适胸肌充血",
+        "onboard_time": 1697717916,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 297045,
+        "num": 297045,
+        "word": "毛晓彤在问心中职业细节拉满",
+        "onboard_time": 1697720373,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296882,
+        "num": 296882,
+        "word": "陕西省政协原主席韩勇被查",
+        "onboard_time": 1697718574,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244966,
+        "num": 244966,
+        "word": "官方回应北京等地拟取消教师编制",
+        "onboard_time": 1697721098,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 235475,
+        "num": 235475,
+        "word": "陈昊宇复刻问心名场面",
+        "onboard_time": 1697720193,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 635823,
+        "num": 235204,
+        "word": "7岁小女孩天生2个子宫3个肾",
+        "onboard_time": 1697716833,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317276,
+        "num": 234088,
+        "word": "街道辟谣四川被咬女童先动手砸狗",
+        "onboard_time": 1697714196,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390158,
+        "num": 232926,
+        "word": "萧敬腾林有慧官宣结婚",
+        "onboard_time": 1697702675,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456249,
+        "num": 232500,
+        "word": "海滩失踪女童遗体找到",
+        "onboard_time": 1697693016,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259048,
+        "num": 231304,
+        "word": "考研人开始卷茶叶了",
+        "onboard_time": 1697720193,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230548,
+        "num": 230548,
+        "word": "BLG对战KT",
+        "onboard_time": 1697719477,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213897,
+        "num": 213897,
+        "word": "老人带1岁男童回家被恶狗撕咬3分钟",
+        "onboard_time": 1697721156,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209881,
+        "num": 209881,
+        "word": "苹果员工被曝涉嫌性侵米哈游职员",
+        "onboard_time": 1697705494,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208639,
+        "num": 208639,
+        "word": "陈建州性骚扰案再开庭",
+        "onboard_time": 1697718273,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202371,
+        "num": 202371,
+        "word": "TheShy亮iG队标",
+        "onboard_time": 1697715216,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186725,
+        "num": 186725,
+        "word": "胡兵把QQ秀穿身上了",
+        "onboard_time": 1697720915,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1291617,
+        "num": 186601,
+        "word": "曝韩国L姓顶级演员涉嫌吸毒",
+        "onboard_time": 1697708254,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184791,
+        "num": 184791,
+        "word": "保证睡眠时间真的很重要",
+        "onboard_time": 1697719894,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 180568,
+        "num": 180568,
+        "word": "这场暴雨中26小时的惊险救援看得泪目",
+        "onboard_time": 1697721574,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171940,
+        "num": 171940,
+        "word": "14岁男孩口渴误喝百草枯肾衰竭",
+        "onboard_time": 1697710956,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168577,
+        "num": 168577,
+        "word": "压力给到BLG",
+        "onboard_time": 1697719536,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168347,
+        "num": 168347,
+        "word": "朱一龙 一怒之下怒了一下",
+        "onboard_time": 1697712756,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161019,
+        "num": 161019,
+        "word": "独立咖啡店主诉苦被9块9咖啡卷死",
+        "onboard_time": 1697708497,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 160625,
+        "num": 160625,
+        "word": "在宿舍吃螺蛳粉被舍友说了",
+        "onboard_time": 1697721455,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 39675,
+        "num": 160015,
+        "word": "亚残运会火炬灵感来自玉琮和桂花",
+        "onboard_time": 1697720974,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159947,
+        "num": 159947,
+        "word": "陈奕迅发文回应澳门演唱会延期",
+        "onboard_time": 1697711737,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156489,
+        "num": 156489,
+        "word": "等一个周也王星越二搭",
+        "onboard_time": 1697714317,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152940,
+        "num": 152940,
+        "word": "封神 命运般的东南组",
+        "onboard_time": 1697720134,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151247,
+        "num": 151247,
+        "word": "李现脸颊比心",
+        "onboard_time": 1697717916,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147234,
+        "num": 147234,
+        "word": "韩素希新头像是TXT",
+        "onboard_time": 1697705555,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146335,
+        "num": 146335,
+        "word": "朱一龙 谁让你们这么宣传我的",
+        "onboard_time": 1697716714,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143222,
+        "num": 143222,
+        "word": "爷爷去世男子高速上崩溃交警守护1小时",
+        "onboard_time": 1697710536,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142441,
+        "num": 142441,
+        "word": "天津这家养老院火了",
+        "onboard_time": 1697721515,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140954,
+        "num": 140954,
+        "word": "炖羊肉四不加诀窍",
+        "onboard_time": 1697721275,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139117,
+        "num": 139117,
+        "word": "儿子出车祸父亲感谢查车交警",
+        "onboard_time": 1697715455,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}

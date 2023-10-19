@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697719825938,
+  "endTime": 1697721745883,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -2475,6 +2475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699487,
+      "num": 626655,
+      "word": "3D还原上海女童走失过程",
+      "onboard_time": 1697717736,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 698706,
       "num": 698706,
       "word": "肖战GUCCI大片",
@@ -2843,14 +2851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 626655,
-      "num": 626655,
-      "word": "3D还原上海女童走失过程",
-      "onboard_time": 1697717736,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 620344,
       "num": 620344,
       "word": "以军方回应路透社记者身亡",
@@ -2873,6 +2873,14 @@
       "onboard_time": 1697615915,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 616512,
+      "num": 616512,
+      "word": "官方回应济南巨响",
+      "onboard_time": 1697716295,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 614385,
@@ -3128,6 +3136,14 @@
       "word": "网传外国游客无人机撞损文峰塔",
       "onboard_time": 1697436516,
       "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 570423,
+      "num": 570423,
+      "word": "女孩自制计算器租给同学一天赚20多元",
+      "onboard_time": 1697718217,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -3768,6 +3784,14 @@
       "word": "官方回应网传成都部分小区成立打狗队",
       "onboard_time": 1697598390,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 494796,
+      "num": 314250,
+      "word": "警方回应两人与火车相撞不幸身亡",
+      "onboard_time": 1697719894,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -4817,6 +4841,14 @@
       "onboard_time": 1697351254,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 408822,
+      "num": 313046,
+      "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+      "onboard_time": 1697719775,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 408727,
@@ -6003,14 +6035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 326889,
-      "num": 326889,
-      "word": "女孩自制计算器租给同学一天赚20多元",
-      "onboard_time": 1697718217,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326817,
       "num": 289589,
       "word": "邓为今天好清爽",
@@ -6521,6 +6545,14 @@
       "onboard_time": 1697384017,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 297045,
+      "num": 297045,
+      "word": "毛晓彤在问心中职业细节拉满",
+      "onboard_time": 1697720373,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 296849,
@@ -7347,6 +7379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 259048,
+      "num": 231304,
+      "word": "考研人开始卷茶叶了",
+      "onboard_time": 1697720193,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 259015,
       "num": 259015,
       "word": "盖伦",
@@ -7803,6 +7843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 244966,
+      "num": 244966,
+      "word": "官方回应北京等地拟取消教师编制",
+      "onboard_time": 1697721098,
+      "rank": 18,
+      "category": "教育"
+    },
+    {
       "raw_hot": 244788,
       "num": 244788,
       "word": "AG对战WB",
@@ -8003,6 +8051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235475,
+      "num": 235475,
+      "word": "陈昊宇复刻问心名场面",
+      "onboard_time": 1697720193,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 235324,
       "num": 235324,
       "word": "唐嫣真的好甜",
@@ -8153,6 +8209,14 @@
       "onboard_time": 1697417614,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230548,
+      "num": 230548,
+      "word": "BLG对战KT",
+      "onboard_time": 1697719477,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 230389,
@@ -8643,6 +8707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 213897,
+      "num": 213897,
+      "word": "老人带1岁男童回家被恶狗撕咬3分钟",
+      "onboard_time": 1697721156,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 213659,
       "num": 213659,
       "word": "咏梅 我已经和我的皱纹和解了",
@@ -8777,14 +8849,6 @@
       "onboard_time": 1697700998,
       "rank": 28,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 211063,
-      "num": 211063,
-      "word": "官方回应济南巨响",
-      "onboard_time": 1697716295,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 210721,
@@ -9675,14 +9739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197312,
-      "num": 197312,
-      "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
-      "onboard_time": 1697719775,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 197261,
       "num": 197261,
       "word": "李昊直播",
@@ -10363,6 +10419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186725,
+      "num": 186725,
+      "word": "胡兵把QQ秀穿身上了",
+      "onboard_time": 1697720915,
+      "rank": 30,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 186603,
       "num": 186603,
       "word": "两句话让对方军师干懵了",
@@ -10467,6 +10531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184791,
+      "num": 184791,
+      "word": "保证睡眠时间真的很重要",
+      "onboard_time": 1697719894,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 184583,
       "num": 184583,
       "word": "守护甜心 抽赏",
@@ -10505,14 +10577,6 @@
       "onboard_time": 1697611472,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184231,
-      "num": 184231,
-      "word": "BLG对战KT",
-      "onboard_time": 1697719477,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 183908,
@@ -10641,6 +10705,14 @@
       "onboard_time": 1697450374,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 180568,
+      "num": 180568,
+      "word": "这场暴雨中26小时的惊险救援看得泪目",
+      "onboard_time": 1697721574,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 180405,
@@ -11611,6 +11683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160625,
+      "num": 160625,
+      "word": "在宿舍吃螺蛳粉被舍友说了",
+      "onboard_time": 1697721455,
+      "rank": 38,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 160512,
       "num": 160512,
       "word": "令人心动的offer5",
@@ -11913,6 +11993,14 @@
       "onboard_time": 1697703274,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 152940,
+      "num": 152940,
+      "word": "封神 命运般的东南组",
+      "onboard_time": 1697720134,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 152701,
@@ -12339,6 +12427,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 142441,
+      "num": 142441,
+      "word": "天津这家养老院火了",
+      "onboard_time": 1697721515,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 141748,
       "num": 141748,
       "word": "我知道你的真实面目可我还是喜欢你",
@@ -12369,6 +12465,14 @@
       "onboard_time": 1697678615,
       "rank": 46,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 140954,
+      "num": 140954,
+      "word": "炖羊肉四不加诀窍",
+      "onboard_time": 1697721275,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 140025,
@@ -13699,6 +13803,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39675,
+      "num": 160015,
+      "word": "亚残运会火炬灵感来自玉琮和桂花",
+      "onboard_time": 1697720974,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 38961,
       "num": 53256,
       "word": "明日方舟 做法",
@@ -13992,6 +14104,14 @@
       "word": "侗寨千人大歌现场有多震撼",
       "onboard_time": 1697314754,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11557,
+      "num": 620590,
+      "word": "6张海报回顾一带一路动人故事",
+      "onboard_time": 1697721455,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
