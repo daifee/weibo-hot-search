@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697751236966,
+  "endTime": 1697753759921,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -29227,6 +29227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260287,
+      "num": 252886,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1696866155,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 260189,
       "num": 260189,
       "word": "虞书欣把封神质子团猜成雷震子",
@@ -34857,14 +34865,6 @@
       "onboard_time": 1696895855,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 213691,
-      "num": 252886,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1696866155,
-      "rank": 27,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 213675,
@@ -52363,6 +52363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 51440,
+      "num": 76136,
+      "word": "HPV和HPV疫苗的相关科普",
+      "onboard_time": 1697748493,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 51307,
       "num": 51307,
       "word": "朱一龙马哲海报",
@@ -52577,6 +52585,14 @@
       "onboard_time": 1696108274,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43778,
+      "num": 76178,
+      "word": "这届年轻人结婚越来越抠",
+      "onboard_time": 1697744834,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 43450,
@@ -52971,14 +52987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 31086,
-      "num": 76136,
-      "word": "HPV和HPV疫苗的相关科普",
-      "onboard_time": 1697748493,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 30899,
       "num": 176885,
       "word": "百部小戏唱火沂蒙故事",
@@ -53009,14 +53017,6 @@
       "onboard_time": 1697429557,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 29134,
-      "num": 76178,
-      "word": "这届年轻人结婚越来越抠",
-      "onboard_time": 1697744834,
-      "rank": 21,
-      "category": "情感"
     },
     {
       "raw_hot": 29067,
@@ -53187,6 +53187,14 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 25629,
+      "num": 56458,
+      "word": "当你的约会对象穿紧身牛仔裤时",
+      "onboard_time": 1697752995,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25612,
       "num": 1044598,
       "word": "在五常感受农业农村现代化事业阔步前行",
@@ -53257,6 +53265,14 @@
       "onboard_time": 1697169997,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 24617,
+      "num": 56479,
+      "word": "重庆迎来今秋第一场雪",
+      "onboard_time": 1697752214,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 24484,

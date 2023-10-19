@@ -1,0 +1,410 @@
+{
+  "runTime": 1697753759921,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 462052,
+        "num": 462052,
+        "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+        "onboard_time": 1697729435,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146242,
+        "num": 146242,
+        "word": "张小泉菜刀又现拍蒜断刀",
+        "onboard_time": 1697730515,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 11489,
+        "num": 100024,
+        "word": "6张海报回顾一带一路动人故事",
+        "onboard_time": 1697721455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78782,
+        "num": 78782,
+        "word": "女孩自制计算器租给同学一天赚20多元",
+        "onboard_time": 1697718217,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66527,
+        "num": 66527,
+        "word": "警方回应两人与火车相撞不幸身亡",
+        "onboard_time": 1697719894,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260287,
+        "num": 66377,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1697744533,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 61817,
+        "num": 61817,
+        "word": "建议吴京别看这期王牌",
+        "onboard_time": 1697726498,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56618,
+        "num": 56618,
+        "word": "罗大美遇害案3名嫌疑人已落网",
+        "onboard_time": 1697715935,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 41820,
+        "num": 56611,
+        "word": "花海中的迪丽热巴",
+        "onboard_time": 1697717976,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40726,
+        "num": 56610,
+        "word": "外公跑一天给坐月子外孙女买土鸡蛋",
+        "onboard_time": 1697723436,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249692,
+        "num": 56601,
+        "word": "男子拒见3岁绝症女儿摔打妻子",
+        "onboard_time": 1697735361,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70574,
+        "num": 56598,
+        "word": "华晨宇的发际线",
+        "onboard_time": 1697729734,
+        "rank": 11,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 60930,
+        "num": 56585,
+        "word": "宋威龙 三年不见男大十八变",
+        "onboard_time": 1697715156,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57055,
+        "num": 56580,
+        "word": "线下那些卖三五百的衣服",
+        "onboard_time": 1697712277,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 46728,
+        "num": 56571,
+        "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+        "onboard_time": 1697719775,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46663,
+        "num": 56565,
+        "word": "EXO公司logo四叶草",
+        "onboard_time": 1697728958,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28104,
+        "num": 56562,
+        "word": "DK 疯牛病",
+        "onboard_time": 1697714254,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27595,
+        "num": 56555,
+        "word": "没有译制片腔调的翻译 有被吓到",
+        "onboard_time": 1697733386,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24363,
+        "num": 56543,
+        "word": "EDG出列",
+        "onboard_time": 1697725236,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22856,
+        "num": 56542,
+        "word": "花少定档海报",
+        "onboard_time": 1697745914,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 58182,
+        "num": 56529,
+        "word": "7岁小女孩天生2个子宫3个肾",
+        "onboard_time": 1697716833,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48670,
+        "num": 56522,
+        "word": "今年的古装爆剧",
+        "onboard_time": 1697727221,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 43778,
+        "num": 56517,
+        "word": "这届年轻人结婚越来越抠",
+        "onboard_time": 1697744834,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40344,
+        "num": 56514,
+        "word": "保证睡眠时间真的很重要",
+        "onboard_time": 1697719894,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32963,
+        "num": 56506,
+        "word": "曾舜晞演过TVB神剧使徒行者3",
+        "onboard_time": 1697735659,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30336,
+        "num": 56499,
+        "word": "梅花红桃尺度",
+        "onboard_time": 1697729494,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28948,
+        "num": 56489,
+        "word": "怎么处理朋友送的廉价礼物",
+        "onboard_time": 1697733805,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24617,
+        "num": 56479,
+        "word": "重庆迎来今秋第一场雪",
+        "onboard_time": 1697752214,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21503,
+        "num": 56477,
+        "word": "芒果TV崩了",
+        "onboard_time": 1697716775,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20580,
+        "num": 56469,
+        "word": "当女法医是一件很酷的事儿",
+        "onboard_time": 1697734164,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 51440,
+        "num": 56459,
+        "word": "HPV和HPV疫苗的相关科普",
+        "onboard_time": 1697748493,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25629,
+        "num": 56458,
+        "word": "当你的约会对象穿紧身牛仔裤时",
+        "onboard_time": 1697752995,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25442,
+        "num": 56449,
+        "word": "爸爸拉着女儿假装在拍求职视频",
+        "onboard_time": 1697744414,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 20446,
+        "num": 56441,
+        "word": "田曦薇公主抱王鹤棣摔跤",
+        "onboard_time": 1697722894,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20402,
+        "num": 56431,
+        "word": "毛晓彤港风氛围感",
+        "onboard_time": 1697734464,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 19443,
+        "num": 56425,
+        "word": "B站申请天官赐福谢怜商标",
+        "onboard_time": 1697712397,
+        "rank": 35,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 19352,
+        "num": 56423,
+        "word": "TheShy亮iG队标",
+        "onboard_time": 1697715216,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18487,
+        "num": 56417,
+        "word": "阿拉伯国家都有哪些",
+        "onboard_time": 1697746573,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 18449,
+        "num": 56409,
+        "word": "BLG将对战JDG",
+        "onboard_time": 1697726138,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18029,
+        "num": 56403,
+        "word": "S13瑞士轮第二轮抽签",
+        "onboard_time": 1697723376,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17062,
+        "num": 56389,
+        "word": "S13瑞士轮第二轮赛程",
+        "onboard_time": 1697724518,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16719,
+        "num": 56382,
+        "word": "2023MAMA最佳男女团预测",
+        "onboard_time": 1697724578,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16464,
+        "num": 56377,
+        "word": "陈奕迅发文回应澳门演唱会延期",
+        "onboard_time": 1697711737,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15962,
+        "num": 56368,
+        "word": "BLG现场给Yagao过生日",
+        "onboard_time": 1697727877,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 15720,
+        "num": 56363,
+        "word": "毛晓彤在问心中职业细节拉满",
+        "onboard_time": 1697720373,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15708,
+        "num": 56356,
+        "word": "郑秀晶原相机视频",
+        "onboard_time": 1697737156,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15508,
+        "num": 56349,
+        "word": "Bin哥牛啊",
+        "onboard_time": 1697722478,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14680,
+        "num": 56344,
+        "word": "WBG将对战G2",
+        "onboard_time": 1697725657,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14546,
+        "num": 56335,
+        "word": "WBG 稳稳的幸福",
+        "onboard_time": 1697715035,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14067,
+        "num": 56333,
+        "word": "Elk刷新S13单场伤害纪录",
+        "onboard_time": 1697725177,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同出席开幕式的外方领导人集体合影#"
+    }
+  }
+}
