@@ -1,0 +1,410 @@
+{
+  "runTime": 1697700836186,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 418554,
+        "num": 876515,
+        "word": "贾玲让全世界知道了她妈妈叫李焕英",
+        "onboard_time": 1697696560,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 590810,
+        "num": 590810,
+        "word": "黄渤周迅新片尺度",
+        "onboard_time": 1697688276,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18598,
+        "num": 528630,
+        "word": "跨越山海的十年",
+        "onboard_time": 1697685573,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 519160,
+        "num": 519160,
+        "word": "她住进山野探索开放式两性关系",
+        "onboard_time": 1697692840,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 475446,
+        "num": 475446,
+        "word": "第一次知道银行卡会到期",
+        "onboard_time": 1697691216,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 3944628,
+        "num": 468415,
+        "word": "海滩失踪女童遗体找到",
+        "onboard_time": 1697693016,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437683,
+        "num": 437683,
+        "word": "加沙一家18口在空袭中遇难",
+        "onboard_time": 1697690142,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 437319,
+        "num": 437319,
+        "word": "90后考上公职3个月开始贪污获刑3年",
+        "onboard_time": 1697691098,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45578,
+        "num": 416566,
+        "word": "这根丝让我们窥见丝路万象",
+        "onboard_time": 1697686472,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 416514,
+        "num": 416514,
+        "word": "A股",
+        "onboard_time": 1697680413,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2373554,
+        "num": 402686,
+        "word": "女童父亲行为是否构成犯罪",
+        "onboard_time": 1697695424,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 969316,
+        "num": 388953,
+        "word": "他从主公变成了公主",
+        "onboard_time": 1697697696,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 706447,
+        "num": 373989,
+        "word": "刘亦菲车展买法拉利经典回顾",
+        "onboard_time": 1697692235,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350884,
+        "num": 350884,
+        "word": "研究发现蒙娜丽莎有毒",
+        "onboard_time": 1697687975,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 716041,
+        "num": 350306,
+        "word": "白敬亭宋轶同款打卡",
+        "onboard_time": 1697696978,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61589,
+        "num": 337825,
+        "word": "京东双十一23日提前卖现货",
+        "onboard_time": 1697698898,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 287168,
+        "num": 336069,
+        "word": "seventeen澳门",
+        "onboard_time": 1697697696,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334739,
+        "num": 334739,
+        "word": "白百何首演古装长剧",
+        "onboard_time": 1697700215,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 306522,
+        "num": 306522,
+        "word": "电影分级",
+        "onboard_time": 1697700336,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284705,
+        "num": 284705,
+        "word": "刑法专家谈狗咬女童事件称不应搞株连",
+        "onboard_time": 1697693138,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 754348,
+        "num": 282594,
+        "word": "53.7%年轻人存款不足10万元",
+        "onboard_time": 1697690307,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 733750,
+        "num": 280110,
+        "word": "新娘刚下婚车就被系上围裙",
+        "onboard_time": 1697699497,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 418161,
+        "num": 274673,
+        "word": "体制内的朋友圈越来越官方了",
+        "onboard_time": 1697681374,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405553,
+        "num": 273180,
+        "word": "年存款2.4万是什么概念",
+        "onboard_time": 1697682694,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 320429,
+        "num": 269528,
+        "word": "男子遛禁养犬被查后带狗飞奔",
+        "onboard_time": 1697696499,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267718,
+        "num": 267718,
+        "word": "服务员拾还百万存折被奖励带薪休假",
+        "onboard_time": 1697694640,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300822,
+        "num": 266834,
+        "word": "男子拿U型锁暴击女友头部致死",
+        "onboard_time": 1697692958,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253683,
+        "num": 253683,
+        "word": "乐事直播",
+        "onboard_time": 1697699857,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 253649,
+        "num": 253649,
+        "word": "失踪4岁女童符合溺水死亡特征",
+        "onboard_time": 1697694222,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244187,
+        "num": 244187,
+        "word": "LPL开启S13首战",
+        "onboard_time": 1697700094,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242366,
+        "num": 242366,
+        "word": "虎子无痛升仙",
+        "onboard_time": 1697700336,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213245,
+        "num": 213245,
+        "word": "李亚鹏被限制高消费",
+        "onboard_time": 1697693261,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198416,
+        "num": 198416,
+        "word": "谁来开旋转木马呢",
+        "onboard_time": 1697699738,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196864,
+        "num": 196864,
+        "word": "刘琳演的妈好吓人",
+        "onboard_time": 1697686296,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176458,
+        "num": 176458,
+        "word": "北方的一两饺子 一两饺子皮",
+        "onboard_time": 1697691399,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 176076,
+        "num": 176076,
+        "word": "华浅被仲溪午囚禁",
+        "onboard_time": 1697699977,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174052,
+        "num": 174052,
+        "word": "上海走失女童案排除刑事案件",
+        "onboard_time": 1697693261,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169662,
+        "num": 169662,
+        "word": "在校大学生怎么补气血",
+        "onboard_time": 1697696678,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167658,
+        "num": 167658,
+        "word": "极氪001",
+        "onboard_time": 1697699139,
+        "rank": 38,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 165033,
+        "num": 165033,
+        "word": "男子在家做辣子鸡给窗外蜘蛛人送1份",
+        "onboard_time": 1697699376,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163351,
+        "num": 163351,
+        "word": "猫 想救你但水真的太大了",
+        "onboard_time": 1697689598,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 158748,
+        "num": 158748,
+        "word": "陈都灵热爱cosplay的女孩",
+        "onboard_time": 1697700574,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158438,
+        "num": 158438,
+        "word": "王子文的项链上有五只蝴蝶",
+        "onboard_time": 1697687493,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157549,
+        "num": 157549,
+        "word": "外媒称以色列军队已准备好进入加沙",
+        "onboard_time": 1697680714,
+        "rank": 43,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 153934,
+        "num": 153934,
+        "word": "张艺兴演唱会大连站",
+        "onboard_time": 1697699556,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145586,
+        "num": 145586,
+        "word": "OPPO发布会",
+        "onboard_time": 1697698476,
+        "rank": 45,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145338,
+        "num": 145338,
+        "word": "库里绝杀",
+        "onboard_time": 1697690978,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127784,
+        "num": 141861,
+        "word": "赵露思是采访大漏勺吧",
+        "onboard_time": 1697693437,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127228,
+        "num": 141642,
+        "word": "王一博叶先生的高光时刻",
+        "onboard_time": 1697694101,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124913,
+        "num": 141635,
+        "word": "陈牧驰精品十月刊封面",
+        "onboard_time": 1697687674,
+        "rank": 49,
+        "category": "作品衍生,时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第三届一带一路国际合作高峰论坛#"
+    }
+  }
+}

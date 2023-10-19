@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697699781963,
+  "endTime": 1697700836186,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2719279,
-      "num": 356111,
+      "num": 402686,
       "word": "女童父亲行为是否构成犯罪",
       "onboard_time": 1697695424,
       "rank": 16,
@@ -163,8 +163,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 946262,
-      "num": 313968,
+      "raw_hot": 969316,
+      "num": 388953,
       "word": "他从主公变成了公主",
       "onboard_time": 1697697696,
       "rank": 11,
@@ -260,7 +260,7 @@
     },
     {
       "raw_hot": 807354,
-      "num": 317181,
+      "num": 350306,
       "word": "白敬亭宋轶同款打卡",
       "onboard_time": 1697696978,
       "rank": 15,
@@ -289,6 +289,14 @@
       "onboard_time": 1697638418,
       "rank": 1,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 733750,
+      "num": 280110,
+      "word": "新娘刚下婚车就被系上围裙",
+      "onboard_time": 1697699497,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 727074,
@@ -571,6 +579,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 418554,
+      "num": 1004039,
+      "word": "贾玲让全世界知道了她妈妈叫李焕英",
+      "onboard_time": 1697696560,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 416514,
+      "num": 416514,
+      "word": "A股",
+      "onboard_time": 1697680413,
+      "rank": 24,
+      "category": "财经"
+    },
+    {
       "raw_hot": 415438,
       "num": 415438,
       "word": "饮料瓶底为什么用五瓣花凸起形状",
@@ -625,14 +649,6 @@
       "onboard_time": 1697683355,
       "rank": 9,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 380962,
-      "num": 380962,
-      "word": "A股",
-      "onboard_time": 1697680413,
-      "rank": 24,
-      "category": "财经"
     },
     {
       "raw_hot": 375113,
@@ -723,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 334739,
+      "num": 334739,
+      "word": "白百何首演古装长剧",
+      "onboard_time": 1697700215,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 333505,
       "num": 333505,
       "word": "乳腺癌发病的相关危险因素",
@@ -764,7 +788,7 @@
     },
     {
       "raw_hot": 314787,
-      "num": 314787,
+      "num": 336069,
       "word": "seventeen澳门",
       "onboard_time": 1697697696,
       "rank": 9,
@@ -787,11 +811,11 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 309994,
-      "num": 1004039,
-      "word": "贾玲让全世界知道了她妈妈叫李焕英",
-      "onboard_time": 1697696560,
-      "rank": 49,
+      "raw_hot": 306522,
+      "num": 306522,
+      "word": "电影分级",
+      "onboard_time": 1697700336,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -883,6 +907,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 267718,
+      "num": 267718,
+      "word": "服务员拾还百万存折被奖励带薪休假",
+      "onboard_time": 1697694640,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 265567,
       "num": 265567,
       "word": "白鹿进组了",
@@ -915,12 +947,12 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 250150,
-      "num": 250150,
-      "word": "服务员拾还百万存折被奖励带薪休假",
-      "onboard_time": 1697694640,
+      "raw_hot": 253683,
+      "num": 253683,
+      "word": "乐事直播",
+      "onboard_time": 1697699857,
       "rank": 27,
-      "category": "社会新闻"
+      "category": "美食"
     },
     {
       "raw_hot": 248987,
@@ -947,12 +979,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 243190,
-      "num": 243190,
-      "word": "新娘刚下婚车就被系上围裙",
-      "onboard_time": 1697699497,
-      "rank": 27,
-      "category": "社会新闻"
+      "raw_hot": 244187,
+      "num": 244187,
+      "word": "LPL开启S13首战",
+      "onboard_time": 1697700094,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 242366,
+      "num": 242366,
+      "word": "虎子无痛升仙",
+      "onboard_time": 1697700336,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 239780,
@@ -1113,6 +1153,14 @@
       "onboard_time": 1697675377,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198416,
+      "num": 198416,
+      "word": "谁来开旋转木马呢",
+      "onboard_time": 1697699738,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 198314,
@@ -1283,6 +1331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 176076,
+      "num": 176076,
+      "word": "华浅被仲溪午囚禁",
+      "onboard_time": 1697699977,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175580,
       "num": 175580,
       "word": "妈妈做的潮汕晚餐",
@@ -1355,6 +1411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165033,
+      "num": 165033,
+      "word": "男子在家做辣子鸡给窗外蜘蛛人送1份",
+      "onboard_time": 1697699376,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162792,
       "num": 162792,
       "word": "周筱风方筱然终于相认了",
@@ -1395,14 +1459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160839,
-      "num": 160839,
-      "word": "男子在家做辣子鸡给窗外蜘蛛人送1份",
-      "onboard_time": 1697699376,
-      "rank": 41,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 160690,
       "num": 160690,
       "word": "张大仙 空中滑步",
@@ -1417,6 +1473,14 @@
       "onboard_time": 1697677778,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158748,
+      "num": 158748,
+      "word": "陈都灵热爱cosplay的女孩",
+      "onboard_time": 1697700574,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 157291,
@@ -1587,14 +1651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137903,
-      "num": 137903,
-      "word": "谁来开旋转木马呢",
-      "onboard_time": 1697699738,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 137337,
       "num": 137337,
       "word": "在俄罗斯不要轻易点外卖",
@@ -1668,7 +1724,7 @@
     },
     {
       "raw_hot": 119605,
-      "num": 441428,
+      "num": 528630,
       "word": "跨越山海的十年",
       "onboard_time": 1697685573,
       "rank": 8,
@@ -1788,7 +1844,7 @@
     },
     {
       "raw_hot": 62399,
-      "num": 310176,
+      "num": 337825,
       "word": "京东双十一23日提前卖现货",
       "onboard_time": 1697698898,
       "rank": 17,
