@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697736838709,
+  "endTime": 1697739753142,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -6923,6 +6923,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 285623,
+      "num": 426123,
+      "word": "男子拒见3岁绝症女儿摔打妻子",
+      "onboard_time": 1697735361,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 285537,
       "num": 285537,
       "word": "为什么饮水机都在厕所旁边",
@@ -10049,14 +10057,6 @@
       "onboard_time": 1697676517,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 196713,
-      "num": 426123,
-      "word": "男子拒见3岁绝症女儿摔打妻子",
-      "onboard_time": 1697735361,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 196333,
@@ -13859,6 +13859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 74155,
+      "num": 106711,
+      "word": "郑秀晶原相机视频",
+      "onboard_time": 1697737156,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 73933,
       "num": 73933,
       "word": "SuperCup超大杯",
@@ -14305,6 +14313,14 @@
       "onboard_time": 1697391378,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27792,
+      "num": 106528,
+      "word": "立石俊树官宣结婚",
+      "onboard_time": 1697737818,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 26827,

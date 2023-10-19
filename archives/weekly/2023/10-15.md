@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/15 00:20:12 ~ 2023/10/20 01:33:58
+本榜单时间：2023/10/15 00:20:12 ~ 2023/10/20 02:22:33
 </p>
 </blockquote>
 <p>
@@ -5205,6 +5205,12 @@ Elk刷新S13单场伤害纪录（热度：289518）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%92%E8%A7%813%E5%B2%81%E7%BB%9D%E7%97%87%E5%A5%B3%E5%84%BF%E6%91%94%E6%89%93%E5%A6%BB%E5%AD%90%23" target="weibo">
+男子拒见3岁绝症女儿摔打妻子（热度：285623）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A5%AE%E6%B0%B4%E6%9C%BA%E9%83%BD%E5%9C%A8%E5%8E%95%E6%89%80%E6%97%81%E8%BE%B9%23" target="weibo">
 为什么饮水机都在厕所旁边（热度：285537）
 </a>
@@ -7547,12 +7553,6 @@ DNTSS24大秀（热度：197256）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%BB%8F%E6%84%8F%E8%AE%A9%E5%8F%91%E9%99%85%E7%BA%BF%E5%90%8E%E7%A7%BB%E7%9A%84%E4%B9%A0%E6%83%AF%23" target="weibo">
 不经意让发际线后移的习惯（热度：196963）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%92%E8%A7%813%E5%B2%81%E7%BB%9D%E7%97%87%E5%A5%B3%E5%84%BF%E6%91%94%E6%89%93%E5%A6%BB%E5%AD%90%23" target="weibo">
-男子拒见3岁绝症女儿摔打妻子（热度：196713）
 </a>
 </li>
 
@@ -10407,6 +10407,12 @@ X5灵犀通信力压iPhone15（热度：74183）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E7%A7%80%E6%99%B6%E5%8E%9F%E7%9B%B8%E6%9C%BA%E8%A7%86%E9%A2%91%23" target="weibo">
+郑秀晶原相机视频（热度：74155）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23SuperCup%E8%B6%85%E5%A4%A7%E6%9D%AF%23" target="weibo">
 SuperCup超大杯（热度：73933）
 </a>
@@ -10739,6 +10745,12 @@ TW对战GAM（热度：38404）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%81%AF%E4%BA%AE%E7%9A%84%E9%82%A3%E4%B8%80%E5%88%BB%E7%9C%9F%E6%98%AF%E7%BB%9D%E4%BA%86%23" target="weibo">
 灯亮的那一刻真是绝了（热度：28705）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E7%9F%B3%E4%BF%8A%E6%A0%91%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A%23" target="weibo">
+立石俊树官宣结婚（热度：27792）
 </a>
 </li>
 
