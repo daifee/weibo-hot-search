@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697696599599,
+  "endTime": 1697697376034,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -49,6 +49,14 @@
       "onboard_time": 1697641895,
       "rank": 0,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2069520,
+      "num": 356111,
+      "word": "女童父亲行为是否构成犯罪",
+      "onboard_time": 1697695424,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 2066647,
@@ -128,14 +136,6 @@
       "word": "失踪4岁女童符合溺水死亡特征",
       "onboard_time": 1697694222,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1140914,
-      "num": 353429,
-      "word": "女童父亲行为是否构成犯罪",
-      "onboard_time": 1697695424,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 821838,
-      "num": 821838,
+      "num": 1790321,
       "word": "90后考上公职3个月开始贪污获刑3年",
       "onboard_time": 1697691098,
       "rank": 12,
@@ -419,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482054,
+      "num": 279094,
+      "word": "妈妈想在县城开蜜雪冰城",
+      "onboard_time": 1697696142,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 473979,
       "num": 473979,
       "word": "北方的一两饺子 一两饺子皮",
@@ -523,12 +531,12 @@
       "category": "美食,社会新闻"
     },
     {
-      "raw_hot": 424668,
-      "num": 279094,
-      "word": "妈妈想在县城开蜜雪冰城",
-      "onboard_time": 1697696142,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 426795,
+      "num": 317181,
+      "word": "白敬亭宋轶同款打卡",
+      "onboard_time": 1697696978,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 423818,
@@ -819,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 274652,
+      "num": 274652,
+      "word": "贾玲让全世界知道了她妈妈叫李焕英",
+      "onboard_time": 1697696560,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 273299,
       "num": 273299,
       "word": "淘汰再出道 这集我好像看过",
@@ -849,6 +865,14 @@
       "onboard_time": 1697686356,
       "rank": 26,
       "category": "其它"
+    },
+    {
+      "raw_hot": 254027,
+      "num": 254027,
+      "word": "T1战胜TL",
+      "onboard_time": 1697695838,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 253941,
@@ -931,6 +955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 233348,
+      "num": 233348,
+      "word": "男子遛禁养犬被查后带狗飞奔",
+      "onboard_time": 1697696499,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 230568,
       "num": 361207,
       "word": "小米14",
@@ -953,14 +985,6 @@
       "onboard_time": 1697693560,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 223059,
-      "num": 223059,
-      "word": "T1战胜TL",
-      "onboard_time": 1697695838,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 221215,
@@ -1227,6 +1251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170602,
+      "num": 170602,
+      "word": "在校大学生怎么补气血",
+      "onboard_time": 1697696678,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170441,
       "num": 170441,
       "word": "方筱然原来这么坏过",
@@ -1443,14 +1475,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 145583,
-      "num": 145583,
-      "word": "贾玲让全世界知道了她妈妈叫李焕英",
-      "onboard_time": 1697696560,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 145115,
       "num": 145115,
       "word": "白羊座是一群敢爱敢恨的人",
@@ -1553,6 +1577,14 @@
       "onboard_time": 1697660233,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124626,
+      "num": 124626,
+      "word": "辅警狂追1公里截停肇事三轮",
+      "onboard_time": 1697695303,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122026,
@@ -1707,20 +1739,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 30899,
+      "num": 176885,
+      "word": "百部小戏唱火沂蒙故事",
+      "onboard_time": 1697695239,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 30518,
       "num": 30518,
       "word": "虞书欣跳了Baddie",
       "onboard_time": 1697629594,
       "rank": 43,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26108,
-      "num": 176885,
-      "word": "百部小戏唱火沂蒙故事",
-      "onboard_time": 1697695239,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 25511,
