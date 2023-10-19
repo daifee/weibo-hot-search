@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697746682252,
+  "endTime": 1697747665501,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -14315,6 +14315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28249,
+      "num": 54418,
+      "word": "这届年轻人结婚越来越抠",
+      "onboard_time": 1697744834,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 27792,
       "num": 111822,
       "word": "立石俊树官宣结婚",
@@ -14355,12 +14363,12 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 26384,
-      "num": 53510,
-      "word": "这届年轻人结婚越来越抠",
-      "onboard_time": 1697744834,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 26130,
+      "num": 54325,
+      "word": "爸爸拉着女儿假装在拍求职视频",
+      "onboard_time": 1697744414,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 25511,
@@ -14377,14 +14385,6 @@
       "onboard_time": 1697374835,
       "rank": 39,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 25000,
-      "num": 53460,
-      "word": "爸爸拉着女儿假装在拍求职视频",
-      "onboard_time": 1697744414,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 24484,
@@ -14411,19 +14411,19 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23497,
+      "num": 54468,
+      "word": "花少定档海报",
+      "onboard_time": 1697745914,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 23479,
       "num": 27547,
       "word": "我恋5三人约会修罗场",
       "onboard_time": 1697651119,
       "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 23245,
-      "num": 53537,
-      "word": "花少定档海报",
-      "onboard_time": 1697745914,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -14507,6 +14507,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 15294,
+      "num": 54313,
+      "word": "阿拉伯国家都有哪些",
+      "onboard_time": 1697746573,
+      "rank": 47,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 15171,
       "num": 698960,
       "word": "照片里的青春",
@@ -14537,14 +14545,6 @@
       "onboard_time": 1697743094,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12338,
-      "num": 53374,
-      "word": "阿拉伯国家都有哪些",
-      "onboard_time": 1697746573,
-      "rank": 47,
-      "category": "知识科普"
     },
     {
       "raw_hot": 12196,
