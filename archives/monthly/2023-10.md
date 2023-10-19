@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 22:16:51
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 22:34:27
 </p>
 </blockquote>
 <p>
@@ -1431,6 +1431,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B8%A61%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%81%B6%E7%8B%97%E6%92%95%E5%92%AC3%E5%88%86%E9%92%9F%23" target="weibo">
+老人带1岁男童回家被恶狗撕咬3分钟（热度：1972660）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E5%89%8D%E9%BB%84%E7%89%9B%E9%9B%86%E4%BD%93%E9%80%80%E7%A5%A8%23" target="weibo">
 周杰伦演唱会前黄牛集体退票（热度：1969878）
 </a>
@@ -2687,12 +2693,6 @@ iPhone被曝夜间自动关机（热度：1459310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%AD%BB%E5%90%8E%E4%BD%93%E5%86%85%E9%87%8D%E8%A6%81%E9%83%A8%E5%88%86%E8%BF%98%E8%83%BD%E7%BB%A7%E7%BB%AD%E6%B4%BB%E5%A4%9A%E5%B9%B4%23" target="weibo">
 人死后体内重要部分还能继续活多年（热度：1438522）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%B8%A61%E5%B2%81%E7%94%B7%E7%AB%A5%E5%9B%9E%E5%AE%B6%E8%A2%AB%E6%81%B6%E7%8B%97%E6%92%95%E5%92%AC3%E5%88%86%E9%92%9F%23" target="weibo">
-老人带1岁男童回家被恶狗撕咬3分钟（热度：1437488）
 </a>
 </li>
 
@@ -4761,6 +4761,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E4%BA%AC%E7%AD%89%E5%9C%B0%E6%8B%9F%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E7%BC%96%E5%88%B6%23" target="weibo">
+官方回应北京等地拟取消教师编制（热度：958404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2324%E5%B2%81%E8%A2%AB%E5%A6%88%E5%A6%88%E5%8F%91%E6%B6%88%E6%81%AF%E8%AF%B4%E6%B3%A8%E6%84%8F%E9%81%BF%E5%AD%95%23" target="weibo">
 24岁被妈妈发消息说注意避孕（热度：958333）
 </a>
@@ -5237,12 +5243,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD%23" target="weibo">
 外交部建议在以中国公民尽快回国（热度：883818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E5%8C%97%E4%BA%AC%E7%AD%89%E5%9C%B0%E6%8B%9F%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E7%BC%96%E5%88%B6%23" target="weibo">
-官方回应北京等地拟取消教师编制（热度：883609）
 </a>
 </li>
 
