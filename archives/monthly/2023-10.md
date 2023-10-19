@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 19:14:36
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 19:34:08
 </p>
 </blockquote>
 <p>
@@ -3147,6 +3147,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
+14岁男孩口渴误喝百草枯肾衰竭（热度：1308476）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E7%94%A8%E5%98%B4%E5%B8%AE%E5%A5%B3%E5%8F%8B%E5%90%B8%E4%BC%A4%E5%8F%A3%E7%A1%AE%E8%AF%8A%E4%B8%89%E7%BA%A7%E6%9A%B4%E9%9C%B2%23" target="weibo">
 男生用嘴帮女友吸伤口确诊三级暴露（热度：1305421）
 </a>
@@ -3653,12 +3659,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E7%91%B6%E8%87%AA%E9%A6%96%E4%BA%86%23" target="weibo">
 姚瑶自首了（热度：1165339）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
-14岁男孩口渴误喝百草枯肾衰竭（热度：1163208）
 </a>
 </li>
 
@@ -4529,6 +4529,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E9%BB%84%E6%99%93%E6%98%8E%E8%BF%98%E6%98%AF%E9%BB%84%E5%B0%8F%E5%A4%AB%23" target="weibo">
 这是黄晓明还是黄小夫（热度：980967）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23DK%20%E7%96%AF%E7%89%9B%E7%97%85%23" target="weibo">
+DK 疯牛病（热度：980505）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ THE9演唱会抢票（热度：807449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E8%83%BD%E9%80%92%E8%A1%A5%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E5%90%97%23" target="weibo">
 中国男篮能递补亚运金牌吗（热度：802661）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%88%AA%E4%BA%86%E4%B8%8B%E5%8D%8A%E8%BA%AB%E4%B9%8B%E5%90%8E%E7%9A%84%E7%BB%8F%E5%8E%86%23" target="weibo">
-男子被截了下半身之后的经历（热度：801317）
 </a>
 </li>
 

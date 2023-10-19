@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697714076830,
+  "endTime": 1697715248846,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -1027,6 +1027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1308476,
+      "num": 1308476,
+      "word": "14岁男孩口渴误喝百草枯肾衰竭",
+      "onboard_time": 1697710956,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1305421,
       "num": 617172,
       "word": "男生用嘴帮女友吸伤口确诊三级暴露",
@@ -1184,14 +1192,6 @@
       "word": "女主播直播间擦边卖咖啡牵出3亿大案",
       "onboard_time": 1697612432,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1163208,
-      "num": 1163208,
-      "word": "14岁男孩口渴误喝百草枯肾衰竭",
-      "onboard_time": 1697710956,
-      "rank": 23,
       "category": "社会新闻"
     },
     {
@@ -1521,6 +1521,14 @@
       "onboard_time": 1697596470,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 980505,
+      "num": 980505,
+      "word": "DK 疯牛病",
+      "onboard_time": 1697714254,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 978680,
@@ -2507,6 +2515,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 682349,
+      "num": 555097,
+      "word": "线下那些卖三五百的衣服",
+      "onboard_time": 1697712277,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 681319,
       "num": 681319,
       "word": "G2对战DK",
@@ -2529,6 +2545,14 @@
       "onboard_time": 1697524415,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 679707,
+      "num": 679707,
+      "word": "WBG战胜NRG",
+      "onboard_time": 1697714374,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 677476,
@@ -2891,6 +2915,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 592529,
+      "num": 592529,
+      "word": "B站申请天官赐福谢怜商标",
+      "onboard_time": 1697712397,
+      "rank": 7,
+      "category": "互联网,动漫"
+    },
+    {
       "raw_hot": 587692,
       "num": 587692,
       "word": "大张伟偷拿妈妈丝巾送粉丝",
@@ -2937,14 +2969,6 @@
       "onboard_time": 1697599112,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 581884,
-      "num": 581884,
-      "word": "B站申请天官赐福谢怜商标",
-      "onboard_time": 1697712397,
-      "rank": 7,
-      "category": "互联网,动漫"
     },
     {
       "raw_hot": 581668,
@@ -3355,6 +3379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 534751,
+      "num": 534751,
+      "word": "陈奕迅发文回应澳门演唱会延期",
+      "onboard_time": 1697711737,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 533070,
       "num": 533070,
       "word": "法考",
@@ -3587,6 +3619,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 502078,
+      "num": 502078,
+      "word": "朱一龙 一怒之下怒了一下",
+      "onboard_time": 1697712756,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 500918,
       "num": 500918,
       "word": "国防部回应我战机驱离加拿大侦察机",
@@ -3616,14 +3656,6 @@
       "word": "电影分级",
       "onboard_time": 1697700336,
       "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 498459,
-      "num": 498459,
-      "word": "朱一龙 一怒之下怒了一下",
-      "onboard_time": 1697712756,
-      "rank": 8,
       "category": "电影"
     },
     {
@@ -4059,14 +4091,6 @@
       "category": "综艺,综艺"
     },
     {
-      "raw_hot": 460298,
-      "num": 232503,
-      "word": "线下那些卖三五百的衣服",
-      "onboard_time": 1697712277,
-      "rank": 30,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 458882,
       "num": 458882,
       "word": "王栎鑫向张杰吐槽逆战难唱",
@@ -4241,14 +4265,6 @@
       "onboard_time": 1697696499,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 445826,
-      "num": 349239,
-      "word": "陈奕迅发文回应澳门演唱会延期",
-      "onboard_time": 1697711737,
-      "rank": 15,
-      "category": "演出"
     },
     {
       "raw_hot": 445554,
@@ -4939,6 +4955,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 390386,
+      "num": 390386,
+      "word": "WBG 稳稳的幸福",
+      "onboard_time": 1697715035,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 390280,
       "num": 390280,
       "word": "夭柳有这一幕圆满了",
@@ -5233,6 +5257,14 @@
       "onboard_time": 1697342194,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 366700,
+      "num": 366700,
+      "word": "李现直播",
+      "onboard_time": 1697714618,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 365901,
@@ -5649,6 +5681,14 @@
       "onboard_time": 1697689779,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 338226,
+      "num": 338226,
+      "word": "街道辟谣四川被咬女童先动手砸狗",
+      "onboard_time": 1697714196,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337880,
@@ -7667,6 +7707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243690,
+      "num": 243690,
+      "word": "我的大叔",
+      "onboard_time": 1697713596,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242366,
       "num": 242366,
       "word": "虎子无痛升仙",
@@ -7907,6 +7955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 233013,
+      "num": 233013,
+      "word": "只有黄凯在认真难过",
+      "onboard_time": 1697712996,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232829,
       "num": 232829,
       "word": "他每天走两万步只为隐患无处可逃",
@@ -7955,14 +8011,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231089,
-      "num": 231089,
-      "word": "只有黄凯在认真难过",
-      "onboard_time": 1697712996,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 230804,
       "num": 230804,
       "word": "于和伟 朋友问我谁先动口的",
@@ -8001,6 +8049,14 @@
       "onboard_time": 1697440891,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 230258,
+      "num": 243440,
+      "word": "2岁娃逛动物园发现疑似金吊坠",
+      "onboard_time": 1697713776,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229907,
@@ -8083,14 +8139,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 227580,
-      "num": 227580,
-      "word": "我的大叔",
-      "onboard_time": 1697713596,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227115,
       "num": 227115,
       "word": "被关晓彤身上的姐感蛊到",
@@ -8121,6 +8169,14 @@
       "onboard_time": 1697687376,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226474,
+      "num": 226474,
+      "word": "等一个周也王星越二搭",
+      "onboard_time": 1697714317,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 226378,
@@ -8307,6 +8363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218996,
+      "num": 218996,
+      "word": "宋威龙 三年不见男大十八变",
+      "onboard_time": 1697715156,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218850,
       "num": 218850,
       "word": "宝马与出租碰撞暂未发现开斗气车",
@@ -8409,6 +8473,14 @@
       "onboard_time": 1697706938,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214992,
+      "num": 214992,
+      "word": "TheShy时隔1447天再登S赛",
+      "onboard_time": 1697715035,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 214837,
@@ -10123,6 +10195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187047,
+      "num": 187047,
+      "word": "TheShy亮iG队标",
+      "onboard_time": 1697715216,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186603,
       "num": 186603,
       "word": "两句话让对方军师干懵了",
@@ -10417,6 +10497,14 @@
       "onboard_time": 1697611295,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179969,
+      "num": 179969,
+      "word": "即使身处低谷也凭自己逆风翻盘",
+      "onboard_time": 1697715216,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 179881,
@@ -11395,14 +11483,6 @@
       "category": "自然"
     },
     {
-      "raw_hot": 159327,
-      "num": 159327,
-      "word": "2岁娃逛动物园发现疑似金吊坠",
-      "onboard_time": 1697713776,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 159144,
       "num": 159144,
       "word": "我们的歌B组阵容",
@@ -11700,7 +11780,7 @@
     },
     {
       "raw_hot": 151532,
-      "num": 756915,
+      "num": 1006624,
       "word": "折叠男孩今日出院想吃妈妈做的饭",
       "onboard_time": 1697710418,
       "rank": 14,
@@ -11732,7 +11812,7 @@
     },
     {
       "raw_hot": 150225,
-      "num": 232926,
+      "num": 729005,
       "word": "老姐妹识破骗局帮我保住15万",
       "onboard_time": 1697714018,
       "rank": 29,
@@ -13361,6 +13441,14 @@
       "onboard_time": 1697397734,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 47250,
+      "num": 183510,
+      "word": "中国人需要自己的燃油高性能车",
+      "onboard_time": 1697714976,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 46332,

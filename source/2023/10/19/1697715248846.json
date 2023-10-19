@@ -1,0 +1,410 @@
+{
+  "runTime": 1697715248846,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2422226,
+        "num": 2422226,
+        "word": "曝韩国L姓顶级演员涉嫌吸毒",
+        "onboard_time": 1697708254,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281082,
+        "num": 1763084,
+        "word": "造型似外星人设备助中国企业拿海外订单",
+        "onboard_time": 1697708073,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8791,
+        "num": 1336925,
+        "word": "一带一路的100个故事",
+        "onboard_time": 1697618256,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1308476,
+        "num": 1308476,
+        "word": "14岁男孩口渴误喝百草枯肾衰竭",
+        "onboard_time": 1697710956,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136805,
+        "num": 1006624,
+        "word": "折叠男孩今日出院想吃妈妈做的饭",
+        "onboard_time": 1697710418,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 980505,
+        "num": 980505,
+        "word": "DK 疯牛病",
+        "onboard_time": 1697714254,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126741,
+        "num": 729005,
+        "word": "老姐妹识破骗局帮我保住15万",
+        "onboard_time": 1697714018,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679707,
+        "num": 679707,
+        "word": "WBG战胜NRG",
+        "onboard_time": 1697714374,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 630802,
+        "num": 630802,
+        "word": "苹果员工被曝涉嫌性侵米哈游职员",
+        "onboard_time": 1697705494,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592529,
+        "num": 592529,
+        "word": "B站申请天官赐福谢怜商标",
+        "onboard_time": 1697712397,
+        "rank": 9,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 1071692,
+        "num": 574560,
+        "word": "海滩失踪女童遗体找到",
+        "onboard_time": 1697693016,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682349,
+        "num": 555097,
+        "word": "线下那些卖三五百的衣服",
+        "onboard_time": 1697712277,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 534751,
+        "num": 534751,
+        "word": "陈奕迅发文回应澳门演唱会延期",
+        "onboard_time": 1697711737,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 502078,
+        "num": 502078,
+        "word": "朱一龙 一怒之下怒了一下",
+        "onboard_time": 1697712756,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390516,
+        "num": 390516,
+        "word": "李善均",
+        "onboard_time": 1697708736,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 390386,
+        "num": 390386,
+        "word": "WBG 稳稳的幸福",
+        "onboard_time": 1697715035,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 366700,
+        "num": 366700,
+        "word": "李现直播",
+        "onboard_time": 1697714618,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363591,
+        "num": 363591,
+        "word": "独立咖啡店主诉苦被9块9咖啡卷死",
+        "onboard_time": 1697708497,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 520936,
+        "num": 357805,
+        "word": "遭绑架网红罗大美遗体疑在红薯窖被找到",
+        "onboard_time": 1697710175,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1485644,
+        "num": 354259,
+        "word": "百万粉丝网红罗大美遭熟人绑架杀害",
+        "onboard_time": 1697706156,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 842909,
+        "num": 346459,
+        "word": "萧敬腾林有慧官宣结婚",
+        "onboard_time": 1697702675,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338226,
+        "num": 338226,
+        "word": "街道辟谣四川被咬女童先动手砸狗",
+        "onboard_time": 1697714196,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 313302,
+        "num": 313302,
+        "word": "可可西里网红狼被游客投喂",
+        "onboard_time": 1697711256,
+        "rank": 22,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 311877,
+        "num": 311877,
+        "word": "海外同事吃饺子 一两one two",
+        "onboard_time": 1697711017,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282028,
+        "num": 282028,
+        "word": "终于找到过敏孩子变多的原因了",
+        "onboard_time": 1697713358,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 269038,
+        "num": 269038,
+        "word": "爷爷去世男子高速上崩溃交警守护1小时",
+        "onboard_time": 1697710536,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 246352,
+        "num": 246352,
+        "word": "女童父亲行为是否构成犯罪",
+        "onboard_time": 1697695424,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244396,
+        "num": 244396,
+        "word": "韩素希新头像是TXT",
+        "onboard_time": 1697705555,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243690,
+        "num": 243690,
+        "word": "我的大叔",
+        "onboard_time": 1697713596,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230258,
+        "num": 243440,
+        "word": "2岁娃逛动物园发现疑似金吊坠",
+        "onboard_time": 1697713776,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243332,
+        "num": 243332,
+        "word": "G2战胜DK",
+        "onboard_time": 1697711136,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241008,
+        "num": 241008,
+        "word": "要久久爱暂定Q4播出",
+        "onboard_time": 1697711916,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233013,
+        "num": 233013,
+        "word": "只有黄凯在认真难过",
+        "onboard_time": 1697712996,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 226474,
+        "num": 226474,
+        "word": "等一个周也王星越二搭",
+        "onboard_time": 1697714317,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218996,
+        "num": 218996,
+        "word": "宋威龙 三年不见男大十八变",
+        "onboard_time": 1697715156,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214992,
+        "num": 214992,
+        "word": "TheShy时隔1447天再登S赛",
+        "onboard_time": 1697715035,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213160,
+        "num": 213160,
+        "word": "他从主公变成了公主",
+        "onboard_time": 1697697696,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208349,
+        "num": 208349,
+        "word": "原来是随份子雨",
+        "onboard_time": 1697705013,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206696,
+        "num": 206696,
+        "word": "于适这个主角是靠自己撕咬来的",
+        "onboard_time": 1697711975,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196571,
+        "num": 196571,
+        "word": "杭州特色美食 萨莉亚",
+        "onboard_time": 1697711794,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199588,
+        "num": 195456,
+        "word": "白敬亭宋轶同款打卡",
+        "onboard_time": 1697696978,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188931,
+        "num": 188931,
+        "word": "沈腾恭喜华晨宇把贾玲熬走了",
+        "onboard_time": 1697703814,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187484,
+        "num": 187484,
+        "word": "原来二两米粉不是二两重的粉",
+        "onboard_time": 1697703456,
+        "rank": 42,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 195098,
+        "num": 187328,
+        "word": "新娘刚下婚车就被系上围裙",
+        "onboard_time": 1697699497,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187047,
+        "num": 187047,
+        "word": "TheShy亮iG队标",
+        "onboard_time": 1697715216,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47250,
+        "num": 183510,
+        "word": "中国人需要自己的燃油高性能车",
+        "onboard_time": 1697714976,
+        "rank": 45,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 182162,
+        "num": 182162,
+        "word": "时代少年团下班穿出了四个季节",
+        "onboard_time": 1697711675,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84725,
+        "num": 180851,
+        "word": "基建狂魔28天拉入16道岔爆改老火车站",
+        "onboard_time": 1697708497,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179969,
+        "num": 179969,
+        "word": "即使身处低谷也凭自己逆风翻盘",
+        "onboard_time": 1697715216,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178281,
+        "num": 178281,
+        "word": "王琳凯 公主请看vlog",
+        "onboard_time": 1697712095,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}
