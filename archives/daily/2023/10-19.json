@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697707037044,
+  "endTime": 1697708070042,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2719279,
-      "num": 619966,
+      "num": 710894,
       "word": "女童父亲行为是否构成犯罪",
       "onboard_time": 1697695424,
       "rank": 16,
@@ -72,6 +72,22 @@
       "word": "警方通报网传南京醉酒女子被性侵",
       "onboard_time": 1697674595,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2023448,
+      "num": 2023448,
+      "word": "苹果员工被曝涉嫌性侵米哈游职员",
+      "onboard_time": 1697705494,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1968998,
+      "num": 1968998,
+      "word": "百万粉丝网红罗大美遭熟人绑架杀害",
+      "onboard_time": 1697706156,
+      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -155,14 +171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1240052,
-      "num": 1240052,
-      "word": "苹果员工被曝涉嫌性侵米哈游职员",
-      "onboard_time": 1697705494,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1138151,
       "num": 326887,
       "word": "年存款2.4万是什么概念",
@@ -177,6 +185,14 @@
       "onboard_time": 1697701958,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1032880,
+      "num": 1032880,
+      "word": "一名日籍药企员工涉间谍罪在华被捕",
+      "onboard_time": 1697706756,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1000414,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 851266,
-      "num": 343327,
+      "num": 346551,
       "word": "外媒报道称张艺兴是KpopSuperstar",
       "onboard_time": 1697701417,
       "rank": 13,
@@ -305,14 +321,6 @@
       "onboard_time": 1697696978,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 787352,
-      "num": 787352,
-      "word": "百万粉丝网红罗大美遭熟人绑架杀害",
-      "onboard_time": 1697706156,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 771549,
@@ -427,6 +435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603019,
+      "num": 363068,
+      "word": "韩素希新头像是TXT",
+      "onboard_time": 1697705555,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 580681,
       "num": 563948,
       "word": "第一次知道银行卡会到期",
@@ -475,14 +491,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 535273,
-      "num": 343095,
-      "word": "韩素希新头像是TXT",
-      "onboard_time": 1697705555,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 522645,
       "num": 522645,
       "word": "内马尔重伤将手术",
@@ -521,6 +529,14 @@
       "onboard_time": 1697688516,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 487613,
+      "num": 487613,
+      "word": "塞尔维亚总统夫人逛秀水街",
+      "onboard_time": 1697705916,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 487404,
@@ -603,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 459370,
+      "num": 354560,
+      "word": "原来是随份子雨",
+      "onboard_time": 1697705013,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 455068,
       "num": 455068,
       "word": "拜登讲话用911提醒以色列",
@@ -617,6 +641,14 @@
       "onboard_time": 1697683173,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 450986,
+      "num": 347653,
+      "word": "郭麒麟越来越像郭德纲了",
+      "onboard_time": 1697704414,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 448495,
@@ -641,14 +673,6 @@
       "onboard_time": 1697693138,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 440023,
-      "num": 342952,
-      "word": "郭麒麟越来越像郭德纲了",
-      "onboard_time": 1697704414,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 438556,
@@ -705,14 +729,6 @@
       "onboard_time": 1697696560,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 418294,
-      "num": 342700,
-      "word": "原来是随份子雨",
-      "onboard_time": 1697705013,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 416514,
@@ -779,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376381,
+      "num": 376381,
+      "word": "JDG战胜BDS",
+      "onboard_time": 1697706633,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 375113,
       "num": 432796,
       "word": "酒吧街醉酒事件2人未发生实质性关系",
@@ -835,28 +859,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 343572,
-      "num": 343572,
-      "word": "JDG战胜BDS",
-      "onboard_time": 1697706633,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 343389,
       "num": 343389,
       "word": "三方机构审计水滴筹亏损超6000万",
       "onboard_time": 1697691038,
       "rank": 18,
       "category": "财经,社会新闻"
-    },
-    {
-      "raw_hot": 342666,
-      "num": 342666,
-      "word": "塞尔维亚总统夫人逛秀水街",
-      "onboard_time": 1697705916,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 341991,
@@ -889,6 +897,14 @@
       "onboard_time": 1697702316,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 333781,
+      "num": 333781,
+      "word": "崔胜澈不参与SEVENTEEN此次回归",
+      "onboard_time": 1697707356,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 333505,
@@ -1011,14 +1027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 285653,
-      "num": 285653,
-      "word": "一名日籍药企员工涉间谍罪在华被捕",
-      "onboard_time": 1697706756,
-      "rank": 25,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 284271,
       "num": 284271,
       "word": "于适别追猪了追我",
@@ -1059,6 +1067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275683,
+      "num": 275683,
+      "word": "夫妻靠开河蚌两个月赚五六万",
+      "onboard_time": 1697705853,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274760,
       "num": 261210,
       "word": "关晓彤 慵懒式性感",
@@ -1091,6 +1107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 269388,
+      "num": 269388,
+      "word": "刘亚仁再次被不拘留起诉",
+      "onboard_time": 1697706697,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267718,
       "num": 267718,
       "word": "服务员拾还百万存折被奖励带薪休假",
@@ -1105,14 +1129,6 @@
       "onboard_time": 1697682093,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 258226,
-      "num": 258226,
-      "word": "夫妻靠开河蚌两个月赚五六万",
-      "onboard_time": 1697705853,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 256793,
@@ -1227,6 +1243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235047,
+      "num": 235047,
+      "word": "2023MAMA提名公布",
+      "onboard_time": 1697707296,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 230568,
       "num": 361207,
       "word": "小米14",
@@ -1291,6 +1315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218850,
+      "num": 218850,
+      "word": "宝马与出租碰撞暂未发现开斗气车",
+      "onboard_time": 1697707296,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218173,
       "num": 199524,
       "word": "成都一养狗人选择凌晨2点遛狗",
@@ -1305,6 +1337,14 @@
       "onboard_time": 1697673514,
       "rank": 35,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 215083,
+      "num": 215083,
+      "word": "沈腾让唐嫣绷不住了",
+      "onboard_time": 1697706938,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 213439,
@@ -1467,12 +1507,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 194043,
-      "num": 194043,
-      "word": "刘亚仁再次被不拘留起诉",
-      "onboard_time": 1697706697,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 194214,
+      "num": 194214,
+      "word": "广州交警通报宝马与出租碰撞起火司机身亡",
+      "onboard_time": 1697707775,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192357,
@@ -1547,6 +1587,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 184381,
+      "num": 184381,
+      "word": "JDG开门红",
+      "onboard_time": 1697706875,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183646,
       "num": 183646,
       "word": "娜扎黑色开叉长裙",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1697678376,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177095,
+      "num": 177095,
+      "word": "跳绳 训僵尸",
+      "onboard_time": 1697706697,
+      "rank": 46,
+      "category": "幽默,运动健身"
     },
     {
       "raw_hot": 176076,
@@ -1705,14 +1761,6 @@
       "onboard_time": 1697681973,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165403,
-      "num": 165403,
-      "word": "JDG开门红",
-      "onboard_time": 1697706875,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 165033,
@@ -1971,14 +2019,6 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 140857,
-      "num": 140857,
-      "word": "跳绳 训僵尸",
-      "onboard_time": 1697706697,
-      "rank": 46,
-      "category": "幽默,运动健身"
-    },
-    {
       "raw_hot": 139947,
       "num": 139947,
       "word": "田耕纪爱奇艺热度值破8888",
@@ -1995,12 +2035,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 135775,
-      "num": 135775,
-      "word": "沈腾让唐嫣绷不住了",
-      "onboard_time": 1697706938,
-      "rank": 48,
-      "category": "综艺"
+      "raw_hot": 136002,
+      "num": 178869,
+      "word": "FindN3获国密安全认证",
+      "onboard_time": 1697707775,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 134300,
@@ -2129,6 +2169,14 @@
       "onboard_time": 1697641957,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 94193,
+      "num": 145121,
+      "word": "天猫试点飞人送快递惊呆路人",
+      "onboard_time": 1697707775,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 90728,
@@ -2291,19 +2339,19 @@
       "category": "其它"
     },
     {
+      "raw_hot": 10063,
+      "num": 1594419,
+      "word": "一带一路的100个故事",
+      "onboard_time": 1697618256,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 9454,
       "num": 220338,
       "word": "杭州亚残运会火炬传递启动",
       "onboard_time": 1697704357,
       "rank": 30,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 8351,
-      "num": 815447,
-      "word": "一带一路的100个故事",
-      "onboard_time": 1697618256,
-      "rank": 2,
       "category": "社会新闻"
     }
   ],

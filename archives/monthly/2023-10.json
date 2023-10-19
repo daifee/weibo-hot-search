@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697707037044,
+  "endTime": 1697708070042,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 2719279,
-      "num": 619966,
+      "num": 710894,
       "word": "女童父亲行为是否构成犯罪",
       "onboard_time": 1697695424,
       "rank": 16,
@@ -1731,6 +1731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2023448,
+      "num": 2023448,
+      "word": "苹果员工被曝涉嫌性侵米哈游职员",
+      "onboard_time": 1697705494,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2020477,
       "num": 2020477,
       "word": "李佳 牛",
@@ -1881,6 +1889,14 @@
       "onboard_time": 1697379216,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1968998,
+      "num": 1968998,
+      "word": "百万粉丝网红罗大美遭熟人绑架杀害",
+      "onboard_time": 1697706156,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1954001,
@@ -4435,14 +4451,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 1240052,
-      "num": 1240052,
-      "word": "苹果员工被曝涉嫌性侵米哈游职员",
-      "onboard_time": 1697705494,
-      "rank": 1,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1237386,
       "num": 1237386,
       "word": "韩国朝鲜女双争金",
@@ -5521,6 +5529,14 @@
       "onboard_time": 1696773039,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1032880,
+      "num": 1032880,
+      "word": "一名日籍药企员工涉间谍罪在华被捕",
+      "onboard_time": 1697706756,
+      "rank": 25,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1032557,
@@ -7324,7 +7340,7 @@
     },
     {
       "raw_hot": 851266,
-      "num": 343327,
+      "num": 346551,
       "word": "外媒报道称张艺兴是KpopSuperstar",
       "onboard_time": 1697701417,
       "rank": 13,
@@ -8225,14 +8241,6 @@
       "onboard_time": 1696678536,
       "rank": 10,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 787352,
-      "num": 787352,
-      "word": "百万粉丝网红罗大美遭熟人绑架杀害",
-      "onboard_time": 1697706156,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 786920,
@@ -11483,6 +11491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 603019,
+      "num": 363068,
+      "word": "韩素希新头像是TXT",
+      "onboard_time": 1697705555,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 602599,
       "num": 401075,
       "word": "身体还很年轻的表现",
@@ -13283,14 +13299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 535273,
-      "num": 343095,
-      "word": "韩素希新头像是TXT",
-      "onboard_time": 1697705555,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 534211,
       "num": 534211,
       "word": "金马最佳男主角提名",
@@ -14875,6 +14883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 487613,
+      "num": 487613,
+      "word": "塞尔维亚总统夫人逛秀水街",
+      "onboard_time": 1697705916,
+      "rank": 18,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 487579,
       "num": 487579,
       "word": "陈雨菲最后一届亚运会",
@@ -16027,6 +16043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 459370,
+      "num": 354560,
+      "word": "原来是随份子雨",
+      "onboard_time": 1697705013,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 459254,
       "num": 459254,
       "word": "林俊杰没有一首一千年以后是一样的",
@@ -16369,6 +16393,14 @@
       "onboard_time": 1696743516,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 450986,
+      "num": 347653,
+      "word": "郭麒麟越来越像郭德纲了",
+      "onboard_time": 1697704414,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 450966,
@@ -16921,14 +16953,6 @@
       "onboard_time": 1697185713,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 440023,
-      "num": 342952,
-      "word": "郭麒麟越来越像郭德纲了",
-      "onboard_time": 1697704414,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 439961,
@@ -17769,14 +17793,6 @@
       "onboard_time": 1697514514,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 418294,
-      "num": 342700,
-      "word": "原来是随份子雨",
-      "onboard_time": 1697705013,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 418261,
@@ -19755,6 +19771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 376381,
+      "num": 376381,
+      "word": "JDG战胜BDS",
+      "onboard_time": 1697706633,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 376365,
       "num": 376365,
       "word": "俄罗斯外长拉夫罗夫抵达北京",
@@ -21707,14 +21731,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 343572,
-      "num": 343572,
-      "word": "JDG战胜BDS",
-      "onboard_time": 1697706633,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 343553,
       "num": 343553,
       "word": "白敬亭李沐风开机照",
@@ -21793,14 +21809,6 @@
       "onboard_time": 1696171481,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 342666,
-      "num": 342666,
-      "word": "塞尔维亚总统夫人逛秀水街",
-      "onboard_time": 1697705916,
-      "rank": 18,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 342574,
@@ -22377,6 +22385,14 @@
       "onboard_time": 1697231593,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 333781,
+      "num": 333781,
+      "word": "崔胜澈不参与SEVENTEEN此次回归",
+      "onboard_time": 1697707356,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 333518,
@@ -25915,14 +25931,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 285653,
-      "num": 285653,
-      "word": "一名日籍药企员工涉间谍罪在华被捕",
-      "onboard_time": 1697706756,
-      "rank": 25,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 285648,
       "num": 274742,
       "word": "罗云熙古装梦回润玉",
@@ -26883,6 +26891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 275683,
+      "num": 275683,
+      "word": "夫妻靠开河蚌两个月赚五六万",
+      "onboard_time": 1697705853,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 275497,
       "num": 275497,
       "word": "EDG第一幕夺冠",
@@ -27568,6 +27584,14 @@
       "word": "迪丽热巴好像导游",
       "onboard_time": 1696561896,
       "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 269388,
+      "num": 269388,
+      "word": "刘亚仁再次被不拘留起诉",
+      "onboard_time": 1697706697,
+      "rank": 37,
       "category": "艺人"
     },
     {
@@ -28745,14 +28769,6 @@
       "onboard_time": 1696247855,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 258226,
-      "num": 258226,
-      "word": "夫妻靠开河蚌两个月赚五六万",
-      "onboard_time": 1697705853,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 258096,
@@ -31491,6 +31507,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 235047,
+      "num": 235047,
+      "word": "2023MAMA提名公布",
+      "onboard_time": 1697707296,
+      "rank": 30,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 234989,
       "num": 234989,
       "word": "韩旭和武大靖约冰壶一起拖地",
@@ -33475,6 +33499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218850,
+      "num": 218850,
+      "word": "宝马与出租碰撞暂未发现开斗气车",
+      "onboard_time": 1697707296,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 218792,
       "num": 218792,
       "word": "关晓彤推荐北京美食",
@@ -33825,6 +33857,14 @@
       "onboard_time": 1696493732,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 215083,
+      "num": 215083,
+      "word": "沈腾让唐嫣绷不住了",
+      "onboard_time": 1697706938,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 215026,
@@ -38123,6 +38163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194214,
+      "num": 194214,
+      "word": "广州交警通报宝马与出租碰撞起火司机身亡",
+      "onboard_time": 1697707775,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194213,
       "num": 194213,
       "word": "九章三号求解特定问题比超算快1亿亿倍",
@@ -38153,14 +38201,6 @@
       "onboard_time": 1696643255,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194043,
-      "num": 194043,
-      "word": "刘亚仁再次被不拘留起诉",
-      "onboard_time": 1697706697,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 194039,
@@ -40275,6 +40315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184381,
+      "num": 184381,
+      "word": "JDG开门红",
+      "onboard_time": 1697706875,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 184356,
       "num": 184356,
       "word": "张杰马冬梅行为",
@@ -41513,6 +41561,14 @@
       "onboard_time": 1697622877,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177095,
+      "num": 177095,
+      "word": "跳绳 训僵尸",
+      "onboard_time": 1697706697,
+      "rank": 46,
+      "category": "幽默,运动健身"
     },
     {
       "raw_hot": 177053,
@@ -43313,14 +43369,6 @@
       "onboard_time": 1697616514,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165403,
-      "num": 165403,
-      "word": "JDG开门红",
-      "onboard_time": 1697706875,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 165382,
@@ -46667,14 +46715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 140857,
-      "num": 140857,
-      "word": "跳绳 训僵尸",
-      "onboard_time": 1697706697,
-      "rank": 46,
-      "category": "幽默,运动健身"
-    },
-    {
       "raw_hot": 140619,
       "num": 140619,
       "word": "好事成双大结局预告",
@@ -47171,6 +47211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136002,
+      "num": 178869,
+      "word": "FindN3获国密安全认证",
+      "onboard_time": 1697707775,
+      "rank": 39,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135957,
       "num": 141766,
       "word": "卡卡中国行",
@@ -47201,14 +47249,6 @@
       "onboard_time": 1697553822,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135775,
-      "num": 135775,
-      "word": "沈腾让唐嫣绷不住了",
-      "onboard_time": 1697706938,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 135697,
@@ -49675,6 +49715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94193,
+      "num": 145121,
+      "word": "天猫试点飞人送快递惊呆路人",
+      "onboard_time": 1697707775,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93703,
       "num": 93703,
       "word": "纽卡斯尔联4比1巴黎圣日耳曼",
@@ -50796,7 +50844,7 @@
     },
     {
       "raw_hot": 61528,
-      "num": 965298,
+      "num": 1594419,
       "word": "一带一路的100个故事",
       "onboard_time": 1697618256,
       "rank": 2,
