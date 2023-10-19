@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697700836186,
+  "endTime": 1697703723367,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1696856555,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2205646,
+      "num": 316439,
+      "word": "萧敬腾林有慧官宣结婚",
+      "onboard_time": 1697702675,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 2198311,
@@ -4963,6 +4971,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1124782,
+      "num": 489386,
+      "word": "屈楚萧也去了封神训练营",
+      "onboard_time": 1697701958,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1122807,
       "num": 572669,
       "word": "孙颖莎陈梦27拍相持",
@@ -5995,6 +6011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 978210,
+      "num": 388953,
+      "word": "他从主公变成了公主",
+      "onboard_time": 1697697696,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 977206,
       "num": 977206,
       "word": "月薪一万买不起面包",
@@ -6081,14 +6105,6 @@
       "onboard_time": 1696384713,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 969316,
-      "num": 388953,
-      "word": "他从主公变成了公主",
-      "onboard_time": 1697697696,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 968649,
@@ -7289,6 +7305,14 @@
       "onboard_time": 1697360612,
       "rank": 16,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 851266,
+      "num": 306967,
+      "word": "外媒报道称张艺兴是KpopSuperstar",
+      "onboard_time": 1697701417,
+      "rank": 13,
+      "category": "艺人,幽默"
     },
     {
       "raw_hot": 850385,
@@ -9729,6 +9753,14 @@
       "onboard_time": 1696337680,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 688320,
+      "num": 857605,
+      "word": "宝马与出租车碰撞侧翻起火司机身亡",
+      "onboard_time": 1697702075,
+      "rank": 0,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 686649,
@@ -14347,6 +14379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499293,
+      "num": 306522,
+      "word": "电影分级",
+      "onboard_time": 1697700336,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 499292,
       "num": 432281,
       "word": "中日韩三国选手相互安慰离场",
@@ -14817,6 +14857,14 @@
       "onboard_time": 1697184394,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 487089,
+      "num": 487089,
+      "word": "白百何首演古装长剧",
+      "onboard_time": 1697700215,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 487015,
@@ -21891,6 +21939,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 338503,
+      "num": 234668,
+      "word": "水均益女儿从央视离职",
+      "onboard_time": 1697703336,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 338245,
       "num": 338245,
       "word": "辛爽 我们把火车从桦林开到了釜山",
@@ -22067,6 +22123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 335858,
+      "num": 208730,
+      "word": "张踩铃 到底是什么毁了大胖媳妇",
+      "onboard_time": 1697702316,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 335810,
       "num": 335810,
       "word": "张颂文不仅演外交官还当导游",
@@ -22153,14 +22217,6 @@
       "onboard_time": 1696173337,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334739,
-      "num": 334739,
-      "word": "白百何首演古装长剧",
-      "onboard_time": 1697700215,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 334685,
@@ -23979,14 +24035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 306522,
-      "num": 306522,
-      "word": "电影分级",
-      "onboard_time": 1697700336,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 306439,
       "num": 306439,
       "word": "王思懿 最美潘金莲",
@@ -25233,6 +25281,14 @@
       "onboard_time": 1696821098,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290977,
+      "num": 290977,
+      "word": "LPL开启S13首战",
+      "onboard_time": 1697700094,
+      "rank": 29,
+      "category": "电竞"
     },
     {
       "raw_hot": 290867,
@@ -26793,6 +26849,14 @@
       "onboard_time": 1696871600,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 274760,
+      "num": 233507,
+      "word": "关晓彤 慵懒式性感",
+      "onboard_time": 1697700998,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 274743,
@@ -30187,14 +30251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 244187,
-      "num": 244187,
-      "word": "LPL开启S13首战",
-      "onboard_time": 1697700094,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 244186,
       "num": 244186,
       "word": "张杰川音演绎蜀道难",
@@ -30593,6 +30649,14 @@
       "onboard_time": 1697083598,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 240458,
+      "num": 232795,
+      "word": "王楚钦参加比赛也得想论文选题",
+      "onboard_time": 1697702497,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 240441,
@@ -33067,6 +33131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220886,
+      "num": 208681,
+      "word": "原来二两米粉不是二两重的粉",
+      "onboard_time": 1697703456,
+      "rank": 32,
+      "category": "其它"
+    },
+    {
       "raw_hot": 220757,
       "num": 220757,
       "word": "李现观战中网",
@@ -34227,6 +34299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211130,
+      "num": 211130,
+      "word": "天官赐福 二季放映会",
+      "onboard_time": 1697700998,
+      "rank": 28,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 211124,
       "num": 253726,
       "word": "姚明说有两种承担责任的办法我都接受",
@@ -34377,6 +34457,14 @@
       "onboard_time": 1697532454,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 210324,
+      "num": 210324,
+      "word": "虞书欣巴黎ootd",
+      "onboard_time": 1697702916,
+      "rank": 30,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 210274,
@@ -35043,6 +35131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 206412,
+      "num": 206412,
+      "word": "陈都灵热爱cosplay的女孩",
+      "onboard_time": 1697700574,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206409,
       "num": 206409,
       "word": "没点语言天赋看不懂岳云鹏说的话",
@@ -35505,6 +35601,14 @@
       "onboard_time": 1697521354,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204189,
+      "num": 204189,
+      "word": "OPPO Find N3价格",
+      "onboard_time": 1697703218,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 204154,
@@ -39537,6 +39641,14 @@
       "onboard_time": 1696328979,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186799,
+      "num": 186799,
+      "word": "人类幼崽为什么害怕草坪",
+      "onboard_time": 1697702856,
+      "rank": 38,
+      "category": "母婴育儿,知识科普"
     },
     {
       "raw_hot": 186683,
@@ -44123,14 +44235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 158748,
-      "num": 158748,
-      "word": "陈都灵热爱cosplay的女孩",
-      "onboard_time": 1697700574,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 158738,
       "num": 158738,
       "word": "S13全球总决赛入围赛",
@@ -44819,6 +44923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 153913,
+      "num": 153913,
+      "word": "蛮憾全席",
+      "onboard_time": 1697703035,
+      "rank": 43,
+      "category": "幽默,美食"
+    },
+    {
       "raw_hot": 153761,
       "num": 153761,
       "word": "动态MVP",
@@ -44865,6 +44977,14 @@
       "onboard_time": 1697375436,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153053,
+      "num": 236189,
+      "word": "OPPO Find N3发布会",
+      "onboard_time": 1697703274,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 152857,
@@ -45825,6 +45945,14 @@
       "onboard_time": 1696856315,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145423,
+      "num": 175331,
+      "word": "大熊猫也爱抖腿",
+      "onboard_time": 1697703097,
+      "rank": 39,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 145354,
@@ -47529,6 +47657,14 @@
       "onboard_time": 1697256511,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 128847,
+      "num": 128847,
+      "word": "宋亚轩唱头发乱了",
+      "onboard_time": 1697701055,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 128811,
@@ -49729,6 +49865,14 @@
       "onboard_time": 1696718118,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81493,
+      "num": 210462,
+      "word": "折叠屏拍照还得看OPPO",
+      "onboard_time": 1697703274,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 81489,

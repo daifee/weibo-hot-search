@@ -1,0 +1,410 @@
+{
+  "runTime": 1697703723367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 688320,
+        "num": 857605,
+        "word": "宝马与出租车碰撞侧翻起火司机身亡",
+        "onboard_time": 1697702075,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 494772,
+        "num": 494772,
+        "word": "黄渤周迅新片尺度",
+        "onboard_time": 1697688276,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40193,
+        "num": 489551,
+        "word": "跨越山海的十年",
+        "onboard_time": 1697685573,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1124782,
+        "num": 489386,
+        "word": "屈楚萧也去了封神训练营",
+        "onboard_time": 1697701958,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487089,
+        "num": 487089,
+        "word": "白百何首演古装长剧",
+        "onboard_time": 1697700215,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2824716,
+        "num": 482305,
+        "word": "海滩失踪女童遗体找到",
+        "onboard_time": 1697693016,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 426581,
+        "num": 426581,
+        "word": "90后考上公职3个月开始贪污获刑3年",
+        "onboard_time": 1697691098,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392650,
+        "num": 392650,
+        "word": "贾玲让全世界知道了她妈妈叫李焕英",
+        "onboard_time": 1697696560,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349400,
+        "num": 349400,
+        "word": "加沙一家18口在空袭中遇难",
+        "onboard_time": 1697690142,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 318208,
+        "num": 318208,
+        "word": "第一次知道银行卡会到期",
+        "onboard_time": 1697691216,
+        "rank": 9,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 2205646,
+        "num": 316439,
+        "word": "萧敬腾林有慧官宣结婚",
+        "onboard_time": 1697702675,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1777400,
+        "num": 314709,
+        "word": "女童父亲行为是否构成犯罪",
+        "onboard_time": 1697695424,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 978210,
+        "num": 311211,
+        "word": "他从主公变成了公主",
+        "onboard_time": 1697697696,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 851266,
+        "num": 306967,
+        "word": "外媒报道称张艺兴是KpopSuperstar",
+        "onboard_time": 1697701417,
+        "rank": 13,
+        "category": "艺人,幽默"
+      },
+      {
+        "raw_hot": 607672,
+        "num": 304548,
+        "word": "刘亦菲车展买法拉利经典回顾",
+        "onboard_time": 1697692235,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 582806,
+        "num": 300685,
+        "word": "白敬亭宋轶同款打卡",
+        "onboard_time": 1697696978,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 499293,
+        "num": 294670,
+        "word": "电影分级",
+        "onboard_time": 1697700336,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332461,
+        "num": 291630,
+        "word": "她住进山野探索开放式两性关系",
+        "onboard_time": 1697692840,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290977,
+        "num": 290977,
+        "word": "LPL开启S13首战",
+        "onboard_time": 1697700094,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251327,
+        "num": 251327,
+        "word": "服务员拾还百万存折被奖励带薪休假",
+        "onboard_time": 1697694640,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 622824,
+        "num": 246306,
+        "word": "新娘刚下婚车就被系上围裙",
+        "onboard_time": 1697699497,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 153053,
+        "num": 236189,
+        "word": "OPPO Find N3发布会",
+        "onboard_time": 1697703274,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 399689,
+        "num": 235576,
+        "word": "年存款2.4万是什么概念",
+        "onboard_time": 1697682694,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 338503,
+        "num": 234668,
+        "word": "水均益女儿从央视离职",
+        "onboard_time": 1697703336,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 274760,
+        "num": 233507,
+        "word": "关晓彤 慵懒式性感",
+        "onboard_time": 1697700998,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240458,
+        "num": 232795,
+        "word": "王楚钦参加比赛也得想论文选题",
+        "onboard_time": 1697702497,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232174,
+        "num": 232174,
+        "word": "体制内的朋友圈越来越官方了",
+        "onboard_time": 1697681374,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 215349,
+        "num": 215349,
+        "word": "虎子无痛升仙",
+        "onboard_time": 1697700336,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211130,
+        "num": 211130,
+        "word": "天官赐福 二季放映会",
+        "onboard_time": 1697700998,
+        "rank": 28,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 81493,
+        "num": 210462,
+        "word": "折叠屏拍照还得看OPPO",
+        "onboard_time": 1697703274,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 210324,
+        "num": 210324,
+        "word": "虞书欣巴黎ootd",
+        "onboard_time": 1697702916,
+        "rank": 30,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 335858,
+        "num": 208730,
+        "word": "张踩铃 到底是什么毁了大胖媳妇",
+        "onboard_time": 1697702316,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 220886,
+        "num": 208681,
+        "word": "原来二两米粉不是二两重的粉",
+        "onboard_time": 1697703456,
+        "rank": 32,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 210380,
+        "num": 208216,
+        "word": "男子遛禁养犬被查后带狗飞奔",
+        "onboard_time": 1697696499,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206886,
+        "num": 206886,
+        "word": "男子拿U型锁暴击女友头部致死",
+        "onboard_time": 1697692958,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206412,
+        "num": 206412,
+        "word": "陈都灵热爱cosplay的女孩",
+        "onboard_time": 1697700574,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204189,
+        "num": 204189,
+        "word": "OPPO Find N3价格",
+        "onboard_time": 1697703218,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192676,
+        "num": 192676,
+        "word": "A股",
+        "onboard_time": 1697680413,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186799,
+        "num": 186799,
+        "word": "人类幼崽为什么害怕草坪",
+        "onboard_time": 1697702856,
+        "rank": 38,
+        "category": "母婴育儿,知识科普"
+      },
+      {
+        "raw_hot": 145423,
+        "num": 175331,
+        "word": "大熊猫也爱抖腿",
+        "onboard_time": 1697703097,
+        "rank": 39,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 169570,
+        "num": 169570,
+        "word": "华浅被仲溪午囚禁",
+        "onboard_time": 1697699977,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166736,
+        "num": 166736,
+        "word": "极氪001",
+        "onboard_time": 1697699139,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 154739,
+        "num": 154739,
+        "word": "猫 想救你但水真的太大了",
+        "onboard_time": 1697689598,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 153913,
+        "num": 153913,
+        "word": "蛮憾全席",
+        "onboard_time": 1697703035,
+        "rank": 43,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 153202,
+        "num": 153202,
+        "word": "研究发现蒙娜丽莎有毒",
+        "onboard_time": 1697687975,
+        "rank": 44,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 139110,
+        "num": 139110,
+        "word": "seventeen澳门",
+        "onboard_time": 1697697696,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130334,
+        "num": 130334,
+        "word": "刑法专家谈狗咬女童事件称不应搞株连",
+        "onboard_time": 1697693138,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128847,
+        "num": 128847,
+        "word": "宋亚轩唱头发乱了",
+        "onboard_time": 1697701055,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125399,
+        "num": 125399,
+        "word": "上海走失女童案排除刑事案件",
+        "onboard_time": 1697693261,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124302,
+        "num": 124302,
+        "word": "外媒称以色列军队已准备好进入加沙",
+        "onboard_time": 1697680714,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平出席第三届一带一路国际合作高峰论坛#"
+    }
+  }
+}
