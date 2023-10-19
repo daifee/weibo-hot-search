@@ -1,10 +1,10 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697732548504,
+  "endTime": 1697733451353,
   "band_list": [
     {
       "raw_hot": 919688,
-      "num": 151434,
+      "num": 839768,
       "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
       "onboard_time": 1697729435,
       "rank": 20,
@@ -41,6 +41,14 @@
       "onboard_time": 1697722478,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 349611,
+      "num": 202001,
+      "word": "张小泉菜刀又现拍蒜断刀",
+      "onboard_time": 1697730515,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 335181,
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217512,
+      "num": 217512,
+      "word": "间谍过家家 次子滤镜",
+      "onboard_time": 1697731051,
+      "rank": 18,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 215237,
       "num": 215237,
       "word": "罗大美遇害案3名嫌疑人已落网",
@@ -147,14 +163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 195273,
-      "num": 195273,
-      "word": "张小泉菜刀又现拍蒜断刀",
-      "onboard_time": 1697730515,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 193373,
       "num": 193373,
       "word": "入伍前170斤小伙现在能连做3600个俯卧撑",
@@ -179,16 +187,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157385,
-      "num": 157385,
-      "word": "间谍过家家 次子滤镜",
-      "onboard_time": 1697731051,
-      "rank": 18,
-      "category": "动漫,作品衍生"
-    },
-    {
       "raw_hot": 155547,
-      "num": 139303,
+      "num": 139653,
       "word": "保证睡眠时间真的很重要",
       "onboard_time": 1697719894,
       "rank": 25,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 152169,
-      "num": 121229,
+      "num": 144959,
       "word": "BLG现场给Yagao过生日",
       "onboard_time": 1697727877,
       "rank": 30,
@@ -355,8 +355,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 71466,
-      "num": 71466,
+      "raw_hot": 72444,
+      "num": 72444,
       "word": "陈奕迅发文回应澳门演唱会延期",
       "onboard_time": 1697711737,
       "rank": 44,
@@ -393,6 +393,22 @@
       "onboard_time": 1697707356,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62280,
+      "num": 68979,
+      "word": "G2战胜DK",
+      "onboard_time": 1697711136,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 53271,
+      "num": 62754,
+      "word": "没有译制片腔调的翻译 有被吓到",
+      "onboard_time": 1697733386,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 23504,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/15 00:20:12 ~ 2023/10/20 00:22:28
+本榜单时间：2023/10/15 00:20:12 ~ 2023/10/20 00:37:31
 </p>
 </blockquote>
 <p>
@@ -4335,6 +4335,12 @@ T1对战TL（热度：357227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%B3%89%E8%8F%9C%E5%88%80%E5%8F%88%E7%8E%B0%E6%8B%8D%E8%92%9C%E6%96%AD%E5%88%80%23" target="weibo">
+张小泉菜刀又现拍蒜断刀（热度：349611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%A4%9A%E4%B8%AA%E4%BD%9C%E5%93%81%E8%91%97%E4%BD%9C%E6%9D%83%E8%8E%B7%E6%89%B9%23" target="weibo">
 王源多个作品著作权获批（热度：349274）
 </a>
@@ -6675,6 +6681,12 @@ eStar苟住了（热度：223466）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6%20%E6%AC%A1%E5%AD%90%E6%BB%A4%E9%95%9C%23" target="weibo">
+间谍过家家 次子滤镜（热度：217512）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%8A%E5%8D%97%E7%89%88%E6%B5%AA%E5%A7%90%E5%90%8D%E5%8D%95%23" target="weibo">
 越南版浪姐名单（热度：217397）
 </a>
@@ -7583,12 +7595,6 @@ DNTSS24大秀（热度：197256）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%8B%E6%AD%A6%E5%A4%AB%E6%98%AF%E5%81%87%E6%AD%BB%23" target="weibo">
 山下武夫是假死（热度：195412）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%B3%89%E8%8F%9C%E5%88%80%E5%8F%88%E7%8E%B0%E6%8B%8D%E8%92%9C%E6%96%AD%E5%88%80%23" target="weibo">
-张小泉菜刀又现拍蒜断刀（热度：195273）
 </a>
 </li>
 
@@ -9075,12 +9081,6 @@ SEVENTEEN有自己的同声翻译（热度：161427）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6%20%E6%AC%A1%E5%AD%90%E6%BB%A4%E9%95%9C%23" target="weibo">
-间谍过家家 次子滤镜（热度：157385）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E9%94%A1%E8%BF%9B%20%E7%8B%97%E6%81%B6%E5%8F%AA%E5%9B%A0%E4%B8%BB%E6%98%8F%23" target="weibo">
 胡锡进 狗恶只因主昏（热度：157291）
 </a>
@@ -10541,6 +10541,12 @@ BLG将对战JDG（热度：70318）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%B0%91%E8%BF%90%E5%8A%A8%E4%BC%9A%E4%B8%B0%E6%94%B6%E6%B0%9B%E5%9B%B4%E6%8B%89%E6%BB%A1%23" target="weibo">
 农民运动会丰收氛围拉满（热度：53396）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%9C%89%E8%AF%91%E5%88%B6%E7%89%87%E8%85%94%E8%B0%83%E7%9A%84%E7%BF%BB%E8%AF%91%20%E6%9C%89%E8%A2%AB%E5%90%93%E5%88%B0%23" target="weibo">
+没有译制片腔调的翻译 有被吓到（热度：53271）
 </a>
 </li>
 
