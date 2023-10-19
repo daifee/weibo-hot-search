@@ -1,6 +1,6 @@
 {
   "startTime": 1697646161831,
-  "endTime": 1697697376034,
+  "endTime": 1697699781963,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -8,6 +8,14 @@
       "word": "海滩失踪女童遗体找到",
       "onboard_time": 1697693016,
       "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2719279,
+      "num": 356111,
+      "word": "女童父亲行为是否构成犯罪",
+      "onboard_time": 1697695424,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -49,14 +57,6 @@
       "onboard_time": 1697641895,
       "rank": 0,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 2069520,
-      "num": 356111,
-      "word": "女童父亲行为是否构成犯罪",
-      "onboard_time": 1697695424,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 2066647,
@@ -163,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 946262,
+      "num": 313968,
+      "word": "他从主公变成了公主",
+      "onboard_time": 1697697696,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 937643,
       "num": 937643,
       "word": "陈律 那个合同真的是有效的",
@@ -249,6 +257,14 @@
       "onboard_time": 1697682632,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 807354,
+      "num": 317181,
+      "word": "白敬亭宋轶同款打卡",
+      "onboard_time": 1697696978,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 771549,
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 446860,
+      "num": 285819,
+      "word": "男子遛禁养犬被查后带狗飞奔",
+      "onboard_time": 1697696499,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 442698,
       "num": 359947,
       "word": "刑法专家谈狗咬女童事件称不应搞株连",
@@ -529,14 +553,6 @@
       "onboard_time": 1697686956,
       "rank": 15,
       "category": "美食,社会新闻"
-    },
-    {
-      "raw_hot": 426795,
-      "num": 317181,
-      "word": "白敬亭宋轶同款打卡",
-      "onboard_time": 1697696978,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 423818,
@@ -609,6 +625,14 @@
       "onboard_time": 1697683355,
       "rank": 9,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380962,
+      "num": 380962,
+      "word": "A股",
+      "onboard_time": 1697680413,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 375113,
@@ -739,6 +763,14 @@
       "category": "作品衍生,幽默"
     },
     {
+      "raw_hot": 314787,
+      "num": 314787,
+      "word": "seventeen澳门",
+      "onboard_time": 1697697696,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 314639,
       "num": 261535,
       "word": "光遇归巢季",
@@ -753,6 +785,14 @@
       "onboard_time": 1697632955,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 309994,
+      "num": 1004039,
+      "word": "贾玲让全世界知道了她妈妈叫李焕英",
+      "onboard_time": 1697696560,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 302847,
@@ -827,14 +867,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 274652,
-      "num": 274652,
-      "word": "贾玲让全世界知道了她妈妈叫李焕英",
-      "onboard_time": 1697696560,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 273299,
       "num": 273299,
       "word": "淘汰再出道 这集我好像看过",
@@ -899,14 +931,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 248735,
-      "num": 248735,
-      "word": "A股",
-      "onboard_time": 1697680413,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 248239,
       "num": 248239,
       "word": "悟空的精神内核领先我们好多年",
@@ -921,6 +945,14 @@
       "onboard_time": 1697679813,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243190,
+      "num": 243190,
+      "word": "新娘刚下婚车就被系上围裙",
+      "onboard_time": 1697699497,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239780,
@@ -953,14 +985,6 @@
       "onboard_time": 1697645431,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 233348,
-      "num": 233348,
-      "word": "男子遛禁养犬被查后带狗飞奔",
-      "onboard_time": 1697696499,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230568,
@@ -1187,6 +1211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185074,
+      "num": 185074,
+      "word": "警惕大货车内轮差区域",
+      "onboard_time": 1697698656,
+      "rank": 31,
+      "category": "社会新闻,汽车"
+    },
+    {
       "raw_hot": 183646,
       "num": 183646,
       "word": "娜扎黑色开叉长裙",
@@ -1217,6 +1249,30 @@
       "onboard_time": 1697692297,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 181149,
+      "num": 181149,
+      "word": "OPPO发布会",
+      "onboard_time": 1697698476,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 178824,
+      "num": 178824,
+      "word": "极氪001",
+      "onboard_time": 1697699139,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 178488,
+      "num": 178488,
+      "word": "在校大学生怎么补气血",
+      "onboard_time": 1697696678,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178036,
@@ -1251,12 +1307,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 170602,
-      "num": 170602,
-      "word": "在校大学生怎么补气血",
-      "onboard_time": 1697696678,
+      "raw_hot": 171924,
+      "num": 171924,
+      "word": "张艺兴演唱会大连站",
+      "onboard_time": 1697699556,
       "rank": 37,
-      "category": "健康医疗"
+      "category": "演出"
     },
     {
       "raw_hot": 170441,
@@ -1337,6 +1393,14 @@
       "onboard_time": 1697675739,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160839,
+      "num": 160839,
+      "word": "男子在家做辣子鸡给窗外蜘蛛人送1份",
+      "onboard_time": 1697699376,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160690,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1697642559,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137903,
+      "num": 137903,
+      "word": "谁来开旋转木马呢",
+      "onboard_time": 1697699738,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 137337,
@@ -1713,6 +1785,14 @@
       "onboard_time": 1697686472,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 62399,
+      "num": 310176,
+      "word": "京东双十一23日提前卖现货",
+      "onboard_time": 1697698898,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 61699,

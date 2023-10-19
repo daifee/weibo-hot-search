@@ -1,0 +1,410 @@
+{
+  "runTime": 1697699781963,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 309994,
+        "num": 1004039,
+        "word": "贾玲让全世界知道了她妈妈叫李焕英",
+        "onboard_time": 1697696560,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 716323,
+        "num": 716323,
+        "word": "黄渤周迅新片尺度",
+        "onboard_time": 1697688276,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 57739,
+        "num": 650258,
+        "word": "这根丝让我们窥见丝路万象",
+        "onboard_time": 1697686472,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 616251,
+        "num": 616251,
+        "word": "她住进山野探索开放式两性关系",
+        "onboard_time": 1697692840,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 518571,
+        "num": 518571,
+        "word": "第一次知道银行卡会到期",
+        "onboard_time": 1697691216,
+        "rank": 4,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 4545728,
+        "num": 503772,
+        "word": "海滩失踪女童遗体找到",
+        "onboard_time": 1697693016,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 479432,
+        "num": 479432,
+        "word": "90后考上公职3个月开始贪污获刑3年",
+        "onboard_time": 1697691098,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 427203,
+        "num": 427203,
+        "word": "加沙一家18口在空袭中遇难",
+        "onboard_time": 1697690142,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 380962,
+        "num": 380962,
+        "word": "A股",
+        "onboard_time": 1697680413,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 314787,
+        "num": 314787,
+        "word": "seventeen澳门",
+        "onboard_time": 1697697696,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 2719279,
+        "num": 314700,
+        "word": "女童父亲行为是否构成犯罪",
+        "onboard_time": 1697695424,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 946262,
+        "num": 313968,
+        "word": "他从主公变成了公主",
+        "onboard_time": 1697697696,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 792246,
+        "num": 313343,
+        "word": "刘亦菲车展买法拉利经典回顾",
+        "onboard_time": 1697692235,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486772,
+        "num": 312682,
+        "word": "研究发现蒙娜丽莎有毒",
+        "onboard_time": 1697687975,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 807354,
+        "num": 312164,
+        "word": "白敬亭宋轶同款打卡",
+        "onboard_time": 1697696978,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 450665,
+        "num": 311836,
+        "word": "失踪4岁女童符合溺水死亡特征",
+        "onboard_time": 1697694222,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339081,
+        "num": 311236,
+        "word": "刑法专家谈狗咬女童事件称不应搞株连",
+        "onboard_time": 1697693138,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62399,
+        "num": 310176,
+        "word": "京东双十一23日提前卖现货",
+        "onboard_time": 1697698898,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 310128,
+        "num": 310128,
+        "word": "李亚鹏被限制高消费",
+        "onboard_time": 1697693261,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1064405,
+        "num": 305087,
+        "word": "53.7%年轻人存款不足10万元",
+        "onboard_time": 1697690307,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 489170,
+        "num": 297665,
+        "word": "体制内的朋友圈越来越官方了",
+        "onboard_time": 1697681374,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 446860,
+        "num": 285819,
+        "word": "男子遛禁养犬被查后带狗飞奔",
+        "onboard_time": 1697696499,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405378,
+        "num": 275704,
+        "word": "年存款2.4万是什么概念",
+        "onboard_time": 1697682694,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330624,
+        "num": 272453,
+        "word": "妈妈想在县城开蜜雪冰城",
+        "onboard_time": 1697696142,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263135,
+        "num": 263135,
+        "word": "刘琳演的妈好吓人",
+        "onboard_time": 1697686296,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 317525,
+        "num": 262482,
+        "word": "男子拿U型锁暴击女友头部致死",
+        "onboard_time": 1697692958,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261362,
+        "num": 261362,
+        "word": "上海走失女童案排除刑事案件",
+        "onboard_time": 1697693261,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243190,
+        "num": 243190,
+        "word": "新娘刚下婚车就被系上围裙",
+        "onboard_time": 1697699497,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 239652,
+        "num": 239652,
+        "word": "服务员拾还百万存折被奖励带薪休假",
+        "onboard_time": 1697694640,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195239,
+        "num": 195239,
+        "word": "北方的一两饺子 一两饺子皮",
+        "onboard_time": 1697691399,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 189005,
+        "num": 189005,
+        "word": "猫 想救你但水真的太大了",
+        "onboard_time": 1697689598,
+        "rank": 30,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 185074,
+        "num": 185074,
+        "word": "警惕大货车内轮差区域",
+        "onboard_time": 1697698656,
+        "rank": 31,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 181149,
+        "num": 181149,
+        "word": "OPPO发布会",
+        "onboard_time": 1697698476,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 180059,
+        "num": 180059,
+        "word": "王一博叶先生的高光时刻",
+        "onboard_time": 1697694101,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178824,
+        "num": 178824,
+        "word": "极氪001",
+        "onboard_time": 1697699139,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 178488,
+        "num": 178488,
+        "word": "在校大学生怎么补气血",
+        "onboard_time": 1697696678,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 177884,
+        "num": 177884,
+        "word": "王子文的项链上有五只蝴蝶",
+        "onboard_time": 1697687493,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 171924,
+        "num": 171924,
+        "word": "张艺兴演唱会大连站",
+        "onboard_time": 1697699556,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166580,
+        "num": 166580,
+        "word": "赵露思是采访大漏勺吧",
+        "onboard_time": 1697693437,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 164381,
+        "num": 164381,
+        "word": "库里绝杀",
+        "onboard_time": 1697690978,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 162281,
+        "num": 162281,
+        "word": "T1战胜TL",
+        "onboard_time": 1697695838,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160839,
+        "num": 160839,
+        "word": "男子在家做辣子鸡给窗外蜘蛛人送1份",
+        "onboard_time": 1697699376,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 157474,
+        "num": 157474,
+        "word": "外媒称以色列军队已准备好进入加沙",
+        "onboard_time": 1697680714,
+        "rank": 42,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 152724,
+        "num": 152724,
+        "word": "领导问我能不能拿出10万",
+        "onboard_time": 1697682874,
+        "rank": 43,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 152516,
+        "num": 152516,
+        "word": "于适别追猪了追我",
+        "onboard_time": 1697696320,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145846,
+        "num": 145846,
+        "word": "陈牧驰精品十月刊封面",
+        "onboard_time": 1697687674,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "谁来开旋转木马呢",
+        "onboard_time": 1697699738,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137295,
+        "num": 137295,
+        "word": "女子遭家暴离婚1年后为孩子复婚",
+        "onboard_time": 1697679759,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134266,
+        "num": 134266,
+        "word": "地铁上偷看别人简历被发现了",
+        "onboard_time": 1697688516,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129606,
+        "num": 129606,
+        "word": "香菜猪耳披萨",
+        "onboard_time": 1697693742,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同出席开幕式的外方领导人集体合影#"
+    }
+  }
+}
