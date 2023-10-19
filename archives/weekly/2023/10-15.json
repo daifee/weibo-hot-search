@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697729671940,
+  "endTime": 1697732548504,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -1715,6 +1715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 919688,
+      "num": 225492,
+      "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+      "onboard_time": 1697729435,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918347,
       "num": 324664,
       "word": "体制内的朋友圈越来越官方了",
@@ -2833,6 +2841,14 @@
       "onboard_time": 1697716833,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 635596,
+      "num": 209877,
+      "word": "华晨宇的发际线",
+      "onboard_time": 1697729734,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 635333,
@@ -4008,6 +4024,14 @@
       "word": "于正发文维护赵晴",
       "onboard_time": 1697513433,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 485394,
+      "num": 320568,
+      "word": "EXO公司logo四叶草",
+      "onboard_time": 1697728958,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -6251,14 +6275,6 @@
       "category": "社会新闻,汽车"
     },
     {
-      "raw_hot": 320568,
-      "num": 320568,
-      "word": "EXO公司logo四叶草",
-      "onboard_time": 1697728958,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320400,
       "num": 320400,
       "word": "沈腾收官照",
@@ -7529,14 +7545,6 @@
       "onboard_time": 1697507733,
       "rank": 24,
       "category": "情感"
-    },
-    {
-      "raw_hot": 262548,
-      "num": 225492,
-      "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
-      "onboard_time": 1697729435,
-      "rank": 23,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 262340,
@@ -10091,6 +10099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195273,
+      "num": 195273,
+      "word": "张小泉菜刀又现拍蒜断刀",
+      "onboard_time": 1697730515,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195157,
       "num": 195157,
       "word": "春节档影片金鸡奖入围情况",
@@ -11619,6 +11635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 167848,
+      "num": 143655,
+      "word": "梅花红桃尺度",
+      "onboard_time": 1697729494,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167819,
       "num": 167819,
       "word": "国足vs乌兹别克斯坦首发",
@@ -12057,6 +12081,14 @@
       "onboard_time": 1697454813,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157385,
+      "num": 157385,
+      "word": "间谍过家家 次子滤镜",
+      "onboard_time": 1697731051,
+      "rank": 18,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 157291,
@@ -13299,14 +13331,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 115416,
-      "num": 115416,
-      "word": "梅花红桃尺度",
-      "onboard_time": 1697729494,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114735,
       "num": 114735,
       "word": "一盆葱花面",
@@ -13537,6 +13561,14 @@
       "onboard_time": 1697492056,
       "rank": 32,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 96881,
+      "num": 96881,
+      "word": "熊孩子出门闯社会1小时被送回",
+      "onboard_time": 1697730453,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 96109,
@@ -13801,6 +13833,14 @@
       "onboard_time": 1697562981,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70318,
+      "num": 70318,
+      "word": "BLG将对战JDG",
+      "onboard_time": 1697726138,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 68375,

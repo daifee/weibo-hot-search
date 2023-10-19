@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/19 23:34:31
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 00:22:28
 </p>
 </blockquote>
 <p>
@@ -4965,6 +4965,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A7%91%E5%A8%98%E6%82%A3%E4%B9%B3%E8%85%BA%E7%99%8C%E4%B8%8E%E4%B8%8D%E8%89%AF%E7%94%9F%E6%B4%BB%E4%B9%A0%E6%83%AF%E6%9C%89%E5%85%B3%23" target="weibo">
+23岁姑娘患乳腺癌与不良生活习惯有关（热度：919688）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%83%B3%E8%91%A3%E5%8D%BF%23" target="weibo">
 好想董卿（热度：919625）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS明天见登十大巅峰单曲（热度：810922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23THE9%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8%23" target="weibo">
 THE9演唱会抢票（热度：807449）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%AE%8B%E8%BD%B6%E5%90%8C%E6%AC%BE%E6%89%93%E5%8D%A1%23" target="weibo">
-白敬亭宋轶同款打卡（热度：807354）
 </a>
 </li>
 
