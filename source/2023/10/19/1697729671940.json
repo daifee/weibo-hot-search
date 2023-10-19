@@ -1,0 +1,410 @@
+{
+  "runTime": 1697729671940,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 663056,
+        "num": 663056,
+        "word": "Bin哥牛啊",
+        "onboard_time": 1697722478,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 504518,
+        "num": 504518,
+        "word": "庆余年预约突破700万",
+        "onboard_time": 1697727696,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33301,
+        "num": 465074,
+        "word": "6张海报回顾一带一路动人故事",
+        "onboard_time": 1697721455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440269,
+        "num": 440269,
+        "word": "警方回应两人与火车相撞不幸身亡",
+        "onboard_time": 1697719894,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428461,
+        "num": 428461,
+        "word": "EDG出列",
+        "onboard_time": 1697725236,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 397004,
+        "num": 397004,
+        "word": "向涵之男装",
+        "onboard_time": 1697724823,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388702,
+        "num": 388702,
+        "word": "DK 疯牛病",
+        "onboard_time": 1697714254,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 370782,
+        "num": 370782,
+        "word": "花海中的迪丽热巴",
+        "onboard_time": 1697717976,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343822,
+        "num": 343822,
+        "word": "S13瑞士轮第二轮抽签",
+        "onboard_time": 1697723376,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 338613,
+        "num": 338613,
+        "word": "女孩自制计算器租给同学一天赚20多元",
+        "onboard_time": 1697718217,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 518391,
+        "num": 335556,
+        "word": "宋威龙 三年不见男大十八变",
+        "onboard_time": 1697715156,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320568,
+        "num": 320568,
+        "word": "EXO公司logo四叶草",
+        "onboard_time": 1697728958,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 313781,
+        "num": 313781,
+        "word": "田曦薇公主抱王鹤棣摔跤",
+        "onboard_time": 1697722894,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1984293,
+        "num": 313419,
+        "word": "专家称海滩失踪女童父亲太理想化",
+        "onboard_time": 1697725060,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 311682,
+        "num": 311682,
+        "word": "线下那些卖三五百的衣服",
+        "onboard_time": 1697712277,
+        "rank": 14,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 299429,
+        "num": 299429,
+        "word": "2023MAMA最佳男女团预测",
+        "onboard_time": 1697724578,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 259451,
+        "num": 259451,
+        "word": "Elk刷新S13单场伤害纪录",
+        "onboard_time": 1697725177,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233416,
+        "num": 233416,
+        "word": "入伍前170斤小伙现在能连做3600个俯卧撑",
+        "onboard_time": 1697726738,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231641,
+        "num": 231641,
+        "word": "建议吴京别看这期王牌",
+        "onboard_time": 1697726498,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159622,
+        "num": 231520,
+        "word": "罗大美遇害案3名嫌疑人已落网",
+        "onboard_time": 1697715935,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 376237,
+        "num": 229762,
+        "word": "7岁小女孩天生2个子宫3个肾",
+        "onboard_time": 1697716833,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337806,
+        "num": 228027,
+        "word": "今年的古装爆剧",
+        "onboard_time": 1697727221,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1427100,
+        "num": 226543,
+        "word": "老人带1岁男童回家被恶狗撕咬3分钟",
+        "onboard_time": 1697721156,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262548,
+        "num": 225492,
+        "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+        "onboard_time": 1697729435,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244393,
+        "num": 223599,
+        "word": "萧敬腾林有慧官宣结婚",
+        "onboard_time": 1697702675,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223333,
+        "num": 223333,
+        "word": "保证睡眠时间真的很重要",
+        "onboard_time": 1697719894,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218777,
+        "num": 218777,
+        "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+        "onboard_time": 1697719775,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182897,
+        "num": 182897,
+        "word": "芒果TV崩了",
+        "onboard_time": 1697716775,
+        "rank": 27,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 382454,
+        "num": 182449,
+        "word": "官方回应北京等地拟取消教师编制",
+        "onboard_time": 1697721098,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 179239,
+        "num": 179239,
+        "word": "B站申请天官赐福谢怜商标",
+        "onboard_time": 1697712397,
+        "rank": 29,
+        "category": "互联网,动漫"
+      },
+      {
+        "raw_hot": 229939,
+        "num": 177631,
+        "word": "BLG现场给Yagao过生日",
+        "onboard_time": 1697727877,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174397,
+        "num": 174397,
+        "word": "毛晓彤在问心中职业细节拉满",
+        "onboard_time": 1697720373,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173355,
+        "num": 173355,
+        "word": "WBG将对战G2",
+        "onboard_time": 1697725657,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160278,
+        "num": 160278,
+        "word": "王多多解说",
+        "onboard_time": 1697725420,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158193,
+        "num": 158193,
+        "word": "考研人开始卷茶叶了",
+        "onboard_time": 1697720193,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143862,
+        "num": 143862,
+        "word": "在宿舍吃螺蛳粉被舍友说了",
+        "onboard_time": 1697721455,
+        "rank": 35,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 142120,
+        "num": 142120,
+        "word": "等一个周也王星越二搭",
+        "onboard_time": 1697714317,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140084,
+        "num": 140084,
+        "word": "王俊凯去乌镇戏剧节了",
+        "onboard_time": 1697721939,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139977,
+        "num": 139977,
+        "word": "大熊猫与小朋友隔窗一起吃零食",
+        "onboard_time": 1697725537,
+        "rank": 38,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 131843,
+        "num": 131843,
+        "word": "第一次见男明星聊多巴胺穿搭",
+        "onboard_time": 1697724996,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 186570,
+        "num": 131797,
+        "word": "3D还原上海女童走失过程",
+        "onboard_time": 1697717736,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130370,
+        "num": 130370,
+        "word": "TheShy亮iG队标",
+        "onboard_time": 1697715216,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128026,
+        "num": 128026,
+        "word": "崔胜澈不参与SEVENTEEN此次回归",
+        "onboard_time": 1697707356,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120245,
+        "num": 120245,
+        "word": "外公跑一天给坐月子外孙女买土鸡蛋",
+        "onboard_time": 1697723436,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115416,
+        "num": 115416,
+        "word": "梅花红桃尺度",
+        "onboard_time": 1697729494,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114735,
+        "num": 114735,
+        "word": "一盆葱花面",
+        "onboard_time": 1697729376,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112916,
+        "num": 112916,
+        "word": "14岁男孩口渴误喝百草枯肾衰竭",
+        "onboard_time": 1697710956,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 107755,
+        "num": 107755,
+        "word": "韩素希新头像是TXT",
+        "onboard_time": 1697705555,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106176,
+        "num": 106176,
+        "word": "NCT日本队出道曲公开",
+        "onboard_time": 1697728060,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102184,
+        "num": 102184,
+        "word": "陈奕迅发文回应澳门演唱会延期",
+        "onboard_time": 1697711737,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}
