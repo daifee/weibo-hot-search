@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697677944605,
+  "endTime": 1697682219142,
   "band_list": [
     {
       "raw_hot": 8380809,
@@ -209,6 +209,14 @@
       "onboard_time": 1697506354,
       "rank": 21,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 2330341,
+      "num": 375656,
+      "word": "跳楼自杀真的只有一瞬间的痛苦吗",
+      "onboard_time": 1697679159,
+      "rank": 10,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 2317351,
@@ -489,6 +497,14 @@
       "onboard_time": 1697361514,
       "rank": 15,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1849436,
+      "num": 1849436,
+      "word": "好莱坞翻拍你好李焕英",
+      "onboard_time": 1697675017,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 1832928,
@@ -841,14 +857,6 @@
       "onboard_time": 1697432377,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1348426,
-      "num": 1348426,
-      "word": "好莱坞翻拍你好李焕英",
-      "onboard_time": 1697675017,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 1347676,
@@ -1579,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 881878,
+      "num": 660059,
+      "word": "女团养猪",
+      "onboard_time": 1697678855,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 876666,
       "num": 876666,
       "word": "拜登抵达以色列之际以近加沙边境响起警报",
@@ -1971,6 +1987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 751925,
+      "num": 751925,
+      "word": "陈律 那个合同真的是有效的",
+      "onboard_time": 1697675977,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 751780,
       "num": 751780,
       "word": "我们四个把日子过好比什么都强",
@@ -1985,14 +2009,6 @@
       "onboard_time": 1697442334,
       "rank": 12,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 741653,
-      "num": 741653,
-      "word": "陈律 那个合同真的是有效的",
-      "onboard_time": 1697675977,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 741165,
@@ -2291,6 +2307,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 663474,
+      "num": 262483,
+      "word": "女子遭家暴离婚1年后为孩子复婚",
+      "onboard_time": 1697679759,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 662867,
       "num": 662867,
       "word": "10个月宝宝食指倒刺被拔送PICU抢救",
@@ -2403,6 +2427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 631738,
+      "num": 631738,
+      "word": "碧桂园回应创始人父女离境传闻",
+      "onboard_time": 1697680052,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631116,
       "num": 631116,
       "word": "海底捞等位区竟然分i人e人",
@@ -2432,6 +2464,14 @@
       "word": "以军方回应路透社记者身亡",
       "onboard_time": 1697295757,
       "rank": 4,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 619748,
+      "num": 619748,
+      "word": "外媒称以色列军队已准备好进入加沙",
+      "onboard_time": 1697680714,
+      "rank": 6,
       "category": "国外要闻"
     },
     {
@@ -2753,6 +2793,14 @@
       "onboard_time": 1697342674,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 563066,
+      "num": 256620,
+      "word": "体制内的朋友圈越来越官方了",
+      "onboard_time": 1697681374,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 562603,
@@ -3859,6 +3907,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 431408,
+      "num": 431408,
+      "word": "陈奕迅演唱会 延期",
+      "onboard_time": 1697678017,
+      "rank": 8,
+      "category": "演出"
+    },
+    {
       "raw_hot": 431385,
       "num": 431385,
       "word": "张晚意被喊老公的反应",
@@ -4825,6 +4881,14 @@
       "onboard_time": 1697613395,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 346243,
+      "num": 346243,
+      "word": "黄奕带女儿去王心凌演唱会",
+      "onboard_time": 1697679691,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 346163,
@@ -6059,6 +6123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268182,
+      "num": 268182,
+      "word": "杨紫范丞丞新剧下证",
+      "onboard_time": 1697677416,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 268063,
       "num": 268063,
       "word": "孟佳你怎么好意思笑周雨彤",
@@ -6603,6 +6675,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 246779,
+      "num": 246779,
+      "word": "连蔓儿主动吻了沈诺",
+      "onboard_time": 1697679813,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246765,
       "num": 246765,
       "word": "内娱哭戏教科书",
@@ -6672,14 +6752,6 @@
       "word": "杨紫范丞丞要久久爱集数变更",
       "onboard_time": 1697514693,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 243109,
-      "num": 243109,
-      "word": "杨紫范丞丞新剧下证",
-      "onboard_time": 1697677416,
-      "rank": 31,
       "category": "剧集"
     },
     {
@@ -7171,11 +7243,27 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 221215,
+      "num": 221215,
+      "word": "4090显卡",
+      "onboard_time": 1697678973,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 221209,
       "num": 221209,
       "word": "曾舜晞更新自动回复",
       "onboard_time": 1697594795,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 220722,
+      "num": 220722,
+      "word": "赵奕欢在笑我却吓得想哭",
+      "onboard_time": 1697678796,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -7699,6 +7787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 204277,
+      "num": 204277,
+      "word": "36岁生物学家儿时常考倒数第一",
+      "onboard_time": 1697681253,
+      "rank": 32,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 204263,
       "num": 204263,
       "word": "田耕纪直播",
@@ -8137,6 +8233,14 @@
       "onboard_time": 1697599473,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 198314,
+      "num": 198314,
+      "word": "陈瑶第3次一人分饰两角",
+      "onboard_time": 1697681557,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 198248,
@@ -9411,6 +9515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170441,
+      "num": 170441,
+      "word": "方筱然原来这么坏过",
+      "onboard_time": 1697678559,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 170404,
       "num": 170404,
       "word": "杭州市区的徽派建筑群",
@@ -9545,6 +9657,14 @@
       "onboard_time": 1697547337,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167337,
+      "num": 167337,
+      "word": "普尔放开抡",
+      "onboard_time": 1697681973,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 167190,
@@ -9779,6 +9899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160690,
+      "num": 160690,
+      "word": "张大仙 空中滑步",
+      "onboard_time": 1697681557,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 160512,
       "num": 160512,
       "word": "令人心动的offer5",
@@ -9929,6 +10057,14 @@
       "onboard_time": 1697643514,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 156232,
+      "num": 156232,
+      "word": "光遇季卡",
+      "onboard_time": 1697678438,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 156100,
@@ -10155,6 +10291,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 149110,
+      "num": 149110,
+      "word": "来自中国的石榴又大又甜",
+      "onboard_time": 1697680358,
+      "rank": 43,
+      "category": "美食,社会新闻"
+    },
+    {
       "raw_hot": 149063,
       "num": 149063,
       "word": "杨利伟透露航天员正为登月任务做准备",
@@ -10217,6 +10361,14 @@
       "onboard_time": 1697615615,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 147628,
+      "num": 147628,
+      "word": "普尔半场29分",
+      "onboard_time": 1697682035,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 147115,
@@ -10427,6 +10579,14 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 141191,
+      "num": 141191,
+      "word": "李现白衬衫少年感",
+      "onboard_time": 1697678615,
+      "rank": 46,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 140025,
       "num": 140025,
       "word": "张艺兴大连演唱会官宣",
@@ -10449,6 +10609,14 @@
       "onboard_time": 1697351673,
       "rank": 44,
       "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 139167,
+      "num": 139167,
+      "word": "白鹿进组了",
+      "onboard_time": 1697682093,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 138844,

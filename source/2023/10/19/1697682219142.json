@@ -1,0 +1,410 @@
+{
+  "runTime": 1697682219142,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1849436,
+        "num": 1849436,
+        "word": "好莱坞翻拍你好李焕英",
+        "onboard_time": 1697675017,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 751925,
+        "num": 751925,
+        "word": "陈律 那个合同真的是有效的",
+        "onboard_time": 1697675977,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26984,
+        "num": 673455,
+        "word": "中国桥梁连着历史和现实的非凡跨越",
+        "onboard_time": 1697633014,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 881878,
+        "num": 660059,
+        "word": "女团养猪",
+        "onboard_time": 1697678855,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 631738,
+        "num": 631738,
+        "word": "碧桂园回应创始人父女离境传闻",
+        "onboard_time": 1697680052,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1048552,
+        "num": 631029,
+        "word": "美国一票反对致安理会未通过巴以问题决议草案",
+        "onboard_time": 1697673636,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 619748,
+        "num": 619748,
+        "word": "外媒称以色列军队已准备好进入加沙",
+        "onboard_time": 1697680714,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 574700,
+        "num": 574700,
+        "word": "中国将全面取消制造业领域外资准入限制措施",
+        "onboard_time": 1697641895,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 431408,
+        "num": 431408,
+        "word": "陈奕迅演唱会 延期",
+        "onboard_time": 1697678017,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 399207,
+        "num": 399207,
+        "word": "EXO变成CEO了",
+        "onboard_time": 1697635598,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2330341,
+        "num": 375656,
+        "word": "跳楼自杀真的只有一瞬间的痛苦吗",
+        "onboard_time": 1697679159,
+        "rank": 10,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 560094,
+        "num": 373441,
+        "word": "覃海洋女朋友",
+        "onboard_time": 1697674117,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 346243,
+        "num": 346243,
+        "word": "黄奕带女儿去王心凌演唱会",
+        "onboard_time": 1697679691,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 334079,
+        "num": 334079,
+        "word": "韩国鲫鱼饼的价格",
+        "onboard_time": 1697676399,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 410952,
+        "num": 333040,
+        "word": "警方通报网传南京醉酒女子被性侵",
+        "onboard_time": 1697674595,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330704,
+        "num": 330704,
+        "word": "大学生当伴郎未归疑被骗去缅甸",
+        "onboard_time": 1697673213,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321207,
+        "num": 321207,
+        "word": "加沙地带一所学校遭袭",
+        "onboard_time": 1697675017,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 293912,
+        "num": 293912,
+        "word": "全网的拉布拉多都在接受安全教育",
+        "onboard_time": 1697671888,
+        "rank": 17,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 273209,
+        "num": 273209,
+        "word": "内马尔重伤将手术",
+        "onboard_time": 1697673817,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268182,
+        "num": 268182,
+        "word": "杨紫范丞丞新剧下证",
+        "onboard_time": 1697677416,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1089456,
+        "num": 264381,
+        "word": "四川被狗咬伤女童家属已筹得200万元",
+        "onboard_time": 1697672190,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 663474,
+        "num": 262483,
+        "word": "女子遭家暴离婚1年后为孩子复婚",
+        "onboard_time": 1697679759,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 563066,
+        "num": 256620,
+        "word": "体制内的朋友圈越来越官方了",
+        "onboard_time": 1697681374,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 362460,
+        "num": 253275,
+        "word": "朋友圈很少晒四年级以上的娃",
+        "onboard_time": 1697675017,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248735,
+        "num": 248735,
+        "word": "A股",
+        "onboard_time": 1697680413,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246779,
+        "num": 246779,
+        "word": "连蔓儿主动吻了沈诺",
+        "onboard_time": 1697679813,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225450,
+        "num": 225450,
+        "word": "又在看金世佳的手了",
+        "onboard_time": 1697672611,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221215,
+        "num": 221215,
+        "word": "4090显卡",
+        "onboard_time": 1697678973,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 220722,
+        "num": 220722,
+        "word": "赵奕欢在笑我却吓得想哭",
+        "onboard_time": 1697678796,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216987,
+        "num": 216987,
+        "word": "广州宝马车撞上桥墩侧翻起火",
+        "onboard_time": 1697674837,
+        "rank": 29,
+        "category": "社会新闻,汽车"
+      },
+      {
+        "raw_hot": 206361,
+        "num": 206361,
+        "word": "现在的仙侠剧情绪太不稳定了",
+        "onboard_time": 1697675798,
+        "rank": 30,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 205423,
+        "num": 205423,
+        "word": "巴以冲突已致双方超4900人死亡",
+        "onboard_time": 1697637998,
+        "rank": 31,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 204277,
+        "num": 204277,
+        "word": "36岁生物学家儿时常考倒数第一",
+        "onboard_time": 1697681253,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 198314,
+        "num": 198314,
+        "word": "陈瑶第3次一人分饰两角",
+        "onboard_time": 1697681557,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193396,
+        "num": 193396,
+        "word": "快让田曦薇演个侠女吧",
+        "onboard_time": 1697677298,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184410,
+        "num": 184410,
+        "word": "巴总统宣布全国哀悼三天",
+        "onboard_time": 1697635234,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 178475,
+        "num": 178475,
+        "word": "乳腺癌发病的相关危险因素",
+        "onboard_time": 1697673213,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178036,
+        "num": 178036,
+        "word": "英雄联盟S13",
+        "onboard_time": 1697678376,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170441,
+        "num": 170441,
+        "word": "方筱然原来这么坏过",
+        "onboard_time": 1697678559,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167337,
+        "num": 167337,
+        "word": "普尔放开抡",
+        "onboard_time": 1697681973,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160690,
+        "num": 160690,
+        "word": "张大仙 空中滑步",
+        "onboard_time": 1697681557,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 156232,
+        "num": 156232,
+        "word": "光遇季卡",
+        "onboard_time": 1697678438,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 155767,
+        "num": 155767,
+        "word": "天官赐福",
+        "onboard_time": 1697673514,
+        "rank": 42,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 149110,
+        "num": 149110,
+        "word": "来自中国的石榴又大又甜",
+        "onboard_time": 1697680358,
+        "rank": 43,
+        "category": "美食,社会新闻"
+      },
+      {
+        "raw_hot": 148617,
+        "num": 148617,
+        "word": "拜登讲话用911提醒以色列",
+        "onboard_time": 1697672010,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 147628,
+        "num": 147628,
+        "word": "普尔半场29分",
+        "onboard_time": 1697682035,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141191,
+        "num": 141191,
+        "word": "李现白衬衫少年感",
+        "onboard_time": 1697678615,
+        "rank": 46,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 146919,
+        "num": 140800,
+        "word": "驻以使馆建议中国公民尽快回国或离境",
+        "onboard_time": 1697673760,
+        "rank": 47,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 139167,
+        "num": 139167,
+        "word": "白鹿进组了",
+        "onboard_time": 1697682093,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125973,
+        "num": 125973,
+        "word": "印度母女关系",
+        "onboard_time": 1697673273,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见尼日利亚副总统谢蒂马#"
+    }
+  }
+}
