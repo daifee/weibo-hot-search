@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697823256841,
+  "endTime": 1697826065587,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -123,6 +123,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 401202,
+      "num": 401202,
+      "word": "被狗咬女童家属称每天医药费1万左右",
+      "onboard_time": 1697822901,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 387322,
       "num": 387322,
       "word": "杭州情侣回应不花钱办一场婚礼",
@@ -147,6 +155,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 301685,
+      "num": 301685,
+      "word": "为什么阳光玫瑰变便宜也变难吃了",
+      "onboard_time": 1697803952,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "陈汉典获奖感谢小S蔡康永",
@@ -161,14 +177,6 @@
       "onboard_time": 1697811874,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263723,
-      "num": 263723,
-      "word": "为什么阳光玫瑰变便宜也变难吃了",
-      "onboard_time": 1697803952,
-      "rank": 22,
-      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 256230,
@@ -443,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57670,
-      "num": 57670,
-      "word": "被狗咬女童家属称每天医药费1万左右",
-      "onboard_time": 1697822901,
-      "rank": 45,
-      "category": "社会新闻"
+      "raw_hot": 45480,
+      "num": 47615,
+      "word": "仲夜阑手撕离婚证",
+      "onboard_time": 1697824280,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34466,
+      "num": 47609,
+      "word": "短道速滑",
+      "onboard_time": 1697811215,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 29643,
