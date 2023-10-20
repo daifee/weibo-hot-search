@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 13:34:19
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 14:23:01
 </p>
 </blockquote>
 <p>
@@ -939,6 +939,12 @@ DIOR 迪丽热巴（热度：2432400）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A0%87%E4%BB%B7799%E7%9A%84%E8%9F%B9%E5%90%83%E4%BA%86999%E7%9A%84%E9%BE%99%E8%99%BE%23" target="weibo">
+标价799的蟹吃了999的龙虾（热度：2248960）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%23" target="weibo">
 杭州亚运会闭幕式（热度：2244486）
 </a>
@@ -1839,6 +1845,12 @@ K5133次旅客列车运行中脱轨（热度：1792980）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E4%B8%8D%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E5%9C%A8%E6%B5%81%E6%B5%AA%23" target="weibo">
+小狗不觉得自己是在流浪（热度：1775916）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%E5%8F%96%E6%99%AF%E5%9C%B0%23" target="weibo">
 家有儿女取景地（热度：1775651）
 </a>
@@ -2417,12 +2429,6 @@ Jennie将常驻综艺公寓404（热度：1612589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%94%BF%E8%84%9A%E7%AD%8B%E6%96%AD%E4%BA%86%E6%89%8D%E6%83%B3%E8%B5%B7%E6%9D%A5%E5%8A%9E%E7%A4%BE%E4%BF%9D%23" target="weibo">
 姚政脚筋断了才想起来办社保（热度：1575592）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E4%B8%8D%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E5%9C%A8%E6%B5%81%E6%B5%AA%23" target="weibo">
-小狗不觉得自己是在流浪（热度：1571958）
 </a>
 </li>
 
@@ -3797,6 +3803,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%87%8D%E8%BF%94%E7%94%B7%E5%8D%95%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%23" target="weibo">
 王楚钦重返男单世界第一（热度：1152816）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%B4%A5%E4%B8%80%E5%84%BF%E7%AB%A5%E7%96%91%E9%81%AD%E5%BC%80%E9%97%A8%E6%9D%80%E5%90%8E%E8%A2%AB%E7%A2%BE%E8%BA%AB%E4%BA%A1%23" target="weibo">
+天津一儿童疑遭开门杀后被碾身亡（热度：1152184）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%A7%B0%E5%9B%A0%E9%95%BF%E6%9C%9F%E6%8A%A0%E9%BC%BB%E5%AD%90%E6%84%9F%E6%9F%93%E4%B8%B9%E6%AF%92%23" target="weibo">
 小伙称因长期抠鼻子感染丹毒（热度：820938）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D%E6%8F%90%E5%90%8D%20%E6%B5%81%E9%87%8F%E4%B8%8E%E8%80%81%E6%88%8F%E9%AA%A8%23" target="weibo">
-金鸡奖最佳男配提名 流量与老戏骨（热度：816700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E7%9F%A5%E4%B8%A5%E9%87%8D%E9%9A%9C%E7%A2%8D%E7%9A%84%E5%A4%A7%E7%88%B7%E5%9C%A8%E7%BE%8E%E5%8F%91%E5%BA%97%E6%B6%88%E8%B4%B960%E4%B8%87%23" target="weibo">
-认知严重障碍的大爷在美发店消费60万（热度：816570）
 </a>
 </li>
 

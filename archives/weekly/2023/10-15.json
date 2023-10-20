@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697780059046,
+  "endTime": 1697782981691,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -321,6 +321,14 @@
       "onboard_time": 1697420492,
       "rank": 10,
       "category": "艺人,幽默"
+    },
+    {
+      "raw_hot": 2248960,
+      "num": 2248960,
+      "word": "标价799的蟹吃了999的龙虾",
+      "onboard_time": 1697780673,
+      "rank": 1,
+      "category": "幽默"
     },
     {
       "raw_hot": 2241771,
@@ -683,6 +691,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1775916,
+      "num": 1775916,
+      "word": "小狗不觉得自己是在流浪",
+      "onboard_time": 1697772095,
+      "rank": 9,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 1770555,
       "num": 1770555,
       "word": "范思哲晚宴",
@@ -825,14 +841,6 @@
       "onboard_time": 1697500898,
       "rank": 5,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1571958,
-      "num": 1555109,
-      "word": "小狗不觉得自己是在流浪",
-      "onboard_time": 1697772095,
-      "rank": 9,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 1566499,
@@ -1336,6 +1344,14 @@
       "word": "重庆对外经贸学院",
       "onboard_time": 1697766272,
       "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1152184,
+      "num": 333146,
+      "word": "天津一儿童疑遭开门杀后被碾身亡",
+      "onboard_time": 1697781513,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -2283,6 +2299,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 807780,
+      "num": 325004,
+      "word": "赵丽颖练八段锦",
+      "onboard_time": 1697782053,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 807633,
       "num": 376695,
       "word": "济南巨响",
@@ -2859,6 +2883,14 @@
       "category": "电影,综艺"
     },
     {
+      "raw_hot": 676142,
+      "num": 676142,
+      "word": "甄嬛被幽禁时期的餐饮标准",
+      "onboard_time": 1697776297,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 674802,
       "num": 674802,
       "word": "梅西中国行官宣",
@@ -2937,14 +2969,6 @@
       "onboard_time": 1697716833,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 656226,
-      "num": 656226,
-      "word": "甄嬛被幽禁时期的餐饮标准",
-      "onboard_time": 1697776297,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 655838,
@@ -3505,6 +3529,14 @@
       "onboard_time": 1697380118,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 565408,
+      "num": 565408,
+      "word": "女子吐槽高铁一盒葡萄60元仅200克",
+      "onboard_time": 1697780076,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 564452,
@@ -4609,6 +4641,14 @@
       "onboard_time": 1697348494,
       "rank": 14,
       "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 459002,
+      "num": 459002,
+      "word": "林志颖闭眼复原魔方",
+      "onboard_time": 1697780312,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 458882,
@@ -7243,6 +7283,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 290703,
+      "num": 290703,
+      "word": "朱一龙暴肥暴瘦和我喝水一样简单",
+      "onboard_time": 1697781334,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 290173,
       "num": 290173,
       "word": "2023MAMA提名公布",
@@ -7305,6 +7353,14 @@
       "onboard_time": 1697723318,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287767,
+      "num": 287767,
+      "word": "天津警方通报儿童遭开门杀后被公交碾压死亡",
+      "onboard_time": 1697782172,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287734,
@@ -8419,6 +8475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250840,
+      "num": 250840,
+      "word": "罗大美生前曾多次向求助人捐款",
+      "onboard_time": 1697777497,
+      "rank": 25,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 249361,
       "num": 249361,
       "word": "i人才是e人的最佳补品",
@@ -8473,14 +8537,6 @@
       "onboard_time": 1697688096,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 248215,
-      "num": 248215,
-      "word": "罗大美生前曾多次向求助人捐款",
-      "onboard_time": 1697777497,
-      "rank": 25,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 248083,
@@ -9601,6 +9657,14 @@
       "onboard_time": 1697706394,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 213276,
+      "num": 213276,
+      "word": "科学家首次将人类老年痴呆症传给动物",
+      "onboard_time": 1697781813,
+      "rank": 24,
+      "category": "科技"
     },
     {
       "raw_hot": 212903,
@@ -11355,6 +11419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187359,
+      "num": 187359,
+      "word": "钟薛高回应欠薪传闻",
+      "onboard_time": 1697782355,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 187182,
       "num": 187182,
       "word": "谁家男女主未嗑先be",
@@ -11385,6 +11457,14 @@
       "onboard_time": 1697779116,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186354,
+      "num": 186354,
+      "word": "李玟将在武汉下葬",
+      "onboard_time": 1697781632,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 186312,
@@ -11529,6 +11609,14 @@
       "onboard_time": 1697611472,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183981,
+      "num": 183981,
+      "word": "白鹿费加罗十月刊封面",
+      "onboard_time": 1697782713,
+      "rank": 29,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 183908,
@@ -13619,6 +13707,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 141690,
+      "num": 141690,
+      "word": "从始至终都是仲溪午",
+      "onboard_time": 1697782355,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141322,
       "num": 141322,
       "word": "大车加油时着火员工这套动作太赞",
@@ -14115,6 +14211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123757,
+      "num": 123757,
+      "word": "上次妹妹中箭也是这么痛吗",
+      "onboard_time": 1697782653,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123527,
       "num": 123527,
       "word": "德云社节目单",
@@ -14193,6 +14297,14 @@
       "onboard_time": 1697329769,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 120613,
+      "num": 120613,
+      "word": "不会删空白页的有福了",
+      "onboard_time": 1697782774,
+      "rank": 45,
+      "category": "知识科普"
     },
     {
       "raw_hot": 120491,
@@ -15180,11 +15292,19 @@
     },
     {
       "raw_hot": 50454,
-      "num": 1613945,
+      "num": 1998999,
       "word": "杭州亚残运会火炬传递主题曲MV发布",
       "onboard_time": 1697772816,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 49739,
+      "num": 134066,
+      "word": "盘点今年双十一有意思的猫头",
+      "onboard_time": 1697781632,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 49169,

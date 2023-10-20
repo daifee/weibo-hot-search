@@ -1,0 +1,410 @@
+{
+  "runTime": 1697782981691,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2250603,
+        "num": 2250603,
+        "word": "情侣住酒店一年后收到亲密视频",
+        "onboard_time": 1697775693,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2248960,
+        "num": 2248960,
+        "word": "标价799的蟹吃了999的龙虾",
+        "onboard_time": 1697780673,
+        "rank": 1,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 34176,
+        "num": 1998999,
+        "word": "杭州亚残运会火炬传递主题曲MV发布",
+        "onboard_time": 1697772816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1775916,
+        "num": 1775916,
+        "word": "小狗不觉得自己是在流浪",
+        "onboard_time": 1697772095,
+        "rank": 3,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 887789,
+        "num": 887789,
+        "word": "男子1天取451.8万银行柜员报警",
+        "onboard_time": 1697770291,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 676142,
+        "num": 676142,
+        "word": "甄嬛被幽禁时期的餐饮标准",
+        "onboard_time": 1697776297,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565408,
+        "num": 565408,
+        "word": "女子吐槽高铁一盒葡萄60元仅200克",
+        "onboard_time": 1697780076,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 459002,
+        "num": 459002,
+        "word": "林志颖闭眼复原魔方",
+        "onboard_time": 1697780312,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 401717,
+        "num": 401717,
+        "word": "网友乘地铁发现警犬已戴上嘴套",
+        "onboard_time": 1697772272,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 339199,
+        "num": 339199,
+        "word": "重庆驱赶处置流浪狗保安被停职",
+        "onboard_time": 1697773715,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1152184,
+        "num": 333146,
+        "word": "天津一儿童疑遭开门杀后被碾身亡",
+        "onboard_time": 1697781513,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807780,
+        "num": 325004,
+        "word": "赵丽颖练八段锦",
+        "onboard_time": 1697782053,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 386457,
+        "num": 315762,
+        "word": "沪指跌破3000点大关",
+        "onboard_time": 1697766752,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366033,
+        "num": 307213,
+        "word": "流浪狗",
+        "onboard_time": 1697778097,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301971,
+        "num": 301971,
+        "word": "韩版以家人之名主演阵容",
+        "onboard_time": 1697777617,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 298367,
+        "num": 298367,
+        "word": "于正否认为华浅重生是个梦",
+        "onboard_time": 1697779473,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290703,
+        "num": 290703,
+        "word": "朱一龙暴肥暴瘦和我喝水一样简单",
+        "onboard_time": 1697781334,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 287767,
+        "num": 287767,
+        "word": "天津警方通报儿童遭开门杀后被公交碾压死亡",
+        "onboard_time": 1697782172,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262981,
+        "num": 262981,
+        "word": "5岁娃被压脚50秒30人冲来救援",
+        "onboard_time": 1697777560,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250840,
+        "num": 250840,
+        "word": "罗大美生前曾多次向求助人捐款",
+        "onboard_time": 1697777497,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 284938,
+        "num": 238637,
+        "word": "睡眠不足的六个表现",
+        "onboard_time": 1697771971,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 222681,
+        "num": 222681,
+        "word": "吾凰在上开机",
+        "onboard_time": 1697778038,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217335,
+        "num": 217335,
+        "word": "B太 新疆婚礼全程体验",
+        "onboard_time": 1697777017,
+        "rank": 22,
+        "category": "网红,旅游"
+      },
+      {
+        "raw_hot": 216698,
+        "num": 216698,
+        "word": "婚礼上新娘梳马尾穿校服入场",
+        "onboard_time": 1697779655,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213276,
+        "num": 213276,
+        "word": "科学家首次将人类老年痴呆症传给动物",
+        "onboard_time": 1697781813,
+        "rank": 24,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 198531,
+        "num": 198531,
+        "word": "A股",
+        "onboard_time": 1697765852,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 187359,
+        "num": 187359,
+        "word": "钟薛高回应欠薪传闻",
+        "onboard_time": 1697782355,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186354,
+        "num": 186354,
+        "word": "李玟将在武汉下葬",
+        "onboard_time": 1697781632,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185402,
+        "num": 185402,
+        "word": "欧阳娜娜做饭款待朋友",
+        "onboard_time": 1697778935,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183981,
+        "num": 183981,
+        "word": "白鹿费加罗十月刊封面",
+        "onboard_time": 1697782713,
+        "rank": 29,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 181780,
+        "num": 181780,
+        "word": "遭恶犬咬伤女童仍昏迷",
+        "onboard_time": 1697772392,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181094,
+        "num": 181094,
+        "word": "原来水课才是拉开差距的地方",
+        "onboard_time": 1697777200,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172025,
+        "num": 172025,
+        "word": "G2 赛前预测",
+        "onboard_time": 1697779473,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167959,
+        "num": 167959,
+        "word": "军队文职",
+        "onboard_time": 1697770652,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 166264,
+        "num": 166264,
+        "word": "披荆斩棘",
+        "onboard_time": 1697778337,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149454,
+        "num": 149454,
+        "word": "邓超陪孙俪健身",
+        "onboard_time": 1697778038,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144378,
+        "num": 144378,
+        "word": "kelvin李起诉时代峰峻侵权获赔",
+        "onboard_time": 1697776835,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142142,
+        "num": 142142,
+        "word": "妈 咱们也要去好莱坞了",
+        "onboard_time": 1697763637,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141690,
+        "num": 141690,
+        "word": "从始至终都是仲溪午",
+        "onboard_time": 1697782355,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49739,
+        "num": 134066,
+        "word": "盘点今年双十一有意思的猫头",
+        "onboard_time": 1697781632,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 131078,
+        "num": 131078,
+        "word": "与宝马相撞出租车所属公司称司机已尽力刹车",
+        "onboard_time": 1697761597,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123757,
+        "num": 123757,
+        "word": "上次妹妹中箭也是这么痛吗",
+        "onboard_time": 1697782653,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123606,
+        "num": 123606,
+        "word": "国产剧长了嘴的女主果然不一样",
+        "onboard_time": 1697778281,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123477,
+        "num": 123477,
+        "word": "丫丫贴秋膘成功",
+        "onboard_time": 1697766693,
+        "rank": 43,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 121414,
+        "num": 121414,
+        "word": "哄不好了 河边的错误杀青特辑",
+        "onboard_time": 1697777200,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120613,
+        "num": 120613,
+        "word": "不会删空白页的有福了",
+        "onboard_time": 1697782774,
+        "rank": 45,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 117557,
+        "num": 117557,
+        "word": "秀智出演李斗娜的状态",
+        "onboard_time": 1697779116,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114964,
+        "num": 114964,
+        "word": "钟薛高被曝欠薪",
+        "onboard_time": 1697776297,
+        "rank": 47,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 112753,
+        "num": 112753,
+        "word": "田耕纪豆瓣评分7.5",
+        "onboard_time": 1697777859,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110909,
+        "num": 110909,
+        "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+        "onboard_time": 1697729435,
+        "rank": 49,
+        "category": "社会新闻,健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}
