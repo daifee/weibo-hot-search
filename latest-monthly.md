@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 23:34:29
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 00:22:13
 </p>
 </blockquote>
 <p>
@@ -2349,6 +2349,12 @@ MLB 文案（热度：1618045）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%88%23" target="weibo">
+林孝埈（热度：1616284）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E5%85%A8%E9%9D%A2%E5%B0%81%E9%94%81%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%23" target="weibo">
 以色列宣布全面封锁加沙地带（热度：1613063）
 </a>
@@ -2375,6 +2381,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8E%B2%E8%8A%B1%E6%A5%BC%E6%BC%94%E5%94%B1%E4%BC%9A%20%E8%AF%9A%E6%84%8F%E6%BB%A1%E6%BB%A1%23" target="weibo">
 莲花楼演唱会 诚意满满（热度：1609006）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%81%B6%E7%8A%AC%E5%81%B7%E8%B7%91%E4%B8%BB%E4%BA%BA%E6%9B%BE%E5%87%BA%E9%97%A8%E5%AF%BB%E6%89%BE%E4%BD%86%E6%B2%A1%E6%89%BE%E5%88%B0%23" target="weibo">
+成都恶犬偷跑主人曾出门寻找但没找到（热度：1608732）
 </a>
 </li>
 
@@ -2585,12 +2597,6 @@ DOTA2中国队晋级决赛（热度：1546862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E7%BF%94%E8%B0%88PPT%E6%9B%9D%E5%85%89%E6%B8%A3%E7%94%B7%E6%B8%A3%E5%A5%B3%23" target="weibo">
 罗翔谈PPT曝光渣男渣女（热度：1537729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%81%B6%E7%8A%AC%E5%81%B7%E8%B7%91%E4%B8%BB%E4%BA%BA%E6%9B%BE%E5%87%BA%E9%97%A8%E5%AF%BB%E6%89%BE%E4%BD%86%E6%B2%A1%E6%89%BE%E5%88%B0%23" target="weibo">
-成都恶犬偷跑主人曾出门寻找但没找到（热度：1535129）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG对战KT（热度：850932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2376%E5%B2%81%E6%9E%97%E5%AD%90%E7%A5%A5%E5%92%8C33%E5%B2%81%E8%83%A1%E5%A4%8F%E7%9A%84%E5%8F%8B%E8%B0%8A%23" target="weibo">
 76岁林子祥和33岁胡夏的友谊（热度：836362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%AD%E5%9B%BD%E9%94%80%E9%87%8F%E5%B7%B2%E8%B6%85%E8%B6%8A%E8%8B%B9%E6%9E%9C%23" target="weibo">
-华为中国销量已超越苹果（热度：835784）
 </a>
 </li>
 

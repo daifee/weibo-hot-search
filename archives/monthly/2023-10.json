@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697816069393,
+  "endTime": 1697818933607,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2356,7 +2356,7 @@
     },
     {
       "raw_hot": 1822614,
-      "num": 441448,
+      "num": 664699,
       "word": "杨迪 可以不喜爱但请别伤害",
       "onboard_time": 1697807011,
       "rank": 20,
@@ -3115,6 +3115,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1616284,
+      "num": 1616284,
+      "word": "林孝埈",
+      "onboard_time": 1697816554,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1613063,
       "num": 779738,
       "word": "以色列宣布全面封锁加沙地带",
@@ -3153,6 +3161,14 @@
       "onboard_time": 1697553761,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1608732,
+      "num": 1535129,
+      "word": "成都恶犬偷跑主人曾出门寻找但没找到",
+      "onboard_time": 1697812835,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1607706,
@@ -3432,14 +3448,6 @@
       "word": "罗翔谈PPT曝光渣男渣女",
       "onboard_time": 1697018858,
       "rank": 16,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1535129,
-      "num": 1535129,
-      "word": "成都恶犬偷跑主人曾出门寻找但没找到",
-      "onboard_time": 1697812835,
-      "rank": 3,
       "category": "社会新闻"
     },
     {
@@ -10803,6 +10811,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 663452,
+      "num": 663452,
+      "word": "调停者型人格",
+      "onboard_time": 1697814874,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 663263,
       "num": 617045,
       "word": "美国要求以色列推迟地面进攻",
@@ -17067,6 +17083,14 @@
       "category": "综艺,综艺"
     },
     {
+      "raw_hot": 460829,
+      "num": 460829,
+      "word": "网红张美丽被抓警方征集犯罪线索",
+      "onboard_time": 1697817032,
+      "rank": 6,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 460660,
       "num": 460660,
       "word": "迪丽热巴花少5拍照姿势",
@@ -19171,6 +19195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414390,
+      "num": 414390,
+      "word": "五月天冠佑女儿",
+      "onboard_time": 1697816911,
+      "rank": 9,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 414287,
       "num": 414287,
       "word": "Red Velvet",
@@ -19497,6 +19529,14 @@
       "onboard_time": 1696120351,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 406329,
+      "num": 406329,
+      "word": "金牛座越来越冷漠的原因",
+      "onboard_time": 1697816673,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 406057,
@@ -20993,6 +21033,14 @@
       "onboard_time": 1696686038,
       "rank": 33,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 377585,
+      "num": 377585,
+      "word": "时代少年团澳门演唱会的票价",
+      "onboard_time": 1697817931,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 377443,
@@ -24417,14 +24465,6 @@
       "onboard_time": 1696519296,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 324532,
-      "num": 324532,
-      "word": "调停者型人格",
-      "onboard_time": 1697814874,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 324291,
@@ -29475,6 +29515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 268430,
+      "num": 268430,
+      "word": "小慧君胜诉",
+      "onboard_time": 1697818531,
+      "rank": 17,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 268428,
       "num": 268428,
       "word": "新郎接亲发现堵门的全是小朋友",
@@ -29609,6 +29657,14 @@
       "onboard_time": 1697164712,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 267426,
+      "num": 267426,
+      "word": "陈汉典获奖感谢小S蔡康永",
+      "onboard_time": 1697815355,
+      "rank": 26,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267253,
@@ -30065,14 +30121,6 @@
       "onboard_time": 1697510853,
       "rank": 24,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 263301,
-      "num": 263301,
-      "word": "陈汉典获奖感谢小S蔡康永",
-      "onboard_time": 1697815355,
-      "rank": 26,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 263289,
@@ -50419,6 +50467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135948,
+      "num": 135948,
+      "word": "我的女神室友斗娜",
+      "onboard_time": 1697816793,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135925,
       "num": 135925,
       "word": "王传君封面造型 星期五",
@@ -52579,6 +52635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 111649,
+      "num": 111649,
+      "word": "林允给痘痘留透气孔",
+      "onboard_time": 1697818412,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111196,
       "num": 111196,
       "word": "以闪亮之名鸢尾迷局",
@@ -52723,6 +52787,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 107893,
+      "num": 107893,
+      "word": "莽村李宏伟新剧不莽了",
+      "onboard_time": 1697816072,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107873,
       "num": 175410,
       "word": "我的执刃大人来到现代当少爷了",
@@ -52793,6 +52865,14 @@
       "onboard_time": 1697733805,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106234,
+      "num": 106234,
+      "word": "林孝埈1500米晋级",
+      "onboard_time": 1697817331,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 106110,
@@ -53281,6 +53361,14 @@
       "onboard_time": 1697707775,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93810,
+      "num": 106226,
+      "word": "WB战胜eStar",
+      "onboard_time": 1697816373,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 93703,
@@ -55857,6 +55945,14 @@
       "onboard_time": 1697139073,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 24730,
+      "num": 665682,
+      "word": "亚残运会火炬满满的中国式浪漫",
+      "onboard_time": 1697802330,
+      "rank": 2,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 24697,
