@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697801646888,
+  "endTime": 1697805188895,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -491,6 +491,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 2033914,
+      "num": 572793,
+      "word": "女子产后跳楼身亡派出所称其患抑郁症",
+      "onboard_time": 1697802751,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2023448,
       "num": 2023448,
       "word": "苹果员工被曝涉嫌性侵米哈游职员",
@@ -897,6 +905,14 @@
       "onboard_time": 1697672190,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1543253,
+      "num": 298306,
+      "word": "韩娱多位名人被曝吸毒",
+      "onboard_time": 1697803231,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1534545,
@@ -1785,6 +1801,14 @@
       "onboard_time": 1697511155,
       "rank": 10,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 986864,
+      "num": 986864,
+      "word": "王牌对王牌",
+      "onboard_time": 1697344835,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 986665,
@@ -4491,14 +4515,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 493668,
-      "num": 493668,
-      "word": "王牌对王牌",
-      "onboard_time": 1697344835,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 492844,
       "num": 492844,
       "word": "公主请",
@@ -6089,6 +6105,14 @@
       "onboard_time": 1697445754,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377443,
+      "num": 377443,
+      "word": "JDG战胜BLG",
+      "onboard_time": 1697804252,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 376737,
@@ -8723,6 +8747,14 @@
       "category": "自然"
     },
     {
+      "raw_hot": 255395,
+      "num": 230893,
+      "word": "为什么阳光玫瑰变便宜也变难吃了",
+      "onboard_time": 1697803952,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 254971,
       "num": 254971,
       "word": "长相思主创种相思豆",
@@ -8785,6 +8817,14 @@
       "onboard_time": 1697695838,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 254006,
+      "num": 254006,
+      "word": "以军逮捕哈马斯发言人",
+      "onboard_time": 1697796933,
+      "rank": 16,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 253978,
@@ -9123,6 +9163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 243907,
+      "num": 243907,
+      "word": "JDG对战BLG",
+      "onboard_time": 1697803650,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 243855,
       "num": 243855,
       "word": "杨紫范丞丞要久久爱集数变更",
@@ -9217,6 +9265,14 @@
       "onboard_time": 1697628453,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 240080,
+      "num": 240080,
+      "word": "颜骏凌巨大失误",
+      "onboard_time": 1697804553,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 239780,
@@ -9609,6 +9665,14 @@
       "onboard_time": 1697703935,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229315,
+      "num": 229315,
+      "word": "BLG",
+      "onboard_time": 1697802568,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 229249,
@@ -10577,6 +10641,14 @@
       "onboard_time": 1697719356,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 205641,
+      "num": 205641,
+      "word": "内娱演技进步很大的演员",
+      "onboard_time": 1697804013,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 205425,
@@ -13075,6 +13147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169421,
+      "num": 169421,
+      "word": "九尾也来看五月天了",
+      "onboard_time": 1697801610,
+      "rank": 38,
+      "category": "电竞,演出"
+    },
+    {
       "raw_hot": 169365,
       "num": 169365,
       "word": "四川人连早饭都是重油重辣吗",
@@ -13145,14 +13225,6 @@
       "onboard_time": 1697544937,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 167688,
-      "num": 167688,
-      "word": "九尾也来看五月天了",
-      "onboard_time": 1697801610,
-      "rank": 38,
-      "category": "电竞,演出"
     },
     {
       "raw_hot": 167636,
@@ -13755,6 +13827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 156229,
+      "num": 156229,
+      "word": "寄生虫或能向宿主借基因控制宿主思想",
+      "onboard_time": 1697801074,
+      "rank": 42,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 156145,
       "num": 156145,
       "word": "姥姥带大的女孩用自己的方式爱护老人",
@@ -13907,6 +13987,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 153540,
+      "num": 589016,
+      "word": "航天员吃到自己种的新鲜蔬菜了",
+      "onboard_time": 1697802631,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 153054,
       "num": 153054,
       "word": "这俩人演出偶像剧的感觉",
@@ -13969,14 +14057,6 @@
       "onboard_time": 1697324719,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151956,
-      "num": 151956,
-      "word": "寄生虫或能向宿主借基因控制宿主思想",
-      "onboard_time": 1697801074,
-      "rank": 42,
-      "category": "知识科普"
     },
     {
       "raw_hot": 151830,
@@ -14393,6 +14473,14 @@
       "onboard_time": 1697376455,
       "rank": 46,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 143183,
+      "num": 143183,
+      "word": "洋女婿在中国当起了城市宣传官",
+      "onboard_time": 1697802874,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 143126,
@@ -14963,6 +15051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 124937,
+      "num": 124937,
+      "word": "85花今日活动造型",
+      "onboard_time": 1697805032,
+      "rank": 42,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 124883,
       "num": 136238,
       "word": "张小斐新片 女儿和正义如何抉择",
@@ -15283,12 +15379,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113095,
+      "num": 113095,
+      "word": "漫威蜘蛛侠2上线",
+      "onboard_time": 1697803712,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 112821,
       "num": 112821,
       "word": "陈楚生 广州",
       "onboard_time": 1697283812,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112402,
+      "num": 112402,
+      "word": "朱一龙回应余华夸他是艺术家",
+      "onboard_time": 1697801969,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 112211,
@@ -16690,6 +16802,9 @@
     },
     {
       "word": "#习近平会见新开发银行行长#"
+    },
+    {
+      "word": "#一带一路的朋友圈为何越来越大#"
     }
   ]
 }
