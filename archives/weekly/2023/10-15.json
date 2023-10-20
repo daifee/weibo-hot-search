@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697806175406,
+  "endTime": 1697808036098,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -908,7 +908,7 @@
     },
     {
       "raw_hot": 1543253,
-      "num": 298306,
+      "num": 436443,
       "word": "韩娱多位名人被曝吸毒",
       "onboard_time": 1697803231,
       "rank": 10,
@@ -1081,6 +1081,14 @@
       "onboard_time": 1697801252,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1374566,
+      "num": 1374566,
+      "word": "青岛啤酒发布情况说明",
+      "onboard_time": 1697805872,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1374248,
@@ -1561,6 +1569,14 @@
       "onboard_time": 1697624559,
       "rank": 19,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1068995,
+      "num": 235765,
+      "word": "杨迪 可以不喜爱但请别伤害",
+      "onboard_time": 1697807011,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1068005,
@@ -3923,6 +3939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553026,
+      "num": 553026,
+      "word": "以色列防长称将很快下达进攻加沙命令",
+      "onboard_time": 1697805212,
+      "rank": 6,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 550726,
       "num": 550726,
       "word": "张晚意柳舟记婚服骑马路透",
@@ -4995,6 +5019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455555,
+      "num": 455555,
+      "word": "五月天演唱会",
+      "onboard_time": 1697807492,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 455529,
       "num": 450517,
       "word": "疯狗咬人不松口怎么办",
@@ -5041,14 +5073,6 @@
       "onboard_time": 1697371716,
       "rank": 30,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 454309,
-      "num": 423961,
-      "word": "以色列防长称将很快下达进攻加沙命令",
-      "onboard_time": 1697805212,
-      "rank": 6,
-      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 452996,
@@ -6193,6 +6217,14 @@
       "onboard_time": 1697768613,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 375396,
+      "num": 375396,
+      "word": "12306回应200克葡萄售价60元",
+      "onboard_time": 1697807252,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 375113,
@@ -7467,6 +7499,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 303548,
+      "num": 303548,
+      "word": "李佳琦双十一预告",
+      "onboard_time": 1697807011,
+      "rank": 15,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 303180,
       "num": 303180,
       "word": "杨紫美拉德机车大片",
@@ -7617,14 +7657,6 @@
       "onboard_time": 1697299950,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 297592,
-      "num": 269821,
-      "word": "青岛啤酒发布情况说明",
-      "onboard_time": 1697805872,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 297485,
@@ -8481,6 +8513,14 @@
       "onboard_time": 1697718273,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 264507,
+      "num": 264507,
+      "word": "李响喝柿子拿铁喝到劈叉",
+      "onboard_time": 1697806712,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 264438,
@@ -10579,6 +10619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207449,
+      "num": 207449,
+      "word": "流星花园藤堂静灵感妆",
+      "onboard_time": 1697805754,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 207316,
       "num": 207316,
       "word": "蔡文静美拉德穿搭",
@@ -12387,6 +12435,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 183542,
+      "num": 183542,
+      "word": "不粘马桶何时问世",
+      "onboard_time": 1697806890,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 183390,
       "num": 183390,
       "word": "电影照明商店定档",
@@ -12633,6 +12689,14 @@
       "onboard_time": 1697699139,
       "rank": 34,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 178717,
+      "num": 178717,
+      "word": "DK对战KT",
+      "onboard_time": 1697807856,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 178682,
@@ -12929,6 +12993,14 @@
       "onboard_time": 1697777200,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 173294,
+      "num": 173294,
+      "word": "老人穿红衣服进羊圈被羊顶死",
+      "onboard_time": 1697807975,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172742,
@@ -13355,6 +13427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166010,
+      "num": 166010,
+      "word": "房琪kiki赛里木湖",
+      "onboard_time": 1697806173,
+      "rank": 35,
+      "category": "旅游,艺人"
+    },
+    {
       "raw_hot": 165635,
       "num": 165635,
       "word": "TES战胜BOA",
@@ -13425,14 +13505,6 @@
       "onboard_time": 1697711256,
       "rank": 44,
       "category": "美食"
-    },
-    {
-      "raw_hot": 164402,
-      "num": 153417,
-      "word": "流星花园藤堂静灵感妆",
-      "onboard_time": 1697805754,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 164333,
@@ -13620,7 +13692,7 @@
     },
     {
       "raw_hot": 160917,
-      "num": 589016,
+      "num": 777798,
       "word": "航天员吃到自己种的新鲜蔬菜了",
       "onboard_time": 1697802631,
       "rank": 2,
@@ -14145,6 +14217,14 @@
       "onboard_time": 1697382760,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 150336,
+      "num": 150336,
+      "word": "萧敬腾林有慧领证vlog",
+      "onboard_time": 1697806592,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 150332,
@@ -14739,6 +14819,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 137335,
+      "num": 137335,
+      "word": "京城大师赛",
+      "onboard_time": 1697807675,
+      "rank": 39,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 137307,
       "num": 137307,
       "word": "聂海胜回忆目送神五飞天",
@@ -15235,6 +15323,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 119736,
+      "num": 119736,
+      "word": "张学友身着羽绒服抵达成都",
+      "onboard_time": 1697807794,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119605,
       "num": 528630,
       "word": "跨越山海的十年",
@@ -15353,6 +15449,14 @@
       "onboard_time": 1697598694,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116086,
+      "num": 116086,
+      "word": "北京国安",
+      "onboard_time": 1697806413,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 116056,
@@ -15625,6 +15729,14 @@
       "onboard_time": 1697375076,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102643,
+      "num": 102643,
+      "word": "民警150条短信指导男子逃出缅北",
+      "onboard_time": 1697807432,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 102371,
