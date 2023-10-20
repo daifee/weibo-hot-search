@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/15 00:20:12 ~ 2023/10/20 12:20:25
+本榜单时间：2023/10/15 00:20:12 ~ 2023/10/20 12:34:55
 </p>
 </blockquote>
 <p>
@@ -681,6 +681,12 @@ MiuMiu钻石内裤（热度：1560241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB%23" target="weibo">
+警方回应女子产后疑被婆家逼死（热度：1484072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%B6%E6%9D%A8%E7%B4%AB%E7%9A%84%E5%B0%8F%E5%A7%90%E5%A7%90%E6%92%9E%E8%BF%9B%E4%BA%86%E9%82%93%E4%B8%BA%E6%80%80%E9%87%8C%23" target="weibo">
 扶杨紫的小姐姐撞进了邓为怀里（热度：1473302）
 </a>
@@ -885,12 +891,6 @@ EXO变成CEO了（热度：1420109）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB%23" target="weibo">
-警方回应女子产后疑被婆家逼死（热度：1289910）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BC%80%E6%92%AD%23" target="weibo">
 天官赐福第二季开播（热度：1285398）
 </a>
@@ -1013,6 +1013,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%99F367UJ%E4%BD%A0%E5%86%B2%E5%90%91%E8%8D%89%E4%B8%9B%E7%9A%84%E6%A0%B7%E5%AD%90%E7%9C%9F%E5%B8%85%23" target="weibo">
 浙F367UJ你冲向草丛的样子真帅（热度：1145020）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23" target="weibo">
+网友乘地铁发现警犬已戴上嘴套（热度：1143121）
 </a>
 </li>
 
@@ -1389,12 +1395,6 @@ DK 疯牛病（热度：1059512）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23" target="weibo">
-网友乘地铁发现警犬已戴上嘴套（热度：923804）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%93%E5%88%B6%E5%86%85%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%AE%98%E6%96%B9%E4%BA%86%23" target="weibo">
 体制内的朋友圈越来越官方了（热度：918347）
 </a>
@@ -1403,6 +1403,12 @@ DK 疯牛病（热度：1059512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%BD%97%E5%A8%81%E7%BA%B3%E7%8A%AC%E6%89%93%E8%BF%87%E7%8B%82%E7%8A%AC%E7%96%AB%E8%8B%97%23" target="weibo">
 咬伤女童罗威纳犬打过狂犬疫苗（热度：913004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%85%E7%91%9F%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%B5%81%E6%B5%AA%E7%8B%97%E9%83%BD%E6%98%AF%E5%9D%8F%E7%8B%97%23" target="weibo">
+刘雅瑟称不是所有流浪狗都是坏狗（热度：909593）
 </a>
 </li>
 
@@ -1563,8 +1569,8 @@ Xiaomi HyperOS（热度：858223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%85%E7%91%9F%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%B5%81%E6%B5%AA%E7%8B%97%E9%83%BD%E6%98%AF%E5%9D%8F%E7%8B%97%23" target="weibo">
-刘雅瑟称不是所有流浪狗都是坏狗（热度：857067）
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%80%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B0%E4%BA%B2%E5%AF%86%E8%A7%86%E9%A2%91%23" target="weibo">
+情侣住酒店一年后收到亲密视频（热度：857288）
 </a>
 </li>
 
@@ -3303,6 +3309,12 @@ EXO公司logo四叶草（热度：485394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E7%9A%84%E5%85%AD%E4%B8%AA%E8%A1%A8%E7%8E%B0%23" target="weibo">
+睡眠不足的六个表现（热度：473174）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E7%A6%81%E5%85%BB22%E7%A7%8D%E7%83%88%E6%80%A7%E7%8A%AC%E4%B8%8D%E5%8C%85%E6%8B%AC%E7%BD%97%E5%A8%81%E7%BA%B3%23" target="weibo">
 成都禁养22种烈性犬不包括罗威纳（热度：471754）
 </a>
@@ -3869,12 +3881,6 @@ BLG KT（热度：431125）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%84%BF%E8%AE%A4%E5%87%BA%E6%9D%A8%E9%98%BF%E5%A7%A8%23" target="weibo">
 花儿认出杨阿姨（热度：418487）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E4%B8%8D%E8%B6%B3%E7%9A%84%E5%85%AD%E4%B8%AA%E8%A1%A8%E7%8E%B0%23" target="weibo">
-睡眠不足的六个表现（热度：417599）
 </a>
 </li>
 
@@ -6405,6 +6411,12 @@ AG对战WB（热度：244788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E6%BA%AA%E5%8D%88%E4%B8%8D%E5%89%94%E9%AA%A8%E4%BB%B2%E5%A4%9C%E9%98%91%E5%B0%B1%E6%8D%A2%E5%88%98%E5%AD%90%E8%A1%8C%E6%9D%A5%23" target="weibo">
+仲溪午不剔骨仲夜阑就换刘子行来（热度：242499）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%8E%E5%AD%90%E6%97%A0%E7%97%9B%E5%8D%87%E4%BB%99%23" target="weibo">
 虎子无痛升仙（热度：242366）
 </a>
@@ -6833,12 +6845,6 @@ BLG现场给Yagao过生日（热度：229939）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%20%E5%B0%8F%E4%BF%9D%E5%BA%95%E4%B8%8D%E6%AD%AA%23" target="weibo">
 原神 小保底不歪（热度：224973）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%B2%E6%BA%AA%E5%8D%88%E4%B8%8D%E5%89%94%E9%AA%A8%E4%BB%B2%E5%A4%9C%E9%98%91%E5%B0%B1%E6%8D%A2%E5%88%98%E5%AD%90%E8%A1%8C%E6%9D%A5%23" target="weibo">
-仲溪午不剔骨仲夜阑就换刘子行来（热度：224852）
 </a>
 </li>
 
@@ -8085,6 +8091,12 @@ DNTSS24大秀（热度：197256）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AA%E5%AE%9A%E4%BA%8B%E4%BB%B6%E7%B0%BF%20%E5%9C%A8%E7%BA%BF%E5%8F%91%E7%89%8C%23" target="weibo">
+未定事件簿 在线发牌（热度：193029）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%AB%E6%80%A5%E4%BD%A0%E7%9A%84%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E6%AD%A3%E5%9C%A8%E6%95%91%E4%BA%BA%23" target="weibo">
 别急你的外卖小哥正在救人（热度：192994）
 </a>
@@ -8729,6 +8741,12 @@ TTG战胜AG（热度：179174）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%BF%E4%B8%9C%E4%BA%BA%E7%85%B2%E6%B1%A4%E8%BF%99%E4%B9%88%E5%A5%BD%E5%96%9D%23" target="weibo">
 为什么广东人煲汤这么好喝（热度：178682）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%84%E5%AC%9B%E8%A2%AB%E5%B9%BD%E7%A6%81%E6%97%B6%E6%9C%9F%E7%9A%84%E9%A4%90%E9%A5%AE%E6%A0%87%E5%87%86%23" target="weibo">
+甄嬛被幽禁时期的餐饮标准（热度：178563）
 </a>
 </li>
 
@@ -10383,6 +10401,12 @@ eStar签运（热度：128384）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E8%A2%AB%E6%9B%9D%E6%AC%A0%E8%96%AA%23" target="weibo">
+钟薛高被曝欠薪（热度：127238）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%236%E4%B8%AA%E5%A4%9A%E6%9C%88%E5%B0%B1%E5%87%BA%E7%94%9F%E7%9A%84%E5%B7%B4%E6%8E%8C%E5%AE%9D%E5%AE%9D%E5%81%A5%E5%BA%B7%E5%87%BA%E9%99%A2%23" target="weibo">
 6个多月就出生的巴掌宝宝健康出院（热度：127114）
 </a>
@@ -10409,6 +10433,12 @@ eStar签运（热度：128384）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%A2%82%E6%96%87%E4%B8%80%E4%BA%BA%E5%8D%83%E9%9D%A2%23" target="weibo">
 张颂文一人千面（热度：126335）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%8F%91%E5%85%89%E6%97%B6%E5%88%BB%23" target="weibo">
+属于我的发光时刻（热度：126312）
 </a>
 </li>
 
@@ -11003,12 +11033,6 @@ HPV和HPV疫苗的相关科普（热度：79785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23100%E5%B9%B4%E5%89%8D%E7%9A%84%E9%9F%B3%E4%B9%90%E5%B1%85%E7%84%B6%E5%A4%8D%E6%B4%BB%E4%BA%86%23" target="weibo">
 100年前的音乐居然复活了（热度：74847）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%9E%E4%BA%8E%E6%88%91%E7%9A%84%E5%8F%91%E5%85%89%E6%97%B6%E5%88%BB%23" target="weibo">
-属于我的发光时刻（热度：74790）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 12:20:25
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 12:34:55
 </p>
 </blockquote>
 <p>
@@ -2619,6 +2619,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB%23" target="weibo">
+警方回应女子产后疑被婆家逼死（热度：1484072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9B%A8%E8%96%87%E8%B5%9B%E5%90%8E%E8%B0%88%E5%90%B4%E8%89%B3%E5%A6%AE%E6%8A%A2%E8%B7%91%23" target="weibo">
 林雨薇赛后谈吴艳妮抢跑（热度：1483564）
 </a>
@@ -3285,12 +3291,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB%23" target="weibo">
-警方回应女子产后疑被婆家逼死（热度：1289910）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
 关晓彤微博之夜捂嘴原因（热度：1287996）
 </a>
@@ -3809,6 +3809,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%9B%E9%98%9F%E6%96%87%E8%81%8C%23" target="weibo">
 军队文职（热度：1146339）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23" target="weibo">
+网友乘地铁发现警犬已戴上嘴套（热度：1143121）
 </a>
 </li>
 
@@ -5037,12 +5043,6 @@ Super Shy（热度：956731）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23" target="weibo">
-网友乘地铁发现警犬已戴上嘴套（热度：923804）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%BE%A1%E6%85%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 沈梦辰羡慕杜海涛的原因（热度：921803）
 </a>
@@ -5117,6 +5117,12 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%AD%90%E8%AF%AF%E9%A3%9F%E6%9C%88%E9%A5%BC%E9%9B%86%E4%BD%93%E6%89%93%E5%90%8A%E9%92%88%23" target="weibo">
 狗子误食月饼集体打吊针（热度：910387）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%85%E7%91%9F%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%B5%81%E6%B5%AA%E7%8B%97%E9%83%BD%E6%98%AF%E5%9D%8F%E7%8B%97%23" target="weibo">
+刘雅瑟称不是所有流浪狗都是坏狗（热度：909593）
 </a>
 </li>
 
@@ -5625,8 +5631,8 @@ Xiaomi HyperOS（热度：858223）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%85%E7%91%9F%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%B5%81%E6%B5%AA%E7%8B%97%E9%83%BD%E6%98%AF%E5%9D%8F%E7%8B%97%23" target="weibo">
-刘雅瑟称不是所有流浪狗都是坏狗（热度：857067）
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E4%BD%8F%E9%85%92%E5%BA%97%E4%B8%80%E5%B9%B4%E5%90%8E%E6%94%B6%E5%88%B0%E4%BA%B2%E5%AF%86%E8%A7%86%E9%A2%91%23" target="weibo">
+情侣住酒店一年后收到亲密视频（热度：857288）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%A4%E7%9F%A5%E4%B8%A5%E9%87%8D%E9%9A%9C%E7%A2%8D%E7%9A%84%E5%A4%A7%E7%88%B7%E5%9C%A8%E7%BE%8E%E5%8F%91%E5%BA%97%E6%B6%88%E8%B4%B960%E4%B8%87%23" target="weibo">
 认知严重障碍的大爷在美发店消费60万（热度：816570）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%9C%A8%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B1%82%E5%8A%A9%23" target="weibo">
-4岁走失女童父亲在网友评论区求助（热度：815757）
 </a>
 </li>
 
