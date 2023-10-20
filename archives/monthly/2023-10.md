@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 06:34:11
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 07:16:29
 </p>
 </blockquote>
 <p>
@@ -5385,6 +5385,12 @@ iPhone平均寿命将达8年（热度：910856）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23" target="weibo">
+被狗咬女童家属称每天医药费1万左右（热度：897933）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8A%9E%E6%95%99%E5%B8%88%E8%B0%83%E5%85%A5%E9%95%87%E6%94%BF%E5%BA%9C30%E5%B9%B4%E9%80%80%E4%BC%91%E5%8F%91%E7%8E%B0%E6%B2%A1%E7%BC%96%E5%88%B6%23" target="weibo">
 公办教师调入镇政府30年退休发现没编制（热度：896764）
 </a>
@@ -6005,12 +6011,6 @@ BLG对战KT（热度：850932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%96%E6%8E%92%E7%A7%AF%E5%88%86%E5%85%A8%E6%98%AF%E5%86%A0%E5%86%9B%23" target="weibo">
 孙颖莎世排积分全是冠军（热度：837610）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%94%AF%E5%8E%9F%E4%BD%93%E8%82%BA%E7%82%8E%23" target="weibo">
-支原体肺炎（热度：837599）
 </a>
 </li>
 

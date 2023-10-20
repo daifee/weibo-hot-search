@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697841251480,
+  "endTime": 1697843789687,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 897933,
+      "num": 897933,
+      "word": "被狗咬女童家属称每天医药费1万左右",
+      "onboard_time": 1697822901,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 763352,
       "num": 763352,
       "word": "广东通报女子产后跳楼身亡",
@@ -57,6 +65,22 @@
       "onboard_time": 1697814874,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 651923,
+      "num": 360566,
+      "word": "多国以色列使领馆遭到冲击",
+      "onboard_time": 1697827215,
+      "rank": 11,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 546826,
+      "num": 546826,
+      "word": "为什么阳光玫瑰变便宜也变难吃了",
+      "onboard_time": 1697803952,
+      "rank": 22,
+      "category": "社会新闻,美食"
     },
     {
       "raw_hot": 542407,
@@ -89,14 +113,6 @@
       "onboard_time": 1697793334,
       "rank": 7,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 445720,
-      "num": 445720,
-      "word": "被狗咬女童家属称每天医药费1万左右",
-      "onboard_time": 1697822901,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 432962,
@@ -155,14 +171,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 301685,
-      "num": 301685,
-      "word": "为什么阳光玫瑰变便宜也变难吃了",
-      "onboard_time": 1697803952,
-      "rank": 22,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "陈汉典获奖感谢小S蔡康永",
@@ -185,6 +193,14 @@
       "onboard_time": 1697819428,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243828,
+      "num": 243828,
+      "word": "你好李焕英 人本身的情感要素",
+      "onboard_time": 1697821705,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 240607,
@@ -243,14 +259,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 189221,
-      "num": 189221,
-      "word": "多国以色列使领馆遭到冲击",
-      "onboard_time": 1697827215,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 168803,
       "num": 168803,
       "word": "张婧仪蓝睫毛",
@@ -273,14 +281,6 @@
       "onboard_time": 1697805872,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154332,
-      "num": 154332,
-      "word": "你好李焕英 人本身的情感要素",
-      "onboard_time": 1697821705,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 154062,
@@ -315,8 +315,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135035,
-      "num": 135035,
+      "raw_hot": 135061,
+      "num": 135061,
       "word": "12306回应200克葡萄售价60元",
       "onboard_time": 1697807252,
       "rank": 35,
@@ -329,6 +329,14 @@
       "onboard_time": 1697804852,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131557,
+      "num": 131557,
+      "word": "沙溢闫妮圆了白展堂佟湘玉的夫妻梦",
+      "onboard_time": 1697820625,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 130611,
@@ -355,14 +363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 122100,
-      "num": 122100,
-      "word": "沙溢闫妮圆了白展堂佟湘玉的夫妻梦",
-      "onboard_time": 1697820625,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 119886,
       "num": 119886,
       "word": "eStar挑战者杯淘汰",
@@ -371,12 +371,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118677,
+      "num": 118677,
+      "word": "爸爸给儿子书包里装的伞竟是菜罩子",
+      "onboard_time": 1697835015,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117739,
       "num": 117739,
       "word": "伊戈达拉宣布退役",
       "onboard_time": 1697811514,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112967,
+      "num": 77557,
+      "word": "王玉雯 认识馨彤是一件幸福的事情",
+      "onboard_time": 1697842399,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 112028,
@@ -451,12 +467,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 79765,
-      "num": 79765,
-      "word": "爸爸给儿子书包里装的伞竟是菜罩子",
-      "onboard_time": 1697835015,
-      "rank": 28,
+      "raw_hot": 87636,
+      "num": 87636,
+      "word": "估计司机也是第一次拉这么可爱的货",
+      "onboard_time": 1697837353,
+      "rank": 48,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 83818,
+      "num": 83818,
+      "word": "仲夜阑手撕离婚证",
+      "onboard_time": 1697824280,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75741,
+      "num": 75741,
+      "word": "消防员买水付钱被店员婉拒送烤红薯",
+      "onboard_time": 1697842999,
+      "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 68457,
+      "num": 68457,
+      "word": "台州1450条围巾为2600多公里外学生送暖",
+      "onboard_time": 1697843482,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 65777,
+      "num": 65777,
+      "word": "余华 命运的看法比我们更准确",
+      "onboard_time": 1697839635,
+      "rank": 41,
+      "category": "读书作家"
     },
     {
       "raw_hot": 65189,
@@ -467,12 +515,52 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45480,
-      "num": 47615,
-      "word": "仲夜阑手撕离婚证",
-      "onboard_time": 1697824280,
-      "rank": 33,
-      "category": "剧集"
+      "raw_hot": 64964,
+      "num": 64964,
+      "word": "中国帮几内亚培养首位女火车司机",
+      "onboard_time": 1697843601,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 57571,
+      "num": 57571,
+      "word": "唐嫣提示杨迪往回倒0.5个词",
+      "onboard_time": 1697843120,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 51725,
+      "num": 51725,
+      "word": "2023F1美国大奖赛排位赛",
+      "onboard_time": 1697843301,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 49899,
+      "num": 49899,
+      "word": "offer5团建废带教律师",
+      "onboard_time": 1697840116,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 46311,
+      "num": 46311,
+      "word": "海豚搁浅被好心人类联手营救",
+      "onboard_time": 1697843181,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 42664,
+      "num": 42664,
+      "word": "浙江人长三角跨省看病理赔更方便了",
+      "onboard_time": 1697843782,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 41439,
@@ -480,14 +568,6 @@
       "word": "养狗后看不了这些情节",
       "onboard_time": 1697827456,
       "rank": 24,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 40278,
-      "num": 36551,
-      "word": "估计司机也是第一次拉这么可爱的货",
-      "onboard_time": 1697837353,
-      "rank": 48,
       "category": "动物萌宠"
     },
     {
@@ -499,28 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30030,
-      "num": 31324,
-      "word": "余华 命运的看法比我们更准确",
-      "onboard_time": 1697839635,
-      "rank": 41,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 29643,
       "num": 794883,
       "word": "亚残运会火炬满满的中国式浪漫",
       "onboard_time": 1697802330,
       "rank": 2,
       "category": "社会新闻,体育"
-    },
-    {
-      "raw_hot": 25757,
-      "num": 31305,
-      "word": "offer5团建废带教律师",
-      "onboard_time": 1697840116,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 24838,
