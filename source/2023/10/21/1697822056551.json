@@ -1,0 +1,410 @@
+{
+  "runTime": 1697822056551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1798324,
+        "num": 1798324,
+        "word": "小慧君胜诉",
+        "onboard_time": 1697818531,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 804997,
+        "num": 804997,
+        "word": "林孝埈",
+        "onboard_time": 1697816554,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21772,
+        "num": 792697,
+        "word": "亚残运会火炬满满的中国式浪漫",
+        "onboard_time": 1697802330,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 783480,
+        "num": 783480,
+        "word": "杨迪 可以不喜爱但请别伤害",
+        "onboard_time": 1697807011,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 773117,
+        "num": 773117,
+        "word": "成都恶犬偷跑主人曾出门寻找但没找到",
+        "onboard_time": 1697812835,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 477106,
+        "num": 477106,
+        "word": "广东通报女子产后跳楼身亡",
+        "onboard_time": 1697808032,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 343086,
+        "num": 343086,
+        "word": "巴以冲突",
+        "onboard_time": 1697793334,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 318161,
+        "num": 318161,
+        "word": "金牛座越来越冷漠的原因",
+        "onboard_time": 1697816673,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 287046,
+        "num": 287046,
+        "word": "网红张美丽被抓警方征集犯罪线索",
+        "onboard_time": 1697817032,
+        "rank": 8,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 240286,
+        "num": 240286,
+        "word": "五月天冠佑女儿",
+        "onboard_time": 1697816911,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 561639,
+        "num": 238407,
+        "word": "猫肉按每斤4块5充当猪羊肉",
+        "onboard_time": 1697812716,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 256230,
+        "num": 237646,
+        "word": "野狗骨头影视化",
+        "onboard_time": 1697819428,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236049,
+        "num": 236049,
+        "word": "调停者型人格",
+        "onboard_time": 1697814874,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 234355,
+        "num": 234355,
+        "word": "为什么阳光玫瑰变便宜也变难吃了",
+        "onboard_time": 1697803952,
+        "rank": 13,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 214842,
+        "num": 214842,
+        "word": "韩娱多位名人被曝吸毒",
+        "onboard_time": 1697803231,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205932,
+        "num": 205932,
+        "word": "时代少年团澳门演唱会的票价",
+        "onboard_time": 1697817931,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184458,
+        "num": 184458,
+        "word": "iPhone的手电筒可以调节亮度",
+        "onboard_time": 1697813434,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 159209,
+        "num": 159209,
+        "word": "李兰迪留了长发",
+        "onboard_time": 1697809355,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157423,
+        "num": 157423,
+        "word": "小蓝姐姐原来长大后这么痛苦",
+        "onboard_time": 1697795251,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 132514,
+        "num": 132514,
+        "word": "阿根廷世界杯冠军成员兴奋剂阳性",
+        "onboard_time": 1697811874,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204102,
+        "num": 131863,
+        "word": "月薪7K抠门三年攒下20万",
+        "onboard_time": 1697795853,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 118112,
+        "num": 118112,
+        "word": "沙溢闫妮圆了白展堂佟湘玉的夫妻梦",
+        "onboard_time": 1697820625,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116225,
+        "num": 116225,
+        "word": "老人穿红衣服进羊圈被羊顶死",
+        "onboard_time": 1697807975,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109220,
+        "num": 109220,
+        "word": "女子花15年报复下头男",
+        "onboard_time": 1697813616,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108706,
+        "num": 108706,
+        "word": "二手玫瑰冠军",
+        "onboard_time": 1697811755,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105768,
+        "num": 105768,
+        "word": "陈汉典获奖感谢小S蔡康永",
+        "onboard_time": 1697815355,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102270,
+        "num": 102270,
+        "word": "青岛啤酒发布情况说明",
+        "onboard_time": 1697805872,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100979,
+        "num": 100979,
+        "word": "林允给痘痘留透气孔",
+        "onboard_time": 1697818412,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96634,
+        "num": 96634,
+        "word": "周也行走的茉莉青提",
+        "onboard_time": 1697812716,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66616,
+        "num": 93915,
+        "word": "以色列防长称将很快下达进攻加沙命令",
+        "onboard_time": 1697805212,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 92310,
+        "num": 92310,
+        "word": "宋威龙性张力",
+        "onboard_time": 1697815593,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91759,
+        "num": 91759,
+        "word": "丞磊曾试镜30部戏被拒",
+        "onboard_time": 1697818950,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 90588,
+        "num": 90588,
+        "word": "杨幂素妆",
+        "onboard_time": 1697792855,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 89270,
+        "num": 89270,
+        "word": "问心",
+        "onboard_time": 1697804852,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88991,
+        "num": 88991,
+        "word": "G2战胜WBG",
+        "onboard_time": 1697800113,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88177,
+        "num": 88177,
+        "word": "李光洙金宇彬演我不想上班",
+        "onboard_time": 1697820625,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84427,
+        "num": 84427,
+        "word": "优酷别太爱王牌了",
+        "onboard_time": 1697813374,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83376,
+        "num": 83376,
+        "word": "我的女神室友斗娜",
+        "onboard_time": 1697816793,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81048,
+        "num": 81048,
+        "word": "张婧仪蓝睫毛",
+        "onboard_time": 1697811453,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79194,
+        "num": 79194,
+        "word": "奶奶六年前给我买的金项链",
+        "onboard_time": 1697809896,
+        "rank": 39,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 78274,
+        "num": 78274,
+        "word": "12306回应200克葡萄售价60元",
+        "onboard_time": 1697807252,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72244,
+        "num": 72244,
+        "word": "LPL又是内战",
+        "onboard_time": 1697808274,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69747,
+        "num": 69747,
+        "word": "五月天演唱会",
+        "onboard_time": 1697807492,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68089,
+        "num": 68089,
+        "word": "伊戈达拉宣布退役",
+        "onboard_time": 1697811514,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67179,
+        "num": 67179,
+        "word": "WBG领先一万被翻盘",
+        "onboard_time": 1697801252,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66808,
+        "num": 66808,
+        "word": "李健唱了王菲的如愿",
+        "onboard_time": 1697813494,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 66646,
+        "num": 66646,
+        "word": "内娱演技进步很大的演员",
+        "onboard_time": 1697804013,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 60261,
+        "num": 66638,
+        "word": "杭州情侣回应不花钱办一场婚礼",
+        "onboard_time": 1697812357,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59441,
+        "num": 66637,
+        "word": "eStar挑战者杯淘汰",
+        "onboard_time": 1697814515,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54544,
+        "num": 66623,
+        "word": "你好李焕英 人本身的情感要素",
+        "onboard_time": 1697821705,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新开发银行行长#"
+    }
+  }
+}
