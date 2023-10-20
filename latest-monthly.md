@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 07:16:29
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 07:34:06
 </p>
 </blockquote>
 <p>
@@ -4185,6 +4185,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23" target="weibo">
+被狗咬女童家属称每天医药费1万左右（热度：1088258）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%8A%A5%E5%90%8D%23" target="weibo">
 海底捞报名（热度：1085530）
 </a>
@@ -5381,12 +5387,6 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%B4%A0%E5%B8%8C%E5%92%8C%E8%BD%A6%E9%93%B6%E4%BC%98%E4%B8%80%E8%B5%B7%E6%8B%8D%E5%B9%BF%E5%91%8A%E4%BA%86%23" target="weibo">
 韩素希和车银优一起拍广告了（热度：898003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23" target="weibo">
-被狗咬女童家属称每天医药费1万左右（热度：897933）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1697844846925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1310906,
+        "num": 1310906,
+        "word": "小慧君胜诉",
+        "onboard_time": 1697818531,
+        "rank": 0,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1088258,
+        "num": 1088258,
+        "word": "被狗咬女童家属称每天医药费1万左右",
+        "onboard_time": 1697822901,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26614,
+        "num": 657844,
+        "word": "亚残运会火炬满满的中国式浪漫",
+        "onboard_time": 1697802330,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 651603,
+        "num": 651603,
+        "word": "为什么阳光玫瑰变便宜也变难吃了",
+        "onboard_time": 1697803952,
+        "rank": 3,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 504122,
+        "num": 504122,
+        "word": "杨迪 可以不喜爱但请别伤害",
+        "onboard_time": 1697807011,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 778515,
+        "num": 483248,
+        "word": "多国以色列使领馆遭到冲击",
+        "onboard_time": 1697827215,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 384793,
+        "num": 384793,
+        "word": "巴勒斯坦民众与以色列军警发生冲突",
+        "onboard_time": 1697844202,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 307344,
+        "num": 307344,
+        "word": "广东通报女子产后跳楼身亡",
+        "onboard_time": 1697808032,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290108,
+        "num": 290108,
+        "word": "你好李焕英 人本身的情感要素",
+        "onboard_time": 1697821705,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211624,
+        "num": 211624,
+        "word": "网红张美丽被抓警方征集犯罪线索",
+        "onboard_time": 1697817032,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 411397,
+        "num": 204567,
+        "word": "猫肉按每斤4块5充当猪羊肉",
+        "onboard_time": 1697812716,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185065,
+        "num": 185065,
+        "word": "老人穿红衣服进羊圈被羊顶死",
+        "onboard_time": 1697807975,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161197,
+        "num": 161197,
+        "word": "12306回应200克葡萄售价60元",
+        "onboard_time": 1697807252,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160547,
+        "num": 160547,
+        "word": "沙溢闫妮圆了白展堂佟湘玉的夫妻梦",
+        "onboard_time": 1697820625,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152099,
+        "num": 152099,
+        "word": "iPhone的手电筒可以调节亮度",
+        "onboard_time": 1697813434,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145625,
+        "num": 145625,
+        "word": "金牛座越来越冷漠的原因",
+        "onboard_time": 1697816673,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140899,
+        "num": 140899,
+        "word": "韩娱多位名人被曝吸毒",
+        "onboard_time": 1697803231,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140285,
+        "num": 140285,
+        "word": "现在孩子的书房都这么先进了吗",
+        "onboard_time": 1697844503,
+        "rank": 17,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 131994,
+        "num": 131994,
+        "word": "陈汉典获奖感谢小S蔡康永",
+        "onboard_time": 1697815355,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130619,
+        "num": 130619,
+        "word": "林孝埈",
+        "onboard_time": 1697816554,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189943,
+        "num": 130287,
+        "word": "月薪7K抠门三年攒下20万",
+        "onboard_time": 1697795853,
+        "rank": 20,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 144086,
+        "num": 129774,
+        "word": "女子花15年报复下头男",
+        "onboard_time": 1697813616,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128396,
+        "num": 128396,
+        "word": "五月天冠佑女儿",
+        "onboard_time": 1697816911,
+        "rank": 22,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126994,
+        "num": 126994,
+        "word": "仲溪午告白",
+        "onboard_time": 1697844624,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120359,
+        "num": 120359,
+        "word": "唐嫣提示杨迪往回倒0.5个词",
+        "onboard_time": 1697843120,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117054,
+        "num": 117054,
+        "word": "阿根廷世界杯冠军成员兴奋剂阳性",
+        "onboard_time": 1697811874,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115444,
+        "num": 115444,
+        "word": "爸爸给儿子书包里装的伞竟是菜罩子",
+        "onboard_time": 1697835015,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105486,
+        "num": 105486,
+        "word": "中国帮几内亚培养首位女火车司机",
+        "onboard_time": 1697843601,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102817,
+        "num": 102817,
+        "word": "估计司机也是第一次拉这么可爱的货",
+        "onboard_time": 1697837353,
+        "rank": 28,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 100419,
+        "num": 100419,
+        "word": "越老越苗条可能是骨质疏松信号",
+        "onboard_time": 1697843842,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164882,
+        "num": 99261,
+        "word": "王玉雯 认识馨彤是一件幸福的事情",
+        "onboard_time": 1697842399,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96709,
+        "num": 96709,
+        "word": "二手玫瑰冠军",
+        "onboard_time": 1697811755,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95995,
+        "num": 95995,
+        "word": "青岛啤酒发布情况说明",
+        "onboard_time": 1697805872,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96328,
+        "num": 95206,
+        "word": "时代少年团澳门演唱会的票价",
+        "onboard_time": 1697817931,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93460,
+        "num": 93460,
+        "word": "内娱演技进步很大的演员",
+        "onboard_time": 1697804013,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92469,
+        "num": 92469,
+        "word": "李兰迪留了长发",
+        "onboard_time": 1697809355,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87467,
+        "num": 87467,
+        "word": "小蓝姐姐原来长大后这么痛苦",
+        "onboard_time": 1697795251,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 87277,
+        "num": 87277,
+        "word": "仲夜阑手撕离婚证",
+        "onboard_time": 1697824280,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79466,
+        "num": 79466,
+        "word": "消防员买水付钱被店员婉拒送烤红薯",
+        "onboard_time": 1697842999,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76677,
+        "num": 76677,
+        "word": "F1美国大奖赛勒克莱尔杆位",
+        "onboard_time": 1697844263,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73868,
+        "num": 73868,
+        "word": "李光洙金宇彬演我不想上班",
+        "onboard_time": 1697820625,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72473,
+        "num": 72473,
+        "word": "余华 命运的看法比我们更准确",
+        "onboard_time": 1697839635,
+        "rank": 41,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 65592,
+        "num": 65592,
+        "word": "周也行走的茉莉青提",
+        "onboard_time": 1697812716,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59501,
+        "num": 59501,
+        "word": "调停者型人格",
+        "onboard_time": 1697814874,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59147,
+        "num": 59147,
+        "word": "台州1450条围巾为2600多公里外学生送暖",
+        "onboard_time": 1697843482,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 56975,
+        "num": 56975,
+        "word": "以色列防长称将很快下达进攻加沙命令",
+        "onboard_time": 1697805212,
+        "rank": 45,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 56946,
+        "num": 56946,
+        "word": "伊戈达拉宣布退役",
+        "onboard_time": 1697811514,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53109,
+        "num": 53109,
+        "word": "杨幂素妆",
+        "onboard_time": 1697792855,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 52262,
+        "num": 52262,
+        "word": "LPL又是内战",
+        "onboard_time": 1697808274,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 52097,
+        "num": 52097,
+        "word": "宋雨琦legend级直拍",
+        "onboard_time": 1697844805,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新开发银行行长#"
+    }
+  }
+}
