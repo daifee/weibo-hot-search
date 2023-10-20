@@ -1,0 +1,410 @@
+{
+  "runTime": 1697787255176,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1798704,
+        "num": 1798704,
+        "word": "标价799的蟹吃了999的龙虾",
+        "onboard_time": 1697780673,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1103704,
+        "num": 1103704,
+        "word": "原来张栋梁去年就该来披荆斩棘",
+        "onboard_time": 1697784091,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 13418,
+        "num": 910686,
+        "word": "神十七船箭组合体已就位",
+        "onboard_time": 1697772514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 762507,
+        "num": 762507,
+        "word": "C9 回溯",
+        "onboard_time": 1697785476,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 635241,
+        "num": 635241,
+        "word": "青岛啤酒厂工人被曝在原料仓小便",
+        "onboard_time": 1697785710,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 578928,
+        "num": 578928,
+        "word": "甄嬛被幽禁时期的餐饮标准",
+        "onboard_time": 1697776297,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513357,
+        "num": 513357,
+        "word": "男子1天取451.8万银行柜员报警",
+        "onboard_time": 1697770291,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 512803,
+        "num": 512803,
+        "word": "柚子鸡",
+        "onboard_time": 1697783554,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 348461,
+        "num": 348461,
+        "word": "女子吐槽高铁一盒葡萄60元仅200克",
+        "onboard_time": 1697780076,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321023,
+        "num": 321023,
+        "word": "朱一龙暴肥暴瘦和我喝水一样简单",
+        "onboard_time": 1697781334,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1115166,
+        "num": 319750,
+        "word": "小狗不觉得自己是在流浪",
+        "onboard_time": 1697772095,
+        "rank": 10,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 1468008,
+        "num": 318191,
+        "word": "情侣住酒店一年后收到亲密视频",
+        "onboard_time": 1697775693,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 614898,
+        "num": 317580,
+        "word": "杨迪 想回家看我的狗",
+        "onboard_time": 1697785113,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 612929,
+        "num": 315512,
+        "word": "赵丽颖练八段锦",
+        "onboard_time": 1697782053,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102306,
+        "num": 313788,
+        "word": "天猫双11主打全网低价",
+        "onboard_time": 1697785231,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 601758,
+        "num": 312850,
+        "word": "遭绑架杀害网红罗大美好友发声",
+        "onboard_time": 1697784155,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 373237,
+        "num": 310340,
+        "word": "基金",
+        "onboard_time": 1697783792,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 356355,
+        "num": 309833,
+        "word": "天津警方通报儿童遭开门杀后被公交碾压死亡",
+        "onboard_time": 1697782172,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308695,
+        "num": 308695,
+        "word": "LNG战胜C9",
+        "onboard_time": 1697786973,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 256723,
+        "num": 256723,
+        "word": "罗大美生前曾多次向求助人捐款",
+        "onboard_time": 1697777497,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 29426,
+        "num": 248535,
+        "word": "杭州亚残运会火炬传递主题曲MV发布",
+        "onboard_time": 1697772816,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1264065,
+        "num": 247776,
+        "word": "天津一儿童疑遭开门杀后被碾身亡",
+        "onboard_time": 1697781513,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661450,
+        "num": 247570,
+        "word": "杨幂碎钻露腰白裙",
+        "onboard_time": 1697785172,
+        "rank": 22,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 245414,
+        "num": 245414,
+        "word": "特斯拉大跌9%",
+        "onboard_time": 1697783914,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 234123,
+        "num": 234123,
+        "word": "重庆驱赶处置流浪狗保安被停职",
+        "onboard_time": 1697773715,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 223778,
+        "num": 223778,
+        "word": "网友乘地铁发现警犬已戴上嘴套",
+        "onboard_time": 1697772272,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222378,
+        "num": 222378,
+        "word": "沪指跌破3000点大关",
+        "onboard_time": 1697766752,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 222252,
+        "num": 222252,
+        "word": "睡眠不足的六个表现",
+        "onboard_time": 1697771971,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219655,
+        "num": 219655,
+        "word": "不会删空白页的有福了",
+        "onboard_time": 1697782774,
+        "rank": 28,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 185098,
+        "num": 218465,
+        "word": "院士到中学讲座被学生围住要签名",
+        "onboard_time": 1697786192,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218104,
+        "num": 218104,
+        "word": "松子终于写完作业了",
+        "onboard_time": 1697786074,
+        "rank": 30,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 214306,
+        "num": 214306,
+        "word": "孙阳发型",
+        "onboard_time": 1697784633,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 204424,
+        "num": 204424,
+        "word": "流浪狗",
+        "onboard_time": 1697778097,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 200909,
+        "num": 200909,
+        "word": "下辈子不要当流浪动物了",
+        "onboard_time": 1697786012,
+        "rank": 33,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 176558,
+        "num": 176558,
+        "word": "C9对战LNG",
+        "onboard_time": 1697785651,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171717,
+        "num": 171717,
+        "word": "于正否认为华浅重生是个梦",
+        "onboard_time": 1697779473,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167814,
+        "num": 167814,
+        "word": "林志颖闭眼复原魔方",
+        "onboard_time": 1697780312,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167171,
+        "num": 167171,
+        "word": "青霉素和头孢为何对肺炎支原体无效",
+        "onboard_time": 1697784633,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 166351,
+        "num": 166351,
+        "word": "蔡亨源入伍手写信",
+        "onboard_time": 1697785172,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153835,
+        "num": 153835,
+        "word": "5岁娃被压脚50秒30人冲来救援",
+        "onboard_time": 1697777560,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150323,
+        "num": 150323,
+        "word": "手工取一颗百香果果浆有多快",
+        "onboard_time": 1697784032,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 143827,
+        "num": 143827,
+        "word": "科学家首次将人类老年痴呆症传给动物",
+        "onboard_time": 1697781813,
+        "rank": 41,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 134598,
+        "num": 134598,
+        "word": "李玟将在武汉下葬",
+        "onboard_time": 1697781632,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130233,
+        "num": 130233,
+        "word": "A股",
+        "onboard_time": 1697765852,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127513,
+        "num": 127513,
+        "word": "G2 赛前预测",
+        "onboard_time": 1697779473,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126846,
+        "num": 126846,
+        "word": "西安铁路5年拾了2000多部手机",
+        "onboard_time": 1697783854,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122800,
+        "num": 122800,
+        "word": "这个球进了你做我女朋友",
+        "onboard_time": 1697783254,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120788,
+        "num": 120788,
+        "word": "LNG对战C9",
+        "onboard_time": 1697785292,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118874,
+        "num": 118874,
+        "word": "旅客突发心脏骤停列车上的他们出手了",
+        "onboard_time": 1697787033,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118566,
+        "num": 118566,
+        "word": "kelvin李起诉时代峰峻侵权获赔",
+        "onboard_time": 1697776835,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}
