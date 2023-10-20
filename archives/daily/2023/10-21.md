@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/21 00:22:13 ~ 2023/10/21 05:14:37
+本榜单时间：2023/10/21 00:22:13 ~ 2023/10/21 05:34:02
 </p>
 </blockquote>
 <p>
@@ -375,6 +375,12 @@ Capper直播（热度：91413）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%A6%E5%8C%85%E9%87%8C%E8%A3%85%E7%9A%84%E4%BC%9E%E7%AB%9F%E6%98%AF%E8%8F%9C%E7%BD%A9%E5%AD%90%23" target="weibo">
+爸爸给儿子书包里装的伞竟是菜罩子（热度：30060）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E7%81%AB%E7%82%AC%E6%BB%A1%E6%BB%A1%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%BC%8F%E6%B5%AA%E6%BC%AB%23" target="weibo">
 亚残运会火炬满满的中国式浪漫（热度：29643）
 </a>
@@ -387,8 +393,8 @@ Capper直播（热度：91413）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%A6%E5%8C%85%E9%87%8C%E8%A3%85%E7%9A%84%E4%BC%9E%E7%AB%9F%E6%98%AF%E8%8F%9C%E7%BD%A9%E5%AD%90%23" target="weibo">
-爸爸给儿子书包里装的伞竟是菜罩子（热度：21151）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BC%B0%E8%AE%A1%E5%8F%B8%E6%9C%BA%E4%B9%9F%E6%98%AF%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%8B%89%E8%BF%99%E4%B9%88%E5%8F%AF%E7%88%B1%E7%9A%84%E8%B4%A7%23" target="weibo">
+估计司机也是第一次拉这么可爱的货（热度：13945）
 </a>
 </li>
 
