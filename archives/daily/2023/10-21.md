@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/21 00:22:13 ~ 2023/10/21 04:17:22
+本榜单时间：2023/10/21 00:22:13 ~ 2023/10/21 04:34:08
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@ Capper直播（热度：91413）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B4%E4%B8%8D%E8%A7%81%E7%9A%84%E6%9C%8B%E5%8F%8B%23" target="weibo">
 多年不见的朋友（热度：24838）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%AF%E5%A6%A4Roselyn%E6%96%B0%E6%AD%8C%23" target="weibo">
+刘芯妤Roselyn新歌（热度：12365）
 </a>
 </li>
 

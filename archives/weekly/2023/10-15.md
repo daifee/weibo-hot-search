@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/15 00:20:12 ~ 2023/10/21 04:17:22
+本榜单时间：2023/10/15 00:20:12 ~ 2023/10/21 04:34:08
 </p>
 </blockquote>
 <p>
@@ -13037,6 +13037,12 @@ TW对战GAM（热度：38404）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E8%84%91%E5%AD%90%E9%83%BD%E6%98%AF%E5%B7%A6%E5%8F%8C%E6%A1%83%E4%B8%80%E5%A3%B0%E4%BA%B2%E8%80%81%E5%85%AC%23" target="weibo">
 满脑子都是左双桃一声亲老公（热度：13624）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%AF%E5%A6%A4Roselyn%E6%96%B0%E6%AD%8C%23" target="weibo">
+刘芯妤Roselyn新歌（热度：12365）
 </a>
 </li>
 

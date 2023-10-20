@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697833042600,
+  "endTime": 1697834048651,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -497,6 +497,14 @@
       "onboard_time": 1697826796,
       "rank": 49,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 12365,
+      "num": 20227,
+      "word": "刘芯妤Roselyn新歌",
+      "onboard_time": 1697833993,
+      "rank": 49,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [
