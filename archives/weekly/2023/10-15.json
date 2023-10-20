@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697787255176,
+  "endTime": 1697790083670,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -1467,6 +1467,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1090452,
+      "num": 635241,
+      "word": "青岛啤酒厂工人被曝在原料仓小便",
+      "onboard_time": 1697785710,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1083020,
       "num": 959183,
       "word": "papi酱 老板直播间",
@@ -1755,6 +1763,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 975900,
+      "num": 975900,
+      "word": "李善均方回应吸毒传闻",
+      "onboard_time": 1697788233,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 975500,
       "num": 681623,
       "word": "为了发朋友圈而产生的消费",
@@ -2033,6 +2049,14 @@
       "onboard_time": 1697682874,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 880383,
+      "num": 386984,
+      "word": "杨迪 想回家看我的狗",
+      "onboard_time": 1697785113,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 876666,
@@ -2377,6 +2401,14 @@
       "onboard_time": 1697549921,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 788815,
+      "num": 788815,
+      "word": "甄嬛被幽禁时期的餐饮标准",
+      "onboard_time": 1697776297,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 788138,
@@ -2899,14 +2931,6 @@
       "category": "电影,综艺"
     },
     {
-      "raw_hot": 676142,
-      "num": 676142,
-      "word": "甄嬛被幽禁时期的餐饮标准",
-      "onboard_time": 1697776297,
-      "rank": 32,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 674802,
       "num": 674802,
       "word": "梅西中国行官宣",
@@ -3107,14 +3131,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 635241,
-      "num": 635241,
-      "word": "青岛啤酒厂工人被曝在原料仓小便",
-      "onboard_time": 1697785710,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 634373,
       "num": 547468,
       "word": "长相思直播",
@@ -3187,6 +3203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 620723,
+      "num": 620723,
+      "word": "绑架罗大美嫌犯劫财后欲将其卖至缅甸",
+      "onboard_time": 1697787277,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620586,
       "num": 620586,
       "word": "陈奕迅演唱会 抢票",
@@ -3225,14 +3249,6 @@
       "onboard_time": 1697615915,
       "rank": 4,
       "category": "演出"
-    },
-    {
-      "raw_hot": 614898,
-      "num": 386984,
-      "word": "杨迪 想回家看我的狗",
-      "onboard_time": 1697785113,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 614385,
@@ -4763,6 +4779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 455987,
+      "num": 218638,
+      "word": "萝卜刀创始人仍蜗居出租屋",
+      "onboard_time": 1697787571,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455529,
       "num": 450517,
       "word": "疯狗咬人不松口怎么办",
@@ -5379,6 +5403,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 412912,
+      "num": 412912,
+      "word": "华为六周内售出160万部Mate60Pro",
+      "onboard_time": 1697789131,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 412830,
       "num": 412830,
       "word": "赵丽颖新妆造",
@@ -5929,6 +5961,14 @@
       "onboard_time": 1697300850,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370999,
+      "num": 216625,
+      "word": "月薪1万做不起美甲",
+      "onboard_time": 1697787452,
+      "rank": 23,
+      "category": "财经,时尚"
     },
     {
       "raw_hot": 370570,
@@ -6779,6 +6819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321975,
+      "num": 321975,
+      "word": "下辈子不要当流浪动物了",
+      "onboard_time": 1697786012,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 321560,
       "num": 321560,
       "word": "为什么领导的头像都是风景照",
@@ -7289,6 +7337,14 @@
       "onboard_time": 1697533957,
       "rank": 42,
       "category": "国外要闻,军事"
+    },
+    {
+      "raw_hot": 296462,
+      "num": 270982,
+      "word": "罗大美",
+      "onboard_time": 1697706274,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 295916,
@@ -7881,14 +7937,6 @@
       "onboard_time": 1697672010,
       "rank": 40,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 270982,
-      "num": 270982,
-      "word": "罗大美",
-      "onboard_time": 1697706274,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 270273,
@@ -9011,6 +9059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 234787,
+      "num": 193417,
+      "word": "女子结婚后被村里投票剥夺征地补偿资格",
+      "onboard_time": 1697789433,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234503,
       "num": 234503,
       "word": "Steam 崩了",
@@ -9291,6 +9347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 227562,
+      "num": 227562,
+      "word": "罗云熙中泰友谊文化形象大使",
+      "onboard_time": 1697787813,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227115,
       "num": 227115,
       "word": "被关晓彤身上的姐感蛊到",
@@ -9417,6 +9481,14 @@
       "onboard_time": 1697429617,
       "rank": 48,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 222706,
+      "num": 222706,
+      "word": "这是在化妆还是在装修",
+      "onboard_time": 1697789075,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 222631,
@@ -10595,14 +10667,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 200909,
-      "num": 200909,
-      "word": "下辈子不要当流浪动物了",
-      "onboard_time": 1697786012,
-      "rank": 46,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 200875,
       "num": 200875,
       "word": "我们的歌",
@@ -11113,6 +11177,14 @@
       "onboard_time": 1697614954,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 193188,
+      "num": 193188,
+      "word": "青岛啤酒",
+      "onboard_time": 1697789611,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193035,
@@ -12177,6 +12249,14 @@
       "onboard_time": 1697643095,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 175494,
+      "num": 175494,
+      "word": "关晓彤新剧再现腾化",
+      "onboard_time": 1697789012,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 175483,
@@ -14531,6 +14611,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118895,
+      "num": 118895,
+      "word": "王牌对王牌今日开播",
+      "onboard_time": 1697789911,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118874,
       "num": 118874,
       "word": "旅客突发心脏骤停列车上的他们出手了",
@@ -14897,6 +14985,14 @@
       "onboard_time": 1697477179,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 98758,
+      "num": 98758,
+      "word": "鹊刀门传奇幕后 不需要走流量",
+      "onboard_time": 1697787393,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 97822,
@@ -15587,6 +15683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42546,
+      "num": 910686,
+      "word": "神十七船箭组合体已就位",
+      "onboard_time": 1697772514,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 40106,
       "num": 66700,
       "word": "巩俐用山东话念独白",
@@ -15803,14 +15907,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23914,
-      "num": 910686,
-      "word": "神十七船箭组合体已就位",
-      "onboard_time": 1697772514,
-      "rank": 15,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 23757,
       "num": 23757,
       "word": "梁静茹 宁波",
@@ -15952,6 +16048,14 @@
       "word": "侗寨千人大歌现场有多震撼",
       "onboard_time": 1697314754,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11799,
+      "num": 101181,
+      "word": "今年天猫双11直接打折",
+      "onboard_time": 1697789975,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
