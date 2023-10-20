@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 07:34:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 09:12:02
 </p>
 </blockquote>
 <p>
@@ -2115,6 +2115,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%B1%89%E4%B8%80%E6%9C%AA%E6%8B%B4%E7%BB%B3%E6%9D%9C%E5%AE%BE%E7%8A%AC%E5%92%AC%E4%BA%BA%E8%A2%AB%E6%B2%A1%E6%94%B6%23" target="weibo">
+武汉一未拴绳杜宾犬咬人被没收（热度：1672900）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%BC%E6%B8%B8%E7%94%A8%E6%BF%80%E5%85%89%E7%AC%94%E7%85%A7%E9%BE%99%E9%97%A8%E7%9F%B3%E7%AA%9F%E5%A4%A7%E4%BD%9B%23" target="weibo">
 导游用激光笔照龙门石窟大佛（热度：1670225）
 </a>
@@ -3087,6 +3093,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%90%E7%A9%BF%E5%A5%B3%E8%A3%85%E7%9B%B4%E6%92%AD%E4%BA%86%23" target="weibo">
+向佐穿女装直播了（热度：1332245）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E5%9B%A0%E7%99%BE%E4%BB%BD%E4%BD%9B%E8%B7%B3%E5%A2%99%E8%AE%A2%E5%8D%95%E6%8D%9F%E5%A4%B111%E4%B8%87%23" target="weibo">
 店主因百份佛跳墙订单损失11万（热度：1332178）
 </a>
@@ -3393,6 +3405,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8E%E5%AE%9D%E9%A9%AC%E7%9B%B8%E6%92%9E%E5%87%BA%E7%A7%9F%E8%BD%A6%E6%89%80%E5%B1%9E%E5%85%AC%E5%8F%B8%E7%A7%B0%E5%8F%B8%E6%9C%BA%E5%B7%B2%E5%B0%BD%E5%8A%9B%E5%88%B9%E8%BD%A6%23" target="weibo">
+与宝马相撞出租车所属公司称司机已尽力刹车（热度：1238159）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%9D%E9%B2%9C%E5%A5%B3%E5%8F%8C%E4%BA%89%E9%87%91%23" target="weibo">
 韩国朝鲜女双争金（热度：1237386）
 </a>
@@ -3533,6 +3551,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%B5%B7%E6%B4%8B%E5%90%91%E5%AF%BB%E4%BA%B2%E5%AE%B6%E9%95%BF%E9%81%93%E6%AD%89%23" target="weibo">
 孙海洋向寻亲家长道歉（热度：1204978）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23RH%E9%98%B4%E6%80%A7%E8%A1%80%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%E9%9D%92%E5%B9%B4%E6%88%90%E4%B8%BA%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB%E5%AE%98%23" target="weibo">
+RH阴性血哈萨克斯坦青年成为全球新闻官（热度：1204309）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ TFBOYS明天见登十大巅峰单曲（热度：810922）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
 王牌对王牌（热度：808720）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E8%AE%B0%E8%80%85%E6%89%8B%E6%9C%BAAPP%E8%AD%A6%E6%8A%A5%E5%93%8D%E4%B8%AA%E4%B8%8D%E5%81%9C%23" target="weibo">
-巴以冲突记者手机APP警报响个不停（热度：808657）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B0%B1%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E8%A1%A8%E6%80%81%23" target="weibo">
-中方就巴以冲突表态（热度：807810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%8E%E5%8D%97%E5%B7%A8%E5%93%8D%23" target="weibo">
-济南巨响（热度：807633）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%9B%9E%E5%BA%94%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%23" target="weibo">
-普京回应巴以冲突（热度：807630）
 </a>
 </li>
 

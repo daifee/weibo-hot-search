@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697758447946,
+  "endTime": 1697764322726,
   "band_list": [
     {
       "raw_hot": 1746126,
@@ -11,8 +11,40 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1672900,
+      "num": 1213432,
+      "word": "武汉一未拴绳杜宾犬咬人被没收",
+      "onboard_time": 1697758348,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1332245,
+      "num": 304737,
+      "word": "向佐穿女装直播了",
+      "onboard_time": 1697761838,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1238159,
+      "num": 1238159,
+      "word": "与宝马相撞出租车所属公司称司机已尽力刹车",
+      "onboard_time": 1697761597,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1204309,
+      "num": 1204309,
+      "word": "RH阴性血哈萨克斯坦青年成为全球新闻官",
+      "onboard_time": 1697762375,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 968174,
-      "num": 250725,
+      "num": 551176,
       "word": "以色列巴勒斯坦冲突",
       "onboard_time": 1697744533,
       "rank": 5,
@@ -25,6 +57,22 @@
       "onboard_time": 1697725060,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 794432,
+      "num": 794432,
+      "word": "妈妈用水果举例告诉女儿要开心做自己",
+      "onboard_time": 1697759251,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 779197,
+      "num": 779197,
+      "word": "萧敬腾 恋综",
+      "onboard_time": 1697759311,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 717747,
@@ -43,6 +91,30 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 632411,
+      "num": 230454,
+      "word": "长痘痘不建议吃的水果",
+      "onboard_time": 1697762557,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 515750,
+      "num": 229939,
+      "word": "原来鼻炎鼻塞跟肠胃有很大关系",
+      "onboard_time": 1697762557,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 507423,
+      "num": 229086,
+      "word": "工资涨了我却变抠门了",
+      "onboard_time": 1697761114,
+      "rank": 22,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 501160,
       "num": 501160,
       "word": "张小泉菜刀又现拍蒜断刀",
@@ -59,8 +131,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443117,
+      "num": 303724,
+      "word": "米哈游曾试图绕过苹果税",
+      "onboard_time": 1697762615,
+      "rank": 11,
+      "category": "游戏,财经"
+    },
+    {
       "raw_hot": 439639,
-      "num": 224275,
+      "num": 302934,
       "word": "以安全部队与巴勒斯坦武装人员约旦河西岸交火",
       "onboard_time": 1697756483,
       "rank": 30,
@@ -81,6 +161,22 @@
       "onboard_time": 1697718217,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 382646,
+      "num": 192134,
+      "word": "我只是犯了全天下朋友都会犯的错",
+      "onboard_time": 1697762675,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 360058,
+      "num": 228385,
+      "word": "主人上个厕所柴柴就变打卡点了",
+      "onboard_time": 1697762976,
+      "rank": 23,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 335181,
@@ -107,12 +203,60 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 302023,
+      "num": 302023,
+      "word": "都是好签 除了BLG",
+      "onboard_time": 1697760215,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 287934,
+      "num": 287934,
+      "word": "中国八大名山排名",
+      "onboard_time": 1697762854,
+      "rank": 14,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 276768,
+      "num": 276768,
+      "word": "妈 咱们也要去好莱坞了",
+      "onboard_time": 1697763637,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 273599,
+      "num": 273599,
+      "word": "G2回应抽中TheShy",
+      "onboard_time": 1697756543,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 260645,
       "num": 260645,
       "word": "姑娘给了送外卖的骑警两个橘子",
       "onboard_time": 1697756421,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257249,
+      "num": 191983,
+      "word": "GALA 真男人大战",
+      "onboard_time": 1697762435,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 255856,
+      "num": 255856,
+      "word": "九尾 坏了道心破碎",
+      "onboard_time": 1697761838,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 254452,
@@ -139,20 +283,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 237361,
-      "num": 237361,
-      "word": "G2回应抽中TheShy",
-      "onboard_time": 1697756543,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 235054,
       "num": 452519,
       "word": "花海中的迪丽热巴",
       "onboard_time": 1697717976,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230967,
+      "num": 449324,
+      "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+      "onboard_time": 1697719775,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 227720,
+      "num": 227720,
+      "word": "4位白发奶奶聚会吃火锅画面温馨",
+      "onboard_time": 1697761476,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227689,
@@ -179,6 +331,30 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 214001,
+      "num": 214001,
+      "word": "为什么说旅游后容易分手",
+      "onboard_time": 1697760995,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 213549,
+      "num": 213549,
+      "word": "第一次听说板栗可以生吃",
+      "onboard_time": 1697758769,
+      "rank": 26,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 212500,
+      "num": 212500,
+      "word": "得会四国语言才能拿下的工作",
+      "onboard_time": 1697761114,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 212407,
       "num": 443608,
       "word": "7岁小女孩天生2个子宫3个肾",
@@ -195,20 +371,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205933,
+      "num": 188824,
+      "word": "国考首个超千人竞争岗位出现",
+      "onboard_time": 1697763637,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 203419,
       "num": 439265,
       "word": "今年的古装爆剧",
       "onboard_time": 1697727221,
       "rank": 22,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 202769,
-      "num": 449324,
-      "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
-      "onboard_time": 1697719775,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 193373,
@@ -227,12 +403,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166577,
+      "num": 208897,
+      "word": "男子被困溶洞2天邻居发现异常报警",
+      "onboard_time": 1697756543,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 163375,
       "num": 208809,
       "word": "当你的约会对象穿紧身牛仔裤时",
       "onboard_time": 1697752995,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161857,
+      "num": 161857,
+      "word": "才知道PPT就应该这样做",
+      "onboard_time": 1697761356,
+      "rank": 37,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 158143,
+      "num": 208795,
+      "word": "这届年轻人结婚越来越抠",
+      "onboard_time": 1697744834,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 157627,
@@ -243,12 +443,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157335,
-      "num": 208795,
-      "word": "这届年轻人结婚越来越抠",
-      "onboard_time": 1697744834,
-      "rank": 21,
-      "category": "情感"
+      "raw_hot": 157174,
+      "num": 157174,
+      "word": "唐艺昕好A",
+      "onboard_time": 1697763818,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 155547,
@@ -283,6 +483,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 146127,
+      "num": 146127,
+      "word": "TheShy再谈2018年夺冠",
+      "onboard_time": 1697759852,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143694,
       "num": 411662,
       "word": "外公跑一天给坐月子外孙女买土鸡蛋",
@@ -299,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 137465,
-      "num": 208897,
-      "word": "男子被困溶洞2天邻居发现异常报警",
-      "onboard_time": 1697756543,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 137774,
+      "num": 137774,
+      "word": "邱天羽绒服配短裙",
+      "onboard_time": 1697763517,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 135142,
@@ -339,6 +547,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 127086,
+      "num": 127086,
+      "word": "于适自写的姬发人物小传",
+      "onboard_time": 1697761777,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 125012,
       "num": 414010,
       "word": "向涵之男装",
@@ -369,6 +585,14 @@
       "onboard_time": 1697756421,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 113735,
+      "num": 113735,
+      "word": "世界上最黑的黑色花朵",
+      "onboard_time": 1697764295,
+      "rank": 47,
+      "category": "知识科普"
     },
     {
       "raw_hot": 111198,
@@ -611,20 +835,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44018,
-      "num": 208243,
-      "word": "武汉一未拴绳杜宾犬咬人被没收",
-      "onboard_time": 1697758348,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40106,
       "num": 66700,
       "word": "巩俐用山东话念独白",
       "onboard_time": 1697754198,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39731,
+      "num": 1214002,
+      "word": "6张海报回顾一带一路动人故事",
+      "onboard_time": 1697721455,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 38889,
@@ -657,14 +881,6 @@
       "onboard_time": 1697746573,
       "rank": 47,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 23504,
-      "num": 467600,
-      "word": "6张海报回顾一带一路动人故事",
-      "onboard_time": 1697721455,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 20346,
