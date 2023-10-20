@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697794459565,
+  "endTime": 1697797132129,
   "band_list": [
     {
       "raw_hot": 2958607,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1396641,
+      "num": 933433,
+      "word": "神婆三年前算到李善均吸毒",
+      "onboard_time": 1697792493,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1332245,
       "num": 419848,
       "word": "向佐穿女装直播了",
@@ -145,6 +153,14 @@
       "onboard_time": 1697770652,
       "rank": 5,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1145956,
+      "num": 437673,
+      "word": "造型工作室把赵露思写成了赵丽颖",
+      "onboard_time": 1697792855,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 1143121,
@@ -195,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 968935,
+      "num": 601619,
+      "word": "巴以冲突",
+      "onboard_time": 1697793334,
+      "rank": 41,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 968174,
       "num": 551176,
       "word": "以色列巴勒斯坦冲突",
@@ -203,20 +227,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 933433,
-      "num": 933433,
-      "word": "神婆三年前算到李善均吸毒",
-      "onboard_time": 1697792493,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 918563,
       "num": 918563,
       "word": "代理律师称家属请求对黑狗安乐死",
       "onboard_time": 1697790932,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 911107,
+      "num": 326764,
+      "word": "月薪7K抠门三年攒下20万",
+      "onboard_time": 1697795853,
+      "rank": 20,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 898029,
@@ -283,14 +307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 775728,
-      "num": 437673,
-      "word": "造型工作室把赵露思写成了赵丽颖",
-      "onboard_time": 1697792855,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 762507,
       "num": 762507,
       "word": "C9 回溯",
@@ -313,6 +329,14 @@
       "onboard_time": 1697765672,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 720037,
+      "num": 628210,
+      "word": "李善均因涉毒被韩警方立案前调查",
+      "onboard_time": 1697793634,
+      "rank": 5,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 717747,
@@ -347,12 +371,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 628210,
-      "num": 628210,
-      "word": "李善均因涉毒被韩警方立案前调查",
-      "onboard_time": 1697793634,
-      "rank": 5,
-      "category": "社会新闻,艺人"
+      "raw_hot": 633109,
+      "num": 633109,
+      "word": "不吃妆造的明星",
+      "onboard_time": 1697794173,
+      "rank": 36,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 620723,
@@ -427,8 +451,8 @@
       "category": "网红,旅游"
     },
     {
-      "raw_hot": 567070,
-      "num": 567070,
+      "raw_hot": 568080,
+      "num": 568080,
       "word": "辛德勒的名单B站评分",
       "onboard_time": 1697793393,
       "rank": 22,
@@ -555,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 457974,
-      "num": 457974,
-      "word": "巴以冲突",
-      "onboard_time": 1697793334,
-      "rank": 41,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 455987,
       "num": 254135,
       "word": "萝卜刀创始人仍蜗居出租屋",
@@ -603,12 +619,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 438190,
+      "num": 438190,
+      "word": "无意中看到了外公的网购纪录",
+      "onboard_time": 1697793693,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 437433,
       "num": 366750,
       "word": "槿夕姑姑居然演警匪剧了",
       "onboard_time": 1697768972,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 431541,
+      "num": 406990,
+      "word": "小蓝姐姐原来长大后这么痛苦",
+      "onboard_time": 1697795251,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 424726,
@@ -633,6 +665,22 @@
       "onboard_time": 1697765852,
       "rank": 14,
       "category": "财经"
+    },
+    {
+      "raw_hot": 413452,
+      "num": 413452,
+      "word": "我国流浪猫狗数量近1亿只",
+      "onboard_time": 1697795075,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 410254,
+      "num": 698580,
+      "word": "女子车祸被救后网上发寻人启事找警察",
+      "onboard_time": 1697795431,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 408591,
@@ -771,14 +819,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 317373,
-      "num": 317373,
-      "word": "无意中看到了外公的网购纪录",
-      "onboard_time": 1697793693,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 316646,
       "num": 454591,
       "word": "宋威龙 三年不见男大十八变",
@@ -843,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286755,
+      "num": 286755,
+      "word": "Scout回应C9时空回溯",
+      "onboard_time": 1697795075,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 285798,
       "num": 285798,
       "word": "邓超陪孙俪健身",
       "onboard_time": 1697778038,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281467,
+      "num": 281467,
+      "word": "白鹿换以爱为营郑书意头像",
+      "onboard_time": 1697795313,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 279956,
@@ -915,6 +971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259762,
+      "num": 259762,
+      "word": "GEN战胜T1",
+      "onboard_time": 1697796933,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 257249,
       "num": 191983,
       "word": "GALA 真男人大战",
@@ -945,6 +1009,22 @@
       "onboard_time": 1697725236,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 251758,
+      "num": 251758,
+      "word": "陈楚生王栎鑫张远拥抱",
+      "onboard_time": 1697796513,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 246979,
+      "num": 246979,
+      "word": "法国人都在抢的药妆",
+      "onboard_time": 1697796212,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 246787,
@@ -985,6 +1065,22 @@
       "onboard_time": 1697714254,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 236682,
+      "num": 236682,
+      "word": "赵露思公主仿妆",
+      "onboard_time": 1697796153,
+      "rank": 31,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 235839,
+      "num": 235839,
+      "word": "现在的韩剧需要李钟硕",
+      "onboard_time": 1697795493,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 235054,
@@ -1171,6 +1267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208856,
+      "num": 208856,
+      "word": "哈马斯发言人等60多人被以色列逮捕",
+      "onboard_time": 1697796933,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 204888,
       "num": 204888,
       "word": "马龙说热爱没有天花板",
@@ -1185,6 +1289,14 @@
       "onboard_time": 1697789611,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204185,
+      "num": 241021,
+      "word": "上交所原副总经理刘逖被开除公职",
+      "onboard_time": 1697795011,
+      "rank": 29,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 203419,
@@ -1225,6 +1337,14 @@
       "onboard_time": 1697782713,
       "rank": 29,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 198543,
+      "num": 198543,
+      "word": "关晓彤旗袍",
+      "onboard_time": 1697796753,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 197832,
@@ -1347,6 +1467,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 184296,
+      "num": 184296,
+      "word": "朱一龙拍戏踹破十扇门",
+      "onboard_time": 1697795913,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 183979,
+      "num": 183979,
+      "word": "韩国托尼的烫发技术",
+      "onboard_time": 1697795370,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 183390,
       "num": 183390,
       "word": "电影照明商店定档",
@@ -1369,6 +1505,14 @@
       "onboard_time": 1697790993,
       "rank": 38,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 179999,
+      "num": 179999,
+      "word": "丞磊雀斑妆",
+      "onboard_time": 1697796153,
+      "rank": 40,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 179047,
@@ -1395,6 +1539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172254,
+      "num": 172254,
+      "word": "万渣朝凰女主人设魅力",
+      "onboard_time": 1697796573,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168577,
       "num": 168577,
       "word": "两位警察抱起晕厥女孩接力狂奔",
@@ -1417,14 +1569,6 @@
       "onboard_time": 1697756543,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165611,
-      "num": 165611,
-      "word": "不吃妆造的明星",
-      "onboard_time": 1697794173,
-      "rank": 36,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 165253,
@@ -1547,6 +1691,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154236,
+      "num": 154236,
+      "word": "理想MEGA",
+      "onboard_time": 1697795793,
+      "rank": 45,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 153938,
       "num": 153938,
       "word": "手工取一颗百香果果浆有多快",
@@ -1585,6 +1737,14 @@
       "onboard_time": 1697768613,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150884,
+      "num": 150884,
+      "word": "披荆斩棘魏哲鸣回家了",
+      "onboard_time": 1697795133,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 149827,
@@ -1737,6 +1897,14 @@
       "onboard_time": 1697702675,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131757,
+      "num": 408792,
+      "word": "女孩花五年时间将男友改造成木村拓哉",
+      "onboard_time": 1697796933,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 130840,
@@ -2027,8 +2195,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 92130,
-      "num": 146763,
+      "raw_hot": 93885,
+      "num": 570177,
       "word": "女子险被冲走众人趟水合力救人",
       "onboard_time": 1697793813,
       "rank": 49,
@@ -2161,6 +2329,14 @@
       "onboard_time": 1697707356,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62983,
+      "num": 242033,
+      "word": "救援队员打捞车辆负伤婉拒车主酬谢",
+      "onboard_time": 1697795431,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 62280,
