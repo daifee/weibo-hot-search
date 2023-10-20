@@ -1,0 +1,410 @@
+{
+  "runTime": 1697798117451,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 667468,
+        "num": 667468,
+        "word": "无意中看到了外公的网购纪录",
+        "onboard_time": 1697793693,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 344959,
+        "num": 662981,
+        "word": "女子车祸被救后网上发寻人启事找警察",
+        "onboard_time": 1697795431,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 10872,
+        "num": 657983,
+        "word": "神十七船箭组合体已就位",
+        "onboard_time": 1697772514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1351243,
+        "num": 643266,
+        "word": "神婆三年前算到李善均吸毒",
+        "onboard_time": 1697792493,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352897,
+        "num": 635582,
+        "word": "女孩花五年时间将男友改造成木村拓哉",
+        "onboard_time": 1697796933,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 912987,
+        "num": 629670,
+        "word": "不吃妆造的明星",
+        "onboard_time": 1697794173,
+        "rank": 5,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 909100,
+        "num": 619852,
+        "word": "巴以冲突",
+        "onboard_time": 1697793334,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 859329,
+        "num": 612283,
+        "word": "陈牧驰ELLEMEN",
+        "onboard_time": 1697791292,
+        "rank": 7,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 604260,
+        "num": 604260,
+        "word": "辛德勒的名单B站评分",
+        "onboard_time": 1697793393,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 419705,
+        "num": 419705,
+        "word": "我国流浪猫狗数量近1亿只",
+        "onboard_time": 1697795075,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1359553,
+        "num": 419682,
+        "word": "造型工作室把赵露思写成了赵丽颖",
+        "onboard_time": 1697792855,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 811890,
+        "num": 417584,
+        "word": "杨幂素妆",
+        "onboard_time": 1697792855,
+        "rank": 11,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 706719,
+        "num": 415015,
+        "word": "哈马斯发言人等60多人被以色列逮捕",
+        "onboard_time": 1697796933,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 554341,
+        "num": 412038,
+        "word": "代理律师称家属请求对黑狗安乐死",
+        "onboard_time": 1697790932,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 516760,
+        "num": 411518,
+        "word": "小蓝姐姐原来长大后这么痛苦",
+        "onboard_time": 1697795251,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 477897,
+        "num": 407873,
+        "word": "李善均因涉毒被韩警方立案前调查",
+        "onboard_time": 1697793634,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407496,
+        "num": 407496,
+        "word": "情侣住酒店一年后收到亲密视频",
+        "onboard_time": 1697775693,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137858,
+        "num": 345301,
+        "word": "新疆真的有洗羊羊",
+        "onboard_time": 1697797833,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 344580,
+        "num": 344580,
+        "word": "女子结婚后被村里投票剥夺征地补偿资格",
+        "onboard_time": 1697789433,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 304105,
+        "num": 304105,
+        "word": "标价799的蟹吃了999的龙虾",
+        "onboard_time": 1697780673,
+        "rank": 19,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 939058,
+        "num": 298519,
+        "word": "月薪7K抠门三年攒下20万",
+        "onboard_time": 1697795853,
+        "rank": 20,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 420743,
+        "num": 293515,
+        "word": "天津一儿童疑遭开门杀后被碾身亡",
+        "onboard_time": 1697781513,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287630,
+        "num": 287630,
+        "word": "白鹿换以爱为营郑书意头像",
+        "onboard_time": 1697795313,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 282767,
+        "num": 282767,
+        "word": "原来张栋梁去年就该来披荆斩棘",
+        "onboard_time": 1697784091,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270176,
+        "num": 270176,
+        "word": "GEN战胜T1",
+        "onboard_time": 1697796933,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98843,
+        "num": 270130,
+        "word": "女子险被冲走众人趟水合力救人",
+        "onboard_time": 1697793813,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270117,
+        "num": 270117,
+        "word": "迪丽热巴仿妆",
+        "onboard_time": 1697797292,
+        "rank": 26,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 248511,
+        "num": 248511,
+        "word": "赵露思公主仿妆",
+        "onboard_time": 1697796153,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 221093,
+        "num": 221093,
+        "word": "现在的韩剧需要李钟硕",
+        "onboard_time": 1697795493,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217680,
+        "num": 217680,
+        "word": "男朋友和他爸爸的聊天记录",
+        "onboard_time": 1697797292,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215436,
+        "num": 215436,
+        "word": "法国人都在抢的药妆",
+        "onboard_time": 1697796212,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 209721,
+        "num": 209721,
+        "word": "Scout回应C9时空回溯",
+        "onboard_time": 1697795075,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208221,
+        "num": 208221,
+        "word": "关晓彤旗袍",
+        "onboard_time": 1697796753,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190203,
+        "num": 190203,
+        "word": "陈楚生王栎鑫张远拥抱",
+        "onboard_time": 1697796513,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184935,
+        "num": 184935,
+        "word": "刘亦菲公主头教程",
+        "onboard_time": 1697792191,
+        "rank": 34,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 180384,
+        "num": 180384,
+        "word": "丞磊雀斑妆",
+        "onboard_time": 1697796153,
+        "rank": 35,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 179595,
+        "num": 179595,
+        "word": "雎晓雯产后首度公开亮相",
+        "onboard_time": 1697792254,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 178146,
+        "num": 178146,
+        "word": "上交所原副总经理刘逖被开除公职",
+        "onboard_time": 1697795011,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 162423,
+        "num": 162423,
+        "word": "流浪狗",
+        "onboard_time": 1697778097,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159823,
+        "num": 159823,
+        "word": "宁艺卓掉橙V了",
+        "onboard_time": 1697790755,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154046,
+        "num": 154046,
+        "word": "万渣朝凰女主人设魅力",
+        "onboard_time": 1697796573,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150771,
+        "num": 150771,
+        "word": "几字刘海",
+        "onboard_time": 1697791173,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148509,
+        "num": 148509,
+        "word": "华为六周内售出160万部Mate60Pro",
+        "onboard_time": 1697789131,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148378,
+        "num": 148378,
+        "word": "韩国托尼的烫发技术",
+        "onboard_time": 1697795370,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 145740,
+        "num": 145740,
+        "word": "郭敬明晒田嘉瑞大梦归离造型",
+        "onboard_time": 1697793153,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140330,
+        "num": 140330,
+        "word": "市监局回应啤酒厂工人在原料仓小便",
+        "onboard_time": 1697793092,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134148,
+        "num": 134148,
+        "word": "chovy单杀Faker",
+        "onboard_time": 1697797772,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131520,
+        "num": 131520,
+        "word": "王牌对王牌",
+        "onboard_time": 1697798011,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118780,
+        "num": 131518,
+        "word": "披荆斩棘魏哲鸣回家了",
+        "onboard_time": 1697795133,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115053,
+        "num": 131517,
+        "word": "刘纪鹏痛批股市15年3000点徘徊",
+        "onboard_time": 1697793454,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中泰友好深深植根于两国人民心中#"
+    }
+  }
+}

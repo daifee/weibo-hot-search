@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697797132129,
+  "endTime": 1697798117451,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -4059,6 +4059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1359553,
+      "num": 437673,
+      "word": "造型工作室把赵露思写成了赵丽颖",
+      "onboard_time": 1697792855,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1359442,
       "num": 1359442,
       "word": "官员辟谣武大图书馆骚扰事件男生系其儿子",
@@ -5121,14 +5129,6 @@
       "onboard_time": 1697770652,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1145956,
-      "num": 437673,
-      "word": "造型工作室把赵露思写成了赵丽颖",
-      "onboard_time": 1697792855,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 1143121,
@@ -6699,6 +6699,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 939058,
+      "num": 326764,
+      "word": "月薪7K抠门三年攒下20万",
+      "onboard_time": 1697795853,
+      "rank": 20,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 938609,
       "num": 454613,
       "word": "胡歌饰演张桂梅丈夫",
@@ -6883,20 +6891,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 912987,
+      "num": 633109,
+      "word": "不吃妆造的明星",
+      "onboard_time": 1697794173,
+      "rank": 36,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 911416,
       "num": 911416,
       "word": "全红婵10101010101010截图打卡",
       "onboard_time": 1696330774,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 911107,
-      "num": 326764,
-      "word": "月薪7K抠门三年攒下20万",
-      "onboard_time": 1697795853,
-      "rank": 20,
-      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 910856,
@@ -9883,6 +9891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706719,
+      "num": 415015,
+      "word": "哈马斯发言人等60多人被以色列逮捕",
+      "onboard_time": 1697796933,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 706473,
       "num": 706473,
       "word": "海边走失4岁女童爸爸发声",
@@ -10569,6 +10585,14 @@
       "onboard_time": 1696600003,
       "rank": 9,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 667468,
+      "num": 667468,
+      "word": "无意中看到了外公的网购纪录",
+      "onboard_time": 1697793693,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 666589,
@@ -11339,14 +11363,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 633109,
-      "num": 633109,
-      "word": "不吃妆造的明星",
-      "onboard_time": 1697794173,
-      "rank": 36,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 633006,
       "num": 633006,
       "word": "马琳",
@@ -12049,6 +12065,14 @@
       "onboard_time": 1697113293,
       "rank": 25,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 604260,
+      "num": 604260,
+      "word": "辛德勒的名单B站评分",
+      "onboard_time": 1697793393,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 603957,
@@ -13089,14 +13113,6 @@
       "onboard_time": 1696519534,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 568080,
-      "num": 568080,
-      "word": "辛德勒的名单B站评分",
-      "onboard_time": 1697793393,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 567777,
@@ -14641,6 +14657,14 @@
       "onboard_time": 1697099735,
       "rank": 17,
       "category": "其它"
+    },
+    {
+      "raw_hot": 516760,
+      "num": 411518,
+      "word": "小蓝姐姐原来长大后这么痛苦",
+      "onboard_time": 1697795251,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 516695,
@@ -17923,14 +17947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 438190,
-      "num": 438190,
-      "word": "无意中看到了外公的网购纪录",
-      "onboard_time": 1697793693,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 437991,
       "num": 437991,
       "word": "梅西中国行可能取消",
@@ -18185,14 +18201,6 @@
       "onboard_time": 1696643193,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431541,
-      "num": 406990,
-      "word": "小蓝姐姐原来长大后这么痛苦",
-      "onboard_time": 1697795251,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 431463,
@@ -18691,6 +18699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 419705,
+      "num": 419705,
+      "word": "我国流浪猫狗数量近1亿只",
+      "onboard_time": 1697795075,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 419595,
       "num": 419595,
       "word": "坚如磐石为什么争议大",
@@ -18961,14 +18977,6 @@
       "onboard_time": 1697542475,
       "rank": 7,
       "category": "美食"
-    },
-    {
-      "raw_hot": 413452,
-      "num": 413452,
-      "word": "我国流浪猫狗数量近1亿只",
-      "onboard_time": 1697795075,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 412972,
@@ -22193,6 +22201,14 @@
       "onboard_time": 1696171363,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 352897,
+      "num": 635582,
+      "word": "女孩花五年时间将男友改造成木村拓哉",
+      "onboard_time": 1697796933,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352836,
@@ -27083,6 +27099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 287630,
+      "num": 287630,
+      "word": "白鹿换以爱为营郑书意头像",
+      "onboard_time": 1697795313,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 287610,
       "num": 287610,
       "word": "特斯拉Model Y改款",
@@ -27696,14 +27720,6 @@
       "word": "杨紫范丞丞新剧下证",
       "onboard_time": 1697677416,
       "rank": 31,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 281467,
-      "num": 281467,
-      "word": "白鹿换以爱为营郑书意头像",
-      "onboard_time": 1697795313,
-      "rank": 23,
       "category": "剧集"
     },
     {
@@ -28913,6 +28929,22 @@
       "onboard_time": 1696735357,
       "rank": 30,
       "category": "教育"
+    },
+    {
+      "raw_hot": 270176,
+      "num": 270176,
+      "word": "GEN战胜T1",
+      "onboard_time": 1697796933,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 270117,
+      "num": 270117,
+      "word": "迪丽热巴仿妆",
+      "onboard_time": 1697797292,
+      "rank": 26,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 270115,
@@ -30131,14 +30163,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 259762,
-      "num": 259762,
-      "word": "GEN战胜T1",
-      "onboard_time": 1697796933,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 259710,
       "num": 259710,
       "word": "白鹿时装周新造型",
@@ -31329,6 +31353,14 @@
       "onboard_time": 1697533055,
       "rank": 30,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 248511,
+      "num": 248511,
+      "word": "赵露思公主仿妆",
+      "onboard_time": 1697796153,
+      "rank": 31,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 248506,
@@ -32849,14 +32881,6 @@
       "onboard_time": 1696862262,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 236682,
-      "num": 236682,
-      "word": "赵露思公主仿妆",
-      "onboard_time": 1697796153,
-      "rank": 31,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 236629,
@@ -35379,6 +35403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 217680,
+      "num": 217680,
+      "word": "男朋友和他爸爸的聊天记录",
+      "onboard_time": 1697797292,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217566,
       "num": 217566,
       "word": "李月汝盖帽帅死",
@@ -36723,14 +36755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208856,
-      "num": 208856,
-      "word": "哈马斯发言人等60多人被以色列逮捕",
-      "onboard_time": 1697796933,
-      "rank": 34,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 208809,
       "num": 208809,
       "word": "三只小猫在叠叠乐",
@@ -36841,6 +36865,14 @@
       "onboard_time": 1696578394,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208221,
+      "num": 208221,
+      "word": "关晓彤旗袍",
+      "onboard_time": 1697796753,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 208170,
@@ -39105,14 +39137,6 @@
       "onboard_time": 1697599473,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 198543,
-      "num": 198543,
-      "word": "关晓彤旗袍",
-      "onboard_time": 1697796753,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 198459,
@@ -43187,6 +43211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180384,
+      "num": 180384,
+      "word": "丞磊雀斑妆",
+      "onboard_time": 1697796153,
+      "rank": 40,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 180358,
       "num": 180358,
       "word": "大学物理老师课堂放电像银角大王",
@@ -43233,14 +43265,6 @@
       "onboard_time": 1697070216,
       "rank": 41,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 179999,
-      "num": 179999,
-      "word": "丞磊雀斑妆",
-      "onboard_time": 1697796153,
-      "rank": 40,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 179969,
@@ -49595,6 +49619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137858,
+      "num": 345301,
+      "word": "新疆真的有洗羊羊",
+      "onboard_time": 1697797833,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137774,
       "num": 137774,
       "word": "邱天羽绒服配短裙",
@@ -49987,6 +50019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134148,
+      "num": 134148,
+      "word": "chovy单杀Faker",
+      "onboard_time": 1697797772,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134035,
       "num": 134035,
       "word": "孙海洋称他的案子和杨妞花的一样",
@@ -50233,14 +50273,6 @@
       "onboard_time": 1696504474,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131757,
-      "num": 408792,
-      "word": "女孩花五年时间将男友改造成木村拓哉",
-      "onboard_time": 1697796933,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 131714,
@@ -52427,6 +52459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98843,
+      "num": 570177,
+      "word": "女子险被冲走众人趟水合力救人",
+      "onboard_time": 1697793813,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98758,
       "num": 98758,
       "word": "鹊刀门传奇幕后 不需要走流量",
@@ -52567,14 +52607,6 @@
       "num": 171127,
       "word": "天猫试点飞人送快递惊呆路人",
       "onboard_time": 1697707775,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93885,
-      "num": 570177,
-      "word": "女子险被冲走众人趟水合力救人",
-      "onboard_time": 1697793813,
       "rank": 49,
       "category": "社会新闻"
     },

@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697797132129,
+  "endTime": 1697798117451,
   "band_list": [
     {
       "raw_hot": 2958607,
@@ -123,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1359553,
+      "num": 437673,
+      "word": "造型工作室把赵露思写成了赵丽颖",
+      "onboard_time": 1697792855,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1332245,
       "num": 419848,
       "word": "向佐穿女装直播了",
@@ -153,14 +161,6 @@
       "onboard_time": 1697770652,
       "rank": 5,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1145956,
-      "num": 437673,
-      "word": "造型工作室把赵露思写成了赵丽颖",
-      "onboard_time": 1697792855,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 1143121,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 968935,
-      "num": 601619,
+      "num": 619852,
       "word": "巴以冲突",
       "onboard_time": 1697793334,
       "rank": 41,
@@ -227,6 +227,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 939058,
+      "num": 326764,
+      "word": "月薪7K抠门三年攒下20万",
+      "onboard_time": 1697795853,
+      "rank": 20,
+      "category": "财经,社会新闻"
+    },
+    {
       "raw_hot": 918563,
       "num": 918563,
       "word": "代理律师称家属请求对黑狗安乐死",
@@ -235,12 +243,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 911107,
-      "num": 326764,
-      "word": "月薪7K抠门三年攒下20万",
-      "onboard_time": 1697795853,
-      "rank": 20,
-      "category": "财经,社会新闻"
+      "raw_hot": 912987,
+      "num": 633109,
+      "word": "不吃妆造的明星",
+      "onboard_time": 1697794173,
+      "rank": 36,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 898029,
@@ -347,6 +355,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 706719,
+      "num": 415015,
+      "word": "哈马斯发言人等60多人被以色列逮捕",
+      "onboard_time": 1697796933,
+      "rank": 34,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 667468,
+      "num": 667468,
+      "word": "无意中看到了外公的网购纪录",
+      "onboard_time": 1697793693,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 661450,
       "num": 247570,
       "word": "杨幂碎钻露腰白裙",
@@ -371,14 +395,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 633109,
-      "num": 633109,
-      "word": "不吃妆造的明星",
-      "onboard_time": 1697794173,
-      "rank": 36,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 620723,
       "num": 620723,
       "word": "绑架罗大美嫌犯劫财后欲将其卖至缅甸",
@@ -401,6 +417,14 @@
       "onboard_time": 1697766693,
       "rank": 5,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 604260,
+      "num": 604260,
+      "word": "辛德勒的名单B站评分",
+      "onboard_time": 1697793393,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 602343,
@@ -451,14 +475,6 @@
       "category": "网红,旅游"
     },
     {
-      "raw_hot": 568080,
-      "num": 568080,
-      "word": "辛德勒的名单B站评分",
-      "onboard_time": 1697793393,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 555896,
       "num": 555896,
       "word": "我只是犯了全天下朋友都会犯的错",
@@ -489,6 +505,14 @@
       "onboard_time": 1697765373,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 516760,
+      "num": 411518,
+      "word": "小蓝姐姐原来长大后这么痛苦",
+      "onboard_time": 1697795251,
+      "rank": 17,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 515750,
@@ -619,28 +643,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 438190,
-      "num": 438190,
-      "word": "无意中看到了外公的网购纪录",
-      "onboard_time": 1697793693,
-      "rank": 23,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 437433,
       "num": 366750,
       "word": "槿夕姑姑居然演警匪剧了",
       "onboard_time": 1697768972,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 431541,
-      "num": 406990,
-      "word": "小蓝姐姐原来长大后这么痛苦",
-      "onboard_time": 1697795251,
-      "rank": 17,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 424726,
@@ -659,20 +667,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 419705,
+      "num": 419705,
+      "word": "我国流浪猫狗数量近1亿只",
+      "onboard_time": 1697795075,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 418847,
       "num": 418847,
       "word": "A股",
       "onboard_time": 1697765852,
       "rank": 14,
       "category": "财经"
-    },
-    {
-      "raw_hot": 413452,
-      "num": 413452,
-      "word": "我国流浪猫狗数量近1亿只",
-      "onboard_time": 1697795075,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 410254,
@@ -745,6 +753,14 @@
       "onboard_time": 1697762854,
       "rank": 14,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 352897,
+      "num": 635582,
+      "word": "女孩花五年时间将男友改造成木村拓哉",
+      "onboard_time": 1697796933,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352489,
@@ -883,6 +899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 287630,
+      "num": 287630,
+      "word": "白鹿换以爱为营郑书意头像",
+      "onboard_time": 1697795313,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286755,
       "num": 286755,
       "word": "Scout回应C9时空回溯",
@@ -897,14 +921,6 @@
       "onboard_time": 1697778038,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281467,
-      "num": 281467,
-      "word": "白鹿换以爱为营郑书意头像",
-      "onboard_time": 1697795313,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 279956,
@@ -929,6 +945,22 @@
       "onboard_time": 1697756543,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 270176,
+      "num": 270176,
+      "word": "GEN战胜T1",
+      "onboard_time": 1697796933,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 270117,
+      "num": 270117,
+      "word": "迪丽热巴仿妆",
+      "onboard_time": 1697797292,
+      "rank": 26,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 269506,
@@ -971,14 +1003,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 259762,
-      "num": 259762,
-      "word": "GEN战胜T1",
-      "onboard_time": 1697796933,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 257249,
       "num": 191983,
       "word": "GALA 真男人大战",
@@ -1017,6 +1041,14 @@
       "onboard_time": 1697796513,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248511,
+      "num": 248511,
+      "word": "赵露思公主仿妆",
+      "onboard_time": 1697796153,
+      "rank": 31,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 246979,
@@ -1065,14 +1097,6 @@
       "onboard_time": 1697714254,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 236682,
-      "num": 236682,
-      "word": "赵露思公主仿妆",
-      "onboard_time": 1697796153,
-      "rank": 31,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 235839,
@@ -1171,6 +1195,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 217680,
+      "num": 217680,
+      "word": "男朋友和他爸爸的聊天记录",
+      "onboard_time": 1697797292,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 217512,
       "num": 462462,
       "word": "间谍过家家 次子滤镜",
@@ -1267,12 +1299,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 208856,
-      "num": 208856,
-      "word": "哈马斯发言人等60多人被以色列逮捕",
-      "onboard_time": 1697796933,
-      "rank": 34,
-      "category": "国外要闻"
+      "raw_hot": 208221,
+      "num": 208221,
+      "word": "关晓彤旗袍",
+      "onboard_time": 1697796753,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 204888,
@@ -1337,14 +1369,6 @@
       "onboard_time": 1697782713,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 198543,
-      "num": 198543,
-      "word": "关晓彤旗袍",
-      "onboard_time": 1697796753,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 197832,
@@ -1507,8 +1531,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 179999,
-      "num": 179999,
+      "raw_hot": 180384,
+      "num": 180384,
       "word": "丞磊雀斑妆",
       "onboard_time": 1697796153,
       "rank": 40,
@@ -1851,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137858,
+      "num": 345301,
+      "word": "新疆真的有洗羊羊",
+      "onboard_time": 1697797833,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137774,
       "num": 137774,
       "word": "邱天羽绒服配短裙",
@@ -1883,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134148,
+      "num": 134148,
+      "word": "chovy单杀Faker",
+      "onboard_time": 1697797772,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134020,
       "num": 134020,
       "word": "大熊猫下树主打一个稳稳当当",
@@ -1899,12 +1939,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131757,
-      "num": 408792,
-      "word": "女孩花五年时间将男友改造成木村拓哉",
-      "onboard_time": 1697796933,
-      "rank": 15,
-      "category": "社会新闻"
+      "raw_hot": 131520,
+      "num": 131520,
+      "word": "王牌对王牌",
+      "onboard_time": 1697798011,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 130840,
@@ -2163,6 +2203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98843,
+      "num": 570177,
+      "word": "女子险被冲走众人趟水合力救人",
+      "onboard_time": 1697793813,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 98758,
       "num": 98758,
       "word": "鹊刀门传奇幕后 不需要走流量",
@@ -2192,14 +2240,6 @@
       "word": "重庆迎来今秋第一场雪",
       "onboard_time": 1697752214,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93885,
-      "num": 570177,
-      "word": "女子险被冲走众人趟水合力救人",
-      "onboard_time": 1697793813,
-      "rank": 49,
       "category": "社会新闻"
     },
     {
