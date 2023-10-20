@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 20:33:08
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 20:49:35
 </p>
 </blockquote>
 <p>
@@ -4143,6 +4143,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
+王牌对王牌（热度：1083144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%E8%A2%AB%E5%8E%8B10%E5%B9%B4%E7%9A%84%E5%89%A7%E6%92%AD%E4%BA%86%23" target="weibo">
 徐冬冬被压10年的剧播了（热度：1083103）
 </a>
@@ -4697,12 +4703,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%8B%86%E5%BC%80%E7%9B%B8%E6%A1%86%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%89%8D%E5%A5%B3%E5%8F%8B%E6%B1%82%E5%A9%9A%E7%95%99%E8%A8%80%23" target="weibo">
 男子拆开相框意外发现前女友求婚留言（热度：988033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
-王牌对王牌（热度：986864）
 </a>
 </li>
 
