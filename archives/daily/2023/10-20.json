@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697765550138,
+  "endTime": 1697768605401,
   "band_list": [
     {
       "raw_hot": 2077723,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1550183,
+      "num": 428641,
+      "word": "丈夫回应演员妻子遭两男子强抱",
+      "onboard_time": 1697765492,
+      "rank": 45,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 1447857,
       "num": 1447857,
       "word": "RH阴性血哈萨克斯坦青年成为全球新闻官",
@@ -36,11 +44,19 @@
     },
     {
       "raw_hot": 1332245,
-      "num": 387296,
+      "num": 419848,
       "word": "向佐穿女装直播了",
       "onboard_time": 1697761838,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1114506,
+      "num": 425486,
+      "word": "沪指跌破3000点大关",
+      "onboard_time": 1697766752,
+      "rank": 11,
+      "category": "财经"
     },
     {
       "raw_hot": 968174,
@@ -67,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790338,
+      "num": 790338,
+      "word": "妈 咱们也要去好莱坞了",
+      "onboard_time": 1697763637,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 779197,
       "num": 779197,
       "word": "萧敬腾 恋综",
@@ -83,20 +107,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 699283,
+      "num": 699283,
+      "word": "求职者称第一学历似乎成了污点",
+      "onboard_time": 1697765672,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 648726,
-      "num": 230454,
+      "num": 267139,
       "word": "长痘痘不建议吃的水果",
       "onboard_time": 1697762557,
       "rank": 20,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 641146,
-      "num": 641146,
-      "word": "妈 咱们也要去好莱坞了",
-      "onboard_time": 1697763637,
-      "rank": 15,
-      "category": "电影"
+      "raw_hot": 642000,
+      "num": 422503,
+      "word": "重庆对外经贸学院",
+      "onboard_time": 1697766272,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 635596,
@@ -105,6 +137,30 @@
       "onboard_time": 1697729734,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 601227,
+      "num": 601227,
+      "word": "丫丫贴秋膘成功",
+      "onboard_time": 1697766693,
+      "rank": 5,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 555896,
+      "num": 555896,
+      "word": "我只是犯了全天下朋友都会犯的错",
+      "onboard_time": 1697762675,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 535967,
+      "num": 535967,
+      "word": "重庆高校通报保安抓捕打死流浪狗",
+      "onboard_time": 1697765373,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 515750,
@@ -163,6 +219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 418847,
+      "num": 418847,
+      "word": "A股",
+      "onboard_time": 1697765852,
+      "rank": 14,
+      "category": "财经"
+    },
+    {
       "raw_hot": 389793,
       "num": 464264,
       "word": "女孩自制计算器租给同学一天赚20多元",
@@ -171,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 382646,
-      "num": 192134,
-      "word": "我只是犯了全天下朋友都会犯的错",
-      "onboard_time": 1697762675,
-      "rank": 30,
-      "category": "幽默"
+      "raw_hot": 370653,
+      "num": 370653,
+      "word": "世界上最黑的黑色花朵",
+      "onboard_time": 1697764295,
+      "rank": 47,
+      "category": "知识科普"
     },
     {
       "raw_hot": 360058,
@@ -211,14 +275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326380,
-      "num": 326380,
-      "word": "世界上最黑的黑色花朵",
-      "onboard_time": 1697764295,
-      "rank": 47,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 324979,
       "num": 465319,
       "word": "警方回应两人与火车相撞不幸身亡",
@@ -227,12 +283,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 321598,
+      "num": 321598,
+      "word": "好莱坞高收入演员愿捐巨款结束罢工",
+      "onboard_time": 1697766993,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 316646,
       "num": 454591,
       "word": "宋威龙 三年不见男大十八变",
       "onboard_time": 1697715156,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 305102,
+      "num": 254169,
+      "word": "广州5人误食断肠草中毒",
+      "onboard_time": 1697766512,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302023,
@@ -387,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204528,
+      "num": 204528,
+      "word": "成都偶遇戚薇吃烧烤",
+      "onboard_time": 1697766512,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203419,
       "num": 439265,
       "word": "今年的古装爆剧",
@@ -411,11 +491,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 179066,
-      "num": 179066,
-      "word": "重庆高校通报保安抓捕打死流浪狗",
-      "onboard_time": 1697765373,
-      "rank": 28,
+      "raw_hot": 178073,
+      "num": 178073,
+      "word": "独居女生家被陌生男差1位试对密码",
+      "onboard_time": 1697768552,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 168577,
+      "num": 168577,
+      "word": "两位警察抱起晕厥女孩接力狂奔",
+      "onboard_time": 1697767713,
+      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -465,6 +553,30 @@
       "onboard_time": 1697722894,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157527,
+      "num": 157527,
+      "word": "周五的快乐是丫丫给的",
+      "onboard_time": 1697766575,
+      "rank": 34,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 156813,
+      "num": 156813,
+      "word": "孙茜新剧端茶姿势是从甄嬛传练的吧",
+      "onboard_time": 1697766752,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 156281,
+      "num": 156281,
+      "word": "看猪洗澡也太解压了",
+      "onboard_time": 1697765733,
+      "rank": 36,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 155547,
@@ -547,6 +659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135090,
+      "num": 135090,
+      "word": "关爱流浪动物",
+      "onboard_time": 1697767113,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134020,
       "num": 134020,
       "word": "大熊猫下树主打一个稳稳当当",
@@ -561,6 +681,22 @@
       "onboard_time": 1697702675,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131979,
+      "num": 131979,
+      "word": "北方的朋友来看下哪个是青菜",
+      "onboard_time": 1697768252,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 130404,
+      "num": 130404,
+      "word": "华浅前夫哥感情彻底破裂",
+      "onboard_time": 1697767895,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 129477,
@@ -587,20 +723,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126366,
+      "num": 126366,
+      "word": "于适一看侯哥就憋不住笑",
+      "onboard_time": 1697768373,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125012,
       "num": 414010,
       "word": "向涵之男装",
       "onboard_time": 1697724823,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123712,
-      "num": 123712,
-      "word": "丈夫回应演员妻子遭两男子强抱",
-      "onboard_time": 1697765492,
-      "rank": 45,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 121853,
@@ -657,6 +793,14 @@
       "onboard_time": 1697714317,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109428,
+      "num": 109428,
+      "word": "周也说转账更打动我",
+      "onboard_time": 1697768373,
+      "rank": 49,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 106420,
@@ -873,6 +1017,14 @@
       "onboard_time": 1697736679,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 43499,
+      "num": 181567,
+      "word": "天猫将在本次双十一放大招",
+      "onboard_time": 1697768071,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 40106,
