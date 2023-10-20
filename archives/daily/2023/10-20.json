@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697769263455,
+  "endTime": 1697771842608,
   "band_list": [
     {
       "raw_hot": 2077723,
@@ -35,6 +35,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1647576,
+      "num": 1647576,
+      "word": "男子1天取451.8万银行柜员报警",
+      "onboard_time": 1697770291,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1447857,
       "num": 1447857,
       "word": "RH阴性血哈萨克斯坦青年成为全球新闻官",
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1160789,
+      "num": 422503,
+      "word": "重庆对外经贸学院",
+      "onboard_time": 1697766272,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1117752,
       "num": 425486,
       "word": "沪指跌破3000点大关",
@@ -59,28 +75,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 968174,
-      "num": 551176,
-      "word": "以色列巴勒斯坦冲突",
-      "onboard_time": 1697744533,
-      "rank": 5,
-      "category": "国外要闻"
-    },
-    {
-      "raw_hot": 863059,
-      "num": 863059,
+      "raw_hot": 1116783,
+      "num": 1116783,
       "word": "妈 咱们也要去好莱坞了",
       "onboard_time": 1697763637,
       "rank": 15,
       "category": "电影"
     },
     {
-      "raw_hot": 857187,
-      "num": 422503,
-      "word": "重庆对外经贸学院",
-      "onboard_time": 1697766272,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 968174,
+      "num": 551176,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1697744533,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 806698,
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 744292,
+      "num": 744292,
+      "word": "独居女生家被陌生男差1位试对密码",
+      "onboard_time": 1697768552,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740508,
       "num": 740508,
       "word": "求职者称第一学历似乎成了污点",
@@ -121,6 +137,14 @@
       "onboard_time": 1697735361,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682782,
+      "num": 682782,
+      "word": "军队文职",
+      "onboard_time": 1697770652,
+      "rank": 5,
+      "category": "教育"
     },
     {
       "raw_hot": 648726,
@@ -251,6 +275,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 375632,
+      "num": 375632,
+      "word": "王子奇情绪爆发的原因",
+      "onboard_time": 1697768613,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 366750,
+      "num": 366750,
+      "word": "槿夕姑姑居然演警匪剧了",
+      "onboard_time": 1697768972,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360058,
       "num": 228385,
       "word": "主人上个厕所柴柴就变打卡点了",
@@ -281,14 +321,6 @@
       "onboard_time": 1697727696,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 331897,
-      "num": 331897,
-      "word": "王子奇情绪爆发的原因",
-      "onboard_time": 1697768613,
-      "rank": 18,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 331150,
@@ -329,14 +361,6 @@
       "onboard_time": 1697760215,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 292274,
-      "num": 292274,
-      "word": "独居女生家被陌生男差1位试对密码",
-      "onboard_time": 1697768552,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 273599,
@@ -393,6 +417,14 @@
       "onboard_time": 1697712277,
       "rank": 13,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 243256,
+      "num": 193858,
+      "word": "C罗儿子签约利雅得胜利U13",
+      "onboard_time": 1697770830,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 242340,
@@ -499,12 +531,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 202433,
+      "num": 193158,
+      "word": "王艺瑾赵粤新剧开播",
+      "onboard_time": 1697770894,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197832,
       "num": 197832,
       "word": "唐艺昕好A",
       "onboard_time": 1697763818,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194695,
+      "num": 194695,
+      "word": "保姆成奶奶抚养孩子16年",
+      "onboard_time": 1697771012,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193373,
@@ -515,12 +563,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 192248,
+      "num": 192248,
+      "word": "自己会开车后才知道的真相",
+      "onboard_time": 1697771613,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 183390,
+      "num": 183390,
+      "word": "电影照明商店定档",
+      "onboard_time": 1697771553,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179047,
       "num": 179047,
       "word": "丝路十年河南画卷",
       "onboard_time": 1697768850,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 177391,
+      "num": 177391,
+      "word": "9次献血的女大学生捐髓救人",
+      "onboard_time": 1697770830,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170136,
+      "num": 170136,
+      "word": "周诗雨王奕失忆MV",
+      "onboard_time": 1697771735,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 168577,
@@ -553,6 +633,14 @@
       "onboard_time": 1697767895,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163680,
+      "num": 163680,
+      "word": "周也说转账更打动我",
+      "onboard_time": 1697768373,
+      "rank": 49,
+      "category": "剧集,艺人"
     },
     {
       "raw_hot": 163375,
@@ -651,14 +739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150447,
-      "num": 150447,
-      "word": "槿夕姑姑居然演警匪剧了",
-      "onboard_time": 1697768972,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 149827,
       "num": 431040,
       "word": "Elk刷新S13单场伤害纪录",
@@ -683,11 +763,27 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 143797,
+      "num": 143797,
+      "word": "台风三巴在广东再次登陆",
+      "onboard_time": 1697770231,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 143694,
       "num": 411662,
       "word": "外公跑一天给坐月子外孙女买土鸡蛋",
       "onboard_time": 1697723436,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142862,
+      "num": 142862,
+      "word": "寻找40年前西湖边的小男孩",
+      "onboard_time": 1697770472,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -705,14 +801,6 @@
       "onboard_time": 1697756603,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 139196,
-      "num": 139196,
-      "word": "周也说转账更打动我",
-      "onboard_time": 1697768373,
-      "rank": 49,
-      "category": "剧集,艺人"
     },
     {
       "raw_hot": 137774,
@@ -787,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123527,
+      "num": 123527,
+      "word": "德云社节目单",
+      "onboard_time": 1697771372,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 121853,
       "num": 418294,
       "word": "考研人开始卷茶叶了",
@@ -841,6 +937,14 @@
       "onboard_time": 1697714317,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109683,
+      "num": 109683,
+      "word": "咽喉炎的救命稻草是什么",
+      "onboard_time": 1697771674,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106420,

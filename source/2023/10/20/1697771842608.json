@@ -1,0 +1,410 @@
+{
+  "runTime": 1697771842608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1647576,
+        "num": 1647576,
+        "word": "男子1天取451.8万银行柜员报警",
+        "onboard_time": 1697770291,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1228768,
+        "num": 1228768,
+        "word": "与宝马相撞出租车所属公司称司机已尽力刹车",
+        "onboard_time": 1697761597,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 16369,
+        "num": 1143312,
+        "word": "6张海报回顾一带一路动人故事",
+        "onboard_time": 1697721455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1116783,
+        "num": 1116783,
+        "word": "妈 咱们也要去好莱坞了",
+        "onboard_time": 1697763637,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 744292,
+        "num": 744292,
+        "word": "独居女生家被陌生男差1位试对密码",
+        "onboard_time": 1697768552,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 682782,
+        "num": 682782,
+        "word": "军队文职",
+        "onboard_time": 1697770652,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 585399,
+        "num": 585399,
+        "word": "求职者称第一学历似乎成了污点",
+        "onboard_time": 1697765672,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 462045,
+        "num": 462045,
+        "word": "丫丫贴秋膘成功",
+        "onboard_time": 1697766693,
+        "rank": 7,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 411114,
+        "num": 411114,
+        "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+        "onboard_time": 1697729435,
+        "rank": 8,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 408316,
+        "num": 408316,
+        "word": "RH阴性血哈萨克斯坦青年成为全球新闻官",
+        "onboard_time": 1697762375,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1291222,
+        "num": 408293,
+        "word": "丈夫回应演员妻子遭两男子强抱",
+        "onboard_time": 1697765492,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618793,
+        "num": 405647,
+        "word": "向佐穿女装直播了",
+        "onboard_time": 1697761838,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 564467,
+        "num": 398033,
+        "word": "沪指跌破3000点大关",
+        "onboard_time": 1697766752,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 375632,
+        "num": 375632,
+        "word": "王子奇情绪爆发的原因",
+        "onboard_time": 1697768613,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 372324,
+        "num": 372324,
+        "word": "我只是犯了全天下朋友都会犯的错",
+        "onboard_time": 1697762675,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366750,
+        "num": 366750,
+        "word": "槿夕姑姑居然演警匪剧了",
+        "onboard_time": 1697768972,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262236,
+        "num": 262236,
+        "word": "好莱坞高收入演员愿捐巨款结束罢工",
+        "onboard_time": 1697766993,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246540,
+        "num": 246540,
+        "word": "萧敬腾 恋综",
+        "onboard_time": 1697759311,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239793,
+        "num": 239793,
+        "word": "世界上最黑的黑色花朵",
+        "onboard_time": 1697764295,
+        "rank": 18,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 194695,
+        "num": 194695,
+        "word": "保姆成奶奶抚养孩子16年",
+        "onboard_time": 1697771012,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1160789,
+        "num": 194389,
+        "word": "重庆对外经贸学院",
+        "onboard_time": 1697766272,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263822,
+        "num": 194303,
+        "word": "重庆高校通报保安抓捕打死流浪狗",
+        "onboard_time": 1697765373,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243256,
+        "num": 193858,
+        "word": "C罗儿子签约利雅得胜利U13",
+        "onboard_time": 1697770830,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240832,
+        "num": 193642,
+        "word": "广州5人误食断肠草中毒",
+        "onboard_time": 1697766512,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231754,
+        "num": 193223,
+        "word": "长痘痘不建议吃的水果",
+        "onboard_time": 1697762557,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202433,
+        "num": 193158,
+        "word": "王艺瑾赵粤新剧开播",
+        "onboard_time": 1697770894,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196968,
+        "num": 192801,
+        "word": "为什么说旅游后容易分手",
+        "onboard_time": 1697760995,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196828,
+        "num": 192361,
+        "word": "成都偶遇戚薇吃烧烤",
+        "onboard_time": 1697766512,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192248,
+        "num": 192248,
+        "word": "自己会开车后才知道的真相",
+        "onboard_time": 1697771613,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 183390,
+        "num": 183390,
+        "word": "电影照明商店定档",
+        "onboard_time": 1697771553,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177391,
+        "num": 177391,
+        "word": "9次献血的女大学生捐髓救人",
+        "onboard_time": 1697770830,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170136,
+        "num": 170136,
+        "word": "周诗雨王奕失忆MV",
+        "onboard_time": 1697771735,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 168447,
+        "num": 168447,
+        "word": "原来鼻炎鼻塞跟肠胃有很大关系",
+        "onboard_time": 1697762557,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 165882,
+        "num": 165882,
+        "word": "G2回应抽中TheShy",
+        "onboard_time": 1697756543,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163680,
+        "num": 163680,
+        "word": "周也说转账更打动我",
+        "onboard_time": 1697768373,
+        "rank": 34,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 158505,
+        "num": 158505,
+        "word": "工资涨了我却变抠门了",
+        "onboard_time": 1697761114,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153182,
+        "num": 153182,
+        "word": "A股",
+        "onboard_time": 1697765852,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 143797,
+        "num": 143797,
+        "word": "台风三巴在广东再次登陆",
+        "onboard_time": 1697770231,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143586,
+        "num": 143586,
+        "word": "EXO公司logo四叶草",
+        "onboard_time": 1697728958,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180493,
+        "num": 143484,
+        "word": "武汉一未拴绳杜宾犬咬人被没收",
+        "onboard_time": 1697758348,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142862,
+        "num": 142862,
+        "word": "寻找40年前西湖边的小男孩",
+        "onboard_time": 1697770472,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133924,
+        "num": 133924,
+        "word": "国考首个超千人竞争岗位出现",
+        "onboard_time": 1697763637,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123527,
+        "num": 123527,
+        "word": "德云社节目单",
+        "onboard_time": 1697771372,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120602,
+        "num": 120602,
+        "word": "中国八大名山排名",
+        "onboard_time": 1697762854,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 119080,
+        "num": 119080,
+        "word": "于适一看侯哥就憋不住笑",
+        "onboard_time": 1697768373,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118548,
+        "num": 118548,
+        "word": "妈妈用水果举例告诉女儿要开心做自己",
+        "onboard_time": 1697759251,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112112,
+        "num": 112112,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1697744533,
+        "rank": 46,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 109683,
+        "num": 109683,
+        "word": "咽喉炎的救命稻草是什么",
+        "onboard_time": 1697771674,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107453,
+        "num": 107453,
+        "word": "米哈游曾试图绕过苹果税",
+        "onboard_time": 1697762615,
+        "rank": 48,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 98859,
+        "num": 107442,
+        "word": "都是好签 除了BLG",
+        "onboard_time": 1697760215,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#中泰友好深深植根于两国人民心中#"
+    }
+  }
+}
