@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697782981691,
+  "endTime": 1697783754759,
   "band_list": [
     {
       "raw_hot": 2958607,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2248960,
-      "num": 2248960,
+      "raw_hot": 2427693,
+      "num": 2427693,
       "word": "标价799的蟹吃了999的龙虾",
       "onboard_time": 1697780673,
       "rank": 1,
@@ -75,6 +75,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1603534,
+      "num": 333146,
+      "word": "天津一儿童疑遭开门杀后被碾身亡",
+      "onboard_time": 1697781513,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1484072,
       "num": 1484072,
       "word": "警方回应女子产后疑被婆家逼死",
@@ -112,14 +120,6 @@
       "word": "重庆对外经贸学院",
       "onboard_time": 1697766272,
       "rank": 12,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1152184,
-      "num": 333146,
-      "word": "天津一儿童疑遭开门杀后被碾身亡",
-      "onboard_time": 1697781513,
-      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 807780,
-      "num": 325004,
+      "num": 380874,
       "word": "赵丽颖练八段锦",
       "onboard_time": 1697782053,
       "rank": 11,
@@ -275,20 +275,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 582846,
+      "num": 582846,
+      "word": "女子吐槽高铁一盒葡萄60元仅200克",
+      "onboard_time": 1697780076,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 571841,
       "num": 436976,
       "word": "B太 新疆婚礼全程体验",
       "onboard_time": 1697777017,
       "rank": 11,
       "category": "网红,旅游"
-    },
-    {
-      "raw_hot": 565408,
-      "num": 565408,
-      "word": "女子吐槽高铁一盒葡萄60元仅200克",
-      "onboard_time": 1697780076,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 555896,
@@ -451,6 +451,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 373334,
+      "num": 373334,
+      "word": "天津警方通报儿童遭开门杀后被公交碾压死亡",
+      "onboard_time": 1697782172,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 360058,
       "num": 228385,
       "word": "主人上个厕所柴柴就变打卡点了",
@@ -515,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330814,
+      "num": 330814,
+      "word": "朱一龙暴肥暴瘦和我喝水一样简单",
+      "onboard_time": 1697781334,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 324979,
       "num": 465319,
       "word": "警方回应两人与火车相撞不幸身亡",
@@ -545,22 +561,6 @@
       "onboard_time": 1697760215,
       "rank": 13,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 290703,
-      "num": 290703,
-      "word": "朱一龙暴肥暴瘦和我喝水一样简单",
-      "onboard_time": 1697781334,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 287767,
-      "num": 287767,
-      "word": "天津警方通报儿童遭开门杀后被公交碾压死亡",
-      "onboard_time": 1697782172,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 285798,
@@ -819,6 +819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 205525,
+      "num": 205525,
+      "word": "柚子鸡",
+      "onboard_time": 1697783554,
+      "rank": 19,
+      "category": "美食"
+    },
+    {
       "raw_hot": 204888,
       "num": 204888,
       "word": "马龙说热爱没有天花板",
@@ -859,12 +867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198717,
+      "num": 198717,
+      "word": "白鹿费加罗十月刊封面",
+      "onboard_time": 1697782713,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 197832,
       "num": 197832,
       "word": "唐艺昕好A",
       "onboard_time": 1697763818,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 195920,
+      "num": 195920,
+      "word": "李玟将在武汉下葬",
+      "onboard_time": 1697781632,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 194695,
@@ -907,6 +931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 188524,
+      "num": 167736,
+      "word": "不会删空白页的有福了",
+      "onboard_time": 1697782774,
+      "rank": 45,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 187359,
       "num": 187359,
       "word": "钟薛高回应欠薪传闻",
@@ -923,28 +955,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186354,
-      "num": 186354,
-      "word": "李玟将在武汉下葬",
-      "onboard_time": 1697781632,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 186312,
       "num": 186312,
       "word": "G2 赛前预测",
       "onboard_time": 1697779473,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 183981,
-      "num": 183981,
-      "word": "白鹿费加罗十月刊封面",
-      "onboard_time": 1697782713,
-      "rank": 29,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 183390,
@@ -1139,6 +1155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 149160,
+      "num": 149160,
+      "word": "49位导演眼中的最美表演",
+      "onboard_time": 1697783372,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146127,
       "num": 146127,
       "word": "TheShy再谈2018年夺冠",
@@ -1291,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126923,
+      "num": 126923,
+      "word": "上次妹妹中箭也是这么痛吗",
+      "onboard_time": 1697782653,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126335,
       "num": 126335,
       "word": "张颂文一人千面",
@@ -1323,14 +1355,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 123757,
-      "num": 123757,
-      "word": "上次妹妹中箭也是这么痛吗",
-      "onboard_time": 1697782653,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123527,
       "num": 123527,
       "word": "德云社节目单",
@@ -1345,14 +1369,6 @@
       "onboard_time": 1697720193,
       "rank": 29,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120613,
-      "num": 120613,
-      "word": "不会删空白页的有福了",
-      "onboard_time": 1697782774,
-      "rank": 45,
-      "category": "知识科普"
     },
     {
       "raw_hot": 119910,
@@ -1393,6 +1409,30 @@
       "onboard_time": 1697774913,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112211,
+      "num": 112211,
+      "word": "何洛洛旅行vlog",
+      "onboard_time": 1697783073,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 111937,
+      "num": 111937,
+      "word": "老人捡柴失足坠崖幸好消防员来了",
+      "onboard_time": 1697783254,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111842,
+      "num": 111842,
+      "word": "这个球进了你做我女朋友",
+      "onboard_time": 1697783254,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 111198,
