@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697808036098,
+  "endTime": 1697808857622,
   "band_list": [
     {
       "raw_hot": 3782780,
@@ -97,6 +97,14 @@
       "onboard_time": 1697758348,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1636068,
+      "num": 287352,
+      "word": "杨迪 可以不喜爱但请别伤害",
+      "onboard_time": 1697807011,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1603534,
@@ -235,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1114951,
+      "num": 395324,
+      "word": "广东通报女子产后跳楼身亡",
+      "onboard_time": 1697808032,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1103704,
       "num": 1103704,
       "word": "原来张栋梁去年就该来披荆斩棘",
@@ -257,14 +273,6 @@
       "onboard_time": 1697798011,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1068995,
-      "num": 235765,
-      "word": "杨迪 可以不喜爱但请别伤害",
-      "onboard_time": 1697807011,
-      "rank": 20,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 990981,
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 771570,
+      "num": 771570,
+      "word": "S13抽签",
+      "onboard_time": 1697807794,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 762507,
       "num": 762507,
       "word": "C9 回溯",
@@ -448,6 +464,14 @@
       "word": "男子拒见3岁绝症女儿摔打妻子",
       "onboard_time": 1697735361,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716543,
+      "num": 716543,
+      "word": "12306回应200克葡萄售价60元",
+      "onboard_time": 1697807252,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -561,6 +585,14 @@
       "onboard_time": 1697777017,
       "rank": 11,
       "category": "网红,旅游"
+    },
+    {
+      "raw_hot": 571755,
+      "num": 571755,
+      "word": "李佳琦双十一预告",
+      "onboard_time": 1697807011,
+      "rank": 15,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 555896,
@@ -859,14 +891,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 375396,
-      "num": 375396,
-      "word": "12306回应200克葡萄售价60元",
-      "onboard_time": 1697807252,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 370999,
       "num": 237428,
       "word": "月薪1万做不起美甲",
@@ -881,6 +905,14 @@
       "onboard_time": 1697762976,
       "rank": 23,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 359352,
+      "num": 359352,
+      "word": "老人穿红衣服进羊圈被羊顶死",
+      "onboard_time": 1697807975,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 354709,
@@ -1011,14 +1043,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 303548,
-      "num": 303548,
-      "word": "李佳琦双十一预告",
-      "onboard_time": 1697807011,
-      "rank": 15,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 302023,
       "num": 302023,
       "word": "都是好签 除了BLG",
@@ -1067,6 +1091,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288175,
+      "num": 288175,
+      "word": "李响喝柿子拿铁喝到劈叉",
+      "onboard_time": 1697806712,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 287389,
+      "num": 287389,
+      "word": "流星花园藤堂静灵感妆",
+      "onboard_time": 1697805754,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 287160,
+      "num": 287160,
+      "word": "为什么阳光玫瑰变便宜也变难吃了",
+      "onboard_time": 1697803952,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 286755,
       "num": 286755,
       "word": "Scout回应C9时空回溯",
@@ -1107,14 +1155,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 276237,
-      "num": 232811,
-      "word": "为什么阳光玫瑰变便宜也变难吃了",
-      "onboard_time": 1697803952,
-      "rank": 22,
-      "category": "社会新闻,美食"
-    },
-    {
       "raw_hot": 273599,
       "num": 273599,
       "word": "G2回应抽中TheShy",
@@ -1147,14 +1187,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 264507,
-      "num": 264507,
-      "word": "李响喝柿子拿铁喝到劈叉",
-      "onboard_time": 1697806712,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 264438,
       "num": 264438,
       "word": "成都偶遇戚薇吃烧烤",
@@ -1177,6 +1209,14 @@
       "onboard_time": 1697779655,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260921,
+      "num": 260921,
+      "word": "问心",
+      "onboard_time": 1697804852,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 260645,
@@ -1227,14 +1267,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 252501,
-      "num": 252501,
-      "word": "问心",
-      "onboard_time": 1697804852,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 251758,
       "num": 251758,
       "word": "陈楚生王栎鑫张远拥抱",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1697796153,
       "rank": 31,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 248249,
+      "num": 179470,
+      "word": "LPL又是内战",
+      "onboard_time": 1697808274,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 246979,
@@ -1411,14 +1451,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 219596,
-      "num": 219596,
-      "word": "S13抽签",
-      "onboard_time": 1697807794,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 219217,
       "num": 219217,
       "word": "詹姆斯杜兰特五年来首次对决",
@@ -1563,14 +1595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 207449,
-      "num": 207449,
-      "word": "流星花园藤堂静灵感妆",
-      "onboard_time": 1697805754,
-      "rank": 30,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 204888,
       "num": 204888,
       "word": "马龙说热爱没有天花板",
@@ -1673,6 +1697,14 @@
       "onboard_time": 1697789012,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195278,
+      "num": 195278,
+      "word": "京城大师赛",
+      "onboard_time": 1697807675,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 194695,
@@ -1859,20 +1891,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 173294,
-      "num": 173294,
-      "word": "老人穿红衣服进羊圈被羊顶死",
-      "onboard_time": 1697807975,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172254,
       "num": 172254,
       "word": "万渣朝凰女主人设魅力",
       "onboard_time": 1697796573,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 171133,
+      "num": 171133,
+      "word": "李健海边演唱会直播",
+      "onboard_time": 1697808695,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 169421,
@@ -1947,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162311,
+      "num": 162311,
+      "word": "张学友身着羽绒服抵达成都",
+      "onboard_time": 1697807794,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161857,
       "num": 161857,
       "word": "才知道PPT就应该这样做",
@@ -2017,6 +2057,14 @@
       "onboard_time": 1697766752,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156549,
+      "num": 156549,
+      "word": "金钟奖",
+      "onboard_time": 1697808512,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 156281,
@@ -2243,14 +2291,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 137335,
-      "num": 137335,
-      "word": "京城大师赛",
-      "onboard_time": 1697807675,
-      "rank": 39,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 135383,
       "num": 135383,
       "word": "这个球进了你做我女朋友",
@@ -2411,19 +2451,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 119736,
-      "num": 119736,
-      "word": "张学友身着羽绒服抵达成都",
-      "onboard_time": 1697807794,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118874,
       "num": 118874,
       "word": "旅客突发心脏骤停列车上的他们出手了",
       "onboard_time": 1697787033,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118760,
+      "num": 118760,
+      "word": "长大后外婆把我从小到大的奖状交给我",
+      "onboard_time": 1697808512,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -2473,6 +2513,14 @@
       "onboard_time": 1697806413,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115939,
+      "num": 115939,
+      "word": "民警150条短信指导男子逃出缅北",
+      "onboard_time": 1697807432,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115884,
@@ -2577,14 +2625,6 @@
       "onboard_time": 1697791234,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 102643,
-      "num": 102643,
-      "word": "民警150条短信指导男子逃出缅北",
-      "onboard_time": 1697807432,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102566,
