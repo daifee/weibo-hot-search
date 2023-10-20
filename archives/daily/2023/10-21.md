@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/21 00:22:13 ~ 2023/10/21 04:34:08
+本榜单时间：2023/10/21 00:22:13 ~ 2023/10/21 05:14:37
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@ Capper直播（热度：91413）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B4%E4%B8%8D%E8%A7%81%E7%9A%84%E6%9C%8B%E5%8F%8B%23" target="weibo">
 多年不见的朋友（热度：24838）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E7%BB%99%E5%84%BF%E5%AD%90%E4%B9%A6%E5%8C%85%E9%87%8C%E8%A3%85%E7%9A%84%E4%BC%9E%E7%AB%9F%E6%98%AF%E8%8F%9C%E7%BD%A9%E5%AD%90%23" target="weibo">
+爸爸给儿子书包里装的伞竟是菜罩子（热度：21151）
 </a>
 </li>
 
