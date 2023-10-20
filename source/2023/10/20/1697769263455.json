@@ -1,0 +1,410 @@
+{
+  "runTime": 1697769263455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1752256,
+        "num": 1752256,
+        "word": "与宝马相撞出租车所属公司称司机已尽力刹车",
+        "onboard_time": 1697761597,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 863059,
+        "num": 863059,
+        "word": "妈 咱们也要去好莱坞了",
+        "onboard_time": 1697763637,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21169,
+        "num": 832266,
+        "word": "6张海报回顾一带一路动人故事",
+        "onboard_time": 1697721455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 818313,
+        "num": 818313,
+        "word": "RH阴性血哈萨克斯坦青年成为全球新闻官",
+        "onboard_time": 1697762375,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 740508,
+        "num": 740508,
+        "word": "求职者称第一学历似乎成了污点",
+        "onboard_time": 1697765672,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 618672,
+        "num": 618672,
+        "word": "丫丫贴秋膘成功",
+        "onboard_time": 1697766693,
+        "rank": 5,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 521577,
+        "num": 521577,
+        "word": "我只是犯了全天下朋友都会犯的错",
+        "onboard_time": 1697762675,
+        "rank": 6,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 521132,
+        "num": 521132,
+        "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+        "onboard_time": 1697729435,
+        "rank": 7,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 509401,
+        "num": 509401,
+        "word": "重庆高校通报保安抓捕打死流浪狗",
+        "onboard_time": 1697765373,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 408591,
+        "num": 408591,
+        "word": "世界上最黑的黑色花朵",
+        "onboard_time": 1697764295,
+        "rank": 9,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 1710474,
+        "num": 408335,
+        "word": "丈夫回应演员妻子遭两男子强抱",
+        "onboard_time": 1697765492,
+        "rank": 10,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 42504,
+        "num": 407239,
+        "word": "天猫将在本次双十一放大招",
+        "onboard_time": 1697768071,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1117752,
+        "num": 405907,
+        "word": "沪指跌破3000点大关",
+        "onboard_time": 1697766752,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 857187,
+        "num": 404108,
+        "word": "重庆对外经贸学院",
+        "onboard_time": 1697766272,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629691,
+        "num": 402887,
+        "word": "向佐穿女装直播了",
+        "onboard_time": 1697761838,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451733,
+        "num": 402422,
+        "word": "工资到手十分钟就分干净了",
+        "onboard_time": 1697768850,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401464,
+        "num": 401464,
+        "word": "A股",
+        "onboard_time": 1697765852,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 398791,
+        "num": 398791,
+        "word": "萧敬腾 恋综",
+        "onboard_time": 1697759311,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331897,
+        "num": 331897,
+        "word": "王子奇情绪爆发的原因",
+        "onboard_time": 1697768613,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331150,
+        "num": 331150,
+        "word": "好莱坞高收入演员愿捐巨款结束罢工",
+        "onboard_time": 1697766993,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312882,
+        "num": 312882,
+        "word": "长痘痘不建议吃的水果",
+        "onboard_time": 1697762557,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 293465,
+        "num": 293465,
+        "word": "广州5人误食断肠草中毒",
+        "onboard_time": 1697766512,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292274,
+        "num": 292274,
+        "word": "独居女生家被陌生男差1位试对密码",
+        "onboard_time": 1697768552,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278292,
+        "num": 278292,
+        "word": "国考首个超千人竞争岗位出现",
+        "onboard_time": 1697763637,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266029,
+        "num": 266029,
+        "word": "武汉一未拴绳杜宾犬咬人被没收",
+        "onboard_time": 1697758348,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264438,
+        "num": 264438,
+        "word": "成都偶遇戚薇吃烧烤",
+        "onboard_time": 1697766512,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210703,
+        "num": 210703,
+        "word": "原来鼻炎鼻塞跟肠胃有很大关系",
+        "onboard_time": 1697762557,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203841,
+        "num": 203841,
+        "word": "妈妈用水果举例告诉女儿要开心做自己",
+        "onboard_time": 1697759251,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199589,
+        "num": 199589,
+        "word": "中国八大名山排名",
+        "onboard_time": 1697762854,
+        "rank": 28,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 183426,
+        "num": 183426,
+        "word": "EXO公司logo四叶草",
+        "onboard_time": 1697728958,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181912,
+        "num": 181912,
+        "word": "G2回应抽中TheShy",
+        "onboard_time": 1697756543,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181429,
+        "num": 181429,
+        "word": "米哈游曾试图绕过苹果税",
+        "onboard_time": 1697762615,
+        "rank": 31,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 179047,
+        "num": 179047,
+        "word": "丝路十年河南画卷",
+        "onboard_time": 1697768850,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164988,
+        "num": 164988,
+        "word": "为什么说旅游后容易分手",
+        "onboard_time": 1697760995,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164319,
+        "num": 164319,
+        "word": "华浅前夫哥感情彻底破裂",
+        "onboard_time": 1697767895,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157894,
+        "num": 157894,
+        "word": "于适一看侯哥就憋不住笑",
+        "onboard_time": 1697768373,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151830,
+        "num": 151830,
+        "word": "孙坚 陕西的好东西想让人知道",
+        "onboard_time": 1697768613,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150447,
+        "num": 150447,
+        "word": "槿夕姑姑居然演警匪剧了",
+        "onboard_time": 1697768972,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149001,
+        "num": 149001,
+        "word": "工资涨了我却变抠门了",
+        "onboard_time": 1697761114,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 148100,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1697744533,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141742,
+        "num": 141742,
+        "word": "北方的朋友来看下哪个是青菜",
+        "onboard_time": 1697768252,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 139196,
+        "num": 139196,
+        "word": "周也说转账更打动我",
+        "onboard_time": 1697768373,
+        "rank": 41,
+        "category": "剧集,艺人"
+      },
+      {
+        "raw_hot": 135046,
+        "num": 135046,
+        "word": "看猪洗澡也太解压了",
+        "onboard_time": 1697765733,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 134465,
+        "num": 134465,
+        "word": "两位警察抱起晕厥女孩接力狂奔",
+        "onboard_time": 1697767713,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130313,
+        "num": 130313,
+        "word": "孙茜新剧端茶姿势是从甄嬛传练的吧",
+        "onboard_time": 1697766752,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128257,
+        "num": 128257,
+        "word": "周五的快乐是丫丫给的",
+        "onboard_time": 1697766575,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 121286,
+        "num": 128251,
+        "word": "主人上个厕所柴柴就变打卡点了",
+        "onboard_time": 1697762976,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 116690,
+        "num": 128251,
+        "word": "GALA 真男人大战",
+        "onboard_time": 1697762435,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108932,
+        "num": 128240,
+        "word": "都是好签 除了BLG",
+        "onboard_time": 1697760215,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104415,
+        "num": 128234,
+        "word": "S13瑞士轮第二轮抽签",
+        "onboard_time": 1697723376,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}
