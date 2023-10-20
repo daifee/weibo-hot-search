@@ -1,0 +1,410 @@
+{
+  "runTime": 1697814981458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1740960,
+        "num": 1740960,
+        "word": "猫肉按每斤4块5充当猪羊肉",
+        "onboard_time": 1697812716,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1372668,
+        "num": 1372668,
+        "word": "广东通报女子产后跳楼身亡",
+        "onboard_time": 1697808032,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84321,
+        "num": 1049705,
+        "word": "航天员吃到自己种的新鲜蔬菜了",
+        "onboard_time": 1697802631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 772151,
+        "num": 772151,
+        "word": "成都恶犬偷跑主人曾出门寻找但没找到",
+        "onboard_time": 1697812835,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 697209,
+        "num": 697209,
+        "word": "阿根廷世界杯冠军成员兴奋剂阳性",
+        "onboard_time": 1697811874,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 796492,
+        "num": 662775,
+        "word": "巴以冲突",
+        "onboard_time": 1697793334,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 614323,
+        "num": 614323,
+        "word": "二手玫瑰冠军",
+        "onboard_time": 1697811755,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 563470,
+        "num": 563470,
+        "word": "李健唱了王菲的如愿",
+        "onboard_time": 1697813494,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 551826,
+        "num": 551826,
+        "word": "老人穿红衣服进羊圈被羊顶死",
+        "onboard_time": 1697807975,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455300,
+        "num": 455300,
+        "word": "iPhone的手电筒可以调节亮度",
+        "onboard_time": 1697813434,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 938287,
+        "num": 445895,
+        "word": "韩娱多位名人被曝吸毒",
+        "onboard_time": 1697803231,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 877545,
+        "num": 440428,
+        "word": "李兰迪留了长发",
+        "onboard_time": 1697809355,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 471016,
+        "num": 437498,
+        "word": "李佳琦双十一预告",
+        "onboard_time": 1697807011,
+        "rank": 12,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 430591,
+        "num": 430591,
+        "word": "奶奶六年前给我买的金项链",
+        "onboard_time": 1697809896,
+        "rank": 13,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 427843,
+        "num": 427843,
+        "word": "12306回应200克葡萄售价60元",
+        "onboard_time": 1697807252,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419098,
+        "num": 419098,
+        "word": "张婧仪蓝睫毛",
+        "onboard_time": 1697811453,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 415754,
+        "num": 415754,
+        "word": "小蓝姐姐原来长大后这么痛苦",
+        "onboard_time": 1697795251,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 394267,
+        "num": 394267,
+        "word": "青岛啤酒称涉事麦芽已全部封存",
+        "onboard_time": 1697809294,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367522,
+        "num": 367522,
+        "word": "杨幂素妆",
+        "onboard_time": 1697792855,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 334995,
+        "num": 334995,
+        "word": "王牌对王牌",
+        "onboard_time": 1697798011,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1572875,
+        "num": 331240,
+        "word": "杨迪 可以不喜爱但请别伤害",
+        "onboard_time": 1697807011,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 589646,
+        "num": 328367,
+        "word": "月薪7K抠门三年攒下20万",
+        "onboard_time": 1697795853,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 309759,
+        "num": 309759,
+        "word": "杭州情侣回应不花钱办一场婚礼",
+        "onboard_time": 1697812357,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295716,
+        "num": 295716,
+        "word": "周也行走的茉莉青提",
+        "onboard_time": 1697812716,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 294397,
+        "num": 294397,
+        "word": "优酷别太爱王牌了",
+        "onboard_time": 1697813374,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271004,
+        "num": 271004,
+        "word": "eStar挑战者杯淘汰",
+        "onboard_time": 1697814515,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 263847,
+        "num": 263847,
+        "word": "伊戈达拉宣布退役",
+        "onboard_time": 1697811514,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246677,
+        "num": 246677,
+        "word": "巩皇永远能打",
+        "onboard_time": 1697810614,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 244989,
+        "num": 244989,
+        "word": "LPL又是内战",
+        "onboard_time": 1697808274,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144151,
+        "num": 235568,
+        "word": "以色列防长称将很快下达进攻加沙命令",
+        "onboard_time": 1697805212,
+        "rank": 29,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 294374,
+        "num": 234151,
+        "word": "女子花15年报复下头男",
+        "onboard_time": 1697813616,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232472,
+        "num": 232472,
+        "word": "五月天演唱会",
+        "onboard_time": 1697807492,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209669,
+        "num": 209669,
+        "word": "为什么阳光玫瑰变便宜也变难吃了",
+        "onboard_time": 1697803952,
+        "rank": 32,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 198574,
+        "num": 198574,
+        "word": "G2战胜WBG",
+        "onboard_time": 1697800113,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 198533,
+        "num": 198533,
+        "word": "Capper直播",
+        "onboard_time": 1697813736,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190234,
+        "num": 190234,
+        "word": "短道速滑",
+        "onboard_time": 1697811215,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177936,
+        "num": 177936,
+        "word": "问心",
+        "onboard_time": 1697804852,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173002,
+        "num": 173002,
+        "word": "青岛啤酒发布情况说明",
+        "onboard_time": 1697805872,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172227,
+        "num": 172227,
+        "word": "李健海边演唱会直播",
+        "onboard_time": 1697808695,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 171148,
+        "num": 171148,
+        "word": "孙怡晒loopy合照",
+        "onboard_time": 1697811393,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168607,
+        "num": 168607,
+        "word": "WB对战eStar",
+        "onboard_time": 1697810797,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164719,
+        "num": 164719,
+        "word": "无意中看到了外公的网购记录",
+        "onboard_time": 1697793693,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157270,
+        "num": 157270,
+        "word": "白敬亭最近在尝试喝茶",
+        "onboard_time": 1697811996,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147663,
+        "num": 147663,
+        "word": "羊肉手抓饭",
+        "onboard_time": 1697814157,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 146899,
+        "num": 146899,
+        "word": "神婆三年前算到李善均吸毒",
+        "onboard_time": 1697792493,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142162,
+        "num": 142162,
+        "word": "内娱演技进步很大的演员",
+        "onboard_time": 1697804013,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 138762,
+        "num": 138762,
+        "word": "五月天成都",
+        "onboard_time": 1697814456,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132115,
+        "num": 132115,
+        "word": "WBG领先一万被翻盘",
+        "onboard_time": 1697801252,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128499,
+        "num": 128499,
+        "word": "为有暗香来真加更了",
+        "onboard_time": 1697814815,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125516,
+        "num": 125516,
+        "word": "唐嫣钟汉良再次搭档",
+        "onboard_time": 1697798373,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新开发银行行长#"
+    }
+  }
+}
