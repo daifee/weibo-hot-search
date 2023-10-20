@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697826065587,
+  "endTime": 1697826855224,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -5339,6 +5339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 445720,
+      "num": 445720,
+      "word": "被狗咬女童家属称每天医药费1万左右",
+      "onboard_time": 1697822901,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 445554,
       "num": 404067,
       "word": "庆余年里真的有王楚然",
@@ -6009,14 +6017,6 @@
       "onboard_time": 1697536418,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 401202,
-      "num": 401202,
-      "word": "被狗咬女童家属称每天医药费1万左右",
-      "onboard_time": 1697822901,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400149,
@@ -17193,6 +17193,14 @@
       "onboard_time": 1697746573,
       "rank": 47,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 24838,
+      "num": 37630,
+      "word": "多年不见的朋友",
+      "onboard_time": 1697826796,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 24484,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/15 00:20:12 ~ 2023/10/21 02:21:05
+本榜单时间：2023/10/15 00:20:12 ~ 2023/10/21 02:34:15
 </p>
 </blockquote>
 <p>
@@ -4017,6 +4017,12 @@ TES战胜TTG（热度：460899）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23" target="weibo">
+被狗咬女童家属称每天医药费1万左右（热度：445720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%86%E4%BD%99%E5%B9%B4%E9%87%8C%E7%9C%9F%E7%9A%84%E6%9C%89%E7%8E%8B%E6%A5%9A%E7%84%B6%23" target="weibo">
 庆余年里真的有王楚然（热度：445554）
 </a>
@@ -4517,12 +4523,6 @@ AG战胜WB（热度：402190）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E9%B9%BF%E6%99%97%E7%AF%AE%E7%90%83%E5%9C%BA%E5%90%88%E7%85%A7%23" target="weibo">
 邓超鹿晗篮球场合照（热度：401700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23" target="weibo">
-被狗咬女童家属称每天医药费1万左右（热度：401202）
 </a>
 </li>
 
@@ -12905,6 +12905,12 @@ TW对战GAM（热度：38404）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E6%8B%89%E4%BC%AF%E5%9B%BD%E5%AE%B6%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%23" target="weibo">
 阿拉伯国家都有哪些（热度：25383）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B9%B4%E4%B8%8D%E8%A7%81%E7%9A%84%E6%9C%8B%E5%8F%8B%23" target="weibo">
+多年不见的朋友（热度：24838）
 </a>
 </li>
 

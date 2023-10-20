@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697826065587,
+  "endTime": 1697826855224,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -91,6 +91,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 445720,
+      "num": 445720,
+      "word": "被狗咬女童家属称每天医药费1万左右",
+      "onboard_time": 1697822901,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 432962,
       "num": 432962,
       "word": "金牛座越来越冷漠的原因",
@@ -121,14 +129,6 @@
       "onboard_time": 1697816911,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 401202,
-      "num": 401202,
-      "word": "被狗咬女童家属称每天医药费1万左右",
-      "onboard_time": 1697822901,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 387322,
@@ -473,6 +473,14 @@
       "onboard_time": 1697802330,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 24838,
+      "num": 37630,
+      "word": "多年不见的朋友",
+      "onboard_time": 1697826796,
+      "rank": 49,
+      "category": "动漫"
     }
   ],
   "hotgov_list": [
