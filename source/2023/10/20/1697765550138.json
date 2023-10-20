@@ -1,0 +1,410 @@
+{
+  "runTime": 1697765550138,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2077723,
+        "num": 2077723,
+        "word": "与宝马相撞出租车所属公司称司机已尽力刹车",
+        "onboard_time": 1697761597,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1447857,
+        "num": 1447857,
+        "word": "RH阴性血哈萨克斯坦青年成为全球新闻官",
+        "onboard_time": 1697762375,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 39346,
+        "num": 1085329,
+        "word": "6张海报回顾一带一路动人故事",
+        "onboard_time": 1697721455,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1035448,
+        "num": 1035448,
+        "word": "武汉一未拴绳杜宾犬咬人被没收",
+        "onboard_time": 1697758348,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 954351,
+        "num": 954351,
+        "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+        "onboard_time": 1697729435,
+        "rank": 4,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 691286,
+        "num": 691286,
+        "word": "萧敬腾 恋综",
+        "onboard_time": 1697759311,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 641146,
+        "num": 641146,
+        "word": "妈 咱们也要去好莱坞了",
+        "onboard_time": 1697763637,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 533962,
+        "num": 533962,
+        "word": "妈妈用水果举例告诉女儿要开心做自己",
+        "onboard_time": 1697759251,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 431367,
+        "num": 431367,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1697744533,
+        "rank": 8,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 419159,
+        "num": 419159,
+        "word": "米哈游曾试图绕过苹果税",
+        "onboard_time": 1697762615,
+        "rank": 9,
+        "category": "游戏,财经"
+      },
+      {
+        "raw_hot": 1132632,
+        "num": 387296,
+        "word": "向佐穿女装直播了",
+        "onboard_time": 1697761838,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354709,
+        "num": 354709,
+        "word": "中国八大名山排名",
+        "onboard_time": 1697762854,
+        "rank": 11,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 345052,
+        "num": 345052,
+        "word": "国考首个超千人竞争岗位出现",
+        "onboard_time": 1697763637,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 326380,
+        "num": 326380,
+        "word": "世界上最黑的黑色花朵",
+        "onboard_time": 1697764295,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 256905,
+        "num": 256905,
+        "word": "都是好签 除了BLG",
+        "onboard_time": 1697760215,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 241552,
+        "num": 241552,
+        "word": "张小泉菜刀又现拍蒜断刀",
+        "onboard_time": 1697730515,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224097,
+        "num": 224097,
+        "word": "以安全部队与巴勒斯坦武装人员约旦河西岸交火",
+        "onboard_time": 1697756483,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 223426,
+        "num": 223426,
+        "word": "九尾 坏了道心破碎",
+        "onboard_time": 1697761838,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 217059,
+        "num": 217059,
+        "word": "EXO公司logo四叶草",
+        "onboard_time": 1697728958,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214301,
+        "num": 214301,
+        "word": "G2回应抽中TheShy",
+        "onboard_time": 1697756543,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 648726,
+        "num": 213901,
+        "word": "长痘痘不建议吃的水果",
+        "onboard_time": 1697762557,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 449417,
+        "num": 213140,
+        "word": "原来鼻炎鼻塞跟肠胃有很大关系",
+        "onboard_time": 1697762557,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 431693,
+        "num": 211493,
+        "word": "工资涨了我却变抠门了",
+        "onboard_time": 1697761114,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 295218,
+        "num": 210100,
+        "word": "主人上个厕所柴柴就变打卡点了",
+        "onboard_time": 1697762976,
+        "rank": 23,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 209842,
+        "num": 209842,
+        "word": "女孩自制计算器租给同学一天赚20多元",
+        "onboard_time": 1697718217,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197832,
+        "num": 197832,
+        "word": "唐艺昕好A",
+        "onboard_time": 1697763818,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 195443,
+        "num": 195443,
+        "word": "为什么说旅游后容易分手",
+        "onboard_time": 1697760995,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179658,
+        "num": 179658,
+        "word": "4位白发奶奶聚会吃火锅画面温馨",
+        "onboard_time": 1697761476,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 179066,
+        "num": 179066,
+        "word": "重庆高校通报保安抓捕打死流浪狗",
+        "onboard_time": 1697765373,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176182,
+        "num": 176182,
+        "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
+        "onboard_time": 1697719775,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363407,
+        "num": 172614,
+        "word": "我只是犯了全天下朋友都会犯的错",
+        "onboard_time": 1697762675,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216546,
+        "num": 171086,
+        "word": "GALA 真男人大战",
+        "onboard_time": 1697762435,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165338,
+        "num": 165338,
+        "word": "男子拒见3岁绝症女儿摔打妻子",
+        "onboard_time": 1697735361,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160697,
+        "num": 160697,
+        "word": "第一次听说板栗可以生吃",
+        "onboard_time": 1697758769,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 159516,
+        "num": 159516,
+        "word": "宋威龙 三年不见男大十八变",
+        "onboard_time": 1697715156,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147163,
+        "num": 147163,
+        "word": "7岁小女孩天生2个子宫3个肾",
+        "onboard_time": 1697716833,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146656,
+        "num": 146656,
+        "word": "6岁女儿教科书式自救与父团聚",
+        "onboard_time": 1697756543,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146386,
+        "num": 146386,
+        "word": "姑娘给了送外卖的骑警两个橘子",
+        "onboard_time": 1697756421,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146371,
+        "num": 146371,
+        "word": "得会四国语言才能拿下的工作",
+        "onboard_time": 1697761114,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145860,
+        "num": 145860,
+        "word": "10分钟躺平瘦肚子",
+        "onboard_time": 1697764594,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 134020,
+        "num": 134020,
+        "word": "大熊猫下树主打一个稳稳当当",
+        "onboard_time": 1697765075,
+        "rank": 40,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 130781,
+        "num": 130781,
+        "word": "这届年轻人结婚越来越抠",
+        "onboard_time": 1697744834,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130722,
+        "num": 130722,
+        "word": "华晨宇的发际线",
+        "onboard_time": 1697729734,
+        "rank": 42,
+        "category": "演出,时尚"
+      },
+      {
+        "raw_hot": 129682,
+        "num": 129682,
+        "word": "男子被困溶洞2天邻居发现异常报警",
+        "onboard_time": 1697756543,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127942,
+        "num": 127942,
+        "word": "S13瑞士轮第二轮抽签",
+        "onboard_time": 1697723376,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123712,
+        "num": 123712,
+        "word": "丈夫回应演员妻子遭两男子强抱",
+        "onboard_time": 1697765492,
+        "rank": 45,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 119973,
+        "num": 119973,
+        "word": "TheShy再谈2018年夺冠",
+        "onboard_time": 1697759852,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119910,
+        "num": 119910,
+        "word": "与宝马相撞出租车所属公司发声",
+        "onboard_time": 1697765373,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116229,
+        "num": 116229,
+        "word": "曾舜晞演过TVB神剧使徒行者3",
+        "onboard_time": 1697735659,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114438,
+        "num": 114438,
+        "word": "才知道PPT就应该这样做",
+        "onboard_time": 1697761356,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#中泰友好深深植根于两国人民心中#"
+    }
+  }
+}
