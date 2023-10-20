@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697790083670,
+  "endTime": 1697790876545,
   "band_list": [
     {
       "raw_hot": 2958607,
@@ -171,8 +171,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 975900,
-      "num": 975900,
+      "raw_hot": 990981,
+      "num": 990981,
       "word": "李善均方回应吸毒传闻",
       "onboard_time": 1697788233,
       "rank": 1,
@@ -323,6 +323,22 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 602343,
+      "num": 321975,
+      "word": "下辈子不要当流浪动物了",
+      "onboard_time": 1697786012,
+      "rank": 46,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 601931,
+      "num": 601931,
+      "word": "华为六周内售出160万部Mate60Pro",
+      "onboard_time": 1697789131,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 601758,
       "num": 572602,
       "word": "遭绑架杀害网红罗大美好友发声",
@@ -417,6 +433,14 @@
       "onboard_time": 1697778038,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 487584,
+      "num": 303945,
+      "word": "女子结婚后被村里投票剥夺征地补偿资格",
+      "onboard_time": 1697789433,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 485394,
@@ -515,14 +539,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 412912,
-      "num": 412912,
-      "word": "华为六周内售出160万部Mate60Pro",
-      "onboard_time": 1697789131,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 408591,
       "num": 408591,
       "word": "世界上最黑的黑色花朵",
@@ -561,6 +577,14 @@
       "onboard_time": 1697787452,
       "rank": 23,
       "category": "财经,时尚"
+    },
+    {
+      "raw_hot": 362633,
+      "num": 299409,
+      "word": "杨幂羽毛裙摆",
+      "onboard_time": 1697790094,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 360058,
@@ -643,14 +667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 321975,
-      "num": 321975,
-      "word": "下辈子不要当流浪动物了",
-      "onboard_time": 1697786012,
-      "rank": 46,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 316646,
       "num": 454591,
       "word": "宋威龙 三年不见男大十八变",
@@ -681,6 +697,14 @@
       "onboard_time": 1697760215,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 298368,
+      "num": 298368,
+      "word": "这是在化妆还是在装修",
+      "onboard_time": 1697789075,
+      "rank": 17,
+      "category": "美妆"
     },
     {
       "raw_hot": 296462,
@@ -851,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 234787,
-      "num": 193417,
-      "word": "女子结婚后被村里投票剥夺征地补偿资格",
-      "onboard_time": 1697789433,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 232825,
       "num": 232825,
       "word": "不会删空白页的有福了",
@@ -897,14 +913,6 @@
       "onboard_time": 1697787813,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 222706,
-      "num": 222706,
-      "word": "这是在化妆还是在装修",
-      "onboard_time": 1697789075,
-      "rank": 17,
-      "category": "美妆"
     },
     {
       "raw_hot": 221482,
@@ -1011,6 +1019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212022,
+      "num": 212022,
+      "word": "王牌对王牌今日开播",
+      "onboard_time": 1697789911,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210760,
       "num": 461738,
       "word": "S13瑞士轮第二轮抽签",
@@ -1027,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204498,
+      "num": 201766,
+      "word": "青岛啤酒",
+      "onboard_time": 1697789611,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203419,
       "num": 439265,
       "word": "今年的古装爆剧",
@@ -1041,6 +1065,14 @@
       "onboard_time": 1697770894,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202052,
+      "num": 202052,
+      "word": "孟子义周也同游环球影城",
+      "onboard_time": 1697790512,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 200815,
@@ -1083,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195392,
+      "num": 195392,
+      "word": "关晓彤新剧再现腾化",
+      "onboard_time": 1697789012,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 194695,
       "num": 194695,
       "word": "保姆成奶奶抚养孩子16年",
@@ -1113,14 +1153,6 @@
       "onboard_time": 1697785172,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 193188,
-      "num": 193188,
-      "word": "青岛啤酒",
-      "onboard_time": 1697789611,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193029,
@@ -1195,14 +1227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175494,
-      "num": 175494,
-      "word": "关晓彤新剧再现腾化",
-      "onboard_time": 1697789012,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 173782,
       "num": 173782,
       "word": "田耕纪豆瓣评分7.5",
@@ -1217,6 +1241,14 @@
       "onboard_time": 1697777200,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172165,
+      "num": 172165,
+      "word": "宁艺卓掉橙V了",
+      "onboard_time": 1697790755,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 168577,
@@ -1635,14 +1667,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 118895,
-      "num": 118895,
-      "word": "王牌对王牌今日开播",
-      "onboard_time": 1697789911,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118874,
       "num": 118874,
       "word": "旅客突发心脏骤停列车上的他们出手了",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1697733805,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104699,
+      "num": 104699,
+      "word": "你用血肉和爱意浇灌出姬发",
+      "onboard_time": 1697790453,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102566,
@@ -1947,6 +1979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55296,
+      "num": 201686,
+      "word": "今年天猫双11直接打折",
+      "onboard_time": 1697789975,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 50454,
       "num": 1998999,
       "word": "杭州亚残运会火炬传递主题曲MV发布",
@@ -2049,14 +2089,6 @@
       "onboard_time": 1697743094,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 11799,
-      "num": 101181,
-      "word": "今年天猫双11直接打折",
-      "onboard_time": 1697789975,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 6968,

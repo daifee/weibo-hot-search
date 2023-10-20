@@ -1,0 +1,410 @@
+{
+  "runTime": 1697790876545,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1323706,
+        "num": 1323706,
+        "word": "标价799的蟹吃了999的龙虾",
+        "onboard_time": 1697780673,
+        "rank": 0,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 990981,
+        "num": 990981,
+        "word": "李善均方回应吸毒传闻",
+        "onboard_time": 1697788233,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39744,
+        "num": 788227,
+        "word": "神十七船箭组合体已就位",
+        "onboard_time": 1697772514,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752549,
+        "num": 752549,
+        "word": "原来张栋梁去年就该来披荆斩棘",
+        "onboard_time": 1697784091,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722507,
+        "num": 722507,
+        "word": "甄嬛被幽禁时期的餐饮标准",
+        "onboard_time": 1697776297,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 601931,
+        "num": 601931,
+        "word": "华为六周内售出160万部Mate60Pro",
+        "onboard_time": 1697789131,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 597268,
+        "num": 597268,
+        "word": "绑架罗大美嫌犯劫财后欲将其卖至缅甸",
+        "onboard_time": 1697787277,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383623,
+        "num": 383623,
+        "word": "男子1天取451.8万银行柜员报警",
+        "onboard_time": 1697770291,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335227,
+        "num": 335227,
+        "word": "C9 回溯",
+        "onboard_time": 1697785476,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 313914,
+        "num": 313914,
+        "word": "柚子鸡",
+        "onboard_time": 1697783554,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 1199475,
+        "num": 312329,
+        "word": "情侣住酒店一年后收到亲密视频",
+        "onboard_time": 1697775693,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 844366,
+        "num": 309173,
+        "word": "杨迪 想回家看我的狗",
+        "onboard_time": 1697785113,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602343,
+        "num": 307001,
+        "word": "下辈子不要当流浪动物了",
+        "onboard_time": 1697786012,
+        "rank": 12,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 487584,
+        "num": 303945,
+        "word": "女子结婚后被村里投票剥夺征地补偿资格",
+        "onboard_time": 1697789433,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370139,
+        "num": 301632,
+        "word": "赵丽颖练八段锦",
+        "onboard_time": 1697782053,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362633,
+        "num": 299409,
+        "word": "杨幂羽毛裙摆",
+        "onboard_time": 1697790094,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 298368,
+        "num": 298368,
+        "word": "这是在化妆还是在装修",
+        "onboard_time": 1697789075,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 212022,
+        "num": 212022,
+        "word": "王牌对王牌今日开播",
+        "onboard_time": 1697789911,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202052,
+        "num": 202052,
+        "word": "孟子义周也同游环球影城",
+        "onboard_time": 1697790512,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225802,
+        "num": 202048,
+        "word": "遭绑架杀害网红罗大美好友发声",
+        "onboard_time": 1697784155,
+        "rank": 19,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 949476,
+        "num": 201999,
+        "word": "青岛啤酒厂工人被曝在原料仓小便",
+        "onboard_time": 1697785710,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 932827,
+        "num": 201978,
+        "word": "天津一儿童疑遭开门杀后被碾身亡",
+        "onboard_time": 1697781513,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 639648,
+        "num": 201941,
+        "word": "小狗不觉得自己是在流浪",
+        "onboard_time": 1697772095,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 428451,
+        "num": 201915,
+        "word": "萝卜刀创始人仍蜗居出租屋",
+        "onboard_time": 1697787571,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 323413,
+        "num": 201872,
+        "word": "月薪1万做不起美甲",
+        "onboard_time": 1697787452,
+        "rank": 24,
+        "category": "财经,时尚"
+      },
+      {
+        "raw_hot": 311136,
+        "num": 201849,
+        "word": "杨幂碎钻露腰白裙",
+        "onboard_time": 1697785172,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215057,
+        "num": 201802,
+        "word": "罗大美",
+        "onboard_time": 1697788294,
+        "rank": 26,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 204498,
+        "num": 201766,
+        "word": "青岛啤酒",
+        "onboard_time": 1697789611,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193754,
+        "num": 201752,
+        "word": "罗云熙中泰友谊文化形象大使",
+        "onboard_time": 1697787813,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104469,
+        "num": 201705,
+        "word": "青霉素和头孢为何对肺炎支原体无效",
+        "onboard_time": 1697784633,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 55296,
+        "num": 201686,
+        "word": "今年天猫双11直接打折",
+        "onboard_time": 1697789975,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210413,
+        "num": 201657,
+        "word": "重庆驱赶处置流浪狗保安被停职",
+        "onboard_time": 1697773715,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201625,
+        "num": 201625,
+        "word": "流浪狗",
+        "onboard_time": 1697778097,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195392,
+        "num": 195392,
+        "word": "关晓彤新剧再现腾化",
+        "onboard_time": 1697789012,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183033,
+        "num": 183033,
+        "word": "女子吐槽高铁一盒葡萄60元仅200克",
+        "onboard_time": 1697780076,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180030,
+        "num": 180030,
+        "word": "罗大美生前曾多次向求助人捐款",
+        "onboard_time": 1697777497,
+        "rank": 35,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 172165,
+        "num": 172165,
+        "word": "宁艺卓掉橙V了",
+        "onboard_time": 1697790755,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150892,
+        "num": 150892,
+        "word": "LNG战胜C9",
+        "onboard_time": 1697786973,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 180639,
+        "num": 150142,
+        "word": "网友乘地铁发现警犬已戴上嘴套",
+        "onboard_time": 1697772272,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146271,
+        "num": 146271,
+        "word": "基金",
+        "onboard_time": 1697783792,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142874,
+        "num": 142874,
+        "word": "朱一龙暴肥暴瘦和我喝水一样简单",
+        "onboard_time": 1697781334,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139625,
+        "num": 139625,
+        "word": "松子终于写完作业了",
+        "onboard_time": 1697786074,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 138629,
+        "num": 138629,
+        "word": "孙阳发型",
+        "onboard_time": 1697784633,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 131839,
+        "num": 131839,
+        "word": "沪指跌破3000点大关",
+        "onboard_time": 1697766752,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 129789,
+        "num": 129789,
+        "word": "睡眠不足的六个表现",
+        "onboard_time": 1697771971,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127591,
+        "num": 127591,
+        "word": "于正否认为华浅重生是个梦",
+        "onboard_time": 1697779473,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116435,
+        "num": 116435,
+        "word": "5岁娃被压脚50秒30人冲来救援",
+        "onboard_time": 1697777560,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108469,
+        "num": 108469,
+        "word": "天津警方通报儿童遭开门杀后被公交碾压死亡",
+        "onboard_time": 1697782172,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104699,
+        "num": 104699,
+        "word": "你用血肉和爱意浇灌出姬发",
+        "onboard_time": 1697790453,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103331,
+        "num": 103331,
+        "word": "不会删空白页的有福了",
+        "onboard_time": 1697782774,
+        "rank": 49,
+        "category": "知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新开发银行行长#"
+    }
+  }
+}
