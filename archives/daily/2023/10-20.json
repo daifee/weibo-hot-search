@@ -1,6 +1,6 @@
 {
   "startTime": 1697732548504,
-  "endTime": 1697808857622,
+  "endTime": 1697811363279,
   "band_list": [
     {
       "raw_hot": 3782780,
@@ -51,12 +51,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2005876,
+      "num": 2005876,
+      "word": "广东通报女子产后跳楼身亡",
+      "onboard_time": 1697808032,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1894733,
       "num": 1894733,
       "word": "重庆驱赶处置流浪狗保安被停职",
       "onboard_time": 1697773715,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1822614,
+      "num": 287352,
+      "word": "杨迪 可以不喜爱但请别伤害",
+      "onboard_time": 1697807011,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1775916,
@@ -97,14 +113,6 @@
       "onboard_time": 1697758348,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1636068,
-      "num": 287352,
-      "word": "杨迪 可以不喜爱但请别伤害",
-      "onboard_time": 1697807011,
-      "rank": 20,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1603534,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1270541,
+      "num": 383911,
+      "word": "李兰迪留了长发",
+      "onboard_time": 1697809355,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1253401,
       "num": 696852,
       "word": "小蓝姐姐原来长大后这么痛苦",
@@ -241,14 +257,6 @@
       "onboard_time": 1697763637,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1114951,
-      "num": 395324,
-      "word": "广东通报女子产后跳楼身亡",
-      "onboard_time": 1697808032,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1103704,
@@ -435,6 +443,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752946,
+      "num": 752946,
+      "word": "老人穿红衣服进羊圈被羊顶死",
+      "onboard_time": 1697807975,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743705,
+      "num": 743705,
+      "word": "12306回应200克葡萄售价60元",
+      "onboard_time": 1697807252,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 740508,
       "num": 740508,
       "word": "求职者称第一学历似乎成了污点",
@@ -467,12 +491,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 716543,
-      "num": 716543,
-      "word": "12306回应200克葡萄售价60元",
-      "onboard_time": 1697807252,
-      "rank": 13,
-      "category": "社会新闻"
+      "raw_hot": 700232,
+      "num": 700232,
+      "word": "李佳琦双十一预告",
+      "onboard_time": 1697807011,
+      "rank": 15,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 661450,
@@ -585,14 +609,6 @@
       "onboard_time": 1697777017,
       "rank": 11,
       "category": "网红,旅游"
-    },
-    {
-      "raw_hot": 571755,
-      "num": 571755,
-      "word": "李佳琦双十一预告",
-      "onboard_time": 1697807011,
-      "rank": 15,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 555896,
@@ -779,6 +795,14 @@
       "category": "游戏,财经"
     },
     {
+      "raw_hot": 441057,
+      "num": 441057,
+      "word": "LPL又是内战",
+      "onboard_time": 1697808274,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 439639,
       "num": 302934,
       "word": "以安全部队与巴勒斯坦武装人员约旦河西岸交火",
@@ -793,6 +817,14 @@
       "onboard_time": 1697768972,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 436379,
+      "num": 370160,
+      "word": "奶奶六年前给我买的金项链",
+      "onboard_time": 1697809896,
+      "rank": 13,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 424726,
@@ -851,6 +883,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 391604,
+      "num": 391604,
+      "word": "李健海边演唱会直播",
+      "onboard_time": 1697808695,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 391587,
       "num": 391587,
       "word": "于正否认为华浅重生是个梦",
@@ -873,6 +913,14 @@
       "onboard_time": 1697718217,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386892,
+      "num": 386892,
+      "word": "巩皇永远能打",
+      "onboard_time": 1697810614,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 377443,
@@ -905,14 +953,6 @@
       "onboard_time": 1697762976,
       "rank": 23,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 359352,
-      "num": 359352,
-      "word": "老人穿红衣服进羊圈被羊顶死",
-      "onboard_time": 1697807975,
-      "rank": 34,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 354709,
@@ -1195,12 +1235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263690,
+      "num": 263690,
+      "word": "李健演唱会",
+      "onboard_time": 1697809055,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263557,
       "num": 263557,
       "word": "C罗儿子签约利雅得胜利U13",
       "onboard_time": 1697770830,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 262309,
+      "num": 262309,
+      "word": "青岛啤酒称涉事麦芽已全部封存",
+      "onboard_time": 1697809294,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261088,
@@ -1281,14 +1337,6 @@
       "onboard_time": 1697796153,
       "rank": 31,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 248249,
-      "num": 179470,
-      "word": "LPL又是内战",
-      "onboard_time": 1697808274,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 246979,
@@ -1667,6 +1715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199125,
+      "num": 199125,
+      "word": "WB对战eStar",
+      "onboard_time": 1697810797,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198717,
       "num": 198717,
       "word": "白鹿费加罗十月刊封面",
@@ -1899,14 +1955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 171133,
-      "num": 171133,
-      "word": "李健海边演唱会直播",
-      "onboard_time": 1697808695,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 169421,
       "num": 169421,
       "word": "九尾也来看五月天了",
@@ -1945,6 +1993,14 @@
       "onboard_time": 1697806173,
       "rank": 35,
       "category": "旅游,艺人"
+    },
+    {
+      "raw_hot": 165867,
+      "num": 165867,
+      "word": "上海海港1比2北京国安",
+      "onboard_time": 1697810915,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 165253,
@@ -2153,6 +2209,14 @@
       "onboard_time": 1697795133,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 150711,
+      "num": 150711,
+      "word": "张婧仪白色无袖背心",
+      "onboard_time": 1697808994,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150336,
@@ -2419,6 +2483,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123888,
+      "num": 123888,
+      "word": "瑞士轮第三轮",
+      "onboard_time": 1697809833,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123527,
       "num": 123527,
       "word": "德云社节目单",
@@ -2523,6 +2595,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115918,
+      "num": 115918,
+      "word": "短道速滑",
+      "onboard_time": 1697811215,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115884,
       "num": 175233,
       "word": "如果王者荣耀是一张分级问卷",
@@ -2593,6 +2673,14 @@
       "onboard_time": 1697714317,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108935,
+      "num": 108935,
+      "word": "四个动作把肩颈舒展开",
+      "onboard_time": 1697809833,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 108440,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1697811363279,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2005876,
+        "num": 2005876,
+        "word": "广东通报女子产后跳楼身亡",
+        "onboard_time": 1697808032,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 768750,
+        "num": 768750,
+        "word": "王牌对王牌",
+        "onboard_time": 1697798011,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125939,
+        "num": 759896,
+        "word": "航天员吃到自己种的新鲜蔬菜了",
+        "onboard_time": 1697802631,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 752946,
+        "num": 752946,
+        "word": "老人穿红衣服进羊圈被羊顶死",
+        "onboard_time": 1697807975,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 743705,
+        "num": 743705,
+        "word": "12306回应200克葡萄售价60元",
+        "onboard_time": 1697807252,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 798323,
+        "num": 725759,
+        "word": "巴以冲突",
+        "onboard_time": 1697793334,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 700232,
+        "num": 700232,
+        "word": "李佳琦双十一预告",
+        "onboard_time": 1697807011,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 441057,
+        "num": 441057,
+        "word": "LPL又是内战",
+        "onboard_time": 1697808274,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 391604,
+        "num": 391604,
+        "word": "李健海边演唱会直播",
+        "onboard_time": 1697808695,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 386892,
+        "num": 386892,
+        "word": "巩皇永远能打",
+        "onboard_time": 1697810614,
+        "rank": 9,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1270541,
+        "num": 383911,
+        "word": "李兰迪留了长发",
+        "onboard_time": 1697809355,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 970597,
+        "num": 381344,
+        "word": "韩娱多位名人被曝吸毒",
+        "onboard_time": 1697803231,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455519,
+        "num": 373837,
+        "word": "小蓝姐姐原来长大后这么痛苦",
+        "onboard_time": 1697795251,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436379,
+        "num": 370160,
+        "word": "奶奶六年前给我买的金项链",
+        "onboard_time": 1697809896,
+        "rank": 13,
+        "category": "情感,时尚"
+      },
+      {
+        "raw_hot": 921038,
+        "num": 360508,
+        "word": "女子产后跳楼身亡派出所称其患抑郁症",
+        "onboard_time": 1697802751,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 399839,
+        "num": 356825,
+        "word": "杨幂素妆",
+        "onboard_time": 1697792855,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 439191,
+        "num": 352594,
+        "word": "青岛啤酒发布情况说明",
+        "onboard_time": 1697805872,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 349396,
+        "num": 349396,
+        "word": "五月天演唱会",
+        "onboard_time": 1697807492,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309636,
+        "num": 309636,
+        "word": "S13抽签",
+        "onboard_time": 1697807794,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290821,
+        "num": 290821,
+        "word": "以色列防长称将很快下达进攻加沙命令",
+        "onboard_time": 1697805212,
+        "rank": 19,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1822614,
+        "num": 285756,
+        "word": "杨迪 可以不喜爱但请别伤害",
+        "onboard_time": 1697807011,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668580,
+        "num": 280702,
+        "word": "月薪7K抠门三年攒下20万",
+        "onboard_time": 1697795853,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 272585,
+        "num": 272585,
+        "word": "G2战胜WBG",
+        "onboard_time": 1697800113,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 267408,
+        "num": 267408,
+        "word": "无意中看到了外公的网购记录",
+        "onboard_time": 1697793693,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263690,
+        "num": 263690,
+        "word": "李健演唱会",
+        "onboard_time": 1697809055,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 262309,
+        "num": 262309,
+        "word": "青岛啤酒称涉事麦芽已全部封存",
+        "onboard_time": 1697809294,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220186,
+        "num": 220186,
+        "word": "为什么阳光玫瑰变便宜也变难吃了",
+        "onboard_time": 1697803952,
+        "rank": 26,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 214495,
+        "num": 214495,
+        "word": "问心",
+        "onboard_time": 1697804852,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207037,
+        "num": 207037,
+        "word": "WBG领先一万被翻盘",
+        "onboard_time": 1697801252,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199125,
+        "num": 199125,
+        "word": "WB对战eStar",
+        "onboard_time": 1697810797,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 194300,
+        "num": 194300,
+        "word": "流星花园藤堂静灵感妆",
+        "onboard_time": 1697805754,
+        "rank": 30,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 176716,
+        "num": 176716,
+        "word": "李响喝柿子拿铁喝到劈叉",
+        "onboard_time": 1697806712,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168240,
+        "num": 168240,
+        "word": "不吃妆造的明星",
+        "onboard_time": 1697794173,
+        "rank": 32,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 165867,
+        "num": 165867,
+        "word": "上海海港1比2北京国安",
+        "onboard_time": 1697810915,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165781,
+        "num": 165781,
+        "word": "唐嫣钟汉良再次搭档",
+        "onboard_time": 1697798373,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163106,
+        "num": 163106,
+        "word": "为有暗香来",
+        "onboard_time": 1697798553,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151238,
+        "num": 151238,
+        "word": "神婆三年前算到李善均吸毒",
+        "onboard_time": 1697792493,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151036,
+        "num": 151036,
+        "word": "陈牧驰ELLEMEN",
+        "onboard_time": 1697791292,
+        "rank": 37,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150711,
+        "num": 150711,
+        "word": "张婧仪白色无袖背心",
+        "onboard_time": 1697808994,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148692,
+        "num": 148692,
+        "word": "以军逮捕哈马斯发言人",
+        "onboard_time": 1697796933,
+        "rank": 39,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141975,
+        "num": 141975,
+        "word": "男朋友和他爸爸的聊天记录",
+        "onboard_time": 1697797292,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 140977,
+        "num": 140977,
+        "word": "张学友身着羽绒服抵达成都",
+        "onboard_time": 1697807794,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132901,
+        "num": 132901,
+        "word": "天津一儿童疑遭开门杀后被碾身亡",
+        "onboard_time": 1697781513,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132651,
+        "num": 132651,
+        "word": "金钟奖",
+        "onboard_time": 1697808512,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 131123,
+        "num": 131123,
+        "word": "内娱演技进步很大的演员",
+        "onboard_time": 1697804013,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123888,
+        "num": 123888,
+        "word": "瑞士轮第三轮",
+        "onboard_time": 1697809833,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115918,
+        "num": 115918,
+        "word": "短道速滑",
+        "onboard_time": 1697811215,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115289,
+        "num": 115289,
+        "word": "白鹿换以爱为营郑书意头像",
+        "onboard_time": 1697795313,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113939,
+        "num": 113939,
+        "word": "民警150条短信指导男子逃出缅北",
+        "onboard_time": 1697807432,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108935,
+        "num": 108935,
+        "word": "四个动作把肩颈舒展开",
+        "onboard_time": 1697809833,
+        "rank": 49,
+        "category": "运动健身"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见新开发银行行长#"
+    }
+  }
+}

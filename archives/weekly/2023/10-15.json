@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697808857622,
+  "endTime": 1697811363279,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -531,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2005876,
+      "num": 2005876,
+      "word": "广东通报女子产后跳楼身亡",
+      "onboard_time": 1697808032,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2000048,
       "num": 2000048,
       "word": "年轻人开始反向消费了",
@@ -665,6 +673,14 @@
       "onboard_time": 1697627614,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1822614,
+      "num": 287352,
+      "word": "杨迪 可以不喜爱但请别伤害",
+      "onboard_time": 1697807011,
+      "rank": 20,
+      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1820817,
@@ -841,14 +857,6 @@
       "onboard_time": 1697452773,
       "rank": 9,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1636068,
-      "num": 287352,
-      "word": "杨迪 可以不喜爱但请别伤害",
-      "onboard_time": 1697807011,
-      "rank": 20,
-      "category": "社会新闻,艺人"
     },
     {
       "raw_hot": 1611627,
@@ -1299,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1270541,
+      "num": 383911,
+      "word": "李兰迪留了长发",
+      "onboard_time": 1697809355,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 1263704,
       "num": 1263704,
       "word": "突然明白你好李焕英名字起的有多好",
@@ -1513,14 +1529,6 @@
       "onboard_time": 1697763637,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1114951,
-      "num": 395324,
-      "word": "广东通报女子产后跳楼身亡",
-      "onboard_time": 1697808032,
-      "rank": 12,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1113887,
@@ -2763,6 +2771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 752946,
+      "num": 752946,
+      "word": "老人穿红衣服进羊圈被羊顶死",
+      "onboard_time": 1697807975,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 751780,
       "num": 751780,
       "word": "我们四个把日子过好比什么都强",
@@ -2777,6 +2793,14 @@
       "onboard_time": 1697442334,
       "rank": 12,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 743705,
+      "num": 743705,
+      "word": "12306回应200克葡萄售价60元",
+      "onboard_time": 1697807252,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 741165,
@@ -2939,14 +2963,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 716543,
-      "num": 716543,
-      "word": "12306回应200克葡萄售价60元",
-      "onboard_time": 1697807252,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 713772,
       "num": 465915,
       "word": "被狗咬伤女童尚未脱离危险",
@@ -2985,6 +3001,14 @@
       "onboard_time": 1697613814,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 700232,
+      "num": 700232,
+      "word": "李佳琦双十一预告",
+      "onboard_time": 1697807011,
+      "rank": 15,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 699487,
@@ -3769,14 +3793,6 @@
       "onboard_time": 1697777017,
       "rank": 11,
       "category": "网红,旅游"
-    },
-    {
-      "raw_hot": 571755,
-      "num": 571755,
-      "word": "李佳琦双十一预告",
-      "onboard_time": 1697807011,
-      "rank": 15,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 568964,
@@ -5299,6 +5315,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 441057,
+      "num": 441057,
+      "word": "LPL又是内战",
+      "onboard_time": 1697808274,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 439961,
       "num": 439961,
       "word": "蒲熠星刘奕君聊到电竞停不下来",
@@ -5361,6 +5385,14 @@
       "onboard_time": 1697450253,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 436379,
+      "num": 370160,
+      "word": "奶奶六年前给我买的金项链",
+      "onboard_time": 1697809896,
+      "rank": 13,
+      "category": "情感,时尚"
     },
     {
       "raw_hot": 436128,
@@ -5971,6 +6003,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 391604,
+      "num": 391604,
+      "word": "李健海边演唱会直播",
+      "onboard_time": 1697808695,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 391587,
       "num": 391587,
       "word": "于正否认为华浅重生是个梦",
@@ -6065,6 +6105,14 @@
       "onboard_time": 1697511993,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 386892,
+      "num": 386892,
+      "word": "巩皇永远能打",
+      "onboard_time": 1697810614,
+      "rank": 9,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 386868,
@@ -6424,14 +6472,6 @@
       "word": "少年欲跳桥轻生被无数双手紧抓救回",
       "onboard_time": 1697449474,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359352,
-      "num": 359352,
-      "word": "老人穿红衣服进羊圈被羊顶死",
-      "onboard_time": 1697807975,
-      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -8571,6 +8611,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 263690,
+      "num": 263690,
+      "word": "李健演唱会",
+      "onboard_time": 1697809055,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 263557,
       "num": 263557,
       "word": "C罗儿子签约利雅得胜利U13",
@@ -8633,6 +8681,14 @@
       "onboard_time": 1697419714,
       "rank": 32,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 262309,
+      "num": 262309,
+      "word": "青岛啤酒称涉事麦芽已全部封存",
+      "onboard_time": 1697809294,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 261687,
@@ -9097,14 +9153,6 @@
       "onboard_time": 1697427635,
       "rank": 32,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 248249,
-      "num": 179470,
-      "word": "LPL又是内战",
-      "onboard_time": 1697808274,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 248239,
@@ -11323,6 +11371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199125,
+      "num": 199125,
+      "word": "WB对战eStar",
+      "onboard_time": 1697810797,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199109,
       "num": 199109,
       "word": "方筱然操不完的心",
@@ -13123,14 +13179,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171133,
-      "num": 171133,
-      "word": "李健海边演唱会直播",
-      "onboard_time": 1697808695,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 171005,
       "num": 171005,
       "word": "徕芬电动牙刷",
@@ -13465,6 +13513,14 @@
       "onboard_time": 1697806173,
       "rank": 35,
       "category": "旅游,艺人"
+    },
+    {
+      "raw_hot": 165867,
+      "num": 165867,
+      "word": "上海海港1比2北京国安",
+      "onboard_time": 1697810915,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 165635,
@@ -14257,6 +14313,14 @@
       "onboard_time": 1697459196,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150711,
+      "num": 150711,
+      "word": "张婧仪白色无袖背心",
+      "onboard_time": 1697808994,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 150463,
@@ -15251,6 +15315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 123888,
+      "num": 123888,
+      "word": "瑞士轮第三轮",
+      "onboard_time": 1697809833,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123527,
       "num": 123527,
       "word": "德云社节目单",
@@ -15515,6 +15587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115918,
+      "num": 115918,
+      "word": "短道速滑",
+      "onboard_time": 1697811215,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115884,
       "num": 175233,
       "word": "如果王者荣耀是一张分级问卷",
@@ -15641,6 +15721,14 @@
       "onboard_time": 1697331450,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108935,
+      "num": 108935,
+      "word": "四个动作把肩颈舒展开",
+      "onboard_time": 1697809833,
+      "rank": 49,
+      "category": "运动健身"
     },
     {
       "raw_hot": 108919,
