@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 11:34:20
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/20 12:20:25
 </p>
 </blockquote>
 <p>
@@ -501,6 +501,12 @@ DOTA2中国队夺冠（热度：6586145）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%A4%A9%E5%8F%96451.8%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
+男子1天取451.8万银行柜员报警（热度：2754830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%BC%A0%E6%B3%BD%E7%BE%A4%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5%E6%9C%9D%E9%98%B3%E5%8C%BA%E6%B3%95%E9%99%A2%23" target="weibo">
 央视主持人张泽群实名举报朝阳区法院（热度：2754073）
 </a>
@@ -647,12 +653,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E6%AD%8C%E5%A6%88%E5%A6%88%E5%B7%B2%E6%88%90%E7%AB%8B%E4%BC%A0%E5%AA%92%E5%85%AC%E5%8F%B8%23" target="weibo">
 江歌妈妈已成立传媒公司（热度：2529963）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%901%E5%A4%A9%E5%8F%96451.8%E4%B8%87%E9%93%B6%E8%A1%8C%E6%9F%9C%E5%91%98%E6%8A%A5%E8%AD%A6%23" target="weibo">
-男子1天取451.8万银行柜员报警（热度：2519623）
 </a>
 </li>
 
@@ -1565,6 +1565,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%A4%B4%E8%90%9D%E8%8E%89%E5%8F%91%E6%96%87%E8%87%B4%E6%AD%89%23" target="weibo">
 狗头萝莉发文致歉（热度：1895203）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%8D%E5%BA%86%E9%A9%B1%E8%B5%B6%E5%A4%84%E7%BD%AE%E6%B5%81%E6%B5%AA%E7%8B%97%E4%BF%9D%E5%AE%89%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
+重庆驱赶处置流浪狗保安被停职（热度：1894733）
 </a>
 </li>
 
@@ -3279,6 +3285,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%96%B9%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E7%96%91%E8%A2%AB%E5%A9%86%E5%AE%B6%E9%80%BC%E6%AD%BB%23" target="weibo">
+警方回应女子产后疑被婆家逼死（热度：1289910）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E6%8D%82%E5%98%B4%E5%8E%9F%E5%9B%A0%23" target="weibo">
 关晓彤微博之夜捂嘴原因（热度：1287996）
 </a>
@@ -3335,6 +3347,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%8F%91%E7%8E%B0%E8%82%BF%E7%98%A4%E6%97%B6%E5%B7%B2%E7%BB%8F%E6%98%AF%E4%B8%AD%E6%99%9A%E6%9C%9F%23" target="weibo">
 很多人发现肿瘤时已经是中晚期（热度：1271340）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E4%B8%8D%E8%A7%89%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E5%9C%A8%E6%B5%81%E6%B5%AA%23" target="weibo">
+小狗不觉得自己是在流浪（热度：1270972）
 </a>
 </li>
 
@@ -5019,6 +5037,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23" target="weibo">
+网友乘地铁发现警犬已戴上嘴套（热度：923804）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E7%BE%A1%E6%85%95%E6%9D%9C%E6%B5%B7%E6%B6%9B%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 沈梦辰羡慕杜海涛的原因（热度：921803）
 </a>
@@ -5171,6 +5195,12 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E6%97%B6%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23" target="weibo">
 半夜醒来时不要看时间（热度：898831）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BB%8D%E6%98%8F%E8%BF%B7%23" target="weibo">
+遭恶犬咬伤女童仍昏迷（热度：898029）
 </a>
 </li>
 
@@ -5595,6 +5625,12 @@ Xiaomi HyperOS（热度：858223）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%85%E7%91%9F%E7%A7%B0%E4%B8%8D%E6%98%AF%E6%89%80%E6%9C%89%E6%B5%81%E6%B5%AA%E7%8B%97%E9%83%BD%E6%98%AF%E5%9D%8F%E7%8B%97%23" target="weibo">
+刘雅瑟称不是所有流浪狗都是坏狗（热度：857067）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D%23" target="weibo">
 王毅与伊朗外长通电话（热度：856734）
 </a>
@@ -5975,42 +6011,6 @@ Jennie个人单曲音源上线（热度：822249）
 <li>
 <a href="https://s.weibo.com/weibo?q=%234%E5%B2%81%E8%B5%B0%E5%A4%B1%E5%A5%B3%E7%AB%A5%E7%88%B6%E4%BA%B2%E5%9C%A8%E7%BD%91%E5%8F%8B%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%B1%82%E5%8A%A9%23" target="weibo">
 4岁走失女童父亲在网友评论区求助（热度：815757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E5%85%B3%E6%99%93%E5%BD%A4%E4%BA%8C%E6%90%AD%E6%BC%94%E5%85%84%E5%A6%B9%23" target="weibo">
-范丞丞关晓彤二搭演兄妹（热度：815073）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E4%B8%AD%E7%9A%84%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
-花海中的迪丽热巴（热度：814451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%20%E7%94%9F%E7%94%9F%E6%98%AF%E4%B8%80%E4%B8%AA%E5%BE%88%E7%A7%81%E4%BA%BA%E7%9A%84%E4%BD%9C%E5%93%81%23" target="weibo">
-林俊杰 生生是一个很私人的作品（热度：814059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E9%87%87%E8%AE%BF%E4%B8%80%E8%88%AC%E5%8F%AA%E6%9C%89%E4%B8%89%E4%B8%AA%E5%AD%97%23" target="weibo">
-全红婵的采访一般只有三个字（热度：813720）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A02024%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8D%E5%8D%95%23" target="weibo">
-网传2024湖南卫视跨年演唱会名单（热度：813554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8A%B3%E8%8F%B2%E5%8F%91%E6%96%87%E5%9B%9E%E5%BA%94%E4%BB%8E%E5%A4%AE%E8%A7%86%E7%A6%BB%E8%81%8C%23" target="weibo">
-刘芳菲发文回应从央视离职（热度：811640）
 </a>
 </li>
 

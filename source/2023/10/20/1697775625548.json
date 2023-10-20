@@ -1,0 +1,410 @@
+{
+  "runTime": 1697775625548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2754830,
+        "num": 2754830,
+        "word": "男子1天取451.8万银行柜员报警",
+        "onboard_time": 1697770291,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1894733,
+        "num": 1894733,
+        "word": "重庆驱赶处置流浪狗保安被停职",
+        "onboard_time": 1697773715,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 50454,
+        "num": 1403770,
+        "word": "杭州亚残运会火炬传递主题曲MV发布",
+        "onboard_time": 1697772816,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1289910,
+        "num": 1289910,
+        "word": "警方回应女子产后疑被婆家逼死",
+        "onboard_time": 1697772212,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1270972,
+        "num": 1270972,
+        "word": "小狗不觉得自己是在流浪",
+        "onboard_time": 1697772095,
+        "rank": 4,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 994097,
+        "num": 994097,
+        "word": "军队文职",
+        "onboard_time": 1697770652,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 923804,
+        "num": 923804,
+        "word": "网友乘地铁发现警犬已戴上嘴套",
+        "onboard_time": 1697772272,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 898029,
+        "num": 898029,
+        "word": "遭恶犬咬伤女童仍昏迷",
+        "onboard_time": 1697772392,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804069,
+        "num": 804069,
+        "word": "妈 咱们也要去好莱坞了",
+        "onboard_time": 1697763637,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 620586,
+        "num": 620586,
+        "word": "陈奕迅演唱会 抢票",
+        "onboard_time": 1697773595,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 857067,
+        "num": 580972,
+        "word": "刘雅瑟称不是所有流浪狗都是坏狗",
+        "onboard_time": 1697772095,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508235,
+        "num": 508235,
+        "word": "丈夫回应演员妻子遭两男子强抱",
+        "onboard_time": 1697765492,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 468062,
+        "num": 468062,
+        "word": "与宝马相撞出租车所属公司称司机已尽力刹车",
+        "onboard_time": 1697761597,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406023,
+        "num": 406023,
+        "word": "独居女生家被陌生男差1位试对密码",
+        "onboard_time": 1697768552,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379109,
+        "num": 379109,
+        "word": "沪指跌破3000点大关",
+        "onboard_time": 1697766752,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 345381,
+        "num": 345381,
+        "word": "槿汐姑姑居然演警匪剧了",
+        "onboard_time": 1697768972,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300211,
+        "num": 300211,
+        "word": "求职者称第一学历似乎成了污点",
+        "onboard_time": 1697765672,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277492,
+        "num": 277492,
+        "word": "23岁姑娘患乳腺癌与不良生活习惯有关",
+        "onboard_time": 1697729435,
+        "rank": 17,
+        "category": "社会新闻,健康医疗"
+      },
+      {
+        "raw_hot": 271679,
+        "num": 271679,
+        "word": "丫丫贴秋膘成功",
+        "onboard_time": 1697766693,
+        "rank": 18,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 108440,
+        "num": 268763,
+        "word": "从厨房洞见生活百态",
+        "onboard_time": 1697774613,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 417599,
+        "num": 268306,
+        "word": "睡眠不足的六个表现",
+        "onboard_time": 1697771971,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331621,
+        "num": 267802,
+        "word": "重庆对外经贸学院",
+        "onboard_time": 1697766272,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266725,
+        "num": 266725,
+        "word": "9次献血的女大学生捐髓救人",
+        "onboard_time": 1697770830,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224852,
+        "num": 224852,
+        "word": "仲溪午不剔骨仲夜阑就换刘子行来",
+        "onboard_time": 1697775575,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74790,
+        "num": 222258,
+        "word": "属于我的发光时刻",
+        "onboard_time": 1697774072,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221208,
+        "num": 221208,
+        "word": "萧敬腾 恋综",
+        "onboard_time": 1697759311,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219217,
+        "num": 219217,
+        "word": "詹姆斯杜兰特五年来首次对决",
+        "onboard_time": 1697772874,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215104,
+        "num": 215104,
+        "word": "王子奇情绪爆发的原因",
+        "onboard_time": 1697768613,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 211524,
+        "num": 211524,
+        "word": "RH阴性血哈萨克斯坦青年成为全球新闻官",
+        "onboard_time": 1697762375,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207571,
+        "num": 207571,
+        "word": "自己会开车后才知道的真相",
+        "onboard_time": 1697771613,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 204888,
+        "num": 204888,
+        "word": "马龙说热爱没有天花板",
+        "onboard_time": 1697775034,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200471,
+        "num": 200471,
+        "word": "毛晓彤替方筱然晒交班图",
+        "onboard_time": 1697774974,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196672,
+        "num": 196672,
+        "word": "C罗儿子签约利雅得胜利U13",
+        "onboard_time": 1697770830,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188757,
+        "num": 188757,
+        "word": "男子思念去世父亲哭着找警察求助",
+        "onboard_time": 1697774015,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178827,
+        "num": 178827,
+        "word": "长痘痘不建议吃的水果",
+        "onboard_time": 1697762557,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 174605,
+        "num": 174605,
+        "word": "好莱坞高收入演员愿捐巨款结束罢工",
+        "onboard_time": 1697766993,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173124,
+        "num": 173124,
+        "word": "为什么说旅游后容易分手",
+        "onboard_time": 1697760995,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171757,
+        "num": 171757,
+        "word": "成都偶遇戚薇吃烧烤",
+        "onboard_time": 1697766512,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165434,
+        "num": 165434,
+        "word": "王艺瑾赵粤新剧开播",
+        "onboard_time": 1697770894,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160034,
+        "num": 160034,
+        "word": "丈夫截瘫后妻子背着他摆摊8年",
+        "onboard_time": 1697774377,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136990,
+        "num": 136990,
+        "word": "G2回应抽中TheShy",
+        "onboard_time": 1697756543,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135037,
+        "num": 135037,
+        "word": "工资涨了我却变抠门了",
+        "onboard_time": 1697761114,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132877,
+        "num": 132877,
+        "word": "咽喉炎的救命稻草是什么",
+        "onboard_time": 1697771674,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128453,
+        "num": 128453,
+        "word": "世界上最黑的黑色花朵",
+        "onboard_time": 1697764295,
+        "rank": 43,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 128223,
+        "num": 128223,
+        "word": "重庆高校通报保安抓捕打死流浪狗",
+        "onboard_time": 1697765373,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127860,
+        "num": 127860,
+        "word": "台风三巴在广东再次登陆",
+        "onboard_time": 1697770231,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126335,
+        "num": 126335,
+        "word": "张颂文一人千面",
+        "onboard_time": 1697774254,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119634,
+        "num": 119634,
+        "word": "广州5人误食断肠草中毒",
+        "onboard_time": 1697766512,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119111,
+        "num": 119111,
+        "word": "仲溪午帮华浅准备二婚礼服",
+        "onboard_time": 1697772333,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114822,
+        "num": 114822,
+        "word": "女子坠亡疑产后遭婆家冷暴力",
+        "onboard_time": 1697774913,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见联合国秘书长#"
+    }
+  }
+}
