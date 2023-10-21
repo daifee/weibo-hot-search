@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697876374223,
+  "endTime": 1697877252287,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -9,6 +9,14 @@
       "onboard_time": 1697869710,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1850738,
+      "num": 1850738,
+      "word": "欧阳娣娣海选 淘汰",
+      "onboard_time": 1697875829,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 1798324,
@@ -65,6 +73,14 @@
       "onboard_time": 1697864371,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1478839,
+      "num": 1478839,
+      "word": "吃播 假吃",
+      "onboard_time": 1697875771,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1333582,
@@ -124,7 +140,7 @@
     },
     {
       "raw_hot": 1141969,
-      "num": 660076,
+      "num": 1083814,
       "word": "赵露思 人嘛该翻篇就得翻篇了",
       "onboard_time": 1697873250,
       "rank": 14,
@@ -321,14 +337,6 @@
       "onboard_time": 1697845526,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643148,
-      "num": 643148,
-      "word": "欧阳娣娣海选 淘汰",
-      "onboard_time": 1697875829,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 620914,
@@ -635,12 +643,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 390427,
-      "num": 315290,
-      "word": "吃播 假吃",
-      "onboard_time": 1697875771,
-      "rank": 13,
-      "category": "网红"
+      "raw_hot": 390958,
+      "num": 318757,
+      "word": "李一桐性感野猫妆",
+      "onboard_time": 1697871210,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 388985,
@@ -707,14 +715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 359374,
-      "num": 293993,
-      "word": "李一桐性感野猫妆",
-      "onboard_time": 1697871210,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351865,
       "num": 351865,
       "word": "周也 美的好轻松",
@@ -779,6 +779,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325050,
+      "num": 268901,
+      "word": "生理性喜欢才是爱的前提吗",
+      "onboard_time": 1697875352,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 320752,
       "num": 320752,
       "word": "林孝埈世界杯500米晋级",
@@ -809,6 +817,14 @@
       "onboard_time": 1697857888,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304689,
+      "num": 304689,
+      "word": "王鹤棣给hi6一点霸总震撼",
+      "onboard_time": 1697875590,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 302826,
@@ -921,14 +937,6 @@
       "onboard_time": 1697868212,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268901,
-      "num": 268901,
-      "word": "生理性喜欢才是爱的前提吗",
-      "onboard_time": 1697875352,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 267426,
@@ -1075,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 235933,
+      "num": 232231,
+      "word": "女子与男友吵架怒划16万爱马仕包",
+      "onboard_time": 1697873010,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 234864,
       "num": 234864,
       "word": "3小伙在自助火锅店喝掉60多瓶饮料",
@@ -1097,14 +1113,6 @@
       "onboard_time": 1697855071,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232231,
-      "num": 232231,
-      "word": "女子与男友吵架怒划16万爱马仕包",
-      "onboard_time": 1697873010,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 230491,
@@ -1211,6 +1219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 211122,
+      "num": 211122,
+      "word": "全网破防的袖珍妈妈回应带货质疑",
+      "onboard_time": 1697876912,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 209419,
       "num": 209419,
       "word": "WBG将对战KT",
@@ -1251,6 +1267,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 205580,
+      "num": 205580,
+      "word": "Gala单杀Ruler",
+      "onboard_time": 1697876189,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205463,
       "num": 205463,
       "word": "丞磊躺在西藏的田地上",
@@ -1289,6 +1313,14 @@
       "onboard_time": 1697807975,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201049,
+      "num": 179762,
+      "word": "曾舜晞进了个假种田剧吧",
+      "onboard_time": 1697877153,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 200574,
@@ -1347,14 +1379,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 193808,
-      "num": 193808,
-      "word": "王鹤棣给hi6一点霸总震撼",
-      "onboard_time": 1697875590,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193366,
       "num": 193366,
       "word": "杨幂素妆",
@@ -1368,6 +1392,14 @@
       "word": "鞠婧祎秋日排练照",
       "onboard_time": 1697861789,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189388,
+      "num": 176217,
+      "word": "王源微博转评赞破40亿",
+      "onboard_time": 1697875290,
+      "rank": 40,
       "category": "艺人"
     },
     {
@@ -1435,12 +1467,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 176217,
-      "num": 176217,
-      "word": "王源微博转评赞破40亿",
-      "onboard_time": 1697875290,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 175051,
+      "num": 175051,
+      "word": "吴宣仪害羞妆",
+      "onboard_time": 1697876610,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173701,
@@ -1619,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151915,
+      "num": 174723,
+      "word": "第一次对1000万有了实体概念",
+      "onboard_time": 1697877034,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 150526,
       "num": 150526,
       "word": "男子1个善举民警奖励1辆警车",
@@ -1633,6 +1673,14 @@
       "onboard_time": 1697851650,
       "rank": 48,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 149304,
+      "num": 149304,
+      "word": "傅韵哲起诉原际画",
+      "onboard_time": 1697876971,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 148850,
@@ -1891,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 113780,
-      "num": 177107,
-      "word": "Gala单杀Ruler",
-      "onboard_time": 1697876189,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 112028,
       "num": 112028,
       "word": "青岛啤酒称涉事麦芽已全部封存",
@@ -1913,6 +1953,14 @@
       "onboard_time": 1697804013,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 110845,
+      "num": 146169,
+      "word": "我爸第一次网购买的耳机架",
+      "onboard_time": 1697876670,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 107893,
@@ -1971,12 +2019,28 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 101649,
+      "num": 145524,
+      "word": "网传一学生宿舍内宰杀流浪狗",
+      "onboard_time": 1697877214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100419,
       "num": 100419,
       "word": "越老越苗条可能是骨质疏松信号",
       "onboard_time": 1697843842,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 99267,
+      "num": 142865,
+      "word": "高寒动车组将在成都上线",
+      "onboard_time": 1697876793,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 93810,
@@ -2091,6 +2155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46970,
+      "num": 1142097,
+      "word": "这条路使单程通行时间从一周缩至6小时",
+      "onboard_time": 1697871269,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46311,
       "num": 46311,
       "word": "海豚搁浅被好心人类联手营救",
@@ -2161,14 +2233,6 @@
       "onboard_time": 1697833993,
       "rank": 49,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 11964,
-      "num": 664027,
-      "word": "这条路使单程通行时间从一周缩至6小时",
-      "onboard_time": 1697871269,
-      "rank": 2,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

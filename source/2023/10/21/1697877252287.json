@@ -1,0 +1,410 @@
+{
+  "runTime": 1697877252287,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1850738,
+        "num": 1850738,
+        "word": "欧阳娣娣海选 淘汰",
+        "onboard_time": 1697875829,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1478839,
+        "num": 1478839,
+        "word": "吃播 假吃",
+        "onboard_time": 1697875771,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 46970,
+        "num": 1142097,
+        "word": "这条路使单程通行时间从一周缩至6小时",
+        "onboard_time": 1697871269,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1083814,
+        "num": 1083814,
+        "word": "赵露思 人嘛该翻篇就得翻篇了",
+        "onboard_time": 1697873250,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 972031,
+        "num": 972031,
+        "word": "墨香铜臭",
+        "onboard_time": 1697866953,
+        "rank": 4,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 696710,
+        "num": 696710,
+        "word": "钟薛高在职员工称已两三月未发工资",
+        "onboard_time": 1697871511,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434817,
+        "num": 434817,
+        "word": "张一山智斗切糕大爷",
+        "onboard_time": 1697873132,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 397790,
+        "num": 397790,
+        "word": "我们讨好型人格 打ok都是okk",
+        "onboard_time": 1697874090,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348796,
+        "num": 348796,
+        "word": "朱一龙河边的错误表演张力",
+        "onboard_time": 1697865872,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 318931,
+        "num": 318931,
+        "word": "四川泸州坠江宝马车被打捞出水",
+        "onboard_time": 1697872050,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 677261,
+        "num": 318900,
+        "word": "央视追踪四川女童被犬咬伤事件",
+        "onboard_time": 1697871511,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 410171,
+        "num": 318811,
+        "word": "老疯杨",
+        "onboard_time": 1697871210,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 390958,
+        "num": 318757,
+        "word": "李一桐性感野猫妆",
+        "onboard_time": 1697871210,
+        "rank": 12,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 365610,
+        "num": 318640,
+        "word": "斓曦 流浪猫狗有什么错",
+        "onboard_time": 1697864371,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265911,
+        "num": 318590,
+        "word": "男子1块钱拍下奔驰卖方拒绝发货",
+        "onboard_time": 1697868693,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318516,
+        "num": 318516,
+        "word": "河边的错误 河流是更接近真相的",
+        "onboard_time": 1697864191,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304689,
+        "num": 304689,
+        "word": "王鹤棣给hi6一点霸总震撼",
+        "onboard_time": 1697875590,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220306,
+        "num": 220306,
+        "word": "大量沙丁鱼涌入日本渔港后集体死亡",
+        "onboard_time": 1697862512,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 211122,
+        "num": 211122,
+        "word": "全网破防的袖珍妈妈回应带货质疑",
+        "onboard_time": 1697876912,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205580,
+        "num": 205580,
+        "word": "Gala单杀Ruler",
+        "onboard_time": 1697876189,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 663848,
+        "num": 204253,
+        "word": "大学四年买了三千只口红",
+        "onboard_time": 1697872412,
+        "rank": 20,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 325050,
+        "num": 201453,
+        "word": "生理性喜欢才是爱的前提吗",
+        "onboard_time": 1697875352,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 277270,
+        "num": 199290,
+        "word": "一场没有答案的映后交流",
+        "onboard_time": 1697869771,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235933,
+        "num": 195568,
+        "word": "女子与男友吵架怒划16万爱马仕包",
+        "onboard_time": 1697873010,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260291,
+        "num": 191427,
+        "word": "河边的错误 片方很有数",
+        "onboard_time": 1697857289,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 248685,
+        "num": 187982,
+        "word": "黄子韬他急了",
+        "onboard_time": 1697875170,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257629,
+        "num": 184102,
+        "word": "马哲请上班",
+        "onboard_time": 1697859089,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183888,
+        "num": 183888,
+        "word": "JDG对战LNG",
+        "onboard_time": 1697875471,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 242612,
+        "num": 183513,
+        "word": "朱一龙河边的错误上映海报",
+        "onboard_time": 1697857888,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170596,
+        "num": 182689,
+        "word": "援助加沙的大量物资仍滞留拉法口岸",
+        "onboard_time": 1697870732,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 222383,
+        "num": 181839,
+        "word": "霸道总裁和他的大学生弟弟",
+        "onboard_time": 1697875111,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210944,
+        "num": 180881,
+        "word": "王睡睡婚姻 沉没成本",
+        "onboard_time": 1697874571,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201049,
+        "num": 179762,
+        "word": "曾舜晞进了个假种田剧吧",
+        "onboard_time": 1697877153,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154097,
+        "num": 178872,
+        "word": "南京胖哥说为离开的女儿好好活着",
+        "onboard_time": 1697872591,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124157,
+        "num": 178387,
+        "word": "警犬进校园被大学生围观撸掉毛",
+        "onboard_time": 1697863890,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 233025,
+        "num": 177206,
+        "word": "重庆高校学生为团宠黄黄发讣告",
+        "onboard_time": 1697870611,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193398,
+        "num": 176649,
+        "word": "赵丽颖月桂女神妆",
+        "onboard_time": 1697866411,
+        "rank": 36,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 189388,
+        "num": 175907,
+        "word": "王源微博转评赞破40亿",
+        "onboard_time": 1697875290,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175051,
+        "num": 175051,
+        "word": "吴宣仪害羞妆",
+        "onboard_time": 1697876610,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151915,
+        "num": 174723,
+        "word": "第一次对1000万有了实体概念",
+        "onboard_time": 1697877034,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 174551,
+        "num": 174551,
+        "word": "李玟雕像",
+        "onboard_time": 1697864670,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171960,
+        "num": 171960,
+        "word": "JK罗琳 不是",
+        "onboard_time": 1697868335,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167694,
+        "num": 167694,
+        "word": "张元英 不是三次元人的感觉",
+        "onboard_time": 1697865872,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114805,
+        "num": 156919,
+        "word": "知情者称视频场地并非青岛啤酒原料仓库",
+        "onboard_time": 1697862571,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149304,
+        "num": 149304,
+        "word": "傅韵哲起诉原际画",
+        "onboard_time": 1697876971,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112179,
+        "num": 148033,
+        "word": "你每月到手工资有多少",
+        "onboard_time": 1697867192,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 110845,
+        "num": 146169,
+        "word": "我爸第一次网购买的耳机架",
+        "onboard_time": 1697876670,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101649,
+        "num": 145524,
+        "word": "网传一学生宿舍内宰杀流浪狗",
+        "onboard_time": 1697877214,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 99267,
+        "num": 142865,
+        "word": "高寒动车组将在成都上线",
+        "onboard_time": 1697876793,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 97584,
+        "num": 141365,
+        "word": "瓜帅说梅西的最差是别人的最好",
+        "onboard_time": 1697872531,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的朋友圈为何越来越大#"
+    }
+  }
+}

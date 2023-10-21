@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697876374223,
+  "endTime": 1697877252287,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2275,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1850738,
+      "num": 1850738,
+      "word": "欧阳娣娣海选 淘汰",
+      "onboard_time": 1697875829,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1849436,
       "num": 1849436,
       "word": "好莱坞翻拍你好李焕英",
@@ -3665,6 +3673,14 @@
       "onboard_time": 1696260997,
       "rank": 1,
       "category": "游戏,体育"
+    },
+    {
+      "raw_hot": 1478839,
+      "num": 1478839,
+      "word": "吃播 假吃",
+      "onboard_time": 1697875771,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 1478828,
@@ -5332,7 +5348,7 @@
     },
     {
       "raw_hot": 1141969,
-      "num": 660076,
+      "num": 1083814,
       "word": "赵露思 人嘛该翻篇就得翻篇了",
       "onboard_time": 1697873250,
       "rank": 14,
@@ -11561,14 +11577,6 @@
       "onboard_time": 1697003133,
       "rank": 22,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 643148,
-      "num": 643148,
-      "word": "欧阳娣娣海选 淘汰",
-      "onboard_time": 1697875829,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 642774,
@@ -20803,6 +20811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 390958,
+      "num": 318757,
+      "word": "李一桐性感野猫妆",
+      "onboard_time": 1697871210,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390863,
       "num": 390863,
       "word": "爱宝双胞胎闺女一个e型一个i型",
@@ -20841,14 +20857,6 @@
       "onboard_time": 1697621196,
       "rank": 30,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 390427,
-      "num": 315290,
-      "word": "吃播 假吃",
-      "onboard_time": 1697875771,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 390386,
@@ -22633,14 +22641,6 @@
       "onboard_time": 1697449474,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359374,
-      "num": 293993,
-      "word": "李一桐性感野猫妆",
-      "onboard_time": 1697871210,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 359352,
@@ -25091,6 +25091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 325050,
+      "num": 268901,
+      "word": "生理性喜欢才是爱的前提吗",
+      "onboard_time": 1697875352,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
       "raw_hot": 324704,
       "num": 296452,
       "word": "周杰伦上海演唱会场外氛围",
@@ -26489,6 +26497,14 @@
       "onboard_time": 1697766512,
       "rank": 21,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 304689,
+      "num": 304689,
+      "word": "王鹤棣给hi6一点霸总震撼",
+      "onboard_time": 1697875590,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 304618,
@@ -30233,14 +30249,6 @@
       "onboard_time": 1697383417,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 268901,
-      "num": 268901,
-      "word": "生理性喜欢才是爱的前提吗",
-      "onboard_time": 1697875352,
-      "rank": 22,
-      "category": "情感"
     },
     {
       "raw_hot": 268745,
@@ -34291,6 +34299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235933,
+      "num": 232231,
+      "word": "女子与男友吵架怒划16万爱马仕包",
+      "onboard_time": 1697873010,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 235923,
       "num": 464277,
       "word": "中国女排亚运4连胜",
@@ -34785,14 +34801,6 @@
       "onboard_time": 1696687423,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232231,
-      "num": 232231,
-      "word": "女子与男友吵架怒划16万爱马仕包",
-      "onboard_time": 1697873010,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232224,
@@ -37843,6 +37851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211122,
+      "num": 211122,
+      "word": "全网破防的袖珍妈妈回应带货质疑",
+      "onboard_time": 1697876912,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 211074,
       "num": 211074,
       "word": "侯明昊这次演大妖",
@@ -38905,6 +38921,14 @@
       "onboard_time": 1697253570,
       "rank": 25,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 205580,
+      "num": 205580,
+      "word": "Gala单杀Ruler",
+      "onboard_time": 1697876189,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 205511,
@@ -40105,6 +40129,14 @@
       "onboard_time": 1697299652,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 201049,
+      "num": 179762,
+      "word": "曾舜晞进了个假种田剧吧",
+      "onboard_time": 1697877153,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 200965,
@@ -41915,14 +41947,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193808,
-      "num": 193808,
-      "word": "王鹤棣给hi6一点霸总震撼",
-      "onboard_time": 1697875590,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193766,
       "num": 193766,
       "word": "小伙用玉米皮做凤冠奶奶戴上超惊艳",
@@ -43041,6 +43065,14 @@
       "onboard_time": 1697295336,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 189388,
+      "num": 176217,
+      "word": "王源微博转评赞破40亿",
+      "onboard_time": 1697875290,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 189333,
@@ -45659,14 +45691,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176217,
-      "num": 176217,
-      "word": "王源微博转评赞破40亿",
-      "onboard_time": 1697875290,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176076,
       "num": 176076,
       "word": "华浅被仲溪午囚禁",
@@ -45849,6 +45873,14 @@
       "onboard_time": 1697096495,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 175051,
+      "num": 175051,
+      "word": "吴宣仪害羞妆",
+      "onboard_time": 1697876610,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 175041,
@@ -49747,6 +49779,14 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 151915,
+      "num": 174723,
+      "word": "第一次对1000万有了实体概念",
+      "onboard_time": 1697877034,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 151861,
       "num": 151861,
       "word": "王玉雯尾音比AK还难压",
@@ -50129,6 +50169,14 @@
       "onboard_time": 1696585840,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149304,
+      "num": 149304,
+      "word": "傅韵哲起诉原际画",
+      "onboard_time": 1697876971,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 149160,
@@ -54035,14 +54083,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 113780,
-      "num": 177107,
-      "word": "Gala单杀Ruler",
-      "onboard_time": 1697876189,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 113644,
       "num": 113644,
       "word": "马哲的枪里还剩7发子弹",
@@ -54217,6 +54257,14 @@
       "onboard_time": 1697112755,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 110845,
+      "num": 146169,
+      "word": "我爸第一次网购买的耳机架",
+      "onboard_time": 1697876670,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 110775,
@@ -54635,6 +54683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 101649,
+      "num": 145524,
+      "word": "网传一学生宿舍内宰杀流浪狗",
+      "onboard_time": 1697877214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 101115,
       "num": 107358,
       "word": "食族人天官赐福漫画",
@@ -54760,6 +54816,14 @@
       "word": "女子集200多个硬币拼囍字庆闺蜜结婚",
       "onboard_time": 1697326824,
       "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 99267,
+      "num": 142865,
+      "word": "高寒动车组将在成都上线",
+      "onboard_time": 1697876793,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -56883,6 +56947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46970,
+      "num": 1142097,
+      "word": "这条路使单程通行时间从一周缩至6小时",
+      "onboard_time": 1697871269,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 46332,
       "num": 1049572,
       "word": "中国桥梁连着历史和现实的非凡跨越",
@@ -58089,14 +58161,6 @@
       "onboard_time": 1696235493,
       "rank": 49,
       "category": "体育,社会新闻"
-    },
-    {
-      "raw_hot": 11964,
-      "num": 664027,
-      "word": "这条路使单程通行时间从一周缩至6小时",
-      "onboard_time": 1697871269,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 11861,
