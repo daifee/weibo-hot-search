@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697895244607,
+  "endTime": 1697897649853,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -515,8 +515,8 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 547936,
-      "num": 547936,
+      "raw_hot": 555948,
+      "num": 555948,
       "word": "隐性饥饿正在偷走你的健康",
       "onboard_time": 1697891674,
       "rank": 24,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 529877,
-      "num": 319045,
+      "num": 374797,
       "word": "戚薇长裙三层楼高",
       "onboard_time": 1697890774,
       "rank": 25,
@@ -585,6 +585,14 @@
       "onboard_time": 1697879792,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 489516,
+      "num": 489516,
+      "word": "AG 上上签",
+      "onboard_time": 1697896779,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 489059,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 426432,
-      "num": 302227,
+      "num": 360817,
       "word": "傅园慧首谈上恋综的经历",
       "onboard_time": 1697892396,
       "rank": 15,
@@ -1011,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 339786,
+      "num": 241930,
+      "word": "女子称买烤鸭遇店员做假动作片肉",
+      "onboard_time": 1697894618,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 339442,
       "num": 339442,
       "word": "卢昱晓原生感万能小淡妆",
@@ -1091,6 +1107,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315630,
+      "num": 239979,
+      "word": "辽宁通报保安校内勒死流浪狗",
+      "onboard_time": 1697894976,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 314587,
       "num": 314587,
       "word": "JDG对战LNG",
@@ -1115,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 310219,
+      "num": 310219,
+      "word": "XDJ战胜AG",
+      "onboard_time": 1697895940,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 305640,
       "num": 305640,
       "word": "库里文班亚马跳球",
@@ -1124,7 +1156,7 @@
     },
     {
       "raw_hot": 305188,
-      "num": 305188,
+      "num": 387482,
       "word": "张常宁复出女排联赛",
       "onboard_time": 1697892811,
       "rank": 13,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1697846967,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254591,
+      "num": 254591,
+      "word": "螃蟹壳是最好的化痰散结的药",
+      "onboard_time": 1697891674,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 252138,
@@ -1636,7 +1676,7 @@
     },
     {
       "raw_hot": 211417,
-      "num": 240591,
+      "num": 243339,
       "word": "常州人才房可享3年0房租",
       "onboard_time": 1697893114,
       "rank": 18,
@@ -1707,12 +1747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 206467,
-      "num": 239549,
-      "word": "螃蟹壳是最好的化痰散结的药",
-      "onboard_time": 1697891674,
-      "rank": 36,
-      "category": "健康医疗"
+      "raw_hot": 206137,
+      "num": 206137,
+      "word": "周雨彤小野猫妆容",
+      "onboard_time": 1697894432,
+      "rank": 32,
+      "category": "音乐,美妆"
     },
     {
       "raw_hot": 206081,
@@ -1745,6 +1785,14 @@
       "onboard_time": 1697881891,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205024,
+      "num": 205024,
+      "word": "田嘉瑞诚恳的电了秦霄贤",
+      "onboard_time": 1697894976,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 203844,
@@ -1801,14 +1849,6 @@
       "onboard_time": 1697813616,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 199335,
-      "num": 182936,
-      "word": "辽宁通报保安校内勒死流浪狗",
-      "onboard_time": 1697894976,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 198966,
@@ -1881,14 +1921,6 @@
       "onboard_time": 1697866232,
       "rank": 33,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 194689,
-      "num": 194689,
-      "word": "女子称买烤鸭遇店员做假动作片肉",
-      "onboard_time": 1697894618,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 193765,
@@ -2027,28 +2059,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 180764,
-      "num": 180764,
-      "word": "周雨彤小野猫妆容",
-      "onboard_time": 1697894432,
-      "rank": 32,
-      "category": "音乐,美妆"
-    },
-    {
       "raw_hot": 180762,
       "num": 216825,
       "word": "i人的合照姿势",
       "onboard_time": 1697886272,
       "rank": 46,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 179739,
-      "num": 179739,
-      "word": "田嘉瑞诚恳的电了秦霄贤",
-      "onboard_time": 1697894976,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 178559,
@@ -2067,6 +2083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177016,
+      "num": 177016,
+      "word": "中国科幻作品再获雨果奖",
+      "onboard_time": 1697897436,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 175051,
       "num": 175051,
       "word": "吴宣仪害羞妆",
@@ -2081,6 +2105,22 @@
       "onboard_time": 1697850389,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173048,
+      "num": 173048,
+      "word": "连蔓儿 古代版金牌主播",
+      "onboard_time": 1697896541,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171987,
+      "num": 921095,
+      "word": "2023大湾区音乐汇",
+      "onboard_time": 1697895757,
+      "rank": 2,
+      "category": "音乐"
     },
     {
       "raw_hot": 171531,
@@ -2145,6 +2185,14 @@
       "onboard_time": 1697842399,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 164857,
+      "num": 164857,
+      "word": "变美点痣法",
+      "onboard_time": 1697896779,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 164647,
@@ -2337,6 +2385,14 @@
       "onboard_time": 1697855131,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 148326,
+      "num": 148326,
+      "word": "雨果奖今晚在成都揭晓",
+      "onboard_time": 1697896837,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147438,
@@ -2651,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115273,
+      "num": 177827,
+      "word": "曾经贪玩的搜救犬二驴帅气逆袭",
+      "onboard_time": 1697895277,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 112028,
       "num": 112028,
       "word": "青岛啤酒称涉事麦芽已全部封存",
@@ -2681,6 +2745,14 @@
       "onboard_time": 1697878472,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108931,
+      "num": 108931,
+      "word": "Stray Kids MEGAVERSE 舞台",
+      "onboard_time": 1697897558,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 107893,
@@ -3036,6 +3108,9 @@
     },
     {
       "word": "#丝路精神是共建一带一路最重要的力量源泉#"
+    },
+    {
+      "word": "#把一带一路建成创新之路#"
     }
   ]
 }
