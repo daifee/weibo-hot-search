@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697844846925,
+  "endTime": 1697850606082,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -27,6 +27,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1333582,
+      "num": 1088258,
+      "word": "被狗咬女童家属称每天医药费1万左右",
+      "onboard_time": 1697822901,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1233325,
+      "num": 1233325,
+      "word": "为什么阳光玫瑰变便宜也变难吃了",
+      "onboard_time": 1697803952,
+      "rank": 22,
+      "category": "社会新闻,美食"
+    },
+    {
       "raw_hot": 1177616,
       "num": 783480,
       "word": "杨迪 可以不喜爱但请别伤害",
@@ -35,20 +51,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1088258,
-      "num": 1088258,
-      "word": "被狗咬女童家属称每天医药费1万左右",
-      "onboard_time": 1697822901,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1078570,
       "num": 414267,
       "word": "猫肉按每斤4块5充当猪羊肉",
       "onboard_time": 1697812716,
       "rank": 10,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 917846,
+      "num": 333575,
+      "word": "薛之谦演唱会改词为流浪狗发声",
+      "onboard_time": 1697845267,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 860300,
+      "num": 440728,
+      "word": "巴勒斯坦民众与以色列军警发生冲突",
+      "onboard_time": 1697844202,
+      "rank": 6,
+      "category": "国外要闻,军事"
     },
     {
       "raw_hot": 778515,
@@ -75,12 +99,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 651603,
-      "num": 651603,
-      "word": "为什么阳光玫瑰变便宜也变难吃了",
-      "onboard_time": 1697803952,
-      "rank": 22,
-      "category": "社会新闻,美食"
+      "raw_hot": 645582,
+      "num": 285299,
+      "word": "90后夫妻产下猫叫患儿医院被起诉",
+      "onboard_time": 1697845526,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 623364,
+      "num": 372361,
+      "word": "广州5岁女童被小区内犬只咬伤",
+      "onboard_time": 1697847749,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 582742,
+      "num": 417550,
+      "word": "加沙居民早起排队3小时抢面饼",
+      "onboard_time": 1697847511,
+      "rank": 8,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 542407,
@@ -89,6 +129,14 @@
       "onboard_time": 1697803231,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 504059,
+      "num": 504059,
+      "word": "网红罗大美遇害案经过",
+      "onboard_time": 1697849848,
+      "rank": 3,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 460829,
@@ -115,6 +163,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 448286,
+      "num": 448286,
+      "word": "人生大事收视率破1",
+      "onboard_time": 1697847570,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 432962,
       "num": 432962,
       "word": "金牛座越来越冷漠的原因",
@@ -123,12 +179,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 430837,
+      "num": 430837,
+      "word": "广西平果一车间发生爆炸",
+      "onboard_time": 1697846608,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 426772,
       "num": 426772,
       "word": "iPhone的手电筒可以调节亮度",
       "onboard_time": 1697813434,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 423325,
+      "num": 423325,
+      "word": "怎么判断是否感染肺炎支原体",
+      "onboard_time": 1697846130,
+      "rank": 7,
+      "category": "知识科普,健康医疗"
     },
     {
       "raw_hot": 417361,
@@ -155,20 +227,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 384793,
-      "num": 384793,
-      "word": "巴勒斯坦民众与以色列军警发生冲突",
-      "onboard_time": 1697844202,
-      "rank": 6,
-      "category": "国外要闻,军事"
-    },
-    {
       "raw_hot": 377585,
       "num": 377585,
       "word": "时代少年团澳门演唱会的票价",
       "onboard_time": 1697817931,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 343697,
+      "num": 343697,
+      "word": "美国把援乌炮弹转送以色列",
+      "onboard_time": 1697845226,
+      "rank": 13,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 335244,
+      "num": 335244,
+      "word": "宋佳笑到扶李现",
+      "onboard_time": 1697848649,
+      "rank": 14,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 326154,
@@ -179,12 +259,52 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 290108,
-      "num": 290108,
+      "raw_hot": 310503,
+      "num": 310503,
       "word": "你好李焕英 人本身的情感要素",
       "onboard_time": 1697821705,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 290150,
+      "num": 290150,
+      "word": "张铭恩新剧演家仆",
+      "onboard_time": 1697850570,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 286051,
+      "num": 286051,
+      "word": "花儿与少年",
+      "onboard_time": 1697847989,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 285798,
+      "num": 285798,
+      "word": "中方驳斥美方炒作中国有超500枚核弹头",
+      "onboard_time": 1697846431,
+      "rank": 19,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 283063,
+      "num": 283063,
+      "word": "不要再把电脑触摸板当摆设了",
+      "onboard_time": 1697849250,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 275179,
+      "num": 275179,
+      "word": "王耀庆喀什古城偶遇新疆胡歌",
+      "onboard_time": 1697847328,
+      "rank": 22,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267426,
@@ -219,12 +339,68 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 237967,
+      "num": 237967,
+      "word": "毛晓彤问心演技",
+      "onboard_time": 1697849789,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237809,
+      "num": 237809,
+      "word": "阿根廷世界杯冠军成员被禁足两年",
+      "onboard_time": 1697850029,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 236574,
+      "num": 236574,
+      "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
+      "onboard_time": 1697847931,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234864,
+      "num": 234864,
+      "word": "3小伙在自助火锅店喝掉60多瓶饮料",
+      "onboard_time": 1697846306,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 234167,
+      "num": 234167,
+      "word": "日综采访中国老人长寿秘诀",
+      "onboard_time": 1697846006,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 225618,
       "num": 225618,
       "word": "二手玫瑰冠军",
       "onboard_time": 1697811755,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210981,
+      "num": 210981,
+      "word": "你是否认同 追竞让人审美降级",
+      "onboard_time": 1697849428,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 208724,
+      "num": 208724,
+      "word": "维生素D要吃到几岁",
+      "onboard_time": 1697846608,
+      "rank": 30,
+      "category": "母婴育儿,知识科普"
     },
     {
       "raw_hot": 206729,
@@ -259,11 +435,51 @@
       "category": "情感"
     },
     {
+      "raw_hot": 196272,
+      "num": 196272,
+      "word": "仲溪午告白",
+      "onboard_time": 1697844624,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193366,
       "num": 193366,
       "word": "杨幂素妆",
       "onboard_time": 1697792855,
       "rank": 28,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 186281,
+      "num": 186281,
+      "word": "清融 大家别骂47了呗",
+      "onboard_time": 1697846668,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 185995,
+      "num": 185995,
+      "word": "王鹤棣巧克力腹肌",
+      "onboard_time": 1697847749,
+      "rank": 33,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 184746,
+      "num": 184746,
+      "word": "生吃贝利",
+      "onboard_time": 1697849550,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 176169,
+      "num": 176169,
+      "word": "关晓彤机械姬妆",
+      "onboard_time": 1697849310,
+      "rank": 36,
       "category": "作品衍生,美妆"
     },
     {
@@ -315,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 155248,
+      "num": 155248,
+      "word": "日本老年人养老金现状",
+      "onboard_time": 1697847088,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 154062,
       "num": 154062,
       "word": "奶奶六年前给我买的金项链",
@@ -323,12 +547,44 @@
       "category": "情感,时尚"
     },
     {
+      "raw_hot": 150757,
+      "num": 150757,
+      "word": "当霉霉的电影在中国内地上映",
+      "onboard_time": 1697850333,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 146295,
+      "num": 146295,
+      "word": "封神中戏校园路演",
+      "onboard_time": 1697848711,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 141786,
+      "num": 141786,
+      "word": "这列火车的乘客竟是黑山羊",
+      "onboard_time": 1697848767,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 140285,
       "num": 140285,
       "word": "现在孩子的书房都这么先进了吗",
       "onboard_time": 1697844503,
       "rank": 17,
       "category": "其它"
+    },
+    {
+      "raw_hot": 137711,
+      "num": 137711,
+      "word": "749局有1700个特效镜头",
+      "onboard_time": 1697849428,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 137035,
@@ -355,12 +611,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135771,
+      "num": 137736,
+      "word": "已经彻底当台偶看了",
+      "onboard_time": 1697850511,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134036,
+      "num": 134036,
+      "word": "张雨霏200蝶三连冠",
+      "onboard_time": 1697848889,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133845,
       "num": 133845,
       "word": "问心",
       "onboard_time": 1697804852,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131862,
+      "num": 130253,
+      "word": "华晨宇逻辑在线",
+      "onboard_time": 1697850208,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 130611,
@@ -371,20 +651,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130270,
+      "num": 130270,
+      "word": "山东一地改良盐碱地粮食总产值达2.8亿元",
+      "onboard_time": 1697850511,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 128496,
       "num": 128496,
       "word": "五月天演唱会",
       "onboard_time": 1697807492,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 126994,
-      "num": 126994,
-      "word": "仲溪午告白",
-      "onboard_time": 1697844624,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 125322,
@@ -625,6 +905,14 @@
       "onboard_time": 1697811215,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33614,
+      "num": 631071,
+      "word": "大道之行筑梦丝路",
+      "onboard_time": 1697848049,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 29643,

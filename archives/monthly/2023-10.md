@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 07:34:06
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 09:10:06
 </p>
 </blockquote>
 <p>
@@ -3237,6 +3237,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23" target="weibo">
+被狗咬女童家属称每天医药费1万左右（热度：1333582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%97%B2%E9%B1%BC%E8%BD%AC%E5%8D%96%E9%97%A8%E7%A5%A8%E6%BC%94%E5%87%BA%E7%BB%93%E6%9D%9F%E6%89%8D%E5%8F%AF%E7%A1%AE%E8%AE%A4%E6%94%B6%E8%B4%A7%23" target="weibo">
 闲鱼转卖门票演出结束才可确认收货（热度：1333306）
 </a>
@@ -3581,6 +3587,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%AF%AE%E4%B8%80%E5%88%86%E4%B9%8B%E5%B7%AE%E8%BE%93%E4%BA%86%23" target="weibo">
 男篮一分之差输了（热度：1234452）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E9%98%B3%E5%85%89%E7%8E%AB%E7%91%B0%E5%8F%98%E4%BE%BF%E5%AE%9C%E4%B9%9F%E5%8F%98%E9%9A%BE%E5%90%83%E4%BA%86%23" target="weibo">
+为什么阳光玫瑰变便宜也变难吃了（热度：1233325）
 </a>
 </li>
 
@@ -4181,12 +4193,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9B%A8%E8%8F%B2vs%E5%AE%89%E6%B4%97%E8%8E%B9%23" target="weibo">
 陈雨菲vs安洗莹（热度：1088296）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23" target="weibo">
-被狗咬女童家属称每天医药费1万左右（热度：1088258）
 </a>
 </li>
 
@@ -5253,6 +5259,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A%E6%94%B9%E8%AF%8D%E4%B8%BA%E6%B5%81%E6%B5%AA%E7%8B%97%E5%8F%91%E5%A3%B0%23" target="weibo">
+薛之谦演唱会改词为流浪狗发声（热度：917846）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E5%B9%B2%E9%83%A8%E6%B5%81%E5%87%BA%E4%B8%8D%E9%9B%85%E8%A7%86%E9%A2%91%E8%A2%AB%E5%81%9C%E8%81%8C%23" target="weibo">
 两干部流出不雅视频被停职（热度：917812）
 </a>
@@ -5781,6 +5793,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E6%B0%91%E4%BC%97%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E5%86%9B%E8%AD%A6%E5%8F%91%E7%94%9F%E5%86%B2%E7%AA%81%23" target="weibo">
+巴勒斯坦民众与以色列军警发生冲突（热度：860300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%94%E5%8F%B0%E5%8E%BF7%E4%BA%BA%E7%AA%92%E6%81%AF%E6%AD%BB%E4%BA%A1%E5%88%9D%E5%88%A4%E7%B3%BB%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%23" target="weibo">
 五台县7人窒息死亡初判系一氧化碳中毒（热度：858914）
 </a>
@@ -5993,24 +6011,6 @@ BLG对战KT（热度：850932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%9B%BF%E9%A1%BE%E4%BD%B3%E7%9C%8B%E5%88%B0%E4%BA%86%E7%9D%A1%E8%8E%B2%E7%9C%9F%E8%BF%B9%23" target="weibo">
 童瑶替顾佳看到了睡莲真迹（热度：840705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E4%B8%80%E6%AC%A1%E6%89%93%E6%AD%BB%E6%89%93%E4%BC%A47%E5%90%8D%E8%AE%B0%E8%80%85%23" target="weibo">
-以军一次打死打伤7名记者（热度：839484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%9A%E9%97%B9%E9%92%9F%23" target="weibo">
-定闹钟（热度：838379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%B8%96%E6%8E%92%E7%A7%AF%E5%88%86%E5%85%A8%E6%98%AF%E5%86%A0%E5%86%9B%23" target="weibo">
-孙颖莎世排积分全是冠军（热度：837610）
 </a>
 </li>
 
