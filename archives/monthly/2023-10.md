@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 10:21:00
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 10:34:09
 </p>
 </blockquote>
 <p>
@@ -3507,6 +3507,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB2%E6%AC%A1%E9%94%81%E5%96%89%23" target="weibo">
+老师上课没收学生手机被2次锁喉（热度：1262976）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%9F%A5%E5%90%8D%E5%AA%92%E4%BD%93%E4%BA%BA%E6%AE%B5%E6%9A%84%E5%A4%B1%E8%81%94%23" target="weibo">
 曝知名媒体人段暄失联（热度：1260353）
 </a>
@@ -3957,6 +3963,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E8%AF%B4%E5%85%B3%E6%99%93%E5%BD%A4%E4%B8%8D%E6%98%AF%E4%BB%A5%E5%89%8D%E7%9A%84%E5%85%B3%E6%99%93%E5%BD%A4%E4%BA%86%23" target="weibo">
+徐志胜说关晓彤不是以前的关晓彤了（热度：1144750）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%98%E5%9C%B0%E9%93%81%E5%8F%91%E7%8E%B0%E8%AD%A6%E7%8A%AC%E5%B7%B2%E6%88%B4%E4%B8%8A%E5%98%B4%E5%A5%97%23" target="weibo">
 网友乘地铁发现警犬已戴上嘴套（热度：1143121）
 </a>
@@ -4025,12 +4037,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%88%E6%A5%9A%E8%90%A7%E4%B9%9F%E5%8E%BB%E4%BA%86%E5%B0%81%E7%A5%9E%E8%AE%AD%E7%BB%83%E8%90%A5%23" target="weibo">
 屈楚萧也去了封神训练营（热度：1124782）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB2%E6%AC%A1%E9%94%81%E5%96%89%23" target="weibo">
-老师上课没收学生手机被2次锁喉（热度：1123479）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG对战KT（热度：850932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E6%B8%A3%E6%9C%9D%E5%87%B0%23" target="weibo">
 万渣朝凰（热度：841722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
-直播间卖一个亿能赚多少钱（热度：841669）
 </a>
 </li>
 

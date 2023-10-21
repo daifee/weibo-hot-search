@@ -1,0 +1,410 @@
+{
+  "runTime": 1697855649408,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1144750,
+        "num": 1144750,
+        "word": "徐志胜说关晓彤不是以前的关晓彤了",
+        "onboard_time": 1697852969,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 725279,
+        "num": 725279,
+        "word": "小慧君胜诉",
+        "onboard_time": 1697818531,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 29456,
+        "num": 640895,
+        "word": "大道之行筑梦丝路",
+        "onboard_time": 1697848049,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1142110,
+        "num": 625471,
+        "word": "网红罗大美遇害案经过",
+        "onboard_time": 1697849848,
+        "rank": 3,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 600573,
+        "num": 600573,
+        "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
+        "onboard_time": 1697847931,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 552231,
+        "num": 552231,
+        "word": "你好星期六全员总裁文学",
+        "onboard_time": 1697854650,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 475047,
+        "num": 475047,
+        "word": "巴勒斯坦民众与以色列军警发生冲突",
+        "onboard_time": 1697844202,
+        "rank": 6,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 474595,
+        "num": 474595,
+        "word": "国考报名人数已突破100万",
+        "onboard_time": 1697853391,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 458787,
+        "num": 458787,
+        "word": "已经彻底当台偶看了",
+        "onboard_time": 1697850511,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368236,
+        "num": 446639,
+        "word": "为什么阳光玫瑰变便宜也变难吃了",
+        "onboard_time": 1697803952,
+        "rank": 9,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 1262976,
+        "num": 441962,
+        "word": "老师上课没收学生手机被2次锁喉",
+        "onboard_time": 1697851471,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 463564,
+        "num": 438836,
+        "word": "中国流浪狗数量高达4000万只",
+        "onboard_time": 1697850807,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434829,
+        "num": 434829,
+        "word": "邓紫棋美拉德妆",
+        "onboard_time": 1697851411,
+        "rank": 12,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 404482,
+        "num": 404482,
+        "word": "肖战风衣大片",
+        "onboard_time": 1697853934,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 342631,
+        "num": 342631,
+        "word": "孙灏羽",
+        "onboard_time": 1697850691,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 618589,
+        "num": 320571,
+        "word": "薛之谦演唱会改词为流浪狗发声",
+        "onboard_time": 1697845267,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292334,
+        "num": 292334,
+        "word": "巴以冲突超5600人死亡",
+        "onboard_time": 1697854111,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 292247,
+        "num": 292247,
+        "word": "张铭恩新剧演家仆",
+        "onboard_time": 1697850570,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 287256,
+        "num": 287256,
+        "word": "边伯贤 英雄联盟新歌",
+        "onboard_time": 1697854111,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 279387,
+        "num": 279387,
+        "word": "贵州三个小朋友捡了个小小朋友",
+        "onboard_time": 1697853510,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 723426,
+        "num": 265018,
+        "word": "广州5岁女童被小区内犬只咬伤",
+        "onboard_time": 1697847749,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 511975,
+        "num": 258032,
+        "word": "被狗咬女童家属称每天医药费1万左右",
+        "onboard_time": 1697822901,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328349,
+        "num": 255444,
+        "word": "90后夫妻产下猫叫患儿医院被起诉",
+        "onboard_time": 1697845526,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 243931,
+        "num": 243931,
+        "word": "不要再把电脑触摸板当摆设了",
+        "onboard_time": 1697849250,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 238952,
+        "num": 238952,
+        "word": "今晚林黄大战",
+        "onboard_time": 1697854950,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233091,
+        "num": 233091,
+        "word": "杭州亚残运会中国代表团旗手公布",
+        "onboard_time": 1697855071,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227380,
+        "num": 227380,
+        "word": "孩子跟谁睡就愿意和谁亲吗",
+        "onboard_time": 1697853934,
+        "rank": 26,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 225872,
+        "num": 225872,
+        "word": "pp 椰树pose",
+        "onboard_time": 1697853510,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213798,
+        "num": 213798,
+        "word": "林孝埈世界杯500米晋级",
+        "onboard_time": 1697850871,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205463,
+        "num": 205463,
+        "word": "丞磊躺在西藏的田地上",
+        "onboard_time": 1697854950,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255633,
+        "num": 204311,
+        "word": "二手玫瑰最初化浓妆是因为没分到包子吃",
+        "onboard_time": 1697855249,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202123,
+        "num": 202123,
+        "word": "加沙居民早起排队3小时抢面饼",
+        "onboard_time": 1697847511,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 190802,
+        "num": 190802,
+        "word": "你好李焕英 人本身的情感要素",
+        "onboard_time": 1697821705,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183242,
+        "num": 183242,
+        "word": "广东女性乳腺结节检出率高于全国",
+        "onboard_time": 1697855369,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176352,
+        "num": 176352,
+        "word": "伐木工人伍佰",
+        "onboard_time": 1697854229,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175602,
+        "num": 175602,
+        "word": "人生大事收视率破1",
+        "onboard_time": 1697847570,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173880,
+        "num": 173880,
+        "word": "女大收拾收拾准备升咖了",
+        "onboard_time": 1697855309,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167818,
+        "num": 167818,
+        "word": "当霉霉的电影在中国内地上映",
+        "onboard_time": 1697850333,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164500,
+        "num": 164500,
+        "word": "澳洲的物价真的太残忍了",
+        "onboard_time": 1697855431,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163484,
+        "num": 163484,
+        "word": "高叶高马尾银白挑染",
+        "onboard_time": 1697854650,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154921,
+        "num": 154921,
+        "word": "关晓彤机械姬妆",
+        "onboard_time": 1697849310,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 152934,
+        "num": 152934,
+        "word": "美国把援乌炮弹转送以色列",
+        "onboard_time": 1697845226,
+        "rank": 41,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 146185,
+        "num": 146185,
+        "word": "猫肉按每斤4块5充当猪羊肉",
+        "onboard_time": 1697812716,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145842,
+        "num": 145842,
+        "word": "孙龙刘少昂1000米晋级",
+        "onboard_time": 1697850871,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145619,
+        "num": 145619,
+        "word": "原来这就是纯狱风",
+        "onboard_time": 1697855131,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142838,
+        "num": 142838,
+        "word": "多国以色列使领馆遭到冲击",
+        "onboard_time": 1697827215,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 141474,
+        "num": 141474,
+        "word": "王鹤棣巧克力腹肌",
+        "onboard_time": 1697847749,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 130699,
+        "num": 130699,
+        "word": "0713的友情也太好哭了",
+        "onboard_time": 1697854352,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122624,
+        "num": 122624,
+        "word": "维生素D要吃到几岁",
+        "onboard_time": 1697846608,
+        "rank": 48,
+        "category": "母婴育儿,知识科普"
+      },
+      {
+        "raw_hot": 120139,
+        "num": 120139,
+        "word": "王耀庆喀什古城偶遇新疆胡歌",
+        "onboard_time": 1697847328,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的朋友圈为何越来越大#"
+    }
+  }
+}
