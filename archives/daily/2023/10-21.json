@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697862002810,
+  "endTime": 1697862844918,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -163,20 +163,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 737826,
+      "num": 448263,
+      "word": "女子离婚后发现前夫婚内出轨生子",
+      "onboard_time": 1697856930,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 708669,
       "num": 708669,
       "word": "黄牛一人收100带歌迷强闯演唱会",
       "onboard_time": 1697859933,
       "rank": 4,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 693200,
-      "num": 448263,
-      "word": "女子离婚后发现前夫婚内出轨生子",
-      "onboard_time": 1697856930,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 663452,
@@ -265,6 +265,22 @@
       "onboard_time": 1697857289,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 505770,
+      "num": 505770,
+      "word": "汉服圈被雪王挤进去了",
+      "onboard_time": 1697860471,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 483905,
+      "num": 397689,
+      "word": "流浪猫第一次吃猫条连声说好吃",
+      "onboard_time": 1697860710,
+      "rank": 30,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 480267,
@@ -395,20 +411,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 395249,
-      "num": 395249,
-      "word": "汉服圈被雪王挤进去了",
-      "onboard_time": 1697860471,
-      "rank": 14,
-      "category": "幽默"
+      "raw_hot": 395298,
+      "num": 395298,
+      "word": "骄阳似我",
+      "onboard_time": 1697860831,
+      "rank": 22,
+      "category": "读书作家"
     },
     {
-      "raw_hot": 392398,
-      "num": 223813,
-      "word": "流浪猫第一次吃猫条连声说好吃",
-      "onboard_time": 1697860710,
-      "rank": 30,
-      "category": "动物萌宠"
+      "raw_hot": 388985,
+      "num": 296921,
+      "word": "女子网购500件3.8元毛衣到手货不对板",
+      "onboard_time": 1697861431,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 387322,
@@ -531,14 +547,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 290820,
-      "num": 290820,
-      "word": "骄阳似我",
-      "onboard_time": 1697860831,
-      "rank": 22,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 287256,
       "num": 287256,
       "word": "边伯贤 英雄联盟新歌",
@@ -561,6 +569,14 @@
       "onboard_time": 1697846431,
       "rank": 19,
       "category": "军事"
+    },
+    {
+      "raw_hot": 281872,
+      "num": 229773,
+      "word": "知情者称视频场地并非青岛啤酒原料仓库",
+      "onboard_time": 1697862571,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 276935,
@@ -595,14 +611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258776,
-      "num": 220415,
-      "word": "女子网购500件3.8元毛衣到手货不对板",
-      "onboard_time": 1697861431,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258389,
       "num": 258389,
       "word": "当霉霉的电影在中国内地上映",
@@ -627,6 +635,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 255026,
+      "num": 255026,
+      "word": "河边的错误",
+      "onboard_time": 1697846967,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252138,
       "num": 226568,
       "word": "孙龙刘少昂1000米晋级",
@@ -649,6 +665,14 @@
       "onboard_time": 1697853510,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 241946,
+      "num": 241946,
+      "word": "莲花卿温记",
+      "onboard_time": 1697858970,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 240607,
@@ -683,14 +707,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 236307,
-      "num": 236307,
-      "word": "莲花卿温记",
-      "onboard_time": 1697858970,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 234864,
       "num": 234864,
       "word": "3小伙在自助火锅店喝掉60多瓶饮料",
@@ -715,12 +731,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 231103,
-      "num": 231103,
-      "word": "河边的错误",
-      "onboard_time": 1697846967,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 229802,
+      "num": 229802,
+      "word": "4位白发奶奶聚会涮火锅有说有笑",
+      "onboard_time": 1697862333,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 227380,
@@ -747,6 +763,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 225976,
+      "num": 225976,
+      "word": "沪指3000点跌破51次也能站上来51次",
+      "onboard_time": 1697859331,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 225618,
       "num": 225618,
       "word": "二手玫瑰冠军",
@@ -769,14 +793,6 @@
       "onboard_time": 1697849428,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 216742,
-      "num": 216742,
-      "word": "沪指3000点跌破51次也能站上来51次",
-      "onboard_time": 1697859331,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 216260,
@@ -883,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197701,
+      "num": 197701,
+      "word": "孟佳和路边的狗对话",
+      "onboard_time": 1697862031,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196272,
       "num": 196272,
       "word": "仲溪午告白",
@@ -897,6 +921,14 @@
       "onboard_time": 1697792855,
       "rank": 28,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 192744,
+      "num": 192744,
+      "word": "鞠婧祎秋日排练照",
+      "onboard_time": 1697861789,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 187855,
@@ -939,20 +971,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 178271,
-      "num": 178271,
-      "word": "鞠婧祎秋日排练照",
-      "onboard_time": 1697861789,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 173701,
       "num": 173701,
       "word": "谷爱凌说不要害怕做自己的最好",
       "onboard_time": 1697850389,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172142,
+      "num": 172142,
+      "word": "大量沙丁鱼涌入日本渔港后集体死亡",
+      "onboard_time": 1697862512,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170593,

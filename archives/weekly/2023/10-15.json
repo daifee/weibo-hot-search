@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697862002810,
+  "endTime": 1697862844918,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -2979,6 +2979,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 737826,
+      "num": 448263,
+      "word": "女子离婚后发现前夫婚内出轨生子",
+      "onboard_time": 1697856930,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 736892,
       "num": 676511,
       "word": "南京1912玄武酒吧",
@@ -3233,14 +3241,6 @@
       "onboard_time": 1697503476,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 693200,
-      "num": 448263,
-      "word": "女子离婚后发现前夫婚内出轨生子",
-      "onboard_time": 1697856930,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 692831,
@@ -4707,6 +4707,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 505770,
+      "num": 505770,
+      "word": "汉服圈被雪王挤进去了",
+      "onboard_time": 1697860471,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 505405,
       "num": 505405,
       "word": "EDG出列",
@@ -4993,6 +5001,14 @@
       "onboard_time": 1697326644,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 483905,
+      "num": 397689,
+      "word": "流浪猫第一次吃猫条连声说好吃",
+      "onboard_time": 1697860710,
+      "rank": 30,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 483741,
@@ -6331,20 +6347,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 395298,
+      "num": 395298,
+      "word": "骄阳似我",
+      "onboard_time": 1697860831,
+      "rank": 22,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 395250,
       "num": 395250,
       "word": "4090显卡全面下架",
       "onboard_time": 1697632833,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 395249,
-      "num": 395249,
-      "word": "汉服圈被雪王挤进去了",
-      "onboard_time": 1697860471,
-      "rank": 14,
-      "category": "幽默"
     },
     {
       "raw_hot": 395114,
@@ -6385,14 +6401,6 @@
       "onboard_time": 1697598814,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 392398,
-      "num": 223813,
-      "word": "流浪猫第一次吃猫条连声说好吃",
-      "onboard_time": 1697860710,
-      "rank": 30,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 392212,
@@ -6497,6 +6505,14 @@
       "onboard_time": 1697295937,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 388985,
+      "num": 296921,
+      "word": "女子网购500件3.8元毛衣到手货不对板",
+      "onboard_time": 1697861431,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 388078,
@@ -8379,14 +8395,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 290820,
-      "num": 290820,
-      "word": "骄阳似我",
-      "onboard_time": 1697860831,
-      "rank": 22,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 290173,
       "num": 290173,
       "word": "2023MAMA提名公布",
@@ -8681,6 +8689,14 @@
       "onboard_time": 1697610694,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281872,
+      "num": 229773,
+      "word": "知情者称视频场地并非青岛啤酒原料仓库",
+      "onboard_time": 1697862571,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 281595,
@@ -9355,14 +9371,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 258776,
-      "num": 220415,
-      "word": "女子网购500件3.8元毛衣到手货不对板",
-      "onboard_time": 1697861431,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 258389,
       "num": 258389,
       "word": "当霉霉的电影在中国内地上映",
@@ -9513,6 +9521,14 @@
       "onboard_time": 1697859390,
       "rank": 24,
       "category": "教育"
+    },
+    {
+      "raw_hot": 255026,
+      "num": 255026,
+      "word": "河边的错误",
+      "onboard_time": 1697846967,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 254971,
@@ -10019,6 +10035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241946,
+      "num": 241946,
+      "word": "莲花卿温记",
+      "onboard_time": 1697858970,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 240822,
       "num": 240822,
       "word": "朱一龙 谁让你们这么宣传我的",
@@ -10169,14 +10193,6 @@
       "onboard_time": 1697859450,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 236307,
-      "num": 236307,
-      "word": "莲花卿温记",
-      "onboard_time": 1697858970,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 236140,
@@ -10419,14 +10435,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 231103,
-      "num": 231103,
-      "word": "河边的错误",
-      "onboard_time": 1697846967,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 230804,
       "num": 230804,
       "word": "于和伟 朋友问我谁先动口的",
@@ -10489,6 +10497,14 @@
       "onboard_time": 1697524294,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229802,
+      "num": 229802,
+      "word": "4位白发奶奶聚会涮火锅有说有笑",
+      "onboard_time": 1697862333,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 229794,
@@ -10681,6 +10697,14 @@
       "onboard_time": 1697376876,
       "rank": 27,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 225976,
+      "num": 225976,
+      "word": "沪指3000点跌破51次也能站上来51次",
+      "onboard_time": 1697859331,
+      "rank": 32,
+      "category": "财经"
     },
     {
       "raw_hot": 225820,
@@ -11041,14 +11065,6 @@
       "onboard_time": 1697529097,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 216742,
-      "num": 216742,
-      "word": "沪指3000点跌破51次也能站上来51次",
-      "onboard_time": 1697859331,
-      "rank": 32,
-      "category": "财经"
     },
     {
       "raw_hot": 216260,
@@ -12355,6 +12371,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 197701,
+      "num": 197701,
+      "word": "孟佳和路边的狗对话",
+      "onboard_time": 1697862031,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197560,
       "num": 197560,
       "word": "张雨绮带来的山东大葱比人高",
@@ -12761,6 +12785,14 @@
       "onboard_time": 1697336729,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192744,
+      "num": 192744,
+      "word": "鞠婧祎秋日排练照",
+      "onboard_time": 1697861789,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 192621,
@@ -13723,14 +13755,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 178271,
-      "num": 178271,
-      "word": "鞠婧祎秋日排练照",
-      "onboard_time": 1697861789,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177901,
       "num": 177901,
       "word": "丁程鑫彩带摇",
@@ -14041,6 +14065,14 @@
       "onboard_time": 1697796573,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 172142,
+      "num": 172142,
+      "word": "大量沙丁鱼涌入日本渔港后集体死亡",
+      "onboard_time": 1697862512,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 171994,
