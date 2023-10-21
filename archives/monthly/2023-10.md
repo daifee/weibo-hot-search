@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 16:34:12
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 17:15:10
 </p>
 </blockquote>
 <p>
@@ -611,6 +611,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%81%E8%82%A1%E9%92%88%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
 屁股针为什么消失了（热度：2618891）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%92%AD%20%E5%81%87%E5%90%83%23" target="weibo">
+吃播 假吃（热度：2610102）
 </a>
 </li>
 
@@ -2765,12 +2771,6 @@ DOTA2中国队晋级决赛（热度：1546862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23" target="weibo">
 英雄联盟（热度：1481170）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%92%AD%20%E5%81%87%E5%90%83%23" target="weibo">
-吃播 假吃（热度：1478839）
 </a>
 </li>
 
@@ -5637,6 +5637,12 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E5%AE%B0%E6%9D%80%E6%B5%81%E6%B5%AA%E7%8B%97%23" target="weibo">
+网传一学生宿舍内宰杀流浪狗（热度：884759）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E5%BB%BA%E8%AE%AE%E5%9C%A8%E4%BB%A5%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%B0%BD%E5%BF%AB%E5%9B%9E%E5%9B%BD%23" target="weibo">
 外交部建议在以中国公民尽快回国（热度：883818）
 </a>
@@ -6005,12 +6011,6 @@ Xiaomi HyperOS（热度：858223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%AA%92%E6%8A%A5%E9%81%93%E7%A7%B0%E5%BC%A0%E8%89%BA%E5%85%B4%E6%98%AFKpopSuperstar%23" target="weibo">
 外媒报道称张艺兴是KpopSuperstar（热度：851266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23BLG%E5%AF%B9%E6%88%98KT%23" target="weibo">
-BLG对战KT（热度：850932）
 </a>
 </li>
 
