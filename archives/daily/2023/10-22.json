@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697927632760,
+  "endTime": 1697930168116,
   "band_list": [
     {
       "raw_hot": 952431,
@@ -33,6 +33,14 @@
       "onboard_time": 1697892811,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 586067,
+      "num": 586067,
+      "word": "金龟子第一次去见王宁家人",
+      "onboard_time": 1697903256,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 582494,
@@ -81,14 +89,6 @@
       "onboard_time": 1697903375,
       "rank": 10,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 392947,
-      "num": 191355,
-      "word": "金龟子第一次去见王宁家人",
-      "onboard_time": 1697903256,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 366174,
@@ -219,6 +219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192341,
+      "num": 148211,
+      "word": "当在咸鱼上刷到自己丢失的演出门票",
+      "onboard_time": 1697914757,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188317,
       "num": 188317,
       "word": "杨幂温柔风",
@@ -235,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175333,
+      "num": 147142,
+      "word": "青岛啤酒风波知情人发声",
+      "onboard_time": 1697920034,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172503,
       "num": 172503,
       "word": "河边的错误解析",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 155797,
-      "num": 67221,
+      "num": 100535,
       "word": "高校通报学生宿舍内肢解流浪狗",
       "onboard_time": 1697911585,
       "rank": 38,
@@ -395,14 +411,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 88072,
-      "num": 79279,
-      "word": "青岛啤酒风波知情人发声",
-      "onboard_time": 1697920034,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 84869,
       "num": 78402,
       "word": "唐艺昕成都citywalk",
@@ -417,14 +425,6 @@
       "onboard_time": 1697872412,
       "rank": 44,
       "category": "幽默,美妆"
-    },
-    {
-      "raw_hot": 82962,
-      "num": 76411,
-      "word": "当在咸鱼上刷到自己丢失的演出门票",
-      "onboard_time": 1697914757,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 82112,
@@ -475,6 +475,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 61180,
+      "num": 61180,
+      "word": "杨紫超话阅读量超千亿",
+      "onboard_time": 1697925795,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 49379,
+      "num": 49379,
+      "word": "秋天与新中式穿搭的适配度",
+      "onboard_time": 1697928801,
+      "rank": 30,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 48032,
       "num": 48032,
       "word": "疯子成了马哲 马哲成了疯子",
@@ -507,6 +523,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 43108,
+      "num": 43108,
+      "word": "傅园慧首谈上恋综的经历",
+      "onboard_time": 1697892396,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 36965,
+      "num": 36965,
+      "word": "2000米混接中国队晋级决赛",
+      "onboard_time": 1697930001,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 36628,
+      "num": 36628,
+      "word": "00后大学生参演话剧白鹿原感动落泪",
+      "onboard_time": 1697929400,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 35908,
+      "num": 35908,
+      "word": "极简生活让我一年存了十多万",
+      "onboard_time": 1697929280,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33271,
       "num": 33271,
       "word": "欧阳娣娣方否认参加综艺海选被淘汰",
@@ -515,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30795,
-      "num": 30795,
-      "word": "杨紫超话阅读量超千亿",
-      "onboard_time": 1697925795,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 30001,
+      "num": 30001,
+      "word": "看小警汪的沉浸式训练秒回童年",
+      "onboard_time": 1697929341,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26923,
@@ -537,14 +585,6 @@
       "onboard_time": 1697891194,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22413,
-      "num": 22413,
-      "word": "傅园慧首谈上恋综的经历",
-      "onboard_time": 1697892396,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 16557,
