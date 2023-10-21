@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697906209732,
+  "endTime": 1697908489634,
   "band_list": [
     {
       "raw_hot": 952431,
@@ -84,19 +84,27 @@
     },
     {
       "raw_hot": 392947,
-      "num": 146679,
+      "num": 191355,
       "word": "金龟子第一次去见王宁家人",
       "onboard_time": 1697903256,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 361253,
+      "raw_hot": 366174,
       "num": 299109,
       "word": "张大大说有很多艺人潜伏在我直播间",
       "onboard_time": 1697901459,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351754,
+      "num": 351754,
+      "word": "戚薇外滩十八号回忆杀",
+      "onboard_time": 1697906429,
+      "rank": 5,
+      "category": "音乐"
     },
     {
       "raw_hot": 318046,
@@ -363,6 +371,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 84869,
+      "num": 78402,
+      "word": "唐艺昕成都citywalk",
+      "onboard_time": 1697906368,
+      "rank": 35,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 84763,
       "num": 132593,
       "word": "大学四年买了三千只口红",
@@ -377,6 +393,14 @@
       "onboard_time": 1697901097,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79674,
+      "num": 132581,
+      "word": "快递员知道你们小区多少秘密",
+      "onboard_time": 1697888432,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 79504,
@@ -403,12 +427,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 65772,
-      "num": 132581,
-      "word": "快递员知道你们小区多少秘密",
-      "onboard_time": 1697888432,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 71099,
+      "num": 71099,
+      "word": "檀健次四方馆杀青",
+      "onboard_time": 1697908345,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 58929,
+      "num": 58929,
+      "word": "拒绝消费濒危物种制品",
+      "onboard_time": 1697908284,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 26923,

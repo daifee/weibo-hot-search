@@ -1,0 +1,410 @@
+{
+  "runTime": 1697908489634,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 735357,
+        "num": 735357,
+        "word": "医生劝半个多小时不让走救回一条命",
+        "onboard_time": 1697902536,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 500636,
+        "num": 500636,
+        "word": "何炅说第一次见黄子韬是19岁",
+        "onboard_time": 1697901875,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21665,
+        "num": 438269,
+        "word": "建设一个开放包容互联互通共同发展的世界",
+        "onboard_time": 1697893775,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 415611,
+        "num": 415611,
+        "word": "张韶涵硬刚主办方",
+        "onboard_time": 1697899240,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 366021,
+        "num": 366021,
+        "word": "张碧晨 撕裂",
+        "onboard_time": 1697892811,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 351754,
+        "num": 351754,
+        "word": "戚薇外滩十八号回忆杀",
+        "onboard_time": 1697906429,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 294251,
+        "num": 294251,
+        "word": "倪妮河南分妮最近火了",
+        "onboard_time": 1697899417,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 285468,
+        "num": 285468,
+        "word": "英国穷小子验DNA证明自己是富豪独子",
+        "onboard_time": 1697888971,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203754,
+        "num": 203754,
+        "word": "隐性饥饿正在偷走你的健康",
+        "onboard_time": 1697891674,
+        "rank": 8,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 198078,
+        "num": 198078,
+        "word": "林娜琏MOMO朴志效舞台",
+        "onboard_time": 1697902536,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 366174,
+        "num": 192583,
+        "word": "张大大说有很多艺人潜伏在我直播间",
+        "onboard_time": 1697901459,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325390,
+        "num": 191355,
+        "word": "金龟子第一次去见王宁家人",
+        "onboard_time": 1697903256,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185252,
+        "num": 185252,
+        "word": "王俊凯尴尬表情包被当作示例",
+        "onboard_time": 1697903375,
+        "rank": 12,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 170214,
+        "num": 170214,
+        "word": "河边的错误 看完不走",
+        "onboard_time": 1697887231,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169354,
+        "num": 169354,
+        "word": "多地对归国留学生开放定向选调",
+        "onboard_time": 1697900676,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160158,
+        "num": 160158,
+        "word": "段艺璇被砸",
+        "onboard_time": 1697898580,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157761,
+        "num": 157761,
+        "word": "网友晒与鹿晗范丞丞王安宇合照",
+        "onboard_time": 1697903855,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143990,
+        "num": 143990,
+        "word": "肺炎支原体感染11月或将迎感染高峰",
+        "onboard_time": 1697891314,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140102,
+        "num": 140102,
+        "word": "墨香铜臭",
+        "onboard_time": 1697866953,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 138708,
+        "num": 138708,
+        "word": "辽宁通报保安校内勒死流浪狗",
+        "onboard_time": 1697894976,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149404,
+        "num": 132645,
+        "word": "张元英 Baddie 直拍",
+        "onboard_time": 1697903015,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126118,
+        "num": 126118,
+        "word": "被这俩双胞胎兄弟写作业笑晕了",
+        "onboard_time": 1697902715,
+        "rank": 21,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 121020,
+        "num": 121020,
+        "word": "律师称李玟已完成尸检证据已固定",
+        "onboard_time": 1697901277,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120969,
+        "num": 120969,
+        "word": "6岁女孩被父亲忘高速服务区冷静求助",
+        "onboard_time": 1697900799,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120758,
+        "num": 120758,
+        "word": "被陈都灵美到轻声尖叫",
+        "onboard_time": 1697898215,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118158,
+        "num": 118158,
+        "word": "这就是街舞",
+        "onboard_time": 1697892574,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118114,
+        "num": 118114,
+        "word": "张杰时光音乐会老友记",
+        "onboard_time": 1697905410,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108625,
+        "num": 108625,
+        "word": "女子称买烤鸭遇店员做假动作片肉",
+        "onboard_time": 1697894618,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80508,
+        "num": 108458,
+        "word": "女子酒后欲跳桥男子骑车假装路过秒救回",
+        "onboard_time": 1697903135,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79674,
+        "num": 108370,
+        "word": "快递员知道你们小区多少秘密",
+        "onboard_time": 1697888432,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108355,
+        "num": 108355,
+        "word": "李玟母亲痛斥李玟丈夫出轨",
+        "onboard_time": 1697884412,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101252,
+        "num": 101252,
+        "word": "河边的错误解析",
+        "onboard_time": 1697886871,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91108,
+        "num": 91108,
+        "word": "杨幂温柔风",
+        "onboard_time": 1697901636,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79251,
+        "num": 79251,
+        "word": "第一次对1000万有了实体概念",
+        "onboard_time": 1697877034,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68980,
+        "num": 78476,
+        "word": "小米14",
+        "onboard_time": 1697885673,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84869,
+        "num": 78402,
+        "word": "唐艺昕成都citywalk",
+        "onboard_time": 1697906368,
+        "rank": 35,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 78258,
+        "num": 78258,
+        "word": "戚薇长裙三层楼高",
+        "onboard_time": 1697890774,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 68842,
+        "num": 76950,
+        "word": "北京WB",
+        "onboard_time": 1697905053,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 66214,
+        "num": 76850,
+        "word": "我们从农村飞出来了但妈妈没有",
+        "onboard_time": 1697889272,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 64251,
+        "num": 76798,
+        "word": "螃蟹壳是最好的化痰散结的药",
+        "onboard_time": 1697891674,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76780,
+        "num": 76780,
+        "word": "易烊千玺新电影小小的我杀青",
+        "onboard_time": 1697888308,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71099,
+        "num": 71099,
+        "word": "檀健次四方馆杀青",
+        "onboard_time": 1697908345,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70902,
+        "num": 70902,
+        "word": "时代少年团 王者荣耀",
+        "onboard_time": 1697886993,
+        "rank": 42,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 68785,
+        "num": 68785,
+        "word": "方筱然害怕到手抖好真实",
+        "onboard_time": 1697886452,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64614,
+        "num": 64614,
+        "word": "周也 素却有力的美",
+        "onboard_time": 1697900496,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 58986,
+        "num": 58986,
+        "word": "AG 上上签",
+        "onboard_time": 1697896779,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58929,
+        "num": 58929,
+        "word": "拒绝消费濒危物种制品",
+        "onboard_time": 1697908284,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 52620,
+        "num": 58837,
+        "word": "世界上最可怕的面膜",
+        "onboard_time": 1697897919,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 50355,
+        "num": 58816,
+        "word": "大学四年买了三千只口红",
+        "onboard_time": 1697872412,
+        "rank": 48,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 48248,
+        "num": 58707,
+        "word": "国务院取消调整33个罚款事项",
+        "onboard_time": 1697899000,
+        "rank": 49,
+        "category": "国内要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把一带一路建成创新之路#"
+    }
+  }
+}
