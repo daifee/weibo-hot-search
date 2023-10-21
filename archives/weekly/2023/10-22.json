@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697930168116,
+  "endTime": 1697931241934,
   "band_list": [
     {
       "raw_hot": 952431,
@@ -35,8 +35,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 586067,
-      "num": 586067,
+      "raw_hot": 742582,
+      "num": 742582,
       "word": "金龟子第一次去见王宁家人",
       "onboard_time": 1697903256,
       "rank": 30,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 292195,
+      "num": 188495,
+      "word": "落马女官员花50万美臀",
+      "onboard_time": 1697930180,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 290553,
       "num": 290553,
       "word": "河边的错误 看完不走",
@@ -203,6 +211,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200142,
+      "num": 186683,
+      "word": "当在咸鱼上刷到自己丢失的演出门票",
+      "onboard_time": 1697914757,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198528,
       "num": 198528,
       "word": "李玟母亲痛斥李玟丈夫出轨",
@@ -211,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196385,
+      "num": 196385,
+      "word": "青岛啤酒风波知情人发声",
+      "onboard_time": 1697920034,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 194072,
       "num": 156857,
       "word": "张杰时光音乐会老友记",
       "onboard_time": 1697905410,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192341,
-      "num": 148211,
-      "word": "当在咸鱼上刷到自己丢失的演出门票",
-      "onboard_time": 1697914757,
-      "rank": 37,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188317,
@@ -243,14 +259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 175333,
-      "num": 147142,
-      "word": "青岛啤酒风波知情人发声",
-      "onboard_time": 1697920034,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172503,
       "num": 172503,
       "word": "河边的错误解析",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 155797,
-      "num": 100535,
+      "num": 103273,
       "word": "高校通报学生宿舍内肢解流浪狗",
       "onboard_time": 1697911585,
       "rank": 38,
@@ -288,6 +296,14 @@
       "word": "戚薇长裙三层楼高",
       "onboard_time": 1697890774,
       "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151235,
+      "num": 151235,
+      "word": "李现夺走了GQ主编的手机",
+      "onboard_time": 1697930301,
+      "rank": 15,
       "category": "作品衍生"
     },
     {
@@ -379,12 +395,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107306,
+      "num": 107306,
+      "word": "博比查尔顿去世",
+      "onboard_time": 1697930722,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106622,
       "num": 132655,
       "word": "小米14",
       "onboard_time": 1697885673,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 104405,
+      "num": 71419,
+      "word": "显头圆还贼气质的麻花辫盘发",
+      "onboard_time": 1697930301,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 100697,
+      "num": 71151,
+      "word": "2000米混接中国队晋级决赛",
+      "onboard_time": 1697930001,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 99324,
@@ -403,12 +443,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97416,
+      "num": 97416,
+      "word": "苏醒说0713现在叫就业兄弟团",
+      "onboard_time": 1697930362,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88916,
       "num": 132575,
       "word": "国务院取消调整33个罚款事项",
       "onboard_time": 1697899000,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 88423,
+      "num": 88423,
+      "word": "极简生活让我一年存了十多万",
+      "onboard_time": 1697929280,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 84869,
@@ -467,6 +523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 73344,
+      "num": 73344,
+      "word": "杨紫超话阅读量超千亿",
+      "onboard_time": 1697925795,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71820,
       "num": 99323,
       "word": "幺四婆婆 受虐狂",
@@ -475,20 +539,44 @@
       "category": "电影"
     },
     {
-      "raw_hot": 61180,
-      "num": 61180,
-      "word": "杨紫超话阅读量超千亿",
-      "onboard_time": 1697925795,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 66030,
+      "num": 66030,
+      "word": "消防员从杂草从中救出被困司机",
+      "onboard_time": 1697930782,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
-      "raw_hot": 49379,
-      "num": 49379,
+      "raw_hot": 61774,
+      "num": 61774,
       "word": "秋天与新中式穿搭的适配度",
       "onboard_time": 1697928801,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 57397,
+      "num": 57397,
+      "word": "切尔西2比2阿森纳",
+      "onboard_time": 1697930541,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 54559,
+      "num": 54559,
+      "word": "傅园慧首谈上恋综的经历",
+      "onboard_time": 1697892396,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 48480,
+      "num": 48480,
+      "word": "林一把刘浩存提着走",
+      "onboard_time": 1697913917,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 48032,
@@ -497,14 +585,6 @@
       "onboard_time": 1697912598,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 47890,
-      "num": 47890,
-      "word": "林一把刘浩存提着走",
-      "onboard_time": 1697913917,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 47562,
@@ -523,36 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 43108,
-      "num": 43108,
-      "word": "傅园慧首谈上恋综的经历",
-      "onboard_time": 1697892396,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 36965,
-      "num": 36965,
-      "word": "2000米混接中国队晋级决赛",
-      "onboard_time": 1697930001,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 36628,
       "num": 36628,
       "word": "00后大学生参演话剧白鹿原感动落泪",
       "onboard_time": 1697929400,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35908,
-      "num": 35908,
-      "word": "极简生活让我一年存了十多万",
-      "onboard_time": 1697929280,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 33271,
