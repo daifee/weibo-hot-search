@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 09:30:00
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 10:02:19
 </p>
 </blockquote>
 <p>
@@ -2535,6 +2535,12 @@ MiuMiu钻石内裤（热度：1560241）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B3%E6%A1%88%E7%BB%8F%E8%BF%87%23" target="weibo">
+网红罗大美遇害案经过（热度：1558802）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%9D%9A%E6%8C%81%E8%AE%A9%E5%A5%B3%E5%AD%90%E5%A9%9A%E7%A4%BC%E9%9A%8F2%E5%8D%83%23" target="weibo">
 妈妈坚持让女子婚礼随2千（热度：1557702）
 </a>
@@ -4155,6 +4161,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E5%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%B0%8F%E5%8C%BA%E5%86%85%E7%8A%AC%E5%8F%AA%E5%92%AC%E4%BC%A4%23" target="weibo">
+广州5岁女童被小区内犬只咬伤（热度：1099640）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BB%A5%E6%B7%B7%E8%A1%80%E5%A5%B3%E5%AD%A9%E4%B8%AD%E5%9B%BD%E5%A6%88%E5%A6%88%E5%86%8D%E5%8F%91%E5%A3%B0%23" target="weibo">
 中以混血女孩中国妈妈再发声（热度：1098790）
 </a>
@@ -4199,12 +4211,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%8A%A5%E5%90%8D%23" target="weibo">
 海底捞报名（热度：1085530）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B3%E6%A1%88%E7%BB%8F%E8%BF%87%23" target="weibo">
-网红罗大美遇害案经过（热度：1084500）
 </a>
 </li>
 
@@ -4743,12 +4749,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E5%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%B0%8F%E5%8C%BA%E5%86%85%E7%8A%AC%E5%8F%AA%E5%92%AC%E4%BC%A4%23" target="weibo">
-广州5岁女童被小区内犬只咬伤（热度：994876）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E4%BC%A0%E9%97%BB%23" target="weibo">
 李善均方回应吸毒传闻（热度：990981）
 </a>
@@ -5051,6 +5051,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23" target="weibo">
 孩子手洗不干净老师细看心疼（热度：957435）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB2%E6%AC%A1%E9%94%81%E5%96%89%23" target="weibo">
+老师上课没收学生手机被2次锁喉（热度：957135）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG对战KT（热度：850932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E9%97%B4%E5%8D%96%E4%B8%80%E4%B8%AA%E4%BA%BF%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%23" target="weibo">
 直播间卖一个亿能赚多少钱（热度：841669）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E6%97%B6%E4%B8%8D%E8%A6%81%E4%B9%B1%E7%94%A8emoji%23" target="weibo">
-留学时不要乱用emoji（热度：841551）
 </a>
 </li>
 

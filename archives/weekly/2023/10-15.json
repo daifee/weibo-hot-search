@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697851800986,
+  "endTime": 1697853739542,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -947,6 +947,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 1558802,
+      "num": 1084500,
+      "word": "网红罗大美遇害案经过",
+      "onboard_time": 1697849848,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1543387,
       "num": 353350,
       "word": "四川被狗咬伤女童家属已筹得200万元",
@@ -1619,20 +1627,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1099640,
+      "num": 372361,
+      "word": "广州5岁女童被小区内犬只咬伤",
+      "onboard_time": 1697847749,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1090452,
       "num": 635241,
       "word": "青岛啤酒厂工人被曝在原料仓小便",
       "onboard_time": 1697785710,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1084500,
-      "num": 1084500,
-      "word": "网红罗大美遇害案经过",
-      "onboard_time": 1697849848,
-      "rank": 3,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1083144,
@@ -1883,14 +1891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 994876,
-      "num": 372361,
-      "word": "广州5岁女童被小区内犬只咬伤",
-      "onboard_time": 1697847749,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 990981,
       "num": 990981,
       "word": "李善均方回应吸毒传闻",
@@ -2009,6 +2009,14 @@
       "onboard_time": 1697721098,
       "rank": 18,
       "category": "教育"
+    },
+    {
+      "raw_hot": 957135,
+      "num": 379638,
+      "word": "老师上课没收学生手机被2次锁喉",
+      "onboard_time": 1697851471,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 948799,
@@ -3372,7 +3380,7 @@
     },
     {
       "raw_hot": 652151,
-      "num": 334187,
+      "num": 378763,
       "word": "邓紫棋美拉德妆",
       "onboard_time": 1697851411,
       "rank": 12,
@@ -4193,6 +4201,14 @@
       "onboard_time": 1697601996,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 547202,
+      "num": 547202,
+      "word": "已经彻底当台偶看了",
+      "onboard_time": 1697850511,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 547105,
@@ -5033,6 +5049,14 @@
       "onboard_time": 1697542057,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 470135,
+      "num": 470135,
+      "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
+      "onboard_time": 1697847931,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 469995,
@@ -6124,7 +6148,7 @@
     },
     {
       "raw_hot": 400599,
-      "num": 330803,
+      "num": 386486,
       "word": "张铭恩新剧演家仆",
       "onboard_time": 1697850570,
       "rank": 17,
@@ -6481,6 +6505,14 @@
       "onboard_time": 1697804252,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 377432,
+      "num": 377432,
+      "word": "中国流浪狗数量高达4000万只",
+      "onboard_time": 1697850807,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 376737,
@@ -6875,6 +6907,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 352289,
+      "num": 352289,
+      "word": "徐志胜说关晓彤不是以前的关晓彤了",
+      "onboard_time": 1697852969,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350875,
       "num": 350875,
       "word": "𡘙字怎么念",
@@ -7041,6 +7081,14 @@
       "onboard_time": 1697527893,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 342740,
+      "num": 284395,
+      "word": "不要再把电脑触摸板当摆设了",
+      "onboard_time": 1697849250,
+      "rank": 21,
+      "category": "数码"
     },
     {
       "raw_hot": 342572,
@@ -7505,14 +7553,6 @@
       "onboard_time": 1697674837,
       "rank": 24,
       "category": "社会新闻,汽车"
-    },
-    {
-      "raw_hot": 320880,
-      "num": 284395,
-      "word": "不要再把电脑触摸板当摆设了",
-      "onboard_time": 1697849250,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 320752,
@@ -8211,14 +8251,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 288462,
-      "num": 288462,
-      "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
-      "onboard_time": 1697847931,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 288429,
       "num": 288429,
       "word": "花少姐姐们的耳饰",
@@ -8233,14 +8265,6 @@
       "onboard_time": 1697806712,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 287825,
-      "num": 287825,
-      "word": "已经彻底当台偶看了",
-      "onboard_time": 1697850511,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 287734,
@@ -10339,6 +10363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 226545,
+      "num": 226545,
+      "word": "关晓彤机械姬妆",
+      "onboard_time": 1697849310,
+      "rank": 36,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 226474,
       "num": 432925,
       "word": "等一个周也王星越二搭",
@@ -10425,14 +10457,6 @@
       "onboard_time": 1697614172,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 223108,
-      "num": 223108,
-      "word": "中国流浪狗数量高达4000万只",
-      "onboard_time": 1697850807,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 222810,
@@ -10561,14 +10585,6 @@
       "onboard_time": 1697645071,
       "rank": 41,
       "category": "社会正能量"
-    },
-    {
-      "raw_hot": 219619,
-      "num": 219619,
-      "word": "老师上课没收学生手机被2次锁喉",
-      "onboard_time": 1697851471,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 219564,
@@ -11225,14 +11241,6 @@
       "onboard_time": 1697702856,
       "rank": 38,
       "category": "母婴育儿,知识科普"
-    },
-    {
-      "raw_hot": 206304,
-      "num": 206304,
-      "word": "关晓彤机械姬妆",
-      "onboard_time": 1697849310,
-      "rank": 36,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 206301,
@@ -12747,6 +12755,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187855,
+      "num": 183013,
+      "word": "LGD对阵9P",
+      "onboard_time": 1697852851,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187761,
       "num": 187761,
       "word": "毛晓彤情绪转化好快",
@@ -13345,6 +13361,14 @@
       "onboard_time": 1697369973,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178343,
+      "num": 178343,
+      "word": "国考报名人数已突破100万",
+      "onboard_time": 1697853391,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 177901,
@@ -14731,6 +14755,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 154841,
+      "num": 154841,
+      "word": "pp 椰树pose",
+      "onboard_time": 1697853510,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 154544,
       "num": 154544,
       "word": "王者周年限定新皮肤爆料",
@@ -14768,6 +14800,14 @@
       "word": "今年天猫双11直接打折",
       "onboard_time": 1697789975,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 153087,
+      "num": 153087,
+      "word": "贵州三个小朋友捡了个小小朋友",
+      "onboard_time": 1697853510,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -14889,6 +14929,14 @@
       "onboard_time": 1697808994,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150526,
+      "num": 150526,
+      "word": "男子1个善举民警奖励1辆警车",
+      "onboard_time": 1697853029,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 150463,
@@ -15081,6 +15129,14 @@
       "onboard_time": 1697814157,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 147309,
+      "num": 147309,
+      "word": "官方通报广西平果企业爆炸事故",
+      "onboard_time": 1697852252,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 147115,
@@ -17547,18 +17603,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34742,
-      "num": 1898520,
-      "word": "一带一路铺就共同发展繁荣之路",
-      "onboard_time": 1697335290,
+      "raw_hot": 37197,
+      "num": 1065962,
+      "word": "大道之行筑梦丝路",
+      "onboard_time": 1697848049,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34552,
-      "num": 1065962,
-      "word": "大道之行筑梦丝路",
-      "onboard_time": 1697848049,
+      "raw_hot": 34742,
+      "num": 1898520,
+      "word": "一带一路铺就共同发展繁荣之路",
+      "onboard_time": 1697335290,
       "rank": 2,
       "category": "社会新闻"
     },
