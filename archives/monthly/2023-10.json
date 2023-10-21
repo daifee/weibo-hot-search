@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697908489634,
+  "endTime": 1697909649898,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -55955,6 +55955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 99036,
+      "num": 87383,
+      "word": "檀健次四方馆杀青",
+      "onboard_time": 1697908345,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98991,
       "num": 92620,
       "word": "电影史上的绝佳镜头",
@@ -56923,6 +56931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 75892,
+      "num": 75892,
+      "word": "拒绝消费濒危物种制品",
+      "onboard_time": 1697908284,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 75818,
       "num": 75818,
       "word": "劳塔罗大四喜",
@@ -57073,14 +57089,6 @@
       "onboard_time": 1696425158,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 71099,
-      "num": 71099,
-      "word": "檀健次四方馆杀青",
-      "onboard_time": 1697908345,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 70860,
@@ -57603,14 +57611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 58929,
-      "num": 58929,
-      "word": "拒绝消费濒危物种制品",
-      "onboard_time": 1697908284,
-      "rank": 46,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 58904,
       "num": 58904,
       "word": "郝劭文成十个勤天新晋债主",
@@ -57873,6 +57873,14 @@
       "onboard_time": 1697356953,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 53325,
+      "num": 60804,
+      "word": "UFC",
+      "onboard_time": 1697909122,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 53199,
