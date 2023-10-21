@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697858241407,
+  "endTime": 1697859252349,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -35,6 +35,14 @@
       "category": "社会新闻,网红"
     },
     {
+      "raw_hot": 1459147,
+      "num": 421898,
+      "word": "陈乔恩为流浪狗发声",
+      "onboard_time": 1697856629,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1333582,
       "num": 1088258,
       "word": "被狗咬女童家属称每天医药费1万左右",
@@ -43,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1262976,
-      "num": 1255131,
+      "raw_hot": 1275437,
+      "num": 1275437,
       "word": "老师上课没收学生手机被2次锁喉",
       "onboard_time": 1697851471,
       "rank": 33,
@@ -57,14 +65,6 @@
       "onboard_time": 1697803952,
       "rank": 22,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 1180972,
-      "num": 407486,
-      "word": "陈乔恩为流浪狗发声",
-      "onboard_time": 1697856629,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1177616,
@@ -115,6 +115,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 857066,
+      "num": 857066,
+      "word": "二手玫瑰最初化浓妆是因为没分到包子吃",
+      "onboard_time": 1697855249,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 778515,
       "num": 483248,
       "word": "多国以色列使领馆遭到冲击",
@@ -123,12 +131,12 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 774140,
-      "num": 774140,
-      "word": "二手玫瑰最初化浓妆是因为没分到包子吃",
-      "onboard_time": 1697855249,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 775166,
+      "num": 775166,
+      "word": "李玟今日在武汉安葬",
+      "onboard_time": 1697856270,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 764517,
@@ -147,12 +155,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 722165,
-      "num": 722165,
-      "word": "李玟今日在武汉安葬",
-      "onboard_time": 1697856270,
-      "rank": 5,
-      "category": "艺人"
+      "raw_hot": 731157,
+      "num": 731157,
+      "word": "不愧是北大 好歹毒的签到方式",
+      "onboard_time": 1697857049,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 663452,
@@ -177,6 +185,14 @@
       "onboard_time": 1697845526,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620914,
+      "num": 620914,
+      "word": "顾漫骄阳似我完结了",
+      "onboard_time": 1697857109,
+      "rank": 6,
+      "category": "读书作家"
     },
     {
       "raw_hot": 607911,
@@ -217,14 +233,6 @@
       "onboard_time": 1697803231,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 506557,
-      "num": 506557,
-      "word": "顾漫骄阳似我完结了",
-      "onboard_time": 1697857109,
-      "rank": 6,
-      "category": "读书作家"
     },
     {
       "raw_hot": 480267,
@@ -331,6 +339,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 406708,
+      "num": 406708,
+      "word": "河边的错误 片方很有数",
+      "onboard_time": 1697857289,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404482,
       "num": 404482,
       "word": "肖战风衣大片",
@@ -411,6 +427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 329673,
+      "num": 329673,
+      "word": "女子离婚后发现前夫婚内出轨生子",
+      "onboard_time": 1697856930,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 326154,
       "num": 326154,
       "word": "小蓝姐姐原来长大后这么痛苦",
@@ -435,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 305640,
+      "num": 305640,
+      "word": "库里文班亚马跳球",
+      "onboard_time": 1697857888,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302826,
       "num": 302826,
       "word": "村里的小孩叫那英奶奶",
@@ -443,28 +475,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 302821,
-      "num": 302821,
-      "word": "女子离婚后发现前夫婚内出轨生子",
-      "onboard_time": 1697856930,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 292334,
       "num": 292334,
       "word": "巴以冲突超5600人死亡",
       "onboard_time": 1697854111,
       "rank": 26,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 290161,
-      "num": 290161,
-      "word": "河边的错误 片方很有数",
-      "onboard_time": 1697857289,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 287256,
@@ -523,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 265106,
-      "num": 265106,
-      "word": "不愧是北大 好歹毒的签到方式",
-      "onboard_time": 1697857049,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 258389,
       "num": 258389,
       "word": "当霉霉的电影在中国内地上映",
@@ -553,6 +561,14 @@
       "onboard_time": 1697850871,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251628,
+      "num": 206901,
+      "word": "陈楚生王栎鑫在不同领域互相崇拜",
+      "onboard_time": 1697858609,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 243085,
@@ -643,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221483,
+      "num": 221483,
+      "word": "朱一龙河边的错误上映海报",
+      "onboard_time": 1697857888,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221377,
       "num": 221377,
       "word": "你是否认同 追竞让人审美降级",
@@ -659,20 +683,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209757,
+      "num": 209757,
+      "word": "马哲请上班",
+      "onboard_time": 1697859089,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209419,
       "num": 209419,
       "word": "WBG将对战KT",
       "onboard_time": 1697851228,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 208919,
-      "num": 208919,
-      "word": "库里文班亚马跳球",
-      "onboard_time": 1697857888,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 208724,
@@ -715,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202910,
+      "num": 202910,
+      "word": "把文淇宋威龙拍出了大S周渝民的感觉",
+      "onboard_time": 1697858132,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201732,
       "num": 201732,
       "word": "老人穿红衣服进羊圈被羊顶死",
@@ -755,12 +787,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 190784,
-      "num": 190784,
-      "word": "朱一龙河边的错误上映海报",
-      "onboard_time": 1697857888,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 191817,
+      "num": 191817,
+      "word": "TXT将出演蜡笔小新",
+      "onboard_time": 1697858369,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 187855,
@@ -817,6 +849,14 @@
       "onboard_time": 1697856569,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170299,
+      "num": 170299,
+      "word": "普尔15中1",
+      "onboard_time": 1697858250,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 168803,
@@ -899,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 155630,
+      "num": 155630,
+      "word": "莲花卿温记",
+      "onboard_time": 1697858970,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155248,
       "num": 155248,
       "word": "日本老年人养老金现状",
@@ -961,14 +1009,6 @@
       "onboard_time": 1697855131,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144226,
-      "num": 144226,
-      "word": "把文淇宋威龙拍出了大S周渝民的感觉",
-      "onboard_time": 1697858132,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 141786,
@@ -1097,6 +1137,22 @@
       "onboard_time": 1697807492,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 128116,
+      "num": 128116,
+      "word": "文班亚马帽上瘾了",
+      "onboard_time": 1697859150,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126287,
+      "num": 126287,
+      "word": "AR对阵nouns",
+      "onboard_time": 1697858250,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 125322,

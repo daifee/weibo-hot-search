@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697858241407,
+  "endTime": 1697859252349,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -1043,6 +1043,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 1459147,
+      "num": 421898,
+      "word": "陈乔恩为流浪狗发声",
+      "onboard_time": 1697856629,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1456113,
       "num": 493376,
       "word": "吴雅婷问王栎鑫你嗓子还好吗",
@@ -1355,6 +1363,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1275437,
+      "num": 1275437,
+      "word": "老师上课没收学生手机被2次锁喉",
+      "onboard_time": 1697851471,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1270541,
       "num": 441067,
       "word": "李兰迪留了长发",
@@ -1369,14 +1385,6 @@
       "onboard_time": 1697622338,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1262976,
-      "num": 1255131,
-      "word": "老师上课没收学生手机被2次锁喉",
-      "onboard_time": 1697851471,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1256727,
@@ -1497,14 +1505,6 @@
       "onboard_time": 1697723376,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1180972,
-      "num": 407486,
-      "word": "陈乔恩为流浪狗发声",
-      "onboard_time": 1697856629,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1177729,
@@ -2387,6 +2387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 857066,
+      "num": 857066,
+      "word": "二手玫瑰最初化浓妆是因为没分到包子吃",
+      "onboard_time": 1697855249,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 856734,
       "num": 467141,
       "word": "王毅与伊朗外长通电话",
@@ -2811,12 +2819,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 774140,
-      "num": 774140,
-      "word": "二手玫瑰最初化浓妆是因为没分到包子吃",
-      "onboard_time": 1697855249,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 775166,
+      "num": 775166,
+      "word": "李玟今日在武汉安葬",
+      "onboard_time": 1697856270,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 773237,
@@ -3019,6 +3027,14 @@
       "category": "国内要闻,军事"
     },
     {
+      "raw_hot": 731157,
+      "num": 731157,
+      "word": "不愧是北大 好歹毒的签到方式",
+      "onboard_time": 1697857049,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 730762,
       "num": 565369,
       "word": "杨紫时尚资源",
@@ -3049,14 +3065,6 @@
       "onboard_time": 1697551118,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 722165,
-      "num": 722165,
-      "word": "李玟今日在武汉安葬",
-      "onboard_time": 1697856270,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 720188,
@@ -3585,6 +3593,14 @@
       "onboard_time": 1697716295,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 620914,
+      "num": 620914,
+      "word": "顾漫骄阳似我完结了",
+      "onboard_time": 1697857109,
+      "rank": 6,
+      "category": "读书作家"
     },
     {
       "raw_hot": 620723,
@@ -4633,14 +4649,6 @@
       "onboard_time": 1697761114,
       "rank": 22,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 506557,
-      "num": 506557,
-      "word": "顾漫骄阳似我完结了",
-      "onboard_time": 1697857109,
-      "rank": 6,
-      "category": "读书作家"
     },
     {
       "raw_hot": 506364,
@@ -6155,6 +6163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 406708,
+      "num": 406708,
+      "word": "河边的错误 片方很有数",
+      "onboard_time": 1697857289,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 405761,
       "num": 405761,
       "word": "爷爷去世男子高速上崩溃交警守护1小时",
@@ -7467,6 +7483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 329673,
+      "num": 329673,
+      "word": "女子离婚后发现前夫婚内出轨生子",
+      "onboard_time": 1697856930,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 329418,
       "num": 329418,
       "word": "赵丽颖工作室换头像",
@@ -7955,6 +7979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305640,
+      "num": 305640,
+      "word": "库里文班亚马跳球",
+      "onboard_time": 1697857888,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 305102,
       "num": 293465,
       "word": "广州5人误食断肠草中毒",
@@ -8017,14 +8049,6 @@
       "onboard_time": 1697855970,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302821,
-      "num": 302821,
-      "word": "女子离婚后发现前夫婚内出轨生子",
-      "onboard_time": 1697856930,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 302663,
@@ -8321,14 +8345,6 @@
       "onboard_time": 1697529574,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 290161,
-      "num": 290161,
-      "word": "河边的错误 片方很有数",
-      "onboard_time": 1697857289,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 289944,
@@ -9083,14 +9099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265106,
-      "num": 265106,
-      "word": "不愧是北大 好歹毒的签到方式",
-      "onboard_time": 1697857049,
-      "rank": 26,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 264914,
       "num": 264914,
       "word": "国足8分钟连丢两球",
@@ -9625,6 +9633,14 @@
       "onboard_time": 1697367936,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 251628,
+      "num": 206901,
+      "word": "陈楚生王栎鑫在不同领域互相崇拜",
+      "onboard_time": 1697858609,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 251071,
@@ -10683,6 +10699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221483,
+      "num": 221483,
+      "word": "朱一龙河边的错误上映海报",
+      "onboard_time": 1697857888,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221482,
       "num": 194366,
       "word": "欧阳娜娜做饭款待朋友",
@@ -11235,6 +11259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 209757,
+      "num": 209757,
+      "word": "马哲请上班",
+      "onboard_time": 1697859089,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 209737,
       "num": 209737,
       "word": "乌镇戏剧节",
@@ -11297,14 +11329,6 @@
       "onboard_time": 1697792674,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208919,
-      "num": 208919,
-      "word": "库里文班亚马跳球",
-      "onboard_time": 1697857888,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 208898,
@@ -11745,6 +11769,14 @@
       "onboard_time": 1697300070,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202910,
+      "num": 202910,
+      "word": "把文淇宋威龙拍出了大S周渝民的感觉",
+      "onboard_time": 1697858132,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 202904,
@@ -12699,6 +12731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 191817,
+      "num": 191817,
+      "word": "TXT将出演蜡笔小新",
+      "onboard_time": 1697858369,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 191809,
       "num": 191809,
       "word": "家长给女儿缝制999朵纸玫瑰裙走秀",
@@ -12777,14 +12817,6 @@
       "onboard_time": 1697526093,
       "rank": 32,
       "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 190784,
-      "num": 190784,
-      "word": "朱一龙河边的错误上映海报",
-      "onboard_time": 1697857888,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 190658,
@@ -14027,6 +14059,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 170299,
+      "num": 170299,
+      "word": "普尔15中1",
+      "onboard_time": 1697858250,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170226,
       "num": 170226,
       "word": "书荒恐惧症",
@@ -14923,6 +14963,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155630,
+      "num": 155630,
+      "word": "莲花卿温记",
+      "onboard_time": 1697858970,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155563,
       "num": 155563,
       "word": "宣美新歌公开",
@@ -15569,14 +15617,6 @@
       "onboard_time": 1697508633,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 144226,
-      "num": 144226,
-      "word": "把文淇宋威龙拍出了大S周渝民的感觉",
-      "onboard_time": 1697858132,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 144029,
@@ -16227,6 +16267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128116,
+      "num": 128116,
+      "word": "文班亚马帽上瘾了",
+      "onboard_time": 1697859150,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128107,
       "num": 128107,
       "word": "女儿让张杰唱逆战",
@@ -16289,6 +16337,14 @@
       "onboard_time": 1697774072,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126287,
+      "num": 126287,
+      "word": "AR对阵nouns",
+      "onboard_time": 1697858250,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 125897,
