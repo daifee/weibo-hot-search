@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697909649898,
+  "endTime": 1697912428763,
   "band_list": [
     {
       "raw_hot": 952431,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121106,
+      "num": 121106,
+      "word": "UFC",
+      "onboard_time": 1697909122,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114953,
       "num": 132636,
       "word": "时代少年团 王者荣耀",
@@ -443,20 +451,36 @@
       "category": "电影"
     },
     {
-      "raw_hot": 53325,
-      "num": 60804,
-      "word": "UFC",
-      "onboard_time": 1697909122,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47562,
       "num": 56426,
       "word": "薛之谦常州",
       "onboard_time": 1697909602,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 47524,
+      "num": 47524,
+      "word": "宝妈客厅改练功房3个娃八仙过海",
+      "onboard_time": 1697912180,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39363,
+      "num": 39973,
+      "word": "高校通报学生宿舍内肢解流浪狗",
+      "onboard_time": 1697911585,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 33271,
+      "num": 33271,
+      "word": "欧阳娣娣方否认参加综艺海选被淘汰",
+      "onboard_time": 1697892213,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 26923,
@@ -470,6 +494,9 @@
   "hotgov_list": [
     {
       "word": "#把一带一路建成创新之路#"
+    },
+    {
+      "word": "#丝路精神是共建一带一路最重要的力量源泉#"
     }
   ]
 }

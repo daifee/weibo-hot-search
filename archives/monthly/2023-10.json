@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697909649898,
+  "endTime": 1697912428763,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -54523,6 +54523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 121106,
+      "num": 121106,
+      "word": "UFC",
+      "onboard_time": 1697909122,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121057,
       "num": 152913,
       "word": "16岁高中生勇救落水女子",
@@ -57875,14 +57883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 53325,
-      "num": 60804,
-      "word": "UFC",
-      "onboard_time": 1697909122,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 53199,
       "num": 53199,
       "word": "亚运闭幕式门票",
@@ -58089,6 +58089,14 @@
       "onboard_time": 1696440443,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 47524,
+      "num": 47524,
+      "word": "宝妈客厅改练功房3个娃八仙过海",
+      "onboard_time": 1697912180,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 47499,
@@ -58369,6 +58377,14 @@
       "onboard_time": 1697720974,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 39363,
+      "num": 39973,
+      "word": "高校通报学生宿舍内肢解流浪狗",
+      "onboard_time": 1697911585,
+      "rank": 38,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 38961,
