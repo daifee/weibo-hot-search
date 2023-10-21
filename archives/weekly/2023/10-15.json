@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697898832153,
+  "endTime": 1697901337367,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -1475,6 +1475,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270920,
+      "num": 787354,
+      "word": "张韶涵硬刚主办方",
+      "onboard_time": 1697899240,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1270541,
       "num": 441067,
       "word": "李兰迪留了长发",
@@ -1993,6 +2001,14 @@
       "onboard_time": 1697623417,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014874,
+      "num": 787160,
+      "word": "段艺璇被砸",
+      "onboard_time": 1697898580,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 1014363,
@@ -2681,6 +2697,14 @@
       "onboard_time": 1697509232,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 833147,
+      "num": 833147,
+      "word": "倪妮河南分妮最近火了",
+      "onboard_time": 1697899417,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 829347,
@@ -4809,6 +4833,14 @@
       "onboard_time": 1697334633,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 524269,
+      "num": 524269,
+      "word": "被陈都灵美到轻声尖叫",
+      "onboard_time": 1697898215,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 524076,
@@ -7435,14 +7467,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 359326,
-      "num": 359326,
-      "word": "被陈都灵美到轻声尖叫",
-      "onboard_time": 1697898215,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 359209,
       "num": 335429,
       "word": "尼龙六周年杨紫真我大片",
@@ -7683,14 +7707,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 346748,
-      "num": 312815,
-      "word": "段艺璇被砸",
-      "onboard_time": 1697898580,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 346243,
       "num": 346243,
       "word": "黄奕带女儿去王心凌演唱会",
@@ -7841,6 +7857,14 @@
       "onboard_time": 1697445994,
       "rank": 16,
       "category": "作品衍生,幽默"
+    },
+    {
+      "raw_hot": 341841,
+      "num": 313958,
+      "word": "辽宁通报保安校内勒死流浪狗",
+      "onboard_time": 1697894976,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 341398,
@@ -8457,14 +8481,6 @@
       "onboard_time": 1697551423,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 315630,
-      "num": 313958,
-      "word": "辽宁通报保安校内勒死流浪狗",
-      "onboard_time": 1697894976,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 315374,
@@ -9385,6 +9401,14 @@
       "onboard_time": 1697610694,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281731,
+      "num": 281731,
+      "word": "中国作家海漄获雨果奖",
+      "onboard_time": 1697899598,
+      "rank": 13,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 281595,
@@ -11483,6 +11507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227037,
+      "num": 227037,
+      "word": "6岁女孩被父亲忘高速服务区冷静求助",
+      "onboard_time": 1697900799,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226812,
       "num": 226812,
       "word": "丁真肺活量惊呆罗一舟",
@@ -11769,6 +11801,14 @@
       "onboard_time": 1697606854,
       "rank": 35,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 219304,
+      "num": 219304,
+      "word": "世界上最可怕的面膜",
+      "onboard_time": 1697897919,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 219217,
@@ -13003,6 +13043,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201869,
+      "num": 201869,
+      "word": "国务院取消调整33个罚款事项",
+      "onboard_time": 1697899000,
+      "rank": 21,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 201838,
       "num": 201838,
       "word": "于适知道自己演姬发的反应",
@@ -13513,6 +13561,14 @@
       "onboard_time": 1697418993,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195785,
+      "num": 195785,
+      "word": "时光音乐会",
+      "onboard_time": 1697900799,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 195765,
@@ -14723,6 +14779,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 180621,
+      "num": 197735,
+      "word": "轿车路上自燃7名保安奋勇救援",
+      "onboard_time": 1697900676,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180568,
       "num": 180568,
       "word": "这场暴雨中26小时的惊险救援看得泪目",
@@ -14825,6 +14889,14 @@
       "onboard_time": 1697467538,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178964,
+      "num": 169918,
+      "word": "多地对归国留学生开放定向选调",
+      "onboard_time": 1697900676,
+      "rank": 29,
+      "category": "教育"
     },
     {
       "raw_hot": 178860,
@@ -15064,6 +15136,14 @@
       "word": "吴宣仪害羞妆",
       "onboard_time": 1697876610,
       "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174998,
+      "num": 168900,
+      "word": "周也 素却有力的美",
+      "onboard_time": 1697900496,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -15675,6 +15755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165790,
+      "num": 165790,
+      "word": "律师称李玟已完成尸检证据已固定",
+      "onboard_time": 1697901277,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165696,
       "num": 165696,
       "word": "白鹿hi6给粉丝逆应援",
@@ -15713,6 +15801,14 @@
       "onboard_time": 1697539839,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165355,
+      "num": 165355,
+      "word": "幺四婆婆 受虐狂",
+      "onboard_time": 1697898637,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 165348,
@@ -17075,14 +17171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144133,
-      "num": 144133,
-      "word": "幺四婆婆 受虐狂",
-      "onboard_time": 1697898637,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 144029,
       "num": 144029,
       "word": "JDG BDS",
@@ -17539,6 +17627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134996,
+      "num": 134996,
+      "word": "沈诺蔓儿还没在一起就分手了",
+      "onboard_time": 1697901097,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134878,
       "num": 134878,
       "word": "新郎将婚车开上婚礼舞台炫酷出场",
@@ -17915,6 +18011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124769,
+      "num": 124769,
+      "word": "女子误扔6万元拾荒老人捡到后归还",
+      "onboard_time": 1697898820,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 124627,
       "num": 124627,
       "word": "金鸡奖",
@@ -17977,6 +18081,14 @@
       "onboard_time": 1697472450,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123331,
+      "num": 123331,
+      "word": "林一问这水怎么是咸的",
+      "onboard_time": 1697899297,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 123053,
@@ -18307,12 +18419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114199,
+      "num": 114199,
+      "word": "TTG对战情久",
+      "onboard_time": 1697899178,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114017,
       "num": 1101869,
       "word": "8组数字看懂一带一路",
       "onboard_time": 1697548360,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 113916,
+      "num": 113916,
+      "word": "阿尔瓦雷斯进球",
+      "onboard_time": 1697900917,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 113644,
@@ -18603,6 +18731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103419,
+      "num": 103419,
+      "word": "辅警十几米高空徒手翻栏杆救下孩子",
+      "onboard_time": 1697901277,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 103241,
       "num": 175226,
       "word": "半透明黑色唇膏",
@@ -18864,14 +19000,6 @@
       "word": "老人凌晨等公交去看病铁骑暖心相助",
       "onboard_time": 1697622998,
       "rank": 6,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 90512,
-      "num": 113356,
-      "word": "女子误扔6万元拾荒老人捡到后归还",
-      "onboard_time": 1697898820,
-      "rank": 49,
       "category": "社会新闻"
     },
     {

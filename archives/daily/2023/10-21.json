@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697898832153,
+  "endTime": 1697901337367,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -163,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1270920,
+      "num": 787354,
+      "word": "张韶涵硬刚主办方",
+      "onboard_time": 1697899240,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1233325,
       "num": 1233325,
       "word": "为什么阳光玫瑰变便宜也变难吃了",
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1014874,
+      "num": 787160,
+      "word": "段艺璇被砸",
+      "onboard_time": 1697898580,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1006434,
       "num": 1006434,
       "word": "央视追踪四川女童被犬咬伤事件",
@@ -297,6 +313,14 @@
       "onboard_time": 1697887231,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 833147,
+      "num": 833147,
+      "word": "倪妮河南分妮最近火了",
+      "onboard_time": 1697899417,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 822252,
@@ -545,6 +569,14 @@
       "onboard_time": 1697890774,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 524269,
+      "num": 524269,
+      "word": "被陈都灵美到轻声尖叫",
+      "onboard_time": 1697898215,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 510232,
@@ -971,14 +1003,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 359326,
-      "num": 359326,
-      "word": "被陈都灵美到轻声尖叫",
-      "onboard_time": 1697898215,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 355983,
       "num": 355983,
       "word": "王鹤棣给hi6一点霸总震撼",
@@ -1011,14 +1035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 346748,
-      "num": 312815,
-      "word": "段艺璇被砸",
-      "onboard_time": 1697898580,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 343697,
       "num": 343697,
       "word": "美国把援乌炮弹转送以色列",
@@ -1033,6 +1049,14 @@
       "onboard_time": 1697849250,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 341841,
+      "num": 313958,
+      "word": "辽宁通报保安校内勒死流浪狗",
+      "onboard_time": 1697894976,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 340089,
@@ -1121,14 +1145,6 @@
       "onboard_time": 1697869771,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 315630,
-      "num": 313958,
-      "word": "辽宁通报保安校内勒死流浪狗",
-      "onboard_time": 1697894976,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 314587,
@@ -1273,6 +1289,14 @@
       "onboard_time": 1697874571,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 281731,
+      "num": 281731,
+      "word": "中国作家海漄获雨果奖",
+      "onboard_time": 1697899598,
+      "rank": 13,
+      "category": "社会新闻,作品衍生"
     },
     {
       "raw_hot": 276935,
@@ -1603,6 +1627,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 227037,
+      "num": 227037,
+      "word": "6岁女孩被父亲忘高速服务区冷静求助",
+      "onboard_time": 1697900799,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226635,
       "num": 226635,
       "word": "李秀满真去种树了",
@@ -1657,6 +1689,14 @@
       "onboard_time": 1697870193,
       "rank": 26,
       "category": "网红"
+    },
+    {
+      "raw_hot": 219304,
+      "num": 219304,
+      "word": "世界上最可怕的面膜",
+      "onboard_time": 1697897919,
+      "rank": 18,
+      "category": "美妆"
     },
     {
       "raw_hot": 217694,
@@ -1867,6 +1907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201869,
+      "num": 201869,
+      "word": "国务院取消调整33个罚款事项",
+      "onboard_time": 1697899000,
+      "rank": 21,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 201732,
       "num": 201732,
       "word": "老人穿红衣服进羊圈被羊顶死",
@@ -1953,6 +2001,14 @@
       "onboard_time": 1697885494,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 195785,
+      "num": 195785,
+      "word": "时光音乐会",
+      "onboard_time": 1697900799,
+      "rank": 24,
+      "category": "音乐"
     },
     {
       "raw_hot": 195325,
@@ -2107,6 +2163,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 180621,
+      "num": 197735,
+      "word": "轿车路上自燃7名保安奋勇救援",
+      "onboard_time": 1697900676,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178964,
+      "num": 169918,
+      "word": "多地对归国留学生开放定向选调",
+      "onboard_time": 1697900676,
+      "rank": 29,
+      "category": "教育"
+    },
+    {
       "raw_hot": 178559,
       "num": 178559,
       "word": "大湾区音乐汇节目单",
@@ -2128,6 +2200,14 @@
       "word": "吴宣仪害羞妆",
       "onboard_time": 1697876610,
       "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 174998,
+      "num": 168900,
+      "word": "周也 素却有力的美",
+      "onboard_time": 1697900496,
+      "rank": 30,
       "category": "作品衍生"
     },
     {
@@ -2203,12 +2283,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 165790,
+      "num": 165790,
+      "word": "律师称李玟已完成尸检证据已固定",
+      "onboard_time": 1697901277,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165696,
       "num": 165696,
       "word": "白鹿hi6给粉丝逆应援",
       "onboard_time": 1697873675,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165355,
+      "num": 165355,
+      "word": "幺四婆婆 受虐狂",
+      "onboard_time": 1697898637,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 164882,
@@ -2491,14 +2587,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 144133,
-      "num": 144133,
-      "word": "幺四婆婆 受虐狂",
-      "onboard_time": 1697898637,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 143992,
       "num": 143992,
       "word": "黑河摊主大妈秀俄语丝滑翻译",
@@ -2584,6 +2672,14 @@
       "word": "我的女神室友斗娜",
       "onboard_time": 1697816793,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134996,
+      "num": 134996,
+      "word": "沈诺蔓儿还没在一起就分手了",
+      "onboard_time": 1697901097,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -2723,6 +2819,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124769,
+      "num": 124769,
+      "word": "女子误扔6万元拾荒老人捡到后归还",
+      "onboard_time": 1697898820,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123331,
+      "num": 123331,
+      "word": "林一问这水怎么是咸的",
+      "onboard_time": 1697899297,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122664,
       "num": 122664,
       "word": "月亮",
@@ -2785,6 +2897,22 @@
       "onboard_time": 1697895277,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 114199,
+      "num": 114199,
+      "word": "TTG对战情久",
+      "onboard_time": 1697899178,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 113916,
+      "num": 113916,
+      "word": "阿尔瓦雷斯进球",
+      "onboard_time": 1697900917,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 112028,
@@ -2899,6 +3027,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103419,
+      "num": 103419,
+      "word": "辅警十几米高空徒手翻栏杆救下孩子",
+      "onboard_time": 1697901277,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102817,
       "num": 102817,
       "word": "估计司机也是第一次拉这么可爱的货",
@@ -2969,14 +3105,6 @@
       "onboard_time": 1697813736,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90512,
-      "num": 113356,
-      "word": "女子误扔6万元拾荒老人捡到后归还",
-      "onboard_time": 1697898820,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 88181,

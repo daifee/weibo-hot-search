@@ -1,0 +1,410 @@
+{
+  "runTime": 1697901337367,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 993530,
+        "num": 993530,
+        "word": "英国穷小子验DNA证明自己是富豪独子",
+        "onboard_time": 1697888971,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 833147,
+        "num": 833147,
+        "word": "倪妮河南分妮最近火了",
+        "onboard_time": 1697899417,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159030,
+        "num": 794057,
+        "word": "2023大湾区音乐汇",
+        "onboard_time": 1697895757,
+        "rank": 2,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 1270920,
+        "num": 787354,
+        "word": "张韶涵硬刚主办方",
+        "onboard_time": 1697899240,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1014874,
+        "num": 787160,
+        "word": "段艺璇被砸",
+        "onboard_time": 1697898580,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 772153,
+        "num": 772153,
+        "word": "张碧晨 撕裂",
+        "onboard_time": 1697892811,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 524269,
+        "num": 524269,
+        "word": "被陈都灵美到轻声尖叫",
+        "onboard_time": 1697898215,
+        "rank": 6,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 498949,
+        "num": 498949,
+        "word": "肺炎支原体感染11月或将迎感染高峰",
+        "onboard_time": 1697891314,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394550,
+        "num": 394550,
+        "word": "隐性饥饿正在偷走你的健康",
+        "onboard_time": 1697891674,
+        "rank": 8,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 285041,
+        "num": 285041,
+        "word": "墨香铜臭",
+        "onboard_time": 1697866953,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 515446,
+        "num": 283831,
+        "word": "这就是街舞",
+        "onboard_time": 1697892574,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 442274,
+        "num": 282807,
+        "word": "河边的错误 看完不走",
+        "onboard_time": 1697887231,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 417505,
+        "num": 282589,
+        "word": "李玟母亲痛斥李玟丈夫出轨",
+        "onboard_time": 1697884412,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281731,
+        "num": 281731,
+        "word": "中国作家海漄获雨果奖",
+        "onboard_time": 1697899598,
+        "rank": 13,
+        "category": "社会新闻,作品衍生"
+      },
+      {
+        "raw_hot": 341841,
+        "num": 268405,
+        "word": "辽宁通报保安校内勒死流浪狗",
+        "onboard_time": 1697894976,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 309599,
+        "num": 255503,
+        "word": "戚薇长裙三层楼高",
+        "onboard_time": 1697890774,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 283961,
+        "num": 251852,
+        "word": "河边的错误解析",
+        "onboard_time": 1697886871,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227037,
+        "num": 227037,
+        "word": "6岁女孩被父亲忘高速服务区冷静求助",
+        "onboard_time": 1697900799,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 219304,
+        "num": 219304,
+        "word": "世界上最可怕的面膜",
+        "onboard_time": 1697897919,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 214408,
+        "num": 214408,
+        "word": "AG 上上签",
+        "onboard_time": 1697896779,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 252778,
+        "num": 208288,
+        "word": "女子称买烤鸭遇店员做假动作片肉",
+        "onboard_time": 1697894618,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201869,
+        "num": 201869,
+        "word": "国务院取消调整33个罚款事项",
+        "onboard_time": 1697899000,
+        "rank": 21,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 201767,
+        "num": 201767,
+        "word": "易烊千玺新电影小小的我杀青",
+        "onboard_time": 1697888308,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180621,
+        "num": 197735,
+        "word": "轿车路上自燃7名保安奋勇救援",
+        "onboard_time": 1697900676,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195785,
+        "num": 195785,
+        "word": "时光音乐会",
+        "onboard_time": 1697900799,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187277,
+        "num": 187277,
+        "word": "毛晓彤演绎笑着哭最痛",
+        "onboard_time": 1697898215,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181104,
+        "num": 181104,
+        "word": "傅园慧首谈上恋综的经历",
+        "onboard_time": 1697892396,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176836,
+        "num": 176836,
+        "word": "第一次对1000万有了实体概念",
+        "onboard_time": 1697877034,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171287,
+        "num": 171287,
+        "word": "善良店员想免单被强塞现金还投喂了地瓜",
+        "onboard_time": 1697898037,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178964,
+        "num": 169918,
+        "word": "多地对归国留学生开放定向选调",
+        "onboard_time": 1697900676,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174998,
+        "num": 168900,
+        "word": "周也 素却有力的美",
+        "onboard_time": 1697900496,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 165790,
+        "num": 165790,
+        "word": "律师称李玟已完成尸检证据已固定",
+        "onboard_time": 1697901277,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165355,
+        "num": 165355,
+        "word": "幺四婆婆 受虐狂",
+        "onboard_time": 1697898637,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 155614,
+        "num": 155614,
+        "word": "螃蟹壳是最好的化痰散结的药",
+        "onboard_time": 1697891674,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150619,
+        "num": 150619,
+        "word": "我们从农村飞出来了但妈妈没有",
+        "onboard_time": 1697889272,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144935,
+        "num": 144935,
+        "word": "大学四年买了三千只口红",
+        "onboard_time": 1697872412,
+        "rank": 35,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 142052,
+        "num": 142052,
+        "word": "时代少年团 王者荣耀",
+        "onboard_time": 1697886993,
+        "rank": 36,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 137114,
+        "num": 137114,
+        "word": "方筱然害怕到手抖好真实",
+        "onboard_time": 1697886452,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134996,
+        "num": 134996,
+        "word": "沈诺蔓儿还没在一起就分手了",
+        "onboard_time": 1697901097,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131670,
+        "num": 131670,
+        "word": "张常宁复出女排联赛",
+        "onboard_time": 1697892811,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126309,
+        "num": 126309,
+        "word": "田嘉瑞诚恳的电了秦霄贤",
+        "onboard_time": 1697894976,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126221,
+        "num": 126221,
+        "word": "杨鸣缺席总冠军颁奖仪式",
+        "onboard_time": 1697897738,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124769,
+        "num": 124769,
+        "word": "女子误扔6万元拾荒老人捡到后归还",
+        "onboard_time": 1697898820,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123331,
+        "num": 123331,
+        "word": "林一问这水怎么是咸的",
+        "onboard_time": 1697899297,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117840,
+        "num": 117840,
+        "word": "小米14",
+        "onboard_time": 1697885673,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 114199,
+        "num": 114199,
+        "word": "TTG对战情久",
+        "onboard_time": 1697899178,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113916,
+        "num": 113916,
+        "word": "阿尔瓦雷斯进球",
+        "onboard_time": 1697900917,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112928,
+        "num": 112928,
+        "word": "变美点痣法",
+        "onboard_time": 1697896779,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 103419,
+        "num": 103419,
+        "word": "辅警十几米高空徒手翻栏杆救下孩子",
+        "onboard_time": 1697901277,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103192,
+        "num": 103192,
+        "word": "Stray Kids MEGAVERSE 舞台",
+        "onboard_time": 1697897558,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#把一带一路建成创新之路#"
+    }
+  }
+}
