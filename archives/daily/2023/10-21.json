@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697869260657,
+  "endTime": 1697870054367,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -11,8 +11,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1640183,
-      "num": 1640183,
+      "raw_hot": 1640456,
+      "num": 1640456,
       "word": "墨香铜臭",
       "onboard_time": 1697866953,
       "rank": 0,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 781299,
-      "num": 453809,
+      "num": 477267,
       "word": "李玟雕像",
       "onboard_time": 1697864670,
       "rank": 12,
@@ -227,6 +227,14 @@
       "category": "社会新闻,演出"
     },
     {
+      "raw_hot": 671706,
+      "num": 330404,
+      "word": "JK罗琳 不是",
+      "onboard_time": 1697868335,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 663452,
       "num": 663452,
       "word": "调停者型人格",
@@ -283,20 +291,20 @@
       "category": "网红"
     },
     {
+      "raw_hot": 606735,
+      "num": 354625,
+      "word": "张元英 不是三次元人的感觉",
+      "onboard_time": 1697865872,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 600573,
       "num": 600573,
       "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
       "onboard_time": 1697847931,
       "rank": 25,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 598749,
-      "num": 354625,
-      "word": "张元英 不是三次元人的感觉",
-      "onboard_time": 1697865872,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 594202,
@@ -427,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 448204,
+      "num": 448204,
+      "word": "赵丽颖月桂女神妆",
+      "onboard_time": 1697866411,
+      "rank": 46,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 444946,
       "num": 444946,
       "word": "轻断食一天瘦多少",
@@ -451,14 +467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 432663,
-      "num": 330404,
-      "word": "JK罗琳 不是",
-      "onboard_time": 1697868335,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430837,
       "num": 430837,
       "word": "广西平果一车间发生爆炸",
@@ -467,12 +475,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 428708,
-      "num": 428708,
-      "word": "赵丽颖月桂女神妆",
-      "onboard_time": 1697866411,
-      "rank": 46,
-      "category": "作品衍生,美妆"
+      "raw_hot": 430077,
+      "num": 310723,
+      "word": "阿朵 被杀死的小狗变成一个小土堆",
+      "onboard_time": 1697869710,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 426772,
@@ -587,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 356653,
+      "num": 303148,
+      "word": "男子1块钱拍下奔驰卖方拒绝发货",
+      "onboard_time": 1697868693,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 351865,
       "num": 351865,
       "word": "周也 美的好轻松",
@@ -699,6 +715,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 289248,
+      "num": 289248,
+      "word": "双十一你还看李佳琦吗",
+      "onboard_time": 1697865154,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 287256,
       "num": 287256,
       "word": "边伯贤 英雄联盟新歌",
@@ -731,14 +755,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 277685,
-      "num": 277685,
-      "word": "双十一你还看李佳琦吗",
-      "onboard_time": 1697865154,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 276935,
       "num": 276935,
       "word": "LGD晋级TI12胜者组半决赛",
@@ -753,6 +769,14 @@
       "onboard_time": 1697847328,
       "rank": 22,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269925,
+      "num": 256701,
+      "word": "华晨宇叫唐嫣糖糖",
+      "onboard_time": 1697868212,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 269274,
@@ -793,14 +817,6 @@
       "onboard_time": 1697864191,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 256701,
-      "num": 256701,
-      "word": "华晨宇叫唐嫣糖糖",
-      "onboard_time": 1697868212,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 256230,
@@ -979,14 +995,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 223177,
-      "num": 180550,
-      "word": "男子1块钱拍下奔驰卖方拒绝发货",
-      "onboard_time": 1697868693,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 221483,
       "num": 221483,
       "word": "朱一龙河边的错误上映海报",
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 217694,
-      "num": 177298,
+      "num": 202502,
       "word": "Minji夫感",
       "onboard_time": 1697867851,
       "rank": 32,
@@ -1041,6 +1049,14 @@
       "onboard_time": 1697851228,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 209009,
+      "num": 188818,
+      "word": "一场没有答案的映后交流",
+      "onboard_time": 1697869771,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 208724,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1697861789,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188727,
+      "num": 188727,
+      "word": "老师称没打学生11个耳光只扇了五六下",
+      "onboard_time": 1697868991,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187855,
@@ -1363,8 +1387,8 @@
       "category": "情感,时尚"
     },
     {
-      "raw_hot": 150972,
-      "num": 150972,
+      "raw_hot": 153916,
+      "num": 153916,
       "word": "爸妈的审美才是装修最大的坑",
       "onboard_time": 1697868871,
       "rank": 38,
@@ -1425,6 +1449,14 @@
       "onboard_time": 1697860953,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 142960,
+      "num": 142960,
+      "word": "李小冉为流浪狗发声",
+      "onboard_time": 1697869954,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 141786,
@@ -1491,6 +1523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134878,
+      "num": 134878,
+      "word": "新郎将婚车开上婚礼舞台炫酷出场",
+      "onboard_time": 1697868753,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 134036,
       "num": 134036,
       "word": "张雨霏200蝶三连冠",
@@ -1529,14 +1569,6 @@
       "onboard_time": 1697850208,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131347,
-      "num": 131347,
-      "word": "老师称没打学生11个耳光只扇了五六下",
-      "onboard_time": 1697868991,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 130611,
@@ -1643,6 +1675,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 108192,
+      "num": 108192,
+      "word": "百词斩比赛进不去",
+      "onboard_time": 1697870011,
+      "rank": 48,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107893,
       "num": 107893,
       "word": "莽村李宏伟新剧不莽了",
@@ -1681,6 +1721,14 @@
       "onboard_time": 1697843601,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105395,
+      "num": 105395,
+      "word": "把点餐的九宫格火锅当自助吃吃",
+      "onboard_time": 1697870011,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 102817,
