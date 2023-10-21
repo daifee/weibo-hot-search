@@ -1,0 +1,410 @@
+{
+  "runTime": 1697892337781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1325227,
+        "num": 1325227,
+        "word": "英国穷小子验DNA证明自己是富豪独子",
+        "onboard_time": 1697888971,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 841185,
+        "num": 841185,
+        "word": "河边的错误 看完不走",
+        "onboard_time": 1697887231,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53490,
+        "num": 664443,
+        "word": "这条路使单程通行时间从一周缩至6小时",
+        "onboard_time": 1697871269,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493287,
+        "num": 493287,
+        "word": "马哲孩子 疯子",
+        "onboard_time": 1697886692,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1012446,
+        "num": 487184,
+        "word": "李玟家人要求警方调查李玟死因",
+        "onboard_time": 1697889153,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440703,
+        "num": 440703,
+        "word": "肺炎支原体感染11月或将迎感染高峰",
+        "onboard_time": 1697891314,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 386621,
+        "num": 386621,
+        "word": "墨香铜臭",
+        "onboard_time": 1697866953,
+        "rank": 6,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 379385,
+        "num": 379385,
+        "word": "河边的错误解析",
+        "onboard_time": 1697886871,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 369094,
+        "num": 369094,
+        "word": "周杰伦退后 2007年现场",
+        "onboard_time": 1697883630,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263126,
+        "num": 263126,
+        "word": "于文亮说我走红是因为大家太累了",
+        "onboard_time": 1697888072,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 996365,
+        "num": 262922,
+        "word": "李玟母亲痛斥李玟丈夫出轨",
+        "onboard_time": 1697884412,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469071,
+        "num": 259409,
+        "word": "戚薇长裙三层楼高",
+        "onboard_time": 1697890774,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 309059,
+        "num": 256409,
+        "word": "陈都灵亲程潇脸路透",
+        "onboard_time": 1697888012,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1027391,
+        "num": 255231,
+        "word": "二狗",
+        "onboard_time": 1697881650,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 253232,
+        "num": 253232,
+        "word": "小米14",
+        "onboard_time": 1697885673,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 255665,
+        "num": 245599,
+        "word": "时代少年团 王者荣耀",
+        "onboard_time": 1697886993,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 262722,
+        "num": 239723,
+        "word": "戚薇成都演唱会",
+        "onboard_time": 1697891194,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 755316,
+        "num": 239341,
+        "word": "吃播 假吃",
+        "onboard_time": 1697875771,
+        "rank": 17,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 232996,
+        "num": 232996,
+        "word": "学天津大姨把头发梳成大人模样",
+        "onboard_time": 1697887952,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 382330,
+        "num": 232812,
+        "word": "颖儿回应被说假吃",
+        "onboard_time": 1697880153,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 320945,
+        "num": 231996,
+        "word": "易烊千玺新电影小小的我杀青",
+        "onboard_time": 1697888308,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 250881,
+        "num": 231632,
+        "word": "大学四年买了三千只口红",
+        "onboard_time": 1697872412,
+        "rank": 21,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 234859,
+        "num": 230673,
+        "word": "第一次对1000万有了实体概念",
+        "onboard_time": 1697877034,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 233908,
+        "num": 230144,
+        "word": "一场没有答案的映后交流",
+        "onboard_time": 1697869771,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229604,
+        "num": 229604,
+        "word": "隐性饥饿正在偷走你的健康",
+        "onboard_time": 1697891674,
+        "rank": 24,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 227374,
+        "num": 227374,
+        "word": "张碧晨尾号920演唱会",
+        "onboard_time": 1697890413,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 216183,
+        "num": 216183,
+        "word": "快递员知道你们小区多少秘密",
+        "onboard_time": 1697888432,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212966,
+        "num": 212966,
+        "word": "朱一龙河边的错误表演张力",
+        "onboard_time": 1697865872,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195458,
+        "num": 195458,
+        "word": "钟薛高在职员工称已两三月未发工资",
+        "onboard_time": 1697871511,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155043,
+        "num": 191573,
+        "word": "男孩碎玻璃卡喉交警狂飙送医",
+        "onboard_time": 1697891552,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 190704,
+        "num": 190704,
+        "word": "刘涛白色蕾丝拖地鱼尾裙",
+        "onboard_time": 1697891552,
+        "rank": 30,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 189140,
+        "num": 189140,
+        "word": "钟楚曦拍海报偷看张云龙",
+        "onboard_time": 1697877452,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198057,
+        "num": 188456,
+        "word": "朱一龙演技",
+        "onboard_time": 1697892032,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187395,
+        "num": 187395,
+        "word": "腮红 韩妆的精髓",
+        "onboard_time": 1697891552,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 186304,
+        "num": 186304,
+        "word": "方筱然害怕到手抖好真实",
+        "onboard_time": 1697886452,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179907,
+        "num": 179907,
+        "word": "我们从农村飞出来了但妈妈没有",
+        "onboard_time": 1697889272,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176613,
+        "num": 176613,
+        "word": "螃蟹壳是最好的化痰散结的药",
+        "onboard_time": 1697891674,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 172790,
+        "num": 172790,
+        "word": "河边的错误 河流是更接近真相的",
+        "onboard_time": 1697864191,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171460,
+        "num": 171460,
+        "word": "田耕纪",
+        "onboard_time": 1697888613,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131321,
+        "num": 164540,
+        "word": "90后小伙为救人40天减重40斤",
+        "onboard_time": 1697885074,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158937,
+        "num": 158937,
+        "word": "生理性喜欢才是爱的前提吗",
+        "onboard_time": 1697875352,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152206,
+        "num": 152206,
+        "word": "赵露思 人嘛该翻篇就得翻篇了",
+        "onboard_time": 1697873250,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149333,
+        "num": 149333,
+        "word": "研究称肚子胖的人脑子可能更笨",
+        "onboard_time": 1697878232,
+        "rank": 42,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 147170,
+        "num": 147170,
+        "word": "男朋友是最好的搭子",
+        "onboard_time": 1697890655,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 145147,
+        "num": 145147,
+        "word": "i人的合照姿势",
+        "onboard_time": 1697886272,
+        "rank": 44,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 143294,
+        "num": 143294,
+        "word": "问心",
+        "onboard_time": 1697891194,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135759,
+        "num": 135759,
+        "word": "欧阳娣娣方否认参加综艺海选被淘汰",
+        "onboard_time": 1697892213,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132318,
+        "num": 132318,
+        "word": "大湾区音乐汇",
+        "onboard_time": 1697888133,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118525,
+        "num": 131857,
+        "word": "大学生私自取回自己电动车被处分",
+        "onboard_time": 1697879430,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110822,
+        "num": 131341,
+        "word": "小区举办千人臊子宴老人同吃面",
+        "onboard_time": 1697891794,
+        "rank": 49,
+        "category": "社会新闻,美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路精神是共建一带一路最重要的力量源泉#"
+    }
+  }
+}

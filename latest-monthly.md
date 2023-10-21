@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 20:30:18
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 20:45:37
 </p>
 </blockquote>
 <p>
@@ -3351,6 +3351,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E7%A9%B7%E5%B0%8F%E5%AD%90%E9%AA%8CDNA%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1%E6%98%AF%E5%AF%8C%E8%B1%AA%E7%8B%AC%E5%AD%90%23" target="weibo">
+英国穷小子验DNA证明自己是富豪独子（热度：1325227）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%B9%E4%BC%AF%E8%B4%A4%20%E6%8A%97%E6%97%A5%E7%A5%9E%E5%89%A7%23" target="weibo">
 边伯贤 抗日神剧（热度：1325047）
 </a>
@@ -6005,12 +6011,6 @@ Xiaomi HyperOS（热度：858223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%82%AE%E6%94%BF%20%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88%23" target="weibo">
 中国邮政 魔道祖师（热度：854024）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%81%8B5%E7%94%B7%E5%98%89%E5%AE%BE%E6%8A%8A%E5%A5%B3%E5%98%89%E5%AE%BE%E5%90%BC%E5%93%AD%E4%BA%86%23" target="weibo">
-恋5男嘉宾把女嘉宾吼哭了（热度：853863）
 </a>
 </li>
 
