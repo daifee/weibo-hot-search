@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 23:33:47
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 00:20:27
 </p>
 </blockquote>
 <p>
@@ -5229,6 +5229,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%AF%B4%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E9%BB%84%E5%AD%90%E9%9F%AC%E6%98%AF19%E5%B2%81%23" target="weibo">
+何炅说第一次见黄子韬是19岁（热度：952431）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%BC%A6%E5%A4%A9%E5%A5%B4%23" target="weibo">
 华伦天奴（热度：952334）
 </a>
@@ -6005,12 +6011,6 @@ Xiaomi HyperOS（热度：858223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8C%E6%89%8B%E7%8E%AB%E7%91%B0%E6%9C%80%E5%88%9D%E5%8C%96%E6%B5%93%E5%A6%86%E6%98%AF%E5%9B%A0%E4%B8%BA%E6%B2%A1%E5%88%86%E5%88%B0%E5%8C%85%E5%AD%90%E5%90%83%23" target="weibo">
 二手玫瑰最初化浓妆是因为没分到包子吃（热度：857066）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E9%80%9A%E7%94%B5%E8%AF%9D%23" target="weibo">
-王毅与伊朗外长通电话（热度：856734）
 </a>
 </li>
 
