@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697884446556,
+  "endTime": 1697886806286,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -19,6 +19,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1875339,
+      "num": 1010521,
+      "word": "二狗",
+      "onboard_time": 1697881650,
+      "rank": 5,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1850738,
       "num": 1850738,
       "word": "欧阳娣娣海选 淘汰",
@@ -33,6 +41,14 @@
       "onboard_time": 1697818531,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1735374,
+      "num": 354141,
+      "word": "李玟母亲痛斥李玟丈夫出轨",
+      "onboard_time": 1697884412,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 1640456,
@@ -57,14 +73,6 @@
       "onboard_time": 1697812835,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1574103,
-      "num": 1010521,
-      "word": "二狗",
-      "onboard_time": 1697881650,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 1558802,
@@ -803,6 +811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 375330,
+      "num": 352641,
+      "word": "周杰伦退后 2007年现场",
+      "onboard_time": 1697883630,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 364704,
       "num": 364704,
       "word": "贵州三个小朋友捡了个小小朋友",
@@ -947,6 +963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 313777,
+      "num": 313777,
+      "word": "小米14",
+      "onboard_time": 1697885673,
+      "rank": 14,
+      "category": "数码"
+    },
+    {
       "raw_hot": 312898,
       "num": 277879,
       "word": "你每月到手工资有多少",
@@ -1001,14 +1025,6 @@
       "onboard_time": 1697865154,
       "rank": 47,
       "category": "网红"
-    },
-    {
-      "raw_hot": 289096,
-      "num": 203230,
-      "word": "周杰伦退后 2007年现场",
-      "onboard_time": 1697883630,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 287256,
@@ -1105,6 +1121,14 @@
       "onboard_time": 1697857888,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 263611,
+      "num": 428832,
+      "word": "90后小伙为救人40天减重40斤",
+      "onboard_time": 1697885074,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 263200,
@@ -1515,6 +1539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201987,
+      "num": 201987,
+      "word": "周笔畅女大十八变巡回演唱会",
+      "onboard_time": 1697886212,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 201732,
       "num": 201732,
       "word": "老人穿红衣服进羊圈被羊顶死",
@@ -1571,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196054,
+      "num": 196054,
+      "word": "邓为库存拍立得",
+      "onboard_time": 1697885494,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 195325,
       "num": 195325,
       "word": "TI12星穹铁道德比",
@@ -1593,6 +1633,14 @@
       "onboard_time": 1697792855,
       "rank": 28,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 193166,
+      "num": 193166,
+      "word": "周也哭戏 破碎感",
+      "onboard_time": 1697885432,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 192856,
@@ -1656,6 +1704,14 @@
       "word": "CN战队锁定TI12前三",
       "onboard_time": 1697866411,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 184243,
+      "num": 184243,
+      "word": "s13",
+      "onboard_time": 1697886512,
+      "rank": 33,
       "category": "电竞"
     },
     {
@@ -1787,12 +1843,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 161774,
+      "num": 214391,
+      "word": "GEN零封G2",
+      "onboard_time": 1697886751,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161197,
       "num": 161197,
       "word": "12306回应200克葡萄售价60元",
       "onboard_time": 1697807252,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160863,
+      "num": 160863,
+      "word": "现在的雪糕都这么卷了吗",
+      "onboard_time": 1697886333,
+      "rank": 36,
+      "category": "美食"
     },
     {
       "raw_hot": 160547,
@@ -1843,6 +1915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157358,
+      "num": 157358,
+      "word": "方筱然害怕到手抖好真实",
+      "onboard_time": 1697886452,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155892,
       "num": 155892,
       "word": "林一撕漫男主",
@@ -1857,6 +1937,14 @@
       "onboard_time": 1697847088,
       "rank": 37,
       "category": "财经"
+    },
+    {
+      "raw_hot": 154764,
+      "num": 154764,
+      "word": "马哲孩子 疯子",
+      "onboard_time": 1697886692,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 154062,
@@ -1881,6 +1969,14 @@
       "onboard_time": 1697853029,
       "rank": 41,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150118,
+      "num": 202207,
+      "word": "G2对战GEN",
+      "onboard_time": 1697884893,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 149945,
@@ -1924,7 +2020,7 @@
     },
     {
       "raw_hot": 146464,
-      "num": 146464,
+      "num": 196080,
       "word": "五星级酒店收养流浪动物获旅客称赞",
       "onboard_time": 1697878590,
       "rank": 44,
@@ -1979,6 +2075,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 140825,
+      "num": 140825,
+      "word": "i人的合照姿势",
+      "onboard_time": 1697886272,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 140285,
       "num": 140285,
       "word": "现在孩子的书房都这么先进了吗",
@@ -2009,14 +2113,6 @@
       "onboard_time": 1697849428,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 137343,
-      "num": 137343,
-      "word": "李玟母亲痛斥李玟丈夫出轨",
-      "onboard_time": 1697884412,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 137035,
@@ -2340,7 +2436,7 @@
     },
     {
       "raw_hot": 93283,
-      "num": 93283,
+      "num": 138476,
       "word": "社区请80位老人吃长寿面提前过重阳节",
       "onboard_time": 1697884412,
       "rank": 49,
