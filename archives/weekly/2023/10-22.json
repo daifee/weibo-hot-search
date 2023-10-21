@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697912428763,
+  "endTime": 1697913253003,
   "band_list": [
     {
       "raw_hot": 952431,
@@ -251,6 +251,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 152554,
+      "num": 152554,
+      "word": "UFC",
+      "onboard_time": 1697909122,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152459,
       "num": 141821,
       "word": "戚薇长裙三层楼高",
@@ -305,14 +313,6 @@
       "onboard_time": 1697901698,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121106,
-      "num": 121106,
-      "word": "UFC",
-      "onboard_time": 1697909122,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 114953,
@@ -451,6 +451,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 67221,
+      "num": 67221,
+      "word": "高校通报学生宿舍内肢解流浪狗",
+      "onboard_time": 1697911585,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 47895,
+      "num": 47895,
+      "word": "疯子成了马哲 马哲成了疯子",
+      "onboard_time": 1697912598,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 47562,
       "num": 56426,
       "word": "薛之谦常州",
@@ -465,14 +481,6 @@
       "onboard_time": 1697912180,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 39363,
-      "num": 39973,
-      "word": "高校通报学生宿舍内肢解流浪狗",
-      "onboard_time": 1697911585,
-      "rank": 38,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 33271,
