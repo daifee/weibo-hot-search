@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697926500987,
+  "endTime": 1697927632760,
   "band_list": [
     {
       "raw_hot": 952431,
@@ -395,6 +395,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 88072,
+      "num": 79279,
+      "word": "青岛啤酒风波知情人发声",
+      "onboard_time": 1697920034,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 84869,
       "num": 78402,
       "word": "唐艺昕成都citywalk",
@@ -409,6 +417,14 @@
       "onboard_time": 1697872412,
       "rank": 44,
       "category": "幽默,美妆"
+    },
+    {
+      "raw_hot": 82962,
+      "num": 76411,
+      "word": "当在咸鱼上刷到自己丢失的演出门票",
+      "onboard_time": 1697914757,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 82112,
@@ -459,22 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 69793,
-      "num": 60099,
-      "word": "青岛啤酒风波知情人发声",
-      "onboard_time": 1697920034,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 63666,
-      "num": 58187,
-      "word": "当在咸鱼上刷到自己丢失的演出门票",
-      "onboard_time": 1697914757,
-      "rank": 37,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 48032,
       "num": 48032,
       "word": "疯子成了马哲 马哲成了疯子",
@@ -515,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30795,
+      "num": 30795,
+      "word": "杨紫超话阅读量超千亿",
+      "onboard_time": 1697925795,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26923,
       "num": 723575,
       "word": "建设一个开放包容互联互通共同发展的世界",
@@ -531,20 +539,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 20046,
-      "num": 20046,
+      "raw_hot": 22413,
+      "num": 22413,
       "word": "傅园慧首谈上恋综的经历",
       "onboard_time": 1697892396,
       "rank": 49,
       "category": "综艺"
     },
     {
-      "raw_hot": 18933,
-      "num": 18933,
-      "word": "杨紫超话阅读量超千亿",
-      "onboard_time": 1697925795,
-      "rank": 35,
-      "category": "艺人"
+      "raw_hot": 16557,
+      "num": 19344,
+      "word": "2023大湾区音乐汇",
+      "onboard_time": 1697895757,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 16404,
+      "num": 19340,
+      "word": "魔卡少女樱 原画套图",
+      "onboard_time": 1697919913,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 16254,
@@ -553,22 +569,6 @@
       "onboard_time": 1697922374,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 15815,
-      "num": 15980,
-      "word": "魔卡少女樱 原画套图",
-      "onboard_time": 1697919913,
-      "rank": 46,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 15749,
-      "num": 15976,
-      "word": "2023大湾区音乐汇",
-      "onboard_time": 1697895757,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 13634,
