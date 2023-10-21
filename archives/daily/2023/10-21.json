@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697865316404,
+  "endTime": 1697866447837,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -40,6 +40,14 @@
       "word": "陈乔恩为流浪狗发声",
       "onboard_time": 1697856629,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1525564,
+      "num": 432110,
+      "word": "斓曦 流浪猫狗有什么错",
+      "onboard_time": 1697864371,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -139,11 +147,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 779415,
-      "num": 349954,
-      "word": "斓曦 流浪猫狗有什么错",
-      "onboard_time": 1697864371,
-      "rank": 11,
+      "raw_hot": 781299,
+      "num": 430721,
+      "word": "李玟雕像",
+      "onboard_time": 1697864670,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 771988,
+      "num": 771988,
+      "word": "大量沙丁鱼涌入日本渔港后集体死亡",
+      "onboard_time": 1697862512,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 764517,
       "num": 764517,
       "word": "你好星期六全员总裁文学",
@@ -179,12 +195,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 745878,
-      "num": 345060,
-      "word": "李玟雕像",
-      "onboard_time": 1697864670,
-      "rank": 12,
-      "category": "艺人"
+      "raw_hot": 739478,
+      "num": 739478,
+      "word": "青岛啤酒涉事工厂是世界级智慧工厂",
+      "onboard_time": 1697865031,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 737826,
@@ -211,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 654189,
+      "num": 428021,
+      "word": "原来爱豆没在恋爱是这个反应",
+      "onboard_time": 1697863770,
+      "rank": 14,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 652151,
       "num": 434829,
       "word": "邓紫棋美拉德妆",
@@ -224,14 +248,6 @@
       "word": "90后夫妻产下猫叫患儿医院被起诉",
       "onboard_time": 1697845526,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 634257,
-      "num": 634257,
-      "word": "大量沙丁鱼涌入日本渔港后集体死亡",
-      "onboard_time": 1697862512,
-      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -259,14 +275,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 600941,
-      "num": 329219,
-      "word": "原来爱豆没在恋爱是这个反应",
-      "onboard_time": 1697863770,
-      "rank": 14,
-      "category": "综艺,艺人"
-    },
-    {
       "raw_hot": 600573,
       "num": 600573,
       "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
@@ -275,20 +283,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 594202,
+      "num": 594202,
+      "word": "以爱为营",
+      "onboard_time": 1697864010,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 582742,
       "num": 417550,
       "word": "加沙居民早起排队3小时抢面饼",
       "onboard_time": 1697847511,
       "rank": 8,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 566350,
-      "num": 566350,
-      "word": "以爱为营",
-      "onboard_time": 1697864010,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 547202,
@@ -411,6 +419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 432879,
+      "num": 432879,
+      "word": "水龙吟",
+      "onboard_time": 1697865031,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430837,
       "num": 430837,
       "word": "广西平果一车间发生爆炸",
@@ -451,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 410096,
+      "num": 410096,
+      "word": "马天宇 原生家庭是因不是果",
+      "onboard_time": 1697865452,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 404482,
       "num": 404482,
       "word": "肖战风衣大片",
@@ -467,6 +491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395908,
+      "num": 395908,
+      "word": "警犬进校园被大学生围观撸掉毛",
+      "onboard_time": 1697863890,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 395298,
       "num": 395298,
       "word": "骄阳似我",
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 388985,
-      "num": 296921,
+      "num": 319797,
       "word": "女子网购500件3.8元毛衣到手货不对板",
       "onboard_time": 1697861431,
       "rank": 31,
@@ -523,6 +555,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 354625,
+      "num": 354625,
+      "word": "张元英 不是三次元人的感觉",
+      "onboard_time": 1697865872,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 351865,
+      "num": 351865,
+      "word": "周也 美的好轻松",
+      "onboard_time": 1697864134,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343697,
       "num": 343697,
       "word": "美国把援乌炮弹转送以色列",
@@ -563,14 +611,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 325862,
-      "num": 325862,
-      "word": "周也 美的好轻松",
-      "onboard_time": 1697864134,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 320752,
       "num": 320752,
       "word": "林孝埈世界杯500米晋级",
@@ -585,14 +625,6 @@
       "onboard_time": 1697855309,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 307391,
-      "num": 307391,
-      "word": "警犬进校园被大学生围观撸掉毛",
-      "onboard_time": 1697863890,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 305640,
@@ -611,16 +643,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301709,
-      "num": 201272,
-      "word": "青岛啤酒涉事工厂是世界级智慧工厂",
-      "onboard_time": 1697865031,
-      "rank": 31,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 301073,
-      "num": 200952,
+      "num": 352076,
       "word": "车内化妆",
       "onboard_time": 1697862990,
       "rank": 32,
@@ -675,6 +699,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 269274,
+      "num": 269274,
+      "word": "朱一龙河边的错误表演张力",
+      "onboard_time": 1697865872,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "陈汉典获奖感谢小S蔡康永",
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 258185,
-      "num": 200800,
+      "num": 202691,
       "word": "河边的错误 河流是更接近真相的",
       "onboard_time": 1697864191,
       "rank": 33,
@@ -745,6 +777,14 @@
       "onboard_time": 1697858609,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248598,
+      "num": 241281,
+      "word": "双十一你还看李佳琦吗",
+      "onboard_time": 1697865154,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 243085,
@@ -979,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202839,
-      "num": 202839,
-      "word": "水龙吟",
-      "onboard_time": 1697865031,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201732,
       "num": 201732,
       "word": "老人穿红衣服进羊圈被羊顶死",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1697844624,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195325,
+      "num": 195325,
+      "word": "TI12星穹铁道德比",
+      "onboard_time": 1697866232,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 193366,
@@ -1195,6 +1235,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159323,
+      "num": 159323,
+      "word": "电竞人也有养成系",
+      "onboard_time": 1697866355,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159189,
       "num": 159189,
       "word": "考古的风还是吹向了曾舜晞",
@@ -1241,14 +1289,6 @@
       "onboard_time": 1697855131,
       "rank": 41,
       "category": "美食"
-    },
-    {
-      "raw_hot": 148086,
-      "num": 148086,
-      "word": "双十一你还看李佳琦吗",
-      "onboard_time": 1697865154,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 147309,
@@ -1432,6 +1472,22 @@
       "word": "LPL又是内战",
       "onboard_time": 1697808274,
       "rank": 39,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 124002,
+      "num": 124002,
+      "word": "赵丽颖月桂女神妆",
+      "onboard_time": 1697866411,
+      "rank": 46,
+      "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 120391,
+      "num": 120391,
+      "word": "CN战队锁定TI12前三",
+      "onboard_time": 1697866411,
+      "rank": 49,
       "category": "电竞"
     },
     {
