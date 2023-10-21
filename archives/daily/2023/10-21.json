@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697873646089,
+  "endTime": 1697876374223,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -123,8 +123,16 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1141969,
+      "num": 660076,
+      "word": "赵露思 人嘛该翻篇就得翻篇了",
+      "onboard_time": 1697873250,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1100760,
-      "num": 300590,
+      "num": 329152,
       "word": "老疯杨",
       "onboard_time": 1697871210,
       "rank": 11,
@@ -171,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 872089,
+      "num": 872089,
+      "word": "钟薛高在职员工称已两三月未发工资",
+      "onboard_time": 1697871511,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 860300,
       "num": 528898,
       "word": "巴勒斯坦民众与以色列军警发生冲突",
@@ -193,14 +209,6 @@
       "onboard_time": 1697862934,
       "rank": 1,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 782402,
-      "num": 782402,
-      "word": "钟薛高在职员工称已两三月未发工资",
-      "onboard_time": 1697871511,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 781299,
@@ -259,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 710900,
+      "num": 281357,
+      "word": "大学四年买了三千只口红",
+      "onboard_time": 1697872412,
+      "rank": 21,
+      "category": "幽默,美妆"
+    },
+    {
       "raw_hot": 708669,
       "num": 708669,
       "word": "黄牛一人收100带歌迷强闯演唱会",
       "onboard_time": 1697859933,
       "rank": 4,
       "category": "社会新闻,演出"
-    },
-    {
-      "raw_hot": 690373,
-      "num": 281357,
-      "word": "大学四年买了三千只口红",
-      "onboard_time": 1697872412,
-      "rank": 21,
-      "category": "幽默,美妆"
     },
     {
       "raw_hot": 671706,
@@ -313,6 +321,14 @@
       "onboard_time": 1697845526,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643148,
+      "num": 643148,
+      "word": "欧阳娣娣海选 淘汰",
+      "onboard_time": 1697875829,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 620914,
@@ -419,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 489059,
+      "num": 489059,
+      "word": "张一山智斗切糕大爷",
+      "onboard_time": 1697873132,
+      "rank": 18,
+      "category": "网红"
+    },
+    {
       "raw_hot": 483905,
       "num": 446741,
       "word": "流浪猫第一次吃猫条连声说好吃",
@@ -515,6 +539,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 446704,
+      "num": 446704,
+      "word": "我们讨好型人格 打ok都是okk",
+      "onboard_time": 1697874090,
+      "rank": 6,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 444946,
       "num": 444946,
       "word": "轻断食一天瘦多少",
@@ -603,6 +635,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 390427,
+      "num": 315290,
+      "word": "吃播 假吃",
+      "onboard_time": 1697875771,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 388985,
       "num": 319797,
       "word": "女子网购500件3.8元毛衣到手货不对板",
@@ -620,7 +660,7 @@
     },
     {
       "raw_hot": 383381,
-      "num": 300291,
+      "num": 362997,
       "word": "四川泸州坠江宝马车被打捞出水",
       "onboard_time": 1697872050,
       "rank": 33,
@@ -643,6 +683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 369066,
+      "num": 369066,
+      "word": "朱一龙河边的错误表演张力",
+      "onboard_time": 1697865872,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 364704,
       "num": 364704,
       "word": "贵州三个小朋友捡了个小小朋友",
@@ -657,6 +705,14 @@
       "onboard_time": 1697821705,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 359374,
+      "num": 293993,
+      "word": "李一桐性感野猫妆",
+      "onboard_time": 1697871210,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 351865,
@@ -699,20 +755,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337367,
+      "num": 337367,
+      "word": "河边的错误 河流是更接近真相的",
+      "onboard_time": 1697864191,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 335244,
       "num": 335244,
       "word": "宋佳笑到扶李现",
       "onboard_time": 1697848649,
       "rank": 14,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 331220,
-      "num": 300197,
-      "word": "赵露思 人嘛该翻篇就得翻篇了",
-      "onboard_time": 1697873250,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 326154,
@@ -729,14 +785,6 @@
       "onboard_time": 1697850871,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 313067,
-      "num": 313067,
-      "word": "朱一龙河边的错误表演张力",
-      "onboard_time": 1697865872,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 312898,
@@ -779,20 +827,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 292428,
-      "num": 292428,
-      "word": "李一桐性感野猫妆",
-      "onboard_time": 1697871210,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292334,
       "num": 292334,
       "word": "巴以冲突超5600人死亡",
       "onboard_time": 1697854111,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 291090,
+      "num": 291090,
+      "word": "一场没有答案的映后交流",
+      "onboard_time": 1697869771,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 289248,
@@ -835,6 +883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 282116,
+      "num": 282116,
+      "word": "王睡睡婚姻 沉没成本",
+      "onboard_time": 1697874571,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276935,
       "num": 276935,
       "word": "LGD晋级TI12胜者组半决赛",
@@ -851,6 +907,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 272653,
+      "num": 215273,
+      "word": "马哲请上班",
+      "onboard_time": 1697859089,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 269925,
       "num": 256701,
       "word": "华晨宇叫唐嫣糖糖",
@@ -859,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267556,
-      "num": 267556,
-      "word": "张一山智斗切糕大爷",
-      "onboard_time": 1697873132,
-      "rank": 18,
-      "category": "网红"
+      "raw_hot": 268901,
+      "num": 268901,
+      "word": "生理性喜欢才是爱的前提吗",
+      "onboard_time": 1697875352,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 267426,
@@ -883,19 +947,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 265494,
+      "num": 221483,
+      "word": "朱一龙河边的错误上映海报",
+      "onboard_time": 1697857888,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 260709,
+      "num": 202284,
+      "word": "黄子韬他急了",
+      "onboard_time": 1697875170,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258389,
       "num": 258389,
       "word": "当霉霉的电影在中国内地上映",
       "onboard_time": 1697850333,
       "rank": 38,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 258185,
-      "num": 240638,
-      "word": "河边的错误 河流是更接近真相的",
-      "onboard_time": 1697864191,
-      "rank": 33,
       "category": "电影"
     },
     {
@@ -971,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 238819,
-      "num": 221483,
-      "word": "朱一龙河边的错误上映海报",
-      "onboard_time": 1697857888,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 238484,
       "num": 238484,
       "word": "savage一响 浅漠登场",
@@ -1019,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 234424,
-      "num": 208121,
-      "word": "一场没有答案的映后交流",
-      "onboard_time": 1697869771,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 234167,
       "num": 234167,
       "word": "日综采访中国老人长寿秘诀",
@@ -1043,20 +1099,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 232231,
+      "num": 232231,
+      "word": "女子与男友吵架怒划16万爱马仕包",
+      "onboard_time": 1697873010,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 230491,
+      "num": 199966,
+      "word": "霸道总裁和他的大学生弟弟",
+      "onboard_time": 1697875111,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229802,
       "num": 229802,
       "word": "4位白发奶奶聚会涮火锅有说有笑",
       "onboard_time": 1697862333,
       "rank": 29,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 227869,
-      "num": 215273,
-      "word": "马哲请上班",
-      "onboard_time": 1697859089,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 227380,
@@ -1131,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 216224,
+      "num": 280033,
+      "word": "援助加沙的大量物资仍滞留拉法口岸",
+      "onboard_time": 1697870732,
+      "rank": 29,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 211216,
       "num": 211216,
       "word": "TXT将出演蜡笔小新",
@@ -1187,20 +1259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 204482,
+      "num": 204482,
+      "word": "JDG对战LNG",
+      "onboard_time": 1697875471,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 203844,
       "num": 203844,
       "word": "李健唱了王菲的如愿",
       "onboard_time": 1697813494,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 203154,
-      "num": 182745,
-      "word": "女子与男友吵架怒划16万爱马仕包",
-      "onboard_time": 1697873010,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 202910,
@@ -1275,6 +1347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 193808,
+      "num": 193808,
+      "word": "王鹤棣给hi6一点霸总震撼",
+      "onboard_time": 1697875590,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 193366,
       "num": 193366,
       "word": "杨幂素妆",
@@ -1339,14 +1419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183879,
-      "num": 208176,
-      "word": "援助加沙的大量物资仍滞留拉法口岸",
-      "onboard_time": 1697870732,
-      "rank": 29,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 183684,
       "num": 183684,
       "word": "伐木工人伍佰",
@@ -1355,20 +1427,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178559,
+      "num": 178559,
+      "word": "大湾区音乐汇节目单",
+      "onboard_time": 1697873071,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 176217,
+      "num": 176217,
+      "word": "王源微博转评赞破40亿",
+      "onboard_time": 1697875290,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173701,
       "num": 173701,
       "word": "谷爱凌说不要害怕做自己的最好",
       "onboard_time": 1697850389,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 172724,
-      "num": 172724,
-      "word": "大湾区音乐汇节目单",
-      "onboard_time": 1697873071,
-      "rank": 41,
-      "category": "音乐"
     },
     {
       "raw_hot": 171531,
@@ -1408,6 +1488,14 @@
       "word": "0713的友情也太好哭了",
       "onboard_time": 1697854352,
       "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 165696,
+      "num": 165696,
+      "word": "白鹿hi6给粉丝逆应援",
+      "onboard_time": 1697873675,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -1803,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113780,
+      "num": 177107,
+      "word": "Gala单杀Ruler",
+      "onboard_time": 1697876189,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112028,
       "num": 112028,
       "word": "青岛啤酒称涉事麦芽已全部封存",
@@ -1913,6 +2009,22 @@
       "onboard_time": 1697824280,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82799,
+      "num": 135607,
+      "word": "车站广播一嗓子为女子喊来了救命药",
+      "onboard_time": 1697875890,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 80614,
+      "num": 133596,
+      "word": "00后轮椅男孩篮球赛为中国队拿17分",
+      "onboard_time": 1697874152,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 79466,
@@ -2049,6 +2161,14 @@
       "onboard_time": 1697833993,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11964,
+      "num": 664027,
+      "word": "这条路使单程通行时间从一周缩至6小时",
+      "onboard_time": 1697871269,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
