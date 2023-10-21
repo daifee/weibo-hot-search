@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697897649853,
+  "endTime": 1697898832153,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -971,12 +971,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 359326,
+      "num": 359326,
+      "word": "被陈都灵美到轻声尖叫",
+      "onboard_time": 1697898215,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 355983,
       "num": 355983,
       "word": "王鹤棣给hi6一点霸总震撼",
       "onboard_time": 1697875590,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 353210,
+      "num": 241930,
+      "word": "女子称买烤鸭遇店员做假动作片肉",
+      "onboard_time": 1697894618,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 351865,
@@ -993,6 +1009,14 @@
       "onboard_time": 1697864191,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 346748,
+      "num": 312815,
+      "word": "段艺璇被砸",
+      "onboard_time": 1697898580,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 343697,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1697866534,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 339786,
-      "num": 241930,
-      "word": "女子称买烤鸭遇店员做假动作片肉",
-      "onboard_time": 1697894618,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 339442,
@@ -1108,7 +1124,7 @@
     },
     {
       "raw_hot": 315630,
-      "num": 239979,
+      "num": 313958,
       "word": "辽宁通报保安校内勒死流浪狗",
       "onboard_time": 1697894976,
       "rank": 30,
@@ -1491,6 +1507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 234920,
+      "num": 234920,
+      "word": "中国科幻作品再获雨果奖",
+      "onboard_time": 1697897436,
+      "rank": 30,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 234864,
       "num": 234864,
       "word": "3小伙在自助火锅店喝掉60多瓶饮料",
@@ -1667,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215910,
+      "num": 215910,
+      "word": "毛晓彤演绎笑着哭最痛",
+      "onboard_time": 1697898215,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215468,
       "num": 256863,
       "word": "怀孕母牛满眼感激地看着消防员",
@@ -1793,6 +1825,14 @@
       "onboard_time": 1697894976,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204163,
+      "num": 238985,
+      "word": "善良店员想免单被强塞现金还投喂了地瓜",
+      "onboard_time": 1697898037,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203844,
@@ -2083,14 +2123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177016,
-      "num": 177016,
-      "word": "中国科幻作品再获雨果奖",
-      "onboard_time": 1697897436,
-      "rank": 30,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 175051,
       "num": 175051,
       "word": "吴宣仪害羞妆",
@@ -2371,6 +2403,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 149745,
+      "num": 149745,
+      "word": "好莱坞明星都是怎么防脱发",
+      "onboard_time": 1697898159,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 149304,
       "num": 149304,
       "word": "傅韵哲起诉原际画",
@@ -2393,6 +2433,14 @@
       "onboard_time": 1697896837,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147960,
+      "num": 147960,
+      "word": "Stray Kids MEGAVERSE 舞台",
+      "onboard_time": 1697897558,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 147438,
@@ -2443,6 +2491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 144133,
+      "num": 144133,
+      "word": "幺四婆婆 受虐狂",
+      "onboard_time": 1697898637,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143992,
       "num": 143992,
       "word": "黑河摊主大妈秀俄语丝滑翻译",
@@ -2473,6 +2529,14 @@
       "onboard_time": 1697844503,
       "rank": 17,
       "category": "其它"
+    },
+    {
+      "raw_hot": 140176,
+      "num": 235411,
+      "word": "杨鸣缺席总冠军颁奖仪式",
+      "onboard_time": 1697897738,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 139992,
@@ -2659,6 +2723,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122664,
+      "num": 122664,
+      "word": "月亮",
+      "onboard_time": 1697898159,
+      "rank": 46,
+      "category": "自然"
+    },
+    {
       "raw_hot": 121913,
       "num": 203243,
       "word": "退休阿姨坚持16年帮助高龄独居老人",
@@ -2745,14 +2817,6 @@
       "onboard_time": 1697878472,
       "rank": 47,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 108931,
-      "num": 108931,
-      "word": "Stray Kids MEGAVERSE 舞台",
-      "onboard_time": 1697897558,
-      "rank": 47,
-      "category": "演出"
     },
     {
       "raw_hot": 107893,
@@ -2905,6 +2969,14 @@
       "onboard_time": 1697813736,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90512,
+      "num": 113356,
+      "word": "女子误扔6万元拾荒老人捡到后归还",
+      "onboard_time": 1697898820,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 88181,
