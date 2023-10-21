@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 19:33:59
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 20:30:18
 </p>
 </blockquote>
 <p>
@@ -4005,6 +4005,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%9F%E5%AE%B6%E4%BA%BA%E8%A6%81%E6%B1%82%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5%E6%9D%8E%E7%8E%9F%E6%AD%BB%E5%9B%A0%23" target="weibo">
+李玟家人要求警方调查李玟死因（热度：1151950）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%89%9B%E4%BB%94%E5%8F%A0%E7%A9%BF%23" target="weibo">
 易烊千玺牛仔叠穿（热度：1151015）
 </a>
@@ -6005,12 +6011,6 @@ Xiaomi HyperOS（热度：858223）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B5%E7%94%B7%E5%98%89%E5%AE%BE%E6%8A%8A%E5%A5%B3%E5%98%89%E5%AE%BE%E5%90%BC%E5%93%AD%E4%BA%86%23" target="weibo">
 恋5男嘉宾把女嘉宾吼哭了（热度：853863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%AF%97%E6%B2%A3%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
-李诗沣进决赛（热度：852879）
 </a>
 </li>
 
