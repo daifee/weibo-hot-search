@@ -1,0 +1,410 @@
+{
+  "runTime": 1697862002810,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1195010,
+        "num": 1195010,
+        "word": "老师上课没收学生手机被2次锁喉",
+        "onboard_time": 1697851471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 809808,
+        "num": 809808,
+        "word": "二手玫瑰最初化浓妆是因为没分到包子吃",
+        "onboard_time": 1697855249,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24341,
+        "num": 716643,
+        "word": "大道之行筑梦丝路",
+        "onboard_time": 1697848049,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1295168,
+        "num": 713390,
+        "word": "不愧是北大 好歹毒的签到方式",
+        "onboard_time": 1697857049,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 708669,
+        "num": 708669,
+        "word": "黄牛一人收100带歌迷强闯演唱会",
+        "onboard_time": 1697859933,
+        "rank": 4,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 510232,
+        "num": 510232,
+        "word": "一念花开定档",
+        "onboard_time": 1697861669,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 509479,
+        "num": 509479,
+        "word": "河边的错误 片方很有数",
+        "onboard_time": 1697857289,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 462121,
+        "num": 462121,
+        "word": "顾漫骄阳似我完结了",
+        "onboard_time": 1697857109,
+        "rank": 7,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 455197,
+        "num": 455197,
+        "word": "李玟今日在武汉安葬",
+        "onboard_time": 1697856270,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377050,
+        "num": 448791,
+        "word": "巴勒斯坦民众与以色列军警发生冲突",
+        "onboard_time": 1697844202,
+        "rank": 9,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 1538606,
+        "num": 448302,
+        "word": "陈乔恩为流浪狗发声",
+        "onboard_time": 1697856629,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693200,
+        "num": 448263,
+        "word": "女子离婚后发现前夫婚内出轨生子",
+        "onboard_time": 1697856930,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 444946,
+        "num": 444946,
+        "word": "轻断食一天瘦多少",
+        "onboard_time": 1697856389,
+        "rank": 12,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 424219,
+        "num": 424219,
+        "word": "徐志胜说关晓彤不是以前的关晓彤了",
+        "onboard_time": 1697852969,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395249,
+        "num": 395249,
+        "word": "汉服圈被雪王挤进去了",
+        "onboard_time": 1697860471,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398205,
+        "num": 393246,
+        "word": "网红罗大美遇害案经过",
+        "onboard_time": 1697849848,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 380143,
+        "num": 380143,
+        "word": "真有人出了本书教老人用手机",
+        "onboard_time": 1697861734,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328904,
+        "num": 328904,
+        "word": "中国流浪狗数量高达4000万只",
+        "onboard_time": 1697850807,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 326084,
+        "num": 326084,
+        "word": "广东女性乳腺结节检出率高于全国",
+        "onboard_time": 1697855369,
+        "rank": 18,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 300079,
+        "num": 300079,
+        "word": "小慧君胜诉",
+        "onboard_time": 1697818531,
+        "rank": 19,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 543052,
+        "num": 300012,
+        "word": "薛之谦演唱会改词为流浪狗发声",
+        "onboard_time": 1697845267,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 299160,
+        "num": 299160,
+        "word": "已经彻底当台偶看了",
+        "onboard_time": 1697850511,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290820,
+        "num": 290820,
+        "word": "骄阳似我",
+        "onboard_time": 1697860831,
+        "rank": 22,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 289783,
+        "num": 289783,
+        "word": "你好星期六全员总裁文学",
+        "onboard_time": 1697854650,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 255356,
+        "num": 255356,
+        "word": "成人高考",
+        "onboard_time": 1697859390,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236364,
+        "num": 236364,
+        "word": "原来华晨宇唱了何以笙箫默插曲",
+        "onboard_time": 1697859450,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236307,
+        "num": 236307,
+        "word": "莲花卿温记",
+        "onboard_time": 1697858970,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235571,
+        "num": 235571,
+        "word": "库里文班亚马跳球",
+        "onboard_time": 1697857888,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231103,
+        "num": 231103,
+        "word": "河边的错误",
+        "onboard_time": 1697846967,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226635,
+        "num": 226635,
+        "word": "李秀满真去种树了",
+        "onboard_time": 1697860535,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392398,
+        "num": 223813,
+        "word": "流浪猫第一次吃猫条连声说好吃",
+        "onboard_time": 1697860710,
+        "rank": 30,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 258776,
+        "num": 220415,
+        "word": "女子网购500件3.8元毛衣到手货不对板",
+        "onboard_time": 1697861431,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216742,
+        "num": 216742,
+        "word": "沪指3000点跌破51次也能站上来51次",
+        "onboard_time": 1697859331,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 215273,
+        "num": 215273,
+        "word": "马哲请上班",
+        "onboard_time": 1697859089,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 211216,
+        "num": 211216,
+        "word": "TXT将出演蜡笔小新",
+        "onboard_time": 1697858369,
+        "rank": 34,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 213332,
+        "num": 208305,
+        "word": "朱一龙河边的错误上映海报",
+        "onboard_time": 1697857888,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199029,
+        "num": 199029,
+        "word": "你好李焕英 人本身的情感要素",
+        "onboard_time": 1697821705,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191455,
+        "num": 191455,
+        "word": "陈楚生王栎鑫在不同领域互相崇拜",
+        "onboard_time": 1697858609,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178271,
+        "num": 178271,
+        "word": "鞠婧祎秋日排练照",
+        "onboard_time": 1697861789,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177236,
+        "num": 177236,
+        "word": "广州5岁女童被小区内犬只咬伤",
+        "onboard_time": 1697847749,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170819,
+        "num": 170819,
+        "word": "被狗咬女童家属称每天医药费1万左右",
+        "onboard_time": 1697822901,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163832,
+        "num": 163832,
+        "word": "肖战风衣大片",
+        "onboard_time": 1697853934,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157989,
+        "num": 157989,
+        "word": "这些城市上大分",
+        "onboard_time": 1697857289,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 155205,
+        "num": 155205,
+        "word": "村里的小孩叫那英奶奶",
+        "onboard_time": 1697855970,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147381,
+        "num": 147381,
+        "word": "巴以冲突超5600人死亡",
+        "onboard_time": 1697854111,
+        "rank": 44,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 145846,
+        "num": 145846,
+        "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
+        "onboard_time": 1697847931,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143992,
+        "num": 143992,
+        "word": "黑河摊主大妈秀俄语丝滑翻译",
+        "onboard_time": 1697860953,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141252,
+        "num": 141252,
+        "word": "邓紫棋美拉德妆",
+        "onboard_time": 1697851411,
+        "rank": 47,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 138932,
+        "num": 138932,
+        "word": "国考报名人数已突破100万",
+        "onboard_time": 1697853391,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 119919,
+        "num": 119919,
+        "word": "带蜜上节目 大张伟也太好了",
+        "onboard_time": 1697861970,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路精神是共建一带一路最重要的力量源泉#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697859252349,
+  "endTime": 1697862002810,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -35,8 +35,8 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 1459147,
-      "num": 421898,
+      "raw_hot": 1538606,
+      "num": 448302,
       "word": "陈乔恩为流浪狗发声",
       "onboard_time": 1697856629,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1697822901,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1295168,
+      "num": 731157,
+      "word": "不愧是北大 好歹毒的签到方式",
+      "onboard_time": 1697857049,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 1275437,
@@ -155,12 +163,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 731157,
-      "num": 731157,
-      "word": "不愧是北大 好歹毒的签到方式",
-      "onboard_time": 1697857049,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 708669,
+      "num": 708669,
+      "word": "黄牛一人收100带歌迷强闯演唱会",
+      "onboard_time": 1697859933,
+      "rank": 4,
+      "category": "社会新闻,演出"
+    },
+    {
+      "raw_hot": 693200,
+      "num": 448263,
+      "word": "女子离婚后发现前夫婚内出轨生子",
+      "onboard_time": 1697856930,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 663452,
@@ -235,6 +251,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510232,
+      "num": 510232,
+      "word": "一念花开定档",
+      "onboard_time": 1697861669,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 509479,
+      "num": 509479,
+      "word": "河边的错误 片方很有数",
+      "onboard_time": 1697857289,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 480267,
       "num": 480267,
       "word": "广东女性乳腺结节检出率高于全国",
@@ -291,6 +323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 444946,
+      "num": 444946,
+      "word": "轻断食一天瘦多少",
+      "onboard_time": 1697856389,
+      "rank": 28,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 432962,
       "num": 432962,
       "word": "金牛座越来越冷漠的原因",
@@ -339,14 +379,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 406708,
-      "num": 406708,
-      "word": "河边的错误 片方很有数",
-      "onboard_time": 1697857289,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 404482,
       "num": 404482,
       "word": "肖战风衣大片",
@@ -363,11 +395,35 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395249,
+      "num": 395249,
+      "word": "汉服圈被雪王挤进去了",
+      "onboard_time": 1697860471,
+      "rank": 14,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 392398,
+      "num": 223813,
+      "word": "流浪猫第一次吃猫条连声说好吃",
+      "onboard_time": 1697860710,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 387322,
       "num": 387322,
       "word": "杭州情侣回应不花钱办一场婚礼",
       "onboard_time": 1697812357,
       "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 380143,
+      "num": 380143,
+      "word": "真有人出了本书教老人用手机",
+      "onboard_time": 1697861734,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -427,14 +483,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 329673,
-      "num": 329673,
-      "word": "女子离婚后发现前夫婚内出轨生子",
-      "onboard_time": 1697856930,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 326154,
       "num": 326154,
       "word": "小蓝姐姐原来长大后这么痛苦",
@@ -481,6 +529,14 @@
       "onboard_time": 1697854111,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 290820,
+      "num": 290820,
+      "word": "骄阳似我",
+      "onboard_time": 1697860831,
+      "rank": 22,
+      "category": "读书作家"
     },
     {
       "raw_hot": 287256,
@@ -539,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258776,
+      "num": 220415,
+      "word": "女子网购500件3.8元毛衣到手货不对板",
+      "onboard_time": 1697861431,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 258389,
       "num": 258389,
       "word": "当霉霉的电影在中国内地上映",
@@ -553,6 +617,14 @@
       "onboard_time": 1697819428,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255356,
+      "num": 255356,
+      "word": "成人高考",
+      "onboard_time": 1697859390,
+      "rank": 24,
+      "category": "教育"
     },
     {
       "raw_hot": 252138,
@@ -603,6 +675,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 236364,
+      "num": 236364,
+      "word": "原来华晨宇唱了何以笙箫默插曲",
+      "onboard_time": 1697859450,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 236307,
+      "num": 236307,
+      "word": "莲花卿温记",
+      "onboard_time": 1697858970,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234864,
       "num": 234864,
       "word": "3小伙在自助火锅店喝掉60多瓶饮料",
@@ -627,12 +715,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 232432,
-      "num": 232432,
-      "word": "轻断食一天瘦多少",
-      "onboard_time": 1697856389,
+      "raw_hot": 231103,
+      "num": 231103,
+      "word": "河边的错误",
+      "onboard_time": 1697846967,
       "rank": 28,
-      "category": "运动健身"
+      "category": "电影"
     },
     {
       "raw_hot": 227380,
@@ -641,6 +729,14 @@
       "onboard_time": 1697853934,
       "rank": 25,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 226635,
+      "num": 226635,
+      "word": "李秀满真去种树了",
+      "onboard_time": 1697860535,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 226545,
@@ -675,6 +771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 216742,
+      "num": 216742,
+      "word": "沪指3000点跌破51次也能站上来51次",
+      "onboard_time": 1697859331,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 216260,
       "num": 216260,
       "word": "问心林逸哥哥下线",
@@ -683,12 +787,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209757,
-      "num": 209757,
+      "raw_hot": 215273,
+      "num": 215273,
       "word": "马哲请上班",
       "onboard_time": 1697859089,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211216,
+      "num": 211216,
+      "word": "TXT将出演蜡笔小新",
+      "onboard_time": 1697858369,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 209419,
@@ -787,14 +899,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 191817,
-      "num": 191817,
-      "word": "TXT将出演蜡笔小新",
-      "onboard_time": 1697858369,
-      "rank": 32,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 187855,
       "num": 183013,
       "word": "LGD对阵9P",
@@ -833,6 +937,14 @@
       "onboard_time": 1697854229,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 178271,
+      "num": 178271,
+      "word": "鞠婧祎秋日排练照",
+      "onboard_time": 1697861789,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 173701,
@@ -939,14 +1051,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 155630,
-      "num": 155630,
-      "word": "莲花卿温记",
-      "onboard_time": 1697858970,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 155248,
       "num": 155248,
       "word": "日本老年人养老金现状",
@@ -1008,6 +1112,14 @@
       "word": "原来这就是纯狱风",
       "onboard_time": 1697855131,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 143992,
+      "num": 143992,
+      "word": "黑河摊主大妈秀俄语丝滑翻译",
+      "onboard_time": 1697860953,
+      "rank": 46,
       "category": "社会新闻"
     },
     {
@@ -1168,6 +1280,14 @@
       "word": "唐嫣提示杨迪往回倒0.5个词",
       "onboard_time": 1697843120,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 119919,
+      "num": 119919,
+      "word": "带蜜上节目 大张伟也太好了",
+      "onboard_time": 1697861970,
+      "rank": 49,
       "category": "综艺"
     },
     {
@@ -1441,6 +1561,9 @@
     },
     {
       "word": "#一带一路的朋友圈为何越来越大#"
+    },
+    {
+      "word": "#丝路精神是共建一带一路最重要的力量源泉#"
     }
   ]
 }
