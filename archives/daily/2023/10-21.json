@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697853739542,
+  "endTime": 1697854860672,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1123479,
+      "num": 379638,
+      "word": "老师上课没收学生手机被2次锁喉",
+      "onboard_time": 1697851471,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1099640,
       "num": 372361,
       "word": "广州5岁女童被小区内犬只咬伤",
@@ -75,16 +83,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 957135,
-      "num": 379638,
-      "word": "老师上课没收学生手机被2次锁喉",
-      "onboard_time": 1697851471,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 917846,
-      "num": 333575,
+      "num": 348265,
       "word": "薛之谦演唱会改词为流浪狗发声",
       "onboard_time": 1697845267,
       "rank": 15,
@@ -113,6 +113,14 @@
       "onboard_time": 1697808032,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 711299,
+      "num": 711299,
+      "word": "徐志胜说关晓彤不是以前的关晓彤了",
+      "onboard_time": 1697852969,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 663452,
@@ -171,11 +179,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 470135,
-      "num": 470135,
+      "raw_hot": 521792,
+      "num": 521792,
       "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
       "onboard_time": 1697847931,
       "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 471229,
+      "num": 377432,
+      "word": "中国流浪狗数量高达4000万只",
+      "onboard_time": 1697850807,
+      "rank": 31,
       "category": "社会新闻"
     },
     {
@@ -283,11 +299,19 @@
       "category": "演出"
     },
     {
-      "raw_hot": 377432,
-      "num": 377432,
-      "word": "中国流浪狗数量高达4000万只",
-      "onboard_time": 1697850807,
-      "rank": 31,
+      "raw_hot": 371725,
+      "num": 371725,
+      "word": "国考报名人数已突破100万",
+      "onboard_time": 1697853391,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 364704,
+      "num": 364704,
+      "word": "贵州三个小朋友捡了个小小朋友",
+      "onboard_time": 1697853510,
+      "rank": 40,
       "category": "社会新闻"
     },
     {
@@ -297,14 +321,6 @@
       "onboard_time": 1697821705,
       "rank": 49,
       "category": "电影"
-    },
-    {
-      "raw_hot": 352289,
-      "num": 352289,
-      "word": "徐志胜说关晓彤不是以前的关晓彤了",
-      "onboard_time": 1697852969,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 343697,
@@ -363,6 +379,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 278310,
+      "num": 278310,
+      "word": "肖战风衣大片",
+      "onboard_time": 1697853934,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 275179,
       "num": 275179,
       "word": "王耀庆喀什古城偶遇新疆胡歌",
@@ -411,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 243085,
+      "num": 223865,
+      "word": "pp 椰树pose",
+      "onboard_time": 1697853510,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 240607,
       "num": 240607,
       "word": "周也行走的茉莉青提",
@@ -451,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 226975,
+      "num": 226975,
+      "word": "边伯贤 英雄联盟新歌",
+      "onboard_time": 1697854111,
+      "rank": 19,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 226545,
       "num": 226545,
       "word": "关晓彤机械姬妆",
@@ -467,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223316,
+      "num": 223316,
+      "word": "孩子跟谁睡就愿意和谁亲吗",
+      "onboard_time": 1697853934,
+      "rank": 25,
+      "category": "母婴育儿"
+    },
+    {
       "raw_hot": 221377,
       "num": 221377,
       "word": "你是否认同 追竞让人审美降级",
@@ -475,12 +523,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 218978,
+      "num": 218978,
+      "word": "巴以冲突超5600人死亡",
+      "onboard_time": 1697854111,
+      "rank": 26,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 216260,
       "num": 216260,
       "word": "问心林逸哥哥下线",
       "onboard_time": 1697850991,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214375,
+      "num": 214375,
+      "word": "你好星期六全员总裁文学",
+      "onboard_time": 1697854650,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 209419,
@@ -579,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178343,
-      "num": 178343,
-      "word": "国考报名人数已突破100万",
-      "onboard_time": 1697853391,
+      "raw_hot": 183684,
+      "num": 183684,
+      "word": "伐木工人伍佰",
+      "onboard_time": 1697854229,
       "rank": 32,
-      "category": "教育"
+      "category": "演出"
     },
     {
       "raw_hot": 173701,
@@ -601,6 +665,14 @@
       "onboard_time": 1697811453,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 167324,
+      "num": 167324,
+      "word": "0713的友情也太好哭了",
+      "onboard_time": 1697854352,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 164882,
@@ -651,28 +723,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 154841,
-      "num": 154841,
-      "word": "pp 椰树pose",
-      "onboard_time": 1697853510,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 154062,
       "num": 154062,
       "word": "奶奶六年前给我买的金项链",
       "onboard_time": 1697809896,
       "rank": 33,
       "category": "情感,时尚"
-    },
-    {
-      "raw_hot": 153087,
-      "num": 153087,
-      "word": "贵州三个小朋友捡了个小小朋友",
-      "onboard_time": 1697853510,
-      "rank": 40,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 150526,
@@ -723,6 +779,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 139992,
+      "num": 139992,
+      "word": "四川达古冰川首次发现荒漠猫",
+      "onboard_time": 1697854533,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 137711,
       "num": 137711,
       "word": "749局有1700个特效镜头",
@@ -745,6 +809,14 @@
       "onboard_time": 1697818950,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136136,
+      "num": 136136,
+      "word": "高叶高马尾银白挑染",
+      "onboard_time": 1697854650,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 135948,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 10:02:19
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 10:21:00
 </p>
 </blockquote>
 <p>
@@ -4029,6 +4029,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB2%E6%AC%A1%E9%94%81%E5%96%89%23" target="weibo">
+老师上课没收学生手机被2次锁喉（热度：1123479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%99%88%E6%A2%A627%E6%8B%8D%E7%9B%B8%E6%8C%81%23" target="weibo">
 孙颖莎陈梦27拍相持（热度：1122807）
 </a>
@@ -5051,12 +5057,6 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%89%8B%E6%B4%97%E4%B8%8D%E5%B9%B2%E5%87%80%E8%80%81%E5%B8%88%E7%BB%86%E7%9C%8B%E5%BF%83%E7%96%BC%23" target="weibo">
 孩子手洗不干净老师细看心疼（热度：957435）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E4%B8%8A%E8%AF%BE%E6%B2%A1%E6%94%B6%E5%AD%A6%E7%94%9F%E6%89%8B%E6%9C%BA%E8%A2%AB2%E6%AC%A1%E9%94%81%E5%96%89%23" target="weibo">
-老师上课没收学生手机被2次锁喉（热度：957135）
 </a>
 </li>
 
