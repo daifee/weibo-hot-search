@@ -1,0 +1,410 @@
+{
+  "runTime": 1697894285955,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1554850,
+        "num": 1554850,
+        "word": "英国穷小子验DNA证明自己是富豪独子",
+        "onboard_time": 1697888971,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1409124,
+        "num": 1409124,
+        "word": "张碧晨 撕裂",
+        "onboard_time": 1697892811,
+        "rank": 1,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19519,
+        "num": 1018114,
+        "word": "两个亚运同样精彩",
+        "onboard_time": 1697894017,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 906337,
+        "num": 906337,
+        "word": "这就是街舞",
+        "onboard_time": 1697892574,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 713724,
+        "num": 713724,
+        "word": "河边的错误 看完不走",
+        "onboard_time": 1697887231,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 695342,
+        "num": 695342,
+        "word": "肺炎支原体感染11月或将迎感染高峰",
+        "onboard_time": 1697891314,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 507408,
+        "num": 507408,
+        "word": "隐性饥饿正在偷走你的健康",
+        "onboard_time": 1697891674,
+        "rank": 6,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 449420,
+        "num": 449420,
+        "word": "河边的错误解析",
+        "onboard_time": 1697886871,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388474,
+        "num": 388474,
+        "word": "欧阳娣娣方否认参加综艺海选被淘汰",
+        "onboard_time": 1697892213,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359402,
+        "num": 359402,
+        "word": "墨香铜臭",
+        "onboard_time": 1697866953,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 733413,
+        "num": 332986,
+        "word": "李玟母亲痛斥李玟丈夫出轨",
+        "onboard_time": 1697884412,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 934358,
+        "num": 329286,
+        "word": "朝阳大悦城",
+        "onboard_time": 1697893055,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 529877,
+        "num": 319045,
+        "word": "戚薇长裙三层楼高",
+        "onboard_time": 1697890774,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 305188,
+        "num": 305188,
+        "word": "张常宁复出女排联赛",
+        "onboard_time": 1697892811,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 472946,
+        "num": 303967,
+        "word": "李玟家人要求警方调查李玟死因",
+        "onboard_time": 1697889153,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426432,
+        "num": 302227,
+        "word": "傅园慧首谈上恋综的经历",
+        "onboard_time": 1697892396,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 296102,
+        "num": 296102,
+        "word": "我们从农村飞出来了但妈妈没有",
+        "onboard_time": 1697889272,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242018,
+        "num": 242018,
+        "word": "戚薇成都演唱会",
+        "onboard_time": 1697891194,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 211417,
+        "num": 240591,
+        "word": "常州人才房可享3年0房租",
+        "onboard_time": 1697893114,
+        "rank": 18,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 194157,
+        "num": 239549,
+        "word": "螃蟹壳是最好的化痰散结的药",
+        "onboard_time": 1697891674,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 279028,
+        "num": 239400,
+        "word": "易烊千玺新电影小小的我杀青",
+        "onboard_time": 1697888308,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239182,
+        "num": 239182,
+        "word": "第一次对1000万有了实体概念",
+        "onboard_time": 1697877034,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239088,
+        "num": 239088,
+        "word": "大学四年买了三千只口红",
+        "onboard_time": 1697872412,
+        "rank": 22,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 238816,
+        "num": 238816,
+        "word": "一场没有答案的映后交流",
+        "onboard_time": 1697869771,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182864,
+        "num": 222621,
+        "word": "男朋友是最好的搭子",
+        "onboard_time": 1697890655,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217686,
+        "num": 217686,
+        "word": "周杰伦退后 2007年现场",
+        "onboard_time": 1697883630,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213468,
+        "num": 213468,
+        "word": "陈都灵亲程潇脸路透",
+        "onboard_time": 1697888012,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213159,
+        "num": 213159,
+        "word": "时代少年团 王者荣耀",
+        "onboard_time": 1697886993,
+        "rank": 27,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 145488,
+        "num": 210034,
+        "word": "于文亮说我走红是因为大家太累了",
+        "onboard_time": 1697888072,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135533,
+        "num": 209414,
+        "word": "学天津大姨把头发梳成大人模样",
+        "onboard_time": 1697887952,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209122,
+        "num": 209122,
+        "word": "朱一龙河边的错误表演张力",
+        "onboard_time": 1697865872,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207642,
+        "num": 207642,
+        "word": "悉尼街头放了一台被蜘蛛侠拦下的卡车",
+        "onboard_time": 1697893055,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198825,
+        "num": 198825,
+        "word": "汤唯在上海夜晚的江边",
+        "onboard_time": 1697893836,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178449,
+        "num": 178449,
+        "word": "腮红 韩妆的精髓",
+        "onboard_time": 1697891552,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 177775,
+        "num": 177775,
+        "word": "小米14",
+        "onboard_time": 1697885673,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 189663,
+        "num": 176541,
+        "word": "方筱然害怕到手抖好真实",
+        "onboard_time": 1697886452,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181302,
+        "num": 175130,
+        "word": "田耕纪",
+        "onboard_time": 1697888613,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152691,
+        "num": 172672,
+        "word": "快递员知道你们小区多少秘密",
+        "onboard_time": 1697888432,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142297,
+        "num": 171337,
+        "word": "生理性喜欢才是爱的前提吗",
+        "onboard_time": 1697875352,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126007,
+        "num": 170450,
+        "word": "男孩碎玻璃卡喉交警狂飙送医",
+        "onboard_time": 1697891552,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178721,
+        "num": 168462,
+        "word": "刘涛白色蕾丝拖地鱼尾裙",
+        "onboard_time": 1697891552,
+        "rank": 40,
+        "category": "音乐,时尚"
+      },
+      {
+        "raw_hot": 167381,
+        "num": 167381,
+        "word": "马哲孩子 疯子",
+        "onboard_time": 1697886692,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163700,
+        "num": 163700,
+        "word": "河边的错误 河流是更接近真相的",
+        "onboard_time": 1697864191,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153541,
+        "num": 153541,
+        "word": "张碧晨尾号920演唱会",
+        "onboard_time": 1697890413,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156197,
+        "num": 150714,
+        "word": "朱一龙演技",
+        "onboard_time": 1697892032,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147427,
+        "num": 147427,
+        "word": "钟楚曦拍海报偷看张云龙",
+        "onboard_time": 1697877452,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109607,
+        "num": 145802,
+        "word": "i人的合照姿势",
+        "onboard_time": 1697886272,
+        "rank": 46,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 105992,
+        "num": 145057,
+        "word": "利物浦vs埃弗顿",
+        "onboard_time": 1697893954,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98097,
+        "num": 142589,
+        "word": "钟薛高在职员工称已两三月未发工资",
+        "onboard_time": 1697871511,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 94295,
+        "num": 140323,
+        "word": "徒步古丝路意大利奶奶明年5月到中国",
+        "onboard_time": 1697894195,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路精神是共建一带一路最重要的力量源泉#"
+    }
+  }
+}
