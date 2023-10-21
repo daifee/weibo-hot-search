@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697883404333,
+  "endTime": 1697884446556,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -57,6 +57,14 @@
       "onboard_time": 1697812835,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1574103,
+      "num": 1010521,
+      "word": "二狗",
+      "onboard_time": 1697881650,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 1558802,
@@ -185,14 +193,6 @@
       "onboard_time": 1697869954,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1010521,
-      "num": 1010521,
-      "word": "二狗",
-      "onboard_time": 1697881650,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 1006434,
@@ -371,6 +371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644937,
+      "num": 644937,
+      "word": "大学生私自取回自己电动车被处分",
+      "onboard_time": 1697879430,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 624686,
       "num": 624686,
       "word": "钟楚曦拍海报偷看张云龙",
@@ -449,14 +457,6 @@
       "onboard_time": 1697803231,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 515540,
-      "num": 515540,
-      "word": "大学生私自取回自己电动车被处分",
-      "onboard_time": 1697879430,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 510232,
@@ -867,6 +867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 339442,
+      "num": 339442,
+      "word": "卢昱晓原生感万能小淡妆",
+      "onboard_time": 1697881772,
+      "rank": 17,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 338209,
       "num": 338209,
       "word": "今晚林黄大战",
@@ -979,14 +987,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 295015,
-      "num": 295015,
-      "word": "卢昱晓原生感万能小淡妆",
-      "onboard_time": 1697881772,
-      "rank": 17,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 292334,
       "num": 292334,
       "word": "巴以冲突超5600人死亡",
@@ -1001,6 +1001,14 @@
       "onboard_time": 1697865154,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 289096,
+      "num": 203230,
+      "word": "周杰伦退后 2007年现场",
+      "onboard_time": 1697883630,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 287256,
@@ -1419,6 +1427,14 @@
       "category": "母婴育儿,知识科普"
     },
     {
+      "raw_hot": 207229,
+      "num": 207229,
+      "word": "崔然竣 Smoke Challenge",
+      "onboard_time": 1697883813,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 207017,
       "num": 207017,
       "word": "这些城市上大分",
@@ -1755,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162388,
+      "num": 751218,
+      "word": "物业师傅救小孩被车撞翻仍爬起追车",
+      "onboard_time": 1697880931,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162035,
       "num": 162035,
       "word": "青岛啤酒发布情况说明",
@@ -1809,14 +1833,6 @@
       "onboard_time": 1697868513,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 157513,
-      "num": 751218,
-      "word": "物业师傅救小孩被车撞翻仍爬起追车",
-      "onboard_time": 1697880931,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157440,
@@ -1979,12 +1995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139340,
+      "num": 154017,
+      "word": "可乐罐卷头发",
+      "onboard_time": 1697883753,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 137711,
       "num": 137711,
       "word": "749局有1700个特效镜头",
       "onboard_time": 1697849428,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 137343,
+      "num": 137343,
+      "word": "李玟母亲痛斥李玟丈夫出轨",
+      "onboard_time": 1697884412,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 137035,
@@ -2033,6 +2065,14 @@
       "onboard_time": 1697804852,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133741,
+      "num": 133741,
+      "word": "一学就会的公主头教程",
+      "onboard_time": 1697883871,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 132909,
@@ -2121,6 +2161,14 @@
       "onboard_time": 1697808274,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121913,
+      "num": 203243,
+      "word": "退休阿姨坚持16年帮助高龄独居老人",
+      "onboard_time": 1697882911,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120359,
@@ -2291,11 +2339,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93642,
-      "num": 122800,
-      "word": "退休阿姨坚持16年帮助高龄独居老人",
-      "onboard_time": 1697882911,
-      "rank": 44,
+      "raw_hot": 93283,
+      "num": 93283,
+      "word": "社区请80位老人吃长寿面提前过重阳节",
+      "onboard_time": 1697884412,
+      "rank": 49,
       "category": "社会新闻"
     },
     {

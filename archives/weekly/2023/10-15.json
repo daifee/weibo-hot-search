@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697883404333,
+  "endTime": 1697884446556,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -953,6 +953,14 @@
       "onboard_time": 1697500898,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1574103,
+      "num": 1010521,
+      "word": "二狗",
+      "onboard_time": 1697881650,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 1566499,
@@ -1961,14 +1969,6 @@
       "onboard_time": 1697715156,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1010521,
-      "num": 1010521,
-      "word": "二狗",
-      "onboard_time": 1697881650,
-      "rank": 5,
-      "category": "网红"
     },
     {
       "raw_hot": 1009640,
@@ -3659,6 +3659,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 644937,
+      "num": 644937,
+      "word": "大学生私自取回自己电动车被处分",
+      "onboard_time": 1697879430,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 644535,
       "num": 644535,
       "word": "邓为长相思演唱会造型",
@@ -4793,14 +4801,6 @@
       "onboard_time": 1697762557,
       "rank": 21,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 515540,
-      "num": 515540,
-      "word": "大学生私自取回自己电动车被处分",
-      "onboard_time": 1697879430,
-      "rank": 48,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 514761,
@@ -7731,6 +7731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 339442,
+      "num": 339442,
+      "word": "卢昱晓原生感万能小淡妆",
+      "onboard_time": 1697881772,
+      "rank": 17,
+      "category": "美妆,艺人"
+    },
+    {
       "raw_hot": 338713,
       "num": 338713,
       "word": "kelvin李起诉时代峰峻侵权获赔",
@@ -8731,14 +8739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295015,
-      "num": 295015,
-      "word": "卢昱晓原生感万能小淡妆",
-      "onboard_time": 1697881772,
-      "rank": 17,
-      "category": "美妆,艺人"
-    },
-    {
       "raw_hot": 294397,
       "num": 294397,
       "word": "优酷别太爱王牌了",
@@ -8897,6 +8897,14 @@
       "onboard_time": 1697715455,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 289096,
+      "num": 203230,
+      "word": "周杰伦退后 2007年现场",
+      "onboard_time": 1697883630,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 288695,
@@ -12112,6 +12120,14 @@
       "word": "蔡文静美拉德穿搭",
       "onboard_time": 1697458893,
       "rank": 28,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207229,
+      "num": 207229,
+      "word": "崔然竣 Smoke Challenge",
+      "onboard_time": 1697883813,
+      "rank": 27,
       "category": "作品衍生"
     },
     {
@@ -15387,6 +15403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162388,
+      "num": 751218,
+      "word": "物业师傅救小孩被车撞翻仍爬起追车",
+      "onboard_time": 1697880931,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162327,
       "num": 162327,
       "word": "B太二刷新疆喀什",
@@ -15697,14 +15721,6 @@
       "onboard_time": 1697766575,
       "rank": 34,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 157513,
-      "num": 751218,
-      "word": "物业师傅救小孩被车撞翻仍爬起追车",
-      "onboard_time": 1697880931,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 157440,
@@ -16747,6 +16763,14 @@
       "category": "国外要闻,社会新闻"
     },
     {
+      "raw_hot": 139340,
+      "num": 154017,
+      "word": "可乐罐卷头发",
+      "onboard_time": 1697883753,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 139279,
       "num": 208922,
       "word": "贴满HelloKitty的网约车成长沙打卡点",
@@ -16865,6 +16889,14 @@
       "onboard_time": 1697416776,
       "rank": 49,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 137343,
+      "num": 137343,
+      "word": "李玟母亲痛斥李玟丈夫出轨",
+      "onboard_time": 1697884412,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 137307,
@@ -17041,6 +17073,14 @@
       "onboard_time": 1697765075,
       "rank": 40,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 133741,
+      "num": 133741,
+      "word": "一学就会的公主头教程",
+      "onboard_time": 1697883871,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 133516,
@@ -17432,6 +17472,14 @@
       "word": "25岁准爸爸爬窗托举头卡护栏女孩",
       "onboard_time": 1697645251,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121913,
+      "num": 203243,
+      "word": "退休阿姨坚持16年帮助高龄独居老人",
+      "onboard_time": 1697882911,
+      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -18155,11 +18203,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 93642,
-      "num": 122800,
-      "word": "退休阿姨坚持16年帮助高龄独居老人",
-      "onboard_time": 1697882911,
-      "rank": 44,
+      "raw_hot": 93283,
+      "num": 93283,
+      "word": "社区请80位老人吃长寿面提前过重阳节",
+      "onboard_time": 1697884412,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
