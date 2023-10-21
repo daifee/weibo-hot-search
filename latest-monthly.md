@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 21:18:05
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 21:34:04
 </p>
 </blockquote>
 <p>
@@ -1593,6 +1593,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82%23" target="weibo">
+张碧晨 撕裂（热度：1913732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E5%93%88%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%85%A5%E8%B6%85%E8%BF%873000%E4%B8%87%23" target="weibo">
 鹿哈半年收入超过3000万（热度：1913728）
 </a>
@@ -2991,12 +2997,6 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%20%E6%92%95%E8%A3%82%23" target="weibo">
-张碧晨 撕裂（热度：1409124）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%B6%853%E4%BA%BF%E4%BA%BA%E9%81%AD%E5%8F%97%E6%85%A2%E6%80%A7%E7%96%BC%E7%97%9B%23" target="weibo">
 我国超3亿人遭受慢性疼痛（热度：1408722）
 </a>
@@ -3425,6 +3425,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E5%8F%A3%E6%B8%B4%E8%AF%AF%E5%96%9D%E7%99%BE%E8%8D%89%E6%9E%AF%E8%82%BE%E8%A1%B0%E7%AB%AD%23" target="weibo">
 14岁男孩口渴误喝百草枯肾衰竭（热度：1308476）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%98%B3%E5%A4%A7%E6%82%A6%E5%9F%8E%23" target="weibo">
+朝阳大悦城（热度：1306814）
 </a>
 </li>
 
@@ -5303,12 +5309,6 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E7%A7%B0%E6%97%85%E6%B8%B8%E8%AE%A2%E4%B8%8D%E5%88%B0%E6%88%BF%E5%8F%AF%E6%8C%82%E6%80%A5%E8%AF%8A%E8%BF%87%E5%A4%9C%23" target="weibo">
 博主称旅游订不到房可挂急诊过夜（热度：935045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%98%B3%E5%A4%A7%E6%82%A6%E5%9F%8E%23" target="weibo">
-朝阳大悦城（热度：934358）
 </a>
 </li>
 
