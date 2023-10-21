@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697913253003,
+  "endTime": 1697915572642,
   "band_list": [
     {
       "raw_hot": 952431,
@@ -251,6 +251,14 @@
       "category": "社会新闻,作品衍生"
     },
     {
+      "raw_hot": 153524,
+      "num": 67221,
+      "word": "高校通报学生宿舍内肢解流浪狗",
+      "onboard_time": 1697911585,
+      "rank": 38,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 152554,
       "num": 152554,
       "word": "UFC",
@@ -451,16 +459,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 67221,
-      "num": 67221,
-      "word": "高校通报学生宿舍内肢解流浪狗",
-      "onboard_time": 1697911585,
-      "rank": 38,
-      "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 47895,
-      "num": 47895,
+      "raw_hot": 48032,
+      "num": 48032,
       "word": "疯子成了马哲 马哲成了疯子",
       "onboard_time": 1697912598,
       "rank": 27,
@@ -483,6 +483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 41817,
+      "num": 41817,
+      "word": "林一把刘浩存提着走",
+      "onboard_time": 1697913917,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33271,
       "num": 33271,
       "word": "欧阳娣娣方否认参加综艺海选被淘汰",
@@ -497,6 +505,30 @@
       "onboard_time": 1697893775,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 26172,
+      "num": 26172,
+      "word": "当在咸鱼上刷到自己丢失的演出门票",
+      "onboard_time": 1697914757,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24915,
+      "num": 24915,
+      "word": "问心",
+      "onboard_time": 1697891194,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 20046,
+      "num": 20046,
+      "word": "傅园慧首谈上恋综的经历",
+      "onboard_time": 1697892396,
+      "rank": 49,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
