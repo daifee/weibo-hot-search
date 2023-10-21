@@ -1,0 +1,410 @@
+{
+  "runTime": 1697873646089,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1222639,
+        "num": 1222639,
+        "word": "墨香铜臭",
+        "onboard_time": 1697866953,
+        "rank": 0,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1006434,
+        "num": 1006434,
+        "word": "央视追踪四川女童被犬咬伤事件",
+        "onboard_time": 1697871511,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34851,
+        "num": 853283,
+        "word": "200口井为卢旺达带来清澈饮用水",
+        "onboard_time": 1697858188,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 782402,
+        "num": 782402,
+        "word": "钟薛高在职员工称已两三月未发工资",
+        "onboard_time": 1697871511,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522033,
+        "num": 522033,
+        "word": "青岛啤酒涉事工厂是世界级智慧工厂",
+        "onboard_time": 1697865031,
+        "rank": 4,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 395414,
+        "num": 395414,
+        "word": "男子1块钱拍下奔驰卖方拒绝发货",
+        "onboard_time": 1697868693,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 340019,
+        "num": 340019,
+        "word": "李玟雕像",
+        "onboard_time": 1697864670,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328099,
+        "num": 328099,
+        "word": "赵丽颖月桂女神妆",
+        "onboard_time": 1697866411,
+        "rank": 7,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 313067,
+        "num": 313067,
+        "word": "朱一龙河边的错误表演张力",
+        "onboard_time": 1697865872,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300689,
+        "num": 300689,
+        "word": "大量沙丁鱼涌入日本渔港后集体死亡",
+        "onboard_time": 1697862512,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1100760,
+        "num": 300590,
+        "word": "老疯杨",
+        "onboard_time": 1697871210,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 585476,
+        "num": 300461,
+        "word": "斓曦 流浪猫狗有什么错",
+        "onboard_time": 1697864371,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517126,
+        "num": 300362,
+        "word": "JK罗琳 不是",
+        "onboard_time": 1697868335,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383381,
+        "num": 300291,
+        "word": "四川泸州坠江宝马车被打捞出水",
+        "onboard_time": 1697872050,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331220,
+        "num": 300197,
+        "word": "赵露思 人嘛该翻篇就得翻篇了",
+        "onboard_time": 1697873250,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325434,
+        "num": 300090,
+        "word": "警犬进校园被大学生围观撸掉毛",
+        "onboard_time": 1697863890,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 300007,
+        "num": 300007,
+        "word": "张元英 不是三次元人的感觉",
+        "onboard_time": 1697865872,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292428,
+        "num": 292428,
+        "word": "李一桐性感野猫妆",
+        "onboard_time": 1697871210,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267556,
+        "num": 267556,
+        "word": "张一山智斗切糕大爷",
+        "onboard_time": 1697873132,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 206081,
+        "num": 267037,
+        "word": "南京胖哥说为离开的女儿好好活着",
+        "onboard_time": 1697872591,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2630712,
+        "num": 266049,
+        "word": "阿朵 被杀死的小狗变成一个小土堆",
+        "onboard_time": 1697869710,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1050655,
+        "num": 265067,
+        "word": "李小冉为流浪狗发声",
+        "onboard_time": 1697869954,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 690373,
+        "num": 263289,
+        "word": "大学四年买了三千只口红",
+        "onboard_time": 1697872412,
+        "rank": 22,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 444649,
+        "num": 262188,
+        "word": "重庆高校学生为团宠黄黄发讣告",
+        "onboard_time": 1697870611,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 261954,
+        "num": 261954,
+        "word": "河边的错误 片方很有数",
+        "onboard_time": 1697857289,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282701,
+        "num": 258650,
+        "word": "陈乔恩为流浪狗发声",
+        "onboard_time": 1697856629,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240638,
+        "num": 240638,
+        "word": "河边的错误 河流是更接近真相的",
+        "onboard_time": 1697864191,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195506,
+        "num": 195506,
+        "word": "你每月到手工资有多少",
+        "onboard_time": 1697867192,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192138,
+        "num": 192138,
+        "word": "老师上课没收学生手机被2次锁喉",
+        "onboard_time": 1697851471,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183879,
+        "num": 183879,
+        "word": "援助加沙的大量物资仍滞留拉法口岸",
+        "onboard_time": 1697870732,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 238819,
+        "num": 183875,
+        "word": "朱一龙河边的错误上映海报",
+        "onboard_time": 1697857888,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224446,
+        "num": 183318,
+        "word": "以爱为营",
+        "onboard_time": 1697864010,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234424,
+        "num": 183192,
+        "word": "一场没有答案的映后交流",
+        "onboard_time": 1697869771,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203154,
+        "num": 182745,
+        "word": "女子与男友吵架怒划16万爱马仕包",
+        "onboard_time": 1697873010,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227869,
+        "num": 182330,
+        "word": "马哲请上班",
+        "onboard_time": 1697859089,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185548,
+        "num": 182093,
+        "word": "小慧君称会发起新的诉讼",
+        "onboard_time": 1697870193,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157440,
+        "num": 181687,
+        "word": "女孩路中央摔倒民警一把抱起",
+        "onboard_time": 1697873371,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146213,
+        "num": 181666,
+        "word": "瓜帅说梅西的最差是别人的最好",
+        "onboard_time": 1697872531,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144410,
+        "num": 181314,
+        "word": "女子称老公吃贻贝吐出多颗珍珠",
+        "onboard_time": 1697867792,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144189,
+        "num": 180738,
+        "word": "老师称没打学生11个耳光只扇了五六下",
+        "onboard_time": 1697868991,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180737,
+        "num": 180737,
+        "word": "华晨宇叫唐嫣糖糖",
+        "onboard_time": 1697868212,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172724,
+        "num": 172724,
+        "word": "大湾区音乐汇节目单",
+        "onboard_time": 1697873071,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 171007,
+        "num": 171007,
+        "word": "双十一你还看李佳琦吗",
+        "onboard_time": 1697865154,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 164216,
+        "num": 164216,
+        "word": "薛之谦演唱会改词为流浪狗发声",
+        "onboard_time": 1697845267,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154678,
+        "num": 154678,
+        "word": "李玟安葬现场响起想你的365天",
+        "onboard_time": 1697862934,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128802,
+        "num": 128802,
+        "word": "女子离婚后发现前夫婚内出轨生子",
+        "onboard_time": 1697856930,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125140,
+        "num": 125140,
+        "word": "中国流浪狗数量高达4000万只",
+        "onboard_time": 1697850807,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121078,
+        "num": 121078,
+        "word": "修容鼻子不显脏",
+        "onboard_time": 1697872112,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117931,
+        "num": 117931,
+        "word": "不愧是北大 好歹毒的签到方式",
+        "onboard_time": 1697857049,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109123,
+        "num": 109123,
+        "word": "百词斩比赛进不去",
+        "onboard_time": 1697870011,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的朋友圈为何越来越大#"
+    }
+  }
+}

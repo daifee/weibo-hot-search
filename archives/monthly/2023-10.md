@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 15:14:42
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 15:34:06
 </p>
 </blockquote>
 <p>
@@ -4209,6 +4209,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E7%96%AF%E6%9D%A8%23" target="weibo">
+老疯杨（热度：1100760）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E5%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%B0%8F%E5%8C%BA%E5%86%85%E7%8A%AC%E5%8F%AA%E5%92%AC%E4%BC%A4%23" target="weibo">
 广州5岁女童被小区内犬只咬伤（热度：1099640）
 </a>
@@ -4407,6 +4413,12 @@ DK 疯牛病（热度：1059512）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B8%BA%E6%B5%81%E6%B5%AA%E7%8B%97%E5%8F%91%E5%A3%B0%23" target="weibo">
+李小冉为流浪狗发声（热度：1050655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E7%9A%84%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E5%A5%B3%E5%84%BF%E7%A6%BB%E4%B8%96%23" target="weibo">
 曾见义勇为的南京胖哥女儿离世（热度：1050581）
 </a>
@@ -4469,12 +4481,6 @@ DK 疯牛病（热度：1059512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%8B%A5%E6%98%80%E5%BA%86%E4%BD%99%E5%B9%B42%E6%9D%80%E9%9D%92%23" target="weibo">
 张若昀庆余年2杀青（热度：1040757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%8F%E5%86%89%E4%B8%BA%E6%B5%81%E6%B5%AA%E7%8B%97%E5%8F%91%E5%A3%B0%23" target="weibo">
-李小冉为流浪狗发声（热度：1038012）
 </a>
 </li>
 
@@ -4739,6 +4745,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%AB%E8%84%87%E5%92%B2%E8%89%AF%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89%23" target="weibo">
 宫脇咲良发文道歉（热度：1009413）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E8%BF%BD%E8%B8%AA%E5%9B%9B%E5%B7%9D%E5%A5%B3%E7%AB%A5%E8%A2%AB%E7%8A%AC%E5%92%AC%E4%BC%A4%E4%BA%8B%E4%BB%B6%23" target="weibo">
+央视追踪四川女童被犬咬伤事件（热度：1006434）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLG对战KT（热度：850932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AF%B4%E9%81%97%E6%86%BE%E6%98%AF%E5%89%8D%E8%BF%9B%E7%9A%84%E5%8A%A8%E5%8A%9B%23" target="weibo">
 孙颖莎说遗憾是前进的动力（热度：848490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E8%BF%91%E7%9A%84%E5%91%A8%E5%86%AC%E9%9B%A8%23" target="weibo">
-最近的周冬雨（热度：847778）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%86%AC%E9%9B%A8%E5%87%AD%E7%87%83%E5%86%AC%E6%8F%90%E5%90%8D%E4%BA%9A%E5%A4%AA%E7%94%B5%E5%BD%B1%E5%A4%A7%E5%A5%96%23" target="weibo">
-周冬雨凭燃冬提名亚太电影大奖（热度：847163）
 </a>
 </li>
 
