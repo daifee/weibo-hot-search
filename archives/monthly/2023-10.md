@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 09:10:06
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 09:30:00
 </p>
 </blockquote>
 <p>
@@ -4203,6 +4203,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B3%E6%A1%88%E7%BB%8F%E8%BF%87%23" target="weibo">
+网红罗大美遇害案经过（热度：1084500）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%89%8C%E5%AF%B9%E7%8E%8B%E7%89%8C%23" target="weibo">
 王牌对王牌（热度：1083144）
 </a>
@@ -4733,6 +4739,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%84%E5%AE%B6%E9%A1%BA%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E6%AD%BB%E4%BA%A1%23" target="weibo">
 庄家顺抢救无效死亡（热度：994909）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E5%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E5%B0%8F%E5%8C%BA%E5%86%85%E7%8A%AC%E5%8F%AA%E5%92%AC%E4%BC%A4%23" target="weibo">
+广州5岁女童被小区内犬只咬伤（热度：994876）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ BLG对战KT（热度：850932）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%95%99%E5%AD%A6%E6%97%B6%E4%B8%8D%E8%A6%81%E4%B9%B1%E7%94%A8emoji%23" target="weibo">
 留学时不要乱用emoji（热度：841551）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E4%B8%8A%E4%B8%8B%E5%8D%8A%E8%BA%AB%E6%9C%89%E5%AD%A3%E8%8A%82%E5%B7%AE%23" target="weibo">
-白敬亭上下半身有季节差（热度：841063）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%E6%9B%BF%E9%A1%BE%E4%BD%B3%E7%9C%8B%E5%88%B0%E4%BA%86%E7%9D%A1%E8%8E%B2%E7%9C%9F%E8%BF%B9%23" target="weibo">
-童瑶替顾佳看到了睡莲真迹（热度：840705）
 </a>
 </li>
 

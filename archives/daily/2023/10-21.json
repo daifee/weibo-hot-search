@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697850606082,
+  "endTime": 1697851800986,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -51,11 +51,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1084500,
+      "num": 1084500,
+      "word": "网红罗大美遇害案经过",
+      "onboard_time": 1697849848,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1078570,
       "num": 414267,
       "word": "猫肉按每斤4块5充当猪羊肉",
       "onboard_time": 1697812716,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 994876,
+      "num": 372361,
+      "word": "广州5岁女童被小区内犬只咬伤",
+      "onboard_time": 1697847749,
+      "rank": 11,
       "category": "社会新闻"
     },
     {
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 860300,
-      "num": 440728,
+      "num": 528898,
       "word": "巴勒斯坦民众与以色列军警发生冲突",
       "onboard_time": 1697844202,
       "rank": 6,
@@ -99,6 +115,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 652151,
+      "num": 334187,
+      "word": "邓紫棋美拉德妆",
+      "onboard_time": 1697851411,
+      "rank": 12,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 645582,
       "num": 285299,
       "word": "90后夫妻产下猫叫患儿医院被起诉",
@@ -107,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 623364,
-      "num": 372361,
-      "word": "广州5岁女童被小区内犬只咬伤",
-      "onboard_time": 1697847749,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 607911,
+      "num": 607911,
+      "word": "孙灏羽",
+      "onboard_time": 1697850691,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 582742,
@@ -129,14 +153,6 @@
       "onboard_time": 1697803231,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 504059,
-      "num": 504059,
-      "word": "网红罗大美遇害案经过",
-      "onboard_time": 1697849848,
-      "rank": 3,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 460829,
@@ -219,6 +235,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 400599,
+      "num": 330803,
+      "word": "张铭恩新剧演家仆",
+      "onboard_time": 1697850570,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 387322,
       "num": 387322,
       "word": "杭州情侣回应不花钱办一场婚礼",
@@ -233,6 +257,14 @@
       "onboard_time": 1697817931,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 363995,
+      "num": 363995,
+      "word": "你好李焕英 人本身的情感要素",
+      "onboard_time": 1697821705,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 343697,
@@ -259,19 +291,35 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 310503,
-      "num": 310503,
-      "word": "你好李焕英 人本身的情感要素",
-      "onboard_time": 1697821705,
-      "rank": 49,
-      "category": "电影"
+      "raw_hot": 320880,
+      "num": 284395,
+      "word": "不要再把电脑触摸板当摆设了",
+      "onboard_time": 1697849250,
+      "rank": 21,
+      "category": "数码"
     },
     {
-      "raw_hot": 290150,
-      "num": 290150,
-      "word": "张铭恩新剧演家仆",
-      "onboard_time": 1697850570,
-      "rank": 17,
+      "raw_hot": 320752,
+      "num": 320752,
+      "word": "林孝埈世界杯500米晋级",
+      "onboard_time": 1697850871,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 288462,
+      "num": 288462,
+      "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
+      "onboard_time": 1697847931,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 287825,
+      "num": 287825,
+      "word": "已经彻底当台偶看了",
+      "onboard_time": 1697850511,
+      "rank": 43,
       "category": "剧集"
     },
     {
@@ -289,14 +337,6 @@
       "onboard_time": 1697846431,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 283063,
-      "num": 283063,
-      "word": "不要再把电脑触摸板当摆设了",
-      "onboard_time": 1697849250,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 275179,
@@ -323,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 258389,
+      "num": 258389,
+      "word": "当霉霉的电影在中国内地上映",
+      "onboard_time": 1697850333,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 256230,
       "num": 237646,
       "word": "野狗骨头影视化",
       "onboard_time": 1697819428,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252138,
+      "num": 226568,
+      "word": "孙龙刘少昂1000米晋级",
+      "onboard_time": 1697850871,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 240607,
@@ -339,28 +395,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237967,
-      "num": 237967,
-      "word": "毛晓彤问心演技",
-      "onboard_time": 1697849789,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 237809,
-      "num": 237809,
+      "raw_hot": 238095,
+      "num": 238095,
       "word": "阿根廷世界杯冠军成员被禁足两年",
       "onboard_time": 1697850029,
       "rank": 24,
       "category": "体育"
     },
     {
-      "raw_hot": 236574,
-      "num": 236574,
-      "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
-      "onboard_time": 1697847931,
-      "rank": 25,
-      "category": "社会新闻"
+      "raw_hot": 237967,
+      "num": 237967,
+      "word": "毛晓彤问心演技",
+      "onboard_time": 1697849789,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 234864,
@@ -387,11 +435,43 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210981,
-      "num": 210981,
+      "raw_hot": 223108,
+      "num": 223108,
+      "word": "中国流浪狗数量高达4000万只",
+      "onboard_time": 1697850807,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 221377,
+      "num": 221377,
       "word": "你是否认同 追竞让人审美降级",
       "onboard_time": 1697849428,
       "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 219619,
+      "num": 219619,
+      "word": "老师上课没收学生手机被2次锁喉",
+      "onboard_time": 1697851471,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216260,
+      "num": 216260,
+      "word": "问心林逸哥哥下线",
+      "onboard_time": 1697850991,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209419,
+      "num": 209419,
+      "word": "WBG将对战KT",
+      "onboard_time": 1697851228,
+      "rank": 36,
       "category": "电竞"
     },
     {
@@ -409,6 +489,14 @@
       "onboard_time": 1697813374,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 206304,
+      "num": 206304,
+      "word": "关晓彤机械姬妆",
+      "onboard_time": 1697849310,
+      "rank": 36,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 203844,
@@ -475,12 +563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 176169,
-      "num": 176169,
-      "word": "关晓彤机械姬妆",
-      "onboard_time": 1697849310,
-      "rank": 36,
-      "category": "作品衍生,美妆"
+      "raw_hot": 173701,
+      "num": 173701,
+      "word": "谷爱凌说不要害怕做自己的最好",
+      "onboard_time": 1697850389,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 168803,
@@ -547,12 +635,12 @@
       "category": "情感,时尚"
     },
     {
-      "raw_hot": 150757,
-      "num": 150757,
-      "word": "当霉霉的电影在中国内地上映",
-      "onboard_time": 1697850333,
-      "rank": 38,
-      "category": "电影"
+      "raw_hot": 149945,
+      "num": 149945,
+      "word": "九寨沟秋天下雪变身童话世界",
+      "onboard_time": 1697851650,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 146295,
@@ -608,14 +696,6 @@
       "word": "我的女神室友斗娜",
       "onboard_time": 1697816793,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135771,
-      "num": 137736,
-      "word": "已经彻底当台偶看了",
-      "onboard_time": 1697850511,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -899,20 +979,20 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 34552,
+      "num": 1065962,
+      "word": "大道之行筑梦丝路",
+      "onboard_time": 1697848049,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 34466,
       "num": 47609,
       "word": "短道速滑",
       "onboard_time": 1697811215,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33614,
-      "num": 631071,
-      "word": "大道之行筑梦丝路",
-      "onboard_time": 1697848049,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 29643,

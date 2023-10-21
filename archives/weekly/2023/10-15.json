@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697850606082,
+  "endTime": 1697851800986,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -1627,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1084500,
+      "num": 1084500,
+      "word": "网红罗大美遇害案经过",
+      "onboard_time": 1697849848,
+      "rank": 3,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1083144,
       "num": 1083144,
       "word": "王牌对王牌",
@@ -1873,6 +1881,14 @@
       "onboard_time": 1697599112,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 994876,
+      "num": 372361,
+      "word": "广州5岁女童被小区内犬只咬伤",
+      "onboard_time": 1697847749,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 990981,
@@ -2324,7 +2340,7 @@
     },
     {
       "raw_hot": 860300,
-      "num": 440728,
+      "num": 528898,
       "word": "巴勒斯坦民众与以色列军警发生冲突",
       "onboard_time": 1697844202,
       "rank": 6,
@@ -3355,6 +3371,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 652151,
+      "num": 334187,
+      "word": "邓紫棋美拉德妆",
+      "onboard_time": 1697851411,
+      "rank": 12,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 651624,
       "num": 651624,
       "word": "梁朝伟首次提名金鸡奖",
@@ -3507,14 +3531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 623364,
-      "num": 372361,
-      "word": "广州5岁女童被小区内犬只咬伤",
-      "onboard_time": 1697847749,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 621557,
       "num": 621557,
       "word": "官方回应济南巨响",
@@ -3609,6 +3625,14 @@
       "onboard_time": 1697718217,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 607911,
+      "num": 607911,
+      "word": "孙灏羽",
+      "onboard_time": 1697850691,
+      "rank": 4,
+      "category": "网红"
     },
     {
       "raw_hot": 607869,
@@ -4601,14 +4625,6 @@
       "onboard_time": 1697720373,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 504059,
-      "num": 504059,
-      "word": "网红罗大美遇害案经过",
-      "onboard_time": 1697849848,
-      "rank": 3,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 503423,
@@ -6107,6 +6123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 400599,
+      "num": 330803,
+      "word": "张铭恩新剧演家仆",
+      "onboard_time": 1697850570,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 400149,
       "num": 400149,
       "word": "英语老师为不同成绩准备了meme贴纸",
@@ -6657,6 +6681,14 @@
       "onboard_time": 1697469037,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 363995,
+      "num": 363995,
+      "word": "你好李焕英 人本身的情感要素",
+      "onboard_time": 1697821705,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 361839,
@@ -7475,6 +7507,22 @@
       "category": "社会新闻,汽车"
     },
     {
+      "raw_hot": 320880,
+      "num": 284395,
+      "word": "不要再把电脑触摸板当摆设了",
+      "onboard_time": 1697849250,
+      "rank": 21,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 320752,
+      "num": 320752,
+      "word": "林孝埈世界杯500米晋级",
+      "onboard_time": 1697850871,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320400,
       "num": 320400,
       "word": "沈腾收官照",
@@ -7697,14 +7745,6 @@
       "onboard_time": 1697422173,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 310503,
-      "num": 310503,
-      "word": "你好李焕英 人本身的情感要素",
-      "onboard_time": 1697821705,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 310440,
@@ -8131,14 +8171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 290150,
-      "num": 290150,
-      "word": "张铭恩新剧演家仆",
-      "onboard_time": 1697850570,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 289944,
       "num": 265781,
       "word": "披荆斩棘后张栋梁的变化",
@@ -8179,6 +8211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 288462,
+      "num": 288462,
+      "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
+      "onboard_time": 1697847931,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 288429,
       "num": 288429,
       "word": "花少姐姐们的耳饰",
@@ -8193,6 +8233,14 @@
       "onboard_time": 1697806712,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287825,
+      "num": 287825,
+      "word": "已经彻底当台偶看了",
+      "onboard_time": 1697850511,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 287734,
@@ -8369,14 +8417,6 @@
       "onboard_time": 1697504316,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 283063,
-      "num": 283063,
-      "word": "不要再把电脑触摸板当摆设了",
-      "onboard_time": 1697849250,
-      "rank": 21,
-      "category": "数码"
     },
     {
       "raw_hot": 282495,
@@ -9083,6 +9123,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 258389,
+      "num": 258389,
+      "word": "当霉霉的电影在中国内地上映",
+      "onboard_time": 1697850333,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 258381,
       "num": 419154,
       "word": "入伍前170斤小伙现在能连做3600个俯卧撑",
@@ -9369,6 +9417,14 @@
       "onboard_time": 1697587115,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 252138,
+      "num": 226568,
+      "word": "孙龙刘少昂1000米晋级",
+      "onboard_time": 1697850871,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 251953,
@@ -9795,20 +9851,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238095,
+      "num": 238095,
+      "word": "阿根廷世界杯冠军成员被禁足两年",
+      "onboard_time": 1697850029,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 237967,
       "num": 237967,
       "word": "毛晓彤问心演技",
       "onboard_time": 1697849789,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237809,
-      "num": 237809,
-      "word": "阿根廷世界杯冠军成员被禁足两年",
-      "onboard_time": 1697850029,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 237356,
@@ -9841,14 +9897,6 @@
       "onboard_time": 1697346573,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 236574,
-      "num": 236574,
-      "word": "妇联回应揭阳27岁已婚女子跳楼身亡",
-      "onboard_time": 1697847931,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 236140,
@@ -10379,6 +10427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223108,
+      "num": 223108,
+      "word": "中国流浪狗数量高达4000万只",
+      "onboard_time": 1697850807,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 222810,
       "num": 222810,
       "word": "内娱甜妹妆造王者",
@@ -10451,6 +10507,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 221377,
+      "num": 221377,
+      "word": "你是否认同 追竞让人审美降级",
+      "onboard_time": 1697849428,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 221275,
       "num": 221275,
       "word": "新人结婚不办席带大红喜字四处旅游",
@@ -10497,6 +10561,14 @@
       "onboard_time": 1697645071,
       "rank": 41,
       "category": "社会正能量"
+    },
+    {
+      "raw_hot": 219619,
+      "num": 219619,
+      "word": "老师上课没收学生手机被2次锁喉",
+      "onboard_time": 1697851471,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219564,
@@ -10657,6 +10729,14 @@
       "onboard_time": 1697529097,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 216260,
+      "num": 216260,
+      "word": "问心林逸哥哥下线",
+      "onboard_time": 1697850991,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 215479,
@@ -10915,14 +10995,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 210981,
-      "num": 210981,
-      "word": "你是否认同 追竞让人审美降级",
-      "onboard_time": 1697849428,
-      "rank": 29,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 210721,
       "num": 210721,
       "word": "十个勤天不工作时还会回去种地",
@@ -11001,6 +11073,14 @@
       "onboard_time": 1697804013,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 209419,
+      "num": 209419,
+      "word": "WBG将对战KT",
+      "onboard_time": 1697851228,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 209411,
@@ -11145,6 +11225,14 @@
       "onboard_time": 1697702856,
       "rank": 38,
       "category": "母婴育儿,知识科普"
+    },
+    {
+      "raw_hot": 206304,
+      "num": 206304,
+      "word": "关晓彤机械姬妆",
+      "onboard_time": 1697849310,
+      "rank": 36,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 206301,
@@ -13355,14 +13443,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 176169,
-      "num": 176169,
-      "word": "关晓彤机械姬妆",
-      "onboard_time": 1697849310,
-      "rank": 36,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 176076,
       "num": 176076,
       "word": "华浅被仲溪午囚禁",
@@ -13521,6 +13601,14 @@
       "onboard_time": 1697777859,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173701,
+      "num": 173701,
+      "word": "谷爱凌说不要害怕做自己的最好",
+      "onboard_time": 1697850389,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 173499,
@@ -14795,14 +14883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 150757,
-      "num": 150757,
-      "word": "当霉霉的电影在中国内地上映",
-      "onboard_time": 1697850333,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 150711,
       "num": 150711,
       "word": "张婧仪白色无袖背心",
@@ -14857,6 +14937,14 @@
       "onboard_time": 1697716416,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 149945,
+      "num": 149945,
+      "word": "九寨沟秋天下雪变身童话世界",
+      "onboard_time": 1697851650,
+      "rank": 48,
+      "category": "旅游"
     },
     {
       "raw_hot": 149852,
@@ -15560,14 +15648,6 @@
       "word": "夭璟",
       "onboard_time": 1697553822,
       "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 135771,
-      "num": 137736,
-      "word": "已经彻底当台偶看了",
-      "onboard_time": 1697850511,
-      "rank": 43,
       "category": "剧集"
     },
     {
@@ -17475,18 +17555,18 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 34183,
-      "num": 1339177,
-      "word": "把青春华章写在祖国大地上",
-      "onboard_time": 1697174497,
+      "raw_hot": 34552,
+      "num": 1065962,
+      "word": "大道之行筑梦丝路",
+      "onboard_time": 1697848049,
       "rank": 2,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 33614,
-      "num": 631071,
-      "word": "大道之行筑梦丝路",
-      "onboard_time": 1697848049,
+      "raw_hot": 34183,
+      "num": 1339177,
+      "word": "把青春华章写在祖国大地上",
+      "onboard_time": 1697174497,
       "rank": 2,
       "category": "社会新闻"
     },
