@@ -1,0 +1,410 @@
+{
+  "runTime": 1697865316404,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 971503,
+        "num": 971503,
+        "word": "老师上课没收学生手机被2次锁喉",
+        "onboard_time": 1697851471,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 822252,
+        "num": 822252,
+        "word": "李玟安葬现场响起想你的365天",
+        "onboard_time": 1697862934,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20783,
+        "num": 797753,
+        "word": "大道之行筑梦丝路",
+        "onboard_time": 1697848049,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 781791,
+        "num": 781791,
+        "word": "不愧是北大 好歹毒的签到方式",
+        "onboard_time": 1697857049,
+        "rank": 3,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 710874,
+        "num": 710874,
+        "word": "二手玫瑰最初化浓妆是因为没分到包子吃",
+        "onboard_time": 1697855249,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 634257,
+        "num": 634257,
+        "word": "大量沙丁鱼涌入日本渔港后集体死亡",
+        "onboard_time": 1697862512,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619837,
+        "num": 619837,
+        "word": "知情者称视频场地并非青岛啤酒原料仓库",
+        "onboard_time": 1697862571,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 566350,
+        "num": 566350,
+        "word": "以爱为营",
+        "onboard_time": 1697864010,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 446741,
+        "num": 446741,
+        "word": "流浪猫第一次吃猫条连声说好吃",
+        "onboard_time": 1697860710,
+        "rank": 8,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 364770,
+        "num": 364770,
+        "word": "黄牛一人收100带歌迷强闯演唱会",
+        "onboard_time": 1697859933,
+        "rank": 9,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 902105,
+        "num": 362872,
+        "word": "陈乔恩为流浪狗发声",
+        "onboard_time": 1697856629,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 779415,
+        "num": 349954,
+        "word": "斓曦 流浪猫狗有什么错",
+        "onboard_time": 1697864371,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 745878,
+        "num": 345060,
+        "word": "李玟雕像",
+        "onboard_time": 1697864670,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 626113,
+        "num": 336278,
+        "word": "女子离婚后发现前夫婚内出轨生子",
+        "onboard_time": 1697856930,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 600941,
+        "num": 329219,
+        "word": "原来爱豆没在恋爱是这个反应",
+        "onboard_time": 1697863770,
+        "rank": 14,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 325862,
+        "num": 325862,
+        "word": "周也 美的好轻松",
+        "onboard_time": 1697864134,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307391,
+        "num": 307391,
+        "word": "警犬进校园被大学生围观撸掉毛",
+        "onboard_time": 1697863890,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306773,
+        "num": 306773,
+        "word": "巴勒斯坦民众与以色列军警发生冲突",
+        "onboard_time": 1697844202,
+        "rank": 17,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 290577,
+        "num": 290577,
+        "word": "河边的错误 片方很有数",
+        "onboard_time": 1697857289,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285682,
+        "num": 285682,
+        "word": "骄阳似我",
+        "onboard_time": 1697860831,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 361213,
+        "num": 279015,
+        "word": "女子网购500件3.8元毛衣到手货不对板",
+        "onboard_time": 1697861431,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 319355,
+        "num": 275003,
+        "word": "薛之谦演唱会改词为流浪狗发声",
+        "onboard_time": 1697845267,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 269471,
+        "num": 269471,
+        "word": "中国流浪狗数量高达4000万只",
+        "onboard_time": 1697850807,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268437,
+        "num": 268437,
+        "word": "一念花开定档",
+        "onboard_time": 1697861669,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241598,
+        "num": 241598,
+        "word": "身体折叠男子术后带货助农又捐款助人",
+        "onboard_time": 1697864314,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238484,
+        "num": 238484,
+        "word": "savage一响 浅漠登场",
+        "onboard_time": 1697862990,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230737,
+        "num": 230737,
+        "word": "河边的错误",
+        "onboard_time": 1697846967,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210864,
+        "num": 210864,
+        "word": "徐志胜说关晓彤不是以前的关晓彤了",
+        "onboard_time": 1697852969,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202839,
+        "num": 202839,
+        "word": "水龙吟",
+        "onboard_time": 1697865031,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201705,
+        "num": 201705,
+        "word": "轻断食一天瘦多少",
+        "onboard_time": 1697856389,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 378778,
+        "num": 201486,
+        "word": "汉服圈被雪王挤进去了",
+        "onboard_time": 1697860471,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301709,
+        "num": 201272,
+        "word": "青岛啤酒涉事工厂是世界级智慧工厂",
+        "onboard_time": 1697865031,
+        "rank": 31,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 301073,
+        "num": 200952,
+        "word": "车内化妆",
+        "onboard_time": 1697862990,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 258185,
+        "num": 200800,
+        "word": "河边的错误 河流是更接近真相的",
+        "onboard_time": 1697864191,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 200574,
+        "num": 200574,
+        "word": "如何才能妥善处理流浪狗",
+        "onboard_time": 1697864853,
+        "rank": 34,
+        "category": "社会议题"
+      },
+      {
+        "raw_hot": 196276,
+        "num": 196276,
+        "word": "朱一龙河边的错误上映海报",
+        "onboard_time": 1697857888,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169754,
+        "num": 169754,
+        "word": "库里文班亚马跳球",
+        "onboard_time": 1697857888,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169751,
+        "num": 169751,
+        "word": "马哲请上班",
+        "onboard_time": 1697859089,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165701,
+        "num": 165701,
+        "word": "你好李焕英 人本身的情感要素",
+        "onboard_time": 1697821705,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163786,
+        "num": 163786,
+        "word": "小慧君胜诉",
+        "onboard_time": 1697818531,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 159189,
+        "num": 159189,
+        "word": "考古的风还是吹向了曾舜晞",
+        "onboard_time": 1697863650,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156574,
+        "num": 156574,
+        "word": "你好星期六全员总裁文学",
+        "onboard_time": 1697854650,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155642,
+        "num": 155642,
+        "word": "沪指3000点跌破51次也能站上来51次",
+        "onboard_time": 1697859331,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152945,
+        "num": 152945,
+        "word": "广州5岁女童被小区内犬只咬伤",
+        "onboard_time": 1697847749,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151555,
+        "num": 151555,
+        "word": "网红罗大美遇害案经过",
+        "onboard_time": 1697849848,
+        "rank": 44,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 155561,
+        "num": 150100,
+        "word": "莲花卿温记",
+        "onboard_time": 1697858970,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148411,
+        "num": 148411,
+        "word": "原来华晨宇唱了何以笙箫默插曲",
+        "onboard_time": 1697859450,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148086,
+        "num": 148086,
+        "word": "双十一你还看李佳琦吗",
+        "onboard_time": 1697865154,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 138520,
+        "num": 138520,
+        "word": "成人高考",
+        "onboard_time": 1697859390,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 135597,
+        "num": 135597,
+        "word": "这些城市上大分",
+        "onboard_time": 1697857289,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的朋友圈为何越来越大#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697862844918,
+  "endTime": 1697865316404,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1295168,
-      "num": 731157,
+      "num": 781791,
       "word": "不愧是北大 好歹毒的签到方式",
       "onboard_time": 1697857049,
       "rank": 26,
@@ -131,6 +131,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 822252,
+      "num": 822252,
+      "word": "李玟安葬现场响起想你的365天",
+      "onboard_time": 1697862934,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 779415,
+      "num": 349954,
+      "word": "斓曦 流浪猫狗有什么错",
+      "onboard_time": 1697864371,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 778515,
       "num": 483248,
       "word": "多国以色列使领馆遭到冲击",
@@ -161,6 +177,14 @@
       "onboard_time": 1697808032,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 745878,
+      "num": 345060,
+      "word": "李玟雕像",
+      "onboard_time": 1697864670,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 737826,
@@ -203,6 +227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 634257,
+      "num": 634257,
+      "word": "大量沙丁鱼涌入日本渔港后集体死亡",
+      "onboard_time": 1697862512,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 620914,
       "num": 620914,
       "word": "顾漫骄阳似我完结了",
@@ -211,12 +243,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 619837,
+      "num": 619837,
+      "word": "知情者称视频场地并非青岛啤酒原料仓库",
+      "onboard_time": 1697862571,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 607911,
       "num": 607911,
       "word": "孙灏羽",
       "onboard_time": 1697850691,
       "rank": 4,
       "category": "网红"
+    },
+    {
+      "raw_hot": 600941,
+      "num": 329219,
+      "word": "原来爱豆没在恋爱是这个反应",
+      "onboard_time": 1697863770,
+      "rank": 14,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 600573,
@@ -233,6 +281,14 @@
       "onboard_time": 1697847511,
       "rank": 8,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 566350,
+      "num": 566350,
+      "word": "以爱为营",
+      "onboard_time": 1697864010,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 547202,
@@ -276,7 +332,7 @@
     },
     {
       "raw_hot": 483905,
-      "num": 397689,
+      "num": 446741,
       "word": "流浪猫第一次吃猫条连声说好吃",
       "onboard_time": 1697860710,
       "rank": 30,
@@ -507,6 +563,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325862,
+      "num": 325862,
+      "word": "周也 美的好轻松",
+      "onboard_time": 1697864134,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 320752,
       "num": 320752,
       "word": "林孝埈世界杯500米晋级",
@@ -523,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 307391,
+      "num": 307391,
+      "word": "警犬进校园被大学生围观撸掉毛",
+      "onboard_time": 1697863890,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 305640,
       "num": 305640,
       "word": "库里文班亚马跳球",
@@ -537,6 +609,22 @@
       "onboard_time": 1697855970,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 301709,
+      "num": 201272,
+      "word": "青岛啤酒涉事工厂是世界级智慧工厂",
+      "onboard_time": 1697865031,
+      "rank": 31,
+      "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 301073,
+      "num": 200952,
+      "word": "车内化妆",
+      "onboard_time": 1697862990,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 292334,
@@ -569,14 +657,6 @@
       "onboard_time": 1697846431,
       "rank": 19,
       "category": "军事"
-    },
-    {
-      "raw_hot": 281872,
-      "num": 229773,
-      "word": "知情者称视频场地并非青岛啤酒原料仓库",
-      "onboard_time": 1697862571,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 276935,
@@ -616,6 +696,14 @@
       "word": "当霉霉的电影在中国内地上映",
       "onboard_time": 1697850333,
       "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 258185,
+      "num": 200800,
+      "word": "河边的错误 河流是更接近真相的",
+      "onboard_time": 1697864191,
+      "rank": 33,
       "category": "电影"
     },
     {
@@ -675,11 +763,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 241598,
+      "num": 241598,
+      "word": "身体折叠男子术后带货助农又捐款助人",
+      "onboard_time": 1697864314,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 240607,
       "num": 240607,
       "word": "周也行走的茉莉青提",
       "onboard_time": 1697812716,
       "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238484,
+      "num": 238484,
+      "word": "savage一响 浅漠登场",
+      "onboard_time": 1697862990,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -875,12 +979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202839,
+      "num": 202839,
+      "word": "水龙吟",
+      "onboard_time": 1697865031,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201732,
       "num": 201732,
       "word": "老人穿红衣服进羊圈被羊顶死",
       "onboard_time": 1697807975,
       "rank": 26,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 200574,
+      "num": 200574,
+      "word": "如何才能妥善处理流浪狗",
+      "onboard_time": 1697864853,
+      "rank": 34,
+      "category": "社会议题"
     },
     {
       "raw_hot": 199408,
@@ -979,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172142,
-      "num": 172142,
-      "word": "大量沙丁鱼涌入日本渔港后集体死亡",
-      "onboard_time": 1697862512,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170593,
       "num": 170593,
       "word": "柏林护士",
@@ -1083,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 159189,
+      "num": 159189,
+      "word": "考古的风还是吹向了曾舜晞",
+      "onboard_time": 1697863650,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155248,
       "num": 155248,
       "word": "日本老年人养老金现状",
@@ -1121,6 +1241,14 @@
       "onboard_time": 1697855131,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 148086,
+      "num": 148086,
+      "word": "双十一你还看李佳琦吗",
+      "onboard_time": 1697865154,
+      "rank": 47,
+      "category": "网红"
     },
     {
       "raw_hot": 147309,
