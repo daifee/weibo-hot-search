@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697879710667,
+  "endTime": 1697880848042,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -187,20 +187,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 931997,
+      "num": 360664,
+      "word": "网传一学生宿舍内宰杀流浪狗",
+      "onboard_time": 1697877214,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 917846,
       "num": 354944,
       "word": "薛之谦演唱会改词为流浪狗发声",
       "onboard_time": 1697845267,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 884759,
-      "num": 360664,
-      "word": "网传一学生宿舍内宰杀流浪狗",
-      "onboard_time": 1697877214,
-      "rank": 47,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 872089,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 710900,
-      "num": 281357,
+      "num": 312615,
       "word": "大学四年买了三千只口红",
       "onboard_time": 1697872412,
       "rank": 21,
@@ -321,6 +321,14 @@
       "onboard_time": 1697814874,
       "rank": 5,
       "category": "情感"
+    },
+    {
+      "raw_hot": 657180,
+      "num": 386079,
+      "word": "四川高校2名虐狗学生已被处分",
+      "onboard_time": 1697878232,
+      "rank": 7,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 654189,
@@ -475,20 +483,20 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 481343,
-      "num": 386079,
-      "word": "四川高校2名虐狗学生已被处分",
-      "onboard_time": 1697878232,
-      "rank": 7,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 480267,
       "num": 480267,
       "word": "广东女性乳腺结节检出率高于全国",
       "onboard_time": 1697855369,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 480085,
+      "num": 480085,
+      "word": "毛不易李雪琴八年前看过同一场演唱会",
+      "onboard_time": 1697878472,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 474725,
@@ -555,6 +563,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 453368,
+      "num": 314840,
+      "word": "颖儿回应被说假吃",
+      "onboard_time": 1697880153,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448286,
       "num": 448286,
       "word": "人生大事收视率破1",
@@ -585,6 +601,14 @@
       "onboard_time": 1697856389,
       "rank": 28,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 434907,
+      "num": 314583,
+      "word": "八捆线面",
+      "onboard_time": 1697879792,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 432962,
@@ -627,6 +651,30 @@
       "category": "知识科普,健康医疗"
     },
     {
+      "raw_hot": 422106,
+      "num": 314208,
+      "word": "张艺兴现身2023乌镇戏剧节",
+      "onboard_time": 1697879611,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 419456,
+      "num": 312543,
+      "word": "第一次对1000万有了实体概念",
+      "onboard_time": 1697877034,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 417521,
+      "num": 349383,
+      "word": "研究称肚子胖的人脑子可能更笨",
+      "onboard_time": 1697878232,
+      "rank": 15,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 417361,
       "num": 408855,
       "word": "李兰迪留了长发",
@@ -643,28 +691,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 406560,
-      "num": 262043,
-      "word": "第一次对1000万有了实体概念",
-      "onboard_time": 1697877034,
-      "rank": 39,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 404663,
-      "num": 360846,
-      "word": "毛不易李雪琴八年前看过同一场演唱会",
-      "onboard_time": 1697878472,
-      "rank": 10,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 404482,
       "num": 404482,
       "word": "肖战风衣大片",
       "onboard_time": 1697853934,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 403016,
+      "num": 312275,
+      "word": "刘聪为流浪狗发声",
+      "onboard_time": 1697880394,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 400599,
@@ -779,14 +819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 349383,
-      "num": 349383,
-      "word": "研究称肚子胖的人脑子可能更笨",
-      "onboard_time": 1697878232,
-      "rank": 15,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 343697,
       "num": 343697,
       "word": "美国把援乌炮弹转送以色列",
@@ -836,11 +868,19 @@
     },
     {
       "raw_hot": 325050,
-      "num": 268901,
+      "num": 306956,
       "word": "生理性喜欢才是爱的前提吗",
       "onboard_time": 1697875352,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 322523,
+      "num": 322523,
+      "word": "JDG战胜LNG",
+      "onboard_time": 1697880572,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 320752,
@@ -857,6 +897,14 @@
       "onboard_time": 1697869771,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 314587,
+      "num": 314587,
+      "word": "JDG对战LNG",
+      "onboard_time": 1697875471,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 312898,
@@ -1012,7 +1060,7 @@
     },
     {
       "raw_hot": 263200,
-      "num": 263200,
+      "num": 315530,
       "word": "中国医生救下战乱中患肿瘤的非洲女子",
       "onboard_time": 1697877755,
       "rank": 18,
@@ -1075,6 +1123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 246457,
+      "num": 246457,
+      "word": "JDG晋级S13八强",
+      "onboard_time": 1697880572,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 243085,
       "num": 225872,
       "word": "pp 椰树pose",
@@ -1108,7 +1164,7 @@
     },
     {
       "raw_hot": 238964,
-      "num": 156062,
+      "num": 200081,
       "word": "马哲疯了吗",
       "onboard_time": 1697877874,
       "rank": 39,
@@ -1188,7 +1244,7 @@
     },
     {
       "raw_hot": 232711,
-      "num": 263148,
+      "num": 281674,
       "word": "全网破防的袖珍妈妈回应带货质疑",
       "onboard_time": 1697876912,
       "rank": 18,
@@ -1331,6 +1387,14 @@
       "category": "母婴育儿,知识科普"
     },
     {
+      "raw_hot": 207774,
+      "num": 286205,
+      "word": "大学生私自取回自己电动车被处分",
+      "onboard_time": 1697879430,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 207017,
       "num": 207017,
       "word": "这些城市上大分",
@@ -1371,14 +1435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 204482,
-      "num": 204482,
-      "word": "JDG对战LNG",
-      "onboard_time": 1697875471,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 203844,
       "num": 203844,
       "word": "李健唱了王菲的如愿",
@@ -1393,14 +1449,6 @@
       "onboard_time": 1697858132,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 202822,
-      "num": 202822,
-      "word": "张艺兴现身2023乌镇戏剧节",
-      "onboard_time": 1697879611,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 201732,
@@ -2067,14 +2115,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 109319,
-      "num": 141975,
-      "word": "大学生私自取回自己电动车被处分",
-      "onboard_time": 1697879430,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 107893,
       "num": 107893,
       "word": "莽村李宏伟新剧不莽了",
@@ -2131,6 +2171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 103648,
+      "num": 1142097,
+      "word": "这条路使单程通行时间从一周缩至6小时",
+      "onboard_time": 1697871269,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102817,
       "num": 102817,
       "word": "估计司机也是第一次拉这么可爱的货",
@@ -2152,14 +2200,6 @@
       "word": "高寒动车组将在成都上线",
       "onboard_time": 1697876793,
       "rank": 48,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 97530,
-      "num": 1142097,
-      "word": "这条路使单程通行时间从一周缩至6小时",
-      "onboard_time": 1697871269,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -2251,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52518,
+      "num": 351144,
+      "word": "国货运动会太好笑了",
+      "onboard_time": 1697878292,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52097,
       "num": 52097,
       "word": "宋雨琦legend级直拍",
@@ -2297,14 +2345,6 @@
       "onboard_time": 1697827456,
       "rank": 24,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 41309,
-      "num": 351144,
-      "word": "国货运动会太好笑了",
-      "onboard_time": 1697878292,
-      "rank": 13,
-      "category": "体育"
     },
     {
       "raw_hot": 37197,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 17:15:10
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/21 17:34:08
 </p>
 </blockquote>
 <p>
@@ -5283,6 +5283,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E5%AE%B0%E6%9D%80%E6%B5%81%E6%B5%AA%E7%8B%97%23" target="weibo">
+网传一学生宿舍内宰杀流浪狗（热度：931997）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%97%E9%81%93%E5%8A%9E%E7%A7%B0%E7%BD%97%E5%A8%81%E7%BA%B3%E4%B8%BB%E4%BA%BA%E6%84%BF%E6%84%8F%E8%B5%94%E5%81%BF%23" target="weibo">
 街道办称罗威纳主人愿意赔偿（热度：928702）
 </a>
@@ -5633,12 +5639,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%81%9C%E8%BD%A6%E8%A8%80%E8%AE%BA%E4%BA%89%E8%AE%AE%23" target="weibo">
 乔欣回应停车言论争议（热度：885348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E4%B8%80%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E5%86%85%E5%AE%B0%E6%9D%80%E6%B5%81%E6%B5%AA%E7%8B%97%23" target="weibo">
-网传一学生宿舍内宰杀流浪狗（热度：884759）
 </a>
 </li>
 
