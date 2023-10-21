@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697866447837,
+  "endTime": 1697869260657,
   "band_list": [
     {
       "raw_hot": 1798324,
@@ -9,6 +9,14 @@
       "onboard_time": 1697818531,
       "rank": 17,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1640183,
+      "num": 1640183,
+      "word": "墨香铜臭",
+      "onboard_time": 1697866953,
+      "rank": 0,
+      "category": "读书作家"
     },
     {
       "raw_hot": 1616319,
@@ -57,6 +65,14 @@
       "onboard_time": 1697822901,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1312016,
+      "num": 1312016,
+      "word": "青岛啤酒涉事工厂是世界级智慧工厂",
+      "onboard_time": 1697865031,
+      "rank": 31,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 1295168,
@@ -148,7 +164,7 @@
     },
     {
       "raw_hot": 781299,
-      "num": 430721,
+      "num": 453809,
       "word": "李玟雕像",
       "onboard_time": 1697864670,
       "rank": 12,
@@ -193,14 +209,6 @@
       "onboard_time": 1697808032,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 739478,
-      "num": 739478,
-      "word": "青岛啤酒涉事工厂是世界级智慧工厂",
-      "onboard_time": 1697865031,
-      "rank": 31,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 737826,
@@ -281,6 +289,14 @@
       "onboard_time": 1697847931,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 598749,
+      "num": 354625,
+      "word": "张元英 不是三次元人的感觉",
+      "onboard_time": 1697865872,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 594202,
@@ -371,6 +387,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 462039,
+      "num": 410096,
+      "word": "马天宇 原生家庭是因不是果",
+      "onboard_time": 1697865452,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 460829,
       "num": 460829,
       "word": "网红张美丽被抓警方征集犯罪线索",
@@ -427,12 +451,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 432663,
+      "num": 330404,
+      "word": "JK罗琳 不是",
+      "onboard_time": 1697868335,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430837,
       "num": 430837,
       "word": "广西平果一车间发生爆炸",
       "onboard_time": 1697846608,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 428708,
+      "num": 428708,
+      "word": "赵丽颖月桂女神妆",
+      "onboard_time": 1697866411,
+      "rank": 46,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 426772,
@@ -465,14 +505,6 @@
       "onboard_time": 1697816911,
       "rank": 9,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 410096,
-      "num": 410096,
-      "word": "马天宇 原生家庭是因不是果",
-      "onboard_time": 1697865452,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 404482,
@@ -555,14 +587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 354625,
-      "num": 354625,
-      "word": "张元英 不是三次元人的感觉",
-      "onboard_time": 1697865872,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 351865,
       "num": 351865,
       "word": "周也 美的好轻松",
@@ -585,6 +609,14 @@
       "onboard_time": 1697849250,
       "rank": 21,
       "category": "数码"
+    },
+    {
+      "raw_hot": 340089,
+      "num": 280267,
+      "word": "陈奕迅上海",
+      "onboard_time": 1697866534,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 338209,
@@ -617,6 +649,14 @@
       "onboard_time": 1697850871,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 312898,
+      "num": 277879,
+      "word": "你每月到手工资有多少",
+      "onboard_time": 1697867192,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 310756,
@@ -683,6 +723,22 @@
       "category": "军事"
     },
     {
+      "raw_hot": 283221,
+      "num": 283221,
+      "word": "女子称老公吃贻贝吐出多颗珍珠",
+      "onboard_time": 1697867792,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 277685,
+      "num": 277685,
+      "word": "双十一你还看李佳琦吗",
+      "onboard_time": 1697865154,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 276935,
       "num": 276935,
       "word": "LGD晋级TI12胜者组半决赛",
@@ -739,6 +795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 256701,
+      "num": 256701,
+      "word": "华晨宇叫唐嫣糖糖",
+      "onboard_time": 1697868212,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 256230,
       "num": 237646,
       "word": "野狗骨头影视化",
@@ -777,14 +841,6 @@
       "onboard_time": 1697858609,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 248598,
-      "num": 241281,
-      "word": "双十一你还看李佳琦吗",
-      "onboard_time": 1697865154,
-      "rank": 47,
-      "category": "网红"
     },
     {
       "raw_hot": 243085,
@@ -923,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 223177,
+      "num": 180550,
+      "word": "男子1块钱拍下奔驰卖方拒绝发货",
+      "onboard_time": 1697868693,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221483,
       "num": 221483,
       "word": "朱一龙河边的错误上映海报",
@@ -937,6 +1001,14 @@
       "onboard_time": 1697849428,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 217694,
+      "num": 177298,
+      "word": "Minji夫感",
+      "onboard_time": 1697867851,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 216260,
@@ -1051,6 +1123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198617,
+      "num": 175877,
+      "word": "黄子韬说全场消费他买单",
+      "onboard_time": 1697867792,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197701,
       "num": 197701,
       "word": "孟佳和路边的狗对话",
@@ -1121,6 +1201,14 @@
       "onboard_time": 1697849550,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184535,
+      "num": 184535,
+      "word": "CN战队锁定TI12前三",
+      "onboard_time": 1697866411,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 183684,
@@ -1251,6 +1339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157977,
+      "num": 143174,
+      "word": "时光音乐会第七期歌单",
+      "onboard_time": 1697868513,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155248,
       "num": 155248,
       "word": "日本老年人养老金现状",
@@ -1265,6 +1361,14 @@
       "onboard_time": 1697809896,
       "rank": 33,
       "category": "情感,时尚"
+    },
+    {
+      "raw_hot": 150972,
+      "num": 150972,
+      "word": "爸妈的审美才是装修最大的坑",
+      "onboard_time": 1697868871,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 150526,
@@ -1427,6 +1531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131347,
+      "num": 131347,
+      "word": "老师称没打学生11个耳光只扇了五六下",
+      "onboard_time": 1697868991,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 130611,
       "num": 130611,
       "word": "G2战胜WBG",
@@ -1472,22 +1584,6 @@
       "word": "LPL又是内战",
       "onboard_time": 1697808274,
       "rank": 39,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 124002,
-      "num": 124002,
-      "word": "赵丽颖月桂女神妆",
-      "onboard_time": 1697866411,
-      "rank": 46,
-      "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 120391,
-      "num": 120391,
-      "word": "CN战队锁定TI12前三",
-      "onboard_time": 1697866411,
-      "rank": 49,
       "category": "电竞"
     },
     {
