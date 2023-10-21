@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697920456000,
+  "endTime": 1697922848890,
   "band_list": [
     {
       "raw_hot": 952431,
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 63666,
-      "num": 26172,
+      "num": 38900,
       "word": "当在咸鱼上刷到自己丢失的演出门票",
       "onboard_time": 1697914757,
       "rank": 37,
@@ -507,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30330,
+      "num": 16964,
+      "word": "青岛啤酒风波知情人发声",
+      "onboard_time": 1697920034,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 26923,
       "num": 723575,
       "word": "建设一个开放包容互联互通共同发展的世界",
@@ -531,20 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13016,
-      "num": 15983,
-      "word": "青岛啤酒风波知情人发声",
-      "onboard_time": 1697920034,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 12948,
+      "raw_hot": 15815,
       "num": 15980,
       "word": "魔卡少女樱 原画套图",
       "onboard_time": 1697919913,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 13634,
+      "num": 14715,
+      "word": "侯明昊伞舞",
+      "onboard_time": 1697921355,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 12719,
@@ -553,6 +561,14 @@
       "onboard_time": 1697895757,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 12579,
+      "num": 14709,
+      "word": "专家详解支原体肺炎治疗路径",
+      "onboard_time": 1697922374,
+      "rank": 46,
+      "category": "健康医疗"
     }
   ],
   "hotgov_list": [
