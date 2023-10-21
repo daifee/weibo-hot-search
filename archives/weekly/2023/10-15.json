@@ -1,6 +1,6 @@
 {
   "startTime": 1697300412859,
-  "endTime": 1697886806286,
+  "endTime": 1697888039468,
   "band_list": [
     {
       "raw_hot": 9362607,
@@ -844,7 +844,7 @@
     },
     {
       "raw_hot": 1735374,
-      "num": 354141,
+      "num": 418050,
       "word": "李玟母亲痛斥李玟丈夫出轨",
       "onboard_time": 1697884412,
       "rank": 43,
@@ -6491,6 +6491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 409586,
+      "num": 409586,
+      "word": "马哲孩子 疯子",
+      "onboard_time": 1697886692,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 408822,
       "num": 449324,
       "word": "云南大妈逼停运钞车是吃了毒蘑菇吗",
@@ -6857,6 +6865,14 @@
       "onboard_time": 1697861431,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 388384,
+      "num": 388384,
+      "word": "时代少年团 王者荣耀",
+      "onboard_time": 1697886993,
+      "rank": 12,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 388078,
@@ -9059,6 +9075,14 @@
       "category": "军事,国外要闻"
     },
     {
+      "raw_hot": 284827,
+      "num": 284827,
+      "word": "GEN零封G2",
+      "onboard_time": 1697886751,
+      "rank": 19,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 284730,
       "num": 284730,
       "word": "这就是e人喜欢i人的原因",
@@ -9273,6 +9297,14 @@
       "onboard_time": 1697338708,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 277026,
+      "num": 277026,
+      "word": "河边的错误解析",
+      "onboard_time": 1697886871,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 276935,
@@ -9732,7 +9764,7 @@
     },
     {
       "raw_hot": 263611,
-      "num": 428832,
+      "num": 445336,
       "word": "90后小伙为救人40天减重40斤",
       "onboard_time": 1697885074,
       "rank": 4,
@@ -10489,6 +10521,14 @@
       "onboard_time": 1697637695,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 244256,
+      "num": 244256,
+      "word": "河边的错误 看完不走",
+      "onboard_time": 1697887231,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 243907,
@@ -13019,6 +13059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 198129,
+      "num": 198129,
+      "word": "方筱然害怕到手抖好真实",
+      "onboard_time": 1697886452,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198086,
       "num": 198086,
       "word": "猫咪也是第一次当妈妈",
@@ -14347,6 +14395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180762,
+      "num": 180762,
+      "word": "i人的合照姿势",
+      "onboard_time": 1697886272,
+      "rank": 46,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 180568,
       "num": 180568,
       "word": "这场暴雨中26小时的惊险救援看得泪目",
@@ -14521,6 +14577,14 @@
       "onboard_time": 1697423190,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 177725,
+      "num": 183591,
+      "word": "CBA揭幕战",
+      "onboard_time": 1697886993,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 177582,
@@ -15179,6 +15243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 166978,
+      "num": 166978,
+      "word": "现在的雪糕都这么卷了吗",
+      "onboard_time": 1697886333,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 166934,
       "num": 166934,
       "word": "张之臻晋级东京赛次轮",
@@ -15531,14 +15603,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 161774,
-      "num": 214391,
-      "word": "GEN零封G2",
-      "onboard_time": 1697886751,
-      "rank": 19,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161427,
       "num": 161427,
       "word": "SEVENTEEN有自己的同声翻译",
@@ -15593,14 +15657,6 @@
       "onboard_time": 1697606612,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160863,
-      "num": 160863,
-      "word": "现在的雪糕都这么卷了吗",
-      "onboard_time": 1697886333,
-      "rank": 36,
-      "category": "美食"
     },
     {
       "raw_hot": 160690,
@@ -15707,6 +15763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159294,
+      "num": 159294,
+      "word": "马哲是不是菌子吃多了",
+      "onboard_time": 1697887412,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159189,
       "num": 159189,
       "word": "考古的风还是吹向了曾舜晞",
@@ -15793,14 +15857,6 @@
       "onboard_time": 1697873371,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 157358,
-      "num": 157358,
-      "word": "方筱然害怕到手抖好真实",
-      "onboard_time": 1697886452,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 157291,
@@ -16033,14 +16089,6 @@
       "onboard_time": 1697793454,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 154764,
-      "num": 154764,
-      "word": "马哲孩子 疯子",
-      "onboard_time": 1697886692,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 154544,
@@ -16731,6 +16779,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 142200,
+      "num": 142200,
+      "word": "陈都灵亲程潇脸路透",
+      "onboard_time": 1697888012,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141786,
       "num": 141786,
       "word": "这列火车的乘客竟是黑山羊",
@@ -16809,14 +16865,6 @@
       "onboard_time": 1697857531,
       "rank": 44,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140825,
-      "num": 140825,
-      "word": "i人的合照姿势",
-      "onboard_time": 1697886272,
-      "rank": 46,
-      "category": "休闲"
     },
     {
       "raw_hot": 140285,
@@ -17233,6 +17281,14 @@
       "onboard_time": 1697850208,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131720,
+      "num": 149531,
+      "word": "大闸蟹的正确打开方式",
+      "onboard_time": 1697887470,
+      "rank": 38,
+      "category": "美食"
     },
     {
       "raw_hot": 131518,
@@ -18169,6 +18225,14 @@
       "onboard_time": 1697438132,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 101022,
+      "num": 139019,
+      "word": "学天津大姨把头发梳成大人模样",
+      "onboard_time": 1697887952,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 100948,

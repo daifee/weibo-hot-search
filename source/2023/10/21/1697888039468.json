@@ -1,0 +1,410 @@
+{
+  "runTime": 1697888039468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 629833,
+        "num": 629833,
+        "word": "欧阳娣娣海选 淘汰",
+        "onboard_time": 1697875829,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 811175,
+        "num": 600647,
+        "word": "颖儿回应被说假吃",
+        "onboard_time": 1697880153,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84981,
+        "num": 494699,
+        "word": "这条路使单程通行时间从一周缩至6小时",
+        "onboard_time": 1697871269,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 455119,
+        "num": 455119,
+        "word": "墨香铜臭",
+        "onboard_time": 1697866953,
+        "rank": 3,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 253135,
+        "num": 445336,
+        "word": "90后小伙为救人40天减重40斤",
+        "onboard_time": 1697885074,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1561989,
+        "num": 445119,
+        "word": "二狗",
+        "onboard_time": 1697881650,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 199159,
+        "num": 443880,
+        "word": "中国医生救下战乱中患肿瘤的非洲女子",
+        "onboard_time": 1697877755,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 443342,
+        "num": 443342,
+        "word": "赵露思 人嘛该翻篇就得翻篇了",
+        "onboard_time": 1697873250,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1186449,
+        "num": 439091,
+        "word": "吃播 假吃",
+        "onboard_time": 1697875771,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 313699,
+        "num": 423507,
+        "word": "钟薛高在职员工称已两三月未发工资",
+        "onboard_time": 1697871511,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1570359,
+        "num": 418050,
+        "word": "李玟母亲痛斥李玟丈夫出轨",
+        "onboard_time": 1697884412,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 409586,
+        "num": 409586,
+        "word": "马哲孩子 疯子",
+        "onboard_time": 1697886692,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 388384,
+        "num": 388384,
+        "word": "时代少年团 王者荣耀",
+        "onboard_time": 1697886993,
+        "rank": 12,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 334412,
+        "num": 334412,
+        "word": "小米14",
+        "onboard_time": 1697885673,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 284827,
+        "num": 284827,
+        "word": "GEN零封G2",
+        "onboard_time": 1697886751,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 363354,
+        "num": 284462,
+        "word": "周杰伦退后 2007年现场",
+        "onboard_time": 1697883630,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 327274,
+        "num": 284196,
+        "word": "钟楚曦拍海报偷看张云龙",
+        "onboard_time": 1697877452,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277658,
+        "num": 277658,
+        "word": "卢昱晓原生感万能小淡妆",
+        "onboard_time": 1697881772,
+        "rank": 17,
+        "category": "美妆,艺人"
+      },
+      {
+        "raw_hot": 255890,
+        "num": 277151,
+        "word": "大学生私自取回自己电动车被处分",
+        "onboard_time": 1697879430,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232358,
+        "num": 277059,
+        "word": "研究称肚子胖的人脑子可能更笨",
+        "onboard_time": 1697878232,
+        "rank": 19,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 379761,
+        "num": 277055,
+        "word": "大学四年买了三千只口红",
+        "onboard_time": 1697872412,
+        "rank": 20,
+        "category": "幽默,美妆"
+      },
+      {
+        "raw_hot": 277026,
+        "num": 277026,
+        "word": "河边的错误解析",
+        "onboard_time": 1697886871,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 264869,
+        "num": 264869,
+        "word": "第一次对1000万有了实体概念",
+        "onboard_time": 1697877034,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244256,
+        "num": 244256,
+        "word": "河边的错误 看完不走",
+        "onboard_time": 1697887231,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 225484,
+        "num": 225484,
+        "word": "朱一龙河边的错误表演张力",
+        "onboard_time": 1697865872,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220120,
+        "num": 220120,
+        "word": "一场没有答案的映后交流",
+        "onboard_time": 1697869771,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198129,
+        "num": 198129,
+        "word": "方筱然害怕到手抖好真实",
+        "onboard_time": 1697886452,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186643,
+        "num": 186643,
+        "word": "生理性喜欢才是爱的前提吗",
+        "onboard_time": 1697875352,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 177725,
+        "num": 183591,
+        "word": "CBA揭幕战",
+        "onboard_time": 1697886993,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135824,
+        "num": 181843,
+        "word": "五星级酒店收养流浪动物获旅客称赞",
+        "onboard_time": 1697878590,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180762,
+        "num": 180762,
+        "word": "i人的合照姿势",
+        "onboard_time": 1697886272,
+        "rank": 30,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 180420,
+        "num": 180420,
+        "word": "王铮亮说张杰是冲在最前追光的人",
+        "onboard_time": 1697882493,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179801,
+        "num": 179801,
+        "word": "河边的错误 河流是更接近真相的",
+        "onboard_time": 1697864191,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172526,
+        "num": 172526,
+        "word": "李一桐性感野猫妆",
+        "onboard_time": 1697871210,
+        "rank": 33,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 166978,
+        "num": 166978,
+        "word": "现在的雪糕都这么卷了吗",
+        "onboard_time": 1697886333,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169989,
+        "num": 166967,
+        "word": "周也哭戏 破碎感",
+        "onboard_time": 1697885432,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159294,
+        "num": 159294,
+        "word": "马哲是不是菌子吃多了",
+        "onboard_time": 1697887412,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150596,
+        "num": 150596,
+        "word": "s13",
+        "onboard_time": 1697886512,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131720,
+        "num": 149531,
+        "word": "大闸蟹的正确打开方式",
+        "onboard_time": 1697887470,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109084,
+        "num": 149105,
+        "word": "男子1块钱拍下奔驰卖方拒绝发货",
+        "onboard_time": 1697868693,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149102,
+        "num": 149102,
+        "word": "十个勤天 音乐节",
+        "onboard_time": 1697881891,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148526,
+        "num": 148526,
+        "word": "张婧仪黑色抹胸连体裤",
+        "onboard_time": 1697881054,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 147445,
+        "num": 147445,
+        "word": "八捆线面",
+        "onboard_time": 1697879792,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 146131,
+        "num": 146131,
+        "word": "崔然竣 Smoke Challenge",
+        "onboard_time": 1697883813,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 142200,
+        "num": 142200,
+        "word": "陈都灵亲程潇脸路透",
+        "onboard_time": 1697888012,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140555,
+        "num": 140555,
+        "word": "邓为库存拍立得",
+        "onboard_time": 1697885494,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106038,
+        "num": 140426,
+        "word": "G2对战GEN",
+        "onboard_time": 1697884893,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104178,
+        "num": 139971,
+        "word": "GALA亮RNG队标",
+        "onboard_time": 1697881112,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101022,
+        "num": 139019,
+        "word": "学天津大姨把头发梳成大人模样",
+        "onboard_time": 1697887952,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100295,
+        "num": 138870,
+        "word": "JDG晋级S13八强",
+        "onboard_time": 1697880572,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的朋友圈为何越来越大#"
+    }
+  }
+}
