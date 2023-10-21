@@ -1,6 +1,6 @@
 {
   "startTime": 1697818933607,
-  "endTime": 1697880848042,
+  "endTime": 1697883404333,
   "band_list": [
     {
       "raw_hot": 2969216,
@@ -81,6 +81,14 @@
       "onboard_time": 1697864371,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1514258,
+      "num": 1514258,
+      "word": "颖儿回应被说假吃",
+      "onboard_time": 1697880153,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1333582,
@@ -177,6 +185,14 @@
       "onboard_time": 1697869954,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1010521,
+      "num": 1010521,
+      "word": "二狗",
+      "onboard_time": 1697881650,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 1006434,
@@ -435,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 515540,
+      "num": 515540,
+      "word": "大学生私自取回自己电动车被处分",
+      "onboard_time": 1697879430,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 510232,
       "num": 510232,
       "word": "一念花开定档",
@@ -465,6 +489,14 @@
       "onboard_time": 1697860471,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 490523,
+      "num": 429415,
+      "word": "八捆线面",
+      "onboard_time": 1697879792,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 489059,
@@ -563,14 +595,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 453368,
-      "num": 314840,
-      "word": "颖儿回应被说假吃",
-      "onboard_time": 1697880153,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 448286,
       "num": 448286,
       "word": "人生大事收视率破1",
@@ -601,14 +625,6 @@
       "onboard_time": 1697856389,
       "rank": 28,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 434907,
-      "num": 314583,
-      "word": "八捆线面",
-      "onboard_time": 1697879792,
-      "rank": 14,
-      "category": "网红"
     },
     {
       "raw_hot": 432962,
@@ -668,7 +684,7 @@
     },
     {
       "raw_hot": 417521,
-      "num": 349383,
+      "num": 373790,
       "word": "研究称肚子胖的人脑子可能更笨",
       "onboard_time": 1697878232,
       "rank": 15,
@@ -689,6 +705,14 @@
       "onboard_time": 1697816911,
       "rank": 9,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 411734,
+      "num": 411734,
+      "word": "王铮亮说张杰是冲在最前追光的人",
+      "onboard_time": 1697882493,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 404482,
@@ -867,6 +891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 325577,
+      "num": 325577,
+      "word": "JDG晋级S13八强",
+      "onboard_time": 1697880572,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 325050,
       "num": 306956,
       "word": "生理性喜欢才是爱的前提吗",
@@ -945,6 +977,14 @@
       "onboard_time": 1697862990,
       "rank": 32,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 295015,
+      "num": 295015,
+      "word": "卢昱晓原生感万能小淡妆",
+      "onboard_time": 1697881772,
+      "rank": 17,
+      "category": "美妆,艺人"
     },
     {
       "raw_hot": 292334,
@@ -1060,7 +1100,7 @@
     },
     {
       "raw_hot": 263200,
-      "num": 315530,
+      "num": 1012032,
       "word": "中国医生救下战乱中患肿瘤的非洲女子",
       "onboard_time": 1697877755,
       "rank": 18,
@@ -1121,14 +1161,6 @@
       "onboard_time": 1697858609,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 246457,
-      "num": 246457,
-      "word": "JDG晋级S13八强",
-      "onboard_time": 1697880572,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 243085,
@@ -1387,20 +1419,20 @@
       "category": "母婴育儿,知识科普"
     },
     {
-      "raw_hot": 207774,
-      "num": 286205,
-      "word": "大学生私自取回自己电动车被处分",
-      "onboard_time": 1697879430,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 207017,
       "num": 207017,
       "word": "这些城市上大分",
       "onboard_time": 1697857289,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206781,
+      "num": 206781,
+      "word": "张婧仪黑色抹胸连体裤",
+      "onboard_time": 1697881054,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 206729,
@@ -1435,12 +1467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 205154,
+      "num": 205154,
+      "word": "十个勤天 音乐节",
+      "onboard_time": 1697881891,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 203844,
       "num": 203844,
       "word": "李健唱了王菲的如愿",
       "onboard_time": 1697813494,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203209,
+      "num": 203209,
+      "word": "AG晋级世界赛",
+      "onboard_time": 1697883215,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 202910,
@@ -1529,6 +1577,14 @@
       "onboard_time": 1697792855,
       "rank": 28,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 192856,
+      "num": 192856,
+      "word": "GALA亮RNG队标",
+      "onboard_time": 1697881112,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 192744,
@@ -1755,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157513,
+      "num": 751218,
+      "word": "物业师傅救小孩被车撞翻仍爬起追车",
+      "onboard_time": 1697880931,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157440,
       "num": 181687,
       "word": "女孩路中央摔倒民警一把抱起",
@@ -1825,6 +1889,14 @@
       "onboard_time": 1697855131,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 147438,
+      "num": 147438,
+      "word": "林逸方筱然be了吗",
+      "onboard_time": 1697881650,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 147309,
@@ -2139,6 +2211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106591,
+      "num": 179064,
+      "word": "雪天车祸男子挥手狂喊提醒减速",
+      "onboard_time": 1697882373,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106234,
       "num": 106234,
       "word": "林孝埈1500米晋级",
@@ -2209,6 +2289,14 @@
       "onboard_time": 1697816373,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93642,
+      "num": 122800,
+      "word": "退休阿姨坚持16年帮助高龄独居老人",
+      "onboard_time": 1697882911,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 91413,
