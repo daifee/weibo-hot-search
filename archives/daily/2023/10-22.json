@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697980679328,
+  "endTime": 1697981634888,
   "band_list": [
     {
       "raw_hot": 2488322,
@@ -179,6 +179,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 953556,
+      "num": 953556,
+      "word": "花花这班上的太委屈了",
+      "onboard_time": 1697979033,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 952431,
       "num": 952431,
       "word": "何炅说第一次见黄子韬是19岁",
@@ -225,14 +233,6 @@
       "onboard_time": 1697892811,
       "rank": 1,
       "category": "演出"
-    },
-    {
-      "raw_hot": 760531,
-      "num": 760531,
-      "word": "花花这班上的太委屈了",
-      "onboard_time": 1697979033,
-      "rank": 3,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 742582,
@@ -315,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603875,
+      "num": 370491,
+      "word": "黄明昊林一troublemaker",
+      "onboard_time": 1697979572,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 594789,
       "num": 594789,
       "word": "菲律宾",
@@ -355,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 572893,
+      "num": 572893,
+      "word": "Xiaohu伏地魔",
+      "onboard_time": 1697976813,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 561443,
       "num": 561443,
       "word": "中国海警披露依法拦阻菲船只详情",
       "onboard_time": 1697951252,
       "rank": 13,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 540988,
-      "num": 529872,
-      "word": "Xiaohu伏地魔",
-      "onboard_time": 1697976813,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 533054,
@@ -435,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 502396,
+      "num": 366529,
+      "word": "曾舜晞录综艺带了10套衣服",
+      "onboard_time": 1697980413,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 501392,
       "num": 501392,
       "word": "KFC联名JOJO",
@@ -457,14 +473,6 @@
       "onboard_time": 1697938107,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 491964,
-      "num": 338301,
-      "word": "黄明昊林一troublemaker",
-      "onboard_time": 1697979572,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 486804,
@@ -507,6 +515,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 456149,
+      "num": 456149,
+      "word": "杨丞琳 我怎么突然冒出来这么多男粉",
+      "onboard_time": 1697977890,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 452612,
       "num": 399668,
       "word": "所谓鬼压床不是鬼魂在作怪",
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 443436,
-      "num": 334683,
+      "num": 355390,
       "word": "赵露思做了芋儿鸡",
       "onboard_time": 1697975430,
       "rank": 11,
@@ -585,14 +601,6 @@
       "onboard_time": 1697946333,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 431663,
-      "num": 431663,
-      "word": "杨丞琳 我怎么突然冒出来这么多男粉",
-      "onboard_time": 1697977890,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 429767,
@@ -715,8 +723,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 359784,
-      "num": 359784,
+      "raw_hot": 364201,
+      "num": 364201,
       "word": "仲溪午上桌了",
       "onboard_time": 1697977770,
       "rank": 37,
@@ -827,6 +835,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 312613,
+      "num": 376698,
+      "word": "巴以冲突超5800人死亡",
+      "onboard_time": 1697978911,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 308023,
       "num": 308023,
       "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
@@ -841,6 +857,14 @@
       "onboard_time": 1697949811,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 306827,
+      "num": 208319,
+      "word": "成毅换新头像",
+      "onboard_time": 1697981613,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 306014,
@@ -865,6 +889,14 @@
       "onboard_time": 1697900799,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 305037,
+      "num": 183473,
+      "word": "KSG 又一个汗流浃背",
+      "onboard_time": 1697981312,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 302268,
@@ -993,6 +1025,14 @@
       "onboard_time": 1697949932,
       "rank": 17,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 257436,
+      "num": 208008,
+      "word": "黄明昊演唱会",
+      "onboard_time": 1697981193,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 256158,
@@ -1171,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218417,
-      "num": 218417,
-      "word": "巴以冲突超5800人死亡",
-      "onboard_time": 1697978911,
-      "rank": 19,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 214301,
       "num": 214301,
       "word": "沈诺真的是国舅爷",
@@ -1233,6 +1265,14 @@
       "onboard_time": 1697976753,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 207191,
+      "num": 181618,
+      "word": "许愿薇薇安娜",
+      "onboard_time": 1697980413,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 206994,
@@ -1363,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198518,
-      "num": 198518,
-      "word": "曾舜晞录综艺带了10套衣服",
-      "onboard_time": 1697980413,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196385,
       "num": 196385,
       "word": "青岛啤酒风波知情人发声",
@@ -1393,6 +1425,14 @@
       "onboard_time": 1697905410,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193367,
+      "num": 189008,
+      "word": "易梦玲大梦归离古装路透",
+      "onboard_time": 1697979872,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 193198,
@@ -1539,14 +1579,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 175878,
-      "num": 175878,
-      "word": "许愿薇薇安娜",
-      "onboard_time": 1697980413,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 175237,
       "num": 175237,
       "word": "巴勒斯坦问题峰会闭幕",
@@ -1593,14 +1625,6 @@
       "onboard_time": 1697972912,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 170136,
-      "num": 170136,
-      "word": "易梦玲大梦归离古装路透",
-      "onboard_time": 1697979872,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 169811,
@@ -1713,6 +1737,14 @@
       "onboard_time": 1697959232,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157394,
+      "num": 157394,
+      "word": "朴灿烈新歌Good Enough舞台",
+      "onboard_time": 1697980712,
+      "rank": 34,
+      "category": "音乐"
     },
     {
       "raw_hot": 156823,
@@ -1931,6 +1963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 138709,
+      "num": 138709,
+      "word": "高圆圆去看乐队的夏天演唱会",
+      "onboard_time": 1697981492,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 138557,
       "num": 138557,
       "word": "周也 素却有力的美",
@@ -2003,6 +2043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130299,
+      "num": 130299,
+      "word": "联谊会上他们毫不犹豫转身出警",
+      "onboard_time": 1697981372,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129334,
       "num": 129334,
       "word": "王鹤润角姐有仇当场就报了",
@@ -2027,6 +2075,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128300,
+      "num": 128300,
+      "word": "XHW对战KSG",
+      "onboard_time": 1697978072,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128012,
       "num": 128012,
       "word": "0713的友谊真的会让人羡慕",
@@ -2049,6 +2105,14 @@
       "onboard_time": 1697877034,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125345,
+      "num": 125345,
+      "word": "XHW战胜KSG",
+      "onboard_time": 1697981613,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 124411,
@@ -2193,14 +2257,6 @@
       "onboard_time": 1697938232,
       "rank": 40,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 110902,
-      "num": 110902,
-      "word": "XHW对战KSG",
-      "onboard_time": 1697978072,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 110477,
@@ -2683,6 +2739,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 39232,
+      "num": 797176,
+      "word": "亚残运会上的助残黑科技",
+      "onboard_time": 1697965952,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 37837,
       "num": 550627,
       "word": "两个亚运同样精彩",
@@ -2753,14 +2817,6 @@
       "onboard_time": 1697921355,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10011,
-      "num": 797176,
-      "word": "亚残运会上的助残黑科技",
-      "onboard_time": 1697965952,
-      "rank": 30,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
