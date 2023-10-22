@@ -1,7 +1,15 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698002029004,
+  "endTime": 1698003251481,
   "band_list": [
+    {
+      "raw_hot": 8481659,
+      "num": 9731659,
+      "word": "甘肃酒泉4.7级地震",
+      "onboard_time": 1697989171,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 3752811,
       "num": 320401,
@@ -41,14 +49,6 @@
       "onboard_time": 1697988695,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 652295,
-      "num": 652295,
-      "word": "甘肃酒泉4.7级地震",
-      "onboard_time": 1697989171,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444949,
@@ -475,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26540,
+      "num": 26540,
+      "word": "F1",
+      "onboard_time": 1698001993,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 24119,
       "num": 27867,
       "word": "明日方舟",
@@ -499,12 +507,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17075,
-      "num": 19131,
-      "word": "F1",
-      "onboard_time": 1698001993,
+      "raw_hot": 15386,
+      "num": 17719,
+      "word": "中国环月空间站和月球熔洞穴基地方案",
+      "onboard_time": 1698002716,
       "rank": 45,
-      "category": "体育"
+      "category": "科技"
     }
   ],
   "hotgov_list": [

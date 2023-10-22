@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 03:13:49
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 03:34:11
 </p>
 </blockquote>
 <p>
@@ -71,6 +71,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%96%E4%BB%8E%E7%81%AB%E5%85%89%E4%B8%AD%E8%B5%B0%E6%9D%A5%20%E7%94%B7%E4%B8%BB%E6%AD%BB%E4%BA%86%23" target="weibo">
 他从火光中走来 男主死了（热度：8547905）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%98%E8%82%83%E9%85%92%E6%B3%894.7%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+甘肃酒泉4.7级地震（热度：8481659）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E4%B8%80%E6%AC%A1%E6%80%A7%E7%BB%99%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E7%94%9F%E6%B4%BB%E8%B4%B9%23" target="weibo">
 爸妈一次性给了四年的生活费（热度：875314）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E4%B8%BA%E6%98%AFINTJ%E8%80%8C%E8%A2%ABHR%E5%91%8A%E7%9F%A5%E6%B2%A1%E8%A2%AB%E5%BD%95%E5%8F%96%23" target="weibo">
-因为是INTJ而被HR告知没被录取（热度：875262）
 </a>
 </li>
 
