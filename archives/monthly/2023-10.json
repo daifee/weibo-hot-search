@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697977814768,
+  "endTime": 1697978749866,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -1787,6 +1787,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 2040576,
+      "num": 2040576,
+      "word": "富士康被查",
+      "onboard_time": 1697974232,
+      "rank": 42,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2034170,
       "num": 2034170,
       "word": "中国队决赛不藏了",
@@ -2201,14 +2209,6 @@
       "onboard_time": 1696932213,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1881370,
-      "num": 1881370,
-      "word": "富士康被查",
-      "onboard_time": 1697974232,
-      "rank": 42,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1880400,
@@ -13347,6 +13347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 593420,
+      "num": 593420,
+      "word": "周也清水妆",
+      "onboard_time": 1697973690,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 593220,
       "num": 593220,
       "word": "于适 别生气啊兄弟",
@@ -13561,14 +13569,6 @@
       "onboard_time": 1697024672,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 583399,
-      "num": 583399,
-      "word": "周也清水妆",
-      "onboard_time": 1697973690,
-      "rank": 25,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 583041,
@@ -14867,6 +14867,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 540988,
+      "num": 307788,
+      "word": "Xiaohu伏地魔",
+      "onboard_time": 1697976813,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 540928,
       "num": 529806,
       "word": "江歌妈妈直播间来了9万人",
@@ -15913,6 +15921,14 @@
       "onboard_time": 1697705494,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512512,
+      "num": 512512,
+      "word": "钟楚曦张云龙合拍剧宣",
+      "onboard_time": 1697975670,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 512131,
@@ -17833,14 +17849,6 @@
       "onboard_time": 1696227334,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 467679,
-      "num": 467679,
-      "word": "钟楚曦张云龙合拍剧宣",
-      "onboard_time": 1697975670,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 467393,
@@ -21291,14 +21299,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 397193,
-      "num": 183393,
-      "word": "Xiaohu伏地魔",
-      "onboard_time": 1697976813,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 396735,
       "num": 396735,
       "word": "车银优的人生",
@@ -22257,6 +22257,14 @@
       "onboard_time": 1696690361,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 381755,
+      "num": 381755,
+      "word": "张晚意 致玱玹",
+      "onboard_time": 1697976511,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 381641,
@@ -23763,6 +23771,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 356792,
+      "num": 302505,
+      "word": "最贵不到30块的平价美妆单品",
+      "onboard_time": 1697974410,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 356545,
       "num": 356545,
       "word": "林凯想和成毅三搭",
@@ -24753,14 +24769,6 @@
       "onboard_time": 1696384296,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 343456,
-      "num": 343456,
-      "word": "张晚意 致玱玹",
-      "onboard_time": 1697976511,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 343389,
@@ -28347,6 +28355,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 297634,
+      "num": 297634,
+      "word": "杨丞琳 我怎么突然冒出来这么多男粉",
+      "onboard_time": 1697977890,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 297587,
       "num": 245502,
       "word": "易烊千玺黑西装花絮",
@@ -30907,14 +30923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 273319,
-      "num": 273319,
-      "word": "最贵不到30块的平价美妆单品",
-      "onboard_time": 1697974410,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 273302,
       "num": 273302,
       "word": "小伙每天埋头刷题15小时急性瘫痪",
@@ -32961,6 +32969,14 @@
       "onboard_time": 1697294018,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 256437,
+      "num": 256437,
+      "word": "仲溪午上桌了",
+      "onboard_time": 1697977770,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 256414,
@@ -40267,6 +40283,14 @@
       "category": "艺人,运动健身"
     },
     {
+      "raw_hot": 206702,
+      "num": 206702,
+      "word": "那些kpop爱豆的本命舞蹈",
+      "onboard_time": 1697978311,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206651,
       "num": 206651,
       "word": "福二妹是水做的吧",
@@ -44291,6 +44315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191876,
+      "num": 191876,
+      "word": "明日方舟 2226",
+      "onboard_time": 1697978551,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191870,
       "num": 213910,
       "word": "光与夜之恋",
@@ -47331,6 +47363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 177742,
+      "num": 177742,
+      "word": "莲花楼 缠人老笛",
+      "onboard_time": 1697975911,
+      "rank": 31,
+      "category": "作品衍生,动漫"
+    },
+    {
       "raw_hot": 177725,
       "num": 183591,
       "word": "CBA揭幕战",
@@ -47721,14 +47761,6 @@
       "onboard_time": 1696154011,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175702,
-      "num": 175702,
-      "word": "莲花楼 缠人老笛",
-      "onboard_time": 1697975911,
-      "rank": 31,
-      "category": "作品衍生,动漫"
     },
     {
       "raw_hot": 175690,
@@ -48881,6 +48913,14 @@
       "onboard_time": 1696473035,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 169550,
+      "num": 169550,
+      "word": "XHW逆风翻盘",
+      "onboard_time": 1697977770,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 169529,
@@ -52265,14 +52305,6 @@
       "onboard_time": 1697382760,
       "rank": 42,
       "category": "旅游,社会新闻"
-    },
-    {
-      "raw_hot": 150437,
-      "num": 150437,
-      "word": "仲溪午上桌了",
-      "onboard_time": 1697977770,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 150429,
@@ -56019,6 +56051,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 122069,
+      "num": 122069,
+      "word": "打窝十斤渔获三两",
+      "onboard_time": 1697978072,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122063,
       "num": 122063,
       "word": "你是何时知道自己从里面坏掉了的呢",
@@ -57043,14 +57083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 110058,
-      "num": 110058,
-      "word": "XHW逆风翻盘",
-      "onboard_time": 1697977770,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 110014,
       "num": 110014,
       "word": "民警一句话点醒坐顶楼崩溃大哭少年",
@@ -57635,6 +57667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100762,
+      "num": 100762,
+      "word": "南瓜炖鸡",
+      "onboard_time": 1697978612,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 100697,
       "num": 71151,
       "word": "2000米混接中国队晋级决赛",
@@ -57793,6 +57833,14 @@
       "onboard_time": 1697787393,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98596,
+      "num": 98596,
+      "word": "海拔4500米重症病房见证生命奇迹",
+      "onboard_time": 1697978672,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 98445,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697977814768,
+  "endTime": 1697978749866,
   "band_list": [
     {
       "raw_hot": 2488322,
@@ -19,8 +19,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 1881370,
-      "num": 1881370,
+      "raw_hot": 2040576,
+      "num": 2040576,
       "word": "富士康被查",
       "onboard_time": 1697974232,
       "rank": 42,
@@ -307,8 +307,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 583399,
-      "num": 583399,
+      "raw_hot": 593420,
+      "num": 593420,
       "word": "周也清水妆",
       "onboard_time": 1697973690,
       "rank": 25,
@@ -345,6 +345,14 @@
       "onboard_time": 1697951252,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 540988,
+      "num": 307788,
+      "word": "Xiaohu伏地魔",
+      "onboard_time": 1697976813,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 533054,
@@ -385,6 +393,14 @@
       "onboard_time": 1697969314,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512512,
+      "num": 512512,
+      "word": "钟楚曦张云龙合拍剧宣",
+      "onboard_time": 1697975670,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 511076,
@@ -457,14 +473,6 @@
       "onboard_time": 1697968954,
       "rank": 10,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 467679,
-      "num": 467679,
-      "word": "钟楚曦张云龙合拍剧宣",
-      "onboard_time": 1697975670,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 462844,
@@ -619,14 +627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 397193,
-      "num": 183393,
-      "word": "Xiaohu伏地魔",
-      "onboard_time": 1697976813,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 392116,
       "num": 392116,
       "word": "女子网购猫粮发现包装有针孔",
@@ -649,6 +649,14 @@
       "onboard_time": 1697972372,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 381755,
+      "num": 381755,
+      "word": "张晚意 致玱玹",
+      "onboard_time": 1697976511,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 369342,
@@ -675,6 +683,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 356792,
+      "num": 302505,
+      "word": "最贵不到30块的平价美妆单品",
+      "onboard_time": 1697974410,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 351754,
       "num": 351754,
       "word": "戚薇外滩十八号回忆杀",
@@ -689,14 +705,6 @@
       "onboard_time": 1697961093,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 343456,
-      "num": 343456,
-      "word": "张晚意 致玱玹",
-      "onboard_time": 1697976511,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 341886,
@@ -843,6 +851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 297634,
+      "num": 297634,
+      "word": "杨丞琳 我怎么突然冒出来这么多男粉",
+      "onboard_time": 1697977890,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 296913,
       "num": 296913,
       "word": "律师称李玟已完成尸检证据已固定",
@@ -923,14 +939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 273319,
-      "num": 273319,
-      "word": "最贵不到30块的平价美妆单品",
-      "onboard_time": 1697974410,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 271420,
       "num": 271420,
       "word": "如何快速失去所有朋友",
@@ -953,6 +961,14 @@
       "onboard_time": 1697949932,
       "rank": 17,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 256437,
+      "num": 256437,
+      "word": "仲溪午上桌了",
+      "onboard_time": 1697977770,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 256158,
@@ -1187,6 +1203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 206702,
+      "num": 206702,
+      "word": "那些kpop爱豆的本命舞蹈",
+      "onboard_time": 1697978311,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205828,
       "num": 205828,
       "word": "男子提供600平闲置地收养流浪狗",
@@ -1331,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191876,
+      "num": 191876,
+      "word": "明日方舟 2226",
+      "onboard_time": 1697978551,
+      "rank": 27,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191164,
       "num": 191164,
       "word": "阿尔图罗 上岛",
@@ -1435,20 +1467,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 177742,
+      "num": 177742,
+      "word": "莲花楼 缠人老笛",
+      "onboard_time": 1697975911,
+      "rank": 31,
+      "category": "作品衍生,动漫"
+    },
+    {
       "raw_hot": 176068,
       "num": 213924,
       "word": "两只狗狗差距怎么这么大呢",
       "onboard_time": 1697950052,
       "rank": 27,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 175702,
-      "num": 175702,
-      "word": "莲花楼 缠人老笛",
-      "onboard_time": 1697975911,
-      "rank": 31,
-      "category": "作品衍生,动漫"
     },
     {
       "raw_hot": 175237,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1697972491,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 169550,
+      "num": 169550,
+      "word": "XHW逆风翻盘",
+      "onboard_time": 1697977770,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 168419,
@@ -1681,14 +1721,6 @@
       "onboard_time": 1697930301,
       "rank": 15,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 150437,
-      "num": 150437,
-      "word": "仲溪午上桌了",
-      "onboard_time": 1697977770,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 149958,
@@ -1971,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122069,
+      "num": 122069,
+      "word": "打窝十斤渔获三两",
+      "onboard_time": 1697978072,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 121062,
       "num": 121062,
       "word": "繁城之下豆瓣涨至8.6分",
@@ -2099,14 +2139,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110058,
-      "num": 110058,
-      "word": "XHW逆风翻盘",
-      "onboard_time": 1697977770,
-      "rank": 45,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 110014,
       "num": 110014,
       "word": "民警一句话点醒坐顶楼崩溃大哭少年",
@@ -2211,6 +2243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100762,
+      "num": 100762,
+      "word": "南瓜炖鸡",
+      "onboard_time": 1697978612,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 100697,
       "num": 71151,
       "word": "2000米混接中国队晋级决赛",
@@ -2241,6 +2281,14 @@
       "onboard_time": 1697908345,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98596,
+      "num": 98596,
+      "word": "海拔4500米重症病房见证生命奇迹",
+      "onboard_time": 1697978672,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 97943,

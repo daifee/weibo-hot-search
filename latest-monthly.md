@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 20:30:14
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 20:45:49
 </p>
 </blockquote>
 <p>
@@ -1353,6 +1353,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E8%A2%AB%E6%9F%A5%23" target="weibo">
+富士康被查（热度：2040576）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%86%B3%E8%B5%9B%E4%B8%8D%E8%97%8F%E4%BA%86%23" target="weibo">
 中国队决赛不藏了（热度：2034170）
 </a>
@@ -1661,12 +1667,6 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%9B5%E9%80%89%E6%89%8B%E6%92%9E%E8%84%B8%E9%B9%BF%E6%99%97%E5%85%B3%E6%99%93%E5%BD%A4%23" target="weibo">
 创5选手撞脸鹿晗关晓彤（热度：1885742）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%8C%E5%A3%AB%E5%BA%B7%E8%A2%AB%E6%9F%A5%23" target="weibo">
-富士康被查（热度：1881370）
 </a>
 </li>
 
