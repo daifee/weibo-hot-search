@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 06:34:06
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 07:16:21
 </p>
 </blockquote>
 <p>
@@ -4041,6 +4041,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+广东汕头发生5.0级地震（热度：1176712）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%99%E5%88%A9%E4%BA%9A%23" target="weibo">
 叙利亚（热度：1175690）
 </a>
@@ -6005,12 +6011,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8E%BB%E4%B8%96%E5%90%8E%E5%A6%BB%E5%AD%90%E5%8F%91%E7%8E%B0%E5%85%B6%E5%BE%AE%E4%BF%A1%E6%9C%89%E6%9A%A7%E6%98%A7%E5%AF%B9%E8%B1%A1%23" target="weibo">
 男子去世后妻子发现其微信有暧昧对象（热度：875981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E5%A6%88%E4%B8%80%E6%AC%A1%E6%80%A7%E7%BB%99%E4%BA%86%E5%9B%9B%E5%B9%B4%E7%9A%84%E7%94%9F%E6%B4%BB%E8%B4%B9%23" target="weibo">
-爸妈一次性给了四年的生活费（热度：875314）
 </a>
 </li>
 
