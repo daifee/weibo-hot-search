@@ -1,0 +1,410 @@
+{
+  "runTime": 1697973195518,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2261156,
+        "num": 2261156,
+        "word": "30岁有十万存款算什么水平",
+        "onboard_time": 1697965891,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 317341,
+        "num": 1647265,
+        "word": "新疆喀纳斯拍到超萌白鼬",
+        "onboard_time": 1697969910,
+        "rank": 1,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 42229,
+        "num": 1389570,
+        "word": "揭秘太空菜园的栽培神器",
+        "onboard_time": 1697966130,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1279678,
+        "num": 1279678,
+        "word": "KT战胜WBG",
+        "onboard_time": 1697972071,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177144,
+        "num": 1216823,
+        "word": "做消防员的妻子甜到爆表",
+        "onboard_time": 1697970091,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1192423,
+        "num": 1192423,
+        "word": "WBG 心态崩了",
+        "onboard_time": 1697972190,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1076997,
+        "num": 1076997,
+        "word": "WBG两连败",
+        "onboard_time": 1697972672,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 721546,
+        "num": 721546,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 678110,
+        "num": 678110,
+        "word": "富一代和富二代的认知差距",
+        "onboard_time": 1697968772,
+        "rank": 8,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 672103,
+        "num": 672103,
+        "word": "饶雪漫 丁真就是全场最靓的电灯泡",
+        "onboard_time": 1697969430,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 620009,
+        "num": 620009,
+        "word": "2万6千部手机刷直播间人气",
+        "onboard_time": 1697967870,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 533021,
+        "num": 533021,
+        "word": "为有暗香来",
+        "onboard_time": 1697971771,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494404,
+        "num": 494404,
+        "word": "最舍不得删的一张王者截图",
+        "onboard_time": 1697970871,
+        "rank": 12,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 416566,
+        "num": 416566,
+        "word": "美在我重点国防军工单位安插眼线",
+        "onboard_time": 1697965531,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149958,
+        "num": 410802,
+        "word": "晨雾中的江南村落仿佛一幅水墨画",
+        "onboard_time": 1697972854,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409774,
+        "num": 409774,
+        "word": "男子遭楼下老人砸门咒骂1年暴瘦20斤",
+        "onboard_time": 1697968954,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324696,
+        "num": 324696,
+        "word": "檀健次防风邶谐音梗永不过时",
+        "onboard_time": 1697970331,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274619,
+        "num": 274619,
+        "word": "2023金鸡百花电影节",
+        "onboard_time": 1697972372,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48634,
+        "num": 274545,
+        "word": "叶诗文孟子义都爱买买买",
+        "onboard_time": 1697971712,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 515312,
+        "num": 267356,
+        "word": "北京化工大学回应学院院长被指骚扰教师",
+        "onboard_time": 1697969314,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 493641,
+        "num": 265862,
+        "word": "因母胎血型不合女子怀孕3次都死胎",
+        "onboard_time": 1697967931,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 336085,
+        "num": 261147,
+        "word": "上四休三工资九折你愿意吗",
+        "onboard_time": 1697956289,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 305849,
+        "num": 255078,
+        "word": "佛山电翰辟谣网传一天挣500万",
+        "onboard_time": 1697972190,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 254919,
+        "num": 254919,
+        "word": "KT对战WBG",
+        "onboard_time": 1697971052,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 253719,
+        "num": 253719,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 24,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238378,
+        "num": 238378,
+        "word": "以色列内阁投票撤销该国公共外交部",
+        "onboard_time": 1697963420,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 213612,
+        "num": 213612,
+        "word": "马立奥要去当小姨的花童了",
+        "onboard_time": 1697965172,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195078,
+        "num": 195078,
+        "word": "英雄联盟",
+        "onboard_time": 1697972190,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192703,
+        "num": 192703,
+        "word": "河边的错误",
+        "onboard_time": 1697961093,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188744,
+        "num": 188744,
+        "word": "116岁奶奶一年四季只穿单鞋",
+        "onboard_time": 1697965891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 186072,
+        "num": 186072,
+        "word": "以色列再次空袭叙利亚两座机场",
+        "onboard_time": 1697957371,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 112483,
+        "num": 180217,
+        "word": "他没任何犹豫徒手拎出喷火煤气罐",
+        "onboard_time": 1697972190,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175671,
+        "num": 175671,
+        "word": "斗破苍穹",
+        "onboard_time": 1697964511,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 170615,
+        "num": 170615,
+        "word": "张靓颖演唱会外敷喝水",
+        "onboard_time": 1697966433,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165385,
+        "num": 165385,
+        "word": "巩俐 黑夜女王",
+        "onboard_time": 1697972491,
+        "rank": 34,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158698,
+        "num": 158698,
+        "word": "张栋梁把眼罩当发箍戴",
+        "onboard_time": 1697968532,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152921,
+        "num": 152921,
+        "word": "kpop四代女团合照",
+        "onboard_time": 1697964871,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139239,
+        "num": 139239,
+        "word": "女生被男同学抱摔致门牙断裂",
+        "onboard_time": 1697957489,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138780,
+        "num": 138780,
+        "word": "迪丽热巴希腊女神妆",
+        "onboard_time": 1697948012,
+        "rank": 38,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 125232,
+        "num": 125232,
+        "word": "这房子长得跟素描似的",
+        "onboard_time": 1697965469,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 122333,
+        "num": 122333,
+        "word": "白鹿复古名伶妆",
+        "onboard_time": 1697963532,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 122257,
+        "num": 122257,
+        "word": "桃花坞文案",
+        "onboard_time": 1697972912,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119369,
+        "num": 119369,
+        "word": "无爪鸡骨",
+        "onboard_time": 1697964031,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 108521,
+        "num": 108521,
+        "word": "成毅 老实人勇闯娱乐圈",
+        "onboard_time": 1697953170,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107464,
+        "num": 107464,
+        "word": "四川农村坝坝宴",
+        "onboard_time": 1697968711,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105337,
+        "num": 105337,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98980,
+        "num": 98980,
+        "word": "河边的错误 谁杀了我我又杀了谁",
+        "onboard_time": 1697962890,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98737,
+        "num": 98737,
+        "word": "BLG战胜FNC",
+        "onboard_time": 1697969371,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96241,
+        "num": 96241,
+        "word": "女童家中起火邻居消防接力灭火",
+        "onboard_time": 1697969610,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95955,
+        "num": 95955,
+        "word": "treasure 苏州签售",
+        "onboard_time": 1697964632,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路谋求的是共同发展合作共赢#"
+    }
+  }
+}
