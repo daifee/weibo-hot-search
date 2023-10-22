@@ -1,10 +1,10 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697945651282,
+  "endTime": 1697948383993,
   "band_list": [
     {
       "raw_hot": 1840803,
-      "num": 318154,
+      "num": 346054,
       "word": "Lucky八岁了好漂亮",
       "onboard_time": 1697939491,
       "rank": 10,
@@ -12,15 +12,15 @@
     },
     {
       "raw_hot": 1723309,
-      "num": 813998,
+      "num": 995911,
       "word": "她怎么突然就美了",
       "onboard_time": 1697937270,
       "rank": 44,
       "category": "艺人"
     },
     {
-      "raw_hot": 1397662,
-      "num": 1397662,
+      "raw_hot": 1690534,
+      "num": 1690534,
       "word": "支原体肺炎 鲜竹沥",
       "onboard_time": 1697942494,
       "rank": 0,
@@ -43,6 +43,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 1124699,
+      "num": 1124699,
+      "word": "兰博基尼被踩车主称不和解",
+      "onboard_time": 1697943992,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1105360,
       "num": 627940,
       "word": "佟丽娅董璇有孩子后的第一次闺蜜旅行",
@@ -59,8 +67,8 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 963731,
-      "num": 963731,
+      "raw_hot": 989535,
+      "num": 989535,
       "word": "中国足协负债12亿",
       "onboard_time": 1697944352,
       "rank": 7,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 452612,
-      "num": 205733,
+      "num": 396061,
       "word": "所谓鬼压床不是鬼魂在作怪",
       "onboard_time": 1697939852,
       "rank": 20,
@@ -235,20 +243,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 410159,
-      "num": 271524,
-      "word": "兰博基尼被踩车主称不和解",
-      "onboard_time": 1697943992,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 406961,
       "num": 406961,
       "word": "王俊凯尴尬表情包被当作示例",
       "onboard_time": 1697903375,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 387998,
+      "num": 387998,
+      "word": "8元一串的巨大里脊肉串",
+      "onboard_time": 1697942912,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 383506,
+      "num": 383506,
+      "word": "河边的错误 一千个人一亿个哈姆雷特",
+      "onboard_time": 1697946333,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 366174,
@@ -363,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 279582,
+      "num": 279582,
+      "word": "支原体肺炎",
+      "onboard_time": 1697947169,
+      "rank": 12,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 277761,
       "num": 277761,
       "word": "网友晒与鹿晗范丞丞王安宇合照",
@@ -395,14 +419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 257639,
-      "num": 213933,
-      "word": "8元一串的巨大里脊肉串",
-      "onboard_time": 1697942912,
-      "rank": 30,
-      "category": "美食"
-    },
-    {
       "raw_hot": 256158,
       "num": 210135,
       "word": "这就是街舞",
@@ -427,12 +443,44 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 237557,
+      "num": 237557,
+      "word": "麻将的里面装的什么",
+      "onboard_time": 1697945794,
+      "rank": 14,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 237496,
       "num": 221435,
       "word": "张元英 Baddie 直拍",
       "onboard_time": 1697903015,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 234468,
+      "num": 203096,
+      "word": "甄姬西施至美风华系列皮肤",
+      "onboard_time": 1697947592,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 231170,
+      "num": 231170,
+      "word": "SEVENTEEN夫胜宽令人意外的近况",
+      "onboard_time": 1697946871,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 229953,
+      "num": 229953,
+      "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+      "onboard_time": 1697948012,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 218873,
@@ -491,6 +539,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 202379,
+      "num": 202379,
+      "word": "马哲车牌31415",
+      "onboard_time": 1697946933,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201993,
       "num": 201993,
       "word": "肿眼泡消肿",
@@ -539,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191529,
+      "num": 191529,
+      "word": "丝巾鱼骨辫",
+      "onboard_time": 1697947351,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 190398,
       "num": 190398,
       "word": "众邻居下雨前帮母女抢收玉米",
@@ -579,6 +643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172698,
+      "num": 172698,
+      "word": "河海大学足球队战胜阿根廷代表队",
+      "onboard_time": 1697946631,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172624,
       "num": 172624,
       "word": "10岁女孩遇民警吃饭偷偷付钱",
@@ -601,6 +673,14 @@
       "onboard_time": 1697935650,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162817,
+      "num": 162817,
+      "word": "迪丽热巴希腊女神妆",
+      "onboard_time": 1697948012,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161793,
@@ -715,12 +795,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 142686,
+      "num": 142686,
+      "word": "玲的秘密",
+      "onboard_time": 1697947408,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141176,
       "num": 141176,
       "word": "你最喜欢墨香铜臭哪部作品",
       "onboard_time": 1697933909,
       "rank": 32,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 139097,
+      "num": 139097,
+      "word": "辅警凭一顶帽子迅速找回走丢老人",
+      "onboard_time": 1697948012,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 138557,
@@ -787,12 +883,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 120913,
+      "num": 120913,
+      "word": "守护甜心 歌呗同人",
+      "onboard_time": 1697947713,
+      "rank": 38,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 117642,
       "num": 117642,
       "word": "丞磊拖弟",
       "onboard_time": 1697933308,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115115,
+      "num": 115115,
+      "word": "刘惜君暗夜星河流光裙",
+      "onboard_time": 1697946871,
+      "rank": 39,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 114953,
@@ -1059,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69463,
+      "num": 1001846,
+      "word": "杭州亚残运会中国队全家福",
+      "onboard_time": 1697944771,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66030,
       "num": 66030,
       "word": "消防员从杂草从中救出被困司机",
@@ -1089,14 +1209,6 @@
       "onboard_time": 1697892396,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51949,
-      "num": 824895,
-      "word": "杭州亚残运会中国队全家福",
-      "onboard_time": 1697944771,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 48480,
