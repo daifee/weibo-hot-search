@@ -1,0 +1,410 @@
+{
+  "runTime": 1697985242600,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1406809,
+        "num": 1406809,
+        "word": "富士康被查",
+        "onboard_time": 1697974232,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1146576,
+        "num": 1146576,
+        "word": "花花这班上的太委屈了",
+        "onboard_time": 1697979033,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 78910,
+        "num": 1023140,
+        "word": "未来15年中国深空探测十大工程",
+        "onboard_time": 1697982273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 922856,
+        "num": 922856,
+        "word": "曾舜晞录综艺带了10套衣服",
+        "onboard_time": 1697980413,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 757246,
+        "num": 757246,
+        "word": "外交部回应中国海警拦阻菲船只",
+        "onboard_time": 1697982996,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 557425,
+        "num": 557425,
+        "word": "原来薛之谦戚薇刘维早都认识了",
+        "onboard_time": 1697981857,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 445188,
+        "num": 445188,
+        "word": "张栋梁的名字被哥哥们玩坏了",
+        "onboard_time": 1697982393,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 431011,
+        "num": 431011,
+        "word": "Xiaohu伏地魔",
+        "onboard_time": 1697976813,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 398891,
+        "num": 398891,
+        "word": "最贵不到30块的平价美妆单品",
+        "onboard_time": 1697974410,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 370631,
+        "num": 370631,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 911953,
+        "num": 367056,
+        "word": "30岁有十万存款算什么水平",
+        "onboard_time": 1697965891,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 600765,
+        "num": 366024,
+        "word": "黄明昊林一troublemaker",
+        "onboard_time": 1697979572,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 455227,
+        "num": 365261,
+        "word": "从此再无坚定选择她的哥哥",
+        "onboard_time": 1697982456,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 361271,
+        "num": 361271,
+        "word": "巴以冲突超5800人死亡",
+        "onboard_time": 1697978911,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 352911,
+        "num": 352911,
+        "word": "哥哥替父亲送妹妹出嫁泪崩",
+        "onboard_time": 1697983474,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292781,
+        "num": 292781,
+        "word": "丹麦赛陈雨菲女单夺冠",
+        "onboard_time": 1697982693,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281341,
+        "num": 281341,
+        "word": "男子遭楼下老人砸门咒骂1年暴瘦20斤",
+        "onboard_time": 1697968954,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252443,
+        "num": 252443,
+        "word": "钟楚曦张云龙合拍剧宣",
+        "onboard_time": 1697975670,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252014,
+        "num": 252014,
+        "word": "周也清水妆",
+        "onboard_time": 1697973690,
+        "rank": 18,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 223506,
+        "num": 223506,
+        "word": "杨丞琳 我怎么突然冒出来这么多男粉",
+        "onboard_time": 1697977890,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 573019,
+        "num": 221170,
+        "word": "12306回应火车卧铺上疑有排泄物",
+        "onboard_time": 1697983113,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 390519,
+        "num": 217672,
+        "word": "白敬亭工作室发了11张照片",
+        "onboard_time": 1697984015,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268532,
+        "num": 214706,
+        "word": "成毅换新头像",
+        "onboard_time": 1697981613,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267948,
+        "num": 211652,
+        "word": "新婚夫妻度蜜月飞机窗上贴喜字留念",
+        "onboard_time": 1697981791,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 210356,
+        "num": 210356,
+        "word": "WBG掉入瑞士轮生死局",
+        "onboard_time": 1697973510,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 208982,
+        "num": 208982,
+        "word": "薛之谦木偶妆",
+        "onboard_time": 1697984735,
+        "rank": 25,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 207718,
+        "num": 207718,
+        "word": "可可西里野狼被游客投喂胖成网红",
+        "onboard_time": 1697984554,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206263,
+        "num": 206263,
+        "word": "因母胎血型不合女子怀孕3次都死胎",
+        "onboard_time": 1697967931,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 203358,
+        "num": 203358,
+        "word": "高圆圆去看乐队的夏天演唱会",
+        "onboard_time": 1697981492,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 194782,
+        "num": 194782,
+        "word": "张萌说我赚钱你敢花吗",
+        "onboard_time": 1697982334,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189419,
+        "num": 189419,
+        "word": "李沁美拉德流苏外套",
+        "onboard_time": 1697983716,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 188635,
+        "num": 188635,
+        "word": "仲溪午上桌了",
+        "onboard_time": 1697977770,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185881,
+        "num": 185881,
+        "word": "WB对战AG",
+        "onboard_time": 1697984315,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181859,
+        "num": 181859,
+        "word": "赵露思做了芋儿鸡",
+        "onboard_time": 1697975430,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167893,
+        "num": 167893,
+        "word": "张晚意 致玱玹",
+        "onboard_time": 1697976511,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167606,
+        "num": 167606,
+        "word": "乌尔善说封神第二部剪辑已完成",
+        "onboard_time": 1697985033,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161125,
+        "num": 161125,
+        "word": "易梦玲大梦归离古装路透",
+        "onboard_time": 1697979872,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147322,
+        "num": 147322,
+        "word": "专家回应可可西里野狼被投喂成网红",
+        "onboard_time": 1697984798,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144076,
+        "num": 144076,
+        "word": "以色列内阁投票撤销该国公共外交部",
+        "onboard_time": 1697963420,
+        "rank": 38,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 137990,
+        "num": 137990,
+        "word": "2万6千部手机刷直播间人气",
+        "onboard_time": 1697967870,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144116,
+        "num": 137972,
+        "word": "为有暗香来",
+        "onboard_time": 1697971771,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137070,
+        "num": 137070,
+        "word": "田耕纪里的NPC",
+        "onboard_time": 1697983355,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133025,
+        "num": 133025,
+        "word": "TheShy 来还债的",
+        "onboard_time": 1697973391,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127299,
+        "num": 127299,
+        "word": "初中生拉开同学座椅致其后仰摔成重伤",
+        "onboard_time": 1697985214,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120979,
+        "num": 120979,
+        "word": "KSG 又一个汗流浃背",
+        "onboard_time": 1697981312,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120772,
+        "num": 120772,
+        "word": "数码宝贝cos被选召的孩子",
+        "onboard_time": 1697985033,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118587,
+        "num": 118587,
+        "word": "WBG 心态崩了",
+        "onboard_time": 1697972190,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116919,
+        "num": 116919,
+        "word": "沈诺真的是国舅爷",
+        "onboard_time": 1697978970,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116685,
+        "num": 116685,
+        "word": "那些kpop爱豆的本命舞蹈",
+        "onboard_time": 1697978311,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306315,
+        "num": 116593,
+        "word": "丁程鑫秦霄贤去看黄明昊演唱会",
+        "onboard_time": 1697982456,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚残运会开幕式#"
+    }
+  }
+}
