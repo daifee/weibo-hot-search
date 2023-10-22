@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697998829354,
+  "endTime": 1697999646285,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -60995,6 +60995,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 41066,
+      "num": 36632,
+      "word": "把鉴宝专家给整不会了",
+      "onboard_time": 1697997317,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40567,
       "num": 54357,
       "word": "游戏使用孙红雷这瓜保熟吗被告",
@@ -61067,6 +61075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38251,
+      "num": 38251,
+      "word": "张宁哭了",
+      "onboard_time": 1697997678,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 38060,
       "num": 2220980,
       "word": "推进共建绿色一带一路",
@@ -61123,14 +61139,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 36844,
-      "num": 36844,
-      "word": "张宁哭了",
-      "onboard_time": 1697997678,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 36831,
       "num": 450305,
       "word": "看见中国力量",
@@ -61145,14 +61153,6 @@
       "onboard_time": 1697049073,
       "rank": 41,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 36632,
-      "num": 36632,
-      "word": "把鉴宝专家给整不会了",
-      "onboard_time": 1697997317,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 36628,
@@ -61713,6 +61713,14 @@
       "onboard_time": 1697568735,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23949,
+      "num": 23949,
+      "word": "蕾哈娜或将回归乐坛",
+      "onboard_time": 1697999355,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 23757,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697998829354,
+  "endTime": 1697999646285,
   "band_list": [
     {
       "raw_hot": 3752811,
@@ -3227,6 +3227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41066,
+      "num": 36632,
+      "word": "把鉴宝专家给整不会了",
+      "onboard_time": 1697997317,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 40104,
       "num": 723575,
       "word": "建设一个开放包容互联互通共同发展的世界",
@@ -3243,28 +3251,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 37837,
-      "num": 550627,
-      "word": "两个亚运同样精彩",
-      "onboard_time": 1697894017,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 36844,
-      "num": 36844,
+      "raw_hot": 38251,
+      "num": 38251,
       "word": "张宁哭了",
       "onboard_time": 1697997678,
       "rank": 30,
       "category": "体育"
     },
     {
-      "raw_hot": 36632,
-      "num": 36632,
-      "word": "把鉴宝专家给整不会了",
-      "onboard_time": 1697997317,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 37837,
+      "num": 550627,
+      "word": "两个亚运同样精彩",
+      "onboard_time": 1697894017,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36628,
@@ -3305,6 +3305,14 @@
       "onboard_time": 1697891194,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23949,
+      "num": 23949,
+      "word": "蕾哈娜或将回归乐坛",
+      "onboard_time": 1697999355,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 18745,
