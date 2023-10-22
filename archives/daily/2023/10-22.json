@@ -1,7 +1,15 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697967243040,
+  "endTime": 1697969814455,
   "band_list": [
+    {
+      "raw_hot": 2488322,
+      "num": 2488322,
+      "word": "30岁有十万存款算什么水平",
+      "onboard_time": 1697965891,
+      "rank": 26,
+      "category": "财经"
+    },
     {
       "raw_hot": 2427786,
       "num": 2427786,
@@ -73,14 +81,6 @@
       "onboard_time": 1697934390,
       "rank": 20,
       "category": "社会新闻,教育"
-    },
-    {
-      "raw_hot": 1341023,
-      "num": 1341023,
-      "word": "30岁有十万存款算什么水平",
-      "onboard_time": 1697965891,
-      "rank": 26,
-      "category": "财经"
     },
     {
       "raw_hot": 1324642,
@@ -211,20 +211,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 640689,
+      "num": 640689,
+      "word": "美在我重点国防军工单位安插眼线",
+      "onboard_time": 1697965531,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626075,
       "num": 626075,
       "word": "菲船恶意碰瓷",
       "onboard_time": 1697951431,
       "rank": 18,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 613584,
-      "num": 613584,
-      "word": "美在我重点国防军工单位安插眼线",
-      "onboard_time": 1697965531,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 604703,
@@ -289,6 +289,14 @@
       "onboard_time": 1697957791,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 514230,
+      "num": 189363,
+      "word": "因母胎血型不合女子怀孕3次都死胎",
+      "onboard_time": 1697967931,
+      "rank": 21,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 511076,
@@ -361,6 +369,14 @@
       "onboard_time": 1697939852,
       "rank": 20,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 443173,
+      "num": 1049875,
+      "word": "116岁奶奶一年四季只穿单鞋",
+      "onboard_time": 1697965891,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442648,
@@ -443,6 +459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 411463,
+      "num": 326168,
+      "word": "男子遭楼下老人砸门咒骂1年暴瘦20斤",
+      "onboard_time": 1697968954,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 410418,
       "num": 410418,
       "word": "林娜琏MOMO朴志效舞台",
@@ -507,6 +531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354740,
+      "num": 160401,
+      "word": "富一代和富二代的认知差距",
+      "onboard_time": 1697968772,
+      "rank": 30,
+      "category": "其它"
+    },
+    {
       "raw_hot": 351754,
       "num": 351754,
       "word": "戚薇外滩十八号回忆杀",
@@ -529,6 +561,14 @@
       "onboard_time": 1697931443,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 338741,
+      "num": 338741,
+      "word": "2万6千部手机刷直播间人气",
+      "onboard_time": 1697967870,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336622,
@@ -755,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254071,
-      "num": 254071,
-      "word": "116岁奶奶一年四季只穿单鞋",
-      "onboard_time": 1697965891,
-      "rank": 29,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 252552,
       "num": 252552,
       "word": "苹果CEO库克称超95%产品在中国造",
@@ -851,6 +883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231286,
+      "num": 231286,
+      "word": "这房子长得跟素描似的",
+      "onboard_time": 1697965469,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 231170,
       "num": 231170,
       "word": "SEVENTEEN夫胜宽令人意外的近况",
@@ -883,20 +923,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222145,
+      "num": 222145,
+      "word": "BLG战胜FNC",
+      "onboard_time": 1697969371,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220777,
       "num": 220777,
       "word": "猫咪的烦 肉眼可见",
       "onboard_time": 1697953231,
       "rank": 23,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 220755,
-      "num": 220755,
-      "word": "这房子长得跟素描似的",
-      "onboard_time": 1697965469,
-      "rank": 34,
-      "category": "旅游"
     },
     {
       "raw_hot": 218873,
@@ -913,6 +953,14 @@
       "onboard_time": 1697902715,
       "rank": 31,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 211508,
+      "num": 160158,
+      "word": "饶雪漫 丁真就是全场最靓的电灯泡",
+      "onboard_time": 1697969430,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 210985,
@@ -960,6 +1008,14 @@
       "word": "藏族女孩被偶像教唱歌献20条哈达",
       "onboard_time": 1697939250,
       "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 205400,
+      "num": 195916,
+      "word": "张靓颖演唱会外敷喝水",
+      "onboard_time": 1697966433,
+      "rank": 24,
       "category": "演出"
     },
     {
@@ -1059,20 +1115,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195916,
-      "num": 195916,
-      "word": "张靓颖演唱会外敷喝水",
-      "onboard_time": 1697966433,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 194072,
       "num": 156857,
       "word": "张杰时光音乐会老友记",
       "onboard_time": 1697905410,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193198,
+      "num": 193198,
+      "word": "前任4里的丁点",
+      "onboard_time": 1697966609,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 190398,
@@ -1113,6 +1169,14 @@
       "onboard_time": 1697963192,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182847,
+      "num": 182847,
+      "word": "张栋梁把眼罩当发箍戴",
+      "onboard_time": 1697968532,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 182515,
@@ -1195,6 +1259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 171930,
+      "num": 160011,
+      "word": "北京化工大学回应学院院长被指骚扰教师",
+      "onboard_time": 1697969314,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 168419,
       "num": 168419,
       "word": "杨丞琳匿名的好友全场大合唱",
@@ -1249,6 +1321,14 @@
       "onboard_time": 1697958209,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159678,
+      "num": 159678,
+      "word": "四川农村坝坝宴",
+      "onboard_time": 1697968711,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 158647,
@@ -1337,14 +1417,6 @@
       "onboard_time": 1697890774,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 152402,
-      "num": 152402,
-      "word": "前任4里的丁点",
-      "onboard_time": 1697966609,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 151879,
@@ -1460,7 +1532,7 @@
     },
     {
       "raw_hot": 138788,
-      "num": 138788,
+      "num": 747509,
       "word": "114岁老人的长寿秘诀",
       "onboard_time": 1697964992,
       "rank": 41,
@@ -1649,6 +1721,14 @@
       "onboard_time": 1697886993,
       "rank": 37,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 114893,
+      "num": 114893,
+      "word": "明日方舟 四爷",
+      "onboard_time": 1697968290,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 114764,
@@ -1899,6 +1979,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 92148,
+      "num": 146283,
+      "word": "红酒红肉很搭我们俩也很搭",
+      "onboard_time": 1697968172,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 91425,
       "num": 91425,
       "word": "深夜民警一句话打消准妈妈轻生念头",
@@ -1913,6 +2001,14 @@
       "onboard_time": 1697899000,
       "rank": 43,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 88453,
+      "num": 185344,
+      "word": "女童家中起火邻居消防接力灭火",
+      "onboard_time": 1697969610,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 87286,
@@ -2099,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 42408,
+      "num": 1013898,
+      "word": "揭秘太空菜园的栽培神器",
+      "onboard_time": 1697966130,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
       "raw_hot": 40104,
       "num": 723575,
       "word": "建设一个开放包容互联互通共同发展的世界",
@@ -2121,14 +2225,6 @@
       "onboard_time": 1697929400,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35797,
-      "num": 1013898,
-      "word": "揭秘太空菜园的栽培神器",
-      "onboard_time": 1697966130,
-      "rank": 2,
-      "category": "科技"
     },
     {
       "raw_hot": 33271,

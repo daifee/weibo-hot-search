@@ -1,0 +1,410 @@
+{
+  "runTime": 1697969814455,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2488322,
+        "num": 2488322,
+        "word": "30岁有十万存款算什么水平",
+        "onboard_time": 1697965891,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 443173,
+        "num": 1049875,
+        "word": "116岁奶奶一年四季只穿单鞋",
+        "onboard_time": 1697965891,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 42408,
+        "num": 975648,
+        "word": "揭秘太空菜园的栽培神器",
+        "onboard_time": 1697966130,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 943199,
+        "num": 943199,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120164,
+        "num": 747509,
+        "word": "114岁老人的长寿秘诀",
+        "onboard_time": 1697964992,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 640689,
+        "num": 640689,
+        "word": "美在我重点国防军工单位安插眼线",
+        "onboard_time": 1697965531,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 570989,
+        "num": 570989,
+        "word": "上四休三工资九折你愿意吗",
+        "onboard_time": 1697956289,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 491527,
+        "num": 491527,
+        "word": "无爪鸡骨",
+        "onboard_time": 1697964031,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 367755,
+        "num": 367755,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 8,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 338741,
+        "num": 338741,
+        "word": "2万6千部手机刷直播间人气",
+        "onboard_time": 1697967870,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 411463,
+        "num": 326168,
+        "word": "男子遭楼下老人砸门咒骂1年暴瘦20斤",
+        "onboard_time": 1697968954,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 405771,
+        "num": 315159,
+        "word": "马立奥要去当小姨的花童了",
+        "onboard_time": 1697965172,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285494,
+        "num": 285494,
+        "word": "以色列内阁投票撤销该国公共外交部",
+        "onboard_time": 1697963420,
+        "rank": 12,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 257379,
+        "num": 257379,
+        "word": "kpop四代女团合照",
+        "onboard_time": 1697964871,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241622,
+        "num": 241622,
+        "word": "以色列再次空袭叙利亚两座机场",
+        "onboard_time": 1697957371,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 239564,
+        "num": 239564,
+        "word": "斗破苍穹",
+        "onboard_time": 1697964511,
+        "rank": 15,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 231286,
+        "num": 231286,
+        "word": "这房子长得跟素描似的",
+        "onboard_time": 1697965469,
+        "rank": 16,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 222145,
+        "num": 222145,
+        "word": "BLG战胜FNC",
+        "onboard_time": 1697969371,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210377,
+        "num": 210377,
+        "word": "河边的错误",
+        "onboard_time": 1697961093,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193198,
+        "num": 193198,
+        "word": "前任4里的丁点",
+        "onboard_time": 1697966609,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 552984,
+        "num": 191145,
+        "word": "妈妈给我网购了避孕套",
+        "onboard_time": 1697964632,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 514230,
+        "num": 189363,
+        "word": "因母胎血型不合女子怀孕3次都死胎",
+        "onboard_time": 1697967931,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 205400,
+        "num": 187756,
+        "word": "张靓颖演唱会外敷喝水",
+        "onboard_time": 1697966433,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88453,
+        "num": 185344,
+        "word": "女童家中起火邻居消防接力灭火",
+        "onboard_time": 1697969610,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182847,
+        "num": 182847,
+        "word": "张栋梁把眼罩当发箍戴",
+        "onboard_time": 1697968532,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182147,
+        "num": 182147,
+        "word": "白鹿复古名伶妆",
+        "onboard_time": 1697963532,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174562,
+        "num": 174562,
+        "word": "treasure 苏州签售",
+        "onboard_time": 1697964632,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172812,
+        "num": 172812,
+        "word": "迪丽热巴希腊女神妆",
+        "onboard_time": 1697948012,
+        "rank": 27,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 96740,
+        "num": 162706,
+        "word": "救援队2天帮走失6年老人找到家人",
+        "onboard_time": 1697966851,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160863,
+        "num": 160863,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 354740,
+        "num": 160401,
+        "word": "富一代和富二代的认知差距",
+        "onboard_time": 1697968772,
+        "rank": 30,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 211508,
+        "num": 160158,
+        "word": "饶雪漫 丁真就是全场最靓的电灯泡",
+        "onboard_time": 1697969430,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 171930,
+        "num": 160011,
+        "word": "北京化工大学回应学院院长被指骚扰教师",
+        "onboard_time": 1697969314,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159678,
+        "num": 159678,
+        "word": "四川农村坝坝宴",
+        "onboard_time": 1697968711,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 148249,
+        "num": 148249,
+        "word": "纽约兴起老鼠游",
+        "onboard_time": 1697951134,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92148,
+        "num": 146283,
+        "word": "红酒红肉很搭我们俩也很搭",
+        "onboard_time": 1697968172,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145547,
+        "num": 145547,
+        "word": "成毅 老实人勇闯娱乐圈",
+        "onboard_time": 1697953170,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132488,
+        "num": 132488,
+        "word": "女生被男同学抱摔致门牙断裂",
+        "onboard_time": 1697957489,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122785,
+        "num": 122785,
+        "word": "王鹤棣晒Hi6大合照",
+        "onboard_time": 1697961213,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115236,
+        "num": 115236,
+        "word": "独子去世离异父母各分走一半骨灰",
+        "onboard_time": 1697949692,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 114893,
+        "num": 114893,
+        "word": "明日方舟 四爷",
+        "onboard_time": 1697968290,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 114888,
+        "num": 114888,
+        "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+        "onboard_time": 1697948012,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113633,
+        "num": 113633,
+        "word": "白鹿白色拖地长裙",
+        "onboard_time": 1697963911,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 108150,
+        "num": 108150,
+        "word": "杨丞琳匿名的好友全场大合唱",
+        "onboard_time": 1697962472,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105800,
+        "num": 105800,
+        "word": "白宇帆工作室为评论于适言论道歉",
+        "onboard_time": 1697965831,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101630,
+        "num": 101630,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101027,
+        "num": 101027,
+        "word": "猫为咬这一口做了300个假动作",
+        "onboard_time": 1697960789,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 98705,
+        "num": 98705,
+        "word": "曾舜晞说莲花楼全员都希望再度合作",
+        "onboard_time": 1697958932,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98258,
+        "num": 98258,
+        "word": "男子提供600平闲置地收养流浪狗",
+        "onboard_time": 1697963611,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 95301,
+        "num": 95301,
+        "word": "华晨宇演唱会边系鞋带边唱歌",
+        "onboard_time": 1697965291,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的100个故事#"
+    }
+  }
+}
