@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697985242600,
+  "endTime": 1697987812893,
   "band_list": [
     {
       "raw_hot": 2488322,
@@ -107,6 +107,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 1296873,
+      "num": 1296873,
+      "word": "27岁女子长期横向刷牙致牙齿缺损",
+      "onboard_time": 1697986297,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279678,
       "num": 1279678,
       "word": "KT战胜WBG",
@@ -169,6 +177,14 @@
       "onboard_time": 1697930180,
       "rank": 10,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 994904,
+      "num": 994904,
+      "word": "乌尔善说封神第二部剪辑已完成",
+      "onboard_time": 1697985033,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 989535,
@@ -265,6 +281,14 @@
       "onboard_time": 1697964031,
       "rank": 2,
       "category": "美食"
+    },
+    {
+      "raw_hot": 717337,
+      "num": 717337,
+      "word": "从此再无坚定选择她的哥哥",
+      "onboard_time": 1697982456,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 682257,
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 573019,
-      "num": 282312,
+      "num": 320246,
       "word": "12306回应火车卧铺上疑有排泄物",
       "onboard_time": 1697983113,
       "rank": 20,
@@ -411,6 +435,22 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 547724,
+      "num": 547724,
+      "word": "可可西里野狼被游客投喂胖成网红",
+      "onboard_time": 1697984554,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 539059,
+      "num": 393005,
+      "word": "女子带婴儿被3条流浪狗围攻咬伤",
+      "onboard_time": 1697986357,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 533054,
       "num": 533054,
       "word": "27岁了最爱的还是小孩菜",
@@ -425,6 +465,14 @@
       "onboard_time": 1697971771,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532905,
+      "num": 391130,
+      "word": "巴勒斯坦运动员入场受到热烈欢迎",
+      "onboard_time": 1697985938,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 530364,
@@ -555,14 +603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 455227,
-      "num": 365261,
-      "word": "从此再无坚定选择她的哥哥",
-      "onboard_time": 1697982456,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 454816,
       "num": 454816,
       "word": "巴以冲突超5800人死亡",
@@ -691,6 +731,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415053,
+      "num": 318569,
+      "word": "孔雪儿为THE9演唱会练舞",
+      "onboard_time": 1697987314,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
       "raw_hot": 410418,
       "num": 410418,
       "word": "林娜琏MOMO朴志效舞台",
@@ -713,6 +761,14 @@
       "onboard_time": 1697982693,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398918,
+      "num": 398918,
+      "word": "檀健次去了黄明昊演唱会",
+      "onboard_time": 1697985335,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 397794,
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 390519,
-      "num": 217672,
+      "num": 289444,
       "word": "白敬亭工作室发了11张照片",
       "onboard_time": 1697984015,
       "rank": 33,
@@ -753,6 +809,14 @@
       "onboard_time": 1697972372,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 387542,
+      "num": 387542,
+      "word": "新裤子 开蹦",
+      "onboard_time": 1697986476,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 385650,
@@ -851,12 +915,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 331808,
+      "num": 331808,
+      "word": "郭麒麟说我有点儿可怜我爸",
+      "onboard_time": 1697987497,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327871,
       "num": 327871,
       "word": "巴勒斯坦问题峰会",
       "onboard_time": 1697935949,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 326703,
+      "num": 320897,
+      "word": "林一演出我心目中的痞帅校霸",
+      "onboard_time": 1697986717,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 325930,
@@ -873,6 +953,14 @@
       "onboard_time": 1697958932,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324878,
+      "num": 324878,
+      "word": "初中生拉开同学座椅致其后仰摔成重伤",
+      "onboard_time": 1697985214,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 324696,
@@ -1091,6 +1179,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 270829,
+      "num": 264846,
+      "word": "李泳知演唱会小卡演我精神状态",
+      "onboard_time": 1697987015,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 266480,
       "num": 266480,
       "word": "白鹿郑书意",
@@ -1147,12 +1243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 249024,
+      "num": 249024,
+      "word": "薛之谦木偶妆",
+      "onboard_time": 1697984735,
+      "rank": 25,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 248583,
       "num": 248583,
       "word": "丝巾鱼骨辫",
       "onboard_time": 1697947351,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 248465,
+      "num": 248465,
+      "word": "WB疯狂掉点",
+      "onboard_time": 1697986059,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 244182,
@@ -1169,6 +1281,14 @@
       "onboard_time": 1697866953,
       "rank": 19,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 239535,
+      "num": 239535,
+      "word": "女子分享东北饭店人均40菜量惊人",
+      "onboard_time": 1697987374,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 239211,
@@ -1201,6 +1321,22 @@
       "onboard_time": 1697947592,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 232359,
+      "num": 232359,
+      "word": "WB挑战者杯淘汰",
+      "onboard_time": 1697986476,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 232131,
+      "num": 232131,
+      "word": "倪虹洁告诫女生冷战长结节",
+      "onboard_time": 1697986059,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 231790,
@@ -1275,6 +1411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221053,
+      "num": 221053,
+      "word": "五月天成都",
+      "onboard_time": 1697986837,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220777,
       "num": 220777,
       "word": "猫咪的烦 肉眼可见",
@@ -1347,28 +1491,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208982,
-      "num": 208982,
-      "word": "薛之谦木偶妆",
-      "onboard_time": 1697984735,
-      "rank": 25,
-      "category": "作品衍生,美妆"
-    },
-    {
       "raw_hot": 207857,
       "num": 207857,
       "word": "熊猫耳朵小会显得脸大",
       "onboard_time": 1697939431,
       "rank": 19,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 207718,
-      "num": 207718,
-      "word": "可可西里野狼被游客投喂胖成网红",
-      "onboard_time": 1697984554,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 207611,
@@ -1515,6 +1643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197206,
+      "num": 197206,
+      "word": "WB对战AG",
+      "onboard_time": 1697984315,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 196385,
       "num": 196385,
       "word": "青岛啤酒风波知情人发声",
@@ -1528,6 +1664,14 @@
       "word": "英雄联盟",
       "onboard_time": 1697972190,
       "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 195050,
+      "num": 195050,
+      "word": "AG晋级挑杯八强",
+      "onboard_time": 1697986956,
+      "rank": 34,
       "category": "电竞"
     },
     {
@@ -1617,14 +1761,6 @@
       "onboard_time": 1697901636,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 185881,
-      "num": 185881,
-      "word": "WB对战AG",
-      "onboard_time": 1697984315,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 184667,
@@ -1771,20 +1907,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168921,
+      "num": 168921,
+      "word": "数码宝贝cos被选召的孩子",
+      "onboard_time": 1697985033,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 168419,
       "num": 168419,
       "word": "杨丞琳匿名的好友全场大合唱",
       "onboard_time": 1697962472,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167606,
-      "num": 167606,
-      "word": "乌尔善说封神第二部剪辑已完成",
-      "onboard_time": 1697985033,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 164300,
@@ -2091,12 +2227,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 140761,
+      "num": 140761,
+      "word": "加沙医疗机构所需燃料已耗尽",
+      "onboard_time": 1697985515,
+      "rank": 47,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 140651,
       "num": 191087,
       "word": "本年度最会怼人的网友出现了",
       "onboard_time": 1697952572,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139359,
+      "num": 139359,
+      "word": "明日方舟",
+      "onboard_time": 1697986357,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 139097,
@@ -2145,6 +2297,14 @@
       "onboard_time": 1697972190,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132961,
+      "num": 132961,
+      "word": "沈诺意识觉醒NPC攻略玩家",
+      "onboard_time": 1697986297,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 132672,
@@ -2251,14 +2411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 127299,
-      "num": 127299,
-      "word": "初中生拉开同学座椅致其后仰摔成重伤",
-      "onboard_time": 1697985214,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 125345,
       "num": 125345,
       "word": "XHW战胜KSG",
@@ -2313,14 +2465,6 @@
       "onboard_time": 1697958750,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120772,
-      "num": 120772,
-      "word": "数码宝贝cos被选召的孩子",
-      "onboard_time": 1697985033,
-      "rank": 45,
-      "category": "动漫"
     },
     {
       "raw_hot": 118531,

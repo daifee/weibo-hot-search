@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 22:34:02
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 23:16:52
 </p>
 </blockquote>
 <p>
@@ -3561,6 +3561,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F%23" target="weibo">
+27岁女子长期横向刷牙致牙齿缺损（热度：1296873）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%84%A7%E6%98%AF%E5%8C%97%E5%A4%A7%20%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E7%AD%BE%E5%88%B0%E6%96%B9%E5%BC%8F%23" target="weibo">
 不愧是北大 好歹毒的签到方式（热度：1295168）
 </a>
@@ -5013,6 +5019,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B0%94%E5%96%84%E8%AF%B4%E5%B0%81%E7%A5%9E%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%89%AA%E8%BE%91%E5%B7%B2%E5%AE%8C%E6%88%90%23" target="weibo">
+乌尔善说封神第二部剪辑已完成（热度：994904）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%96%84%E5%9D%87%E6%96%B9%E5%9B%9E%E5%BA%94%E5%90%B8%E6%AF%92%E4%BC%A0%E9%97%BB%23" target="weibo">
 李善均方回应吸毒传闻（热度：990981）
 </a>
@@ -5999,18 +6011,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%8A%E6%98%AF%E5%A5%B3%E6%80%A7%E8%BA%AB%E4%BD%93%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%9C%BA%E5%88%B6%23" target="weibo">
 多囊是女性身体的保护机制（热度：872477）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E8%96%9B%E9%AB%98%E5%9C%A8%E8%81%8C%E5%91%98%E5%B7%A5%E7%A7%B0%E5%B7%B2%E4%B8%A4%E4%B8%89%E6%9C%88%E6%9C%AA%E5%8F%91%E5%B7%A5%E8%B5%84%23" target="weibo">
-钟薛高在职员工称已两三月未发工资（热度：872089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%BB%BA%E5%9B%BD%E5%8F%B2%23" target="weibo">
-以色列建国史（热度：871891）
 </a>
 </li>
 
