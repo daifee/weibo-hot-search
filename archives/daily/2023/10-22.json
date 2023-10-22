@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697952849694,
+  "endTime": 1697955654466,
   "band_list": [
     {
       "raw_hot": 1840803,
@@ -16,6 +16,14 @@
       "word": "儿子溺亡16年后爸爸跳河救人牺牲",
       "onboard_time": 1697948012,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1768600,
+      "num": 1038009,
+      "word": "被男友用U型锁打死女子亲属发声",
+      "onboard_time": 1697950232,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -67,11 +75,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1038009,
-      "num": 1038009,
-      "word": "被男友用U型锁打死女子亲属发声",
-      "onboard_time": 1697950232,
-      "rank": 4,
+      "raw_hot": 1003479,
+      "num": 1003479,
+      "word": "独子去世离异父母各分走一半骨灰",
+      "onboard_time": 1697949692,
+      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -115,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 820639,
+      "num": 820639,
+      "word": "纽约鼠灾",
+      "onboard_time": 1697951134,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 769738,
       "num": 769738,
       "word": "医生劝半个多小时不让走救回一条命",
@@ -137,14 +153,6 @@
       "onboard_time": 1697903256,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 708751,
-      "num": 708751,
-      "word": "独子去世离异父母各分走一半骨灰",
-      "onboard_time": 1697949692,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 682257,
@@ -195,12 +203,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 558769,
+      "num": 426973,
+      "word": "成毅 老实人勇闯娱乐圈",
+      "onboard_time": 1697953170,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 536472,
+      "num": 536472,
+      "word": "菲律宾",
+      "onboard_time": 1697951793,
+      "rank": 22,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 533054,
       "num": 533054,
       "word": "27岁了最爱的还是小孩菜",
       "onboard_time": 1697931986,
       "rank": 6,
       "category": "情感"
+    },
+    {
+      "raw_hot": 511076,
+      "num": 482520,
+      "word": "就差报周翊然身份证了",
+      "onboard_time": 1697952631,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 506754,
@@ -225,14 +257,6 @@
       "onboard_time": 1697949993,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 482520,
-      "num": 482520,
-      "word": "就差报周翊然身份证了",
-      "onboard_time": 1697952631,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 480530,
@@ -323,6 +347,22 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 392116,
+      "num": 392116,
+      "word": "女子网购猫粮发现包装有针孔",
+      "onboard_time": 1697950351,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 385822,
+      "num": 237904,
+      "word": "房东习惯性打招呼救下租客一命",
+      "onboard_time": 1697954852,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 369342,
       "num": 249116,
       "word": "迪丽热巴希腊女神妆",
@@ -379,14 +419,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 332401,
-      "num": 332401,
-      "word": "女子网购猫粮发现包装有针孔",
-      "onboard_time": 1697950351,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 327871,
       "num": 327871,
       "word": "巴勒斯坦问题峰会",
@@ -409,14 +441,6 @@
       "onboard_time": 1697942551,
       "rank": 13,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 314526,
-      "num": 213897,
-      "word": "纽约鼠灾",
-      "onboard_time": 1697951134,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 307819,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 280509,
-      "num": 250396,
+      "num": 260697,
       "word": "90岁老人分手后去前女友家纵火获刑",
       "onboard_time": 1697948552,
       "rank": 37,
@@ -531,6 +555,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 259391,
+      "num": 259391,
+      "word": "黄奕cos奥黛丽赫本",
+      "onboard_time": 1697953112,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 256158,
       "num": 210135,
       "word": "这就是街舞",
@@ -539,20 +571,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 252333,
+      "num": 252333,
+      "word": "苹果CEO库克称超95%产品在中国造",
+      "onboard_time": 1697952037,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 248583,
       "num": 248583,
       "word": "丝巾鱼骨辫",
       "onboard_time": 1697947351,
       "rank": 24,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 245678,
-      "num": 245678,
-      "word": "菲律宾",
-      "onboard_time": 1697951793,
-      "rank": 22,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 244182,
@@ -611,11 +643,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 220777,
+      "num": 220777,
+      "word": "猫咪的烦 肉眼可见",
+      "onboard_time": 1697953231,
+      "rank": 23,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 218873,
       "num": 213834,
       "word": "火星6再不官宣就全员剧透了",
       "onboard_time": 1697941831,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212872,
+      "num": 169242,
+      "word": "张艺兴大连站延迟开票",
+      "onboard_time": 1697954852,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -723,14 +771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191145,
-      "num": 191145,
-      "word": "苹果CEO库克称超95%产品在中国造",
-      "onboard_time": 1697952037,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 190398,
       "num": 190398,
       "word": "众邻居下雨前帮母女抢收玉米",
@@ -745,6 +785,14 @@
       "onboard_time": 1697930722,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188393,
+      "num": 188393,
+      "word": "周也温暖秋日妆",
+      "onboard_time": 1697954791,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 188317,
@@ -769,6 +817,14 @@
       "onboard_time": 1697950654,
       "rank": 30,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 178309,
+      "num": 169168,
+      "word": "华浅 受不了你们这些玛丽苏了",
+      "onboard_time": 1697953532,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 176068,
@@ -1003,12 +1059,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135146,
+      "num": 191087,
+      "word": "本年度最会怼人的网友出现了",
+      "onboard_time": 1697952572,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132487,
       "num": 206350,
       "word": "00后教天猫做双11",
       "onboard_time": 1697943872,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 131170,
+      "num": 131170,
+      "word": "于和伟回应中年得粉",
+      "onboard_time": 1697954010,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 129334,
@@ -1019,12 +1091,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128598,
+      "num": 128598,
+      "word": "巴勒斯坦问题峰会闭幕",
+      "onboard_time": 1697954730,
+      "rank": 35,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 128402,
       "num": 128402,
       "word": "SEVENTEEN比MV更先公开的challenge",
       "onboard_time": 1697936492,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 128012,
+      "num": 128012,
+      "word": "0713的友谊真的会让人羡慕",
+      "onboard_time": 1697954309,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 127409,
@@ -1059,6 +1147,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 118531,
+      "num": 118531,
+      "word": "星际和平公司",
+      "onboard_time": 1697954912,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 117642,
       "num": 117642,
       "word": "丞磊拖弟",
@@ -1067,12 +1163,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116991,
+      "num": 116991,
+      "word": "王者荣耀",
+      "onboard_time": 1697955511,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115115,
       "num": 115115,
       "word": "刘惜君暗夜星河流光裙",
       "onboard_time": 1697946871,
       "rank": 39,
       "category": "综艺,时尚"
+    },
+    {
+      "raw_hot": 115078,
+      "num": 115078,
+      "word": "女警收到124字加长版锦旗",
+      "onboard_time": 1697954791,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 114953,
@@ -1163,6 +1275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108688,
+      "num": 108688,
+      "word": "这大熊猫洗洗还能要吗",
+      "onboard_time": 1697953411,
+      "rank": 42,
+      "category": "社会新闻,动物萌宠"
+    },
+    {
       "raw_hot": 106622,
       "num": 132655,
       "word": "小米14",
@@ -1187,14 +1307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104820,
-      "num": 191087,
-      "word": "本年度最会怼人的网友出现了",
-      "onboard_time": 1697952572,
-      "rank": 41,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104405,
       "num": 71419,
       "word": "显头圆还贼气质的麻花辫盘发",
@@ -1211,12 +1323,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 101670,
+      "num": 101670,
+      "word": "消防员救了只满眼写满乞求的牛犊",
+      "onboard_time": 1697954852,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100697,
       "num": 71151,
       "word": "2000米混接中国队晋级决赛",
       "onboard_time": 1697930001,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99867,
+      "num": 191080,
+      "word": "丁程鑫咩咩咩版九九乘法表",
+      "onboard_time": 1697952811,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 99324,
@@ -1235,20 +1363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98548,
-      "num": 191080,
-      "word": "丁程鑫咩咩咩版九九乘法表",
-      "onboard_time": 1697952811,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97943,
       "num": 97943,
       "word": "刘涛把白玫瑰穿在身上",
       "onboard_time": 1697933008,
       "rank": 45,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 97933,
+      "num": 97933,
+      "word": "御姐风的张婧仪",
+      "onboard_time": 1697955511,
+      "rank": 47,
+      "category": "时尚,艺人"
     },
     {
       "raw_hot": 96829,
