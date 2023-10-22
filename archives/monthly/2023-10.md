@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 16:19:46
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 16:34:23
 </p>
 </blockquote>
 <p>
@@ -2565,6 +2565,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23" target="weibo">
+于文文问微信撤回为什么要留痕迹（热度：1576104）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9A%E6%94%BF%E8%84%9A%E7%AD%8B%E6%96%AD%E4%BA%86%E6%89%8D%E6%83%B3%E8%B5%B7%E6%9D%A5%E5%8A%9E%E7%A4%BE%E4%BF%9D%23" target="weibo">
 姚政脚筋断了才想起来办社保（热度：1575592）
 </a>
@@ -2579,12 +2585,6 @@ Jennie将常驻综艺公寓404（热度：1612589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%BD%E7%BA%A6%E9%BC%A0%E7%81%BE%23" target="weibo">
 纽约鼠灾（热度：1568787）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23" target="weibo">
-于文文问微信撤回为什么要留痕迹（热度：1567733）
 </a>
 </li>
 

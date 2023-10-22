@@ -1,0 +1,410 @@
+{
+  "runTime": 1697963663763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1596779,
+        "num": 1596779,
+        "word": "上四休三工资九折你愿意吗",
+        "onboard_time": 1697956289,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1576104,
+        "num": 1576104,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17070,
+        "num": 850774,
+        "word": "杭州亚残运会观赛指南",
+        "onboard_time": 1697944291,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 525944,
+        "num": 525944,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 521649,
+        "num": 521649,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 4,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 474156,
+        "num": 474156,
+        "word": "以色列再次空袭叙利亚两座机场",
+        "onboard_time": 1697957371,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 467910,
+        "num": 467910,
+        "word": "KFC联名JOJO",
+        "onboard_time": 1697958989,
+        "rank": 6,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 462028,
+        "num": 462028,
+        "word": "金龟子王宁结婚三十多年几乎不吵架",
+        "onboard_time": 1697957791,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 413901,
+        "num": 413901,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 332055,
+        "num": 332055,
+        "word": "独子去世离异父母各分走一半骨灰",
+        "onboard_time": 1697949692,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 799292,
+        "num": 326500,
+        "word": "纽约鼠灾",
+        "onboard_time": 1697951134,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342612,
+        "num": 324553,
+        "word": "迪丽热巴希腊女神妆",
+        "onboard_time": 1697948012,
+        "rank": 11,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 319780,
+        "num": 319780,
+        "word": "河边的错误",
+        "onboard_time": 1697961093,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275960,
+        "num": 275960,
+        "word": "曾舜晞说莲花楼全员都希望再度合作",
+        "onboard_time": 1697958932,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272163,
+        "num": 272163,
+        "word": "王鹤棣晒Hi6大合照",
+        "onboard_time": 1697961213,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261725,
+        "num": 261725,
+        "word": "伴郎接到手捧花瞬间奔向女友",
+        "onboard_time": 1697960909,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231807,
+        "num": 231807,
+        "word": "成毅 老实人勇闯娱乐圈",
+        "onboard_time": 1697953170,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226734,
+        "num": 226734,
+        "word": "海顿格温去世",
+        "onboard_time": 1697956829,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222113,
+        "num": 222113,
+        "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+        "onboard_time": 1697948012,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216004,
+        "num": 216004,
+        "word": "人一旦养了猫",
+        "onboard_time": 1697958030,
+        "rank": 19,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 267038,
+        "num": 212031,
+        "word": "女生被男同学抱摔致门牙断裂",
+        "onboard_time": 1697957489,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 206548,
+        "num": 206548,
+        "word": "felix背部纹身",
+        "onboard_time": 1697960670,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205828,
+        "num": 205828,
+        "word": "男子提供600平闲置地收养流浪狗",
+        "onboard_time": 1697963611,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201651,
+        "num": 201651,
+        "word": "郭麒麟直播喊倪虹洁妈",
+        "onboard_time": 1697963072,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198265,
+        "num": 198265,
+        "word": "猫为咬这一口做了300个假动作",
+        "onboard_time": 1697960789,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 184376,
+        "num": 184376,
+        "word": "房东习惯性打招呼救下租客一命",
+        "onboard_time": 1697954852,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180075,
+        "num": 180075,
+        "word": "T1战胜C9",
+        "onboard_time": 1697960971,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 165600,
+        "num": 165600,
+        "word": "双十一买苹果还是华为",
+        "onboard_time": 1697957430,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 161535,
+        "num": 161535,
+        "word": "秦昊给伊能静挑礼物",
+        "onboard_time": 1697963072,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158684,
+        "num": 158684,
+        "word": "就差报周翊然身份证了",
+        "onboard_time": 1697952631,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 478365,
+        "num": 157880,
+        "word": "被男友用U型锁打死女子亲属发声",
+        "onboard_time": 1697950232,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184667,
+        "num": 157344,
+        "word": "把厕所丑水管改成明目张胆的丑",
+        "onboard_time": 1697963192,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171496,
+        "num": 157155,
+        "word": "以色列内阁投票撤销该国公共外交部",
+        "onboard_time": 1697963420,
+        "rank": 32,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 156729,
+        "num": 156729,
+        "word": "姐妹这是罗一舟本人",
+        "onboard_time": 1697959771,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145158,
+        "num": 145158,
+        "word": "杨丞琳匿名的好友全场大合唱",
+        "onboard_time": 1697962472,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141659,
+        "num": 141659,
+        "word": "河边的错误开分9.2",
+        "onboard_time": 1697949811,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133431,
+        "num": 133431,
+        "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
+        "onboard_time": 1697956410,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 127501,
+        "num": 127501,
+        "word": "河边的错误 谁杀了我我又杀了谁",
+        "onboard_time": 1697962890,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126860,
+        "num": 126860,
+        "word": "女子网购猫粮发现包装有针孔",
+        "onboard_time": 1697950351,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125619,
+        "num": 125619,
+        "word": "宋轶说自信的人更能向下兼容",
+        "onboard_time": 1697959831,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124751,
+        "num": 124751,
+        "word": "白鹿复古名伶妆",
+        "onboard_time": 1697963532,
+        "rank": 40,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 124160,
+        "num": 124160,
+        "word": "欧阳娜娜妹妹给她织的小包包",
+        "onboard_time": 1697958989,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117922,
+        "num": 117922,
+        "word": "黄奕cos奥黛丽赫本",
+        "onboard_time": 1697953112,
+        "rank": 42,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 112210,
+        "num": 112210,
+        "word": "当专业医生看医疗剧问心",
+        "onboard_time": 1697961391,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110381,
+        "num": 110381,
+        "word": "田曦薇王星越合作过",
+        "onboard_time": 1697963489,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109390,
+        "num": 109390,
+        "word": "河边的错误 一千个人一亿个哈姆雷特",
+        "onboard_time": 1697946333,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107233,
+        "num": 107233,
+        "word": "985名校硕士因本科普通被多家企业婉拒",
+        "onboard_time": 1697934390,
+        "rank": 46,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 107209,
+        "num": 107209,
+        "word": "苹果CEO库克称超95%产品在中国造",
+        "onboard_time": 1697952037,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 106108,
+        "num": 106108,
+        "word": "张元英宣美跳Baddie",
+        "onboard_time": 1697960191,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 102291,
+        "num": 102291,
+        "word": "水果奶奶为果农生活加点甜",
+        "onboard_time": 1697963308,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的100个故事#"
+    }
+  }
+}
