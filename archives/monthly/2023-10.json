@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697942210654,
+  "endTime": 1697944687672,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2339,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1840803,
+      "num": 318154,
+      "word": "Lucky八岁了好漂亮",
+      "onboard_time": 1697939491,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1839945,
       "num": 1839945,
       "word": "碧桂园",
@@ -2449,14 +2457,6 @@
       "onboard_time": 1696419274,
       "rank": 10,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 1809186,
-      "num": 318154,
-      "word": "Lucky八岁了好漂亮",
-      "onboard_time": 1697939491,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 1804780,
@@ -2828,7 +2828,7 @@
     },
     {
       "raw_hot": 1723309,
-      "num": 633203,
+      "num": 658320,
       "word": "她怎么突然就美了",
       "onboard_time": 1697937270,
       "rank": 44,
@@ -4121,6 +4121,14 @@
       "onboard_time": 1697358332,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1388098,
+      "num": 536219,
+      "word": "985名校硕士因本科普通被多家企业婉拒",
+      "onboard_time": 1697934390,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1385807,
@@ -5731,14 +5739,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1098864,
-      "num": 536219,
-      "word": "985名校硕士因本科普通被多家企业婉拒",
-      "onboard_time": 1697934390,
-      "rank": 20,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 1098790,
       "num": 1098790,
       "word": "中以混血女孩中国妈妈再发声",
@@ -7073,6 +7073,14 @@
       "onboard_time": 1696841615,
       "rank": 12,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 941972,
+      "num": 941972,
+      "word": "支原体肺炎 鲜竹沥",
+      "onboard_time": 1697942494,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 939774,
@@ -15843,6 +15851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 506754,
+      "num": 449657,
+      "word": "乌尔善 封神是群像戏",
+      "onboard_time": 1697940992,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 506678,
       "num": 506678,
       "word": "高速7车追尾孕妇受伤交警霸气喊话",
@@ -18219,6 +18235,14 @@
       "category": "体育,财经"
     },
     {
+      "raw_hot": 452612,
+      "num": 205733,
+      "word": "所谓鬼压床不是鬼魂在作怪",
+      "onboard_time": 1697939852,
+      "rank": 20,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 452205,
       "num": 425730,
       "word": "男子3年花19万8读了个假博士",
@@ -18345,14 +18369,6 @@
       "onboard_time": 1696159775,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 449657,
-      "num": 449657,
-      "word": "乌尔善 封神是群像戏",
-      "onboard_time": 1697940992,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 449650,
@@ -19161,6 +19177,14 @@
       "onboard_time": 1696496373,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 435224,
+      "num": 435224,
+      "word": "老人进店3次研究毛衣织法没被赶",
+      "onboard_time": 1697939791,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 434920,
@@ -20027,6 +20051,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 415395,
+      "num": 253273,
+      "word": "ENHYPEN疑似被排挤",
+      "onboard_time": 1697943392,
+      "rank": 12,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 415372,
       "num": 415372,
       "word": "丞磊上午被淘汰下午被选上宫尚角",
@@ -20457,14 +20489,6 @@
       "onboard_time": 1696120351,
       "rank": 23,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 406434,
-      "num": 205733,
-      "word": "所谓鬼压床不是鬼魂在作怪",
-      "onboard_time": 1697939852,
-      "rank": 20,
-      "category": "知识科普"
     },
     {
       "raw_hot": 406057,
@@ -21209,6 +21233,14 @@
       "onboard_time": 1697808695,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 391598,
+      "num": 391598,
+      "word": "中国足协负债12亿",
+      "onboard_time": 1697944352,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 391587,
@@ -24955,14 +24987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 334859,
-      "num": 334859,
-      "word": "老人进店3次研究毛衣织法没被赶",
-      "onboard_time": 1697939791,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 334806,
       "num": 334806,
       "word": "陆毅简直把关智斌当儿子宠",
@@ -28043,6 +28067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 294761,
+      "num": 241752,
+      "word": "出国一定要记得贴信用卡",
+      "onboard_time": 1697942551,
+      "rank": 13,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 294737,
       "num": 294737,
       "word": "Mate60系列供应商涨价",
@@ -30587,6 +30619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271420,
+      "num": 271420,
+      "word": "如何快速失去所有朋友",
+      "onboard_time": 1697941471,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 271389,
       "num": 271389,
       "word": "黄嘉仪是来整顿卫明全家的吗",
@@ -32217,6 +32257,14 @@
       "onboard_time": 1697588919,
       "rank": 33,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 257639,
+      "num": 150882,
+      "word": "8元一串的巨大里脊肉串",
+      "onboard_time": 1697942912,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 257632,
@@ -39355,6 +39403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 207235,
+      "num": 207235,
+      "word": "张杰一开嗓从不会让人失望",
+      "onboard_time": 1697941352,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 207229,
       "num": 207229,
       "word": "崔然竣 Smoke Challenge",
@@ -39417,6 +39473,14 @@
       "onboard_time": 1697857289,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207007,
+      "num": 169692,
+      "word": "火星6再不官宣就全员剧透了",
+      "onboard_time": 1697941831,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 206989,
@@ -43017,14 +43081,6 @@
       "onboard_time": 1696821819,
       "rank": 40,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 193484,
-      "num": 193484,
-      "word": "张杰一开嗓从不会让人失望",
-      "onboard_time": 1697941352,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 193471,
@@ -47427,6 +47483,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 172325,
+      "num": 172325,
+      "word": "10岁女孩遇民警吃饭偷偷付钱",
+      "onboard_time": 1697944171,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172254,
       "num": 172254,
       "word": "万渣朝凰女主人设魅力",
@@ -48731,14 +48795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 165020,
-      "num": 165020,
-      "word": "火星6再不官宣就全员剧透了",
-      "onboard_time": 1697941831,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 164981,
       "num": 164981,
       "word": "CCTV6国庆片单",
@@ -49504,6 +49560,14 @@
       "word": "返程行李箱满载快乐与爱",
       "onboard_time": 1696581574,
       "rank": 2,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160712,
+      "num": 160712,
+      "word": "兰博基尼被踩车主称不和解",
+      "onboard_time": 1697943992,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -50545,14 +50609,6 @@
       "onboard_time": 1697467238,
       "rank": 45,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 155322,
-      "num": 155322,
-      "word": "如何快速失去所有朋友",
-      "onboard_time": 1697941471,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 155292,
@@ -55619,6 +55675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 112998,
+      "num": 176992,
+      "word": "00后教天猫做双11",
+      "onboard_time": 1697943872,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112862,
       "num": 112862,
       "word": "崔胜澈预告照",
@@ -55784,6 +55848,14 @@
       "word": "国庆中秋双节同庆",
       "onboard_time": 1696115900,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110262,
+      "num": 110262,
+      "word": "有被学校的每个小细节而感动",
+      "onboard_time": 1697942551,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -56577,6 +56649,14 @@
       "onboard_time": 1697730453,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 96829,
+      "num": 96829,
+      "word": "荒谬上妆手法大尝试",
+      "onboard_time": 1697944530,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 96405,
@@ -58713,6 +58793,14 @@
       "onboard_time": 1697843181,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46038,
+      "num": 685250,
+      "word": "杭州亚残运会观赛指南",
+      "onboard_time": 1697944291,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 45968,

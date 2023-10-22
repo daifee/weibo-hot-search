@@ -1,9 +1,9 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697942210654,
+  "endTime": 1697944687672,
   "band_list": [
     {
-      "raw_hot": 1809186,
+      "raw_hot": 1840803,
       "num": 318154,
       "word": "Lucky八岁了好漂亮",
       "onboard_time": 1697939491,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1723309,
-      "num": 633203,
+      "num": 658320,
       "word": "她怎么突然就美了",
       "onboard_time": 1697937270,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1388098,
+      "num": 536219,
+      "word": "985名校硕士因本科普通被多家企业婉拒",
+      "onboard_time": 1697934390,
+      "rank": 20,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1324642,
@@ -35,14 +43,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1098864,
-      "num": 536219,
-      "word": "985名校硕士因本科普通被多家企业婉拒",
-      "onboard_time": 1697934390,
-      "rank": 20,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 999455,
       "num": 376880,
       "word": "落马女官员花50万美臀",
@@ -57,6 +57,14 @@
       "onboard_time": 1697901875,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 941972,
+      "num": 941972,
+      "word": "支原体肺炎 鲜竹沥",
+      "onboard_time": 1697942494,
+      "rank": 0,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 897101,
@@ -139,6 +147,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 506754,
+      "num": 449657,
+      "word": "乌尔善 封神是群像戏",
+      "onboard_time": 1697940992,
+      "rank": 9,
+      "category": "电影"
+    },
+    {
       "raw_hot": 496626,
       "num": 496626,
       "word": "富士康",
@@ -163,12 +179,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 449657,
-      "num": 449657,
-      "word": "乌尔善 封神是群像戏",
-      "onboard_time": 1697940992,
-      "rank": 9,
-      "category": "电影"
+      "raw_hot": 452612,
+      "num": 205733,
+      "word": "所谓鬼压床不是鬼魂在作怪",
+      "onboard_time": 1697939852,
+      "rank": 20,
+      "category": "知识科普"
     },
     {
       "raw_hot": 442648,
@@ -179,12 +195,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 435224,
+      "num": 435224,
+      "word": "老人进店3次研究毛衣织法没被赶",
+      "onboard_time": 1697939791,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 424228,
       "num": 424228,
       "word": "段艺璇被砸",
       "onboard_time": 1697898580,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 415395,
+      "num": 253273,
+      "word": "ENHYPEN疑似被排挤",
+      "onboard_time": 1697943392,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 410418,
@@ -203,12 +235,12 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 406434,
-      "num": 205733,
-      "word": "所谓鬼压床不是鬼魂在作怪",
-      "onboard_time": 1697939852,
-      "rank": 20,
-      "category": "知识科普"
+      "raw_hot": 391598,
+      "num": 391598,
+      "word": "中国足协负债12亿",
+      "onboard_time": 1697944352,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 366174,
@@ -233,14 +265,6 @@
       "onboard_time": 1697931443,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 334859,
-      "num": 334859,
-      "word": "老人进店3次研究毛衣织法没被赶",
-      "onboard_time": 1697939791,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 334750,
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 294761,
+      "num": 241752,
+      "word": "出国一定要记得贴信用卡",
+      "onboard_time": 1697942551,
+      "rank": 13,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 290553,
       "num": 290553,
       "word": "河边的错误 看完不走",
@@ -339,12 +371,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 271420,
+      "num": 271420,
+      "word": "如何快速失去所有朋友",
+      "onboard_time": 1697941471,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 266480,
       "num": 266480,
       "word": "白鹿郑书意",
       "onboard_time": 1697934630,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257639,
+      "num": 150882,
+      "word": "8元一串的巨大里脊肉串",
+      "onboard_time": 1697942912,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 256158,
@@ -401,6 +449,22 @@
       "onboard_time": 1697939431,
       "rank": 19,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 207235,
+      "num": 207235,
+      "word": "张杰一开嗓从不会让人失望",
+      "onboard_time": 1697941352,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 207007,
+      "num": 169692,
+      "word": "火星6再不官宣就全员剧透了",
+      "onboard_time": 1697941831,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 205452,
@@ -467,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 193484,
-      "num": 193484,
-      "word": "张杰一开嗓从不会让人失望",
-      "onboard_time": 1697941352,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 190398,
       "num": 190398,
       "word": "众邻居下雨前帮母女抢收玉米",
@@ -523,12 +579,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165020,
-      "num": 165020,
-      "word": "火星6再不官宣就全员剧透了",
-      "onboard_time": 1697941831,
-      "rank": 27,
-      "category": "综艺"
+      "raw_hot": 172325,
+      "num": 172325,
+      "word": "10岁女孩遇民警吃饭偷偷付钱",
+      "onboard_time": 1697944171,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 163683,
@@ -545,6 +601,14 @@
       "onboard_time": 1697939191,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 160712,
+      "num": 160712,
+      "word": "兰博基尼被踩车主称不和解",
+      "onboard_time": 1697943992,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158647,
@@ -569,14 +633,6 @@
       "onboard_time": 1697899598,
       "rank": 24,
       "category": "社会新闻,作品衍生"
-    },
-    {
-      "raw_hot": 155322,
-      "num": 155322,
-      "word": "如何快速失去所有朋友",
-      "onboard_time": 1697941471,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 153647,
@@ -763,6 +819,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112998,
+      "num": 176992,
+      "word": "00后教天猫做双11",
+      "onboard_time": 1697943872,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 112521,
       "num": 132617,
       "word": "方筱然害怕到手抖好真实",
@@ -777,6 +841,14 @@
       "onboard_time": 1697938232,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 110262,
+      "num": 110262,
+      "word": "有被学校的每个小细节而感动",
+      "onboard_time": 1697942551,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 110259,
@@ -849,6 +921,14 @@
       "onboard_time": 1697933008,
       "rank": 45,
       "category": "音乐,时尚"
+    },
+    {
+      "raw_hot": 96829,
+      "num": 96829,
+      "word": "荒谬上妆手法大尝试",
+      "onboard_time": 1697944530,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 95450,
@@ -1017,6 +1097,14 @@
       "onboard_time": 1697912180,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 46038,
+      "num": 685250,
+      "word": "杭州亚残运会观赛指南",
+      "onboard_time": 1697944291,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 40104,
