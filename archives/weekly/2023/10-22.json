@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697974446385,
+  "endTime": 1697977814768,
   "band_list": [
     {
       "raw_hot": 2488322,
@@ -17,6 +17,14 @@
       "onboard_time": 1697956289,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1881370,
+      "num": 1881370,
+      "word": "富士康被查",
+      "onboard_time": 1697974232,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1840803,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 1109715,
-      "num": 583883,
+      "num": 641060,
       "word": "WBG掉入瑞士轮生死局",
       "onboard_time": 1697973510,
       "rank": 10,
@@ -299,6 +307,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 583399,
+      "num": 583399,
+      "word": "周也清水妆",
+      "onboard_time": 1697973690,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 583041,
       "num": 583041,
       "word": "中国短道速滑2000米混合接力金牌",
@@ -443,6 +459,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467679,
+      "num": 467679,
+      "word": "钟楚曦张云龙合拍剧宣",
+      "onboard_time": 1697975670,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462844,
       "num": 462844,
       "word": "多地对归国留学生开放定向选调",
@@ -457,6 +481,22 @@
       "onboard_time": 1697939852,
       "rank": 20,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 451935,
+      "num": 332480,
+      "word": "郑容和他超爱北京烤鸭",
+      "onboard_time": 1697974590,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 443436,
+      "num": 325200,
+      "word": "赵露思做了芋儿鸡",
+      "onboard_time": 1697975430,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 443173,
@@ -579,6 +619,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 397193,
+      "num": 183393,
+      "word": "Xiaohu伏地魔",
+      "onboard_time": 1697976813,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 392116,
       "num": 392116,
       "word": "女子网购猫粮发现包装有针孔",
@@ -641,6 +689,14 @@
       "onboard_time": 1697961093,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 343456,
+      "num": 343456,
+      "word": "张晚意 致玱玹",
+      "onboard_time": 1697976511,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 341886,
@@ -867,6 +923,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273319,
+      "num": 273319,
+      "word": "最贵不到30块的平价美妆单品",
+      "onboard_time": 1697974410,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 271420,
       "num": 271420,
       "word": "如何快速失去所有朋友",
@@ -1051,11 +1115,27 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 220319,
+      "num": 220319,
+      "word": "明日方舟 四爷",
+      "onboard_time": 1697968290,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 218873,
       "num": 213834,
       "word": "火星6再不官宣就全员剧透了",
       "onboard_time": 1697941831,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212884,
+      "num": 212884,
+      "word": "周涛 女声解说历史类纪录片先例",
+      "onboard_time": 1697976511,
+      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1089,6 +1169,14 @@
       "onboard_time": 1697939431,
       "rank": 19,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 207611,
+      "num": 207611,
+      "word": "编舞学了五小时就拍MV的爱豆",
+      "onboard_time": 1697976753,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 206912,
@@ -1211,14 +1299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 197003,
-      "num": 197003,
-      "word": "周也清水妆",
-      "onboard_time": 1697973690,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 196385,
       "num": 196385,
       "word": "青岛啤酒风波知情人发声",
@@ -1251,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191164,
+      "num": 191164,
+      "word": "阿尔图罗 上岛",
+      "onboard_time": 1697976992,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 190398,
       "num": 190398,
       "word": "众邻居下雨前帮母女抢收玉米",
@@ -1265,6 +1353,14 @@
       "onboard_time": 1697930722,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "玛恩纳新皮肤",
+      "onboard_time": 1697976634,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 188393,
@@ -1345,6 +1441,14 @@
       "onboard_time": 1697950052,
       "rank": 27,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 175702,
+      "num": 175702,
+      "word": "莲花楼 缠人老笛",
+      "onboard_time": 1697975911,
+      "rank": 31,
+      "category": "作品衍生,动漫"
     },
     {
       "raw_hot": 175237,
@@ -1523,6 +1627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 154155,
+      "num": 154155,
+      "word": "CBA",
+      "onboard_time": 1697975670,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153647,
       "num": 153647,
       "word": "大叔染发一半陪理发师来追星关晓彤",
@@ -1569,6 +1681,14 @@
       "onboard_time": 1697930301,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150437,
+      "num": 150437,
+      "word": "仲溪午上桌了",
+      "onboard_time": 1697977770,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 149958,
@@ -1643,6 +1763,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143215,
+      "num": 143215,
+      "word": "抽签",
+      "onboard_time": 1697974170,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 141670,
+      "num": 141670,
+      "word": "周涛 审美定势是可以被打破的",
+      "onboard_time": 1697974232,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 141176,
       "num": 141176,
       "word": "你最喜欢墨香铜臭哪部作品",
@@ -1689,14 +1825,6 @@
       "onboard_time": 1697900496,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 135981,
-      "num": 135981,
-      "word": "抽签",
-      "onboard_time": 1697974170,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 135977,
@@ -1753,6 +1881,14 @@
       "onboard_time": 1697954010,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 131127,
+      "num": 131127,
+      "word": "我们的歌",
+      "onboard_time": 1697975490,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 129334,
@@ -1883,28 +2019,12 @@
       "category": "艺人,游戏"
     },
     {
-      "raw_hot": 114893,
-      "num": 114893,
-      "word": "明日方舟 四爷",
-      "onboard_time": 1697968290,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114764,
       "num": 114764,
       "word": "极简生活让我一年存了十多万",
       "onboard_time": 1697929280,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114759,
-      "num": 114759,
-      "word": "周涛 审美定势是可以被打破的",
-      "onboard_time": 1697974232,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 114576,
@@ -1916,7 +2036,7 @@
     },
     {
       "raw_hot": 114056,
-      "num": 94996,
+      "num": 108229,
       "word": "泰国VOGUE报道迪丽热巴",
       "onboard_time": 1697973811,
       "rank": 45,
@@ -1955,14 +2075,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 111104,
-      "num": 111104,
-      "word": "富士康被查",
-      "onboard_time": 1697974232,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 110477,
       "num": 191096,
       "word": "大学生该省省该花花",
@@ -1984,6 +2096,14 @@
       "word": "北京WB",
       "onboard_time": 1697905053,
       "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 110058,
+      "num": 110058,
+      "word": "XHW逆风翻盘",
+      "onboard_time": 1697977770,
+      "rank": 45,
       "category": "电竞"
     },
     {
@@ -2193,14 +2313,6 @@
       "onboard_time": 1697968172,
       "rank": 35,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 91583,
-      "num": 91583,
-      "word": "最贵不到30块的平价美妆单品",
-      "onboard_time": 1697974410,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 91425,

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697974446385,
+  "endTime": 1697977814768,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2201,6 +2201,14 @@
       "onboard_time": 1696932213,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1881370,
+      "num": 1881370,
+      "word": "富士康被查",
+      "onboard_time": 1697974232,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1880400,
@@ -5732,7 +5740,7 @@
     },
     {
       "raw_hot": 1109715,
-      "num": 583883,
+      "num": 641060,
       "word": "WBG掉入瑞士轮生死局",
       "onboard_time": 1697973510,
       "rank": 10,
@@ -13555,6 +13563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 583399,
+      "num": 583399,
+      "word": "周也清水妆",
+      "onboard_time": 1697973690,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 583041,
       "num": 583041,
       "word": "中国短道速滑2000米混合接力金牌",
@@ -17819,6 +17835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 467679,
+      "num": 467679,
+      "word": "钟楚曦张云龙合拍剧宣",
+      "onboard_time": 1697975670,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 467393,
       "num": 400184,
       "word": "王鹤润演甜妹",
@@ -18523,6 +18547,14 @@
       "category": "教育,社会新闻"
     },
     {
+      "raw_hot": 451935,
+      "num": 332480,
+      "word": "郑容和他超爱北京烤鸭",
+      "onboard_time": 1697974590,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 451882,
       "num": 451882,
       "word": "小伙租123平房子花4万改造成理想的家",
@@ -19057,6 +19089,14 @@
       "onboard_time": 1696586677,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 443436,
+      "num": 325200,
+      "word": "赵露思做了芋儿鸡",
+      "onboard_time": 1697975430,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 443409,
@@ -21249,6 +21289,14 @@
       "onboard_time": 1696220971,
       "rank": 25,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 397193,
+      "num": 183393,
+      "word": "Xiaohu伏地魔",
+      "onboard_time": 1697976813,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 396735,
@@ -24705,6 +24753,14 @@
       "onboard_time": 1696384296,
       "rank": 26,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 343456,
+      "num": 343456,
+      "word": "张晚意 致玱玹",
+      "onboard_time": 1697976511,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 343389,
@@ -30849,6 +30905,14 @@
       "onboard_time": 1697018915,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273319,
+      "num": 273319,
+      "word": "最贵不到30块的平价美妆单品",
+      "onboard_time": 1697974410,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 273302,
@@ -37979,6 +38043,14 @@
       "category": "社会正能量"
     },
     {
+      "raw_hot": 220319,
+      "num": 220319,
+      "word": "明日方舟 四爷",
+      "onboard_time": 1697968290,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 220201,
       "num": 220201,
       "word": "曾舜晞掉小珍珠了",
@@ -39019,6 +39091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 212884,
+      "num": 212884,
+      "word": "周涛 女声解说历史类纪录片先例",
+      "onboard_time": 1697976511,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 212760,
       "num": 212760,
       "word": "加沙地带危在旦夕",
@@ -39945,6 +40025,14 @@
       "onboard_time": 1697893055,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207611,
+      "num": 207611,
+      "word": "编舞学了五小时就拍MV的爱豆",
+      "onboard_time": 1697976753,
+      "rank": 27,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207546,
@@ -42819,14 +42907,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197003,
-      "num": 197003,
-      "word": "周也清水妆",
-      "onboard_time": 1697973690,
-      "rank": 25,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 196983,
       "num": 349471,
       "word": "用淘宝AI办了场不花钱的婚礼",
@@ -44379,6 +44459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191164,
+      "num": 191164,
+      "word": "阿尔图罗 上岛",
+      "onboard_time": 1697976992,
+      "rank": 28,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191077,
       "num": 191077,
       "word": "这是疫情后的第一个国庆",
@@ -44913,6 +45001,14 @@
       "onboard_time": 1697516618,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189117,
+      "num": 189117,
+      "word": "玛恩纳新皮肤",
+      "onboard_time": 1697976634,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 189069,
@@ -47625,6 +47721,14 @@
       "onboard_time": 1696154011,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175702,
+      "num": 175702,
+      "word": "莲花楼 缠人老笛",
+      "onboard_time": 1697975911,
+      "rank": 31,
+      "category": "作品衍生,动漫"
     },
     {
       "raw_hot": 175690,
@@ -51643,6 +51747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154155,
+      "num": 154155,
+      "word": "CBA",
+      "onboard_time": 1697975670,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154014,
       "num": 154014,
       "word": "王鹤润明制大红古装造型",
@@ -52153,6 +52265,14 @@
       "onboard_time": 1697382760,
       "rank": 42,
       "category": "旅游,社会新闻"
+    },
+    {
+      "raw_hot": 150437,
+      "num": 150437,
+      "word": "仲溪午上桌了",
+      "onboard_time": 1697977770,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 150429,
@@ -53307,6 +53427,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 143215,
+      "num": 143215,
+      "word": "抽签",
+      "onboard_time": 1697974170,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 143202,
       "num": 143202,
       "word": "现在的厕所名有多文雅",
@@ -53553,6 +53681,14 @@
       "onboard_time": 1697782355,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141670,
+      "num": 141670,
+      "word": "周涛 审美定势是可以被打破的",
+      "onboard_time": 1697974232,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 141567,
@@ -54273,14 +54409,6 @@
       "onboard_time": 1697707775,
       "rank": 39,
       "category": "数码"
-    },
-    {
-      "raw_hot": 135981,
-      "num": 135981,
-      "word": "抽签",
-      "onboard_time": 1697974170,
-      "rank": 33,
-      "category": "电竞"
     },
     {
       "raw_hot": 135957,
@@ -56523,14 +56651,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 114893,
-      "num": 114893,
-      "word": "明日方舟 四爷",
-      "onboard_time": 1697968290,
-      "rank": 40,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 114870,
       "num": 114870,
       "word": "民警百米冲刺劝阻与骗子抢钱",
@@ -56561,14 +56681,6 @@
       "onboard_time": 1697929280,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114759,
-      "num": 114759,
-      "word": "周涛 审美定势是可以被打破的",
-      "onboard_time": 1697974232,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 114735,
@@ -56636,7 +56748,7 @@
     },
     {
       "raw_hot": 114056,
-      "num": 94996,
+      "num": 108229,
       "word": "泰国VOGUE报道迪丽热巴",
       "onboard_time": 1697973811,
       "rank": 45,
@@ -56875,14 +56987,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 111104,
-      "num": 111104,
-      "word": "富士康被查",
-      "onboard_time": 1697974232,
-      "rank": 42,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 110982,
       "num": 110982,
       "word": "沙溢说出个差和白敬亭平辈了",
@@ -56937,6 +57041,14 @@
       "onboard_time": 1697878472,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 110058,
+      "num": 110058,
+      "word": "XHW逆风翻盘",
+      "onboard_time": 1697977770,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 110014,
@@ -58017,14 +58129,6 @@
       "onboard_time": 1697891131,
       "rank": 48,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 91583,
-      "num": 91583,
-      "word": "最贵不到30块的平价美妆单品",
-      "onboard_time": 1697974410,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 91459,
