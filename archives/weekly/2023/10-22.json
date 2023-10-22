@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697951755448,
+  "endTime": 1697952849694,
   "band_list": [
     {
       "raw_hot": 1840803,
@@ -11,8 +11,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 1785982,
-      "num": 1785982,
+      "raw_hot": 1799925,
+      "num": 1799925,
       "word": "儿子溺亡16年后爸爸跳河救人牺牲",
       "onboard_time": 1697948012,
       "rank": 17,
@@ -67,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1038009,
+      "num": 1038009,
+      "word": "被男友用U型锁打死女子亲属发声",
+      "onboard_time": 1697950232,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 999455,
       "num": 376880,
       "word": "落马女官员花50万美臀",
@@ -115,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 766943,
-      "num": 766943,
-      "word": "被男友用U型锁打死女子亲属发声",
-      "onboard_time": 1697950232,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 764371,
       "num": 764371,
       "word": "张碧晨 撕裂",
@@ -139,12 +139,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 615727,
-      "num": 615727,
+      "raw_hot": 708751,
+      "num": 708751,
+      "word": "独子去世离异父母各分走一半骨灰",
+      "onboard_time": 1697949692,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 682257,
+      "num": 682257,
       "word": "爷爷奶奶有一千多万还在当保洁",
       "onboard_time": 1697935050,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 626075,
+      "num": 626075,
+      "word": "菲船恶意碰瓷",
+      "onboard_time": 1697951431,
+      "rank": 18,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 583041,
@@ -169,6 +185,14 @@
       "onboard_time": 1697899417,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 561443,
+      "num": 561443,
+      "word": "中国海警披露依法拦阻菲船只详情",
+      "onboard_time": 1697951252,
+      "rank": 13,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 533054,
@@ -201,6 +225,14 @@
       "onboard_time": 1697949993,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 482520,
+      "num": 482520,
+      "word": "就差报周翊然身份证了",
+      "onboard_time": 1697952631,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 480530,
@@ -257,14 +289,6 @@
       "onboard_time": 1697946333,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 427862,
-      "num": 427862,
-      "word": "独子去世离异父母各分走一半骨灰",
-      "onboard_time": 1697949692,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 424228,
@@ -339,6 +363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 336622,
+      "num": 336622,
+      "word": "刘慈欣要魔改三体",
+      "onboard_time": 1697950890,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 334750,
       "num": 334750,
       "word": "第一次参加新疆小男生的割礼宴",
@@ -347,28 +379,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 332401,
+      "num": 332401,
+      "word": "女子网购猫粮发现包装有针孔",
+      "onboard_time": 1697950351,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 327871,
       "num": 327871,
       "word": "巴勒斯坦问题峰会",
       "onboard_time": 1697935949,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 325613,
-      "num": 325613,
-      "word": "中国海警披露依法拦阻菲船只详情",
-      "onboard_time": 1697951252,
-      "rank": 13,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 318218,
-      "num": 318218,
-      "word": "刘慈欣要魔改三体",
-      "onboard_time": 1697950890,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 318046,
@@ -385,6 +409,22 @@
       "onboard_time": 1697942551,
       "rank": 13,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 314526,
+      "num": 213897,
+      "word": "纽约鼠灾",
+      "onboard_time": 1697951134,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 307819,
+      "num": 307819,
+      "word": "河边的错误开分9.2",
+      "onboard_time": 1697949811,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 305262,
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 280509,
-      "num": 247813,
+      "num": 250396,
       "word": "90岁老人分手后去前女友家纵火获刑",
       "onboard_time": 1697948552,
       "rank": 37,
@@ -457,14 +497,6 @@
       "onboard_time": 1697903855,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276092,
-      "num": 276092,
-      "word": "河边的错误开分9.2",
-      "onboard_time": 1697949811,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 273547,
@@ -499,14 +531,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 258831,
-      "num": 258831,
-      "word": "菲船恶意碰瓷",
-      "onboard_time": 1697951431,
-      "rank": 18,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 256158,
       "num": 210135,
       "word": "这就是街舞",
@@ -515,20 +539,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 251237,
-      "num": 251237,
-      "word": "女子网购猫粮发现包装有针孔",
-      "onboard_time": 1697950351,
-      "rank": 19,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 248583,
       "num": 248583,
       "word": "丝巾鱼骨辫",
       "onboard_time": 1697947351,
       "rank": 24,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 245678,
+      "num": 245678,
+      "word": "菲律宾",
+      "onboard_time": 1697951793,
+      "rank": 22,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 244182,
@@ -568,6 +592,14 @@
       "word": "甄姬西施至美风华系列皮肤",
       "onboard_time": 1697947592,
       "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 231790,
+      "num": 231790,
+      "word": "齐司礼",
+      "onboard_time": 1697951793,
+      "rank": 23,
       "category": "游戏"
     },
     {
@@ -691,6 +723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 191145,
+      "num": 191145,
+      "word": "苹果CEO库克称超95%产品在中国造",
+      "onboard_time": 1697952037,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 190398,
       "num": 190398,
       "word": "众邻居下雨前帮母女抢收玉米",
@@ -721,6 +761,14 @@
       "onboard_time": 1697894618,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180745,
+      "num": 213903,
+      "word": "那些被讹传后用来贬低女性的古语",
+      "onboard_time": 1697950654,
+      "rank": 30,
+      "category": "知识科普"
     },
     {
       "raw_hot": 176068,
@@ -763,14 +811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 170939,
-      "num": 213903,
-      "word": "那些被讹传后用来贬低女性的古语",
-      "onboard_time": 1697950654,
-      "rank": 30,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 164300,
       "num": 213910,
       "word": "光与夜之恋",
@@ -793,14 +833,6 @@
       "onboard_time": 1697939191,
       "rank": 34,
       "category": "情感"
-    },
-    {
-      "raw_hot": 161287,
-      "num": 213897,
-      "word": "纽约鼠灾",
-      "onboard_time": 1697951134,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 158647,
@@ -905,6 +937,14 @@
       "onboard_time": 1697939733,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144471,
+      "num": 213862,
+      "word": "樊振东的十年记录",
+      "onboard_time": 1697951371,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 143535,
@@ -1027,14 +1067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117187,
-      "num": 213862,
-      "word": "樊振东的十年记录",
-      "onboard_time": 1697951371,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115115,
       "num": 115115,
       "word": "刘惜君暗夜星河流光裙",
@@ -1099,6 +1131,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110477,
+      "num": 191096,
+      "word": "大学生该省省该花花",
+      "onboard_time": 1697952273,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110262,
       "num": 110262,
       "word": "有被学校的每个小细节而感动",
@@ -1147,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104820,
+      "num": 191087,
+      "word": "本年度最会怼人的网友出现了",
+      "onboard_time": 1697952572,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104405,
       "num": 71419,
       "word": "显头圆还贼气质的麻花辫盘发",
@@ -1185,6 +1233,14 @@
       "onboard_time": 1697908345,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98548,
+      "num": 191080,
+      "word": "丁程鑫咩咩咩版九九乘法表",
+      "onboard_time": 1697952811,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 97943,
@@ -1241,6 +1297,14 @@
       "onboard_time": 1697906368,
       "rank": 35,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 84853,
+      "num": 191058,
+      "word": "西湖十景将登上亚残运会开幕式舞台",
+      "onboard_time": 1697949453,
+      "rank": 49,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 84763,
