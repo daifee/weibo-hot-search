@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698016581785,
+  "endTime": 1698017642954,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -16,6 +16,14 @@
       "word": "男子性侵13岁女孩聊天称老婆要从小培养",
       "onboard_time": 1697988874,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2132092,
+      "num": 2132092,
+      "word": "广东汕头发生5.0级地震",
+      "onboard_time": 1698015922,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -35,19 +43,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1176712,
-      "num": 1176712,
-      "word": "广东汕头发生5.0级地震",
-      "onboard_time": 1698015922,
-      "rank": 0,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 850795,
       "num": 316558,
       "word": "女子带婴儿被3条流浪狗围攻咬伤",
       "onboard_time": 1697986357,
       "rank": 11,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 809828,
+      "num": 809828,
+      "word": "福建震感",
+      "onboard_time": 1698016283,
+      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -59,12 +67,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 711335,
-      "num": 711335,
-      "word": "福建震感",
-      "onboard_time": 1698016283,
-      "rank": 1,
+      "raw_hot": 474997,
+      "num": 474997,
+      "word": "可可西里野狼被游客投喂胖成网红",
+      "onboard_time": 1697984554,
+      "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 459094,
+      "num": 459094,
+      "word": "郭麒麟说我有点儿可怜我爸",
+      "onboard_time": 1697987497,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 444949,
@@ -83,16 +99,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 427656,
-      "num": 427656,
-      "word": "可可西里野狼被游客投喂胖成网红",
-      "onboard_time": 1697984554,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 397106,
-      "num": 397106,
+      "raw_hot": 400550,
+      "num": 400550,
       "word": "女子突发腹痛公交司机停车救人",
       "onboard_time": 1697990970,
       "rank": 44,
@@ -115,14 +123,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 345425,
-      "num": 345425,
-      "word": "郭麒麟说我有点儿可怜我爸",
-      "onboard_time": 1697987497,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 337059,
       "num": 337059,
       "word": "曾舜晞录综艺带了10套衣服",
@@ -137,6 +137,14 @@
       "onboard_time": 1697985938,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 305534,
+      "num": 305534,
+      "word": "初中生拉开同学座椅致其后仰摔成重伤",
+      "onboard_time": 1697985214,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 300263,
@@ -155,11 +163,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 285272,
-      "num": 285272,
-      "word": "初中生拉开同学座椅致其后仰摔成重伤",
-      "onboard_time": 1697985214,
-      "rank": 18,
+      "raw_hot": 286456,
+      "num": 157182,
+      "word": "女子咳嗽咳痰一周问题竟出在心脏",
+      "onboard_time": 1698005474,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -179,11 +187,27 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 225620,
-      "num": 125193,
-      "word": "女子咳嗽咳痰一周问题竟出在心脏",
-      "onboard_time": 1698005474,
-      "rank": 45,
+      "raw_hot": 257957,
+      "num": 257957,
+      "word": "今日重阳",
+      "onboard_time": 1698016587,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 257587,
+      "num": 155925,
+      "word": "出门就是海的大学到底谁在读啊",
+      "onboard_time": 1698015683,
+      "rank": 22,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 246888,
+      "num": 246888,
+      "word": "漳州震感",
+      "onboard_time": 1698016587,
+      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -193,6 +217,14 @@
       "onboard_time": 1697990672,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 219853,
+      "num": 219853,
+      "word": "他放弃二级建造师回乡种粮带村民致富",
+      "onboard_time": 1698017368,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 216790,
@@ -219,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 187626,
+      "num": 187626,
+      "word": "学校里的小狗 随地大小睡",
+      "onboard_time": 1697993246,
+      "rank": 26,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 185989,
       "num": 159525,
       "word": "揭阳震感",
@@ -235,14 +275,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 182684,
-      "num": 182684,
-      "word": "学校里的小狗 随地大小睡",
-      "onboard_time": 1697993246,
-      "rank": 26,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 181129,
       "num": 181129,
       "word": "12306回应火车卧铺上疑有排泄物",
@@ -251,12 +283,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 177129,
-      "num": 123616,
-      "word": "出门就是海的大学到底谁在读啊",
-      "onboard_time": 1698015683,
-      "rank": 22,
-      "category": "情感"
+      "raw_hot": 180022,
+      "num": 180022,
+      "word": "厦门震感",
+      "onboard_time": 1698016043,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172346,
@@ -283,6 +315,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162198,
+      "num": 162198,
+      "word": "泉州震感",
+      "onboard_time": 1698016526,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 154778,
+      "num": 154778,
+      "word": "新婚夫妻度蜜月飞机窗上贴喜字留念",
+      "onboard_time": 1697981791,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 154043,
       "num": 154043,
       "word": "白敬亭工作室发了11张照片",
@@ -305,14 +353,6 @@
       "onboard_time": 1697985335,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148456,
-      "num": 148456,
-      "word": "厦门震感",
-      "onboard_time": 1698016043,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 146984,
@@ -345,14 +385,6 @@
       "onboard_time": 1697990011,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 134602,
-      "num": 122266,
-      "word": "新婚夫妻度蜜月飞机窗上贴喜字留念",
-      "onboard_time": 1697981791,
-      "rank": 45,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 121791,
@@ -427,6 +459,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 96284,
+      "num": 96284,
+      "word": "aespa预告",
+      "onboard_time": 1698017307,
+      "rank": 34,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 86831,
+      "num": 86831,
+      "word": "倪虹洁告诫女生冷战长结节",
+      "onboard_time": 1697986059,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 85617,
+      "num": 85617,
+      "word": "我国计划实施近地小行星防御任务",
+      "onboard_time": 1697993305,
+      "rank": 32,
+      "category": "科技"
+    },
+    {
       "raw_hot": 84697,
       "num": 105289,
       "word": "数码宝贝cos被选召的孩子",
@@ -443,28 +499,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 80575,
-      "num": 80575,
-      "word": "倪虹洁告诫女生冷战长结节",
-      "onboard_time": 1697986059,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 78539,
       "num": 105275,
       "word": "吃火锅有哪些保护肠胃的小技巧",
       "onboard_time": 1697990252,
       "rank": 48,
       "category": "美食,健康医疗"
-    },
-    {
-      "raw_hot": 78484,
-      "num": 78484,
-      "word": "我国计划实施近地小行星防御任务",
-      "onboard_time": 1697993305,
-      "rank": 32,
-      "category": "科技"
     },
     {
       "raw_hot": 74537,
@@ -475,20 +515,36 @@
       "category": "情感"
     },
     {
-      "raw_hot": 64547,
-      "num": 64547,
+      "raw_hot": 73140,
+      "num": 73140,
       "word": "把鉴宝专家给整不会了",
       "onboard_time": 1697997317,
       "rank": 31,
       "category": "幽默"
     },
     {
-      "raw_hot": 63103,
-      "num": 63103,
-      "word": "泉州震感",
-      "onboard_time": 1698016526,
-      "rank": 39,
-      "category": "社会新闻"
+      "raw_hot": 65096,
+      "num": 65096,
+      "word": "逐梦杭州亚残运会",
+      "onboard_time": 1698017007,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64899,
+      "num": 64899,
+      "word": "于和伟还原吹蜡烛名场面",
+      "onboard_time": 1698005653,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 62784,
+      "num": 753246,
+      "word": "亚残运会开幕",
+      "onboard_time": 1697982154,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 61659,
@@ -499,6 +555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 57964,
+      "num": 57964,
+      "word": "汤姆布雷迪伊莲娜分手",
+      "onboard_time": 1698003734,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57527,
       "num": 57527,
       "word": "再见乐队的夏天",
@@ -507,35 +571,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 54558,
-      "num": 54558,
-      "word": "汤姆布雷迪伊莲娜分手",
-      "onboard_time": 1698003734,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 50832,
       "num": 50832,
       "word": "张宁哭了",
       "onboard_time": 1697997678,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 50524,
-      "num": 50524,
-      "word": "于和伟还原吹蜡烛名场面",
-      "onboard_time": 1698005653,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 49632,
-      "num": 612535,
-      "word": "亚残运会开幕",
-      "onboard_time": 1697982154,
-      "rank": 2,
       "category": "体育"
     },
     {

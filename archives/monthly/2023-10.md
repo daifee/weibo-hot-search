@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 07:16:21
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 07:34:02
 </p>
 </blockquote>
 <p>
@@ -1181,6 +1181,12 @@ K435列车命案嫌犯被鉴定为精神病人（热度：2240734）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%9C%A8%E5%B7%B4%E4%BB%A5%E5%86%B2%E7%AA%81%E4%B8%AD%E9%81%87%E9%9A%BE%23" target="weibo">
 三名中国公民在巴以冲突中遇难（热度：2136098）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+广东汕头发生5.0级地震（热度：2132092）
 </a>
 </li>
 
@@ -4037,12 +4043,6 @@ S13瑞士轮第二轮抽签（热度：1188859）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%83%B3%E7%BB%93%E5%A9%9A%E5%81%B7%E4%B8%8B%E5%A0%95%E8%83%8E%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%8F%8B%E6%B5%81%E4%BA%A7%23" target="weibo">
 男子不想结婚偷下堕胎药致女友流产（热度：1177729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E6%B1%95%E5%A4%B4%E5%8F%91%E7%94%9F5.0%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
-广东汕头发生5.0级地震（热度：1176712）
 </a>
 </li>
 
