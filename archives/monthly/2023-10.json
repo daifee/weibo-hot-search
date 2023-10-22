@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697988834062,
+  "endTime": 1697991620530,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -329,6 +329,14 @@
       "onboard_time": 1696903831,
       "rank": 1,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 3683350,
+      "num": 320401,
+      "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+      "onboard_time": 1697988874,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 3658428,
@@ -4953,6 +4961,14 @@
       "onboard_time": 1696488754,
       "rank": 15,
       "category": "幽默,互联网"
+    },
+    {
+      "raw_hot": 1250115,
+      "num": 212293,
+      "word": "吴楚一跳的是这种钢管舞吗",
+      "onboard_time": 1697988874,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1246600,
@@ -11809,6 +11825,14 @@
       "onboard_time": 1697268270,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 652295,
+      "num": 652295,
+      "word": "甘肃酒泉4.7级地震",
+      "onboard_time": 1697989171,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 652151,
@@ -25299,6 +25323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 339634,
+      "num": 339634,
+      "word": "薛之谦扔戒指",
+      "onboard_time": 1697989831,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 339536,
       "num": 339536,
       "word": "杨幂高跟鞋不合脚",
@@ -28505,6 +28537,14 @@
       "onboard_time": 1696811676,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 298907,
+      "num": 298907,
+      "word": "24考研英语石雷鹏功能句",
+      "onboard_time": 1697988634,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 298787,
@@ -49203,6 +49243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 169827,
+      "num": 169827,
+      "word": "繁城之下结局",
+      "onboard_time": 1697990252,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169826,
       "num": 169826,
       "word": "消防队员在地上爬行用身体当担架",
@@ -49515,6 +49563,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 168127,
+      "num": 168127,
+      "word": "崔秀彬不是这真的TooMuch了",
+      "onboard_time": 1697990672,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168065,
       "num": 168065,
       "word": "谁教你这样晒结婚证的",
@@ -49705,6 +49761,14 @@
       "onboard_time": 1696400974,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167024,
+      "num": 167024,
+      "word": "aespa 迷你4辑",
+      "onboard_time": 1697991150,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 166978,
@@ -49945,6 +50009,14 @@
       "onboard_time": 1697810915,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165860,
+      "num": 165860,
+      "word": "苏醒刚圆梦就要醒了",
+      "onboard_time": 1697989054,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 165696,
@@ -54155,14 +54227,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 141404,
-      "num": 141404,
-      "word": "24考研英语石雷鹏功能句",
-      "onboard_time": 1697988634,
-      "rank": 39,
-      "category": "教育"
-    },
-    {
       "raw_hot": 141322,
       "num": 141322,
       "word": "大车加油时着火员工这套动作太赞",
@@ -54409,6 +54473,14 @@
       "onboard_time": 1697028455,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 139320,
+      "num": 139320,
+      "word": "为有暗香来好超前的剧宣",
+      "onboard_time": 1697989054,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 139289,
@@ -54825,6 +54897,14 @@
       "onboard_time": 1696381776,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136175,
+      "num": 136175,
+      "word": "夫硕顺音乐之神先公开",
+      "onboard_time": 1697990011,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 136162,
@@ -56136,6 +56216,14 @@
       "word": "你想在长相思演唱会上听到哪首歌",
       "onboard_time": 1697103575,
       "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126494,
+      "num": 126494,
+      "word": "华浅仲夜阑彻底be了",
+      "onboard_time": 1697990430,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -58195,6 +58283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99915,
+      "num": 116895,
+      "word": "女儿偷偷回家给爸爸送生日惊喜",
+      "onboard_time": 1697990314,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 99887,
       "num": 140954,
       "word": "踏上祖国军舰拿着中国护照有种归属感",
@@ -58811,6 +58907,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 88447,
+      "num": 105297,
+      "word": "女子突发腹痛公交司机停车救人",
+      "onboard_time": 1697990970,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 88182,
       "num": 88182,
       "word": "没想到大树竟然也分雌雄",
@@ -59233,6 +59337,14 @@
       "onboard_time": 1697622036,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 78539,
+      "num": 105275,
+      "word": "吃火锅有哪些保护肠胃的小技巧",
+      "onboard_time": 1697990252,
+      "rank": 48,
+      "category": "美食,健康医疗"
     },
     {
       "raw_hot": 78337,
