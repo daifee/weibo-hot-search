@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697996036147,
+  "endTime": 1697998829354,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -46899,6 +46899,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182684,
+      "num": 182684,
+      "word": "学校里的小狗 随地大小睡",
+      "onboard_time": 1697993246,
+      "rank": 26,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 182638,
       "num": 182638,
       "word": "田嘉瑞学院风穿搭",
@@ -57603,14 +57611,6 @@
       "category": "社会新闻,美食"
     },
     {
-      "raw_hot": 110785,
-      "num": 96793,
-      "word": "学校里的小狗 随地大小睡",
-      "onboard_time": 1697993246,
-      "rank": 26,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 110775,
       "num": 110775,
       "word": "国庆中秋双节同庆",
@@ -61123,6 +61123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 36844,
+      "num": 36844,
+      "word": "张宁哭了",
+      "onboard_time": 1697997678,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36831,
       "num": 450305,
       "word": "看见中国力量",
@@ -61137,6 +61145,14 @@
       "onboard_time": 1697049073,
       "rank": 41,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 36632,
+      "num": 36632,
+      "word": "把鉴宝专家给整不会了",
+      "onboard_time": 1697997317,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 36628,
@@ -61321,6 +61337,14 @@
       "onboard_time": 1696271598,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 32103,
+      "num": 32103,
+      "word": "力丸说朝阳打歌中心都是好人",
+      "onboard_time": 1697992705,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 32065,
@@ -61865,6 +61889,14 @@
       "onboard_time": 1696036654,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18745,
+      "num": 181492,
+      "word": "亚残运会开幕",
+      "onboard_time": 1697982154,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 18130,
