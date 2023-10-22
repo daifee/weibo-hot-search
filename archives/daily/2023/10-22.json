@@ -1,7 +1,23 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697938642327,
+  "endTime": 1697941555861,
   "band_list": [
+    {
+      "raw_hot": 1735804,
+      "num": 318154,
+      "word": "Lucky八岁了好漂亮",
+      "onboard_time": 1697939491,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 1723309,
+      "num": 633203,
+      "word": "她怎么突然就美了",
+      "onboard_time": 1697937270,
+      "rank": 44,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1324642,
       "num": 1324642,
@@ -19,6 +35,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1036196,
+      "num": 523110,
+      "word": "985名校硕士因本科普通被多家企业婉拒",
+      "onboard_time": 1697934390,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 999455,
       "num": 376880,
       "word": "落马女官员花50万美臀",
@@ -33,14 +57,6 @@
       "onboard_time": 1697901875,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 938657,
-      "num": 633203,
-      "word": "她怎么突然就美了",
-      "onboard_time": 1697937270,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 897101,
@@ -83,12 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 687181,
-      "num": 213809,
-      "word": "985名校硕士因本科普通被多家企业婉拒",
-      "onboard_time": 1697934390,
-      "rank": 20,
-      "category": "社会新闻,教育"
+      "raw_hot": 615727,
+      "num": 615727,
+      "word": "爷爷奶奶有一千多万还在当保洁",
+      "onboard_time": 1697935050,
+      "rank": 9,
+      "category": "情感"
     },
     {
       "raw_hot": 583041,
@@ -107,14 +123,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 579271,
-      "num": 579271,
-      "word": "爷爷奶奶有一千多万还在当保洁",
-      "onboard_time": 1697935050,
-      "rank": 9,
-      "category": "情感"
-    },
-    {
       "raw_hot": 578528,
       "num": 578528,
       "word": "倪妮河南分妮最近火了",
@@ -131,12 +139,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 496626,
+      "num": 496626,
+      "word": "富士康",
+      "onboard_time": 1697938107,
+      "rank": 25,
+      "category": "财经"
+    },
+    {
       "raw_hot": 462844,
       "num": 462844,
       "word": "多地对归国留学生开放定向选调",
       "onboard_time": 1697900676,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 459120,
+      "num": 309148,
+      "word": "男子小区遛狗发现草坪被投放毒火腿",
+      "onboard_time": 1697938351,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 442648,
@@ -195,12 +219,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341110,
+      "num": 205733,
+      "word": "所谓鬼压床不是鬼魂在作怪",
+      "onboard_time": 1697939852,
+      "rank": 20,
+      "category": "知识科普"
+    },
+    {
+      "raw_hot": 334750,
+      "num": 334750,
+      "word": "第一次参加新疆小男生的割礼宴",
+      "onboard_time": 1697933670,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 327871,
       "num": 327871,
       "word": "巴勒斯坦问题峰会",
       "onboard_time": 1697935949,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 318708,
+      "num": 318708,
+      "word": "乌尔善 封神是群像戏",
+      "onboard_time": 1697940992,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 318046,
@@ -225,6 +273,14 @@
       "onboard_time": 1697934028,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 297741,
+      "num": 209542,
+      "word": "佛山电翰",
+      "onboard_time": 1697938232,
+      "rank": 23,
+      "category": "网红"
     },
     {
       "raw_hot": 296913,
@@ -283,12 +339,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 260063,
-      "num": 260063,
-      "word": "第一次参加新疆小男生的割礼宴",
-      "onboard_time": 1697933670,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 261386,
+      "num": 261386,
+      "word": "老人进店3次研究毛衣织法没被赶",
+      "onboard_time": 1697939791,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 256158,
@@ -339,20 +395,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 209542,
-      "num": 209542,
-      "word": "佛山电翰",
-      "onboard_time": 1697938232,
-      "rank": 23,
-      "category": "网红"
+      "raw_hot": 205831,
+      "num": 205831,
+      "word": "熊猫耳朵小会显得脸大",
+      "onboard_time": 1697939431,
+      "rank": 19,
+      "category": "动物萌宠"
     },
     {
-      "raw_hot": 205002,
-      "num": 205002,
-      "word": "富士康",
-      "onboard_time": 1697938107,
-      "rank": 25,
-      "category": "财经"
+      "raw_hot": 205452,
+      "num": 205452,
+      "word": "藏族女孩被偶像教唱歌献20条哈达",
+      "onboard_time": 1697939250,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 204431,
@@ -361,6 +417,14 @@
       "onboard_time": 1697934868,
       "rank": 19,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 201993,
+      "num": 201993,
+      "word": "肿眼泡消肿",
+      "onboard_time": 1697938351,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 201371,
@@ -435,14 +499,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 178578,
-      "num": 178578,
-      "word": "男子小区遛狗发现草坪被投放毒火腿",
-      "onboard_time": 1697938351,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 173718,
       "num": 173718,
       "word": "张宁绝杀",
@@ -464,6 +520,14 @@
       "word": "辅导员看见发出尖锐爆鸣声",
       "onboard_time": 1697935650,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 158647,
+      "num": 158647,
+      "word": "这里的鱼犯天条了吗",
+      "onboard_time": 1697938652,
+      "rank": 29,
       "category": "幽默"
     },
     {
@@ -515,6 +579,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151879,
+      "num": 151879,
+      "word": "我们是姐妹 但是我们不熟",
+      "onboard_time": 1697939072,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 151235,
       "num": 151235,
       "word": "李现夺走了GQ主编的手机",
@@ -537,6 +609,14 @@
       "onboard_time": 1697896779,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 145021,
+      "num": 145021,
+      "word": "男生的梦中情房",
+      "onboard_time": 1697939191,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 143260,
@@ -571,12 +651,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132474,
-      "num": 132474,
-      "word": "肿眼泡消肿",
-      "onboard_time": 1697938351,
-      "rank": 35,
-      "category": "美妆"
+      "raw_hot": 134262,
+      "num": 134262,
+      "word": "最令人毛骨悚然的解读",
+      "onboard_time": 1697939733,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 134233,
+      "num": 134233,
+      "word": "张杰一开嗓从不会让人失望",
+      "onboard_time": 1697941352,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129334,
+      "num": 129334,
+      "word": "王鹤润角姐有仇当场就报了",
+      "onboard_time": 1697940153,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 128402,
@@ -617,6 +713,14 @@
       "onboard_time": 1697886993,
       "rank": 37,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 114764,
+      "num": 114764,
+      "word": "极简生活让我一年存了十多万",
+      "onboard_time": 1697929280,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 114576,
@@ -691,14 +795,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104498,
-      "num": 104498,
-      "word": "极简生活让我一年存了十多万",
-      "onboard_time": 1697929280,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 104405,
       "num": 71419,
       "word": "显头圆还贼气质的麻花辫盘发",
@@ -729,6 +825,14 @@
       "onboard_time": 1697908345,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98008,
+      "num": 98008,
+      "word": "如何快速失去所有朋友",
+      "onboard_time": 1697941471,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 97943,
@@ -913,6 +1017,14 @@
       "onboard_time": 1697893775,
       "rank": 2,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 37837,
+      "num": 550627,
+      "word": "两个亚运同样精彩",
+      "onboard_time": 1697894017,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 36628,
