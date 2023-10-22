@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697963663763,
+  "endTime": 1697966102659,
   "band_list": [
     {
       "raw_hot": 2427786,
@@ -51,8 +51,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 1576104,
-      "num": 1576104,
+      "raw_hot": 1608789,
+      "num": 1608789,
       "word": "于文文问微信撤回为什么要留痕迹",
       "onboard_time": 1697960789,
       "rank": 1,
@@ -179,12 +179,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 736647,
+      "num": 736647,
+      "word": "无爪鸡骨",
+      "onboard_time": 1697964031,
+      "rank": 2,
+      "category": "美食"
+    },
+    {
       "raw_hot": 682257,
       "num": 682257,
       "word": "爷爷奶奶有一千多万还在当保洁",
       "onboard_time": 1697935050,
       "rank": 9,
       "category": "情感"
+    },
+    {
+      "raw_hot": 669965,
+      "num": 239593,
+      "word": "妈妈给我网购了避孕套",
+      "onboard_time": 1697964632,
+      "rank": 20,
+      "category": "幽默"
     },
     {
       "raw_hot": 626075,
@@ -339,6 +355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438591,
+      "num": 438591,
+      "word": "斗破苍穹",
+      "onboard_time": 1697964511,
+      "rank": 4,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 435224,
       "num": 435224,
       "word": "老人进店3次研究毛衣织法没被赶",
@@ -361,6 +385,14 @@
       "onboard_time": 1697946333,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 425260,
+      "num": 278502,
+      "word": "以色列内阁投票撤销该国公共外交部",
+      "onboard_time": 1697963420,
+      "rank": 32,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 424228,
@@ -507,6 +539,22 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 317134,
+      "num": 163539,
+      "word": "马立奥要去当小姨的花童了",
+      "onboard_time": 1697965172,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316053,
+      "num": 276219,
+      "word": "白鹿复古名伶妆",
+      "onboard_time": 1697963532,
+      "rank": 40,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 315016,
       "num": 315016,
       "word": "出国一定要记得贴信用卡",
@@ -529,6 +577,14 @@
       "onboard_time": 1697949811,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 306014,
+      "num": 274849,
+      "word": "treasure 苏州签售",
+      "onboard_time": 1697964632,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 305262,
@@ -587,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288746,
+      "num": 272938,
+      "word": "美在我重点国防军工单位安插眼线",
+      "onboard_time": 1697965531,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 283719,
       "num": 283719,
       "word": "肺炎支原体感染11月或将迎感染高峰",
@@ -608,6 +672,14 @@
       "word": "90岁老人分手后去前女友家纵火获刑",
       "onboard_time": 1697948552,
       "rank": 37,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280129,
+      "num": 280129,
+      "word": "伴郎接到手捧花瞬间奔向女友",
+      "onboard_time": 1697960909,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -651,12 +723,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 261725,
-      "num": 261725,
-      "word": "伴郎接到手捧花瞬间奔向女友",
-      "onboard_time": 1697960909,
-      "rank": 19,
-      "category": "社会新闻"
+      "raw_hot": 261487,
+      "num": 261487,
+      "word": "kpop四代女团合照",
+      "onboard_time": 1697964871,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 256158,
@@ -777,6 +849,14 @@
       "onboard_time": 1697954852,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222950,
+      "num": 222950,
+      "word": "华晨宇演唱会边系鞋带边唱歌",
+      "onboard_time": 1697965291,
+      "rank": 21,
+      "category": "演出"
     },
     {
       "raw_hot": 220777,
@@ -963,6 +1043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189430,
+      "num": 160821,
+      "word": "这房子长得跟素描似的",
+      "onboard_time": 1697965469,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 188393,
       "num": 188393,
       "word": "周也温暖秋日妆",
@@ -1001,6 +1089,14 @@
       "onboard_time": 1697950654,
       "rank": 30,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 178987,
+      "num": 178987,
+      "word": "30岁有十万存款算什么水平",
+      "onboard_time": 1697965891,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 178584,
@@ -1067,12 +1163,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171496,
-      "num": 157155,
-      "word": "以色列内阁投票撤销该国公共外交部",
-      "onboard_time": 1697963420,
-      "rank": 32,
-      "category": "国外要闻"
+      "raw_hot": 168419,
+      "num": 168419,
+      "word": "杨丞琳匿名的好友全场大合唱",
+      "onboard_time": 1697962472,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 164826,
+      "num": 164826,
+      "word": "116岁奶奶一年四季只穿单鞋",
+      "onboard_time": 1697965891,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164300,
@@ -1219,6 +1323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 150572,
+      "num": 150572,
+      "word": "白鹿白色拖地长裙",
+      "onboard_time": 1697963911,
+      "rank": 38,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 149520,
       "num": 149520,
       "word": "女子酒后欲跳桥男子骑车假装路过秒救回",
@@ -1257,14 +1369,6 @@
       "onboard_time": 1697939733,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145158,
-      "num": 145158,
-      "word": "杨丞琳匿名的好友全场大合唱",
-      "onboard_time": 1697962472,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 144471,
@@ -1320,6 +1424,14 @@
       "word": "辅警凭一顶帽子迅速找回走丢老人",
       "onboard_time": 1697948012,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138788,
+      "num": 138788,
+      "word": "114岁老人的长寿秘诀",
+      "onboard_time": 1697964992,
+      "rank": 41,
       "category": "社会新闻"
     },
     {
@@ -1419,14 +1531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 124751,
-      "num": 124751,
-      "word": "白鹿复古名伶妆",
-      "onboard_time": 1697963532,
-      "rank": 40,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 124411,
       "num": 132626,
       "word": "丞磊田嘉瑞有默契但不多",
@@ -1449,6 +1553,14 @@
       "onboard_time": 1697947713,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 122250,
+      "num": 122250,
+      "word": "田曦薇王星越合作过",
+      "onboard_time": 1697963489,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 121062,
@@ -1555,14 +1667,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110381,
-      "num": 110381,
-      "word": "田曦薇王星越合作过",
-      "onboard_time": 1697963489,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110262,
       "num": 110262,
       "word": "有被学校的每个小细节而感动",
@@ -1585,6 +1689,14 @@
       "onboard_time": 1697944952,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 108941,
+      "num": 108941,
+      "word": "白宇帆工作室为评论于适言论道歉",
+      "onboard_time": 1697965831,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 108688,
@@ -2025,6 +2137,14 @@
       "onboard_time": 1697921355,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7719,
+      "num": 163636,
+      "word": "亚残运会上的助残黑科技",
+      "onboard_time": 1697965952,
+      "rank": 30,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [

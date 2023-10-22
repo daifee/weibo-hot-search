@@ -1,0 +1,410 @@
+{
+  "runTime": 1697966102659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1608789,
+        "num": 1608789,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1106298,
+        "num": 1106298,
+        "word": "上四休三工资九折你愿意吗",
+        "onboard_time": 1697956289,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 736647,
+        "num": 736647,
+        "word": "无爪鸡骨",
+        "onboard_time": 1697964031,
+        "rank": 2,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 465639,
+        "num": 465639,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 438591,
+        "num": 438591,
+        "word": "斗破苍穹",
+        "onboard_time": 1697964511,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 424678,
+        "num": 424678,
+        "word": "以色列再次空袭叙利亚两座机场",
+        "onboard_time": 1697957371,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 403473,
+        "num": 403473,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357069,
+        "num": 357069,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 301695,
+        "num": 301695,
+        "word": "KFC联名JOJO",
+        "onboard_time": 1697958989,
+        "rank": 8,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 280129,
+        "num": 280129,
+        "word": "伴郎接到手捧花瞬间奔向女友",
+        "onboard_time": 1697960909,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 599712,
+        "num": 279253,
+        "word": "纽约鼠灾",
+        "onboard_time": 1697951134,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425260,
+        "num": 278502,
+        "word": "以色列内阁投票撤销该国公共外交部",
+        "onboard_time": 1697963420,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 316053,
+        "num": 276219,
+        "word": "白鹿复古名伶妆",
+        "onboard_time": 1697963532,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 306014,
+        "num": 274849,
+        "word": "treasure 苏州签售",
+        "onboard_time": 1697964632,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288746,
+        "num": 272938,
+        "word": "美在我重点国防军工单位安插眼线",
+        "onboard_time": 1697965531,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272397,
+        "num": 272397,
+        "word": "独子去世离异父母各分走一半骨灰",
+        "onboard_time": 1697949692,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266581,
+        "num": 266581,
+        "word": "河边的错误",
+        "onboard_time": 1697961093,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 261487,
+        "num": 261487,
+        "word": "kpop四代女团合照",
+        "onboard_time": 1697964871,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11244,
+        "num": 255533,
+        "word": "杭州亚残运会观赛指南",
+        "onboard_time": 1697944291,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254457,
+        "num": 254457,
+        "word": "迪丽热巴希腊女神妆",
+        "onboard_time": 1697948012,
+        "rank": 19,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 669965,
+        "num": 239593,
+        "word": "妈妈给我网购了避孕套",
+        "onboard_time": 1697964632,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222950,
+        "num": 222950,
+        "word": "华晨宇演唱会边系鞋带边唱歌",
+        "onboard_time": 1697965291,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213427,
+        "num": 213427,
+        "word": "金龟子王宁结婚三十多年几乎不吵架",
+        "onboard_time": 1697957791,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211369,
+        "num": 211369,
+        "word": "成毅 老实人勇闯娱乐圈",
+        "onboard_time": 1697953170,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205057,
+        "num": 205057,
+        "word": "王鹤棣晒Hi6大合照",
+        "onboard_time": 1697961213,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191864,
+        "num": 191864,
+        "word": "女生被男同学抱摔致门牙断裂",
+        "onboard_time": 1697957489,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178987,
+        "num": 178987,
+        "word": "30岁有十万存款算什么水平",
+        "onboard_time": 1697965891,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 168419,
+        "num": 168419,
+        "word": "杨丞琳匿名的好友全场大合唱",
+        "onboard_time": 1697962472,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168210,
+        "num": 168210,
+        "word": "曾舜晞说莲花楼全员都希望再度合作",
+        "onboard_time": 1697958932,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164826,
+        "num": 164826,
+        "word": "116岁奶奶一年四季只穿单鞋",
+        "onboard_time": 1697965891,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7719,
+        "num": 163636,
+        "word": "亚残运会上的助残黑科技",
+        "onboard_time": 1697965952,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350525,
+        "num": 163548,
+        "word": "被男友用U型锁打死女子亲属发声",
+        "onboard_time": 1697950232,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317134,
+        "num": 163539,
+        "word": "马立奥要去当小姨的花童了",
+        "onboard_time": 1697965172,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162496,
+        "num": 162496,
+        "word": "男子提供600平闲置地收养流浪狗",
+        "onboard_time": 1697963611,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189430,
+        "num": 160821,
+        "word": "这房子长得跟素描似的",
+        "onboard_time": 1697965469,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 155308,
+        "num": 155308,
+        "word": "把厕所丑水管改成明目张胆的丑",
+        "onboard_time": 1697963192,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154607,
+        "num": 154607,
+        "word": "猫为咬这一口做了300个假动作",
+        "onboard_time": 1697960789,
+        "rank": 36,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 152752,
+        "num": 152752,
+        "word": "felix背部纹身",
+        "onboard_time": 1697960670,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150572,
+        "num": 150572,
+        "word": "白鹿白色拖地长裙",
+        "onboard_time": 1697963911,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 150135,
+        "num": 150135,
+        "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+        "onboard_time": 1697948012,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149004,
+        "num": 149004,
+        "word": "房东习惯性打招呼救下租客一命",
+        "onboard_time": 1697954852,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138788,
+        "num": 138788,
+        "word": "114岁老人的长寿秘诀",
+        "onboard_time": 1697964992,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134689,
+        "num": 134689,
+        "word": "人一旦养了猫",
+        "onboard_time": 1697958030,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 122250,
+        "num": 122250,
+        "word": "田曦薇王星越合作过",
+        "onboard_time": 1697963489,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113272,
+        "num": 113272,
+        "word": "海顿格温去世",
+        "onboard_time": 1697956829,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112297,
+        "num": 112297,
+        "word": "姐妹这是罗一舟本人",
+        "onboard_time": 1697959771,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108941,
+        "num": 108941,
+        "word": "白宇帆工作室为评论于适言论道歉",
+        "onboard_time": 1697965831,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108240,
+        "num": 108240,
+        "word": "郭麒麟直播喊倪虹洁妈",
+        "onboard_time": 1697963072,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105679,
+        "num": 105679,
+        "word": "河边的错误 谁杀了我我又杀了谁",
+        "onboard_time": 1697962890,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102166,
+        "num": 102166,
+        "word": "双十一买苹果还是华为",
+        "onboard_time": 1697957430,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的100个故事#"
+    }
+  }
+}

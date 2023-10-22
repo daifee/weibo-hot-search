@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 16:34:23
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 17:15:02
 </p>
 </blockquote>
 <p>
@@ -2469,6 +2469,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23" target="weibo">
+于文文问微信撤回为什么要留痕迹（热度：1608789）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E6%81%B6%E7%8A%AC%E5%81%B7%E8%B7%91%E4%B8%BB%E4%BA%BA%E6%9B%BE%E5%87%BA%E9%97%A8%E5%AF%BB%E6%89%BE%E4%BD%86%E6%B2%A1%E6%89%BE%E5%88%B0%23" target="weibo">
 成都恶犬偷跑主人曾出门寻找但没找到（热度：1608732）
 </a>
@@ -2561,12 +2567,6 @@ Jennie将常驻综艺公寓404（热度：1612589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B1%82%E8%81%8C%E8%A2%AB%E8%A6%81%E6%B1%82%E5%81%9A%E9%81%BF%E5%AD%95%E6%8E%AA%E6%96%BD%E5%90%8E%E6%8B%8D%E7%85%A7%E6%8A%A5%E5%A4%87%23" target="weibo">
 女子求职被要求做避孕措施后拍照报备（热度：1576234）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%96%87%E6%96%87%E9%97%AE%E5%BE%AE%E4%BF%A1%E6%92%A4%E5%9B%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%95%99%E7%97%95%E8%BF%B9%23" target="weibo">
-于文文问微信撤回为什么要留痕迹（热度：1576104）
 </a>
 </li>
 
