@@ -1,0 +1,410 @@
+{
+  "runTime": 1697938642327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1324642,
+        "num": 1324642,
+        "word": "佛山电翰式化妆",
+        "onboard_time": 1697933727,
+        "rank": 0,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 830837,
+        "num": 830837,
+        "word": "依法对富士康旗下企业税务稽查",
+        "onboard_time": 1697936191,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 30762,
+        "num": 677225,
+        "word": "建设一个开放包容互联互通共同发展的世界",
+        "onboard_time": 1697893775,
+        "rank": 2,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 938657,
+        "num": 633203,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 918080,
+        "num": 627940,
+        "word": "佟丽娅董璇有孩子后的第一次闺蜜旅行",
+        "onboard_time": 1697932285,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583041,
+        "num": 583041,
+        "word": "中国短道速滑2000米混合接力金牌",
+        "onboard_time": 1697935172,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 579271,
+        "num": 579271,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 431774,
+        "num": 431774,
+        "word": "27岁了最爱的还是小孩菜",
+        "onboard_time": 1697931986,
+        "rank": 7,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419884,
+        "num": 419884,
+        "word": "倪妮河南分妮最近火了",
+        "onboard_time": 1697899417,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358446,
+        "num": 358446,
+        "word": "上高铁后发现爸妈偷塞的榴莲",
+        "onboard_time": 1697932406,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 974670,
+        "num": 347686,
+        "word": "落马女官员花50万美臀",
+        "onboard_time": 1697930180,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 327871,
+        "num": 327871,
+        "word": "巴勒斯坦问题峰会",
+        "onboard_time": 1697935949,
+        "rank": 11,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 300011,
+        "num": 300011,
+        "word": "王鹤棣自己开车录制好六",
+        "onboard_time": 1697931443,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 291604,
+        "num": 291604,
+        "word": "医生劝半个多小时不让走救回一条命",
+        "onboard_time": 1697902536,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 260063,
+        "num": 260063,
+        "word": "第一次参加新疆小男生的割礼宴",
+        "onboard_time": 1697933670,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 246191,
+        "num": 246191,
+        "word": "张韶涵硬刚主办方",
+        "onboard_time": 1697899240,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 244182,
+        "num": 244182,
+        "word": "田耕纪为什么能火",
+        "onboard_time": 1697934208,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238582,
+        "num": 238582,
+        "word": "白鹿郑书意",
+        "onboard_time": 1697934630,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218944,
+        "num": 218944,
+        "word": "小沈阳第一次拿第一",
+        "onboard_time": 1697933788,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 215501,
+        "num": 215501,
+        "word": "何炅说第一次见黄子韬是19岁",
+        "onboard_time": 1697901875,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 687181,
+        "num": 213809,
+        "word": "985名校硕士因本科普通被多家企业婉拒",
+        "onboard_time": 1697934390,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 267338,
+        "num": 212955,
+        "word": "你只是午睡了一下之后",
+        "onboard_time": 1697934028,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 210985,
+        "num": 210985,
+        "word": "广西一条河里开出莫奈的花园惊艳了",
+        "onboard_time": 1697935050,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 209542,
+        "num": 209542,
+        "word": "佛山电翰",
+        "onboard_time": 1697938232,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 205182,
+        "num": 205182,
+        "word": "金龟子第一次去见王宁家人",
+        "onboard_time": 1697903256,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205002,
+        "num": 205002,
+        "word": "富士康",
+        "onboard_time": 1697938107,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 204637,
+        "num": 204637,
+        "word": "张碧晨 撕裂",
+        "onboard_time": 1697892811,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190398,
+        "num": 190398,
+        "word": "众邻居下雨前帮母女抢收玉米",
+        "onboard_time": 1697938351,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178578,
+        "num": 178578,
+        "word": "男子小区遛狗发现草坪被投放毒火腿",
+        "onboard_time": 1697938351,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169488,
+        "num": 169488,
+        "word": "原来栗子是这么长的",
+        "onboard_time": 1697934868,
+        "rank": 29,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 156300,
+        "num": 156300,
+        "word": "隐性饥饿正在偷走你的健康",
+        "onboard_time": 1697891674,
+        "rank": 30,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 153647,
+        "num": 153647,
+        "word": "大叔染发一半陪理发师来追星关晓彤",
+        "onboard_time": 1697937509,
+        "rank": 31,
+        "category": "幽默,艺人"
+      },
+      {
+        "raw_hot": 152229,
+        "num": 152229,
+        "word": "张宁绝杀",
+        "onboard_time": 1697935711,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140686,
+        "num": 140686,
+        "word": "华晨宇 神在我头顶唱歌",
+        "onboard_time": 1697934028,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140615,
+        "num": 140615,
+        "word": "博比查尔顿去世",
+        "onboard_time": 1697930722,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132474,
+        "num": 132474,
+        "word": "肿眼泡消肿",
+        "onboard_time": 1697938351,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 128402,
+        "num": 128402,
+        "word": "SEVENTEEN比MV更先公开的challenge",
+        "onboard_time": 1697936492,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 121814,
+        "num": 121814,
+        "word": "你最喜欢墨香铜臭哪部作品",
+        "onboard_time": 1697933909,
+        "rank": 37,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 118063,
+        "num": 118063,
+        "word": "辅导员看见发出尖锐爆鸣声",
+        "onboard_time": 1697935650,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117642,
+        "num": 117642,
+        "word": "丞磊拖弟",
+        "onboard_time": 1697933308,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112292,
+        "num": 112292,
+        "word": "好喜欢卷发",
+        "onboard_time": 1697938232,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 108991,
+        "num": 108991,
+        "word": "英国穷小子验DNA证明自己是富豪独子",
+        "onboard_time": 1697888971,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108231,
+        "num": 108231,
+        "word": "王子璇走红毯对我眼睛很友好",
+        "onboard_time": 1697936552,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107414,
+        "num": 107414,
+        "word": "李现夺走了GQ主编的手机",
+        "onboard_time": 1697930301,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104507,
+        "num": 104507,
+        "word": "肺炎支原体感染11月或将迎感染高峰",
+        "onboard_time": 1697891314,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104498,
+        "num": 104498,
+        "word": "极简生活让我一年存了十多万",
+        "onboard_time": 1697929280,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101575,
+        "num": 101575,
+        "word": "苏醒说0713现在叫就业兄弟团",
+        "onboard_time": 1697930362,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97418,
+        "num": 97418,
+        "word": "后来才发现考驾照不是最难的",
+        "onboard_time": 1697932345,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95690,
+        "num": 95690,
+        "word": "内娱营业天才",
+        "onboard_time": 1697931264,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 93409,
+        "num": 93409,
+        "word": "律师称李玟已完成尸检证据已固定",
+        "onboard_time": 1697901277,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#丝路精神是共建一带一路最重要的力量源泉#"
+    }
+  }
+}
