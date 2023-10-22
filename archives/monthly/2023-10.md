@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 12:34:10
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 13:15:55
 </p>
 </blockquote>
 <p>
@@ -1895,6 +1895,12 @@ Jennie王一博看秀待遇（热度：1809955）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23K5133%E6%AC%A1%E6%97%85%E5%AE%A2%E5%88%97%E8%BD%A6%E8%BF%90%E8%A1%8C%E4%B8%AD%E8%84%B1%E8%BD%A8%23" target="weibo">
 K5133次旅客列车运行中脱轨（热度：1792980）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%BA%BA%E4%BA%A116%E5%B9%B4%E5%90%8E%E7%88%B8%E7%88%B8%E8%B7%B3%E6%B2%B3%E6%95%91%E4%BA%BA%E7%89%BA%E7%89%B2%23" target="weibo">
+儿子溺亡16年后爸爸跳河救人牺牲（热度：1785982）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%93%88%E9%A9%AC%E6%96%AF%E7%BB%91%E6%9E%B6%E7%9A%84%E4%B8%AD%E4%BB%A5%E6%B7%B7%E8%A1%80%E5%A5%B3%E5%AD%A9%E4%BB%8A%E5%A4%A9%E7%94%9F%E6%97%A5%23" target="weibo">
 被哈马斯绑架的中以混血女孩今天生日（热度：860900）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E6%9D%91%E6%8B%8C%E9%A5%AD%23" target="weibo">
-米村拌饭（热度：860760）
 </a>
 </li>
 

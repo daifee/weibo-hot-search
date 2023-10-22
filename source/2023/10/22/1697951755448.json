@@ -1,0 +1,410 @@
+{
+  "runTime": 1697951755448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1785982,
+        "num": 1785982,
+        "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+        "onboard_time": 1697948012,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1299494,
+        "num": 1299494,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 1,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 62692,
+        "num": 1186358,
+        "word": "杭州亚残运会中国队全家福",
+        "onboard_time": 1697944771,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1111605,
+        "num": 1111605,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 766943,
+        "num": 766943,
+        "word": "被男友用U型锁打死女子亲属发声",
+        "onboard_time": 1697950232,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 718153,
+        "num": 718153,
+        "word": "兰博基尼被踩车主称不和解",
+        "onboard_time": 1697943992,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 592244,
+        "num": 592244,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 486804,
+        "num": 486804,
+        "word": "徐志胜就是黄子韬的报应吧",
+        "onboard_time": 1697949993,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436280,
+        "num": 436280,
+        "word": "中国足协负债12亿",
+        "onboard_time": 1697944352,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427862,
+        "num": 427862,
+        "word": "独子去世离异父母各分走一半骨灰",
+        "onboard_time": 1697949692,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1080180,
+        "num": 416299,
+        "word": "Lucky八岁了好漂亮",
+        "onboard_time": 1697939491,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 393129,
+        "num": 393129,
+        "word": "河边的错误 一千个人一亿个哈姆雷特",
+        "onboard_time": 1697946333,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387238,
+        "num": 387238,
+        "word": "所谓鬼压床不是鬼魂在作怪",
+        "onboard_time": 1697939852,
+        "rank": 12,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 325613,
+        "num": 325613,
+        "word": "中国海警披露依法拦阻菲船只详情",
+        "onboard_time": 1697951252,
+        "rank": 13,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 318218,
+        "num": 318218,
+        "word": "刘慈欣要魔改三体",
+        "onboard_time": 1697950890,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276092,
+        "num": 276092,
+        "word": "河边的错误开分9.2",
+        "onboard_time": 1697949811,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271311,
+        "num": 271311,
+        "word": "佛山电翰式化妆",
+        "onboard_time": 1697933727,
+        "rank": 16,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 264661,
+        "num": 264661,
+        "word": "好看的香橡皮为什么擦不干净",
+        "onboard_time": 1697949932,
+        "rank": 17,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 258831,
+        "num": 258831,
+        "word": "菲船恶意碰瓷",
+        "onboard_time": 1697951431,
+        "rank": 18,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 251237,
+        "num": 251237,
+        "word": "女子网购猫粮发现包装有针孔",
+        "onboard_time": 1697950351,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 698118,
+        "num": 249894,
+        "word": "985名校硕士因本科普通被多家企业婉拒",
+        "onboard_time": 1697934390,
+        "rank": 20,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 307843,
+        "num": 249116,
+        "word": "迪丽热巴希腊女神妆",
+        "onboard_time": 1697948012,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280509,
+        "num": 247813,
+        "word": "90岁老人分手后去前女友家纵火获刑",
+        "onboard_time": 1697948552,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245513,
+        "num": 245513,
+        "word": "丝巾鱼骨辫",
+        "onboard_time": 1697947351,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 213935,
+        "num": 213935,
+        "word": "支原体肺炎",
+        "onboard_time": 1697947169,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191597,
+        "num": 213932,
+        "word": "8元一串的巨大里脊肉串",
+        "onboard_time": 1697942912,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 177618,
+        "num": 213925,
+        "word": "乌尔善 封神是群像戏",
+        "onboard_time": 1697940992,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176068,
+        "num": 213924,
+        "word": "两只狗狗差距怎么这么大呢",
+        "onboard_time": 1697950052,
+        "rank": 27,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 165347,
+        "num": 213917,
+        "word": "ENHYPEN疑似被排挤",
+        "onboard_time": 1697943392,
+        "rank": 28,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 162618,
+        "num": 213910,
+        "word": "光与夜之恋",
+        "onboard_time": 1697949091,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170939,
+        "num": 213903,
+        "word": "那些被讹传后用来贬低女性的古语",
+        "onboard_time": 1697950654,
+        "rank": 30,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 161287,
+        "num": 213897,
+        "word": "纽约鼠灾",
+        "onboard_time": 1697951134,
+        "rank": 31,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 146961,
+        "num": 213889,
+        "word": "你只是午睡了一下之后",
+        "onboard_time": 1697934028,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145433,
+        "num": 213889,
+        "word": "麻将的里面装的什么",
+        "onboard_time": 1697945794,
+        "rank": 33,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 145386,
+        "num": 213882,
+        "word": "富士康",
+        "onboard_time": 1697938107,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140733,
+        "num": 213873,
+        "word": "SEVENTEEN夫胜宽令人意外的近况",
+        "onboard_time": 1697946871,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130281,
+        "num": 213870,
+        "word": "佛山电翰",
+        "onboard_time": 1697938232,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 117187,
+        "num": 213862,
+        "word": "樊振东的十年记录",
+        "onboard_time": 1697951371,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114244,
+        "num": 213859,
+        "word": "佟丽娅董璇有孩子后的第一次闺蜜旅行",
+        "onboard_time": 1697932285,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109712,
+        "num": 213851,
+        "word": "白鹿郑书意",
+        "onboard_time": 1697934630,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108438,
+        "num": 213846,
+        "word": "王鹤棣自己开车录制好六",
+        "onboard_time": 1697931443,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102373,
+        "num": 213838,
+        "word": "许亮的锦旗 致死扶伤",
+        "onboard_time": 1697950052,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101038,
+        "num": 213834,
+        "word": "火星6再不官宣就全员剧透了",
+        "onboard_time": 1697941831,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100141,
+        "num": 213831,
+        "word": "河海大学足球队战胜阿根廷代表队",
+        "onboard_time": 1697946631,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95348,
+        "num": 213822,
+        "word": "香山红叶成顶流民警西郊线执勤忙翻天",
+        "onboard_time": 1697951073,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 94932,
+        "num": 213818,
+        "word": "马哲车牌31415",
+        "onboard_time": 1697946933,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91765,
+        "num": 213808,
+        "word": "MOMO跳SMOKE",
+        "onboard_time": 1697948552,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91670,
+        "num": 213807,
+        "word": "甄姬西施至美风华系列皮肤",
+        "onboard_time": 1697947592,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 87909,
+        "num": 213800,
+        "word": "出国一定要记得贴信用卡",
+        "onboard_time": 1697942551,
+        "rank": 48,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 87742,
+        "num": 213795,
+        "word": "智利有条中国修的致富路",
+        "onboard_time": 1697948970,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#把一带一路建成创新之路#"
+    }
+  }
+}
