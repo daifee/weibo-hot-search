@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697973195518,
+  "endTime": 1697974446385,
   "band_list": [
     {
       "raw_hot": 2488322,
@@ -113,6 +113,14 @@
       "onboard_time": 1697943992,
       "rank": 28,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1109715,
+      "num": 583883,
+      "word": "WBG掉入瑞士轮生死局",
+      "onboard_time": 1697973510,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1105360,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 527904,
-      "num": 265862,
+      "num": 285837,
       "word": "因母胎血型不合女子怀孕3次都死胎",
       "onboard_time": 1697967931,
       "rank": 21,
@@ -387,20 +395,20 @@
       "category": "动漫,美食"
     },
     {
+      "raw_hot": 500286,
+      "num": 500286,
+      "word": "最舍不得删的一张王者截图",
+      "onboard_time": 1697970871,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 496626,
       "num": 496626,
       "word": "富士康",
       "onboard_time": 1697938107,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 494404,
-      "num": 494404,
-      "word": "最舍不得删的一张王者截图",
-      "onboard_time": 1697970871,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 486804,
@@ -507,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 429767,
+      "num": 429767,
+      "word": "TheShy 来还债的",
+      "onboard_time": 1697973391,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 425260,
       "num": 329724,
       "word": "以色列内阁投票撤销该国公共外交部",
@@ -577,6 +593,14 @@
       "onboard_time": 1697954852,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 387559,
+      "num": 387559,
+      "word": "2023金鸡百花电影节",
+      "onboard_time": 1697972372,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 369342,
@@ -732,7 +756,7 @@
     },
     {
       "raw_hot": 305849,
-      "num": 255078,
+      "num": 260675,
       "word": "佛山电翰辟谣网传一天挣500万",
       "onboard_time": 1697972190,
       "rank": 22,
@@ -833,14 +857,6 @@
       "onboard_time": 1697903855,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 274619,
-      "num": 274619,
-      "word": "2023金鸡百花电影节",
-      "onboard_time": 1697972372,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 273547,
@@ -1195,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197003,
+      "num": 197003,
+      "word": "周也清水妆",
+      "onboard_time": 1697973690,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196385,
       "num": 196385,
       "word": "青岛啤酒风波知情人发声",
@@ -1291,6 +1315,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 180298,
+      "num": 1216823,
+      "word": "做消防员的妻子甜到爆表",
+      "onboard_time": 1697970091,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178584,
       "num": 178584,
       "word": "陈哲远无声吃播",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1697953532,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177144,
-      "num": 1216823,
-      "word": "做消防员的妻子甜到爆表",
-      "onboard_time": 1697970091,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176068,
@@ -1363,20 +1387,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 172087,
+      "num": 172087,
+      "word": "桃花坞文案",
+      "onboard_time": 1697972912,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 169811,
+      "num": 169811,
+      "word": "巩俐 黑夜女王",
+      "onboard_time": 1697972491,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 168419,
       "num": 168419,
       "word": "杨丞琳匿名的好友全场大合唱",
       "onboard_time": 1697962472,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 165385,
-      "num": 165385,
-      "word": "巩俐 黑夜女王",
-      "onboard_time": 1697972491,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 164300,
@@ -1659,6 +1691,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 135981,
+      "num": 135981,
+      "word": "抽签",
+      "onboard_time": 1697974170,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135977,
       "num": 132670,
       "word": "易烊千玺新电影小小的我杀青",
@@ -1673,6 +1713,14 @@
       "onboard_time": 1697961391,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133418,
+      "num": 690152,
+      "word": "他没任何犹豫徒手拎出喷火煤气罐",
+      "onboard_time": 1697972190,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 132672,
@@ -1779,14 +1827,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 122257,
-      "num": 122257,
-      "word": "桃花坞文案",
-      "onboard_time": 1697972912,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122250,
       "num": 122250,
       "word": "田曦薇王星越合作过",
@@ -1859,12 +1899,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114759,
+      "num": 114759,
+      "word": "周涛 审美定势是可以被打破的",
+      "onboard_time": 1697974232,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114576,
       "num": 114576,
       "word": "王子璇走红毯对我眼睛很友好",
       "onboard_time": 1697936552,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 114056,
+      "num": 94996,
+      "word": "泰国VOGUE报道迪丽热巴",
+      "onboard_time": 1697973811,
+      "rank": 45,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 114046,
@@ -1891,20 +1947,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112483,
-      "num": 180217,
-      "word": "他没任何犹豫徒手拎出喷火煤气罐",
-      "onboard_time": 1697972190,
-      "rank": 31,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 112292,
       "num": 112292,
       "word": "好喜欢卷发",
       "onboard_time": 1697938232,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 111104,
+      "num": 111104,
+      "word": "富士康被查",
+      "onboard_time": 1697974232,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 110477,
@@ -2123,12 +2179,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 95022,
+      "num": 95022,
+      "word": "阴阳师有三宝",
+      "onboard_time": 1697974111,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 92148,
       "num": 146283,
       "word": "红酒红肉很搭我们俩也很搭",
       "onboard_time": 1697968172,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91583,
+      "num": 91583,
+      "word": "最贵不到30块的平价美妆单品",
+      "onboard_time": 1697974410,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 91425,
@@ -2299,7 +2371,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 48634,
+      "raw_hot": 50978,
       "num": 274545,
       "word": "叶诗文孟子义都爱买买买",
       "onboard_time": 1697971712,

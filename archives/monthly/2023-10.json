@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697973195518,
+  "endTime": 1697974446385,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -5729,6 +5729,14 @@
       "onboard_time": 1697521175,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1109715,
+      "num": 583883,
+      "word": "WBG掉入瑞士轮生死局",
+      "onboard_time": 1697973510,
+      "rank": 10,
+      "category": "电竞"
     },
     {
       "raw_hot": 1109303,
@@ -15324,7 +15332,7 @@
     },
     {
       "raw_hot": 527904,
-      "num": 265862,
+      "num": 285837,
       "word": "因母胎血型不合女子怀孕3次都死胎",
       "onboard_time": 1697967931,
       "rank": 21,
@@ -16315,6 +16323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 500286,
+      "num": 500286,
+      "word": "最舍不得删的一张王者截图",
+      "onboard_time": 1697970871,
+      "rank": 12,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 500001,
       "num": 487829,
       "word": "泽连斯基发文声援以色列",
@@ -16585,14 +16601,6 @@
       "onboard_time": 1697598390,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 494404,
-      "num": 494404,
-      "word": "最舍不得删的一张王者截图",
-      "onboard_time": 1697970871,
-      "rank": 12,
-      "category": "游戏"
     },
     {
       "raw_hot": 494335,
@@ -19771,6 +19779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 429767,
+      "num": 429767,
+      "word": "TheShy 来还债的",
+      "onboard_time": 1697973391,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 428711,
       "num": 428711,
       "word": "徐明浩 直播",
@@ -21833,6 +21849,14 @@
       "onboard_time": 1697288795,
       "rank": 20,
       "category": "演出"
+    },
+    {
+      "raw_hot": 387559,
+      "num": 387559,
+      "word": "2023金鸡百花电影节",
+      "onboard_time": 1697972372,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 387454,
@@ -27452,7 +27476,7 @@
     },
     {
       "raw_hot": 305849,
-      "num": 255078,
+      "num": 260675,
       "word": "佛山电翰辟谣网传一天挣500万",
       "onboard_time": 1697972190,
       "rank": 22,
@@ -30681,14 +30705,6 @@
       "onboard_time": 1696129354,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 274619,
-      "num": 274619,
-      "word": "2023金鸡百花电影节",
-      "onboard_time": 1697972372,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 274605,
@@ -42803,6 +42819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197003,
+      "num": 197003,
+      "word": "周也清水妆",
+      "onboard_time": 1697973690,
+      "rank": 25,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196983,
       "num": 349471,
       "word": "用淘宝AI办了场不花钱的婚礼",
@@ -46795,6 +46819,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 180298,
+      "num": 1216823,
+      "word": "做消防员的妻子甜到爆表",
+      "onboard_time": 1697970091,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 180256,
       "num": 180256,
       "word": "兰闺喜事大结局",
@@ -47345,14 +47377,6 @@
       "onboard_time": 1697587659,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 177144,
-      "num": 1216823,
-      "word": "做消防员的妻子甜到爆表",
-      "onboard_time": 1697970091,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 177100,
@@ -48251,6 +48275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172087,
+      "num": 172087,
+      "word": "桃花坞文案",
+      "onboard_time": 1697972912,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171994,
       "num": 171994,
       "word": "两大学生同校同天同为小朋友捐干细胞",
@@ -48673,6 +48705,14 @@
       "onboard_time": 1697508755,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 169811,
+      "num": 169811,
+      "word": "巩俐 黑夜女王",
+      "onboard_time": 1697972491,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 169758,
@@ -49425,14 +49465,6 @@
       "onboard_time": 1697616514,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 165385,
-      "num": 165385,
-      "word": "巩俐 黑夜女王",
-      "onboard_time": 1697972491,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 165382,
@@ -54243,6 +54275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 135981,
+      "num": 135981,
+      "word": "抽签",
+      "onboard_time": 1697974170,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135957,
       "num": 141766,
       "word": "卡卡中国行",
@@ -54585,6 +54625,14 @@
       "onboard_time": 1696146991,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133418,
+      "num": 690152,
+      "word": "他没任何犹豫徒手拎出喷火煤气罐",
+      "onboard_time": 1697972190,
+      "rank": 31,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 133208,
@@ -55827,14 +55875,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 122257,
-      "num": 122257,
-      "word": "桃花坞文案",
-      "onboard_time": 1697972912,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 122250,
       "num": 122250,
       "word": "田曦薇王星越合作过",
@@ -56523,6 +56563,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 114759,
+      "num": 114759,
+      "word": "周涛 审美定势是可以被打破的",
+      "onboard_time": 1697974232,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114735,
       "num": 114735,
       "word": "一盆葱花面",
@@ -56585,6 +56633,14 @@
       "onboard_time": 1696132352,
       "rank": 12,
       "category": "军事,社会新闻"
+    },
+    {
+      "raw_hot": 114056,
+      "num": 94996,
+      "word": "泰国VOGUE报道迪丽热巴",
+      "onboard_time": 1697973811,
+      "rank": 45,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 114048,
@@ -56697,14 +56753,6 @@
       "onboard_time": 1696460601,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 112483,
-      "num": 180217,
-      "word": "他没任何犹豫徒手拎出喷火煤气罐",
-      "onboard_time": 1697972190,
-      "rank": 31,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 112402,
@@ -56825,6 +56873,14 @@
       "onboard_time": 1697901277,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 111104,
+      "num": 111104,
+      "word": "富士康被查",
+      "onboard_time": 1697974232,
+      "rank": 42,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 110982,
@@ -57811,6 +57867,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 95022,
+      "num": 95022,
+      "word": "阴阳师有三宝",
+      "onboard_time": 1697974111,
+      "rank": 44,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 94805,
       "num": 208666,
       "word": "重庆迎来今秋第一场雪",
@@ -57953,6 +58017,14 @@
       "onboard_time": 1697891131,
       "rank": 48,
       "category": "科技,社会新闻"
+    },
+    {
+      "raw_hot": 91583,
+      "num": 91583,
+      "word": "最贵不到30块的平价美妆单品",
+      "onboard_time": 1697974410,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 91459,
@@ -59763,6 +59835,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 50978,
+      "num": 274545,
+      "word": "叶诗文孟子义都爱买买买",
+      "onboard_time": 1697971712,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50914,
       "num": 1278822,
       "word": "6张海报回顾一带一路动人故事",
@@ -59857,14 +59937,6 @@
       "onboard_time": 1696974193,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 48634,
-      "num": 274545,
-      "word": "叶诗文孟子义都爱买买买",
-      "onboard_time": 1697971712,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 48480,
