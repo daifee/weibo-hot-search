@@ -1,0 +1,410 @@
+{
+  "runTime": 1697949250028,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1677639,
+        "num": 1677639,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1168473,
+        "num": 1168473,
+        "word": "兰博基尼被踩车主称不和解",
+        "onboard_time": 1697943992,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 68809,
+        "num": 955513,
+        "word": "杭州亚残运会中国队全家福",
+        "onboard_time": 1697944771,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1319579,
+        "num": 951128,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 779249,
+        "num": 779249,
+        "word": "中国足协负债12亿",
+        "onboard_time": 1697944352,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 744176,
+        "num": 744176,
+        "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+        "onboard_time": 1697948012,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 434078,
+        "num": 434078,
+        "word": "8元一串的巨大里脊肉串",
+        "onboard_time": 1697942912,
+        "rank": 6,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 432768,
+        "num": 432768,
+        "word": "河边的错误 一千个人一亿个哈姆雷特",
+        "onboard_time": 1697946333,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 399668,
+        "num": 399668,
+        "word": "所谓鬼压床不是鬼魂在作怪",
+        "onboard_time": 1697939852,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 367905,
+        "num": 367905,
+        "word": "支原体肺炎",
+        "onboard_time": 1697947169,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1254891,
+        "num": 366122,
+        "word": "Lucky八岁了好漂亮",
+        "onboard_time": 1697939491,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 939970,
+        "num": 365367,
+        "word": "985名校硕士因本科普通被多家企业婉拒",
+        "onboard_time": 1697934390,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 361119,
+        "num": 361119,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 356237,
+        "num": 356237,
+        "word": "佛山电翰式化妆",
+        "onboard_time": 1697933727,
+        "rank": 13,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 248583,
+        "num": 248583,
+        "word": "丝巾鱼骨辫",
+        "onboard_time": 1697947351,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 233209,
+        "num": 233209,
+        "word": "ENHYPEN疑似被排挤",
+        "onboard_time": 1697943392,
+        "rank": 15,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 214080,
+        "num": 214080,
+        "word": "麻将的里面装的什么",
+        "onboard_time": 1697945794,
+        "rank": 16,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 213100,
+        "num": 213100,
+        "word": "SEVENTEEN夫胜宽令人意外的近况",
+        "onboard_time": 1697946871,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210163,
+        "num": 210163,
+        "word": "佟丽娅董璇有孩子后的第一次闺蜜旅行",
+        "onboard_time": 1697932285,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182782,
+        "num": 192732,
+        "word": "富士康",
+        "onboard_time": 1697938107,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 369342,
+        "num": 191415,
+        "word": "迪丽热巴希腊女神妆",
+        "onboard_time": 1697948012,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 264220,
+        "num": 191322,
+        "word": "乌尔善 封神是群像戏",
+        "onboard_time": 1697940992,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188890,
+        "num": 188890,
+        "word": "马哲车牌31415",
+        "onboard_time": 1697946933,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167118,
+        "num": 167118,
+        "word": "出国一定要记得贴信用卡",
+        "onboard_time": 1697942551,
+        "rank": 23,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 164726,
+        "num": 164726,
+        "word": "王鹤棣自己开车录制好六",
+        "onboard_time": 1697931443,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164300,
+        "num": 164300,
+        "word": "光与夜之恋",
+        "onboard_time": 1697949091,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 159027,
+        "word": "甄姬西施至美风华系列皮肤",
+        "onboard_time": 1697947592,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154495,
+        "num": 154495,
+        "word": "智利有条中国修的致富路",
+        "onboard_time": 1697948970,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148864,
+        "num": 148864,
+        "word": "火星6再不官宣就全员剧透了",
+        "onboard_time": 1697941831,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144121,
+        "num": 144121,
+        "word": "河海大学足球队战胜阿根廷代表队",
+        "onboard_time": 1697946631,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 181587,
+        "num": 144104,
+        "word": "男子小区遛狗发现草坪被投放毒火腿",
+        "onboard_time": 1697938351,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 163768,
+        "num": 144081,
+        "word": "落马女官员花50万美臀",
+        "onboard_time": 1697930180,
+        "rank": 31,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 147999,
+        "num": 144071,
+        "word": "你只是午睡了一下之后",
+        "onboard_time": 1697934028,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144054,
+        "num": 144054,
+        "word": "白鹿郑书意",
+        "onboard_time": 1697934630,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143535,
+        "num": 143535,
+        "word": "玲的秘密",
+        "onboard_time": 1697947408,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142398,
+        "num": 142398,
+        "word": "佛山电翰",
+        "onboard_time": 1697938232,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 141107,
+        "num": 141107,
+        "word": "MOMO跳SMOKE",
+        "onboard_time": 1697948552,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136140,
+        "num": 136140,
+        "word": "90岁老人分手后去前女友家纵火获刑",
+        "onboard_time": 1697948552,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 133893,
+        "num": 133893,
+        "word": "如何快速失去所有朋友",
+        "onboard_time": 1697941471,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128489,
+        "num": 128489,
+        "word": "老人进店3次研究毛衣织法没被赶",
+        "onboard_time": 1697939791,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 122753,
+        "num": 122753,
+        "word": "守护甜心 歌呗同人",
+        "onboard_time": 1697947713,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 118508,
+        "num": 118508,
+        "word": "辅警凭一顶帽子迅速找回走丢老人",
+        "onboard_time": 1697948012,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117482,
+        "num": 117482,
+        "word": "张杰一开嗓从不会让人失望",
+        "onboard_time": 1697941352,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107656,
+        "num": 107656,
+        "word": "10岁女孩遇民警吃饭偷偷付钱",
+        "onboard_time": 1697944171,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 106797,
+        "num": 106797,
+        "word": "刘惜君暗夜星河流光裙",
+        "onboard_time": 1697946871,
+        "rank": 44,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 102801,
+        "num": 102801,
+        "word": "巴勒斯坦问题峰会",
+        "onboard_time": 1697935949,
+        "rank": 45,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 102781,
+        "num": 102781,
+        "word": "倪妮河南分妮最近火了",
+        "onboard_time": 1697899417,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98795,
+        "num": 98795,
+        "word": "田耕纪为什么能火",
+        "onboard_time": 1697934208,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94214,
+        "num": 94214,
+        "word": "小沈阳第一次拿第一",
+        "onboard_time": 1697933788,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90626,
+        "num": 90626,
+        "word": "上高铁后发现爸妈偷塞的榴莲",
+        "onboard_time": 1697932406,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#把一带一路建成创新之路#"
+    }
+  }
+}

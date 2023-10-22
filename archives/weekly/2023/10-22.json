@@ -1,10 +1,10 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697948383993,
+  "endTime": 1697949250028,
   "band_list": [
     {
       "raw_hot": 1840803,
-      "num": 346054,
+      "num": 366122,
       "word": "Lucky八岁了好漂亮",
       "onboard_time": 1697939491,
       "rank": 10,
@@ -43,8 +43,8 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 1124699,
-      "num": 1124699,
+      "raw_hot": 1168473,
+      "num": 1168473,
       "word": "兰博基尼被踩车主称不和解",
       "onboard_time": 1697943992,
       "rank": 28,
@@ -113,6 +113,14 @@
       "onboard_time": 1697892811,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 744176,
+      "num": 744176,
+      "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+      "onboard_time": 1697948012,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742582,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 452612,
-      "num": 396061,
+      "num": 399668,
       "word": "所谓鬼压床不是鬼魂在作怪",
       "onboard_time": 1697939852,
       "rank": 20,
@@ -217,6 +225,22 @@
       "onboard_time": 1697939791,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 434078,
+      "num": 434078,
+      "word": "8元一串的巨大里脊肉串",
+      "onboard_time": 1697942912,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 432768,
+      "num": 432768,
+      "word": "河边的错误 一千个人一亿个哈姆雷特",
+      "onboard_time": 1697946333,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 424228,
@@ -251,20 +275,20 @@
       "category": "幽默,艺人"
     },
     {
-      "raw_hot": 387998,
-      "num": 387998,
-      "word": "8元一串的巨大里脊肉串",
-      "onboard_time": 1697942912,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 369342,
+      "num": 191415,
+      "word": "迪丽热巴希腊女神妆",
+      "onboard_time": 1697948012,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
-      "raw_hot": 383506,
-      "num": 383506,
-      "word": "河边的错误 一千个人一亿个哈姆雷特",
-      "onboard_time": 1697946333,
-      "rank": 8,
-      "category": "电影"
+      "raw_hot": 367905,
+      "num": 367905,
+      "word": "支原体肺炎",
+      "onboard_time": 1697947169,
+      "rank": 12,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 366174,
@@ -379,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 279582,
-      "num": 279582,
-      "word": "支原体肺炎",
-      "onboard_time": 1697947169,
-      "rank": 12,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 277761,
       "num": 277761,
       "word": "网友晒与鹿晗范丞丞王安宇合照",
@@ -425,6 +441,14 @@
       "onboard_time": 1697892574,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 248583,
+      "num": 248583,
+      "word": "丝巾鱼骨辫",
+      "onboard_time": 1697947351,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 244182,
@@ -473,14 +497,6 @@
       "onboard_time": 1697946871,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229953,
-      "num": 229953,
-      "word": "儿子溺亡16年后爸爸跳河救人牺牲",
-      "onboard_time": 1697948012,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 218873,
@@ -595,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 191529,
-      "num": 191529,
-      "word": "丝巾鱼骨辫",
-      "onboard_time": 1697947351,
-      "rank": 24,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 190398,
       "num": 190398,
       "word": "众邻居下雨前帮母女抢收玉米",
@@ -667,20 +675,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164300,
+      "num": 164300,
+      "word": "光与夜之恋",
+      "onboard_time": 1697949091,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 163683,
       "num": 142268,
       "word": "辅导员看见发出尖锐爆鸣声",
       "onboard_time": 1697935650,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 162817,
-      "num": 162817,
-      "word": "迪丽热巴希腊女神妆",
-      "onboard_time": 1697948012,
-      "rank": 29,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161793,
@@ -713,6 +721,14 @@
       "onboard_time": 1697899598,
       "rank": 24,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 154495,
+      "num": 154495,
+      "word": "智利有条中国修的致富路",
+      "onboard_time": 1697948970,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 153647,
@@ -787,6 +803,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143535,
+      "num": 143535,
+      "word": "玲的秘密",
+      "onboard_time": 1697947408,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143260,
       "num": 143260,
       "word": "内娱营业天才",
@@ -795,20 +819,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 142686,
-      "num": 142686,
-      "word": "玲的秘密",
-      "onboard_time": 1697947408,
-      "rank": 35,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141176,
       "num": 141176,
       "word": "你最喜欢墨香铜臭哪部作品",
       "onboard_time": 1697933909,
       "rank": 32,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 141107,
+      "num": 141107,
+      "word": "MOMO跳SMOKE",
+      "onboard_time": 1697948552,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 139097,
@@ -825,6 +849,14 @@
       "onboard_time": 1697900496,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 136140,
+      "num": 136140,
+      "word": "90岁老人分手后去前女友家纵火获刑",
+      "onboard_time": 1697948552,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 135977,
@@ -883,8 +915,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120913,
-      "num": 120913,
+      "raw_hot": 122753,
+      "num": 122753,
       "word": "守护甜心 歌呗同人",
       "onboard_time": 1697947713,
       "rank": 38,
