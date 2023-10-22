@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697999646285,
+  "endTime": 1698002029004,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -61936,6 +61936,14 @@
       "word": "葛曼棋哪吒本吒",
       "onboard_time": 1696237233,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17075,
+      "num": 19131,
+      "word": "F1",
+      "onboard_time": 1698001993,
+      "rank": 45,
       "category": "体育"
     },
     {
