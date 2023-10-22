@@ -1,0 +1,410 @@
+{
+  "runTime": 1697958885850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2050805,
+        "num": 2050805,
+        "word": "上四休三工资九折你愿意吗",
+        "onboard_time": 1697956289,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1568787,
+        "num": 1568787,
+        "word": "纽约鼠灾",
+        "onboard_time": 1697951134,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53902,
+        "num": 1043728,
+        "word": "杭州亚残运会中国队全家福",
+        "onboard_time": 1697944771,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 774016,
+        "num": 774016,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 682868,
+        "num": 682868,
+        "word": "独子去世离异父母各分走一半骨灰",
+        "onboard_time": 1697949692,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 888632,
+        "num": 670539,
+        "word": "以色列再次空袭叙利亚两座机场",
+        "onboard_time": 1697957371,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 648375,
+        "num": 648375,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 464487,
+        "num": 464487,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 441898,
+        "num": 441898,
+        "word": "海顿格温去世",
+        "onboard_time": 1697956829,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 374479,
+        "num": 374479,
+        "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+        "onboard_time": 1697948012,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 526616,
+        "num": 362996,
+        "word": "成毅 老实人勇闯娱乐圈",
+        "onboard_time": 1697953170,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346490,
+        "num": 346490,
+        "word": "就差报周翊然身份证了",
+        "onboard_time": 1697952631,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290716,
+        "num": 290716,
+        "word": "黄奕cos奥黛丽赫本",
+        "onboard_time": 1697953112,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 280919,
+        "num": 280919,
+        "word": "女子网购猫粮发现包装有针孔",
+        "onboard_time": 1697950351,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277463,
+        "num": 277463,
+        "word": "河边的错误开分9.2",
+        "onboard_time": 1697949811,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260889,
+        "num": 260889,
+        "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
+        "onboard_time": 1697956410,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 252305,
+        "num": 252305,
+        "word": "李善均将被传唤调查",
+        "onboard_time": 1697956170,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212111,
+        "num": 212111,
+        "word": "苹果CEO库克称超95%产品在中国造",
+        "onboard_time": 1697952037,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 200568,
+        "num": 200568,
+        "word": "90岁老人分手后去前女友家纵火获刑",
+        "onboard_time": 1697948552,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187364,
+        "num": 187364,
+        "word": "河边的错误 一千个人一亿个哈姆雷特",
+        "onboard_time": 1697946333,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367761,
+        "num": 187323,
+        "word": "女生被男同学抱摔致门牙断裂",
+        "onboard_time": 1697957489,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228578,
+        "num": 187259,
+        "word": "迪丽热巴希腊女神妆",
+        "onboard_time": 1697948012,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202884,
+        "num": 187235,
+        "word": "房东习惯性打招呼救下租客一命",
+        "onboard_time": 1697954852,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187186,
+        "num": 187186,
+        "word": "兰博基尼被踩车主称不和解",
+        "onboard_time": 1697943992,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184953,
+        "num": 184953,
+        "word": "985名校硕士因本科普通被多家企业婉拒",
+        "onboard_time": 1697934390,
+        "rank": 24,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 174711,
+        "num": 174711,
+        "word": "猫咪的烦 肉眼可见",
+        "onboard_time": 1697953231,
+        "rank": 25,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 167497,
+        "num": 167497,
+        "word": "王者荣耀",
+        "onboard_time": 1697955511,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158083,
+        "num": 158083,
+        "word": "女子秦岭赏秋掉入河道丈夫沿岸追赶",
+        "onboard_time": 1697957912,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147904,
+        "num": 147904,
+        "word": "看完这期hi6被丞磊苏到了",
+        "onboard_time": 1697956410,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147109,
+        "num": 147109,
+        "word": "双十一买苹果还是华为",
+        "onboard_time": 1697957430,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 899339,
+        "num": 146995,
+        "word": "被男友用U型锁打死女子亲属发声",
+        "onboard_time": 1697950232,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 358108,
+        "num": 146259,
+        "word": "金龟子王宁结婚三十多年几乎不吵架",
+        "onboard_time": 1697957791,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145060,
+        "num": 145060,
+        "word": "中国足协负债12亿",
+        "onboard_time": 1697944352,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141962,
+        "num": 141962,
+        "word": "张艺兴大连站延迟开票",
+        "onboard_time": 1697954852,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135780,
+        "num": 135780,
+        "word": "丁程鑫干完坏事藏不了一点",
+        "onboard_time": 1697958209,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135355,
+        "num": 135355,
+        "word": "人一旦养了猫",
+        "onboard_time": 1697958030,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 132228,
+        "num": 132228,
+        "word": "陈哲远无声吃播",
+        "onboard_time": 1697958691,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129319,
+        "num": 129319,
+        "word": "中国海警披露依法拦阻菲船只详情",
+        "onboard_time": 1697951252,
+        "rank": 37,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 125598,
+        "num": 125598,
+        "word": "问心爱情公寓梦幻联动",
+        "onboard_time": 1697958452,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124488,
+        "num": 124488,
+        "word": "菲船恶意碰瓷",
+        "onboard_time": 1697951431,
+        "rank": 39,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 124033,
+        "num": 124033,
+        "word": "巴勒斯坦问题峰会闭幕",
+        "onboard_time": 1697954730,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 121062,
+        "num": 121062,
+        "word": "繁城之下豆瓣涨至8.6分",
+        "onboard_time": 1697958750,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111798,
+        "num": 111798,
+        "word": "华浅 受不了你们这些玛丽苏了",
+        "onboard_time": 1697953532,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102420,
+        "num": 102420,
+        "word": "刘慈欣要魔改三体",
+        "onboard_time": 1697950890,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102256,
+        "num": 102256,
+        "word": "徐志胜就是黄子韬的报应吧",
+        "onboard_time": 1697949993,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97350,
+        "num": 97350,
+        "word": "小朋友运动会上把自己伪装成个球",
+        "onboard_time": 1697956650,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92147,
+        "num": 92147,
+        "word": "佛山电翰式化妆",
+        "onboard_time": 1697933727,
+        "rank": 46,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 90954,
+        "num": 90954,
+        "word": "0713的友谊真的会让人羡慕",
+        "onboard_time": 1697954309,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90055,
+        "num": 90055,
+        "word": "所谓鬼压床不是鬼魂在作怪",
+        "onboard_time": 1697939852,
+        "rank": 48,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 89316,
+        "num": 89316,
+        "word": "本年度最会怼人的网友出现了",
+        "onboard_time": 1697952572,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#把一带一路建成创新之路#"
+    }
+  }
+}

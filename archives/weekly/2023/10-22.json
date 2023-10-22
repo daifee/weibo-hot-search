@@ -1,7 +1,15 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697956455546,
+  "endTime": 1697958885850,
   "band_list": [
+    {
+      "raw_hot": 2050805,
+      "num": 2050805,
+      "word": "上四休三工资九折你愿意吗",
+      "onboard_time": 1697956289,
+      "rank": 8,
+      "category": "情感"
+    },
     {
       "raw_hot": 1840803,
       "num": 416299,
@@ -43,6 +51,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1568787,
+      "num": 1568787,
+      "word": "纽约鼠灾",
+      "onboard_time": 1697951134,
+      "rank": 31,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 1394950,
       "num": 536219,
       "word": "985名校硕士因本科普通被多家企业婉拒",
@@ -57,14 +73,6 @@
       "onboard_time": 1697933727,
       "rank": 0,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 1263218,
-      "num": 1263218,
-      "word": "纽约鼠灾",
-      "onboard_time": 1697951134,
-      "rank": 31,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 1168473,
@@ -121,6 +129,14 @@
       "onboard_time": 1697899240,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 888632,
+      "num": 670539,
+      "word": "以色列再次空袭叙利亚两座机场",
+      "onboard_time": 1697957371,
+      "rank": 5,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 830837,
@@ -275,14 +291,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 454094,
-      "num": 454094,
-      "word": "上四休三工资九折你愿意吗",
-      "onboard_time": 1697956289,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 452612,
       "num": 399668,
       "word": "所谓鬼压床不是鬼魂在作怪",
@@ -297,6 +305,14 @@
       "onboard_time": 1697932406,
       "rank": 7,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 441898,
+      "num": 441898,
+      "word": "海顿格温去世",
+      "onboard_time": 1697956829,
+      "rank": 8,
+      "category": "艺人"
     },
     {
       "raw_hot": 435224,
@@ -387,12 +403,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 367761,
+      "num": 187323,
+      "word": "女生被男同学抱摔致门牙断裂",
+      "onboard_time": 1697957489,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 366174,
       "num": 299109,
       "word": "张大大说有很多艺人潜伏在我直播间",
       "onboard_time": 1697901459,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358108,
+      "num": 146259,
+      "word": "金龟子王宁结婚三十多年几乎不吵架",
+      "onboard_time": 1697957791,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 351754,
@@ -491,6 +523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 290716,
+      "num": 290716,
+      "word": "黄奕cos奥黛丽赫本",
+      "onboard_time": 1697953112,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 290553,
       "num": 290553,
       "word": "河边的错误 看完不走",
@@ -563,12 +603,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 262076,
-      "num": 262076,
-      "word": "黄奕cos奥黛丽赫本",
-      "onboard_time": 1697953112,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 260889,
+      "num": 260889,
+      "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
+      "onboard_time": 1697956410,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 256158,
@@ -585,6 +625,14 @@
       "onboard_time": 1697952037,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 252305,
+      "num": 252305,
+      "word": "李善均将被传唤调查",
+      "onboard_time": 1697956170,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 248583,
@@ -891,14 +939,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 166567,
-      "num": 166567,
-      "word": "李善均将被传唤调查",
-      "onboard_time": 1697956170,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164300,
       "num": 213910,
       "word": "光与夜之恋",
@@ -929,6 +969,14 @@
       "onboard_time": 1697938652,
       "rank": 29,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 158083,
+      "num": 158083,
+      "word": "女子秦岭赏秋掉入河道丈夫沿岸追赶",
+      "onboard_time": 1697957912,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 155797,
@@ -1019,20 +1067,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 147904,
+      "num": 147904,
+      "word": "看完这期hi6被丞磊苏到了",
+      "onboard_time": 1697956410,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 147109,
+      "num": 147109,
+      "word": "双十一买苹果还是华为",
+      "onboard_time": 1697957430,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 146664,
       "num": 146664,
       "word": "最令人毛骨悚然的解读",
       "onboard_time": 1697939733,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 145982,
-      "num": 145982,
-      "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
-      "onboard_time": 1697956410,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 144471,
@@ -1107,12 +1163,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135780,
+      "num": 135780,
+      "word": "丁程鑫干完坏事藏不了一点",
+      "onboard_time": 1697958209,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 135355,
+      "num": 135355,
+      "word": "人一旦养了猫",
+      "onboard_time": 1697958030,
+      "rank": 35,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 132487,
       "num": 206350,
       "word": "00后教天猫做双11",
       "onboard_time": 1697943872,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132228,
+      "num": 132228,
+      "word": "陈哲远无声吃播",
+      "onboard_time": 1697958691,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 131170,
@@ -1155,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 125598,
+      "num": 125598,
+      "word": "问心爱情公寓梦幻联动",
+      "onboard_time": 1697958452,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 124411,
       "num": 132626,
       "word": "丞磊田嘉瑞有默契但不多",
@@ -1177,6 +1265,14 @@
       "onboard_time": 1697947713,
       "rank": 38,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 121062,
+      "num": 121062,
+      "word": "繁城之下豆瓣涨至8.6分",
+      "onboard_time": 1697958750,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 118531,
@@ -1403,6 +1499,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 97350,
+      "num": 97350,
+      "word": "小朋友运动会上把自己伪装成个球",
+      "onboard_time": 1697956650,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 96829,
       "num": 96829,
       "word": "荒谬上妆手法大尝试",
@@ -1425,14 +1529,6 @@
       "onboard_time": 1697951073,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 92194,
-      "num": 92194,
-      "word": "看完这期hi6被丞磊苏到了",
-      "onboard_time": 1697956410,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 88916,
