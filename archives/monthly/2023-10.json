@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697941555861,
+  "endTime": 1697942210654,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2451,6 +2451,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 1809186,
+      "num": 318154,
+      "word": "Lucky八岁了好漂亮",
+      "onboard_time": 1697939491,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 1804780,
       "num": 1804780,
       "word": "李子柒消失两年还会被偏爱吗",
@@ -2777,14 +2785,6 @@
       "onboard_time": 1697616695,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1735804,
-      "num": 318154,
-      "word": "Lucky八岁了好漂亮",
-      "onboard_time": 1697939491,
-      "rank": 10,
-      "category": "演出"
     },
     {
       "raw_hot": 1735374,
@@ -5731,6 +5731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1098864,
+      "num": 536219,
+      "word": "985名校硕士因本科普通被多家企业婉拒",
+      "onboard_time": 1697934390,
+      "rank": 20,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1098790,
       "num": 1098790,
       "word": "中以混血女孩中国妈妈再发声",
@@ -6097,14 +6105,6 @@
       "onboard_time": 1696234114,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1036196,
-      "num": 523110,
-      "word": "985名校硕士因本科普通被多家企业婉拒",
-      "onboard_time": 1697934390,
-      "rank": 20,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1035722,
@@ -16915,6 +16915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 480530,
+      "num": 309148,
+      "word": "男子小区遛狗发现草坪被投放毒火腿",
+      "onboard_time": 1697938351,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 480484,
       "num": 542611,
       "word": "何明树李兵李荣强同志被评定为烈士",
@@ -17915,14 +17923,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 459120,
-      "num": 309148,
-      "word": "男子小区遛狗发现草坪被投放毒火腿",
-      "onboard_time": 1697938351,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 459002,
       "num": 459002,
       "word": "林志颖闭眼复原魔方",
@@ -18345,6 +18345,14 @@
       "onboard_time": 1696159775,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 449657,
+      "num": 449657,
+      "word": "乌尔善 封神是群像戏",
+      "onboard_time": 1697940992,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 449650,
@@ -20449,6 +20457,14 @@
       "onboard_time": 1696120351,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 406434,
+      "num": 205733,
+      "word": "所谓鬼压床不是鬼魂在作怪",
+      "onboard_time": 1697939852,
+      "rank": 20,
+      "category": "知识科普"
     },
     {
       "raw_hot": 406057,
@@ -24515,14 +24531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 341110,
-      "num": 205733,
-      "word": "所谓鬼压床不是鬼魂在作怪",
-      "onboard_time": 1697939852,
-      "rank": 20,
-      "category": "知识科普"
-    },
-    {
       "raw_hot": 341064,
       "num": 341064,
       "word": "虞书欣THE9演唱会粉丝应援",
@@ -24945,6 +24953,14 @@
       "onboard_time": 1697181095,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334859,
+      "num": 334859,
+      "word": "老人进店3次研究毛衣织法没被赶",
+      "onboard_time": 1697939791,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334806,
@@ -26105,14 +26121,6 @@
       "onboard_time": 1696306894,
       "rank": 28,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 318708,
-      "num": 318708,
-      "word": "乌尔善 封神是群像戏",
-      "onboard_time": 1697940992,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 318671,
@@ -31809,14 +31817,6 @@
       "onboard_time": 1696813776,
       "rank": 45,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 261386,
-      "num": 261386,
-      "word": "老人进店3次研究毛衣织法没被赶",
-      "onboard_time": 1697939791,
-      "rank": 16,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 261357,
@@ -39251,6 +39251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207857,
+      "num": 207857,
+      "word": "熊猫耳朵小会显得脸大",
+      "onboard_time": 1697939431,
+      "rank": 19,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 207749,
       "num": 948406,
       "word": "这是电动车不可承受之重",
@@ -39713,14 +39721,6 @@
       "onboard_time": 1697719356,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 205831,
-      "num": 205831,
-      "word": "熊猫耳朵小会显得脸大",
-      "onboard_time": 1697939431,
-      "rank": 19,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 205818,
@@ -43017,6 +43017,14 @@
       "onboard_time": 1696821819,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 193484,
+      "num": 193484,
+      "word": "张杰一开嗓从不会让人失望",
+      "onboard_time": 1697941352,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 193471,
@@ -48723,6 +48731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165020,
+      "num": 165020,
+      "word": "火星6再不官宣就全员剧透了",
+      "onboard_time": 1697941831,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164981,
       "num": 164981,
       "word": "CCTV6国庆片单",
@@ -49297,6 +49313,14 @@
       "onboard_time": 1697761356,
       "rank": 37,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 161793,
+      "num": 161793,
+      "word": "男生的梦中情房",
+      "onboard_time": 1697939191,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 161671,
@@ -50521,6 +50545,14 @@
       "onboard_time": 1697467238,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 155322,
+      "num": 155322,
+      "word": "如何快速失去所有朋友",
+      "onboard_time": 1697941471,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 155292,
@@ -51835,6 +51867,14 @@
       "category": "社会新闻,情感"
     },
     {
+      "raw_hot": 146664,
+      "num": 146664,
+      "word": "最令人毛骨悚然的解读",
+      "onboard_time": 1697939733,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146616,
       "num": 146616,
       "word": "香菜猪耳披萨",
@@ -52097,14 +52137,6 @@
       "onboard_time": 1697644412,
       "rank": 37,
       "category": "情感,网红"
-    },
-    {
-      "raw_hot": 145021,
-      "num": 145021,
-      "word": "男生的梦中情房",
-      "onboard_time": 1697939191,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 144909,
@@ -53491,28 +53523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134262,
-      "num": 134262,
-      "word": "最令人毛骨悚然的解读",
-      "onboard_time": 1697939733,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
       "raw_hot": 134246,
       "num": 134246,
       "word": "大唐小吃货2开播",
       "onboard_time": 1696210951,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 134233,
-      "num": 134233,
-      "word": "张杰一开嗓从不会让人失望",
-      "onboard_time": 1697941352,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 134148,
@@ -56481,14 +56497,6 @@
       "onboard_time": 1697895216,
       "rank": 49,
       "category": "社会新闻,美食"
-    },
-    {
-      "raw_hot": 98008,
-      "num": 98008,
-      "word": "如何快速失去所有朋友",
-      "onboard_time": 1697941471,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 97986,

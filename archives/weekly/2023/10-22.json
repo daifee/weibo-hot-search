@@ -1,9 +1,9 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697941555861,
+  "endTime": 1697942210654,
   "band_list": [
     {
-      "raw_hot": 1735804,
+      "raw_hot": 1809186,
       "num": 318154,
       "word": "Lucky八岁了好漂亮",
       "onboard_time": 1697939491,
@@ -35,8 +35,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1036196,
-      "num": 523110,
+      "raw_hot": 1098864,
+      "num": 536219,
       "word": "985名校硕士因本科普通被多家企业婉拒",
       "onboard_time": 1697934390,
       "rank": 20,
@@ -147,6 +147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 480530,
+      "num": 309148,
+      "word": "男子小区遛狗发现草坪被投放毒火腿",
+      "onboard_time": 1697938351,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 462844,
       "num": 462844,
       "word": "多地对归国留学生开放定向选调",
@@ -155,12 +163,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 459120,
-      "num": 309148,
-      "word": "男子小区遛狗发现草坪被投放毒火腿",
-      "onboard_time": 1697938351,
-      "rank": 28,
-      "category": "社会新闻"
+      "raw_hot": 449657,
+      "num": 449657,
+      "word": "乌尔善 封神是群像戏",
+      "onboard_time": 1697940992,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 442648,
@@ -195,6 +203,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 406434,
+      "num": 205733,
+      "word": "所谓鬼压床不是鬼魂在作怪",
+      "onboard_time": 1697939852,
+      "rank": 20,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 366174,
       "num": 299109,
       "word": "张大大说有很多艺人潜伏在我直播间",
@@ -219,12 +235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341110,
-      "num": 205733,
-      "word": "所谓鬼压床不是鬼魂在作怪",
-      "onboard_time": 1697939852,
-      "rank": 20,
-      "category": "知识科普"
+      "raw_hot": 334859,
+      "num": 334859,
+      "word": "老人进店3次研究毛衣织法没被赶",
+      "onboard_time": 1697939791,
+      "rank": 16,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 334750,
@@ -241,14 +257,6 @@
       "onboard_time": 1697935949,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 318708,
-      "num": 318708,
-      "word": "乌尔善 封神是群像戏",
-      "onboard_time": 1697940992,
-      "rank": 9,
-      "category": "电影"
     },
     {
       "raw_hot": 318046,
@@ -339,14 +347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 261386,
-      "num": 261386,
-      "word": "老人进店3次研究毛衣织法没被赶",
-      "onboard_time": 1697939791,
-      "rank": 16,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 256158,
       "num": 210135,
       "word": "这就是街舞",
@@ -395,8 +395,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 205831,
-      "num": 205831,
+      "raw_hot": 207857,
+      "num": 207857,
       "word": "熊猫耳朵小会显得脸大",
       "onboard_time": 1697939431,
       "rank": 19,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193484,
+      "num": 193484,
+      "word": "张杰一开嗓从不会让人失望",
+      "onboard_time": 1697941352,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190398,
       "num": 190398,
       "word": "众邻居下雨前帮母女抢收玉米",
@@ -515,12 +523,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165020,
+      "num": 165020,
+      "word": "火星6再不官宣就全员剧透了",
+      "onboard_time": 1697941831,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163683,
       "num": 142268,
       "word": "辅导员看见发出尖锐爆鸣声",
       "onboard_time": 1697935650,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 161793,
+      "num": 161793,
+      "word": "男生的梦中情房",
+      "onboard_time": 1697939191,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 158647,
@@ -545,6 +569,14 @@
       "onboard_time": 1697899598,
       "rank": 24,
       "category": "社会新闻,作品衍生"
+    },
+    {
+      "raw_hot": 155322,
+      "num": 155322,
+      "word": "如何快速失去所有朋友",
+      "onboard_time": 1697941471,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 153647,
@@ -611,12 +643,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 145021,
-      "num": 145021,
-      "word": "男生的梦中情房",
-      "onboard_time": 1697939191,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 146664,
+      "num": 146664,
+      "word": "最令人毛骨悚然的解读",
+      "onboard_time": 1697939733,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 143260,
@@ -649,22 +681,6 @@
       "onboard_time": 1697888308,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 134262,
-      "num": 134262,
-      "word": "最令人毛骨悚然的解读",
-      "onboard_time": 1697939733,
-      "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 134233,
-      "num": 134233,
-      "word": "张杰一开嗓从不会让人失望",
-      "onboard_time": 1697941352,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 129334,
@@ -825,14 +841,6 @@
       "onboard_time": 1697908345,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98008,
-      "num": 98008,
-      "word": "如何快速失去所有朋友",
-      "onboard_time": 1697941471,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 97943,
