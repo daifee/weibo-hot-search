@@ -1,0 +1,410 @@
+{
+  "runTime": 1698012915013,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 203432,
+        "num": 203432,
+        "word": "27岁女子长期横向刷牙致牙齿缺损",
+        "onboard_time": 1697986297,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156254,
+        "num": 156254,
+        "word": "甘肃酒泉4.7级地震",
+        "onboard_time": 1697989171,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 18955,
+        "num": 100991,
+        "word": "亚残运会开幕",
+        "onboard_time": 1697982154,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100910,
+        "num": 100910,
+        "word": "可可西里野狼被游客投喂胖成网红",
+        "onboard_time": 1697984554,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88408,
+        "num": 88408,
+        "word": "郭麒麟说我有点儿可怜我爸",
+        "onboard_time": 1697987497,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82454,
+        "num": 82454,
+        "word": "女子突发腹痛公交司机停车救人",
+        "onboard_time": 1697990970,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 82047,
+        "num": 82047,
+        "word": "初中生拉开同学座椅致其后仰摔成重伤",
+        "onboard_time": 1697985214,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54807,
+        "num": 54807,
+        "word": "学校里的小狗 随地大小睡",
+        "onboard_time": 1697993246,
+        "rank": 7,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 51559,
+        "num": 51559,
+        "word": "乌尔善说封神第二部剪辑已完成",
+        "onboard_time": 1697985033,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44426,
+        "num": 44426,
+        "word": "曾舜晞录综艺带了10套衣服",
+        "onboard_time": 1697980413,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 582768,
+        "num": 44335,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151639,
+        "num": 43671,
+        "word": "女子带婴儿被3条流浪狗围攻咬伤",
+        "onboard_time": 1697986357,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85960,
+        "num": 42442,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1697988695,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46024,
+        "num": 41766,
+        "word": "30岁有十万存款算什么水平",
+        "onboard_time": 1697965891,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 41621,
+        "num": 41621,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38046,
+        "num": 38046,
+        "word": "于和伟还原吹蜡烛名场面",
+        "onboard_time": 1698005653,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34946,
+        "num": 34946,
+        "word": "花花这班上的太委屈了",
+        "onboard_time": 1697979033,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33596,
+        "num": 33596,
+        "word": "富士康被查",
+        "onboard_time": 1697974232,
+        "rank": 17,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 33496,
+        "num": 33496,
+        "word": "男子遭楼下老人砸门咒骂1年暴瘦20斤",
+        "onboard_time": 1697968954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 33344,
+        "num": 33344,
+        "word": "Xiaohu伏地魔",
+        "onboard_time": 1697976813,
+        "rank": 19,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233698,
+        "num": 32792,
+        "word": "吴楚一跳的是这种钢管舞吗",
+        "onboard_time": 1697988874,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73498,
+        "num": 32585,
+        "word": "女子咳嗽咳痰一周问题竟出在心脏",
+        "onboard_time": 1698005474,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 36609,
+        "num": 32572,
+        "word": "新婚夫妻度蜜月飞机窗上贴喜字留念",
+        "onboard_time": 1697981791,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 32079,
+        "num": 32079,
+        "word": "12306回应火车卧铺上疑有排泄物",
+        "onboard_time": 1697983113,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 31448,
+        "num": 31448,
+        "word": "从此再无坚定选择她的哥哥",
+        "onboard_time": 1697982456,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28539,
+        "num": 28539,
+        "word": "薛之谦扔戒指",
+        "onboard_time": 1697989831,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 29354,
+        "num": 28427,
+        "word": "华浅仲夜阑彻底be了",
+        "onboard_time": 1697990430,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27687,
+        "num": 27687,
+        "word": "孔雪儿为THE9演唱会练舞",
+        "onboard_time": 1697987314,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26275,
+        "num": 26275,
+        "word": "杨丞琳 我怎么突然冒出来这么多男粉",
+        "onboard_time": 1697977890,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25868,
+        "num": 25868,
+        "word": "白敬亭工作室发了11张照片",
+        "onboard_time": 1697984015,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27406,
+        "num": 24692,
+        "word": "原来薛之谦戚薇刘维早都认识了",
+        "onboard_time": 1697981857,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23150,
+        "num": 23150,
+        "word": "我国计划实施近地小行星防御任务",
+        "onboard_time": 1697993305,
+        "rank": 31,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 22231,
+        "num": 22231,
+        "word": "未知全貌 给予好评",
+        "onboard_time": 1698006854,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21428,
+        "num": 21428,
+        "word": "倪虹洁告诫女生冷战长结节",
+        "onboard_time": 1697986059,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 21037,
+        "num": 21037,
+        "word": "黄明昊林一troublemaker",
+        "onboard_time": 1697979572,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 20956,
+        "num": 20956,
+        "word": "汤姆布雷迪伊莲娜分手",
+        "onboard_time": 1698003734,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20894,
+        "num": 20894,
+        "word": "张宁哭了",
+        "onboard_time": 1697997678,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20049,
+        "num": 20049,
+        "word": "aespa 迷你4辑",
+        "onboard_time": 1697991150,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 19422,
+        "num": 19422,
+        "word": "繁城之下结局",
+        "onboard_time": 1697990252,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19077,
+        "num": 19077,
+        "word": "TheShy 来还债的",
+        "onboard_time": 1697973391,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18991,
+        "num": 18991,
+        "word": "把鉴宝专家给整不会了",
+        "onboard_time": 1697997317,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 18803,
+        "num": 18803,
+        "word": "苏醒刚圆梦就要醒了",
+        "onboard_time": 1697989054,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18777,
+        "num": 18777,
+        "word": "F1",
+        "onboard_time": 1698001993,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17391,
+        "num": 17391,
+        "word": "WBG掉入瑞士轮生死局",
+        "onboard_time": 1697973510,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17193,
+        "num": 17193,
+        "word": "再见乐队的夏天",
+        "onboard_time": 1697993425,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16549,
+        "num": 16549,
+        "word": "五月天成都",
+        "onboard_time": 1697986837,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16510,
+        "num": 16510,
+        "word": "原来这些玻璃制品是这样做出来的",
+        "onboard_time": 1698010153,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 16144,
+        "num": 16144,
+        "word": "明日方舟",
+        "onboard_time": 1697986357,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15658,
+        "num": 15658,
+        "word": "崔秀彬不是这真的TooMuch了",
+        "onboard_time": 1697990672,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15181,
+        "num": 15655,
+        "word": "周也清水妆",
+        "onboard_time": 1697973690,
+        "rank": 49,
+        "category": "作品衍生,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的100个故事#"
+    }
+  }
+}
