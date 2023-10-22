@@ -1,9 +1,9 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697991620530,
+  "endTime": 1697992536162,
   "band_list": [
     {
-      "raw_hot": 3683350,
+      "raw_hot": 3752811,
       "num": 320401,
       "word": "男子性侵13岁女孩聊天称老婆要从小培养",
       "onboard_time": 1697988874,
@@ -107,6 +107,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1385830,
+      "num": 212293,
+      "word": "吴楚一跳的是这种钢管舞吗",
+      "onboard_time": 1697988874,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1371488,
       "num": 1371488,
       "word": "花花这班上的太委屈了",
@@ -129,14 +137,6 @@
       "onboard_time": 1697972071,
       "rank": 3,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1250115,
-      "num": 212293,
-      "word": "吴楚一跳的是这种钢管舞吗",
-      "onboard_time": 1697988874,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1192423,
@@ -947,20 +947,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 346251,
+      "num": 346251,
+      "word": "薛之谦扔戒指",
+      "onboard_time": 1697989831,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 341886,
       "num": 341886,
       "word": "王鹤棣自己开车录制好六",
       "onboard_time": 1697931443,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 339634,
-      "num": 339634,
-      "word": "薛之谦扔戒指",
-      "onboard_time": 1697989831,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 336622,
@@ -1123,7 +1123,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 298907,
+      "raw_hot": 300263,
       "num": 298907,
       "word": "24考研英语石雷鹏功能句",
       "onboard_time": 1697988634,
@@ -1459,6 +1459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 221286,
+      "num": 197355,
+      "word": "崔秀彬不是这真的TooMuch了",
+      "onboard_time": 1697990672,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221053,
       "num": 221053,
       "word": "五月天成都",
@@ -1747,6 +1755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192817,
+      "num": 192817,
+      "word": "aespa 迷你4辑",
+      "onboard_time": 1697991150,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 191876,
       "num": 191876,
       "word": "明日方舟 2226",
@@ -1987,22 +2003,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168127,
-      "num": 168127,
-      "word": "崔秀彬不是这真的TooMuch了",
-      "onboard_time": 1697990672,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 167024,
-      "num": 167024,
-      "word": "aespa 迷你4辑",
-      "onboard_time": 1697991150,
-      "rank": 27,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 165860,
       "num": 165860,
       "word": "苏醒刚圆梦就要醒了",
@@ -2073,6 +2073,14 @@
       "onboard_time": 1697968711,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 159162,
+      "num": 159162,
+      "word": "女子突发腹痛公交司机停车救人",
+      "onboard_time": 1697990970,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 158647,
@@ -2289,6 +2297,14 @@
       "onboard_time": 1697974170,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142345,
+      "num": 142345,
+      "word": "华浅仲夜阑彻底be了",
+      "onboard_time": 1697990430,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 141670,
@@ -2513,14 +2529,6 @@
       "onboard_time": 1697877034,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 126494,
-      "num": 126494,
-      "word": "华浅仲夜阑彻底be了",
-      "onboard_time": 1697990430,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 125345,
@@ -2963,14 +2971,6 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 88447,
-      "num": 105297,
-      "word": "女子突发腹痛公交司机停车救人",
-      "onboard_time": 1697990970,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 87794,
       "num": 87794,
       "word": "周星驰风格宿舍喜剧",
@@ -3081,6 +3081,14 @@
       "onboard_time": 1697932644,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 74537,
+      "num": 100748,
+      "word": "环球影城里最酷的闺蜜",
+      "onboard_time": 1697992287,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 73344,

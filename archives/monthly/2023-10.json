@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697991620530,
+  "endTime": 1697992536162,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -323,20 +323,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 3752811,
+      "num": 320401,
+      "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+      "onboard_time": 1697988874,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 3724313,
       "num": 3724313,
       "word": "不明身份人员驾车冲闯中国驻旧金山总领馆",
       "onboard_time": 1696903831,
       "rank": 1,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 3683350,
-      "num": 320401,
-      "word": "男子性侵13岁女孩聊天称老婆要从小培养",
-      "onboard_time": 1697988874,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 3658428,
@@ -4211,6 +4211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1385830,
+      "num": 212293,
+      "word": "吴楚一跳的是这种钢管舞吗",
+      "onboard_time": 1697988874,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1385807,
       "num": 540398,
       "word": "去年我国一孩出生低于450万",
@@ -4961,14 +4969,6 @@
       "onboard_time": 1696488754,
       "rank": 15,
       "category": "幽默,互联网"
-    },
-    {
-      "raw_hot": 1250115,
-      "num": 212293,
-      "word": "吴楚一跳的是这种钢管舞吗",
-      "onboard_time": 1697988874,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1246600,
@@ -24771,6 +24771,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 346251,
+      "num": 346251,
+      "word": "薛之谦扔戒指",
+      "onboard_time": 1697989831,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 346243,
       "num": 346243,
       "word": "黄奕带女儿去王心凌演唱会",
@@ -25321,14 +25329,6 @@
       "onboard_time": 1697178935,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 339634,
-      "num": 339634,
-      "word": "薛之谦扔戒指",
-      "onboard_time": 1697989831,
-      "rank": 7,
-      "category": "演出"
     },
     {
       "raw_hot": 339536,
@@ -28379,6 +28379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 300263,
+      "num": 298907,
+      "word": "24考研英语石雷鹏功能句",
+      "onboard_time": 1697988634,
+      "rank": 39,
+      "category": "教育"
+    },
+    {
       "raw_hot": 300249,
       "num": 300249,
       "word": "柯洁战胜许家元",
@@ -28537,14 +28545,6 @@
       "onboard_time": 1696811676,
       "rank": 24,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 298907,
-      "num": 298907,
-      "word": "24考研英语石雷鹏功能句",
-      "onboard_time": 1697988634,
-      "rank": 39,
-      "category": "教育"
     },
     {
       "raw_hot": 298787,
@@ -38259,6 +38259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 221286,
+      "num": 197355,
+      "word": "崔秀彬不是这真的TooMuch了",
+      "onboard_time": 1697990672,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221275,
       "num": 221275,
       "word": "新人结婚不办席带大红喜字四处旅游",
@@ -44467,6 +44475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192817,
+      "num": 192817,
+      "word": "aespa 迷你4辑",
+      "onboard_time": 1697991150,
+      "rank": 27,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192813,
       "num": 192813,
       "word": "田嘉瑞泼林一 一击即中",
@@ -49563,14 +49579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 168127,
-      "num": 168127,
-      "word": "崔秀彬不是这真的TooMuch了",
-      "onboard_time": 1697990672,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 168065,
       "num": 168065,
       "word": "谁教你这样晒结婚证的",
@@ -49761,14 +49769,6 @@
       "onboard_time": 1696400974,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167024,
-      "num": 167024,
-      "word": "aespa 迷你4辑",
-      "onboard_time": 1697991150,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 166978,
@@ -51345,6 +51345,14 @@
       "onboard_time": 1696815095,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159162,
+      "num": 159162,
+      "word": "女子突发腹痛公交司机停车救人",
+      "onboard_time": 1697990970,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 159144,
@@ -54099,6 +54107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 142345,
+      "num": 142345,
+      "word": "华浅仲夜阑彻底be了",
+      "onboard_time": 1697990430,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 142317,
       "num": 142317,
       "word": "民警一拖四救出落水一家四口",
@@ -56216,14 +56232,6 @@
       "word": "你想在长相思演唱会上听到哪首歌",
       "onboard_time": 1697103575,
       "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 126494,
-      "num": 126494,
-      "word": "华浅仲夜阑彻底be了",
-      "onboard_time": 1697990430,
-      "rank": 36,
       "category": "剧集"
     },
     {
@@ -58907,14 +58915,6 @@
       "category": "社会新闻,艺人"
     },
     {
-      "raw_hot": 88447,
-      "num": 105297,
-      "word": "女子突发腹痛公交司机停车救人",
-      "onboard_time": 1697990970,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 88182,
       "num": 88182,
       "word": "没想到大树竟然也分雌雄",
@@ -59521,6 +59521,14 @@
       "onboard_time": 1696374803,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 74537,
+      "num": 100748,
+      "word": "环球影城里最酷的闺蜜",
+      "onboard_time": 1697992287,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 74326,
