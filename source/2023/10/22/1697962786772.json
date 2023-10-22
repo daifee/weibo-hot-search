@@ -1,0 +1,410 @@
+{
+  "runTime": 1697962786772,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1854277,
+        "num": 1854277,
+        "word": "上四休三工资九折你愿意吗",
+        "onboard_time": 1697956289,
+        "rank": 0,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 1567733,
+        "num": 1567733,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19320,
+        "num": 1051601,
+        "word": "杭州亚残运会观赛指南",
+        "onboard_time": 1697944291,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 552466,
+        "num": 552466,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 3,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 515707,
+        "num": 515707,
+        "word": "金龟子王宁结婚三十多年几乎不吵架",
+        "onboard_time": 1697957791,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 583338,
+        "num": 514036,
+        "word": "以色列再次空袭叙利亚两座机场",
+        "onboard_time": 1697957371,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 511620,
+        "num": 511620,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 6,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 501392,
+        "num": 501392,
+        "word": "KFC联名JOJO",
+        "onboard_time": 1697958989,
+        "rank": 7,
+        "category": "动漫,美食"
+      },
+      {
+        "raw_hot": 391644,
+        "num": 391644,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 8,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 355502,
+        "num": 355502,
+        "word": "独子去世离异父母各分走一半骨灰",
+        "onboard_time": 1697949692,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 847580,
+        "num": 354754,
+        "word": "纽约鼠灾",
+        "onboard_time": 1697951134,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 350983,
+        "num": 350983,
+        "word": "河边的错误",
+        "onboard_time": 1697961093,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 343146,
+        "num": 343146,
+        "word": "迪丽热巴希腊女神妆",
+        "onboard_time": 1697948012,
+        "rank": 12,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 324916,
+        "num": 324916,
+        "word": "曾舜晞说莲花楼全员都希望再度合作",
+        "onboard_time": 1697958932,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288964,
+        "num": 288964,
+        "word": "王鹤棣晒Hi6大合照",
+        "onboard_time": 1697961213,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269038,
+        "num": 269038,
+        "word": "海顿格温去世",
+        "onboard_time": 1697956829,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258343,
+        "num": 258343,
+        "word": "儿子溺亡16年后爸爸跳河救人牺牲",
+        "onboard_time": 1697948012,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251840,
+        "num": 251840,
+        "word": "成毅 老实人勇闯娱乐圈",
+        "onboard_time": 1697953170,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239211,
+        "num": 239211,
+        "word": "T1战胜C9",
+        "onboard_time": 1697960971,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 226566,
+        "num": 226566,
+        "word": "伴郎接到手捧花瞬间奔向女友",
+        "onboard_time": 1697960909,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289884,
+        "num": 226315,
+        "word": "女生被男同学抱摔致门牙断裂",
+        "onboard_time": 1697957489,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231660,
+        "num": 225630,
+        "word": "felix背部纹身",
+        "onboard_time": 1697960670,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224863,
+        "num": 224863,
+        "word": "人一旦养了猫",
+        "onboard_time": 1697958030,
+        "rank": 22,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 206912,
+        "num": 206912,
+        "word": "双十一买苹果还是华为",
+        "onboard_time": 1697957430,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 204619,
+        "num": 204619,
+        "word": "猫为咬这一口做了300个假动作",
+        "onboard_time": 1697960789,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 191988,
+        "num": 191988,
+        "word": "房东习惯性打招呼救下租客一命",
+        "onboard_time": 1697954852,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 178382,
+        "num": 178382,
+        "word": "就差报周翊然身份证了",
+        "onboard_time": 1697952631,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176282,
+        "num": 176282,
+        "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
+        "onboard_time": 1697956410,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 169082,
+        "num": 169082,
+        "word": "河边的错误开分9.2",
+        "onboard_time": 1697949811,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163971,
+        "num": 163971,
+        "word": "姐妹这是罗一舟本人",
+        "onboard_time": 1697959771,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527138,
+        "num": 160654,
+        "word": "被男友用U型锁打死女子亲属发声",
+        "onboard_time": 1697950232,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 149256,
+        "num": 149256,
+        "word": "黄奕cos奥黛丽赫本",
+        "onboard_time": 1697953112,
+        "rank": 31,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 148245,
+        "num": 148245,
+        "word": "女子网购猫粮发现包装有针孔",
+        "onboard_time": 1697950351,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147232,
+        "num": 147232,
+        "word": "宋轶说自信的人更能向下兼容",
+        "onboard_time": 1697959831,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144420,
+        "num": 144420,
+        "word": "河边的错误 一千个人一亿个哈姆雷特",
+        "onboard_time": 1697946333,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135139,
+        "num": 135139,
+        "word": "杨丞琳匿名的好友全场大合唱",
+        "onboard_time": 1697962472,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 134197,
+        "num": 134197,
+        "word": "当专业医生看医疗剧问心",
+        "onboard_time": 1697961391,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131361,
+        "num": 131361,
+        "word": "张元英宣美跳Baddie",
+        "onboard_time": 1697960191,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 124325,
+        "num": 124325,
+        "word": "欧阳娜娜妹妹给她织的小包包",
+        "onboard_time": 1697958989,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120201,
+        "num": 120201,
+        "word": "苹果CEO库克称超95%产品在中国造",
+        "onboard_time": 1697952037,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116603,
+        "num": 116603,
+        "word": "985名校硕士因本科普通被多家企业婉拒",
+        "onboard_time": 1697934390,
+        "rank": 40,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 115323,
+        "num": 115323,
+        "word": "好莱坞谁来演你好李焕英",
+        "onboard_time": 1697959232,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113212,
+        "num": 113212,
+        "word": "陈哲远无声吃播",
+        "onboard_time": 1697958691,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105795,
+        "num": 105795,
+        "word": "福富月Natty认哥舞蹈cut",
+        "onboard_time": 1697962230,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103840,
+        "num": 103840,
+        "word": "丁程鑫干完坏事藏不了一点",
+        "onboard_time": 1697958209,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102659,
+        "num": 102659,
+        "word": "90岁老人分手后去前女友家纵火获刑",
+        "onboard_time": 1697948552,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100906,
+        "num": 100906,
+        "word": "兰博基尼被踩车主称不和解",
+        "onboard_time": 1697943992,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98051,
+        "num": 98051,
+        "word": "问心爱情公寓梦幻联动",
+        "onboard_time": 1697958452,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97672,
+        "num": 97672,
+        "word": "中国足协负债12亿",
+        "onboard_time": 1697944352,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91425,
+        "num": 91425,
+        "word": "深夜民警一句话打消准妈妈轻生念头",
+        "onboard_time": 1697961870,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的100个故事#"
+    }
+  }
+}

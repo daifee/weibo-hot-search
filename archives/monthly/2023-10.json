@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1697960035049,
+  "endTime": 1697962786772,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -3425,6 +3425,14 @@
       "onboard_time": 1697951134,
       "rank": 31,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1567733,
+      "num": 1567733,
+      "word": "于文文问微信撤回为什么要留痕迹",
+      "onboard_time": 1697960789,
+      "rank": 1,
+      "category": "综艺"
     },
     {
       "raw_hot": 1566499,
@@ -15651,6 +15659,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 515707,
+      "num": 515707,
+      "word": "金龟子王宁结婚三十多年几乎不吵架",
+      "onboard_time": 1697957791,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 515519,
       "num": 515519,
       "word": "班主任自费千元组织学生看电影志愿军",
@@ -15825,14 +15841,6 @@
       "onboard_time": 1697159856,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 510682,
-      "num": 307900,
-      "word": "金龟子王宁结婚三十多年几乎不吵架",
-      "onboard_time": 1697957791,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 510232,
@@ -16145,6 +16153,14 @@
       "onboard_time": 1697712756,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 501392,
+      "num": 501392,
+      "word": "KFC联名JOJO",
+      "onboard_time": 1697958989,
+      "rank": 17,
+      "category": "动漫,美食"
     },
     {
       "raw_hot": 501160,
@@ -21028,7 +21044,7 @@
     },
     {
       "raw_hot": 397794,
-      "num": 208531,
+      "num": 226315,
       "word": "女生被男同学抱摔致门牙断裂",
       "onboard_time": 1697957489,
       "rank": 20,
@@ -22676,7 +22692,7 @@
     },
     {
       "raw_hot": 369342,
-      "num": 280586,
+      "num": 343146,
       "word": "迪丽热巴希腊女神妆",
       "onboard_time": 1697948012,
       "rank": 29,
@@ -23937,6 +23953,14 @@
       "onboard_time": 1697255310,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 350983,
+      "num": 350983,
+      "word": "河边的错误",
+      "onboard_time": 1696731871,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 350875,
@@ -25857,6 +25881,14 @@
       "onboard_time": 1697875352,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 324916,
+      "num": 324916,
+      "word": "曾舜晞说莲花楼全员都希望再度合作",
+      "onboard_time": 1697958932,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 324704,
@@ -28835,6 +28867,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288964,
+      "num": 288964,
+      "word": "王鹤棣晒Hi6大合照",
+      "onboard_time": 1697961213,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288948,
       "num": 288948,
       "word": "现在的韩剧需要南柱赫",
@@ -31323,14 +31363,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 267456,
-      "num": 267456,
-      "word": "曾舜晞说莲花楼全员都希望再度合作",
-      "onboard_time": 1697958932,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267426,
       "num": 267426,
       "word": "陈汉典获奖感谢小S蔡康永",
@@ -31801,14 +31833,6 @@
       "onboard_time": 1697770830,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263544,
-      "num": 263544,
-      "word": "河边的错误",
-      "onboard_time": 1696731871,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 263485,
@@ -32953,14 +32977,6 @@
       "onboard_time": 1697277032,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 254504,
-      "num": 254504,
-      "word": "KFC联名JOJO",
-      "onboard_time": 1697958989,
-      "rank": 17,
-      "category": "动漫,美食"
     },
     {
       "raw_hot": 254345,
@@ -34851,6 +34867,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239211,
+      "num": 239211,
+      "word": "T1战胜C9",
+      "onboard_time": 1697960971,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 239188,
       "num": 239188,
       "word": "分享结扎经历被嘲太监当事人发声",
@@ -35963,6 +35987,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 231660,
+      "num": 225630,
+      "word": "felix背部纹身",
+      "onboard_time": 1697960670,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231641,
       "num": 305929,
       "word": "建议吴京别看这期王牌",
@@ -36643,6 +36675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226566,
+      "num": 226566,
+      "word": "伴郎接到手捧花瞬间奔向女友",
+      "onboard_time": 1697960909,
+      "rank": 19,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 226560,
       "num": 226560,
       "word": "陈飞宇 为志愿军配音差点缺氧晕倒",
@@ -36945,6 +36985,14 @@
       "onboard_time": 1697531736,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 224863,
+      "num": 224863,
+      "word": "人一旦养了猫",
+      "onboard_time": 1697958030,
+      "rank": 35,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 224854,
@@ -39811,6 +39859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206912,
+      "num": 206912,
+      "word": "双十一买苹果还是华为",
+      "onboard_time": 1697957430,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 206900,
       "num": 206900,
       "word": "时装周最出圈明星前三",
@@ -40393,6 +40449,14 @@
       "onboard_time": 1697331570,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204619,
+      "num": 204619,
+      "word": "猫为咬这一口做了300个假动作",
+      "onboard_time": 1697960789,
+      "rank": 24,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 204610,
@@ -45003,14 +45067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 187072,
-      "num": 187072,
-      "word": "人一旦养了猫",
-      "onboard_time": 1697958030,
-      "rank": 35,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 187050,
       "num": 203097,
       "word": "消防员救70000只鸡养鸡大户拎鸡感谢",
@@ -49363,6 +49419,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 163971,
+      "num": 163971,
+      "word": "姐妹这是罗一舟本人",
+      "onboard_time": 1697959771,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163937,
       "num": 163937,
       "word": "陈哲远我那运动风男友",
@@ -51883,14 +51947,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149485,
-      "num": 149485,
-      "word": "双十一买苹果还是华为",
-      "onboard_time": 1697957430,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 149372,
       "num": 149372,
       "word": "李雪健提名金鸡最佳男配角",
@@ -52249,6 +52305,14 @@
       "onboard_time": 1697852252,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147232,
+      "num": 147232,
+      "word": "宋轶说自信的人更能向下兼容",
+      "onboard_time": 1697959831,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 147160,
@@ -53947,6 +54011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135139,
+      "num": 135139,
+      "word": "杨丞琳匿名的好友全场大合唱",
+      "onboard_time": 1697962472,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135090,
       "num": 135090,
       "word": "关爱流浪动物",
@@ -54040,6 +54112,14 @@
       "word": "大唐小吃货2开播",
       "onboard_time": 1696210951,
       "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134197,
+      "num": 134197,
+      "word": "当专业医生看医疗剧问心",
+      "onboard_time": 1697961391,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -54393,6 +54473,14 @@
       "onboard_time": 1696318892,
       "rank": 36,
       "category": "音乐,体育"
+    },
+    {
+      "raw_hot": 131361,
+      "num": 131361,
+      "word": "张元英宣美跳Baddie",
+      "onboard_time": 1697960191,
+      "rank": 37,
+      "category": "音乐"
     },
     {
       "raw_hot": 131317,
@@ -56675,6 +56763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105795,
+      "num": 105795,
+      "word": "福富月Natty认哥舞蹈cut",
+      "onboard_time": 1697962230,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105610,
       "num": 319116,
       "word": "00后rap喊话让世界记住中国珍珠",
@@ -57011,28 +57107,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 100197,
-      "num": 100197,
-      "word": "宋轶说自信的人更能向下兼容",
-      "onboard_time": 1697959831,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100044,
       "num": 80148,
       "word": "很难看清的小鸭子",
       "onboard_time": 1696548383,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99903,
-      "num": 99903,
-      "word": "姐妹这是罗一舟本人",
-      "onboard_time": 1697959771,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 99887,
@@ -57456,6 +57536,14 @@
       "word": "7旬老人骑车摔倒警方出手救助",
       "onboard_time": 1697709993,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 91425,
+      "num": 91425,
+      "word": "深夜民警一句话打消准妈妈轻生念头",
+      "onboard_time": 1697961870,
+      "rank": 49,
       "category": "社会新闻"
     },
     {
@@ -59444,7 +59532,7 @@
     },
     {
       "raw_hot": 46038,
-      "num": 685250,
+      "num": 1051601,
       "word": "杭州亚残运会观赛指南",
       "onboard_time": 1697944291,
       "rank": 2,
