@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697987812893,
+  "endTime": 1697988834062,
   "band_list": [
     {
       "raw_hot": 2488322,
@@ -67,6 +67,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1643878,
+      "num": 1643878,
+      "word": "27岁女子长期横向刷牙致牙齿缺损",
+      "onboard_time": 1697986297,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1608789,
       "num": 1608789,
       "word": "于文文问微信撤回为什么要留痕迹",
@@ -105,14 +113,6 @@
       "onboard_time": 1697933727,
       "rank": 0,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 1296873,
-      "num": 1296873,
-      "word": "27岁女子长期横向刷牙致牙齿缺损",
-      "onboard_time": 1697986297,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1279678,
@@ -161,6 +161,14 @@
       "onboard_time": 1697972672,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1055014,
+      "num": 393005,
+      "word": "女子带婴儿被3条流浪狗围攻咬伤",
+      "onboard_time": 1697986357,
+      "rank": 11,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1043773,
@@ -363,6 +371,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 622620,
+      "num": 622620,
+      "word": "可可西里野狼被游客投喂胖成网红",
+      "onboard_time": 1697984554,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 604703,
       "num": 426973,
       "word": "成毅 老实人勇闯娱乐圈",
@@ -435,20 +451,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 547724,
-      "num": 547724,
-      "word": "可可西里野狼被游客投喂胖成网红",
-      "onboard_time": 1697984554,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 539059,
-      "num": 393005,
-      "word": "女子带婴儿被3条流浪狗围攻咬伤",
-      "onboard_time": 1697986357,
-      "rank": 11,
-      "category": "社会新闻"
+      "raw_hot": 540301,
+      "num": 540301,
+      "word": "巴勒斯坦运动员入场受到热烈欢迎",
+      "onboard_time": 1697985938,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 533054,
@@ -465,14 +473,6 @@
       "onboard_time": 1697971771,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 532905,
-      "num": 391130,
-      "word": "巴勒斯坦运动员入场受到热烈欢迎",
-      "onboard_time": 1697985938,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 530364,
@@ -739,6 +739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 411303,
+      "num": 411303,
+      "word": "新裤子 开蹦",
+      "onboard_time": 1697986476,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 410418,
       "num": 410418,
       "word": "林娜琏MOMO朴志效舞台",
@@ -811,14 +819,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 387542,
-      "num": 387542,
-      "word": "新裤子 开蹦",
-      "onboard_time": 1697986476,
-      "rank": 13,
-      "category": "演出"
-    },
-    {
       "raw_hot": 385650,
       "num": 309907,
       "word": "丁程鑫秦霄贤去看黄明昊演唱会",
@@ -865,6 +865,30 @@
       "onboard_time": 1697977770,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 360510,
+      "num": 360510,
+      "word": "郭麒麟说我有点儿可怜我爸",
+      "onboard_time": 1697987497,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 354854,
+      "num": 320897,
+      "word": "林一演出我心目中的痞帅校霸",
+      "onboard_time": 1697986717,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 353305,
+      "num": 353305,
+      "word": "初中生拉开同学座椅致其后仰摔成重伤",
+      "onboard_time": 1697985214,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352911,
@@ -915,28 +939,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 331808,
-      "num": 331808,
-      "word": "郭麒麟说我有点儿可怜我爸",
-      "onboard_time": 1697987497,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 327871,
       "num": 327871,
       "word": "巴勒斯坦问题峰会",
       "onboard_time": 1697935949,
       "rank": 18,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 326703,
-      "num": 320897,
-      "word": "林一演出我心目中的痞帅校霸",
-      "onboard_time": 1697986717,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 325930,
@@ -953,14 +961,6 @@
       "onboard_time": 1697958932,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 324878,
-      "num": 324878,
-      "word": "初中生拉开同学座椅致其后仰摔成重伤",
-      "onboard_time": 1697985214,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 324696,
@@ -1827,6 +1827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178114,
+      "num": 178114,
+      "word": "罕见白血病患儿父母每天摆摊到深夜",
+      "onboard_time": 1697988454,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 177742,
       "num": 177742,
       "word": "莲花楼 缠人老笛",
@@ -1977,6 +1985,14 @@
       "onboard_time": 1697958209,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159864,
+      "num": 159864,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1697988695,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 159678,
@@ -2209,6 +2225,14 @@
       "onboard_time": 1697974232,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141404,
+      "num": 141404,
+      "word": "24考研英语石雷鹏功能句",
+      "onboard_time": 1697988634,
+      "rank": 39,
+      "category": "教育"
     },
     {
       "raw_hot": 141176,

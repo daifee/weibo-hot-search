@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 23:16:52
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/22 23:33:54
 </p>
 </blockquote>
 <p>
@@ -2355,6 +2355,12 @@ Taylor Swift: The Eras Tour有望引进（热度：1687997）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F%23" target="weibo">
+27岁女子长期横向刷牙致牙齿缺损（热度：1643878）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E6%96%B0%E7%89%87%E5%B0%BA%E5%BA%A6%23" target="weibo">
 张小斐新片尺度（热度：1643228）
 </a>
@@ -3561,12 +3567,6 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2327%E5%B2%81%E5%A5%B3%E5%AD%90%E9%95%BF%E6%9C%9F%E6%A8%AA%E5%90%91%E5%88%B7%E7%89%99%E8%87%B4%E7%89%99%E9%BD%BF%E7%BC%BA%E6%8D%9F%23" target="weibo">
-27岁女子长期横向刷牙致牙齿缺损（热度：1296873）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%84%A7%E6%98%AF%E5%8C%97%E5%A4%A7%20%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E7%AD%BE%E5%88%B0%E6%96%B9%E5%BC%8F%23" target="weibo">
 不愧是北大 好歹毒的签到方式（热度：1295168）
 </a>
@@ -4577,6 +4577,12 @@ DK 疯牛病（热度：1059512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E8%89%BE%E4%BC%A6%20%E6%88%91%E8%85%BF%E5%AE%8C%E8%9B%8B%E4%BA%86%23" target="weibo">
 郭艾伦 我腿完蛋了（热度：1056333）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B8%A6%E5%A9%B4%E5%84%BF%E8%A2%AB3%E6%9D%A1%E6%B5%81%E6%B5%AA%E7%8B%97%E5%9B%B4%E6%94%BB%E5%92%AC%E4%BC%A4%23" target="weibo">
+女子带婴儿被3条流浪狗围攻咬伤（热度：1055014）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%A2%A6%E8%BE%B0%E6%8B%8D%E4%BA%86%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%B8%93%E8%BE%91%E5%B0%81%E9%9D%A2%E5%90%8C%E6%AC%BE%E7%85%A7%23" target="weibo">
 沈梦辰拍了周杰伦专辑封面同款照（热度：872868）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%9B%8A%E6%98%AF%E5%A5%B3%E6%80%A7%E8%BA%AB%E4%BD%93%E7%9A%84%E4%BF%9D%E6%8A%A4%E6%9C%BA%E5%88%B6%23" target="weibo">
-多囊是女性身体的保护机制（热度：872477）
 </a>
 </li>
 
