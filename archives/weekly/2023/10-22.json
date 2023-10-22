@@ -1,10 +1,10 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697958885850,
+  "endTime": 1697960035049,
   "band_list": [
     {
-      "raw_hot": 2050805,
-      "num": 2050805,
+      "raw_hot": 2427786,
+      "num": 2427786,
       "word": "上四休三工资九折你愿意吗",
       "onboard_time": 1697956289,
       "rank": 8,
@@ -115,6 +115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 982206,
+      "num": 670539,
+      "word": "以色列再次空袭叙利亚两座机场",
+      "onboard_time": 1697957371,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 952431,
       "num": 952431,
       "word": "何炅说第一次见黄子韬是19岁",
@@ -129,14 +137,6 @@
       "onboard_time": 1697899240,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 888632,
-      "num": 670539,
-      "word": "以色列再次空袭叙利亚两座机场",
-      "onboard_time": 1697957371,
-      "rank": 5,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 830837,
@@ -249,6 +249,14 @@
       "onboard_time": 1697952631,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 510682,
+      "num": 307900,
+      "word": "金龟子王宁结婚三十多年几乎不吵架",
+      "onboard_time": 1697957791,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 506754,
@@ -371,6 +379,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 397794,
+      "num": 208531,
+      "word": "女生被男同学抱摔致门牙断裂",
+      "onboard_time": 1697957489,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392116,
       "num": 392116,
       "word": "女子网购猫粮发现包装有针孔",
@@ -388,7 +404,7 @@
     },
     {
       "raw_hot": 369342,
-      "num": 249116,
+      "num": 280586,
       "word": "迪丽热巴希腊女神妆",
       "onboard_time": 1697948012,
       "rank": 29,
@@ -403,28 +419,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 367761,
-      "num": 187323,
-      "word": "女生被男同学抱摔致门牙断裂",
-      "onboard_time": 1697957489,
-      "rank": 20,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 366174,
       "num": 299109,
       "word": "张大大说有很多艺人潜伏在我直播间",
       "onboard_time": 1697901459,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 358108,
-      "num": 146259,
-      "word": "金龟子王宁结婚三十多年几乎不吵架",
-      "onboard_time": 1697957791,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 351754,
@@ -481,6 +481,14 @@
       "onboard_time": 1697942551,
       "rank": 13,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 308023,
+      "num": 308023,
+      "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
+      "onboard_time": 1697956410,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 307819,
@@ -587,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 267456,
+      "num": 267456,
+      "word": "曾舜晞说莲花楼全员都希望再度合作",
+      "onboard_time": 1697958932,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 266480,
       "num": 266480,
       "word": "白鹿郑书意",
@@ -603,20 +619,20 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 260889,
-      "num": 260889,
-      "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
-      "onboard_time": 1697956410,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 256158,
       "num": 210135,
       "word": "这就是街舞",
       "onboard_time": 1697892574,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 254504,
+      "num": 254504,
+      "word": "KFC联名JOJO",
+      "onboard_time": 1697958989,
+      "rank": 17,
+      "category": "动漫,美食"
     },
     {
       "raw_hot": 252552,
@@ -811,6 +827,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199578,
+      "num": 199578,
+      "word": "欧阳娜娜妹妹给她织的小包包",
+      "onboard_time": 1697958989,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 198528,
       "num": 198528,
       "word": "李玟母亲痛斥李玟丈夫出轨",
@@ -867,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187072,
+      "num": 187072,
+      "word": "人一旦养了猫",
+      "onboard_time": 1697958030,
+      "rank": 35,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 182515,
       "num": 199740,
       "word": "女子称买烤鸭遇店员做假动作片肉",
@@ -881,6 +913,14 @@
       "onboard_time": 1697950654,
       "rank": 30,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 178584,
+      "num": 178584,
+      "word": "陈哲远无声吃播",
+      "onboard_time": 1697958691,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 178309,
@@ -963,6 +1003,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 159986,
+      "num": 159986,
+      "word": "丁程鑫干完坏事藏不了一点",
+      "onboard_time": 1697958209,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158647,
       "num": 158647,
       "word": "这里的鱼犯天条了吗",
@@ -977,6 +1025,14 @@
       "onboard_time": 1697957912,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157611,
+      "num": 157611,
+      "word": "好莱坞谁来演你好李焕英",
+      "onboard_time": 1697959232,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 155797,
@@ -1059,6 +1115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149485,
+      "num": 149485,
+      "word": "双十一买苹果还是华为",
+      "onboard_time": 1697957430,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 149346,
       "num": 149346,
       "word": "AG 上上签",
@@ -1073,14 +1137,6 @@
       "onboard_time": 1697956410,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147109,
-      "num": 147109,
-      "word": "双十一买苹果还是华为",
-      "onboard_time": 1697957430,
-      "rank": 29,
-      "category": "数码"
     },
     {
       "raw_hot": 146664,
@@ -1163,36 +1219,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135780,
-      "num": 135780,
-      "word": "丁程鑫干完坏事藏不了一点",
-      "onboard_time": 1697958209,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 135355,
-      "num": 135355,
-      "word": "人一旦养了猫",
-      "onboard_time": 1697958030,
-      "rank": 35,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 132487,
       "num": 206350,
       "word": "00后教天猫做双11",
       "onboard_time": 1697943872,
       "rank": 18,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 132228,
-      "num": 132228,
-      "word": "陈哲远无声吃播",
-      "onboard_time": 1697958691,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 131170,
@@ -1209,6 +1241,14 @@
       "onboard_time": 1697940153,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128986,
+      "num": 128986,
+      "word": "问心爱情公寓梦幻联动",
+      "onboard_time": 1697958452,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 128402,
@@ -1233,14 +1273,6 @@
       "onboard_time": 1697877034,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125598,
-      "num": 125598,
-      "word": "问心爱情公寓梦幻联动",
-      "onboard_time": 1697958452,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 124411,
@@ -1443,6 +1475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102735,
+      "num": 102735,
+      "word": "女生清唱戏曲一张口就被惊艳到",
+      "onboard_time": 1697959408,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102373,
       "num": 213838,
       "word": "许亮的锦旗 致死扶伤",
@@ -1465,6 +1505,22 @@
       "onboard_time": 1697930001,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100197,
+      "num": 100197,
+      "word": "宋轶说自信的人更能向下兼容",
+      "onboard_time": 1697959831,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99903,
+      "num": 99903,
+      "word": "姐妹这是罗一舟本人",
+      "onboard_time": 1697959771,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 99867,
