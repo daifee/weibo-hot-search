@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697981634888,
+  "endTime": 1697984072746,
   "band_list": [
     {
       "raw_hot": 2488322,
@@ -91,6 +91,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1371488,
+      "num": 1371488,
+      "word": "花花这班上的太委屈了",
+      "onboard_time": 1697979033,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1324642,
       "num": 1324642,
       "word": "佛山电翰式化妆",
@@ -179,19 +187,19 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 953556,
-      "num": 953556,
-      "word": "花花这班上的太委屈了",
-      "onboard_time": 1697979033,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 952431,
       "num": 952431,
       "word": "何炅说第一次见黄子韬是19岁",
       "onboard_time": 1697901875,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 900690,
+      "num": 900690,
+      "word": "曾舜晞录综艺带了10套衣服",
+      "onboard_time": 1697980413,
+      "rank": 26,
       "category": "综艺"
     },
     {
@@ -251,6 +259,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 695795,
+      "num": 695795,
+      "word": "外交部回应中国海警拦阻菲船只",
+      "onboard_time": 1697982996,
+      "rank": 4,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 682257,
       "num": 682257,
       "word": "爷爷奶奶有一千多万还在当保洁",
@@ -299,6 +315,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 636843,
+      "num": 636843,
+      "word": "原来薛之谦戚薇刘维早都认识了",
+      "onboard_time": 1697981857,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 631236,
+      "num": 422663,
+      "word": "黄明昊林一troublemaker",
+      "onboard_time": 1697979572,
+      "rank": 11,
+      "category": "演出"
+    },
+    {
       "raw_hot": 626075,
       "num": 626075,
       "word": "菲船恶意碰瓷",
@@ -313,14 +345,6 @@
       "onboard_time": 1697953170,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 603875,
-      "num": 370491,
-      "word": "黄明昊林一troublemaker",
-      "onboard_time": 1697979572,
-      "rank": 11,
-      "category": "演出"
     },
     {
       "raw_hot": 594789,
@@ -443,14 +467,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 502396,
-      "num": 366529,
-      "word": "曾舜晞录综艺带了10套衣服",
-      "onboard_time": 1697980413,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 501392,
       "num": 501392,
       "word": "KFC联名JOJO",
@@ -473,6 +489,14 @@
       "onboard_time": 1697938107,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 488421,
+      "num": 488421,
+      "word": "张栋梁的名字被哥哥们玩坏了",
+      "onboard_time": 1697982393,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 486804,
@@ -523,6 +547,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 454816,
+      "num": 454816,
+      "word": "巴以冲突超5800人死亡",
+      "onboard_time": 1697978911,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 452612,
       "num": 399668,
       "word": "所谓鬼压床不是鬼魂在作怪",
@@ -569,6 +601,14 @@
       "onboard_time": 1697956829,
       "rank": 8,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439827,
+      "num": 282312,
+      "word": "12306回应火车卧铺上疑有排泄物",
+      "onboard_time": 1697983113,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 438591,
@@ -659,6 +699,14 @@
       "category": "幽默,艺人"
     },
     {
+      "raw_hot": 406649,
+      "num": 406649,
+      "word": "丹麦赛陈雨菲女单夺冠",
+      "onboard_time": 1697982693,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 397794,
       "num": 226315,
       "word": "女生被男同学抱摔致门牙断裂",
@@ -689,6 +737,14 @@
       "onboard_time": 1697972372,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 385650,
+      "num": 309907,
+      "word": "丁程鑫秦霄贤去看黄明昊演唱会",
+      "onboard_time": 1697982456,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 381755,
@@ -779,6 +835,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 325930,
+      "num": 274593,
+      "word": "成毅换新头像",
+      "onboard_time": 1697981613,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 324916,
       "num": 324916,
       "word": "曾舜晞说莲花楼全员都希望再度合作",
@@ -801,6 +865,14 @@
       "onboard_time": 1697891674,
       "rank": 11,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 317414,
+      "num": 264078,
+      "word": "新婚夫妻度蜜月飞机窗上贴喜字留念",
+      "onboard_time": 1697981791,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317341,
@@ -835,12 +907,12 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 312613,
-      "num": 376698,
-      "word": "巴以冲突超5800人死亡",
-      "onboard_time": 1697978911,
-      "rank": 19,
-      "category": "国外要闻"
+      "raw_hot": 310914,
+      "num": 310914,
+      "word": "从此再无坚定选择她的哥哥",
+      "onboard_time": 1697982456,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 308023,
@@ -857,14 +929,6 @@
       "onboard_time": 1697949811,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 306827,
-      "num": 208319,
-      "word": "成毅换新头像",
-      "onboard_time": 1697981613,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 306014,
@@ -892,7 +956,7 @@
     },
     {
       "raw_hot": 305037,
-      "num": 183473,
+      "num": 218406,
       "word": "KSG 又一个汗流浃背",
       "onboard_time": 1697981312,
       "rank": 30,
@@ -1155,6 +1219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228370,
+      "num": 228370,
+      "word": "高圆圆去看乐队的夏天演唱会",
+      "onboard_time": 1697981492,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 224863,
       "num": 224863,
       "word": "人一旦养了猫",
@@ -1201,6 +1273,14 @@
       "onboard_time": 1697968290,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 220154,
+      "num": 220154,
+      "word": "张萌说我赚钱你敢花吗",
+      "onboard_time": 1697982334,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 218873,
@@ -1411,6 +1491,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195591,
+      "num": 195591,
+      "word": "哥哥替父亲送妹妹出嫁泪崩",
+      "onboard_time": 1697983474,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 195078,
       "num": 195078,
       "word": "英雄联盟",
@@ -1593,6 +1681,14 @@
       "onboard_time": 1697935711,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173196,
+      "num": 173196,
+      "word": "白敬亭工作室发了11张照片",
+      "onboard_time": 1697984015,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 172698,
@@ -1819,6 +1915,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152401,
+      "num": 135509,
+      "word": "田耕纪里的NPC",
+      "onboard_time": 1697983355,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151879,
       "num": 151879,
       "word": "我们是姐妹 但是我们不熟",
@@ -1963,14 +2067,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 138709,
-      "num": 138709,
-      "word": "高圆圆去看乐队的夏天演唱会",
-      "onboard_time": 1697981492,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 138557,
       "num": 138557,
       "word": "周也 素却有力的美",
@@ -2001,6 +2097,14 @@
       "onboard_time": 1697972190,
       "rank": 31,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132963,
+      "num": 132963,
+      "word": "李沁美拉德流苏外套",
+      "onboard_time": 1697983716,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 132672,
@@ -2243,6 +2347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112630,
+      "num": 132040,
+      "word": "钟汉良表演现实版困兽",
+      "onboard_time": 1697983957,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112521,
       "num": 132617,
       "word": "方筱然害怕到手抖好真实",
@@ -2345,6 +2457,14 @@
       "onboard_time": 1697930362,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105067,
+      "num": 132034,
+      "word": "科威特运动员在轮椅上舞蹈",
+      "onboard_time": 1697982813,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 104405,
@@ -2569,6 +2689,14 @@
       "onboard_time": 1697901097,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 80008,
+      "num": 1053280,
+      "word": "未来15年中国深空探测十大工程",
+      "onboard_time": 1697982273,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 79674,

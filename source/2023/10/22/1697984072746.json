@@ -1,0 +1,410 @@
+{
+  "runTime": 1697984072746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537639,
+        "num": 1537639,
+        "word": "富士康被查",
+        "onboard_time": 1697974232,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1371488,
+        "num": 1371488,
+        "word": "花花这班上的太委屈了",
+        "onboard_time": 1697979033,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 80008,
+        "num": 1053280,
+        "word": "未来15年中国深空探测十大工程",
+        "onboard_time": 1697982273,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 900690,
+        "num": 900690,
+        "word": "曾舜晞录综艺带了10套衣服",
+        "onboard_time": 1697980413,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 695795,
+        "num": 695795,
+        "word": "外交部回应中国海警拦阻菲船只",
+        "onboard_time": 1697982996,
+        "rank": 4,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 636843,
+        "num": 636843,
+        "word": "原来薛之谦戚薇刘维早都认识了",
+        "onboard_time": 1697981857,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532683,
+        "num": 532683,
+        "word": "最贵不到30块的平价美妆单品",
+        "onboard_time": 1697974410,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 488778,
+        "num": 488778,
+        "word": "Xiaohu伏地魔",
+        "onboard_time": 1697976813,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 488421,
+        "num": 488421,
+        "word": "张栋梁的名字被哥哥们玩坏了",
+        "onboard_time": 1697982393,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 454816,
+        "num": 454816,
+        "word": "巴以冲突超5800人死亡",
+        "onboard_time": 1697978911,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 979461,
+        "num": 435047,
+        "word": "30岁有十万存款算什么水平",
+        "onboard_time": 1697965891,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 631236,
+        "num": 422663,
+        "word": "黄明昊林一troublemaker",
+        "onboard_time": 1697979572,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 406649,
+        "num": 406649,
+        "word": "丹麦赛陈雨菲女单夺冠",
+        "onboard_time": 1697982693,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392289,
+        "num": 392289,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328778,
+        "num": 328778,
+        "word": "钟楚曦张云龙合拍剧宣",
+        "onboard_time": 1697975670,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310914,
+        "num": 310914,
+        "word": "从此再无坚定选择她的哥哥",
+        "onboard_time": 1697982456,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 385650,
+        "num": 309907,
+        "word": "丁程鑫秦霄贤去看黄明昊演唱会",
+        "onboard_time": 1697982456,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 304803,
+        "num": 304803,
+        "word": "杨丞琳 我怎么突然冒出来这么多男粉",
+        "onboard_time": 1697977890,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 292443,
+        "num": 292443,
+        "word": "男子遭楼下老人砸门咒骂1年暴瘦20斤",
+        "onboard_time": 1697968954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289560,
+        "num": 289560,
+        "word": "周也清水妆",
+        "onboard_time": 1697973690,
+        "rank": 19,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 439827,
+        "num": 282312,
+        "word": "12306回应火车卧铺上疑有排泄物",
+        "onboard_time": 1697983113,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325930,
+        "num": 274593,
+        "word": "成毅换新头像",
+        "onboard_time": 1697981613,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317414,
+        "num": 264078,
+        "word": "新婚夫妻度蜜月飞机窗上贴喜字留念",
+        "onboard_time": 1697981791,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251263,
+        "num": 251263,
+        "word": "仲溪午上桌了",
+        "onboard_time": 1697977770,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242300,
+        "num": 242300,
+        "word": "WBG掉入瑞士轮生死局",
+        "onboard_time": 1697973510,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 231454,
+        "num": 231454,
+        "word": "赵露思做了芋儿鸡",
+        "onboard_time": 1697975430,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228370,
+        "num": 228370,
+        "word": "高圆圆去看乐队的夏天演唱会",
+        "onboard_time": 1697981492,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228339,
+        "num": 228339,
+        "word": "因母胎血型不合女子怀孕3次都死胎",
+        "onboard_time": 1697967931,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220154,
+        "num": 220154,
+        "word": "张萌说我赚钱你敢花吗",
+        "onboard_time": 1697982334,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218406,
+        "num": 218406,
+        "word": "KSG 又一个汗流浃背",
+        "onboard_time": 1697981312,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 219334,
+        "num": 213284,
+        "word": "张晚意 致玱玹",
+        "onboard_time": 1697976511,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195591,
+        "num": 195591,
+        "word": "哥哥替父亲送妹妹出嫁泪崩",
+        "onboard_time": 1697983474,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173482,
+        "num": 173482,
+        "word": "那些kpop爱豆的本命舞蹈",
+        "onboard_time": 1697978311,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173196,
+        "num": 173196,
+        "word": "白敬亭工作室发了11张照片",
+        "onboard_time": 1697984015,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172849,
+        "num": 172849,
+        "word": "易梦玲大梦归离古装路透",
+        "onboard_time": 1697979872,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171133,
+        "num": 171133,
+        "word": "以色列内阁投票撤销该国公共外交部",
+        "onboard_time": 1697963420,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 166414,
+        "num": 166414,
+        "word": "为有暗香来",
+        "onboard_time": 1697971771,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159251,
+        "num": 159251,
+        "word": "TheShy 来还债的",
+        "onboard_time": 1697973391,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156478,
+        "num": 156478,
+        "word": "2万6千部手机刷直播间人气",
+        "onboard_time": 1697967870,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135842,
+        "num": 135842,
+        "word": "美在我重点国防军工单位安插眼线",
+        "onboard_time": 1697965531,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152401,
+        "num": 135509,
+        "word": "田耕纪里的NPC",
+        "onboard_time": 1697983355,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133905,
+        "num": 133905,
+        "word": "WBG 心态崩了",
+        "onboard_time": 1697972190,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150535,
+        "num": 133881,
+        "word": "沈诺真的是国舅爷",
+        "onboard_time": 1697978970,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133747,
+        "num": 133747,
+        "word": "河边的错误",
+        "onboard_time": 1697961093,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133344,
+        "num": 133344,
+        "word": "上四休三工资九折你愿意吗",
+        "onboard_time": 1697956289,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132963,
+        "num": 132963,
+        "word": "李沁美拉德流苏外套",
+        "onboard_time": 1697983716,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 132155,
+        "num": 132155,
+        "word": "最舍不得删的一张王者截图",
+        "onboard_time": 1697970871,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132045,
+        "num": 132045,
+        "word": "朴灿烈新歌Good Enough舞台",
+        "onboard_time": 1697980712,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 112630,
+        "num": 132040,
+        "word": "钟汉良表演现实版困兽",
+        "onboard_time": 1697983957,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105067,
+        "num": 132034,
+        "word": "科威特运动员在轮椅上舞蹈",
+        "onboard_time": 1697982813,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路谋求的是共同发展合作共赢#"
+    }
+  }
+}
