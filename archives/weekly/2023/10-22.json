@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697994923055,
+  "endTime": 1697996036147,
   "band_list": [
     {
       "raw_hot": 3752811,
@@ -2691,6 +2691,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 110785,
+      "num": 96793,
+      "word": "学校里的小狗 随地大小睡",
+      "onboard_time": 1697993246,
+      "rank": 26,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 110477,
       "num": 191096,
       "word": "大学生该省省该花花",
@@ -2945,14 +2953,6 @@
       "onboard_time": 1697974111,
       "rank": 44,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 94046,
-      "num": 94046,
-      "word": "学校里的小狗 随地大小睡",
-      "onboard_time": 1697993246,
-      "rank": 26,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 92148,
