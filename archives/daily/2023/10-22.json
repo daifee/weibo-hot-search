@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1697978749866,
+  "endTime": 1697980679328,
   "band_list": [
     {
       "raw_hot": 2488322,
@@ -195,6 +195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 834200,
+      "num": 834200,
+      "word": "最贵不到30块的平价美妆单品",
+      "onboard_time": 1697974410,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 830837,
       "num": 830837,
       "word": "依法对富士康旗下企业税务稽查",
@@ -217,6 +225,14 @@
       "onboard_time": 1697892811,
       "rank": 1,
       "category": "演出"
+    },
+    {
+      "raw_hot": 760531,
+      "num": 760531,
+      "word": "花花这班上的太委屈了",
+      "onboard_time": 1697979033,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 742582,
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 540988,
-      "num": 307788,
+      "num": 529872,
       "word": "Xiaohu伏地魔",
       "onboard_time": 1697976813,
       "rank": 30,
@@ -368,6 +384,14 @@
       "word": "为有暗香来",
       "onboard_time": 1697971771,
       "rank": 11,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 530364,
+      "num": 530364,
+      "word": "钟楚曦张云龙合拍剧宣",
+      "onboard_time": 1697975670,
+      "rank": 6,
       "category": "剧集"
     },
     {
@@ -393,14 +417,6 @@
       "onboard_time": 1697969314,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 512512,
-      "num": 512512,
-      "word": "钟楚曦张云龙合拍剧宣",
-      "onboard_time": 1697975670,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 511076,
@@ -441,6 +457,14 @@
       "onboard_time": 1697938107,
       "rank": 25,
       "category": "财经"
+    },
+    {
+      "raw_hot": 491964,
+      "num": 338301,
+      "word": "黄明昊林一troublemaker",
+      "onboard_time": 1697979572,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 486804,
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 443436,
-      "num": 325200,
+      "num": 334683,
       "word": "赵露思做了芋儿鸡",
       "onboard_time": 1697975430,
       "rank": 11,
@@ -561,6 +585,14 @@
       "onboard_time": 1697946333,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 431663,
+      "num": 431663,
+      "word": "杨丞琳 我怎么突然冒出来这么多男粉",
+      "onboard_time": 1697977890,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 429767,
@@ -683,12 +715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356792,
-      "num": 302505,
-      "word": "最贵不到30块的平价美妆单品",
-      "onboard_time": 1697974410,
-      "rank": 47,
-      "category": "美妆"
+      "raw_hot": 359784,
+      "num": 359784,
+      "word": "仲溪午上桌了",
+      "onboard_time": 1697977770,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 351754,
@@ -835,6 +867,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 302268,
+      "num": 302268,
+      "word": "那些kpop爱豆的本命舞蹈",
+      "onboard_time": 1697978311,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300309,
       "num": 213889,
       "word": "你只是午睡了一下之后",
@@ -849,14 +889,6 @@
       "onboard_time": 1697938232,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 297634,
-      "num": 297634,
-      "word": "杨丞琳 我怎么突然冒出来这么多男粉",
-      "onboard_time": 1697977890,
-      "rank": 14,
-      "category": "演出"
     },
     {
       "raw_hot": 296913,
@@ -961,14 +993,6 @@
       "onboard_time": 1697949932,
       "rank": 17,
       "category": "知识科普"
-    },
-    {
-      "raw_hot": 256437,
-      "num": 256437,
-      "word": "仲溪午上桌了",
-      "onboard_time": 1697977770,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 256158,
@@ -1147,6 +1171,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218417,
+      "num": 218417,
+      "word": "巴以冲突超5800人死亡",
+      "onboard_time": 1697978911,
+      "rank": 19,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 214301,
+      "num": 214301,
+      "word": "沈诺真的是国舅爷",
+      "onboard_time": 1697978970,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 212884,
       "num": 212884,
       "word": "周涛 女声解说历史类纪录片先例",
@@ -1195,20 +1235,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206994,
+      "num": 196143,
+      "word": "KSG 扳回一局",
+      "onboard_time": 1697979630,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 206912,
       "num": 206912,
       "word": "双十一买苹果还是华为",
       "onboard_time": 1697957430,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 206702,
-      "num": 206702,
-      "word": "那些kpop爱豆的本命舞蹈",
-      "onboard_time": 1697978311,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 205828,
@@ -1321,6 +1361,14 @@
       "onboard_time": 1697884412,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198518,
+      "num": 198518,
+      "word": "曾舜晞录综艺带了10套衣服",
+      "onboard_time": 1697980413,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 196385,
@@ -1443,6 +1491,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 180740,
+      "num": 180740,
+      "word": "丹麦赛冯彦哲黄东萍混双夺冠",
+      "onboard_time": 1697979392,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180298,
       "num": 1216823,
       "word": "做消防员的妻子甜到爆表",
@@ -1481,6 +1537,14 @@
       "onboard_time": 1697950052,
       "rank": 27,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 175878,
+      "num": 175878,
+      "word": "许愿薇薇安娜",
+      "onboard_time": 1697980413,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 175237,
@@ -1531,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170136,
+      "num": 170136,
+      "word": "易梦玲大梦归离古装路透",
+      "onboard_time": 1697979872,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169811,
       "num": 169811,
       "word": "巩俐 黑夜女王",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1697959771,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163890,
+      "num": 163890,
+      "word": "炎客新皮 丑得两眼一黑",
+      "onboard_time": 1697979033,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 163683,
@@ -2113,6 +2193,14 @@
       "onboard_time": 1697938232,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 110902,
+      "num": 110902,
+      "word": "XHW对战KSG",
+      "onboard_time": 1697978072,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 110477,
@@ -2667,8 +2755,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 7719,
-      "num": 163636,
+      "raw_hot": 10011,
+      "num": 797176,
       "word": "亚残运会上的助残黑科技",
       "onboard_time": 1697965952,
       "rank": 30,

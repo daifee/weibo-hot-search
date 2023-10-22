@@ -1,0 +1,410 @@
+{
+  "runTime": 1697980679328,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1829667,
+        "num": 1829667,
+        "word": "富士康被查",
+        "onboard_time": 1697974232,
+        "rank": 0,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 834200,
+        "num": 834200,
+        "word": "最贵不到30块的平价美妆单品",
+        "onboard_time": 1697974410,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 10011,
+        "num": 797176,
+        "word": "亚残运会上的助残黑科技",
+        "onboard_time": 1697965952,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 760531,
+        "num": 760531,
+        "word": "花花这班上的太委屈了",
+        "onboard_time": 1697979033,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 530364,
+        "num": 530364,
+        "word": "钟楚曦张云龙合拍剧宣",
+        "onboard_time": 1697975670,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 529872,
+        "num": 529872,
+        "word": "Xiaohu伏地魔",
+        "onboard_time": 1697976813,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 470643,
+        "num": 470643,
+        "word": "于文文问微信撤回为什么要留痕迹",
+        "onboard_time": 1697960789,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 465114,
+        "num": 465114,
+        "word": "周也清水妆",
+        "onboard_time": 1697973690,
+        "rank": 7,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 431663,
+        "num": 431663,
+        "word": "杨丞琳 我怎么突然冒出来这么多男粉",
+        "onboard_time": 1697977890,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 359784,
+        "num": 359784,
+        "word": "仲溪午上桌了",
+        "onboard_time": 1697977770,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1239005,
+        "num": 346370,
+        "word": "30岁有十万存款算什么水平",
+        "onboard_time": 1697965891,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 491964,
+        "num": 338301,
+        "word": "黄明昊林一troublemaker",
+        "onboard_time": 1697979572,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 376538,
+        "num": 334683,
+        "word": "赵露思做了芋儿鸡",
+        "onboard_time": 1697975430,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327534,
+        "num": 327534,
+        "word": "WBG掉入瑞士轮生死局",
+        "onboard_time": 1697973510,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 323760,
+        "num": 323760,
+        "word": "男子遭楼下老人砸门咒骂1年暴瘦20斤",
+        "onboard_time": 1697968954,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 308257,
+        "num": 308257,
+        "word": "张晚意 致玱玹",
+        "onboard_time": 1697976511,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302268,
+        "num": 302268,
+        "word": "那些kpop爱豆的本命舞蹈",
+        "onboard_time": 1697978311,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255181,
+        "num": 255181,
+        "word": "WBG 心态崩了",
+        "onboard_time": 1697972190,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 227771,
+        "num": 227771,
+        "word": "2万6千部手机刷直播间人气",
+        "onboard_time": 1697967870,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218417,
+        "num": 218417,
+        "word": "巴以冲突超5800人死亡",
+        "onboard_time": 1697978911,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 280715,
+        "num": 218382,
+        "word": "因母胎血型不合女子怀孕3次都死胎",
+        "onboard_time": 1697967931,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218321,
+        "num": 218321,
+        "word": "最舍不得删的一张王者截图",
+        "onboard_time": 1697970871,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 39296,
+        "num": 215278,
+        "word": "揭秘太空菜园的栽培神器",
+        "onboard_time": 1697966130,
+        "rank": 22,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 214301,
+        "num": 214301,
+        "word": "沈诺真的是国舅爷",
+        "onboard_time": 1697978970,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204183,
+        "num": 204183,
+        "word": "上四休三工资九折你愿意吗",
+        "onboard_time": 1697956289,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200799,
+        "num": 200799,
+        "word": "周涛 女声解说历史类纪录片先例",
+        "onboard_time": 1697976511,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198518,
+        "num": 198518,
+        "word": "曾舜晞录综艺带了10套衣服",
+        "onboard_time": 1697980413,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197350,
+        "num": 197350,
+        "word": "美在我重点国防军工单位安插眼线",
+        "onboard_time": 1697965531,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196854,
+        "num": 196854,
+        "word": "郑容和他超爱北京烤鸭",
+        "onboard_time": 1697974590,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196650,
+        "num": 196650,
+        "word": "明日方舟 四爷",
+        "onboard_time": 1697968290,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 206994,
+        "num": 196143,
+        "word": "KSG 扳回一局",
+        "onboard_time": 1697979630,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192178,
+        "num": 192178,
+        "word": "为有暗香来",
+        "onboard_time": 1697971771,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180740,
+        "num": 180740,
+        "word": "丹麦赛冯彦哲黄东萍混双夺冠",
+        "onboard_time": 1697979392,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179401,
+        "num": 179401,
+        "word": "河边的错误",
+        "onboard_time": 1697961093,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175878,
+        "num": 175878,
+        "word": "许愿薇薇安娜",
+        "onboard_time": 1697980413,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171034,
+        "num": 171034,
+        "word": "以色列内阁投票撤销该国公共外交部",
+        "onboard_time": 1697963420,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 170136,
+        "num": 170136,
+        "word": "易梦玲大梦归离古装路透",
+        "onboard_time": 1697979872,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163890,
+        "num": 163890,
+        "word": "炎客新皮 丑得两眼一黑",
+        "onboard_time": 1697979033,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 159051,
+        "num": 159051,
+        "word": "TheShy 来还债的",
+        "onboard_time": 1697973391,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146982,
+        "num": 146982,
+        "word": "编舞学了五小时就拍MV的爱豆",
+        "onboard_time": 1697976753,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 144133,
+        "num": 144133,
+        "word": "莲花楼 缠人老笛",
+        "onboard_time": 1697975911,
+        "rank": 40,
+        "category": "作品衍生,动漫"
+      },
+      {
+        "raw_hot": 135469,
+        "num": 135469,
+        "word": "檀健次防风邶谐音梗永不过时",
+        "onboard_time": 1697970331,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127450,
+        "num": 127450,
+        "word": "饶雪漫 丁真就是全场最靓的电灯泡",
+        "onboard_time": 1697969430,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124880,
+        "num": 124880,
+        "word": "斗破苍穹",
+        "onboard_time": 1697964511,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 121990,
+        "num": 121990,
+        "word": "佛山电翰辟谣网传一天挣500万",
+        "onboard_time": 1697972190,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121721,
+        "num": 121721,
+        "word": "打窝十斤渔获三两",
+        "onboard_time": 1697978072,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118158,
+        "num": 118158,
+        "word": "CBA",
+        "onboard_time": 1697975670,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114439,
+        "num": 114439,
+        "word": "桃花坞文案",
+        "onboard_time": 1697972912,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110902,
+        "num": 110902,
+        "word": "XHW对战KSG",
+        "onboard_time": 1697978072,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108910,
+        "num": 108910,
+        "word": "KT战胜WBG",
+        "onboard_time": 1697972071,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的100个故事#"
+    }
+  }
+}
