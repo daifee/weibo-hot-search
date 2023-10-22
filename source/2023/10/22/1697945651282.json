@@ -1,0 +1,410 @@
+{
+  "runTime": 1697945651282,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1397662,
+        "num": 1397662,
+        "word": "支原体肺炎 鲜竹沥",
+        "onboard_time": 1697942494,
+        "rank": 0,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 963731,
+        "num": 963731,
+        "word": "中国足协负债12亿",
+        "onboard_time": 1697944352,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51949,
+        "num": 824895,
+        "word": "杭州亚残运会中国队全家福",
+        "onboard_time": 1697944771,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1470853,
+        "num": 813998,
+        "word": "她怎么突然就美了",
+        "onboard_time": 1697937270,
+        "rank": 3,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 687225,
+        "num": 687225,
+        "word": "佛山电翰式化妆",
+        "onboard_time": 1697933727,
+        "rank": 4,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 453889,
+        "num": 453889,
+        "word": "爷爷奶奶有一千多万还在当保洁",
+        "onboard_time": 1697935050,
+        "rank": 5,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 390349,
+        "num": 390349,
+        "word": "佟丽娅董璇有孩子后的第一次闺蜜旅行",
+        "onboard_time": 1697932285,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 370412,
+        "num": 370412,
+        "word": "老人进店3次研究毛衣织法没被赶",
+        "onboard_time": 1697939791,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315016,
+        "num": 315016,
+        "word": "出国一定要记得贴信用卡",
+        "onboard_time": 1697942551,
+        "rank": 8,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 274996,
+        "num": 274996,
+        "word": "富士康",
+        "onboard_time": 1697938107,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1689657,
+        "num": 274429,
+        "word": "Lucky八岁了好漂亮",
+        "onboard_time": 1697939491,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1394950,
+        "num": 272396,
+        "word": "985名校硕士因本科普通被多家企业婉拒",
+        "onboard_time": 1697934390,
+        "rank": 11,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 410159,
+        "num": 271524,
+        "word": "兰博基尼被踩车主称不和解",
+        "onboard_time": 1697943992,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 359435,
+        "num": 270437,
+        "word": "ENHYPEN疑似被排挤",
+        "onboard_time": 1697943392,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269215,
+        "num": 269215,
+        "word": "如何快速失去所有朋友",
+        "onboard_time": 1697941471,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213933,
+        "num": 213933,
+        "word": "8元一串的巨大里脊肉串",
+        "onboard_time": 1697942912,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 210358,
+        "num": 210358,
+        "word": "张杰一开嗓从不会让人失望",
+        "onboard_time": 1697941352,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206538,
+        "num": 206538,
+        "word": "王鹤棣自己开车录制好六",
+        "onboard_time": 1697931443,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132487,
+        "num": 206350,
+        "word": "00后教天猫做双11",
+        "onboard_time": 1697943872,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206315,
+        "num": 206315,
+        "word": "倪妮河南分妮最近火了",
+        "onboard_time": 1697899417,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 451881,
+        "num": 203203,
+        "word": "乌尔善 封神是群像戏",
+        "onboard_time": 1697940992,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 379243,
+        "num": 198855,
+        "word": "落马女官员花50万美臀",
+        "onboard_time": 1697930180,
+        "rank": 21,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 327335,
+        "num": 190124,
+        "word": "所谓鬼压床不是鬼魂在作怪",
+        "onboard_time": 1697939852,
+        "rank": 22,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 317614,
+        "num": 181071,
+        "word": "男子小区遛狗发现草坪被投放毒火腿",
+        "onboard_time": 1697938351,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 228779,
+        "num": 178970,
+        "word": "佛山电翰",
+        "onboard_time": 1697938232,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172624,
+        "num": 172624,
+        "word": "10岁女孩遇民警吃饭偷偷付钱",
+        "onboard_time": 1697944171,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218873,
+        "num": 170255,
+        "word": "火星6再不官宣就全员剧透了",
+        "onboard_time": 1697941831,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166669,
+        "num": 166669,
+        "word": "你只是午睡了一下之后",
+        "onboard_time": 1697934028,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150682,
+        "num": 150682,
+        "word": "医生劝半个多小时不让走救回一条命",
+        "onboard_time": 1697902536,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146661,
+        "num": 146661,
+        "word": "白鹿郑书意",
+        "onboard_time": 1697934630,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142730,
+        "num": 142730,
+        "word": "肿眼泡消肿",
+        "onboard_time": 1697938351,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124069,
+        "num": 124069,
+        "word": "河边的错误到底疯在哪",
+        "onboard_time": 1697944771,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124064,
+        "num": 124064,
+        "word": "熊猫耳朵小会显得脸大",
+        "onboard_time": 1697939431,
+        "rank": 32,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 122447,
+        "num": 122447,
+        "word": "巴勒斯坦问题峰会",
+        "onboard_time": 1697935949,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 114604,
+        "num": 114604,
+        "word": "第一次参加新疆小男生的割礼宴",
+        "onboard_time": 1697933670,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112063,
+        "num": 112063,
+        "word": "男生的梦中情房",
+        "onboard_time": 1697939191,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110014,
+        "num": 110014,
+        "word": "民警一句话点醒坐顶楼崩溃大哭少年",
+        "onboard_time": 1697944952,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109293,
+        "num": 109293,
+        "word": "张韶涵硬刚主办方",
+        "onboard_time": 1697899240,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108480,
+        "num": 108480,
+        "word": "上高铁后发现爸妈偷塞的榴莲",
+        "onboard_time": 1697932406,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106532,
+        "num": 106532,
+        "word": "这里的鱼犯天条了吗",
+        "onboard_time": 1697938652,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105670,
+        "num": 105670,
+        "word": "广西一条河里开出莫奈的花园惊艳了",
+        "onboard_time": 1697935050,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 101883,
+        "num": 101883,
+        "word": "27岁了最爱的还是小孩菜",
+        "onboard_time": 1697931986,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 100036,
+        "num": 100036,
+        "word": "田耕纪为什么能火",
+        "onboard_time": 1697934208,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96494,
+        "num": 96494,
+        "word": "王鹤润角姐有仇当场就报了",
+        "onboard_time": 1697940153,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94205,
+        "num": 94205,
+        "word": "有被学校的每个小细节而感动",
+        "onboard_time": 1697942551,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93143,
+        "num": 93143,
+        "word": "中国短道速滑2000米混合接力金牌",
+        "onboard_time": 1697935172,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91318,
+        "num": 91318,
+        "word": "我们是姐妹 但是我们不熟",
+        "onboard_time": 1697939072,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88727,
+        "num": 88727,
+        "word": "藏族女孩被偶像教唱歌献20条哈达",
+        "onboard_time": 1697939250,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87330,
+        "num": 87330,
+        "word": "张碧晨 撕裂",
+        "onboard_time": 1697892811,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 87286,
+        "num": 87286,
+        "word": "游客登山迷路消防员彻夜救援",
+        "onboard_time": 1697945252,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#一带一路的100个故事#"
+    }
+  }
+}
