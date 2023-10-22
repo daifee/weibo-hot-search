@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698005811145,
+  "endTime": 1698006853415,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -491,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 26537,
+      "num": 21846,
+      "word": "女子咳嗽咳痰一周问题竟出在心脏",
+      "onboard_time": 1698005474,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 24119,
       "num": 27867,
       "word": "明日方舟",
@@ -529,14 +537,6 @@
       "onboard_time": 1698002716,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 13652,
-      "num": 15759,
-      "word": "女子咳嗽咳痰一周问题竟出在心脏",
-      "onboard_time": 1698005474,
-      "rank": 45,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
