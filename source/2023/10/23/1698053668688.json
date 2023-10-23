@@ -1,0 +1,410 @@
+{
+  "runTime": 1698053668688,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 926385,
+        "num": 926385,
+        "word": "SEVENTEEN回归新曲",
+        "onboard_time": 1698052134,
+        "rank": 0,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 827284,
+        "num": 827284,
+        "word": "昏迷50多天24岁产妇遗憾离开人世",
+        "onboard_time": 1698045406,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 62635,
+        "num": 739363,
+        "word": "长辈的爱值得一场双向奔赴",
+        "onboard_time": 1698030814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 665602,
+        "num": 665602,
+        "word": "大发量鲨鱼夹",
+        "onboard_time": 1698052072,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 629182,
+        "num": 629182,
+        "word": "5.9一瓶的粉底液",
+        "onboard_time": 1698043966,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 918637,
+        "num": 592749,
+        "word": "林高远 禁赛",
+        "onboard_time": 1698052610,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 510476,
+        "num": 510476,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 475976,
+        "num": 475976,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 7,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 412453,
+        "num": 412453,
+        "word": "Monster",
+        "onboard_time": 1698053211,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 398079,
+        "num": 398079,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1405077,
+        "num": 394542,
+        "word": "华晨宇 男孩子也穿婚纱太酷了吧",
+        "onboard_time": 1698046965,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 791268,
+        "num": 386465,
+        "word": "这3个三角配享太庙",
+        "onboard_time": 1698051181,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 368284,
+        "num": 368284,
+        "word": "A股大跌",
+        "onboard_time": 1698044744,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 321075,
+        "num": 321075,
+        "word": "中国股市必须守住",
+        "onboard_time": 1698046126,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 305421,
+        "num": 305421,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1698036828,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 304417,
+        "num": 304417,
+        "word": "买1.6万黄金1小时后换款缩水5600",
+        "onboard_time": 1698042163,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289338,
+        "num": 289338,
+        "word": "Hybe",
+        "onboard_time": 1698053329,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 282142,
+        "num": 282142,
+        "word": "卢昱晓成立个人工作室了",
+        "onboard_time": 1698051237,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230905,
+        "num": 230905,
+        "word": "尚有293个国考职位无人通过资格审查",
+        "onboard_time": 1698049035,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 218667,
+        "num": 218667,
+        "word": "教育局回应女孩被锁楼顶喊救命",
+        "onboard_time": 1698053211,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 373238,
+        "num": 217954,
+        "word": "杨超越 以后不红了怎么办",
+        "onboard_time": 1698044080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238075,
+        "num": 217632,
+        "word": "原来小县城工资也很高",
+        "onboard_time": 1698041024,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 221189,
+        "num": 217554,
+        "word": "爷爷临终前开了一个玩笑",
+        "onboard_time": 1698051056,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217159,
+        "num": 217159,
+        "word": "王栎鑫谁还不是个rapper",
+        "onboard_time": 1698048623,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211395,
+        "num": 211395,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 24,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 205510,
+        "num": 205510,
+        "word": "肖战美拉德风衣",
+        "onboard_time": 1698038082,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 189871,
+        "num": 189871,
+        "word": "91岁老奶奶重阳节捐款13万",
+        "onboard_time": 1698052847,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 189039,
+        "num": 189039,
+        "word": "咒术回战 五条悟新插画",
+        "onboard_time": 1698048086,
+        "rank": 27,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 187614,
+        "num": 187614,
+        "word": "日本豆腐是豆腐吗",
+        "onboard_time": 1698051357,
+        "rank": 28,
+        "category": "美食,知识科普"
+      },
+      {
+        "raw_hot": 180595,
+        "num": 180595,
+        "word": "还珠格格台词原来这么离谱",
+        "onboard_time": 1698045880,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213333,
+        "num": 178344,
+        "word": "高圆圆 去到海拔3200米的地方工作",
+        "onboard_time": 1698050697,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172635,
+        "num": 172635,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166279,
+        "num": 166279,
+        "word": "河边的错误票房破1亿",
+        "onboard_time": 1698050405,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 163411,
+        "num": 163411,
+        "word": "李佳航 别人总说我接戏乱七八糟的",
+        "onboard_time": 1698043127,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157867,
+        "num": 157867,
+        "word": "19岁儿子将妈妈所存50余万转给女友",
+        "onboard_time": 1698039282,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 152243,
+        "num": 152243,
+        "word": "主动脉夹层是什么",
+        "onboard_time": 1698051716,
+        "rank": 35,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 146106,
+        "num": 146106,
+        "word": "丝巾鱼骨辫教程",
+        "onboard_time": 1698052072,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 144541,
+        "num": 144541,
+        "word": "两小伙骑马半年走过6省直奔海南",
+        "onboard_time": 1698052912,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138345,
+        "num": 138345,
+        "word": "中国B级片的未来",
+        "onboard_time": 1698043183,
+        "rank": 38,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 133414,
+        "num": 133414,
+        "word": "FIFTYFIFTY解散",
+        "onboard_time": 1698042881,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132765,
+        "num": 132765,
+        "word": "钙片应该饭前吃还是饭后吃",
+        "onboard_time": 1698052912,
+        "rank": 40,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 130760,
+        "num": 130760,
+        "word": "低饱和腮红",
+        "onboard_time": 1698053568,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 130505,
+        "num": 130505,
+        "word": "侯明昊 漫撕男",
+        "onboard_time": 1698046781,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 128157,
+        "num": 128157,
+        "word": "EXO台历呢",
+        "onboard_time": 1698046302,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127006,
+        "num": 127006,
+        "word": "少女时代旧照",
+        "onboard_time": 1698049572,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 11112877,
+        "num": 124763,
+        "word": "章子怡汪峰 我们决定解除婚姻关系",
+        "onboard_time": 1698050460,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122512,
+        "num": 122512,
+        "word": "何炅看黄明昊林一跳舞的表情",
+        "onboard_time": 1698038926,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120463,
+        "num": 120463,
+        "word": "杨幂 有效客串",
+        "onboard_time": 1698037188,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118675,
+        "num": 118675,
+        "word": "于适又举铁了",
+        "onboard_time": 1698050223,
+        "rank": 48,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 117773,
+        "num": 117773,
+        "word": "万圣节黑女巫",
+        "onboard_time": 1698052610,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚残运会开幕式#"
+    }
+  }
+}

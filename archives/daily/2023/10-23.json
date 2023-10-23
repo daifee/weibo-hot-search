@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698052686510,
+  "endTime": 1698053668688,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -195,12 +195,20 @@
       "category": "社会新闻,旅游"
     },
     {
-      "raw_hot": 915778,
-      "num": 915778,
+      "raw_hot": 926385,
+      "num": 926385,
       "word": "SEVENTEEN回归新曲",
       "onboard_time": 1698052134,
       "rank": 3,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 918637,
+      "num": 592749,
+      "word": "林高远 禁赛",
+      "onboard_time": 1698052610,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 850795,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791268,
+      "num": 386465,
+      "word": "这3个三角配享太庙",
+      "onboard_time": 1698051181,
+      "rank": 11,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 770869,
       "num": 457991,
       "word": "A股大跌",
@@ -323,6 +339,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 665602,
+      "num": 665602,
+      "word": "大发量鲨鱼夹",
+      "onboard_time": 1698052072,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 659548,
       "num": 275420,
       "word": "杨超越 以后不红了怎么办",
@@ -369,14 +393,6 @@
       "onboard_time": 1698037668,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 579459,
-      "num": 263996,
-      "word": "这3个三角配享太庙",
-      "onboard_time": 1698051181,
-      "rank": 11,
-      "category": "美妆"
     },
     {
       "raw_hot": 550138,
@@ -571,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412453,
+      "num": 412453,
+      "word": "Monster",
+      "onboard_time": 1698053211,
+      "rank": 8,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 405703,
       "num": 405703,
       "word": "王栎鑫谁还不是个rapper",
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 383665,
-      "num": 283545,
+      "num": 305421,
       "word": "SEVENTEEN回归",
       "onboard_time": 1698036828,
       "rank": 32,
@@ -899,6 +923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289338,
+      "num": 289338,
+      "word": "Hybe",
+      "onboard_time": 1698053329,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 287714,
       "num": 287714,
       "word": "迪丽热巴晒花少团合照",
@@ -929,6 +961,14 @@
       "onboard_time": 1698035023,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282142,
+      "num": 282142,
+      "word": "卢昱晓成立个人工作室了",
+      "onboard_time": 1698051237,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 281270,
@@ -1043,14 +1083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 256720,
-      "num": 256720,
-      "word": "卢昱晓成立个人工作室了",
-      "onboard_time": 1698051237,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254187,
       "num": 254187,
       "word": "新晋雨果奖得主原来是金融人",
@@ -1100,7 +1132,7 @@
     },
     {
       "raw_hot": 242055,
-      "num": 153107,
+      "num": 178344,
       "word": "高圆圆 去到海拔3200米的地方工作",
       "onboard_time": 1698050697,
       "rank": 30,
@@ -1299,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221189,
+      "num": 217554,
+      "word": "爷爷临终前开了一个玩笑",
+      "onboard_time": 1698051056,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220928,
       "num": 220928,
       "word": "上证指数",
@@ -1312,6 +1352,14 @@
       "word": "他放弃二级建造师回乡种粮带村民致富",
       "onboard_time": 1698017368,
       "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218667,
+      "num": 218667,
+      "word": "教育局回应女孩被锁楼顶喊救命",
+      "onboard_time": 1698053211,
+      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1539,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189871,
+      "num": 189871,
+      "word": "91岁老奶奶重阳节捐款13万",
+      "onboard_time": 1698052847,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 188888,
       "num": 188888,
       "word": "河边的错误票房破1亿",
@@ -1563,6 +1619,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 187614,
+      "num": 187614,
+      "word": "日本豆腐是豆腐吗",
+      "onboard_time": 1698051357,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 185989,
       "num": 159525,
       "word": "揭阳震感",
@@ -1577,14 +1641,6 @@
       "onboard_time": 1698043660,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 185538,
-      "num": 185538,
-      "word": "爷爷临终前开了一个玩笑",
-      "onboard_time": 1698051056,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 185407,
@@ -1859,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144541,
+      "num": 144541,
+      "word": "两小伙骑马半年走过6省直奔海南",
+      "onboard_time": 1698052912,
+      "rank": 37,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 144122,
       "num": 144122,
       "word": "在外婆家的田野间分享香水",
@@ -1883,28 +1947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 141395,
-      "num": 141395,
-      "word": "日本豆腐是豆腐吗",
-      "onboard_time": 1698051357,
-      "rank": 36,
-      "category": "美食"
-    },
-    {
       "raw_hot": 140634,
       "num": 211100,
       "word": "女子翻桥欲轻生众人飞奔齐拉回",
       "onboard_time": 1698049868,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 140447,
-      "num": 140447,
-      "word": "林高远 禁赛",
-      "onboard_time": 1698052610,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 139320,
@@ -1995,6 +2043,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 132765,
+      "num": 132765,
+      "word": "钙片应该饭前吃还是饭后吃",
+      "onboard_time": 1698052912,
+      "rank": 40,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 132020,
       "num": 132020,
       "word": "一盏灯的光芒可以多耀眼",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1698018874,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130760,
+      "num": 130760,
+      "word": "低饱和腮红",
+      "onboard_time": 1698053568,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 130407,
@@ -2065,14 +2129,6 @@
       "onboard_time": 1698051835,
       "rank": 45,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127008,
-      "num": 127008,
-      "word": "大发量鲨鱼夹",
-      "onboard_time": 1698052072,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 124802,
