@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698034837734,
+  "endTime": 1698035639448,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1683169,
-      "num": 445152,
+      "num": 600440,
       "word": "张大奕自曝3年被代购骗1161万",
       "onboard_time": 1698027215,
       "rank": 11,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1052076,
+      "num": 1052076,
+      "word": "这就是街舞6官宣队长",
+      "onboard_time": 1698034782,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1016083,
       "num": 404615,
       "word": "A股",
@@ -147,6 +155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 845490,
+      "num": 599666,
+      "word": "易烊千玺的狗啃式刘海",
+      "onboard_time": 1698033876,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 842917,
       "num": 842917,
       "word": "官方通报执法人员开着巡逻车偷高粱",
@@ -179,20 +195,28 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 795470,
-      "num": 795470,
+      "raw_hot": 803623,
+      "num": 803623,
       "word": "张晚意王楚然柳舟记官宣",
       "onboard_time": 1698030992,
       "rank": 38,
       "category": "剧集"
     },
     {
-      "raw_hot": 784287,
-      "num": 443700,
-      "word": "易烊千玺的狗啃式刘海",
-      "onboard_time": 1698033876,
-      "rank": 12,
-      "category": "作品衍生,时尚"
+      "raw_hot": 801441,
+      "num": 801441,
+      "word": "卡地亚找的女艺人 地母系长相",
+      "onboard_time": 1698032492,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 799021,
+      "num": 799021,
+      "word": "姚贝娜父亲出席李玟纪念展",
+      "onboard_time": 1698033214,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 750128,
@@ -201,14 +225,6 @@
       "onboard_time": 1697988695,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 745141,
-      "num": 745141,
-      "word": "姚贝娜父亲出席李玟纪念展",
-      "onboard_time": 1698033214,
-      "rank": 5,
-      "category": "艺人"
     },
     {
       "raw_hot": 717263,
@@ -251,6 +267,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 602849,
+      "num": 602849,
+      "word": "李佳琦直播预告",
+      "onboard_time": 1698034236,
+      "rank": 9,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 542795,
+      "num": 542795,
+      "word": "什么是肺结节",
+      "onboard_time": 1698034598,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 534927,
       "num": 534927,
       "word": "by2爱丫爱丫让青春回来了",
@@ -291,20 +323,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 467936,
+      "num": 467936,
+      "word": "秦海璐在3个国家拍了7张自己的脚",
+      "onboard_time": 1698030634,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 459094,
       "num": 459094,
       "word": "郭麒麟说我有点儿可怜我爸",
       "onboard_time": 1697987497,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 446849,
-      "num": 446849,
-      "word": "李佳琦直播预告",
-      "onboard_time": 1698034236,
-      "rank": 9,
-      "category": "网红"
     },
     {
       "raw_hot": 444949,
@@ -339,14 +371,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 423302,
-      "num": 423302,
-      "word": "秦海璐在3个国家拍了7张自己的脚",
-      "onboard_time": 1698030634,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 400550,
       "num": 400550,
       "word": "女子突发腹痛公交司机停车救人",
@@ -379,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 378987,
+      "num": 378987,
+      "word": "徐娇小狗美甲",
+      "onboard_time": 1698035023,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 374230,
       "num": 374230,
       "word": "五月天演唱会女孩举牌说点歌给爸爸",
@@ -403,14 +435,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 367783,
-      "num": 367783,
-      "word": "卡地亚找的女艺人 地母系长相",
-      "onboard_time": 1698032492,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 365672,
       "num": 365672,
       "word": "韩孝周参加铁人三项比赛",
@@ -433,6 +457,14 @@
       "onboard_time": 1697989831,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 340989,
+      "num": 340989,
+      "word": "林柏叡居然有个6岁的女儿",
+      "onboard_time": 1698033336,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 337059,
@@ -465,14 +497,6 @@
       "onboard_time": 1698024271,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 321260,
-      "num": 321260,
-      "word": "林柏叡居然有个6岁的女儿",
-      "onboard_time": 1698033336,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 319686,
@@ -531,6 +555,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 299155,
+      "num": 285724,
+      "word": "毕业五年我妈以为我存款50w",
+      "onboard_time": 1698035629,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 295794,
       "num": 295794,
       "word": "今日重阳",
@@ -539,8 +571,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 290420,
-      "num": 290420,
+      "raw_hot": 291949,
+      "num": 291949,
       "word": "山西太原三车相撞致2死6伤",
       "onboard_time": 1698032255,
       "rank": 25,
@@ -555,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 287714,
+      "num": 287714,
+      "word": "迪丽热巴晒花少团合照",
+      "onboard_time": 1698031534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 286456,
       "num": 157636,
       "word": "女子咳嗽咳痰一周问题竟出在心脏",
@@ -563,12 +603,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 286136,
-      "num": 286136,
-      "word": "什么是肺结节",
-      "onboard_time": 1698034598,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 286308,
+      "num": 286308,
+      "word": "陈哲远偶像剧男主",
+      "onboard_time": 1698033815,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 281270,
@@ -580,7 +620,7 @@
     },
     {
       "raw_hot": 279298,
-      "num": 230986,
+      "num": 242763,
       "word": "青岛啤酒股价大跌",
       "onboard_time": 1698027453,
       "rank": 35,
@@ -611,12 +651,12 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 263942,
-      "num": 263942,
-      "word": "迪丽热巴晒花少团合照",
-      "onboard_time": 1698031534,
+      "raw_hot": 263470,
+      "num": 263470,
+      "word": "易烊千玺手写字贺最美表演十周年",
+      "onboard_time": 1698034475,
       "rank": 32,
-      "category": "综艺"
+      "category": "艺人"
     },
     {
       "raw_hot": 260404,
@@ -635,6 +675,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 254187,
+      "num": 254187,
+      "word": "新晋雨果奖得主原来是金融人",
+      "onboard_time": 1698033518,
+      "rank": 35,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 247060,
+      "num": 247060,
+      "word": "历届这就是街舞队长",
+      "onboard_time": 1698035023,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 246888,
       "num": 246888,
       "word": "漳州震感",
@@ -651,28 +707,36 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 238725,
-      "num": 238725,
-      "word": "男子白血病康复后做厨师6年还清70万",
-      "onboard_time": 1698032072,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 238702,
-      "num": 238702,
+      "raw_hot": 239546,
+      "num": 239546,
       "word": "发现了鲨鱼夹的正确用法",
       "onboard_time": 1698032673,
       "rank": 34,
       "category": "幽默"
     },
     {
-      "raw_hot": 237241,
-      "num": 237241,
-      "word": "新晋雨果奖得主原来是金融人",
-      "onboard_time": 1698033518,
-      "rank": 35,
-      "category": "读书作家"
+      "raw_hot": 239175,
+      "num": 239175,
+      "word": "檀健次红衣官服造型",
+      "onboard_time": 1698034659,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 238725,
+      "num": 240899,
+      "word": "男子白血病康复后做厨师6年还清70万",
+      "onboard_time": 1698032072,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235799,
+      "num": 235799,
+      "word": "为什么你的美白精华没有效果",
+      "onboard_time": 1698035081,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 235315,
@@ -681,6 +745,14 @@
       "onboard_time": 1698030753,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234775,
+      "num": 234775,
+      "word": "厨娘小何买了一条鳄鱼",
+      "onboard_time": 1698035629,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 233539,
@@ -699,8 +771,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229575,
-      "num": 229575,
+      "raw_hot": 232474,
+      "num": 232474,
       "word": "明星化妆师用的平价美妆单品",
       "onboard_time": 1698034475,
       "rank": 38,
@@ -729,14 +801,6 @@
       "onboard_time": 1698023374,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 221533,
-      "num": 221533,
-      "word": "陈哲远偶像剧男主",
-      "onboard_time": 1698033815,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 221286,
@@ -843,28 +907,12 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 202706,
-      "num": 202706,
-      "word": "檀健次红衣官服造型",
-      "onboard_time": 1698034659,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 202065,
       "num": 189641,
       "word": "汉密尔顿勒克莱尔被取消成绩",
       "onboard_time": 1698027812,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201804,
-      "num": 201804,
-      "word": "这就是街舞6官宣队长",
-      "onboard_time": 1698034782,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 201434,
@@ -993,6 +1041,14 @@
       "onboard_time": 1698023973,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 174401,
+      "num": 204199,
+      "word": "还是四川的嬢嬢会玩",
+      "onboard_time": 1698035570,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173297,
@@ -1355,6 +1411,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 89896,
+      "num": 601171,
+      "word": "小米全新系统即将发布",
+      "onboard_time": 1698033094,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 86831,
       "num": 86831,
       "word": "倪虹洁告诫女生冷战长结节",
@@ -1459,14 +1523,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55572,
-      "num": 445863,
-      "word": "小米全新系统即将发布",
-      "onboard_time": 1698033094,
-      "rank": 10,
-      "category": "数码"
-    },
-    {
       "raw_hot": 50832,
       "num": 50832,
       "word": "张宁哭了",
@@ -1476,7 +1532,7 @@
     },
     {
       "raw_hot": 49072,
-      "num": 992368,
+      "num": 1119755,
       "word": "比亚残运会赛事更昂扬的是人生",
       "onboard_time": 1698031473,
       "rank": 2,
