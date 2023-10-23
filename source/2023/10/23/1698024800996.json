@@ -1,0 +1,410 @@
+{
+  "runTime": 1698024800996,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1272350,
+        "num": 1272350,
+        "word": "青岛啤酒视频拍摄者已被警方控制",
+        "onboard_time": 1698022775,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1060362,
+        "num": 1060362,
+        "word": "广东汕头发生5.0级地震",
+        "onboard_time": 1698015922,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45743,
+        "num": 1024864,
+        "word": "亚残运会开幕",
+        "onboard_time": 1697982154,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 993419,
+        "num": 993419,
+        "word": "全昭旻RM下车",
+        "onboard_time": 1698024211,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 650382,
+        "num": 650382,
+        "word": "刘少昂0.02秒惊险夺冠",
+        "onboard_time": 1698020193,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 834453,
+        "num": 600153,
+        "word": "以军就坦克意外击中埃及军事哨所道歉",
+        "onboard_time": 1698022836,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 725667,
+        "num": 553910,
+        "word": "以军称误击埃及军队哨所",
+        "onboard_time": 1698019412,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 501138,
+        "num": 501138,
+        "word": "by2爱丫爱丫让青春回来了",
+        "onboard_time": 1698021815,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 449787,
+        "num": 449787,
+        "word": "耐克回应实行四天工作制",
+        "onboard_time": 1698023315,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 438047,
+        "num": 438047,
+        "word": "沈诺终于掉马了",
+        "onboard_time": 1698022175,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2025233,
+        "num": 428224,
+        "word": "耐克大中华区宣布将实行四天工作制",
+        "onboard_time": 1698018450,
+        "rank": 10,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 402690,
+        "num": 402690,
+        "word": "27岁女子长期横向刷牙致牙齿缺损",
+        "onboard_time": 1697986297,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 400448,
+        "num": 400448,
+        "word": "河边的错误票房破9000万",
+        "onboard_time": 1698018029,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357252,
+        "num": 357252,
+        "word": "郭麒麟说我有点儿可怜我爸",
+        "onboard_time": 1697987497,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351507,
+        "num": 351507,
+        "word": "五月天演唱会女孩举牌说点歌给爸爸",
+        "onboard_time": 1698020556,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 338397,
+        "num": 338397,
+        "word": "女子带婴儿被3条流浪狗围攻咬伤",
+        "onboard_time": 1697986357,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 316253,
+        "num": 316253,
+        "word": "baby挥舞战旗",
+        "onboard_time": 1698019475,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 309603,
+        "num": 309603,
+        "word": "周杰伦以父之名2004年现场",
+        "onboard_time": 1698023196,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 257627,
+        "num": 257627,
+        "word": "今日重阳",
+        "onboard_time": 1698016587,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 253788,
+        "num": 253788,
+        "word": "可可西里野狼被游客投喂胖成网红",
+        "onboard_time": 1697984554,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1360559,
+        "num": 251121,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 633829,
+        "num": 246413,
+        "word": "吴楚一跳的是这种钢管舞吗",
+        "onboard_time": 1697988874,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 341967,
+        "num": 236188,
+        "word": "如何体面的退出一个群",
+        "onboard_time": 1698018934,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 293828,
+        "num": 232573,
+        "word": "帮帮我好不好 帮我上班",
+        "onboard_time": 1698021338,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 230196,
+        "num": 230196,
+        "word": "因为打呼噜室友让我滚出宿舍",
+        "onboard_time": 1698024271,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226647,
+        "num": 226647,
+        "word": "养老院爷爷奶奶花一个月才上手拍段子",
+        "onboard_time": 1698023374,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 218370,
+        "num": 218370,
+        "word": "大爷大妈心眼练习主打没心眼",
+        "onboard_time": 1698024092,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216782,
+        "num": 216782,
+        "word": "小米14发布会定档",
+        "onboard_time": 1698024572,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212060,
+        "num": 212060,
+        "word": "王鹤棣大奉打更人白衣盔甲路透",
+        "onboard_time": 1698019836,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210108,
+        "num": 210108,
+        "word": "福建震感",
+        "onboard_time": 1698016283,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208680,
+        "num": 208680,
+        "word": "7旬老人鬼门关前被一键撤回",
+        "onboard_time": 1698023914,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204939,
+        "num": 204939,
+        "word": "段子里的江浙沪家长没骗我",
+        "onboard_time": 1698020675,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 199370,
+        "num": 199370,
+        "word": "重阳尊老敬老",
+        "onboard_time": 1698019774,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193089,
+        "num": 193089,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1697988695,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 191248,
+        "num": 191248,
+        "word": "乌尔善说封神第二部剪辑已完成",
+        "onboard_time": 1697985033,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189281,
+        "num": 189281,
+        "word": "甘肃酒泉4.7级地震",
+        "onboard_time": 1697989171,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184335,
+        "num": 184335,
+        "word": "SEVENTEEN新专辑预售量破纪录",
+        "onboard_time": 1698021098,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 184084,
+        "num": 184084,
+        "word": "白桃星座",
+        "onboard_time": 1698022115,
+        "rank": 37,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 177702,
+        "num": 177702,
+        "word": "中国选手夺杭州亚残运会首金",
+        "onboard_time": 1698023973,
+        "rank": 38,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 163096,
+        "num": 163096,
+        "word": "Red Velvet概念",
+        "onboard_time": 1698018991,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149594,
+        "num": 149594,
+        "word": "女子咳嗽咳痰一周问题竟出在心脏",
+        "onboard_time": 1698005474,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145428,
+        "num": 145428,
+        "word": "ChatGPT亚洲版",
+        "onboard_time": 1698019293,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141150,
+        "num": 141150,
+        "word": "出门就是海的大学到底谁在读啊",
+        "onboard_time": 1698015683,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140371,
+        "num": 140371,
+        "word": "30岁有十万存款算什么水平",
+        "onboard_time": 1697965891,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 137884,
+        "num": 137884,
+        "word": "孩子碎玻璃卡喉交警一路狂飙送医",
+        "onboard_time": 1698022056,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130407,
+        "num": 130407,
+        "word": "哭起来也很可爱的Sana酱",
+        "onboard_time": 1698024632,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125808,
+        "num": 125808,
+        "word": "学校里的小狗 随地大小睡",
+        "onboard_time": 1697993246,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 124909,
+        "num": 124909,
+        "word": "Cat说把这场当最后一场打",
+        "onboard_time": 1698021216,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124729,
+        "num": 124729,
+        "word": "重庆一火锅店现机器人服务员敬酒倒茶",
+        "onboard_time": 1698018751,
+        "rank": 48,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 124532,
+        "num": 124532,
+        "word": "女子突发腹痛公交司机停车救人",
+        "onboard_time": 1697990970,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#亚残运会开幕式#"
+    }
+  }
+}

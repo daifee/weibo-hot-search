@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698023558458,
+  "endTime": 1698024800996,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 2415835,
-      "num": 413287,
+      "num": 428224,
       "word": "耐克大中华区宣布将实行四天工作制",
       "onboard_time": 1698018450,
       "rank": 10,
@@ -163,6 +163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1272350,
+      "num": 1272350,
+      "word": "青岛啤酒视频拍摄者已被警方控制",
+      "onboard_time": 1698022775,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1220303,
       "num": 720112,
       "word": "与保安起冲突孕妇被撞致胎死腹中",
@@ -251,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 993419,
+      "num": 993419,
+      "word": "全昭旻RM下车",
+      "onboard_time": 1698024211,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 989535,
       "num": 989535,
       "word": "中国足协负债12亿",
@@ -289,6 +305,14 @@
       "onboard_time": 1697899240,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 834453,
+      "num": 600153,
+      "word": "以军就坦克意外击中埃及军事哨所道歉",
+      "onboard_time": 1698022836,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 834200,
@@ -699,14 +723,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457749,
-      "num": 404189,
-      "word": "以军就坦克意外击中埃及军事哨所道歉",
-      "onboard_time": 1698022836,
-      "rank": 11,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 456149,
       "num": 456149,
       "word": "杨丞琳 我怎么突然冒出来这么多男粉",
@@ -737,6 +753,14 @@
       "onboard_time": 1697974590,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 449787,
+      "num": 449787,
+      "word": "耐克回应实行四天工作制",
+      "onboard_time": 1698023315,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 443436,
@@ -777,6 +801,14 @@
       "onboard_time": 1697964511,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 438047,
+      "num": 438047,
+      "word": "沈诺终于掉马了",
+      "onboard_time": 1698022175,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 435224,
@@ -832,14 +864,6 @@
       "word": "纽约兴起老鼠游",
       "onboard_time": 1697951134,
       "rank": 7,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 416953,
-      "num": 416953,
-      "word": "青岛啤酒视频拍摄者已被警方控制",
-      "onboard_time": 1698022775,
-      "rank": 9,
       "category": "社会新闻"
     },
     {
@@ -960,14 +984,6 @@
       "word": "张晚意 致玱玹",
       "onboard_time": 1697976511,
       "rank": 9,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 380112,
-      "num": 380112,
-      "word": "沈诺终于掉马了",
-      "onboard_time": 1698022175,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -1185,6 +1201,14 @@
       "onboard_time": 1698021338,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309603,
+      "num": 309603,
+      "word": "周杰伦以父之名2004年现场",
+      "onboard_time": 1698023196,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 308023,
@@ -1451,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251681,
-      "num": 251681,
-      "word": "耐克回应实行四天工作制",
-      "onboard_time": 1698023315,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 249024,
       "num": 249024,
       "word": "薛之谦木偶妆",
@@ -1603,12 +1619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229049,
-      "num": 204740,
-      "word": "周杰伦以父之名2004年现场",
-      "onboard_time": 1698023196,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 230196,
+      "num": 230196,
+      "word": "因为打呼噜室友让我滚出宿舍",
+      "onboard_time": 1698024271,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 228370,
@@ -1617,6 +1633,14 @@
       "onboard_time": 1697981492,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 226647,
+      "num": 226647,
+      "word": "养老院爷爷奶奶花一个月才上手拍段子",
+      "onboard_time": 1698023374,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 224863,
@@ -1707,6 +1731,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 218370,
+      "num": 218370,
+      "word": "大爷大妈心眼练习主打没心眼",
+      "onboard_time": 1698024092,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216782,
+      "num": 216782,
+      "word": "小米14发布会定档",
+      "onboard_time": 1698024572,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 215366,
       "num": 215366,
       "word": "段子里的江浙沪家长没骗我",
@@ -1753,6 +1793,14 @@
       "onboard_time": 1697941352,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 208680,
+      "num": 208680,
+      "word": "7旬老人鬼门关前被一键撤回",
+      "onboard_time": 1698023914,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 207857,
@@ -1907,6 +1955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199370,
+      "num": 199370,
+      "word": "重阳尊老敬老",
+      "onboard_time": 1698019774,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 198528,
       "num": 198528,
       "word": "李玟母亲痛斥李玟丈夫出轨",
@@ -2043,14 +2099,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 188357,
-      "num": 188357,
-      "word": "养老院爷爷奶奶花一个月才上手拍段子",
-      "onboard_time": 1698023374,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188317,
       "num": 188317,
       "word": "杨幂温柔风",
@@ -2163,12 +2211,12 @@
       "category": "作品衍生,动漫"
     },
     {
-      "raw_hot": 176785,
-      "num": 176785,
-      "word": "重阳尊老敬老",
-      "onboard_time": 1698019774,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 177702,
+      "num": 177702,
+      "word": "中国选手夺杭州亚残运会首金",
+      "onboard_time": 1698023973,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 176068,
@@ -2785,6 +2833,14 @@
       "onboard_time": 1697975490,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130407,
+      "num": 130407,
+      "word": "哭起来也很可爱的Sana酱",
+      "onboard_time": 1698024632,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130367,
@@ -3500,7 +3556,7 @@
     },
     {
       "raw_hot": 62784,
-      "num": 753246,
+      "num": 1024864,
       "word": "亚残运会开幕",
       "onboard_time": 1697982154,
       "rank": 2,

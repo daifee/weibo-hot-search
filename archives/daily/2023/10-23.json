@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698023558458,
+  "endTime": 1698024800996,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2415835,
-      "num": 413287,
+      "num": 428224,
       "word": "耐克大中华区宣布将实行四天工作制",
       "onboard_time": 1698018450,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1697988874,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1272350,
+      "num": 1272350,
+      "word": "青岛啤酒视频拍摄者已被警方控制",
+      "onboard_time": 1698022775,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1224525,
@@ -67,12 +75,28 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 993419,
+      "num": 993419,
+      "word": "全昭旻RM下车",
+      "onboard_time": 1698024211,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 850795,
       "num": 376118,
       "word": "女子带婴儿被3条流浪狗围攻咬伤",
       "onboard_time": 1697986357,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 834453,
+      "num": 600153,
+      "word": "以军就坦克意外击中埃及军事哨所道歉",
+      "onboard_time": 1698022836,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 828686,
@@ -131,12 +155,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 457749,
-      "num": 404189,
-      "word": "以军就坦克意外击中埃及军事哨所道歉",
-      "onboard_time": 1698022836,
-      "rank": 11,
-      "category": "国外要闻"
+      "raw_hot": 449787,
+      "num": 449787,
+      "word": "耐克回应实行四天工作制",
+      "onboard_time": 1698023315,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 444949,
@@ -147,20 +171,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 438047,
+      "num": 438047,
+      "word": "沈诺终于掉马了",
+      "onboard_time": 1698022175,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 432188,
       "num": 432188,
       "word": "乌尔善说封神第二部剪辑已完成",
       "onboard_time": 1697985033,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 416953,
-      "num": 416953,
-      "word": "青岛啤酒视频拍摄者已被警方控制",
-      "onboard_time": 1698022775,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 400550,
@@ -176,14 +200,6 @@
       "word": "从此再无坚定选择她的哥哥",
       "onboard_time": 1697982456,
       "rank": 4,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 380112,
-      "num": 380112,
-      "word": "沈诺终于掉马了",
-      "onboard_time": 1698022175,
-      "rank": 13,
       "category": "剧集"
     },
     {
@@ -241,6 +257,14 @@
       "onboard_time": 1698021338,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 309603,
+      "num": 309603,
+      "word": "周杰伦以父之名2004年现场",
+      "onboard_time": 1698023196,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 305534,
@@ -315,14 +339,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 251681,
-      "num": 251681,
-      "word": "耐克回应实行四天工作制",
-      "onboard_time": 1698023315,
-      "rank": 25,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 246888,
       "num": 246888,
       "word": "漳州震感",
@@ -339,12 +355,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 229049,
-      "num": 204740,
-      "word": "周杰伦以父之名2004年现场",
-      "onboard_time": 1698023196,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 230196,
+      "num": 230196,
+      "word": "因为打呼噜室友让我滚出宿舍",
+      "onboard_time": 1698024271,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 226647,
+      "num": 226647,
+      "word": "养老院爷爷奶奶花一个月才上手拍段子",
+      "onboard_time": 1698023374,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 221286,
@@ -363,12 +387,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 218370,
+      "num": 218370,
+      "word": "大爷大妈心眼练习主打没心眼",
+      "onboard_time": 1698024092,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 216790,
       "num": 216790,
       "word": "Xiaohu伏地魔",
       "onboard_time": 1697976813,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216782,
+      "num": 216782,
+      "word": "小米14发布会定档",
+      "onboard_time": 1698024572,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 215366,
@@ -379,12 +419,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 208680,
+      "num": 208680,
+      "word": "7旬老人鬼门关前被一键撤回",
+      "onboard_time": 1698023914,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 201388,
       "num": 201388,
       "word": "Red Velvet概念",
       "onboard_time": 1698018991,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 199370,
+      "num": 199370,
+      "word": "重阳尊老敬老",
+      "onboard_time": 1698019774,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 192817,
@@ -409,14 +465,6 @@
       "onboard_time": 1697960789,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188357,
-      "num": 188357,
-      "word": "养老院爷爷奶奶花一个月才上手拍段子",
-      "onboard_time": 1698023374,
-      "rank": 33,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 187626,
@@ -459,12 +507,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 176785,
-      "num": 176785,
-      "word": "重阳尊老敬老",
-      "onboard_time": 1698019774,
-      "rank": 34,
-      "category": "社会新闻"
+      "raw_hot": 177702,
+      "num": 177702,
+      "word": "中国选手夺杭州亚残运会首金",
+      "onboard_time": 1698023973,
+      "rank": 38,
+      "category": "体育,社会新闻"
     },
     {
       "raw_hot": 172346,
@@ -617,6 +665,14 @@
       "onboard_time": 1698018874,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130407,
+      "num": 130407,
+      "word": "哭起来也很可爱的Sana酱",
+      "onboard_time": 1698024632,
+      "rank": 45,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 130367,
@@ -788,7 +844,7 @@
     },
     {
       "raw_hot": 62784,
-      "num": 753246,
+      "num": 1024864,
       "word": "亚残运会开幕",
       "onboard_time": 1697982154,
       "rank": 2,
