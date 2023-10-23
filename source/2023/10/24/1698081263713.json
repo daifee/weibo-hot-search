@@ -1,0 +1,410 @@
+{
+  "runTime": 1698081263713,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1379176,
+        "num": 1379176,
+        "word": "超千名网友向被狗咬伤女童申请退款",
+        "onboard_time": 1698076508,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 395588,
+        "num": 395588,
+        "word": "厂家称5.9元粉底液是活动价",
+        "onboard_time": 1698074440,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 14115,
+        "num": 201247,
+        "word": "关爱老人在今天更在每一天",
+        "onboard_time": 1698064359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198809,
+        "num": 198809,
+        "word": "286斤女生坐高铁二等座引争议",
+        "onboard_time": 1698057766,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197045,
+        "num": 197045,
+        "word": "老舅居然是哈圈隐藏真学霸",
+        "onboard_time": 1698066281,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187514,
+        "num": 187514,
+        "word": "25岁男子坚持4年每天熬夜画CAD",
+        "onboard_time": 1698065261,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180627,
+        "num": 180627,
+        "word": "700万动迁款分给4名子女后无人赡养",
+        "onboard_time": 1698073902,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159074,
+        "num": 159074,
+        "word": "崇州被狗咬伤女童目前医疗支出近6万元",
+        "onboard_time": 1698069043,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143717,
+        "num": 154727,
+        "word": "老人捡花生被卷收割机身亡",
+        "onboard_time": 1698062860,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136758,
+        "num": 152687,
+        "word": "深圳机场已恢复正常",
+        "onboard_time": 1698073902,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150924,
+        "num": 150924,
+        "word": "虞书欣方回应浪费粮食",
+        "onboard_time": 1698068680,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150094,
+        "num": 150094,
+        "word": "费翔自拍",
+        "onboard_time": 1698078209,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149808,
+        "num": 149808,
+        "word": "梁龙素颜",
+        "onboard_time": 1698073661,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115336,
+        "num": 115336,
+        "word": "凤凰传奇现场 早读都没这么整齐过",
+        "onboard_time": 1698071442,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 115058,
+        "num": 115058,
+        "word": "华戎舟是华浅想象出来的",
+        "onboard_time": 1698073841,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104257,
+        "num": 104257,
+        "word": "微博迎新之夜就差报身份证了",
+        "onboard_time": 1698072586,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103984,
+        "num": 103984,
+        "word": "女子全勤工作1个月发257元工资",
+        "onboard_time": 1698070423,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 92918,
+        "num": 92918,
+        "word": "鹿晗TFBOYS演唱会成老年人最爱",
+        "onboard_time": 1698058366,
+        "rank": 17,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 90488,
+        "num": 90488,
+        "word": "大发量鲨鱼夹",
+        "onboard_time": 1698052072,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 90285,
+        "num": 90285,
+        "word": "深圳机场",
+        "onboard_time": 1698069164,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148301,
+        "num": 89871,
+        "word": "美国28岁女保姆性侵8月大女婴",
+        "onboard_time": 1698055428,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96799,
+        "num": 88058,
+        "word": "被共享单车整理员的薪资震惊到",
+        "onboard_time": 1698065812,
+        "rank": 21,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 95021,
+        "num": 87061,
+        "word": "教育局回应著名教师发文意淫同车女乘客",
+        "onboard_time": 1698058727,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 84328,
+        "num": 84328,
+        "word": "A股的问题是投资者普遍赚不到钱",
+        "onboard_time": 1698075217,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 82977,
+        "num": 82977,
+        "word": "被老祖宗的审美惊艳到了",
+        "onboard_time": 1698069103,
+        "rank": 24,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 79706,
+        "num": 79706,
+        "word": "金珉奎不能脱帽子的原因",
+        "onboard_time": 1698074146,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75649,
+        "num": 75649,
+        "word": "金晨的喜欢与不喜欢太明显了",
+        "onboard_time": 1698056510,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75026,
+        "num": 75026,
+        "word": "BLG 哥几个去拜拜吧",
+        "onboard_time": 1698061303,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 73226,
+        "num": 73226,
+        "word": "被保姆抚养16年的孩子长大照顾保姆",
+        "onboard_time": 1698062199,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72847,
+        "num": 72847,
+        "word": "华晨宇 男孩子也穿婚纱太酷了吧",
+        "onboard_time": 1698046965,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 67360,
+        "num": 67360,
+        "word": "阿婆被骗后向民警炫耀是马云团队的",
+        "onboard_time": 1698075577,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66189,
+        "num": 66189,
+        "word": "支原体肺炎 尽早就诊",
+        "onboard_time": 1698060462,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65678,
+        "num": 65678,
+        "word": "孔雪儿跳了baddie",
+        "onboard_time": 1698075338,
+        "rank": 32,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 65670,
+        "num": 65670,
+        "word": "女子4天没买到烤馕老板特意留一个",
+        "onboard_time": 1698067840,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63787,
+        "num": 63787,
+        "word": "京东火力",
+        "onboard_time": 1698072764,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 60607,
+        "num": 60607,
+        "word": "苹果称iPhone15是图像残留不是烧屏",
+        "onboard_time": 1698072280,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55708,
+        "num": 55708,
+        "word": "小米14",
+        "onboard_time": 1698058545,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 55473,
+        "num": 55473,
+        "word": "宝妈刷单被骗15万民警2700公里追回",
+        "onboard_time": 1698070004,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54909,
+        "num": 54909,
+        "word": "花花冬天8点钟才上班",
+        "onboard_time": 1698068507,
+        "rank": 38,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 53786,
+        "num": 53786,
+        "word": "代理律师回应女童家属筹款200万争议",
+        "onboard_time": 1698073183,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 53619,
+        "num": 53619,
+        "word": "我姓关关晓彤的关",
+        "onboard_time": 1698073544,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52363,
+        "num": 52363,
+        "word": "把我的男友改造成韩流男团爱豆",
+        "onboard_time": 1698067302,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 51737,
+        "num": 51737,
+        "word": "赵丽颖彝族服饰写真",
+        "onboard_time": 1698056628,
+        "rank": 42,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 47125,
+        "num": 51731,
+        "word": "王子浩和黄仁俊钟辰乐跳challenge",
+        "onboard_time": 1698081021,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 45128,
+        "num": 51714,
+        "word": "京东文娱",
+        "onboard_time": 1698071085,
+        "rank": 44,
+        "category": "音乐,互联网"
+      },
+      {
+        "raw_hot": 43102,
+        "num": 51705,
+        "word": "问心",
+        "onboard_time": 1698072827,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41850,
+        "num": 51694,
+        "word": "肺炎支原体感染早期症状为干咳",
+        "onboard_time": 1698071264,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 40483,
+        "num": 51678,
+        "word": "酱园弄 杀夫案",
+        "onboard_time": 1698054108,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40220,
+        "num": 51664,
+        "word": "搞oc的有福了",
+        "onboard_time": 1698079765,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 39722,
+        "num": 51645,
+        "word": "曾舜晞的手",
+        "onboard_time": 1698081201,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国妇女第十三次全国代表大会在京开幕#"
+    }
+  }
+}

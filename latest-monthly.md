@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 00:37:33
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 01:14:23
 </p>
 </blockquote>
 <p>
@@ -3285,6 +3285,12 @@ Jennie新歌封面是武内直子画的（热度：1411394）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%8D%83%E5%90%8D%E7%BD%91%E5%8F%8B%E5%90%91%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%94%B3%E8%AF%B7%E9%80%80%E6%AC%BE%23" target="weibo">
+超千名网友向被狗咬伤女童申请退款（热度：1379176）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23WBG%E9%A2%86%E5%85%88%E4%B8%80%E4%B8%87%E8%A2%AB%E7%BF%BB%E7%9B%98%23" target="weibo">
 WBG领先一万被翻盘（热度：1378896）
 </a>
@@ -3863,12 +3869,6 @@ KT战胜WBG（热度：1279678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%20%E8%83%86%E5%B0%8F%E6%A8%A1%E5%BC%8F%23" target="weibo">
 腾讯视频 胆小模式（热度：1252085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%8D%83%E5%90%8D%E7%BD%91%E5%8F%8B%E5%90%91%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%94%B3%E8%AF%B7%E9%80%80%E6%AC%BE%23" target="weibo">
-超千名网友向被狗咬伤女童申请退款（热度：1246945）
 </a>
 </li>
 

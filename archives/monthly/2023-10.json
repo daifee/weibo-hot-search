@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698079053923,
+  "endTime": 1698081263713,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -4363,6 +4363,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1379176,
+      "num": 1379176,
+      "word": "超千名网友向被狗咬伤女童申请退款",
+      "onboard_time": 1698076508,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1378896,
       "num": 1378896,
       "word": "WBG领先一万被翻盘",
@@ -5137,14 +5145,6 @@
       "onboard_time": 1696488754,
       "rank": 15,
       "category": "幽默,互联网"
-    },
-    {
-      "raw_hot": 1246945,
-      "num": 1246945,
-      "word": "超千名网友向被狗咬伤女童申请退款",
-      "onboard_time": 1698076508,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1246600,
@@ -55179,6 +55179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150094,
+      "num": 150094,
+      "word": "费翔自拍",
+      "onboard_time": 1698078209,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150093,
       "num": 1024418,
       "word": "四川邛海开海捕到86斤鱼王",
@@ -58121,14 +58129,6 @@
       "onboard_time": 1697850208,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131753,
-      "num": 131753,
-      "word": "费翔自拍",
-      "onboard_time": 1698078209,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 131720,
@@ -63819,6 +63819,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 47125,
+      "num": 51731,
+      "word": "王子浩和黄仁俊钟辰乐跳challenge",
+      "onboard_time": 1698081021,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 47041,
       "num": 594297,
       "word": "时装周印象最深秀场",
@@ -64027,6 +64035,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 40220,
+      "num": 51664,
+      "word": "搞oc的有福了",
+      "onboard_time": 1698079765,
+      "rank": 48,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 40106,
       "num": 66700,
       "word": "巩俐用山东话念独白",
@@ -64057,6 +64073,14 @@
       "onboard_time": 1696531219,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39722,
+      "num": 51645,
+      "word": "曾舜晞的手",
+      "onboard_time": 1698081201,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 39675,
