@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 13:16:07
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 13:34:06
 </p>
 </blockquote>
 <p>
@@ -3417,6 +3417,12 @@ IVE空降（热度：1376713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%99%E5%86%85%E5%A8%B1%E4%B8%80%E7%82%B9%E5%B0%8F%E9%9C%87%E6%92%BC%23" target="weibo">
+给内娱一点小震撼（热度：1344292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%8A%A5%E9%81%93%E6%9D%A8%E5%B9%82%E5%BC%98%E6%89%AC%E4%B8%AD%E5%8D%8E%E6%96%87%E5%8C%96%23" target="weibo">
 台媒报道杨幂弘扬中华文化（热度：1344187）
 </a>
@@ -6005,12 +6011,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%A5%E9%9E%8B%E6%94%BE%E9%85%92%E5%BA%97%E8%B5%B0%E5%BB%8A%E4%B8%80%E5%A4%9C%E5%8F%98%E5%B9%B2%E5%87%80%23" target="weibo">
 女子泥鞋放酒店走廊一夜变干净（热度：881302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E8%BF%AA%20%E6%83%B3%E5%9B%9E%E5%AE%B6%E7%9C%8B%E6%88%91%E7%9A%84%E7%8B%97%23" target="weibo">
-杨迪 想回家看我的狗（热度：880383）
 </a>
 </li>
 

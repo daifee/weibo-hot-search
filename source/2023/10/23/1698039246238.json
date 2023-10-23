@@ -1,0 +1,410 @@
+{
+  "runTime": 1698039246238,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1607626,
+        "num": 1607626,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1006851,
+        "num": 1006851,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 1,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 34591,
+        "num": 682291,
+        "word": "比亚残运会赛事更昂扬的是人生",
+        "onboard_time": 1698031473,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1344292,
+        "num": 681543,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 588902,
+        "num": 588902,
+        "word": "福岛核污染水第二轮排海完成",
+        "onboard_time": 1698038144,
+        "rank": 4,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 531640,
+        "num": 531640,
+        "word": "可可西里的网红狼开始带新人了",
+        "onboard_time": 1698037549,
+        "rank": 5,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 489429,
+        "num": 489429,
+        "word": "李佳琦直播预告",
+        "onboard_time": 1698034236,
+        "rank": 6,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 483455,
+        "num": 483455,
+        "word": "电子呕吐物",
+        "onboard_time": 1698029972,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 470233,
+        "num": 470233,
+        "word": "张晚意王楚然柳舟记官宣",
+        "onboard_time": 1698030992,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 263558,
+        "num": 465268,
+        "word": "以军就坦克意外击中埃及军事哨所道歉",
+        "onboard_time": 1698022836,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 805453,
+        "num": 456150,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 672938,
+        "num": 448563,
+        "word": "肖战美拉德风衣",
+        "onboard_time": 1698038082,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 575300,
+        "num": 433982,
+        "word": "易烊千玺的狗啃式刘海",
+        "onboard_time": 1698033876,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 588072,
+        "num": 422974,
+        "word": "这真的不是黄奕上错花轿嫁对郎原片吗",
+        "onboard_time": 1698037668,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 369778,
+        "num": 414069,
+        "word": "什么是肺结节",
+        "onboard_time": 1698034598,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 611802,
+        "num": 398229,
+        "word": "姚贝娜父亲出席李玟纪念展",
+        "onboard_time": 1698033214,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 568084,
+        "num": 397009,
+        "word": "卡地亚找的女艺人 地母系长相",
+        "onboard_time": 1698032492,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387870,
+        "num": 387870,
+        "word": "厨娘小何买了一条鳄鱼",
+        "onboard_time": 1698035629,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 346565,
+        "num": 346565,
+        "word": "赵露思或辞演珠帘玉幕",
+        "onboard_time": 1698031054,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186238,
+        "num": 334420,
+        "word": "以军未来地面攻势或持续3个月",
+        "onboard_time": 1698037427,
+        "rank": 19,
+        "category": "国外要闻,军事"
+      },
+      {
+        "raw_hot": 595440,
+        "num": 334290,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 485722,
+        "num": 333754,
+        "word": "杨幂 有效客串",
+        "onboard_time": 1698037188,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 331680,
+        "num": 331680,
+        "word": "毕业五年我妈以为我存款50w",
+        "onboard_time": 1698035629,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 330617,
+        "num": 330617,
+        "word": "徐娇小狗美甲",
+        "onboard_time": 1698035023,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 329738,
+        "num": 329738,
+        "word": "杨紫白色露背裙",
+        "onboard_time": 1698036649,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 304194,
+        "num": 304194,
+        "word": "何炅看黄明昊林一跳舞的表情",
+        "onboard_time": 1698038926,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 279683,
+        "num": 279683,
+        "word": "秦海璐在3个国家拍了7张自己的脚",
+        "onboard_time": 1698030634,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154705,
+        "num": 270962,
+        "word": "39名戴人工耳蜗小演员合唱我的祖国",
+        "onboard_time": 1698037735,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151978,
+        "num": 266983,
+        "word": "青岛啤酒股价大跌",
+        "onboard_time": 1698027453,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151715,
+        "num": 264875,
+        "word": "刘少昂不知身后竟然如此热闹",
+        "onboard_time": 1698029011,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264198,
+        "num": 264198,
+        "word": "A股",
+        "onboard_time": 1698025353,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 263192,
+        "num": 263192,
+        "word": "林柏叡居然有个6岁的女儿",
+        "onboard_time": 1698033336,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 254017,
+        "num": 254017,
+        "word": "梁洁白开水妆",
+        "onboard_time": 1698036887,
+        "rank": 32,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 253888,
+        "num": 253888,
+        "word": "吴楚一跳的是这种钢管舞吗",
+        "onboard_time": 1697988874,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249845,
+        "num": 249845,
+        "word": "喝下可乐后人体会发生什么变化",
+        "onboard_time": 1698037846,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 236310,
+        "num": 236310,
+        "word": "全昭旻RM下车",
+        "onboard_time": 1698024211,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235064,
+        "num": 235064,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1698036828,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 205322,
+        "num": 205322,
+        "word": "历届这就是街舞队长",
+        "onboard_time": 1698035023,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181101,
+        "num": 181101,
+        "word": "萝卜刀创新 金刚狼萝卜爪",
+        "onboard_time": 1698035687,
+        "rank": 38,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 134900,
+        "num": 180874,
+        "word": "外国亚残运选手被中国人民的热情打动了",
+        "onboard_time": 1698038681,
+        "rank": 39,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 197653,
+        "num": 180665,
+        "word": "张碧晨 她说",
+        "onboard_time": 1698034296,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196475,
+        "num": 180455,
+        "word": "杨幂最美表演年度影人",
+        "onboard_time": 1698036230,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193731,
+        "num": 180247,
+        "word": "陈哲远偶像剧男主",
+        "onboard_time": 1698033815,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185544,
+        "num": 179781,
+        "word": "新裤子官宣巡演首站广州",
+        "onboard_time": 1698035687,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179749,
+        "num": 179749,
+        "word": "檀健次红衣官服造型",
+        "onboard_time": 1698034659,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134880,
+        "num": 164595,
+        "word": "官方通报执法人员开着巡逻车偷高粱",
+        "onboard_time": 1698032014,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151777,
+        "num": 151777,
+        "word": "化妆室妆面 适合手残党",
+        "onboard_time": 1698037307,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141196,
+        "num": 141196,
+        "word": "为什么有人的耳屎是香的",
+        "onboard_time": 1698039039,
+        "rank": 47,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 139949,
+        "num": 139949,
+        "word": "真的不能拉锯式刷牙",
+        "onboard_time": 1698036410,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98980,
+        "num": 139899,
+        "word": "重阳节120位老人拍全家福吃百寿宴",
+        "onboard_time": 1698037969,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}
