@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 21:33:54
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 22:16:47
 </p>
 </blockquote>
 <p>
@@ -3717,6 +3717,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E8%BD%AC%E5%87%BAICU%23" target="weibo">
+成都崇州被狗咬伤女童已转出ICU（热度：1287947）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%AE%98%E8%B5%90%E7%A6%8F%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BC%80%E6%92%AD%23" target="weibo">
 天官赐福第二季开播（热度：1285398）
 </a>
@@ -3743,12 +3749,6 @@ KT战胜WBG（热度：1279678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%84%BF%E5%AD%90%E5%A5%B3%E5%84%BF%E4%B8%89%E4%BA%BA%E5%85%B1%E7%94%A8%E4%B8%80%E5%BC%A0%E8%84%B8%23" target="weibo">
 王栎鑫儿子女儿三人共用一张脸（热度：1279294）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E8%BD%AC%E5%87%BAICU%23" target="weibo">
-成都崇州被狗咬伤女童已转出ICU（热度：1278506）
 </a>
 </li>
 
@@ -4757,6 +4757,12 @@ DK 疯牛病（热度：1059512）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%A7%81%E4%B9%89%E5%8B%87%E4%B8%BA%E7%9A%84%E5%8D%97%E4%BA%AC%E8%83%96%E5%93%A5%E5%A5%B3%E5%84%BF%E7%A6%BB%E4%B8%96%23" target="weibo">
 曾见义勇为的南京胖哥女儿离世（热度：1050581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%94%B7%E5%AD%90%E5%9D%9A%E6%8C%814%E5%B9%B4%E6%AF%8F%E5%A4%A9%E7%86%AC%E5%A4%9C%E7%94%BBCAD%23" target="weibo">
+25岁男子坚持4年每天熬夜画CAD（热度：1050120）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ iPhone平均寿命将达8年（热度：910856）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%92%B8%E9%98%B3%23" target="weibo">
-林俊杰咸阳（热度：890359）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6449,6 +6449,12 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E5%9C%A8%E6%96%B0%E7%9A%84%E8%B5%B7%E7%82%B9%E4%B8%8A%E7%BB%A7%E7%BB%AD%E6%8E%A8%E5%8A%A8%E6%96%87%E5%8C%96%E7%B9%81%E8%8D%A3%23%23" target="weibo">
 #在新的起点上继续推动文化繁荣#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%9B%BD%E5%A6%87%E5%A5%B3%E7%AC%AC%E5%8D%81%E4%B8%89%E6%AC%A1%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A%E5%9C%A8%E4%BA%AC%E5%BC%80%E5%B9%95%23%23" target="weibo">
+#中国妇女第十三次全国代表大会在京开幕#
 </a>
 </li>
 
