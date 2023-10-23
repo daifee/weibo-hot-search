@@ -1,0 +1,410 @@
+{
+  "runTime": 1698050143519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1555452,
+        "num": 1555452,
+        "word": "5.9一瓶的粉底液",
+        "onboard_time": 1698043966,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1287071,
+        "num": 1287071,
+        "word": "昏迷50多天24岁产妇遗憾离开人世",
+        "onboard_time": 1698045406,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88447,
+        "num": 947686,
+        "word": "长辈的爱值得一场双向奔赴",
+        "onboard_time": 1698030814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729083,
+        "num": 729083,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714420,
+        "num": 714420,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 506295,
+        "num": 506295,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 5,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 493909,
+        "num": 493909,
+        "word": "中国股市必须守住",
+        "onboard_time": 1698046126,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 437717,
+        "num": 437717,
+        "word": "李佳航 别人总说我接戏乱七八糟的",
+        "onboard_time": 1698043127,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 431005,
+        "num": 431005,
+        "word": "买1.6万黄金1小时后换款缩水5600",
+        "onboard_time": 1698042163,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 387144,
+        "num": 387144,
+        "word": "因鼠头鸭脖等事件两地政府负责人被约谈",
+        "onboard_time": 1698042040,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2207132,
+        "num": 383232,
+        "word": "华晨宇 男孩子也穿婚纱太酷了吧",
+        "onboard_time": 1698046965,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 618052,
+        "num": 381377,
+        "word": "A股大跌",
+        "onboard_time": 1698044744,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 372799,
+        "num": 372799,
+        "word": "王栎鑫谁还不是个rapper",
+        "onboard_time": 1698048623,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336480,
+        "num": 336480,
+        "word": "还珠格格台词原来这么离谱",
+        "onboard_time": 1698045880,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324736,
+        "num": 324736,
+        "word": "烟花猫眼美甲",
+        "onboard_time": 1698044864,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 307028,
+        "num": 307028,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 15,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 277500,
+        "num": 277500,
+        "word": "咒术回战 五条悟新插画",
+        "onboard_time": 1698048086,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 261231,
+        "num": 261231,
+        "word": "EXO台历呢",
+        "onboard_time": 1698046302,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254257,
+        "num": 254257,
+        "word": "惠英红 影后大起大落的60年",
+        "onboard_time": 1698047345,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249900,
+        "num": 249900,
+        "word": "尚有293个国考职位无人通过资格审查",
+        "onboard_time": 1698049035,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 659548,
+        "num": 248449,
+        "word": "杨超越 以后不红了怎么办",
+        "onboard_time": 1698044080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346589,
+        "num": 244749,
+        "word": "原来小县城工资也很高",
+        "onboard_time": 1698041024,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238647,
+        "num": 238647,
+        "word": "肖战美拉德风衣",
+        "onboard_time": 1698038082,
+        "rank": 22,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 238217,
+        "num": 238217,
+        "word": "中国B级片的未来",
+        "onboard_time": 1698043183,
+        "rank": 23,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 238042,
+        "num": 238042,
+        "word": "迪丽热巴佩列沙茨大桥海报",
+        "onboard_time": 1698045525,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231793,
+        "num": 231793,
+        "word": "侯明昊 漫撕男",
+        "onboard_time": 1698046781,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 376370,
+        "num": 229922,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 226948,
+        "num": 226948,
+        "word": "杨幂 有效客串",
+        "onboard_time": 1698037188,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224709,
+        "num": 224709,
+        "word": "FIFTYFIFTY解散",
+        "onboard_time": 1698042881,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211188,
+        "num": 211188,
+        "word": "少女时代旧照",
+        "onboard_time": 1698049572,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201426,
+        "num": 211188,
+        "word": "鼠头鸭脖事件暴露南昌应急处置失当",
+        "onboard_time": 1698048449,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198376,
+        "num": 211178,
+        "word": "易烊千玺的狗啃式刘海",
+        "onboard_time": 1698033876,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 193881,
+        "num": 211175,
+        "word": "19岁儿子将妈妈所存50余万转给女友",
+        "onboard_time": 1698039282,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 184788,
+        "num": 211168,
+        "word": "重阳节的逆爱",
+        "onboard_time": 1698048858,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 178578,
+        "num": 211156,
+        "word": "基金",
+        "onboard_time": 1698045462,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 177185,
+        "num": 211156,
+        "word": "何炅看黄明昊林一跳舞的表情",
+        "onboard_time": 1698038926,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 168944,
+        "num": 211150,
+        "word": "青岛啤酒事件涉事人员均为外用工",
+        "onboard_time": 1698042528,
+        "rank": 36,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 156715,
+        "num": 211143,
+        "word": "民警和校长当全校师生面给6岁女孩颁奖",
+        "onboard_time": 1698044564,
+        "rank": 37,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 152104,
+        "num": 211134,
+        "word": "被白象的操作暖到了",
+        "onboard_time": 1698045162,
+        "rank": 38,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 150150,
+        "num": 211129,
+        "word": "MINNIE和HANNI唱Remember Me",
+        "onboard_time": 1698045281,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143344,
+        "num": 211124,
+        "word": "秦霄贤说王鹤棣老狠了",
+        "onboard_time": 1698043001,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142494,
+        "num": 211113,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1698036828,
+        "rank": 41,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 141401,
+        "num": 211110,
+        "word": "A股",
+        "onboard_time": 1698025353,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 140634,
+        "num": 211100,
+        "word": "女子翻桥欲轻生众人飞奔齐拉回",
+        "onboard_time": 1698049868,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134054,
+        "num": 211096,
+        "word": "杨幂15年最美表演囚笼",
+        "onboard_time": 1698043241,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132979,
+        "num": 211090,
+        "word": "姐妹俩悄悄赶回家给爸爸过生日",
+        "onboard_time": 1698048026,
+        "rank": 45,
+        "category": "社会新闻,情感"
+      },
+      {
+        "raw_hot": 122733,
+        "num": 211084,
+        "word": "道诡异仙 九九重阳",
+        "onboard_time": 1698049988,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 122094,
+        "num": 211077,
+        "word": "30天真实亲测打卡早C晚A",
+        "onboard_time": 1698044927,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117180,
+        "num": 211068,
+        "word": "aespa台历照",
+        "onboard_time": 1698045340,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110516,
+        "num": 211067,
+        "word": "语雀bug",
+        "onboard_time": 1698045582,
+        "rank": 49,
+        "category": "数码,互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}
