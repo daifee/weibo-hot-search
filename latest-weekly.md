@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/22 00:20:27 ~ 2023/10/24 03:34:09
+本榜单时间：2023/10/22 00:20:27 ~ 2023/10/24 04:16:46
 </p>
 </blockquote>
 <p>
@@ -4665,6 +4665,12 @@ XDJ战胜AG（热度：75722）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
+男子殴打妻子致死被判死缓（热度：68864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BC%AB%E5%A4%A9%E6%A1%82%E8%8A%B1%E7%BB%99%E4%BA%86%E4%BA%9A%E8%BF%90%E5%B9%B4%E7%8B%AC%E6%9C%89%E7%9A%84%E6%B5%AA%E6%BC%AB%E8%AE%B0%E5%BF%86%23" target="weibo">
 漫天桂花给了亚运年独有的浪漫记忆（热度：66041）
 </a>
@@ -4875,6 +4881,12 @@ F1（热度：36935）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E5%B9%B4%E5%8F%8C11%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%BA%E5%80%BC%E5%BE%97%E4%B9%B0%23" target="weibo">
+今年双11什么手机值得买（热度：17202）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%8E%AF%E6%9C%88%E7%A9%BA%E9%97%B4%E7%AB%99%E5%92%8C%E6%9C%88%E7%90%83%E7%86%94%E6%B4%9E%E7%A9%B4%E5%9F%BA%E5%9C%B0%E6%96%B9%E6%A1%88%23" target="weibo">
 中国环月空间站和月球熔洞穴基地方案（热度：16803）
 </a>
@@ -4906,7 +4918,7 @@ F1（热度：36935）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E6%88%BF%23" target="weibo">
-宠物界的梦中情房（热度：11980）
+宠物界的梦中情房（热度：12277）
 </a>
 </li>
 

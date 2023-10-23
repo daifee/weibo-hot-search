@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698089649332,
+  "endTime": 1698092206730,
   "band_list": [
     {
       "raw_hot": 1379176,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 382416,
-      "num": 63314,
+      "num": 136101,
       "word": "女子举报嫂子身为公职人员婚内出轨生子",
       "onboard_time": 1698082160,
       "rank": 30,
@@ -435,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 68864,
+      "num": 38818,
+      "word": "男子殴打妻子致死被判死缓",
+      "onboard_time": 1698090134,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 48651,
       "num": 54981,
       "word": "王子浩和黄仁俊钟辰乐跳challenge",
@@ -459,7 +467,15 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 11980,
+      "raw_hot": 17202,
+      "num": 38675,
+      "word": "今年双11什么手机值得买",
+      "onboard_time": 1698089416,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 12277,
       "num": 50167,
       "word": "宠物界的梦中情房",
       "onboard_time": 1698088754,
