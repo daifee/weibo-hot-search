@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 00:21:58
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 00:37:33
 </p>
 </blockquote>
 <p>
@@ -3867,6 +3867,12 @@ KT战胜WBG（热度：1279678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E5%8D%83%E5%90%8D%E7%BD%91%E5%8F%8B%E5%90%91%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%94%B3%E8%AF%B7%E9%80%80%E6%AC%BE%23" target="weibo">
+超千名网友向被狗咬伤女童申请退款（热度：1246945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E7%A5%9E%23" target="weibo">
 封神（热度：1246600）
 </a>
@@ -6005,12 +6011,6 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E5%A5%B3%E4%B8%BB%E6%BC%94%E7%94%B7%E4%B8%BB%E7%9A%84%E5%AB%82%E5%AB%82%23" target="weibo">
 第一次见女主演男主的嫂嫂（热度：894782）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E5%BC%95%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E4%B9%8C%E9%BE%9F%E7%8E%A9%E5%81%B6%23" target="weibo">
-吸引全红婵只需要一个乌龟玩偶（热度：892958）
 </a>
 </li>
 

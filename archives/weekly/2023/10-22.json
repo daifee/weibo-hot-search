@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698078118666,
+  "endTime": 1698079053923,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -305,6 +305,14 @@
       "onboard_time": 1697972071,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1246945,
+      "num": 1246945,
+      "word": "超千名网友向被狗咬伤女童申请退款",
+      "onboard_time": 1698076508,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1220303,
@@ -785,14 +793,6 @@
       "onboard_time": 1697964632,
       "rank": 20,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 663082,
-      "num": 663082,
-      "word": "超千名网友向被狗咬伤女童申请退款",
-      "onboard_time": 1698076508,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 659548,
@@ -5139,6 +5139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131753,
+      "num": 131753,
+      "word": "费翔自拍",
+      "onboard_time": 1698078209,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131485,
       "num": 131485,
       "word": "亚当斯赛季报销",
@@ -5763,6 +5771,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 103938,
+      "num": 103938,
+      "word": "被共享单车整理员的薪资震惊到",
+      "onboard_time": 1698065812,
+      "rank": 43,
+      "category": "其它"
+    },
+    {
       "raw_hot": 102941,
       "num": 102941,
       "word": "夫妻摆摊卖盒饭收留聋哑人3余年",
@@ -6009,14 +6025,6 @@
       "onboard_time": 1697993305,
       "rank": 32,
       "category": "科技"
-    },
-    {
-      "raw_hot": 84914,
-      "num": 84914,
-      "word": "被共享单车整理员的薪资震惊到",
-      "onboard_time": 1698065812,
-      "rank": 43,
-      "category": "其它"
     },
     {
       "raw_hot": 84869,
@@ -6419,7 +6427,7 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 18256,
+      "raw_hot": 19709,
       "num": 567650,
       "word": "关爱老人在今天更在每一天",
       "onboard_time": 1698064359,

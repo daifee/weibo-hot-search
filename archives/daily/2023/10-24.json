@@ -1,7 +1,15 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698078118666,
+  "endTime": 1698079053923,
   "band_list": [
+    {
+      "raw_hot": 1246945,
+      "num": 1246945,
+      "word": "超千名网友向被狗咬伤女童申请退款",
+      "onboard_time": 1698076508,
+      "rank": 1,
+      "category": "社会新闻"
+    },
     {
       "raw_hot": 939107,
       "num": 939107,
@@ -9,14 +17,6 @@
       "onboard_time": 1698074440,
       "rank": 0,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 663082,
-      "num": 663082,
-      "word": "超千名网友向被狗咬伤女童申请退款",
-      "onboard_time": 1698076508,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 562296,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131753,
+      "num": 131753,
+      "word": "费翔自拍",
+      "onboard_time": 1698078209,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121037,
       "num": 121037,
       "word": "被老祖宗的审美惊艳到了",
@@ -305,6 +313,14 @@
       "onboard_time": 1698076356,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103938,
+      "num": 103938,
+      "word": "被共享单车整理员的薪资震惊到",
+      "onboard_time": 1698065812,
+      "rank": 43,
+      "category": "其它"
     },
     {
       "raw_hot": 103523,
@@ -339,14 +355,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84914,
-      "num": 84914,
-      "word": "被共享单车整理员的薪资震惊到",
-      "onboard_time": 1698065812,
-      "rank": 43,
-      "category": "其它"
-    },
-    {
       "raw_hot": 82208,
       "num": 82208,
       "word": "宝妈刷单被骗15万民警2700公里追回",
@@ -355,20 +363,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80655,
+      "num": 80655,
+      "word": "小米14",
+      "onboard_time": 1698058545,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79872,
       "num": 79872,
       "word": "花儿与少年丝路季综述预告",
       "onboard_time": 1698074918,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 79855,
-      "num": 79855,
-      "word": "小米14",
-      "onboard_time": 1698058545,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 76495,
@@ -395,7 +403,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18256,
+      "raw_hot": 19709,
       "num": 567650,
       "word": "关爱老人在今天更在每一天",
       "onboard_time": 1698064359,
@@ -406,6 +414,9 @@
   "hotgov_list": [
     {
       "word": "#在新时代新征程上书写巾帼荣光#"
+    },
+    {
+      "word": "#在新的起点上继续推动文化繁荣#"
     }
   ]
 }
