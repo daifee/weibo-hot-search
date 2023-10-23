@@ -1,0 +1,410 @@
+{
+  "runTime": 1698043032960,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 817214,
+        "num": 817214,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 745561,
+        "num": 745561,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 1,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 28912,
+        "num": 608532,
+        "word": "比亚残运会赛事更昂扬的是人生",
+        "onboard_time": 1698031473,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1251173,
+        "num": 607994,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 550138,
+        "num": 550138,
+        "word": "官方将通报青岛啤酒小便事件",
+        "onboard_time": 1698040729,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 540627,
+        "num": 540627,
+        "word": "因鼠头鸭脖等事件两地政府负责人被约谈",
+        "onboard_time": 1698042040,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 511630,
+        "num": 511630,
+        "word": "喝下可乐后人体会发生什么变化",
+        "onboard_time": 1698037846,
+        "rank": 6,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 415999,
+        "num": 415999,
+        "word": "福岛核污染水第二轮排海完成",
+        "onboard_time": 1698038144,
+        "rank": 7,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 395246,
+        "num": 395246,
+        "word": "可可西里的网红狼开始带新人了",
+        "onboard_time": 1698037549,
+        "rank": 8,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 388675,
+        "num": 388675,
+        "word": "外资流出不是A股下跌的关键原因",
+        "onboard_time": 1698041144,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 724552,
+        "num": 382285,
+        "word": "A股",
+        "onboard_time": 1698025353,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 392449,
+        "num": 382040,
+        "word": "肖战美拉德风衣",
+        "onboard_time": 1698038082,
+        "rank": 11,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 365788,
+        "num": 365788,
+        "word": "FIFTYFIFTY解散",
+        "onboard_time": 1698042881,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365615,
+        "num": 365615,
+        "word": "何炅看黄明昊林一跳舞的表情",
+        "onboard_time": 1698038926,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332670,
+        "num": 332670,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 14,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 299115,
+        "num": 299115,
+        "word": "青岛啤酒事件涉事人员均为外用工",
+        "onboard_time": 1698042528,
+        "rank": 15,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 294468,
+        "num": 294468,
+        "word": "易烊千玺的狗啃式刘海",
+        "onboard_time": 1698033876,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 239663,
+        "num": 239663,
+        "word": "马嘉祺 公主请下车",
+        "onboard_time": 1698041381,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 239207,
+        "num": 239207,
+        "word": "迪丽热巴动人玫瑰",
+        "onboard_time": 1698041144,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 208769,
+        "num": 208769,
+        "word": "张晚意王楚然柳舟记官宣",
+        "onboard_time": 1698030992,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 508358,
+        "num": 205547,
+        "word": "原来小县城工资也很高",
+        "onboard_time": 1698041024,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335608,
+        "num": 203863,
+        "word": "19岁儿子将妈妈所存50余万转给女友",
+        "onboard_time": 1698039282,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330214,
+        "num": 199089,
+        "word": "杨幂 有效客串",
+        "onboard_time": 1698037188,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 324488,
+        "num": 192621,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266168,
+        "num": 189143,
+        "word": "姚贝娜父亲出席李玟纪念展",
+        "onboard_time": 1698033214,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245602,
+        "num": 185350,
+        "word": "为什么有人的耳屎是香的",
+        "onboard_time": 1698039039,
+        "rank": 25,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 221742,
+        "num": 178532,
+        "word": "大学生体测现201314",
+        "onboard_time": 1698042105,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 178404,
+        "num": 178404,
+        "word": "秦海璐在3个国家拍了7张自己的脚",
+        "onboard_time": 1698030634,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173299,
+        "num": 173299,
+        "word": "同济大学寝室四人全员直博",
+        "onboard_time": 1698042643,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 172128,
+        "num": 172128,
+        "word": "赵露思或辞演珠帘玉幕",
+        "onboard_time": 1698031054,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409919,
+        "num": 171955,
+        "word": "买1.6万黄金1小时后换款缩水5600",
+        "onboard_time": 1698042163,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 322992,
+        "num": 171752,
+        "word": "彩妆双胞胎",
+        "onboard_time": 1698041621,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171047,
+        "num": 171047,
+        "word": "厨娘小何买了一条鳄鱼",
+        "onboard_time": 1698035629,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 169252,
+        "num": 169252,
+        "word": "电子呕吐物",
+        "onboard_time": 1698029972,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 158115,
+        "num": 158115,
+        "word": "林柏叡居然有个6岁的女儿",
+        "onboard_time": 1698033336,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157590,
+        "num": 157590,
+        "word": "徐娇小狗美甲",
+        "onboard_time": 1698035023,
+        "rank": 35,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 154019,
+        "num": 154019,
+        "word": "RIIZE新歌Talk Saxy预告",
+        "onboard_time": 1698042405,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 150322,
+        "num": 150322,
+        "word": "秦霄贤说王鹤棣老狠了",
+        "onboard_time": 1698043001,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144170,
+        "num": 144170,
+        "word": "毕业五年我妈以为我存款50w",
+        "onboard_time": 1698035629,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 141488,
+        "num": 141488,
+        "word": "全昭旻RM下车",
+        "onboard_time": 1698024211,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140028,
+        "num": 140028,
+        "word": "以军就坦克意外击中埃及军事哨所道歉",
+        "onboard_time": 1698022836,
+        "rank": 40,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 138365,
+        "num": 138365,
+        "word": "看得都想剪个地中海戴假发了",
+        "onboard_time": 1698040606,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129392,
+        "num": 129392,
+        "word": "秋冬护手霜自用评测",
+        "onboard_time": 1698042344,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 126558,
+        "num": 126558,
+        "word": "什么是肺结节",
+        "onboard_time": 1698034598,
+        "rank": 43,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 124802,
+        "num": 124802,
+        "word": "亚残运会中国队服装五个暖心细节",
+        "onboard_time": 1698041203,
+        "rank": 44,
+        "category": "体育,社会新闻"
+      },
+      {
+        "raw_hot": 121142,
+        "num": 121142,
+        "word": "吴楚一跳的是这种钢管舞吗",
+        "onboard_time": 1697988874,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120179,
+        "num": 120179,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1698036828,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 118736,
+        "num": 118736,
+        "word": "杨紫白色露背裙",
+        "onboard_time": 1698036649,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115085,
+        "num": 115085,
+        "word": "奶润绒雾感底妆",
+        "onboard_time": 1698042163,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 113427,
+        "num": 113427,
+        "word": "国内油价或下调",
+        "onboard_time": 1698042944,
+        "rank": 49,
+        "category": "财经,社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}
