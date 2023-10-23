@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698099376264,
+  "endTime": 1698100448321,
   "band_list": [
     {
       "raw_hot": 1379176,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 557621,
+      "num": 557621,
+      "word": "女子举报嫂子身为公职人员婚内出轨生子",
+      "onboard_time": 1698082160,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 511992,
       "num": 277056,
       "word": "梁龙素颜",
@@ -40,14 +48,6 @@
       "word": "崇州被狗咬伤女童目前医疗支出近6万元",
       "onboard_time": 1698069043,
       "rank": 4,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 382416,
-      "num": 363840,
-      "word": "女子举报嫂子身为公职人员婚内出轨生子",
-      "onboard_time": 1698082160,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -129,6 +129,14 @@
       "onboard_time": 1698069164,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216050,
+      "num": 216050,
+      "word": "肖战深情演绎夜空中最亮的星",
+      "onboard_time": 1698083417,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 215279,
@@ -235,14 +243,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 142941,
-      "num": 171617,
-      "word": "肖战深情演绎夜空中最亮的星",
-      "onboard_time": 1698083417,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 141043,
       "num": 170924,
       "word": "被保姆抚养16年的孩子长大照顾保姆",
@@ -307,6 +307,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 117157,
+      "num": 171608,
+      "word": "男子殴打妻子致死被判死缓",
+      "onboard_time": 1698090134,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 109365,
       "num": 168890,
       "word": "花花冬天8点钟才上班",
@@ -361,14 +369,6 @@
       "onboard_time": 1698072827,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86181,
-      "num": 171608,
-      "word": "男子殴打妻子致死被判死缓",
-      "onboard_time": 1698090134,
-      "rank": 10,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 85254,
@@ -443,12 +443,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 51181,
+      "raw_hot": 70887,
       "num": 170155,
       "word": "熊猫幼崽被摸头后的眼神",
       "onboard_time": 1698095354,
       "rank": 42,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 54911,
+      "num": 166961,
+      "word": "新疆出现一半秋天一半冬天场景",
+      "onboard_time": 1698096252,
+      "rank": 49,
+      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 48651,
@@ -465,14 +473,6 @@
       "onboard_time": 1698079765,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 37497,
-      "num": 166961,
-      "word": "新疆出现一半秋天一半冬天场景",
-      "onboard_time": 1698096252,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 20278,
