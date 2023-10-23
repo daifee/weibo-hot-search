@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698088472306,
+  "endTime": 1698089649332,
   "band_list": [
     {
       "raw_hot": 1379176,
@@ -457,6 +457,14 @@
       "onboard_time": 1698064359,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11980,
+      "num": 50167,
+      "word": "宠物界的梦中情房",
+      "onboard_time": 1698088754,
+      "rank": 49,
+      "category": "动物萌宠"
     }
   ],
   "hotgov_list": [
