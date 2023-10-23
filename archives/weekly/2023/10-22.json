@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698075275765,
+  "endTime": 1698078118666,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 939107,
+      "num": 939107,
+      "word": "厂家称5.9元粉底液是活动价",
+      "onboard_time": 1698074440,
+      "rank": 22,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 927895,
       "num": 927895,
       "word": "旅客带核辐射超标1050倍保健石入境",
@@ -779,6 +787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 663082,
+      "num": 663082,
+      "word": "超千名网友向被狗咬伤女童申请退款",
+      "onboard_time": 1698076508,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 659548,
       "num": 313738,
       "word": "杨超越 以后不红了怎么办",
@@ -953,6 +969,14 @@
       "onboard_time": 1697976813,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 562296,
+      "num": 562296,
+      "word": "700万动迁款分给4名子女后无人赡养",
+      "onboard_time": 1698073902,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 561443,
@@ -2467,14 +2491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 279026,
-      "num": 279026,
-      "word": "厂家称5.9元粉底液是活动价",
-      "onboard_time": 1698074440,
-      "rank": 22,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 278356,
       "num": 278356,
       "word": "花花冬天8点钟才上班",
@@ -2715,6 +2731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 250059,
+      "num": 250059,
+      "word": "华戎舟是华浅想象出来的",
+      "onboard_time": 1698073841,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 249024,
       "num": 249024,
       "word": "薛之谦木偶妆",
@@ -2769,14 +2793,6 @@
       "onboard_time": 1697934208,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 243947,
-      "num": 243947,
-      "word": "700万动迁款分给4名子女后无人赡养",
-      "onboard_time": 1698073902,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 243720,
@@ -3049,14 +3065,6 @@
       "onboard_time": 1698033336,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 227348,
-      "num": 227348,
-      "word": "华戎舟是华浅想象出来的",
-      "onboard_time": 1698073841,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 226647,
@@ -4403,6 +4411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159847,
+      "num": 159847,
+      "word": "阿婆被骗后向民警炫耀是马云团队的",
+      "onboard_time": 1698075577,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 159678,
       "num": 159678,
       "word": "四川农村坝坝宴",
@@ -4707,6 +4723,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 145531,
+      "num": 145531,
+      "word": "A股的问题是投资者普遍赚不到钱",
+      "onboard_time": 1698075217,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 145297,
       "num": 173249,
       "word": "国考",
@@ -4937,6 +4961,14 @@
       "onboard_time": 1698065801,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137708,
+      "num": 137708,
+      "word": "孔雪儿跳了baddie",
+      "onboard_time": 1698075338,
+      "rank": 30,
+      "category": "音乐"
     },
     {
       "raw_hot": 137045,
@@ -5683,6 +5715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 106353,
+      "num": 106353,
+      "word": "小朋友商场连蹲两天追星奶龙",
+      "onboard_time": 1698076356,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 105809,
       "num": 105809,
       "word": "五金女孩",
@@ -5971,6 +6011,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 84914,
+      "num": 84914,
+      "word": "被共享单车整理员的薪资震惊到",
+      "onboard_time": 1698065812,
+      "rank": 43,
+      "category": "其它"
+    },
+    {
       "raw_hot": 84869,
       "num": 78402,
       "word": "唐艺昕成都citywalk",
@@ -6009,14 +6057,6 @@
       "onboard_time": 1697982273,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 79767,
-      "num": 119035,
-      "word": "A股的问题是投资者普遍赚不到钱",
-      "onboard_time": 1698075217,
-      "rank": 49,
-      "category": "财经"
     },
     {
       "raw_hot": 79674,
@@ -6096,6 +6136,14 @@
       "word": "把鉴宝专家给整不会了",
       "onboard_time": 1697997317,
       "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 71979,
+      "num": 79830,
+      "word": "北京脆皮年轻人不服来战",
+      "onboard_time": 1698077730,
+      "rank": 49,
       "category": "幽默"
     },
     {
@@ -6369,6 +6417,14 @@
       "onboard_time": 1698010153,
       "rank": 48,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 18256,
+      "num": 567650,
+      "word": "关爱老人在今天更在每一天",
+      "onboard_time": 1698064359,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16803,

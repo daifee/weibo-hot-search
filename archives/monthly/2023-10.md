@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 23:34:35
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 00:21:58
 </p>
 </blockquote>
 <p>
@@ -5631,6 +5631,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%82%E5%AE%B6%E7%A7%B05.9%E5%85%83%E7%B2%89%E5%BA%95%E6%B6%B2%E6%98%AF%E6%B4%BB%E5%8A%A8%E4%BB%B7%23" target="weibo">
+厂家称5.9元粉底液是活动价（热度：939107）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA7K%E6%8A%A0%E9%97%A8%E4%B8%89%E5%B9%B4%E6%94%92%E4%B8%8B20%E4%B8%87%23" target="weibo">
 月薪7K抠门三年攒下20万（热度：939058）
 </a>
@@ -6005,12 +6011,6 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B8%E5%BC%95%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%AA%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E4%B9%8C%E9%BE%9F%E7%8E%A9%E5%81%B6%23" target="weibo">
 吸引全红婵只需要一个乌龟玩偶（热度：892958）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%9C%A8%E5%86%B0%E5%B2%9B%E5%81%B6%E9%81%87%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
-网友在冰岛偶遇迪丽热巴（热度：892344）
 </a>
 </li>
 
