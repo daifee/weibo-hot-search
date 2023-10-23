@@ -1,0 +1,410 @@
+{
+  "runTime": 1698057383549,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758176,
+        "num": 758176,
+        "word": "大发量鲨鱼夹",
+        "onboard_time": 1698052072,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 413437,
+        "num": 720117,
+        "word": "101岁老人自曝长寿要吃肉吃菜爱干活",
+        "onboard_time": 1698055250,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 48719,
+        "num": 690050,
+        "word": "长辈的爱值得一场双向奔赴",
+        "onboard_time": 1698030814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1340512,
+        "num": 670438,
+        "word": "这3个三角配享太庙",
+        "onboard_time": 1698051181,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 360946,
+        "num": 620391,
+        "word": "幼儿园研学摘6千根甘蔗乐坏农场主",
+        "onboard_time": 1698056327,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 992913,
+        "num": 577489,
+        "word": "酱园弄 杀夫案",
+        "onboard_time": 1698054108,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143576,
+        "num": 528965,
+        "word": "7旬老人皮影60年演活孙悟空72变",
+        "onboard_time": 1698055848,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 523315,
+        "num": 523315,
+        "word": "100只大闸蟹做成的百蟹瀑布",
+        "onboard_time": 1698055610,
+        "rank": 7,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 490507,
+        "num": 490507,
+        "word": "昏迷50多天24岁产妇遗憾离开人世",
+        "onboard_time": 1698045406,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 419724,
+        "num": 419724,
+        "word": "Monster",
+        "onboard_time": 1698053211,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 722370,
+        "num": 419517,
+        "word": "华晨宇 男孩子也穿婚纱太酷了吧",
+        "onboard_time": 1698046965,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 553926,
+        "num": 419247,
+        "word": "难听",
+        "onboard_time": 1698054828,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 418869,
+        "num": 418869,
+        "word": "SEVENTEEN空降第一",
+        "onboard_time": 1698056807,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 414387,
+        "num": 414387,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 374931,
+        "num": 374931,
+        "word": "张小斐的腿好长",
+        "onboard_time": 1698054650,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 341195,
+        "num": 341195,
+        "word": "金晨的喜欢与不喜欢太明显了",
+        "onboard_time": 1698056510,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333647,
+        "num": 333647,
+        "word": "蒲熠星谈小女孩的伤疤像香妃的蝴蝶",
+        "onboard_time": 1698053685,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111841,
+        "num": 321727,
+        "word": "预售有预售的道理",
+        "onboard_time": 1698054828,
+        "rank": 17,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 350532,
+        "num": 321448,
+        "word": "SEVENTEEN回归新曲",
+        "onboard_time": 1698052134,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 318597,
+        "num": 318597,
+        "word": "Hybe",
+        "onboard_time": 1698053329,
+        "rank": 19,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 579855,
+        "num": 317201,
+        "word": "美国28岁女保姆性侵8月大女婴",
+        "onboard_time": 1698055428,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314993,
+        "num": 314993,
+        "word": "A股大跌",
+        "onboard_time": 1698044744,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 287313,
+        "num": 287313,
+        "word": "教育局回应女孩被锁楼顶喊救命",
+        "onboard_time": 1698053211,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270023,
+        "num": 270023,
+        "word": "赵丽颖彝族服饰写真",
+        "onboard_time": 1698056628,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 269905,
+        "num": 269905,
+        "word": "厂家回应博主测评5.9元粉底液",
+        "onboard_time": 1698055127,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 260535,
+        "num": 260535,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 25,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 259952,
+        "num": 259952,
+        "word": "杨超越 以后不红了怎么办",
+        "onboard_time": 1698044080,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241042,
+        "num": 241042,
+        "word": "金珉奎 镜头少",
+        "onboard_time": 1698055486,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 236901,
+        "num": 236901,
+        "word": "5.9一瓶的粉底液",
+        "onboard_time": 1698043966,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 220496,
+        "num": 220496,
+        "word": "给你500万但要垫付1万5你信吗",
+        "onboard_time": 1698054530,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 224908,
+        "num": 218257,
+        "word": "韩素希谈身材焦虑",
+        "onboard_time": 1698055550,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204206,
+        "num": 204206,
+        "word": "SOS 好听",
+        "onboard_time": 1698057108,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 193882,
+        "num": 193882,
+        "word": "TL告别S13",
+        "onboard_time": 1698054108,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 189677,
+        "num": 189677,
+        "word": "God Of Music",
+        "onboard_time": 1698057169,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 180036,
+        "num": 180036,
+        "word": "老人味是在提醒我们别把他们落太远",
+        "onboard_time": 1698057226,
+        "rank": 34,
+        "category": "社会议题,情感"
+      },
+      {
+        "raw_hot": 186914,
+        "num": 179733,
+        "word": "万能发型公式",
+        "onboard_time": 1698056866,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 179220,
+        "num": 179220,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170199,
+        "num": 170199,
+        "word": "原来小县城工资也很高",
+        "onboard_time": 1698041024,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 196885,
+        "num": 168782,
+        "word": "163岁跑马夫妻每天跑步1万米",
+        "onboard_time": 1698054285,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165873,
+        "num": 165873,
+        "word": "你的脸型适合什么眉形",
+        "onboard_time": 1698056570,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 165099,
+        "num": 165099,
+        "word": "河边体",
+        "onboard_time": 1698055969,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164468,
+        "num": 164468,
+        "word": "卢昱晓成立个人工作室了",
+        "onboard_time": 1698051237,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155808,
+        "num": 155808,
+        "word": "张艺谋新片明年春节上映",
+        "onboard_time": 1698053867,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152485,
+        "num": 152485,
+        "word": "湖南台化妆师实用打工产品",
+        "onboard_time": 1698057045,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 128914,
+        "num": 149385,
+        "word": "尚有293个国考职位无人通过资格审查",
+        "onboard_time": 1698049035,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 146448,
+        "num": 146448,
+        "word": "翊彤",
+        "onboard_time": 1698057348,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142566,
+        "num": 142566,
+        "word": "揭秘5.9元粉底液厂商",
+        "onboard_time": 1698057348,
+        "rank": 46,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 141312,
+        "num": 141312,
+        "word": "国考",
+        "onboard_time": 1698053806,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137670,
+        "num": 137670,
+        "word": "华浅吃醋",
+        "onboard_time": 1698054349,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121507,
+        "num": 136665,
+        "word": "地铁站里的以琴会友令人动容",
+        "onboard_time": 1698053749,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新的起点上继续推动文化繁荣#"
+    }
+  }
+}

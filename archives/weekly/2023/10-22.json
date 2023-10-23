@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698056363751,
+  "endTime": 1698057383549,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -379,6 +379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 992913,
+      "num": 873208,
+      "word": "酱园弄 杀夫案",
+      "onboard_time": 1698054108,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 989535,
       "num": 989535,
       "word": "中国足协负债12亿",
@@ -441,14 +449,6 @@
       "onboard_time": 1697899240,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 873208,
-      "num": 873208,
-      "word": "酱园弄 杀夫案",
-      "onboard_time": 1698054108,
-      "rank": 0,
-      "category": "电影"
     },
     {
       "raw_hot": 845490,
@@ -555,6 +555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 758176,
+      "num": 758176,
+      "word": "大发量鲨鱼夹",
+      "onboard_time": 1698052072,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 757246,
       "num": 757246,
       "word": "外交部回应中国海警拦阻菲船只",
@@ -611,14 +619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 691230,
-      "num": 691230,
-      "word": "大发量鲨鱼夹",
-      "onboard_time": 1698052072,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 682257,
       "num": 682257,
       "word": "爷爷奶奶有一千多万还在当保洁",
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 679602,
-      "num": 378776,
+      "num": 419247,
       "word": "难听",
       "onboard_time": 1698054828,
       "rank": 12,
@@ -811,6 +811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 579855,
+      "num": 335779,
+      "word": "美国28岁女保姆性侵8月大女婴",
+      "onboard_time": 1698055428,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 578528,
       "num": 578528,
       "word": "倪妮河南分妮最近火了",
@@ -939,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 523315,
+      "num": 523315,
+      "word": "100只大闸蟹做成的百蟹瀑布",
+      "onboard_time": 1698055610,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 516248,
       "num": 516248,
       "word": "杨紫白色露背裙",
@@ -1049,14 +1065,6 @@
       "onboard_time": 1697938107,
       "rank": 25,
       "category": "财经"
-    },
-    {
-      "raw_hot": 493694,
-      "num": 335779,
-      "word": "美国28岁女保姆性侵8月大女婴",
-      "onboard_time": 1698055428,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 488421,
@@ -1211,14 +1219,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 440047,
-      "num": 378593,
-      "word": "100只大闸蟹做成的百蟹瀑布",
-      "onboard_time": 1698055610,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 438591,
       "num": 438591,
       "word": "斗破苍穹",
@@ -1313,6 +1313,14 @@
       "onboard_time": 1698042881,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 418869,
+      "num": 418869,
+      "word": "SEVENTEEN空降第一",
+      "onboard_time": 1698056807,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 415395,
@@ -1595,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360946,
+      "num": 620391,
+      "word": "幼儿园研学摘6千根甘蔗乐坏农场主",
+      "onboard_time": 1698056327,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 354854,
       "num": 320897,
       "word": "林一演出我心目中的痞帅校霸",
@@ -1664,6 +1680,14 @@
       "word": "王鹤棣自己开车录制好六",
       "onboard_time": 1697931443,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 341195,
+      "num": 341195,
+      "word": "金晨的喜欢与不喜欢太明显了",
+      "onboard_time": 1698056510,
+      "rank": 15,
       "category": "综艺"
     },
     {
@@ -2201,6 +2225,14 @@
       "onboard_time": 1698045462,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 270023,
+      "num": 270023,
+      "word": "赵丽颖彝族服饰写真",
+      "onboard_time": 1698056628,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 269081,
@@ -2763,6 +2795,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 220496,
+      "num": 220496,
+      "word": "给你500万但要垫付1万5你信吗",
+      "onboard_time": 1698054530,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 220319,
       "num": 220319,
       "word": "明日方舟 四爷",
@@ -2780,7 +2820,7 @@
     },
     {
       "raw_hot": 220033,
-      "num": 378503,
+      "num": 528965,
       "word": "7旬老人皮影60年演活孙悟空72变",
       "onboard_time": 1698055848,
       "rank": 14,
@@ -3025,6 +3065,14 @@
       "onboard_time": 1698053867,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 204206,
+      "num": 204206,
+      "word": "SOS 好听",
+      "onboard_time": 1698057108,
+      "rank": 31,
+      "category": "音乐"
     },
     {
       "raw_hot": 204048,
@@ -3347,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 189677,
+      "num": 189677,
+      "word": "God Of Music",
+      "onboard_time": 1698057169,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 189419,
       "num": 189419,
       "word": "李沁美拉德流苏外套",
@@ -3369,14 +3425,6 @@
       "onboard_time": 1698050405,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188462,
-      "num": 196409,
-      "word": "给你500万但要垫付1万5你信吗",
-      "onboard_time": 1698054530,
-      "rank": 39,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 188393,
@@ -3417,6 +3465,14 @@
       "onboard_time": 1698051357,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 186914,
+      "num": 179733,
+      "word": "万能发型公式",
+      "onboard_time": 1698056866,
+      "rank": 35,
+      "category": "美妆"
     },
     {
       "raw_hot": 185989,
@@ -3505,6 +3561,14 @@
       "onboard_time": 1697970091,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180036,
+      "num": 180036,
+      "word": "老人味是在提醒我们别把他们落太远",
+      "onboard_time": 1698057226,
+      "rank": 34,
+      "category": "社会议题,情感"
     },
     {
       "raw_hot": 180022,
@@ -3651,14 +3715,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 171188,
-      "num": 193567,
-      "word": "幼儿园研学摘6千根甘蔗乐坏农场主",
-      "onboard_time": 1698056327,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 170961,
       "num": 170961,
       "word": "生命中最年轻的一天永远是今天",
@@ -3713,6 +3769,14 @@
       "onboard_time": 1697962472,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 165873,
+      "num": 165873,
+      "word": "你的脸型适合什么眉形",
+      "onboard_time": 1698056570,
+      "rank": 39,
+      "category": "美妆"
     },
     {
       "raw_hot": 165860,
@@ -3971,6 +4035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152485,
+      "num": 152485,
+      "word": "湖南台化妆师实用打工产品",
+      "onboard_time": 1698057045,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 152459,
       "num": 141821,
       "word": "戚薇长裙三层楼高",
@@ -4091,6 +4163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146448,
+      "num": 146448,
+      "word": "翊彤",
+      "onboard_time": 1698057348,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 145297,
       "num": 173249,
       "word": "国考",
@@ -4145,6 +4225,14 @@
       "onboard_time": 1698045281,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 142566,
+      "num": 142566,
+      "word": "揭秘5.9元粉底液厂商",
+      "onboard_time": 1698057348,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 142345,
@@ -4643,6 +4731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 121507,
+      "num": 136665,
+      "word": "地铁站里的以琴会友令人动容",
+      "onboard_time": 1698053749,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121062,
       "num": 121062,
       "word": "繁城之下豆瓣涨至8.6分",
@@ -4777,6 +4873,14 @@
       "onboard_time": 1697938232,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 111841,
+      "num": 338426,
+      "word": "预售有预售的道理",
+      "onboard_time": 1698054828,
+      "rank": 17,
+      "category": "知识科普"
     },
     {
       "raw_hot": 110477,
@@ -5297,14 +5401,6 @@
       "onboard_time": 1698003734,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 57650,
-      "num": 338426,
-      "word": "预售有预售的道理",
-      "onboard_time": 1698054828,
-      "rank": 17,
-      "category": "知识科普"
     },
     {
       "raw_hot": 57527,
