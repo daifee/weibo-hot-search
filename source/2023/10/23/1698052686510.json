@@ -1,0 +1,410 @@
+{
+  "runTime": 1698052686510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 983634,
+        "num": 983634,
+        "word": "5.9一瓶的粉底液",
+        "onboard_time": 1698043966,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 917967,
+        "num": 917967,
+        "word": "昏迷50多天24岁产妇遗憾离开人世",
+        "onboard_time": 1698045406,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 69824,
+        "num": 916399,
+        "word": "长辈的爱值得一场双向奔赴",
+        "onboard_time": 1698030814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 915778,
+        "num": 915778,
+        "word": "SEVENTEEN回归新曲",
+        "onboard_time": 1698052134,
+        "rank": 3,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 598736,
+        "num": 598736,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 495722,
+        "num": 495722,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391524,
+        "num": 391524,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 6,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 371122,
+        "num": 371122,
+        "word": "中国股市必须守住",
+        "onboard_time": 1698046126,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 366610,
+        "num": 366610,
+        "word": "买1.6万黄金1小时后换款缩水5600",
+        "onboard_time": 1698042163,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 264429,
+        "num": 264429,
+        "word": "王栎鑫谁还不是个rapper",
+        "onboard_time": 1698048623,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1649745,
+        "num": 264141,
+        "word": "华晨宇 男孩子也穿婚纱太酷了吧",
+        "onboard_time": 1698046965,
+        "rank": 10,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 579459,
+        "num": 263996,
+        "word": "这3个三角配享太庙",
+        "onboard_time": 1698051181,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 400365,
+        "num": 263544,
+        "word": "A股大跌",
+        "onboard_time": 1698044744,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 383665,
+        "num": 263401,
+        "word": "SEVENTEEN回归",
+        "onboard_time": 1698036828,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 263154,
+        "num": 263154,
+        "word": "尚有293个国考职位无人通过资格审查",
+        "onboard_time": 1698049035,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 256720,
+        "num": 256720,
+        "word": "卢昱晓成立个人工作室了",
+        "onboard_time": 1698051237,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241559,
+        "num": 241559,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 16,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 224666,
+        "num": 224666,
+        "word": "还珠格格台词原来这么离谱",
+        "onboard_time": 1698045880,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222112,
+        "num": 222112,
+        "word": "李佳航 别人总说我接戏乱七八糟的",
+        "onboard_time": 1698043127,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 201718,
+        "num": 201718,
+        "word": "肖战美拉德风衣",
+        "onboard_time": 1698038082,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 403404,
+        "num": 198890,
+        "word": "杨超越 以后不红了怎么办",
+        "onboard_time": 1698044080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275607,
+        "num": 197300,
+        "word": "原来小县城工资也很高",
+        "onboard_time": 1698041024,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188888,
+        "num": 188888,
+        "word": "河边的错误票房破1亿",
+        "onboard_time": 1698050405,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185538,
+        "num": 185538,
+        "word": "爷爷临终前开了一个玩笑",
+        "onboard_time": 1698051056,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179746,
+        "num": 179746,
+        "word": "19岁儿子将妈妈所存50余万转给女友",
+        "onboard_time": 1698039282,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 13399378,
+        "num": 179535,
+        "word": "章子怡汪峰 我们决定解除婚姻关系",
+        "onboard_time": 1698050460,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178175,
+        "num": 178175,
+        "word": "咒术回战 五条悟新插画",
+        "onboard_time": 1698048086,
+        "rank": 26,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 163599,
+        "num": 163599,
+        "word": "丝巾鱼骨辫教程",
+        "onboard_time": 1698052072,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 159384,
+        "num": 159384,
+        "word": "EXO台历呢",
+        "onboard_time": 1698046302,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153491,
+        "num": 153491,
+        "word": "盲人游泳运动员每一次转身都离不开一根棒子",
+        "onboard_time": 1698051237,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242055,
+        "num": 153107,
+        "word": "高圆圆 去到海拔3200米的地方工作",
+        "onboard_time": 1698050697,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223004,
+        "num": 152888,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 196535,
+        "num": 152515,
+        "word": "主动脉夹层是什么",
+        "onboard_time": 1698051716,
+        "rank": 32,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 151407,
+        "num": 151407,
+        "word": "侯明昊 漫撕男",
+        "onboard_time": 1698046781,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 149468,
+        "num": 149468,
+        "word": "中国B级片的未来",
+        "onboard_time": 1698043183,
+        "rank": 34,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 145729,
+        "num": 145729,
+        "word": "杨幂 有效客串",
+        "onboard_time": 1698037188,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141395,
+        "num": 141395,
+        "word": "日本豆腐是豆腐吗",
+        "onboard_time": 1698051357,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 140721,
+        "num": 140721,
+        "word": "少女时代旧照",
+        "onboard_time": 1698049572,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 140447,
+        "num": 140447,
+        "word": "林高远 禁赛",
+        "onboard_time": 1698052610,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137002,
+        "num": 137002,
+        "word": "烟花猫眼美甲",
+        "onboard_time": 1698044864,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 135626,
+        "num": 135626,
+        "word": "于适又举铁了",
+        "onboard_time": 1698050223,
+        "rank": 40,
+        "category": "艺人,运动健身"
+      },
+      {
+        "raw_hot": 134655,
+        "num": 134655,
+        "word": "易烊千玺的狗啃式刘海",
+        "onboard_time": 1698033876,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134629,
+        "num": 134629,
+        "word": "何炅看黄明昊林一跳舞的表情",
+        "onboard_time": 1698038926,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 133598,
+        "num": 133598,
+        "word": "FIFTYFIFTY解散",
+        "onboard_time": 1698042881,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132020,
+        "num": 132020,
+        "word": "一盏灯的光芒可以多耀眼",
+        "onboard_time": 1698052310,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127968,
+        "num": 127968,
+        "word": "浙江一村子重阳节给老人发11万红包",
+        "onboard_time": 1698051835,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127367,
+        "num": 127367,
+        "word": "女子翻桥欲轻生众人飞奔齐拉回",
+        "onboard_time": 1698049868,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127008,
+        "num": 127008,
+        "word": "大发量鲨鱼夹",
+        "onboard_time": 1698052072,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124164,
+        "num": 124164,
+        "word": "惠英红 影后大起大落的60年",
+        "onboard_time": 1698047345,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123728,
+        "num": 123728,
+        "word": "万圣节黑女巫",
+        "onboard_time": 1698052610,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}

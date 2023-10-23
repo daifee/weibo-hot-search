@@ -1,7 +1,15 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698050143519,
+  "endTime": 1698052686510,
   "band_list": [
+    {
+      "raw_hot": 13399378,
+      "num": 179535,
+      "word": "章子怡汪峰 我们决定解除婚姻关系",
+      "onboard_time": 1698050460,
+      "rank": 25,
+      "category": "艺人"
+    },
     {
       "raw_hot": 8481659,
       "num": 9731659,
@@ -403,6 +411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 915778,
+      "num": 915778,
+      "word": "SEVENTEEN回归新曲",
+      "onboard_time": 1698052134,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 897101,
       "num": 709307,
       "word": "张韶涵硬刚主办方",
@@ -753,6 +769,14 @@
       "onboard_time": 1697888971,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 579459,
+      "num": 263996,
+      "word": "这3个三角配享太庙",
+      "onboard_time": 1698051181,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 578528,
@@ -1379,6 +1403,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 383665,
+      "num": 283545,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1698036828,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 381755,
       "num": 381755,
       "word": "张晚意 致玱玹",
@@ -1939,14 +1971,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 283545,
-      "num": 283545,
-      "word": "SEVENTEEN回归",
-      "onboard_time": 1698036828,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 281270,
       "num": 281270,
       "word": "王鹤棣大奉打更人白衣盔甲路透",
@@ -2099,6 +2123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263154,
+      "num": 263154,
+      "word": "尚有293个国考职位无人通过资格审查",
+      "onboard_time": 1698049035,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 257587,
       "num": 163650,
       "word": "出门就是海的大学到底谁在读啊",
@@ -2113,6 +2145,14 @@
       "onboard_time": 1697981193,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 256720,
+      "num": 256720,
+      "word": "卢昱晓成立个人工作室了",
+      "onboard_time": 1698051237,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 256158,
@@ -2169,14 +2209,6 @@
       "onboard_time": 1698034296,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 249900,
-      "num": 249900,
-      "word": "尚有293个国考职位无人通过资格审查",
-      "onboard_time": 1698049035,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 249024,
@@ -2241,6 +2273,14 @@
       "onboard_time": 1698032616,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242055,
+      "num": 153107,
+      "word": "高圆圆 去到海拔3200米的地方工作",
+      "onboard_time": 1698050697,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 240688,
@@ -2971,6 +3011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196535,
+      "num": 152515,
+      "word": "主动脉夹层是什么",
+      "onboard_time": 1698051716,
+      "rank": 32,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 196385,
       "num": 196385,
       "word": "青岛啤酒风波知情人发声",
@@ -3115,6 +3163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188888,
+      "num": 188888,
+      "word": "河边的错误票房破1亿",
+      "onboard_time": 1698050405,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188393,
       "num": 188393,
       "word": "周也温暖秋日妆",
@@ -3161,6 +3217,14 @@
       "onboard_time": 1698043660,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185538,
+      "num": 185538,
+      "word": "爷爷临终前开了一个玩笑",
+      "onboard_time": 1698051056,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 184667,
@@ -3483,6 +3547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 163599,
+      "num": 163599,
+      "word": "丝巾鱼骨辫教程",
+      "onboard_time": 1698052072,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 162198,
       "num": 162198,
       "word": "泉州震感",
@@ -3641,6 +3713,14 @@
       "onboard_time": 1697937509,
       "rank": 31,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 153491,
+      "num": 153491,
+      "word": "盲人游泳运动员每一次转身都离不开一根棒子",
+      "onboard_time": 1698051237,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 152906,
@@ -3835,6 +3915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141395,
+      "num": 141395,
+      "word": "日本豆腐是豆腐吗",
+      "onboard_time": 1698051357,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141176,
       "num": 141176,
       "word": "你最喜欢墨香铜臭哪部作品",
@@ -3873,6 +3961,14 @@
       "onboard_time": 1698049868,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140447,
+      "num": 140447,
+      "word": "林高远 禁赛",
+      "onboard_time": 1698052610,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 139359,
@@ -3955,6 +4051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135626,
+      "num": 135626,
+      "word": "于适又举铁了",
+      "onboard_time": 1698050223,
+      "rank": 40,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 135112,
       "num": 135112,
       "word": "朱婷14分",
@@ -4033,6 +4137,14 @@
       "onboard_time": 1697943872,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132020,
+      "num": 132020,
+      "word": "一盏灯的光芒可以多耀眼",
+      "onboard_time": 1698052310,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 131864,
@@ -4163,6 +4275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127968,
+      "num": 127968,
+      "word": "浙江一村子重阳节给老人发11万红包",
+      "onboard_time": 1698051835,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127501,
       "num": 127501,
       "word": "河边的错误 谁杀了我我又杀了谁",
@@ -4177,6 +4297,14 @@
       "onboard_time": 1697877034,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127008,
+      "num": 127008,
+      "word": "大发量鲨鱼夹",
+      "onboard_time": 1698052072,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 125345,
@@ -4217,6 +4345,14 @@
       "onboard_time": 1697944771,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123728,
+      "num": 123728,
+      "word": "万圣节黑女巫",
+      "onboard_time": 1698052610,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 123392,

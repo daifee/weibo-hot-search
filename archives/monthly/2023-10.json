@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698050143519,
+  "endTime": 1698052686510,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -25,6 +25,14 @@
       "onboard_time": 1696908214,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13399378,
+      "num": 179535,
+      "word": "章子怡汪峰 我们决定解除婚姻关系",
+      "onboard_time": 1698050460,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 10661875,
@@ -7619,6 +7627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915778,
+      "num": 915778,
+      "word": "SEVENTEEN回归新曲",
+      "onboard_time": 1698052134,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 913985,
       "num": 1873538,
       "word": "王楚钦孙颖莎出战混双",
@@ -14137,6 +14153,14 @@
       "onboard_time": 1696661557,
       "rank": 8,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 579459,
+      "num": 263996,
+      "word": "这3个三角配享太庙",
+      "onboard_time": 1698051181,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 579373,
@@ -22859,6 +22883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383665,
+      "num": 283545,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1698036828,
+      "rank": 32,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 383595,
       "num": 383595,
       "word": "残雪",
@@ -30875,14 +30907,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 283545,
-      "num": 283545,
-      "word": "SEVENTEEN回归",
-      "onboard_time": 1698036828,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 283251,
       "num": 283251,
       "word": "杭州特色美食 萨莉亚",
@@ -33275,6 +33299,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263154,
+      "num": 263154,
+      "word": "尚有293个国考职位无人通过资格审查",
+      "onboard_time": 1698049035,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 263112,
       "num": 420630,
       "word": "全红婵火速逃离采访区",
@@ -34065,6 +34097,14 @@
       "onboard_time": 1697777497,
       "rank": 25,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 256720,
+      "num": 256720,
+      "word": "卢昱晓成立个人工作室了",
+      "onboard_time": 1698051237,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 256596,
@@ -34913,14 +34953,6 @@
       "onboard_time": 1697240125,
       "rank": 19,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 249900,
-      "num": 249900,
-      "word": "尚有293个国考职位无人通过资格审查",
-      "onboard_time": 1698049035,
-      "rank": 40,
-      "category": "教育"
     },
     {
       "raw_hot": 249861,
@@ -36001,6 +36033,14 @@
       "onboard_time": 1696942717,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 242055,
+      "num": 153107,
+      "word": "高圆圆 去到海拔3200米的地方工作",
+      "onboard_time": 1698050697,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 242038,
@@ -44627,6 +44667,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 196535,
+      "num": 152515,
+      "word": "主动脉夹层是什么",
+      "onboard_time": 1698051716,
+      "rank": 32,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 196453,
       "num": 196453,
       "word": "张雨霏反向审美竟是一块腹肌",
@@ -46763,6 +46811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188888,
+      "num": 188888,
+      "word": "河边的错误票房破1亿",
+      "onboard_time": 1698050405,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188792,
       "num": 188792,
       "word": "第三届一带一路国际合作高峰论坛",
@@ -47513,6 +47569,14 @@
       "onboard_time": 1696836815,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 185538,
+      "num": 185538,
+      "word": "爷爷临终前开了一个玩笑",
+      "onboard_time": 1698051056,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 185517,
@@ -51827,6 +51891,14 @@
       "category": "财经,社会新闻"
     },
     {
+      "raw_hot": 163599,
+      "num": 163599,
+      "word": "丝巾鱼骨辫教程",
+      "onboard_time": 1698052072,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 163484,
       "num": 163484,
       "word": "高叶高马尾银白挑染",
@@ -53779,6 +53851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153491,
+      "num": 153491,
+      "word": "盲人游泳运动员每一次转身都离不开一根棒子",
+      "onboard_time": 1698051237,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153474,
       "num": 153474,
       "word": "国货品牌集体团建为老乡鸡庆生",
@@ -55715,6 +55795,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141395,
+      "num": 141395,
+      "word": "日本豆腐是豆腐吗",
+      "onboard_time": 1698051357,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 141322,
       "num": 141322,
       "word": "大车加油时着火员工这套动作太赞",
@@ -55825,6 +55913,14 @@
       "onboard_time": 1696114881,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140447,
+      "num": 140447,
+      "word": "林高远 禁赛",
+      "onboard_time": 1698052610,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 140384,
@@ -56507,6 +56603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135626,
+      "num": 135626,
+      "word": "于适又举铁了",
+      "onboard_time": 1698050223,
+      "rank": 40,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 135536,
       "num": 135536,
       "word": "台风小犬",
@@ -57033,6 +57137,14 @@
       "onboard_time": 1697425293,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132020,
+      "num": 132020,
+      "word": "一盏灯的光芒可以多耀眼",
+      "onboard_time": 1698052310,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 131905,
@@ -57659,6 +57771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127968,
+      "num": 127968,
+      "word": "浙江一村子重阳节给老人发11万红包",
+      "onboard_time": 1698051835,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 127944,
       "num": 127944,
       "word": "邓超马伊琍钟楚曦热依扎同框看秀",
@@ -57761,6 +57881,14 @@
       "onboard_time": 1697761777,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 127008,
+      "num": 127008,
+      "word": "大发量鲨鱼夹",
+      "onboard_time": 1698052072,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 126980,
@@ -58057,6 +58185,14 @@
       "onboard_time": 1697809833,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123728,
+      "num": 123728,
+      "word": "万圣节黑女巫",
+      "onboard_time": 1698052610,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 123672,

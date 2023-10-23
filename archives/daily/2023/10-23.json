@@ -1,7 +1,15 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698050143519,
+  "endTime": 1698052686510,
   "band_list": [
+    {
+      "raw_hot": 13399378,
+      "num": 179535,
+      "word": "章子怡汪峰 我们决定解除婚姻关系",
+      "onboard_time": 1698050460,
+      "rank": 25,
+      "category": "艺人"
+    },
     {
       "raw_hot": 8481659,
       "num": 9731659,
@@ -187,6 +195,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 915778,
+      "num": 915778,
+      "word": "SEVENTEEN回归新曲",
+      "onboard_time": 1698052134,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 850795,
       "num": 376118,
       "word": "女子带婴儿被3条流浪狗围攻咬伤",
@@ -353,6 +369,14 @@
       "onboard_time": 1698037668,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 579459,
+      "num": 263996,
+      "word": "这3个三角配享太庙",
+      "onboard_time": 1698051181,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 550138,
@@ -601,6 +625,14 @@
       "onboard_time": 1698041144,
       "rank": 9,
       "category": "财经"
+    },
+    {
+      "raw_hot": 383665,
+      "num": 283545,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1698036828,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 380902,
@@ -899,14 +931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 283545,
-      "num": 283545,
-      "word": "SEVENTEEN回归",
-      "onboard_time": 1698036828,
-      "rank": 32,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 281270,
       "num": 281270,
       "word": "王鹤棣大奉打更人白衣盔甲路透",
@@ -995,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263154,
+      "num": 263154,
+      "word": "尚有293个国考职位无人通过资格审查",
+      "onboard_time": 1698049035,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 260404,
       "num": 260404,
       "word": "富士康被查",
@@ -1009,6 +1041,14 @@
       "onboard_time": 1698015683,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256720,
+      "num": 256720,
+      "word": "卢昱晓成立个人工作室了",
+      "onboard_time": 1698051237,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 254187,
@@ -1035,14 +1075,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 249900,
-      "num": 249900,
-      "word": "尚有293个国考职位无人通过资格审查",
-      "onboard_time": 1698049035,
-      "rank": 40,
-      "category": "教育"
-    },
-    {
       "raw_hot": 246888,
       "num": 246888,
       "word": "漳州震感",
@@ -1065,6 +1097,14 @@
       "onboard_time": 1698032616,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242055,
+      "num": 153107,
+      "word": "高圆圆 去到海拔3200米的地方工作",
+      "onboard_time": 1698050697,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 240688,
@@ -1435,6 +1475,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 196535,
+      "num": 152515,
+      "word": "主动脉夹层是什么",
+      "onboard_time": 1698051716,
+      "rank": 32,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 194615,
       "num": 280741,
       "word": "重阳节120位老人拍全家福吃百寿宴",
@@ -1491,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188888,
+      "num": 188888,
+      "word": "河边的错误票房破1亿",
+      "onboard_time": 1698050405,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 187776,
       "num": 270962,
       "word": "39名戴人工耳蜗小演员合唱我的祖国",
@@ -1521,6 +1577,14 @@
       "onboard_time": 1698043660,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185538,
+      "num": 185538,
+      "word": "爷爷临终前开了一个玩笑",
+      "onboard_time": 1698051056,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 185407,
@@ -1667,6 +1731,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 163599,
+      "num": 163599,
+      "word": "丝巾鱼骨辫教程",
+      "onboard_time": 1698052072,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 162198,
       "num": 162198,
       "word": "泉州震感",
@@ -1729,6 +1801,14 @@
       "onboard_time": 1698042405,
       "rank": 36,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 153491,
+      "num": 153491,
+      "word": "盲人游泳运动员每一次转身都离不开一根棒子",
+      "onboard_time": 1698051237,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 152630,
@@ -1803,12 +1883,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141395,
+      "num": 141395,
+      "word": "日本豆腐是豆腐吗",
+      "onboard_time": 1698051357,
+      "rank": 36,
+      "category": "美食"
+    },
+    {
       "raw_hot": 140634,
       "num": 211100,
       "word": "女子翻桥欲轻生众人飞奔齐拉回",
       "onboard_time": 1698049868,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140447,
+      "num": 140447,
+      "word": "林高远 禁赛",
+      "onboard_time": 1698052610,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 139320,
@@ -1851,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135626,
+      "num": 135626,
+      "word": "于适又举铁了",
+      "onboard_time": 1698050223,
+      "rank": 40,
+      "category": "艺人,运动健身"
+    },
+    {
       "raw_hot": 135112,
       "num": 135112,
       "word": "朱婷14分",
@@ -1889,6 +1993,14 @@
       "onboard_time": 1698030814,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132020,
+      "num": 132020,
+      "word": "一盏灯的光芒可以多耀眼",
+      "onboard_time": 1698052310,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 131864,
@@ -1947,6 +2059,22 @@
       "category": "体育,社会新闻"
     },
     {
+      "raw_hot": 127968,
+      "num": 127968,
+      "word": "浙江一村子重阳节给老人发11万红包",
+      "onboard_time": 1698051835,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127008,
+      "num": 127008,
+      "word": "大发量鲨鱼夹",
+      "onboard_time": 1698052072,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 124802,
       "num": 124802,
       "word": "亚残运会中国队服装五个暖心细节",
@@ -1961,6 +2089,14 @@
       "onboard_time": 1698043966,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123728,
+      "num": 123728,
+      "word": "万圣节黑女巫",
+      "onboard_time": 1698052610,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 123392,
