@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698053668688,
+  "endTime": 1698056363751,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -89,6 +89,14 @@
       "onboard_time": 1698027215,
       "rank": 11,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1642107,
+      "num": 720182,
+      "word": "这3个三角配享太庙",
+      "onboard_time": 1698051181,
+      "rank": 11,
+      "category": "美妆"
     },
     {
       "raw_hot": 1608166,
@@ -203,12 +211,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 918637,
+      "raw_hot": 923089,
       "num": 592749,
       "word": "林高远 禁赛",
       "onboard_time": 1698052610,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 873208,
+      "num": 873208,
+      "word": "酱园弄 杀夫案",
+      "onboard_time": 1698054108,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 850795,
@@ -283,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 791268,
-      "num": 386465,
-      "word": "这3个三角配享太庙",
-      "onboard_time": 1698051181,
-      "rank": 11,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 770869,
       "num": 457991,
       "word": "A股大跌",
@@ -323,6 +331,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 691230,
+      "num": 691230,
+      "word": "大发量鲨鱼夹",
+      "onboard_time": 1698052072,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 679602,
+      "num": 378776,
+      "word": "难听",
+      "onboard_time": 1698054828,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 679191,
       "num": 679191,
       "word": "赵露思或辞演珠帘玉幕",
@@ -339,16 +363,8 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 665602,
-      "num": 665602,
-      "word": "大发量鲨鱼夹",
-      "onboard_time": 1698052072,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 659548,
-      "num": 275420,
+      "num": 313738,
       "word": "杨超越 以后不红了怎么办",
       "onboard_time": 1698044080,
       "rank": 20,
@@ -507,12 +523,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 493694,
+      "num": 335779,
+      "word": "美国28岁女保姆性侵8月大女婴",
+      "onboard_time": 1698055428,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 474997,
       "num": 474997,
       "word": "可可西里野狼被游客投喂胖成网红",
       "onboard_time": 1697984554,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 472306,
+      "num": 472306,
+      "word": "Monster",
+      "onboard_time": 1698053211,
+      "rank": 8,
+      "category": "音乐"
     },
     {
       "raw_hot": 471520,
@@ -555,6 +587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 440047,
+      "num": 378593,
+      "word": "100只大闸蟹做成的百蟹瀑布",
+      "onboard_time": 1698055610,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 438047,
       "num": 438047,
       "word": "沈诺终于掉马了",
@@ -571,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 431501,
+      "num": 761911,
+      "word": "101岁老人自曝长寿要吃肉吃菜爱干活",
+      "onboard_time": 1698055250,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 430125,
       "num": 430125,
       "word": "重阳节是澳门法定假日",
@@ -585,14 +633,6 @@
       "onboard_time": 1698042881,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412453,
-      "num": 412453,
-      "word": "Monster",
-      "onboard_time": 1698053211,
-      "rank": 8,
-      "category": "音乐"
     },
     {
       "raw_hot": 405703,
@@ -675,6 +715,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 379298,
+      "num": 379298,
+      "word": "Hybe",
+      "onboard_time": 1698053329,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 378414,
+      "num": 378414,
+      "word": "张小斐的腿好长",
+      "onboard_time": 1698054650,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 374230,
       "num": 374230,
       "word": "五月天演唱会女孩举牌说点歌给爸爸",
@@ -739,6 +795,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 342482,
+      "num": 342482,
+      "word": "蒲熠星谈小女孩的伤疤像香妃的蝴蝶",
+      "onboard_time": 1698053685,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 340989,
       "num": 340989,
       "word": "林柏叡居然有个6岁的女儿",
@@ -769,6 +833,14 @@
       "onboard_time": 1698027992,
       "rank": 26,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 325674,
+      "num": 325674,
+      "word": "教育局回应女孩被锁楼顶喊救命",
+      "onboard_time": 1698053211,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 322992,
@@ -891,6 +963,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 296314,
+      "num": 296314,
+      "word": "金珉奎 镜头少",
+      "onboard_time": 1698055486,
+      "rank": 25,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 295794,
       "num": 295794,
       "word": "今日重阳",
@@ -923,12 +1003,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 289338,
-      "num": 289338,
-      "word": "Hybe",
-      "onboard_time": 1698053329,
-      "rank": 16,
-      "category": "音乐"
+      "raw_hot": 287957,
+      "num": 287957,
+      "word": "厂家回应博主测评5.9元粉底液",
+      "onboard_time": 1698055127,
+      "rank": 26,
+      "category": "美妆"
     },
     {
       "raw_hot": 287714,
@@ -1067,6 +1147,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 262773,
+      "num": 379091,
+      "word": "163岁跑马夫妻每天跑步1万米",
+      "onboard_time": 1698054285,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 260404,
       "num": 260404,
       "word": "富士康被查",
@@ -1123,6 +1211,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 245122,
+      "num": 245122,
+      "word": "韩素希谈身材焦虑",
+      "onboard_time": 1698055550,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 242423,
       "num": 242423,
       "word": "丁程鑫街舞队徽是小狐狸",
@@ -1132,7 +1228,7 @@
     },
     {
       "raw_hot": 242055,
-      "num": 178344,
+      "num": 185761,
       "word": "高圆圆 去到海拔3200米的地方工作",
       "onboard_time": 1698050697,
       "rank": 30,
@@ -1347,19 +1443,19 @@
       "category": "财经"
     },
     {
+      "raw_hot": 220033,
+      "num": 378503,
+      "word": "7旬老人皮影60年演活孙悟空72变",
+      "onboard_time": 1698055848,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 219853,
       "num": 219853,
       "word": "他放弃二级建造师回乡种粮带村民致富",
       "onboard_time": 1698017368,
       "rank": 13,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 218667,
-      "num": 218667,
-      "word": "教育局回应女孩被锁楼顶喊救命",
-      "onboard_time": 1698053211,
-      "rank": 19,
       "category": "社会新闻"
     },
     {
@@ -1401,6 +1497,14 @@
       "onboard_time": 1698030332,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 212920,
+      "num": 212920,
+      "word": "TL告别S13",
+      "onboard_time": 1698054108,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 212307,
@@ -1451,6 +1555,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 206746,
+      "num": 206746,
+      "word": "河边体",
+      "onboard_time": 1698055969,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 204426,
+      "num": 204426,
+      "word": "张艺谋新片明年春节上映",
+      "onboard_time": 1698053867,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 204048,
       "num": 204048,
       "word": "72岁老人19年骑行20万公里",
@@ -1491,6 +1611,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 200944,
+      "num": 245619,
+      "word": "女子开理发店28年收费最高只收5元",
+      "onboard_time": 1698055369,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200900,
       "num": 200900,
       "word": "82位演员祝福最美表演十周年",
@@ -1515,6 +1643,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199369,
+      "num": 204336,
+      "word": "GAM瑞士轮首胜",
+      "onboard_time": 1698055250,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199234,
       "num": 211168,
       "word": "重阳节的逆爱",
@@ -1524,7 +1660,7 @@
     },
     {
       "raw_hot": 196535,
-      "num": 152515,
+      "num": 170073,
       "word": "主动脉夹层是什么",
       "onboard_time": 1698051716,
       "rank": 32,
@@ -1536,6 +1672,14 @@
       "word": "重阳节120位老人拍全家福吃百寿宴",
       "onboard_time": 1698037969,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 193784,
+      "num": 336756,
+      "word": "男子骑行被小学生集体加油喊男神",
+      "onboard_time": 1698056084,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -1601,6 +1745,14 @@
       "onboard_time": 1698050405,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188462,
+      "num": 196409,
+      "word": "给你500万但要垫付1万5你信吗",
+      "onboard_time": 1698054530,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187776,
@@ -1747,6 +1899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171188,
+      "num": 193567,
+      "word": "幼儿园研学摘6千根甘蔗乐坏农场主",
+      "onboard_time": 1698056327,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 170961,
       "num": 170961,
       "word": "生命中最年轻的一天永远是今天",
@@ -1827,6 +1987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159417,
+      "num": 187770,
+      "word": "华浅吃醋",
+      "onboard_time": 1698054349,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155207,
       "num": 211096,
       "word": "杨幂15年最美表演囚笼",
@@ -1865,6 +2033,14 @@
       "onboard_time": 1698051237,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152971,
+      "num": 178798,
+      "word": "两小伙骑马半年走过6省直奔海南",
+      "onboard_time": 1698052912,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 152630,
@@ -1915,12 +2091,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144541,
-      "num": 144541,
-      "word": "两小伙骑马半年走过6省直奔海南",
-      "onboard_time": 1698052912,
-      "rank": 37,
-      "category": "社会新闻"
+      "raw_hot": 146825,
+      "num": 175666,
+      "word": "秋冬氛围感发型",
+      "onboard_time": 1698055969,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 145297,
+      "num": 173249,
+      "word": "国考",
+      "onboard_time": 1698053806,
+      "rank": 47,
+      "category": "教育"
     },
     {
       "raw_hot": 144122,
@@ -2403,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57650,
+      "num": 338426,
+      "word": "预售有预售的道理",
+      "onboard_time": 1698054828,
+      "rank": 17,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 57527,
       "num": 57527,
       "word": "再见乐队的夏天",
@@ -2503,6 +2695,9 @@
     },
     {
       "word": "#在新时代新征程上书写巾帼荣光#"
+    },
+    {
+      "word": "#在新的起点上继续推动文化繁荣#"
     }
   ]
 }
