@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/24 00:21:58 ~ 2023/10/24 04:16:46
+本榜单时间：2023/10/24 00:21:58 ~ 2023/10/24 04:34:18
 </p>
 </blockquote>
 <p>
@@ -285,6 +285,12 @@ BLG 哥几个去拜拜吧（热度：136016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
+男子殴打妻子致死被判死缓（热度：86181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B2%81%E5%B2%81%E9%9D%92%E8%8E%B2%23" target="weibo">
 岁岁青莲（热度：85254）
 </a>
@@ -339,12 +345,6 @@ BLG 哥几个去拜拜吧（热度：136016）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
-男子殴打妻子致死被判死缓（热度：68864）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E6%B5%A9%E5%92%8C%E9%BB%84%E4%BB%81%E4%BF%8A%E9%92%9F%E8%BE%B0%E4%B9%90%E8%B7%B3challenge%23" target="weibo">
 王子浩和黄仁俊钟辰乐跳challenge（热度：48651）
 </a>
@@ -370,7 +370,7 @@ BLG 哥几个去拜拜吧（热度：136016）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E6%88%BF%23" target="weibo">
-宠物界的梦中情房（热度：12277）
+宠物界的梦中情房（热度：13022）
 </a>
 </li>
 

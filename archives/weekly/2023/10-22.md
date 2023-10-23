@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/22 00:20:27 ~ 2023/10/24 04:16:46
+本榜单时间：2023/10/22 00:20:27 ~ 2023/10/24 04:34:18
 </p>
 </blockquote>
 <p>
@@ -4539,6 +4539,12 @@ C罗任意球破门（热度：95450）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
+男子殴打妻子致死被判死缓（热度：86181）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E8%AE%A1%E5%88%92%E5%AE%9E%E6%96%BD%E8%BF%91%E5%9C%B0%E5%B0%8F%E8%A1%8C%E6%98%9F%E9%98%B2%E5%BE%A1%E4%BB%BB%E5%8A%A1%23" target="weibo">
 我国计划实施近地小行星防御任务（热度：85617）
 </a>
@@ -4661,12 +4667,6 @@ XDJ战胜AG（热度：75722）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E4%BA%9A%E6%AE%8B%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%85%A8%E5%AE%B6%E7%A6%8F%23" target="weibo">
 杭州亚残运会中国队全家福（热度：69463）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%AE%B4%E6%89%93%E5%A6%BB%E5%AD%90%E8%87%B4%E6%AD%BB%E8%A2%AB%E5%88%A4%E6%AD%BB%E7%BC%93%23" target="weibo">
-男子殴打妻子致死被判死缓（热度：68864）
 </a>
 </li>
 
@@ -4918,7 +4918,7 @@ F1（热度：36935）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%A0%E7%89%A9%E7%95%8C%E7%9A%84%E6%A2%A6%E4%B8%AD%E6%83%85%E6%88%BF%23" target="weibo">
-宠物界的梦中情房（热度：12277）
+宠物界的梦中情房（热度：13022）
 </a>
 </li>
 
