@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698070607730,
+  "endTime": 1698071704451,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -283,6 +283,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1296991,
+      "num": 1296991,
+      "word": "25岁男子坚持4年每天熬夜画CAD",
+      "onboard_time": 1698065261,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1287947,
       "num": 1287947,
       "word": "成都崇州被狗咬伤女童已转出ICU",
@@ -331,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1115123,
+      "num": 451133,
+      "word": "深圳机场",
+      "onboard_time": 1698069164,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1109715,
       "num": 641060,
       "word": "WBG掉入瑞士轮生死局",
@@ -355,19 +371,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1069934,
+      "num": 1069934,
+      "word": "崇州被狗咬伤女童目前医疗支出近6万元",
+      "onboard_time": 1698069043,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055014,
       "num": 393005,
       "word": "女子带婴儿被3条流浪狗围攻咬伤",
       "onboard_time": 1697986357,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1050120,
-      "num": 1050120,
-      "word": "25岁男子坚持4年每天熬夜画CAD",
-      "onboard_time": 1698065261,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -491,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 915226,
+      "num": 433777,
+      "word": "虞书欣方回应浪费粮食",
+      "onboard_time": 1698068680,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 907483,
       "num": 907483,
       "word": "老人捡花生被卷收割机身亡",
@@ -520,14 +544,6 @@
       "word": "官方通报执法人员开着巡逻车偷高粱",
       "onboard_time": 1698032014,
       "rank": 49,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 838595,
-      "num": 838595,
-      "word": "崇州被狗咬伤女童目前医疗支出近6万元",
-      "onboard_time": 1698069043,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -619,14 +635,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 763831,
-      "num": 451133,
-      "word": "深圳机场",
-      "onboard_time": 1698069164,
-      "rank": 10,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 757246,
       "num": 757246,
       "word": "外交部回应中国海警拦阻菲船只",
@@ -641,14 +649,6 @@
       "onboard_time": 1697988695,
       "rank": 33,
       "category": "情感"
-    },
-    {
-      "raw_hot": 749299,
-      "num": 433777,
-      "word": "虞书欣方回应浪费粮食",
-      "onboard_time": 1698068680,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 742582,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 619669,
-      "num": 542713,
+      "num": 552125,
       "word": "鹿晗TFBOYS演唱会成老年人最爱",
       "onboard_time": 1698058366,
       "rank": 20,
@@ -1049,6 +1049,14 @@
       "onboard_time": 1698055610,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 522024,
+      "num": 522024,
+      "word": "女子4天没买到烤馕老板特意留一个",
+      "onboard_time": 1698067840,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 516248,
@@ -1371,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 436477,
+      "num": 436477,
+      "word": "女子全勤工作1个月发257元工资",
+      "onboard_time": 1698070423,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 435224,
       "num": 435224,
       "word": "老人进店3次研究毛衣织法没被赶",
@@ -1481,14 +1497,6 @@
       "onboard_time": 1697987314,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 412564,
-      "num": 412564,
-      "word": "女子4天没买到烤馕老板特意留一个",
-      "onboard_time": 1698067840,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 411303,
@@ -2059,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 312270,
+      "num": 312270,
+      "word": "京东文娱",
+      "onboard_time": 1698071085,
+      "rank": 18,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 311439,
       "num": 257195,
       "word": "帮帮我好不好 帮我上班",
@@ -2147,20 +2163,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 302322,
+      "num": 302322,
+      "word": "陈国豪三分",
+      "onboard_time": 1698069881,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302268,
       "num": 302268,
       "word": "那些kpop爱豆的本命舞蹈",
       "onboard_time": 1697978311,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 301829,
-      "num": 301829,
-      "word": "陈国豪三分",
-      "onboard_time": 1698069881,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 300309,
@@ -2225,6 +2241,14 @@
       "onboard_time": 1698043183,
       "rank": 15,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 294922,
+      "num": 294922,
+      "word": "赵丽颖彝族服饰写真",
+      "onboard_time": 1698056628,
+      "rank": 23,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 291949,
@@ -2305,14 +2329,6 @@
       "onboard_time": 1698035023,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 284998,
-      "num": 270023,
-      "word": "赵丽颖彝族服饰写真",
-      "onboard_time": 1698056628,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 283719,
@@ -2553,6 +2569,14 @@
       "onboard_time": 1697892574,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255870,
+      "num": 255870,
+      "word": "被老祖宗的审美惊艳到了",
+      "onboard_time": 1698069103,
+      "rank": 28,
+      "category": "其它"
     },
     {
       "raw_hot": 254919,
@@ -2801,14 +2825,6 @@
       "onboard_time": 1698067062,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 235969,
-      "num": 235969,
-      "word": "被老祖宗的审美惊艳到了",
-      "onboard_time": 1698069103,
-      "rank": 28,
-      "category": "其它"
     },
     {
       "raw_hot": 235799,
@@ -3179,6 +3195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211635,
+      "num": 211635,
+      "word": "肺炎支原体感染早期症状为干咳",
+      "onboard_time": 1698071264,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 211188,
       "num": 211188,
       "word": "少女时代旧照",
@@ -3352,14 +3376,6 @@
       "word": "72岁老人19年骑行20万公里",
       "onboard_time": 1698030452,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 203846,
-      "num": 203846,
-      "word": "女子全勤工作1个月发257元工资",
-      "onboard_time": 1698070423,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -3547,6 +3563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195857,
+      "num": 195857,
+      "word": "凤凰传奇现场 早读都没这么整齐过",
+      "onboard_time": 1698071442,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195628,
       "num": 195628,
       "word": "苹果散落小山坡过路司机帮捡获赠果子",
@@ -3643,6 +3667,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 191920,
+      "num": 191920,
+      "word": "岁岁青莲",
+      "onboard_time": 1698071264,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191876,
       "num": 191876,
       "word": "明日方舟 2226",
@@ -3673,6 +3705,14 @@
       "onboard_time": 1697938351,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 190315,
+      "num": 190315,
+      "word": "陈国豪首秀20分",
+      "onboard_time": 1698071205,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 189871,
@@ -3769,6 +3809,14 @@
       "onboard_time": 1698056866,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 186723,
+      "num": 186723,
+      "word": "宝妈刷单被骗15万民警2700公里追回",
+      "onboard_time": 1698070004,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185989,
@@ -4131,14 +4179,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 166522,
-      "num": 166522,
-      "word": "宝妈刷单被骗15万民警2700公里追回",
-      "onboard_time": 1698070004,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165860,
       "num": 165860,
       "word": "苏醒刚圆梦就要醒了",
@@ -4465,6 +4505,14 @@
       "onboard_time": 1697972854,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 149708,
+      "num": 149708,
+      "word": "北控男篮赛季开门红",
+      "onboard_time": 1698071442,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 149520,
@@ -5427,6 +5475,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 110759,
+      "num": 110759,
+      "word": "退休教师提到自己的学生瞬间泪目",
+      "onboard_time": 1698071621,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110477,
       "num": 191096,
       "word": "大学生该省省该花花",
@@ -6019,6 +6075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56469,
+      "num": 349567,
+      "word": "宝石梁龙在京东直播卖白菜",
+      "onboard_time": 1698069642,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54559,
       "num": 54559,
       "word": "傅园慧首谈上恋综的经历",
@@ -6161,14 +6225,6 @@
       "onboard_time": 1697929341,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 28561,
-      "num": 334892,
-      "word": "宝石梁龙在京东直播卖白菜",
-      "onboard_time": 1698069642,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 24915,
