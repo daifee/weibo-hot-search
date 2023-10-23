@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698028540077,
+  "endTime": 1698031094510,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3752811,
-      "num": 320401,
+      "num": 325693,
       "word": "男子性侵13岁女孩聊天称老婆要从小培养",
       "onboard_time": 1697988874,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1698015922,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2058577,
+      "num": 2058577,
+      "word": "iPhone15全系价格暴跌",
+      "onboard_time": 1698029250,
+      "rank": 0,
+      "category": "数码,财经"
     },
     {
       "raw_hot": 2040576,
@@ -107,6 +115,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 1683169,
+      "num": 409956,
+      "word": "张大奕自曝3年被代购骗1161万",
+      "onboard_time": 1698027215,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1643878,
       "num": 1643878,
       "word": "27岁女子长期横向刷牙致牙齿缺损",
@@ -148,11 +164,19 @@
     },
     {
       "raw_hot": 1385830,
-      "num": 272549,
+      "num": 322928,
       "word": "吴楚一跳的是这种钢管舞吗",
       "onboard_time": 1697988874,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1379352,
+      "num": 664461,
+      "word": "太原发生多人伤亡交通事故",
+      "onboard_time": 1698028114,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1371488,
@@ -185,14 +209,6 @@
       "onboard_time": 1698020074,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1194365,
-      "num": 373374,
-      "word": "张大奕自曝3年被代购骗1161万",
-      "onboard_time": 1698027215,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1192423,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 1016083,
-      "num": 371001,
+      "num": 404615,
       "word": "A股",
       "onboard_time": 1698025353,
       "rank": 10,
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 701391,
+      "num": 701391,
+      "word": "刘少昂不知身后竟然如此热闹",
+      "onboard_time": 1698029011,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 682257,
       "num": 682257,
       "word": "爷爷奶奶有一千多万还在当保洁",
@@ -465,6 +489,14 @@
       "onboard_time": 1697964632,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 651680,
+      "num": 651680,
+      "word": "花儿与少年",
+      "onboard_time": 1698028714,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 640689,
@@ -667,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 509413,
+      "num": 509413,
+      "word": "电子呕吐物",
+      "onboard_time": 1698029972,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 506754,
       "num": 449657,
       "word": "乌尔善 封神是群像戏",
@@ -681,6 +721,14 @@
       "onboard_time": 1697958989,
       "rank": 17,
       "category": "动漫,美食"
+    },
+    {
+      "raw_hot": 500438,
+      "num": 500438,
+      "word": "花少丝路季连播七天",
+      "onboard_time": 1698029132,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 500286,
@@ -939,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 410418,
+      "num": 410418,
+      "word": "QQ邮箱开始提供付费会员服务",
+      "onboard_time": 1698030155,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 406961,
       "num": 406961,
       "word": "王俊凯尴尬表情包被当作示例",
@@ -1075,6 +1131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365672,
+      "num": 365672,
+      "word": "韩孝周参加铁人三项比赛",
+      "onboard_time": 1698029191,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 364201,
       "num": 364201,
       "word": "仲溪午上桌了",
@@ -1123,12 +1187,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 347379,
-      "num": 347379,
-      "word": "太原发生多人伤亡交通事故",
-      "onboard_time": 1698028114,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 350668,
+      "num": 350668,
+      "word": "柳舟记",
+      "onboard_time": 1698028714,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 348301,
+      "num": 348301,
+      "word": "重阳节是澳门法定假日",
+      "onboard_time": 1698029733,
+      "rank": 18,
+      "category": "知识科普"
     },
     {
       "raw_hot": 346251,
@@ -1161,6 +1233,14 @@
       "onboard_time": 1697933670,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 331213,
+      "num": 331213,
+      "word": "内塔尼亚胡被要求下台",
+      "onboard_time": 1698027992,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 327871,
@@ -1273,6 +1353,14 @@
       "onboard_time": 1698021338,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310953,
+      "num": 310953,
+      "word": "檀健次晒与粉丝大合照",
+      "onboard_time": 1698029313,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 309603,
@@ -1643,6 +1731,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 235701,
+      "num": 235701,
+      "word": "秦海璐在3个国家拍了7张自己的脚",
+      "onboard_time": 1698030634,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235315,
+      "num": 235315,
+      "word": "37岁的谢毛三从裁缝到皮划艇冠军",
+      "onboard_time": 1698030753,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234468,
       "num": 213807,
       "word": "甄姬西施至美风华系列皮肤",
@@ -1729,14 +1833,6 @@
       "onboard_time": 1698023374,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226460,
-      "num": 226460,
-      "word": "内塔尼亚胡被要求下台",
-      "onboard_time": 1698027992,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 224863,
@@ -1859,6 +1955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214267,
+      "num": 214267,
+      "word": "你向往的养老生活是什么样的",
+      "onboard_time": 1698030332,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 212884,
       "num": 212884,
       "word": "周涛 女声解说历史类纪录片先例",
@@ -1875,6 +1979,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 212307,
+      "num": 212307,
+      "word": "78岁奶奶健身18年身材碾压20岁的我",
+      "onboard_time": 1698029372,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 210985,
       "num": 210985,
       "word": "广西一条河里开出莫奈的花园惊艳了",
@@ -1889,6 +2001,14 @@
       "onboard_time": 1697941352,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210123,
+      "num": 354197,
+      "word": "莱科宁成为极氪性能顾问",
+      "onboard_time": 1698029250,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 208680,
@@ -1977,6 +2097,14 @@
       "onboard_time": 1697934868,
       "rank": 19,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 204048,
+      "num": 204048,
+      "word": "72岁老人19年骑行20万公里",
+      "onboard_time": 1698030452,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 203627,
@@ -2267,6 +2395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 181846,
+      "num": 181846,
+      "word": "朴宰范加盟这就是街舞6",
+      "onboard_time": 1698030992,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180745,
       "num": 213903,
       "word": "那些被讹传后用来贬低女性的古语",
@@ -2312,6 +2448,14 @@
       "word": "华浅 受不了你们这些玛丽苏了",
       "onboard_time": 1697953532,
       "rank": 31,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 178206,
+      "num": 178206,
+      "word": "张晚意王楚然柳舟记官宣",
+      "onboard_time": 1698030992,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -2411,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171721,
+      "num": 171721,
+      "word": "乘客险摔倒她冲上去一把托住",
+      "onboard_time": 1698030395,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169827,
       "num": 169827,
       "word": "繁城之下结局",
@@ -2433,6 +2585,14 @@
       "onboard_time": 1697977770,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 169439,
+      "num": 169439,
+      "word": "小学生解读河边的错误",
+      "onboard_time": 1698030691,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 168921,
@@ -2529,6 +2689,14 @@
       "onboard_time": 1698021216,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160231,
+      "num": 160231,
+      "word": "华父辞官华浅破防大哭",
+      "onboard_time": 1698028533,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 159986,
@@ -2659,6 +2827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151898,
+      "num": 151898,
+      "word": "赵露思或辞演珠帘玉幕",
+      "onboard_time": 1698031054,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151879,
       "num": 151879,
       "word": "我们是姐妹 但是我们不熟",
@@ -2713,6 +2889,14 @@
       "onboard_time": 1697956410,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 147564,
+      "num": 147564,
+      "word": "许光汉这张图让我更睡不着了",
+      "onboard_time": 1698028413,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 147322,
@@ -3059,14 +3243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 126589,
-      "num": 126589,
-      "word": "许光汉这张图让我更睡不着了",
-      "onboard_time": 1698028413,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 125345,
       "num": 125345,
       "word": "XHW战胜KSG",
@@ -3105,14 +3281,6 @@
       "onboard_time": 1698019172,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122304,
-      "num": 122304,
-      "word": "华父辞官华浅破防大哭",
-      "onboard_time": 1698028533,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 122250,
@@ -3515,6 +3683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94825,
+      "num": 235487,
+      "word": "王石称OPPO折叠屏是安全天花板",
+      "onboard_time": 1698030575,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 92148,
       "num": 146283,
       "word": "红酒红肉很搭我们俩也很搭",
@@ -3881,6 +4057,14 @@
       "onboard_time": 1697892213,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 33255,
+      "num": 673761,
+      "word": "长辈的爱值得一场双向奔赴",
+      "onboard_time": 1698030814,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32103,

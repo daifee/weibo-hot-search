@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698028540077,
+  "endTime": 1698031094510,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3752811,
-      "num": 320401,
+      "num": 325693,
       "word": "男子性侵13岁女孩聊天称老婆要从小培养",
       "onboard_time": 1697988874,
       "rank": 10,
@@ -35,12 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2058577,
+      "num": 2058577,
+      "word": "iPhone15全系价格暴跌",
+      "onboard_time": 1698029250,
+      "rank": 0,
+      "category": "数码,财经"
+    },
+    {
       "raw_hot": 1838655,
       "num": 1838655,
       "word": "兄妹喝奶奶捡回饮料中毒医院怀疑人为投毒",
       "onboard_time": 1698025114,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1683169,
+      "num": 409956,
+      "word": "张大奕自曝3年被代购骗1161万",
+      "onboard_time": 1698027215,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 1560474,
@@ -52,11 +68,19 @@
     },
     {
       "raw_hot": 1385830,
-      "num": 272549,
+      "num": 322928,
       "word": "吴楚一跳的是这种钢管舞吗",
       "onboard_time": 1697988874,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1379352,
+      "num": 664461,
+      "word": "太原发生多人伤亡交通事故",
+      "onboard_time": 1698028114,
+      "rank": 12,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1224525,
@@ -75,16 +99,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1194365,
-      "num": 373374,
-      "word": "张大奕自曝3年被代购骗1161万",
-      "onboard_time": 1698027215,
-      "rank": 11,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 1016083,
-      "num": 371001,
+      "num": 404615,
       "word": "A股",
       "onboard_time": 1698025353,
       "rank": 10,
@@ -155,6 +171,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 701391,
+      "num": 701391,
+      "word": "刘少昂不知身后竟然如此热闹",
+      "onboard_time": 1698029011,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 651680,
+      "num": 651680,
+      "word": "花儿与少年",
+      "onboard_time": 1698028714,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 621131,
       "num": 621131,
       "word": "河边的错误票房破9000万",
@@ -169,6 +201,22 @@
       "onboard_time": 1698021815,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 509413,
+      "num": 509413,
+      "word": "电子呕吐物",
+      "onboard_time": 1698029972,
+      "rank": 7,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 500438,
+      "num": 500438,
+      "word": "花少丝路季连播七天",
+      "onboard_time": 1698029132,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 474997,
@@ -227,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 410418,
+      "num": 410418,
+      "word": "QQ邮箱开始提供付费会员服务",
+      "onboard_time": 1698030155,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 400550,
       "num": 400550,
       "word": "女子突发腹痛公交司机停车救人",
@@ -267,12 +323,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 347379,
-      "num": 347379,
-      "word": "太原发生多人伤亡交通事故",
-      "onboard_time": 1698028114,
-      "rank": 12,
-      "category": "社会新闻"
+      "raw_hot": 365672,
+      "num": 365672,
+      "word": "韩孝周参加铁人三项比赛",
+      "onboard_time": 1698029191,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 350668,
+      "num": 350668,
+      "word": "柳舟记",
+      "onboard_time": 1698028714,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 348301,
+      "num": 348301,
+      "word": "重阳节是澳门法定假日",
+      "onboard_time": 1698029733,
+      "rank": 18,
+      "category": "知识科普"
     },
     {
       "raw_hot": 346251,
@@ -289,6 +361,14 @@
       "onboard_time": 1697980413,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 331213,
+      "num": 331213,
+      "word": "内塔尼亚胡被要求下台",
+      "onboard_time": 1698027992,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 322723,
@@ -329,6 +409,14 @@
       "onboard_time": 1698021338,
       "rank": 23,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 310953,
+      "num": 310953,
+      "word": "檀健次晒与粉丝大合照",
+      "onboard_time": 1698029313,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 309603,
@@ -435,6 +523,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 235701,
+      "num": 235701,
+      "word": "秦海璐在3个国家拍了7张自己的脚",
+      "onboard_time": 1698030634,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 235315,
+      "num": 235315,
+      "word": "37岁的谢毛三从裁缝到皮划艇冠军",
+      "onboard_time": 1698030753,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 233539,
       "num": 233539,
       "word": "SEVENTEEN新专辑预售量破纪录",
@@ -457,14 +561,6 @@
       "onboard_time": 1698023374,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 226460,
-      "num": 226460,
-      "word": "内塔尼亚胡被要求下台",
-      "onboard_time": 1698027992,
-      "rank": 26,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 221286,
@@ -515,11 +611,43 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 214267,
+      "num": 214267,
+      "word": "你向往的养老生活是什么样的",
+      "onboard_time": 1698030332,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 212307,
+      "num": 212307,
+      "word": "78岁奶奶健身18年身材碾压20岁的我",
+      "onboard_time": 1698029372,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 210123,
+      "num": 354197,
+      "word": "莱科宁成为极氪性能顾问",
+      "onboard_time": 1698029250,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208680,
       "num": 208680,
       "word": "7旬老人鬼门关前被一键撤回",
       "onboard_time": 1698023914,
       "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 204048,
+      "num": 204048,
+      "word": "72岁老人19年骑行20万公里",
+      "onboard_time": 1698030452,
+      "rank": 34,
       "category": "社会新闻"
     },
     {
@@ -611,6 +739,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 181846,
+      "num": 181846,
+      "word": "朴宰范加盟这就是街舞6",
+      "onboard_time": 1698030992,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181129,
       "num": 181129,
       "word": "12306回应火车卧铺上疑有排泄物",
@@ -625,6 +761,14 @@
       "onboard_time": 1698016043,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178206,
+      "num": 178206,
+      "word": "张晚意王楚然柳舟记官宣",
+      "onboard_time": 1698030992,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 177702,
@@ -659,12 +803,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 171721,
+      "num": 171721,
+      "word": "乘客险摔倒她冲上去一把托住",
+      "onboard_time": 1698030395,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169827,
       "num": 169827,
       "word": "繁城之下结局",
       "onboard_time": 1697990252,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169439,
+      "num": 169439,
+      "word": "小学生解读河边的错误",
+      "onboard_time": 1698030691,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 165860,
@@ -699,6 +859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160231,
+      "num": 160231,
+      "word": "华父辞官华浅破防大哭",
+      "onboard_time": 1698028533,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154778,
       "num": 154778,
       "word": "新婚夫妻度蜜月飞机窗上贴喜字留念",
@@ -723,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 151898,
+      "num": 151898,
+      "word": "赵露思或辞演珠帘玉幕",
+      "onboard_time": 1698031054,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 151536,
       "num": 151536,
       "word": "ChatGPT亚洲版",
@@ -737,6 +913,14 @@
       "onboard_time": 1697985335,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147564,
+      "num": 147564,
+      "word": "许光汉这张图让我更睡不着了",
+      "onboard_time": 1698028413,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 146984,
@@ -827,28 +1011,12 @@
       "category": "体育,社会新闻"
     },
     {
-      "raw_hot": 126589,
-      "num": 126589,
-      "word": "许光汉这张图让我更睡不着了",
-      "onboard_time": 1698028413,
-      "rank": 44,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 122581,
       "num": 122581,
       "word": "黄磊戏剧节帮大学生完成作业",
       "onboard_time": 1698019172,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122304,
-      "num": 122304,
-      "word": "华父辞官华浅破防大哭",
-      "onboard_time": 1698028533,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 121791,
@@ -937,6 +1105,14 @@
       "onboard_time": 1698017307,
       "rank": 34,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 94825,
+      "num": 235487,
+      "word": "王石称OPPO折叠屏是安全天花板",
+      "onboard_time": 1698030575,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 86831,
@@ -1065,6 +1241,14 @@
       "onboard_time": 1698001993,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33255,
+      "num": 673761,
+      "word": "长辈的爱值得一场双向奔赴",
+      "onboard_time": 1698030814,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 32103,

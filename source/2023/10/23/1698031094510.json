@@ -1,0 +1,410 @@
+{
+  "runTime": 1698031094510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2058577,
+        "num": 2058577,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 0,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 701391,
+        "num": 701391,
+        "word": "刘少昂不知身后竟然如此热闹",
+        "onboard_time": 1698029011,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33255,
+        "num": 673761,
+        "word": "长辈的爱值得一场双向奔赴",
+        "onboard_time": 1698030814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1379352,
+        "num": 664461,
+        "word": "太原发生多人伤亡交通事故",
+        "onboard_time": 1698028114,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 706199,
+        "num": 661688,
+        "word": "青岛啤酒视频拍摄者已被警方控制",
+        "onboard_time": 1698022775,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 651680,
+        "num": 651680,
+        "word": "花儿与少年",
+        "onboard_time": 1698028714,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 552874,
+        "num": 552874,
+        "word": "旅客带核辐射超标1050倍保健石入境",
+        "onboard_time": 1698024813,
+        "rank": 6,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 509413,
+        "num": 509413,
+        "word": "电子呕吐物",
+        "onboard_time": 1698029972,
+        "rank": 7,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 500438,
+        "num": 500438,
+        "word": "花少丝路季连播七天",
+        "onboard_time": 1698029132,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410418,
+        "num": 410418,
+        "word": "QQ邮箱开始提供付费会员服务",
+        "onboard_time": 1698030155,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1683169,
+        "num": 409956,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 10,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1331177,
+        "num": 407701,
+        "word": "兄妹喝奶奶捡回饮料中毒医院怀疑人为投毒",
+        "onboard_time": 1698025114,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 471930,
+        "num": 404615,
+        "word": "A股",
+        "onboard_time": 1698025353,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400050,
+        "num": 400050,
+        "word": "全昭旻RM下车",
+        "onboard_time": 1698024211,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385259,
+        "num": 385259,
+        "word": "以军就坦克意外击中埃及军事哨所道歉",
+        "onboard_time": 1698022836,
+        "rank": 14,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 365672,
+        "num": 365672,
+        "word": "韩孝周参加铁人三项比赛",
+        "onboard_time": 1698029191,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 210123,
+        "num": 354197,
+        "word": "莱科宁成为极氪性能顾问",
+        "onboard_time": 1698029250,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350668,
+        "num": 350668,
+        "word": "柳舟记",
+        "onboard_time": 1698028714,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 348301,
+        "num": 348301,
+        "word": "重阳节是澳门法定假日",
+        "onboard_time": 1698029733,
+        "rank": 18,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 331213,
+        "num": 331213,
+        "word": "内塔尼亚胡被要求下台",
+        "onboard_time": 1698027992,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 891559,
+        "num": 325693,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 539357,
+        "num": 322928,
+        "word": "吴楚一跳的是这种钢管舞吗",
+        "onboard_time": 1697988874,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310953,
+        "num": 310953,
+        "word": "檀健次晒与粉丝大合照",
+        "onboard_time": 1698029313,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248179,
+        "num": 248179,
+        "word": "广东汕头发生5.0级地震",
+        "onboard_time": 1698015922,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 242082,
+        "num": 242082,
+        "word": "小米14发布会定档",
+        "onboard_time": 1698024572,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 237534,
+        "num": 237534,
+        "word": "一念花开今晚开播",
+        "onboard_time": 1698026733,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235701,
+        "num": 235701,
+        "word": "秦海璐在3个国家拍了7张自己的脚",
+        "onboard_time": 1698030634,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94825,
+        "num": 235487,
+        "word": "王石称OPPO折叠屏是安全天花板",
+        "onboard_time": 1698030575,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 23756,
+        "num": 235365,
+        "word": "亚残运会开幕",
+        "onboard_time": 1697982154,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235315,
+        "num": 235315,
+        "word": "37岁的谢毛三从裁缝到皮划艇冠军",
+        "onboard_time": 1698030753,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217853,
+        "num": 217853,
+        "word": "吴昕 并不是所有人都有机会说再见的",
+        "onboard_time": 1698026970,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214267,
+        "num": 214267,
+        "word": "你向往的养老生活是什么样的",
+        "onboard_time": 1698030332,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212862,
+        "num": 212862,
+        "word": "吴建豪26年前街舞比赛视频",
+        "onboard_time": 1698028232,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 212307,
+        "num": 212307,
+        "word": "78岁奶奶健身18年身材碾压20岁的我",
+        "onboard_time": 1698029372,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204048,
+        "num": 204048,
+        "word": "72岁老人19年骑行20万公里",
+        "onboard_time": 1698030452,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199120,
+        "num": 199120,
+        "word": "青岛啤酒股价大跌",
+        "onboard_time": 1698027453,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187928,
+        "num": 187928,
+        "word": "耐克回应实行四天工作制",
+        "onboard_time": 1698023315,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181846,
+        "num": 181846,
+        "word": "朴宰范加盟这就是街舞6",
+        "onboard_time": 1698030992,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178206,
+        "num": 178206,
+        "word": "张晚意王楚然柳舟记官宣",
+        "onboard_time": 1698030992,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177387,
+        "num": 177387,
+        "word": "因为打呼噜室友让我滚出宿舍",
+        "onboard_time": 1698024271,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171721,
+        "num": 171721,
+        "word": "乘客险摔倒她冲上去一把托住",
+        "onboard_time": 1698030395,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 169439,
+        "num": 169439,
+        "word": "小学生解读河边的错误",
+        "onboard_time": 1698030691,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160231,
+        "num": 160231,
+        "word": "华父辞官华浅破防大哭",
+        "onboard_time": 1698028533,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154697,
+        "num": 154697,
+        "word": "沈诺终于掉马了",
+        "onboard_time": 1698022175,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152776,
+        "num": 152776,
+        "word": "by2爱丫爱丫让青春回来了",
+        "onboard_time": 1698021815,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 151898,
+        "num": 151898,
+        "word": "赵露思或辞演珠帘玉幕",
+        "onboard_time": 1698031054,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151466,
+        "num": 151466,
+        "word": "李一桐温柔甜妹妆",
+        "onboard_time": 1698026851,
+        "rank": 46,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 147564,
+        "num": 147564,
+        "word": "许光汉这张图让我更睡不着了",
+        "onboard_time": 1698028413,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145736,
+        "num": 145736,
+        "word": "河边的错误票房破9000万",
+        "onboard_time": 1698018029,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142134,
+        "num": 142134,
+        "word": "今日重阳",
+        "onboard_time": 1698016587,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路谋求的是共同发展合作共赢#"
+    }
+  }
+}
