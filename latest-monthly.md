@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 22:35:04
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 23:17:50
 </p>
 </blockquote>
 <p>
@@ -4143,6 +4143,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9B%AE%E5%89%8D%E5%8C%BB%E7%96%97%E6%94%AF%E5%87%BA%E8%BF%916%E4%B8%87%E5%85%83%23" target="weibo">
+崇州被狗咬伤女童目前医疗支出近6万元（热度：1187880）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%9A%96%E6%9B%A6%E8%A7%86%E9%A2%91%E5%8F%B7%E7%9B%B4%E6%92%AD4%E6%AC%A1%E5%90%8E%E8%A2%AB%E6%8A%95%E8%AF%89%E6%B0%B8%E4%B9%85%E7%A6%81%E6%92%AD%23" target="weibo">
 刘暖曦视频号直播4次后被投诉永久禁播（热度：1186946）
 </a>
@@ -4637,12 +4643,6 @@ WBG两连败（热度：1076997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%AC%E6%9C%AF%E9%98%9F%E5%B7%B4%E9%BB%8E%E5%A5%A5%E8%BF%90%E4%BC%9A%E5%8F%82%E8%B5%9B%E8%B5%84%E6%A0%BC%E8%A2%AB%E5%8F%96%E6%B6%88%23" target="weibo">
 中国马术队巴黎奥运会参赛资格被取消（热度：1071419）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E7%9B%AE%E5%89%8D%E5%8C%BB%E7%96%97%E6%94%AF%E5%87%BA%E8%BF%916%E4%B8%87%E5%85%83%23" target="weibo">
-崇州被狗咬伤女童目前医疗支出近6万元（热度：1069934）
 </a>
 </li>
 

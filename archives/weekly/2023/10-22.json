@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698071704451,
+  "endTime": 1698074270507,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -323,6 +323,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1187880,
+      "num": 1187880,
+      "word": "崇州被狗咬伤女童目前医疗支出近6万元",
+      "onboard_time": 1698069043,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1175935,
       "num": 1021449,
       "word": "老舅居然是哈圈隐藏真学霸",
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 1115123,
-      "num": 451133,
+      "num": 778788,
       "word": "深圳机场",
       "onboard_time": 1698069164,
       "rank": 10,
@@ -369,14 +377,6 @@
       "onboard_time": 1697972672,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1069934,
-      "num": 1069934,
-      "word": "崇州被狗咬伤女童目前医疗支出近6万元",
-      "onboard_time": 1698069043,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1055014,
@@ -579,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 813855,
+      "num": 813855,
+      "word": "凤凰传奇现场 早读都没这么整齐过",
+      "onboard_time": 1698071442,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 809828,
       "num": 809828,
       "word": "福建震感",
@@ -665,6 +673,14 @@
       "onboard_time": 1697964031,
       "rank": 2,
       "category": "美食"
+    },
+    {
+      "raw_hot": 730768,
+      "num": 730768,
+      "word": "女子全勤工作1个月发257元工资",
+      "onboard_time": 1698070423,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 717337,
@@ -1043,6 +1059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 527070,
+      "num": 527070,
+      "word": "京东文娱",
+      "onboard_time": 1698071085,
+      "rank": 18,
+      "category": "音乐,互联网"
+    },
+    {
       "raw_hot": 523315,
       "num": 523315,
       "word": "100只大闸蟹做成的百蟹瀑布",
@@ -1379,14 +1403,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 436477,
-      "num": 436477,
-      "word": "女子全勤工作1个月发257元工资",
-      "onboard_time": 1698070423,
-      "rank": 30,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 435224,
       "num": 435224,
       "word": "老人进店3次研究毛衣织法没被赶",
@@ -1675,6 +1691,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 381993,
+      "num": 381993,
+      "word": "京东火力",
+      "onboard_time": 1698072764,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 381755,
       "num": 381755,
       "word": "张晚意 致玱玹",
@@ -1785,6 +1809,22 @@
       "onboard_time": 1698038926,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 365194,
+      "num": 365194,
+      "word": "苹果称iPhone15是图像残留不是烧屏",
+      "onboard_time": 1698072280,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 364345,
+      "num": 364345,
+      "word": "代理律师回应女童家属筹款200万争议",
+      "onboard_time": 1698073183,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 364201,
@@ -2065,14 +2105,6 @@
       "onboard_time": 1698047345,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 312270,
-      "num": 312270,
-      "word": "京东文娱",
-      "onboard_time": 1698071085,
-      "rank": 18,
-      "category": "音乐,互联网"
     },
     {
       "raw_hot": 311439,
@@ -2427,6 +2459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 276188,
+      "num": 276188,
+      "word": "微博迎新之夜就差报身份证了",
+      "onboard_time": 1698072586,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275367,
       "num": 275367,
       "word": "青岛啤酒",
@@ -2473,6 +2513,14 @@
       "onboard_time": 1698045462,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 270480,
+      "num": 270480,
+      "word": "我姓关关晓彤的关",
+      "onboard_time": 1698073544,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 269081,
@@ -2539,6 +2587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 262266,
+      "num": 262266,
+      "word": "梁龙素颜",
+      "onboard_time": 1698073661,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257924,
       "num": 257924,
       "word": "揭秘5.9元粉底液厂商",
@@ -2569,6 +2625,14 @@
       "onboard_time": 1697892574,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 255984,
+      "num": 255984,
+      "word": "肺炎支原体感染早期症状为干咳",
+      "onboard_time": 1698071264,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 255870,
@@ -2625,6 +2689,14 @@
       "onboard_time": 1698034296,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 250242,
+      "num": 250242,
+      "word": "岁岁青莲",
+      "onboard_time": 1698071264,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 249024,
@@ -3027,6 +3099,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 221678,
+      "num": 221678,
+      "word": "深圳机场已恢复正常",
+      "onboard_time": 1698073902,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 221333,
       "num": 221333,
       "word": "真的不能拉锯式刷牙",
@@ -3193,14 +3273,6 @@
       "onboard_time": 1698029372,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211635,
-      "num": 211635,
-      "word": "肺炎支原体感染早期症状为干咳",
-      "onboard_time": 1698071264,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 211188,
@@ -3563,14 +3635,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 195857,
-      "num": 195857,
-      "word": "凤凰传奇现场 早读都没这么整齐过",
-      "onboard_time": 1698071442,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195628,
       "num": 195628,
       "word": "苹果散落小山坡过路司机帮捡获赠果子",
@@ -3665,14 +3729,6 @@
       "onboard_time": 1698045942,
       "rank": 38,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 191920,
-      "num": 191920,
-      "word": "岁岁青莲",
-      "onboard_time": 1698071264,
-      "rank": 33,
-      "category": "剧集"
     },
     {
       "raw_hot": 191876,
@@ -3849,6 +3905,14 @@
       "onboard_time": 1698056570,
       "rank": 39,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 183249,
+      "num": 183249,
+      "word": "华戎舟是华浅想象出来的",
+      "onboard_time": 1698073841,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 182847,
@@ -4115,6 +4179,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 170207,
+      "num": 170207,
+      "word": "金珉奎不能脱帽子的原因",
+      "onboard_time": 1698074146,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169827,
       "num": 169827,
       "word": "繁城之下结局",
@@ -4185,6 +4257,14 @@
       "onboard_time": 1697989054,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 165018,
+      "num": 165018,
+      "word": "90岁奶奶送00后警察好宝宝锦旗",
+      "onboard_time": 1698073306,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 164619,
@@ -4273,6 +4353,14 @@
       "onboard_time": 1698045340,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 160908,
+      "num": 160908,
+      "word": "问心",
+      "onboard_time": 1697891194,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 160850,
@@ -5063,6 +5151,14 @@
       "num": 130299,
       "word": "联谊会上他们毫不犹豫转身出警",
       "onboard_time": 1697981372,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130177,
+      "num": 130177,
+      "word": "700万动迁款分给4名子女后无人赡养",
+      "onboard_time": 1698073902,
       "rank": 44,
       "category": "社会新闻"
     },
@@ -6225,14 +6321,6 @@
       "onboard_time": 1697929341,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 24915,
-      "num": 24915,
-      "word": "问心",
-      "onboard_time": 1697891194,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 23949,
