@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698031094510,
+  "endTime": 1698032054238,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3752811,
-      "num": 325693,
+      "num": 346028,
       "word": "男子性侵13岁女孩聊天称老婆要从小培养",
       "onboard_time": 1697988874,
       "rank": 10,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1683169,
-      "num": 409956,
+      "num": 427365,
       "word": "张大奕自曝3年被代购骗1161万",
       "onboard_time": 1698027215,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1385830,
-      "num": 322928,
+      "num": 345668,
       "word": "吴楚一跳的是这种钢管舞吗",
       "onboard_time": 1697988874,
       "rank": 20,
@@ -121,6 +121,14 @@
       "onboard_time": 1698024211,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 958497,
+      "num": 958497,
+      "word": "电子呕吐物",
+      "onboard_time": 1698029972,
+      "rank": 7,
+      "category": "幽默"
     },
     {
       "raw_hot": 927895,
@@ -179,6 +187,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 698591,
+      "num": 698591,
+      "word": "QQ邮箱开始提供付费会员服务",
+      "onboard_time": 1698030155,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 673852,
+      "num": 673852,
+      "word": "赵露思或辞演珠帘玉幕",
+      "onboard_time": 1698031054,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 668033,
+      "num": 668033,
+      "word": "张晚意王楚然柳舟记官宣",
+      "onboard_time": 1698030992,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 651680,
       "num": 651680,
       "word": "花儿与少年",
@@ -201,14 +233,6 @@
       "onboard_time": 1698021815,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 509413,
-      "num": 509413,
-      "word": "电子呕吐物",
-      "onboard_time": 1698029972,
-      "rank": 7,
-      "category": "幽默"
     },
     {
       "raw_hot": 500438,
@@ -275,12 +299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 410418,
-      "num": 410418,
-      "word": "QQ邮箱开始提供付费会员服务",
-      "onboard_time": 1698030155,
-      "rank": 9,
-      "category": "互联网"
+      "raw_hot": 430125,
+      "num": 430125,
+      "word": "重阳节是澳门法定假日",
+      "onboard_time": 1698029733,
+      "rank": 18,
+      "category": "知识科普"
     },
     {
       "raw_hot": 400550,
@@ -305,6 +329,22 @@
       "onboard_time": 1697982456,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391958,
+      "num": 391958,
+      "word": "秦海璐在3个国家拍了7张自己的脚",
+      "onboard_time": 1698030634,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 390314,
+      "num": 390314,
+      "word": "朴宰范加盟这就是街舞6",
+      "onboard_time": 1698030992,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 374230,
@@ -337,14 +377,6 @@
       "onboard_time": 1698028714,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 348301,
-      "num": 348301,
-      "word": "重阳节是澳门法定假日",
-      "onboard_time": 1698029733,
-      "rank": 18,
-      "category": "知识科普"
     },
     {
       "raw_hot": 346251,
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 279298,
-      "num": 226963,
+      "num": 227815,
       "word": "青岛啤酒股价大跌",
       "onboard_time": 1698027453,
       "rank": 35,
@@ -521,14 +553,6 @@
       "onboard_time": 1698016587,
       "rank": 12,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 235701,
-      "num": 235701,
-      "word": "秦海璐在3个国家拍了7张自己的脚",
-      "onboard_time": 1698030634,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 235315,
@@ -628,7 +652,7 @@
     },
     {
       "raw_hot": 210123,
-      "num": 354197,
+      "num": 393772,
       "word": "莱科宁成为极氪性能顾问",
       "onboard_time": 1698029250,
       "rank": 16,
@@ -683,6 +707,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 195480,
+      "num": 195480,
+      "word": "迪丽热巴晒花少团合照",
+      "onboard_time": 1698031534,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192817,
       "num": 192817,
       "word": "aespa 迷你4辑",
@@ -697,6 +729,14 @@
       "onboard_time": 1698022115,
       "rank": 32,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 190788,
+      "num": 190788,
+      "word": "王星越19岁演仲溪午",
+      "onboard_time": 1698031534,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 190554,
@@ -739,12 +779,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 181846,
-      "num": 181846,
-      "word": "朴宰范加盟这就是街舞6",
-      "onboard_time": 1698030992,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 182142,
+      "num": 182142,
+      "word": "在日本吃个点心有多复杂",
+      "onboard_time": 1698031412,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 181129,
@@ -761,14 +801,6 @@
       "onboard_time": 1698016043,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 178206,
-      "num": 178206,
-      "word": "张晚意王楚然柳舟记官宣",
-      "onboard_time": 1698030992,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 177702,
@@ -808,6 +840,14 @@
       "word": "乘客险摔倒她冲上去一把托住",
       "onboard_time": 1698030395,
       "rank": 40,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 170961,
+      "num": 170961,
+      "word": "生命中最年轻的一天永远是今天",
+      "onboard_time": 1698031175,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -891,14 +931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 151898,
-      "num": 151898,
-      "word": "赵露思或辞演珠帘玉幕",
-      "onboard_time": 1698031054,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151536,
       "num": 151536,
       "word": "ChatGPT亚洲版",
@@ -947,12 +979,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136206,
+      "num": 136206,
+      "word": "相约亚残运",
+      "onboard_time": 1698031834,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136175,
       "num": 136175,
       "word": "夫硕顺音乐之神先公开",
       "onboard_time": 1697990011,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135648,
+      "num": 135648,
+      "word": "谢毛三夺亚残运会首金后披上国旗",
+      "onboard_time": 1698029612,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 135112,
@@ -968,6 +1016,14 @@
       "word": "潮州震感",
       "onboard_time": 1698022894,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132975,
+      "num": 673761,
+      "word": "长辈的爱值得一场双向奔赴",
+      "onboard_time": 1698030814,
+      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1009,6 +1065,14 @@
       "onboard_time": 1698028350,
       "rank": 42,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 125123,
+      "num": 125123,
+      "word": "官方通报执法人员开着巡逻车偷高粱",
+      "onboard_time": 1698032014,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122581,
@@ -1108,7 +1172,7 @@
     },
     {
       "raw_hot": 94825,
-      "num": 235487,
+      "num": 345271,
       "word": "王石称OPPO折叠屏是安全天花板",
       "onboard_time": 1698030575,
       "rank": 27,
@@ -1243,14 +1307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33255,
-      "num": 673761,
-      "word": "长辈的爱值得一场双向奔赴",
-      "onboard_time": 1698030814,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 32103,
       "num": 32103,
       "word": "力丸说朝阳打歌中心都是好人",
@@ -1289,6 +1345,14 @@
       "onboard_time": 1698010153,
       "rank": 48,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 19498,
+      "num": 747243,
+      "word": "比亚残运会赛事更昂扬的是人生",
+      "onboard_time": 1698031473,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 16803,
