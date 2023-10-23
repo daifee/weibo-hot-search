@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698035639448,
+  "endTime": 1698038167843,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -41,6 +41,14 @@
       "onboard_time": 1698018450,
       "rank": 10,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2160822,
+      "num": 2160822,
+      "word": "这就是街舞6官宣队长",
+      "onboard_time": 1698034782,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 2132092,
@@ -265,14 +273,6 @@
       "onboard_time": 1697986357,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1052076,
-      "num": 1052076,
-      "word": "这就是街舞6官宣队长",
-      "onboard_time": 1698034782,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 1043773,
@@ -707,8 +707,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 542795,
-      "num": 542795,
+      "raw_hot": 543117,
+      "num": 543117,
       "word": "什么是肺结节",
       "onboard_time": 1698034598,
       "rank": 27,
@@ -729,6 +729,14 @@
       "onboard_time": 1698021815,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 533117,
+      "num": 533117,
+      "word": "厨娘小何买了一条鳄鱼",
+      "onboard_time": 1698035629,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 533054,
@@ -763,6 +771,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 516248,
+      "num": 516248,
+      "word": "杨紫白色露背裙",
+      "onboard_time": 1698036649,
+      "rank": 14,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 515707,
       "num": 515707,
       "word": "金龟子王宁结婚三十多年几乎不吵架",
@@ -777,6 +793,14 @@
       "onboard_time": 1697969314,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 512306,
+      "num": 315198,
+      "word": "杨幂 有效客串",
+      "onboard_time": 1698037188,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 511076,
@@ -1123,6 +1147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395910,
+      "num": 395910,
+      "word": "徐娇小狗美甲",
+      "onboard_time": 1698035023,
+      "rank": 18,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 395747,
       "num": 395747,
       "word": "一念花开今晚开播",
@@ -1187,12 +1219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 378987,
-      "num": 378987,
-      "word": "徐娇小狗美甲",
-      "onboard_time": 1698035023,
-      "rank": 18,
-      "category": "作品衍生,时尚"
+      "raw_hot": 380785,
+      "num": 314903,
+      "word": "毕业五年我妈以为我存款50w",
+      "onboard_time": 1698035629,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 374230,
@@ -1435,6 +1467,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 316551,
+      "num": 316551,
+      "word": "可可西里的网红狼开始带新人了",
+      "onboard_time": 1698037549,
+      "rank": 18,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 316053,
       "num": 288983,
       "word": "白鹿复古名伶妆",
@@ -1457,6 +1497,22 @@
       "onboard_time": 1697942551,
       "rank": 13,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 314520,
+      "num": 314520,
+      "word": "这真的不是黄奕上错花轿嫁对郎原片吗",
+      "onboard_time": 1698037668,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 314443,
+      "num": 314443,
+      "word": "梁洁白开水妆",
+      "onboard_time": 1698036887,
+      "rank": 25,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 311439,
@@ -1515,6 +1571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 305656,
+      "num": 305656,
+      "word": "新裤子官宣巡演首站广州",
+      "onboard_time": 1698035687,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 305262,
       "num": 305262,
       "word": "6岁女孩被父亲忘高速服务区冷静求助",
@@ -1553,14 +1617,6 @@
       "onboard_time": 1697988634,
       "rank": 39,
       "category": "教育"
-    },
-    {
-      "raw_hot": 299155,
-      "num": 285724,
-      "word": "毕业五年我妈以为我存款50w",
-      "onboard_time": 1698035629,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 297741,
@@ -1643,12 +1699,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 285143,
+      "num": 285143,
+      "word": "历届这就是街舞队长",
+      "onboard_time": 1698035023,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 283719,
       "num": 283719,
       "word": "肺炎支原体感染11月或将迎感染高峰",
       "onboard_time": 1697891314,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283545,
+      "num": 283545,
+      "word": "SEVENTEEN回归",
+      "onboard_time": 1698036828,
+      "rank": 32,
+      "category": "音乐"
     },
     {
       "raw_hot": 281270,
@@ -1673,6 +1745,14 @@
       "onboard_time": 1697948552,
       "rank": 37,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 280389,
+      "num": 280389,
+      "word": "肖战美拉德风衣",
+      "onboard_time": 1698038082,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280129,
@@ -1819,6 +1899,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252161,
+      "num": 297273,
+      "word": "萝卜刀创新 金刚狼萝卜爪",
+      "onboard_time": 1698035687,
+      "rank": 29,
+      "category": "休闲"
+    },
+    {
+      "raw_hot": 251524,
+      "num": 251524,
+      "word": "张碧晨 她说",
+      "onboard_time": 1698034296,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 249024,
       "num": 249024,
       "word": "薛之谦木偶妆",
@@ -1841,14 +1937,6 @@
       "onboard_time": 1697986059,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 247060,
-      "num": 247060,
-      "word": "历届这就是街舞队长",
-      "onboard_time": 1698035023,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 246888,
@@ -1923,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 238707,
+      "num": 238707,
+      "word": "杨幂最美表演年度影人",
+      "onboard_time": 1698036230,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 237557,
       "num": 237557,
       "word": "麻将的里面装的什么",
@@ -1939,6 +2035,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237098,
+      "num": 281495,
+      "word": "化妆室妆面 适合手残党",
+      "onboard_time": 1698037307,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 235799,
       "num": 235799,
       "word": "为什么你的美白精华没有效果",
@@ -1953,14 +2057,6 @@
       "onboard_time": 1698030753,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 234775,
-      "num": 234775,
-      "word": "厨娘小何买了一条鳄鱼",
-      "onboard_time": 1698035629,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 234468,
@@ -2043,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230273,
+      "num": 253078,
+      "word": "3款个位数的国货护肤之光",
+      "onboard_time": 1698037067,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 229425,
       "num": 229425,
       "word": "吴建豪26年前街舞比赛视频",
@@ -2105,6 +2209,14 @@
       "onboard_time": 1697969371,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221333,
+      "num": 221333,
+      "word": "真的不能拉锯式刷牙",
+      "onboard_time": 1698036410,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 221286,
@@ -2201,14 +2313,6 @@
       "onboard_time": 1698030332,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 213017,
-      "num": 213017,
-      "word": "张碧晨 她说",
-      "onboard_time": 1698034296,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 212884,
@@ -2451,6 +2555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 199782,
+      "num": 316244,
+      "word": "以军未来地面攻势或持续3个月",
+      "onboard_time": 1698037427,
+      "rank": 19,
+      "category": "国外要闻,军事"
+    },
+    {
       "raw_hot": 199578,
       "num": 199578,
       "word": "欧阳娜娜妹妹给她织的小包包",
@@ -2505,6 +2617,22 @@
       "onboard_time": 1697986956,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 194615,
+      "num": 280741,
+      "word": "重阳节120位老人拍全家福吃百寿宴",
+      "onboard_time": 1698037969,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 194125,
+      "num": 216167,
+      "word": "福岛核污染水第二轮排海完成",
+      "onboard_time": 1698038144,
+      "rank": 46,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 194072,
@@ -2617,6 +2745,14 @@
       "onboard_time": 1697901636,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187776,
+      "num": 252079,
+      "word": "39名戴人工耳蜗小演员合唱我的祖国",
+      "onboard_time": 1698037735,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187626,
@@ -2825,6 +2961,14 @@
       "onboard_time": 1698022056,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171723,
+      "num": 251694,
+      "word": "老外开发AI中医能辨舌苔",
+      "onboard_time": 1698036172,
+      "rank": 40,
+      "category": "科技"
     },
     {
       "raw_hot": 171721,
