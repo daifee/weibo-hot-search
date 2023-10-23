@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698046440565,
+  "endTime": 1698049362222,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2066664,
+      "num": 466217,
+      "word": "华晨宇 男孩子也穿婚纱太酷了吧",
+      "onboard_time": 1698046965,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2058577,
       "num": 2058577,
       "word": "iPhone15全系价格暴跌",
@@ -89,6 +97,14 @@
       "onboard_time": 1698025114,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1820587,
+      "num": 1820587,
+      "word": "5.9一瓶的粉底液",
+      "onboard_time": 1698043966,
+      "rank": 4,
+      "category": "美妆"
     },
     {
       "raw_hot": 1799925,
@@ -227,6 +243,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 1315509,
+      "num": 1315509,
+      "word": "昏迷50多天24岁产妇遗憾离开人世",
+      "onboard_time": 1698045406,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1279678,
       "num": 1279678,
       "word": "KT战胜WBG",
@@ -355,14 +379,6 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 953676,
-      "num": 953676,
-      "word": "5.9一瓶的粉底液",
-      "onboard_time": 1698043966,
-      "rank": 4,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 952431,
       "num": 952431,
       "word": "何炅说第一次见黄子韬是19岁",
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 770869,
-      "num": 367700,
+      "num": 457991,
       "word": "A股大跌",
       "onboard_time": 1698044744,
       "rank": 12,
@@ -619,6 +635,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 638143,
+      "num": 275420,
+      "word": "杨超越 以后不红了怎么办",
+      "onboard_time": 1698044080,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 637686,
       "num": 637686,
       "word": "2万6千部手机刷直播间人气",
@@ -755,14 +779,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 569473,
-      "num": 261065,
-      "word": "杨超越 以后不红了怎么办",
-      "onboard_time": 1698044080,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 561443,
       "num": 561443,
       "word": "中国海警披露依法拦阻菲船只详情",
@@ -777,6 +793,14 @@
       "onboard_time": 1698040729,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548479,
+      "num": 548479,
+      "word": "中国股市必须守住",
+      "onboard_time": 1698046126,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 543117,
@@ -859,14 +883,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 525719,
-      "num": 320326,
-      "word": "昏迷50多天24岁产妇遗憾离开人世",
-      "onboard_time": 1698045406,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 516248,
       "num": 516248,
       "word": "杨紫白色露背裙",
@@ -915,8 +931,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510827,
+      "num": 510827,
+      "word": "买1.6万黄金1小时后换款缩水5600",
+      "onboard_time": 1698042163,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508358,
-      "num": 254984,
+      "num": 275234,
       "word": "原来小县城工资也很高",
       "onboard_time": 1698041024,
       "rank": 20,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1698024572,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 471287,
-      "num": 467624,
-      "word": "买1.6万黄金1小时后换款缩水5600",
-      "onboard_time": 1698042163,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469556,
@@ -1259,6 +1275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405703,
+      "num": 405703,
+      "word": "王栎鑫谁还不是个rapper",
+      "onboard_time": 1698048623,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400550,
       "num": 400550,
       "word": "女子突发腹痛公交司机停车救人",
@@ -1363,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380902,
+      "num": 380902,
+      "word": "烟花猫眼美甲",
+      "onboard_time": 1698044864,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 380785,
       "num": 331680,
       "word": "毕业五年我妈以为我存款50w",
@@ -1440,6 +1472,14 @@
       "word": "仲溪午上桌了",
       "onboard_time": 1697977770,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 361401,
+      "num": 361401,
+      "word": "还珠格格台词原来这么离谱",
+      "onboard_time": 1698045880,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1667,6 +1707,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 313683,
+      "num": 313683,
+      "word": "惠英红 影后大起大落的60年",
+      "onboard_time": 1698047345,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311439,
       "num": 257195,
       "word": "帮帮我好不好 帮我上班",
@@ -1697,14 +1745,6 @@
       "onboard_time": 1697956410,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 307950,
-      "num": 307950,
-      "word": "烟花猫眼美甲",
-      "onboard_time": 1698044864,
-      "rank": 27,
-      "category": "美妆"
     },
     {
       "raw_hot": 307819,
@@ -1801,6 +1841,14 @@
       "onboard_time": 1697901277,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 296858,
+      "num": 296858,
+      "word": "咒术回战 五条悟新插画",
+      "onboard_time": 1698048086,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 295794,
@@ -1939,11 +1987,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279274,
+      "num": 279274,
+      "word": "侯明昊 漫撕男",
+      "onboard_time": 1698046781,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 277761,
       "num": 277761,
       "word": "网友晒与鹿晗范丞丞王安宇合照",
       "onboard_time": 1697903855,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 276334,
+      "num": 276334,
+      "word": "EXO台历呢",
+      "onboard_time": 1698046302,
+      "rank": 46,
       "category": "艺人"
     },
     {
@@ -2001,14 +2065,6 @@
       "onboard_time": 1698026851,
       "rank": 17,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 268784,
-      "num": 268784,
-      "word": "中国股市必须守住",
-      "onboard_time": 1698046126,
-      "rank": 19,
-      "category": "财经"
     },
     {
       "raw_hot": 266480,
@@ -2081,14 +2137,6 @@
       "onboard_time": 1698033518,
       "rank": 35,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 254042,
-      "num": 254042,
-      "word": "还珠格格台词原来这么离谱",
-      "onboard_time": 1698045880,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 252552,
@@ -2363,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231376,
+      "num": 231376,
+      "word": "迪丽热巴佩列沙茨大桥海报",
+      "onboard_time": 1698045525,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231286,
       "num": 231286,
       "word": "这房子长得跟素描似的",
@@ -2425,6 +2481,14 @@
       "onboard_time": 1698045582,
       "rank": 29,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 225163,
+      "num": 268607,
+      "word": "被白象的操作暖到了",
+      "onboard_time": 1698045162,
+      "rank": 46,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 224863,
@@ -2555,14 +2619,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 217162,
-      "num": 217162,
-      "word": "迪丽热巴佩列沙茨大桥海报",
-      "onboard_time": 1698045525,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216541,
       "num": 216541,
       "word": "茉酸奶 求生欲",
@@ -2681,6 +2737,14 @@
       "onboard_time": 1697980413,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207030,
+      "num": 207030,
+      "word": "鼠头鸭脖事件暴露南昌应急处置失当",
+      "onboard_time": 1698048449,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 206994,
@@ -2865,6 +2929,14 @@
       "onboard_time": 1698019774,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199234,
+      "num": 199234,
+      "word": "重阳节的逆爱",
+      "onboard_time": 1698048858,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 198528,
@@ -3395,6 +3467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 162845,
+      "num": 162845,
+      "word": "尚有293个国考职位无人通过资格审查",
+      "onboard_time": 1698049035,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162198,
       "num": 162198,
       "word": "泉州震感",
@@ -3491,14 +3571,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 157347,
-      "num": 157347,
-      "word": "EXO台历呢",
-      "onboard_time": 1698046302,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 156823,
       "num": 156823,
       "word": "白鹿白色拖地长裙",
@@ -3524,7 +3596,7 @@
     },
     {
       "raw_hot": 155207,
-      "num": 155207,
+      "num": 162776,
       "word": "杨幂15年最美表演囚笼",
       "onboard_time": 1698043241,
       "rank": 40,
@@ -3649,14 +3721,6 @@
       "onboard_time": 1697896779,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 148113,
-      "num": 268607,
-      "word": "被白象的操作暖到了",
-      "onboard_time": 1698045162,
-      "rank": 46,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 147904,
@@ -3947,6 +4011,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 131864,
+      "num": 162815,
+      "word": "我们的盛会",
+      "onboard_time": 1698048387,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131485,
       "num": 131485,
       "word": "亚当斯赛季报销",
@@ -3977,6 +4049,14 @@
       "onboard_time": 1697975490,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131038,
+      "num": 162808,
+      "word": "姐妹俩悄悄赶回家给爸爸过生日",
+      "onboard_time": 1698048026,
+      "rank": 44,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 130407,
@@ -4121,6 +4201,14 @@
       "onboard_time": 1697944771,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123392,
+      "num": 162751,
+      "word": "儿子寻亡父照片民警翻上百份档案帮他圆梦",
+      "onboard_time": 1698047775,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 122753,
@@ -4793,6 +4881,14 @@
       "onboard_time": 1697928801,
       "rank": 30,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 58344,
+      "num": 167135,
+      "word": "05后因脑洞被天猫邀请加入双11",
+      "onboard_time": 1698047080,
+      "rank": 36,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 57964,

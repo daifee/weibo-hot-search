@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698046440565,
+  "endTime": 1698049362222,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2066664,
+      "num": 466217,
+      "word": "华晨宇 男孩子也穿婚纱太酷了吧",
+      "onboard_time": 1698046965,
+      "rank": 10,
+      "category": "演出"
+    },
+    {
       "raw_hot": 2058577,
       "num": 2058577,
       "word": "iPhone15全系价格暴跌",
@@ -57,6 +65,14 @@
       "onboard_time": 1698025114,
       "rank": 0,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1820587,
+      "num": 1820587,
+      "word": "5.9一瓶的粉底液",
+      "onboard_time": 1698043966,
+      "rank": 4,
+      "category": "美妆"
     },
     {
       "raw_hot": 1683169,
@@ -115,6 +131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 1315509,
+      "num": 1315509,
+      "word": "昏迷50多天24岁产妇遗憾离开人世",
+      "onboard_time": 1698045406,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1224525,
       "num": 1224525,
       "word": "27岁女子长期横向刷牙致牙齿缺损",
@@ -153,14 +177,6 @@
       "onboard_time": 1698024211,
       "rank": 3,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 953676,
-      "num": 953676,
-      "word": "5.9一瓶的粉底液",
-      "onboard_time": 1698043966,
-      "rank": 4,
-      "category": "美妆"
     },
     {
       "raw_hot": 927895,
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 770869,
-      "num": 367700,
+      "num": 457991,
       "word": "A股大跌",
       "onboard_time": 1698044744,
       "rank": 12,
@@ -299,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 638143,
+      "num": 275420,
+      "word": "杨超越 以后不红了怎么办",
+      "onboard_time": 1698044080,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 621131,
       "num": 621131,
       "word": "河边的错误票房破9000万",
@@ -331,20 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 569473,
-      "num": 261065,
-      "word": "杨超越 以后不红了怎么办",
-      "onboard_time": 1698044080,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 550138,
       "num": 550138,
       "word": "官方将通报青岛啤酒小便事件",
       "onboard_time": 1698040729,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 548479,
+      "num": 548479,
+      "word": "中国股市必须守住",
+      "onboard_time": 1698046126,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 543117,
@@ -387,14 +411,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 525719,
-      "num": 320326,
-      "word": "昏迷50多天24岁产妇遗憾离开人世",
-      "onboard_time": 1698045406,
-      "rank": 11,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 516248,
       "num": 516248,
       "word": "杨紫白色露背裙",
@@ -419,8 +435,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 510827,
+      "num": 510827,
+      "word": "买1.6万黄金1小时后换款缩水5600",
+      "onboard_time": 1698042163,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 508358,
-      "num": 254984,
+      "num": 275234,
       "word": "原来小县城工资也很高",
       "onboard_time": 1698041024,
       "rank": 20,
@@ -457,14 +481,6 @@
       "onboard_time": 1698024572,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 471287,
-      "num": 467624,
-      "word": "买1.6万黄金1小时后换款缩水5600",
-      "onboard_time": 1698042163,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 469556,
@@ -531,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 405703,
+      "num": 405703,
+      "word": "王栎鑫谁还不是个rapper",
+      "onboard_time": 1698048623,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400550,
       "num": 400550,
       "word": "女子突发腹痛公交司机停车救人",
@@ -579,6 +603,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 380902,
+      "num": 380902,
+      "word": "烟花猫眼美甲",
+      "onboard_time": 1698044864,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 380785,
       "num": 331680,
       "word": "毕业五年我妈以为我存款50w",
@@ -625,6 +657,14 @@
       "onboard_time": 1698038926,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 361401,
+      "num": 361401,
+      "word": "还珠格格台词原来这么离谱",
+      "onboard_time": 1698045880,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 350668,
@@ -723,6 +763,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 313683,
+      "num": 313683,
+      "word": "惠英红 影后大起大落的60年",
+      "onboard_time": 1698047345,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 311439,
       "num": 257195,
       "word": "帮帮我好不好 帮我上班",
@@ -745,14 +793,6 @@
       "onboard_time": 1698023196,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 307950,
-      "num": 307950,
-      "word": "烟花猫眼美甲",
-      "onboard_time": 1698044864,
-      "rank": 27,
-      "category": "美妆"
     },
     {
       "raw_hot": 305815,
@@ -785,6 +825,14 @@
       "onboard_time": 1697988634,
       "rank": 14,
       "category": "教育"
+    },
+    {
+      "raw_hot": 296858,
+      "num": 296858,
+      "word": "咒术回战 五条悟新插画",
+      "onboard_time": 1698048086,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 295794,
@@ -875,6 +923,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279274,
+      "num": 279274,
+      "word": "侯明昊 漫撕男",
+      "onboard_time": 1698046781,
+      "rank": 18,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 276334,
+      "num": 276334,
+      "word": "EXO台历呢",
+      "onboard_time": 1698046302,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275367,
       "num": 275367,
       "word": "青岛啤酒",
@@ -915,14 +979,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 268784,
-      "num": 268784,
-      "word": "中国股市必须守住",
-      "onboard_time": 1698046126,
-      "rank": 19,
-      "category": "财经"
-    },
-    {
       "raw_hot": 263725,
       "num": 263725,
       "word": "同济大学寝室四人全员直博",
@@ -961,14 +1017,6 @@
       "onboard_time": 1698033518,
       "rank": 35,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 254042,
-      "num": 254042,
-      "word": "还珠格格台词原来这么离谱",
-      "onboard_time": 1698045880,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 252161,
@@ -1115,6 +1163,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 231376,
+      "num": 231376,
+      "word": "迪丽热巴佩列沙茨大桥海报",
+      "onboard_time": 1698045525,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 230273,
       "num": 253078,
       "word": "3款个位数的国货护肤之光",
@@ -1153,6 +1209,14 @@
       "onboard_time": 1698045582,
       "rank": 29,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 225163,
+      "num": 268607,
+      "word": "被白象的操作暖到了",
+      "onboard_time": 1698045162,
+      "rank": 46,
+      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 224493,
@@ -1209,14 +1273,6 @@
       "onboard_time": 1698024092,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217162,
-      "num": 217162,
-      "word": "迪丽热巴佩列沙茨大桥海报",
-      "onboard_time": 1698045525,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 216790,
@@ -1283,6 +1339,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 207030,
+      "num": 207030,
+      "word": "鼠头鸭脖事件暴露南昌应急处置失当",
+      "onboard_time": 1698048449,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 204048,
       "num": 204048,
       "word": "72岁老人19年骑行20万公里",
@@ -1345,6 +1409,14 @@
       "onboard_time": 1698019774,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 199234,
+      "num": 199234,
+      "word": "重阳节的逆爱",
+      "onboard_time": 1698048858,
+      "rank": 31,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 194615,
@@ -1579,6 +1651,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 162845,
+      "num": 162845,
+      "word": "尚有293个国考职位无人通过资格审查",
+      "onboard_time": 1698049035,
+      "rank": 40,
+      "category": "教育"
+    },
+    {
       "raw_hot": 162198,
       "num": 162198,
       "word": "泉州震感",
@@ -1611,16 +1691,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157347,
-      "num": 157347,
-      "word": "EXO台历呢",
-      "onboard_time": 1698046302,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155207,
-      "num": 155207,
+      "num": 162776,
       "word": "杨幂15年最美表演囚笼",
       "onboard_time": 1698043241,
       "rank": 40,
@@ -1681,14 +1753,6 @@
       "onboard_time": 1697985335,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148113,
-      "num": 268607,
-      "word": "被白象的操作暖到了",
-      "onboard_time": 1698045162,
-      "rank": 46,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 147564,
@@ -1803,12 +1867,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 131864,
+      "num": 162815,
+      "word": "我们的盛会",
+      "onboard_time": 1698048387,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 131485,
       "num": 131485,
       "word": "亚当斯赛季报销",
       "onboard_time": 1698018874,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131038,
+      "num": 162808,
+      "word": "姐妹俩悄悄赶回家给爸爸过生日",
+      "onboard_time": 1698048026,
+      "rank": 44,
+      "category": "社会新闻,情感"
     },
     {
       "raw_hot": 130407,
@@ -1864,6 +1944,14 @@
       "word": "出生时仅690克的手掌宝宝健康出院啦",
       "onboard_time": 1698043966,
       "rank": 47,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 123392,
+      "num": 162751,
+      "word": "儿子寻亡父照片民警翻上百份档案帮他圆梦",
+      "onboard_time": 1698047775,
+      "rank": 48,
       "category": "社会新闻"
     },
     {
@@ -2081,6 +2169,14 @@
       "onboard_time": 1697967931,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 58344,
+      "num": 167135,
+      "word": "05后因脑洞被天猫邀请加入双11",
+      "onboard_time": 1698047080,
+      "rank": 36,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 57964,
