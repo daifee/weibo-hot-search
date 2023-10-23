@@ -1,0 +1,410 @@
+{
+  "runTime": 1698060852774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1228827,
+        "num": 1228827,
+        "word": "大发量鲨鱼夹",
+        "onboard_time": 1698052072,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 504018,
+        "num": 1131585,
+        "word": "幼儿园研学摘6千根甘蔗乐坏农场主",
+        "onboard_time": 1698056327,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 28985,
+        "num": 1052825,
+        "word": "长辈的爱值得一场双向奔赴",
+        "onboard_time": 1698030814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1464928,
+        "num": 991270,
+        "word": "教育局回应著名教师发文意淫同车女乘客",
+        "onboard_time": 1698058727,
+        "rank": 3,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 256061,
+        "num": 859705,
+        "word": "74岁儿子重阳节晒96岁老妈帮择菜",
+        "onboard_time": 1698059023,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 804989,
+        "num": 804989,
+        "word": "286斤女生坐高铁二等座引争议",
+        "onboard_time": 1698057766,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173195,
+        "num": 666433,
+        "word": "83岁硬核爷爷每周踢3场足球赛",
+        "onboard_time": 1698060042,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 654672,
+        "num": 654672,
+        "word": "这3个三角配享太庙",
+        "onboard_time": 1698051181,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 550022,
+        "num": 550022,
+        "word": "中使馆向菲方提出严正交涉",
+        "onboard_time": 1698058424,
+        "rank": 8,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 484632,
+        "num": 484632,
+        "word": "金晨的喜欢与不喜欢太明显了",
+        "onboard_time": 1698056510,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 455998,
+        "num": 455998,
+        "word": "酱园弄 杀夫案",
+        "onboard_time": 1698054108,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 452209,
+        "num": 452209,
+        "word": "华晨宇 男孩子也穿婚纱太酷了吧",
+        "onboard_time": 1698046965,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 407545,
+        "num": 407545,
+        "word": "S13瑞士轮第四轮抽签",
+        "onboard_time": 1698060583,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 395587,
+        "num": 395587,
+        "word": "100只大闸蟹做成的百蟹瀑布",
+        "onboard_time": 1698055610,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 365506,
+        "num": 365506,
+        "word": "翊彤",
+        "onboard_time": 1698057348,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 347662,
+        "num": 347662,
+        "word": "长沙街头偶遇帕梅拉",
+        "onboard_time": 1698060462,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 334507,
+        "num": 334507,
+        "word": "昏迷50多天24岁产妇遗憾离开人世",
+        "onboard_time": 1698045406,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 295587,
+        "num": 295587,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291347,
+        "num": 291347,
+        "word": "SEVENTEEN空降第一",
+        "onboard_time": 1698056807,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255480,
+        "num": 255480,
+        "word": "李彦宏称他招管培生从来不看毕业学校",
+        "onboard_time": 1698057766,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 619669,
+        "num": 253280,
+        "word": "鹿晗TFBOYS演唱会成老年人最爱",
+        "onboard_time": 1698058366,
+        "rank": 20,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 482761,
+        "num": 232269,
+        "word": "美国28岁女保姆性侵8月大女婴",
+        "onboard_time": 1698055428,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 318673,
+        "num": 229560,
+        "word": "河 你来了",
+        "onboard_time": 1698059323,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284998,
+        "num": 216983,
+        "word": "赵丽颖彝族服饰写真",
+        "onboard_time": 1698056628,
+        "rank": 23,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 204534,
+        "num": 204534,
+        "word": "难听",
+        "onboard_time": 1698054828,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 198300,
+        "num": 198300,
+        "word": "张小斐的腿好长",
+        "onboard_time": 1698054650,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196503,
+        "num": 196503,
+        "word": "小米14",
+        "onboard_time": 1698058545,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185476,
+        "num": 185476,
+        "word": "揭秘5.9元粉底液厂商",
+        "onboard_time": 1698057348,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183539,
+        "num": 183539,
+        "word": "蒲熠星谈小女孩的伤疤像香妃的蝴蝶",
+        "onboard_time": 1698053685,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175780,
+        "num": 175780,
+        "word": "A股大跌",
+        "onboard_time": 1698044744,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179417,
+        "num": 175597,
+        "word": "田耕纪 路人唯粉掰扯之种田版",
+        "onboard_time": 1698060224,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175386,
+        "num": 175386,
+        "word": "杨超越 以后不红了怎么办",
+        "onboard_time": 1698044080,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173205,
+        "num": 173205,
+        "word": "101岁老人自曝长寿要吃肉吃菜爱干活",
+        "onboard_time": 1698055250,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171553,
+        "num": 171553,
+        "word": "绘旅人三周年",
+        "onboard_time": 1698060224,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 166899,
+        "num": 166899,
+        "word": "Monster",
+        "onboard_time": 1698053211,
+        "rank": 34,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 151217,
+        "num": 151217,
+        "word": "SEVENTEEN回归新曲",
+        "onboard_time": 1698052134,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 149569,
+        "num": 149569,
+        "word": "Hybe",
+        "onboard_time": 1698053329,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147802,
+        "num": 147802,
+        "word": "支原体肺炎 尽早就诊",
+        "onboard_time": 1698060462,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 146212,
+        "num": 146212,
+        "word": "给你500万但要垫付1万5你信吗",
+        "onboard_time": 1698054530,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 138703,
+        "num": 138703,
+        "word": "你的脸型适合什么眉形",
+        "onboard_time": 1698056570,
+        "rank": 39,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134237,
+        "num": 134237,
+        "word": "你有被陌生人安慰过吗",
+        "onboard_time": 1698060404,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129431,
+        "num": 129431,
+        "word": "TL告别S13",
+        "onboard_time": 1698054108,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128367,
+        "num": 128367,
+        "word": "韩素希谈身材焦虑",
+        "onboard_time": 1698055550,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123785,
+        "num": 123785,
+        "word": "DK对战BDS",
+        "onboard_time": 1698057882,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122858,
+        "num": 122858,
+        "word": "本人此刻听Monster的状态",
+        "onboard_time": 1698059205,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 116130,
+        "num": 116130,
+        "word": "榆林发现中国首个千亿方深煤层大气田",
+        "onboard_time": 1698059681,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115895,
+        "num": 115895,
+        "word": "SOS 好听",
+        "onboard_time": 1698057108,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 108392,
+        "num": 108392,
+        "word": "金珉奎 镜头少",
+        "onboard_time": 1698055486,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106041,
+        "num": 106041,
+        "word": "纯手工麻酱土豆粉",
+        "onboard_time": 1698059205,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105262,
+        "num": 105262,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 49,
+        "category": "数码,财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}

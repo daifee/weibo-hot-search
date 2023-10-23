@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698059688786,
+  "endTime": 1698060852774,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -123,6 +123,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 1464928,
+      "num": 1130205,
+      "word": "教育局回应著名教师发文意淫同车女乘客",
+      "onboard_time": 1698058727,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 1385830,
       "num": 365435,
       "word": "吴楚一跳的是这种钢管舞吗",
@@ -155,6 +163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1228827,
+      "num": 1228827,
+      "word": "大发量鲨鱼夹",
+      "onboard_time": 1698052072,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1224525,
       "num": 1224525,
       "word": "27岁女子长期横向刷牙致牙齿缺损",
@@ -169,22 +185,6 @@
       "onboard_time": 1698020074,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1207138,
-      "num": 1207138,
-      "word": "大发量鲨鱼夹",
-      "onboard_time": 1698052072,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
-      "raw_hot": 1130205,
-      "num": 1130205,
-      "word": "教育局回应著名教师发文意淫同车女乘客",
-      "onboard_time": 1698058727,
-      "rank": 3,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 1016083,
@@ -403,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 619669,
+      "num": 253280,
+      "word": "鹿晗TFBOYS演唱会成老年人最爱",
+      "onboard_time": 1698058366,
+      "rank": 20,
+      "category": "社会新闻,艺人"
+    },
+    {
       "raw_hot": 602849,
       "num": 602849,
       "word": "李佳琦直播预告",
@@ -441,6 +449,14 @@
       "onboard_time": 1698040729,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 550022,
+      "num": 550022,
+      "word": "中使馆向菲方提出严正交涉",
+      "onboard_time": 1698058424,
+      "rank": 12,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 548479,
@@ -539,6 +555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 504018,
+      "num": 1163398,
+      "word": "幼儿园研学摘6千根甘蔗乐坏农场主",
+      "onboard_time": 1698056327,
+      "rank": 40,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 502720,
       "num": 502720,
       "word": "李佳航 别人总说我接戏乱七八糟的",
@@ -555,20 +579,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 492270,
-      "num": 251784,
-      "word": "鹿晗TFBOYS演唱会成老年人最爱",
-      "onboard_time": 1698058366,
-      "rank": 20,
-      "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 486564,
-      "num": 443187,
-      "word": "中使馆向菲方提出严正交涉",
-      "onboard_time": 1698058424,
-      "rank": 12,
-      "category": "国内要闻"
+      "raw_hot": 484632,
+      "num": 484632,
+      "word": "金晨的喜欢与不喜欢太明显了",
+      "onboard_time": 1698056510,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 474997,
@@ -619,14 +635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 455883,
-      "num": 1163398,
-      "word": "幼儿园研学摘6千根甘蔗乐坏农场主",
-      "onboard_time": 1698056327,
-      "rank": 40,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 454655,
       "num": 454655,
       "word": "翊彤",
@@ -649,14 +657,6 @@
       "onboard_time": 1698022175,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 435082,
-      "num": 435082,
-      "word": "金晨的喜欢与不喜欢太明显了",
-      "onboard_time": 1698056510,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 432188,
@@ -697,6 +697,14 @@
       "onboard_time": 1698056807,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 407545,
+      "num": 407545,
+      "word": "S13瑞士轮第四轮抽签",
+      "onboard_time": 1698060583,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 405703,
@@ -859,6 +867,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 347662,
+      "num": 347662,
+      "word": "长沙街头偶遇帕梅拉",
+      "onboard_time": 1698060462,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 346251,
       "num": 346251,
       "word": "薛之谦扔戒指",
@@ -945,6 +961,14 @@
       "onboard_time": 1698026970,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 318673,
+      "num": 229560,
+      "word": "河 你来了",
+      "onboard_time": 1698059323,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 318084,
@@ -1115,6 +1139,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 284998,
+      "num": 270023,
+      "word": "赵丽颖彝族服饰写真",
+      "onboard_time": 1698056628,
+      "rank": 23,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 282142,
       "num": 282142,
       "word": "卢昱晓成立个人工作室了",
@@ -1193,14 +1225,6 @@
       "onboard_time": 1698045462,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 270023,
-      "num": 270023,
-      "word": "赵丽颖彝族服饰写真",
-      "onboard_time": 1698056628,
-      "rank": 23,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 269081,
@@ -1779,6 +1803,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 196503,
+      "num": 196503,
+      "word": "小米14",
+      "onboard_time": 1698058545,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 194615,
       "num": 280741,
       "word": "重阳节120位老人拍全家福吃百寿宴",
@@ -1857,14 +1889,6 @@
       "onboard_time": 1698057169,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 189113,
-      "num": 189113,
-      "word": "小米14",
-      "onboard_time": 1698058545,
-      "rank": 28,
-      "category": "数码"
     },
     {
       "raw_hot": 188888,
@@ -1987,6 +2011,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 179417,
+      "num": 175597,
+      "word": "田耕纪 路人唯粉掰扯之种田版",
+      "onboard_time": 1698060224,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 177702,
       "num": 177702,
       "word": "中国选手夺杭州亚残运会首金",
@@ -2008,6 +2040,14 @@
       "word": "老奶奶与男生地铁站内切磋钢琴曲",
       "onboard_time": 1698026373,
       "rank": 34,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173195,
+      "num": 666433,
+      "word": "83岁硬核爷爷每周踢3场足球赛",
+      "onboard_time": 1698060042,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -2041,6 +2081,14 @@
       "onboard_time": 1698030395,
       "rank": 40,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171553,
+      "num": 171553,
+      "word": "绘旅人三周年",
+      "onboard_time": 1698060224,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 170961,
@@ -2131,14 +2179,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158271,
-      "num": 158271,
-      "word": "河 你来了",
-      "onboard_time": 1698059323,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 155207,
       "num": 211096,
       "word": "杨幂15年最美表演囚笼",
@@ -2225,6 +2265,14 @@
       "onboard_time": 1697985335,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 147802,
+      "num": 147802,
+      "word": "支原体肺炎 尽早就诊",
+      "onboard_time": 1698060462,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147564,
@@ -2387,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 134237,
+      "num": 134237,
+      "word": "你有被陌生人安慰过吗",
+      "onboard_time": 1698060404,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 132979,
       "num": 211090,
       "word": "姐妹俩悄悄赶回家给爸爸过生日",
@@ -2507,6 +2563,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123785,
+      "num": 123785,
+      "word": "DK对战BDS",
+      "onboard_time": 1698057882,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123728,
       "num": 123728,
       "word": "万圣节黑女巫",
@@ -2579,6 +2643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 116130,
+      "num": 116130,
+      "word": "榆林发现中国首个千亿方深煤层大气田",
+      "onboard_time": 1698059681,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 115085,
       "num": 115085,
       "word": "奶润绒雾感底妆",
@@ -2616,14 +2688,6 @@
       "word": "TheShy 来还债的",
       "onboard_time": 1697973391,
       "rank": 34,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 109866,
-      "num": 109866,
-      "word": "DK对战BDS",
-      "onboard_time": 1698057882,
-      "rank": 46,
       "category": "电竞"
     },
     {

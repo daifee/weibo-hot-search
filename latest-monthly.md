@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 19:14:48
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 19:34:12
 </p>
 </blockquote>
 <p>
@@ -2997,6 +2997,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%91%97%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91%E6%96%87%E6%84%8F%E6%B7%AB%E5%90%8C%E8%BD%A6%E5%A5%B3%E4%B9%98%E5%AE%A2%23" target="weibo">
+教育局回应著名教师发文意淫同车女乘客（热度：1464928）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Taylor%20Swift%20The%20Eras%20Tour%E6%9C%89%E6%9C%9B%E5%BC%95%E8%BF%9B%23" target="weibo">
 Taylor Swift The Eras Tour有望引进（热度：1463944）
 </a>
@@ -3915,6 +3921,12 @@ KT战胜WBG（热度：1279678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9%23" target="weibo">
+大发量鲨鱼夹（热度：1228827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%E8%AF%B4%E8%BD%A6%E5%81%9C%E4%B8%8D%E5%A5%BD%E5%B0%B1%E6%8A%8A%E8%B7%AF%E5%A0%B5%E4%B8%8A%23" target="weibo">
 乔欣说车停不好就把路堵上（热度：1228725）
 </a>
@@ -4025,12 +4037,6 @@ KT战胜WBG（热度：1279678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AF%E6%B4%81%E4%B8%A4%E6%9E%9A%E9%93%B6%E7%89%8C%23" target="weibo">
 柯洁两枚银牌（热度：1208002）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9%23" target="weibo">
-大发量鲨鱼夹（热度：1207138）
 </a>
 </li>
 
@@ -4325,12 +4331,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%8B%E6%9C%AF%E7%BA%BF%E4%BC%9A%E6%B6%88%E5%A4%B1%E4%BA%86%23" target="weibo">
 终于知道为什么手术线会消失了（热度：1130964）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E8%91%97%E5%90%8D%E6%95%99%E5%B8%88%E5%8F%91%E6%96%87%E6%84%8F%E6%B7%AB%E5%90%8C%E8%BD%A6%E5%A5%B3%E4%B9%98%E5%AE%A2%23" target="weibo">
-教育局回应著名教师发文意淫同车女乘客（热度：1130205）
 </a>
 </li>
 
