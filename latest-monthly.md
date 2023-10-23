@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 20:33:58
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 20:50:12
 </p>
 </blockquote>
 <p>
@@ -3501,6 +3501,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9%23" target="weibo">
+大发量鲨鱼夹（热度：1334697）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%8B%97%E5%92%AC%E5%A5%B3%E7%AB%A5%E5%AE%B6%E5%B1%9E%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%8C%BB%E8%8D%AF%E8%B4%B91%E4%B8%87%E5%B7%A6%E5%8F%B3%23" target="weibo">
 被狗咬女童家属称每天医药费1万左右（热度：1333582）
 </a>
@@ -3917,12 +3923,6 @@ KT战胜WBG（热度：1279678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%AB%A5%E7%88%B6%E6%AF%8D%E7%A7%B0200%E4%B8%87%E7%AD%B9%E6%AC%BE%E5%B0%86%E5%85%A8%E7%94%A8%E4%BA%8E%E5%AD%A9%E5%AD%90%E6%B2%BB%E7%96%97%23" target="weibo">
 女童父母称200万筹款将全用于孩子治疗（热度：1230405）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%8F%91%E9%87%8F%E9%B2%A8%E9%B1%BC%E5%A4%B9%23" target="weibo">
-大发量鲨鱼夹（热度：1228827）
 </a>
 </li>
 
