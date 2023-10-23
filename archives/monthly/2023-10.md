@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 14:37:12
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 15:16:25
 </p>
 </blockquote>
 <p>
@@ -2867,6 +2867,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E7%BE%BD%E5%A5%B3%E5%9B%A2%E4%BA%9A%E8%BF%90%E9%93%B6%E7%89%8C%23" target="weibo">
 国羽女团亚运银牌（热度：1496798）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E9%BC%A0%E5%A4%B4%E9%B8%AD%E8%84%96%E7%AD%89%E4%BA%8B%E4%BB%B6%E4%B8%A4%E5%9C%B0%E6%94%BF%E5%BA%9C%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E7%BA%A6%E8%B0%88%23" target="weibo">
+因鼠头鸭脖等事件两地政府负责人被约谈（热度：1494919）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%A5%BD%E5%83%8F%E6%9C%89%E4%B8%80%E5%A5%97%E7%8B%AC%E7%AB%8B%E7%9A%84%E8%AE%A1%E8%B4%B9%E7%B3%BB%E7%BB%9F%23" target="weibo">
 麻辣烫好像有一套独立的计费系统（热度：881722）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%A5%E9%9E%8B%E6%94%BE%E9%85%92%E5%BA%97%E8%B5%B0%E5%BB%8A%E4%B8%80%E5%A4%9C%E5%8F%98%E5%B9%B2%E5%87%80%23" target="weibo">
-女子泥鞋放酒店走廊一夜变干净（热度：881302）
 </a>
 </li>
 

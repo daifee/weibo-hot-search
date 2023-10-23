@@ -1,0 +1,410 @@
+{
+  "runTime": 1698045385222,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1494919,
+        "num": 1494919,
+        "word": "因鼠头鸭脖等事件两地政府负责人被约谈",
+        "onboard_time": 1698042040,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 616609,
+        "num": 616609,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28514,
+        "num": 608628,
+        "word": "比亚残运会赛事更昂扬的是人生",
+        "onboard_time": 1698031473,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 974105,
+        "num": 608574,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 608405,
+        "num": 608405,
+        "word": "5.9一瓶的粉底液",
+        "onboard_time": 1698043966,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 535455,
+        "num": 535455,
+        "word": "青岛啤酒事件涉事人员均为外用工",
+        "onboard_time": 1698042528,
+        "rank": 5,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 502720,
+        "num": 502720,
+        "word": "李佳航 别人总说我接戏乱七八糟的",
+        "onboard_time": 1698043127,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 447657,
+        "num": 447657,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 7,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 420016,
+        "num": 420016,
+        "word": "FIFTYFIFTY解散",
+        "onboard_time": 1698042881,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376079,
+        "num": 376079,
+        "word": "喝下可乐后人体会发生什么变化",
+        "onboard_time": 1698037846,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 471287,
+        "num": 372224,
+        "word": "买1.6万黄金1小时后换款缩水5600",
+        "onboard_time": 1698042163,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 448196,
+        "num": 368876,
+        "word": "A股",
+        "onboard_time": 1698025353,
+        "rank": 11,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 419742,
+        "num": 367700,
+        "word": "A股大跌",
+        "onboard_time": 1698044744,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 349617,
+        "num": 349617,
+        "word": "官方将通报青岛啤酒小便事件",
+        "onboard_time": 1698040729,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333106,
+        "num": 333106,
+        "word": "外资流出不是A股下跌的关键原因",
+        "onboard_time": 1698041144,
+        "rank": 14,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 295112,
+        "num": 295112,
+        "word": "中国B级片的未来",
+        "onboard_time": 1698043183,
+        "rank": 15,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 263725,
+        "num": 263725,
+        "word": "同济大学寝室四人全员直博",
+        "onboard_time": 1698042643,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 257382,
+        "num": 257382,
+        "word": "青岛啤酒",
+        "onboard_time": 1698043724,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250938,
+        "num": 250938,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 245769,
+        "num": 245769,
+        "word": "何炅看黄明昊林一跳舞的表情",
+        "onboard_time": 1698038926,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 452849,
+        "num": 245478,
+        "word": "杨超越 以后不红了怎么办",
+        "onboard_time": 1698044080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351336,
+        "num": 244170,
+        "word": "原来小县城工资也很高",
+        "onboard_time": 1698041024,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 346393,
+        "num": 242972,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 240688,
+        "num": 240688,
+        "word": "民警和校长当全校师生面给6岁女孩颁奖",
+        "onboard_time": 1698044564,
+        "rank": 23,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 234245,
+        "num": 234245,
+        "word": "19岁儿子将妈妈所存50余万转给女友",
+        "onboard_time": 1698039282,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 227557,
+        "num": 227557,
+        "word": "肖战美拉德风衣",
+        "onboard_time": 1698038082,
+        "rank": 25,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 225284,
+        "num": 225284,
+        "word": "可可西里的网红狼开始带新人了",
+        "onboard_time": 1698037549,
+        "rank": 26,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 214027,
+        "num": 214027,
+        "word": "烟花猫眼美甲",
+        "onboard_time": 1698044864,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 207422,
+        "num": 207422,
+        "word": "迪丽热巴动人玫瑰",
+        "onboard_time": 1698041144,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205761,
+        "num": 205761,
+        "word": "杨幂 有效客串",
+        "onboard_time": 1698037188,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196566,
+        "num": 196566,
+        "word": "易烊千玺的狗啃式刘海",
+        "onboard_time": 1698033876,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 192743,
+        "num": 192743,
+        "word": "秦霄贤说王鹤棣老狠了",
+        "onboard_time": 1698043001,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185638,
+        "num": 185638,
+        "word": "青海唐古拉地区发生4.7级地震",
+        "onboard_time": 1698043660,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 180222,
+        "num": 180222,
+        "word": "福岛核污染水第二轮排海完成",
+        "onboard_time": 1698038144,
+        "rank": 33,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 177989,
+        "num": 177989,
+        "word": "大学生体测现201314",
+        "onboard_time": 1698042105,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 174383,
+        "num": 174383,
+        "word": "彩妆双胞胎",
+        "onboard_time": 1698041621,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171098,
+        "num": 171098,
+        "word": "30天真实亲测打卡早C晚A",
+        "onboard_time": 1698044927,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 169397,
+        "num": 169397,
+        "word": "为什么有人的耳屎是香的",
+        "onboard_time": 1698039039,
+        "rank": 37,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 161432,
+        "num": 161432,
+        "word": "拉面到底能拉多细",
+        "onboard_time": 1698045340,
+        "rank": 38,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157037,
+        "num": 157037,
+        "word": "马嘉祺 公主请下车",
+        "onboard_time": 1698041381,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155207,
+        "num": 155207,
+        "word": "杨幂15年最美表演囚笼",
+        "onboard_time": 1698043241,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149431,
+        "num": 149431,
+        "word": "李善均被立案调查",
+        "onboard_time": 1698043362,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144122,
+        "num": 144122,
+        "word": "在外婆家的田野间分享香水",
+        "onboard_time": 1698044564,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139704,
+        "num": 139704,
+        "word": "姚贝娜父亲出席李玟纪念展",
+        "onboard_time": 1698033214,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135249,
+        "num": 135249,
+        "word": "沪指跌破3000点后抄底还是止损",
+        "onboard_time": 1698045281,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127939,
+        "num": 127939,
+        "word": "张晚意王楚然柳舟记官宣",
+        "onboard_time": 1698030992,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114241,
+        "num": 125150,
+        "word": "被白象的操作暖到了",
+        "onboard_time": 1698045162,
+        "rank": 46,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 124490,
+        "num": 124490,
+        "word": "出生时仅690克的手掌宝宝健康出院啦",
+        "onboard_time": 1698043966,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120749,
+        "num": 120749,
+        "word": "aespa台历照",
+        "onboard_time": 1698045340,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 120696,
+        "num": 120696,
+        "word": "MINNIE和HANNI唱Remember Me",
+        "onboard_time": 1698045281,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}
