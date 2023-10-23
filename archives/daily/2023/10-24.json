@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698096837093,
+  "endTime": 1698099376264,
   "band_list": [
     {
       "raw_hot": 1379176,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 382416,
-      "num": 171813,
+      "num": 363840,
       "word": "女子举报嫂子身为公职人员婚内出轨生子",
       "onboard_time": 1698082160,
       "rank": 30,
@@ -235,6 +235,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 142941,
+      "num": 171617,
+      "word": "肖战深情演绎夜空中最亮的星",
+      "onboard_time": 1698083417,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141043,
       "num": 170924,
       "word": "被保姆抚养16年的孩子长大照顾保姆",
@@ -297,14 +305,6 @@
       "onboard_time": 1698069103,
       "rank": 35,
       "category": "其它"
-    },
-    {
-      "raw_hot": 115990,
-      "num": 171617,
-      "word": "肖战深情演绎夜空中最亮的星",
-      "onboard_time": 1698083417,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 109365,
@@ -443,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 51181,
+      "num": 170155,
+      "word": "熊猫幼崽被摸头后的眼神",
+      "onboard_time": 1698095354,
+      "rank": 42,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 48651,
       "num": 54981,
       "word": "王子浩和黄仁俊钟辰乐跳challenge",
@@ -459,12 +467,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 21601,
-      "num": 170155,
-      "word": "熊猫幼崽被摸头后的眼神",
-      "onboard_time": 1698095354,
-      "rank": 42,
-      "category": "动物萌宠"
+      "raw_hot": 37497,
+      "num": 166961,
+      "word": "新疆出现一半秋天一半冬天场景",
+      "onboard_time": 1698096252,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 20278,
+      "num": 169398,
+      "word": "朝阳打歌中心",
+      "onboard_time": 1698093914,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 19709,
@@ -473,14 +489,6 @@
       "onboard_time": 1698064359,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18963,
-      "num": 169398,
-      "word": "朝阳打歌中心",
-      "onboard_time": 1698093914,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 17202,
@@ -497,14 +505,6 @@
       "onboard_time": 1698088754,
       "rank": 49,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 11180,
-      "num": 166961,
-      "word": "新疆出现一半秋天一半冬天场景",
-      "onboard_time": 1698096252,
-      "rank": 49,
-      "category": "社会新闻,旅游"
     }
   ],
   "hotgov_list": [
