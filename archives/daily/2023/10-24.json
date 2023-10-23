@@ -1,13 +1,21 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698100448321,
+  "endTime": 1698103059394,
   "band_list": [
     {
-      "raw_hot": 1379176,
-      "num": 1379176,
+      "raw_hot": 1829298,
+      "num": 1829298,
       "word": "超千名网友向被狗咬伤女童申请退款",
       "onboard_time": 1698076508,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1414955,
+      "num": 1414955,
+      "word": "女子举报嫂子身为公职人员婚内出轨生子",
+      "onboard_time": 1698082160,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -24,14 +32,6 @@
       "word": "700万动迁款分给4名子女后无人赡养",
       "onboard_time": 1698073902,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 557621,
-      "num": 557621,
-      "word": "女子举报嫂子身为公职人员婚内出轨生子",
-      "onboard_time": 1698082160,
-      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -59,6 +59,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 352797,
+      "num": 352797,
+      "word": "肖战深情演绎夜空中最亮的星",
+      "onboard_time": 1698083417,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344816,
       "num": 344816,
       "word": "老舅居然是哈圈隐藏真学霸",
@@ -67,20 +75,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 343864,
+      "num": 343864,
+      "word": "286斤女生坐高铁二等座引争议",
+      "onboard_time": 1698057766,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 343560,
       "num": 343560,
       "word": "凤凰传奇现场 早读都没这么整齐过",
       "onboard_time": 1698071442,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 307176,
-      "num": 307176,
-      "word": "286斤女生坐高铁二等座引争议",
-      "onboard_time": 1698057766,
-      "rank": 8,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 299035,
@@ -96,6 +104,14 @@
       "word": "女子全勤工作1个月发257元工资",
       "onboard_time": 1698070423,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 254553,
+      "num": 254553,
+      "word": "男子殴打妻子致死被判死缓",
+      "onboard_time": 1698090134,
+      "rank": 10,
       "category": "社会新闻"
     },
     {
@@ -115,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 246313,
+      "num": 246313,
+      "word": "霜降",
+      "onboard_time": 1698102387,
+      "rank": 8,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 244094,
       "num": 186780,
       "word": "美国28岁女保姆性侵8月大女婴",
@@ -129,14 +153,6 @@
       "onboard_time": 1698069164,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 216050,
-      "num": 216050,
-      "word": "肖战深情演绎夜空中最亮的星",
-      "onboard_time": 1698083417,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 215279,
@@ -160,6 +176,14 @@
       "word": "深圳机场已恢复正常",
       "onboard_time": 1698073902,
       "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195153,
+      "num": 195153,
+      "word": "被保姆抚养16年的孩子长大照顾保姆",
+      "onboard_time": 1698062199,
+      "rank": 28,
       "category": "社会新闻"
     },
     {
@@ -219,6 +243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 150109,
+      "num": 169863,
+      "word": "被共享单车整理员的薪资震惊到",
+      "onboard_time": 1698065812,
+      "rank": 43,
+      "category": "其它"
+    },
+    {
       "raw_hot": 150094,
       "num": 167101,
       "word": "费翔自拍",
@@ -235,20 +267,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 148753,
+      "num": 148753,
+      "word": "胡锡进",
+      "onboard_time": 1698101967,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 145531,
       "num": 168966,
       "word": "A股的问题是投资者普遍赚不到钱",
       "onboard_time": 1698075217,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 141043,
-      "num": 170924,
-      "word": "被保姆抚养16年的孩子长大照顾保姆",
-      "onboard_time": 1698062199,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 140194,
@@ -299,6 +331,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 126621,
+      "num": 166961,
+      "word": "新疆出现一半秋天一半冬天场景",
+      "onboard_time": 1698096252,
+      "rank": 49,
+      "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 121508,
+      "num": 121508,
+      "word": "秋季最后一个节气",
+      "onboard_time": 1698102568,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121037,
       "num": 170346,
       "word": "被老祖宗的审美惊艳到了",
@@ -307,12 +355,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 117157,
-      "num": 171608,
-      "word": "男子殴打妻子致死被判死缓",
-      "onboard_time": 1698090134,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 119805,
+      "num": 170155,
+      "word": "熊猫幼崽被摸头后的眼神",
+      "onboard_time": 1698095354,
+      "rank": 42,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 109365,
@@ -339,14 +387,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 103938,
-      "num": 169863,
-      "word": "被共享单车整理员的薪资震惊到",
-      "onboard_time": 1698065812,
-      "rank": 43,
-      "category": "其它"
-    },
-    {
       "raw_hot": 103523,
       "num": 169472,
       "word": "支原体肺炎 尽早就诊",
@@ -368,6 +408,14 @@
       "word": "问心",
       "onboard_time": 1698072827,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90244,
+      "num": 168591,
+      "word": "曾舜晞的手",
+      "onboard_time": 1698081201,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -393,14 +441,6 @@
       "onboard_time": 1698058545,
       "rank": 46,
       "category": "数码"
-    },
-    {
-      "raw_hot": 79998,
-      "num": 168591,
-      "word": "曾舜晞的手",
-      "onboard_time": 1698081201,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 79872,
@@ -443,20 +483,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 70887,
-      "num": 170155,
-      "word": "熊猫幼崽被摸头后的眼神",
-      "onboard_time": 1698095354,
-      "rank": 42,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 54911,
-      "num": 166961,
-      "word": "新疆出现一半秋天一半冬天场景",
-      "onboard_time": 1698096252,
-      "rank": 49,
-      "category": "社会新闻,旅游"
+      "raw_hot": 67682,
+      "num": 67682,
+      "word": "以色列巴勒斯坦冲突",
+      "onboard_time": 1698102868,
+      "rank": 37,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 48651,
@@ -465,6 +497,14 @@
       "onboard_time": 1698081021,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 46003,
+      "num": 58637,
+      "word": "环卫大爷为圆梦零基础学芭蕾",
+      "onboard_time": 1698102145,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 40220,
