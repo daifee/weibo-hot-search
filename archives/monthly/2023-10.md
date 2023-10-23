@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 21:21:50
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 21:33:54
 </p>
 </blockquote>
 <p>
@@ -3747,6 +3747,12 @@ KT战胜WBG（热度：1279678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%B4%87%E5%B7%9E%E8%A2%AB%E7%8B%97%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E5%B7%B2%E8%BD%AC%E5%87%BAICU%23" target="weibo">
+成都崇州被狗咬伤女童已转出ICU（热度：1278506）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%BA%B7%E8%BE%89%E5%8E%BB%E5%B9%B4%E5%B0%B1%E5%82%AC%E8%BF%87%E4%BA%86%23" target="weibo">
 原来康辉去年就催过了（热度：1275526）
 </a>
@@ -6005,12 +6011,6 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%92%B8%E9%98%B3%23" target="weibo">
 林俊杰咸阳（热度：890359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Jennie%E9%87%91%E6%99%BA%E7%A7%80%E6%9C%B4%E5%BD%A9%E8%8B%B1G%E7%A4%BE%E7%94%9F%E5%9B%BE%23" target="weibo">
-Jennie金智秀朴彩英G社生图（热度：889757）
 </a>
 </li>
 
