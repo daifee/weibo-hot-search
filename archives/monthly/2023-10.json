@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698081263713,
+  "endTime": 1698082461528,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -62227,6 +62227,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 79998,
+      "num": 74284,
+      "word": "曾舜晞的手",
+      "onboard_time": 1698081201,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79785,
       "num": 208608,
       "word": "HPV和HPV疫苗的相关科普",
@@ -62385,6 +62393,14 @@
       "onboard_time": 1696288763,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76468,
+      "num": 76468,
+      "word": "和老师当同事是什么体验",
+      "onboard_time": 1698082160,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 76452,
@@ -63491,6 +63507,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 53623,
+      "num": 53623,
+      "word": "女子举报嫂子身为公职人员婚内出轨生子",
+      "onboard_time": 1698082160,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 53579,
       "num": 205587,
       "word": "劳模张之臻",
@@ -63731,6 +63755,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 48651,
+      "num": 51731,
+      "word": "王子浩和黄仁俊钟辰乐跳challenge",
+      "onboard_time": 1698081021,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 48480,
       "num": 48480,
       "word": "林一把刘浩存提着走",
@@ -63817,14 +63849,6 @@
       "onboard_time": 1697966130,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 47125,
-      "num": 51731,
-      "word": "王子浩和黄仁俊钟辰乐跳challenge",
-      "onboard_time": 1698081021,
-      "rank": 43,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 47041,
@@ -64073,14 +64097,6 @@
       "onboard_time": 1696531219,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 39722,
-      "num": 51645,
-      "word": "曾舜晞的手",
-      "onboard_time": 1698081201,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 39675,

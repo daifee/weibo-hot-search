@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698081263713,
+  "endTime": 1698082461528,
   "band_list": [
     {
       "raw_hot": 1379176,
@@ -371,6 +371,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79998,
+      "num": 74284,
+      "word": "曾舜晞的手",
+      "onboard_time": 1698081201,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 79872,
       "num": 79872,
       "word": "花儿与少年丝路季综述预告",
@@ -385,6 +393,14 @@
       "onboard_time": 1698067302,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 76468,
+      "num": 76468,
+      "word": "和老师当同事是什么体验",
+      "onboard_time": 1698082160,
+      "rank": 19,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 74283,
@@ -403,7 +419,15 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 47125,
+      "raw_hot": 53623,
+      "num": 53623,
+      "word": "女子举报嫂子身为公职人员婚内出轨生子",
+      "onboard_time": 1698082160,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 48651,
       "num": 51731,
       "word": "王子浩和黄仁俊钟辰乐跳challenge",
       "onboard_time": 1698081021,
@@ -417,14 +441,6 @@
       "onboard_time": 1698079765,
       "rank": 48,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 39722,
-      "num": 51645,
-      "word": "曾舜晞的手",
-      "onboard_time": 1698081201,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 19709,
