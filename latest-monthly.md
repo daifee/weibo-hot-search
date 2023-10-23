@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 15:16:25
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/23 15:34:00
 </p>
 </blockquote>
 <p>
@@ -5487,6 +5487,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%235.9%E4%B8%80%E7%93%B6%E7%9A%84%E7%B2%89%E5%BA%95%E6%B6%B2%23" target="weibo">
+5.9一瓶的粉底液（热度：953676）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%9C%9F%E4%B8%8D%E8%83%BD%E5%81%9A%E7%9A%846%E4%BB%B6%E4%BA%8B%23" target="weibo">
 经期不能做的6件事（热度：952951）
 </a>
@@ -6005,12 +6011,6 @@ Jennie金智秀朴彩英G社生图（热度：889757）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%9B%A2%E5%85%BB%E7%8C%AA%23" target="weibo">
 女团养猪（热度：881878）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%A5%BD%E5%83%8F%E6%9C%89%E4%B8%80%E5%A5%97%E7%8B%AC%E7%AB%8B%E7%9A%84%E8%AE%A1%E8%B4%B9%E7%B3%BB%E7%BB%9F%23" target="weibo">
-麻辣烫好像有一套独立的计费系统（热度：881722）
 </a>
 </li>
 

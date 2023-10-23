@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698045385222,
+  "endTime": 1698046440565,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 1344292,
-      "num": 681543,
+      "num": 786426,
       "word": "给内娱一点小震撼",
       "onboard_time": 1698038383,
       "rank": 3,
@@ -153,6 +153,14 @@
       "onboard_time": 1698024211,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 953676,
+      "num": 953676,
+      "word": "5.9一瓶的粉底液",
+      "onboard_time": 1698043966,
+      "rank": 4,
+      "category": "美妆"
     },
     {
       "raw_hot": 927895,
@@ -235,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770869,
+      "num": 367700,
+      "word": "A股大跌",
+      "onboard_time": 1698044744,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 750128,
       "num": 305162,
       "word": "本周狗屎运最旺的星座",
@@ -291,14 +307,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 608405,
-      "num": 608405,
-      "word": "5.9一瓶的粉底液",
-      "onboard_time": 1698043966,
-      "rank": 4,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 602849,
       "num": 602849,
       "word": "李佳琦直播预告",
@@ -321,6 +329,14 @@
       "onboard_time": 1698037668,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 569473,
+      "num": 261065,
+      "word": "杨超越 以后不红了怎么办",
+      "onboard_time": 1698044080,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 550138,
@@ -371,6 +387,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 525719,
+      "num": 320326,
+      "word": "昏迷50多天24岁产妇遗憾离开人世",
+      "onboard_time": 1698045406,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 516248,
       "num": 516248,
       "word": "杨紫白色露背裙",
@@ -396,7 +420,7 @@
     },
     {
       "raw_hot": 508358,
-      "num": 244170,
+      "num": 254984,
       "word": "原来小县城工资也很高",
       "onboard_time": 1698041024,
       "rank": 20,
@@ -436,7 +460,7 @@
     },
     {
       "raw_hot": 471287,
-      "num": 372224,
+      "num": 467624,
       "word": "买1.6万黄金1小时后换款缩水5600",
       "onboard_time": 1698042163,
       "rank": 30,
@@ -465,14 +489,6 @@
       "onboard_time": 1697987497,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 452849,
-      "num": 245478,
-      "word": "杨超越 以后不红了怎么办",
-      "onboard_time": 1698044080,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 444949,
@@ -513,14 +529,6 @@
       "onboard_time": 1698042881,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 419742,
-      "num": 367700,
-      "word": "A股大跌",
-      "onboard_time": 1698044744,
-      "rank": 12,
-      "category": "财经"
     },
     {
       "raw_hot": 400550,
@@ -739,6 +747,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 307950,
+      "num": 307950,
+      "word": "烟花猫眼美甲",
+      "onboard_time": 1698044864,
+      "rank": 27,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 305815,
+      "num": 305815,
+      "word": "为什么袋装薯片比罐装好吃",
+      "onboard_time": 1698045703,
+      "rank": 13,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 305656,
       "num": 305656,
       "word": "新裤子官宣巡演首站广州",
@@ -771,8 +795,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 295112,
-      "num": 295112,
+      "raw_hot": 295284,
+      "num": 295284,
       "word": "中国B级片的未来",
       "onboard_time": 1698043183,
       "rank": 15,
@@ -851,6 +875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 275367,
+      "num": 275367,
+      "word": "青岛啤酒",
+      "onboard_time": 1698043724,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 274090,
       "num": 274090,
       "word": "新裤子 开蹦",
@@ -867,12 +899,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270514,
+      "num": 270514,
+      "word": "基金",
+      "onboard_time": 1698045462,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 269081,
       "num": 269081,
       "word": "李一桐温柔甜妹妆",
       "onboard_time": 1698026851,
       "rank": 17,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 268784,
+      "num": 268784,
+      "word": "中国股市必须守住",
+      "onboard_time": 1698046126,
+      "rank": 19,
+      "category": "财经"
     },
     {
       "raw_hot": 263725,
@@ -907,20 +955,20 @@
       "category": "情感"
     },
     {
-      "raw_hot": 257382,
-      "num": 257382,
-      "word": "青岛啤酒",
-      "onboard_time": 1698043724,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 254187,
       "num": 254187,
       "word": "新晋雨果奖得主原来是金融人",
       "onboard_time": 1698033518,
       "rank": 35,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 254042,
+      "num": 254042,
+      "word": "还珠格格台词原来这么离谱",
+      "onboard_time": 1698045880,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 252161,
@@ -1099,6 +1147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225668,
+      "num": 225668,
+      "word": "语雀bug",
+      "onboard_time": 1698045582,
+      "rank": 29,
+      "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 224493,
+      "num": 224493,
+      "word": "aespa台历照",
+      "onboard_time": 1698045340,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 221742,
       "num": 178532,
       "word": "大学生体测现201314",
@@ -1147,12 +1211,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 217162,
+      "num": 217162,
+      "word": "迪丽热巴佩列沙茨大桥海报",
+      "onboard_time": 1698045525,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 216790,
       "num": 216790,
       "word": "Xiaohu伏地魔",
       "onboard_time": 1697976813,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 216541,
+      "num": 216541,
+      "word": "茉酸奶 求生欲",
+      "onboard_time": 1698046184,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 215366,
@@ -1169,14 +1249,6 @@
       "onboard_time": 1698030332,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 214027,
-      "num": 214027,
-      "word": "烟花猫眼美甲",
-      "onboard_time": 1698044864,
-      "rank": 27,
-      "category": "美妆"
     },
     {
       "raw_hot": 212307,
@@ -1201,6 +1273,14 @@
       "onboard_time": 1698023914,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 207693,
+      "num": 207693,
+      "word": "30天真实亲测打卡早C晚A",
+      "onboard_time": 1698044927,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 204048,
@@ -1299,6 +1379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192015,
+      "num": 192015,
+      "word": "方圆脸本命瘦脸操",
+      "onboard_time": 1698045942,
+      "rank": 38,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 191319,
       "num": 191319,
       "word": "白桃星座",
@@ -1379,6 +1467,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 180941,
+      "num": 180941,
+      "word": "MINNIE和HANNI唱Remember Me",
+      "onboard_time": 1698045281,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180022,
       "num": 180022,
       "word": "厦门震感",
@@ -1441,14 +1537,6 @@
       "onboard_time": 1698030395,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 171098,
-      "num": 171098,
-      "word": "30天真实亲测打卡早C晚A",
-      "onboard_time": 1698044927,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 170961,
@@ -1523,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157347,
+      "num": 157347,
+      "word": "EXO台历呢",
+      "onboard_time": 1698046302,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155207,
       "num": 155207,
       "word": "杨幂15年最美表演囚笼",
@@ -1587,6 +1683,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148113,
+      "num": 268607,
+      "word": "被白象的操作暖到了",
+      "onboard_time": 1698045162,
+      "rank": 46,
+      "category": "社会新闻,幽默"
+    },
+    {
       "raw_hot": 147564,
       "num": 147564,
       "word": "许光汉这张图让我更睡不着了",
@@ -1609,6 +1713,14 @@
       "onboard_time": 1698044564,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 142983,
+      "num": 142983,
+      "word": "沪指跌破3000点后抄底还是止损",
+      "onboard_time": 1698045281,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 142345,
@@ -1659,14 +1771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135249,
-      "num": 135249,
-      "word": "沪指跌破3000点后抄底还是止损",
-      "onboard_time": 1698045281,
-      "rank": 44,
-      "category": "财经"
-    },
-    {
       "raw_hot": 135112,
       "num": 135112,
       "word": "朱婷14分",
@@ -1692,7 +1796,7 @@
     },
     {
       "raw_hot": 132975,
-      "num": 673761,
+      "num": 842043,
       "word": "长辈的爱值得一场双向奔赴",
       "onboard_time": 1698030814,
       "rank": 2,
@@ -1779,22 +1883,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120749,
-      "num": 120749,
-      "word": "aespa台历照",
-      "onboard_time": 1698045340,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 120696,
-      "num": 120696,
-      "word": "MINNIE和HANNI唱Remember Me",
-      "onboard_time": 1698045281,
-      "rank": 49,
-      "category": "演出"
-    },
-    {
       "raw_hot": 119793,
       "num": 119793,
       "word": "鸿海集团回应富士康被查",
@@ -1817,14 +1905,6 @@
       "onboard_time": 1698042163,
       "rank": 48,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 114241,
-      "num": 125150,
-      "word": "被白象的操作暖到了",
-      "onboard_time": 1698045162,
-      "rank": 46,
-      "category": "社会新闻,幽默"
     },
     {
       "raw_hot": 113427,

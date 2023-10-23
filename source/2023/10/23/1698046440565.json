@@ -1,0 +1,410 @@
+{
+  "runTime": 1698046440565,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1172314,
+        "num": 1172314,
+        "word": "因鼠头鸭脖等事件两地政府负责人被约谈",
+        "onboard_time": 1698042040,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 953676,
+        "num": 953676,
+        "word": "5.9一瓶的粉底液",
+        "onboard_time": 1698043966,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 20589,
+        "num": 842043,
+        "word": "长辈的爱值得一场双向奔赴",
+        "onboard_time": 1698030814,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 786426,
+        "num": 786426,
+        "word": "给内娱一点小震撼",
+        "onboard_time": 1698038383,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 482181,
+        "num": 482181,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 467624,
+        "num": 467624,
+        "word": "买1.6万黄金1小时后换款缩水5600",
+        "onboard_time": 1698042163,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446922,
+        "num": 446922,
+        "word": "李佳航 别人总说我接戏乱七八糟的",
+        "onboard_time": 1698043127,
+        "rank": 6,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 431901,
+        "num": 431901,
+        "word": "青岛啤酒事件涉事人员均为外用工",
+        "onboard_time": 1698042528,
+        "rank": 7,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 386057,
+        "num": 386057,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 8,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 347864,
+        "num": 347864,
+        "word": "FIFTYFIFTY解散",
+        "onboard_time": 1698042881,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 770869,
+        "num": 329981,
+        "word": "A股大跌",
+        "onboard_time": 1698044744,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 525719,
+        "num": 320326,
+        "word": "昏迷50多天24岁产妇遗憾离开人世",
+        "onboard_time": 1698045406,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 307950,
+        "num": 307950,
+        "word": "烟花猫眼美甲",
+        "onboard_time": 1698044864,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 305815,
+        "num": 305815,
+        "word": "为什么袋装薯片比罐装好吃",
+        "onboard_time": 1698045703,
+        "rank": 13,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 295284,
+        "num": 295284,
+        "word": "中国B级片的未来",
+        "onboard_time": 1698043183,
+        "rank": 14,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 290270,
+        "num": 290270,
+        "word": "喝下可乐后人体会发生什么变化",
+        "onboard_time": 1698037846,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275367,
+        "num": 275367,
+        "word": "青岛啤酒",
+        "onboard_time": 1698043724,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270627,
+        "num": 270627,
+        "word": "A股",
+        "onboard_time": 1698025353,
+        "rank": 17,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270514,
+        "num": 270514,
+        "word": "基金",
+        "onboard_time": 1698045462,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268784,
+        "num": 268784,
+        "word": "中国股市必须守住",
+        "onboard_time": 1698046126,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 148113,
+        "num": 268607,
+        "word": "被白象的操作暖到了",
+        "onboard_time": 1698045162,
+        "rank": 20,
+        "category": "社会新闻,幽默"
+      },
+      {
+        "raw_hot": 27276,
+        "num": 265213,
+        "word": "比亚残运会赛事更昂扬的是人生",
+        "onboard_time": 1698031473,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 569473,
+        "num": 261065,
+        "word": "杨超越 以后不红了怎么办",
+        "onboard_time": 1698044080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354990,
+        "num": 259632,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310085,
+        "num": 254984,
+        "word": "原来小县城工资也很高",
+        "onboard_time": 1698041024,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 254042,
+        "num": 254042,
+        "word": "还珠格格台词原来这么离谱",
+        "onboard_time": 1698045880,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234301,
+        "num": 234301,
+        "word": "官方将通报青岛啤酒小便事件",
+        "onboard_time": 1698040729,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232529,
+        "num": 232529,
+        "word": "外资流出不是A股下跌的关键原因",
+        "onboard_time": 1698041144,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230602,
+        "num": 230602,
+        "word": "民警和校长当全校师生面给6岁女孩颁奖",
+        "onboard_time": 1698044564,
+        "rank": 28,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 225668,
+        "num": 225668,
+        "word": "语雀bug",
+        "onboard_time": 1698045582,
+        "rank": 29,
+        "category": "数码,互联网"
+      },
+      {
+        "raw_hot": 224493,
+        "num": 224493,
+        "word": "aespa台历照",
+        "onboard_time": 1698045340,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 217652,
+        "num": 217652,
+        "word": "19岁儿子将妈妈所存50余万转给女友",
+        "onboard_time": 1698039282,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 217162,
+        "num": 217162,
+        "word": "迪丽热巴佩列沙茨大桥海报",
+        "onboard_time": 1698045525,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216541,
+        "num": 216541,
+        "word": "茉酸奶 求生欲",
+        "onboard_time": 1698046184,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207693,
+        "num": 207693,
+        "word": "30天真实亲测打卡早C晚A",
+        "onboard_time": 1698044927,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 206451,
+        "num": 206451,
+        "word": "同济大学寝室四人全员直博",
+        "onboard_time": 1698042643,
+        "rank": 35,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 205390,
+        "num": 205390,
+        "word": "何炅看黄明昊林一跳舞的表情",
+        "onboard_time": 1698038926,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198686,
+        "num": 198686,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 37,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 192015,
+        "num": 192015,
+        "word": "方圆脸本命瘦脸操",
+        "onboard_time": 1698045942,
+        "rank": 38,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 185933,
+        "num": 185933,
+        "word": "秦霄贤说王鹤棣老狠了",
+        "onboard_time": 1698043001,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180941,
+        "num": 180941,
+        "word": "MINNIE和HANNI唱Remember Me",
+        "onboard_time": 1698045281,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 173028,
+        "num": 173028,
+        "word": "肖战美拉德风衣",
+        "onboard_time": 1698038082,
+        "rank": 41,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 165444,
+        "num": 165444,
+        "word": "杨幂 有效客串",
+        "onboard_time": 1698037188,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160721,
+        "num": 160721,
+        "word": "可可西里的网红狼开始带新人了",
+        "onboard_time": 1698037549,
+        "rank": 43,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 159693,
+        "num": 159693,
+        "word": "迪丽热巴动人玫瑰",
+        "onboard_time": 1698041144,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157831,
+        "num": 157831,
+        "word": "易烊千玺的狗啃式刘海",
+        "onboard_time": 1698033876,
+        "rank": 45,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 157347,
+        "num": 157347,
+        "word": "EXO台历呢",
+        "onboard_time": 1698046302,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142983,
+        "num": 142983,
+        "word": "沪指跌破3000点后抄底还是止损",
+        "onboard_time": 1698045281,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136342,
+        "num": 136342,
+        "word": "大学生体测现201314",
+        "onboard_time": 1698042105,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126707,
+        "num": 126707,
+        "word": "马嘉祺 公主请下车",
+        "onboard_time": 1698041381,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共建一带一路谋求的是共同发展合作共赢#"
+    }
+  }
+}
