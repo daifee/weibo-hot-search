@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698074270507,
+  "endTime": 1698075275765,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -10385,6 +10385,14 @@
       "onboard_time": 1696652024,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 743111,
+      "num": 376880,
+      "word": "梁龙素颜",
+      "onboard_time": 1698073661,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 742582,
@@ -22051,6 +22059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 401550,
+      "num": 401550,
+      "word": "京东火力",
+      "onboard_time": 1698072764,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 401372,
       "num": 304723,
       "word": "我的临时身份证也太临时了吧",
@@ -22315,6 +22331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395700,
+      "num": 365194,
+      "word": "苹果称iPhone15是图像残留不是烧屏",
+      "onboard_time": 1698072280,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
       "raw_hot": 395604,
       "num": 395604,
       "word": "广州地铁又要多一个禁止标了",
@@ -22459,6 +22483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 393596,
+      "num": 364345,
+      "word": "代理律师回应女童家属筹款200万争议",
+      "onboard_time": 1698073183,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 393442,
       "num": 393442,
       "word": "莎头组合神同步瞬间",
@@ -22473,6 +22505,14 @@
       "onboard_time": 1697598814,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 392703,
+      "num": 287746,
+      "word": "我姓关关晓彤的关",
+      "onboard_time": 1698073544,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 392575,
@@ -23257,14 +23297,6 @@
       "onboard_time": 1696893746,
       "rank": 31,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 381993,
-      "num": 381993,
-      "word": "京东火力",
-      "onboard_time": 1698072764,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 381904,
@@ -24307,14 +24339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 365194,
-      "num": 365194,
-      "word": "苹果称iPhone15是图像残留不是烧屏",
-      "onboard_time": 1698072280,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
       "raw_hot": 365137,
       "num": 365137,
       "word": "中国将派特使推动巴以停火止战",
@@ -24376,14 +24400,6 @@
       "word": "成都禁养犬名单",
       "onboard_time": 1697469037,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 364345,
-      "num": 364345,
-      "word": "代理律师回应女童家属筹款200万争议",
-      "onboard_time": 1698073183,
-      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -26835,6 +26851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 331780,
+      "num": 331780,
+      "word": "深圳机场已恢复正常",
+      "onboard_time": 1698073902,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 331645,
       "num": 331645,
       "word": "妈妈想陪女儿上大学当上食堂阿姨",
@@ -28865,6 +28889,14 @@
       "onboard_time": 1696287921,
       "rank": 12,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 305705,
+      "num": 305705,
+      "word": "微博迎新之夜就差报身份证了",
+      "onboard_time": 1698072586,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 305699,
@@ -31771,6 +31803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 279026,
+      "num": 279026,
+      "word": "厂家称5.9元粉底液是活动价",
+      "onboard_time": 1698074440,
+      "rank": 22,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 278989,
       "num": 278989,
       "word": "种地吧",
@@ -32097,14 +32137,6 @@
       "onboard_time": 1696144655,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276188,
-      "num": 276188,
-      "word": "微博迎新之夜就差报身份证了",
-      "onboard_time": 1698072586,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 276070,
@@ -32808,14 +32840,6 @@
       "word": "问心女孩穿婚纱虐麻了",
       "onboard_time": 1697247634,
       "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 270480,
-      "num": 270480,
-      "word": "我姓关关晓彤的关",
-      "onboard_time": 1698073544,
-      "rank": 22,
       "category": "剧集"
     },
     {
@@ -33873,14 +33897,6 @@
       "onboard_time": 1696321651,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 262266,
-      "num": 262266,
-      "word": "梁龙素颜",
-      "onboard_time": 1698073661,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 262167,
@@ -36289,6 +36305,14 @@
       "onboard_time": 1696202481,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243947,
+      "num": 243947,
+      "word": "700万动迁款分给4名子女后无人赡养",
+      "onboard_time": 1698073902,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243907,
@@ -38795,6 +38819,14 @@
       "category": "母婴育儿"
     },
     {
+      "raw_hot": 227348,
+      "num": 227348,
+      "word": "华戎舟是华浅想象出来的",
+      "onboard_time": 1698073841,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227322,
       "num": 227322,
       "word": "女方放完礼花发现来的不是自家新郎",
@@ -39753,14 +39785,6 @@
       "onboard_time": 1696985856,
       "rank": 32,
       "category": "社会新闻,动物萌宠"
-    },
-    {
-      "raw_hot": 221678,
-      "num": 221678,
-      "word": "深圳机场已恢复正常",
-      "onboard_time": 1698073902,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221674,
@@ -40833,6 +40857,14 @@
       "onboard_time": 1697155597,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214466,
+      "num": 214466,
+      "word": "金珉奎不能脱帽子的原因",
+      "onboard_time": 1698074146,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 214409,
@@ -48779,14 +48811,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 183249,
-      "num": 183249,
-      "word": "华戎舟是华浅想象出来的",
-      "onboard_time": 1698073841,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 183243,
       "num": 183243,
       "word": "乐队的夏天演唱会阵容",
@@ -51345,14 +51369,6 @@
       "onboard_time": 1697601096,
       "rank": 48,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170207,
-      "num": 170207,
-      "word": "金珉奎不能脱帽子的原因",
-      "onboard_time": 1698074146,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 170178,
@@ -58331,14 +58347,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 130177,
-      "num": 130177,
-      "word": "700万动迁款分给4名子女后无人赡养",
-      "onboard_time": 1698073902,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130085,
       "num": 114196,
       "word": "1个动作有助睡眠",
@@ -59609,6 +59617,14 @@
       "onboard_time": 1697283453,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119059,
+      "num": 119059,
+      "word": "花儿与少年丝路季综述预告",
+      "onboard_time": 1698074918,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 119014,
@@ -62161,6 +62177,14 @@
       "onboard_time": 1697748493,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79767,
+      "num": 119035,
+      "word": "A股的问题是投资者普遍赚不到钱",
+      "onboard_time": 1698075217,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 79762,

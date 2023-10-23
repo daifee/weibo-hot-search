@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698074270507,
+  "endTime": 1698075275765,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -657,6 +657,14 @@
       "onboard_time": 1697988695,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 743111,
+      "num": 376880,
+      "word": "梁龙素颜",
+      "onboard_time": 1698073661,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 742582,
@@ -1571,6 +1579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401550,
+      "num": 401550,
+      "word": "京东火力",
+      "onboard_time": 1698072764,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 400550,
       "num": 400550,
       "word": "女子突发腹痛公交司机停车救人",
@@ -1616,6 +1632,30 @@
       "word": "一念花开今晚开播",
       "onboard_time": 1698026733,
       "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 395700,
+      "num": 365194,
+      "word": "苹果称iPhone15是图像残留不是烧屏",
+      "onboard_time": 1698072280,
+      "rank": 12,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 393596,
+      "num": 364345,
+      "word": "代理律师回应女童家属筹款200万争议",
+      "onboard_time": 1698073183,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 392703,
+      "num": 287746,
+      "word": "我姓关关晓彤的关",
+      "onboard_time": 1698073544,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -1689,14 +1729,6 @@
       "onboard_time": 1698036828,
       "rank": 32,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 381993,
-      "num": 381993,
-      "word": "京东火力",
-      "onboard_time": 1698072764,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 381755,
@@ -1809,22 +1841,6 @@
       "onboard_time": 1698038926,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 365194,
-      "num": 365194,
-      "word": "苹果称iPhone15是图像残留不是烧屏",
-      "onboard_time": 1698072280,
-      "rank": 12,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 364345,
-      "num": 364345,
-      "word": "代理律师回应女童家属筹款200万争议",
-      "onboard_time": 1698073183,
-      "rank": 13,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 364201,
@@ -1961,6 +1977,14 @@
       "onboard_time": 1697933670,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 331780,
+      "num": 331780,
+      "word": "深圳机场已恢复正常",
+      "onboard_time": 1698073902,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 331213,
@@ -2169,6 +2193,14 @@
       "onboard_time": 1698045703,
       "rank": 13,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 305705,
+      "num": 305705,
+      "word": "微博迎新之夜就差报身份证了",
+      "onboard_time": 1698072586,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 305656,
@@ -2435,6 +2467,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 279026,
+      "num": 279026,
+      "word": "厂家称5.9元粉底液是活动价",
+      "onboard_time": 1698074440,
+      "rank": 22,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 278356,
       "num": 278356,
       "word": "花花冬天8点钟才上班",
@@ -2457,14 +2497,6 @@
       "onboard_time": 1698046302,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 276188,
-      "num": 276188,
-      "word": "微博迎新之夜就差报身份证了",
-      "onboard_time": 1698072586,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 275367,
@@ -2513,14 +2545,6 @@
       "onboard_time": 1698045462,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 270480,
-      "num": 270480,
-      "word": "我姓关关晓彤的关",
-      "onboard_time": 1698073544,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 269081,
@@ -2585,14 +2609,6 @@
       "onboard_time": 1698054285,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 262266,
-      "num": 262266,
-      "word": "梁龙素颜",
-      "onboard_time": 1698073661,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 257924,
@@ -2753,6 +2769,14 @@
       "onboard_time": 1697934208,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 243947,
+      "num": 243947,
+      "word": "700万动迁款分给4名子女后无人赡养",
+      "onboard_time": 1698073902,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 243720,
@@ -3027,6 +3051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 227348,
+      "num": 227348,
+      "word": "华戎舟是华浅想象出来的",
+      "onboard_time": 1698073841,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 226647,
       "num": 226647,
       "word": "养老院爷爷奶奶花一个月才上手拍段子",
@@ -3097,14 +3129,6 @@
       "onboard_time": 1698042105,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 221678,
-      "num": 221678,
-      "word": "深圳机场已恢复正常",
-      "onboard_time": 1698073902,
-      "rank": 28,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 221333,
@@ -3225,6 +3249,14 @@
       "onboard_time": 1698020675,
       "rank": 28,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 214466,
+      "num": 214466,
+      "word": "金珉奎不能脱帽子的原因",
+      "onboard_time": 1698074146,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 214301,
@@ -3907,14 +3939,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 183249,
-      "num": 183249,
-      "word": "华戎舟是华浅想象出来的",
-      "onboard_time": 1698073841,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182847,
       "num": 182847,
       "word": "张栋梁把眼罩当发箍戴",
@@ -4177,14 +4201,6 @@
       "onboard_time": 1698031175,
       "rank": 37,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 170207,
-      "num": 170207,
-      "word": "金珉奎不能脱帽子的原因",
-      "onboard_time": 1698074146,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 169827,
@@ -5155,14 +5171,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 130177,
-      "num": 130177,
-      "word": "700万动迁款分给4名子女后无人赡养",
-      "onboard_time": 1698073902,
-      "rank": 44,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 130042,
       "num": 130042,
       "word": "水哥更喜欢日落的原因",
@@ -5417,6 +5425,14 @@
       "onboard_time": 1698028533,
       "rank": 49,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 119059,
+      "num": 119059,
+      "word": "花儿与少年丝路季综述预告",
+      "onboard_time": 1698074918,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 118531,
@@ -5993,6 +6009,14 @@
       "onboard_time": 1697982273,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 79767,
+      "num": 119035,
+      "word": "A股的问题是投资者普遍赚不到钱",
+      "onboard_time": 1698075217,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 79674,
