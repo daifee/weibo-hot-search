@@ -1,0 +1,410 @@
+{
+  "runTime": 1698034837734,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1608166,
+        "num": 1608166,
+        "word": "电子呕吐物",
+        "onboard_time": 1698029972,
+        "rank": 0,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1389055,
+        "num": 1389055,
+        "word": "iPhone15全系价格暴跌",
+        "onboard_time": 1698029250,
+        "rank": 1,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 49072,
+        "num": 992368,
+        "word": "比亚残运会赛事更昂扬的是人生",
+        "onboard_time": 1698031473,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 842917,
+        "num": 842917,
+        "word": "官方通报执法人员开着巡逻车偷高粱",
+        "onboard_time": 1698032014,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 795470,
+        "num": 795470,
+        "word": "张晚意王楚然柳舟记官宣",
+        "onboard_time": 1698030992,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 745141,
+        "num": 745141,
+        "word": "姚贝娜父亲出席李玟纪念展",
+        "onboard_time": 1698033214,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 717263,
+        "num": 717263,
+        "word": "QQ邮箱开始提供付费会员服务",
+        "onboard_time": 1698030155,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 679191,
+        "num": 679191,
+        "word": "赵露思或辞演珠帘玉幕",
+        "onboard_time": 1698031054,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 550917,
+        "num": 550917,
+        "word": "青岛啤酒视频拍摄者已被警方控制",
+        "onboard_time": 1698022775,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 446849,
+        "num": 446849,
+        "word": "李佳琦直播预告",
+        "onboard_time": 1698034236,
+        "rank": 9,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 55572,
+        "num": 445863,
+        "word": "小米全新系统即将发布",
+        "onboard_time": 1698033094,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1198746,
+        "num": 445152,
+        "word": "张大奕自曝3年被代购骗1161万",
+        "onboard_time": 1698027215,
+        "rank": 11,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 784287,
+        "num": 443700,
+        "word": "易烊千玺的狗啃式刘海",
+        "onboard_time": 1698033876,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 745935,
+        "num": 442629,
+        "word": "兄妹喝奶奶捡回饮料中毒医院怀疑人为投毒",
+        "onboard_time": 1698025114,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 442433,
+        "num": 442433,
+        "word": "太原发生多人伤亡交通事故",
+        "onboard_time": 1698028114,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 423302,
+        "num": 423302,
+        "word": "秦海璐在3个国家拍了7张自己的脚",
+        "onboard_time": 1698030634,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 422419,
+        "num": 422419,
+        "word": "以军就坦克意外击中埃及军事哨所道歉",
+        "onboard_time": 1698022836,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 372015,
+        "num": 372015,
+        "word": "任家萱 我就是我自己的偶像",
+        "onboard_time": 1698032616,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 367783,
+        "num": 367783,
+        "word": "卡地亚找的女艺人 地母系长相",
+        "onboard_time": 1698032492,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365835,
+        "num": 365835,
+        "word": "刘少昂不知身后竟然如此热闹",
+        "onboard_time": 1698029011,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 729336,
+        "num": 365688,
+        "word": "男子性侵13岁女孩聊天称老婆要从小培养",
+        "onboard_time": 1697988874,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 371161,
+        "num": 365435,
+        "word": "吴楚一跳的是这种钢管舞吗",
+        "onboard_time": 1697988874,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363914,
+        "num": 363914,
+        "word": "朴宰范加盟这就是街舞6",
+        "onboard_time": 1698030992,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321260,
+        "num": 321260,
+        "word": "林柏叡居然有个6岁的女儿",
+        "onboard_time": 1698033336,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304008,
+        "num": 304008,
+        "word": "重阳节是澳门法定假日",
+        "onboard_time": 1698029733,
+        "rank": 24,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 290420,
+        "num": 290420,
+        "word": "山西太原三车相撞致2死6伤",
+        "onboard_time": 1698032255,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 286261,
+        "num": 286261,
+        "word": "A股",
+        "onboard_time": 1698025353,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 286136,
+        "num": 286136,
+        "word": "什么是肺结节",
+        "onboard_time": 1698034598,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 271730,
+        "num": 271730,
+        "word": "周震南父亲持股公司执照被吊销",
+        "onboard_time": 1698032492,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263942,
+        "num": 263942,
+        "word": "迪丽热巴晒花少团合照",
+        "onboard_time": 1698031534,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258920,
+        "num": 258920,
+        "word": "全昭旻RM下车",
+        "onboard_time": 1698024211,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242423,
+        "num": 242423,
+        "word": "丁程鑫街舞队徽是小狐狸",
+        "onboard_time": 1698032616,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241489,
+        "num": 241489,
+        "word": "花少丝路季连播七天",
+        "onboard_time": 1698029132,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238725,
+        "num": 238725,
+        "word": "男子白血病康复后做厨师6年还清70万",
+        "onboard_time": 1698032072,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 238702,
+        "num": 238702,
+        "word": "发现了鲨鱼夹的正确用法",
+        "onboard_time": 1698032673,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237241,
+        "num": 237241,
+        "word": "新晋雨果奖得主原来是金融人",
+        "onboard_time": 1698033518,
+        "rank": 35,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 232754,
+        "num": 232754,
+        "word": "珠帘玉幕",
+        "onboard_time": 1698032373,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230986,
+        "num": 230986,
+        "word": "青岛啤酒股价大跌",
+        "onboard_time": 1698027453,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 229575,
+        "num": 229575,
+        "word": "明星化妆师用的平价美妆单品",
+        "onboard_time": 1698034475,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 227680,
+        "num": 227680,
+        "word": "河边的错误 核心主题",
+        "onboard_time": 1698033336,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221533,
+        "num": 221533,
+        "word": "陈哲远偶像剧男主",
+        "onboard_time": 1698033815,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217161,
+        "num": 217161,
+        "word": "广东汕头发生5.0级地震",
+        "onboard_time": 1698015922,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213017,
+        "num": 213017,
+        "word": "张碧晨 她说",
+        "onboard_time": 1698034296,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 202706,
+        "num": 202706,
+        "word": "檀健次红衣官服造型",
+        "onboard_time": 1698034659,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201804,
+        "num": 201804,
+        "word": "这就是街舞6官宣队长",
+        "onboard_time": 1698034782,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201434,
+        "num": 201434,
+        "word": "王星越19岁演仲溪午",
+        "onboard_time": 1698031534,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200900,
+        "num": 200900,
+        "word": "82位演员祝福最美表演十周年",
+        "onboard_time": 1698034236,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193178,
+        "num": 193178,
+        "word": "马哲疯没疯不知道但我疯了",
+        "onboard_time": 1698033273,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192779,
+        "num": 192779,
+        "word": "内塔尼亚胡被要求下台",
+        "onboard_time": 1698027992,
+        "rank": 48,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 183643,
+        "num": 183643,
+        "word": "小米14发布会定档",
+        "onboard_time": 1698024572,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}
