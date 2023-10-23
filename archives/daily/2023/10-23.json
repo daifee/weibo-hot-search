@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698017642954,
+  "endTime": 1698023558458,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -19,6 +19,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2415835,
+      "num": 413287,
+      "word": "耐克大中华区宣布将实行四天工作制",
+      "onboard_time": 1698018450,
+      "rank": 10,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 2132092,
       "num": 2132092,
       "word": "广东汕头发生5.0级地震",
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1385830,
-      "num": 212293,
+      "num": 272549,
       "word": "吴楚一跳的是这种钢管舞吗",
       "onboard_time": 1697988874,
       "rank": 20,
@@ -43,12 +51,36 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1220303,
+      "num": 720112,
+      "word": "与保安起冲突孕妇被撞致胎死腹中",
+      "onboard_time": 1698020074,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1000990,
+      "num": 604010,
+      "word": "以军称误击埃及军队哨所",
+      "onboard_time": 1698019412,
+      "rank": 5,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 850795,
-      "num": 316558,
+      "num": 376118,
       "word": "女子带婴儿被3条流浪狗围攻咬伤",
       "onboard_time": 1697986357,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 828686,
+      "num": 828686,
+      "word": "刘少昂0.02秒惊险夺冠",
+      "onboard_time": 1698020193,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 809828,
@@ -67,6 +99,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 621131,
+      "num": 621131,
+      "word": "河边的错误票房破9000万",
+      "onboard_time": 1698018029,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 534927,
+      "num": 534927,
+      "word": "by2爱丫爱丫让青春回来了",
+      "onboard_time": 1698021815,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 474997,
       "num": 474997,
       "word": "可可西里野狼被游客投喂胖成网红",
@@ -81,6 +129,14 @@
       "onboard_time": 1697987497,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 457749,
+      "num": 404189,
+      "word": "以军就坦克意外击中埃及军事哨所道歉",
+      "onboard_time": 1698022836,
+      "rank": 11,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 444949,
@@ -99,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 416953,
+      "num": 416953,
+      "word": "青岛啤酒视频拍摄者已被警方控制",
+      "onboard_time": 1698022775,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 400550,
       "num": 400550,
       "word": "女子突发腹痛公交司机停车救人",
@@ -113,6 +177,30 @@
       "onboard_time": 1697982456,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380112,
+      "num": 380112,
+      "word": "沈诺终于掉马了",
+      "onboard_time": 1698022175,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 374230,
+      "num": 374230,
+      "word": "五月天演唱会女孩举牌说点歌给爸爸",
+      "onboard_time": 1698020556,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 369415,
+      "num": 263995,
+      "word": "如何体面的退出一个群",
+      "onboard_time": 1698018934,
+      "rank": 22,
+      "category": "情感"
     },
     {
       "raw_hot": 346251,
@@ -139,6 +227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318084,
+      "num": 318084,
+      "word": "baby挥舞战旗",
+      "onboard_time": 1698019475,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 311439,
+      "num": 257195,
+      "word": "帮帮我好不好 帮我上班",
+      "onboard_time": 1698021338,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 305534,
       "num": 305534,
       "word": "初中生拉开同学座椅致其后仰摔成重伤",
@@ -155,6 +259,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 295794,
+      "num": 295794,
+      "word": "今日重阳",
+      "onboard_time": 1698016587,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 290142,
       "num": 290142,
       "word": "黄明昊林一troublemaker",
@@ -164,11 +276,19 @@
     },
     {
       "raw_hot": 286456,
-      "num": 157182,
+      "num": 157636,
       "word": "女子咳嗽咳痰一周问题竟出在心脏",
       "onboard_time": 1698005474,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281270,
+      "num": 281270,
+      "word": "王鹤棣大奉打更人白衣盔甲路透",
+      "onboard_time": 1698019836,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 274090,
@@ -187,20 +307,20 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 257957,
-      "num": 257957,
-      "word": "今日重阳",
-      "onboard_time": 1698016587,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257587,
-      "num": 155925,
+      "num": 163650,
       "word": "出门就是海的大学到底谁在读啊",
       "onboard_time": 1698015683,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 251681,
+      "num": 251681,
+      "word": "耐克回应实行四天工作制",
+      "onboard_time": 1698023315,
+      "rank": 25,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 246888,
@@ -209,6 +329,22 @@
       "onboard_time": 1698016587,
       "rank": 12,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 233539,
+      "num": 233539,
+      "word": "SEVENTEEN新专辑预售量破纪录",
+      "onboard_time": 1698021098,
+      "rank": 26,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 229049,
+      "num": 204740,
+      "word": "周杰伦以父之名2004年现场",
+      "onboard_time": 1698023196,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 221286,
@@ -235,6 +371,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 215366,
+      "num": 215366,
+      "word": "段子里的江浙沪家长没骗我",
+      "onboard_time": 1698020675,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201388,
+      "num": 201388,
+      "word": "Red Velvet概念",
+      "onboard_time": 1698018991,
+      "rank": 31,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 192817,
       "num": 192817,
       "word": "aespa 迷你4辑",
@@ -243,12 +395,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 191319,
+      "num": 191319,
+      "word": "白桃星座",
+      "onboard_time": 1698022115,
+      "rank": 32,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 190554,
       "num": 190554,
       "word": "于文文问微信撤回为什么要留痕迹",
       "onboard_time": 1697960789,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188357,
+      "num": 188357,
+      "word": "养老院爷爷奶奶花一个月才上手拍段子",
+      "onboard_time": 1698023374,
+      "rank": 33,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 187626,
@@ -291,11 +459,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 176785,
+      "num": 176785,
+      "word": "重阳尊老敬老",
+      "onboard_time": 1698019774,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 172346,
       "num": 172346,
       "word": "花花这班上的太委屈了",
       "onboard_time": 1697979033,
       "rank": 24,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 171752,
+      "num": 171752,
+      "word": "孩子碎玻璃卡喉交警一路狂飙送医",
+      "onboard_time": 1698022056,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -315,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164619,
+      "num": 164619,
+      "word": "重庆一火锅店现机器人服务员敬酒倒茶",
+      "onboard_time": 1698018751,
+      "rank": 39,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 162198,
       "num": 162198,
       "word": "泉州震感",
       "onboard_time": 1698016526,
       "rank": 39,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 160850,
+      "num": 160850,
+      "word": "Cat说把这场当最后一场打",
+      "onboard_time": 1698021216,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 154778,
@@ -345,6 +545,14 @@
       "onboard_time": 1697973510,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151536,
+      "num": 151536,
+      "word": "ChatGPT亚洲版",
+      "onboard_time": 1698019293,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 149271,
@@ -385,6 +593,46 @@
       "onboard_time": 1697990011,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135112,
+      "num": 135112,
+      "word": "朱婷14分",
+      "onboard_time": 1698019956,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 134859,
+      "num": 134859,
+      "word": "潮州震感",
+      "onboard_time": 1698022894,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131485,
+      "num": 131485,
+      "word": "亚当斯赛季报销",
+      "onboard_time": 1698018874,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 130367,
+      "num": 130367,
+      "word": "女骑手被撞辅警暖心帮送外卖",
+      "onboard_time": 1698023374,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 122581,
+      "num": 122581,
+      "word": "黄磊戏剧节帮大学生完成作业",
+      "onboard_time": 1698019172,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 121791,
