@@ -1,6 +1,6 @@
 {
   "startTime": 1697991620530,
-  "endTime": 1698024800996,
+  "endTime": 1698027870031,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -35,20 +35,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1656668,
+      "num": 1656668,
+      "word": "兄妹喝奶奶捡回饮料中毒医院怀疑人为投毒",
+      "onboard_time": 1698025114,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1560474,
+      "num": 1272350,
+      "word": "青岛啤酒视频拍摄者已被警方控制",
+      "onboard_time": 1698022775,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1385830,
       "num": 272549,
       "word": "吴楚一跳的是这种钢管舞吗",
       "onboard_time": 1697988874,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1272350,
-      "num": 1272350,
-      "word": "青岛啤酒视频拍摄者已被警方控制",
-      "onboard_time": 1698022775,
-      "rank": 9,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1224525,
@@ -65,6 +73,14 @@
       "onboard_time": 1698020074,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1016083,
+      "num": 366278,
+      "word": "A股",
+      "onboard_time": 1698025353,
+      "rank": 10,
+      "category": "财经"
     },
     {
       "raw_hot": 1000990,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 834453,
-      "num": 600153,
+      "num": 676448,
       "word": "以军就坦克意外击中埃及军事哨所道歉",
       "onboard_time": 1698022836,
       "rank": 11,
@@ -115,6 +131,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 774370,
+      "num": 774370,
+      "word": "旅客带核辐射超标1050倍保健石入境",
+      "onboard_time": 1698024813,
+      "rank": 1,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 750128,
       "num": 305162,
       "word": "本周狗屎运最旺的星座",
@@ -129,6 +153,14 @@
       "onboard_time": 1698018029,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 555261,
+      "num": 349443,
+      "word": "张大奕自曝3年被代购骗1161万",
+      "onboard_time": 1698027215,
+      "rank": 11,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 534927,
@@ -147,20 +179,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 471520,
+      "num": 471520,
+      "word": "小米14发布会定档",
+      "onboard_time": 1698024572,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 469556,
+      "num": 469556,
+      "word": "耐克回应实行四天工作制",
+      "onboard_time": 1698023315,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 459094,
       "num": 459094,
       "word": "郭麒麟说我有点儿可怜我爸",
       "onboard_time": 1697987497,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 449787,
-      "num": 449787,
-      "word": "耐克回应实行四天工作制",
-      "onboard_time": 1698023315,
-      "rank": 25,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444949,
@@ -243,12 +283,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322684,
+      "num": 235594,
+      "word": "因为打呼噜室友让我滚出宿舍",
+      "onboard_time": 1698024271,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 318084,
       "num": 318084,
       "word": "baby挥舞战旗",
       "onboard_time": 1698019475,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 316401,
+      "num": 316401,
+      "word": "一念花开今晚开播",
+      "onboard_time": 1698026733,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 311439,
@@ -299,6 +355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 288182,
+      "num": 234956,
+      "word": "吴昕 并不是所有人都有机会说再见的",
+      "onboard_time": 1698026970,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286456,
       "num": 157636,
       "word": "女子咳嗽咳痰一周问题竟出在心脏",
@@ -339,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 247728,
+      "num": 247728,
+      "word": "李一桐温柔甜妹妆",
+      "onboard_time": 1698026851,
+      "rank": 17,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 246888,
       "num": 246888,
       "word": "漳州震感",
@@ -353,14 +425,6 @@
       "onboard_time": 1698021098,
       "rank": 26,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 230196,
-      "num": 230196,
-      "word": "因为打呼噜室友让我滚出宿舍",
-      "onboard_time": 1698024271,
-      "rank": 24,
-      "category": "幽默"
     },
     {
       "raw_hot": 226647,
@@ -403,14 +467,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 216782,
-      "num": 216782,
-      "word": "小米14发布会定档",
-      "onboard_time": 1698024572,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 215366,
       "num": 215366,
       "word": "段子里的江浙沪家长没骗我",
@@ -441,6 +497,14 @@
       "onboard_time": 1698019774,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 197659,
+      "num": 197659,
+      "word": "上证指数",
+      "onboard_time": 1698027215,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 192817,
@@ -491,6 +555,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 184630,
+      "num": 184630,
+      "word": "凌成兴接受审查调查",
+      "onboard_time": 1698027573,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 182753,
+      "num": 182753,
+      "word": "张元英发型复刻教程",
+      "onboard_time": 1698025771,
+      "rank": 32,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 181129,
       "num": 181129,
       "word": "12306回应火车卧铺上疑有排泄物",
@@ -513,6 +593,14 @@
       "onboard_time": 1698023973,
       "rank": 38,
       "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 173297,
+      "num": 173297,
+      "word": "老奶奶与男生地铁站内切磋钢琴曲",
+      "onboard_time": 1698026373,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 172346,
@@ -555,6 +643,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 163105,
+      "num": 163105,
+      "word": "青岛啤酒股价大跌",
+      "onboard_time": 1698027453,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 162198,
       "num": 162198,
       "word": "泉州震感",
@@ -569,6 +665,14 @@
       "onboard_time": 1698021216,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157513,
+      "num": 157513,
+      "word": "汉密尔顿勒克莱尔被取消成绩",
+      "onboard_time": 1698027812,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 154778,
@@ -681,6 +785,14 @@
       "onboard_time": 1698023374,
       "rank": 48,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 130042,
+      "num": 130042,
+      "word": "水哥更喜欢日落的原因",
+      "onboard_time": 1698025532,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 122581,
