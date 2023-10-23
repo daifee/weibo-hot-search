@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698027870031,
+  "endTime": 1698028540077,
   "band_list": [
     {
       "raw_hot": 8481659,
@@ -67,6 +67,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 1838655,
+      "num": 1838655,
+      "word": "兄妹喝奶奶捡回饮料中毒医院怀疑人为投毒",
+      "onboard_time": 1698025114,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1799925,
       "num": 1799925,
       "word": "儿子溺亡16年后爸爸跳河救人牺牲",
@@ -97,14 +105,6 @@
       "onboard_time": 1697942494,
       "rank": 0,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 1656668,
-      "num": 1656668,
-      "word": "兄妹喝奶奶捡回饮料中毒医院怀疑人为投毒",
-      "onboard_time": 1698025114,
-      "rank": 0,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1643878,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1194365,
+      "num": 373374,
+      "word": "张大奕自曝3年被代购骗1161万",
+      "onboard_time": 1698027215,
+      "rank": 11,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 1192423,
       "num": 1192423,
       "word": "WBG 心态崩了",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1016083,
-      "num": 366278,
+      "num": 371001,
       "word": "A股",
       "onboard_time": 1698025353,
       "rank": 10,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 927895,
+      "num": 927895,
+      "word": "旅客带核辐射超标1050倍保健石入境",
+      "onboard_time": 1698024813,
+      "rank": 1,
+      "category": "社会新闻,旅游"
+    },
+    {
       "raw_hot": 922856,
       "num": 922856,
       "word": "曾舜晞录综艺带了10套衣服",
@@ -361,14 +377,6 @@
       "onboard_time": 1698016283,
       "rank": 1,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 774370,
-      "num": 774370,
-      "word": "旅客带核辐射超标1050倍保健石入境",
-      "onboard_time": 1698024813,
-      "rank": 1,
-      "category": "社会新闻,旅游"
     },
     {
       "raw_hot": 769738,
@@ -585,14 +593,6 @@
       "onboard_time": 1697951252,
       "rank": 13,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 555261,
-      "num": 349443,
-      "word": "张大奕自曝3年被代购骗1161万",
-      "onboard_time": 1698027215,
-      "rank": 11,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 540301,
@@ -979,6 +979,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395747,
+      "num": 395747,
+      "word": "一念花开今晚开播",
+      "onboard_time": 1698026733,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 392116,
       "num": 392116,
       "word": "女子网购猫粮发现包装有针孔",
@@ -1115,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347379,
+      "num": 347379,
+      "word": "太原发生多人伤亡交通事故",
+      "onboard_time": 1698028114,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 346251,
       "num": 346251,
       "word": "薛之谦扔戒指",
@@ -1187,6 +1203,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 319686,
+      "num": 234956,
+      "word": "吴昕 并不是所有人都有机会说再见的",
+      "onboard_time": 1698026970,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318084,
       "num": 318084,
       "word": "baby挥舞战旗",
@@ -1217,14 +1241,6 @@
       "onboard_time": 1697969910,
       "rank": 1,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 316401,
-      "num": 316401,
-      "word": "一念花开今晚开播",
-      "onboard_time": 1698026733,
-      "rank": 12,
-      "category": "剧集"
     },
     {
       "raw_hot": 316053,
@@ -1387,14 +1403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288182,
-      "num": 234956,
-      "word": "吴昕 并不是所有人都有机会说再见的",
-      "onboard_time": 1698026970,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286456,
       "num": 157636,
       "word": "女子咳嗽咳痰一周问题竟出在心脏",
@@ -1443,6 +1451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279298,
+      "num": 226963,
+      "word": "青岛啤酒股价大跌",
+      "onboard_time": 1698027453,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 277761,
       "num": 277761,
       "word": "网友晒与鹿晗范丞丞王安宇合照",
@@ -1473,6 +1489,14 @@
       "onboard_time": 1697987015,
       "rank": 25,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 269081,
+      "num": 269081,
+      "word": "李一桐温柔甜妹妆",
+      "onboard_time": 1698026851,
+      "rank": 17,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 266480,
@@ -1561,14 +1585,6 @@
       "onboard_time": 1697986059,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 247728,
-      "num": 247728,
-      "word": "李一桐温柔甜妹妆",
-      "onboard_time": 1698026851,
-      "rank": 17,
-      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 246888,
@@ -1691,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229425,
+      "num": 229425,
+      "word": "吴建豪26年前街舞比赛视频",
+      "onboard_time": 1698028232,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 228370,
       "num": 228370,
       "word": "高圆圆去看乐队的夏天演唱会",
@@ -1705,6 +1729,14 @@
       "onboard_time": 1698023374,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 226460,
+      "num": 226460,
+      "word": "内塔尼亚胡被要求下台",
+      "onboard_time": 1698027992,
+      "rank": 26,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 224863,
@@ -1753,6 +1785,14 @@
       "onboard_time": 1697986837,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 220928,
+      "num": 220928,
+      "word": "上证指数",
+      "onboard_time": 1698027215,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 220777,
@@ -1939,6 +1979,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 203627,
+      "num": 227633,
+      "word": "凌成兴接受审查调查",
+      "onboard_time": 1698027573,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 202915,
       "num": 202915,
       "word": "王者荣耀",
@@ -1953,6 +2001,14 @@
       "onboard_time": 1697946933,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 202065,
+      "num": 189641,
+      "word": "汉密尔顿勒克莱尔被取消成绩",
+      "onboard_time": 1698027812,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 201993,
@@ -2025,14 +2081,6 @@
       "onboard_time": 1697884412,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197659,
-      "num": 197659,
-      "word": "上证指数",
-      "onboard_time": 1698027215,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 197206,
@@ -2193,14 +2241,6 @@
       "onboard_time": 1697963192,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184630,
-      "num": 184630,
-      "word": "凌成兴接受审查调查",
-      "onboard_time": 1698027573,
-      "rank": 30,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 182847,
@@ -2459,14 +2499,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 163105,
-      "num": 163105,
-      "word": "青岛啤酒股价大跌",
-      "onboard_time": 1698027453,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 162198,
       "num": 162198,
       "word": "泉州震感",
@@ -2537,14 +2569,6 @@
       "onboard_time": 1697959232,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 157513,
-      "num": 157513,
-      "word": "汉密尔顿勒克莱尔被取消成绩",
-      "onboard_time": 1698027812,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 157394,
@@ -2987,6 +3011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128915,
+      "num": 128915,
+      "word": "这节目他们苦练三年虽不完美却满场喝彩",
+      "onboard_time": 1698028350,
+      "rank": 42,
+      "category": "体育,社会新闻"
+    },
+    {
       "raw_hot": 128402,
       "num": 128402,
       "word": "SEVENTEEN比MV更先公开的challenge",
@@ -3025,6 +3057,14 @@
       "onboard_time": 1697877034,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126589,
+      "num": 126589,
+      "word": "许光汉这张图让我更睡不着了",
+      "onboard_time": 1698028413,
+      "rank": 44,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 125345,
@@ -3067,6 +3107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122304,
+      "num": 122304,
+      "word": "华父辞官华浅破防大哭",
+      "onboard_time": 1698028533,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122250,
       "num": 122250,
       "word": "田曦薇王星越合作过",
@@ -3089,6 +3137,14 @@
       "onboard_time": 1697958750,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119793,
+      "num": 119793,
+      "word": "鸿海集团回应富士康被查",
+      "onboard_time": 1698028533,
+      "rank": 49,
+      "category": "财经,科技"
     },
     {
       "raw_hot": 118531,
