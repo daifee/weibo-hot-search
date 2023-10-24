@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 18:35:48
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 19:14:33
 </p>
 </blockquote>
 <p>
@@ -3141,6 +3141,12 @@ RH阴性血哈萨克斯坦青年成为全球新闻官（热度：1447857）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E7%A7%B0%E4%BB%8E%E6%9C%AA%E8%A6%81%E6%B1%82%E5%93%81%E7%89%8C%E4%BA%8C%E9%80%89%E4%B8%80%23" target="weibo">
+李佳琦直播间称从未要求品牌二选一（热度：1436378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E8%89%B2%E5%88%97%E5%9C%A8%E5%8A%A0%E6%B2%99%E5%9C%B0%E5%B8%A6%E9%99%84%E8%BF%91%E9%9B%86%E7%BB%93%E5%9D%A6%E5%85%8B%23" target="weibo">
 以色列在加沙地带附近集结坦克（热度：1433502）
 </a>
@@ -5463,6 +5469,12 @@ NEWJEANS李惠仁LV时装周造型（热度：1010846）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E6%A0%A1%E9%A3%9F%E5%A0%82%E5%B9%B2%E9%94%85%E8%99%BE28%E4%B8%80%E4%BB%BD%E6%9C%8961%E5%8F%AA%E8%99%BE%23" target="weibo">
+高校食堂干锅虾28一份有61只虾（热度：977500）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E4%B9%B0%E4%B8%8D%E8%B5%B7%E9%9D%A2%E5%8C%85%23" target="weibo">
 月薪一万买不起面包（热度：977206）
 </a>
@@ -5999,18 +6011,6 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E4%B8%80%E6%9D%A1%E4%BF%A1%E6%81%AF%E5%B0%8F%E4%BC%992%E4%B8%AA%E6%9C%88%E7%8B%82%E5%87%8F40%E6%96%A4%23" target="weibo">
 收到一条信息小伙2个月狂减40斤（热度：908090）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%88%E7%83%AC%E6%98%8E%23" target="weibo">
-长月烬明（热度：907988）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%8D%A1%E8%8A%B1%E7%94%9F%E8%A2%AB%E5%8D%B7%E6%94%B6%E5%89%B2%E6%9C%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
-老人捡花生被卷收割机身亡（热度：907483）
 </a>
 </li>
 

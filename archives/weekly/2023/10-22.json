@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698143748686,
+  "endTime": 1698146073745,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -297,6 +297,14 @@
       "onboard_time": 1698113253,
       "rank": 10,
       "category": "剧集,美妆"
+    },
+    {
+      "raw_hot": 1436378,
+      "num": 1436378,
+      "word": "李佳琦直播间称从未要求品牌二选一",
+      "onboard_time": 1698144754,
+      "rank": 0,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 1417595,
@@ -611,6 +619,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 977500,
+      "num": 1409153,
+      "word": "高校食堂干锅虾28一份有61只虾",
+      "onboard_time": 1698144334,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 964068,
       "num": 964068,
       "word": "咱仨把燃冬演好比什么都重要",
@@ -729,6 +745,14 @@
       "onboard_time": 1698115173,
       "rank": 1,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 855524,
+      "num": 855524,
+      "word": "你还喝农夫山泉吗",
+      "onboard_time": 1698142292,
+      "rank": 18,
+      "category": "美食"
     },
     {
       "raw_hot": 845490,
@@ -1043,7 +1067,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 660024,
+      "raw_hot": 668104,
       "num": 445998,
       "word": "马立奥 妈妈回来就接你",
       "onboard_time": 1698141812,
@@ -1353,6 +1377,14 @@
       "onboard_time": 1697951252,
       "rank": 13,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 553860,
+      "num": 553860,
+      "word": "名侦探柯南茱蒂声优去世",
+      "onboard_time": 1698144936,
+      "rank": 8,
+      "category": "动漫,艺人"
     },
     {
       "raw_hot": 550138,
@@ -1771,6 +1803,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 471795,
+      "num": 436967,
+      "word": "邓超晒照说和鹿晗年龄相仿",
+      "onboard_time": 1698142054,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471760,
       "num": 471760,
       "word": "吃药不良习惯 食道损伤",
@@ -1899,14 +1939,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 447777,
-      "num": 447777,
-      "word": "你还喝农夫山泉吗",
-      "onboard_time": 1698142292,
-      "rank": 18,
-      "category": "美食"
-    },
-    {
       "raw_hot": 444880,
       "num": 444880,
       "word": "发型也是穿搭的一环",
@@ -1961,14 +1993,6 @@
       "onboard_time": 1698022175,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 436967,
-      "num": 436967,
-      "word": "邓超晒照说和鹿晗年龄相仿",
-      "onboard_time": 1698142054,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 435224,
@@ -2113,6 +2137,14 @@
       "onboard_time": 1697987314,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 412216,
+      "num": 412216,
+      "word": "倪妮金鹤奖最佳女主角",
+      "onboard_time": 1698145594,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 411887,
@@ -3083,6 +3115,14 @@
       "category": "美食,幽默"
     },
     {
+      "raw_hot": 295133,
+      "num": 295133,
+      "word": "为什么人喜欢把手插进米堆里",
+      "onboard_time": 1698143252,
+      "rank": 32,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 294922,
       "num": 294922,
       "word": "赵丽颖彝族服饰写真",
@@ -3563,12 +3603,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257377,
+      "num": 257377,
+      "word": "5.9元粉底液日销5万单暴涨100倍",
+      "onboard_time": 1698145113,
+      "rank": 19,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 256158,
       "num": 210135,
       "word": "这就是街舞",
       "onboard_time": 1697892574,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 256046,
+      "num": 256046,
+      "word": "双十一iPhone价格全系比拼",
+      "onboard_time": 1698143916,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 255984,
@@ -4723,6 +4779,14 @@
       "category": "国外要闻,军事"
     },
     {
+      "raw_hot": 199676,
+      "num": 199676,
+      "word": "对普通人来说500元什么概念",
+      "onboard_time": 1698144754,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 199578,
       "num": 199578,
       "word": "欧阳娜娜妹妹给她织的小包包",
@@ -4785,6 +4849,14 @@
       "onboard_time": 1698105098,
       "rank": 26,
       "category": "电竞,音乐"
+    },
+    {
+      "raw_hot": 197752,
+      "num": 197752,
+      "word": "崔胜澈 那就听欧巴给你唠叨吧",
+      "onboard_time": 1698142894,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 197540,
@@ -4865,14 +4937,6 @@
       "onboard_time": 1697986956,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 195026,
-      "num": 195026,
-      "word": "崔胜澈 那就听欧巴给你唠叨吧",
-      "onboard_time": 1698142894,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 194637,
@@ -5168,6 +5232,14 @@
       "word": "青海唐古拉地区发生4.7级地震",
       "onboard_time": 1698043660,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185209,
+      "num": 185209,
+      "word": "几条大狗凌晨在小区乱窜撕咬流浪猫",
+      "onboard_time": 1698144515,
+      "rank": 33,
       "category": "社会新闻"
     },
     {
@@ -5537,14 +5609,6 @@
       "onboard_time": 1697990252,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169814,
-      "num": 169814,
-      "word": "为什么人喜欢把手插进米堆里",
-      "onboard_time": 1698143252,
-      "rank": 32,
-      "category": "知识科普"
     },
     {
       "raw_hot": 169811,
@@ -6084,7 +6148,7 @@
     },
     {
       "raw_hot": 151273,
-      "num": 181800,
+      "num": 197440,
       "word": "原来大熊猫也有团建聚餐",
       "onboard_time": 1698143614,
       "rank": 29,
@@ -7083,6 +7147,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 123956,
+      "num": 123956,
+      "word": "钟睒睒又双叒叕成中国首富",
+      "onboard_time": 1698145472,
+      "rank": 42,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123785,
       "num": 123785,
       "word": "DK对战BDS",
@@ -7249,6 +7321,14 @@
       "onboard_time": 1698064118,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116416,
+      "num": 230481,
+      "word": "今晚的购物车里都有啥",
+      "onboard_time": 1698143132,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116130,
@@ -7667,6 +7747,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 100979,
+      "num": 100979,
+      "word": "吐司边癫公",
+      "onboard_time": 1698145957,
+      "rank": 49,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 100762,
       "num": 100762,
       "word": "南瓜炖鸡",
@@ -8051,6 +8139,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74456,
+      "num": 198388,
+      "word": "京东直接买现货真香",
+      "onboard_time": 1698143851,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 73344,
       "num": 73344,
       "word": "杨紫超话阅读量超千亿",
@@ -8177,14 +8273,6 @@
       "onboard_time": 1698069642,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 56041,
-      "num": 187183,
-      "word": "今晚的购物车里都有啥",
-      "onboard_time": 1698143132,
-      "rank": 27,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 54559,
@@ -8377,6 +8465,14 @@
       "onboard_time": 1698064359,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24815,
+      "num": 374421,
+      "word": "京东晚8点直播买货和老板谈",
+      "onboard_time": 1698145234,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 23949,
