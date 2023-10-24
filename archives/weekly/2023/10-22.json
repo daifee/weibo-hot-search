@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698122054406,
+  "endTime": 1698124558653,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -27,6 +27,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2524145,
+      "num": 1589912,
+      "word": "许佳琪出现呼吸困难症状",
+      "onboard_time": 1698120878,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2488322,
       "num": 2488322,
       "word": "30岁有十万存款算什么水平",
@@ -49,6 +57,14 @@
       "onboard_time": 1698018450,
       "rank": 10,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 2267498,
+      "num": 2267498,
+      "word": "傅首尔因为愧疚无法下定决心离婚",
+      "onboard_time": 1698122263,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2207132,
@@ -201,14 +217,6 @@
       "onboard_time": 1698029972,
       "rank": 7,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1589912,
-      "num": 1589912,
-      "word": "许佳琪出现呼吸困难症状",
-      "onboard_time": 1698120878,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 1568787,
@@ -395,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1132286,
+      "num": 1132286,
+      "word": "吉林一小区爆炸致1死16伤",
+      "onboard_time": 1698123036,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1115123,
       "num": 778788,
       "word": "深圳机场",
@@ -520,6 +536,14 @@
       "word": "何炅说第一次见黄子韬是19岁",
       "onboard_time": 1697901875,
       "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 949863,
+      "num": 949863,
+      "word": "谢娜杨紫新综艺",
+      "onboard_time": 1698123340,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -1019,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 591068,
+      "num": 591068,
+      "word": "美籍男子抵达香港时行李搜出手枪",
+      "onboard_time": 1698123580,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 588902,
       "num": 588902,
       "word": "福岛核污染水第二轮排海完成",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1698037668,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 585697,
+      "num": 585697,
+      "word": "吉林一小区发生爆炸楼体被炸出大洞",
+      "onboard_time": 1698122561,
+      "rank": 5,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 583041,
@@ -1203,6 +1243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532995,
+      "num": 532995,
+      "word": "我要逆风去 定档",
+      "onboard_time": 1698120937,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 531640,
       "num": 531640,
       "word": "可可西里的网红狼开始带新人了",
@@ -1235,6 +1283,14 @@
       "category": "音乐,互联网"
     },
     {
+      "raw_hot": 524516,
+      "num": 437000,
+      "word": "花儿与少年丝路季开播",
+      "onboard_time": 1698121659,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 523315,
       "num": 523315,
       "word": "100只大闸蟹做成的百蟹瀑布",
@@ -1257,14 +1313,6 @@
       "onboard_time": 1698067840,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 517636,
-      "num": 517636,
-      "word": "我要逆风去 定档",
-      "onboard_time": 1698120937,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 516248,
@@ -1571,6 +1619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 444880,
+      "num": 444880,
+      "word": "发型也是穿搭的一环",
+      "onboard_time": 1698121359,
+      "rank": 17,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 443436,
       "num": 355390,
       "word": "赵露思做了芋儿鸡",
@@ -1633,6 +1689,14 @@
       "onboard_time": 1697942912,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 433095,
+      "num": 433095,
+      "word": "王睡睡姐姐说张硕表演式秀恩爱",
+      "onboard_time": 1698122979,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 432768,
@@ -2187,6 +2251,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 351150,
+      "num": 351150,
+      "word": "被狗咬伤女童200万捐款争议",
+      "onboard_time": 1698123879,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 350983,
       "num": 350983,
       "word": "河边的错误",
@@ -2313,6 +2385,14 @@
       "onboard_time": 1698117574,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 328243,
+      "num": 328243,
+      "word": "外媒炒作中国6艘舰艇同时现身中东",
+      "onboard_time": 1698123762,
+      "rank": 15,
+      "category": "军事"
     },
     {
       "raw_hot": 327871,
@@ -2555,12 +2635,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 304021,
-      "num": 304021,
-      "word": "发型也是穿搭的一环",
-      "onboard_time": 1698121359,
+      "raw_hot": 303146,
+      "num": 303146,
+      "word": "熊猫妈妈剥竹子没有崽崽吃得快",
+      "onboard_time": 1698122382,
       "rank": 17,
-      "category": "美妆"
+      "category": "社会新闻"
     },
     {
       "raw_hot": 302322,
@@ -2835,6 +2915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 280057,
+      "num": 280057,
+      "word": "水眉笔",
+      "onboard_time": 1698121720,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 279298,
       "num": 266983,
       "word": "青岛啤酒股价大跌",
@@ -2971,6 +3059,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 265929,
+      "num": 265929,
+      "word": "狗狗的暗示还不明显吗",
+      "onboard_time": 1698120760,
+      "rank": 41,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 265505,
       "num": 247521,
       "word": "终于意识到中文不是加密语言",
@@ -3033,14 +3129,6 @@
       "onboard_time": 1698057348,
       "rank": 46,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 257725,
-      "num": 257725,
-      "word": "花儿与少年丝路季开播",
-      "onboard_time": 1698121659,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 257587,
@@ -3219,14 +3307,6 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 245438,
-      "num": 245438,
-      "word": "狗狗的暗示还不明显吗",
-      "onboard_time": 1698120760,
-      "rank": 41,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 245122,
       "num": 245122,
       "word": "韩素希谈身材焦虑",
@@ -3385,6 +3465,14 @@
       "onboard_time": 1698037307,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 236745,
+      "num": 236745,
+      "word": "火星6艺人阵容官宣",
+      "onboard_time": 1698124056,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 236186,
@@ -3771,6 +3859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 213619,
+      "num": 213619,
+      "word": "为有暗香来女二",
+      "onboard_time": 1698123941,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213171,
       "num": 213171,
       "word": "霉霉残夏登顶公告牌",
@@ -3841,6 +3937,14 @@
       "onboard_time": 1698029250,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210070,
+      "num": 210070,
+      "word": "朱一龙增肥一天吃六顿饭",
+      "onboard_time": 1698122623,
+      "rank": 29,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 209368,
@@ -4153,14 +4257,6 @@
       "onboard_time": 1698055250,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199354,
-      "num": 199354,
-      "word": "水眉笔",
-      "onboard_time": 1698121720,
-      "rank": 33,
-      "category": "美妆"
     },
     {
       "raw_hot": 199234,
@@ -6163,6 +6259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123962,
+      "num": 123962,
+      "word": "牛仔裤穿搭思路",
+      "onboard_time": 1698122679,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 123785,
       "num": 123785,
       "word": "DK对战BDS",
@@ -6313,6 +6417,14 @@
       "onboard_time": 1698064118,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117122,
+      "num": 117122,
+      "word": "开机广告消失后电视或将涨价",
+      "onboard_time": 1698124475,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 116130,
@@ -6615,6 +6727,14 @@
       "num": 132034,
       "word": "科威特运动员在轮椅上舞蹈",
       "onboard_time": 1697982813,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 104975,
+      "num": 104975,
+      "word": "中国的盲人男足队有多牛",
+      "onboard_time": 1698124537,
       "rank": 49,
       "category": "体育"
     },
