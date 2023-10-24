@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698154448633,
+  "endTime": 1698156903046,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -739,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 922830,
+      "num": 922830,
+      "word": "双十一 满减",
+      "onboard_time": 1698151477,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 918360,
       "num": 918360,
       "word": "286斤女生坐高铁二等座引争议",
@@ -755,12 +763,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 907852,
+      "num": 907852,
+      "word": "周迅 把我跟拖垃圾袋一样拖上来",
+      "onboard_time": 1698152555,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 907483,
       "num": 907483,
       "word": "老人捡花生被卷收割机身亡",
       "onboard_time": 1698062860,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 904062,
+      "num": 904062,
+      "word": "花知晓腮红",
+      "onboard_time": 1698154116,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 902048,
@@ -809,14 +833,6 @@
       "onboard_time": 1698032014,
       "rank": 49,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 839754,
-      "num": 839754,
-      "word": "周迅 把我跟拖垃圾袋一样拖上来",
-      "onboard_time": 1698152555,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 838863,
@@ -1001,14 +1017,6 @@
       "onboard_time": 1697964031,
       "rank": 2,
       "category": "美食"
-    },
-    {
-      "raw_hot": 731235,
-      "num": 731235,
-      "word": "双十一 满减",
-      "onboard_time": 1698151477,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 730768,
@@ -2843,6 +2851,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331311,
+      "num": 241921,
+      "word": "王一博跟小动物PK热度",
+      "onboard_time": 1698154417,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 331213,
       "num": 331213,
       "word": "内塔尼亚胡被要求下台",
@@ -3707,6 +3723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259259,
+      "num": 241116,
+      "word": "田耕纪的结局连主演都不知道",
+      "onboard_time": 1698156640,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258900,
       "num": 258900,
       "word": "美ONE回应京东采销喊话李佳琦",
@@ -3819,6 +3843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252961,
+      "num": 252961,
+      "word": "莫文蔚台上演唱 巩俐台下打光",
+      "onboard_time": 1698152257,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 252552,
       "num": 252552,
       "word": "苹果CEO库克称超95%产品在中国造",
@@ -3921,14 +3953,6 @@
       "onboard_time": 1698120819,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 245618,
-      "num": 245618,
-      "word": "莫文蔚台上演唱 巩俐台下打光",
-      "onboard_time": 1698152257,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 245602,
@@ -4233,6 +4257,14 @@
       "onboard_time": 1697946871,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230383,
+      "num": 230383,
+      "word": "突然学会自我介绍了",
+      "onboard_time": 1698151655,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 230273,
@@ -4923,6 +4955,14 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 200562,
+      "num": 175150,
+      "word": "为什么说今年双十一更便宜了",
+      "onboard_time": 1698142833,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200142,
       "num": 186683,
       "word": "当在咸鱼上刷到自己丢失的演出门票",
@@ -5475,6 +5515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182442,
+      "num": 182442,
+      "word": "花儿与少年空镜海报",
+      "onboard_time": 1698155315,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 182142,
       "num": 182142,
       "word": "在日本吃个点心有多复杂",
@@ -5648,6 +5696,14 @@
       "word": "还是四川的嬢嬢会玩",
       "onboard_time": 1698035570,
       "rank": 48,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 174175,
+      "num": 174175,
+      "word": "警方破获涉25亿特大跨境赌博案",
+      "onboard_time": 1698149620,
+      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -5867,14 +5923,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 168903,
-      "num": 168903,
-      "word": "花知晓腮红",
-      "onboard_time": 1698154116,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 168729,
       "num": 168729,
       "word": "一看就知道是意大利的小孩子",
@@ -5889,14 +5937,6 @@
       "onboard_time": 1697962472,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 168155,
-      "num": 168155,
-      "word": "警方破获涉25亿特大跨境赌博案",
-      "onboard_time": 1698149620,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167655,
@@ -6699,6 +6739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141039,
+      "num": 141039,
+      "word": "女孩五月天演唱会给去世爸爸点歌",
+      "onboard_time": 1698155016,
+      "rank": 39,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 140996,
       "num": 140996,
       "word": "上海通报网传民警上门抓德牧",
@@ -6817,14 +6865,6 @@
       "onboard_time": 1697964992,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 138727,
-      "num": 138727,
-      "word": "突然学会自我介绍了",
-      "onboard_time": 1698151655,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 138557,
@@ -7683,6 +7723,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114176,
+      "num": 137823,
+      "word": "粉丝评于适健身视频",
+      "onboard_time": 1698156098,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114056,
       "num": 108229,
       "word": "泰国VOGUE报道迪丽热巴",
@@ -8195,6 +8243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95863,
+      "num": 137784,
+      "word": "10后面对挫折的态度大人自愧不如",
+      "onboard_time": 1698156757,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 95450,
       "num": 95450,
       "word": "C罗任意球破门",
@@ -8283,20 +8339,20 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 88524,
+      "num": 303490,
+      "word": "抢到丝塔芙了吗",
+      "onboard_time": 1698156040,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 87794,
       "num": 87794,
       "word": "周星驰风格宿舍喜剧",
       "onboard_time": 1697970812,
       "rank": 49,
       "category": "幽默,艺人"
-    },
-    {
-      "raw_hot": 87386,
-      "num": 146756,
-      "word": "为什么说今年双十一更便宜了",
-      "onboard_time": 1698142833,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 87286,
@@ -8313,14 +8369,6 @@
       "onboard_time": 1697993305,
       "rank": 32,
       "category": "科技"
-    },
-    {
-      "raw_hot": 84921,
-      "num": 147622,
-      "word": "王一博跟小动物PK热度",
-      "onboard_time": 1698154417,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 84869,
@@ -8635,6 +8683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50324,
+      "num": 1379466,
+      "word": "为自强不息顽强拼搏的他们加油",
+      "onboard_time": 1698149321,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 49072,
       "num": 1119755,
       "word": "比亚残运会赛事更昂扬的是人生",
@@ -8713,14 +8769,6 @@
       "onboard_time": 1698149979,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 41001,
-      "num": 1379466,
-      "word": "为自强不息顽强拼搏的他们加油",
-      "onboard_time": 1698149321,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 40220,

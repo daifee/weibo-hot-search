@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698154448633,
+  "endTime": 1698156903046,
   "band_list": [
     {
       "raw_hot": 7985970,
@@ -243,6 +243,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 922830,
+      "num": 922830,
+      "word": "双十一 满减",
+      "onboard_time": 1698151477,
+      "rank": 42,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 907852,
+      "num": 907852,
+      "word": "周迅 把我跟拖垃圾袋一样拖上来",
+      "onboard_time": 1698152555,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 904062,
+      "num": 904062,
+      "word": "花知晓腮红",
+      "onboard_time": 1698154116,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 902048,
       "num": 902048,
       "word": "谁把辛芷蕾的共享单车骑走了",
@@ -265,14 +289,6 @@
       "onboard_time": 1698142292,
       "rank": 18,
       "category": "美食"
-    },
-    {
-      "raw_hot": 839754,
-      "num": 839754,
-      "word": "周迅 把我跟拖垃圾袋一样拖上来",
-      "onboard_time": 1698152555,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 838863,
@@ -321,14 +337,6 @@
       "onboard_time": 1698106780,
       "rank": 10,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 731235,
-      "num": 731235,
-      "word": "双十一 满减",
-      "onboard_time": 1698151477,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 729464,
@@ -923,6 +931,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 331311,
+      "num": 241921,
+      "word": "王一博跟小动物PK热度",
+      "onboard_time": 1698154417,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330475,
       "num": 330475,
       "word": "于适王影璐新片演情侣",
@@ -1179,6 +1195,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 259259,
+      "num": 241116,
+      "word": "田耕纪的结局连主演都不知道",
+      "onboard_time": 1698156640,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258900,
       "num": 258900,
       "word": "美ONE回应京东采销喊话李佳琦",
@@ -1227,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252961,
+      "num": 252961,
+      "word": "莫文蔚台上演唱 巩俐台下打光",
+      "onboard_time": 1698152257,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 251290,
       "num": 251290,
       "word": "微博迎新之夜就差报身份证了",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1698120819,
       "rank": 36,
       "category": "科技"
-    },
-    {
-      "raw_hot": 245618,
-      "num": 245618,
-      "word": "莫文蔚台上演唱 巩俐台下打光",
-      "onboard_time": 1698152257,
-      "rank": 24,
-      "category": "演出"
     },
     {
       "raw_hot": 244512,
@@ -1337,6 +1361,14 @@
       "onboard_time": 1698115773,
       "rank": 45,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 230383,
+      "num": 230383,
+      "word": "突然学会自我介绍了",
+      "onboard_time": 1698151655,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 225590,
@@ -1505,6 +1537,14 @@
       "onboard_time": 1698133594,
       "rank": 26,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 200562,
+      "num": 175150,
+      "word": "为什么说今年双十一更便宜了",
+      "onboard_time": 1698142833,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 199963,
@@ -1691,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182442,
+      "num": 182442,
+      "word": "花儿与少年空镜海报",
+      "onboard_time": 1698155315,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 180845,
       "num": 180845,
       "word": "毛不易你是会嗑cp的",
@@ -1745,6 +1793,14 @@
       "onboard_time": 1698136354,
       "rank": 42,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 174175,
+      "num": 174175,
+      "word": "警方破获涉25亿特大跨境赌博案",
+      "onboard_time": 1698149620,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 173679,
@@ -1827,28 +1883,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 168903,
-      "num": 168903,
-      "word": "花知晓腮红",
-      "onboard_time": 1698154116,
-      "rank": 33,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 168729,
       "num": 168729,
       "word": "一看就知道是意大利的小孩子",
       "onboard_time": 1698108822,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 168155,
-      "num": 168155,
-      "word": "警方破获涉25亿特大跨境赌博案",
-      "onboard_time": 1698149620,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 167655,
@@ -2123,6 +2163,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 141039,
+      "num": 141039,
+      "word": "女孩五月天演唱会给去世爸爸点歌",
+      "onboard_time": 1698155016,
+      "rank": 39,
+      "category": "社会新闻,演出"
+    },
+    {
       "raw_hot": 140996,
       "num": 140996,
       "word": "上海通报网传民警上门抓德牧",
@@ -2169,14 +2217,6 @@
       "onboard_time": 1698115536,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 138727,
-      "num": 138727,
-      "word": "突然学会自我介绍了",
-      "onboard_time": 1698151655,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 137773,
@@ -2467,6 +2507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114176,
+      "num": 137823,
+      "word": "粉丝评于适健身视频",
+      "onboard_time": 1698156098,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113522,
       "num": 113522,
       "word": "花莲5.9级地震",
@@ -2635,6 +2683,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 95863,
+      "num": 137784,
+      "word": "10后面对挫折的态度大人自愧不如",
+      "onboard_time": 1698156757,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93009,
       "num": 194323,
       "word": "零成本自制化妆刷清洗工具",
@@ -2659,12 +2715,12 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 87386,
-      "num": 146756,
-      "word": "为什么说今年双十一更便宜了",
-      "onboard_time": 1698142833,
-      "rank": 49,
-      "category": "社会新闻"
+      "raw_hot": 88524,
+      "num": 303490,
+      "word": "抢到丝塔芙了吗",
+      "onboard_time": 1698156040,
+      "rank": 14,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 85254,
@@ -2673,14 +2729,6 @@
       "onboard_time": 1698071264,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 84921,
-      "num": 147622,
-      "word": "王一博跟小动物PK热度",
-      "onboard_time": 1698154417,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 84403,
@@ -2787,6 +2835,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50324,
+      "num": 1379466,
+      "word": "为自强不息顽强拼搏的他们加油",
+      "onboard_time": 1698149321,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48651,
       "num": 54981,
       "word": "王子浩和黄仁俊钟辰乐跳challenge",
@@ -2809,14 +2865,6 @@
       "onboard_time": 1698149979,
       "rank": 2,
       "category": "科技"
-    },
-    {
-      "raw_hot": 41001,
-      "num": 1379466,
-      "word": "为自强不息顽强拼搏的他们加油",
-      "onboard_time": 1698149321,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 40220,
