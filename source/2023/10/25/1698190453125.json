@@ -1,0 +1,410 @@
+{
+  "runTime": 1698190453125,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1809959,
+        "num": 1809959,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 0,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 807035,
+        "num": 807035,
+        "word": "王志刚被免去科学技术部部长职务",
+        "onboard_time": 1698149740,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 82798,
+        "num": 678686,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 556248,
+        "num": 556248,
+        "word": "苹果将举办发布会",
+        "onboard_time": 1698188843,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 386054,
+        "num": 386054,
+        "word": "中学老师批改作业写下你是孤儿吗评语",
+        "onboard_time": 1698188724,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 370761,
+        "num": 370761,
+        "word": "白敬亭何泓姗二搭爷青回",
+        "onboard_time": 1698159576,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263413,
+        "num": 263413,
+        "word": "宝爸口含冰棍给生病宝宝人工降温",
+        "onboard_time": 1698189807,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 230958,
+        "num": 230958,
+        "word": "我国将增发1万亿元国债",
+        "onboard_time": 1698149620,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213692,
+        "num": 213692,
+        "word": "双十一 洗发水",
+        "onboard_time": 1698161673,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 208723,
+        "num": 208723,
+        "word": "周迅 把我跟拖垃圾袋一样拖上来",
+        "onboard_time": 1698152555,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 854269,
+        "num": 208422,
+        "word": "男子手持铁锹将没拴绳柯基打死",
+        "onboard_time": 1698175273,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 745698,
+        "num": 208116,
+        "word": "外媒曝侯孝贤患失智症",
+        "onboard_time": 1698189265,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 580483,
+        "num": 207801,
+        "word": "海氏电器实名举报京东",
+        "onboard_time": 1698157958,
+        "rank": 12,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 502718,
+        "num": 207303,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 13,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 207207,
+        "num": 207207,
+        "word": "二宫和也退社",
+        "onboard_time": 1698188664,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394981,
+        "num": 204235,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 15,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 214759,
+        "num": 197997,
+        "word": "克宫回应普京健康出问题说法",
+        "onboard_time": 1698189927,
+        "rank": 16,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 185910,
+        "num": 185910,
+        "word": "美ONE要求品牌保底价否则赔偿200万",
+        "onboard_time": 1698172636,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 181662,
+        "num": 181662,
+        "word": "女子曝15万存款被农行私自改成购买",
+        "onboard_time": 1698139471,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175523,
+        "num": 175523,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 19,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 167069,
+        "num": 167069,
+        "word": "我国艾滋病患者治疗成功率已超过90%",
+        "onboard_time": 1698149979,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166651,
+        "num": 166651,
+        "word": "问心 第二季",
+        "onboard_time": 1698163413,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161275,
+        "num": 161275,
+        "word": "阿娇仙乐 冰山美人",
+        "onboard_time": 1698188724,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152371,
+        "num": 152371,
+        "word": "妹妹晕倒哥哥飞奔找到值得信赖的人",
+        "onboard_time": 1698188724,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142751,
+        "num": 142751,
+        "word": "秦岭野生大熊猫妈妈带崽上树",
+        "onboard_time": 1698189387,
+        "rank": 24,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 136918,
+        "num": 136918,
+        "word": "邓为为对手戏演员磨掉棍子的刺",
+        "onboard_time": 1698161795,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136699,
+        "num": 136699,
+        "word": "欧冠",
+        "onboard_time": 1698188965,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135141,
+        "num": 135141,
+        "word": "高铁乘客爽快给孩子们换座被奖励可乐",
+        "onboard_time": 1698189807,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 130833,
+        "num": 130833,
+        "word": "不同身材女生穿同款裙子",
+        "onboard_time": 1698157536,
+        "rank": 28,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 129718,
+        "num": 129718,
+        "word": "陕西一交通局拖欠男子770万工程款",
+        "onboard_time": 1698157658,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118801,
+        "num": 118801,
+        "word": "奥纳纳扑点",
+        "onboard_time": 1698189445,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115357,
+        "num": 115357,
+        "word": "曼联1比0哥本哈根",
+        "onboard_time": 1698189145,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114318,
+        "num": 114318,
+        "word": "林心如年轻时的盛世容颜",
+        "onboard_time": 1698158978,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 112584,
+        "num": 112584,
+        "word": "田耕纪的结局连主演都不知道",
+        "onboard_time": 1698156640,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104582,
+        "num": 104582,
+        "word": "浙江107岁老人坚持每天上山种地",
+        "onboard_time": 1698188664,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102153,
+        "num": 102153,
+        "word": "警方破获涉25亿特大跨境赌博案",
+        "onboard_time": 1698149620,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 96586,
+        "num": 96586,
+        "word": "这种美发方式很致癌",
+        "onboard_time": 1698158918,
+        "rank": 36,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 94935,
+        "num": 94935,
+        "word": "双十一 卫生巾",
+        "onboard_time": 1698149979,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93149,
+        "num": 93149,
+        "word": "花知晓腮红",
+        "onboard_time": 1698154116,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 86994,
+        "num": 86994,
+        "word": "突然发现脆柿子也很好吃",
+        "onboard_time": 1698190349,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 85570,
+        "num": 85570,
+        "word": "塞维利亚1比2阿森纳",
+        "onboard_time": 1698189145,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82587,
+        "num": 82587,
+        "word": "老人退休后为妻子补上缺失的浪漫",
+        "onboard_time": 1698188724,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 79054,
+        "num": 79054,
+        "word": "以后我的人设就是任性独生女",
+        "onboard_time": 1698175694,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78437,
+        "num": 78437,
+        "word": "加拉塔萨雷1比3拜仁",
+        "onboard_time": 1698189865,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77508,
+        "num": 77508,
+        "word": "华浅苏醒",
+        "onboard_time": 1698161855,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77438,
+        "num": 77438,
+        "word": "小狗把自己藏进了行李箱里",
+        "onboard_time": 1698174855,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 76561,
+        "num": 77201,
+        "word": "张小斐cos阿童木",
+        "onboard_time": 1698184634,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77125,
+        "num": 77125,
+        "word": "高校食堂干锅虾28一份有61只虾",
+        "onboard_time": 1698144334,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76102,
+        "num": 76102,
+        "word": "双11不买清单",
+        "onboard_time": 1698182893,
+        "rank": 48,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 70637,
+        "num": 70637,
+        "word": "千万别找射手座借钱",
+        "onboard_time": 1698147395,
+        "rank": 49,
+        "category": "情感,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
+    }
+  }
+}
