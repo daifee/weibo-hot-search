@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698132845912,
+  "endTime": 1698135714281,
   "band_list": [
     {
       "raw_hot": 3536467,
@@ -17,6 +17,14 @@
       "onboard_time": 1698120878,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2444209,
+      "num": 470482,
+      "word": "京东采销喊话李佳琦",
+      "onboard_time": 1698131073,
+      "rank": 10,
+      "category": "网红,互联网"
     },
     {
       "raw_hot": 2286708,
@@ -83,14 +91,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1232841,
-      "num": 470482,
-      "word": "京东采销喊话李佳琦",
-      "onboard_time": 1698131073,
-      "rank": 10,
-      "category": "网红,互联网"
-    },
-    {
       "raw_hot": 1213560,
       "num": 1213560,
       "word": "以色列网红嘲讽遭轰炸的巴勒斯坦平民被批",
@@ -107,6 +107,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1075721,
+      "num": 1075721,
+      "word": "孙卓被拐案抗诉申请被驳回",
+      "onboard_time": 1698132215,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 964068,
       "num": 964068,
       "word": "咱仨把燃冬演好比什么都重要",
@@ -121,6 +129,14 @@
       "onboard_time": 1698123340,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 940627,
+      "num": 940627,
+      "word": "爱国主义教育法表决通过自明年元旦起施行",
+      "onboard_time": 1698133472,
+      "rank": 3,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 939107,
@@ -251,12 +267,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 623029,
+      "num": 623029,
+      "word": "花西子",
+      "onboard_time": 1698132692,
+      "rank": 24,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 610075,
       "num": 610075,
       "word": "独自出门失踪3岁女童已找到",
       "onboard_time": 1698130715,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 604142,
+      "num": 465214,
+      "word": "肖战笑颜分析",
+      "onboard_time": 1698133833,
+      "rank": 11,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 599304,
@@ -296,14 +328,6 @@
       "word": "700万动迁款分给4名子女后无人赡养",
       "onboard_time": 1698073902,
       "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545112,
-      "num": 545112,
-      "word": "孙卓被拐案抗诉申请被驳回",
-      "onboard_time": 1698132215,
-      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -379,12 +403,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 487660,
+      "num": 463548,
+      "word": "张婧仪晒新美甲",
+      "onboard_time": 1698134493,
+      "rank": 12,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 485983,
       "num": 485983,
       "word": "恋与制作人 你说公主请抽卡",
       "onboard_time": 1698119915,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 483967,
+      "num": 483967,
+      "word": "王一博方否认将演六姊妹",
+      "onboard_time": 1698134256,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 471760,
@@ -403,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 454772,
+      "num": 454772,
+      "word": "李佳琦直播间的底价协议合理吗",
+      "onboard_time": 1698134675,
+      "rank": 13,
+      "category": "网红"
+    },
+    {
       "raw_hot": 454430,
       "num": 454430,
       "word": "迪丽热巴碎钻流苏裙",
@@ -417,6 +465,14 @@
       "onboard_time": 1698121359,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 438389,
+      "num": 438389,
+      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
+      "onboard_time": 1698130473,
+      "rank": 30,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 433095,
@@ -715,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 284116,
+      "num": 284116,
+      "word": "樱井敦司去世",
+      "onboard_time": 1698133354,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 284001,
       "num": 284001,
       "word": "问心",
@@ -795,6 +859,14 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 263040,
+      "num": 263040,
+      "word": "女子结婚要求前同事还礼400元",
+      "onboard_time": 1698133294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 257986,
       "num": 257986,
       "word": "帕梅拉新浪扫楼",
@@ -841,14 +913,6 @@
       "onboard_time": 1698120878,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 250790,
-      "num": 250790,
-      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
-      "onboard_time": 1698130473,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 250059,
@@ -947,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 216311,
-      "num": 216311,
-      "word": "花西子",
-      "onboard_time": 1698132692,
-      "rank": 24,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 215279,
       "num": 215279,
       "word": "苹果称iPhone15是图像残留不是烧屏",
@@ -969,6 +1025,14 @@
       "onboard_time": 1698123941,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 213362,
+      "num": 213362,
+      "word": "花少5回归全自助出国游",
+      "onboard_time": 1698132992,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 213171,
@@ -1059,6 +1123,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 200898,
+      "num": 200898,
+      "word": "关晓彤国风百花妆",
+      "onboard_time": 1698133594,
+      "rank": 26,
+      "category": "作品衍生,美妆"
+    },
+    {
       "raw_hot": 199950,
       "num": 199950,
       "word": "边伯贤 PARANOIA",
@@ -1115,8 +1187,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 194334,
+      "num": 194334,
+      "word": "于适看一下你的狗好了",
+      "onboard_time": 1698135033,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192321,
-      "num": 192321,
+      "num": 194326,
       "word": "数码宝贝第二部主题曲公开",
       "onboard_time": 1698129454,
       "rank": 33,
@@ -1228,7 +1308,7 @@
     },
     {
       "raw_hot": 176806,
-      "num": 176806,
+      "num": 194324,
       "word": "水晶葡萄妆",
       "onboard_time": 1698131673,
       "rank": 43,
@@ -1793,6 +1873,30 @@
       "onboard_time": 1698118595,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 97838,
+      "num": 194325,
+      "word": "男子突然休克警民40秒暖心救助",
+      "onboard_time": 1698134493,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95286,
+      "num": 194324,
+      "word": "定妆喷雾是智商税吗",
+      "onboard_time": 1698135273,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 93009,
+      "num": 194323,
+      "word": "零成本自制化妆刷清洗工具",
+      "onboard_time": 1698135273,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 89713,
