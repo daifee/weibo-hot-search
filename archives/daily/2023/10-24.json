@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698125658774,
+  "endTime": 1698128596371,
   "band_list": [
     {
       "raw_hot": 2524145,
@@ -9,6 +9,14 @@
       "onboard_time": 1698120878,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2286708,
+      "num": 2286708,
+      "word": "迪丽热巴微信名",
+      "onboard_time": 1698126694,
+      "rank": 0,
+      "category": "综艺"
     },
     {
       "raw_hot": 2267498,
@@ -25,6 +33,14 @@
       "onboard_time": 1698076508,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1895286,
+      "num": 1895286,
+      "word": "疯狂小杨哥回应电商挤压实体经济",
+      "onboard_time": 1698125795,
+      "rank": 1,
+      "category": "财经,网红"
     },
     {
       "raw_hot": 1638497,
@@ -99,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 902048,
+      "num": 902048,
+      "word": "谁把辛芷蕾的共享单车骑走了",
+      "onboard_time": 1698126093,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 866886,
       "num": 866886,
       "word": "上海迪士尼疯狂动物城12月20日开放",
@@ -163,12 +187,36 @@
       "category": "科技,国内要闻"
     },
     {
+      "raw_hot": 635394,
+      "num": 635394,
+      "word": "科大讯飞",
+      "onboard_time": 1698126876,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 627638,
       "num": 627638,
       "word": "被狗咬伤女童200万捐款争议",
       "onboard_time": 1698123879,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 599304,
+      "num": 599304,
+      "word": "林心如参加首档综艺",
+      "onboard_time": 1698125795,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 586800,
+      "num": 484177,
+      "word": "沈梦辰想把这个妆焊死在脸上",
+      "onboard_time": 1698127297,
+      "rank": 11,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 585697,
@@ -219,6 +267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 532500,
+      "num": 532500,
+      "word": "印尼封禁TikTok电商是一个错误",
+      "onboard_time": 1698126637,
+      "rank": 8,
+      "category": "科技"
+    },
+    {
       "raw_hot": 524516,
       "num": 437000,
       "word": "花儿与少年丝路季开播",
@@ -251,6 +307,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 501051,
+      "num": 481833,
+      "word": "迪丽热巴快把自己跑yue了",
+      "onboard_time": 1698125017,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 494142,
       "num": 494142,
       "word": "外媒炒作中国6艘舰艇同时现身中东",
@@ -265,6 +329,14 @@
       "onboard_time": 1698119915,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 477485,
+      "num": 477485,
+      "word": "眉笔 消费降级",
+      "onboard_time": 1698127475,
+      "rank": 13,
+      "category": "美妆"
     },
     {
       "raw_hot": 455130,
@@ -289,14 +361,6 @@
       "onboard_time": 1698121359,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 444247,
-      "num": 405579,
-      "word": "迪丽热巴快把自己跑yue了",
-      "onboard_time": 1698125017,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 433095,
@@ -371,6 +435,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 387053,
+      "num": 387053,
+      "word": "六姊妹主演阵容",
+      "onboard_time": 1698126997,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384487,
       "num": 384487,
       "word": "学者称股市涨1000点居民财富多25万亿",
@@ -425,6 +497,14 @@
       "onboard_time": 1698065261,
       "rank": 5,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361289,
+      "num": 361289,
+      "word": "杨舒予再发文拒绝粉丝接机",
+      "onboard_time": 1698125375,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 359828,
@@ -539,6 +619,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 287653,
+      "num": 287653,
+      "word": "广州草莓音乐节阵容",
+      "onboard_time": 1698126637,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 287472,
       "num": 287472,
       "word": "宋雨琦让minnie叫范丞丞显眼包",
@@ -619,6 +707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253845,
+      "num": 237022,
+      "word": "日本科学家称人类精子打败了牛顿",
+      "onboard_time": 1698125795,
+      "rank": 21,
+      "category": "科技"
+    },
+    {
       "raw_hot": 253837,
       "num": 253837,
       "word": "字母哥顶薪续约雄鹿3年",
@@ -673,6 +769,14 @@
       "onboard_time": 1698055428,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 237816,
+      "num": 237816,
+      "word": "π是无限不循环小数的可视化",
+      "onboard_time": 1698127775,
+      "rank": 19,
+      "category": "知识科普"
     },
     {
       "raw_hot": 234944,
@@ -827,6 +931,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198518,
+      "num": 198518,
+      "word": "张艺兴演唱会",
+      "onboard_time": 1698127775,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 198405,
       "num": 198405,
       "word": "英雄联盟心之钢出道单曲MV",
@@ -849,6 +961,14 @@
       "onboard_time": 1698114693,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195568,
+      "num": 195568,
+      "word": "向全球顶级富豪征税2%或可创收2500亿美元",
+      "onboard_time": 1698126816,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 190097,
@@ -913,6 +1033,14 @@
       "onboard_time": 1698113316,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179270,
+      "num": 179270,
+      "word": "徐老师镜头下的杨紫",
+      "onboard_time": 1698126036,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 179223,
@@ -993,6 +1121,22 @@
       "onboard_time": 1698106596,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167082,
+      "num": 167082,
+      "word": "恋与王室 皇女的诱惑",
+      "onboard_time": 1698126637,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 164240,
+      "num": 164240,
+      "word": "秦岚电音朵拉",
+      "onboard_time": 1698126335,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 160561,
@@ -1155,6 +1299,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 136525,
+      "num": 142948,
+      "word": "霜降是秋冬季温差最大时段",
+      "onboard_time": 1698127899,
+      "rank": 37,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 136300,
       "num": 136300,
       "word": "化妆 表达自我的载体",
@@ -1219,14 +1371,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 132083,
-      "num": 132083,
-      "word": "杨舒予再发文拒绝粉丝接机",
-      "onboard_time": 1698125375,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131332,
       "num": 131332,
       "word": "他们年龄加起来有221岁携手走过90年",
@@ -1257,6 +1401,14 @@
       "onboard_time": 1698095354,
       "rank": 42,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 126841,
+      "num": 142942,
+      "word": "杜兰特说勇士应该退役自己球衣",
+      "onboard_time": 1698125556,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 126621,
@@ -1403,12 +1555,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 95805,
-      "num": 95805,
-      "word": "杜兰特说勇士应该退役自己球衣",
-      "onboard_time": 1698125556,
+      "raw_hot": 89713,
+      "num": 142874,
+      "word": "罗云熙芭莎大片",
+      "onboard_time": 1698126036,
       "rank": 49,
-      "category": "体育"
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 85254,
@@ -1436,7 +1588,7 @@
     },
     {
       "raw_hot": 82404,
-      "num": 139371,
+      "num": 142938,
       "word": "天猫听劝版双11今晚八点上线",
       "onboard_time": 1698120396,
       "rank": 49,
