@@ -1,0 +1,410 @@
+{
+  "runTime": 1698114922602,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 935066,
+        "num": 935066,
+        "word": "为有暗香来 丫鬟妆造",
+        "onboard_time": 1698113253,
+        "rank": 0,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 727262,
+        "num": 727262,
+        "word": "咱仨把燃冬演好比什么都重要",
+        "onboard_time": 1698106418,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19458,
+        "num": 634058,
+        "word": "关爱老人在今天更在每一天",
+        "onboard_time": 1698064359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1223742,
+        "num": 629998,
+        "word": "父亲要求月入6000元女儿付4500元赡养费",
+        "onboard_time": 1698108278,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 574214,
+        "num": 574214,
+        "word": "字节跳动旗下PICO近半员工离开",
+        "onboard_time": 1698112294,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 839396,
+        "num": 569822,
+        "word": "超千名网友向被狗咬伤女童申请退款",
+        "onboard_time": 1698076508,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 433492,
+        "num": 433492,
+        "word": "以色列网红嘲讽遭轰炸的巴勒斯坦平民被批",
+        "onboard_time": 1698106657,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 410959,
+        "num": 410959,
+        "word": "中美经济工作组举行第一次会议",
+        "onboard_time": 1698112474,
+        "rank": 7,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 399279,
+        "num": 399279,
+        "word": "厂家称5.9元粉底液是活动价",
+        "onboard_time": 1698074440,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 348121,
+        "num": 348121,
+        "word": "被狗咬伤女童200万捐款已被退款近5万",
+        "onboard_time": 1698114215,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 335005,
+        "num": 335005,
+        "word": "等一下 有人高价想要",
+        "onboard_time": 1698112294,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 334448,
+        "num": 334448,
+        "word": "警方通报男子驾车撞击碾压保安",
+        "onboard_time": 1698111873,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 317906,
+        "num": 317906,
+        "word": "A股",
+        "onboard_time": 1698112654,
+        "rank": 12,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 310158,
+        "num": 310158,
+        "word": "女子举报嫂子身为公职人员婚内出轨生子",
+        "onboard_time": 1698082160,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132638,
+        "num": 286709,
+        "word": "拼多多双11主打一个无需技巧",
+        "onboard_time": 1698062322,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 522175,
+        "num": 285553,
+        "word": "开学一个多月后儿童精神科爆满",
+        "onboard_time": 1698108278,
+        "rank": 15,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 275222,
+        "num": 275222,
+        "word": "黄渤加入李冰冰周也自拍",
+        "onboard_time": 1698106780,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 272446,
+        "num": 272446,
+        "word": "深圳机场通报不明升空物致航班延误",
+        "onboard_time": 1698109601,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 268850,
+        "num": 268850,
+        "word": "学者称股市涨1000点居民财富多25万亿",
+        "onboard_time": 1698113735,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268410,
+        "num": 268410,
+        "word": "金希澈和自己的婚礼",
+        "onboard_time": 1698106359,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 537103,
+        "num": 266136,
+        "word": "男子看黄网一夜转账26次被骗450万",
+        "onboard_time": 1698113493,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 247521,
+        "num": 247521,
+        "word": "终于意识到中文不是加密语言",
+        "onboard_time": 1698111816,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 234113,
+        "num": 234113,
+        "word": "文科的核心竞争力",
+        "onboard_time": 1698109238,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 225590,
+        "num": 225590,
+        "word": "檀健次首专",
+        "onboard_time": 1698113613,
+        "rank": 23,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 202863,
+        "num": 202863,
+        "word": "泡面蒸一下比煮的好吃一百倍",
+        "onboard_time": 1698105517,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 196205,
+        "num": 196205,
+        "word": "男子江边遇涨潮民警摸着石头救人",
+        "onboard_time": 1698114693,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188354,
+        "num": 188354,
+        "word": "2023国际乒联第43周排名",
+        "onboard_time": 1698114454,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174998,
+        "num": 174998,
+        "word": "邓为给张晚意分享披萨",
+        "onboard_time": 1698107440,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173281,
+        "num": 173281,
+        "word": "毛不易你是会嗑cp的",
+        "onboard_time": 1698113316,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153873,
+        "num": 153873,
+        "word": "女子全勤工作1个月发257元工资",
+        "onboard_time": 1698070423,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248998,
+        "num": 151451,
+        "word": "我爸把我的嫁妆给败光了",
+        "onboard_time": 1698114753,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 193173,
+        "num": 150605,
+        "word": "佛山电翰明星版",
+        "onboard_time": 1698114333,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147977,
+        "num": 147977,
+        "word": "700万动迁款分给4名子女后无人赡养",
+        "onboard_time": 1698073902,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 132593,
+        "num": 132593,
+        "word": "中国台湾地区附近发生5.9级左右地震",
+        "onboard_time": 1698103408,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131016,
+        "num": 131016,
+        "word": "宋雨琦让minnie叫范丞丞显眼包",
+        "onboard_time": 1698104914,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125783,
+        "num": 125783,
+        "word": "程序员节",
+        "onboard_time": 1698111156,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 125689,
+        "num": 125689,
+        "word": "aespa回归概念图",
+        "onboard_time": 1698106596,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123842,
+        "num": 123842,
+        "word": "李雪琴也逃不过马立奥一家的魅力",
+        "onboard_time": 1698114753,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121575,
+        "num": 121575,
+        "word": "朱一龙朗读河边的错误作者序",
+        "onboard_time": 1698113735,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120929,
+        "num": 120929,
+        "word": "10岁女孩悄悄为就餐民警买单",
+        "onboard_time": 1698104674,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120823,
+        "num": 120823,
+        "word": "怪不得爸妈让我少看偶像剧",
+        "onboard_time": 1698106475,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 113765,
+        "num": 113765,
+        "word": "霜降",
+        "onboard_time": 1698102387,
+        "rank": 41,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 112770,
+        "num": 112770,
+        "word": "肖战深情演绎夜空中最亮的星",
+        "onboard_time": 1698083417,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109206,
+        "num": 109206,
+        "word": "华晨宇 虚幻与现实",
+        "onboard_time": 1698114753,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105389,
+        "num": 105389,
+        "word": "崇州被狗咬伤女童目前医疗支出近6万元",
+        "onboard_time": 1698069043,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105359,
+        "num": 105359,
+        "word": "于适陈小舟杀青",
+        "onboard_time": 1698103590,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101052,
+        "num": 101052,
+        "word": "边伯贤 PARANOIA",
+        "onboard_time": 1698105456,
+        "rank": 46,
+        "category": "电竞,音乐"
+      },
+      {
+        "raw_hot": 98204,
+        "num": 98204,
+        "word": "江苏发布幽门螺杆菌感染与耐药地图",
+        "onboard_time": 1698104130,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93954,
+        "num": 93954,
+        "word": "男子街头晕倒路人纷纷送吃送喝",
+        "onboard_time": 1698112713,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 93751,
+        "num": 93751,
+        "word": "田耕纪 镜头语言",
+        "onboard_time": 1698107560,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}
