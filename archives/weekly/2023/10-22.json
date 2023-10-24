@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698124558653,
+  "endTime": 1698125658774,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -339,6 +339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1296271,
+      "num": 1296271,
+      "word": "吉林一小区爆炸致1死16伤",
+      "onboard_time": 1698123036,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1287947,
       "num": 1287947,
       "word": "成都崇州被狗咬伤女童已转出ICU",
@@ -400,14 +408,6 @@
       "word": "兰博基尼被踩车主称不和解",
       "onboard_time": 1697943992,
       "rank": 28,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1132286,
-      "num": 1132286,
-      "word": "吉林一小区爆炸致1死16伤",
-      "onboard_time": 1698123036,
-      "rank": 1,
       "category": "社会新闻"
     },
     {
@@ -553,6 +553,14 @@
       "onboard_time": 1698074440,
       "rank": 22,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 937591,
+      "num": 937591,
+      "word": "美籍男子抵达香港时行李搜出手枪",
+      "onboard_time": 1698123580,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 927895,
@@ -979,6 +987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 627638,
+      "num": 627638,
+      "word": "被狗咬伤女童200万捐款争议",
+      "onboard_time": 1698123879,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 626075,
       "num": 626075,
       "word": "菲船恶意碰瓷",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1697973690,
       "rank": 25,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 591068,
-      "num": 591068,
-      "word": "美籍男子抵达香港时行李搜出手枪",
-      "onboard_time": 1698123580,
-      "rank": 4,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 588902,
@@ -1451,6 +1459,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 494142,
+      "num": 494142,
+      "word": "外媒炒作中国6艘舰艇同时现身中东",
+      "onboard_time": 1698123762,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 488421,
       "num": 488421,
       "word": "张栋梁的名字被哥哥们玩坏了",
@@ -1625,6 +1641,14 @@
       "onboard_time": 1698121359,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 444247,
+      "num": 405579,
+      "word": "迪丽热巴快把自己跑yue了",
+      "onboard_time": 1698125017,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 443436,
@@ -2251,14 +2275,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 351150,
-      "num": 351150,
-      "word": "被狗咬伤女童200万捐款争议",
-      "onboard_time": 1698123879,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 350983,
       "num": 350983,
       "word": "河边的错误",
@@ -2385,14 +2401,6 @@
       "onboard_time": 1698117574,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 328243,
-      "num": 328243,
-      "word": "外媒炒作中国6艘舰艇同时现身中东",
-      "onboard_time": 1698123762,
-      "rank": 15,
-      "category": "军事"
     },
     {
       "raw_hot": 327871,
@@ -2673,6 +2681,14 @@
       "onboard_time": 1697988634,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 298573,
+      "num": 298573,
+      "word": "火星6艺人阵容官宣",
+      "onboard_time": 1698124056,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 297741,
@@ -3467,14 +3483,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 236745,
-      "num": 236745,
-      "word": "火星6艺人阵容官宣",
-      "onboard_time": 1698124056,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 236186,
       "num": 236186,
       "word": "方筱然是周筱风唯一发疯的理由",
@@ -4027,6 +4035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 206480,
+      "num": 206480,
+      "word": "我们的美好生活艺人阵容",
+      "onboard_time": 1698124897,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 205828,
       "num": 205828,
       "word": "男子提供600平闲置地收养流浪狗",
@@ -4137,6 +4153,14 @@
       "onboard_time": 1697938351,
       "rank": 35,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 201962,
+      "num": 201962,
+      "word": "开机广告消失后电视或将涨价",
+      "onboard_time": 1698124475,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201651,
@@ -4849,6 +4873,14 @@
       "onboard_time": 1698026373,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173251,
+      "num": 173251,
+      "word": "ENHYPEN亚洲巡演官宣",
+      "onboard_time": 1698125437,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 173195,
@@ -5811,6 +5843,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137109,
+      "num": 137109,
+      "word": "这条发光的长尾巴是中国的超级工程",
+      "onboard_time": 1698124655,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
       "raw_hot": 137045,
       "num": 137045,
       "word": "甄姬西施至美风华皮肤",
@@ -5825,6 +5865,14 @@
       "onboard_time": 1698066823,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136300,
+      "num": 136300,
+      "word": "化妆 表达自我的载体",
+      "onboard_time": 1698123820,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 136206,
@@ -5985,6 +6033,14 @@
       "onboard_time": 1697943872,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 132083,
+      "num": 132083,
+      "word": "杨舒予再发文拒绝粉丝接机",
+      "onboard_time": 1698125375,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 132020,
@@ -6417,14 +6473,6 @@
       "onboard_time": 1698064118,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117122,
-      "num": 117122,
-      "word": "开机广告消失后电视或将涨价",
-      "onboard_time": 1698124475,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 116130,
@@ -6929,6 +6977,14 @@
       "onboard_time": 1697969610,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95805,
+      "num": 95805,
+      "word": "杜兰特说勇士应该退役自己球衣",
+      "onboard_time": 1698125556,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 95450,

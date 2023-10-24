@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 13:15:58
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/24 13:34:18
 </p>
 </blockquote>
 <p>
@@ -3735,6 +3735,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB16%E4%BC%A4%23" target="weibo">
+吉林一小区爆炸致1死16伤（热度：1296271）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E6%84%A7%E6%98%AF%E5%8C%97%E5%A4%A7%20%E5%A5%BD%E6%AD%B9%E6%AF%92%E7%9A%84%E7%AD%BE%E5%88%B0%E6%96%B9%E5%BC%8F%23" target="weibo">
 不愧是北大 好歹毒的签到方式（热度：1295168）
 </a>
@@ -4391,12 +4397,6 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%A5%E5%B9%BF%E4%B8%9C%E4%BA%86%23" target="weibo">
 杨紫来广东了（热度：1134478）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%89%E6%9E%97%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%88%86%E7%82%B8%E8%87%B41%E6%AD%BB16%E4%BC%A4%23" target="weibo">
-吉林一小区爆炸致1死16伤（热度：1132286）
 </a>
 </li>
 
@@ -5721,6 +5721,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%94%B7%E5%AD%90%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA%23" target="weibo">
+美籍男子抵达香港时行李搜出手枪（热度：937591）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%B2%81%E5%84%BF%E5%AD%90%E5%9C%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E4%B8%AD%E6%96%87%E4%BD%9C%E4%B8%9A%23" target="weibo">
 七岁儿子在加拿大的中文作业（热度：937314）
 </a>
@@ -6005,12 +6011,6 @@ iPhone平均寿命将达8年（热度：910856）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8A%E5%A4%9C%E9%86%92%E6%9D%A5%E6%97%B6%E4%B8%8D%E8%A6%81%E7%9C%8B%E6%97%B6%E9%97%B4%23" target="weibo">
 半夜醒来时不要看时间（热度：898831）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%AD%E6%81%B6%E7%8A%AC%E5%92%AC%E4%BC%A4%E5%A5%B3%E7%AB%A5%E4%BB%8D%E6%98%8F%E8%BF%B7%23" target="weibo">
-遭恶犬咬伤女童仍昏迷（热度：898029）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698124558653,
+  "endTime": 1698125658774,
   "band_list": [
     {
       "raw_hot": 2524145,
@@ -51,20 +51,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1296271,
+      "num": 1296271,
+      "word": "吉林一小区爆炸致1死16伤",
+      "onboard_time": 1698123036,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1213560,
       "num": 1213560,
       "word": "以色列网红嘲讽遭轰炸的巴勒斯坦平民被批",
       "onboard_time": 1698106657,
       "rank": 3,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 1132286,
-      "num": 1132286,
-      "word": "吉林一小区爆炸致1死16伤",
-      "onboard_time": 1698123036,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 964068,
@@ -89,6 +89,14 @@
       "onboard_time": 1698074440,
       "rank": 0,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 937591,
+      "num": 937591,
+      "word": "美籍男子抵达香港时行李搜出手枪",
+      "onboard_time": 1698123580,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 866886,
@@ -155,11 +163,11 @@
       "category": "科技,国内要闻"
     },
     {
-      "raw_hot": 591068,
-      "num": 591068,
-      "word": "美籍男子抵达香港时行李搜出手枪",
-      "onboard_time": 1698123580,
-      "rank": 4,
+      "raw_hot": 627638,
+      "num": 627638,
+      "word": "被狗咬伤女童200万捐款争议",
+      "onboard_time": 1698123879,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -243,6 +251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 494142,
+      "num": 494142,
+      "word": "外媒炒作中国6艘舰艇同时现身中东",
+      "onboard_time": 1698123762,
+      "rank": 15,
+      "category": "军事"
+    },
+    {
       "raw_hot": 485983,
       "num": 485983,
       "word": "恋与制作人 你说公主请抽卡",
@@ -273,6 +289,14 @@
       "onboard_time": 1698121359,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 444247,
+      "num": 405579,
+      "word": "迪丽热巴快把自己跑yue了",
+      "onboard_time": 1698125017,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 433095,
@@ -419,14 +443,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 351150,
-      "num": 351150,
-      "word": "被狗咬伤女童200万捐款争议",
-      "onboard_time": 1698123879,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 348889,
       "num": 348889,
       "word": "李雪琴也逃不过马立奥一家的魅力",
@@ -459,14 +475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 328243,
-      "num": 328243,
-      "word": "外媒炒作中国6艘舰艇同时现身中东",
-      "onboard_time": 1698123762,
-      "rank": 15,
-      "category": "军事"
-    },
-    {
       "raw_hot": 309871,
       "num": 309871,
       "word": "霜降",
@@ -489,6 +497,14 @@
       "onboard_time": 1698068680,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298573,
+      "num": 298573,
+      "word": "火星6艺人阵容官宣",
+      "onboard_time": 1698124056,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 295385,
@@ -659,14 +675,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 236745,
-      "num": 236745,
-      "word": "火星6艺人阵容官宣",
-      "onboard_time": 1698124056,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234944,
       "num": 234944,
       "word": "恋与铁王座",
@@ -763,12 +771,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 206480,
+      "num": 206480,
+      "word": "我们的美好生活艺人阵容",
+      "onboard_time": 1698124897,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203409,
       "num": 155785,
       "word": "她竟然连酸也扛得住",
       "onboard_time": 1698117096,
       "rank": 41,
       "category": "母婴育儿"
+    },
+    {
+      "raw_hot": 201962,
+      "num": 201962,
+      "word": "开机广告消失后电视或将涨价",
+      "onboard_time": 1698124475,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 201563,
@@ -921,6 +945,14 @@
       "onboard_time": 1698113074,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 173251,
+      "num": 173251,
+      "word": "ENHYPEN亚洲巡演官宣",
+      "onboard_time": 1698125437,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 170257,
@@ -1115,6 +1147,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 137109,
+      "num": 137109,
+      "word": "这条发光的长尾巴是中国的超级工程",
+      "onboard_time": 1698124655,
+      "rank": 37,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 136300,
+      "num": 136300,
+      "word": "化妆 表达自我的载体",
+      "onboard_time": 1698123820,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 136016,
       "num": 167960,
       "word": "BLG 哥几个去拜拜吧",
@@ -1169,6 +1217,14 @@
       "onboard_time": 1698067840,
       "rank": 34,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 132083,
+      "num": 132083,
+      "word": "杨舒予再发文拒绝粉丝接机",
+      "onboard_time": 1698125375,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 131332,
@@ -1240,14 +1296,6 @@
       "word": "老人被救出院后第一时间给民警送锦旗",
       "onboard_time": 1698116016,
       "rank": 38,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 117122,
-      "num": 117122,
-      "word": "开机广告消失后电视或将涨价",
-      "onboard_time": 1698124475,
-      "rank": 44,
       "category": "社会新闻"
     },
     {
@@ -1353,6 +1401,14 @@
       "onboard_time": 1698118595,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 95805,
+      "num": 95805,
+      "word": "杜兰特说勇士应该退役自己球衣",
+      "onboard_time": 1698125556,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85254,
