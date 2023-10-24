@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698139077502,
+  "endTime": 1698140084084,
   "band_list": [
     {
       "raw_hot": 3536467,
@@ -83,12 +83,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1297209,
+      "num": 798013,
+      "word": "居民医保一年减少2500万人",
+      "onboard_time": 1698137493,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1296271,
       "num": 1296271,
       "word": "吉林一小区爆炸致1死16伤",
       "onboard_time": 1698123036,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1284822,
+      "num": 318129,
+      "word": "陈牧驰近照",
+      "onboard_time": 1698138813,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1213560,
@@ -115,16 +131,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1050427,
-      "num": 750087,
-      "word": "居民医保一年减少2500万人",
-      "onboard_time": 1698137493,
-      "rank": 3,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1044858,
-      "num": 1044858,
+      "raw_hot": 1053739,
+      "num": 1053739,
       "word": "女子结婚要求前同事还礼400元",
       "onboard_time": 1698133294,
       "rank": 22,
@@ -209,14 +217,6 @@
       "onboard_time": 1698117875,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 758074,
-      "num": 318129,
-      "word": "陈牧驰近照",
-      "onboard_time": 1698138813,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 755940,
@@ -459,20 +459,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 475081,
+      "num": 475081,
+      "word": "北大团队识别血指纹破36年前命案",
+      "onboard_time": 1698135993,
+      "rank": 25,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 471760,
       "num": 471760,
       "word": "吃药不良习惯 食道损伤",
       "onboard_time": 1698131435,
       "rank": 24,
       "category": "健康医疗,知识科普"
-    },
-    {
-      "raw_hot": 467460,
-      "num": 467460,
-      "word": "北大团队识别血指纹破36年前命案",
-      "onboard_time": 1698135993,
-      "rank": 25,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 462271,
@@ -563,6 +563,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 406210,
+      "num": 406210,
+      "word": "以爱为营",
+      "onboard_time": 1698139352,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404036,
       "num": 224622,
       "word": "泡面蒸一下比煮的好吃一百倍",
@@ -651,6 +659,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 366019,
+      "num": 260206,
+      "word": "爷爷把我的泡泡玛特当锅盖",
+      "onboard_time": 1698137792,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 363437,
       "num": 363437,
       "word": "25岁男子坚持4年每天熬夜画CAD",
@@ -676,7 +692,7 @@
     },
     {
       "raw_hot": 354641,
-      "num": 204246,
+      "num": 257590,
       "word": "张杰谢娜原来这么甜的吗",
       "onboard_time": 1698137614,
       "rank": 20,
@@ -787,20 +803,20 @@
       "category": "国外要闻"
     },
     {
-      "raw_hot": 292227,
-      "num": 162347,
-      "word": "爷爷把我的泡泡玛特当锅盖",
-      "onboard_time": 1698137792,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 290225,
       "num": 290225,
       "word": "邓为给张晚意分享披萨",
       "onboard_time": 1698107440,
       "rank": 17,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 289359,
+      "num": 289359,
+      "word": "女子曝15万存款被农行私自改成购买",
+      "onboard_time": 1698139471,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 287653,
@@ -835,12 +851,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281476,
+      "num": 281476,
+      "word": "未成年人网络保护条例公布",
+      "onboard_time": 1698139713,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280057,
       "num": 280057,
       "word": "水眉笔",
       "onboard_time": 1698121720,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 279894,
+      "num": 279894,
+      "word": "王者荣耀",
+      "onboard_time": 1698137913,
+      "rank": 19,
+      "category": "游戏"
     },
     {
       "raw_hot": 277904,
@@ -1139,14 +1171,6 @@
       "category": "电影,体育"
     },
     {
-      "raw_hot": 205054,
-      "num": 205054,
-      "word": "王者荣耀",
-      "onboard_time": 1698137913,
-      "rank": 19,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 203409,
       "num": 155785,
       "word": "她竟然连酸也扛得住",
@@ -1411,6 +1435,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169749,
+      "num": 157039,
+      "word": "早退通勤包",
+      "onboard_time": 1698139595,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 169667,
+      "num": 169667,
+      "word": "民警被陌生奶奶当儿子宠了10年",
+      "onboard_time": 1698139053,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169193,
       "num": 169193,
       "word": "Vernon打乱文俊辉权顺荣cha节奏",
@@ -1539,6 +1579,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 155287,
+      "num": 155287,
+      "word": "薛之谦剧透官宣时间",
+      "onboard_time": 1698138693,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154997,
       "num": 154997,
       "word": "深秋的第一只口红",
@@ -1587,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147473,
+      "num": 147473,
+      "word": "方时赫朴振英 没有需求硬要供给",
+      "onboard_time": 1698139773,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145776,
       "num": 145776,
       "word": "10岁女孩悄悄为就餐民警买单",
@@ -1611,12 +1667,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 145192,
-      "num": 145192,
-      "word": "薛之谦剧透官宣时间",
-      "onboard_time": 1698138693,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 144763,
+      "num": 144763,
+      "word": "可以买贵的不能买贵了",
+      "onboard_time": 1698138333,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 144673,
@@ -1731,6 +1787,14 @@
       "category": "音乐,互联网"
     },
     {
+      "raw_hot": 133142,
+      "num": 133142,
+      "word": "问心林逸方筱然官宣",
+      "onboard_time": 1698139835,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132778,
       "num": 132778,
       "word": "朱一龙朗读河边的错误作者序",
@@ -1755,6 +1819,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 130883,
+      "num": 130883,
+      "word": "万圣节好多层脸妆容",
+      "onboard_time": 1698139773,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 129377,
+      "num": 129377,
+      "word": "官方通报无窗帘教室校长已被停职",
+      "onboard_time": 1698140011,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 129143,
       "num": 1282856,
       "word": "成功发射遥感三十九号卫星",
@@ -1769,14 +1849,6 @@
       "onboard_time": 1698110559,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 127592,
-      "num": 127592,
-      "word": "可以买贵的不能买贵了",
-      "onboard_time": 1698138333,
-      "rank": 38,
-      "category": "情感"
     },
     {
       "raw_hot": 127580,
@@ -1811,6 +1883,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 125735,
+      "num": 125735,
+      "word": "上海金山区非沪籍人才购房资格调整为个人",
+      "onboard_time": 1698140072,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 125410,
       "num": 125410,
       "word": "妲己妆详细教程",
@@ -1819,28 +1899,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 123962,
-      "num": 123962,
-      "word": "牛仔裤穿搭思路",
-      "onboard_time": 1698122679,
-      "rank": 43,
-      "category": "时尚"
-    },
-    {
-      "raw_hot": 122270,
-      "num": 122270,
+      "raw_hot": 125369,
+      "num": 124388,
       "word": "板栗焖饭",
       "onboard_time": 1698136291,
       "rank": 48,
       "category": "美食"
     },
     {
-      "raw_hot": 122065,
-      "num": 122065,
-      "word": "民警被陌生奶奶当儿子宠了10年",
-      "onboard_time": 1698139053,
-      "rank": 46,
-      "category": "社会新闻"
+      "raw_hot": 123962,
+      "num": 123962,
+      "word": "牛仔裤穿搭思路",
+      "onboard_time": 1698122679,
+      "rank": 43,
+      "category": "时尚"
     },
     {
       "raw_hot": 121508,

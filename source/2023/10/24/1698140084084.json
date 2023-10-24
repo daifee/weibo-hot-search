@@ -1,0 +1,410 @@
+{
+  "runTime": 1698140084084,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2193840,
+        "num": 2193840,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 0,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1053739,
+        "num": 1053739,
+        "word": "女子结婚要求前同事还礼400元",
+        "onboard_time": 1698133294,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 20255,
+        "num": 841801,
+        "word": "成功发射遥感三十九号卫星",
+        "onboard_time": 1698116614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1297209,
+        "num": 798013,
+        "word": "居民医保一年减少2500万人",
+        "onboard_time": 1698137493,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 638336,
+        "num": 638336,
+        "word": "迪丽热巴微信名",
+        "onboard_time": 1698126694,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 497250,
+        "num": 497250,
+        "word": "眉笔 消费降级",
+        "onboard_time": 1698127475,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 475081,
+        "num": 475081,
+        "word": "北大团队识别血指纹破36年前命案",
+        "onboard_time": 1698135993,
+        "rank": 6,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 406210,
+        "num": 406210,
+        "word": "以爱为营",
+        "onboard_time": 1698139352,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 350330,
+        "num": 350330,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 8,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 293102,
+        "num": 293102,
+        "word": "王一博方否认将演六姊妹",
+        "onboard_time": 1698134256,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1488798,
+        "num": 292363,
+        "word": "京东采销喊话李佳琦",
+        "onboard_time": 1698131073,
+        "rank": 10,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 1284822,
+        "num": 291871,
+        "word": "陈牧驰近照",
+        "onboard_time": 1698138813,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 674492,
+        "num": 291096,
+        "word": "李佳琦直播间的底价协议合理吗",
+        "onboard_time": 1698134675,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 320842,
+        "num": 289370,
+        "word": "张婧仪晒新美甲",
+        "onboard_time": 1698134493,
+        "rank": 13,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 289359,
+        "num": 289359,
+        "word": "女子曝15万存款被农行私自改成购买",
+        "onboard_time": 1698139471,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 315497,
+        "num": 285704,
+        "word": "肖战笑颜分析",
+        "onboard_time": 1698133833,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 281476,
+        "num": 281476,
+        "word": "未成年人网络保护条例公布",
+        "onboard_time": 1698139713,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 279894,
+        "num": 279894,
+        "word": "王者荣耀",
+        "onboard_time": 1698137913,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277977,
+        "num": 277977,
+        "word": "傅首尔因为愧疚无法下定决心离婚",
+        "onboard_time": 1698122263,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261259,
+        "num": 261259,
+        "word": "哈马斯释放两名以色列女性并赠送零食饮料",
+        "onboard_time": 1698130473,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 366019,
+        "num": 260206,
+        "word": "爷爷把我的泡泡玛特当锅盖",
+        "onboard_time": 1698137792,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 348045,
+        "num": 257590,
+        "word": "张杰谢娜原来这么甜的吗",
+        "onboard_time": 1698137614,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 247949,
+        "num": 247949,
+        "word": "海氏品牌方要求京东恢复正常价格",
+        "onboard_time": 1698129993,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 184896,
+        "num": 184896,
+        "word": "爱国主义教育法表决通过自明年元旦起施行",
+        "onboard_time": 1698133472,
+        "rank": 23,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 181839,
+        "num": 181839,
+        "word": "定妆喷雾是智商税吗",
+        "onboard_time": 1698135273,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 170976,
+        "num": 170976,
+        "word": "于适看一下你的狗好了",
+        "onboard_time": 1698135033,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169667,
+        "num": 169667,
+        "word": "民警被陌生奶奶当儿子宠了10年",
+        "onboard_time": 1698139053,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164960,
+        "num": 164960,
+        "word": "显脸小的法式刘海儿",
+        "onboard_time": 1698136354,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 164097,
+        "num": 164097,
+        "word": "花西子",
+        "onboard_time": 1698132692,
+        "rank": 28,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 158378,
+        "num": 158378,
+        "word": "樱井敦司去世",
+        "onboard_time": 1698133354,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169749,
+        "num": 157039,
+        "word": "早退通勤包",
+        "onboard_time": 1698139595,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155287,
+        "num": 155287,
+        "word": "薛之谦剧透官宣时间",
+        "onboard_time": 1698138693,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149000,
+        "num": 149000,
+        "word": "吃药不良习惯 食道损伤",
+        "onboard_time": 1698131435,
+        "rank": 32,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 147473,
+        "num": 147473,
+        "word": "方时赫朴振英 没有需求硬要供给",
+        "onboard_time": 1698139773,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144763,
+        "num": 144763,
+        "word": "可以买贵的不能买贵了",
+        "onboard_time": 1698138333,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142857,
+        "num": 142857,
+        "word": "独自出门失踪3岁女童已找到",
+        "onboard_time": 1698130715,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140577,
+        "num": 140577,
+        "word": "迪丽热巴快把自己跑yue了",
+        "onboard_time": 1698125017,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138768,
+        "num": 138768,
+        "word": "沈梦辰想把这个妆焊死在脸上",
+        "onboard_time": 1698127297,
+        "rank": 37,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 134891,
+        "num": 134891,
+        "word": "林心如参加首档综艺",
+        "onboard_time": 1698125795,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133142,
+        "num": 133142,
+        "word": "问心林逸方筱然官宣",
+        "onboard_time": 1698139835,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130883,
+        "num": 130883,
+        "word": "万圣节好多层脸妆容",
+        "onboard_time": 1698139773,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 129377,
+        "num": 129377,
+        "word": "官方通报无窗帘教室校长已被停职",
+        "onboard_time": 1698140011,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125782,
+        "num": 125782,
+        "word": "谁把辛芷蕾的共享单车骑走了",
+        "onboard_time": 1698126093,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125735,
+        "num": 125735,
+        "word": "上海金山区非沪籍人才购房资格调整为个人",
+        "onboard_time": 1698140072,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124390,
+        "num": 124390,
+        "word": "谢娜杨紫新综艺",
+        "onboard_time": 1698123340,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125369,
+        "num": 124388,
+        "word": "板栗焖饭",
+        "onboard_time": 1698136291,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 120718,
+        "num": 124203,
+        "word": "潘玮柏提醒粉丝不要真的不回家",
+        "onboard_time": 1698129993,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119801,
+        "num": 124108,
+        "word": "孙卓被拐案抗诉申请被驳回",
+        "onboard_time": 1698132215,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 117861,
+        "num": 124066,
+        "word": "关晓彤国风百花妆",
+        "onboard_time": 1698133594,
+        "rank": 48,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 114150,
+        "num": 123977,
+        "word": "张小斐分享自己经历鼓励大学生",
+        "onboard_time": 1698138574,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国妇女第十三次全国代表大会在京开幕#"
+    }
+  }
+}
