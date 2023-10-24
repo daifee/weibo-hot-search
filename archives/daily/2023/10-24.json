@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698142738381,
+  "endTime": 1698143748686,
   "band_list": [
     {
       "raw_hot": 3536467,
@@ -67,8 +67,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1569648,
-      "num": 1569648,
+      "raw_hot": 1576988,
+      "num": 1576988,
       "word": "女子曝15万存款被农行私自改成购买",
       "onboard_time": 1698139471,
       "rank": 14,
@@ -203,6 +203,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 838863,
+      "num": 838863,
+      "word": "官方通报无窗帘教室校长已被停职",
+      "onboard_time": 1698140011,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 834475,
       "num": 834475,
       "word": "中国台湾地区附近发生5.9级左右地震",
@@ -217,14 +225,6 @@
       "onboard_time": 1698134675,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 767051,
-      "num": 767051,
-      "word": "官方通报无窗帘教室校长已被停职",
-      "onboard_time": 1698140011,
-      "rank": 41,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 758341,
@@ -265,6 +265,14 @@
       "onboard_time": 1698118534,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 660024,
+      "num": 445998,
+      "word": "马立奥 妈妈回来就接你",
+      "onboard_time": 1698141812,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 651994,
@@ -483,20 +491,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 484875,
+      "num": 1659990,
+      "word": "北大团队识别血指纹破36年前命案",
+      "onboard_time": 1698135993,
+      "rank": 25,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 483967,
       "num": 483967,
       "word": "王一博方否认将演六姊妹",
       "onboard_time": 1698134256,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 475081,
-      "num": 1659990,
-      "word": "北大团队识别血指纹破36年前命案",
-      "onboard_time": 1698135993,
-      "rank": 25,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 471760,
@@ -515,6 +523,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 458945,
+      "num": 458945,
+      "word": "早退通勤包",
+      "onboard_time": 1698139595,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 455130,
       "num": 455130,
       "word": "2024MSI 成都",
@@ -531,12 +547,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 447777,
+      "num": 447777,
+      "word": "你还喝农夫山泉吗",
+      "onboard_time": 1698142292,
+      "rank": 18,
+      "category": "美食"
+    },
+    {
       "raw_hot": 444880,
       "num": 444880,
       "word": "发型也是穿搭的一环",
       "onboard_time": 1698121359,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 436967,
+      "num": 436967,
+      "word": "邓超晒照说和鹿晗年龄相仿",
+      "onboard_time": 1698142054,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 433095,
@@ -561,14 +593,6 @@
       "onboard_time": 1698057766,
       "rank": 8,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 421914,
-      "num": 421914,
-      "word": "早退通勤包",
-      "onboard_time": 1698139595,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 421072,
@@ -755,14 +779,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 344087,
-      "num": 170835,
-      "word": "马立奥 妈妈回来就接你",
-      "onboard_time": 1698141812,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 343560,
       "num": 343560,
       "word": "凤凰传奇现场 早读都没这么整齐过",
@@ -873,14 +889,6 @@
       "onboard_time": 1698104914,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 286584,
-      "num": 286584,
-      "word": "你还喝农夫山泉吗",
-      "onboard_time": 1698142292,
-      "rank": 18,
-      "category": "美食"
     },
     {
       "raw_hot": 284116,
@@ -1073,14 +1081,6 @@
       "onboard_time": 1698055428,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 236109,
-      "num": 236109,
-      "word": "邓超晒照说和鹿晗年龄相仿",
-      "onboard_time": 1698142054,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 235878,
@@ -1339,6 +1339,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195026,
+      "num": 195026,
+      "word": "崔胜澈 那就听欧巴给你唠叨吧",
+      "onboard_time": 1698142894,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194637,
       "num": 194637,
       "word": "定妆喷雾是智商税吗",
@@ -1531,6 +1539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 169814,
+      "num": 169814,
+      "word": "为什么人喜欢把手插进米堆里",
+      "onboard_time": 1698143252,
+      "rank": 32,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 169667,
       "num": 169667,
       "word": "民警被陌生奶奶当儿子宠了10年",
@@ -1561,6 +1577,14 @@
       "onboard_time": 1698106596,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167131,
+      "num": 167131,
+      "word": "网络贷款死灰复燃了吗",
+      "onboard_time": 1698141633,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 167082,
@@ -1635,14 +1659,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 157216,
-      "num": 157216,
-      "word": "网络贷款死灰复燃了吗",
-      "onboard_time": 1698141633,
-      "rank": 34,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 157110,
       "num": 157110,
       "word": "普通男孩自学化妆",
@@ -1705,6 +1721,14 @@
       "onboard_time": 1698141272,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 151273,
+      "num": 181800,
+      "word": "原来大熊猫也有团建聚餐",
+      "onboard_time": 1698143614,
+      "rank": 29,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 150094,
@@ -1948,7 +1972,7 @@
     },
     {
       "raw_hot": 129143,
-      "num": 1601056,
+      "num": 1604253,
       "word": "成功发射遥感三十九号卫星",
       "onboard_time": 1698116614,
       "rank": 29,
@@ -2219,6 +2243,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 90758,
+      "num": 90758,
+      "word": "秋冬逃不过的美拉德口红",
+      "onboard_time": 1698142955,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 89713,
       "num": 142874,
       "word": "罗云熙芭莎大片",
@@ -2313,6 +2345,22 @@
       "onboard_time": 1698077730,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 56041,
+      "num": 187183,
+      "word": "今晚的购物车里都有啥",
+      "onboard_time": 1698143132,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 51040,
+      "num": 90061,
+      "word": "为什么说今年双十一更便宜了",
+      "onboard_time": 1698142833,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48651,
