@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698185779610,
+  "endTime": 1698186839133,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 272876,
+      "num": 272876,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 263258,
       "num": 263258,
       "word": "小蛮腰发型",
@@ -177,14 +185,6 @@
       "onboard_time": 1698152555,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 184427,
-      "num": 184427,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 176107,
@@ -459,36 +459,52 @@
       "category": "情感"
     },
     {
-      "raw_hot": 35270,
-      "num": 34929,
-      "word": "以后我的人设就是任性独生女",
-      "onboard_time": 1698175694,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 31129,
-      "num": 31129,
+      "raw_hot": 55229,
+      "num": 55229,
       "word": "张小斐cos阿童木",
       "onboard_time": 1698184634,
       "rank": 24,
       "category": "艺人"
     },
     {
-      "raw_hot": 26326,
-      "num": 26326,
-      "word": "真人版海王",
-      "onboard_time": 1698180673,
-      "rank": 40,
-      "category": "运动健身"
+      "raw_hot": 39007,
+      "num": 39007,
+      "word": "以后我的人设就是任性独生女",
+      "onboard_time": 1698175694,
+      "rank": 48,
+      "category": "情感"
     },
     {
-      "raw_hot": 26288,
-      "num": 26881,
+      "raw_hot": 38156,
+      "num": 36011,
+      "word": "小松鼠拿着落叶来换吃的了",
+      "onboard_time": 1698183195,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 36137,
+      "num": 36137,
       "word": "双11不买清单",
       "onboard_time": 1698182893,
       "rank": 45,
       "category": "其它"
+    },
+    {
+      "raw_hot": 33757,
+      "num": 33757,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 30000,
+      "num": 30000,
+      "word": "真人版海王",
+      "onboard_time": 1698180673,
+      "rank": 40,
+      "category": "运动健身"
     },
     {
       "raw_hot": 26044,
@@ -497,22 +513,6 @@
       "onboard_time": 1698150457,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 25447,
-      "num": 25447,
-      "word": "小松鼠拿着落叶来换吃的了",
-      "onboard_time": 1698183195,
-      "rank": 49,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 24343,
-      "num": 24343,
-      "word": "小狗把自己藏进了行李箱里",
-      "onboard_time": 1698174855,
-      "rank": 39,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 23676,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698185779610,
+  "endTime": 1698186839133,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -3667,6 +3667,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 272876,
+      "num": 272876,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272421,
       "num": 272421,
       "word": "佛山电翰明星版",
@@ -5625,14 +5633,6 @@
       "onboard_time": 1697963192,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184427,
-      "num": 184427,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 183274,
@@ -8995,6 +8995,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55229,
+      "num": 55229,
+      "word": "张小斐cos阿童木",
+      "onboard_time": 1698184634,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 54559,
       "num": 54559,
       "word": "傅园慧首谈上恋综的经历",
@@ -9139,6 +9147,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 39007,
+      "num": 39007,
+      "word": "以后我的人设就是任性独生女",
+      "onboard_time": 1698175694,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 38156,
+      "num": 36011,
+      "word": "小松鼠拿着落叶来换吃的了",
+      "onboard_time": 1698183195,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 38102,
       "num": 381053,
       "word": "好事成双非会员收官",
@@ -9171,12 +9195,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 35270,
-      "num": 34929,
-      "word": "以后我的人设就是任性独生女",
-      "onboard_time": 1698175694,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 36137,
+      "num": 36137,
+      "word": "双11不买清单",
+      "onboard_time": 1698182893,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 33757,
+      "num": 33757,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 33271,
@@ -9195,14 +9227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 31129,
-      "num": 31129,
-      "word": "张小斐cos阿童木",
-      "onboard_time": 1698184634,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30001,
       "num": 30001,
       "word": "看小警汪的沉浸式训练秒回童年",
@@ -9211,44 +9235,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 28166,
-      "num": 1222173,
-      "word": "关爱老人在今天更在每一天",
-      "onboard_time": 1698064359,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 26326,
-      "num": 26326,
+      "raw_hot": 30000,
+      "num": 30000,
       "word": "真人版海王",
       "onboard_time": 1698180673,
       "rank": 40,
       "category": "运动健身"
     },
     {
-      "raw_hot": 26288,
-      "num": 26881,
-      "word": "双11不买清单",
-      "onboard_time": 1698182893,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 25447,
-      "num": 25447,
-      "word": "小松鼠拿着落叶来换吃的了",
-      "onboard_time": 1698183195,
-      "rank": 49,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 24343,
-      "num": 24343,
-      "word": "小狗把自己藏进了行李箱里",
-      "onboard_time": 1698174855,
-      "rank": 39,
-      "category": "动物萌宠"
+      "raw_hot": 28166,
+      "num": 1222173,
+      "word": "关爱老人在今天更在每一天",
+      "onboard_time": 1698064359,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 23949,
