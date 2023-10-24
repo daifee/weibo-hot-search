@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698178681355,
+  "endTime": 1698179658034,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -403,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 80086,
+      "num": 80086,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 77619,
       "num": 84192,
       "word": "名侦探柯南茱蒂声优去世",
@@ -443,19 +451,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 67934,
-      "num": 67934,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 61304,
       "num": 61304,
       "word": "翻开秋日终章",
       "onboard_time": 1698167001,
       "rank": 38,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 27219,
+      "num": 27219,
+      "word": "以后我的人设就是任性独生女",
+      "onboard_time": 1698175694,
+      "rank": 48,
       "category": "情感"
     },
     {
@@ -475,20 +483,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23473,
+      "raw_hot": 23606,
       "num": 18110,
       "word": "小狗把自己藏进了行李箱里",
       "onboard_time": 1698174855,
       "rank": 39,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 21508,
-      "num": 21508,
-      "word": "以后我的人设就是任性独生女",
-      "onboard_time": 1698175694,
-      "rank": 48,
-      "category": "情感"
     }
   ],
   "hotgov_list": [
