@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698168871429,
+  "endTime": 1698171766183,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -441,6 +441,14 @@
       "onboard_time": 1698167001,
       "rank": 38,
       "category": "情感"
+    },
+    {
+      "raw_hot": 26044,
+      "num": 30084,
+      "word": "双十一",
+      "onboard_time": 1698150457,
+      "rank": 43,
+      "category": "互联网"
     }
   ],
   "hotgov_list": [
