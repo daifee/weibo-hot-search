@@ -1,0 +1,410 @@
+{
+  "runTime": 1698117519187,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1439688,
+        "num": 1439688,
+        "word": "为有暗香来 丫鬟妆造",
+        "onboard_time": 1698113253,
+        "rank": 0,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 866886,
+        "num": 866886,
+        "word": "上海迪士尼疯狂动物城12月20日开放",
+        "onboard_time": 1698115173,
+        "rank": 1,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 12143,
+        "num": 654799,
+        "word": "杭州亚残运会观赛指南",
+        "onboard_time": 1698117034,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 541350,
+        "num": 541350,
+        "word": "华为澄清将发射1万枚6G移动低轨卫星",
+        "onboard_time": 1698116136,
+        "rank": 3,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 509707,
+        "num": 509707,
+        "word": "字节跳动旗下PICO近半员工离开",
+        "onboard_time": 1698112294,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 501880,
+        "num": 501880,
+        "word": "等一下 有人高价想要",
+        "onboard_time": 1698112294,
+        "rank": 5,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 455723,
+        "num": 455723,
+        "word": "咱仨把燃冬演好比什么都重要",
+        "onboard_time": 1698106418,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 377256,
+        "num": 377256,
+        "word": "学者称股市涨1000点居民财富多25万亿",
+        "onboard_time": 1698113735,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 348889,
+        "num": 348889,
+        "word": "李雪琴也逃不过马立奥一家的魅力",
+        "onboard_time": 1698114753,
+        "rank": 8,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 280662,
+        "num": 280662,
+        "word": "警方通报男子驾车撞击碾压保安",
+        "onboard_time": 1698111873,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 272421,
+        "num": 272421,
+        "word": "佛山电翰明星版",
+        "onboard_time": 1698114333,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 271826,
+        "num": 271826,
+        "word": "朱一龙 文艺片票房",
+        "onboard_time": 1698116435,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249699,
+        "num": 249699,
+        "word": "金希澈和自己的婚礼",
+        "onboard_time": 1698106359,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234027,
+        "num": 234027,
+        "word": "厂家称5.9元粉底液是活动价",
+        "onboard_time": 1698074440,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 197540,
+        "num": 197540,
+        "word": "我们的美好生活定档",
+        "onboard_time": 1698116073,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188623,
+        "num": 188623,
+        "word": "A股",
+        "onboard_time": 1698112654,
+        "rank": 15,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 178555,
+        "num": 178555,
+        "word": "拼多多双11主打一个无需技巧",
+        "onboard_time": 1698062322,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 175765,
+        "num": 175765,
+        "word": "黄渤加入李冰冰周也自拍",
+        "onboard_time": 1698106780,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170114,
+        "num": 170114,
+        "word": "问心",
+        "onboard_time": 1698117156,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150372,
+        "num": 150372,
+        "word": "中美经济工作组举行第一次会议",
+        "onboard_time": 1698112474,
+        "rank": 19,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1132107,
+        "num": 150000,
+        "word": "父亲要求月入6000元女儿付4500元赡养费",
+        "onboard_time": 1698108278,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 729464,
+        "num": 148984,
+        "word": "男子看黄网一夜转账26次被骗450万",
+        "onboard_time": 1698113493,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 388964,
+        "num": 148681,
+        "word": "我爸把我的嫁妆给败光了",
+        "onboard_time": 1698114753,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 301013,
+        "num": 147879,
+        "word": "以色列网红嘲讽遭轰炸的巴勒斯坦平民被批",
+        "onboard_time": 1698106657,
+        "rank": 23,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 215881,
+        "num": 146781,
+        "word": "泡面蒸一下比煮的好吃一百倍",
+        "onboard_time": 1698105517,
+        "rank": 24,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 207508,
+        "num": 146605,
+        "word": "终于意识到中文不是加密语言",
+        "onboard_time": 1698111816,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198631,
+        "num": 145361,
+        "word": "JDG瑞士轮状态",
+        "onboard_time": 1698115473,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 145226,
+        "num": 145226,
+        "word": "中国台湾地区附近发生5.9级左右地震",
+        "onboard_time": 1698103408,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142275,
+        "num": 142275,
+        "word": "邓为给张晚意分享披萨",
+        "onboard_time": 1698107440,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129143,
+        "num": 140279,
+        "word": "成功发射遥感三十九号卫星",
+        "onboard_time": 1698116614,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139973,
+        "num": 139973,
+        "word": "电影欢迎来到我身边杀青",
+        "onboard_time": 1698115536,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137390,
+        "num": 137390,
+        "word": "檀健次首专",
+        "onboard_time": 1698113613,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 128089,
+        "num": 128089,
+        "word": "初一和高三撞班旗高低得合张影",
+        "onboard_time": 1698117156,
+        "rank": 32,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 126017,
+        "num": 126017,
+        "word": "10岁女孩悄悄为就餐民警买单",
+        "onboard_time": 1698104674,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 125576,
+        "num": 125576,
+        "word": "文科的核心竞争力",
+        "onboard_time": 1698109238,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 122783,
+        "num": 122783,
+        "word": "深圳机场通报不明升空物致航班延误",
+        "onboard_time": 1698109601,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120535,
+        "num": 120535,
+        "word": "女子全勤工作1个月发257元工资",
+        "onboard_time": 1698070423,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119675,
+        "num": 119675,
+        "word": "700万动迁款分给4名子女后无人赡养",
+        "onboard_time": 1698073902,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118887,
+        "num": 118887,
+        "word": "老人被救出院后第一时间给民警送锦旗",
+        "onboard_time": 1698116016,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 110775,
+        "num": 110775,
+        "word": "毛不易你是会嗑cp的",
+        "onboard_time": 1698113316,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110445,
+        "num": 110445,
+        "word": "碟中谍8推迟上映",
+        "onboard_time": 1698116854,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108188,
+        "num": 108188,
+        "word": "她竟然连酸也扛得住",
+        "onboard_time": 1698117096,
+        "rank": 41,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 101911,
+        "num": 101911,
+        "word": "aespa回归概念图",
+        "onboard_time": 1698106596,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97867,
+        "num": 97867,
+        "word": "怪不得爸妈让我少看偶像剧",
+        "onboard_time": 1698106475,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96535,
+        "num": 96535,
+        "word": "肖战深情演绎夜空中最亮的星",
+        "onboard_time": 1698083417,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96278,
+        "num": 96278,
+        "word": "宋雨琦让minnie叫范丞丞显眼包",
+        "onboard_time": 1698104914,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92214,
+        "num": 92214,
+        "word": "边伯贤 PARANOIA",
+        "onboard_time": 1698105456,
+        "rank": 46,
+        "category": "电竞,音乐"
+      },
+      {
+        "raw_hot": 84998,
+        "num": 84998,
+        "word": "男子江边遇涨潮民警摸着石头救人",
+        "onboard_time": 1698114693,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84403,
+        "num": 84403,
+        "word": "杭州的无障碍停车位被爱填满了",
+        "onboard_time": 1698115473,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84345,
+        "num": 84345,
+        "word": "霜降",
+        "onboard_time": 1698102387,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新的起点上继续推动文化繁荣#"
+    }
+  }
+}
