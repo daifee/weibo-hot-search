@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698161704942,
+  "endTime": 1698164525791,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -2563,6 +2563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1829177,
+      "num": 1829177,
+      "word": "李佳琦公司美ONE合同细则曝光",
+      "onboard_time": 1698159880,
+      "rank": 10,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1826306,
       "num": 1186416,
       "word": "杜华说不想再养NAME了",
@@ -2657,14 +2665,6 @@
       "onboard_time": 1696747895,
       "rank": 21,
       "category": "网红"
-    },
-    {
-      "raw_hot": 1803681,
-      "num": 1803681,
-      "word": "李佳琦公司美ONE合同细则曝光",
-      "onboard_time": 1698159880,
-      "rank": 10,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 1801528,
@@ -9281,6 +9281,14 @@
       "onboard_time": 1697011895,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 827341,
+      "num": 827341,
+      "word": "双十一 洗发水",
+      "onboard_time": 1698161673,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 826960,
@@ -19411,6 +19419,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 464253,
+      "num": 196737,
+      "word": "问心 第二季",
+      "onboard_time": 1698163413,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 464234,
       "num": 464234,
       "word": "张桂梅高速上将40余名学生护在身后",
@@ -27283,6 +27299,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 337856,
+      "num": 260744,
+      "word": "不敢相信这是牛牛工作室拍出来的",
+      "onboard_time": 1698161437,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 337777,
       "num": 337777,
       "word": "张杰把逆战唱成孤勇者",
@@ -27905,6 +27929,14 @@
       "onboard_time": 1698117574,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330353,
+      "num": 330353,
+      "word": "邓为为对手戏演员磨掉棍子的刺",
+      "onboard_time": 1698161795,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 330225,
@@ -40931,6 +40963,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 222304,
+      "num": 222304,
+      "word": "王小波是中国最早的程序员之一",
+      "onboard_time": 1698160659,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 222295,
       "num": 222295,
       "word": "闭幕式人好多",
@@ -44083,6 +44123,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 205587,
+      "num": 126466,
+      "word": "小蛮腰发型",
+      "onboard_time": 1698162993,
+      "rank": 30,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 205580,
       "num": 205580,
       "word": "Gala单杀Ruler",
@@ -44537,14 +44585,6 @@
       "onboard_time": 1696227993,
       "rank": 14,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 204118,
-      "num": 164319,
-      "word": "王小波是中国最早的程序员之一",
-      "onboard_time": 1698160659,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 204117,
@@ -51883,6 +51923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176107,
+      "num": 176107,
+      "word": "胡先煦的哑药过期了",
+      "onboard_time": 1698162812,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176076,
       "num": 176076,
       "word": "华浅被仲溪午囚禁",
@@ -55787,6 +55835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 157203,
+      "num": 157203,
+      "word": "华浅苏醒",
+      "onboard_time": 1698161855,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157178,
       "num": 157178,
       "word": "白鲨锁定一号种子",
@@ -55881,14 +55937,6 @@
       "onboard_time": 1696155932,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 156733,
-      "num": 156733,
-      "word": "不敢相信这是牛牛工作室拍出来的",
-      "onboard_time": 1698161437,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156644,
@@ -56985,6 +57033,14 @@
       "onboard_time": 1697808994,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150670,
+      "num": 150670,
+      "word": "薛之谦好熟悉的摸头手势",
+      "onboard_time": 1698163292,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 150619,
@@ -60155,14 +60211,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 132542,
-      "num": 132542,
-      "word": "双十一 洗发水",
-      "onboard_time": 1698161673,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 132534,
       "num": 132534,
       "word": "gidle唱了不再犹豫",
@@ -61241,6 +61289,14 @@
       "onboard_time": 1697981613,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125201,
+      "num": 125201,
+      "word": "花少先导片",
+      "onboard_time": 1698162097,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 125123,
@@ -62617,6 +62673,14 @@
       "onboard_time": 1696988432,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112687,
+      "num": 112687,
+      "word": "男子医院陪护时为重症监护老人筹药费",
+      "onboard_time": 1698164249,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 112630,
@@ -64083,6 +64147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93187,
+      "num": 93187,
+      "word": "马晓龙 每次跳hiphop我就贫血",
+      "onboard_time": 1698164131,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93145,
       "num": 93145,
       "word": "警察被幼儿园小朋友围住要抱抱",
@@ -64476,7 +64548,7 @@
     },
     {
       "raw_hot": 85359,
-      "num": 183826,
+      "num": 844401,
       "word": "未成年人网络保护",
       "onboard_time": 1698157478,
       "rank": 28,
@@ -65089,6 +65161,14 @@
       "onboard_time": 1696854094,
       "rank": 2,
       "category": "社会新闻,体育"
+    },
+    {
+      "raw_hot": 73891,
+      "num": 84167,
+      "word": "气垫测评",
+      "onboard_time": 1698162040,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 73690,

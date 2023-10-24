@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698161704942,
+  "endTime": 1698164525791,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -195,20 +195,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1829177,
+      "num": 1829177,
+      "word": "李佳琦公司美ONE合同细则曝光",
+      "onboard_time": 1698159880,
+      "rank": 10,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 1820587,
       "num": 1820587,
       "word": "5.9一瓶的粉底液",
       "onboard_time": 1698043966,
       "rank": 4,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1803681,
-      "num": 1803681,
-      "word": "李佳琦公司美ONE合同细则曝光",
-      "onboard_time": 1698159880,
-      "rank": 10,
-      "category": "美妆,网红"
     },
     {
       "raw_hot": 1799925,
@@ -905,6 +905,14 @@
       "onboard_time": 1698020193,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 827341,
+      "num": 827341,
+      "word": "双十一 洗发水",
+      "onboard_time": 1698161673,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 813855,
@@ -1963,6 +1971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 464253,
+      "num": 196737,
+      "word": "问心 第二季",
+      "onboard_time": 1698163413,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 462844,
       "num": 462844,
       "word": "多地对归国留学生开放定向选调",
@@ -2875,6 +2891,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 337856,
+      "num": 260744,
+      "word": "不敢相信这是牛牛工作室拍出来的",
+      "onboard_time": 1698161437,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 336622,
       "num": 336622,
       "word": "刘慈欣要魔改三体",
@@ -2929,6 +2953,14 @@
       "onboard_time": 1698117574,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 330353,
+      "num": 330353,
+      "word": "邓为为对手戏演员磨掉棍子的刺",
+      "onboard_time": 1698161795,
+      "rank": 5,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 329755,
@@ -4443,6 +4475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222304,
+      "num": 222304,
+      "word": "王小波是中国最早的程序员之一",
+      "onboard_time": 1698160659,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 222145,
       "num": 222145,
       "word": "BLG战胜FNC",
@@ -4835,6 +4875,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 205587,
+      "num": 126466,
+      "word": "小蛮腰发型",
+      "onboard_time": 1698162993,
+      "rank": 30,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 205452,
       "num": 205452,
       "word": "藏族女孩被偶像教唱歌献20条哈达",
@@ -4889,14 +4937,6 @@
       "onboard_time": 1698057108,
       "rank": 31,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 204118,
-      "num": 164319,
-      "word": "王小波是中国最早的程序员之一",
-      "onboard_time": 1698160659,
-      "rank": 47,
-      "category": "读书作家"
     },
     {
       "raw_hot": 204048,
@@ -5779,6 +5819,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 176107,
+      "num": 176107,
+      "word": "胡先煦的哑药过期了",
+      "onboard_time": 1698162812,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176068,
       "num": 213924,
       "word": "两只狗狗差距怎么这么大呢",
@@ -6315,6 +6363,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 157203,
+      "num": 157203,
+      "word": "华浅苏醒",
+      "onboard_time": 1698161855,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157110,
       "num": 157110,
       "word": "普通男孩自学化妆",
@@ -6329,14 +6385,6 @@
       "onboard_time": 1697963911,
       "rank": 38,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 156733,
-      "num": 156733,
-      "word": "不敢相信这是牛牛工作室拍出来的",
-      "onboard_time": 1698161437,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 156644,
@@ -6553,6 +6601,14 @@
       "onboard_time": 1697930301,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 150670,
+      "num": 150670,
+      "word": "薛之谦好熟悉的摸头手势",
+      "onboard_time": 1698163292,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 150619,
@@ -7283,14 +7339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 132542,
-      "num": 132542,
-      "word": "双十一 洗发水",
-      "onboard_time": 1698161673,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 132487,
       "num": 206350,
       "word": "00后教天猫做双11",
@@ -7601,6 +7649,14 @@
       "onboard_time": 1697981613,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 125201,
+      "num": 125201,
+      "word": "花少先导片",
+      "onboard_time": 1698162097,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 124802,
@@ -7960,6 +8016,14 @@
       "word": "重庆这地形再次验证背篼的必要性",
       "onboard_time": 1698149922,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 112687,
+      "num": 112687,
+      "word": "男子医院陪护时为重症监护老人筹药费",
+      "onboard_time": 1698164249,
+      "rank": 37,
       "category": "社会新闻"
     },
     {
@@ -8475,6 +8539,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93187,
+      "num": 93187,
+      "word": "马晓龙 每次跳hiphop我就贫血",
+      "onboard_time": 1698164131,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93009,
       "num": 194323,
       "word": "零成本自制化妆刷清洗工具",
@@ -8564,7 +8636,7 @@
     },
     {
       "raw_hot": 85359,
-      "num": 183826,
+      "num": 844401,
       "word": "未成年人网络保护",
       "onboard_time": 1698157478,
       "rank": 28,
@@ -8713,6 +8785,14 @@
       "onboard_time": 1698143851,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 73891,
+      "num": 84167,
+      "word": "气垫测评",
+      "onboard_time": 1698162040,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 73690,
