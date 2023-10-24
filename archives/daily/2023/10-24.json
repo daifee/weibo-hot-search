@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698129360558,
+  "endTime": 1698131746129,
   "band_list": [
     {
       "raw_hot": 2524145,
@@ -9,6 +9,14 @@
       "onboard_time": 1698120878,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2351925,
+      "num": 2351925,
+      "word": "李佳琦直播间时隔43天再次带货花西子",
+      "onboard_time": 1698130413,
+      "rank": 0,
+      "category": "网红,美妆"
     },
     {
       "raw_hot": 2286708,
@@ -83,6 +91,22 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 1156581,
+      "num": 1156581,
+      "word": "眉笔 消费降级",
+      "onboard_time": 1698127475,
+      "rank": 13,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 1032631,
+      "num": 409945,
+      "word": "京东采销喊话李佳琦",
+      "onboard_time": 1698131073,
+      "rank": 10,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 964068,
       "num": 964068,
       "word": "咱仨把燃冬演好比什么都重要",
@@ -131,14 +155,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 836077,
-      "num": 836077,
-      "word": "眉笔 消费降级",
-      "onboard_time": 1698127475,
-      "rank": 13,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 834475,
       "num": 834475,
       "word": "中国台湾地区附近发生5.9级左右地震",
@@ -177,6 +193,14 @@
       "onboard_time": 1698118534,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 651994,
+      "num": 651994,
+      "word": "张踩铃 当我生了一个两岁半的老干部",
+      "onboard_time": 1698130054,
+      "rank": 5,
+      "category": "网红"
     },
     {
       "raw_hot": 651815,
@@ -395,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 417237,
+      "num": 417237,
+      "word": "π是无限不循环小数的可视化",
+      "onboard_time": 1698127775,
+      "rank": 19,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 411887,
       "num": 411887,
       "word": "中美经济工作组举行第一次会议",
@@ -411,12 +443,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 401302,
-      "num": 401302,
-      "word": "π是无限不循环小数的可视化",
-      "onboard_time": 1698127775,
-      "rank": 19,
-      "category": "知识科普"
+      "raw_hot": 403747,
+      "num": 403747,
+      "word": "你常买的粉底液多少钱",
+      "onboard_time": 1698130234,
+      "rank": 12,
+      "category": "美妆"
     },
     {
       "raw_hot": 395659,
@@ -521,6 +553,14 @@
       "onboard_time": 1698116435,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 352870,
+      "num": 412514,
+      "word": "独自出门失踪3岁女童已找到",
+      "onboard_time": 1698130715,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 352797,
@@ -707,6 +747,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 257986,
+      "num": 257986,
+      "word": "帕梅拉新浪扫楼",
+      "onboard_time": 1698129154,
+      "rank": 34,
+      "category": "运动健身,网红"
+    },
+    {
       "raw_hot": 255944,
       "num": 255944,
       "word": "问心收官",
@@ -779,6 +827,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 240387,
+      "num": 240387,
+      "word": "官方回应女子举报嫂子出轨生子",
+      "onboard_time": 1698128796,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 235878,
+      "num": 211871,
+      "word": "欧阳娜娜白开水妆",
+      "onboard_time": 1698130356,
+      "rank": 26,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 235759,
+      "num": 211133,
+      "word": "蔡文静扮装成安娜去迪士尼",
+      "onboard_time": 1698128975,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234944,
       "num": 234944,
       "word": "恋与铁王座",
@@ -811,6 +883,14 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 225731,
+      "num": 209264,
+      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
+      "onboard_time": 1698130473,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 225590,
       "num": 225590,
       "word": "檀健次首专",
@@ -825,6 +905,14 @@
       "onboard_time": 1698103590,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 220659,
+      "num": 220659,
+      "word": "海氏品牌方要求京东恢复正常价格",
+      "onboard_time": 1698129993,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 215279,
@@ -873,6 +961,14 @@
       "onboard_time": 1698122623,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 208714,
+      "num": 208714,
+      "word": "潘玮柏提醒粉丝不要真的不回家",
+      "onboard_time": 1698129993,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 206480,
@@ -971,6 +1067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 192321,
+      "num": 192321,
+      "word": "数码宝贝第二部主题曲公开",
+      "onboard_time": 1698129454,
+      "rank": 33,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 190097,
       "num": 190097,
       "word": "京东火力",
@@ -1009,6 +1113,14 @@
       "onboard_time": 1698114454,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186837,
+      "num": 213310,
+      "word": "吃药不良习惯 食道损伤",
+      "onboard_time": 1698131435,
+      "rank": 24,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 186101,
@@ -1147,6 +1259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164127,
+      "num": 164127,
+      "word": "韩女妆",
+      "onboard_time": 1698129154,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 162341,
+      "num": 209717,
+      "word": "美国一机组人员试图在飞行途中关闭发动机",
+      "onboard_time": 1698129334,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 160561,
       "num": 160561,
       "word": "程序员节",
@@ -1187,19 +1315,19 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 154997,
+      "num": 154997,
+      "word": "深秋的第一只口红",
+      "onboard_time": 1698129273,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 154481,
       "num": 154481,
       "word": "女子停车挡住车流飞奔抱起女童",
       "onboard_time": 1698110380,
       "rank": 34,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 154365,
-      "num": 154365,
-      "word": "官方回应女子举报嫂子出轨生子",
-      "onboard_time": 1698128796,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -1227,20 +1355,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 149017,
+      "num": 149017,
+      "word": "可恶我买的联名口红就是重新喷漆",
+      "onboard_time": 1698130113,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 147822,
       "num": 147822,
       "word": "待播古偶剧你最期待哪部",
       "onboard_time": 1698110018,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146181,
-      "num": 146181,
-      "word": "蔡文静扮装成安娜去迪士尼",
-      "onboard_time": 1698128975,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 145776,
@@ -1265,14 +1393,6 @@
       "onboard_time": 1698104854,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 144879,
-      "num": 144879,
-      "word": "帕梅拉新浪扫楼",
-      "onboard_time": 1698129154,
-      "rank": 34,
-      "category": "运动健身,网红"
     },
     {
       "raw_hot": 144673,
@@ -1412,7 +1532,7 @@
     },
     {
       "raw_hot": 129143,
-      "num": 140279,
+      "num": 1282856,
       "word": "成功发射遥感三十九号卫星",
       "onboard_time": 1698116614,
       "rank": 29,
@@ -1459,14 +1579,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 122050,
-      "num": 122050,
-      "word": "韩女妆",
-      "onboard_time": 1698129154,
-      "rank": 38,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 121508,
       "num": 121508,
       "word": "秋季最后一个节气",
@@ -1483,11 +1595,11 @@
       "category": "其它"
     },
     {
-      "raw_hot": 120212,
-      "num": 120212,
-      "word": "深秋的第一只口红",
-      "onboard_time": 1698129273,
-      "rank": 40,
+      "raw_hot": 120739,
+      "num": 120739,
+      "word": "水晶葡萄妆",
+      "onboard_time": 1698131673,
+      "rank": 43,
       "category": "美妆"
     },
     {
@@ -1496,6 +1608,22 @@
       "word": "老人被救出院后第一时间给民警送锦旗",
       "onboard_time": 1698116016,
       "rank": 38,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 118697,
+      "num": 118697,
+      "word": "妲己妆详细教程",
+      "onboard_time": 1698131673,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 117519,
+      "num": 117519,
+      "word": "男孩公交上晕倒全车暖心守护",
+      "onboard_time": 1698131495,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
@@ -1529,6 +1657,14 @@
       "onboard_time": 1698071264,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107804,
+      "num": 107804,
+      "word": "时尚博主看似自然的街拍",
+      "onboard_time": 1698131736,
+      "rank": 48,
+      "category": "美妆"
     },
     {
       "raw_hot": 107221,
@@ -1601,14 +1737,6 @@
       "onboard_time": 1698118595,
       "rank": 10,
       "category": "数码"
-    },
-    {
-      "raw_hot": 96235,
-      "num": 118891,
-      "word": "美国一机组人员试图在飞行途中关闭发动机",
-      "onboard_time": 1698129334,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 89713,
@@ -1737,6 +1865,14 @@
       "onboard_time": 1698064359,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 25216,
+      "num": 381053,
+      "word": "好事成双非会员收官",
+      "onboard_time": 1698130835,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 20278,

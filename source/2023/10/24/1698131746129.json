@@ -1,0 +1,410 @@
+{
+  "runTime": 1698131746129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2351925,
+        "num": 2351925,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 0,
+        "category": "网红,美妆"
+      },
+      {
+        "raw_hot": 1532318,
+        "num": 1532318,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 1,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 25232,
+        "num": 1282856,
+        "word": "成功发射遥感三十九号卫星",
+        "onboard_time": 1698116614,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1191651,
+        "num": 1191651,
+        "word": "迪丽热巴微信名",
+        "onboard_time": 1698126694,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1156581,
+        "num": 1156581,
+        "word": "眉笔 消费降级",
+        "onboard_time": 1698127475,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 651994,
+        "num": 651994,
+        "word": "张踩铃 当我生了一个两岁半的老干部",
+        "onboard_time": 1698130054,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 460685,
+        "num": 460685,
+        "word": "谁把辛芷蕾的共享单车骑走了",
+        "onboard_time": 1698126093,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417237,
+        "num": 417237,
+        "word": "π是无限不循环小数的可视化",
+        "onboard_time": 1698127775,
+        "rank": 7,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 353440,
+        "num": 414767,
+        "word": "印尼封禁TikTok电商是一个错误",
+        "onboard_time": 1698126637,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 352870,
+        "num": 412514,
+        "word": "独自出门失踪3岁女童已找到",
+        "onboard_time": 1698130715,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1032631,
+        "num": 409945,
+        "word": "京东采销喊话李佳琦",
+        "onboard_time": 1698131073,
+        "rank": 10,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 455087,
+        "num": 406193,
+        "word": "傅首尔因为愧疚无法下定决心离婚",
+        "onboard_time": 1698122263,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403747,
+        "num": 403747,
+        "word": "你常买的粉底液多少钱",
+        "onboard_time": 1698130234,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 395590,
+        "num": 395590,
+        "word": "林心如参加首档综艺",
+        "onboard_time": 1698125795,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25216,
+        "num": 381053,
+        "word": "好事成双非会员收官",
+        "onboard_time": 1698130835,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 376030,
+        "num": 376030,
+        "word": "沈梦辰想把这个妆焊死在脸上",
+        "onboard_time": 1698127297,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 257986,
+        "num": 257986,
+        "word": "帕梅拉新浪扫楼",
+        "onboard_time": 1698129154,
+        "rank": 16,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 240387,
+        "num": 240387,
+        "word": "官方回应女子举报嫂子出轨生子",
+        "onboard_time": 1698128796,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 220659,
+        "num": 220659,
+        "word": "海氏品牌方要求京东恢复正常价格",
+        "onboard_time": 1698129993,
+        "rank": 18,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 219844,
+        "num": 219844,
+        "word": "美籍男子抵达香港时行李搜出手枪",
+        "onboard_time": 1698123580,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 294786,
+        "num": 217426,
+        "word": "迪丽热巴快把自己跑yue了",
+        "onboard_time": 1698125017,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 251847,
+        "num": 216971,
+        "word": "父亲要求月入6000元女儿付4500元赡养费",
+        "onboard_time": 1698108278,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250081,
+        "num": 215762,
+        "word": "许佳琪出现呼吸困难症状",
+        "onboard_time": 1698120878,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213501,
+        "num": 213501,
+        "word": "杨舒予再发文拒绝粉丝接机",
+        "onboard_time": 1698125375,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186837,
+        "num": 213310,
+        "word": "吃药不良习惯 食道损伤",
+        "onboard_time": 1698131435,
+        "rank": 24,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 245137,
+        "num": 212455,
+        "word": "谢娜杨紫新综艺",
+        "onboard_time": 1698123340,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235878,
+        "num": 211871,
+        "word": "欧阳娜娜白开水妆",
+        "onboard_time": 1698130356,
+        "rank": 26,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 235759,
+        "num": 211133,
+        "word": "蔡文静扮装成安娜去迪士尼",
+        "onboard_time": 1698128975,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182946,
+        "num": 210243,
+        "word": "吉林一小区爆炸致1死16伤",
+        "onboard_time": 1698123036,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162341,
+        "num": 209717,
+        "word": "美国一机组人员试图在飞行途中关闭发动机",
+        "onboard_time": 1698129334,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225731,
+        "num": 209264,
+        "word": "哈马斯释放两名以色列女性并赠送零食饮料",
+        "onboard_time": 1698130473,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 208714,
+        "num": 208714,
+        "word": "潘玮柏提醒粉丝不要真的不回家",
+        "onboard_time": 1698129993,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201060,
+        "num": 201060,
+        "word": "六姊妹主演阵容",
+        "onboard_time": 1698126997,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192321,
+        "num": 192321,
+        "word": "数码宝贝第二部主题曲公开",
+        "onboard_time": 1698129454,
+        "rank": 33,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 164127,
+        "num": 164127,
+        "word": "韩女妆",
+        "onboard_time": 1698129154,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147429,
+        "num": 156647,
+        "word": "日本科学家称人类精子打败了牛顿",
+        "onboard_time": 1698125795,
+        "rank": 35,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 154997,
+        "num": 154997,
+        "word": "深秋的第一只口红",
+        "onboard_time": 1698129273,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 150653,
+        "num": 150653,
+        "word": "我要逆风去 定档",
+        "onboard_time": 1698120937,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149017,
+        "num": 149017,
+        "word": "可恶我买的联名口红就是重新喷漆",
+        "onboard_time": 1698130113,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138325,
+        "num": 138325,
+        "word": "男子看黄网一夜转账26次被骗450万",
+        "onboard_time": 1698113493,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 135569,
+        "num": 135569,
+        "word": "熊猫妈妈剥竹子没有崽崽吃得快",
+        "onboard_time": 1698122382,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134891,
+        "num": 134891,
+        "word": "广州草莓音乐节阵容",
+        "onboard_time": 1698126637,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125242,
+        "num": 125242,
+        "word": "徐老师镜头下的杨紫",
+        "onboard_time": 1698126036,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120739,
+        "num": 120739,
+        "word": "水晶葡萄妆",
+        "onboard_time": 1698131673,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 118697,
+        "num": 118697,
+        "word": "妲己妆详细教程",
+        "onboard_time": 1698131673,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 117519,
+        "num": 117519,
+        "word": "男孩公交上晕倒全车暖心守护",
+        "onboard_time": 1698131495,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 115919,
+        "num": 115919,
+        "word": "外媒炒作中国6艘舰艇同时现身中东",
+        "onboard_time": 1698123762,
+        "rank": 46,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 112134,
+        "num": 112134,
+        "word": "向全球顶级富豪征税2%或可创收2500亿美元",
+        "onboard_time": 1698126816,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107804,
+        "num": 107804,
+        "word": "时尚博主看似自然的街拍",
+        "onboard_time": 1698131736,
+        "rank": 48,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 106940,
+        "num": 106940,
+        "word": "为有暗香来 丫鬟妆造",
+        "onboard_time": 1698113253,
+        "rank": 49,
+        "category": "剧集,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持党对工会的全面领导#"
+    }
+  }
+}
