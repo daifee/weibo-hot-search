@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698164525791,
+  "endTime": 1698165505143,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -899,20 +899,20 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 829835,
+      "num": 829835,
+      "word": "双十一 洗发水",
+      "onboard_time": 1698161673,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 828686,
       "num": 828686,
       "word": "刘少昂0.02秒惊险夺冠",
       "onboard_time": 1698020193,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 827341,
-      "num": 827341,
-      "word": "双十一 洗发水",
-      "onboard_time": 1698161673,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 813855,
@@ -3395,6 +3395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 291660,
+      "num": 222304,
+      "word": "王小波是中国最早的程序员之一",
+      "onboard_time": 1698160659,
+      "rank": 47,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 290716,
       "num": 290716,
       "word": "黄奕cos奥黛丽赫本",
@@ -4475,14 +4483,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 222304,
-      "num": 222304,
-      "word": "王小波是中国最早的程序员之一",
-      "onboard_time": 1698160659,
-      "rank": 47,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 222145,
       "num": 222145,
       "word": "BLG战胜FNC",
@@ -4715,6 +4715,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 211948,
+      "num": 201140,
+      "word": "小蛮腰发型",
+      "onboard_time": 1698162993,
+      "rank": 30,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 211891,
       "num": 211891,
       "word": "对普通人来说500元什么概念",
@@ -4873,14 +4881,6 @@
       "onboard_time": 1698132034,
       "rank": 27,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 205587,
-      "num": 126466,
-      "word": "小蛮腰发型",
-      "onboard_time": 1698162993,
-      "rank": 30,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 205452,
@@ -7899,6 +7899,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 115895,
+      "num": 115895,
+      "word": "周迅 狠起来自己都不放过",
+      "onboard_time": 1698164965,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115115,
       "num": 115115,
       "word": "刘惜君暗夜星河流光裙",
@@ -8577,6 +8585,14 @@
       "onboard_time": 1698142955,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 90464,
+      "num": 90464,
+      "word": "高龄孕妇突发低血糖一群人出手了",
+      "onboard_time": 1698162754,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 89896,
