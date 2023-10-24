@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698165505143,
+  "endTime": 1698167772974,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -123,6 +123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 263258,
+      "num": 263258,
+      "word": "小蛮腰发型",
+      "onboard_time": 1698162993,
+      "rank": 30,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 257962,
       "num": 257962,
       "word": "双十一 卫生巾",
@@ -145,14 +153,6 @@
       "onboard_time": 1698154116,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 211948,
-      "num": 201140,
-      "word": "小蛮腰发型",
-      "onboard_time": 1698162993,
-      "rank": 30,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 203300,
@@ -291,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114563,
+      "num": 114563,
+      "word": "曾舜晞吻戏苏感",
+      "onboard_time": 1698166465,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113601,
       "num": 113601,
       "word": "0失误花苞头教程",
@@ -417,11 +425,30 @@
       "onboard_time": 1698157478,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 69106,
+      "num": 69106,
+      "word": "田耕纪有自己的海底捞",
+      "onboard_time": 1698165807,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61304,
+      "num": 61304,
+      "word": "翻开秋日终章",
+      "onboard_time": 1698167001,
+      "rank": 38,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
     {
       "word": "#坚持党对工会的全面领导#"
+    },
+    {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
     }
   ]
 }

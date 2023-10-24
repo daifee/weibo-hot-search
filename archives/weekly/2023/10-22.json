@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698165505143,
+  "endTime": 1698167772974,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -3803,6 +3803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 263258,
+      "num": 263258,
+      "word": "小蛮腰发型",
+      "onboard_time": 1698162993,
+      "rank": 30,
+      "category": "美妆,时尚"
+    },
+    {
       "raw_hot": 263154,
       "num": 263154,
       "word": "尚有293个国考职位无人通过资格审查",
@@ -4713,14 +4721,6 @@
       "onboard_time": 1698029372,
       "rank": 33,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 211948,
-      "num": 201140,
-      "word": "小蛮腰发型",
-      "onboard_time": 1698162993,
-      "rank": 30,
-      "category": "美妆,时尚"
     },
     {
       "raw_hot": 211891,
@@ -7963,6 +7963,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 114563,
+      "num": 114563,
+      "word": "曾舜晞吻戏苏感",
+      "onboard_time": 1698166465,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114176,
       "num": 137823,
       "word": "粉丝评于适健身视频",
@@ -8859,6 +8867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69106,
+      "num": 69106,
+      "word": "田耕纪有自己的海底捞",
+      "onboard_time": 1698165807,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66041,
       "num": 1027741,
       "word": "漫天桂花给了亚运年独有的浪漫记忆",
@@ -8913,6 +8929,14 @@
       "onboard_time": 1698157778,
       "rank": 41,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 61304,
+      "num": 61304,
+      "word": "翻开秋日终章",
+      "onboard_time": 1698167001,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 58344,
