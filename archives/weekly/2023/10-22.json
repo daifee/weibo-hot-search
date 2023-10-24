@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698182105576,
+  "endTime": 1698183247680,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -8379,6 +8379,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100732,
+      "num": 100732,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 100697,
       "num": 71151,
       "word": "2000米混接中国队晋级决赛",
@@ -8552,14 +8560,6 @@
       "word": "王石称OPPO折叠屏是安全天花板",
       "onboard_time": 1698030575,
       "rank": 27,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93315,
-      "num": 93315,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -9172,7 +9172,7 @@
     },
     {
       "raw_hot": 35270,
-      "num": 27219,
+      "num": 28232,
       "word": "以后我的人设就是任性独生女",
       "onboard_time": 1698175694,
       "rank": 48,
@@ -9275,6 +9275,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 16580,
+      "num": 16580,
+      "word": "真人版海王",
+      "onboard_time": 1698180673,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 16557,
       "num": 19344,
       "word": "2023大湾区音乐汇",
@@ -9299,20 +9307,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 13876,
-      "num": 14534,
-      "word": "真人版海王",
-      "onboard_time": 1698180673,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 13634,
       "num": 14715,
       "word": "侯明昊伞舞",
       "onboard_time": 1697921355,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13412,
+      "num": 14506,
+      "word": "6个动作甩掉小肚腩",
+      "onboard_time": 1698181752,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 13022,
@@ -9323,12 +9331,20 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 12393,
-      "num": 14506,
-      "word": "6个动作甩掉小肚腩",
-      "onboard_time": 1698181752,
-      "rank": 46,
-      "category": "运动健身"
+      "raw_hot": 12613,
+      "num": 14401,
+      "word": "双11不买清单",
+      "onboard_time": 1698182893,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 11706,
+      "num": 14354,
+      "word": "小松鼠拿着落叶来换吃的了",
+      "onboard_time": 1698183195,
+      "rank": 49,
+      "category": "动物萌宠"
     }
   ],
   "hotgov_list": [
