@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698118465584,
+  "endTime": 1698121198172,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -723,6 +723,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 756760,
+      "num": 756760,
+      "word": "金世佳毛晓彤吻戏",
+      "onboard_time": 1698117875,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 755940,
       "num": 370787,
       "word": "黄渤加入李冰冰周也自拍",
@@ -1131,6 +1139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 536602,
+      "num": 536602,
+      "word": "于正下部剧邀请了周也",
+      "onboard_time": 1698119498,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535455,
       "num": 535455,
       "word": "青岛啤酒事件涉事人员均为外用工",
@@ -1145,6 +1161,14 @@
       "onboard_time": 1698021815,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 534779,
+      "num": 534779,
+      "word": "河南3岁女童独自下楼玩失踪",
+      "onboard_time": 1698118534,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 533117,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1698055610,
       "rank": 13,
       "category": "美食"
+    },
+    {
+      "raw_hot": 522873,
+      "num": 522873,
+      "word": "初一和高三撞班旗高低得合张影",
+      "onboard_time": 1698117156,
+      "rank": 32,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 522024,
@@ -1435,6 +1467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 463071,
+      "num": 463071,
+      "word": "恋与制作人 你说公主请抽卡",
+      "onboard_time": 1698119915,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 462844,
       "num": 462844,
       "word": "多地对归国留学生开放定向选调",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1697977890,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 455130,
+      "num": 455130,
+      "word": "2024MSI 成都",
+      "onboard_time": 1698119615,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 454816,
@@ -1625,6 +1673,14 @@
       "onboard_time": 1697951134,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 421072,
+      "num": 421072,
+      "word": "李敏镐金智秀安孝燮将合作新电影",
+      "onboard_time": 1698117694,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 420016,
@@ -1860,7 +1916,7 @@
     },
     {
       "raw_hot": 388964,
-      "num": 190280,
+      "num": 243393,
       "word": "我爸把我的嫁妆给败光了",
       "onboard_time": 1698114753,
       "rank": 30,
@@ -2043,12 +2099,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 361460,
-      "num": 361460,
-      "word": "初一和高三撞班旗高低得合张影",
-      "onboard_time": 1698117156,
-      "rank": 32,
-      "category": "社会新闻,教育"
+      "raw_hot": 362977,
+      "num": 362977,
+      "word": "凤凰传奇 人没出来歌先唱起来了",
+      "onboard_time": 1698118957,
+      "rank": 12,
+      "category": "音乐"
     },
     {
       "raw_hot": 361401,
@@ -2571,6 +2627,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 292543,
+      "num": 292543,
+      "word": "许佳琪出现呼吸困难症状",
+      "onboard_time": 1698120878,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 291949,
       "num": 291949,
       "word": "山西太原三车相撞致2死6伤",
@@ -2681,6 +2745,14 @@
       "onboard_time": 1697891314,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 283199,
+      "num": 283199,
+      "word": "迪丽热巴碎钻流苏裙",
+      "onboard_time": 1698120459,
+      "rank": 15,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 282142,
@@ -2809,14 +2881,6 @@
       "onboard_time": 1698032492,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 271591,
-      "num": 271591,
-      "word": "李敏镐金智秀安孝燮将合作新电影",
-      "onboard_time": 1698117694,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 271420,
@@ -2971,12 +3035,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 255944,
+      "num": 255944,
+      "word": "问心收官",
+      "onboard_time": 1698118174,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255870,
       "num": 255870,
       "word": "被老祖宗的审美惊艳到了",
       "onboard_time": 1698069103,
       "rank": 28,
       "category": "其它"
+    },
+    {
+      "raw_hot": 255518,
+      "num": 255518,
+      "word": "妈妈在成为妈妈前也是公主",
+      "onboard_time": 1698120036,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 254919,
@@ -3147,6 +3227,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 239734,
+      "num": 239734,
+      "word": "加沙医院缺电少药做手术没灯",
+      "onboard_time": 1698119197,
+      "rank": 25,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 239663,
       "num": 239663,
       "word": "马嘉祺 公主请下车",
@@ -3275,6 +3363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 234944,
+      "num": 234944,
+      "word": "恋与铁王座",
+      "onboard_time": 1698119498,
+      "rank": 26,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 234468,
       "num": 213807,
       "word": "甄姬西施至美风华系列皮肤",
@@ -3313,6 +3409,14 @@
       "onboard_time": 1697986476,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232286,
+      "num": 232286,
+      "word": "频繁染发直发增加患癌风险",
+      "onboard_time": 1698115773,
+      "rank": 45,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 232131,
@@ -3659,14 +3763,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211553,
-      "num": 211553,
-      "word": "问心收官",
-      "onboard_time": 1698118174,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 211188,
       "num": 211188,
       "word": "少女时代旧照",
@@ -3867,6 +3963,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 202589,
+      "num": 202589,
+      "word": "我要逆风去 定档",
+      "onboard_time": 1698120937,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202379,
       "num": 213818,
       "word": "马哲车牌31415",
@@ -3961,14 +4065,6 @@
       "onboard_time": 1698034236,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200578,
-      "num": 152628,
-      "word": "金世佳毛晓彤吻戏",
-      "onboard_time": 1698117875,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 200142,
@@ -4139,6 +4235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193872,
+      "num": 193872,
+      "word": "电影黑金古殿定档",
+      "onboard_time": 1698120878,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193784,
       "num": 336756,
       "word": "男子骑行被小学生集体加油喊男神",
@@ -4281,6 +4385,14 @@
       "onboard_time": 1698118234,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189166,
+      "num": 189166,
+      "word": "权顺荣舞台",
+      "onboard_time": 1698120396,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 189117,
@@ -4739,6 +4851,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 169111,
+      "num": 169111,
+      "word": "周鸿祎称程序员节是唯一不能放假的节日",
+      "onboard_time": 1698120819,
+      "rank": 36,
+      "category": "科技"
+    },
+    {
       "raw_hot": 168921,
       "num": 168921,
       "word": "数码宝贝cos被选召的孩子",
@@ -4889,6 +5009,14 @@
       "onboard_time": 1698111156,
       "rank": 28,
       "category": "科技"
+    },
+    {
+      "raw_hot": 160489,
+      "num": 160489,
+      "word": "蜘蛛侠也逃不脱房贷",
+      "onboard_time": 1698120217,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 160231,
@@ -5073,6 +5201,14 @@
       "onboard_time": 1697934028,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 152867,
+      "num": 152867,
+      "word": "狗狗的暗示还不明显吗",
+      "onboard_time": 1698120760,
+      "rank": 41,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 152554,
@@ -5931,6 +6067,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 125529,
+      "num": 125529,
+      "word": "干净服帖的底妆大法",
+      "onboard_time": 1698121178,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 125345,
       "num": 125345,
       "word": "XHW战胜KSG",
@@ -6459,14 +6603,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 103720,
-      "num": 103720,
-      "word": "频繁染发直发增加患癌风险",
-      "onboard_time": 1698115773,
-      "rank": 45,
-      "category": "健康医疗,知识科普"
-    },
-    {
       "raw_hot": 102941,
       "num": 102941,
       "word": "夫妻摆摊卖盒饭收留聋哑人3余年",
@@ -6859,6 +6995,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73030,
+      "num": 139346,
+      "word": "iPhone15双11降价近千元",
+      "onboard_time": 1698121059,
+      "rank": 43,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 72429,
+      "num": 421379,
+      "word": "小米影像传感器品牌首次公布",
+      "onboard_time": 1698118595,
+      "rank": 10,
+      "category": "数码"
+    },
+    {
       "raw_hot": 71979,
       "num": 79830,
       "word": "北京脆皮年轻人不服来战",
@@ -7065,6 +7217,14 @@
       "onboard_time": 1698102145,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 45408,
+      "num": 121109,
+      "word": "天猫听劝版双11今晚八点上线",
+      "onboard_time": 1698120396,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 40220,

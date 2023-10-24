@@ -1,0 +1,410 @@
+{
+  "runTime": 1698121198172,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1083747,
+        "num": 1083747,
+        "word": "为有暗香来 丫鬟妆造",
+        "onboard_time": 1698113253,
+        "rank": 0,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 756760,
+        "num": 756760,
+        "word": "金世佳毛晓彤吻戏",
+        "onboard_time": 1698117875,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15849,
+        "num": 622656,
+        "word": "杭州亚残运会观赛指南",
+        "onboard_time": 1698117034,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 536602,
+        "num": 536602,
+        "word": "于正下部剧邀请了周也",
+        "onboard_time": 1698119498,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 534779,
+        "num": 534779,
+        "word": "河南3岁女童独自下楼玩失踪",
+        "onboard_time": 1698118534,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 522873,
+        "num": 522873,
+        "word": "初一和高三撞班旗高低得合张影",
+        "onboard_time": 1698117156,
+        "rank": 5,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 522196,
+        "num": 522196,
+        "word": "华为澄清将发射1万枚6G移动低轨卫星",
+        "onboard_time": 1698116136,
+        "rank": 6,
+        "category": "科技,国内要闻"
+      },
+      {
+        "raw_hot": 463071,
+        "num": 463071,
+        "word": "恋与制作人 你说公主请抽卡",
+        "onboard_time": 1698119915,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 455130,
+        "num": 455130,
+        "word": "2024MSI 成都",
+        "onboard_time": 1698119615,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 424324,
+        "num": 424324,
+        "word": "上海迪士尼疯狂动物城12月20日开放",
+        "onboard_time": 1698115173,
+        "rank": 9,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 72429,
+        "num": 421379,
+        "word": "小米影像传感器品牌首次公布",
+        "onboard_time": 1698118595,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 421072,
+        "num": 421072,
+        "word": "李敏镐金智秀安孝燮将合作新电影",
+        "onboard_time": 1698117694,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362977,
+        "num": 362977,
+        "word": "凤凰传奇 人没出来歌先唱起来了",
+        "onboard_time": 1698118957,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 361526,
+        "num": 361526,
+        "word": "咱仨把燃冬演好比什么都重要",
+        "onboard_time": 1698106418,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 292543,
+        "num": 292543,
+        "word": "许佳琪出现呼吸困难症状",
+        "onboard_time": 1698120878,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283199,
+        "num": 283199,
+        "word": "迪丽热巴碎钻流苏裙",
+        "onboard_time": 1698120459,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 267324,
+        "num": 267324,
+        "word": "学者称股市涨1000点居民财富多25万亿",
+        "onboard_time": 1698113735,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 255944,
+        "num": 255944,
+        "word": "问心收官",
+        "onboard_time": 1698118174,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255518,
+        "num": 255518,
+        "word": "妈妈在成为妈妈前也是公主",
+        "onboard_time": 1698120036,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 254718,
+        "num": 254718,
+        "word": "字节跳动旗下PICO近半员工离开",
+        "onboard_time": 1698112294,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1245226,
+        "num": 251541,
+        "word": "父亲要求月入6000元女儿付4500元赡养费",
+        "onboard_time": 1698108278,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472464,
+        "num": 249550,
+        "word": "男子看黄网一夜转账26次被骗450万",
+        "onboard_time": 1698113493,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 293454,
+        "num": 245167,
+        "word": "以色列网红嘲讽遭轰炸的巴勒斯坦平民被批",
+        "onboard_time": 1698106657,
+        "rank": 22,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 293326,
+        "num": 243393,
+        "word": "我爸把我的嫁妆给败光了",
+        "onboard_time": 1698114753,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 241330,
+        "num": 241330,
+        "word": "等一下 有人高价想要",
+        "onboard_time": 1698112294,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 239734,
+        "num": 239734,
+        "word": "加沙医院缺电少药做手术没灯",
+        "onboard_time": 1698119197,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 234944,
+        "num": 234944,
+        "word": "恋与铁王座",
+        "onboard_time": 1698119498,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 232286,
+        "num": 232286,
+        "word": "频繁染发直发增加患癌风险",
+        "onboard_time": 1698115773,
+        "rank": 27,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 229716,
+        "num": 229716,
+        "word": "朱一龙 文艺片票房",
+        "onboard_time": 1698116435,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215695,
+        "num": 215695,
+        "word": "泡面蒸一下比煮的好吃一百倍",
+        "onboard_time": 1698105517,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 211791,
+        "num": 211791,
+        "word": "李雪琴也逃不过马立奥一家的魅力",
+        "onboard_time": 1698114753,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 202589,
+        "num": 202589,
+        "word": "我要逆风去 定档",
+        "onboard_time": 1698120937,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193872,
+        "num": 193872,
+        "word": "电影黑金古殿定档",
+        "onboard_time": 1698120878,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189166,
+        "num": 189166,
+        "word": "权顺荣舞台",
+        "onboard_time": 1698120396,
+        "rank": 33,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 187386,
+        "num": 187386,
+        "word": "飞奔而来的拖把和竹竿救了她一命",
+        "onboard_time": 1698117635,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177328,
+        "num": 177328,
+        "word": "佛山电翰明星版",
+        "onboard_time": 1698114333,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169111,
+        "num": 169111,
+        "word": "周鸿祎称程序员节是唯一不能放假的节日",
+        "onboard_time": 1698120819,
+        "rank": 36,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 168079,
+        "num": 168079,
+        "word": "于适王影璐新片演情侣",
+        "onboard_time": 1698117574,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165772,
+        "num": 165772,
+        "word": "Vernon打乱文俊辉权顺荣cha节奏",
+        "onboard_time": 1698117755,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161648,
+        "num": 161648,
+        "word": "问心",
+        "onboard_time": 1698117156,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160489,
+        "num": 160489,
+        "word": "蜘蛛侠也逃不脱房贷",
+        "onboard_time": 1698120217,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 152867,
+        "num": 152867,
+        "word": "狗狗的暗示还不明显吗",
+        "onboard_time": 1698120760,
+        "rank": 41,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 143299,
+        "num": 143299,
+        "word": "韩庚重返街舞6",
+        "onboard_time": 1698118234,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73030,
+        "num": 139346,
+        "word": "iPhone15双11降价近千元",
+        "onboard_time": 1698121059,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 135958,
+        "num": 135958,
+        "word": "警方通报男子驾车撞击碾压保安",
+        "onboard_time": 1698111873,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 129858,
+        "num": 129858,
+        "word": "终于意识到中文不是加密语言",
+        "onboard_time": 1698111816,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126257,
+        "num": 126257,
+        "word": "她竟然连酸也扛得住",
+        "onboard_time": 1698117096,
+        "rank": 46,
+        "category": "母婴育儿"
+      },
+      {
+        "raw_hot": 125529,
+        "num": 125529,
+        "word": "干净服帖的底妆大法",
+        "onboard_time": 1698121178,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 124034,
+        "num": 124034,
+        "word": "JDG瑞士轮状态",
+        "onboard_time": 1698115473,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45408,
+        "num": 121109,
+        "word": "天猫听劝版双11今晚八点上线",
+        "onboard_time": 1698120396,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国妇女第十三次全国代表大会在京开幕#"
+    }
+  }
+}
