@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698179658034,
+  "endTime": 1698182105576,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -8555,6 +8555,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 93315,
+      "num": 93315,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93187,
       "num": 93187,
       "word": "马晓龙 每次跳hiphop我就贫血",
@@ -8721,14 +8729,6 @@
       "onboard_time": 1697901097,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 80086,
-      "num": 80086,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 80008,
@@ -9171,6 +9171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 35270,
+      "num": 27219,
+      "word": "以后我的人设就是任性独生女",
+      "onboard_time": 1698175694,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 33271,
       "num": 33271,
       "word": "欧阳娣娣方否认参加综艺海选被淘汰",
@@ -9201,14 +9209,6 @@
       "onboard_time": 1698064359,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 27219,
-      "num": 27219,
-      "word": "以后我的人设就是任性独生女",
-      "onboard_time": 1698175694,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 23949,
@@ -9299,6 +9299,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 13876,
+      "num": 14534,
+      "word": "真人版海王",
+      "onboard_time": 1698180673,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 13634,
       "num": 14715,
       "word": "侯明昊伞舞",
@@ -9313,6 +9321,14 @@
       "onboard_time": 1698088754,
       "rank": 49,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 12393,
+      "num": 14506,
+      "word": "6个动作甩掉小肚腩",
+      "onboard_time": 1698181752,
+      "rank": 46,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [

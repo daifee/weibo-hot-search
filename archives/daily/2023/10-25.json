@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698179658034,
+  "endTime": 1698182105576,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -355,6 +355,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 93315,
+      "num": 93315,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 93187,
       "num": 93187,
       "word": "马晓龙 每次跳hiphop我就贫血",
@@ -400,14 +408,6 @@
       "word": "52岁大叔自驾游中国说后悔没有30岁出发",
       "onboard_time": 1698153577,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 80086,
-      "num": 80086,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
       "category": "社会新闻"
     },
     {
@@ -459,7 +459,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 27219,
+      "raw_hot": 35270,
       "num": 27219,
       "word": "以后我的人设就是任性独生女",
       "onboard_time": 1698175694,
@@ -489,6 +489,22 @@
       "onboard_time": 1698174855,
       "rank": 39,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 13876,
+      "num": 14534,
+      "word": "真人版海王",
+      "onboard_time": 1698180673,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 12393,
+      "num": 14506,
+      "word": "6个动作甩掉小肚腩",
+      "onboard_time": 1698181752,
+      "rank": 46,
+      "category": "运动健身"
     }
   ],
   "hotgov_list": [
