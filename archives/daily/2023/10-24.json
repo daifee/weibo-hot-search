@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698109914321,
+  "endTime": 1698111152424,
   "band_list": [
     {
       "raw_hot": 2020302,
@@ -91,8 +91,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 439324,
-      "num": 439324,
+      "raw_hot": 508601,
+      "num": 508601,
       "word": "开学一个多月后儿童精神科爆满",
       "onboard_time": 1698108278,
       "rank": 7,
@@ -131,6 +131,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 395192,
+      "num": 395192,
+      "word": "深圳机场通报不明升空物致航班延误",
+      "onboard_time": 1698109601,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 379814,
+      "num": 379814,
+      "word": "金希澈和自己的婚礼",
+      "onboard_time": 1698106359,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 378579,
       "num": 378579,
       "word": "老舅居然是哈圈隐藏真学霸",
@@ -145,14 +161,6 @@
       "onboard_time": 1698065261,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 359652,
-      "num": 359652,
-      "word": "金希澈和自己的婚礼",
-      "onboard_time": 1698106359,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 352797,
@@ -195,6 +203,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 290225,
+      "num": 290225,
+      "word": "邓为给张晚意分享披萨",
+      "onboard_time": 1698107440,
+      "rank": 17,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 287472,
       "num": 287472,
       "word": "宋雨琦让minnie叫范丞丞显眼包",
@@ -219,12 +235,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 269594,
-      "num": 269594,
-      "word": "邓为给张晚意分享披萨",
-      "onboard_time": 1698107440,
-      "rank": 17,
-      "category": "作品衍生"
+      "raw_hot": 254880,
+      "num": 254880,
+      "word": "文科的核心竞争力",
+      "onboard_time": 1698109238,
+      "rank": 33,
+      "category": "教育"
     },
     {
       "raw_hot": 253837,
@@ -299,6 +315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 213171,
+      "num": 213171,
+      "word": "霉霉残夏登顶公告牌",
+      "onboard_time": 1698110497,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213005,
       "num": 213005,
       "word": "鹿晗TFBOYS演唱会成老年人最爱",
@@ -313,6 +337,14 @@
       "onboard_time": 1698073902,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201440,
+      "num": 201440,
+      "word": "小米14Pro",
+      "onboard_time": 1698110857,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 199950,
@@ -411,27 +443,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164834,
-      "num": 164834,
-      "word": "文科的核心竞争力",
-      "onboard_time": 1698109238,
-      "rank": 33,
-      "category": "教育"
-    },
-    {
       "raw_hot": 159847,
       "num": 168844,
       "word": "阿婆被骗后向民警炫耀是马云团队的",
       "onboard_time": 1698075577,
       "rank": 25,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 158414,
-      "num": 158414,
-      "word": "深圳机场通报不明升空物致航班延误",
-      "onboard_time": 1698109601,
-      "rank": 36,
       "category": "社会新闻"
     },
     {
@@ -451,6 +467,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 154481,
+      "num": 154481,
+      "word": "女子停车挡住车流飞奔抱起女童",
+      "onboard_time": 1698110380,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 150094,
       "num": 167101,
       "word": "费翔自拍",
@@ -464,6 +488,22 @@
       "word": "代理律师回应女童家属筹款200万争议",
       "onboard_time": 1698073183,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 147822,
+      "num": 147822,
+      "word": "待播古偶剧你最期待哪部",
+      "onboard_time": 1698110018,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145776,
+      "num": 145776,
+      "word": "10岁女孩悄悄为就餐民警买单",
+      "onboard_time": 1698104674,
+      "rank": 43,
       "category": "社会新闻"
     },
     {
@@ -489,6 +529,14 @@
       "onboard_time": 1698046965,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 137773,
+      "num": 137773,
+      "word": "爱子溺亡16年后爸爸跳河救人牺牲",
+      "onboard_time": 1698104251,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137708,
@@ -531,19 +579,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 131784,
-      "num": 131784,
-      "word": "10岁女孩悄悄为就餐民警买单",
-      "onboard_time": 1698104674,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 131332,
       "num": 131332,
       "word": "他们年龄加起来有221岁携手走过90年",
       "onboard_time": 1698108700,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 127598,
+      "num": 127598,
+      "word": "秋老虎热晕百头猪多亏了119",
+      "onboard_time": 1698110559,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -579,14 +627,6 @@
       "category": "其它"
     },
     {
-      "raw_hot": 120120,
-      "num": 120120,
-      "word": "爱子溺亡16年后爸爸跳河救人牺牲",
-      "onboard_time": 1698104251,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 113522,
       "num": 113522,
       "word": "花莲5.9级地震",
@@ -601,6 +641,14 @@
       "onboard_time": 1698071264,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106362,
+      "num": 106362,
+      "word": "seventeen新曲应援法",
+      "onboard_time": 1698110320,
+      "rank": 49,
+      "category": "音乐"
     },
     {
       "raw_hot": 106353,
