@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698153696149,
+  "endTime": 1698154448633,
   "band_list": [
     {
       "raw_hot": 7985970,
@@ -203,7 +203,7 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 977512,
+      "raw_hot": 1024334,
       "num": 442273,
       "word": "双十一 卫生巾",
       "onboard_time": 1698149979,
@@ -267,6 +267,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 839754,
+      "num": 839754,
+      "word": "周迅 把我跟拖垃圾袋一样拖上来",
+      "onboard_time": 1698152555,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 838863,
       "num": 838863,
       "word": "官方通报无窗帘教室校长已被停职",
@@ -291,6 +299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 770355,
+      "num": 770355,
+      "word": "国债",
+      "onboard_time": 1698152975,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 758341,
       "num": 758341,
       "word": "金世佳毛晓彤吻戏",
@@ -305,6 +321,14 @@
       "onboard_time": 1698106780,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 731235,
+      "num": 731235,
+      "word": "双十一 满减",
+      "onboard_time": 1698151477,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 729464,
@@ -435,14 +459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 593196,
-      "num": 593196,
-      "word": "双十一 满减",
-      "onboard_time": 1698151477,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 585697,
       "num": 585697,
       "word": "吉林一小区发生爆炸楼体被炸出大洞",
@@ -547,14 +563,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 509870,
-      "num": 509870,
-      "word": "周迅 把我跟拖垃圾袋一样拖上来",
-      "onboard_time": 1698152555,
-      "rank": 6,
-      "category": "电影"
-    },
-    {
       "raw_hot": 501880,
       "num": 501880,
       "word": "等一下 有人高价想要",
@@ -635,20 +643,20 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 460749,
+      "num": 460749,
+      "word": "缅北诈骗窝点有老虎当看守",
+      "onboard_time": 1698149321,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 458945,
       "num": 458945,
       "word": "早退通勤包",
       "onboard_time": 1698139595,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 455209,
-      "num": 455209,
-      "word": "国债",
-      "onboard_time": 1698152975,
-      "rank": 8,
-      "category": "财经"
     },
     {
       "raw_hot": 455130,
@@ -673,14 +681,6 @@
       "onboard_time": 1698145594,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 445034,
-      "num": 445034,
-      "word": "缅北诈骗窝点有老虎当看守",
-      "onboard_time": 1698149321,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 444880,
@@ -971,6 +971,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 306897,
+      "num": 306897,
+      "word": "52岁大叔自驾游中国说后悔没有30岁出发",
+      "onboard_time": 1698153577,
+      "rank": 33,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 303146,
       "num": 303146,
       "word": "熊猫妈妈剥竹子没有崽崽吃得快",
@@ -1259,6 +1267,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 245618,
+      "num": 245618,
+      "word": "莫文蔚台上演唱 巩俐台下打光",
+      "onboard_time": 1698152257,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
       "raw_hot": 244512,
       "num": 213002,
       "word": "怪不得爸妈让我少看偶像剧",
@@ -1539,14 +1555,6 @@
       "category": "电竞,音乐"
     },
     {
-      "raw_hot": 198128,
-      "num": 198128,
-      "word": "莫文蔚台上演唱 巩俐台下打光",
-      "onboard_time": 1698152257,
-      "rank": 24,
-      "category": "演出"
-    },
-    {
       "raw_hot": 197752,
       "num": 197752,
       "word": "崔胜澈 那就听欧巴给你唠叨吧",
@@ -1577,6 +1585,14 @@
       "onboard_time": 1698126816,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 194699,
+      "num": 194699,
+      "word": "小鹏X9",
+      "onboard_time": 1698153934,
+      "rank": 24,
+      "category": "汽车"
     },
     {
       "raw_hot": 194637,
@@ -1633,6 +1649,14 @@
       "onboard_time": 1698118234,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 189244,
+      "num": 170137,
+      "word": "美妆券",
+      "onboard_time": 1698152796,
+      "rank": 38,
+      "category": "美妆"
     },
     {
       "raw_hot": 189166,
@@ -1747,14 +1771,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 172636,
-      "num": 172636,
-      "word": "52岁大叔自驾游中国说后悔没有30岁出发",
-      "onboard_time": 1698153577,
-      "rank": 33,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 172385,
       "num": 172385,
       "word": "网络贷款死灰复燃了吗",
@@ -1809,6 +1825,14 @@
       "onboard_time": 1698117755,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 168903,
+      "num": 168903,
+      "word": "花知晓腮红",
+      "onboard_time": 1698154116,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 168729,
@@ -1985,14 +2009,6 @@
       "onboard_time": 1698078209,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 150030,
-      "num": 150030,
-      "word": "美妆券",
-      "onboard_time": 1698152796,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 149384,
@@ -2419,6 +2435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 118800,
+      "num": 130366,
+      "word": "52岁大叔288天自驾游中国",
+      "onboard_time": 1698151494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 117519,
       "num": 117519,
       "word": "男孩公交上晕倒全车暖心守护",
@@ -2523,6 +2547,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 105838,
+      "num": 185511,
+      "word": "90后小伙用橘子打开抑郁症奶奶心扉",
+      "onboard_time": 1698152496,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 104975,
       "num": 104975,
       "word": "中国的盲人男足队有多牛",
@@ -2545,14 +2577,6 @@
       "onboard_time": 1698081201,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 104162,
-      "num": 185511,
-      "word": "90后小伙用橘子打开抑郁症奶奶心扉",
-      "onboard_time": 1698152496,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 103523,
@@ -2603,14 +2627,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 97910,
-      "num": 118395,
-      "word": "52岁大叔288天自驾游中国",
-      "onboard_time": 1698151494,
-      "rank": 48,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 97838,
       "num": 194325,
       "word": "男子突然休克警民40秒暖心救助",
@@ -2643,12 +2659,28 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 87386,
+      "num": 146756,
+      "word": "为什么说今年双十一更便宜了",
+      "onboard_time": 1698142833,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 85254,
       "num": 85254,
       "word": "岁岁青莲",
       "onboard_time": 1698071264,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84921,
+      "num": 147622,
+      "word": "王一博跟小动物PK热度",
+      "onboard_time": 1698154417,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 84403,
@@ -2747,14 +2779,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 55165,
-      "num": 146463,
-      "word": "为什么说今年双十一更便宜了",
-      "onboard_time": 1698142833,
-      "rank": 49,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 51596,
       "num": 406658,
       "word": "京东晚8点直播买货和老板谈",
@@ -2787,6 +2811,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 41001,
+      "num": 1379466,
+      "word": "为自强不息顽强拼搏的他们加油",
+      "onboard_time": 1698149321,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40220,
       "num": 167232,
       "word": "搞oc的有福了",
@@ -2801,14 +2833,6 @@
       "onboard_time": 1698130835,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 35046,
-      "num": 1379466,
-      "word": "为自强不息顽强拼搏的他们加油",
-      "onboard_time": 1698149321,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 28166,

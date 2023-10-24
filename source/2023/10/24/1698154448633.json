@@ -1,0 +1,410 @@
+{
+  "runTime": 1698154448633,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1941370,
+        "num": 1941370,
+        "word": "我国将增发1万亿元国债",
+        "onboard_time": 1698149620,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1851297,
+        "num": 1851297,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 1,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 41001,
+        "num": 1291118,
+        "word": "为自强不息顽强拼搏的他们加油",
+        "onboard_time": 1698149321,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1136583,
+        "num": 1136583,
+        "word": "我国艾滋病患者治疗成功率已超过90%",
+        "onboard_time": 1698149979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 839754,
+        "num": 839754,
+        "word": "周迅 把我跟拖垃圾袋一样拖上来",
+        "onboard_time": 1698152555,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 770355,
+        "num": 770355,
+        "word": "国债",
+        "onboard_time": 1698152975,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 731235,
+        "num": 731235,
+        "word": "双十一 满减",
+        "onboard_time": 1698151477,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 538297,
+        "num": 538297,
+        "word": "高校食堂干锅虾28一份有61只虾",
+        "onboard_time": 1698144334,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460749,
+        "num": 460749,
+        "word": "缅北诈骗窝点有老虎当看守",
+        "onboard_time": 1698149321,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 409525,
+        "num": 409525,
+        "word": "迪丽热巴微信名",
+        "onboard_time": 1698126694,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2090833,
+        "num": 408868,
+        "word": "王志刚被免去科学技术部部长职务",
+        "onboard_time": 1698149740,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1024334,
+        "num": 374435,
+        "word": "双十一 卫生巾",
+        "onboard_time": 1698149979,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 716802,
+        "num": 371150,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 12,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 337726,
+        "num": 337726,
+        "word": "京东采销喊话李佳琦",
+        "onboard_time": 1698131073,
+        "rank": 13,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 306897,
+        "num": 306897,
+        "word": "52岁大叔自驾游中国说后悔没有30岁出发",
+        "onboard_time": 1698153577,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263869,
+        "num": 263869,
+        "word": "辱骂新加坡护士的女子涉谎报身份",
+        "onboard_time": 1698146615,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250143,
+        "num": 250143,
+        "word": "你还喝农夫山泉吗",
+        "onboard_time": 1698142292,
+        "rank": 16,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 249854,
+        "num": 249854,
+        "word": "女子曝15万存款被农行私自改成购买",
+        "onboard_time": 1698139471,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245618,
+        "num": 245618,
+        "word": "莫文蔚台上演唱 巩俐台下打光",
+        "onboard_time": 1698152257,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 237117,
+        "num": 237117,
+        "word": "以爱为营",
+        "onboard_time": 1698139352,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232032,
+        "num": 232032,
+        "word": "千万别找射手座借钱",
+        "onboard_time": 1698147395,
+        "rank": 20,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 228068,
+        "num": 228068,
+        "word": "问心",
+        "onboard_time": 1698151655,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 224380,
+        "num": 224380,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 22,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 216656,
+        "num": 216656,
+        "word": "双十一",
+        "onboard_time": 1698150457,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194699,
+        "num": 194699,
+        "word": "小鹏X9",
+        "onboard_time": 1698153934,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189185,
+        "num": 189185,
+        "word": "令人心动的offer",
+        "onboard_time": 1698149979,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182842,
+        "num": 182842,
+        "word": "马立奥 妈妈回来就接你",
+        "onboard_time": 1698141812,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175842,
+        "num": 175842,
+        "word": "王安宇微信名啥意思",
+        "onboard_time": 1698148782,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174001,
+        "num": 174001,
+        "word": "双十一iPhone价格全系比拼",
+        "onboard_time": 1698143916,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105838,
+        "num": 173696,
+        "word": "90后小伙用橘子打开抑郁症奶奶心扉",
+        "onboard_time": 1698152496,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281688,
+        "num": 172300,
+        "word": "李佳琦直播间的底价协议合理吗",
+        "onboard_time": 1698134675,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 279682,
+        "num": 171359,
+        "word": "陈牧驰近照",
+        "onboard_time": 1698138813,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189244,
+        "num": 170137,
+        "word": "美妆券",
+        "onboard_time": 1698152796,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 168903,
+        "num": 168903,
+        "word": "花知晓腮红",
+        "onboard_time": 1698154116,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 158979,
+        "num": 158979,
+        "word": "名侦探柯南茱蒂声优去世",
+        "onboard_time": 1698144936,
+        "rank": 34,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 158079,
+        "num": 158079,
+        "word": "警方破获涉25亿特大跨境赌博案",
+        "onboard_time": 1698149620,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 84921,
+        "num": 147622,
+        "word": "王一博跟小动物PK热度",
+        "onboard_time": 1698154417,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147393,
+        "num": 147393,
+        "word": "5.9元粉底液日销5万单暴涨100倍",
+        "onboard_time": 1698145113,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 146916,
+        "num": 146916,
+        "word": "甘肃肃北5.5级地震",
+        "onboard_time": 1698148422,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 87386,
+        "num": 146756,
+        "word": "为什么说今年双十一更便宜了",
+        "onboard_time": 1698142833,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146739,
+        "num": 146739,
+        "word": "邓超晒照说和鹿晗年龄相仿",
+        "onboard_time": 1698142054,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136349,
+        "num": 136349,
+        "word": "肖战笑颜分析",
+        "onboard_time": 1698133833,
+        "rank": 41,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 134746,
+        "num": 134746,
+        "word": "爷爷把我的泡泡玛特当锅盖",
+        "onboard_time": 1698137792,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133844,
+        "num": 133844,
+        "word": "突然学会自我介绍了",
+        "onboard_time": 1698151655,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 130877,
+        "num": 130877,
+        "word": "任嘉伦贺峻霖撞衫",
+        "onboard_time": 1698148661,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 130538,
+        "num": 130538,
+        "word": "河边的错误 全是细节",
+        "onboard_time": 1698152615,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130371,
+        "num": 130371,
+        "word": "今晚8点天猫双11双降了",
+        "onboard_time": 1698148842,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118800,
+        "num": 130366,
+        "word": "52岁大叔288天自驾游中国",
+        "onboard_time": 1698151494,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108131,
+        "num": 130362,
+        "word": "厦门这位爷爷退休后沉迷画熊猫",
+        "onboard_time": 1698153457,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 102032,
+        "num": 130349,
+        "word": "山东村民接力赡养104岁孤寡老人40年",
+        "onboard_time": 1698153577,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持党对工会的全面领导#"
+    }
+  }
+}
