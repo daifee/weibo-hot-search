@@ -1,7 +1,15 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698131746129,
+  "endTime": 1698132845912,
   "band_list": [
+    {
+      "raw_hot": 3536467,
+      "num": 3536467,
+      "word": "李佳琦直播间时隔43天再次带货花西子",
+      "onboard_time": 1698130413,
+      "rank": 0,
+      "category": "网红,美妆"
+    },
     {
       "raw_hot": 2524145,
       "num": 1589912,
@@ -9,14 +17,6 @@
       "onboard_time": 1698120878,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2351925,
-      "num": 2351925,
-      "word": "李佳琦直播间时隔43天再次带货花西子",
-      "onboard_time": 1698130413,
-      "rank": 0,
-      "category": "网红,美妆"
     },
     {
       "raw_hot": 2286708,
@@ -83,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1232841,
+      "num": 470482,
+      "word": "京东采销喊话李佳琦",
+      "onboard_time": 1698131073,
+      "rank": 10,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 1213560,
       "num": 1213560,
       "word": "以色列网红嘲讽遭轰炸的巴勒斯坦平民被批",
@@ -97,14 +105,6 @@
       "onboard_time": 1698127475,
       "rank": 13,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1032631,
-      "num": 409945,
-      "word": "京东采销喊话李佳琦",
-      "onboard_time": 1698131073,
-      "rank": 10,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 964068,
@@ -187,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 701238,
+      "num": 701238,
+      "word": "王毅将访问美国",
+      "onboard_time": 1698131917,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 684285,
       "num": 684285,
       "word": "河南3岁女童独自下楼玩失踪",
@@ -243,6 +251,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 610075,
+      "num": 610075,
+      "word": "独自出门失踪3岁女童已找到",
+      "onboard_time": 1698130715,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 599304,
       "num": 599304,
       "word": "林心如参加首档综艺",
@@ -280,6 +296,14 @@
       "word": "700万动迁款分给4名子女后无人赡养",
       "onboard_time": 1698073902,
       "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 545112,
+      "num": 545112,
+      "word": "孙卓被拐案抗诉申请被驳回",
+      "onboard_time": 1698132215,
+      "rank": 8,
       "category": "社会新闻"
     },
     {
@@ -363,6 +387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 471760,
+      "num": 471760,
+      "word": "吃药不良习惯 食道损伤",
+      "onboard_time": 1698131435,
+      "rank": 24,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 455130,
       "num": 455130,
       "word": "2024MSI 成都",
@@ -427,6 +459,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 416702,
+      "num": 416702,
+      "word": "你常买的粉底液多少钱",
+      "onboard_time": 1698130234,
+      "rank": 12,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 411887,
       "num": 411887,
       "word": "中美经济工作组举行第一次会议",
@@ -441,14 +481,6 @@
       "onboard_time": 1698105517,
       "rank": 21,
       "category": "美食"
-    },
-    {
-      "raw_hot": 403747,
-      "num": 403747,
-      "word": "你常买的粉底液多少钱",
-      "onboard_time": 1698130234,
-      "rank": 12,
-      "category": "美妆"
     },
     {
       "raw_hot": 395659,
@@ -555,14 +587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 352870,
-      "num": 412514,
-      "word": "独自出门失踪3岁女童已找到",
-      "onboard_time": 1698130715,
-      "rank": 9,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 352797,
       "num": 352797,
       "word": "肖战深情演绎夜空中最亮的星",
@@ -601,6 +625,14 @@
       "onboard_time": 1698117574,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 317386,
+      "num": 317386,
+      "word": "蔡徐坤十七机位舞台混剪",
+      "onboard_time": 1698132397,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 309871,
@@ -707,6 +739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 275180,
+      "num": 275180,
+      "word": "官方回应女子举报嫂子出轨生子",
+      "onboard_time": 1698128796,
+      "rank": 32,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272421,
       "num": 272421,
       "word": "佛山电翰明星版",
@@ -745,6 +785,14 @@
       "onboard_time": 1698111816,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 263951,
+      "num": 263951,
+      "word": "海氏品牌方要求京东恢复正常价格",
+      "onboard_time": 1698129993,
+      "rank": 18,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 257986,
@@ -795,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 250790,
+      "num": 250790,
+      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
+      "onboard_time": 1698130473,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 250059,
       "num": 250059,
       "word": "华戎舟是华浅想象出来的",
@@ -824,14 +880,6 @@
       "word": "美国28岁女保姆性侵8月大女婴",
       "onboard_time": 1698055428,
       "rank": 20,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 240387,
-      "num": 240387,
-      "word": "官方回应女子举报嫂子出轨生子",
-      "onboard_time": 1698128796,
-      "rank": 32,
       "category": "社会新闻"
     },
     {
@@ -883,14 +931,6 @@
       "category": "健康医疗,知识科普"
     },
     {
-      "raw_hot": 225731,
-      "num": 209264,
-      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
-      "onboard_time": 1698130473,
-      "rank": 30,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 225590,
       "num": 225590,
       "word": "檀健次首专",
@@ -907,12 +947,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 220659,
-      "num": 220659,
-      "word": "海氏品牌方要求京东恢复正常价格",
-      "onboard_time": 1698129993,
-      "rank": 18,
-      "category": "社会新闻,财经"
+      "raw_hot": 216311,
+      "num": 216311,
+      "word": "花西子",
+      "onboard_time": 1698132692,
+      "rank": 24,
+      "category": "美妆"
     },
     {
       "raw_hot": 215279,
@@ -977,6 +1017,14 @@
       "onboard_time": 1698124897,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205796,
+      "num": 205796,
+      "word": "让CBA全场安静的男人",
+      "onboard_time": 1698132034,
+      "rank": 27,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 203409,
@@ -1075,6 +1123,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 190930,
+      "num": 190930,
+      "word": "可恶我买的联名口红就是重新喷漆",
+      "onboard_time": 1698130113,
+      "rank": 38,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 190097,
       "num": 190097,
       "word": "京东火力",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1698114454,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186837,
-      "num": 213310,
-      "word": "吃药不良习惯 食道损伤",
-      "onboard_time": 1698131435,
-      "rank": 24,
-      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 186101,
@@ -1176,6 +1224,14 @@
       "word": "大发量鲨鱼夹",
       "onboard_time": 1698052072,
       "rank": 23,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 176806,
+      "num": 176806,
+      "word": "水晶葡萄妆",
+      "onboard_time": 1698131673,
+      "rank": 43,
       "category": "美妆"
     },
     {
@@ -1299,12 +1355,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 157110,
+      "num": 157110,
+      "word": "普通男孩自学化妆",
+      "onboard_time": 1698131796,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 156644,
       "num": 156644,
       "word": "田耕纪 镜头语言",
       "onboard_time": 1698107560,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 155614,
+      "num": 155614,
+      "word": "杭州亚残运会",
+      "onboard_time": 1698131917,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 155402,
@@ -1353,14 +1425,6 @@
       "onboard_time": 1698073183,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 149017,
-      "num": 149017,
-      "word": "可恶我买的联名口红就是重新喷漆",
-      "onboard_time": 1698130113,
-      "rank": 38,
-      "category": "美妆"
     },
     {
       "raw_hot": 147822,
@@ -1571,6 +1635,14 @@
       "category": "社会新闻,旅游"
     },
     {
+      "raw_hot": 125410,
+      "num": 125410,
+      "word": "妲己妆详细教程",
+      "onboard_time": 1698131673,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 123962,
       "num": 123962,
       "word": "牛仔裤穿搭思路",
@@ -1595,28 +1667,12 @@
       "category": "其它"
     },
     {
-      "raw_hot": 120739,
-      "num": 120739,
-      "word": "水晶葡萄妆",
-      "onboard_time": 1698131673,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 118887,
       "num": 118887,
       "word": "老人被救出院后第一时间给民警送锦旗",
       "onboard_time": 1698116016,
       "rank": 38,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 118697,
-      "num": 118697,
-      "word": "妲己妆详细教程",
-      "onboard_time": 1698131673,
-      "rank": 44,
-      "category": "美妆"
     },
     {
       "raw_hot": 117519,
@@ -1859,20 +1915,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 38102,
+      "num": 381053,
+      "word": "好事成双非会员收官",
+      "onboard_time": 1698130835,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28166,
       "num": 1222173,
       "word": "关爱老人在今天更在每一天",
       "onboard_time": 1698064359,
       "rank": 2,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 25216,
-      "num": 381053,
-      "word": "好事成双非会员收官",
-      "onboard_time": 1698130835,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 20278,
