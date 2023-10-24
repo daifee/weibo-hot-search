@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698135714281,
+  "endTime": 1698136490974,
   "band_list": [
     {
       "raw_hot": 3536467,
@@ -11,20 +11,20 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 2577468,
+      "num": 470482,
+      "word": "京东采销喊话李佳琦",
+      "onboard_time": 1698131073,
+      "rank": 10,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 2524145,
       "num": 1589912,
       "word": "许佳琪出现呼吸困难症状",
       "onboard_time": 1698120878,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2444209,
-      "num": 470482,
-      "word": "京东采销喊话李佳琦",
-      "onboard_time": 1698131073,
-      "rank": 10,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 2286708,
@@ -115,6 +115,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024639,
+      "num": 1024639,
+      "word": "爱国主义教育法表决通过自明年元旦起施行",
+      "onboard_time": 1698133472,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 964068,
       "num": 964068,
       "word": "咱仨把燃冬演好比什么都重要",
@@ -129,14 +137,6 @@
       "onboard_time": 1698123340,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 940627,
-      "num": 940627,
-      "word": "爱国主义教育法表决通过自明年元旦起施行",
-      "onboard_time": 1698133472,
-      "rank": 3,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 939107,
@@ -177,6 +177,14 @@
       "onboard_time": 1698103408,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 775080,
+      "num": 454772,
+      "word": "李佳琦直播间的底价协议合理吗",
+      "onboard_time": 1698134675,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 758341,
@@ -435,20 +443,20 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 462271,
+      "num": 462271,
+      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
+      "onboard_time": 1698130473,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 455130,
       "num": 455130,
       "word": "2024MSI 成都",
       "onboard_time": 1698119615,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 454772,
-      "num": 454772,
-      "word": "李佳琦直播间的底价协议合理吗",
-      "onboard_time": 1698134675,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 454430,
@@ -465,14 +473,6 @@
       "onboard_time": 1698121359,
       "rank": 17,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 438389,
-      "num": 438389,
-      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
-      "onboard_time": 1698130473,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 433095,
@@ -664,6 +664,14 @@
       "word": "被狗咬伤女童200万捐款已被退款近5万",
       "onboard_time": 1698114215,
       "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 344988,
+      "num": 344988,
+      "word": "女子结婚要求前同事还礼400元",
+      "onboard_time": 1698133294,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -859,14 +867,6 @@
       "category": "社会新闻,财经"
     },
     {
-      "raw_hot": 263040,
-      "num": 263040,
-      "word": "女子结婚要求前同事还礼400元",
-      "onboard_time": 1698133294,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 257986,
       "num": 257986,
       "word": "帕梅拉新浪扫楼",
@@ -1003,6 +1003,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 222572,
+      "num": 222572,
+      "word": "于适看一下你的狗好了",
+      "onboard_time": 1698135033,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222404,
       "num": 222404,
       "word": "于适陈小舟杀青",
@@ -1057,6 +1065,14 @@
       "onboard_time": 1698073902,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211386,
+      "num": 211386,
+      "word": "北大团队识别血指纹破36年前命案",
+      "onboard_time": 1698135993,
+      "rank": 25,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 210070,
@@ -1187,12 +1203,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194334,
-      "num": 194334,
-      "word": "于适看一下你的狗好了",
-      "onboard_time": 1698135033,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 194637,
+      "num": 194637,
+      "word": "定妆喷雾是智商税吗",
+      "onboard_time": 1698135273,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 192321,
@@ -1787,6 +1803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108632,
+      "num": 108632,
+      "word": "广州助浴师帮失能老人实现洗澡自由",
+      "onboard_time": 1698135756,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108222,
       "num": 108222,
       "word": "肺炎支原体感染早期症状为干咳",
@@ -1825,6 +1849,14 @@
       "onboard_time": 1698076356,
       "rank": 38,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 105419,
+      "num": 105419,
+      "word": "显脸小的法式刘海儿",
+      "onboard_time": 1698136354,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 104975,
@@ -1867,6 +1899,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 101731,
+      "num": 101731,
+      "word": "SUHO今日机场照",
+      "onboard_time": 1698135636,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101688,
       "num": 462654,
       "word": "小米影像传感器品牌首次公布",
@@ -1883,12 +1923,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 95286,
-      "num": 194324,
-      "word": "定妆喷雾是智商税吗",
-      "onboard_time": 1698135273,
-      "rank": 46,
-      "category": "美妆"
+      "raw_hot": 93789,
+      "num": 93789,
+      "word": "板栗焖饭",
+      "onboard_time": 1698136291,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 93009,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698135714281,
+  "endTime": 1698136490974,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -35,6 +35,14 @@
       "category": "网红,美妆"
     },
     {
+      "raw_hot": 2577468,
+      "num": 470482,
+      "word": "京东采销喊话李佳琦",
+      "onboard_time": 1698131073,
+      "rank": 10,
+      "category": "网红,互联网"
+    },
+    {
       "raw_hot": 2524145,
       "num": 1589912,
       "word": "许佳琪出现呼吸困难症状",
@@ -49,14 +57,6 @@
       "onboard_time": 1697965891,
       "rank": 26,
       "category": "财经"
-    },
-    {
-      "raw_hot": 2444209,
-      "num": 470482,
-      "word": "京东采销喊话李佳琦",
-      "onboard_time": 1698131073,
-      "rank": 10,
-      "category": "网红,互联网"
     },
     {
       "raw_hot": 2427786,
@@ -507,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1024639,
+      "num": 1024639,
+      "word": "爱国主义教育法表决通过自明年元旦起施行",
+      "onboard_time": 1698133472,
+      "rank": 3,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 1016083,
       "num": 404615,
       "word": "A股",
@@ -593,14 +601,6 @@
       "onboard_time": 1698123340,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 940627,
-      "num": 940627,
-      "word": "爱国主义教育法表决通过自明年元旦起施行",
-      "onboard_time": 1698133472,
-      "rank": 3,
-      "category": "国内要闻"
     },
     {
       "raw_hot": 939107,
@@ -793,6 +793,14 @@
       "onboard_time": 1698033214,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775080,
+      "num": 454772,
+      "word": "李佳琦直播间的底价协议合理吗",
+      "onboard_time": 1698134675,
+      "rank": 13,
+      "category": "网红"
     },
     {
       "raw_hot": 770869,
@@ -1731,6 +1739,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 462271,
+      "num": 462271,
+      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
+      "onboard_time": 1698130473,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 459094,
       "num": 459094,
       "word": "郭麒麟说我有点儿可怜我爸",
@@ -1761,14 +1777,6 @@
       "onboard_time": 1697978911,
       "rank": 19,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 454772,
-      "num": 454772,
-      "word": "李佳琦直播间的底价协议合理吗",
-      "onboard_time": 1698134675,
-      "rank": 13,
-      "category": "网红"
     },
     {
       "raw_hot": 454655,
@@ -1857,14 +1865,6 @@
       "onboard_time": 1697964511,
       "rank": 4,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 438389,
-      "num": 438389,
-      "word": "哈马斯释放两名以色列女性并赠送零食饮料",
-      "onboard_time": 1698130473,
-      "rank": 30,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 438047,
@@ -2529,6 +2529,14 @@
       "onboard_time": 1697989831,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 344988,
+      "num": 344988,
+      "word": "女子结婚要求前同事还礼400元",
+      "onboard_time": 1698133294,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 342482,
@@ -3379,14 +3387,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 263040,
-      "num": 263040,
-      "word": "女子结婚要求前同事还礼400元",
-      "onboard_time": 1698133294,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 262773,
       "num": 379091,
       "word": "163岁跑马夫妻每天跑步1万米",
@@ -3987,6 +3987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 222572,
+      "num": 222572,
+      "word": "于适看一下你的狗好了",
+      "onboard_time": 1698135033,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 222404,
       "num": 222404,
       "word": "于适陈小舟杀青",
@@ -4209,6 +4217,14 @@
       "onboard_time": 1698029372,
       "rank": 33,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 211386,
+      "num": 211386,
+      "word": "北大团队识别血指纹破36年前命案",
+      "onboard_time": 1698135993,
+      "rank": 25,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 211188,
@@ -4723,20 +4739,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 194637,
+      "num": 194637,
+      "word": "定妆喷雾是智商税吗",
+      "onboard_time": 1698135273,
+      "rank": 46,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 194615,
       "num": 280741,
       "word": "重阳节120位老人拍全家福吃百寿宴",
       "onboard_time": 1698037969,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 194334,
-      "num": 194334,
-      "word": "于适看一下你的狗好了",
-      "onboard_time": 1698135033,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 194072,
@@ -7155,6 +7171,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 108632,
+      "num": 108632,
+      "word": "广州助浴师帮失能老人实现洗澡自由",
+      "onboard_time": 1698135756,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 108155,
       "num": 108155,
       "word": "御姐风的张婧仪",
@@ -7235,6 +7259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105419,
+      "num": 105419,
+      "word": "显脸小的法式刘海儿",
+      "onboard_time": 1698136354,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 105336,
       "num": 105336,
       "word": "苏醒说0713现在叫就业兄弟团",
@@ -7313,6 +7345,14 @@
       "onboard_time": 1697963308,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 101731,
+      "num": 101731,
+      "word": "SUHO今日机场照",
+      "onboard_time": 1698135636,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 101688,
@@ -7475,14 +7515,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 95286,
-      "num": 194324,
-      "word": "定妆喷雾是智商税吗",
-      "onboard_time": 1698135273,
-      "rank": 46,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 95022,
       "num": 95022,
       "word": "阴阳师有三宝",
@@ -7497,6 +7529,14 @@
       "onboard_time": 1698030575,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 93789,
+      "num": 93789,
+      "word": "板栗焖饭",
+      "onboard_time": 1698136291,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 93009,
