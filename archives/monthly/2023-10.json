@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698183247680,
+  "endTime": 1698185779610,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -50163,6 +50163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184427,
+      "num": 184427,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 184381,
       "num": 184381,
       "word": "JDG开门红",
@@ -63659,14 +63667,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 100732,
-      "num": 100732,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100697,
       "num": 71151,
       "word": "2000米混接中国队晋级决赛",
@@ -67020,7 +67020,7 @@
     },
     {
       "raw_hot": 35270,
-      "num": 28232,
+      "num": 34929,
       "word": "以后我的人设就是任性独生女",
       "onboard_time": 1698175694,
       "rank": 48,
@@ -67161,6 +67161,14 @@
       "onboard_time": 1696230032,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31129,
+      "num": 31129,
+      "word": "张小斐cos阿童木",
+      "onboard_time": 1698184634,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 30899,
@@ -67363,6 +67371,22 @@
       "category": "体育,艺人"
     },
     {
+      "raw_hot": 26326,
+      "num": 26326,
+      "word": "真人版海王",
+      "onboard_time": 1698180673,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 26288,
+      "num": 26881,
+      "word": "双11不买清单",
+      "onboard_time": 1698182893,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
       "raw_hot": 25815,
       "num": 754592,
       "word": "老乡鸡免费",
@@ -67409,6 +67433,14 @@
       "onboard_time": 1697374835,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 25447,
+      "num": 25447,
+      "word": "小松鼠拿着落叶来换吃的了",
+      "onboard_time": 1698183195,
+      "rank": 49,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 25389,
@@ -67491,6 +67523,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 24343,
+      "num": 24343,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 24254,
       "num": 406719,
       "word": "舞台2023收官歌手解放天性",
@@ -67529,14 +67569,6 @@
       "onboard_time": 1698173895,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23606,
-      "num": 18110,
-      "word": "小狗把自己藏进了行李箱里",
-      "onboard_time": 1698174855,
-      "rank": 39,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 23578,
@@ -67771,14 +67803,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 16580,
-      "num": 16580,
-      "word": "真人版海王",
-      "onboard_time": 1698180673,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 16501,
       "num": 19612,
       "word": "亚运会氛围有多欢乐",
@@ -67947,14 +67971,6 @@
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 12613,
-      "num": 14401,
-      "word": "双11不买清单",
-      "onboard_time": 1698182893,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
       "raw_hot": 12546,
       "num": 37185,
       "word": "SNH48 Number One",
@@ -68001,14 +68017,6 @@
       "onboard_time": 1696883653,
       "rank": 49,
       "category": "美食"
-    },
-    {
-      "raw_hot": 11706,
-      "num": 14354,
-      "word": "小松鼠拿着落叶来换吃的了",
-      "onboard_time": 1698183195,
-      "rank": 49,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 11621,

@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698183247680,
+  "endTime": 1698185779610,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -5627,6 +5627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 184427,
+      "num": 184427,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 183274,
       "num": 183274,
       "word": "花儿与少年空镜海报",
@@ -8379,14 +8387,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 100732,
-      "num": 100732,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 100697,
       "num": 71151,
       "word": "2000米混接中国队晋级决赛",
@@ -9172,7 +9172,7 @@
     },
     {
       "raw_hot": 35270,
-      "num": 28232,
+      "num": 34929,
       "word": "以后我的人设就是任性独生女",
       "onboard_time": 1698175694,
       "rank": 48,
@@ -9195,6 +9195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31129,
+      "num": 31129,
+      "word": "张小斐cos阿童木",
+      "onboard_time": 1698184634,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30001,
       "num": 30001,
       "word": "看小警汪的沉浸式训练秒回童年",
@@ -9211,6 +9219,38 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 26326,
+      "num": 26326,
+      "word": "真人版海王",
+      "onboard_time": 1698180673,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 26288,
+      "num": 26881,
+      "word": "双11不买清单",
+      "onboard_time": 1698182893,
+      "rank": 45,
+      "category": "其它"
+    },
+    {
+      "raw_hot": 25447,
+      "num": 25447,
+      "word": "小松鼠拿着落叶来换吃的了",
+      "onboard_time": 1698183195,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 24343,
+      "num": 24343,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 23949,
       "num": 23949,
       "word": "蕾哈娜或将回归乐坛",
@@ -9225,14 +9265,6 @@
       "onboard_time": 1698173895,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 23606,
-      "num": 18110,
-      "word": "小狗把自己藏进了行李箱里",
-      "onboard_time": 1698174855,
-      "rank": 39,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 22568,
@@ -9273,14 +9305,6 @@
       "onboard_time": 1698002716,
       "rank": 45,
       "category": "科技"
-    },
-    {
-      "raw_hot": 16580,
-      "num": 16580,
-      "word": "真人版海王",
-      "onboard_time": 1698180673,
-      "rank": 40,
-      "category": "运动健身"
     },
     {
       "raw_hot": 16557,
@@ -9327,22 +9351,6 @@
       "num": 50167,
       "word": "宠物界的梦中情房",
       "onboard_time": 1698088754,
-      "rank": 49,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 12613,
-      "num": 14401,
-      "word": "双11不买清单",
-      "onboard_time": 1698182893,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 11706,
-      "num": 14354,
-      "word": "小松鼠拿着落叶来换吃的了",
-      "onboard_time": 1698183195,
       "rank": 49,
       "category": "动物萌宠"
     }

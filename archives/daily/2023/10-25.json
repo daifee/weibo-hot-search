@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698183247680,
+  "endTime": 1698185779610,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -179,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184427,
+      "num": 184427,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 176107,
       "num": 176107,
       "word": "胡先煦的哑药过期了",
@@ -347,14 +355,6 @@
       "category": "网红,财经"
     },
     {
-      "raw_hot": 100732,
-      "num": 100732,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 98136,
       "num": 98136,
       "word": "海氏电器回应实名举报京东",
@@ -460,11 +460,35 @@
     },
     {
       "raw_hot": 35270,
-      "num": 28232,
+      "num": 34929,
       "word": "以后我的人设就是任性独生女",
       "onboard_time": 1698175694,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 31129,
+      "num": 31129,
+      "word": "张小斐cos阿童木",
+      "onboard_time": 1698184634,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26326,
+      "num": 26326,
+      "word": "真人版海王",
+      "onboard_time": 1698180673,
+      "rank": 40,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 26288,
+      "num": 26881,
+      "word": "双11不买清单",
+      "onboard_time": 1698182893,
+      "rank": 45,
+      "category": "其它"
     },
     {
       "raw_hot": 26044,
@@ -475,6 +499,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 25447,
+      "num": 25447,
+      "word": "小松鼠拿着落叶来换吃的了",
+      "onboard_time": 1698183195,
+      "rank": 49,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 24343,
+      "num": 24343,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 23676,
       "num": 19862,
       "word": "小孩哥正在经历我的童年",
@@ -483,44 +523,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 23606,
-      "num": 18110,
-      "word": "小狗把自己藏进了行李箱里",
-      "onboard_time": 1698174855,
-      "rank": 39,
-      "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 16580,
-      "num": 16580,
-      "word": "真人版海王",
-      "onboard_time": 1698180673,
-      "rank": 40,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 13412,
       "num": 14506,
       "word": "6个动作甩掉小肚腩",
       "onboard_time": 1698181752,
       "rank": 46,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 12613,
-      "num": 14401,
-      "word": "双11不买清单",
-      "onboard_time": 1698182893,
-      "rank": 45,
-      "category": "其它"
-    },
-    {
-      "raw_hot": 11706,
-      "num": 14354,
-      "word": "小松鼠拿着落叶来换吃的了",
-      "onboard_time": 1698183195,
-      "rank": 49,
-      "category": "动物萌宠"
     }
   ],
   "hotgov_list": [
