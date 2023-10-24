@@ -1,6 +1,6 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698111152424,
+  "endTime": 1698114245376,
   "band_list": [
     {
       "raw_hot": 2020302,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1417595,
-      "num": 233071,
+      "num": 526591,
       "word": "父亲要求月入6000元女儿付4500元赡养费",
       "onboard_time": 1698108278,
       "rank": 20,
@@ -67,12 +67,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 651815,
+      "num": 508601,
+      "word": "开学一个多月后儿童精神科爆满",
+      "onboard_time": 1698108278,
+      "rank": 7,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 634189,
+      "num": 373748,
+      "word": "为有暗香来 丫鬟妆造",
+      "onboard_time": 1698113253,
+      "rank": 10,
+      "category": "剧集,美妆"
+    },
+    {
       "raw_hot": 581468,
       "num": 581468,
       "word": "以色列巴勒斯坦冲突",
       "onboard_time": 1698102868,
       "rank": 37,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 581365,
+      "num": 581365,
+      "word": "字节跳动旗下PICO近半员工离开",
+      "onboard_time": 1698112294,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 562296,
@@ -91,14 +115,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 508601,
-      "num": 508601,
-      "word": "开学一个多月后儿童精神科爆满",
-      "onboard_time": 1698108278,
-      "rank": 7,
-      "category": "社会新闻,教育"
-    },
-    {
       "raw_hot": 427655,
       "num": 427655,
       "word": "女子全勤工作1个月发257元工资",
@@ -113,6 +129,14 @@
       "onboard_time": 1698057766,
       "rank": 8,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 411887,
+      "num": 411887,
+      "word": "中美经济工作组举行第一次会议",
+      "onboard_time": 1698112474,
+      "rank": 7,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 404036,
@@ -155,6 +179,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 375701,
+      "num": 375701,
+      "word": "警方通报男子驾车撞击碾压保安",
+      "onboard_time": 1698111873,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 367613,
+      "num": 208938,
+      "word": "男子看黄网一夜转账26次被骗450万",
+      "onboard_time": 1698113493,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366210,
+      "num": 366210,
+      "word": "A股",
+      "onboard_time": 1698112654,
+      "rank": 12,
+      "category": "财经"
+    },
+    {
       "raw_hot": 363437,
       "num": 363437,
       "word": "25岁男子坚持4年每天熬夜画CAD",
@@ -177,6 +225,14 @@
       "onboard_time": 1698071442,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 334419,
+      "num": 334419,
+      "word": "等一下 有人高价想要",
+      "onboard_time": 1698112294,
+      "rank": 16,
+      "category": "幽默"
     },
     {
       "raw_hot": 309871,
@@ -219,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277904,
+      "num": 277904,
+      "word": "文科的核心竞争力",
+      "onboard_time": 1698109238,
+      "rank": 33,
+      "category": "教育"
+    },
+    {
       "raw_hot": 271305,
       "num": 215115,
       "word": "江苏发布幽门螺杆菌感染与耐药地图",
@@ -235,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 254880,
-      "num": 254880,
-      "word": "文科的核心竞争力",
-      "onboard_time": 1698109238,
-      "rank": 33,
-      "category": "教育"
+      "raw_hot": 265505,
+      "num": 208936,
+      "word": "终于意识到中文不是加密语言",
+      "onboard_time": 1698111816,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 253837,
@@ -339,6 +403,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 208956,
+      "num": 208956,
+      "word": "学者称股市涨1000点居民财富多25万亿",
+      "onboard_time": 1698113735,
+      "rank": 19,
+      "category": "财经"
+    },
+    {
       "raw_hot": 201440,
       "num": 201440,
       "word": "小米14Pro",
@@ -353,6 +425,14 @@
       "onboard_time": 1698105456,
       "rank": 25,
       "category": "电竞,音乐"
+    },
+    {
+      "raw_hot": 199748,
+      "num": 199748,
+      "word": "檀健次首专",
+      "onboard_time": 1698113613,
+      "rank": 23,
+      "category": "音乐"
     },
     {
       "raw_hot": 198405,
@@ -395,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 180845,
+      "num": 180845,
+      "word": "毛不易你是会嗑cp的",
+      "onboard_time": 1698113316,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179223,
       "num": 186928,
       "word": "金珉奎不能脱帽子的原因",
@@ -409,6 +497,14 @@
       "onboard_time": 1698052072,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 173449,
+      "num": 108220,
+      "word": "父亲要求月薪六千女儿月付4500元赡养费",
+      "onboard_time": 1698113074,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 170257,
@@ -441,6 +537,14 @@
       "onboard_time": 1698106596,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160561,
+      "num": 160561,
+      "word": "程序员节",
+      "onboard_time": 1698111156,
+      "rank": 28,
+      "category": "科技"
     },
     {
       "raw_hot": 159847,
@@ -571,6 +675,14 @@
       "category": "音乐,互联网"
     },
     {
+      "raw_hot": 132778,
+      "num": 132778,
+      "word": "朱一龙朗读河边的错误作者序",
+      "onboard_time": 1698113735,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132745,
       "num": 169070,
       "word": "女子4天没买到烤馕老板特意留一个",
@@ -643,6 +755,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 107946,
+      "num": 107946,
+      "word": "被狗咬伤女童200万捐款已被退款近5万",
+      "onboard_time": 1698114215,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 107221,
+      "num": 107221,
+      "word": "男子街头晕倒路人纷纷送吃送喝",
+      "onboard_time": 1698112713,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106362,
       "num": 106362,
       "word": "seventeen新曲应援法",
@@ -675,6 +803,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 102387,
+      "num": 102387,
+      "word": "张彬彬在夏天和冬天里穿梭",
+      "onboard_time": 1698111213,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102302,
       "num": 102302,
       "word": "赵丽颖彝族服饰写真",
@@ -689,6 +825,14 @@
       "onboard_time": 1698072827,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100276,
+      "num": 350330,
+      "word": "拼多多双11主打一个无需技巧",
+      "onboard_time": 1698062322,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 85254,
@@ -779,7 +923,7 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 26687,
+      "raw_hot": 28166,
       "num": 1222173,
       "word": "关爱老人在今天更在每一天",
       "onboard_time": 1698064359,
