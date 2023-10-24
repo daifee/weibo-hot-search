@@ -1,0 +1,2498 @@
+{
+  "startTime": 1672503817536,
+  "endTime": 1693826064504,
+  "band_list": [
+    {
+      "raw_hot": 68242336,
+      "num": 39916953,
+      "word": "胡歌 我当爸爸啦",
+      "onboard_time": 1675148478,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 50503069,
+      "num": 50503069,
+      "word": "李玟去世",
+      "onboard_time": 1688563418,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 35101533,
+      "num": 25263027,
+      "word": "李玟抑郁症",
+      "onboard_time": 1688563909,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 30586094,
+      "num": 30586094,
+      "word": "蔡徐坤回应",
+      "onboard_time": 1688355463,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29961598,
+      "num": 29961598,
+      "word": "蔡徐坤 照片不是我",
+      "onboard_time": 1688361395,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 28349211,
+      "num": 28349211,
+      "word": "蔡徐坤工作室声明",
+      "onboard_time": 1688356997,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 27113842,
+      "num": 315086,
+      "word": "微博之夜红毯直播",
+      "onboard_time": 1679726791,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26859681,
+      "num": 26859681,
+      "word": "快告诉我是假的",
+      "onboard_time": 1688564730,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24814826,
+      "num": 15660468,
+      "word": "B站",
+      "onboard_time": 1678019313,
+      "rank": 30,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 24573633,
+      "num": 24573633,
+      "word": "蔡徐坤否认女方未成年及强制堕胎",
+      "onboard_time": 1688359492,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23160566,
+      "num": 715777,
+      "word": "微博之夜 红毯",
+      "onboard_time": 1679726791,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 21956135,
+      "num": 21956135,
+      "word": "山东地震",
+      "onboard_time": 1691260773,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 21490407,
+      "num": 1161593,
+      "word": "压力给到彭于晏",
+      "onboard_time": 1675149175,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21193818,
+      "num": 22443818,
+      "word": "成都震感",
+      "onboard_time": 1677596260,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 20191550,
+      "num": 21441550,
+      "word": "泸定地震",
+      "onboard_time": 1677596443,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18626284,
+      "num": 18602066,
+      "word": "TFBOYS十年之约演唱会",
+      "onboard_time": 1691276845,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 18608026,
+      "num": 10970570,
+      "word": "秦刚外长职务被免去",
+      "onboard_time": 1690283507,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 18570708,
+      "num": 18570708,
+      "word": "汪峰发了个锤子",
+      "onboard_time": 1688358879,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 17348230,
+      "num": 18598230,
+      "word": "日本核污染水排海正式开始",
+      "onboard_time": 1692850025,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 17279176,
+      "num": 17279176,
+      "word": "胡鑫宇遗体被发现",
+      "onboard_time": 1674961170,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 16876763,
+      "num": 16876763,
+      "word": "张继科借条",
+      "onboard_time": 1680442296,
+      "rank": 5,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 15998125,
+      "num": 15998125,
+      "word": "微博之夜",
+      "onboard_time": 1678702526,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15716615,
+      "num": 15716615,
+      "word": "高考数学",
+      "onboard_time": 1686126154,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 15690756,
+      "num": 15690756,
+      "word": "广州一宝马冲撞人群已致5死13伤",
+      "onboard_time": 1673436935,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 15614082,
+      "num": 16692845,
+      "word": "习近平当选中华人民共和国主席",
+      "onboard_time": 1678417295,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 15562142,
+      "num": 15562142,
+      "word": "邱耀乐不接受炎亚纶道歉",
+      "onboard_time": 1687322744,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 15371387,
+      "num": 15371387,
+      "word": "黄子佼曝大小S吸毒",
+      "onboard_time": 1687152148,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14927785,
+      "num": 14927785,
+      "word": "日本核污染水下午排入海洋",
+      "onboard_time": 1692834032,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 14862345,
+      "num": 14862345,
+      "word": "微博之夜世纪同框",
+      "onboard_time": 1679746251,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 14810783,
+      "num": 14810783,
+      "word": "TFBOYS官博急了",
+      "onboard_time": 1691319525,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 14552118,
+      "num": 14552118,
+      "word": "高考作文",
+      "onboard_time": 1686107741,
+      "rank": 3,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 14080426,
+      "num": 14080426,
+      "word": "王毅任外交部部长",
+      "onboard_time": 1690283200,
+      "rank": 10,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 13978759,
+      "num": 13978759,
+      "word": "QQ崩了",
+      "onboard_time": 1675998875,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 13978570,
+      "num": 1714883,
+      "word": "蔡徐坤报案回执",
+      "onboard_time": 1688380665,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 13930359,
+      "num": 4009424,
+      "word": "十周年蛋糕塌了",
+      "onboard_time": 1691332398,
+      "rank": 10,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 13895730,
+      "num": 13895730,
+      "word": "奔跑吧",
+      "onboard_time": 1677915385,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13846203,
+      "num": 15004546,
+      "word": "胡鑫宇事件调查情况发布会",
+      "onboard_time": 1675303048,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 13786713,
+      "num": 13786713,
+      "word": "羽生结弦宣布结婚",
+      "onboard_time": 1691159319,
+      "rank": 0,
+      "category": "体育,社会新闻"
+    },
+    {
+      "raw_hot": 13782438,
+      "num": 4427859,
+      "word": "TFBOYS快本的信",
+      "onboard_time": 1691329401,
+      "rank": 3,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 13632162,
+      "num": 13632162,
+      "word": "沈腾吃药",
+      "onboard_time": 1674311981,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13583765,
+      "num": 13583765,
+      "word": "高考语文",
+      "onboard_time": 1686103592,
+      "rank": 12,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 13473900,
+      "num": 13473900,
+      "word": "邓超笑死我了",
+      "onboard_time": 1674305152,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13422473,
+      "num": 13422473,
+      "word": "岳云鹏变烧鸡",
+      "onboard_time": 1674304469,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 13120424,
+      "num": 13120424,
+      "word": "石家庄",
+      "onboard_time": 1676531250,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12980468,
+      "num": 801956,
+      "word": "央视频下架蔡徐坤所有视频",
+      "onboard_time": 1688299053,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12970403,
+      "num": 14220403,
+      "word": "佛山地震",
+      "onboard_time": 1675568914,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12742602,
+      "num": 12742602,
+      "word": "宋祖儿",
+      "onboard_time": 1693445614,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12694869,
+      "num": 12694869,
+      "word": "迪丽热巴wink",
+      "onboard_time": 1679751112,
+      "rank": 4,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 12583395,
+      "num": 9806383,
+      "word": "炎亚纶现身邱耀乐记者会",
+      "onboard_time": 1687321238,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12551113,
+      "num": 13422735,
+      "word": "胡鑫宇系自缢死亡",
+      "onboard_time": 1675303653,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 12479739,
+      "num": 1145478,
+      "word": "彭于晏你着急吗",
+      "onboard_time": 1675149175,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 12415200,
+      "num": 12415200,
+      "word": "春晚舞台",
+      "onboard_time": 1674303522,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12127005,
+      "num": 12127005,
+      "word": "赵丽颖真可爱",
+      "onboard_time": 1674303287,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12100652,
+      "num": 940925,
+      "word": "小S和舞蹈老师视频",
+      "onboard_time": 1687181860,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11929165,
+      "num": 11929165,
+      "word": "校内被撞身亡小学生母亲坠楼身亡",
+      "onboard_time": 1685700868,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11734703,
+      "num": 4400975,
+      "word": "景甜",
+      "onboard_time": 1680316646,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11613152,
+      "num": 11613152,
+      "word": "奔跑吧 原地消失术",
+      "onboard_time": 1689338621,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11545667,
+      "num": 11545667,
+      "word": "陈建州被指控性骚扰",
+      "onboard_time": 1687837780,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11540250,
+      "num": 11540250,
+      "word": "浙江广电集团回应",
+      "onboard_time": 1692537463,
+      "rank": 0,
+      "category": "社会新闻,综艺"
+    },
+    {
+      "raw_hot": 11446163,
+      "num": 11446163,
+      "word": "沈腾马丽 一出来就笑",
+      "onboard_time": 1674308929,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11321818,
+      "num": 8044702,
+      "word": "李玟生前控诉中国好声音录音曝光",
+      "onboard_time": 1692278623,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11248891,
+      "num": 11248891,
+      "word": "刘亚仁涉嫌吸毒",
+      "onboard_time": 1675866815,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 11208326,
+      "num": 11208326,
+      "word": "白鹿 以后会更加严格约束自己言行",
+      "onboard_time": 1682257595,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11176657,
+      "num": 11176657,
+      "word": "中方暂停进口日本水产品是完全必要的",
+      "onboard_time": 1692881218,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11167136,
+      "num": 7571356,
+      "word": "大S工作室回应吸毒指控",
+      "onboard_time": 1687166502,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11149108,
+      "num": 11149108,
+      "word": "四川大学称将依规依纪处理",
+      "onboard_time": 1686534508,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11146412,
+      "num": 11559192,
+      "word": "树林中一缢吊尸体经检验系胡鑫宇",
+      "onboard_time": 1674962562,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11115797,
+      "num": 11115797,
+      "word": "大连地震",
+      "onboard_time": 1692786399,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11081869,
+      "num": 11081869,
+      "word": "新年快乐",
+      "onboard_time": 1672501434,
+      "rank": 0,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 11063759,
+      "num": 11063759,
+      "word": "济南震感",
+      "onboard_time": 1691260957,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11038097,
+      "num": 11038097,
+      "word": "北京震感",
+      "onboard_time": 1691261079,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 11036411,
+      "num": 11036411,
+      "word": "杨幂官宣与嘉行解约",
+      "onboard_time": 1683525990,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11002711,
+      "num": 11002711,
+      "word": "杜苏芮路径",
+      "onboard_time": 1690454734,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10960128,
+      "num": 10960128,
+      "word": "马丽 羽绒服满天飞毛",
+      "onboard_time": 1674313324,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10945238,
+      "num": 10945238,
+      "word": "TFBOYS抢票",
+      "onboard_time": 1690174959,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 10821549,
+      "num": 10821549,
+      "word": "谢谢沈腾马丽",
+      "onboard_time": 1674313083,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10767828,
+      "num": 10767828,
+      "word": "坂本龙一去世",
+      "onboard_time": 1680438989,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10741717,
+      "num": 10741717,
+      "word": "冯提莫甲状腺癌晚期",
+      "onboard_time": 1690207899,
+      "rank": 23,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 10740151,
+      "num": 10740151,
+      "word": "李微敖 张继科",
+      "onboard_time": 1680326491,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 10731492,
+      "num": 3689805,
+      "word": "刘亦菲孔雀公主",
+      "onboard_time": 1679734177,
+      "rank": 10,
+      "category": "艺人,影视"
+    },
+    {
+      "raw_hot": 10722665,
+      "num": 10722665,
+      "word": "安欣再送饺子 高启强再举杯",
+      "onboard_time": 1675256253,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 10542577,
+      "num": 10542577,
+      "word": "日本官员喝下核污染水4年后引退消失",
+      "onboard_time": 1692848387,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10522176,
+      "num": 11772176,
+      "word": "胡鑫宇录音笔中音频表达自杀意愿",
+      "onboard_time": 1675304683,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10518954,
+      "num": 10518954,
+      "word": "杨洋 谢谢大家的包容与陪伴批评和建议",
+      "onboard_time": 1690466680,
+      "rank": 4,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 10505974,
+      "num": 10505974,
+      "word": "GUCCI",
+      "onboard_time": 1677245911,
+      "rank": 0,
+      "category": "时尚,艺人"
+    },
+    {
+      "raw_hot": 10450851,
+      "num": 10450851,
+      "word": "TFBOYS",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 10420054,
+      "num": 10420054,
+      "word": "青春修炼手册开场",
+      "onboard_time": 1691323619,
+      "rank": 1,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 10375516,
+      "num": 10375516,
+      "word": "青你2杜紫怡曝tangoz性骚扰",
+      "onboard_time": 1692098559,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10290665,
+      "num": 10290665,
+      "word": "岸田声称要求中方撤销进口管制措施",
+      "onboard_time": 1692878270,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10255430,
+      "num": 10255430,
+      "word": "杨洋回应近期争议",
+      "onboard_time": 1689826721,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10204768,
+      "num": 10204768,
+      "word": "奔跑吧没播",
+      "onboard_time": 1688735864,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10155728,
+      "num": 10155728,
+      "word": "中国石油大学回应",
+      "onboard_time": 1686192990,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10143296,
+      "num": 10143296,
+      "word": "请大英博物馆无偿归还中国文物",
+      "onboard_time": 1693179993,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 10116638,
+      "num": 10837177,
+      "word": "联合调查组认定饭菜中异物是鼠头",
+      "onboard_time": 1686976651,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10085912,
+      "num": 10085912,
+      "word": "众星悼念李玟",
+      "onboard_time": 1688568357,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10059576,
+      "num": 10059576,
+      "word": "普京指责瓦格纳负责人叛国",
+      "onboard_time": 1687592313,
+      "rank": 0,
+      "category": "国外要闻,社会新闻"
+    },
+    {
+      "raw_hot": 10053896,
+      "num": 10053896,
+      "word": "TFBOYS十年之约演唱会官宣",
+      "onboard_time": 1686882328,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 10046058,
+      "num": 10046058,
+      "word": "house被警方立案调查",
+      "onboard_time": 1684327348,
+      "rank": 3,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 10028023,
+      "num": 10028023,
+      "word": "炎亚纶承认与未成年发生关系",
+      "onboard_time": 1687274137,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 10010294,
+      "num": 10010294,
+      "word": "黄子佼承认性骚扰",
+      "onboard_time": 1687151191,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9936782,
+      "num": 9936782,
+      "word": "刘亦菲微博Queen",
+      "onboard_time": 1679755019,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9912341,
+      "num": 9912341,
+      "word": "萧敬腾求婚林有慧",
+      "onboard_time": 1687868979,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9908054,
+      "num": 9908054,
+      "word": "过年好",
+      "onboard_time": 1674316434,
+      "rank": 0,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 9904433,
+      "num": 9904433,
+      "word": "笑果被罚",
+      "onboard_time": 1684298498,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 9892896,
+      "num": 9892896,
+      "word": "肖战真唱",
+      "onboard_time": 1688051809,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 9852392,
+      "num": 9852392,
+      "word": "孙杨张豆豆官宣结婚",
+      "onboard_time": 1689819576,
+      "rank": 0,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 9840962,
+      "num": 9840962,
+      "word": "SpaceX星舰发射失败",
+      "onboard_time": 1681998271,
+      "rank": 0,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 9828472,
+      "num": 9828472,
+      "word": "宝格丽官网疑将台湾列为国家",
+      "onboard_time": 1689068255,
+      "rank": 0,
+      "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 9779465,
+      "num": 9779465,
+      "word": "安乐传空降了",
+      "onboard_time": 1689165814,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 9756965,
+      "num": 9655481,
+      "word": "微博之夜百花齐放",
+      "onboard_time": 1679739121,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 9705953,
+      "num": 9705953,
+      "word": "董某某被停职",
+      "onboard_time": 1686194372,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9667960,
+      "num": 9667960,
+      "word": "春晚",
+      "onboard_time": 1672723229,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 9602069,
+      "num": 9602069,
+      "word": "时代峰峻全家福",
+      "onboard_time": 1691237620,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9601062,
+      "num": 9601062,
+      "word": "胡歌微博King",
+      "onboard_time": 1679755019,
+      "rank": 1,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9595653,
+      "num": 9595653,
+      "word": "警方将侦办炎亚纶事件",
+      "onboard_time": 1687346135,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9510697,
+      "num": 9510697,
+      "word": "香港警方公布蔡天凤碎尸案细节",
+      "onboard_time": 1677295288,
+      "rank": 41,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 9506486,
+      "num": 9506486,
+      "word": "张继科年收入曾达6000万元",
+      "onboard_time": 1680490529,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 9503590,
+      "num": 9503590,
+      "word": "杨幂到底听到了什么",
+      "onboard_time": 1679748951,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9458443,
+      "num": 9458443,
+      "word": "姜广涛涉嫌刑事犯罪",
+      "onboard_time": 1679042309,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 9398814,
+      "num": 9398814,
+      "word": "吴越 白玉兰视后",
+      "onboard_time": 1687527706,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 9372899,
+      "num": 9372899,
+      "word": "李玟80岁母亲首先发现女儿在寓所轻生",
+      "onboard_time": 1688569866,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9361784,
+      "num": 9361784,
+      "word": "TFBOYS演唱会官宣",
+      "onboard_time": 1689942032,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 9337684,
+      "num": 9337684,
+      "word": "春晚节目单",
+      "onboard_time": 1674141269,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 9224273,
+      "num": 9224273,
+      "word": "刘鑫对近70万赔偿款发起网络募捐",
+      "onboard_time": 1672742789,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9185807,
+      "num": 9185807,
+      "word": "金星再回应捂胸",
+      "onboard_time": 1688634395,
+      "rank": 4,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 9180228,
+      "num": 10430228,
+      "word": "选举新一届国家机构领导人",
+      "onboard_time": 1678405283,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 9151594,
+      "num": 9151594,
+      "word": "赵灵儿李逍遥的十年之约",
+      "onboard_time": 1679755628,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9151110,
+      "num": 9151110,
+      "word": "刘亦菲胡歌坐一起",
+      "onboard_time": 1679745117,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 9126946,
+      "num": 10225473,
+      "word": "川大地铁事件涉事学生被留校留党察看",
+      "onboard_time": 1687336659,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 9118597,
+      "num": 9118597,
+      "word": "自证未偷拍仍遭曝光涉事女子已道歉",
+      "onboard_time": 1686483687,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9100612,
+      "num": 10017561,
+      "word": "中电科称痛批加班员工非集团公司员工",
+      "onboard_time": 1680683010,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 9044864,
+      "num": 9044864,
+      "word": "李玟老公",
+      "onboard_time": 1688565287,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8991374,
+      "num": 8991374,
+      "word": "曝陈建州在范玮琪孕期骚扰女艺人",
+      "onboard_time": 1687958560,
+      "rank": 9,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8987860,
+      "num": 8987860,
+      "word": "中国好声音暂停播出",
+      "onboard_time": 1692932868,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8964429,
+      "num": 8964429,
+      "word": "肖战警告肖战工作室",
+      "onboard_time": 1689325236,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8961367,
+      "num": 7503225,
+      "word": "李嘉捷向好声音致歉",
+      "onboard_time": 1692328116,
+      "rank": 1,
+      "category": "综艺,综艺"
+    },
+    {
+      "raw_hot": 8925810,
+      "num": 8925810,
+      "word": "邓伦被强制执行",
+      "onboard_time": 1688730994,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8907443,
+      "num": 8907443,
+      "word": "王鹤棣去哪了应该问虞书欣",
+      "onboard_time": 1679749726,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8882317,
+      "num": 13595049,
+      "word": "习近平当选中央军委主席",
+      "onboard_time": 1678418423,
+      "rank": 1,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8839416,
+      "num": 9309117,
+      "word": "人大毕业生马某某被刑拘",
+      "onboard_time": 1688354013,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 8746355,
+      "num": 6046048,
+      "word": "张若昀好帅",
+      "onboard_time": 1674303762,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8692766,
+      "num": 4849642,
+      "word": "唐嫣去哪了",
+      "onboard_time": 1679751351,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8687096,
+      "num": 1462595,
+      "word": "李玟",
+      "onboard_time": 1688598507,
+      "rank": 6,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8674057,
+      "num": 8674057,
+      "word": "黄渤又上跑步机",
+      "onboard_time": 1674309954,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8673479,
+      "num": 8673479,
+      "word": "迪丽热巴复古名伶",
+      "onboard_time": 1679743604,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 8638477,
+      "num": 8638477,
+      "word": "赵丽颖端庄大气",
+      "onboard_time": 1674310985,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8615320,
+      "num": 8615320,
+      "word": "中石油胡继勇被免职",
+      "onboard_time": 1686131623,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8591986,
+      "num": 8591986,
+      "word": "安踏删除张继科宣传物料",
+      "onboard_time": 1680497915,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8572168,
+      "num": 900691,
+      "word": "台媒曝范玮琪失联",
+      "onboard_time": 1687855960,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8544897,
+      "num": 8544897,
+      "word": "高考",
+      "onboard_time": 1686092659,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 8538395,
+      "num": 8538395,
+      "word": "吴秀波儿子 家暴",
+      "onboard_time": 1677560434,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8531257,
+      "num": 8531257,
+      "word": "吴亦凡犯强奸聚众淫乱二审开庭",
+      "onboard_time": 1690261661,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8493935,
+      "num": 8493935,
+      "word": "秀才被封",
+      "onboard_time": 1693649312,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8489512,
+      "num": 6652496,
+      "word": "主持人是蓝羽姐姐",
+      "onboard_time": 1691324281,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 8402780,
+      "num": 8402780,
+      "word": "你留下的爱",
+      "onboard_time": 1688564730,
+      "rank": 4,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 8364815,
+      "num": 8364815,
+      "word": "李玟老公发讣告",
+      "onboard_time": 1688637342,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8361811,
+      "num": 8361811,
+      "word": "广东地震",
+      "onboard_time": 1676083827,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8343319,
+      "num": 8343319,
+      "word": "建议调整双休日试点隔周三休",
+      "onboard_time": 1677628949,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 8307415,
+      "num": 8307415,
+      "word": "中国好声音声明",
+      "onboard_time": 1692284806,
+      "rank": 0,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8307302,
+      "num": 9557302,
+      "word": "315晚会",
+      "onboard_time": 1678880010,
+      "rank": 3,
+      "category": "国内要闻,财经"
+    },
+    {
+      "raw_hot": 8270859,
+      "num": 8270859,
+      "word": "奔跑吧延期播出",
+      "onboard_time": 1688121335,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 8185446,
+      "num": 8185446,
+      "word": "鹿晗 还是键盘侠好当",
+      "onboard_time": 1676509648,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 8168360,
+      "num": 8168360,
+      "word": "数学到底难不难",
+      "onboard_time": 1686129107,
+      "rank": 22,
+      "category": "教育,社会新闻"
+    },
+    {
+      "raw_hot": 8107680,
+      "num": 8107680,
+      "word": "巴厘岛命案疑男子杀害女友后自杀",
+      "onboard_time": 1684309591,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 8087095,
+      "num": 2942897,
+      "word": "普里戈任确认在坠机中遇难",
+      "onboard_time": 1692832408,
+      "rank": 14,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 8063331,
+      "num": 8063331,
+      "word": "唐小强确认遇难",
+      "onboard_time": 1675985242,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 8049620,
+      "num": 8049620,
+      "word": "梁朝伟",
+      "onboard_time": 1689780994,
+      "rank": 0,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 8040066,
+      "num": 8481605,
+      "word": "历史会记住日本政府这一笔",
+      "onboard_time": 1692881754,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7993540,
+      "num": 7993540,
+      "word": "五四放假通知",
+      "onboard_time": 1682998108,
+      "rank": 31,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 7958830,
+      "num": 7958830,
+      "word": "中国女篮亚洲杯夺冠",
+      "onboard_time": 1688280394,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 7898237,
+      "num": 8858861,
+      "word": "北京顺义区2.7级地震",
+      "onboard_time": 1693554041,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7884381,
+      "num": 7884381,
+      "word": "妇女节 不是女生节不是女神节",
+      "onboard_time": 1678238605,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 7790064,
+      "num": 7790064,
+      "word": "孙菲菲 我是娱乐圈霸凌事件亲历者",
+      "onboard_time": 1693375235,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7773657,
+      "num": 7773657,
+      "word": "朱洁静不愧是首席",
+      "onboard_time": 1674308208,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7754523,
+      "num": 7754523,
+      "word": "半个娱乐圈明星都在上海",
+      "onboard_time": 1679635950,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7706331,
+      "num": 7488020,
+      "word": "韩红首次公开回应被举报",
+      "onboard_time": 1688561790,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7702414,
+      "num": 7702414,
+      "word": "阿雅毛发及尿液检测报告",
+      "onboard_time": 1688523872,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7702055,
+      "num": 7702055,
+      "word": "终于等到许嵩",
+      "onboard_time": 1674318647,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7662033,
+      "num": 7662033,
+      "word": "考研成绩",
+      "onboard_time": 1676809533,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 7630424,
+      "num": 7630424,
+      "word": "高考作文 简单",
+      "onboard_time": 1686109729,
+      "rank": 3,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 7619978,
+      "num": 7619978,
+      "word": "假唱",
+      "onboard_time": 1673789131,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7607978,
+      "num": 7607978,
+      "word": "是谁在唱歌 for you",
+      "onboard_time": 1674309417,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7606953,
+      "num": 8647817,
+      "word": "宝格丽道歉别弄成专供中国大陆",
+      "onboard_time": 1689081698,
+      "rank": 1,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 7600071,
+      "num": 7600071,
+      "word": "六级",
+      "onboard_time": 1678592608,
+      "rank": 15,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 7578605,
+      "num": 7578605,
+      "word": "玉骨遥今日开播",
+      "onboard_time": 1688293415,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 7564434,
+      "num": 7564434,
+      "word": "阿雅工作室发检测报告",
+      "onboard_time": 1688527316,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7558428,
+      "num": 7558428,
+      "word": "天津着火",
+      "onboard_time": 1692686677,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7528476,
+      "num": 7528476,
+      "word": "文彬",
+      "onboard_time": 1681921705,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7516988,
+      "num": 8351842,
+      "word": "丰县八孩案一审宣判",
+      "onboard_time": 1680840993,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7504189,
+      "num": 8211135,
+      "word": "宝格丽致歉",
+      "onboard_time": 1689076054,
+      "rank": 0,
+      "category": "社会新闻,时尚"
+    },
+    {
+      "raw_hot": 7463239,
+      "num": 7463239,
+      "word": "高考英语",
+      "onboard_time": 1686213514,
+      "rank": 0,
+      "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 7420684,
+      "num": 2162913,
+      "word": "动如脱兔的邓超",
+      "onboard_time": 1674304933,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 7398770,
+      "num": 8648770,
+      "word": "银川烧烤店爆炸事故31人经抢救无效死亡",
+      "onboard_time": 1687398511,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7387402,
+      "num": 7387402,
+      "word": "胡鑫宇尸检已完成",
+      "onboard_time": 1674988052,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7349947,
+      "num": 7349947,
+      "word": "范玮琪 我丈夫是个正直的人",
+      "onboard_time": 1688026115,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 7313901,
+      "num": 7313901,
+      "word": "TFBOYS 微博之夜",
+      "onboard_time": 1679623707,
+      "rank": 0,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 7308190,
+      "num": 7308190,
+      "word": "四级",
+      "onboard_time": 1678578620,
+      "rank": 6,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 7304665,
+      "num": 8554665,
+      "word": "李强被任命为国务院总理",
+      "onboard_time": 1678504167,
+      "rank": 0,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 7293759,
+      "num": 7963954,
+      "word": "台湾当归",
+      "onboard_time": 1692461075,
+      "rank": 30,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 7293745,
+      "num": 7293745,
+      "word": "胡鑫宇遗体现场发现一支录音笔",
+      "onboard_time": 1674964246,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7279831,
+      "num": 8238361,
+      "word": "丫丫专机已降落上海",
+      "onboard_time": 1682584052,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7256959,
+      "num": 8506959,
+      "word": "MU5735事故调查最新情况",
+      "onboard_time": 1679310572,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 7251779,
+      "num": 7251779,
+      "word": "吴亦凡不服一审提起上诉",
+      "onboard_time": 1690262142,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 7230883,
+      "num": 7230883,
+      "word": "白玉兰颁奖",
+      "onboard_time": 1687518270,
+      "rank": 3,
+      "category": "影视,艺人"
+    },
+    {
+      "raw_hot": 7225276,
+      "num": 7225276,
+      "word": "曝汪姓男艺人性侵19岁女子",
+      "onboard_time": 1688105910,
+      "rank": 30,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 7213197,
+      "num": 7213197,
+      "word": "痞幼",
+      "onboard_time": 1688462855,
+      "rank": 10,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 7135158,
+      "num": 7135158,
+      "word": "赵丽颖三次陪跑",
+      "onboard_time": 1687528550,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 7110056,
+      "num": 7110056,
+      "word": "雷佳音 白玉兰视帝",
+      "onboard_time": 1687527946,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 7084987,
+      "num": 7084987,
+      "word": "邯郸车祸",
+      "onboard_time": 1680278126,
+      "rank": 0,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 6997376,
+      "num": 6997376,
+      "word": "石家庄临时空中管制已解除",
+      "onboard_time": 1676531250,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6995165,
+      "num": 6995165,
+      "word": "国考成绩",
+      "onboard_time": 1677809248,
+      "rank": 14,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 6956736,
+      "num": 6956736,
+      "word": "天津震感",
+      "onboard_time": 1691261079,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6929384,
+      "num": 9911730,
+      "word": "吉林舒兰3名失联公职人员确认牺牲",
+      "onboard_time": 1691331008,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6923201,
+      "num": 6923201,
+      "word": "广州震感",
+      "onboard_time": 1675568914,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6846624,
+      "num": 6846624,
+      "word": "奔跑吧今晚播出",
+      "onboard_time": 1689300688,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6846023,
+      "num": 7805091,
+      "word": "江西一化工厂爆炸",
+      "onboard_time": 1688188412,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6842168,
+      "num": 6842168,
+      "word": "EDG官宣签约Uzi",
+      "onboard_time": 1686380789,
+      "rank": 0,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 6825757,
+      "num": 6825757,
+      "word": "爱宝诞下双胞胎",
+      "onboard_time": 1689033630,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6535493,
+      "num": 636654,
+      "word": "金采源恋情",
+      "onboard_time": 1674011728,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6528594,
+      "num": 476756,
+      "word": "洪欣 某人一直删除我微博",
+      "onboard_time": 1682904631,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6352125,
+      "num": 6352125,
+      "word": "唐诗逸好美",
+      "onboard_time": 1674310322,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6333261,
+      "num": 6333261,
+      "word": "女子官宣结婚被民警提醒赶紧分手",
+      "onboard_time": 1683688050,
+      "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 6319424,
+      "num": 1792166,
+      "word": "陈建州 你范范姐就很不爱这种事啊",
+      "onboard_time": 1687838681,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6292850,
+      "num": 6292850,
+      "word": "张恒远去世",
+      "onboard_time": 1686697641,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 6223000,
+      "num": 1112136,
+      "word": "曝炎亚纶曾请员工封锁邱耀乐账号",
+      "onboard_time": 1687344873,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6207481,
+      "num": 6207481,
+      "word": "春晚没有贾玲张小斐",
+      "onboard_time": 1674213510,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 6131711,
+      "num": 4202923,
+      "word": "张继科借款利率是银行商贷的4倍",
+      "onboard_time": 1680476960,
+      "rank": 10,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 6010597,
+      "num": 401667,
+      "word": "杨紫琼奥斯卡影后",
+      "onboard_time": 1678678287,
+      "rank": 30,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 5962374,
+      "num": 194189,
+      "word": "王思聪与上海打人的34岁王某某年龄不符",
+      "onboard_time": 1673498973,
+      "rank": 43,
+      "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 5865095,
+      "num": 7115095,
+      "word": "大熊猫成功死亡",
+      "onboard_time": 1693782326,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5778123,
+      "num": 338303,
+      "word": "王泽鹏没第一时间站出来因为怯懦",
+      "onboard_time": 1692504398,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5774735,
+      "num": 5774735,
+      "word": "五个王源",
+      "onboard_time": 1672501848,
+      "rank": 1,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5751610,
+      "num": 5751610,
+      "word": "韩正当选为中华人民共和国副主席",
+      "onboard_time": 1678419581,
+      "rank": 5,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 5712927,
+      "num": 5712927,
+      "word": "蔡徐坤豆瓣主页正常了",
+      "onboard_time": 1688265329,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5627078,
+      "num": 5627078,
+      "word": "想看热巴造型",
+      "onboard_time": 1679741922,
+      "rank": 3,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 5620154,
+      "num": 5620154,
+      "word": "云之羽空降",
+      "onboard_time": 1693651298,
+      "rank": 3,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 5619700,
+      "num": 5619700,
+      "word": "369",
+      "onboard_time": 1688400456,
+      "rank": 0,
+      "category": "游戏,艺人"
+    },
+    {
+      "raw_hot": 5580716,
+      "num": 2711353,
+      "word": "被男子反复碾压女子已身亡",
+      "onboard_time": 1687875586,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5575887,
+      "num": 6202803,
+      "word": "狂飙修改删除涉毒演员戏份",
+      "onboard_time": 1676129014,
+      "rank": 0,
+      "category": "影视,社会新闻"
+    },
+    {
+      "raw_hot": 5549322,
+      "num": 1898359,
+      "word": "杨洋",
+      "onboard_time": 1689808042,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5524134,
+      "num": 5524134,
+      "word": "詹姆斯NBA历史得分王",
+      "onboard_time": 1675832618,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5469546,
+      "num": 5469546,
+      "word": "蔡徐坤豆瓣主页作品被清空",
+      "onboard_time": 1688208272,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5469239,
+      "num": 825277,
+      "word": "物业证实校内被撞身亡小学生母亲坠楼",
+      "onboard_time": 1685717903,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5467407,
+      "num": 5467407,
+      "word": "是妈妈是女儿听哭了",
+      "onboard_time": 1674313442,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5439650,
+      "num": 1145290,
+      "word": "tangoz报警",
+      "onboard_time": 1692105645,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5388172,
+      "num": 5388172,
+      "word": "温精灵道歉",
+      "onboard_time": 1684242336,
+      "rank": 1,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 5381152,
+      "num": 623091,
+      "word": "吴亦凡至今已被拘押看守所近2年",
+      "onboard_time": 1690272937,
+      "rank": 12,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 5371167,
+      "num": 5371167,
+      "word": "鞠婧祎胎毛刘海",
+      "onboard_time": 1672501792,
+      "rank": 2,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5343333,
+      "num": 3269306,
+      "word": "刘维 户口本上只有我自己了",
+      "onboard_time": 1680512730,
+      "rank": 1,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5333620,
+      "num": 344184,
+      "word": "姐夫4次强奸07年小姨子判刑10年",
+      "onboard_time": 1678335271,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5326666,
+      "num": 5326666,
+      "word": "张雪峰发文致歉",
+      "onboard_time": 1677037230,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5312835,
+      "num": 5312835,
+      "word": "中央政法委长安剑评张继科事件",
+      "onboard_time": 1680525994,
+      "rank": 34,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 5301174,
+      "num": 5301174,
+      "word": "赵露思腮红谁打的",
+      "onboard_time": 1672499573,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5296527,
+      "num": 1305040,
+      "word": "窦骁何超莲官宣婚礼",
+      "onboard_time": 1681794096,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5270566,
+      "num": 5270566,
+      "word": "秦岚嗓子",
+      "onboard_time": 1674314398,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 5268532,
+      "num": 3538676,
+      "word": "JackeyLove 赌博",
+      "onboard_time": 1688365790,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 5262598,
+      "num": 5262598,
+      "word": "各大卫视删除宋祖儿相关微博",
+      "onboard_time": 1693531355,
+      "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5224491,
+      "num": 5224491,
+      "word": "蒋梦婕被恶意拍裙底勒索",
+      "onboard_time": 1681882888,
+      "rank": 0,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 5207439,
+      "num": 915907,
+      "word": "微信官方致歉",
+      "onboard_time": 1688024857,
+      "rank": 10,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 5188720,
+      "num": 1454823,
+      "word": "川大回应网传地铁事件女生被开除",
+      "onboard_time": 1686555990,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5182206,
+      "num": 2627952,
+      "word": "李湘 我已退休",
+      "onboard_time": 1693456909,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5180071,
+      "num": 5180071,
+      "word": "大熊猫花花的妈妈死亡",
+      "onboard_time": 1693782326,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5177292,
+      "num": 633414,
+      "word": "唐嫣说小姐姐可以陪妹妹玩啦",
+      "onboard_time": 1675150813,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 5169585,
+      "num": 5169585,
+      "word": "安踏 双休",
+      "onboard_time": 1680503670,
+      "rank": 33,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 5149861,
+      "num": 536128,
+      "word": "正佳",
+      "onboard_time": 1673432791,
+      "rank": 10,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 5135977,
+      "num": 5135977,
+      "word": "张继科回应因欠债传播女演员隐私视频",
+      "onboard_time": 1680332610,
+      "rank": 1,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 5121110,
+      "num": 1360590,
+      "word": "小红书",
+      "onboard_time": 1690387296,
+      "rank": 3,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 5109861,
+      "num": 5109861,
+      "word": "宁安如梦没播",
+      "onboard_time": 1684494930,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 5082802,
+      "num": 5082802,
+      "word": "中国女足赢了",
+      "onboard_time": 1690549597,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 5078213,
+      "num": 5078213,
+      "word": "Uzi EDG",
+      "onboard_time": 1686211954,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 5078061,
+      "num": 5078061,
+      "word": "IU被警方告发涉嫌剽窃6首歌曲",
+      "onboard_time": 1683686906,
+      "rank": 0,
+      "category": "艺人,社会新闻"
+    },
+    {
+      "raw_hot": 5003265,
+      "num": 1421283,
+      "word": "专家不建议我国效仿韩国民众囤盐",
+      "onboard_time": 1692864472,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4996518,
+      "num": 4996518,
+      "word": "初见照相馆 尴尬",
+      "onboard_time": 1674306470,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4983871,
+      "num": 4983871,
+      "word": "余震",
+      "onboard_time": 1691262816,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4979379,
+      "num": 4979379,
+      "word": "阳了",
+      "onboard_time": 1683115648,
+      "rank": 1,
+      "category": "社会新闻,情感"
+    },
+    {
+      "raw_hot": 4976854,
+      "num": 4976854,
+      "word": "税务专管员回应宋祖儿被举报偷逃税",
+      "onboard_time": 1693463439,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4936597,
+      "num": 4936597,
+      "word": "王楚然 为给大家带来的困扰说一声抱歉",
+      "onboard_time": 1690463856,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 4933869,
+      "num": 4933869,
+      "word": "上海地震",
+      "onboard_time": 1686766515,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4920735,
+      "num": 4920735,
+      "word": "邵逸夫医院",
+      "onboard_time": 1677481647,
+      "rank": 30,
+      "category": "社会负面"
+    },
+    {
+      "raw_hot": 4917092,
+      "num": 417560,
+      "word": "洪欣张丹峰离婚",
+      "onboard_time": 1682897784,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4903561,
+      "num": 1910801,
+      "word": "孙越的捧哏不如一只烧鸡",
+      "onboard_time": 1674304469,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4893886,
+      "num": 4893886,
+      "word": "你还在用余额宝吗",
+      "onboard_time": 1681786946,
+      "rank": 10,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 4890806,
+      "num": 4570600,
+      "word": "乌合麒麟 与人类同归于尽吗混蛋",
+      "onboard_time": 1692858594,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4883078,
+      "num": 4883078,
+      "word": "富士山",
+      "onboard_time": 1692852968,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4848988,
+      "num": 4848988,
+      "word": "易建联退役",
+      "onboard_time": 1693325734,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4833498,
+      "num": 4833498,
+      "word": "柯哀亲了",
+      "onboard_time": 1680617614,
+      "rank": 24,
+      "category": "动漫,影视"
+    },
+    {
+      "raw_hot": 4831101,
+      "num": 4831101,
+      "word": "玖月晞 我没抄袭",
+      "onboard_time": 1689563371,
+      "rank": 16,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 4827305,
+      "num": 1350932,
+      "word": "李玟遗产都留给妈妈",
+      "onboard_time": 1688615680,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4816423,
+      "num": 4816423,
+      "word": "言承旭 我的小孩来了",
+      "onboard_time": 1675835971,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 4793161,
+      "num": 4793161,
+      "word": "丫丫",
+      "onboard_time": 1676991157,
+      "rank": 0,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 4791962,
+      "num": 4791962,
+      "word": "肖战庄达菲 徐克电影",
+      "onboard_time": 1683443068,
+      "rank": 0,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 4776127,
+      "num": 4776127,
+      "word": "广东廉江发生一起故意伤害案致6死1伤",
+      "onboard_time": 1688959112,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4771641,
+      "num": 491881,
+      "word": "胡歌 我对不起好多人",
+      "onboard_time": 1693264405,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4767484,
+      "num": 619183,
+      "word": "日本大使馆提醒在华日本民众不要大声说日语",
+      "onboard_time": 1692970660,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 4729576,
+      "num": 3498982,
+      "word": "王俊凯回望",
+      "onboard_time": 1691326396,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 4718675,
+      "num": 1009624,
+      "word": "黄磊孙莉回应多多争议",
+      "onboard_time": 1679912791,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 4706035,
+      "num": 1999165,
+      "word": "法定婚龄降到18岁会提升初婚率吗",
+      "onboard_time": 1675825650,
+      "rank": 12,
+      "category": "社会议题"
+    },
+    {
+      "raw_hot": 4692271,
+      "num": 4692271,
+      "word": "中国电科",
+      "onboard_time": 1680651982,
+      "rank": 4,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 4690695,
+      "num": 4690695,
+      "word": "胡彦斌 满江红制作成本1000万重要吗",
+      "onboard_time": 1675140512,
+      "rank": 1,
+      "category": "影视"
+    },
+    {
+      "raw_hot": 4690382,
+      "num": 4690382,
+      "word": "白敬亭宋轶是不是忘记官宣了",
+      "onboard_time": 1688138323,
+      "rank": 10,
+      "category": "影视"
+    }
+  ],
+  "hotgov_list": [
+    {
+      "word": "#2023新年贺词#"
+    },
+    {
+      "word": "#足迹2022#"
+    },
+    {
+      "word": "#习主席书架上的照片上新了#"
+    },
+    {
+      "word": "#今天的中国是梦想接连实现的中国#"
+    },
+    {
+      "word": "#2023我来了#"
+    },
+    {
+      "word": "#聆听新年贺词2023加油干#"
+    },
+    {
+      "word": "#开局之年看中国#"
+    },
+    {
+      "word": "#时光之辰#"
+    },
+    {
+      "word": "#习主席书架上的照片记录了哪些珍贵瞬间#"
+    },
+    {
+      "word": "#巩固脱贫成果乡村振兴开新局#"
+    },
+    {
+      "word": "#这个元旦既是迎新也是回归#"
+    },
+    {
+      "word": "#2023用奋斗为新年起笔#"
+    },
+    {
+      "word": "#2023加把劲#"
+    },
+    {
+      "word": "#新年伊始重点工程进度条再刷新#"
+    },
+    {
+      "word": "#同心奋进新征程#"
+    },
+    {
+      "word": "#不断增强文化遗产保护能力#"
+    },
+    {
+      "word": "#习主席同菲律宾总统会谈#"
+    },
+    {
+      "word": "#2023激发活力释放潜力#"
+    },
+    {
+      "word": "#形成共促高质量发展的合力#"
+    },
+    {
+      "word": "#2023中国航天全年发射将再破60次#"
+    },
+    {
+      "word": "#坚持和加强党中央集中统一领导#"
+    },
+    {
+      "word": "#第十版新冠诊疗方案发布#"
+    },
+    {
+      "word": "#中土两国友好交往翻开新篇章#"
+    },
+    {
+      "word": "#极简版第十版诊疗方案#"
+    },
+    {
+      "word": "#2023春运正式开启#"
+    },
+    {
+      "word": "#做实做细做完备应对好春运大考#"
+    },
+    {
+      "word": "#流动的中国活力#"
+    },
+    {
+      "word": "#第十版新冠病毒感染防控方案有何调整#"
+    },
+    {
+      "word": "#一刻不停推进全面从严治党#"
+    },
+    {
+      "word": "#110警察节#"
+    }
+  ]
+}

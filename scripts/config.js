@@ -27,6 +27,7 @@ const TEMPLATES_PATH = path.resolve('./', 'scripts/templates');
 const LATEST_DAILY = path.resolve(basePath, 'latest-daily.md');
 const LATEST_WEEKLY = path.resolve(basePath, 'latest-weekly.md');
 const LATEST_MONTHLY = path.resolve(basePath, 'latest-monthly.md');
+const LATEST_YEARLY = path.resolve(basePath, 'latest-yearly.md');
 
 module.exports = {
   ARCHIVE_DAILY_PATH,
@@ -39,4 +40,5 @@ module.exports = {
   LATEST_DAILY,
   LATEST_WEEKLY,
   LATEST_MONTHLY,
+  LATEST_YEARLY,
 };

@@ -28,6 +28,8 @@ jobs:
         run: node ./cli/archive-weekly.js
       - name: 归档月榜
         run: node ./cli/archive-monthly.js
+      - name: 归档年榜
+        run: node ./cli/archive-yearly.js
       - name: 存储
         run: |
           git config user.name "bot"
