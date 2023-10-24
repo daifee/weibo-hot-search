@@ -1,7 +1,15 @@
 {
   "startTime": 1698078118666,
-  "endTime": 1698147246600,
+  "endTime": 1698150768428,
   "band_list": [
+    {
+      "raw_hot": 7985970,
+      "num": 250843,
+      "word": "秦刚被免去国务委员职务",
+      "onboard_time": 1698148120,
+      "rank": 18,
+      "category": "国内要闻"
+    },
     {
       "raw_hot": 3536467,
       "num": 3536467,
@@ -75,6 +83,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1636502,
+      "num": 1636502,
+      "word": "我国将增发1万亿元国债",
+      "onboard_time": 1698149620,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 1576988,
       "num": 1576988,
       "word": "女子曝15万存款被农行私自改成购买",
@@ -137,6 +153,14 @@
       "onboard_time": 1698127475,
       "rank": 13,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 1107558,
+      "num": 281192,
+      "word": "王志刚被免去科学技术部部长职务",
+      "onboard_time": 1698149740,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1075721,
@@ -281,6 +305,14 @@
       "onboard_time": 1698131917,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 692996,
+      "num": 692996,
+      "word": "甘肃肃北5.5级地震",
+      "onboard_time": 1698148422,
+      "rank": 3,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 684285,
@@ -691,6 +723,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 389844,
+      "num": 277241,
+      "word": "我国艾滋病患者治疗成功率已超过90%",
+      "onboard_time": 1698149979,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 388964,
       "num": 275482,
       "word": "我爸把我的嫁妆给败光了",
@@ -963,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 281996,
+      "num": 281996,
+      "word": "辱骂新加坡护士的女子涉谎报身份",
+      "onboard_time": 1698146615,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 280057,
       "num": 280057,
       "word": "水眉笔",
@@ -1131,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 248486,
+      "num": 248486,
+      "word": "白桃星座 千万别找射手座借钱",
+      "onboard_time": 1698147395,
+      "rank": 19,
+      "category": "情感,网红"
+    },
+    {
       "raw_hot": 245846,
       "num": 245846,
       "word": "周鸿祎称程序员节是唯一不能放假的节日",
@@ -1151,6 +1207,14 @@
       "num": 186780,
       "word": "美国28岁女保姆性侵8月大女婴",
       "onboard_time": 1698055428,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 242931,
+      "num": 242931,
+      "word": "双十一 卫生巾",
+      "onboard_time": 1698149979,
       "rank": 20,
       "category": "社会新闻"
     },
@@ -1201,6 +1265,14 @@
       "onboard_time": 1698115773,
       "rank": 45,
       "category": "健康医疗,知识科普"
+    },
+    {
+      "raw_hot": 228695,
+      "num": 228695,
+      "word": "缅北诈骗窝点有老虎当看守",
+      "onboard_time": 1698149321,
+      "rank": 22,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225590,
@@ -1315,6 +1387,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 205084,
+      "num": 205084,
+      "word": "双十一",
+      "onboard_time": 1698150457,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 205063,
       "num": 659134,
       "word": "警察哥哥收到仙女姐姐送的锦旗",
@@ -1363,12 +1443,28 @@
       "category": "作品衍生,美妆"
     },
     {
+      "raw_hot": 199963,
+      "num": 199963,
+      "word": "王安宇微信名啥意思",
+      "onboard_time": 1698148782,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199950,
       "num": 199950,
       "word": "边伯贤 PARANOIA",
       "onboard_time": 1698105456,
       "rank": 25,
       "category": "电竞,音乐"
+    },
+    {
+      "raw_hot": 199901,
+      "num": 199901,
+      "word": "令人心动的offer",
+      "onboard_time": 1698149979,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 198631,
@@ -1571,12 +1667,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 173562,
-      "num": 173562,
-      "word": "辱骂新加坡护士的女子涉谎报身份",
-      "onboard_time": 1698146615,
-      "rank": 26,
-      "category": "社会新闻"
+      "raw_hot": 173679,
+      "num": 173679,
+      "word": "任嘉伦贺峻霖撞衫",
+      "onboard_time": 1698148661,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 173449,
@@ -1673,6 +1769,14 @@
       "onboard_time": 1698126637,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165729,
+      "num": 165729,
+      "word": "警方破获涉25亿特大跨境赌博案",
+      "onboard_time": 1698149620,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 165407,
@@ -1819,6 +1923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149442,
+      "num": 275495,
+      "word": "今晚8点天猫双11双降了",
+      "onboard_time": 1698148842,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 149384,
       "num": 149384,
       "word": "火星情报局6即将上线",
@@ -1905,6 +2017,22 @@
       "onboard_time": 1698146255,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141091,
+      "num": 141091,
+      "word": "化妆化成了艺术",
+      "onboard_time": 1698149380,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 141069,
+      "num": 136585,
+      "word": "双十一直播间是会整活的",
+      "onboard_time": 1698146913,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 140194,
@@ -2049,6 +2177,14 @@
       "onboard_time": 1698108700,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131016,
+      "num": 131016,
+      "word": "关晓彤女扮男装造型",
+      "onboard_time": 1698148240,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 130964,
@@ -2203,6 +2339,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 113216,
+      "num": 184894,
+      "word": "重庆这地形再次验证背篼的必要性",
+      "onboard_time": 1698149922,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 110445,
       "num": 110445,
       "word": "碟中谍8推迟上映",
@@ -2297,14 +2441,6 @@
       "onboard_time": 1698060462,
       "rank": 39,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 102641,
-      "num": 118143,
-      "word": "双十一直播间是会整活的",
-      "onboard_time": 1698146913,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 102387,
@@ -2504,6 +2640,22 @@
       "word": "环卫大爷为圆梦零基础学芭蕾",
       "onboard_time": 1698102145,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 41143,
+      "num": 963622,
+      "word": "嫦娥奔月的故事不再只是神话",
+      "onboard_time": 1698149979,
+      "rank": 2,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 41118,
+      "num": 251415,
+      "word": "天猫双11直播间堪比跨年演唱会",
+      "onboard_time": 1698149202,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
