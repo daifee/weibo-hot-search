@@ -1,0 +1,410 @@
+{
+  "runTime": 1698151745216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2434024,
+        "num": 2434024,
+        "word": "我国将增发1万亿元国债",
+        "onboard_time": 1698149620,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1698019,
+        "num": 1698019,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 1,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 24843,
+        "num": 1081290,
+        "word": "为自强不息顽强拼搏的他们加油",
+        "onboard_time": 1698149321,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 998603,
+        "num": 998603,
+        "word": "我国艾滋病患者治疗成功率已超过90%",
+        "onboard_time": 1698149979,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 567250,
+        "num": 567250,
+        "word": "高校食堂干锅虾28一份有61只虾",
+        "onboard_time": 1698144334,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 560743,
+        "num": 560743,
+        "word": "甘肃肃北5.5级地震",
+        "onboard_time": 1698148422,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 440649,
+        "num": 440649,
+        "word": "迪丽热巴微信名",
+        "onboard_time": 1698126694,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 385486,
+        "num": 385486,
+        "word": "双十一",
+        "onboard_time": 1698150457,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 375399,
+        "num": 375399,
+        "word": "你还喝农夫山泉吗",
+        "onboard_time": 1698142292,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 360542,
+        "num": 360542,
+        "word": "辱骂新加坡护士的女子涉谎报身份",
+        "onboard_time": 1698146615,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2262069,
+        "num": 352112,
+        "word": "王志刚被免去科学技术部部长职务",
+        "onboard_time": 1698149740,
+        "rank": 10,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 690899,
+        "num": 337239,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 489496,
+        "num": 326777,
+        "word": "双十一 卫生巾",
+        "onboard_time": 1698149979,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370873,
+        "num": 308663,
+        "word": "京东采销喊话李佳琦",
+        "onboard_time": 1698131073,
+        "rank": 13,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 216830,
+        "num": 302449,
+        "word": "今晚8点天猫双11双降了",
+        "onboard_time": 1698148842,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 289840,
+        "num": 289840,
+        "word": "女子曝15万存款被农行私自改成购买",
+        "onboard_time": 1698139471,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73690,
+        "num": 285269,
+        "word": "天猫双11直播间堪比跨年演唱会",
+        "onboard_time": 1698149202,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 281574,
+        "num": 281574,
+        "word": "千万别找射手座借钱",
+        "onboard_time": 1698147395,
+        "rank": 17,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 260174,
+        "num": 260174,
+        "word": "以爱为营",
+        "onboard_time": 1698139352,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247338,
+        "num": 247338,
+        "word": "缅北诈骗窝点有老虎当看守",
+        "onboard_time": 1698149321,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 235279,
+        "num": 235279,
+        "word": "名侦探柯南茱蒂声优去世",
+        "onboard_time": 1698144936,
+        "rank": 20,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 222529,
+        "num": 222529,
+        "word": "马立奥 妈妈回来就接你",
+        "onboard_time": 1698141812,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196150,
+        "num": 196150,
+        "word": "王安宇微信名啥意思",
+        "onboard_time": 1698148782,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191002,
+        "num": 191002,
+        "word": "双十一iPhone价格全系比拼",
+        "onboard_time": 1698143916,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 184234,
+        "num": 184234,
+        "word": "令人心动的offer",
+        "onboard_time": 1698149979,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183816,
+        "num": 183816,
+        "word": "几条大狗凌晨在小区乱窜撕咬流浪猫",
+        "onboard_time": 1698144515,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 176162,
+        "num": 176162,
+        "word": "爷爷把我的泡泡玛特当锅盖",
+        "onboard_time": 1698137792,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172222,
+        "num": 172222,
+        "word": "邓超晒照说和鹿晗年龄相仿",
+        "onboard_time": 1698142054,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168155,
+        "num": 168155,
+        "word": "警方破获涉25亿特大跨境赌博案",
+        "onboard_time": 1698149620,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98079,
+        "num": 168121,
+        "word": "重庆这地形再次验证背篼的必要性",
+        "onboard_time": 1698149922,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 333925,
+        "num": 167702,
+        "word": "李佳琦直播间的底价协议合理吗",
+        "onboard_time": 1698134675,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 262469,
+        "num": 167030,
+        "word": "陈牧驰近照",
+        "onboard_time": 1698138813,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180095,
+        "num": 166678,
+        "word": "5.9元粉底液日销5万单暴涨100倍",
+        "onboard_time": 1698145113,
+        "rank": 32,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 166367,
+        "num": 166367,
+        "word": "倪妮金鹤奖最佳女主角",
+        "onboard_time": 1698145594,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 165161,
+        "num": 165161,
+        "word": "任嘉伦贺峻霖撞衫",
+        "onboard_time": 1698148661,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153523,
+        "num": 153523,
+        "word": "肖战笑颜分析",
+        "onboard_time": 1698133833,
+        "rank": 35,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 143805,
+        "num": 143805,
+        "word": "赵继伟受伤下场",
+        "onboard_time": 1698150877,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143573,
+        "num": 143573,
+        "word": "问心",
+        "onboard_time": 1698151655,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140326,
+        "num": 140326,
+        "word": "关晓彤女扮男装造型",
+        "onboard_time": 1698148240,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127895,
+        "num": 127895,
+        "word": "官方通报无窗帘教室校长已被停职",
+        "onboard_time": 1698140011,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126960,
+        "num": 126960,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 40,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 124799,
+        "num": 124799,
+        "word": "化妆化成了艺术",
+        "onboard_time": 1698149380,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 121315,
+        "num": 121315,
+        "word": "双十一 满减",
+        "onboard_time": 1698151477,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118418,
+        "num": 118418,
+        "word": "四狱警殴打犯人致死最高获刑6年",
+        "onboard_time": 1698146072,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113376,
+        "num": 118416,
+        "word": "海氏品牌方要求京东恢复正常价格",
+        "onboard_time": 1698129993,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 103983,
+        "num": 118411,
+        "word": "眉笔 消费降级",
+        "onboard_time": 1698127475,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 103110,
+        "num": 118407,
+        "word": "钟睒睒又双叒叕成中国首富",
+        "onboard_time": 1698145472,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102549,
+        "num": 118399,
+        "word": "沈梦辰想把这个妆焊死在脸上",
+        "onboard_time": 1698127297,
+        "rank": 47,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 97910,
+        "num": 118395,
+        "word": "52岁大叔288天自驾游中国",
+        "onboard_time": 1698151494,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 89516,
+        "num": 118394,
+        "word": "突然学会自我介绍了",
+        "onboard_time": 1698151655,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持党对工会的全面领导#"
+    }
+  }
+}

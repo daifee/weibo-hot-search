@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698150768428,
+  "endTime": 1698151745216,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -67,6 +67,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 2434024,
+      "num": 2434024,
+      "word": "我国将增发1万亿元国债",
+      "onboard_time": 1698149620,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 2427786,
       "num": 2427786,
       "word": "上四休三工资九折你愿意吗",
@@ -97,6 +105,14 @@
       "onboard_time": 1698122263,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2262069,
+      "num": 352112,
+      "word": "王志刚被免去科学技术部部长职务",
+      "onboard_time": 1698149740,
+      "rank": 10,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 2207132,
@@ -249,14 +265,6 @@
       "onboard_time": 1698082160,
       "rank": 30,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1636502,
-      "num": 1636502,
-      "word": "我国将增发1万亿元国债",
-      "onboard_time": 1698149620,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 1608789,
@@ -515,14 +523,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 1107558,
-      "num": 281192,
-      "word": "王志刚被免去科学技术部部长职务",
-      "onboard_time": 1698149740,
-      "rank": 10,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 1105360,
       "num": 627940,
       "word": "佟丽娅董璇有孩子后的第一次闺蜜旅行",
@@ -609,6 +609,14 @@
       "onboard_time": 1697930180,
       "rank": 10,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 998603,
+      "num": 998603,
+      "word": "我国艾滋病患者治疗成功率已超过90%",
+      "onboard_time": 1698149979,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 994904,
@@ -1755,6 +1763,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 489496,
+      "num": 326777,
+      "word": "双十一 卫生巾",
+      "onboard_time": 1698149979,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 488421,
       "num": 488421,
       "word": "张栋梁的名字被哥哥们玩坏了",
@@ -2379,14 +2395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 389844,
-      "num": 277241,
-      "word": "我国艾滋病患者治疗成功率已超过90%",
-      "onboard_time": 1698149979,
-      "rank": 13,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 389605,
       "num": 922621,
       "word": "74岁儿子重阳节晒96岁老妈帮择菜",
@@ -2433,6 +2441,14 @@
       "onboard_time": 1697982456,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 385486,
+      "num": 385486,
+      "word": "双十一",
+      "onboard_time": 1698150457,
+      "rank": 24,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 384487,
@@ -2617,6 +2633,14 @@
       "onboard_time": 1698125375,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 360542,
+      "num": 360542,
+      "word": "辱骂新加坡护士的女子涉谎报身份",
+      "onboard_time": 1698146615,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 359828,
@@ -3339,20 +3363,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281996,
-      "num": 281996,
-      "word": "辱骂新加坡护士的女子涉谎报身份",
-      "onboard_time": 1698146615,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 281827,
       "num": 281827,
       "word": "李彦宏称他招管培生从来不看毕业学校",
       "onboard_time": 1698057766,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 281574,
+      "num": 281574,
+      "word": "千万别找射手座借钱",
+      "onboard_time": 1698147395,
+      "rank": 17,
+      "category": "情感,网红"
     },
     {
       "raw_hot": 281270,
@@ -3835,6 +3859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 247338,
+      "num": 247338,
+      "word": "缅北诈骗窝点有老虎当看守",
+      "onboard_time": 1698149321,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 246888,
       "num": 246888,
       "word": "漳州震感",
@@ -3889,14 +3921,6 @@
       "onboard_time": 1697866953,
       "rank": 19,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 242931,
-      "num": 242931,
-      "word": "双十一 卫生巾",
-      "onboard_time": 1698149979,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 242423,
@@ -4179,14 +4203,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228695,
-      "num": 228695,
-      "word": "缅北诈骗窝点有老虎当看守",
-      "onboard_time": 1698149321,
-      "rank": 22,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 228370,
       "num": 228370,
       "word": "高圆圆去看乐队的夏天演唱会",
@@ -4400,6 +4416,14 @@
       "word": "大爷大妈心眼练习主打没心眼",
       "onboard_time": 1698024092,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216830,
+      "num": 302449,
+      "word": "今晚8点天猫双11双降了",
+      "onboard_time": 1698148842,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -4673,14 +4697,6 @@
       "onboard_time": 1697966433,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 205084,
-      "num": 205084,
-      "word": "双十一",
-      "onboard_time": 1698150457,
-      "rank": 24,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 205063,
@@ -5803,6 +5819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 168155,
+      "num": 168155,
+      "word": "警方破获涉25亿特大跨境赌博案",
+      "onboard_time": 1698149620,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 167655,
       "num": 167655,
       "word": "aespa回归概念图",
@@ -5825,14 +5849,6 @@
       "onboard_time": 1697989054,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 165729,
-      "num": 165729,
-      "word": "警方破获涉25亿特大跨境赌博案",
-      "onboard_time": 1698149620,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 165407,
@@ -6315,14 +6331,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 149442,
-      "num": 275495,
-      "word": "今晚8点天猫双11双降了",
-      "onboard_time": 1698148842,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 149431,
       "num": 149431,
       "word": "李善均被立案调查",
@@ -6507,6 +6515,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 143805,
+      "num": 143805,
+      "word": "赵继伟受伤下场",
+      "onboard_time": 1698150877,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143535,
       "num": 143535,
       "word": "玲的秘密",
@@ -6633,6 +6649,14 @@
       "onboard_time": 1698049868,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 140326,
+      "num": 140326,
+      "word": "关晓彤女扮男装造型",
+      "onboard_time": 1698148240,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 140154,
@@ -7027,14 +7051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131016,
-      "num": 131016,
-      "word": "关晓彤女扮男装造型",
-      "onboard_time": 1698148240,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130964,
       "num": 130964,
       "word": "梅西中国行首站或改在海口",
@@ -7392,6 +7408,14 @@
       "word": "地铁站里的以琴会友令人动容",
       "onboard_time": 1698053749,
       "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 121315,
+      "num": 121315,
+      "word": "双十一 满减",
+      "onboard_time": 1698151477,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -7995,6 +8019,14 @@
       "category": "音乐,时尚"
     },
     {
+      "raw_hot": 97910,
+      "num": 118395,
+      "word": "52岁大叔288天自驾游中国",
+      "onboard_time": 1698151494,
+      "rank": 48,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 97838,
       "num": 194325,
       "word": "男子突然休克警民40秒暖心救助",
@@ -8129,6 +8161,14 @@
       "onboard_time": 1698126036,
       "rank": 49,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 89516,
+      "num": 118394,
+      "word": "突然学会自我介绍了",
+      "onboard_time": 1698151655,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 88916,
@@ -8305,6 +8345,14 @@
       "onboard_time": 1698143851,
       "rank": 27,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 73690,
+      "num": 285269,
+      "word": "天猫双11直播间堪比跨年演唱会",
+      "onboard_time": 1698149202,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 73344,
@@ -8555,14 +8603,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 41118,
-      "num": 251415,
-      "word": "天猫双11直播间堪比跨年演唱会",
-      "onboard_time": 1698149202,
-      "rank": 17,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 40220,
       "num": 167232,
       "word": "搞oc的有福了",
@@ -8649,6 +8689,14 @@
       "onboard_time": 1698064359,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 24843,
+      "num": 1081290,
+      "word": "为自强不息顽强拼搏的他们加油",
+      "onboard_time": 1698149321,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 23949,
