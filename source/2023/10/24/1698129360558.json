@@ -1,0 +1,410 @@
+{
+  "runTime": 1698129360558,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2047281,
+        "num": 2047281,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 0,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 1950567,
+        "num": 1950567,
+        "word": "迪丽热巴微信名",
+        "onboard_time": 1698126694,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 12969,
+        "num": 958095,
+        "word": "杭州亚残运会观赛指南",
+        "onboard_time": 1698117034,
+        "rank": 2,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 836077,
+        "num": 836077,
+        "word": "眉笔 消费降级",
+        "onboard_time": 1698127475,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 812322,
+        "num": 812322,
+        "word": "谁把辛芷蕾的共享单车骑走了",
+        "onboard_time": 1698126093,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564465,
+        "num": 564465,
+        "word": "美籍男子抵达香港时行李搜出手枪",
+        "onboard_time": 1698123580,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 553739,
+        "num": 553739,
+        "word": "科大讯飞",
+        "onboard_time": 1698126876,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 552834,
+        "num": 552834,
+        "word": "林心如参加首档综艺",
+        "onboard_time": 1698125795,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 521124,
+        "num": 521124,
+        "word": "印尼封禁TikTok电商是一个错误",
+        "onboard_time": 1698126637,
+        "rank": 8,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 401302,
+        "num": 401302,
+        "word": "π是无限不循环小数的可视化",
+        "onboard_time": 1698127775,
+        "rank": 9,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 957042,
+        "num": 397368,
+        "word": "傅首尔因为愧疚无法下定决心离婚",
+        "onboard_time": 1698122263,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 635257,
+        "num": 393245,
+        "word": "沈梦辰想把这个妆焊死在脸上",
+        "onboard_time": 1698127297,
+        "rank": 11,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 527957,
+        "num": 389637,
+        "word": "许佳琪出现呼吸困难症状",
+        "onboard_time": 1698120878,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417183,
+        "num": 381176,
+        "word": "迪丽热巴快把自己跑yue了",
+        "onboard_time": 1698125017,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380989,
+        "num": 380989,
+        "word": "谢娜杨紫新综艺",
+        "onboard_time": 1698123340,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355652,
+        "num": 355652,
+        "word": "杨舒予再发文拒绝粉丝接机",
+        "onboard_time": 1698125375,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342777,
+        "num": 342777,
+        "word": "六姊妹主演阵容",
+        "onboard_time": 1698126997,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327344,
+        "num": 327344,
+        "word": "吉林一小区爆炸致1死16伤",
+        "onboard_time": 1698123036,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 277297,
+        "num": 277297,
+        "word": "广州草莓音乐节阵容",
+        "onboard_time": 1698126637,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263251,
+        "num": 263251,
+        "word": "外媒炒作中国6艘舰艇同时现身中东",
+        "onboard_time": 1698123762,
+        "rank": 19,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 537619,
+        "num": 245743,
+        "word": "父亲要求月入6000元女儿付4500元赡养费",
+        "onboard_time": 1698108278,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225863,
+        "num": 225863,
+        "word": "日本科学家称人类精子打败了牛顿",
+        "onboard_time": 1698125795,
+        "rank": 21,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 196182,
+        "num": 196182,
+        "word": "我要逆风去 定档",
+        "onboard_time": 1698120937,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192592,
+        "num": 192592,
+        "word": "为有暗香来 丫鬟妆造",
+        "onboard_time": 1698113253,
+        "rank": 23,
+        "category": "剧集,美妆"
+      },
+      {
+        "raw_hot": 183016,
+        "num": 183016,
+        "word": "熊猫妈妈剥竹子没有崽崽吃得快",
+        "onboard_time": 1698122382,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181725,
+        "num": 181725,
+        "word": "向全球顶级富豪征税2%或可创收2500亿美元",
+        "onboard_time": 1698126816,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179785,
+        "num": 179785,
+        "word": "发型也是穿搭的一环",
+        "onboard_time": 1698121359,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 175323,
+        "num": 175323,
+        "word": "徐老师镜头下的杨紫",
+        "onboard_time": 1698126036,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174125,
+        "num": 174125,
+        "word": "男子看黄网一夜转账26次被骗450万",
+        "onboard_time": 1698113493,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165407,
+        "num": 165407,
+        "word": "陈昊宇 祝陈玥永远是个勇者",
+        "onboard_time": 1698128674,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163836,
+        "num": 163836,
+        "word": "张艺兴演唱会",
+        "onboard_time": 1698127775,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157837,
+        "num": 157837,
+        "word": "恋与王室 皇女的诱惑",
+        "onboard_time": 1698126637,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 154365,
+        "num": 154365,
+        "word": "官方回应女子举报嫂子出轨生子",
+        "onboard_time": 1698128796,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146181,
+        "num": 146181,
+        "word": "蔡文静扮装成安娜去迪士尼",
+        "onboard_time": 1698128975,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144879,
+        "num": 144879,
+        "word": "帕梅拉新浪扫楼",
+        "onboard_time": 1698129154,
+        "rank": 34,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 135829,
+        "num": 135829,
+        "word": "火星6艺人阵容官宣",
+        "onboard_time": 1698124056,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133851,
+        "num": 133851,
+        "word": "ENHYPEN亚洲巡演官宣",
+        "onboard_time": 1698125437,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123698,
+        "num": 123698,
+        "word": "杜兰特说勇士应该退役自己球衣",
+        "onboard_time": 1698125556,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122050,
+        "num": 122050,
+        "word": "韩女妆",
+        "onboard_time": 1698129154,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 41870,
+        "num": 120531,
+        "word": "天猫听劝版双11今晚八点上线",
+        "onboard_time": 1698120396,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120212,
+        "num": 120212,
+        "word": "深秋的第一只口红",
+        "onboard_time": 1698129273,
+        "rank": 40,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120060,
+        "num": 120060,
+        "word": "金世佳毛晓彤吻戏",
+        "onboard_time": 1698117875,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119940,
+        "num": 119940,
+        "word": "为有暗香来女二",
+        "onboard_time": 1698123941,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "秦岚电音朵拉",
+        "onboard_time": 1698126335,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114049,
+        "num": 118952,
+        "word": "开机广告消失后电视或将涨价",
+        "onboard_time": 1698124475,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 109969,
+        "num": 118940,
+        "word": "狗狗的暗示还不明显吗",
+        "onboard_time": 1698120760,
+        "rank": 45,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 103460,
+        "num": 118925,
+        "word": "霜降是秋冬季温差最大时段",
+        "onboard_time": 1698127899,
+        "rank": 46,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 101166,
+        "num": 118912,
+        "word": "朱一龙增肥一天吃六顿饭",
+        "onboard_time": 1698122623,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 97885,
+        "num": 118907,
+        "word": "我爸把我的嫁妆给败光了",
+        "onboard_time": 1698114753,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96235,
+        "num": 118891,
+        "word": "美国一机组人员试图在飞行途中关闭发动机",
+        "onboard_time": 1698129334,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新的起点上继续推动文化繁荣#"
+    }
+  }
+}
