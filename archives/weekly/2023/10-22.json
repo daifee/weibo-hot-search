@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698174834648,
+  "endTime": 1698176060932,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -8843,6 +8843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 72903,
+      "num": 72903,
+      "word": "美ONE要求品牌保底价否则赔偿200万",
+      "onboard_time": 1698172636,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 71979,
       "num": 79830,
       "word": "北京脆皮年轻人不服来战",
@@ -9091,14 +9099,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 44723,
-      "num": 44723,
-      "word": "美ONE要求品牌保底价否则赔偿200万",
-      "onboard_time": 1698172636,
-      "rank": 8,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 41143,
       "num": 963622,
       "word": "嫦娥奔月的故事不再只是神话",
@@ -9203,6 +9203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23676,
+      "num": 19862,
+      "word": "小孩哥正在经历我的童年",
+      "onboard_time": 1698173895,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 22568,
       "num": 26489,
       "word": "未知全貌 给予好评",
@@ -9227,12 +9235,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19180,
-      "num": 19180,
-      "word": "小孩哥正在经历我的童年",
-      "onboard_time": 1698173895,
-      "rank": 37,
-      "category": "情感"
+      "raw_hot": 19142,
+      "num": 19142,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18110,
+      "num": 18110,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 17202,
@@ -9273,6 +9289,14 @@
       "onboard_time": 1697922374,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 13958,
+      "num": 17306,
+      "word": "以后我的人设就是任性独生女",
+      "onboard_time": 1698175694,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 13634,

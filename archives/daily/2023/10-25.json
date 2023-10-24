@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698174834648,
+  "endTime": 1698176060932,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -427,6 +427,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 72903,
+      "num": 72903,
+      "word": "美ONE要求品牌保底价否则赔偿200万",
+      "onboard_time": 1698172636,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 69106,
       "num": 69106,
       "word": "田耕纪有自己的海底捞",
@@ -443,14 +451,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 44723,
-      "num": 44723,
-      "word": "美ONE要求品牌保底价否则赔偿200万",
-      "onboard_time": 1698172636,
-      "rank": 8,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 26044,
       "num": 30084,
       "word": "双十一",
@@ -459,11 +459,35 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 19180,
-      "num": 19180,
+      "raw_hot": 23676,
+      "num": 19862,
       "word": "小孩哥正在经历我的童年",
       "onboard_time": 1698173895,
       "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 19142,
+      "num": 19142,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 18110,
+      "num": 18110,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 13958,
+      "num": 17306,
+      "word": "以后我的人设就是任性独生女",
+      "onboard_time": 1698175694,
+      "rank": 48,
       "category": "情感"
     }
   ],
