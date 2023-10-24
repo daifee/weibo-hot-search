@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698136490974,
+  "endTime": 1698139077502,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -499,6 +499,22 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1050427,
+      "num": 750087,
+      "word": "居民医保一年减少2500万人",
+      "onboard_time": 1698137493,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1044858,
+      "num": 1044858,
+      "word": "女子结婚要求前同事还礼400元",
+      "onboard_time": 1698133294,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1043773,
       "num": 1043773,
       "word": "独子去世离异父母各分走一半骨灰",
@@ -833,6 +849,14 @@
       "onboard_time": 1698117875,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 758074,
+      "num": 318129,
+      "word": "陈牧驰近照",
+      "onboard_time": 1698138813,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 757246,
@@ -1731,6 +1755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 467460,
+      "num": 467460,
+      "word": "北大团队识别血指纹破36年前命案",
+      "onboard_time": 1698135993,
+      "rank": 25,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 462844,
       "num": 462844,
       "word": "多地对归国留学生开放定向选调",
@@ -2451,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 354641,
+      "num": 204246,
+      "word": "张杰谢娜原来这么甜的吗",
+      "onboard_time": 1698137614,
+      "rank": 20,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 353305,
       "num": 353305,
       "word": "初中生拉开同学座椅致其后仰摔成重伤",
@@ -2529,14 +2569,6 @@
       "onboard_time": 1697989831,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 344988,
-      "num": 344988,
-      "word": "女子结婚要求前同事还礼400元",
-      "onboard_time": 1698133294,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 342482,
@@ -2993,6 +3025,14 @@
       "onboard_time": 1698119197,
       "rank": 25,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 292227,
+      "num": 162347,
+      "word": "爷爷把我的泡泡玛特当锅盖",
+      "onboard_time": 1698137792,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 291949,
@@ -4219,14 +4259,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 211386,
-      "num": 211386,
-      "word": "北大团队识别血指纹破36年前命案",
-      "onboard_time": 1698135993,
-      "rank": 25,
-      "category": "社会新闻,科技"
-    },
-    {
       "raw_hot": 211188,
       "num": 211188,
       "word": "少女时代旧照",
@@ -4395,6 +4427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205054,
+      "num": 205054,
+      "word": "王者荣耀",
+      "onboard_time": 1697955511,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204619,
       "num": 204619,
       "word": "猫为咬这一口做了300个假动作",
@@ -4449,14 +4489,6 @@
       "onboard_time": 1698117096,
       "rank": 41,
       "category": "母婴育儿"
-    },
-    {
-      "raw_hot": 202915,
-      "num": 202915,
-      "word": "王者荣耀",
-      "onboard_time": 1697955511,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 202379,
@@ -5227,6 +5259,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 175440,
+      "num": 175440,
+      "word": "显脸小的法式刘海儿",
+      "onboard_time": 1698136354,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 175237,
       "num": 175237,
       "word": "巴勒斯坦问题峰会闭幕",
@@ -5585,6 +5625,14 @@
       "onboard_time": 1698045340,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 161002,
+      "num": 161002,
+      "word": "张小斐分享自己经历鼓励大学生",
+      "onboard_time": 1698138574,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 160850,
@@ -6033,6 +6081,14 @@
       "onboard_time": 1698053806,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 145192,
+      "num": 145192,
+      "word": "薛之谦剧透官宣时间",
+      "onboard_time": 1698138693,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 144673,
@@ -6675,6 +6731,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 127592,
+      "num": 127592,
+      "word": "可以买贵的不能买贵了",
+      "onboard_time": 1698138333,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127580,
       "num": 170155,
       "word": "熊猫幼崽被摸头后的眼神",
@@ -6729,6 +6793,14 @@
       "onboard_time": 1698096252,
       "rank": 49,
       "category": "社会新闻,旅游"
+    },
+    {
+      "raw_hot": 126394,
+      "num": 126394,
+      "word": "3人失联民警大雪中徒步10公里搜救",
+      "onboard_time": 1698136835,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125410,
@@ -6843,6 +6915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 122270,
+      "num": 122270,
+      "word": "板栗焖饭",
+      "onboard_time": 1698136291,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 122250,
       "num": 122250,
       "word": "田曦薇王星越合作过",
@@ -6857,6 +6937,14 @@
       "onboard_time": 1697978072,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122065,
+      "num": 122065,
+      "word": "民警被陌生奶奶当儿子宠了10年",
+      "onboard_time": 1698139053,
+      "rank": 46,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 121508,
@@ -6905,6 +6993,14 @@
       "onboard_time": 1698028533,
       "rank": 49,
       "category": "财经,科技"
+    },
+    {
+      "raw_hot": 119346,
+      "num": 119346,
+      "word": "王者周年庆节目单",
+      "onboard_time": 1698137255,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 119059,
@@ -7259,14 +7355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105419,
-      "num": 105419,
-      "word": "显脸小的法式刘海儿",
-      "onboard_time": 1698136354,
-      "rank": 42,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 105336,
       "num": 105336,
       "word": "苏醒说0713现在叫就业兄弟团",
@@ -7529,14 +7617,6 @@
       "onboard_time": 1698030575,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 93789,
-      "num": 93789,
-      "word": "板栗焖饭",
-      "onboard_time": 1698136291,
-      "rank": 48,
-      "category": "美食"
     },
     {
       "raw_hot": 93009,
