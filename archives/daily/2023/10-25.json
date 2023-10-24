@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698172560696,
+  "endTime": 1698174834648,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -443,12 +443,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 44723,
+      "num": 44723,
+      "word": "美ONE要求品牌保底价否则赔偿200万",
+      "onboard_time": 1698172636,
+      "rank": 8,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 26044,
       "num": 30084,
       "word": "双十一",
       "onboard_time": 1698150457,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 19180,
+      "num": 19180,
+      "word": "小孩哥正在经历我的童年",
+      "onboard_time": 1698173895,
+      "rank": 37,
+      "category": "情感"
     }
   ],
   "hotgov_list": [
