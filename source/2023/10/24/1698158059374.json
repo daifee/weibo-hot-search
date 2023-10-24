@@ -1,0 +1,410 @@
+{
+  "runTime": 1698158059374,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2039094,
+        "num": 2039094,
+        "word": "王志刚被免去科学技术部部长职务",
+        "onboard_time": 1698149740,
+        "rank": 0,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 1909014,
+        "num": 1909014,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 1,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 20912,
+        "num": 1280985,
+        "word": "神十七航天员已做好出征准备",
+        "onboard_time": 1698157958,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1243763,
+        "num": 1243763,
+        "word": "我国将增发1万亿元国债",
+        "onboard_time": 1698149620,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 970229,
+        "num": 970229,
+        "word": "花知晓腮红",
+        "onboard_time": 1698154116,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 845226,
+        "num": 845226,
+        "word": "周迅 把我跟拖垃圾袋一样拖上来",
+        "onboard_time": 1698152555,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 616418,
+        "num": 616418,
+        "word": "双十一 满减",
+        "onboard_time": 1698151477,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607679,
+        "num": 607679,
+        "word": "高校食堂干锅虾28一份有61只虾",
+        "onboard_time": 1698144334,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 605293,
+        "num": 605293,
+        "word": "我国艾滋病患者治疗成功率已超过90%",
+        "onboard_time": 1698149979,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 480819,
+        "num": 480819,
+        "word": "国债",
+        "onboard_time": 1698152975,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 771997,
+        "num": 447735,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 10,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 578034,
+        "num": 439230,
+        "word": "双十一 卫生巾",
+        "onboard_time": 1698149979,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 342159,
+        "num": 342159,
+        "word": "京东采销喊话李佳琦",
+        "onboard_time": 1698131073,
+        "rank": 12,
+        "category": "网红,互联网"
+      },
+      {
+        "raw_hot": 335422,
+        "num": 335422,
+        "word": "迪丽热巴微信名",
+        "onboard_time": 1698126694,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200994,
+        "num": 310218,
+        "word": "抢到丝塔芙了吗",
+        "onboard_time": 1698156040,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 297091,
+        "num": 297091,
+        "word": "女子曝15万存款被农行私自改成购买",
+        "onboard_time": 1698139471,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 270655,
+        "num": 270655,
+        "word": "52岁大叔自驾游中国说后悔没有30岁出发",
+        "onboard_time": 1698153577,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 267129,
+        "num": 267129,
+        "word": "你还喝农夫山泉吗",
+        "onboard_time": 1698142292,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251041,
+        "num": 251041,
+        "word": "海氏电器实名举报京东",
+        "onboard_time": 1698157958,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 250108,
+        "num": 250108,
+        "word": "莫文蔚台上演唱 巩俐台下打光",
+        "onboard_time": 1698152257,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378391,
+        "num": 248370,
+        "word": "田耕纪的结局连主演都不知道",
+        "onboard_time": 1698156640,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 258491,
+        "num": 244253,
+        "word": "王一博跟小动物PK热度",
+        "onboard_time": 1698154417,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235400,
+        "num": 235400,
+        "word": "突然学会自我介绍了",
+        "onboard_time": 1698151655,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228777,
+        "num": 228777,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 23,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 226125,
+        "num": 226125,
+        "word": "缅北诈骗窝点有老虎当看守",
+        "onboard_time": 1698149321,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 208221,
+        "num": 208221,
+        "word": "以爱为营",
+        "onboard_time": 1698139352,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204961,
+        "num": 204961,
+        "word": "千万别找射手座借钱",
+        "onboard_time": 1698147395,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 187107,
+        "num": 187107,
+        "word": "问心",
+        "onboard_time": 1698151655,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85359,
+        "num": 183826,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183274,
+        "num": 183274,
+        "word": "花儿与少年空镜海报",
+        "onboard_time": 1698155315,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478740,
+        "num": 180663,
+        "word": "全国财政赤字将由38800亿元增加到48800亿元",
+        "onboard_time": 1698157599,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 230458,
+        "num": 179536,
+        "word": "李佳琦直播间的底价协议合理吗",
+        "onboard_time": 1698134675,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 229769,
+        "num": 179183,
+        "word": "陈牧驰近照",
+        "onboard_time": 1698138813,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176390,
+        "num": 176390,
+        "word": "不同身材女生穿同款裙子",
+        "onboard_time": 1698157536,
+        "rank": 33,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 152683,
+        "num": 171468,
+        "word": "兄弟俩轮流用背篼背着母亲去医院",
+        "onboard_time": 1698157778,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144393,
+        "num": 171349,
+        "word": "陕西一交通局拖欠男子770万工程款",
+        "onboard_time": 1698157658,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 171290,
+        "num": 171290,
+        "word": "警方破获涉25亿特大跨境赌博案",
+        "onboard_time": 1698149620,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 168625,
+        "num": 168625,
+        "word": "为什么说今年双十一更便宜了",
+        "onboard_time": 1698142833,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 165972,
+        "num": 165972,
+        "word": "邓超晒照说和鹿晗年龄相仿",
+        "onboard_time": 1698142054,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159441,
+        "num": 159441,
+        "word": "马立奥 妈妈回来就接你",
+        "onboard_time": 1698141812,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157370,
+        "num": 157370,
+        "word": "名侦探柯南茱蒂声优去世",
+        "onboard_time": 1698144936,
+        "rank": 40,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 48015,
+        "num": 152827,
+        "word": "小鹏要造星舰了",
+        "onboard_time": 1698157778,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150757,
+        "num": 150757,
+        "word": "5.9元粉底液日销5万单暴涨100倍",
+        "onboard_time": 1698145113,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139146,
+        "num": 139146,
+        "word": "小鹏X9",
+        "onboard_time": 1698153934,
+        "rank": 43,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 130779,
+        "num": 130779,
+        "word": "DRG晋级挑杯四强",
+        "onboard_time": 1698157242,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129605,
+        "num": 129605,
+        "word": "令人心动的offer",
+        "onboard_time": 1698149979,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126581,
+        "num": 126581,
+        "word": "辱骂新加坡护士的女子涉谎报身份",
+        "onboard_time": 1698146615,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123675,
+        "num": 123675,
+        "word": "双十一",
+        "onboard_time": 1698150457,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121185,
+        "num": 121185,
+        "word": "女孩五月天演唱会给去世爸爸点歌",
+        "onboard_time": 1698155016,
+        "rank": 48,
+        "category": "社会新闻,演出"
+      },
+      {
+        "raw_hot": 118471,
+        "num": 118471,
+        "word": "双十一iPhone价格全系比拼",
+        "onboard_time": 1698143916,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持党对工会的全面领导#"
+    }
+  }
+}
