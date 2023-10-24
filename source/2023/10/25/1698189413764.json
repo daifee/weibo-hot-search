@@ -1,0 +1,410 @@
+{
+  "runTime": 1698189413764,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1515201,
+        "num": 1515201,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 0,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 710307,
+        "num": 710307,
+        "word": "王志刚被免去科学技术部部长职务",
+        "onboard_time": 1698149740,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 64914,
+        "num": 674890,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 661508,
+        "num": 661508,
+        "word": "男子手持铁锹将没拴绳柯基打死",
+        "onboard_time": 1698175273,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 324052,
+        "num": 324052,
+        "word": "白敬亭何泓姗二搭爷青回",
+        "onboard_time": 1698159576,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 269040,
+        "num": 269040,
+        "word": "苹果将举办发布会",
+        "onboard_time": 1698188843,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 212139,
+        "num": 212139,
+        "word": "二宫和也退社",
+        "onboard_time": 1698188664,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199536,
+        "num": 199536,
+        "word": "我国将增发1万亿元国债",
+        "onboard_time": 1698149620,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199427,
+        "num": 199427,
+        "word": "双十一 洗发水",
+        "onboard_time": 1698161673,
+        "rank": 8,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 176646,
+        "num": 176646,
+        "word": "美ONE要求品牌保底价否则赔偿200万",
+        "onboard_time": 1698172636,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 500084,
+        "num": 172179,
+        "word": "海氏电器实名举报京东",
+        "onboard_time": 1698157958,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 418786,
+        "num": 167916,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 320563,
+        "num": 164996,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 12,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 157964,
+        "num": 157964,
+        "word": "女子曝15万存款被农行私自改成购买",
+        "onboard_time": 1698139471,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 143230,
+        "num": 143230,
+        "word": "周迅 把我跟拖垃圾袋一样拖上来",
+        "onboard_time": 1698152555,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142815,
+        "num": 142815,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 15,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 138342,
+        "num": 138342,
+        "word": "邓为为对手戏演员磨掉棍子的刺",
+        "onboard_time": 1698161795,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135931,
+        "num": 135931,
+        "word": "我国艾滋病患者治疗成功率已超过90%",
+        "onboard_time": 1698149979,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 134530,
+        "num": 134530,
+        "word": "警方破获涉25亿特大跨境赌博案",
+        "onboard_time": 1698149620,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120452,
+        "num": 120452,
+        "word": "曼联1比0哥本哈根",
+        "onboard_time": 1698189145,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225049,
+        "num": 120149,
+        "word": "中学老师批改作业写下你是孤儿吗评语",
+        "onboard_time": 1698188724,
+        "rank": 20,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160305,
+        "num": 119779,
+        "word": "问心 第二季",
+        "onboard_time": 1698163413,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119394,
+        "num": 119394,
+        "word": "陕西一交通局拖欠男子770万工程款",
+        "onboard_time": 1698157658,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112381,
+        "num": 112381,
+        "word": "不同身材女生穿同款裙子",
+        "onboard_time": 1698157536,
+        "rank": 23,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 111198,
+        "num": 111198,
+        "word": "林心如年轻时的盛世容颜",
+        "onboard_time": 1698158978,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105085,
+        "num": 105085,
+        "word": "张小斐cos阿童木",
+        "onboard_time": 1698184634,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99554,
+        "num": 99554,
+        "word": "田耕纪的结局连主演都不知道",
+        "onboard_time": 1698156640,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96920,
+        "num": 96920,
+        "word": "欧冠",
+        "onboard_time": 1698188965,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92069,
+        "num": 92069,
+        "word": "这种美发方式很致癌",
+        "onboard_time": 1698158918,
+        "rank": 28,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 90045,
+        "num": 90045,
+        "word": "妹妹晕倒哥哥飞奔找到值得信赖的人",
+        "onboard_time": 1698188724,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192369,
+        "num": 90004,
+        "word": "外媒曝侯孝贤患失智症",
+        "onboard_time": 1698189265,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89529,
+        "num": 89529,
+        "word": "浙江107岁老人坚持每天上山种地",
+        "onboard_time": 1698188664,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 88113,
+        "num": 88113,
+        "word": "阿娇仙乐 冰山美人",
+        "onboard_time": 1698188724,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75449,
+        "num": 75449,
+        "word": "小蛮腰发型",
+        "onboard_time": 1698162993,
+        "rank": 33,
+        "category": "美妆,时尚"
+      },
+      {
+        "raw_hot": 75354,
+        "num": 75354,
+        "word": "花知晓腮红",
+        "onboard_time": 1698154116,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 75107,
+        "num": 75107,
+        "word": "塞维利亚1比2阿森纳",
+        "onboard_time": 1698189145,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73707,
+        "num": 73707,
+        "word": "双十一 卫生巾",
+        "onboard_time": 1698149979,
+        "rank": 36,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73317,
+        "num": 73317,
+        "word": "小狗把自己藏进了行李箱里",
+        "onboard_time": 1698174855,
+        "rank": 37,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 72917,
+        "num": 72917,
+        "word": "高校食堂干锅虾28一份有61只虾",
+        "onboard_time": 1698144334,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 66244,
+        "num": 66244,
+        "word": "秦岭野生大熊猫妈妈带崽上树",
+        "onboard_time": 1698189387,
+        "rank": 39,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 65493,
+        "num": 65493,
+        "word": "华浅苏醒",
+        "onboard_time": 1698161855,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64757,
+        "num": 64757,
+        "word": "双11不买清单",
+        "onboard_time": 1698182893,
+        "rank": 41,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 64379,
+        "num": 64379,
+        "word": "小松鼠拿着落叶来换吃的了",
+        "onboard_time": 1698183195,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 63700,
+        "num": 63700,
+        "word": "5.9元粉底液日销5万单暴涨100倍",
+        "onboard_time": 1698145113,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 63665,
+        "num": 63665,
+        "word": "男子医院陪护时为重症监护老人筹药费",
+        "onboard_time": 1698164249,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 63371,
+        "num": 63371,
+        "word": "以后我的人设就是任性独生女",
+        "onboard_time": 1698175694,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 61521,
+        "num": 61521,
+        "word": "老人退休后为妻子补上缺失的浪漫",
+        "onboard_time": 1698188724,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 59209,
+        "num": 59209,
+        "word": "王小波是中国最早的程序员之一",
+        "onboard_time": 1698160659,
+        "rank": 47,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 58954,
+        "num": 58954,
+        "word": "千万别找射手座借钱",
+        "onboard_time": 1698147395,
+        "rank": 48,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 58803,
+        "num": 58803,
+        "word": "周迅 狠起来自己都不放过",
+        "onboard_time": 1698164965,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
+    }
+  }
+}

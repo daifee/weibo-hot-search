@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698186839133,
+  "endTime": 1698189413764,
   "band_list": [
     {
       "raw_hot": 1829177,
@@ -25,6 +25,14 @@
       "onboard_time": 1698161673,
       "rank": 3,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 661508,
+      "num": 661508,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 641772,
@@ -123,12 +131,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 272876,
-      "num": 272876,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
+      "raw_hot": 269040,
+      "num": 269040,
+      "word": "苹果将举办发布会",
+      "onboard_time": 1698188843,
+      "rank": 5,
+      "category": "数码"
     },
     {
       "raw_hot": 263258,
@@ -155,12 +163,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225049,
+      "num": 120149,
+      "word": "中学老师批改作业写下你是孤儿吗评语",
+      "onboard_time": 1698188724,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
       "raw_hot": 219446,
       "num": 219446,
       "word": "花知晓腮红",
       "onboard_time": 1698154116,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 212139,
+      "num": 212139,
+      "word": "二宫和也退社",
+      "onboard_time": 1698188664,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 203300,
@@ -179,12 +203,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 192369,
+      "num": 90004,
+      "word": "外媒曝侯孝贤患失智症",
+      "onboard_time": 1698189265,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 187285,
       "num": 187285,
       "word": "周迅 把我跟拖垃圾袋一样拖上来",
       "onboard_time": 1698152555,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 176646,
+      "num": 176646,
+      "word": "美ONE要求品牌保底价否则赔偿200万",
+      "onboard_time": 1698172636,
+      "rank": 8,
+      "category": "美妆"
     },
     {
       "raw_hot": 176107,
@@ -211,6 +251,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 157964,
+      "num": 157964,
+      "word": "女子曝15万存款被农行私自改成购买",
+      "onboard_time": 1698139471,
+      "rank": 44,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 157203,
       "num": 157203,
       "word": "华浅苏醒",
@@ -225,6 +273,14 @@
       "onboard_time": 1698163292,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142815,
+      "num": 142815,
+      "word": "疯狂小杨哥回应电商挤压实体经济",
+      "onboard_time": 1698125795,
+      "rank": 41,
+      "category": "网红,财经"
     },
     {
       "raw_hot": 142107,
@@ -243,8 +299,8 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 126546,
-      "num": 126546,
+      "raw_hot": 134530,
+      "num": 134530,
       "word": "警方破获涉25亿特大跨境赌博案",
       "onboard_time": 1698149620,
       "rank": 29,
@@ -281,6 +337,14 @@
       "onboard_time": 1698152975,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 120452,
+      "num": 120452,
+      "word": "曼联1比0哥本哈根",
+      "onboard_time": 1698189145,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 118971,
@@ -339,20 +403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105085,
+      "num": 105085,
+      "word": "张小斐cos阿童木",
+      "onboard_time": 1698184634,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104652,
       "num": 104652,
       "word": "李佳琦直播间的底价协议合理吗",
       "onboard_time": 1698134675,
       "rank": 40,
       "category": "网红"
-    },
-    {
-      "raw_hot": 101165,
-      "num": 101165,
-      "word": "疯狂小杨哥回应电商挤压实体经济",
-      "onboard_time": 1698125795,
-      "rank": 41,
-      "category": "网红,财经"
     },
     {
       "raw_hot": 98136,
@@ -363,20 +427,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 96920,
+      "num": 96920,
+      "word": "欧冠",
+      "onboard_time": 1698188965,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93187,
       "num": 93187,
       "word": "马晓龙 每次跳hiphop我就贫血",
       "onboard_time": 1698164131,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 92949,
-      "num": 92949,
-      "word": "女子曝15万存款被农行私自改成购买",
-      "onboard_time": 1698139471,
-      "rank": 44,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 91436,
@@ -403,6 +467,30 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 90045,
+      "num": 90045,
+      "word": "妹妹晕倒哥哥飞奔找到值得信赖的人",
+      "onboard_time": 1698188724,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 89529,
+      "num": 89529,
+      "word": "浙江107岁老人坚持每天上山种地",
+      "onboard_time": 1698188664,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 88113,
+      "num": 88113,
+      "word": "阿娇仙乐 冰山美人",
+      "onboard_time": 1698188724,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84194,
       "num": 84194,
       "word": "52岁大叔自驾游中国说后悔没有30岁出发",
@@ -419,12 +507,28 @@
       "category": "动漫,艺人"
     },
     {
+      "raw_hot": 75107,
+      "num": 75107,
+      "word": "塞维利亚1比2阿森纳",
+      "onboard_time": 1698189145,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73891,
       "num": 84167,
       "word": "气垫测评",
       "onboard_time": 1698162040,
       "rank": 49,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 73317,
+      "num": 73317,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 72937,
@@ -435,14 +539,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 72903,
-      "num": 72903,
-      "word": "美ONE要求品牌保底价否则赔偿200万",
-      "onboard_time": 1698172636,
-      "rank": 8,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 69106,
       "num": 69106,
       "word": "田耕纪有自己的海底捞",
@@ -451,52 +547,52 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 61304,
-      "num": 61304,
-      "word": "翻开秋日终章",
-      "onboard_time": 1698167001,
-      "rank": 38,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 55229,
-      "num": 55229,
-      "word": "张小斐cos阿童木",
-      "onboard_time": 1698184634,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 39007,
-      "num": 39007,
-      "word": "以后我的人设就是任性独生女",
-      "onboard_time": 1698175694,
-      "rank": 48,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 38156,
-      "num": 36011,
-      "word": "小松鼠拿着落叶来换吃的了",
-      "onboard_time": 1698183195,
-      "rank": 49,
+      "raw_hot": 66244,
+      "num": 66244,
+      "word": "秦岭野生大熊猫妈妈带崽上树",
+      "onboard_time": 1698189387,
+      "rank": 39,
       "category": "动物萌宠"
     },
     {
-      "raw_hot": 36137,
-      "num": 36137,
+      "raw_hot": 64757,
+      "num": 64757,
       "word": "双11不买清单",
       "onboard_time": 1698182893,
       "rank": 45,
       "category": "其它"
     },
     {
-      "raw_hot": 33757,
-      "num": 33757,
-      "word": "小狗把自己藏进了行李箱里",
-      "onboard_time": 1698174855,
-      "rank": 39,
+      "raw_hot": 64379,
+      "num": 64379,
+      "word": "小松鼠拿着落叶来换吃的了",
+      "onboard_time": 1698183195,
+      "rank": 49,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 63371,
+      "num": 63371,
+      "word": "以后我的人设就是任性独生女",
+      "onboard_time": 1698175694,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 61521,
+      "num": 61521,
+      "word": "老人退休后为妻子补上缺失的浪漫",
+      "onboard_time": 1698188724,
+      "rank": 46,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 61304,
+      "num": 61304,
+      "word": "翻开秋日终章",
+      "onboard_time": 1698167001,
+      "rank": 38,
+      "category": "情感"
     },
     {
       "raw_hot": 30000,
