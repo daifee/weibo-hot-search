@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698176060932,
+  "endTime": 1698178681355,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -8883,6 +8883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67934,
+      "num": 67934,
+      "word": "男子手持铁锹将没拴绳柯基打死",
+      "onboard_time": 1698175273,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 66041,
       "num": 1027741,
       "word": "漫天桂花给了亚运年独有的浪漫记忆",
@@ -9211,12 +9219,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 23473,
+      "num": 18110,
+      "word": "小狗把自己藏进了行李箱里",
+      "onboard_time": 1698174855,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 22568,
       "num": 26489,
       "word": "未知全貌 给予好评",
       "onboard_time": 1698006854,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 21508,
+      "num": 21508,
+      "word": "以后我的人设就是任性独生女",
+      "onboard_time": 1698175694,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 21051,
@@ -9233,22 +9257,6 @@
       "onboard_time": 1698093914,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19142,
-      "num": 19142,
-      "word": "男子手持铁锹将没拴绳柯基打死",
-      "onboard_time": 1698175273,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 18110,
-      "num": 18110,
-      "word": "小狗把自己藏进了行李箱里",
-      "onboard_time": 1698174855,
-      "rank": 39,
-      "category": "动物萌宠"
     },
     {
       "raw_hot": 17202,
@@ -9289,14 +9297,6 @@
       "onboard_time": 1697922374,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 13958,
-      "num": 17306,
-      "word": "以后我的人设就是任性独生女",
-      "onboard_time": 1698175694,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 13634,
