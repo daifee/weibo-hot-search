@@ -1,0 +1,410 @@
+{
+  "runTime": 1698109914321,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1574008,
+        "num": 1574008,
+        "word": "女子举报嫂子身为公职人员婚内出轨生子",
+        "onboard_time": 1698082160,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1345352,
+        "num": 1345352,
+        "word": "超千名网友向被狗咬伤女童申请退款",
+        "onboard_time": 1698076508,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 26687,
+        "num": 1222173,
+        "word": "关爱老人在今天更在每一天",
+        "onboard_time": 1698064359,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1213560,
+        "num": 1213560,
+        "word": "以色列网红嘲讽遭轰炸的巴勒斯坦平民被批",
+        "onboard_time": 1698106657,
+        "rank": 3,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 964068,
+        "num": 964068,
+        "word": "咱仨把燃冬演好比什么都重要",
+        "onboard_time": 1698106418,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 662982,
+        "num": 662982,
+        "word": "厂家称5.9元粉底液是活动价",
+        "onboard_time": 1698074440,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 581468,
+        "num": 581468,
+        "word": "以色列巴勒斯坦冲突",
+        "onboard_time": 1698102868,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 439324,
+        "num": 439324,
+        "word": "开学一个多月后儿童精神科爆满",
+        "onboard_time": 1698108278,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 427655,
+        "num": 427655,
+        "word": "女子全勤工作1个月发257元工资",
+        "onboard_time": 1698070423,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 370909,
+        "num": 370909,
+        "word": "中国台湾地区附近发生5.9级左右地震",
+        "onboard_time": 1698103408,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 755940,
+        "num": 370787,
+        "word": "黄渤加入李冰冰周也自拍",
+        "onboard_time": 1698106780,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 370629,
+        "num": 370629,
+        "word": "老舅居然是哈圈隐藏真学霸",
+        "onboard_time": 1698066281,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359652,
+        "num": 359652,
+        "word": "金希澈和自己的婚礼",
+        "onboard_time": 1698106359,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 349393,
+        "num": 349393,
+        "word": "700万动迁款分给4名子女后无人赡养",
+        "onboard_time": 1698073902,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 310038,
+        "num": 310038,
+        "word": "286斤女生坐高铁二等座引争议",
+        "onboard_time": 1698057766,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 287472,
+        "num": 287472,
+        "word": "宋雨琦让minnie叫范丞丞显眼包",
+        "onboard_time": 1698104914,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286571,
+        "num": 286571,
+        "word": "25岁男子坚持4年每天熬夜画CAD",
+        "onboard_time": 1698065261,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269594,
+        "num": 269594,
+        "word": "邓为给张晚意分享披萨",
+        "onboard_time": 1698107440,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 253837,
+        "num": 253837,
+        "word": "字母哥顶薪续约雄鹿3年",
+        "onboard_time": 1698107500,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236355,
+        "num": 236355,
+        "word": "男子殴打妻子致死被判死缓",
+        "onboard_time": 1698090134,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1417595,
+        "num": 233071,
+        "word": "父亲要求月入6000元女儿付4500元赡养费",
+        "onboard_time": 1698108278,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 404036,
+        "num": 224622,
+        "word": "泡面蒸一下比煮的好吃一百倍",
+        "onboard_time": 1698105517,
+        "rank": 21,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 271305,
+        "num": 215115,
+        "word": "江苏发布幽门螺杆菌感染与耐药地图",
+        "onboard_time": 1698104130,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 244512,
+        "num": 213002,
+        "word": "怪不得爸妈让我少看偶像剧",
+        "onboard_time": 1698106475,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205335,
+        "num": 205335,
+        "word": "霜降",
+        "onboard_time": 1698102387,
+        "rank": 24,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 199950,
+        "num": 199950,
+        "word": "边伯贤 PARANOIA",
+        "onboard_time": 1698105456,
+        "rank": 25,
+        "category": "电竞,音乐"
+      },
+      {
+        "raw_hot": 198405,
+        "num": 198405,
+        "word": "英雄联盟心之钢出道单曲MV",
+        "onboard_time": 1698105098,
+        "rank": 26,
+        "category": "电竞,音乐"
+      },
+      {
+        "raw_hot": 195372,
+        "num": 195372,
+        "word": "于适陈小舟杀青",
+        "onboard_time": 1698103590,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195046,
+        "num": 195046,
+        "word": "肖战深情演绎夜空中最亮的星",
+        "onboard_time": 1698083417,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186596,
+        "num": 186596,
+        "word": "微博迎新之夜就差报身份证了",
+        "onboard_time": 1698072586,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170257,
+        "num": 170257,
+        "word": "广西人是已经学会种大闸蟹了么",
+        "onboard_time": 1698104491,
+        "rank": 30,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 168729,
+        "num": 168729,
+        "word": "一看就知道是意大利的小孩子",
+        "onboard_time": 1698108822,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167655,
+        "num": 167655,
+        "word": "aespa回归概念图",
+        "onboard_time": 1698106596,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164834,
+        "num": 164834,
+        "word": "文科的核心竞争力",
+        "onboard_time": 1698109238,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 161394,
+        "num": 161394,
+        "word": "被共享单车整理员的薪资震惊到",
+        "onboard_time": 1698065812,
+        "rank": 34,
+        "category": "其它"
+      },
+      {
+        "raw_hot": 158761,
+        "num": 158761,
+        "word": "崇州被狗咬伤女童目前医疗支出近6万元",
+        "onboard_time": 1698069043,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158414,
+        "num": 158414,
+        "word": "深圳机场通报不明升空物致航班延误",
+        "onboard_time": 1698109601,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156644,
+        "num": 156644,
+        "word": "田耕纪 镜头语言",
+        "onboard_time": 1698107560,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155402,
+        "num": 155402,
+        "word": "花花冬天8点钟才上班",
+        "onboard_time": 1698068507,
+        "rank": 38,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 145503,
+        "num": 145503,
+        "word": "左航韩国训练日常",
+        "onboard_time": 1698104854,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141903,
+        "num": 141903,
+        "word": "梁龙素颜",
+        "onboard_time": 1698073661,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141833,
+        "num": 141833,
+        "word": "A股的问题是投资者普遍赚不到钱",
+        "onboard_time": 1698075217,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 136612,
+        "num": 136612,
+        "word": "被保姆抚养16年的孩子长大照顾保姆",
+        "onboard_time": 1698062199,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131784,
+        "num": 131784,
+        "word": "10岁女孩悄悄为就餐民警买单",
+        "onboard_time": 1698104674,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 131332,
+        "num": 131332,
+        "word": "他们年龄加起来有221岁携手走过90年",
+        "onboard_time": 1698108700,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127599,
+        "num": 127599,
+        "word": "胡锡进",
+        "onboard_time": 1698101967,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124607,
+        "num": 124607,
+        "word": "熊猫幼崽被摸头后的眼神",
+        "onboard_time": 1698095354,
+        "rank": 46,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 121054,
+        "num": 121054,
+        "word": "华戎舟是华浅想象出来的",
+        "onboard_time": 1698073841,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120120,
+        "num": 120120,
+        "word": "爱子溺亡16年后爸爸跳河救人牺牲",
+        "onboard_time": 1698104251,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 113522,
+        "num": 113522,
+        "word": "花莲5.9级地震",
+        "onboard_time": 1698104012,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#在新时代新征程上书写巾帼荣光#"
+    }
+  }
+}
