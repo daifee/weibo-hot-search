@@ -1,0 +1,410 @@
+{
+  "runTime": 1698161704942,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1803681,
+        "num": 1803681,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 0,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1395849,
+        "num": 1395849,
+        "word": "王志刚被免去科学技术部部长职务",
+        "onboard_time": 1698149740,
+        "rank": 1,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 87184,
+        "num": 1192952,
+        "word": "神十七航天员已做好出征准备",
+        "onboard_time": 1698157958,
+        "rank": 2,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 1155663,
+        "num": 1155663,
+        "word": "全国财政赤字将由38800亿元增加到48800亿元",
+        "onboard_time": 1698157599,
+        "rank": 3,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 741247,
+        "num": 741247,
+        "word": "白敬亭何泓姗二搭爷青回",
+        "onboard_time": 1698159576,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 485629,
+        "num": 485629,
+        "word": "高校食堂干锅虾28一份有61只虾",
+        "onboard_time": 1698144334,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 437484,
+        "num": 437484,
+        "word": "我国将增发1万亿元国债",
+        "onboard_time": 1698149620,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 436057,
+        "num": 436057,
+        "word": "花知晓腮红",
+        "onboard_time": 1698154116,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 424183,
+        "num": 424183,
+        "word": "陕西一交通局拖欠男子770万工程款",
+        "onboard_time": 1698157658,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 368910,
+        "num": 422128,
+        "word": "周迅 把我跟拖垃圾袋一样拖上来",
+        "onboard_time": 1698152555,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1298032,
+        "num": 418557,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 10,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 1009545,
+        "num": 409918,
+        "word": "海氏电器实名举报京东",
+        "onboard_time": 1698157958,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 635142,
+        "num": 406841,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 12,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 403443,
+        "num": 403443,
+        "word": "不同身材女生穿同款裙子",
+        "onboard_time": 1698157536,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 398920,
+        "num": 398920,
+        "word": "双十一 卫生巾",
+        "onboard_time": 1698149979,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 360668,
+        "num": 360668,
+        "word": "我国艾滋病患者治疗成功率已超过90%",
+        "onboard_time": 1698149979,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 330373,
+        "num": 330373,
+        "word": "田耕纪的结局连主演都不知道",
+        "onboard_time": 1698156640,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 315939,
+        "num": 315939,
+        "word": "双十一 满减",
+        "onboard_time": 1698151477,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 301138,
+        "num": 301138,
+        "word": "五条悟回归暗示",
+        "onboard_time": 1698159457,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 239468,
+        "num": 239468,
+        "word": "你还喝农夫山泉吗",
+        "onboard_time": 1698142292,
+        "rank": 19,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 276898,
+        "num": 226714,
+        "word": "林心如年轻时的盛世容颜",
+        "onboard_time": 1698158978,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 198791,
+        "num": 198791,
+        "word": "海氏电器回应实名举报京东",
+        "onboard_time": 1698161196,
+        "rank": 21,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 189609,
+        "num": 189609,
+        "word": "迪丽热巴微信名",
+        "onboard_time": 1698126694,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187386,
+        "num": 187386,
+        "word": "国债",
+        "onboard_time": 1698152975,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 182756,
+        "num": 182756,
+        "word": "女子曝15万存款被农行私自改成购买",
+        "onboard_time": 1698139471,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 181985,
+        "num": 181985,
+        "word": "这种美发方式很致癌",
+        "onboard_time": 1698158918,
+        "rank": 25,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 181619,
+        "num": 181619,
+        "word": "千万别找射手座借钱",
+        "onboard_time": 1698147395,
+        "rank": 26,
+        "category": "情感,网红"
+      },
+      {
+        "raw_hot": 165096,
+        "num": 165096,
+        "word": "抢到丝塔芙了吗",
+        "onboard_time": 1698156040,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 150941,
+        "num": 164913,
+        "word": "突然学会自我介绍了",
+        "onboard_time": 1698151655,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150619,
+        "num": 164622,
+        "word": "吴磊签名写来自中国",
+        "onboard_time": 1698161373,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204118,
+        "num": 164319,
+        "word": "王小波是中国最早的程序员之一",
+        "onboard_time": 1698160659,
+        "rank": 30,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 166562,
+        "num": 163996,
+        "word": "0失误花苞头教程",
+        "onboard_time": 1698160177,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163995,
+        "num": 163995,
+        "word": "陈牧驰近照",
+        "onboard_time": 1698138813,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150218,
+        "num": 159843,
+        "word": "疯狂小杨哥回应电商挤压实体经济",
+        "onboard_time": 1698125795,
+        "rank": 33,
+        "category": "网红,财经"
+      },
+      {
+        "raw_hot": 156733,
+        "num": 156733,
+        "word": "不敢相信这是牛牛工作室拍出来的",
+        "onboard_time": 1698161437,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156517,
+        "num": 156517,
+        "word": "周筱风喝不过林逸",
+        "onboard_time": 1698161373,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152766,
+        "num": 152766,
+        "word": "李佳琦直播间的底价协议合理吗",
+        "onboard_time": 1698134675,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 147146,
+        "num": 147146,
+        "word": "问心",
+        "onboard_time": 1698151655,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144522,
+        "num": 144522,
+        "word": "5.9元粉底液日销5万单暴涨100倍",
+        "onboard_time": 1698145113,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142709,
+        "num": 142709,
+        "word": "蛋仔派对",
+        "onboard_time": 1698158740,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 140207,
+        "num": 140207,
+        "word": "52岁大叔自驾游中国说后悔没有30岁出发",
+        "onboard_time": 1698153577,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 140065,
+        "num": 140065,
+        "word": "警方破获涉25亿特大跨境赌博案",
+        "onboard_time": 1698149620,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136996,
+        "num": 136996,
+        "word": "沈诺给蔓儿的玩家通关信",
+        "onboard_time": 1698159221,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132542,
+        "num": 132542,
+        "word": "双十一 洗发水",
+        "onboard_time": 1698161673,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 122965,
+        "num": 122965,
+        "word": "以爱为营",
+        "onboard_time": 1698139352,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115742,
+        "num": 115742,
+        "word": "名侦探柯南茱蒂声优去世",
+        "onboard_time": 1698144936,
+        "rank": 45,
+        "category": "动漫,艺人"
+      },
+      {
+        "raw_hot": 111225,
+        "num": 115321,
+        "word": "缅北诈骗窝点有老虎当看守",
+        "onboard_time": 1698149321,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 108223,
+        "num": 114838,
+        "word": "谢谢这杯花里胡哨的水",
+        "onboard_time": 1698160842,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 105340,
+        "num": 114200,
+        "word": "Capper专辑",
+        "onboard_time": 1698159995,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 103604,
+        "num": 113316,
+        "word": "莫文蔚台上演唱 巩俐台下打光",
+        "onboard_time": 1698152257,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
+    }
+  }
+}
