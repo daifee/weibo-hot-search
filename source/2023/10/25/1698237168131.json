@@ -1,0 +1,410 @@
+{
+  "runTime": 1698237168131,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7482785,
+        "num": 7482785,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2250361,
+        "num": 2250361,
+        "word": "被狗咬女童未使用善款将全退回",
+        "onboard_time": 1698233440,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 34233,
+        "num": 1520085,
+        "word": "独臂乒乓球王把球拍绑手上打比赛",
+        "onboard_time": 1698236380,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1173423,
+        "num": 1173423,
+        "word": "迪丽热巴浓妆vs淡妆",
+        "onboard_time": 1698235001,
+        "rank": 3,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 811133,
+        "num": 811133,
+        "word": "田耕纪结局",
+        "onboard_time": 1698232785,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 660139,
+        "num": 660139,
+        "word": "俩主播硬刚卖了2.6亿不下播",
+        "onboard_time": 1698228214,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 618619,
+        "num": 618619,
+        "word": "秦海璐 我结婚了没关系",
+        "onboard_time": 1698218016,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 616112,
+        "num": 616112,
+        "word": "广东一学校近700名新生集体退学",
+        "onboard_time": 1698232064,
+        "rank": 7,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 491218,
+        "num": 491218,
+        "word": "天官赐福",
+        "onboard_time": 1698231879,
+        "rank": 8,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 448351,
+        "num": 448351,
+        "word": "专家称春节调休不如再加2天假",
+        "onboard_time": 1698231290,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1715981,
+        "num": 439088,
+        "word": "YG回应权志龙涉嫌吸毒",
+        "onboard_time": 1698230078,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1389594,
+        "num": 435656,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554730,
+        "num": 410888,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1262760,
+        "num": 399746,
+        "word": "李佳琦直播间浴液比其它平台贵超30元",
+        "onboard_time": 1698228214,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 465210,
+        "num": 395866,
+        "word": "王一博染回黑发了",
+        "onboard_time": 1698232304,
+        "rank": 14,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 385140,
+        "num": 385140,
+        "word": "潜水员韩颋遗体已被打捞上岸",
+        "onboard_time": 1698236858,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383523,
+        "num": 383523,
+        "word": "赵又廷回应夺妻之仇不共戴天",
+        "onboard_time": 1698216815,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321254,
+        "num": 321254,
+        "word": "辱骂新加坡护士的中国女子判了",
+        "onboard_time": 1698231647,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 312885,
+        "num": 312885,
+        "word": "徐穗珍回来了",
+        "onboard_time": 1698228099,
+        "rank": 18,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 299258,
+        "num": 299258,
+        "word": "女生独自做完手术获陌生人安慰落泪",
+        "onboard_time": 1698231527,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 337672,
+        "num": 295201,
+        "word": "90后夫妻裸婚后同城分居5年",
+        "onboard_time": 1698236075,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 285380,
+        "num": 285380,
+        "word": "明星吸毒为何不断出现",
+        "onboard_time": 1698234763,
+        "rank": 21,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 283011,
+        "num": 283011,
+        "word": "吴昕是捧场还是真心能一眼看出来",
+        "onboard_time": 1698234821,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278541,
+        "num": 278541,
+        "word": "因为一部剧爆红的演员",
+        "onboard_time": 1698236500,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277423,
+        "num": 277423,
+        "word": "BIGBANG",
+        "onboard_time": 1698231349,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 815140,
+        "num": 262341,
+        "word": "权志龙曾说绝对不能去检察院第二次",
+        "onboard_time": 1698233502,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229460,
+        "num": 229460,
+        "word": "国家药监局通报20批次不合规面膜",
+        "onboard_time": 1698230987,
+        "rank": 26,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 229223,
+        "num": 229223,
+        "word": "被咬女童妈妈解释为何筹款",
+        "onboard_time": 1698236800,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 207990,
+        "num": 207990,
+        "word": "龚俊钟楚曦成年人该看的吻戏",
+        "onboard_time": 1698230263,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205364,
+        "num": 205364,
+        "word": "帕梅拉好小一只",
+        "onboard_time": 1698225575,
+        "rank": 29,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 204483,
+        "num": 204483,
+        "word": "加沙已有近8000名儿童死伤",
+        "onboard_time": 1698234161,
+        "rank": 30,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 201323,
+        "num": 201323,
+        "word": "亚冠",
+        "onboard_time": 1698236197,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199922,
+        "num": 199922,
+        "word": "于适美学",
+        "onboard_time": 1698236858,
+        "rank": 32,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 199792,
+        "num": 199792,
+        "word": "仁川联0比2山东泰山",
+        "onboard_time": 1698235900,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192232,
+        "num": 192232,
+        "word": "曾舜晞演技",
+        "onboard_time": 1698235780,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183744,
+        "num": 183744,
+        "word": "天官赐福第二季",
+        "onboard_time": 1698235838,
+        "rank": 35,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 184974,
+        "num": 183661,
+        "word": "田耕纪",
+        "onboard_time": 1698236019,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180366,
+        "num": 180366,
+        "word": "当年的汶川男孩成了轮椅网球运动员",
+        "onboard_time": 1698235599,
+        "rank": 37,
+        "category": "社会新闻,体育"
+      },
+      {
+        "raw_hot": 179696,
+        "num": 179696,
+        "word": "揭秘李佳琦与小杨哥商业关联",
+        "onboard_time": 1698224855,
+        "rank": 38,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 175918,
+        "num": 175918,
+        "word": "小米14",
+        "onboard_time": 1698232304,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 175254,
+        "num": 175254,
+        "word": "又到张杰的周三了",
+        "onboard_time": 1698235239,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174882,
+        "num": 174882,
+        "word": "原来明星都在这里剪头发",
+        "onboard_time": 1698228699,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 165511,
+        "num": 165511,
+        "word": "卫健委回应男婴打疫苗40小时后死亡",
+        "onboard_time": 1698236740,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 160947,
+        "num": 160947,
+        "word": "芒果台的文案到底是谁在写",
+        "onboard_time": 1698218617,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155120,
+        "num": 155120,
+        "word": "气血不足最怕的10个运动",
+        "onboard_time": 1698228274,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 145213,
+        "num": 145213,
+        "word": "塞尔达传说王国之泪 花",
+        "onboard_time": 1698234340,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143936,
+        "num": 143936,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136004,
+        "num": 136004,
+        "word": "以色列拒向联合国官员发签证",
+        "onboard_time": 1698224198,
+        "rank": 47,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 132629,
+        "num": 132629,
+        "word": "狼队对战TTG",
+        "onboard_time": 1698234877,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128682,
+        "num": 128682,
+        "word": "邵明明直播哭了",
+        "onboard_time": 1698222817,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士们的功绩彪炳千秋#"
+    }
+  }
+}

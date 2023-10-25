@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698233656733,
+  "endTime": 1698237168131,
   "band_list": [
     {
       "raw_hot": 10661165,
@@ -67,6 +67,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 2250361,
+      "num": 2250361,
+      "word": "被狗咬女童未使用善款将全退回",
+      "onboard_time": 1698233440,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2174607,
       "num": 2174607,
       "word": "教室反光老师要求安窗帘校长被停职",
@@ -131,7 +139,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 1370139,
+      "raw_hot": 1389594,
       "num": 680723,
       "word": "西南科技大学馄饨阿姨事件",
       "onboard_time": 1698229778,
@@ -169,6 +177,14 @@
       "onboard_time": 1698228214,
       "rank": 12,
       "category": "财经,社会新闻"
+    },
+    {
+      "raw_hot": 1173423,
+      "num": 1173423,
+      "word": "迪丽热巴浓妆vs淡妆",
+      "onboard_time": 1698235001,
+      "rank": 3,
+      "category": "综艺,美妆"
     },
     {
       "raw_hot": 1171653,
@@ -329,6 +345,22 @@
       "onboard_time": 1698210041,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 815140,
+      "num": 262341,
+      "word": "权志龙曾说绝对不能去检察院第二次",
+      "onboard_time": 1698233502,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 811133,
+      "num": 811133,
+      "word": "田耕纪结局",
+      "onboard_time": 1698232785,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 797302,
@@ -579,14 +611,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 547421,
-      "num": 547421,
-      "word": "田耕纪结局",
-      "onboard_time": 1698232785,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 547050,
       "num": 547050,
       "word": "白敬亭何泓姗二搭爷青回",
@@ -609,6 +633,14 @@
       "onboard_time": 1698221559,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 491218,
+      "num": 491218,
+      "word": "天官赐福",
+      "onboard_time": 1698231879,
+      "rank": 30,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 484850,
@@ -787,6 +819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 385140,
+      "num": 385140,
+      "word": "潜水员韩颋遗体已被打捞上岸",
+      "onboard_time": 1698236858,
+      "rank": 15,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383888,
       "num": 383888,
       "word": "韩媒曝知名艺人吸毒接受警方调查",
@@ -913,6 +953,14 @@
       "onboard_time": 1698161437,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 337672,
+      "num": 295201,
+      "word": "90后夫妻裸婚后同城分居5年",
+      "onboard_time": 1698236075,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 336479,
@@ -1131,6 +1179,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285380,
+      "num": 285380,
+      "word": "明星吸毒为何不断出现",
+      "onboard_time": 1698234763,
+      "rank": 21,
+      "category": "社会新闻,艺人"
+    },
+    {
+      "raw_hot": 283011,
+      "num": 283011,
+      "word": "吴昕是捧场还是真心能一眼看出来",
+      "onboard_time": 1698234821,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281221,
       "num": 281221,
       "word": "80岁老人参加高考想研究杂交小麦",
@@ -1161,6 +1225,14 @@
       "onboard_time": 1698203680,
       "rank": 23,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 278541,
+      "num": 278541,
+      "word": "因为一部剧爆红的演员",
+      "onboard_time": 1698236500,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 278216,
@@ -1203,28 +1275,12 @@
       "category": "游戏,运动健身"
     },
     {
-      "raw_hot": 273280,
-      "num": 273280,
-      "word": "被狗咬女童未使用善款将全退回",
-      "onboard_time": 1698233440,
-      "rank": 26,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 272815,
       "num": 272815,
       "word": "赵露思7年前火星情报局生图",
       "onboard_time": 1698191972,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 270041,
-      "num": 270041,
-      "word": "天官赐福",
-      "onboard_time": 1698231879,
-      "rank": 30,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 269889,
@@ -1507,6 +1563,14 @@
       "category": "综艺,时尚"
     },
     {
+      "raw_hot": 229223,
+      "num": 229223,
+      "word": "被咬女童妈妈解释为何筹款",
+      "onboard_time": 1698236800,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229118,
       "num": 229118,
       "word": "我恋5墨墨被男嘉宾气到崩溃大哭",
@@ -1707,6 +1771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 204483,
+      "num": 204483,
+      "word": "加沙已有近8000名儿童死伤",
+      "onboard_time": 1698234161,
+      "rank": 30,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 203300,
       "num": 203300,
       "word": "田耕纪的结局连主演都不知道",
@@ -1721,6 +1793,14 @@
       "onboard_time": 1698227500,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 201323,
+      "num": 201323,
+      "word": "亚冠",
+      "onboard_time": 1698236197,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 200951,
@@ -1755,12 +1835,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199499,
-      "num": 199499,
-      "word": "权志龙曾说绝对不能去检察院第二次",
-      "onboard_time": 1698233502,
-      "rank": 37,
-      "category": "艺人"
+      "raw_hot": 199922,
+      "num": 199922,
+      "word": "于适美学",
+      "onboard_time": 1698236858,
+      "rank": 32,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 199792,
+      "num": 199792,
+      "word": "仁川联0比2山东泰山",
+      "onboard_time": 1698235900,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 199210,
@@ -1841,6 +1929,14 @@
       "onboard_time": 1698227916,
       "rank": 36,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 192232,
+      "num": 192232,
+      "word": "曾舜晞演技",
+      "onboard_time": 1698235780,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 191086,
@@ -1931,6 +2027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 184974,
+      "num": 183661,
+      "word": "田耕纪",
+      "onboard_time": 1698236019,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 184382,
       "num": 184382,
       "word": "2024年部分节假日安排的通知",
@@ -1955,6 +2059,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 183744,
+      "num": 183744,
+      "word": "天官赐福第二季",
+      "onboard_time": 1698235838,
+      "rank": 35,
+      "category": "动漫,作品衍生"
+    },
+    {
       "raw_hot": 183214,
       "num": 183214,
       "word": "伊能静说秦霄贤超奶的",
@@ -1977,6 +2089,14 @@
       "onboard_time": 1698139471,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180366,
+      "num": 180366,
+      "word": "当年的汶川男孩成了轮椅网球运动员",
+      "onboard_time": 1698235599,
+      "rank": 37,
+      "category": "社会新闻,体育"
     },
     {
       "raw_hot": 179011,
@@ -2041,6 +2161,14 @@
       "onboard_time": 1698125795,
       "rank": 41,
       "category": "网红,财经"
+    },
+    {
+      "raw_hot": 175254,
+      "num": 175254,
+      "word": "又到张杰的周三了",
+      "onboard_time": 1698235239,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 175220,
@@ -2128,6 +2256,14 @@
       "word": "志愿军战士给父亲的一封信",
       "onboard_time": 1698194856,
       "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 165511,
+      "num": 165511,
+      "word": "卫健委回应男婴打疫苗40小时后死亡",
+      "onboard_time": 1698236740,
+      "rank": 42,
       "category": "社会新闻"
     },
     {
@@ -2273,6 +2409,14 @@
       "onboard_time": 1698200977,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 145213,
+      "num": 145213,
+      "word": "塞尔达传说王国之泪 花",
+      "onboard_time": 1698234340,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 145003,
@@ -2441,6 +2585,14 @@
       "onboard_time": 1698214417,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132629,
+      "num": 132629,
+      "word": "狼队对战TTG",
+      "onboard_time": 1698234877,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 129970,
@@ -2889,6 +3041,14 @@
       "onboard_time": 1698221616,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 34233,
+      "num": 1520085,
+      "word": "独臂乒乓球王把球拍绑手上打比赛",
+      "onboard_time": 1698236380,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 30000,
