@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698204862774,
+  "endTime": 1698207619380,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -17,6 +17,14 @@
       "onboard_time": 1698199355,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 3932204,
+      "num": 3932204,
+      "word": "大杨哥怒批李佳琦挟持商家",
+      "onboard_time": 1698205236,
+      "rank": 3,
+      "category": "网红"
     },
     {
       "raw_hot": 2395574,
@@ -41,6 +49,14 @@
       "onboard_time": 1698159880,
       "rank": 0,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 1849160,
+      "num": 1849160,
+      "word": "国家发改委回应2024年放假安排",
+      "onboard_time": 1698205658,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1610007,
@@ -75,6 +91,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 987293,
+      "num": 466026,
+      "word": "安妮海瑟薇为什么突然老了",
+      "onboard_time": 1698205299,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 969595,
       "num": 922679,
       "word": "以色列要求古特雷斯辞职",
@@ -99,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 926293,
+      "num": 926293,
+      "word": "除夕A股正常开市",
+      "onboard_time": 1698206561,
+      "rank": 6,
+      "category": "财经"
+    },
+    {
       "raw_hot": 879707,
       "num": 879707,
       "word": "外媒曝侯孝贤患失智症",
@@ -113,6 +145,14 @@
       "onboard_time": 1698149740,
       "rank": 1,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 871735,
+      "num": 330687,
+      "word": "韩国春节假期补休",
+      "onboard_time": 1698203978,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 861420,
@@ -155,12 +195,12 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 627753,
-      "num": 329485,
-      "word": "韩国春节假期补休",
-      "onboard_time": 1698203978,
-      "rank": 10,
-      "category": "社会新闻"
+      "raw_hot": 638374,
+      "num": 638374,
+      "word": "徐明浩 瑞幸",
+      "onboard_time": 1698207044,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 609378,
@@ -195,6 +235,30 @@
       "category": "情感"
     },
     {
+      "raw_hot": 571801,
+      "num": 447418,
+      "word": "赵丽颖蛋卷发",
+      "onboard_time": 1698205236,
+      "rank": 12,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 561746,
+      "num": 561746,
+      "word": "断崖式衰老",
+      "onboard_time": 1698205839,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 560296,
+      "num": 431817,
+      "word": "你愿意除夕请年假吗",
+      "onboard_time": 1698202717,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 556248,
       "num": 556248,
       "word": "苹果将举办发布会",
@@ -209,14 +273,6 @@
       "onboard_time": 1698159576,
       "rank": 4,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 528395,
-      "num": 337800,
-      "word": "你愿意除夕请年假吗",
-      "onboard_time": 1698202717,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 474430,
@@ -268,11 +324,27 @@
     },
     {
       "raw_hot": 431996,
-      "num": 257632,
+      "num": 296434,
       "word": "29岁了还在找妈妈要钱",
       "onboard_time": 1698201339,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 430950,
+      "num": 430950,
+      "word": "胡锡进 春节休假延长趋势已摆出",
+      "onboard_time": 1698205598,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 394771,
+      "num": 394771,
+      "word": "最好的医丑",
+      "onboard_time": 1698206379,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 392424,
@@ -296,6 +368,30 @@
       "word": "春节调休",
       "onboard_time": 1698201101,
       "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 366760,
+      "num": 366760,
+      "word": "今年要换电脑的都先冷静一下",
+      "onboard_time": 1698206379,
+      "rank": 16,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 361948,
+      "num": 361948,
+      "word": "曾舜晞到达长白山",
+      "onboard_time": 1698206260,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 359849,
+      "num": 359849,
+      "word": "调休是因为不得不调但更人性化更灵活",
+      "onboard_time": 1698205299,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -355,6 +451,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 325112,
+      "num": 325112,
+      "word": "papi酱形容傅首尔和老刘的关系",
+      "onboard_time": 1698204938,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317058,
       "num": 317058,
       "word": "iPhone15Pro系列满意度创新低",
@@ -387,12 +491,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 295616,
+      "num": 295616,
+      "word": "一图看懂2024放假安排",
+      "onboard_time": 1698204698,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 295003,
       "num": 295003,
       "word": "我国将增发1万亿元国债",
       "onboard_time": 1698149620,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 292522,
+      "num": 292522,
+      "word": "哈文悼念李咏去世五周年",
+      "onboard_time": 1698206979,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 291660,
@@ -475,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 259679,
+      "num": 259679,
+      "word": "长大后那些报复性热爱行为",
+      "onboard_time": 1698205658,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 257962,
       "num": 257962,
       "word": "双十一 卫生巾",
@@ -507,6 +635,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 252299,
+      "num": 252299,
+      "word": "底价协议",
+      "onboard_time": 1698206923,
+      "rank": 29,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249085,
       "num": 249085,
       "word": "神十七26日11时14分发射",
@@ -515,8 +651,16 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 248118,
+      "num": 248118,
+      "word": "凤凰传奇 现在歌曲只火三个月",
+      "onboard_time": 1698204576,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 241509,
-      "num": 201458,
+      "num": 205841,
       "word": "韩网爆火的0毛孔管理法",
       "onboard_time": 1698204160,
       "rank": 31,
@@ -553,14 +697,6 @@
       "onboard_time": 1698196532,
       "rank": 23,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 232973,
-      "num": 232973,
-      "word": "一图看懂2024放假安排",
-      "onboard_time": 1698204698,
-      "rank": 26,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 232173,
@@ -619,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220310,
+      "num": 220310,
+      "word": "上海交大研究称太极拳可抑制帕金森",
+      "onboard_time": 1698206979,
+      "rank": 33,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 219446,
       "num": 219446,
       "word": "花知晓腮红",
@@ -657,6 +801,14 @@
       "onboard_time": 1698197136,
       "rank": 27,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 208311,
+      "num": 208311,
+      "word": "花儿与少年沙特站大合照",
+      "onboard_time": 1698207164,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 203300,
@@ -705,6 +857,14 @@
       "onboard_time": 1698193295,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191086,
+      "num": 191086,
+      "word": "iQOO12将发布新品",
+      "onboard_time": 1698206743,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 190632,
@@ -777,6 +937,14 @@
       "onboard_time": 1698200796,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182992,
+      "num": 182992,
+      "word": "湖人新援怎么样",
+      "onboard_time": 1698206379,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 181662,
@@ -859,6 +1027,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 172625,
+      "num": 172625,
+      "word": "保罗生涯从未替补",
+      "onboard_time": 1698205236,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171177,
       "num": 171177,
       "word": "五条悟回归暗示",
@@ -875,20 +1051,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169369,
+      "num": 169369,
+      "word": "秦海璐说AA制就是个笑话",
+      "onboard_time": 1698207403,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167008,
       "num": 167008,
       "word": "志愿军战士给父亲的一封信",
       "onboard_time": 1698194856,
       "rank": 36,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 164954,
-      "num": 164954,
-      "word": "凤凰传奇 现在歌曲只火三个月",
-      "onboard_time": 1698204576,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 163517,
@@ -923,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157359,
+      "num": 157359,
+      "word": "勇士揭幕战致敬杜兰特",
+      "onboard_time": 1698205058,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157203,
       "num": 157203,
       "word": "华浅苏醒",
@@ -955,6 +1139,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 148912,
+      "num": 148912,
+      "word": "5个皮肤健康误区",
+      "onboard_time": 1698205962,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 145474,
       "num": 145474,
       "word": "掘金新赛季开门红",
@@ -984,6 +1176,14 @@
       "word": "掘金领取总冠军戒指",
       "onboard_time": 1698194438,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142712,
+      "num": 142712,
+      "word": "保罗勇士首秀",
+      "onboard_time": 1698205058,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -1169,6 +1369,14 @@
       "onboard_time": 1698189145,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119539,
+      "num": 4363956,
+      "word": "他认真唱国歌的样子太帅了",
+      "onboard_time": 1698206923,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 118971,
@@ -1435,6 +1643,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 41787,
+      "num": 223997,
+      "word": "曾舜晞居家型男友",
+      "onboard_time": 1698206499,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30000,
       "num": 30000,
       "word": "真人版海王",
@@ -1473,6 +1689,9 @@
     },
     {
       "word": "#要培养造就更多大国工匠和高技能人才#"
+    },
+    {
+      "word": "#烈士们的功绩彪炳千秋#"
     }
   ]
 }

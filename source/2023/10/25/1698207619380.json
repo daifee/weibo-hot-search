@@ -1,0 +1,410 @@
+{
+  "runTime": 1698207619380,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7086210,
+        "num": 7086210,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 8899200,
+        "num": 6727798,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119539,
+        "num": 4363956,
+        "word": "他认真唱国歌的样子太帅了",
+        "onboard_time": 1698206923,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 3932204,
+        "num": 3932204,
+        "word": "大杨哥怒批李佳琦挟持商家",
+        "onboard_time": 1698205236,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1849160,
+        "num": 1849160,
+        "word": "国家发改委回应2024年放假安排",
+        "onboard_time": 1698205658,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1187409,
+        "num": 1187409,
+        "word": "王海打假李佳琦直播间卖和田玉",
+        "onboard_time": 1698198091,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 926293,
+        "num": 926293,
+        "word": "除夕A股正常开市",
+        "onboard_time": 1698206561,
+        "rank": 6,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 638374,
+        "num": 638374,
+        "word": "徐明浩 瑞幸",
+        "onboard_time": 1698207044,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561746,
+        "num": 561746,
+        "word": "断崖式衰老",
+        "onboard_time": 1698205839,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 469970,
+        "num": 469970,
+        "word": "2024五一休5天前后两周上6天",
+        "onboard_time": 1698201397,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 987293,
+        "num": 466026,
+        "word": "安妮海瑟薇为什么突然老了",
+        "onboard_time": 1698205299,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 631584,
+        "num": 453650,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 571801,
+        "num": 447418,
+        "word": "赵丽颖蛋卷发",
+        "onboard_time": 1698205236,
+        "rank": 12,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 560296,
+        "num": 431817,
+        "word": "你愿意除夕请年假吗",
+        "onboard_time": 1698202717,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 430950,
+        "num": 430950,
+        "word": "胡锡进 春节休假延长趋势已摆出",
+        "onboard_time": 1698205598,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 394771,
+        "num": 394771,
+        "word": "最好的医丑",
+        "onboard_time": 1698206379,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 366760,
+        "num": 366760,
+        "word": "今年要换电脑的都先冷静一下",
+        "onboard_time": 1698206379,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 361948,
+        "num": 361948,
+        "word": "曾舜晞到达长白山",
+        "onboard_time": 1698206260,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 359849,
+        "num": 359849,
+        "word": "调休是因为不得不调但更人性化更灵活",
+        "onboard_time": 1698205299,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 331421,
+        "num": 331421,
+        "word": "大熊猫奂彩离世",
+        "onboard_time": 1698202598,
+        "rank": 19,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 871735,
+        "num": 330687,
+        "word": "韩国春节假期补休",
+        "onboard_time": 1698203978,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 325112,
+        "num": 325112,
+        "word": "papi酱形容傅首尔和老刘的关系",
+        "onboard_time": 1698204938,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323992,
+        "num": 323992,
+        "word": "专家称龙年春节将形成超级黄金周",
+        "onboard_time": 1698201698,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 296434,
+        "num": 296434,
+        "word": "29岁了还在找妈妈要钱",
+        "onboard_time": 1698201339,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 295616,
+        "num": 295616,
+        "word": "一图看懂2024放假安排",
+        "onboard_time": 1698204698,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 292522,
+        "num": 292522,
+        "word": "哈文悼念李咏去世五周年",
+        "onboard_time": 1698206979,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272693,
+        "num": 272693,
+        "word": "韩媒曝知名艺人吸毒接受警方调查",
+        "onboard_time": 1698203919,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 265369,
+        "num": 265369,
+        "word": "当男朋友知道我存款快六位数时",
+        "onboard_time": 1698195096,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 259679,
+        "num": 259679,
+        "word": "长大后那些报复性热爱行为",
+        "onboard_time": 1698205658,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 252299,
+        "num": 252299,
+        "word": "底价协议",
+        "onboard_time": 1698206923,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248118,
+        "num": 248118,
+        "word": "凤凰传奇 现在歌曲只火三个月",
+        "onboard_time": 1698204576,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238359,
+        "num": 238359,
+        "word": "调休",
+        "onboard_time": 1698199773,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 41787,
+        "num": 223997,
+        "word": "曾舜晞居家型男友",
+        "onboard_time": 1698206499,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220310,
+        "num": 220310,
+        "word": "上海交大研究称太极拳可抑制帕金森",
+        "onboard_time": 1698206979,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 208311,
+        "num": 208311,
+        "word": "花儿与少年沙特站大合照",
+        "onboard_time": 1698207164,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205841,
+        "num": 205841,
+        "word": "韩网爆火的0毛孔管理法",
+        "onboard_time": 1698204160,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194938,
+        "num": 194938,
+        "word": "肖战拍的脚变装",
+        "onboard_time": 1698202660,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191086,
+        "num": 191086,
+        "word": "iQOO12将发布新品",
+        "onboard_time": 1698206743,
+        "rank": 37,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182992,
+        "num": 182992,
+        "word": "湖人新援怎么样",
+        "onboard_time": 1698206379,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172931,
+        "num": 172931,
+        "word": "西施新皮肤",
+        "onboard_time": 1698202300,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 172625,
+        "num": 172625,
+        "word": "保罗生涯从未替补",
+        "onboard_time": 1698205236,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169369,
+        "num": 169369,
+        "word": "秦海璐说AA制就是个笑话",
+        "onboard_time": 1698207403,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163207,
+        "num": 163207,
+        "word": "双十一笨人现状",
+        "onboard_time": 1698198330,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157359,
+        "num": 157359,
+        "word": "勇士揭幕战致敬杜兰特",
+        "onboard_time": 1698205058,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157309,
+        "num": 157309,
+        "word": "张雪峰 惹谁都不要惹知识分子",
+        "onboard_time": 1698198630,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148912,
+        "num": 148912,
+        "word": "5个皮肤健康误区",
+        "onboard_time": 1698205962,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148256,
+        "num": 148256,
+        "word": "库里抹护手霜",
+        "onboard_time": 1698203141,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142712,
+        "num": 142712,
+        "word": "保罗勇士首秀",
+        "onboard_time": 1698205058,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139658,
+        "num": 139658,
+        "word": "芭比官方字幕对比分析",
+        "onboard_time": 1698203680,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136788,
+        "num": 136788,
+        "word": "除夕至初八高速免费通行",
+        "onboard_time": 1698201339,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士们的功绩彪炳千秋#"
+    }
+  }
+}
