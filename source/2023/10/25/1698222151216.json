@@ -1,0 +1,410 @@
+{
+  "runTime": 1698222151216,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3322574,
+        "num": 3322574,
+        "word": "秦海璐 我结婚了没关系",
+        "onboard_time": 1698218016,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1748100,
+        "num": 1748100,
+        "word": "大杨哥怒批李佳琦挟持商家",
+        "onboard_time": 1698205236,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 24227,
+        "num": 1288481,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1120712,
+        "num": 1120712,
+        "word": "芒果台的文案到底是谁在写",
+        "onboard_time": 1698218617,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 873930,
+        "num": 873930,
+        "word": "律师称李佳琦限价控库存属垄断行为",
+        "onboard_time": 1698219396,
+        "rank": 4,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 752119,
+        "num": 752119,
+        "word": "迪丽热巴生病不能耽误美",
+        "onboard_time": 1698216518,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599675,
+        "num": 599675,
+        "word": "徐明浩 瑞幸",
+        "onboard_time": 1698207044,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 594365,
+        "num": 594365,
+        "word": "王海称李佳琦卖的和田玉小杨哥也卖过",
+        "onboard_time": 1698217597,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 503056,
+        "num": 503056,
+        "word": "肺癌细胞会装幼稚欺骗大脑保护",
+        "onboard_time": 1698220778,
+        "rank": 8,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 461981,
+        "num": 461981,
+        "word": "汪海林 晋江文学城",
+        "onboard_time": 1698220357,
+        "rank": 9,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1695297,
+        "num": 461508,
+        "word": "国家发改委回应2024年放假安排",
+        "onboard_time": 1698205658,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 953986,
+        "num": 461349,
+        "word": "女子当街杀害男子并电话告知其家属",
+        "onboard_time": 1698212677,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 937915,
+        "num": 460501,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 730068,
+        "num": 459968,
+        "word": "章子怡事业困境 华语电影大女性角色",
+        "onboard_time": 1698213461,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613883,
+        "num": 459724,
+        "word": "殷世航两小时背500个单词",
+        "onboard_time": 1698218377,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 565908,
+        "num": 459080,
+        "word": "安妮海瑟薇为什么突然老了",
+        "onboard_time": 1698205299,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458919,
+        "num": 458919,
+        "word": "赵又廷回应夺妻之仇不共戴天",
+        "onboard_time": 1698216815,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 374956,
+        "num": 374956,
+        "word": "肖顺尧在看迪丽热巴新综艺",
+        "onboard_time": 1698221559,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 360977,
+        "num": 360977,
+        "word": "雷军",
+        "onboard_time": 1698220477,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 352835,
+        "num": 352835,
+        "word": "京东高管回应采销喊话李佳琦",
+        "onboard_time": 1698208001,
+        "rank": 19,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 323819,
+        "num": 323819,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 314914,
+        "num": 314914,
+        "word": "王海打假李佳琦直播间卖和田玉",
+        "onboard_time": 1698198091,
+        "rank": 21,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 300985,
+        "num": 300985,
+        "word": "THE9演唱会个人公式照",
+        "onboard_time": 1698216755,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 272704,
+        "num": 272704,
+        "word": "今生簪花 来世漂亮",
+        "onboard_time": 1698212621,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 94049,
+        "num": 264541,
+        "word": "要是生活有价保",
+        "onboard_time": 1698221138,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 263122,
+        "num": 263122,
+        "word": "孕妇绞断手指交警一路嘶吼开道",
+        "onboard_time": 1698216035,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 225431,
+        "num": 225431,
+        "word": "大学生做兼职首日进账10万立即报警",
+        "onboard_time": 1698216102,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 216551,
+        "num": 216551,
+        "word": "89岁老人为亡妻打造花海17年",
+        "onboard_time": 1698219639,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 212061,
+        "num": 212061,
+        "word": "衣服过百元 烦恼少一半",
+        "onboard_time": 1698216999,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211517,
+        "num": 211517,
+        "word": "毛吉吉粉扑",
+        "onboard_time": 1698217416,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205282,
+        "num": 205282,
+        "word": "辛芷蕾看了几遍花少2",
+        "onboard_time": 1698215798,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197179,
+        "num": 197179,
+        "word": "赵露思奶拽烟熏妆",
+        "onboard_time": 1698212796,
+        "rank": 31,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 178741,
+        "num": 178741,
+        "word": "陈都灵这顶级的破碎感",
+        "onboard_time": 1698221500,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175061,
+        "num": 175061,
+        "word": "黄渤孙红雷黄磊张艺兴王迅最新合照",
+        "onboard_time": 1698214119,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172077,
+        "num": 172077,
+        "word": "除夕A股正常开市",
+        "onboard_time": 1698206561,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 167259,
+        "num": 167259,
+        "word": "男子网购狗粮4只狗吃后中毒",
+        "onboard_time": 1698213101,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166815,
+        "num": 166815,
+        "word": "胡先煦王安宇起分歧",
+        "onboard_time": 1698218016,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166434,
+        "num": 166434,
+        "word": "成毅Queencard跳到六公主了",
+        "onboard_time": 1698211781,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159445,
+        "num": 159445,
+        "word": "刘嘉玲拍的梁朝伟王菲",
+        "onboard_time": 1698210702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148622,
+        "num": 148622,
+        "word": "中国单身青年变化趋势",
+        "onboard_time": 1698217115,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146806,
+        "num": 146806,
+        "word": "王诗晴首次选离婚",
+        "onboard_time": 1698212919,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140961,
+        "num": 140961,
+        "word": "上班味",
+        "onboard_time": 1698214958,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137100,
+        "num": 137100,
+        "word": "萌兰手掌带伤营业",
+        "onboard_time": 1698214777,
+        "rank": 42,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 130345,
+        "num": 130345,
+        "word": "韩国春节假期补休",
+        "onboard_time": 1698203978,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 127572,
+        "num": 127572,
+        "word": "爷爷摔倒孙女找人帮忙后才敢大哭",
+        "onboard_time": 1698218503,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 123788,
+        "num": 123788,
+        "word": "利雅得胜利 德布劳内",
+        "onboard_time": 1698215915,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123566,
+        "num": 123566,
+        "word": "调休",
+        "onboard_time": 1698199773,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 121076,
+        "num": 121076,
+        "word": "韩媒曝知名艺人吸毒接受警方调查",
+        "onboard_time": 1698203919,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35799,
+        "num": 120641,
+        "word": "比亚迪参加东京车展",
+        "onboard_time": 1698221616,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 120452,
+        "num": 120452,
+        "word": "法证先锋6开机",
+        "onboard_time": 1698216697,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士们的功绩彪炳千秋#"
+    }
+  }
+}
