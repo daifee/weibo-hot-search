@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/01/01 00:23:37 ~ 2023/10/25 18:35:31
+本榜单时间：2023/01/01 00:23:37 ~ 2023/10/25 19:14:49
 </p>
 </blockquote>
 <p>
@@ -539,6 +539,12 @@ TFBOYS抢票（热度：10945238）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A54%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%23" target="weibo">
 上海警方通报4岁女童在海边走失（热度：10661875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%E8%A2%AB%E7%AB%8B%E6%A1%88%23" target="weibo">
+权志龙涉嫌吸毒被立案（热度：10661165）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E4%B9%8B%E7%BE%BD%E7%A9%BA%E9%99%8D%23" target="weibo">
 云之羽空降（热度：5620154）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23369%23" target="weibo">
-369（热度：5619700）
 </a>
 </li>
 

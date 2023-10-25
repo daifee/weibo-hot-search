@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698230131246,
+  "endTime": 1698232489918,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -705,6 +705,14 @@
       "onboard_time": 1696582356,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10661165,
+      "num": 10661165,
+      "word": "权志龙涉嫌吸毒被立案",
+      "onboard_time": 1698229595,
+      "rank": 0,
+      "category": "艺人"
     },
     {
       "raw_hot": 10598294,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1693651298,
       "rank": 3,
       "category": "影视"
-    },
-    {
-      "raw_hot": 5619700,
-      "num": 5619700,
-      "word": "369",
-      "onboard_time": 1688400456,
-      "rank": 0,
-      "category": "游戏,艺人"
     }
   ],
   "hotgov_list": [

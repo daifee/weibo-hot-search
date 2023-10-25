@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/25 18:35:31
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/25 19:14:49
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A54%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E6%B5%B7%E8%BE%B9%E8%B5%B0%E5%A4%B1%23" target="weibo">
 上海警方通报4岁女童在海边走失（热度：10661875）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%E8%A2%AB%E7%AB%8B%E6%A1%88%23" target="weibo">
+权志龙涉嫌吸毒被立案（热度：10661165）
 </a>
 </li>
 
@@ -207,12 +213,6 @@ DOTA2中国队夺冠（热度：6586145）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%E8%A2%AB%E7%AB%8B%E6%A1%88%23" target="weibo">
-权志龙涉嫌吸毒被立案（热度：4888488）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%B9%A1%E9%B8%A1%23" target="weibo">
 老乡鸡（热度：4772579）
 </a>
@@ -221,6 +221,12 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%83%E4%BC%91%23" target="weibo">
 调休（热度：4651506）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23YG%E5%9B%9E%E5%BA%94%E6%9D%83%E5%BF%97%E9%BE%99%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%23" target="weibo">
+YG回应权志龙涉嫌吸毒（热度：4462723）
 </a>
 </li>
 
@@ -4113,6 +4119,12 @@ KT战胜WBG（热度：1279678）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%A6%84%E9%A5%A8%E9%98%BF%E5%A7%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
+西南科技大学馄饨阿姨事件（热度：1238143）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%9C%9D%E9%B2%9C%E5%A5%B3%E5%8F%8C%E4%BA%89%E9%87%91%23" target="weibo">
 韩国朝鲜女双争金（热度：1237386）
 </a>
@@ -5999,18 +6011,6 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E9%A5%B0%E6%BC%94%E5%BC%A0%E6%A1%82%E6%A2%85%E4%B8%88%E5%A4%AB%23" target="weibo">
 胡歌饰演张桂梅丈夫（热度：938609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E5%AE%89%E5%AE%B0%E8%B4%A4%23" target="weibo">
-王楚钦3比0安宰贤（热度：937969）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%8B%20%E9%82%A3%E4%B8%AA%E5%90%88%E5%90%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%89%E6%95%88%E7%9A%84%23" target="weibo">
-陈律 那个合同真的是有效的（热度：937643）
 </a>
 </li>
 

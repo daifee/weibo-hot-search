@@ -1,0 +1,410 @@
+{
+  "runTime": 1698232489918,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10661165,
+        "num": 10661165,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353322,
+        "num": 4486203,
+        "word": "神六直播连线男孩18年后成央视主播",
+        "onboard_time": 1698225817,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17472,
+        "num": 2446439,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1950943,
+        "num": 1950943,
+        "word": "李佳琦直播间浴液比其它平台贵超30元",
+        "onboard_time": 1698228214,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 318491,
+        "num": 1107598,
+        "word": "女生独自做完手术获陌生人安慰落泪",
+        "onboard_time": 1698231527,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1081812,
+        "num": 1081812,
+        "word": "俩主播硬刚卖了2.6亿不下播",
+        "onboard_time": 1698228214,
+        "rank": 5,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 166267,
+        "num": 1007861,
+        "word": "12岁男孩心疼父母课余时间到饭店帮厨",
+        "onboard_time": 1698229536,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1005990,
+        "num": 1005990,
+        "word": "秦海璐 我结婚了没关系",
+        "onboard_time": 1698218016,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 746398,
+        "num": 746398,
+        "word": "BIGBANG",
+        "onboard_time": 1698231349,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723626,
+        "num": 723626,
+        "word": "徐穗珍回来了",
+        "onboard_time": 1698228099,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 4462723,
+        "num": 689286,
+        "word": "YG回应权志龙涉嫌吸毒",
+        "onboard_time": 1698230078,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1238143,
+        "num": 680723,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 758878,
+        "num": 677124,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 589750,
+        "num": 589750,
+        "word": "赵又廷回应夺妻之仇不共戴天",
+        "onboard_time": 1698216815,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 584919,
+        "num": 584919,
+        "word": "帕梅拉好小一只",
+        "onboard_time": 1698225575,
+        "rank": 14,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 580866,
+        "num": 580866,
+        "word": "王一博染回黑发了",
+        "onboard_time": 1698232304,
+        "rank": 15,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 518912,
+        "num": 518912,
+        "word": "揭秘李佳琦与小杨哥商业关联",
+        "onboard_time": 1698224855,
+        "rank": 16,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 116889,
+        "num": 517924,
+        "word": "这车语音成精了吧",
+        "onboard_time": 1698231167,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 517704,
+        "num": 517704,
+        "word": "国家发改委回应2024年放假安排",
+        "onboard_time": 1698205658,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 484850,
+        "num": 484850,
+        "word": "龚俊钟楚曦成年人该看的吻戏",
+        "onboard_time": 1698230263,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 443146,
+        "num": 443146,
+        "word": "专家称春节调休不如再加2天假",
+        "onboard_time": 1698231290,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428050,
+        "num": 428050,
+        "word": "芒果台的文案到底是谁在写",
+        "onboard_time": 1698218617,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 371166,
+        "num": 371166,
+        "word": "原来明星都在这里剪头发",
+        "onboard_time": 1698228699,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 364078,
+        "num": 364078,
+        "word": "迪丽热巴有自己的挡脸工具",
+        "onboard_time": 1698229475,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353954,
+        "num": 353954,
+        "word": "辱骂新加坡护士的中国女子判了",
+        "onboard_time": 1698231647,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 329148,
+        "num": 329148,
+        "word": "辛芷蕾竟然演过丑女无敌",
+        "onboard_time": 1698228035,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315903,
+        "num": 315903,
+        "word": "广东一学校近700名新生集体退学",
+        "onboard_time": 1698232064,
+        "rank": 26,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 277854,
+        "num": 277854,
+        "word": "国家药监局通报20批次不合规面膜",
+        "onboard_time": 1698230987,
+        "rank": 27,
+        "category": "社会新闻,美妆"
+      },
+      {
+        "raw_hot": 289522,
+        "num": 277542,
+        "word": "迪丽热巴已经蠢蠢欲动",
+        "onboard_time": 1698231349,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276310,
+        "num": 276310,
+        "word": "气血不足最怕的10个运动",
+        "onboard_time": 1698228274,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 261055,
+        "num": 261055,
+        "word": "天官赐福",
+        "onboard_time": 1698231879,
+        "rank": 30,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 250468,
+        "num": 250468,
+        "word": "韩国多子女公务员可优先晋升",
+        "onboard_time": 1698228575,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 250044,
+        "num": 250044,
+        "word": "邵明明直播哭了",
+        "onboard_time": 1698222817,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221267,
+        "num": 221267,
+        "word": "章子怡事业困境 华语电影大女性角色",
+        "onboard_time": 1698213461,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219270,
+        "num": 219270,
+        "word": "安妮海瑟薇为什么突然老了",
+        "onboard_time": 1698205299,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207908,
+        "num": 207908,
+        "word": "以色列拒向联合国官员发签证",
+        "onboard_time": 1698224198,
+        "rank": 35,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 202919,
+        "num": 202919,
+        "word": "小米",
+        "onboard_time": 1698226535,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 197226,
+        "num": 197226,
+        "word": "徐明浩 瑞幸",
+        "onboard_time": 1698207044,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196347,
+        "num": 196347,
+        "word": "海澜之家 十个勤天",
+        "onboard_time": 1698226652,
+        "rank": 38,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 175204,
+        "num": 175204,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 170875,
+        "num": 170875,
+        "word": "广西科目三在台湾火了",
+        "onboard_time": 1698227855,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56264,
+        "num": 162240,
+        "word": "用天猫AI创作出了猛男腹肌",
+        "onboard_time": 1698229960,
+        "rank": 41,
+        "category": "科技,互联网"
+      },
+      {
+        "raw_hot": 161408,
+        "num": 161408,
+        "word": "兰世立获国家赔偿59万元",
+        "onboard_time": 1698230320,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 159910,
+        "num": 159910,
+        "word": "女子当街杀害男子并电话告知其家属",
+        "onboard_time": 1698212677,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 158553,
+        "num": 158553,
+        "word": "京东高管回应采销喊话李佳琦",
+        "onboard_time": 1698208001,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 155270,
+        "num": 155270,
+        "word": "孙红雷夫妇牵手游乌镇",
+        "onboard_time": 1698227556,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146451,
+        "num": 146451,
+        "word": "小米14",
+        "onboard_time": 1698232304,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 145062,
+        "num": 145062,
+        "word": "贵州大学辟谣",
+        "onboard_time": 1698227674,
+        "rank": 47,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 140905,
+        "num": 140905,
+        "word": "汪海林 晋江文学城",
+        "onboard_time": 1698220357,
+        "rank": 48,
+        "category": "作品衍生,读书作家"
+      },
+      {
+        "raw_hot": 131738,
+        "num": 131738,
+        "word": "王海称李佳琦卖的和田玉小杨哥也卖过",
+        "onboard_time": 1698217597,
+        "rank": 49,
+        "category": "社会新闻,网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
+    }
+  }
+}

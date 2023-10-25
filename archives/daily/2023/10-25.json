@@ -1,7 +1,15 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698230131246,
+  "endTime": 1698232489918,
   "band_list": [
+    {
+      "raw_hot": 10661165,
+      "num": 10661165,
+      "word": "权志龙涉嫌吸毒被立案",
+      "onboard_time": 1698229595,
+      "rank": 0,
+      "category": "艺人"
+    },
     {
       "raw_hot": 10598294,
       "num": 11848294,
@@ -27,11 +35,11 @@
       "category": "网红"
     },
     {
-      "raw_hot": 4888488,
-      "num": 4888488,
-      "word": "权志龙涉嫌吸毒被立案",
-      "onboard_time": 1698229595,
-      "rank": 0,
+      "raw_hot": 4462723,
+      "num": 689286,
+      "word": "YG回应权志龙涉嫌吸毒",
+      "onboard_time": 1698230078,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -137,6 +145,14 @@
       "onboard_time": 1698216815,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1238143,
+      "num": 680723,
+      "word": "西南科技大学馄饨阿姨事件",
+      "onboard_time": 1698229778,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1220244,
@@ -363,6 +379,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 746398,
+      "num": 746398,
+      "word": "BIGBANG",
+      "onboard_time": 1698231349,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 737628,
       "num": 737628,
       "word": "家属证实侯孝贤患阿尔兹海默症",
@@ -459,6 +483,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 580866,
+      "num": 580866,
+      "word": "王一博染回黑发了",
+      "onboard_time": 1698232304,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
       "raw_hot": 580483,
       "num": 285759,
       "word": "海氏电器实名举报京东",
@@ -547,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 484850,
+      "num": 484850,
+      "word": "龚俊钟楚曦成年人该看的吻戏",
+      "onboard_time": 1698230263,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 482832,
       "num": 482832,
       "word": "财阀千金感美甲",
@@ -625,6 +665,14 @@
       "onboard_time": 1698216755,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 443146,
+      "num": 443146,
+      "word": "专家称春节调休不如再加2天假",
+      "onboard_time": 1698231290,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 436769,
@@ -779,6 +827,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 353954,
+      "num": 353954,
+      "word": "辱骂新加坡护士的中国女子判了",
+      "onboard_time": 1698231647,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 353639,
       "num": 353639,
       "word": "库里抹护手霜",
@@ -787,12 +843,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 348068,
-      "num": 230739,
-      "word": "YG回应权志龙涉嫌吸毒",
-      "onboard_time": 1698230078,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 353322,
+      "num": 4486203,
+      "word": "神六直播连线男孩18年后成央视主播",
+      "onboard_time": 1698225817,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 348040,
@@ -907,6 +963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 318491,
+      "num": 1107598,
+      "word": "女生独自做完手术获陌生人安慰落泪",
+      "onboard_time": 1698231527,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 318465,
       "num": 318465,
       "word": "金戒指戴右手中指 招财",
@@ -929,6 +993,14 @@
       "onboard_time": 1698144334,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 315903,
+      "num": 315903,
+      "word": "广东一学校近700名新生集体退学",
+      "onboard_time": 1698232064,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 315093,
@@ -1035,6 +1107,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 289522,
+      "num": 277542,
+      "word": "迪丽热巴已经蠢蠢欲动",
+      "onboard_time": 1698231349,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288923,
       "num": 288923,
       "word": "恋综报名表",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1698209082,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 277854,
+      "num": 277854,
+      "word": "国家药监局通报20批次不合规面膜",
+      "onboard_time": 1698230987,
+      "rank": 27,
+      "category": "社会新闻,美妆"
     },
     {
       "raw_hot": 276610,
@@ -1161,6 +1249,14 @@
       "onboard_time": 1698201461,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 261055,
+      "num": 261055,
+      "word": "天官赐福",
+      "onboard_time": 1698231879,
+      "rank": 30,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 260739,
@@ -1747,14 +1843,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 189981,
-      "num": 189981,
-      "word": "西南科技大学馄饨阿姨事件",
-      "onboard_time": 1698229778,
-      "rank": 38,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 188458,
       "num": 188458,
       "word": "关于肺炎支原体10个热点问答",
@@ -1841,14 +1929,6 @@
       "onboard_time": 1698200796,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183165,
-      "num": 1570413,
-      "word": "神六直播连线男孩18年后成央视主播",
-      "onboard_time": 1698225817,
-      "rank": 36,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 182992,
@@ -2011,6 +2091,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 166267,
+      "num": 1199982,
+      "word": "12岁男孩心疼父母课余时间到饭店帮厨",
+      "onboard_time": 1698229536,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 165299,
       "num": 165299,
       "word": "长中庭精致妆容",
@@ -2049,6 +2137,14 @@
       "onboard_time": 1698192815,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161408,
+      "num": 161408,
+      "word": "兰世立获国家赔偿59万元",
+      "onboard_time": 1698230320,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161275,
@@ -2129,6 +2225,14 @@
       "onboard_time": 1698205962,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 146451,
+      "num": 146451,
+      "word": "小米14",
+      "onboard_time": 1698232304,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 145474,
@@ -2443,6 +2547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116889,
+      "num": 517924,
+      "word": "这车语音成精了吧",
+      "onboard_time": 1698231167,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 116729,
       "num": 116729,
       "word": "小女孩跳舞被吓哭社恐妈妈上台鼓励",
@@ -2611,14 +2723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 90537,
-      "num": 1199982,
-      "word": "12岁男孩心疼父母课余时间到饭店帮厨",
-      "onboard_time": 1698229536,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 90464,
       "num": 90464,
       "word": "高龄孕妇突发低血糖一群人出手了",
@@ -2723,6 +2827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 56264,
+      "num": 162240,
+      "word": "用天猫AI创作出了猛男腹肌",
+      "onboard_time": 1698229960,
+      "rank": 47,
+      "category": "科技,互联网"
+    },
+    {
       "raw_hot": 55160,
       "num": 237309,
       "word": "曾舜晞居家型男友",
@@ -2737,14 +2849,6 @@
       "onboard_time": 1698221616,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 40963,
-      "num": 141987,
-      "word": "用天猫AI创作出了猛男腹肌",
-      "onboard_time": 1698229960,
-      "rank": 47,
-      "category": "科技,互联网"
     },
     {
       "raw_hot": 30000,
