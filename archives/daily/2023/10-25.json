@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698247073514,
+  "endTime": 1698248098567,
   "band_list": [
     {
       "raw_hot": 10661165,
@@ -643,6 +643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 584243,
+      "num": 584243,
+      "word": "成功的羊毛卷 从头顶开始烫中卷",
+      "onboard_time": 1698242920,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 580483,
       "num": 285759,
       "word": "海氏电器实名举报京东",
@@ -731,12 +739,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 537702,
-      "num": 537702,
-      "word": "成功的羊毛卷 从头顶开始烫中卷",
-      "onboard_time": 1698242920,
-      "rank": 30,
-      "category": "美妆"
+      "raw_hot": 545112,
+      "num": 545112,
+      "word": "土耳其",
+      "onboard_time": 1698245439,
+      "rank": 15,
+      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 518995,
@@ -947,6 +955,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 401112,
+      "num": 401112,
+      "word": "撒贝宁称自己是北大方便面系博士",
+      "onboard_time": 1698243704,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "校方回应老师改作业写你是孤儿吗评语",
@@ -995,14 +1011,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 373078,
-      "num": 373078,
-      "word": "土耳其",
-      "onboard_time": 1698245439,
-      "rank": 15,
-      "category": "国外要闻,财经"
-    },
-    {
       "raw_hot": 371874,
       "num": 319291,
       "word": "迪丽热巴为大家整理行李箱",
@@ -1019,20 +1027,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 369603,
+      "num": 369603,
+      "word": "倪妮手串",
+      "onboard_time": 1698246102,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368977,
       "num": 368977,
       "word": "迪丽热巴有自己的挡脸工具",
       "onboard_time": 1698229475,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 364290,
-      "num": 364290,
-      "word": "撒贝宁称自己是北大方便面系博士",
-      "onboard_time": 1698243704,
-      "rank": 43,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 361948,
@@ -1139,20 +1147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332777,
-      "num": 332777,
-      "word": "倪妮手串",
-      "onboard_time": 1698246102,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 332524,
       "num": 332524,
       "word": "杭州多家水果店芒果被买空",
       "onboard_time": 1698211721,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 332461,
+      "num": 332461,
+      "word": "狼队对战TTG",
+      "onboard_time": 1698234877,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 332440,
@@ -1275,20 +1283,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 304001,
-      "num": 304001,
-      "word": "狼队对战TTG",
-      "onboard_time": 1698234877,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 301177,
       "num": 301177,
       "word": "不同身材女生穿同款裙子",
       "onboard_time": 1698157536,
       "rank": 7,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 297882,
+      "num": 297882,
+      "word": "徐涛 希望大家更加自信",
+      "onboard_time": 1698245563,
+      "rank": 30,
+      "category": "教育"
     },
     {
       "raw_hot": 296665,
@@ -1347,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 290702,
+      "num": 290702,
+      "word": "狼队战胜TTG",
+      "onboard_time": 1698247840,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 290600,
       "num": 261822,
       "word": "肺炎支原体 阿奇霉素72小时",
@@ -1387,8 +1403,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287383,
-      "num": 287383,
+      "raw_hot": 288781,
+      "num": 288781,
       "word": "黄凯胡明昊",
       "onboard_time": 1698245740,
       "rank": 28,
@@ -1401,14 +1417,6 @@
       "onboard_time": 1698234763,
       "rank": 21,
       "category": "社会新闻,艺人"
-    },
-    {
-      "raw_hot": 284409,
-      "num": 284409,
-      "word": "徐涛 希望大家更加自信",
-      "onboard_time": 1698245563,
-      "rank": 30,
-      "category": "教育"
     },
     {
       "raw_hot": 283011,
@@ -1715,6 +1723,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 243495,
+      "num": 243495,
+      "word": "TTG止步挑杯八强",
+      "onboard_time": 1698247898,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 242838,
       "num": 242838,
       "word": "田耕纪 番外",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1698204160,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 238505,
+      "num": 238505,
+      "word": "关晓彤新剧素颜",
+      "onboard_time": 1698247479,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 237160,
@@ -1867,6 +1891,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 225750,
+      "num": 225750,
+      "word": "雷军称小米14越级对标iPhone15Pro",
+      "onboard_time": 1698246582,
+      "rank": 35,
+      "category": "数码"
+    },
+    {
       "raw_hot": 223581,
       "num": 223581,
       "word": "狗狗拉伸时偷偷放了个屁",
@@ -1905,14 +1937,6 @@
       "onboard_time": 1698246040,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 219599,
-      "num": 219599,
-      "word": "雷军称小米14越级对标iPhone15Pro",
-      "onboard_time": 1698246582,
-      "rank": 35,
-      "category": "数码"
     },
     {
       "raw_hot": 219446,
@@ -1969,6 +1993,14 @@
       "onboard_time": 1698219639,
       "rank": 27,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 216380,
+      "num": 216380,
+      "word": "宝宝 现在的父母太狗了",
+      "onboard_time": 1698246463,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 214759,
@@ -2099,6 +2131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202742,
+      "num": 202742,
+      "word": "KPL归期",
+      "onboard_time": 1698246463,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202147,
       "num": 3125750,
       "word": "用甲骨文还原3000年前的狩猎",
@@ -2161,14 +2201,6 @@
       "onboard_time": 1698197013,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198900,
-      "num": 198900,
-      "word": "KPL归期",
-      "onboard_time": 1698246463,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 198626,
@@ -2611,14 +2643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167259,
-      "num": 167259,
-      "word": "宝宝 现在的父母太狗了",
-      "onboard_time": 1698246463,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 167008,
       "num": 167008,
       "word": "志愿军战士给父亲的一封信",
@@ -2913,6 +2937,14 @@
       "onboard_time": 1698223118,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137828,
+      "num": 137828,
+      "word": "女子告知铁骑家门密码求帮拿身份证",
+      "onboard_time": 1698244724,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 137522,

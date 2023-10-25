@@ -1,0 +1,410 @@
+{
+  "runTime": 1698248098567,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2300745,
+        "num": 2300745,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1027342,
+        "num": 1027342,
+        "word": "皮肤没问题买几十块婴儿面霜也行",
+        "onboard_time": 1698239801,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 49658,
+        "num": 721878,
+        "word": "速读未成年人网络保护条例举措",
+        "onboard_time": 1698238361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1145719,
+        "num": 715344,
+        "word": "BIGBANG五名成员四名涉毒",
+        "onboard_time": 1698239622,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 644605,
+        "num": 644605,
+        "word": "李冰冰 周也老板",
+        "onboard_time": 1698244001,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 639689,
+        "num": 639689,
+        "word": "女明星出圈图",
+        "onboard_time": 1698243164,
+        "rank": 5,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 584243,
+        "num": 584243,
+        "word": "成功的羊毛卷 从头顶开始烫中卷",
+        "onboard_time": 1698242920,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 567435,
+        "num": 567435,
+        "word": "5名工作人员接触到福岛核污染水",
+        "onboard_time": 1698241422,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 545112,
+        "num": 545112,
+        "word": "土耳其",
+        "onboard_time": 1698245439,
+        "rank": 8,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 506227,
+        "num": 506227,
+        "word": "秦始皇陵西墓葬发现罕见6只绵羊羊车",
+        "onboard_time": 1698240580,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1779278,
+        "num": 488719,
+        "word": "感觉权志龙要变异了",
+        "onboard_time": 1698242620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1170559,
+        "num": 485795,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 460579,
+        "num": 460579,
+        "word": "秦岚 消音",
+        "onboard_time": 1698237460,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 414975,
+        "num": 414975,
+        "word": "乌镇 男人帮",
+        "onboard_time": 1698243402,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 401112,
+        "num": 401112,
+        "word": "撒贝宁称自己是北大方便面系博士",
+        "onboard_time": 1698243704,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369603,
+        "num": 369603,
+        "word": "倪妮手串",
+        "onboard_time": 1698246102,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 332461,
+        "num": 332461,
+        "word": "狼队对战TTG",
+        "onboard_time": 1698234877,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 330378,
+        "num": 330378,
+        "word": "BIGBANG最后的正常人居然是太阳",
+        "onboard_time": 1698238123,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1502677,
+        "num": 329179,
+        "word": "在海底捞吃了42万是什么体验",
+        "onboard_time": 1698241302,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 326756,
+        "num": 326756,
+        "word": "迪丽热巴浓妆vs淡妆",
+        "onboard_time": 1698235001,
+        "rank": 19,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 322260,
+        "num": 322260,
+        "word": "卸妆膏为什么不做成这样",
+        "onboard_time": 1698242980,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 314853,
+        "num": 314853,
+        "word": "田耕纪结局",
+        "onboard_time": 1698232785,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297882,
+        "num": 297882,
+        "word": "徐涛 希望大家更加自信",
+        "onboard_time": 1698245563,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 293628,
+        "num": 293628,
+        "word": "90后夫妻裸婚后同城分居5年",
+        "onboard_time": 1698236075,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290702,
+        "num": 290702,
+        "word": "狼队战胜TTG",
+        "onboard_time": 1698247840,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 288781,
+        "num": 288781,
+        "word": "黄凯胡明昊",
+        "onboard_time": 1698245740,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282718,
+        "num": 282718,
+        "word": "郭麒麟回应胖了",
+        "onboard_time": 1698238662,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278615,
+        "num": 278615,
+        "word": "专家称春节调休不如再加2天假",
+        "onboard_time": 1698231290,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273662,
+        "num": 273662,
+        "word": "俩主播硬刚卖了2.6亿不下播",
+        "onboard_time": 1698228214,
+        "rank": 28,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 269480,
+        "num": 269480,
+        "word": "妖刀",
+        "onboard_time": 1698242439,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 259208,
+        "num": 259208,
+        "word": "秦海璐 我结婚了没关系",
+        "onboard_time": 1698218016,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258349,
+        "num": 258349,
+        "word": "天官赐福",
+        "onboard_time": 1698231879,
+        "rank": 31,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 243495,
+        "num": 243495,
+        "word": "TTG止步挑杯八强",
+        "onboard_time": 1698247898,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 238505,
+        "num": 238505,
+        "word": "关晓彤新剧素颜",
+        "onboard_time": 1698247479,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233327,
+        "num": 233327,
+        "word": "广东一学校近700名新生集体退学",
+        "onboard_time": 1698232064,
+        "rank": 34,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 225750,
+        "num": 225750,
+        "word": "雷军称小米14越级对标iPhone15Pro",
+        "onboard_time": 1698246582,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216380,
+        "num": 216380,
+        "word": "宝宝 现在的父母太狗了",
+        "onboard_time": 1698246463,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202742,
+        "num": 202742,
+        "word": "KPL归期",
+        "onboard_time": 1698246463,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 188732,
+        "num": 188732,
+        "word": "卫健委回应男婴打疫苗40小时后死亡",
+        "onboard_time": 1698236740,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188250,
+        "num": 188250,
+        "word": "张桂梅当选妇联副主席",
+        "onboard_time": 1698241364,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 182325,
+        "num": 182325,
+        "word": "5万元冰箱起火准新娘命丧婚房",
+        "onboard_time": 1698239980,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175261,
+        "num": 175261,
+        "word": "田耕纪 番外",
+        "onboard_time": 1698243102,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172911,
+        "num": 172911,
+        "word": "王一博染回黑发了",
+        "onboard_time": 1698232304,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 172780,
+        "num": 172780,
+        "word": "TTG破三高翻盘",
+        "onboard_time": 1698246040,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169273,
+        "num": 169273,
+        "word": "沈梦辰见到戚薇的反应",
+        "onboard_time": 1698243582,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162911,
+        "num": 162911,
+        "word": "十个勤天团综",
+        "onboard_time": 1698245265,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159922,
+        "num": 159922,
+        "word": "因为一部剧爆红的演员",
+        "onboard_time": 1698236500,
+        "rank": 46,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156447,
+        "num": 156447,
+        "word": "潜水员韩颋遗体已被打捞上岸",
+        "onboard_time": 1698236858,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142725,
+        "num": 142725,
+        "word": "重庆狼队",
+        "onboard_time": 1698244662,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137828,
+        "num": 137828,
+        "word": "女子告知铁骑家门密码求帮拿身份证",
+        "onboard_time": 1698244724,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士们的功绩彪炳千秋#"
+    }
+  }
+}
