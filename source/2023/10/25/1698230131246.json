@@ -1,0 +1,410 @@
+{
+  "runTime": 1698230131246,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4888488,
+        "num": 4888488,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195610,
+        "num": 3125750,
+        "word": "用甲骨文还原3000年前的狩猎",
+        "onboard_time": 1698227500,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 19654,
+        "num": 2643517,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2603104,
+        "num": 2603104,
+        "word": "李佳琦直播间浴液比其它平台贵超30元",
+        "onboard_time": 1698228214,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 157561,
+        "num": 1570413,
+        "word": "神六直播连线男孩18年后成央视主播",
+        "onboard_time": 1698225817,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1564941,
+        "num": 1564941,
+        "word": "秦海璐 我结婚了没关系",
+        "onboard_time": 1698218016,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90537,
+        "num": 1199982,
+        "word": "12岁男孩心疼父母课余时间到饭店帮厨",
+        "onboard_time": 1698229536,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1177930,
+        "num": 1177930,
+        "word": "俩主播硬刚卖了2.6亿不下播",
+        "onboard_time": 1698228214,
+        "rank": 7,
+        "category": "财经,社会新闻"
+      },
+      {
+        "raw_hot": 946830,
+        "num": 946830,
+        "word": "徐穗珍回来了",
+        "onboard_time": 1698228099,
+        "rank": 8,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 785791,
+        "num": 785791,
+        "word": "帕梅拉好小一只",
+        "onboard_time": 1698225575,
+        "rank": 9,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 947562,
+        "num": 785212,
+        "word": "国家发改委回应2024年放假安排",
+        "onboard_time": 1698205658,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 874126,
+        "num": 781913,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 769409,
+        "num": 769409,
+        "word": "赵又廷回应夺妻之仇不共戴天",
+        "onboard_time": 1698216815,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 768730,
+        "num": 768730,
+        "word": "揭秘李佳琦与小杨哥商业关联",
+        "onboard_time": 1698224855,
+        "rank": 13,
+        "category": "财经,网红"
+      },
+      {
+        "raw_hot": 755320,
+        "num": 755320,
+        "word": "北京长峰医院重大火灾事故调查报告",
+        "onboard_time": 1698225158,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 568934,
+        "num": 568934,
+        "word": "芒果台的文案到底是谁在写",
+        "onboard_time": 1698218617,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433544,
+        "num": 433544,
+        "word": "靳伟因北京长峰医院重大火灾事故被问责",
+        "onboard_time": 1698226652,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 414781,
+        "num": 414781,
+        "word": "以色列拒向联合国官员发签证",
+        "onboard_time": 1698224198,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 409947,
+        "num": 409947,
+        "word": "原来明星都在这里剪头发",
+        "onboard_time": 1698228699,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 368977,
+        "num": 368977,
+        "word": "迪丽热巴有自己的挡脸工具",
+        "onboard_time": 1698229475,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363686,
+        "num": 363686,
+        "word": "邵明明直播哭了",
+        "onboard_time": 1698222817,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345665,
+        "num": 345665,
+        "word": "辛芷蕾竟然演过丑女无敌",
+        "onboard_time": 1698228035,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 343768,
+        "num": 343768,
+        "word": "韩国多子女公务员可优先晋升",
+        "onboard_time": 1698228575,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 328374,
+        "num": 328374,
+        "word": "女子当街杀害男子并电话告知其家属",
+        "onboard_time": 1698212677,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290971,
+        "num": 290971,
+        "word": "气血不足最怕的10个运动",
+        "onboard_time": 1698228274,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 282402,
+        "num": 282402,
+        "word": "小米",
+        "onboard_time": 1698226535,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 271564,
+        "num": 271564,
+        "word": "因10元工钱工人在车门拖拽工头致地铁延误被拘",
+        "onboard_time": 1698222996,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 263702,
+        "num": 263702,
+        "word": "给迪丽热巴急的栓Q都出来了",
+        "onboard_time": 1698226355,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258555,
+        "num": 258555,
+        "word": "章子怡事业困境 华语电影大女性角色",
+        "onboard_time": 1698213461,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236523,
+        "num": 236523,
+        "word": "孙红雷夫妇牵手游乌镇",
+        "onboard_time": 1698227556,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348068,
+        "num": 230739,
+        "word": "YG回应权志龙涉嫌吸毒",
+        "onboard_time": 1698230078,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221596,
+        "num": 221596,
+        "word": "安妮海瑟薇为什么突然老了",
+        "onboard_time": 1698205299,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221147,
+        "num": 221147,
+        "word": "广西科目三在台湾火了",
+        "onboard_time": 1698227855,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 218019,
+        "num": 218019,
+        "word": "贵州大学辟谣",
+        "onboard_time": 1698227674,
+        "rank": 33,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 202750,
+        "num": 202750,
+        "word": "京东高管回应采销喊话李佳琦",
+        "onboard_time": 1698208001,
+        "rank": 34,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 201361,
+        "num": 201361,
+        "word": "海澜之家 十个勤天",
+        "onboard_time": 1698226652,
+        "rank": 35,
+        "category": "综艺,时尚"
+      },
+      {
+        "raw_hot": 197476,
+        "num": 197476,
+        "word": "徐明浩 瑞幸",
+        "onboard_time": 1698207044,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195563,
+        "num": 195563,
+        "word": "于正回应为有暗香来结局猜测",
+        "onboard_time": 1698229115,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189981,
+        "num": 189981,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 177242,
+        "num": 177242,
+        "word": "花少5这段太搞笑了",
+        "onboard_time": 1698229115,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176500,
+        "num": 176500,
+        "word": "吴昕说张踩铃女儿眼里有活",
+        "onboard_time": 1698227015,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175958,
+        "num": 175958,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173645,
+        "num": 173645,
+        "word": "新手买化妆品不要盲目跟风",
+        "onboard_time": 1698229300,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 171005,
+        "num": 171005,
+        "word": "邓紫棋巡演真的要来了",
+        "onboard_time": 1698226057,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147222,
+        "num": 147222,
+        "word": "律师称李佳琦限价控库存属垄断行为",
+        "onboard_time": 1698219396,
+        "rank": 44,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 144511,
+        "num": 144511,
+        "word": "汪海林 晋江文学城",
+        "onboard_time": 1698220357,
+        "rank": 45,
+        "category": "作品衍生,读书作家"
+      },
+      {
+        "raw_hot": 142561,
+        "num": 142561,
+        "word": "没有赶上年夜饭和春晚的成年人",
+        "onboard_time": 1698224256,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 40963,
+        "num": 141987,
+        "word": "用天猫AI创作出了猛男腹肌",
+        "onboard_time": 1698229960,
+        "rank": 47,
+        "category": "科技,互联网"
+      },
+      {
+        "raw_hot": 141940,
+        "num": 141940,
+        "word": "王海称李佳琦卖的和田玉小杨哥也卖过",
+        "onboard_time": 1698217597,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 138786,
+        "num": 138786,
+        "word": "肺炎支原体 阿奇霉素72小时",
+        "onboard_time": 1698224015,
+        "rank": 49,
+        "category": "健康医疗,知识科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
+    }
+  }
+}

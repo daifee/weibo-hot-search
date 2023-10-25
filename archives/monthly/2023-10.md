@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/25 18:18:31
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/25 18:35:31
 </p>
 </blockquote>
 <p>
@@ -203,6 +203,12 @@ DOTA2中国队夺冠（热度：6586145）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%944%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
 樊振东3比4王楚钦（热度：5080250）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%83%E5%BF%97%E9%BE%99%E6%B6%89%E5%AB%8C%E5%90%B8%E6%AF%92%E8%A2%AB%E7%AB%8B%E6%A1%88%23" target="weibo">
+权志龙涉嫌吸毒被立案（热度：4888488）
 </a>
 </li>
 
@@ -671,6 +677,12 @@ G2战胜WBG（热度：3782780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%83%E6%92%AD%20%E5%81%87%E5%90%83%23" target="weibo">
 吃播 假吃（热度：2610102）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E6%B5%B4%E6%B6%B2%E6%AF%94%E5%85%B6%E5%AE%83%E5%B9%B3%E5%8F%B0%E8%B4%B5%E8%B6%8530%E5%85%83%23" target="weibo">
+李佳琦直播间浴液比其它平台贵超30元（热度：2603104）
 </a>
 </li>
 
@@ -1535,12 +1547,6 @@ iPhone15全系价格暴跌（热度：2058577）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%BC%BA%E5%9B%9E%E5%BA%94%E5%A9%9A%E5%86%85%E5%87%BA%E8%BD%A8%E5%8C%85%E5%85%BB%E6%83%85%E5%A6%87%23" target="weibo">
 郑强回应婚内出轨包养情妇（热度：2031971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E7%90%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E6%B5%B4%E6%B6%B2%E6%AF%94%E5%85%B6%E5%AE%83%E5%B9%B3%E5%8F%B0%E8%B4%B5%E8%B6%8530%E5%85%83%23" target="weibo">
-李佳琦直播间浴液比其它平台贵超30元（热度：2026061）
 </a>
 </li>
 
@@ -4389,6 +4395,12 @@ S13瑞士轮第二轮抽签（热度：1188859）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%A9%E4%B8%BB%E6%92%AD%E7%A1%AC%E5%88%9A%E5%8D%96%E4%BA%862.6%E4%BA%BF%E4%B8%8D%E4%B8%8B%E6%92%AD%23" target="weibo">
+俩主播硬刚卖了2.6亿不下播（热度：1177930）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E4%B8%8D%E6%83%B3%E7%BB%93%E5%A9%9A%E5%81%B7%E4%B8%8B%E5%A0%95%E8%83%8E%E8%8D%AF%E8%87%B4%E5%A5%B3%E5%8F%8B%E6%B5%81%E4%BA%A7%23" target="weibo">
 男子不想结婚偷下堕胎药致女友流产（热度：1177729）
 </a>
@@ -5931,6 +5943,12 @@ Super Shy（热度：956731）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E7%A9%97%E7%8F%8D%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
+徐穗珍回来了（热度：946830）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E7%9B%B8%E6%80%9D%23" target="weibo">
 长相思（热度：946185）
 </a>
@@ -5993,24 +6011,6 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BE%8B%20%E9%82%A3%E4%B8%AA%E5%90%88%E5%90%8C%E7%9C%9F%E7%9A%84%E6%98%AF%E6%9C%89%E6%95%88%E7%9A%84%23" target="weibo">
 陈律 那个合同真的是有效的（热度：937643）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%B1%8D%E7%94%B7%E5%AD%90%E6%8A%B5%E8%BE%BE%E9%A6%99%E6%B8%AF%E6%97%B6%E8%A1%8C%E6%9D%8E%E6%90%9C%E5%87%BA%E6%89%8B%E6%9E%AA%23" target="weibo">
-美籍男子抵达香港时行李搜出手枪（热度：937591）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%83%E5%B2%81%E5%84%BF%E5%AD%90%E5%9C%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7%E7%9A%84%E4%B8%AD%E6%96%87%E4%BD%9C%E4%B8%9A%23" target="weibo">
-七岁儿子在加拿大的中文作业（热度：937314）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%98%E5%8A%A1%E5%91%98%E5%9C%A8%E9%AB%98%E9%93%81%E4%B8%8A%E8%A2%AB%E6%83%8A%E5%96%9C%E6%B1%82%E5%A9%9A%23" target="weibo">
-乘务员在高铁上被惊喜求婚（热度：935199）
 </a>
 </li>
 
