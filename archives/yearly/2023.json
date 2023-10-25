@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698201260162,
+  "endTime": 1698203868340,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -779,6 +779,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 10263172,
+      "num": 10187270,
+      "word": "除夕不放假",
+      "onboard_time": 1698199355,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 10255430,
       "num": 10255430,
       "word": "杨洋回应近期争议",
@@ -793,14 +801,6 @@
       "onboard_time": 1688735864,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10187270,
-      "num": 10187270,
-      "word": "除夕不放假",
-      "onboard_time": 1698199355,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 10155728,

@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698201260162,
+  "endTime": 1698203868340,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -11,7 +11,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 10187270,
+      "raw_hot": 10263172,
       "num": 10187270,
       "word": "除夕不放假",
       "onboard_time": 1698199355,
@@ -56,6 +56,14 @@
       "word": "上海通报网传民警上门抓德牧",
       "onboard_time": 1698190768,
       "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1171653,
+      "num": 1171653,
+      "word": "2024五一休5天前后两周上6天",
+      "onboard_time": 1698201397,
+      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -123,6 +131,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 811760,
+      "num": 811760,
+      "word": "大熊猫奂彩离世",
+      "onboard_time": 1698202598,
+      "rank": 6,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 774130,
+      "num": 774130,
+      "word": "专家称龙年春节将形成超级黄金周",
+      "onboard_time": 1698201698,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 641772,
       "num": 378012,
       "word": "李佳琦直播间称从未要求品牌二选一",
@@ -179,6 +203,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 474430,
+      "num": 474430,
+      "word": "你怎么看除夕不放假",
+      "onboard_time": 1698201579,
+      "rank": 8,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 469896,
       "num": 403732,
       "word": "李佳琦直播间时隔43天再次带货花西子",
@@ -193,6 +225,14 @@
       "onboard_time": 1698163413,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453821,
+      "num": 373480,
+      "word": "张雪峰 惹谁都不要惹知识分子",
+      "onboard_time": 1698198630,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 449320,
@@ -211,12 +251,36 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 431996,
+      "num": 257632,
+      "word": "29岁了还在找妈妈要钱",
+      "onboard_time": 1698201339,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "校方回应老师改作业写你是孤儿吗评语",
       "onboard_time": 1698191010,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 376285,
+      "num": 367181,
+      "word": "春节调休",
+      "onboard_time": 1698201101,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 358765,
+      "num": 358765,
+      "word": "西施新皮肤",
+      "onboard_time": 1698202300,
+      "rank": 13,
+      "category": "游戏"
     },
     {
       "raw_hot": 357382,
@@ -227,20 +291,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 355427,
-      "num": 294740,
-      "word": "张雪峰 惹谁都不要惹知识分子",
-      "onboard_time": 1698198630,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 337856,
       "num": 260744,
       "word": "不敢相信这是牛牛工作室拍出来的",
       "onboard_time": 1698161437,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 337800,
+      "num": 337800,
+      "word": "你愿意除夕请年假吗",
+      "onboard_time": 1698202717,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 336479,
@@ -257,6 +321,14 @@
       "onboard_time": 1698161795,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 325126,
+      "num": 325126,
+      "word": "除夕至初八高速免费通行",
+      "onboard_time": 1698201339,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 317058,
@@ -355,6 +427,22 @@
       "category": "美妆,时尚"
     },
     {
+      "raw_hot": 262747,
+      "num": 262747,
+      "word": "国家数据局正式揭牌",
+      "onboard_time": 1698201461,
+      "rank": 18,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 260739,
+      "num": 260739,
+      "word": "中岛美嘉录制综艺路透",
+      "onboard_time": 1698202359,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257962,
       "num": 257962,
       "word": "双十一 卫生巾",
@@ -379,12 +467,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 251949,
+      "num": 251949,
+      "word": "库里抹护手霜",
+      "onboard_time": 1698203141,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249085,
       "num": 249085,
       "word": "神十七26日11时14分发射",
       "onboard_time": 1698197071,
       "rank": 19,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 234283,
+      "num": 234283,
+      "word": "如何看李佳琦直播间又带货花西子",
+      "onboard_time": 1698203680,
+      "rank": 23,
+      "category": "美妆,网红"
     },
     {
       "raw_hot": 234155,
@@ -427,6 +531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 223581,
+      "num": 223581,
+      "word": "狗狗拉伸时偷偷放了个屁",
+      "onboard_time": 1698200677,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 221043,
       "num": 221043,
       "word": "想拍戚薇跟拍还是练练吧",
@@ -435,12 +547,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 220994,
+      "num": 220994,
+      "word": "这就是街舞6舞者阵容",
+      "onboard_time": 1698202839,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 219446,
       "num": 219446,
       "word": "花知晓腮红",
       "onboard_time": 1698154116,
       "rank": 17,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 217626,
+      "num": 217626,
+      "word": "肖战拍的脚变装",
+      "onboard_time": 1698202660,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 217178,
+      "num": 217178,
+      "word": "你好种地少年预告",
+      "onboard_time": 1698202300,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 214759,
@@ -467,14 +603,6 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 207772,
-      "num": 172625,
-      "word": "狗狗拉伸时偷偷放了个屁",
-      "onboard_time": 1698200677,
-      "rank": 30,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 203300,
       "num": 203300,
       "word": "田耕纪的结局连主演都不知道",
@@ -497,14 +625,6 @@
       "onboard_time": 1698197013,
       "rank": 36,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 197608,
-      "num": 197608,
-      "word": "春节调休",
-      "onboard_time": 1698201101,
-      "rank": 22,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 195852,
@@ -643,6 +763,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 175017,
+      "num": 175017,
+      "word": "芭比官方字幕对比分析",
+      "onboard_time": 1698203680,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 174465,
       "num": 174465,
       "word": "林心如年轻时的盛世容颜",
@@ -667,6 +795,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 171020,
+      "num": 171020,
+      "word": "张晚意王楚然柳舟记雨天路透",
+      "onboard_time": 1698202300,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167008,
       "num": 167008,
       "word": "志愿军战士给父亲的一封信",
@@ -675,12 +811,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 163517,
+      "num": 163517,
+      "word": "汉服入门穿搭与时尚手册",
+      "onboard_time": 1698203020,
+      "rank": 35,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 162811,
       "num": 162811,
       "word": "2024年部分节假日安排公布",
       "onboard_time": 1698201159,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162132,
+      "num": 162132,
+      "word": "比尔缺席太阳揭幕战",
+      "onboard_time": 1698203741,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 161614,
@@ -787,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139523,
+      "num": 139523,
+      "word": "郭艾伦在观众散去的球馆训练",
+      "onboard_time": 1698203560,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139363,
       "num": 139363,
       "word": "民警1分钟冲上8楼救下轻生少年",
@@ -883,6 +1043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 126125,
+      "num": 126125,
+      "word": "理发师的剪刀有多贵",
+      "onboard_time": 1698203800,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 125850,
       "num": 125850,
       "word": "皇马欧冠3连胜",
@@ -905,6 +1073,14 @@
       "onboard_time": 1698152975,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121368,
+      "num": 4199214,
+      "word": "未成年人网络保护",
+      "onboard_time": 1698157478,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 120452,
@@ -944,14 +1120,6 @@
       "word": "2000多年前的神奇动物在西安被发现",
       "onboard_time": 1698197970,
       "rank": 41,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 116022,
-      "num": 4199214,
-      "word": "未成年人网络保护",
-      "onboard_time": 1698157478,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
@@ -1025,6 +1193,14 @@
       "onboard_time": 1698184634,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104660,
+      "num": 104660,
+      "word": "阴阳师",
+      "onboard_time": 1698202180,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 104652,
