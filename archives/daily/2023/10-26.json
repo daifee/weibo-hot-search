@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698268493140,
+  "endTime": 1698269665384,
   "band_list": [
     {
       "raw_hot": 1611941,
@@ -483,6 +483,14 @@
       "category": "科技"
     },
     {
+      "raw_hot": 45567,
+      "num": 45567,
+      "word": "苏有朋林心如综艺合体",
+      "onboard_time": 1698267853,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39962,
       "num": 842470,
       "word": "速读未成年人网络保护条例举措",
@@ -529,14 +537,6 @@
       "onboard_time": 1698261434,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21922,
-      "num": 32787,
-      "word": "苏有朋林心如综艺合体",
-      "onboard_time": 1698267853,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 20416,
