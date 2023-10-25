@@ -1,14 +1,54 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698190453125,
+  "endTime": 1698196312577,
   "band_list": [
     {
-      "raw_hot": 1829177,
+      "raw_hot": 2174607,
+      "num": 2174607,
+      "word": "教室反光老师要求安窗帘校长被停职",
+      "onboard_time": 1698190830,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1987341,
       "num": 1829177,
       "word": "李佳琦公司美ONE合同细则曝光",
       "onboard_time": 1698159880,
       "rank": 0,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 1343408,
+      "num": 389956,
+      "word": "上海通报网传民警上门抓德牧",
+      "onboard_time": 1698190768,
+      "rank": 10,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1145359,
+      "num": 1145359,
+      "word": "中学老师批改作业写下你是孤儿吗评语",
+      "onboard_time": 1698188724,
+      "rank": 20,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 931574,
+      "num": 931574,
+      "word": "王睡睡 人不要不知感恩",
+      "onboard_time": 1698191551,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 879707,
+      "num": 879707,
+      "word": "外媒曝侯孝贤患失智症",
+      "onboard_time": 1698189265,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 875996,
@@ -35,16 +75,16 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 745698,
-      "num": 208116,
-      "word": "外媒曝侯孝贤患失智症",
-      "onboard_time": 1698189265,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 783527,
+      "num": 783527,
+      "word": "以色列要求古特雷斯辞职",
+      "onboard_time": 1698195217,
+      "rank": 6,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 641772,
-      "num": 274989,
+      "num": 375410,
       "word": "李佳琦直播间称从未要求品牌二选一",
       "onboard_time": 1698144754,
       "rank": 10,
@@ -52,11 +92,27 @@
     },
     {
       "raw_hot": 580483,
-      "num": 268822,
+      "num": 285759,
       "word": "海氏电器实名举报京东",
       "onboard_time": 1698157958,
       "rank": 11,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 577205,
+      "num": 285099,
+      "word": "高铁乘客爽快给孩子们换座被奖励可乐",
+      "onboard_time": 1698189807,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 572578,
+      "num": 284454,
+      "word": "当男朋友知道我存款快六位数时",
+      "onboard_time": 1698195096,
+      "rank": 21,
+      "category": "情感"
     },
     {
       "raw_hot": 556248,
@@ -76,7 +132,7 @@
     },
     {
       "raw_hot": 469896,
-      "num": 265073,
+      "num": 336853,
       "word": "李佳琦直播间时隔43天再次带货花西子",
       "onboard_time": 1698130413,
       "rank": 12,
@@ -91,12 +147,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 386054,
-      "num": 386054,
-      "word": "中学老师批改作业写下你是孤儿吗评语",
-      "onboard_time": 1698188724,
-      "rank": 20,
-      "category": "教育"
+      "raw_hot": 436769,
+      "num": 359029,
+      "word": "国防部回应美发布中国军事安全报告",
+      "onboard_time": 1698194257,
+      "rank": 12,
+      "category": "国内要闻"
+    },
+    {
+      "raw_hot": 409320,
+      "num": 409320,
+      "word": "花少5 氛围",
+      "onboard_time": 1698195453,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 392424,
+      "num": 392424,
+      "word": "校方回应老师改作业写你是孤儿吗评语",
+      "onboard_time": 1698191010,
+      "rank": 9,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 337856,
@@ -105,6 +177,14 @@
       "onboard_time": 1698161437,
       "rank": 13,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 336479,
+      "num": 336479,
+      "word": "赵寅成近照状态",
+      "onboard_time": 1698191972,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 330353,
@@ -123,12 +203,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 314943,
+      "num": 284093,
+      "word": "突然发现脆柿子也很好吃",
+      "onboard_time": 1698190349,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 314466,
+      "num": 314466,
+      "word": "巴以冲突致加沙2360名儿童死亡",
+      "onboard_time": 1698195334,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 301177,
       "num": 301177,
       "word": "不同身材女生穿同款裙子",
       "onboard_time": 1698157536,
       "rank": 7,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 298273,
+      "num": 298273,
+      "word": "年轻人开始整顿份子钱",
+      "onboard_time": 1698195453,
+      "rank": 17,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 295003,
+      "num": 295003,
+      "word": "我国将增发1万亿元国债",
+      "onboard_time": 1698149620,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 291660,
@@ -139,20 +251,28 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 286001,
-      "num": 286001,
-      "word": "我国将增发1万亿元国债",
-      "onboard_time": 1698149620,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 279586,
       "num": 279586,
       "word": "陕西一交通局拖欠男子770万工程款",
       "onboard_time": 1698157658,
       "rank": 9,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 276057,
+      "num": 276057,
+      "word": "周迅 把我跟拖垃圾袋一样拖上来",
+      "onboard_time": 1698152555,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 272815,
+      "num": 272815,
+      "word": "赵露思7年前火星情报局生图",
+      "onboard_time": 1698191972,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 263413,
@@ -179,12 +299,44 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 257128,
+      "num": 257128,
+      "word": "周也 恶女人设",
+      "onboard_time": 1698194916,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 244632,
+      "num": 244632,
+      "word": "iPhone15Pro系列满意度创新低",
+      "onboard_time": 1698195155,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 234155,
       "num": 234155,
       "word": "我国艾滋病患者治疗成功率已超过90%",
       "onboard_time": 1698149979,
       "rank": 15,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 232173,
+      "num": 232173,
+      "word": "彭昱畅对黄晓明说活该你红",
+      "onboard_time": 1698191914,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 221043,
+      "num": 221043,
+      "word": "想拍戚薇跟拍还是练练吧",
+      "onboard_time": 1698191914,
+      "rank": 28,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 219446,
@@ -211,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208723,
-      "num": 208723,
-      "word": "周迅 把我跟拖垃圾袋一样拖上来",
-      "onboard_time": 1698152555,
-      "rank": 21,
-      "category": "电影"
-    },
-    {
       "raw_hot": 203300,
       "num": 203300,
       "word": "田耕纪的结局连主演都不知道",
@@ -233,6 +377,22 @@
       "onboard_time": 1698151477,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 192447,
+      "num": 192447,
+      "word": "张凌赫冷脸照",
+      "onboard_time": 1698193295,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 188458,
+      "num": 188458,
+      "word": "关于肺炎支原体10个热点问答",
+      "onboard_time": 1698193957,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 185910,
@@ -251,12 +411,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 178344,
+      "num": 178344,
+      "word": "张艺兴自己P的眼镜",
+      "onboard_time": 1698192273,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176107,
       "num": 176107,
       "word": "胡先煦的哑药过期了",
       "onboard_time": 1698162812,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176107,
+      "num": 176107,
+      "word": "田曦薇说和曾舜晞合作很默契",
+      "onboard_time": 1698196056,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 175523,
@@ -275,12 +451,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174447,
+      "num": 174447,
+      "word": "能成功通过任何考试的步骤",
+      "onboard_time": 1698191070,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 171177,
       "num": 171177,
       "word": "五条悟回归暗示",
       "onboard_time": 1698159457,
       "rank": 24,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 167008,
+      "num": 167008,
+      "word": "志愿军战士给父亲的一封信",
+      "onboard_time": 1698194856,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 161614,
+      "num": 161614,
+      "word": "吴彦祖来配眼镜老板娘手足无措",
+      "onboard_time": 1698192815,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 161275,
@@ -315,12 +515,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 142751,
-      "num": 142751,
+      "raw_hot": 149451,
+      "num": 149451,
       "word": "秦岭野生大熊猫妈妈带崽上树",
       "onboard_time": 1698189387,
       "rank": 39,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 145003,
+      "num": 145003,
+      "word": "这就是于正让所有人满意的暗香来结局吗",
+      "onboard_time": 1698191190,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 143905,
+      "num": 143905,
+      "word": "掘金领取总冠军戒指",
+      "onboard_time": 1698194438,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 142107,
@@ -329,6 +545,30 @@
       "onboard_time": 1698161373,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 141898,
+      "num": 141898,
+      "word": "黄凯好像在发光",
+      "onboard_time": 1698196056,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139682,
+      "num": 139682,
+      "word": "日版隐秘的角落预告片",
+      "onboard_time": 1698196174,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 139363,
+      "num": 139363,
+      "word": "民警1分钟冲上8楼救下轻生少年",
+      "onboard_time": 1698193656,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 136699,
@@ -347,20 +587,28 @@
       "category": "情感,网红"
     },
     {
-      "raw_hot": 135141,
-      "num": 135141,
-      "word": "高铁乘客爽快给孩子们换座被奖励可乐",
-      "onboard_time": 1698189807,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 134530,
       "num": 134530,
       "word": "警方破获涉25亿特大跨境赌博案",
       "onboard_time": 1698149620,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129630,
+      "num": 129630,
+      "word": "刘维对薛之谦放狠话",
+      "onboard_time": 1698194198,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128417,
+      "num": 128417,
+      "word": "王心凌 最甜的无锡最甜的你们",
+      "onboard_time": 1698193834,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 126363,
@@ -377,6 +625,14 @@
       "onboard_time": 1698142292,
       "rank": 32,
       "category": "美食"
+    },
+    {
+      "raw_hot": 125850,
+      "num": 125850,
+      "word": "皇马欧冠3连胜",
+      "onboard_time": 1698195933,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 125201,
@@ -417,6 +673,14 @@
       "onboard_time": 1698189445,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116022,
+      "num": 1010414,
+      "word": "未成年人网络保护",
+      "onboard_time": 1698157478,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 115895,
@@ -531,14 +795,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 86994,
-      "num": 86994,
-      "word": "突然发现脆柿子也很好吃",
-      "onboard_time": 1698190349,
-      "rank": 39,
-      "category": "美食"
-    },
-    {
       "raw_hot": 85570,
       "num": 85570,
       "word": "塞维利亚1比2阿森纳",
@@ -552,14 +808,6 @@
       "word": "52岁大叔自驾游中国说后悔没有30岁出发",
       "onboard_time": 1698153577,
       "rank": 47,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 82798,
-      "num": 844401,
-      "word": "未成年人网络保护",
-      "onboard_time": 1698157478,
-      "rank": 2,
       "category": "社会新闻"
     },
     {
