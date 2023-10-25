@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/25 20:32:48
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/25 20:48:59
 </p>
 </blockquote>
 <p>
@@ -3795,6 +3795,12 @@ LV老板涉嫌洗钱受到调查（热度：1336828）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BD%9C%E6%B0%B4%E5%91%98%E9%9F%A9%E9%A2%8B%E9%81%97%E4%BD%93%E5%B7%B2%E8%A2%AB%E6%89%93%E6%8D%9E%E4%B8%8A%E5%B2%B8%23" target="weibo">
+潜水员韩颋遗体已被打捞上岸（热度：1318356）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8E%E4%BB%A5%E8%89%B2%E5%88%97%E6%96%B9%E9%80%9A%E8%AF%9D%23" target="weibo">
 中方与以色列方通话（热度：1316943）
 </a>
@@ -6005,12 +6011,6 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90%E9%81%AD%E6%80%A7%E4%BE%B5%E8%A2%AB%E6%95%91%E4%B8%8B%E5%90%8E%E5%8F%88%E8%A2%AB%E5%85%B6%E4%BE%B5%E7%8A%AF%23" target="weibo">
 美国女子遭性侵被救下后又被其侵犯（热度：939774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%82%E5%AE%B6%E7%A7%B05.9%E5%85%83%E7%B2%89%E5%BA%95%E6%B6%B2%E6%98%AF%E6%B4%BB%E5%8A%A8%E4%BB%B7%23" target="weibo">
-厂家称5.9元粉底液是活动价（热度：939107）
 </a>
 </li>
 
