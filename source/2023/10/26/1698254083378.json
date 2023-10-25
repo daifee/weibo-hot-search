@@ -1,0 +1,410 @@
+{
+  "runTime": 1698254083378,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1033436,
+        "num": 1033436,
+        "word": "24岁女生去酒吧被保安当未成年拦下",
+        "onboard_time": 1698249575,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 789367,
+        "num": 789367,
+        "word": "感觉权志龙要变异了",
+        "onboard_time": 1698242620,
+        "rank": 1,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20729,
+        "num": 650423,
+        "word": "速读未成年人网络保护条例举措",
+        "onboard_time": 1698238361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 558849,
+        "num": 558849,
+        "word": "女生半年减肥40斤查出重度脂肪肝",
+        "onboard_time": 1698248558,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 392210,
+        "num": 392210,
+        "word": "BIGBANG五名成员四名涉毒",
+        "onboard_time": 1698239622,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308544,
+        "num": 308544,
+        "word": "皮肤没问题买几十块婴儿面霜也行",
+        "onboard_time": 1698239801,
+        "rank": 5,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 284784,
+        "num": 284784,
+        "word": "第一批过年回家的选手已经十月辞职了",
+        "onboard_time": 1698251487,
+        "rank": 6,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223291,
+        "num": 223291,
+        "word": "俩主播硬刚卖了2.6亿不下播",
+        "onboard_time": 1698228214,
+        "rank": 7,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 218585,
+        "num": 218585,
+        "word": "得知春节调休的我",
+        "onboard_time": 1698248258,
+        "rank": 8,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178603,
+        "num": 178603,
+        "word": "土耳其股指熔断",
+        "onboard_time": 1698249633,
+        "rank": 9,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 494895,
+        "num": 176664,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 354274,
+        "num": 175498,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173711,
+        "num": 173711,
+        "word": "BIGBANG最后的正常人居然是太阳",
+        "onboard_time": 1698238123,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172745,
+        "num": 172745,
+        "word": "土耳其",
+        "onboard_time": 1698245439,
+        "rank": 13,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 166289,
+        "num": 166289,
+        "word": "倪妮手串",
+        "onboard_time": 1698246102,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157259,
+        "num": 157259,
+        "word": "迪丽热巴浓妆vs淡妆",
+        "onboard_time": 1698235001,
+        "rank": 15,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 144507,
+        "num": 144507,
+        "word": "成功的羊毛卷 从头顶开始烫中卷",
+        "onboard_time": 1698242920,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 133995,
+        "num": 133995,
+        "word": "秦岚 消音",
+        "onboard_time": 1698237460,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128017,
+        "num": 128017,
+        "word": "雷军称小米14越级对标iPhone15Pro",
+        "onboard_time": 1698246582,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118255,
+        "num": 118255,
+        "word": "田耕纪结局",
+        "onboard_time": 1698232785,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310625,
+        "num": 117046,
+        "word": "染上毒瘾后外貌的真实变化",
+        "onboard_time": 1698248258,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 124053,
+        "num": 115908,
+        "word": "如何看李佳琦直播间回应喊话内容",
+        "onboard_time": 1698250710,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114269,
+        "num": 114269,
+        "word": "广东一学校近700名新生集体退学",
+        "onboard_time": 1698232064,
+        "rank": 22,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 111208,
+        "num": 111208,
+        "word": "卸妆膏为什么不做成这样",
+        "onboard_time": 1698242980,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 106152,
+        "num": 106152,
+        "word": "余华 学会克制你的表达欲",
+        "onboard_time": 1698253403,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 102360,
+        "num": 102360,
+        "word": "乌镇 男人帮",
+        "onboard_time": 1698243402,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98190,
+        "num": 98190,
+        "word": "天官赐福",
+        "onboard_time": 1698231879,
+        "rank": 26,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 96381,
+        "num": 96381,
+        "word": "郭麒麟回应胖了",
+        "onboard_time": 1698238662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96221,
+        "num": 96221,
+        "word": "李冰冰 周也老板",
+        "onboard_time": 1698244001,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93828,
+        "num": 93828,
+        "word": "TTG止步挑杯八强",
+        "onboard_time": 1698247898,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91774,
+        "num": 91774,
+        "word": "90后夫妻裸婚后同城分居5年",
+        "onboard_time": 1698236075,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90499,
+        "num": 90499,
+        "word": "专家称春节调休不如再加2天假",
+        "onboard_time": 1698231290,
+        "rank": 31,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 90299,
+        "num": 90299,
+        "word": "女明星出圈图",
+        "onboard_time": 1698243164,
+        "rank": 32,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 88529,
+        "num": 88529,
+        "word": "5名工作人员接触到福岛核污染水",
+        "onboard_time": 1698241422,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 85139,
+        "num": 85139,
+        "word": "罗英锡否认新西游记人员不和",
+        "onboard_time": 1698249396,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84468,
+        "num": 84468,
+        "word": "你好种地少年定档",
+        "onboard_time": 1698248498,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84046,
+        "num": 84046,
+        "word": "撒贝宁称自己是北大方便面系博士",
+        "onboard_time": 1698243704,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 76864,
+        "num": 76864,
+        "word": "狼队战胜TTG",
+        "onboard_time": 1698247840,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76528,
+        "num": 76528,
+        "word": "5万元冰箱起火准新娘命丧婚房",
+        "onboard_time": 1698239980,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 74642,
+        "num": 74642,
+        "word": "秦始皇陵西墓葬发现罕见6只绵羊羊车",
+        "onboard_time": 1698240580,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 73093,
+        "num": 73093,
+        "word": "街舞6官宣3天预约破百万",
+        "onboard_time": 1698248796,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72451,
+        "num": 72451,
+        "word": "88岁学霸爷爷把自己活成了一道光",
+        "onboard_time": 1698250054,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72222,
+        "num": 72222,
+        "word": "宝宝 现在的父母太狗了",
+        "onboard_time": 1698246463,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70871,
+        "num": 70871,
+        "word": "刘耀文冷脸学长",
+        "onboard_time": 1698248737,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 66539,
+        "num": 66539,
+        "word": "田耕纪 番外",
+        "onboard_time": 1698243102,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 61857,
+        "num": 61857,
+        "word": "王一博染回黑发了",
+        "onboard_time": 1698232304,
+        "rank": 45,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 60775,
+        "num": 60775,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 46,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 58320,
+        "num": 58320,
+        "word": "徐穗珍回来了",
+        "onboard_time": 1698228099,
+        "rank": 47,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 58216,
+        "num": 58216,
+        "word": "我的老婆在外面哄别的女孩纸",
+        "onboard_time": 1698242620,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57015,
+        "num": 57015,
+        "word": "巴以冲突已致双方超7200人死亡",
+        "onboard_time": 1698254002,
+        "rank": 49,
+        "category": "国外要闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同哥伦比亚总统会谈#"
+    }
+  }
+}
