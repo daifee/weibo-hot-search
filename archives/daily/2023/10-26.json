@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698254083378,
+  "endTime": 1698255245544,
   "band_list": [
     {
       "raw_hot": 1611941,
@@ -131,8 +131,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 284784,
-      "num": 284784,
+      "raw_hot": 286251,
+      "num": 286251,
       "word": "第一批过年回家的选手已经十月辞职了",
       "onboard_time": 1698251487,
       "rank": 37,
@@ -251,6 +251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 200580,
+      "num": 200580,
+      "word": "余华 学会克制你的表达欲",
+      "onboard_time": 1698253403,
+      "rank": 24,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 197916,
       "num": 197916,
       "word": "90后夫妻裸婚后同城分居5年",
@@ -265,6 +273,14 @@
       "onboard_time": 1698249396,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 192548,
+      "num": 145845,
+      "word": "巴以冲突已致双方超7200人死亡",
+      "onboard_time": 1698254002,
+      "rank": 49,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 181493,
@@ -403,14 +419,6 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 106152,
-      "num": 106152,
-      "word": "余华 学会克制你的表达欲",
-      "onboard_time": 1698253403,
-      "rank": 24,
-      "category": "读书作家"
-    },
-    {
       "raw_hot": 104706,
       "num": 104706,
       "word": "白鹿抱黏黏上班",
@@ -419,12 +427,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97197,
+      "num": 97197,
+      "word": "对南方孩子来说冲击力太大了",
+      "onboard_time": 1698254121,
+      "rank": 23,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 66539,
       "num": 66539,
       "word": "田耕纪 番外",
       "onboard_time": 1698243102,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64053,
+      "num": 64053,
+      "word": "微博竞燃之夜",
+      "onboard_time": 1698254482,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 63445,
+      "num": 63445,
+      "word": "我收拾收拾去福建一趟",
+      "onboard_time": 1698254901,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 58320,
@@ -441,14 +473,6 @@
       "onboard_time": 1698242620,
       "rank": 48,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 57015,
-      "num": 57015,
-      "word": "巴以冲突已致双方超7200人死亡",
-      "onboard_time": 1698254002,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 39962,
