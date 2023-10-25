@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698207619380,
+  "endTime": 1698208452492,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 3932204,
-      "num": 3932204,
+      "raw_hot": 4101774,
+      "num": 4101774,
       "word": "大杨哥怒批李佳琦挟持商家",
       "onboard_time": 1698205236,
       "rank": 3,
@@ -43,6 +43,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2000547,
+      "num": 2000547,
+      "word": "国家发改委回应2024年放假安排",
+      "onboard_time": 1698205658,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1987341,
       "num": 1829177,
       "word": "李佳琦公司美ONE合同细则曝光",
@@ -51,20 +59,28 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 1849160,
-      "num": 1849160,
-      "word": "国家发改委回应2024年放假安排",
-      "onboard_time": 1698205658,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 1610007,
       "num": 1610007,
       "word": "调休",
       "onboard_time": 1698199773,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1562037,
+      "num": 1562037,
+      "word": "徐明浩 瑞幸",
+      "onboard_time": 1698207044,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1399749,
+      "num": 1399749,
+      "word": "除夕A股正常开市",
+      "onboard_time": 1698206561,
+      "rank": 6,
+      "category": "财经"
     },
     {
       "raw_hot": 1343408,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 987293,
-      "num": 466026,
+      "num": 481722,
       "word": "安妮海瑟薇为什么突然老了",
       "onboard_time": 1698205299,
       "rank": 10,
@@ -123,14 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 926293,
-      "num": 926293,
-      "word": "除夕A股正常开市",
-      "onboard_time": 1698206561,
-      "rank": 6,
-      "category": "财经"
-    },
-    {
       "raw_hot": 879707,
       "num": 879707,
       "word": "外媒曝侯孝贤患失智症",
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 871735,
-      "num": 330687,
+      "num": 360148,
       "word": "韩国春节假期补休",
       "onboard_time": 1698203978,
       "rank": 10,
@@ -195,20 +203,20 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 638374,
-      "num": 638374,
-      "word": "徐明浩 瑞幸",
-      "onboard_time": 1698207044,
-      "rank": 7,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 609378,
       "num": 609378,
       "word": "花少5 氛围",
       "onboard_time": 1698195453,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 586365,
+      "num": 467727,
+      "word": "赵丽颖蛋卷发",
+      "onboard_time": 1698205236,
+      "rank": 12,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 580483,
@@ -235,12 +243,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 571801,
-      "num": 447418,
-      "word": "赵丽颖蛋卷发",
-      "onboard_time": 1698205236,
-      "rank": 12,
-      "category": "作品衍生,时尚"
+      "raw_hot": 569659,
+      "num": 466543,
+      "word": "京东高管回应采销喊话李佳琦",
+      "onboard_time": 1698208001,
+      "rank": 13,
+      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 561746,
@@ -252,7 +260,7 @@
     },
     {
       "raw_hot": 560296,
-      "num": 431817,
+      "num": 455795,
       "word": "你愿意除夕请年假吗",
       "onboard_time": 1698202717,
       "rank": 14,
@@ -273,6 +281,14 @@
       "onboard_time": 1698159576,
       "rank": 4,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 521760,
+      "num": 521760,
+      "word": "最好的医丑",
+      "onboard_time": 1698206379,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 474430,
@@ -297,6 +313,14 @@
       "onboard_time": 1698163413,
       "rank": 20,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 453882,
+      "num": 453882,
+      "word": "胡锡进 春节休假延长趋势已摆出",
+      "onboard_time": 1698205598,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 453821,
@@ -331,20 +355,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 430950,
-      "num": 430950,
-      "word": "胡锡进 春节休假延长趋势已摆出",
-      "onboard_time": 1698205598,
-      "rank": 14,
+      "raw_hot": 413246,
+      "num": 356764,
+      "word": "秦海璐说AA制就是个笑话",
+      "onboard_time": 1698207403,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 405437,
+      "num": 405437,
+      "word": "今年要换电脑的都先冷静一下",
+      "onboard_time": 1698206379,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
-      "raw_hot": 394771,
-      "num": 394771,
-      "word": "最好的医丑",
-      "onboard_time": 1698206379,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 393941,
+      "num": 393941,
+      "word": "调休是因为不得不调但更人性化更灵活",
+      "onboard_time": 1698205299,
+      "rank": 18,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 392424,
@@ -363,19 +395,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 377279,
+      "num": 377279,
+      "word": "哈文悼念李咏去世五周年",
+      "onboard_time": 1698206979,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 376285,
       "num": 367181,
       "word": "春节调休",
       "onboard_time": 1698201101,
       "rank": 22,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 366760,
-      "num": 366760,
-      "word": "今年要换电脑的都先冷静一下",
-      "onboard_time": 1698206379,
-      "rank": 16,
       "category": "社会新闻"
     },
     {
@@ -385,14 +417,6 @@
       "onboard_time": 1698206260,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 359849,
-      "num": 359849,
-      "word": "调休是因为不得不调但更人性化更灵活",
-      "onboard_time": 1698205299,
-      "rank": 18,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 358765,
@@ -417,6 +441,14 @@
       "onboard_time": 1698203141,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 348040,
+      "num": 348040,
+      "word": "papi酱形容傅首尔和老刘的关系",
+      "onboard_time": 1698204938,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 337856,
@@ -449,14 +481,6 @@
       "onboard_time": 1698201339,
       "rank": 15,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325112,
-      "num": 325112,
-      "word": "papi酱形容傅首尔和老刘的关系",
-      "onboard_time": 1698204938,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 317058,
@@ -505,14 +529,6 @@
       "onboard_time": 1698149620,
       "rank": 8,
       "category": "财经"
-    },
-    {
-      "raw_hot": 292522,
-      "num": 292522,
-      "word": "哈文悼念李咏去世五周年",
-      "onboard_time": 1698206979,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 291660,
@@ -619,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254491,
+      "num": 254491,
+      "word": "凤凰传奇 现在歌曲只火三个月",
+      "onboard_time": 1698204576,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253681,
       "num": 201714,
       "word": "理发师的剪刀有多贵",
@@ -635,8 +659,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 252299,
-      "num": 252299,
+      "raw_hot": 253187,
+      "num": 253187,
       "word": "底价协议",
       "onboard_time": 1698206923,
       "rank": 29,
@@ -651,12 +675,12 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 248118,
-      "num": 248118,
-      "word": "凤凰传奇 现在歌曲只火三个月",
-      "onboard_time": 1698204576,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 247458,
+      "num": 247458,
+      "word": "上海交大研究称太极拳可抑制帕金森",
+      "onboard_time": 1698206979,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 241509,
@@ -665,6 +689,14 @@
       "onboard_time": 1698204160,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 237498,
+      "num": 237498,
+      "word": "我在女足赛场外免费派发卫生巾",
+      "onboard_time": 1698207763,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 234155,
@@ -755,14 +787,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 220310,
-      "num": 220310,
-      "word": "上海交大研究称太极拳可抑制帕金森",
-      "onboard_time": 1698206979,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 219446,
       "num": 219446,
       "word": "花知晓腮红",
@@ -785,6 +809,22 @@
       "onboard_time": 1698189927,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 212640,
+      "num": 212640,
+      "word": "大杨哥质问出身农村不能变有钱吗",
+      "onboard_time": 1698207763,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 212444,
+      "num": 212444,
+      "word": "胡锡进发文评除夕不放假",
+      "onboard_time": 1698207943,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212139,
@@ -811,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 207187,
+      "num": 4655563,
+      "word": "他认真唱国歌的样子太帅了",
+      "onboard_time": 1698206923,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 203300,
       "num": 203300,
       "word": "田耕纪的结局连主演都不知道",
@@ -819,12 +867,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200951,
+      "num": 200951,
+      "word": "今年春节为什么这么调",
+      "onboard_time": 1698207880,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 200412,
       "num": 200412,
       "word": "双十一 满减",
       "onboard_time": 1698151477,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 200267,
+      "num": 200267,
+      "word": "这就是街舞6宣传片",
+      "onboard_time": 1698207943,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 199210,
@@ -865,6 +929,14 @@
       "onboard_time": 1698206743,
       "rank": 37,
       "category": "数码"
+    },
+    {
+      "raw_hot": 190904,
+      "num": 190904,
+      "word": "原神4.2版本直播",
+      "onboard_time": 1698208122,
+      "rank": 42,
+      "category": "游戏"
     },
     {
       "raw_hot": 190632,
@@ -929,6 +1001,14 @@
       "onboard_time": 1698200315,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183881,
+      "num": 183881,
+      "word": "儿子工地脑出血父亲通宵守在ICU",
+      "onboard_time": 1698208063,
+      "rank": 44,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 183214,
@@ -1049,14 +1129,6 @@
       "onboard_time": 1698202300,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 169369,
-      "num": 169369,
-      "word": "秦海璐说AA制就是个笑话",
-      "onboard_time": 1698207403,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 167008,
@@ -1371,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 119539,
-      "num": 4363956,
-      "word": "他认真唱国歌的样子太帅了",
-      "onboard_time": 1698206923,
-      "rank": 2,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 118971,
       "num": 118971,
       "word": "这种美发方式很致癌",
@@ -1643,8 +1707,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 41787,
-      "num": 223997,
+      "raw_hot": 55160,
+      "num": 237309,
       "word": "曾舜晞居家型男友",
       "onboard_time": 1698206499,
       "rank": 32,
