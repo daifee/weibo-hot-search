@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698255245544,
+  "endTime": 1698258054516,
   "band_list": [
     {
       "raw_hot": 1611941,
@@ -259,6 +259,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 199587,
+      "num": 145845,
+      "word": "巴以冲突已致双方超7200人死亡",
+      "onboard_time": 1698254002,
+      "rank": 49,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 197916,
       "num": 197916,
       "word": "90后夫妻裸婚后同城分居5年",
@@ -273,14 +281,6 @@
       "onboard_time": 1698249396,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192548,
-      "num": 145845,
-      "word": "巴以冲突已致双方超7200人死亡",
-      "onboard_time": 1698254002,
-      "rank": 49,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 181493,
@@ -395,6 +395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 117309,
+      "num": 117309,
+      "word": "对南方孩子来说冲击力太大了",
+      "onboard_time": 1698254121,
+      "rank": 23,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 115896,
       "num": 115896,
       "word": "秦海璐 我结婚了没关系",
@@ -425,14 +433,6 @@
       "onboard_time": 1698249217,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 97197,
-      "num": 97197,
-      "word": "对南方孩子来说冲击力太大了",
-      "onboard_time": 1698254121,
-      "rank": 23,
-      "category": "休闲"
     },
     {
       "raw_hot": 66539,
@@ -481,6 +481,30 @@
       "onboard_time": 1698238361,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 37741,
+      "num": 37741,
+      "word": "毛晓彤台词里的力量感",
+      "onboard_time": 1698255558,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 26489,
+      "num": 36859,
+      "word": "迪丽热巴贴心旅行搭子",
+      "onboard_time": 1698256218,
+      "rank": 47,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 24620,
+      "num": 36859,
+      "word": "狼队对战TTG",
+      "onboard_time": 1698234877,
+      "rank": 48,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
