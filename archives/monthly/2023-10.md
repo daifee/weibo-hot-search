@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/25 19:14:49
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/25 19:34:16
 </p>
 </blockquote>
 <p>
@@ -3531,6 +3531,12 @@ IVE空降（热度：1376713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%A6%84%E9%A5%A8%E9%98%BF%E5%A7%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
+西南科技大学馄饨阿姨事件（热度：1370139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%BF%E8%AE%A4iPhone15%E5%AD%98%E5%9C%A8%E7%83%A7%E5%B1%8F%E9%97%AE%E9%A2%98%23" target="weibo">
 苹果承认iPhone15存在烧屏问题（热度：1368106）
 </a>
@@ -4115,12 +4121,6 @@ KT战胜WBG（热度：1279678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%9C%E7%99%BB%E7%A7%B0%E5%BF%85%E9%A1%BB%E5%BD%BB%E5%BA%95%E6%B6%88%E7%81%AD%E5%93%88%E9%A9%AC%E6%96%AF%23" target="weibo">
 拜登称必须彻底消灭哈马斯（热度：1242015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%8D%97%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E9%A6%84%E9%A5%A8%E9%98%BF%E5%A7%A8%E4%BA%8B%E4%BB%B6%23" target="weibo">
-西南科技大学馄饨阿姨事件（热度：1238143）
 </a>
 </li>
 

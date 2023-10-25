@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698232489918,
+  "endTime": 1698233656733,
   "band_list": [
     {
       "raw_hot": 10661165,
@@ -131,6 +131,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1370139,
+      "num": 680723,
+      "word": "西南科技大学馄饨阿姨事件",
+      "onboard_time": 1698229778,
+      "rank": 38,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1343408,
       "num": 426954,
       "word": "上海通报网传民警上门抓德牧",
@@ -145,14 +153,6 @@
       "onboard_time": 1698216815,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1238143,
-      "num": 680723,
-      "word": "西南科技大学馄饨阿姨事件",
-      "onboard_time": 1698229778,
-      "rank": 38,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1220244,
@@ -355,6 +355,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 790923,
+      "num": 790923,
+      "word": "BIGBANG",
+      "onboard_time": 1698231349,
+      "rank": 8,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 790651,
       "num": 470432,
       "word": "刘嘉玲拍的梁朝伟王菲",
@@ -377,14 +385,6 @@
       "onboard_time": 1698205598,
       "rank": 14,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 746398,
-      "num": 746398,
-      "word": "BIGBANG",
-      "onboard_time": 1698231349,
-      "rank": 8,
-      "category": "艺人"
     },
     {
       "raw_hot": 737628,
@@ -417,6 +417,22 @@
       "onboard_time": 1698222217,
       "rank": 6,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 664741,
+      "num": 580866,
+      "word": "王一博染回黑发了",
+      "onboard_time": 1698232304,
+      "rank": 15,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 656217,
+      "num": 656217,
+      "word": "广东一学校近700名新生集体退学",
+      "onboard_time": 1698232064,
+      "rank": 26,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 653550,
@@ -483,14 +499,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 580866,
-      "num": 580866,
-      "word": "王一博染回黑发了",
-      "onboard_time": 1698232304,
-      "rank": 15,
-      "category": "艺人,时尚"
-    },
-    {
       "raw_hot": 580483,
       "num": 285759,
       "word": "海氏电器实名举报京东",
@@ -523,12 +531,28 @@
       "category": "健康医疗,知识科普"
     },
     {
+      "raw_hot": 563792,
+      "num": 563792,
+      "word": "专家称春节调休不如再加2天假",
+      "onboard_time": 1698231290,
+      "rank": 20,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 561746,
       "num": 561746,
       "word": "断崖式衰老",
       "onboard_time": 1698205839,
       "rank": 8,
       "category": "情感"
+    },
+    {
+      "raw_hot": 560755,
+      "num": 2359130,
+      "word": "女生独自做完手术获陌生人安慰落泪",
+      "onboard_time": 1698231527,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 560296,
@@ -553,6 +577,14 @@
       "onboard_time": 1698188843,
       "rank": 5,
       "category": "数码"
+    },
+    {
+      "raw_hot": 547421,
+      "num": 547421,
+      "word": "田耕纪结局",
+      "onboard_time": 1698232785,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 547050,
@@ -635,6 +667,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 456950,
+      "num": 456950,
+      "word": "辱骂新加坡护士的中国女子判了",
+      "onboard_time": 1698231647,
+      "rank": 24,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 453821,
       "num": 373480,
       "word": "张雪峰 惹谁都不要惹知识分子",
@@ -665,14 +705,6 @@
       "onboard_time": 1698216755,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 443146,
-      "num": 443146,
-      "word": "专家称春节调休不如再加2天假",
-      "onboard_time": 1698231290,
-      "rank": 20,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 436769,
@@ -827,14 +859,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 353954,
-      "num": 353954,
-      "word": "辱骂新加坡护士的中国女子判了",
-      "onboard_time": 1698231647,
-      "rank": 24,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 353639,
       "num": 353639,
       "word": "库里抹护手霜",
@@ -963,14 +987,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 318491,
-      "num": 1107598,
-      "word": "女生独自做完手术获陌生人安慰落泪",
-      "onboard_time": 1698231527,
-      "rank": 4,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 318465,
       "num": 318465,
       "word": "金戒指戴右手中指 招财",
@@ -993,14 +1009,6 @@
       "onboard_time": 1698144334,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 315903,
-      "num": 315903,
-      "word": "广东一学校近700名新生集体退学",
-      "onboard_time": 1698232064,
-      "rank": 26,
-      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 315093,
@@ -1195,12 +1203,28 @@
       "category": "游戏,运动健身"
     },
     {
+      "raw_hot": 273280,
+      "num": 273280,
+      "word": "被狗咬女童未使用善款将全退回",
+      "onboard_time": 1698233440,
+      "rank": 26,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272815,
       "num": 272815,
       "word": "赵露思7年前火星情报局生图",
       "onboard_time": 1698191972,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 270041,
+      "num": 270041,
+      "word": "天官赐福",
+      "onboard_time": 1698231879,
+      "rank": 30,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 269889,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1698201461,
       "rank": 18,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 261055,
-      "num": 261055,
-      "word": "天官赐福",
-      "onboard_time": 1698231879,
-      "rank": 30,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 260739,
@@ -1555,6 +1571,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 219421,
+      "num": 219421,
+      "word": "小米14",
+      "onboard_time": 1698232304,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 218881,
       "num": 218881,
       "word": "毛吉吉粉扑",
@@ -1729,6 +1753,14 @@
       "onboard_time": 1698207943,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199499,
+      "num": 199499,
+      "word": "权志龙曾说绝对不能去检察院第二次",
+      "onboard_time": 1698233502,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 199210,
@@ -1955,6 +1987,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 178539,
+      "num": 1199982,
+      "word": "12岁男孩心疼父母课余时间到饭店帮厨",
+      "onboard_time": 1698229536,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 178469,
       "num": 178469,
       "word": "汤洪波成为重返天宫第一人",
@@ -2091,14 +2131,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166267,
-      "num": 1199982,
-      "word": "12岁男孩心疼父母课余时间到饭店帮厨",
-      "onboard_time": 1698229536,
-      "rank": 6,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 165299,
       "num": 165299,
       "word": "长中庭精致妆容",
@@ -2225,14 +2257,6 @@
       "onboard_time": 1698205962,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 146451,
-      "num": 146451,
-      "word": "小米14",
-      "onboard_time": 1698232304,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 145474,
@@ -2443,6 +2467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129507,
+      "num": 129507,
+      "word": "徐明浩8号旅馆混剪",
+      "onboard_time": 1698233079,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 128417,
       "num": 128417,
       "word": "王心凌 最甜的无锡最甜的你们",
@@ -2547,8 +2579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116889,
-      "num": 517924,
+      "raw_hot": 116988,
+      "num": 550521,
       "word": "这车语音成精了吧",
       "onboard_time": 1698231167,
       "rank": 17,
@@ -2664,6 +2696,14 @@
       "word": "浙江107岁老人坚持每天上山种地",
       "onboard_time": 1698188664,
       "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 103088,
+      "num": 839768,
+      "word": "男子花1000元租吊车救下被困流浪猫",
+      "onboard_time": 1698230629,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
