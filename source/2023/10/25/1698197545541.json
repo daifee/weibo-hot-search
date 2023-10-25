@@ -1,0 +1,410 @@
+{
+  "runTime": 1698197545541,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2100096,
+        "num": 2100096,
+        "word": "教室反光老师要求安窗帘校长被停职",
+        "onboard_time": 1698190830,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 965096,
+        "num": 965096,
+        "word": "年轻人开始整顿份子钱",
+        "onboard_time": 1698195453,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 100117,
+        "num": 963005,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1818937,
+        "num": 962710,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 3,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 961701,
+        "num": 961701,
+        "word": "中学老师批改作业写下你是孤儿吗评语",
+        "onboard_time": 1698188724,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 969595,
+        "num": 922679,
+        "word": "以色列要求古特雷斯辞职",
+        "onboard_time": 1698195217,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 873923,
+        "num": 873923,
+        "word": "王睡睡 人不要不知感恩",
+        "onboard_time": 1698191551,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 627456,
+        "num": 627456,
+        "word": "外媒曝侯孝贤患失智症",
+        "onboard_time": 1698189265,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609378,
+        "num": 609378,
+        "word": "花少5 氛围",
+        "onboard_time": 1698195453,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449320,
+        "num": 449320,
+        "word": "巴以冲突致加沙2360名儿童死亡",
+        "onboard_time": 1698195334,
+        "rank": 9,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1123865,
+        "num": 426954,
+        "word": "上海通报网传民警上门抓德牧",
+        "onboard_time": 1698190768,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 403732,
+        "num": 403732,
+        "word": "李佳琦直播间时隔43天再次带货花西子",
+        "onboard_time": 1698130413,
+        "rank": 11,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 399173,
+        "num": 399173,
+        "word": "国防部回应美发布中国军事安全报告",
+        "onboard_time": 1698194257,
+        "rank": 12,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 378012,
+        "num": 378012,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 13,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 337334,
+        "num": 337334,
+        "word": "白敬亭何泓姗二搭爷青回",
+        "onboard_time": 1698159576,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 317058,
+        "num": 317058,
+        "word": "iPhone15Pro系列满意度创新低",
+        "onboard_time": 1698195155,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 281319,
+        "num": 281319,
+        "word": "双十一 洗发水",
+        "onboard_time": 1698161673,
+        "rank": 16,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 275198,
+        "num": 275198,
+        "word": "赵寅成近照状态",
+        "onboard_time": 1698191972,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251042,
+        "num": 251042,
+        "word": "校方回应老师改作业写你是孤儿吗评语",
+        "onboard_time": 1698191010,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 249085,
+        "num": 249085,
+        "word": "神十七26日11时14分发射",
+        "onboard_time": 1698197071,
+        "rank": 19,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 554390,
+        "num": 247995,
+        "word": "当男朋友知道我存款快六位数时",
+        "onboard_time": 1698195096,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 335647,
+        "num": 247473,
+        "word": "高铁乘客爽快给孩子们换座被奖励可乐",
+        "onboard_time": 1698189807,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 245229,
+        "num": 245229,
+        "word": "周迅 把我跟拖垃圾袋一样拖上来",
+        "onboard_time": 1698152555,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232996,
+        "num": 232996,
+        "word": "神十七航天员乘组公布",
+        "onboard_time": 1698196532,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 228703,
+        "num": 228703,
+        "word": "Hoshi新ins 仓鼠",
+        "onboard_time": 1698196772,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224372,
+        "num": 224372,
+        "word": "突然发现脆柿子也很好吃",
+        "onboard_time": 1698190349,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 222154,
+        "num": 222154,
+        "word": "赵露思7年前火星情报局生图",
+        "onboard_time": 1698191972,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209158,
+        "num": 209158,
+        "word": "神十七新闻发布会",
+        "onboard_time": 1698197136,
+        "rank": 27,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 207972,
+        "num": 207972,
+        "word": "海氏电器实名举报京东",
+        "onboard_time": 1698157958,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 200375,
+        "num": 200375,
+        "word": "周也 恶女人设",
+        "onboard_time": 1698194916,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190632,
+        "num": 190632,
+        "word": "秦海璐骑车时有多优雅下车时就多潦草",
+        "onboard_time": 1698196651,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186124,
+        "num": 186124,
+        "word": "我国将增发1万亿元国债",
+        "onboard_time": 1698149620,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 180911,
+        "num": 180911,
+        "word": "彭昱畅对黄晓明说活该你红",
+        "onboard_time": 1698191914,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178469,
+        "num": 178469,
+        "word": "汤洪波成为重返天宫第一人",
+        "onboard_time": 1698197371,
+        "rank": 33,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 175220,
+        "num": 175220,
+        "word": "孙女悄悄给爷爷准备重阳老友聚会",
+        "onboard_time": 1698197136,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 172692,
+        "num": 172692,
+        "word": "想拍戚薇跟拍还是练练吧",
+        "onboard_time": 1698191914,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 166411,
+        "num": 166411,
+        "word": "知道了什么是钩子一样的眼神",
+        "onboard_time": 1698197013,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 160621,
+        "num": 160621,
+        "word": "田曦薇说和曾舜晞合作很默契",
+        "onboard_time": 1698196056,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139951,
+        "num": 139951,
+        "word": "妹妹晕倒哥哥飞奔找到值得信赖的人",
+        "onboard_time": 1698188724,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 139534,
+        "num": 139534,
+        "word": "关于肺炎支原体10个热点问答",
+        "onboard_time": 1698193957,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139413,
+        "num": 139413,
+        "word": "能成功通过任何考试的步骤",
+        "onboard_time": 1698191070,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138223,
+        "num": 138223,
+        "word": "问心 第二季",
+        "onboard_time": 1698163413,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131299,
+        "num": 131299,
+        "word": "张艺兴自己P的眼镜",
+        "onboard_time": 1698192273,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130393,
+        "num": 130393,
+        "word": "张凌赫冷脸照",
+        "onboard_time": 1698193295,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129970,
+        "num": 129970,
+        "word": "马晓龙编舞",
+        "onboard_time": 1698197191,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129774,
+        "num": 129774,
+        "word": "13张绝版照片曝光纪念最可爱的人",
+        "onboard_time": 1698196595,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128539,
+        "num": 128539,
+        "word": "宝爸口含冰棍给生病宝宝人工降温",
+        "onboard_time": 1698189807,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 128123,
+        "num": 128123,
+        "word": "掘金领取总冠军戒指",
+        "onboard_time": 1698194438,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128059,
+        "num": 128059,
+        "word": "吴彦祖来配眼镜老板娘手足无措",
+        "onboard_time": 1698192815,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127871,
+        "num": 127871,
+        "word": "日版隐秘的角落预告片",
+        "onboard_time": 1698196174,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698196312577,
+  "endTime": 1698197545541,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -4748,7 +4748,7 @@
     },
     {
       "raw_hot": 1343408,
-      "num": 389956,
+      "num": 426954,
       "word": "上海通报网传民警上门抓德牧",
       "onboard_time": 1698153640,
       "rank": 42,
@@ -7459,6 +7459,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 969595,
+      "num": 922679,
+      "word": "以色列要求古特雷斯辞职",
+      "onboard_time": 1698195217,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 969433,
       "num": 491345,
       "word": "吃了一把怀孕的阳光玫瑰",
@@ -7520,6 +7528,14 @@
       "word": "日媒炒作中国人赴日旅游热",
       "onboard_time": 1696323093,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 965096,
+      "num": 965096,
+      "word": "年轻人开始整顿份子钱",
+      "onboard_time": 1698195453,
+      "rank": 17,
       "category": "社会新闻"
     },
     {
@@ -10105,14 +10121,6 @@
       "onboard_time": 1697526093,
       "rank": 20,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 783527,
-      "num": 783527,
-      "word": "以色列要求古特雷斯辞职",
-      "onboard_time": 1698195217,
-      "rank": 6,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 783449,
@@ -13913,6 +13921,14 @@
       "onboard_time": 1696666959,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 609378,
+      "num": 609378,
+      "word": "花少5 氛围",
+      "onboard_time": 1698195453,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 609020,
@@ -20339,6 +20355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 449320,
+      "num": 449320,
+      "word": "巴以冲突致加沙2360名儿童死亡",
+      "onboard_time": 1698195334,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 449301,
       "num": 449301,
       "word": "周杰伦演唱会偶遇张雨绮",
@@ -21084,7 +21108,7 @@
     },
     {
       "raw_hot": 436769,
-      "num": 359029,
+      "num": 399173,
       "word": "国防部回应美发布中国军事安全报告",
       "onboard_time": 1698194257,
       "rank": 12,
@@ -22433,14 +22457,6 @@
       "onboard_time": 1696470455,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 409320,
-      "num": 409320,
-      "word": "花少5 氛围",
-      "onboard_time": 1698195453,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 409240,
@@ -29115,6 +29131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 317058,
+      "num": 317058,
+      "word": "iPhone15Pro系列满意度创新低",
+      "onboard_time": 1698195155,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 316967,
       "num": 316967,
       "word": "张镇麟踢广告牌",
@@ -29353,14 +29377,6 @@
       "onboard_time": 1697875471,
       "rank": 24,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 314466,
-      "num": 314466,
-      "word": "巴以冲突致加沙2360名儿童死亡",
-      "onboard_time": 1698195334,
-      "rank": 16,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 314443,
@@ -30857,14 +30873,6 @@
       "onboard_time": 1696334737,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298273,
-      "num": 298273,
-      "word": "年轻人开始整顿份子钱",
-      "onboard_time": 1698195453,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 298224,
@@ -36963,6 +36971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 249085,
+      "num": 249085,
+      "word": "神十七26日11时14分发射",
+      "onboard_time": 1698197071,
+      "rank": 19,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 249024,
       "num": 249024,
       "word": "薛之谦木偶妆",
@@ -37681,14 +37697,6 @@
       "onboard_time": 1696910623,
       "rank": 33,
       "category": "社会新闻,财经"
-    },
-    {
-      "raw_hot": 244632,
-      "num": 244632,
-      "word": "iPhone15Pro系列满意度创新低",
-      "onboard_time": 1698195155,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 244512,
@@ -39427,6 +39435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232996,
+      "num": 232996,
+      "word": "神十七航天员乘组公布",
+      "onboard_time": 1698196532,
+      "rank": 23,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 232982,
       "num": 232982,
       "word": "南阳迷笛",
@@ -40073,6 +40089,14 @@
       "onboard_time": 1696210288,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 228703,
+      "num": 228703,
+      "word": "Hoshi新ins 仓鼠",
+      "onboard_time": 1698196772,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 228700,
@@ -43473,6 +43497,14 @@
       "onboard_time": 1696385674,
       "rank": 35,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 209158,
+      "num": 209158,
+      "word": "神十七新闻发布会",
+      "onboard_time": 1698197136,
+      "rank": 27,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 209112,
@@ -48803,6 +48835,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 190632,
+      "num": 190632,
+      "word": "秦海璐骑车时有多优雅下车时就多潦草",
+      "onboard_time": 1698196651,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190613,
       "num": 190613,
       "word": "王曼昱3比0吴咏琳",
@@ -51715,6 +51755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 178469,
+      "num": 178469,
+      "word": "汤洪波成为重返天宫第一人",
+      "onboard_time": 1698197371,
+      "rank": 33,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 178440,
       "num": 178440,
       "word": "胡彦斌披荆斩棘票数",
@@ -52353,6 +52401,14 @@
       "onboard_time": 1697330189,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175220,
+      "num": 175220,
+      "word": "孙女悄悄给爷爷准备重阳老友聚会",
+      "onboard_time": 1698197136,
+      "rank": 34,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 175205,
@@ -54137,6 +54193,14 @@
       "onboard_time": 1697028215,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 166411,
+      "num": 166411,
+      "word": "知道了什么是钩子一样的眼神",
+      "onboard_time": 1698197013,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 166386,
@@ -60955,6 +61019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129970,
+      "num": 129970,
+      "word": "马晓龙编舞",
+      "onboard_time": 1698197191,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129876,
       "num": 129876,
       "word": "消防员送迷路仨月的马鹿回家啦",
@@ -60969,6 +61041,14 @@
       "onboard_time": 1696970534,
       "rank": 24,
       "category": "情感"
+    },
+    {
+      "raw_hot": 129774,
+      "num": 129774,
+      "word": "13张绝版照片曝光纪念最可爱的人",
+      "onboard_time": 1698196595,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 129649,

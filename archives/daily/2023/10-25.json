@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698196312577,
+  "endTime": 1698197545541,
   "band_list": [
     {
       "raw_hot": 2174607,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1343408,
-      "num": 389956,
+      "num": 426954,
       "word": "上海通报网传民警上门抓德牧",
       "onboard_time": 1698190768,
       "rank": 10,
@@ -33,6 +33,22 @@
       "onboard_time": 1698188724,
       "rank": 20,
       "category": "教育"
+    },
+    {
+      "raw_hot": 969595,
+      "num": 922679,
+      "word": "以色列要求古特雷斯辞职",
+      "onboard_time": 1698195217,
+      "rank": 6,
+      "category": "国外要闻"
+    },
+    {
+      "raw_hot": 965096,
+      "num": 965096,
+      "word": "年轻人开始整顿份子钱",
+      "onboard_time": 1698195453,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 931574,
@@ -75,20 +91,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 783527,
-      "num": 783527,
-      "word": "以色列要求古特雷斯辞职",
-      "onboard_time": 1698195217,
-      "rank": 6,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 641772,
-      "num": 375410,
+      "num": 378012,
       "word": "李佳琦直播间称从未要求品牌二选一",
       "onboard_time": 1698144754,
       "rank": 10,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 609378,
+      "num": 609378,
+      "word": "花少5 氛围",
+      "onboard_time": 1698195453,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 580483,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 469896,
-      "num": 336853,
+      "num": 403732,
       "word": "李佳琦直播间时隔43天再次带货花西子",
       "onboard_time": 1698130413,
       "rank": 12,
@@ -147,20 +163,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 449320,
+      "num": 449320,
+      "word": "巴以冲突致加沙2360名儿童死亡",
+      "onboard_time": 1698195334,
+      "rank": 16,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 436769,
-      "num": 359029,
+      "num": 399173,
       "word": "国防部回应美发布中国军事安全报告",
       "onboard_time": 1698194257,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 409320,
-      "num": 409320,
-      "word": "花少5 氛围",
-      "onboard_time": 1698195453,
-      "rank": 7,
-      "category": "综艺"
     },
     {
       "raw_hot": 392424,
@@ -195,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 317058,
+      "num": 317058,
+      "word": "iPhone15Pro系列满意度创新低",
+      "onboard_time": 1698195155,
+      "rank": 26,
+      "category": "数码"
+    },
+    {
       "raw_hot": 316332,
       "num": 316332,
       "word": "高校食堂干锅虾28一份有61只虾",
@@ -211,28 +235,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 314466,
-      "num": 314466,
-      "word": "巴以冲突致加沙2360名儿童死亡",
-      "onboard_time": 1698195334,
-      "rank": 16,
-      "category": "国外要闻"
-    },
-    {
       "raw_hot": 301177,
       "num": 301177,
       "word": "不同身材女生穿同款裙子",
       "onboard_time": 1698157536,
       "rank": 7,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 298273,
-      "num": 298273,
-      "word": "年轻人开始整顿份子钱",
-      "onboard_time": 1698195453,
-      "rank": 17,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 295003,
@@ -307,12 +315,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 244632,
-      "num": 244632,
-      "word": "iPhone15Pro系列满意度创新低",
-      "onboard_time": 1698195155,
-      "rank": 26,
-      "category": "数码"
+      "raw_hot": 249085,
+      "num": 249085,
+      "word": "神十七26日11时14分发射",
+      "onboard_time": 1698197071,
+      "rank": 19,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 234155,
@@ -323,12 +331,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 232996,
+      "num": 232996,
+      "word": "神十七航天员乘组公布",
+      "onboard_time": 1698196532,
+      "rank": 23,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 232173,
       "num": 232173,
       "word": "彭昱畅对黄晓明说活该你红",
       "onboard_time": 1698191914,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228703,
+      "num": 228703,
+      "word": "Hoshi新ins 仓鼠",
+      "onboard_time": 1698196772,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 221043,
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209158,
+      "num": 209158,
+      "word": "神十七新闻发布会",
+      "onboard_time": 1698197136,
+      "rank": 27,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 203300,
       "num": 203300,
       "word": "田耕纪的结局连主演都不知道",
@@ -387,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190632,
+      "num": 190632,
+      "word": "秦海璐骑车时有多优雅下车时就多潦草",
+      "onboard_time": 1698196651,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188458,
       "num": 188458,
       "word": "关于肺炎支原体10个热点问答",
@@ -409,6 +449,14 @@
       "onboard_time": 1698139471,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 178469,
+      "num": 178469,
+      "word": "汤洪波成为重返天宫第一人",
+      "onboard_time": 1698197371,
+      "rank": 33,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 178344,
@@ -443,6 +491,14 @@
       "category": "网红,财经"
     },
     {
+      "raw_hot": 175220,
+      "num": 175220,
+      "word": "孙女悄悄给爷爷准备重阳老友聚会",
+      "onboard_time": 1698197136,
+      "rank": 34,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 174465,
       "num": 174465,
       "word": "林心如年轻时的盛世容颜",
@@ -473,6 +529,14 @@
       "onboard_time": 1698194856,
       "rank": 36,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 166411,
+      "num": 166411,
+      "word": "知道了什么是钩子一样的眼神",
+      "onboard_time": 1698197013,
+      "rank": 36,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 161614,
@@ -592,6 +656,22 @@
       "word": "警方破获涉25亿特大跨境赌博案",
       "onboard_time": 1698149620,
       "rank": 29,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 129970,
+      "num": 129970,
+      "word": "马晓龙编舞",
+      "onboard_time": 1698197191,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 129774,
+      "num": 129774,
+      "word": "13张绝版照片曝光纪念最可爱的人",
+      "onboard_time": 1698196595,
+      "rank": 45,
       "category": "社会新闻"
     },
     {
