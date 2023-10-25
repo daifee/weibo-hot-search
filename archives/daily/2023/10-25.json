@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698200592008,
+  "endTime": 1698201260162,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -11,8 +11,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 5988830,
-      "num": 5988830,
+      "raw_hot": 10187270,
+      "num": 10187270,
       "word": "除夕不放假",
       "onboard_time": 1698199355,
       "rank": 1,
@@ -219,20 +219,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 357382,
+      "num": 337045,
+      "word": "双十一笨人现状",
+      "onboard_time": 1698198330,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 355427,
+      "num": 294740,
+      "word": "张雪峰 惹谁都不要惹知识分子",
+      "onboard_time": 1698198630,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 337856,
       "num": 260744,
       "word": "不敢相信这是牛牛工作室拍出来的",
       "onboard_time": 1698161437,
       "rank": 13,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 337045,
-      "num": 337045,
-      "word": "双十一笨人现状",
-      "onboard_time": 1698198330,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 336479,
@@ -291,14 +299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 294740,
-      "num": 294740,
-      "word": "张雪峰 惹谁都不要惹知识分子",
-      "onboard_time": 1698198630,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 291660,
       "num": 222304,
       "word": "王小波是中国最早的程序员之一",
@@ -331,8 +331,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 267233,
-      "num": 267233,
+      "raw_hot": 269889,
+      "num": 269889,
       "word": "大熊猫奂彩",
       "onboard_time": 1698199414,
       "rank": 15,
@@ -369,6 +369,14 @@
       "onboard_time": 1698194916,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 253395,
+      "num": 271800,
+      "word": "小米14全球首发第三代骁龙8",
+      "onboard_time": 1698199232,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 249085,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226489,
+      "num": 226489,
+      "word": "我再也不求老天爷了",
+      "onboard_time": 1698200197,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 221043,
       "num": 221043,
       "word": "想拍戚薇跟拍还是练练吧",
@@ -451,6 +467,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 207772,
+      "num": 172625,
+      "word": "狗狗拉伸时偷偷放了个屁",
+      "onboard_time": 1698200677,
+      "rank": 30,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 203300,
       "num": 203300,
       "word": "田耕纪的结局连主演都不知道",
@@ -467,12 +491,28 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 196797,
-      "num": 196797,
+      "raw_hot": 199210,
+      "num": 199210,
       "word": "知道了什么是钩子一样的眼神",
       "onboard_time": 1698197013,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 197608,
+      "num": 197608,
+      "word": "春节调休",
+      "onboard_time": 1698201101,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 195852,
+      "num": 195852,
+      "word": "为什么无障碍停车位总是被占用",
+      "onboard_time": 1698200439,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 193496,
@@ -531,6 +571,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 183214,
+      "num": 183214,
+      "word": "伊能静说秦霄贤超奶的",
+      "onboard_time": 1698200796,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181662,
       "num": 181662,
       "word": "女子曝15万存款被农行私自改成购买",
@@ -539,12 +587,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 180377,
-      "num": 271800,
-      "word": "小米14全球首发第三代骁龙8",
-      "onboard_time": 1698199232,
-      "rank": 14,
-      "category": "数码"
+      "raw_hot": 179011,
+      "num": 179011,
+      "word": "双十一组队",
+      "onboard_time": 1698200977,
+      "rank": 27,
+      "category": "互联网"
     },
     {
       "raw_hot": 178469,
@@ -627,12 +675,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 163467,
-      "num": 163467,
-      "word": "我再也不求老天爷了",
-      "onboard_time": 1698200197,
-      "rank": 31,
-      "category": "情感"
+      "raw_hot": 162811,
+      "num": 162811,
+      "word": "2024年部分节假日安排公布",
+      "onboard_time": 1698201159,
+      "rank": 32,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 161614,
@@ -681,6 +729,14 @@
       "onboard_time": 1698189387,
       "rank": 39,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 145403,
+      "num": 145403,
+      "word": "找到了整天吃吃喝喝还赚钱的工作",
+      "onboard_time": 1698200977,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 145003,
@@ -843,14 +899,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 121778,
-      "num": 121778,
-      "word": "为什么无障碍停车位总是被占用",
-      "onboard_time": 1698200439,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 121441,
       "num": 121441,
       "word": "国债",
@@ -883,8 +931,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116729,
+      "num": 116729,
+      "word": "小女孩跳舞被吓哭社恐妈妈上台鼓励",
+      "onboard_time": 1698198810,
+      "rank": 49,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 116451,
+      "num": 116451,
+      "word": "2000多年前的神奇动物在西安被发现",
+      "onboard_time": 1698197970,
+      "rank": 41,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 116022,
-      "num": 3574591,
+      "num": 4199214,
       "word": "未成年人网络保护",
       "onboard_time": 1698157478,
       "rank": 2,
@@ -953,14 +1017,6 @@
       "onboard_time": 1698151655,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 106300,
-      "num": 106300,
-      "word": "小女孩跳舞被吓哭社恐妈妈上台鼓励",
-      "onboard_time": 1698198810,
-      "rank": 49,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 105085,

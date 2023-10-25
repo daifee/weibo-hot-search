@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698200592008,
+  "endTime": 1698201260162,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -793,6 +793,14 @@
       "onboard_time": 1688735864,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 10187270,
+      "num": 10187270,
+      "word": "除夕不放假",
+      "onboard_time": 1698199355,
+      "rank": 1,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 10155728,
@@ -2289,14 +2297,6 @@
       "onboard_time": 1696148618,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 5988830,
-      "num": 5988830,
-      "word": "除夕不放假",
-      "onboard_time": 1698199355,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 5962374,
