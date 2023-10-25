@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698273237459,
+  "endTime": 1698275826286,
   "band_list": [
     {
       "raw_hot": 1611941,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1126962,
+      "num": 1126962,
+      "word": "女生半年减肥40斤查出重度脂肪肝",
+      "onboard_time": 1698248558,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1033436,
       "num": 1033436,
       "word": "24岁女生去酒吧被保安当未成年拦下",
@@ -32,14 +40,6 @@
       "word": "西南科技大学馄饨阿姨事件",
       "onboard_time": 1698229778,
       "rank": 11,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 865136,
-      "num": 865136,
-      "word": "女生半年减肥40斤查出重度脂肪肝",
-      "onboard_time": 1698248558,
-      "rank": 12,
       "category": "社会新闻"
     },
     {
@@ -75,11 +75,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383206,
+      "num": 383206,
+      "word": "苏有朋林心如综艺合体",
+      "onboard_time": 1698267853,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 360417,
       "num": 243263,
       "word": "染上毒瘾后外貌的真实变化",
       "onboard_time": 1698248258,
       "rank": 20,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 359498,
+      "num": 359498,
+      "word": "奶奶拍身份证照片全家都入镜了",
+      "onboard_time": 1698274825,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -155,6 +171,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 261878,
+      "num": 261878,
+      "word": "俩主播硬刚卖了2.6亿不下播",
+      "onboard_time": 1698228214,
+      "rank": 22,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 249328,
       "num": 249328,
       "word": "TTG止步挑杯八强",
@@ -179,20 +203,20 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 237195,
-      "num": 237195,
-      "word": "俩主播硬刚卖了2.6亿不下播",
-      "onboard_time": 1698228214,
-      "rank": 22,
-      "category": "互联网,财经"
-    },
-    {
       "raw_hot": 220998,
       "num": 220998,
       "word": "雷军称小米14越级对标iPhone15Pro",
       "onboard_time": 1698246582,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 220864,
+      "num": 220864,
+      "word": "5万元冰箱起火准新娘命丧婚房",
+      "onboard_time": 1698239980,
+      "rank": 45,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 217212,
@@ -260,7 +284,7 @@
     },
     {
       "raw_hot": 199587,
-      "num": 145845,
+      "num": 196878,
       "word": "巴以冲突已致双方超7200人死亡",
       "onboard_time": 1698254002,
       "rank": 49,
@@ -331,14 +355,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 147278,
-      "num": 147278,
-      "word": "苏有朋林心如综艺合体",
-      "onboard_time": 1698267853,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 145067,
       "num": 145067,
       "word": "88岁学霸爷爷把自己活成了一道光",
@@ -363,20 +379,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 139632,
+      "num": 139632,
+      "word": "如何看李佳琦直播间回应喊话内容",
+      "onboard_time": 1698250710,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 134859,
       "num": 134859,
       "word": "河边的错误",
       "onboard_time": 1698251370,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 133391,
-      "num": 133391,
-      "word": "如何看李佳琦直播间回应喊话内容",
-      "onboard_time": 1698250710,
-      "rank": 49,
-      "category": "网红"
     },
     {
       "raw_hot": 130889,
@@ -419,14 +435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 112773,
-      "num": 112773,
-      "word": "5万元冰箱起火准新娘命丧婚房",
-      "onboard_time": 1698239980,
-      "rank": 45,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 108309,
       "num": 108309,
       "word": "李佳琦直播间称从未要求品牌二选一",
@@ -443,12 +451,92 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 66539,
-      "num": 66539,
+      "raw_hot": 99006,
+      "num": 99006,
+      "word": "我的老婆在外面哄别的女孩纸",
+      "onboard_time": 1698242620,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 96354,
+      "num": 96354,
+      "word": "宝宝一定好奇医生怎么号出自己吃糖",
+      "onboard_time": 1698274882,
+      "rank": 31,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 95646,
+      "num": 95646,
+      "word": "檀健次你好星期六续签",
+      "onboard_time": 1698266894,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 91875,
+      "num": 91875,
+      "word": "小柯基被亲了一口整个狗都开心了",
+      "onboard_time": 1698271456,
+      "rank": 39,
+      "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 84373,
+      "num": 84373,
+      "word": "马斯克 不想利用人性下坠的力量赚钱",
+      "onboard_time": 1698262634,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
+      "raw_hot": 73704,
+      "num": 73704,
+      "word": "20名大学生花2年在游戏中复原母校",
+      "onboard_time": 1698274882,
+      "rank": 39,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 71713,
+      "num": 71713,
       "word": "田耕纪 番外",
       "onboard_time": 1698243102,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 66563,
+      "num": 66563,
+      "word": "内娱最具影响力的明星",
+      "onboard_time": 1698261434,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 65441,
+      "num": 65441,
+      "word": "轮椅选手摔倒中国队员一个个伸手",
+      "onboard_time": 1698274825,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 64752,
+      "num": 64752,
+      "word": "女子倒车坠河村民接连跳河救人",
+      "onboard_time": 1698275666,
+      "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 64143,
+      "num": 64143,
+      "word": "2024国考136个岗位无人报名",
+      "onboard_time": 1698259515,
+      "rank": 21,
+      "category": "教育"
     },
     {
       "raw_hot": 64053,
@@ -467,14 +555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 62429,
-      "num": 62429,
-      "word": "马斯克 不想利用人性下坠的力量赚钱",
-      "onboard_time": 1698262634,
-      "rank": 12,
-      "category": "科技"
-    },
-    {
       "raw_hot": 58320,
       "num": 58320,
       "word": "徐穗珍回来了",
@@ -483,32 +563,8 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 58216,
-      "num": 58216,
-      "word": "我的老婆在外面哄别的女孩纸",
-      "onboard_time": 1698242620,
-      "rank": 48,
-      "category": "作品衍生"
-    },
-    {
-      "raw_hot": 43376,
-      "num": 43376,
-      "word": "檀健次你好星期六续签",
-      "onboard_time": 1698266894,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 40251,
-      "num": 40251,
-      "word": "小柯基被亲了一口整个狗都开心了",
-      "onboard_time": 1698271456,
-      "rank": 39,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 39962,
-      "num": 842470,
+      "num": 946600,
       "word": "速读未成年人网络保护条例举措",
       "onboard_time": 1698238361,
       "rank": 2,
@@ -521,22 +577,6 @@
       "onboard_time": 1698255558,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 36351,
-      "num": 39723,
-      "word": "2024国考136个岗位无人报名",
-      "onboard_time": 1698259515,
-      "rank": 21,
-      "category": "教育"
-    },
-    {
-      "raw_hot": 31646,
-      "num": 39661,
-      "word": "内娱最具影响力的明星",
-      "onboard_time": 1698261434,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 26489,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 06:33:57
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 07:17:06
 </p>
 </blockquote>
 <p>
@@ -4713,6 +4713,12 @@ DOTA2决赛中国vs蒙古（热度：1147775）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E5%8D%8A%E5%B9%B4%E5%87%8F%E8%82%A540%E6%96%A4%E6%9F%A5%E5%87%BA%E9%87%8D%E5%BA%A6%E8%84%82%E8%82%AA%E8%82%9D%23" target="weibo">
+女生半年减肥40斤查出重度脂肪肝（热度：1126962）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%A2%E9%93%81%E4%BE%A0%E5%92%8C%E9%BB%91%E5%AF%A1%E5%A6%87%E5%9C%A82023%E5%B9%B410%E6%9C%88%E7%89%BA%E7%89%B2%23" target="weibo">
 钢铁侠和黑寡妇在2023年10月牺牲（热度：1126780）
 </a>
@@ -6005,12 +6011,6 @@ Super Shy（热度：956731）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E6%9D%A8%E7%B4%AB%E6%96%B0%E7%BB%BC%E8%89%BA%23" target="weibo">
 谢娜杨紫新综艺（热度：949863）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E8%AE%A4%E5%87%BA%E9%BB%84%E7%BB%AE%E7%8F%8A%23" target="weibo">
-没认出黄绮珊（热度：949713）
 </a>
 </li>
 
