@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698215733383,
+  "endTime": 1698218172057,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -123,6 +123,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1061648,
+      "num": 1061648,
+      "word": "女子当街杀害男子并电话告知其家属",
+      "onboard_time": 1698212677,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1036849,
       "num": 654797,
       "word": "安妮海瑟薇为什么突然老了",
@@ -203,14 +211,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 850442,
-      "num": 769506,
-      "word": "女子当街杀害男子并电话告知其家属",
-      "onboard_time": 1698212677,
-      "rank": 5,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 829835,
       "num": 829835,
       "word": "双十一 洗发水",
@@ -265,6 +265,30 @@
       "onboard_time": 1698205299,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 716627,
+      "num": 716627,
+      "word": "上班味",
+      "onboard_time": 1698214958,
+      "rank": 8,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 684961,
+      "num": 684961,
+      "word": "迪丽热巴生病不能耽误美",
+      "onboard_time": 1698216518,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 672979,
+      "num": 672979,
+      "word": "王海称李佳琦卖的和田玉小杨哥也卖过",
+      "onboard_time": 1698217597,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 641772,
@@ -379,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 491288,
-      "num": 491288,
-      "word": "上班味",
-      "onboard_time": 1698214958,
-      "rank": 8,
-      "category": "情感"
-    },
-    {
       "raw_hot": 482832,
       "num": 482832,
       "word": "财阀千金感美甲",
@@ -443,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 444390,
+      "num": 444390,
+      "word": "THE9演唱会个人公式照",
+      "onboard_time": 1698216755,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 436769,
       "num": 399173,
       "word": "国防部回应美发布中国军事安全报告",
@@ -465,6 +489,14 @@
       "onboard_time": 1698212796,
       "rank": 20,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 410098,
+      "num": 410098,
+      "word": "辛芷蕾看了几遍花少2",
+      "onboard_time": 1698215798,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 405437,
@@ -612,7 +644,7 @@
     },
     {
       "raw_hot": 327216,
-      "num": 282605,
+      "num": 283047,
       "word": "迪丽热巴问了我想问的问题",
       "onboard_time": 1698214302,
       "rank": 30,
@@ -763,6 +795,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 276610,
+      "num": 244856,
+      "word": "胡先煦王安宇起分歧",
+      "onboard_time": 1698218016,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276057,
       "num": 276057,
       "word": "周迅 把我跟拖垃圾袋一样拖上来",
@@ -793,6 +833,22 @@
       "onboard_time": 1698199414,
       "rank": 15,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 269042,
+      "num": 243828,
+      "word": "赵又廷回应夺妻之仇不共戴天",
+      "onboard_time": 1698216815,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268570,
+      "num": 338971,
+      "word": "衣服过百元 烦恼少一半",
+      "onboard_time": 1698216999,
+      "rank": 17,
+      "category": "互联网"
     },
     {
       "raw_hot": 263413,
@@ -891,6 +947,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252887,
+      "num": 252887,
+      "word": "大学生做兼职首日进账10万立即报警",
+      "onboard_time": 1698216102,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249085,
       "num": 249085,
       "word": "神十七26日11时14分发射",
@@ -921,6 +985,14 @@
       "onboard_time": 1698213520,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 235892,
+      "num": 235892,
+      "word": "妇产科最委屈的药",
+      "onboard_time": 1698217297,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 234155,
@@ -979,6 +1051,14 @@
       "category": "知识科普"
     },
     {
+      "raw_hot": 229490,
+      "num": 243407,
+      "word": "孕妇绞断手指交警一路嘶吼开道",
+      "onboard_time": 1698216035,
+      "rank": 27,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 229118,
       "num": 229118,
       "word": "我恋5墨墨被男嘉宾气到崩溃大哭",
@@ -1025,6 +1105,14 @@
       "onboard_time": 1698202839,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 219888,
+      "num": 243029,
+      "word": "中国单身青年变化趋势",
+      "onboard_time": 1698217115,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 219446,
@@ -1091,6 +1179,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 208699,
+      "num": 208699,
+      "word": "秦海璐 我结婚了没关系",
+      "onboard_time": 1698218016,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208311,
       "num": 208311,
       "word": "花儿与少年沙特站大合照",
@@ -1121,6 +1217,14 @@
       "onboard_time": 1698210041,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 204366,
+      "num": 204366,
+      "word": "毛吉吉粉扑",
+      "onboard_time": 1698217416,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 203300,
@@ -1193,6 +1297,14 @@
       "onboard_time": 1698199773,
       "rank": 22,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 192775,
+      "num": 192775,
+      "word": "利雅得胜利 德布劳内",
+      "onboard_time": 1698215915,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 192447,
@@ -1595,6 +1707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144257,
+      "num": 144257,
+      "word": "法证先锋6开机",
+      "onboard_time": 1698216697,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 143905,
       "num": 143905,
       "word": "掘金领取总冠军戒指",
@@ -1657,6 +1777,14 @@
       "onboard_time": 1698196174,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139450,
+      "num": 139450,
+      "word": "大熊猫丁丁幼崽2个月啦",
+      "onboard_time": 1698216815,
+      "rank": 47,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 139363,
