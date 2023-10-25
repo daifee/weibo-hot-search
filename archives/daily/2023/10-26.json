@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698269665384,
+  "endTime": 1698272162524,
   "band_list": [
     {
       "raw_hot": 1611941,
@@ -427,6 +427,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 105575,
+      "num": 105575,
+      "word": "苏有朋林心如综艺合体",
+      "onboard_time": 1698267853,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104706,
       "num": 104706,
       "word": "白鹿抱黏黏上班",
@@ -483,14 +491,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 45567,
-      "num": 45567,
-      "word": "苏有朋林心如综艺合体",
-      "onboard_time": 1698267853,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 39962,
       "num": 842470,
       "word": "速读未成年人网络保护条例举措",
@@ -515,12 +515,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 34550,
+      "num": 34550,
+      "word": "檀健次你好星期六续签",
+      "onboard_time": 1698266894,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 26489,
       "num": 36859,
       "word": "迪丽热巴贴心旅行搭子",
       "onboard_time": 1698256218,
       "rank": 47,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 24682,
+      "num": 24682,
+      "word": "小柯基被亲了一口整个狗都开心了",
+      "onboard_time": 1698271456,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 24620,
@@ -531,7 +547,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 22615,
+      "raw_hot": 22832,
       "num": 39661,
       "word": "内娱最具影响力的明星",
       "onboard_time": 1698261434,
@@ -545,14 +561,6 @@
       "onboard_time": 1698260775,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 17541,
-      "num": 32653,
-      "word": "檀健次你好星期六续签",
-      "onboard_time": 1698266894,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 17265,
