@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698218172057,
+  "endTime": 1698219256006,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -59,6 +59,14 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 1951189,
+      "num": 1951189,
+      "word": "秦海璐 我结婚了没关系",
+      "onboard_time": 1698218016,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1610007,
       "num": 1610007,
       "word": "调休",
@@ -75,7 +83,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1414725,
+      "raw_hot": 1419322,
       "num": 502453,
       "word": "章子怡事业困境 华语电影大女性角色",
       "onboard_time": 1698213461,
@@ -123,8 +131,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1061648,
-      "num": 1061648,
+      "raw_hot": 1128645,
+      "num": 1128645,
       "word": "女子当街杀害男子并电话告知其家属",
       "onboard_time": 1698212677,
       "rank": 5,
@@ -219,6 +227,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 818047,
+      "num": 818047,
+      "word": "迪丽热巴生病不能耽误美",
+      "onboard_time": 1698216518,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 816275,
       "num": 816275,
       "word": "吉林地震",
@@ -233,6 +249,14 @@
       "onboard_time": 1698212919,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 793488,
+      "num": 793488,
+      "word": "王海称李佳琦卖的和田玉小杨哥也卖过",
+      "onboard_time": 1698217597,
+      "rank": 7,
+      "category": "网红"
     },
     {
       "raw_hot": 791777,
@@ -273,22 +297,6 @@
       "onboard_time": 1698214958,
       "rank": 8,
       "category": "情感"
-    },
-    {
-      "raw_hot": 684961,
-      "num": 684961,
-      "word": "迪丽热巴生病不能耽误美",
-      "onboard_time": 1698216518,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 672979,
-      "num": 672979,
-      "word": "王海称李佳琦卖的和田玉小杨哥也卖过",
-      "onboard_time": 1698217597,
-      "rank": 7,
-      "category": "网红"
     },
     {
       "raw_hot": 641772,
@@ -507,6 +515,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 399064,
+      "num": 399064,
+      "word": "殷世航两小时背500个单词",
+      "onboard_time": 1698218377,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "校方回应老师改作业写你是孤儿吗评语",
@@ -601,6 +617,14 @@
       "onboard_time": 1698204938,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 347967,
+      "num": 347967,
+      "word": "妇产科最委屈的药",
+      "onboard_time": 1698217297,
+      "rank": 33,
+      "category": "母婴育儿"
     },
     {
       "raw_hot": 337856,
@@ -707,6 +731,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 305246,
+      "num": 338971,
+      "word": "衣服过百元 烦恼少一半",
+      "onboard_time": 1698216999,
+      "rank": 17,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 301177,
       "num": 301177,
       "word": "不同身材女生穿同款裙子",
@@ -731,6 +763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 292154,
+      "num": 292154,
+      "word": "餐厅也能上绿牌",
+      "onboard_time": 1698219039,
+      "rank": 21,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 291930,
       "num": 262491,
       "word": "王诗晴说纪焕博除了她没有亲密关系",
@@ -753,6 +793,14 @@
       "onboard_time": 1698207763,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 282414,
+      "num": 282414,
+      "word": "芒果台的文案到底是谁在写",
+      "onboard_time": 1698218617,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 281221,
@@ -841,14 +889,6 @@
       "onboard_time": 1698216815,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268570,
-      "num": 338971,
-      "word": "衣服过百元 烦恼少一半",
-      "onboard_time": 1698216999,
-      "rank": 17,
-      "category": "互联网"
     },
     {
       "raw_hot": 263413,
@@ -955,12 +995,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 252103,
+      "num": 252103,
+      "word": "爷爷摔倒孙女找人帮忙后才敢大哭",
+      "onboard_time": 1698218503,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 249085,
       "num": 249085,
       "word": "神十七26日11时14分发射",
       "onboard_time": 1698197071,
       "rank": 19,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 248493,
+      "num": 248493,
+      "word": "中国单身青年变化趋势",
+      "onboard_time": 1698217115,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 247458,
@@ -985,14 +1041,6 @@
       "onboard_time": 1698213520,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235892,
-      "num": 235892,
-      "word": "妇产科最委屈的药",
-      "onboard_time": 1698217297,
-      "rank": 33,
-      "category": "母婴育儿"
     },
     {
       "raw_hot": 234155,
@@ -1051,7 +1099,7 @@
       "category": "知识科普"
     },
     {
-      "raw_hot": 229490,
+      "raw_hot": 229819,
       "num": 243407,
       "word": "孕妇绞断手指交警一路嘶吼开道",
       "onboard_time": 1698216035,
@@ -1107,19 +1155,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 219888,
-      "num": 243029,
-      "word": "中国单身青年变化趋势",
-      "onboard_time": 1698217115,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 219446,
       "num": 219446,
       "word": "花知晓腮红",
       "onboard_time": 1698154116,
       "rank": 17,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 218881,
+      "num": 218881,
+      "word": "毛吉吉粉扑",
+      "onboard_time": 1698217416,
+      "rank": 36,
       "category": "美妆"
     },
     {
@@ -1163,6 +1211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 211727,
+      "num": 211727,
+      "word": "winner诞生十周年",
+      "onboard_time": 1698219157,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209243,
       "num": 209243,
       "word": "民警40分钟辗转3地17公里救人",
@@ -1179,20 +1235,20 @@
       "category": "社会新闻,科技"
     },
     {
-      "raw_hot": 208699,
-      "num": 208699,
-      "word": "秦海璐 我结婚了没关系",
-      "onboard_time": 1698218016,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 208311,
       "num": 208311,
       "word": "花儿与少年沙特站大合照",
       "onboard_time": 1698207164,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 207667,
+      "num": 207667,
+      "word": "什么是情绪反扑",
+      "onboard_time": 1698218678,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 207187,
@@ -1217,14 +1273,6 @@
       "onboard_time": 1698210041,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 204366,
-      "num": 204366,
-      "word": "毛吉吉粉扑",
-      "onboard_time": 1698217416,
-      "rank": 36,
-      "category": "美妆"
     },
     {
       "raw_hot": 203300,
@@ -1905,6 +1953,14 @@
       "onboard_time": 1698195933,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125400,
+      "num": 125400,
+      "word": "她见义勇为受伤后男子贴心照顾35年",
+      "onboard_time": 1698218916,
+      "rank": 48,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 125201,
