@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698208452492,
+  "endTime": 1698210965055,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -19,8 +19,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 4101774,
-      "num": 4101774,
+      "raw_hot": 6842548,
+      "num": 6842548,
       "word": "大杨哥怒批李佳琦挟持商家",
       "onboard_time": 1698205236,
       "rank": 3,
@@ -107,8 +107,16 @@
       "category": "教育"
     },
     {
-      "raw_hot": 987293,
-      "num": 481722,
+      "raw_hot": 1135308,
+      "num": 676192,
+      "word": "京东高管回应采销喊话李佳琦",
+      "onboard_time": 1698208001,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 1036849,
+      "num": 654797,
       "word": "安妮海瑟薇为什么突然老了",
       "onboard_time": 1698205299,
       "rank": 10,
@@ -179,6 +187,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 853398,
+      "num": 853398,
+      "word": "大杨哥质问出身农村不能变有钱吗",
+      "onboard_time": 1698207763,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 829835,
       "num": 829835,
       "word": "双十一 洗发水",
@@ -187,11 +203,35 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 816275,
+      "num": 816275,
+      "word": "吉林地震",
+      "onboard_time": 1698210041,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 791777,
       "num": 791777,
       "word": "专家称龙年春节将形成超级黄金周",
       "onboard_time": 1698201698,
       "rank": 7,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 785193,
+      "num": 713669,
+      "word": "胡锡进 春节休假延长趋势已摆出",
+      "onboard_time": 1698205598,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 721315,
+      "num": 721315,
+      "word": "调休是因为不得不调但更人性化更灵活",
+      "onboard_time": 1698205299,
+      "rank": 18,
       "category": "社会新闻"
     },
     {
@@ -212,7 +252,7 @@
     },
     {
       "raw_hot": 586365,
-      "num": 467727,
+      "num": 474971,
       "word": "赵丽颖蛋卷发",
       "onboard_time": 1698205236,
       "rank": 12,
@@ -243,14 +283,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 569659,
-      "num": 466543,
-      "word": "京东高管回应采销喊话李佳琦",
-      "onboard_time": 1698208001,
-      "rank": 13,
-      "category": "社会新闻,财经"
-    },
-    {
       "raw_hot": 561746,
       "num": 561746,
       "word": "断崖式衰老",
@@ -265,6 +297,14 @@
       "onboard_time": 1698202717,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 558614,
+      "num": 558614,
+      "word": "最好的医丑",
+      "onboard_time": 1698206379,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 556248,
@@ -283,12 +323,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 521760,
-      "num": 521760,
-      "word": "最好的医丑",
-      "onboard_time": 1698206379,
-      "rank": 15,
-      "category": "幽默"
+      "raw_hot": 518995,
+      "num": 356764,
+      "word": "秦海璐说AA制就是个笑话",
+      "onboard_time": 1698207403,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 482832,
+      "num": 482832,
+      "word": "财阀千金感美甲",
+      "onboard_time": 1698209626,
+      "rank": 16,
+      "category": "美妆"
     },
     {
       "raw_hot": 474430,
@@ -313,14 +361,6 @@
       "onboard_time": 1698163413,
       "rank": 20,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 453882,
-      "num": 453882,
-      "word": "胡锡进 春节休假延长趋势已摆出",
-      "onboard_time": 1698205598,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 453821,
@@ -355,14 +395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 413246,
-      "num": 356764,
-      "word": "秦海璐说AA制就是个笑话",
-      "onboard_time": 1698207403,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 405437,
       "num": 405437,
       "word": "今年要换电脑的都先冷静一下",
@@ -371,19 +403,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 393941,
-      "num": 393941,
-      "word": "调休是因为不得不调但更人性化更灵活",
-      "onboard_time": 1698205299,
-      "rank": 18,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 392424,
       "num": 392424,
       "word": "校方回应老师改作业写你是孤儿吗评语",
       "onboard_time": 1698191010,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 386018,
+      "num": 337723,
+      "word": "老人凌晨去世家人放鞭炮请人帮忙",
+      "onboard_time": 1698208964,
+      "rank": 22,
       "category": "社会新闻"
     },
     {
@@ -451,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 342423,
+      "num": 342423,
+      "word": "刘嘉玲拍的梁朝伟王菲",
+      "onboard_time": 1698210702,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 337856,
       "num": 260744,
       "word": "不敢相信这是牛牛工作室拍出来的",
@@ -467,12 +507,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 332440,
+      "num": 332440,
+      "word": "26岁宝妈大方穿短上衣不怕露出妊娠纹",
+      "onboard_time": 1698209565,
+      "rank": 23,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 330353,
       "num": 330353,
       "word": "邓为为对手戏演员磨掉棍子的刺",
       "onboard_time": 1698161795,
       "rank": 5,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326465,
+      "num": 326465,
+      "word": "朴彩英芭比粉羽毛裙",
+      "onboard_time": 1698209742,
+      "rank": 24,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 325126,
@@ -539,6 +595,22 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 290556,
+      "num": 290556,
+      "word": "我在女足赛场外免费派发卫生巾",
+      "onboard_time": 1698207763,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 281221,
+      "num": 281221,
+      "word": "80岁老人参加高考想研究杂交小麦",
+      "onboard_time": 1698210463,
+      "rank": 29,
+      "category": "社会新闻,教育"
+    },
+    {
       "raw_hot": 279586,
       "num": 279586,
       "word": "陕西一交通局拖欠男子770万工程款",
@@ -555,12 +627,28 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 278216,
+      "num": 278216,
+      "word": "国货现在做的太惊人了",
+      "onboard_time": 1698209082,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 276057,
       "num": 276057,
       "word": "周迅 把我跟拖垃圾袋一样拖上来",
       "onboard_time": 1698152555,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 276019,
+      "num": 302637,
+      "word": "崩跑吧开拓者",
+      "onboard_time": 1698209922,
+      "rank": 25,
+      "category": "游戏,运动健身"
     },
     {
       "raw_hot": 272815,
@@ -635,6 +723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255645,
+      "num": 255645,
+      "word": "太阳战胜勇士",
+      "onboard_time": 1698210642,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254491,
       "num": 254491,
       "word": "凤凰传奇 现在歌曲只火三个月",
@@ -689,14 +785,6 @@
       "onboard_time": 1698204160,
       "rank": 31,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 237498,
-      "num": 237498,
-      "word": "我在女足赛场外免费派发卫生巾",
-      "onboard_time": 1698207763,
-      "rank": 29,
-      "category": "情感"
     },
     {
       "raw_hot": 234155,
@@ -795,6 +883,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 218244,
+      "num": 218244,
+      "word": "鸳鸯金楼回应王海打假李佳琦直播间",
+      "onboard_time": 1698209204,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 217178,
       "num": 217178,
       "word": "你好种地少年预告",
@@ -809,14 +905,6 @@
       "onboard_time": 1698189927,
       "rank": 16,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 212640,
-      "num": 212640,
-      "word": "大杨哥质问出身农村不能变有钱吗",
-      "onboard_time": 1698207763,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 212444,
@@ -857,6 +945,14 @@
       "onboard_time": 1698206923,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 205239,
+      "num": 205239,
+      "word": "我们恋爱吧",
+      "onboard_time": 1698210041,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 203300,
@@ -1139,12 +1235,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 165299,
+      "num": 165299,
+      "word": "长中庭精致妆容",
+      "onboard_time": 1698209801,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 163517,
       "num": 163517,
       "word": "汉服入门穿搭与时尚手册",
       "onboard_time": 1698203020,
       "rank": 35,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 162886,
+      "num": 162886,
+      "word": "消费降级版平价彩妆",
+      "onboard_time": 1698209742,
+      "rank": 44,
+      "category": "美妆"
     },
     {
       "raw_hot": 162811,
@@ -1171,6 +1283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160839,
+      "num": 160839,
+      "word": "王源新EP",
+      "onboard_time": 1698209680,
+      "rank": 46,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 157359,
       "num": 157359,
       "word": "勇士揭幕战致敬杜兰特",
@@ -1185,6 +1305,14 @@
       "onboard_time": 1698161855,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156585,
+      "num": 156585,
+      "word": "库里27分",
+      "onboard_time": 1698210946,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 152371,

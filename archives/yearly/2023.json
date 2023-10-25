@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698208452492,
+  "endTime": 1698210965055,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -2139,6 +2139,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 6842548,
+      "num": 6842548,
+      "word": "大杨哥怒批李佳琦挟持商家",
+      "onboard_time": 1698205236,
+      "rank": 3,
+      "category": "网红"
+    },
+    {
       "raw_hot": 6842168,
       "num": 6842168,
       "word": "EDG官宣签约Uzi",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1688400456,
       "rank": 0,
       "category": "游戏,艺人"
-    },
-    {
-      "raw_hot": 5580716,
-      "num": 2711353,
-      "word": "被男子反复碾压女子已身亡",
-      "onboard_time": 1687875586,
-      "rank": 3,
-      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
