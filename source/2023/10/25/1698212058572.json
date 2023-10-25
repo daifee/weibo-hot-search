@@ -1,0 +1,410 @@
+{
+  "runTime": 1698212058572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7777206,
+        "num": 7777206,
+        "word": "大杨哥怒批李佳琦挟持商家",
+        "onboard_time": 1698205236,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1897191,
+        "num": 1897191,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156262,
+        "num": 1258951,
+        "word": "他认真唱国歌的样子太帅了",
+        "onboard_time": 1698206923,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1258397,
+        "num": 1258397,
+        "word": "王海打假李佳琦直播间卖和田玉",
+        "onboard_time": 1698198091,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1164978,
+        "num": 1164978,
+        "word": "徐明浩 瑞幸",
+        "onboard_time": 1698207044,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 996749,
+        "num": 996749,
+        "word": "大杨哥质问出身农村不能变有钱吗",
+        "onboard_time": 1698207763,
+        "rank": 5,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 809297,
+        "num": 809297,
+        "word": "吉林地震",
+        "onboard_time": 1698210041,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 629359,
+        "num": 629359,
+        "word": "调休是因为不得不调但更人性化更灵活",
+        "onboard_time": 1698205299,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 469015,
+        "num": 469015,
+        "word": "除夕A股正常开市",
+        "onboard_time": 1698206561,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 430924,
+        "num": 430924,
+        "word": "最好的医丑",
+        "onboard_time": 1698206379,
+        "rank": 9,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 3061913,
+        "num": 430694,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1877964,
+        "num": 424034,
+        "word": "国家发改委回应2024年放假安排",
+        "onboard_time": 1698205658,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1150177,
+        "num": 414371,
+        "word": "京东高管回应采销喊话李佳琦",
+        "onboard_time": 1698208001,
+        "rank": 12,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 169175,
+        "num": 408844,
+        "word": "崩跑吧开拓者",
+        "onboard_time": 1698209922,
+        "rank": 13,
+        "category": "游戏,运动健身"
+      },
+      {
+        "raw_hot": 961476,
+        "num": 401632,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 14,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 953523,
+        "num": 396260,
+        "word": "安妮海瑟薇为什么突然老了",
+        "onboard_time": 1698205299,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 790651,
+        "num": 389149,
+        "word": "刘嘉玲拍的梁朝伟王菲",
+        "onboard_time": 1698210702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471227,
+        "num": 384157,
+        "word": "胡锡进 春节休假延长趋势已摆出",
+        "onboard_time": 1698205598,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 381980,
+        "num": 381980,
+        "word": "财阀千金感美甲",
+        "onboard_time": 1698209626,
+        "rank": 18,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 366506,
+        "num": 366506,
+        "word": "赵丽颖蛋卷发",
+        "onboard_time": 1698205236,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 454050,
+        "num": 359648,
+        "word": "秦海璐说AA制就是个笑话",
+        "onboard_time": 1698207403,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392995,
+        "num": 359121,
+        "word": "韩国春节假期补休",
+        "onboard_time": 1698203978,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 348148,
+        "num": 348148,
+        "word": "成毅Queencard跳到六公主了",
+        "onboard_time": 1698211781,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332524,
+        "num": 332524,
+        "word": "杭州多家水果店芒果被买空",
+        "onboard_time": 1698211721,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 321621,
+        "num": 321621,
+        "word": "老人凌晨去世家人放鞭炮请人帮忙",
+        "onboard_time": 1698208964,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 306187,
+        "num": 306187,
+        "word": "你愿意除夕请年假吗",
+        "onboard_time": 1698202717,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 288093,
+        "num": 288093,
+        "word": "26岁宝妈大方穿短上衣不怕露出妊娠纹",
+        "onboard_time": 1698209565,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 276860,
+        "num": 276860,
+        "word": "曾舜晞到达长白山",
+        "onboard_time": 1698206260,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276451,
+        "num": 276451,
+        "word": "朴彩英芭比粉羽毛裙",
+        "onboard_time": 1698209742,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 264609,
+        "num": 264609,
+        "word": "papi酱形容傅首尔和老刘的关系",
+        "onboard_time": 1698204938,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241166,
+        "num": 241166,
+        "word": "今年要换电脑的都先冷静一下",
+        "onboard_time": 1698206379,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 237182,
+        "num": 237182,
+        "word": "当男朋友知道我存款快六位数时",
+        "onboard_time": 1698195096,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 232549,
+        "num": 232549,
+        "word": "咒术回战240话",
+        "onboard_time": 1698211661,
+        "rank": 32,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 229118,
+        "num": 229118,
+        "word": "我恋5墨墨被男嘉宾气到崩溃大哭",
+        "onboard_time": 1698211421,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 216325,
+        "num": 216325,
+        "word": "太阳战胜勇士",
+        "onboard_time": 1698210642,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209988,
+        "num": 209988,
+        "word": "哈文悼念李咏去世五周年",
+        "onboard_time": 1698206979,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208621,
+        "num": 208621,
+        "word": "鸳鸯金楼回应王海打假李佳琦直播间",
+        "onboard_time": 1698209204,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 203516,
+        "num": 203516,
+        "word": "凤凰传奇 现在歌曲只火三个月",
+        "onboard_time": 1698204576,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201159,
+        "num": 201159,
+        "word": "国货现在做的太惊人了",
+        "onboard_time": 1698209082,
+        "rank": 38,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 198626,
+        "num": 198626,
+        "word": "迪丽热巴玩卡丁车",
+        "onboard_time": 1698211661,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196315,
+        "num": 196315,
+        "word": "29岁了还在找妈妈要钱",
+        "onboard_time": 1698201339,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 190164,
+        "num": 190164,
+        "word": "赵露思说公主请下单",
+        "onboard_time": 1698211364,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186608,
+        "num": 186608,
+        "word": "调休",
+        "onboard_time": 1698199773,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185817,
+        "num": 185817,
+        "word": "库明加两罚不中",
+        "onboard_time": 1698211063,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178946,
+        "num": 178946,
+        "word": "断崖式衰老",
+        "onboard_time": 1698205839,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 173741,
+        "num": 173741,
+        "word": "库里27分",
+        "onboard_time": 1698210946,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171400,
+        "num": 171400,
+        "word": "郭帆 球二无缝衔接球三",
+        "onboard_time": 1698211244,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160343,
+        "num": 160343,
+        "word": "我在女足赛场外免费派发卫生巾",
+        "onboard_time": 1698207763,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152461,
+        "num": 152461,
+        "word": "2024五一休5天前后两周上6天",
+        "onboard_time": 1698201397,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 147568,
+        "num": 147568,
+        "word": "80岁老人参加高考想研究杂交小麦",
+        "onboard_time": 1698210463,
+        "rank": 49,
+        "category": "社会新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士们的功绩彪炳千秋#"
+    }
+  }
+}

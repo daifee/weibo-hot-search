@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698210965055,
+  "endTime": 1698212058572,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -43,8 +43,8 @@
       "category": "国内要闻"
     },
     {
-      "raw_hot": 6842548,
-      "num": 6842548,
+      "raw_hot": 7777206,
+      "num": 7777206,
       "word": "大杨哥怒批李佳琦挟持商家",
       "onboard_time": 1698205236,
       "rank": 3,
@@ -619,20 +619,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1150177,
+      "num": 676192,
+      "word": "京东高管回应采销喊话李佳琦",
+      "onboard_time": 1698208001,
+      "rank": 13,
+      "category": "社会新闻,财经"
+    },
+    {
       "raw_hot": 1145359,
       "num": 1145359,
       "word": "中学老师批改作业写下你是孤儿吗评语",
       "onboard_time": 1698188724,
       "rank": 20,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1135308,
-      "num": 676192,
-      "word": "京东高管回应采销喊话李佳琦",
-      "onboard_time": 1698208001,
-      "rank": 13,
-      "category": "社会新闻,财经"
     },
     {
       "raw_hot": 1118852,
@@ -761,6 +761,14 @@
       "onboard_time": 1697930180,
       "rank": 10,
       "category": "社会新闻,财经"
+    },
+    {
+      "raw_hot": 996749,
+      "num": 996749,
+      "word": "大杨哥质问出身农村不能变有钱吗",
+      "onboard_time": 1698207763,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 994904,
@@ -1011,14 +1019,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 853398,
-      "num": 853398,
-      "word": "大杨哥质问出身农村不能变有钱吗",
-      "onboard_time": 1698207763,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 845490,
       "num": 599666,
       "word": "易烊千玺的狗啃式刘海",
@@ -1145,6 +1145,14 @@
       "onboard_time": 1698201698,
       "rank": 7,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 790651,
+      "num": 389149,
+      "word": "刘嘉玲拍的梁朝伟王菲",
+      "onboard_time": 1698210702,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 785193,
@@ -1956,7 +1964,7 @@
     },
     {
       "raw_hot": 518995,
-      "num": 356764,
+      "num": 359648,
       "word": "秦海璐说AA制就是个笑话",
       "onboard_time": 1698207403,
       "rank": 41,
@@ -3243,6 +3251,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 348148,
+      "num": 348148,
+      "word": "成毅Queencard跳到六公主了",
+      "onboard_time": 1698211781,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 348121,
       "num": 348121,
       "word": "被狗咬伤女童200万捐款已被退款近5万",
@@ -3281,14 +3297,6 @@
       "onboard_time": 1698053685,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 342423,
-      "num": 342423,
-      "word": "刘嘉玲拍的梁朝伟王菲",
-      "onboard_time": 1698210702,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 341886,
@@ -3353,6 +3361,14 @@
       "onboard_time": 1697933670,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 332524,
+      "num": 332524,
+      "word": "杭州多家水果店芒果被买空",
+      "onboard_time": 1698211721,
+      "rank": 23,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 332440,
@@ -4156,7 +4172,7 @@
     },
     {
       "raw_hot": 276019,
-      "num": 302637,
+      "num": 408844,
       "word": "崩跑吧开拓者",
       "onboard_time": 1698209922,
       "rank": 25,
@@ -4979,6 +4995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 232549,
+      "num": 232549,
+      "word": "咒术回战240话",
+      "onboard_time": 1698211661,
+      "rank": 32,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 232474,
       "num": 232474,
       "word": "明星化妆师用的平价美妆单品",
@@ -5073,6 +5097,14 @@
       "onboard_time": 1698028232,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229118,
+      "num": 229118,
+      "word": "我恋5墨墨被男嘉宾气到崩溃大哭",
+      "onboard_time": 1698211421,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 228703,
@@ -5995,6 +6027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 198626,
+      "num": 198626,
+      "word": "迪丽热巴玩卡丁车",
+      "onboard_time": 1698211661,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198528,
       "num": 198528,
       "word": "李玟母亲痛斥李玟丈夫出轨",
@@ -6307,6 +6347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190164,
+      "num": 190164,
+      "word": "赵露思说公主请下单",
+      "onboard_time": 1698211364,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189892,
       "num": 189892,
       "word": "这种美发方式很致癌",
@@ -6481,6 +6529,14 @@
       "onboard_time": 1698172636,
       "rank": 8,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 185817,
+      "num": 185817,
+      "word": "库明加两罚不中",
+      "onboard_time": 1698211063,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 185788,
@@ -6859,6 +6915,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 173741,
+      "num": 173741,
+      "word": "库里27分",
+      "onboard_time": 1698210946,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 173718,
       "num": 173718,
       "word": "张宁绝杀",
@@ -6985,6 +7049,14 @@
       "onboard_time": 1698060224,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 171400,
+      "num": 171400,
+      "word": "郭帆 球二无缝衔接球三",
+      "onboard_time": 1698211244,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 171020,
@@ -7473,14 +7545,6 @@
       "onboard_time": 1698107560,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156585,
-      "num": 156585,
-      "word": "库里27分",
-      "onboard_time": 1698210946,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 156517,
