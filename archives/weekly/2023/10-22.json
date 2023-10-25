@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698248098567,
+  "endTime": 1698250880094,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -276,7 +276,7 @@
     },
     {
       "raw_hot": 2017816,
-      "num": 545731,
+      "num": 1611941,
       "word": "感觉权志龙要变异了",
       "onboard_time": 1698242620,
       "rank": 10,
@@ -1715,6 +1715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 667489,
+      "num": 298416,
+      "word": "女生半年减肥40斤查出重度脂肪肝",
+      "onboard_time": 1698248558,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 665469,
       "num": 665469,
       "word": "武汉全城拉响防空警报",
@@ -1841,6 +1849,14 @@
       "onboard_time": 1697979572,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 628612,
+      "num": 628612,
+      "word": "土耳其",
+      "onboard_time": 1698245439,
+      "rank": 15,
+      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 627638,
@@ -2225,14 +2241,6 @@
       "onboard_time": 1698139713,
       "rank": 16,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 545112,
-      "num": 545112,
-      "word": "土耳其",
-      "onboard_time": 1698245439,
-      "rank": 15,
-      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 543117,
@@ -2915,6 +2923,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 445292,
+      "num": 445292,
+      "word": "倪妮手串",
+      "onboard_time": 1698246102,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 444880,
       "num": 444880,
       "word": "发型也是穿搭的一环",
@@ -3032,6 +3048,14 @@
       "word": "101岁老人自曝长寿要吃肉吃菜爱干活",
       "onboard_time": 1698055250,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 431356,
+      "num": 294226,
+      "word": "24岁女生去酒吧被保安当未成年拦下",
+      "onboard_time": 1698249575,
+      "rank": 13,
       "category": "社会新闻"
     },
     {
@@ -3619,14 +3643,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 369603,
-      "num": 369603,
-      "word": "倪妮手串",
-      "onboard_time": 1698246102,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 369415,
       "num": 263995,
       "word": "如何体面的退出一个群",
@@ -3736,6 +3752,14 @@
       "word": "辱骂新加坡护士的女子涉谎报身份",
       "onboard_time": 1698146615,
       "rank": 26,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 360417,
+      "num": 243263,
+      "word": "染上毒瘾后外貌的真实变化",
+      "onboard_time": 1698248258,
+      "rank": 20,
       "category": "社会新闻"
     },
     {
@@ -4683,6 +4707,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 290334,
+      "num": 290334,
+      "word": "得知春节调休的我",
+      "onboard_time": 1698248258,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 290225,
       "num": 290225,
       "word": "邓为给张晚意分享披萨",
@@ -5057,6 +5089,14 @@
       "onboard_time": 1698114333,
       "rank": 31,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 272223,
+      "num": 272223,
+      "word": "土耳其股指熔断",
+      "onboard_time": 1698249633,
+      "rank": 16,
+      "category": "国外要闻,财经"
     },
     {
       "raw_hot": 271730,
@@ -5563,6 +5603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 249328,
+      "num": 249328,
+      "word": "TTG止步挑杯八强",
+      "onboard_time": 1698247898,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 249085,
       "num": 249085,
       "word": "神十七26日11时14分发射",
@@ -5681,14 +5729,6 @@
       "onboard_time": 1697866953,
       "rank": 19,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 243495,
-      "num": 243495,
-      "word": "TTG止步挑杯八强",
-      "onboard_time": 1698247898,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 242838,
@@ -6675,6 +6715,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 208780,
+      "num": 208780,
+      "word": "街舞6官宣3天预约破百万",
+      "onboard_time": 1698248796,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208714,
       "num": 208714,
       "word": "潘玮柏提醒粉丝不要真的不回家",
@@ -7321,6 +7369,14 @@
       "onboard_time": 1698229115,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195457,
+      "num": 195457,
+      "word": "罗英锡否认新西游记人员不和",
+      "onboard_time": 1698249396,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 195078,
@@ -8649,6 +8705,14 @@
       "onboard_time": 1698052072,
       "rank": 27,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 163529,
+      "num": 163529,
+      "word": "你好种地少年定档",
+      "onboard_time": 1698248498,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 163517,
@@ -10147,6 +10211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130889,
+      "num": 130889,
+      "word": "刘耀文冷脸学长",
+      "onboard_time": 1698248737,
+      "rank": 41,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 130883,
       "num": 130883,
       "word": "万圣节好多层脸妆容",
@@ -11075,6 +11147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 107136,
+      "num": 107136,
+      "word": "88岁学霸爷爷把自己活成了一道光",
+      "onboard_time": 1698250054,
+      "rank": 47,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 106362,
       "num": 106362,
       "word": "seventeen新曲应援法",
@@ -11163,6 +11243,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 104706,
+      "num": 104706,
+      "word": "白鹿抱黏黏上班",
+      "onboard_time": 1698249217,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 104660,
       "num": 104660,
       "word": "阴阳师",
@@ -11249,6 +11337,14 @@
       "onboard_time": 1697963308,
       "rank": 49,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102200,
+      "num": 102200,
+      "word": "如何看李佳琦直播间回应喊话内容",
+      "onboard_time": 1698250710,
+      "rank": 49,
+      "category": "网红"
     },
     {
       "raw_hot": 101731,
