@@ -1,0 +1,410 @@
+{
+  "runTime": 1698244457448,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3269979,
+        "num": 3269979,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1887103,
+        "num": 1887103,
+        "word": "在海底捞吃了42万是什么体验",
+        "onboard_time": 1698241302,
+        "rank": 1,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 72315,
+        "num": 1718734,
+        "word": "速读未成年人网络保护条例举措",
+        "onboard_time": 1698238361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1651635,
+        "num": 1651635,
+        "word": "BIGBANG五名成员四名涉毒",
+        "onboard_time": 1698239622,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1392616,
+        "num": 1392616,
+        "word": "皮肤没问题买几十块婴儿面霜也行",
+        "onboard_time": 1698239801,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1062316,
+        "num": 1062316,
+        "word": "张桂梅当选妇联副主席",
+        "onboard_time": 1698241364,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 938270,
+        "num": 938270,
+        "word": "秦岚 消音",
+        "onboard_time": 1698237460,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 700742,
+        "num": 700742,
+        "word": "5名工作人员接触到福岛核污染水",
+        "onboard_time": 1698241422,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 554399,
+        "num": 554399,
+        "word": "郭麒麟回应胖了",
+        "onboard_time": 1698238662,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527652,
+        "num": 527652,
+        "word": "田耕纪结局",
+        "onboard_time": 1698232785,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2017816,
+        "num": 526745,
+        "word": "感觉权志龙要变异了",
+        "onboard_time": 1698242620,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 836787,
+        "num": 526492,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 525038,
+        "num": 525038,
+        "word": "俩主播硬刚卖了2.6亿不下播",
+        "onboard_time": 1698228214,
+        "rank": 12,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 515581,
+        "num": 515581,
+        "word": "秦始皇陵西墓葬发现罕见6只绵羊羊车",
+        "onboard_time": 1698240580,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 491083,
+        "num": 491083,
+        "word": "BIGBANG最后的正常人居然是太阳",
+        "onboard_time": 1698238123,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 471280,
+        "num": 471280,
+        "word": "成功的羊毛卷 从头顶开始烫中卷",
+        "onboard_time": 1698242920,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 452300,
+        "num": 452300,
+        "word": "妖刀",
+        "onboard_time": 1698242439,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 447285,
+        "num": 447285,
+        "word": "迪丽热巴浓妆vs淡妆",
+        "onboard_time": 1698235001,
+        "rank": 17,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 420871,
+        "num": 420871,
+        "word": "女明星出圈图",
+        "onboard_time": 1698243164,
+        "rank": 18,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 310882,
+        "num": 410738,
+        "word": "卫健委回应男婴打疫苗40小时后死亡",
+        "onboard_time": 1698236740,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 406930,
+        "num": 406930,
+        "word": "乌镇 男人帮",
+        "onboard_time": 1698243402,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 392961,
+        "num": 392961,
+        "word": "秦海璐 我结婚了没关系",
+        "onboard_time": 1698218016,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359250,
+        "num": 359250,
+        "word": "卸妆膏为什么不做成这样",
+        "onboard_time": 1698242980,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 320580,
+        "num": 320580,
+        "word": "李冰冰 周也老板",
+        "onboard_time": 1698244001,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310298,
+        "num": 310298,
+        "word": "天官赐福",
+        "onboard_time": 1698231879,
+        "rank": 24,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 295915,
+        "num": 295915,
+        "word": "90后夫妻裸婚后同城分居5年",
+        "onboard_time": 1698236075,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292499,
+        "num": 292499,
+        "word": "潜水员韩颋遗体已被打捞上岸",
+        "onboard_time": 1698236858,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273329,
+        "num": 273329,
+        "word": "王亚平当选妇联副主席",
+        "onboard_time": 1698242562,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 252643,
+        "num": 252643,
+        "word": "5万元冰箱起火准新娘命丧婚房",
+        "onboard_time": 1698239980,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 251741,
+        "num": 251741,
+        "word": "因为一部剧爆红的演员",
+        "onboard_time": 1698236500,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242838,
+        "num": 242838,
+        "word": "田耕纪 番外",
+        "onboard_time": 1698243102,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229254,
+        "num": 229254,
+        "word": "广东一学校近700名新生集体退学",
+        "onboard_time": 1698232064,
+        "rank": 31,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 226086,
+        "num": 226086,
+        "word": "谌贻琴当选为中华全国妇女联合会主席",
+        "onboard_time": 1698242380,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 222052,
+        "num": 222052,
+        "word": "沈梦辰见到戚薇的反应",
+        "onboard_time": 1698243582,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208457,
+        "num": 208457,
+        "word": "当代年轻人逛街很有一套",
+        "onboard_time": 1698243344,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 205262,
+        "num": 205262,
+        "word": "专家称春节调休不如再加2天假",
+        "onboard_time": 1698231290,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 204209,
+        "num": 204209,
+        "word": "王一博染回黑发了",
+        "onboard_time": 1698232304,
+        "rank": 36,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 195680,
+        "num": 195680,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 195217,
+        "num": 195217,
+        "word": "徐穗珍回来了",
+        "onboard_time": 1698228099,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 185000,
+        "num": 185000,
+        "word": "我的老婆在外面哄别的女孩纸",
+        "onboard_time": 1698242620,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 181649,
+        "num": 181649,
+        "word": "韩剧妆造",
+        "onboard_time": 1698239140,
+        "rank": 40,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 181017,
+        "num": 181017,
+        "word": "郑钦文开门红",
+        "onboard_time": 1698244303,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180429,
+        "num": 180429,
+        "word": "黄宗泽粉丝今天吃这么好吗",
+        "onboard_time": 1698242380,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175677,
+        "num": 175677,
+        "word": "撒贝宁称自己是北大方便面系博士",
+        "onboard_time": 1698243704,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 174320,
+        "num": 174320,
+        "word": "唇膏最好竖着涂",
+        "onboard_time": 1698239380,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 168363,
+        "num": 168363,
+        "word": "大杨哥怒批李佳琦挟持商家",
+        "onboard_time": 1698205236,
+        "rank": 45,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 167098,
+        "num": 167098,
+        "word": "辱骂新加坡护士的中国女子判了",
+        "onboard_time": 1698231647,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 156991,
+        "num": 156991,
+        "word": "吃口糖道歉了半节课",
+        "onboard_time": 1698241062,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150616,
+        "num": 150616,
+        "word": "狼队对战TTG",
+        "onboard_time": 1698234877,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149431,
+        "num": 149431,
+        "word": "睫毛膏卸妆难辣眼睛",
+        "onboard_time": 1698244240,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士们的功绩彪炳千秋#"
+    }
+  }
+}

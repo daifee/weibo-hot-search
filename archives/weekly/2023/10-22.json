@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698243374374,
+  "endTime": 1698244457448,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 2534048,
-      "num": 1510062,
+      "num": 1651635,
       "word": "BIGBANG五名成员四名涉毒",
       "onboard_time": 1698239622,
       "rank": 3,
@@ -275,6 +275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 2017816,
+      "num": 534579,
+      "word": "感觉权志龙要变异了",
+      "onboard_time": 1698242620,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1987341,
       "num": 1829177,
       "word": "李佳琦公司美ONE合同细则曝光",
@@ -291,12 +299,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 1902045,
-      "num": 534579,
-      "word": "感觉权志龙要变异了",
-      "onboard_time": 1698242620,
-      "rank": 10,
-      "category": "艺人"
+      "raw_hot": 1887103,
+      "num": 1887103,
+      "word": "在海底捞吃了42万是什么体验",
+      "onboard_time": 1698241302,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 1840803,
@@ -337,14 +345,6 @@
       "onboard_time": 1697950232,
       "rank": 4,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1735228,
-      "num": 1735228,
-      "word": "在海底捞吃了42万是什么体验",
-      "onboard_time": 1698241302,
-      "rank": 1,
-      "category": "美食"
     },
     {
       "raw_hot": 1731841,
@@ -523,6 +523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 1392616,
+      "num": 1392616,
+      "word": "皮肤没问题买几十块婴儿面霜也行",
+      "onboard_time": 1698239801,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1389594,
       "num": 680723,
       "word": "西南科技大学馄饨阿姨事件",
@@ -593,14 +601,6 @@
       "onboard_time": 1698045406,
       "rank": 11,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1310602,
-      "num": 1310602,
-      "word": "皮肤没问题买几十块婴儿面霜也行",
-      "onboard_time": 1698239801,
-      "rank": 34,
-      "category": "美妆"
     },
     {
       "raw_hot": 1306798,
@@ -843,6 +843,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1062316,
+      "num": 1062316,
+      "word": "张桂梅当选妇联副主席",
+      "onboard_time": 1698241364,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1055014,
       "num": 393005,
       "word": "女子带婴儿被3条流浪狗围攻咬伤",
@@ -1009,14 +1017,6 @@
       "onboard_time": 1698106418,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 953841,
-      "num": 953841,
-      "word": "张桂梅当选妇联副主席",
-      "onboard_time": 1698241364,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 952431,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1698131917,
       "rank": 5,
       "category": "国内要闻"
+    },
+    {
+      "raw_hot": 700742,
+      "num": 700742,
+      "word": "5名工作人员接触到福岛核污染水",
+      "onboard_time": 1698241422,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 692996,
@@ -2355,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 515581,
+      "num": 515581,
+      "word": "秦始皇陵西墓葬发现罕见6只绵羊羊车",
+      "onboard_time": 1698240580,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 515312,
       "num": 323842,
       "word": "北京化工大学回应学院院长被指骚扰教师",
@@ -2659,6 +2675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 471280,
+      "num": 471280,
+      "word": "成功的羊毛卷 从头顶开始烫中卷",
+      "onboard_time": 1698242920,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 469556,
       "num": 469556,
       "word": "耐克回应实行四天工作制",
@@ -2755,14 +2779,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 455319,
-      "num": 455319,
-      "word": "5名工作人员接触到福岛核污染水",
-      "onboard_time": 1698241422,
-      "rank": 14,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 455130,
       "num": 455130,
       "word": "2024MSI 成都",
@@ -2825,6 +2841,14 @@
       "onboard_time": 1697939852,
       "rank": 20,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 452300,
+      "num": 452300,
+      "word": "妖刀",
+      "onboard_time": 1698242439,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 451935,
@@ -3051,6 +3075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 420871,
+      "num": 420871,
+      "word": "女明星出圈图",
+      "onboard_time": 1698243164,
+      "rank": 42,
+      "category": "美妆,作品衍生"
+    },
+    {
       "raw_hot": 420641,
       "num": 420641,
       "word": "因10元工钱工人在车门拖拽工头致地铁延误被拘",
@@ -3169,6 +3201,14 @@
       "onboard_time": 1697903375,
       "rank": 10,
       "category": "幽默,艺人"
+    },
+    {
+      "raw_hot": 406930,
+      "num": 406930,
+      "word": "乌镇 男人帮",
+      "onboard_time": 1698243402,
+      "rank": 20,
+      "category": "演出"
     },
     {
       "raw_hot": 406649,
@@ -3459,14 +3499,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 380493,
-      "num": 380493,
-      "word": "秦始皇陵西墓葬发现罕见6只绵羊羊车",
-      "onboard_time": 1698240580,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 379814,
       "num": 379814,
       "word": "金希澈和自己的婚礼",
@@ -3681,6 +3713,14 @@
       "onboard_time": 1698116435,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 359250,
+      "num": 359250,
+      "word": "卸妆膏为什么不做成这样",
+      "onboard_time": 1698242980,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 358765,
@@ -4089,6 +4129,14 @@
       "onboard_time": 1698146072,
       "rank": 18,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 320580,
+      "num": 320580,
+      "word": "李冰冰 周也老板",
+      "onboard_time": 1698244001,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 320433,
@@ -4931,6 +4979,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 273329,
+      "num": 273329,
+      "word": "王亚平当选妇联副主席",
+      "onboard_time": 1698242562,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 272815,
       "num": 272815,
       "word": "赵露思7年前火星情报局生图",
@@ -5001,14 +5057,6 @@
       "onboard_time": 1698199414,
       "rank": 15,
       "category": "动物萌宠"
-    },
-    {
-      "raw_hot": 269195,
-      "num": 200566,
-      "word": "成功的羊毛卷 从头顶开始烫中卷",
-      "onboard_time": 1698242920,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 269081,
@@ -5579,6 +5627,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 242838,
+      "num": 242838,
+      "word": "田耕纪 番外",
+      "onboard_time": 1698243102,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242423,
       "num": 242423,
       "word": "丁程鑫街舞队徽是小狐狸",
@@ -5987,14 +6043,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 228355,
-      "num": 200478,
-      "word": "卸妆膏为什么不做成这样",
-      "onboard_time": 1698242980,
-      "rank": 31,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 227680,
       "num": 227680,
       "word": "河边的错误 核心主题",
@@ -6025,6 +6073,14 @@
       "onboard_time": 1698200197,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226086,
+      "num": 226086,
+      "word": "谌贻琴当选为中华全国妇女联合会主席",
+      "onboard_time": 1698242380,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 225668,
@@ -6113,6 +6169,14 @@
       "onboard_time": 1697969371,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 222052,
+      "num": 222052,
+      "word": "沈梦辰见到戚薇的反应",
+      "onboard_time": 1698243582,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 221742,
@@ -6379,14 +6443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 212885,
-      "num": 212885,
-      "word": "王亚平当选妇联副主席",
-      "onboard_time": 1698242562,
-      "rank": 28,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 212884,
       "num": 212884,
       "word": "周涛 女声解说历史类纪录片先例",
@@ -6521,6 +6577,14 @@
       "onboard_time": 1698023914,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 208457,
+      "num": 208457,
+      "word": "当代年轻人逛街很有一套",
+      "onboard_time": 1698243344,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 208311,
@@ -6889,14 +6953,6 @@
       "onboard_time": 1698133594,
       "rank": 26,
       "category": "作品衍生,美妆"
-    },
-    {
-      "raw_hot": 200652,
-      "num": 200652,
-      "word": "谌贻琴当选为中华全国妇女联合会主席",
-      "onboard_time": 1698242380,
-      "rank": 29,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 200562,
@@ -7467,14 +7523,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 189163,
-      "num": 189163,
-      "word": "妖刀",
-      "onboard_time": 1698242439,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 189117,
       "num": 189117,
       "word": "玛恩纳新皮肤",
@@ -7635,6 +7683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185000,
+      "num": 185000,
+      "word": "我的老婆在外面哄别的女孩纸",
+      "onboard_time": 1698242620,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 184974,
       "num": 183661,
       "word": "田耕纪",
@@ -7657,14 +7713,6 @@
       "onboard_time": 1697963192,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 184505,
-      "num": 184505,
-      "word": "我的老婆在外面哄别的女孩纸",
-      "onboard_time": 1698242620,
-      "rank": 34,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 184382,
@@ -7779,6 +7827,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 181017,
+      "num": 181017,
+      "word": "郑钦文开门红",
+      "onboard_time": 1698244303,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180941,
       "num": 211129,
       "word": "MINNIE和HANNI唱Remember Me",
@@ -7809,6 +7865,14 @@
       "onboard_time": 1697979392,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180429,
+      "num": 180429,
+      "word": "黄宗泽粉丝今天吃这么好吗",
+      "onboard_time": 1698242380,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 180366,
@@ -7987,6 +8051,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 175677,
+      "num": 175677,
+      "word": "撒贝宁称自己是北大方便面系博士",
+      "onboard_time": 1698243704,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 175440,
       "num": 175440,
       "word": "显脸小的法式刘海儿",
@@ -8145,14 +8217,6 @@
       "onboard_time": 1698141633,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 172311,
-      "num": 172311,
-      "word": "黄宗泽粉丝今天吃这么好吗",
-      "onboard_time": 1698242380,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 172087,
@@ -8347,14 +8411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167105,
-      "num": 167105,
-      "word": "田耕纪 番外",
-      "onboard_time": 1698243102,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167082,
       "num": 167082,
       "word": "恋与王室 皇女的诱惑",
@@ -8409,14 +8465,6 @@
       "onboard_time": 1698018751,
       "rank": 39,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 164461,
-      "num": 164461,
-      "word": "女明星出圈图",
-      "onboard_time": 1698243164,
-      "rank": 42,
-      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 164300,
@@ -8979,6 +9027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150616,
+      "num": 150616,
+      "word": "狼队对战TTG",
+      "onboard_time": 1698234877,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150094,
       "num": 167101,
       "word": "费翔自拍",
@@ -9033,6 +9089,14 @@
       "onboard_time": 1698043362,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149431,
+      "num": 149431,
+      "word": "睫毛膏卸妆难辣眼睛",
+      "onboard_time": 1698244240,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 149384,
@@ -9715,14 +9779,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 136137,
-      "num": 136137,
-      "word": "当代年轻人逛街很有一套",
-      "onboard_time": 1698243344,
-      "rank": 49,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 135977,
       "num": 132670,
       "word": "易烊千玺新电影小小的我杀青",
@@ -9889,14 +9945,6 @@
       "onboard_time": 1697965831,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132629,
-      "num": 132629,
-      "word": "狼队对战TTG",
-      "onboard_time": 1698234877,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 132487,
@@ -11356,7 +11404,7 @@
     },
     {
       "raw_hot": 89850,
-      "num": 1517890,
+      "num": 1718734,
       "word": "速读未成年人网络保护条例举措",
       "onboard_time": 1698238361,
       "rank": 2,
