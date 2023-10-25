@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698226474305,
+  "endTime": 1698229111965,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -225,6 +225,14 @@
       "onboard_time": 1698205658,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2026061,
+      "num": 2026061,
+      "word": "李佳琦直播间浴液比其它平台贵超30元",
+      "onboard_time": 1698228214,
+      "rank": 0,
+      "category": "网红"
     },
     {
       "raw_hot": 2020302,
@@ -931,6 +939,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 933628,
+      "num": 933628,
+      "word": "徐穗珍回来了",
+      "onboard_time": 1698228099,
+      "rank": 7,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 931574,
       "num": 931574,
       "word": "王睡睡 人不要不知感恩",
@@ -1249,6 +1265,22 @@
       "onboard_time": 1698205598,
       "rank": 14,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 782856,
+      "num": 782856,
+      "word": "帕梅拉好小一只",
+      "onboard_time": 1698225575,
+      "rank": 13,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 775505,
+      "num": 775505,
+      "word": "俩主播硬刚卖了2.6亿不下播",
+      "onboard_time": 1698228214,
+      "rank": 12,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 775080,
@@ -1696,6 +1728,14 @@
       "word": "独自出门失踪3岁女童已找到",
       "onboard_time": 1698130715,
       "rank": 9,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 609919,
+      "num": 609919,
+      "word": "靳伟因北京长峰医院重大火灾事故被问责",
+      "onboard_time": 1698226652,
+      "rank": 14,
       "category": "社会新闻"
     },
     {
@@ -2443,6 +2483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 463814,
+      "num": 463814,
+      "word": "以色列拒向联合国官员发签证",
+      "onboard_time": 1698224198,
+      "rank": 27,
+      "category": "国外要闻"
+    },
+    {
       "raw_hot": 462844,
       "num": 462844,
       "word": "多地对归国留学生开放定向选调",
@@ -2657,14 +2705,6 @@
       "onboard_time": 1698194257,
       "rank": 12,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 436160,
-      "num": 436160,
-      "word": "帕梅拉好小一只",
-      "onboard_time": 1698225575,
-      "rank": 13,
-      "category": "运动健身"
     },
     {
       "raw_hot": 435224,
@@ -3137,14 +3177,6 @@
       "onboard_time": 1698150457,
       "rank": 24,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 384511,
-      "num": 384511,
-      "word": "以色列拒向联合国官员发签证",
-      "onboard_time": 1698224198,
-      "rank": 27,
-      "category": "国外要闻"
     },
     {
       "raw_hot": 384487,
@@ -3779,6 +3811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 319630,
+      "num": 319630,
+      "word": "小米",
+      "onboard_time": 1698226535,
+      "rank": 20,
+      "category": "数码"
+    },
+    {
       "raw_hot": 318465,
       "num": 318465,
       "word": "金戒指戴右手中指 招财",
@@ -3851,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 315093,
+      "num": 315093,
+      "word": "给迪丽热巴急的栓Q都出来了",
+      "onboard_time": 1698226355,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315016,
       "num": 315016,
       "word": "出国一定要记得贴信用卡",
@@ -3905,6 +3953,14 @@
       "onboard_time": 1698029313,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310305,
+      "num": 271606,
+      "word": "辛芷蕾竟然演过丑女无敌",
+      "onboard_time": 1698228035,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 309871,
@@ -4025,14 +4081,6 @@
       "onboard_time": 1698122382,
       "rank": 17,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 302876,
-      "num": 302876,
-      "word": "给迪丽热巴急的栓Q都出来了",
-      "onboard_time": 1698226355,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 302322,
@@ -4787,6 +4835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 259444,
+      "num": 259444,
+      "word": "孙红雷夫妇牵手游乌镇",
+      "onboard_time": 1698227556,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 258900,
       "num": 258900,
       "word": "美ONE回应京东采销喊话李佳琦",
@@ -4889,6 +4945,14 @@
       "onboard_time": 1697971052,
       "rank": 23,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 254660,
+      "num": 254660,
+      "word": "贵州大学辟谣",
+      "onboard_time": 1698227674,
+      "rank": 25,
+      "category": "社会新闻,教育"
     },
     {
       "raw_hot": 254491,
@@ -5059,6 +5123,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 248583,
+      "num": 248583,
+      "word": "广西科目三在台湾火了",
+      "onboard_time": 1698227855,
+      "rank": 27,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 248493,
       "num": 248493,
       "word": "中国单身青年变化趋势",
@@ -5177,6 +5249,14 @@
       "onboard_time": 1698044564,
       "rank": 23,
       "category": "社会新闻,教育"
+    },
+    {
+      "raw_hot": 239780,
+      "num": 232016,
+      "word": "气血不足最怕的10个运动",
+      "onboard_time": 1698228274,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 239663,
@@ -5379,6 +5459,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 233006,
+      "num": 233006,
+      "word": "原来明星都在这里剪头发",
+      "onboard_time": 1698228699,
+      "rank": 29,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 232996,
       "num": 232996,
       "word": "神十七航天员乘组公布",
@@ -5481,6 +5569,22 @@
       "onboard_time": 1697946871,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 230834,
+      "num": 230834,
+      "word": "邓紫棋巡演真的要来了",
+      "onboard_time": 1698226057,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 230315,
+      "num": 230315,
+      "word": "海澜之家 十个勤天",
+      "onboard_time": 1698226652,
+      "rank": 32,
+      "category": "综艺,时尚"
     },
     {
       "raw_hot": 230273,
@@ -5817,14 +5921,6 @@
       "onboard_time": 1698046184,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 216030,
-      "num": 216030,
-      "word": "邓紫棋巡演真的要来了",
-      "onboard_time": 1698226057,
-      "rank": 32,
-      "category": "演出"
     },
     {
       "raw_hot": 215366,
@@ -6275,6 +6371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202147,
+      "num": 2000350,
+      "word": "用甲骨文还原3000年前的狩猎",
+      "onboard_time": 1698227500,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 202065,
       "num": 189641,
       "word": "汉密尔顿勒克莱尔被取消成绩",
@@ -6563,6 +6667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 197025,
+      "num": 197025,
+      "word": "吴昕说张踩铃女儿眼里有活",
+      "onboard_time": 1698227015,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 196535,
       "num": 170073,
       "word": "主动脉夹层是什么",
@@ -6753,6 +6865,14 @@
       "onboard_time": 1698193295,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192406,
+      "num": 192406,
+      "word": "天津大姨盘头",
+      "onboard_time": 1698227916,
+      "rank": 36,
+      "category": "美妆"
     },
     {
       "raw_hot": 192321,
@@ -7140,7 +7260,7 @@
     },
     {
       "raw_hot": 183165,
-      "num": 183165,
+      "num": 1555432,
       "word": "神六直播连线男孩18年后成央视主播",
       "onboard_time": 1698225817,
       "rank": 36,
@@ -7273,6 +7393,14 @@
       "onboard_time": 1698126036,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179236,
+      "num": 179236,
+      "word": "韩国多子女公务员可优先晋升",
+      "onboard_time": 1698228575,
+      "rank": 38,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 179011,
@@ -8033,6 +8161,14 @@
       "onboard_time": 1698205058,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157299,
+      "num": 157299,
+      "word": "万圣节丧尸妆",
+      "onboard_time": 1698226596,
+      "rank": 42,
+      "category": "美妆"
     },
     {
       "raw_hot": 157203,
@@ -10299,6 +10435,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 102991,
+      "num": 240048,
+      "word": "无所谓喷火无人机会出手",
+      "onboard_time": 1698228876,
+      "rank": 28,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 102941,
       "num": 102941,
       "word": "夫妻摆摊卖盒饭收留聋哑人3余年",
@@ -10552,6 +10696,14 @@
       "word": "王石称OPPO折叠屏是安全天花板",
       "onboard_time": 1698030575,
       "rank": 27,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 94110,
+      "num": 483165,
+      "word": "怎能不陶醉于祖国大美河山",
+      "onboard_time": 1698227138,
+      "rank": 16,
       "category": "社会新闻"
     },
     {
