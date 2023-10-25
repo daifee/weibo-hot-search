@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698222961773,
+  "endTime": 1698225465181,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -107,6 +107,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1306798,
+      "num": 1306798,
+      "word": "赵又廷回应夺妻之仇不共戴天",
+      "onboard_time": 1698216815,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 1220244,
       "num": 1220244,
       "word": "芒果台的文案到底是谁在写",
@@ -153,6 +161,14 @@
       "onboard_time": 1698205299,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1006043,
+      "num": 713562,
+      "word": "揭秘李佳琦与小杨哥商业关联",
+      "onboard_time": 1698224855,
+      "rank": 6,
+      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 996749,
@@ -299,6 +315,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 732192,
+      "num": 732192,
+      "word": "家属证实侯孝贤患阿尔兹海默症",
+      "onboard_time": 1698223900,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 721315,
       "num": 721315,
       "word": "调休是因为不得不调但更人性化更灵活",
@@ -315,20 +339,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 665469,
+      "num": 665469,
+      "word": "武汉全城拉响防空警报",
+      "onboard_time": 1698222217,
+      "rank": 6,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 643603,
+      "num": 643603,
+      "word": "邵明明直播哭了",
+      "onboard_time": 1698222817,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641772,
       "num": 378012,
       "word": "李佳琦直播间称从未要求品牌二选一",
       "onboard_time": 1698144754,
       "rank": 10,
       "category": "美妆,网红"
-    },
-    {
-      "raw_hot": 636165,
-      "num": 636165,
-      "word": "赵又廷回应夺妻之仇不共戴天",
-      "onboard_time": 1698216815,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 623194,
@@ -353,14 +385,6 @@
       "onboard_time": 1698195453,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 598473,
-      "num": 598473,
-      "word": "武汉全城拉响防空警报",
-      "onboard_time": 1698222217,
-      "rank": 6,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 596096,
@@ -467,6 +491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 504264,
+      "num": 504264,
+      "word": "北京长峰医院重大火灾事故调查报告",
+      "onboard_time": 1698225158,
+      "rank": 13,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 482832,
       "num": 482832,
       "word": "财阀千金感美甲",
@@ -561,6 +593,14 @@
       "onboard_time": 1698212796,
       "rank": 20,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 420641,
+      "num": 420641,
+      "word": "因10元工钱工人在车门拖拽工头致地铁延误被拘",
+      "onboard_time": 1698222996,
+      "rank": 17,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 410098,
@@ -859,12 +899,28 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 290600,
+      "num": 201398,
+      "word": "肺炎支原体 阿奇霉素72小时",
+      "onboard_time": 1698224015,
+      "rank": 30,
+      "category": "健康医疗,知识科普"
+    },
+    {
       "raw_hot": 290556,
       "num": 290556,
       "word": "我在女足赛场外免费派发卫生巾",
       "onboard_time": 1698207763,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 288923,
+      "num": 288923,
+      "word": "恋综报名表",
+      "onboard_time": 1698223177,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 281221,
@@ -1089,6 +1145,14 @@
       "onboard_time": 1698206979,
       "rank": 33,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 245938,
+      "num": 245938,
+      "word": "以色列拒向联合国官员发签证",
+      "onboard_time": 1698224198,
+      "rank": 27,
+      "category": "国外要闻"
     },
     {
       "raw_hot": 241509,
@@ -1419,6 +1483,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 193451,
+      "num": 193451,
+      "word": "没有赶上年夜饭和春晚的成年人",
+      "onboard_time": 1698224256,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192775,
       "num": 192775,
       "word": "利雅得胜利 德布劳内",
@@ -1465,6 +1537,14 @@
       "onboard_time": 1698211364,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188678,
+      "num": 188678,
+      "word": "咒术回战 假夏油杰做鬼脸",
+      "onboard_time": 1698224737,
+      "rank": 33,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 188458,
@@ -1739,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161589,
+      "num": 161589,
+      "word": "秦海璐 这才是花少大姐的样子",
+      "onboard_time": 1698225217,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161275,
       "num": 161275,
       "word": "阿娇仙乐 冰山美人",
@@ -1769,6 +1857,14 @@
       "onboard_time": 1698161855,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156997,
+      "num": 156997,
+      "word": "这五台山的狐狸迷惑不了纣王吧",
+      "onboard_time": 1698224975,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 152371,
@@ -1809,14 +1905,6 @@
       "onboard_time": 1698205962,
       "rank": 45,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 146962,
-      "num": 146962,
-      "word": "邵明明直播哭了",
-      "onboard_time": 1698222817,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 145474,
@@ -1931,12 +2019,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 139257,
+      "num": 139257,
+      "word": "花儿与少年",
+      "onboard_time": 1698223118,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137522,
       "num": 137522,
       "word": "林心如专访谈有生之年",
       "onboard_time": 1698198512,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 137472,
+      "num": 137472,
+      "word": "头部主播和平台到底谁垄断了",
+      "onboard_time": 1698223303,
+      "rank": 46,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 136699,
@@ -2081,6 +2185,14 @@
       "onboard_time": 1698189145,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119204,
+      "num": 119204,
+      "word": "当北方人第一次去广州吃早茶",
+      "onboard_time": 1698225217,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 118971,

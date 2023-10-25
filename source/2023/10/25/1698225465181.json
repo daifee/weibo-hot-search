@@ -1,0 +1,410 @@
+{
+  "runTime": 1698225465181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2430527,
+        "num": 2430527,
+        "word": "秦海璐 我结婚了没关系",
+        "onboard_time": 1698218016,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1454116,
+        "num": 1454116,
+        "word": "大杨哥怒批李佳琦挟持商家",
+        "onboard_time": 1698205236,
+        "rank": 1,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 22176,
+        "num": 1366258,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1306798,
+        "num": 1306798,
+        "word": "赵又廷回应夺妻之仇不共戴天",
+        "onboard_time": 1698216815,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 947828,
+        "num": 947828,
+        "word": "芒果台的文案到底是谁在写",
+        "onboard_time": 1698218617,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 732192,
+        "num": 732192,
+        "word": "家属证实侯孝贤患阿尔兹海默症",
+        "onboard_time": 1698223900,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1006043,
+        "num": 713562,
+        "word": "揭秘李佳琦与小杨哥商业关联",
+        "onboard_time": 1698224855,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 665469,
+        "num": 665469,
+        "word": "武汉全城拉响防空警报",
+        "onboard_time": 1698222217,
+        "rank": 7,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 643603,
+        "num": 643603,
+        "word": "邵明明直播哭了",
+        "onboard_time": 1698222817,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 593752,
+        "num": 593752,
+        "word": "律师称李佳琦限价控库存属垄断行为",
+        "onboard_time": 1698219396,
+        "rank": 9,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 1247035,
+        "num": 575382,
+        "word": "国家发改委回应2024年放假安排",
+        "onboard_time": 1698205658,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 957798,
+        "num": 568701,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 893098,
+        "num": 547868,
+        "word": "女子当街杀害男子并电话告知其家属",
+        "onboard_time": 1698212677,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 504264,
+        "num": 504264,
+        "word": "北京长峰医院重大火灾事故调查报告",
+        "onboard_time": 1698225158,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497971,
+        "num": 497971,
+        "word": "章子怡事业困境 华语电影大女性角色",
+        "onboard_time": 1698213461,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 497812,
+        "num": 497812,
+        "word": "肖顺尧在看迪丽热巴新综艺",
+        "onboard_time": 1698221559,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435752,
+        "num": 435752,
+        "word": "肺癌细胞会装幼稚欺骗大脑保护",
+        "onboard_time": 1698220778,
+        "rank": 16,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 420641,
+        "num": 420641,
+        "word": "因10元工钱工人在车门拖拽工头致地铁延误被拘",
+        "onboard_time": 1698222996,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 407426,
+        "num": 407426,
+        "word": "徐明浩 瑞幸",
+        "onboard_time": 1698207044,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358785,
+        "num": 358785,
+        "word": "安妮海瑟薇为什么突然老了",
+        "onboard_time": 1698205299,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356289,
+        "num": 356289,
+        "word": "殷世航两小时背500个单词",
+        "onboard_time": 1698218377,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 355148,
+        "num": 355148,
+        "word": "迪丽热巴生病不能耽误美",
+        "onboard_time": 1698216518,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308413,
+        "num": 308413,
+        "word": "京东高管回应采销喊话李佳琦",
+        "onboard_time": 1698208001,
+        "rank": 22,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 288923,
+        "num": 288923,
+        "word": "恋综报名表",
+        "onboard_time": 1698223177,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282044,
+        "num": 282044,
+        "word": "汪海林 晋江文学城",
+        "onboard_time": 1698220357,
+        "rank": 24,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 282924,
+        "num": 280835,
+        "word": "陈都灵这顶级的破碎感",
+        "onboard_time": 1698221500,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271652,
+        "num": 271652,
+        "word": "雷军",
+        "onboard_time": 1698220477,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245938,
+        "num": 245938,
+        "word": "以色列拒向联合国官员发签证",
+        "onboard_time": 1698224198,
+        "rank": 27,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 210870,
+        "num": 210870,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 201589,
+        "num": 201589,
+        "word": "大学生做兼职首日进账10万立即报警",
+        "onboard_time": 1698216102,
+        "rank": 29,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 290600,
+        "num": 201398,
+        "word": "肺炎支原体 阿奇霉素72小时",
+        "onboard_time": 1698224015,
+        "rank": 30,
+        "category": "健康医疗,知识科普"
+      },
+      {
+        "raw_hot": 194851,
+        "num": 194851,
+        "word": "王海打假李佳琦直播间卖和田玉",
+        "onboard_time": 1698198091,
+        "rank": 31,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 193451,
+        "num": 193451,
+        "word": "没有赶上年夜饭和春晚的成年人",
+        "onboard_time": 1698224256,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188678,
+        "num": 188678,
+        "word": "咒术回战 假夏油杰做鬼脸",
+        "onboard_time": 1698224737,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 173218,
+        "num": 173218,
+        "word": "孕妇绞断手指交警一路嘶吼开道",
+        "onboard_time": 1698216035,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173086,
+        "num": 173086,
+        "word": "THE9演唱会个人公式照",
+        "onboard_time": 1698216755,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165602,
+        "num": 165602,
+        "word": "今生簪花 来世漂亮",
+        "onboard_time": 1698212621,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163350,
+        "num": 163350,
+        "word": "赵露思奶拽烟熏妆",
+        "onboard_time": 1698212796,
+        "rank": 37,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 161589,
+        "num": 161589,
+        "word": "秦海璐 这才是花少大姐的样子",
+        "onboard_time": 1698225217,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156997,
+        "num": 156997,
+        "word": "这五台山的狐狸迷惑不了纣王吧",
+        "onboard_time": 1698224975,
+        "rank": 39,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 142760,
+        "num": 142760,
+        "word": "89岁老人为亡妻打造花海17年",
+        "onboard_time": 1698219639,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 142456,
+        "num": 142456,
+        "word": "我恋5 孙圣伦",
+        "onboard_time": 1698222275,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141837,
+        "num": 141837,
+        "word": "成毅Queencard跳到六公主了",
+        "onboard_time": 1698211781,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139257,
+        "num": 139257,
+        "word": "花儿与少年",
+        "onboard_time": 1698223118,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138706,
+        "num": 138706,
+        "word": "除夕A股正常开市",
+        "onboard_time": 1698206561,
+        "rank": 44,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 138266,
+        "num": 138266,
+        "word": "黄渤孙红雷黄磊张艺兴王迅最新合照",
+        "onboard_time": 1698214119,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137472,
+        "num": 137472,
+        "word": "头部主播和平台到底谁垄断了",
+        "onboard_time": 1698223303,
+        "rank": 46,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 135298,
+        "num": 135298,
+        "word": "王诗晴首次选离婚",
+        "onboard_time": 1698212919,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125566,
+        "num": 125566,
+        "word": "刘嘉玲拍的梁朝伟王菲",
+        "onboard_time": 1698210702,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119204,
+        "num": 119204,
+        "word": "当北方人第一次去广州吃早茶",
+        "onboard_time": 1698225217,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
+    }
+  }
+}
