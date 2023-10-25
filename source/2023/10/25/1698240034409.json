@@ -1,0 +1,410 @@
+{
+  "runTime": 1698240034409,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6000684,
+        "num": 6000684,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1529360,
+        "num": 1529360,
+        "word": "秦岚 消音",
+        "onboard_time": 1698237460,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64955,
+        "num": 1517890,
+        "word": "速读未成年人网络保护条例举措",
+        "onboard_time": 1698238361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1510062,
+        "num": 1510062,
+        "word": "BIGBANG五名成员四名涉毒",
+        "onboard_time": 1698239622,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1403268,
+        "num": 1403268,
+        "word": "潜水员韩颋遗体已被打捞上岸",
+        "onboard_time": 1698236858,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 906714,
+        "num": 906714,
+        "word": "郭麒麟回应胖了",
+        "onboard_time": 1698238662,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 835241,
+        "num": 835241,
+        "word": "被狗咬女童未使用善款将全退回",
+        "onboard_time": 1698233440,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 788847,
+        "num": 788847,
+        "word": "迪丽热巴浓妆vs淡妆",
+        "onboard_time": 1698235001,
+        "rank": 7,
+        "category": "综艺,美妆"
+      },
+      {
+        "raw_hot": 720177,
+        "num": 720177,
+        "word": "被咬女童妈妈解释为何筹款",
+        "onboard_time": 1698236800,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 607179,
+        "num": 607179,
+        "word": "俩主播硬刚卖了2.6亿不下播",
+        "onboard_time": 1698228214,
+        "rank": 9,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 1158187,
+        "num": 586422,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 971131,
+        "num": 546488,
+        "word": "YG回应权志龙涉嫌吸毒",
+        "onboard_time": 1698230078,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 782238,
+        "num": 514452,
+        "word": "BIGBANG最后的正常人居然是太阳",
+        "onboard_time": 1698238123,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 762756,
+        "num": 509538,
+        "word": "秦海璐 我结婚了没关系",
+        "onboard_time": 1698218016,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 480684,
+        "num": 480684,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 14,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 527267,
+        "num": 469160,
+        "word": "田耕纪结局",
+        "onboard_time": 1698232785,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403062,
+        "num": 403062,
+        "word": "广东一学校近700名新生集体退学",
+        "onboard_time": 1698232064,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 382011,
+        "num": 382011,
+        "word": "卫健委回应男婴打疫苗40小时后死亡",
+        "onboard_time": 1698236740,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 365863,
+        "num": 365863,
+        "word": "天官赐福",
+        "onboard_time": 1698231879,
+        "rank": 18,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 324783,
+        "num": 324783,
+        "word": "于适美学",
+        "onboard_time": 1698236858,
+        "rank": 19,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 448104,
+        "num": 320602,
+        "word": "90后夫妻裸婚后同城分居5年",
+        "onboard_time": 1698236075,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331530,
+        "num": 308582,
+        "word": "因为一部剧爆红的演员",
+        "onboard_time": 1698236500,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288181,
+        "num": 288181,
+        "word": "专家称春节调休不如再加2天假",
+        "onboard_time": 1698231290,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259996,
+        "num": 259996,
+        "word": "唇膏最好竖着涂",
+        "onboard_time": 1698239380,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 229683,
+        "num": 229683,
+        "word": "韩剧妆造",
+        "onboard_time": 1698239140,
+        "rank": 24,
+        "category": "美妆,作品衍生"
+      },
+      {
+        "raw_hot": 260926,
+        "num": 228485,
+        "word": "王一博现身乌镇戏剧节",
+        "onboard_time": 1698238600,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 243197,
+        "num": 225565,
+        "word": "赵又廷回应夺妻之仇不共戴天",
+        "onboard_time": 1698216815,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238799,
+        "num": 220788,
+        "word": "徐穗珍回来了",
+        "onboard_time": 1698228099,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213789,
+        "num": 213789,
+        "word": "辱骂新加坡护士的中国女子判了",
+        "onboard_time": 1698231647,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 161896,
+        "num": 185355,
+        "word": "加沙已有近8000名儿童死伤",
+        "onboard_time": 1698234161,
+        "rank": 29,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 234010,
+        "num": 185064,
+        "word": "一年只做一次的空瓶分享",
+        "onboard_time": 1698237819,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184251,
+        "num": 184251,
+        "word": "帕梅拉好小一只",
+        "onboard_time": 1698225575,
+        "rank": 31,
+        "category": "运动健身,网红"
+      },
+      {
+        "raw_hot": 182916,
+        "num": 182916,
+        "word": "大杨哥怒批李佳琦挟持商家",
+        "onboard_time": 1698205236,
+        "rank": 32,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 168807,
+        "num": 168807,
+        "word": "气血不足最怕的10个运动",
+        "onboard_time": 1698228274,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164005,
+        "num": 164005,
+        "word": "皮肤没问题买几十块婴儿面霜也行",
+        "onboard_time": 1698239801,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 163973,
+        "num": 163973,
+        "word": "曾舜晞演技",
+        "onboard_time": 1698235780,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153290,
+        "num": 153290,
+        "word": "明星吸毒为何不断出现",
+        "onboard_time": 1698234763,
+        "rank": 36,
+        "category": "社会新闻,艺人"
+      },
+      {
+        "raw_hot": 155490,
+        "num": 152976,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 37,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 151998,
+        "num": 151998,
+        "word": "小米14",
+        "onboard_time": 1698232304,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148214,
+        "num": 148214,
+        "word": "又到张杰的周三了",
+        "onboard_time": 1698235239,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147423,
+        "num": 147423,
+        "word": "女航天员王亚平谈出舱感受",
+        "onboard_time": 1698238720,
+        "rank": 40,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 146370,
+        "num": 146370,
+        "word": "祛痘小妙招",
+        "onboard_time": 1698239622,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 142469,
+        "num": 142469,
+        "word": "5万元冰箱起火准新娘命丧婚房",
+        "onboard_time": 1698239980,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 136452,
+        "num": 136452,
+        "word": "MANTA 新团综",
+        "onboard_time": 1698239020,
+        "rank": 43,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 128738,
+        "num": 128738,
+        "word": "女生独自做完手术获陌生人安慰落泪",
+        "onboard_time": 1698231527,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126132,
+        "num": 126132,
+        "word": "田耕纪",
+        "onboard_time": 1698236019,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124810,
+        "num": 124810,
+        "word": "天官赐福第二季",
+        "onboard_time": 1698235838,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 120011,
+        "num": 120011,
+        "word": "塞尔达传说王国之泪 花",
+        "onboard_time": 1698234340,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 119691,
+        "num": 119691,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 116566,
+        "num": 116566,
+        "word": "国家药监局通报20批次不合规面膜",
+        "onboard_time": 1698230987,
+        "rank": 49,
+        "category": "社会新闻,美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士们的功绩彪炳千秋#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698238139959,
+  "endTime": 1698240034409,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -3971,6 +3971,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1529360,
+      "num": 1529360,
+      "word": "秦岚 消音",
+      "onboard_time": 1698237460,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1525564,
       "num": 432110,
       "word": "斓曦 流浪猫狗有什么错",
@@ -4025,6 +4033,14 @@
       "onboard_time": 1696244253,
       "rank": 12,
       "category": "其它"
+    },
+    {
+      "raw_hot": 1510062,
+      "num": 1510062,
+      "word": "BIGBANG五名成员四名涉毒",
+      "onboard_time": 1698239622,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 1509367,
@@ -4457,6 +4473,14 @@
       "onboard_time": 1697377178,
       "rank": 10,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1403268,
+      "num": 1403268,
+      "word": "潜水员韩颋遗体已被打捞上岸",
+      "onboard_time": 1698236858,
+      "rank": 15,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1402353,
@@ -5041,14 +5065,6 @@
       "onboard_time": 1697442812,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1318356,
-      "num": 1318356,
-      "word": "潜水员韩颋遗体已被打捞上岸",
-      "onboard_time": 1698236858,
-      "rank": 15,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1316943,
@@ -8379,6 +8395,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 906714,
+      "num": 906714,
+      "word": "郭麒麟回应胖了",
+      "onboard_time": 1698238662,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 906337,
       "num": 906337,
       "word": "这就是街舞",
@@ -10459,6 +10483,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 782238,
+      "num": 514452,
+      "word": "BIGBANG最后的正常人居然是太阳",
+      "onboard_time": 1698238123,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 781911,
       "num": 781911,
       "word": "希望国乒双打失利能引起教练组的重视",
@@ -11569,6 +11601,14 @@
       "onboard_time": 1697562203,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 720177,
+      "num": 720177,
+      "word": "被咬女童妈妈解释为何筹款",
+      "onboard_time": 1698236800,
+      "rank": 27,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 720037,
@@ -14523,14 +14563,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 603042,
-      "num": 603042,
-      "word": "被咬女童妈妈解释为何筹款",
-      "onboard_time": 1698236800,
-      "rank": 27,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 603019,
       "num": 415799,
       "word": "韩素希新头像是TXT",
@@ -15569,14 +15601,6 @@
       "onboard_time": 1696818032,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 572332,
-      "num": 572332,
-      "word": "秦岚 消音",
-      "onboard_time": 1698237460,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 571841,
@@ -21027,6 +21051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 448104,
+      "num": 320602,
+      "word": "90后夫妻裸婚后同城分居5年",
+      "onboard_time": 1698236075,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 448101,
       "num": 448101,
       "word": "嗑CP 青年女粉丝的创造性情感体验",
@@ -23251,14 +23283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 407149,
-      "num": 303723,
-      "word": "90后夫妻裸婚后同城分居5年",
-      "onboard_time": 1698236075,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 407130,
       "num": 407130,
       "word": "核污水冲击下的日料店",
@@ -24897,6 +24921,14 @@
       "onboard_time": 1696893746,
       "rank": 31,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 382011,
+      "num": 382011,
+      "word": "卫健委回应男婴打疫苗40小时后死亡",
+      "onboard_time": 1698236740,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 381904,
@@ -28707,6 +28739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 331530,
+      "num": 308582,
+      "word": "因为一部剧爆红的演员",
+      "onboard_time": 1698236500,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331464,
       "num": 331464,
       "word": "秦霄贤在周扬青面前横不了一点",
@@ -28953,14 +28993,6 @@
       "onboard_time": 1696835194,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 328343,
-      "num": 328343,
-      "word": "卫健委回应男婴打疫苗40小时后死亡",
-      "onboard_time": 1698236740,
-      "rank": 42,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 328281,
@@ -29281,6 +29313,14 @@
       "onboard_time": 1697958932,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 324783,
+      "num": 324783,
+      "word": "于适美学",
+      "onboard_time": 1698236858,
+      "rank": 32,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 324704,
@@ -30225,14 +30265,6 @@
       "onboard_time": 1698036887,
       "rank": 25,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 314282,
-      "num": 303041,
-      "word": "因为一部剧爆红的演员",
-      "onboard_time": 1698236500,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 314253,
@@ -32049,14 +32081,6 @@
       "onboard_time": 1698056628,
       "rank": 23,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 294920,
-      "num": 294920,
-      "word": "于适美学",
-      "onboard_time": 1698236858,
-      "rank": 32,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 294873,
@@ -36483,6 +36507,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 260926,
+      "num": 228485,
+      "word": "王一博现身乌镇戏剧节",
+      "onboard_time": 1698238600,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 260771,
       "num": 260771,
       "word": "为什么大学图书馆门口楼梯这么多",
@@ -36593,6 +36625,14 @@
       "onboard_time": 1696334315,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 259996,
+      "num": 259996,
+      "word": "唇膏最好竖着涂",
+      "onboard_time": 1698239380,
+      "rank": 23,
+      "category": "美妆"
     },
     {
       "raw_hot": 259957,
@@ -40499,6 +40539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234010,
+      "num": 185064,
+      "word": "一年只做一次的空瓶分享",
+      "onboard_time": 1698237819,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 233933,
       "num": 233933,
       "word": "太空里还有3个中国人",
@@ -41209,6 +41257,14 @@
       "onboard_time": 1697603078,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 229683,
+      "num": 229683,
+      "word": "韩剧妆造",
+      "onboard_time": 1698239140,
+      "rank": 24,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 229630,
@@ -56419,6 +56475,14 @@
       "category": "社会新闻,动物萌宠"
     },
     {
+      "raw_hot": 164005,
+      "num": 164005,
+      "word": "皮肤没问题买几十块婴儿面霜也行",
+      "onboard_time": 1698239801,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 163993,
       "num": 163993,
       "word": "跛脚村医行医22年徒步近8万公里",
@@ -59795,6 +59859,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 147423,
+      "num": 147423,
+      "word": "女航天员王亚平谈出舱感受",
+      "onboard_time": 1698238720,
+      "rank": 40,
+      "category": "社会新闻,科技"
+    },
+    {
       "raw_hot": 147373,
       "num": 147373,
       "word": "郭宝昌生前邀请刘佩琦参加大宅门发布会",
@@ -59961,6 +60033,14 @@
       "onboard_time": 1698059205,
       "rank": 35,
       "category": "美食"
+    },
+    {
+      "raw_hot": 146370,
+      "num": 146370,
+      "word": "祛痘小妙招",
+      "onboard_time": 1698239622,
+      "rank": 41,
+      "category": "美妆"
     },
     {
       "raw_hot": 146333,
@@ -60729,6 +60809,14 @@
       "onboard_time": 1696467873,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142469,
+      "num": 142469,
+      "word": "5万元冰箱起火准新娘命丧婚房",
+      "onboard_time": 1698239980,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 142467,
@@ -61777,6 +61865,14 @@
       "onboard_time": 1697613153,
       "rank": 43,
       "category": "社会新闻,动物萌宠"
+    },
+    {
+      "raw_hot": 136452,
+      "num": 136452,
+      "word": "MANTA 新团综",
+      "onboard_time": 1698239020,
+      "rank": 43,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 136443,
@@ -63601,14 +63697,6 @@
       "onboard_time": 1698195933,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125746,
-      "num": 125746,
-      "word": "BIGBANG最后的正常人居然是太阳",
-      "onboard_time": 1698238123,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 125410,
@@ -68089,6 +68177,14 @@
       "onboard_time": 1697757806,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64955,
+      "num": 1517890,
+      "word": "速读未成年人网络保护条例举措",
+      "onboard_time": 1698238361,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 64899,
