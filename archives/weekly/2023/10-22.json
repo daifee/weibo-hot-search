@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698240869599,
+  "endTime": 1698243374374,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -291,6 +291,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1902045,
+      "num": 534579,
+      "word": "感觉权志龙要变异了",
+      "onboard_time": 1698242620,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1840803,
       "num": 416299,
       "word": "Lucky八岁了好漂亮",
@@ -329,6 +337,14 @@
       "onboard_time": 1697950232,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1735228,
+      "num": 1735228,
+      "word": "在海底捞吃了42万是什么体验",
+      "onboard_time": 1698241302,
+      "rank": 1,
+      "category": "美食"
     },
     {
       "raw_hot": 1731841,
@@ -577,6 +593,14 @@
       "onboard_time": 1698045406,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1310602,
+      "num": 1310602,
+      "word": "皮肤没问题买几十块婴儿面霜也行",
+      "onboard_time": 1698239801,
+      "rank": 34,
+      "category": "美妆"
     },
     {
       "raw_hot": 1306798,
@@ -985,6 +1009,14 @@
       "onboard_time": 1698106418,
       "rank": 4,
       "category": "电影"
+    },
+    {
+      "raw_hot": 953841,
+      "num": 953841,
+      "word": "张桂梅当选妇联副主席",
+      "onboard_time": 1698241364,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 952431,
@@ -1891,14 +1923,6 @@
       "category": "作品衍生,美妆"
     },
     {
-      "raw_hot": 603460,
-      "num": 603460,
-      "word": "皮肤没问题买几十块婴儿面霜也行",
-      "onboard_time": 1698239801,
-      "rank": 34,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 602849,
       "num": 602849,
       "word": "李佳琦直播预告",
@@ -2731,6 +2755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 455319,
+      "num": 455319,
+      "word": "5名工作人员接触到福岛核污染水",
+      "onboard_time": 1698241422,
+      "rank": 14,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 455130,
       "num": 455130,
       "word": "2024MSI 成都",
@@ -3425,6 +3457,14 @@
       "onboard_time": 1698035629,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 380493,
+      "num": 380493,
+      "word": "秦始皇陵西墓葬发现罕见6只绵羊羊车",
+      "onboard_time": 1698240580,
+      "rank": 35,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 379814,
@@ -4963,6 +5003,14 @@
       "category": "动物萌宠"
     },
     {
+      "raw_hot": 269195,
+      "num": 200566,
+      "word": "成功的羊毛卷 从头顶开始烫中卷",
+      "onboard_time": 1698242920,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 269081,
       "num": 269081,
       "word": "李一桐温柔甜妹妆",
@@ -5305,6 +5353,14 @@
       "onboard_time": 1698199232,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 253365,
+      "num": 253365,
+      "word": "5万元冰箱起火准新娘命丧婚房",
+      "onboard_time": 1698239980,
+      "rank": 42,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 253187,
@@ -5931,6 +5987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 228355,
+      "num": 200478,
+      "word": "卸妆膏为什么不做成这样",
+      "onboard_time": 1698242980,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 227680,
       "num": 227680,
       "word": "河边的错误 核心主题",
@@ -6243,14 +6307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 214877,
-      "num": 214877,
-      "word": "5万元冰箱起火准新娘命丧婚房",
-      "onboard_time": 1698239980,
-      "rank": 42,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 214759,
       "num": 197997,
       "word": "克宫回应普京健康出问题说法",
@@ -6321,6 +6377,14 @@
       "onboard_time": 1698054108,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212885,
+      "num": 212885,
+      "word": "王亚平当选妇联副主席",
+      "onboard_time": 1698242562,
+      "rank": 28,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 212884,
@@ -6825,6 +6889,14 @@
       "onboard_time": 1698133594,
       "rank": 26,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 200652,
+      "num": 200652,
+      "word": "谌贻琴当选为中华全国妇女联合会主席",
+      "onboard_time": 1698242380,
+      "rank": 29,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 200562,
@@ -7395,6 +7467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 189163,
+      "num": 189163,
+      "word": "妖刀",
+      "onboard_time": 1698242439,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 189117,
       "num": 189117,
       "word": "玛恩纳新皮肤",
@@ -7555,14 +7635,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 185009,
-      "num": 185009,
-      "word": "秦始皇陵西墓葬发现罕见6只绵羊羊车",
-      "onboard_time": 1698240580,
-      "rank": 35,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 184974,
       "num": 183661,
       "word": "田耕纪",
@@ -7585,6 +7657,14 @@
       "onboard_time": 1697963192,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 184505,
+      "num": 184505,
+      "word": "我的老婆在外面哄别的女孩纸",
+      "onboard_time": 1698242620,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 184382,
@@ -7681,6 +7761,14 @@
       "onboard_time": 1697894618,
       "rank": 23,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 182425,
+      "num": 182425,
+      "word": "吃口糖道歉了半节课",
+      "onboard_time": 1698241062,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 182142,
@@ -8059,6 +8147,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 172311,
+      "num": 172311,
+      "word": "黄宗泽粉丝今天吃这么好吗",
+      "onboard_time": 1698242380,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172087,
       "num": 172087,
       "word": "桃花坞文案",
@@ -8251,6 +8347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 167105,
+      "num": 167105,
+      "word": "田耕纪 番外",
+      "onboard_time": 1698243102,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 167082,
       "num": 167082,
       "word": "恋与王室 皇女的诱惑",
@@ -8305,6 +8409,14 @@
       "onboard_time": 1698018751,
       "rank": 39,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 164461,
+      "num": 164461,
+      "word": "女明星出圈图",
+      "onboard_time": 1698243164,
+      "rank": 42,
+      "category": "美妆,作品衍生"
     },
     {
       "raw_hot": 164300,
@@ -9601,6 +9713,14 @@
       "onboard_time": 1698145472,
       "rank": 42,
       "category": "财经"
+    },
+    {
+      "raw_hot": 136137,
+      "num": 136137,
+      "word": "当代年轻人逛街很有一套",
+      "onboard_time": 1698243344,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 135977,
@@ -11235,6 +11355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 89850,
+      "num": 1517890,
+      "word": "速读未成年人网络保护条例举措",
+      "onboard_time": 1698238361,
+      "rank": 2,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 89713,
       "num": 142874,
       "word": "罗云熙芭莎大片",
@@ -11505,14 +11633,6 @@
       "onboard_time": 1697997317,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 73109,
-      "num": 1517890,
-      "word": "速读未成年人网络保护条例举措",
-      "onboard_time": 1698238361,
-      "rank": 2,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 71979,
