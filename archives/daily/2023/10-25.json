@@ -1,7 +1,31 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698197545541,
+  "endTime": 1698200592008,
   "band_list": [
+    {
+      "raw_hot": 10598294,
+      "num": 11848294,
+      "word": "2024春节放8天假",
+      "onboard_time": 1698198391,
+      "rank": 0,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 5988830,
+      "num": 5988830,
+      "word": "除夕不放假",
+      "onboard_time": 1698199355,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2395574,
+      "num": 2395574,
+      "word": "王海打假李佳琦直播间卖和田玉",
+      "onboard_time": 1698198091,
+      "rank": 3,
+      "category": "网红"
+    },
     {
       "raw_hot": 2174607,
       "num": 2174607,
@@ -17,6 +41,14 @@
       "onboard_time": 1698159880,
       "rank": 0,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 1610007,
+      "num": 1610007,
+      "word": "调休",
+      "onboard_time": 1698199773,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 1343408,
@@ -195,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 337045,
+      "num": 337045,
+      "word": "双十一笨人现状",
+      "onboard_time": 1698198330,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 336479,
       "num": 336479,
       "word": "赵寅成近照状态",
@@ -251,6 +291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 294740,
+      "num": 294740,
+      "word": "张雪峰 惹谁都不要惹知识分子",
+      "onboard_time": 1698198630,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 291660,
       "num": 222304,
       "word": "王小波是中国最早的程序员之一",
@@ -281,6 +329,14 @@
       "onboard_time": 1698191972,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267233,
+      "num": 267233,
+      "word": "大熊猫奂彩",
+      "onboard_time": 1698199414,
+      "rank": 15,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 263413,
@@ -411,6 +467,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 196797,
+      "num": 196797,
+      "word": "知道了什么是钩子一样的眼神",
+      "onboard_time": 1698197013,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 193496,
+      "num": 193496,
+      "word": "铭记197653名抗美援朝烈士",
+      "onboard_time": 1698199773,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 192447,
       "num": 192447,
       "word": "张凌赫冷脸照",
@@ -443,12 +515,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 184382,
+      "num": 184382,
+      "word": "2024年部分节假日安排的通知",
+      "onboard_time": 1698199355,
+      "rank": 25,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 183997,
+      "num": 183997,
+      "word": "韩国奶奶坐轮椅圆梦杭州动物园",
+      "onboard_time": 1698200315,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181662,
       "num": 181662,
       "word": "女子曝15万存款被农行私自改成购买",
       "onboard_time": 1698139471,
       "rank": 44,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180377,
+      "num": 271800,
+      "word": "小米14全球首发第三代骁龙8",
+      "onboard_time": 1698199232,
+      "rank": 14,
+      "category": "数码"
     },
     {
       "raw_hot": 178469,
@@ -531,12 +627,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 166411,
-      "num": 166411,
-      "word": "知道了什么是钩子一样的眼神",
-      "onboard_time": 1698197013,
-      "rank": 36,
-      "category": "作品衍生"
+      "raw_hot": 163467,
+      "num": 163467,
+      "word": "我再也不求老天爷了",
+      "onboard_time": 1698200197,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 161614,
@@ -619,6 +715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139751,
+      "num": 139751,
+      "word": "一句公主请下车让小青荷们开心一整天",
+      "onboard_time": 1698198391,
+      "rank": 35,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 139682,
       "num": 139682,
       "word": "日版隐秘的角落预告片",
@@ -635,6 +739,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 137522,
+      "num": 137522,
+      "word": "林心如专访谈有生之年",
+      "onboard_time": 1698198512,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136699,
       "num": 136699,
       "word": "欧冠",
@@ -649,6 +761,14 @@
       "onboard_time": 1698147395,
       "rank": 28,
       "category": "情感,网红"
+    },
+    {
+      "raw_hot": 134687,
+      "num": 134687,
+      "word": "平均年龄最小的航天员乘组",
+      "onboard_time": 1698198391,
+      "rank": 38,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 134530,
@@ -723,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121778,
+      "num": 121778,
+      "word": "为什么无障碍停车位总是被占用",
+      "onboard_time": 1698200439,
+      "rank": 43,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 121441,
       "num": 121441,
       "word": "国债",
@@ -756,7 +884,7 @@
     },
     {
       "raw_hot": 116022,
-      "num": 1010414,
+      "num": 3574591,
       "word": "未成年人网络保护",
       "onboard_time": 1698157478,
       "rank": 2,
@@ -795,11 +923,27 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 112394,
+      "num": 112394,
+      "word": "太阳vs勇士",
+      "onboard_time": 1698198211,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107569,
       "num": 107569,
       "word": "迪丽热巴微信名",
       "onboard_time": 1698126694,
       "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 107503,
+      "num": 107503,
+      "word": "花少5",
+      "onboard_time": 1698197672,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -809,6 +953,14 @@
       "onboard_time": 1698151655,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 106300,
+      "num": 106300,
+      "word": "小女孩跳舞被吓哭社恐妈妈上台鼓励",
+      "onboard_time": 1698198810,
+      "rank": 49,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 105085,

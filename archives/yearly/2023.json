@@ -1,6 +1,6 @@
 {
   "startTime": 1672503817536,
-  "endTime": 1698197545541,
+  "endTime": 1698200592008,
   "band_list": [
     {
       "raw_hot": 68242336,
@@ -704,6 +704,14 @@
       "word": "上海警方通报4岁女童在海边走失",
       "onboard_time": 1696582356,
       "rank": 1,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 10598294,
+      "num": 11848294,
+      "word": "2024春节放8天假",
+      "onboard_time": 1698198391,
+      "rank": 0,
       "category": "社会新闻"
     },
     {
@@ -2283,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5988830,
+      "num": 5988830,
+      "word": "除夕不放假",
+      "onboard_time": 1698199355,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 5962374,
       "num": 194189,
       "word": "王思聪与上海打人的34岁王某某年龄不符",
@@ -2385,22 +2401,6 @@
       "onboard_time": 1687875586,
       "rank": 3,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 5575887,
-      "num": 6202803,
-      "word": "狂飙修改删除涉毒演员戏份",
-      "onboard_time": 1676129014,
-      "rank": 0,
-      "category": "影视,社会新闻"
-    },
-    {
-      "raw_hot": 5557870,
-      "num": 5557870,
-      "word": "成蕾被驱逐出境",
-      "onboard_time": 1697010096,
-      "rank": 0,
-      "category": "国内要闻"
     }
   ],
   "hotgov_list": [

@@ -1,0 +1,410 @@
+{
+  "runTime": 1698200592008,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 10598294,
+        "num": 11848294,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 5988830,
+        "num": 5988830,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98269,
+        "num": 3574591,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2395574,
+        "num": 2395574,
+        "word": "王海打假李佳琦直播间卖和田玉",
+        "onboard_time": 1698198091,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1610007,
+        "num": 1610007,
+        "word": "调休",
+        "onboard_time": 1698199773,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 857782,
+        "num": 857782,
+        "word": "教室反光老师要求安窗帘校长被停职",
+        "onboard_time": 1698190830,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 472525,
+        "num": 472525,
+        "word": "以色列要求古特雷斯辞职",
+        "onboard_time": 1698195217,
+        "rank": 6,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 440128,
+        "num": 440128,
+        "word": "中学老师批改作业写下你是孤儿吗评语",
+        "onboard_time": 1698188724,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 422807,
+        "num": 422807,
+        "word": "王睡睡 人不要不知感恩",
+        "onboard_time": 1698191551,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337349,
+        "num": 337349,
+        "word": "外媒曝侯孝贤患失智症",
+        "onboard_time": 1698189265,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 965609,
+        "num": 337320,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 10,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 337045,
+        "num": 337045,
+        "word": "双十一笨人现状",
+        "onboard_time": 1698198330,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 328684,
+        "num": 328684,
+        "word": "花少5 氛围",
+        "onboard_time": 1698195453,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 294740,
+        "num": 294740,
+        "word": "张雪峰 惹谁都不要惹知识分子",
+        "onboard_time": 1698198630,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 180377,
+        "num": 271800,
+        "word": "小米14全球首发第三代骁龙8",
+        "onboard_time": 1698199232,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 267233,
+        "num": 267233,
+        "word": "大熊猫奂彩",
+        "onboard_time": 1698199414,
+        "rank": 15,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 246509,
+        "num": 246509,
+        "word": "李佳琦直播间称从未要求品牌二选一",
+        "onboard_time": 1698144754,
+        "rank": 16,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 243861,
+        "num": 243861,
+        "word": "巴以冲突致加沙2360名儿童死亡",
+        "onboard_time": 1698195334,
+        "rank": 17,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 226861,
+        "num": 226861,
+        "word": "iPhone15Pro系列满意度创新低",
+        "onboard_time": 1698195155,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 196797,
+        "num": 196797,
+        "word": "知道了什么是钩子一样的眼神",
+        "onboard_time": 1698197013,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 501240,
+        "num": 196640,
+        "word": "年轻人开始整顿份子钱",
+        "onboard_time": 1698195453,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 497730,
+        "num": 195312,
+        "word": "当男朋友知道我存款快六位数时",
+        "onboard_time": 1698195096,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 193496,
+        "num": 193496,
+        "word": "铭记197653名抗美援朝烈士",
+        "onboard_time": 1698199773,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188498,
+        "num": 188498,
+        "word": "神十七26日11时14分发射",
+        "onboard_time": 1698197071,
+        "rank": 23,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 184462,
+        "num": 184462,
+        "word": "双十一 洗发水",
+        "onboard_time": 1698161673,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184382,
+        "num": 184382,
+        "word": "2024年部分节假日安排的通知",
+        "onboard_time": 1698199355,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183997,
+        "num": 183997,
+        "word": "韩国奶奶坐轮椅圆梦杭州动物园",
+        "onboard_time": 1698200315,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176933,
+        "num": 176933,
+        "word": "Hoshi新ins 仓鼠",
+        "onboard_time": 1698196772,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173645,
+        "num": 173645,
+        "word": "神十七新闻发布会",
+        "onboard_time": 1698197136,
+        "rank": 28,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 170691,
+        "num": 170691,
+        "word": "白敬亭何泓姗二搭爷青回",
+        "onboard_time": 1698159576,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 169877,
+        "num": 169877,
+        "word": "国防部回应美发布中国军事安全报告",
+        "onboard_time": 1698194257,
+        "rank": 30,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 163467,
+        "num": 163467,
+        "word": "我再也不求老天爷了",
+        "onboard_time": 1698200197,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 157709,
+        "num": 157709,
+        "word": "神十七航天员乘组公布",
+        "onboard_time": 1698196532,
+        "rank": 32,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 148830,
+        "num": 148830,
+        "word": "秦海璐骑车时有多优雅下车时就多潦草",
+        "onboard_time": 1698196651,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139942,
+        "num": 139942,
+        "word": "周也 恶女人设",
+        "onboard_time": 1698194916,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139751,
+        "num": 139751,
+        "word": "一句公主请下车让小青荷们开心一整天",
+        "onboard_time": 1698198391,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137522,
+        "num": 137522,
+        "word": "林心如专访谈有生之年",
+        "onboard_time": 1698198512,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135539,
+        "num": 135539,
+        "word": "赵露思7年前火星情报局生图",
+        "onboard_time": 1698191972,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134687,
+        "num": 134687,
+        "word": "平均年龄最小的航天员乘组",
+        "onboard_time": 1698198391,
+        "rank": 38,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 132971,
+        "num": 132971,
+        "word": "高铁乘客爽快给孩子们换座被奖励可乐",
+        "onboard_time": 1698189807,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126822,
+        "num": 126822,
+        "word": "突然发现脆柿子也很好吃",
+        "onboard_time": 1698190349,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125323,
+        "num": 125323,
+        "word": "汤洪波成为重返天宫第一人",
+        "onboard_time": 1698197371,
+        "rank": 41,
+        "category": "社会新闻,科技"
+      },
+      {
+        "raw_hot": 124092,
+        "num": 124092,
+        "word": "周迅 把我跟拖垃圾袋一样拖上来",
+        "onboard_time": 1698152555,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121778,
+        "num": 121778,
+        "word": "为什么无障碍停车位总是被占用",
+        "onboard_time": 1698200439,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 120517,
+        "num": 120517,
+        "word": "赵寅成近照状态",
+        "onboard_time": 1698191972,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115617,
+        "num": 115617,
+        "word": "孙女悄悄给爷爷准备重阳老友聚会",
+        "onboard_time": 1698197136,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112528,
+        "num": 112528,
+        "word": "妹妹晕倒哥哥飞奔找到值得信赖的人",
+        "onboard_time": 1698188724,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 112394,
+        "num": 112394,
+        "word": "太阳vs勇士",
+        "onboard_time": 1698198211,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107503,
+        "num": 107503,
+        "word": "花少5",
+        "onboard_time": 1698197672,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106300,
+        "num": 106300,
+        "word": "小女孩跳舞被吓哭社恐妈妈上台鼓励",
+        "onboard_time": 1698198810,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#坚持党对工会的全面领导#"
+    }
+  }
+}
