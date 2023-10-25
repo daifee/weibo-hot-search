@@ -1,0 +1,410 @@
+{
+  "runTime": 1698265082472,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 114415,
+        "num": 114415,
+        "word": "感觉权志龙要变异了",
+        "onboard_time": 1698242620,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105343,
+        "num": 105343,
+        "word": "24岁女生去酒吧被保安当未成年拦下",
+        "onboard_time": 1698249575,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 7662,
+        "num": 74251,
+        "word": "速读未成年人网络保护条例举措",
+        "onboard_time": 1698238361,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 72793,
+        "num": 72793,
+        "word": "皮肤没问题买几十块婴儿面霜也行",
+        "onboard_time": 1698239801,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 66726,
+        "num": 66726,
+        "word": "女生半年减肥40斤查出重度脂肪肝",
+        "onboard_time": 1698248558,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 57116,
+        "num": 57116,
+        "word": "BIGBANG五名成员四名涉毒",
+        "onboard_time": 1698239622,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49597,
+        "num": 49597,
+        "word": "俩主播硬刚卖了2.6亿不下播",
+        "onboard_time": 1698228214,
+        "rank": 6,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 43726,
+        "num": 43726,
+        "word": "卸妆膏为什么不做成这样",
+        "onboard_time": 1698242980,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 32925,
+        "num": 32925,
+        "word": "2024国考136个岗位无人报名",
+        "onboard_time": 1698259515,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 32161,
+        "num": 32161,
+        "word": "迪丽热巴浓妆vs淡妆",
+        "onboard_time": 1698235001,
+        "rank": 9,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 94464,
+        "num": 32094,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 45274,
+        "num": 32075,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45204,
+        "num": 31925,
+        "word": "马斯克 不想利用人性下坠的力量赚钱",
+        "onboard_time": 1698262634,
+        "rank": 12,
+        "category": "科技"
+      },
+      {
+        "raw_hot": 45182,
+        "num": 31860,
+        "word": "巴以冲突已致双方超7200人死亡",
+        "onboard_time": 1698254002,
+        "rank": 13,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 31844,
+        "num": 31844,
+        "word": "BIGBANG最后的正常人居然是太阳",
+        "onboard_time": 1698238123,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30358,
+        "num": 31844,
+        "word": "得知春节调休的我",
+        "onboard_time": 1698248258,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 28577,
+        "num": 31840,
+        "word": "广东一学校近700名新生集体退学",
+        "onboard_time": 1698232064,
+        "rank": 16,
+        "category": "社会新闻,教育"
+      },
+      {
+        "raw_hot": 27232,
+        "num": 31838,
+        "word": "郭麒麟回应胖了",
+        "onboard_time": 1698238662,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26402,
+        "num": 31835,
+        "word": "余华 学会克制你的表达欲",
+        "onboard_time": 1698253403,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 24524,
+        "num": 31834,
+        "word": "第一批过年回家的选手已经十月辞职了",
+        "onboard_time": 1698251487,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36655,
+        "num": 31830,
+        "word": "染上毒瘾后外貌的真实变化",
+        "onboard_time": 1698248258,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 24160,
+        "num": 31829,
+        "word": "如何看李佳琦直播间回应喊话内容",
+        "onboard_time": 1698250710,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 23783,
+        "num": 31826,
+        "word": "成功的羊毛卷 从头顶开始烫中卷",
+        "onboard_time": 1698242920,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 22688,
+        "num": 31824,
+        "word": "5万元冰箱起火准新娘命丧婚房",
+        "onboard_time": 1698239980,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22615,
+        "num": 31821,
+        "word": "内娱最具影响力的明星",
+        "onboard_time": 1698261434,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22530,
+        "num": 31819,
+        "word": "5名工作人员接触到福岛核污染水",
+        "onboard_time": 1698241422,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 22250,
+        "num": 31816,
+        "word": "秦始皇陵西墓葬发现罕见6只绵羊羊车",
+        "onboard_time": 1698240580,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 21759,
+        "num": 31814,
+        "word": "土耳其股指熔断",
+        "onboard_time": 1698249633,
+        "rank": 27,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 21715,
+        "num": 31811,
+        "word": "90后夫妻裸婚后同城分居5年",
+        "onboard_time": 1698236075,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20096,
+        "num": 31809,
+        "word": "对南方孩子来说冲击力太大了",
+        "onboard_time": 1698254121,
+        "rank": 29,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 19795,
+        "num": 31807,
+        "word": "李冰冰 周也老板",
+        "onboard_time": 1698244001,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19616,
+        "num": 31805,
+        "word": "乌镇 男人帮",
+        "onboard_time": 1698243402,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19603,
+        "num": 31802,
+        "word": "秦岚 消音",
+        "onboard_time": 1698237460,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19497,
+        "num": 31800,
+        "word": "土耳其",
+        "onboard_time": 1698245439,
+        "rank": 33,
+        "category": "国外要闻,财经"
+      },
+      {
+        "raw_hot": 19349,
+        "num": 31797,
+        "word": "TTG止步挑杯八强",
+        "onboard_time": 1698247898,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19022,
+        "num": 31794,
+        "word": "田耕纪结局",
+        "onboard_time": 1698232785,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18425,
+        "num": 31792,
+        "word": "88岁学霸爷爷把自己活成了一道光",
+        "onboard_time": 1698250054,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 17715,
+        "num": 31792,
+        "word": "狼队战胜TTG",
+        "onboard_time": 1698247840,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17419,
+        "num": 31789,
+        "word": "王一博染回黑发了",
+        "onboard_time": 1698232304,
+        "rank": 38,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 16689,
+        "num": 31786,
+        "word": "雷军称小米14越级对标iPhone15Pro",
+        "onboard_time": 1698246582,
+        "rank": 39,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 16649,
+        "num": 31782,
+        "word": "欧冠联赛",
+        "onboard_time": 1698264733,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16426,
+        "num": 31782,
+        "word": "田耕纪 番外",
+        "onboard_time": 1698243102,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15940,
+        "num": 31780,
+        "word": "我收拾收拾去福建一趟",
+        "onboard_time": 1698254901,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 15282,
+        "num": 31777,
+        "word": "毛晓彤台词里的力量感",
+        "onboard_time": 1698255558,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15031,
+        "num": 31775,
+        "word": "刘耀文冷脸学长",
+        "onboard_time": 1698248737,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 14931,
+        "num": 31772,
+        "word": "天官赐福",
+        "onboard_time": 1698231879,
+        "rank": 45,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 14804,
+        "num": 31768,
+        "word": "你好种地少年定档",
+        "onboard_time": 1698248498,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14236,
+        "num": 31766,
+        "word": "周也说为有暗香来拍了两版结局",
+        "onboard_time": 1698260775,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14181,
+        "num": 31765,
+        "word": "街舞6官宣3天预约破百万",
+        "onboard_time": 1698248796,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14114,
+        "num": 31762,
+        "word": "女明星出圈图",
+        "onboard_time": 1698243164,
+        "rank": 49,
+        "category": "美妆,作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国加利福尼亚州州长#"
+    }
+  }
+}

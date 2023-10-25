@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698262452077,
+  "endTime": 1698265082472,
   "band_list": [
     {
       "raw_hot": 1611941,
@@ -475,6 +475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45204,
+      "num": 31925,
+      "word": "马斯克 不想利用人性下坠的力量赚钱",
+      "onboard_time": 1698262634,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 39962,
       "num": 842470,
       "word": "速读未成年人网络保护条例举措",
@@ -515,20 +523,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 22615,
+      "num": 31821,
+      "word": "内娱最具影响力的明星",
+      "onboard_time": 1698261434,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20416,
-      "num": 31733,
+      "num": 31766,
       "word": "周也说为有暗香来拍了两版结局",
       "onboard_time": 1698260775,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 18273,
-      "num": 30505,
-      "word": "内娱最具影响力的明星",
-      "onboard_time": 1698261434,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 16649,
+      "num": 31782,
+      "word": "欧冠联赛",
+      "onboard_time": 1698264733,
+      "rank": 40,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
