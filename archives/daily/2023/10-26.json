@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698272162524,
+  "endTime": 1698273237459,
   "band_list": [
     {
       "raw_hot": 1611941,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147278,
+      "num": 147278,
+      "word": "苏有朋林心如综艺合体",
+      "onboard_time": 1698267853,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145067,
       "num": 145067,
       "word": "88岁学霸爷爷把自己活成了一道光",
@@ -427,14 +435,6 @@
       "category": "美妆,网红"
     },
     {
-      "raw_hot": 105575,
-      "num": 105575,
-      "word": "苏有朋林心如综艺合体",
-      "onboard_time": 1698267853,
-      "rank": 26,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 104706,
       "num": 104706,
       "word": "白鹿抱黏黏上班",
@@ -467,6 +467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 62429,
+      "num": 62429,
+      "word": "马斯克 不想利用人性下坠的力量赚钱",
+      "onboard_time": 1698262634,
+      "rank": 12,
+      "category": "科技"
+    },
+    {
       "raw_hot": 58320,
       "num": 58320,
       "word": "徐穗珍回来了",
@@ -483,12 +491,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 57287,
-      "num": 57287,
-      "word": "马斯克 不想利用人性下坠的力量赚钱",
-      "onboard_time": 1698262634,
-      "rank": 12,
-      "category": "科技"
+      "raw_hot": 43376,
+      "num": 43376,
+      "word": "檀健次你好星期六续签",
+      "onboard_time": 1698266894,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 40251,
+      "num": 40251,
+      "word": "小柯基被亲了一口整个狗都开心了",
+      "onboard_time": 1698271456,
+      "rank": 39,
+      "category": "动物萌宠"
     },
     {
       "raw_hot": 39962,
@@ -515,12 +531,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 34550,
-      "num": 34550,
-      "word": "檀健次你好星期六续签",
-      "onboard_time": 1698266894,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 31646,
+      "num": 39661,
+      "word": "内娱最具影响力的明星",
+      "onboard_time": 1698261434,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 26489,
@@ -531,28 +547,12 @@
       "category": "艺人,时尚"
     },
     {
-      "raw_hot": 24682,
-      "num": 24682,
-      "word": "小柯基被亲了一口整个狗都开心了",
-      "onboard_time": 1698271456,
-      "rank": 39,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 24620,
       "num": 36859,
       "word": "狼队对战TTG",
       "onboard_time": 1698234877,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 22832,
-      "num": 39661,
-      "word": "内娱最具影响力的明星",
-      "onboard_time": 1698261434,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 20416,
