@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698222151216,
+  "endTime": 1698222961773,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 1419322,
-      "num": 502453,
+      "num": 543362,
       "word": "章子怡事业困境 华语电影大女性角色",
       "onboard_time": 1698213461,
       "rank": 11,
@@ -571,6 +571,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 1220244,
+      "num": 1220244,
+      "word": "芒果台的文案到底是谁在写",
+      "onboard_time": 1698218617,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1213560,
       "num": 1213560,
       "word": "以色列网红嘲讽遭轰炸的巴勒斯坦平民被批",
@@ -657,14 +665,6 @@
       "onboard_time": 1698212677,
       "rank": 5,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 1120712,
-      "num": 1120712,
-      "word": "芒果台的文案到底是谁在写",
-      "onboard_time": 1698218617,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 1118852,
@@ -1547,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636165,
+      "num": 636165,
+      "word": "赵又廷回应夺妻之仇不共戴天",
+      "onboard_time": 1698216815,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 635394,
       "num": 635394,
       "word": "科大讯飞",
@@ -1636,7 +1644,7 @@
     },
     {
       "raw_hot": 613883,
-      "num": 459724,
+      "num": 536172,
       "word": "殷世航两小时背500个单词",
       "onboard_time": 1698218377,
       "rank": 17,
@@ -1689,6 +1697,14 @@
       "onboard_time": 1698125795,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 598473,
+      "num": 598473,
+      "word": "武汉全城拉响防空警报",
+      "onboard_time": 1698222217,
+      "rank": 6,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 596096,
@@ -1825,6 +1841,14 @@
       "onboard_time": 1698195096,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 564658,
+      "num": 564658,
+      "word": "肺癌细胞会装幼稚欺骗大脑保护",
+      "onboard_time": 1698220778,
+      "rank": 8,
+      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 562296,
@@ -2115,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 511960,
+      "num": 511960,
+      "word": "肖顺尧在看迪丽热巴新综艺",
+      "onboard_time": 1698221559,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 511630,
       "num": 511630,
       "word": "喝下可乐后人体会发生什么变化",
@@ -2161,14 +2193,6 @@
       "onboard_time": 1698056327,
       "rank": 40,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 503056,
-      "num": 503056,
-      "word": "肺癌细胞会装幼稚欺骗大脑保护",
-      "onboard_time": 1698220778,
-      "rank": 8,
-      "category": "健康医疗,知识科普"
     },
     {
       "raw_hot": 502720,
@@ -2433,14 +2457,6 @@
       "onboard_time": 1698139595,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 458919,
-      "num": 458919,
-      "word": "赵又廷回应夺妻之仇不共戴天",
-      "onboard_time": 1698216815,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 456149,
@@ -3179,14 +3195,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 374956,
-      "num": 374956,
-      "word": "肖顺尧在看迪丽热巴新综艺",
-      "onboard_time": 1698221559,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 374230,
       "num": 374230,
       "word": "五月天演唱会女孩举牌说点歌给爸爸",
@@ -3217,6 +3225,14 @@
       "onboard_time": 1698213637,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 371538,
+      "num": 371538,
+      "word": "雷军",
+      "onboard_time": 1698220477,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 369415,
@@ -3313,14 +3329,6 @@
       "onboard_time": 1698125375,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 360977,
-      "num": 360977,
-      "word": "雷军",
-      "onboard_time": 1698220477,
-      "rank": 18,
-      "category": "数码"
     },
     {
       "raw_hot": 360542,
@@ -4033,6 +4041,14 @@
       "onboard_time": 1698048086,
       "rank": 16,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 296665,
+      "num": 296665,
+      "word": "陈都灵这顶级的破碎感",
+      "onboard_time": 1698221500,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 296314,
@@ -6259,6 +6275,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 200497,
+      "num": 200497,
+      "word": "我恋5 孙圣伦",
+      "onboard_time": 1698222275,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200267,
       "num": 200267,
       "word": "这就是街舞6宣传片",
@@ -7129,14 +7153,6 @@
       "onboard_time": 1698200977,
       "rank": 27,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 178741,
-      "num": 178741,
-      "word": "陈都灵这顶级的破碎感",
-      "onboard_time": 1698221500,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 178584,
@@ -8123,6 +8139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151358,
+      "num": 151358,
+      "word": "专业化妆师提供的底妆新思路",
+      "onboard_time": 1698222698,
+      "rank": 39,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 151273,
       "num": 197440,
       "word": "原来大熊猫也有团建聚餐",
@@ -8297,6 +8321,14 @@
       "onboard_time": 1697959831,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146962,
+      "num": 146962,
+      "word": "邵明明直播哭了",
+      "onboard_time": 1698222817,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 146825,
@@ -10363,20 +10395,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94894,
+      "num": 269421,
+      "word": "要是生活有价保",
+      "onboard_time": 1698221138,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94825,
       "num": 345271,
       "word": "王石称OPPO折叠屏是安全天花板",
       "onboard_time": 1698030575,
       "rank": 27,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 94049,
-      "num": 264541,
-      "word": "要是生活有价保",
-      "onboard_time": 1698221138,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 93187,
@@ -10867,6 +10899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51887,
+      "num": 132965,
+      "word": "比亚迪参加东京车展",
+      "onboard_time": 1698221616,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 51596,
       "num": 406658,
       "word": "京东晚8点直播买货和老板谈",
@@ -11033,14 +11073,6 @@
       "onboard_time": 1697929400,
       "rank": 41,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 35799,
-      "num": 120641,
-      "word": "比亚迪参加东京车展",
-      "onboard_time": 1698221616,
-      "rank": 48,
-      "category": "汽车"
     },
     {
       "raw_hot": 33271,
