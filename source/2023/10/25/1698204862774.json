@@ -1,0 +1,410 @@
+{
+  "runTime": 1698204862774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7205553,
+        "num": 7205553,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 0,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 9579979,
+        "num": 6386318,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 118884,
+        "num": 3450166,
+        "word": "未成年人网络保护",
+        "onboard_time": 1698157478,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1354127,
+        "num": 1354127,
+        "word": "王海打假李佳琦直播间卖和田玉",
+        "onboard_time": 1698198091,
+        "rank": 3,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 963163,
+        "num": 963163,
+        "word": "2024五一休5天前后两周上6天",
+        "onboard_time": 1698201397,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 861420,
+        "num": 861420,
+        "word": "大熊猫奂彩离世",
+        "onboard_time": 1698202598,
+        "rank": 5,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 791777,
+        "num": 791777,
+        "word": "专家称龙年春节将形成超级黄金周",
+        "onboard_time": 1698201698,
+        "rank": 6,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383888,
+        "num": 383888,
+        "word": "韩媒曝知名艺人吸毒接受警方调查",
+        "onboard_time": 1698203919,
+        "rank": 7,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353639,
+        "num": 353639,
+        "word": "库里抹护手霜",
+        "onboard_time": 1698203141,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334771,
+        "num": 334771,
+        "word": "西施新皮肤",
+        "onboard_time": 1698202300,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 627753,
+        "num": 329485,
+        "word": "韩国春节假期补休",
+        "onboard_time": 1698203978,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 617005,
+        "num": 319844,
+        "word": "调休",
+        "onboard_time": 1698199773,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 596175,
+        "num": 311426,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 12,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 528395,
+        "num": 304817,
+        "word": "你愿意除夕请年假吗",
+        "onboard_time": 1698202717,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 383704,
+        "num": 296883,
+        "word": "张雪峰 惹谁都不要惹知识分子",
+        "onboard_time": 1698198630,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 290644,
+        "num": 290644,
+        "word": "除夕至初八高速免费通行",
+        "onboard_time": 1698201339,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 298605,
+        "num": 290146,
+        "word": "春节调休",
+        "onboard_time": 1698201101,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 282302,
+        "num": 282302,
+        "word": "教室反光老师要求安窗帘校长被停职",
+        "onboard_time": 1698190830,
+        "rank": 17,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 259662,
+        "num": 259662,
+        "word": "双十一笨人现状",
+        "onboard_time": 1698198330,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 237910,
+        "num": 237910,
+        "word": "中岛美嘉录制综艺路透",
+        "onboard_time": 1698202359,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419911,
+        "num": 237636,
+        "word": "29岁了还在找妈妈要钱",
+        "onboard_time": 1698201339,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 345617,
+        "num": 237554,
+        "word": "当男朋友知道我存款快六位数时",
+        "onboard_time": 1698195096,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 279452,
+        "num": 237428,
+        "word": "如何看李佳琦直播间又带货花西子",
+        "onboard_time": 1698203680,
+        "rank": 22,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 237293,
+        "num": 237293,
+        "word": "王睡睡 人不要不知感恩",
+        "onboard_time": 1698191551,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233761,
+        "num": 233761,
+        "word": "肖战拍的脚变装",
+        "onboard_time": 1698202660,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233654,
+        "num": 233654,
+        "word": "180天重启计划开机",
+        "onboard_time": 1698204042,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 232973,
+        "num": 232973,
+        "word": "一图看懂2024放假安排",
+        "onboard_time": 1698204698,
+        "rank": 26,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 231628,
+        "num": 231628,
+        "word": "说脏话可以减轻痛苦",
+        "onboard_time": 1698203978,
+        "rank": 27,
+        "category": "知识科普"
+      },
+      {
+        "raw_hot": 220795,
+        "num": 220795,
+        "word": "这就是街舞6舞者阵容",
+        "onboard_time": 1698202839,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203696,
+        "num": 203696,
+        "word": "你好种地少年预告",
+        "onboard_time": 1698202300,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253681,
+        "num": 201714,
+        "word": "理发师的剪刀有多贵",
+        "onboard_time": 1698203800,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 241509,
+        "num": 201458,
+        "word": "韩网爆火的0毛孔管理法",
+        "onboard_time": 1698204160,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 423052,
+        "num": 200322,
+        "word": "你怎么看除夕不放假",
+        "onboard_time": 1698201579,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 198523,
+        "num": 198523,
+        "word": "国家数据局正式揭牌",
+        "onboard_time": 1698201461,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185328,
+        "num": 198109,
+        "word": "比尔缺席太阳揭幕战",
+        "onboard_time": 1698203741,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197745,
+        "num": 197745,
+        "word": "狗狗拉伸时偷偷放了个屁",
+        "onboard_time": 1698200677,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 185788,
+        "num": 185788,
+        "word": "2024年放假安排的五大突出亮点",
+        "onboard_time": 1698204042,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 185287,
+        "num": 185287,
+        "word": "芭比官方字幕对比分析",
+        "onboard_time": 1698203680,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173963,
+        "num": 173963,
+        "word": "国防部回应美发布中国军事安全报告",
+        "onboard_time": 1698194257,
+        "rank": 38,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 164954,
+        "num": 164954,
+        "word": "凤凰传奇 现在歌曲只火三个月",
+        "onboard_time": 1698204576,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160361,
+        "num": 160361,
+        "word": "外媒曝侯孝贤患失智症",
+        "onboard_time": 1698189265,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157483,
+        "num": 157483,
+        "word": "张晚意王楚然柳舟记雨天路透",
+        "onboard_time": 1698202300,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154659,
+        "num": 154659,
+        "word": "年轻人开始整顿份子钱",
+        "onboard_time": 1698195453,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145474,
+        "num": 145474,
+        "word": "掘金新赛季开门红",
+        "onboard_time": 1698204278,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141707,
+        "num": 141707,
+        "word": "郭艾伦在观众散去的球馆训练",
+        "onboard_time": 1698203560,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138503,
+        "num": 138503,
+        "word": "知道了什么是钩子一样的眼神",
+        "onboard_time": 1698197013,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134100,
+        "num": 134100,
+        "word": "甄姬新皮肤至美化雀舞",
+        "onboard_time": 1698204817,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132111,
+        "num": 132111,
+        "word": "双十一组队",
+        "onboard_time": 1698200977,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 130889,
+        "num": 130889,
+        "word": "我再也不求老天爷了",
+        "onboard_time": 1698200197,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 126257,
+        "num": 126257,
+        "word": "汉服入门穿搭与时尚手册",
+        "onboard_time": 1698203020,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#要培养造就更多大国工匠和高技能人才#"
+    }
+  }
+}

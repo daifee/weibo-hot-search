@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698203868340,
+  "endTime": 1698204862774,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -931,6 +931,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 861420,
+      "num": 861420,
+      "word": "大熊猫奂彩离世",
+      "onboard_time": 1698202598,
+      "rank": 6,
+      "category": "动物萌宠"
+    },
+    {
       "raw_hot": 855524,
       "num": 855524,
       "word": "你还喝农夫山泉吗",
@@ -1027,14 +1035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 811760,
-      "num": 811760,
-      "word": "大熊猫奂彩离世",
-      "onboard_time": 1698202598,
-      "rank": 6,
-      "category": "动物萌宠"
-    },
-    {
       "raw_hot": 809828,
       "num": 809828,
       "word": "福建震感",
@@ -1067,20 +1067,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791777,
+      "num": 791777,
+      "word": "专家称龙年春节将形成超级黄金周",
+      "onboard_time": 1698201698,
+      "rank": 7,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 775080,
       "num": 493653,
       "word": "李佳琦直播间的底价协议合理吗",
       "onboard_time": 1698134675,
       "rank": 13,
       "category": "网红"
-    },
-    {
-      "raw_hot": 774130,
-      "num": 774130,
-      "word": "专家称龙年春节将形成超级黄金周",
-      "onboard_time": 1698201698,
-      "rank": 7,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 770869,
@@ -1409,6 +1409,14 @@
       "onboard_time": 1697979572,
       "rank": 11,
       "category": "演出"
+    },
+    {
+      "raw_hot": 627753,
+      "num": 329485,
+      "word": "韩国春节假期补休",
+      "onboard_time": 1698203978,
+      "rank": 10,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 627638,
@@ -1785,6 +1793,14 @@
       "onboard_time": 1697975670,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 528395,
+      "num": 337800,
+      "word": "你愿意除夕请年假吗",
+      "onboard_time": 1698202717,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 527904,
@@ -2763,6 +2779,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 383888,
+      "num": 383888,
+      "word": "韩媒曝知名艺人吸毒接受警方调查",
+      "onboard_time": 1698203919,
+      "rank": 7,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 383665,
       "num": 305421,
       "word": "SEVENTEEN回归",
@@ -3003,6 +3027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 353639,
+      "num": 353639,
+      "word": "库里抹护手霜",
+      "onboard_time": 1698203141,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 353305,
       "num": 353305,
       "word": "初中生拉开同学座椅致其后仰摔成重伤",
@@ -3121,14 +3153,6 @@
       "onboard_time": 1698161437,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 337800,
-      "num": 337800,
-      "word": "你愿意除夕请年假吗",
-      "onboard_time": 1698202717,
-      "rank": 14,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 336622,
@@ -3859,6 +3883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 279452,
+      "num": 237428,
+      "word": "如何看李佳琦直播间又带货花西子",
+      "onboard_time": 1698203680,
+      "rank": 23,
+      "category": "美妆,网红"
+    },
+    {
       "raw_hot": 279298,
       "num": 266983,
       "word": "青岛啤酒股价大跌",
@@ -4267,6 +4299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253681,
+      "num": 201714,
+      "word": "理发师的剪刀有多贵",
+      "onboard_time": 1698203800,
+      "rank": 42,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 253395,
       "num": 271800,
       "word": "小米14全球首发第三代骁龙8",
@@ -4305,14 +4345,6 @@
       "onboard_time": 1698035687,
       "rank": 29,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 251949,
-      "num": 251949,
-      "word": "库里抹护手霜",
-      "onboard_time": 1698203141,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 251524,
@@ -4457,6 +4489,14 @@
       "onboard_time": 1698050697,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 241509,
+      "num": 201458,
+      "word": "韩网爆火的0毛孔管理法",
+      "onboard_time": 1698204160,
+      "rank": 31,
+      "category": "美妆"
     },
     {
       "raw_hot": 240688,
@@ -4635,12 +4675,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 234283,
-      "num": 234283,
-      "word": "如何看李佳琦直播间又带货花西子",
-      "onboard_time": 1698203680,
-      "rank": 23,
-      "category": "美妆,网红"
+      "raw_hot": 233761,
+      "num": 233761,
+      "word": "肖战拍的脚变装",
+      "onboard_time": 1698202660,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 233654,
+      "num": 233654,
+      "word": "180天重启计划开机",
+      "onboard_time": 1698204042,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 233539,
@@ -4657,6 +4705,14 @@
       "onboard_time": 1698196532,
       "rank": 23,
       "category": "社会新闻,科技"
+    },
+    {
+      "raw_hot": 232973,
+      "num": 232973,
+      "word": "一图看懂2024放假安排",
+      "onboard_time": 1698204698,
+      "rank": 26,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 232754,
@@ -4721,6 +4777,14 @@
       "onboard_time": 1697960670,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 231628,
+      "num": 231628,
+      "word": "说脏话可以减轻痛苦",
+      "onboard_time": 1698203978,
+      "rank": 27,
+      "category": "知识科普"
     },
     {
       "raw_hot": 231286,
@@ -5009,14 +5073,6 @@
       "onboard_time": 1698024092,
       "rank": 26,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 217626,
-      "num": 217626,
-      "word": "肖战拍的脚变装",
-      "onboard_time": 1698202660,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 217178,
@@ -6099,12 +6155,36 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 185788,
+      "num": 185788,
+      "word": "2024年放假安排的五大突出亮点",
+      "onboard_time": 1698204042,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 185638,
       "num": 185638,
       "word": "青海唐古拉地区发生4.7级地震",
       "onboard_time": 1698043660,
       "rank": 32,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 185328,
+      "num": 198109,
+      "word": "比尔缺席太阳揭幕战",
+      "onboard_time": 1698203741,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185287,
+      "num": 185287,
+      "word": "芭比官方字幕对比分析",
+      "onboard_time": 1698203680,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 184799,
@@ -6409,14 +6489,6 @@
       "onboard_time": 1698197136,
       "rank": 34,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 175017,
-      "num": 175017,
-      "word": "芭比官方字幕对比分析",
-      "onboard_time": 1698203680,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 174447,
@@ -6739,6 +6811,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 164954,
+      "num": 164954,
+      "word": "凤凰传奇 现在歌曲只火三个月",
+      "onboard_time": 1698204576,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 164619,
       "num": 164619,
       "word": "重庆一火锅店现机器人服务员敬酒倒茶",
@@ -6841,14 +6921,6 @@
       "onboard_time": 1698016526,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 162132,
-      "num": 162132,
-      "word": "比尔缺席太阳揭幕战",
-      "onboard_time": 1698203741,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 161793,
@@ -7443,6 +7515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145474,
+      "num": 145474,
+      "word": "掘金新赛季开门红",
+      "onboard_time": 1698204278,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145403,
       "num": 145403,
       "word": "找到了整天吃吃喝喝还赚钱的工作",
@@ -7587,6 +7667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141707,
+      "num": 141707,
+      "word": "郭艾伦在观众散去的球馆训练",
+      "onboard_time": 1698203560,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141670,
       "num": 141670,
       "word": "周涛 审美定势是可以被打破的",
@@ -7721,14 +7809,6 @@
       "onboard_time": 1698066163,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 139523,
-      "num": 139523,
-      "word": "郭艾伦在观众散去的球馆训练",
-      "onboard_time": 1698203560,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 139499,
@@ -8001,6 +8081,14 @@
       "onboard_time": 1697961391,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134100,
+      "num": 134100,
+      "word": "甄姬新皮肤至美化雀舞",
+      "onboard_time": 1698204817,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 133418,
@@ -8385,14 +8473,6 @@
       "onboard_time": 1698136835,
       "rank": 39,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 126125,
-      "num": 126125,
-      "word": "理发师的剪刀有多贵",
-      "onboard_time": 1698203800,
-      "rank": 42,
-      "category": "美妆"
     },
     {
       "raw_hot": 125850,
