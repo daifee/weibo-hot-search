@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698212058572,
+  "endTime": 1698214961746,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -211,19 +211,19 @@
       "category": "社会新闻,财经"
     },
     {
+      "raw_hot": 2037741,
+      "num": 2000547,
+      "word": "国家发改委回应2024年放假安排",
+      "onboard_time": 1698205658,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 2020302,
       "num": 2020302,
       "word": "超千名网友向被狗咬伤女童申请退款",
       "onboard_time": 1698076508,
       "rank": 1,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 2000547,
-      "num": 2000547,
-      "word": "国家发改委回应2024年放假安排",
-      "onboard_time": 1698205658,
-      "rank": 4,
       "category": "社会新闻"
     },
     {
@@ -409,6 +409,14 @@
       "onboard_time": 1698108278,
       "rank": 20,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1414725,
+      "num": 502453,
+      "word": "章子怡事业困境 华语电影大女性角色",
+      "onboard_time": 1698213461,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1399749,
@@ -1139,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 797302,
+      "num": 797302,
+      "word": "王诗晴首次选离婚",
+      "onboard_time": 1698212919,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 791777,
       "num": 791777,
       "word": "专家称龙年春节将形成超级黄金周",
@@ -1148,7 +1164,7 @@
     },
     {
       "raw_hot": 790651,
-      "num": 389149,
+      "num": 448990,
       "word": "刘嘉玲拍的梁朝伟王菲",
       "onboard_time": 1698210702,
       "rank": 19,
@@ -1499,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 633854,
+      "num": 633854,
+      "word": "女子当街杀害男子并电话告知其家属",
+      "onboard_time": 1698212677,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 631236,
       "num": 422663,
       "word": "黄明昊林一troublemaker",
@@ -1555,6 +1579,14 @@
       "category": "社会新闻,艺人"
     },
     {
+      "raw_hot": 612732,
+      "num": 612732,
+      "word": "今生簪花 来世漂亮",
+      "onboard_time": 1698212621,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 610075,
       "num": 610075,
       "word": "独自出门失踪3岁女童已找到",
@@ -1601,6 +1633,14 @@
       "onboard_time": 1698125795,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596096,
+      "num": 464108,
+      "word": "黄渤孙红雷黄磊张艺兴王迅最新合照",
+      "onboard_time": 1698214119,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 594789,
@@ -2411,6 +2451,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 445434,
+      "num": 445434,
+      "word": "成毅Queencard跳到六公主了",
+      "onboard_time": 1698211781,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 444880,
       "num": 444880,
       "word": "发型也是穿搭的一环",
@@ -2537,6 +2585,14 @@
       "onboard_time": 1697973391,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 425421,
+      "num": 323471,
+      "word": "赵露思奶拽烟熏妆",
+      "onboard_time": 1698212796,
+      "rank": 20,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 425260,
@@ -3043,6 +3099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 371874,
+      "num": 319291,
+      "word": "迪丽热巴为大家整理行李箱",
+      "onboard_time": 1698213637,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369415,
       "num": 263995,
       "word": "如何体面的退出一个群",
@@ -3249,14 +3313,6 @@
       "onboard_time": 1698114753,
       "rank": 37,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 348148,
-      "num": 348148,
-      "word": "成毅Queencard跳到六公主了",
-      "onboard_time": 1698211781,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 348121,
@@ -3659,6 +3715,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 309331,
+      "num": 309331,
+      "word": "男子网购狗粮4只狗吃后中毒",
+      "onboard_time": 1698213101,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 308023,
       "num": 308023,
       "word": "偏爱甜食的真菌或是老年痴呆症的罪魁祸首",
@@ -3889,6 +3953,14 @@
       "onboard_time": 1698032255,
       "rank": 25,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 291930,
+      "num": 262491,
+      "word": "王诗晴说纪焕博除了她没有亲密关系",
+      "onboard_time": 1698214656,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 291660,
@@ -4129,6 +4201,14 @@
       "onboard_time": 1698046781,
       "rank": 18,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 278400,
+      "num": 278400,
+      "word": "金戒指戴右手中指 招财",
+      "onboard_time": 1698212796,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 278356,
@@ -4883,6 +4963,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237160,
+      "num": 237160,
+      "word": "肖战地广开始铺欧美国家了",
+      "onboard_time": 1698213520,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237098,
       "num": 281495,
       "word": "化妆室妆面 适合手残党",
@@ -5145,6 +5233,14 @@
       "onboard_time": 1698200197,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226202,
+      "num": 213674,
+      "word": "迪丽热巴问了我想问的问题",
+      "onboard_time": 1698214302,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 225668,
@@ -5657,6 +5753,14 @@
       "onboard_time": 1697979630,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 206994,
+      "num": 206994,
+      "word": "华晨宇黑粉被限制高消费",
+      "onboard_time": 1698214058,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 206912,
@@ -6497,6 +6601,14 @@
       "onboard_time": 1698051357,
       "rank": 36,
       "category": "美食"
+    },
+    {
+      "raw_hot": 187000,
+      "num": 187000,
+      "word": "上海辟谣民警上门撬锁抓德牧",
+      "onboard_time": 1698213219,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 186914,
@@ -8003,6 +8115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144792,
+      "num": 144792,
+      "word": "民警40分钟辗转3地17公里救人",
+      "onboard_time": 1698214901,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 144763,
       "num": 144763,
       "word": "可以买贵的不能买贵了",
@@ -8153,6 +8273,14 @@
       "onboard_time": 1697933909,
       "rank": 32,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 141171,
+      "num": 141171,
+      "word": "明日方舟终末地",
+      "onboard_time": 1698213520,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 141107,
@@ -8355,6 +8483,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 138314,
+      "num": 138314,
+      "word": "杨天真 你得接受人生永远都是起起落落的",
+      "onboard_time": 1698214901,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138017,
       "num": 138017,
       "word": "LPL和LCK瑞士轮正面交锋",
@@ -8553,6 +8689,14 @@
       "onboard_time": 1698204817,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134020,
+      "num": 134020,
+      "word": "胡先煦急出了台湾腔",
+      "onboard_time": 1698214417,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 133418,

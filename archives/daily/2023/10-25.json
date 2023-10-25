@@ -1,6 +1,6 @@
 {
   "startTime": 1698164525791,
-  "endTime": 1698212058572,
+  "endTime": 1698214961746,
   "band_list": [
     {
       "raw_hot": 10598294,
@@ -43,7 +43,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2000547,
+      "raw_hot": 2037741,
       "num": 2000547,
       "word": "国家发改委回应2024年放假安排",
       "onboard_time": 1698205658,
@@ -72,6 +72,14 @@
       "word": "徐明浩 瑞幸",
       "onboard_time": 1698207044,
       "rank": 7,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1414725,
+      "num": 502453,
+      "word": "章子怡事业困境 华语电影大女性角色",
+      "onboard_time": 1698213461,
+      "rank": 11,
       "category": "艺人"
     },
     {
@@ -211,6 +219,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 797302,
+      "num": 797302,
+      "word": "王诗晴首次选离婚",
+      "onboard_time": 1698212919,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 791777,
       "num": 791777,
       "word": "专家称龙年春节将形成超级黄金周",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 790651,
-      "num": 389149,
+      "num": 448990,
       "word": "刘嘉玲拍的梁朝伟王菲",
       "onboard_time": 1698210702,
       "rank": 19,
@@ -251,12 +267,36 @@
       "category": "美妆,网红"
     },
     {
+      "raw_hot": 633854,
+      "num": 633854,
+      "word": "女子当街杀害男子并电话告知其家属",
+      "onboard_time": 1698212677,
+      "rank": 5,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 612732,
+      "num": 612732,
+      "word": "今生簪花 来世漂亮",
+      "onboard_time": 1698212621,
+      "rank": 6,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 609378,
       "num": 609378,
       "word": "花少5 氛围",
       "onboard_time": 1698195453,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 596096,
+      "num": 464108,
+      "word": "黄渤孙红雷黄磊张艺兴王迅最新合照",
+      "onboard_time": 1698214119,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 586365,
@@ -387,6 +427,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 445434,
+      "num": 445434,
+      "word": "成毅Queencard跳到六公主了",
+      "onboard_time": 1698211781,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 436769,
       "num": 399173,
       "word": "国防部回应美发布中国军事安全报告",
@@ -401,6 +449,14 @@
       "onboard_time": 1698201339,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 425421,
+      "num": 323471,
+      "word": "赵露思奶拽烟熏妆",
+      "onboard_time": 1698212796,
+      "rank": 20,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 405437,
@@ -451,6 +507,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 371874,
+      "num": 319291,
+      "word": "迪丽热巴为大家整理行李箱",
+      "onboard_time": 1698213637,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 361948,
       "num": 361948,
       "word": "曾舜晞到达长白山",
@@ -481,14 +545,6 @@
       "onboard_time": 1698203141,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 348148,
-      "num": 348148,
-      "word": "成毅Queencard跳到六公主了",
-      "onboard_time": 1698211781,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 348040,
@@ -579,6 +635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 309331,
+      "num": 309331,
+      "word": "男子网购狗粮4只狗吃后中毒",
+      "onboard_time": 1698213101,
+      "rank": 22,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 301177,
       "num": 301177,
       "word": "不同身材女生穿同款裙子",
@@ -601,6 +665,14 @@
       "onboard_time": 1698149620,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 291930,
+      "num": 262491,
+      "word": "王诗晴说纪焕博除了她没有亲密关系",
+      "onboard_time": 1698214656,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 291660,
@@ -641,6 +713,14 @@
       "onboard_time": 1698203680,
       "rank": 23,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 278400,
+      "num": 278400,
+      "word": "金戒指戴右手中指 招财",
+      "onboard_time": 1698212796,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 278216,
@@ -803,6 +883,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 237160,
+      "num": 237160,
+      "word": "肖战地广开始铺欧美国家了",
+      "onboard_time": 1698213520,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 234155,
       "num": 234155,
       "word": "我国艾滋病患者治疗成功率已超过90%",
@@ -881,6 +969,14 @@
       "onboard_time": 1698200197,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 226202,
+      "num": 213674,
+      "word": "迪丽热巴问了我想问的问题",
+      "onboard_time": 1698214302,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 223581,
@@ -977,6 +1073,14 @@
       "onboard_time": 1698206923,
       "rank": 2,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 206994,
+      "num": 206994,
+      "word": "华晨宇黑粉被限制高消费",
+      "onboard_time": 1698214058,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 205239,
@@ -1097,6 +1201,14 @@
       "onboard_time": 1698193957,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187000,
+      "num": 187000,
+      "word": "上海辟谣民警上门撬锁抓德牧",
+      "onboard_time": 1698213219,
+      "rank": 37,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 185910,
@@ -1435,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 144792,
+      "num": 144792,
+      "word": "民警40分钟辗转3地17公里救人",
+      "onboard_time": 1698214901,
+      "rank": 45,
+      "category": "社会正能量"
+    },
+    {
       "raw_hot": 143905,
       "num": 143905,
       "word": "掘金领取总冠军戒指",
@@ -1475,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 141171,
+      "num": 141171,
+      "word": "明日方舟终末地",
+      "onboard_time": 1698213520,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 139751,
       "num": 139751,
       "word": "一句公主请下车让小青荷们开心一整天",
@@ -1497,6 +1625,14 @@
       "onboard_time": 1698193656,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 138314,
+      "num": 138314,
+      "word": "杨天真 你得接受人生永远都是起起落落的",
+      "onboard_time": 1698214901,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 137522,
@@ -1545,6 +1681,14 @@
       "onboard_time": 1698204817,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 134020,
+      "num": 134020,
+      "word": "胡先煦急出了台湾腔",
+      "onboard_time": 1698214417,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 129970,

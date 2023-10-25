@@ -1,0 +1,410 @@
+{
+  "runTime": 1698214961746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6776025,
+        "num": 6776025,
+        "word": "大杨哥怒批李佳琦挟持商家",
+        "onboard_time": 1698205236,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 926044,
+        "num": 926044,
+        "word": "2024春节放8天假",
+        "onboard_time": 1698198391,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 146372,
+        "num": 839712,
+        "word": "他认真唱国歌的样子太帅了",
+        "onboard_time": 1698206923,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 797302,
+        "num": 797302,
+        "word": "王诗晴首次选离婚",
+        "onboard_time": 1698212919,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 738790,
+        "num": 738790,
+        "word": "徐明浩 瑞幸",
+        "onboard_time": 1698207044,
+        "rank": 4,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 633854,
+        "num": 633854,
+        "word": "女子当街杀害男子并电话告知其家属",
+        "onboard_time": 1698212677,
+        "rank": 5,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 612732,
+        "num": 612732,
+        "word": "今生簪花 来世漂亮",
+        "onboard_time": 1698212621,
+        "rank": 6,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 612722,
+        "num": 612722,
+        "word": "王海打假李佳琦直播间卖和田玉",
+        "onboard_time": 1698198091,
+        "rank": 7,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 603797,
+        "num": 603797,
+        "word": "大杨哥质问出身农村不能变有钱吗",
+        "onboard_time": 1698207763,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 512266,
+        "num": 512266,
+        "word": "调休是因为不得不调但更人性化更灵活",
+        "onboard_time": 1698205299,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 2037741,
+        "num": 508304,
+        "word": "国家发改委回应2024年放假安排",
+        "onboard_time": 1698205658,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1414725,
+        "num": 502453,
+        "word": "章子怡事业困境 华语电影大女性角色",
+        "onboard_time": 1698213461,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1323945,
+        "num": 491705,
+        "word": "除夕不放假",
+        "onboard_time": 1698199355,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 899775,
+        "num": 485973,
+        "word": "安妮海瑟薇为什么突然老了",
+        "onboard_time": 1698205299,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 767331,
+        "num": 474689,
+        "word": "李佳琦公司美ONE合同细则曝光",
+        "onboard_time": 1698159880,
+        "rank": 14,
+        "category": "美妆,网红"
+      },
+      {
+        "raw_hot": 596096,
+        "num": 464108,
+        "word": "黄渤孙红雷黄磊张艺兴王迅最新合照",
+        "onboard_time": 1698214119,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 564464,
+        "num": 461799,
+        "word": "京东高管回应采销喊话李佳琦",
+        "onboard_time": 1698208001,
+        "rank": 16,
+        "category": "社会新闻,财经"
+      },
+      {
+        "raw_hot": 533570,
+        "num": 448990,
+        "word": "刘嘉玲拍的梁朝伟王菲",
+        "onboard_time": 1698210702,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445434,
+        "num": 445434,
+        "word": "成毅Queencard跳到六公主了",
+        "onboard_time": 1698211781,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 332899,
+        "num": 332899,
+        "word": "吉林地震",
+        "onboard_time": 1698210041,
+        "rank": 19,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425421,
+        "num": 323471,
+        "word": "赵露思奶拽烟熏妆",
+        "onboard_time": 1698212796,
+        "rank": 20,
+        "category": "作品衍生,美妆"
+      },
+      {
+        "raw_hot": 371874,
+        "num": 319291,
+        "word": "迪丽热巴为大家整理行李箱",
+        "onboard_time": 1698213637,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309331,
+        "num": 309331,
+        "word": "男子网购狗粮4只狗吃后中毒",
+        "onboard_time": 1698213101,
+        "rank": 22,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 278400,
+        "num": 278400,
+        "word": "金戒指戴右手中指 招财",
+        "onboard_time": 1698212796,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 264967,
+        "num": 264967,
+        "word": "杭州多家水果店芒果被买空",
+        "onboard_time": 1698211721,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 291930,
+        "num": 262491,
+        "word": "王诗晴说纪焕博除了她没有亲密关系",
+        "onboard_time": 1698214656,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246010,
+        "num": 246010,
+        "word": "秦海璐说AA制就是个笑话",
+        "onboard_time": 1698207403,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237160,
+        "num": 237160,
+        "word": "肖战地广开始铺欧美国家了",
+        "onboard_time": 1698213520,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214585,
+        "num": 214585,
+        "word": "老人凌晨去世家人放鞭炮请人帮忙",
+        "onboard_time": 1698208964,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 213750,
+        "num": 213750,
+        "word": "最好的医丑",
+        "onboard_time": 1698206379,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 226202,
+        "num": 213674,
+        "word": "迪丽热巴问了我想问的问题",
+        "onboard_time": 1698214302,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212979,
+        "num": 212979,
+        "word": "除夕A股正常开市",
+        "onboard_time": 1698206561,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 206994,
+        "num": 206994,
+        "word": "华晨宇黑粉被限制高消费",
+        "onboard_time": 1698214058,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203994,
+        "num": 203994,
+        "word": "韩国春节假期补休",
+        "onboard_time": 1698203978,
+        "rank": 33,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 194990,
+        "num": 194990,
+        "word": "财阀千金感美甲",
+        "onboard_time": 1698209626,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 192749,
+        "num": 192749,
+        "word": "26岁宝妈大方穿短上衣不怕露出妊娠纹",
+        "onboard_time": 1698209565,
+        "rank": 35,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188136,
+        "num": 188136,
+        "word": "胡锡进 春节休假延长趋势已摆出",
+        "onboard_time": 1698205598,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 187000,
+        "num": 187000,
+        "word": "上海辟谣民警上门撬锁抓德牧",
+        "onboard_time": 1698213219,
+        "rank": 37,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 183240,
+        "num": 183240,
+        "word": "赵丽颖蛋卷发",
+        "onboard_time": 1698205236,
+        "rank": 38,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 175290,
+        "num": 175290,
+        "word": "朴彩英芭比粉羽毛裙",
+        "onboard_time": 1698209742,
+        "rank": 39,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 174506,
+        "num": 174506,
+        "word": "调休",
+        "onboard_time": 1698199773,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 173529,
+        "num": 173529,
+        "word": "papi酱形容傅首尔和老刘的关系",
+        "onboard_time": 1698204938,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162516,
+        "num": 162516,
+        "word": "今年要换电脑的都先冷静一下",
+        "onboard_time": 1698206379,
+        "rank": 42,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 148630,
+        "num": 148630,
+        "word": "你愿意除夕请年假吗",
+        "onboard_time": 1698202717,
+        "rank": 43,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 145775,
+        "num": 145775,
+        "word": "咒术回战240话",
+        "onboard_time": 1698211661,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 144792,
+        "num": 144792,
+        "word": "民警40分钟辗转3地17公里救人",
+        "onboard_time": 1698214901,
+        "rank": 45,
+        "category": "社会正能量"
+      },
+      {
+        "raw_hot": 141171,
+        "num": 141171,
+        "word": "明日方舟终末地",
+        "onboard_time": 1698213520,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 138408,
+        "num": 138408,
+        "word": "韩媒曝知名艺人吸毒接受警方调查",
+        "onboard_time": 1698203919,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138314,
+        "num": 138314,
+        "word": "杨天真 你得接受人生永远都是起起落落的",
+        "onboard_time": 1698214901,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134020,
+        "num": 134020,
+        "word": "胡先煦急出了台湾腔",
+        "onboard_time": 1698214417,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#烈士们的功绩彪炳千秋#"
+    }
+  }
+}
