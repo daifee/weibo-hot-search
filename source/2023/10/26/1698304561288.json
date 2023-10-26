@@ -1,0 +1,410 @@
+{
+  "runTime": 1698304561288,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1650350,
+        "num": 1650350,
+        "word": "苏翊鸣朱易牵手照",
+        "onboard_time": 1698301475,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 884406,
+        "num": 884406,
+        "word": "小杨哥曾称每月发工资超5000万",
+        "onboard_time": 1698292234,
+        "rank": 1,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19225,
+        "num": 760944,
+        "word": "当年的汶川男孩成了轮椅网球运动员",
+        "onboard_time": 1698235599,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 679179,
+        "num": 679179,
+        "word": "医生不建议用的3种护肤品",
+        "onboard_time": 1698278919,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 568208,
+        "num": 568208,
+        "word": "杨紫乔欣重聚综艺",
+        "onboard_time": 1698303396,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410329,
+        "num": 410329,
+        "word": "中央财政增发的1万亿元国债怎么用",
+        "onboard_time": 1698299135,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 404292,
+        "num": 404292,
+        "word": "金采源否认吸毒传闻",
+        "onboard_time": 1698301594,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 371871,
+        "num": 371871,
+        "word": "张颂文去街舞6了",
+        "onboard_time": 1698290970,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351780,
+        "num": 351780,
+        "word": "大麦称暂未收到梅西中国行开票通知",
+        "onboard_time": 1698302254,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 334230,
+        "num": 334230,
+        "word": "花样少男少女作者去世",
+        "onboard_time": 1698298115,
+        "rank": 9,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 1458012,
+        "num": 331477,
+        "word": "Angelababy申请强执娱记朱皮",
+        "onboard_time": 1698293556,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602757,
+        "num": 329865,
+        "word": "权志龙",
+        "onboard_time": 1698301234,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365952,
+        "num": 329438,
+        "word": "社保局称工作人员上班闲聊视频内容不实",
+        "onboard_time": 1698298358,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 327763,
+        "num": 327763,
+        "word": "3岁女童被野猴抓走民警紧急救人",
+        "onboard_time": 1698303456,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 175673,
+        "num": 320580,
+        "word": "神舟十七号",
+        "onboard_time": 1698285159,
+        "rank": 14,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 990667,
+        "num": 319510,
+        "word": "捡花生被卷机器身亡老人家属回应恶评",
+        "onboard_time": 1698298716,
+        "rank": 15,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 345718,
+        "num": 318927,
+        "word": "中国代表当场回应以色列不满",
+        "onboard_time": 1698303633,
+        "rank": 16,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 314614,
+        "num": 314614,
+        "word": "大学生讲PPT都卷到这种地步了吗",
+        "onboard_time": 1698300215,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 314109,
+        "num": 314109,
+        "word": "G社拍的戚薇",
+        "onboard_time": 1698301653,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 286492,
+        "num": 286492,
+        "word": "刘涛给秦海璐的花少建议",
+        "onboard_time": 1698297877,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377773,
+        "num": 272937,
+        "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+        "onboard_time": 1698285513,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 257598,
+        "num": 257598,
+        "word": "上班有一种没有尽头的感觉",
+        "onboard_time": 1698295898,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 224150,
+        "num": 224150,
+        "word": "辛芷蕾最飒的脸说最憨的话",
+        "onboard_time": 1698302074,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214324,
+        "num": 214324,
+        "word": "梅西不去青岛了",
+        "onboard_time": 1698297877,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199283,
+        "num": 199283,
+        "word": "1700亿国企董事长被查",
+        "onboard_time": 1698299431,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 199177,
+        "num": 199177,
+        "word": "大爷不小心闯入女孩镜头暖心又好笑",
+        "onboard_time": 1698300453,
+        "rank": 25,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 393067,
+        "num": 199113,
+        "word": "贾乃亮带货美容仪线上比线下贵1600元",
+        "onboard_time": 1698304234,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198239,
+        "num": 198239,
+        "word": "脱轨主演阵容",
+        "onboard_time": 1698302373,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197066,
+        "num": 197066,
+        "word": "以军夜间发起一次大规模地面进攻",
+        "onboard_time": 1698297338,
+        "rank": 28,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 196412,
+        "num": 196412,
+        "word": "张龄心夸肖战拍戏从来不迟到",
+        "onboard_time": 1698304234,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413944,
+        "num": 196122,
+        "word": "网传长江大学主题讲座播放不雅视频",
+        "onboard_time": 1698302976,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 192371,
+        "num": 192371,
+        "word": "梦中的那片海",
+        "onboard_time": 1698299255,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180124,
+        "num": 190288,
+        "word": "星穹铁道Keep",
+        "onboard_time": 1698304179,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 551811,
+        "num": 189703,
+        "word": "张庭银行账户也全部解封",
+        "onboard_time": 1698300816,
+        "rank": 33,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 188560,
+        "num": 188560,
+        "word": "中级会计",
+        "onboard_time": 1698300095,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187405,
+        "num": 187405,
+        "word": "呆阿拿 甄姬孔雀公主",
+        "onboard_time": 1698300816,
+        "rank": 35,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 169951,
+        "num": 169951,
+        "word": "小狗被落电梯外一群邻居陪着等",
+        "onboard_time": 1698303814,
+        "rank": 36,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 166312,
+        "num": 166312,
+        "word": "迪丽热巴社交名片酸奶疙瘩",
+        "onboard_time": 1698296142,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78389,
+        "num": 162728,
+        "word": "让E人眼前一黑的杯子",
+        "onboard_time": 1698302254,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162395,
+        "num": 162395,
+        "word": "整理房间误扔10万元被路人送还",
+        "onboard_time": 1698304056,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 150575,
+        "num": 150575,
+        "word": "警方回应西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698292954,
+        "rank": 40,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 144800,
+        "num": 144800,
+        "word": "奶奶拍身份证照片全家都入镜了",
+        "onboard_time": 1698274825,
+        "rank": 41,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 137847,
+        "num": 137847,
+        "word": "多名专家谈李佳琦是否涉嫌垄断",
+        "onboard_time": 1698290011,
+        "rank": 42,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 134045,
+        "num": 134045,
+        "word": "起猛了看到许凯穿裙子了",
+        "onboard_time": 1698302433,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 134007,
+        "num": 134007,
+        "word": "莲花楼减肥法",
+        "onboard_time": 1698294758,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131826,
+        "num": 131826,
+        "word": "张颂文跳起舞来那也不是盖的",
+        "onboard_time": 1698302014,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129484,
+        "num": 129484,
+        "word": "满记甜品自助",
+        "onboard_time": 1698304113,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 123471,
+        "num": 123471,
+        "word": "威少兴奋了",
+        "onboard_time": 1698300335,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114132,
+        "num": 114132,
+        "word": "防弹少年团部分成员被曝是吸毒场所常客",
+        "onboard_time": 1698304536,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108414,
+        "num": 108414,
+        "word": "原来放调料也是有公式的",
+        "onboard_time": 1698304536,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国加利福尼亚州州长#"
+    }
+  }
+}

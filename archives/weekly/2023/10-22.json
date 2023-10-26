@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698302119774,
+  "endTime": 1698304561288,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -433,6 +433,14 @@
       "onboard_time": 1698027215,
       "rank": 11,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1650350,
+      "num": 1650350,
+      "word": "苏翊鸣朱易牵手照",
+      "onboard_time": 1698301475,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1643878,
@@ -2187,12 +2195,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 601786,
-      "num": 601786,
-      "word": "苏翊鸣朱易牵手照",
-      "onboard_time": 1698301475,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 602757,
+      "num": 458600,
+      "word": "权志龙",
+      "onboard_time": 1698301234,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 599304,
@@ -2371,6 +2379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 568208,
+      "num": 568208,
+      "word": "杨紫乔欣重聚综艺",
+      "onboard_time": 1698303396,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 564658,
       "num": 564658,
       "word": "肺癌细胞会装幼稚欺骗大脑保护",
@@ -2449,6 +2465,14 @@
       "onboard_time": 1698144936,
       "rank": 8,
       "category": "动漫,艺人"
+    },
+    {
+      "raw_hot": 551811,
+      "num": 528498,
+      "word": "张庭银行账户也全部解封",
+      "onboard_time": 1698300816,
+      "rank": 19,
+      "category": "艺人,财经"
     },
     {
       "raw_hot": 550138,
@@ -2593,14 +2617,6 @@
       "onboard_time": 1697975670,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 528498,
-      "num": 528498,
-      "word": "张庭银行账户也全部解封",
-      "onboard_time": 1698300816,
-      "rank": 19,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 527904,
@@ -3091,14 +3107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 458600,
-      "num": 458600,
-      "word": "权志龙",
-      "onboard_time": 1698301234,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 456950,
       "num": 456950,
       "word": "辱骂新加坡护士的中国女子判了",
@@ -3531,6 +3539,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 413944,
+      "num": 196122,
+      "word": "网传长江大学主题讲座播放不雅视频",
+      "onboard_time": 1698302976,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 411887,
       "num": 411887,
       "word": "中美经济工作组举行第一次会议",
@@ -3617,6 +3633,14 @@
       "onboard_time": 1698206379,
       "rank": 16,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404292,
+      "num": 404292,
+      "word": "金采源否认吸毒传闻",
+      "onboard_time": 1698301594,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 404036,
@@ -3729,6 +3753,14 @@
       "onboard_time": 1698073183,
       "rank": 13,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 393067,
+      "num": 199113,
+      "word": "贾乃亮带货美容仪线上比线下贵1600元",
+      "onboard_time": 1698304234,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 392703,
@@ -4235,6 +4267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351780,
+      "num": 351780,
+      "word": "大麦称暂未收到梅西中国行开票通知",
+      "onboard_time": 1698302254,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 351754,
       "num": 351754,
       "word": "戚薇外滩十八号回忆杀",
@@ -4321,6 +4361,14 @@
       "onboard_time": 1697989831,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 345718,
+      "num": 318927,
+      "word": "中国代表当场回应以色列不满",
+      "onboard_time": 1698303633,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 345665,
@@ -4513,6 +4561,14 @@
       "onboard_time": 1697935949,
       "rank": 18,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 327763,
+      "num": 327763,
+      "word": "3岁女童被野猴抓走民警紧急救人",
+      "onboard_time": 1698303456,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 327216,
@@ -4755,6 +4811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 314614,
+      "num": 314614,
+      "word": "大学生讲PPT都卷到这种地步了吗",
+      "onboard_time": 1698300215,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 314443,
       "num": 314443,
       "word": "梁洁白开水妆",
@@ -4769,6 +4833,14 @@
       "onboard_time": 1698143252,
       "rank": 32,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 314109,
+      "num": 314109,
+      "word": "G社拍的戚薇",
+      "onboard_time": 1698301653,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 313683,
@@ -6236,7 +6308,7 @@
     },
     {
       "raw_hot": 247057,
-      "num": 187389,
+      "num": 187405,
       "word": "呆阿拿 甄姬孔雀公主",
       "onboard_time": 1698300816,
       "rank": 31,
@@ -6843,14 +6915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 225539,
-      "num": 225539,
-      "word": "大学生讲PPT都卷到这种地步了吗",
-      "onboard_time": 1698300215,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 225163,
       "num": 268607,
       "word": "被白象的操作暖到了",
@@ -6889,6 +6953,14 @@
       "onboard_time": 1698300937,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224150,
+      "num": 224150,
+      "word": "辛芷蕾最飒的脸说最憨的话",
+      "onboard_time": 1698302074,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 224038,
@@ -8075,6 +8147,14 @@
       "category": "电竞,音乐"
     },
     {
+      "raw_hot": 198239,
+      "num": 198239,
+      "word": "脱轨主演阵容",
+      "onboard_time": 1698302373,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197752,
       "num": 197752,
       "word": "崔胜澈 那就听欧巴给你唠叨吧",
@@ -8137,6 +8217,14 @@
       "onboard_time": 1698051716,
       "rank": 32,
       "category": "知识科普"
+    },
+    {
+      "raw_hot": 196412,
+      "num": 196412,
+      "word": "张龄心夸肖战拍戏从来不迟到",
+      "onboard_time": 1698304234,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 196385,
@@ -8595,12 +8683,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188679,
-      "num": 188679,
-      "word": "金采源否认吸毒传闻",
-      "onboard_time": 1698301594,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 188560,
+      "num": 188560,
+      "word": "中级会计",
+      "onboard_time": 1698300095,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 188458,
@@ -8811,14 +8899,6 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 183510,
-      "num": 183510,
-      "word": "G社拍的戚薇",
-      "onboard_time": 1698301653,
-      "rank": 31,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 183274,
       "num": 183274,
       "word": "花儿与少年空镜海报",
@@ -8977,6 +9057,14 @@
       "onboard_time": 1697970091,
       "rank": 4,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 180124,
+      "num": 190288,
+      "word": "星穹铁道Keep",
+      "onboard_time": 1698304179,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 180036,
@@ -9435,6 +9523,14 @@
       "category": "社会新闻,美食"
     },
     {
+      "raw_hot": 169951,
+      "num": 169951,
+      "word": "小狗被落电梯外一群邻居陪着等",
+      "onboard_time": 1698303814,
+      "rank": 36,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 169827,
       "num": 169827,
       "word": "繁城之下结局",
@@ -9712,6 +9808,14 @@
       "word": "2024年部分节假日安排公布",
       "onboard_time": 1698201159,
       "rank": 32,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 162395,
+      "num": 162395,
+      "word": "整理房间误扔10万元被路人送还",
+      "onboard_time": 1698304056,
+      "rank": 39,
       "category": "社会新闻"
     },
     {
@@ -10225,14 +10329,6 @@
       "onboard_time": 1698222698,
       "rank": 39,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 151315,
-      "num": 151315,
-      "word": "中级会计",
-      "onboard_time": 1698300095,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 151273,
@@ -11187,6 +11283,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 134045,
+      "num": 134045,
+      "word": "起猛了看到许凯穿裙子了",
+      "onboard_time": 1698302433,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 134020,
       "num": 134020,
       "word": "胡先煦急出了台湾腔",
@@ -11289,6 +11393,14 @@
       "onboard_time": 1698048387,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 131826,
+      "num": 131826,
+      "word": "张颂文跳起舞来那也不是盖的",
+      "onboard_time": 1698302014,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 131485,
@@ -11457,6 +11569,14 @@
       "onboard_time": 1698233079,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129484,
+      "num": 129484,
+      "word": "满记甜品自助",
+      "onboard_time": 1698304113,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 129392,
@@ -12115,6 +12235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114132,
+      "num": 114132,
+      "word": "防弹少年团部分成员被曝是吸毒场所常客",
+      "onboard_time": 1698304536,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114056,
       "num": 108229,
       "word": "泰国VOGUE报道迪丽热巴",
@@ -12307,6 +12435,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 108414,
+      "num": 108414,
+      "word": "原来放调料也是有公式的",
+      "onboard_time": 1698304536,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108223,
       "num": 114838,
       "word": "谢谢这杯花里胡哨的水",
@@ -12416,22 +12552,6 @@
       "word": "福富月Natty认哥舞蹈cut",
       "onboard_time": 1697962230,
       "rank": 43,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 105723,
-      "num": 105723,
-      "word": "张颂文跳起舞来那也不是盖的",
-      "onboard_time": 1698302014,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 105609,
-      "num": 105609,
-      "word": "辛芷蕾最飒的脸说最憨的话",
-      "onboard_time": 1698302074,
-      "rank": 45,
       "category": "综艺"
     },
     {
@@ -13089,6 +13209,14 @@
       "onboard_time": 1698189865,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78389,
+      "num": 162728,
+      "word": "让E人眼前一黑的杯子",
+      "onboard_time": 1698302254,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 77438,

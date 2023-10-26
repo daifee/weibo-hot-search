@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698302119774,
+  "endTime": 1698304561288,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -57,6 +57,14 @@
       "onboard_time": 1698292234,
       "rank": 4,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 1650350,
+      "num": 1650350,
+      "word": "苏翊鸣朱易牵手照",
+      "onboard_time": 1698301475,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 1638607,
@@ -275,12 +283,12 @@
       "category": "国外要闻,财经"
     },
     {
-      "raw_hot": 601786,
-      "num": 601786,
-      "word": "苏翊鸣朱易牵手照",
-      "onboard_time": 1698301475,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 602757,
+      "num": 458600,
+      "word": "权志龙",
+      "onboard_time": 1698301234,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 594946,
@@ -299,6 +307,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568208,
+      "num": 568208,
+      "word": "杨紫乔欣重聚综艺",
+      "onboard_time": 1698303396,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 551811,
+      "num": 528498,
+      "word": "张庭银行账户也全部解封",
+      "onboard_time": 1698300816,
+      "rank": 19,
+      "category": "艺人,财经"
+    },
+    {
       "raw_hot": 536281,
       "num": 262436,
       "word": "男子发现女儿非亲生前妻称自己也不知情",
@@ -313,14 +337,6 @@
       "onboard_time": 1698282939,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 528498,
-      "num": 528498,
-      "word": "张庭银行账户也全部解封",
-      "onboard_time": 1698300816,
-      "rank": 19,
-      "category": "艺人,财经"
     },
     {
       "raw_hot": 513378,
@@ -345,14 +361,6 @@
       "onboard_time": 1698299135,
       "rank": 11,
       "category": "国内要闻"
-    },
-    {
-      "raw_hot": 458600,
-      "num": 458600,
-      "word": "权志龙",
-      "onboard_time": 1698301234,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 453918,
@@ -419,12 +427,36 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 413944,
+      "num": 196122,
+      "word": "网传长江大学主题讲座播放不雅视频",
+      "onboard_time": 1698302976,
+      "rank": 30,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 404292,
+      "num": 404292,
+      "word": "金采源否认吸毒传闻",
+      "onboard_time": 1698301594,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403522,
       "num": 403522,
       "word": "好皮肤要先从养肤做起",
       "onboard_time": 1698294216,
       "rank": 31,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 393067,
+      "num": 199113,
+      "word": "贾乃亮带货美容仪线上比线下贵1600元",
+      "onboard_time": 1698304234,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 386767,
@@ -467,12 +499,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 351780,
+      "num": 351780,
+      "word": "大麦称暂未收到梅西中国行开票通知",
+      "onboard_time": 1698302254,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 346362,
       "num": 346362,
       "word": "王诗晴还爱老纪吗",
       "onboard_time": 1698288813,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345718,
+      "num": 318927,
+      "word": "中国代表当场回应以色列不满",
+      "onboard_time": 1698303633,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 344845,
@@ -505,6 +553,14 @@
       "onboard_time": 1698243164,
       "rank": 7,
       "category": "美妆,作品衍生"
+    },
+    {
+      "raw_hot": 327763,
+      "num": 327763,
+      "word": "3岁女童被野猴抓走民警紧急救人",
+      "onboard_time": 1698303456,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 326045,
@@ -545,6 +601,22 @@
       "onboard_time": 1698287613,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 314614,
+      "num": 314614,
+      "word": "大学生讲PPT都卷到这种地步了吗",
+      "onboard_time": 1698300215,
+      "rank": 24,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 314109,
+      "num": 314109,
+      "word": "G社拍的戚薇",
+      "onboard_time": 1698301653,
+      "rank": 31,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 310182,
@@ -740,7 +812,7 @@
     },
     {
       "raw_hot": 247057,
-      "num": 187389,
+      "num": 187405,
       "word": "呆阿拿 甄姬孔雀公主",
       "onboard_time": 1698300816,
       "rank": 31,
@@ -819,14 +891,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 225539,
-      "num": 225539,
-      "word": "大学生讲PPT都卷到这种地步了吗",
-      "onboard_time": 1698300215,
-      "rank": 24,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 224906,
       "num": 224906,
       "word": "货车侧翻一群人买光14000斤花菜",
@@ -841,6 +905,14 @@
       "onboard_time": 1698300937,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224150,
+      "num": 224150,
+      "word": "辛芷蕾最飒的脸说最憨的话",
+      "onboard_time": 1698302074,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 224038,
@@ -1051,6 +1123,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 198239,
+      "num": 198239,
+      "word": "脱轨主演阵容",
+      "onboard_time": 1698302373,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 197916,
       "num": 197916,
       "word": "90后夫妻裸婚后同城分居5年",
@@ -1081,6 +1161,14 @@
       "onboard_time": 1698293377,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196412,
+      "num": 196412,
+      "word": "张龄心夸肖战拍戏从来不迟到",
+      "onboard_time": 1698304234,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 195606,
@@ -1163,20 +1251,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188679,
-      "num": 188679,
-      "word": "金采源否认吸毒传闻",
-      "onboard_time": 1698301594,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 183510,
-      "num": 183510,
-      "word": "G社拍的戚薇",
-      "onboard_time": 1698301653,
-      "rank": 31,
-      "category": "作品衍生,时尚"
+      "raw_hot": 188560,
+      "num": 188560,
+      "word": "中级会计",
+      "onboard_time": 1698300095,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 182446,
@@ -1201,6 +1281,14 @@
       "onboard_time": 1698231879,
       "rank": 33,
       "category": "动漫,作品衍生"
+    },
+    {
+      "raw_hot": 180124,
+      "num": 190288,
+      "word": "星穹铁道Keep",
+      "onboard_time": 1698304179,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 179483,
@@ -1241,6 +1329,14 @@
       "onboard_time": 1698287913,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 169951,
+      "num": 169951,
+      "word": "小狗被落电梯外一群邻居陪着等",
+      "onboard_time": 1698303814,
+      "rank": 36,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 168757,
@@ -1297,6 +1393,14 @@
       "onboard_time": 1698248498,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162395,
+      "num": 162395,
+      "word": "整理房间误扔10万元被路人送还",
+      "onboard_time": 1698304056,
+      "rank": 39,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 160880,
@@ -1369,14 +1473,6 @@
       "onboard_time": 1698284973,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 151315,
-      "num": 151315,
-      "word": "中级会计",
-      "onboard_time": 1698300095,
-      "rank": 38,
-      "category": "教育"
     },
     {
       "raw_hot": 147100,
@@ -1475,12 +1571,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 134045,
+      "num": 134045,
+      "word": "起猛了看到许凯穿裙子了",
+      "onboard_time": 1698302433,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 132546,
       "num": 132546,
       "word": "邓紫棋演唱会获批",
       "onboard_time": 1698291694,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 131826,
+      "num": 131826,
+      "word": "张颂文跳起舞来那也不是盖的",
+      "onboard_time": 1698302014,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 131275,
@@ -1513,6 +1625,14 @@
       "onboard_time": 1698290313,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129484,
+      "num": 129484,
+      "word": "满记甜品自助",
+      "onboard_time": 1698304113,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 128180,
@@ -1595,12 +1715,28 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 114132,
+      "num": 114132,
+      "word": "防弹少年团部分成员被曝是吸毒场所常客",
+      "onboard_time": 1698304536,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112408,
       "num": 112408,
       "word": "小柯基被亲了一口整个狗都开心了",
       "onboard_time": 1698271456,
       "rank": 39,
       "category": "动物萌宠"
+    },
+    {
+      "raw_hot": 108414,
+      "num": 108414,
+      "word": "原来放调料也是有公式的",
+      "onboard_time": 1698304536,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 108309,
@@ -1617,22 +1753,6 @@
       "onboard_time": 1698283835,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105723,
-      "num": 105723,
-      "word": "张颂文跳起舞来那也不是盖的",
-      "onboard_time": 1698302014,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 105609,
-      "num": 105609,
-      "word": "辛芷蕾最飒的脸说最憨的话",
-      "onboard_time": 1698302074,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 104706,
@@ -1721,6 +1841,14 @@
       "onboard_time": 1698276569,
       "rank": 44,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 78389,
+      "num": 162728,
+      "word": "让E人眼前一黑的杯子",
+      "onboard_time": 1698302254,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 71917,
