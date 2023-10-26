@@ -1,0 +1,410 @@
+{
+  "runTime": 1698308486154,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2920324,
+        "num": 2920324,
+        "word": "防弹少年团部分成员被曝是吸毒场所常客",
+        "onboard_time": 1698304536,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1193808,
+        "num": 1193808,
+        "word": "女性每月什么时候护肤最有效",
+        "onboard_time": 1698306096,
+        "rank": 1,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 12390,
+        "num": 1086814,
+        "word": "你是我的一束光",
+        "onboard_time": 1698308255,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1084500,
+        "num": 1084500,
+        "word": "苏翊鸣朱易牵手照",
+        "onboard_time": 1698301475,
+        "rank": 3,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 651368,
+        "num": 651368,
+        "word": "被狗咬女童200万捐款已基本退完",
+        "onboard_time": 1698307535,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1033694,
+        "num": 650208,
+        "word": "中国代表当场回应以色列不满",
+        "onboard_time": 1698303633,
+        "rank": 5,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 636751,
+        "num": 636751,
+        "word": "你们封神一定要这样吗",
+        "onboard_time": 1698304594,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487863,
+        "num": 487863,
+        "word": "医生不建议用的3种护肤品",
+        "onboard_time": 1698278919,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 441434,
+        "num": 441434,
+        "word": "小杨哥曾称每月发工资超5000万",
+        "onboard_time": 1698292234,
+        "rank": 8,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 375273,
+        "num": 375273,
+        "word": "满记甜品自助",
+        "onboard_time": 1698304113,
+        "rank": 9,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 890440,
+        "num": 372293,
+        "word": "长江大学回应主题讲座播放不雅视频",
+        "onboard_time": 1698304776,
+        "rank": 10,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 801449,
+        "num": 367658,
+        "word": "Angelababy申请强执娱记朱皮",
+        "onboard_time": 1698293556,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482785,
+        "num": 363739,
+        "word": "网传长江大学主题讲座播放不雅视频",
+        "onboard_time": 1698302976,
+        "rank": 12,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 425276,
+        "num": 358451,
+        "word": "家政公司称38岁月嫂在雇主家死亡",
+        "onboard_time": 1698306634,
+        "rank": 13,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 379735,
+        "num": 354416,
+        "word": "权志龙",
+        "onboard_time": 1698301234,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350209,
+        "num": 350209,
+        "word": "大麦称暂未收到梅西中国行开票通知",
+        "onboard_time": 1698302254,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335254,
+        "num": 335254,
+        "word": "薛之谦被陈卓璇整破防了",
+        "onboard_time": 1698305975,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325417,
+        "num": 325417,
+        "word": "杨紫乔欣重聚综艺",
+        "onboard_time": 1698303396,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279866,
+        "num": 279866,
+        "word": "G社拍的戚薇",
+        "onboard_time": 1698301653,
+        "rank": 18,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 270475,
+        "num": 270475,
+        "word": "檀健次张婧仪新片吻戏",
+        "onboard_time": 1698305495,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 673747,
+        "num": 268407,
+        "word": "3岁女童被野猴抓走民警紧急救人",
+        "onboard_time": 1698303456,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 428828,
+        "num": 263263,
+        "word": "吃同事的蟹居然被挂了",
+        "onboard_time": 1698305795,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 332135,
+        "num": 259291,
+        "word": "谢娜抱的狗狗是小H",
+        "onboard_time": 1698305196,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 283274,
+        "num": 256578,
+        "word": "蔡少芬50岁又拍甄嬛传",
+        "onboard_time": 1698304776,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 254502,
+        "num": 254502,
+        "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+        "onboard_time": 1698285513,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 244942,
+        "num": 244942,
+        "word": "于正话递到嘴边了 也子也不会卖惨",
+        "onboard_time": 1698306875,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240363,
+        "num": 240363,
+        "word": "张颂文去街舞6了",
+        "onboard_time": 1698290970,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210905,
+        "num": 210905,
+        "word": "捡花生被卷机器身亡老人家属回应恶评",
+        "onboard_time": 1698298716,
+        "rank": 27,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 188338,
+        "num": 188338,
+        "word": "朱一龙吵架吵不了一点",
+        "onboard_time": 1698304833,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 187707,
+        "num": 187707,
+        "word": "金采源否认吸毒传闻",
+        "onboard_time": 1698301594,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 734780,
+        "num": 187435,
+        "word": "贾乃亮带货美容仪线上比线下贵1600元",
+        "onboard_time": 1698304234,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246299,
+        "num": 187010,
+        "word": "太二酸菜鱼回应遭大众点评下架",
+        "onboard_time": 1698307834,
+        "rank": 31,
+        "category": "社会新闻,美食"
+      },
+      {
+        "raw_hot": 186041,
+        "num": 186041,
+        "word": "梅西不去青岛了",
+        "onboard_time": 1698297877,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177967,
+        "num": 177967,
+        "word": "杨紫邻家感",
+        "onboard_time": 1698304833,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159411,
+        "num": 159411,
+        "word": "整理房间误扔10万元被路人送还",
+        "onboard_time": 1698304056,
+        "rank": 34,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 162959,
+        "num": 159411,
+        "word": "张云龙李溪芮三搭",
+        "onboard_time": 1698306096,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159401,
+        "num": 159401,
+        "word": "张龄心夸肖战拍戏从来不迟到",
+        "onboard_time": 1698304234,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154106,
+        "num": 154106,
+        "word": "大学生讲PPT都卷到这种地步了吗",
+        "onboard_time": 1698300215,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139937,
+        "num": 139937,
+        "word": "国乒 法兰克福",
+        "onboard_time": 1698304833,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134787,
+        "num": 134787,
+        "word": "花样少男少女作者去世",
+        "onboard_time": 1698298115,
+        "rank": 39,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 123362,
+        "num": 123362,
+        "word": "谷江山 每个棚都有睁不开眼的吉祥物",
+        "onboard_time": 1698307893,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123330,
+        "num": 123330,
+        "word": "中央财政增发的1万亿元国债怎么用",
+        "onboard_time": 1698299135,
+        "rank": 41,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 117383,
+        "num": 117383,
+        "word": "中级会计",
+        "onboard_time": 1698300095,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 111900,
+        "num": 111900,
+        "word": "原来放调料也是有公式的",
+        "onboard_time": 1698304536,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109885,
+        "num": 109885,
+        "word": "小狗被落电梯外一群邻居陪着等",
+        "onboard_time": 1698303814,
+        "rank": 44,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 104475,
+        "num": 109724,
+        "word": "薛之谦什么都没说又都说了",
+        "onboard_time": 1698305134,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14566,
+        "num": 109480,
+        "word": "当年的汶川男孩成了轮椅网球运动员",
+        "onboard_time": 1698235599,
+        "rank": 46,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 103699,
+        "num": 108864,
+        "word": "秦海璐 我真的不是有意叫错名字的",
+        "onboard_time": 1698308373,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94083,
+        "num": 108336,
+        "word": "多名专家谈李佳琦是否涉嫌垄断",
+        "onboard_time": 1698290011,
+        "rank": 48,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 93351,
+        "num": 108175,
+        "word": "迪丽热巴社交名片酸奶疙瘩",
+        "onboard_time": 1698296142,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国加利福尼亚州州长#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698305652585,
+  "endTime": 1698308486154,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -8,6 +8,14 @@
       "word": "张庭96套房产解封",
       "onboard_time": 1698289772,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2920324,
+      "num": 2920324,
+      "word": "防弹少年团部分成员被曝是吸毒场所常客",
+      "onboard_time": 1698304536,
+      "rank": 48,
       "category": "艺人"
     },
     {
@@ -65,14 +73,6 @@
       "onboard_time": 1698292234,
       "rank": 4,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 1638756,
-      "num": 1638756,
-      "word": "防弹少年团部分成员被曝是吸毒场所常客",
-      "onboard_time": 1698304536,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 1638607,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193808,
+      "num": 1193808,
+      "word": "女性每月什么时候护肤最有效",
+      "onboard_time": 1698306096,
+      "rank": 1,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 1126962,
       "num": 1126962,
       "word": "女生半年减肥40斤查出重度脂肪肝",
@@ -177,6 +185,14 @@
       "onboard_time": 1698298716,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1033694,
+      "num": 693916,
+      "word": "中国代表当场回应以色列不满",
+      "onboard_time": 1698303633,
+      "rank": 16,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 1033436,
@@ -211,6 +227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 890440,
+      "num": 372293,
+      "word": "长江大学回应主题讲座播放不雅视频",
+      "onboard_time": 1698304776,
+      "rank": 12,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 876670,
       "num": 876670,
       "word": "张颂文去街舞6了",
@@ -235,14 +259,6 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 775646,
-      "num": 693916,
-      "word": "中国代表当场回应以色列不满",
-      "onboard_time": 1698303633,
-      "rank": 16,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 766866,
       "num": 766866,
       "word": "3岁女童被野猴抓走民警紧急救人",
@@ -259,7 +275,7 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 698207,
+      "raw_hot": 734780,
       "num": 204892,
       "word": "贾乃亮带货美容仪线上比线下贵1600元",
       "onboard_time": 1698304234,
@@ -299,12 +315,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 651368,
+      "num": 651368,
+      "word": "被狗咬女童200万捐款已基本退完",
+      "onboard_time": 1698307535,
+      "rank": 4,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 643986,
       "num": 643986,
       "word": "警方回应西南科技大学馄饨阿姨事件",
       "onboard_time": 1698292954,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 636751,
+      "num": 636751,
+      "word": "你们封神一定要这样吗",
+      "onboard_time": 1698304594,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 628612,
@@ -379,19 +411,19 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 508923,
-      "num": 322955,
-      "word": "长江大学回应主题讲座播放不雅视频",
-      "onboard_time": 1698304776,
-      "rank": 12,
-      "category": "社会新闻"
-    },
-    {
       "raw_hot": 505377,
       "num": 505377,
       "word": "社保局称工作人员上班闲聊视频内容不实",
       "onboard_time": 1698298358,
       "rank": 45,
+      "category": "社会新闻"
+    },
+    {
+      "raw_hot": 482785,
+      "num": 363739,
+      "word": "网传长江大学主题讲座播放不雅视频",
+      "onboard_time": 1698302976,
+      "rank": 30,
       "category": "社会新闻"
     },
     {
@@ -451,12 +483,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428828,
+      "num": 263263,
+      "word": "吃同事的蟹居然被挂了",
+      "onboard_time": 1698305795,
+      "rank": 21,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 426656,
       "num": 426656,
       "word": "迪丽热巴 当年好奇的问题突然窜入脑海",
       "onboard_time": 1698278075,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 425276,
+      "num": 358451,
+      "word": "家政公司称38岁月嫂在雇主家死亡",
+      "onboard_time": 1698306634,
+      "rank": 13,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 420064,
@@ -473,14 +521,6 @@
       "onboard_time": 1698297338,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 413944,
-      "num": 199379,
-      "word": "网传长江大学主题讲座播放不雅视频",
-      "onboard_time": 1698302976,
-      "rank": 30,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 404292,
@@ -515,12 +555,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 383477,
-      "num": 383477,
-      "word": "你们封神一定要这样吗",
-      "onboard_time": 1698304594,
-      "rank": 8,
-      "category": "综艺"
+      "raw_hot": 375273,
+      "num": 375273,
+      "word": "满记甜品自助",
+      "onboard_time": 1698304113,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 369470,
@@ -585,6 +625,14 @@
       "onboard_time": 1698278015,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 335254,
+      "num": 335254,
+      "word": "薛之谦被陈卓璇整破防了",
+      "onboard_time": 1698305975,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 328982,
@@ -755,6 +803,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270475,
+      "num": 270475,
+      "word": "檀健次张婧仪新片吻戏",
+      "onboard_time": 1698305495,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 266948,
       "num": 266948,
       "word": "王安宇辛芷蕾互相伤害",
@@ -819,14 +875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 256770,
-      "num": 256770,
-      "word": "满记甜品自助",
-      "onboard_time": 1698304113,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 256119,
       "num": 256119,
       "word": "公司考勤都没这记得全",
@@ -881,6 +929,22 @@
       "onboard_time": 1698243402,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 246299,
+      "num": 187010,
+      "word": "太二酸菜鱼回应遭大众点评下架",
+      "onboard_time": 1698307834,
+      "rank": 31,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 244942,
+      "num": 244942,
+      "word": "于正话递到嘴边了 也子也不会卖惨",
+      "onboard_time": 1698306875,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 241059,
@@ -1475,6 +1539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 162959,
+      "num": 159411,
+      "word": "张云龙李溪芮三搭",
+      "onboard_time": 1698306096,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160880,
       "num": 160880,
       "word": "最美后妈一碗水端平照顾继子60年",
@@ -1553,14 +1625,6 @@
       "onboard_time": 1698284973,
       "rank": 43,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 150567,
-      "num": 150567,
-      "word": "檀健次张婧仪新片吻戏",
-      "onboard_time": 1698305495,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 149021,
@@ -1755,6 +1819,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 123362,
+      "num": 123362,
+      "word": "谷江山 每个棚都有睁不开眼的吉祥物",
+      "onboard_time": 1698307893,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119151,
       "num": 119151,
       "word": "王一博染回黑发了",
@@ -1841,6 +1913,14 @@
       "onboard_time": 1698297696,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103699,
+      "num": 108864,
+      "word": "秦海璐 我真的不是有意叫错名字的",
+      "onboard_time": 1698308373,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 103670,
@@ -2025,6 +2105,14 @@
       "onboard_time": 1698264733,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 12390,
+      "num": 1086814,
+      "word": "你是我的一束光",
+      "onboard_time": 1698308255,
+      "rank": 2,
+      "category": "社会新闻"
     }
   ],
   "hotgov_list": [
