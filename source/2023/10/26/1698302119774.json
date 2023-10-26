@@ -1,0 +1,410 @@
+{
+  "runTime": 1698302119774,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1384607,
+        "num": 1384607,
+        "word": "小杨哥曾称每月发工资超5000万",
+        "onboard_time": 1698292234,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 699424,
+        "num": 699424,
+        "word": "上班有一种没有尽头的感觉",
+        "onboard_time": 1698295898,
+        "rank": 1,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 20607,
+        "num": 696829,
+        "word": "当年的汶川男孩成了轮椅网球运动员",
+        "onboard_time": 1698235599,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1045285,
+        "num": 696451,
+        "word": "捡花生被卷机器身亡老人家属回应恶评",
+        "onboard_time": 1698298716,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 695882,
+        "num": 695882,
+        "word": "医生不建议用的3种护肤品",
+        "onboard_time": 1698278919,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 626022,
+        "num": 626022,
+        "word": "花样少男少女作者去世",
+        "onboard_time": 1698298115,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601786,
+        "num": 601786,
+        "word": "苏翊鸣朱易牵手照",
+        "onboard_time": 1698301475,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590624,
+        "num": 590624,
+        "word": "刘涛给秦海璐的花少建议",
+        "onboard_time": 1698297877,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 528498,
+        "num": 528498,
+        "word": "张庭银行账户也全部解封",
+        "onboard_time": 1698300816,
+        "rank": 8,
+        "category": "艺人,财经"
+      },
+      {
+        "raw_hot": 505377,
+        "num": 505377,
+        "word": "社保局称工作人员上班闲聊视频内容不实",
+        "onboard_time": 1698298358,
+        "rank": 9,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1660111,
+        "num": 493401,
+        "word": "Angelababy申请强执娱记朱皮",
+        "onboard_time": 1698293556,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480178,
+        "num": 480178,
+        "word": "中央财政增发的1万亿元国债怎么用",
+        "onboard_time": 1698299135,
+        "rank": 11,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 460258,
+        "num": 460258,
+        "word": "张颂文去街舞6了",
+        "onboard_time": 1698290970,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 458600,
+        "num": 458600,
+        "word": "权志龙",
+        "onboard_time": 1698301234,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91054,
+        "num": 388645,
+        "word": "神舟十七号",
+        "onboard_time": 1698285159,
+        "rank": 14,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 374165,
+        "num": 374165,
+        "word": "以军夜间发起一次大规模地面进攻",
+        "onboard_time": 1698297338,
+        "rank": 15,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 357164,
+        "num": 357164,
+        "word": "梦中的那片海",
+        "onboard_time": 1698299255,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303289,
+        "num": 303289,
+        "word": "迪丽热巴社交名片酸奶疙瘩",
+        "onboard_time": 1698296142,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282938,
+        "num": 282938,
+        "word": "警方回应西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698292954,
+        "rank": 18,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 273299,
+        "num": 273299,
+        "word": "梅西不去青岛了",
+        "onboard_time": 1698297877,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430106,
+        "num": 272586,
+        "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+        "onboard_time": 1698285513,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 266600,
+        "num": 266600,
+        "word": "奶奶拍身份证照片全家都入镜了",
+        "onboard_time": 1698274825,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 262879,
+        "num": 262879,
+        "word": "多名专家谈李佳琦是否涉嫌垄断",
+        "onboard_time": 1698290011,
+        "rank": 22,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 233951,
+        "num": 233951,
+        "word": "大爷不小心闯入女孩镜头暖心又好笑",
+        "onboard_time": 1698300453,
+        "rank": 23,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 221257,
+        "num": 221257,
+        "word": "大学生讲PPT都卷到这种地步了吗",
+        "onboard_time": 1698300215,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216264,
+        "num": 216264,
+        "word": "中俄列车大劫案有多可怕",
+        "onboard_time": 1698281319,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209141,
+        "num": 209141,
+        "word": "莲花楼减肥法",
+        "onboard_time": 1698294758,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203621,
+        "num": 203621,
+        "word": "1700亿国企董事长被查",
+        "onboard_time": 1698299431,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 195606,
+        "num": 195606,
+        "word": "荣耀重返中国第三季度智能手机出货量第一",
+        "onboard_time": 1698301475,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 188679,
+        "num": 188679,
+        "word": "金采源否认吸毒传闻",
+        "onboard_time": 1698301594,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247057,
+        "num": 187389,
+        "word": "呆阿拿 甄姬孔雀公主",
+        "onboard_time": 1698300816,
+        "rank": 30,
+        "category": "游戏,美妆"
+      },
+      {
+        "raw_hot": 183510,
+        "num": 183510,
+        "word": "G社拍的戚薇",
+        "onboard_time": 1698301653,
+        "rank": 31,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 177762,
+        "num": 177762,
+        "word": "威少兴奋了",
+        "onboard_time": 1698300335,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171739,
+        "num": 171739,
+        "word": "好皮肤要先从养肤做起",
+        "onboard_time": 1698294216,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 168810,
+        "num": 168810,
+        "word": "许凯的衬衫偷偷想开了",
+        "onboard_time": 1698300754,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 158682,
+        "num": 158682,
+        "word": "金世佳新片演清醒的恋爱脑",
+        "onboard_time": 1698300937,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151315,
+        "num": 151315,
+        "word": "中级会计",
+        "onboard_time": 1698300095,
+        "rank": 36,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134182,
+        "num": 134182,
+        "word": "公司考勤都没这记得全",
+        "onboard_time": 1698296499,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133486,
+        "num": 133486,
+        "word": "舒淇狗啃刘海",
+        "onboard_time": 1698296317,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131275,
+        "num": 131275,
+        "word": "父亲看儿子第二次飞向太空",
+        "onboard_time": 1698301174,
+        "rank": 39,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 126984,
+        "num": 126984,
+        "word": "不小心打翻了稻城调色盘",
+        "onboard_time": 1698301057,
+        "rank": 40,
+        "category": "社会新闻,旅游"
+      },
+      {
+        "raw_hot": 125090,
+        "num": 125090,
+        "word": "人生能有96套的东西",
+        "onboard_time": 1698296499,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118562,
+        "num": 118562,
+        "word": "在西湖遇到了真公主",
+        "onboard_time": 1698296439,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115800,
+        "num": 115800,
+        "word": "郭帆说流浪地球绝不拍第四部",
+        "onboard_time": 1698295001,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105723,
+        "num": 105723,
+        "word": "张颂文跳起舞来那也不是盖的",
+        "onboard_time": 1698302014,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105609,
+        "num": 105609,
+        "word": "辛芷蕾最飒的脸说最憨的话",
+        "onboard_time": 1698302074,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104748,
+        "num": 104748,
+        "word": "曾舜晞撤回一个中指",
+        "onboard_time": 1698293736,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103550,
+        "num": 103550,
+        "word": "花少5全员情绪好稳定",
+        "onboard_time": 1698289531,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99333,
+        "num": 99333,
+        "word": "男子发现女儿非亲生前妻称自己也不知情",
+        "onboard_time": 1698283773,
+        "rank": 48,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 98756,
+        "num": 98756,
+        "word": "父女8年8万公里为22个特殊孩子送教",
+        "onboard_time": 1698298657,
+        "rank": 49,
+        "category": "社会新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#神十七航天员出征#"
+    }
+  }
+}
