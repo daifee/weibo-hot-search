@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698358554066,
+  "endTime": 1698359633844,
   "band_list": [
     {
       "raw_hot": 1649245,
@@ -211,6 +211,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 152926,
+      "num": 152926,
+      "word": "巴黎世家4千元新发带上海门店已售罄",
+      "onboard_time": 1698323133,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 145913,
       "num": 145913,
       "word": "谢娜把老房改造成美好民宿",
@@ -259,8 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124770,
-      "num": 124770,
+      "raw_hot": 126648,
+      "num": 126648,
       "word": "刘家昌发长文控诉前妻及儿子",
       "onboard_time": 1698329023,
       "rank": 34,
@@ -307,20 +315,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111019,
-      "num": 111019,
-      "word": "巴黎世家4千元新发带上海门店已售罄",
-      "onboard_time": 1698323133,
-      "rank": 40,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 106147,
       "num": 106147,
       "word": "秦岚拍的辛芷蕾",
       "onboard_time": 1698317796,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103235,
+      "num": 103235,
+      "word": "陕西发现元稹第二任妻子裴淑墓",
+      "onboard_time": 1698354374,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 101451,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 89531,
-      "num": 55569,
+      "num": 79082,
       "word": "美国加州州长纽森访华",
       "onboard_time": 1698352933,
       "rank": 11,
@@ -435,16 +443,16 @@
       "category": "社会新闻,网红"
     },
     {
-      "raw_hot": 55539,
-      "num": 55539,
-      "word": "陕西发现元稹第二任妻子裴淑墓",
-      "onboard_time": 1698354374,
-      "rank": 43,
-      "category": "社会新闻"
+      "raw_hot": 53685,
+      "num": 53685,
+      "word": "生气长大的甘蔗都是结节",
+      "onboard_time": 1698357555,
+      "rank": 28,
+      "category": "幽默"
     },
     {
       "raw_hot": 48153,
-      "num": 39870,
+      "num": 47427,
       "word": "林心如露腰卫衣",
       "onboard_time": 1698342618,
       "rank": 24,
@@ -468,19 +476,19 @@
     },
     {
       "raw_hot": 32303,
-      "num": 22311,
+      "num": 31879,
       "word": "充电宝 俗称尿袋",
       "onboard_time": 1698348794,
       "rank": 48,
       "category": "幽默"
     },
     {
-      "raw_hot": 27367,
-      "num": 27367,
-      "word": "生气长大的甘蔗都是结节",
-      "onboard_time": 1698357555,
-      "rank": 28,
-      "category": "幽默"
+      "raw_hot": 28207,
+      "num": 31897,
+      "word": "刘诗诗清丽绿衣路透",
+      "onboard_time": 1698355393,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 26134,
@@ -491,12 +499,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 21164,
-      "num": 21869,
-      "word": "刘诗诗清丽绿衣路透",
-      "onboard_time": 1698355393,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 21366,
+      "num": 31853,
+      "word": "幻方量化回应二当家婚外情离婚传闻",
+      "onboard_time": 1698358998,
+      "rank": 45,
+      "category": "财经,社会新闻"
     },
     {
       "raw_hot": 17206,
