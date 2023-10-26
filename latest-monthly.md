@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 22:34:11
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 23:17:45
 </p>
 </blockquote>
 <p>
@@ -2895,6 +2895,12 @@ Jennie将常驻综艺公寓404（热度：1612589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B4%97%E7%A2%97%E5%B7%A5%E8%A2%AB%E6%8B%92%23" target="weibo">
+海底捞回应140斤女生应聘洗碗工被拒（热度：1583324）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%9C%A8%E7%A9%BA%E8%A2%AD%E8%A1%8C%E5%8A%A8%E4%B8%AD%E6%89%93%E6%AD%BB%E4%B8%80%E5%93%88%E9%A9%AC%E6%96%AF%E9%AB%98%E7%BA%A7%E9%A2%86%E5%AF%BC%E4%BA%BA%23" target="weibo">
 以军称在空袭行动中打死一哈马斯高级领导人（热度：1582280）
 </a>
@@ -3107,12 +3113,6 @@ DOTA2中国队晋级决赛（热度：1546862）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E7%A6%81%E6%AD%A2%E6%81%90%E6%80%96%E5%BD%A2%E8%B1%A1%E8%BF%9B%E7%AB%99%23" target="weibo">
 广州地铁禁止恐怖形象进站（热度：1534545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B4%97%E7%A2%97%E5%B7%A5%E8%A2%AB%E6%8B%92%23" target="weibo">
-海底捞回应140斤女生应聘洗碗工被拒（热度：1529870）
 </a>
 </li>
 

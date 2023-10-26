@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698330851260,
+  "endTime": 1698333465815,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -139,8 +139,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1529870,
-      "num": 1529870,
+      "raw_hot": 1583324,
+      "num": 1583324,
       "word": "海底捞回应140斤女生应聘洗碗工被拒",
       "onboard_time": 1698328176,
       "rank": 1,
@@ -523,6 +523,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 684682,
+      "num": 684682,
+      "word": "花儿与少年开始体现大局观了",
+      "onboard_time": 1698330037,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 679263,
       "num": 559597,
       "word": "费翔 小米",
@@ -579,6 +587,14 @@
       "category": "国外要闻,财经"
     },
     {
+      "raw_hot": 620358,
+      "num": 474683,
+      "word": "她是被互联网拯救的",
+      "onboard_time": 1698330940,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 619723,
       "num": 458600,
       "word": "权志龙",
@@ -601,6 +617,14 @@
       "onboard_time": 1698324393,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 600888,
+      "num": 600888,
+      "word": "襄阳通报小学生坠楼身亡",
+      "onboard_time": 1698332019,
+      "rank": 4,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 594946,
@@ -651,6 +675,14 @@
       "category": "艺人,财经"
     },
     {
+      "raw_hot": 549964,
+      "num": 549964,
+      "word": "农村妮是千万个妈妈的缩影",
+      "onboard_time": 1698331180,
+      "rank": 5,
+      "category": "社会新闻,情感"
+    },
+    {
       "raw_hot": 539370,
       "num": 424108,
       "word": "家政公司称38岁月嫂在雇主家死亡",
@@ -681,6 +713,14 @@
       "onboard_time": 1698283773,
       "rank": 30,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 535160,
+      "num": 535160,
+      "word": "张元英甜感野猫妆",
+      "onboard_time": 1698330998,
+      "rank": 7,
+      "category": "作品衍生,美妆"
     },
     {
       "raw_hot": 531025,
@@ -803,12 +843,28 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 464837,
+      "num": 464837,
+      "word": "直播间开始盯着对方降价了",
+      "onboard_time": 1698329319,
+      "rank": 29,
+      "category": "社会新闻,互联网"
+    },
+    {
       "raw_hot": 453918,
       "num": 453918,
       "word": "梦中的那片海",
       "onboard_time": 1698299255,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 451806,
+      "num": 451806,
+      "word": "THE9 歌单",
+      "onboard_time": 1698330341,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 448275,
@@ -867,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 427660,
+      "num": 295692,
+      "word": "谢娜说杨紫火男主",
+      "onboard_time": 1698332378,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 426918,
       "num": 426918,
       "word": "当我妈知道除夕不放假",
@@ -884,7 +948,7 @@
     },
     {
       "raw_hot": 424975,
-      "num": 387509,
+      "num": 395230,
       "word": "刘家昌发长文控诉前妻及儿子",
       "onboard_time": 1698329023,
       "rank": 30,
@@ -979,6 +1043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 380474,
+      "num": 237991,
+      "word": "谢娜把老房改造成美好民宿",
+      "onboard_time": 1698331475,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376535,
       "num": 376535,
       "word": "鸡毛抓夹",
@@ -1009,14 +1081,6 @@
       "onboard_time": 1698281859,
       "rank": 17,
       "category": "社会新闻,科技"
-    },
-    {
-      "raw_hot": 366546,
-      "num": 366546,
-      "word": "花儿与少年开始体现大局观了",
-      "onboard_time": 1698330037,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 362242,
@@ -1083,12 +1147,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 331522,
-      "num": 331522,
-      "word": "直播间开始盯着对方降价了",
-      "onboard_time": 1698329319,
-      "rank": 29,
-      "category": "社会新闻,互联网"
+      "raw_hot": 337342,
+      "num": 337342,
+      "word": "王一博乌镇特种兵式观剧",
+      "onboard_time": 1698330819,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 328982,
@@ -1273,14 +1337,6 @@
       "onboard_time": 1698319233,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 298707,
-      "num": 298707,
-      "word": "THE9 歌单",
-      "onboard_time": 1698330341,
-      "rank": 22,
-      "category": "演出"
     },
     {
       "raw_hot": 296469,
@@ -1555,6 +1611,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 252573,
+      "num": 252573,
+      "word": "潘玮柏近期状态",
+      "onboard_time": 1698331718,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251165,
       "num": 251165,
       "word": "秦海璐接老公视频前的小细节",
@@ -1635,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 245578,
+      "num": 214734,
+      "word": "被12岁小朋友的作业震撼到",
+      "onboard_time": 1698331837,
+      "rank": 30,
+      "category": "母婴育儿,教育"
+    },
+    {
       "raw_hot": 244942,
       "num": 244942,
       "word": "于正话递到嘴边了 也子也不会卖惨",
@@ -1649,6 +1721,14 @@
       "onboard_time": 1698313114,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 241529,
+      "num": 241529,
+      "word": "金发WINWIN",
+      "onboard_time": 1698331120,
+      "rank": 25,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 241059,
@@ -1907,6 +1987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 214712,
+      "num": 214712,
+      "word": "罗翔 你们睡觉的时候手机关不关",
+      "onboard_time": 1698333095,
+      "rank": 31,
+      "category": "知识科普"
+    },
+    {
       "raw_hot": 214700,
       "num": 214700,
       "word": "人生能有96套的东西",
@@ -1923,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 213913,
+      "num": 213913,
+      "word": "玲娜贝儿史上最凶眉毛",
+      "onboard_time": 1698332917,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 213760,
       "num": 213760,
       "word": "校方回应西南科技大学馄饨事件",
@@ -1937,14 +2033,6 @@
       "onboard_time": 1698286535,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 212525,
-      "num": 212525,
-      "word": "王一博乌镇特种兵式观剧",
-      "onboard_time": 1698330819,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 211295,
@@ -2435,6 +2523,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 177267,
+      "num": 177267,
+      "word": "直播间卖的玉到底是真是假",
+      "onboard_time": 1698331718,
+      "rank": 37,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 175113,
       "num": 345502,
       "word": "在西湖遇到了真公主",
@@ -2843,6 +2939,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 133171,
+      "num": 133171,
+      "word": "7个rapper一起走秀",
+      "onboard_time": 1698333336,
+      "rank": 48,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 132546,
       "num": 132546,
       "word": "邓紫棋演唱会获批",
@@ -3049,6 +3153,14 @@
       "onboard_time": 1698298657,
       "rank": 46,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 102906,
+      "num": 132483,
+      "word": "中国女足奥预赛首战失利",
+      "onboard_time": 1698333220,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 100167,
