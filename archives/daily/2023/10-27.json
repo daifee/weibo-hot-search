@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698347627216,
+  "endTime": 1698348855807,
   "band_list": [
     {
       "raw_hot": 1649245,
@@ -457,6 +457,14 @@
       "onboard_time": 1698327095,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13092,
+      "num": 15344,
+      "word": "充电宝 俗称尿袋",
+      "onboard_time": 1698348794,
+      "rank": 48,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
