@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698316482255,
+  "endTime": 1698318870555,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -51,8 +51,8 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 2005621,
-      "num": 2005621,
+      "raw_hot": 2115231,
+      "num": 2115231,
       "word": "睡前不洗脸会让皮肤变差吗",
       "onboard_time": 1698314555,
       "rank": 5,
@@ -259,6 +259,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 998146,
+      "num": 998146,
+      "word": "长江大学通报不雅视频事件",
+      "onboard_time": 1698317796,
+      "rank": 3,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 984037,
       "num": 984037,
       "word": "奶奶拍身份证照片全家都入镜了",
@@ -275,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 939397,
+      "num": 939397,
+      "word": "辛巴谈李佳琦再陷舆论风波",
+      "onboard_time": 1698315273,
+      "rank": 18,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 903005,
       "num": 903005,
       "word": "上班有一种没有尽头的感觉",
@@ -289,14 +305,6 @@
       "onboard_time": 1698313053,
       "rank": 9,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 895413,
-      "num": 895413,
-      "word": "辛巴谈李佳琦再陷舆论风波",
-      "onboard_time": 1698315273,
-      "rank": 18,
-      "category": "社会新闻,网红"
     },
     {
       "raw_hot": 890440,
@@ -321,6 +329,14 @@
       "onboard_time": 1698283174,
       "rank": 11,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 838193,
+      "num": 838193,
+      "word": "小虎在干嘛",
+      "onboard_time": 1698316171,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 808546,
@@ -393,6 +409,14 @@
       "onboard_time": 1698297877,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 661398,
+      "num": 661398,
+      "word": "小米发布会",
+      "onboard_time": 1698318214,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 643986,
@@ -691,6 +715,22 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 396242,
+      "num": 396242,
+      "word": "田柾国车银优郑在玹聚餐",
+      "onboard_time": 1698315153,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 389676,
+      "num": 389676,
+      "word": "WBG 中路",
+      "onboard_time": 1698318692,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 386767,
       "num": 386767,
       "word": "Jennie新综艺录制路透",
@@ -707,12 +747,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 376535,
+      "num": 376535,
+      "word": "鸡毛抓夹",
+      "onboard_time": 1698317256,
+      "rank": 17,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 375273,
       "num": 375273,
       "word": "满记甜品自助",
       "onboard_time": 1698304113,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 373655,
+      "num": 373655,
+      "word": "秦岚拍的辛芷蕾",
+      "onboard_time": 1698317796,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 373026,
+      "num": 274949,
+      "word": "吃火锅忘记带扎头绳怎么办",
+      "onboard_time": 1698318332,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 369470,
@@ -753,14 +817,6 @@
       "onboard_time": 1698302254,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 351509,
-      "num": 351509,
-      "word": "小虎在干嘛",
-      "onboard_time": 1698316171,
-      "rank": 19,
-      "category": "电竞"
     },
     {
       "raw_hot": 350383,
@@ -899,14 +955,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 305203,
-      "num": 305203,
-      "word": "田柾国车银优郑在玹聚餐",
-      "onboard_time": 1698315153,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303230,
       "num": 303230,
       "word": "杨紫邻家感",
@@ -915,12 +963,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302640,
+      "num": 302640,
+      "word": "WBG先下一城",
+      "onboard_time": 1698317796,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 299572,
       "num": 275012,
       "word": "六年级小学生和大一新生只差六岁",
       "onboard_time": 1698308853,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 296597,
+      "num": 296597,
+      "word": "MAD对战WBG",
+      "onboard_time": 1698314315,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 296469,
@@ -971,6 +1035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 287012,
+      "num": 287012,
+      "word": "TheShy的剑魔",
+      "onboard_time": 1698317256,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 286810,
       "num": 286810,
       "word": "秦岚嗓子不好但爱讲",
@@ -995,12 +1067,44 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 279340,
+      "num": 274392,
+      "word": "效果惊人的双眼皮贴",
+      "onboard_time": 1698318155,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 277676,
+      "num": 277676,
+      "word": "体制内最吃香人设",
+      "onboard_time": 1698316835,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 277437,
       "num": 277437,
       "word": "七夜雪",
       "onboard_time": 1698282037,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 273302,
+      "num": 270566,
+      "word": "太二酸菜鱼抖音首播后遭美团屏蔽",
+      "onboard_time": 1698318514,
+      "rank": 33,
+      "category": "社会新闻,美食"
+    },
+    {
+      "raw_hot": 270582,
+      "num": 270582,
+      "word": "磁吸假睫毛",
+      "onboard_time": 1698317195,
+      "rank": 32,
+      "category": "美妆"
     },
     {
       "raw_hot": 270475,
@@ -1027,12 +1131,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 264945,
+      "num": 264945,
+      "word": "Nisqy单杀Xiaohu",
+      "onboard_time": 1698317495,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 263639,
       "num": 263639,
       "word": "5名工作人员接触到福岛核污染水",
       "onboard_time": 1698241422,
       "rank": 17,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 263625,
+      "num": 263625,
+      "word": "张云龙直播不敢看钟楚曦",
+      "onboard_time": 1698318632,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 263135,
@@ -1065,6 +1185,14 @@
       "onboard_time": 1698287073,
       "rank": 16,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 259919,
+      "num": 259919,
+      "word": "陈钰琪成立个人工作室",
+      "onboard_time": 1698316231,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 258476,
@@ -1187,14 +1315,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 240961,
-      "num": 240961,
-      "word": "MAD对战WBG",
-      "onboard_time": 1698314315,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 239333,
       "num": 239333,
       "word": "迪丽热巴浓妆vs淡妆",
@@ -1249,6 +1369,30 @@
       "onboard_time": 1698282279,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 231766,
+      "num": 231766,
+      "word": "秦岚的衣柜",
+      "onboard_time": 1698317195,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 228444,
+      "num": 228444,
+      "word": "皮肤医生才会告诉你的真话",
+      "onboard_time": 1698316532,
+      "rank": 40,
+      "category": "美妆,健康医疗"
+    },
+    {
+      "raw_hot": 227797,
+      "num": 227797,
+      "word": "外卖小哥自发买盐撒在油滑路面",
+      "onboard_time": 1698316895,
+      "rank": 41,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 226541,
@@ -1419,6 +1563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210876,
+      "num": 210876,
+      "word": "红薯拿铁",
+      "onboard_time": 1698316294,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 210209,
       "num": 210209,
       "word": "美妆博主 膏状口红",
@@ -1537,14 +1689,6 @@
       "onboard_time": 1698289111,
       "rank": 28,
       "category": "科技,社会新闻"
-    },
-    {
-      "raw_hot": 201566,
-      "num": 201566,
-      "word": "陈钰琪成立个人工作室",
-      "onboard_time": 1698316231,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 200580,
@@ -1731,6 +1875,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 182682,
+      "num": 182682,
+      "word": "邓为说要做好当下其他随缘",
+      "onboard_time": 1698317133,
+      "rank": 47,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 182446,
       "num": 182446,
       "word": "电影刀尖连发八支预告",
@@ -1889,6 +2041,14 @@
       "onboard_time": 1698248498,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163107,
+      "num": 1233384,
+      "word": "今天飞天的河南88后诠释了人生不被定义",
+      "onboard_time": 1698313835,
+      "rank": 4,
+      "category": "国内要闻"
     },
     {
       "raw_hot": 162991,
@@ -2056,14 +2216,6 @@
       "word": "中国空间站再迎太空会师名场面",
       "onboard_time": 1698297095,
       "rank": 40,
-      "category": "国内要闻"
-    },
-    {
-      "raw_hot": 143535,
-      "num": 1233384,
-      "word": "今天飞天的河南88后诠释了人生不被定义",
-      "onboard_time": 1698313835,
-      "rank": 4,
       "category": "国内要闻"
     },
     {
@@ -2435,6 +2587,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 76779,
+      "num": 329452,
+      "word": "女教师20年收养30多名特殊儿童",
+      "onboard_time": 1698318692,
+      "rank": 20,
+      "category": "社会正能量,教育"
+    },
+    {
       "raw_hot": 71917,
       "num": 71917,
       "word": "轮椅选手摔倒中国队员一个个伸手",
@@ -2489,6 +2649,14 @@
       "onboard_time": 1698228099,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 54437,
+      "num": 398020,
+      "word": "利郎青年商务系列发布",
+      "onboard_time": 1698318033,
+      "rank": 14,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 44819,
