@@ -1,0 +1,410 @@
+{
+  "runTime": 1698298434851,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1670325,
+        "num": 1670325,
+        "word": "小杨哥曾称每月发工资超5000万",
+        "onboard_time": 1698292234,
+        "rank": 0,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 722659,
+        "num": 722659,
+        "word": "张颂文去街舞6了",
+        "onboard_time": 1698290970,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18203,
+        "num": 674592,
+        "word": "当年的汶川男孩成了轮椅网球运动员",
+        "onboard_time": 1698235599,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 807358,
+        "num": 664697,
+        "word": "医生不建议用的3种护肤品",
+        "onboard_time": 1698278919,
+        "rank": 3,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 643986,
+        "num": 643986,
+        "word": "警方回应西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698292954,
+        "rank": 4,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 582705,
+        "num": 582705,
+        "word": "迪丽热巴社交名片酸奶疙瘩",
+        "onboard_time": 1698296142,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579989,
+        "num": 579989,
+        "word": "刘涛给秦海璐的花少建议",
+        "onboard_time": 1698297877,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 526805,
+        "num": 526805,
+        "word": "多名专家谈李佳琦是否涉嫌垄断",
+        "onboard_time": 1698290011,
+        "rank": 7,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 447055,
+        "num": 447055,
+        "word": "中俄列车大劫案有多可怕",
+        "onboard_time": 1698281319,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 403522,
+        "num": 403522,
+        "word": "好皮肤要先从养肤做起",
+        "onboard_time": 1698294216,
+        "rank": 9,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 2386330,
+        "num": 398380,
+        "word": "Angelababy申请强执娱记朱皮",
+        "onboard_time": 1698293556,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1643110,
+        "num": 398346,
+        "word": "社保局员工上班闲聊一两个小时不叫号",
+        "onboard_time": 1698291874,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 70629,
+        "num": 380396,
+        "word": "更适合当代年轻人体质的原萃茶",
+        "onboard_time": 1698295001,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 373717,
+        "num": 373717,
+        "word": "莲花楼减肥法",
+        "onboard_time": 1698294758,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 155374,
+        "num": 345502,
+        "word": "在西湖遇到了真公主",
+        "onboard_time": 1698296439,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 339832,
+        "num": 339832,
+        "word": "上班有一种没有尽头的感觉",
+        "onboard_time": 1698295898,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 329221,
+        "num": 329221,
+        "word": "奶奶拍身份证照片全家都入镜了",
+        "onboard_time": 1698274825,
+        "rank": 16,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 297566,
+        "num": 297566,
+        "word": "花样少男少女作者去世",
+        "onboard_time": 1698298115,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281463,
+        "num": 281463,
+        "word": "舒淇狗啃刘海",
+        "onboard_time": 1698296317,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237363,
+        "num": 270365,
+        "word": "梅西不去青岛了",
+        "onboard_time": 1698297877,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 735099,
+        "num": 270319,
+        "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+        "onboard_time": 1698285513,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 269002,
+        "num": 269002,
+        "word": "曾舜晞撤回一个中指",
+        "onboard_time": 1698293736,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267354,
+        "num": 267354,
+        "word": "花少5全员情绪好稳定",
+        "onboard_time": 1698289531,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 256119,
+        "num": 256119,
+        "word": "公司考勤都没这记得全",
+        "onboard_time": 1698296499,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 236770,
+        "num": 236770,
+        "word": "郭帆说流浪地球绝不拍第四部",
+        "onboard_time": 1698295001,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229244,
+        "num": 229244,
+        "word": "以军夜间发起一次大规模地面进攻",
+        "onboard_time": 1698297338,
+        "rank": 25,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 214700,
+        "num": 214700,
+        "word": "人生能有96套的东西",
+        "onboard_time": 1698296499,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 208202,
+        "num": 208202,
+        "word": "你在意奶茶里的植脂末吗",
+        "onboard_time": 1698296799,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 204382,
+        "num": 204382,
+        "word": "男子发现女儿非亲生前妻称自己也不知情",
+        "onboard_time": 1698283773,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193690,
+        "num": 193690,
+        "word": "你现在还去李佳琦直播间消费吗",
+        "onboard_time": 1698294819,
+        "rank": 29,
+        "category": "社会议题,网红"
+      },
+      {
+        "raw_hot": 173146,
+        "num": 173146,
+        "word": "许光汉变许糙汉了",
+        "onboard_time": 1698292892,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 164496,
+        "num": 164496,
+        "word": "欧文也被文班亚马帽了",
+        "onboard_time": 1698294038,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153896,
+        "num": 153896,
+        "word": "校方回应西南科技大学馄饨事件",
+        "onboard_time": 1698293676,
+        "rank": 32,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 141079,
+        "num": 141079,
+        "word": "旗袍发型",
+        "onboard_time": 1698294279,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 139286,
+        "num": 139286,
+        "word": "小孩对无效煽情真的有抵抗力",
+        "onboard_time": 1698297756,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136792,
+        "num": 136792,
+        "word": "王诗晴还爱老纪吗",
+        "onboard_time": 1698288813,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133984,
+        "num": 133984,
+        "word": "陶昕然时隔13年再扮安陵容",
+        "onboard_time": 1698295179,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132097,
+        "num": 132097,
+        "word": "浪凡 成毅",
+        "onboard_time": 1698284673,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126808,
+        "num": 126808,
+        "word": "Jennie新综艺录制路透",
+        "onboard_time": 1698289232,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125775,
+        "num": 125775,
+        "word": "王琳凯 一起淋雨的音乐节",
+        "onboard_time": 1698293917,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123876,
+        "num": 123876,
+        "word": "有个吃得奇怪的同事是种什么体验",
+        "onboard_time": 1698295898,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118391,
+        "num": 118391,
+        "word": "2分钟看完女性一个月的变化",
+        "onboard_time": 1698286535,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117256,
+        "num": 117256,
+        "word": "偶遇全圆佑DK崔韩率看音乐剧",
+        "onboard_time": 1698296739,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117021,
+        "num": 117021,
+        "word": "秦岚嗓子不好但爱讲",
+        "onboard_time": 1698292294,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113496,
+        "num": 113496,
+        "word": "美妆博主 膏状口红",
+        "onboard_time": 1698290851,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 107154,
+        "num": 113486,
+        "word": "社保局称工作人员上班闲聊视频内容不实",
+        "onboard_time": 1698298358,
+        "rank": 45,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 105298,
+        "num": 113481,
+        "word": "中国航天员第三次太空会师",
+        "onboard_time": 1698293436,
+        "rank": 46,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 104005,
+        "num": 113471,
+        "word": "独行侠战胜马刺",
+        "onboard_time": 1698297696,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101700,
+        "num": 113452,
+        "word": "神十七发射圆满成功",
+        "onboard_time": 1698291394,
+        "rank": 48,
+        "category": "国内要闻"
+      },
+      {
+        "raw_hot": 96355,
+        "num": 113436,
+        "word": "邓紫棋演唱会获批",
+        "onboard_time": 1698291694,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国加利福尼亚州州长#"
+    }
+  }
+}
