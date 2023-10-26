@@ -1,6 +1,6 @@
 {
   "startTime": 1698337312788,
-  "endTime": 1698356048700,
+  "endTime": 1698358554066,
   "band_list": [
     {
       "raw_hot": 1649245,
@@ -363,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89531,
+      "num": 55569,
+      "word": "美国加州州长纽森访华",
+      "onboard_time": 1698352933,
+      "rank": 11,
+      "category": "国内要闻"
+    },
+    {
       "raw_hot": 88547,
       "num": 138067,
       "word": "若乳腺结节不疼还增大要警惕",
@@ -411,14 +419,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 65244,
-      "num": 30433,
-      "word": "美国加州州长纽森访华",
-      "onboard_time": 1698352933,
-      "rank": 11,
-      "category": "国内要闻"
-    },
-    {
       "raw_hot": 64853,
       "num": 64853,
       "word": "秦岚带了三十多套衣服",
@@ -433,6 +433,14 @@
       "onboard_time": 1698322655,
       "rank": 49,
       "category": "社会新闻,网红"
+    },
+    {
+      "raw_hot": 55539,
+      "num": 55539,
+      "word": "陕西发现元稹第二任妻子裴淑墓",
+      "onboard_time": 1698354374,
+      "rank": 43,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 48153,
@@ -460,10 +468,18 @@
     },
     {
       "raw_hot": 32303,
-      "num": 19951,
+      "num": 22311,
       "word": "充电宝 俗称尿袋",
       "onboard_time": 1698348794,
       "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 27367,
+      "num": 27367,
+      "word": "生气长大的甘蔗都是结节",
+      "onboard_time": 1698357555,
+      "rank": 28,
       "category": "幽默"
     },
     {
@@ -475,28 +491,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17854,
-      "num": 17854,
-      "word": "陕西发现元稹第二任妻子裴淑墓",
-      "onboard_time": 1698354374,
-      "rank": 43,
-      "category": "社会新闻"
-    },
-    {
-      "raw_hot": 15415,
-      "num": 15415,
-      "word": "欺骗自己的不是眼睛而是大脑",
-      "onboard_time": 1698350592,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 14917,
-      "num": 14917,
+      "raw_hot": 21164,
+      "num": 21869,
       "word": "刘诗诗清丽绿衣路透",
       "onboard_time": 1698355393,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17206,
+      "num": 21827,
+      "word": "欺骗自己的不是眼睛而是大脑",
+      "onboard_time": 1698350592,
+      "rank": 40,
+      "category": "幽默"
     }
   ],
   "hotgov_list": [
