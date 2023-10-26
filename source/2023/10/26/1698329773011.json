@@ -1,0 +1,410 @@
+{
+  "runTime": 1698329773011,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1532982,
+        "num": 1532982,
+        "word": "睡前不洗脸会让皮肤变差吗",
+        "onboard_time": 1698314555,
+        "rank": 0,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 1195673,
+        "num": 1195673,
+        "word": "海底捞回应140斤女生应聘洗碗工被拒",
+        "onboard_time": 1698328176,
+        "rank": 1,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 54344,
+        "num": 957329,
+        "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
+        "onboard_time": 1698327095,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 947826,
+        "num": 947826,
+        "word": "小米14Pro纯钛",
+        "onboard_time": 1698326437,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 845001,
+        "num": 845001,
+        "word": "小米14",
+        "onboard_time": 1698321032,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 691741,
+        "num": 691741,
+        "word": "小米14Pro终结直屏曲屏之争",
+        "onboard_time": 1698328176,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1413847,
+        "num": 663464,
+        "word": "反垄断办回应李佳琦被质疑涉嫌控价",
+        "onboard_time": 1698323557,
+        "rank": 6,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 569692,
+        "num": 569692,
+        "word": "女明星的牙贴面",
+        "onboard_time": 1698323433,
+        "rank": 7,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 679263,
+        "num": 559597,
+        "word": "费翔 小米",
+        "onboard_time": 1698328476,
+        "rank": 8,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535703,
+        "num": 535703,
+        "word": "张云龙直播不敢看钟楚曦",
+        "onboard_time": 1698318632,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3063666,
+        "num": 518733,
+        "word": "赵丽颖对接要求美团买菜道歉",
+        "onboard_time": 1698326316,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501610,
+        "num": 501610,
+        "word": "吃火锅忘记带扎头绳怎么办",
+        "onboard_time": 1698318332,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 442764,
+        "num": 442764,
+        "word": "陈钰琪离开唐嫣公司",
+        "onboard_time": 1698312814,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427318,
+        "num": 427318,
+        "word": "赵子豪要结婚了",
+        "onboard_time": 1698328537,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433909,
+        "num": 419150,
+        "word": "钟楚曦回复黑评",
+        "onboard_time": 1698329319,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 407926,
+        "num": 407926,
+        "word": "陈牧驰此沙拳击比赛打到就医",
+        "onboard_time": 1698324393,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 395281,
+        "num": 395281,
+        "word": "金凡 紧张",
+        "onboard_time": 1698322233,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 351030,
+        "num": 351030,
+        "word": "上海迪士尼官宣疯狂动物城园区",
+        "onboard_time": 1698319353,
+        "rank": 17,
+        "category": "旅游,电影"
+      },
+      {
+        "raw_hot": 338743,
+        "num": 345895,
+        "word": "辛巴谈李佳琦再陷舆论风波",
+        "onboard_time": 1698315273,
+        "rank": 18,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 250800,
+        "num": 342330,
+        "word": "京东采销直播间爆了",
+        "onboard_time": 1698325235,
+        "rank": 19,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 642686,
+        "num": 342135,
+        "word": "结婚前一天晚上的聊天记录",
+        "onboard_time": 1698327818,
+        "rank": 20,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 341079,
+        "num": 341079,
+        "word": "女团吸毒谣言四起的原因",
+        "onboard_time": 1698324275,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295714,
+        "num": 295714,
+        "word": "G2看TheShy选剑魔",
+        "onboard_time": 1698319956,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 290360,
+        "num": 290360,
+        "word": "小米澎湃OS正式发布",
+        "onboard_time": 1698321334,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 288990,
+        "num": 288990,
+        "word": "田小娟方否认涉毒",
+        "onboard_time": 1698312814,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 287052,
+        "num": 287052,
+        "word": "爸爸为了女儿都快变成爱豆了",
+        "onboard_time": 1698324275,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 283437,
+        "num": 283437,
+        "word": "小米发布会",
+        "onboard_time": 1698318214,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 277436,
+        "num": 277436,
+        "word": "BOA扳回一局",
+        "onboard_time": 1698328715,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 276267,
+        "num": 276267,
+        "word": "若乳腺结节不疼还增大要警惕",
+        "onboard_time": 1698321873,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218987,
+        "num": 264967,
+        "word": "直播间开始盯着对方降价了",
+        "onboard_time": 1698329319,
+        "rank": 29,
+        "category": "社会新闻,互联网"
+      },
+      {
+        "raw_hot": 254414,
+        "num": 254414,
+        "word": "刘家昌发长文控诉前妻及儿子",
+        "onboard_time": 1698329023,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232253,
+        "num": 232253,
+        "word": "如何花最少钱成为第一眼美女",
+        "onboard_time": 1698323494,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 225246,
+        "num": 225246,
+        "word": "秦岚拍的辛芷蕾",
+        "onboard_time": 1698317796,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219375,
+        "num": 219375,
+        "word": "狐妖小红娘镜花缘篇全新PV",
+        "onboard_time": 1698325356,
+        "rank": 33,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 687833,
+        "num": 216217,
+        "word": "小米龙晶玻璃",
+        "onboard_time": 1698325955,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 199999,
+        "num": 199999,
+        "word": "巴黎世家发圈四千块",
+        "onboard_time": 1698326256,
+        "rank": 35,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 196543,
+        "num": 196543,
+        "word": "巴黎世家4千元新发带上海门店已售罄",
+        "onboard_time": 1698323133,
+        "rank": 36,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 187503,
+        "num": 187503,
+        "word": "金珉奎突发腰伤",
+        "onboard_time": 1698324694,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181501,
+        "num": 181501,
+        "word": "成都一男子马路中间拦车被带倒致死",
+        "onboard_time": 1698321755,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 164621,
+        "num": 180953,
+        "word": "中国女足vs朝鲜女足",
+        "onboard_time": 1698320914,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180679,
+        "num": 180679,
+        "word": "小虎在干嘛",
+        "onboard_time": 1698316171,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163380,
+        "num": 163380,
+        "word": "中国6名航天员太空拍全家福",
+        "onboard_time": 1698322354,
+        "rank": 41,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 162436,
+        "num": 162436,
+        "word": "秦海璐接老公视频前的小细节",
+        "onboard_time": 1698324393,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157955,
+        "num": 157955,
+        "word": "天冷公主请吃火锅",
+        "onboard_time": 1698327997,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 132286,
+        "num": 132286,
+        "word": "法考主观题",
+        "onboard_time": 1698323315,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 128457,
+        "num": 128457,
+        "word": "田柾国车银优郑在玹聚餐",
+        "onboard_time": 1698315153,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126207,
+        "num": 126207,
+        "word": "金珉奎将缺席本周活动",
+        "onboard_time": 1698324995,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121026,
+        "num": 121026,
+        "word": "农村妮",
+        "onboard_time": 1698324815,
+        "rank": 47,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 119741,
+        "num": 119741,
+        "word": "XHW先到赛点",
+        "onboard_time": 1698326376,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119404,
+        "num": 119404,
+        "word": "河南权志龙直播唱BIGBANG代表作",
+        "onboard_time": 1698310656,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国航天又见大红屏#"
+    }
+  }
+}

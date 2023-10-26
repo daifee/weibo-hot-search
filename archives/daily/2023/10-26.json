@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698327249380,
+  "endTime": 1698329773011,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -8,6 +8,14 @@
       "word": "张庭96套房产解封",
       "onboard_time": 1698289772,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 3063666,
+      "num": 520697,
+      "word": "赵丽颖对接要求美团买菜道歉",
+      "onboard_time": 1698326316,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -57,14 +65,6 @@
       "onboard_time": 1698314555,
       "rank": 5,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 1910034,
-      "num": 520697,
-      "word": "赵丽颖对接要求美团买菜道歉",
-      "onboard_time": 1698326316,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 1853732,
@@ -235,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1195673,
+      "num": 1195673,
+      "word": "海底捞回应140斤女生应聘洗碗工被拒",
+      "onboard_time": 1698328176,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1126962,
       "num": 1126962,
       "word": "女生半年减肥40斤查出重度脂肪肝",
@@ -315,20 +323,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 947826,
+      "num": 947826,
+      "word": "小米14Pro纯钛",
+      "onboard_time": 1698326437,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 939397,
       "num": 939397,
       "word": "辛巴谈李佳琦再陷舆论风波",
       "onboard_time": 1698315273,
       "rank": 18,
       "category": "社会新闻,网红"
-    },
-    {
-      "raw_hot": 906953,
-      "num": 906953,
-      "word": "小米14Pro纯钛",
-      "onboard_time": 1698326437,
-      "rank": 4,
-      "category": "数码"
     },
     {
       "raw_hot": 905475,
@@ -491,11 +499,35 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 691741,
+      "num": 691741,
+      "word": "小米14Pro终结直屏曲屏之争",
+      "onboard_time": 1698328176,
+      "rank": 5,
+      "category": "数码"
+    },
+    {
       "raw_hot": 689746,
       "num": 689746,
       "word": "花样少男少女作者去世",
       "onboard_time": 1698298115,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 687833,
+      "num": 442173,
+      "word": "小米龙晶玻璃",
+      "onboard_time": 1698325955,
+      "rank": 16,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 679263,
+      "num": 559597,
+      "word": "费翔 小米",
+      "onboard_time": 1698328476,
+      "rank": 8,
       "category": "艺人"
     },
     {
@@ -513,6 +545,14 @@
       "onboard_time": 1698292954,
       "rank": 19,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 642686,
+      "num": 342135,
+      "word": "结婚前一天晚上的聊天记录",
+      "onboard_time": 1698327818,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 636751,
@@ -795,6 +835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433909,
+      "num": 419150,
+      "word": "钟楚曦回复黑评",
+      "onboard_time": 1698329319,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433773,
       "num": 527597,
       "word": "小米澎湃OS正式发布",
@@ -809,6 +857,14 @@
       "onboard_time": 1698305795,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 427318,
+      "num": 427318,
+      "word": "赵子豪要结婚了",
+      "onboard_time": 1698328537,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 426918,
@@ -865,14 +921,6 @@
       "onboard_time": 1698297338,
       "rank": 49,
       "category": "国外要闻"
-    },
-    {
-      "raw_hot": 413762,
-      "num": 442173,
-      "word": "小米龙晶玻璃",
-      "onboard_time": 1698325955,
-      "rank": 16,
-      "category": "数码"
     },
     {
       "raw_hot": 404292,
@@ -1307,6 +1355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 277436,
+      "num": 277436,
+      "word": "BOA扳回一局",
+      "onboard_time": 1698328715,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 274358,
       "num": 274358,
       "word": "小杨哥与美腕合资公司系乌龙",
@@ -1451,6 +1507,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 254414,
+      "num": 254414,
+      "word": "刘家昌发长文控诉前妻及儿子",
+      "onboard_time": 1698329023,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254071,
       "num": 254071,
       "word": "张艺兴上次来大连是EXO演唱会",
@@ -1481,6 +1545,14 @@
       "onboard_time": 1698326256,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 250800,
+      "num": 475240,
+      "word": "京东采销直播间爆了",
+      "onboard_time": 1698325235,
+      "rank": 14,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 250608,
@@ -1617,6 +1689,14 @@
       "onboard_time": 1698282279,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 232253,
+      "num": 232253,
+      "word": "如何花最少钱成为第一眼美女",
+      "onboard_time": 1698323494,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 231766,
@@ -1761,6 +1841,14 @@
       "onboard_time": 1698240580,
       "rank": 29,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 218987,
+      "num": 264967,
+      "word": "直播间开始盯着对方降价了",
+      "onboard_time": 1698329319,
+      "rank": 29,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 217212,
@@ -2163,14 +2251,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 191148,
-      "num": 475240,
-      "word": "京东采销直播间爆了",
-      "onboard_time": 1698325235,
-      "rank": 14,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 191116,
       "num": 191116,
       "word": "周深王者荣耀灵魂画手",
@@ -2193,14 +2273,6 @@
       "onboard_time": 1698282876,
       "rank": 25,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 190315,
-      "num": 190315,
-      "word": "如何花最少钱成为第一眼美女",
-      "onboard_time": 1698323494,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 190177,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1698280658,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 157955,
+      "num": 157955,
+      "word": "天冷公主请吃火锅",
+      "onboard_time": 1698327997,
+      "rank": 43,
+      "category": "美食"
     },
     {
       "raw_hot": 156966,
@@ -3075,6 +3155,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 54344,
+      "num": 1431614,
+      "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
+      "onboard_time": 1698327095,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 44819,
       "num": 1617276,
       "word": "速读未成年人网络保护条例举措",
@@ -3131,14 +3219,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 23279,
-      "num": 1431614,
-      "word": "中国女子轮椅篮球队卫冕亚残运会金牌",
-      "onboard_time": 1698327095,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20416,
       "num": 39537,
       "word": "周也说为有暗香来拍了两版结局",
@@ -3178,6 +3258,9 @@
     },
     {
       "word": "#把共同发展开放融通的亚洲之路越走越宽#"
+    },
+    {
+      "word": "#中国航天又见大红屏#"
     }
   ]
 }
