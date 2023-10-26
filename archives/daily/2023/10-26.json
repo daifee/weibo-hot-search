@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698290240944,
+  "endTime": 1698291250243,
   "band_list": [
     {
       "raw_hot": 2901409,
@@ -9,6 +9,14 @@
       "onboard_time": 1698278919,
       "rank": 0,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 2789815,
+      "num": 2789815,
+      "word": "张庭96套房产解封",
+      "onboard_time": 1698289772,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2413561,
@@ -51,12 +59,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 1398146,
+      "num": 1398146,
+      "word": "神十七点火发射",
+      "onboard_time": 1698290372,
+      "rank": 1,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 1359988,
       "num": 1359988,
       "word": "美国缅因州枪击事件",
       "onboard_time": 1698286174,
       "rank": 5,
       "category": "国外要闻"
+    },
+    {
+      "raw_hot": 1336385,
+      "num": 515088,
+      "word": "张庭案已撤销",
+      "onboard_time": 1698289710,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1295181,
@@ -163,14 +187,6 @@
       "category": "国外要闻,财经"
     },
     {
-      "raw_hot": 609309,
-      "num": 402279,
-      "word": "张庭96套房产解封",
-      "onboard_time": 1698289772,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 578522,
       "num": 578522,
       "word": "李沁官宣出演七夜雪",
@@ -193,14 +209,6 @@
       "onboard_time": 1698282939,
       "rank": 6,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 515088,
-      "num": 515088,
-      "word": "张庭案已撤销",
-      "onboard_time": 1698289710,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 513378,
@@ -259,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 369745,
+      "num": 369745,
+      "word": "多名专家谈李佳琦是否涉嫌垄断",
+      "onboard_time": 1698290011,
+      "rank": 45,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 369470,
       "num": 369470,
       "word": "直播神十七发射",
@@ -267,12 +283,28 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 367966,
+      "num": 367966,
+      "word": "花少5全员情绪好稳定",
+      "onboard_time": 1698289531,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 359526,
       "num": 359526,
       "word": "第一批过年回家的选手已经十月辞职了",
       "onboard_time": 1698251487,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 346362,
+      "num": 346362,
+      "word": "王诗晴还爱老纪吗",
+      "onboard_time": 1698288813,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 344845,
@@ -305,14 +337,6 @@
       "onboard_time": 1698243164,
       "rank": 7,
       "category": "美妆,作品衍生"
-    },
-    {
-      "raw_hot": 325270,
-      "num": 325270,
-      "word": "王诗晴还爱老纪吗",
-      "onboard_time": 1698288813,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 317681,
@@ -499,6 +523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 239673,
+      "num": 239673,
+      "word": "张颂文去街舞6了",
+      "onboard_time": 1698290970,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239333,
       "num": 239333,
       "word": "迪丽热巴浓妆vs淡妆",
@@ -675,12 +707,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197601,
+      "num": 197601,
+      "word": "张小斐惠英红新片掐红了眼",
+      "onboard_time": 1698290671,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195457,
       "num": 195457,
       "word": "罗英锡否认新西游记人员不和",
       "onboard_time": 1698249396,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193163,
+      "num": 405118,
+      "word": "小米14首测超iPhone15Pro",
+      "onboard_time": 1698286894,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 190700,
@@ -699,12 +747,12 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 188545,
-      "num": 188545,
-      "word": "花少5全员情绪好稳定",
-      "onboard_time": 1698289531,
-      "rank": 31,
-      "category": "综艺"
+      "raw_hot": 185655,
+      "num": 185655,
+      "word": "文班亚马马刺首秀",
+      "onboard_time": 1698290252,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 181971,
@@ -771,6 +819,14 @@
       "category": "国外要闻"
     },
     {
+      "raw_hot": 167911,
+      "num": 167911,
+      "word": "烫发不翻车保姆级教程",
+      "onboard_time": 1698290913,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 166384,
       "num": 166384,
       "word": "专家称春节调休不如再加2天假",
@@ -811,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158788,
+      "num": 158788,
+      "word": "黄眼黑猫招财妆",
+      "onboard_time": 1698290130,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 158569,
       "num": 158569,
       "word": "女孩悄悄询问家人能否为民警买单",
@@ -835,20 +899,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156428,
+      "num": 156428,
+      "word": "美妆博主 膏状口红",
+      "onboard_time": 1698290851,
+      "rank": 37,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 155014,
       "num": 155014,
       "word": "四川三大雪山现日照金山壮景",
       "onboard_time": 1698281920,
       "rank": 44,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 152700,
-      "num": 405118,
-      "word": "小米14首测超iPhone15Pro",
-      "onboard_time": 1698286894,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 152236,
@@ -865,6 +929,14 @@
       "onboard_time": 1698250054,
       "rank": 47,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 144855,
+      "num": 144855,
+      "word": "大熊猫是天生的内八字",
+      "onboard_time": 1698290074,
+      "rank": 47,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 142339,
@@ -921,6 +993,14 @@
       "onboard_time": 1698283835,
       "rank": 44,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 129637,
+      "num": 129637,
+      "word": "独行侠vs马刺",
+      "onboard_time": 1698290313,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 128180,
@@ -1003,14 +1083,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 112461,
-      "num": 112461,
-      "word": "多名专家谈李佳琦是否涉嫌垄断",
-      "onboard_time": 1698290011,
-      "rank": 45,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 112408,
       "num": 112408,
       "word": "小柯基被亲了一口整个狗都开心了",
@@ -1041,14 +1113,6 @@
       "onboard_time": 1698249217,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102856,
-      "num": 102856,
-      "word": "大熊猫是天生的内八字",
-      "onboard_time": 1698290074,
-      "rank": 47,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 100167,
@@ -1185,6 +1249,14 @@
       "onboard_time": 1698260775,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 18134,
+      "num": 1337904,
+      "word": "当年的汶川男孩成了轮椅网球运动员",
+      "onboard_time": 1698235599,
+      "rank": 2,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 17265,

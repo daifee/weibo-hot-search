@@ -1,6 +1,6 @@
 {
   "startTime": 1697905227381,
-  "endTime": 1698290240944,
+  "endTime": 1698291250243,
   "band_list": [
     {
       "raw_hot": 13399378,
@@ -97,6 +97,14 @@
       "onboard_time": 1698278919,
       "rank": 0,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 2789815,
+      "num": 2789815,
+      "word": "张庭96套房产解封",
+      "onboard_time": 1698289772,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2603104,
@@ -555,6 +563,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1398146,
+      "num": 1398146,
+      "word": "神十七点火发射",
+      "onboard_time": 1698290372,
+      "rank": 1,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 1394950,
       "num": 536219,
       "word": "985名校硕士因本科普通被多家企业婉拒",
@@ -617,6 +633,14 @@
       "onboard_time": 1698153640,
       "rank": 42,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1336385,
+      "num": 515088,
+      "word": "张庭案已撤销",
+      "onboard_time": 1698289710,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1334697,
@@ -2051,14 +2075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 609309,
-      "num": 402279,
-      "word": "张庭96套房产解封",
-      "onboard_time": 1698289772,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 604703,
       "num": 426973,
       "word": "成毅 老实人勇闯娱乐圈",
@@ -2553,14 +2569,6 @@
       "onboard_time": 1697969314,
       "rank": 32,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 515088,
-      "num": 515088,
-      "word": "张庭案已撤销",
-      "onboard_time": 1698289710,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 514849,
@@ -3827,6 +3835,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 369745,
+      "num": 369745,
+      "word": "多名专家谈李佳琦是否涉嫌垄断",
+      "onboard_time": 1698290011,
+      "rank": 45,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 369470,
       "num": 369470,
       "word": "直播神十七发射",
@@ -3856,6 +3872,14 @@
       "word": "迪丽热巴有自己的挡脸工具",
       "onboard_time": 1698229475,
       "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 367966,
+      "num": 367966,
+      "word": "花少5全员情绪好稳定",
+      "onboard_time": 1698289531,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -4115,6 +4139,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 346362,
+      "num": 346362,
+      "word": "王诗晴还爱老纪吗",
+      "onboard_time": 1698288813,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346251,
       "num": 346251,
       "word": "薛之谦扔戒指",
@@ -4345,14 +4377,6 @@
       "onboard_time": 1698053211,
       "rank": 19,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 325270,
-      "num": 325270,
-      "word": "王诗晴还爱老纪吗",
-      "onboard_time": 1698288813,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 325126,
@@ -6083,6 +6107,14 @@
       "category": "社会新闻,教育"
     },
     {
+      "raw_hot": 239673,
+      "num": 239673,
+      "word": "张颂文去街舞6了",
+      "onboard_time": 1698290970,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239663,
       "num": 239663,
       "word": "马嘉祺 公主请下车",
@@ -7699,6 +7731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197601,
+      "num": 197601,
+      "word": "张小斐惠英红新片掐红了眼",
+      "onboard_time": 1698290671,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197540,
       "num": 197540,
       "word": "我们的美好生活定档",
@@ -7889,6 +7929,14 @@
       "onboard_time": 1698033273,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 193163,
+      "num": 405118,
+      "word": "小米14首测超iPhone15Pro",
+      "onboard_time": 1698286894,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 192817,
@@ -8139,14 +8187,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188545,
-      "num": 188545,
-      "word": "花少5全员情绪好稳定",
-      "onboard_time": 1698289531,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188458,
       "num": 188458,
       "word": "关于肺炎支原体10个热点问答",
@@ -8265,6 +8305,14 @@
       "onboard_time": 1698240460,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185655,
+      "num": 185655,
+      "word": "文班亚马马刺首秀",
+      "onboard_time": 1698290252,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 185638,
@@ -8492,7 +8540,7 @@
     },
     {
       "raw_hot": 180366,
-      "num": 180366,
+      "num": 1337904,
       "word": "当年的汶川男孩成了轮椅网球运动员",
       "onboard_time": 1698235599,
       "rank": 37,
@@ -9051,6 +9099,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 167911,
+      "num": 167911,
+      "word": "烫发不翻车保姆级教程",
+      "onboard_time": 1698290913,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 167655,
       "num": 167655,
       "word": "aespa回归概念图",
@@ -9379,6 +9435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158788,
+      "num": 158788,
+      "word": "黄眼黑猫招财妆",
+      "onboard_time": 1698290130,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 158647,
       "num": 158647,
       "word": "这里的鱼犯天条了吗",
@@ -9489,6 +9553,14 @@
       "onboard_time": 1698161373,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156428,
+      "num": 156428,
+      "word": "美妆博主 膏状口红",
+      "onboard_time": 1698290851,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 155797,
@@ -9633,14 +9705,6 @@
       "onboard_time": 1697934028,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152700,
-      "num": 405118,
-      "word": "小米14首测超iPhone15Pro",
-      "onboard_time": 1698286894,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 152683,
@@ -10009,6 +10073,14 @@
       "onboard_time": 1698191190,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 144855,
+      "num": 144855,
+      "word": "大熊猫是天生的内八字",
+      "onboard_time": 1698290074,
+      "rank": 47,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 144763,
@@ -10859,6 +10931,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 129637,
+      "num": 129637,
+      "word": "独行侠vs马刺",
+      "onboard_time": 1698290313,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129630,
       "num": 129630,
       "word": "刘维对薛之谦放狠话",
@@ -11611,14 +11691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112461,
-      "num": 112461,
-      "word": "多名专家谈李佳琦是否涉嫌垄断",
-      "onboard_time": 1698290011,
-      "rank": 45,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 112408,
       "num": 112408,
       "word": "小柯基被亲了一口整个狗都开心了",
@@ -11945,14 +12017,6 @@
       "onboard_time": 1698067600,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102856,
-      "num": 102856,
-      "word": "大熊猫是天生的内八字",
-      "onboard_time": 1698290074,
-      "rank": 47,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 102735,

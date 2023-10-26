@@ -1,0 +1,410 @@
+{
+  "runTime": 1698291250243,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2789815,
+        "num": 2789815,
+        "word": "张庭96套房产解封",
+        "onboard_time": 1698289772,
+        "rank": 0,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1398146,
+        "num": 1398146,
+        "word": "神十七点火发射",
+        "onboard_time": 1698290372,
+        "rank": 1,
+        "category": "国内要闻,科技"
+      },
+      {
+        "raw_hot": 18134,
+        "num": 1337904,
+        "word": "当年的汶川男孩成了轮椅网球运动员",
+        "onboard_time": 1698235599,
+        "rank": 2,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1317505,
+        "num": 1317505,
+        "word": "神十七发射现场",
+        "onboard_time": 1698288933,
+        "rank": 3,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 1216364,
+        "num": 1216364,
+        "word": "医生不建议用的3种护肤品",
+        "onboard_time": 1698278919,
+        "rank": 4,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 741804,
+        "num": 741804,
+        "word": "美国缅因州枪击事件",
+        "onboard_time": 1698286174,
+        "rank": 5,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 717714,
+        "num": 717714,
+        "word": "浪凡 成毅",
+        "onboard_time": 1698284673,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535718,
+        "num": 535718,
+        "word": "中俄列车大劫案有多可怕",
+        "onboard_time": 1698281319,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385877,
+        "num": 385877,
+        "word": "奶奶拍身份证照片全家都入镜了",
+        "onboard_time": 1698274825,
+        "rank": 8,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 369745,
+        "num": 369745,
+        "word": "多名专家谈李佳琦是否涉嫌垄断",
+        "onboard_time": 1698290011,
+        "rank": 9,
+        "category": "社会新闻,网红"
+      },
+      {
+        "raw_hot": 1336385,
+        "num": 369510,
+        "word": "张庭案已撤销",
+        "onboard_time": 1698289710,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488078,
+        "num": 369232,
+        "word": "西南科技大学馄饨阿姨事件",
+        "onboard_time": 1698229778,
+        "rank": 11,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 367966,
+        "num": 367966,
+        "word": "花少5全员情绪好稳定",
+        "onboard_time": 1698289531,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 357778,
+        "num": 357778,
+        "word": "Jennie新综艺录制路透",
+        "onboard_time": 1698289232,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346362,
+        "num": 346362,
+        "word": "王诗晴还爱老纪吗",
+        "onboard_time": 1698288813,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344794,
+        "num": 344794,
+        "word": "念无双全阵容官宣",
+        "onboard_time": 1698288334,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 316610,
+        "num": 316610,
+        "word": "以前咋没发现秦岚这么好笑",
+        "onboard_time": 1698285813,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309200,
+        "num": 309200,
+        "word": "你好种地少年开播",
+        "onboard_time": 1698287613,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 303137,
+        "num": 303137,
+        "word": "为什么番茄锅煮的土豆是脆的",
+        "onboard_time": 1698286774,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 272405,
+        "num": 272405,
+        "word": "美缅因州枪击事件至少已致22人死亡",
+        "onboard_time": 1698286295,
+        "rank": 19,
+        "category": "国外要闻"
+      },
+      {
+        "raw_hot": 1011079,
+        "num": 265483,
+        "word": "男子幽门螺杆菌阳性致妻女感染妻子提离婚",
+        "onboard_time": 1698285513,
+        "rank": 20,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 255055,
+        "num": 255055,
+        "word": "数十名俄飞行员险遭剧毒蛋糕团灭",
+        "onboard_time": 1698283174,
+        "rank": 21,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 248779,
+        "num": 248779,
+        "word": "皮肤没问题买几十块婴儿面霜也行",
+        "onboard_time": 1698239801,
+        "rank": 22,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 239673,
+        "num": 239673,
+        "word": "张颂文去街舞6了",
+        "onboard_time": 1698290970,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234455,
+        "num": 234455,
+        "word": "男子发现女儿非亲生前妻称自己也不知情",
+        "onboard_time": 1698283773,
+        "rank": 24,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 232257,
+        "num": 232257,
+        "word": "王安宇辛芷蕾互相伤害",
+        "onboard_time": 1698288633,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229272,
+        "num": 229272,
+        "word": "电影瞒天过海定档",
+        "onboard_time": 1698288511,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223285,
+        "num": 223285,
+        "word": "何运晨为张纯烨的专业性鼓掌",
+        "onboard_time": 1698289172,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202174,
+        "num": 202174,
+        "word": "女生半年减肥40斤查出重度脂肪肝",
+        "onboard_time": 1698248558,
+        "rank": 28,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 197601,
+        "num": 197601,
+        "word": "张小斐惠英红新片掐红了眼",
+        "onboard_time": 1698290671,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193543,
+        "num": 193543,
+        "word": "货车侧翻一群人买光14000斤花菜",
+        "onboard_time": 1698288511,
+        "rank": 30,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 193163,
+        "num": 193163,
+        "word": "小米14首测超iPhone15Pro",
+        "onboard_time": 1698286894,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185655,
+        "num": 185655,
+        "word": "文班亚马马刺首秀",
+        "onboard_time": 1698290252,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182000,
+        "num": 182000,
+        "word": "2分钟看完女性一个月的变化",
+        "onboard_time": 1698286535,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167911,
+        "num": 167911,
+        "word": "烫发不翻车保姆级教程",
+        "onboard_time": 1698290913,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 162350,
+        "num": 162350,
+        "word": "刚睡醒的小狗披着小被子到处找妈妈",
+        "onboard_time": 1698283896,
+        "rank": 35,
+        "category": "动物萌宠"
+      },
+      {
+        "raw_hot": 158788,
+        "num": 158788,
+        "word": "黄眼黑猫招财妆",
+        "onboard_time": 1698290130,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 156428,
+        "num": 156428,
+        "word": "美妆博主 膏状口红",
+        "onboard_time": 1698290851,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 152055,
+        "num": 152055,
+        "word": "染上毒瘾后外貌的真实变化",
+        "onboard_time": 1698248258,
+        "rank": 38,
+        "category": "社会新闻"
+      },
+      {
+        "raw_hot": 151342,
+        "num": 151342,
+        "word": "神十七乘组简历公布",
+        "onboard_time": 1698289111,
+        "rank": 39,
+        "category": "科技,社会新闻"
+      },
+      {
+        "raw_hot": 146458,
+        "num": 146458,
+        "word": "李沁官宣出演七夜雪",
+        "onboard_time": 1698278255,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144855,
+        "num": 144855,
+        "word": "大熊猫是天生的内八字",
+        "onboard_time": 1698290074,
+        "rank": 41,
+        "category": "社会新闻,动物萌宠"
+      },
+      {
+        "raw_hot": 141620,
+        "num": 141620,
+        "word": "梅西中国行赛程确定",
+        "onboard_time": 1698282279,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136436,
+        "num": 136436,
+        "word": "封神训练营第五期海报",
+        "onboard_time": 1698288392,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129637,
+        "num": 129637,
+        "word": "独行侠vs马刺",
+        "onboard_time": 1698290313,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124178,
+        "num": 124178,
+        "word": "念无双",
+        "onboard_time": 1698287913,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118604,
+        "num": 118604,
+        "word": "迪丽热巴 当年好奇的问题突然窜入脑海",
+        "onboard_time": 1698278075,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110891,
+        "num": 110891,
+        "word": "权志龙涉嫌吸毒被立案",
+        "onboard_time": 1698229595,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106604,
+        "num": 106604,
+        "word": "BIGBANG五名成员四名涉毒",
+        "onboard_time": 1698239622,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105198,
+        "num": 105198,
+        "word": "iOS17.1修复iPhone12辐射问题",
+        "onboard_time": 1698281678,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见美国加利福尼亚州州长#"
+    }
+  }
+}

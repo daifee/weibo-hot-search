@@ -1,6 +1,6 @@
 {
   "startTime": 1696090784922,
-  "endTime": 1698290240944,
+  "endTime": 1698291250243,
   "band_list": [
     {
       "raw_hot": 16176625,
@@ -737,6 +737,14 @@
       "onboard_time": 1697067811,
       "rank": 1,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 2789815,
+      "num": 2789815,
+      "word": "张庭96套房产解封",
+      "onboard_time": 1698289772,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 2789072,
@@ -4579,6 +4587,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 1398146,
+      "num": 1398146,
+      "word": "神十七点火发射",
+      "onboard_time": 1698290372,
+      "rank": 1,
+      "category": "国内要闻,科技"
+    },
+    {
       "raw_hot": 1398017,
       "num": 1398017,
       "word": "韩国选手否认模仿羞辱何冰娇",
@@ -4985,6 +5001,14 @@
       "onboard_time": 1696069662,
       "rank": 3,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 1336385,
+      "num": 515088,
+      "word": "张庭案已撤销",
+      "onboard_time": 1698289710,
+      "rank": 7,
+      "category": "艺人"
     },
     {
       "raw_hot": 1335850,
@@ -14555,14 +14579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 609309,
-      "num": 402279,
-      "word": "张庭96套房产解封",
-      "onboard_time": 1698289772,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 609020,
       "num": 609020,
       "word": "女孩自制计算器租给同学一天赚20多元",
@@ -17921,14 +17937,6 @@
       "onboard_time": 1696204346,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 515088,
-      "num": 515088,
-      "word": "张庭案已撤销",
-      "onboard_time": 1698289710,
-      "rank": 7,
-      "category": "艺人"
     },
     {
       "raw_hot": 514891,
@@ -26011,6 +26019,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 369745,
+      "num": 369745,
+      "word": "多名专家谈李佳琦是否涉嫌垄断",
+      "onboard_time": 1698290011,
+      "rank": 45,
+      "category": "社会新闻,网红"
+    },
+    {
       "raw_hot": 369573,
       "num": 312709,
       "word": "DOTA2中国对阵马来西亚",
@@ -26153,6 +26169,14 @@
       "onboard_time": 1697342194,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 367966,
+      "num": 367966,
+      "word": "花少5全员情绪好稳定",
+      "onboard_time": 1698289531,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 367776,
@@ -27865,6 +27889,14 @@
       "onboard_time": 1697173419,
       "rank": 40,
       "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 346362,
+      "num": 346362,
+      "word": "王诗晴还爱老纪吗",
+      "onboard_time": 1698288813,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 346340,
@@ -29633,14 +29665,6 @@
       "onboard_time": 1696384475,
       "rank": 16,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 325270,
-      "num": 325270,
-      "word": "王诗晴还爱老纪吗",
-      "onboard_time": 1698288813,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 325239,
@@ -40091,6 +40115,14 @@
       "category": "国内要闻"
     },
     {
+      "raw_hot": 239673,
+      "num": 239673,
+      "word": "张颂文去街舞6了",
+      "onboard_time": 1698290970,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 239663,
       "num": 239663,
       "word": "马嘉祺 公主请下车",
@@ -48979,6 +49011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197601,
+      "num": 197601,
+      "word": "张小斐惠英红新片掐红了眼",
+      "onboard_time": 1698290671,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 197581,
       "num": 197581,
       "word": "杨超越车内自拍live图",
@@ -50369,6 +50409,14 @@
       "onboard_time": 1697885432,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193163,
+      "num": 405118,
+      "word": "小米14首测超iPhone15Pro",
+      "onboard_time": 1698286894,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 193044,
@@ -51763,14 +51811,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 188545,
-      "num": 188545,
-      "word": "花少5全员情绪好稳定",
-      "onboard_time": 1698289531,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188458,
       "num": 188458,
       "word": "关于肺炎支原体10个热点问答",
@@ -52489,6 +52529,14 @@
       "onboard_time": 1698240460,
       "rank": 34,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 185655,
+      "num": 185655,
+      "word": "文班亚马马刺首秀",
+      "onboard_time": 1698290252,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 185640,
@@ -53820,7 +53868,7 @@
     },
     {
       "raw_hot": 180366,
-      "num": 180366,
+      "num": 1337904,
       "word": "当年的汶川男孩成了轮椅网球运动员",
       "onboard_time": 1698235599,
       "rank": 37,
@@ -56499,6 +56547,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 167911,
+      "num": 167911,
+      "word": "烫发不翻车保姆级教程",
+      "onboard_time": 1698290913,
+      "rank": 34,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 167848,
       "num": 437440,
       "word": "梅花红桃尺度",
@@ -58531,6 +58587,14 @@
       "category": "社会新闻"
     },
     {
+      "raw_hot": 158788,
+      "num": 158788,
+      "word": "黄眼黑猫招财妆",
+      "onboard_time": 1698290130,
+      "rank": 36,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 158760,
       "num": 158760,
       "word": "女子退休1年画出140多幅粉笔画",
@@ -59033,6 +59097,14 @@
       "onboard_time": 1696464753,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156428,
+      "num": 156428,
+      "word": "美妆博主 膏状口红",
+      "onboard_time": 1698290851,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 156281,
@@ -59729,14 +59801,6 @@
       "onboard_time": 1696323872,
       "rank": 35,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 152700,
-      "num": 405118,
-      "word": "小米14首测超iPhone15Pro",
-      "onboard_time": 1698286894,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 152683,
@@ -61265,6 +61329,14 @@
       "onboard_time": 1697382337,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 144855,
+      "num": 144855,
+      "word": "大熊猫是天生的内八字",
+      "onboard_time": 1698290074,
+      "rank": 47,
+      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 144763,
@@ -63987,6 +64059,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129637,
+      "num": 129637,
+      "word": "独行侠vs马刺",
+      "onboard_time": 1698290313,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129630,
       "num": 129630,
       "word": "刘维对薛之谦放狠话",
@@ -66203,14 +66283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112461,
-      "num": 112461,
-      "word": "多名专家谈李佳琦是否涉嫌垄断",
-      "onboard_time": 1698290011,
-      "rank": 45,
-      "category": "社会新闻,网红"
-    },
-    {
       "raw_hot": 112408,
       "num": 112408,
       "word": "小柯基被亲了一口整个狗都开心了",
@@ -67057,14 +67129,6 @@
       "onboard_time": 1698067600,
       "rank": 42,
       "category": "社会新闻"
-    },
-    {
-      "raw_hot": 102856,
-      "num": 102856,
-      "word": "大熊猫是天生的内八字",
-      "onboard_time": 1698290074,
-      "rank": 47,
-      "category": "社会新闻,动物萌宠"
     },
     {
       "raw_hot": 102817,
