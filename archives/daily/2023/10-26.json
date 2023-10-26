@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698282650741,
+  "endTime": 1698283848395,
   "band_list": [
     {
       "raw_hot": 2901409,
@@ -11,7 +11,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 2106468,
+      "raw_hot": 2413561,
       "num": 2106468,
       "word": "如果不调休2024年假期将是这样的",
       "onboard_time": 1698280718,
@@ -75,12 +75,20 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 733620,
-      "num": 202285,
+      "raw_hot": 816386,
+      "num": 816386,
       "word": "中俄列车大劫案有多可怕",
       "onboard_time": 1698281319,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 755095,
+      "num": 755095,
+      "word": "染上毒瘾后外貌的真实变化",
+      "onboard_time": 1698248258,
+      "rank": 20,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 696659,
@@ -115,11 +123,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 572476,
-      "num": 572476,
-      "word": "染上毒瘾后外貌的真实变化",
-      "onboard_time": 1698248258,
-      "rank": 20,
+      "raw_hot": 531025,
+      "num": 531025,
+      "word": "快递小哥十年做公益被孩子叫熊大叔叔",
+      "onboard_time": 1698282939,
+      "rank": 6,
       "category": "社会新闻"
     },
     {
@@ -147,12 +155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 389731,
+      "num": 389731,
+      "word": "数十名俄飞行员险遭剧毒蛋糕团灭",
+      "onboard_time": 1698283174,
+      "rank": 11,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 383911,
       "num": 383911,
       "word": "苏有朋林心如综艺合体",
       "onboard_time": 1698267853,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 369470,
+      "num": 369470,
+      "word": "直播神十七发射",
+      "onboard_time": 1698281859,
+      "rank": 17,
+      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 359526,
@@ -217,14 +241,6 @@
       "onboard_time": 1698228214,
       "rank": 22,
       "category": "互联网,财经"
-    },
-    {
-      "raw_hot": 292280,
-      "num": 292280,
-      "word": "直播神十七发射",
-      "onboard_time": 1698281859,
-      "rank": 17,
-      "category": "社会新闻,科技"
     },
     {
       "raw_hot": 290219,
@@ -307,6 +323,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 250231,
+      "num": 250231,
+      "word": "姚明现身篮网主场",
+      "onboard_time": 1698282695,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249328,
       "num": 249328,
       "word": "TTG止步挑杯八强",
@@ -329,6 +353,14 @@
       "onboard_time": 1698235001,
       "rank": 21,
       "category": "作品衍生,美妆"
+    },
+    {
+      "raw_hot": 233935,
+      "num": 233935,
+      "word": "梅西中国行赛程确定",
+      "onboard_time": 1698282279,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 220998,
@@ -395,14 +427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208680,
-      "num": 208680,
-      "word": "梅西中国行赛程确定",
-      "onboard_time": 1698282279,
-      "rank": 27,
-      "category": "体育"
-    },
-    {
       "raw_hot": 206914,
       "num": 203307,
       "word": "YG回应权志龙涉嫌吸毒",
@@ -459,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 190700,
+      "num": 190700,
+      "word": "冰雪奇缘居然是10年前",
+      "onboard_time": 1698282876,
+      "rank": 25,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 181493,
       "num": 181493,
       "word": "天官赐福",
@@ -473,6 +505,14 @@
       "onboard_time": 1698250710,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 178689,
+      "num": 168150,
+      "word": "男子发现女儿非亲生前妻称自己也不知情",
+      "onboard_time": 1698283773,
+      "rank": 30,
+      "category": "社会新闻"
     },
     {
       "raw_hot": 178260,
@@ -531,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158952,
+      "num": 158952,
+      "word": "我要逆风去 成年人的电视剧",
+      "onboard_time": 1698282577,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158569,
       "num": 158569,
       "word": "女孩悄悄询问家人能否为民警买单",
@@ -587,14 +635,6 @@
       "category": "科技"
     },
     {
-      "raw_hot": 136029,
-      "num": 136029,
-      "word": "我要逆风去 成年人的电视剧",
-      "onboard_time": 1698282577,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 135213,
       "num": 135213,
       "word": "2024国考136个岗位无人报名",
@@ -617,6 +657,14 @@
       "onboard_time": 1698248737,
       "rank": 41,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 130025,
+      "num": 130025,
+      "word": "零跑汽车获Stellantis投资15亿欧元",
+      "onboard_time": 1698283835,
+      "rank": 44,
+      "category": "汽车"
     },
     {
       "raw_hot": 127784,
@@ -673,6 +721,14 @@
       "onboard_time": 1698144754,
       "rank": 46,
       "category": "美妆,网红"
+    },
+    {
+      "raw_hot": 105960,
+      "num": 105960,
+      "word": "我要逆风去",
+      "onboard_time": 1698283835,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 104706,
