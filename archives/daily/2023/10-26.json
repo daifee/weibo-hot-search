@@ -1,6 +1,6 @@
 {
   "startTime": 1698250880094,
-  "endTime": 1698329773011,
+  "endTime": 1698330851260,
   "band_list": [
     {
       "raw_hot": 4053614,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1529870,
+      "num": 1529870,
+      "word": "海底捞回应140斤女生应聘洗碗工被拒",
+      "onboard_time": 1698328176,
+      "rank": 1,
+      "category": "社会新闻"
+    },
+    {
       "raw_hot": 1517189,
       "num": 1517189,
       "word": "长江大学通报不雅视频事件",
@@ -233,14 +241,6 @@
       "onboard_time": 1698312814,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1195673,
-      "num": 1195673,
-      "word": "海底捞回应140斤女生应聘洗碗工被拒",
-      "onboard_time": 1698328176,
-      "rank": 1,
-      "category": "社会新闻"
     },
     {
       "raw_hot": 1126962,
@@ -619,19 +619,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590728,
+      "num": 590728,
+      "word": "张云龙直播不敢看钟楚曦",
+      "onboard_time": 1698318632,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 578522,
       "num": 578522,
       "word": "李沁官宣出演七夜雪",
       "onboard_time": 1698278255,
       "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 569981,
-      "num": 569981,
-      "word": "张云龙直播不敢看钟楚曦",
-      "onboard_time": 1698318632,
-      "rank": 35,
       "category": "剧集"
     },
     {
@@ -729,6 +729,14 @@
       "onboard_time": 1698298358,
       "rank": 45,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 499543,
+      "num": 499543,
+      "word": "赵子豪要结婚了",
+      "onboard_time": 1698328537,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 493848,
@@ -859,14 +867,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 427318,
-      "num": 427318,
-      "word": "赵子豪要结婚了",
-      "onboard_time": 1698328537,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 426918,
       "num": 426918,
       "word": "当我妈知道除夕不放假",
@@ -881,6 +881,14 @@
       "onboard_time": 1698278075,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 424975,
+      "num": 387509,
+      "word": "刘家昌发长文控诉前妻及儿子",
+      "onboard_time": 1698329023,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 422885,
@@ -1003,6 +1011,14 @@
       "category": "社会新闻,科技"
     },
     {
+      "raw_hot": 366546,
+      "num": 366546,
+      "word": "花儿与少年开始体现大局观了",
+      "onboard_time": 1698330037,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 362242,
       "num": 277526,
       "word": "谢娜抱的狗狗是小H",
@@ -1065,6 +1081,14 @@
       "onboard_time": 1698278015,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 331522,
+      "num": 331522,
+      "word": "直播间开始盯着对方降价了",
+      "onboard_time": 1698329319,
+      "rank": 29,
+      "category": "社会新闻,互联网"
     },
     {
       "raw_hot": 328982,
@@ -1249,6 +1273,14 @@
       "onboard_time": 1698319233,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298707,
+      "num": 298707,
+      "word": "THE9 歌单",
+      "onboard_time": 1698330341,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 296469,
@@ -1505,14 +1537,6 @@
       "onboard_time": 1698321032,
       "rank": 26,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 254414,
-      "num": 254414,
-      "word": "刘家昌发长文控诉前妻及儿子",
-      "onboard_time": 1698329023,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 254071,
@@ -1843,14 +1867,6 @@
       "category": "社会新闻"
     },
     {
-      "raw_hot": 218987,
-      "num": 264967,
-      "word": "直播间开始盯着对方降价了",
-      "onboard_time": 1698329319,
-      "rank": 29,
-      "category": "社会新闻,互联网"
-    },
-    {
       "raw_hot": 217212,
       "num": 217212,
       "word": "田耕纪结局",
@@ -1921,6 +1937,14 @@
       "onboard_time": 1698286535,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 212525,
+      "num": 212525,
+      "word": "王一博乌镇特种兵式观剧",
+      "onboard_time": 1698330819,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 211295,
@@ -2024,6 +2048,14 @@
       "word": "狼队战胜TTG",
       "onboard_time": 1698247840,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 204661,
+      "num": 204661,
+      "word": "XHW晋级挑杯四强",
+      "onboard_time": 1698330102,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -2225,6 +2257,14 @@
       "onboard_time": 1698286894,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 192245,
+      "num": 192245,
+      "word": "我们的美好生活",
+      "onboard_time": 1698330280,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 192064,
@@ -2665,6 +2705,14 @@
       "onboard_time": 1698284973,
       "rank": 43,
       "category": "社会新闻"
+    },
+    {
+      "raw_hot": 150990,
+      "num": 150990,
+      "word": "无幻太C了",
+      "onboard_time": 1698330700,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 149021,

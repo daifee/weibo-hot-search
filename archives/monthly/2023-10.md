@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 22:16:13
+本榜单时间：2023/10/01 00:19:44 ~ 2023/10/26 22:34:11
 </p>
 </blockquote>
 <p>
@@ -3111,6 +3111,12 @@ DOTA2中国队晋级决赛（热度：1546862）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B4%97%E7%A2%97%E5%B7%A5%E8%A2%AB%E6%8B%92%23" target="weibo">
+海底捞回应140斤女生应聘洗碗工被拒（热度：1529870）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%93%E6%9B%A6%20%E6%B5%81%E6%B5%AA%E7%8C%AB%E7%8B%97%E6%9C%89%E4%BB%80%E4%B9%88%E9%94%99%23" target="weibo">
 斓曦 流浪猫狗有什么错（热度：1525564）
 </a>
@@ -4535,12 +4541,6 @@ KT战胜WBG（热度：1279678）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E6%91%98%E8%80%B3%E8%BF%94%23" target="weibo">
 檀健次摘耳返（热度：1197179）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%9B%9E%E5%BA%94140%E6%96%A4%E5%A5%B3%E7%94%9F%E5%BA%94%E8%81%98%E6%B4%97%E7%A2%97%E5%B7%A5%E8%A2%AB%E6%8B%92%23" target="weibo">
-海底捞回应140斤女生应聘洗碗工被拒（热度：1195673）
 </a>
 </li>
 
